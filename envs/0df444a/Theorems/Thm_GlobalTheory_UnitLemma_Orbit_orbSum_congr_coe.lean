@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Orbit_orbSum_congr_coe
 -- name    : GlobalTheory.UnitLemma.Orbit.orbSum_congr_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:29:07.354257+00:00
 -- url     : https://prove2.me/theorems/e2655890-ee2f-46cb-932d-b27e29727c1b

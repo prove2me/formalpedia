@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_span_pow_generator_eq_top_of_charpoly_separable
 -- name    : GlobalTheory.T.span_pow_generator_eq_top_of_charpoly_separable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:59:26.236287+00:00
 -- url     : https://prove2.me/theorems/195e7685-364c-4126-ab9e-d01ef7bde280

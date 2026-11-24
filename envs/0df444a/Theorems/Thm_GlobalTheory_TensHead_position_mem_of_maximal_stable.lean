@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensHead_position_mem_of_maximal_stable
 -- name    : GlobalTheory.TensHead.position_mem_of_maximal_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:02:37.219147+00:00
 -- url     : https://prove2.me/theorems/1f53161d-c27d-48ca-8818-d356b79efd6a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_parPhi_mul_left
 -- name    : GlobalTheory.StepData.parPhi_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:49:47.052214+00:00
 -- url     : https://prove2.me/theorems/0fa7787a-70bb-418d-8728-1e0f08b79ba8

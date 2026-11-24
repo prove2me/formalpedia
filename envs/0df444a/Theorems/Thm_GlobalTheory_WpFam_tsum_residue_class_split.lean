@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WpFam_tsum_residue_class_split
 -- name    : GlobalTheory.WpFam.tsum_residue_class_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:57:13.52935+00:00
 -- url     : https://prove2.me/theorems/3150d23d-fcde-4a2d-9a0d-967973778b16

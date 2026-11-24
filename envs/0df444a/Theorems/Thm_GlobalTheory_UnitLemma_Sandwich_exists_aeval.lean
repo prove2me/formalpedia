@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Sandwich_exists_aeval
 -- name    : GlobalTheory.UnitLemma.Sandwich.exists_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:37:27.348348+00:00
 -- url     : https://prove2.me/theorems/4a4b11ed-48b2-4f64-ae72-420660518b47

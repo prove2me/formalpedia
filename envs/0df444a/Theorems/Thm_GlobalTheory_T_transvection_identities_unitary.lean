@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_transvection_identities_unitary
 -- name    : GlobalTheory.T.transvection_identities_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:10:44.345343+00:00
 -- url     : https://prove2.me/theorems/2664c74a-616e-4c9c-9277-8ee525293f71

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UpqUnimodular_isMulRightInvariant_of_continuousMulEquiv
 -- name    : GlobalTheory.UpqUnimodular.isMulRightInvariant_of_continuousMulEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:50:28.559684+00:00
 -- url     : https://prove2.me/theorems/f9271abc-8ca3-4c2a-bf55-b6060043f877

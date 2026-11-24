@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ValuationExtensionExistence_main
 -- name    : GlobalTheory.ValuationExtensionExistence.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:50:31.553837+00:00
 -- url     : https://prove2.me/theorems/d545f71e-f68c-415a-ad46-44a74520ad8c

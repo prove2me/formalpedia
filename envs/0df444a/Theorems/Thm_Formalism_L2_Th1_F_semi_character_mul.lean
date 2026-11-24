@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_semi_character_mul
 -- name    : Formalism.L2.Th1.F.semi_character_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:48:13.847058+00:00
 -- url     : https://prove2.me/theorems/de366dab-c4a0-4f17-a9ae-0800fa6d74c0

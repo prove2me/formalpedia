@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WpFam_ExpansionB_val_div_ne_int
 -- name    : GlobalTheory.WpFam.ExpansionB.val_div_ne_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:56:47.169061+00:00
 -- url     : https://prove2.me/theorems/667dee35-1e63-4c3f-aa04-77dd496cc70b

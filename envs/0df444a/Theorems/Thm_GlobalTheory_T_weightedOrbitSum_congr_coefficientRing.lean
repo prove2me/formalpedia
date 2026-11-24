@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_weightedOrbitSum_congr_coefficientRing
 -- name    : GlobalTheory.T.weightedOrbitSum_congr_coefficientRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:01:06.854845+00:00
 -- url     : https://prove2.me/theorems/04319d8a-817f-4e39-9d19-bd914d04a29f

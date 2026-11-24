@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryLog_exists_log_unitary
 -- name    : GlobalTheory.UnitaryLog.exists_log_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:40:24.606315+00:00
 -- url     : https://prove2.me/theorems/22d74bb0-bae8-458a-ab62-06f1684b5124

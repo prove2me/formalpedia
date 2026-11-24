@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_Model_coords_typeFrame
 -- name    : GlobalTheory.StepData.Model.coords_typeFrame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:00:11.197501+00:00
 -- url     : https://prove2.me/theorems/77c270ec-af6a-4616-974c-566e9a20f04a

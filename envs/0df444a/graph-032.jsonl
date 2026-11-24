@@ -35826,7 +35826,7 @@
 {"parent": "Kyprianou.Ch01.queueWorkload_nonneg", "child": "Kyprianou_Ch01_RiskQueueCore", "via": ["solution", "statement"]}
 {"parent": "OAI.SevenEighths.ProbePhysical.transport_original_ray_compensatedPhysicalProbe_low_loss", "child": "OAIHecke78B024", "via": ["solution", "statement"]}
 {"parent": "OAI.SevenEighths.ProbePhysical.transport_original_ray_compensatedPhysicalProbe_low_loss", "child": "HeckeSevenEighths", "via": ["solution", "statement"]}
-{"parent": "FasterWCTFPTAS.Main.Supplement.theorem_1_2", "child": "FasterWCTFPTAS_Main_Supplement_SchedulingPrograms", "via": ["statement"]}
+{"parent": "FasterWCTFPTAS.Main.Supplement.theorem_1_2", "child": "FasterWCTFPTAS_Main_Supplement_SchedulingPrograms", "via": ["solution", "statement"]}
 {"parent": "QMAPerfectCompleteness.Main.CertificateBlockCorrectness.mid_transports", "child": "QMAPerfectCompleteness_Proof_CertificateRangeCircuit", "via": ["solution", "statement"]}
 {"parent": "QMAPerfectCompleteness.Main.CertificateBlockCorrectness.mid_transports", "child": "QMAPerfectCompleteness_Proof_Dyadic", "via": ["solution", "statement"]}
 {"parent": "QMAPerfectCompleteness.Main.CertificateBlockCorrectness.mid_transports", "child": "QMAPerfectCompleteness_Proof_BlockStateCoordinates", "via": ["solution", "statement"]}

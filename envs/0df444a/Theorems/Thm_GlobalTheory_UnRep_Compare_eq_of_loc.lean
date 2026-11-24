@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_Compare_eq_of_loc
 -- name    : GlobalTheory.UnRep.Compare.eq_of_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:18:11.019385+00:00
 -- url     : https://prove2.me/theorems/c74270b5-b463-41cd-9365-d62e1f7a32e9

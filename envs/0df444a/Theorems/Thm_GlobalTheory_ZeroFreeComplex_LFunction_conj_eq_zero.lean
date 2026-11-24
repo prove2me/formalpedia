@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZeroFreeComplex_LFunction_conj_eq_zero
 -- name    : GlobalTheory.ZeroFreeComplex.LFunction_conj_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:03:19.66158+00:00
 -- url     : https://prove2.me/theorems/860ebd81-c6d3-4114-82e2-978f866b579b

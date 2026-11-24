@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmallExtLift_Rel_cocycle_fibre
 -- name    : GlobalTheory.SmallExtLift.Rel.cocycle_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:56:21.106305+00:00
 -- url     : https://prove2.me/theorems/eb6e8346-cf5d-466b-9cfa-9d5fe259e0e7

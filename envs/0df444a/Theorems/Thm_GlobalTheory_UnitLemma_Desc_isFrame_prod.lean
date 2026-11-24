@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_isFrame_prod
 -- name    : GlobalTheory.UnitLemma.Desc.isFrame_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:27:31.423589+00:00
 -- url     : https://prove2.me/theorems/ce7e5470-d99a-4e2e-9422-e3fd40bedb52

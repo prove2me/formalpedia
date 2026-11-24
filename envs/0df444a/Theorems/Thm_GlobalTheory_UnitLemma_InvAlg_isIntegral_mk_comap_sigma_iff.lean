@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_InvAlg_isIntegral_mk_comap_sigma_iff
 -- name    : GlobalTheory.UnitLemma.InvAlg.isIntegral_mk_comap_sigma_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:27:31.364847+00:00
 -- url     : https://prove2.me/theorems/c4749e0c-aa74-4077-a64b-f51363aa7486

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscClass_nrm_pow_mul_norm_latDisc_eq
 -- name    : GlobalTheory.DiscClass.nrm_pow_mul_norm_latDisc_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:05:07.610197+00:00
 -- url     : https://prove2.me/theorems/a992dd69-dcf1-4dec-801e-b9367c768cdd

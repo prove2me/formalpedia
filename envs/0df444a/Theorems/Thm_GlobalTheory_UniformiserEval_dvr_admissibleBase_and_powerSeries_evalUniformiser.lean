@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UniformiserEval_dvr_admissibleBase_and_powerSeries_evalUniformiser
 -- name    : GlobalTheory.UniformiserEval.dvr_admissibleBase_and_powerSeries_evalUniformiser
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:27:55.866852+00:00
 -- url     : https://prove2.me/theorems/516b65da-2237-43de-affd-2fe5cf48b30d

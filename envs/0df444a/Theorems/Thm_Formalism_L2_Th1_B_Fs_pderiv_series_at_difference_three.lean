@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Fs_pderiv_series_at_difference_three
 -- name    : Formalism.L2.Th1.B.Fs.pderiv_series_at_difference_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:59:15.109513+00:00
 -- url     : https://prove2.me/theorems/086c83a1-2d21-44d5-82c7-a5fcd72ebece

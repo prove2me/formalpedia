@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightTwoCompare_defCoord_eq
 -- name    : GlobalTheory.WeightTwoCompare.defCoord_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:52:16.856489+00:00
 -- url     : https://prove2.me/theorems/ff7bb3d1-1d32-49d6-907d-dd227b8d614f

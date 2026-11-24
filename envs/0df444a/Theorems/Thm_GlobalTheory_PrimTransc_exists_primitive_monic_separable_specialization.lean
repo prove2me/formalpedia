@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimTransc_exists_primitive_monic_separable_specialization
 -- name    : GlobalTheory.PrimTransc.exists_primitive_monic_separable_specialization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:54:32.395902+00:00
 -- url     : https://prove2.me/theorems/55837f58-bfe3-4d11-8b58-d2bcdcc67ed2

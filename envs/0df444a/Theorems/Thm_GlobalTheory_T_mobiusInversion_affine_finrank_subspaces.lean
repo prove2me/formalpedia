@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mobiusInversion_affine_finrank_subspaces
 -- name    : GlobalTheory.T.mobiusInversion_affine_finrank_subspaces
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:53:05.511487+00:00
 -- url     : https://prove2.me/theorems/c8a22a94-aeeb-4ae0-965b-c2597cc80ac3

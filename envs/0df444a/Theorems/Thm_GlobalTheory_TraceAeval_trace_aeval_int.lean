@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceAeval_trace_aeval_int
 -- name    : GlobalTheory.TraceAeval.trace_aeval_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:17:55.410749+00:00
 -- url     : https://prove2.me/theorems/a86b4d17-82f2-45a0-bfa5-d847fc28e032

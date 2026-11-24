@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramSelfDual_mem_iff_coord
 -- name    : GlobalTheory.UnramSelfDual.mem_iff_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:47:44.676929+00:00
 -- url     : https://prove2.me/theorems/c5a63dbe-83a5-4165-8d15-6a5492aa1a0a

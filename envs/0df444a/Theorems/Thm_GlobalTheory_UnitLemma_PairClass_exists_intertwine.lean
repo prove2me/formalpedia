@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_PairClass_exists_intertwine
 -- name    : GlobalTheory.UnitLemma.PairClass.exists_intertwine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:37:03.473831+00:00
 -- url     : https://prove2.me/theorems/5cfbe38e-92a9-4438-bf72-a9338a21c1fe

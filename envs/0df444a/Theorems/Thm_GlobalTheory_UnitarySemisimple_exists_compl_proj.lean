@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitarySemisimple_exists_compl_proj
 -- name    : GlobalTheory.UnitarySemisimple.exists_compl_proj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:53:31.756793+00:00
 -- url     : https://prove2.me/theorems/c2ad0d83-ea98-43da-b322-6d79c50ec6f2

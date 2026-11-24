@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_isPairMap_refl
 -- name    : GlobalTheory.SA.isPairMap_refl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:36:04.905302+00:00
 -- url     : https://prove2.me/theorems/fd01aa6d-a6e5-4efd-b841-b4eb3e66ab59

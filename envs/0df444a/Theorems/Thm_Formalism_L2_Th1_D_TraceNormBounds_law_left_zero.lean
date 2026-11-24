@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TraceNormBounds_law_left_zero
 -- name    : Formalism.L2.Th1.D.TraceNormBounds.law_left_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:00:58.132628+00:00
 -- url     : https://prove2.me/theorems/6c60b30e-5dc6-4235-9a6a-f0863b6b21ab

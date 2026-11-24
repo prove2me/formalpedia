@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_UnipPow_valuation_natCast_le_one
 -- name    : GlobalTheory.RootEx.UnipPow.valuation_natCast_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:08:44.335192+00:00
 -- url     : https://prove2.me/theorems/0c37ef64-23ba-4283-a91c-e5f8f9e47847

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ValIwasawa_exists_clear_col
 -- name    : GlobalTheory.ValIwasawa.exists_clear_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:50:15.074772+00:00
 -- url     : https://prove2.me/theorems/300925d3-d2a4-42f4-94dd-1e5b12245684

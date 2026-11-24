@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZetaHalfPlane_measurable_cutFract
 -- name    : GlobalTheory.ZetaHalfPlane.measurable_cutFract
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:03:39.025798+00:00
 -- url     : https://prove2.me/theorems/8712b680-0e52-4d42-853d-547c07b6c128

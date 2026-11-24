@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WhitCollapse_continuous_normF
 -- name    : GlobalTheory.WhitCollapse.continuous_normF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:55:50.02055+00:00
 -- url     : https://prove2.me/theorems/da4312f4-f6ab-4d87-ad0c-ac9514bf9fb4

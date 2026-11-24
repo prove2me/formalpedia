@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsExists_exists_torsSq
 -- name    : GlobalTheory.TorsExists.exists_torsSq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:59:57.773845+00:00
 -- url     : https://prove2.me/theorems/1f1e992e-dde8-4161-98ae-9616d080fae1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilExp_translT_translPt_comm
 -- name    : GlobalTheory.WeilExp.translT_translPt_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:54:34.542455+00:00
 -- url     : https://prove2.me/theorems/30cc2f20-0e2c-4738-94c4-32476888b35e

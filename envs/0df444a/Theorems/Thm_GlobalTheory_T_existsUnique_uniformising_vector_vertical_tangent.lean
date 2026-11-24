@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_existsUnique_uniformising_vector_vertical_tangent
 -- name    : GlobalTheory.T.existsUnique_uniformising_vector_vertical_tangent
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:44:46.161657+00:00
 -- url     : https://prove2.me/theorems/01f9c779-8de6-480b-ad14-6153bc91dbe9

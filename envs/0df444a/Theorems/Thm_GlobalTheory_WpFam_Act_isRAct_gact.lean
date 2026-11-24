@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WpFam_Act_isRAct_gact
 -- name    : GlobalTheory.WpFam.Act.isRAct_gact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:56:24.366271+00:00
 -- url     : https://prove2.me/theorems/1ba92486-e0b6-4d8b-8742-aaa1b31e764f

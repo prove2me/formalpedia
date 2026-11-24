@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_splitOm_rho
 -- name    : GlobalTheory.WeilM.splitOm_rho
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:54:50.354198+00:00
 -- url     : https://prove2.me/theorems/7278bd7e-8da5-4f53-9af2-f740fdfb4eb0

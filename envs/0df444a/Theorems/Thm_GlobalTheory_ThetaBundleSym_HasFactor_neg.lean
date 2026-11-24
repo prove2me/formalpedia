@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaBundleSym_HasFactor_neg
 -- name    : GlobalTheory.ThetaBundleSym.HasFactor.neg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:58:34.951797+00:00
 -- url     : https://prove2.me/theorems/eb044f4f-2847-4512-9e7a-48efb2429be5

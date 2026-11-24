@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WpFam_SepGL_vmul_ne_zero
 -- name    : GlobalTheory.WpFam.SepGL.vmul_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:56:54.105014+00:00
 -- url     : https://prove2.me/theorems/414b7445-3433-44c5-b5c1-4c009d1f1923

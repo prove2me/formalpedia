@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_adicCompletion_val_of_le
 -- name    : GlobalTheory.adicCompletion_val_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:05:53.848705+00:00
 -- url     : https://prove2.me/theorems/c0602c81-1a10-4e87-98b3-ed50c8b3f248

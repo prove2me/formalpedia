@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifLieBasis_isDiff_smul
 -- name    : GlobalTheory.UnifLieBasis.isDiff_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:18:39.990461+00:00
 -- url     : https://prove2.me/theorems/c6291bdb-5151-4c99-a836-ced6b2e9d201

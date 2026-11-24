@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_four_four
 -- name    : GlobalTheory.KSp.four_four
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:23:12.124813+00:00
 -- url     : https://prove2.me/theorems/9679821c-8b75-4f3b-9dc1-f5143bf15ce8

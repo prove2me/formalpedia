@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_SAdd_coeff_one_sW
 -- name    : Formalism.L2.Th1.B.SAdd.coeff_one_sW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:01:10.372796+00:00
 -- url     : https://prove2.me/theorems/631d0c2e-000b-45eb-9949-25772dc3059f

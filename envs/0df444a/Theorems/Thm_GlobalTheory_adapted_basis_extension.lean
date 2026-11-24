@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_adapted_basis_extension
 -- name    : GlobalTheory.adapted_basis_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:04:50.137849+00:00
 -- url     : https://prove2.me/theorems/073e48ef-6a02-47f5-916f-bfef98c3aa60

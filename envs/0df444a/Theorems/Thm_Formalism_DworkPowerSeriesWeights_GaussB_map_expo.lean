@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_GaussB_map_expo
 -- name    : Formalism.DworkPowerSeriesWeights.GaussB.map_expo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:05:06.407329+00:00
 -- url     : https://prove2.me/theorems/8e3daa37-2a1c-478b-a762-a867ebe79d5d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ValuedPrincipal_exists_least_of_discrete
 -- name    : GlobalTheory.ValuedPrincipal.exists_least_of_discrete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:50:40.450307+00:00
 -- url     : https://prove2.me/theorems/bfaf08fa-de4c-46b2-b302-fadeb03ea918

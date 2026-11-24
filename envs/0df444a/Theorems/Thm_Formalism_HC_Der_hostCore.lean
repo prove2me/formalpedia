@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_hostCore
 -- name    : Formalism.HC.Der.hostCore
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:00:30.89338+00:00
 -- url     : https://prove2.me/theorems/e145e28c-cb99-4e55-b973-86a66872adbb

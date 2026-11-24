@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorFrame_constantCoeff_rsub
 -- name    : GlobalTheory.MinorFrame.constantCoeff_rsub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:05:33.307813+00:00
 -- url     : https://prove2.me/theorems/73a5ae8e-324a-49e4-beb2-c26f43b36ba6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TraceNormBounds_constantCoeff_first_two_of_three
 -- name    : Formalism.L2.Th1.D.TraceNormBounds.constantCoeff_first_two_of_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:58:42.662443+00:00
 -- url     : https://prove2.me/theorems/0041ed2f-b3bd-4982-82c0-e3c76e24462d

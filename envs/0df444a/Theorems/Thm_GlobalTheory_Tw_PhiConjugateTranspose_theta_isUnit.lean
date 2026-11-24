@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_PhiConjugateTranspose_theta_isUnit
 -- name    : GlobalTheory.Tw.PhiConjugateTranspose.theta_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:13:38.785983+00:00
 -- url     : https://prove2.me/theorems/df92f1ad-6ad9-4550-b8b6-d79d07920c19

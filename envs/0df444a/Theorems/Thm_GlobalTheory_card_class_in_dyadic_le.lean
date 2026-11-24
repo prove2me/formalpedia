@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_class_in_dyadic_le
 -- name    : GlobalTheory.card_class_in_dyadic_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:06:50.254762+00:00
 -- url     : https://prove2.me/theorems/8cc94c74-56df-4523-840e-55143d44819f

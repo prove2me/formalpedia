@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_KoszulTors_koszul_tors
 -- name    : GlobalTheory.KeyKa.KoszulTors.koszul_tors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:49:08.038124+00:00
 -- url     : https://prove2.me/theorems/4db8f565-5b0d-4198-bed1-b05852404b66

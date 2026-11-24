@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_rep_omega1
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.rep_omega1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:05:24.241322+00:00
 -- url     : https://prove2.me/theorems/a13d0822-a8a1-4e5c-b4a7-21c7fafc4eaf

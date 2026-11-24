@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_ConePrime_exists_point
 -- name    : GlobalTheory.ZH.ConePrime.exists_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:01:35.470864+00:00
 -- url     : https://prove2.me/theorems/32706ebe-0c40-4324-a797-ec33e18ffec2

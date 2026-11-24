@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_transpose_invariant_of_conj_invariant_distribution_GL
 -- name    : GlobalTheory.T.transpose_invariant_of_conj_invariant_distribution_GL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:00:46.495277+00:00
 -- url     : https://prove2.me/theorems/ee5eb80b-6cd8-4ab3-8435-d3ae2c5b9a46

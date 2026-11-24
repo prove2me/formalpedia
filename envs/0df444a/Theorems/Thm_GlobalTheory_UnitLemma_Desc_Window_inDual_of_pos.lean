@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_Window_inDual_of_pos
 -- name    : GlobalTheory.UnitLemma.Desc.Window.inDual_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:26:07.387349+00:00
 -- url     : https://prove2.me/theorems/54d71dd0-7eda-490e-b983-af716f878f7e

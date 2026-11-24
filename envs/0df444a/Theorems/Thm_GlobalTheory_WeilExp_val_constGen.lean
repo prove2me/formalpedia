@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilExp_val_constGen
 -- name    : GlobalTheory.WeilExp.val_constGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:54:47.864448+00:00
 -- url     : https://prove2.me/theorems/43435268-2ec3-4bea-88c2-76ecc9f0453b

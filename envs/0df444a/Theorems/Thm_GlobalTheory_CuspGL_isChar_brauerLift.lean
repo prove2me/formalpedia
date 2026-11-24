@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_isChar_brauerLift
 -- name    : GlobalTheory.CuspGL.isChar_brauerLift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:33:57.948577+00:00
 -- url     : https://prove2.me/theorems/1176d7ee-52e7-4168-bb9b-cdb6e937f818

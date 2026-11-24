@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelUMod_Cayley_relIndex_unipLat
 -- name    : GlobalTheory.BorelUMod.Cayley.relIndex_unipLat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:50:14.905919+00:00
 -- url     : https://prove2.me/theorems/1eca37d7-35f7-4db9-b353-5913078d6c35

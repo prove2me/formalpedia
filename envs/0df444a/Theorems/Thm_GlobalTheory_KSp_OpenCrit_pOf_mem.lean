@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_OpenCrit_pOf_mem
 -- name    : GlobalTheory.KSp.OpenCrit.pOf_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:07:35.529711+00:00
 -- url     : https://prove2.me/theorems/0d119506-af1b-4b91-9985-5980593d54f8

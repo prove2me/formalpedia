@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightVal_gs_chiP_whisker
 -- name    : GlobalTheory.WeightVal.gs_chiP_whisker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:53:44.367943+00:00
 -- url     : https://prove2.me/theorems/f8f6c61c-9dae-4582-b686-0e4cb74e6063

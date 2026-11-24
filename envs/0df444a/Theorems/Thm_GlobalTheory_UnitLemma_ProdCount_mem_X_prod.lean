@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_ProdCount_mem_X_prod
 -- name    : GlobalTheory.UnitLemma.ProdCount.mem_X_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:28:43.343944+00:00
 -- url     : https://prove2.me/theorems/fb014ea2-81eb-4bb4-85e7-2aca561a4b85

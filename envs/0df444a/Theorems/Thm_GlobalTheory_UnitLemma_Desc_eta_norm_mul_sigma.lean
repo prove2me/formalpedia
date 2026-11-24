@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_eta_norm_mul_sigma
 -- name    : GlobalTheory.UnitLemma.Desc.eta_norm_mul_sigma
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:09:13.126074+00:00
 -- url     : https://prove2.me/theorems/554a3923-50cb-4734-8527-93bbb53e2fd4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_IsCoordFamily_toHom_preimage
 -- name    : GlobalTheory.ProjSpace.IsCoordFamily.toHom_preimage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:27:33.997211+00:00
 -- url     : https://prove2.me/theorems/e17b6249-488f-457d-97ab-2f53ce0218d1

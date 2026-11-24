@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_PhiOrder_cubN_eq_pot
 -- name    : GlobalTheory.UT.PhiOrder.cubN_eq_pot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:19:51.972237+00:00
 -- url     : https://prove2.me/theorems/8e1f4cf8-b92a-44e7-b48a-3414836c4ee5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_B5_eisenstein_G4_closure
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.B5.eisenstein_G4_closure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:36:54.810891+00:00
 -- url     : https://prove2.me/theorems/19b3e678-6b54-4634-81aa-634a85fe29d5

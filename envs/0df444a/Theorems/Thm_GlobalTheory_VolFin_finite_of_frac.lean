@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VolFin_finite_of_frac
 -- name    : GlobalTheory.VolFin.finite_of_frac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:50:53.012525+00:00
 -- url     : https://prove2.me/theorems/6bba671f-9c7e-4266-81f5-2be0631a11c1

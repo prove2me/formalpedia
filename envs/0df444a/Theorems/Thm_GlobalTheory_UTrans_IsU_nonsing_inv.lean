@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_IsU_nonsing_inv
 -- name    : GlobalTheory.UTrans.IsU.nonsing_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:21:20.257714+00:00
 -- url     : https://prove2.me/theorems/79e4e694-7785-4edb-9ee0-3dbacfbe28e3

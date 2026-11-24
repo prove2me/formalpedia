@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_LD_vanish
 -- name    : GlobalTheory.ThK.Dbl.LD.vanish
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:06:15.266788+00:00
 -- url     : https://prove2.me/theorems/39573ff6-6f5d-4e9b-ac38-cf8149aebe95

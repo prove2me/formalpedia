@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Wick_commute_contraction_rowContraction
 -- name    : GlobalTheory.Wick.commute_contraction_rowContraction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:55:41.815824+00:00
 -- url     : https://prove2.me/theorems/fd4adc5b-b0be-4d0e-8742-e64e6565cc78

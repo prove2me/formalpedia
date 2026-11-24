@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorFrame_pderiv_rsub
 -- name    : GlobalTheory.MinorFrame.pderiv_rsub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:06:05.930045+00:00
 -- url     : https://prove2.me/theorems/52463db1-52fa-4cb0-bc59-5cb5c2f601c7

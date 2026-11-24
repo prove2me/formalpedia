@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ValuationPowSubPow_valuation_pow_sub_pow_le
 -- name    : GlobalTheory.ValuationPowSubPow.valuation_pow_sub_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:50:14.374312+00:00
 -- url     : https://prove2.me/theorems/ed2b8557-5f98-423a-966c-288f84204b8b

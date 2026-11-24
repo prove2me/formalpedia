@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_SAdd_shear_two_variables_holds
 -- name    : Formalism.L2.Th1.B.SAdd.shear_two_variables_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:02:00.672826+00:00
 -- url     : https://prove2.me/theorems/e9a47bc5-acf7-43ba-9fee-1e4d7a665bca

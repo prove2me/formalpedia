@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Scale_pOf_map
 -- name    : Formalism.L2.Th1.F.Scale.pOf_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:20:18.60749+00:00
 -- url     : https://prove2.me/theorems/d7cf7d8d-dd5f-4612-aee3-e7bf661c3d23

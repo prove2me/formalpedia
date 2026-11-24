@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilTr_siegelRule_trRep
 -- name    : GlobalTheory.WeilTr.siegelRule_trRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:55:03.912402+00:00
 -- url     : https://prove2.me/theorems/6186315f-bbca-480d-ba1f-445ee910d8ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitVectorStabEq_hform_mulVec
 -- name    : GlobalTheory.UnitVectorStabEq.hform_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:38:50.664798+00:00
 -- url     : https://prove2.me/theorems/fb922b27-ec01-4ee7-9b9d-66f456768264

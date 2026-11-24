@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_SymmCommutant_entry_of_commute
 -- name    : GlobalTheory.ZM.SymmCommutant.entry_of_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:02:40.655452+00:00
 -- url     : https://prove2.me/theorems/b8ccad90-7bd7-405e-8418-8a9058d5a223

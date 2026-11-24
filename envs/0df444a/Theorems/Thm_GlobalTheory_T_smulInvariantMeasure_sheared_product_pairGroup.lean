@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_smulInvariantMeasure_sheared_product_pairGroup
 -- name    : GlobalTheory.T.smulInvariantMeasure_sheared_product_pairGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:59:19.465973+00:00
 -- url     : https://prove2.me/theorems/9ecf538d-88ac-4332-b71c-fce9461a8523

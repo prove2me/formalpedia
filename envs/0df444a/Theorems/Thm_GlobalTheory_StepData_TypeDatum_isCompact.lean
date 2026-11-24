@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_TypeDatum_isCompact
 -- name    : GlobalTheory.StepData.TypeDatum.isCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:49:01.107857+00:00
 -- url     : https://prove2.me/theorems/030a35fc-c13d-4d10-905e-81487e5eadd2

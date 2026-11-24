@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_KF_l_ne_zero_Kur
 -- name    : Formalism.L2.Th1.D.KF.l_ne_zero_Kur
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:53:48.333022+00:00
 -- url     : https://prove2.me/theorems/189f9d76-c3e7-4efc-9eba-48f40b39913a

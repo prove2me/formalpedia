@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_IntegersAway_isPrimitiveRoot_map_of_natCast_ne_zero
 -- name    : GlobalTheory.ZM.IntegersAway.isPrimitiveRoot_map_of_natCast_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:02:23.616902+00:00
 -- url     : https://prove2.me/theorems/ec5a3f9b-a7d3-4d42-ae03-76cef1e27aef

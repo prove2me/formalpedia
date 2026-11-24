@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilCriterion_measurable_modulus
 -- name    : GlobalTheory.WeilCriterion.measurable_modulus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:53:30.895808+00:00
 -- url     : https://prove2.me/theorems/bdc8009c-9213-43a7-901a-577d0fbd1d4f

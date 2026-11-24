@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoprimeBasisExistence_isPrincipalIdealRing_loc
 -- name    : GlobalTheory.CoprimeBasisExistence.isPrincipalIdealRing_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:49:18.358892+00:00
 -- url     : https://prove2.me/theorems/07620148-4e5e-4b4e-967c-4a7e9d51f528

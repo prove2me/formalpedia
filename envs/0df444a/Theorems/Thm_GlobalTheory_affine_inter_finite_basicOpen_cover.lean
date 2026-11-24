@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_affine_inter_finite_basicOpen_cover
 -- name    : GlobalTheory.affine_inter_finite_basicOpen_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:05:34.705828+00:00
 -- url     : https://prove2.me/theorems/df2d76bd-2ad8-4f60-a15c-f8843a7daa72

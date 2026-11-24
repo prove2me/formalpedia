@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_lam_iter_principal
 -- name    : GlobalTheory.StepData.lam_iter_principal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:01:41.639692+00:00
 -- url     : https://prove2.me/theorems/e91825c9-3c0e-4fb8-aeb0-530c27565e40

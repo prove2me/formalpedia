@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_evK_ker
 -- name    : Formalism.L2.Th1.D.evK_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:53:43.769524+00:00
 -- url     : https://prove2.me/theorems/4b41f34a-f9fc-4488-8f5d-009cd791afce

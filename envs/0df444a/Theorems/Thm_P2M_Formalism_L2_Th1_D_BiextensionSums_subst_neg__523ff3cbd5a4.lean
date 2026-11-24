@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_D_BiextensionSums_subst_neg__523ff3cbd5a4
 -- name    : P2M_Formalism_L2_Th1_D_BiextensionSums_subst_neg__523ff3cbd5a4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:00:42.097663+00:00
 -- url     : https://prove2.me/theorems/126cecce-1741-43fd-997b-e006068acab5

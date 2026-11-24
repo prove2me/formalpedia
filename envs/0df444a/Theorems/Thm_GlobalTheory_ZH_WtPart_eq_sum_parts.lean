@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_WtPart_eq_sum_parts
 -- name    : GlobalTheory.ZH.WtPart.eq_sum_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:03:04.304377+00:00
 -- url     : https://prove2.me/theorems/35b7f842-6096-4cfb-9e19-55f4bb5a289d

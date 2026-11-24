@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryCharacter_exists_param
 -- name    : GlobalTheory.UnitaryCharacter.exists_param
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:40:25.405208+00:00
 -- url     : https://prove2.me/theorems/04d7a3dd-9031-4098-b57d-e814ca468055

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramifiedEndFlat_residueFieldMap_surjective
 -- name    : GlobalTheory.UnramifiedEndFlat.residueFieldMap_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:49:47.45265+00:00
 -- url     : https://prove2.me/theorems/a07e7493-a971-41da-8b22-758acb24cb12

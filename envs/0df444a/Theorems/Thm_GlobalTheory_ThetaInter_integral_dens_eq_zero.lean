@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaInter_integral_dens_eq_zero
 -- name    : GlobalTheory.ThetaInter.integral_dens_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:06:02.735802+00:00
 -- url     : https://prove2.me/theorems/9a477ac5-ed39-43cf-85e7-12b1b2834c58

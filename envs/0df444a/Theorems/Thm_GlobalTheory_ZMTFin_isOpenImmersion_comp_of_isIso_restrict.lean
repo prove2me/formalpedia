@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZMTFin_isOpenImmersion_comp_of_isIso_restrict
 -- name    : GlobalTheory.ZMTFin.isOpenImmersion_comp_of_isIso_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:04:47.314922+00:00
 -- url     : https://prove2.me/theorems/5d61b16b-a330-4310-a4e2-a97bcaace0ca

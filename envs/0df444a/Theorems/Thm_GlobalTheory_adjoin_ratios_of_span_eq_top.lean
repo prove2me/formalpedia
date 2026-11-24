@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_adjoin_ratios_of_span_eq_top
 -- name    : GlobalTheory.adjoin_ratios_of_span_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:05:41.432503+00:00
 -- url     : https://prove2.me/theorems/25b89fb0-db55-422f-aaf7-da2da4f0f5aa

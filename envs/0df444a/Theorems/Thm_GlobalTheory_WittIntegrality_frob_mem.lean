@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WittIntegrality_frob_mem
 -- name    : GlobalTheory.WittIntegrality.frob_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:56:27.570923+00:00
 -- url     : https://prove2.me/theorems/929cd03b-6332-47ae-9c3b-167032519526

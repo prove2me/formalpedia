@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightedLS_det_eq_sum
 -- name    : GlobalTheory.WeightedLS.det_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:53:06.09992+00:00
 -- url     : https://prove2.me/theorems/e0b595de-ff86-4f35-b075-c2f8926c4583

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_torus_orbit_lattice_count_bounded_by_rho
 -- name    : GlobalTheory.T.torus_orbit_lattice_count_bounded_by_rho
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:59:28.818025+00:00
 -- url     : https://prove2.me/theorems/1d494be4-6ae0-4bf5-b01c-5eeeeac0338e

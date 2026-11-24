@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_slice_prod
 -- name    : Formalism.DworkPowerSeriesWeights.slice_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:51:55.887741+00:00
 -- url     : https://prove2.me/theorems/c9251b8e-7459-402d-91f3-fdaed35d4d39

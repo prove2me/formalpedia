@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightGen_exists_mem_chart
 -- name    : GlobalTheory.WeightGen.exists_mem_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:52:49.434162+00:00
 -- url     : https://prove2.me/theorems/59e3755d-2390-4218-a2fa-6d61093317bb

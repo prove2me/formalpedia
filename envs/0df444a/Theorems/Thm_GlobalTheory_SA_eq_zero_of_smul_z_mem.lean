@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_eq_zero_of_smul_z_mem
 -- name    : GlobalTheory.SA.eq_zero_of_smul_z_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:47:09.075976+00:00
 -- url     : https://prove2.me/theorems/c11ef035-b8a6-46e2-a2cd-66ba6d6928db

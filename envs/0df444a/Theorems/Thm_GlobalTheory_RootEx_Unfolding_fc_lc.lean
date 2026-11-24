@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Unfolding_fc_lc
 -- name    : GlobalTheory.RootEx.Unfolding.fc_lc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:04:09.351012+00:00
 -- url     : https://prove2.me/theorems/2a8ccfa5-1fee-4abc-a7c7-ddf186e234bd

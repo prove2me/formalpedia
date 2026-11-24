@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_FullLevel_charZero_of_hom
 -- name    : GlobalTheory.ZM.FullLevel.charZero_of_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:04:15.35285+00:00
 -- url     : https://prove2.me/theorems/a91611a4-7da3-4f89-968a-e3ffc40112d4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_Iota_mulVec_mem
 -- name    : GlobalTheory.SgGlob.Iota.mulVec_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:57:47.502299+00:00
 -- url     : https://prove2.me/theorems/5a5533a5-2ca2-411d-8f77-00b0df3356e2

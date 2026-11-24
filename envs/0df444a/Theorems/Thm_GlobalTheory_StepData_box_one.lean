@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_box_one
 -- name    : GlobalTheory.StepData.box_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:49:53.822862+00:00
 -- url     : https://prove2.me/theorems/cc8fddfd-1039-4d56-a5ea-b1725be43b6d

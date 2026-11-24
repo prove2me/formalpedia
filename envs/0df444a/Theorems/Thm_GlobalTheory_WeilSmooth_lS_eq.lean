@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilSmooth_lS_eq
 -- name    : GlobalTheory.WeilSmooth.lS_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:55:12.579951+00:00
 -- url     : https://prove2.me/theorems/d4fd2711-b5ba-4091-9073-738505a963c9

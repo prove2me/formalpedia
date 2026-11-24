@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WCub_alg
 -- name    : GlobalTheory.WCub.alg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:52:28.732117+00:00
 -- url     : https://prove2.me/theorems/754b79e2-bd86-4059-a0fd-3213fbbdfc78

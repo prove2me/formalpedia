@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TruncGauss_trunc_gauss
 -- name    : GlobalTheory.TruncGauss.trunc_gauss
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:12:53.968985+00:00
 -- url     : https://prove2.me/theorems/d56af4fb-a39c-43a2-8fbe-06865c72aa8e

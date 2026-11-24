@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isUnit_det_conjugationMatrix_integralBasis
 -- name    : GlobalTheory.T.isUnit_det_conjugationMatrix_integralBasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:50:44.784151+00:00
 -- url     : https://prove2.me/theorems/7b1e79c8-9551-4827-807d-1a2c3cf890e1

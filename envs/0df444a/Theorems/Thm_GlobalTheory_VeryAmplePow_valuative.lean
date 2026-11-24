@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VeryAmplePow_valuative
 -- name    : GlobalTheory.VeryAmplePow.valuative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:51:15.184984+00:00
 -- url     : https://prove2.me/theorems/fa849c6b-f5c9-4650-86d9-81d62e9d797b

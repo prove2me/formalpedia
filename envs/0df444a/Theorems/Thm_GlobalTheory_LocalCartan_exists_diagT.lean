@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalCartan_exists_diagT
 -- name    : GlobalTheory.LocalCartan.exists_diagT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:02:15.639197+00:00
 -- url     : https://prove2.me/theorems/ba95204e-da08-45b6-a074-ac4c85d8560b

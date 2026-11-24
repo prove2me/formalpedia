@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_VacShape_isMu_eps
 -- name    : GlobalTheory.Phase.VacShape.isMu_eps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:55:05.096362+00:00
 -- url     : https://prove2.me/theorems/499fc377-021d-4243-a952-e7f5c22d6db2

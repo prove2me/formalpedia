@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusNil_isIso_torusPt_of
 -- name    : GlobalTheory.TorusNil.isIso_torusPt_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:04:44.145053+00:00
 -- url     : https://prove2.me/theorems/104347e6-cb15-4cc3-a71c-42ec84e7fb7d

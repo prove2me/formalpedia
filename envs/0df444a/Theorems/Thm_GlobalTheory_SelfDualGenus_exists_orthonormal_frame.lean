@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualGenus_exists_orthonormal_frame
 -- name    : GlobalTheory.SelfDualGenus.exists_orthonormal_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:11:07.711356+00:00
 -- url     : https://prove2.me/theorems/ef95cb02-d2e8-4d54-87b1-3dedb1d2b01c

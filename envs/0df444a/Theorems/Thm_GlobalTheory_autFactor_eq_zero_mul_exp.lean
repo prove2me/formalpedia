@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_autFactor_eq_zero_mul_exp
 -- name    : GlobalTheory.autFactor_eq_zero_mul_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:06:50.035546+00:00
 -- url     : https://prove2.me/theorems/834f6819-a981-4947-858e-62ff27fa768a

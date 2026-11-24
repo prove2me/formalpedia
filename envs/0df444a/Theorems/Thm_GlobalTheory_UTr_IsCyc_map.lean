@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTr_IsCyc_map
 -- name    : GlobalTheory.UTr.IsCyc.map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:53:09.632365+00:00
 -- url     : https://prove2.me/theorems/353a16ca-b5eb-4339-9cef-b60eaa5c8089

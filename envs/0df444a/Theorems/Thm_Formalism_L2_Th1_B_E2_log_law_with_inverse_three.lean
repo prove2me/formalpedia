@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_E2_log_law_with_inverse_three
 -- name    : Formalism.L2.Th1.B.E2.log_law_with_inverse_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:02:52.726998+00:00
 -- url     : https://prove2.me/theorems/58729831-72e9-438e-8997-7bd56a4355f5

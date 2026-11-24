@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_parahoric_lam
 -- name    : GlobalTheory.StepData.parahoric_lam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:50:08.089312+00:00
 -- url     : https://prove2.me/theorems/58d0ec61-c435-4145-ba57-12e8f9bcf993

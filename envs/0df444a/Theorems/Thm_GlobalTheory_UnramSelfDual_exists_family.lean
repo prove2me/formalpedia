@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramSelfDual_exists_family
 -- name    : GlobalTheory.UnramSelfDual.exists_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:49:17.573646+00:00
 -- url     : https://prove2.me/theorems/970b6cdc-61d2-4bb4-bb03-2092362b798e

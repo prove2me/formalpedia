@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TraceNormBounds_integral_ps
 -- name    : Formalism.L2.Th1.D.TraceNormBounds.integral_ps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:57:53.335799+00:00
 -- url     : https://prove2.me/theorems/de30ee33-c015-4b54-b143-6877c540b833

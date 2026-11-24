@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_finite_homogeneous_inf
 -- name    : GlobalTheory.ZM.finite_homogeneous_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:03:10.006505+00:00
 -- url     : https://prove2.me/theorems/a31eabca-408f-4360-86ad-d7613e9362d0

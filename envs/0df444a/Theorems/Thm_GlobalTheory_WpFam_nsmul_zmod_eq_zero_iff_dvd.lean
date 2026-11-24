@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WpFam_nsmul_zmod_eq_zero_iff_dvd
 -- name    : GlobalTheory.WpFam.nsmul_zmod_eq_zero_iff_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:57:09.383139+00:00
 -- url     : https://prove2.me/theorems/bec8ca46-3644-4c33-a1dc-ef79fab918e3

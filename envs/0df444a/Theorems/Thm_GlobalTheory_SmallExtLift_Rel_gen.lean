@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmallExtLift_Rel_gen
 -- name    : GlobalTheory.SmallExtLift.Rel.gen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:46:26.421807+00:00
 -- url     : https://prove2.me/theorems/6ce54b9e-0b28-4494-88e3-1dd0eb821fcd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryZariskiDense_c_one
 -- name    : GlobalTheory.UnitaryZariskiDense.c_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:45:16.206325+00:00
 -- url     : https://prove2.me/theorems/8df80721-3ebf-4c7a-948c-cf9ad9a68219

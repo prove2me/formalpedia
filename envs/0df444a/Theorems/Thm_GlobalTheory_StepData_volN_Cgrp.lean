@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_volN_Cgrp
 -- name    : GlobalTheory.StepData.volN_Cgrp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:49:06.957918+00:00
 -- url     : https://prove2.me/theorems/36bd4ace-79a2-4717-b469-4490e3fa8453

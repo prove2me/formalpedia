@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_ThIdeal_hasTh_unit_mul
 -- name    : GlobalTheory.ZM.ThIdeal.hasTh_unit_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:02:48.059159+00:00
 -- url     : https://prove2.me/theorems/f5078159-38c0-4305-bd01-4e5e27ae2f07

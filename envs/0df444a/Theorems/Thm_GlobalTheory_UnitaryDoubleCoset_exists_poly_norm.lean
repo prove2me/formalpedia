@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryDoubleCoset_exists_poly_norm
 -- name    : GlobalTheory.UnitaryDoubleCoset.exists_poly_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:46:40.722394+00:00
 -- url     : https://prove2.me/theorems/e4a9d7d9-a79f-4d45-9c3d-b60f21f31a2d

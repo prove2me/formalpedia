@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_hkIntLimit_of
 -- name    : Formalism.L2.Th1.F.hkIntLimit_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:32:49.535356+00:00
 -- url     : https://prove2.me/theorems/f2c654d7-4b86-4f97-b428-8499fa64dda1

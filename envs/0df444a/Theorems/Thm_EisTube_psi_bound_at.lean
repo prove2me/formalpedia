@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EisTube_psi_bound_at
 -- name    : EisTube.psi_bound_at
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:21.93889+00:00
 -- url     : https://prove2.me/theorems/fc6b98c9-b591-439d-b04f-bfee5fb62f55

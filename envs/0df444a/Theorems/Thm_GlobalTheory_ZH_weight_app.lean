@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_weight_app
 -- name    : GlobalTheory.ZH.weight_app
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:03:15.724002+00:00
 -- url     : https://prove2.me/theorems/cd1012ff-2eda-4a90-9345-1c0c4df29317

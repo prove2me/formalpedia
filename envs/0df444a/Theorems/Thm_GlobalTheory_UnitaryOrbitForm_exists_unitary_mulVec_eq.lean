@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryOrbitForm_exists_unitary_mulVec_eq
 -- name    : GlobalTheory.UnitaryOrbitForm.exists_unitary_mulVec_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:45:20.397904+00:00
 -- url     : https://prove2.me/theorems/ad3c43eb-eea1-4607-bf82-bc51c014c63b

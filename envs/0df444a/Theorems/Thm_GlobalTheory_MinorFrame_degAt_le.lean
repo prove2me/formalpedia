@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorFrame_degAt_le
 -- name    : GlobalTheory.MinorFrame.degAt_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:05:36.306633+00:00
 -- url     : https://prove2.me/theorems/32e4b2be-fd7c-43c4-8cb5-c36a12435c0e

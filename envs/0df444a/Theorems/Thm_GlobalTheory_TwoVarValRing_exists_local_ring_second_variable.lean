@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwoVarValRing_exists_local_ring_second_variable
 -- name    : GlobalTheory.TwoVarValRing.exists_local_ring_second_variable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:16:19.724082+00:00
 -- url     : https://prove2.me/theorems/c937fdec-0ecd-401e-944c-7bf9bb03aa55

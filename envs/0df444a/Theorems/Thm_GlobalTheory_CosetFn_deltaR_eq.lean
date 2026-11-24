@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CosetFn_deltaR_eq
 -- name    : GlobalTheory.CosetFn.deltaR_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:09:09.974784+00:00
 -- url     : https://prove2.me/theorems/16e968e1-5591-4979-90fb-456304f6d0ff

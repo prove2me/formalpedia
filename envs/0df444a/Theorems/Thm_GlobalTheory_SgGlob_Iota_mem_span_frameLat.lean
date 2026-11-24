@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_Iota_mem_span_frameLat
 -- name    : GlobalTheory.SgGlob.Iota.mem_span_frameLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:57:49.971898+00:00
 -- url     : https://prove2.me/theorems/058ea66d-6dac-48c9-b9f3-7cf389706946

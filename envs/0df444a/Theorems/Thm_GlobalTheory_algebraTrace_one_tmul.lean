@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_algebraTrace_one_tmul
 -- name    : GlobalTheory.algebraTrace_one_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:05:36.844613+00:00
 -- url     : https://prove2.me/theorems/39639d4c-d7b4-4a4b-867b-47847069c85e

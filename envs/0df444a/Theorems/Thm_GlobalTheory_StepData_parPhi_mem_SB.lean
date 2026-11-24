@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_parPhi_mem_SB
 -- name    : GlobalTheory.StepData.parPhi_mem_SB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:50:23.742219+00:00
 -- url     : https://prove2.me/theorems/5a49a6e4-fc83-400d-8f13-19f2c1795549

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZModDual_stdAddChar_comp_bijective
 -- name    : GlobalTheory.ZModDual.stdAddChar_comp_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:03:28.105504+00:00
 -- url     : https://prove2.me/theorems/0534af2c-38e0-4f5b-8dea-fd99a6dbfa5f

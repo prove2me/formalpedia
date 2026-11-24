@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_IsUWeilPair_isWeilPair
 -- name    : GlobalTheory.WeilM.IsUWeilPair.isWeilPair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:54:10.642799+00:00
 -- url     : https://prove2.me/theorems/b7004fd9-f1b3-4fb8-99a9-ea29a53486f1

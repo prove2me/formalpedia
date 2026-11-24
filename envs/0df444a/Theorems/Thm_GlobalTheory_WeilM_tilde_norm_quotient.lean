@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_tilde_norm_quotient
 -- name    : GlobalTheory.WeilM.tilde_norm_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:54:54.779673+00:00
 -- url     : https://prove2.me/theorems/a8ac9d5a-37d1-4faa-a722-48355c042184

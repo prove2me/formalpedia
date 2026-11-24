@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnfoldNormal_aedisjoint_pairGroup_smul_shear_image
 -- name    : GlobalTheory.UnfoldNormal.aedisjoint_pairGroup_smul_shear_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:24:33.374186+00:00
 -- url     : https://prove2.me/theorems/26919aad-c70d-4673-bb4f-9921570cbe39

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_aestronglyMeasurable_fderiv_apply_of_param
 -- name    : GlobalTheory.aestronglyMeasurable_fderiv_apply_of_param
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:05:48.193438+00:00
 -- url     : https://prove2.me/theorems/3663c4ed-773f-4ff0-a911-76c1d177e082

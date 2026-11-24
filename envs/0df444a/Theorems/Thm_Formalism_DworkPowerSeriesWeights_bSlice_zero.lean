@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_bSlice_zero
 -- name    : Formalism.DworkPowerSeriesWeights.bSlice_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:55:58.253043+00:00
 -- url     : https://prove2.me/theorems/a74ae3d7-632a-441b-b52e-9f3f6a17138d

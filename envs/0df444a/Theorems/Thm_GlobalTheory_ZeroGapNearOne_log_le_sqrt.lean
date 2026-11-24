@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZeroGapNearOne_log_le_sqrt
 -- name    : GlobalTheory.ZeroGapNearOne.log_le_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:03:59.377849+00:00
 -- url     : https://prove2.me/theorems/d11992b2-2d2d-416c-93b7-bd77462a429c

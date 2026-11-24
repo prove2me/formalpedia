@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryZariskiDense_eval_div_mul_pow_totalDegree_clear_denominators
 -- name    : GlobalTheory.UnitaryZariskiDense.eval_div_mul_pow_totalDegree_clear_denominators
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:47:43.447434+00:00
 -- url     : https://prove2.me/theorems/32a2a220-3f24-4615-81ad-7f6c6abfce50

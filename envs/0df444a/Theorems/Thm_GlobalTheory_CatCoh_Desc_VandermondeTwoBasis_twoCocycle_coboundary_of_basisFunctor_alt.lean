@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CatCoh_Desc_VandermondeTwoBasis_twoCocycle_coboundary_of_basisFunctor_alt
 -- name    : GlobalTheory.CatCoh.Desc.VandermondeTwoBasis.twoCocycle_coboundary_of_basisFunctor_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:26:10.004506+00:00
 -- url     : https://prove2.me/theorems/74193e9e-01e4-4659-9fd6-dc1df70521ab

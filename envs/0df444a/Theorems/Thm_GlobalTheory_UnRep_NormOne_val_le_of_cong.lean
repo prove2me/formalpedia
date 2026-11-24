@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_NormOne_val_le_of_cong
 -- name    : GlobalTheory.UnRep.NormOne.val_le_of_cong
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:24:20.372049+00:00
 -- url     : https://prove2.me/theorems/0e8b3726-f92c-4882-adb0-0c7a9d87cf26

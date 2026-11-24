@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZetaFractionalIntegral_zeta_eq_mul_integral_floor
 -- name    : GlobalTheory.ZetaFractionalIntegral.zeta_eq_mul_integral_floor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:03:40.2308+00:00
 -- url     : https://prove2.me/theorems/1f3573a1-d6bc-4d26-b636-1fdc195d7b69

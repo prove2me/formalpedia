@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_adicLevelMap_self
 -- name    : GlobalTheory.adicLevelMap_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:05:50.567801+00:00
 -- url     : https://prove2.me/theorems/d16a407a-492a-45b9-8349-4539c1a3c120

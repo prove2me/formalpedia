@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryZariskiDense_eq_zero_of_eval_real
 -- name    : GlobalTheory.UnitaryZariskiDense.eq_zero_of_eval_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:46:18.493805+00:00
 -- url     : https://prove2.me/theorems/ec5d1773-585d-469f-880e-4178acd6d59a

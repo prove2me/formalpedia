@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_involution_residue_pow_and_roots_of_unity
 -- name    : GlobalTheory.T.involution_residue_pow_and_roots_of_unity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:30:41.035827+00:00
 -- url     : https://prove2.me/theorems/ae0a2661-774b-4058-b8b3-56680aff16d0

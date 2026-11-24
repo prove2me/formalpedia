@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_invariantSubspaceMobiusInverse_one_prod_Ico
 -- name    : GlobalTheory.T.invariantSubspaceMobiusInverse_one_prod_Ico
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:16:17.38717+00:00
 -- url     : https://prove2.me/theorems/439d51ed-3273-4ff5-b55d-6beadb86aef4

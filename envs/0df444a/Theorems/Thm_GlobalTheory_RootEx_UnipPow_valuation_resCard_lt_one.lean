@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_UnipPow_valuation_resCard_lt_one
 -- name    : GlobalTheory.RootEx.UnipPow.valuation_resCard_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:09:32.41196+00:00
 -- url     : https://prove2.me/theorems/3dbd4f55-ed3a-4cfd-8162-a8b31a32d472

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_adjoin_rootOfUnity_eq_integers
 -- name    : GlobalTheory.UnitLemma.Unr.adjoin_rootOfUnity_eq_integers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:37:26.37804+00:00
 -- url     : https://prove2.me/theorems/97ce8459-dc11-4865-bf92-4c62ce52d1dd

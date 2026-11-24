@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZJ_isPullback_of_comp_mono
 -- name    : GlobalTheory.ZJ.isPullback_of_comp_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:02:29.539809+00:00
 -- url     : https://prove2.me/theorems/426e9ce9-2d7a-437e-a2bd-9f581e9ae308

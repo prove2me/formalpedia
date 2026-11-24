@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_antitone_filtration_exists_adapted_linearIndep_set
 -- name    : GlobalTheory.antitone_filtration_exists_adapted_linearIndep_set
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:05:55.681133+00:00
 -- url     : https://prove2.me/theorems/368d2690-f4ca-4684-85b7-1a7ce29bac2e

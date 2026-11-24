@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_FormSec_valHom_constFn
 -- name    : GlobalTheory.ZH.FormSec.valHom_constFn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:02:22.880787+00:00
 -- url     : https://prove2.me/theorems/395227d4-a03c-4c31-b5ea-9b6db82fbf75

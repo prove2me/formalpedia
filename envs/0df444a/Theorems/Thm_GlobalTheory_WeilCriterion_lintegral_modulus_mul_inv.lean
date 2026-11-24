@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilCriterion_lintegral_modulus_mul_inv
 -- name    : GlobalTheory.WeilCriterion.lintegral_modulus_mul_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:52:37.428192+00:00
 -- url     : https://prove2.me/theorems/4094e711-7f47-45bd-ae46-a872a00fde7b

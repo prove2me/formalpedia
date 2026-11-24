@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_map_maximalIdeal
 -- name    : GlobalTheory.UnitLemma.Unr.map_maximalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:13:28.758076+00:00
 -- url     : https://prove2.me/theorems/70466c1f-2769-42cd-9cf0-e2047f4aa338

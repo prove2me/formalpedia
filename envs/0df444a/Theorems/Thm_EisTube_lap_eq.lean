@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EisTube_lap_eq
 -- name    : EisTube.lap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:19.617243+00:00
 -- url     : https://prove2.me/theorems/933c54ae-385b-4592-aa31-017ed984776d

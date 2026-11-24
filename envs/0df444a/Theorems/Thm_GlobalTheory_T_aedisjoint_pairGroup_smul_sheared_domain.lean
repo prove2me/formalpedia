@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_aedisjoint_pairGroup_smul_sheared_domain
 -- name    : GlobalTheory.T.aedisjoint_pairGroup_smul_sheared_domain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:26:16.206298+00:00
 -- url     : https://prove2.me/theorems/79f285b4-5801-47eb-a151-6c81913bd137

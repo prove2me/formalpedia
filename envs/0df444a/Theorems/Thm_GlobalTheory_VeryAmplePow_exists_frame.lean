@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VeryAmplePow_exists_frame
 -- name    : GlobalTheory.VeryAmplePow.exists_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:50:43.429328+00:00
 -- url     : https://prove2.me/theorems/75070941-76dd-45b2-83fa-4884ef10e4e1

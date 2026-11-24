@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_Iota_det_mul_last
 -- name    : GlobalTheory.SgGlob.Iota.det_mul_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:57:01.198697+00:00
 -- url     : https://prove2.me/theorems/4d6e00e1-bb55-4534-90ef-80dc6fccb108

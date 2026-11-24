@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_EmbedLocal_isPullback_whisker
 -- name    : GlobalTheory.ZM.EmbedLocal.isPullback_whisker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:03:00.588708+00:00
 -- url     : https://prove2.me/theorems/5690a097-93b9-46c1-a313-2b7da4a04304

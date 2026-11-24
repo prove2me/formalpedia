@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_index_unitsLocalSquaresFiniteRealPlaces_le
 -- name    : GlobalTheory.T.index_unitsLocalSquaresFiniteRealPlaces_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:46:36.367584+00:00
 -- url     : https://prove2.me/theorems/a0f96930-93a1-4902-a37b-ffaf89ab1322

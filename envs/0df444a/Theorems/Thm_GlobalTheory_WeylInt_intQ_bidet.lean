@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeylInt_intQ_bidet
 -- name    : GlobalTheory.WeylInt.intQ_bidet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:56:04.632798+00:00
 -- url     : https://prove2.me/theorems/66572fac-363d-460c-a7dd-566a12441be4

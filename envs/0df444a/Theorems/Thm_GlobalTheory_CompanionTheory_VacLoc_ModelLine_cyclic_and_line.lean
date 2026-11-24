@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_VacLoc_ModelLine_cyclic_and_line
 -- name    : GlobalTheory.CompanionTheory.VacLoc.ModelLine.cyclic_and_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:21:23.443691+00:00
 -- url     : https://prove2.me/theorems/acf844b4-ede7-4997-9d44-bb157d95d6a2

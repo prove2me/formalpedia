@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_E2_subst_series_at_difference_three
 -- name    : Formalism.L2.Th1.B.E2.subst_series_at_difference_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:03:14.348818+00:00
 -- url     : https://prove2.me/theorems/2f4edea5-ad10-4b34-a0c3-26be9a8c4ee5

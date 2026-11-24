@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VolFin_Den_finset
 -- name    : GlobalTheory.VolFin.Den.finset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:50:36.102009+00:00
 -- url     : https://prove2.me/theorems/026fd582-40d1-47d1-a350-bb5204047b30

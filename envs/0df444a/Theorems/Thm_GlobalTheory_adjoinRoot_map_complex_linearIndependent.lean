@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_adjoinRoot_map_complex_linearIndependent
 -- name    : GlobalTheory.adjoinRoot_map_complex_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:06:09.093109+00:00
 -- url     : https://prove2.me/theorems/278468c0-8914-4a11-a348-36812ae4512f

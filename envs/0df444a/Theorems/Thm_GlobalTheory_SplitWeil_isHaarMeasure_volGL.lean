@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_isHaarMeasure_volGL
 -- name    : GlobalTheory.SplitWeil.isHaarMeasure_volGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:28:13.67574+00:00
 -- url     : https://prove2.me/theorems/7b2257ca-a56e-4809-8b25-58e26eb9840b

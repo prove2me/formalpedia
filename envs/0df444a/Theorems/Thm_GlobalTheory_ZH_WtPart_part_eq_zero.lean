@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_WtPart_part_eq_zero
 -- name    : GlobalTheory.ZH.WtPart.part_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:02:46.285411+00:00
 -- url     : https://prove2.me/theorems/8c63e713-84e1-4aa5-a576-c83d5b05ab00

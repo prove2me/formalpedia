@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZeroFreeComplex_log_zero_le
 -- name    : GlobalTheory.ZeroFreeComplex.log_zero_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:03:10.021795+00:00
 -- url     : https://prove2.me/theorems/bd36792f-ef97-47c5-ae60-f585d08939c0

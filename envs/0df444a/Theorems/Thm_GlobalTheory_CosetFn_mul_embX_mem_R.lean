@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CosetFn_mul_embX_mem_R
 -- name    : GlobalTheory.CosetFn.mul_embX_mem_R
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:08:30.390522+00:00
 -- url     : https://prove2.me/theorems/46dd9c55-9d24-4232-8f67-f633217b2f38

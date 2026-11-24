@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Scale_uSer_map
 -- name    : Formalism.L2.Th1.F.Scale.uSer_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:20:20.12118+00:00
 -- url     : https://prove2.me/theorems/575c9530-7ee7-471a-ac13-609c8e08b3f1

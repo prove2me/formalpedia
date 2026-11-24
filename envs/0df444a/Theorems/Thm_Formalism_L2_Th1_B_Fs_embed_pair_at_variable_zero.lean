@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Fs_embed_pair_at_variable_zero
 -- name    : Formalism.L2.Th1.B.Fs.embed_pair_at_variable_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:59:46.597883+00:00
 -- url     : https://prove2.me/theorems/82a15c47-b2da-4667-b215-3209265d17d6

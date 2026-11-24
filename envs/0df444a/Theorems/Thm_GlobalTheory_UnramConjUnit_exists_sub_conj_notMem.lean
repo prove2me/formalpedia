@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramConjUnit_exists_sub_conj_notMem
 -- name    : GlobalTheory.UnramConjUnit.exists_sub_conj_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:46:47.567492+00:00
 -- url     : https://prove2.me/theorems/966eb85c-aea1-4483-b1f8-0a608629f66b

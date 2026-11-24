@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZMTFin_isIso_morphismRestrict_iSup
 -- name    : GlobalTheory.ZMTFin.isIso_morphismRestrict_iSup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:04:48.929264+00:00
 -- url     : https://prove2.me/theorems/18b6421c-adb2-4440-b887-77dc63633621

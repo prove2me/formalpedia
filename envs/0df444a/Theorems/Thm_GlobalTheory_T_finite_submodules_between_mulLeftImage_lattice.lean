@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_submodules_between_mulLeftImage_lattice
 -- name    : GlobalTheory.T.finite_submodules_between_mulLeftImage_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:31:25.894803+00:00
 -- url     : https://prove2.me/theorems/81a7eedb-f13e-4adc-9ae4-a26ac6871ac8

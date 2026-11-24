@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitPartition_contDiffAt_logMap
 -- name    : GlobalTheory.UnitPartition.contDiffAt_logMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:39:16.910687+00:00
 -- url     : https://prove2.me/theorems/0be4e14c-58b6-4490-a9ad-5d089401ab24

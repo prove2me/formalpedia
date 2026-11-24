@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilIsogeny_wchart_le_pow
 -- name    : GlobalTheory.WeilIsogeny.wchart_le_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:54:40.100268+00:00
 -- url     : https://prove2.me/theorems/cc459900-5b88-452d-b2e3-9c5621e97e20

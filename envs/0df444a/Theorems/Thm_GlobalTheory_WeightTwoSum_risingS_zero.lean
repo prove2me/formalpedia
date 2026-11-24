@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightTwoSum_risingS_zero
 -- name    : GlobalTheory.WeightTwoSum.risingS_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:51:48.278338+00:00
 -- url     : https://prove2.me/theorems/eff8393a-5ca4-4c5b-9400-2b0daee489f8

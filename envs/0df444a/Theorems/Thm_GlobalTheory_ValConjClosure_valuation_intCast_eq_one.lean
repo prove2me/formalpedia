@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ValConjClosure_valuation_intCast_eq_one
 -- name    : GlobalTheory.ValConjClosure.valuation_intCast_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:50:42.564847+00:00
 -- url     : https://prove2.me/theorems/a9c025ae-67ce-436f-9aa1-f475e49ab42d

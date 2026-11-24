@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VeryAmplePow_span_sval
 -- name    : GlobalTheory.VeryAmplePow.span_sval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:53:42.600804+00:00
 -- url     : https://prove2.me/theorems/cacd22fa-dbd0-409b-a99e-ad898d9c6ace

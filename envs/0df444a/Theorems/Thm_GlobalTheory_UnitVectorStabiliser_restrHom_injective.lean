@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitVectorStabiliser_restrHom_injective
 -- name    : GlobalTheory.UnitVectorStabiliser.restrHom_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:39:24.258465+00:00
 -- url     : https://prove2.me/theorems/bd5eb0d4-34cd-4001-8b83-a1fb3c902655

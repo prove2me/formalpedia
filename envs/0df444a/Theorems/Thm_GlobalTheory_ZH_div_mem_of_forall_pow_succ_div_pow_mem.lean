@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_div_mem_of_forall_pow_succ_div_pow_mem
 -- name    : GlobalTheory.ZH.div_mem_of_forall_pow_succ_div_pow_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:02:15.764369+00:00
 -- url     : https://prove2.me/theorems/ab39590f-923b-45c5-b6e9-a28858c82c17

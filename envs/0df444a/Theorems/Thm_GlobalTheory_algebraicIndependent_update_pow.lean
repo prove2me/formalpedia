@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_algebraicIndependent_update_pow
 -- name    : GlobalTheory.algebraicIndependent_update_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:05:50.564401+00:00
 -- url     : https://prove2.me/theorems/4b9a290e-9c24-41f2-b11d-ea45ca279320

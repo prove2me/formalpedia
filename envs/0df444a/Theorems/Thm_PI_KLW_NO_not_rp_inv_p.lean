@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_NO_not_rp_inv_p
 -- name    : PI.KLW.NO.not_rp_inv_p
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:44:23.555837+00:00
 -- url     : https://prove2.me/theorems/e91404ea-b27a-48eb-b422-4148f3f9a865

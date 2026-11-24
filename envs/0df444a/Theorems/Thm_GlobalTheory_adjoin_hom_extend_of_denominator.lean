@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_adjoin_hom_extend_of_denominator
 -- name    : GlobalTheory.adjoin_hom_extend_of_denominator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:05:56.995798+00:00
 -- url     : https://prove2.me/theorems/a568ca3c-ad3c-4bf5-bc3a-1553f56a6fe3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_weil_representation_heisenberg
 -- name    : GlobalTheory.T.exists_weil_representation_heisenberg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:40:30.097125+00:00
 -- url     : https://prove2.me/theorems/964788e7-489d-48f0-bf15-40b26024f6eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryStd_cx_apply
 -- name    : GlobalTheory.UnitaryStd.cx_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:45:31.076261+00:00
 -- url     : https://prove2.me/theorems/dac54fdd-6178-4d04-8ad8-b8ff3db28632

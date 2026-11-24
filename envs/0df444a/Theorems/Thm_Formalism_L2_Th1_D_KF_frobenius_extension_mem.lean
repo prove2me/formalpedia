@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_KF_frobenius_extension_mem
 -- name    : Formalism.L2.Th1.D.KF.frobenius_extension_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:54:42.678877+00:00
 -- url     : https://prove2.me/theorems/268079df-2cd4-4a0a-90c4-46869694e79c

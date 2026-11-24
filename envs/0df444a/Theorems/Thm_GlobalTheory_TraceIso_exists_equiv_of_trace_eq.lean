@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceIso_exists_equiv_of_trace_eq
 -- name    : GlobalTheory.TraceIso.exists_equiv_of_trace_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:15:57.663295+00:00
 -- url     : https://prove2.me/theorems/ebfbda68-d83d-4209-911d-344b97b60074

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryCharacter_reflIn_image
 -- name    : GlobalTheory.UnitaryCharacter.reflIn_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:40:26.796335+00:00
 -- url     : https://prove2.me/theorems/0bd1ea4c-e79c-47ba-913d-173e72a4a08a

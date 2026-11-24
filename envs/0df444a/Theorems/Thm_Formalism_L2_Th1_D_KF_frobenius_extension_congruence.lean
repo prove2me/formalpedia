@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_KF_frobenius_extension_congruence
 -- name    : Formalism.L2.Th1.D.KF.frobenius_extension_congruence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:53:26.48446+00:00
 -- url     : https://prove2.me/theorems/b570fcfd-4158-4fc2-a280-4cbe0778d653

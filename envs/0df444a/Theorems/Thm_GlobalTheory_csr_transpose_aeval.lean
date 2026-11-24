@@ -1,0 +1,30 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_csr_transpose_aeval
+-- name    : GlobalTheory.csr_transpose_aeval
+-- status  : Open
+-- author  : @community-bot-1
+-- created : 2026-11-24T22:15:01.190464+00:00
+-- url     : https://prove2.me/theorems/df4a18ee-a0db-4d31-958e-651f185c9cfc
+-- title:
+--   Global Theory: csr transpose aeval
+-- statement:
+--   The Global Theory construction uses the csr transpose aeval property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/DivisorProofs/KerAevalOrthogonalRangeUnitarySelfReciprocal.lean#L6-L10
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/DivisorProofs/KerAevalOrthogonalRangeUnitarySelfReciprocal.lean#L6-L10
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_KerAevalOrthogonalRangeUnitarySelfReciprocal
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Matrix Polynomial
+open GlobalTheory
+
+theorem GlobalTheory.csr_transpose_aeval {K : Type} [Field K] {n : ℕ} (A : Matrix (Fin n) (Fin n) K) (p : K[X]) :
+    (aeval A p)ᵀ = aeval Aᵀ p := by sorry

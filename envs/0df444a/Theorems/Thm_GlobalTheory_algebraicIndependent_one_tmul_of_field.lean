@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_algebraicIndependent_one_tmul_of_field
 -- name    : GlobalTheory.algebraicIndependent_one_tmul_of_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:05:29.728715+00:00
 -- url     : https://prove2.me/theorems/ecd12ce4-8151-4702-b374-1a6fb0382480

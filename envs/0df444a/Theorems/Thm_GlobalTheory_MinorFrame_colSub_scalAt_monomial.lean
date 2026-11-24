@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorFrame_colSub_scalAt_monomial
 -- name    : GlobalTheory.MinorFrame.colSub_scalAt_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:04:59.819656+00:00
 -- url     : https://prove2.me/theorems/cf107332-5fbf-449a-9ada-bf4f8b0396d5

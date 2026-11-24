@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CosetFn_deltaR_mul
 -- name    : GlobalTheory.CosetFn.deltaR_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:09:33.519563+00:00
 -- url     : https://prove2.me/theorems/733471e3-f303-4873-8a08-37e9e52fac86

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_E2_constantCoeff_law_three_variables
 -- name    : Formalism.L2.Th1.B.E2.constantCoeff_law_three_variables
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:01:05.069335+00:00
 -- url     : https://prove2.me/theorems/84e68f93-087d-4d38-ab07-5676fe9210d0

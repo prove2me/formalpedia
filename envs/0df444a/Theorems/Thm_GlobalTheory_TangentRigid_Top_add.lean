@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TangentRigid_Top_add
 -- name    : GlobalTheory.TangentRigid.Top.add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:08:19.716143+00:00
 -- url     : https://prove2.me/theorems/7fd2aadb-2294-4373-883e-5f389021a4ee

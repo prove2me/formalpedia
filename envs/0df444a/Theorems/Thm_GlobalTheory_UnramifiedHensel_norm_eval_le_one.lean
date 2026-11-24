@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramifiedHensel_norm_eval_le_one
 -- name    : GlobalTheory.UnramifiedHensel.norm_eval_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:08:23.023641+00:00
 -- url     : https://prove2.me/theorems/ad3e5abb-d85e-425d-97ab-97fbb63b6429

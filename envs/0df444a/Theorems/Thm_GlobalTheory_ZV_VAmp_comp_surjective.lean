@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZV_VAmp_comp_surjective
 -- name    : GlobalTheory.ZV.VAmp.comp_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:03:54.376014+00:00
 -- url     : https://prove2.me/theorems/975b1c83-1fca-4d5e-8371-7feea900c04f

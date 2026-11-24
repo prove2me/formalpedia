@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_evA_congr
 -- name    : Formalism.L2.Th1.D.evA_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:54:08.793143+00:00
 -- url     : https://prove2.me/theorems/5a8f4169-0e2f-4183-9c8b-a7c03dbd4a08

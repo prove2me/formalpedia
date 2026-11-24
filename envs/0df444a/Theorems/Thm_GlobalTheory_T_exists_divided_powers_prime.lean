@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_divided_powers_prime
 -- name    : GlobalTheory.T.exists_divided_powers_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:34:03.729915+00:00
 -- url     : https://prove2.me/theorems/98f105cf-816d-411d-bf04-bdeefa4b575a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_FormalGroupLawMap_coe_injective
 -- name    : Formalism.FG.FormalGroupLawMap.coe_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:04:42.146193+00:00
 -- url     : https://prove2.me/theorems/7c1460b1-6cc1-46d2-8be8-af869ac86903

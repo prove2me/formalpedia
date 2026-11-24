@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_witt_free_tuples_split_quadratic_etale
 -- name    : GlobalTheory.T.witt_free_tuples_split_quadratic_etale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:01:11.820744+00:00
 -- url     : https://prove2.me/theorems/4ffdb6c0-9ce9-42b8-bc08-826fab106622

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_zValuationsAtIndices_torus_surjective
 -- name    : GlobalTheory.T.zValuationsAtIndices_torus_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:01:34.593927+00:00
 -- url     : https://prove2.me/theorems/00f42590-ae67-45a9-a17f-dc97c0001657

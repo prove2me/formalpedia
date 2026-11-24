@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Det_core2
 -- name    : Formalism.L2.Th1.B.Det.core2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:59:58.270246+00:00
 -- url     : https://prove2.me/theorems/e469f754-9d09-4c74-a8a3-61d41bb2cc8f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IwahoriFactor_exists_factor
 -- name    : GlobalTheory.IwahoriFactor.exists_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:26:36.244097+00:00
 -- url     : https://prove2.me/theorems/b1ff9794-9415-4275-9418-6c852716305f

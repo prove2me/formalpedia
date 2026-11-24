@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_IsPairMap_congr
 -- name    : GlobalTheory.SA.IsPairMap.congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:32:39.48377+00:00
 -- url     : https://prove2.me/theorems/bae1fb28-b1e9-49f6-8667-90286c4a21c6

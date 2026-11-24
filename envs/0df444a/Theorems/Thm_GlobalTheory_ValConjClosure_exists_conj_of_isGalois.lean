@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ValConjClosure_exists_conj_of_isGalois
 -- name    : GlobalTheory.ValConjClosure.exists_conj_of_isGalois
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:47:29.465808+00:00
 -- url     : https://prove2.me/theorems/01274953-efd0-4fb8-9edd-27b773334f61

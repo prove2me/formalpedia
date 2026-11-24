@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZJ_isAlgClosed_residueField_OO
 -- name    : GlobalTheory.ZJ.isAlgClosed_residueField_OO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:03:38.216803+00:00
 -- url     : https://prove2.me/theorems/2c0cb6ca-3b79-4082-b3c5-47643763d2b7

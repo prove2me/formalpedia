@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilExp_val_pullGen
 -- name    : GlobalTheory.WeilExp.val_pullGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:55:04.676997+00:00
 -- url     : https://prove2.me/theorems/94ef1f0c-2dd3-4297-a662-94e6d50595a3

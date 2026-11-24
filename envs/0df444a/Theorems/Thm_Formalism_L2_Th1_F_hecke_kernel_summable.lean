@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_hecke_kernel_summable
 -- name    : Formalism.L2.Th1.F.hecke_kernel_summable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:30:32.248727+00:00
 -- url     : https://prove2.me/theorems/38844381-b379-4cb4-9516-78eb34ef37a1

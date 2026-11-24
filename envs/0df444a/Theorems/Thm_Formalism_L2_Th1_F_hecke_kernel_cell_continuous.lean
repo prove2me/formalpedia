@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_hecke_kernel_cell_continuous
 -- name    : Formalism.L2.Th1.F.hecke_kernel_cell_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:30:27.312662+00:00
 -- url     : https://prove2.me/theorems/b8c43276-9cb8-4698-8ad0-4e526443f1b8

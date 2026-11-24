@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_firstRow_minor_degree_eq_one
 -- name    : Formalism.DworkPowerSeriesWeights.firstRow_minor_degree_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:03:31.53669+00:00
 -- url     : https://prove2.me/theorems/59248271-329f-4170-9588-b5be61a596cf

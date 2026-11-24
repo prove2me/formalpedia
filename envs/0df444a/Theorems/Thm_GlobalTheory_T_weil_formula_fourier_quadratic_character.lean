@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_weil_formula_fourier_quadratic_character
 -- name    : GlobalTheory.T.weil_formula_fourier_quadratic_character
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:01:46.091434+00:00
 -- url     : https://prove2.me/theorems/2521f868-5da5-423b-b355-756c307c0b40

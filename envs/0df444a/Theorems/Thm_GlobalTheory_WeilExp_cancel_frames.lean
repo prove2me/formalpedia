@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilExp_cancel_frames
 -- name    : GlobalTheory.WeilExp.cancel_frames
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:53:22.188652+00:00
 -- url     : https://prove2.me/theorems/6dfb06fd-af6f-44a7-80dd-f226faa9b6fa

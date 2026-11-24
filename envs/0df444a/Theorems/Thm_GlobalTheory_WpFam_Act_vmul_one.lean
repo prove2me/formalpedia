@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WpFam_Act_vmul_one
 -- name    : GlobalTheory.WpFam.Act.vmul_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:57:22.186262+00:00
 -- url     : https://prove2.me/theorems/fa440ed3-cea9-4472-be37-4a905fc69c97

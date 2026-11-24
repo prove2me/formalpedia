@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_aa_eq
 -- name    : Formalism.DworkPowerSeriesWeights.aa_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:52:52.162527+00:00
 -- url     : https://prove2.me/theorems/4cc52b17-b704-46a8-a977-48de331f52a3

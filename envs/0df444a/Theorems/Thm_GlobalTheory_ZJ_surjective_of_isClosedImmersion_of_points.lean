@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZJ_surjective_of_isClosedImmersion_of_points
 -- name    : GlobalTheory.ZJ.surjective_of_isClosedImmersion_of_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:02:40.955948+00:00
 -- url     : https://prove2.me/theorems/9c2ca024-15d8-4734-99bc-005da28e7c30

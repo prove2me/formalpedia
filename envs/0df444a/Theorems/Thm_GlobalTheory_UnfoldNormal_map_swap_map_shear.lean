@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnfoldNormal_map_swap_map_shear
 -- name    : GlobalTheory.UnfoldNormal.map_swap_map_shear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:24:36.91043+00:00
 -- url     : https://prove2.me/theorems/8413ede9-3df3-4362-920e-23a45f33a032

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_OpenCrit_continuous_mat
 -- name    : GlobalTheory.KSp.OpenCrit.continuous_mat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:07:13.109346+00:00
 -- url     : https://prove2.me/theorems/c2755589-5118-4e0f-9d08-441e8c268406

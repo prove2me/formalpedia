@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitriJac_blockDiagonal_mulVec
 -- name    : GlobalTheory.UnitriJac.blockDiagonal_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:47:24.234392+00:00
 -- url     : https://prove2.me/theorems/7a6eae21-7dfe-49bf-b7dc-f2507773a851

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLogPartition_ulog_idx
 -- name    : GlobalTheory.UnitLogPartition.ulog_idx
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:20:50.622984+00:00
 -- url     : https://prove2.me/theorems/7a7c1cd0-1277-4555-9c66-a3f3c1061305

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_CycBase_exists_base
 -- name    : GlobalTheory.ZM.CycBase.exists_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:02:51.164263+00:00
 -- url     : https://prove2.me/theorems/1b23321d-5fad-408a-8813-ffc75ab9badd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_uniformizer_compatible_unramifiedExt
 -- name    : GlobalTheory.T.exists_uniformizer_compatible_unramifiedExt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:38:01.615474+00:00
 -- url     : https://prove2.me/theorems/8c305cea-0f03-4754-8ab2-41fcdd8097b4

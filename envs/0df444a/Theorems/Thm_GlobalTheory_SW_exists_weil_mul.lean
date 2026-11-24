@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_exists_weil_mul
 -- name    : GlobalTheory.SW.exists_weil_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:45:18.35856+00:00
 -- url     : https://prove2.me/theorems/39fb1c58-3bc7-45fc-b0d7-1efb54effca1

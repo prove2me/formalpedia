@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WpFam_hasSum_rows_G2_add_weierstrassP
 -- name    : GlobalTheory.WpFam.hasSum_rows_G2_add_weierstrassP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:56:16.015575+00:00
 -- url     : https://prove2.me/theorems/da6bac99-023d-486c-92f0-cb447ca5f49e

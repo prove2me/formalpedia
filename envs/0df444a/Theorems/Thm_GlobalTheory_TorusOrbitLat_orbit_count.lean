@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusOrbitLat_orbit_count
 -- name    : GlobalTheory.TorusOrbitLat.orbit_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:10:57.006482+00:00
 -- url     : https://prove2.me/theorems/88f1b6ec-36be-4caf-98a5-d233b2e4b2d5

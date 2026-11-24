@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_IsoBasis_exists_isotropic_avoid
 -- name    : GlobalTheory.UTrans.IsoBasis.exists_isotropic_avoid
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:31:26.675916+00:00
 -- url     : https://prove2.me/theorems/8ddf55d2-6209-4e88-bc21-73f0c22efd52

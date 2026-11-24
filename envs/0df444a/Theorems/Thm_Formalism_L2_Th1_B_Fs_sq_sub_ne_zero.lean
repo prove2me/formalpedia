@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Fs_sq_sub_ne_zero
 -- name    : Formalism.L2.Th1.B.Fs.sq_sub_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:00:45.592801+00:00
 -- url     : https://prove2.me/theorems/c53f5f58-532f-4f98-bb08-7b116633654a

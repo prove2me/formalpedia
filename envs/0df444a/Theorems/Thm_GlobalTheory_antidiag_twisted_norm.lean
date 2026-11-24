@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_antidiag_twisted_norm
 -- name    : GlobalTheory.antidiag_twisted_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:05:50.902887+00:00
 -- url     : https://prove2.me/theorems/0f566abf-c60c-4fca-8806-ceeeba8ae462

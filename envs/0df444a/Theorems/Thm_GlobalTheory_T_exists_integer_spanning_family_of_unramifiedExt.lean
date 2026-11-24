@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_integer_spanning_family_of_unramifiedExt
 -- name    : GlobalTheory.T.exists_integer_spanning_family_of_unramifiedExt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:05:32.499808+00:00
 -- url     : https://prove2.me/theorems/20c556a0-c3f6-431f-80e4-4a19a0037f5e

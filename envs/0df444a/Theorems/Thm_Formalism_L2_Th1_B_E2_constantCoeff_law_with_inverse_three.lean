@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_E2_constantCoeff_law_with_inverse_three
 -- name    : Formalism.L2.Th1.B.E2.constantCoeff_law_with_inverse_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:00:54.891719+00:00
 -- url     : https://prove2.me/theorems/9a18696c-21d0-4997-bf58-236153708bce

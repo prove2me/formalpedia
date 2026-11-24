@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SubstCoeff_continuous_coeff_prod
 -- name    : GlobalTheory.SubstCoeff.continuous_coeff_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:54:08.456835+00:00
 -- url     : https://prove2.me/theorems/6002820e-e4ae-4b6c-ad5a-99640c6885d2

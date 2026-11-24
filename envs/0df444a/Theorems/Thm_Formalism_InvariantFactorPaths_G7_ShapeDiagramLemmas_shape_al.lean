@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_ShapeDiagramLemmas_shape_al
 -- name    : Formalism.InvariantFactorPaths.G7.ShapeDiagramLemmas.shape_al
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:02:07.083976+00:00
 -- url     : https://prove2.me/theorems/90de96e1-c227-4de9-8b4f-f3c8a30f782a

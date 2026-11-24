@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SBUniform_exists_deep_subset
 -- name    : GlobalTheory.SBUniform.exists_deep_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:01:32.933816+00:00
 -- url     : https://prove2.me/theorems/a6073572-605c-4bac-9b76-b32f0fbafa64

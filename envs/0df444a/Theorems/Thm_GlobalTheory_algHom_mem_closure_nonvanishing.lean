@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_algHom_mem_closure_nonvanishing
 -- name    : GlobalTheory.algHom_mem_closure_nonvanishing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:06:35.003022+00:00
 -- url     : https://prove2.me/theorems/ff19cdeb-82ed-4559-a9ed-706040f2c84e

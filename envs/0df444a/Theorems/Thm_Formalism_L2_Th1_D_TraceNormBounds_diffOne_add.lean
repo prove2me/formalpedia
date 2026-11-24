@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TraceNormBounds_diffOne_add
 -- name    : Formalism.L2.Th1.D.TraceNormBounds.diffOne_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:59:59.262336+00:00
 -- url     : https://prove2.me/theorems/66340c47-ae66-4afc-9d28-6021d4fe6fd1

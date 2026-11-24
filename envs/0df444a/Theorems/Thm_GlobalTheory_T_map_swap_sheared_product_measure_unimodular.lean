@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_map_swap_sheared_product_measure_unimodular
 -- name    : GlobalTheory.T.map_swap_sheared_product_measure_unimodular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:52:52.07832+00:00
 -- url     : https://prove2.me/theorems/a5e4c6be-f792-4fe0-a1e8-0e6c134c057e

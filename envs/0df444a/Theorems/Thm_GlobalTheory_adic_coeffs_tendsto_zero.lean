@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_adic_coeffs_tendsto_zero
 -- name    : GlobalTheory.adic_coeffs_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:06:09.874669+00:00
 -- url     : https://prove2.me/theorems/b0a1837e-17f3-4c5e-bff7-8ada081ace80

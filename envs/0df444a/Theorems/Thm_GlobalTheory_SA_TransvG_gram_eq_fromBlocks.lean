@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_TransvG_gram_eq_fromBlocks
 -- name    : GlobalTheory.SA.TransvG.gram_eq_fromBlocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:46:02.071193+00:00
 -- url     : https://prove2.me/theorems/c0e6eb36-53b3-465c-b2e2-9d6752614ff8

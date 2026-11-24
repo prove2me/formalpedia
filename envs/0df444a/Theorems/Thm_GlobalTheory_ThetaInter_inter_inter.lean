@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaInter_inter_inter
 -- name    : GlobalTheory.ThetaInter.inter_inter
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:25:32.913613+00:00
 -- url     : https://prove2.me/theorems/9197a1e4-23c8-489b-a919-e92e55bc9bec

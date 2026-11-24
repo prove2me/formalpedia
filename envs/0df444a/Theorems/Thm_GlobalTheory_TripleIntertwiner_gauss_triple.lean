@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TripleIntertwiner_gauss_triple
 -- name    : GlobalTheory.TripleIntertwiner.gauss_triple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:12:34.427248+00:00
 -- url     : https://prove2.me/theorems/f368354a-4f04-4d70-ba9f-33215fe274cd

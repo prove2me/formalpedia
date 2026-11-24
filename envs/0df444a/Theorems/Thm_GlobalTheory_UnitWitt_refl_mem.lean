@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitWitt_refl_mem
 -- name    : GlobalTheory.UnitWitt.refl_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:38:46.154966+00:00
 -- url     : https://prove2.me/theorems/fef0c7f6-7bcd-4595-91d1-06468edf013d

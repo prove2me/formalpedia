@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_hecke_kernel_j_rules
 -- name    : Formalism.L2.Th1.F.hecke_kernel_j_rules
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:32:51.798353+00:00
 -- url     : https://prove2.me/theorems/12494239-69d7-4d6e-a700-6e984f5e54af

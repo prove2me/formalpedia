@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryCayley_exists_perm
 -- name    : GlobalTheory.UnitaryCayley.exists_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:38:51.898921+00:00
 -- url     : https://prove2.me/theorems/2db3fb1a-ee45-423b-b983-2e1696a77866

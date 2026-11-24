@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_E3_cube_relation_from_parallelograms
 -- name    : Formalism.L2.Th1.B.E3.cube_relation_from_parallelograms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:01:31.881428+00:00
 -- url     : https://prove2.me/theorems/8ffc98c7-c8aa-4c6f-8451-925722b48e0a

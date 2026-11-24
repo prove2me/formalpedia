@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_exists_norm_one_isUnit_det
 -- name    : GlobalTheory.UnRep.exists_norm_one_isUnit_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:24:01.761903+00:00
 -- url     : https://prove2.me/theorems/a82f0ac7-00ad-4eb2-ad02-c679fe2db51c

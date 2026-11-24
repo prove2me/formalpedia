@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_aeval_reverse_mul_pow_of_mul_eq_one
 -- name    : GlobalTheory.aeval_reverse_mul_pow_of_mul_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:05:35.637698+00:00
 -- url     : https://prove2.me/theorems/00f8b24c-d69d-41ef-8ea8-0b2d72d71513

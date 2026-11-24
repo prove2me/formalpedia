@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpTangent_smooth_of_tangentMap_surjective
 -- name    : GlobalTheory.GrpTangent.smooth_of_tangentMap_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:19.752581+00:00
 -- url     : https://prove2.me/theorems/425cd7e4-b763-4de4-837e-3f9cdcc684f6

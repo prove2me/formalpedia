@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_addHom_zmod_pow_algebraMap_mul
 -- name    : GlobalTheory.addHom_zmod_pow_algebraMap_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:04:49.576546+00:00
 -- url     : https://prove2.me/theorems/2d3ea3df-5f9d-48ad-99d0-24c6795029b2

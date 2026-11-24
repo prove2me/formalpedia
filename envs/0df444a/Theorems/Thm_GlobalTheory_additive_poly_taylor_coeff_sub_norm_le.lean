@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_additive_poly_taylor_coeff_sub_norm_le
 -- name    : GlobalTheory.additive_poly_taylor_coeff_sub_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:06:03.416537+00:00
 -- url     : https://prove2.me/theorems/60904eaf-7876-4a74-b98d-c1a6d547c942

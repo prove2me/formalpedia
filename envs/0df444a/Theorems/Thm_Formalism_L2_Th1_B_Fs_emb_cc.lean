@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Fs_emb_cc
 -- name    : Formalism.L2.Th1.B.Fs.emb_cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:59:32.195711+00:00
 -- url     : https://prove2.me/theorems/6b9df3a9-1d48-4aca-8fd8-a5e5e6c253b6

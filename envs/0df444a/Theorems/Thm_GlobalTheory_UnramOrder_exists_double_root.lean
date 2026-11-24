@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramOrder_exists_double_root
 -- name    : GlobalTheory.UnramOrder.exists_double_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:47:18.741358+00:00
 -- url     : https://prove2.me/theorems/9b6ae8da-f393-4a7b-9ff3-73c7945ac65e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_symmetric_lineBundle_of_regular_section
 -- name    : GlobalTheory.T.symmetric_lineBundle_of_regular_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:00:24.584887+00:00
 -- url     : https://prove2.me/theorems/60af5bdb-76f7-426a-9c20-a6c183b8e5e2

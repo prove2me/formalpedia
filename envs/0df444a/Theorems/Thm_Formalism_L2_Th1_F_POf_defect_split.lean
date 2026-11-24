@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_POf_defect_split
 -- name    : Formalism.L2.Th1.F.POf.defect_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:18:22.25514+00:00
 -- url     : https://prove2.me/theorems/11c353f9-9ccd-4633-9bc3-f1adea22396a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_C_mul_X_mem_opInt
 -- name    : Formalism.DworkPowerSeriesWeights.C_mul_X_mem_opInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:02:55.831453+00:00
 -- url     : https://prove2.me/theorems/3e751d61-8ef0-4c61-a488-18e15c21bd6a

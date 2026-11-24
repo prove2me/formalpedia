@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_E2_integral_neg
 -- name    : Formalism.L2.Th1.B.E2.integral_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:01:08.858748+00:00
 -- url     : https://prove2.me/theorems/ce616c22-8114-49f5-b105-6214aa001ea2

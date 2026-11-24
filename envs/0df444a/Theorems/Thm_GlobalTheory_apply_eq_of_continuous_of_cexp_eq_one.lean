@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_apply_eq_of_continuous_of_cexp_eq_one
 -- name    : GlobalTheory.apply_eq_of_continuous_of_cexp_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:05:35.340682+00:00
 -- url     : https://prove2.me/theorems/49394d37-8f0c-44f5-b0ec-b48639f31060

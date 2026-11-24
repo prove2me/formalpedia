@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux2_cornerInv
 -- name    : Formalism.FourierDecayAlt.P.Ux2.cornerInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:24:13.348909+00:00
 -- url     : https://prove2.me/theorems/aafb39ba-6372-4f39-b6cf-2aec9f846fed

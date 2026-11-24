@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_WpSh_cleared_odd
 -- name    : Formalism.L2.Th1.A.WpSh.cleared_odd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:13:24.799949+00:00
 -- url     : https://prove2.me/theorems/00e1e12a-f565-4e43-8fce-946ee3f93d46

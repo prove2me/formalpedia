@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_bA_norm_le
 -- name    : Formalism.DworkPowerSeriesWeights.bA_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:53:14.610227+00:00
 -- url     : https://prove2.me/theorems/ec760054-b9e8-4bc2-8d64-5d1cc880ccdf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_X_one_dvd_iff_subst_eq_zero
 -- name    : GlobalTheory.X_one_dvd_iff_subst_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:01:26.780312+00:00
 -- url     : https://prove2.me/theorems/da6e8464-ff84-4958-99d4-5245a31e82e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ValuedPrincipal_exists_val_eq_rat
 -- name    : GlobalTheory.ValuedPrincipal.exists_val_eq_rat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:50:42.148859+00:00
 -- url     : https://prove2.me/theorems/ee2ef865-1bc5-46fb-a8c9-aaaabac59163

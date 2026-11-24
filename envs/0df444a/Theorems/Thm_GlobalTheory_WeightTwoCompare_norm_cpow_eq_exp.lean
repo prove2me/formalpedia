@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightTwoCompare_norm_cpow_eq_exp
 -- name    : GlobalTheory.WeightTwoCompare.norm_cpow_eq_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:52:25.905255+00:00
 -- url     : https://prove2.me/theorems/51806911-b1b3-4cc9-b906-2fc0ddd3068d

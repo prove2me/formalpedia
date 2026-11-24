@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_basisVal_baseChange_rTensor
 -- name    : GlobalTheory.basisVal_baseChange_rTensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:07:00.733775+00:00
 -- url     : https://prove2.me/theorems/5ea8e4d0-dd47-489b-8a60-d5e4e2e980e4

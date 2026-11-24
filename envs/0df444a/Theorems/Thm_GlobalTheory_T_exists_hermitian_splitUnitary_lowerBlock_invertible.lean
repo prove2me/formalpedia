@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_hermitian_splitUnitary_lowerBlock_invertible
 -- name    : GlobalTheory.T.exists_hermitian_splitUnitary_lowerBlock_invertible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:34:05.998923+00:00
 -- url     : https://prove2.me/theorems/7bc95c36-a3fc-44ae-b0ab-c5d834661415

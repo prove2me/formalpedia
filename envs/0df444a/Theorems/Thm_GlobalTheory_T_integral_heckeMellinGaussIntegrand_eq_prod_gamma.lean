@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integral_heckeMellinGaussIntegrand_eq_prod_gamma
 -- name    : GlobalTheory.T.integral_heckeMellinGaussIntegrand_eq_prod_gamma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:47:17.685814+00:00
 -- url     : https://prove2.me/theorems/b1ed1ef5-f49a-4d73-855d-a21e7768799f

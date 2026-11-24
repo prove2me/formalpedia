@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactHowe_mapDomain_fst_eq_of_coeff_substF_ne_zero
 -- name    : GlobalTheory.CompactHowe.mapDomain_fst_eq_of_coeff_substF_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:49:16.275789+00:00
 -- url     : https://prove2.me/theorems/16f5ef74-784a-4dac-87be-203154ac9acf

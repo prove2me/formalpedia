@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_ReductionFirst_vw_unit
 -- name    : Formalism.DivisionValues.ReductionFirst.vw_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:05:26.474404+00:00
 -- url     : https://prove2.me/theorems/f9ddabcc-a6ab-4ee2-b616-e5b8d310a6b3

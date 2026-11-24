@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryStd_form_cx_coord
 -- name    : GlobalTheory.UnitaryStd.form_cx_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:45:37.923092+00:00
 -- url     : https://prove2.me/theorems/7f4b12cf-6e07-408a-ac09-3a4cdf87ee7a

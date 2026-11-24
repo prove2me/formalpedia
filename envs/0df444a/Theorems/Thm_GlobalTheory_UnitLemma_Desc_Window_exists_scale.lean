@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_Window_exists_scale
 -- name    : GlobalTheory.UnitLemma.Desc.Window.exists_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:26:19.539237+00:00
 -- url     : https://prove2.me/theorems/c9bac623-c6c6-4ccc-bca0-ee64e4f88443

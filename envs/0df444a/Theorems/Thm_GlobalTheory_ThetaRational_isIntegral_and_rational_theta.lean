@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaRational_isIntegral_and_rational_theta
 -- name    : GlobalTheory.ThetaRational.isIntegral_and_rational_theta
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:58:37.848223+00:00
 -- url     : https://prove2.me/theorems/df3a5a0c-5c9c-4044-9cf5-f03530d69ff0

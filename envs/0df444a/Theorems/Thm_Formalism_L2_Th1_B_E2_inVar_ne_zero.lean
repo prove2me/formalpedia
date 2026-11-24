@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_E2_inVar_ne_zero
 -- name    : Formalism.L2.Th1.B.E2.inVar_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:05:14.879297+00:00
 -- url     : https://prove2.me/theorems/935fca56-628e-49e1-b6b6-49965a046af4

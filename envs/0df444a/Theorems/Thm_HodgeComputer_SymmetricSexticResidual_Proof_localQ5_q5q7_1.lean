@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_SymmetricSexticResidual_Proof_localQ5_q5q7_1
 -- name    : HodgeComputer.SymmetricSexticResidual.Proof.localQ5_q5q7_1
--- status  : Open
+-- status  : Proved
 -- author  : @benediamond
 -- created : 2026-11-24T22:02:51.817919+00:00
 -- url     : https://prove2.me/theorems/24aa5f39-b300-475d-8d9a-daff92fcc31e

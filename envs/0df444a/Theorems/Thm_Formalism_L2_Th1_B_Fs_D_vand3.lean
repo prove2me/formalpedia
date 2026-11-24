@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Fs_D_vand3
 -- name    : Formalism.L2.Th1.B.Fs.D_vand3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:59:49.503521+00:00
 -- url     : https://prove2.me/theorems/ed6367ac-fa72-4a52-abc4-cb0b3f708171

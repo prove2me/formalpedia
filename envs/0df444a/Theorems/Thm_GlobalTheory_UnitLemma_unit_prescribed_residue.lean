@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_unit_prescribed_residue
 -- name    : GlobalTheory.UnitLemma.unit_prescribed_residue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:38:05.343533+00:00
 -- url     : https://prove2.me/theorems/2fdc68dc-b783-491a-9ef9-6a1d9e372a7b

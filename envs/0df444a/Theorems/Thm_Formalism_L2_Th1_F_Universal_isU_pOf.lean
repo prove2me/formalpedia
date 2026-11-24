@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Universal_isU_pOf
 -- name    : Formalism.L2.Th1.F.Universal.isU_pOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:33:40.908784+00:00
 -- url     : https://prove2.me/theorems/020a1c71-b90b-4d6c-84e0-beccdcb87b22

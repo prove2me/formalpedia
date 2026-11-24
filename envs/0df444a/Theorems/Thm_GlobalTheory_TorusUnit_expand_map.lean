@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusUnit_expand_map
 -- name    : GlobalTheory.TorusUnit.expand_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:04:52.337802+00:00
 -- url     : https://prove2.me/theorems/2828a479-4820-4dfe-8b10-2bac789cbd4b

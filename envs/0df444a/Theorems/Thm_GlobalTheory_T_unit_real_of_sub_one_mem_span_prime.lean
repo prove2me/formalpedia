@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unit_real_of_sub_one_mem_span_prime
 -- name    : GlobalTheory.T.unit_real_of_sub_one_mem_span_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:30:20.621418+00:00
 -- url     : https://prove2.me/theorems/c91b9bcc-8e5c-40b6-9ce5-5c8a1977d685

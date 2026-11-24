@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualGenus_one_genus_of_modular
 -- name    : GlobalTheory.SelfDualGenus.one_genus_of_modular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:53:14.448181+00:00
 -- url     : https://prove2.me/theorems/00e5838c-1aee-41de-a875-9fa1eb37693c

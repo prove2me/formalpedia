@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UpqUnimodular_isMulRightInvariant_of_isHaarMeasure
 -- name    : GlobalTheory.UpqUnimodular.isMulRightInvariant_of_isHaarMeasure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:39:47.754165+00:00
 -- url     : https://prove2.me/theorems/ddf18c1b-1665-41d2-bb9d-e7e5382510c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_awayLiftAlgHom_algebraMap
 -- name    : GlobalTheory.awayLiftAlgHom_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:06:35.847027+00:00
 -- url     : https://prove2.me/theorems/d51b0e9d-6672-4210-9bfb-e5578f0a0e7e

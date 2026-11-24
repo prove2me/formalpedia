@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_ConePrime_map_coneHom
 -- name    : GlobalTheory.ZH.ConePrime.map_coneHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:03:30.788704+00:00
 -- url     : https://prove2.me/theorems/4d70e707-5d87-4f00-86aa-2d56dd544794

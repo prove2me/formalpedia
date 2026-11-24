@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_lifts_agree_of_cocycle_alt
 -- name    : GlobalTheory.T.exists_lifts_agree_of_cocycle_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:38:36.288847+00:00
 -- url     : https://prove2.me/theorems/35e27ba5-3c92-4dbf-b660-a6a4c8836295

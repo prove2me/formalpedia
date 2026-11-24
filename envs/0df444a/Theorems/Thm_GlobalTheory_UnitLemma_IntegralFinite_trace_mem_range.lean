@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_IntegralFinite_trace_mem_range
 -- name    : GlobalTheory.UnitLemma.IntegralFinite.trace_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:27:39.789867+00:00
 -- url     : https://prove2.me/theorems/a5edad4d-414e-44c1-b173-610370745728

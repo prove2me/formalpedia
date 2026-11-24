@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_annihilator_diagonal_trace
 -- name    : GlobalTheory.annihilator_diagonal_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:05:39.689791+00:00
 -- url     : https://prove2.me/theorems/ab6d08c7-bae9-47b1-91de-9fff50fdcc06

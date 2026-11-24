@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_FixD_isUnit_iff_sub
 -- name    : PI.SqPairLocal.FixD.isUnit_iff_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:08:18.260402+00:00
 -- url     : https://prove2.me/theorems/9406d562-85d1-4940-85d9-bec7c5fa3f20

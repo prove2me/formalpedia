@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilCriterion_map_withDensity_apply
 -- name    : GlobalTheory.WeilCriterion.map_withDensity_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:52:37.775481+00:00
 -- url     : https://prove2.me/theorems/e436face-2c13-483e-97aa-38cf72e79b74

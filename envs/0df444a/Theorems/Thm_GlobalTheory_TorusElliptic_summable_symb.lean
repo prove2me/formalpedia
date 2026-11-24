@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusElliptic_summable_symb
 -- name    : GlobalTheory.TorusElliptic.summable_symb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:09:58.327213+00:00
 -- url     : https://prove2.me/theorems/2a1cc0f9-ee8d-4ca6-a03f-2df2badb0157

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitriJac_lowMat_leftM
 -- name    : GlobalTheory.UnitriJac.lowMat_leftM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:46:47.782546+00:00
 -- url     : https://prove2.me/theorems/ee7cf3a3-8c3f-49f4-803e-36b992852181

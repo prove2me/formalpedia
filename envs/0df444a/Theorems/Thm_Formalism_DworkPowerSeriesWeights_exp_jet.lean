@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_exp_jet
 -- name    : Formalism.DworkPowerSeriesWeights.exp_jet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:44:22.323876+00:00
 -- url     : https://prove2.me/theorems/28285c23-ebff-4694-943c-d4c8ff23b08d

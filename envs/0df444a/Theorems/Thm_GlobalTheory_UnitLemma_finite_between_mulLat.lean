@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_finite_between_mulLat
 -- name    : GlobalTheory.UnitLemma.finite_between_mulLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:38:12.867452+00:00
 -- url     : https://prove2.me/theorems/d7b6d77a-c134-4898-a219-8d180f15bf11

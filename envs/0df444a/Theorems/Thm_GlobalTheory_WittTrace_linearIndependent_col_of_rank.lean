@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WittTrace_linearIndependent_col_of_rank
 -- name    : GlobalTheory.WittTrace.linearIndependent_col_of_rank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:56:23.01898+00:00
 -- url     : https://prove2.me/theorems/59d06236-2831-4a29-ad2b-059951705f24

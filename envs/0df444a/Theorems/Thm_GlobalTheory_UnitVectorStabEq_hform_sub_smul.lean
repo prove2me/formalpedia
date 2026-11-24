@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitVectorStabEq_hform_sub_smul
 -- name    : GlobalTheory.UnitVectorStabEq.hform_sub_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:38:45.216234+00:00
 -- url     : https://prove2.me/theorems/69c834e1-ec05-4454-ac5a-d722fe22507c

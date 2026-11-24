@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_exists_unif
 -- name    : GlobalTheory.UnitLemma.Unr.exists_unif
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:37:59.776623+00:00
 -- url     : https://prove2.me/theorems/9f69504d-dfc7-48ed-8491-d60de5a053bc

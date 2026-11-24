@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLogPartition_idx_surjective
 -- name    : GlobalTheory.UnitLogPartition.idx_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:37:53.044777+00:00
 -- url     : https://prove2.me/theorems/0021e43a-647c-4598-8225-d398e2ee03ad

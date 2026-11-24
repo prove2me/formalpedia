@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_injective_torus_classes_of_idempotent_decomposition
 -- name    : GlobalTheory.T.exists_injective_torus_classes_of_idempotent_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:35:35.704001+00:00
 -- url     : https://prove2.me/theorems/2ebef126-cdb2-4883-b216-9613a779d7f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramSelfDual_exists_basis
 -- name    : GlobalTheory.UnramSelfDual.exists_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:47:43.149363+00:00
 -- url     : https://prove2.me/theorems/c9cc6d57-c632-4729-8431-598ee523afcc

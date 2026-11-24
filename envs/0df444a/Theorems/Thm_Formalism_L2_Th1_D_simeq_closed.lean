@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_simeq_closed
 -- name    : Formalism.L2.Th1.D.simeq_closed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:45:22.015334+00:00
 -- url     : https://prove2.me/theorems/72416538-efcd-4e23-b33f-4ad4ecbf7696

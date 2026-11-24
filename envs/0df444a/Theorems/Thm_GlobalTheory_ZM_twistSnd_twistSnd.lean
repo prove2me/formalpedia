@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_twistSnd_twistSnd
 -- name    : GlobalTheory.ZM.twistSnd_twistSnd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:04:33.464713+00:00
 -- url     : https://prove2.me/theorems/260ba161-448f-4bc5-93ac-5d67d5b88fb5

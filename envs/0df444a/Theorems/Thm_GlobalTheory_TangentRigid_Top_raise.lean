@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TangentRigid_Top_raise
 -- name    : GlobalTheory.TangentRigid.Top.raise
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:08:34.68346+00:00
 -- url     : https://prove2.me/theorems/4f8eb2f3-8860-4680-91a3-5c6d887f35e4

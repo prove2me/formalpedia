@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_E2_log_formal_law_three_variables
 -- name    : Formalism.L2.Th1.B.E2.log_formal_law_three_variables
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:02:29.764806+00:00
 -- url     : https://prove2.me/theorems/9bc04fdf-dbf7-4e53-a4a7-f370625123b1

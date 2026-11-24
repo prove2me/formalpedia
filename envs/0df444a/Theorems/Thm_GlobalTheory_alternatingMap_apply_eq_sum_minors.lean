@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_alternatingMap_apply_eq_sum_minors
 -- name    : GlobalTheory.alternatingMap_apply_eq_sum_minors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:05:50.194674+00:00
 -- url     : https://prove2.me/theorems/6ab40cc2-3407-4ea8-96aa-2abc80f1e5d1

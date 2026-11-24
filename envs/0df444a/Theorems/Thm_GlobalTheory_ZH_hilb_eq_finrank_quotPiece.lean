@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_hilb_eq_finrank_quotPiece
 -- name    : GlobalTheory.ZH.hilb_eq_finrank_quotPiece
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:03:52.468258+00:00
 -- url     : https://prove2.me/theorems/40b5c778-430c-4a6c-b41e-2dc6b9ab5ba7

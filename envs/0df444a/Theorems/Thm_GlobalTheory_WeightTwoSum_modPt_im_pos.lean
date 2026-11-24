@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightTwoSum_modPt_im_pos
 -- name    : GlobalTheory.WeightTwoSum.modPt_im_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:52:04.300244+00:00
 -- url     : https://prove2.me/theorems/7f249869-082d-47f0-996a-a924930c4257

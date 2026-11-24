@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_adicCompletion_ringHom_ext_of_fg
 -- name    : GlobalTheory.adicCompletion_ringHom_ext_of_fg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:05:57.739408+00:00
 -- url     : https://prove2.me/theorems/5773fb92-1cc7-4baf-9e68-edca9134e862

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VolPairExists_mat_unitary
 -- name    : GlobalTheory.VolPairExists.mat_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:52:07.973347+00:00
 -- url     : https://prove2.me/theorems/dc394586-4b78-4512-913e-854d4953fcc3

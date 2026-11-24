@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryTransitive_dotProduct_snocZeroLastCoordinate
 -- name    : GlobalTheory.UnitaryTransitive.dotProduct_snocZeroLastCoordinate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:45:26.824067+00:00
 -- url     : https://prove2.me/theorems/865ca06b-53c2-4fae-84e6-cbc708ee0cff

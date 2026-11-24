@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx4_Dec_Jx_eq
 -- name    : Formalism.FourierDecayAlt.P.Qx4.Dec.Jx_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:19:47.259423+00:00
 -- url     : https://prove2.me/theorems/2fb0b838-bd60-4d80-b880-0604aaad8da6

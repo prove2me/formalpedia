@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_TorusAction_torus_mem_X
 -- name    : GlobalTheory.UnitLemma.TorusAction.torus_mem_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:34:42.875342+00:00
 -- url     : https://prove2.me/theorems/6855cf0b-7d9a-4368-ba13-aec973bc1fc4

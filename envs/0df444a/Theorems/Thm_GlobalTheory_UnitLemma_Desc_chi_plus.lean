@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_chi_plus
 -- name    : GlobalTheory.UnitLemma.Desc.chi_plus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:26:44.236562+00:00
 -- url     : https://prove2.me/theorems/b727cf5c-0ab5-431f-aadf-037f1e3653bb

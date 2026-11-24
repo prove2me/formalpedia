@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WpFam_TorsMem_div_mem_iff
 -- name    : GlobalTheory.WpFam.TorsMem.div_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:55:51.474587+00:00
 -- url     : https://prove2.me/theorems/c6c721c5-559f-42cb-8bc1-0d7c76e94497

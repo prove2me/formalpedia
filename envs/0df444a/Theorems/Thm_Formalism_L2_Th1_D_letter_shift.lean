@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_letter_shift
 -- name    : Formalism.L2.Th1.D.letter_shift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:14:31.068768+00:00
 -- url     : https://prove2.me/theorems/b2a9d331-7864-46ee-9e7a-dc5d9224ebd4

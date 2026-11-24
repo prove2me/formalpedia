@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_alternating_form_integral
 -- name    : Formalism.L2.Th1.F.alternating_form_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:28.243222+00:00
 -- url     : https://prove2.me/theorems/20158ebb-4c06-4fdf-86c6-f34509d2b0c4

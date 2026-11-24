@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_exists_invAlg_root
 -- name    : GlobalTheory.UnitLemma.exists_invAlg_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:37:42.41347+00:00
 -- url     : https://prove2.me/theorems/d7215633-8740-4e5d-a98b-2574f3819d26

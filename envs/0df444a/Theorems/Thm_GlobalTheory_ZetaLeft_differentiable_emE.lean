@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZetaLeft_differentiable_emE
 -- name    : GlobalTheory.ZetaLeft.differentiable_emE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:04:59.179795+00:00
 -- url     : https://prove2.me/theorems/6e54d201-5caa-48d5-9b3a-16088dbf4013

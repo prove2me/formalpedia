@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_SFam_isSeparated
 -- name    : GlobalTheory.ZM.SFam.isSeparated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:03:16.16455+00:00
 -- url     : https://prove2.me/theorems/63f1fe49-e71f-46a0-9a69-b15f099a171c

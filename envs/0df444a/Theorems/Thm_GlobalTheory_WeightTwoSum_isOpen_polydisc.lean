@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightTwoSum_isOpen_polydisc
 -- name    : GlobalTheory.WeightTwoSum.isOpen_polydisc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:51:38.115397+00:00
 -- url     : https://prove2.me/theorems/16e50150-b4f0-435c-9f99-01a9287dd9db

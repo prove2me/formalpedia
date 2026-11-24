@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinWeil_invForm_intertwiner
 -- name    : GlobalTheory.FinWeil.invForm_intertwiner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:29:47.240607+00:00
 -- url     : https://prove2.me/theorems/76ed09fd-ad98-4de9-83e6-11ba199c87a6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Orbit_eta_norm_mul
 -- name    : GlobalTheory.UnitLemma.Orbit.eta_norm_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:28:54.940801+00:00
 -- url     : https://prove2.me/theorems/3fc2bb47-d0ed-4461-9a4e-e085339fbebe

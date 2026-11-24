@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_rep_sqrt_sq
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.rep_sqrt_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:05:57.749188+00:00
 -- url     : https://prove2.me/theorems/3c7aa0ae-1717-4eda-883f-2bc3c562ea68

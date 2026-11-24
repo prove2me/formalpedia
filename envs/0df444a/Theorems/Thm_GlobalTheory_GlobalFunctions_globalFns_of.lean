@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlobalFunctions_globalFns_of
 -- name    : GlobalTheory.GlobalFunctions.globalFns_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:35:02.739329+00:00
 -- url     : https://prove2.me/theorems/fe38e4b3-5751-48c8-8bd2-774798839a69

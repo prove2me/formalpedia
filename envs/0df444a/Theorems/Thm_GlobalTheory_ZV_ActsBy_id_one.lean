@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZV_ActsBy_id_one
 -- name    : GlobalTheory.ZV.ActsBy.id_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:03:46.143825+00:00
 -- url     : https://prove2.me/theorems/01d808b5-03df-4903-945b-aad1d33dd601

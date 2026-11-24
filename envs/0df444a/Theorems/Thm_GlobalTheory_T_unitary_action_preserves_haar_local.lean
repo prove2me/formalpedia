@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitary_action_preserves_haar_local
 -- name    : GlobalTheory.T.unitary_action_preserves_haar_local
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:49:07.597644+00:00
 -- url     : https://prove2.me/theorems/9c460c7b-8bef-4c8b-8342-08592637b3b6

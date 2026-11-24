@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_residue_gauss_integral_norm_form
 -- name    : GlobalTheory.T.residue_gauss_integral_norm_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:56:41.442039+00:00
 -- url     : https://prove2.me/theorems/f1abdfd5-c4a2-47e0-8f0f-eb4e1bd6c21d

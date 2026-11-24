@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryZariskiDense_cay_cay
 -- name    : GlobalTheory.UnitaryZariskiDense.cay_cay
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:46:21.923205+00:00
 -- url     : https://prove2.me/theorems/0e6582e2-9fd5-4984-a76f-0236d4fcd2d8

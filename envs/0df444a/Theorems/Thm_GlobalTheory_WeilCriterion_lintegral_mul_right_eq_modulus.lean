@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilCriterion_lintegral_mul_right_eq_modulus
 -- name    : GlobalTheory.WeilCriterion.lintegral_mul_right_eq_modulus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:53:28.038355+00:00
 -- url     : https://prove2.me/theorems/641083a4-8f44-4675-a040-bd1fee9764a4

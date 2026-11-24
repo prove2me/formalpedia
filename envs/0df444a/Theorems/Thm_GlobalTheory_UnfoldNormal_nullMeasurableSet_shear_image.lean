@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnfoldNormal_nullMeasurableSet_shear_image
 -- name    : GlobalTheory.UnfoldNormal.nullMeasurableSet_shear_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:24:24.028228+00:00
 -- url     : https://prove2.me/theorems/65d4a360-a5d9-4570-8bc4-9b937e18ce17

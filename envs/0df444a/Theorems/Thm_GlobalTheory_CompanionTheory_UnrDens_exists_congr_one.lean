@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_exists_congr_one
 -- name    : GlobalTheory.CompanionTheory.UnrDens.exists_congr_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:19:46.889654+00:00
 -- url     : https://prove2.me/theorems/8a4897ed-e2e8-4770-ac9a-ac2c9969ed15

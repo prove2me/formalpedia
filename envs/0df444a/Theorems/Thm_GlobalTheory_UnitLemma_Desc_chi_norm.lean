@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_chi_norm
 -- name    : GlobalTheory.UnitLemma.Desc.chi_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:26:53.537603+00:00
 -- url     : https://prove2.me/theorems/43fa3eed-89ca-4f2c-8097-41a1430d0005

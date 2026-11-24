@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_power_basis_of_charpoly_separable
 -- name    : GlobalTheory.T.exists_power_basis_of_charpoly_separable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:38:25.280747+00:00
 -- url     : https://prove2.me/theorems/ce6805a3-3587-48d3-8086-83d61dc8303a

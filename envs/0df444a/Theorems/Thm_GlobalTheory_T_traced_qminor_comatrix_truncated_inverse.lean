@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_traced_qminor_comatrix_truncated_inverse
 -- name    : GlobalTheory.T.traced_qminor_comatrix_truncated_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:35.974797+00:00
 -- url     : https://prove2.me/theorems/7a8926ec-dd78-4cd6-8b50-519364cabcc8

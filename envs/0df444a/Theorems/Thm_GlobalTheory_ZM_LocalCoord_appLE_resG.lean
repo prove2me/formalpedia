@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_LocalCoord_appLE_resG
 -- name    : GlobalTheory.ZM.LocalCoord.appLE_resG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:02:48.552684+00:00
 -- url     : https://prove2.me/theorems/beeefa4f-5fde-4566-a21b-5bae3228b68a

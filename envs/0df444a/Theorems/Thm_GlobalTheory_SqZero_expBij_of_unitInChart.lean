@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_expBij_of_unitInChart
 -- name    : GlobalTheory.SqZero.expBij_of_unitInChart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:24:26.249932+00:00
 -- url     : https://prove2.me/theorems/8d02596a-eebd-47b6-83bb-4bac11f13de9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeylInt_lowerTri_of_interlaced
 -- name    : GlobalTheory.WeylInt.lowerTri_of_interlaced
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:55:39.720202+00:00
 -- url     : https://prove2.me/theorems/838c2d67-7ee6-477b-a343-eeab96c2a47d

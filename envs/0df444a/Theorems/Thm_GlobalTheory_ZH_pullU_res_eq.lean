@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_pullU_res_eq
 -- name    : GlobalTheory.ZH.pullU_res_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:02:41.986196+00:00
 -- url     : https://prove2.me/theorems/39c7888d-52ef-43d7-95ce-134e93751b95

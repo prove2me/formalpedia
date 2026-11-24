@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WrongSignGauss_lineDerivOp_mulForm
 -- name    : GlobalTheory.WrongSignGauss.lineDerivOp_mulForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:57:35.837563+00:00
 -- url     : https://prove2.me/theorems/31e66402-670d-4d87-b83a-90a8580b78a9

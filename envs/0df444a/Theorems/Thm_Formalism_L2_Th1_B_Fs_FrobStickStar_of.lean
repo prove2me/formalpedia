@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Fs_FrobStickStar_of
 -- name    : Formalism.L2.Th1.B.Fs.FrobStickStar_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:59:48.67769+00:00
 -- url     : https://prove2.me/theorems/f27ad8d5-aec4-46d9-b53a-179a2889dd33

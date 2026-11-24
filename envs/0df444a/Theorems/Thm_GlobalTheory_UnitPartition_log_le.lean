@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitPartition_log_le
 -- name    : GlobalTheory.UnitPartition.log_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:39:15.71072+00:00
 -- url     : https://prove2.me/theorems/4b1a9e61-9424-42ca-8388-bdf930aceb47

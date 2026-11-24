@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramifiedHensel_norm_sum_le_of_le
 -- name    : GlobalTheory.UnramifiedHensel.norm_sum_le_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:08:38.329399+00:00
 -- url     : https://prove2.me/theorems/44e9bf38-6db8-4f66-8805-edd0d696eab2

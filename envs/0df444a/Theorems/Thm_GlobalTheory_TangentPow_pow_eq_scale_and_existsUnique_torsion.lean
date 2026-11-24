@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TangentPow_pow_eq_scale_and_existsUnique_torsion
 -- name    : GlobalTheory.TangentPow.pow_eq_scale_and_existsUnique_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:02:42.447835+00:00
 -- url     : https://prove2.me/theorems/7dfa2554-bf4c-44a6-a57c-bb282814ba01

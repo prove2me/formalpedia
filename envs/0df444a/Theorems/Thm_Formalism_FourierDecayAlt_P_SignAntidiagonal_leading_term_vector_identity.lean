@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_leading_term_vector_identity
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.leading_term_vector_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:06:33.199802+00:00
 -- url     : https://prove2.me/theorems/32f2200d-8756-43ba-8f07-bc5b22191f27

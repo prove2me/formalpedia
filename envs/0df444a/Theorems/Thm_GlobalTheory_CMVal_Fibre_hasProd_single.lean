@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Fibre_hasProd_single
 -- name    : GlobalTheory.CMVal.Fibre.hasProd_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:04:28.179434+00:00
 -- url     : https://prove2.me/theorems/9e99046e-ce1c-446b-918d-2db5e93de6c4

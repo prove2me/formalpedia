@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExactSeq_finrank_le
 -- name    : GlobalTheory.ExactSeq.finrank_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:43:12.421271+00:00
 -- url     : https://prove2.me/theorems/b6242764-80e6-469d-9249-479952b590e6

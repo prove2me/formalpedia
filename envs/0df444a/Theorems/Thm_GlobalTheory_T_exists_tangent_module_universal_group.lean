@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_tangent_module_universal_group
 -- name    : GlobalTheory.T.exists_tangent_module_universal_group
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:43:46.160801+00:00
 -- url     : https://prove2.me/theorems/1c39a6c1-b43c-46c7-8f1f-cf14670a7613

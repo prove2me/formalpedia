@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_orthonormal_frames_hermitian_space
 -- name    : GlobalTheory.T.card_orthonormal_frames_hermitian_space
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:40:37.061241+00:00
 -- url     : https://prove2.me/theorems/736bdb29-e41a-4cf4-a307-48b0b4416346

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AlgValsFin_W_evF_localIdele_self
 -- name    : PI.AlgValsFin.W.evF_localIdele_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:03:58.641629+00:00
 -- url     : https://prove2.me/theorems/ad68e0c2-c42a-4acb-8a4f-7f21fb30928e

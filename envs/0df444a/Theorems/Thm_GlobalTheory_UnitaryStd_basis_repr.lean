@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryStd_basis_repr
 -- name    : GlobalTheory.UnitaryStd.basis_repr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:45:38.228236+00:00
 -- url     : https://prove2.me/theorems/98242c9e-7ec3-4727-b427-89aa759a93eb

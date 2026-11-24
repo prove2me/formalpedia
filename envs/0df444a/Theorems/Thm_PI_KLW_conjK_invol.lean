@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_conjK_invol
 -- name    : PI.KLW.conjK_invol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:54:09.129787+00:00
 -- url     : https://prove2.me/theorems/01d9a7c5-989c-4fae-b6ef-2458aa25bc45

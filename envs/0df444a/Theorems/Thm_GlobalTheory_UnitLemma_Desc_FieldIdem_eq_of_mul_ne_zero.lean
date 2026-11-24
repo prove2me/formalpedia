@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_FieldIdem_eq_of_mul_ne_zero
 -- name    : GlobalTheory.UnitLemma.Desc.FieldIdem.eq_of_mul_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:26:09.019618+00:00
 -- url     : https://prove2.me/theorems/dd89a711-dfe9-4792-a861-afa84bf74cc9

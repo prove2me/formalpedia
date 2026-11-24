@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Wr_sh_mul
 -- name    : Formalism.L2.Th1.B.Wr.sh_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:02:00.887802+00:00
 -- url     : https://prove2.me/theorems/a5aabd11-5b00-40cb-95a4-dbb0e28dfe9d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_GaussB_cc_expo
 -- name    : Formalism.DworkPowerSeriesWeights.GaussB.cc_expo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:03:51.578839+00:00
 -- url     : https://prove2.me/theorems/0ffc1a64-6724-4743-958c-4cadc26b916c

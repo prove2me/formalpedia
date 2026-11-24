@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_algebraMap_eq_aeval_X
 -- name    : GlobalTheory.algebraMap_eq_aeval_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:06:06.876588+00:00
 -- url     : https://prove2.me/theorems/6a5f37f5-eaa7-4059-b8e4-463c544c5b82

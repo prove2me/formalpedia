@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TangentRigid_top_of_degree_lt
 -- name    : GlobalTheory.TangentRigid.top_of_degree_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:08:41.163672+00:00
 -- url     : https://prove2.me/theorems/b870aa96-80a6-4b5f-973a-e8251478a7cd

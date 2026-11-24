@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WirtChain_ExpSum_holo
 -- name    : GlobalTheory.WirtChain.ExpSum.holo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:56:36.435314+00:00
 -- url     : https://prove2.me/theorems/d9b4370d-bc9b-47a4-8aec-744261a66ae1

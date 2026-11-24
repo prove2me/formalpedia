@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_volGL_haar
 -- name    : GlobalTheory.SplitWeil.volGL_haar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:41:50.015157+00:00
 -- url     : https://prove2.me/theorems/ce284ed2-7b01-44de-bc6e-cf73a685a19a

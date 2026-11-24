@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_tensor_maximalStable_contains_leftKernel
 -- name    : GlobalTheory.T.tensor_maximalStable_contains_leftKernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:59:33.619941+00:00
 -- url     : https://prove2.me/theorems/0071bd82-d5fc-401e-a50b-80dffa8faff9

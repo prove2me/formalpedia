@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_WeilPV_sb_smul
 -- name    : GlobalTheory.Phase.WeilPV.sb_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:07:17.091324+00:00
 -- url     : https://prove2.me/theorems/38d04bc3-b0e7-494f-b88e-f6f3d9435bf1

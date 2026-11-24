@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_ResDisc_discr_trace_isUnit
 -- name    : GlobalTheory.UnitLemma.Unr.ResDisc.discr_trace_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:35:50.969281+00:00
 -- url     : https://prove2.me/theorems/e42518d0-c01f-436e-a6ea-c4773f7cd902

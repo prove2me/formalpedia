@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZMTFin_toBase_of_Spec
 -- name    : GlobalTheory.ZMTFin.toBase_of_Spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:04:38.591992+00:00
 -- url     : https://prove2.me/theorems/a9a8e518-1f7c-4ebd-9dbb-7597e355b7d0

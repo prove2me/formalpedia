@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_jets_ring_holds
 -- name    : Formalism.L2.Th1.G.jets_ring_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:43:57.560522+00:00
 -- url     : https://prove2.me/theorems/3b7fcae0-2006-4bea-834f-ed83e60f0df8

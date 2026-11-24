@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_FullLevel_lft_of_qproj
 -- name    : GlobalTheory.ZM.FullLevel.lft_of_qproj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:03:20.392619+00:00
 -- url     : https://prove2.me/theorems/d1ce35d2-ea68-421d-b144-9747bd049c90

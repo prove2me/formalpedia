@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramOrder_isPrincipalIdealRing_of_henselian
 -- name    : GlobalTheory.UnramOrder.isPrincipalIdealRing_of_henselian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:47:03.814276+00:00
 -- url     : https://prove2.me/theorems/06a41c82-4a6f-49b3-a8b8-54bf2f0d92a6

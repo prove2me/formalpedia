@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Hk3_J_rec
 -- name    : Formalism.L2.Th1.F.Hk3.J_rec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:33:24.398734+00:00
 -- url     : https://prove2.me/theorems/d881a84c-d920-428f-aa20-5b3c6853d8f1

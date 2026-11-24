@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isSelfDualCompactOpenGroup_of_finiteDimensional
 -- name    : GlobalTheory.T.isSelfDualCompactOpenGroup_of_finiteDimensional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:34:34.19778+00:00
 -- url     : https://prove2.me/theorems/fac5c2bc-47ca-46f1-b183-c73e76f3e321

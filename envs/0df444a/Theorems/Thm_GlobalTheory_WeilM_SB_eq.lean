@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_SB_eq
 -- name    : GlobalTheory.WeilM.SB_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:54:08.289855+00:00
 -- url     : https://prove2.me/theorems/a4f3cd49-1697-4ee2-85d8-1b42e7123a5f

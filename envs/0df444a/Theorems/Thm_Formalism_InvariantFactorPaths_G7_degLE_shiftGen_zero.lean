@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_degLE_shiftGen_zero
 -- name    : Formalism.InvariantFactorPaths.G7.degLE_shiftGen_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:34.859868+00:00
 -- url     : https://prove2.me/theorems/b80640c7-d61d-49b3-8fd3-23a4a5e7b94c

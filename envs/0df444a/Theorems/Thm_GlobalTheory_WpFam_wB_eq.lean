@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WpFam_wB_eq
 -- name    : GlobalTheory.WpFam.wB_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:56:55.74051+00:00
 -- url     : https://prove2.me/theorems/63cf5e26-0863-4b4a-9fd3-247b67f7be6b

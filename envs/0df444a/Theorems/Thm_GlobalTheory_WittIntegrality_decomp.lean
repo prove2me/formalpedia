@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WittIntegrality_decomp
 -- name    : GlobalTheory.WittIntegrality.decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:56:24.658944+00:00
 -- url     : https://prove2.me/theorems/0910cfd2-7862-4c63-9543-7a6c18932cb5

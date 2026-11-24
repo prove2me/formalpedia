@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_QuadIso_measure_ball
 -- name    : GlobalTheory.CompanionTheory.SW.QuadIso.measure_ball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:50:36.308576+00:00
 -- url     : https://prove2.me/theorems/dea48f4d-8334-4c5a-8b24-bdee1996a53d

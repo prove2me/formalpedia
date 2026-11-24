@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_invariant_comp_mulVec
 -- name    : GlobalTheory.WeilM.invariant_comp_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:55:26.698775+00:00
 -- url     : https://prove2.me/theorems/c7e8b6d9-8d86-4efa-8fb7-61cdfb1011b6

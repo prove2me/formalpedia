@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitDiscAlg_QuotAlg_quotient_integral_unit
 -- name    : GlobalTheory.UnitDiscAlg.QuotAlg.quotient_integral_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:26:49.092775+00:00
 -- url     : https://prove2.me/theorems/092c9e4e-43c2-4b40-b8c4-cc02e53a9d34

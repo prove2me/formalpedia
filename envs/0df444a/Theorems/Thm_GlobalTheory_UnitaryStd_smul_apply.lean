@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryStd_smul_apply
 -- name    : GlobalTheory.UnitaryStd.smul_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:45:13.005805+00:00
 -- url     : https://prove2.me/theorems/d1304751-2df8-4065-85c2-bf263bafca2c

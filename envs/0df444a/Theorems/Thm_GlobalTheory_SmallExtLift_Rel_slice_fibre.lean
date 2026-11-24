@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmallExtLift_Rel_slice_fibre
 -- name    : GlobalTheory.SmallExtLift.Rel.slice_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:56:34.655811+00:00
 -- url     : https://prove2.me/theorems/a45cdd45-f69c-421e-b9f9-b1c8c9006bb5

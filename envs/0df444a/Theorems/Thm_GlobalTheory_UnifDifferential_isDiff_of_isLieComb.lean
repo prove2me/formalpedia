@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifDifferential_isDiff_of_isLieComb
 -- name    : GlobalTheory.UnifDifferential.isDiff_of_isLieComb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:07:01.494683+00:00
 -- url     : https://prove2.me/theorems/5e3a5d28-8b66-4ac2-b12c-bf647eb7b4ee

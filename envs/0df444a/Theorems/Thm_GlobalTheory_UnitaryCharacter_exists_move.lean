@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryCharacter_exists_move
 -- name    : GlobalTheory.UnitaryCharacter.exists_move
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:39:42.42294+00:00
 -- url     : https://prove2.me/theorems/4add8853-e50e-41d2-b925-2658287f243e

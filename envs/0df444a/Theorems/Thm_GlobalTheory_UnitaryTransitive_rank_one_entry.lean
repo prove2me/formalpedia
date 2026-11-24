@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryTransitive_rank_one_entry
 -- name    : GlobalTheory.UnitaryTransitive.rank_one_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:45:31.980035+00:00
 -- url     : https://prove2.me/theorems/1c5fc41a-74aa-41ea-8127-e45ce9c5ae3a

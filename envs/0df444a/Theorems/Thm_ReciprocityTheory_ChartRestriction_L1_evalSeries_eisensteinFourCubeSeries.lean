@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_evalSeries_eisensteinFourCubeSeries
 -- name    : ReciprocityTheory.ChartRestriction.L1.evalSeries_eisensteinFourCubeSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:38:22.768607+00:00
 -- url     : https://prove2.me/theorems/782c1b04-0547-44c7-b0e6-0653bf26eefb

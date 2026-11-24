@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_X_le_perp_xPlus
 -- name    : GlobalTheory.SA.X_le_perp_xPlus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:35:11.614004+00:00
 -- url     : https://prove2.me/theorems/d41d9ce3-cea7-4982-964b-c74dcfa9348d

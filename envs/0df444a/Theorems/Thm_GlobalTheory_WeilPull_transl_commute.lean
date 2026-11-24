@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilPull_transl_commute
 -- name    : GlobalTheory.WeilPull.transl_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:55:33.065611+00:00
 -- url     : https://prove2.me/theorems/1812e051-9c40-4b42-92ae-e00baeecbaf9

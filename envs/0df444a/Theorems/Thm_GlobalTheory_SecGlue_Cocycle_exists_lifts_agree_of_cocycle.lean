@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_Cocycle_exists_lifts_agree_of_cocycle
 -- name    : GlobalTheory.SecGlue.Cocycle.exists_lifts_agree_of_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:50:54.422409+00:00
 -- url     : https://prove2.me/theorems/e613ca4a-fca7-4864-bae6-86c7606dda94

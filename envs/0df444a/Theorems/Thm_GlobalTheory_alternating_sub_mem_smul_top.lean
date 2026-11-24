@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_alternating_sub_mem_smul_top
 -- name    : GlobalTheory.alternating_sub_mem_smul_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:05:47.284165+00:00
 -- url     : https://prove2.me/theorems/05026ce0-02ab-4790-9eda-323f9743b8bd

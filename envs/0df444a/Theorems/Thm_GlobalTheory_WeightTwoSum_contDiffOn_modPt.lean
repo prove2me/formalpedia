@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightTwoSum_contDiffOn_modPt
 -- name    : GlobalTheory.WeightTwoSum.contDiffOn_modPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:01:44.735999+00:00
 -- url     : https://prove2.me/theorems/6d1c3117-28e3-443e-849d-44f14eda1e9c

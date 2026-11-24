@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightedInverseBound_abs_entry_le
 -- name    : GlobalTheory.WeightedInverseBound.abs_entry_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:52:51.452783+00:00
 -- url     : https://prove2.me/theorems/4ff9950a-d4c9-4681-91f0-9e0b8fa9dd38

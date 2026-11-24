@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TangentRigid_Top_natDegree_eq
 -- name    : GlobalTheory.TangentRigid.Top.natDegree_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:08:36.1738+00:00
 -- url     : https://prove2.me/theorems/516b54d1-e28e-4c73-8941-0238416d04d2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_sharpIndex_inr
 -- name    : GlobalTheory.ZM.sharpIndex_inr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:03:02.607665+00:00
 -- url     : https://prove2.me/theorems/d7a73f94-2317-4798-9eec-aa4fd093839f

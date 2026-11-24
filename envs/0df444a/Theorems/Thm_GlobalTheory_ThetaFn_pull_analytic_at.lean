@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFn_pull_analytic_at
 -- name    : GlobalTheory.ThetaFn.pull_analytic_at
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:06:38.882241+00:00
 -- url     : https://prove2.me/theorems/0b2be6e8-6e11-44b1-a44c-4683954feb55

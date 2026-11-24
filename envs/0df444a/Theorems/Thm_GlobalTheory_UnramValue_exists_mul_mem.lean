@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramValue_exists_mul_mem
 -- name    : GlobalTheory.UnramValue.exists_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:39:31.400058+00:00
 -- url     : https://prove2.me/theorems/c7d506b8-f88b-4834-a368-d1279a8787b8

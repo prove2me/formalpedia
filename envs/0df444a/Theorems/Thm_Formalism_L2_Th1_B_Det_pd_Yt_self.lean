@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Det_pd_Yt_self
 -- name    : Formalism.L2.Th1.B.Det.pd_Yt_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:00:22.40675+00:00
 -- url     : https://prove2.me/theorems/ccf46dea-4d40-4f50-a3cb-df836521311d

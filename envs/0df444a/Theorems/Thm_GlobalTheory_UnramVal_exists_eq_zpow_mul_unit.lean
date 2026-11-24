@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramVal_exists_eq_zpow_mul_unit
 -- name    : GlobalTheory.UnramVal.exists_eq_zpow_mul_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:47:10.304098+00:00
 -- url     : https://prove2.me/theorems/8c23b93c-b2ab-4f01-8d98-0888ec21d8ca

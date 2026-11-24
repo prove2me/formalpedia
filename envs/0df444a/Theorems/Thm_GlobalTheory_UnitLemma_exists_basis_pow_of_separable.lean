@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_exists_basis_pow_of_separable
 -- name    : GlobalTheory.UnitLemma.exists_basis_pow_of_separable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:00:21.482804+00:00
 -- url     : https://prove2.me/theorems/d69de45d-3fd7-4994-973f-6a920b82e069

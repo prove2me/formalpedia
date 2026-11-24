@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceSumRealEmbeddings_traceInf_algebraMap
 -- name    : GlobalTheory.TraceSumRealEmbeddings.traceInf_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:59:01.523426+00:00
 -- url     : https://prove2.me/theorems/6a8f6d73-6c3f-4661-86fe-c7ce22447108

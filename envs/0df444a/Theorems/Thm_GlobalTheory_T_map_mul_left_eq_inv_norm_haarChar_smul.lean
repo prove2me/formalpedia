@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_map_mul_left_eq_inv_norm_haarChar_smul
 -- name    : GlobalTheory.T.map_mul_left_eq_inv_norm_haarChar_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:00:40.701494+00:00
 -- url     : https://prove2.me/theorems/677555a0-1c3e-443d-a6b2-2b80d3f53188

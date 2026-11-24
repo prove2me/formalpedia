@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFn_IsFnAt_value_mul_frame
 -- name    : GlobalTheory.ThetaFn.IsFnAt.value_mul_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:05:11.632205+00:00
 -- url     : https://prove2.me/theorems/0985f156-c15a-4c28-9d8e-02b68d53a7eb

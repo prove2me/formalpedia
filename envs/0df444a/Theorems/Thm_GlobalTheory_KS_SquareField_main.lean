@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_SquareField_main
 -- name    : GlobalTheory.KS.SquareField.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:52:43.449777+00:00
 -- url     : https://prove2.me/theorems/517cc8e1-46bc-4dab-9e1f-1d16ab173385

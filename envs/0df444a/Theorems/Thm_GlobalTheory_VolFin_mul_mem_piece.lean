@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VolFin_mul_mem_piece
 -- name    : GlobalTheory.VolFin.mul_mem_piece
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:51:08.124702+00:00
 -- url     : https://prove2.me/theorems/8419ff0c-4ae5-4a43-b7ee-6a4a57034224

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertSupp_unipRad_eq_unipOf
 -- name    : GlobalTheory.InertSupp.unipRad_eq_unipOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:51:43.966232+00:00
 -- url     : https://prove2.me/theorems/68957501-a04a-42db-8509-fcc5001fecd9

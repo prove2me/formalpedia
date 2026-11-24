@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_adicLevelMap_closedPoint
 -- name    : GlobalTheory.adicLevelMap_closedPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:06:01.504935+00:00
 -- url     : https://prove2.me/theorems/6bf00e9a-5489-42c5-8f93-dcacd1d61e2a

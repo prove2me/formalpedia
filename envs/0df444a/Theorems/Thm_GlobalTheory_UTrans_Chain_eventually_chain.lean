@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_Chain_eventually_chain
 -- name    : GlobalTheory.UTrans.Chain.eventually_chain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:19:56.266099+00:00
 -- url     : https://prove2.me/theorems/735467fe-1bec-491d-ad1a-772d658702a8

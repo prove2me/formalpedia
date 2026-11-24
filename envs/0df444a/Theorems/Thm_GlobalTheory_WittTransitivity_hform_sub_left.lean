@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WittTransitivity_hform_sub_left
 -- name    : GlobalTheory.WittTransitivity.hform_sub_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:56:46.568866+00:00
 -- url     : https://prove2.me/theorems/c526ba4c-d6fd-4012-9048-2cd047476932

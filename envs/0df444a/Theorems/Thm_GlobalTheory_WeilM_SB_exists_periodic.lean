@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_SB_exists_periodic
 -- name    : GlobalTheory.WeilM.SB.exists_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:54:31.896119+00:00
 -- url     : https://prove2.me/theorems/f036ace1-d890-49f1-97f3-5365a2d36de1

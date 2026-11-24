@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TracedComatrix_traced_comatrix
 -- name    : GlobalTheory.TracedComatrix.traced_comatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:12:03.392956+00:00
 -- url     : https://prove2.me/theorems/158fcb19-156d-460a-8120-6fd4a2605583

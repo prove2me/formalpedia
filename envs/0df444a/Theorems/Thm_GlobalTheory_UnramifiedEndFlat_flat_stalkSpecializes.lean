@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramifiedEndFlat_flat_stalkSpecializes
 -- name    : GlobalTheory.UnramifiedEndFlat.flat_stalkSpecializes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:49:04.358301+00:00
 -- url     : https://prove2.me/theorems/89679951-3388-4f83-ba40-69eabd86b499

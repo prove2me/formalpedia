@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorFrame_detG_ne_zero
 -- name    : GlobalTheory.MinorFrame.detG_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:03:49.885198+00:00
 -- url     : https://prove2.me/theorems/6ba650b3-586f-4ad8-90a0-4efa81ce500b

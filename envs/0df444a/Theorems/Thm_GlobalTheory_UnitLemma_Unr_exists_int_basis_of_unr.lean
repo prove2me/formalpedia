@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_exists_int_basis_of_unr
 -- name    : GlobalTheory.UnitLemma.Unr.exists_int_basis_of_unr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:00:21.144152+00:00
 -- url     : https://prove2.me/theorems/373431bb-7b42-4145-a3b2-41a268e30006

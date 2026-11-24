@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_UnipPow_add_one_pow_eq
 -- name    : GlobalTheory.RootEx.UnipPow.add_one_pow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:09:29.418501+00:00
 -- url     : https://prove2.me/theorems/c5e227fa-e548-44e4-8e23-9fbf5742e1ff

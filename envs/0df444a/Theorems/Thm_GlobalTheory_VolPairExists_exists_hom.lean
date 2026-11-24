@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VolPairExists_exists_hom
 -- name    : GlobalTheory.VolPairExists.exists_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:52:03.346324+00:00
 -- url     : https://prove2.me/theorems/014bbe28-3c3e-4fe6-ba69-59f6c771af9e

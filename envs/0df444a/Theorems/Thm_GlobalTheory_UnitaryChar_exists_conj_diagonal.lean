@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryChar_exists_conj_diagonal
 -- name    : GlobalTheory.UnitaryChar.exists_conj_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:39:06.968006+00:00
 -- url     : https://prove2.me/theorems/29caeac4-2f56-4bfd-8a7c-2793aa02498d

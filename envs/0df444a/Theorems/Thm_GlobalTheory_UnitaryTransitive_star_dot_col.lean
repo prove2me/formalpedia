@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryTransitive_star_dot_col
 -- name    : GlobalTheory.UnitaryTransitive.star_dot_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:45:28.313868+00:00
 -- url     : https://prove2.me/theorems/f9b0ddd8-e098-4027-87ef-6ddbd360a6cc

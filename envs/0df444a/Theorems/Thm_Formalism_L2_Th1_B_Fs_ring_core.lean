@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Fs_ring_core
 -- name    : Formalism.L2.Th1.B.Fs.ring_core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:59:41.175091+00:00
 -- url     : https://prove2.me/theorems/1efd54b2-084b-43d3-9623-f0f62680c9f9

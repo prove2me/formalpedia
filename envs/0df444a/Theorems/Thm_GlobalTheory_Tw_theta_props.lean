@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_theta_props
 -- name    : GlobalTheory.Tw.theta_props
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:13:45.012878+00:00
 -- url     : https://prove2.me/theorems/9fbe1903-3f73-4772-bee4-ae675fd18ceb

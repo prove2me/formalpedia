@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_resEtaPow_split_iff
 -- name    : GlobalTheory.WeilM.resEtaPow_split_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:54:50.716357+00:00
 -- url     : https://prove2.me/theorems/6311932a-737b-4d8d-b605-03d8bc9ce22b

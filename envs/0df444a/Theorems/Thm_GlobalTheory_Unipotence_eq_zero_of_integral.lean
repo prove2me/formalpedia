@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Unipotence_eq_zero_of_integral
 -- name    : GlobalTheory.Unipotence.eq_zero_of_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:25:16.048864+00:00
 -- url     : https://prove2.me/theorems/016254e8-41d3-405d-9cd1-ea0879baa5a7

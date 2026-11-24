@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Unfolding_fc_col
 -- name    : GlobalTheory.RootEx.Unfolding.fc_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:52:53.231857+00:00
 -- url     : https://prove2.me/theorems/c70774c6-bc53-416b-af08-16de62e4f48f

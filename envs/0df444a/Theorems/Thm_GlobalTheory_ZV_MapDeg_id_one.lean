@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZV_MapDeg_id_one
 -- name    : GlobalTheory.ZV.MapDeg.id_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:03:49.899272+00:00
 -- url     : https://prove2.me/theorems/242e4f49-7ec4-4b11-8650-67ab5c5fb2b1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeylDuality_normB_nondeg
 -- name    : GlobalTheory.WeylDuality.normB_nondeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:55:54.669043+00:00
 -- url     : https://prove2.me/theorems/f4fd044d-5b4a-419c-842a-ff72960b41b1

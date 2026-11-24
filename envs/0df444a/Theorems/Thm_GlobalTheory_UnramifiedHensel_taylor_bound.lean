@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramifiedHensel_taylor_bound
 -- name    : GlobalTheory.UnramifiedHensel.taylor_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:08:32.266288+00:00
 -- url     : https://prove2.me/theorems/c4451b89-147d-40db-a7dd-2061ac58284c

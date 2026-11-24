@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitriJac_differentiableAt_adjugate
 -- name    : GlobalTheory.UnitriJac.differentiableAt_adjugate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:47:39.624018+00:00
 -- url     : https://prove2.me/theorems/6e0d40bc-6df7-434c-a49e-511063cc039c

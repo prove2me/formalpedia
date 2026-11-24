@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_piTensor_maximalStable_contains_positionKernel
 -- name    : GlobalTheory.T.piTensor_maximalStable_contains_positionKernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:55:22.192812+00:00
 -- url     : https://prove2.me/theorems/f219c387-62a7-4642-af32-87ca746b6f57

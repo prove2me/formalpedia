@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Fs_pderiv_series_at_variable
 -- name    : Formalism.L2.Th1.B.Fs.pderiv_series_at_variable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:02:51.730233+00:00
 -- url     : https://prove2.me/theorems/1bcc8973-cad3-4d17-85e1-7d7033cfa924

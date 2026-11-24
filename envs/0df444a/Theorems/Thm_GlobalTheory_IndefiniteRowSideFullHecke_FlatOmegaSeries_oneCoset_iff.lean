@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_FlatOmegaSeries_oneCoset_iff
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.FlatOmegaSeries.oneCoset_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:02:24.876621+00:00
 -- url     : https://prove2.me/theorems/8f8c734d-62a4-4bb3-82c8-e1ea0568d87f

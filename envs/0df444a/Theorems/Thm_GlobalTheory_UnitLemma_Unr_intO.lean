@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_intO
 -- name    : GlobalTheory.UnitLemma.Unr.intO
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:09:30.697355+00:00
 -- url     : https://prove2.me/theorems/da671b04-d9df-405d-9a14-c2e155fba1f9

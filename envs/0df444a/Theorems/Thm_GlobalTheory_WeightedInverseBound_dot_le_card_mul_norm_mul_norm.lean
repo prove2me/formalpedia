@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightedInverseBound_dot_le_card_mul_norm_mul_norm
 -- name    : GlobalTheory.WeightedInverseBound.dot_le_card_mul_norm_mul_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:55:23.877125+00:00
 -- url     : https://prove2.me/theorems/b57d8146-2eb9-43c8-b80f-a934def57749

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Wr_partialDeriv_two_shear
 -- name    : Formalism.L2.Th1.B.Wr.partialDeriv_two_shear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:01:09.818632+00:00
 -- url     : https://prove2.me/theorems/1307211d-60ad-410b-948d-e5f0ed7c6f3d

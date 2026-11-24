@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Bridge_unram_of_involution
 -- name    : GlobalTheory.UnitLemma.Bridge.unram_of_involution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:26:18.670811+00:00
 -- url     : https://prove2.me/theorems/f4f7d8bc-f224-4421-863d-21711059c2e2

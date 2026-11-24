@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_LiftTorus_exists_unit
 -- name    : GlobalTheory.SS.LiftTorus.exists_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:35:50.2927+00:00
 -- url     : https://prove2.me/theorems/e540d093-003c-4934-b947-e17b5d3b0149

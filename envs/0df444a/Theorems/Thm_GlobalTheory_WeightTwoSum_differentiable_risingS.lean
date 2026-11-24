@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightTwoSum_differentiable_risingS
 -- name    : GlobalTheory.WeightTwoSum.differentiable_risingS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:52:23.640077+00:00
 -- url     : https://prove2.me/theorems/3222cfba-c8cb-4bbe-b9d1-42432a1a04a5

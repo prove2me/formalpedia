@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_ReductionFirst_hcompl_le_Tw
 -- name    : Formalism.DivisionValues.ReductionFirst.hcompl_le_Tw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:04:59.201391+00:00
 -- url     : https://prove2.me/theorems/00b68d47-af58-4689-8c54-f9cf50953d74

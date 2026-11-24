@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramOrder_exists_mem_sub_cj_ne_zero
 -- name    : GlobalTheory.UnramOrder.exists_mem_sub_cj_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:47:18.802888+00:00
 -- url     : https://prove2.me/theorems/6e11066d-9bc8-4bc4-b253-9ceab300ee64

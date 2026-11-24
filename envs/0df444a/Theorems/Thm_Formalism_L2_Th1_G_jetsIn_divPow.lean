@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_jetsIn_divPow
 -- name    : Formalism.L2.Th1.G.jetsIn_divPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:44:12.678677+00:00
 -- url     : https://prove2.me/theorems/394b0ff1-b77d-4d06-b76a-983921deeb92

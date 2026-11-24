@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_WtLin_weight_zero
 -- name    : GlobalTheory.ZH.WtLin.weight_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:02:36.139604+00:00
 -- url     : https://prove2.me/theorems/6b22fa63-9631-40fb-8d9e-14874daa3e53

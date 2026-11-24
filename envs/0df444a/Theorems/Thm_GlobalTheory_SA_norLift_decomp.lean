@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_norLift_decomp
 -- name    : GlobalTheory.SA.norLift_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:46:15.876406+00:00
 -- url     : https://prove2.me/theorems/aee726c7-2a49-4b66-900e-1a4564721b14

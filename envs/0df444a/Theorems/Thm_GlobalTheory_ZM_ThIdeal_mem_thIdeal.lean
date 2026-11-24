@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_ThIdeal_mem_thIdeal
 -- name    : GlobalTheory.ZM.ThIdeal.mem_thIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:02:51.25628+00:00
 -- url     : https://prove2.me/theorems/7b254f41-262a-4eb6-b504-37354b8bc0b2

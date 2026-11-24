@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnipCompact_eventually_mem_grp
 -- name    : GlobalTheory.UnipCompact.eventually_mem_grp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:02:30.015617+00:00
 -- url     : https://prove2.me/theorems/71dbb6e9-6bc0-4d61-97b9-28bb636810ce

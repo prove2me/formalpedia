@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Wr_restrictThirdZero_natCast
 -- name    : Formalism.L2.Th1.B.Wr.restrictThirdZero_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:01:15.948679+00:00
 -- url     : https://prove2.me/theorems/85cc8a82-2bd3-425f-8e0a-0aaea1d13663

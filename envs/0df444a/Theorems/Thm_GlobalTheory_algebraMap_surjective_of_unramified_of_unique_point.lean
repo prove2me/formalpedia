@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_algebraMap_surjective_of_unramified_of_unique_point
 -- name    : GlobalTheory.algebraMap_surjective_of_unramified_of_unique_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:05:48.864235+00:00
 -- url     : https://prove2.me/theorems/52760110-d383-4b07-b0ed-c5b67fd67b0c

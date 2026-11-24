@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgAlg_WittField_witt_vec
 -- name    : GlobalTheory.SgAlg.WittField.witt_vec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:54:13.643154+00:00
 -- url     : https://prove2.me/theorems/08e817b4-fc70-41b8-9670-f887f433634e

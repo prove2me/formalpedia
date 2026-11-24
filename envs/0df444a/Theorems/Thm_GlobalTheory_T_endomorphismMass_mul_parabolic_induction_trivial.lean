@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_endomorphismMass_mul_parabolic_induction_trivial
 -- name    : GlobalTheory.T.endomorphismMass_mul_parabolic_induction_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:48:08.676099+00:00
 -- url     : https://prove2.me/theorems/a54cb66e-728e-43df-922a-9ceb6326b15e

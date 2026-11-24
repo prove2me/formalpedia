@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightTwoSum_Bound_eTerm_bound
 -- name    : GlobalTheory.WeightTwoSum.Bound.eTerm_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:52:21.796832+00:00
 -- url     : https://prove2.me/theorems/a4bad2de-f910-434f-bde8-670578a95d92

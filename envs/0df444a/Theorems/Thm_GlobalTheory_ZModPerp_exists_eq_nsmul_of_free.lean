@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZModPerp_exists_eq_nsmul_of_free
 -- name    : GlobalTheory.ZModPerp.exists_eq_nsmul_of_free
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:03:27.428812+00:00
 -- url     : https://prove2.me/theorems/b834b313-ddac-4ae7-a2c8-c7bd657252a1

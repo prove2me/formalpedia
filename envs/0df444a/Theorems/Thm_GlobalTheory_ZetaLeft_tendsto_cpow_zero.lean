@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZetaLeft_tendsto_cpow_zero
 -- name    : GlobalTheory.ZetaLeft.tendsto_cpow_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:04:56.548882+00:00
 -- url     : https://prove2.me/theorems/0aa8dfde-8d93-4447-91b2-21a13e0fd3b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_Inhab_inhabitants
 -- name    : GlobalTheory.SgGlob.Inhab.inhabitants
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:54:24.994102+00:00
 -- url     : https://prove2.me/theorems/60e5c30f-c709-417c-b9d2-e4fd6f5e1845

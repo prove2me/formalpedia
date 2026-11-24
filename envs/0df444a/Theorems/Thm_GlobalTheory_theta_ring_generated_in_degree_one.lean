@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_theta_ring_generated_in_degree_one
 -- name    : GlobalTheory.theta_ring_generated_in_degree_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:58:40.569805+00:00
 -- url     : https://prove2.me/theorems/ad853096-3e21-4cd5-b5c8-83528bef8d1e

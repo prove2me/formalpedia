@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JacquetExact_exists_finset_of_mem_twKer
 -- name    : GlobalTheory.JacquetExact.exists_finset_of_mem_twKer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:09:04.797643+00:00
 -- url     : https://prove2.me/theorems/f8124200-d1bf-4486-8c02-e86c6a4c80d5

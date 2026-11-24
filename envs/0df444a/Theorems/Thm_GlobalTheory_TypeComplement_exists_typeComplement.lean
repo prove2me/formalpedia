@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TypeComplement_exists_typeComplement
 -- name    : GlobalTheory.TypeComplement.exists_typeComplement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:16:34.190455+00:00
 -- url     : https://prove2.me/theorems/4ef1c03e-76e0-4617-956e-04b91d08f21a

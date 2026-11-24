@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceSpread_finrank_iff_trace
 -- name    : GlobalTheory.TraceSpread.finrank_iff_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:11:20.35007+00:00
 -- url     : https://prove2.me/theorems/b98cf1aa-fac3-432a-b235-9b80284eeb83

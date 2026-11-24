@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Fs_eval_last_zero_at_variable_one
 -- name    : Formalism.L2.Th1.B.Fs.eval_last_zero_at_variable_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:59:38.970114+00:00
 -- url     : https://prove2.me/theorems/98a69b7b-46b8-4f93-ba5f-2fc6dd8169dc

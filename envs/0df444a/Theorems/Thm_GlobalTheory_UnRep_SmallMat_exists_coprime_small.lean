@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_SmallMat_exists_coprime_small
 -- name    : GlobalTheory.UnRep.SmallMat.exists_coprime_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:23:29.938811+00:00
 -- url     : https://prove2.me/theorems/a137b732-4291-4572-8d1f-8b38646fee75

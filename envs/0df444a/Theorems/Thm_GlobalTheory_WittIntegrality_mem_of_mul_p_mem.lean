@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WittIntegrality_mem_of_mul_p_mem
 -- name    : GlobalTheory.WittIntegrality.mem_of_mul_p_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:56:29.161386+00:00
 -- url     : https://prove2.me/theorems/7896966d-3de7-46a4-b8dc-42c0b4ff8c47

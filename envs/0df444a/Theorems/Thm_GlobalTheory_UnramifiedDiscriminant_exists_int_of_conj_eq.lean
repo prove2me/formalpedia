@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramifiedDiscriminant_exists_int_of_conj_eq
 -- name    : GlobalTheory.UnramifiedDiscriminant.exists_int_of_conj_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:48:59.466856+00:00
 -- url     : https://prove2.me/theorems/9a3c78c0-7573-433e-8775-8627aa399e1c

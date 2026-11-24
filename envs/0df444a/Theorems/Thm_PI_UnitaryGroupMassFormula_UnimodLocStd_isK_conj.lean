@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_isK_conj
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.isK_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:03:22.800454+00:00
 -- url     : https://prove2.me/theorems/ce398397-927c-4736-bcd1-7eb67d0e1774

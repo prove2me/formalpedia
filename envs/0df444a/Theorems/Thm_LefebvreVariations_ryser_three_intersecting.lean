@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LefebvreVariations_ryser_three_intersecting
 -- name    : LefebvreVariations.ryser_three_intersecting
--- status  : Open
+-- status  : Proved
 -- author  : @Secousses
 -- created : 2026-11-24T22:06:11.694557+00:00
 -- url     : https://prove2.me/theorems/199f359d-21ce-4160-8e8d-67998f4a8958

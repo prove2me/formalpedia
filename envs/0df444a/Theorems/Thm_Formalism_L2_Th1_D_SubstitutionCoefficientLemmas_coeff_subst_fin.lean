@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_SubstitutionCoefficientLemmas_coeff_subst_fin
 -- name    : Formalism.L2.Th1.D.SubstitutionCoefficientLemmas.coeff_subst_fin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:09:29.03896+00:00
 -- url     : https://prove2.me/theorems/bc1178b4-b24f-42cb-aee1-15f82beb4ac9

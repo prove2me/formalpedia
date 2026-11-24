@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WittTrace_exists_dual_ne_zero
 -- name    : GlobalTheory.WittTrace.exists_dual_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:56:18.191672+00:00
 -- url     : https://prove2.me/theorems/3a7e5577-7638-4923-957d-1d51862efb16

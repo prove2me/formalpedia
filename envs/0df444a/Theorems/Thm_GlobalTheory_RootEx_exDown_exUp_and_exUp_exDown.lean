@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_exDown_exUp_and_exUp_exDown
 -- name    : GlobalTheory.RootEx.exDown_exUp_and_exUp_exDown
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:56:34.182568+00:00
 -- url     : https://prove2.me/theorems/8f3cebc3-a123-483d-8753-db312d48f540

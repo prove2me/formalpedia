@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionHolomorphic_exists_differentiableOn_torsSq
 -- name    : GlobalTheory.TorsionHolomorphic.exists_differentiableOn_torsSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:09:07.396343+00:00
 -- url     : https://prove2.me/theorems/2b1575c4-e9f6-4daa-9267-4474c7385f36

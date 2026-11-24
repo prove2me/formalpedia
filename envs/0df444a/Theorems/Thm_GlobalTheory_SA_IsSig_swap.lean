@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_IsSig_swap
 -- name    : GlobalTheory.SA.IsSig.swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:36:13.532551+00:00
 -- url     : https://prove2.me/theorems/44875d51-3736-457e-9d38-a11eeba08a02

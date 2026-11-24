@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramifiedDiscriminant_exists_discr_notMem
 -- name    : GlobalTheory.UnramifiedDiscriminant.exists_discr_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:49:30.538115+00:00
 -- url     : https://prove2.me/theorems/3c9e57c2-1695-4e5b-b672-e71e88d66003

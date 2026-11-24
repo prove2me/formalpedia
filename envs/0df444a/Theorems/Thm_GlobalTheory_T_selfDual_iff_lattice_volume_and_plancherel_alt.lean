@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_selfDual_iff_lattice_volume_and_plancherel_alt
 -- name    : GlobalTheory.T.selfDual_iff_lattice_volume_and_plancherel_alt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:54:59.770739+00:00
 -- url     : https://prove2.me/theorems/7a1ba5d8-a492-4783-a1d7-85495c6fbc9e

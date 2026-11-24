@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bijective_toSpanSingleton_tprod
 -- name    : GlobalTheory.bijective_toSpanSingleton_tprod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:06:37.225614+00:00
 -- url     : https://prove2.me/theorems/2620b3b6-9281-401b-b5db-2dc2d1df7a08

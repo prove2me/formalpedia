@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_veluNum_natDegree_le
 -- name    : ReciprocityTheory.ChartRestriction.L1.veluNum_natDegree_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:54:53.920795+00:00
 -- url     : https://prove2.me/theorems/bca13a7f-6515-40c6-93bc-51c5895b688b

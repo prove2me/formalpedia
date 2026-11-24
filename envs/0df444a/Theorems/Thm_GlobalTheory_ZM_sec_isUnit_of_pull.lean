@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_sec_isUnit_of_pull
 -- name    : GlobalTheory.ZM.sec_isUnit_of_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:02:51.607544+00:00
 -- url     : https://prove2.me/theorems/edb332fe-d9bb-4837-90d6-70a1f49f73a0

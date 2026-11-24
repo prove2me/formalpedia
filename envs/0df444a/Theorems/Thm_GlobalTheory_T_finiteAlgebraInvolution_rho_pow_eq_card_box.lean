@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finiteAlgebraInvolution_rho_pow_eq_card_box
 -- name    : GlobalTheory.T.finiteAlgebraInvolution_rho_pow_eq_card_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:40:07.916044+00:00
 -- url     : https://prove2.me/theorems/68fe7fc4-b5e4-4f95-97ad-cb4bfecef08e

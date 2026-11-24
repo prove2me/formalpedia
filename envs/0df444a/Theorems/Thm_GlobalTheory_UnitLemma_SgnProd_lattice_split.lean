@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_SgnProd_lattice_split
 -- name    : GlobalTheory.UnitLemma.SgnProd.lattice_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:33:53.571256+00:00
 -- url     : https://prove2.me/theorems/448f7892-8014-4768-a48a-5d5d506d724f

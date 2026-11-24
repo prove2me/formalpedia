@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_StabIndex_relIndex_ne_zero_of_between
 -- name    : GlobalTheory.UnitLemma.StabIndex.relIndex_ne_zero_of_between
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:35:06.553158+00:00
 -- url     : https://prove2.me/theorems/b1c4a2b1-09b1-49c9-aff9-13c375522b53

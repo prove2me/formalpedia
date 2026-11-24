@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnfoldNormal_ae_exists_pairGroup_smul_mem_shear
 -- name    : GlobalTheory.UnfoldNormal.ae_exists_pairGroup_smul_mem_shear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:24:38.875256+00:00
 -- url     : https://prove2.me/theorems/b601e273-974b-483a-a8b4-bd0f9479649d

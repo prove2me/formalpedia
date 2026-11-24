@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeylDuality_fockB_apply
 -- name    : GlobalTheory.WeylDuality.fockB_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:55:49.710113+00:00
 -- url     : https://prove2.me/theorems/af6b4a26-ac49-47dc-85d6-6d9ea91417f3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_intMap_isIntegral_of_unr
 -- name    : GlobalTheory.UnitLemma.Unr.intMap_isIntegral_of_unr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:36:57.04698+00:00
 -- url     : https://prove2.me/theorems/e65fab39-52f3-4cb0-80c4-9430038dd063

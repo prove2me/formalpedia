@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_POf_euler_defect
 -- name    : Formalism.L2.Th1.F.POf.euler_defect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:18:23.928224+00:00
 -- url     : https://prove2.me/theorems/a0fb94aa-7e55-44f9-a382-a197795ce15a

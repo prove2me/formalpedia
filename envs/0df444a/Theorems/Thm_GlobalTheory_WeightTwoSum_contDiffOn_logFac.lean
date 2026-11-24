@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightTwoSum_contDiffOn_logFac
 -- name    : GlobalTheory.WeightTwoSum.contDiffOn_logFac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:52:09.956809+00:00
 -- url     : https://prove2.me/theorems/48e5d632-3974-4845-b3db-b7f58dc9434e

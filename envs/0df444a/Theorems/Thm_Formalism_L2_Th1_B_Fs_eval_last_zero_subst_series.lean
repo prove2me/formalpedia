@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Fs_eval_last_zero_subst_series
 -- name    : Formalism.L2.Th1.B.Fs.eval_last_zero_subst_series
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:59:12.932004+00:00
 -- url     : https://prove2.me/theorems/75ea2846-6242-4b38-baac-0c029ba35b89

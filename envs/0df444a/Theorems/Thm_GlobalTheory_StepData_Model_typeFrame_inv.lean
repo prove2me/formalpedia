@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_Model_typeFrame_inv
 -- name    : GlobalTheory.StepData.Model.typeFrame_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:00:21.208865+00:00
 -- url     : https://prove2.me/theorems/3c61910b-0c81-4270-b1cc-d55155146e69

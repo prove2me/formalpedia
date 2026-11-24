@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeylDuality_dual_dual_of_isLattice
 -- name    : GlobalTheory.WeylDuality.dual_dual_of_isLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:55:32.114254+00:00
 -- url     : https://prove2.me/theorems/cfe78513-ca65-40fc-9c87-5fc611ad62f4

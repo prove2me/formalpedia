@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_chi_prod
 -- name    : GlobalTheory.UnitLemma.Desc.chi_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:27:17.099854+00:00
 -- url     : https://prove2.me/theorems/1a0fde52-aab5-497a-8c7c-a311a8624167

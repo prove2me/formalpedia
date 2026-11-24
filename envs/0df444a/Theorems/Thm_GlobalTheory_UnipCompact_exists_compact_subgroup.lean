@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnipCompact_exists_compact_subgroup
 -- name    : GlobalTheory.UnipCompact.exists_compact_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:00:18.813429+00:00
 -- url     : https://prove2.me/theorems/ee1fa685-527d-42db-b441-f9a2431b22c2

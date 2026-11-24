@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Klein_derivWeierstrassP_mem_intAt
 -- name    : GlobalTheory.Klein.derivWeierstrassP_mem_intAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:45:45.123639+00:00
 -- url     : https://prove2.me/theorems/1586a854-7c00-4954-82fb-b5657d434f16

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitVectorStabiliser_exists_extend
 -- name    : GlobalTheory.UnitVectorStabiliser.exists_extend
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:38:51.338681+00:00
 -- url     : https://prove2.me/theorems/a084c72a-2b2b-4c78-893d-3b5b550cda77

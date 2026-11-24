@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_SAdd_eval_second_zero_one
 -- name    : Formalism.L2.Th1.B.SAdd.eval_second_zero_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:03:18.332854+00:00
 -- url     : https://prove2.me/theorems/3fc66cfa-8f46-43e4-89eb-18faa096b124

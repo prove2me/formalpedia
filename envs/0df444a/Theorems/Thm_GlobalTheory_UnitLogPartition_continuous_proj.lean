@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLogPartition_continuous_proj
 -- name    : GlobalTheory.UnitLogPartition.continuous_proj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:38:06.756925+00:00
 -- url     : https://prove2.me/theorems/f38e741c-249e-4290-9089-d8b37582cf5c

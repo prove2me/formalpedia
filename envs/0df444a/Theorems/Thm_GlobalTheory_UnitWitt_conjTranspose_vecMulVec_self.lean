@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitWitt_conjTranspose_vecMulVec_self
 -- name    : GlobalTheory.UnitWitt.conjTranspose_vecMulVec_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:39:11.166804+00:00
 -- url     : https://prove2.me/theorems/ded53172-d125-4581-bac6-a4096cf0dee7

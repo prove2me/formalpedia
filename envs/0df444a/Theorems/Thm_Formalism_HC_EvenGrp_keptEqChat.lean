@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_EvenGrp_keptEqChat
 -- name    : Formalism.HC.EvenGrp.keptEqChat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:13:13.248459+00:00
 -- url     : https://prove2.me/theorems/efedbd76-f858-4c69-92fd-c2321b5a6aa9

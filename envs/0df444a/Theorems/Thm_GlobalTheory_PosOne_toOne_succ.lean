@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PosOne_toOne_succ
 -- name    : GlobalTheory.PosOne.toOne_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:10:02.279805+00:00
 -- url     : https://prove2.me/theorems/565c8821-a806-476c-b134-6d39da7f8c4e

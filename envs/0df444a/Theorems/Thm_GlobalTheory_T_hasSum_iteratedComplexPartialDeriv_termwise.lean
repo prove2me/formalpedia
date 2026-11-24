@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hasSum_iteratedComplexPartialDeriv_termwise
 -- name    : GlobalTheory.T.hasSum_iteratedComplexPartialDeriv_termwise
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:44:08.796833+00:00
 -- url     : https://prove2.me/theorems/e8961b65-e5ea-48da-a479-9c0a8c0a40ca

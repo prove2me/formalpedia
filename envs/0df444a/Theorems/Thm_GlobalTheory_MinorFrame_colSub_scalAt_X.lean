@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorFrame_colSub_scalAt_X
 -- name    : GlobalTheory.MinorFrame.colSub_scalAt_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:05:05.732016+00:00
 -- url     : https://prove2.me/theorems/0dbf1305-ae3c-43b2-9b6b-154f3fe55bc8

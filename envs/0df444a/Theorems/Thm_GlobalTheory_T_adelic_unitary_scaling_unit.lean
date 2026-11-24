@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_adelic_unitary_scaling_unit
 -- name    : GlobalTheory.T.adelic_unitary_scaling_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:26:42.761615+00:00
 -- url     : https://prove2.me/theorems/32f70892-2a2a-4821-a4d2-2894b76aa54f

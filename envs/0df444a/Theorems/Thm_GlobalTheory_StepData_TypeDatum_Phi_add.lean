@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_TypeDatum_Phi_add
 -- name    : GlobalTheory.StepData.TypeDatum.Phi_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:49:33.109638+00:00
 -- url     : https://prove2.me/theorems/5c1f95e1-f637-4ea7-87e0-c0a7e0e8873d

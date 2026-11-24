@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_E3_log_sigma_pullback_cocycle_jets_of_parallelogram_and_cube
 -- name    : Formalism.L2.Th1.B.E3.log_sigma_pullback_cocycle_jets_of_parallelogram_and_cube
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:02:24.280332+00:00
 -- url     : https://prove2.me/theorems/977c3d73-9644-4211-a65f-3f21c41c2890

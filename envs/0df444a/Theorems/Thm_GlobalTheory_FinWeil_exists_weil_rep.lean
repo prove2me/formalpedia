@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinWeil_exists_weil_rep
 -- name    : GlobalTheory.FinWeil.exists_weil_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:25:31.956384+00:00
 -- url     : https://prove2.me/theorems/73c21db5-65af-4793-baac-d4002763a595

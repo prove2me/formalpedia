@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_IntBasis_exists_key
 -- name    : GlobalTheory.UnitLemma.Unr.IntBasis.exists_key
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:33:57.944118+00:00
 -- url     : https://prove2.me/theorems/3485e507-8a43-433d-917b-b346cc0cea36

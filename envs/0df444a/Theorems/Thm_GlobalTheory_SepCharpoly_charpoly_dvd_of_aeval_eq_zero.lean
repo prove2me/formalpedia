@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SepCharpoly_charpoly_dvd_of_aeval_eq_zero
 -- name    : GlobalTheory.SepCharpoly.charpoly_dvd_of_aeval_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:53:09.455505+00:00
 -- url     : https://prove2.me/theorems/84effd43-57c4-421a-93df-2a3a7561a89b

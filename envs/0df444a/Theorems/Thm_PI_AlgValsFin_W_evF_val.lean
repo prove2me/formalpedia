@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AlgValsFin_W_evF_val
 -- name    : PI.AlgValsFin.W.evF_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:03:43.478785+00:00
 -- url     : https://prove2.me/theorems/6330fcec-4a46-4e6f-8c0e-5160b4c05569

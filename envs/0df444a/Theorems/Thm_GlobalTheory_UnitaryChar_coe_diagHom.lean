@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryChar_coe_diagHom
 -- name    : GlobalTheory.UnitaryChar.coe_diagHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:39:07.803898+00:00
 -- url     : https://prove2.me/theorems/553d2ad2-a47e-483b-9de0-511f669d69d6

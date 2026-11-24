@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_LatFrame_det_conj
 -- name    : GlobalTheory.StepData.LatFrame.det_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:50:00.853049+00:00
 -- url     : https://prove2.me/theorems/b20e98b0-b0fc-45e9-ad26-a5b257b6f042

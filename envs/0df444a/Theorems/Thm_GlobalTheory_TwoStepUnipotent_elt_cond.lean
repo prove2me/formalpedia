@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwoStepUnipotent_elt_cond
 -- name    : GlobalTheory.TwoStepUnipotent.elt_cond
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:16:42.502804+00:00
 -- url     : https://prove2.me/theorems/3d887893-b6f4-47a9-b40b-e74dfdc0f732

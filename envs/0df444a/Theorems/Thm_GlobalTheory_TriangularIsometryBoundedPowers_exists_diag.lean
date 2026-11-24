@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TriangularIsometryBoundedPowers_exists_diag
 -- name    : GlobalTheory.TriangularIsometryBoundedPowers.exists_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:12:28.160549+00:00
 -- url     : https://prove2.me/theorems/d9763ea1-b389-44f5-a9c4-d82a029413b3

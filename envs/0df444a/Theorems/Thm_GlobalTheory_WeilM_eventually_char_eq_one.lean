@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_eventually_char_eq_one
 -- name    : GlobalTheory.WeilM.eventually_char_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:55:43.57843+00:00
 -- url     : https://prove2.me/theorems/b959a056-0c1a-4180-87f4-39aaa0cf7bb2

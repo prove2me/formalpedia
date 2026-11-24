@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_B5_lift_integral_mem_range
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.B5.lift_integral_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:00:21.440183+00:00
 -- url     : https://prove2.me/theorems/49c16f77-96d0-4be2-9350-eef223f51db8

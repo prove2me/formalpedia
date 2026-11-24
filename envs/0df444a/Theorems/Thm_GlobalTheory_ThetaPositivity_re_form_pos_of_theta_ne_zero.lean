@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaPositivity_re_form_pos_of_theta_ne_zero
 -- name    : GlobalTheory.ThetaPositivity.re_form_pos_of_theta_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:59:39.436383+00:00
 -- url     : https://prove2.me/theorems/c8f9bae5-4d21-424a-9440-9b60aa6d9e3e

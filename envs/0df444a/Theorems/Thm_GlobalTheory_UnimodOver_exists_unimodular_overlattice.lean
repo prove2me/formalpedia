@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnimodOver_exists_unimodular_overlattice
 -- name    : GlobalTheory.UnimodOver.exists_unimodular_overlattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:25:32.966186+00:00
 -- url     : https://prove2.me/theorems/4924ceb1-f23b-40f9-86d6-a9c0dcaf6265

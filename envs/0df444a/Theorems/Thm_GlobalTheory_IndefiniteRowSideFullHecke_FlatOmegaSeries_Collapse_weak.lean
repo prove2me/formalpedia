@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_FlatOmegaSeries_Collapse_weak
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.FlatOmegaSeries.Collapse.weak
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:02:03.291698+00:00
 -- url     : https://prove2.me/theorems/c44419b9-a6a4-45ea-8dbf-1fd5daa7b679

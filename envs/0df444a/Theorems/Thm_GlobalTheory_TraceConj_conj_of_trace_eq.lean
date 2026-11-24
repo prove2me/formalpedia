@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceConj_conj_of_trace_eq
 -- name    : GlobalTheory.TraceConj.conj_of_trace_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:48:18.29183+00:00
 -- url     : https://prove2.me/theorems/748ee080-ad46-40f4-be03-57dca158068a

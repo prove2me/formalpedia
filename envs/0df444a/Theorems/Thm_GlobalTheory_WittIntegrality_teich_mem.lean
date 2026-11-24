@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WittIntegrality_teich_mem
 -- name    : GlobalTheory.WittIntegrality.teich_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:55:52.613317+00:00
 -- url     : https://prove2.me/theorems/95136f7a-c77e-451a-86a8-40df5d9fc3fd

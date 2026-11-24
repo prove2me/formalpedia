@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_ParE_ParE_of
 -- name    : Formalism.L2.Th1.B.ParE.ParE_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:16.351567+00:00
 -- url     : https://prove2.me/theorems/c947a7e4-1899-4954-94f6-ab57dac5a2dc

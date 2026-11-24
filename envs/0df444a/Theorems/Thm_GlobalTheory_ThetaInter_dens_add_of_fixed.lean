@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaInter_dens_add_of_fixed
 -- name    : GlobalTheory.ThetaInter.dens_add_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:23:47.512004+00:00
 -- url     : https://prove2.me/theorems/e4f00945-3ece-46ff-80a0-a542f4855133

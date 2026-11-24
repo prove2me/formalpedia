@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_exists_equiv_omegaStd
 -- name    : GlobalTheory.ZM.exists_equiv_omegaStd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:03:01.377403+00:00
 -- url     : https://prove2.me/theorems/d3dfc4af-123e-4547-b773-eadcd78dcc79

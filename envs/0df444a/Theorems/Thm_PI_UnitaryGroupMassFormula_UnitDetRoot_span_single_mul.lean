@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnitDetRoot_span_single_mul
 -- name    : PI.UnitaryGroupMassFormula.UnitDetRoot.span_single_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:03:57.751516+00:00
 -- url     : https://prove2.me/theorems/2e6e409f-a379-4f69-bd6a-6b7da7cf109a

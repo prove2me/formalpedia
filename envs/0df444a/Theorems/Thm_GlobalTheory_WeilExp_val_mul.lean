@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilExp_val_mul
 -- name    : GlobalTheory.WeilExp.val_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:54:17.666561+00:00
 -- url     : https://prove2.me/theorems/6772c27f-baa0-47f2-9d83-3ec1ac039eb7

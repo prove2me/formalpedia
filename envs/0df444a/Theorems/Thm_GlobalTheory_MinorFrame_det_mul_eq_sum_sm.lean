@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorFrame_det_mul_eq_sum_sm
 -- name    : GlobalTheory.MinorFrame.det_mul_eq_sum_sm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:05:21.701933+00:00
 -- url     : https://prove2.me/theorems/9e3b66b6-4ca8-4a69-bdf6-b2d759b5a480

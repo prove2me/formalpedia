@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Vac_exists_lift
 -- name    : GlobalTheory.SW.Vac.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:42:15.957664+00:00
 -- url     : https://prove2.me/theorems/152c3451-84f9-4141-846a-e91a5dd94b3a

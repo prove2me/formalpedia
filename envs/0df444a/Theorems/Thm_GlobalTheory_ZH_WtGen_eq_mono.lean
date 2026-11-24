@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_WtGen_eq_mono
 -- name    : GlobalTheory.ZH.WtGen.eq_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:02:57.696547+00:00
 -- url     : https://prove2.me/theorems/1a864114-3861-47e9-9594-eb52e12e88ec

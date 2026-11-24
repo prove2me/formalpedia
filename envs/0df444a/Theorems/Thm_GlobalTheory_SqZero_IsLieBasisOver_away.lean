@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_IsLieBasisOver_away
 -- name    : GlobalTheory.SqZero.IsLieBasisOver.away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:21:13.380032+00:00
 -- url     : https://prove2.me/theorems/6b5e2114-4034-4648-b929-d4536be8e8ca

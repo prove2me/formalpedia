@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryStd_toMatrix_basis_dualBasis_form
 -- name    : GlobalTheory.UnitaryStd.toMatrix_basis_dualBasis_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:45:54.728745+00:00
 -- url     : https://prove2.me/theorems/59e19722-0b05-42e5-8fee-766934df98b5

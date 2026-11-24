@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_ConePrime_coneHom_mul
 -- name    : GlobalTheory.ZH.ConePrime.coneHom_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:02:11.308875+00:00
 -- url     : https://prove2.me/theorems/63f57903-92a3-4741-bf05-a2dc8beba714

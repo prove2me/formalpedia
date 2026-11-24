@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_algHom_eq_mul_pow_of_eq_localizationAway
 -- name    : GlobalTheory.algHom_eq_mul_pow_of_eq_localizationAway
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:05:59.384786+00:00
 -- url     : https://prove2.me/theorems/37bb3224-20cb-402f-b308-5db9e7658d25

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isFullLattice_prod_of_comap_inl_map_snd
 -- name    : GlobalTheory.T.isFullLattice_prod_of_comap_inl_map_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:48:09.633154+00:00
 -- url     : https://prove2.me/theorems/8e550c2c-8037-4861-b0bd-5f585396bbc2

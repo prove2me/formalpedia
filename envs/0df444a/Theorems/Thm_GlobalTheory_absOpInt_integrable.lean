@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_absOpInt_integrable
 -- name    : GlobalTheory.absOpInt_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:05:14.065356+00:00
 -- url     : https://prove2.me/theorems/558c165c-1dcd-465d-b9c7-0f1ea7db702c

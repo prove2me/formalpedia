@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SubstCoeff_isAlgebraic_coeff_prod
 -- name    : GlobalTheory.SubstCoeff.isAlgebraic_coeff_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:54:08.97787+00:00
 -- url     : https://prove2.me/theorems/3b469f65-9011-4960-823b-5bdb03f8f31a

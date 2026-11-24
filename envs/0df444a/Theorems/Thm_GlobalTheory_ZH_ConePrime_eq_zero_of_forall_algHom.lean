@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_ConePrime_eq_zero_of_forall_algHom
 -- name    : GlobalTheory.ZH.ConePrime.eq_zero_of_forall_algHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:01:40.412694+00:00
 -- url     : https://prove2.me/theorems/cc50b840-f862-4505-977a-d321876d9227

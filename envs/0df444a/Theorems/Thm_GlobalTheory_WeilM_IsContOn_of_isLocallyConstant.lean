@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_IsContOn_of_isLocallyConstant
 -- name    : GlobalTheory.WeilM.IsContOn.of_isLocallyConstant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:53:57.210041+00:00
 -- url     : https://prove2.me/theorems/1eb308c1-5ea2-49fd-82a6-885b41666e32

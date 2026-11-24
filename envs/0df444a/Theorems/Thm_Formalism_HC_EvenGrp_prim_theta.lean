@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_EvenGrp_prim_theta
 -- name    : Formalism.HC.EvenGrp.prim_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:13:58.259567+00:00
 -- url     : https://prove2.me/theorems/305f822b-439e-4c83-a697-c2aa81978a34

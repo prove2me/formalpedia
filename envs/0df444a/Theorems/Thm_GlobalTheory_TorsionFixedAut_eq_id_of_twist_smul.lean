@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionFixedAut_eq_id_of_twist_smul
 -- name    : GlobalTheory.TorsionFixedAut.eq_id_of_twist_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:08:52.332379+00:00
 -- url     : https://prove2.me/theorems/3cadaf54-e4a6-456e-beec-e3e9adac2b6d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Wr_cc_shI
 -- name    : Formalism.L2.Th1.B.Wr.cc_shI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:01:01.91439+00:00
 -- url     : https://prove2.me/theorems/5d2947db-acf3-4294-a731-b17b0ef6f435

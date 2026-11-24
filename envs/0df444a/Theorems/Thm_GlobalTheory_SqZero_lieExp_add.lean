@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_lieExp_add
 -- name    : GlobalTheory.SqZero.lieExp_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:12:32.232734+00:00
 -- url     : https://prove2.me/theorems/3200609a-c315-496c-9e70-d3a5f9fa66ea

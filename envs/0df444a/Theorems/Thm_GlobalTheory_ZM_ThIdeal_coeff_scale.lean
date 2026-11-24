@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_ThIdeal_coeff_scale
 -- name    : GlobalTheory.ZM.ThIdeal.coeff_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:02:26.072348+00:00
 -- url     : https://prove2.me/theorems/e8cfa309-ee56-4942-a94a-b64bdf30f65d

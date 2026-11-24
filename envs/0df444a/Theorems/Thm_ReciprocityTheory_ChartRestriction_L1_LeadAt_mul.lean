@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_LeadAt_mul
 -- name    : ReciprocityTheory.ChartRestriction.L1.LeadAt.mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:53:15.113605+00:00
 -- url     : https://prove2.me/theorems/e05f150a-479b-4d50-9d34-890bd9b40b96

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitriJac_hasDerivAt_nmat
 -- name    : GlobalTheory.UnitriJac.hasDerivAt_nmat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:47:45.923031+00:00
 -- url     : https://prove2.me/theorems/91612a52-6ab8-42c8-a532-705fad430981

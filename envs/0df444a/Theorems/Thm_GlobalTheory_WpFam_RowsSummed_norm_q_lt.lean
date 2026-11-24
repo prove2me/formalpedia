@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WpFam_RowsSummed_norm_q_lt
 -- name    : GlobalTheory.WpFam.RowsSummed.norm_q_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:57:19.57694+00:00
 -- url     : https://prove2.me/theorems/e37d2ce2-399b-40d1-9e3e-6177a21f3a12

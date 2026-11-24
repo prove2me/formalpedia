@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_Iota_coeff_mem
 -- name    : GlobalTheory.SgGlob.Iota.coeff_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:57:20.569405+00:00
 -- url     : https://prove2.me/theorems/d5607f61-fc43-40e3-9112-a4aab4691398

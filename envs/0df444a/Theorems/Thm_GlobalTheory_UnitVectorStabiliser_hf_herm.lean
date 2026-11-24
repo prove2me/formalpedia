@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitVectorStabiliser_hf_herm
 -- name    : GlobalTheory.UnitVectorStabiliser.hf_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:40:00.205021+00:00
 -- url     : https://prove2.me/theorems/9f752df5-6e61-4139-b564-07829a01270d

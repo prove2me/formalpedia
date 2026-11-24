@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_TypeDatum_step_lam_eq
 -- name    : GlobalTheory.StepData.TypeDatum.step_lam_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:49:34.027045+00:00
 -- url     : https://prove2.me/theorems/7959b20e-36f6-4ca9-b917-2c6c81c1fbd8

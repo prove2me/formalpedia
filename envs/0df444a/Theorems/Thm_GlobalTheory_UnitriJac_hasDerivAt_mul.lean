@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitriJac_hasDerivAt_mul
 -- name    : GlobalTheory.UnitriJac.hasDerivAt_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:47:29.101997+00:00
 -- url     : https://prove2.me/theorems/a72640a2-fac4-4f6e-8f76-bb1875675a15

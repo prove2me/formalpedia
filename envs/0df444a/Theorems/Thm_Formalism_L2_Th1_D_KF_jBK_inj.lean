@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_KF_jBK_inj
 -- name    : Formalism.L2.Th1.D.KF.jBK_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:53:38.673253+00:00
 -- url     : https://prove2.me/theorems/51032220-bc80-4c53-bfcd-d17a8c47c252

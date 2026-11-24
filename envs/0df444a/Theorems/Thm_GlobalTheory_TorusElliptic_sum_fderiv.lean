@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusElliptic_sum_fderiv
 -- name    : GlobalTheory.TorusElliptic.sum_fderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:09:54.83112+00:00
 -- url     : https://prove2.me/theorems/d12f33d7-9d1a-4389-9c4c-b708d6dfbdc1

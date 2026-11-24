@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnipotentBorder_iwahori_factorisation
 -- name    : GlobalTheory.UnipotentBorder.iwahori_factorisation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:33:30.536522+00:00
 -- url     : https://prove2.me/theorems/97a5266b-4978-4b5b-9683-9cee43d6b748

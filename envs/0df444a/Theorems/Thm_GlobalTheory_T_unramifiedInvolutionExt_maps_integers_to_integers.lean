@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unramifiedInvolutionExt_maps_integers_to_integers
 -- name    : GlobalTheory.T.unramifiedInvolutionExt_maps_integers_to_integers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:01:01.118585+00:00
 -- url     : https://prove2.me/theorems/0396a470-0b1c-4609-b50e-f4b58d2c4431

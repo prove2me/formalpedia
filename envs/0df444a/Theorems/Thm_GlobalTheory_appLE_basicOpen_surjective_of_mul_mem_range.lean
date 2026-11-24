@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_appLE_basicOpen_surjective_of_mul_mem_range
 -- name    : GlobalTheory.appLE_basicOpen_surjective_of_mul_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:06:44.399548+00:00
 -- url     : https://prove2.me/theorems/b12bee0b-5d4c-4741-9960-e42f734a528a

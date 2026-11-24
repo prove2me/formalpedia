@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitWitt_vecMulVec_mulVec_eq
 -- name    : GlobalTheory.UnitWitt.vecMulVec_mulVec_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:38:44.891116+00:00
 -- url     : https://prove2.me/theorems/466b5911-d05a-4a95-8c65-5a922cd703b8

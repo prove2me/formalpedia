@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZeroBand_norm_term_le
 -- name    : GlobalTheory.ZeroBand.norm_term_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:03:20.552849+00:00
 -- url     : https://prove2.me/theorems/aa41a56f-9e7a-4f0b-9df1-906de1fb98dd

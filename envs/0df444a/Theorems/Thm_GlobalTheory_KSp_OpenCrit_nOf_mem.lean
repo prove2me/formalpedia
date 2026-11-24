@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_OpenCrit_nOf_mem
 -- name    : GlobalTheory.KSp.OpenCrit.nOf_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:07:57.080985+00:00
 -- url     : https://prove2.me/theorems/96586804-d723-4467-a7eb-d74ae807dc24

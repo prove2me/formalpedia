@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_ParE_weierstrass_series_integral
 -- name    : Formalism.L2.Th1.B.ParE.weierstrass_series_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:59.281176+00:00
 -- url     : https://prove2.me/theorems/3329745f-912b-4e69-99c7-f5954556e877

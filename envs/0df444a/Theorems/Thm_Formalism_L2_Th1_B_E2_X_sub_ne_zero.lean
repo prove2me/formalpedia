@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_E2_X_sub_ne_zero
 -- name    : Formalism.L2.Th1.B.E2.X_sub_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:02:46.739195+00:00
 -- url     : https://prove2.me/theorems/328f72ed-da02-4806-932a-1e7988a01411

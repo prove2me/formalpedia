@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ValBoundDenom_exists_common_denominator_of_valuation_le
 -- name    : GlobalTheory.ValBoundDenom.exists_common_denominator_of_valuation_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:50:14.550022+00:00
 -- url     : https://prove2.me/theorems/e39237c2-1fca-4125-a14d-be557be0b097

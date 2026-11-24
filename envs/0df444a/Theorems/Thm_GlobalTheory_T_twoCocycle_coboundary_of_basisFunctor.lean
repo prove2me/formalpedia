@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_twoCocycle_coboundary_of_basisFunctor
 -- name    : GlobalTheory.T.twoCocycle_coboundary_of_basisFunctor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:42:00.536781+00:00
 -- url     : https://prove2.me/theorems/bbfd13a5-2e12-45a6-8c88-e8873bcd8041

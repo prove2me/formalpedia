@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_unitary_block_diagonal_levi_element
 -- name    : GlobalTheory.T.exists_unitary_block_diagonal_levi_element
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:38:56.681073+00:00
 -- url     : https://prove2.me/theorems/7ce335b5-5f0f-443b-9fed-2f140ae0b8ab

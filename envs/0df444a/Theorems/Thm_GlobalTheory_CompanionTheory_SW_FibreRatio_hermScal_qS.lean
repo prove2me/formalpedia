@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FibreRatio_hermScal_qS
 -- name    : GlobalTheory.CompanionTheory.SW.FibreRatio.hermScal_qS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:50:24.111826+00:00
 -- url     : https://prove2.me/theorems/f6e95e20-28dd-4261-8272-3ffb698caae1

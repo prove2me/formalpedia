@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_IsQuad_exists_unit_of_fixed
 -- name    : GlobalTheory.WeilM.IsQuad.exists_unit_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:54:10.402851+00:00
 -- url     : https://prove2.me/theorems/39b87d64-32ee-45e1-af96-5aa93dd00735

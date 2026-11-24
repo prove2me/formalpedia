@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeylDuality_normB_symm
 -- name    : GlobalTheory.WeylDuality.normB_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:55:50.314128+00:00
 -- url     : https://prove2.me/theorems/e88e0cf7-9cc2-406f-8cb7-7911859adc4b

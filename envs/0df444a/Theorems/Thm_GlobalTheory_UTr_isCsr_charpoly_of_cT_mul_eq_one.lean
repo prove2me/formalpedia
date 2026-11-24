@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTr_isCsr_charpoly_of_cT_mul_eq_one
 -- name    : GlobalTheory.UTr.isCsr_charpoly_of_cT_mul_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:19:57.164261+00:00
 -- url     : https://prove2.me/theorems/a44ab763-8a26-44b5-9b96-18f75ceae9d5

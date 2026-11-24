@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZV_MapDeg_of_isFinite
 -- name    : GlobalTheory.ZV.MapDeg.of_isFinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:03:59.538513+00:00
 -- url     : https://prove2.me/theorems/bd2d65c5-c26b-42a3-a798-0e08ba7395e3

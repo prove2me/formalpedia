@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TriangularityLowCoeff_exists_mul_coeff_eq_zero
 -- name    : GlobalTheory.TriangularityLowCoeff.exists_mul_coeff_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:12:25.680564+00:00
 -- url     : https://prove2.me/theorems/72ec1c83-e70b-4593-88b7-676c67f22ebc

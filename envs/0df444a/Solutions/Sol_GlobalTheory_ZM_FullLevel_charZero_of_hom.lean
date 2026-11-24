@@ -1,0 +1,37 @@
+-- Prove2me | solution 1 for GlobalTheory.ZM.FullLevel.charZero_of_hom
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-1
+-- created : 2026-11-24T22:17:56.178528+00:00
+-- url     : https://prove2.me/submissions/3a418fc0-f085-4149-9b72-55b28545534b
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_ModuliSpaces_IsGaloisCover
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_UniformisationConclusion
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_HeckeKer
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_IsHolPeriods
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_AbProj
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_UnifUniqSt
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_ModuliProofs_MinimalAndDimLe
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open AlgebraicGeometry CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj NumberField
+open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Geo.Tor
+open scoped CategoryTheory.Obj TensorProduct
+open GlobalTheory.ZM
+open GlobalTheory GlobalTheory.ZM GlobalTheory.ZM.FullLevel
+open AlgebraicGeometry CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj NumberField
+open scoped CategoryTheory.Obj TensorProduct
+namespace GlobalTheory.ZM.FullLevel
+namespace _root_.GlobalTheory.ZM.FullLevel
+theorem _root_.solution {k K : Type} [Field k] [CharZero k] [Field K]
+    (x : _root_.ReciprocityTheory.ChartRestriction.G.Geo.Tor.Sp K ⟶ _root_.ReciprocityTheory.ChartRestriction.G.Geo.Tor.Sp k) : CharZero K :=
+  (RingHom.charZero_iff (Spec.preimage x).hom.injective).1 inferInstance
+end _root_.GlobalTheory.ZM.FullLevel
+end GlobalTheory.ZM.FullLevel

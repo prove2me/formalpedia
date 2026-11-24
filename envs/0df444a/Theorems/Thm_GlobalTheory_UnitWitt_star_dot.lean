@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitWitt_star_dot
 -- name    : GlobalTheory.UnitWitt.star_dot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:38:44.945202+00:00
 -- url     : https://prove2.me/theorems/fc31ba4c-cfc7-406d-b419-2f5e0d7a0d44

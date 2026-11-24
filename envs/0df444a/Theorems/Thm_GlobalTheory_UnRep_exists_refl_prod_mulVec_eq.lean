@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_exists_refl_prod_mulVec_eq
 -- name    : GlobalTheory.UnRep.exists_refl_prod_mulVec_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:25:09.319853+00:00
 -- url     : https://prove2.me/theorems/0a8360ba-adc2-42c9-974f-52d84267d73c

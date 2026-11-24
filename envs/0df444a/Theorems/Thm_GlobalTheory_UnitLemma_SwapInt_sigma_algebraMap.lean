@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_SwapInt_sigma_algebraMap
 -- name    : GlobalTheory.UnitLemma.SwapInt.sigma_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:34:35.845813+00:00
 -- url     : https://prove2.me/theorems/ba89ba2d-cbf9-450e-9d0f-f7f43e3787a2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_apply_add_intCast_of_periodic_single
 -- name    : GlobalTheory.apply_add_intCast_of_periodic_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:05:40.079561+00:00
 -- url     : https://prove2.me/theorems/e0398150-42d5-4557-ad30-fe2103a7f5e7

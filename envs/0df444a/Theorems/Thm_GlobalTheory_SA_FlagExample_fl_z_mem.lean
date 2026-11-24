@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_FlagExample_fl_z_mem
 -- name    : GlobalTheory.SA.FlagExample.fl_z_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:36:38.541647+00:00
 -- url     : https://prove2.me/theorems/a83245cd-8a42-4eb0-bfb3-4c86cbed4019

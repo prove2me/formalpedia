@@ -49612,7 +49612,7 @@
 {"parent": "PriceCapacities.LowerBound.lemma_10_2", "child": "PriceCapacities_LowerBound_WeightedSets", "via": ["statement"]}
 {"parent": "OAI.TotientAsymptotic.cofactor_sieve_cutoff_mass", "child": "OAIQ233A000", "via": ["solution", "statement"]}
 {"parent": "OAI.TotientAsymptotic.cofactor_sieve_cutoff_mass", "child": "TotientAsymptotic", "via": ["solution", "statement"]}
-{"parent": "DetSpectralSparsify.Dense.lemma_4", "child": "DetSpectralSparsify_Dense_Multigraph", "via": ["statement"]}
+{"parent": "DetSpectralSparsify.Dense.lemma_4", "child": "DetSpectralSparsify_Dense_Multigraph", "via": ["solution", "statement"]}
 {"parent": "QuadExt.Main.lemma_7_3", "child": "QuadExt_Main_CorrBreakers", "via": ["statement"]}
 {"parent": "QuadExt.Main.lemma_7_3", "child": "QuadExt_Main_Sources", "via": ["statement"]}
 {"parent": "QuadExt.Main.lemma_7_3", "child": "SSNonExt_TV", "via": ["statement"]}

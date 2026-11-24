@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_oscillatorAction_of_gaussianPairings
 -- name    : GlobalTheory.T.exists_oscillatorAction_of_gaussianPairings
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:36:45.919353+00:00
 -- url     : https://prove2.me/theorems/2cf7d820-6cbc-4798-bad8-f084aeafe1dd

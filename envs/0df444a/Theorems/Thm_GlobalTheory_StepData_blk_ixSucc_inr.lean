@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_blk_ixSucc_inr
 -- name    : GlobalTheory.StepData.blk_ixSucc_inr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:01:26.833062+00:00
 -- url     : https://prove2.me/theorems/559a7c76-961e-421d-babc-62b39801c0cc

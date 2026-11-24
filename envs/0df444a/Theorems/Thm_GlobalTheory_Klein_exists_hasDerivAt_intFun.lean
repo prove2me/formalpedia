@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Klein_exists_hasDerivAt_intFun
 -- name    : GlobalTheory.Klein.exists_hasDerivAt_intFun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:46:01.416324+00:00
 -- url     : https://prove2.me/theorems/a5dec0fa-bded-4f92-a002-d24c74905661

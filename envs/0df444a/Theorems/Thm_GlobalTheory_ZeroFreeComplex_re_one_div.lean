@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZeroFreeComplex_re_one_div
 -- name    : GlobalTheory.ZeroFreeComplex.re_one_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:03:54.103411+00:00
 -- url     : https://prove2.me/theorems/3da48dab-1ade-430e-9a7b-d634bfaeeb80

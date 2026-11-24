@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZetaPole_tendsto_pow_mul
 -- name    : GlobalTheory.ZetaPole.tendsto_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:05:03.859931+00:00
 -- url     : https://prove2.me/theorems/650acf49-d385-4eab-99e8-e3b2da81b0d3

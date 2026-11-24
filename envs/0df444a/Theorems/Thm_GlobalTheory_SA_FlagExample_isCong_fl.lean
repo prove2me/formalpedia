@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_FlagExample_isCong_fl
 -- name    : GlobalTheory.SA.FlagExample.isCong_fl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:36:05.764854+00:00
 -- url     : https://prove2.me/theorems/5dbba64d-bb64-4511-b838-02862c7502ef

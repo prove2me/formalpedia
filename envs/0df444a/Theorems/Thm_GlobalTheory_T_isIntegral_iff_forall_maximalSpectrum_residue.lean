@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isIntegral_iff_forall_maximalSpectrum_residue
 -- name    : GlobalTheory.T.isIntegral_iff_forall_maximalSpectrum_residue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:48:33.702848+00:00
 -- url     : https://prove2.me/theorems/aa709e20-f170-4d90-a8c3-35ec405c7dcb

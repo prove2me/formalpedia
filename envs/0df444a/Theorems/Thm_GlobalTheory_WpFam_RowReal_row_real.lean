@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WpFam_RowReal_row_real
 -- name    : GlobalTheory.WpFam.RowReal.row_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:56:11.242093+00:00
 -- url     : https://prove2.me/theorems/fc2d7d5b-1617-4fec-9721-39c2dac40ae4

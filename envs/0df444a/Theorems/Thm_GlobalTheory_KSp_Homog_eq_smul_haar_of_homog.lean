@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_Homog_eq_smul_haar_of_homog
 -- name    : GlobalTheory.KSp.Homog.eq_smul_haar_of_homog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:22:16.720349+00:00
 -- url     : https://prove2.me/theorems/f25c14dc-23d1-405c-8f35-270b9cee7ec8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Hk2_hk_diff
 -- name    : Formalism.L2.Th1.F.Hk2.hk_diff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:31:01.667198+00:00
 -- url     : https://prove2.me/theorems/af22fe7e-eb30-41a5-9f7c-bc59e330c8a3

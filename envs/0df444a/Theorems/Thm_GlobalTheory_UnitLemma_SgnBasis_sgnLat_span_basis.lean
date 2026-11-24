@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_SgnBasis_sgnLat_span_basis
 -- name    : GlobalTheory.UnitLemma.SgnBasis.sgnLat_span_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:31:13.290908+00:00
 -- url     : https://prove2.me/theorems/8edf4e09-c7cb-4d59-b5f3-263d74cc44f8

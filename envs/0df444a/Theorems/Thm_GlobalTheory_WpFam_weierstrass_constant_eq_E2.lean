@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WpFam_weierstrass_constant_eq_E2
 -- name    : GlobalTheory.WpFam.weierstrass_constant_eq_E2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:57:16.757915+00:00
 -- url     : https://prove2.me/theorems/fddc6a0b-6d70-4a51-89ec-91e783b4c746

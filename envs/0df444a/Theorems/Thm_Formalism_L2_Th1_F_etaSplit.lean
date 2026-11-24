@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_etaSplit
 -- name    : Formalism.L2.Th1.F.etaSplit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:56:01.83649+00:00
 -- url     : https://prove2.me/theorems/22062b50-d246-4d0e-acd4-0609e3a01926

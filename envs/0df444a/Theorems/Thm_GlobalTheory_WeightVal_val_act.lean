@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightVal_val_act
 -- name    : GlobalTheory.WeightVal.val_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:52:33.559205+00:00
 -- url     : https://prove2.me/theorems/73c7b5ab-03d5-43e5-939d-3219b40115a4

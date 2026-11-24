@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VFComp_symb_coefVF
 -- name    : GlobalTheory.VFComp.symb_coefVF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:50:40.547255+00:00
 -- url     : https://prove2.me/theorems/eae750c4-ae12-4243-bbc4-32ea17b3e420

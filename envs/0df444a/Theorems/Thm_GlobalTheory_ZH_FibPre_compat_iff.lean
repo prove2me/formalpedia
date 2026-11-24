@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_FibPre_compat_iff
 -- name    : GlobalTheory.ZH.FibPre.compat_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:01:42.228867+00:00
 -- url     : https://prove2.me/theorems/e87e3214-f8c5-4de7-b63c-74fff118209d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WpFam_DerivExpansion_tsum_inv_cube
 -- name    : GlobalTheory.WpFam.DerivExpansion.tsum_inv_cube
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:56:14.097167+00:00
 -- url     : https://prove2.me/theorems/aa8538b2-eefc-4511-b1f1-241c0acc6c17

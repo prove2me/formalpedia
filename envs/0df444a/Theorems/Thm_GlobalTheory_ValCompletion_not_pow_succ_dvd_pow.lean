@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ValCompletion_not_pow_succ_dvd_pow
 -- name    : GlobalTheory.ValCompletion.not_pow_succ_dvd_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:50:25.092806+00:00
 -- url     : https://prove2.me/theorems/2576b890-ad9c-4283-be52-fd692ebc5ffb

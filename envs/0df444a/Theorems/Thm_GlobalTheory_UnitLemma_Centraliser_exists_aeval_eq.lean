@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Centraliser_exists_aeval_eq
 -- name    : GlobalTheory.UnitLemma.Centraliser.exists_aeval_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:26:23.157064+00:00
 -- url     : https://prove2.me/theorems/35e63dcd-2f94-4f34-b7ee-ffd9762dae72

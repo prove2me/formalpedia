@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ae_exists_pairGroup_smul_mem_sheared_domain
 -- name    : GlobalTheory.T.ae_exists_pairGroup_smul_mem_sheared_domain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:26:32.499195+00:00
 -- url     : https://prove2.me/theorems/e92733a5-1c07-4f59-a429-a07b7077b1bd

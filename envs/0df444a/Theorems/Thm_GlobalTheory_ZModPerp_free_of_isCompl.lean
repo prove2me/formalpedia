@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZModPerp_free_of_isCompl
 -- name    : GlobalTheory.ZModPerp.free_of_isCompl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:03:32.207204+00:00
 -- url     : https://prove2.me/theorems/d42a21b6-90e7-4f53-9513-e1f362042932

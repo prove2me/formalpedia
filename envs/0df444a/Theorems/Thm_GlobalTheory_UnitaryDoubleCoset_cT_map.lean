@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryDoubleCoset_cT_map
 -- name    : GlobalTheory.UnitaryDoubleCoset.cT_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:41:49.84538+00:00
 -- url     : https://prove2.me/theorems/1d3a6742-b70c-475e-889d-ba56dc4f3f7a

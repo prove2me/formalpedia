@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineThickening_isAffine_of_isPullback_of_isNilpotent
 -- name    : GlobalTheory.AffineThickening.isAffine_of_isPullback_of_isNilpotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:58:02.28226+00:00
 -- url     : https://prove2.me/theorems/e6ec2642-aa1b-4914-9f13-a955039892b9

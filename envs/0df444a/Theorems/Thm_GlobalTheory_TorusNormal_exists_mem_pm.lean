@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusNormal_exists_mem_pm
 -- name    : GlobalTheory.TorusNormal.exists_mem_pm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:11:22.641506+00:00
 -- url     : https://prove2.me/theorems/dd04cf8a-1a3b-4505-8fe7-0b8a765e81ee

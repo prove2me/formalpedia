@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TraceNormBounds_swap_commutes_subst_log
 -- name    : Formalism.L2.Th1.D.TraceNormBounds.swap_commutes_subst_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:02:13.26855+00:00
 -- url     : https://prove2.me/theorems/f1203072-6b59-4c23-812c-42f6d4ef0c0b

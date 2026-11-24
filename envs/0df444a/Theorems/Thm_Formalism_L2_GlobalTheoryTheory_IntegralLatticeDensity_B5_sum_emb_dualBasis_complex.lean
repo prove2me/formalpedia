@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_B5_sum_emb_dualBasis_complex
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.B5.sum_emb_dualBasis_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:49:56.264059+00:00
 -- url     : https://prove2.me/theorems/5cd74c21-0c3b-469a-b26f-09711ba8c3b7

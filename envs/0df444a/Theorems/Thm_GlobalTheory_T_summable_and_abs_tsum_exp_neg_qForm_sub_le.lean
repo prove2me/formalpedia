@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_summable_and_abs_tsum_exp_neg_qForm_sub_le
 -- name    : GlobalTheory.T.summable_and_abs_tsum_exp_neg_qForm_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:58:53.392364+00:00
 -- url     : https://prove2.me/theorems/24a0bd3c-ba2b-44b0-9e3d-ca10573c5bf4

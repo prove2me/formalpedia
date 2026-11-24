@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heckeYDerivativeTermIntegral_polynomial_decay
 -- name    : GlobalTheory.T.heckeYDerivativeTermIntegral_polynomial_decay
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:46:15.150801+00:00
 -- url     : https://prove2.me/theorems/4d9decf8-fbc0-4b88-ae21-7900f2443729

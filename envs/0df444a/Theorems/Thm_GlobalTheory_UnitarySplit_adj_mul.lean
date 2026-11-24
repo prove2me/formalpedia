@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitarySplit_adj_mul
 -- name    : GlobalTheory.UnitarySplit.adj_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:46:48.895152+00:00
 -- url     : https://prove2.me/theorems/29e66aed-9283-4795-9018-29ba110c5a10

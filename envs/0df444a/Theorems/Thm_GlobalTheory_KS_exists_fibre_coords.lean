@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_exists_fibre_coords
 -- name    : GlobalTheory.KS.exists_fibre_coords
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:02:55.90494+00:00
 -- url     : https://prove2.me/theorems/6b7e8563-8ca0-4e1e-ac97-406cd7790c17

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_algHom_ext_of_sub_mem_jacobson
 -- name    : GlobalTheory.algHom_ext_of_sub_mem_jacobson
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:05:40.090465+00:00
 -- url     : https://prove2.me/theorems/c2dfb97b-1a1b-4516-ae29-30e95ccf7fd7

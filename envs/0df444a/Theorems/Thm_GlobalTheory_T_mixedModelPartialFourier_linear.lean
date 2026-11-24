@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mixedModelPartialFourier_linear
 -- name    : GlobalTheory.T.mixedModelPartialFourier_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:52:59.022031+00:00
 -- url     : https://prove2.me/theorems/8d5a782a-b696-4539-a976-92d6e02d71e3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxCosets_finite_cosets
 -- name    : GlobalTheory.BoxCosets.finite_cosets
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:09:01.245403+00:00
 -- url     : https://prove2.me/theorems/e5bff14d-ede3-4eab-bc58-49441c32e564

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_WeilPV_trans_smul
 -- name    : GlobalTheory.Phase.WeilPV.trans_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:09:00.86355+00:00
 -- url     : https://prove2.me/theorems/67a6273d-a85a-4f75-b753-b5b8a4783491

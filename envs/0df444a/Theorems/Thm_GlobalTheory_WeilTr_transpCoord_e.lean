@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilTr_transpCoord_e
 -- name    : GlobalTheory.WeilTr.transpCoord_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:54:49.15411+00:00
 -- url     : https://prove2.me/theorems/290ec0f8-79bc-4c28-8403-3ba35f27a91a

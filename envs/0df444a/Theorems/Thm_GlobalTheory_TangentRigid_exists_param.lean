@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TangentRigid_exists_param
 -- name    : GlobalTheory.TangentRigid.exists_param
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:08:28.48584+00:00
 -- url     : https://prove2.me/theorems/e1b12082-c895-4255-a6de-9ba3738c00da

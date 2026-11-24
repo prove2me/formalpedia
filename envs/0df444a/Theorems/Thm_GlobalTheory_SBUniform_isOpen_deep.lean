@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SBUniform_isOpen_deep
 -- name    : GlobalTheory.SBUniform.isOpen_deep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:01:07.697983+00:00
 -- url     : https://prove2.me/theorems/191ff055-f8df-4c5c-a27d-80bce3b182e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WpFam_summable_lambert_prod
 -- name    : GlobalTheory.WpFam.summable_lambert_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:57:14.077985+00:00
 -- url     : https://prove2.me/theorems/9472117e-706d-4dcb-8e69-789496e3ec0b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WittIntegrality_key0
 -- name    : GlobalTheory.WittIntegrality.key0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:56:14.189393+00:00
 -- url     : https://prove2.me/theorems/83bfbb1c-68b6-4102-ae84-5e9ea30c62f0

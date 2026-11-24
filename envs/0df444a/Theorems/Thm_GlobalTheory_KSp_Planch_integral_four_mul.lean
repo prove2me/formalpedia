@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_Planch_integral_four_mul
 -- name    : GlobalTheory.KSp.Planch.integral_four_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:48:40.887955+00:00
 -- url     : https://prove2.me/theorems/5dc785b7-6e15-41fe-b943-a42951ae2344

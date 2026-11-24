@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_serMap_mul
 -- name    : ReciprocityTheory.ChartRestriction.L1.serMap_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:06:37.382911+00:00
 -- url     : https://prove2.me/theorems/079365d0-c673-42e3-99c3-305333a3679b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fg_units_quot_integralUnits_reduced_finite_algebra
 -- name    : GlobalTheory.T.fg_units_quot_integralUnits_reduced_finite_algebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:39:58.673422+00:00
 -- url     : https://prove2.me/theorems/fbd852e2-9e81-4b4a-a4a9-eb8912a78270

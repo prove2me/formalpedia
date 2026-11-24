@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TraceNormBounds_cc_ps_gen
 -- name    : Formalism.L2.Th1.D.TraceNormBounds.cc_ps_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:08:02.53603+00:00
 -- url     : https://prove2.me/theorems/01f399e3-e9c6-4e93-8ae8-8d61e94ad3eb

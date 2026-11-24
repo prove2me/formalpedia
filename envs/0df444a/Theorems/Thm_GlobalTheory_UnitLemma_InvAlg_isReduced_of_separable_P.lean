@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_InvAlg_isReduced_of_separable_P
 -- name    : GlobalTheory.UnitLemma.InvAlg.isReduced_of_separable_P
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:09:39.914812+00:00
 -- url     : https://prove2.me/theorems/0082e02e-62b0-4463-8fb6-6c205532f9f3

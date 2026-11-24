@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_finrank_symm_commutant_le
 -- name    : GlobalTheory.ZM.finrank_symm_commutant_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:03:19.104391+00:00
 -- url     : https://prove2.me/theorems/e0147b0f-d552-42b2-b4ae-f837d5c58b32

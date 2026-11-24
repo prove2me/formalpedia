@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_rayClassLFunction_real_zero_far_from_one
 -- name    : GlobalTheory.T.exists_rayClassLFunction_real_zero_far_from_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:38:59.30481+00:00
 -- url     : https://prove2.me/theorems/136b86cf-2e7c-4912-b659-e2a5c2ba6ecf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_charpoly_overExt_separable
 -- name    : GlobalTheory.UnitLemma.Unr.charpoly_overExt_separable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:35:42.346257+00:00
 -- url     : https://prove2.me/theorems/93cf83af-f3aa-4c2f-ac47-5168099c3ee9

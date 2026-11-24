@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorFrame_RatProj_fockS_map
 -- name    : GlobalTheory.MinorFrame.RatProj.fockS_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:06:22.29984+00:00
 -- url     : https://prove2.me/theorems/003c9bae-58f4-4300-86f4-b15d51e3dd9c

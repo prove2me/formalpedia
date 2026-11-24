@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_integral_idempotent_lift_newton
 -- name    : GlobalTheory.T.exists_integral_idempotent_lift_newton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:36:50.733859+00:00
 -- url     : https://prove2.me/theorems/69eeadec-43b8-4b62-9a80-c60e92203c4c

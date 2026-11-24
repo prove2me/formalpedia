@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThickeningIso_isIso_of_isAffine
 -- name    : GlobalTheory.ThickeningIso.isIso_of_isAffine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:08:48.724941+00:00
 -- url     : https://prove2.me/theorems/a79652a1-97f9-40b2-9be2-e3e6d63b5160

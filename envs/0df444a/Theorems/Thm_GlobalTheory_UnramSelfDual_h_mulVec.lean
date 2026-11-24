@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramSelfDual_h_mulVec
 -- name    : GlobalTheory.UnramSelfDual.h_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:48:39.739074+00:00
 -- url     : https://prove2.me/theorems/2500fc48-cb3b-46e9-954f-f92fc56350e5

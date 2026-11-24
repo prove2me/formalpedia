@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_Window_isIntegral_zpow_smul_of_le
 -- name    : GlobalTheory.UnitLemma.Desc.Window.isIntegral_zpow_smul_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:09:27.400003+00:00
 -- url     : https://prove2.me/theorems/ab7dda94-0a3d-4c8a-a360-4e50a51ba9a1

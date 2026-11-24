@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_CentralizerAdjoin_snd_aeval
 -- name    : GlobalTheory.Tw.CentralizerAdjoin.snd_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:12:26.685307+00:00
 -- url     : https://prove2.me/theorems/de393e99-f483-4dd6-be07-5aacd52fe949

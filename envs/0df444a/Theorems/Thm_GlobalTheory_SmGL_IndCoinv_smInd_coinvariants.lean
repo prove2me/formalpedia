@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_IndCoinv_smInd_coinvariants
 -- name    : GlobalTheory.SmGL.IndCoinv.smInd_coinvariants
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:35:31.819674+00:00
 -- url     : https://prove2.me/theorems/72380a82-17a1-4b5b-8903-138ded8e5e10

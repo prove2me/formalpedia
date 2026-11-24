@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_localModel_modulus_properties_on_units
 -- name    : GlobalTheory.T.localModel_modulus_properties_on_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:52:44.630673+00:00
 -- url     : https://prove2.me/theorems/ed3e201b-66e2-444f-bcd2-f9b831bb28f2

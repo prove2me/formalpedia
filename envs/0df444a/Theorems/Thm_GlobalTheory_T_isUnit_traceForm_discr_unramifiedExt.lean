@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isUnit_traceForm_discr_unramifiedExt
 -- name    : GlobalTheory.T.isUnit_traceForm_discr_unramifiedExt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:51:24.04764+00:00
 -- url     : https://prove2.me/theorems/28303778-6a84-4516-ab23-decce5fff9d0

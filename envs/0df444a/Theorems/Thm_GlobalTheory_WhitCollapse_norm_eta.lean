@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WhitCollapse_norm_eta
 -- name    : GlobalTheory.WhitCollapse.norm_eta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:55:37.179392+00:00
 -- url     : https://prove2.me/theorems/1c401cc7-42da-40b8-8e94-4a2ffb684378

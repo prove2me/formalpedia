@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramSelfDual_exists_uniformiser
 -- name    : GlobalTheory.UnramSelfDual.exists_uniformiser
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:46:47.403739+00:00
 -- url     : https://prove2.me/theorems/ce475146-f9c1-4df8-b9b0-d2842a85b39b

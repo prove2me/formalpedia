@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_ProdCount_intUnits_prod
 -- name    : GlobalTheory.UnitLemma.ProdCount.intUnits_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:28:38.796259+00:00
 -- url     : https://prove2.me/theorems/e25f6ade-7ee7-489d-9546-4ebc7d344cfa

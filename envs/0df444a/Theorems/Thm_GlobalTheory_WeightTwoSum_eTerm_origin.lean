@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightTwoSum_eTerm_origin
 -- name    : GlobalTheory.WeightTwoSum.eTerm_origin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:51:30.203942+00:00
 -- url     : https://prove2.me/theorems/04c876d3-f1f1-4c9a-87d8-85b2363e1384

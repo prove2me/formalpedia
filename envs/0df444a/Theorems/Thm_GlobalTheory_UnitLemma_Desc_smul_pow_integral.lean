@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_smul_pow_integral
 -- name    : GlobalTheory.UnitLemma.Desc.smul_pow_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:28:16.808974+00:00
 -- url     : https://prove2.me/theorems/cef3f446-3c39-40cd-9df4-3786bc40473b

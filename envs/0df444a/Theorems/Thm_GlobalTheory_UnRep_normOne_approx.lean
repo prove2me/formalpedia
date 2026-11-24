@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_normOne_approx
 -- name    : GlobalTheory.UnRep.normOne_approx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:23:49.439351+00:00
 -- url     : https://prove2.me/theorems/90ea4c10-12d4-4923-94c4-289d22e1c2e8

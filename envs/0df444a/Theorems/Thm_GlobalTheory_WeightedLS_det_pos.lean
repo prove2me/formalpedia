@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightedLS_det_pos
 -- name    : GlobalTheory.WeightedLS.det_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:52:55.213934+00:00
 -- url     : https://prove2.me/theorems/5e1e6b17-6e07-46ea-9a7a-016a740dc037

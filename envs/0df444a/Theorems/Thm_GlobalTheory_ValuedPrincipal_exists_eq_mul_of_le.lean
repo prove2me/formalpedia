@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ValuedPrincipal_exists_eq_mul_of_le
 -- name    : GlobalTheory.ValuedPrincipal.exists_eq_mul_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:50:25.593911+00:00
 -- url     : https://prove2.me/theorems/fe8f54b0-1b36-4209-89c6-3c7f8482b95c

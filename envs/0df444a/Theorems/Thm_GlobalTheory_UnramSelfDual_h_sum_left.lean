@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramSelfDual_h_sum_left
 -- name    : GlobalTheory.UnramSelfDual.h_sum_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:47:49.649047+00:00
 -- url     : https://prove2.me/theorems/8e5c97ea-3590-4a11-934a-81b36357b859

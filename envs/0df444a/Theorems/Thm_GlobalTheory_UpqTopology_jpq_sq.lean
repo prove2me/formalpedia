@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UpqTopology_jpq_sq
 -- name    : GlobalTheory.UpqTopology.jpq_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:52:29.752253+00:00
 -- url     : https://prove2.me/theorems/1e189511-11e3-4845-9d80-3728257aaecb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx4_isOpen_cell_domain
 -- name    : Formalism.FourierDecayAlt.P.Qx4.isOpen_cell_domain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:21:28.234647+00:00
 -- url     : https://prove2.me/theorems/9240b932-1ad3-4f93-b061-573f4187dcb7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_Dual_herm_eq_trace
 -- name    : GlobalTheory.UnitLemma.Unr.Dual.herm_eq_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:35:33.11681+00:00
 -- url     : https://prove2.me/theorems/84e8cb30-1e47-4cce-a851-a251c54ccc55

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilPull_cancel_iff
 -- name    : GlobalTheory.WeilPull.cancel_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:55:12.681315+00:00
 -- url     : https://prove2.me/theorems/0d8aec01-d267-4fa0-9eed-28d790835ac3

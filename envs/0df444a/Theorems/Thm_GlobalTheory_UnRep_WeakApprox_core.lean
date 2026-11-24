@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_WeakApprox_core
 -- name    : GlobalTheory.UnRep.WeakApprox.core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:21:33.263118+00:00
 -- url     : https://prove2.me/theorems/e83aa832-03c7-40f2-a99b-7c8b57c6040e

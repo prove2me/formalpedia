@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_Iota_indep_of_Gq_ne_zero
 -- name    : GlobalTheory.SgGlob.Iota.indep_of_Gq_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:57:34.712298+00:00
 -- url     : https://prove2.me/theorems/4e83e9c8-6207-4fd4-9564-72004e3d9a41

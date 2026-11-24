@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_rep_fvec_mem
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.rep_fvec_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:05:29.041605+00:00
 -- url     : https://prove2.me/theorems/3d167e31-28a8-4c6e-bac0-dbeab7a635f9

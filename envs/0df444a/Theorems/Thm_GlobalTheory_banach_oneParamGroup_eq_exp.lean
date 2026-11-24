@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_banach_oneParamGroup_eq_exp
 -- name    : GlobalTheory.banach_oneParamGroup_eq_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:06:38.836806+00:00
 -- url     : https://prove2.me/theorems/6a4e207c-cc69-48c5-9230-54e350983cd6

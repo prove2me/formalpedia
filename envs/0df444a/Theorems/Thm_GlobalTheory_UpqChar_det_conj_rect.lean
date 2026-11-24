@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UpqChar_det_conj_rect
 -- name    : GlobalTheory.UpqChar.det_conj_rect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:50:48.17946+00:00
 -- url     : https://prove2.me/theorems/758c7856-8f4e-44df-a69a-cec032541db1

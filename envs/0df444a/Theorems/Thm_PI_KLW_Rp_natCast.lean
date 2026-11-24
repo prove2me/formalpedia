@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_Rp_natCast
 -- name    : PI.KLW.Rp_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:43:22.466257+00:00
 -- url     : https://prove2.me/theorems/ce5dc9a3-68d0-45c8-bd59-b132d1a8dc9a

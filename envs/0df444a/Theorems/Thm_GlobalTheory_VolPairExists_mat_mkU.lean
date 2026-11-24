@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VolPairExists_mat_mkU
 -- name    : GlobalTheory.VolPairExists.mat_mkU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:51:59.809265+00:00
 -- url     : https://prove2.me/theorems/5da0198d-d46b-4fe7-aba5-add6c7978719

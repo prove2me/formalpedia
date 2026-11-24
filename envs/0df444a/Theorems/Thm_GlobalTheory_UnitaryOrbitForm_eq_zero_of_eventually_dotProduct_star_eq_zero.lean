@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryOrbitForm_eq_zero_of_eventually_dotProduct_star_eq_zero
 -- name    : GlobalTheory.UnitaryOrbitForm.eq_zero_of_eventually_dotProduct_star_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:40:20.017034+00:00
 -- url     : https://prove2.me/theorems/4ab5d6a4-7488-43d7-8036-045c371c2cd4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinWeil_exists_weil_rep_of_vacua
 -- name    : GlobalTheory.FinWeil.exists_weil_rep_of_vacua
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:26:47.465393+00:00
 -- url     : https://prove2.me/theorems/625273bd-0fc1-4486-9cd5-5905a5ceb323

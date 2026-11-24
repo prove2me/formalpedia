@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitReal_unit_real_of_congr_one
 -- name    : GlobalTheory.UnitReal.unit_real_of_congr_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:39:17.892189+00:00
 -- url     : https://prove2.me/theorems/749a54fe-6269-4cb8-9573-d1963c81a38e

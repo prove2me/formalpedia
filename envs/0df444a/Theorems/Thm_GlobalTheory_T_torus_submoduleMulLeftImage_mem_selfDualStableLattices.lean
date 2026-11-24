@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_torus_submoduleMulLeftImage_mem_selfDualStableLattices
 -- name    : GlobalTheory.T.torus_submoduleMulLeftImage_mem_selfDualStableLattices
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:59:36.783469+00:00
 -- url     : https://prove2.me/theorems/9081f0a8-a26f-4cdb-be06-ca2554d44dd2

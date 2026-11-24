@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FibreRatio_mass_eq_lintegral
 -- name    : GlobalTheory.CompanionTheory.SW.FibreRatio.mass_eq_lintegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:50:39.78685+00:00
 -- url     : https://prove2.me/theorems/5ba495c1-302b-45b2-9deb-656bafafe7f0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightGen_HasGen_of_gen
 -- name    : GlobalTheory.WeightGen.HasGen.of_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:52:35.903495+00:00
 -- url     : https://prove2.me/theorems/d5899d97-c182-42f2-9c14-c10610962a5c

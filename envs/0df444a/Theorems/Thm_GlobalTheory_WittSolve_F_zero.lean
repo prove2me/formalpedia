@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WittSolve_F_zero
 -- name    : GlobalTheory.WittSolve.F_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:56:09.830512+00:00
 -- url     : https://prove2.me/theorems/5602d826-25c2-4bdf-a494-2cf885e36acc

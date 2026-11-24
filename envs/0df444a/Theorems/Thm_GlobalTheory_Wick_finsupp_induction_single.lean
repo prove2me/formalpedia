@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Wick_finsupp_induction_single
 -- name    : GlobalTheory.Wick.finsupp_induction_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:55:21.005485+00:00
 -- url     : https://prove2.me/theorems/4e1c2326-49ce-4202-b35b-9f5fd7133c35

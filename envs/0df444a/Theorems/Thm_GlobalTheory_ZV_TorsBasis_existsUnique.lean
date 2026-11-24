@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZV_TorsBasis_existsUnique
 -- name    : GlobalTheory.ZV.TorsBasis.existsUnique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:03:49.758018+00:00
 -- url     : https://prove2.me/theorems/b5462dd5-0f71-450d-9c95-beb3c8325ee0

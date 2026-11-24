@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_npw_isLB
 -- name    : GlobalTheory.ZH.npw_isLB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:02:48.137966+00:00
 -- url     : https://prove2.me/theorems/868318b4-02b9-4b39-a297-e5b2cd3359c0

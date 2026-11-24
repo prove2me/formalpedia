@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_traceZero_adjustment_of_hermitian_lattice
 -- name    : GlobalTheory.T.exists_traceZero_adjustment_of_hermitian_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:38:03.749825+00:00
 -- url     : https://prove2.me/theorems/f13fd84d-0cac-45b1-baa9-b6870b752062

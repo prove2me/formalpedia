@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryChar_exists_conj_perm
 -- name    : GlobalTheory.UnitaryChar.exists_conj_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:39:19.609844+00:00
 -- url     : https://prove2.me/theorems/f8cb34ec-0d57-47f4-a4dc-e2fd839dd978

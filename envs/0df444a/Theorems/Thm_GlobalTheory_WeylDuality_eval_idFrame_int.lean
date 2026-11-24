@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeylDuality_eval_idFrame_int
 -- name    : GlobalTheory.WeylDuality.eval_idFrame_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:55:58.43583+00:00
 -- url     : https://prove2.me/theorems/7781517d-e996-411b-a630-365b590d12dc

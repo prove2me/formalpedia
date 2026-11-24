@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Unipotence_matrix_nilpotent
 -- name    : GlobalTheory.Unipotence.matrix_nilpotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:25:57.483487+00:00
 -- url     : https://prove2.me/theorems/6afdc340-b311-4bf9-99f1-dadc82d8b75a

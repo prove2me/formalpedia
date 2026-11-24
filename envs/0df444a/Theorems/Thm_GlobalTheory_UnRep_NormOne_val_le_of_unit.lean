@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_NormOne_val_le_of_unit
 -- name    : GlobalTheory.UnRep.NormOne.val_le_of_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:22:46.438822+00:00
 -- url     : https://prove2.me/theorems/00566beb-2798-4113-981e-032867190879

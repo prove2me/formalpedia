@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_exists_isSig
 -- name    : GlobalTheory.SA.exists_isSig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:36:23.013122+00:00
 -- url     : https://prove2.me/theorems/cf974291-3241-4d2a-a911-9ed68cd9ffb5

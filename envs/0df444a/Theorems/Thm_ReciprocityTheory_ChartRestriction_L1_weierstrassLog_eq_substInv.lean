@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_weierstrassLog_eq_substInv
 -- name    : ReciprocityTheory.ChartRestriction.L1.weierstrassLog_eq_substInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:45:01.065981+00:00
 -- url     : https://prove2.me/theorems/a8393ef9-83fb-4901-a968-0a541874ca40

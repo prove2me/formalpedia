@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WittVector_ghostComponent_injective_of_noTorsion
 -- name    : GlobalTheory.WittVector.ghostComponent_injective_of_noTorsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:56:18.235075+00:00
 -- url     : https://prove2.me/theorems/1f3ad74e-47a9-4967-a67e-2a75694606c5

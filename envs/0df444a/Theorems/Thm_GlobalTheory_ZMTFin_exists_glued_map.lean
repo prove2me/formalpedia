@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZMTFin_exists_glued_map
 -- name    : GlobalTheory.ZMTFin.exists_glued_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:03:20.644253+00:00
 -- url     : https://prove2.me/theorems/38d8d459-b212-4d1b-8c74-fcaa70f9f9f9

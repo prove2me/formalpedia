@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZetaHalfPlane_norm_integrand_le
 -- name    : GlobalTheory.ZetaHalfPlane.norm_integrand_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:04:38.296697+00:00
 -- url     : https://prove2.me/theorems/3ecafd92-7492-4171-a67c-5c85b2ef4939

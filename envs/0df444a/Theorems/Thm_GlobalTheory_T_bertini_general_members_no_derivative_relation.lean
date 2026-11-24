@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_bertini_general_members_no_derivative_relation
 -- name    : GlobalTheory.T.bertini_general_members_no_derivative_relation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:26:11.704973+00:00
 -- url     : https://prove2.me/theorems/399c80de-152a-48e6-924c-4a03a237839b

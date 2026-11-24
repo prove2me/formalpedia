@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unimodular_hermitian_reps_count_succ
 -- name    : GlobalTheory.T.unimodular_hermitian_reps_count_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:01:28.367026+00:00
 -- url     : https://prove2.me/theorems/f50a0071-5ace-4c47-850c-43cb56e6e239

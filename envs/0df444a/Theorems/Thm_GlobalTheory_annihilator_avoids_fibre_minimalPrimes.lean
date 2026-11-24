@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_annihilator_avoids_fibre_minimalPrimes
 -- name    : GlobalTheory.annihilator_avoids_fibre_minimalPrimes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:05:40.536701+00:00
 -- url     : https://prove2.me/theorems/8978c7b1-1e6c-4bc4-b573-104b19d5ea52

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramValue_rootRing_mono
 -- name    : GlobalTheory.UnramValue.rootRing_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:49:01.93722+00:00
 -- url     : https://prove2.me/theorems/52797698-5baf-4006-b1c1-1481442e4df1

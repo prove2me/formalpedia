@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for GlobalTheory.StepData.det_reGL
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:04:14.012664+00:00
 -- url     : https://prove2.me/submissions/b4024d18-0be7-4426-a4f6-a9949ba94309
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Development_AbelianVarietyTheory_Definitions_Foundations_SimpleSum

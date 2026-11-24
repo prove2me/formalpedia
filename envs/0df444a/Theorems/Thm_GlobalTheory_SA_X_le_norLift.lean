@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_X_le_norLift
 -- name    : GlobalTheory.SA.X_le_norLift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:36:21.601309+00:00
 -- url     : https://prove2.me/theorems/1b874494-d72a-42db-81b8-33eb571fb3b4

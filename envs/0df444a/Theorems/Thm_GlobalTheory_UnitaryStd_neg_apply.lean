@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryStd_neg_apply
 -- name    : GlobalTheory.UnitaryStd.neg_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:45:28.666506+00:00
 -- url     : https://prove2.me/theorems/0877d302-b839-42e7-bcb7-192ed2df3ab6

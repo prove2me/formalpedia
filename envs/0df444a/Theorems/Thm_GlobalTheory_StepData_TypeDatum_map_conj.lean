@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_TypeDatum_map_conj
 -- name    : GlobalTheory.StepData.TypeDatum.map_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:49:32.634108+00:00
 -- url     : https://prove2.me/theorems/ef0f6926-befd-4d22-b4ee-68418ad563a4

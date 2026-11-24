@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_omega_mul_Gv
 -- name    : PI.AddIntG.Wk.omega_mul_Gv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:15:18.553166+00:00
 -- url     : https://prove2.me/theorems/5105bacc-0c44-425a-9856-cd770dee6ba1

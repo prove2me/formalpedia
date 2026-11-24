@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_FlagExample_fl_latX
 -- name    : GlobalTheory.SA.FlagExample.fl_latX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:38:03.987352+00:00
 -- url     : https://prove2.me/theorems/d83ce543-f070-4a1c-92c9-693e15b8be22

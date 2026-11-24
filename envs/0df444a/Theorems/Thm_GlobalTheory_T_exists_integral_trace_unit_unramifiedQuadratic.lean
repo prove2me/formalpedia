@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_integral_trace_unit_unramifiedQuadratic
 -- name    : GlobalTheory.T.exists_integral_trace_unit_unramifiedQuadratic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:37:31.612811+00:00
 -- url     : https://prove2.me/theorems/5e4de26f-1707-49dd-9c8f-7347b37505e0

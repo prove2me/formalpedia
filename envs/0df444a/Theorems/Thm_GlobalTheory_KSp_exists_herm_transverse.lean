@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_exists_herm_transverse
 -- name    : GlobalTheory.KSp.exists_herm_transverse
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:22:31.961001+00:00
 -- url     : https://prove2.me/theorems/499bb8c1-e317-483b-94cc-6d1b834d6afe

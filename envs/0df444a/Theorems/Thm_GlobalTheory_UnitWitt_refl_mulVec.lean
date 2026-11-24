@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitWitt_refl_mulVec
 -- name    : GlobalTheory.UnitWitt.refl_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:38:43.455788+00:00
 -- url     : https://prove2.me/theorems/cd4cb3f5-3f75-4e06-a9c2-160d499fe301

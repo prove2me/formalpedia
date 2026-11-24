@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_finrank_int_eq_mul
 -- name    : GlobalTheory.ZM.finrank_int_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:02:50.485527+00:00
 -- url     : https://prove2.me/theorems/ca24beea-1040-471a-bc60-b09c803bd917

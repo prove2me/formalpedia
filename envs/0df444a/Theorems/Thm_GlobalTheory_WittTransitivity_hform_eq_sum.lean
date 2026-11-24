@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WittTransitivity_hform_eq_sum
 -- name    : GlobalTheory.WittTransitivity.hform_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:56:07.517354+00:00
 -- url     : https://prove2.me/theorems/f568f6f7-32f4-42e8-9cb1-d4ca6db6f5be

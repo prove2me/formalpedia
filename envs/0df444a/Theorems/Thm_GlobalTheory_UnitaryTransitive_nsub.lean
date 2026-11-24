@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryTransitive_nsub
 -- name    : GlobalTheory.UnitaryTransitive.nsub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:46:00.763013+00:00
 -- url     : https://prove2.me/theorems/04bcb541-0f25-4362-84a3-e7c5de02d4f2

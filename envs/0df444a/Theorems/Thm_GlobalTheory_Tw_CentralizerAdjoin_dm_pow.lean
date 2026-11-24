@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_CentralizerAdjoin_dm_pow
 -- name    : GlobalTheory.Tw.CentralizerAdjoin.dm_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:12:19.43495+00:00
 -- url     : https://prove2.me/theorems/a47605eb-f9c7-4120-81c6-c4af6931736d

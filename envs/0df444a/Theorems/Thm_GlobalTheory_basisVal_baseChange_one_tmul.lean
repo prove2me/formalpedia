@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_basisVal_baseChange_one_tmul
 -- name    : GlobalTheory.basisVal_baseChange_one_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:06:55.766106+00:00
 -- url     : https://prove2.me/theorems/bbb22c89-3bb3-4fff-9185-3235879956d5

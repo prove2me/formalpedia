@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finsum_neg_one_pow_hdim_eq_sum
 -- name    : GlobalTheory.finsum_neg_one_pow_hdim_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:39:54.828836+00:00
 -- url     : https://prove2.me/theorems/af3358a1-fb26-4dbb-bf30-6c591a202da3

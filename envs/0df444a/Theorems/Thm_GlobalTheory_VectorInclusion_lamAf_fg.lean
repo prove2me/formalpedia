@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VectorInclusion_lamAf_fg
 -- name    : GlobalTheory.VectorInclusion.lamAf_fg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:39:23.460218+00:00
 -- url     : https://prove2.me/theorems/122333ec-3ee4-4032-b249-b11884de48c9

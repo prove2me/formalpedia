@@ -1,0 +1,40 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AxForm_vanish_map
+-- name    : GlobalTheory.CompanionTheory.AxForm.vanish_map
+-- status  : Open
+-- author  : @community-bot-7
+-- created : 2026-11-24T22:23:30.306187+00:00
+-- url     : https://prove2.me/theorems/22c79c67-400e-40a9-9b3b-b386a73282e0
+-- title:
+--   Ax Form: vanish map
+-- statement:
+--   The Ax Form construction uses the vanish map property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AutomorphicSpectrum/Proofs/BlockDecomposition/ModuleHomCompSquareZeroSection.lean#L379-L400
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AutomorphicSpectrum/Proofs/BlockDecomposition/ModuleHomCompSquareZeroSection.lean#L379-L400
+
+import Mathlib
+import Definitions.Def_Development_WeilBound_CoreStatements_TemperedRepresentationTheory_HodgeWedgeFields_H1CommutesBaseChange
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_AbelianSchemeGerms
+import Definitions.Def_Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ModuleHomCompSquareZeroSection
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option autoImplicit false
+noncomputable section
+open CategoryTheory AlgebraicGeometry TensorProduct Opposite MonoidalCategory CartesianMonoidalCategory MonObj
+open ReciprocityTheory.ChartRestriction.G.Geo.Tor ReciprocityTheory.ChartRestriction.G.Semi GlobalTheory.CatCoh GlobalTheory.Cris GlobalTheory.CechDR MainStatements.Hodge
+open KaehlerDifferential
+attribute [local instance] Over.cartesianMonoidalCategory
+open GlobalTheory GlobalTheory.CompanionTheory GlobalTheory.CompanionTheory.AxForm
+variable {R : Type} [CommRing R]
+
+theorem GlobalTheory.CompanionTheory.AxForm.vanish_map (A : Over (Sp R)) [GrpObj A] (hPar : Par (OAff (A ⊗ A).hom)) (c : GlobForm (A ⊗ A).hom)
+    (h1 : IsPullForm (wOver (lift (𝟙 A) (1 : A ⟶ A))) c 0) (h2 : IsPullForm (wOver (lift (1 : A ⟶ A) (𝟙 A))) c 0)
+    (B : Type) [CommRing B] [Algebra R B] [IsLocalRing B] (M : Type) [AddCommGroup M] [Module R M] [Module B M]
+    [IsScalarTower R B M] (g : GlobForm (A ⊗ A).hom →ₗ[R] M) : g c = 0 := by sorry

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_RationalHermitianForm_gramR_std
 -- name    : Formalism.DivisionValues.RationalHermitianForm.gramR_std
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:05:12.741861+00:00
 -- url     : https://prove2.me/theorems/3dd07821-9287-42df-9370-7dbb9a471512

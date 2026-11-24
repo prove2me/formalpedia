@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightedLS_block_bound
 -- name    : GlobalTheory.WeightedLS.block_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:54:47.925775+00:00
 -- url     : https://prove2.me/theorems/628c7f1f-ddb1-46cd-b05f-9e60c4eeb42f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_ResDeg_card_residueField
 -- name    : GlobalTheory.UnitLemma.ResDeg.card_residueField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:36:39.91287+00:00
 -- url     : https://prove2.me/theorems/5702c434-d23f-4a23-94b8-1b014159bbdf

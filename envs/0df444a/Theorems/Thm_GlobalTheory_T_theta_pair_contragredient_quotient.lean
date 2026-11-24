@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_theta_pair_contragredient_quotient
 -- name    : GlobalTheory.T.theta_pair_contragredient_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:00:11.870552+00:00
 -- url     : https://prove2.me/theorems/85e1dac7-86a9-4967-87a7-da4a9cf1331c

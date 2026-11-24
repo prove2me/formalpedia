@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_latOf_le_iff
 -- name    : GlobalTheory.StepData.latOf_le_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:49:55.27585+00:00
 -- url     : https://prove2.me/theorems/3dbd3147-f452-4f24-863d-60d114fa6d18

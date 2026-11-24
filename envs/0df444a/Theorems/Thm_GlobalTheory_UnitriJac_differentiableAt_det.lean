@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitriJac_differentiableAt_det
 -- name    : GlobalTheory.UnitriJac.differentiableAt_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:47:20.311198+00:00
 -- url     : https://prove2.me/theorems/0cfce9e1-633b-4bd9-8714-3a0f64f1a955

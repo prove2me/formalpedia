@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VeryAmplePow_value_sval
 -- name    : GlobalTheory.VeryAmplePow.value_sval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:51:07.488041+00:00
 -- url     : https://prove2.me/theorems/ff266387-41e2-4afd-ac7a-59836d3ce14b

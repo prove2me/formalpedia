@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramOrder_card_quot_eq_sq
 -- name    : GlobalTheory.UnramOrder.card_quot_eq_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:46:46.809808+00:00
 -- url     : https://prove2.me/theorems/2d9ea20b-3e42-4649-a6ec-ab087564fc73

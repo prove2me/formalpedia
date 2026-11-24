@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_isUnitaryOn_splitOm
 -- name    : GlobalTheory.WeilM.isUnitaryOn_splitOm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:55:10.088934+00:00
 -- url     : https://prove2.me/theorems/3ebff1a0-b2ab-47fc-9e91-266684f1a296

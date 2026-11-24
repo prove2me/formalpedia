@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZJ_eq_of_injective_baseChange
 -- name    : GlobalTheory.ZJ.eq_of_injective_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:03:05.393631+00:00
 -- url     : https://prove2.me/theorems/80e1fdf8-d38e-4eb7-b4fd-534fff1860d3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VectorInclusion_vecIncl_smul
 -- name    : GlobalTheory.VectorInclusion.vecIncl_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:51:03.057297+00:00
 -- url     : https://prove2.me/theorems/37333534-f610-4673-bb6d-2f698a1b73e5

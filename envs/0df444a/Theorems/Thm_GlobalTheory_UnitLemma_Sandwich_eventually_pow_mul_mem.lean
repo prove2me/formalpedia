@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Sandwich_eventually_pow_mul_mem
 -- name    : GlobalTheory.UnitLemma.Sandwich.eventually_pow_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:37:43.742603+00:00
 -- url     : https://prove2.me/theorems/579befcd-271e-4883-847b-62c275c1d4f1

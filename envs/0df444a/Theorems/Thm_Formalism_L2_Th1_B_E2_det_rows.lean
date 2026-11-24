@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_E2_det_rows
 -- name    : Formalism.L2.Th1.B.E2.det_rows
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:00:58.861583+00:00
 -- url     : https://prove2.me/theorems/a65e8d72-d135-40c2-8c44-40a5309bc338

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_ReductionFirst_Tw_ne_zero
 -- name    : Formalism.DivisionValues.ReductionFirst.Tw_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:05:01.69263+00:00
 -- url     : https://prove2.me/theorems/5e3cbf77-593e-417a-8bd1-0f213f1914ba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_dpsi_is_derivation
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.dpsi_is_derivation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:19:53.421858+00:00
 -- url     : https://prove2.me/theorems/6d10675f-d8aa-40e5-b24a-86e9bd81f95a

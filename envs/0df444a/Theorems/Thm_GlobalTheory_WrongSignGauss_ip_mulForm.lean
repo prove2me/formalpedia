@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WrongSignGauss_ip_mulForm
 -- name    : GlobalTheory.WrongSignGauss.ip_mulForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:57:19.454803+00:00
 -- url     : https://prove2.me/theorems/ed023b6a-8a49-4a55-8c51-715d86dab111

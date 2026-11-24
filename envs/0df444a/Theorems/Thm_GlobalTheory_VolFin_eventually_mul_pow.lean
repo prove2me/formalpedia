@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VolFin_eventually_mul_pow
 -- name    : GlobalTheory.VolFin.eventually_mul_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:51:07.804658+00:00
 -- url     : https://prove2.me/theorems/b2892498-4868-4132-9def-1a2b187fd878

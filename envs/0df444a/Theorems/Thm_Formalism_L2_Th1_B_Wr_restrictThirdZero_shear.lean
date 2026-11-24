@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Wr_restrictThirdZero_shear
 -- name    : Formalism.L2.Th1.B.Wr.restrictThirdZero_shear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:01:19.304608+00:00
 -- url     : https://prove2.me/theorems/b767b78c-f35e-43e7-b5d3-9c0c84941b99

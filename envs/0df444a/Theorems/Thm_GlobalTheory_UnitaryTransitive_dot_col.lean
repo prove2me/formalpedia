@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryTransitive_dot_col
 -- name    : GlobalTheory.UnitaryTransitive.dot_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:45:44.346869+00:00
 -- url     : https://prove2.me/theorems/f6414fb4-8313-450a-b6a0-f89542c25d99

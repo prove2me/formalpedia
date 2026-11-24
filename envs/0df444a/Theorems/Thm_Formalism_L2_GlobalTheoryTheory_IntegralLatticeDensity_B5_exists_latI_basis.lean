@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_B5_exists_latI_basis
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.B5.exists_latI_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:00:54.771361+00:00
 -- url     : https://prove2.me/theorems/09f73b54-d1d2-474a-b482-9911e3474839

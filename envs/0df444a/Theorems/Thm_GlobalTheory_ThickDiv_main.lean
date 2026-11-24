@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThickDiv_main
 -- name    : GlobalTheory.ThickDiv.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:09:00.365588+00:00
 -- url     : https://prove2.me/theorems/d1e75822-326f-445c-b6c1-2878b7b75763

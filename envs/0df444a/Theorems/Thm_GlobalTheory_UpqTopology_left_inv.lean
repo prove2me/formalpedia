@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UpqTopology_left_inv
 -- name    : GlobalTheory.UpqTopology.left_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:19:58.814445+00:00
 -- url     : https://prove2.me/theorems/3fa8a5c8-d7f0-4e10-a54c-f7f9f35bbac9

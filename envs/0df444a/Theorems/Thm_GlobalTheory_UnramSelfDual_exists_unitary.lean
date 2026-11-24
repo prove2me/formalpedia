@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramSelfDual_exists_unitary
 -- name    : GlobalTheory.UnramSelfDual.exists_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:47:34.261975+00:00
 -- url     : https://prove2.me/theorems/7a9513d0-eba4-4530-8b5e-1cdb32a3d5b0

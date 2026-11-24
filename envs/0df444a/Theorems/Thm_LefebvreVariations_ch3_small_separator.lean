@@ -5,7 +5,7 @@
 -- created : 2026-11-23T23:29:16.356914+00:00
 -- url     : https://prove2.me/theorems/551ab269-1060-4a36-a6bd-8b9998c3bd6c
 -- title:
---   Lefebvre's variations: Caccetta–Häggkvist ($r=3$) with a small out-separator
+--   Lefebvre's variations, No. 1 — on a theme by Caccetta and Häggkvist: Caccetta–Häggkvist ($r=3$) with a small out-separator
 -- statement:
 --   This is the *small out-separator* case of the Caccetta–Häggkvist conjecture for minimum out-degree $3$.
 --

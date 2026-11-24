@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Split_mem_Umax_iff
 -- name    : CompanionTheory.Split.mem_Umax_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:43:05.091526+00:00
 -- url     : https://prove2.me/theorems/54bc18ca-c22e-47d4-896f-e69728495a12

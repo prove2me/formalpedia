@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WpFam_hasSum_prod_derivWeierstrassP
 -- name    : GlobalTheory.WpFam.hasSum_prod_derivWeierstrassP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:56:07.393001+00:00
 -- url     : https://prove2.me/theorems/db4adeae-0a33-4435-92fc-03e20c04b423

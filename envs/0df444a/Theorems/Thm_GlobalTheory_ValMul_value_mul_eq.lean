@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ValMul_value_mul_eq
 -- name    : GlobalTheory.ValMul.value_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:50:25.876278+00:00
 -- url     : https://prove2.me/theorems/f3bf6ed6-5899-41b1-a090-a0a2fa81a8ca

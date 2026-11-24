@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitPairNorm_main_ind
 -- name    : GlobalTheory.UnitPairNorm.main_ind
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:39:15.830574+00:00
 -- url     : https://prove2.me/theorems/46ef9ae6-c3ce-4adb-aaba-721004e95a2a

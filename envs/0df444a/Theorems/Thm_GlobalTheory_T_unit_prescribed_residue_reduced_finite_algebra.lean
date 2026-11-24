@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unit_prescribed_residue_reduced_finite_algebra
 -- name    : GlobalTheory.T.unit_prescribed_residue_reduced_finite_algebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:00:34.802284+00:00
 -- url     : https://prove2.me/theorems/da5b4b3b-f856-43b6-be04-27477d1eec6a

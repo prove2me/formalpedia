@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Fs_eval_last_zero_formal_exp
 -- name    : Formalism.L2.Th1.B.Fs.eval_last_zero_formal_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:59:24.711349+00:00
 -- url     : https://prove2.me/theorems/db52301f-3801-430c-bff8-7de1b30bf6d7

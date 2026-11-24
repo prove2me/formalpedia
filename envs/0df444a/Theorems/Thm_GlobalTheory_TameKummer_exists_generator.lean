@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TameKummer_exists_generator
 -- name    : GlobalTheory.TameKummer.exists_generator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:02:52.121868+00:00
 -- url     : https://prove2.me/theorems/3a3e1da3-5b9e-4d83-8538-8c487cc8016d

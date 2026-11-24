@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_UnipPow_tendsto_choose
 -- name    : GlobalTheory.RootEx.UnipPow.tendsto_choose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:08:43.774192+00:00
 -- url     : https://prove2.me/theorems/fcd49a45-7328-455a-a637-607eca1e45c5

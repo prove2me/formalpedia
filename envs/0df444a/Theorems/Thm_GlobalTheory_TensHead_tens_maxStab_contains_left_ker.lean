@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensHead_tens_maxStab_contains_left_ker
 -- name    : GlobalTheory.TensHead.tens_maxStab_contains_left_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:02:55.817876+00:00
 -- url     : https://prove2.me/theorems/fc0bbb0e-91d9-425d-85ea-785844a12635

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilIsogeny_exists_theta_pow
 -- name    : GlobalTheory.WeilIsogeny.exists_theta_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:54:53.7753+00:00
 -- url     : https://prove2.me/theorems/d937bb6b-b0fa-4728-b84b-0c5c42343052

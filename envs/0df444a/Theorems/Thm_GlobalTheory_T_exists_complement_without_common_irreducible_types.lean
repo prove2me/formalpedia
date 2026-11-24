@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_complement_without_common_irreducible_types
 -- name    : GlobalTheory.T.exists_complement_without_common_irreducible_types
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:34:38.156799+00:00
 -- url     : https://prove2.me/theorems/0085832a-93c6-4756-bb7e-03cf19779ca7

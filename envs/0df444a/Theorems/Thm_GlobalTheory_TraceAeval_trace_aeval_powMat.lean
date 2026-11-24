@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceAeval_trace_aeval_powMat
 -- name    : GlobalTheory.TraceAeval.trace_aeval_powMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:11:10.975155+00:00
 -- url     : https://prove2.me/theorems/b2850c5f-9d1a-4c21-9820-cdbdf54f271d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UniformiserEval_translate_injective
 -- name    : GlobalTheory.UniformiserEval.translate_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:26:46.550224+00:00
 -- url     : https://prove2.me/theorems/b6cab4e8-4229-495d-beab-95baf6dfc472

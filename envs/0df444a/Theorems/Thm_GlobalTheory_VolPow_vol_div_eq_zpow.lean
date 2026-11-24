@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VolPow_vol_div_eq_zpow
 -- name    : GlobalTheory.VolPow.vol_div_eq_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:10:03.829075+00:00
 -- url     : https://prove2.me/theorems/bc815a0a-d864-461d-89a7-4ee4446e39a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Hk2_cell_bound
 -- name    : Formalism.L2.Th1.F.Hk2.cell_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:30:49.623964+00:00
 -- url     : https://prove2.me/theorems/8026cbf6-34ff-4564-a0e1-f7c67f848e13

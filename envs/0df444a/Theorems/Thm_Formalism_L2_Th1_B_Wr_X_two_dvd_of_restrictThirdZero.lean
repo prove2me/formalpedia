@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Wr_X_two_dvd_of_restrictThirdZero
 -- name    : Formalism.L2.Th1.B.Wr.X_two_dvd_of_restrictThirdZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:01:06.084796+00:00
 -- url     : https://prove2.me/theorems/75a54a5b-a0cd-45af-ab1c-82dec29de668

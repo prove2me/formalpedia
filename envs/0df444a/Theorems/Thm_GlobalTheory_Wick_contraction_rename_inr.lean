@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Wick_contraction_rename_inr
 -- name    : GlobalTheory.Wick.contraction_rename_inr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:55:30.982591+00:00
 -- url     : https://prove2.me/theorems/ca70c8fb-92ad-45e4-ba73-a31ef108736c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LefebvreVariations_sidorenko_star
 -- name    : LefebvreVariations.sidorenko_star
--- status  : Open
+-- status  : Proved
 -- author  : @Secousses
 -- created : 2026-11-24T21:59:25.777795+00:00
 -- url     : https://prove2.me/theorems/c622146d-52cf-41f5-b9b5-296f82669538

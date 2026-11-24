@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_TypeDatum_Phi_mul_right
 -- name    : GlobalTheory.StepData.TypeDatum.Phi_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:49:10.491823+00:00
 -- url     : https://prove2.me/theorems/25914ce8-7511-4c57-92e1-ff47ac0fe137

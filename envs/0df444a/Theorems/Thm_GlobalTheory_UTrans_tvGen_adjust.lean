@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_tvGen_adjust
 -- name    : GlobalTheory.UTrans.tvGen_adjust
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:23:31.691748+00:00
 -- url     : https://prove2.me/theorems/c86f4de6-fd0c-4430-bcc9-31bd28ee1a59

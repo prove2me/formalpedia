@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_adicCompletion_map_invariants
 -- name    : GlobalTheory.adicCompletion_map_invariants
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:06:16.373149+00:00
 -- url     : https://prove2.me/theorems/10f9da0e-e821-44cf-942f-db4f411fe944

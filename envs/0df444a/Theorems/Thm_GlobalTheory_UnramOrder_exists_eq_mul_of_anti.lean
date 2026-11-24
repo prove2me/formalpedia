@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramOrder_exists_eq_mul_of_anti
 -- name    : GlobalTheory.UnramOrder.exists_eq_mul_of_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:46:39.471477+00:00
 -- url     : https://prove2.me/theorems/fdc3f2c1-2e59-4681-95c2-864dbb202e7e

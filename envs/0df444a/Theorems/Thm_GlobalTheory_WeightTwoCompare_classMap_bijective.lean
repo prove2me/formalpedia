@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightTwoCompare_classMap_bijective
 -- name    : GlobalTheory.WeightTwoCompare.classMap_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:53:00.844913+00:00
 -- url     : https://prove2.me/theorems/f46d71a0-a3ef-4334-85a1-8ae2985e548c

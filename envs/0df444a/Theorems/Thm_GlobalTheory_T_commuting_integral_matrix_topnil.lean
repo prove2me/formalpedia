@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_commuting_integral_matrix_topnil
 -- name    : GlobalTheory.T.commuting_integral_matrix_topnil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:30:28.278027+00:00
 -- url     : https://prove2.me/theorems/045d3682-f0f3-47e9-be06-0216987013d7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_abs_norm_eq_prod_embeddings_closeOne
 -- name    : GlobalTheory.abs_norm_eq_prod_embeddings_closeOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:04:28.508426+00:00
 -- url     : https://prove2.me/theorems/304e40f7-fae0-412f-a746-6f2edd7c5651

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_Planch_conj_e
 -- name    : GlobalTheory.KSp.Planch.conj_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:48:44.192927+00:00
 -- url     : https://prove2.me/theorems/8586f76a-dff1-4c3c-88b6-cbc047280c4c

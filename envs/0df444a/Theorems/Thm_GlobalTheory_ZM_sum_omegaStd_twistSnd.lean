@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_sum_omegaStd_twistSnd
 -- name    : GlobalTheory.ZM.sum_omegaStd_twistSnd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:04:21.587419+00:00
 -- url     : https://prove2.me/theorems/62743bdb-0e22-4f10-996b-b7be8402433f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_ContraTrace_contra_admissible_trace
 -- name    : GlobalTheory.SmGL.ContraTrace.contra_admissible_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:36:57.907745+00:00
 -- url     : https://prove2.me/theorems/8192147c-b9b3-4fd2-9e1c-cd69a8c1dcba

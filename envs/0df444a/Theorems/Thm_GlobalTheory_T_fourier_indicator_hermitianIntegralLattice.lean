@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fourier_indicator_hermitianIntegralLattice
 -- name    : GlobalTheory.T.fourier_indicator_hermitianIntegralLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:40:39.665432+00:00
 -- url     : https://prove2.me/theorems/de735fc2-d55e-4421-be72-bdf55ab22b1d

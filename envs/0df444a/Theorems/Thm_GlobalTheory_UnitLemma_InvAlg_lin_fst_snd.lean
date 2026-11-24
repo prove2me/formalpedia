@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_InvAlg_lin_fst_snd
 -- name    : GlobalTheory.UnitLemma.InvAlg.lin_fst_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:27:34.03535+00:00
 -- url     : https://prove2.me/theorems/6488072a-ffde-4363-b670-5353c434bf70

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VVCompare_exists_isTwistPull
 -- name    : GlobalTheory.VVCompare.exists_isTwistPull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:52:10.369558+00:00
 -- url     : https://prove2.me/theorems/da090fd6-9aab-42b5-a654-87891ee3d87f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_E2_constantCoeff_law_first_two_of_three
 -- name    : Formalism.L2.Th1.B.E2.constantCoeff_law_first_two_of_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:01:32.590973+00:00
 -- url     : https://prove2.me/theorems/b87a9f28-9b99-4961-be7f-0a4afcf40085

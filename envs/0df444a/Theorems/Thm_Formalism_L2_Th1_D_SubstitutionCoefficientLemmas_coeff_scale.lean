@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_SubstitutionCoefficientLemmas_coeff_scale
 -- name    : Formalism.L2.Th1.D.SubstitutionCoefficientLemmas.coeff_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:09:58.603802+00:00
 -- url     : https://prove2.me/theorems/5271173c-b32c-49cf-9179-fa429253743a

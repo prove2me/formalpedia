@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_KF_norm_pow_add_eq_one
 -- name    : Formalism.L2.Th1.D.KF.norm_pow_add_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:53:15.374251+00:00
 -- url     : https://prove2.me/theorems/a97c61f7-9f46-49f9-a437-476bf2674ea1

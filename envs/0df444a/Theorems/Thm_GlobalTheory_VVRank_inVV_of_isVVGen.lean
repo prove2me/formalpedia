@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VVRank_inVV_of_isVVGen
 -- name    : GlobalTheory.VVRank.inVV_of_isVVGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:51:19.10629+00:00
 -- url     : https://prove2.me/theorems/e35f9ef1-a8a7-443c-926f-bc48bfaf7eef

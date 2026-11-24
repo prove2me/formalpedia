@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_SAdd_constantCoeff_half_log
 -- name    : Formalism.L2.Th1.B.SAdd.constantCoeff_half_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:00:43.224836+00:00
 -- url     : https://prove2.me/theorems/0d7e1a0d-1138-41a2-9726-3ffa393950dd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualGenus_exists_isLocalIsometry_of_modular
 -- name    : GlobalTheory.SelfDualGenus.exists_isLocalIsometry_of_modular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:10:42.222807+00:00
 -- url     : https://prove2.me/theorems/4fead842-ea1e-40dd-b01c-5006f817adf3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramSelfDual_JR_det
 -- name    : GlobalTheory.UnramSelfDual.JR_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:47:54.850652+00:00
 -- url     : https://prove2.me/theorems/b2a6e040-1757-4ec1-96b4-8955eacf65f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryChart_second_kind_chart
 -- name    : GlobalTheory.UnitaryChart.second_kind_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:39:13.360323+00:00
 -- url     : https://prove2.me/theorems/d6201272-42a6-4af9-87bd-11af280dc66b

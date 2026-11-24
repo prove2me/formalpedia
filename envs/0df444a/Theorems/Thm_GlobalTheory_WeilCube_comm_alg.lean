@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilCube_comm_alg
 -- name    : GlobalTheory.WeilCube.comm_alg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:53:20.127264+00:00
 -- url     : https://prove2.me/theorems/5d39fc66-264b-49f5-ac87-d1b75db28d6c

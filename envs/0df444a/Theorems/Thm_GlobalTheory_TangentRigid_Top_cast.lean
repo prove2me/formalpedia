@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TangentRigid_Top_cast
 -- name    : GlobalTheory.TangentRigid.Top.cast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:08:38.018602+00:00
 -- url     : https://prove2.me/theorems/a8d0de09-210d-4660-8086-c7c66eef9527

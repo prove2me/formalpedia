@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WpFam_ch_eq_exp_pow_val
 -- name    : GlobalTheory.WpFam.ch_eq_exp_pow_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:56:06.745802+00:00
 -- url     : https://prove2.me/theorems/9a391f74-9705-4db8-a998-8bc5014e683e

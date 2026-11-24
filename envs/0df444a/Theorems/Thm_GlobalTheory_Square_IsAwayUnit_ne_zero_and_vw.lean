@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Square_IsAwayUnit_ne_zero_and_vw
 -- name    : GlobalTheory.Square.IsAwayUnit.ne_zero_and_vw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:10:03.159544+00:00
 -- url     : https://prove2.me/theorems/e6840963-60fa-4300-8487-c71aaa167e38

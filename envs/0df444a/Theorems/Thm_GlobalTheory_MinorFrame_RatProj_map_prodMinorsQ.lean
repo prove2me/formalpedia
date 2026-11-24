@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorFrame_RatProj_map_prodMinorsQ
 -- name    : GlobalTheory.MinorFrame.RatProj.map_prodMinorsQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:06:39.223819+00:00
 -- url     : https://prove2.me/theorems/8f3e027a-b6ea-485a-8489-14405eefd721

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_basisVal_sum_le
 -- name    : GlobalTheory.basisVal_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:07:04.727553+00:00
 -- url     : https://prove2.me/theorems/e0074c3c-f8ff-4dbf-9c28-c1dcbbba2125

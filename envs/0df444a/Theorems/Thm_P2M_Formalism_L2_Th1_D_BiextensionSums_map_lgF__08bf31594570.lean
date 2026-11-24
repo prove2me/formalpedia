@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_D_BiextensionSums_map_lgF__08bf31594570
 -- name    : P2M_Formalism_L2_Th1_D_BiextensionSums_map_lgF__08bf31594570
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:01:29.517136+00:00
 -- url     : https://prove2.me/theorems/3ba4ae3c-9a9b-418f-b149-3844345ae599

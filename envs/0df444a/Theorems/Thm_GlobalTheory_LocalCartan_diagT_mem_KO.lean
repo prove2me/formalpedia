@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalCartan_diagT_mem_KO
 -- name    : GlobalTheory.LocalCartan.diagT_mem_KO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:02:37.018497+00:00
 -- url     : https://prove2.me/theorems/7ed4d7be-24af-4108-8a82-468131f26fc2

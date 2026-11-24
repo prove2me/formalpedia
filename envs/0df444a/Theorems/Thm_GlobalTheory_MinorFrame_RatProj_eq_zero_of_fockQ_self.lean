@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorFrame_RatProj_eq_zero_of_fockQ_self
 -- name    : GlobalTheory.MinorFrame.RatProj.eq_zero_of_fockQ_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:06:23.869828+00:00
 -- url     : https://prove2.me/theorems/ecc14d33-ca25-480a-bf6c-34f61fe9e723

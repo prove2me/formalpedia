@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_exists_prime_level
 -- name    : GlobalTheory.ZM.exists_prime_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:02:53.984077+00:00
 -- url     : https://prove2.me/theorems/1bce1815-bb8c-4659-b2f7-8d0ed8f6faa4

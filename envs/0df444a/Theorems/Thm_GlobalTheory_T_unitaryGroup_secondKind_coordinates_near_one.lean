@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitaryGroup_secondKind_coordinates_near_one
 -- name    : GlobalTheory.T.unitaryGroup_secondKind_coordinates_near_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:01:00.069051+00:00
 -- url     : https://prove2.me/theorems/30b7acb2-0083-4ad3-ada3-db333477999f

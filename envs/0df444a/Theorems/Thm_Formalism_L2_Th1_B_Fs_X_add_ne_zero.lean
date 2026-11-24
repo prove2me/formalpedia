@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Fs_X_add_ne_zero
 -- name    : Formalism.L2.Th1.B.Fs.X_add_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:59:13.32389+00:00
 -- url     : https://prove2.me/theorems/c4d4d1b8-74e5-415a-b48b-9cd45887e345

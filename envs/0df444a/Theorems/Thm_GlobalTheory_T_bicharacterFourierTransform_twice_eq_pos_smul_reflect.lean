@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_bicharacterFourierTransform_twice_eq_pos_smul_reflect
 -- name    : GlobalTheory.T.bicharacterFourierTransform_twice_eq_pos_smul_reflect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:34:41.660886+00:00
 -- url     : https://prove2.me/theorems/785cad00-15bd-439f-8e0e-7f36b67a0b6f

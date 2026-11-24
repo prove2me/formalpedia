@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_E2_curve3_at
 -- name    : Formalism.L2.Th1.B.E2.curve3_at
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:00:48.626197+00:00
 -- url     : https://prove2.me/theorems/afa7673d-880d-4ff3-b569-edc08c373d23

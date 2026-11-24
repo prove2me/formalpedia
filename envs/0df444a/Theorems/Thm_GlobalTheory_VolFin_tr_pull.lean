@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VolFin_tr_pull
 -- name    : GlobalTheory.VolFin.tr_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:51:39.130836+00:00
 -- url     : https://prove2.me/theorems/4312f955-77e3-4ec5-b279-c49267d69e75

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_iotaExists_thm
 -- name    : Formalism.L2.Th1.F.iotaExists_thm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:15:32.677804+00:00
 -- url     : https://prove2.me/theorems/13dff520-1c0b-416f-8f08-6c1b181f2537

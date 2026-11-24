@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitarySemisimple_mem_orbSpan
 -- name    : GlobalTheory.UnitarySemisimple.mem_orbSpan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:45:35.649213+00:00
 -- url     : https://prove2.me/theorems/3f117649-2bb9-4605-8ab0-5dd5f8045e33

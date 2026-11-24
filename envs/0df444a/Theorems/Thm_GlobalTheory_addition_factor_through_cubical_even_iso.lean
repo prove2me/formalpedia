@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_addition_factor_through_cubical_even_iso
 -- name    : GlobalTheory.addition_factor_through_cubical_even_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:06:29.273323+00:00
 -- url     : https://prove2.me/theorems/f1c32cd1-2997-40ec-8101-6ee0bac86f37

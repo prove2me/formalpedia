@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_WeilFormula_weil_formula
 -- name    : GlobalTheory.KSp.WeilFormula.weil_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:48:19.231168+00:00
 -- url     : https://prove2.me/theorems/f77d0aa4-11ed-4bd2-b733-86da006aaa46

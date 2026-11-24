@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_B5_mem_mmR_of
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.B5.mem_mmR_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:00:46.21896+00:00
 -- url     : https://prove2.me/theorems/ca0f7eff-d277-451e-830a-92b79e24e16b

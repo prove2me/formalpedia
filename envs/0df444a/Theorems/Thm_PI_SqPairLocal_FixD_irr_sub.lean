@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_FixD_irr_sub
 -- name    : PI.SqPairLocal.FixD.irr_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:07:40.502817+00:00
 -- url     : https://prove2.me/theorems/3a1cb7ef-780e-4f6a-a88a-469d492ac113

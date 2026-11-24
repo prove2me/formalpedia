@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_pair_jet_bound
 -- name    : Formalism.DworkPowerSeriesWeights.pair_jet_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:41:38.505137+00:00
 -- url     : https://prove2.me/theorems/6d22c124-8083-4b16-965e-a71ebc469e1e

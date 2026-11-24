@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_mem_latOf_typeFrame
 -- name    : GlobalTheory.StepData.mem_latOf_typeFrame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:50:09.610639+00:00
 -- url     : https://prove2.me/theorems/71d014cb-cd8f-4a2c-8780-618d0474fcac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_UnitInd_isUnitarisable_multiProd
 -- name    : GlobalTheory.SmGL.UnitInd.isUnitarisable_multiProd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:36:46.557979+00:00
 -- url     : https://prove2.me/theorems/07f8bd06-f81d-4ea8-997b-e4739789ead3

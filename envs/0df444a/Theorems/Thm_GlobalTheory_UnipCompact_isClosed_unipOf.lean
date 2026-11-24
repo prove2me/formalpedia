@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnipCompact_isClosed_unipOf
 -- name    : GlobalTheory.UnipCompact.isClosed_unipOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:02:20.319053+00:00
 -- url     : https://prove2.me/theorems/57273dcd-dfa4-4cdb-983c-a177162b616e

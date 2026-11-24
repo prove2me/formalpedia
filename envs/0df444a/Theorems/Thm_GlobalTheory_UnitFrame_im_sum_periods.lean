@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitFrame_im_sum_periods
 -- name    : GlobalTheory.UnitFrame.im_sum_periods
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:18:39.929805+00:00
 -- url     : https://prove2.me/theorems/f56413a8-e221-47eb-a4aa-aae4672d8f10

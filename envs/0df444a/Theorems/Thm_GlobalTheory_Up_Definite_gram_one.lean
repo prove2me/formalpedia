@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Up_Definite_gram_one
 -- name    : GlobalTheory.Up.Definite.gram_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:49:24.408729+00:00
 -- url     : https://prove2.me/theorems/0986c3b0-0c9c-4e28-b12e-ea1296046f2a

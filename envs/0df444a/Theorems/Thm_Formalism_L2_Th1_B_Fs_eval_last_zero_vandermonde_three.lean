@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Fs_eval_last_zero_vandermonde_three
 -- name    : Formalism.L2.Th1.B.Fs.eval_last_zero_vandermonde_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:58:37.718735+00:00
 -- url     : https://prove2.me/theorems/2ebf581c-cf25-4a88-bbf4-7e1699bd5d3e

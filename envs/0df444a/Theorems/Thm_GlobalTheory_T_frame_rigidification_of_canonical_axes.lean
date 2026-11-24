@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_frame_rigidification_of_canonical_axes
 -- name    : GlobalTheory.T.frame_rigidification_of_canonical_axes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:41:42.94909+00:00
 -- url     : https://prove2.me/theorems/6fb1ec40-3f3b-404d-a38d-cdfde8037ef0

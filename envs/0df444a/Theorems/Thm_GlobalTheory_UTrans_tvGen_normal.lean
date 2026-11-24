@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_tvGen_normal
 -- name    : GlobalTheory.UTrans.tvGen_normal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:48:39.580831+00:00
 -- url     : https://prove2.me/theorems/61c2744f-57c5-40a3-a267-b1492ce40bb3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_UnipPow_pow_sub_one_apply
 -- name    : GlobalTheory.RootEx.UnipPow.pow_sub_one_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:08:52.454834+00:00
 -- url     : https://prove2.me/theorems/8e58e519-98a4-4b5b-90de-b2631f9166a6

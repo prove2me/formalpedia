@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_UnipPow_pow_dvd_choose
 -- name    : GlobalTheory.RootEx.UnipPow.pow_dvd_choose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:09:32.744151+00:00
 -- url     : https://prove2.me/theorems/4abdcb9c-efaf-4c84-8584-407baed13a77

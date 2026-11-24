@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifParts_cls_eq
 -- name    : GlobalTheory.UnifParts.cls_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:24:05.182871+00:00
 -- url     : https://prove2.me/theorems/9362c385-4fe6-41a4-bb7c-113579c0b382

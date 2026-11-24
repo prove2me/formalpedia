@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_irreducible_of_val_one
 -- name    : GlobalTheory.UnitLemma.Unr.irreducible_of_val_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:37:57.452691+00:00
 -- url     : https://prove2.me/theorems/a6dd2cf5-6844-478e-94c9-ac82da86bb81

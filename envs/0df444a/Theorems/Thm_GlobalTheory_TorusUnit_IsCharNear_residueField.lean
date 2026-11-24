@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusUnit_IsCharNear_residueField
 -- name    : GlobalTheory.TorusUnit.IsCharNear.residueField
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:05:28.059814+00:00
 -- url     : https://prove2.me/theorems/3aad97bc-c291-4a5b-9598-85f02ea03340

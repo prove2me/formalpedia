@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryCayley_trace_Hpk
 -- name    : GlobalTheory.UnitaryCayley.trace_Hpk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:39:13.193329+00:00
 -- url     : https://prove2.me/theorems/4ebd0fdf-de88-44a9-b276-c952c22da0b4

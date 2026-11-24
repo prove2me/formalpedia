@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgAlg_witt_free_field
 -- name    : GlobalTheory.SgAlg.witt_free_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:54:03.847408+00:00
 -- url     : https://prove2.me/theorems/1d10cfb2-4d1b-4db4-a359-7a14022d2c6f

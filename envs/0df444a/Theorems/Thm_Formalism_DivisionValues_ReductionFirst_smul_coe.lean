@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_ReductionFirst_smul_coe
 -- name    : Formalism.DivisionValues.ReductionFirst.smul_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:05:06.791182+00:00
 -- url     : https://prove2.me/theorems/c872d713-4e56-4913-bded-2e1cc09844d2

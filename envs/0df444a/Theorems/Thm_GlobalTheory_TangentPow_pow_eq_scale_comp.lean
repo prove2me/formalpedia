@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TangentPow_pow_eq_scale_comp
 -- name    : GlobalTheory.TangentPow.pow_eq_scale_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:16.424466+00:00
 -- url     : https://prove2.me/theorems/00ebe293-4a04-4597-bc58-d38a3c1f9265

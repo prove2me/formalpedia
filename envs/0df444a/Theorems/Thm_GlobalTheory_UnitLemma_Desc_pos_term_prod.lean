@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_pos_term_prod
 -- name    : GlobalTheory.UnitLemma.Desc.pos_term_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:28:06.183436+00:00
 -- url     : https://prove2.me/theorems/2f4cda39-b2a3-478e-a775-ed343c447a0d

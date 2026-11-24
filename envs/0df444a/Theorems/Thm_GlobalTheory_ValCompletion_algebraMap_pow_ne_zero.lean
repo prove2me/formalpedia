@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ValCompletion_algebraMap_pow_ne_zero
 -- name    : GlobalTheory.ValCompletion.algebraMap_pow_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:50:16.579799+00:00
 -- url     : https://prove2.me/theorems/1e9690d8-da17-46da-8e55-750f7a95f526

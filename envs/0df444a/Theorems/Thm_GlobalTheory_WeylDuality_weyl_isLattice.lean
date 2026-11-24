@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeylDuality_weyl_isLattice
 -- name    : GlobalTheory.WeylDuality.weyl_isLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:56:11.495031+00:00
 -- url     : https://prove2.me/theorems/6e2109a9-05fd-471d-bf94-3c4637abbdf6

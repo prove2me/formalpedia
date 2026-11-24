@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaInter_inter_mem_fixedBy
 -- name    : GlobalTheory.ThetaInter.inter_mem_fixedBy
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:14:16.935638+00:00
 -- url     : https://prove2.me/theorems/2c3b6483-9a79-4c2e-9f05-b55f89b2c55e

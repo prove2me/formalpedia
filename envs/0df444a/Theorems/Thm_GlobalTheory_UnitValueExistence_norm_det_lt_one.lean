@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitValueExistence_norm_det_lt_one
 -- name    : GlobalTheory.UnitValueExistence.norm_det_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:39:16.408078+00:00
 -- url     : https://prove2.me/theorems/826a24e8-d1fd-4f09-aeca-632765832fe9

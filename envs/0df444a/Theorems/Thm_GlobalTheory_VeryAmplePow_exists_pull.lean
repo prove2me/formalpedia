@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VeryAmplePow_exists_pull
 -- name    : GlobalTheory.VeryAmplePow.exists_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:50:45.123574+00:00
 -- url     : https://prove2.me/theorems/57408c1c-be91-4fef-b703-11a65d772241

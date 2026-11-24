@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_constantCoeff_C_mul_weierstrassLog
 -- name    : ReciprocityTheory.ChartRestriction.L1.constantCoeff_C_mul_weierstrassLog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:43:50.638181+00:00
 -- url     : https://prove2.me/theorems/ad64bdea-b59c-424e-9470-3155a3488dea

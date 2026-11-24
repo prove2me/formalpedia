@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_KF_norm_eq_of_pow_sub
 -- name    : Formalism.L2.Th1.D.KF.norm_eq_of_pow_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:53:29.936324+00:00
 -- url     : https://prove2.me/theorems/0b8c513a-4688-405f-80ad-cf73b5ed7cd5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_integralPS_mul
 -- name    : ReciprocityTheory.ChartRestriction.L1.integralPS_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:42:20.231132+00:00
 -- url     : https://prove2.me/theorems/b07dc79a-846f-4cc2-a64c-296452bbe695

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilSmooth_mid_eq
 -- name    : GlobalTheory.WeilSmooth.mid_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:55:24.925173+00:00
 -- url     : https://prove2.me/theorems/383af488-f82c-44ad-8e37-4f7c546fc933

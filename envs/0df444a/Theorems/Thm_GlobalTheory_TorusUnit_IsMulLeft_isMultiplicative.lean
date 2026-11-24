@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusUnit_IsMulLeft_isMultiplicative
 -- name    : GlobalTheory.TorusUnit.IsMulLeft.isMultiplicative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:11:44.321091+00:00
 -- url     : https://prove2.me/theorems/657167ec-5501-489b-9d26-2c8f6e1506df

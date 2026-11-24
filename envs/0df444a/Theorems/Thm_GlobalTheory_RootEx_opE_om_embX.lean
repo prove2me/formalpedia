@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_opE_om_embX
 -- name    : GlobalTheory.RootEx.opE_om_embX
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:05:14.581256+00:00
 -- url     : https://prove2.me/theorems/cf30394f-60e3-49fe-afc0-2d27fb1f7a07

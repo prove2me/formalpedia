@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VeryAmplePow_gs_sum
 -- name    : GlobalTheory.VeryAmplePow.gs_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:50:46.109558+00:00
 -- url     : https://prove2.me/theorems/2e02fecb-e258-4254-b83d-8e74ad2051bd

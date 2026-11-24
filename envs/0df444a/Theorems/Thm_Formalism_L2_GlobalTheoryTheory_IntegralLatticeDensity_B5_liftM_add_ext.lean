@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_B5_liftM_add_ext
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.B5.liftM_add_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:49:38.83292+00:00
 -- url     : https://prove2.me/theorems/e75a9726-2c1e-4836-ae20-fe77895e5374

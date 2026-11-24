@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZJ_eq_closedPoint_or_mem_range
 -- name    : GlobalTheory.ZJ.eq_closedPoint_or_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:03:30.786097+00:00
 -- url     : https://prove2.me/theorems/1d1d83c6-2147-43cd-afc3-b8aca5c60931

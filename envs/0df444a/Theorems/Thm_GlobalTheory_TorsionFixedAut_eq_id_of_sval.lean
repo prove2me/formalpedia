@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionFixedAut_eq_id_of_sval
 -- name    : GlobalTheory.TorsionFixedAut.eq_id_of_sval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:09:04.484855+00:00
 -- url     : https://prove2.me/theorems/4081af94-cdb2-41cf-a7a0-926d1b80c02c

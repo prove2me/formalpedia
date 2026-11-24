@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TanDeriv_deriv_comb
 -- name    : GlobalTheory.TanDeriv.deriv_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:02:57.980147+00:00
 -- url     : https://prove2.me/theorems/8dcd7f06-b04e-4193-a81d-72c25d3bd4ca

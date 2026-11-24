@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_mem_latOf_one
 -- name    : GlobalTheory.StepData.mem_latOf_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:50:11.815583+00:00
 -- url     : https://prove2.me/theorems/78e41328-c0dc-45fb-aef4-3e9d3559bc79

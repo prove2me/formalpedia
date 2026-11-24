@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnfoldNormal_smulInvariantMeasure_shear_map
 -- name    : GlobalTheory.UnfoldNormal.smulInvariantMeasure_shear_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:24:31.735796+00:00
 -- url     : https://prove2.me/theorems/ce9bea3e-a3df-4c8b-9f9b-cf7eb965aa5c

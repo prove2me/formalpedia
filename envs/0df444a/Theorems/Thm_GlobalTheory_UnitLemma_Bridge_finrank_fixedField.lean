@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Bridge_finrank_fixedField
 -- name    : GlobalTheory.UnitLemma.Bridge.finrank_fixedField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:26:24.352349+00:00
 -- url     : https://prove2.me/theorems/d089b000-e5fe-4bf1-bf8e-078108487353

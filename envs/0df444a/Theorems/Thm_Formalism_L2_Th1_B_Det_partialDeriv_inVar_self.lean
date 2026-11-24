@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Det_partialDeriv_inVar_self
 -- name    : Formalism.L2.Th1.B.Det.partialDeriv_inVar_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:00:52.382249+00:00
 -- url     : https://prove2.me/theorems/8ebb95d0-58b5-45e0-a474-f792c3fef2c4

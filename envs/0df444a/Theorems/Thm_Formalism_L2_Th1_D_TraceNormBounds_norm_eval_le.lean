@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TraceNormBounds_norm_eval_le
 -- name    : Formalism.L2.Th1.D.TraceNormBounds.norm_eval_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:58:40.120622+00:00
 -- url     : https://prove2.me/theorems/1af6d984-54cf-4a8d-9941-c9b8b5a0bf2d

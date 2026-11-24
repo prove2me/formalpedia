@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_IsSig_smul
 -- name    : GlobalTheory.SA.IsSig.smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:34:48.403424+00:00
 -- url     : https://prove2.me/theorems/65fc2d15-55a7-46b2-af88-7038d14a03f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_wIntegral
 -- name    : Formalism.L2.Th1.B.wIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:15:38.157425+00:00
 -- url     : https://prove2.me/theorems/bb100ed1-abf6-4f76-aaba-ed141ee33cf0

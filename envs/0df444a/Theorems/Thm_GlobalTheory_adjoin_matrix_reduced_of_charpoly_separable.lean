@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_adjoin_matrix_reduced_of_charpoly_separable
 -- name    : GlobalTheory.adjoin_matrix_reduced_of_charpoly_separable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:05:49.868918+00:00
 -- url     : https://prove2.me/theorems/1a124e27-8de6-4d38-a5f6-171fe6c3787a

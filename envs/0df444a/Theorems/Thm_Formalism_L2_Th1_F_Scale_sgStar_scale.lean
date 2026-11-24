@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Scale_sgStar_scale
 -- name    : Formalism.L2.Th1.F.Scale.sgStar_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:20:14.171886+00:00
 -- url     : https://prove2.me/theorems/27515eaf-2836-4d69-98aa-b88034a8b5ab

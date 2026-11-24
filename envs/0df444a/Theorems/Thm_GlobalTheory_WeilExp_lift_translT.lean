@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilExp_lift_translT
 -- name    : GlobalTheory.WeilExp.lift_translT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:53:20.475104+00:00
 -- url     : https://prove2.me/theorems/74ac501b-efa4-4df6-a301-a0a2bbcaf458

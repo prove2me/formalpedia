@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitVectorStabEq_mem_iff
 -- name    : GlobalTheory.UnitVectorStabEq.mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:39:06.857847+00:00
 -- url     : https://prove2.me/theorems/651ba65d-a660-47b7-a46c-70d410433f5a

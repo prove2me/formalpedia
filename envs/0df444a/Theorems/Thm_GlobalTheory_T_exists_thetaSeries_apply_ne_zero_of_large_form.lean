@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_thetaSeries_apply_ne_zero_of_large_form
 -- name    : GlobalTheory.T.exists_thetaSeries_apply_ne_zero_of_large_form
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:00:35.530899+00:00
 -- url     : https://prove2.me/theorems/fe803fd7-7113-4b3c-9d06-1ae270fbc213

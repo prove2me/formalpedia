@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SliceOpDeriv_continuous_xPart
 -- name    : GlobalTheory.SliceOpDeriv.continuous_xPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:13:51.858037+00:00
 -- url     : https://prove2.me/theorems/88d872cf-07a7-47b2-97da-85d5f9ced349

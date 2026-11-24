@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartzFourierTransformPi_surjective_schwartzBruhat
 -- name    : GlobalTheory.T.schwartzFourierTransformPi_surjective_schwartzBruhat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:18:42.069813+00:00
 -- url     : https://prove2.me/theorems/771437e9-c482-4e3c-b891-114424f5c892

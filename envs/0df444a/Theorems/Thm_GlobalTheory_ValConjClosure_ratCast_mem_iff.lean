@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ValConjClosure_ratCast_mem_iff
 -- name    : GlobalTheory.ValConjClosure.ratCast_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:53:30.534799+00:00
 -- url     : https://prove2.me/theorems/4e60b7d2-42eb-428d-8c55-45577ecbeb75

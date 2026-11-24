@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_strict_model_of_birational
 -- name    : GlobalTheory.T.exists_strict_model_of_birational
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:38:38.699922+00:00
 -- url     : https://prove2.me/theorems/7e1c561d-6599-4061-ad8e-019e26077063

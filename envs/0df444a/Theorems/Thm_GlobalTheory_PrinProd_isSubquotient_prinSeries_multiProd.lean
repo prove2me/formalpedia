@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrinProd_isSubquotient_prinSeries_multiProd
 -- name    : GlobalTheory.PrinProd.isSubquotient_prinSeries_multiProd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:01:57.020807+00:00
 -- url     : https://prove2.me/theorems/88c23f70-1c51-4904-87c7-efe96a650eac

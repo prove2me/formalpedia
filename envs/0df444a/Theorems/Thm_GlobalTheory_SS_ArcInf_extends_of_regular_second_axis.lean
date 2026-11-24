@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_ArcInf_extends_of_regular_second_axis
 -- name    : GlobalTheory.SS.ArcInf.extends_of_regular_second_axis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:34:17.652101+00:00
 -- url     : https://prove2.me/theorems/7989171c-1cd5-44a2-afda-e6d4509d504b

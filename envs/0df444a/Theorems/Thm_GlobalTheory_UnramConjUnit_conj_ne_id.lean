@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramConjUnit_conj_ne_id
 -- name    : GlobalTheory.UnramConjUnit.conj_ne_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:46:47.039809+00:00
 -- url     : https://prove2.me/theorems/617c9a22-1720-4827-988a-c39ce2b09b4c

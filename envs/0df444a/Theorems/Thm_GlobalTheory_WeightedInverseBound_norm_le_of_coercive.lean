@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightedInverseBound_norm_le_of_coercive
 -- name    : GlobalTheory.WeightedInverseBound.norm_le_of_coercive
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:00:59.856215+00:00
 -- url     : https://prove2.me/theorems/8fa65006-2cf5-4576-843d-06d87f9896a6

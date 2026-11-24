@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZetaLeft_hasDerivAt_shift_cpow
 -- name    : GlobalTheory.ZetaLeft.hasDerivAt_shift_cpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:04:40.849355+00:00
 -- url     : https://prove2.me/theorems/c5616acf-3762-4c5d-9ac7-9948f62e8ad5

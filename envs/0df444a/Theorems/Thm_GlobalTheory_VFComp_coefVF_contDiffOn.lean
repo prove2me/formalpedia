@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VFComp_coefVF_contDiffOn
 -- name    : GlobalTheory.VFComp.coefVF_contDiffOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:50:50.285052+00:00
 -- url     : https://prove2.me/theorems/c2218914-3f78-4f58-90a2-3dd3a7100ca2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_GaussB_jetsIntegral_map
 -- name    : Formalism.DworkPowerSeriesWeights.GaussB.jetsIntegral_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:03:54.156746+00:00
 -- url     : https://prove2.me/theorems/b9942d3b-90b7-40ee-9692-a893986ace0b

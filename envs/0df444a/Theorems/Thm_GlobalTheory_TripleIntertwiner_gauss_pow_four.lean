@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TripleIntertwiner_gauss_pow_four
 -- name    : GlobalTheory.TripleIntertwiner.gauss_pow_four
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:12:17.715036+00:00
 -- url     : https://prove2.me/theorems/da08d29d-fe52-402c-96a7-90b8ac8bbf56

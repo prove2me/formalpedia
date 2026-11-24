@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineThickening_exists_isAffineOpen_preimage_eq_of_isNilpotent
 -- name    : GlobalTheory.AffineThickening.exists_isAffineOpen_preimage_eq_of_isNilpotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:16:42.439448+00:00
 -- url     : https://prove2.me/theorems/94d75865-f682-4323-95d7-8f074317ed2e

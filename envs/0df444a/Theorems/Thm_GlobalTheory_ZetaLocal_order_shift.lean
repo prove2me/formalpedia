@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZetaLocal_order_shift
 -- name    : GlobalTheory.ZetaLocal.order_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:04:42.859824+00:00
 -- url     : https://prove2.me/theorems/f820b218-b7d8-494a-a59f-b5b823549070

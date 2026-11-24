@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_NearBuild_isPrime_of_mem
 -- name    : GlobalTheory.ZM.NearBuild.isPrime_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:02:41.601434+00:00
 -- url     : https://prove2.me/theorems/7701ad7a-1586-4ffe-b380-303d9ae8cf3d

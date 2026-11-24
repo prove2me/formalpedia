@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorFrame_prod_det_scalAt_zpow
 -- name    : GlobalTheory.MinorFrame.prod_det_scalAt_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:05:55.246834+00:00
 -- url     : https://prove2.me/theorems/f45c00f9-fd89-4658-a298-136c79e50784

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_GaussB_norm_det_generic
 -- name    : Formalism.DworkPowerSeriesWeights.GaussB.norm_det_generic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:04:00.209419+00:00
 -- url     : https://prove2.me/theorems/ab39fd94-365c-40e3-a3ac-1328ec181590

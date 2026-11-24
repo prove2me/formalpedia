@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_PFlag_mem_lieQ_and_star_iff
 -- name    : GlobalTheory.Tw.PFlag.mem_lieQ_and_star_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:13:31.687021+00:00
 -- url     : https://prove2.me/theorems/0fb769ca-8cde-4488-8adf-5ec5237d2235

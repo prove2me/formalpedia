@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_Ind_hf_ext_ext
 -- name    : PI.KLW.Ind.hf_ext_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:54:26.27784+00:00
 -- url     : https://prove2.me/theorems/d2b58935-b112-4c95-978b-2814ec3927bb

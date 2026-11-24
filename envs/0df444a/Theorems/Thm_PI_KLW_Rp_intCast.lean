@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_Rp_intCast
 -- name    : PI.KLW.Rp_intCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:44:51.103446+00:00
 -- url     : https://prove2.me/theorems/6cb58d85-2295-4604-b740-8f610b5b3c29

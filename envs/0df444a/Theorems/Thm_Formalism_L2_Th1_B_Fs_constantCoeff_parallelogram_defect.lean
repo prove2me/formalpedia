@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Fs_constantCoeff_parallelogram_defect
 -- name    : Formalism.L2.Th1.B.Fs.constantCoeff_parallelogram_defect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:59:06.132611+00:00
 -- url     : https://prove2.me/theorems/565b929d-9c68-404a-bf35-a2a77a379f68

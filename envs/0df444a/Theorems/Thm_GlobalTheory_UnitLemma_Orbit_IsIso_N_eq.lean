@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Orbit_IsIso_N_eq
 -- name    : GlobalTheory.UnitLemma.Orbit.IsIso.N_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:36:20.312171+00:00
 -- url     : https://prove2.me/theorems/05e4f9f3-9ba0-4b14-9028-b5ac1a49f93c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_basisVal_le_one_iff
 -- name    : GlobalTheory.basisVal_le_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:07:02.101907+00:00
 -- url     : https://prove2.me/theorems/ff678a3e-52e5-4404-8d92-2cd1969837b0

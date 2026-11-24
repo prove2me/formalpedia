@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_Unimod_smul_mem
 -- name    : PI.KLW.Unimod.smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:43:16.186544+00:00
 -- url     : https://prove2.me/theorems/83180722-f1e1-4b89-ae0a-dc168ad48a2c

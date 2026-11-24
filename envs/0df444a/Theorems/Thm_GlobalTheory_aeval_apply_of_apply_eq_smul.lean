@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_aeval_apply_of_apply_eq_smul
 -- name    : GlobalTheory.aeval_apply_of_apply_eq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:05:39.213524+00:00
 -- url     : https://prove2.me/theorems/db549534-c8b8-4a0e-8e66-dfd47cbd2067

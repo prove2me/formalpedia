@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_biHom_shiftGen
 -- name    : Formalism.InvariantFactorPaths.G7.biHom_shiftGen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:30:00.47927+00:00
 -- url     : https://prove2.me/theorems/9041e296-5ff9-47de-b8b5-609a9accac4a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitVectorStabEq_hR_act
 -- name    : GlobalTheory.UnitVectorStabEq.hR_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:39:23.486805+00:00
 -- url     : https://prove2.me/theorems/d97d8538-e2ae-4422-8f2f-bfe01a9204be

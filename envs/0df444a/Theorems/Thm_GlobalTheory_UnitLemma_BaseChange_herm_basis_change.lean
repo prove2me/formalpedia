@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_BaseChange_herm_basis_change
 -- name    : GlobalTheory.UnitLemma.BaseChange.herm_basis_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:26:51.16197+00:00
 -- url     : https://prove2.me/theorems/c8d07a2c-490f-493d-bbc6-fb28415c697e

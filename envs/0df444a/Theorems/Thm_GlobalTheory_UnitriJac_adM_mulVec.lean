@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitriJac_adM_mulVec
 -- name    : GlobalTheory.UnitriJac.adM_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:48:09.32556+00:00
 -- url     : https://prove2.me/theorems/7c999e81-7f31-4d5f-8164-2951b56dac03

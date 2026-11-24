@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_WtGen_isUnit_of_map
 -- name    : GlobalTheory.ZH.WtGen.isUnit_of_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:02:43.735191+00:00
 -- url     : https://prove2.me/theorems/480e6fdb-10a9-4703-b78c-28835564410d

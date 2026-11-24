@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_mulVec_mem_latOf
 -- name    : GlobalTheory.StepData.mulVec_mem_latOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:51:16.755847+00:00
 -- url     : https://prove2.me/theorems/ad05d99e-444d-471d-85f6-d64ed77ceab7

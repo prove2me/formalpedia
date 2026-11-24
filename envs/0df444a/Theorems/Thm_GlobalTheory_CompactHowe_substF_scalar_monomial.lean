@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactHowe_substF_scalar_monomial
 -- name    : GlobalTheory.CompactHowe.substF_scalar_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:54:22.618809+00:00
 -- url     : https://prove2.me/theorems/4e259d32-04b4-44a3-b437-e7d42a03f460

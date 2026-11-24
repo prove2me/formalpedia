@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZetaFractionalIntegral_integrableOn_fract_mul
 -- name    : GlobalTheory.ZetaFractionalIntegral.integrableOn_fract_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:03:42.112979+00:00
 -- url     : https://prove2.me/theorems/7de3ccc7-0dcc-453a-8c2f-361c105c1d6b

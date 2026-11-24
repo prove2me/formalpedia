@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusUnit_IsMulLeft_value_mul
 -- name    : GlobalTheory.TorusUnit.IsMulLeft.value_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:11:38.048802+00:00
 -- url     : https://prove2.me/theorems/958e047e-3329-461d-bd86-80756963bdb1

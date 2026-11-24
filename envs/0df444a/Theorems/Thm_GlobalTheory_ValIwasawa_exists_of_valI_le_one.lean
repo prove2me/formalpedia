@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ValIwasawa_exists_of_valI_le_one
 -- name    : GlobalTheory.ValIwasawa.exists_of_valI_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:49:53.279307+00:00
 -- url     : https://prove2.me/theorems/f9d2af44-aa3c-4534-ac0f-c4fc882fc35d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_jetsIntegral_subst
 -- name    : Formalism.DworkPowerSeriesWeights.jetsIntegral_subst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:03:19.361246+00:00
 -- url     : https://prove2.me/theorems/309d6860-eca6-4dd5-8001-38a19ab77328

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_basisAddVal_smul
 -- name    : GlobalTheory.basisAddVal_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:06:46.987382+00:00
 -- url     : https://prove2.me/theorems/939ffd87-ac8f-4371-9c19-596619449ffa

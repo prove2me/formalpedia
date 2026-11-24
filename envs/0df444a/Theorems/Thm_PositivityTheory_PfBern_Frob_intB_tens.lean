@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PfBern_Frob_intB_tens
 -- name    : PositivityTheory.PfBern.Frob.intB_tens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:55:05.255906+00:00
 -- url     : https://prove2.me/theorems/d4b95d77-8628-466a-8257-5dd5a8dd3333

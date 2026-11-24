@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_alternating_pairing_expand
 -- name    : GlobalTheory.alternating_pairing_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:05:37.376808+00:00
 -- url     : https://prove2.me/theorems/9eeb8254-3506-4b89-b48b-2f57f39a828d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_LFam_real_zero_far_from_one
 -- name    : GlobalTheory.Hk.LFam.real_zero_far_from_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:22:31.955488+00:00
 -- url     : https://prove2.me/theorems/c065865d-42af-4c89-9a7c-e77a0da47086

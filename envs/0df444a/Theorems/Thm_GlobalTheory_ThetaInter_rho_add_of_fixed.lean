@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaInter_rho_add_of_fixed
 -- name    : GlobalTheory.ThetaInter.rho_add_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:24:04.649659+00:00
 -- url     : https://prove2.me/theorems/77f6b0bd-7c4d-415f-a945-3f3c7b5c2780

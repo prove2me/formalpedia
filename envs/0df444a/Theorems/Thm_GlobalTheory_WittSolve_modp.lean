@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WittSolve_modp
 -- name    : GlobalTheory.WittSolve.modp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:56:11.343728+00:00
 -- url     : https://prove2.me/theorems/b4a6b06d-7af3-4458-a7f2-cb37b0ee7c79

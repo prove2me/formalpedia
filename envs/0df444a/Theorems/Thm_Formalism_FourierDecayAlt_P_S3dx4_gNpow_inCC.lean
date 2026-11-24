@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3dx4_gNpow_inCC
 -- name    : Formalism.FourierDecayAlt.P.S3dx4.gNpow_inCC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:49:01.379216+00:00
 -- url     : https://prove2.me/theorems/0aee5e69-f8d0-49c0-9178-34f4cca92b19

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_SgnProd_det_trace_lift
 -- name    : GlobalTheory.UnitLemma.SgnProd.det_trace_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:29:32.191251+00:00
 -- url     : https://prove2.me/theorems/8a6e4f60-4565-4097-bf98-f99ff7e63e23

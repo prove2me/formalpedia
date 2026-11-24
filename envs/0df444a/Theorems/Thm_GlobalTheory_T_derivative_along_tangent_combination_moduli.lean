@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_derivative_along_tangent_combination_moduli
 -- name    : GlobalTheory.T.derivative_along_tangent_combination_moduli
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:33:07.51204+00:00
 -- url     : https://prove2.me/theorems/9b802d01-eafa-4b8f-9069-e8ccc39fcaad

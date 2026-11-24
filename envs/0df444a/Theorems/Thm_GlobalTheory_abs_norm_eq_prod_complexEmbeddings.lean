@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_abs_norm_eq_prod_complexEmbeddings
 -- name    : GlobalTheory.abs_norm_eq_prod_complexEmbeddings
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:04:19.16504+00:00
 -- url     : https://prove2.me/theorems/dded3026-1c41-448d-8d8b-bffe4bd1da55

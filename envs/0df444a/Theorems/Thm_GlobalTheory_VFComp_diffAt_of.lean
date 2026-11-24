@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VFComp_diffAt_of
 -- name    : GlobalTheory.VFComp.diffAt_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:50:24.006639+00:00
 -- url     : https://prove2.me/theorems/1a51605d-d4da-499c-b1bd-8652a64f6f9a

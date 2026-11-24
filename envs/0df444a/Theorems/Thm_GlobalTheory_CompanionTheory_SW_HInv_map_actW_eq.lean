@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HInv_map_actW_eq
 -- name    : GlobalTheory.CompanionTheory.SW.HInv.map_actW_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:05:52.76484+00:00
 -- url     : https://prove2.me/theorems/f7fbbf0e-925b-4891-9454-eda688549606

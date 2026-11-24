@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_IntBasis_intBasis
 -- name    : GlobalTheory.UnitLemma.Unr.IntBasis.intBasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:34:03.434661+00:00
 -- url     : https://prove2.me/theorems/e422d9d8-66aa-47bb-8fa1-48aad709a0e5

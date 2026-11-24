@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_op_change
 -- name    : Formalism.DworkPowerSeriesWeights.op_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:53:33.450709+00:00
 -- url     : https://prove2.me/theorems/cddff1cb-5ecc-4095-a3da-acff1ddc7067

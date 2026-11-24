@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitPartition_contDiffAt_normAtPlace
 -- name    : GlobalTheory.UnitPartition.contDiffAt_normAtPlace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:39:33.686802+00:00
 -- url     : https://prove2.me/theorems/368625f5-6746-4867-8a56-e419b84ae07b

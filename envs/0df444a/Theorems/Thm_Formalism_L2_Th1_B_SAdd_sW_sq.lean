@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_SAdd_sW_sq
 -- name    : Formalism.L2.Th1.B.SAdd.sW_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:02:15.910987+00:00
 -- url     : https://prove2.me/theorems/de14719d-d49a-454a-9a36-b9702fb3eaed

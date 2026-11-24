@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_truncatedGaussianIntegral_uniform_posSemidef
 -- name    : GlobalTheory.T.truncatedGaussianIntegral_uniform_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:00:23.986797+00:00
 -- url     : https://prove2.me/theorems/8e7fdc31-548b-47db-a725-f1e0f667e286

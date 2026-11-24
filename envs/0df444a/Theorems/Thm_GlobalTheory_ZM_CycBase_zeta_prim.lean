@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_CycBase_zeta_prim
 -- name    : GlobalTheory.ZM.CycBase.zeta_prim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:02:34.176405+00:00
 -- url     : https://prove2.me/theorems/d3ccf46a-6fed-4372-a130-0015e0b64c88

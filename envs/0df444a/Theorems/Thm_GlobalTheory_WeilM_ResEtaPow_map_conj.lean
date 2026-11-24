@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_ResEtaPow_map_conj
 -- name    : GlobalTheory.WeilM.ResEtaPow.map_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:54:16.235041+00:00
 -- url     : https://prove2.me/theorems/09a993e1-a157-4c8b-b86c-0b1cabc93508

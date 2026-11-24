@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaBundleSym_HasFactor_level
 -- name    : GlobalTheory.ThetaBundleSym.HasFactor.level
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:51:18.543828+00:00
 -- url     : https://prove2.me/theorems/d419d1ec-fc5e-46c3-81e9-879e3d13e85f

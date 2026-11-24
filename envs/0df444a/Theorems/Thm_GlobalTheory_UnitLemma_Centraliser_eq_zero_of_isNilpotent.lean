@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Centraliser_eq_zero_of_isNilpotent
 -- name    : GlobalTheory.UnitLemma.Centraliser.eq_zero_of_isNilpotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:33:11.707265+00:00
 -- url     : https://prove2.me/theorems/ed94c6a0-f0bc-4e31-ac6c-a81c334d36b7

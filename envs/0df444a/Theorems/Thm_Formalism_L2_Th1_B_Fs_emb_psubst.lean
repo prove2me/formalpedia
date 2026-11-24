@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Fs_emb_psubst
 -- name    : Formalism.L2.Th1.B.Fs.emb_psubst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:59:44.883974+00:00
 -- url     : https://prove2.me/theorems/f6358499-eb18-4f3a-8a50-4154617284e0

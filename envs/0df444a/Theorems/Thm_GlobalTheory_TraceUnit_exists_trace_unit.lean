@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceUnit_exists_trace_unit
 -- name    : GlobalTheory.TraceUnit.exists_trace_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:11:24.244923+00:00
 -- url     : https://prove2.me/theorems/4d9cb91b-5ede-45e1-887e-12b882c0b5cf

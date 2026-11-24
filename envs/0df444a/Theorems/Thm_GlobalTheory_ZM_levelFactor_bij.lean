@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_levelFactor_bij
 -- name    : GlobalTheory.ZM.levelFactor_bij
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:02:41.670322+00:00
 -- url     : https://prove2.me/theorems/dce34ef3-3b17-49d9-b393-f3b061a44d4e

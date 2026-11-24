@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bijective_of_image_range_eq
 -- name    : GlobalTheory.bijective_of_image_range_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:06:43.700487+00:00
 -- url     : https://prove2.me/theorems/0cdc92a9-19b4-4f14-9f75-ee8e7422e40c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Klein_exists_iteratedDeriv_eq_intFun
 -- name    : GlobalTheory.Klein.exists_iteratedDeriv_eq_intFun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:46:24.118111+00:00
 -- url     : https://prove2.me/theorems/103ed42d-7ece-4d18-b08a-dcb8eafd987b

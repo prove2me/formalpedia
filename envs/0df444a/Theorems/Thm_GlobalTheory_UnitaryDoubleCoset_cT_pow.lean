@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryDoubleCoset_cT_pow
 -- name    : GlobalTheory.UnitaryDoubleCoset.cT_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:41:42.539898+00:00
 -- url     : https://prove2.me/theorems/46f0ba27-5762-4b51-8133-d71c81267122

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_adicCompletion_quotient_ringEquiv
 -- name    : GlobalTheory.adicCompletion_quotient_ringEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:06:07.656252+00:00
 -- url     : https://prove2.me/theorems/512643e4-e517-4c7d-b7dc-f9c52f67417e

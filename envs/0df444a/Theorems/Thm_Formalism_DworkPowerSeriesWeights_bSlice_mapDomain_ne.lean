@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_bSlice_mapDomain_ne
 -- name    : Formalism.DworkPowerSeriesWeights.bSlice_mapDomain_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:53:03.029855+00:00
 -- url     : https://prove2.me/theorems/dfe18071-1cf6-4cf8-9c3c-66602adcb357

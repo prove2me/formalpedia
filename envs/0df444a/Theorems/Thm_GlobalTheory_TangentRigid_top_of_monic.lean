@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TangentRigid_top_of_monic
 -- name    : GlobalTheory.TangentRigid.top_of_monic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:08:47.985871+00:00
 -- url     : https://prove2.me/theorems/4c5bdbc7-6712-4e5f-a6b7-e33a83ea234e

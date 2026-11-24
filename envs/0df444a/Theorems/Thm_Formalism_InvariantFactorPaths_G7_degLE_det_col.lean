@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_degLE_det_col
 -- name    : Formalism.InvariantFactorPaths.G7.degLE_det_col
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:43:03.621817+00:00
 -- url     : https://prove2.me/theorems/035f545e-ed99-42d2-bf21-0f26d0dcde92

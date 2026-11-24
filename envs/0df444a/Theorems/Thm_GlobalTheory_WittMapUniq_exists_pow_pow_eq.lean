@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WittMapUniq_exists_pow_pow_eq
 -- name    : GlobalTheory.WittMapUniq.exists_pow_pow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:56:30.995913+00:00
 -- url     : https://prove2.me/theorems/adf9de03-403f-4565-aeb2-f32e36139911

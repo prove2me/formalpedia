@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilExp_translT_snd
 -- name    : GlobalTheory.WeilExp.translT_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:54:27.420067+00:00
 -- url     : https://prove2.me/theorems/6386913c-199d-4c2e-95bb-26a65b7b8815

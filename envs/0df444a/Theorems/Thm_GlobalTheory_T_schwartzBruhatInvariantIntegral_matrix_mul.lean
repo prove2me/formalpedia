@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartzBruhatInvariantIntegral_matrix_mul
 -- name    : GlobalTheory.T.schwartzBruhatInvariantIntegral_matrix_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:56:39.370321+00:00
 -- url     : https://prove2.me/theorems/3896db26-d7f9-4c0d-a1cf-47a871be181d

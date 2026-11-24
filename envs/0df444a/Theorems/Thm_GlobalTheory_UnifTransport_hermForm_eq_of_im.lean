@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifTransport_hermForm_eq_of_im
 -- name    : GlobalTheory.UnifTransport.hermForm_eq_of_im
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:24:55.804867+00:00
 -- url     : https://prove2.me/theorems/60e47f05-ce75-4d38-9e64-27ee28136abe

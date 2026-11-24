@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmallExtLift_exists_lift
 -- name    : GlobalTheory.SmallExtLift.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:56:33.696294+00:00
 -- url     : https://prove2.me/theorems/1ce29a7b-6fc1-45cd-8f4b-70f712cbbb5e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightGen_charUnit_add
 -- name    : GlobalTheory.WeightGen.charUnit_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:52:37.808546+00:00
 -- url     : https://prove2.me/theorems/6668b297-bee6-43fe-8691-b5d16c887270

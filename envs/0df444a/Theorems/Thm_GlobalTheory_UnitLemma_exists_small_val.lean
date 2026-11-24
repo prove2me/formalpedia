@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_exists_small_val
 -- name    : GlobalTheory.UnitLemma.exists_small_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:37:52.188+00:00
 -- url     : https://prove2.me/theorems/c44060c7-caa7-42e3-b329-c59afd8a4443

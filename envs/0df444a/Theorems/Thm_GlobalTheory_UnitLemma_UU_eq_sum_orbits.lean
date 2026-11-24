@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_UU_eq_sum_orbits
 -- name    : GlobalTheory.UnitLemma.UU_eq_sum_orbits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:34:14.92381+00:00
 -- url     : https://prove2.me/theorems/e68c4238-8023-4c56-8512-8f79806f31f9

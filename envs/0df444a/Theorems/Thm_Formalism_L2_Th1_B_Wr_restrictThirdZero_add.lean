@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Wr_restrictThirdZero_add
 -- name    : Formalism.L2.Th1.B.Wr.restrictThirdZero_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:01:09.895316+00:00
 -- url     : https://prove2.me/theorems/077e64ac-28a2-48f0-8eab-baf9809c5cbb

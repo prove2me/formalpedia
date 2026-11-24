@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitWitt_vecMulVec_self_mul
 -- name    : GlobalTheory.UnitWitt.vecMulVec_self_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:38:27.832812+00:00
 -- url     : https://prove2.me/theorems/50a6ed73-a450-4697-923f-80d7fde75890

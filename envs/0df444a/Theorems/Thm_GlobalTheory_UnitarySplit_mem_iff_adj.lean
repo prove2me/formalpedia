@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitarySplit_mem_iff_adj
 -- name    : GlobalTheory.UnitarySplit.mem_iff_adj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:46:13.983953+00:00
 -- url     : https://prove2.me/theorems/9a18ca2a-6817-4a24-bc07-896e0d633cda

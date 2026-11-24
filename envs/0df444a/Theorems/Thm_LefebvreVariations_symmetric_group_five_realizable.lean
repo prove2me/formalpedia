@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LefebvreVariations_symmetric_group_five_realizable
 -- name    : LefebvreVariations.symmetric_group_five_realizable
--- status  : Open
+-- status  : Proved
 -- author  : @Secousses
 -- created : 2026-11-24T21:56:41.06016+00:00
 -- url     : https://prove2.me/theorems/991a955c-038d-4295-bf59-71cc078211c5

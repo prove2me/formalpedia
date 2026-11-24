@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeisUnit_exists_unitary_factor
 -- name    : GlobalTheory.HeisUnit.exists_unitary_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:19:04.699133+00:00
 -- url     : https://prove2.me/theorems/53778bc4-7364-47d3-a34a-35acd870f448

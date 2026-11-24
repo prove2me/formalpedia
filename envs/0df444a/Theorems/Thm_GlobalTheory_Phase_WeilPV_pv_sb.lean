@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_WeilPV_pv_sb
 -- name    : GlobalTheory.Phase.WeilPV.pv_sb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:07:47.806272+00:00
 -- url     : https://prove2.me/theorems/819fb2e0-90c8-4f4a-8982-e275d287523e

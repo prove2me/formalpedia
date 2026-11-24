@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_isK_int
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.isK_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:03:46.263799+00:00
 -- url     : https://prove2.me/theorems/d33253b4-4347-42b1-8325-ce14acfd76dd

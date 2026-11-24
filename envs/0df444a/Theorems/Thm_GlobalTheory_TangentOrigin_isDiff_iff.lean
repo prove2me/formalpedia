@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TangentOrigin_isDiff_iff
 -- name    : GlobalTheory.TangentOrigin.isDiff_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:16:07.521808+00:00
 -- url     : https://prove2.me/theorems/678905d4-b78a-4e45-bc42-6e7259659002

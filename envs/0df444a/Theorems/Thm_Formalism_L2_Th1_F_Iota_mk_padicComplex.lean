@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Iota_mk_padicComplex
 -- name    : Formalism.L2.Th1.F.Iota.mk_padicComplex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:17:38.486454+00:00
 -- url     : https://prove2.me/theorems/1f74f469-703c-4e12-a4fd-d3fac0977ffe

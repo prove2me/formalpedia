@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_quasiReflection_prod_mulVec_eq
 -- name    : GlobalTheory.T.exists_quasiReflection_prod_mulVec_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:38:25.483977+00:00
 -- url     : https://prove2.me/theorems/51c96e77-f49f-4d00-8b28-62d027934404

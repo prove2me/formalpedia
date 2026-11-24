@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_id_shape
 -- name    : Formalism.DworkPowerSeriesWeights.id_shape
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:52:24.522633+00:00
 -- url     : https://prove2.me/theorems/afd090f6-c554-4396-a652-cfecdb982e0e

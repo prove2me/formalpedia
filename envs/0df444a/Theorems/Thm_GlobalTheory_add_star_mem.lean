@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_add_star_mem
 -- name    : GlobalTheory.add_star_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:05:59.372983+00:00
 -- url     : https://prove2.me/theorems/b78865aa-2803-4614-9bf7-591210c181d2

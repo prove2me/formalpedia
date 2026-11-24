@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryChar_continuous_diagHom
 -- name    : GlobalTheory.UnitaryChar.continuous_diagHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:39:12.086704+00:00
 -- url     : https://prove2.me/theorems/e8bf1293-9d4c-43df-b4c6-b698e79b38c6

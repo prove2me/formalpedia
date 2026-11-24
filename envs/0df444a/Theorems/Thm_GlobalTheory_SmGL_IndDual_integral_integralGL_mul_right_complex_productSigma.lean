@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_IndDual_integral_integralGL_mul_right_complex_productSigma
 -- name    : GlobalTheory.SmGL.IndDual.integral_integralGL_mul_right_complex_productSigma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:18:19.790917+00:00
 -- url     : https://prove2.me/theorems/16d177da-10b3-4e73-977f-c208e33241c4

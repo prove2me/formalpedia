@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_affine_mul_polyMap_top
 -- name    : GlobalTheory.affine_mul_polyMap_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:05:50.757215+00:00
 -- url     : https://prove2.me/theorems/a6eeea73-085d-4472-ad33-fa6db9b04dda
