@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StdLoc_card_blockPar
 -- name    : GlobalTheory.StdLoc.card_blockPar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:38:12.853301+00:00
 -- url     : https://prove2.me/theorems/e6780900-138f-46d4-bf5f-716151838be9

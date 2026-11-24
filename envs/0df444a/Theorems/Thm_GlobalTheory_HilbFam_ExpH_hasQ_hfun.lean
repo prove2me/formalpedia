@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_ExpH_hasQ_hfun
 -- name    : GlobalTheory.HilbFam.ExpH.hasQ_hfun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:23:41.753028+00:00
 -- url     : https://prove2.me/theorems/11bdccd5-5777-40f6-b908-c48c511f7772

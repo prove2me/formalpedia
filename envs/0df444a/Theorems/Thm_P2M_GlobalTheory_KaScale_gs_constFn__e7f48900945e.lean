@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_KaScale_gs_constFn__e7f48900945e
 -- name    : P2M_GlobalTheory_KaScale_gs_constFn__e7f48900945e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:44:39.20938+00:00
 -- url     : https://prove2.me/theorems/0e1212b6-6e61-4cdd-b8ef-ccc188a9e00b

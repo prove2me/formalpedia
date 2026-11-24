@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_under_eq_of_mem_associatedPrimes_of_surjective
 -- name    : GlobalTheory.exists_under_eq_of_mem_associatedPrimes_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:46:00.125269+00:00
 -- url     : https://prove2.me/theorems/2d2e358d-7f4d-4fca-b819-2a9529834f08

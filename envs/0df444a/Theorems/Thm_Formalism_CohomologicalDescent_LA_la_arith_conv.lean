@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_la_arith_conv
 -- name    : Formalism.CohomologicalDescent.LA.la_arith_conv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:49:52.231367+00:00
 -- url     : https://prove2.me/theorems/acb1e269-c8e2-423b-a869-eeb2a63ecd35

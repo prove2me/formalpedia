@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Hodge_LiftO_eq_zero_of_pair2
 -- name    : GlobalTheory.CompanionTheory.Hodge.LiftO.eq_zero_of_pair2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:22:38.124864+00:00
 -- url     : https://prove2.me/theorems/2ecc07ae-61c2-4b9e-8d20-8a72483d5c39

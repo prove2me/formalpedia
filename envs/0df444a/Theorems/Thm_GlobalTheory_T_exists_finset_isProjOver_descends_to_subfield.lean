@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_finset_isProjOver_descends_to_subfield
 -- name    : GlobalTheory.T.exists_finset_isProjOver_descends_to_subfield
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:12:52.648745+00:00
 -- url     : https://prove2.me/theorems/81f434c8-0a78-46a0-9a02-b855c0d359df

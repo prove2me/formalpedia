@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_leading_minors_ge_of_le_rank
 -- name    : GlobalTheory.exists_leading_minors_ge_of_le_rank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:33:54.742964+00:00
 -- url     : https://prove2.me/theorems/7730ed04-002a-4d29-8daf-76569c88604c

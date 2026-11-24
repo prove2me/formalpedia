@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpTangent_finiteEtale_mulN_torsion
 -- name    : GlobalTheory.GrpTangent.finiteEtale_mulN_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:50:20.017251+00:00
 -- url     : https://prove2.me/theorems/24570207-97c7-4752-81fc-c64eff9f89cd

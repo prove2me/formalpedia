@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_continuousOn_cHess_of_contDiffOn_two
 -- name    : GlobalTheory.continuousOn_cHess_of_contDiffOn_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:14:33.340811+00:00
 -- url     : https://prove2.me/theorems/71fdb6ab-2dcd-463f-82c5-f82b5989b24a

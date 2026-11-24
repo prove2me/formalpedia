@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_theta_integral_integrable
 -- name    : GlobalTheory.T.theta_integral_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:30:50.324142+00:00
 -- url     : https://prove2.me/theorems/c1b3daf6-0024-4f8f-aa71-3f1201d13b66

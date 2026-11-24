@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_flCol_integrand_integrable
 -- name    : GlobalTheory.LocFlat.flCol_integrand_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:36:17.833561+00:00
 -- url     : https://prove2.me/theorems/e9797410-41ac-41c2-a41a-dfb949f916df

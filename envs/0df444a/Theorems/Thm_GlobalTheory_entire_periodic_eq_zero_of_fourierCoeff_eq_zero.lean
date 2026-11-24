@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_entire_periodic_eq_zero_of_fourierCoeff_eq_zero
 -- name    : GlobalTheory.entire_periodic_eq_zero_of_fourierCoeff_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:23:26.249785+00:00
 -- url     : https://prove2.me/theorems/b7ca49da-d3ff-418f-bb3e-a0a6664d8f5c

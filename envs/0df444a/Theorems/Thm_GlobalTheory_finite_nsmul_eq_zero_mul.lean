@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_nsmul_eq_zero_mul
 -- name    : GlobalTheory.finite_nsmul_eq_zero_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:46:54.650363+00:00
 -- url     : https://prove2.me/theorems/66eee742-9e74-45bb-8181-e6ba4d686b5e

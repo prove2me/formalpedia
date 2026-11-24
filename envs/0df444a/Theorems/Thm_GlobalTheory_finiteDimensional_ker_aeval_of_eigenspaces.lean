@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finiteDimensional_ker_aeval_of_eigenspaces
 -- name    : GlobalTheory.finiteDimensional_ker_aeval_of_eigenspaces
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:46:31.892533+00:00
 -- url     : https://prove2.me/theorems/c4c5057c-c01d-438e-a7e8-0493ae0789a1

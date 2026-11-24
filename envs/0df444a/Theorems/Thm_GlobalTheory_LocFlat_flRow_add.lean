@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_flRow_add
 -- name    : GlobalTheory.LocFlat.flRow_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:34:53.034281+00:00
 -- url     : https://prove2.me/theorems/d01f5bfa-29cb-4607-bc9a-fddbd04d2839

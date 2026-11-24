@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UpqTopology_upq_lcsc
 -- name    : GlobalTheory.UpqTopology.upq_lcsc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:19:56.474844+00:00
 -- url     : https://prove2.me/theorems/9c5130b5-28e4-4b50-97bc-e5dcc7726e90

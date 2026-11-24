@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_splitTorus_hom_proper_trivial_local
 -- name    : GlobalTheory.splitTorus_hom_proper_trivial_local
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:57:16.41041+00:00
 -- url     : https://prove2.me/theorems/81969a34-16ba-4e55-b018-a5e2cd5bb6a2

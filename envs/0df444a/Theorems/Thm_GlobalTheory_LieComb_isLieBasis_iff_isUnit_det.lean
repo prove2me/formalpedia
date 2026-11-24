@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LieComb_isLieBasis_iff_isUnit_det
 -- name    : GlobalTheory.LieComb.isLieBasis_iff_isUnit_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:33:59.6514+00:00
 -- url     : https://prove2.me/theorems/3a2e4aa5-6fad-4242-9df2-930b1d9fd509

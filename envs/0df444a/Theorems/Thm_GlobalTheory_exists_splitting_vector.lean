@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_splitting_vector
 -- name    : GlobalTheory.exists_splitting_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:42:18.594939+00:00
 -- url     : https://prove2.me/theorems/3737259d-854c-4be2-b051-e24020514482

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeisenbergGaussianSeries_exists_theta
 -- name    : GlobalTheory.HeisenbergGaussianSeries.exists_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:18:48.045234+00:00
 -- url     : https://prove2.me/theorems/111535e8-672e-4af2-ae71-0675aaa98168

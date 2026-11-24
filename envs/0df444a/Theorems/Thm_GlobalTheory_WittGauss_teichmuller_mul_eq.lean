@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WittGauss_teichmuller_mul_eq
 -- name    : GlobalTheory.WittGauss.teichmuller_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:14:12.278709+00:00
 -- url     : https://prove2.me/theorems/81ba9881-c686-4fa2-9079-a1a89607522a

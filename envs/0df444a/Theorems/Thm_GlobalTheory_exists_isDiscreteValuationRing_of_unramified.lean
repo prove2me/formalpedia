@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isDiscreteValuationRing_of_unramified
 -- name    : GlobalTheory.exists_isDiscreteValuationRing_of_unramified
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:47:05.696652+00:00
 -- url     : https://prove2.me/theorems/ad3465a9-ed69-40b6-94a5-10d0c0b44dab

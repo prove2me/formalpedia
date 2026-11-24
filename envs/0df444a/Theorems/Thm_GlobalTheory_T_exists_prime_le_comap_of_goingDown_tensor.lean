@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_prime_le_comap_of_goingDown_tensor
 -- name    : GlobalTheory.T.exists_prime_le_comap_of_goingDown_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:38:34.374721+00:00
 -- url     : https://prove2.me/theorems/9e73b765-3d17-4b0b-bf94-123d30cc8cc8

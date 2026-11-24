@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cell_coordinates_exists_unique
 -- name    : GlobalTheory.cell_coordinates_exists_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:36:02.733851+00:00
 -- url     : https://prove2.me/theorems/f6b914c9-7c05-4859-b3f4-d7928ed7f9fc

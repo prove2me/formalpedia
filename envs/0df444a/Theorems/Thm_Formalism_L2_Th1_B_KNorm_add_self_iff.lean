@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_KNorm_add_self_iff
 -- name    : Formalism.L2.Th1.B.KNorm.add_self_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:46:12.821311+00:00
 -- url     : https://prove2.me/theorems/48d5e5b3-262a-41f3-8321-6aab942b4186

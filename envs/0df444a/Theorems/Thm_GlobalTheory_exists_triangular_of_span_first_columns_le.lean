@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_triangular_of_span_first_columns_le
 -- name    : GlobalTheory.exists_triangular_of_span_first_columns_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:41:57.259989+00:00
 -- url     : https://prove2.me/theorems/e9b9497a-393c-432b-9001-41ea8d7e75c8

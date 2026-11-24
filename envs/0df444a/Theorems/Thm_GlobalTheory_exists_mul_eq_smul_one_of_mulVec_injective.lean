@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_mul_eq_smul_one_of_mulVec_injective
 -- name    : GlobalTheory.exists_mul_eq_smul_one_of_mulVec_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:35:45.388513+00:00
 -- url     : https://prove2.me/theorems/a6704a91-311d-428b-ac32-e7b1ec0a627d

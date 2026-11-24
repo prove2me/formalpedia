@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_embedding_of_homogeneous_ker_eq
 -- name    : GlobalTheory.exists_embedding_of_homogeneous_ker_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:31:54.427955+00:00
 -- url     : https://prove2.me/theorems/1aa22d34-00ea-481a-beaa-f2caa4cb66fe

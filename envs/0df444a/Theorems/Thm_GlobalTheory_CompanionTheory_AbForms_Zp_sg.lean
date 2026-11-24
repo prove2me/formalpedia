@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AbForms_Zp_sg
 -- name    : GlobalTheory.CompanionTheory.AbForms.Zp_sg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:21:52.594089+00:00
 -- url     : https://prove2.me/theorems/7212de90-0ca8-4236-a6cd-ed26fe1056e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isHomothetic_of_mk0_eq
 -- name    : GlobalTheory.exists_isHomothetic_of_mk0_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:33:04.032962+00:00
 -- url     : https://prove2.me/theorems/deff101f-d056-4b5a-8c9d-5f015b958e20

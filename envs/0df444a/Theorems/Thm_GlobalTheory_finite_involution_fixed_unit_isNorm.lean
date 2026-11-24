@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_involution_fixed_unit_isNorm
 -- name    : GlobalTheory.finite_involution_fixed_unit_isNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:46:28.744258+00:00
 -- url     : https://prove2.me/theorems/7a5ad8ef-1bcb-4c20-ac30-3c561de21c0c

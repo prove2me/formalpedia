@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Capelli_trAlg_shift_le
 -- name    : GlobalTheory.Mem.Capelli.trAlg_shift_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:28:27.500067+00:00
 -- url     : https://prove2.me/theorems/a0f70998-dae0-4750-bca0-7255cd239bda

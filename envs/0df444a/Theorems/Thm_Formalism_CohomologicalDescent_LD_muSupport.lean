@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_muSupport
 -- name    : Formalism.CohomologicalDescent.LD.muSupport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:42:02.74181+00:00
 -- url     : https://prove2.me/theorems/ff11d598-5f2a-4d55-9b4c-b0e361fcb10f

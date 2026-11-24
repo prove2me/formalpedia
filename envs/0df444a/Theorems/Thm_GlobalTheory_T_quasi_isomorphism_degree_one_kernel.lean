@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_quasi_isomorphism_degree_one_kernel
 -- name    : GlobalTheory.T.quasi_isomorphism_degree_one_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:31:30.654046+00:00
 -- url     : https://prove2.me/theorems/5de7cb6f-a146-47ed-aad3-4f425f24ad1d

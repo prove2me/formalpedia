@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartRedEval_kills_insert_of_evalLaw
 -- name    : GlobalTheory.PartRedEval.kills_insert_of_evalLaw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:34:03.706448+00:00
 -- url     : https://prove2.me/theorems/ce9b5de6-26f1-4715-ba3f-0218ca826bf3

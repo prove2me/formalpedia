@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CotLift_isCot_of_lifting
 -- name    : GlobalTheory.CompanionTheory.CotLift.isCot_of_lifting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:22:28.337706+00:00
 -- url     : https://prove2.me/theorems/dda61ec3-1506-4f70-8e9a-81d28f006ef1

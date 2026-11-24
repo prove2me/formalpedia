@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_EtaleWeightGaps_Num_polyA
 -- name    : Formalism.MainNotions.Gaps.EtaleWeightGaps.Num.polyA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:49:33.34274+00:00
 -- url     : https://prove2.me/theorems/544d266a-0f63-432a-adfd-192ab54f5a1e

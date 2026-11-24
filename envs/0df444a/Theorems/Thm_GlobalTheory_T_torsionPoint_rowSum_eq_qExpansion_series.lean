@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_torsionPoint_rowSum_eq_qExpansion_series
 -- name    : GlobalTheory.T.torsionPoint_rowSum_eq_qExpansion_series
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:00:00.071803+00:00
 -- url     : https://prove2.me/theorems/3d95e4e9-095d-4cee-b8d5-e4e876c5ef2c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_Top_e_one_integral
 -- name    : Formalism.InvariantFactorPaths.G7.Top.e_one_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:38:07.821257+00:00
 -- url     : https://prove2.me/theorems/5ecc47b5-5e23-4be5-947a-1d23d1592923

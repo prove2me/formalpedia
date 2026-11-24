@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finrank_mul_absNorm_rpow_le_sum_sq
 -- name    : GlobalTheory.finrank_mul_absNorm_rpow_le_sum_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:14:06.331325+00:00
 -- url     : https://prove2.me/theorems/5ecf2d43-8883-44b6-8d9c-ebc4ef041838

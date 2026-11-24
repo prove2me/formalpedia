@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_UniformLattices_isCompact_perp
 -- name    : GlobalTheory.RootEx.UniformLattices.isCompact_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:13:27.736455+00:00
 -- url     : https://prove2.me/theorems/d9494f8e-23c4-4434-87ce-6d76ec78f077

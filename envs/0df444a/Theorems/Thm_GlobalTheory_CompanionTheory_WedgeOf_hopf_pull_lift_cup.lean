@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WedgeOf_hopf_pull_lift_cup
 -- name    : GlobalTheory.CompanionTheory.WedgeOf.hopf_pull_lift_cup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:33:09.646136+00:00
 -- url     : https://prove2.me/theorems/67a8e63e-53c9-43b7-94f5-7f4c8e52f016

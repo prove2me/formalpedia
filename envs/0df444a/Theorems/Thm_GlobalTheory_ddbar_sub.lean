@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ddbar_sub
 -- name    : GlobalTheory.ddbar_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:14:27.449437+00:00
 -- url     : https://prove2.me/theorems/64807e6f-5041-41ec-b4d4-5a4ce0cb1b79

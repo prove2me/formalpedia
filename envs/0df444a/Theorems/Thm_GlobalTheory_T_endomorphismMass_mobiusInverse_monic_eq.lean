@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_endomorphismMass_mobiusInverse_monic_eq
 -- name    : GlobalTheory.T.endomorphismMass_mobiusInverse_monic_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:48:18.520207+00:00
 -- url     : https://prove2.me/theorems/e3438a08-13b8-4ccb-b690-4ef82b56541f

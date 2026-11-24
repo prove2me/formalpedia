@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_OpUTh0Root_of
 -- name    : Formalism.L2.Th1.E.OpUTh0Root_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:39.079829+00:00
 -- url     : https://prove2.me/theorems/1a46ec65-db32-4ae9-8d7c-89284a408997

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_fAdd_nsmulF_eq_eval_poly_frob
 -- name    : GlobalTheory.fAdd_nsmulF_eq_eval_poly_frob
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:46:12.721679+00:00
 -- url     : https://prove2.me/theorems/b62b1cf2-98b8-4746-ac42-02d0e7efacab

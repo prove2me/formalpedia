@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSaturatedSubmodule_finite_of_valuationRing
 -- name    : GlobalTheory.IsSaturatedSubmodule.finite_of_valuationRing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:12:26.482896+00:00
 -- url     : https://prove2.me/theorems/cfcd7af2-168a-424e-9d99-63a4bee7da94

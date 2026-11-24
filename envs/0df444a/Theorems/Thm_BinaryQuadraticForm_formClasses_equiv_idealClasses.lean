@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BinaryQuadraticForm_formClasses_equiv_idealClasses
 -- name    : BinaryQuadraticForm.formClasses_equiv_idealClasses
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-11-24T22:38:03.503644+00:00
 -- url     : https://prove2.me/theorems/475e0f86-54a9-4223-803d-761d10de21e3

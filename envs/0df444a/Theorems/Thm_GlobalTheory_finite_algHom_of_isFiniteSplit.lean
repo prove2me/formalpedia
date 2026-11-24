@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_algHom_of_isFiniteSplit
 -- name    : GlobalTheory.finite_algHom_of_isFiniteSplit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:46:26.784339+00:00
 -- url     : https://prove2.me/theorems/9502b67a-1463-4f24-81ae-dd475985a879

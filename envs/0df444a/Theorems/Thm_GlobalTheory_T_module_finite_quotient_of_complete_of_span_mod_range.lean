@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_module_finite_quotient_of_complete_of_span_mod_range
 -- name    : GlobalTheory.T.module_finite_quotient_of_complete_of_span_mod_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:53:19.531698+00:00
 -- url     : https://prove2.me/theorems/734cda20-a73d-48ff-a08b-79484456d8b2

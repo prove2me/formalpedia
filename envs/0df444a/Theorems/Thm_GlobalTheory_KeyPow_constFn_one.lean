@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyPow_constFn_one
 -- name    : GlobalTheory.KeyPow.constFn_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:43:02.808669+00:00
 -- url     : https://prove2.me/theorems/7d4bf44f-b872-43f3-95cb-4dc85ec2ca3d

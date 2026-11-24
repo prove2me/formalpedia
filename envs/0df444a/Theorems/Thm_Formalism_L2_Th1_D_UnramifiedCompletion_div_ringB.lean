@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_UnramifiedCompletion_div_ringB
 -- name    : Formalism.L2.Th1.D.UnramifiedCompletion.div_ringB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:11:30.416778+00:00
 -- url     : https://prove2.me/theorems/a5c0540a-474c-462d-9275-1fcf0ac40d5b

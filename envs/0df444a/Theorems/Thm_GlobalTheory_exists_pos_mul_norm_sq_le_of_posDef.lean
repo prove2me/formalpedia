@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_pos_mul_norm_sq_le_of_posDef
 -- name    : GlobalTheory.exists_pos_mul_norm_sq_le_of_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:36:13.056893+00:00
 -- url     : https://prove2.me/theorems/0ccd4981-c9a1-43c9-bba0-ca08400c0800

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_projection_of_isTorsionFree_quotient
 -- name    : GlobalTheory.exists_projection_of_isTorsionFree_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:41:00.237705+00:00
 -- url     : https://prove2.me/theorems/46a91ea9-dcab-48a4-8d43-1a14149baf6b

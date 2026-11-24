@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThickeningClosed_mem_of_thickenings
 -- name    : GlobalTheory.ThickeningClosed.mem_of_thickenings
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:35:19.505633+00:00
 -- url     : https://prove2.me/theorems/77cd971e-94d2-46bb-8ace-dd7ac999f90e

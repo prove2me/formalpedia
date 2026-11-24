@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_homogeneous_lift_nat_mul
 -- name    : GlobalTheory.exists_homogeneous_lift_nat_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:32:01.837824+00:00
 -- url     : https://prove2.me/theorems/18987781-d641-44ff-99b7-3896da3bac0d

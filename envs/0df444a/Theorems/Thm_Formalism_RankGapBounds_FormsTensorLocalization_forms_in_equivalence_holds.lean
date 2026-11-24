@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankGapBounds_FormsTensorLocalization_forms_in_equivalence_holds
 -- name    : Formalism.RankGapBounds.FormsTensorLocalization.forms_in_equivalence_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:49:45.29855+00:00
 -- url     : https://prove2.me/theorems/3b377ce0-2078-43fb-bf36-eeff6a5daf83

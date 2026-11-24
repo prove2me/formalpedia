@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_two_torsion
 -- name    : GlobalTheory.finite_two_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:47:00.779588+00:00
 -- url     : https://prove2.me/theorems/a2da626f-3225-4620-a6c8-fca3e9202180

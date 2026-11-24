@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_rawEsscherUnitFromMomentsV1
 -- name    : Kyprianou.Ch03.rawEsscherUnitFromMomentsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T22:00:53.331217+00:00
 -- url     : https://prove2.me/theorems/58a0a83d-4f56-4324-8efb-e7522cd75520

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_SymmetricSexticResidual_Proof_global_residue_cancellation
 -- name    : HodgeComputer.SymmetricSexticResidual.Proof.global_residue_cancellation
--- status  : Open
+-- status  : Proved
 -- author  : @benediamond
 -- created : 2026-11-24T21:56:18.261153+00:00
 -- url     : https://prove2.me/theorems/ef74b46e-d840-4582-9525-99c1066b1101

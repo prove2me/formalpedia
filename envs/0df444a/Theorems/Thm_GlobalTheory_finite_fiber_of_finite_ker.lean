@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_fiber_of_finite_ker
 -- name    : GlobalTheory.finite_fiber_of_finite_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:46:45.117714+00:00
 -- url     : https://prove2.me/theorems/27fa5e6a-02f9-4761-977e-7f92fb8194c1

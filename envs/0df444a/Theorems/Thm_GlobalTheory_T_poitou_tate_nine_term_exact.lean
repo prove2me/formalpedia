@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_poitou_tate_nine_term_exact
 -- name    : GlobalTheory.T.poitou_tate_nine_term_exact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:56:06.415906+00:00
 -- url     : https://prove2.me/theorems/0b26db0e-9878-4edc-9d71-32a284bfb35d

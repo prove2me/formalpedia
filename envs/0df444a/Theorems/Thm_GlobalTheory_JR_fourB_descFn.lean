@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_fourB_descFn
 -- name    : GlobalTheory.JR.fourB_descFn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:39:55.928575+00:00
 -- url     : https://prove2.me/theorems/e03afb0f-14c7-4199-9af0-6f632d66b6da

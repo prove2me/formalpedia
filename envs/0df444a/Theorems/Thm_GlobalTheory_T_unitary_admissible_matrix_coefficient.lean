@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitary_admissible_matrix_coefficient
 -- name    : GlobalTheory.T.unitary_admissible_matrix_coefficient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:01:24.362561+00:00
 -- url     : https://prove2.me/theorems/b4c542ea-2cb0-485e-8f92-ba48c5cd8232

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_la_lpMinor_one
 -- name    : Formalism.CohomologicalDescent.LA.la_lpMinor_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:49:44.576834+00:00
 -- url     : https://prove2.me/theorems/5991331d-fb0e-436b-ae92-8671445dcbf7

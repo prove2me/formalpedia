@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeylRankEmbed_rename_applyWord
 -- name    : GlobalTheory.WeylRankEmbed.rename_applyWord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:30:39.821507+00:00
 -- url     : https://prove2.me/theorems/1811d1d8-3433-4d16-aeb5-37466c0b91fe

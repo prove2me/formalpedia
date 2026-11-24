@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_bijective_of_surjective_same_rank
 -- name    : GlobalTheory.T.bijective_of_surjective_same_rank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:42:47.729848+00:00
 -- url     : https://prove2.me/theorems/261b66e2-4f66-421e-aa1d-9c39c0761f8f

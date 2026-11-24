@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_la_weyl_le_of_stable
 -- name    : Formalism.CohomologicalDescent.LA.la_weyl_le_of_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:49:14.874566+00:00
 -- url     : https://prove2.me/theorems/a6ba1a02-60c1-4f3b-91fa-cde16e4a7ad5

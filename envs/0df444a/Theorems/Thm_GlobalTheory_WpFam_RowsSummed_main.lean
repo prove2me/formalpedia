@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WpFam_RowsSummed_main
 -- name    : GlobalTheory.WpFam.RowsSummed.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:42:04.695599+00:00
 -- url     : https://prove2.me/theorems/c08ba001-e7fd-49f4-83d5-7c3d517a553c

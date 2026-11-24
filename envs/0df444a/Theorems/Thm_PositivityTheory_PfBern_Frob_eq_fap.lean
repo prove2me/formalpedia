@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PfBern_Frob_eq_fap
 -- name    : PositivityTheory.PfBern.Frob.eq_fap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:23:35.102807+00:00
 -- url     : https://prove2.me/theorems/5c3f6237-31bc-4113-85bc-412b4182787f

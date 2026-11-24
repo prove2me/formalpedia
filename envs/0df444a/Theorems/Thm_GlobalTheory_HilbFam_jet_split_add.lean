@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_jet_split_add
 -- name    : GlobalTheory.HilbFam.jet_split_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:32:26.840309+00:00
 -- url     : https://prove2.me/theorems/95376726-8c12-4ad7-bd39-d39c8e6fb645

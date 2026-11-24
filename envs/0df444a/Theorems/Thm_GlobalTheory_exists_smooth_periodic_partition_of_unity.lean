@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_smooth_periodic_partition_of_unity
 -- name    : GlobalTheory.exists_smooth_periodic_partition_of_unity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:42:17.331991+00:00
 -- url     : https://prove2.me/theorems/d75fb216-723c-4bde-8371-c2a8c70e6c39

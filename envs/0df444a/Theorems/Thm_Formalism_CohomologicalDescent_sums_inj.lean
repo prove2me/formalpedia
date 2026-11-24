@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_sums_inj
 -- name    : Formalism.CohomologicalDescent.sums_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:35:43.736821+00:00
 -- url     : https://prove2.me/theorems/600c6883-0e68-4ee1-b4f1-05807a52356a

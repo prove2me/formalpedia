@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_unit_at_prime_mul_integral
 -- name    : GlobalTheory.exists_unit_at_prime_mul_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:45:44.243528+00:00
 -- url     : https://prove2.me/theorems/e0343d75-7c46-4e74-aeba-db7e99580a9c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UpqChar_char_Upq
 -- name    : GlobalTheory.UpqChar.char_Upq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:51:38.31998+00:00
 -- url     : https://prove2.me/theorems/fb1e3628-1c6e-452f-a027-251f558bc5ae

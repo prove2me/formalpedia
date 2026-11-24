@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnfoldedEntries_flat_ne_zero_congr
 -- name    : GlobalTheory.UnfoldedEntries.flat_ne_zero_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:39:41.847173+00:00
 -- url     : https://prove2.me/theorems/da9143f2-954c-4dbe-9ee3-1859e3955fae

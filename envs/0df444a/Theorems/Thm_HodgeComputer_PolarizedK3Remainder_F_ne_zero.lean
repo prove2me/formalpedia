@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_PolarizedK3Remainder_F_ne_zero
 -- name    : HodgeComputer.PolarizedK3Remainder.F_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T22:43:45.943743+00:00
 -- url     : https://prove2.me/theorems/9f9c8ea2-a928-409b-81a3-dfb08a102739

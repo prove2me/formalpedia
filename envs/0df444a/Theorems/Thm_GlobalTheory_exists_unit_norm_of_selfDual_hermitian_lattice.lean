@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_unit_norm_of_selfDual_hermitian_lattice
 -- name    : GlobalTheory.exists_unit_norm_of_selfDual_hermitian_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:45:18.879228+00:00
 -- url     : https://prove2.me/theorems/143892b4-96b2-425a-b0ed-586cc0ca2a21

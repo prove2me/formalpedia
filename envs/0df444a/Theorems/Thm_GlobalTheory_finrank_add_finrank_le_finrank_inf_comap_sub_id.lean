@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finrank_add_finrank_le_finrank_inf_comap_sub_id
 -- name    : GlobalTheory.finrank_add_finrank_le_finrank_inf_comap_sub_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:47:09.166934+00:00
 -- url     : https://prove2.me/theorems/8d942828-453e-49ed-ac04-1a5a8f38fd55

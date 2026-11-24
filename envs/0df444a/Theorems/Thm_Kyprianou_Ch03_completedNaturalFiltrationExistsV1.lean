@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_completedNaturalFiltrationExistsV1
 -- name    : Kyprianou.Ch03.completedNaturalFiltrationExistsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T19:18:48.903885+00:00
 -- url     : https://prove2.me/theorems/20e888f4-1a78-419a-9a3d-0c7a60f409c0

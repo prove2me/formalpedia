@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmallRankCoinv_norm_scalar_lt_one
 -- name    : GlobalTheory.SmallRankCoinv.norm_scalar_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:49:25.410941+00:00
 -- url     : https://prove2.me/theorems/35983e6c-bca9-4f2d-9a81-87d85552a98a

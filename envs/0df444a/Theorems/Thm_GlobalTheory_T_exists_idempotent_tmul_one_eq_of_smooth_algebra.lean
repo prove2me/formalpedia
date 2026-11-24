@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_idempotent_tmul_one_eq_of_smooth_algebra
 -- name    : GlobalTheory.T.exists_idempotent_tmul_one_eq_of_smooth_algebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:35:45.790116+00:00
 -- url     : https://prove2.me/theorems/d86893a4-4e2a-45b6-8b4e-f99501e6136d

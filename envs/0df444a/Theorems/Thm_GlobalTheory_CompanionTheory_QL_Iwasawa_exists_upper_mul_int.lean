@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_Iwasawa_exists_upper_mul_int
 -- name    : GlobalTheory.CompanionTheory.QL.Iwasawa.exists_upper_mul_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:56:47.080515+00:00
 -- url     : https://prove2.me/theorems/d89b268b-aaa3-4185-b09b-2f58d81b0224

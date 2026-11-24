@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JacGen_exists_factor
 -- name    : GlobalTheory.JacGen.exists_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:47:29.105903+00:00
 -- url     : https://prove2.me/theorems/85370a0f-3f74-479e-9412-bd9dd858afb1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartRed_IntEntry_red_shift
 -- name    : GlobalTheory.PartRed.IntEntry.red_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:34:39.206727+00:00
 -- url     : https://prove2.me/theorems/b44d464a-100a-4181-a641-6330960abb2f

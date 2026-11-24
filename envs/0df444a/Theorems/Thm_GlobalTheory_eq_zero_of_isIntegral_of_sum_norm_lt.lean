@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_zero_of_isIntegral_of_sum_norm_lt
 -- name    : GlobalTheory.eq_zero_of_isIntegral_of_sum_norm_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:12:32.161516+00:00
 -- url     : https://prove2.me/theorems/36ce417c-a762-4c90-b11b-9b0a92728caf

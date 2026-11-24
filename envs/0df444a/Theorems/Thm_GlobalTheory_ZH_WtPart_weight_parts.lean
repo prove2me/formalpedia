@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_WtPart_weight_parts
 -- name    : GlobalTheory.ZH.WtPart.weight_parts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:21:25.077046+00:00
 -- url     : https://prove2.me/theorems/14b871d4-aaec-48cf-9443-cb974d18ba66

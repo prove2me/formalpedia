@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_choose_rpow_le_norm_minor
 -- name    : GlobalTheory.exists_choose_rpow_le_norm_minor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:30:42.037803+00:00
 -- url     : https://prove2.me/theorems/63f1834c-f63d-46f8-be65-41b467fef8d0

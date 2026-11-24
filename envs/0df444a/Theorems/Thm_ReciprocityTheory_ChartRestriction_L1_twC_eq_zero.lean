@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_twC_eq_zero
 -- name    : ReciprocityTheory.ChartRestriction.L1.twC_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:39:12.603798+00:00
 -- url     : https://prove2.me/theorems/6c299cd2-5b10-40fb-9f2f-5e2627b40c48

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_matrix_integers_mod_nat_finite
 -- name    : GlobalTheory.matrix_integers_mod_nat_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:40:24.277328+00:00
 -- url     : https://prove2.me/theorems/5b1cd5fa-f718-457e-9d44-e0950d4a2d5d

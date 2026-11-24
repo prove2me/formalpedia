@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_reps_coprime_outside_modulus
 -- name    : GlobalTheory.exists_reps_coprime_outside_modulus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:41:28.057392+00:00
 -- url     : https://prove2.me/theorems/05f7158a-177f-4858-a106-f6521ecf10c4

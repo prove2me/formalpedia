@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKF_E_Impl_dRho
 -- name    : CompanionTheory.ThKF.E.Impl.dRho
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:16:36.157739+00:00
 -- url     : https://prove2.me/theorems/5cd0a7c4-06eb-4807-8f75-d8e816cb4f1b

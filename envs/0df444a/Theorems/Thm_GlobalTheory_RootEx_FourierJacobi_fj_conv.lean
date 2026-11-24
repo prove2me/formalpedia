@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_FourierJacobi_fj_conv
 -- name    : GlobalTheory.RootEx.FourierJacobi.fj_conv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:41:21.458145+00:00
 -- url     : https://prove2.me/theorems/ce683e01-5f8c-45e2-9d56-d0dc9560ef23

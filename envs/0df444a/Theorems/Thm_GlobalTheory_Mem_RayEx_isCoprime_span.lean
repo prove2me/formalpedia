@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_RayEx_isCoprime_span
 -- name    : GlobalTheory.Mem.RayEx.isCoprime_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:45:42.964617+00:00
 -- url     : https://prove2.me/theorems/3c07229c-d401-41a4-a4f8-2778dd2817c0

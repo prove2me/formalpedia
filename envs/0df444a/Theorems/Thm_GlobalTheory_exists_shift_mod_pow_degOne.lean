@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_shift_mod_pow_degOne
 -- name    : GlobalTheory.exists_shift_mod_pow_degOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:42:04.830038+00:00
 -- url     : https://prove2.me/theorems/35e05e04-e797-4a11-96a8-c01d42ae91a7

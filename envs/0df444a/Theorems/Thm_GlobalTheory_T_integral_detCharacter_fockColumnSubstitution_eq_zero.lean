@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integral_detCharacter_fockColumnSubstitution_eq_zero
 -- name    : GlobalTheory.T.integral_detCharacter_fockColumnSubstitution_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:30:08.733056+00:00
 -- url     : https://prove2.me/theorems/17634300-0818-4aea-a959-cab296dd7a0c

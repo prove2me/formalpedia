@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_Compare_repStatement_iff
 -- name    : GlobalTheory.UnRep.Compare.repStatement_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:23:47.954432+00:00
 -- url     : https://prove2.me/theorems/240895ab-965b-4bd0-bb5e-0077decea970

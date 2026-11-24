@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_character_one_mul_sum_conj_mul
 -- name    : GlobalTheory.character_one_mul_sum_conj_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:07:49.36696+00:00
 -- url     : https://prove2.me/theorems/37ba506e-3edf-49f7-9bb8-127c339552ba

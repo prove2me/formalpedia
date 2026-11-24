@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_la_diagBinom_apply
 -- name    : Formalism.CohomologicalDescent.LA.la_diagBinom_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:49:57.652663+00:00
 -- url     : https://prove2.me/theorems/bec9f1a8-36d6-4b41-bfb9-adbf5e27194a

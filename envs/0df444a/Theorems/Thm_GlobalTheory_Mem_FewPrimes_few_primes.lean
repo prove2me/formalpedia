@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_FewPrimes_few_primes
 -- name    : GlobalTheory.Mem.FewPrimes.few_primes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:45:20.667611+00:00
 -- url     : https://prove2.me/theorems/ff521a87-8df9-4575-8f31-975b4c7f5800

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_dual_latticeImage_eq_latticeImage_traceDual
 -- name    : GlobalTheory.T.dual_latticeImage_eq_latticeImage_traceDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:32:56.051796+00:00
 -- url     : https://prove2.me/theorems/117abbf0-c8bc-464e-9507-89626c68841a

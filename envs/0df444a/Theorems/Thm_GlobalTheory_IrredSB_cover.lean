@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IrredSB_cover
 -- name    : GlobalTheory.IrredSB.cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:20:13.234323+00:00
 -- url     : https://prove2.me/theorems/9debd709-fcc0-4877-8e70-aa692e7d3e7f

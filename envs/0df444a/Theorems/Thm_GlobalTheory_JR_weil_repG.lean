@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_weil_repG
 -- name    : GlobalTheory.JR.weil_repG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:40:38.746336+00:00
 -- url     : https://prove2.me/theorems/438f5891-bbcf-4c8b-9ed1-08a6feb2b424

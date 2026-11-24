@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_entire_apply_eq_of_periodic_of_compact
 -- name    : GlobalTheory.entire_apply_eq_of_periodic_of_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:16:24.338829+00:00
 -- url     : https://prove2.me/theorems/920c4e7e-9c9b-42b1-94d9-7e80de6c70dd

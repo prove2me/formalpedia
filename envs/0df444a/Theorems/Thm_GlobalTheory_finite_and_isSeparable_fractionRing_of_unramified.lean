@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_and_isSeparable_fractionRing_of_unramified
 -- name    : GlobalTheory.finite_and_isSeparable_fractionRing_of_unramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:46:13.802196+00:00
 -- url     : https://prove2.me/theorems/9f32e814-037b-412d-a5a1-b7fae154fcd9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KaScale_translate_left
 -- name    : GlobalTheory.KaScale.translate_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:46:05.66172+00:00
 -- url     : https://prove2.me/theorems/4204a857-c826-41c5-a6b4-4fbb53724809

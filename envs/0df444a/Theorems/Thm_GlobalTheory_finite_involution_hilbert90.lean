@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_involution_hilbert90
 -- name    : GlobalTheory.finite_involution_hilbert90
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:46:12.266901+00:00
 -- url     : https://prove2.me/theorems/67d29ba6-e5b9-4898-96a4-509547e3a0b1

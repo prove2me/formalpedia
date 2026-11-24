@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_surj_mod_ideal_exists_congr_one_mul_mem_range
 -- name    : GlobalTheory.finite_surj_mod_ideal_exists_congr_one_mul_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:47:19.323688+00:00
 -- url     : https://prove2.me/theorems/f126ce04-da95-4caf-81fe-5683dd0c2069

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_units_quot_sq_field
 -- name    : GlobalTheory.finite_units_quot_sq_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:47:16.638093+00:00
 -- url     : https://prove2.me/theorems/0bee7984-22e5-400d-95cf-26d201a1498f

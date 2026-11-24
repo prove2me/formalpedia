@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_map_isIsom_selfDualMeasure_kerL_eq_pi_haar
 -- name    : GlobalTheory.T.map_isIsom_selfDualMeasure_kerL_eq_pi_haar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:52:45.768244+00:00
 -- url     : https://prove2.me/theorems/4fc2a561-3064-45bf-b41f-249f5026ad8e

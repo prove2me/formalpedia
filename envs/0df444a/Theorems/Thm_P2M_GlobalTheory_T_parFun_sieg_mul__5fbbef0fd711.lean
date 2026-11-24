@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_parFun_sieg_mul__5fbbef0fd711
 -- name    : P2M_GlobalTheory_T_parFun_sieg_mul__5fbbef0fd711
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:58:27.001987+00:00
 -- url     : https://prove2.me/theorems/fde0f9af-3fc0-443d-98a6-ce98249b4e92

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isConnected_and_dense_compl_hypersurface
 -- name    : GlobalTheory.isConnected_and_dense_compl_hypersurface
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:58:19.197115+00:00
 -- url     : https://prove2.me/theorems/a4385052-686a-49e3-9d9c-1a699203d134

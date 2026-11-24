@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_trace_mem_of_mem_traceDual
 -- name    : GlobalTheory.trace_mem_of_mem_traceDual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:17:03.995087+00:00
 -- url     : https://prove2.me/theorems/ea8e1bc3-9043-4058-afea-2e406042b945

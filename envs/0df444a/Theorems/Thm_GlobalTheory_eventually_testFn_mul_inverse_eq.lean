@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eventually_testFn_mul_inverse_eq
 -- name    : GlobalTheory.eventually_testFn_mul_inverse_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:20:16.414804+00:00
 -- url     : https://prove2.me/theorems/3882fedb-328b-4da8-a13d-26765d65a350

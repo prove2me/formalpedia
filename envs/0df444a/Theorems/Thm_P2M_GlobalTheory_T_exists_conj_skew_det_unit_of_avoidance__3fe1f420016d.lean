@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_conj_skew_det_unit_of_avoidance__3fe1f420016d
 -- name    : P2M_GlobalTheory_T_exists_conj_skew_det_unit_of_avoidance__3fe1f420016d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:12:16.257887+00:00
 -- url     : https://prove2.me/theorems/c8edecb7-928f-4b1a-8539-45f2536e0547

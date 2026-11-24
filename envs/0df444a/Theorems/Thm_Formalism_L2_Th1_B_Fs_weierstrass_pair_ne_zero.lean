@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Fs_weierstrass_pair_ne_zero
 -- name    : Formalism.L2.Th1.B.Fs.weierstrass_pair_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:59:28.098797+00:00
 -- url     : https://prove2.me/theorems/919d0185-d1c6-4dec-bccd-3fb259efbcdc

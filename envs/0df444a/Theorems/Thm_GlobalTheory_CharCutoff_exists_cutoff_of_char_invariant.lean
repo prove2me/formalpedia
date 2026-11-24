@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharCutoff_exists_cutoff_of_char_invariant
 -- name    : GlobalTheory.CharCutoff.exists_cutoff_of_char_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:08:06.732816+00:00
 -- url     : https://prove2.me/theorems/fd097cce-8af6-4bfd-b9cc-0629e750631a

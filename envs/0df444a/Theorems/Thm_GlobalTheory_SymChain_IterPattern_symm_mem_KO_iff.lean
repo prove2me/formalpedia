@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymChain_IterPattern_symm_mem_KO_iff
 -- name    : GlobalTheory.SymChain.IterPattern.symm_mem_KO_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:39:05.680979+00:00
 -- url     : https://prove2.me/theorems/3e411418-7742-4740-abfe-8d1418277c0a

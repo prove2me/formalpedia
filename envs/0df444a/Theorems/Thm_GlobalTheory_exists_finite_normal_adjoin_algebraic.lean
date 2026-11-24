@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_finite_normal_adjoin_algebraic
 -- name    : GlobalTheory.exists_finite_normal_adjoin_algebraic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:31:34.685348+00:00
 -- url     : https://prove2.me/theorems/4640d439-4c94-4981-80fc-f557898cbb30

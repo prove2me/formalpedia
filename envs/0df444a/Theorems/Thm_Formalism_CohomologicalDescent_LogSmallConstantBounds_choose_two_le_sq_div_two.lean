@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_choose_two_le_sq_div_two
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.choose_two_le_sq_div_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:44:47.283515+00:00
 -- url     : https://prove2.me/theorems/3575ecc1-cbf6-4a46-b221-c1b04c01a308

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_E2_ParThree_of
 -- name    : Formalism.L2.Th1.B.E2.ParThree_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:01:14.783572+00:00
 -- url     : https://prove2.me/theorems/3e947f35-ec46-4820-9094-b6d38d66595b

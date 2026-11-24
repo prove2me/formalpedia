@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_inv_mem_dc
 -- name    : GlobalTheory.SatakeWeyl.inv_mem_dc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:47:17.964199+00:00
 -- url     : https://prove2.me/theorems/be1e5d73-319a-4eff-8281-827b60ea8a37

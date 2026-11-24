@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_surjective_pi_adjoinRoot_ker_eq_range
 -- name    : GlobalTheory.exists_surjective_pi_adjoinRoot_ker_eq_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:42:29.135548+00:00
 -- url     : https://prove2.me/theorems/8194131c-1cc2-4b02-bedf-8b46b659486c

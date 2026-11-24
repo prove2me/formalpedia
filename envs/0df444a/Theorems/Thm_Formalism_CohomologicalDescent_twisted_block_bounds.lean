@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_twisted_block_bounds
 -- name    : Formalism.CohomologicalDescent.twisted_block_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:45:52.282049+00:00
 -- url     : https://prove2.me/theorems/af5d612f-3314-4083-b23b-57aa7f7616c5

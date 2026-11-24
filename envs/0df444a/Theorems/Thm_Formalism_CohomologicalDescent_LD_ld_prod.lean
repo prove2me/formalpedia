@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_ld_prod
 -- name    : Formalism.CohomologicalDescent.LD.ld_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:40:37.398481+00:00
 -- url     : https://prove2.me/theorems/e7de2c3a-14b6-4da9-994a-6d1ade8145f2

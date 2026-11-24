@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_leading_minor_one_eq_entry
 -- name    : Formalism.CohomologicalDescent.LD.leading_minor_one_eq_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:42:30.534646+00:00
 -- url     : https://prove2.me/theorems/0252171f-24fa-4cc9-bf0c-1fe6e1f265cd

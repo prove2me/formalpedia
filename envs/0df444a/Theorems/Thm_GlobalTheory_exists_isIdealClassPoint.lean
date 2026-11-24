@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isIdealClassPoint
 -- name    : GlobalTheory.exists_isIdealClassPoint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:22:03.348117+00:00
 -- url     : https://prove2.me/theorems/83c1ef36-e500-4adc-ada3-f7b0dd193a85

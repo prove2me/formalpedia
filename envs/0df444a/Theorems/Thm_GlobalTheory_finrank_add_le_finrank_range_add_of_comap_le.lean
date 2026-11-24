@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finrank_add_le_finrank_range_add_of_comap_le
 -- name    : GlobalTheory.finrank_add_le_finrank_range_add_of_comap_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:47:12.482725+00:00
 -- url     : https://prove2.me/theorems/e1862795-414a-49a5-985d-bcc85b33b8df

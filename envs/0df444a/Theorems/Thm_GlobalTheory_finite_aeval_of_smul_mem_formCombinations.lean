@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_aeval_of_smul_mem_formCombinations
 -- name    : GlobalTheory.finite_aeval_of_smul_mem_formCombinations
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:46:36.829304+00:00
 -- url     : https://prove2.me/theorems/e29c5908-741b-473d-b0f7-529b69304e7b

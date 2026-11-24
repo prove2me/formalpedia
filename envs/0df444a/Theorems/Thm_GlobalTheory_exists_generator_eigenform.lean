@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_generator_eigenform
 -- name    : GlobalTheory.exists_generator_eigenform
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:32:33.424272+00:00
 -- url     : https://prove2.me/theorems/72a1ad09-bb4d-4927-a90f-f4188d007935

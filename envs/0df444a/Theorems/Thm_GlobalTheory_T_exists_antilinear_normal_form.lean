@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_antilinear_normal_form
 -- name    : GlobalTheory.T.exists_antilinear_normal_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:34:29.75798+00:00
 -- url     : https://prove2.me/theorems/1ef387b8-f90b-44a9-8daf-5613cb93a4c1

@@ -1,0 +1,79 @@
+-- Prove2me | solution 1 for GlobalTheory.RootEx.FourierJacobi.heisenberg
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-24T22:58:47.569773+00:00
+-- url     : https://prove2.me/submissions/e0dc565a-d73b-4efc-8a15-aa87f2e6342b
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_BlockTheory_TwistedDiscreteSeries_FourierJacobiAverage
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_LinearChangeOfVariablesLocalFieldMatrix
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_UnipotentRadicalBasic
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_QuotientIntegralParabolicUnfolding
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_WeilFormulaRootExchangeParabolicIntersection
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_RootExchangeSupportAndFourierRelation
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_IntegrableOfMemSB
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_ExDownExUpAndExUpExDown
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_OrbitLocallyConstant
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_RootExchangeUnipotentSubgroupSuccDecomposition
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_QuotientIntegralWhittakerTwist
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_FourierJacobiUnipotentEqProdRootExchangeStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_ExistsHeisenbergSubgroupFourierJacobiCommutatorStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_ExistsSchwartzBruhatConvolutionLocalFieldPowerStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_ExistsSchwartzBruhatSupportedNhdsIntegralOneStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_MemFourierJacobiSubgroupIffParabolicMulColumnStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_MemRootExchangeParabolicAndFourierJacobiIffEntriStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_IsUnimodularBlockUpperTriangularSymmetricLevelsStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_RootExchangeHeisenbergVariableSignStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_RootExchangeOperatorWeilRowUnipotentStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_WeilFormulaRootExchangeParabolicQuotientStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_QuotIntFJUniqueStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_ExistsSumSmulOfLocallyConstantCompactSupportStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_SchwartzFourierTransformPiSurjectiveSchwartzBruhStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_ContinuousCharactersLocallyConstantNonarchLocalFStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_IntegralMulOfSupport
+import Theorems.Thm_Formalism_MainNotions_S_Loc_Pt_cast_blocks
+import Theorems.Thm_GlobalTheory_RootEx_Radical_Uni_mul
+import Theorems.Thm_GlobalTheory_RootEx_Supp_Bd_mul
+import Theorems.Thm_GlobalTheory_RootEx_Unfolding_omR_mul
+import Theorems.Thm_GlobalTheory_RootEx_Unfolding_omR_smooth
+import Theorems.Thm_GlobalTheory_RootEx_Unfolding_omR_val
+import Theorems.Thm_GlobalTheory_RootEx_Unfolding_orbit_locallyConstant
+import Theorems.Thm_GlobalTheory_StepData_IntM_mul
+import Theorems.Thm_GlobalTheory_T_continuous_characters_locallyConstant_nonarchLocalField
+import Theorems.Thm_GlobalTheory_T_exists_heisenbergSubgroup_fourierJacobi_commutator
+import Theorems.Thm_GlobalTheory_T_fourierJacobiUnipotent_eq_prod_rootExchange
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+attribute [local simp] Formalism.MainNotions.S.Loc.Pt.cast_blocks
+
+
+
+set_option autoImplicit false
+open MeasureTheory ValuativeRel Matrix GlobalTheory.SplitWeil GlobalTheory.RootEx GlobalTheory.IndefiniteRowSideFullHecke.FourierJacobiAverage
+open Filter Topology
+noncomputable section
+open GlobalTheory GlobalTheory.RootEx GlobalTheory.RootEx.FourierJacobi
+open GlobalTheory.RootEx.Unfolding (omR omR_val omR_mul omR_smooth orbit_locallyConstant opL ev)
+variable {k : Type} [Field k] [ValuativeRel k] [TopologicalSpace k] [IsNonarchimedeanLocalField k]
+  [MeasurableSpace k] [BorelSpace k]
+namespace GlobalTheory.RootEx.FourierJacobi
+theorem _root_.solution : Heisenberg k := by
+  intro n _ _ c ρ h1 hc
+  have h2 : ρ < c := by omega
+  refine ⟨(GlobalTheory.T.fourierJacobiUnipotent_eq_prod_rootExchange k n c ρ h1 h2).1, (GlobalTheory.T.exists_heisenbergSubgroup_fourierJacobi_commutator k n c ρ h1 h2).1, (GlobalTheory.T.exists_heisenbergSubgroup_fourierJacobi_commutator k n c ρ h1 h2).2, ?_⟩
+  intro ψ hψ _ u β₀ Φ₀
+  refine ⟨⟨Φ₀.2.1.comp_continuous (continuous_add_const β₀),
+    Φ₀.2.2.comp_homeomorph (Homeomorph.addRight β₀)⟩,
+    ⟨(((GlobalTheory.T.continuous_characters_locallyConstant_nonarchLocalField k).2 ψ hψ).comp_continuous (f := fun β : n → k => u ⬝ᵥ β) (by fun_prop)).mul Φ₀.2.1,
+      Φ₀.2.2.mul_left⟩, ?_⟩
+  funext β
+  simp only [schM, schT, Pi.smul_apply, smul_eq_mul, dotProduct_add, ← mul_assoc, ← Circle.coe_mul,
+    ← AddChar.map_add_eq_mul]
+  congr 3
+  ring
+end GlobalTheory.RootEx.FourierJacobi

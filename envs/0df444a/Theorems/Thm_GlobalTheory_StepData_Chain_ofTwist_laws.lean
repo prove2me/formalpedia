@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_Chain_ofTwist_laws
 -- name    : GlobalTheory.StepData.Chain.ofTwist_laws
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:49:16.730108+00:00
 -- url     : https://prove2.me/theorems/238f46ff-8ece-42ee-96b6-fe62c338eb53

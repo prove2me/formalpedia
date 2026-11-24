@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_RayEx_exists_mem_sub_one
 -- name    : GlobalTheory.Mem.RayEx.exists_mem_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:45:26.374389+00:00
 -- url     : https://prove2.me/theorems/5452d184-f3f8-4f09-b9bc-82c2296b8ec7

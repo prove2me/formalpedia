@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_invariant_nat_length_lattice
 -- name    : GlobalTheory.exists_invariant_nat_length_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:33:53.407149+00:00
 -- url     : https://prove2.me/theorems/b5898d9e-3a72-4601-b9dc-09d8e2275284

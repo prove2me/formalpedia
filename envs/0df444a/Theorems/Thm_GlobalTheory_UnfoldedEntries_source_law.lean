@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnfoldedEntries_source_law
 -- name    : GlobalTheory.UnfoldedEntries.source_law
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:39:38.768085+00:00
 -- url     : https://prove2.me/theorems/5cd78938-6992-4867-ac02-3edeb596250b

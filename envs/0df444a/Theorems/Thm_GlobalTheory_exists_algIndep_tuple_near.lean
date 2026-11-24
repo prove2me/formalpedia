@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_algIndep_tuple_near
 -- name    : GlobalTheory.exists_algIndep_tuple_near
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:30:53.235209+00:00
 -- url     : https://prove2.me/theorems/bfafcdbc-1f39-4111-82f7-28d164abcecd

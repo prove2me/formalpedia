@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_FourierPi_map_eq_zero_of_translation_invariant_of_fibre_integral_eq_zero
 -- name    : GlobalTheory.SplitWeil.FourierPi.map_eq_zero_of_translation_invariant_of_fibre_integral_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:22:00.276621+00:00
 -- url     : https://prove2.me/theorems/1bfc7c05-9122-4806-a001-502c438863de

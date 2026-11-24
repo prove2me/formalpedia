@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integral_coordinate_shear_haar_localField
 -- name    : GlobalTheory.T.integral_coordinate_shear_haar_localField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:43:33.67628+00:00
 -- url     : https://prove2.me/theorems/56b27196-67b8-4033-894f-ebf878370542

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnfoldedEntries_flat_target
 -- name    : GlobalTheory.UnfoldedEntries.flat_target
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:39:33.808566+00:00
 -- url     : https://prove2.me/theorems/b4a0ecff-5590-45dd-a91c-129a52cafe6f

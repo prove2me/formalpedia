@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_totalBound_mono
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.totalBound_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:44:44.176319+00:00
 -- url     : https://prove2.me/theorems/acbdc575-ce27-4f53-acd6-3ca224d1003e

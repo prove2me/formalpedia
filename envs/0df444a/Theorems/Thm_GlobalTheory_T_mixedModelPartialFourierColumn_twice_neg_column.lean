@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mixedModelPartialFourierColumn_twice_neg_column
 -- name    : GlobalTheory.T.mixedModelPartialFourierColumn_twice_neg_column
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:52:24.239514+00:00
 -- url     : https://prove2.me/theorems/069354e7-7376-4fc4-8174-97eb8367cf63

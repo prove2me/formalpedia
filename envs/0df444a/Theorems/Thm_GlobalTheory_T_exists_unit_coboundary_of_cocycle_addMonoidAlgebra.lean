@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_unit_coboundary_of_cocycle_addMonoidAlgebra
 -- name    : GlobalTheory.T.exists_unit_coboundary_of_cocycle_addMonoidAlgebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:38:06.896346+00:00
 -- url     : https://prove2.me/theorems/7cb630f7-0b75-40fb-a357-d1c3dded61f8

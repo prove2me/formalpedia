@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermUnimod_unimodular_hermitian_eq_conj
 -- name    : GlobalTheory.HermUnimod.unimodular_hermitian_eq_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:20:20.706297+00:00
 -- url     : https://prove2.me/theorems/c01acb1f-e6e3-4b98-87e1-4d30f0303131

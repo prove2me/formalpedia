@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_RayEx_map_mul_mk
 -- name    : GlobalTheory.Mem.RayEx.map_mul_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:45:15.445377+00:00
 -- url     : https://prove2.me/theorems/7148f439-7dcb-4d2a-8389-468a5cf277a4

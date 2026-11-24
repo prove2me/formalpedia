@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_entire_antilinear_periods_const
 -- name    : GlobalTheory.entire_antilinear_periods_const
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:12:35.51226+00:00
 -- url     : https://prove2.me/theorems/d6ad4ab5-499a-4499-8e53-8b899aad0e46

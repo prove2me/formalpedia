@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_OneFormCoh_main
 -- name    : GlobalTheory.CompanionTheory.OneFormCoh.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:26:57.065957+00:00
 -- url     : https://prove2.me/theorems/4351542b-ea87-4dfd-b611-8c010535a253

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankFibre_integrable_fibre_integrand
 -- name    : GlobalTheory.RankFibre.integrable_fibre_integrand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:31:30.839332+00:00
 -- url     : https://prove2.me/theorems/be949204-2608-448b-bcec-6ac81a12268a

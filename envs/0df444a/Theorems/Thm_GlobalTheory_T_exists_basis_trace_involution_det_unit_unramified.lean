@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_basis_trace_involution_det_unit_unramified
 -- name    : GlobalTheory.T.exists_basis_trace_involution_det_unit_unramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:33:40.54219+00:00
 -- url     : https://prove2.me/theorems/c92458c7-933a-43d5-821b-25ab830e7fd7

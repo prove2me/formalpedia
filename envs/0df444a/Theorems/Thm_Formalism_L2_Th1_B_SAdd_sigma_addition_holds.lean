@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_SAdd_sigma_addition_holds
 -- name    : Formalism.L2.Th1.B.SAdd.sigma_addition_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:01:40.3794+00:00
 -- url     : https://prove2.me/theorems/1e66745f-6012-45f0-8f1d-a01be3869149

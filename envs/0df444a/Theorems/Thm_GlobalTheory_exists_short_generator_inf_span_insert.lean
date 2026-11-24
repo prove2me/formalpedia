@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_short_generator_inf_span_insert
 -- name    : GlobalTheory.exists_short_generator_inf_span_insert
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:42:16.683687+00:00
 -- url     : https://prove2.me/theorems/d77b9a0f-9433-454d-9a96-a6a3dc88ac7c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Fs_FrobStickLog_of
 -- name    : Formalism.L2.Th1.B.Fs.FrobStickLog_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:59:25.580801+00:00
 -- url     : https://prove2.me/theorems/6da19729-89f9-4e3b-8600-69466a119e48

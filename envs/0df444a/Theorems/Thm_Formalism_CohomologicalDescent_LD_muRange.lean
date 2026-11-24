@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_muRange
 -- name    : Formalism.CohomologicalDescent.LD.muRange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:41:24.862735+00:00
 -- url     : https://prove2.me/theorems/1acfa3e2-d8a8-4a67-8a2a-e410fc1c48ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_tateModule_of_card
 -- name    : GlobalTheory.exists_tateModule_of_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:42:45.417892+00:00
 -- url     : https://prove2.me/theorems/4ae10d37-b248-4cdf-95de-e277cf0b5436

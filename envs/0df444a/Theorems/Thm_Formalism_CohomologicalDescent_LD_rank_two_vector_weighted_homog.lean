@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_rank_two_vector_weighted_homog
 -- name    : Formalism.CohomologicalDescent.LD.rank_two_vector_weighted_homog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:40:42.606316+00:00
 -- url     : https://prove2.me/theorems/985998a9-e245-4c31-8afc-53c8b3007385

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilCriterion_modulusClause
 -- name    : GlobalTheory.WeilCriterion.modulusClause
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:53:11.560718+00:00
 -- url     : https://prove2.me/theorems/ad69e2b1-0a43-4f32-8e1b-cc16ff6342eb

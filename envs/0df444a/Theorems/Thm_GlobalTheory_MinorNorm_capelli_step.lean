@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorNorm_capelli_step
 -- name    : GlobalTheory.MinorNorm.capelli_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:28:16.630801+00:00
 -- url     : https://prove2.me/theorems/3a12a43f-552d-431a-958e-887fff6afe63

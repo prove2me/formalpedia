@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_section_of_fractionalIdeal_values
 -- name    : GlobalTheory.exists_section_of_fractionalIdeal_values
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:42:06.409115+00:00
 -- url     : https://prove2.me/theorems/6f8f77b0-cbdf-41b3-9324-6ae6946e6590

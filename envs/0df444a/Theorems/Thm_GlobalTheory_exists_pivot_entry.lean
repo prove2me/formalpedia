@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_pivot_entry
 -- name    : GlobalTheory.exists_pivot_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:36:27.357553+00:00
 -- url     : https://prove2.me/theorems/27751c5f-21bb-4916-bd72-212139a73832

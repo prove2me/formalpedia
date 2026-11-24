@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_ld_shapes_one
 -- name    : Formalism.CohomologicalDescent.LD.ld_shapes_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:41:01.879456+00:00
 -- url     : https://prove2.me/theorems/e3a09c32-a6d9-42c6-8f59-464d0d6383c1

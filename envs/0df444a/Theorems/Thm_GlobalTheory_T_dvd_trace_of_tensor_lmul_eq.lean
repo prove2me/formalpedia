@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_dvd_trace_of_tensor_lmul_eq
 -- name    : GlobalTheory.T.dvd_trace_of_tensor_lmul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:32:53.487109+00:00
 -- url     : https://prove2.me/theorems/eb1245ae-2909-461f-8a17-d3ebcebacf59

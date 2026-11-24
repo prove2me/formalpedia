@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LR_lrb_res_X
 -- name    : Formalism.CohomologicalDescent.LR.lrb_res_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:48:26.751798+00:00
 -- url     : https://prove2.me/theorems/f8d27135-3f6c-4f15-81e1-2ad4cb06906d

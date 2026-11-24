@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_smooth_subalgebra_of_finset
 -- name    : GlobalTheory.exists_smooth_subalgebra_of_finset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:42:32.086851+00:00
 -- url     : https://prove2.me/theorems/d6e20b62-ac43-4ac9-b742-cc11bdc4b168

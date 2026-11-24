@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PosOne_Unif_mem_conjSub
 -- name    : GlobalTheory.PosOne.Unif.mem_conjSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:41:10.441805+00:00
 -- url     : https://prove2.me/theorems/4f4f9b93-e6b3-4d14-99b7-f4fedcbf3ce6

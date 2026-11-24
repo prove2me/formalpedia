@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_sup_maximalIdeal_pow_stable
 -- name    : GlobalTheory.exists_sup_maximalIdeal_pow_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:42:22.206737+00:00
 -- url     : https://prove2.me/theorems/1e209253-86a4-4c72-bd1a-ac9e08b7db43

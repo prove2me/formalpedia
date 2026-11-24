@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeTateImage_unitAt_le
 -- name    : GlobalTheory.HodgeTateImage.unitAt_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:46:37.943068+00:00
 -- url     : https://prove2.me/theorems/614e7edf-580b-4bab-8d13-47648681a10a

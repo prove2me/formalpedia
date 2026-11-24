@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitTorusHom_charUnit_injective
 -- name    : GlobalTheory.SplitTorusHom.charUnit_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:59:50.352441+00:00
 -- url     : https://prove2.me/theorems/6fc4f975-abb8-4a79-a773-0d100cc13885

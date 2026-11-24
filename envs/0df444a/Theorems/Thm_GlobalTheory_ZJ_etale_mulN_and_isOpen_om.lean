@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZJ_etale_mulN_and_isOpen_om
 -- name    : GlobalTheory.ZJ.etale_mulN_and_isOpen_om
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:03:17.268268+00:00
 -- url     : https://prove2.me/theorems/8d053e33-3c0c-40c4-9e7f-8f3178ae28b7

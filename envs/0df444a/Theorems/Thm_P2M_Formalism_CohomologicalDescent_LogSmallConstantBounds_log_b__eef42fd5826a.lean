@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_CohomologicalDescent_LogSmallConstantBounds_log_b__eef42fd5826a
 -- name    : P2M_Formalism_CohomologicalDescent_LogSmallConstantBounds_log_b__eef42fd5826a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:44:47.398644+00:00
 -- url     : https://prove2.me/theorems/6cac25bf-f1b4-4ff9-8937-ab6932381f2b

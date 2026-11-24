@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpTangent_isFinite_id_pow
 -- name    : GlobalTheory.GrpTangent.isFinite_id_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:58:53.525433+00:00
 -- url     : https://prove2.me/theorems/1c8d75d7-bbb0-4077-a5dd-1ffd4f356463

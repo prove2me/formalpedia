@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cmValues_exponent_log_sum_le
 -- name    : GlobalTheory.T.cmValues_exponent_log_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:28:50.707497+00:00
 -- url     : https://prove2.me/theorems/7d2eff77-da18-4a95-a652-66ca70e464cd

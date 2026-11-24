@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_valuationSubring_algClosed_not_isUnit
 -- name    : GlobalTheory.T.exists_valuationSubring_algClosed_not_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:38:26.420952+00:00
 -- url     : https://prove2.me/theorems/fce16f5b-c05a-4f2e-bd3e-905435173d27

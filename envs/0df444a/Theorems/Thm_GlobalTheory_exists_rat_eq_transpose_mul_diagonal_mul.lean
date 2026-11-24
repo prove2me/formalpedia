@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_rat_eq_transpose_mul_diagonal_mul
 -- name    : GlobalTheory.exists_rat_eq_transpose_mul_diagonal_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:40:59.842682+00:00
 -- url     : https://prove2.me/theorems/e97c837b-12df-4f3b-b3e7-eeb97c5b110d

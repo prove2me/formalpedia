@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_finset_awayMap_bijective_of_subalgebra_ge
 -- name    : GlobalTheory.T.exists_finset_awayMap_bijective_of_subalgebra_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:35:30.480632+00:00
 -- url     : https://prove2.me/theorems/5cd521af-e6c6-48ca-8bae-ac5a282112ff

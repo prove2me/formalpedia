@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassMin_realExtension_eq_realExt
 -- name    : GlobalTheory.ClassMin.realExtension_eq_realExt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:14:40.004305+00:00
 -- url     : https://prove2.me/theorems/f99bb930-9e8a-4215-99ec-9b441778ce44

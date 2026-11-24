@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmallRankCoinv_card_box_quot_le
 -- name    : GlobalTheory.SmallRankCoinv.card_box_quot_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:48:44.277933+00:00
 -- url     : https://prove2.me/theorems/a340b125-cd5d-4135-9685-27c73d6d05dc

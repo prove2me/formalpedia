@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eventually_finrank_quotPiece
 -- name    : GlobalTheory.eventually_finrank_quotPiece
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:05:28.506192+00:00
 -- url     : https://prove2.me/theorems/b6bb2d2e-3be1-4f7e-b45e-8f804eea7f6e

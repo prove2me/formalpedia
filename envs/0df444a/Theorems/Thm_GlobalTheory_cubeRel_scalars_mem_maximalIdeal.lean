@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cubeRel_scalars_mem_maximalIdeal
 -- name    : GlobalTheory.cubeRel_scalars_mem_maximalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:15:23.268235+00:00
 -- url     : https://prove2.me/theorems/b26e2567-1be3-460c-955c-c4b009711c50

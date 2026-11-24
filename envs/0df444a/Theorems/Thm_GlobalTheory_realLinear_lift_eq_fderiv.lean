@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_realLinear_lift_eq_fderiv
 -- name    : GlobalTheory.realLinear_lift_eq_fderiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:16:43.062093+00:00
 -- url     : https://prove2.me/theorems/e05ed1b3-6b4b-4506-ab79-4e13e5f08ce8

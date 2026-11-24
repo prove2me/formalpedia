@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_contDensityOn_eq_fibre_mass
 -- name    : GlobalTheory.contDensityOn_eq_fibre_mass
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:13:38.067827+00:00
 -- url     : https://prove2.me/theorems/0f95cb2b-96d2-46e9-86f1-596e8a260954

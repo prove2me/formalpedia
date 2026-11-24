@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_flCol_add_of_SB
 -- name    : GlobalTheory.LocFlat.flCol_add_of_SB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:36:45.790141+00:00
 -- url     : https://prove2.me/theorems/5bc1c8de-1969-4e3d-9045-19da43684fd4

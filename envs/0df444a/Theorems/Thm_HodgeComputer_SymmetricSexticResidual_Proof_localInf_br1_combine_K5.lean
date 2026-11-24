@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_SymmetricSexticResidual_Proof_localInf_br1_combine_K5
 -- name    : HodgeComputer.SymmetricSexticResidual.Proof.localInf_br1_combine_K5
--- status  : Open
+-- status  : Proved
 -- author  : @benediamond
 -- created : 2026-11-24T21:55:38.653492+00:00
 -- url     : https://prove2.me/theorems/b96f0db6-2e83-45ec-9cd1-9b9bbc6d5786

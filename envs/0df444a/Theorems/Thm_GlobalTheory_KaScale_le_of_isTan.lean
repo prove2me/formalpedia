@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KaScale_le_of_isTan
 -- name    : GlobalTheory.KaScale.le_of_isTan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:45:32.943912+00:00
 -- url     : https://prove2.me/theorems/55f767f6-f337-4905-a799-32d8a04bc12b

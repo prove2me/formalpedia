@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LR_lrb_aeval_hom
 -- name    : Formalism.CohomologicalDescent.LR.lrb_aeval_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:48:25.622021+00:00
 -- url     : https://prove2.me/theorems/fb2ab80d-29ed-4e37-b55e-199354df5f0d

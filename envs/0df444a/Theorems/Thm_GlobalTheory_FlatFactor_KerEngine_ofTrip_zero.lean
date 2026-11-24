@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatFactor_KerEngine_ofTrip_zero
 -- name    : GlobalTheory.FlatFactor.KerEngine.ofTrip_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:41:15.582119+00:00
 -- url     : https://prove2.me/theorems/55a6f137-0733-4fc2-be71-13a27f77be96

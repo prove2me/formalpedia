@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finiteGalois_fractionRing_of_isFractionRing
 -- name    : GlobalTheory.finiteGalois_fractionRing_of_isFractionRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:46:13.859678+00:00
 -- url     : https://prove2.me/theorems/5e7018bb-a24f-444c-9175-f94478c9b9e9

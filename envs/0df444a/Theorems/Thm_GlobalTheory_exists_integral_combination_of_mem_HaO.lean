@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_integral_combination_of_mem_HaO
 -- name    : GlobalTheory.exists_integral_combination_of_mem_HaO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:33:58.7303+00:00
 -- url     : https://prove2.me/theorems/ee5f6ce8-04a3-45b5-860d-9b6f7fc1d835

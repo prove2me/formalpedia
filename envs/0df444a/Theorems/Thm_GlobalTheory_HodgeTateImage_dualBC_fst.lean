@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeTateImage_dualBC_fst
 -- name    : GlobalTheory.HodgeTateImage.dualBC_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:47:20.121898+00:00
 -- url     : https://prove2.me/theorems/da4d63c9-c9a6-46fb-b487-96169e0d0fd6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UpqTopology_isClosedEmbedding_mat
 -- name    : GlobalTheory.UpqTopology.isClosedEmbedding_mat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:19:49.218213+00:00
 -- url     : https://prove2.me/theorems/dd9f00be-62ee-4f63-a25c-303fbe04b220

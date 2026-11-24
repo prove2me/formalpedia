@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_muLe
 -- name    : Formalism.CohomologicalDescent.LD.muLe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:49:10.558105+00:00
 -- url     : https://prove2.me/theorems/00cc1f00-ed35-4bdd-bfc2-2cf06c5f36b4

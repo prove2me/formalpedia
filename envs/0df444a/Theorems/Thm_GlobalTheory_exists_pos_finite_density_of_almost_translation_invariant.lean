@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_pos_finite_density_of_almost_translation_invariant
 -- name    : GlobalTheory.exists_pos_finite_density_of_almost_translation_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:36:18.287938+00:00
 -- url     : https://prove2.me/theorems/c5f6eceb-bdc9-4dff-9770-d4c35983782f

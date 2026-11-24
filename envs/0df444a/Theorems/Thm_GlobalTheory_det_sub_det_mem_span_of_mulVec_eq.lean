@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_sub_det_mem_span_of_mulVec_eq
 -- name    : GlobalTheory.det_sub_det_mem_span_of_mulVec_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:15:36.408022+00:00
 -- url     : https://prove2.me/theorems/e5a7e16f-c49c-4327-9845-9e85ea0df8f5

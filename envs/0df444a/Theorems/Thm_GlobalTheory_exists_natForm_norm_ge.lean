@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_natForm_norm_ge
 -- name    : GlobalTheory.exists_natForm_norm_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:36:08.410339+00:00
 -- url     : https://prove2.me/theorems/79956912-3af3-422b-af97-78f61168f2cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZetaLeft_eq_of_lt
 -- name    : GlobalTheory.ZetaLeft.eq_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:04:46.751588+00:00
 -- url     : https://prove2.me/theorems/43553be3-1eac-4d28-873c-0540ccfa1fe4

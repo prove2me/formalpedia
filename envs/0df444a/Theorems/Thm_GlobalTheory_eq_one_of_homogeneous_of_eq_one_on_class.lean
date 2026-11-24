@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_one_of_homogeneous_of_eq_one_on_class
 -- name    : GlobalTheory.eq_one_of_homogeneous_of_eq_one_on_class
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:18:03.382045+00:00
 -- url     : https://prove2.me/theorems/55896e0c-de08-46c1-a9f7-fbd52e38e18c

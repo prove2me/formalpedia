@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_FourierJacobi_exchanges_eq
 -- name    : GlobalTheory.RootEx.FourierJacobi.exchanges_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:40:35.023923+00:00
 -- url     : https://prove2.me/theorems/5fa13161-ce0d-4db8-98e7-65a26a6ef9b3

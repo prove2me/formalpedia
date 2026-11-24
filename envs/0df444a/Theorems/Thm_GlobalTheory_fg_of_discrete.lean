@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_fg_of_discrete
 -- name    : GlobalTheory.fg_of_discrete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:46:23.499332+00:00
 -- url     : https://prove2.me/theorems/2685e88f-d5ba-458c-bbf0-00367e0e73da

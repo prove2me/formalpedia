@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_ResVal_res_mult
 -- name    : GlobalTheory.UnitLemma.Unr.ResVal.res_mult
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:36:29.679408+00:00
 -- url     : https://prove2.me/theorems/46d95fa4-d601-4dc4-96c8-71332790391f

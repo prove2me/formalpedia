@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxDetUnique_exists_perm
 -- name    : GlobalTheory.BoxDetUnique.exists_perm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:04:08.244067+00:00
 -- url     : https://prove2.me/theorems/23af7b05-11f9-4e7d-a4ef-8d9a5a76e76b

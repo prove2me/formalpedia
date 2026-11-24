@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_SAdd_weierstrass_addition_holds
 -- name    : Formalism.L2.Th1.B.SAdd.weierstrass_addition_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:01:50.256569+00:00
 -- url     : https://prove2.me/theorems/350cc42f-8c5c-493a-8ffe-f3321ce39820

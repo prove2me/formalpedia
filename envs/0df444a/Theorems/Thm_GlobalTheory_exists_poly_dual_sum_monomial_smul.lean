@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_poly_dual_sum_monomial_smul
 -- name    : GlobalTheory.exists_poly_dual_sum_monomial_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:36:34.802264+00:00
 -- url     : https://prove2.me/theorems/8ba57c6b-4e3f-46c9-b587-f4ba7b7cdc4e

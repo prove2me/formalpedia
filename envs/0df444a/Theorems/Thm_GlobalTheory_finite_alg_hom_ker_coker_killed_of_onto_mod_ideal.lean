@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_alg_hom_ker_coker_killed_of_onto_mod_ideal
 -- name    : GlobalTheory.finite_alg_hom_ker_coker_killed_of_onto_mod_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:46:32.417793+00:00
 -- url     : https://prove2.me/theorems/96c0d249-914b-4fff-b420-814f6d35a4b3

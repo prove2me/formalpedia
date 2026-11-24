@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_jet_split_smul_direction
 -- name    : GlobalTheory.HilbFam.jet_split_smul_direction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:25:12.858061+00:00
 -- url     : https://prove2.me/theorems/55bad820-65f3-40b6-aa54-cd34fafabc4a

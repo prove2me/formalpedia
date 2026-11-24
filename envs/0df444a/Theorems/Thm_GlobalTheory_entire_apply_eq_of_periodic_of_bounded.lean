@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_entire_apply_eq_of_periodic_of_bounded
 -- name    : GlobalTheory.entire_apply_eq_of_periodic_of_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:16:29.573008+00:00
 -- url     : https://prove2.me/theorems/0466d0bb-d894-4728-b9b6-79218a8e0371

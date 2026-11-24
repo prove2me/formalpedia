@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_nat_trace_of_pow_four
 -- name    : GlobalTheory.exists_nat_trace_of_pow_four
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:36:33.337823+00:00
 -- url     : https://prove2.me/theorems/fbce8ed8-53ca-40cb-bf44-8249450a4263

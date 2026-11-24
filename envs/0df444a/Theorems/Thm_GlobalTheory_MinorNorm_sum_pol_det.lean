@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorNorm_sum_pol_det
 -- name    : GlobalTheory.MinorNorm.sum_pol_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:28:28.642323+00:00
 -- url     : https://prove2.me/theorems/cd6d3b79-8bd8-462f-8950-2ea91fbdafc1

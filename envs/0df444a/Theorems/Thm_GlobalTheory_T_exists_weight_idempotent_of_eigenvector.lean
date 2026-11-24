@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_weight_idempotent_of_eigenvector
 -- name    : GlobalTheory.T.exists_weight_idempotent_of_eigenvector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:39:06.284529+00:00
 -- url     : https://prove2.me/theorems/6e22f330-ef63-4ca3-8721-36b4db44ed02

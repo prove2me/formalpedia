@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_holomorphic_section_of_etale
 -- name    : GlobalTheory.exists_holomorphic_section_of_etale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:58:01.446493+00:00
 -- url     : https://prove2.me/theorems/8fae3b62-11a2-41f2-ae78-85d7a05169fe

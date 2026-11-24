@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_B5_discr_latI_ne_zero
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.B5.discr_latI_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:00:20.140929+00:00
 -- url     : https://prove2.me/theorems/685d5e13-5b29-45f9-8b36-54ca250808db

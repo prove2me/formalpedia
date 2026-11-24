@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_rootExchangeUnipotent_exists_residueCardPow_mem_nhds
 -- name    : GlobalTheory.T.rootExchangeUnipotent_exists_residueCardPow_mem_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:17:44.493801+00:00
 -- url     : https://prove2.me/theorems/2b6e288e-7b4b-452f-8f08-f06ab1ba3fa2

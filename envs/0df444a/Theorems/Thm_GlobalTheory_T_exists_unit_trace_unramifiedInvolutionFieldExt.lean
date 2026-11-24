@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_unit_trace_unramifiedInvolutionFieldExt
 -- name    : GlobalTheory.T.exists_unit_trace_unramifiedInvolutionFieldExt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:37:53.456031+00:00
 -- url     : https://prove2.me/theorems/db664ba2-76b2-412c-a1cd-3eef552068a0

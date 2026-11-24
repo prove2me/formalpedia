@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_of_isIntegral_of_birational_complex
 -- name    : GlobalTheory.finite_of_isIntegral_of_birational_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:47:02.764133+00:00
 -- url     : https://prove2.me/theorems/91bcfc16-bb67-4a3b-85fa-f823161f617f

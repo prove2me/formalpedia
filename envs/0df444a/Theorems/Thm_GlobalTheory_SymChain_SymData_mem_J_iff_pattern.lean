@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymChain_SymData_mem_J_iff_pattern
 -- name    : GlobalTheory.SymChain.SymData.mem_J_iff_pattern
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:20:21.504595+00:00
 -- url     : https://prove2.me/theorems/3baee090-3f48-495c-b08a-9e5bb7b791c4

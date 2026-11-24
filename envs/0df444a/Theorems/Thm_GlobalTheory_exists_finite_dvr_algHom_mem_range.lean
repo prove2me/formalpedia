@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_finite_dvr_algHom_mem_range
 -- name    : GlobalTheory.exists_finite_dvr_algHom_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:31:17.183343+00:00
 -- url     : https://prove2.me/theorems/bb975f78-7923-45c5-a258-3c66626ca96b

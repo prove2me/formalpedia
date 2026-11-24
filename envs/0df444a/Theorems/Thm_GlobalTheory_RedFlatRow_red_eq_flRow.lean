@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RedFlatRow_red_eq_flRow
 -- name    : GlobalTheory.RedFlatRow.red_eq_flRow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:35:58.450731+00:00
 -- url     : https://prove2.me/theorems/f965cf59-25d6-4390-b77f-217038e08356

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_Model_typeChain_adapted
 -- name    : GlobalTheory.StepData.Model.typeChain_adapted
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:01:24.462064+00:00
 -- url     : https://prove2.me/theorems/2bdca2e8-be2a-4ab4-b007-ef2136deecb6

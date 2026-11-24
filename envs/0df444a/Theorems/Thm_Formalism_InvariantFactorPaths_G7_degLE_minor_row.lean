@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_degLE_minor_row
 -- name    : Formalism.InvariantFactorPaths.G7.degLE_minor_row
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:30:44.399743+00:00
 -- url     : https://prove2.me/theorems/9583415c-c661-4bc9-b6b7-f16105e8d93d

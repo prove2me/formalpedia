@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tensor_eq_zero_of_forall_geometric_point
 -- name    : GlobalTheory.tensor_eq_zero_of_forall_geometric_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:42:05.119545+00:00
 -- url     : https://prove2.me/theorems/14daec96-11c1-432c-b20c-7d93b5c2e34d

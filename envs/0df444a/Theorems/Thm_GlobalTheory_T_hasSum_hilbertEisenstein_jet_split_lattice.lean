@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hasSum_hilbertEisenstein_jet_split_lattice
 -- name    : GlobalTheory.T.hasSum_hilbertEisenstein_jet_split_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:46:23.846698+00:00
 -- url     : https://prove2.me/theorems/40ba1e6d-7e04-48cc-85d9-eaa30e1afc2c

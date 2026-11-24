@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_basis_discr_associated_prod_jacobian
 -- name    : GlobalTheory.T.exists_basis_discr_associated_prod_jacobian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:34:24.849803+00:00
 -- url     : https://prove2.me/theorems/b8c9e3ea-40cd-40b9-b610-1fd7f7a6a340

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lattice_real_coordinate_basis
 -- name    : GlobalTheory.T.lattice_real_coordinate_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:50:56.18128+00:00
 -- url     : https://prove2.me/theorems/bc2a64a1-7417-4107-b24b-98cb733824ba

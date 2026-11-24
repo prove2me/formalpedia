@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_parabolic_induction_contragredient
 -- name    : GlobalTheory.T.parabolic_induction_contragredient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:50:08.310971+00:00
 -- url     : https://prove2.me/theorems/5db34163-e7a4-424f-89bc-d4d8e90461c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_smul_eq_bilin_of_anisotropic
 -- name    : GlobalTheory.exists_smul_eq_bilin_of_anisotropic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:41:57.963461+00:00
 -- url     : https://prove2.me/theorems/c84d500d-7413-4e93-8ee6-0268c0548685

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Hodge_stein_of_bijective
 -- name    : GlobalTheory.CompanionTheory.Hodge.stein_of_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:25:51.512133+00:00
 -- url     : https://prove2.me/theorems/f0d9132c-261a-45ee-b58f-6d075b9b01b4

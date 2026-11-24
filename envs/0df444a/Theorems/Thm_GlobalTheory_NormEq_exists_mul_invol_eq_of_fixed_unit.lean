@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormEq_exists_mul_invol_eq_of_fixed_unit
 -- name    : GlobalTheory.NormEq.exists_mul_invol_eq_of_fixed_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:35:40.368668+00:00
 -- url     : https://prove2.me/theorems/43b6aacf-d5a3-45df-88e9-0fe97ee9364f

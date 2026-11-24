@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_factor_completedStalk
 -- name    : GlobalTheory.existsUnique_factor_completedStalk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:29:26.585865+00:00
 -- url     : https://prove2.me/theorems/61dd421a-77f4-42f6-8c5f-a2a5623877f4

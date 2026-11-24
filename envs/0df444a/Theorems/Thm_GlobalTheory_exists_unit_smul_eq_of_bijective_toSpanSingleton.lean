@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_unit_smul_eq_of_bijective_toSpanSingleton
 -- name    : GlobalTheory.exists_unit_smul_eq_of_bijective_toSpanSingleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:45:19.85192+00:00
 -- url     : https://prove2.me/theorems/e27d01b1-7729-472c-8673-4f31d733cf69

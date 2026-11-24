@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dofN_iterate_smul
 -- name    : GlobalTheory.dofN_iterate_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:18:15.204079+00:00
 -- url     : https://prove2.me/theorems/7929856d-4d60-4bea-91e5-d483dcf57c1f

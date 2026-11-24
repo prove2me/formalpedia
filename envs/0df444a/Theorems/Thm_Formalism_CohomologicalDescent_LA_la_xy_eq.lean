@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_la_xy_eq
 -- name    : Formalism.CohomologicalDescent.LA.la_xy_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:49:31.137041+00:00
 -- url     : https://prove2.me/theorems/d18035d1-d554-4447-83c1-7b67ca4aface

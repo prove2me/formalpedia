@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JacGen_valT_specMap_fromSpecStalk
 -- name    : GlobalTheory.JacGen.valT_specMap_fromSpecStalk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:44:13.944112+00:00
 -- url     : https://prove2.me/theorems/c2cf7786-b64b-4e93-a77b-893621791c03

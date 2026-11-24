@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_and_surjective_of_isFinite_abelianEnd
 -- name    : GlobalTheory.flat_and_surjective_of_isFinite_abelianEnd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:52:00.393296+00:00
 -- url     : https://prove2.me/theorems/c9c334e6-c9eb-429e-a20f-a9d0bdfd47f4

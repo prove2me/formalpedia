@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_pnorm_eq_mul_exp
 -- name    : GlobalTheory.exists_pnorm_eq_mul_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:37:07.919777+00:00
 -- url     : https://prove2.me/theorems/b321f1b7-2ca2-44e7-95e2-7d9ae487c807

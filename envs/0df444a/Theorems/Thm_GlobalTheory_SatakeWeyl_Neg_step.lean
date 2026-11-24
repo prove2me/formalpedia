@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_Neg_step
 -- name    : GlobalTheory.SatakeWeyl.Neg.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:48:45.100085+00:00
 -- url     : https://prove2.me/theorems/b19028db-3c91-4783-9b26-e6b57a628bc5

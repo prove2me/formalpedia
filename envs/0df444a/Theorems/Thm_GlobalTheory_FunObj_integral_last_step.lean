@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_integral_last_step
 -- name    : GlobalTheory.FunObj.integral_last_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:35:36.278067+00:00
 -- url     : https://prove2.me/theorems/43d7d4d8-5291-41f7-85d7-d8808eee5e8e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_fg_localizationAway_span_finset
 -- name    : GlobalTheory.fg_localizationAway_span_finset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:46:35.246842+00:00
 -- url     : https://prove2.me/theorems/221ac1ef-a2c6-4bbc-8b56-c6f24eb1b9d4

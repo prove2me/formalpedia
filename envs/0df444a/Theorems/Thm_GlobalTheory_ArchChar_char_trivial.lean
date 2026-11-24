@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchChar_char_trivial
 -- name    : GlobalTheory.ArchChar.char_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:58:48.927909+00:00
 -- url     : https://prove2.me/theorems/4d449f0d-14b3-41bb-a217-cc5d3b118c68

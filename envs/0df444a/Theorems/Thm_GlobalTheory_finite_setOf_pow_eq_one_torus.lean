@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_setOf_pow_eq_one_torus
 -- name    : GlobalTheory.finite_setOf_pow_eq_one_torus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:47:17.606876+00:00
 -- url     : https://prove2.me/theorems/22ec2358-9366-4dbe-9251-e1ebf64e00fd

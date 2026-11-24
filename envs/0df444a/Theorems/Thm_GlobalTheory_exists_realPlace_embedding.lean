@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_realPlace_embedding
 -- name    : GlobalTheory.exists_realPlace_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:41:07.227891+00:00
 -- url     : https://prove2.me/theorems/e77dcf46-f12e-4129-903f-5182bd7e7ded

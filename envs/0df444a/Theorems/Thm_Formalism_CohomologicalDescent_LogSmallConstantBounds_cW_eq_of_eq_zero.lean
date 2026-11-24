@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_cW_eq_of_eq_zero
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.cW_eq_of_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:44:59.053093+00:00
 -- url     : https://prove2.me/theorems/2ef90200-0090-484b-b229-c34b98536002

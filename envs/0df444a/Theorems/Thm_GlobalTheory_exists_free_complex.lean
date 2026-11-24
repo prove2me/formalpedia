@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_free_complex
 -- name    : GlobalTheory.exists_free_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:32:02.886265+00:00
 -- url     : https://prove2.me/theorems/71165cdf-59e6-4901-8410-5841d839e9c1

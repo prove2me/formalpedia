@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_root_near_of_norm_eval_lt
 -- name    : GlobalTheory.exists_root_near_of_norm_eval_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:41:17.08987+00:00
 -- url     : https://prove2.me/theorems/df54a551-c259-41b2-9b62-a3884eb49ab1

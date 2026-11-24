@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_ld_val_split
 -- name    : Formalism.CohomologicalDescent.LD.ld_val_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:41:31.353515+00:00
 -- url     : https://prove2.me/theorems/e5764c3b-3f90-4c20-8ecb-a007074afd14

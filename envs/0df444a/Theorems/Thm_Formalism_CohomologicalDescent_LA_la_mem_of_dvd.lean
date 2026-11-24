@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_la_mem_of_dvd
 -- name    : Formalism.CohomologicalDescent.LA.la_mem_of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:49:29.687439+00:00
 -- url     : https://prove2.me/theorems/4136a09c-b91f-49fb-b2b1-6c153f034837

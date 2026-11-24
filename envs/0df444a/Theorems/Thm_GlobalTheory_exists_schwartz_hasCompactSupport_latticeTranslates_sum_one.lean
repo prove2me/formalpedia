@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_schwartz_hasCompactSupport_latticeTranslates_sum_one
 -- name    : GlobalTheory.exists_schwartz_hasCompactSupport_latticeTranslates_sum_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:41:03.919728+00:00
 -- url     : https://prove2.me/theorems/f5cf3bf2-4574-4841-953e-3e44388da756

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_pos_nat_mem_fractionalIdeal
 -- name    : GlobalTheory.exists_pos_nat_mem_fractionalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:36:42.858948+00:00
 -- url     : https://prove2.me/theorems/6148bea0-a893-403c-8d1d-9892fb068718

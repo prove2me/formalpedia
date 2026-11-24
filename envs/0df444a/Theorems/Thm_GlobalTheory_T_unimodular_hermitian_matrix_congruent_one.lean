@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unimodular_hermitian_matrix_congruent_one
 -- name    : GlobalTheory.T.unimodular_hermitian_matrix_congruent_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:00:53.365679+00:00
 -- url     : https://prove2.me/theorems/4cfc6482-c070-4bc9-8ac9-aa5e694b947d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_weierstrass_p_of_lattice
 -- name    : Formalism.L2.Th1.F.weierstrass_p_of_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:19:51.866854+00:00
 -- url     : https://prove2.me/theorems/63147f51-6762-4e84-bd10-834ef5f44196

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_expand_pi_of_expand_each
 -- name    : GlobalTheory.expand_pi_of_expand_each
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:46:13.503789+00:00
 -- url     : https://prove2.me/theorems/175debea-ce33-4f3d-b546-93f646903692

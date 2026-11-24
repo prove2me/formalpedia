@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_submatrix_det_ne_zero_of_le_rank
 -- name    : GlobalTheory.exists_submatrix_det_ne_zero_of_le_rank
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:34:22.139305+00:00
 -- url     : https://prove2.me/theorems/26c54417-81b3-4349-9e52-e46e0302156a

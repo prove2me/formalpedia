@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_covolume_eq_sqrt_det_gram
 -- name    : GlobalTheory.covolume_eq_sqrt_det_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:14:36.763919+00:00
 -- url     : https://prove2.me/theorems/80e85a21-15d0-4255-8a8d-455ff7069916

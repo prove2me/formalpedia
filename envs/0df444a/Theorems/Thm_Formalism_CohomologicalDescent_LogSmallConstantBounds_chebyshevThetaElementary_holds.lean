@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_chebyshevThetaElementary_holds
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.chebyshevThetaElementary_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:45:03.912794+00:00
 -- url     : https://prove2.me/theorems/0bc66d41-01e1-4751-9076-65d9dbbd5238

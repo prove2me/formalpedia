@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_factor_through_fractionField_of_range
 -- name    : GlobalTheory.factor_through_fractionField_of_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:46:35.748242+00:00
 -- url     : https://prove2.me/theorems/42809144-48ce-4e2b-830c-04f28ad5d9d0

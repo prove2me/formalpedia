@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_KurIntegers_of
 -- name    : Formalism.L2.Th1.D.KurIntegers_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:12:00.563072+00:00
 -- url     : https://prove2.me/theorems/346b7fc8-639e-478f-9d84-8f9e495f4db2

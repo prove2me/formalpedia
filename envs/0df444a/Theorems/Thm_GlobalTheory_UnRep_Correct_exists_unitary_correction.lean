@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_Correct_exists_unitary_correction
 -- name    : GlobalTheory.UnRep.Correct.exists_unitary_correction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:24:47.857932+00:00
 -- url     : https://prove2.me/theorems/d32de9f1-4b08-4b4e-98d9-8486a4fbb026

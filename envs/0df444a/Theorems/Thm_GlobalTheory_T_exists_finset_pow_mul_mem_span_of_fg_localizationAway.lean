@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_finset_pow_mul_mem_span_of_fg_localizationAway
 -- name    : GlobalTheory.T.exists_finset_pow_mul_mem_span_of_fg_localizationAway
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:35:32.080127+00:00
 -- url     : https://prove2.me/theorems/40aff238-3dd4-48dd-9067-bc4aa8fc2efe

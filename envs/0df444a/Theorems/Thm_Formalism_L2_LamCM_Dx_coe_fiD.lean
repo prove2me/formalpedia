@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_Dx_coe_fiD
 -- name    : Formalism.L2.LamCM.Dx.coe_fiD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:18:52.891972+00:00
 -- url     : https://prove2.me/theorems/5a67d623-bf55-45ad-ae90-93d1aacdfc9c

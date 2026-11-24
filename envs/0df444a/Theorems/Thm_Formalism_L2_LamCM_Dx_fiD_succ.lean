@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_Dx_fiD_succ
 -- name    : Formalism.L2.LamCM.Dx.fiD_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:20:04.943973+00:00
 -- url     : https://prove2.me/theorems/09f88c71-e18d-4da6-8694-c32127f082f6

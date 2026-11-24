@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_abs_le_one_mul_mem_range
 -- name    : GlobalTheory.finite_abs_le_one_mul_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:46:17.734618+00:00
 -- url     : https://prove2.me/theorems/44ccf8a4-064f-407c-8ce1-0d710dfcfa27

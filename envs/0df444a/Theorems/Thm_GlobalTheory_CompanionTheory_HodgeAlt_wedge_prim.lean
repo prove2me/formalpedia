@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeAlt_wedge_prim
 -- name    : GlobalTheory.CompanionTheory.HodgeAlt.wedge_prim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:25:34.557317+00:00
 -- url     : https://prove2.me/theorems/6c2232be-e0e3-4f47-80e1-51b6f7782274

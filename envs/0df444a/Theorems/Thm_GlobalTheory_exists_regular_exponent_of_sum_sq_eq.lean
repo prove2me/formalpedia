@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_regular_exponent_of_sum_sq_eq
 -- name    : GlobalTheory.exists_regular_exponent_of_sum_sq_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:41:18.185796+00:00
 -- url     : https://prove2.me/theorems/40c67028-06c1-4e0c-836f-9090fef25dda

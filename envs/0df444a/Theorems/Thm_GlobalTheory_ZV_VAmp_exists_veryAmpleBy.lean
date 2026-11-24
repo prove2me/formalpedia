@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZV_VAmp_exists_veryAmpleBy
 -- name    : GlobalTheory.ZV.VAmp.exists_veryAmpleBy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:28:23.435419+00:00
 -- url     : https://prove2.me/theorems/9727aa34-aa08-4a41-b73b-20cb84edc068

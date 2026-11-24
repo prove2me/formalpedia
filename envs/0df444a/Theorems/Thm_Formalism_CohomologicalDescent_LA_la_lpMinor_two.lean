@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_la_lpMinor_two
 -- name    : Formalism.CohomologicalDescent.LA.la_lpMinor_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:49:20.643673+00:00
 -- url     : https://prove2.me/theorems/9207f041-3b35-4d14-aaa3-3ee007b2181b

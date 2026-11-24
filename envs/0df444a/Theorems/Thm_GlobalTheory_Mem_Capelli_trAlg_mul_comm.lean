@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Capelli_trAlg_mul_comm
 -- name    : GlobalTheory.Mem.Capelli.trAlg_mul_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:29:16.542729+00:00
 -- url     : https://prove2.me/theorems/25dec0b9-97a4-402d-a01f-42fa47137012

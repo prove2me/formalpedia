@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_height_eq_one_mem
 -- name    : GlobalTheory.finite_height_eq_one_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:46:15.426357+00:00
 -- url     : https://prove2.me/theorems/2ccb9624-969f-4af5-babc-3bcba83399bf

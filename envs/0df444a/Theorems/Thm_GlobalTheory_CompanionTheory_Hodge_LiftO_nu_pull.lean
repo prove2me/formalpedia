@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Hodge_LiftO_nu_pull
 -- name    : GlobalTheory.CompanionTheory.Hodge.LiftO.nu_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:26:33.831031+00:00
 -- url     : https://prove2.me/theorems/6bfc6890-2072-45c1-aa00-0280403d358e

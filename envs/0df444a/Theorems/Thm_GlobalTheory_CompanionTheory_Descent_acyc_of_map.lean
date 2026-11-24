@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Descent_acyc_of_map
 -- name    : GlobalTheory.CompanionTheory.Descent.acyc_of_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:26:24.610252+00:00
 -- url     : https://prove2.me/theorems/9bcffd72-d8e6-4d78-8099-4b240a1f4fd1

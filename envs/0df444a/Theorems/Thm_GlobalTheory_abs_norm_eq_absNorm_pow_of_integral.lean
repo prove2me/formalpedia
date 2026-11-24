@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_abs_norm_eq_absNorm_pow_of_integral
 -- name    : GlobalTheory.abs_norm_eq_absNorm_pow_of_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:05:18.951179+00:00
 -- url     : https://prove2.me/theorems/02b9dd15-1694-4755-8c34-28b7110ee519

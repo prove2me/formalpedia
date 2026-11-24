@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_apply_fderiv_eq_of_germ
 -- name    : GlobalTheory.apply_fderiv_eq_of_germ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:13:17.31407+00:00
 -- url     : https://prove2.me/theorems/1e030b78-6ca1-4646-afbf-11f4599cf78e

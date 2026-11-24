@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JointHarm_fock_rename_mul
 -- name    : GlobalTheory.JointHarm.fock_rename_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:33:01.350917+00:00
 -- url     : https://prove2.me/theorems/72549e38-5ac4-47b9-aef4-29c24273ea65

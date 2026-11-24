@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AxForm_pairing_differential_pullback
 -- name    : GlobalTheory.CompanionTheory.AxForm.pairing_differential_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:23:39.670516+00:00
 -- url     : https://prove2.me/theorems/13d36e3b-9ce6-4673-9e8d-d1332e5a3681

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_pow_valuation_div_sub_one_le_of_congr
 -- name    : GlobalTheory.T.exists_pow_valuation_div_sub_one_le_of_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:37:33.126451+00:00
 -- url     : https://prove2.me/theorems/38c31568-aa05-4bbb-9049-a9cae3a06fc0

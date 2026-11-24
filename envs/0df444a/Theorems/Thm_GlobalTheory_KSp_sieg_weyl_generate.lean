@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_sieg_weyl_generate
 -- name    : GlobalTheory.KSp.sieg_weyl_generate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:08:40.033805+00:00
 -- url     : https://prove2.me/theorems/34455f39-a1fc-48c4-a627-755cd9f807ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_charPair_of_weil
 -- name    : GlobalTheory.charPair_of_weil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:07:31.726658+00:00
 -- url     : https://prove2.me/theorems/8678d973-fb1b-4047-9867-0011f1b4f7b7

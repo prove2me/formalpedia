@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_le_sum_of_dvd_det_submatrix
 -- name    : Formalism.CohomologicalDescent.le_sum_of_dvd_det_submatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:45:23.704392+00:00
 -- url     : https://prove2.me/theorems/332fd0ce-fd6e-4f52-9190-da0663419e9f

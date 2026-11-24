@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_generator_one_one_det
 -- name    : Formalism.CohomologicalDescent.LD.generator_one_one_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:41:04.221216+00:00
 -- url     : https://prove2.me/theorems/ca9cd32f-ebec-4018-bf2b-8af83d045337

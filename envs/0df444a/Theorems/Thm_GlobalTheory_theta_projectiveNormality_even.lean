@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_theta_projectiveNormality_even
 -- name    : GlobalTheory.theta_projectiveNormality_even
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:58:51.6348+00:00
 -- url     : https://prove2.me/theorems/818c16bc-9228-4490-bd00-f0c7529bfdef

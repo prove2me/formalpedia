@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_support_length_localizedModule
 -- name    : GlobalTheory.finite_support_length_localizedModule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:47:05.269795+00:00
 -- url     : https://prove2.me/theorems/543b2cae-18ff-4fd6-8a90-95b5837a25da

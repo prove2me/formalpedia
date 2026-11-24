@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_SymmetricSexticResidual_Proof_global_biv_x0
 -- name    : HodgeComputer.SymmetricSexticResidual.Proof.global_biv_x0
--- status  : Open
+-- status  : Proved
 -- author  : @benediamond
 -- created : 2026-11-24T22:34:10.265117+00:00
 -- url     : https://prove2.me/theorems/a1a0f5c0-02c8-43e5-b9ea-e3f048864922

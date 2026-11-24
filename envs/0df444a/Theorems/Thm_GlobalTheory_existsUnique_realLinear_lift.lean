@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_realLinear_lift
 -- name    : GlobalTheory.existsUnique_realLinear_lift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:34.291118+00:00
 -- url     : https://prove2.me/theorems/94a90f12-cb67-4cf9-8570-3c6041433bf8

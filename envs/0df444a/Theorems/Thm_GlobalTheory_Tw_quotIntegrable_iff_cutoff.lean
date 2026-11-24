@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_quotIntegrable_iff_cutoff
 -- name    : GlobalTheory.Tw.quotIntegrable_iff_cutoff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:13:42.478906+00:00
 -- url     : https://prove2.me/theorems/796b016c-d8dd-408b-ba70-10cee9b8571e

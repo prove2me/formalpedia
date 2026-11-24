@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_le_lstarDenom
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.le_lstarDenom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:44:36.876937+00:00
 -- url     : https://prove2.me/theorems/653f6e8e-bd57-4275-89ac-898484b43fe2

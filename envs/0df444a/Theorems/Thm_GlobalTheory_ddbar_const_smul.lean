@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ddbar_const_smul
 -- name    : GlobalTheory.ddbar_const_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:12:21.267083+00:00
 -- url     : https://prove2.me/theorems/39a37ddd-7b31-46ac-b69e-9730fbe1a59a

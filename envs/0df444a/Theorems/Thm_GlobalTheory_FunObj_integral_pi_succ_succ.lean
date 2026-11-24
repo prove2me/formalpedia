@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_integral_pi_succ_succ
 -- name    : GlobalTheory.FunObj.integral_pi_succ_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:36:16.881185+00:00
 -- url     : https://prove2.me/theorems/d6385972-84a6-4848-8f8d-4b980c72a517

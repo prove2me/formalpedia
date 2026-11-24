@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_torsion_twist_tsum_norm_ge
 -- name    : GlobalTheory.exists_torsion_twist_tsum_norm_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:41:53.734111+00:00
 -- url     : https://prove2.me/theorems/c65b0a10-777b-4262-9f5b-4a214f091771

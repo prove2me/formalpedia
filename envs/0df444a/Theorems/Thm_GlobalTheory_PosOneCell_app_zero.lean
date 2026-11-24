@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PosOneCell_app_zero
 -- name    : GlobalTheory.PosOneCell.app_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:47:44.5328+00:00
 -- url     : https://prove2.me/theorems/cbf10398-e825-45bf-a2ed-18f68236f582

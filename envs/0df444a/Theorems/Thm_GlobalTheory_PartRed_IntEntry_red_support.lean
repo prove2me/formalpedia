@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartRed_IntEntry_red_support
 -- name    : GlobalTheory.PartRed.IntEntry.red_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:35:45.321623+00:00
 -- url     : https://prove2.me/theorems/152fc88a-c8ee-45ae-90a4-0c6d2b54927f

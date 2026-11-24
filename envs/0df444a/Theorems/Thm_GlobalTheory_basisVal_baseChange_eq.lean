@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_basisVal_baseChange_eq
 -- name    : GlobalTheory.basisVal_baseChange_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:06:34.502208+00:00
 -- url     : https://prove2.me/theorems/3eab30a2-4281-4ab7-b0f6-7a1177222bf2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_zmod_pow_coboundary_of_rational_coboundary
 -- name    : GlobalTheory.exists_zmod_pow_coboundary_of_rational_coboundary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:46:43.749903+00:00
 -- url     : https://prove2.me/theorems/e24093c4-3569-42cd-94ca-86ed73b3ace9

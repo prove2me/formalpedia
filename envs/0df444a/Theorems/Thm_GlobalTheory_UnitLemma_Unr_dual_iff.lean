@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_dual_iff
 -- name    : GlobalTheory.UnitLemma.Unr.dual_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:37:25.918673+00:00
 -- url     : https://prove2.me/theorems/b9897669-db9e-44aa-9428-fae315699257

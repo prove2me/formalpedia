@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GluedOrbit_smul_gluedS_cases
 -- name    : GlobalTheory.GluedOrbit.smul_gluedS_cases
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:32:11.881287+00:00
 -- url     : https://prove2.me/theorems/c006ee10-3b27-4609-a436-41564fff4eb8

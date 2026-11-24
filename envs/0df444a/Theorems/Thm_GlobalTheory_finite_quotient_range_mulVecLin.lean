@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_quotient_range_mulVecLin
 -- name    : GlobalTheory.finite_quotient_range_mulVecLin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:46:56.186289+00:00
 -- url     : https://prove2.me/theorems/0eb3a72a-826d-4a41-b5d1-c34980f2a9b0

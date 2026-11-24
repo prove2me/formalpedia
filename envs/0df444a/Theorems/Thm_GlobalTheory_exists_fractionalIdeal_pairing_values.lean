@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_fractionalIdeal_pairing_values
 -- name    : GlobalTheory.exists_fractionalIdeal_pairing_values
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:32:02.240804+00:00
 -- url     : https://prove2.me/theorems/db80dcb7-ae05-41fe-85e4-c1ebc67bf53d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeTwoForm_wedge_functional_two_form_naturality
 -- name    : GlobalTheory.CompanionTheory.HodgeTwoForm.wedge_functional_two_form_naturality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:24:04.001477+00:00
 -- url     : https://prove2.me/theorems/7a14afd4-b2ec-4380-aae1-c6dad4611b0f

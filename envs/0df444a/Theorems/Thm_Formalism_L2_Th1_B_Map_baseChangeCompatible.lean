@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Map_baseChangeCompatible
 -- name    : Formalism.L2.Th1.B.Map.baseChangeCompatible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:25:26.514919+00:00
 -- url     : https://prove2.me/theorems/eb482077-274c-4ff5-a22d-6658f32016e8

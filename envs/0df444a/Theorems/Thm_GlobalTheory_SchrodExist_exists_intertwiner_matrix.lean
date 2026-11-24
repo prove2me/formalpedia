@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchrodExist_exists_intertwiner_matrix
 -- name    : GlobalTheory.SchrodExist.exists_intertwiner_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:47:47.670676+00:00
 -- url     : https://prove2.me/theorems/be461265-2d23-44c8-99f1-ceb61e5c118b

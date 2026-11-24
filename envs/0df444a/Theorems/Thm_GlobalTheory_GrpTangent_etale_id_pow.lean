@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpTangent_etale_id_pow
 -- name    : GlobalTheory.GrpTangent.etale_id_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:44.85794+00:00
 -- url     : https://prove2.me/theorems/a5a71389-b50b-4f52-9d7a-d4c0de934341

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_prime_dvd_natCast_mem
 -- name    : GlobalTheory.exists_prime_dvd_natCast_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:36:43.848295+00:00
 -- url     : https://prove2.me/theorems/ef9aa2b3-5657-4834-8406-7e710a5fdcd6

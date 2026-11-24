@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Host_finiteSingle_mem
 -- name    : Formalism.L2.Host.finiteSingle_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:41:39.184468+00:00
 -- url     : https://prove2.me/theorems/e5052968-446f-4f05-84ed-3a12f2b5be94

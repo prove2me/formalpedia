@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_RayEx_ne_bot_of_isCoprime
 -- name    : GlobalTheory.Mem.RayEx.ne_bot_of_isCoprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:45:57.063596+00:00
 -- url     : https://prove2.me/theorems/2e8d7217-a631-4752-81c7-24316d39ee69

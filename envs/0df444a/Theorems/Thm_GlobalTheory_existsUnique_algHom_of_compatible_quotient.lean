@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_algHom_of_compatible_quotient
 -- name    : GlobalTheory.existsUnique_algHom_of_compatible_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:28:57.969403+00:00
 -- url     : https://prove2.me/theorems/b0c3588c-6fd5-42a8-bbf3-b6319c97be59

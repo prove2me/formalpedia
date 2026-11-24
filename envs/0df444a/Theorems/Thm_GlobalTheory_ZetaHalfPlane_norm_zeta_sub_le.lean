@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZetaHalfPlane_norm_zeta_sub_le
 -- name    : GlobalTheory.ZetaHalfPlane.norm_zeta_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:04:44.242708+00:00
 -- url     : https://prove2.me/theorems/d880a940-0091-409d-bfdd-b4ea45478b4a

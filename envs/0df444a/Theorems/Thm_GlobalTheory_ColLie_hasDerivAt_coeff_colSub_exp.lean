@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ColLie_hasDerivAt_coeff_colSub_exp
 -- name    : GlobalTheory.ColLie.hasDerivAt_coeff_colSub_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:30:30.252995+00:00
 -- url     : https://prove2.me/theorems/fa2daaa8-480d-4518-93bb-ed2542f03836

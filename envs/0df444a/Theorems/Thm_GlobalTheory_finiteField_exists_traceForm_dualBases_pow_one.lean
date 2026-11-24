@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finiteField_exists_traceForm_dualBases_pow_one
 -- name    : GlobalTheory.finiteField_exists_traceForm_dualBases_pow_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:46:07.377311+00:00
 -- url     : https://prove2.me/theorems/c9eb4fbf-bb1c-4d35-9abe-834ab4d5dffd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AffAcyc_exact_of_span
 -- name    : GlobalTheory.CompanionTheory.AffAcyc.exact_of_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:25:13.235795+00:00
 -- url     : https://prove2.me/theorems/efd1b9dd-e275-489f-a206-eb26ce2e7d19

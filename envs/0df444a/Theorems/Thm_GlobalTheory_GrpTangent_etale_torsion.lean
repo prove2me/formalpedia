@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpTangent_etale_torsion
 -- name    : GlobalTheory.GrpTangent.etale_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:10.170101+00:00
 -- url     : https://prove2.me/theorems/3b6ae31e-7179-495d-82b6-b8dfff6f98b0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_sylow_over_subgroup
 -- name    : GlobalTheory.exists_sylow_over_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:42:21.936624+00:00
 -- url     : https://prove2.me/theorems/ed5d883a-969d-461b-b7f5-8b834503d76e

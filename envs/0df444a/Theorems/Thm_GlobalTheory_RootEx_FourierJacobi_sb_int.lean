@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_FourierJacobi_sb_int
 -- name    : GlobalTheory.RootEx.FourierJacobi.sb_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:42:29.078039+00:00
 -- url     : https://prove2.me/theorems/6928c9c5-c10b-4c56-82cf-b88813cabae0

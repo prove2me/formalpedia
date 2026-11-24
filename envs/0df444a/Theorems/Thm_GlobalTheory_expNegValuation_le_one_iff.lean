@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_expNegValuation_le_one_iff
 -- name    : GlobalTheory.expNegValuation_le_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:46:39.086274+00:00
 -- url     : https://prove2.me/theorems/ee9b8b1f-db4d-4896-974e-35bf15ff4104

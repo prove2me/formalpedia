@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_FourierJacobi_stab_nhds
 -- name    : GlobalTheory.RootEx.FourierJacobi.stab_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:41:02.984441+00:00
 -- url     : https://prove2.me/theorems/ca362f7c-c562-4316-b354-7ecfe6d4e895

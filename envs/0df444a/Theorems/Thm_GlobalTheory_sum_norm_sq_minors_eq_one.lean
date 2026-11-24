@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_norm_sq_minors_eq_one
 -- name    : GlobalTheory.sum_norm_sq_minors_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:45:44.400805+00:00
 -- url     : https://prove2.me/theorems/cdaa4230-9076-452a-b281-2837c329ee62

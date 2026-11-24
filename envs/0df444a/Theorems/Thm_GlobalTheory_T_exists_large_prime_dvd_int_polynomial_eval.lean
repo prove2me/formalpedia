@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_large_prime_dvd_int_polynomial_eval
 -- name    : GlobalTheory.T.exists_large_prime_dvd_int_polynomial_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:37:03.901949+00:00
 -- url     : https://prove2.me/theorems/6f279054-7ba4-4a58-b32f-62433d328146

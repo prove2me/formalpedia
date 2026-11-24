@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_UnramFlat_contr_intInd
 -- name    : GlobalTheory.LocFlat.UnramFlat.contr_intInd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:28:28.23781+00:00
 -- url     : https://prove2.me/theorems/33de1752-6a91-42ae-9431-7f730072f899

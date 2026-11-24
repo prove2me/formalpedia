@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StdLoc_blockParMk_bijective
 -- name    : GlobalTheory.StdLoc.blockParMk_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:38:06.328452+00:00
 -- url     : https://prove2.me/theorems/50562668-3674-4171-b786-67f2fc650abb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WedgeOf_wedgeT_tmul_add_swap
 -- name    : GlobalTheory.CompanionTheory.WedgeOf.wedgeT_tmul_add_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:33:55.116022+00:00
 -- url     : https://prove2.me/theorems/439cc5db-adb6-4bec-b1c6-0f3168e81939

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_Dx_exists_unit_one_add_generator
 -- name    : Formalism.L2.LamCM.Dx.exists_unit_one_add_generator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:17:23.451262+00:00
 -- url     : https://prove2.me/theorems/a8786e99-e9a9-421d-8536-682eb32c6900

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dualRestrict_surjective_of_isTorsionFree_quotient
 -- name    : GlobalTheory.dualRestrict_surjective_of_isTorsionFree_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:16:19.448273+00:00
 -- url     : https://prove2.me/theorems/e32568a0-dcf0-48d4-a83a-e32c7f6adb25

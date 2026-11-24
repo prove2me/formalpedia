@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HasRationalTorsion_exists_point_of_root
 -- name    : GlobalTheory.HasRationalTorsion.exists_point_of_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:02:12.673782+00:00
 -- url     : https://prove2.me/theorems/2df1e34e-80fa-4bb1-b60a-8ad175e788eb

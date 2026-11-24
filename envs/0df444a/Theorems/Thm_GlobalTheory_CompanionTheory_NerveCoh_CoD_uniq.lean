@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_NerveCoh_CoD_uniq
 -- name    : GlobalTheory.CompanionTheory.NerveCoh.CoD.uniq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:24:34.761178+00:00
 -- url     : https://prove2.me/theorems/e12da0ba-e9f2-4b1f-a220-927bed8e3ab2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_factor_closedImmersion_of_locally_on_source
 -- name    : GlobalTheory.T.exists_factor_closedImmersion_of_locally_on_source
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:35:44.654796+00:00
 -- url     : https://prove2.me/theorems/a8fbe70b-fc1c-4275-bcf8-dd302846a518

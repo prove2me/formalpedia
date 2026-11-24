@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_factor_closedImmersion_iff_of_local
 -- name    : GlobalTheory.factor_closedImmersion_iff_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:46:21.414799+00:00
 -- url     : https://prove2.me/theorems/80e0626c-1c8e-49f9-8adc-075dc0051eb9

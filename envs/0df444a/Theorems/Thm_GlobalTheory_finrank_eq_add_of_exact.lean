@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finrank_eq_add_of_exact
 -- name    : GlobalTheory.finrank_eq_add_of_exact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:47:30.615826+00:00
 -- url     : https://prove2.me/theorems/498b1e22-8aa8-49b0-95b6-652a93db725a

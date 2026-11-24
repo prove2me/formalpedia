@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cell_columns_saturated_and_triangular
 -- name    : GlobalTheory.cell_columns_saturated_and_triangular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:07:46.428412+00:00
 -- url     : https://prove2.me/theorems/a3e72dbc-5887-48f1-8850-60213f3369e2

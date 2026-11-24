@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_submodules_between_smul_and_self
 -- name    : GlobalTheory.finite_submodules_between_smul_and_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:47:10.84893+00:00
 -- url     : https://prove2.me/theorems/b3ada93a-3073-427e-9c3a-1823bb554540

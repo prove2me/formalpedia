@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_solCount_one
 -- name    : GlobalTheory.CompanionTheory.UnrDens.solCount_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:20:10.403926+00:00
 -- url     : https://prove2.me/theorems/4a4d93e0-9575-4c45-9310-845f3abcb771

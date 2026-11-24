@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeTateImage_eq_of_forall
 -- name    : GlobalTheory.HodgeTateImage.eq_of_forall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:47:21.669351+00:00
 -- url     : https://prove2.me/theorems/6848d4d9-d08e-4dbd-834d-251a5528781d

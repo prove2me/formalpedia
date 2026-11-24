@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_rank_two_vector_ne_zero
 -- name    : Formalism.CohomologicalDescent.LD.rank_two_vector_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:42:11.699804+00:00
 -- url     : https://prove2.me/theorems/c2239cc2-fe54-45b9-b5b5-ec986770d13b

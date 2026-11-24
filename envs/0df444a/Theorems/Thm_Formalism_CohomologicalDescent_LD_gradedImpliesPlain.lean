@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_gradedImpliesPlain
 -- name    : Formalism.CohomologicalDescent.LD.gradedImpliesPlain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:41:27.285211+00:00
 -- url     : https://prove2.me/theorems/13cb69b3-f7a8-45a9-9261-bf591c608250

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_weight_idempotent
 -- name    : GlobalTheory.exists_weight_idempotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:45:40.06087+00:00
 -- url     : https://prove2.me/theorems/4a3e0f92-7714-46b8-8813-160c732eff09

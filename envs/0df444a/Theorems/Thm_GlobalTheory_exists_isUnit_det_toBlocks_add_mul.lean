@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isUnit_det_toBlocks_add_mul
 -- name    : GlobalTheory.exists_isUnit_det_toBlocks_add_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:33:05.959171+00:00
 -- url     : https://prove2.me/theorems/05dc4196-b154-46ca-948d-f015a8b1348f

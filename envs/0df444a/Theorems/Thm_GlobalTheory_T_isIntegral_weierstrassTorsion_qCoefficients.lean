@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isIntegral_weierstrassTorsion_qCoefficients
 -- name    : GlobalTheory.T.isIntegral_weierstrassTorsion_qCoefficients
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:12:17.515602+00:00
 -- url     : https://prove2.me/theorems/e078da3d-60a5-4dc3-911b-ac2c17495e3f

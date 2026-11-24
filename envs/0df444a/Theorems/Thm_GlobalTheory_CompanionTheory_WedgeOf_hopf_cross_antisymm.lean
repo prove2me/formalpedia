@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WedgeOf_hopf_cross_antisymm
 -- name    : GlobalTheory.CompanionTheory.WedgeOf.hopf_cross_antisymm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:33:03.383886+00:00
 -- url     : https://prove2.me/theorems/cff1a7b3-e54a-4cf0-aea5-b36fb791527b

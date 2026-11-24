@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_smul_mem_formCombinations
 -- name    : GlobalTheory.exists_smul_mem_formCombinations
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:41:59.747283+00:00
 -- url     : https://prove2.me/theorems/79fabe61-ac28-4b20-b677-e39cff396ab9

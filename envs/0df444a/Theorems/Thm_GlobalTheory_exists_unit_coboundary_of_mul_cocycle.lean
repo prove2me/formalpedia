@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_unit_coboundary_of_mul_cocycle
 -- name    : GlobalTheory.exists_unit_coboundary_of_mul_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:45:53.941593+00:00
 -- url     : https://prove2.me/theorems/090ff81f-57aa-4528-a76a-0f6572ba493e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_RayEx_ne_zero_of_sub_one_mem
 -- name    : GlobalTheory.Mem.RayEx.ne_zero_of_sub_one_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:45:20.390272+00:00
 -- url     : https://prove2.me/theorems/89cdac7e-fbf2-4cc6-aaa1-5008229b4798

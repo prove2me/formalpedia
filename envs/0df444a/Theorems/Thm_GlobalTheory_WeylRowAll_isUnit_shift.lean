@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeylRowAll_isUnit_shift
 -- name    : GlobalTheory.WeylRowAll.isUnit_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:33:02.233813+00:00
 -- url     : https://prove2.me/theorems/b03d97fc-5018-4dbe-81df-5f56d10ba59b

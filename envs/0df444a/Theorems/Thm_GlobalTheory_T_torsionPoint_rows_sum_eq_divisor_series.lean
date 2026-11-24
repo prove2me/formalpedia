@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_torsionPoint_rows_sum_eq_divisor_series
 -- name    : GlobalTheory.T.torsionPoint_rows_sum_eq_divisor_series
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:29:11.841568+00:00
 -- url     : https://prove2.me/theorems/cb411b8e-965b-4185-8731-6d1f30632158

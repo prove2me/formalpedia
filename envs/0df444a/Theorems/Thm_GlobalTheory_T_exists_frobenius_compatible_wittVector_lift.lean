@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_frobenius_compatible_wittVector_lift
 -- name    : GlobalTheory.T.exists_frobenius_compatible_wittVector_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:36:23.338226+00:00
 -- url     : https://prove2.me/theorems/485a489d-1db7-40cf-a7b9-1fa943c7df77

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_encard_setOf_index_eq_le
 -- name    : GlobalTheory.encard_setOf_index_eq_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:45:20.333795+00:00
 -- url     : https://prove2.me/theorems/2117979d-a0f8-40a1-935a-d7133f796880

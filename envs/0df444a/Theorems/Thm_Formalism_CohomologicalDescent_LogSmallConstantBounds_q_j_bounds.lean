@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_q_j_bounds
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.q_j_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:44:44.551996+00:00
 -- url     : https://prove2.me/theorems/f9040813-9e4f-424f-83e7-4195deaf56ca

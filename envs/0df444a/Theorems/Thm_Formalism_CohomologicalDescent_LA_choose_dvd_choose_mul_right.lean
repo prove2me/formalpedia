@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_choose_dvd_choose_mul_right
 -- name    : Formalism.CohomologicalDescent.LA.choose_dvd_choose_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:49:58.084607+00:00
 -- url     : https://prove2.me/theorems/f66cdbe1-c2ce-4de2-b562-4ba8e6e3188c

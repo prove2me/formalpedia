@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_testRing_universal_partially_invertible
 -- name    : GlobalTheory.exists_testRing_universal_partially_invertible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:42:32.526874+00:00
 -- url     : https://prove2.me/theorems/7556a129-962c-474c-8f88-878e6256c4a1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZetaHalfPlane_zeta_eq
 -- name    : GlobalTheory.ZetaHalfPlane.zeta_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:04:32.971626+00:00
 -- url     : https://prove2.me/theorems/15e29e5e-c18f-4b4b-8c7c-75f2c808d49b

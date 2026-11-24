@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JacquetExact_isSubquotient_jac
 -- name    : GlobalTheory.JacquetExact.isSubquotient_jac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:09:23.980109+00:00
 -- url     : https://prove2.me/theorems/6463df0e-4a61-4d5a-aa9b-1ded8cd1b261

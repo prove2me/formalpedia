@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_valuationSubring_comap_eq
 -- name    : GlobalTheory.exists_valuationSubring_comap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:45:52.224669+00:00
 -- url     : https://prove2.me/theorems/d1587a37-8264-4093-9530-0831cd514702

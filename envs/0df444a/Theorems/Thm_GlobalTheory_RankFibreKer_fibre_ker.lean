@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankFibreKer_fibre_ker
 -- name    : GlobalTheory.RankFibreKer.fibre_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:14:15.00407+00:00
 -- url     : https://prove2.me/theorems/08e98f6e-26d1-4c01-afd6-0467405b8c7b

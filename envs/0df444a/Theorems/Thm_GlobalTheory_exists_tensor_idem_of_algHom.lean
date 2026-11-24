@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_tensor_idem_of_algHom
 -- name    : GlobalTheory.exists_tensor_idem_of_algHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:42:34.881147+00:00
 -- url     : https://prove2.me/theorems/92446690-6bd0-4624-8a64-33c5515f68df

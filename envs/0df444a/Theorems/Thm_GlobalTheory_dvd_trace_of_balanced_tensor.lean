@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dvd_trace_of_balanced_tensor
 -- name    : GlobalTheory.dvd_trace_of_balanced_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:16:49.747967+00:00
 -- url     : https://prove2.me/theorems/c6ab68b2-11b6-442f-a5fb-58dd2811364c

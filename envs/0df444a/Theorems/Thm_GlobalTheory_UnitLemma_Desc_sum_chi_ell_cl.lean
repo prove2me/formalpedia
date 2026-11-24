@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_sum_chi_ell_cl
 -- name    : GlobalTheory.UnitLemma.Desc.sum_chi_ell_cl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:28:15.072812+00:00
 -- url     : https://prove2.me/theorems/b904ba9c-a6c4-4feb-944f-5dc0826258be

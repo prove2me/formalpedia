@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cmValues_minPadicVal_bound
 -- name    : GlobalTheory.cmValues_minPadicVal_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:08:20.130453+00:00
 -- url     : https://prove2.me/theorems/3f809c27-a5b3-47ae-9bf0-1681c803c079

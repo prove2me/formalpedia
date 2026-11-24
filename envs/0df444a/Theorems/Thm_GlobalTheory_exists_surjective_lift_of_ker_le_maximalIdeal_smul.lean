@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_surjective_lift_of_ker_le_maximalIdeal_smul
 -- name    : GlobalTheory.exists_surjective_lift_of_ker_le_maximalIdeal_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:42:31.717165+00:00
 -- url     : https://prove2.me/theorems/5fde7d76-c4ca-468f-a136-d346c7a41910

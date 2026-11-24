@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightedInverseBound_bound_one_add
 -- name    : GlobalTheory.WeightedInverseBound.bound_one_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:53:45.0403+00:00
 -- url     : https://prove2.me/theorems/c450a6b4-49de-42c8-b9f7-aeab1e30ebcc

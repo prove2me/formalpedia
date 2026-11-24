@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_GL_mul_rightColumns_eq_zero_of_rank
 -- name    : GlobalTheory.T.exists_GL_mul_rightColumns_eq_zero_of_rank
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:14:31.457038+00:00
 -- url     : https://prove2.me/theorems/7dd8d316-2fa7-4751-acac-05d8243d9a29

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_dual_latOf_eq_latOf_traceDual
 -- name    : GlobalTheory.LipschitzTR.dual_latOf_eq_latOf_traceDual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:08:47.160786+00:00
 -- url     : https://prove2.me/theorems/45cc1dba-d396-4c85-a1b7-2135ea599cb3

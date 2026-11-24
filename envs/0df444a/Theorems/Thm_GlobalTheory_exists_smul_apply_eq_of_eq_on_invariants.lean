@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_smul_apply_eq_of_eq_on_invariants
 -- name    : GlobalTheory.exists_smul_apply_eq_of_eq_on_invariants
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:42:38.626259+00:00
 -- url     : https://prove2.me/theorems/028c6b40-4f06-4b2b-b928-882d251296d4

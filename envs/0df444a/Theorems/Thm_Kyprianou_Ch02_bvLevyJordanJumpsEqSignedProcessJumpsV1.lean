@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_bvLevyJordanJumpsEqSignedProcessJumpsV1
 -- name    : Kyprianou.Ch02.bvLevyJordanJumpsEqSignedProcessJumpsV1
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T17:23:14.291836+00:00
 -- url     : https://prove2.me/theorems/7ccedcbf-e1dc-4e69-94f2-d379f9c298ec

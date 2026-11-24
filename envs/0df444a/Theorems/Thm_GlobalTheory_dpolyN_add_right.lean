@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dpolyN_add_right
 -- name    : GlobalTheory.dpolyN_add_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:16:47.903168+00:00
 -- url     : https://prove2.me/theorems/461c22bb-5597-4802-91d1-dbf4820339e2

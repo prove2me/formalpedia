@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_la_incl_of_le
 -- name    : Formalism.CohomologicalDescent.LA.la_incl_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:49:55.937805+00:00
 -- url     : https://prove2.me/theorems/1506ee64-7fba-474e-bce6-d2323f274b42

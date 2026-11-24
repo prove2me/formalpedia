@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_iwasawa_decomposition_upperTriangular
 -- name    : GlobalTheory.T.iwasawa_decomposition_upperTriangular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:51:35.887124+00:00
 -- url     : https://prove2.me/theorems/ef52e641-d662-4bb5-8631-e99424deed38

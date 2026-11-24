@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KaScale_valT_comp
 -- name    : GlobalTheory.KaScale.valT_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:45:52.755566+00:00
 -- url     : https://prove2.me/theorems/e664dccb-1d09-4d17-95be-7386590b9393

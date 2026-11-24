@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_stable_isAffineOpen
 -- name    : GlobalTheory.exists_stable_isAffineOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:42:45.729945+00:00
 -- url     : https://prove2.me/theorems/ad746fd7-3a91-4090-8566-151cb7685e95

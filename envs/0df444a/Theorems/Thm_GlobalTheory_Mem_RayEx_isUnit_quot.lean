@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_RayEx_isUnit_quot
 -- name    : GlobalTheory.Mem.RayEx.isUnit_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:45:19.924994+00:00
 -- url     : https://prove2.me/theorems/11f7f674-f028-4936-ae44-96c50f1e0d5e

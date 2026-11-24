@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finrank_le_sum_norm_of_isIntegral
 -- name    : GlobalTheory.finrank_le_sum_norm_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:14:10.407989+00:00
 -- url     : https://prove2.me/theorems/2f84c2bf-e684-40ba-b586-da0efd4ca10a

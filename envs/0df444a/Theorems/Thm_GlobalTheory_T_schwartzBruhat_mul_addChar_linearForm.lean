@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartzBruhat_mul_addChar_linearForm
 -- name    : GlobalTheory.T.schwartzBruhat_mul_addChar_linearForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:46:20.338823+00:00
 -- url     : https://prove2.me/theorems/4c973153-bf8b-44ba-8618-d2dc82a3076e

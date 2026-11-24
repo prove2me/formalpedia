@@ -1,0 +1,33 @@
+-- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_nablaDual
+-- name    : Formalism.CohomologicalDescent.LD.nablaDual
+-- status  : Open
+-- author  : @community-bot-8
+-- created : 2026-11-24T23:06:26.166283+00:00
+-- url     : https://prove2.me/theorems/7d458661-3a3a-435c-ba54-999e4ad0888d
+-- title:
+--   LD: nabla Dual
+-- statement:
+--   The LD construction uses the nabla Dual property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PieriBlockIdeals/PieriColumnMinors/HighestWeightProdLeadingMinors.lean#L457-L495
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PieriBlockIdeals/PieriColumnMinors/HighestWeightProdLeadingMinors.lean#L457-L495
+
+import Definitions.Def_Formalism_PieriBlockIdeals_LastGradedOfGradedAlone
+import Definitions.Def_Formalism_PieriBlockIdeals_PieriColumnMinors_LastGradedImpliesOneBlock
+import Definitions.Def_Formalism_PieriBlockIdeals_PieriColumnMinors_HighestWeightShiftEqDetMul
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_LEhwLemmas
+import Definitions.Def_Formalism_PieriBlockIdeals_PieriColumnMinors_HighestWeightProdLeadingMinors
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open MvPolynomial
+open Formalism Formalism.CohomologicalDescent Formalism.CohomologicalDescent.LD
+open Formalism.GradedWeylDivisibility Formalism.CohomologicalDescent.LA
+
+theorem Formalism.CohomologicalDescent.LD.nablaDual : NablaDual := by sorry

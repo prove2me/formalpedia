@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_quotient_of_complete_nakayama
 -- name    : GlobalTheory.finite_quotient_of_complete_nakayama
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:47:11.31096+00:00
 -- url     : https://prove2.me/theorems/e0e79632-1c7d-4402-8919-06677c36c8c8

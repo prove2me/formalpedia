@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_log_div_prime_nonneg
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.log_div_prime_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:44:29.14439+00:00
 -- url     : https://prove2.me/theorems/74f983c8-67d1-449a-90eb-a4765fd697dc

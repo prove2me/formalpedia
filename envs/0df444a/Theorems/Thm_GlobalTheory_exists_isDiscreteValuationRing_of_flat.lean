@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isDiscreteValuationRing_of_flat
 -- name    : GlobalTheory.exists_isDiscreteValuationRing_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:51:33.365796+00:00
 -- url     : https://prove2.me/theorems/13824421-f987-44fb-938e-ec7aa8a949e5

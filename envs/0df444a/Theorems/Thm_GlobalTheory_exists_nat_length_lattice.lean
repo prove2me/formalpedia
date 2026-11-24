@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_nat_length_lattice
 -- name    : GlobalTheory.exists_nat_length_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:35:50.449867+00:00
 -- url     : https://prove2.me/theorems/197b6530-9bb4-4518-81d3-040b507511f2

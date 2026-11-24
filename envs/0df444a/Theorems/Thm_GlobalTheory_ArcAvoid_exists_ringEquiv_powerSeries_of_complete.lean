@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcAvoid_exists_ringEquiv_powerSeries_of_complete
 -- name    : GlobalTheory.ArcAvoid.exists_ringEquiv_powerSeries_of_complete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:58:35.087374+00:00
 -- url     : https://prove2.me/theorems/69314e51-8cff-46c7-901c-af261f23676d

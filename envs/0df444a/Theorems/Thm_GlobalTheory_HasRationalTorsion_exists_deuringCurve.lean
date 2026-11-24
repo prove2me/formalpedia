@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HasRationalTorsion_exists_deuringCurve
 -- name    : GlobalTheory.HasRationalTorsion.exists_deuringCurve
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:35:59.53417+00:00
 -- url     : https://prove2.me/theorems/441be2d3-85ae-4364-bc0d-f37e9d5a3834

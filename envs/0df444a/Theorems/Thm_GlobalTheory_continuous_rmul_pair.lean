@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_continuous_rmul_pair
 -- name    : GlobalTheory.continuous_rmul_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:15:19.889021+00:00
 -- url     : https://prove2.me/theorems/36baf31e-a3e1-4d25-9c87-94edf81976c2

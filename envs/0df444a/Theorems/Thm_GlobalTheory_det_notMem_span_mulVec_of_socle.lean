@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_notMem_span_mulVec_of_socle
 -- name    : GlobalTheory.det_notMem_span_mulVec_of_socle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:15:56.100154+00:00
 -- url     : https://prove2.me/theorems/2c72e9bc-73a9-4594-8f81-989fe5bf52ff

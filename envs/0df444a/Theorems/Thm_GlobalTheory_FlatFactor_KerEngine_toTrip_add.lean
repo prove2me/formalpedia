@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatFactor_KerEngine_toTrip_add
 -- name    : GlobalTheory.FlatFactor.KerEngine.toTrip_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:38:28.157945+00:00
 -- url     : https://prove2.me/theorems/604e9151-b719-493c-8466-914e56faf81d

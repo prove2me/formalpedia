@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_integral_comb_induced_linear_not_dvd
 -- name    : GlobalTheory.T.exists_integral_comb_induced_linear_not_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:35:25.198067+00:00
 -- url     : https://prove2.me/theorems/2b59b8bc-43e1-45f0-b1fe-0fe04b378306

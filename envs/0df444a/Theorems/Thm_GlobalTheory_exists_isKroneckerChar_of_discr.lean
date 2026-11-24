@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isKroneckerChar_of_discr
 -- name    : GlobalTheory.exists_isKroneckerChar_of_discr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:33:01.882183+00:00
 -- url     : https://prove2.me/theorems/0da48aa8-d7cf-4e49-a567-e902cce62285

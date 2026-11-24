@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_sum_tmul_linearIndependent
 -- name    : GlobalTheory.exists_sum_tmul_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:42:29.250218+00:00
 -- url     : https://prove2.me/theorems/ca0897d3-f643-4e26-b5d7-0da0616d17e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_SymmetricSexticResidual_Proof_localQ5_euler_weights
 -- name    : HodgeComputer.SymmetricSexticResidual.Proof.localQ5_euler_weights
--- status  : Open
+-- status  : Proved
 -- author  : @benediamond
 -- created : 2026-11-24T22:43:18.877981+00:00
 -- url     : https://prove2.me/theorems/f52067b7-f490-4b9c-9994-5be4465d91ca

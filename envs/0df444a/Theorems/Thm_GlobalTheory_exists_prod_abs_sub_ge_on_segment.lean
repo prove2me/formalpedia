@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_prod_abs_sub_ge_on_segment
 -- name    : GlobalTheory.exists_prod_abs_sub_ge_on_segment
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:41:34.213415+00:00
 -- url     : https://prove2.me/theorems/a8a6daee-fcbd-481f-9cb2-ecd3d640de8d

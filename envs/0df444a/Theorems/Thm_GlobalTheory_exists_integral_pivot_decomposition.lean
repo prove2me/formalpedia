@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_integral_pivot_decomposition
 -- name    : GlobalTheory.exists_integral_pivot_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:33:29.76457+00:00
 -- url     : https://prove2.me/theorems/b7201f90-6518-4e32-a1c7-684a2b4c7313

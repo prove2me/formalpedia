@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZJ_etale_mulN_and_isOpen_om_of_isSemiAbelian
 -- name    : GlobalTheory.ZJ.etale_mulN_and_isOpen_om_of_isSemiAbelian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:03:30.866602+00:00
 -- url     : https://prove2.me/theorems/ebe6df2c-3c1a-45a9-b0d1-6ffc5fdd6f71

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymChain_PrImage_entry_cases
 -- name    : GlobalTheory.SymChain.PrImage.entry_cases
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:35:55.537317+00:00
 -- url     : https://prove2.me/theorems/f7e4bddc-9a30-4053-be0e-3087f33f4e35

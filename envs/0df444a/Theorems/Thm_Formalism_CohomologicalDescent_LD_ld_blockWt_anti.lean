@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_ld_blockWt_anti
 -- name    : Formalism.CohomologicalDescent.LD.ld_blockWt_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:41:34.794015+00:00
 -- url     : https://prove2.me/theorems/0b6adc4b-6bfd-45df-8f31-d1cf30241597

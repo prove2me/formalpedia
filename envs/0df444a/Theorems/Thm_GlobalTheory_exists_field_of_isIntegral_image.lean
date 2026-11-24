@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_field_of_isIntegral_image
 -- name    : GlobalTheory.exists_field_of_isIntegral_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:31:18.38264+00:00
 -- url     : https://prove2.me/theorems/772c4404-cf8e-4916-81f8-36c75a5becd9

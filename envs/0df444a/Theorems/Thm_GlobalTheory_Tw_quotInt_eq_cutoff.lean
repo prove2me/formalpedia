@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_quotInt_eq_cutoff
 -- name    : GlobalTheory.Tw.quotInt_eq_cutoff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:49:22.979107+00:00
 -- url     : https://prove2.me/theorems/f2bbc6ce-44bb-4851-aeba-36a08df753b0

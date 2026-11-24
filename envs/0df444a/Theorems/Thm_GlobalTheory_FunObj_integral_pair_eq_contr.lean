@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_integral_pair_eq_contr
 -- name    : GlobalTheory.FunObj.integral_pair_eq_contr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:35:47.748577+00:00
 -- url     : https://prove2.me/theorems/0b382f1b-6faa-4536-a921-37dd8f340c58

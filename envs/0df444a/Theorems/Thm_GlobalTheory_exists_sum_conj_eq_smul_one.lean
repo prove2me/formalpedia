@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_sum_conj_eq_smul_one
 -- name    : GlobalTheory.exists_sum_conj_eq_smul_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:41:56.306914+00:00
 -- url     : https://prove2.me/theorems/74584584-1e50-4f40-bcd2-29e7fa6b7e51

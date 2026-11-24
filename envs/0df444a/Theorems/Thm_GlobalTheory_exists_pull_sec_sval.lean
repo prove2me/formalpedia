@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_pull_sec_sval
 -- name    : GlobalTheory.exists_pull_sec_sval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:41:43.390602+00:00
 -- url     : https://prove2.me/theorems/393a208a-2e24-4126-8d97-751c3f292c05

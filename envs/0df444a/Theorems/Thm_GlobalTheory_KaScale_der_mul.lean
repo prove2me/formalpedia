@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KaScale_der_mul
 -- name    : GlobalTheory.KaScale.der_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:46:16.135068+00:00
 -- url     : https://prove2.me/theorems/46438750-4e7b-4648-947d-b735547cafac

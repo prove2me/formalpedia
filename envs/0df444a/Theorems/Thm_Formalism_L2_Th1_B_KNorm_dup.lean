@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_KNorm_dup
 -- name    : Formalism.L2.Th1.B.KNorm.dup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:47:13.034553+00:00
 -- url     : https://prove2.me/theorems/d385a594-3cb5-4e05-9847-342660623349

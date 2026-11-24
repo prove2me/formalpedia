@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeylRowAll_coeffMap_mem_weyl
 -- name    : GlobalTheory.WeylRowAll.coeffMap_mem_weyl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:41:36.701332+00:00
 -- url     : https://prove2.me/theorems/dedc930b-75f3-4ad9-8e92-96cc687c9914

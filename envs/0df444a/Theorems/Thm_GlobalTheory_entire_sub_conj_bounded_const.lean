@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_entire_sub_conj_bounded_const
 -- name    : GlobalTheory.entire_sub_conj_bounded_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:17:24.906653+00:00
 -- url     : https://prove2.me/theorems/9b75106e-facb-4d15-80bf-7e9154764e39

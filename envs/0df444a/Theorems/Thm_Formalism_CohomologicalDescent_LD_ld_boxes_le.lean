@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_ld_boxes_le
 -- name    : Formalism.CohomologicalDescent.LD.ld_boxes_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:41:06.276806+00:00
 -- url     : https://prove2.me/theorems/73b20c65-5e1a-4bf4-a8de-824c1304c5cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_representatives_quotient_range_mulVecLin
 -- name    : GlobalTheory.exists_representatives_quotient_range_mulVecLin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:41:22.231805+00:00
 -- url     : https://prove2.me/theorems/687585be-ecbb-4696-99e5-31cf20ceb3a4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_sectionCoordinateVector_exists_locally
 -- name    : GlobalTheory.T.sectionCoordinateVector_exists_locally
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:19:59.367326+00:00
 -- url     : https://prove2.me/theorems/66b5c665-ae3d-4c98-b2ff-a3de801c6a9d

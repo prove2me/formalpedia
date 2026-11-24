@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cotangent_relation_derivation
 -- name    : GlobalTheory.cotangent_relation_derivation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:15:31.764829+00:00
 -- url     : https://prove2.me/theorems/9145a481-dea1-4e6a-b04d-0e38f26d08e2

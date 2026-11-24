@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_ringHom_extend_of_ker_mem_range_comap
 -- name    : GlobalTheory.exists_ringHom_extend_of_ker_mem_range_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:41:34.501916+00:00
 -- url     : https://prove2.me/theorems/c4a80d36-69ed-41d1-b91a-a6be118658c2

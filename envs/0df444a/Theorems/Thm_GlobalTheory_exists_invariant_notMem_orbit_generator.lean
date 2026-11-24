@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_invariant_notMem_orbit_generator
 -- name    : GlobalTheory.exists_invariant_notMem_orbit_generator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:33:26.048172+00:00
 -- url     : https://prove2.me/theorems/e308852b-07b7-4330-af4f-ac42dffdb471

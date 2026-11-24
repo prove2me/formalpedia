@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_toNat_xlo_sub_maxB_bounds
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.toNat_xlo_sub_maxB_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:44:37.770553+00:00
 -- url     : https://prove2.me/theorems/e7b28bed-9294-4fa5-b847-16ad68a3720d

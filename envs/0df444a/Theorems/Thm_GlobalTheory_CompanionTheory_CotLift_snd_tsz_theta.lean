@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CotLift_snd_tsz_theta
 -- name    : GlobalTheory.CompanionTheory.CotLift.snd_tsz_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:22:41.974418+00:00
 -- url     : https://prove2.me/theorems/7daae660-13a7-4d94-b6f5-e35f14a8a7b5

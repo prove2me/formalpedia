@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_finset_cosets_integral_norm_units
 -- name    : GlobalTheory.T.exists_finset_cosets_integral_norm_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:35:42.319387+00:00
 -- url     : https://prove2.me/theorems/e945219e-0aaa-4019-9268-5da534ac7b5e

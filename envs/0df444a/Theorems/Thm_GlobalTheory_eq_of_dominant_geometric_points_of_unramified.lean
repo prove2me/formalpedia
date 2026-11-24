@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_of_dominant_geometric_points_of_unramified
 -- name    : GlobalTheory.eq_of_dominant_geometric_points_of_unramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:17:39.222438+00:00
 -- url     : https://prove2.me/theorems/c281c500-51e1-400f-8e08-25e9fb1cdf48

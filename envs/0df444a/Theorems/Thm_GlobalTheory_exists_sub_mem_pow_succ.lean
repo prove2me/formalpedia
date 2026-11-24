@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_sub_mem_pow_succ
 -- name    : GlobalTheory.exists_sub_mem_pow_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:42:14.781933+00:00
 -- url     : https://prove2.me/theorems/1314628c-4d93-49b2-86af-d31de40d619f

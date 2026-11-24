@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZModDual_card_ker_mul_card_eq
 -- name    : GlobalTheory.ZModDual.card_ker_mul_card_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:03:51.229747+00:00
 -- url     : https://prove2.me/theorems/734570fc-8dac-4953-8c43-30273fb12c98

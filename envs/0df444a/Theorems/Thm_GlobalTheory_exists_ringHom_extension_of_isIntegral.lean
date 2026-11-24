@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_ringHom_extension_of_isIntegral
 -- name    : GlobalTheory.exists_ringHom_extension_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:40:51.217696+00:00
 -- url     : https://prove2.me/theorems/29ff6a4f-a790-46c2-b6fe-3c00936e994c

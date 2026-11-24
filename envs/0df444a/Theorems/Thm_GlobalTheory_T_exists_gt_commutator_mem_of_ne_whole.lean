@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_gt_commutator_mem_of_ne_whole
 -- name    : GlobalTheory.T.exists_gt_commutator_mem_of_ne_whole
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:36:35.771071+00:00
 -- url     : https://prove2.me/theorems/baa30490-0dc4-4eab-bbb4-d4e22cd22b49

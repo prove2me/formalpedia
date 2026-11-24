@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LR_lrb_pi_single_cast
 -- name    : Formalism.CohomologicalDescent.LR.lrb_pi_single_cast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:48:59.400273+00:00
 -- url     : https://prove2.me/theorems/09240a21-9226-401a-b9c4-0ff7e252d216

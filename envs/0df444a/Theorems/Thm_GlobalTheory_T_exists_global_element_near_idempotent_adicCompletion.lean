@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_global_element_near_idempotent_adicCompletion
 -- name    : GlobalTheory.T.exists_global_element_near_idempotent_adicCompletion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:36:09.263803+00:00
 -- url     : https://prove2.me/theorems/8166f728-6cf7-4a08-a812-9a9649d9564c

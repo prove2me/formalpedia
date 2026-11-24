@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_enum_ker_transpose_similitude_points
 -- name    : GlobalTheory.T.exists_enum_ker_transpose_similitude_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:34:13.828238+00:00
 -- url     : https://prove2.me/theorems/50e6800b-254e-44a5-9837-31371edc0395

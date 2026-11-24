@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_pseudoCoords
 -- name    : GlobalTheory.exists_pseudoCoords
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:13:25.191678+00:00
 -- url     : https://prove2.me/theorems/e245c251-81f4-4a65-a2d4-758c676f8742

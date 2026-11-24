@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PfBern_Frob_fap_smul
 -- name    : PositivityTheory.PfBern.Frob.fap_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:25:01.327567+00:00
 -- url     : https://prove2.me/theorems/bea1f253-8687-49cd-a565-637c68bd3860

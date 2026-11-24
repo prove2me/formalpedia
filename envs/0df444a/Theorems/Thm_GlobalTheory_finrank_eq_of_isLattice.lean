@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finrank_eq_of_isLattice
 -- name    : GlobalTheory.finrank_eq_of_isLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:47:24.029833+00:00
 -- url     : https://prove2.me/theorems/381e140f-fe60-4907-9e35-809d0f4ffac1

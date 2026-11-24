@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_GelfGen_permWord_low
 -- name    : GlobalTheory.SmoothForms.GelfGen.permWord_low
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:28:56.177837+00:00
 -- url     : https://prove2.me/theorems/63b4316b-3272-42d2-a554-0d3d8c0be30d

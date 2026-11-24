@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PosOne_Unif_comb_eq_lc
 -- name    : GlobalTheory.PosOne.Unif.comb_eq_lc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:42:24.65599+00:00
 -- url     : https://prove2.me/theorems/04514f2c-e8b7-4cd8-9cc2-176e7796fc37

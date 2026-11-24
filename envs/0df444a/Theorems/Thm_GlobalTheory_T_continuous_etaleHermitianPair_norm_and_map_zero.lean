@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_continuous_etaleHermitianPair_norm_and_map_zero
 -- name    : GlobalTheory.T.continuous_etaleHermitianPair_norm_and_map_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:31:46.642802+00:00
 -- url     : https://prove2.me/theorems/a81cbe2c-cd74-4333-8d65-46c64b741ebc

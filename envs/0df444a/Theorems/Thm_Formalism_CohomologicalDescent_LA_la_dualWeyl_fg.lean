@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_la_dualWeyl_fg
 -- name    : Formalism.CohomologicalDescent.LA.la_dualWeyl_fg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:49:00.082157+00:00
 -- url     : https://prove2.me/theorems/9b6e9de7-e962-48d5-8aef-5f3457d3be58

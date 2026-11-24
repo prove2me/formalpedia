@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_ld_sym_rowGen
 -- name    : Formalism.CohomologicalDescent.LD.ld_sym_rowGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:41:10.691209+00:00
 -- url     : https://prove2.me/theorems/2f97dacc-cccd-450b-bb28-a6dfa0f2f7ad

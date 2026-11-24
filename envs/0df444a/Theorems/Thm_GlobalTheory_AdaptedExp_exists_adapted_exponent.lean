@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdaptedExp_exists_adapted_exponent
 -- name    : GlobalTheory.AdaptedExp.exists_adapted_exponent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:11:34.767829+00:00
 -- url     : https://prove2.me/theorems/b0973e86-14a6-4fe0-a70a-9cbfecc5bea0

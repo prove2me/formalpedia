@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_la_binForm_single
 -- name    : Formalism.CohomologicalDescent.LA.la_binForm_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:49:17.3054+00:00
 -- url     : https://prove2.me/theorems/cac38175-cb6c-48ec-8125-4639b610a610

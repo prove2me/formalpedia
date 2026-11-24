@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Wr_shearedWronskianUniqueness
 -- name    : Formalism.L2.Th1.B.Wr.shearedWronskianUniqueness
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:01:21.98024+00:00
 -- url     : https://prove2.me/theorems/16a92f80-2133-4636-b50c-60a95dac6567

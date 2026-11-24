@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Wick_dividedContraction_one
 -- name    : GlobalTheory.Wick.dividedContraction_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:34:51.699205+00:00
 -- url     : https://prove2.me/theorems/1a63aedf-fde2-4ceb-add5-0550587c982e

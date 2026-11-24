@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PairCount_card_annihilator_mul_card
 -- name    : GlobalTheory.CompanionTheory.PairCount.card_annihilator_mul_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:54:37.874804+00:00
 -- url     : https://prove2.me/theorems/5e9d5202-df52-4a79-938c-69630fdaa9ca

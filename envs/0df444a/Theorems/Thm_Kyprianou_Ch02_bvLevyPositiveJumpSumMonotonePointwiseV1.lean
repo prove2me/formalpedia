@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_bvLevyPositiveJumpSumMonotonePointwiseV1
 -- name    : Kyprianou.Ch02.bvLevyPositiveJumpSumMonotonePointwiseV1
--- status  : Open
+-- status  : Disproved
 -- author  : @pageman
 -- created : 2026-11-24T13:58:38.551232+00:00
 -- url     : https://prove2.me/theorems/6c6a9e08-633c-4295-be5a-afe927013dd6

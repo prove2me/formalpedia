@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_KNorm_negY_iff
 -- name    : Formalism.L2.Th1.B.KNorm.negY_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:46:44.493404+00:00
 -- url     : https://prove2.me/theorems/44cecf68-cf79-4ca5-a72a-9385ba06cf2d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_FourierJacobi_heisenberg
 -- name    : GlobalTheory.RootEx.FourierJacobi.heisenberg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:40:13.981435+00:00
 -- url     : https://prove2.me/theorems/ffc63ced-b0a6-4f07-b712-0896b523ad3d

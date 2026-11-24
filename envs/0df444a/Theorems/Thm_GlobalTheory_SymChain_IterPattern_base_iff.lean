@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymChain_IterPattern_base_iff
 -- name    : GlobalTheory.SymChain.IterPattern.base_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:38:50.217798+00:00
 -- url     : https://prove2.me/theorems/ee974a86-6ed3-4c3f-b85a-52d2e95c205a

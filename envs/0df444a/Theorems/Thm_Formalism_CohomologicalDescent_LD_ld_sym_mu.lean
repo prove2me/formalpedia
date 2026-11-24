@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_ld_sym_mu
 -- name    : Formalism.CohomologicalDescent.LD.ld_sym_mu
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:40:15.040255+00:00
 -- url     : https://prove2.me/theorems/19b0ece5-90d4-452b-b39c-edb9bb065197

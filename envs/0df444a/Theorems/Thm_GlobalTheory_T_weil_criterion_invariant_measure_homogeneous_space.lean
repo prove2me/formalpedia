@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_weil_criterion_invariant_measure_homogeneous_space
 -- name    : GlobalTheory.T.weil_criterion_invariant_measure_homogeneous_space
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:00:50.225389+00:00
 -- url     : https://prove2.me/theorems/3543e653-0c90-4272-87c9-74e3568a1e33

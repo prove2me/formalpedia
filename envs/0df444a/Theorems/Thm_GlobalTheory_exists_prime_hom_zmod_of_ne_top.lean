@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_prime_hom_zmod_of_ne_top
 -- name    : GlobalTheory.exists_prime_hom_zmod_of_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:36:37.801838+00:00
 -- url     : https://prove2.me/theorems/36941fce-0994-4ca2-898f-42633741756d

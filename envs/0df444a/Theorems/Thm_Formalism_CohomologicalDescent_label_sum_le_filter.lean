@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_label_sum_le_filter
 -- name    : Formalism.CohomologicalDescent.label_sum_le_filter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:29:42.550827+00:00
 -- url     : https://prove2.me/theorems/6a498f38-6ed3-4997-a7f0-6b66aefd43b8

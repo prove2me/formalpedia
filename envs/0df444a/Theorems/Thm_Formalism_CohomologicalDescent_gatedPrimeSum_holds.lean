@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_gatedPrimeSum_holds
 -- name    : Formalism.CohomologicalDescent.gatedPrimeSum_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:37:33.546412+00:00
 -- url     : https://prove2.me/theorems/33bffc0d-10f6-4341-bdfd-7a879fc8007e

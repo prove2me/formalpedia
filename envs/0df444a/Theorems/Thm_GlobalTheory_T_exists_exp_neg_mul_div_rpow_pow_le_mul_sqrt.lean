@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_exp_neg_mul_div_rpow_pow_le_mul_sqrt
 -- name    : GlobalTheory.T.exists_exp_neg_mul_div_rpow_pow_le_mul_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:36:05.778612+00:00
 -- url     : https://prove2.me/theorems/4434a982-f853-41f4-8c7e-6cd4cb88506d

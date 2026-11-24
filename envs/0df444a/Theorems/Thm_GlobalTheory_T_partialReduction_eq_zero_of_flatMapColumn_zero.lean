@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_partialReduction_eq_zero_of_flatMapColumn_zero
 -- name    : GlobalTheory.T.partialReduction_eq_zero_of_flatMapColumn_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:46:00.711822+00:00
 -- url     : https://prove2.me/theorems/d9112f35-f08d-4d7f-a077-cce13e8268db

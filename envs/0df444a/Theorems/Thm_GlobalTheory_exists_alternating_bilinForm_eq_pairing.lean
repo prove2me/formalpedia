@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_alternating_bilinForm_eq_pairing
 -- name    : GlobalTheory.exists_alternating_bilinForm_eq_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:30:23.84246+00:00
 -- url     : https://prove2.me/theorems/70f459fb-e08e-490f-aeeb-6972baf46d27

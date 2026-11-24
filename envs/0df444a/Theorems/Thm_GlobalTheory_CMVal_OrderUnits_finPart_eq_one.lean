@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_OrderUnits_finPart_eq_one
 -- name    : GlobalTheory.CMVal.OrderUnits.finPart_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:33:50.240068+00:00
 -- url     : https://prove2.me/theorems/f8dbdb86-c371-410b-b2a5-23711b955c0c

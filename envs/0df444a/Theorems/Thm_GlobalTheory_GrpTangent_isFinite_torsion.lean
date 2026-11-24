@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpTangent_isFinite_torsion
 -- name    : GlobalTheory.GrpTangent.isFinite_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:59:47.748547+00:00
 -- url     : https://prove2.me/theorems/c1324ead-f05e-4061-acb6-cff24a92c1e7

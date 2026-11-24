@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_RayEx_rel_span
 -- name    : GlobalTheory.Mem.RayEx.rel_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:45:42.40696+00:00
 -- url     : https://prove2.me/theorems/e8ec0782-fa49-42b7-b679-c1e50ae46a56

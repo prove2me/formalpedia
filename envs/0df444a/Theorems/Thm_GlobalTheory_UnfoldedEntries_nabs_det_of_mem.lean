@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnfoldedEntries_nabs_det_of_mem
 -- name    : GlobalTheory.UnfoldedEntries.nabs_det_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:39:01.348815+00:00
 -- url     : https://prove2.me/theorems/bac8e0f6-c86b-4241-9731-72a9aff63de7

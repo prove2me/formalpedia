@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_adapted_exponent_schwartzBruhat_lastColumn
 -- name    : GlobalTheory.T.exists_adapted_exponent_schwartzBruhat_lastColumn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:19:41.242844+00:00
 -- url     : https://prove2.me/theorems/5349f1e2-1775-48da-a5a8-41b7403c1c80

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatRed_fill_eq
 -- name    : GlobalTheory.FlatRed.fill_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:34:46.198398+00:00
 -- url     : https://prove2.me/theorems/960083b2-9c26-4793-9611-3675d11f63e3

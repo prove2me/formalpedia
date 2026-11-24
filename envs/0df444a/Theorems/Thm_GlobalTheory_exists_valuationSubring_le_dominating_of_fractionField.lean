@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_valuationSubring_le_dominating_of_fractionField
 -- name    : GlobalTheory.exists_valuationSubring_le_dominating_of_fractionField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:45:13.549393+00:00
 -- url     : https://prove2.me/theorems/a630604f-0782-41fa-bd1e-d4037b4af31d

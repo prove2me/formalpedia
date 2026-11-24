@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_padicNorm_one_of_selfDual_hermitian_lattice
 -- name    : GlobalTheory.T.exists_padicNorm_one_of_selfDual_hermitian_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:36:28.301921+00:00
 -- url     : https://prove2.me/theorems/38c1569c-e75f-465d-a891-8a0d92dcf543

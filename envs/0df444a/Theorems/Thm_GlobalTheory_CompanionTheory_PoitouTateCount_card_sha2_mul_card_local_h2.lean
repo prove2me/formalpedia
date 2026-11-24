@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PoitouTateCount_card_sha2_mul_card_local_h2
 -- name    : GlobalTheory.CompanionTheory.PoitouTateCount.card_sha2_mul_card_local_h2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:55:05.073958+00:00
 -- url     : https://prove2.me/theorems/647ce355-2c05-48c3-ba0c-d97823c3dfa5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PosOne_Unif_comb_translate
 -- name    : GlobalTheory.PosOne.Unif.comb_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:42:17.393222+00:00
 -- url     : https://prove2.me/theorems/11bd0b59-13a3-4b11-83ea-7d2b09a78fba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_smooth_compactSupport_hasSum_lattice_translates
 -- name    : GlobalTheory.exists_smooth_compactSupport_hasSum_lattice_translates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:42:06.715211+00:00
 -- url     : https://prove2.me/theorems/7e5bf4aa-37a9-4179-a53e-3e36daae3985

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_expSeries_contDiff_and_hasDerivAt
 -- name    : GlobalTheory.expSeries_contDiff_and_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:46:29.054104+00:00
 -- url     : https://prove2.me/theorems/82809954-41b9-4b12-b00f-e66bd2cf96f9

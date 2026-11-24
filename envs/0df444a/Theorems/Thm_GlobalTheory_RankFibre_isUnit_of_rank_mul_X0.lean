@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankFibre_isUnit_of_rank_mul_X0
 -- name    : GlobalTheory.RankFibre.isUnit_of_rank_mul_X0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:31:32.581527+00:00
 -- url     : https://prove2.me/theorems/441e6b8d-6629-4105-81ac-0b3c82786df5

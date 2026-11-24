@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_expSum_sub_int
 -- name    : GlobalTheory.expSum_sub_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:46:30.4368+00:00
 -- url     : https://prove2.me/theorems/03f1f7aa-2a40-4178-8229-6cd4830add4f

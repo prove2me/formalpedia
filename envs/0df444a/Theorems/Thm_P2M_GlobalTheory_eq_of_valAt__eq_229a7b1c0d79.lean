@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_eq_of_valAt__eq_229a7b1c0d79
 -- name    : P2M_GlobalTheory_eq_of_valAt__eq_229a7b1c0d79
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:02:59.702507+00:00
 -- url     : https://prove2.me/theorems/2c8c5dc8-35d5-4007-9c05-bfdbb3a5c5bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_pow_ne_one_mod
 -- name    : GlobalTheory.exists_pow_ne_one_mod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:36:23.979808+00:00
 -- url     : https://prove2.me/theorems/1edd5e69-6806-4e00-9b2d-3f548f01de8d

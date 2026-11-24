@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HodgeTateImage_lift___a6b2a1cebbed
 -- name    : P2M_GlobalTheory_HodgeTateImage_lift___a6b2a1cebbed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:47:42.545941+00:00
 -- url     : https://prove2.me/theorems/1e0bd6d0-9615-4ddc-be5b-cdc66f65eb90

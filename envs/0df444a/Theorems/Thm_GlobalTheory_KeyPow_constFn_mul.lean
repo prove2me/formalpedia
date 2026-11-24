@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyPow_constFn_mul
 -- name    : GlobalTheory.KeyPow.constFn_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:42:45.229947+00:00
 -- url     : https://prove2.me/theorems/8d67b207-3f34-4542-8ab4-0c56232a806f

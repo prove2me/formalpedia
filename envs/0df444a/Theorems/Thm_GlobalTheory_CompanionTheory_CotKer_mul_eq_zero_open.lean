@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CotKer_mul_eq_zero_open
 -- name    : GlobalTheory.CompanionTheory.CotKer.mul_eq_zero_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:27:51.005808+00:00
 -- url     : https://prove2.me/theorems/7720a225-3ed4-4d0a-a04f-bad17f100ebf

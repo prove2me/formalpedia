@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_local_unit_of_weight
 -- name    : GlobalTheory.exists_local_unit_of_weight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:34:40.444368+00:00
 -- url     : https://prove2.me/theorems/3339578c-2f19-46b0-bd9d-371170f0a598

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_primitive_idempotent_map_eq_one
 -- name    : GlobalTheory.exists_primitive_idempotent_map_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:36:44.199283+00:00
 -- url     : https://prove2.me/theorems/51392160-5b29-46a6-aa7a-f0f1f7d3302b

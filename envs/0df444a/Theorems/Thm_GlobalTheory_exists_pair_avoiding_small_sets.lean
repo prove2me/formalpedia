@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_pair_avoiding_small_sets
 -- name    : GlobalTheory.exists_pair_avoiding_small_sets
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:36:35.964201+00:00
 -- url     : https://prove2.me/theorems/8a1420ac-73e2-4ca0-ac91-ef4e9746907e

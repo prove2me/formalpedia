@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeTateImage_pow_quot
 -- name    : GlobalTheory.HodgeTateImage.pow_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:47:52.868746+00:00
 -- url     : https://prove2.me/theorems/38d5f983-3d41-4d15-8d61-546a10b96d68

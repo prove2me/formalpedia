@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_partialReduction_eq_flatMapFourierJacobiRow
 -- name    : GlobalTheory.T.partialReduction_eq_flatMapFourierJacobiRow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:45:38.743393+00:00
 -- url     : https://prove2.me/theorems/6369996f-2f0a-4319-b673-4589960c614f

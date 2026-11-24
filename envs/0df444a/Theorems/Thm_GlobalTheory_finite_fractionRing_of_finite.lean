@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_fractionRing_of_finite
 -- name    : GlobalTheory.finite_fractionRing_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:46:09.718928+00:00
 -- url     : https://prove2.me/theorems/6799180a-0b51-4a23-8fe5-3c8b2595614c

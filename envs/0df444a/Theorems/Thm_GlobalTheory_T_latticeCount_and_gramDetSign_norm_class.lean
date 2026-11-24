@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_latticeCount_and_gramDetSign_norm_class
 -- name    : GlobalTheory.T.latticeCount_and_gramDetSign_norm_class
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:25:24.25136+00:00
 -- url     : https://prove2.me/theorems/fc7b28d9-2f51-491f-9b02-3fb13705737b

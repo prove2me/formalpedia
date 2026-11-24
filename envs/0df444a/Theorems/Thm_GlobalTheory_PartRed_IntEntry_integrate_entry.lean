@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartRed_IntEntry_integrate_entry
 -- name    : GlobalTheory.PartRed.IntEntry.integrate_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:34:59.406821+00:00
 -- url     : https://prove2.me/theorems/caec2c95-ef23-48c1-9644-2cc4acebddbd

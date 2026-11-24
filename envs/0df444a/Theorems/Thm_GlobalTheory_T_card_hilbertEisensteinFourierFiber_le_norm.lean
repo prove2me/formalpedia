@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_hilbertEisensteinFourierFiber_le_norm
 -- name    : GlobalTheory.T.card_hilbertEisensteinFourierFiber_le_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:27:54.567878+00:00
 -- url     : https://prove2.me/theorems/72f87f9a-bc23-4d53-9fb1-411c9214e78a

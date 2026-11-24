@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_nonzero_minor_of_rank
 -- name    : GlobalTheory.T.exists_nonzero_minor_of_rank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:37:06.206265+00:00
 -- url     : https://prove2.me/theorems/142eeb3b-7008-4bb1-8afc-86ec30647826

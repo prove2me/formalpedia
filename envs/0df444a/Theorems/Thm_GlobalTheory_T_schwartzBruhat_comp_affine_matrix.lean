@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartzBruhat_comp_affine_matrix
 -- name    : GlobalTheory.T.schwartzBruhat_comp_affine_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:44:45.909715+00:00
 -- url     : https://prove2.me/theorems/8aa09635-6f35-4c2c-9319-4ed98e252503

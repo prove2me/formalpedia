@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorNorm_pol_minor
 -- name    : GlobalTheory.MinorNorm.pol_minor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:28:20.520953+00:00
 -- url     : https://prove2.me/theorems/7fbeff14-8ae6-4e1a-be14-d0ef49284923

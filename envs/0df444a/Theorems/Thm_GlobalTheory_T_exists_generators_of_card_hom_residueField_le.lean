@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_generators_of_card_hom_residueField_le
 -- name    : GlobalTheory.T.exists_generators_of_card_hom_residueField_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:16:14.703972+00:00
 -- url     : https://prove2.me/theorems/238573c3-4366-4e90-965c-c08b5c4b541b

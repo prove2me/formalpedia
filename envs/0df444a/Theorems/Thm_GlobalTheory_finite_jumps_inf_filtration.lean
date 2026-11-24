@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_jumps_inf_filtration
 -- name    : GlobalTheory.finite_jumps_inf_filtration
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:46:32.098261+00:00
 -- url     : https://prove2.me/theorems/14f3a9ae-9218-4876-a944-a9eabb4c4f2e

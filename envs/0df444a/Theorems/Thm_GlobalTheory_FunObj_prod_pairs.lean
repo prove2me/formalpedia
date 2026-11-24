@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_prod_pairs
 -- name    : GlobalTheory.FunObj.prod_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:36:28.208676+00:00
 -- url     : https://prove2.me/theorems/293ab627-5dad-4c93-a996-d11ec8f3e749

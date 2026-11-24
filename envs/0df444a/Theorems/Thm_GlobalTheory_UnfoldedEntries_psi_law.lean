@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnfoldedEntries_psi_law
 -- name    : GlobalTheory.UnfoldedEntries.psi_law
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:38:07.800798+00:00
 -- url     : https://prove2.me/theorems/230f9603-78a9-4055-8b4d-f3ec381d033d

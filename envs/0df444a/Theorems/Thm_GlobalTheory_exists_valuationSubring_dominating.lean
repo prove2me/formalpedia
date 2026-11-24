@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_valuationSubring_dominating
 -- name    : GlobalTheory.exists_valuationSubring_dominating
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:45:48.38726+00:00
 -- url     : https://prove2.me/theorems/58a2b4fa-c60e-4239-a099-232cb50a6990

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JacStagesExact_isSubquotient_relJacD
 -- name    : GlobalTheory.JacStagesExact.isSubquotient_relJacD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:19:14.061747+00:00
 -- url     : https://prove2.me/theorems/6d954bd7-c46e-4109-a8a9-14264c0a8502

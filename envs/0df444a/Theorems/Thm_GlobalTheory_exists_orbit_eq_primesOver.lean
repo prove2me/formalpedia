@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_orbit_eq_primesOver
 -- name    : GlobalTheory.exists_orbit_eq_primesOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:36:13.670476+00:00
 -- url     : https://prove2.me/theorems/f1274af1-6a7c-4165-8aea-f8c653ae1602

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_tangent_eigenbasis_exponential
 -- name    : GlobalTheory.T.exists_tangent_eigenbasis_exponential
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:43:00.088234+00:00
 -- url     : https://prove2.me/theorems/7f618cfa-5017-4321-bab1-2f25591fdfd8

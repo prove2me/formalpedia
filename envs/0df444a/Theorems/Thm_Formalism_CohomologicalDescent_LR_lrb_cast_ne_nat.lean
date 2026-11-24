@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LR_lrb_cast_ne_nat
 -- name    : Formalism.CohomologicalDescent.LR.lrb_cast_ne_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:49:34.462985+00:00
 -- url     : https://prove2.me/theorems/67b3a514-040d-47d8-962b-8ff447e0ae30

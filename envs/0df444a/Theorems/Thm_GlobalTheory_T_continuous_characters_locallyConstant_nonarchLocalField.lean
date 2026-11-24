@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_continuous_characters_locallyConstant_nonarchLocalField
 -- name    : GlobalTheory.T.continuous_characters_locallyConstant_nonarchLocalField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:30:11.82211+00:00
 -- url     : https://prove2.me/theorems/da276677-665b-4f33-b8e4-b9a9c836021b

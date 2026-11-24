@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_numberField_point_ne_zero
 -- name    : GlobalTheory.exists_numberField_point_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:36:17.805517+00:00
 -- url     : https://prove2.me/theorems/4a0e3218-f56e-4da4-bb70-b5cf2fc14953

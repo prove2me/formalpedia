@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_basis_of_integral_with_trace_in_base
 -- name    : GlobalTheory.T.exists_basis_of_integral_with_trace_in_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:33:32.448956+00:00
 -- url     : https://prove2.me/theorems/8095bd56-e427-4b06-a185-1647da78ba29

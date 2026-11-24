@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_algHom_of_compatible_tower
 -- name    : GlobalTheory.existsUnique_algHom_of_compatible_tower
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:39:41.963978+00:00
 -- url     : https://prove2.me/theorems/cc678757-86ae-47e8-8ec2-0a94288b78b4

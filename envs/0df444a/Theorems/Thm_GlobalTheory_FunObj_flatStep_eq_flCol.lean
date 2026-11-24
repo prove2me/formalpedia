@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_flatStep_eq_flCol
 -- name    : GlobalTheory.FunObj.flatStep_eq_flCol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:35:34.731866+00:00
 -- url     : https://prove2.me/theorems/38b34592-6f8d-4247-a724-630a9a9519af

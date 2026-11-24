@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_syracuse_descent_coprime_to_six_134217728_to_146800640
 -- name    : syracuse_descent_coprime_to_six_134217728_to_146800640
--- status  : Open
+-- status  : Proved
 -- author  : @CGTMoyano
 -- created : 2026-11-24T22:00:33.392459+00:00
 -- url     : https://prove2.me/theorems/3e8acc75-95fb-42b8-b671-b40a8d80c0fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mem_level_iff_symmetricPosition_entry_pattern
 -- name    : GlobalTheory.T.mem_level_iff_symmetricPosition_entry_pattern
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:29:21.706441+00:00
 -- url     : https://prove2.me/theorems/b25aa830-5d5b-44d7-a45f-1c7d22aa0149

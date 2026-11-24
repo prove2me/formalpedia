@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_valuationSubring_not_isUnit_and_nonZeroDivisors_ne_zero
 -- name    : GlobalTheory.exists_valuationSubring_not_isUnit_and_nonZeroDivisors_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:45:29.585165+00:00
 -- url     : https://prove2.me/theorems/835d58c7-411d-4673-b7e1-1d019dcae47a

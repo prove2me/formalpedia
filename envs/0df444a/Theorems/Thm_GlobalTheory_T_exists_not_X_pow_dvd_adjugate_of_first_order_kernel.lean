@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_not_X_pow_dvd_adjugate_of_first_order_kernel
 -- name    : GlobalTheory.T.exists_not_X_pow_dvd_adjugate_of_first_order_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:37:03.007801+00:00
 -- url     : https://prove2.me/theorems/081fb2b5-05a7-4e78-9857-2662f37debfb

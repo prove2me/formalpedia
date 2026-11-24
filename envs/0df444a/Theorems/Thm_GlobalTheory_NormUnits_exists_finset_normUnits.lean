@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormUnits_exists_finset_normUnits
 -- name    : GlobalTheory.NormUnits.exists_finset_normUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:36:19.792156+00:00
 -- url     : https://prove2.me/theorems/bbf1d0e3-8465-48cb-866e-89626b0e4332

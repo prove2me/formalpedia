@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_lstar_eq_div
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.lstar_eq_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:44:31.028096+00:00
 -- url     : https://prove2.me/theorems/ad70c45a-de66-46ab-9f27-c458b881fa71

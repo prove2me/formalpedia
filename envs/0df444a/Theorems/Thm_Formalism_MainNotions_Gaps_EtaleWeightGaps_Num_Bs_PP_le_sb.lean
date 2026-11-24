@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_EtaleWeightGaps_Num_Bs_PP_le_sb
 -- name    : Formalism.MainNotions.Gaps.EtaleWeightGaps.Num.Bs.PP_le_sb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:40:53.60837+00:00
 -- url     : https://prove2.me/theorems/41ff895d-e861-435c-a4ce-d44c3499bb13

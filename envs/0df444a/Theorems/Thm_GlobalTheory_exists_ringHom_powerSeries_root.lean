@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_ringHom_powerSeries_root
 -- name    : GlobalTheory.exists_ringHom_powerSeries_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:41:04.305127+00:00
 -- url     : https://prove2.me/theorems/040c81b5-7334-42e4-8dbe-423920d797c5

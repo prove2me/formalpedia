@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WedgeOf_lTensor_iotaQ_injective_of_retract
 -- name    : GlobalTheory.CompanionTheory.WedgeOf.lTensor_iotaQ_injective_of_retract
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:31:43.618805+00:00
 -- url     : https://prove2.me/theorems/68a0eadc-3d25-49f2-bbbc-6765a9031f20

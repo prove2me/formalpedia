@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KaScale_der_neg
 -- name    : GlobalTheory.KaScale.der_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:44:17.823323+00:00
 -- url     : https://prove2.me/theorems/257e85f0-2198-4172-a9a9-63ef501a4685

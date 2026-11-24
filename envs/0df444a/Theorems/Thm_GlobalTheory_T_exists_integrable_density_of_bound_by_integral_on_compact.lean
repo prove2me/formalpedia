@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_integrable_density_of_bound_by_integral_on_compact
 -- name    : GlobalTheory.T.exists_integrable_density_of_bound_by_integral_on_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:35:08.128338+00:00
 -- url     : https://prove2.me/theorems/8921f44b-8be5-4af6-abaa-ae1cff7aa009

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnfoldedEntries_om_ne_zero
 -- name    : GlobalTheory.UnfoldedEntries.om_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:38:56.332542+00:00
 -- url     : https://prove2.me/theorems/4722396b-26c5-4250-9960-5d4ca7916280

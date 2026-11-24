@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_contDensity_eq_fibre_measure_of_compact_open
 -- name    : GlobalTheory.T.contDensity_eq_fibre_measure_of_compact_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:32:04.540461+00:00
 -- url     : https://prove2.me/theorems/156d5107-29eb-49f2-bc7c-e40951f796d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_tensor_idempotent_of_algHom_to_base
 -- name    : GlobalTheory.T.exists_tensor_idempotent_of_algHom_to_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:37:46.157072+00:00
 -- url     : https://prove2.me/theorems/8b63cc44-d625-43be-86bb-87564cf92a7c

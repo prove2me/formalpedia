@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Glob_inductionContragredient
 -- name    : GlobalTheory.CompanionTheory.Glob.inductionContragredient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:49:53.532906+00:00
 -- url     : https://prove2.me/theorems/7f3389d0-3195-4853-8465-65e01ad5f891

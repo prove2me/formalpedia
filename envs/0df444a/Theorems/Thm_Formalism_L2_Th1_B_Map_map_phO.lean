@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Map_map_phO
 -- name    : Formalism.L2.Th1.B.Map.map_phO
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:06.001647+00:00
 -- url     : https://prove2.me/theorems/4beaa633-8efc-4ee9-896b-466404dc87f6

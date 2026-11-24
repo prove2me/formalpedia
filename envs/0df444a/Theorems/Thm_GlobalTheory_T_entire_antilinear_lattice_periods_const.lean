@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_entire_antilinear_lattice_periods_const
 -- name    : GlobalTheory.T.entire_antilinear_lattice_periods_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:32:43.452811+00:00
 -- url     : https://prove2.me/theorems/799094c9-9a90-4ce2-b3a7-6965d397d7c6

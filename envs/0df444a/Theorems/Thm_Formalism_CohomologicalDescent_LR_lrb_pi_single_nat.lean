@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LR_lrb_pi_single_nat
 -- name    : Formalism.CohomologicalDescent.LR.lrb_pi_single_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:49:01.934181+00:00
 -- url     : https://prove2.me/theorems/603763be-c602-4b36-aaed-dfb9a377627a

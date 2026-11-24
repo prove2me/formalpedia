@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_sum_chi_mul_chi
 -- name    : GlobalTheory.UnitLemma.Desc.sum_chi_mul_chi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:28:26.908615+00:00
 -- url     : https://prove2.me/theorems/64070bda-34a1-4ea3-b49b-35910db17c4d

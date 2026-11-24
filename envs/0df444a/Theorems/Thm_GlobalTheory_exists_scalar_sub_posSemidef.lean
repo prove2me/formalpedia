@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_scalar_sub_posSemidef
 -- name    : GlobalTheory.exists_scalar_sub_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:40:46.792861+00:00
 -- url     : https://prove2.me/theorems/42fe4985-f906-4585-bb4e-9f68e569fe34

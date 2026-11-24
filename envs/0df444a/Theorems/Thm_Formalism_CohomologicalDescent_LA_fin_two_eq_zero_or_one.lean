@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_fin_two_eq_zero_or_one
 -- name    : Formalism.CohomologicalDescent.LA.fin_two_eq_zero_or_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:49:33.700505+00:00
 -- url     : https://prove2.me/theorems/4aa96d3c-0e81-4e2d-8de3-2b9fb45f2cfb

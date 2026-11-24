@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_extend_linearIndependent_rows_by_standard_basis
 -- name    : GlobalTheory.extend_linearIndependent_rows_by_standard_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:46:13.70593+00:00
 -- url     : https://prove2.me/theorems/28c74e68-fad0-486b-91e7-7f4770cf43f7

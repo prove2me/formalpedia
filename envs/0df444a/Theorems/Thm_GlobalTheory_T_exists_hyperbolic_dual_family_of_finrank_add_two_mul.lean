@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_hyperbolic_dual_family_of_finrank_add_two_mul
 -- name    : GlobalTheory.T.exists_hyperbolic_dual_family_of_finrank_add_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:35:50.78494+00:00
 -- url     : https://prove2.me/theorems/9b9c9f73-7c4e-4f12-bac9-61be0808f08a

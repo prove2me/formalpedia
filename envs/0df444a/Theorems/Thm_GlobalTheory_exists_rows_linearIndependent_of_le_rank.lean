@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_rows_linearIndependent_of_le_rank
 -- name    : GlobalTheory.exists_rows_linearIndependent_of_le_rank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:40:56.482475+00:00
 -- url     : https://prove2.me/theorems/a75ec8c9-4aea-48b0-9e9c-e446f27476e8

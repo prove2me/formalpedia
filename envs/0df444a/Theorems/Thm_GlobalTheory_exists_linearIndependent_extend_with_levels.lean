@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_linearIndependent_extend_with_levels
 -- name    : GlobalTheory.exists_linearIndependent_extend_with_levels
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:34:15.957895+00:00
 -- url     : https://prove2.me/theorems/9626a627-455a-4191-9daf-c6e4118d4071

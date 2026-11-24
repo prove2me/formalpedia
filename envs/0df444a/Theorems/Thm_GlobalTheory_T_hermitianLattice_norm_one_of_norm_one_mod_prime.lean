@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitianLattice_norm_one_of_norm_one_mod_prime
 -- name    : GlobalTheory.T.hermitianLattice_norm_one_of_norm_one_mod_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:45:22.446018+00:00
 -- url     : https://prove2.me/theorems/f1dda455-203c-4a25-9c1b-c017511bb527

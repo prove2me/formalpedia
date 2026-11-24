@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Wick_factorial_smul_dividedContraction
 -- name    : GlobalTheory.Wick.factorial_smul_dividedContraction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:55:16.431119+00:00
 -- url     : https://prove2.me/theorems/fcc5ee0f-834d-48d7-a2f6-419c12ca9bd3

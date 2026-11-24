@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_point_over_dominant_geometric_point
 -- name    : GlobalTheory.exists_point_over_dominant_geometric_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:36:28.101273+00:00
 -- url     : https://prove2.me/theorems/09686b98-e2fb-44ed-9ad8-4c9193d13d52

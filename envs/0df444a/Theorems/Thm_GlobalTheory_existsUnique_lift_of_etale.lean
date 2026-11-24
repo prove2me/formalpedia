@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_lift_of_etale
 -- name    : GlobalTheory.existsUnique_lift_of_etale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:35:55.470514+00:00
 -- url     : https://prove2.me/theorems/1a3341a3-ddb6-41b7-b531-de961d75aeba

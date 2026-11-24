@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_corner_unit_of_right_inverse__30231de44385
 -- name    : P2M_GlobalTheory_T_exists_corner_unit_of_right_inverse__30231de44385
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:12:01.311811+00:00
 -- url     : https://prove2.me/theorems/2ed6c340-9211-4193-aa3b-5732a105dfaf

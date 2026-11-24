@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagData_exists_data
 -- name    : GlobalTheory.FlagData.exists_data
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:32:06.939985+00:00
 -- url     : https://prove2.me/theorems/e215b367-f483-400b-8491-2ad78b5ec4e8

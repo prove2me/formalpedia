@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_ker_quotient_of_finite_homology
 -- name    : GlobalTheory.finite_ker_quotient_of_finite_homology
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:47:15.476635+00:00
 -- url     : https://prove2.me/theorems/08bcf206-8cb2-41c3-bb18-faa1fc8cde88

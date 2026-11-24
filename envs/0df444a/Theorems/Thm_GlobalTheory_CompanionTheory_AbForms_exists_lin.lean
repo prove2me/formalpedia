@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AbForms_exists_lin
 -- name    : GlobalTheory.CompanionTheory.AbForms.exists_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:21:33.057884+00:00
 -- url     : https://prove2.me/theorems/a26eadfd-c283-4a2e-8d41-40df7ee91a36

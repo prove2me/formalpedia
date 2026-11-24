@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AffAcyc_z_cocycle
 -- name    : GlobalTheory.CompanionTheory.AffAcyc.z_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:25:58.928325+00:00
 -- url     : https://prove2.me/theorems/4be9f6f5-e8ca-4845-9ac1-79aa361af2b6

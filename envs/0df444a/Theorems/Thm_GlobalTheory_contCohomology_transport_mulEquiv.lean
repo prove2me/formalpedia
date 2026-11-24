@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_contCohomology_transport_mulEquiv
 -- name    : GlobalTheory.contCohomology_transport_mulEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:14:03.158104+00:00
 -- url     : https://prove2.me/theorems/4f2dea0a-a321-462c-a740-3aef973a0c45

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_padicAlgCl_ringEquiv_complex_comp_eq_of_countable
 -- name    : GlobalTheory.exists_padicAlgCl_ringEquiv_complex_comp_eq_of_countable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:16:07.59648+00:00
 -- url     : https://prove2.me/theorems/887d0913-9296-41ba-8085-568999bebc9a

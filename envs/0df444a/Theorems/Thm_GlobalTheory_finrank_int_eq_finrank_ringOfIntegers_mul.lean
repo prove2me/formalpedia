@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finrank_int_eq_finrank_ringOfIntegers_mul
 -- name    : GlobalTheory.finrank_int_eq_finrank_ringOfIntegers_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:49:45.192822+00:00
 -- url     : https://prove2.me/theorems/0b82aeba-45f4-4095-be1c-34ca01795965

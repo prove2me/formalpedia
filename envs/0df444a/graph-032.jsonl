@@ -34938,11 +34938,11 @@
 {"parent": "Kyprianou.Ch01.inverseGaussianPassageLevySubordinator", "child": "Kyprianou_Ch01_McKeanBrownianStopping", "via": ["statement"]}
 {"parent": "Kyprianou.Ch01.inverseGaussianPassageLevySubordinator", "child": "Kyprianou_Ch01_ExplicitLevyExamples", "via": ["statement"]}
 {"parent": "Kyprianou.Ch01.inverseGaussianPassageLevySubordinator", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.boundedVariationChangeOfVariables", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.boundedVariationChangeOfVariables", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.boundedVariationChangeOfVariables", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.boundedVariationChangeOfVariables", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.boundedVariationChangeOfVariables", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.boundedVariationChangeOfVariables", "child": "Kyprianou_Ch04_PathJumpAndItoIntegral", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.boundedVariationChangeOfVariables", "child": "Kyprianou_Ch02_LargeJumpProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.boundedVariationChangeOfVariables", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.boundedVariationChangeOfVariables", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.boundedVariationChangeOfVariables", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch04.exercise47RunningSupremumIntegrable", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
 {"parent": "row23_rh_supp_RHRow23LowGap66388", "child": "row23_rh_supp_RHRow23LowSlab66388", "via": ["statement"]}
 {"parent": "row23_rh_supp_RHRow23LowGap66388", "child": "TaoFivePrimes.rh_verified_block_14_1e2", "via": ["statement"]}
@@ -72986,9 +72986,9 @@
 {"parent": "TTTSampling.Supplement.theorem_4_14", "child": "TTTSampling_Assumption31", "via": ["statement"]}
 {"parent": "TTTSampling.Supplement.theorem_4_14", "child": "TTTSampling_Supplement_klDiv", "via": ["statement"]}
 {"parent": "TTTSampling.Supplement.theorem_4_14", "child": "TTTSampling_OracleProg", "via": ["statement"]}
-{"parent": "HirschDim4.unbounded_four_counterexample", "child": "Hirsch_walk", "via": ["statement"]}
-{"parent": "HirschDim4.unbounded_four_counterexample", "child": "KleeWalkup67_FiveStep_Polyhedra", "via": ["statement"]}
-{"parent": "HirschDim4.unbounded_four_counterexample", "child": "Hirsch_model", "via": ["statement"]}
+{"parent": "HirschDim4.unbounded_four_counterexample", "child": "Hirsch_walk", "via": ["solution", "statement"]}
+{"parent": "HirschDim4.unbounded_four_counterexample", "child": "KleeWalkup67_FiveStep_Polyhedra", "via": ["solution", "statement"]}
+{"parent": "HirschDim4.unbounded_four_counterexample", "child": "Hirsch_model", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch06.threeOrderedDecreasingMarkedCountCylinderNull", "child": "Kyprianou_Ch06_MarkedPoissonPointProcess", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg25576", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "KnodelPrimeCordial.case_mod_6_label_edge_one_count__p2m_a2d2c024_75ef_4507_a500_d8ffa22c501d_a1", "child": "KnodelPrimeCordial_IsPrimeCordialLabeling", "via": ["solution", "statement"]}
@@ -74213,9 +74213,9 @@
 {"parent": "Kyprianou.Ch01.firstUpperPassageNaturalRightStoppingContinuousV2", "child": "Kyprianou_Ch01_McKeanBrownianStopping", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch01.firstUpperPassageNaturalRightStoppingContinuousV2", "child": "Kyprianou_Ch01_ExplicitLevyExamples", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch06.zeroAPlusSeparatedOutsideRectanglesPoissonProduct", "child": "Kyprianou_Ch06_MarkedPoissonPointProcess", "via": ["solution", "statement"]}
-{"parent": "HirschDim4.klee_walkup_Q4", "child": "Hirsch_walk", "via": ["statement"]}
-{"parent": "HirschDim4.klee_walkup_Q4", "child": "Hirsch_model", "via": ["statement"]}
-{"parent": "HirschDim4.klee_walkup_Q4", "child": "SantosHirsch_Counter_Setting", "via": ["statement"]}
+{"parent": "HirschDim4.klee_walkup_Q4", "child": "Hirsch_walk", "via": ["solution", "statement"]}
+{"parent": "HirschDim4.klee_walkup_Q4", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "HirschDim4.klee_walkup_Q4", "child": "SantosHirsch_Counter_Setting", "via": ["solution", "statement"]}
 {"parent": "ShortBroadcastDom.Supplement.theorem_F_1", "child": "ShortBroadcastDom_SubgraphDensityLE", "via": ["statement"]}
 {"parent": "ShortBroadcastDom.Supplement.theorem_F_1", "child": "ShortBroadcastDom_InClassC", "via": ["statement"]}
 {"parent": "ShortBroadcastDom.Supplement.theorem_F_1", "child": "ShortBroadcastDom_BroadcastAlg", "via": ["statement"]}
@@ -80082,8 +80082,8 @@
 {"parent": "TriFormQ.Supplement.theorem_10", "child": "TriFormQ_Supplement_linSimonOracle", "via": ["statement"]}
 {"parent": "TriFormQ.Supplement.theorem_10", "child": "TriFormQ_Supplement_linIsoIPOracle", "via": ["statement"]}
 {"parent": "TriFormQ.Supplement.theorem_10", "child": "TriFormQ_AdaptiveAlg_maxQueries", "via": ["statement"]}
-{"parent": "ArithmeticKakeya.lemm_sums_differences_barrier", "child": "ArithmeticKakeya_grid", "via": ["statement"]}
-{"parent": "ArithmeticKakeya.lemm_sums_differences_barrier", "child": "ArithmeticKakeya_forcing", "via": ["statement"]}
+{"parent": "ArithmeticKakeya.lemm_sums_differences_barrier", "child": "ArithmeticKakeya_grid", "via": ["solution", "statement"]}
+{"parent": "ArithmeticKakeya.lemm_sums_differences_barrier", "child": "ArithmeticKakeya_forcing", "via": ["solution", "statement"]}
 {"parent": "N25.cusp_geometric_contraction", "child": "AlgebraicCurve_ConstantFieldPullback", "via": ["solution", "statement"]}
 {"parent": "N25.cusp_geometric_contraction", "child": "ModularCurve_GeometricBaseChange", "via": ["solution", "statement"]}
 {"parent": "N25.cusp_geometric_contraction", "child": "N25_Endgame", "via": ["solution", "statement"]}

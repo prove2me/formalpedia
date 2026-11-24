@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_kernel_certificate
 -- name    : GlobalTheory.exists_kernel_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:33:23.319503+00:00
 -- url     : https://prove2.me/theorems/c60debf5-77d7-4e09-b476-37ea6476e4ae

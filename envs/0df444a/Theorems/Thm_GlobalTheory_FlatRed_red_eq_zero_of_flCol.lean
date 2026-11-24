@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatRed_red_eq_zero_of_flCol
 -- name    : GlobalTheory.FlatRed.red_eq_zero_of_flCol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:34:19.446375+00:00
 -- url     : https://prove2.me/theorems/c2b336ad-8de4-49c5-8ea4-7fd8f358c1dd

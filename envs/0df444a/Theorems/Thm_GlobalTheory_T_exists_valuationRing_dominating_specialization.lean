@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_valuationRing_dominating_specialization
 -- name    : GlobalTheory.T.exists_valuationRing_dominating_specialization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:38:17.001389+00:00
 -- url     : https://prove2.me/theorems/13686cc5-d14f-4c5e-80f1-ac9399ac3c60

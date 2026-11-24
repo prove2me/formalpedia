@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_la_T_xy
 -- name    : Formalism.CohomologicalDescent.LA.la_T_xy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:49:10.624804+00:00
 -- url     : https://prove2.me/theorems/14e8c47d-6dd6-4863-ad23-b6fe2397e803

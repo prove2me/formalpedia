@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_SymmetricSexticResidual_Proof_sum_RQ5_eta_L
 -- name    : HodgeComputer.SymmetricSexticResidual.Proof.sum_RQ5_eta_L
--- status  : Open
+-- status  : Proved
 -- author  : @benediamond
 -- created : 2026-11-24T21:55:51.297744+00:00
 -- url     : https://prove2.me/theorems/cf9f0313-643f-4923-b770-8aadaf649f25

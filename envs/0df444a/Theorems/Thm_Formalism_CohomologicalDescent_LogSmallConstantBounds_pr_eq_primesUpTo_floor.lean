@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_pr_eq_primesUpTo_floor
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.pr_eq_primesUpTo_floor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:44:21.367035+00:00
 -- url     : https://prove2.me/theorems/bcabf646-5954-41f9-95ac-4c0b4420d125

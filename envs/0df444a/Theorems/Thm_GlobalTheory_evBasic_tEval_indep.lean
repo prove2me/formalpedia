@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_evBasic_tEval_indep
 -- name    : GlobalTheory.evBasic_tEval_indep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:19:57.412567+00:00
 -- url     : https://prove2.me/theorems/cd0da74f-394f-490d-a982-cf8360b890af

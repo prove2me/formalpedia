@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_det_ne_zero_of_separating_functionals
 -- name    : GlobalTheory.T.exists_det_ne_zero_of_separating_functionals
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:34:19.724852+00:00
 -- url     : https://prove2.me/theorems/8b88b027-9469-4792-bd0a-5475486006f7

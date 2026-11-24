@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_jets_exp_holds
 -- name    : Formalism.L2.Th1.G.jets_exp_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:56:04.529064+00:00
 -- url     : https://prove2.me/theorems/66209e27-3240-4f9d-985c-d197d8df3146

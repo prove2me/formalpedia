@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_kTriv_of_global
 -- name    : GlobalTheory.kTriv_of_global
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:59:06.469611+00:00
 -- url     : https://prove2.me/theorems/a601363a-68aa-4a12-b623-25e1e9d479af

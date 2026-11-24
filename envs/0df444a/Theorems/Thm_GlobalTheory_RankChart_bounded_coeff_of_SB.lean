@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankChart_bounded_coeff_of_SB
 -- name    : GlobalTheory.RankChart.bounded_coeff_of_SB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:39:49.661855+00:00
 -- url     : https://prove2.me/theorems/b308e540-d64e-40b5-b384-030a361fddf9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_la_incl_of_gens
 -- name    : Formalism.CohomologicalDescent.LA.la_incl_of_gens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:49:44.84981+00:00
 -- url     : https://prove2.me/theorems/8489dcfa-30df-45c9-a444-e08405e007fc

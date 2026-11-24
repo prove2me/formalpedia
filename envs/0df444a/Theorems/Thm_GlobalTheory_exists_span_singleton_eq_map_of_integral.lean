@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_span_singleton_eq_map_of_integral
 -- name    : GlobalTheory.exists_span_singleton_eq_map_of_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:42:16.6712+00:00
 -- url     : https://prove2.me/theorems/2bddab31-4e67-487d-bc60-4106d8f18343

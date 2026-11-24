@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartRedEval_integrable_red
 -- name    : GlobalTheory.PartRedEval.integrable_red
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:34:28.281971+00:00
 -- url     : https://prove2.me/theorems/5c5c00a6-fed8-4e2a-82f5-ec9e89ae4168

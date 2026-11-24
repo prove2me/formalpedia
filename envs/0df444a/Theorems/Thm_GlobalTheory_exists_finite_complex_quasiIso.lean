@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_finite_complex_quasiIso
 -- name    : GlobalTheory.exists_finite_complex_quasiIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:31:18.920806+00:00
 -- url     : https://prove2.me/theorems/cbe3cc92-0a14-453f-b976-f5f0bcff0598

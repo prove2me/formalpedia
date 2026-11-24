@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_StdSelfDual_proof
 -- name    : Formalism.L2.Th1.H.StdSelfDual_proof
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:28:04.016253+00:00
 -- url     : https://prove2.me/theorems/cd580278-048f-4c7f-8200-d30156c5a6ca

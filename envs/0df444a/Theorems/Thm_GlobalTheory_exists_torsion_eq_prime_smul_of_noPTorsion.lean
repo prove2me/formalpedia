@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_torsion_eq_prime_smul_of_noPTorsion
 -- name    : GlobalTheory.exists_torsion_eq_prime_smul_of_noPTorsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:41:59.671804+00:00
 -- url     : https://prove2.me/theorems/d80df983-7b64-4c89-bd3f-08e86b999ef1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_commuting_integral_matrix_decompose
 -- name    : GlobalTheory.T.commuting_integral_matrix_decompose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:30:38.570723+00:00
 -- url     : https://prove2.me/theorems/a7d7bf32-8878-4493-831a-c81194e088a5

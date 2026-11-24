@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeTateImage_ptMap_bc
 -- name    : GlobalTheory.HodgeTateImage.ptMap_bc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:46:53.12037+00:00
 -- url     : https://prove2.me/theorems/fa239df8-87d3-43e0-9e05-bab04d2fad2e

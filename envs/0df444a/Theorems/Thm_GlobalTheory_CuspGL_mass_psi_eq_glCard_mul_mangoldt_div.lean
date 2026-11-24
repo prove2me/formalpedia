@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_mass_psi_eq_glCard_mul_mangoldt_div
 -- name    : GlobalTheory.CuspGL.mass_psi_eq_glCard_mul_mangoldt_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:33:55.937645+00:00
 -- url     : https://prove2.me/theorems/45857e6e-c620-4e34-8378-ec5136efbcd2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_exists_enum_ker_transpose
 -- name    : GlobalTheory.KeyKa.exists_enum_ker_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:50:42.069532+00:00
 -- url     : https://prove2.me/theorems/ef458fc0-2ab7-4cf8-8509-38f4c17b0ac7

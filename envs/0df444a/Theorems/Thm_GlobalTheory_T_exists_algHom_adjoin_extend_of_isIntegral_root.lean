@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_algHom_adjoin_extend_of_isIntegral_root
 -- name    : GlobalTheory.T.exists_algHom_adjoin_extend_of_isIntegral_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:34:27.421823+00:00
 -- url     : https://prove2.me/theorems/bd06a84d-a2dc-4fb2-85d7-2b097e99d1a3

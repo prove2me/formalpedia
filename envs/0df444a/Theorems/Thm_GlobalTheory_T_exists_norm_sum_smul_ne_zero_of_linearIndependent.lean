@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_norm_sum_smul_ne_zero_of_linearIndependent
 -- name    : GlobalTheory.T.exists_norm_sum_smul_ne_zero_of_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:37:16.185652+00:00
 -- url     : https://prove2.me/theorems/9928f2bd-e597-4516-a640-9c8ffd72c76a

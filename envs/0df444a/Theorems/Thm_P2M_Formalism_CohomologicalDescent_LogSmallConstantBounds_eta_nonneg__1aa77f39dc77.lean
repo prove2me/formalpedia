@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_CohomologicalDescent_LogSmallConstantBounds_eta_nonneg__1aa77f39dc77
 -- name    : P2M_Formalism_CohomologicalDescent_LogSmallConstantBounds_eta_nonneg__1aa77f39dc77
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:44:50.656842+00:00
 -- url     : https://prove2.me/theorems/1a953ba5-9cc5-48d8-9f91-ee15b13d9b89

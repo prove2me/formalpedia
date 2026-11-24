@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_section_of_isIntegralElem_of_isOpenImmersion
 -- name    : GlobalTheory.exists_section_of_isIntegralElem_of_isOpenImmersion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:42:12.315051+00:00
 -- url     : https://prove2.me/theorems/221e038c-b6f4-4467-89f3-c1a29f27793e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_injective_localHom_and_extend
 -- name    : GlobalTheory.finite_injective_localHom_and_extend
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:46:33.718804+00:00
 -- url     : https://prove2.me/theorems/88be447a-d457-4774-ad07-9f7fcb236764

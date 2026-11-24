@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exp_neg_mul_sqrt_div_pow_le
 -- name    : GlobalTheory.exp_neg_mul_sqrt_div_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:45:55.160522+00:00
 -- url     : https://prove2.me/theorems/40082c16-9b3a-42ea-a248-786faaf2deac

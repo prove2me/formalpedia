@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AbForms_lin_unique
 -- name    : GlobalTheory.CompanionTheory.AbForms.lin_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:22:28.756387+00:00
 -- url     : https://prove2.me/theorems/5e64b663-99f3-4f64-93e6-5b686fd3a4e0

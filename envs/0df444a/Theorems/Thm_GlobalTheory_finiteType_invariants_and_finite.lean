@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finiteType_invariants_and_finite
 -- name    : GlobalTheory.finiteType_invariants_and_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:46:15.435863+00:00
 -- url     : https://prove2.me/theorems/d8ed7280-907e-4384-8aa0-b44116008b3a

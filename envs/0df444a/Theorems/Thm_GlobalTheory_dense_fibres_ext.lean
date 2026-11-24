@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dense_fibres_ext
 -- name    : GlobalTheory.dense_fibres_ext
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:16:22.55932+00:00
 -- url     : https://prove2.me/theorems/b6976a18-c757-4783-b294-68e14fcc88e2

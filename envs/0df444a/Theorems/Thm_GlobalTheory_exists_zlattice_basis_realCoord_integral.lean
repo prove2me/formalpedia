@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_zlattice_basis_realCoord_integral
 -- name    : GlobalTheory.exists_zlattice_basis_realCoord_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:46:40.522529+00:00
 -- url     : https://prove2.me/theorems/07d254ad-0204-421b-9052-7151ffd74766

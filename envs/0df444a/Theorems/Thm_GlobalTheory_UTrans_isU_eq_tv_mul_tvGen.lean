@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_isU_eq_tv_mul_tvGen
 -- name    : GlobalTheory.UTrans.isU_eq_tv_mul_tvGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:23:11.190805+00:00
 -- url     : https://prove2.me/theorems/d50c8aca-d687-4f8a-ac51-379fc9a1800d

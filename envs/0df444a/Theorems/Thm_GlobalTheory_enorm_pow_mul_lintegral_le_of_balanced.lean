@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_enorm_pow_mul_lintegral_le_of_balanced
 -- name    : GlobalTheory.enorm_pow_mul_lintegral_le_of_balanced
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:11:30.095797+00:00
 -- url     : https://prove2.me/theorems/b626c424-c8b8-4d7f-a893-c4b8e8d5b508

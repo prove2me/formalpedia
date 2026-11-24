@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_expNegValuation_apply
 -- name    : GlobalTheory.expNegValuation_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:47:45.375721+00:00
 -- url     : https://prove2.me/theorems/78098874-b29d-4544-92ec-5b134cf9e926

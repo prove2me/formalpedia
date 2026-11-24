@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_Chain_ofType_laws
 -- name    : GlobalTheory.StepData.Chain.ofType_laws
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:48:56.300392+00:00
 -- url     : https://prove2.me/theorems/cc5f9cf0-dd10-47e4-9ff6-881c1ef686fc

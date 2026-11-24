@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZigZagStrong_ZigZag_rotation_sum
 -- name    : ZigZagStrong.ZigZag.rotation_sum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T04:04:58.787609+00:00
 -- url     : https://prove2.me/theorems/23524051-398c-4680-95bd-1faf1edc30bb

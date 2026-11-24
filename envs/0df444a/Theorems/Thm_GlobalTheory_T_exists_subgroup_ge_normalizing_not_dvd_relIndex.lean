@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_subgroup_ge_normalizing_not_dvd_relIndex
 -- name    : GlobalTheory.T.exists_subgroup_ge_normalizing_not_dvd_relIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:38:13.936192+00:00
 -- url     : https://prove2.me/theorems/0f88033f-6b5f-4102-b8a9-84e4e161631a

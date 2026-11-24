@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_continuousOn_complex_hessian_of_contDiffOn_two
 -- name    : GlobalTheory.T.continuousOn_complex_hessian_of_contDiffOn_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:32:03.697518+00:00
 -- url     : https://prove2.me/theorems/2ba4e224-7795-4131-8cde-35fc636af469

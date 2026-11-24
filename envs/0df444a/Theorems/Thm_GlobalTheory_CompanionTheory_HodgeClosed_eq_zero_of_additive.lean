@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeClosed_eq_zero_of_additive
 -- name    : GlobalTheory.CompanionTheory.HodgeClosed.eq_zero_of_additive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:24:48.875859+00:00
 -- url     : https://prove2.me/theorems/32359b06-edf4-4da2-97d4-e3abbf5ce8c6

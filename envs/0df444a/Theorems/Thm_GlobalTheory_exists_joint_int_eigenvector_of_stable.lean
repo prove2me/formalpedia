@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_joint_int_eigenvector_of_stable
 -- name    : GlobalTheory.exists_joint_int_eigenvector_of_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:33:05.984861+00:00
 -- url     : https://prove2.me/theorems/d0daaa38-6485-47df-8480-316fb0730f56

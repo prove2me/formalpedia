@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_units_quot_sq_normed
 -- name    : GlobalTheory.finite_units_quot_sq_normed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:47:06.951803+00:00
 -- url     : https://prove2.me/theorems/455713f5-38ff-4c50-9ff2-e4f226103b19

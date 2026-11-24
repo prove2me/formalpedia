@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscrJacobianBlocks_exists_factor_associated_jacobian
 -- name    : GlobalTheory.DiscrJacobianBlocks.exists_factor_associated_jacobian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:51:15.428991+00:00
 -- url     : https://prove2.me/theorems/869cd78a-d376-4faa-ba47-81367bb3acac

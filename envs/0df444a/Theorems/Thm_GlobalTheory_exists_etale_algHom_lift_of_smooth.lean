@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_etale_algHom_lift_of_smooth
 -- name    : GlobalTheory.exists_etale_algHom_lift_of_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:31:13.760799+00:00
 -- url     : https://prove2.me/theorems/13042d62-4615-43f6-99ba-d81e98b9cae7

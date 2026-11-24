@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_parFun_sieg_mul
 -- name    : GlobalTheory.KSp.parFun_sieg_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:46:07.33094+00:00
 -- url     : https://prove2.me/theorems/7419dff0-814f-4ccb-be35-4a1bc00baa9f

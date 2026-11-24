@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_two_le_prime_cast
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.two_le_prime_cast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:44:55.575848+00:00
 -- url     : https://prove2.me/theorems/cfa9b999-d189-4ffb-bd86-92ff2f5aee03

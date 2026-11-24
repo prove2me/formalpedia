@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_KNorm_nadd_le
 -- name    : Formalism.L2.Th1.B.KNorm.nadd_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:46:01.860771+00:00
 -- url     : https://prove2.me/theorems/9668ba47-3480-4c51-ad3f-7eda63474b93

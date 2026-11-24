@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_siegelParabolic_weylElement_generate_unitary
 -- name    : GlobalTheory.T.siegelParabolic_weylElement_generate_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:17:35.202984+00:00
 -- url     : https://prove2.me/theorems/a57d5baf-a76f-4fa2-b4e1-ebaa044c3f20

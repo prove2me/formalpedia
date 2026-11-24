@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_label_vl_le_ind
 -- name    : Formalism.CohomologicalDescent.label_vl_le_ind
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:30:05.710531+00:00
 -- url     : https://prove2.me/theorems/b05bea7c-0ef9-4270-aab5-2c4377a583cb

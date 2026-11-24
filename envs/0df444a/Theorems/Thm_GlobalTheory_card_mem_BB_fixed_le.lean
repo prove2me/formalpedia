@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_mem_BB_fixed_le
 -- name    : GlobalTheory.card_mem_BB_fixed_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:07:26.483238+00:00
 -- url     : https://prove2.me/theorems/600996d8-f679-4676-8bc3-013daa22b62f

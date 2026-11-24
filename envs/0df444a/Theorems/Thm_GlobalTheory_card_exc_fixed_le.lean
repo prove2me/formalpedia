@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_exc_fixed_le
 -- name    : GlobalTheory.card_exc_fixed_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:06:57.607047+00:00
 -- url     : https://prove2.me/theorems/3d1e9102-2155-4514-b6f1-b2d702daac81

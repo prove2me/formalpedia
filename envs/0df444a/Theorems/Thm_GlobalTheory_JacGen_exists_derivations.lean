@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JacGen_exists_derivations
 -- name    : GlobalTheory.JacGen.exists_derivations
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:46:34.381585+00:00
 -- url     : https://prove2.me/theorems/3fa0e4d5-b2e2-45f1-9f7c-a10489abd45c

@@ -46319,7 +46319,7 @@
 {"parent": "RankingBeats.General.fact_4_3", "child": "RankingBeats_General_Structures", "via": ["statement"]}
 {"parent": "RankingBeats.General.fact_4_3", "child": "RankingBeats_General_Ranking", "via": ["statement"]}
 {"parent": "ParallelMatroidBasis.Main.fact_3_17", "child": "ParallelMatroidBasis_Main_KL", "via": ["statement"]}
-{"parent": "ZigZagStrong.ZigZag.rotation_sum", "child": "ZigZagStrong_ZigZag_Covers", "via": ["statement"]}
+{"parent": "ZigZagStrong.ZigZag.rotation_sum", "child": "ZigZagStrong_ZigZag_Covers", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_12_18_e", "child": "OAIQ106E147", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_12_18_e", "child": "OAIQ106E002", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26NativeTriangleKeys.keyOfCode_cost", "child": "QEC_Coding_FiniteAlternatingConstruction_NativePresentationGenerator", "via": ["solution", "statement"]}

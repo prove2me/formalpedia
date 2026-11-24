@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_compatible_generators_tower
 -- name    : GlobalTheory.exists_compatible_generators_tower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:30:21.360043+00:00
 -- url     : https://prove2.me/theorems/a1c7e29b-fa7d-4bf3-bb40-d0fef8e929ea

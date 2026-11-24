@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JacGen_isLocalRing_trivSqZeroExt
 -- name    : GlobalTheory.JacGen.isLocalRing_trivSqZeroExt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:45:41.847657+00:00
 -- url     : https://prove2.me/theorems/9b3da415-a9a2-461d-9270-cfd2925bc6a0

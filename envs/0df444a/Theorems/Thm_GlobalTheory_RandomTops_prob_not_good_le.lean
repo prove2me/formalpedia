@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RandomTops_prob_not_good_le
 -- name    : GlobalTheory.RandomTops.prob_not_good_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:45:23.787068+00:00
 -- url     : https://prove2.me/theorems/dd1c7e0e-ff02-4ca5-bd2a-479e5383d78b

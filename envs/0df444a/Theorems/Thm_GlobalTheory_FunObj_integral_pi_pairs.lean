@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_integral_pi_pairs
 -- name    : GlobalTheory.FunObj.integral_pi_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:35:43.698969+00:00
 -- url     : https://prove2.me/theorems/8cee5af2-da45-49b6-a858-854108f41709

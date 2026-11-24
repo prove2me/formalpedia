@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_NerveCoh_qiso_of_cone
 -- name    : GlobalTheory.CompanionTheory.NerveCoh.qiso_of_cone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:26:45.911808+00:00
 -- url     : https://prove2.me/theorems/325b53a2-2e9e-4175-983d-b634b5a19b36

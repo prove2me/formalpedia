@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_SymmetricSexticResidual_Proof_infinityCoefficient_eta
 -- name    : HodgeComputer.SymmetricSexticResidual.Proof.infinityCoefficient_eta
--- status  : Open
+-- status  : Proved
 -- author  : @benediamond
 -- created : 2026-11-24T21:55:41.941319+00:00
 -- url     : https://prove2.me/theorems/6426e5b3-86b1-4ebe-9a1f-cdcfa46e3427

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_quot_span_singleton_of_dvr_sandwich
 -- name    : GlobalTheory.finite_quot_span_singleton_of_dvr_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:47:04.999764+00:00
 -- url     : https://prove2.me/theorems/988349d2-2804-4e22-a5fb-62634ba90f93

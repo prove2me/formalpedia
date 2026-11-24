@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_endomorphism_indecomposable_nilpotent_or_bijective
 -- name    : GlobalTheory.T.endomorphism_indecomposable_nilpotent_or_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:32:54.643868+00:00
 -- url     : https://prove2.me/theorems/67a257e4-ac5b-4499-96f6-c4e7d97da59e

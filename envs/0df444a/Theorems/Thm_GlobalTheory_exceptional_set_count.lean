@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exceptional_set_count
 -- name    : GlobalTheory.exceptional_set_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:29:18.280197+00:00
 -- url     : https://prove2.me/theorems/96ac3687-c89f-4efa-8122-60b88e5c8d19

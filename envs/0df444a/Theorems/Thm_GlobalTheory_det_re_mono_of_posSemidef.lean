@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_re_mono_of_posSemidef
 -- name    : GlobalTheory.det_re_mono_of_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:03:55.543621+00:00
 -- url     : https://prove2.me/theorems/c5ae7c62-a324-4fd0-ba74-32129ba6ae32

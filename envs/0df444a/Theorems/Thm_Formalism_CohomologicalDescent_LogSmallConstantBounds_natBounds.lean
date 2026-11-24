@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_natBounds
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.natBounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:44:48.181864+00:00
 -- url     : https://prove2.me/theorems/cfdc35f1-02c8-45f7-a7d1-90938066ade6

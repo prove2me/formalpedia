@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_derivation_inner_of_reduced_order
 -- name    : GlobalTheory.derivation_inner_of_reduced_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:16:11.337656+00:00
 -- url     : https://prove2.me/theorems/318919f5-92be-42dd-b875-9fc091491f89

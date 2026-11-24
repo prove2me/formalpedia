@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_ne_zero_forall_complexPoint_extend
 -- name    : GlobalTheory.exists_ne_zero_forall_complexPoint_extend
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:37:18.347978+00:00
 -- url     : https://prove2.me/theorems/e568ca71-d4f5-4f47-91ec-acee2e09be56

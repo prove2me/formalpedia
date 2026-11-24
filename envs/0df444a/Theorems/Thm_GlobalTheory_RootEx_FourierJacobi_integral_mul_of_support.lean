@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_FourierJacobi_integral_mul_of_support
 -- name    : GlobalTheory.RootEx.FourierJacobi.integral_mul_of_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:48:00.261547+00:00
 -- url     : https://prove2.me/theorems/41def101-77fc-465b-a3d7-d83fecde9479

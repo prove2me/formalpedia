@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_eq_bcI
 -- name    : Formalism.L2.LamCM.eq_bcI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:29:47.882071+00:00
 -- url     : https://prove2.me/theorems/be28c2bb-01d1-4f34-97c2-7750f2a6401d

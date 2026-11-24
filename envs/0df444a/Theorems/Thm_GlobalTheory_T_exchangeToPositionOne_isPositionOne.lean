@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exchangeToPositionOne_isPositionOne
 -- name    : GlobalTheory.T.exchangeToPositionOne_isPositionOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:29:56.393746+00:00
 -- url     : https://prove2.me/theorems/2681425c-bf14-4860-a253-4139f9223eee

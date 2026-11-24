@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatPoints_eq_zero_of_forall_point
 -- name    : GlobalTheory.FlatPoints.eq_zero_of_forall_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:43:18.543976+00:00
 -- url     : https://prove2.me/theorems/f97ca55e-c9b7-48ba-af44-d452e967e919

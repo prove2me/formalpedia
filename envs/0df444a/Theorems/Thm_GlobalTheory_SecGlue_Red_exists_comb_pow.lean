@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_Red_exists_comb_pow
 -- name    : GlobalTheory.SecGlue.Red.exists_comb_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:49:21.975532+00:00
 -- url     : https://prove2.me/theorems/5322fb6b-e956-4b61-8360-f2eb5d5bfd93

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartRed_IntEntry_red_indicator
 -- name    : GlobalTheory.PartRed.IntEntry.red_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:35:07.428828+00:00
 -- url     : https://prove2.me/theorems/34ff7008-11ff-4a04-8980-ac07af5dfd3a

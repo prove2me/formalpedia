@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZetaLeft_norm_sub_one_mul_riemannZeta_le
 -- name    : GlobalTheory.ZetaLeft.norm_sub_one_mul_riemannZeta_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:50:19.685069+00:00
 -- url     : https://prove2.me/theorems/cd434fb7-3169-4138-a0da-bcaf0b3e08b2

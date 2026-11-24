@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_unimodular_hermitian_reps_level_one
 -- name    : GlobalTheory.T.card_unimodular_hermitian_reps_level_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:27:27.657103+00:00
 -- url     : https://prove2.me/theorems/76775777-9b03-4c7e-b39b-111a6460e27b

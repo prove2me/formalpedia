@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitarySwap_heckeCommU
 -- name    : GlobalTheory.UnitarySwap.heckeCommU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:46:22.403802+00:00
 -- url     : https://prove2.me/theorems/592aa095-5705-41a6-98da-f33ffa95c123

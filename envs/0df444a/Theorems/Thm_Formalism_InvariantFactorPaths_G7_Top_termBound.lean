@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_Top_termBound
 -- name    : Formalism.InvariantFactorPaths.G7.Top.termBound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:38:16.554945+00:00
 -- url     : https://prove2.me/theorems/3ddbc41c-33ab-4f75-a263-8fb0c743bc68

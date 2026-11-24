@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_encard_setOf_index_prime_le
 -- name    : GlobalTheory.encard_setOf_index_prime_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:16:40.686743+00:00
 -- url     : https://prove2.me/theorems/5d315ba5-24b0-4e7f-a8af-02580b34d709

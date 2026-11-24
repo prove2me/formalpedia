@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exact_lTensor_iff_residueField
 -- name    : GlobalTheory.exact_lTensor_iff_residueField
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:51:44.029796+00:00
 -- url     : https://prove2.me/theorems/39d43be9-61da-4d57-9115-08dd63091ab0

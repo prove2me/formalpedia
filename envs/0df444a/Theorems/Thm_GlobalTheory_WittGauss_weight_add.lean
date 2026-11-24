@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WittGauss_weight_add
 -- name    : GlobalTheory.WittGauss.weight_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:14:11.669675+00:00
 -- url     : https://prove2.me/theorems/11ce9738-ef06-4c1e-b8c6-1b56a79e6c6a

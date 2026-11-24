@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_abstract_complete_reducibility
 -- name    : GlobalTheory.abstract_complete_reducibility
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:04:31.388819+00:00
 -- url     : https://prove2.me/theorems/947347af-4669-432d-bbc0-8babcb5c0d4f

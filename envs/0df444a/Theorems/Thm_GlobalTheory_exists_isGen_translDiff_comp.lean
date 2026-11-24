@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isGen_translDiff_comp
 -- name    : GlobalTheory.exists_isGen_translDiff_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:23:22.134422+00:00
 -- url     : https://prove2.me/theorems/5b837411-c195-42ea-b645-6a3c89726faa

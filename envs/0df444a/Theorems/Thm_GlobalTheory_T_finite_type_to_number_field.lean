@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_type_to_number_field
 -- name    : GlobalTheory.T.finite_type_to_number_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:39:44.585737+00:00
 -- url     : https://prove2.me/theorems/a157d32a-bf5d-4aeb-95b5-64120c314b48

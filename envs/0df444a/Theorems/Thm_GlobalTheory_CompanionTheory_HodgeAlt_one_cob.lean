@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeAlt_one_cob
 -- name    : GlobalTheory.CompanionTheory.HodgeAlt.one_cob
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:24:54.236777+00:00
 -- url     : https://prove2.me/theorems/94411895-0f4d-4ed4-97bc-6e607bcde091

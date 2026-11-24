@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_smooth_homogeneous_hasSum_unit_smul
 -- name    : GlobalTheory.exists_smooth_homogeneous_hasSum_unit_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:42:06.325667+00:00
 -- url     : https://prove2.me/theorems/702b4150-de41-412a-a1a2-657d7ccdfcf6

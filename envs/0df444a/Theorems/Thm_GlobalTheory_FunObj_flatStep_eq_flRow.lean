@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_flatStep_eq_flRow
 -- name    : GlobalTheory.FunObj.flatStep_eq_flRow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:35:25.360037+00:00
 -- url     : https://prove2.me/theorems/7f653992-f4ce-40b7-9e2e-60e9925a375d

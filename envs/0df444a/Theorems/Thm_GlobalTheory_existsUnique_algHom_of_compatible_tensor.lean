@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_algHom_of_compatible_tensor
 -- name    : GlobalTheory.existsUnique_algHom_of_compatible_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:39:44.848595+00:00
 -- url     : https://prove2.me/theorems/96a529e8-fbae-42f9-8ff4-1dc00259de04

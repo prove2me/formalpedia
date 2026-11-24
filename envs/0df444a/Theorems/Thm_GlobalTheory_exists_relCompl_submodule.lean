@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_relCompl_submodule
 -- name    : GlobalTheory.exists_relCompl_submodule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:41:17.6058+00:00
 -- url     : https://prove2.me/theorems/b74f85c6-eb6b-4d99-a07a-8b36dda2e848

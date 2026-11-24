@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_la_mono_inj
 -- name    : Formalism.CohomologicalDescent.LA.la_mono_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:49:43.281512+00:00
 -- url     : https://prove2.me/theorems/e21c741e-d65f-43ee-9fe2-cba077e55674

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_NerveCoh_cone_ex_of_acyclic
 -- name    : GlobalTheory.CompanionTheory.NerveCoh.cone_ex_of_acyclic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:27:14.34601+00:00
 -- url     : https://prove2.me/theorems/4f97c930-b8de-4361-beb1-04316f15bc56

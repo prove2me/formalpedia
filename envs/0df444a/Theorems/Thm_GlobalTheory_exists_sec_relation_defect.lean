@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_sec_relation_defect
 -- name    : GlobalTheory.exists_sec_relation_defect
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:50:54.061535+00:00
 -- url     : https://prove2.me/theorems/85fc708d-ecc7-4202-a36a-087032f0549b

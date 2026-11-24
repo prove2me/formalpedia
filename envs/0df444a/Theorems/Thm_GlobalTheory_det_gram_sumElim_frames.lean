@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_gram_sumElim_frames
 -- name    : GlobalTheory.det_gram_sumElim_frames
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:15:49.479182+00:00
 -- url     : https://prove2.me/theorems/64b5b6ae-8d0d-4a24-be7b-0e34e4a048aa

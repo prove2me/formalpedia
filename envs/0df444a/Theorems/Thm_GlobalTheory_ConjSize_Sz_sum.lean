@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConjSize_Sz_sum
 -- name    : GlobalTheory.ConjSize.Sz.sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:43:27.441772+00:00
 -- url     : https://prove2.me/theorems/1446b786-6524-416d-9be6-b84851fa9593

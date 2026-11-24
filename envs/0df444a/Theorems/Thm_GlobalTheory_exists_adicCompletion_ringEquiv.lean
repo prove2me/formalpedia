@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_adicCompletion_ringEquiv
 -- name    : GlobalTheory.exists_adicCompletion_ringEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:51:18.142787+00:00
 -- url     : https://prove2.me/theorems/ef596c62-5cb4-4d95-948b-5bcd66ab001e

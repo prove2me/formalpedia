@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_measurable_partitionOfUnity_unitLogTranslates
 -- name    : GlobalTheory.T.exists_measurable_partitionOfUnity_unitLogTranslates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:37:39.013189+00:00
 -- url     : https://prove2.me/theorems/709ed22f-85da-4ae8-b08f-14685899a936

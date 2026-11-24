@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_pow_mul_one_sub_mem_map_maximalIdeal
 -- name    : GlobalTheory.exists_pow_mul_one_sub_mem_map_maximalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:36:34.025875+00:00
 -- url     : https://prove2.me/theorems/195de982-a9df-4e6e-8dca-7f0d5aecd173

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_CellChange_minors_iff
 -- name    : GlobalTheory.Reg.CellChange.minors_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:37:57.683628+00:00
 -- url     : https://prove2.me/theorems/bac5176d-7c4d-4bb0-a4a7-fb6e1c0bf606

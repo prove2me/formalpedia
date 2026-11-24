@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_span_eq_top_of_card_hom_residueField_le
 -- name    : GlobalTheory.exists_span_eq_top_of_card_hom_residueField_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:42:04.928586+00:00
 -- url     : https://prove2.me/theorems/b0de9d45-e8fc-434d-93c3-30e0d2a832a6

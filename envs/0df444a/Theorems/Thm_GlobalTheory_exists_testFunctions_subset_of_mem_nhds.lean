@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_testFunctions_subset_of_mem_nhds
 -- name    : GlobalTheory.exists_testFunctions_subset_of_mem_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:42:43.282336+00:00
 -- url     : https://prove2.me/theorems/23593b94-0107-48e1-8554-b4128a8549ab

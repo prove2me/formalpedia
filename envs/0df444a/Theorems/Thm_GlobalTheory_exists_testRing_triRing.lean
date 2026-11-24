@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_testRing_triRing
 -- name    : GlobalTheory.exists_testRing_triRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:44:24.197819+00:00
 -- url     : https://prove2.me/theorems/05222ca9-f953-48c0-9f68-b1444c1d8079

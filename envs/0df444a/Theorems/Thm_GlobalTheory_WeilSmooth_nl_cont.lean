@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilSmooth_nl_cont
 -- name    : GlobalTheory.WeilSmooth.nl_cont
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:11:01.998282+00:00
 -- url     : https://prove2.me/theorems/e0950a4f-4c08-4c81-a23c-848c50ddfdf9

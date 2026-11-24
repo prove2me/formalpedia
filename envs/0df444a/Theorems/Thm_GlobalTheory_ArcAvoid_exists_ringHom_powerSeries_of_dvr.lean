@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcAvoid_exists_ringHom_powerSeries_of_dvr
 -- name    : GlobalTheory.ArcAvoid.exists_ringHom_powerSeries_of_dvr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:59:23.815868+00:00
 -- url     : https://prove2.me/theorems/4dbed37f-48f5-4c5d-a33e-0cb2603c4298

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_fixed_average_approx_of_subgroup_fixed
 -- name    : GlobalTheory.T.exists_fixed_average_approx_of_subgroup_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:35:40.062077+00:00
 -- url     : https://prove2.me/theorems/1b0170dc-786e-4284-ac27-54c82546c59c

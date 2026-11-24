@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AxForm_pair_smul_D
 -- name    : GlobalTheory.CompanionTheory.AxForm.pair_smul_D
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:24:40.79312+00:00
 -- url     : https://prove2.me/theorems/142afb9b-5d80-4ba6-b848-c618ff14b147

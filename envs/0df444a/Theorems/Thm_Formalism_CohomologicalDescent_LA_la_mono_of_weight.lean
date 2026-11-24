@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_la_mono_of_weight
 -- name    : Formalism.CohomologicalDescent.LA.la_mono_of_weight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:49:33.988947+00:00
 -- url     : https://prove2.me/theorems/b77f9b38-87ac-487a-b43f-016a48747962

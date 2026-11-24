@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HirschDim4_unbounded_four_counterexample
 -- name    : HirschDim4.unbounded_four_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-16T22:56:11.609517+00:00
 -- url     : https://prove2.me/theorems/42b2f5d3-dcdd-4cba-9897-3ff27fd02e28

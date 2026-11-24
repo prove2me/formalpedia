@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_and_ncard_setOf_norm_le_of_rank
 -- name    : GlobalTheory.finite_and_ncard_setOf_norm_le_of_rank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:46:19.981569+00:00
 -- url     : https://prove2.me/theorems/ee1a672b-5d1f-43af-8288-bc6f9010416c

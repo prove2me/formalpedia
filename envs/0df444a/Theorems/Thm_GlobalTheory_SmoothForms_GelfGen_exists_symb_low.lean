@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_GelfGen_exists_symb_low
 -- name    : GlobalTheory.SmoothForms.GelfGen.exists_symb_low
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:29:22.638162+00:00
 -- url     : https://prove2.me/theorems/7c803bbf-a663-45f7-95b1-12b874a10bcc

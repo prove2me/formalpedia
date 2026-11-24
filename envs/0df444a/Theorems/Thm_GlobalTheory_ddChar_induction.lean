@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ddChar_induction
 -- name    : GlobalTheory.ddChar_induction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:14:47.672264+00:00
 -- url     : https://prove2.me/theorems/ee055c49-19fb-4d39-a08c-17b4a1d57469

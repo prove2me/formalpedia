@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finrank_iSup_iInf_eigenspace_ge_card
 -- name    : GlobalTheory.finrank_iSup_iInf_eigenspace_ge_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:49:21.795884+00:00
 -- url     : https://prove2.me/theorems/239605f8-f368-4ee0-8714-b3295938be96

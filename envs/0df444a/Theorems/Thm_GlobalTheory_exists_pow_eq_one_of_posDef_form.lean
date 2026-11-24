@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_pow_eq_one_of_posDef_form
 -- name    : GlobalTheory.exists_pow_eq_one_of_posDef_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:36:34.563031+00:00
 -- url     : https://prove2.me/theorems/d2b6b9d2-2bbb-4dd9-b399-cd3356d4af29

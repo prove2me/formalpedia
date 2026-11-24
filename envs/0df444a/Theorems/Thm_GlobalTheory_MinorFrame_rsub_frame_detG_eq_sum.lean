@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorFrame_rsub_frame_detG_eq_sum
 -- name    : GlobalTheory.MinorFrame.rsub_frame_detG_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:14:52.072696+00:00
 -- url     : https://prove2.me/theorems/8e765753-f30a-46c4-982c-130ee996c399

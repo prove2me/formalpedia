@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LieFrame_exists_eigenbasis
 -- name    : GlobalTheory.LieFrame.exists_eigenbasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:26:36.901031+00:00
 -- url     : https://prove2.me/theorems/84f28e04-b5f1-4f74-80bf-83d5fcd7158d

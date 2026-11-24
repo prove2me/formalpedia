@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_basis_adapted_two_subspaces
 -- name    : GlobalTheory.exists_basis_adapted_two_subspaces
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:30:04.252711+00:00
 -- url     : https://prove2.me/theorems/6e690bd8-399a-489d-ba93-a43fd6117367

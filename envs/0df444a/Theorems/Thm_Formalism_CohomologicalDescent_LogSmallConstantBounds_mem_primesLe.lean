@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_mem_primesLe
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.mem_primesLe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:44:14.502828+00:00
 -- url     : https://prove2.me/theorems/6a6e8910-4c3f-4cda-9d51-8843ab8d51c4

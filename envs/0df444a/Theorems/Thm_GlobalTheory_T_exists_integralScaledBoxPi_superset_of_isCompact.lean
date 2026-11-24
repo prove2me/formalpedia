@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_integralScaledBoxPi_superset_of_isCompact
 -- name    : GlobalTheory.T.exists_integralScaledBoxPi_superset_of_isCompact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:05:32.072852+00:00
 -- url     : https://prove2.me/theorems/e7a3d031-d159-472b-9113-d8f58d0620dd

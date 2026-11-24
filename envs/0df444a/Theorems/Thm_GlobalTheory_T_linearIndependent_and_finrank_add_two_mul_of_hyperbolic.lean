@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_linearIndependent_and_finrank_add_two_mul_of_hyperbolic
 -- name    : GlobalTheory.T.linearIndependent_and_finrank_add_two_mul_of_hyperbolic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:52:37.304513+00:00
 -- url     : https://prove2.me/theorems/97f11275-05b5-460e-9396-839cb1b41a8c

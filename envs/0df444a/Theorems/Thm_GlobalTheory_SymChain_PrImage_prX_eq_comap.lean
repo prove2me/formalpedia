@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymChain_PrImage_prX_eq_comap
 -- name    : GlobalTheory.SymChain.PrImage.prX_eq_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:35:03.503568+00:00
 -- url     : https://prove2.me/theorems/7524e364-975e-4dee-8419-ba32436aa3dc

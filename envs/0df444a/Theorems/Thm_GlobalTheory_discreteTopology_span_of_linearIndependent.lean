@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_discreteTopology_span_of_linearIndependent
 -- name    : GlobalTheory.discreteTopology_span_of_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:16:06.366809+00:00
 -- url     : https://prove2.me/theorems/e20d30cd-f304-4d73-b5ca-b7113997b903

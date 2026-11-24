@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_normOne_det_one_add_ne_zero
 -- name    : GlobalTheory.exists_normOne_det_one_add_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:36:13.804749+00:00
 -- url     : https://prove2.me/theorems/b7ca00ee-9a8e-4654-acc6-2ba11a9b8db3

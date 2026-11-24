@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_zeros_on_line
 -- name    : GlobalTheory.finite_zeros_on_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:47:14.91479+00:00
 -- url     : https://prove2.me/theorems/ba8c5503-ba91-4d87-ad75-f0134485e889

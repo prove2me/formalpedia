@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_charConstOnTranslates_trivial
 -- name    : GlobalTheory.charConstOnTranslates_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:07:20.670803+00:00
 -- url     : https://prove2.me/theorems/2b6ab3dd-4bf0-4bef-9ea7-105daff9e73e

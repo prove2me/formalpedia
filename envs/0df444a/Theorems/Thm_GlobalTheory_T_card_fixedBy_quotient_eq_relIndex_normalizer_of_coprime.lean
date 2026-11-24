@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_fixedBy_quotient_eq_relIndex_normalizer_of_coprime
 -- name    : GlobalTheory.T.card_fixedBy_quotient_eq_relIndex_normalizer_of_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:28:18.095798+00:00
 -- url     : https://prove2.me/theorems/470ad403-dec1-45d3-8f55-f030914efc3e

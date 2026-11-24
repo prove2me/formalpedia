@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeTateImage_smod_iff
 -- name    : GlobalTheory.HodgeTateImage.smod_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:47:49.791215+00:00
 -- url     : https://prove2.me/theorems/755ffb3e-7092-4c72-bf21-80e560c3a946

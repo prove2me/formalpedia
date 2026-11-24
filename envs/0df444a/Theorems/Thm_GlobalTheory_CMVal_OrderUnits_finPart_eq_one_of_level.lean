@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_OrderUnits_finPart_eq_one_of_level
 -- name    : GlobalTheory.CMVal.OrderUnits.finPart_eq_one_of_level
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:51:33.948626+00:00
 -- url     : https://prove2.me/theorems/e29031ab-b9b5-406a-9a63-26dfa3b0cf4a

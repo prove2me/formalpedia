@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eventually_isUnit_and_tendsto_inverse
 -- name    : GlobalTheory.eventually_isUnit_and_tendsto_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:19:54.640294+00:00
 -- url     : https://prove2.me/theorems/5114d03c-4698-431f-b679-672b700b6f6f

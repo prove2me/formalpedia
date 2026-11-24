@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_KNorm_npow1
 -- name    : Formalism.L2.Th1.B.KNorm.npow1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:47:05.796664+00:00
 -- url     : https://prove2.me/theorems/a45b9bd7-3360-4fc9-87f6-b501e43a42be

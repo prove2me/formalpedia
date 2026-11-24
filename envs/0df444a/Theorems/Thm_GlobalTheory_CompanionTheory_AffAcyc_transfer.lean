@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AffAcyc_transfer
 -- name    : GlobalTheory.CompanionTheory.AffAcyc.transfer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:25:23.835607+00:00
 -- url     : https://prove2.me/theorems/8834c6d5-075f-4676-baac-ca31f0276549

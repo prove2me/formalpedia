@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dvrSubring_eq_top
 -- name    : GlobalTheory.dvrSubring_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:16:32.532988+00:00
 -- url     : https://prove2.me/theorems/4b16a4d7-8e42-4eda-bcce-9ab4652e1cd7

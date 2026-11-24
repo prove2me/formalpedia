@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnfoldedEntries_reps_finite
 -- name    : GlobalTheory.UnfoldedEntries.reps_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:41:58.378813+00:00
 -- url     : https://prove2.me/theorems/8af315f6-c76d-45b9-8968-7066bcf7e746

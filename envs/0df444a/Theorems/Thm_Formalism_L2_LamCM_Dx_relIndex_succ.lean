@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_Dx_relIndex_succ
 -- name    : Formalism.L2.LamCM.Dx.relIndex_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:17:49.632485+00:00
 -- url     : https://prove2.me/theorems/2b06a15f-d751-4708-8884-8e0ed588cecc

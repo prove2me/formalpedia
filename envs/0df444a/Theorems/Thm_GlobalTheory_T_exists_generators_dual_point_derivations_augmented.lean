@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_generators_dual_point_derivations_augmented
 -- name    : GlobalTheory.T.exists_generators_dual_point_derivations_augmented
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:36:06.714952+00:00
 -- url     : https://prove2.me/theorems/917f6869-a59f-4d87-af80-a892366e4dfc

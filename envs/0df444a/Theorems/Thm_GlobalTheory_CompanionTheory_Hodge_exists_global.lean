@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Hodge_exists_global
 -- name    : GlobalTheory.CompanionTheory.Hodge.exists_global
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:25:13.494896+00:00
 -- url     : https://prove2.me/theorems/5ef5133c-da5d-470d-823d-b3ee2ed5ec34

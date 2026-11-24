@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeAlt_nu_pull
 -- name    : GlobalTheory.CompanionTheory.HodgeAlt.nu_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:25:39.8048+00:00
 -- url     : https://prove2.me/theorems/63dc4225-3a7a-41a1-9546-31441e6a992e

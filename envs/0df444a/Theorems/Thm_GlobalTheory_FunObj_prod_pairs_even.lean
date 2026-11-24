@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_prod_pairs_even
 -- name    : GlobalTheory.FunObj.prod_pairs_even
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:36:41.539158+00:00
 -- url     : https://prove2.me/theorems/e7127afc-31e8-4224-ae86-a8272cb29d1d

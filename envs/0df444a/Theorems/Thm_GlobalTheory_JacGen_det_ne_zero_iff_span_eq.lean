@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JacGen_det_ne_zero_iff_span_eq
 -- name    : GlobalTheory.JacGen.det_ne_zero_iff_span_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:45:54.963929+00:00
 -- url     : https://prove2.me/theorems/69e88d71-8ed4-4250-9713-6049bfbd7862

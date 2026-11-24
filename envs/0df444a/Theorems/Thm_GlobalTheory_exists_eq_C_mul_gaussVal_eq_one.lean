@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_eq_C_mul_gaussVal_eq_one
 -- name    : GlobalTheory.exists_eq_C_mul_gaussVal_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:13:07.784212+00:00
 -- url     : https://prove2.me/theorems/9c6fbec6-e512-4219-9ed8-f259496ab601

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AbForms_uOf_res
 -- name    : GlobalTheory.CompanionTheory.AbForms.uOf_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:21:35.460998+00:00
 -- url     : https://prove2.me/theorems/89bb53da-f274-4d10-9e2b-dabfb0ab1dbf

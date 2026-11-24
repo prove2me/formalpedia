@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_complete_isAlgClosed_of_isDiscreteValuationRing
 -- name    : GlobalTheory.exists_complete_isAlgClosed_of_isDiscreteValuationRing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:51:42.275807+00:00
 -- url     : https://prove2.me/theorems/2d63cd22-f910-4ee2-8100-15054b2cfeb3

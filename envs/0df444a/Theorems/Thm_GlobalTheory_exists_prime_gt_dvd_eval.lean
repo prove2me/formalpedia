@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_prime_gt_dvd_eval
 -- name    : GlobalTheory.exists_prime_gt_dvd_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:36:42.710319+00:00
 -- url     : https://prove2.me/theorems/f01a1d90-8a71-4e95-b35c-ae059716f110

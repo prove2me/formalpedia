@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_algebraicIndependent_of_quotient
 -- name    : GlobalTheory.algebraicIndependent_of_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:05:25.445845+00:00
 -- url     : https://prove2.me/theorems/8578c2c5-a1f3-4697-a390-bcdd8c470141

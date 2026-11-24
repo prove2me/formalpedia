@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finrank_add_two_mul_of_hyperbolic_pairs
 -- name    : GlobalTheory.finrank_add_two_mul_of_hyperbolic_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:47:20.496272+00:00
 -- url     : https://prove2.me/theorems/74b6efb3-2168-465f-93ce-d9566dcc0cce

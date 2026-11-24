@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_exists_pow_cocycle
 -- name    : GlobalTheory.SecGlue.exists_pow_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:50:51.326145+00:00
 -- url     : https://prove2.me/theorems/b5960d0d-f5e2-4a9b-a48f-9119f2a95813

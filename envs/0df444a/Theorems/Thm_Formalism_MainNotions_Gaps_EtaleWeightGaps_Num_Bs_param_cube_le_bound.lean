@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_EtaleWeightGaps_Num_Bs_param_cube_le_bound
 -- name    : Formalism.MainNotions.Gaps.EtaleWeightGaps.Num.Bs.param_cube_le_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:41:13.978068+00:00
 -- url     : https://prove2.me/theorems/553453fa-5e18-4bbe-9f18-e4b2e4bee606

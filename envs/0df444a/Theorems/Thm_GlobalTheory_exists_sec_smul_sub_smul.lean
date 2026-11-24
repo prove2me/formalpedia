@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_sec_smul_sub_smul
 -- name    : GlobalTheory.exists_sec_smul_sub_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:42:24.281104+00:00
 -- url     : https://prove2.me/theorems/fbe93f26-5ef9-42b6-b54f-e9e18b8a1f22

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SliceOp_contDiff_qOp
 -- name    : GlobalTheory.SliceOp.contDiff_qOp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:50:11.208621+00:00
 -- url     : https://prove2.me/theorems/7aec452a-c5f0-4b1e-859d-4e77082acb80

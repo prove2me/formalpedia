@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_sum_mul_of_finite_torsion
 -- name    : GlobalTheory.exists_sum_mul_of_finite_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:42:28.384354+00:00
 -- url     : https://prove2.me/theorems/44c0a085-de55-479b-8577-6a96edb4c3f3

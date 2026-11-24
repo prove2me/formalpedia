@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_la_rowGen_X
 -- name    : Formalism.CohomologicalDescent.LA.la_rowGen_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:49:20.806949+00:00
 -- url     : https://prove2.me/theorems/aa38293e-0b8b-4386-8e1d-5826b06475e3

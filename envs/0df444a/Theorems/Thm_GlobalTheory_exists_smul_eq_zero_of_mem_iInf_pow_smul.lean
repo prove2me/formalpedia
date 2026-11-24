@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_smul_eq_zero_of_mem_iInf_pow_smul
 -- name    : GlobalTheory.exists_smul_eq_zero_of_mem_iInf_pow_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:42:13.510412+00:00
 -- url     : https://prove2.me/theorems/90738225-1cf7-4312-a1bb-353e7ef29467

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LR_lrc_fock_zero_right
 -- name    : Formalism.CohomologicalDescent.LR.lrc_fock_zero_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:36:27.816917+00:00
 -- url     : https://prove2.me/theorems/c3458a09-ac1d-4db6-8c46-8de97c96e5b2

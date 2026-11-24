@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_integer_near
 -- name    : GlobalTheory.exists_integer_near
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:33:26.3209+00:00
 -- url     : https://prove2.me/theorems/f2e74825-fc7c-4e33-bf27-477c18c427d2

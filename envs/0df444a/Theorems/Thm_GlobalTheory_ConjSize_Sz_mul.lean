@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConjSize_Sz_mul
 -- name    : GlobalTheory.ConjSize.Sz.mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:41:25.452802+00:00
 -- url     : https://prove2.me/theorems/1f964458-b547-4117-a440-bd7c29cc16a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_vector_of_smooth_antilinear
 -- name    : GlobalTheory.exists_vector_of_smooth_antilinear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:45:53.394776+00:00
 -- url     : https://prove2.me/theorems/940db5d0-2420-4860-ba2c-1184195ef155

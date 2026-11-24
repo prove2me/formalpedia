@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_evBt_of_tangent_of_series
 -- name    : GlobalTheory.evBt_of_tangent_of_series
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:21:30.172741+00:00
 -- url     : https://prove2.me/theorems/6ca0bbe0-ae58-4601-b542-59eb73ba4dde

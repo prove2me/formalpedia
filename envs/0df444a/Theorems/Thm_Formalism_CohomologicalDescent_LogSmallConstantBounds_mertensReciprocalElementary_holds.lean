@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_mertensReciprocalElementary_holds
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.mertensReciprocalElementary_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:44:33.881345+00:00
 -- url     : https://prove2.me/theorems/46327846-8889-47cb-8062-846b005f1df3

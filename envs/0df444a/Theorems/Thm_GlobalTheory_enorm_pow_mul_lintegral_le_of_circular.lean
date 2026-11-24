@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_enorm_pow_mul_lintegral_le_of_circular
 -- name    : GlobalTheory.enorm_pow_mul_lintegral_le_of_circular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:16:39.882812+00:00
 -- url     : https://prove2.me/theorems/1d439fcb-be66-4917-9100-2e63f9239a4a

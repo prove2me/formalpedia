@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnfoldedEntries_flat_source
 -- name    : GlobalTheory.UnfoldedEntries.flat_source
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:39:31.186702+00:00
 -- url     : https://prove2.me/theorems/57596ba8-7200-4ef2-8d35-f3589d467a97

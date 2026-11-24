@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpTangent_isFinite_mulN
 -- name    : GlobalTheory.GrpTangent.isFinite_mulN
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:53:45.365869+00:00
 -- url     : https://prove2.me/theorems/83e3f878-87a2-4562-abcb-285ed3234b96

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Lift_VacAnn_proj_annihilated
 -- name    : GlobalTheory.Mem.Lift.VacAnn.proj_annihilated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:32:49.550081+00:00
 -- url     : https://prove2.me/theorems/9252df3f-b335-452e-90ef-155f8dc6e5ac

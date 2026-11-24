@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_multiplicity_product
 -- name    : Formalism.BranchingDeterminantCap.multiplicity_product
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:48:37.513887+00:00
 -- url     : https://prove2.me/theorems/34642efa-37ee-4fd7-980b-99d71d590caa

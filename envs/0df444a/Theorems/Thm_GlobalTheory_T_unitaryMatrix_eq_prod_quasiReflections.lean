@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitaryMatrix_eq_prod_quasiReflections
 -- name    : GlobalTheory.T.unitaryMatrix_eq_prod_quasiReflections
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:01:41.395375+00:00
 -- url     : https://prove2.me/theorems/f8c6d7e0-e29b-451c-8eef-b2c426900540

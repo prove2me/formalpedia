@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_extension_descends_of_isIntegral
 -- name    : GlobalTheory.extension_descends_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:46:36.71679+00:00
 -- url     : https://prove2.me/theorems/30545698-e9f1-400a-9098-d7f7157247ef

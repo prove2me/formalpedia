@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_surjective_exteriorPower_prod
 -- name    : GlobalTheory.exists_surjective_exteriorPower_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:42:38.273831+00:00
 -- url     : https://prove2.me/theorems/a56f03e5-8253-4b36-9424-ef312fd29cf8

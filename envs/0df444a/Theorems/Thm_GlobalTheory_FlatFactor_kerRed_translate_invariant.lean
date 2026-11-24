@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatFactor_kerRed_translate_invariant
 -- name    : GlobalTheory.FlatFactor.kerRed_translate_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:38:50.378579+00:00
 -- url     : https://prove2.me/theorems/c5346b36-30c2-4bdb-b609-604ae0e6e72e

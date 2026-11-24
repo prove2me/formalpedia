@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_evBasic_nEval_eq_tEval
 -- name    : GlobalTheory.evBasic_nEval_eq_tEval
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:18:22.585111+00:00
 -- url     : https://prove2.me/theorems/8f7e03b7-88da-427e-9a3c-3b7b2e57107c

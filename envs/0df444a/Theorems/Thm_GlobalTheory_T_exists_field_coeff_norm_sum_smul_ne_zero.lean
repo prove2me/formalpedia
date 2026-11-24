@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_field_coeff_norm_sum_smul_ne_zero
 -- name    : GlobalTheory.T.exists_field_coeff_norm_sum_smul_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:36:00.00556+00:00
 -- url     : https://prove2.me/theorems/9ac57e60-c042-40da-b9df-62234c119efa

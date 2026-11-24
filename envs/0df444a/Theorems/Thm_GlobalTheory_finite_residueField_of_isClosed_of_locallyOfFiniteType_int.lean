@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_residueField_of_isClosed_of_locallyOfFiniteType_int
 -- name    : GlobalTheory.finite_residueField_of_isClosed_of_locallyOfFiniteType_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:47:27.089807+00:00
 -- url     : https://prove2.me/theorems/fe0bc00f-2d72-45a6-890f-471859fdc16a

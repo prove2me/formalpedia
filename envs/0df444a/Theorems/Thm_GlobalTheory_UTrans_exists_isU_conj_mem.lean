@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_exists_isU_conj_mem
 -- name    : GlobalTheory.UTrans.exists_isU_conj_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:23:00.021238+00:00
 -- url     : https://prove2.me/theorems/8bcf0065-869c-4af7-a95b-48d2aa1a758e

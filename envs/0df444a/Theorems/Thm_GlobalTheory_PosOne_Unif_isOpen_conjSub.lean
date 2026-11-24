@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PosOne_Unif_isOpen_conjSub
 -- name    : GlobalTheory.PosOne.Unif.isOpen_conjSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:42:21.939991+00:00
 -- url     : https://prove2.me/theorems/ef716531-15f0-40c9-ba59-0556ece9d0c6

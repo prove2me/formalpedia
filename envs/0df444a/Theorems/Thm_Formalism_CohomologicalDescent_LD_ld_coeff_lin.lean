@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_ld_coeff_lin
 -- name    : Formalism.CohomologicalDescent.LD.ld_coeff_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:41:43.207219+00:00
 -- url     : https://prove2.me/theorems/3c12a038-363b-44a8-b457-8db5a4185b3e

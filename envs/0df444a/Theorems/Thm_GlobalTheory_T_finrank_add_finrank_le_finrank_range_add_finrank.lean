@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finrank_add_finrank_le_finrank_range_add_finrank
 -- name    : GlobalTheory.T.finrank_add_finrank_le_finrank_range_add_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:39:58.953815+00:00
 -- url     : https://prove2.me/theorems/c415b0a4-7baf-41b0-a803-8756b3451cad

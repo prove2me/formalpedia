@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_self_dual_hermitian_lattice_basis_exists
 -- name    : GlobalTheory.T.self_dual_hermitian_lattice_basis_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:58:12.653388+00:00
 -- url     : https://prove2.me/theorems/493888d3-6513-4ba8-93b1-d95b452a60c7

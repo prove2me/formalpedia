@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_measurable_nonneg_hasSum_ulog_translates
 -- name    : GlobalTheory.exists_measurable_nonneg_hasSum_ulog_translates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:34:35.082833+00:00
 -- url     : https://prove2.me/theorems/5da9ce54-d84e-4f28-986c-baafe8a86e9a

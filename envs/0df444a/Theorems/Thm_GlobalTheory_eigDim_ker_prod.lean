@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eigDim_ker_prod
 -- name    : GlobalTheory.eigDim_ker_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:16:47.739075+00:00
 -- url     : https://prove2.me/theorems/9f432288-e2b0-4fec-ba21-7aedf925f0f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QH_small_zeros
 -- name    : QH.small_zeros
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:48:19.498079+00:00
 -- url     : https://prove2.me/theorems/b7d86a14-284b-4c7b-b70c-b7a798588a12

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eq_of_norm_prod_aeval_eq_moduli
 -- name    : GlobalTheory.T.eq_of_norm_prod_aeval_eq_moduli
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:33:06.653681+00:00
 -- url     : https://prove2.me/theorems/8e40ee6e-49bb-4576-9f90-35cd448c26a2
