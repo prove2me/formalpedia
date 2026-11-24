@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_NU_coeff_P
 -- name    : Formalism.NormUnitaryCountingLemmas.NU.coeff_P
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:17:54.755798+00:00
 -- url     : https://prove2.me/theorems/66aa9607-6c09-4f79-811f-47d30049f524

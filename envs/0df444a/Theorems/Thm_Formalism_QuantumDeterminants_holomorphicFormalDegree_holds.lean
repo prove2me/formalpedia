@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_holomorphicFormalDegree_holds
 -- name    : Formalism.QuantumDeterminants.holomorphicFormalDegree_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:20:30.028733+00:00
 -- url     : https://prove2.me/theorems/7340b8dc-f715-4cb8-85b7-7b33c34c64ac

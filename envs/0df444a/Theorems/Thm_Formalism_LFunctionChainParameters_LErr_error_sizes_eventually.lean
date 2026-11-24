@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LErr_error_sizes_eventually
 -- name    : Formalism.LFunctionChainParameters.LErr.error_sizes_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:48:49.328747+00:00
 -- url     : https://prove2.me/theorems/a1292bcb-b157-4f3b-b273-a6beabf8e0c8

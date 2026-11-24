@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_fourth_root
 -- name    : Formalism.L2.Th1.H.fourth_root
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:28:17.418554+00:00
 -- url     : https://prove2.me/theorems/f92bf22b-2e8d-4a2a-affe-55cb29be1692

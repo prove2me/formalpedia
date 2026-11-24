@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_NMul_coeff_mul_eq
 -- name    : Formalism.NormUnitaryCountingLemmas.NMul.coeff_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:16:42.180955+00:00
 -- url     : https://prove2.me/theorems/15218216-f22f-4110-9823-a5a5250ff73c

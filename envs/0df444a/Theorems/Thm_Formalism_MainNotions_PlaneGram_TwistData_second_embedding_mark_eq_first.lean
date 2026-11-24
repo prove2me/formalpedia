@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_second_embedding_mark_eq_first
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.second_embedding_mark_eq_first
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:05:46.19346+00:00
 -- url     : https://prove2.me/theorems/9916c379-36a1-4dab-9e0f-525b03b24d0d

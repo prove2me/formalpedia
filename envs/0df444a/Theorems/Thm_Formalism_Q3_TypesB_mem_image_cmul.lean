@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_TypesB_mem_image_cmul
 -- name    : Formalism.Q3.TypesB.mem_image_cmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:17:23.709041+00:00
 -- url     : https://prove2.me/theorems/8fa97c31-8145-4ad8-a01b-3919eaf761ff

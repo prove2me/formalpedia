@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_sum_hcomp
 -- name    : Formalism.MainNotions.PlaneGram.sum_hcomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:08:03.359631+00:00
 -- url     : https://prove2.me/theorems/cd3dddd1-32cf-4b5c-a23c-e63850a392e0

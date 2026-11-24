@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_uW_line
 -- name    : Formalism.QuantumDeterminants.uW_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:20:30.579889+00:00
 -- url     : https://prove2.me/theorems/591576af-680d-4dc9-acaf-41b7d88492fb

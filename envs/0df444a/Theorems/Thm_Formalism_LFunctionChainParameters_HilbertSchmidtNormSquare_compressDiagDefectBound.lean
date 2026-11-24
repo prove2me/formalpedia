@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtNormSquare_compressDiagDefectBound
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtNormSquare.compressDiagDefectBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:29:22.155959+00:00
 -- url     : https://prove2.me/theorems/f4438af0-8dc2-44db-a4df-ca43f48469f1

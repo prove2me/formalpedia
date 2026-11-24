@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_powSubPow
 -- name    : Formalism.NG.powSubPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:16:50.653354+00:00
 -- url     : https://prove2.me/theorems/2aee2f84-a2cf-4e2b-b31d-183cd3690492

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_RamifiedHeckeModels_lemma_c_twist_ramified
 -- name    : Formalism.HermitianLattices.RamifiedHeckeModels.lemma_c_twist_ramified
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:30:04.529181+00:00
 -- url     : https://prove2.me/theorems/474ab235-0e31-41ad-8464-8d3dc6bfc2bb

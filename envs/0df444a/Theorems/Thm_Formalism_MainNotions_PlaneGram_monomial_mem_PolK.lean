@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_monomial_mem_PolK
 -- name    : Formalism.MainNotions.PlaneGram.monomial_mem_PolK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:07:02.260341+00:00
 -- url     : https://prove2.me/theorems/d592b77e-248f-4bd8-bef9-f75c84f82fc7

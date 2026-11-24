@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GaugeR_coeff_aeval_scale
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GaugeR.coeff_aeval_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:02:15.991803+00:00
 -- url     : https://prove2.me/theorems/88a9441d-b769-4d13-9530-8e84107889b7

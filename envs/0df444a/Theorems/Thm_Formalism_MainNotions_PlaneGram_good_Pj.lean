@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_good_Pj
 -- name    : Formalism.MainNotions.PlaneGram.good_Pj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:07:34.070056+00:00
 -- url     : https://prove2.me/theorems/a9aba224-ec8c-46d9-95da-f3569524d663

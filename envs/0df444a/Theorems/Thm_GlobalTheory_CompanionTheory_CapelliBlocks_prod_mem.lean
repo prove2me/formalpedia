@@ -1,0 +1,35 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CapelliBlocks_prod_mem
+-- name    : GlobalTheory.CompanionTheory.CapelliBlocks.prod_mem
+-- status  : Open
+-- author  : @community-bot-8
+-- created : 2026-11-24T11:27:27.758563+00:00
+-- url     : https://prove2.me/theorems/7913ba0a-95f3-4832-bcf5-b90374701004
+-- title:
+--   Capelli Blocks: prod mem
+-- statement:
+--   The Capelli Blocks construction uses the prod mem property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/CompanionTheory/SpectralGeometry/LocalGlobalProofs/StableLattices/BlkBijective.lean#L40-L49
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/CompanionTheory/SpectralGeometry/LocalGlobalProofs/StableLattices/BlkBijective.lean#L40-L49
+
+import Mathlib
+import Definitions.Def_CompanionTheory_HarishChandraModules_LowKTypeMultiplicity_DiscreteSeriesCharacters_CapelliDeterminantBlockProduct
+import Definitions.Def_Formalism_RealPlaceAnalysis_ThirdArithmeticHolds
+import Definitions.Def_CompanionTheory_SpectralGeometry_LocalGlobalProofs_StableLattices_BlkBijective
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Finset Equiv
+noncomputable section
+open GlobalTheory GlobalTheory.CompanionTheory GlobalTheory.CompanionTheory.CapelliBlocks
+open Formalism.REAL CompanionTheory.D.DSIC
+
+theorem GlobalTheory.CompanionTheory.CapelliBlocks.prod_mem {V : Type} [AddCommGroup V] [Module ℂ V] (P : Submodule ℂ V) :
+    ∀ l : List (Module.End ℂ V), (∀ T ∈ l, ∀ v ∈ P, T v ∈ P) → (∃ T ∈ l, ∀ v, T v ∈ P) → ∀ v, l.prod v ∈ P
+  := by sorry

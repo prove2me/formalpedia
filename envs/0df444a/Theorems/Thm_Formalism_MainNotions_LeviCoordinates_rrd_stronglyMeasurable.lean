@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_LeviCoordinates_rrd_stronglyMeasurable
 -- name    : Formalism.MainNotions.LeviCoordinates.rrd_stronglyMeasurable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:57:03.002861+00:00
 -- url     : https://prove2.me/theorems/a2ec0e6f-1fc3-4fec-925d-fed861edfa04

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_S_Gauge_Cd_jpq_sq
 -- name    : Formalism.MainNotions.S.Gauge.Cd.jpq_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:10:40.847939+00:00
 -- url     : https://prove2.me/theorems/ef96e312-5357-4c4f-9de8-5ececacdb1c3

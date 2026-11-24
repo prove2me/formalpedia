@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_CMConjugation_sigma_alpha
 -- name    : Formalism.Q3.CMConjugation.sigma_alpha
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:17:52.049749+00:00
 -- url     : https://prove2.me/theorems/0158b1ab-a1f4-4c73-8e18-49ceec8cd6ce

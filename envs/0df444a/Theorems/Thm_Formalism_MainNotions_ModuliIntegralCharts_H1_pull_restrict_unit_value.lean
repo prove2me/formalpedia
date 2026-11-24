@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_pull_restrict_unit_value
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.pull_restrict_unit_value
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:02:35.291107+00:00
 -- url     : https://prove2.me/theorems/cc93181c-c694-4cd0-ac23-b635556c8dc5

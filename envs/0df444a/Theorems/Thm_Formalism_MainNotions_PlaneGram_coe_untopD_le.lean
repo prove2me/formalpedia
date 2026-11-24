@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_coe_untopD_le
 -- name    : Formalism.MainNotions.PlaneGram.coe_untopD_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:07:07.381943+00:00
 -- url     : https://prove2.me/theorems/6b00e98e-af09-4383-89ff-ad1a7a503ee8

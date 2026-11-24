@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_T0_SumDat_Ok_sum_le_named
 -- name    : Formalism.MainNotions.Gaps.T0.SumDat.Ok.sum_le_named
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:55:53.780466+00:00
 -- url     : https://prove2.me/theorems/cac60088-d761-4a08-892a-e341d27bb43a

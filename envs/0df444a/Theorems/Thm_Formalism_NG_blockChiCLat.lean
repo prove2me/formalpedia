@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_blockChiCLat
 -- name    : Formalism.NG.blockChiCLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:15:58.946222+00:00
 -- url     : https://prove2.me/theorems/b337cf55-5bd2-4a05-bc7d-1bd79030e332

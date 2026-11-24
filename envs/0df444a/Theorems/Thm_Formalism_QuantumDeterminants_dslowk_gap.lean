@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_dslowk_gap
 -- name    : Formalism.QuantumDeterminants.dslowk_gap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:18:38.590216+00:00
 -- url     : https://prove2.me/theorems/1d5da9ae-d0ad-4810-a2bf-9a05d221d499

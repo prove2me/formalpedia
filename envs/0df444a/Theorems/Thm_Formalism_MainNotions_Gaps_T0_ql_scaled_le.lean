@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_T0_ql_scaled_le
 -- name    : Formalism.MainNotions.Gaps.T0.ql_scaled_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:56:24.56416+00:00
 -- url     : https://prove2.me/theorems/5aa6a118-30e3-47e0-8d27-9f78653a70fd

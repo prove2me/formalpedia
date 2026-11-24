@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_segment_letter_second_embedding
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.segment_letter_second_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:05:50.099677+00:00
 -- url     : https://prove2.me/theorems/50d0d8bd-d611-40cf-a5ce-31f1092f0da7

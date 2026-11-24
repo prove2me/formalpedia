@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_Inhab_smul1
 -- name    : Formalism.MainNotions.G.Inhab.smul1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:18:00.188857+00:00
 -- url     : https://prove2.me/theorems/194098dc-e0d3-407e-8f81-a1277f78b4ed

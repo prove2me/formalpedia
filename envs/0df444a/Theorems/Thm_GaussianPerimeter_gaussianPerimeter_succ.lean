@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_gaussianPerimeter_succ
 -- name    : GaussianPerimeter.gaussianPerimeter_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:09:53.699085+00:00
 -- url     : https://prove2.me/theorems/44d24b8d-364d-4117-9be1-8ee007eb8333

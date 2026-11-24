@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_QuotientPowerLengths_img_mono
 -- name    : Formalism.NG.QuotientPowerLengths.img_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:13:55.044474+00:00
 -- url     : https://prove2.me/theorems/659170a5-e91a-466a-84a0-3dca5d00c693

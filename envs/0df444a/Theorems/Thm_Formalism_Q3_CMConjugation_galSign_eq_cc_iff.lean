@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_CMConjugation_galSign_eq_cc_iff
 -- name    : Formalism.Q3.CMConjugation.galSign_eq_cc_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:56:59.675201+00:00
 -- url     : https://prove2.me/theorems/a2378be5-239e-4818-975c-2ab18251c3cc

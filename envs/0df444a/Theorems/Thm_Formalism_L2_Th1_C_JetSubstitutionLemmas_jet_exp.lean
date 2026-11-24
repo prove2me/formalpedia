@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_JetSubstitutionLemmas_jet_exp
 -- name    : Formalism.L2.Th1.C.JetSubstitutionLemmas.jet_exp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:23:50.753537+00:00
 -- url     : https://prove2.me/theorems/aa2070b7-2bdd-419a-935c-fd413ee476a6

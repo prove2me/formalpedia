@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_MatrixLatticeEstimates_input_size_transfer_holds
 -- name    : Formalism.LFunctionChainParameters.MatrixLatticeEstimates.input_size_transfer_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:36.952253+00:00
 -- url     : https://prove2.me/theorems/a9ca6bb7-14a2-4f08-a555-2d077875f5d6

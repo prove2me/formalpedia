@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_DatLin_theta_bijective
 -- name    : Formalism.L2.Pj.DatLin.theta_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:07.364118+00:00
 -- url     : https://prove2.me/theorems/e8dfd0d8-4973-49fd-9d2d-b8f9c1c07e99

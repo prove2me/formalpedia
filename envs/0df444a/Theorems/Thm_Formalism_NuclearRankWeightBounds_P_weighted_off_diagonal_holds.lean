@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NuclearRankWeightBounds_P_weighted_off_diagonal_holds
 -- name    : Formalism.NuclearRankWeightBounds.P.weighted_off_diagonal_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:17:46.540442+00:00
 -- url     : https://prove2.me/theorems/025553f4-96ad-4f04-ae47-51ae449f4ef7

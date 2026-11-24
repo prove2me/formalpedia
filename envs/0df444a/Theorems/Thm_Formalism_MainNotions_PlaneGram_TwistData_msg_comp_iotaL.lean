@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_msg_comp_iotaL
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.msg_comp_iotaL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:05:18.956195+00:00
 -- url     : https://prove2.me/theorems/ec6e0b3d-8185-45a2-8820-6faf1c1d3635

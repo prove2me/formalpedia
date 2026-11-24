@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpUniqLoc_ker_aug_pow
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpUniqLoc.ker_aug_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:49:40.073835+00:00
 -- url     : https://prove2.me/theorems/c7a08bb7-6e72-46e7-bb55-974f37b01942

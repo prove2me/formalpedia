@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_inverse_disk_at_one_of_p
 -- name    : MomentComparison.inverse_disk_at_one_of_p
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:22:23.332828+00:00
 -- url     : https://prove2.me/theorems/981a69e6-d69d-4090-894b-664e399b3793

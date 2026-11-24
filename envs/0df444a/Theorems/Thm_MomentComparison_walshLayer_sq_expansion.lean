@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_walshLayer_sq_expansion
 -- name    : MomentComparison.walshLayer_sq_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:40:22.191489+00:00
 -- url     : https://prove2.me/theorems/a513d872-7378-438c-b690-bda76421f44c

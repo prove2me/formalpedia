@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_gaussSumEighthPower
 -- name    : Formalism.L2.Th1.H.gaussSumEighthPower
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:35:09.243625+00:00
 -- url     : https://prove2.me/theorems/3c93b9d1-2394-4c63-8f03-8f46cb6b1ee3

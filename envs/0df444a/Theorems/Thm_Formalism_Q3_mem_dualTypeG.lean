@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_mem_dualTypeG
 -- name    : Formalism.Q3.mem_dualTypeG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:19:29.969386+00:00
 -- url     : https://prove2.me/theorems/3de5ddd4-67a9-4f3c-9e69-6fb3041f103c

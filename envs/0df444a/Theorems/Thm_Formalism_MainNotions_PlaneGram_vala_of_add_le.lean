@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_vala_of_add_le
 -- name    : Formalism.MainNotions.PlaneGram.vala_of_add_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:08:14.75032+00:00
 -- url     : https://prove2.me/theorems/988d45e9-711c-4bb5-8df6-045f8cf74f3b

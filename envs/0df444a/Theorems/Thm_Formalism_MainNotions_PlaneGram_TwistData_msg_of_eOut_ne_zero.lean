@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_msg_of_eOut_ne_zero
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.msg_of_eOut_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:05:37.278176+00:00
 -- url     : https://prove2.me/theorems/368413ad-e07e-453b-8b24-fb2ca778438f

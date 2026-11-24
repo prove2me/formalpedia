@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_wirt_star_fun
 -- name    : Formalism.QuantumDeterminants.wirt_star_fun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:20:33.751463+00:00
 -- url     : https://prove2.me/theorems/b890ad56-44a5-4912-9a1e-82c1de36c513

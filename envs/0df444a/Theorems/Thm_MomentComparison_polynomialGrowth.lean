@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_polynomialGrowth
 -- name    : MomentComparison.polynomialGrowth
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:22:32.983903+00:00
 -- url     : https://prove2.me/theorems/f051bdc0-8379-458d-8383-914cd6328639

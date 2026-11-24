@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_radialKernel_integrable
 -- name    : GaussianPerimeter.radialKernel_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:46:15.984898+00:00
 -- url     : https://prove2.me/theorems/bd0ed92d-d5f8-4be0-ab8c-a3e685861417

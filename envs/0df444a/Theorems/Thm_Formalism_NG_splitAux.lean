@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_splitAux
 -- name    : Formalism.NG.splitAux
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:17:15.286648+00:00
 -- url     : https://prove2.me/theorems/fd4b4cfe-22dc-41e7-b390-e926d801eb5e

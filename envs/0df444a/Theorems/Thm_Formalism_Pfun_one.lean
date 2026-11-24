@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Pfun_one
 -- name    : Formalism.Pfun_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:17:57.604369+00:00
 -- url     : https://prove2.me/theorems/06e42a64-7d05-459c-926d-03d856412640

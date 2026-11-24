@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_sum_range_ite_le_add_sum_Ioo
 -- name    : Formalism.NG.sum_range_ite_le_add_sum_Ioo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:17:29.966829+00:00
 -- url     : https://prove2.me/theorems/711763a1-c896-4fc4-b4d4-dc9e83aaf80b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_slopeLatticeData_index_finsupp
 -- name    : Formalism.LFunctionChainParameters.slopeLatticeData.index_finsupp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:59:14.15384+00:00
 -- url     : https://prove2.me/theorems/c67fa370-2118-4871-ac8f-546f49a4cfc2

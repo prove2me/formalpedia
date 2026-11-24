@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_walsh_kernel
 -- name    : MomentComparison.walsh_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:37:16.232831+00:00
 -- url     : https://prove2.me/theorems/cc27772c-12d1-4903-be3a-9b74da24d9a3

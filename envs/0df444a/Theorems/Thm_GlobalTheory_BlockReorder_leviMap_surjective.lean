@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BlockReorder_leviMap_surjective
 -- name    : GlobalTheory.BlockReorder.leviMap_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:02:36.679074+00:00
 -- url     : https://prove2.me/theorems/c83a89ae-b319-4ac8-994d-c3c4f4d9051c

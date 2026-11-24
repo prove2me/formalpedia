@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_ggDet_swapBlocks
 -- name    : Formalism.QuantumDeterminants.ggDet_swapBlocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:18:51.326794+00:00
 -- url     : https://prove2.me/theorems/2d2a47a4-9008-41ac-8cbc-8ed2b5a27a78

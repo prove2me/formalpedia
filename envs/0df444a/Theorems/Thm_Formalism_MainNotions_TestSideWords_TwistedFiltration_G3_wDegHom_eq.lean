@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_TestSideWords_TwistedFiltration_G3_wDegHom_eq
 -- name    : Formalism.MainNotions.TestSideWords.TwistedFiltration.G3.wDegHom_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:12:05.643589+00:00
 -- url     : https://prove2.me/theorems/6ed79a57-64b7-4fb5-8d66-f8fec90dd58a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_mqFrob_intCast_mem_iff
 -- name    : Formalism.Q3.mqFrob_intCast_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:19:19.475327+00:00
 -- url     : https://prove2.me/theorems/0db40bec-6ad5-44f4-a1b6-655945b88583

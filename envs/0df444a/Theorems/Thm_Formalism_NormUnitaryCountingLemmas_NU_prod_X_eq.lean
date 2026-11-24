@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_NU_prod_X_eq
 -- name    : Formalism.NormUnitaryCountingLemmas.NU.prod_X_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:18:06.426785+00:00
 -- url     : https://prove2.me/theorems/6b31d69b-794f-4758-8c2a-b3bde5f46330

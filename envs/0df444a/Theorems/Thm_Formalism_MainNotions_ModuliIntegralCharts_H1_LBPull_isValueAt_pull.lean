@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_LBPull_isValueAt_pull
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.LBPull.isValueAt_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:03:09.871769+00:00
 -- url     : https://prove2.me/theorems/4abccc54-5da7-4930-85a4-07de19db40a8

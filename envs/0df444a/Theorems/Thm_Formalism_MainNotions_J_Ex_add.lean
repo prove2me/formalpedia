@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_J_Ex_add
 -- name    : Formalism.MainNotions.J.Ex_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:56:40.656287+00:00
 -- url     : https://prove2.me/theorems/93c9ef46-28bb-4d90-acd8-c1bb1ee63067

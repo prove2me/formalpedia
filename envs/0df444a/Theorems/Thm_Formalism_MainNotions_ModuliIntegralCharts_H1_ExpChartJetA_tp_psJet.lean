@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpChartJetA_tp_psJet
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpChartJetA.tp_psJet
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:39:37.753916+00:00
 -- url     : https://prove2.me/theorems/901ba2b0-b32c-4dd5-808f-bcc3d8a951ca

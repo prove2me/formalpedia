@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_le_valS_iff
 -- name    : Formalism.MainNotions.PlaneGram.le_valS_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:16:58.248654+00:00
 -- url     : https://prove2.me/theorems/81fb9d20-b12f-4533-b1e0-dc88939f6f4e

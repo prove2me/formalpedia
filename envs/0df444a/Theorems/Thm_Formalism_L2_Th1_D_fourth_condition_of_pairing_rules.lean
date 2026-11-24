@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_fourth_condition_of_pairing_rules
 -- name    : Formalism.L2.Th1.D.fourth_condition_of_pairing_rules
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:25:42.603406+00:00
 -- url     : https://prove2.me/theorems/96b5c20e-9256-4d90-af94-21549661624d

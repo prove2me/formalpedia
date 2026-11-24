@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_MassRatioBoundPower_mass_ratio_rhs_nonneg
 -- name    : Formalism.MainNotions.MassRatioBoundPower.mass_ratio_rhs_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:18:16.595384+00:00
 -- url     : https://prove2.me/theorems/b44bf54d-3242-46f8-9440-8d0314ddf472

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_vle_mono
 -- name    : Formalism.MainNotions.PlaneGram.vle_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:10:33.355813+00:00
 -- url     : https://prove2.me/theorems/396c6873-0a22-4b70-818b-c686a5b13634

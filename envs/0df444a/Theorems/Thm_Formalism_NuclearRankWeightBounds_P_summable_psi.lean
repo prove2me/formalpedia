@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NuclearRankWeightBounds_P_summable_psi
 -- name    : Formalism.NuclearRankWeightBounds.P.summable_psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:18:04.266979+00:00
 -- url     : https://prove2.me/theorems/7e474bb8-699c-4e31-9fd0-67abec190ff1

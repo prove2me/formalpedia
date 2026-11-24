@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtNormSquare_trQ_lower
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtNormSquare.trQ_lower
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:05:13.679958+00:00
 -- url     : https://prove2.me/theorems/0f6a7656-b2ef-4d8e-86c7-cfb8044fc6d3

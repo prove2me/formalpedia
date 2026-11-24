@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_layer_cake_bound
 -- name    : Formalism.HermitianLattices.TraceIntegrality.layer_cake_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:40:08.644357+00:00
 -- url     : https://prove2.me/theorems/1b4b5ab9-3249-419b-a3e9-6f78566d16fc

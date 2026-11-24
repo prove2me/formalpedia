@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogFactorialMertensBounds_lip_piece
 -- name    : Formalism.LogFactorialMertensBounds.lip_piece
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:52:34.278079+00:00
 -- url     : https://prove2.me/theorems/105497d3-8eb7-4319-ab18-64f119b5f1e9

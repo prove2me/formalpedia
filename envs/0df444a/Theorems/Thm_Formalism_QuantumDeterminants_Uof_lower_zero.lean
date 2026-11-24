@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_Uof_lower_zero
 -- name    : Formalism.QuantumDeterminants.Uof_lower_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:19:12.187988+00:00
 -- url     : https://prove2.me/theorems/dc2425b6-bf73-4dd0-8da4-f2dd88eaf4ee

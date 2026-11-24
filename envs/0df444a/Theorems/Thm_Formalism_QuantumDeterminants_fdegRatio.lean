@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_fdegRatio
 -- name    : Formalism.QuantumDeterminants.fdegRatio
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:08:52.022849+00:00
 -- url     : https://prove2.me/theorems/93414833-6e05-4eeb-b7b1-318fd974f46a

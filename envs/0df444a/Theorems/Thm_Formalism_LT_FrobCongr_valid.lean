@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_FrobCongr_valid
 -- name    : Formalism.LT.FrobCongr_valid
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:37:47.65627+00:00
 -- url     : https://prove2.me/theorems/197abb63-1e11-4ffc-aa04-b67eb556921d

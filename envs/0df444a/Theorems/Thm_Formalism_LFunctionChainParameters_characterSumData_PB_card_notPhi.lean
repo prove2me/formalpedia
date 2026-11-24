@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_characterSumData_PB_card_notPhi
 -- name    : Formalism.LFunctionChainParameters.characterSumData.PB.card_notPhi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:56:42.320586+00:00
 -- url     : https://prove2.me/theorems/c9a4dfea-a850-476d-a23c-1be1264cc798

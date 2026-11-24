@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_homCoker
 -- name    : Formalism.NG.homCoker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:17:03.224488+00:00
 -- url     : https://prove2.me/theorems/4fa26a40-7fba-47e4-8aed-c87df5466ee2

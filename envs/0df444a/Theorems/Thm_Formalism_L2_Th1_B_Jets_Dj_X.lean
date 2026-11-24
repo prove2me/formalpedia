@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Jets_Dj_X
 -- name    : Formalism.L2.Th1.B.Jets.Dj_X
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:26:47.869273+00:00
 -- url     : https://prove2.me/theorems/68670698-ffe7-4d67-a0db-d05009baf0f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoughSurfaceScattering_harmonic_analytic_R3
 -- name    : RoughSurfaceScattering.harmonic_analytic_R3
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-24T05:48:47.117028+00:00
 -- url     : https://prove2.me/theorems/13c45338-d894-4187-8874-569c90c4aa72

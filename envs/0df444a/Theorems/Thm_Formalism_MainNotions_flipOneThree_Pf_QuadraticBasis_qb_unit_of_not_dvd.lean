@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_flipOneThree_Pf_QuadraticBasis_qb_unit_of_not_dvd
 -- name    : Formalism.MainNotions.flipOneThree.Pf.QuadraticBasis.qb_unit_of_not_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:12:22.924735+00:00
 -- url     : https://prove2.me/theorems/b7b5d8b7-807b-41db-9a33-9594129a0818

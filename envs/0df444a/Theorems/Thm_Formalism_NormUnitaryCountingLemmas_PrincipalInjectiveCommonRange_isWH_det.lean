@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_PrincipalInjectiveCommonRange_isWH_det
 -- name    : Formalism.NormUnitaryCountingLemmas.PrincipalInjectiveCommonRange.isWH_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:18:00.416813+00:00
 -- url     : https://prove2.me/theorems/eef7e241-777a-4486-8421-7f1876deec59

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_ThreeTermRelation_threeTermQuotient_order_lattice
 -- name    : Formalism.L2.Th1.F.ThreeTermRelation.threeTermQuotient_order_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:48:11.094846+00:00
 -- url     : https://prove2.me/theorems/e7149701-f15a-4ea6-9087-a559c5a17869

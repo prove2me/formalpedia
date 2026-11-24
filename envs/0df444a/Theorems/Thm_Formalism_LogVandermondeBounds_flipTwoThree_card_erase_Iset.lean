@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_flipTwoThree_card_erase_Iset
 -- name    : Formalism.LogVandermondeBounds.flipTwoThree.card_erase_Iset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:53:25.111818+00:00
 -- url     : https://prove2.me/theorems/0490bdad-7e95-47f3-8670-b5891e6616ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_mqk_mem_adjoin_form
 -- name    : Formalism.Q3.mqk_mem_adjoin_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:18:34.766327+00:00
 -- url     : https://prove2.me/theorems/6e7f0859-56fb-433d-9bbc-2917f78a6325

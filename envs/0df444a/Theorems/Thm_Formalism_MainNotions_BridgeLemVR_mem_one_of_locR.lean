@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLemVR_mem_one_of_locR
 -- name    : Formalism.MainNotions.BridgeLemVR.mem_one_of_locR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:55:28.680772+00:00
 -- url     : https://prove2.me/theorems/a6aa506c-78f7-4b8e-b3a5-5e9217a15342

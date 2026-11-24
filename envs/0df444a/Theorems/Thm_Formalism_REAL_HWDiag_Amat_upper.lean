@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_HWDiag_Amat_upper
 -- name    : Formalism.REAL.HWDiag_Amat_upper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:19:56.256124+00:00
 -- url     : https://prove2.me/theorems/4ebc084e-ddb1-4bd6-87c8-636278801461

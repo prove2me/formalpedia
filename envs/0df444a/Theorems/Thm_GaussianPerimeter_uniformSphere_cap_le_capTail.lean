@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_uniformSphere_cap_le_capTail
 -- name    : GaussianPerimeter.uniformSphere_cap_le_capTail
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:05:33.360807+00:00
 -- url     : https://prove2.me/theorems/c91b3eec-30f4-447b-b5e5-7860548a26b6

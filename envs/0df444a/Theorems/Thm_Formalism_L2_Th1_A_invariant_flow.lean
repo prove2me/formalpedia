@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_invariant_flow
 -- name    : Formalism.L2.Th1.A.invariant_flow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:06.149806+00:00
 -- url     : https://prove2.me/theorems/f63d7666-154e-405e-9ee2-b2245e8490c7

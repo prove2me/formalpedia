@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_exists_ne_zero_norm_le_rank_div_of_dualMinimum
 -- name    : Formalism.NormUnitaryCountingLemmas.exists_ne_zero_norm_le_rank_div_of_dualMinimum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:17:54.272449+00:00
 -- url     : https://prove2.me/theorems/9d0ef9c3-3915-4bc2-aa2c-e5bb948c475d

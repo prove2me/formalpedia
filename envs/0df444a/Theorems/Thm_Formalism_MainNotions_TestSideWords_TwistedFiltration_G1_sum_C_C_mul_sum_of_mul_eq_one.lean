@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_TestSideWords_TwistedFiltration_G1_sum_C_C_mul_sum_of_mul_eq_one
 -- name    : Formalism.MainNotions.TestSideWords.TwistedFiltration.G1.sum_C_C_mul_sum_of_mul_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:12:19.319153+00:00
 -- url     : https://prove2.me/theorems/82dc0282-be21-490c-b6ce-883c28f6ac24

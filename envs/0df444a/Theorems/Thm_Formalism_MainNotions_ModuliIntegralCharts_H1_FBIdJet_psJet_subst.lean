@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_FBIdJet_psJet_subst
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.FBIdJet.psJet_subst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:04:10.907838+00:00
 -- url     : https://prove2.me/theorems/bbc25ccb-8823-47be-9aaa-7a5af2dd0e31

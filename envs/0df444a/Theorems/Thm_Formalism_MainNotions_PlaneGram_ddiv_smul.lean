@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_ddiv_smul
 -- name    : Formalism.MainNotions.PlaneGram.ddiv_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:06:27.8748+00:00
 -- url     : https://prove2.me/theorems/e1427235-67fc-4c1d-aff4-a6c6a749f242

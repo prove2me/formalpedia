@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_CurveL_isFlow_xL_yL
 -- name    : Formalism.L2.Th1.A.CurveL.isFlow_xL_yL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:06:32.812828+00:00
 -- url     : https://prove2.me/theorems/505c739b-5151-484c-837d-ff9bf0702b77

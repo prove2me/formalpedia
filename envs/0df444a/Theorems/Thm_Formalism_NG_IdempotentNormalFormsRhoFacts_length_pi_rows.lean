@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_IdempotentNormalFormsRhoFacts_length_pi_rows
 -- name    : Formalism.NG.IdempotentNormalFormsRhoFacts.length_pi_rows
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:13:42.108894+00:00
 -- url     : https://prove2.me/theorems/50d5e6bc-1b06-4317-a3e4-de712c8b1f93

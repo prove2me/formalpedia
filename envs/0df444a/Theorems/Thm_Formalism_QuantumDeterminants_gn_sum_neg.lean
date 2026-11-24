@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_gn_sum_neg
 -- name    : Formalism.QuantumDeterminants.gn_sum_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:19:10.468329+00:00
 -- url     : https://prove2.me/theorems/29609b5a-86dd-4bfc-9931-544c830f850f

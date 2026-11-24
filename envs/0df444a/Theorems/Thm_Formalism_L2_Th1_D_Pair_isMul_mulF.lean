@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_Pair_isMul_mulF
 -- name    : Formalism.L2.Th1.D.Pair.isMul_mulF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:23:39.851422+00:00
 -- url     : https://prove2.me/theorems/bc2e3d71-4fd0-4951-898e-409723747437

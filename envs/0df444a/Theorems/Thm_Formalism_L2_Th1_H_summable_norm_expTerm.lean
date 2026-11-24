@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_summable_norm_expTerm
 -- name    : Formalism.L2.Th1.H.summable_norm_expTerm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:28:57.799801+00:00
 -- url     : https://prove2.me/theorems/8518262a-45cc-477e-ba21-b2af68e8dc88

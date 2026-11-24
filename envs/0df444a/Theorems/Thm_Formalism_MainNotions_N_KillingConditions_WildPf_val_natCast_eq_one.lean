@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_KillingConditions_WildPf_val_natCast_eq_one
 -- name    : Formalism.MainNotions.N.KillingConditions.WildPf.val_natCast_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:03:22.536114+00:00
 -- url     : https://prove2.me/theorems/89a51593-379d-4b12-a6e5-1cb7cd4bc118

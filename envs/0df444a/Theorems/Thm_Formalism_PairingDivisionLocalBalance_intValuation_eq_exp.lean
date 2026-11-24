@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_PairingDivisionLocalBalance_intValuation_eq_exp
 -- name    : Formalism.PairingDivisionLocalBalance.intValuation_eq_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:18:04.271064+00:00
 -- url     : https://prove2.me/theorems/0110bff7-a668-474b-9db7-b7306d01c4d1

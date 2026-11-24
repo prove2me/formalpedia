@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_VolumeComparison_append_linear
 -- name    : GaussianPerimeter.VolumeComparison.append_linear
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:19:32.064038+00:00
 -- url     : https://prove2.me/theorems/586f1c3a-e435-4a34-ba85-69311fd0d7ef

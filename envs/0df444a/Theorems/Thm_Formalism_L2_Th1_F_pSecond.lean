@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_pSecond
 -- name    : Formalism.L2.Th1.F.pSecond
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:43:15.11243+00:00
 -- url     : https://prove2.me/theorems/d986f5f1-5bc5-4503-b082-53c88d493a82

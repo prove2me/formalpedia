@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_ShearCoefficients_isWeightedHomogeneous_rename
 -- name    : Formalism.NormUnitaryCountingLemmas.ShearCoefficients.isWeightedHomogeneous_rename
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:17:45.691191+00:00
 -- url     : https://prove2.me/theorems/2fbfea89-b28f-4526-a5b5-48882b802b8e

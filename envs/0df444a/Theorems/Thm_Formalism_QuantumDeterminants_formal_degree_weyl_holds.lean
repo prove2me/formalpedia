@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_formal_degree_weyl_holds
 -- name    : Formalism.QuantumDeterminants.formal_degree_weyl_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:18:32.577738+00:00
 -- url     : https://prove2.me/theorems/c164e08a-dd53-4677-8577-3d19937103ea

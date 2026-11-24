@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_EGauss_entry_exists
 -- name    : Formalism.InvariantFactorPaths.G7.EGauss.entry_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:54:36.560826+00:00
 -- url     : https://prove2.me/theorems/5ee0d9d5-52ce-482e-b37e-e5afc5bd5f4e

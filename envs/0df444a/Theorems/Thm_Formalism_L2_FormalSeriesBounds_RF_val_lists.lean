@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_val_lists
 -- name    : Formalism.L2.FormalSeriesBounds.RF.val_lists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:52:27.7598+00:00
 -- url     : https://prove2.me/theorems/00da8a13-b151-4207-997d-c05c6cb306f8

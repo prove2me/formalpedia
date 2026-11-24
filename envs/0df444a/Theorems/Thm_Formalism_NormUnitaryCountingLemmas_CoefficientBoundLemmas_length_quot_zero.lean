@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_CoefficientBoundLemmas_length_quot_zero
 -- name    : Formalism.NormUnitaryCountingLemmas.CoefficientBoundLemmas.length_quot_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:16:55.693144+00:00
 -- url     : https://prove2.me/theorems/c4206c4b-0c12-402b-bc1e-c30e0273d4f7

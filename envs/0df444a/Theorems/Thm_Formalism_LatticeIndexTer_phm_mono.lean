@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_phm_mono
 -- name    : Formalism.LatticeIndexTer.phm_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:51.343976+00:00
 -- url     : https://prove2.me/theorems/7a536a68-4404-4833-9226-fcbf1bbbbb63

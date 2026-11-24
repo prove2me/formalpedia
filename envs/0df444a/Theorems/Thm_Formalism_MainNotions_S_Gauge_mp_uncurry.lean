@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_S_Gauge_mp_uncurry
 -- name    : Formalism.MainNotions.S.Gauge.mp_uncurry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:10:40.25997+00:00
 -- url     : https://prove2.me/theorems/b72de710-5cda-4571-9a03-fd8b61a14b1b

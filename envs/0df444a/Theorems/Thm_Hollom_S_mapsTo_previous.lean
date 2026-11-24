@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hollom_S_mapsTo_previous
 -- name    : Hollom.S_mapsTo_previous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:12:06.510782+00:00
 -- url     : https://prove2.me/theorems/01f081b1-7ff1-415f-b8cf-dba7d2d481ff

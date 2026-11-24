@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_costV_ok
 -- name    : Formalism.MainNotions.PlaneGram.costV_ok
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:05:37.751256+00:00
 -- url     : https://prove2.me/theorems/910a328f-4329-4163-8928-66f122751fd3

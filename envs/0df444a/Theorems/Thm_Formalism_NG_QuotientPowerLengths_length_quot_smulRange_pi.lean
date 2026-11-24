@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_QuotientPowerLengths_length_quot_smulRange_pi
 -- name    : Formalism.NG.QuotientPowerLengths.length_quot_smulRange_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:14:49.470902+00:00
 -- url     : https://prove2.me/theorems/d89b69da-6185-4bab-9152-44abed5a2f69

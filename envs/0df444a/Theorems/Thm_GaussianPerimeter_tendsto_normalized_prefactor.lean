@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_tendsto_normalized_prefactor
 -- name    : GaussianPerimeter.tendsto_normalized_prefactor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:44:51.376957+00:00
 -- url     : https://prove2.me/theorems/2c8bb7f5-11cb-43b5-bedd-7d3256c77868

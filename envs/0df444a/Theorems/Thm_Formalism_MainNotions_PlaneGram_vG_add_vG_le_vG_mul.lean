@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_vG_add_vG_le_vG_mul
 -- name    : Formalism.MainNotions.PlaneGram.vG_add_vG_le_vG_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:07:55.468276+00:00
 -- url     : https://prove2.me/theorems/8d25f3e2-4126-4339-9b87-5609371e47fe

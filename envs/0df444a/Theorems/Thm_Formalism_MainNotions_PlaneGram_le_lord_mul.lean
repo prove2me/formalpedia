@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_le_lord_mul
 -- name    : Formalism.MainNotions.PlaneGram.le_lord_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:07:18.543337+00:00
 -- url     : https://prove2.me/theorems/39e482fb-dd78-4154-8925-0c07b4d365f3

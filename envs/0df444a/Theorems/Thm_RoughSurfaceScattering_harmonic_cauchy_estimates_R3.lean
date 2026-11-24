@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoughSurfaceScattering_harmonic_cauchy_estimates_R3
 -- name    : RoughSurfaceScattering.harmonic_cauchy_estimates_R3
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-24T06:02:33.065804+00:00
 -- url     : https://prove2.me/theorems/29cb7ae2-1978-4cdb-84d2-503841c83e79

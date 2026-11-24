@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_complexNoise_ofReal
 -- name    : MomentComparison.complexNoise_ofReal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:20:56.742326+00:00
 -- url     : https://prove2.me/theorems/34d957af-f246-4111-bcb2-342a53f98d1a

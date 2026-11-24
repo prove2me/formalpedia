@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_NGCut_TorsionTotientBound_card_mul_conj_eq_le_of_fractionalIdeal
 -- name    : Formalism.L2.SG.NGCut.TorsionTotientBound.card_mul_conj_eq_le_of_fractionalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:13.786805+00:00
 -- url     : https://prove2.me/theorems/848531b0-beb2-49d7-b297-483b178217b2

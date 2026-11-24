@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Top_factEV
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.Top.factEV
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:21.412616+00:00
 -- url     : https://prove2.me/theorems/f5e22a94-94aa-456b-9807-2e295de1c517

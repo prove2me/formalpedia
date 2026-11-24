@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_VolumeComparison_lintegral_eq_vol_superlevelset_lintegral_01
 -- name    : GaussianPerimeter.VolumeComparison.lintegral_eq_vol_superlevelset_lintegral_01
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:16:55.847793+00:00
 -- url     : https://prove2.me/theorems/dd331a89-5b2e-473a-9637-2c54d6edd179

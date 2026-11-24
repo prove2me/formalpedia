@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_herm_sub_swap
 -- name    : Formalism.L2.Th1.H.herm_sub_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:04:40.449058+00:00
 -- url     : https://prove2.me/theorems/552df033-7b36-460e-b035-29e6e75b391c

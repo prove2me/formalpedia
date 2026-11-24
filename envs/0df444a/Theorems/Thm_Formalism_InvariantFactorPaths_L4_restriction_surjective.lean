@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_restriction_surjective
 -- name    : Formalism.InvariantFactorPaths.L4.restriction_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:03:33.897492+00:00
 -- url     : https://prove2.me/theorems/52b1cc52-c8ea-469f-a6e8-679d1d856331

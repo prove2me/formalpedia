@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_second_embedding_label_index_zero
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.second_embedding_label_index_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:06:08.709166+00:00
 -- url     : https://prove2.me/theorems/2ebbfee8-9d07-4bd7-8b79-6cac920720d1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_characterSumData_double_coset_singleton
 -- name    : Formalism.LFunctionChainParameters.characterSumData.double_coset_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:04.539705+00:00
 -- url     : https://prove2.me/theorems/ceffd1a0-b876-4cdd-be5f-befaa017a862

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_NMul_fact_add
 -- name    : Formalism.NormUnitaryCountingLemmas.NMul.fact_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:16:31.18291+00:00
 -- url     : https://prove2.me/theorems/0e1ce59a-2489-45da-b4d0-c2fb471ace1d

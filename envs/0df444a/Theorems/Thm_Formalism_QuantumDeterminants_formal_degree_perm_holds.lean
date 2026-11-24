@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_formal_degree_perm_holds
 -- name    : Formalism.QuantumDeterminants.formal_degree_perm_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:18:43.206797+00:00
 -- url     : https://prove2.me/theorems/5668efb1-7709-455d-b38b-cf4513e135f6

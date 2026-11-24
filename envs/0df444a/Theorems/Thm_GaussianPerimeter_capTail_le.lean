@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_capTail_le
 -- name    : GaussianPerimeter.capTail_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:26:47.021899+00:00
 -- url     : https://prove2.me/theorems/a0f1668f-1b47-4a57-b887-c7eef1411689

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_GLWeightTheory_matrixSubst_transvection_monomial_of_fixed
 -- name    : Formalism.MainNotions.G.GLWeightTheory.matrixSubst_transvection_monomial_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:17:19.498295+00:00
 -- url     : https://prove2.me/theorems/6ace1d7b-f4fe-46a4-9a31-ce38b384fa6d

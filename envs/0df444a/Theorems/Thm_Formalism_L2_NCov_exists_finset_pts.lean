@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NCov_exists_finset_pts
 -- name    : Formalism.L2.NCov.exists_finset_pts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:58:50.141437+00:00
 -- url     : https://prove2.me/theorems/31139461-6575-406d-afde-05ece5d18f0a

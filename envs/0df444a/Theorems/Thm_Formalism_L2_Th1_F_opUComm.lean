@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_opUComm
 -- name    : Formalism.L2.Th1.F.opUComm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:25:52.039805+00:00
 -- url     : https://prove2.me/theorems/d48d91ad-0559-42c1-b04c-d3ebbb6556c3

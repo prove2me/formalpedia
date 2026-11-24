@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_ldeg_mapDomain
 -- name    : Formalism.MainNotions.PlaneGram.ldeg_mapDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:07:12.41883+00:00
 -- url     : https://prove2.me/theorems/0019e393-7f45-4df7-9da7-b4e3c457e72a

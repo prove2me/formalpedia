@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_IdemLiftAlt_precomplete_pi
 -- name    : Formalism.NG.IdemLiftAlt.precomplete_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:13:24.455322+00:00
 -- url     : https://prove2.me/theorems/67829001-8862-4687-aa65-e70b47c5cc34

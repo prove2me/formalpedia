@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_LatticeGluingRadicals_m_exists_smul_memL
 -- name    : Formalism.MainNotions.LatticeGluingRadicals.m_exists_smul_memL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:42:49.745793+00:00
 -- url     : https://prove2.me/theorems/93745d0c-566c-4988-b9c0-7a6667a85c84

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_S_Pv_AmpDDPf_CC_key_bound
 -- name    : Formalism.MainNotions.S.Pv.AmpDDPf.CC.key_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:10:31.151903+00:00
 -- url     : https://prove2.me/theorems/0181f702-d3e0-486e-a090-b07f7946e791

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_Unip_sharp_cay_sub
 -- name    : Formalism.L2.SG.Pf.Unip.sharp_cay_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:22.043425+00:00
 -- url     : https://prove2.me/theorems/f26cb09e-ed45-4b5f-990e-e1415fda34a6

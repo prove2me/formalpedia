@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_BiextensionSums_subst_map_linOL
 -- name    : Formalism.L2.Th1.D.BiextensionSums.subst_map_linOL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:04:49.467498+00:00
 -- url     : https://prove2.me/theorems/13c45d9e-466c-4230-941f-8a5f4e22b387

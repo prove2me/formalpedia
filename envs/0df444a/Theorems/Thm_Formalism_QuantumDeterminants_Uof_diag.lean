@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_Uof_diag
 -- name    : Formalism.QuantumDeterminants.Uof_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:19:03.711805+00:00
 -- url     : https://prove2.me/theorems/a2a8dc13-16f5-4d8e-8208-0f38feec142d

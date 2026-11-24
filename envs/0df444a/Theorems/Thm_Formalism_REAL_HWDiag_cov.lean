@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_HWDiag_cov
 -- name    : Formalism.REAL.HWDiag_cov
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:20:16.592829+00:00
 -- url     : https://prove2.me/theorems/16fbce8e-9310-4176-9641-7251b182da44

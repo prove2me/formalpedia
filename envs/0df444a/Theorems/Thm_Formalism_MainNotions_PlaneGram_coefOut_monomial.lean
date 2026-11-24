@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_coefOut_monomial
 -- name    : Formalism.MainNotions.PlaneGram.coefOut_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:06:52.622219+00:00
 -- url     : https://prove2.me/theorems/a16eadff-3591-4eea-a6ea-1158b2d5edf7

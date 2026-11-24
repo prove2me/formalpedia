@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_capelliPolynomialPermInvariant_holds
 -- name    : Formalism.QuantumDeterminants.capelliPolynomialPermInvariant_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:18:41.359833+00:00
 -- url     : https://prove2.me/theorems/57a2687b-2015-465d-9aa7-101235eeaa53

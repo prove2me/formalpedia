@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_TestSideWords_TwistedFiltration_G1_T_mem_laurentFiltration
 -- name    : Formalism.MainNotions.TestSideWords.TwistedFiltration.G1.T_mem_laurentFiltration
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:10:41.312476+00:00
 -- url     : https://prove2.me/theorems/402526dc-4fcd-4147-8763-db16fae162f3

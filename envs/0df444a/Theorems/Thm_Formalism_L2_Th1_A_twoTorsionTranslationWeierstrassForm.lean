@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_twoTorsionTranslationWeierstrassForm
 -- name    : Formalism.L2.Th1.A.twoTorsionTranslationWeierstrassForm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:15.297179+00:00
 -- url     : https://prove2.me/theorems/a10139fa-80d8-4f3f-97eb-65b404b17943

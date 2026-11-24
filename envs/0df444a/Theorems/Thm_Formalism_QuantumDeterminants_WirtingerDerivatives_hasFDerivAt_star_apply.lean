@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_WirtingerDerivatives_hasFDerivAt_star_apply
 -- name    : Formalism.QuantumDeterminants.WirtingerDerivatives.hasFDerivAt_star_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:18:37.663575+00:00
 -- url     : https://prove2.me/theorems/400649c6-94db-43ca-82ee-e0caff866fa5

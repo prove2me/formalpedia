@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_kron_odd
 -- name    : Formalism.Q3.kron_odd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:19:24.745581+00:00
 -- url     : https://prove2.me/theorems/64a3741f-64d1-4206-bc13-8d5efd701b77

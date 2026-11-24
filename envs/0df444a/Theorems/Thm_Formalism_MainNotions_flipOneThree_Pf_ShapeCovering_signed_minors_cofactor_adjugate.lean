@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_flipOneThree_Pf_ShapeCovering_signed_minors_cofactor_adjugate
 -- name    : Formalism.MainNotions.flipOneThree.Pf.ShapeCovering.signed_minors_cofactor_adjugate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:12:55.827048+00:00
 -- url     : https://prove2.me/theorems/00b85b10-9fb6-4d7f-8c88-59d22284477c

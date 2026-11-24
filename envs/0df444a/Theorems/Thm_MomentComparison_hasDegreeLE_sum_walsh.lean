@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_hasDegreeLE_sum_walsh
 -- name    : MomentComparison.hasDegreeLE_sum_walsh
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:29:43.571397+00:00
 -- url     : https://prove2.me/theorems/a3a8e1d1-7ab3-43ee-95a0-a758f44806d6

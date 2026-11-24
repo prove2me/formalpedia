@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_gn_card_le_of_ker
 -- name    : Formalism.QuantumDeterminants.gn_card_le_of_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:19:02.84402+00:00
 -- url     : https://prove2.me/theorems/a3b5e99f-f2e6-4a00-aa32-aad7466a8a4f

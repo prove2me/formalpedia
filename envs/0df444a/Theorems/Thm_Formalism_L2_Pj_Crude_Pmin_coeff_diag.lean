@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_Pmin_coeff_diag
 -- name    : Formalism.L2.Pj.Crude.Pmin_coeff_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:10.480043+00:00
 -- url     : https://prove2.me/theorems/3bc6fad2-c155-4a8b-85ae-85708f5eb917

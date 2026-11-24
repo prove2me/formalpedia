@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_genfin_det_totalDegree
 -- name    : Formalism.NG.genfin_det_totalDegree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:16:03.844883+00:00
 -- url     : https://prove2.me/theorems/3114e9c9-0d6a-4c54-9569-3ec2249914a5

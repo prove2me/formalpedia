@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_lowerBound_of_admissible
 -- name    : MomentComparison.lowerBound_of_admissible
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:59:09.693585+00:00
 -- url     : https://prove2.me/theorems/b1a41df0-00d6-4fe1-8ded-603440b81a2b

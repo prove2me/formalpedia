@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NuclearRankWeightBounds_P_rank_le_of_support
 -- name    : Formalism.NuclearRankWeightBounds.P.rank_le_of_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:17:27.150968+00:00
 -- url     : https://prove2.me/theorems/da401e2b-633c-437a-9823-614ff9ae64fa

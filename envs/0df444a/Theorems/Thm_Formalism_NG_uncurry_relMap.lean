@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_uncurry_relMap
 -- name    : Formalism.NG.uncurry_relMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:16:54.478736+00:00
 -- url     : https://prove2.me/theorems/6bc75735-1959-42a0-a60c-8c65517a5f90

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_StandardLattice_norm_maps
 -- name    : Formalism.LogVandermondeBounds.StandardLattice.norm_maps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:52:31.105338+00:00
 -- url     : https://prove2.me/theorems/a8bb0fd6-e514-4de8-83de-dd0e2bde7dfb

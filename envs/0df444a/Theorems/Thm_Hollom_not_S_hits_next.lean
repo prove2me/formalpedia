@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hollom_not_S_hits_next
 -- name    : Hollom.not_S_hits_next
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:12:08.561218+00:00
 -- url     : https://prove2.me/theorems/ae852948-a692-428e-96b3-d8258342776f

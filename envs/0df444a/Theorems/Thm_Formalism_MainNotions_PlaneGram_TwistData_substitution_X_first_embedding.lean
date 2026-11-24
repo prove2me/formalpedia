@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_substitution_X_first_embedding
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.substitution_X_first_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:06:45.891432+00:00
 -- url     : https://prove2.me/theorems/7dbc5f97-1823-4cf4-adcf-f3b91571b028

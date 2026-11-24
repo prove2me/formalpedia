@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_realMomentNorm_le_of_pairing
 -- name    : MomentComparison.realMomentNorm_le_of_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:04:18.063746+00:00
 -- url     : https://prove2.me/theorems/a61fa445-e6d2-4c7d-91ed-a4f6e8908b11

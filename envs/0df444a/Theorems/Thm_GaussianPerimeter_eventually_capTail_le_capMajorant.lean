@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_eventually_capTail_le_capMajorant
 -- name    : GaussianPerimeter.eventually_capTail_le_capMajorant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:33:50.82995+00:00
 -- url     : https://prove2.me/theorems/ade7b028-8f61-423e-9dac-9c031849894f

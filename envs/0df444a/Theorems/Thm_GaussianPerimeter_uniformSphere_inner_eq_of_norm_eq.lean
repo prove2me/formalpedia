@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_uniformSphere_inner_eq_of_norm_eq
 -- name    : GaussianPerimeter.uniformSphere_inner_eq_of_norm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:11:21.277832+00:00
 -- url     : https://prove2.me/theorems/2a7fd23f-222b-4872-b51e-73361af565cb

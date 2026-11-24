@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_PrincipalInjectiveCommonRange_shear_rename_ge
 -- name    : Formalism.NormUnitaryCountingLemmas.PrincipalInjectiveCommonRange.shear_rename_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:17:56.495938+00:00
 -- url     : https://prove2.me/theorems/12748932-1922-43e2-adf2-e9a3970456a9

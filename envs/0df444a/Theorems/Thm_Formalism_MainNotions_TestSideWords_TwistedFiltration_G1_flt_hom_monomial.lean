@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_TestSideWords_TwistedFiltration_G1_flt_hom_monomial
 -- name    : Formalism.MainNotions.TestSideWords.TwistedFiltration.G1.flt_hom_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:13:11.738735+00:00
 -- url     : https://prove2.me/theorems/628c633b-e929-4ee5-be5e-b5c2531b3818

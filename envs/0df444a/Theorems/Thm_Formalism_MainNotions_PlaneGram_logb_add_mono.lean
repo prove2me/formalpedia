@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_logb_add_mono
 -- name    : Formalism.MainNotions.PlaneGram.logb_add_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:07:29.488928+00:00
 -- url     : https://prove2.me/theorems/a03a9e6d-f4a6-46b4-8e36-d86d36818dc5

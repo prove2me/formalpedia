@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_subX_mem_supported
 -- name    : Formalism.MainNotions.PlaneGram.subX_mem_supported
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:07:48.492111+00:00
 -- url     : https://prove2.me/theorems/c45eb022-4bc9-4eac-9a99-283932f250cf

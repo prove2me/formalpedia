@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_IdempotentNormalFormsLenFacts_ker_phi
 -- name    : Formalism.NG.IdempotentNormalFormsLenFacts.ker_phi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:13:21.877247+00:00
 -- url     : https://prove2.me/theorems/ce7414d8-8ea4-4e66-a45f-76a020e96efa

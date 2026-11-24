@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_diagonalIntegral
 -- name    : Formalism.L2.Th1.H.diagonalIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:28:48.316253+00:00
 -- url     : https://prove2.me/theorems/ce90b81e-4f2e-44eb-ba67-8e623bfcac66

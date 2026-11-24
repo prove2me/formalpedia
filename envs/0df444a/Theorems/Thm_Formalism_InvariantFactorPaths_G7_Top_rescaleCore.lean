@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_Top_rescaleCore
 -- name    : Formalism.InvariantFactorPaths.G7.Top.rescaleCore
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:16:49.700181+00:00
 -- url     : https://prove2.me/theorems/847b5858-d992-401c-9bb6-819d09330f64

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_hostIn_card
 -- name    : Formalism.Q3.hostIn_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:18:54.18475+00:00
 -- url     : https://prove2.me/theorems/33e1b75e-c1a5-42f2-987f-5331d52d81bf

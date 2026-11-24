@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_StandardLattice_log_ratio_upper_bound_of_upper_place
 -- name    : Formalism.LogVandermondeBounds.StandardLattice.log_ratio_upper_bound_of_upper_place
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:14:25.768162+00:00
 -- url     : https://prove2.me/theorems/dbed1049-5b2d-4f91-9141-3d4ddb6a3f9b

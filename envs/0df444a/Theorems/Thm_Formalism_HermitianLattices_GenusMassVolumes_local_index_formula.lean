@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GenusMassVolumes_local_index_formula
 -- name    : Formalism.HermitianLattices.GenusMassVolumes.local_index_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:25:23.391278+00:00
 -- url     : https://prove2.me/theorems/53a2efd1-4656-4c24-876c-7c2d02252693

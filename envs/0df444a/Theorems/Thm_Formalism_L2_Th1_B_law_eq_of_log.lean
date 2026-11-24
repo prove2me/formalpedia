@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_law_eq_of_log
 -- name    : Formalism.L2.Th1.B.law_eq_of_log
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:26:19.259992+00:00
 -- url     : https://prove2.me/theorems/11a2b303-3be2-4899-8c56-52e3f607904b

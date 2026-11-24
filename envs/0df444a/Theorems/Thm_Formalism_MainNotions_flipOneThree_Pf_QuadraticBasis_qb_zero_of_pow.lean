@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_flipOneThree_Pf_QuadraticBasis_qb_zero_of_pow
 -- name    : Formalism.MainNotions.flipOneThree.Pf.QuadraticBasis.qb_zero_of_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:12:16.338047+00:00
 -- url     : https://prove2.me/theorems/66109e17-d5a3-47be-89c2-51a0e6609f00

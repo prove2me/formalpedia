@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_slopeLatticeData_rkK_idealSmul
 -- name    : Formalism.LFunctionChainParameters.slopeLatticeData.rkK_idealSmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:05:22.769803+00:00
 -- url     : https://prove2.me/theorems/ba51bf68-30b3-4479-9c0a-e08689ef4c35

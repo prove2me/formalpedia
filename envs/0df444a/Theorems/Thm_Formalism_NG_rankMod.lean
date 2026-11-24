@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_rankMod
 -- name    : Formalism.NG.rankMod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:16:50.99002+00:00
 -- url     : https://prove2.me/theorems/04863660-104e-4fc4-8586-2be804e1db16

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_mem_ccIdeal_iff_forall
 -- name    : Formalism.NG.mem_ccIdeal_iff_forall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:17:05.228035+00:00
 -- url     : https://prove2.me/theorems/d72e98b7-e1c1-4668-b52d-9f004e5a32e9

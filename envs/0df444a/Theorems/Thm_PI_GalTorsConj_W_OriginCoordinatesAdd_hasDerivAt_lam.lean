@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GalTorsConj_W_OriginCoordinatesAdd_hasDerivAt_lam
 -- name    : PI.GalTorsConj.W.OriginCoordinatesAdd.hasDerivAt_lam
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:05.035314+00:00
 -- url     : https://prove2.me/theorems/ecc0ceff-7ba5-497d-893c-13bbce6230cc

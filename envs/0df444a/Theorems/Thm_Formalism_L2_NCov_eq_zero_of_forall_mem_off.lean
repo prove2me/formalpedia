@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NCov_eq_zero_of_forall_mem_off
 -- name    : Formalism.L2.NCov.eq_zero_of_forall_mem_off
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:38.436465+00:00
 -- url     : https://prove2.me/theorems/c981ba6c-bac9-4f93-b4b7-02f5a41bbf92

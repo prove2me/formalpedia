@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_euler_eq_dg
 -- name    : Formalism.MainNotions.PlaneGram.euler_eq_dg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:06:52.891794+00:00
 -- url     : https://prove2.me/theorems/a8d084e6-6749-43f4-a874-a11e6bdc1611

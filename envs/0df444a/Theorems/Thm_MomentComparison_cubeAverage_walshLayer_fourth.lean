@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_cubeAverage_walshLayer_fourth
 -- name    : MomentComparison.cubeAverage_walshLayer_fourth
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:40:24.522938+00:00
 -- url     : https://prove2.me/theorems/7a058f66-fe26-409a-9c5a-e871cb8a9454

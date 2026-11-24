@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_VolumeComparison_iSup_rpow_of_pos
 -- name    : GaussianPerimeter.VolumeComparison.iSup_rpow_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:16:01.051458+00:00
 -- url     : https://prove2.me/theorems/0d66b025-3999-400f-898e-d53f8d3a0a80

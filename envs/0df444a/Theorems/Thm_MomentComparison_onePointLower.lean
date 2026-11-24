@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_onePointLower
 -- name    : MomentComparison.onePointLower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:51:11.937892+00:00
 -- url     : https://prove2.me/theorems/77c2ec91-69b0-4f23-bb60-c738e3312358

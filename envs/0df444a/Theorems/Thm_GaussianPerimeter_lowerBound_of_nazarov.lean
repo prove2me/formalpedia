@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_lowerBound_of_nazarov
 -- name    : GaussianPerimeter.lowerBound_of_nazarov
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:57:37.119203+00:00
 -- url     : https://prove2.me/theorems/5f85366e-b914-4dad-a815-92a5567483b7

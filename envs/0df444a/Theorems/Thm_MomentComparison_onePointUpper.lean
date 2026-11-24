@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_onePointUpper
 -- name    : MomentComparison.onePointUpper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:51:12.523789+00:00
 -- url     : https://prove2.me/theorems/fc6fdd6d-ef6f-48fa-aee5-5ce9dbc0b52f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_compSets_eq_of_partition
 -- name    : ChromaticReconstruction.compSets_eq_of_partition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:07:32.393349+00:00
 -- url     : https://prove2.me/theorems/6b608047-0bb2-4cdb-9870-fd163d146061

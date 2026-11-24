@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NuclearRankWeightBounds_P_nuclear_norm_bound_holds
 -- name    : Formalism.NuclearRankWeightBounds.P.nuclear_norm_bound_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:17:44.020283+00:00
 -- url     : https://prove2.me/theorems/ed231da9-08c9-4368-88aa-bb2b97f48734

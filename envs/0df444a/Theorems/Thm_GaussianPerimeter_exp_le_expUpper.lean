@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_exp_le_expUpper
 -- name    : GaussianPerimeter.exp_le_expUpper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:05:26.340479+00:00
 -- url     : https://prove2.me/theorems/f055c69c-b5a4-4eef-904f-6fbc273d8a03

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_radialDensity_nonneg
 -- name    : GaussianPerimeter.radialDensity_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:46:10.166025+00:00
 -- url     : https://prove2.me/theorems/9d84ae60-df67-49dd-b3d2-6494e2f67def

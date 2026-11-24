@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ProjectiveLineModels_line_model_input_sizes
 -- name    : Formalism.LFunctionChainParameters.ProjectiveLineModels.line_model_input_sizes
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:10.911837+00:00
 -- url     : https://prove2.me/theorems/c91b2c22-0412-4de1-b8d8-b635145a9ea6

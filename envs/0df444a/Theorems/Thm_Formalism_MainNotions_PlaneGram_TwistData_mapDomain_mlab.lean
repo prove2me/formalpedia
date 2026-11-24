@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_mapDomain_mlab
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.mapDomain_mlab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:05:16.360125+00:00
 -- url     : https://prove2.me/theorems/2554daab-d18d-433c-a6d5-efa094d3c23e

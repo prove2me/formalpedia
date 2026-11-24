@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_cayleyDet
 -- name    : Formalism.L2.Th1.H.cayleyDet
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:28:06.385266+00:00
 -- url     : https://prove2.me/theorems/a8e18e43-598c-4c3c-8a53-5705e3503801

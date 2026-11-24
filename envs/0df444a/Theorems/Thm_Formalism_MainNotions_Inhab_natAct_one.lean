@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Inhab_natAct_one
 -- name    : Formalism.MainNotions.Inhab.natAct_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:56:34.902648+00:00
 -- url     : https://prove2.me/theorems/14b745eb-61a7-4c4f-90ae-bdaf571abfae

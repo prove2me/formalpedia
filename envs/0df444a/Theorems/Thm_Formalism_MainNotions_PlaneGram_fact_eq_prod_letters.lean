@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_fact_eq_prod_letters
 -- name    : Formalism.MainNotions.PlaneGram.fact_eq_prod_letters
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:09:05.255901+00:00
 -- url     : https://prove2.me/theorems/58deeb54-7b69-4e57-8321-03779d20eb0c

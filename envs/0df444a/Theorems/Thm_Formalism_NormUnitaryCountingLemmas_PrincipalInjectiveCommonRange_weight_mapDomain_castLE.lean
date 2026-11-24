@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_PrincipalInjectiveCommonRange_weight_mapDomain_castLE
 -- name    : Formalism.NormUnitaryCountingLemmas.PrincipalInjectiveCommonRange.weight_mapDomain_castLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:17:41.889896+00:00
 -- url     : https://prove2.me/theorems/df93742a-506a-46a0-8c5c-48016f2c1d06

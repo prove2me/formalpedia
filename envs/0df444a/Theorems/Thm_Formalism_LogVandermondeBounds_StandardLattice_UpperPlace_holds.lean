@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_StandardLattice_UpperPlace_holds
 -- name    : Formalism.LogVandermondeBounds.StandardLattice.UpperPlace_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:57:26.850412+00:00
 -- url     : https://prove2.me/theorems/840969aa-9dd0-499e-a3f5-2d413ddcd89a

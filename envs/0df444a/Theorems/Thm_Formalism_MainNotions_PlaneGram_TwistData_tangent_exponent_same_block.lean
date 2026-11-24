@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_tangent_exponent_same_block
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.tangent_exponent_same_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:06:01.541255+00:00
 -- url     : https://prove2.me/theorems/7e24b811-df0b-4d94-8843-35f98e53d32f

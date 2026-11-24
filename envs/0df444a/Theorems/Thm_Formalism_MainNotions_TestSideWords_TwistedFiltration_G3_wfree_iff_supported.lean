@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_TestSideWords_TwistedFiltration_G3_wfree_iff_supported
 -- name    : Formalism.MainNotions.TestSideWords.TwistedFiltration.G3.wfree_iff_supported
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:12:03.384528+00:00
 -- url     : https://prove2.me/theorems/943d11a1-3ca9-43b1-be74-6d4cf720ebcf

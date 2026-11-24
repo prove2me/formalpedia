@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GermFun_psJet_inj
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GermFun.psJet_inj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:44:56.618811+00:00
 -- url     : https://prove2.me/theorems/9b8f5e00-a9aa-407a-b8df-75fa6245e23d

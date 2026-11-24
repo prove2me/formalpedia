@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_mem_compSets_of_reachable
 -- name    : ChromaticReconstruction.mem_compSets_of_reachable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:07:57.036915+00:00
 -- url     : https://prove2.me/theorems/3bb4cea7-f100-4011-b9f4-e4b9d09f8833

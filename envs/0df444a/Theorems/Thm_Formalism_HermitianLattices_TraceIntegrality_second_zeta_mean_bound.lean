@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_second_zeta_mean_bound
 -- name    : Formalism.HermitianLattices.TraceIntegrality.second_zeta_mean_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:40:31.585605+00:00
 -- url     : https://prove2.me/theorems/4172c977-2ff9-462e-b202-35100ce9ae7c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_Tset_pair
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.Tset_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:04:38.144571+00:00
 -- url     : https://prove2.me/theorems/6e316ab3-5181-40f3-95b8-3fb4347de9c5

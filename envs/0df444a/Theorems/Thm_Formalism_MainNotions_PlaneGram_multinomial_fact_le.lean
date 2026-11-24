@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_multinomial_fact_le
 -- name    : Formalism.MainNotions.PlaneGram.multinomial_fact_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:07:17.827812+00:00
 -- url     : https://prove2.me/theorems/3c5b6851-f1ec-4cc0-ba63-7c15fce41039

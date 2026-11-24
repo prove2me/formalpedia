@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_Inhab_one_mem_deltaLTw
 -- name    : Formalism.MainNotions.G.Inhab.one_mem_deltaLTw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:56:02.390102+00:00
 -- url     : https://prove2.me/theorems/4d0135de-e9f4-4814-b44c-449f71e78553

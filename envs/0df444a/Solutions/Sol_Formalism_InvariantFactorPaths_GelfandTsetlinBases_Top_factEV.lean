@@ -1,0 +1,33 @@
+-- Prove2me | solution 1 for Formalism.InvariantFactorPaths.GelfandTsetlinBases.Top.factEV
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-24T11:06:03.546007+00:00
+-- url     : https://prove2.me/submissions/2511ea11-d071-4ed8-8ec2-a3dc4d55d3b4
+
+import Mathlib
+import Definitions.Def_Formalism_ThetaLogCoordinates_JacobiPathWeights_FinalP
+import Definitions.Def_Formalism_ThetaLogCoordinates_JacobiPathWeights_JacobiMinorProofs_IndexWeightsDominance
+import Definitions.Def_Formalism_ThetaLogCoordinates_JacobiPathWeights_JacobiMinorProofs_LemmaA2indepOf
+import Definitions.Def_Formalism_ThetaLogCoordinates_JacobiPathWeights_JacobiMinorProofs_JacobiMinorProof
+import Definitions.Def_Formalism_ThetaLogCoordinates_JacobiPathWeights_JacobiMinorProofs_PathBasisOfCount
+import Definitions.Def_Formalism_ThetaLogCoordinates_JacobiPathWeights_JacobiMinorProofs_GoodWOfWeight
+import Definitions.Def_Formalism_ThetaLogCoordinates_JacobiPathWeights_JacobiMinorProofs_FactSplit
+import Definitions.Def_Formalism_ThetaLogCoordinates_JacobiPathWeights_PathBasisTheorem
+import Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Top_psiWeight
+import Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Top_fact_index_weights
+import Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_factEV_of
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.InvariantFactorPaths Formalism.InvariantFactorPaths.GelfandTsetlinBases Formalism.InvariantFactorPaths.GelfandTsetlinBases.Top
+open Formalism.InvariantFactorPaths.GelfandTsetlinBases
+namespace Formalism.InvariantFactorPaths.GelfandTsetlinBases.Top
+theorem _root_.solution : FactEV := factEV_of fact_index_weights psiWeight
+end Formalism.InvariantFactorPaths.GelfandTsetlinBases.Top

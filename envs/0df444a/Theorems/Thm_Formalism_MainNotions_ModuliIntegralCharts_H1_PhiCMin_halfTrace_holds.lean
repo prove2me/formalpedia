@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_PhiCMin_halfTrace_holds
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.PhiCMin.halfTrace_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:02:38.275306+00:00
 -- url     : https://prove2.me/theorems/b1a7d9a8-0532-4782-8416-1c656acaa348

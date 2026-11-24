@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_ggDet_updateCol_last_single
 -- name    : Formalism.QuantumDeterminants.ggDet_updateCol_last_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:18:34.206848+00:00
 -- url     : https://prove2.me/theorems/f2ee4036-d986-4055-af59-08191f09db7f

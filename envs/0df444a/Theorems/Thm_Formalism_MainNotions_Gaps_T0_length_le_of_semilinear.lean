@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_T0_length_le_of_semilinear
 -- name    : Formalism.MainNotions.Gaps.T0.length_le_of_semilinear
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:43:39.502619+00:00
 -- url     : https://prove2.me/theorems/74267d43-b174-48b1-bb97-f8fab4c2ca63

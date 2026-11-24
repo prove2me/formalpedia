@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_VolumeComparison_lintegral_fix_lintegral_eq_lintegral
 -- name    : GaussianPerimeter.VolumeComparison.lintegral_fix_lintegral_eq_lintegral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:20:47.727345+00:00
 -- url     : https://prove2.me/theorems/cc71b609-614a-4f5d-98c3-b688667be054

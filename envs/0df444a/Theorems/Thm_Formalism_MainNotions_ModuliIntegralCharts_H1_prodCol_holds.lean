@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_prodCol_holds
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.prodCol_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:47:37.061497+00:00
 -- url     : https://prove2.me/theorems/fdd5f4b8-fd02-4d64-91be-b8abd168f0b1

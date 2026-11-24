@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_ExpP_quasiLogShift
 -- name    : Formalism.LT.ExpP.quasiLogShift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:37:30.947825+00:00
 -- url     : https://prove2.me/theorems/942eb2c6-aa79-4c50-b7bf-cb78bd53c3a6

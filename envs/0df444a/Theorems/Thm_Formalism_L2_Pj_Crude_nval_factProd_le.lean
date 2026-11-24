@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_nval_factProd_le
 -- name    : Formalism.L2.Pj.Crude.nval_factProd_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:22.506126+00:00
 -- url     : https://prove2.me/theorems/c6fe7f51-3973-4d0e-84ae-e6b5c9d39b03

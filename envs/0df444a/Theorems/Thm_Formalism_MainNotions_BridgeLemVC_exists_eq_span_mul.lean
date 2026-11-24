@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLemVC_exists_eq_span_mul
 -- name    : Formalism.MainNotions.BridgeLemVC.exists_eq_span_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:55:06.718717+00:00
 -- url     : https://prove2.me/theorems/4406db1f-692a-4d90-9fc4-419baa669f9c

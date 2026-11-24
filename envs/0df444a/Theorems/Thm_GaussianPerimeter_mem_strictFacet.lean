@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_mem_strictFacet
 -- name    : GaussianPerimeter.mem_strictFacet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:11:02.091+00:00
 -- url     : https://prove2.me/theorems/bde48ce4-6660-43f8-9153-31b2f642aced

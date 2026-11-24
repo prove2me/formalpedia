@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_PrincipalInjectiveCommonRange_shear_det
 -- name    : Formalism.NormUnitaryCountingLemmas.PrincipalInjectiveCommonRange.shear_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:17:23.716702+00:00
 -- url     : https://prove2.me/theorems/ce6bacaf-3400-4b80-92b1-78506e94c2e6

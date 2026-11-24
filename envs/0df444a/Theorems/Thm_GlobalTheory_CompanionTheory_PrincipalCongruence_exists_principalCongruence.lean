@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PrincipalCongruence_exists_principalCongruence
 -- name    : GlobalTheory.CompanionTheory.PrincipalCongruence.exists_principalCongruence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:09:56.871438+00:00
 -- url     : https://prove2.me/theorems/86fe63da-5f14-4a70-bb8a-f0939c2b7b5a

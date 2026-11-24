@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_baseThree
 -- name    : MomentComparison.baseThree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:58:54.786816+00:00
 -- url     : https://prove2.me/theorems/7a86051f-928f-4c1c-a167-dc167fdc371a

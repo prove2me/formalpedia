@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Jets_invariant_derivation_subst_law_three
 -- name    : Formalism.L2.Th1.B.Jets.invariant_derivation_subst_law_three
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:26:25.040124+00:00
 -- url     : https://prove2.me/theorems/9bcb2e46-d9f5-40a3-9c47-59b53959621f

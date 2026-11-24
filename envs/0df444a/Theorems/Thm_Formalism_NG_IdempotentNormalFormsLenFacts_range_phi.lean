@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_IdempotentNormalFormsLenFacts_range_phi
 -- name    : Formalism.NG.IdempotentNormalFormsLenFacts.range_phi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:13:38.427896+00:00
 -- url     : https://prove2.me/theorems/220aac73-b3eb-4932-b193-3c798c480d80

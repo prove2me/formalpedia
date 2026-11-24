@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_dg_smul_fun
 -- name    : Formalism.MainNotions.PlaneGram.dg_smul_fun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:06:33.839226+00:00
 -- url     : https://prove2.me/theorems/446e4025-d336-46e1-bdfe-1b8f23d198f8

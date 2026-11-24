@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_KAV_colSum_conj
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.KAV.colSum_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:01:50.556853+00:00
 -- url     : https://prove2.me/theorems/efbcf7b5-1afe-4f82-be10-50f1ca9a11c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_dg_eq_sum
 -- name    : Formalism.MainNotions.PlaneGram.dg_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:06:28.845594+00:00
 -- url     : https://prove2.me/theorems/b9a4dca0-b21e-44f4-9b29-14fc7460dda8

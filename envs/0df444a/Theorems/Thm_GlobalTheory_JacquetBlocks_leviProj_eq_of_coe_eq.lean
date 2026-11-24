@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JacquetBlocks_leviProj_eq_of_coe_eq
 -- name    : GlobalTheory.JacquetBlocks.leviProj_eq_of_coe_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:07:35.113925+00:00
 -- url     : https://prove2.me/theorems/41d2db3a-d6fe-4e0a-b6fd-9aae35a40388

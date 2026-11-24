@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_Cell_exists_normalise
 -- name    : Formalism.HermitianLattices.Ext.L3.Cell.exists_normalise
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:45:30.834862+00:00
 -- url     : https://prove2.me/theorems/3e738da1-8b0b-491b-be1d-209162b16dac

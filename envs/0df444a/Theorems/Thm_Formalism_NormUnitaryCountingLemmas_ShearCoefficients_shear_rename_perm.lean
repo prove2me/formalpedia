@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_ShearCoefficients_shear_rename_perm
 -- name    : Formalism.NormUnitaryCountingLemmas.ShearCoefficients.shear_rename_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:17:53.071971+00:00
 -- url     : https://prove2.me/theorems/0e233bdb-58b3-4f9e-9731-911f6abbff2a

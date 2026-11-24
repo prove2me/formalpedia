@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_g_c_unique
 -- name    : Formalism.InvariantFactorPaths.G7.g_c_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:24:44.213324+00:00
 -- url     : https://prove2.me/theorems/0c124065-6af6-495a-98e1-017d904002af

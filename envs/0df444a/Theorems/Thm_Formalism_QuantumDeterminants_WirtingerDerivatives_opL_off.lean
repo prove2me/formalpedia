@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_WirtingerDerivatives_opL_off
 -- name    : Formalism.QuantumDeterminants.WirtingerDerivatives.opL_off
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:18:40.758015+00:00
 -- url     : https://prove2.me/theorems/4b45d33d-cd32-4627-be4d-9356215209b9

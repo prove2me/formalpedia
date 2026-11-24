@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_vG_zero
 -- name    : Formalism.MainNotions.PlaneGram.vG_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:08:18.603549+00:00
 -- url     : https://prove2.me/theorems/e0df1a9c-64d7-4401-8059-a9c97b01f3ed

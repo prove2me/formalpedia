@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_LTL_low_subst_sub
 -- name    : Formalism.LT.LTL.low_subst_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:51:08.276626+00:00
 -- url     : https://prove2.me/theorems/a61338fe-463d-4a15-9519-2ee5e5a5f200

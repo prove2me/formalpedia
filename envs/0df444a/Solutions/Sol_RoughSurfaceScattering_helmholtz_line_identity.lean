@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for RoughSurfaceScattering.helmholtz_line_identity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @もち
 -- created : 2026-11-24T05:37:35.521594+00:00
 -- url     : https://prove2.me/submissions/9f4241b4-0d07-42e9-8caf-ec0e2c0cc6e0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_RoughSurfaceScattering_Basic

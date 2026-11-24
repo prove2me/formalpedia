@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGI_gm_homAt
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGI.gm_homAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:18.869977+00:00
 -- url     : https://prove2.me/theorems/a523d4b9-de09-42f4-bc3e-fd1c5ff32e8b

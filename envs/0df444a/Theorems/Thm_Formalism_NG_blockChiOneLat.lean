@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_blockChiOneLat
 -- name    : Formalism.NG.blockChiOneLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:17:02.643482+00:00
 -- url     : https://prove2.me/theorems/a173bb81-1326-4bc6-9d5b-e9d4e09bdc9f

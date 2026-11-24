@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_integrality_rules
 -- name    : Formalism.L2.Th1.E.integrality_rules
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:51:56.595796+00:00
 -- url     : https://prove2.me/theorems/5f28bd00-ca7b-4832-a5f1-4860b2d976f3

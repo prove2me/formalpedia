@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_QuotientPowerLengths_isTorsionFree_quot
 -- name    : Formalism.NG.QuotientPowerLengths.isTorsionFree_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:13:57.70658+00:00
 -- url     : https://prove2.me/theorems/7f945c41-5e0a-40d9-8999-addbe91dbe1b

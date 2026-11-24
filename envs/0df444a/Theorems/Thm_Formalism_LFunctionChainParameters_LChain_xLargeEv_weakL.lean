@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain_xLargeEv_weakL
 -- name    : Formalism.LFunctionChainParameters.LChain.xLargeEv_weakL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:18.099002+00:00
 -- url     : https://prove2.me/theorems/36de3a7d-fa24-4bd1-a35d-da10bcd0f369

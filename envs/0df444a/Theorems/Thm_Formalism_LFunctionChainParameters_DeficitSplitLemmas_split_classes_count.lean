@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_DeficitSplitLemmas_split_classes_count
 -- name    : Formalism.LFunctionChainParameters.DeficitSplitLemmas.split_classes_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:25.965658+00:00
 -- url     : https://prove2.me/theorems/cde26554-1996-4a57-b5e6-7361dcabe9b5

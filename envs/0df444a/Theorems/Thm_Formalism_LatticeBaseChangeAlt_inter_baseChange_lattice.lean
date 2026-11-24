@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_inter_baseChange_lattice
 -- name    : Formalism.LatticeBaseChangeAlt.inter_baseChange_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:46.863856+00:00
 -- url     : https://prove2.me/theorems/6b41042c-7fb6-4d78-878f-a8f09e022783

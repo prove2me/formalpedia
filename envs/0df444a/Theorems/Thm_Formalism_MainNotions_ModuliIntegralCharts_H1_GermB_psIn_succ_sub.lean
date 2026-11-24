@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GermB_psIn_succ_sub
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GermB.psIn_succ_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:08:17.545891+00:00
 -- url     : https://prove2.me/theorems/e9491b35-0d0c-4fd8-9cad-78cbeb98964d

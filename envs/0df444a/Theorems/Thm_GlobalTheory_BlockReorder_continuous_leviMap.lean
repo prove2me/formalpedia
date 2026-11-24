@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BlockReorder_continuous_leviMap
 -- name    : GlobalTheory.BlockReorder.continuous_leviMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:01:45.820264+00:00
 -- url     : https://prove2.me/theorems/93bb096c-eab9-4ea0-a813-ebb721d01fec

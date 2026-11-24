@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_disjoint_eOut_eIn
 -- name    : Formalism.MainNotions.PlaneGram.disjoint_eOut_eIn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:06:43.533779+00:00
 -- url     : https://prove2.me/theorems/fde77a2d-2573-46bd-a68d-f53d38a38d39

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_IdemLiftAlt_pow_smul_mono
 -- name    : Formalism.NG.IdemLiftAlt.pow_smul_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:13:29.713949+00:00
 -- url     : https://prove2.me/theorems/339d4620-70b5-4785-8a9e-74da548cb108

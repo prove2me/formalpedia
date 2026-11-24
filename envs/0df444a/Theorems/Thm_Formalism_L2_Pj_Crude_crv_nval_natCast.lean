@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_crv_nval_natCast
 -- name    : Formalism.L2.Pj.Crude.crv_nval_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:40:45.106515+00:00
 -- url     : https://prove2.me/theorems/bfec1433-c5c3-44e7-9297-23ac406ee8dd

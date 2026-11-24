@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NuclearRankWeightBounds_P_sum_castLE_eq
 -- name    : Formalism.NuclearRankWeightBounds.P.sum_castLE_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:17:36.208908+00:00
 -- url     : https://prove2.me/theorems/43dada5c-055d-43ff-918e-f05c0a77188e

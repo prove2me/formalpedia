@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_prime_log_sum_bound
 -- name    : Formalism.DivisionValues.prime_log_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:23:44.370413+00:00
 -- url     : https://prove2.me/theorems/dca1bed4-4a25-4996-b7b4-e30d756ed0e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_cstar_le_upperBase_of_estimates
 -- name    : MomentComparison.cstar_le_upperBase_of_estimates
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:05:45.823478+00:00
 -- url     : https://prove2.me/theorems/26a77bb0-db86-4b7e-bf06-0eea136fc29c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_exists_monomialOrder
 -- name    : Formalism.MainNotions.PlaneGram.exists_monomialOrder
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:06:33.826181+00:00
 -- url     : https://prove2.me/theorems/ae8d45d8-a308-4ddd-9854-29ed4e4a4085

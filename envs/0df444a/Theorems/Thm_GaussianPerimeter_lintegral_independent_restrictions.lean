@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_lintegral_independent_restrictions
 -- name    : GaussianPerimeter.lintegral_independent_restrictions
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:11:00.511325+00:00
 -- url     : https://prove2.me/theorems/1ddcbd5f-dd63-49bf-8925-a4185dccab2f

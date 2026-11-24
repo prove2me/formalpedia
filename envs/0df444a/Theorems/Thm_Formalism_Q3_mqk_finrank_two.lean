@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_mqk_finrank_two
 -- name    : Formalism.Q3.mqk_finrank_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:18:43.057588+00:00
 -- url     : https://prove2.me/theorems/20759763-9d84-4b1d-9cbd-65c15a3b3b26

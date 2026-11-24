@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_lowerBound
 -- name    : MomentComparison.lowerBound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:03:34.349038+00:00
 -- url     : https://prove2.me/theorems/ba94b4cf-c597-4da9-bbfc-4469158d0c77

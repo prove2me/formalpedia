@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_CMConjugation_algAdjoin_eq_top
 -- name    : Formalism.Q3.CMConjugation.algAdjoin_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:18:11.582482+00:00
 -- url     : https://prove2.me/theorems/876b66ed-297f-4095-9613-c1ec12152b67

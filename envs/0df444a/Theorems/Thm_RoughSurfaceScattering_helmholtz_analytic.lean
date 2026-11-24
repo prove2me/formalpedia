@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoughSurfaceScattering_helmholtz_analytic
 -- name    : RoughSurfaceScattering.helmholtz_analytic
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-24T05:36:10.070235+00:00
 -- url     : https://prove2.me/theorems/78a62548-89dc-4479-b531-9b258725afb4

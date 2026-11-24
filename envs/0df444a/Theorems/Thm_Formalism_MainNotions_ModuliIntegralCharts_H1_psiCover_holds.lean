@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_psiCover_holds
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.psiCover_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:24:24.437581+00:00
 -- url     : https://prove2.me/theorems/518951e3-b406-4c40-8b32-60ea94a2ef91

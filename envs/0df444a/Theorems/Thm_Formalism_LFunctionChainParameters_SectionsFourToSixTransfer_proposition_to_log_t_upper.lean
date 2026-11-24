@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_SectionsFourToSixTransfer_proposition_to_log_t_upper
 -- name    : Formalism.LFunctionChainParameters.SectionsFourToSixTransfer.proposition_to_log_t_upper
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:57:25.737099+00:00
 -- url     : https://prove2.me/theorems/0f80851a-694b-4d03-aeca-07dc7b820f8c

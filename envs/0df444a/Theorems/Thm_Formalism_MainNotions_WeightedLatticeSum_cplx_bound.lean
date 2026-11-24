@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_WeightedLatticeSum_cplx_bound
 -- name    : Formalism.MainNotions.WeightedLatticeSum.cplx_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:12:06.347103+00:00
 -- url     : https://prove2.me/theorems/78b3a3d5-aeb0-4588-acca-84be6283f05f

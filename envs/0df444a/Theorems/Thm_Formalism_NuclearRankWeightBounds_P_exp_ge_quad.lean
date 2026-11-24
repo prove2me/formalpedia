@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NuclearRankWeightBounds_P_exp_ge_quad
 -- name    : Formalism.NuclearRankWeightBounds.P.exp_ge_quad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:18:13.653836+00:00
 -- url     : https://prove2.me/theorems/a6bd2959-a4bb-457e-b587-c61c11dd9ae8

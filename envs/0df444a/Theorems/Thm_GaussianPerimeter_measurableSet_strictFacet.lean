@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_measurableSet_strictFacet
 -- name    : GaussianPerimeter.measurableSet_strictFacet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:10:59.592138+00:00
 -- url     : https://prove2.me/theorems/bd4896bd-73fe-4693-bbcc-9c43021a0f4e

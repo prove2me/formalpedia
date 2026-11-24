@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_propW_of_localEstimates
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.propW_of_localEstimates
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:48:35.560801+00:00
 -- url     : https://prove2.me/theorems/17bc0788-0f8e-4cd1-b1bb-244f3524d427

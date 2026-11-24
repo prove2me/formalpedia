@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_moment_comparison_of_conjugate
 -- name    : MomentComparison.moment_comparison_of_conjugate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:03:54.387582+00:00
 -- url     : https://prove2.me/theorems/d7000165-cdac-436c-823b-94f84d32558e

@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for RoughSurfaceScattering.harmonic_cauchy_estimates_R3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @もち
 -- created : 2026-11-24T10:28:47.882985+00:00
 -- url     : https://prove2.me/submissions/92a5665e-b24b-4535-8b78-cfa128f9ac78
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_RoughSurfaceScattering_Basic

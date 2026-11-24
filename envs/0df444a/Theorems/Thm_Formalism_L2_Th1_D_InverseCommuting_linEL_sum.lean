@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_InverseCommuting_linEL_sum
 -- name    : Formalism.L2.Th1.D.InverseCommuting.linEL_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:36:36.741802+00:00
 -- url     : https://prove2.me/theorems/fff159b1-36d8-4beb-814e-5f9f5bdbafc4

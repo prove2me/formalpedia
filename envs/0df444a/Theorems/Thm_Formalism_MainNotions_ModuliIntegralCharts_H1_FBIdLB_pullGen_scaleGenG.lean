@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_FBIdLB_pullGen_scaleGenG
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.FBIdLB.pullGen_scaleGenG
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:02:11.857874+00:00
 -- url     : https://prove2.me/theorems/de070a1a-13bd-45ee-9432-bac8c72092e9

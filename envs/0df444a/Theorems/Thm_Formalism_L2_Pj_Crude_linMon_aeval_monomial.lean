@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_linMon_aeval_monomial
 -- name    : Formalism.L2.Pj.Crude.linMon_aeval_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:12.885676+00:00
 -- url     : https://prove2.me/theorems/e929e09c-3eaa-4aff-bfde-520f70f4263a

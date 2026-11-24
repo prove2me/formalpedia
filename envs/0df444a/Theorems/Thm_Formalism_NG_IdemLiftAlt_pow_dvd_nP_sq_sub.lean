@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_IdemLiftAlt_pow_dvd_nP_sq_sub
 -- name    : Formalism.NG.IdemLiftAlt.pow_dvd_nP_sq_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:14:46.486002+00:00
 -- url     : https://prove2.me/theorems/e3281017-30c1-4df7-87c5-4673b90f5a7e

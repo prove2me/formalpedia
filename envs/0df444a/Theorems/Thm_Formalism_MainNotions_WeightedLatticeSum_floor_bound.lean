@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_WeightedLatticeSum_floor_bound
 -- name    : Formalism.MainNotions.WeightedLatticeSum.floor_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:12:20.978908+00:00
 -- url     : https://prove2.me/theorems/d145afd3-3506-4221-bd98-2c65efa570d2

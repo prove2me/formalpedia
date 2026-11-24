@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_pge_iff_inf
 -- name    : Formalism.MainNotions.PlaneGram.pge_iff_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:07:34.518958+00:00
 -- url     : https://prove2.me/theorems/1d86fd7c-6abf-4140-8be8-63ab475f19b5

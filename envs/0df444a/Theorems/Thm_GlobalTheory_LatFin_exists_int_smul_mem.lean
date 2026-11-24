@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatFin_exists_int_smul_mem
 -- name    : GlobalTheory.LatFin.exists_int_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:03:11.760228+00:00
 -- url     : https://prove2.me/theorems/4d34ad7d-c172-4d08-83fb-4bdab3f17e02

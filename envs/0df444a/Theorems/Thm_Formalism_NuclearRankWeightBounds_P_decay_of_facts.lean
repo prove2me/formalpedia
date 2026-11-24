@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NuclearRankWeightBounds_P_decay_of_facts
 -- name    : Formalism.NuclearRankWeightBounds.P.decay_of_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:18:24.271459+00:00
 -- url     : https://prove2.me/theorems/36ac1004-2ee2-4cfd-807a-fa2154172e79

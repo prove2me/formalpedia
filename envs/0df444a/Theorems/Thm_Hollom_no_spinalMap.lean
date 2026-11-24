@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hollom_no_spinalMap
 -- name    : Hollom.no_spinalMap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:12:43.580078+00:00
 -- url     : https://prove2.me/theorems/f84e3eb8-33e9-425f-bea8-f0d4c68c58bf

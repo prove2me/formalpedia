@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_tendsto_radialDensity_shift
 -- name    : GaussianPerimeter.tendsto_radialDensity_shift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:51:09.292235+00:00
 -- url     : https://prove2.me/theorems/e21e8850-e6e7-4ae2-b506-baf96d3565e3

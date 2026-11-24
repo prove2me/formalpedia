@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_Inhab_isLattice_map_iff
 -- name    : Formalism.MainNotions.G.Inhab.isLattice_map_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:55:36.453697+00:00
 -- url     : https://prove2.me/theorems/29266ace-8306-45ac-b1d0-1884958f66d8

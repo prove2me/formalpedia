@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_cauchyBinetMax
 -- name    : Formalism.LatticeBaseChangeAlt.cauchyBinetMax
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:51:33.212509+00:00
 -- url     : https://prove2.me/theorems/63e4d8b3-5e98-48c6-bdaa-425c17d1e0df

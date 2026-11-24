@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_capTail_nonneg
 -- name    : GaussianPerimeter.capTail_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:26:54.366403+00:00
 -- url     : https://prove2.me/theorems/2d4000f9-5676-41e8-a3d2-7bee9503c259

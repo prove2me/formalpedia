@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_sub_onLetter
 -- name    : Formalism.MainNotions.PlaneGram.sub_onLetter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:08:42.027357+00:00
 -- url     : https://prove2.me/theorems/2d00cb19-8cb3-4942-8acb-0989060538bc

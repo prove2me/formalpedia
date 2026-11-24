@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_nontrivial_of_isIrreducible
 -- name    : GlobalTheory.BI.nontrivial_of_isIrreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:01:29.181958+00:00
 -- url     : https://prove2.me/theorems/0b495f56-2125-4767-bbf7-4d494cd27dce

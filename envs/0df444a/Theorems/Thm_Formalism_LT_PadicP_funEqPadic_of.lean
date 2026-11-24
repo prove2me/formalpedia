@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_PadicP_funEqPadic_of
 -- name    : Formalism.LT.PadicP.funEqPadic_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:03.566838+00:00
 -- url     : https://prove2.me/theorems/41ae4627-7b2d-4e9a-803f-dba64ad3b7fb

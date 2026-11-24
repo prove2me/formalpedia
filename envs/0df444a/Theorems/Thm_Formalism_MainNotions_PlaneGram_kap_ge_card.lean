@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_kap_ge_card
 -- name    : Formalism.MainNotions.PlaneGram.kap_ge_card
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:45:19.451641+00:00
 -- url     : https://prove2.me/theorems/f34a4acd-79d5-4d47-b0eb-21f0bc75c7bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_Inhab_lat1
 -- name    : Formalism.MainNotions.G.Inhab.lat1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:46:00.910806+00:00
 -- url     : https://prove2.me/theorems/7bac7143-bfac-4045-9e9a-cb8994f83916

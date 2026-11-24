@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_WeightedLatticeSum_tele
 -- name    : Formalism.MainNotions.WeightedLatticeSum.tele
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:12:17.751981+00:00
 -- url     : https://prove2.me/theorems/f35bdb5e-9778-422e-9acc-226e93edb053

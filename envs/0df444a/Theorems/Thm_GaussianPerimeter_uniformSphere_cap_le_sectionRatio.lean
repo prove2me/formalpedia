@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_uniformSphere_cap_le_sectionRatio
 -- name    : GaussianPerimeter.uniformSphere_cap_le_sectionRatio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:03:38.123297+00:00
 -- url     : https://prove2.me/theorems/8056cc56-3e1f-4777-8aad-d422d6c99e09

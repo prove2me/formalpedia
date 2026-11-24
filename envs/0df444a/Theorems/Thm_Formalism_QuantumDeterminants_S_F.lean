@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_S_F
 -- name    : Formalism.QuantumDeterminants.S_F
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:33:52.470064+00:00
 -- url     : https://prove2.me/theorems/5fe5a3e3-1b78-49f0-bdf8-f8a75afc16a2

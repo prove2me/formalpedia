@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoughSurfaceScattering_harmonic_mean_value_smooth_kernel_R3
 -- name    : RoughSurfaceScattering.harmonic_mean_value_smooth_kernel_R3
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-24T11:08:33.183846+00:00
 -- url     : https://prove2.me/theorems/22a6cedc-124b-4e4b-b1ed-5c752dffcac7

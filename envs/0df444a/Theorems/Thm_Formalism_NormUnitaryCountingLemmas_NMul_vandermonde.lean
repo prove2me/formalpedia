@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_NMul_vandermonde
 -- name    : Formalism.NormUnitaryCountingLemmas.NMul.vandermonde
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:17:50.554802+00:00
 -- url     : https://prove2.me/theorems/260c2ffc-e7b3-41d8-9436-b21f1d9eea03

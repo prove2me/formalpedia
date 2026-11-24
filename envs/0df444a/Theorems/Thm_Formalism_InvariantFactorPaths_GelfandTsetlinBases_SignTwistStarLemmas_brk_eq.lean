@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_SignTwistStarLemmas_brk_eq
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.SignTwistStarLemmas.brk_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:47:03.129692+00:00
 -- url     : https://prove2.me/theorems/ce44992f-1467-4a55-87f4-8b7b16dbead9

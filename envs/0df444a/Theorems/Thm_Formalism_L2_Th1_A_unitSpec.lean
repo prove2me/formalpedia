@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_unitSpec
 -- name    : Formalism.L2.Th1.A.unitSpec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:14:43.279145+00:00
 -- url     : https://prove2.me/theorems/594595ad-d25a-43a0-a5e2-a5ccdc2f81b2

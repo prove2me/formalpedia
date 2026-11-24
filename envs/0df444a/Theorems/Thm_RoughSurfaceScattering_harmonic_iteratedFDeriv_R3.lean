@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoughSurfaceScattering_harmonic_iteratedFDeriv_R3
 -- name    : RoughSurfaceScattering.harmonic_iteratedFDeriv_R3
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-24T06:11:40.478031+00:00
 -- url     : https://prove2.me/theorems/9e5d2139-fe39-492b-b469-f4a1694e6e32

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLemVN_span_mul_span1
 -- name    : Formalism.MainNotions.BridgeLemVN.span_mul_span1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:56:18.646282+00:00
 -- url     : https://prove2.me/theorems/ec3f7421-efce-448e-8ca6-8665bbbfc7a6

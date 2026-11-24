@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Clo_isClosed_LG
 -- name    : Formalism.L2.Th1.C.Clo.isClosed_LG
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:22:38.437701+00:00
 -- url     : https://prove2.me/theorems/62f78883-2029-491b-b33b-4cc62bae9326

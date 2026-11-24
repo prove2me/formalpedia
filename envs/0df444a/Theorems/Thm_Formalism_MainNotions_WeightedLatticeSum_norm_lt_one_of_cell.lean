@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_WeightedLatticeSum_norm_lt_one_of_cell
 -- name    : Formalism.MainNotions.WeightedLatticeSum.norm_lt_one_of_cell
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:12:09.300651+00:00
 -- url     : https://prove2.me/theorems/b0b88d8a-95c4-41b9-bc22-9b7dc06732b3

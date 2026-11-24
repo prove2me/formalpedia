@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_ddiv_ddiv_of_disjoint
 -- name    : Formalism.MainNotions.PlaneGram.ddiv_ddiv_of_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:06:18.624074+00:00
 -- url     : https://prove2.me/theorems/f1863e9c-0a7d-4ae2-a4ed-9c5dda15f0e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_hostIn_galSign_one
 -- name    : Formalism.Q3.hostIn_galSign_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:19:06.199723+00:00
 -- url     : https://prove2.me/theorems/0227911a-05c6-4b70-9af3-05bd3c4a55da

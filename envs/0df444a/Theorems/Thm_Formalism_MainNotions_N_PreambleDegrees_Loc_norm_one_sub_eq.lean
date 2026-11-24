@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_PreambleDegrees_Loc_norm_one_sub_eq
 -- name    : Formalism.MainNotions.N.PreambleDegrees.Loc.norm_one_sub_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:07:48.2673+00:00
 -- url     : https://prove2.me/theorems/7e9abd60-406b-47e4-8ffc-b1bc5450cc24

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_constant_of_hasDegreeLE_zero
 -- name    : MomentComparison.constant_of_hasDegreeLE_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:37:15.388356+00:00
 -- url     : https://prove2.me/theorems/b2be4421-8d1e-4685-bf7a-e3a061f1a337

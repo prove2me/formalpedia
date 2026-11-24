@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain_exists_data_completion
 -- name    : Formalism.LFunctionChainParameters.LChain.exists_data_completion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:06:19.176468+00:00
 -- url     : https://prove2.me/theorems/80d603fe-ca79-4d4f-b7f9-7a5116b8f174

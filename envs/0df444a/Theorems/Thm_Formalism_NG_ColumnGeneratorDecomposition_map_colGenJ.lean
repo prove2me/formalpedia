@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_ColumnGeneratorDecomposition_map_colGenJ
 -- name    : Formalism.NG.ColumnGeneratorDecomposition.map_colGenJ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:19:46.854077+00:00
 -- url     : https://prove2.me/theorems/31b80226-5ba3-40fb-8738-f813e1dfa032

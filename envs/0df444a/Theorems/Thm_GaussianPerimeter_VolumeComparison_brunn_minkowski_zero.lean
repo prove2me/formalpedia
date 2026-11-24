@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_VolumeComparison_brunn_minkowski_zero
 -- name    : GaussianPerimeter.VolumeComparison.brunn_minkowski_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:25:18.891496+00:00
 -- url     : https://prove2.me/theorems/9d6941d0-3d5c-42df-90ff-6d2bf7b10803

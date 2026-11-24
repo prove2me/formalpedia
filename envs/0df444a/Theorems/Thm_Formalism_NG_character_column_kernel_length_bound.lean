@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_character_column_kernel_length_bound
 -- name    : Formalism.NG.character_column_kernel_length_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:23:30.00383+00:00
 -- url     : https://prove2.me/theorems/3428e8fe-f35e-4cc0-9419-3a672711656c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_ExponentialIntegralMeasures_integral_exp_int
 -- name    : Formalism.NormUnitaryCountingLemmas.ExponentialIntegralMeasures.integral_exp_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:16:45.525876+00:00
 -- url     : https://prove2.me/theorems/3261f9c4-abfe-41a1-b371-d7dd8b3eb3de

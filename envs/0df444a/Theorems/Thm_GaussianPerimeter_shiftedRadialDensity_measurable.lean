@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_shiftedRadialDensity_measurable
 -- name    : GaussianPerimeter.shiftedRadialDensity_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:55:37.22093+00:00
 -- url     : https://prove2.me/theorems/f078d652-c4d1-4747-8e6a-729c894e08bf

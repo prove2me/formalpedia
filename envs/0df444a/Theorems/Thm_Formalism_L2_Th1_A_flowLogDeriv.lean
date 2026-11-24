@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_flowLogDeriv
 -- name    : Formalism.L2.Th1.A.flowLogDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:20.951711+00:00
 -- url     : https://prove2.me/theorems/94868a86-4d21-4d43-a23b-977713a796ff

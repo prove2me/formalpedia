@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_notSegL_mw
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.notSegL_mw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:05:18.646798+00:00
 -- url     : https://prove2.me/theorems/6d2a33a2-eec1-4855-9408-3a235d16b14e

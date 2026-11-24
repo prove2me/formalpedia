@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_mq_injective
 -- name    : Formalism.Q3.mq_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:18:36.618315+00:00
 -- url     : https://prove2.me/theorems/dcec7943-8edf-46f7-81a5-5973e7caca20

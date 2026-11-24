@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_DIV_HookProducts_RBTie_gram_tie
 -- name    : Formalism.MainNotions.DIV.HookProducts.RBTie.gram_tie
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:40:31.833083+00:00
 -- url     : https://prove2.me/theorems/30f2400c-877d-4211-abac-f619631036e3

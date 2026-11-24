@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FJ_rdOrbInt_of_latZ
 -- name    : Formalism.L2.Pj.FJ.rdOrbInt_of_latZ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:20.846342+00:00
 -- url     : https://prove2.me/theorems/84907c91-42ed-4e72-b5aa-859b82fdb003

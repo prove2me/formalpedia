@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_SymmetricSexticResidual_Proof_localU0_W2_d1_dual
 -- name    : HodgeComputer.SymmetricSexticResidual.Proof.localU0_W2_d1_dual
--- status  : Open
+-- status  : Proved
 -- author  : @benediamond
 -- created : 2026-11-24T11:03:45.558514+00:00
 -- url     : https://prove2.me/theorems/8596655a-4181-4a7e-8138-52b7716c4e32

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoughSurfaceScattering_harmonic_gradient_estimate_C_R3
 -- name    : RoughSurfaceScattering.harmonic_gradient_estimate_C_R3
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-24T10:28:35.360226+00:00
 -- url     : https://prove2.me/theorems/a1115d39-0ef6-494f-ac4e-c74196fb6f24

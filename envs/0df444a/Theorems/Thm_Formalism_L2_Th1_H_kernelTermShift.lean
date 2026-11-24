@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_kernelTermShift
 -- name    : Formalism.L2.Th1.H.kernelTermShift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:59:22.765886+00:00
 -- url     : https://prove2.me/theorems/af279a65-d6a5-4d95-b5ed-58354c3d5455

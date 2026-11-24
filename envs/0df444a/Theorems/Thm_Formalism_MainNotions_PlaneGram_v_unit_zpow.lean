@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_v_unit_zpow
 -- name    : Formalism.MainNotions.PlaneGram.v_unit_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:46:09.037797+00:00
 -- url     : https://prove2.me/theorems/cb5e35b0-f2a8-4df2-a24e-7f53f79ef12f

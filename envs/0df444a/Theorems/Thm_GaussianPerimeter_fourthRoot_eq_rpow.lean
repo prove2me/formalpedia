@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_fourthRoot_eq_rpow
 -- name    : GaussianPerimeter.fourthRoot_eq_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:43:45.329807+00:00
 -- url     : https://prove2.me/theorems/20b10bcb-fcda-4b68-8be4-eae695193809

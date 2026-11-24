@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_MassRatioBoundPower_lValEta_ge
 -- name    : Formalism.MainNotions.MassRatioBoundPower.lValEta_ge
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:17:22.132933+00:00
 -- url     : https://prove2.me/theorems/3956c236-a7bd-4ef9-8d64-1a1c07d20d1c

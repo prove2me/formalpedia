@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_kerRepsExist
 -- name    : Formalism.L2.Th1.F.kerRepsExist
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:48:39.340271+00:00
 -- url     : https://prove2.me/theorems/422f71cc-972c-494f-8d02-aa42770db7e7

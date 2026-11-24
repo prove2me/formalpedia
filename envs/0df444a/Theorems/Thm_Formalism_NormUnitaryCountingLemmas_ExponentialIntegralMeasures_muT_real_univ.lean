@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_ExponentialIntegralMeasures_muT_real_univ
 -- name    : Formalism.NormUnitaryCountingLemmas.ExponentialIntegralMeasures.muT_real_univ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:16:52.440403+00:00
 -- url     : https://prove2.me/theorems/3020ed3e-768a-4253-afc0-74a8d2b2de43

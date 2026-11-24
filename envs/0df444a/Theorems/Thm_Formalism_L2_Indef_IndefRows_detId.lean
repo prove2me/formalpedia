@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_IndefRows_detId
 -- name    : Formalism.L2.Indef.IndefRows.detId
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:15:16.12573+00:00
 -- url     : https://prove2.me/theorems/23011b4b-563d-47fd-8baa-5166f99b627d

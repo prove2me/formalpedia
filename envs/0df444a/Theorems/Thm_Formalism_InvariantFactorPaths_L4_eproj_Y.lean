@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_eproj_Y
 -- name    : Formalism.InvariantFactorPaths.L4.eproj_Y
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:43:00.422364+00:00
 -- url     : https://prove2.me/theorems/e818cccf-c591-492b-8462-e167fea3c25c

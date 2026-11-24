@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_columnJ
 -- name    : Formalism.NG.columnJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:15:47.373807+00:00
 -- url     : https://prove2.me/theorems/9a94ec6d-db29-442d-b363-3f2937061d4b

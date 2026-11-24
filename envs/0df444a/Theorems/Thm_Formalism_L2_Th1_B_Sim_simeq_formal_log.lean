@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Sim_simeq_formal_log
 -- name    : Formalism.L2.Th1.B.Sim.simeq_formal_log
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:20.510803+00:00
 -- url     : https://prove2.me/theorems/8876fef1-74a5-4e3c-80d0-4b3d525c2a5b

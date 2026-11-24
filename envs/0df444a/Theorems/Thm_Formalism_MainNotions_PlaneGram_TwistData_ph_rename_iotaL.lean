@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_ph_rename_iotaL
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.ph_rename_iotaL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:05:46.222618+00:00
 -- url     : https://prove2.me/theorems/b0810a35-84a2-40f1-afeb-c07bebce4102

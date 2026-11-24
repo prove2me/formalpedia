@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_aharoni_korman_false
 -- name    : aharoni_korman_false
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:19:26.945009+00:00
 -- url     : https://prove2.me/theorems/94904be3-7f40-4a99-8cf7-bcef2c46be0e

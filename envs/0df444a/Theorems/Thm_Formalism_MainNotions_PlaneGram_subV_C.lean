@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_subV_C
 -- name    : Formalism.MainNotions.PlaneGram.subV_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:08:29.597366+00:00
 -- url     : https://prove2.me/theorems/271f84d8-fa2b-43a4-9c81-cf14938f4f0c

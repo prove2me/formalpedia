@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_hMat_mem
 -- name    : Formalism.MainNotions.PlaneGram.hMat_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:07:25.793938+00:00
 -- url     : https://prove2.me/theorems/9a131b71-1251-4fa7-94d6-601c71e07792

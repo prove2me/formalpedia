@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_mem_of_reachable_of_closed
 -- name    : ChromaticReconstruction.mem_of_reachable_of_closed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:07:24.283839+00:00
 -- url     : https://prove2.me/theorems/068bae74-fb0a-482b-bf92-c6753c93cf3c

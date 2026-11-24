@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_kerRepsCard
 -- name    : Formalism.L2.Th1.F.kerRepsCard
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:43:50.823841+00:00
 -- url     : https://prove2.me/theorems/8b3c9387-b9eb-41b8-b335-b1c1d6998aa1

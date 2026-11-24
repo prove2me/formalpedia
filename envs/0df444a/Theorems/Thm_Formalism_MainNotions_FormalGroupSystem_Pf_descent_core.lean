@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_FormalGroupSystem_Pf_descent_core
 -- name    : Formalism.MainNotions.FormalGroupSystem.Pf.descent_core
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:17:06.955508+00:00
 -- url     : https://prove2.me/theorems/edf2b6c2-c166-4ea5-948e-60cbfcdc7ea6

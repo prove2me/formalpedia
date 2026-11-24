@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_SectionsFourToSixTransfer_z_to_slopes
 -- name    : Formalism.LFunctionChainParameters.SectionsFourToSixTransfer.z_to_slopes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:49:54.208242+00:00
 -- url     : https://prove2.me/theorems/d5d2ef7e-93f9-42ff-97cf-b4dc081d3090

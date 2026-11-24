@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_LTL_Cong_pow
 -- name    : Formalism.LT.LTL.Cong.pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:26:00.473996+00:00
 -- url     : https://prove2.me/theorems/b83d6413-d667-4585-9941-865ff4e3d51f

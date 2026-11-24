@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpUniqTan_one_of_tan
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpUniqTan.one_of_tan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:01:23.025043+00:00
 -- url     : https://prove2.me/theorems/6b86d2fd-a816-4edb-97cc-67d5bd97cbda

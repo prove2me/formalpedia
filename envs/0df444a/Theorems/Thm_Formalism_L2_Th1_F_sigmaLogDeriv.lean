@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_sigmaLogDeriv
 -- name    : Formalism.L2.Th1.F.sigmaLogDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:59:24.983063+00:00
 -- url     : https://prove2.me/theorems/4ff94af5-bec3-4cfe-8f4f-abcc92ac7989

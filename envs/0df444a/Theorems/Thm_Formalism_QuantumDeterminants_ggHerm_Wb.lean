@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_ggHerm_Wb
 -- name    : Formalism.QuantumDeterminants.ggHerm_Wb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:18:40.10998+00:00
 -- url     : https://prove2.me/theorems/d5e60dbe-d374-4410-a06a-c84a919f3286

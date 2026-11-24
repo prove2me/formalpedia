@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_cstar_le_upperBase
 -- name    : MomentComparison.cstar_le_upperBase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:06:05.558627+00:00
 -- url     : https://prove2.me/theorems/591ad271-99cb-44c2-9953-10d1187642b5

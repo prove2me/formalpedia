@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtUnitaryInvariance_hs_Kp_tw
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtUnitaryInvariance.hs_Kp_tw
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:59:46.33968+00:00
 -- url     : https://prove2.me/theorems/fd21050c-32a3-436a-abab-d1f73a01a33f

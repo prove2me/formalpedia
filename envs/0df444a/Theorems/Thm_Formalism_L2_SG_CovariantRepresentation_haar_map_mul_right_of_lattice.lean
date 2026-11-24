@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_CovariantRepresentation_haar_map_mul_right_of_lattice
 -- name    : Formalism.L2.SG.CovariantRepresentation.haar_map_mul_right_of_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:31:21.186958+00:00
 -- url     : https://prove2.me/theorems/7fbab33c-ce05-4f2d-b88c-dc8a3c9bdd21

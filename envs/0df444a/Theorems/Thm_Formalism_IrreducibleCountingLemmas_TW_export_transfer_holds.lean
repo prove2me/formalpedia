@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_TW_export_transfer_holds
 -- name    : Formalism.IrreducibleCountingLemmas.TW.export_transfer_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:55.659668+00:00
 -- url     : https://prove2.me/theorems/cfe601ed-85dc-4c31-8f50-55086bac0944

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_StandardLattice_variation_exponent_bound
 -- name    : Formalism.LogVandermondeBounds.StandardLattice.variation_exponent_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:14:20.130812+00:00
 -- url     : https://prove2.me/theorems/ad9b5a6c-0ae2-4235-a866-c923bf22cfb3

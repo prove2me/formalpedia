@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_pullE_congr
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.pullE_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:06:26.582745+00:00
 -- url     : https://prove2.me/theorems/73cf2e85-dd83-4c29-9b2b-1d4352c1ee17

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_CovariantRepresentation_isMulRightInvariant_of_lattice
 -- name    : Formalism.L2.SG.CovariantRepresentation.isMulRightInvariant_of_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:04.124591+00:00
 -- url     : https://prove2.me/theorems/053efe1c-5ff4-4bb7-9353-a22d4ba90f1f

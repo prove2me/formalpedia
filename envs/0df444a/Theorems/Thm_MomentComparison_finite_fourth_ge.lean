@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_finite_fourth_ge
 -- name    : MomentComparison.finite_fourth_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:40:15.757358+00:00
 -- url     : https://prove2.me/theorems/76e3e913-f49a-4a99-a1af-4ca5480ae193

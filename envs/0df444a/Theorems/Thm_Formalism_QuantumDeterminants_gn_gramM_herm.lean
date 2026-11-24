@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_gn_gramM_herm
 -- name    : Formalism.QuantumDeterminants.gn_gramM_herm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:04:33.241272+00:00
 -- url     : https://prove2.me/theorems/10397995-80b8-47ea-a4cc-f005ecafb125

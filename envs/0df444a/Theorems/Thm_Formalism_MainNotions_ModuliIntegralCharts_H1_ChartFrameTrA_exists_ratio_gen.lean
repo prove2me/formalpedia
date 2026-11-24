@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ChartFrameTrA_exists_ratio_gen
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ChartFrameTrA.exists_ratio_gen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:26:18.962697+00:00
 -- url     : https://prove2.me/theorems/cd62f58c-cdc3-499d-93bb-ac9c9f3c9459

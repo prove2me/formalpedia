@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_flowTranslate
 -- name    : Formalism.L2.Th1.A.flowTranslate
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:53.434935+00:00
 -- url     : https://prove2.me/theorems/7a5da5ef-2b6a-4b5c-b2b7-ccd5092b1f59

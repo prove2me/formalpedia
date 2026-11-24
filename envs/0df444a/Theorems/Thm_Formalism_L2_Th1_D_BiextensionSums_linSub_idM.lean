@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_BiextensionSums_linSub_idM
 -- name    : Formalism.L2.Th1.D.BiextensionSums.linSub_idM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:04:38.299819+00:00
 -- url     : https://prove2.me/theorems/73950c4d-96d0-4ed5-b1f6-8040abe8ecc6

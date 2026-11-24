@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GermD_mem_orig_pow_of
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GermD.mem_orig_pow_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:54:51.839348+00:00
 -- url     : https://prove2.me/theorems/1740223b-50b3-4640-98e8-0809598df041

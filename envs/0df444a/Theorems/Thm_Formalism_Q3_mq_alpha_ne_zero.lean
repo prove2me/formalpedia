@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_mq_alpha_ne_zero
 -- name    : Formalism.Q3.mq_alpha_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:18:36.533814+00:00
 -- url     : https://prove2.me/theorems/24f9da23-c43a-4524-8f6d-8a63fade2299

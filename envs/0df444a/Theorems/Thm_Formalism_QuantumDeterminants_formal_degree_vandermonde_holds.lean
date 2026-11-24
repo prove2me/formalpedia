@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_formal_degree_vandermonde_holds
 -- name    : Formalism.QuantumDeterminants.formal_degree_vandermonde_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:18:55.86133+00:00
 -- url     : https://prove2.me/theorems/7b19c6ed-cbab-4129-8e2b-0eaa07223380

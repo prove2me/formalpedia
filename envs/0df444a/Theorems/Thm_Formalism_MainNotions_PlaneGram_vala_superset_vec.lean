@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_vala_superset_vec
 -- name    : Formalism.MainNotions.PlaneGram.vala_superset_vec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:07:49.539376+00:00
 -- url     : https://prove2.me/theorems/3c1317aa-79fc-40a7-9173-45d9544a4a33

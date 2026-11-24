@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_WirtingerDerivatives_top_add_one_le
 -- name    : Formalism.QuantumDeterminants.WirtingerDerivatives.top_add_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:18:33.048871+00:00
 -- url     : https://prove2.me/theorems/6a188c4d-d96d-46d2-910a-5149d080c4d4

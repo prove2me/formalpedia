@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_nsmul_one_withTop
 -- name    : Formalism.MainNotions.PlaneGram.nsmul_one_withTop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:07:05.585846+00:00
 -- url     : https://prove2.me/theorems/5ab13aae-d7f5-42a3-9f8b-95e6a000dc61

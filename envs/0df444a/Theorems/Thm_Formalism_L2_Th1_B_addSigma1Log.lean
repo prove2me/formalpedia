@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_addSigma1Log
 -- name    : Formalism.L2.Th1.B.addSigma1Log
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:53:09.625789+00:00
 -- url     : https://prove2.me/theorems/ea06ba69-9f18-4760-acf3-3f66612d2481

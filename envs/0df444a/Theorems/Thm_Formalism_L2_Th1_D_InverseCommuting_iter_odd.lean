@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_InverseCommuting_iter_odd
 -- name    : Formalism.L2.Th1.D.InverseCommuting.iter_odd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:37:31.320878+00:00
 -- url     : https://prove2.me/theorems/33604b63-4751-4266-9965-10e17ea6a944

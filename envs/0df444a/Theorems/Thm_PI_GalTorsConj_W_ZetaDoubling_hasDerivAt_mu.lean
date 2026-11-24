@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GalTorsConj_W_ZetaDoubling_hasDerivAt_mu
 -- name    : PI.GalTorsConj.W.ZetaDoubling.hasDerivAt_mu
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:31.949019+00:00
 -- url     : https://prove2.me/theorems/c4d99806-a399-4aea-a3e0-b222948255e4

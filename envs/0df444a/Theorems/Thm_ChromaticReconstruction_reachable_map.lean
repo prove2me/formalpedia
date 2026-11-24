@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_reachable_map
 -- name    : ChromaticReconstruction.reachable_map
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:07:31.3908+00:00
 -- url     : https://prove2.me/theorems/e9fb8269-da89-4e9d-a0ee-30352f8e20c0

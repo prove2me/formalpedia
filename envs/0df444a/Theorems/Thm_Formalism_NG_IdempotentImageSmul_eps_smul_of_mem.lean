@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_IdempotentImageSmul_eps_smul_of_mem
 -- name    : Formalism.NG.IdempotentImageSmul.eps_smul_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:13:40.714295+00:00
 -- url     : https://prove2.me/theorems/3efb4740-b6a3-42b8-9c89-3da38e0cfd2c

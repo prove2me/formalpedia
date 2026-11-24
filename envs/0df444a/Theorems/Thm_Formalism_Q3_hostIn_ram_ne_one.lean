@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_hostIn_ram_ne_one
 -- name    : Formalism.Q3.hostIn_ram_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:19:06.3996+00:00
 -- url     : https://prove2.me/theorems/e2189078-71b2-4706-ae49-39e1acf28461

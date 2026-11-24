@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_TestSideWords_TwistedFiltration_G3_twistSub_monomial_w
 -- name    : Formalism.MainNotions.TestSideWords.TwistedFiltration.G3.twistSub_monomial_w
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:12:01.377559+00:00
 -- url     : https://prove2.me/theorems/321d2992-f55d-491b-89dd-7ea382907153

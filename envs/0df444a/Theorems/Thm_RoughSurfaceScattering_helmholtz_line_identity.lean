@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoughSurfaceScattering_helmholtz_line_identity
 -- name    : RoughSurfaceScattering.helmholtz_line_identity
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-24T05:29:32.831145+00:00
 -- url     : https://prove2.me/theorems/e53e8f2c-b119-49f8-997b-1f594f8671fe

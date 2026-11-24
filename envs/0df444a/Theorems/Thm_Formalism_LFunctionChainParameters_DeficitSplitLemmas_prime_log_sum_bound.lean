@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_DeficitSplitLemmas_prime_log_sum_bound
 -- name    : Formalism.LFunctionChainParameters.DeficitSplitLemmas.prime_log_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:20:06.304463+00:00
 -- url     : https://prove2.me/theorems/18c73930-a272-402b-95e7-c2777ffb7ac1

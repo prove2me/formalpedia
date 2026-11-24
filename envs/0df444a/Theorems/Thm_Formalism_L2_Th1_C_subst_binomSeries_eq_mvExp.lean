@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_subst_binomSeries_eq_mvExp
 -- name    : Formalism.L2.Th1.C.subst_binomSeries_eq_mvExp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:53:53.165749+00:00
 -- url     : https://prove2.me/theorems/1a55d499-b65b-4a38-a5bc-990a8af0fa48

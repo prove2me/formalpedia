@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_InvIntP_FunEqLowCoeff_proof
 -- name    : Formalism.LT.InvIntP.FunEqLowCoeff_proof
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:00:26.212805+00:00
 -- url     : https://prove2.me/theorems/92bc87e9-580e-4c02-8e38-a37ae50dd1e3

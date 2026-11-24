@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_Top_derivA
 -- name    : Formalism.InvariantFactorPaths.G7.Top.derivA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:16:28.636196+00:00
 -- url     : https://prove2.me/theorems/046a0ad1-246e-489e-9ae8-1ee8a4aa406e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_liftE_new
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.liftE_new
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:05:22.328887+00:00
 -- url     : https://prove2.me/theorems/42f91e99-c091-4368-858c-445501c7597d

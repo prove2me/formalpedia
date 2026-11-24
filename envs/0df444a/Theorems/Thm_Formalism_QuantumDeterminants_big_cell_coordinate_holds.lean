@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_big_cell_coordinate_holds
 -- name    : Formalism.QuantumDeterminants.big_cell_coordinate_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:07:58.383803+00:00
 -- url     : https://prove2.me/theorems/c67d3839-c727-482f-ac03-2539680c092f

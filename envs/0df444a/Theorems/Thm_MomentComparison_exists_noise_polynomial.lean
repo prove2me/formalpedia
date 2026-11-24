@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_exists_noise_polynomial
 -- name    : MomentComparison.exists_noise_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:51:15.467663+00:00
 -- url     : https://prove2.me/theorems/fcaeb5c3-5f5f-4775-bbb9-47a8fbe02d69

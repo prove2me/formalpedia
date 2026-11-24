@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TranslateJetMomentLawAnyIdempotentLevel_parity_sub_one
 -- name    : Formalism.L2.Th1.D.TranslateJetMomentLawAnyIdempotentLevel.parity_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:50:05.134499+00:00
 -- url     : https://prove2.me/theorems/427c6c7e-8382-4c4b-8755-735f4bbe8887

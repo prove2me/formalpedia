@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_exists_square_roots_closure
 -- name    : Formalism.Q3.exists_square_roots_closure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:17:45.503467+00:00
 -- url     : https://prove2.me/theorems/2da195e5-035e-4473-a9e1-2ef077474556

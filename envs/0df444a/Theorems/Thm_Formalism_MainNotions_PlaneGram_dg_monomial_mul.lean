@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_dg_monomial_mul
 -- name    : Formalism.MainNotions.PlaneGram.dg_monomial_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:06:31.604339+00:00
 -- url     : https://prove2.me/theorems/7d7b964f-c515-4418-b97b-9fa7e7fbd00c

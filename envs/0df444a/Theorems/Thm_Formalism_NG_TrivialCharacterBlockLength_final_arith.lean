@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_TrivialCharacterBlockLength_final_arith
 -- name    : Formalism.NG.TrivialCharacterBlockLength.final_arith
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:15:39.907001+00:00
 -- url     : https://prove2.me/theorems/ae52f38a-25f3-444a-ad57-dd8754df6143

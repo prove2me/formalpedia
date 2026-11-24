@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_flipOneThree_Pf_KP_regroup
 -- name    : Formalism.MainNotions.flipOneThree.Pf.KP.regroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:12:03.152565+00:00
 -- url     : https://prove2.me/theorems/368e53cb-4d32-44a1-a389-975515ad0bbd

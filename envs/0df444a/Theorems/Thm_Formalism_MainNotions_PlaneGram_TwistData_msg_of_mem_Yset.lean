@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_msg_of_mem_Yset
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.msg_of_mem_Yset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:06:02.794111+00:00
 -- url     : https://prove2.me/theorems/491b31cd-7e77-45cc-8a0f-21a6b25ca175

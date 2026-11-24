@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_FS_PLat_iso
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.FS.PLat.iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:49:40.822298+00:00
 -- url     : https://prove2.me/theorems/e6f9c97c-72e3-4514-b8aa-e838528a0e69

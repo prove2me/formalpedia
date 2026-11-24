@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_plusNeg_of
 -- name    : Formalism.L2.Th1.A.plusNeg_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:18.63881+00:00
 -- url     : https://prove2.me/theorems/346a3f25-eb40-49d0-b508-25ff6110ae75

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_TestSideWords_TwistedFiltration_G3_trivFil_F
 -- name    : Formalism.MainNotions.TestSideWords.TwistedFiltration.G3.trivFil_F
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:12:26.265406+00:00
 -- url     : https://prove2.me/theorems/19960315-9e9c-4e06-bbe0-06c5a950a055

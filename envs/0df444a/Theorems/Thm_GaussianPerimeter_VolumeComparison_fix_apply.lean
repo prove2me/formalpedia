@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_VolumeComparison_fix_apply
 -- name    : GaussianPerimeter.VolumeComparison.fix_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:20:24.396881+00:00
 -- url     : https://prove2.me/theorems/a319b6d5-887a-4fba-9551-57696788a150

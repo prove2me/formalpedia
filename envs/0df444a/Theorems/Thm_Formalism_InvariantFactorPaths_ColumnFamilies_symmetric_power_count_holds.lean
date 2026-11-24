@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_symmetric_power_count_holds
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.symmetric_power_count_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:25:54.418324+00:00
 -- url     : https://prove2.me/theorems/eb43d2cf-0034-4416-8a18-17c86df7b17a

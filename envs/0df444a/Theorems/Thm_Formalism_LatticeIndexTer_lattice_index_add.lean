@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_lattice_index_add
 -- name    : Formalism.LatticeIndexTer.lattice_index_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:52:28.602826+00:00
 -- url     : https://prove2.me/theorems/8e635835-94b3-4c46-9bfb-bf07ce52bf48

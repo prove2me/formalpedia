@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_eOut_of_mem_image
 -- name    : Formalism.MainNotions.PlaneGram.eOut_of_mem_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:06:23.772839+00:00
 -- url     : https://prove2.me/theorems/4e9f8218-04d9-4c9f-8a70-e91906d034a4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_LatticeIndexDeterminant_idx_two_bases
 -- name    : Formalism.LatticeIndexTer.LatticeIndexDeterminant.idx_two_bases
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:25.39101+00:00
 -- url     : https://prove2.me/theorems/838d114e-c446-4d4e-82b2-2bd37cea3b98

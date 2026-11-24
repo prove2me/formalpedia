@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_tendsto_floor_mul_scale
 -- name    : GaussianPerimeter.tendsto_floor_mul_scale
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:13:09.556236+00:00
 -- url     : https://prove2.me/theorems/bd3b4edb-f83a-4e5c-9dbd-f5b0f5822df5

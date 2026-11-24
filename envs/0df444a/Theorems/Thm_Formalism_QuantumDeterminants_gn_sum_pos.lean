@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_gn_sum_pos
 -- name    : Formalism.QuantumDeterminants.gn_sum_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:19:13.529454+00:00
 -- url     : https://prove2.me/theorems/72841acc-584e-4792-b9fc-880e6b842c54

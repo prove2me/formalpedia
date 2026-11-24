@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_one_add_X_pow_eq
 -- name    : Formalism.MainNotions.PlaneGram.one_add_X_pow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:06:56.703255+00:00
 -- url     : https://prove2.me/theorems/3d300fe1-9de9-4065-9626-b9c54b2202dc

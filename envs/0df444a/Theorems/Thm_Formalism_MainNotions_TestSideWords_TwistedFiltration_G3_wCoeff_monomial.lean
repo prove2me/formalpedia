@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_TestSideWords_TwistedFiltration_G3_wCoeff_monomial
 -- name    : Formalism.MainNotions.TestSideWords.TwistedFiltration.G3.wCoeff_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:11:51.220817+00:00
 -- url     : https://prove2.me/theorems/203e0c7f-64e2-4361-a855-a0855aea3788

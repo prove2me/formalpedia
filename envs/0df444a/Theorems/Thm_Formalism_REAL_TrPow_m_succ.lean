@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_TrPow_m_succ
 -- name    : Formalism.REAL.TrPow_m_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:19:56.875796+00:00
 -- url     : https://prove2.me/theorems/c0f4d712-b8fe-425d-913e-e7bac415f034

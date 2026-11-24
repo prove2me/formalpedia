@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_LeviCoordinates_rrc_exists_vec
 -- name    : Formalism.MainNotions.LeviCoordinates.rrc_exists_vec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:23.285559+00:00
 -- url     : https://prove2.me/theorems/027fe512-18a2-47bb-b019-33ec4e1b49a4

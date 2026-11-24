@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_radialKernel_nonneg
 -- name    : GaussianPerimeter.radialKernel_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:44:49.806315+00:00
 -- url     : https://prove2.me/theorems/6ce6c6e3-65b3-44a1-b308-1da36a08b5b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_NMul_weight_blockWt
 -- name    : Formalism.NormUnitaryCountingLemmas.NMul.weight_blockWt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:17:50.473854+00:00
 -- url     : https://prove2.me/theorems/e6a67792-922c-4068-b816-157354c7060e

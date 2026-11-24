@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_cnt_tp_le
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.cnt_tp_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:03:48.464518+00:00
 -- url     : https://prove2.me/theorems/7731bdf9-adc1-4f8d-85a6-ff40029f21e6

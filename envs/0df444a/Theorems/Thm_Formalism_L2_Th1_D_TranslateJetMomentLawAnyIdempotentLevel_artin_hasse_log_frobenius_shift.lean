@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TranslateJetMomentLawAnyIdempotentLevel_artin_hasse_log_frobenius_shift
 -- name    : Formalism.L2.Th1.D.TranslateJetMomentLawAnyIdempotentLevel.artin_hasse_log_frobenius_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:35:43.442934+00:00
 -- url     : https://prove2.me/theorems/519d9f91-4bb1-418e-9f72-8b101c4e7908

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_card_linkIdx_mul_le
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.card_linkIdx_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:04:49.152612+00:00
 -- url     : https://prove2.me/theorems/28161802-fd77-47da-a937-8f913b193376

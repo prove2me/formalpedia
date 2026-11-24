@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_unitary_diag
 -- name    : Formalism.L2.Th1.H.unitary_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:18.898717+00:00
 -- url     : https://prove2.me/theorems/2602885e-0327-4747-8492-9df0eebfe80f

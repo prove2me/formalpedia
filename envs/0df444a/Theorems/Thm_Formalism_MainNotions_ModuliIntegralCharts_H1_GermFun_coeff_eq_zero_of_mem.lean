@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GermFun_coeff_eq_zero_of_mem
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GermFun.coeff_eq_zero_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:48:26.91285+00:00
 -- url     : https://prove2.me/theorems/9312c2fb-9cca-4b2f-a658-0a801b83fd55

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_S_Gauge_Cd_hilbert_schmidt_eq_re_trace
 -- name    : Formalism.MainNotions.S.Gauge.Cd.hilbert_schmidt_eq_re_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:10:44.22546+00:00
 -- url     : https://prove2.me/theorems/7902e3a5-9d70-4e25-9c65-281db63b2ff7

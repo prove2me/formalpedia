@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_flipOneThree_Pf_QuadraticBasis_pbE_mul
 -- name    : Formalism.MainNotions.flipOneThree.Pf.QuadraticBasis.pbE_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:12:17.127418+00:00
 -- url     : https://prove2.me/theorems/e9764cfd-b92f-4476-8c1c-58f921d12041

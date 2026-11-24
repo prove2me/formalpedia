@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrExp2_psTrunc_law_sub_mem
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrExp2.psTrunc_law_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:58:16.016261+00:00
 -- url     : https://prove2.me/theorems/10b114dd-5243-49ae-a401-c9736a39edba

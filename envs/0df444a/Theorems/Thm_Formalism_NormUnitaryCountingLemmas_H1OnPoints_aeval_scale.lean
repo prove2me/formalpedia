@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_H1OnPoints_aeval_scale
 -- name    : Formalism.NormUnitaryCountingLemmas.H1OnPoints.aeval_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:16:45.920714+00:00
 -- url     : https://prove2.me/theorems/5053dc71-8c42-41f9-9491-02726c08502f

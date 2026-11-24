@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_PairingDivisionLocalBalance_GeV_negOne
 -- name    : Formalism.PairingDivisionLocalBalance.GeV.negOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:18:20.443789+00:00
 -- url     : https://prove2.me/theorems/f26c1b64-cdab-4f4d-a6f1-67ce11420f83

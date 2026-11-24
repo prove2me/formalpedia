@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_le_toR_iff
 -- name    : Formalism.MainNotions.PlaneGram.le_toR_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:07:23.018456+00:00
 -- url     : https://prove2.me/theorems/bc067199-71d6-4d29-b8fa-52bf4dd0a135

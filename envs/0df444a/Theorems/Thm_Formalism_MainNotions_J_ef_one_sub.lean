@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_J_ef_one_sub
 -- name    : Formalism.MainNotions.J.ef_one_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:57:08.225924+00:00
 -- url     : https://prove2.me/theorems/0b2adadd-290b-454f-be16-db8503babc35

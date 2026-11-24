@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLemVN_iota_ne_zero
 -- name    : Formalism.MainNotions.BridgeLemVN.iota_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:56:11.920092+00:00
 -- url     : https://prove2.me/theorems/6712223f-f816-465a-a390-430d11078cac

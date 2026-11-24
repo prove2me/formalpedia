@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_operator_u_theta
 -- name    : Formalism.L2.Th1.F.operator_u_theta
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:06.484411+00:00
 -- url     : https://prove2.me/theorems/c2c7c9f9-8963-4c7b-b83c-e3f1e5a1685e

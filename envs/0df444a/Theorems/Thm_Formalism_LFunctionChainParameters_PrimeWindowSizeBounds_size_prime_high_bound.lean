@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_PrimeWindowSizeBounds_size_prime_high_bound
 -- name    : Formalism.LFunctionChainParameters.PrimeWindowSizeBounds.size_prime_high_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:35:58.425128+00:00
 -- url     : https://prove2.me/theorems/89a75b30-09e8-48c4-92d6-7157bea73611

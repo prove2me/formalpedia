@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_SingleLetterLog_owOK_two
 -- name    : Formalism.L2.Th1.D.SingleLetterLog.owOK_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:38:48.613735+00:00
 -- url     : https://prove2.me/theorems/69038095-5c9b-4162-a805-81613f7b0e8a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_CMConjugation_phi_alpha_ne_zero
 -- name    : Formalism.Q3.CMConjugation.phi_alpha_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:17:59.513248+00:00
 -- url     : https://prove2.me/theorems/6c9ddc81-9379-4155-aafc-7b902d93cdb1

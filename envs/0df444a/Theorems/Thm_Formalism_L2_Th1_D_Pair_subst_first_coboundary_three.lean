@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_Pair_subst_first_coboundary_three
 -- name    : Formalism.L2.Th1.D.Pair.subst_first_coboundary_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:23:04.700889+00:00
 -- url     : https://prove2.me/theorems/fcebd5d4-ba66-4e0a-a42c-fefe17e29618

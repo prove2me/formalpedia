@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_integrable_of_on
 -- name    : Formalism.QuantumDeterminants.integrable_of_on
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:20:02.174582+00:00
 -- url     : https://prove2.me/theorems/877e7051-99d5-4eb2-81f3-4c60ce201a43

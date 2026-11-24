@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_gn_quad_B
 -- name    : Formalism.QuantumDeterminants.gn_quad_B
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:18:58.539217+00:00
 -- url     : https://prove2.me/theorems/2f3c90cd-596c-4425-a133-1ac1301fc56b

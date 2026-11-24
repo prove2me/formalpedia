@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_DeficitSplitLemmas_tail_square_bound
 -- name    : Formalism.LFunctionChainParameters.DeficitSplitLemmas.tail_square_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:00:55.442722+00:00
 -- url     : https://prove2.me/theorems/1ca199f5-3f30-42f3-b7fa-c52068dca78a

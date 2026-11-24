@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_root_integral_alt
 -- name    : Formalism.L2.Th1.E.root_integral_alt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:41.309197+00:00
 -- url     : https://prove2.me/theorems/336bb52e-d029-438c-88aa-c80da61d94fe

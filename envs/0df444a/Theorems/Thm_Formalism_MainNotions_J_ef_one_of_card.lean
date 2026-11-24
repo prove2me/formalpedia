@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_J_ef_one_of_card
 -- name    : Formalism.MainNotions.J.ef_one_of_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:57:10.178787+00:00
 -- url     : https://prove2.me/theorems/1a6377af-e87b-4acd-89bd-8158569f1b25

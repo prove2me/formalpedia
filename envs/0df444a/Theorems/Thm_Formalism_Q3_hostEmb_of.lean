@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_hostEmb_of
 -- name    : Formalism.Q3.hostEmb_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:17:35.916414+00:00
 -- url     : https://prove2.me/theorems/a1a47192-b6f9-4c8d-85ee-6140f919e980

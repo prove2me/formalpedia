@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_PadicP_ltLog_subst_X_pow
 -- name    : Formalism.LT.PadicP.ltLog_subst_X_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:52:01.62132+00:00
 -- url     : https://prove2.me/theorems/bc7ae734-c11a-411a-bb1f-8d8b3616bb4f

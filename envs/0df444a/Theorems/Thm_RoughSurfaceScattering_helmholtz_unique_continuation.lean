@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoughSurfaceScattering_helmholtz_unique_continuation
 -- name    : RoughSurfaceScattering.helmholtz_unique_continuation
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-24T05:29:44.670003+00:00
 -- url     : https://prove2.me/theorems/50c425ec-f9b6-4c85-80f2-a130aa7d3fd4

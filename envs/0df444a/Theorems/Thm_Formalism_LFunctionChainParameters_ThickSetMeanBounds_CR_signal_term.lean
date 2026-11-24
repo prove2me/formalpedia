@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ThickSetMeanBounds_CR_signal_term
 -- name    : Formalism.LFunctionChainParameters.ThickSetMeanBounds.CR.signal_term
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:37:12.066227+00:00
 -- url     : https://prove2.me/theorems/4da6706c-e93c-4933-8b19-ad327c5fb5af

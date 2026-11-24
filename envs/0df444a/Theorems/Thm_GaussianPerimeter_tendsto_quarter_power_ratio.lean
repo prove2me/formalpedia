@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_tendsto_quarter_power_ratio
 -- name    : GaussianPerimeter.tendsto_quarter_power_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:40:27.287631+00:00
 -- url     : https://prove2.me/theorems/5afb7e8f-5f7d-42f9-b958-d1f95e7f1cb7

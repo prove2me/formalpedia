@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Clo_coeffContinuous_addDefect
 -- name    : Formalism.L2.Th1.C.Clo.coeffContinuous_addDefect
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:27.805418+00:00
 -- url     : https://prove2.me/theorems/b1d43762-e03d-41c2-a494-c11e0e99fb29

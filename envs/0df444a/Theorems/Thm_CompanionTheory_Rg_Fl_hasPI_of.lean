@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Rg_Fl_hasPI_of
 -- name    : CompanionTheory.Rg.Fl.hasPI_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:04:31.022673+00:00
 -- url     : https://prove2.me/theorems/8b1fc9cb-95c0-41f3-a28a-31303ff7be7a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_VolumeComparison_weighted_amgm
 -- name    : GaussianPerimeter.VolumeComparison.weighted_amgm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:17:42.772585+00:00
 -- url     : https://prove2.me/theorems/f05e0369-b7a5-4769-ae53-6743caaab735

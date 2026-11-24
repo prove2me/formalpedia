@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_supInfDuality_finiteExtremaAlgebra
 -- name    : Kyprianou.Ch03.supInfDuality_finiteExtremaAlgebra
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T11:02:17.07088+00:00
 -- url     : https://prove2.me/theorems/0157f637-85ca-4b54-bee0-ad13ba2eaae4

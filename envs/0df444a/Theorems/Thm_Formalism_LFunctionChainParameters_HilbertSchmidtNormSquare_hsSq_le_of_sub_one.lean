@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtNormSquare_hsSq_le_of_sub_one
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtNormSquare.hsSq_le_of_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:00:33.313284+00:00
 -- url     : https://prove2.me/theorems/f87d0b59-58ff-478d-85f8-98f4a084868c

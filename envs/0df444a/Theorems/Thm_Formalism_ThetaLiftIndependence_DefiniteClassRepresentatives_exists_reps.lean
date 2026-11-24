@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ThetaLiftIndependence_DefiniteClassRepresentatives_exists_reps
 -- name    : Formalism.ThetaLiftIndependence.DefiniteClassRepresentatives.exists_reps
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:13:38.25314+00:00
 -- url     : https://prove2.me/theorems/cd7fdfa2-7c36-4180-83a5-a805e0114a22

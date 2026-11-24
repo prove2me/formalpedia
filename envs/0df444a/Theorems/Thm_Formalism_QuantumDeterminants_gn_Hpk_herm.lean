@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_gn_Hpk_herm
 -- name    : Formalism.QuantumDeterminants.gn_Hpk_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:18:40.060825+00:00
 -- url     : https://prove2.me/theorems/f6d9b6bc-6df5-4653-b691-00318813a491

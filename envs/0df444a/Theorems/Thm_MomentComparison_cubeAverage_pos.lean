@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_cubeAverage_pos
 -- name    : MomentComparison.cubeAverage_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:40:21.001771+00:00
 -- url     : https://prove2.me/theorems/ea35b5c1-08f3-4422-93d8-50a121f30789

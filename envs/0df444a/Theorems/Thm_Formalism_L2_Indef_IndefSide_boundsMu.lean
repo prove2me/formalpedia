@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_IndefSide_boundsMu
 -- name    : Formalism.L2.Indef.IndefSide.boundsMu
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:18:45.212911+00:00
 -- url     : https://prove2.me/theorems/4b1402de-6f23-4222-b20a-2cee0c28536f

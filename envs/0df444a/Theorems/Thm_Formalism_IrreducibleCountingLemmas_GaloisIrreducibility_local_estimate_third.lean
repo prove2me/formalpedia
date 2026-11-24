@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_local_estimate_third
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.local_estimate_third
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:44:08.232276+00:00
 -- url     : https://prove2.me/theorems/4714bdd7-82ca-489a-8ed6-c048cd5c2c2d

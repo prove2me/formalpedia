@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_S2IsogenyPsi_eta_rel
 -- name    : Formalism.L2.Th1.F.S2IsogenyPsi.eta_rel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:55.378647+00:00
 -- url     : https://prove2.me/theorems/1054c38e-498f-4f0a-a573-e00b25b03cdd

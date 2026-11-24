@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_lintegral_le_liminf_of_eventually_le_tendsto
 -- name    : GaussianPerimeter.lintegral_le_liminf_of_eventually_le_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:13:48.886874+00:00
 -- url     : https://prove2.me/theorems/d22866ce-6f01-4a2d-8b28-90b0408da983

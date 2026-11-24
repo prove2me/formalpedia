@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_descent
 -- name    : Formalism.NG.descent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:15:27.932887+00:00
 -- url     : https://prove2.me/theorems/f566e415-0870-48e7-ae38-a90af4026722

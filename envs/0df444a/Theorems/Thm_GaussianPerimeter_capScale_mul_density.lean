@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_capScale_mul_density
 -- name    : GaussianPerimeter.capScale_mul_density
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:55:43.979171+00:00
 -- url     : https://prove2.me/theorems/7e47e472-78db-4219-945e-ea1293558559

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_notSegL_of_mem_TLset
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.notSegL_of_mem_TLset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:05:42.174509+00:00
 -- url     : https://prove2.me/theorems/81d33c56-a8df-460c-b29c-76314baf1c17

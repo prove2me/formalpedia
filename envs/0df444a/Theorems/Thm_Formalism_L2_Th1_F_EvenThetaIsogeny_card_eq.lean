@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_EvenThetaIsogeny_card_eq
 -- name    : Formalism.L2.Th1.F.EvenThetaIsogeny.card_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:54:06.128671+00:00
 -- url     : https://prove2.me/theorems/cc8725e0-214b-45da-b4eb-91ef54025de9

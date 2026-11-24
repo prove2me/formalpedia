@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_lemmaA2indep_of
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.lemmaA2indep_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:26.525922+00:00
 -- url     : https://prove2.me/theorems/e950dfd9-8867-4ff3-8d7b-c294e2cc8376

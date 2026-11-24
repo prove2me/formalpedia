@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_level_operator_integral
 -- name    : Formalism.L2.DIV.level_operator_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:45:55.126044+00:00
 -- url     : https://prove2.me/theorems/63769564-b01d-468c-a1d9-ff2d7426dd11

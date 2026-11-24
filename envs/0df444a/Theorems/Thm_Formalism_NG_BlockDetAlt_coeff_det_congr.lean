@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_BlockDetAlt_coeff_det_congr
 -- name    : Formalism.NG.BlockDetAlt.coeff_det_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:12:38.355773+00:00
 -- url     : https://prove2.me/theorems/da99cad5-5c48-4b81-b246-ef4015893b12

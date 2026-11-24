@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_lGSubgroup
 -- name    : Formalism.L2.Th1.C.lGSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:24:11.028915+00:00
 -- url     : https://prove2.me/theorems/d0f9bc6d-eeb4-443a-9714-43554618be40

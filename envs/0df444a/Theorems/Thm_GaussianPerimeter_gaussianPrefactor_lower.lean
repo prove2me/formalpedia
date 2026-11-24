@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_gaussianPrefactor_lower
 -- name    : GaussianPerimeter.gaussianPrefactor_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:05:36.074821+00:00
 -- url     : https://prove2.me/theorems/85c751fe-74bf-40db-87f9-5d6b434e0840

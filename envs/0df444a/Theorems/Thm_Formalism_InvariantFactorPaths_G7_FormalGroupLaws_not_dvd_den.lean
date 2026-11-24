@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_FormalGroupLaws_not_dvd_den
 -- name    : Formalism.InvariantFactorPaths.G7.FormalGroupLaws.not_dvd_den
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:27:55.154734+00:00
 -- url     : https://prove2.me/theorems/93b7d84e-0c1c-4884-ac85-5e2cdec79015

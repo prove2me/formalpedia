@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_FS_PLat_basis
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.FS.PLat.basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:57.204252+00:00
 -- url     : https://prove2.me/theorems/cbf5a672-84e9-4030-910b-6a321f3b88c9

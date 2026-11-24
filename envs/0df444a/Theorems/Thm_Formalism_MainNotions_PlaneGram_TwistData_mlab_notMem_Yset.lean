@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_mlab_notMem_Yset
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.mlab_notMem_Yset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:05:42.469032+00:00
 -- url     : https://prove2.me/theorems/f1c59966-4a28-42ce-ac7b-685f8d0922f4

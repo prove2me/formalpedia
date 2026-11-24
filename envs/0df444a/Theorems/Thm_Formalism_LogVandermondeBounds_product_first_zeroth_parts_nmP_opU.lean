@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_product_first_zeroth_parts_nmP_opU
 -- name    : Formalism.LogVandermondeBounds.product_first_zeroth_parts.nmP_opU
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:36.003811+00:00
 -- url     : https://prove2.me/theorems/13b2fec3-2aa9-47e0-aeac-c601f33aa2ee

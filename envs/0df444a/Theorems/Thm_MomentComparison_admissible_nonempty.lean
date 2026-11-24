@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_admissible_nonempty
 -- name    : MomentComparison.admissible_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:59:07.868804+00:00
 -- url     : https://prove2.me/theorems/aaa3d3bc-a9e6-4434-870d-d3be7b92d494

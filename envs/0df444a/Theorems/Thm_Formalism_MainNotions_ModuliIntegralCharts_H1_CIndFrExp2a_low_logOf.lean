@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrExp2a_low_logOf
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrExp2a.low_logOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:58:15.248575+00:00
 -- url     : https://prove2.me/theorems/851ed4a2-03f7-4ea7-a67b-4548552b8a02

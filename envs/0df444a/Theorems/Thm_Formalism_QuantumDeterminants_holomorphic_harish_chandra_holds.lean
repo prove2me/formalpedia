@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_holomorphic_harish_chandra_holds
 -- name    : Formalism.QuantumDeterminants.holomorphic_harish_chandra_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:19:53.404801+00:00
 -- url     : https://prove2.me/theorems/c8e100a1-577a-4f62-87c4-76e187e56c31

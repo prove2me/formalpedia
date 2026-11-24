@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_dslowk_split
 -- name    : Formalism.QuantumDeterminants.dslowk_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:18:39.51085+00:00
 -- url     : https://prove2.me/theorems/b9bbb8b7-d447-4d32-8113-d734ee43cee0

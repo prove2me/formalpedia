@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_PairEvaluation_aeval_sub_mem_pow
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.PairEvaluation.aeval_sub_mem_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:24:04.301582+00:00
 -- url     : https://prove2.me/theorems/604085d5-da5a-4730-8005-cdb577e1e624

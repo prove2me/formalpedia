@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_CasK_apply
 -- name    : Formalism.REAL.CasK_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:20:43.884162+00:00
 -- url     : https://prove2.me/theorems/d5fefbbc-64cf-44f5-a741-e91c82f3be41

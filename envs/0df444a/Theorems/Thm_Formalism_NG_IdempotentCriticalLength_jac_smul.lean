@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_IdempotentCriticalLength_jac_smul
 -- name    : Formalism.NG.IdempotentCriticalLength.jac_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:13:49.491347+00:00
 -- url     : https://prove2.me/theorems/e028093f-7c0a-4dc5-878e-2ea13c486db8

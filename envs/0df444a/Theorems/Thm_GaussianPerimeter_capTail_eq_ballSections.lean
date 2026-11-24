@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_capTail_eq_ballSections
 -- name    : GaussianPerimeter.capTail_eq_ballSections
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:32:20.381556+00:00
 -- url     : https://prove2.me/theorems/05bf46b8-a199-4e8c-92ee-28640161650f

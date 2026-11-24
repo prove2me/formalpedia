@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBrDiv_function_of_places
 -- name    : Formalism.LFunctionChainParameters.LBrDiv.function_of_places
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:59:30.177077+00:00
 -- url     : https://prove2.me/theorems/c3dbee8c-528b-4a6a-9cbb-c05a0eac2f09

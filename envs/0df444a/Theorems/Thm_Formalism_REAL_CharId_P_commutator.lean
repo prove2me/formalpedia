@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_CharId_P_commutator
 -- name    : Formalism.REAL.CharId_P_commutator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:20:26.735364+00:00
 -- url     : https://prove2.me/theorems/92bec5a6-08cc-42fc-a2e0-87efd5e4c7c1

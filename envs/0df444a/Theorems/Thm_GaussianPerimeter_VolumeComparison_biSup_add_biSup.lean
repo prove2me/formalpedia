@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_VolumeComparison_biSup_add_biSup
 -- name    : GaussianPerimeter.VolumeComparison.biSup_add_biSup
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:14:02.084304+00:00
 -- url     : https://prove2.me/theorems/a178d55e-aeed-443e-94ef-9853ce928f4e

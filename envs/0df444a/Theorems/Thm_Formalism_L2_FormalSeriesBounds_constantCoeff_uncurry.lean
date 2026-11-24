@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_constantCoeff_uncurry
 -- name    : Formalism.L2.FormalSeriesBounds.constantCoeff_uncurry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:07:02.735409+00:00
 -- url     : https://prove2.me/theorems/7280d0e1-6280-4a89-b169-c969946c57b3

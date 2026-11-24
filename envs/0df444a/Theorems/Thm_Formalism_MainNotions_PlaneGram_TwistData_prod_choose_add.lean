@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_prod_choose_add
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.prod_choose_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:05:34.219563+00:00
 -- url     : https://prove2.me/theorems/b3896b33-0a13-4787-aef5-406890b0354b

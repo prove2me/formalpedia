@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_adjoin_subtype_top
 -- name    : Formalism.Q3.adjoin_subtype_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:17:32.818961+00:00
 -- url     : https://prove2.me/theorems/4eed6c7a-fec4-4215-be9e-a74114020d1a

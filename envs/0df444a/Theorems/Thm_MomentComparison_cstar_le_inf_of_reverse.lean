@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_cstar_le_inf_of_reverse
 -- name    : MomentComparison.cstar_le_inf_of_reverse
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:03:54.26674+00:00
 -- url     : https://prove2.me/theorems/17831997-3ef8-4bf9-b497-ac22c625b262

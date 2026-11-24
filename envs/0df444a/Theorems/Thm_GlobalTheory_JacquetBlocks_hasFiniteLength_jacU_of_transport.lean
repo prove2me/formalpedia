@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JacquetBlocks_hasFiniteLength_jacU_of_transport
 -- name    : GlobalTheory.JacquetBlocks.hasFiniteLength_jacU_of_transport
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:50.983244+00:00
 -- url     : https://prove2.me/theorems/ed4ab455-ffdf-4d61-96b4-9074b75e844f

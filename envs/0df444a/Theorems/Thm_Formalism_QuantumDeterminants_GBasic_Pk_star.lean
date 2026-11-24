@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_GBasic_Pk_star
 -- name    : Formalism.QuantumDeterminants.GBasic.Pk_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:19:07.454382+00:00
 -- url     : https://prove2.me/theorems/8b7ff80f-66f1-4066-a706-2918815050ad

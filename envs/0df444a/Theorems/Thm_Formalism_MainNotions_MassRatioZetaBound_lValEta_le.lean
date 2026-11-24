@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_MassRatioZetaBound_lValEta_le
 -- name    : Formalism.MainNotions.MassRatioZetaBound.lValEta_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:17:20.032624+00:00
 -- url     : https://prove2.me/theorems/427a8cd9-6f0c-48be-8474-0e8e36214ff0

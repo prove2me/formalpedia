@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_v_natCast_nonneg_monomial_order_segments
 -- name    : Formalism.MainNotions.PlaneGram.v_natCast_nonneg_monomial_order_segments
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:07:56.074839+00:00
 -- url     : https://prove2.me/theorems/054bc4c4-8a24-44f5-af41-451ea770aadb

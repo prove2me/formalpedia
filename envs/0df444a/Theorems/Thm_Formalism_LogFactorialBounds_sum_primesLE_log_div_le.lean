@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogFactorialBounds_sum_primesLE_log_div_le
 -- name    : Formalism.LogFactorialBounds.sum_primesLE_log_div_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:28:15.656814+00:00
 -- url     : https://prove2.me/theorems/37d9a4f8-f82c-4457-a54a-24d6592764e3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_twoPoint_contract
 -- name    : MomentComparison.twoPoint_contract
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:52:42.042162+00:00
 -- url     : https://prove2.me/theorems/bb8c369a-35e6-4859-a5a4-8891335d0882

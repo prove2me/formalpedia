@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qn_nu_anti
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qn_nu_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:53:48.849907+00:00
 -- url     : https://prove2.me/theorems/9d8f1c3c-fce9-48af-a69b-c640bc809516

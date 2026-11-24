@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_minor_eq_of_mul
 -- name    : Formalism.QuantumDeterminants.minor_eq_of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:19:55.24079+00:00
 -- url     : https://prove2.me/theorems/512dd16c-1258-46e6-b181-8ef1d4bbf41f

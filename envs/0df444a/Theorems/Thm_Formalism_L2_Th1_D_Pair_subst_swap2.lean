@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_Pair_subst_swap2
 -- name    : Formalism.L2.Th1.D.Pair.subst_swap2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:23:57.839261+00:00
 -- url     : https://prove2.me/theorems/69f810a1-1781-4d81-b835-93b15f6628d5

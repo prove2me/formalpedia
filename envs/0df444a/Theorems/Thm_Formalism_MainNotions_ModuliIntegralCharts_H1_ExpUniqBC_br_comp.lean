@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpUniqBC_br_comp
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpUniqBC.br_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:01:19.656191+00:00
 -- url     : https://prove2.me/theorems/aae349b4-0100-4d6e-b735-6cad38e630e0

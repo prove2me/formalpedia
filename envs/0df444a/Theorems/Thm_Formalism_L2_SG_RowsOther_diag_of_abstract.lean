@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_RowsOther_diag_of_abstract
 -- name    : Formalism.L2.SG.RowsOther.diag_of_abstract
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:57:32.126069+00:00
 -- url     : https://prove2.me/theorems/040294a4-4d38-40dd-b777-92ca478c2e6d

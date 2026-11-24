@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_sum_ite_le
 -- name    : Formalism.NG.sum_ite_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:17:52.037006+00:00
 -- url     : https://prove2.me/theorems/2911efa5-a50f-4aa6-8982-d452596f4287

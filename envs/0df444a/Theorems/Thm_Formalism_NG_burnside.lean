@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_burnside
 -- name    : Formalism.NG.burnside
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:16:08.699954+00:00
 -- url     : https://prove2.me/theorems/00b717d8-2480-4be3-aed2-45fe9bc9053c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_LeviCoordinates_pj_dens_upper
 -- name    : Formalism.MainNotions.LeviCoordinates.pj_dens_upper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:56:58.541819+00:00
 -- url     : https://prove2.me/theorems/b75563c7-0ce0-4fb3-b88a-51c527585205

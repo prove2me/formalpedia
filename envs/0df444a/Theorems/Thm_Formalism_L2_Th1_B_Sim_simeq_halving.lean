@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Sim_simeq_halving
 -- name    : Formalism.L2.Th1.B.Sim.simeq_halving
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:12:38.446864+00:00
 -- url     : https://prove2.me/theorems/2ac39a4b-6395-4ad2-b21a-f0e4cc9b515e

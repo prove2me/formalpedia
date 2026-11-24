@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_NMul_comb
 -- name    : Formalism.NormUnitaryCountingLemmas.NMul.comb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:09:33.629051+00:00
 -- url     : https://prove2.me/theorems/a081678b-b781-49ac-8b87-d5693a4df063

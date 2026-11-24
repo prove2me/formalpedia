@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_mqk_insert
 -- name    : Formalism.Q3.mqk_insert
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:18:35.185928+00:00
 -- url     : https://prove2.me/theorems/591c1c2d-045a-40f3-9bda-3783d52419e9

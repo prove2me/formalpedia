@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LLcv_indexLocLen_finsupp
 -- name    : Formalism.LFunctionChainParameters.LLcv.indexLocLen_finsupp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:31:13.972101+00:00
 -- url     : https://prove2.me/theorems/b8d5d5bf-b842-49f6-b34d-fcd4d4497628

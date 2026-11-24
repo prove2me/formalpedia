@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_absE_eq_sum
 -- name    : Formalism.MainNotions.PlaneGram.absE_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:05:48.805058+00:00
 -- url     : https://prove2.me/theorems/2cb8cea2-e6bb-4849-b08a-6eae57327e0e

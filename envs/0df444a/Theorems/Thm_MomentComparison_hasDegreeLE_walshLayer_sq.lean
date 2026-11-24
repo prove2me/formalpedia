@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_hasDegreeLE_walshLayer_sq
 -- name    : MomentComparison.hasDegreeLE_walshLayer_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:36:38.048274+00:00
 -- url     : https://prove2.me/theorems/a2ad27ef-1e73-4b83-a377-763e3cc3a8a5

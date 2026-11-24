@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ThickSetMeanBounds_CR_balTop_diff
 -- name    : Formalism.LFunctionChainParameters.ThickSetMeanBounds.CR.balTop_diff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:37:14.531928+00:00
 -- url     : https://prove2.me/theorems/f14be2d8-f1d9-44fb-ba89-5d5306d70839

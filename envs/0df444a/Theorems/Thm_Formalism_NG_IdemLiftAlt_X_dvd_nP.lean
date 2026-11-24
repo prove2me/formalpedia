@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_IdemLiftAlt_X_dvd_nP
 -- name    : Formalism.NG.IdemLiftAlt.X_dvd_nP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:12:19.442545+00:00
 -- url     : https://prove2.me/theorems/3f4cb1ac-c6b3-4174-84b9-45c045f337d4

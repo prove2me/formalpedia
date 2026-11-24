@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_lagrangian_ideal_integral_holds
 -- name    : Formalism.LIFT.lagrangian_ideal_integral_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:50:18.736126+00:00
 -- url     : https://prove2.me/theorems/e4af6907-9302-4638-a195-939842e2dff6

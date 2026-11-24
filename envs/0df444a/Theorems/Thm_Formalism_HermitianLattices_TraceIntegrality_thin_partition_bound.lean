@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_thin_partition_bound
 -- name    : Formalism.HermitianLattices.TraceIntegrality.thin_partition_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:02.184425+00:00
 -- url     : https://prove2.me/theorems/16be4803-95e0-436c-a585-212542c6f4c9

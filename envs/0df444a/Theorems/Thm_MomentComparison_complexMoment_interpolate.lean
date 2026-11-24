@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_complexMoment_interpolate
 -- name    : MomentComparison.complexMoment_interpolate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:46:46.809624+00:00
 -- url     : https://prove2.me/theorems/11a474bc-bf37-4d7d-b6b1-49939ec239db

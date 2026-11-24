@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_IdemLiftAlt_mul_mem_left
 -- name    : Formalism.NG.IdemLiftAlt.mul_mem_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:12:29.819603+00:00
 -- url     : https://prove2.me/theorems/8e5767d6-617a-42a0-b3ed-dac121cf017e

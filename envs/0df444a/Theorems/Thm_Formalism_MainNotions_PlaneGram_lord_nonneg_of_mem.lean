@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_lord_nonneg_of_mem
 -- name    : Formalism.MainNotions.PlaneGram.lord_nonneg_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:07:23.978182+00:00
 -- url     : https://prove2.me/theorems/0eed742e-2bc7-46e7-8d79-7f18b7338fd0

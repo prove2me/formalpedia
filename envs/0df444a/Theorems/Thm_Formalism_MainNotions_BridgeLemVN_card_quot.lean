@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLemVN_card_quot
 -- name    : Formalism.MainNotions.BridgeLemVN.card_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:55:30.625667+00:00
 -- url     : https://prove2.me/theorems/69c6b646-66b3-467d-8f16-a9be7327d16b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_WirtingerDerivatives_star_fun_eq
 -- name    : Formalism.QuantumDeterminants.WirtingerDerivatives.star_fun_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:18:40.438847+00:00
 -- url     : https://prove2.me/theorems/e2704253-c26a-4d06-9f20-93ce6de53b91

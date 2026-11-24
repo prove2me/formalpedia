@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_group_factorization_holds
 -- name    : Formalism.QuantumDeterminants.group_factorization_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:20:23.387485+00:00
 -- url     : https://prove2.me/theorems/a2f4e1e1-46b9-4790-a998-dc4071f691d7

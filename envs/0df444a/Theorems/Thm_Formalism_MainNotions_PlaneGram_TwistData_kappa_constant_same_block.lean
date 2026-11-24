@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_kappa_constant_same_block
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.kappa_constant_same_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:05:09.670741+00:00
 -- url     : https://prove2.me/theorems/91fb5d58-9fda-4aab-a344-c349113b0a02

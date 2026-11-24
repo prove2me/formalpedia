@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_SingleLetterLog_linOL_two
 -- name    : Formalism.L2.Th1.D.SingleLetterLog.linOL_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:38:37.048968+00:00
 -- url     : https://prove2.me/theorems/16706cd2-3ab6-4dcf-bb19-2d6d06bcd18c

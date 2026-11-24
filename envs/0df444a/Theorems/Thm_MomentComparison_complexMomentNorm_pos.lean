@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_complexMomentNorm_pos
 -- name    : MomentComparison.complexMomentNorm_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:43:36.314981+00:00
 -- url     : https://prove2.me/theorems/cd38fde9-6d62-41a9-bacc-bc79de244651

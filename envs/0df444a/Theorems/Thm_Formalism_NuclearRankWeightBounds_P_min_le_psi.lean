@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NuclearRankWeightBounds_P_min_le_psi
 -- name    : Formalism.NuclearRankWeightBounds.P.min_le_psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:17:25.480173+00:00
 -- url     : https://prove2.me/theorems/c0eabf1a-f85e-4eb7-b54f-790d7307e36a

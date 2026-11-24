@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Inhab_levAll_trans
 -- name    : Formalism.MainNotions.Inhab.levAll_trans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:56:25.535081+00:00
 -- url     : https://prove2.me/theorems/9afd1efc-5cba-4866-b68e-22c8b780821c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_Pmin_mem
 -- name    : Formalism.L2.Pj.Crude.Pmin_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:16.167812+00:00
 -- url     : https://prove2.me/theorems/bd127d4d-cfa1-4d0e-a5e1-07e2c80fb087

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_EGauss_minorAt_one
 -- name    : Formalism.InvariantFactorPaths.G7.EGauss.minorAt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:54:58.995466+00:00
 -- url     : https://prove2.me/theorems/344ae3da-ea90-4b12-b627-06110baf1ccb

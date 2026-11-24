@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_product_first_zeroth_parts_finrankFiberSumZero
 -- name    : Formalism.LogVandermondeBounds.product_first_zeroth_parts.finrankFiberSumZero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:39:51.567799+00:00
 -- url     : https://prove2.me/theorems/b61ebad1-59f4-44af-bc5e-e38cd0af194e

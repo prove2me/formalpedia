@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_CMRootsOfUnity_not_sq_d
 -- name    : Formalism.Q3.CMRootsOfUnity.not_sq_d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:17:18.951943+00:00
 -- url     : https://prove2.me/theorems/1aca0b9d-6ef8-4f0e-b6e3-73df2ceb2ab2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_flipOneThree_Pf_QuadraticBasis_existsCompatibleRoots_holds
 -- name    : Formalism.MainNotions.flipOneThree.Pf.QuadraticBasis.existsCompatibleRoots_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:12:13.967555+00:00
 -- url     : https://prove2.me/theorems/461f0466-8c5f-4e34-9d57-aa9e7439e0fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_KAV_coeff_foldr
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.KAV.coeff_foldr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:02:14.372136+00:00
 -- url     : https://prove2.me/theorems/055e6421-da8d-4e1a-b9b3-fbdf081ffd47

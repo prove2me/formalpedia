@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_J_int_subst_dg
 -- name    : Formalism.MainNotions.J.int_subst_dg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:07.661073+00:00
 -- url     : https://prove2.me/theorems/913cd32c-d2a6-4673-9bea-849345766b7b

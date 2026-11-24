@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_substS_monomial_of_free
 -- name    : Formalism.MainNotions.PlaneGram.substS_monomial_of_free
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:07:47.097976+00:00
 -- url     : https://prove2.me/theorems/b2c93a06-b112-4583-b564-69a121e32345

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_lowerBound_trapezoidal_error
 -- name    : GaussianPerimeter.lowerBound_trapezoidal_error
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:05:29.680983+00:00
 -- url     : https://prove2.me/theorems/ec49a1ae-e7ee-479d-9a90-e8a572419431

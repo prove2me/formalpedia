@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_hostFrob_val
 -- name    : Formalism.Q3.hostFrob_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:17:47.680124+00:00
 -- url     : https://prove2.me/theorems/872013de-3a15-417c-aabf-352260f0944a

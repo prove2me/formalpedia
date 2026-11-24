@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TranslateJetMomentLawAnyIdempotentLevel_parity_sub_two_mul
 -- name    : Formalism.L2.Th1.D.TranslateJetMomentLawAnyIdempotentLevel.parity_sub_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:36:10.071384+00:00
 -- url     : https://prove2.me/theorems/3aa535ce-4c94-4a11-8f27-ff98b7348536

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for RoughSurfaceScattering.harmonic_analytic_R3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @もち
 -- created : 2026-11-24T06:04:26.213935+00:00
 -- url     : https://prove2.me/submissions/c22fb874-326d-4773-b2cc-a941a56be4e4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_RoughSurfaceScattering_Basic

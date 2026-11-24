@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_flipOneThree_Pf_pb_abs
 -- name    : Formalism.MainNotions.flipOneThree.Pf.pb_abs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:12:31.964082+00:00
 -- url     : https://prove2.me/theorems/175deca9-706a-4aa4-a4fc-d8fefe6d37a0

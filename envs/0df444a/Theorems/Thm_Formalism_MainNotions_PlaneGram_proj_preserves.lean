@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_proj_preserves
 -- name    : Formalism.MainNotions.PlaneGram.proj_preserves
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:07:19.689196+00:00
 -- url     : https://prove2.me/theorems/ab81699f-ce44-4628-802f-e6a957d7ed5f

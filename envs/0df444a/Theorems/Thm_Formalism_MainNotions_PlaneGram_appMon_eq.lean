@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_appMon_eq
 -- name    : Formalism.MainNotions.PlaneGram.appMon_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:05:43.573181+00:00
 -- url     : https://prove2.me/theorems/bbee001b-eea3-4eee-a229-58803a19d13e

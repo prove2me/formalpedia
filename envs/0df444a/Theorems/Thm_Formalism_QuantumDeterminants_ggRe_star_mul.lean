@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_ggRe_star_mul
 -- name    : Formalism.QuantumDeterminants.ggRe_star_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:18:37.433236+00:00
 -- url     : https://prove2.me/theorems/ad284f43-a264-40b5-9a2a-cad7f303b0aa

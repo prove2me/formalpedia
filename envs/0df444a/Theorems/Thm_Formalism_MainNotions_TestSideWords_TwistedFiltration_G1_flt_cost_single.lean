@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_TestSideWords_TwistedFiltration_G1_flt_cost_single
 -- name    : Formalism.MainNotions.TestSideWords.TwistedFiltration.G1.flt_cost_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:11:34.37029+00:00
 -- url     : https://prove2.me/theorems/0b996b84-4631-45bd-a49d-3bf50ee3a26e

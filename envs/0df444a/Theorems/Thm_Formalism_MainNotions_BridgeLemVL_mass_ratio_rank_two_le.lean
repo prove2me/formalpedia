@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLemVL_mass_ratio_rank_two_le
 -- name    : Formalism.MainNotions.BridgeLemVL.mass_ratio_rank_two_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:17:00.323331+00:00
 -- url     : https://prove2.me/theorems/8c41a83d-cfd7-4ffa-aba6-933b2f99d221

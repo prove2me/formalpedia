@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_fact_eq_kapC
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.fact_eq_kapC
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:43:56.741797+00:00
 -- url     : https://prove2.me/theorems/1f00d7a8-0e4a-4bac-9f05-53d98dc4d70e

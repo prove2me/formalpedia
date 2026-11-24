@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_Inhab_one_mem_H0_weight_zero
 -- name    : Formalism.MainNotions.G.Inhab.one_mem_H0_weight_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:41:24.34382+00:00
 -- url     : https://prove2.me/theorems/bbb8098b-0886-4072-9f24-7fa0bc3da85b

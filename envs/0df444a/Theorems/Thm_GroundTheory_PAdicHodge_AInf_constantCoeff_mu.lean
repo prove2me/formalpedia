@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_constantCoeff_mu
 -- name    : GroundTheory.PAdicHodge.AInf.constantCoeff_mu
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:52:41.199136+00:00
 -- url     : https://prove2.me/theorems/cbbf8edb-7bcc-4729-95e7-08848c1651ca

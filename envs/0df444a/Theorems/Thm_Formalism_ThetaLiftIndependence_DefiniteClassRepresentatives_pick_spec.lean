@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ThetaLiftIndependence_DefiniteClassRepresentatives_pick_spec
 -- name    : Formalism.ThetaLiftIndependence.DefiniteClassRepresentatives.pick_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:29:22.422811+00:00
 -- url     : https://prove2.me/theorems/fae3df3a-4d6b-45c7-9f37-19132344cdcd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_v_intCast_nonneg
 -- name    : Formalism.MainNotions.PlaneGram.v_intCast_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:07:56.332345+00:00
 -- url     : https://prove2.me/theorems/6d01e94a-5564-4b38-95e8-7ba75f17bba3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NuclearRankWeightBounds_P_two_coeff_two_det
 -- name    : Formalism.NuclearRankWeightBounds.P.two_coeff_two_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:17:50.429836+00:00
 -- url     : https://prove2.me/theorems/8b7cc908-b6ce-46ae-a8a5-aaae12ea1867

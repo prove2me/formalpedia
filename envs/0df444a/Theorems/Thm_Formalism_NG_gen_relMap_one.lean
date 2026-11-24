@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_gen_relMap_one
 -- name    : Formalism.NG.gen_relMap_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:15:50.279643+00:00
 -- url     : https://prove2.me/theorems/380e5c73-ed31-4b69-a479-9020271f374d

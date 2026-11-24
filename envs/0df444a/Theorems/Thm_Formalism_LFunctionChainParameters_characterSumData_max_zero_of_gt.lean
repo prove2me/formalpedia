@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_characterSumData_max_zero_of_gt
 -- name    : Formalism.LFunctionChainParameters.characterSumData.max_zero_of_gt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:49:24.795897+00:00
 -- url     : https://prove2.me/theorems/afa53b78-bd7e-466b-ae11-44bcf7006f4c

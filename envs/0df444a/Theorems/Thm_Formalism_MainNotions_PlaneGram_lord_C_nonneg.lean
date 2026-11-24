@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_lord_C_nonneg
 -- name    : Formalism.MainNotions.PlaneGram.lord_C_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:07:25.283283+00:00
 -- url     : https://prove2.me/theorems/b0e0943e-888e-424d-aeff-d7a5d1ebc865

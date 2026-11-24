@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_lenCoker_of_det_ne_zero
 -- name    : Formalism.NG.lenCoker_of_det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:16:57.579843+00:00
 -- url     : https://prove2.me/theorems/09899df5-83b1-4e37-bd33-0e81f800c0e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_phE_splitE
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.phE_splitE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:05:52.545072+00:00
 -- url     : https://prove2.me/theorems/df738f56-71bf-4550-a1bb-75eeed8cb699

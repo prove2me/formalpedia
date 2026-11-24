@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_sub_eOut
 -- name    : Formalism.MainNotions.PlaneGram.sub_eOut
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:08:00.461701+00:00
 -- url     : https://prove2.me/theorems/71b3bc5a-1649-4667-a096-82c9de22e0ce

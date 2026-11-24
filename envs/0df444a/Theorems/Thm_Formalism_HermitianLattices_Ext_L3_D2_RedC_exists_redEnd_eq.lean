@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_RedC_exists_redEnd_eq
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.RedC.exists_redEnd_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:46:26.932596+00:00
 -- url     : https://prove2.me/theorems/1984cb72-da45-41a5-af59-cc56c5ec1f67

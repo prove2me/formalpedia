@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrExp2_bil_ext
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrExp2.bil_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:58:08.398803+00:00
 -- url     : https://prove2.me/theorems/9bff3173-09be-4caf-a427-a98eb68bd585

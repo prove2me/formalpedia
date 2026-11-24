@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_H1OnPoints_natDegree_aeval_le
 -- name    : Formalism.NormUnitaryCountingLemmas.H1OnPoints.natDegree_aeval_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:16:30.940555+00:00
 -- url     : https://prove2.me/theorems/288d8286-f83e-4019-8e6d-964bb472f315

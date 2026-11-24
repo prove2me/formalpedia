@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_gen_key
 -- name    : Formalism.NG.gen_key
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:55:36.650876+00:00
 -- url     : https://prove2.me/theorems/1a824f80-5b65-40a2-8127-1ea1cecec2bc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_fontaineTheta_frobenius_pow_mul_mu
 -- name    : GroundTheory.PAdicHodge.AInf.fontaineTheta_frobenius_pow_mul_mu
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:01:53.535591+00:00
 -- url     : https://prove2.me/theorems/d6a01169-e128-4dd6-9eb6-f18d15136075

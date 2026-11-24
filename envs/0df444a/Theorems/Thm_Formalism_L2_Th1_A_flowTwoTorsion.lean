@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_flowTwoTorsion
 -- name    : Formalism.L2.Th1.A.flowTwoTorsion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:19:44.325092+00:00
 -- url     : https://prove2.me/theorems/74bbb13c-5714-45d3-8441-2ac9d495fff6

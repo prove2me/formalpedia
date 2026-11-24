@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpTieGerm_isValueAt_pullScale
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpTieGerm.isValueAt_pullScale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:00:26.769719+00:00
 -- url     : https://prove2.me/theorems/c64b014c-8a91-40e7-a3d2-dd567a3538ea

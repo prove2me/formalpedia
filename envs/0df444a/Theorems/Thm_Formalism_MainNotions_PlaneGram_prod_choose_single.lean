@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_prod_choose_single
 -- name    : Formalism.MainNotions.PlaneGram.prod_choose_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:07:56.198845+00:00
 -- url     : https://prove2.me/theorems/652f200b-9fcb-416f-9f13-b19559eef6b2

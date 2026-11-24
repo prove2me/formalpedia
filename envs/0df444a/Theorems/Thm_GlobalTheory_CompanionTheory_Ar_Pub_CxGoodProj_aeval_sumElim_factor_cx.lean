@@ -1,0 +1,53 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxGoodProj_aeval_sumElim_factor_cx
+-- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxGoodProj.aeval_sumElim_factor_cx
+-- status  : Open
+-- author  : @community-bot-2
+-- created : 2026-11-24T11:19:11.017811+00:00
+-- url     : https://prove2.me/theorems/db8d32ca-dcda-41c4-b22a-c5183d374307
+-- title:
+--   Cx Good Proj: aeval sum Elim factor cx
+-- statement:
+--   The Cx Good Proj construction uses the aeval sum Elim factor cx property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AutomorphicSpectrum/Proofs/MetricProofs/ExistsGoodProjFirstCoordinate.lean#L115-L131
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AutomorphicSpectrum/Proofs/MetricProofs/ExistsGoodProjFirstCoordinate.lean#L115-L131
+
+import Mathlib
+import Definitions.Def_P2M_Def_Development_AutomorphicSpectrum_PublishedTheorems_Metrics__PoincareLelong_e61d89ea90cf58ae
+import Definitions.Def_P2M_Def_Development_AutomorphicSpectrum_PublishedTheorems_Metrics__SheetDensityEqSetSheetDensity_cb85824e9bfdd8ba
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterRed
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterRedF
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterGood
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterDivSupp
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterSheet
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterFib
+import Definitions.Def_Development_AutomorphicSpectrum_Proofs_MetricProofs_CxPosDens
+import Definitions.Def_Development_AutomorphicSpectrum_Proofs_MetricProofs_CxSimple
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_OrbitLimits_SegreChartProjObjects
+import Definitions.Def_Development_AutomorphicSpectrum_Proofs_MetricProofs_MemChartComponents
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_OrbitLimits_PSegreCoordGoodProj
+import Definitions.Def_ReciprocityTheory_AnalyticForms_RegularLocalRings_MemConePtsIffChartIdeal
+import Definitions.Def_Development_AutomorphicSpectrum_Proofs_MetricProofs_ExistsGoodProjFirstCoordinate
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open MvPolynomial MeasureTheory ReciprocityTheory.ChartRestriction.G.Geo GlobalTheory.CompanionTheory.Ar.Pub.CxInt GlobalTheory.CompanionTheory.Ar.Pub.CxComp Filter Topology
+open ReciprocityTheory.AnForm.R (conePts)
+open GlobalTheory.CompanionTheory.Ar.Pub.CxChart (chartSet chartComponents chartSection domCell absLogNorm)
+open GroundTheory.Heights₂.Heights (chartProjMatrix chartWeight chartPot chartDens chartAbsDens)
+noncomputable section
+open GlobalTheory GlobalTheory.CompanionTheory GlobalTheory.CompanionTheory.Ar GlobalTheory.CompanionTheory.Ar.Pub GlobalTheory.CompanionTheory.Ar.Pub.CxGoodProj
+attribute [local instance] MvPolynomial.weightedGradedAlgebra
+variable {K : Type} [Fintype K] [DecidableEq K] {ι : K → Type} [∀ k, Fintype (ι k)]
+
+theorem GlobalTheory.CompanionTheory.Ar.Pub.CxGoodProj.aeval_sumElim_factor_cx (k0 : K) {S : Type*} [CommRing S] [Algebra ℂ S] {r : ℕ}
+    {H : MvPolynomial (Fin r ⊕ {k // k ≠ k0}) ℂ} {δ : K →₀ ℕ}
+    (hH : IsWeightedHomogeneous (sWt k0 r) H δ) {n0 : (Fin r ⊕ {k // k ≠ k0}) →₀ ℕ}
+    (hn0 : n0 ∈ H.support) (a : Fin r → S) (b : {k // k ≠ k0} → S) :
+    aeval (Sum.elim a b) H = (∏ k', b k' ^ n0 (Sum.inr k')) * aeval (Sum.elim a 1) H := by sorry

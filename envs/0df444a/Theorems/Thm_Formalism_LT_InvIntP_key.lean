@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_InvIntP_key
 -- name    : Formalism.LT.InvIntP.key
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:24:39.630874+00:00
 -- url     : https://prove2.me/theorems/86182c87-031e-44c4-adf7-6d55e3d73542

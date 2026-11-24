@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_BlockDetAlt_phiMat_eval
 -- name    : Formalism.NG.BlockDetAlt.phiMat_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:12:04.803593+00:00
 -- url     : https://prove2.me/theorems/399dfc69-5029-48d8-949f-d1c24013d898

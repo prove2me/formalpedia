@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_vccSpan
 -- name    : Formalism.NG.vccSpan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:16:45.570299+00:00
 -- url     : https://prove2.me/theorems/b214e865-eff5-4b3b-8a8a-a4ac511c7cc7

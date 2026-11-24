@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_complexNoise_contract_of_twoPoint
 -- name    : MomentComparison.complexNoise_contract_of_twoPoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:54:17.731501+00:00
 -- url     : https://prove2.me/theorems/60fa14b2-e9aa-497c-bd4f-3fa42d8baf50

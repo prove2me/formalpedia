@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_CoefficientBoundLemmas_key
 -- name    : Formalism.NormUnitaryCountingLemmas.CoefficientBoundLemmas.key
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:46:49.024146+00:00
 -- url     : https://prove2.me/theorems/ac0969ca-29af-4557-99fb-67bb7b9c66ba

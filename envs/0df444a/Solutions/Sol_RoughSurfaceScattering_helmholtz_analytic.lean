@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for RoughSurfaceScattering.helmholtz_analytic
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @もち
 -- created : 2026-11-24T05:48:56.715101+00:00
 -- url     : https://prove2.me/submissions/6986cf26-ada0-4e35-9fa9-874577b3eeaa
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_RoughSurfaceScattering_Basic

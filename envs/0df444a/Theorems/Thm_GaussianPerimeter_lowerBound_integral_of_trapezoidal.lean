@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_lowerBound_integral_of_trapezoidal
 -- name    : GaussianPerimeter.lowerBound_integral_of_trapezoidal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:05:35.202805+00:00
 -- url     : https://prove2.me/theorems/264940eb-65e7-4ac0-b691-7ab8274d7e62

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_capRho_sq
 -- name    : GaussianPerimeter.capRho_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:33:57.738317+00:00
 -- url     : https://prove2.me/theorems/21dba0c5-f6b9-4520-aa3d-f856ab0d0078

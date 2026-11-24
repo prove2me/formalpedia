@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_Pair_exp_log
 -- name    : Formalism.L2.Th1.D.Pair.exp_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:23:23.721212+00:00
 -- url     : https://prove2.me/theorems/2bddbafa-cebf-46af-b1c2-6384886d4428

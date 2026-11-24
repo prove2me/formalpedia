@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_complexNoise_contract
 -- name    : MomentComparison.complexNoise_contract
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:58:38.790523+00:00
 -- url     : https://prove2.me/theorems/6fa36995-24ee-4091-856e-4943dc1635a7

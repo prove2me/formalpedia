@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Jets_invariant_derivation_subst_law_pair
 -- name    : Formalism.L2.Th1.B.Jets.invariant_derivation_subst_law_pair
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:26:43.2678+00:00
 -- url     : https://prove2.me/theorems/4e164396-a797-4ec8-bb93-e1250df97cdd

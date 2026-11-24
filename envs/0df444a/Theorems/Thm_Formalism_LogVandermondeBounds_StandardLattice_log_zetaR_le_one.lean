@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_StandardLattice_log_zetaR_le_one
 -- name    : Formalism.LogVandermondeBounds.StandardLattice.log_zetaR_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:58:14.642473+00:00
 -- url     : https://prove2.me/theorems/f9d48c7e-6a01-4054-b558-4e4cc5bf39f3

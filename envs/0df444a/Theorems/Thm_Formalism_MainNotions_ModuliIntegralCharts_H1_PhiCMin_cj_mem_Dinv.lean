@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_PhiCMin_cj_mem_Dinv
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.PhiCMin.cj_mem_Dinv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:02:36.442861+00:00
 -- url     : https://prove2.me/theorems/661b258c-5a0c-40c5-a13e-a6b1bf6bf88f

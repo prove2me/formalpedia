@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_J_gmap_cj
 -- name    : Formalism.MainNotions.J.gmap_cj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:03:08.664738+00:00
 -- url     : https://prove2.me/theorems/6e216698-73c1-4bbb-8497-2b4cb37a115b

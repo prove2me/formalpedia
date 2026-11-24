@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_cnt_mb
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.cnt_mb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:04:18.165264+00:00
 -- url     : https://prove2.me/theorems/ae77f9e9-809e-4baa-b400-3e8016cae18d

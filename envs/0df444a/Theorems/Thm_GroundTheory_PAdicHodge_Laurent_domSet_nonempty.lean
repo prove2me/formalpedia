@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_Laurent_domSet_nonempty
 -- name    : GroundTheory.PAdicHodge.Laurent.domSet_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:35:46.973056+00:00
 -- url     : https://prove2.me/theorems/8c28782c-69e0-4034-98ee-a05e84fd4ba5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_QuotientPowerLengths_mem_cc
 -- name    : Formalism.NG.QuotientPowerLengths.mem_cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:14:44.281653+00:00
 -- url     : https://prove2.me/theorems/611daf55-b8c2-46f7-b6ae-5fc710d3f0a7

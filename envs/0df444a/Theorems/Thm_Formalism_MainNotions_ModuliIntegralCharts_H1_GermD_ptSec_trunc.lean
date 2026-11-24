@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GermD_ptSec_trunc
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GermD.ptSec_trunc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:02:05.6439+00:00
 -- url     : https://prove2.me/theorems/9cc18873-652c-4768-b450-abc93438ef3f

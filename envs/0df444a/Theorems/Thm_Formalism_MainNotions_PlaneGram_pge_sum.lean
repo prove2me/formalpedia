@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_pge_sum
 -- name    : Formalism.MainNotions.PlaneGram.pge_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:07:51.318973+00:00
 -- url     : https://prove2.me/theorems/0f0fc29d-74b6-4d24-873a-d3c98bd25dde

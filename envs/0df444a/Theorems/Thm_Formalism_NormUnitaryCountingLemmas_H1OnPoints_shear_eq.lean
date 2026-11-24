@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_H1OnPoints_shear_eq
 -- name    : Formalism.NormUnitaryCountingLemmas.H1OnPoints.shear_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:16:37.527935+00:00
 -- url     : https://prove2.me/theorems/2152c909-10a1-4a38-9034-484f95266e1f

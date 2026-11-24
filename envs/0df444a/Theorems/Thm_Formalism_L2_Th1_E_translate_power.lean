@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_translate_power
 -- name    : Formalism.L2.Th1.E.translate_power
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:16.010624+00:00
 -- url     : https://prove2.me/theorems/d74b843f-e079-4679-a062-7d0cce56bb07

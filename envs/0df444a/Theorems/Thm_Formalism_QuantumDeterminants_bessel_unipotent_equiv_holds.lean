@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_bessel_unipotent_equiv_holds
 -- name    : Formalism.QuantumDeterminants.bessel_unipotent_equiv_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:04:22.986698+00:00
 -- url     : https://prove2.me/theorems/813d01e1-c2b9-4217-848f-cef7f882c898

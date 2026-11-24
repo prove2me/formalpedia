@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_dslowk_counts
 -- name    : Formalism.QuantumDeterminants.dslowk_counts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:18:38.655245+00:00
 -- url     : https://prove2.me/theorems/d9aa276d-fd5d-46e3-8ca5-ca3c0a898c1b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_VolumeComparison_prekopa_leindler_1d_normalized
 -- name    : GaussianPerimeter.VolumeComparison.prekopa_leindler_1d_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:18:40.215564+00:00
 -- url     : https://prove2.me/theorems/e74ee635-029a-4e31-ae6f-e6111798c305

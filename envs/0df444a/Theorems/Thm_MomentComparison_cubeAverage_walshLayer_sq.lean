@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_cubeAverage_walshLayer_sq
 -- name    : MomentComparison.cubeAverage_walshLayer_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:29:43.511957+00:00
 -- url     : https://prove2.me/theorems/7f2f84ef-2e27-41bc-9769-45b3da198383

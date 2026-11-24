@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_IsogenySigmaQuotient_den_order_two
 -- name    : Formalism.L2.Th1.F.IsogenySigmaQuotient.den_order_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:29.990094+00:00
 -- url     : https://prove2.me/theorems/706b5adc-ac5c-4c4e-a25d-04f8880d18fd

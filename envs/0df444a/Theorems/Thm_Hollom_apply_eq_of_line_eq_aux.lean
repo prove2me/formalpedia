@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hollom_apply_eq_of_line_eq_aux
 -- name    : Hollom.apply_eq_of_line_eq_aux
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:10:52.275564+00:00
 -- url     : https://prove2.me/theorems/72374933-0898-4b2b-9560-0e1bdb848a6e

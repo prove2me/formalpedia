@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_restriction_into_holds
 -- name    : Formalism.InvariantFactorPaths.L4.restriction_into_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:37.251744+00:00
 -- url     : https://prove2.me/theorems/c2beffa4-09cc-4333-be9b-318af6a46c92

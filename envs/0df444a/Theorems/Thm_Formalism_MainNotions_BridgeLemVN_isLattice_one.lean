@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLemVN_isLattice_one
 -- name    : Formalism.MainNotions.BridgeLemVN.isLattice_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:55:49.601235+00:00
 -- url     : https://prove2.me/theorems/ee61f4b5-fb0c-4931-b13f-6e17be900878

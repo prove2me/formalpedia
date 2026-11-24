@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_CoefficientBoundLemmas_addVal_prod
 -- name    : Formalism.NormUnitaryCountingLemmas.CoefficientBoundLemmas.addVal_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:17:04.197253+00:00
 -- url     : https://prove2.me/theorems/b14dcd8e-0032-4f06-a8cc-02b73668226b

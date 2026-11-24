@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_lintegral_norm_euclidean
 -- name    : GaussianPerimeter.lintegral_norm_euclidean
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:57:33.591803+00:00
 -- url     : https://prove2.me/theorems/3c175ad4-ca29-42c8-9d2d-b94ea8c48013

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_good_part_hermitian_spec
 -- name    : Formalism.L2.DIV.good_part_hermitian_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:41:41.152853+00:00
 -- url     : https://prove2.me/theorems/c68f213e-a668-43ea-83bd-d8cd052bc8f7

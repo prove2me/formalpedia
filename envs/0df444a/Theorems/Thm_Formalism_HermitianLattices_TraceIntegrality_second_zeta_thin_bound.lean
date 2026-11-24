@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_second_zeta_thin_bound
 -- name    : Formalism.HermitianLattices.TraceIntegrality.second_zeta_thin_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:15.740541+00:00
 -- url     : https://prove2.me/theorems/574baddb-f3fa-49b1-a721-cc7574d7afcf

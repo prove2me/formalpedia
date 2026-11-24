@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_tendsto_mean_alphaN
 -- name    : Formalism.HermitianLattices.Ext.L3.tendsto_mean_alphaN
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:47.800664+00:00
 -- url     : https://prove2.me/theorems/ca25d3ed-69d7-458a-87e8-4442802174aa

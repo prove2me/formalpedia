@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_norm_cubePair_le
 -- name    : MomentComparison.norm_cubePair_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:03:34.198682+00:00
 -- url     : https://prove2.me/theorems/86ab4638-6684-4027-8e53-8d23c0940456

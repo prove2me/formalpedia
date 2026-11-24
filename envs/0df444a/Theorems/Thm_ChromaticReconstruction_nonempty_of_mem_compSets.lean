@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_nonempty_of_mem_compSets
 -- name    : ChromaticReconstruction.nonempty_of_mem_compSets
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:07:11.383052+00:00
 -- url     : https://prove2.me/theorems/331703ac-426e-4aa0-9b89-2e0c71f063bb

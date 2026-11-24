@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_CMRootsOfUnity_gal_sq
 -- name    : Formalism.Q3.CMRootsOfUnity.gal_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:17:58.098569+00:00
 -- url     : https://prove2.me/theorems/5074b18c-7482-42ef-a780-6648385c1225

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LErr_joint_error_bound
 -- name    : Formalism.LFunctionChainParameters.LErr.joint_error_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:48:58.885422+00:00
 -- url     : https://prove2.me/theorems/914537b6-9694-44bc-8b8b-1f9a65a49bbf

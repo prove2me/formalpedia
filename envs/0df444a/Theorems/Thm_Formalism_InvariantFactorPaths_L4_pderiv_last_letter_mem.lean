@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_pderiv_last_letter_mem
 -- name    : Formalism.InvariantFactorPaths.L4.pderiv_last_letter_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:43:32.428798+00:00
 -- url     : https://prove2.me/theorems/44e54dfc-ebfa-4977-a9ff-e7b047c6295c

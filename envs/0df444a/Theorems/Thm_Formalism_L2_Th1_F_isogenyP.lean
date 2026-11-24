@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_isogenyP
 -- name    : Formalism.L2.Th1.F.isogenyP
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:48:25.944861+00:00
 -- url     : https://prove2.me/theorems/fd3edfe4-5650-4aed-bf39-f104fa60447a

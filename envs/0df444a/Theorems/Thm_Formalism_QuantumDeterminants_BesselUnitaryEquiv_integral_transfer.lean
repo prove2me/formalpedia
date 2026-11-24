@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_BesselUnitaryEquiv_integral_transfer
 -- name    : Formalism.QuantumDeterminants.BesselUnitaryEquiv.integral_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:19:18.217812+00:00
 -- url     : https://prove2.me/theorems/cf59ebc5-bfb6-41ee-b7b1-9cb684f2de3e

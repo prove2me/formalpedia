@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_coeff_substS
 -- name    : Formalism.MainNotions.PlaneGram.coeff_substS
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:43:59.514792+00:00
 -- url     : https://prove2.me/theorems/4919cde9-9e90-4f9d-a65b-3a6d883668cb

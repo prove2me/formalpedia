@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_SectionsFourToSixTransfer_level_lower_of_count
 -- name    : Formalism.LFunctionChainParameters.SectionsFourToSixTransfer.level_lower_of_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:07:48.440105+00:00
 -- url     : https://prove2.me/theorems/d570a7d2-7492-4022-9275-ce42504aa19a

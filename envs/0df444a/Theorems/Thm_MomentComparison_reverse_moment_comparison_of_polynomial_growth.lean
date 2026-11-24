@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_reverse_moment_comparison_of_polynomial_growth
 -- name    : MomentComparison.reverse_moment_comparison_of_polynomial_growth
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:05:50.389062+00:00
 -- url     : https://prove2.me/theorems/8330edda-1a92-4722-922e-71b46f917c2b

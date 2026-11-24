@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_local_bounds_first
 -- name    : Formalism.L2.DIV.local_bounds_first
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:42:42.979125+00:00
 -- url     : https://prove2.me/theorems/3c91150a-e82d-4e2e-8ede-2079b3b5ad06

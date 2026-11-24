@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_IdempotentImageSmul_length_self_top
 -- name    : Formalism.NG.IdempotentImageSmul.length_self_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:13:22.666308+00:00
 -- url     : https://prove2.me/theorems/20192dd0-c323-4eff-a990-e957731b3862

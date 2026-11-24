@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_lambda_key_formula
 -- name    : Formalism.L2.LamCM.lambda_key_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:30.106874+00:00
 -- url     : https://prove2.me/theorems/ee0bf54f-3d35-4a5a-9b85-a621d5b5f26d

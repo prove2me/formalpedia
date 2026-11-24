@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_FrTanAlg_aeval_eig
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.FrTanAlg.aeval_eig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:01:18.37328+00:00
 -- url     : https://prove2.me/theorems/e74d56a8-31a7-404a-8d0b-3f5b1fb44d16

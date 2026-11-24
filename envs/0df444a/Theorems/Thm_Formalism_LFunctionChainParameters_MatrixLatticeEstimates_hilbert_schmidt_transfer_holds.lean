@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_MatrixLatticeEstimates_hilbert_schmidt_transfer_holds
 -- name    : Formalism.LFunctionChainParameters.MatrixLatticeEstimates.hilbert_schmidt_transfer_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:32.26513+00:00
 -- url     : https://prove2.me/theorems/d66ae43c-dbfe-4abd-8747-568a1ac71434

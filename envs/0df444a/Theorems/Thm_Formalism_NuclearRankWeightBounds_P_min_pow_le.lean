@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NuclearRankWeightBounds_P_min_pow_le
 -- name    : Formalism.NuclearRankWeightBounds.P.min_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:17:37.454835+00:00
 -- url     : https://prove2.me/theorems/e9dee67e-a002-4774-b5bc-33c3530fa39c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_BQuot_quot_core
 -- name    : Formalism.LatticeBaseChangeAlt.BQuot.quot_core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:51:35.393642+00:00
 -- url     : https://prove2.me/theorems/bc8a6849-2ba1-49ab-9a2a-acce9f0aa2da

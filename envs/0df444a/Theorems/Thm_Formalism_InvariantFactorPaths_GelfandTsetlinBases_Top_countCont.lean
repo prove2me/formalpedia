@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Top_countCont
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.Top.countCont
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:56:37.91398+00:00
 -- url     : https://prove2.me/theorems/b7f04de7-c3d5-47a4-8d1d-40ff53fa0c3e

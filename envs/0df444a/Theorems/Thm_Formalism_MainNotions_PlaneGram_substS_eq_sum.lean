@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_substS_eq_sum
 -- name    : Formalism.MainNotions.PlaneGram.substS_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:08:16.402987+00:00
 -- url     : https://prove2.me/theorems/33998933-1100-4f95-ae1a-7735df92bb48

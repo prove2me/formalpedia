@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_lowerBound_of_polytope_estimates
 -- name    : GaussianPerimeter.lowerBound_of_polytope_estimates
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:44:53.034147+00:00
 -- url     : https://prove2.me/theorems/6c83b7c2-976b-493e-9c8f-c9352016c77c

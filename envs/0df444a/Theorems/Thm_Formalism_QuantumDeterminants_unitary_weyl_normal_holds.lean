@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_unitary_weyl_normal_holds
 -- name    : Formalism.QuantumDeterminants.unitary_weyl_normal_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:34:05.330117+00:00
 -- url     : https://prove2.me/theorems/cb51662b-a9b9-48ad-b630-36f359ac00d0

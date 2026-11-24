@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_lintegral_gaussian_radial
 -- name    : GaussianPerimeter.lintegral_gaussian_radial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:57:35.779737+00:00
 -- url     : https://prove2.me/theorems/70f34028-e90f-4545-adc5-c7590a62424e

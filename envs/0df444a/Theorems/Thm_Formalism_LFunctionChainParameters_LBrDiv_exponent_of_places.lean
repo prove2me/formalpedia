@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBrDiv_exponent_of_places
 -- name    : Formalism.LFunctionChainParameters.LBrDiv.exponent_of_places
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:00:09.624443+00:00
 -- url     : https://prove2.me/theorems/0a3590c5-3e82-4b81-a023-05f4b0f8f558

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GaugeR_mem_orig_pow_of_coeff
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GaugeR.mem_orig_pow_of_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:01:28.629057+00:00
 -- url     : https://prove2.me/theorems/801291fc-84d7-4cde-8a46-10deb7a822d8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_DeIntegral_of
 -- name    : Formalism.InvariantFactorPaths.G7.DeIntegral_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:11:14.03433+00:00
 -- url     : https://prove2.me/theorems/e3a1f94c-7d5f-4086-8665-a253820c091e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_phODef
 -- name    : Formalism.L2.Th1.B.phODef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:29:39.44404+00:00
 -- url     : https://prove2.me/theorems/8a8adea2-1dd2-456a-a50c-52aeb6c68b49

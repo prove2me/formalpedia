@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_wirt_mul_fun
 -- name    : Formalism.QuantumDeterminants.wirt_mul_fun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:20:32.123054+00:00
 -- url     : https://prove2.me/theorems/c5a3251c-f50c-437a-9385-f257cd74e47c

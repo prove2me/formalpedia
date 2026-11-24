@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_tendsto_no_success
 -- name    : GaussianPerimeter.tendsto_no_success
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:13:32.455249+00:00
 -- url     : https://prove2.me/theorems/9885976b-9cd3-4d9f-add2-7dcdcac919bb

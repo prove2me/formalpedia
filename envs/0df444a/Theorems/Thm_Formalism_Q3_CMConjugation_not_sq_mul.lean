@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_CMConjugation_not_sq_mul
 -- name    : Formalism.Q3.CMConjugation.not_sq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:18:00.329322+00:00
 -- url     : https://prove2.me/theorems/eb7e8a98-482c-456c-a6ab-6916fed851d3

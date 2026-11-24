@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_restriction_mem_space
 -- name    : Formalism.InvariantFactorPaths.L4.restriction_mem_space
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:03:36.007171+00:00
 -- url     : https://prove2.me/theorems/476ade4f-abd0-4109-94b4-a6a09c5304b9

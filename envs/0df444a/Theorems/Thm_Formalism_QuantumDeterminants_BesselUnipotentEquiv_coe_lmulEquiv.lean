@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_BesselUnipotentEquiv_coe_lmulEquiv
 -- name    : Formalism.QuantumDeterminants.BesselUnipotentEquiv.coe_lmulEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:18:48.015799+00:00
 -- url     : https://prove2.me/theorems/0aaf74a4-c9f5-4572-b198-ca0d176a755d

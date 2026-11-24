@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_BruhatBigCell_row_mid_out
 -- name    : Formalism.QuantumDeterminants.BruhatBigCell.row_mid_out
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:19:09.001257+00:00
 -- url     : https://prove2.me/theorems/dedc3e05-8d1c-4f40-a110-2f217eb5bc31

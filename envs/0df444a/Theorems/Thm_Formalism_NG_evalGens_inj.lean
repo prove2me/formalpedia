@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_evalGens_inj
 -- name    : Formalism.NG.evalGens_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:15:41.810992+00:00
 -- url     : https://prove2.me/theorems/1ee76ac7-587f-42de-96c0-c6c957a164f1

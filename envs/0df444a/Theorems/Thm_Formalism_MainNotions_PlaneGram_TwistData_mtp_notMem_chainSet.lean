@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_mtp_notMem_chainSet
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.mtp_notMem_chainSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:04:50.508106+00:00
 -- url     : https://prove2.me/theorems/3d81dc47-f596-478f-8c41-837ff2f479b0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_IdemLiftAlt_limit_map
 -- name    : Formalism.NG.IdemLiftAlt.limit_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:12:30.566795+00:00
 -- url     : https://prove2.me/theorems/3dbe3cc5-3afa-4ec4-a555-dffa52780497

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_MatrixLatticeEstimates_first_family_transfer_holds
 -- name    : Formalism.LFunctionChainParameters.MatrixLatticeEstimates.first_family_transfer_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:03:05.074068+00:00
 -- url     : https://prove2.me/theorems/48aeb385-935e-4ba5-91d9-7af9f387f9bd

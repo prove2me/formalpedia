@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_Ser_unitAt_gaussOne
 -- name    : Formalism.L2.Th1.E.Ser.unitAt_gaussOne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:03:04.665217+00:00
 -- url     : https://prove2.me/theorems/9919dcfb-e14a-4cc4-812e-c1cd2cb27c79

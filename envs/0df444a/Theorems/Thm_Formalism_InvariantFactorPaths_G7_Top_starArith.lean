@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_Top_starArith
 -- name    : Formalism.InvariantFactorPaths.G7.Top.starArith
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:51:19.402587+00:00
 -- url     : https://prove2.me/theorems/eca44eb2-365e-455d-8e2c-0bd161d1bab7

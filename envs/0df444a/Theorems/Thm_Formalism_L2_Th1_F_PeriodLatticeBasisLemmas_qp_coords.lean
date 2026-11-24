@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_PeriodLatticeBasisLemmas_qp_coords
 -- name    : Formalism.L2.Th1.F.PeriodLatticeBasisLemmas.qp_coords
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:40.55787+00:00
 -- url     : https://prove2.me/theorems/35122dc5-7d4f-4cf6-93c7-4e9dbace6044

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GaugeR_gam_pullUnit
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GaugeR.gam_pullUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:01:15.09095+00:00
 -- url     : https://prove2.me/theorems/2ab18db3-1259-48b5-aaf2-ccff3754d4c6

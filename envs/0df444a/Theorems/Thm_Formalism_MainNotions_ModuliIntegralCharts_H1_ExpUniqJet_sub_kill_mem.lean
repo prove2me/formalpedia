@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpUniqJet_sub_kill_mem
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpUniqJet.sub_kill_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:00:33.421882+00:00
 -- url     : https://prove2.me/theorems/4a5c6bff-5af5-4419-b5ed-b9e1b24443d9

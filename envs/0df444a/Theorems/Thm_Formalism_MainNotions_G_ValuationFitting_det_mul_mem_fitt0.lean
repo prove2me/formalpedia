@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_ValuationFitting_det_mul_mem_fitt0
 -- name    : Formalism.MainNotions.G.ValuationFitting.det_mul_mem_fitt0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:55:33.388906+00:00
 -- url     : https://prove2.me/theorems/273dc60f-5733-42fc-a34d-2bbc68836840

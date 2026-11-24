@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_PrincipalInjectiveCommonRange_mem_H_iff
 -- name    : Formalism.NormUnitaryCountingLemmas.PrincipalInjectiveCommonRange.mem_H_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:18:00.281563+00:00
 -- url     : https://prove2.me/theorems/fb60c564-9415-418f-ad20-598dd94c8074

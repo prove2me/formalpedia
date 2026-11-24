@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtNormSquare_compressTraceLowerBound
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtNormSquare.compressTraceLowerBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:05:03.621073+00:00
 -- url     : https://prove2.me/theorems/168a62b7-809b-43c8-8e14-908b16b13125

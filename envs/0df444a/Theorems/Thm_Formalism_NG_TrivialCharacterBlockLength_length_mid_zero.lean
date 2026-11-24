@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_TrivialCharacterBlockLength_length_mid_zero
 -- name    : Formalism.NG.TrivialCharacterBlockLength.length_mid_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:14:52.111264+00:00
 -- url     : https://prove2.me/theorems/c1dac497-81df-46f8-877e-739f0a8aed81

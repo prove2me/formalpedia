@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_WRPres_wirtBar_contDiffOn
 -- name    : Formalism.QuantumDeterminants.WRPres.wirtBar_contDiffOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:19:21.72256+00:00
 -- url     : https://prove2.me/theorems/4a8cc86a-17de-42c0-876f-6635aee7c72c

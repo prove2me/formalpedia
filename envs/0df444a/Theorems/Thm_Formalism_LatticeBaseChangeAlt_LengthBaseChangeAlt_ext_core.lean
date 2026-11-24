@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_LengthBaseChangeAlt_ext_core
 -- name    : Formalism.LatticeBaseChangeAlt.LengthBaseChangeAlt.ext_core
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:52.137932+00:00
 -- url     : https://prove2.me/theorems/12d2c93f-b2c8-49e5-ba65-c366d5410621

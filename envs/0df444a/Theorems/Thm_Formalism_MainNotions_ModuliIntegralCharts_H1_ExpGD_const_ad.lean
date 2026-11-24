@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGD_const_ad
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGD.const_ad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:01:04.485161+00:00
 -- url     : https://prove2.me/theorems/7a0397d5-b7f1-43b4-9ad2-26087c3d762b

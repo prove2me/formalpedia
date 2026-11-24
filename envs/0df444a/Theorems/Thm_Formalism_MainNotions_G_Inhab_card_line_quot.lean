@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_Inhab_card_line_quot
 -- name    : Formalism.MainNotions.G.Inhab.card_line_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:56:50.325798+00:00
 -- url     : https://prove2.me/theorems/657db0e4-4f9c-4114-88c9-1d6f1d94c2e6

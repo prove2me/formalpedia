@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_fact_add_of_disjoint
 -- name    : Formalism.MainNotions.PlaneGram.fact_add_of_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:06:30.881168+00:00
 -- url     : https://prove2.me/theorems/9a2a040b-9e20-4e21-8d47-a89cab55edd1
