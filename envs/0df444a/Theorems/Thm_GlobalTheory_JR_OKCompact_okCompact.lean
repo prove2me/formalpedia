@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_OKCompact_okCompact
 -- name    : GlobalTheory.JR.OKCompact.okCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:35:07.873733+00:00
 -- url     : https://prove2.me/theorems/398981ca-1864-4ab7-bda7-0135e96b3eb9

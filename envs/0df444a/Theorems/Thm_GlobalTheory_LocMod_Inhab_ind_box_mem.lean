@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocMod_Inhab_ind_box_mem
 -- name    : GlobalTheory.LocMod.Inhab.ind_box_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:13:46.679211+00:00
 -- url     : https://prove2.me/theorems/63c2ee5d-0640-444e-bd05-c684f1f883df

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjSpace_mult_apply
 -- name    : GroundTheory.Arith.SchemeCoh.ProjSpace.mult_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:39:04.65932+00:00
 -- url     : https://prove2.me/theorems/6fa41252-5c7e-45ac-91cd-2acbf9a763c7

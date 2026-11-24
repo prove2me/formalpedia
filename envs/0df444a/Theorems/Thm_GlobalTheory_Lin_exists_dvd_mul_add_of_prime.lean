@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_exists_dvd_mul_add_of_prime
 -- name    : GlobalTheory.Lin.exists_dvd_mul_add_of_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:08:15.722329+00:00
 -- url     : https://prove2.me/theorems/828c1fc0-764a-4d79-bbc0-abe533d01425

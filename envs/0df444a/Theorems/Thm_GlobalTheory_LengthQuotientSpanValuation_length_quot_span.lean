@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LengthQuotientSpanValuation_length_quot_span
 -- name    : GlobalTheory.LengthQuotientSpanValuation.length_quot_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:01:14.384041+00:00
 -- url     : https://prove2.me/theorems/bea18586-00b5-4cc7-a9a4-20214adfcac9

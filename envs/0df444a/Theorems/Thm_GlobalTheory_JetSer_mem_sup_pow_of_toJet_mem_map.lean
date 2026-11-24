@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_mem_sup_pow_of_toJet_mem_map
 -- name    : GlobalTheory.JetSer.mem_sup_pow_of_toJet_mem_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:44:25.03008+00:00
 -- url     : https://prove2.me/theorems/659db3a3-6a16-45b9-a195-e281fbf3c742

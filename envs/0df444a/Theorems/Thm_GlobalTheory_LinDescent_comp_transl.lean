@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinDescent_comp_transl
 -- name    : GlobalTheory.LinDescent.comp_transl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:07:42.724275+00:00
 -- url     : https://prove2.me/theorems/c921f962-eef1-41ae-97c1-6e4dbe7071e7

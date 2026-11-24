@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LiftsToDetOne_of_reindex
 -- name    : GlobalTheory.LiftsToDetOne.of_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:05:21.557926+00:00
 -- url     : https://prove2.me/theorems/1e46ce2b-53cb-40f1-9bd9-f96844c0167f

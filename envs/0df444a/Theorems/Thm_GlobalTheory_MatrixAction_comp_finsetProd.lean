@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatrixAction_comp_finsetProd
 -- name    : GlobalTheory.MatrixAction.comp_finsetProd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:21:37.332816+00:00
 -- url     : https://prove2.me/theorems/f8cfc882-cc0b-46a9-944b-dbc860a2ee78

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogEulerSeries_hasSum_neg_log_succ
 -- name    : GlobalTheory.LogEulerSeries.hasSum_neg_log_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:18:52.631795+00:00
 -- url     : https://prove2.me/theorems/6825e117-11a9-48a9-a3fd-3d4c8ffea58b

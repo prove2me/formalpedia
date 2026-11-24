@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LagSplit_omegaCx_elim
 -- name    : GlobalTheory.LagSplit.omegaCx_elim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:58:53.825244+00:00
 -- url     : https://prove2.me/theorems/e4f32b6d-e2fa-4e93-97f3-1adbd3210144

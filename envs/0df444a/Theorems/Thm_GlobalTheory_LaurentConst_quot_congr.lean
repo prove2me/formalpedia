@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LaurentConst_quot_congr
 -- name    : GlobalTheory.LaurentConst.quot_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:01:18.121803+00:00
 -- url     : https://prove2.me/theorems/bbc5b687-19b9-4a71-8f27-a983dd2f628b

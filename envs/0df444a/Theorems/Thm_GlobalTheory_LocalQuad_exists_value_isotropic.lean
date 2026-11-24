@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_exists_value_isotropic
 -- name    : GlobalTheory.LocalQuad.exists_value_isotropic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:13:58.225913+00:00
 -- url     : https://prove2.me/theorems/49e4a8f7-1ec8-40e3-898b-07045fb91ef0

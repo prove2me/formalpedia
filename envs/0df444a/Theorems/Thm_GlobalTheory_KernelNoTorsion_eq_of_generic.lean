@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KernelNoTorsion_eq_of_generic
 -- name    : GlobalTheory.KernelNoTorsion.eq_of_generic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:48:12.115834+00:00
 -- url     : https://prove2.me/theorems/6f2693e6-b9de-4cce-a85b-b01d2c12a4b7

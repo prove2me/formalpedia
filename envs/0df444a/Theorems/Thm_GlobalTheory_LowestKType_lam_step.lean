@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LowestKType_lam_step
 -- name    : GlobalTheory.LowestKType.lam_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:14:33.817708+00:00
 -- url     : https://prove2.me/theorems/1aefe79d-b675-45e1-ab69-acc6cde6ff40

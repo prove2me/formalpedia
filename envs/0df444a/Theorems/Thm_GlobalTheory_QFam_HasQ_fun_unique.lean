@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_HasQ_fun_unique
 -- name    : GlobalTheory.QFam.HasQ.fun_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:27:55.498393+00:00
 -- url     : https://prove2.me/theorems/4685121f-77c3-4641-80a5-3e578999fb24

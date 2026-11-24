@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilProd_TensorTest_map_sum
 -- name    : GlobalTheory.JR.WeilProd.TensorTest.map_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:52:57.507304+00:00
 -- url     : https://prove2.me/theorems/50d5d30c-2e97-4021-8e28-4fda20090801

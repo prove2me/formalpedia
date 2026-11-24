@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalHomExtension_exists_isLocalHom_extension
 -- name    : GlobalTheory.LocalHomExtension.exists_isLocalHom_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:13:49.488177+00:00
 -- url     : https://prove2.me/theorems/62d08763-ffc5-44f2-84a2-ba4720de5166

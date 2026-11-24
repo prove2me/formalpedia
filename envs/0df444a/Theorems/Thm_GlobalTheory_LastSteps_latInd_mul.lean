@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LastSteps_latInd_mul
 -- name    : GlobalTheory.LastSteps.latInd_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:41:27.762792+00:00
 -- url     : https://prove2.me/theorems/af4593a1-1496-49ad-9f0c-9ebec8070dbe

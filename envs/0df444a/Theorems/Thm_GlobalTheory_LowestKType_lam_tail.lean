@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LowestKType_lam_tail
 -- name    : GlobalTheory.LowestKType.lam_tail
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:14:33.029866+00:00
 -- url     : https://prove2.me/theorems/be5b6aa9-17d0-44d0-bc2b-1fd26e718d69

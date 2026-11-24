@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdeleBaseChange_continuous_symm_finite
 -- name    : GlobalTheory.AdeleBaseChange.continuous_symm_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:56.746126+00:00
 -- url     : https://prove2.me/theorems/286dbc5e-a42a-46fb-aa96-f769c86b7fc9

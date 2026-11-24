@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChF_mem_sup_span_X_pow_iff_and_isAdicComplete
 -- name    : GlobalTheory.ChF.mem_sup_span_X_pow_iff_and_isAdicComplete
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:18:15.130917+00:00
 -- url     : https://prove2.me/theorems/bc15432d-afd9-45fe-9d92-2bd23c8a1ec2

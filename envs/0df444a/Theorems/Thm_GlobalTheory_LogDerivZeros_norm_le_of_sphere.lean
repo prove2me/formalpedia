@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogDerivZeros_norm_le_of_sphere
 -- name    : GlobalTheory.LogDerivZeros.norm_le_of_sphere
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:16:59.345488+00:00
 -- url     : https://prove2.me/theorems/3b433159-d612-4669-b43d-81155359834b

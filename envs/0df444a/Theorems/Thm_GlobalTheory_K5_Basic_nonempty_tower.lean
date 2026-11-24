@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K5_Basic_nonempty_tower
 -- name    : GlobalTheory.K5.Basic.nonempty_tower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:41:49.226078+00:00
 -- url     : https://prove2.me/theorems/19f4ec7d-1192-4d4c-a027-8dd8ac15d79b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertTrans_levi_eq_mul
 -- name    : GlobalTheory.CompanionTheory.InertTrans.levi_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:04:32.558833+00:00
 -- url     : https://prove2.me/theorems/d59cc22e-1d6a-4bf1-bc5c-52226aa61d34

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Ram_Fun_sum_padicValNat_log_le
 -- name    : UpperTheory.Ram.Fun.sum_padicValNat_log_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:45:10.257085+00:00
 -- url     : https://prove2.me/theorems/58e9f40c-e6a9-4876-8b0a-a86ea2e38034

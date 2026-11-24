@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NG_exists_level_multiset
 -- name    : Formalism.L2.NG.exists_level_multiset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:11:11.418124+00:00
 -- url     : https://prove2.me/theorems/4c79a258-2619-4ef3-b55a-5a310486af6d

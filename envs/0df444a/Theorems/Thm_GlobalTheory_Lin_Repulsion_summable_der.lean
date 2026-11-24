@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_Repulsion_summable_der
 -- name    : GlobalTheory.Lin.Repulsion.summable_der
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:07:16.046203+00:00
 -- url     : https://prove2.me/theorems/e4acf2c0-dea7-4f50-a33e-b78de09e6271

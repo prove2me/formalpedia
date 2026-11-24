@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertLen_pointwise
 -- name    : GlobalTheory.CompanionTheory.InertLen.pointwise
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:04:05.442884+00:00
 -- url     : https://prove2.me/theorems/9901a8a3-be62-4b7a-911e-40e3787f4f6d

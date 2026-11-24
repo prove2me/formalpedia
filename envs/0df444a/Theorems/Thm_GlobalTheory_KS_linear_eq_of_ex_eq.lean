@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_linear_eq_of_ex_eq
 -- name    : GlobalTheory.KS.linear_eq_of_ex_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:46:19.708848+00:00
 -- url     : https://prove2.me/theorems/a70ff617-acd2-4c6d-88b0-f32df026b078

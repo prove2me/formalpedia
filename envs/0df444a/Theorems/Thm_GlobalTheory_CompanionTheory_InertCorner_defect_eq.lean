@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertCorner_defect_eq
 -- name    : GlobalTheory.CompanionTheory.InertCorner.defect_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:00:13.223858+00:00
 -- url     : https://prove2.me/theorems/a39367a4-4e62-42e3-9b09-73788e1e6dd1

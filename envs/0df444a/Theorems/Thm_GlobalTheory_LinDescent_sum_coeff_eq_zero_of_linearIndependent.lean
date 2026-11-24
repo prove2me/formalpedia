@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinDescent_sum_coeff_eq_zero_of_linearIndependent
 -- name    : GlobalTheory.LinDescent.sum_coeff_eq_zero_of_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:08:30.755665+00:00
 -- url     : https://prove2.me/theorems/394f524e-6207-4ee5-9b35-315da554c2b5

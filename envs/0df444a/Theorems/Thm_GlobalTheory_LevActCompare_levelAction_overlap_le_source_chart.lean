@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevActCompare_levelAction_overlap_le_source_chart
 -- name    : GlobalTheory.LevActCompare.levelAction_overlap_le_source_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:01:40.559374+00:00
 -- url     : https://prove2.me/theorems/1bc919cd-a31e-4e37-8e61-2f979a6e2077

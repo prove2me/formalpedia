@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocWeil_DerComm_tendsto_quot
 -- name    : GlobalTheory.LocWeil.DerComm.tendsto_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:13:58.727804+00:00
 -- url     : https://prove2.me/theorems/9b0a9852-5493-4853-a9ee-c6afb27f7b4b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LieEtale_isLieEigen_iff
 -- name    : GlobalTheory.LieEtale.isLieEigen_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:04:52.418267+00:00
 -- url     : https://prove2.me/theorems/ae4152ea-8599-4a8f-8059-aad200928e55

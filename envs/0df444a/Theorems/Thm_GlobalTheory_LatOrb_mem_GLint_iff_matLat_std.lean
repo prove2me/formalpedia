@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatOrb_mem_GLint_iff_matLat_std
 -- name    : GlobalTheory.LatOrb.mem_GLint_iff_matLat_std
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:59:03.082271+00:00
 -- url     : https://prove2.me/theorems/3e14f464-0b7b-48f1-b082-439067779d22

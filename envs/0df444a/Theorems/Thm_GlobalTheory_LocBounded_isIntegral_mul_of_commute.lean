@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocBounded_isIntegral_mul_of_commute
 -- name    : GlobalTheory.LocBounded.isIntegral_mul_of_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:12:30.459124+00:00
 -- url     : https://prove2.me/theorems/e0cc7d82-9889-4571-bad9-3e1312518041

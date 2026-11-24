@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SerBridgeGLW_trace_piTensorMap
 -- name    : PI.SerBridgeGLW.trace_piTensorMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:43:52.82215+00:00
 -- url     : https://prove2.me/theorems/61185455-fbdc-4333-bc4a-1b2bb462db4c

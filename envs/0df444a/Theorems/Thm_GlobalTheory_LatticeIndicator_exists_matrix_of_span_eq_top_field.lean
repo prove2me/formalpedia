@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeIndicator_exists_matrix_of_span_eq_top_field
 -- name    : GlobalTheory.LatticeIndicator.exists_matrix_of_span_eq_top_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:59:51.190489+00:00
 -- url     : https://prove2.me/theorems/908f4fd6-94b5-4728-a301-ecf9675790aa

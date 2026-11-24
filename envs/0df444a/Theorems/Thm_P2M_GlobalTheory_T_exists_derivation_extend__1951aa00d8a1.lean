@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_derivation_extend__1951aa00d8a1
 -- name    : P2M_GlobalTheory_T_exists_derivation_extend__1951aa00d8a1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:17:57.514798+00:00
 -- url     : https://prove2.me/theorems/29cc702c-a6e3-4b90-9f67-dadec636bc37

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetConj_IsSigmaLike_add_wr
 -- name    : GlobalTheory.JetConj.IsSigmaLike.add_wr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:39:49.354082+00:00
 -- url     : https://prove2.me/theorems/67914ed2-97d5-40e7-b914-f6e7d286c7ce

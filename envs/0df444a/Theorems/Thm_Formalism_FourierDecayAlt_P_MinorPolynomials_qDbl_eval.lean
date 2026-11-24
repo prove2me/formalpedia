@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MinorPolynomials_qDbl_eval
 -- name    : Formalism.FourierDecayAlt.P.MinorPolynomials.qDbl_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:33:58.625798+00:00
 -- url     : https://prove2.me/theorems/bb4ab5e1-36c6-4c16-843b-f93e5c16ccd5

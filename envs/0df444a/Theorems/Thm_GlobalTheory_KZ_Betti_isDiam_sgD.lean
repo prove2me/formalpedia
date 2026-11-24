@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KZ_Betti_isDiam_sgD
 -- name    : GlobalTheory.KZ.Betti.isDiam_sgD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:46:31.108515+00:00
 -- url     : https://prove2.me/theorems/22be71be-587b-41ba-add6-8b51a38cfa41

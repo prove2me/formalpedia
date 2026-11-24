@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TBBx1_lemmaSOfSteps
 -- name    : Formalism.FourierDecayAlt.P.TBBx1.lemmaSOfSteps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:57:02.626048+00:00
 -- url     : https://prove2.me/theorems/1ab9f7bd-2d40-4a2b-97a8-6d2ab83a6d77

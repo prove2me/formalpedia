@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_LargeMean_norm_tsum_le_of_close
 -- name    : GlobalTheory.Lin.LargeMean.norm_tsum_le_of_close
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:06:25.811368+00:00
 -- url     : https://prove2.me/theorems/ae58941d-c2f1-4245-91f1-cef46f6533bb

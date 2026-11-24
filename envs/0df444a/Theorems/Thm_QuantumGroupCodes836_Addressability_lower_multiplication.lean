@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumGroupCodes836_Addressability_lower_multiplication
 -- name    : QuantumGroupCodes836.Addressability.lower_multiplication
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T17:07:33.347985+00:00
 -- url     : https://prove2.me/theorems/1eeb2f36-1ada-4ad2-af71-524d6cfc878b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_qminor_intertwine
 -- name    : AAInvW.qminor_intertwine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:25:53.582322+00:00
 -- url     : https://prove2.me/theorems/79c5f525-f31d-4780-8861-99e0b14e4734

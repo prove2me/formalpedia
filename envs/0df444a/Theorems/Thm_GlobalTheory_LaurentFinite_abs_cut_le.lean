@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LaurentFinite_abs_cut_le
 -- name    : GlobalTheory.LaurentFinite.abs_cut_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:01:08.338977+00:00
 -- url     : https://prove2.me/theorems/51acc7b3-058c-4fa8-828d-e1b84228261e

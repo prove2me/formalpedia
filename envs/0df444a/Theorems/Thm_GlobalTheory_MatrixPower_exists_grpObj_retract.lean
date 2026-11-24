@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatrixPower_exists_grpObj_retract
 -- name    : GlobalTheory.MatrixPower.exists_grpObj_retract
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:21:47.175165+00:00
 -- url     : https://prove2.me/theorems/e79547ed-d1f8-4a86-9af5-f1c10c0a2965

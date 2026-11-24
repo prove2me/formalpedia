@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_stableGridRpowExpDecayV1
 -- name    : Kyprianou.Ch03.stableGridRpowExpDecayV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T18:19:10.590832+00:00
 -- url     : https://prove2.me/theorems/ed87f597-6832-444c-a556-f0a72260c723

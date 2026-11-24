@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_LargeMean_pw_le_one
 -- name    : GlobalTheory.Lin.LargeMean.pw_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:06:20.43138+00:00
 -- url     : https://prove2.me/theorems/21e7b20e-ca6c-4440-bd96-80f4d3764f43

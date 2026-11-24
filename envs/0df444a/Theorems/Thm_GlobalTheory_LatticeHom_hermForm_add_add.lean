@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeHom_hermForm_add_add
 -- name    : GlobalTheory.LatticeHom.hermForm_add_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:59:02.634317+00:00
 -- url     : https://prove2.me/theorems/c4ec8982-1c9f-4c7a-a34a-c134959b9677

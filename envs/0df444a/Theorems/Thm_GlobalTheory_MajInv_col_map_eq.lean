@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MajInv_col_map_eq
 -- name    : GlobalTheory.MajInv.col_map_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:20:15.219068+00:00
 -- url     : https://prove2.me/theorems/c146c801-3ea5-4619-9874-af40713ce7f2

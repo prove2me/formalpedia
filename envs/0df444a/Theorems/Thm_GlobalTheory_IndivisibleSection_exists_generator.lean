@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndivisibleSection_exists_generator
 -- name    : GlobalTheory.IndivisibleSection.exists_generator
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:50:47.615937+00:00
 -- url     : https://prove2.me/theorems/53fe76ec-3e5d-4746-ac35-bd7fd072ef32

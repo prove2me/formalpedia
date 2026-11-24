@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LengthCommensurable_signedLength_nonneg
 -- name    : GlobalTheory.LengthCommensurable.signedLength_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:01:29.779819+00:00
 -- url     : https://prove2.me/theorems/d956254f-9f0d-45e8-9f31-8306fe7a655e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_D_apply
 -- name    : GlobalTheory.LatPair.D_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:36:08.548939+00:00
 -- url     : https://prove2.me/theorems/3b1e9880-4ffc-4a51-b557-e935f9ab53bf

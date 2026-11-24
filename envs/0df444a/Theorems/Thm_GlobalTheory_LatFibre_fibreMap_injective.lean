@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatFibre_fibreMap_injective
 -- name    : GlobalTheory.LatFibre.fibreMap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:56:58.988956+00:00
 -- url     : https://prove2.me/theorems/00417fa5-08b2-43fa-a1ff-a063880d5e5e

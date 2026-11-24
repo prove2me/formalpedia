@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_conjugated_generator_gl_relation
 -- name    : Formalism.QuantumDeterminants.conjugated_generator_gl_relation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:01:30.044704+00:00
 -- url     : https://prove2.me/theorems/ef47c1ae-5107-45ea-b196-caedefe35005

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocSpan_mem_integer_of_isIntegral
 -- name    : GlobalTheory.LocSpan.mem_integer_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:14:33.555363+00:00
 -- url     : https://prove2.me/theorems/0a127863-4c75-430e-84e8-626e0cec4e61

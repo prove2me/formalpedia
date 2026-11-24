@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_maps_smul
 -- name    : GlobalTheory.LatPair.maps_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:00:14.33895+00:00
 -- url     : https://prove2.me/theorems/2a581c0a-9cc9-4210-a1ae-4b962b839094

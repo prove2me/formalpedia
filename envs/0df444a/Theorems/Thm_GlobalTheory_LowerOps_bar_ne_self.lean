@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LowerOps_bar_ne_self
 -- name    : GlobalTheory.LowerOps.bar_ne_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:18:51.953796+00:00
 -- url     : https://prove2.me/theorems/a60efd03-318b-4883-adfe-e25a26767e94

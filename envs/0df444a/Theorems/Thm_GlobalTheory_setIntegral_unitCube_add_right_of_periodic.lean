@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_setIntegral_unitCube_add_right_of_periodic
 -- name    : GlobalTheory.setIntegral_unitCube_add_right_of_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:51:24.149405+00:00
 -- url     : https://prove2.me/theorems/0ec25db6-74f7-4d31-a7c6-396af53aaede

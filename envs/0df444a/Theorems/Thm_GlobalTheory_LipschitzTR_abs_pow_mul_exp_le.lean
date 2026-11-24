@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_abs_pow_mul_exp_le
 -- name    : GlobalTheory.LipschitzTR.abs_pow_mul_exp_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:12:43.340659+00:00
 -- url     : https://prove2.me/theorems/eda21e58-f7bc-4132-9238-212aecbccd29

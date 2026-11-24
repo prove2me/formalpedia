@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocRep_exists_continuous_rep_average
 -- name    : GlobalTheory.LocRep.exists_continuous_rep_average
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:13:54.288703+00:00
 -- url     : https://prove2.me/theorems/ed519f24-79da-44d8-b44f-c9a2d0b55fbe

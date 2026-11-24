@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Chr_Model_diagUnits_fst
 -- name    : GlobalTheory.Mem.Chr.Model.diagUnits_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:23:09.21718+00:00
 -- url     : https://prove2.me/theorems/ea63d1bf-dc5c-41b9-9164-08f9b2693aad

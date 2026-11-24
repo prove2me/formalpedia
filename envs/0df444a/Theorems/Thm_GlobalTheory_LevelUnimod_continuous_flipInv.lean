@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelUnimod_continuous_flipInv
 -- name    : GlobalTheory.LevelUnimod.continuous_flipInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:03:04.873835+00:00
 -- url     : https://prove2.me/theorems/47d59044-eabb-4fd0-85b5-d98b6b464cbe

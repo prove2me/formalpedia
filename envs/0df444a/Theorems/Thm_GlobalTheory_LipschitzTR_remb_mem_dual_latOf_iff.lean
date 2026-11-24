@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_remb_mem_dual_latOf_iff
 -- name    : GlobalTheory.LipschitzTR.remb_mem_dual_latOf_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:12:36.818251+00:00
 -- url     : https://prove2.me/theorems/f5138a3d-3b2f-46cd-89e1-c1a65d88f9d8

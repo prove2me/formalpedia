@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_LhsSum_summable_wt
 -- name    : GlobalTheory.LipschitzTR.LhsSum.summable_wt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:10:50.270901+00:00
 -- url     : https://prove2.me/theorems/2ad01bbe-d063-45d8-bcc3-9e2841544e9d

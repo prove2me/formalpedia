@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IwahoriInj_iwahoriProj_injective
 -- name    : GlobalTheory.IwahoriInj.iwahoriProj_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:22:16.077041+00:00
 -- url     : https://prove2.me/theorems/7f423da1-edbe-4eb3-a375-1ee33ad8c1ed

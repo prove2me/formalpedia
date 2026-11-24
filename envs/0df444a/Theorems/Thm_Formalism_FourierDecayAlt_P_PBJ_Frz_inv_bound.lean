@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBJ_Frz_inv_bound
 -- name    : Formalism.FourierDecayAlt.P.PBJ.Frz.inv_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:05:56.611811+00:00
 -- url     : https://prove2.me/theorems/1bad7b72-e869-42b8-b02b-27ab2a0608d2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_embX_smul_gluedLat
 -- name    : GlobalTheory.LatPair.embX_smul_gluedLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:58:24.801182+00:00
 -- url     : https://prove2.me/theorems/9a8a2515-26ed-45c7-84b1-1bc9143acb22

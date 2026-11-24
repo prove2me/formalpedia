@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermDiag_exists_orthogonal_basis_dotProduct_apply_eq
 -- name    : GlobalTheory.HermDiag.exists_orthogonal_basis_dotProduct_apply_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:19:23.513701+00:00
 -- url     : https://prove2.me/theorems/30be4fef-edc4-4632-a8f1-ad6eb699dd33

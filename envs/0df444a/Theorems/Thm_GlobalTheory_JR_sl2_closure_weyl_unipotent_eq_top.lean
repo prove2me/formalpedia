@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_sl2_closure_weyl_unipotent_eq_top
 -- name    : GlobalTheory.JR.sl2_closure_weyl_unipotent_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:40:37.009884+00:00
 -- url     : https://prove2.me/theorems/188f47ba-cab1-4f2c-b588-bf07a1175fb3

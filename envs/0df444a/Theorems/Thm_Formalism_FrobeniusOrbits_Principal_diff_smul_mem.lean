@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Principal_diff_smul_mem
 -- name    : Formalism.FrobeniusOrbits.Principal.diff_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:39:16.874802+00:00
 -- url     : https://prove2.me/theorems/5e0923e3-18ac-44c7-948d-2d09b220ce19

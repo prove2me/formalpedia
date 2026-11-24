@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LaurentConst_atInf_const
 -- name    : GlobalTheory.LaurentConst.atInf_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:01:52.476866+00:00
 -- url     : https://prove2.me/theorems/104adade-acdc-48ca-aca7-c349d26aa6c2

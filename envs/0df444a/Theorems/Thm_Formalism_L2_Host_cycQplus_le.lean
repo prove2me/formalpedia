@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Host_cycQplus_le
 -- name    : Formalism.L2.Host.cycQplus_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:49:58.322694+00:00
 -- url     : https://prove2.me/theorems/6b41e686-b884-44a9-8050-5a3328eede99

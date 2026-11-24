@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocDerExtK_exists_unique_locDerK
 -- name    : GlobalTheory.LocDerExtK.exists_unique_locDerK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:12:33.248719+00:00
 -- url     : https://prove2.me/theorems/454d4d80-78f6-4149-9d76-c8fbb41f35f0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_hasSum_split_shift
 -- name    : GlobalTheory.HilbFam.hasSum_split_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:21:10.652738+00:00
 -- url     : https://prove2.me/theorems/3485e683-4557-438f-85f1-160cdb1df192

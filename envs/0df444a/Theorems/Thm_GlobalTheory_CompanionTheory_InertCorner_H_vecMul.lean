@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertCorner_H_vecMul
 -- name    : GlobalTheory.CompanionTheory.InertCorner.H_vecMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:00:34.512901+00:00
 -- url     : https://prove2.me/theorems/e0942998-0296-4e84-96cf-f5b1ea8c9705

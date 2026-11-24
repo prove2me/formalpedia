@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FourierChainCompare_denominators_iff
 -- name    : GlobalTheory.FourierChainCompare.denominators_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:54:16.327162+00:00
 -- url     : https://prove2.me/theorems/6ec98876-870d-46b8-9f35-7b0d1700e91f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_IsZonal_isSpherical
 -- name    : GlobalTheory.LGrp.IsZonal.isSpherical
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:56:10.540872+00:00
 -- url     : https://prove2.me/theorems/d28df34c-fdb0-490e-b2f5-66a569b69a39

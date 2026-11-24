@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeTorsion_prop_powObj
 -- name    : GlobalTheory.LatticeTorsion.prop_powObj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:02:03.425731+00:00
 -- url     : https://prove2.me/theorems/76c08334-0931-4050-932f-cbb5853623dc

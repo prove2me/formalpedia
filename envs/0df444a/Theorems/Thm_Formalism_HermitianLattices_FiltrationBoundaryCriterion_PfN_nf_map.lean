@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_FiltrationBoundaryCriterion_PfN_nf_map
 -- name    : Formalism.HermitianLattices.FiltrationBoundaryCriterion.PfN.nf_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:48:56.446955+00:00
 -- url     : https://prove2.me/theorems/33e40970-ba05-4947-864e-719df96fa038

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MinorPolynomials_qDl_deg
 -- name    : Formalism.FourierDecayAlt.P.MinorPolynomials.qDl_deg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:34:33.68579+00:00
 -- url     : https://prove2.me/theorems/52750d68-ccb0-438f-ae33-3db51fa7c4e9

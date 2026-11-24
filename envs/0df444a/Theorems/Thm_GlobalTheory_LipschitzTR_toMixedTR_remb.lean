@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_toMixedTR_remb
 -- name    : GlobalTheory.LipschitzTR.toMixedTR_remb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:13:07.834898+00:00
 -- url     : https://prove2.me/theorems/ebb1aaef-838d-4e22-8d32-812f5b8c4347

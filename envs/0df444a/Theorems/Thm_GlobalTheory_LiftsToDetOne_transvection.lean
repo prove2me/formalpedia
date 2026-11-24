@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LiftsToDetOne_transvection
 -- name    : GlobalTheory.LiftsToDetOne.transvection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:04:50.633839+00:00
 -- url     : https://prove2.me/theorems/d5cd3529-f34c-47ec-ad15-818524f1bfe7

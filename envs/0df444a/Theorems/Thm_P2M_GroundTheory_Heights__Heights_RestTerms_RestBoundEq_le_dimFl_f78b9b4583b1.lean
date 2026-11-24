@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_RestBoundEq_le_dimFl_f78b9b4583b1
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_RestBoundEq_le_dimFl_f78b9b4583b1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:38:57.793801+00:00
 -- url     : https://prove2.me/theorems/bace6181-bbbc-4bdf-a56a-8523da66c0c3

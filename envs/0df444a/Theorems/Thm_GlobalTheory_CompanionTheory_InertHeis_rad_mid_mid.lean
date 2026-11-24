@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertHeis_rad_mid_mid
 -- name    : GlobalTheory.CompanionTheory.InertHeis.rad_mid_mid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:49:15.066566+00:00
 -- url     : https://prove2.me/theorems/6dbb0e6b-4fa8-452e-9fa5-0d4c53135b3b

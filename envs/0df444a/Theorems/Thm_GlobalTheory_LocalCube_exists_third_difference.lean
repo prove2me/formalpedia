@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalCube_exists_third_difference
 -- name    : GlobalTheory.LocalCube.exists_third_difference
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:14:09.229271+00:00
 -- url     : https://prove2.me/theorems/4393505b-d504-48c6-88aa-a32b43d815ce

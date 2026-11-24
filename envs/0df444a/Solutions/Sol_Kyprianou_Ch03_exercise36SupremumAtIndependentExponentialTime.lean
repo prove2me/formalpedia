@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.exercise36SupremumAtIndependentExponentialTime
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-18T15:55:54.004902+00:00
 -- url     : https://prove2.me/submissions/d6f831f2-6cdd-45b1-b07a-a22661b255f8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

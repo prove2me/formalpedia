@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_Pair_lat_eq
 -- name    : GlobalTheory.LatPair.Pair.lat_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:58:34.296272+00:00
 -- url     : https://prove2.me/theorems/7d0f99b4-45a0-405f-ae18-638a9509670f

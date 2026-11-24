@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LaurentConst_constantCoeff_scaleP
 -- name    : GlobalTheory.LaurentConst.constantCoeff_scaleP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:01:37.20825+00:00
 -- url     : https://prove2.me/theorems/4b9d1b3d-1280-4d5c-ab26-dfe30e5acf7b

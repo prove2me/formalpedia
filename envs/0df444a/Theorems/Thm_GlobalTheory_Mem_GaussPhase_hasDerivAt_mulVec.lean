@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_GaussPhase_hasDerivAt_mulVec
 -- name    : GlobalTheory.Mem.GaussPhase.hasDerivAt_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:23:14.160782+00:00
 -- url     : https://prove2.me/theorems/e6d9e8d3-5c3e-4f95-8246-4ed2e2375237

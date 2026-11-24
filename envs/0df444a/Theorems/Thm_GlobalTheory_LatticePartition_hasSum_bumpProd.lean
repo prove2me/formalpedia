@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticePartition_hasSum_bumpProd
 -- name    : GlobalTheory.LatticePartition.hasSum_bumpProd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:00:32.753796+00:00
 -- url     : https://prove2.me/theorems/40344f8b-9f3d-4367-83dc-5bfa2ab5cc3d

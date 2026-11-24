@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelAllPrimes_add_rt_mul_sub_rt
 -- name    : GlobalTheory.LevelAllPrimes.add_rt_mul_sub_rt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:03:14.564954+00:00
 -- url     : https://prove2.me/theorems/c3e934dc-7e0a-4c89-b04d-ef84218a8d13

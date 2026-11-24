@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatOrb_selfDual_matLat_stdLat
 -- name    : GlobalTheory.LatOrb.selfDual_matLat_stdLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:58:46.548176+00:00
 -- url     : https://prove2.me/theorems/676995a7-3e1d-4c37-99e5-37fdfc3b0b48

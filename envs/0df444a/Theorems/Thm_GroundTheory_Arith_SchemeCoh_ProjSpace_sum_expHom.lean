@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjSpace_sum_expHom
 -- name    : GroundTheory.Arith.SchemeCoh.ProjSpace.sum_expHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:39:36.4829+00:00
 -- url     : https://prove2.me/theorems/76c78ba0-5f0d-4e43-adca-2211daa25a7a

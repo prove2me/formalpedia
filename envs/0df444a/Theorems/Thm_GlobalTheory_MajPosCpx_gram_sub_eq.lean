@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MajPosCpx_gram_sub_eq
 -- name    : GlobalTheory.MajPosCpx.gram_sub_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:20:34.248865+00:00
 -- url     : https://prove2.me/theorems/c1a68c29-5736-4137-ab47-ab4e1117dc13

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LaurentConst_quot_apply
 -- name    : GlobalTheory.LaurentConst.quot_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:01:04.612657+00:00
 -- url     : https://prove2.me/theorems/da8b87db-375e-4158-a239-5a474969068d

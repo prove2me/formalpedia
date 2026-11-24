@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_exercise36SupremumAtIndependentExponentialTime
 -- name    : Kyprianou.Ch03.exercise36SupremumAtIndependentExponentialTime
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T09:52:13.620767+00:00
 -- url     : https://prove2.me/theorems/a4ebd23e-785e-49d1-bcb9-ebd6fb1a5b55

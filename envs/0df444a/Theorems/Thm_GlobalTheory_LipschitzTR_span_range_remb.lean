@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_span_range_remb
 -- name    : GlobalTheory.LipschitzTR.span_range_remb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:13:02.822507+00:00
 -- url     : https://prove2.me/theorems/189fdfb1-524a-496b-a275-74628600427a

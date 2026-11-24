@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_phiOne_smul
 -- name    : GlobalTheory.LatPair.phiOne_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:08:01.242871+00:00
 -- url     : https://prove2.me/theorems/fa1185c8-25ee-4a45-8ec4-8da5f585b6d6

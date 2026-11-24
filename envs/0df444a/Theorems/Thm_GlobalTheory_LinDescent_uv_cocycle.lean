@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinDescent_uv_cocycle
 -- name    : GlobalTheory.LinDescent.uv_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:07:37.709021+00:00
 -- url     : https://prove2.me/theorems/c0ffc0c6-caf1-4ecf-96b8-d910a25abac3

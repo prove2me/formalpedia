@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lyndon_isLyndon_singleton
 -- name    : GlobalTheory.Lyndon.isLyndon_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:19:57.656799+00:00
 -- url     : https://prove2.me/theorems/571f94e9-afa2-4480-9c79-18544aa3fd3b

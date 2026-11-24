@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevCover_ClopenCond_forall_of_finite
 -- name    : GlobalTheory.LevCover.ClopenCond.forall_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:01:52.202354+00:00
 -- url     : https://prove2.me/theorems/30bb8278-8dda-414a-a128-999cf49b5456

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelPairing_dvd_left
 -- name    : GlobalTheory.LevelPairing.dvd_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:03:20.242866+00:00
 -- url     : https://prove2.me/theorems/1b8e7b81-91ac-478e-a0e5-0248cb1a226e

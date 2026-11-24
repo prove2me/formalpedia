@@ -47752,10 +47752,10 @@
 {"parent": "IAFTRL.lemma_C_37_scalar_moments", "child": "IAFTRL_beta", "via": ["solution", "statement"]}
 {"parent": "IAFTRL.lemma_C_37_scalar_moments", "child": "IAFTRL_cR", "via": ["solution", "statement"]}
 {"parent": "DetANN.HPIM.bisect_spec", "child": "DetANN_HPIMFormat", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch03.esscherCanonicalGlobalExtension", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.esscherCanonicalGlobalExtension", "child": "Kyprianou_Ch03_EsscherDensity", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.esscherCanonicalGlobalExtension", "child": "PerfCorrMSQ_NaturalFiltration", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.esscherCanonicalGlobalExtension", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
+{"parent": "Kyprianou.Ch03.esscherCanonicalGlobalExtension", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.esscherCanonicalGlobalExtension", "child": "Kyprianou_Ch03_EsscherDensity", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.esscherCanonicalGlobalExtension", "child": "PerfCorrMSQ_NaturalFiltration", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.esscherCanonicalGlobalExtension", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "SingleCopyMoments.Adaptive.Supplement.fixed_rank_spectrum_estimation", "child": "SingleCopyMoments_Adaptive_Supplement_Spectra", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg2057", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "SetDefinedGraphs_Supplement_PathClauseClass", "child": "SetDefinedGraphs_realisation", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LaplaceStrip_laplace_entire_boundedInStrips
 -- name    : GlobalTheory.LaplaceStrip.laplace_entire_boundedInStrips
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:57:42.071066+00:00
 -- url     : https://prove2.me/theorems/8cb8a88a-003e-4e7e-a1f3-0cab061bafd2

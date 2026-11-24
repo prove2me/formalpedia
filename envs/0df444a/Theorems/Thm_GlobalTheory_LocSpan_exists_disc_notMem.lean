@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocSpan_exists_disc_notMem
 -- name    : GlobalTheory.LocSpan.exists_disc_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:14:28.746814+00:00
 -- url     : https://prove2.me/theorems/6d52eb89-f1ab-49cb-8e15-f4be7c9dca04

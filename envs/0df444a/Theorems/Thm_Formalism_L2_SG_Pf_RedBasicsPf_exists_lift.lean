@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_RedBasicsPf_exists_lift
 -- name    : Formalism.L2.SG.Pf.RedBasicsPf.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:27:22.28738+00:00
 -- url     : https://prove2.me/theorems/53aa3768-a50a-403b-b004-757b8927f162

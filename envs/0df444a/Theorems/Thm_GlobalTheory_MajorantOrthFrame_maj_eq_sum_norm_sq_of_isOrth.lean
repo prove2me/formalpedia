@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MajorantOrthFrame_maj_eq_sum_norm_sq_of_isOrth
 -- name    : GlobalTheory.MajorantOrthFrame.maj_eq_sum_norm_sq_of_isOrth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:20:15.954494+00:00
 -- url     : https://prove2.me/theorems/2b9080ee-763c-4821-85db-b1b3e257030d

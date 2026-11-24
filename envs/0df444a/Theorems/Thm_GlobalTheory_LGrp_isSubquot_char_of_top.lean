@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_isSubquot_char_of_top
 -- name    : GlobalTheory.LGrp.isSubquot_char_of_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:55:56.656174+00:00
 -- url     : https://prove2.me/theorems/90628653-5e39-4154-b27e-80d0dcf0319a

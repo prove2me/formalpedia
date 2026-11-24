@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilMix_ptrB_isTest
 -- name    : GlobalTheory.JR.WeilMix.ptrB_isTest
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:37:16.709127+00:00
 -- url     : https://prove2.me/theorems/137f4109-0e25-486e-b5cd-cfc75b8cf322

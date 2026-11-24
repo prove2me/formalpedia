@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelUnimod_smul_inj
 -- name    : GlobalTheory.LevelUnimod.smul_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:03:11.478504+00:00
 -- url     : https://prove2.me/theorems/6ea017cb-6035-493f-baa9-5431a306140b

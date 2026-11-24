@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntSeries_main
 -- name    : GlobalTheory.IntSeries.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:08:31.860476+00:00
 -- url     : https://prove2.me/theorems/5a1d52e2-b4a5-4832-aa37-7d7e8ace617d

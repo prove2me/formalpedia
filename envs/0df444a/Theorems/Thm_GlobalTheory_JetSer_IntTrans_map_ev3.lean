@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_IntTrans_map_ev3
 -- name    : GlobalTheory.JetSer.IntTrans.map_ev3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:42:39.351427+00:00
 -- url     : https://prove2.me/theorems/d6054d8f-2670-4cb1-a03f-8bd05f482cac

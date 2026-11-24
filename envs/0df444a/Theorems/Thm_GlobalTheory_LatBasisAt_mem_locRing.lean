@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatBasisAt_mem_locRing
 -- name    : GlobalTheory.LatBasisAt.mem_locRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:13:06.118816+00:00
 -- url     : https://prove2.me/theorems/12fc5fba-6d73-44be-8ad1-5fa354669709

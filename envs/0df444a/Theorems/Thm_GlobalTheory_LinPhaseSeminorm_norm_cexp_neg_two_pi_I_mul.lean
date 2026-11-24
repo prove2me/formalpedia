@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinPhaseSeminorm_norm_cexp_neg_two_pi_I_mul
 -- name    : GlobalTheory.LinPhaseSeminorm.norm_cexp_neg_two_pi_I_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:07:14.496061+00:00
 -- url     : https://prove2.me/theorems/7490da21-5268-4e47-9df4-8b6d57aa2b6c

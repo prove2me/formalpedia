@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_Repulsion_one_le_ord
 -- name    : GlobalTheory.Lin.Repulsion.one_le_ord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:06:17.131868+00:00
 -- url     : https://prove2.me/theorems/887e86e7-37ff-44ba-9a00-303123cf08c6

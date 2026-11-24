@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LowestWeight_finite_lminor
 -- name    : GlobalTheory.LowestWeight.finite_lminor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:19:46.107866+00:00
 -- url     : https://prove2.me/theorems/b84c349c-bbba-4330-8627-22bdb54c2751

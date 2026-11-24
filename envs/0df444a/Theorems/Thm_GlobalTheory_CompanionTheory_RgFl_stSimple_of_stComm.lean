@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgFl_stSimple_of_stComm
 -- name    : GlobalTheory.CompanionTheory.RgFl.stSimple_of_stComm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:59:50.606427+00:00
 -- url     : https://prove2.me/theorems/945f7761-eb31-4462-8212-77c9b1e624c6

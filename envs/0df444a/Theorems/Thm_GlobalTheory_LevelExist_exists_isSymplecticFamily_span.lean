@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelExist_exists_isSymplecticFamily_span
 -- name    : GlobalTheory.LevelExist.exists_isSymplecticFamily_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:03:36.473262+00:00
 -- url     : https://prove2.me/theorems/7ecebd6e-6813-4867-a20c-2362dd68a2b7

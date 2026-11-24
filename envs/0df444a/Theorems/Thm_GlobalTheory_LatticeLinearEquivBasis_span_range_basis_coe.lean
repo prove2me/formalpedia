@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeLinearEquivBasis_span_range_basis_coe
 -- name    : GlobalTheory.LatticeLinearEquivBasis.span_range_basis_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:00:22.191454+00:00
 -- url     : https://prove2.me/theorems/baca9d93-b955-41b3-8a88-6f5f7395ba65

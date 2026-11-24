@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LineCos_hform_self
 -- name    : GlobalTheory.LineCos.hform_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:07:24.278747+00:00
 -- url     : https://prove2.me/theorems/3d0bf4fa-3764-4b59-a78d-7bbe620ebac6

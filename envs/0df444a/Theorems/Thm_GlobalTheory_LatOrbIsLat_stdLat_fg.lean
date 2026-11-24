@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatOrbIsLat_stdLat_fg
 -- name    : GlobalTheory.LatOrbIsLat.stdLat_fg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:58:51.761866+00:00
 -- url     : https://prove2.me/theorems/eec5f44c-e824-4297-8f83-e592518fd959

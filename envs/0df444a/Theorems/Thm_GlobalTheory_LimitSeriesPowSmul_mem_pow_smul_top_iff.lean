@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LimitSeriesPowSmul_mem_pow_smul_top_iff
 -- name    : GlobalTheory.LimitSeriesPowSmul.mem_pow_smul_top_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:04:37.955103+00:00
 -- url     : https://prove2.me/theorems/b2d8d0ef-e3c9-4895-9fbc-ab207bad8a34

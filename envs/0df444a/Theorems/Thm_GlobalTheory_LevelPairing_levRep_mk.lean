@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelPairing_levRep_mk
 -- name    : GlobalTheory.LevelPairing.levRep_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:02:40.569796+00:00
 -- url     : https://prove2.me/theorems/10df1afc-07c2-4e8e-ad1e-669babfdb745

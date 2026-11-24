@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocMod_Inhab_invariant_of_tsupport
 -- name    : GlobalTheory.LocMod.Inhab.invariant_of_tsupport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:14:05.649239+00:00
 -- url     : https://prove2.me/theorems/ae62b02e-8459-4360-8584-7e89f322b8a9

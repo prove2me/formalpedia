@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeibnizProd_norm_iteratedFDeriv_comp_apply_le
 -- name    : GlobalTheory.LeibnizProd.norm_iteratedFDeriv_comp_apply_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:01:12.225452+00:00
 -- url     : https://prove2.me/theorems/4888c78c-ac7d-423f-817b-07d5ab99a097

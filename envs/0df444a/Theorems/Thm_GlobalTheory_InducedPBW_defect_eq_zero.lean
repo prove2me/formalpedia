@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InducedPBW_defect_eq_zero
 -- name    : GlobalTheory.InducedPBW.defect_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:15:17.809587+00:00
 -- url     : https://prove2.me/theorems/ea73b474-e219-4395-9467-45b39dab7667

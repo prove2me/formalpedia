@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_finite_setOf_valued_ne_one
 -- name    : GlobalTheory.LocalQuad.finite_setOf_valued_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:18:56.37242+00:00
 -- url     : https://prove2.me/theorems/36e5e904-221b-4a0d-bd19-f042ca9b60cf

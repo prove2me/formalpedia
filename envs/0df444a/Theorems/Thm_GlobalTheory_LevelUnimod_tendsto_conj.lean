@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelUnimod_tendsto_conj
 -- name    : GlobalTheory.LevelUnimod.tendsto_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:03:20.286244+00:00
 -- url     : https://prove2.me/theorems/bd4e5a34-90e5-448b-8f70-40c515c5954b

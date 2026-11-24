@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_discr_norm_eq_of_points
 -- name    : GlobalTheory.KeyKa.discr_norm_eq_of_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:49:15.166397+00:00
 -- url     : https://prove2.me/theorems/c5538aa1-6490-412c-b587-21953a4d6930

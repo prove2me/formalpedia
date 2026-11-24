@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_HeisCoord_mul_coords
 -- name    : GlobalTheory.InertZeta.HeisCoord.mul_coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:22:08.975459+00:00
 -- url     : https://prove2.me/theorems/b948dae1-a8b3-4584-b4f7-df8c0c82bb76

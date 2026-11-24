@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KronMetric_inv_lact
 -- name    : GlobalTheory.KronMetric.inv_lact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:04:21.114556+00:00
 -- url     : https://prove2.me/theorems/02f041d1-c65a-4070-84a9-6c5f14be6725

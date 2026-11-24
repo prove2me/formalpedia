@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_NonPrimeVonMangoldt_summable_nonPrime_vonMangoldt_div_rpow
 -- name    : GlobalTheory.Lin.NonPrimeVonMangoldt.summable_nonPrime_vonMangoldt_div_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:06:24.811418+00:00
 -- url     : https://prove2.me/theorems/9bd2bacf-f9c0-4776-b9e7-420684eb6744

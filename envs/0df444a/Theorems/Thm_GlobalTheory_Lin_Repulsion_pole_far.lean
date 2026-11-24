@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_Repulsion_pole_far
 -- name    : GlobalTheory.Lin.Repulsion.pole_far
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:07:17.107541+00:00
 -- url     : https://prove2.me/theorems/23ac3274-847d-4244-9da2-b5b1311b9b89

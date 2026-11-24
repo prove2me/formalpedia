@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThinShellSampling_eq_1_3
 -- name    : ThinShellSampling.eq_1_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T04:46:06.232722+00:00
 -- url     : https://prove2.me/theorems/60342000-804f-458f-b06f-d5bc435d5a3e

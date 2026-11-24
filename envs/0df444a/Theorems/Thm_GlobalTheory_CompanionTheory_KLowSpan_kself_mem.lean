@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KLowSpan_kself_mem
 -- name    : GlobalTheory.CompanionTheory.KLowSpan.kself_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:12:53.706801+00:00
 -- url     : https://prove2.me/theorems/533fd83d-3cf3-4380-afb3-f79c43898f97

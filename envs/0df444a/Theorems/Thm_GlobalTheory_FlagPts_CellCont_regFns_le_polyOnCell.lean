@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagPts_CellCont_regFns_le_polyOnCell
 -- name    : GlobalTheory.FlagPts.CellCont.regFns_le_polyOnCell
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:52:55.967804+00:00
 -- url     : https://prove2.me/theorems/08842880-22f0-48d3-b152-3d1ce189905d

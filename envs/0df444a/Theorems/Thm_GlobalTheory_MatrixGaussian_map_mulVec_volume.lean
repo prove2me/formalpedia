@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatrixGaussian_map_mulVec_volume
 -- name    : GlobalTheory.MatrixGaussian.map_mulVec_volume
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:21:40.499822+00:00
 -- url     : https://prove2.me/theorems/beeabca6-d46d-4a3f-bdae-d365e4278572

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_hasDerivAt_left_derivative_pairing_x
 -- name    : Formalism.FourierDecayAlt.P.B6.hasDerivAt_left_derivative_pairing_x
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:02:04.155536+00:00
 -- url     : https://prove2.me/theorems/c7e720bc-cf0f-421f-bbaa-b1aec73f201c

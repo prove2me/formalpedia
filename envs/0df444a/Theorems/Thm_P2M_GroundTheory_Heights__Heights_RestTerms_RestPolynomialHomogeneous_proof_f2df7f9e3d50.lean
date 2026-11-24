@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_RestPolynomialHomogeneous_proof_f2df7f9e3d50
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_RestPolynomialHomogeneous_proof_f2df7f9e3d50
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:38:42.658431+00:00
 -- url     : https://prove2.me/theorems/3b491f96-444e-4a9d-94ad-127b91c8c981

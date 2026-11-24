@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_exists_sub_mem_of_dense
 -- name    : GlobalTheory.KeyKa.exists_sub_mem_of_dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:49:21.904806+00:00
 -- url     : https://prove2.me/theorems/624dde1d-9d03-4606-86c1-dbfe350da02f

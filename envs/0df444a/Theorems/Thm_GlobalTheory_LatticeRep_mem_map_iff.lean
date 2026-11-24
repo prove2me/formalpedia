@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeRep_mem_map_iff
 -- name    : GlobalTheory.LatticeRep.mem_map_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:01:15.024804+00:00
 -- url     : https://prove2.me/theorems/d691231a-cca3-43ce-b0d2-e999287cd519

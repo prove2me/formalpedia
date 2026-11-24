@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelPairing_mem_of_dvd
 -- name    : GlobalTheory.LevelPairing.mem_of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:02:53.116836+00:00
 -- url     : https://prove2.me/theorems/744a669a-a7df-4fc0-b5b1-4b4febe3e3a4

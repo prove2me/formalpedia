@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinDescent_section_eq_one_of_isReduced
 -- name    : GlobalTheory.LinDescent.section_eq_one_of_isReduced
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:09:33.256297+00:00
 -- url     : https://prove2.me/theorems/7a99fb2b-ca8c-4128-805c-071dd0a007d1

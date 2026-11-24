@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_stabilizer_factorization
 -- name    : Formalism.FourierDecayAlt.P.stabilizer_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:23:42.319302+00:00
 -- url     : https://prove2.me/theorems/e88928c3-7093-4e63-bc21-796b5dc9acbb

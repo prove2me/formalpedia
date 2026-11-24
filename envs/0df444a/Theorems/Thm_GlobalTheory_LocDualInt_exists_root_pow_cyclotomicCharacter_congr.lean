@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocDualInt_exists_root_pow_cyclotomicCharacter_congr
 -- name    : GlobalTheory.LocDualInt.exists_root_pow_cyclotomicCharacter_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:14:36.027865+00:00
 -- url     : https://prove2.me/theorems/6c5d5211-851f-43a2-88d2-840d3eaa87f5

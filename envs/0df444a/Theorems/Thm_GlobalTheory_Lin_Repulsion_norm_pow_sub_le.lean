@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_Repulsion_norm_pow_sub_le
 -- name    : GlobalTheory.Lin.Repulsion.norm_pow_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:07:16.267605+00:00
 -- url     : https://prove2.me/theorems/0cfaec0e-e414-468f-ad8c-5ac60840f5a1

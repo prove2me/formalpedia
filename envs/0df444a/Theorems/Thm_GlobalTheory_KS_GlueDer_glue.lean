@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_GlueDer_glue
 -- name    : GlobalTheory.KS.GlueDer.glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:44:15.909817+00:00
 -- url     : https://prove2.me/theorems/9c1140da-f9f8-4129-a3ba-ea8e2c5f8465

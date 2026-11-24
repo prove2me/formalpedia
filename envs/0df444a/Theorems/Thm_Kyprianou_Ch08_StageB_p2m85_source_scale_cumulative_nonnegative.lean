@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m85_source_scale_cumulative_nonnegative
 -- name    : Kyprianou.Ch08.StageB.p2m85_source_scale_cumulative_nonnegative
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T17:58:08.025599+00:00
 -- url     : https://prove2.me/theorems/ba51b2a4-f2a7-4cc2-9e02-05805c931d5f

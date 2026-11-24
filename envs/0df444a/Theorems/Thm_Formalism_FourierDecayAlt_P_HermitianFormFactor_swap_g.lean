@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormFactor_swap_g
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormFactor.swap_g
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:15:45.913546+00:00
 -- url     : https://prove2.me/theorems/48974a79-12ce-4af3-8d7a-191a7698adbf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_flagIntegralReal_map_68b8ee4ccd2f
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_flagIntegralReal_map_68b8ee4ccd2f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:46:18.079834+00:00
 -- url     : https://prove2.me/theorems/8271289a-206b-42dc-b01c-a1f592b64b2b

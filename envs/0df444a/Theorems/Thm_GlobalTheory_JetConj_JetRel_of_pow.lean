@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetConj_JetRel_of_pow
 -- name    : GlobalTheory.JetConj.JetRel.of_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:40:10.673867+00:00
 -- url     : https://prove2.me/theorems/e6340221-fc2f-4de5-99d2-a07619ef881f

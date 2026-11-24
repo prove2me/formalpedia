@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LowestKType_aMinus_rev
 -- name    : GlobalTheory.LowestKType.aMinus_rev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:18:55.27136+00:00
 -- url     : https://prove2.me/theorems/8d7e733c-0979-42dc-a11e-e3d72cbb80d4

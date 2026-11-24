@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticePartition_bump_contDiff
 -- name    : GlobalTheory.LatticePartition.bump_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:00:32.31302+00:00
 -- url     : https://prove2.me/theorems/1ffbe95b-a1ba-4cb7-a258-d12d93a39777

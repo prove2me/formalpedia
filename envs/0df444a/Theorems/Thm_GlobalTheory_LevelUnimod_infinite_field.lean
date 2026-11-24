@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelUnimod_infinite_field
 -- name    : GlobalTheory.LevelUnimod.infinite_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:03:06.85041+00:00
 -- url     : https://prove2.me/theorems/1aa8fbfb-8164-475b-b922-6a39f23a7cf6

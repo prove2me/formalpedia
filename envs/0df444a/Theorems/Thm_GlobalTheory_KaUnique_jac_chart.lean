@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KaUnique_jac_chart
 -- name    : GlobalTheory.KaUnique.jac_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:47:53.766293+00:00
 -- url     : https://prove2.me/theorems/a01da77c-f5e9-43af-8dd5-f5e0c4d56f6c

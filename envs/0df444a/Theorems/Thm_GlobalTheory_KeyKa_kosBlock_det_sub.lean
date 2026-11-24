@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_kosBlock_det_sub
 -- name    : GlobalTheory.KeyKa.kosBlock_det_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:50:35.019216+00:00
 -- url     : https://prove2.me/theorems/fcb187d4-3212-4fbd-a233-634ece954b26

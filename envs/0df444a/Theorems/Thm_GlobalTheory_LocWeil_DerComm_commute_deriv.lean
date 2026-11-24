@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocWeil_DerComm_commute_deriv
 -- name    : GlobalTheory.LocWeil.DerComm.commute_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:13:48.204933+00:00
 -- url     : https://prove2.me/theorems/b2e0d376-9b43-4fbe-a2d1-cd1423ffd82b

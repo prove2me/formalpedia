@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaximalMinor_det_ne_zero_of_linearIndependent
 -- name    : GlobalTheory.MaximalMinor.det_ne_zero_of_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:21:05.996107+00:00
 -- url     : https://prove2.me/theorems/40bc9397-2ffe-4499-b695-ab7354ae57bb

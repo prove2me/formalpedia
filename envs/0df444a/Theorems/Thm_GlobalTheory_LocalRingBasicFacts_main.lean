@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalRingBasicFacts_main
 -- name    : GlobalTheory.LocalRingBasicFacts.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:13:55.020806+00:00
 -- url     : https://prove2.me/theorems/adc39501-a5dc-435c-aa25-12c87c491270

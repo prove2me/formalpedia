@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoByOneBlock_push_calc
 -- name    : Formalism.FourierDecayAlt.P.TwoByOneBlock.push_calc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:22:50.269627+00:00
 -- url     : https://prove2.me/theorems/5e69cc8e-aff9-4975-ba79-a5c407c155f9

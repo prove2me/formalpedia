@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Step_EmbClosed_isClosedEmbedding_emb
 -- name    : GlobalTheory.JR.Step.EmbClosed.isClosedEmbedding_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:35:38.784552+00:00
 -- url     : https://prove2.me/theorems/d298e391-5a5c-4052-a7ca-eaa3784c9454

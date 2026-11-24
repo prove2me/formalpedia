@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalizationIntegrallyClosedDomain_noZeroDivisors
 -- name    : GlobalTheory.LocalizationIntegrallyClosedDomain.noZeroDivisors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:16:48.205217+00:00
 -- url     : https://prove2.me/theorems/eb6b8a78-1551-4d15-992c-753855b26374

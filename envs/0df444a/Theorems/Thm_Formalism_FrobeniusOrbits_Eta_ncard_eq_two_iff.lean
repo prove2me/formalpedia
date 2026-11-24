@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Eta_ncard_eq_two_iff
 -- name    : Formalism.FrobeniusOrbits.Eta.ncard_eq_two_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:13:20.143188+00:00
 -- url     : https://prove2.me/theorems/d6979f91-dedb-4f64-9fd4-9bfb1b54fe40

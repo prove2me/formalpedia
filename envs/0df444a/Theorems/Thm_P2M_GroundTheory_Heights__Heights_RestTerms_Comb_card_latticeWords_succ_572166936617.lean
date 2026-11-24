@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Comb_card_latticeWords_succ_572166936617
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Comb_card_latticeWords_succ_572166936617
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:23:50.011423+00:00
 -- url     : https://prove2.me/theorems/f2b952e5-8393-4256-9028-50561776f0e9

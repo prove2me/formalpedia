@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeibnizProd_sum_sym_le
 -- name    : GlobalTheory.LeibnizProd.sum_sym_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:01:17.640116+00:00
 -- url     : https://prove2.me/theorems/fa309534-aebb-42e1-8443-e23162571f1a

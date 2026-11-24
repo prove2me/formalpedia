@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KLowSpan_klower_mem
 -- name    : GlobalTheory.CompanionTheory.KLowSpan.klower_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:14:05.052891+00:00
 -- url     : https://prove2.me/theorems/eeabbee1-2a75-4191-bb4f-d42227351f11

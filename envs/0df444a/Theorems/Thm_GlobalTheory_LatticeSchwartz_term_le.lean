@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeSchwartz_term_le
 -- name    : GlobalTheory.LatticeSchwartz.term_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:01:25.724731+00:00
 -- url     : https://prove2.me/theorems/518e3f56-288b-4e49-a8e3-adc71948df9f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalRingGeneralisation_flat_fromSpecStalk
 -- name    : GlobalTheory.LocalRingGeneralisation.flat_fromSpecStalk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:18:55.133946+00:00
 -- url     : https://prove2.me/theorems/0d7d854e-4e7c-46bf-abea-4903156cd2f0

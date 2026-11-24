@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_RowSpan_rho_mul
 -- name    : GlobalTheory.InertZeta.RowSpan.rho_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:19:10.184012+00:00
 -- url     : https://prove2.me/theorems/87b0121d-d3af-4d1b-93d1-8d05e30e25c3

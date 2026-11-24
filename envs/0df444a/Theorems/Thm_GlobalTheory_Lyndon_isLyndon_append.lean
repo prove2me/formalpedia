@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lyndon_isLyndon_append
 -- name    : GlobalTheory.Lyndon.isLyndon_append
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:19:40.092267+00:00
 -- url     : https://prove2.me/theorems/dd94cff8-3ae6-460a-bc35-21e2a174c68b

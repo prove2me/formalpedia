@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KronMetric_exp_neg_phla
 -- name    : GlobalTheory.KronMetric.exp_neg_phla
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:05:35.781106+00:00
 -- url     : https://prove2.me/theorems/f484bc7a-f808-4ae6-b2f7-ebc08aa413ac

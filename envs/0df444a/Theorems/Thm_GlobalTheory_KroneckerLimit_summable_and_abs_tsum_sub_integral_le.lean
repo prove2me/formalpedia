@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KroneckerLimit_summable_and_abs_tsum_sub_integral_le
 -- name    : GlobalTheory.KroneckerLimit.summable_and_abs_tsum_sub_integral_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:54:25.87899+00:00
 -- url     : https://prove2.me/theorems/ed733fba-e044-4d39-986c-5700594ba7d8

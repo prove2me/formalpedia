@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LineThrough_eval_zero_lineMap
 -- name    : GlobalTheory.LineThrough.eval_zero_lineMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:11:21.30898+00:00
 -- url     : https://prove2.me/theorems/06440eac-7526-409d-8106-d68e047ab335

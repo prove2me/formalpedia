@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WaDiag_p3
 -- name    : WaDiag.p3
--- status  : Open
+-- status  : Proved
 -- author  : @mwm
 -- created : 2026-11-22T19:20:52.548674+00:00
 -- url     : https://prove2.me/theorems/63519b0b-0504-4849-815b-0c904650ed7c

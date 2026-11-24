@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_PsiToPi_cnt_eq
 -- name    : GlobalTheory.Lin.PsiToPi.cnt_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:05:43.162849+00:00
 -- url     : https://prove2.me/theorems/bcaa1ed0-7b68-449d-91e7-f4137d49c47e

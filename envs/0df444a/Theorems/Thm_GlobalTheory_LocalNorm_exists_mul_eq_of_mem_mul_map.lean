@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalNorm_exists_mul_eq_of_mem_mul_map
 -- name    : GlobalTheory.LocalNorm.exists_mul_eq_of_mem_mul_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:16:52.774327+00:00
 -- url     : https://prove2.me/theorems/7a09a2e1-1e06-4f18-a990-8362057688c7

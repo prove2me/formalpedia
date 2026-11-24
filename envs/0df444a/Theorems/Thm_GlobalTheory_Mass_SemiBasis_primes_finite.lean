@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_SemiBasis_primes_finite
 -- name    : GlobalTheory.Mass.SemiBasis.primes_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:19:56.499808+00:00
 -- url     : https://prove2.me/theorems/32c1ebb1-d13a-4e7c-b06d-15c362d956b3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Koecher_exists_bound_of_unit_periods
 -- name    : GlobalTheory.Koecher.exists_bound_of_unit_periods
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:49:04.355418+00:00
 -- url     : https://prove2.me/theorems/ce16a96d-2cfc-4de2-99b2-52c6ee08c5c9

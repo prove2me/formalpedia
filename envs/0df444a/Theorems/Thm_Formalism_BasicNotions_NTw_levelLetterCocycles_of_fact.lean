@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BasicNotions_NTw_levelLetterCocycles_of_fact
 -- name    : Formalism.BasicNotions.NTw.levelLetterCocycles_of_fact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:34:22.96309+00:00
 -- url     : https://prove2.me/theorems/1f6fc467-9695-4753-81e9-62ce737546eb

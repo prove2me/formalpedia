@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_HeisCoord_form_eq_of
 -- name    : GlobalTheory.InertZeta.HeisCoord.form_eq_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:17:44.099291+00:00
 -- url     : https://prove2.me/theorems/7d0d41b9-5142-4657-ad74-711d020c4cbf

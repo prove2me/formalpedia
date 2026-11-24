@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCRuleCW_leib
 -- name    : CCRuleCW.leib
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:33:39.434716+00:00
 -- url     : https://prove2.me/theorems/1580326a-5c16-4f63-8d6d-6cfac13173e5

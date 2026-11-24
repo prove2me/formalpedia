@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_Mram_ne_bot
 -- name    : GlobalTheory.LatPair.Mram_ne_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:58:31.154858+00:00
 -- url     : https://prove2.me/theorems/50172acf-47a9-46eb-9ec8-e9d6715b1d31

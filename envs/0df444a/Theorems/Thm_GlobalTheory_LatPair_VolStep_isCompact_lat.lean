@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_VolStep_isCompact_lat
 -- name    : GlobalTheory.LatPair.VolStep.isCompact_lat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:00:07.844893+00:00
 -- url     : https://prove2.me/theorems/33cb0e22-d2cf-49c2-9516-a35fde35334c

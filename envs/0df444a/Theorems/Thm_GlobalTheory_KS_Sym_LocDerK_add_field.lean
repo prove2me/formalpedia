@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Sym_LocDerK_add_field
 -- name    : GlobalTheory.KS.Sym.LocDerK_add_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:44:54.098318+00:00
 -- url     : https://prove2.me/theorems/20f96164-6adb-4629-84b1-44a888dbc9d8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinDescent_locTransitive_of_isGaloisCover
 -- name    : GlobalTheory.LinDescent.locTransitive_of_isGaloisCover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:08:38.911981+00:00
 -- url     : https://prove2.me/theorems/b377576a-bef6-4479-9770-4a94af60269c

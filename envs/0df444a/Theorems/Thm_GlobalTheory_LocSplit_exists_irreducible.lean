@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocSplit_exists_irreducible
 -- name    : GlobalTheory.LocSplit.exists_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:14:19.917799+00:00
 -- url     : https://prove2.me/theorems/665d4aef-cfec-4178-8e6a-9f99490d4142

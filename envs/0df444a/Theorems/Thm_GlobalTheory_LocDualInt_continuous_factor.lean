@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocDualInt_continuous_factor
 -- name    : GlobalTheory.LocDualInt.continuous_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:14:32.177266+00:00
 -- url     : https://prove2.me/theorems/89884dd4-c3e5-40a0-bc4e-42634c9fb1db

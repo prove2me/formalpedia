@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevQuot_exists_geomPoint
 -- name    : GlobalTheory.LevQuot.exists_geomPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:03:06.791557+00:00
 -- url     : https://prove2.me/theorems/93583f97-8f5f-437b-9f15-0e8ebf3231bc

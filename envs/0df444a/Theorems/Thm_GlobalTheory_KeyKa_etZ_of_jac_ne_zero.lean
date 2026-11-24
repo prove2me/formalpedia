@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_etZ_of_jac_ne_zero
 -- name    : GlobalTheory.KeyKa.etZ_of_jac_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:50:23.004951+00:00
 -- url     : https://prove2.me/theorems/bb3821d2-60ee-4f40-aecd-005269168373

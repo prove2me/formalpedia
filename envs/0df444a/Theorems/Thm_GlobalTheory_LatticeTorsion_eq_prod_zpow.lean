@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeTorsion_eq_prod_zpow
 -- name    : GlobalTheory.LatticeTorsion.eq_prod_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:02:08.124901+00:00
 -- url     : https://prove2.me/theorems/ff0bf6fc-bdbd-4f50-95b7-779d1a4d5681

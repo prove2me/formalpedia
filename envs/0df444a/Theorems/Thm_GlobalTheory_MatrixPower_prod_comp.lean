@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatrixPower_prod_comp
 -- name    : GlobalTheory.MatrixPower.prod_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:21:40.652805+00:00
 -- url     : https://prove2.me/theorems/3f499bd7-374c-40cd-948b-956a6f2c2ee9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameCompletion_conjT_gramQ
 -- name    : GlobalTheory.FrameCompletion.conjT_gramQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:04:46.095122+00:00
 -- url     : https://prove2.me/theorems/6fba1cc6-63d7-415a-bd65-79bcb1b349b5

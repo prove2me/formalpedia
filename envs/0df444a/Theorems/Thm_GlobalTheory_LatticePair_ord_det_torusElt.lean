@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticePair_ord_det_torusElt
 -- name    : GlobalTheory.LatticePair.ord_det_torusElt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:01:51.48223+00:00
 -- url     : https://prove2.me/theorems/9790f313-5192-4302-a381-94c60365c486

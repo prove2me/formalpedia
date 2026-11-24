@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_RedBasicsPf_natCast_mem
 -- name    : Formalism.L2.SG.Pf.RedBasicsPf.natCast_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:27:32.572985+00:00
 -- url     : https://prove2.me/theorems/e04dc8ce-1b39-40f5-8c65-116ce573c6d3

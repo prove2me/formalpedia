@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_blk_rev_of_eq
 -- name    : GlobalTheory.InertZeta.blk_rev_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:19:16.136268+00:00
 -- url     : https://prove2.me/theorems/41cb61a9-b0d2-470b-be9c-56fd580210c6

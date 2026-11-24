@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdealChain_isHalfPow_nabs
 -- name    : GlobalTheory.IdealChain.isHalfPow_nabs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:12:39.253798+00:00
 -- url     : https://prove2.me/theorems/14ec499d-04e3-4b79-ada6-86450ec29361

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Primitive_app_pbT
 -- name    : GlobalTheory.KS.Primitive.app_pbT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:45:11.472951+00:00
 -- url     : https://prove2.me/theorems/0867b93c-84f5-45af-849b-1844950bc23b

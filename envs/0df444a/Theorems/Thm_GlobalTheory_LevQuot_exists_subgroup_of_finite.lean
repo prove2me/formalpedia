@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevQuot_exists_subgroup_of_finite
 -- name    : GlobalTheory.LevQuot.exists_subgroup_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:03:23.971101+00:00
 -- url     : https://prove2.me/theorems/5a6da5d0-9f49-409e-a9cc-ae4c58c18379

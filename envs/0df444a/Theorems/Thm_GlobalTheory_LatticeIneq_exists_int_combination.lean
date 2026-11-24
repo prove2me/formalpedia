@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeIneq_exists_int_combination
 -- name    : GlobalTheory.LatticeIneq.exists_int_combination
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:59:57.440833+00:00
 -- url     : https://prove2.me/theorems/48e3022f-105a-4426-97c1-e3b9680497c9

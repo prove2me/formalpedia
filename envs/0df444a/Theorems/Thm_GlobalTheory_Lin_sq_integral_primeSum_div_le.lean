@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_sq_integral_primeSum_div_le
 -- name    : GlobalTheory.Lin.sq_integral_primeSum_div_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:07:13.829856+00:00
 -- url     : https://prove2.me/theorems/3141807b-7e9e-4a0c-9f77-03ce081991c0

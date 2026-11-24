@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertCount_corner_of_small
 -- name    : GlobalTheory.CompanionTheory.InertCount.corner_of_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:02:11.35382+00:00
 -- url     : https://prove2.me/theorems/5329fc48-2633-411e-8316-e767405bd98b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeIndicator_finite_quotient_smul_top
 -- name    : GlobalTheory.LatticeIndicator.finite_quotient_smul_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:00:13.08851+00:00
 -- url     : https://prove2.me/theorems/cb99beac-3cd3-430b-8d52-20d75493b8db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeSumOne_exists_radius
 -- name    : GlobalTheory.LatticeSumOne.exists_radius
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:01:40.719427+00:00
 -- url     : https://prove2.me/theorems/30a028dc-08be-4284-9f0b-d3d65c0cdeca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_exists_small_dual_lattices
 -- name    : GlobalTheory.JR.exists_small_dual_lattices
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:37:05.001575+00:00
 -- url     : https://prove2.me/theorems/8cd7f410-cff8-4a5c-80f3-d708f2264efb

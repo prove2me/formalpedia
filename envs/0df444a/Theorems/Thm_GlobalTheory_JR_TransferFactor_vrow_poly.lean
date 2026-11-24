@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_TransferFactor_vrow_poly
 -- name    : GlobalTheory.JR.TransferFactor.vrow_poly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:36:59.038328+00:00
 -- url     : https://prove2.me/theorems/b3e7dd91-7051-4e09-b809-18e3ff3cc847

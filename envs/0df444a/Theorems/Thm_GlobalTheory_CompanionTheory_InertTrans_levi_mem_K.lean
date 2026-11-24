@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertTrans_levi_mem_K
 -- name    : GlobalTheory.CompanionTheory.InertTrans.levi_mem_K
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:04:10.566361+00:00
 -- url     : https://prove2.me/theorems/eeb485b5-c71e-4963-86a0-ef4de4da6117

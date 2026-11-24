@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocSpan_exists_coord
 -- name    : GlobalTheory.LocSpan.exists_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:14:11.090871+00:00
 -- url     : https://prove2.me/theorems/8dfee951-b5d9-40c7-99f4-a417e69b94cd

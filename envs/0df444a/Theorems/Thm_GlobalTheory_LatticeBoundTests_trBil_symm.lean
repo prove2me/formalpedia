@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeBoundTests_trBil_symm
 -- name    : GlobalTheory.LatticeBoundTests.trBil_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:58:15.728732+00:00
 -- url     : https://prove2.me/theorems/29416bd9-dc19-48fd-8e6f-3deba254706d

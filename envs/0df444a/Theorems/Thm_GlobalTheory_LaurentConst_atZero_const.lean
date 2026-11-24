@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LaurentConst_atZero_const
 -- name    : GlobalTheory.LaurentConst.atZero_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:01:36.171021+00:00
 -- url     : https://prove2.me/theorems/345e895c-7c27-4cc8-8768-b3253b2723dd

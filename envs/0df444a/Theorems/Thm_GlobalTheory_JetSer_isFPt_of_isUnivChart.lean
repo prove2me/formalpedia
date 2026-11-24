@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_isFPt_of_isUnivChart
 -- name    : GlobalTheory.JetSer.isFPt_of_isUnivChart
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:16:15.248645+00:00
 -- url     : https://prove2.me/theorems/12099600-556d-4d07-ad4b-52a273170303

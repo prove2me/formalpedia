@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticePair_ord_det_inv
 -- name    : GlobalTheory.LatticePair.ord_det_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:00:19.216673+00:00
 -- url     : https://prove2.me/theorems/8fc53956-3c97-493d-8f86-6f9a5e2068de

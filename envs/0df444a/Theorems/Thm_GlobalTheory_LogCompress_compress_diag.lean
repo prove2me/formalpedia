@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogCompress_compress_diag
 -- name    : GlobalTheory.LogCompress.compress_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:16:50.456395+00:00
 -- url     : https://prove2.me/theorems/c1f40b60-8442-4616-a3a0-3c2d250bcb18

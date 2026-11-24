@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_LhsSum_prod_realEmb_eq_norm
 -- name    : GlobalTheory.LipschitzTR.LhsSum.prod_realEmb_eq_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:11:26.3429+00:00
 -- url     : https://prove2.me/theorems/6dc84e24-0209-4832-a6f8-5831aa01fcf1

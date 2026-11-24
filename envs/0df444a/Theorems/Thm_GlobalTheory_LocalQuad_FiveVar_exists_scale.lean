@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_FiveVar_exists_scale
 -- name    : GlobalTheory.LocalQuad.FiveVar.exists_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:13:50.980048+00:00
 -- url     : https://prove2.me/theorems/ac8c18d1-7bf9-4132-ab43-a13177cb1265

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_mul_im_pos_of_sign_mul_pos
 -- name    : GlobalTheory.LipschitzTR.mul_im_pos_of_sign_mul_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:12:03.992025+00:00
 -- url     : https://prove2.me/theorems/8bd768c9-9632-494e-801f-cef3d68b0e89

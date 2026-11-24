@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K5_Basic_qq_ne_zero
 -- name    : GlobalTheory.K5.Basic.qq_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:42:06.429786+00:00
 -- url     : https://prove2.me/theorems/70d8b9ff-a23c-4a2b-af8b-99847312fe90

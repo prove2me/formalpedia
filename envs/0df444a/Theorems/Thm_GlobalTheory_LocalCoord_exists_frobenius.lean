@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalCoord_exists_frobenius
 -- name    : GlobalTheory.LocalCoord.exists_frobenius
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:14:02.707136+00:00
 -- url     : https://prove2.me/theorems/eb963783-6b84-4f26-a959-e9b2dbb57f2e

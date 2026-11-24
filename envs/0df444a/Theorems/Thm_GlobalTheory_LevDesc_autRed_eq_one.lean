@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevDesc_autRed_eq_one
 -- name    : GlobalTheory.LevDesc.autRed_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:03:00.1398+00:00
 -- url     : https://prove2.me/theorems/4a76e04f-776b-45fa-97a4-288741ea6789

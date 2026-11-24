@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalizationIntegrallyClosedDomain_isIntegrallyClosed
 -- name    : GlobalTheory.LocalizationIntegrallyClosedDomain.isIntegrallyClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:16:55.585526+00:00
 -- url     : https://prove2.me/theorems/969cb534-6b36-43db-89e7-c371dd9b38be

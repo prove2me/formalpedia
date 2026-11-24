@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DegreeMapArithmetic_weight_mono
 -- name    : Formalism.FourierDecayAlt.P.DegreeMapArithmetic.weight_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:14:45.742035+00:00
 -- url     : https://prove2.me/theorems/32a3d547-2386-450e-beef-4cc5bf1e221f

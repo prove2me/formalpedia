@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalFlatMax_lTensor_map_injective
 -- name    : GlobalTheory.LocalFlatMax.lTensor_map_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:14:09.773814+00:00
 -- url     : https://prove2.me/theorems/c834aafa-1cca-4872-9e4b-8dbf97513778

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_An_zsym_rootNumber_ne_zero
 -- name    : GlobalTheory.Mem.An.zsym_rootNumber_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:21:41.229593+00:00
 -- url     : https://prove2.me/theorems/a6596ba4-ef62-4f2a-b982-bac7380436c4

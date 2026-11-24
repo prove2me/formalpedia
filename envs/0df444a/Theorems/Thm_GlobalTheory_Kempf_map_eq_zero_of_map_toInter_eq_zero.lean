@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Kempf_map_eq_zero_of_map_toInter_eq_zero
 -- name    : GlobalTheory.Kempf.map_eq_zero_of_map_toInter_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:48:09.90783+00:00
 -- url     : https://prove2.me/theorems/07ae96da-e059-4fa6-9616-a6edaf42b3aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lyndon_interleaves_split
 -- name    : GlobalTheory.Lyndon.interleaves_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:19:34.356745+00:00
 -- url     : https://prove2.me/theorems/a34adb5e-d28b-46df-a1ab-2c3ad62f86ab

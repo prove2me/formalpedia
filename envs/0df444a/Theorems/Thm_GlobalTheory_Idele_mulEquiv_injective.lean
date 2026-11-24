@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Idele_mulEquiv_injective
 -- name    : GlobalTheory.Idele.mulEquiv_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:52:15.659009+00:00
 -- url     : https://prove2.me/theorems/8190eca8-0e66-420c-a301-0bbb4e46ceca

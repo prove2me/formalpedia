@@ -67152,7 +67152,7 @@
 {"parent": "AvramDividend.Classical.avram_a06_original_cp_residual_future_right_tail", "child": "levy_foundations_arrival", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_a06_original_cp_residual_future_right_tail", "child": "levy_foundations_jumpCount", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_a06_original_cp_residual_future_right_tail", "child": "levy_foundations_isCompoundPoissonDriver", "via": ["statement"]}
-{"parent": "QuantumGroupCodes836.Addressability.lower_multiplication", "child": "QuantumGroupCodes836_Addressability_Linear", "via": ["statement"]}
+{"parent": "QuantumGroupCodes836.Addressability.lower_multiplication", "child": "QuantumGroupCodes836_Addressability_Linear", "via": ["solution", "statement"]}
 {"parent": "OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.B4_1_3S2_sound", "child": "OAIQ254M002", "via": ["solution", "statement"]}
 {"parent": "OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.B4_1_3S2_sound", "child": "OAIQ254M003", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26NativeFiniteComposition.Paid.prefix_refinement", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_NativeGeometricJointExecution", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalLattice_isLattice_iff
 -- name    : GlobalTheory.LocalLattice.isLattice_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:13:38.419803+00:00
 -- url     : https://prove2.me/theorems/cfe82079-73e2-4c51-8ba2-0e3ece113031

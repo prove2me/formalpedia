@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux11_exists_vec
 -- name    : Formalism.FourierDecayAlt.P.Ux11.exists_vec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:24:51.58089+00:00
 -- url     : https://prove2.me/theorems/c9b0987d-3acf-4030-9142-bac561d1997d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelUnimod_neBot_units
 -- name    : GlobalTheory.LevelUnimod.neBot_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:03:16.396849+00:00
 -- url     : https://prove2.me/theorems/6eec9e48-32d3-4e50-b5a1-6474e55c0341

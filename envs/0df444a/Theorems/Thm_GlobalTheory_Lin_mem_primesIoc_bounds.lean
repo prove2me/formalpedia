@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_mem_primesIoc_bounds
 -- name    : GlobalTheory.Lin.mem_primesIoc_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:06:53.561242+00:00
 -- url     : https://prove2.me/theorems/4140ab48-b75a-430b-98cb-041e5c5e228b

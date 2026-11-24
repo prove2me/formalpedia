@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntertwinerCoprimeCharpoly_main
 -- name    : GlobalTheory.IntertwinerCoprimeCharpoly.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:20:18.108008+00:00
 -- url     : https://prove2.me/theorems/41b80e23-fd90-4209-8db2-7068f9ceb852

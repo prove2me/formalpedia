@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_orbital_integral_cutoff_scalar
 -- name    : Formalism.FourierDecayAlt.P.orbital_integral_cutoff_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:46:05.0978+00:00
 -- url     : https://prove2.me/theorems/a1a2d154-7a5b-4081-837b-7cd891835a1d

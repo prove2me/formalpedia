@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TBBx1_stepUp
 -- name    : Formalism.FourierDecayAlt.P.TBBx1.stepUp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:56:42.339001+00:00
 -- url     : https://prove2.me/theorems/497a5a0f-45e4-4173-b229-42c114cf29f5

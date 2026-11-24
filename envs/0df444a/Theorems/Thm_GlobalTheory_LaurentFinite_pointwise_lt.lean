@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LaurentFinite_pointwise_lt
 -- name    : GlobalTheory.LaurentFinite.pointwise_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:01:19.655049+00:00
 -- url     : https://prove2.me/theorems/ae028242-2eb8-4656-8c69-38fcfc47f81c

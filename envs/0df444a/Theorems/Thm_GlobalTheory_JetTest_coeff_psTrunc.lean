@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetTest_coeff_psTrunc
 -- name    : GlobalTheory.JetTest.coeff_psTrunc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:28:35.969312+00:00
 -- url     : https://prove2.me/theorems/08e76d70-d6be-4a11-b33b-51ab141276bf

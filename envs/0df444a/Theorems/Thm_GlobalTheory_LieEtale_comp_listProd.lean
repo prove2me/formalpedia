@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LieEtale_comp_listProd
 -- name    : GlobalTheory.LieEtale.comp_listProd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:03:01.239508+00:00
 -- url     : https://prove2.me/theorems/1c7b77af-9be4-4c97-97fc-dcdd8b7ba233

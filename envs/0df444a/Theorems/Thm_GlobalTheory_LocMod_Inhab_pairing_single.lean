@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocMod_Inhab_pairing_single
 -- name    : GlobalTheory.LocMod.Inhab.pairing_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:13:47.148378+00:00
 -- url     : https://prove2.me/theorems/dd812943-00d4-4923-9173-bea07e002a58

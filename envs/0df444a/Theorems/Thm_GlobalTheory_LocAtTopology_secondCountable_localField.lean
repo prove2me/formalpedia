@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocAtTopology_secondCountable_localField
 -- name    : GlobalTheory.LocAtTopology.secondCountable_localField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:13:44.87822+00:00
 -- url     : https://prove2.me/theorems/3b627b82-4579-4481-b7aa-60ac5f427d4a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzCovol_measurePreserving_toMixed
 -- name    : GlobalTheory.LipschitzCovol.measurePreserving_toMixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:11:55.821116+00:00
 -- url     : https://prove2.me/theorems/87325c75-a138-4974-80c1-21e0833e1887

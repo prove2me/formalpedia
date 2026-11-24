@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_NormalFormL_companion_pow_card
 -- name    : GlobalTheory.JR.NormalFormL.companion_pow_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:34:05.448501+00:00
 -- url     : https://prove2.me/theorems/e7a230c3-8a00-4a60-a50d-10307267c55c

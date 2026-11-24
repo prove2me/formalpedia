@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatBasisAt_mem_localization_iff
 -- name    : GlobalTheory.LatBasisAt.mem_localization_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:57:43.621205+00:00
 -- url     : https://prove2.me/theorems/8d66ca6d-b291-4524-b775-18a631574fac

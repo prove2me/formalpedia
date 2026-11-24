@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelCoverDatum_Mb_ne_bot
 -- name    : GlobalTheory.LevelCoverDatum.Mb_ne_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:03:18.050127+00:00
 -- url     : https://prove2.me/theorems/4be56499-c846-4ab4-b5c7-9c72067c4295

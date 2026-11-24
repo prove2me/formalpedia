@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Et_Idem_main
 -- name    : GlobalTheory.JR.Et.Idem.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:33:24.329835+00:00
 -- url     : https://prove2.me/theorems/15d32fb6-6873-4f84-909b-2bb52964a4e7

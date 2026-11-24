@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K5_Basic_cong_natCast
 -- name    : GlobalTheory.K5.Basic.cong_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:14:57.462695+00:00
 -- url     : https://prove2.me/theorems/2e3a18d2-876c-4253-a0e1-5a843ba8f8ad

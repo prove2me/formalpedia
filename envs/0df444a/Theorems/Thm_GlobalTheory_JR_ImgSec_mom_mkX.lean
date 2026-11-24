@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_ImgSec_mom_mkX
 -- name    : GlobalTheory.JR.ImgSec.mom_mkX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:33:24.961794+00:00
 -- url     : https://prove2.me/theorems/5b88980d-f523-4b0a-9f74-8780ad8b313e

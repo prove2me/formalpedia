@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaximalMinor_det_smul_eq_sum_det_update
 -- name    : GlobalTheory.MaximalMinor.det_smul_eq_sum_det_update
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:21:04.577676+00:00
 -- url     : https://prove2.me/theorems/574ff24c-6ef2-4f4e-a22d-d9f684ed7824

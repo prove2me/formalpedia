@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticePartition_bumpProd_contDiff
 -- name    : GlobalTheory.LatticePartition.bumpProd_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:00:30.442639+00:00
 -- url     : https://prove2.me/theorems/ca4cf860-faca-4cab-9746-7eedba4b7568

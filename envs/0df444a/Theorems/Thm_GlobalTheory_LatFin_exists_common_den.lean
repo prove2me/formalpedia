@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatFin_exists_common_den
 -- name    : GlobalTheory.LatFin.exists_common_den
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:03:14.585348+00:00
 -- url     : https://prove2.me/theorems/7742744d-47bc-431c-9a7d-7bea3f1ebc62

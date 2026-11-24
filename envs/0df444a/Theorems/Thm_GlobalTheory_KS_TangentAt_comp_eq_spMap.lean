@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_TangentAt_comp_eq_spMap
 -- name    : GlobalTheory.KS.TangentAt.comp_eq_spMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:00:36.27123+00:00
 -- url     : https://prove2.me/theorems/75044045-9fea-438a-a26b-50c6fea37cfc

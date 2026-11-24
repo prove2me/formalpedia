@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_square_fibre_affine_opens
 -- name    : GlobalTheory.KS.square_fibre_affine_opens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:46:51.164912+00:00
 -- url     : https://prove2.me/theorems/24c0d30b-b377-4ac2-838f-475d762997df

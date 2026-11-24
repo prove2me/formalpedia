@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_PsiToPi_li_bounds
 -- name    : GlobalTheory.Lin.PsiToPi.li_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:06:21.25218+00:00
 -- url     : https://prove2.me/theorems/d8278e8a-bdd0-4dc5-813f-1b2438e5675a

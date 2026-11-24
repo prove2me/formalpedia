@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LeftToRightConversion_polyClass_cT
 -- name    : Formalism.FourierDecayAlt.P.LeftToRightConversion.polyClass_cT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:25:36.6678+00:00
 -- url     : https://prove2.me/theorems/1af4ecfa-5f1b-4e76-975e-441e115b0b32

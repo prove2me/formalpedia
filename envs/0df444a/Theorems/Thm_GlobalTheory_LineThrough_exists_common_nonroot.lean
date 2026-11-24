@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LineThrough_exists_common_nonroot
 -- name    : GlobalTheory.LineThrough.exists_common_nonroot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:11:40.914862+00:00
 -- url     : https://prove2.me/theorems/5dad3d2f-f660-41aa-8cc1-2149b9669070

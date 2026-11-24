@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_SquareTheorem_isSquare_of_norm_sub_one_lt
 -- name    : GlobalTheory.LocalQuad.SquareTheorem.isSquare_of_norm_sub_one_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:13:54.89809+00:00
 -- url     : https://prove2.me/theorems/afc55fec-19e7-4a13-9061-e01f70b9b9d5

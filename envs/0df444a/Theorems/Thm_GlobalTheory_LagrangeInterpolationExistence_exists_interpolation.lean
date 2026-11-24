@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LagrangeInterpolationExistence_exists_interpolation
 -- name    : GlobalTheory.LagrangeInterpolationExistence.exists_interpolation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:57:01.685993+00:00
 -- url     : https://prove2.me/theorems/bab19a51-7b07-46a8-b248-4ff5800af58b

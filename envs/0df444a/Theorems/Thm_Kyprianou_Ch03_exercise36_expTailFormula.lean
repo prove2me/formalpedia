@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_exercise36_expTailFormula
 -- name    : Kyprianou.Ch03.exercise36_expTailFormula
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T15:46:00.181182+00:00
 -- url     : https://prove2.me/theorems/552419d9-a9de-402b-8507-50b3612c8d03

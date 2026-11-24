@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GL2b2_PfN_summable_u
 -- name    : Formalism.HermitianLattices.GL2b2.PfN.summable_u
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:47:46.268234+00:00
 -- url     : https://prove2.me/theorems/4f16fed3-cb69-4772-bd65-f87de29fb2a7

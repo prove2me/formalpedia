@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DifferentialOperatorClasses_gf_cont
 -- name    : Formalism.FourierDecayAlt.P.DifferentialOperatorClasses.gf_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:12:50.796679+00:00
 -- url     : https://prove2.me/theorems/bce5011c-e7c2-4dd1-aaa4-739a85463fc1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocSplit_int_dense
 -- name    : GlobalTheory.LocSplit.int_dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:14:21.632602+00:00
 -- url     : https://prove2.me/theorems/f0fc641b-144a-4538-a68c-48f3185bfb5d

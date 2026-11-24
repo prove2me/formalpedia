@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrowth_differentiableAt_mellin_summatory
 -- name    : GlobalTheory.LGrowth.differentiableAt_mellin_summatory
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:55:34.179569+00:00
 -- url     : https://prove2.me/theorems/7f31ba56-c443-4edc-84a8-88566e4ed621

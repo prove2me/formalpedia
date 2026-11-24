@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_exponent_le_orderAlongComponent
 -- name    : FunctorialResolution.EmbeddedResolution.exponent_le_orderAlongComponent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:26:44.337798+00:00
 -- url     : https://prove2.me/theorems/2594c9fc-8e04-48ef-ad5c-62288b2f394a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassParam_discAt
 -- name    : GlobalTheory.ClassParam.discAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:12:34.692797+00:00
 -- url     : https://prove2.me/theorems/d26ffde7-8f46-4198-95ad-ea2d369d4e62

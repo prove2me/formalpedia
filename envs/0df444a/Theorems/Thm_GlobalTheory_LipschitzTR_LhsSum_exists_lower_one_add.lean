@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_LhsSum_exists_lower_one_add
 -- name    : GlobalTheory.LipschitzTR.LhsSum.exists_lower_one_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:11:16.920985+00:00
 -- url     : https://prove2.me/theorems/c6f1b898-b9a9-4159-b9f2-e1722e0c2a85

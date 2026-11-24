@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetMap_mapSt
 -- name    : GlobalTheory.JetMap.mapSt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:40:00.421828+00:00
 -- url     : https://prove2.me/theorems/f7c69d42-9623-4e00-b7dc-65111c5ee1ad

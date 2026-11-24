@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LineCos_FsLaw_lintegral_reflect
 -- name    : GlobalTheory.LineCos.FsLaw.lintegral_reflect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:07:49.266999+00:00
 -- url     : https://prove2.me/theorems/7e26a8e5-4d01-49eb-bec4-58a1792827d6

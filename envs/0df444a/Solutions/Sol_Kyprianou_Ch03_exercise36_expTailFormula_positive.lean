@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.exercise36_expTailFormula_positive
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T14:54:54.093229+00:00
 -- url     : https://prove2.me/submissions/86d0f16e-5ad0-4e10-879b-4ae0e6a188ce
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

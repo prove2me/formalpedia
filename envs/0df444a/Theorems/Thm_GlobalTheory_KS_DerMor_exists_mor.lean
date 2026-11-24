@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_DerMor_exists_mor
 -- name    : GlobalTheory.KS.DerMor.exists_mor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:43:09.772968+00:00
 -- url     : https://prove2.me/theorems/15185cb2-aa4e-4fde-8e84-742ca42bd916

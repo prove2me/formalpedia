@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TPresMain_exp_second_hermitian_mem_level
 -- name    : Formalism.FourierDecayAlt.Q.TPresMain.exp_second_hermitian_mem_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:24:54.23922+00:00
 -- url     : https://prove2.me/theorems/0d9a6c92-cd55-4482-b366-e5c39447d753

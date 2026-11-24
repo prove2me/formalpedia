@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocAtTopology_t2Space_of_nonarchimedeanLocalField
 -- name    : GlobalTheory.LocAtTopology.t2Space_of_nonarchimedeanLocalField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:13:44.295649+00:00
 -- url     : https://prove2.me/theorems/b9dc8ad6-8d9a-471f-911f-342032929d4a

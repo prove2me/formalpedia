@@ -38481,7 +38481,7 @@
 {"parent": "QEC.Coding.BDL26RXDecoderAdapter.xFlow_at_x", "child": "QEC_Coding_FiniteAlternatingConstruction_RXDecoderAdapter_Coordinates", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RXDecoderAdapter.xFlow_at_x", "child": "QEC_Coding_FiniteAlternatingConstruction_RXDecoderAdapter_Flow", "via": ["solution", "statement"]}
 {"parent": "RemovingTrees.Main.small_cut_decomposition", "child": "RemovingTrees_Main_GraphModel", "via": ["statement"]}
-{"parent": "RevRedSAT.lemma_B_6", "child": "RevRedSAT_mu", "via": ["statement"]}
+{"parent": "RevRedSAT.lemma_B_6", "child": "RevRedSAT_mu", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.finite_cap_support", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_Sampling", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.finite_cap_support", "child": "QEC_Coding_ProbabilisticConstruction_Resampling_TableProbability", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.finite_cap_support", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_Geometry", "via": ["solution", "statement"]}
@@ -43070,7 +43070,7 @@
 {"parent": "StackingStars.Main.lemma_8", "child": "StackingStars_Main_Packing", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.Numerical.U67.entry4_1_contains_g", "child": "OAIQ098G362", "via": ["solution", "statement"]}
 {"parent": "CharonChurn.Main.lemma_8", "child": "CharonChurn_Main_Network", "via": ["statement"]}
-{"parent": "ThinShellSampling.eq_1_3", "child": "ThinShellSampling_renyi", "via": ["statement"]}
+{"parent": "ThinShellSampling.eq_1_3", "child": "ThinShellSampling_renyi", "via": ["solution", "statement"]}
 {"parent": "HiddenHardCoreColoring.Mixing.lemma_2", "child": "HiddenHardCoreColoring_Mixing_Chain", "via": ["statement"]}
 {"parent": "BipDijoin.claim_5_7", "child": "BipDijoin_BipGraph", "via": ["statement"]}
 {"parent": "BipDijoin.claim_5_7", "child": "BipDijoin_IsMatching", "via": ["statement"]}

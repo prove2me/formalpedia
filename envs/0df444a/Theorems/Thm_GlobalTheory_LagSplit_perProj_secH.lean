@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LagSplit_perProj_secH
 -- name    : GlobalTheory.LagSplit.perProj_secH
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:46:47.939699+00:00
 -- url     : https://prove2.me/theorems/73a6d054-ea85-4e3f-b108-df594ce9b654

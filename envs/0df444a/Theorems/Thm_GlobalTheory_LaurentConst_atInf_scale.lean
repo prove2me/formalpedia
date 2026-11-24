@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LaurentConst_atInf_scale
 -- name    : GlobalTheory.LaurentConst.atInf_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:01:30.984373+00:00
 -- url     : https://prove2.me/theorems/21a4d9cc-0bc4-46da-9176-7215e0d7ffd5

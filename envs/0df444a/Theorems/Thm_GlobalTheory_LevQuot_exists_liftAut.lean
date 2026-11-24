@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevQuot_exists_liftAut
 -- name    : GlobalTheory.LevQuot.exists_liftAut
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:02:50.801979+00:00
 -- url     : https://prove2.me/theorems/96e7c442-f6bd-4cf4-bb06-bc0cb0f27458

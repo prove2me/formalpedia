@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_ProdLift_finiteRing_sq_sub_mul_sq_eq_of_card
 -- name    : GlobalTheory.KS.ProdLift.finiteRing_sq_sub_mul_sq_eq_of_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:45:51.983799+00:00
 -- url     : https://prove2.me/theorems/61f80f89-fc4e-4229-868d-b505c17a8fe7

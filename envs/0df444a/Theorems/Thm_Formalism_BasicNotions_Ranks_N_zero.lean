@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BasicNotions_Ranks_N_zero
 -- name    : Formalism.BasicNotions.Ranks.N_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:32:47.282514+00:00
 -- url     : https://prove2.me/theorems/757316c0-5882-4b1a-9bdc-e49ebfafc804

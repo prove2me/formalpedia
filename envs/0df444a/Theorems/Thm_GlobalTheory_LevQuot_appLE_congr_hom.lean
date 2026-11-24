@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevQuot_appLE_congr_hom
 -- name    : GlobalTheory.LevQuot.appLE_congr_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:03:07.988588+00:00
 -- url     : https://prove2.me/theorems/592957f4-dee4-4c3a-9688-60fa48e351f8

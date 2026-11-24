@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertTrans_levi_borel
 -- name    : GlobalTheory.CompanionTheory.InertTrans.levi_borel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:02:58.026542+00:00
 -- url     : https://prove2.me/theorems/5aa4aa24-91bf-4e67-bc1c-78ce74bb6162

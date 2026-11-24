@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_RedConj0Pf_red_eq
 -- name    : Formalism.L2.SG.Pf.RedConj0Pf.red_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:42:51.403712+00:00
 -- url     : https://prove2.me/theorems/cd9730df-4dff-4e5d-8290-f2dc886bced9

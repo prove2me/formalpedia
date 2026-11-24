@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K5_Basic_not_cong_one_zero
 -- name    : GlobalTheory.K5.Basic.not_cong_one_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:15:06.698445+00:00
 -- url     : https://prove2.me/theorems/8b7b3761-9b41-4b5a-ac93-0c4f977f5215

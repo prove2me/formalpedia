@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatOrb_matLat_adj_mul_eq_of_selfDual
 -- name    : GlobalTheory.LatOrb.matLat_adj_mul_eq_of_selfDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:58:45.446983+00:00
 -- url     : https://prove2.me/theorems/1665d2f3-89a9-4df3-9e33-5309b2a2f65e

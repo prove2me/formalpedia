@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_heisMul_statement
 -- name    : Formalism.FourierDecayAlt.P.heisMul_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:38:12.519788+00:00
 -- url     : https://prove2.me/theorems/b13f756a-3eed-4f6e-9a04-fd7107ab7c5f

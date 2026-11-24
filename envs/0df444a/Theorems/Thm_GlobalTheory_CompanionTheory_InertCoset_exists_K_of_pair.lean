@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertCoset_exists_K_of_pair
 -- name    : GlobalTheory.CompanionTheory.InertCoset.exists_K_of_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:54:20.613281+00:00
 -- url     : https://prove2.me/theorems/558fb6f6-f18a-4c24-8030-2affe0b06db8

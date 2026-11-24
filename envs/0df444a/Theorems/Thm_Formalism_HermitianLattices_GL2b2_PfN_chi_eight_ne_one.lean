@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GL2b2_PfN_chi_eight_ne_one
 -- name    : Formalism.HermitianLattices.GL2b2.PfN.chi_eight_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:48:11.076195+00:00
 -- url     : https://prove2.me/theorems/4897bb92-84ce-4cff-9ef7-598404d145f6

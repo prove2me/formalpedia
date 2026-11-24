@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LowestWeight_diagonal_mem_bor
 -- name    : GlobalTheory.LowestWeight.diagonal_mem_bor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:18:51.915808+00:00
 -- url     : https://prove2.me/theorems/77cd9a8d-7e5c-4cd9-982c-6a872c6c3262

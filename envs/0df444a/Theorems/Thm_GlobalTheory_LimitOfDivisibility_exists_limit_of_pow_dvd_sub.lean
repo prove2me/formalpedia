@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LimitOfDivisibility_exists_limit_of_pow_dvd_sub
 -- name    : GlobalTheory.LimitOfDivisibility.exists_limit_of_pow_dvd_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:04:34.523974+00:00
 -- url     : https://prove2.me/theorems/58165ae0-2549-4473-9183-622814295ba9

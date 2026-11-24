@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelCover_baseOf_rho_coe
 -- name    : GlobalTheory.LevelCover.baseOf_rho_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:02:39.598506+00:00
 -- url     : https://prove2.me/theorems/e858f0c3-6bbc-4882-a9ef-31b6e01bf7f9

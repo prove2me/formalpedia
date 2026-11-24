@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocMod_Inhab_pairing_eq_one
 -- name    : GlobalTheory.LocMod.Inhab.pairing_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:13:47.642297+00:00
 -- url     : https://prove2.me/theorems/9dc5f800-7c0c-4632-99b5-ae66da063a89

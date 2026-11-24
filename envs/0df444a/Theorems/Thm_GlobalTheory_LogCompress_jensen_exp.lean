@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogCompress_jensen_exp
 -- name    : GlobalTheory.LogCompress.jensen_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:17:00.374913+00:00
 -- url     : https://prove2.me/theorems/22f1b00a-95f9-411e-92ec-626fda6e1e23

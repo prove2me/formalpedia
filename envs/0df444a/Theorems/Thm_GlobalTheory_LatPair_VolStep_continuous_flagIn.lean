@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_VolStep_continuous_flagIn
 -- name    : GlobalTheory.LatPair.VolStep.continuous_flagIn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:58:59.8428+00:00
 -- url     : https://prove2.me/theorems/3328d5eb-c68a-4f58-bb0a-5f86917a8616

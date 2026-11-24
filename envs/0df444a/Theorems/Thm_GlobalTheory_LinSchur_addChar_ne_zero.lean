@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinSchur_addChar_ne_zero
 -- name    : GlobalTheory.LinSchur.addChar_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:27:06.944814+00:00
 -- url     : https://prove2.me/theorems/c7cb1182-1a3e-468c-b967-6a9c3acea841

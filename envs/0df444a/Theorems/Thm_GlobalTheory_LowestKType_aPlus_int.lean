@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LowestKType_aPlus_int
 -- name    : GlobalTheory.LowestKType.aPlus_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:18:55.193612+00:00
 -- url     : https://prove2.me/theorems/531220f6-b0e1-48a5-8487-664149caad1e

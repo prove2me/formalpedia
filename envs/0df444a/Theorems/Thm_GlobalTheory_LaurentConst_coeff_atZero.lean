@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LaurentConst_coeff_atZero
 -- name    : GlobalTheory.LaurentConst.coeff_atZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:01:39.895632+00:00
 -- url     : https://prove2.me/theorems/8065adef-ffe9-42d8-9912-01171e270809

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagPts_topologicalKrullDim_affPts_eq_card
 -- name    : GlobalTheory.FlagPts.topologicalKrullDim_affPts_eq_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:29:16.502977+00:00
 -- url     : https://prove2.me/theorems/0f1d24f0-5792-4038-9b61-18f714f75106

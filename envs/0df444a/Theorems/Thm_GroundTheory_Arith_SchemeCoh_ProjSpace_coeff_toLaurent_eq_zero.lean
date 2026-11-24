@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjSpace_coeff_toLaurent_eq_zero
 -- name    : GroundTheory.Arith.SchemeCoh.ProjSpace.coeff_toLaurent_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:39:33.271062+00:00
 -- url     : https://prove2.me/theorems/ae4b18b4-ba72-47d2-be07-e251f9ff72ac

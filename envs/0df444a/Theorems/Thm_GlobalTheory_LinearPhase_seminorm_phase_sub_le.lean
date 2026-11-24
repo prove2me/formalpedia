@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinearPhase_seminorm_phase_sub_le
 -- name    : GlobalTheory.LinearPhase.seminorm_phase_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:10:40.667146+00:00
 -- url     : https://prove2.me/theorems/2b401dbb-f627-4380-81c4-4bd472a391ae

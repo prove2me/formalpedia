@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaxOrder_exists_eq_uniformizer_smul
 -- name    : GlobalTheory.MaxOrder.exists_eq_uniformizer_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:21:39.392121+00:00
 -- url     : https://prove2.me/theorems/60798997-d397-488d-b223-9d382fdcb5d1

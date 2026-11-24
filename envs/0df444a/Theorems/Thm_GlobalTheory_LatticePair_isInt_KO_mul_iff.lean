@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticePair_isInt_KO_mul_iff
 -- name    : GlobalTheory.LatticePair.isInt_KO_mul_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:00:21.646138+00:00
 -- url     : https://prove2.me/theorems/52bf993d-d8a9-4878-a6a0-27a17f57a147

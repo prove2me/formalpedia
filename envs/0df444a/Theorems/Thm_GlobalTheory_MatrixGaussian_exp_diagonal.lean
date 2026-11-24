@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatrixGaussian_exp_diagonal
 -- name    : GlobalTheory.MatrixGaussian.exp_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:21:15.0218+00:00
 -- url     : https://prove2.me/theorems/3f60f330-774b-4061-82fd-4937c9d4c69e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_FormulaFAux_Lsq_c
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.FormulaFAux.Lsq_c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:58:05.172015+00:00
 -- url     : https://prove2.me/theorems/52b037ca-1576-411c-8d48-a308b10f7349

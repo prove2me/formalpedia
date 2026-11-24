@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalFiniteOddFixed_exists_conj_int
 -- name    : GlobalTheory.LocalFiniteOddFixed.exists_conj_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:14:02.683501+00:00
 -- url     : https://prove2.me/theorems/c29b17a7-5f3f-47f0-86d9-125b214c0b5c

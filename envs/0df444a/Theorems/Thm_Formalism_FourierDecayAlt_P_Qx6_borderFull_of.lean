@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx6_borderFull_of
 -- name    : Formalism.FourierDecayAlt.P.Qx6.borderFull_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:53:03.334609+00:00
 -- url     : https://prove2.me/theorems/672b6e09-bc34-4ba3-b6a3-a2919773cd59

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocLift_mem_homKer
 -- name    : GlobalTheory.LocLift.mem_homKer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:14:21.48269+00:00
 -- url     : https://prove2.me/theorems/5ee07722-eb9e-4def-b434-89dd9b19e420

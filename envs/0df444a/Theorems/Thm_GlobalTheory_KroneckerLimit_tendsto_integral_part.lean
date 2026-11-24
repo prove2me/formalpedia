@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KroneckerLimit_tendsto_integral_part
 -- name    : GlobalTheory.KroneckerLimit.tendsto_integral_part
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:54:59.314715+00:00
 -- url     : https://prove2.me/theorems/036537f9-f7ea-45cd-bf23-1d63debcdd72

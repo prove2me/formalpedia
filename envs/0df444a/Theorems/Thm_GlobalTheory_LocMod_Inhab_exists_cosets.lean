@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocMod_Inhab_exists_cosets
 -- name    : GlobalTheory.LocMod.Inhab.exists_cosets
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:13:46.362136+00:00
 -- url     : https://prove2.me/theorems/d95204b8-8cf0-49df-a138-30a0b07f770e

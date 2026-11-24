@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipEisConst_absNorm_latM
 -- name    : GlobalTheory.LipEisConst.absNorm_latM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:11:00.077235+00:00
 -- url     : https://prove2.me/theorems/853d0ecf-bab5-47f3-8628-2cab4a077af8

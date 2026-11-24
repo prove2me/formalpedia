@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogKS_isField_zero
 -- name    : GlobalTheory.LogKS.isField_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:34:49.815599+00:00
 -- url     : https://prove2.me/theorems/f45a305f-b9bd-4134-b253-6c824af5d5b7

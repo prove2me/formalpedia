@@ -2375,10 +2375,10 @@
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch39_294", "child": "OAIQ259US021", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch43_43", "child": "OAIQ259US022", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch43_43", "child": "OAIQ259US021", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch03.reflectedMarkov_supremum", "child": "LevyExtrema_SBA_runSup", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.reflectedMarkov_supremum", "child": "Kyprianou_Ch03_CompletedNaturalFiltration", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.reflectedMarkov_supremum", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.reflectedMarkov_supremum", "child": "Kyprianou_Ch03_ReflectedProcesses", "via": ["statement"]}
+{"parent": "Kyprianou.Ch03.reflectedMarkov_supremum", "child": "LevyExtrema_SBA_runSup", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.reflectedMarkov_supremum", "child": "Kyprianou_Ch03_CompletedNaturalFiltration", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.reflectedMarkov_supremum", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.reflectedMarkov_supremum", "child": "Kyprianou_Ch03_ReflectedProcesses", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch41_11", "child": "OAIQ259US009", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch41_11", "child": "OAIQ259US022", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0750", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["solution", "statement"]}
@@ -2782,10 +2782,10 @@
 {"parent": "LevyStochCalc_Probability_MarkedPredictable_F001", "child": "LevyStochCalc_Probability_MarkedPredictable_F000", "via": ["statement"]}
 {"parent": "RPLib_S4_CDPack33d", "child": "RPLib_S4_CDPack33c", "via": ["statement"]}
 {"parent": "RPLib_S4_CDPack33d", "child": "RPLib_S4_CDPack33b", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.reflectedMarkov_infimum", "child": "LevyExtrema_SBA_runSup", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.reflectedMarkov_infimum", "child": "Kyprianou_Ch03_CompletedNaturalFiltration", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.reflectedMarkov_infimum", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.reflectedMarkov_infimum", "child": "Kyprianou_Ch03_ReflectedProcesses", "via": ["statement"]}
+{"parent": "Kyprianou.Ch03.reflectedMarkov_infimum", "child": "LevyExtrema_SBA_runSup", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.reflectedMarkov_infimum", "child": "Kyprianou_Ch03_CompletedNaturalFiltration", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.reflectedMarkov_infimum", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.reflectedMarkov_infimum", "child": "Kyprianou_Ch03_ReflectedProcesses", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0480", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_0480", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["statement"]}
 {"parent": "BilateralProfitMHR.positive_density_profit_facts", "child": "BilateralProfitMHR_Model", "via": ["solution", "statement"]}

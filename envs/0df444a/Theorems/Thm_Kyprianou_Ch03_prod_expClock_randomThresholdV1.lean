@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_prod_expClock_randomThresholdV1
 -- name    : Kyprianou.Ch03.prod_expClock_randomThresholdV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T10:09:23.995566+00:00
 -- url     : https://prove2.me/theorems/e7615c25-61ff-4f34-bf1a-1f06850e5e0e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LineThrough_lineMap_surjective
 -- name    : GlobalTheory.LineThrough.lineMap_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:10:52.042331+00:00
 -- url     : https://prove2.me/theorems/36285b02-eb51-410d-afd4-d83eee93e45f

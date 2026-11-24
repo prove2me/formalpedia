@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_LinDesc_centr
 -- name    : GlobalTheory.JR.LinDesc.centr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:33:08.421055+00:00
 -- url     : https://prove2.me/theorems/a641833d-baac-4f61-976b-78a016ef3652

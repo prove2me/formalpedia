@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_PsiToPi_psi_sub_wt
 -- name    : GlobalTheory.Lin.PsiToPi.psi_sub_wt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:06:20.296787+00:00
 -- url     : https://prove2.me/theorems/5c19de9f-e111-43e7-9e21-0538ad6da675

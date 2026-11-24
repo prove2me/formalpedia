@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatrixCoeff_norm_le_max_parts
 -- name    : GlobalTheory.MatrixCoeff.norm_le_max_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:21:38.250007+00:00
 -- url     : https://prove2.me/theorems/8833163d-2379-43e4-a205-800e5a4837f1

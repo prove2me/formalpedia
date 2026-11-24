@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeIneq_map_sum_le
 -- name    : GlobalTheory.LatticeIneq.map_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:00:21.052161+00:00
 -- url     : https://prove2.me/theorems/32c5561e-cacf-4398-8e19-26271cbb4c8f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LiftsToSymplectic_levi_of_isSymm
 -- name    : GlobalTheory.LiftsToSymplectic.levi_of_isSymm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:04:16.906262+00:00
 -- url     : https://prove2.me/theorems/14356234-63a2-47b1-a8fc-3a26d4fed6fd

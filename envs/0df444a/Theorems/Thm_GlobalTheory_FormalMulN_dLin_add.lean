@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalMulN_dLin_add
 -- name    : GlobalTheory.FormalMulN.dLin_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:56:06.436811+00:00
 -- url     : https://prove2.me/theorems/190f3675-aa15-4bdc-94eb-9e45b2dcc6b6

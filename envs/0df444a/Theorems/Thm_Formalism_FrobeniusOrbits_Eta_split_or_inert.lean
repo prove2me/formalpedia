@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Eta_split_or_inert
 -- name    : Formalism.FrobeniusOrbits.Eta.split_or_inert
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:12:08.916119+00:00
 -- url     : https://prove2.me/theorems/0a979de5-3c9a-4049-8e53-0378fd3481de

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JCx1_contDiff_Gf
 -- name    : Formalism.FourierDecayAlt.P.JCx1.contDiff_Gf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:45:38.431686+00:00
 -- url     : https://prove2.me/theorems/843dfd02-ff99-4f4f-a1d7-8ee2c3ce2183

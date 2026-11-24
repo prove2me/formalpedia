@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Step_glNormal_of_ne_zero
 -- name    : GlobalTheory.JR.Step.glNormal_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:38:44.511795+00:00
 -- url     : https://prove2.me/theorems/0178707d-8741-4ba6-abe7-75eb9c5b45f9

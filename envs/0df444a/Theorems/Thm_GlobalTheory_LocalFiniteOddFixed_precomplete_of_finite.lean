@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalFiniteOddFixed_precomplete_of_finite
 -- name    : GlobalTheory.LocalFiniteOddFixed.precomplete_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:14:14.972058+00:00
 -- url     : https://prove2.me/theorems/0701702a-4ac9-45b7-bccd-b5e2911fb9b7

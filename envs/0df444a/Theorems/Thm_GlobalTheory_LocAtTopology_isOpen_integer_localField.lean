@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocAtTopology_isOpen_integer_localField
 -- name    : GlobalTheory.LocAtTopology.isOpen_integer_localField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:13:37.473586+00:00
 -- url     : https://prove2.me/theorems/6d245fa4-3aed-4938-8e86-9bd2feea27db

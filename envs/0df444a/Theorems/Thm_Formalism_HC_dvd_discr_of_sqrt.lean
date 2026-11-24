@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_dvd_discr_of_sqrt
 -- name    : Formalism.HC.dvd_discr_of_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:30:39.546632+00:00
 -- url     : https://prove2.me/theorems/7e854614-3613-4e00-af5d-c1ae2eaa23dd

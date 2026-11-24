@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinearIndependentFixed_linearIndepOn_of_fixed
 -- name    : GlobalTheory.LinearIndependentFixed.linearIndepOn_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:11:00.594248+00:00
 -- url     : https://prove2.me/theorems/3ddac2cd-81f7-416a-ba44-5d4498e050e0

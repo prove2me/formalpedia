@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogDerivZeros_norm_logDeriv_le
 -- name    : GlobalTheory.LogDerivZeros.norm_logDeriv_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:18:52.267792+00:00
 -- url     : https://prove2.me/theorems/52fdb4cd-9838-4d2c-9002-57ac5c469eec

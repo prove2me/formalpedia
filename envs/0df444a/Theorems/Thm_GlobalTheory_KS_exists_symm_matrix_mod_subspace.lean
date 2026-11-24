@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_exists_symm_matrix_mod_subspace
 -- name    : GlobalTheory.KS.exists_symm_matrix_mod_subspace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:46:04.558904+00:00
 -- url     : https://prove2.me/theorems/e5f9fd32-4f1f-434b-8c48-01ca9d6a5d8e

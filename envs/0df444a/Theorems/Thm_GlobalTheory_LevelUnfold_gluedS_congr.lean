@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelUnfold_gluedS_congr
 -- name    : GlobalTheory.LevelUnfold.gluedS_congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:27:22.032687+00:00
 -- url     : https://prove2.me/theorems/88156279-9901-488a-8ab2-fc407028a9cd

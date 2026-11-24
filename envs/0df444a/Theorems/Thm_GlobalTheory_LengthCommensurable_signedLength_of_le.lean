@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LengthCommensurable_signedLength_of_le
 -- name    : GlobalTheory.LengthCommensurable.signedLength_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:01:04.74741+00:00
 -- url     : https://prove2.me/theorems/1a2aaa9a-fe63-43a9-b92c-b68615d8f28c

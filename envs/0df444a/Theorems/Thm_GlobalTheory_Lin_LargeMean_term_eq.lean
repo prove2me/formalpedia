@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_LargeMean_term_eq
 -- name    : GlobalTheory.Lin.LargeMean.term_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:06:37.309538+00:00
 -- url     : https://prove2.me/theorems/5315ccf6-9cee-47e3-9895-fb3376eb7a56

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KilledFin_powSpan_stable_self
 -- name    : GlobalTheory.KilledFin.powSpan_stable_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:49:15.42781+00:00
 -- url     : https://prove2.me/theorems/ae0e4b9e-7cf4-4f0e-b04f-44b1a9303860

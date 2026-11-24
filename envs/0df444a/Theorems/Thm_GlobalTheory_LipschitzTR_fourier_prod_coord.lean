@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_fourier_prod_coord
 -- name    : GlobalTheory.LipschitzTR.fourier_prod_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:12:38.889796+00:00
 -- url     : https://prove2.me/theorems/e9d4ec90-c32f-4a8b-a283-9c6a26428699

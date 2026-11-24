@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_dilation_matrix_coefficient
 -- name    : Formalism.FourierDecayAlt.P.dilation_matrix_coefficient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:34:59.553717+00:00
 -- url     : https://prove2.me/theorems/ad8bb470-c240-40ec-8493-88137bf26765

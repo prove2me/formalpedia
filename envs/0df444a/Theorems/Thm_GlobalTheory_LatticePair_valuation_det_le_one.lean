@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticePair_valuation_det_le_one
 -- name    : GlobalTheory.LatticePair.valuation_det_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:00:20.978696+00:00
 -- url     : https://prove2.me/theorems/27f217a4-8ded-4819-8af4-84cc6d18a791

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_stableHighIndexNoIntegerMomentsV1
 -- name    : Kyprianou.Ch03.stableHighIndexNoIntegerMomentsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T17:59:54.62021+00:00
 -- url     : https://prove2.me/theorems/d74de679-dad0-42b5-adb6-e419984edd82

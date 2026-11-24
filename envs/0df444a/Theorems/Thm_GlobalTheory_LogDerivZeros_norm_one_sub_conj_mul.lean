@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogDerivZeros_norm_one_sub_conj_mul
 -- name    : GlobalTheory.LogDerivZeros.norm_one_sub_conj_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:18:54.241067+00:00
 -- url     : https://prove2.me/theorems/b60bb1f8-a70a-4cc3-9b80-3160ebe1001e

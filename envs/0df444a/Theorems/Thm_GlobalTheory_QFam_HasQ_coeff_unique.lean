@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_HasQ_coeff_unique
 -- name    : GlobalTheory.QFam.HasQ.coeff_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:25:12.440932+00:00
 -- url     : https://prove2.me/theorems/26d8f443-0122-476e-89d0-010607c8f235

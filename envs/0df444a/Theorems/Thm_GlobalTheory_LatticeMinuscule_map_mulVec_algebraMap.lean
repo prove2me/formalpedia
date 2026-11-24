@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeMinuscule_map_mulVec_algebraMap
 -- name    : GlobalTheory.LatticeMinuscule.map_mulVec_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:59:49.066312+00:00
 -- url     : https://prove2.me/theorems/dd721910-a83d-4bb1-8c44-eab503fb6c7c

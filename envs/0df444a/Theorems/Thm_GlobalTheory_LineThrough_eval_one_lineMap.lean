@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LineThrough_eval_one_lineMap
 -- name    : GlobalTheory.LineThrough.eval_one_lineMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:11:32.695925+00:00
 -- url     : https://prove2.me/theorems/9ab9058b-da31-4dfd-940d-118a0d5476d3

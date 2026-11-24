@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KLI_deg_bind_le
 -- name    : PositivityTheory.SiegelWeilFormula.KLI.deg_bind_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:43:39.686445+00:00
 -- url     : https://prove2.me/theorems/27929f8c-259a-4276-b438-4d4a208acc41

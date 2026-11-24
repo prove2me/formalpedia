@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_CFac_Span_isLocallyConstant_indicator_one
 -- name    : GlobalTheory.LocFlat.CFac.Span.isLocallyConstant_indicator_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:12:32.598981+00:00
 -- url     : https://prove2.me/theorems/82e914e0-edc0-4de6-bf06-f67ea3eb74b3

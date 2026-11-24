@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeftTransversalSum_sum_mul_left_transversal
 -- name    : GlobalTheory.LeftTransversalSum.sum_mul_left_transversal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:01:09.647182+00:00
 -- url     : https://prove2.me/theorems/10b26805-4fcf-474b-a070-72f62373c21b

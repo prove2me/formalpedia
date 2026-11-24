@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_exists_norm_of_quaternary
 -- name    : GlobalTheory.LocalQuad.exists_norm_of_quaternary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:13:44.097799+00:00
 -- url     : https://prove2.me/theorems/4729d08f-3c65-4ffb-8849-c3bf0647ca27

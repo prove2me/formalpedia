@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_CFac_tensorToProd_injective
 -- name    : GlobalTheory.LocFlat.CFac.tensorToProd_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:12:49.935563+00:00
 -- url     : https://prove2.me/theorems/7f1afb86-6ceb-4d3c-ab75-13d943c041fd

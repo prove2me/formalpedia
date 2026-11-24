@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalLattice_mem_of_forall_mem_localize_of_not_isField
 -- name    : GlobalTheory.LocalLattice.mem_of_forall_mem_localize_of_not_isField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:13:48.511171+00:00
 -- url     : https://prove2.me/theorems/aea8cc5e-329e-4e83-8458-7dd0f548730f

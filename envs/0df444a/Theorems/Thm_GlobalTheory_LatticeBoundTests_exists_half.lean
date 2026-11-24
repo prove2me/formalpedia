@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeBoundTests_exists_half
 -- name    : GlobalTheory.LatticeBoundTests.exists_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:58:31.339144+00:00
 -- url     : https://prove2.me/theorems/01d38e45-dbe9-4328-8714-2f7c7000c078

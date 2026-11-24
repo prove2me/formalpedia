@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_exists_tsum_vonMangoldt_div_rpow_le_div
 -- name    : GlobalTheory.Lin.exists_tsum_vonMangoldt_div_rpow_le_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:06:41.780027+00:00
 -- url     : https://prove2.me/theorems/582321cf-c160-4905-a7fa-cc35063be05f

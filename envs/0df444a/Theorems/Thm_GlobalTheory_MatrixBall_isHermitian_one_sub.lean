@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatrixBall_isHermitian_one_sub
 -- name    : GlobalTheory.MatrixBall.isHermitian_one_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:21:11.50495+00:00
 -- url     : https://prove2.me/theorems/bb82462e-6a19-4a76-ab14-ce4d75fcc282

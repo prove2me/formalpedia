@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzCovol_embPlace_symm_apply
 -- name    : GlobalTheory.LipschitzCovol.embPlace_symm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:11:42.809499+00:00
 -- url     : https://prove2.me/theorems/cfad34c0-7cf0-4f9a-a116-f73da4af518d

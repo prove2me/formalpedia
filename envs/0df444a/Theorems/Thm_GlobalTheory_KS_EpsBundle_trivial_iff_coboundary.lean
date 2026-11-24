@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_EpsBundle_trivial_iff_coboundary
 -- name    : GlobalTheory.KS.EpsBundle.trivial_iff_coboundary
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:58:34.697861+00:00
 -- url     : https://prove2.me/theorems/54196759-2e2d-4d20-b38a-f09eaa58c1a1

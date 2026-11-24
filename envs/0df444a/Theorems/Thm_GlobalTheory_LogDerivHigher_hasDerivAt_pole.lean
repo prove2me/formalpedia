@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogDerivHigher_hasDerivAt_pole
 -- name    : GlobalTheory.LogDerivHigher.hasDerivAt_pole
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:18:52.901804+00:00
 -- url     : https://prove2.me/theorems/62d728af-fe64-46b1-90d6-97f5154c5570

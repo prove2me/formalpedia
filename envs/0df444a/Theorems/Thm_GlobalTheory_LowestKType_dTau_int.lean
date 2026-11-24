@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LowestKType_dTau_int
 -- name    : GlobalTheory.LowestKType.dTau_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:16:53.588851+00:00
 -- url     : https://prove2.me/theorems/ac657df8-198a-4315-a140-303fe9d270bc

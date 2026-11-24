@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermWitt_exists_gl_isometry_mul_eq_of_det_ne_zero
 -- name    : GlobalTheory.HermWitt.exists_gl_isometry_mul_eq_of_det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:20:06.105451+00:00
 -- url     : https://prove2.me/theorems/0cde24eb-6294-4151-b156-f32dfeb54361

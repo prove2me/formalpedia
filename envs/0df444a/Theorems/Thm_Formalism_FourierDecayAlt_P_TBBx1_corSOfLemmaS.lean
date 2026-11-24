@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TBBx1_corSOfLemmaS
 -- name    : Formalism.FourierDecayAlt.P.TBBx1.corSOfLemmaS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:56:38.513941+00:00
 -- url     : https://prove2.me/theorems/63b50168-baaa-47d6-9591-b9f6ed41d39c

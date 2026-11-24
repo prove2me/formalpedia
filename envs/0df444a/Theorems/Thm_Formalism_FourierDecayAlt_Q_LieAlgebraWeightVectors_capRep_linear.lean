@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LieAlgebraWeightVectors_capRep_linear
 -- name    : Formalism.FourierDecayAlt.Q.LieAlgebraWeightVectors.capRep_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:44:51.314057+00:00
 -- url     : https://prove2.me/theorems/fa015ca0-c909-4ca9-8f89-7ac0bbc4bb5b

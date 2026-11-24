@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LieEtale_ofFn_prod_comp
 -- name    : GlobalTheory.LieEtale.ofFn_prod_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:05:37.206263+00:00
 -- url     : https://prove2.me/theorems/faf486fc-975a-4740-aa31-134238b2af9a

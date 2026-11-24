@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_MeasTransport_trForm_nondeg
 -- name    : GlobalTheory.JR.MeasTransport.trForm_nondeg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:01:40.112426+00:00
 -- url     : https://prove2.me/theorems/0b979d4a-519e-4c5f-ad6f-92fa8feed62c

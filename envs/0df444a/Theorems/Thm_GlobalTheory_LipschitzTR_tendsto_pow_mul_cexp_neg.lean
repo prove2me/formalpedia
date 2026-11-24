@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_tendsto_pow_mul_cexp_neg
 -- name    : GlobalTheory.LipschitzTR.tendsto_pow_mul_cexp_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:12:30.165347+00:00
 -- url     : https://prove2.me/theorems/e30d4b63-2775-4277-aac8-fb0120f7ca61

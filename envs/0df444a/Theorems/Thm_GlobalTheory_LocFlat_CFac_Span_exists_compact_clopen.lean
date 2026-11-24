@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_CFac_Span_exists_compact_clopen
 -- name    : GlobalTheory.LocFlat.CFac.Span.exists_compact_clopen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:12:14.885806+00:00
 -- url     : https://prove2.me/theorems/7e05be5c-b01f-4111-b472-bb8b89cd80fa

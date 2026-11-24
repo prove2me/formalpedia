@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LiftLocal_isLocalHom_of_bijective
 -- name    : GlobalTheory.LiftLocal.isLocalHom_of_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:06:16.810833+00:00
 -- url     : https://prove2.me/theorems/fe912bcf-4655-4b9d-9a01-49b5d8945e35

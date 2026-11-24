@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevQuot_isOpenImmersion_graph
 -- name    : GlobalTheory.LevQuot.isOpenImmersion_graph
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:03:11.474383+00:00
 -- url     : https://prove2.me/theorems/ef23f6a5-4bbb-41f1-8f52-693520b9be21

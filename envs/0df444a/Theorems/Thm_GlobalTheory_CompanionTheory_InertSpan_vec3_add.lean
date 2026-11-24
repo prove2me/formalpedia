@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertSpan_vec3_add
 -- name    : GlobalTheory.CompanionTheory.InertSpan.vec3_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:51:54.675395+00:00
 -- url     : https://prove2.me/theorems/263cc7c9-2381-4edd-af64-f087a42a802c

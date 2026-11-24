@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_Model_FF_dia
 -- name    : GlobalTheory.LatPair.Model.FF_dia
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:01:24.380671+00:00
 -- url     : https://prove2.me/theorems/5e0fcef2-6ec7-4937-9c17-f28b3be8d251

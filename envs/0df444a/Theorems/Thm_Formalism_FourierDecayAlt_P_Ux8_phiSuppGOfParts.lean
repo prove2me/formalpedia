@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux8_phiSuppGOfParts
 -- name    : Formalism.FourierDecayAlt.P.Ux8.phiSuppGOfParts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:36:49.104558+00:00
 -- url     : https://prove2.me/theorems/fac69f8c-6125-4902-9456-921adb49a470

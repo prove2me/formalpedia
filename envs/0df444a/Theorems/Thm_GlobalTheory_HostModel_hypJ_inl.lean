@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HostModel_hypJ_inl
 -- name    : GlobalTheory.HostModel.hypJ_inl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:43:58.926275+00:00
 -- url     : https://prove2.me/theorems/cfc3f34f-36f7-40b4-a11d-f4595cc1a4a3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinSchur_dual
 -- name    : GlobalTheory.LinSchur.dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:08:24.822889+00:00
 -- url     : https://prove2.me/theorems/553f61d2-2270-418d-a41a-11a440757d76

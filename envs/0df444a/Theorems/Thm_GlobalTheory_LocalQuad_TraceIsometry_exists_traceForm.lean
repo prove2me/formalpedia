@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_TraceIsometry_exists_traceForm
 -- name    : GlobalTheory.LocalQuad.TraceIsometry.exists_traceForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:14:11.883382+00:00
 -- url     : https://prove2.me/theorems/bb0ce285-5ee8-409c-9847-193907340c25

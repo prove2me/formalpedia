@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticePair_out_eq_mul
 -- name    : GlobalTheory.LatticePair.out_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:02:02.863132+00:00
 -- url     : https://prove2.me/theorems/d4328248-ea69-4a0f-8453-3d9563e69e21

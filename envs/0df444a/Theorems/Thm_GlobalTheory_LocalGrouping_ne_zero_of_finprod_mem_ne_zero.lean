@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalGrouping_ne_zero_of_finprod_mem_ne_zero
 -- name    : GlobalTheory.LocalGrouping.ne_zero_of_finprod_mem_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:13:48.06542+00:00
 -- url     : https://prove2.me/theorems/67db01e8-7bd2-4b2c-96b2-4453ccfe1846

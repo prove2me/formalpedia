@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_FrameChange_uv_pull
 -- name    : GlobalTheory.JetSer.FrameChange.uv_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:41:47.862038+00:00
 -- url     : https://prove2.me/theorems/14c5df67-4ef4-45c9-aaab-2a59f9296f52

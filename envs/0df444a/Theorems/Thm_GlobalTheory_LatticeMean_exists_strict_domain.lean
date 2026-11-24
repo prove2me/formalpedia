@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeMean_exists_strict_domain
 -- name    : GlobalTheory.LatticeMean.exists_strict_domain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:00:39.808087+00:00
 -- url     : https://prove2.me/theorems/08bfe073-7842-4a7c-b447-587628706981

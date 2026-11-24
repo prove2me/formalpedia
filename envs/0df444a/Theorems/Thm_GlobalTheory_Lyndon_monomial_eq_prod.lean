@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lyndon_monomial_eq_prod
 -- name    : GlobalTheory.Lyndon.monomial_eq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:19:55.486798+00:00
 -- url     : https://prove2.me/theorems/093d498a-99b2-4b97-9ed1-d9584069431e

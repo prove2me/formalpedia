@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_LargeMean_continuous_pw
 -- name    : GlobalTheory.Lin.LargeMean.continuous_pw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:04:44.7738+00:00
 -- url     : https://prove2.me/theorems/bbcd5e96-204a-47aa-b010-099b2da4f8f4

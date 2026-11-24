@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_LargeMean_hasDerivAt_pw
 -- name    : GlobalTheory.Lin.LargeMean.hasDerivAt_pw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:05:17.341797+00:00
 -- url     : https://prove2.me/theorems/d6a21755-ad33-4c30-9516-076759586f9b

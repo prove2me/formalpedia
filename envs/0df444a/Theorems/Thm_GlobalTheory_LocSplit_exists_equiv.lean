@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocSplit_exists_equiv
 -- name    : GlobalTheory.LocSplit.exists_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:14:27.225188+00:00
 -- url     : https://prove2.me/theorems/51f4d583-cb96-4e41-91f8-02a91098a8a3

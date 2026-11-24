@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_mem_lineParU_U
 -- name    : GlobalTheory.LGrp.mem_lineParU_U
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:56:02.136133+00:00
 -- url     : https://prove2.me/theorems/3898fbe1-6dbd-480a-bcc4-88f52c5fef03

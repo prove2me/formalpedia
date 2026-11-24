@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermWitt_exists_graph_lt
 -- name    : GlobalTheory.HermWitt.exists_graph_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:20:11.141801+00:00
 -- url     : https://prove2.me/theorems/5d9c1da6-e63d-42c6-91f0-a33c2ea0c516

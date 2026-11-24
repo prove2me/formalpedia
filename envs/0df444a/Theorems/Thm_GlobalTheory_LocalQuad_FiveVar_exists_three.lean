@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_FiveVar_exists_three
 -- name    : GlobalTheory.LocalQuad.FiveVar.exists_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:13:27.409336+00:00
 -- url     : https://prove2.me/theorems/6d6304ab-47fc-4fb6-9e07-235b1d4081d7

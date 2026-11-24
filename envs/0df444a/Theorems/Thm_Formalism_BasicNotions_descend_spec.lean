@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BasicNotions_descend_spec
 -- name    : Formalism.BasicNotions.descend_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:33:28.35781+00:00
 -- url     : https://prove2.me/theorems/d5fc19d9-ed52-4b83-8178-b54c59bf8602

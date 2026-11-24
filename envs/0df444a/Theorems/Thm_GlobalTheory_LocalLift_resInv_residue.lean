@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalLift_resInv_residue
 -- name    : GlobalTheory.LocalLift.resInv_residue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:14:25.029357+00:00
 -- url     : https://prove2.me/theorems/768a3958-ad79-49ce-8434-08807e5502c1

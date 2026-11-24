@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeBoundTests_trBil_balanced
 -- name    : GlobalTheory.LatticeBoundTests.trBil_balanced
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:58:28.249285+00:00
 -- url     : https://prove2.me/theorems/951a086a-5f9d-4675-92e7-44c2f41dc519

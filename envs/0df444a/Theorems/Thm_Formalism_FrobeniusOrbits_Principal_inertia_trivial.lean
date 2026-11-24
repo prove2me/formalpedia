@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Principal_inertia_trivial
 -- name    : Formalism.FrobeniusOrbits.Principal.inertia_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:39:07.203953+00:00
 -- url     : https://prove2.me/theorems/24c511c0-70f1-46ef-984f-b72ef71a8d1f

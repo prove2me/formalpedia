@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x5_heisConjLevMeas
 -- name    : Formalism.FourierDecayAlt.P.B2x5.heisConjLevMeas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:56:39.418682+00:00
 -- url     : https://prove2.me/theorems/5bff6699-a52b-4307-ac94-508ffb2166f3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_mem_stdL_f14a35be741f
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_mem_stdL_f14a35be741f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:49:15.296335+00:00
 -- url     : https://prove2.me/theorems/6fff9bf5-e98b-44df-832b-2935a6c2aa1b

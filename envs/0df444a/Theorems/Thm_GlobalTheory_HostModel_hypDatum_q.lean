@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HostModel_hypDatum_q
 -- name    : GlobalTheory.HostModel.hypDatum_q
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:43:59.305988+00:00
 -- url     : https://prove2.me/theorems/76c22422-1420-43a4-8043-eb35f15a7db5

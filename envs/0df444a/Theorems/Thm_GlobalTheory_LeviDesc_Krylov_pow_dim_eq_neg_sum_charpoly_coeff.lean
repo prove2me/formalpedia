@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeviDesc_Krylov_pow_dim_eq_neg_sum_charpoly_coeff
 -- name    : GlobalTheory.LeviDesc.Krylov.pow_dim_eq_neg_sum_charpoly_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:02:38.740797+00:00
 -- url     : https://prove2.me/theorems/0fdd302f-fa49-4a21-965d-33bc53752393

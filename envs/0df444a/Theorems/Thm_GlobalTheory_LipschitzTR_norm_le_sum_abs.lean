@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_norm_le_sum_abs
 -- name    : GlobalTheory.LipschitzTR.norm_le_sum_abs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:12:15.525031+00:00
 -- url     : https://prove2.me/theorems/8eb4b5ca-e55b-44fd-a436-3350462b1820

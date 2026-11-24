@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpTangent_formallyUnramified_mulN
 -- name    : GlobalTheory.GrpTangent.formallyUnramified_mulN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:59:14.014806+00:00
 -- url     : https://prove2.me/theorems/f8c2b6b5-f9eb-4b5d-8fd5-48fbcb75d951

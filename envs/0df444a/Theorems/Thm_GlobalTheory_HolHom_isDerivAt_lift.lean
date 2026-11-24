@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolHom_isDerivAt_lift
 -- name    : GlobalTheory.HolHom.isDerivAt_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:36:12.621247+00:00
 -- url     : https://prove2.me/theorems/2fdbf610-0020-4b03-a958-6cf3d4d7e056

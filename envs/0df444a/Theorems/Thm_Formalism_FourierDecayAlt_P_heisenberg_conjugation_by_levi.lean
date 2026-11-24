@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_heisenberg_conjugation_by_levi
 -- name    : Formalism.FourierDecayAlt.P.heisenberg_conjugation_by_levi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:43:09.194153+00:00
 -- url     : https://prove2.me/theorems/96f76392-9d80-47d9-a3f0-7362e363966c

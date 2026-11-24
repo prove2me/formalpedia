@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_exists_ringHom_adicCompletion
 -- name    : GlobalTheory.LocalQuad.exists_ringHom_adicCompletion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:13:50.193682+00:00
 -- url     : https://prove2.me/theorems/5a685092-9c1f-4f3c-9a15-4f5aa64052ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaximalIdealMembership_mem_maximalIdeal_iff
 -- name    : GlobalTheory.MaximalIdealMembership.mem_maximalIdeal_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:21:13.643441+00:00
 -- url     : https://prove2.me/theorems/000daec7-a42e-4543-8500-32efa376d1e9

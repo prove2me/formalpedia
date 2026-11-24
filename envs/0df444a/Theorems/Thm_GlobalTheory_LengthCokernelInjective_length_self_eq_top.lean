@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LengthCokernelInjective_length_self_eq_top
 -- name    : GlobalTheory.LengthCokernelInjective.length_self_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:01:06.257695+00:00
 -- url     : https://prove2.me/theorems/3bb39bf6-f6e9-45c4-aa81-13924e5ea608

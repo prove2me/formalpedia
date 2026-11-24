@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LastSteps_datumHat_eq
 -- name    : GlobalTheory.LastSteps.datumHat_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:41:46.470504+00:00
 -- url     : https://prove2.me/theorems/795e9839-f263-4b20-bd52-39816dc1634d

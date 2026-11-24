@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux1_zero_mem_dom
 -- name    : Formalism.FourierDecayAlt.P.Ux1.zero_mem_dom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:10:31.449962+00:00
 -- url     : https://prove2.me/theorems/0ead4f31-88a6-49c9-8a6d-16c4a16f893a

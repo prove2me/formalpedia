@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalLattice_mem_localRing_iff
 -- name    : GlobalTheory.LocalLattice.mem_localRing_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:13:46.281269+00:00
 -- url     : https://prove2.me/theorems/31bd7327-1f23-4a5f-be79-b7a57e0c81a6

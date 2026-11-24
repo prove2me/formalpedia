@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalFiniteOddFixed_odd_of_involution
 -- name    : GlobalTheory.LocalFiniteOddFixed.odd_of_involution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:14:09.676329+00:00
 -- url     : https://prove2.me/theorems/b735a980-e9ea-4946-a325-1825a58eaa27

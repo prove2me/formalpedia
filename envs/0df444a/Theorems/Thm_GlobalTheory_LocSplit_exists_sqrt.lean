@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocSplit_exists_sqrt
 -- name    : GlobalTheory.LocSplit.exists_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:14:21.645028+00:00
 -- url     : https://prove2.me/theorems/e2482b8b-28b5-445d-bf83-ed957b4ab824

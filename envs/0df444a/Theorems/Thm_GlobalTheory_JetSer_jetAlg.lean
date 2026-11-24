@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_jetAlg
 -- name    : GlobalTheory.JetSer.jetAlg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:08:31.900789+00:00
 -- url     : https://prove2.me/theorems/f273170e-8d1b-4eba-9791-4790e66b41c5

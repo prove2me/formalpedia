@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KaUnique_isCx_kosD
 -- name    : GlobalTheory.KaUnique.isCx_kosD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:45:43.127137+00:00
 -- url     : https://prove2.me/theorems/a155d92b-82fe-4049-aea4-454af8d0c035

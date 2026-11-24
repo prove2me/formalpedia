@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocLift_isHolTo_mono
 -- name    : GlobalTheory.LocLift.isHolTo_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:13:51.909503+00:00
 -- url     : https://prove2.me/theorems/1e08bda3-fc43-43a9-ba44-0c6925633b67

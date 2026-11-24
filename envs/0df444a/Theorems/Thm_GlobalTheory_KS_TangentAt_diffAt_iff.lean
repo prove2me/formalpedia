@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_TangentAt_diffAt_iff
 -- name    : GlobalTheory.KS.TangentAt.diffAt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:45:09.00801+00:00
 -- url     : https://prove2.me/theorems/dff57615-1988-4347-af9d-2b7001e98483

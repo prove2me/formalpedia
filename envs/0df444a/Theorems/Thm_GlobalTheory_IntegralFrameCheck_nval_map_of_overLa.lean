@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralFrameCheck_nval_map_of_overLa
 -- name    : GlobalTheory.IntegralFrameCheck.nval_map_of_overLa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:19:56.803861+00:00
 -- url     : https://prove2.me/theorems/fa255903-de6a-44ab-9cc4-1544f9fb168f

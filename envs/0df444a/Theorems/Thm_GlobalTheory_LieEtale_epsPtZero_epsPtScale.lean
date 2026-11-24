@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LieEtale_epsPtZero_epsPtScale
 -- name    : GlobalTheory.LieEtale.epsPtZero_epsPtScale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:02:56.725815+00:00
 -- url     : https://prove2.me/theorems/5c912731-a4d5-4519-b62a-93f2a07d6368

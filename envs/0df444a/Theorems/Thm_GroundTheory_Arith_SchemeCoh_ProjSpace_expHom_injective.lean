@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjSpace_expHom_injective
 -- name    : GroundTheory.Arith.SchemeCoh.ProjSpace.expHom_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:39:16.819774+00:00
 -- url     : https://prove2.me/theorems/61c3ed48-5934-452c-a804-87d685e37a26

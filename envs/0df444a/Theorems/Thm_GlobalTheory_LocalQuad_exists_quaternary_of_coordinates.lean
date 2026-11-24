@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_exists_quaternary_of_coordinates
 -- name    : GlobalTheory.LocalQuad.exists_quaternary_of_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:13:55.451433+00:00
 -- url     : https://prove2.me/theorems/1a3a320f-86bd-4b88-a627-195b632c472b

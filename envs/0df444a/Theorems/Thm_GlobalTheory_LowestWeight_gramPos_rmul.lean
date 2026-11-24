@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LowestWeight_gramPos_rmul
 -- name    : GlobalTheory.LowestWeight.gramPos_rmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:20:21.584212+00:00
 -- url     : https://prove2.me/theorems/4a25dc45-8283-4b9d-8566-07daeb613bf7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_FiveVar_bf_add_left
 -- name    : GlobalTheory.LocalQuad.FiveVar.bf_add_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:13:49.604707+00:00
 -- url     : https://prove2.me/theorems/9745a7f3-3603-4e9c-97dd-51b52efce5d8

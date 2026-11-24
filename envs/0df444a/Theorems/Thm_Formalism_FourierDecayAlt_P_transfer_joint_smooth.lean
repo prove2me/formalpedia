@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_transfer_joint_smooth
 -- name    : Formalism.FourierDecayAlt.P.transfer_joint_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:23:57.661742+00:00
 -- url     : https://prove2.me/theorems/ba3af466-3227-4e5c-808b-250fd8d03579

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LabelsAgree_r_of_tr_zero
 -- name    : GlobalTheory.LabelsAgree.r_of_tr_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:57:49.677226+00:00
 -- url     : https://prove2.me/theorems/93320857-a936-4cc5-ab4d-3584234f127b

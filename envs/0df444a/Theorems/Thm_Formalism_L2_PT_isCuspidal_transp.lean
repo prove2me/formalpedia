@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PT_isCuspidal_transp
 -- name    : Formalism.L2.PT.isCuspidal_transp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:09:30.510807+00:00
 -- url     : https://prove2.me/theorems/eca90abb-411f-4eb5-98fe-5088b31fa3ef

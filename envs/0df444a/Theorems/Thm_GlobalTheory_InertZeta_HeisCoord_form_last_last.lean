@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_HeisCoord_form_last_last
 -- name    : GlobalTheory.InertZeta.HeisCoord.form_last_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:22:08.004351+00:00
 -- url     : https://prove2.me/theorems/5c3471d4-bf40-4855-88fa-7c5b02799242

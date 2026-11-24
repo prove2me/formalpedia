@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_len_of_mem
 -- name    : GlobalTheory.InertZeta.len_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:46:38.627621+00:00
 -- url     : https://prove2.me/theorems/dbc5f68b-c6dd-44b6-b0ed-30f96a7ad7ef

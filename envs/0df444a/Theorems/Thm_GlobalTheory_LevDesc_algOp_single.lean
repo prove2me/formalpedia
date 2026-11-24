@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevDesc_algOp_single
 -- name    : GlobalTheory.LevDesc.algOp_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:02:13.508258+00:00
 -- url     : https://prove2.me/theorems/3a932f4b-563c-499e-83e3-fc8fc6f2266d

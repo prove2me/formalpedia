@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_riemann_hypothesis_upper_bound
 -- name    : riemann_hypothesis_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T15:34:17.626533+00:00
 -- url     : https://prove2.me/theorems/fcd722f1-7570-43df-a765-853aad8b20ae

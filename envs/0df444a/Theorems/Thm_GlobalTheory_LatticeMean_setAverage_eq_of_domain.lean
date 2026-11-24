@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeMean_setAverage_eq_of_domain
 -- name    : GlobalTheory.LatticeMean.setAverage_eq_of_domain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:00:30.313168+00:00
 -- url     : https://prove2.me/theorems/f35298f7-6985-48c2-a7d0-59f47831bdbe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertCount_small_mul
 -- name    : GlobalTheory.CompanionTheory.InertCount.small_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:01:18.977347+00:00
 -- url     : https://prove2.me/theorems/ef3de3bb-d36d-4493-a959-cdf951181a89

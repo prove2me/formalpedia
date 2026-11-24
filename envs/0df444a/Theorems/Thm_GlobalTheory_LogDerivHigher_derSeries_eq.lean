@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogDerivHigher_derSeries_eq
 -- name    : GlobalTheory.LogDerivHigher.derSeries_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:18:57.390812+00:00
 -- url     : https://prove2.me/theorems/e23a7d69-a9aa-4807-a0f9-fd3208c1b52d

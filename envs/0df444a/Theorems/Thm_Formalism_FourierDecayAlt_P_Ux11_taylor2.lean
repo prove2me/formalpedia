@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux11_taylor2
 -- name    : Formalism.FourierDecayAlt.P.Ux11.taylor2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:24:36.649482+00:00
 -- url     : https://prove2.me/theorems/dd174fad-bdd6-40f9-a75a-a08256565a16

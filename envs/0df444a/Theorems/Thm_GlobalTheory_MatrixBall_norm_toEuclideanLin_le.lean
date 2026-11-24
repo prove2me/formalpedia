@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatrixBall_norm_toEuclideanLin_le
 -- name    : GlobalTheory.MatrixBall.norm_toEuclideanLin_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:21:08.883572+00:00
 -- url     : https://prove2.me/theorems/5a59fad0-3a6f-4d0e-b689-c499ac2b1b22

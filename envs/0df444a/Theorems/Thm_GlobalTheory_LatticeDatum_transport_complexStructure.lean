@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeDatum_transport_complexStructure
 -- name    : GlobalTheory.LatticeDatum.transport_complexStructure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:58:28.540731+00:00
 -- url     : https://prove2.me/theorems/e6dfde55-2bcf-47a6-9b06-3bc02be0845c

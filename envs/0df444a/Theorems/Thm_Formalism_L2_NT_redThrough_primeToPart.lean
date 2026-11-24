@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NT_redThrough_primeToPart
 -- name    : Formalism.L2.NT.redThrough_primeToPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:55:48.440401+00:00
 -- url     : https://prove2.me/theorems/60384d1b-44c0-4b26-a71b-1cc110d7b9f1

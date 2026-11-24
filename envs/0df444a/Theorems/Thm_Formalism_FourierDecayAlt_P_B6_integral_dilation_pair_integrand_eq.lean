@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_integral_dilation_pair_integrand_eq
 -- name    : Formalism.FourierDecayAlt.P.B6.integral_dilation_pair_integrand_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:02:54.759076+00:00
 -- url     : https://prove2.me/theorems/1e58b04d-5f00-4329-8e9b-e77e65d8469d

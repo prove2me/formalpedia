@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LaurentConst_atZero_scale
 -- name    : GlobalTheory.LaurentConst.atZero_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:01:16.451217+00:00
 -- url     : https://prove2.me/theorems/d279fe76-0076-42f6-ab59-0397af67b600

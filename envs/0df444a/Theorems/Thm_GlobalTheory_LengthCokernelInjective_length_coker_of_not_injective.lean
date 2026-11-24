@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LengthCokernelInjective_length_coker_of_not_injective
 -- name    : GlobalTheory.LengthCokernelInjective.length_coker_of_not_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:01:31.836024+00:00
 -- url     : https://prove2.me/theorems/f8478622-5484-4aba-89c3-20397d6a4d4a

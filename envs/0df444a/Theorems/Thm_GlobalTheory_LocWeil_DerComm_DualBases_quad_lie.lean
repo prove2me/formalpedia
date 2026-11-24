@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocWeil_DerComm_DualBases_quad_lie
 -- name    : GlobalTheory.LocWeil.DerComm.DualBases.quad_lie
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:13:52.522741+00:00
 -- url     : https://prove2.me/theorems/82248881-b1bb-4074-a838-4cc9e9b30bac

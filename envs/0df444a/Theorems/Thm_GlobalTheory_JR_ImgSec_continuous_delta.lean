@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_ImgSec_continuous_delta
 -- name    : GlobalTheory.JR.ImgSec.continuous_delta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:33:17.653779+00:00
 -- url     : https://prove2.me/theorems/1b52d217-548f-40ff-a66d-56a562e47524

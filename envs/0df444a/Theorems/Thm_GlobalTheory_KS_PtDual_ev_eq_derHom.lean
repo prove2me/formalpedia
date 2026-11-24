@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_PtDual_ev_eq_derHom
 -- name    : GlobalTheory.KS.PtDual.ev_eq_derHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:45:37.446075+00:00
 -- url     : https://prove2.me/theorems/67ca9577-385a-475c-bdc0-d4d0ed297c43

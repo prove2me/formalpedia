@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_An_zsym_analyticAt_LFunction
 -- name    : GlobalTheory.Mem.An.zsym_analyticAt_LFunction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:21:48.218573+00:00
 -- url     : https://prove2.me/theorems/92b96135-05fe-4aa7-bd80-271f6a038f09

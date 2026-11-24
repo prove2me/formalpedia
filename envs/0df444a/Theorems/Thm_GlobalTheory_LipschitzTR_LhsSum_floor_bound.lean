@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_LhsSum_floor_bound
 -- name    : GlobalTheory.LipschitzTR.LhsSum.floor_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:11:22.127092+00:00
 -- url     : https://prove2.me/theorems/f8e6f458-7a8c-42e0-8b25-4c24b790adcd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_cosetInj
 -- name    : GlobalTheory.InertZeta.cosetInj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:19:59.411801+00:00
 -- url     : https://prove2.me/theorems/b1c750ea-26a5-4888-8113-d1a4eeaa7c7c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocLift_eq_zero_of_small
 -- name    : GlobalTheory.LocLift.eq_zero_of_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:13:11.171979+00:00
 -- url     : https://prove2.me/theorems/d22b4dcf-c28e-4925-af7b-36e1c3344f43

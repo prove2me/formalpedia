@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelOfPairing_exists_column
 -- name    : GlobalTheory.LevelOfPairing.exists_column
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:03:04.238503+00:00
 -- url     : https://prove2.me/theorems/db9b453d-afca-4333-bd3f-dccfb6e76e8e

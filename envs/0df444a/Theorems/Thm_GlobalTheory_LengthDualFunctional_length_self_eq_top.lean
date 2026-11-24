@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LengthDualFunctional_length_self_eq_top
 -- name    : GlobalTheory.LengthDualFunctional.length_self_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:01:12.950832+00:00
 -- url     : https://prove2.me/theorems/06d7613c-ec48-428c-96db-83b472cc8cc8

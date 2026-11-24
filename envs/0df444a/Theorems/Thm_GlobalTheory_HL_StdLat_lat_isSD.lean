@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_StdLat_lat_isSD
 -- name    : GlobalTheory.HL.StdLat.lat_isSD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:00:17.88269+00:00
 -- url     : https://prove2.me/theorems/d40aaf8a-4db8-49f1-8bc3-1e46ad6caed1

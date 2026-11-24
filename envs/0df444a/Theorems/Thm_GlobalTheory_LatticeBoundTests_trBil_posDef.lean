@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeBoundTests_trBil_posDef
 -- name    : GlobalTheory.LatticeBoundTests.trBil_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:58:31.351733+00:00
 -- url     : https://prove2.me/theorems/797b376e-3350-4709-ac17-2fddc8b9db15

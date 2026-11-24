@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_HermClass_re_ne_zero
 -- name    : GlobalTheory.LocalQuad.HermClass.re_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:13:36.580518+00:00
 -- url     : https://prove2.me/theorems/e7c9557c-1899-43b6-a98b-34dd4301c562

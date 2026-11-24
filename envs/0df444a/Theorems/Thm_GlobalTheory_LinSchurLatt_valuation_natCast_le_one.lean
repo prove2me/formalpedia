@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinSchurLatt_valuation_natCast_le_one
 -- name    : GlobalTheory.LinSchurLatt.valuation_natCast_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:08:09.847345+00:00
 -- url     : https://prove2.me/theorems/6e1412cb-f511-463c-9ecc-112bc9a54787

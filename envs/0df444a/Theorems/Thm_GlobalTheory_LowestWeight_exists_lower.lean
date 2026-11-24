@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LowestWeight_exists_lower
 -- name    : GlobalTheory.LowestWeight.exists_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:19:58.826159+00:00
 -- url     : https://prove2.me/theorems/b0dcb91d-b874-4580-b455-b30f138bad3a

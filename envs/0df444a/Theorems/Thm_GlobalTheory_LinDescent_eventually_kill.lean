@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinDescent_eventually_kill
 -- name    : GlobalTheory.LinDescent.eventually_kill
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:06:49.685904+00:00
 -- url     : https://prove2.me/theorems/081e9cec-0016-468e-8703-e1488a9ef2e9

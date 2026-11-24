@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinDescent_unit_ext_of_flat
 -- name    : GlobalTheory.LinDescent.unit_ext_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:08:21.205489+00:00
 -- url     : https://prove2.me/theorems/d0521c4f-743e-4ebc-b6f9-4471fd0180ae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelOfPairing_rel_prod
 -- name    : GlobalTheory.LevelOfPairing.rel_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:03:21.776801+00:00
 -- url     : https://prove2.me/theorems/e9f87b50-8a23-43b1-b528-318220e33270

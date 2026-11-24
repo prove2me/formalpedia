@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K5_Basic_exists_isKum_qq
 -- name    : GlobalTheory.K5.Basic.exists_isKum_qq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:42:12.884965+00:00
 -- url     : https://prove2.me/theorems/7314d17c-198c-4f9e-9b49-587c8bd994fa

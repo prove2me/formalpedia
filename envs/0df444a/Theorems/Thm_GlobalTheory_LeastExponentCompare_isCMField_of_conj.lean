@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeastExponentCompare_isCMField_of_conj
 -- name    : GlobalTheory.LeastExponentCompare.isCMField_of_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:01:17.224815+00:00
 -- url     : https://prove2.me/theorems/6a3239e8-8ee8-4dcb-b5ca-9fe7a2fa7c93

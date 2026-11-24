@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinPhaseSeminorm_phase_eq
 -- name    : GlobalTheory.LinPhaseSeminorm.phase_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:07:19.43996+00:00
 -- url     : https://prove2.me/theorems/0d4a1274-007e-4bc3-b9c2-8ce795e63694

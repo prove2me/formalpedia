@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Koecher_norm_le_tsum_of_cube_fourierCoeff_le
 -- name    : GlobalTheory.Koecher.norm_le_tsum_of_cube_fourierCoeff_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:51:57.273453+00:00
 -- url     : https://prove2.me/theorems/b7c1a7ef-7953-41e6-98a1-51ca645e2be2

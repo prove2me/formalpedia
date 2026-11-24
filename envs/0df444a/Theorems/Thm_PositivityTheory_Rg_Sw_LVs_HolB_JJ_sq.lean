@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_HolB_JJ_sq
 -- name    : PositivityTheory.Rg.Sw.LVs.HolB.JJ_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:38:39.945241+00:00
 -- url     : https://prove2.me/theorems/10aefb0c-4092-47f3-aae6-a89c2f04a6a2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeHom_hermForm_swap_of_isHermitian
 -- name    : GlobalTheory.LatticeHom.hermForm_swap_of_isHermitian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:00:38.170382+00:00
 -- url     : https://prove2.me/theorems/61bc472e-1596-4687-9681-f11884486efc

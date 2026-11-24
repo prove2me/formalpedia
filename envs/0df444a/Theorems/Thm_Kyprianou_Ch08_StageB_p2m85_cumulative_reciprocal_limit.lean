@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m85_cumulative_reciprocal_limit
 -- name    : Kyprianou.Ch08.StageB.p2m85_cumulative_reciprocal_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T17:59:13.799949+00:00
 -- url     : https://prove2.me/theorems/a978ed92-2fbc-4be1-ad62-c1562403acc1

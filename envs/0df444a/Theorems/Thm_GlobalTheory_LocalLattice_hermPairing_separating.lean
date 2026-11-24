@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalLattice_hermPairing_separating
 -- name    : GlobalTheory.LocalLattice.hermPairing_separating
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:13:39.370214+00:00
 -- url     : https://prove2.me/theorems/532b3b2d-8ae8-4281-83e1-b7d2e767db40

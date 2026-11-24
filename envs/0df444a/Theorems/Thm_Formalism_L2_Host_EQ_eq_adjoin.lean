@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Host_EQ_eq_adjoin
 -- name    : Formalism.L2.Host.EQ_eq_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:37:32.92781+00:00
 -- url     : https://prove2.me/theorems/e4d1e132-5b1d-41a2-8472-fe519828cee5

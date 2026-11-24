@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Eta_galE_cQ
 -- name    : Formalism.FrobeniusOrbits.Eta.galE_cQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:12:53.817193+00:00
 -- url     : https://prove2.me/theorems/4b41d554-4cc8-4ff6-a77a-b1e21bce8f8c

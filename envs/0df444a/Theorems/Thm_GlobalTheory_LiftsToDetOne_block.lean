@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LiftsToDetOne_block
 -- name    : GlobalTheory.LiftsToDetOne.block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:04:58.476874+00:00
 -- url     : https://prove2.me/theorems/2f533ede-d874-42b5-b411-fadc44bd9656

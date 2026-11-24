@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeibnizProd_countPerms_le_factorial
 -- name    : GlobalTheory.LeibnizProd.countPerms_le_factorial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:01:11.515143+00:00
 -- url     : https://prove2.me/theorems/fd244d29-a1dd-441e-9233-17c5e2c1fed1

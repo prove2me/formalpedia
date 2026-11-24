@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Ram_Rd_rdE_nonneg
 -- name    : UpperTheory.Ram.Rd.rdE_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:46:34.638147+00:00
 -- url     : https://prove2.me/theorems/08f2c757-f908-4ee2-abc6-7e2cdbd5aed1

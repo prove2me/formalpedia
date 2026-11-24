@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalNorm_exists_local_generator
 -- name    : GlobalTheory.LocalNorm.exists_local_generator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:14:22.87081+00:00
 -- url     : https://prove2.me/theorems/52d91a36-1de6-4f3a-bfde-9e50ebbf9df8

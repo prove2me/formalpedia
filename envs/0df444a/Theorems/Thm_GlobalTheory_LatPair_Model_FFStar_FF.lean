@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_Model_FFStar_FF
 -- name    : GlobalTheory.LatPair.Model.FFStar_FF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:02:05.16886+00:00
 -- url     : https://prove2.me/theorems/a70ecc22-ec32-4590-8be9-3c2ecc55d42c

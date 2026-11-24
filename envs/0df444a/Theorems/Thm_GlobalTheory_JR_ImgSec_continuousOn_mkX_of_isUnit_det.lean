@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_ImgSec_continuousOn_mkX_of_isUnit_det
 -- name    : GlobalTheory.JR.ImgSec.continuousOn_mkX_of_isUnit_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:34:17.77614+00:00
 -- url     : https://prove2.me/theorems/ea77add6-630f-44f5-9284-6dfc41f263ea

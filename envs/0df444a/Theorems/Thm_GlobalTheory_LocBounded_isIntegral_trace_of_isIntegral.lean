@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocBounded_isIntegral_trace_of_isIntegral
 -- name    : GlobalTheory.LocBounded.isIntegral_trace_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:12:26.364151+00:00
 -- url     : https://prove2.me/theorems/1a937ce7-35ba-433b-82df-5a3ddc6313d1

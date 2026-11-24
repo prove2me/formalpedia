@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocSplit_exists_sq_eq
 -- name    : GlobalTheory.LocSplit.exists_sq_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:14:28.689502+00:00
 -- url     : https://prove2.me/theorems/227a810c-0641-4673-a6f2-32702b053f4b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LabelsAgree_exists_pre_zero
 -- name    : GlobalTheory.LabelsAgree.exists_pre_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:56:45.488485+00:00
 -- url     : https://prove2.me/theorems/21371fac-6771-4501-a261-492fcf0aec27

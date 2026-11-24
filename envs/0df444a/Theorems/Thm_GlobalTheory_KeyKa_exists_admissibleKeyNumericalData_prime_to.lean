@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_exists_admissibleKeyNumericalData_prime_to
 -- name    : GlobalTheory.KeyKa.exists_admissibleKeyNumericalData_prime_to
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:49:53.668576+00:00
 -- url     : https://prove2.me/theorems/fdf5ef71-095e-4439-bfe9-a92d53f37ed0

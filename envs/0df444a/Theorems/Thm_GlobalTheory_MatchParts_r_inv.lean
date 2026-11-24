@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatchParts_r_inv
 -- name    : GlobalTheory.MatchParts.r_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:20:36.098313+00:00
 -- url     : https://prove2.me/theorems/0389c308-b910-4d92-8d75-9457e6636e4e

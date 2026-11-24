@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatExpSum_summable_exp_neg_trace
 -- name    : GlobalTheory.LatExpSum.summable_exp_neg_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:57:22.787238+00:00
 -- url     : https://prove2.me/theorems/a6428d4b-01ed-495f-936c-6b29e82b4839

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelAllPrimes_isCoprime_add_rt_sub_rt
 -- name    : GlobalTheory.LevelAllPrimes.isCoprime_add_rt_sub_rt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:02:57.661453+00:00
 -- url     : https://prove2.me/theorems/a3500f47-5086-4810-9577-2062873a3e84

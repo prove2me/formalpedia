@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertLevi_blkMat_gram
 -- name    : GlobalTheory.CompanionTheory.InertLevi.blkMat_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:03:04.319815+00:00
 -- url     : https://prove2.me/theorems/bdc502e5-020b-481c-b2c7-eb47d6003dfc

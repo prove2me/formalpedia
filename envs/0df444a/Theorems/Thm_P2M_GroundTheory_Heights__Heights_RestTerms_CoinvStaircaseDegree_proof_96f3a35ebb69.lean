@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_CoinvStaircaseDegree_proof_96f3a35ebb69
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_CoinvStaircaseDegree_proof_96f3a35ebb69
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:33:02.178904+00:00
 -- url     : https://prove2.me/theorems/4292d882-f814-46c6-b516-fec18ae363e1

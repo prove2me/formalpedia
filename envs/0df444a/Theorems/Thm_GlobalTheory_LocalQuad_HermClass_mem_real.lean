@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_HermClass_mem_real
 -- name    : GlobalTheory.LocalQuad.HermClass.mem_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:13:53.92988+00:00
 -- url     : https://prove2.me/theorems/98ec8dcb-c2f5-4704-aaea-456eb86c6136

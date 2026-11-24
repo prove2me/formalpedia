@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_exUnique_ser
 -- name    : GlobalTheory.JetSer.exUnique_ser
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:43:16.991285+00:00
 -- url     : https://prove2.me/theorems/b7b6745a-0a3c-404d-beca-ed046c884e7b

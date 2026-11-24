@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocMod_Inhab_eventually_invariant
 -- name    : GlobalTheory.LocMod.Inhab.eventually_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:13:50.297862+00:00
 -- url     : https://prove2.me/theorems/9b79dbca-289f-4753-91ea-40d22c948ee1

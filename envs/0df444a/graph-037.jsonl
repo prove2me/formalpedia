@@ -38015,11 +38015,11 @@
 {"parent": "Formalism.UG.P.glint_exists_approx", "child": "Lemmata_NearbyExistence_ExistsNear", "via": ["solution", "statement"]}
 {"parent": "Formalism.UG.P.glint_exists_approx", "child": "Formalism_SatakeDualWeyl_Statement", "via": ["solution", "statement"]}
 {"parent": "Formalism.UG.P.glint_exists_approx", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_GlintPrincRelIndexNeZero", "via": ["solution", "statement"]}
-{"parent": "WaDiag.p3", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "WaDiag.p3", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "WaDiag.p3", "child": "AvramDividend_Classical_ScaleFunction", "via": ["statement"]}
-{"parent": "WaDiag.p3", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
-{"parent": "WaDiag.p3", "child": "Kyprianou_Ch03_CompletedNaturalFiltration", "via": ["statement"]}
+{"parent": "WaDiag.p3", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "WaDiag.p3", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "WaDiag.p3", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
+{"parent": "WaDiag.p3", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "WaDiag.p3", "child": "Kyprianou_Ch03_CompletedNaturalFiltration", "via": ["solution", "statement"]}
 {"parent": "RH1E6S11_D069_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LatticeTransference_DualTransport", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LatticeTransference_TransferenceKey", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LatticeTransference_DualTransport", "child": "Formalism_PeriodIntegrals_Transference", "via": ["statement"]}

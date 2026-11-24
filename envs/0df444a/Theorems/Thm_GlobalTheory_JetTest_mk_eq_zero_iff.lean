@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetTest_mk_eq_zero_iff
 -- name    : GlobalTheory.JetTest.mk_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:28:39.756687+00:00
 -- url     : https://prove2.me/theorems/8a284536-8453-4cf3-a278-718002f96bc6

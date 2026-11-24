@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LiftLocal_toStalk_bijective
 -- name    : GlobalTheory.LiftLocal.toStalk_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:06:39.994591+00:00
 -- url     : https://prove2.me/theorems/c77bb34c-a5f5-4c6f-aca2-67b231538440

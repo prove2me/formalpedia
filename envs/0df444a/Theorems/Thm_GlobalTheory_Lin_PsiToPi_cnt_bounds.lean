@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_PsiToPi_cnt_bounds
 -- name    : GlobalTheory.Lin.PsiToPi.cnt_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:06:14.090066+00:00
 -- url     : https://prove2.me/theorems/9e77c168-f087-4ed3-87c5-f974e919bd9b

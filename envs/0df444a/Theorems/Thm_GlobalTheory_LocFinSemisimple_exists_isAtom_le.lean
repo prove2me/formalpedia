@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFinSemisimple_exists_isAtom_le
 -- name    : GlobalTheory.LocFinSemisimple.exists_isAtom_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:12:06.222941+00:00
 -- url     : https://prove2.me/theorems/eb7ed32f-2ab9-45fd-9014-7d74967136d0

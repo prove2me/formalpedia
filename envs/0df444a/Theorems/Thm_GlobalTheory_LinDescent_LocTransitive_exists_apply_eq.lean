@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinDescent_LocTransitive_exists_apply_eq
 -- name    : GlobalTheory.LinDescent.LocTransitive.exists_apply_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:07:06.844803+00:00
 -- url     : https://prove2.me/theorems/993b099f-5170-481f-a690-01f670fe3544

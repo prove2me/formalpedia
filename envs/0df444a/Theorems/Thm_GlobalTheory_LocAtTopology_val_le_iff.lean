@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocAtTopology_val_le_iff
 -- name    : GlobalTheory.LocAtTopology.val_le_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:13:21.111078+00:00
 -- url     : https://prove2.me/theorems/e5736529-1b0a-49d7-b595-4e70aab11cdc

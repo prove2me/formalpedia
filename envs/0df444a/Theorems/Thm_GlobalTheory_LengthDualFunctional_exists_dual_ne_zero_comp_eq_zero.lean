@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LengthDualFunctional_exists_dual_ne_zero_comp_eq_zero
 -- name    : GlobalTheory.LengthDualFunctional.exists_dual_ne_zero_comp_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:01:18.617801+00:00
 -- url     : https://prove2.me/theorems/2a9b0d6c-7389-4d6e-9ae3-8dc68b23d599

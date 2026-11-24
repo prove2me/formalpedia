@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LaurentConst_ext_of_forall_quotient
 -- name    : GlobalTheory.LaurentConst.ext_of_forall_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:00:57.827082+00:00
 -- url     : https://prove2.me/theorems/83324acb-ccf9-4f2f-8b0d-0f4cef6fb44c

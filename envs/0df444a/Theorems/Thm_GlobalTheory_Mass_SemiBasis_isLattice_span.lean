@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_SemiBasis_isLattice_span
 -- name    : GlobalTheory.Mass.SemiBasis.isLattice_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:20:02.504994+00:00
 -- url     : https://prove2.me/theorems/674a0084-1f00-4849-98ef-08302c1d2682

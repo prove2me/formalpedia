@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LaurentConst_evalAt_var
 -- name    : GlobalTheory.LaurentConst.evalAt_var
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:01:39.103229+00:00
 -- url     : https://prove2.me/theorems/7b4d09e4-4e49-40b9-baf0-018ab534de36

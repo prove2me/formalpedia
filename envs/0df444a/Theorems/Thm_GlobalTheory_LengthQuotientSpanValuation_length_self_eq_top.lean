@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LengthQuotientSpanValuation_length_self_eq_top
 -- name    : GlobalTheory.LengthQuotientSpanValuation.length_self_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:01:12.609244+00:00
 -- url     : https://prove2.me/theorems/c863b8ca-ab13-46fc-8403-792938aa7f26

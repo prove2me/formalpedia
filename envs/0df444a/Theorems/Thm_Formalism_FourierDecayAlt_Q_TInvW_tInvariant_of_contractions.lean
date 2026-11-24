@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TInvW_tInvariant_of_contractions
 -- name    : Formalism.FourierDecayAlt.Q.TInvW.tInvariant_of_contractions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:52:17.904378+00:00
 -- url     : https://prove2.me/theorems/498ce604-31ca-49f9-8aa7-1c59fcbd9dec

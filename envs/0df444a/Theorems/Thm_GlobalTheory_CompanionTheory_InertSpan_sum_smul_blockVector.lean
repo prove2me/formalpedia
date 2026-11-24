@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertSpan_sum_smul_blockVector
 -- name    : GlobalTheory.CompanionTheory.InertSpan.sum_smul_blockVector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:52:02.389542+00:00
 -- url     : https://prove2.me/theorems/7cf221c9-1677-487a-bb7f-08f49761aeec

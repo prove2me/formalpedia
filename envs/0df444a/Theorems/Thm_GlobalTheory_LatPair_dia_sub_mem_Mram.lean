@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_dia_sub_mem_Mram
 -- name    : GlobalTheory.LatPair.dia_sub_mem_Mram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:58:33.843327+00:00
 -- url     : https://prove2.me/theorems/3b4f26ac-888b-4beb-803d-cbc743d7c097

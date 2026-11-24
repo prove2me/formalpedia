@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_mE_apply
 -- name    : AAInvW.mE_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:34:48.631749+00:00
 -- url     : https://prove2.me/theorems/60fb1770-580c-4da8-8224-bea2d5e24545

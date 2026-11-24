@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocConstTensor_exists_sum
 -- name    : GlobalTheory.LocConstTensor.exists_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:12:32.808035+00:00
 -- url     : https://prove2.me/theorems/a431df16-1364-4ee6-b2b7-3170ec4c038f

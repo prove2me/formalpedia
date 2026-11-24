@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocDualInt_pairKO_eq_zero_of_mem
 -- name    : GlobalTheory.LocDualInt.pairKO_eq_zero_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:11:53.697862+00:00
 -- url     : https://prove2.me/theorems/305bf0f0-3bab-46d2-82d1-ba0f8b5c422e

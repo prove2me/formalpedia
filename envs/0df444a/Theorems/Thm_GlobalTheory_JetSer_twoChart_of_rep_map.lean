@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_twoChart_of_rep_map
 -- name    : GlobalTheory.JetSer.twoChart_of_rep_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:41:55.644572+00:00
 -- url     : https://prove2.me/theorems/8be815e3-5cc3-4259-88a7-1d685a8f0557

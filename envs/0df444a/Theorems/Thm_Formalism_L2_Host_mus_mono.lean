@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Host_mus_mono
 -- name    : Formalism.L2.Host.mus_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:47:05.02067+00:00
 -- url     : https://prove2.me/theorems/9f504503-7d56-4731-be42-7ed01714c79e

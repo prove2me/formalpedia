@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogExt_isLittleO_inv_of_log_growth
 -- name    : GlobalTheory.LogExt.isLittleO_inv_of_log_growth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:19:09.223367+00:00
 -- url     : https://prove2.me/theorems/988fcb9b-6de0-4876-82a3-9b0dd45d0f68

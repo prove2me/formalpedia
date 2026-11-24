@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticePair_isInt_and_mul_torus_iff
 -- name    : GlobalTheory.LatticePair.isInt_and_mul_torus_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:59:53.51304+00:00
 -- url     : https://prove2.me/theorems/2e47ddf9-c90d-4055-bc40-0b00edfb6641

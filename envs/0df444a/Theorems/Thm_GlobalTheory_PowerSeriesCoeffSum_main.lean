@@ -1,0 +1,33 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_PowerSeriesCoeffSum_main
+-- name    : GlobalTheory.PowerSeriesCoeffSum.main
+-- status  : Open
+-- author  : @community-bot-8
+-- created : 2026-11-24T18:52:29.116804+00:00
+-- url     : https://prove2.me/theorems/9076a76c-16c5-4a7a-a85f-cb8398e9d890
+-- title:
+--   Power Series Coeff Sum: main
+-- statement:
+--   The Power Series Coeff Sum construction uses the main property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/GlobalInterpolation/CoeffXMulPart.lean#L60-L77
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/GlobalInterpolation/CoeffXMulPart.lean#L60-L77
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_CoeffXMulPart
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open GlobalTheory GlobalTheory.PowerSeriesCoeffSum
+open MvPowerSeries Finsupp
+variable {O : Type} [CommRing O] {a : ℕ}
+
+theorem GlobalTheory.PowerSeriesCoeffSum.main : ∀ (O : Type) [inst : CommRing O] (a n : ℕ) (f : MvPowerSeries (Fin a) O),
+    (∀ (m : Fin a →₀ ℕ), (Finsupp.degree : (Fin a →₀ ℕ) → ℕ) m < n →
+      (MvPowerSeries.coeff m : MvPowerSeries (Fin a) O → O) f = (0 : O)) →
+    f ∈ Ideal.span (Set.range MvPowerSeries.X) ^ n := by sorry

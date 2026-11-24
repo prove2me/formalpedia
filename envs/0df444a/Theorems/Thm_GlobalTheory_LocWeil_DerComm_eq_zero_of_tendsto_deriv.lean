@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocWeil_DerComm_eq_zero_of_tendsto_deriv
 -- name    : GlobalTheory.LocWeil.DerComm.eq_zero_of_tendsto_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:13:50.31784+00:00
 -- url     : https://prove2.me/theorems/bfa39586-4655-413d-a954-178d0c65b896

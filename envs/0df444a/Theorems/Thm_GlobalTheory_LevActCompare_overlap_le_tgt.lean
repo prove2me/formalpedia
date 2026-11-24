@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevActCompare_overlap_le_tgt
 -- name    : GlobalTheory.LevActCompare.overlap_le_tgt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:01:54.695602+00:00
 -- url     : https://prove2.me/theorems/4e23b8e3-da35-423e-a361-cad2d8b4d12d

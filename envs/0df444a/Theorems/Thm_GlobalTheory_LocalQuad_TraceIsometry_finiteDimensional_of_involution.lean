@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_TraceIsometry_finiteDimensional_of_involution
 -- name    : GlobalTheory.LocalQuad.TraceIsometry.finiteDimensional_of_involution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:14:16.902021+00:00
 -- url     : https://prove2.me/theorems/134b74a4-39dd-4198-8119-06bf40a02952

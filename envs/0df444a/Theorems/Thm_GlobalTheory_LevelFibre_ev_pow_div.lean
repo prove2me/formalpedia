@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelFibre_ev_pow_div
 -- name    : GlobalTheory.LevelFibre.ev_pow_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:03:35.218281+00:00
 -- url     : https://prove2.me/theorems/28f5bf00-b51e-49bf-888e-44ed23f87c66

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatBasisAt_algebraMap_ne_zero
 -- name    : GlobalTheory.LatBasisAt.algebraMap_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:58:01.426571+00:00
 -- url     : https://prove2.me/theorems/a069735d-2dfc-4aee-b5fb-a54b347173ae

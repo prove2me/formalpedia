@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_exercise36_multiplicativeExpTail
 -- name    : Kyprianou.Ch03.exercise36_multiplicativeExpTail
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T15:46:01.119523+00:00
 -- url     : https://prove2.me/theorems/2133d14e-2de5-4be8-b5ce-b042c34fcff5

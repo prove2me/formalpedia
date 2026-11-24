@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_FactorBound_norm_iteratedFDeriv_le_sum
 -- name    : GlobalTheory.HeckeTwo.FactorBound.norm_iteratedFDeriv_le_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:06:11.558589+00:00
 -- url     : https://prove2.me/theorems/b479b348-b307-4bbc-88ac-440c0205bfcb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_remb_injective
 -- name    : GlobalTheory.LipschitzTR.remb_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:13:10.885468+00:00
 -- url     : https://prove2.me/theorems/c66aa704-be29-460b-b744-9f6c4b662277

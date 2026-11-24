@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LiftTest_sval_eq_zero_of_flat
 -- name    : GlobalTheory.LiftTest.sval_eq_zero_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:05:22.22343+00:00
 -- url     : https://prove2.me/theorems/7bb19781-433b-4332-8cb6-861fe3d160fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeIntegerMultiple_exists_int_mul_mem
 -- name    : GlobalTheory.LatticeIntegerMultiple.exists_int_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:00:23.665449+00:00
 -- url     : https://prove2.me/theorems/56ab962f-5e0a-479b-945a-1b869706501d

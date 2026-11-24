@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocDerExt_exists_locDer
 -- name    : GlobalTheory.LocDerExt.exists_locDer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:12:28.314078+00:00
 -- url     : https://prove2.me/theorems/c4ab71ec-febb-48ef-b2d4-8a69c759d6c6

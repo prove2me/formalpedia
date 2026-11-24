@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCocycle_exists_coboundary_of_symm_cocycle
 -- name    : GlobalTheory.FormalCocycle.exists_coboundary_of_symm_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:33:34.13315+00:00
 -- url     : https://prove2.me/theorems/dc90396f-f5d9-4389-833a-c30cd5412de8

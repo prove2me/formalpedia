@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_continuous_toMixedTR
 -- name    : GlobalTheory.LipschitzTR.continuous_toMixedTR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:10:59.560166+00:00
 -- url     : https://prove2.me/theorems/422600e4-ca49-4a46-ae6e-afcb971b7893

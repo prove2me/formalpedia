@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_OrbitProper_cont_hankel
 -- name    : GlobalTheory.JR.OrbitProper.cont_hankel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:39:28.159431+00:00
 -- url     : https://prove2.me/theorems/898c3878-d0f3-4849-94d3-3459d9335a80

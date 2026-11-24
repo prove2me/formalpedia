@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__Tame_val_nat_eq_one_5b47ed1a4a71
 -- name    : P2M_Formalism_BasicNotions_Examples__Tame_val_nat_eq_one_5b47ed1a4a71
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:48:48.448578+00:00
 -- url     : https://prove2.me/theorems/5c83232d-2187-4ff2-8ee3-861f8d6e66a3

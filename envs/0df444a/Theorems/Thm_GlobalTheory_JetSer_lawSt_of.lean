@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_lawSt_of
 -- name    : GlobalTheory.JetSer.lawSt_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:41:31.742165+00:00
 -- url     : https://prove2.me/theorems/8db6fde5-eecf-4704-a8cd-efdb82a7d227

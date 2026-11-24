@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_U_mem_EqForm
 -- name    : GlobalTheory.LatPair.U_mem_EqForm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:36:15.623574+00:00
 -- url     : https://prove2.me/theorems/11970695-5921-4167-8265-ef7e81e691f7

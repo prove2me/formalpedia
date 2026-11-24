@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticePartition_summable_lattice
 -- name    : GlobalTheory.LatticePartition.summable_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:01:21.05499+00:00
 -- url     : https://prove2.me/theorems/0feee174-5b98-4260-bd69-7e2435e41b36

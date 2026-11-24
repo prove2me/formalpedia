@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevCover_exists_lift_geom
 -- name    : GlobalTheory.LevCover.exists_lift_geom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:02:05.200814+00:00
 -- url     : https://prove2.me/theorems/809d0c4f-6998-46a2-92ed-fe3a45bd7064

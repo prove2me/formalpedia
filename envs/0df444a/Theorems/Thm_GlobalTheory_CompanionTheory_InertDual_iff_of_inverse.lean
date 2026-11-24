@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertDual_iff_of_inverse
 -- name    : GlobalTheory.CompanionTheory.InertDual.iff_of_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:02:17.783447+00:00
 -- url     : https://prove2.me/theorems/611b301f-af85-4e48-a63e-3e909b460aa3

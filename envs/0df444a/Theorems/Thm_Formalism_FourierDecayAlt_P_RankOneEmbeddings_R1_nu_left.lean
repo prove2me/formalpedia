@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RankOneEmbeddings_R1_nu_left
 -- name    : Formalism.FourierDecayAlt.P.RankOneEmbeddings.R1.nu_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:22:16.921107+00:00
 -- url     : https://prove2.me/theorems/26943c79-2475-4985-af40-541eb8fe1d1f

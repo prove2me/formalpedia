@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelUnfold_gluedS_le_iff
 -- name    : GlobalTheory.LevelUnfold.gluedS_le_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:03:37.079245+00:00
 -- url     : https://prove2.me/theorems/85f6eba4-9dcc-4696-9142-f304d14458be

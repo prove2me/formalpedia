@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LaurentFrac_prod_zpow_mul
 -- name    : GlobalTheory.LaurentFrac.prod_zpow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:01:15.844022+00:00
 -- url     : https://prove2.me/theorems/55cc1f51-1ae7-424b-a47b-1ff661e01baf

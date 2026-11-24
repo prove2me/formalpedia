@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HopfQuot_finite_faithfullyFlat_ker
 -- name    : GlobalTheory.HopfQuot.finite_faithfullyFlat_ker
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:36:13.271808+00:00
 -- url     : https://prove2.me/theorems/ce04ebc8-6c63-47b1-ac0c-402bb3974ff0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LaurentConst_exists_extension
 -- name    : GlobalTheory.LaurentConst.exists_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:01:44.394623+00:00
 -- url     : https://prove2.me/theorems/e4ae4ca8-5446-46f8-bcfe-39cd348eedc1

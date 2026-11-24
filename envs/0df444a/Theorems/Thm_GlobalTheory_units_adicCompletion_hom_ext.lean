@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_units_adicCompletion_hom_ext
 -- name    : GlobalTheory.units_adicCompletion_hom_ext
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:04.51914+00:00
 -- url     : https://prove2.me/theorems/a7619a37-2ebe-440a-9946-3a0786cff3ec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocWeil_DerComm_hasDerivAt_move
 -- name    : GlobalTheory.LocWeil.DerComm.hasDerivAt_move
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:13:50.184772+00:00
 -- url     : https://prove2.me/theorems/06da910f-919b-4d8e-a1d8-530c66532037

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalFlatMax_lTensor_injective_of_smul_le
 -- name    : GlobalTheory.LocalFlatMax.lTensor_injective_of_smul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:14:04.532798+00:00
 -- url     : https://prove2.me/theorems/9744ef5c-19f8-40ca-b86a-b7841c03a3b4

@@ -26778,7 +26778,7 @@
 {"parent": "ListReplicableBias.LowerBound.lemma_5_10", "child": "ListReplicableBias_LowerBound_ListReplicability", "via": ["statement"]}
 {"parent": "GoodQLTC_distOp", "child": "GoodQLTC_codeSpace", "via": ["statement"]}
 {"parent": "GoodQLTC_distOp", "child": "GoodQLTC_pauliX", "via": ["statement"]}
-{"parent": "MatchingGFT.TightE.section_4_2_display", "child": "MatchingGFT_TightE_CappedExp", "via": ["statement"]}
+{"parent": "MatchingGFT.TightE.section_4_2_display", "child": "MatchingGFT_TightE_CappedExp", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ubv_finite12_original_condexp_reward_budget", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ubv_finite12_original_condexp_reward_budget", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.Numerical.U9.wuplus_column_g", "child": "OAIQ098G005", "via": ["statement"]}
@@ -45181,7 +45181,7 @@
 {"parent": "OAI.SecondPassArithmetic.cubeCoordinatesOfBlock_rightBit", "child": "OAI_NumberTheory_DirichletL_CubicSieve_ScaleCaps", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.cubeCoordinatesOfBlock_rightBit", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_CommonMasks", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.cubeCoordinatesOfBlock_rightBit", "child": "OAI_NumberTheory_DirichletL_Eisenstein_QuotientTopology", "via": ["solution", "statement"]}
-{"parent": "ChangingCache.UpperBound.lemma_5_7", "child": "ChangingCache_UpperBound_Bank", "via": ["statement"]}
+{"parent": "ChangingCache.UpperBound.lemma_5_7", "child": "ChangingCache_UpperBound_Bank", "via": ["solution", "statement"]}
 {"parent": "IntervalMaxCutEPTAS_Scheme_Tables", "child": "IntervalMaxCutEPTAS_Scheme_Hierarchy", "via": ["statement"]}
 {"parent": "BSCvsBEC.section4_necessity", "child": "BSCvsBEC_condEntBEC", "via": ["statement"]}
 {"parent": "BSCvsBEC.section4_necessity", "child": "BSCvsBEC_shannon", "via": ["statement"]}

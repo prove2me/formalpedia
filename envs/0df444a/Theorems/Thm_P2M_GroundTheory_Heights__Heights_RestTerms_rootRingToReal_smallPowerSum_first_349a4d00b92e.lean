@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_rootRingToReal_smallPowerSum_first_349a4d00b92e
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_rootRingToReal_smallPowerSum_first_349a4d00b92e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:38:18.338471+00:00
 -- url     : https://prove2.me/theorems/03ab5f7f-d623-4928-b179-d5b1062a7b2d

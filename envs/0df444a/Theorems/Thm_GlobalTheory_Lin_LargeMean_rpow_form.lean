@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_LargeMean_rpow_form
 -- name    : GlobalTheory.Lin.LargeMean.rpow_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:06:24.91798+00:00
 -- url     : https://prove2.me/theorems/19080ff6-2435-4f14-a354-8a05e11247be

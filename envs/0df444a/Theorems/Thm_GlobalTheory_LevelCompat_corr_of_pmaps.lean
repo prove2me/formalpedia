@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelCompat_corr_of_pmaps
 -- name    : GlobalTheory.LevelCompat.corr_of_pmaps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:03:19.233843+00:00
 -- url     : https://prove2.me/theorems/78fe7c9a-85f4-4e34-886a-61fa3e230d62

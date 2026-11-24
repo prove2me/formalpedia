@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x5_Hset_eq
 -- name    : Formalism.FourierDecayAlt.P.B2x5.Hset_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:56:39.766951+00:00
 -- url     : https://prove2.me/theorems/f76a9cb0-8d21-4c21-8b90-b406f61258e1

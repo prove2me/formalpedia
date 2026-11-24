@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocBounded_exists_coeffs_of_mem_adjoin
 -- name    : GlobalTheory.LocBounded.exists_coeffs_of_mem_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:12:35.557039+00:00
 -- url     : https://prove2.me/theorems/493a7966-5a63-4d99-9d9f-d9cf20d6d2e9

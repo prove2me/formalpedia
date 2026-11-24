@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalSurj_approx_succ_sub
 -- name    : GlobalTheory.LocalSurj.approx_succ_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:18:52.17563+00:00
 -- url     : https://prove2.me/theorems/d2b5cbab-bab8-4142-a2bf-dd4dcb547dee

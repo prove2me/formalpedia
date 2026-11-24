@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_HDecay_contDiff_wF
 -- name    : GlobalTheory.HeckeTwo.HDecay.contDiff_wF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:05:32.307613+00:00
 -- url     : https://prove2.me/theorems/0a0655f4-128b-4f5a-a84a-82fd3dd8d46b

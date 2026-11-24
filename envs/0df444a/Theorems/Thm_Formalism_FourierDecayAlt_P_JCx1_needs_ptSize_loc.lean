@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JCx1_needs_ptSize_loc
 -- name    : Formalism.FourierDecayAlt.P.JCx1.needs.ptSize_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:34:13.12367+00:00
 -- url     : https://prove2.me/theorems/8e46ebff-05b9-4ec5-a900-26e7c7032786

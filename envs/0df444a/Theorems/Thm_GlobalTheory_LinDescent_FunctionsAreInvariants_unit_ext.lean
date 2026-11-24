@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinDescent_FunctionsAreInvariants_unit_ext
 -- name    : GlobalTheory.LinDescent.FunctionsAreInvariants.unit_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:06:56.49604+00:00
 -- url     : https://prove2.me/theorems/8b5c67e3-77b1-46dc-a552-21dc6ede9d1d

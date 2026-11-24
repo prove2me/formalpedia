@@ -82689,7 +82689,7 @@
 {"parent": "QEC.Coding.BDL26IncomingRowsExecution.rowUniverseQuery_cost_le", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_FiniteExperimentCost", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26IncomingRowsExecution.rowUniverseQuery_cost_le", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_IncomingRowsExecution", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26IncomingRowsExecution.rowUniverseQuery_cost_le", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_CountableExperimentGeometry", "via": ["solution", "statement"]}
-{"parent": "IndependentInfoPricing.Main.reverse_closure", "child": "IndependentInfoPricing_Main_Menus", "via": ["statement"]}
+{"parent": "IndependentInfoPricing.Main.reverse_closure", "child": "IndependentInfoPricing_Main_Menus", "via": ["solution", "statement"]}
 {"parent": "RobustKZClust.Main.lemma_4_4", "child": "RobustKZClust_Main_Spline", "via": ["statement"]}
 {"parent": "QuadSDE_Fock", "child": "GaussTesting_quadrature", "via": ["statement"]}
 {"parent": "QuadSDE_Fock", "child": "QuadSDE_DriftClass", "via": ["statement"]}

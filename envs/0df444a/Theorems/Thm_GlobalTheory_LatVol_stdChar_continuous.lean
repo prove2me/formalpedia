@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatVol_stdChar_continuous
 -- name    : GlobalTheory.LatVol.stdChar_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:58:41.022253+00:00
 -- url     : https://prove2.me/theorems/fe9d5ad0-1e60-4bbf-89e0-fdbb0a5a773e

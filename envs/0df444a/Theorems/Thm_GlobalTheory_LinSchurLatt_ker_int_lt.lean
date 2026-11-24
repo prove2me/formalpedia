@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinSchurLatt_ker_int_lt
 -- name    : GlobalTheory.LinSchurLatt.ker_int_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:07:55.97486+00:00
 -- url     : https://prove2.me/theorems/0fb21f69-9ae1-40a9-bbe6-3f52a137142b

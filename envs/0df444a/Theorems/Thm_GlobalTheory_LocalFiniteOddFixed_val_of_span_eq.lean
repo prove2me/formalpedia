@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalFiniteOddFixed_val_of_span_eq
 -- name    : GlobalTheory.LocalFiniteOddFixed.val_of_span_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:14:22.59326+00:00
 -- url     : https://prove2.me/theorems/e7a44db2-0ee7-4081-89fb-bcd0c633497b

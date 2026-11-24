@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LengthQuotientValuationDet_length_quotient_span_singleton
 -- name    : GlobalTheory.LengthQuotientValuationDet.length_quotient_span_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:01:21.700781+00:00
 -- url     : https://prove2.me/theorems/3c84190e-f3e1-4f56-bcf2-3f502e811769

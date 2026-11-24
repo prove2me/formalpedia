@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_KosKer_div_unif
 -- name    : GlobalTheory.KeyKa.KosKer.div_unif
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:54:46.785516+00:00
 -- url     : https://prove2.me/theorems/9702e08e-5170-419a-9566-8cdd6809add4

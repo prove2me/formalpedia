@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_orbit_proper_of_columns
 -- name    : GlobalTheory.JR.orbit_proper_of_columns
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:40:07.095969+00:00
 -- url     : https://prove2.me/theorems/79386253-53f6-4e65-820f-dca31fb100cc

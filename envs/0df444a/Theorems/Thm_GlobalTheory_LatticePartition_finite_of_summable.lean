@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticePartition_finite_of_summable
 -- name    : GlobalTheory.LatticePartition.finite_of_summable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:00:34.649853+00:00
 -- url     : https://prove2.me/theorems/90076651-2f72-407d-b94a-63fc26bb368a

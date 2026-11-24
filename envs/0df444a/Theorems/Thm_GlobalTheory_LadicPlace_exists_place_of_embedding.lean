@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LadicPlace_exists_place_of_embedding
 -- name    : GlobalTheory.LadicPlace.exists_place_of_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:14:17.365431+00:00
 -- url     : https://prove2.me/theorems/ddc28ce8-4bec-4d52-b9d4-58b284f24616

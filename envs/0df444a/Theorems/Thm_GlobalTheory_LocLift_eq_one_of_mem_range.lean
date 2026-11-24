@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocLift_eq_one_of_mem_range
 -- name    : GlobalTheory.LocLift.eq_one_of_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:12:54.819488+00:00
 -- url     : https://prove2.me/theorems/9d1a9ddb-52ec-41ed-b719-9692af8b972e

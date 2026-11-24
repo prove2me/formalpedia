@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogExt_differentiableAt_lineIntegral
 -- name    : GlobalTheory.LogExt.differentiableAt_lineIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:19:07.11373+00:00
 -- url     : https://prove2.me/theorems/a8c27324-9cbc-4863-8318-c2583f7ad96d

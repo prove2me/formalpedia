@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BasicNotions_primeClass_eq_ramified_iff
 -- name    : Formalism.BasicNotions.primeClass_eq_ramified_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:31:18.856735+00:00
 -- url     : https://prove2.me/theorems/adc9542c-212b-4b86-8344-6ed3e5d080d4

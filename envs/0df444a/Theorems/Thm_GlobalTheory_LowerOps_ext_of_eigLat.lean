@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LowerOps_ext_of_eigLat
 -- name    : GlobalTheory.LowerOps.ext_of_eigLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:16:48.368715+00:00
 -- url     : https://prove2.me/theorems/8294c543-44ba-4099-9364-75d840df1188

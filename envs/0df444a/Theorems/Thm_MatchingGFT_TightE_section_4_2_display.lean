@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatchingGFT_TightE_section_4_2_display
 -- name    : MatchingGFT.TightE.section_4_2_display
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:51:54.543534+00:00
 -- url     : https://prove2.me/theorems/50e02e9f-337f-4841-81e8-c7922c99afaa

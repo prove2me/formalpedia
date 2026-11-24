@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticePartition_bumpProd_compact
 -- name    : GlobalTheory.LatticePartition.bumpProd_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:00:22.371269+00:00
 -- url     : https://prove2.me/theorems/80ce38ed-3fbf-4662-bde9-7c248ede019c

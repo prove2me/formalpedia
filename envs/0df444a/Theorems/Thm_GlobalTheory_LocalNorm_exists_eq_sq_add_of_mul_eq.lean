@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalNorm_exists_eq_sq_add_of_mul_eq
 -- name    : GlobalTheory.LocalNorm.exists_eq_sq_add_of_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:13:57.376574+00:00
 -- url     : https://prove2.me/theorems/517bac9b-4878-4e66-a965-7d218931072e

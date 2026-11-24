@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ker_CreOp_contDiff_holD
 -- name    : GlobalTheory.Ker.CreOp.contDiff_holD
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:35:26.941242+00:00
 -- url     : https://prove2.me/theorems/c122b343-e3eb-4980-95b8-c8731f77502e

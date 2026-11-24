@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogResInt_isAnalyticSubset_inter
 -- name    : GlobalTheory.LogResInt.isAnalyticSubset_inter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:19:06.131862+00:00
 -- url     : https://prove2.me/theorems/a7ffb101-e794-401f-9a38-6d351be144f7

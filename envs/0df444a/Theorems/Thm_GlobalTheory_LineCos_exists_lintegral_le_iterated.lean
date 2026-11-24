@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LineCos_exists_lintegral_le_iterated
 -- name    : GlobalTheory.LineCos.exists_lintegral_le_iterated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:08:32.045945+00:00
 -- url     : https://prove2.me/theorems/8c61aa67-42f9-46cc-9dc9-d7b00d68ec84

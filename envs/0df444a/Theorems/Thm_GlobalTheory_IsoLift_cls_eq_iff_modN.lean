@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsoLift_cls_eq_iff_modN
 -- name    : GlobalTheory.IsoLift.cls_eq_iff_modN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:43:03.396258+00:00
 -- url     : https://prove2.me/theorems/19e85c5d-d380-449f-87ab-f66d38296973

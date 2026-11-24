@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinDescent_FunctionsAreInvariants_exists_descend
 -- name    : GlobalTheory.LinDescent.FunctionsAreInvariants.exists_descend
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:07:33.290798+00:00
 -- url     : https://prove2.me/theorems/997b0aea-4a4e-4924-b7cc-40dfec13f6cf

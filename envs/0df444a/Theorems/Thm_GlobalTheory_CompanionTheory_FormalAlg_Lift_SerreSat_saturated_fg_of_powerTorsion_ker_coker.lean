@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FormalAlg_Lift_SerreSat_saturated_fg_of_powerTorsion_ker_coker
 -- name    : GlobalTheory.CompanionTheory.FormalAlg.Lift.SerreSat.saturated_fg_of_powerTorsion_ker_coker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:38:35.671184+00:00
 -- url     : https://prove2.me/theorems/4139821e-116a-4c69-b63f-6598c747b85c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GalOfCusp_IsConjDual_trace
 -- name    : GlobalTheory.GalOfCusp.IsConjDual.trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:48:37.424986+00:00
 -- url     : https://prove2.me/theorems/fd091d1f-61f4-4fe2-8fa9-b91db66749d6

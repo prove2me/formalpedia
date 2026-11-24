@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lyndon_interleaves_of_mem_shuffle
 -- name    : GlobalTheory.Lyndon.interleaves_of_mem_shuffle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:19:54.85373+00:00
 -- url     : https://prove2.me/theorems/c58c5668-4cd9-429b-b897-eec9e8bf3728

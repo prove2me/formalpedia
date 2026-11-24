@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InvDerCopiesMap_map_DmonN
 -- name    : GlobalTheory.InvDerCopiesMap.map_DmonN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:20:23.346796+00:00
 -- url     : https://prove2.me/theorems/66a0b704-1417-440f-9da6-eeeadf9f91ac

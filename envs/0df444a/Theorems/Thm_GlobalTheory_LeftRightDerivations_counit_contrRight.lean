@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeftRightDerivations_counit_contrRight
 -- name    : GlobalTheory.LeftRightDerivations.counit_contrRight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:01:15.21626+00:00
 -- url     : https://prove2.me/theorems/f59248ea-2446-4750-88ed-57e1c7013d7a

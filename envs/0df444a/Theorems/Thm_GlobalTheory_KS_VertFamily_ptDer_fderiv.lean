@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_VertFamily_ptDer_fderiv
 -- name    : GlobalTheory.KS.VertFamily.ptDer_fderiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:58:46.357752+00:00
 -- url     : https://prove2.me/theorems/da385cf9-897b-4274-87d1-09b5290ecefd

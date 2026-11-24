@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocBounded_det_hankel_trace_ne_zero
 -- name    : GlobalTheory.LocBounded.det_hankel_trace_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:12:23.996272+00:00
 -- url     : https://prove2.me/theorems/ebe79415-9392-405c-9ee4-114a7051731c

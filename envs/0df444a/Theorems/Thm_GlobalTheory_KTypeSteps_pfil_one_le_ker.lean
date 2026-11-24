@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KTypeSteps_pfil_one_le_ker
 -- name    : GlobalTheory.KTypeSteps.pfil_one_le_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:46:05.238569+00:00
 -- url     : https://prove2.me/theorems/b0ec0349-61ea-4d77-96a2-98d27214e022

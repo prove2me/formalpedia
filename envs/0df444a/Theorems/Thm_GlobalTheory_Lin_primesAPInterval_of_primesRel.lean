@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_primesAPInterval_of_primesRel
 -- name    : GlobalTheory.Lin.primesAPInterval_of_primesRel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:06:27.500095+00:00
 -- url     : https://prove2.me/theorems/f9d68bbc-7dda-4088-af0d-17304314cfe4

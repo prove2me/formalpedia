@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_Phi_remb
 -- name    : GlobalTheory.LipschitzTR.Phi_remb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:10:51.700779+00:00
 -- url     : https://prove2.me/theorems/16af5bab-950e-48e5-97a7-e356984d25f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_zeros_eq_zeros_primitiveCharacter
 -- name    : GlobalTheory.Lin.zeros_eq_zeros_primitiveCharacter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:06:26.81181+00:00
 -- url     : https://prove2.me/theorems/d5024178-fe52-4573-bdf4-684abc4add57

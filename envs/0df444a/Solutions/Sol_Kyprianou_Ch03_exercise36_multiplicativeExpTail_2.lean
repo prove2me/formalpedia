@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for Kyprianou.Ch03.exercise36_multiplicativeExpTail
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T16:01:08.574813+00:00
 -- url     : https://prove2.me/submissions/e5690e47-8af7-4c28-a3f8-607337efb982
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy

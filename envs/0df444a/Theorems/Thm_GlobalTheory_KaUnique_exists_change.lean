@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KaUnique_exists_change
 -- name    : GlobalTheory.KaUnique.exists_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:46:05.532947+00:00
 -- url     : https://prove2.me/theorems/d74df19a-dde4-40b0-8160-c0938f50d862

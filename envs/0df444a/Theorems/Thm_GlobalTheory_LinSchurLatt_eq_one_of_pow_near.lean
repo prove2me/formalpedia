@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinSchurLatt_eq_one_of_pow_near
 -- name    : GlobalTheory.LinSchurLatt.eq_one_of_pow_near
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:07:36.487425+00:00
 -- url     : https://prove2.me/theorems/11afbc13-c7a5-4dbd-a514-889571f13bd1

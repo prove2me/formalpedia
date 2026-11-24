@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_JFxE_hpart2_add__c0f72fda320f
 -- name    : P2M_Formalism_FourierDecayAlt_P_JFxE_hpart2_add__c0f72fda320f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:35:56.345202+00:00
 -- url     : https://prove2.me/theorems/9fd83e21-587e-45cc-b7e7-a4d69c865e31

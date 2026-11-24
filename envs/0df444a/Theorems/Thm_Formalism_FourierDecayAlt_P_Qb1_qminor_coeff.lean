@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qb1_qminor_coeff
 -- name    : Formalism.FourierDecayAlt.P.Qb1.qminor_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:20:22.095745+00:00
 -- url     : https://prove2.me/theorems/82b27fc9-7ef5-4767-b126-a6687f137441

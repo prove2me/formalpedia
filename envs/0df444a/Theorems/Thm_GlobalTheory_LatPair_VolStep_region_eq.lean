@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_VolStep_region_eq
 -- name    : GlobalTheory.LatPair.VolStep.region_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:59:02.866067+00:00
 -- url     : https://prove2.me/theorems/93183419-56e3-4c7c-a8a8-b4293e16e6c0

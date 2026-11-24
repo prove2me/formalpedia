@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalBoxIndicator_indicator_mem_SB
 -- name    : GlobalTheory.LocalBoxIndicator.indicator_mem_SB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:14:03.858842+00:00
 -- url     : https://prove2.me/theorems/79924824-7ad7-4868-a0af-f0c2c2584f00

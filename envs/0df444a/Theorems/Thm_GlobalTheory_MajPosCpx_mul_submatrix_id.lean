@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MajPosCpx_mul_submatrix_id
 -- name    : GlobalTheory.MajPosCpx.mul_submatrix_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:20:28.208391+00:00
 -- url     : https://prove2.me/theorems/a75ebee3-2baa-4275-8fc8-1c015112da72

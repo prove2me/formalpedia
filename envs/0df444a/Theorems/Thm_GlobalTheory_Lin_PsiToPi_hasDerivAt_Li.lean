@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_PsiToPi_hasDerivAt_Li
 -- name    : GlobalTheory.Lin.PsiToPi.hasDerivAt_Li
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:05:59.388928+00:00
 -- url     : https://prove2.me/theorems/eaad7682-1fb1-4307-bbfb-5b4af5bf03d7

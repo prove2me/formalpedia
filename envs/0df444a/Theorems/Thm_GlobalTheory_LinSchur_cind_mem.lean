@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinSchur_cind_mem
 -- name    : GlobalTheory.LinSchur.cind_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:08:13.78589+00:00
 -- url     : https://prove2.me/theorems/2fc88cbd-e271-4693-8061-31817a5f4e7e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LaurentFinite_exists_gap
 -- name    : GlobalTheory.LaurentFinite.exists_gap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:01:04.008804+00:00
 -- url     : https://prove2.me/theorems/3f1927cf-6341-41d5-955e-7e2b98c5e36a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_isotropic_succ_iff
 -- name    : GlobalTheory.LocalQuad.isotropic_succ_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:14:26.665055+00:00
 -- url     : https://prove2.me/theorems/9320dcf7-56d7-443d-a8f6-4fb45a94525d

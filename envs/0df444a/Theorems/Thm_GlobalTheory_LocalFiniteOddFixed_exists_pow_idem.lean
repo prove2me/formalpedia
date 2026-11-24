@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalFiniteOddFixed_exists_pow_idem
 -- name    : GlobalTheory.LocalFiniteOddFixed.exists_pow_idem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:14:09.049692+00:00
 -- url     : https://prove2.me/theorems/b974a398-122d-4865-976b-141cf9b7ae3e

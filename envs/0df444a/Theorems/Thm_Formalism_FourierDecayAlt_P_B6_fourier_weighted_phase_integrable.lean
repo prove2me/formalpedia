@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_fourier_weighted_phase_integrable
 -- name    : Formalism.FourierDecayAlt.P.B6.fourier_weighted_phase_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:02:21.886054+00:00
 -- url     : https://prove2.me/theorems/8f33e3e5-1620-4e90-8e26-e7538c963f42

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsotypicOrth_orth_isCompl
 -- name    : GlobalTheory.IsotypicOrth.orth_isCompl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:21:10.936936+00:00
 -- url     : https://prove2.me/theorems/1342ee43-4cc4-4a86-8204-1b5e785d25c7
