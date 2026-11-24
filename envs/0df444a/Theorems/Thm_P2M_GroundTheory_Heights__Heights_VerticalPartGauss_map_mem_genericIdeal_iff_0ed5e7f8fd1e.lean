@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VerticalPartGauss_map_mem_genericIdeal_iff_0ed5e7f8fd1e
 -- name    : P2M_GroundTheory_Heights__Heights_VerticalPartGauss_map_mem_genericIdeal_iff_0ed5e7f8fd1e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:42:25.210865+00:00
 -- url     : https://prove2.me/theorems/426629cd-8c52-4bea-8ca6-9ff248eea315

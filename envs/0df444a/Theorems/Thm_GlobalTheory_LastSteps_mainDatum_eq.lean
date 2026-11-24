@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LastSteps_mainDatum_eq
 -- name    : GlobalTheory.LastSteps.mainDatum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:42:11.925916+00:00
 -- url     : https://prove2.me/theorems/6546b992-c284-4bda-b8e9-6804198bc4f0

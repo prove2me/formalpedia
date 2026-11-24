@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos1219_core
 -- name    : Erdos1219.core
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:49:16.491796+00:00
 -- url     : https://prove2.me/theorems/312055d5-5776-4119-9024-51c67cd48f93

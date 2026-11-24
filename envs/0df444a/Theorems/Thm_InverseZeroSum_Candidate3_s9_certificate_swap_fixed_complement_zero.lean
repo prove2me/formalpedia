@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_s9_certificate_swap_fixed_complement_zero
 -- name    : InverseZeroSum.Candidate3.s9_certificate_swap_fixed_complement_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:31:19.264423+00:00
 -- url     : https://prove2.me/theorems/16d94648-0de1-4aba-bf40-3b36d7c487a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Hom_toZ
 -- name    : PI.OddDualWeyl.Hom.toZ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:42.590826+00:00
 -- url     : https://prove2.me/theorems/af40ecc7-31b8-452a-a33e-b13b9465d215

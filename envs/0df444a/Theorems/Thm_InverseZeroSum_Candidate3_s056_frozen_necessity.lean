@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_s056_frozen_necessity
 -- name    : InverseZeroSum.Candidate3.s056_frozen_necessity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:31:40.937965+00:00
 -- url     : https://prove2.me/theorems/c61fd7fc-5667-4d8b-9ed9-058694181f09

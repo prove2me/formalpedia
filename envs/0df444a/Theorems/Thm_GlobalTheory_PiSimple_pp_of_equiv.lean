@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PiSimple_pp_of_equiv
 -- name    : GlobalTheory.PiSimple.pp_of_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:50:03.643017+00:00
 -- url     : https://prove2.me/theorems/cbf9d1a2-ea14-4373-b536-9aed8cfbb8b9

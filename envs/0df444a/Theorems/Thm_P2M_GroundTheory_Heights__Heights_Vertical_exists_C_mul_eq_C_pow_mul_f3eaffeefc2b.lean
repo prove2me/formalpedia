@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_exists_C_mul_eq_C_pow_mul_f3eaffeefc2b
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_exists_C_mul_eq_C_pow_mul_f3eaffeefc2b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:44:25.213881+00:00
 -- url     : https://prove2.me/theorems/7ce32cc1-193e-416c-bf83-58f542f4e1c7

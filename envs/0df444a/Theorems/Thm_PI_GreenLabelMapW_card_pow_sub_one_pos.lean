@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GreenLabelMapW_card_pow_sub_one_pos
 -- name    : PI.GreenLabelMapW.card_pow_sub_one_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:27.084155+00:00
 -- url     : https://prove2.me/theorems/1904d812-98b6-4fd3-9fa8-c259457e26e0

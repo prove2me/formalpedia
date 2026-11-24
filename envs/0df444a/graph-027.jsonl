@@ -72608,7 +72608,7 @@
 {"parent": "OAI.DirectionalTransience.OperationalConstants.conditional_episode_drops", "child": "OAIQ242Bal002", "via": ["statement"]}
 {"parent": "OAI.DirectionalTransience.OperationalConstants.conditional_episode_drops", "child": "OAIQ242Bal003", "via": ["statement"]}
 {"parent": "OAI.DirectionalTransience.OperationalConstants.conditional_episode_drops", "child": "DirectionalBallisticity", "via": ["solution", "statement"]}
-{"parent": "HarmonicRanking.Main.rounded_flow_transfer", "child": "HarmonicRanking_Main_ExplicitScore", "via": ["statement"]}
+{"parent": "HarmonicRanking.Main.rounded_flow_transfer", "child": "HarmonicRanking_Main_ExplicitScore", "via": ["solution", "statement"]}
 {"parent": "SchattenSketch.Main.lemma_4_4", "child": "SchattenSketch_Main_Path", "via": ["statement"]}
 {"parent": "GlobalUpdatesFO.Upper.lemma_3_6", "child": "GlobalUpdatesFO_Upper_Structure", "via": ["statement"]}
 {"parent": "GlobalUpdatesFO.Upper.lemma_3_6", "child": "GlobalUpdatesFO_Upper_Formula", "via": ["statement"]}

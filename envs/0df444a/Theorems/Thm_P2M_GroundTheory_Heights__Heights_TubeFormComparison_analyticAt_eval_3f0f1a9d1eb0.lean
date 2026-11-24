@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TubeFormComparison_analyticAt_eval_3f0f1a9d1eb0
 -- name    : P2M_GroundTheory_Heights__Heights_TubeFormComparison_analyticAt_eval_3f0f1a9d1eb0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:57.0068+00:00
 -- url     : https://prove2.me/theorems/68048fe6-3737-404d-a3b4-06992866cf08

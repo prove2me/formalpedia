@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_fixedProj_mem
 -- name    : GroundTheory.Automorphic.RestrictedTensor.fixedProj_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:25:51.972846+00:00
 -- url     : https://prove2.me/theorems/bd80608f-2f59-4329-a8ed-2a6bfa15186f

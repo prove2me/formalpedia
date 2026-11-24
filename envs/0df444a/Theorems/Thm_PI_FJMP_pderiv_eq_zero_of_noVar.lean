@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMP_pderiv_eq_zero_of_noVar
 -- name    : PI.FJMP.pderiv_eq_zero_of_noVar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:45:42.240071+00:00
 -- url     : https://prove2.me/theorems/6b6b127e-3310-4e4d-9d8e-224f2b5a24b3

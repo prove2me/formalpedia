@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m87_qpos_factor_measurable_reward
 -- name    : Kyprianou.Ch08.StageB.p2m87_qpos_factor_measurable_reward
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T03:49:16.162382+00:00
 -- url     : https://prove2.me/theorems/7a0154aa-50ef-402d-be6e-f58c7f73db2f

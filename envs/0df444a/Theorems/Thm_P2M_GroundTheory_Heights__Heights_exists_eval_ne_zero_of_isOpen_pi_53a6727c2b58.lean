@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_exists_eval_ne_zero_of_isOpen_pi_53a6727c2b58
 -- name    : P2M_GroundTheory_Heights__Heights_exists_eval_ne_zero_of_isOpen_pi_53a6727c2b58
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:34:01.455068+00:00
 -- url     : https://prove2.me/theorems/7804a02c-b1ce-4d52-aa81-6a3ab9739dd7

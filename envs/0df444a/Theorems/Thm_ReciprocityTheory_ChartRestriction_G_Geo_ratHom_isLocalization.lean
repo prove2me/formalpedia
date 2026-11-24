@@ -1,0 +1,34 @@
+-- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_ratHom_isLocalization
+-- name    : ReciprocityTheory.ChartRestriction.G.Geo.ratHom_isLocalization
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-24T06:08:23.625988+00:00
+-- url     : https://prove2.me/theorems/be54d311-e338-4bd2-9c62-39a26b328ed2
+-- title:
+--   Geo: rat Hom is Localization
+-- statement:
+--   The Geo construction uses the rat Hom is Localization property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/ReciprocityTheory/ReductiveGroups/ArithmeticGeometry/BirationalGeometry/InterGoodB.lean#L82-L117
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/ReciprocityTheory/ReductiveGroups/ArithmeticGeometry/BirationalGeometry/InterGoodB.lean#L82-L117
+
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterGoodA
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterGoodB
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open ReciprocityTheory ReciprocityTheory.ChartRestriction ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Geo
+open MvPolynomial
+noncomputable section
+variable {σ : Type}
+
+theorem ReciprocityTheory.ChartRestriction.G.Geo.ratHom_isLocalization (P : Ideal (MvPolynomial σ ℤ)) :
+    letI := (ratHom P).toAlgebra
+    IsLocalization (Algebra.algebraMapSubmonoid (MvPolynomial σ ℤ ⧸ P) (nonZeroDivisors ℤ))
+      (MvPolynomial σ ℚ ⧸ qIdeal P) := by sorry

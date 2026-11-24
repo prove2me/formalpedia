@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_Swap_hc_rename
 -- name    : PI.FockOneDegW.Swap.hc_rename
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:43:35.714273+00:00
 -- url     : https://prove2.me/theorems/539008fc-1be6-4d9f-853d-f62f456c05ca

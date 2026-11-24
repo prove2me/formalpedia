@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_ColumnAntisymmetry_Q_mul
 -- name    : PositivityTheory.Rg.Cz.ColumnAntisymmetry.Q_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:43:58.431686+00:00
 -- url     : https://prove2.me/theorems/79f8c899-2a4b-4d56-a501-2b574cc4e7d5

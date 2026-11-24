@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_isotropic_vector_ne_zero_7bfb4af349bd
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_isotropic_vector_ne_zero_7bfb4af349bd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:46:09.361781+00:00
 -- url     : https://prove2.me/theorems/a200da1a-cb04-4c9c-b481-24e1237dc8e4

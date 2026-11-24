@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sections_pow_theta_functions
 -- name    : GlobalTheory.sections_pow_theta_functions
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:17:17.298155+00:00
 -- url     : https://prove2.me/theorems/03b24392-246b-46a2-9fe5-d3edf9f391ab

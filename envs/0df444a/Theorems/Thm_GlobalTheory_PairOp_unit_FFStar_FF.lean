@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairOp_unit_FFStar_FF
 -- name    : GlobalTheory.PairOp.unit_FFStar_FF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:12.333154+00:00
 -- url     : https://prove2.me/theorems/595526b4-0a1a-4106-8773-76cd10417e36

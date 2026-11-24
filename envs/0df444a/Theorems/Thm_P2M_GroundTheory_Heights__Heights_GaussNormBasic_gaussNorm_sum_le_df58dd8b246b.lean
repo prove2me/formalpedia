@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GaussNormBasic_gaussNorm_sum_le_df58dd8b246b
 -- name    : P2M_GroundTheory_Heights__Heights_GaussNormBasic_gaussNorm_sum_le_df58dd8b246b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:32:48.401642+00:00
 -- url     : https://prove2.me/theorems/987cc3ba-8fde-42f6-84c9-14da55c974fd

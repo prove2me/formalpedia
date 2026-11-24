@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairOp_FF_FFStar_ram
 -- name    : GlobalTheory.PairOp.FF_FFStar_ram
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:41:07.668344+00:00
 -- url     : https://prove2.me/theorems/48807f64-75be-4fad-9ede-4650c06c4497

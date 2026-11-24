@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_roundT_time_le
 -- name    : ULHC.T.roundT_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:17:54.53666+00:00
 -- url     : https://prove2.me/theorems/86cdcfae-24fb-464d-b94d-f0d0325f4bbe

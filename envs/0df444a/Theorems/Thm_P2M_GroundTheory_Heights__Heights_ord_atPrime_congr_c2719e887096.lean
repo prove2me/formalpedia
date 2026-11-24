@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ord_atPrime_congr_c2719e887096
 -- name    : P2M_GroundTheory_Heights__Heights_ord_atPrime_congr_c2719e887096
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:43:54.534803+00:00
 -- url     : https://prove2.me/theorems/bfb2e7b7-bf36-40fb-bb19-c3f9fc6e2588

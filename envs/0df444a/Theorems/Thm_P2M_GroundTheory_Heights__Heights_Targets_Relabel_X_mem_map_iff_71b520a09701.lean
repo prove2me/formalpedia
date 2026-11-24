@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_Relabel_X_mem_map_iff_71b520a09701
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_Relabel_X_mem_map_iff_71b520a09701
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:34:17.218681+00:00
 -- url     : https://prove2.me/theorems/6dccefe0-52d4-434b-b602-35fc4fd66b56

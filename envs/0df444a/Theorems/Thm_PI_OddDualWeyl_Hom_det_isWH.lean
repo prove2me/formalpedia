@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Hom_det_isWH
 -- name    : PI.OddDualWeyl.Hom.det_isWH
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:46.447374+00:00
 -- url     : https://prove2.me/theorems/ae2df62e-5367-4d21-92ee-d0056e1dd8ba

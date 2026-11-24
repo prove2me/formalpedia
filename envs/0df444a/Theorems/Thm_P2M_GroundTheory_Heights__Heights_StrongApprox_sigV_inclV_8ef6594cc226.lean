@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_sigV_inclV_8ef6594cc226
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_sigV_inclV_8ef6594cc226
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:46:01.363397+00:00
 -- url     : https://prove2.me/theorems/2dd211ac-ff75-424a-a354-8b432911539a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaInter_span_inf_eq_top
 -- name    : GlobalTheory.ThetaInter.span_inf_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:41.27905+00:00
 -- url     : https://prove2.me/theorems/dec071c5-6a49-4946-800a-a31a378e590a

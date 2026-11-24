@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SecPointSeparable_isSeparable_of_derivation_eq_zero_006ace4b1d9d
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SecPointSeparable_isSeparable_of_derivation_eq_zero_006ace4b1d9d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:44.607042+00:00
 -- url     : https://prove2.me/theorems/e759139a-277a-4183-affb-728b98102bde

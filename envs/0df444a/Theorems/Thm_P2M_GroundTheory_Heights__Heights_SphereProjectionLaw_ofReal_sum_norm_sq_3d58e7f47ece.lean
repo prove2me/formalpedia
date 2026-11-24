@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereProjectionLaw_ofReal_sum_norm_sq_3d58e7f47ece
 -- name    : P2M_GroundTheory_Heights__Heights_SphereProjectionLaw_ofReal_sum_norm_sq_3d58e7f47ece
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:47:09.30109+00:00
 -- url     : https://prove2.me/theorems/079e6d35-4c0d-4522-a338-f8dcd3d09022

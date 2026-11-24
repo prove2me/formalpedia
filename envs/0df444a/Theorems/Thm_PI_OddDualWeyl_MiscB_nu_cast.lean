@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_MiscB_nu_cast
 -- name    : PI.OddDualWeyl.MiscB.nu_cast
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:58.387908+00:00
 -- url     : https://prove2.me/theorems/c0854685-689f-4f3e-9f8b-a240749b50a5

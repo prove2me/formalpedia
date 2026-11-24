@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GreenLabelMapW_charpoly_fin_one
 -- name    : PI.GreenLabelMapW.charpoly_fin_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:23.08379+00:00
 -- url     : https://prove2.me/theorems/e225dcba-9b77-4f14-b37a-1339f6d4a4ce

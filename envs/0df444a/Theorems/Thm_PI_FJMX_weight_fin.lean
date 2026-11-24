@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMX_weight_fin
 -- name    : PI.FJMX.weight_fin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:48:51.242109+00:00
 -- url     : https://prove2.me/theorems/658dc365-e8f7-4a3a-9356-b826ed5e457a

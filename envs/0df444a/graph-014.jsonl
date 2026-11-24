@@ -99684,9 +99684,9 @@
 {"parent": "AvramDividend.Classical.avram_wave3_02_global_initial_reserve_upper", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave3_02_global_initial_reserve_upper", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave3_02_global_initial_reserve_upper", "child": "AvramDividend.Classical.avram_wave3_02_all_nonnegative_barriers_sup", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.baker_shifting_ram_reduction", "child": "WilliamsonShmoys_PlanarIndependentSetRAM", "via": ["statement"]}
-{"parent": "WilliamsonShmoys.baker_shifting_ram_reduction", "child": "WilliamsonShmoys_BakerLevel", "via": ["statement"]}
-{"parent": "WilliamsonShmoys.baker_shifting_ram_reduction", "child": "RobertsonSeymour1986_GM5_TreewidthLE", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.baker_shifting_ram_reduction", "child": "WilliamsonShmoys_PlanarIndependentSetRAM", "via": ["solution", "statement"]}
+{"parent": "WilliamsonShmoys.baker_shifting_ram_reduction", "child": "WilliamsonShmoys_BakerLevel", "via": ["solution", "statement"]}
+{"parent": "WilliamsonShmoys.baker_shifting_ram_reduction", "child": "RobertsonSeymour1986_GM5_TreewidthLE", "via": ["solution", "statement"]}
 {"parent": "SeqExpDiffusion_IsValueFunction", "child": "SeqExpDiffusion_IsBeliefDiffusion", "via": ["statement"]}
 {"parent": "SeqExpDiffusion_IsValueFunction", "child": "SeqExpDiffusion_rewardSet", "via": ["statement"]}
 {"parent": "DiffCtrlRobust_admissiblePast", "child": "EthierKurtz_SDEState", "via": ["statement"]}

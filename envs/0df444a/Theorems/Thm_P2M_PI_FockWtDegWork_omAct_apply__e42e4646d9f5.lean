@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_FockWtDegWork_omAct_apply__e42e4646d9f5
 -- name    : P2M_PI_FockWtDegWork_omAct_apply__e42e4646d9f5
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:45:44.961801+00:00
 -- url     : https://prove2.me/theorems/cc7d9bdf-408f-4204-852d-0b9ddf5e00e4

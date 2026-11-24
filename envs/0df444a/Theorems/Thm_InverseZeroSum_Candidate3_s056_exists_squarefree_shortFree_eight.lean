@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_s056_exists_squarefree_shortFree_eight
 -- name    : InverseZeroSum.Candidate3.s056_exists_squarefree_shortFree_eight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:34:45.334572+00:00
 -- url     : https://prove2.me/theorems/b284d30f-ccc0-4876-bc62-237eef2dc560

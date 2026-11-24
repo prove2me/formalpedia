@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_radialTransform_eq_zero_of_const_e9745533580f
 -- name    : P2M_GroundTheory_Heights__Heights_radialTransform_eq_zero_of_const_e9745533580f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:41:15.935618+00:00
 -- url     : https://prove2.me/theorems/50ad4edd-8a7f-47dd-b098-121f8fad3e1a

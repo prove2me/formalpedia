@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_HwC_posC_facts
 -- name    : PI.FockOneDegW.HwC.posC_facts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:18.2048+00:00
 -- url     : https://prove2.me/theorems/2b08f5bf-d1fa-4322-91df-dd62563bd784

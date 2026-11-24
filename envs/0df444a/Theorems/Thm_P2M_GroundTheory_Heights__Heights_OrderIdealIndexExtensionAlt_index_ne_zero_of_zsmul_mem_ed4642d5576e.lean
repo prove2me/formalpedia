@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrderIdealIndexExtensionAlt_index_ne_zero_of_zsmul_mem_ed4642d5576e
 -- name    : P2M_GroundTheory_Heights__Heights_OrderIdealIndexExtensionAlt_index_ne_zero_of_zsmul_mem_ed4642d5576e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:26.261258+00:00
 -- url     : https://prove2.me/theorems/e7029e15-8b35-4718-80cc-5a810913d224

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_gauss_invol_b290ae2f2fc0
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_gauss_invol_b290ae2f2fc0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:45:31.79053+00:00
 -- url     : https://prove2.me/theorems/b552f333-7474-4e35-8df7-0edbb1800da9

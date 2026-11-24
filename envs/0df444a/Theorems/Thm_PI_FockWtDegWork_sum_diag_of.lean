@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockWtDegWork_sum_diag_of
 -- name    : PI.FockWtDegWork.sum_diag_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:30.372395+00:00
 -- url     : https://prove2.me/theorems/614d52ea-5aef-4a5c-bc4a-57e9753258cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_chartProjMatrix_mulVec_44e4e5c17922
 -- name    : P2M_GroundTheory_Heights__Heights_chartProjMatrix_mulVec_44e4e5c17922
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:28:32.919796+00:00
 -- url     : https://prove2.me/theorems/f35fa96d-e2c9-4617-a200-ee8a96570265

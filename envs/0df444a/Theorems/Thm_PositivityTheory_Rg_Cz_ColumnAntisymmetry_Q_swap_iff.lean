@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_ColumnAntisymmetry_Q_swap_iff
 -- name    : PositivityTheory.Rg.Cz.ColumnAntisymmetry.Q_swap_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:44:09.964796+00:00
 -- url     : https://prove2.me/theorems/8400e956-fc1e-4754-812f-5d50e31eeb2a

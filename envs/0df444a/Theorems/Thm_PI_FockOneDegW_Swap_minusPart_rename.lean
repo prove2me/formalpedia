@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_Swap_minusPart_rename
 -- name    : PI.FockOneDegW.Swap.minusPart_rename
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:07:47.860029+00:00
 -- url     : https://prove2.me/theorems/7ea6d7d5-2f76-4ffe-b01b-0f2515b9cf2c

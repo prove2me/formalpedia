@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoughSurfaceScattering_helmholtz_descent_harmonic
 -- name    : RoughSurfaceScattering.helmholtz_descent_harmonic
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-24T05:48:49.128418+00:00
 -- url     : https://prove2.me/theorems/5b8dab79-08c2-4a2b-ad64-b645b54d98a9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_TGK_eAt_eq
 -- name    : PositivityTheory.Rg.Cz.TGK.eAt_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:44:29.916179+00:00
 -- url     : https://prove2.me/theorems/43296f26-9be3-496e-8c52-d82d7b6a85fa

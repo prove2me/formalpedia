@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HeightRecR_proof_a841a96c8521
 -- name    : P2M_GroundTheory_Heights__Heights_HeightRecR_proof_a841a96c8521
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:34:01.485314+00:00
 -- url     : https://prove2.me/theorems/13ddfda1-260b-4a4f-8a71-9739a3aff505

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SecBFinite_isHomogeneous_span_of_6218751a8226
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SecBFinite_isHomogeneous_span_of_6218751a8226
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:44:13.603801+00:00
 -- url     : https://prove2.me/theorems/fd56aaa4-5bf9-42ab-8e67-a005a8a0c9e9

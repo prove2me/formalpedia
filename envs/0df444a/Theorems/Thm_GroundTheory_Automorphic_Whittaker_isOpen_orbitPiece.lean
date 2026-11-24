@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_isOpen_orbitPiece
 -- name    : GroundTheory.Automorphic.Whittaker.isOpen_orbitPiece
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:25:56.171399+00:00
 -- url     : https://prove2.me/theorems/e7612288-922f-4376-a1bb-ad70ed34d96c

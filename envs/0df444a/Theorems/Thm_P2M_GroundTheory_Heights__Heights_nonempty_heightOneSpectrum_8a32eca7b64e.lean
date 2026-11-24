@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_nonempty_heightOneSpectrum_8a32eca7b64e
 -- name    : P2M_GroundTheory_Heights__Heights_nonempty_heightOneSpectrum_8a32eca7b64e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:44:07.903401+00:00
 -- url     : https://prove2.me/theorems/214f623e-409b-4282-b857-428ff60c967d

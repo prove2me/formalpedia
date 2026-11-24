@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarmonicRanking_Main_rounded_flow_transfer
 -- name    : HarmonicRanking.Main.rounded_flow_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T04:35:58.077805+00:00
 -- url     : https://prove2.me/theorems/9d694a76-98a7-4702-9058-ee8968b9f34c

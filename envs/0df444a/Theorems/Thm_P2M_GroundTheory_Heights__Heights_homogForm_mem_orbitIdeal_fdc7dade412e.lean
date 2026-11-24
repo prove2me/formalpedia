@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_homogForm_mem_orbitIdeal_fdc7dade412e
 -- name    : P2M_GroundTheory_Heights__Heights_homogForm_mem_orbitIdeal_fdc7dade412e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:42:45.780133+00:00
 -- url     : https://prove2.me/theorems/01080fe8-223b-47d5-a87b-0301f9d35005

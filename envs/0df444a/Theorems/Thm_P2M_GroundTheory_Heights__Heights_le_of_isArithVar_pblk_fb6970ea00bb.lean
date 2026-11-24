@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_le_of_isArithVar_pblk_fb6970ea00bb
 -- name    : P2M_GroundTheory_Heights__Heights_le_of_isArithVar_pblk_fb6970ea00bb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:44:04.499813+00:00
 -- url     : https://prove2.me/theorems/74bbd830-2585-4197-bdff-851cee2e2320

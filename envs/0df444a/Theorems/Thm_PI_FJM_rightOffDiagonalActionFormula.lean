@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJM_rightOffDiagonalActionFormula
 -- name    : PI.FJM.rightOffDiagonalActionFormula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:08:03.559339+00:00
 -- url     : https://prove2.me/theorems/f797ae4a-ec5c-4b2c-a176-319f56757052

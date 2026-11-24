@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockWtDegWork_abs_le_of
 -- name    : PI.FockWtDegWork.abs_le_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:21.219155+00:00
 -- url     : https://prove2.me/theorems/6de119f3-37d3-42ee-8e34-8afa90cd036c

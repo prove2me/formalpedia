@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_exists_secCoord_not_mem_87db2953a5a3
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_exists_secCoord_not_mem_87db2953a5a3
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:44:18.458959+00:00
 -- url     : https://prove2.me/theorems/c2f4d87a-304f-418c-a417-972031a71699

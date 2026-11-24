@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_graphBase_graphPt_3d0058ca640d
 -- name    : P2M_GroundTheory_Heights__Heights_graphBase_graphPt_3d0058ca640d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:45:15.844796+00:00
 -- url     : https://prove2.me/theorems/78438c64-ad46-4eb1-aa64-fd2f85863958

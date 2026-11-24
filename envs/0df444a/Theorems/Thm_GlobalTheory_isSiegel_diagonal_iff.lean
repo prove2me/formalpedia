@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isSiegel_diagonal_iff
 -- name    : GlobalTheory.isSiegel_diagonal_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:19.970522+00:00
 -- url     : https://prove2.me/theorems/4c134b73-893e-4c87-9c40-395fdb88db98

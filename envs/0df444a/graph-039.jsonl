@@ -11629,10 +11629,10 @@
 {"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.KU.Yb_tl_nM", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_KaUnfoldPfA", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.KU.Yb_tl_nM", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_ExtFStatementPfA", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.KU.Yb_tl_nM", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_FundSetMeasStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.sections_pow_theta_functions", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ThetaUnifAV", "via": ["statement"]}
-{"parent": "GlobalTheory.sections_pow_theta_functions", "child": "Development_AbelianVarietyTheory_Proofs_ToricGeometry_SectionsPowThetaFunctions", "via": ["statement"]}
-{"parent": "GlobalTheory.sections_pow_theta_functions", "child": "Development_AbelianVarietyTheory_Definitions_ThetaMetrics_IsRegularFnIffOfIsAffineOpen", "via": ["statement"]}
-{"parent": "GlobalTheory.sections_pow_theta_functions", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_GlobalSectionsRankAlgClosed", "via": ["statement"]}
+{"parent": "GlobalTheory.sections_pow_theta_functions", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ThetaUnifAV", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.sections_pow_theta_functions", "child": "Development_AbelianVarietyTheory_Proofs_ToricGeometry_SectionsPowThetaFunctions", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.sections_pow_theta_functions", "child": "Development_AbelianVarietyTheory_Definitions_ThetaMetrics_IsRegularFnIffOfIsAffineOpen", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.sections_pow_theta_functions", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_GlobalSectionsRankAlgClosed", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.mem_factors_span", "child": "Lemmata_MiscLemmasK_Imports", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.mem_factors_span", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_PullbackSections_DiffAtOddSt", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.mem_factors_span", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_PullbackSections_HolomorphicFamilies_PadicValNatAbsNormEqZero", "via": ["solution", "statement"]}

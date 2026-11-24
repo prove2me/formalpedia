@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ClosedPointUnitSectionAlt_not_isUnitAt_mul_260a18dd0eb1
 -- name    : P2M_GroundTheory_Heights__Heights_ClosedPointUnitSectionAlt_not_isUnitAt_mul_260a18dd0eb1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:42:53.07399+00:00
 -- url     : https://prove2.me/theorems/5cf6e489-c8a2-44ae-8a84-3e43e48686d4

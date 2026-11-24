@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Low_C_mnr
 -- name    : PI.OddDualWeyl.Low.C_mnr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:52.023476+00:00
 -- url     : https://prove2.me/theorems/79cc58bb-c25a-444b-a861-d21e62727531

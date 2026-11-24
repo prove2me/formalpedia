@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_Rg_Sw_AbsSt_TSA_iteratedDeriv_ofReal__9b92e898f444
 -- name    : P2M_PositivityTheory_Rg_Sw_AbsSt_TSA_iteratedDeriv_ofReal__9b92e898f444
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:43:27.396839+00:00
 -- url     : https://prove2.me/theorems/3a29d240-e386-4f74-8289-887eb2c97920

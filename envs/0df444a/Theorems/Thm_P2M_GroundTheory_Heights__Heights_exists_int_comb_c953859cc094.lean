@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_exists_int_comb_c953859cc094
 -- name    : P2M_GroundTheory_Heights__Heights_exists_int_comb_c953859cc094
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:57:20.128631+00:00
 -- url     : https://prove2.me/theorems/1f734607-63b2-4fa7-9f87-3eea7f16843a

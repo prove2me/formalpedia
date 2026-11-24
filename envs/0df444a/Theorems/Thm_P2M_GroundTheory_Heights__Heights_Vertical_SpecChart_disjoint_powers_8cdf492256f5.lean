@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SpecChart_disjoint_powers_8cdf492256f5
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SpecChart_disjoint_powers_8cdf492256f5
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:44:15.882068+00:00
 -- url     : https://prove2.me/theorems/ce0966d1-44b3-4489-bd09-6c2a0bfe84f9

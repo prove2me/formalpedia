@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_EvA_det_revCol
 -- name    : PI.OddDualWeyl.EvA.det_revCol
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:44.298707+00:00
 -- url     : https://prove2.me/theorems/65359cea-468f-47d1-8820-4149c2292bfb

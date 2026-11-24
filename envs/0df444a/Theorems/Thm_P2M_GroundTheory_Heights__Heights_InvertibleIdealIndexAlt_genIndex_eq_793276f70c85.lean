@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_InvertibleIdealIndexAlt_genIndex_eq_793276f70c85
 -- name    : P2M_GroundTheory_Heights__Heights_InvertibleIdealIndexAlt_genIndex_eq_793276f70c85
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:34:29.703417+00:00
 -- url     : https://prove2.me/theorems/574ba96b-0b0a-4768-b957-eb2323b07907

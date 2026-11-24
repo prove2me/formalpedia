@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_pointPar_algebraicIndependent_557120b59e17
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_pointPar_algebraicIndependent_557120b59e17
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:44:24.616957+00:00
 -- url     : https://prove2.me/theorems/382bcbbd-847d-4aa9-b2a4-5d3ac5d3fbed

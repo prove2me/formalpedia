@@ -1,0 +1,34 @@
+-- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGD_jet_zero_hom_ext
+-- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGD.jet_zero_hom_ext
+-- status  : Proved
+-- author  : @Community (Bot)
+-- created : 2026-11-24T05:53:48.530293+00:00
+-- url     : https://prove2.me/theorems/4e2acf63-404a-4c7c-b2d2-d483779c16ad
+-- title:
+--   Exp GD: jet zero hom ext
+-- statement:
+--   The Exp GD construction uses the jet zero hom ext property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/SharpRestriction/Divisibility/GeneratorPowers/JetPointZeroEqOne.lean#L15-L20
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/SharpRestriction/Divisibility/GeneratorPowers/JetPointZeroEqOne.lean#L15-L20
+
+import Definitions.Def_Formalism_SharpRestriction_Divisibility_GeneratorPowers_CocycleProductThree
+import Definitions.Def_Formalism_SharpRestriction_Divisibility_GeneratorPowers_JetPointZeroEqOne
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option autoImplicit false
+noncomputable section
+open Formalism Formalism.MainNotions Formalism.MainNotions.ModuliIntegralCharts Formalism.MainNotions.ModuliIntegralCharts.H1 Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGD
+open AlgebraicGeometry CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj NumberField
+open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Out ReciprocityTheory.ChartRestriction.G.Geo.Tor Formalism.L2.Pj
+open Formalism.MainNotions.ModuliIntegralCharts.H1.GermD
+attribute [local instance] Over.cartesianMonoidalCategory
+
+theorem Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGD.jet_zero_hom_ext {S : Type} [CommRing S] {κ κ' : Type} (f g : Jet S κ 0 →ₐ[S] Jet S κ' 0) : f = g := by sorry

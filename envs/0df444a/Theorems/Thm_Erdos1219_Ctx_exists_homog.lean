@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos1219_Ctx_exists_homog
 -- name    : Erdos1219.Ctx.exists_homog
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:49:06.516388+00:00
 -- url     : https://prove2.me/theorems/d81439cf-082f-4829-aa5a-ea6265ada2cb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Hom_weight_cast
 -- name    : PI.OddDualWeyl.Hom.weight_cast
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:52.274587+00:00
 -- url     : https://prove2.me/theorems/99f9cfb0-6886-48d5-a8fa-4c3a7c26579c

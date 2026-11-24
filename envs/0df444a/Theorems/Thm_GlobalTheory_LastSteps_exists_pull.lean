@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LastSteps_exists_pull
 -- name    : GlobalTheory.LastSteps.exists_pull
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:41:58.343796+00:00
 -- url     : https://prove2.me/theorems/591af671-e369-4685-a52c-b4d427385c35

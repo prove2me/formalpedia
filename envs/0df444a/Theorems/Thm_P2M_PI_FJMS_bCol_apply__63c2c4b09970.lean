@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_FJMS_bCol_apply__63c2c4b09970
 -- name    : P2M_PI_FJMS_bCol_apply__63c2c4b09970
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:45:35.897293+00:00
 -- url     : https://prove2.me/theorems/5db33972-4b27-426f-b532-13fad9180b4f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSiegel_exists_eventually_mul_dotProduct_le
 -- name    : GlobalTheory.IsSiegel.exists_eventually_mul_dotProduct_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:26.032044+00:00
 -- url     : https://prove2.me/theorems/1dc5b859-f908-469d-b3a9-b4f61764728a

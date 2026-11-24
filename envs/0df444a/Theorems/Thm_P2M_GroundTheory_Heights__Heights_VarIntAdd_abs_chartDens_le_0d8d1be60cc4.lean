@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VarIntAdd_abs_chartDens_le_0d8d1be60cc4
 -- name    : P2M_GroundTheory_Heights__Heights_VarIntAdd_abs_chartDens_le_0d8d1be60cc4
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:44:59.506837+00:00
 -- url     : https://prove2.me/theorems/d29b9e5b-98bd-4825-8e95-fea7fcdb9197

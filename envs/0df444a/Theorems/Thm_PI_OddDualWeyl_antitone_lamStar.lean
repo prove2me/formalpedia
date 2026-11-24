@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_antitone_lamStar
 -- name    : PI.OddDualWeyl.antitone_lamStar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:50:04.493487+00:00
 -- url     : https://prove2.me/theorems/afb71df6-9947-4cd4-b5a5-1d255dacb421

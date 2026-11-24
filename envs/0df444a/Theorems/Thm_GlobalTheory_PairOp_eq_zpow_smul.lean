@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairOp_eq_zpow_smul
 -- name    : GlobalTheory.PairOp.eq_zpow_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:29:43.484407+00:00
 -- url     : https://prove2.me/theorems/c022c584-6616-4530-915d-58595c31cf4e

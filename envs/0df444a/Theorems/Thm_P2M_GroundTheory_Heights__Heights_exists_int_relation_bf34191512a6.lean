@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_exists_int_relation_bf34191512a6
 -- name    : P2M_GroundTheory_Heights__Heights_exists_int_relation_bf34191512a6
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:33:44.514881+00:00
 -- url     : https://prove2.me/theorems/edcf43f4-6fd1-49d2-9993-429bd2107b87

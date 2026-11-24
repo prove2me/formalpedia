@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_s9_certificate_swap_count_cases
 -- name    : InverseZeroSum.Candidate3.s9_certificate_swap_count_cases
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:31:06.669306+00:00
 -- url     : https://prove2.me/theorems/f47a3c02-d44a-4cbe-ace2-84305d4cac3d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VerticalPartGauss_genericIdeal_eq_244b4e5d7419
 -- name    : P2M_GroundTheory_Heights__Heights_VerticalPartGauss_genericIdeal_eq_244b4e5d7419
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:28:16.487139+00:00
 -- url     : https://prove2.me/theorems/3968b699-9f1a-46eb-b2d7-3ad06c943839

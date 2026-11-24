@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_CurveIndexLinearAlt_cu_div_e53e99228c31
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_CurveIndexLinearAlt_cu_div_e53e99228c31
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:35:27.71523+00:00
 -- url     : https://prove2.me/theorems/dc144b2f-3e0f-4b4e-9fab-612b9562cd79

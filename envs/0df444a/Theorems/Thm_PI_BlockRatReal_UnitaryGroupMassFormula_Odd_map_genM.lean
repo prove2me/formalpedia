@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_BlockRatReal_UnitaryGroupMassFormula_Odd_map_genM
 -- name    : PI.BlockRatReal.UnitaryGroupMassFormula.Odd.map_genM
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:45:25.331992+00:00
 -- url     : https://prove2.me/theorems/c1b47742-e36e-44ba-b22c-316d0a0b75d3

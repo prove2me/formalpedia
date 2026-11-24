@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_LowA_nuNext_castSucc
 -- name    : PI.OddDualWeyl.LowA.nuNext_castSucc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:52.893919+00:00
 -- url     : https://prove2.me/theorems/66b412d4-f272-48e8-9bd8-1c86ac30b1d9

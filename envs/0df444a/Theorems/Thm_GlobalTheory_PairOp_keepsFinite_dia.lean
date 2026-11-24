@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairOp_keepsFinite_dia
 -- name    : GlobalTheory.PairOp.keepsFinite_dia
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:18.364797+00:00
 -- url     : https://prove2.me/theorems/52240e30-6d01-4e5b-9700-f5d2e367a618

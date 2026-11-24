@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_s056_eight_constant_certificate
 -- name    : InverseZeroSum.Candidate3.s056_eight_constant_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:23:55.588472+00:00
 -- url     : https://prove2.me/theorems/ae550f2c-2312-4a3d-93cb-a38ca81c8707

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VerticalPartGauss_linForm_not_mem_genericIdeal_6fe79e6359ca
 -- name    : P2M_GroundTheory_Heights__Heights_VerticalPartGauss_linForm_not_mem_genericIdeal_6fe79e6359ca
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:44:31.324832+00:00
 -- url     : https://prove2.me/theorems/bf1d7046-1703-4c07-b6a2-0e48d62a6295

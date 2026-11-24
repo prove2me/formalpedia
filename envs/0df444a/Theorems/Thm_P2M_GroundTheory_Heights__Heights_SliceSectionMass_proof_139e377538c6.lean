@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceSectionMass_proof_139e377538c6
 -- name    : P2M_GroundTheory_Heights__Heights_SliceSectionMass_proof_139e377538c6
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:45:01.331793+00:00
 -- url     : https://prove2.me/theorems/b61aa446-001f-41fa-9908-ad6caa5d9ed4

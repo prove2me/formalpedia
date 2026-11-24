@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ClosedPointAffineChart_div_pow_mem_of_mem_chartLat_b3936732b2fe
 -- name    : P2M_GroundTheory_Heights__Heights_ClosedPointAffineChart_div_pow_mem_of_mem_chartLat_b3936732b2fe
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:43:43.231898+00:00
 -- url     : https://prove2.me/theorems/5a3204b7-161b-4058-b997-61145a05531c

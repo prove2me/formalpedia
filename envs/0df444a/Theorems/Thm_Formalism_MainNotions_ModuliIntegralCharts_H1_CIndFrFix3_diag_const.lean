@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrFix3_diag_const
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrFix3.diag_const
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:42:12.290944+00:00
 -- url     : https://prove2.me/theorems/2c4efcfc-9286-4b80-99c5-64392abb6c6c

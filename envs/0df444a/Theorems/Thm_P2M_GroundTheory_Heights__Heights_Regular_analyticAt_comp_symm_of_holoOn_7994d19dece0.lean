@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_analyticAt_comp_symm_of_holoOn_7994d19dece0
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_analyticAt_comp_symm_of_holoOn_7994d19dece0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:44:50.763926+00:00
 -- url     : https://prove2.me/theorems/2f814b1d-8891-4177-b808-bb51f5e5ebd7

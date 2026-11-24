@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Variant__N1_exists_common_denominator_214cd264a479
 -- name    : P2M_GroundTheory_Variant__N1_exists_common_denominator_214cd264a479
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:43:28.963585+00:00
 -- url     : https://prove2.me/theorems/aa486ffb-b744-476a-8029-bbec1cee0c6f

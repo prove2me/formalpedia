@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_span_range_eq_span_range_succ_8b46ca3aa771
 -- name    : P2M_GroundTheory_Heights__Heights_span_range_eq_span_range_succ_8b46ca3aa771
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:45:38.643992+00:00
 -- url     : https://prove2.me/theorems/c3d74990-ca7d-4fa4-9fcb-10e034abb824

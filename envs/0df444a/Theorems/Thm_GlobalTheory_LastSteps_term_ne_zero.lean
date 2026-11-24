@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LastSteps_term_ne_zero
 -- name    : GlobalTheory.LastSteps.term_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:41:54.649808+00:00
 -- url     : https://prove2.me/theorems/f88454a7-7c30-4041-8acd-21b558aee5b1

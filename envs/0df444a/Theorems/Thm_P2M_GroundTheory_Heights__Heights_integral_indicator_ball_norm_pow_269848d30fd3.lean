@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_integral_indicator_ball_norm_pow_269848d30fd3
 -- name    : P2M_GroundTheory_Heights__Heights_integral_indicator_ball_norm_pow_269848d30fd3
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:43:58.113134+00:00
 -- url     : https://prove2.me/theorems/bdb6f0b5-96da-43c0-812c-d78b7fcd50ce

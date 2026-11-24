@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GreenLabelMapW_isCuspidal_fin_one
 -- name    : PI.GreenLabelMapW.isCuspidal_fin_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:32.271826+00:00
 -- url     : https://prove2.me/theorems/f7536941-a8c5-4cce-95c8-b046a0b1b549

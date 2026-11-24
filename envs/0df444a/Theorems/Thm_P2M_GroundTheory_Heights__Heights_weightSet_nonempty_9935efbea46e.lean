@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_weightSet_nonempty_9935efbea46e
 -- name    : P2M_GroundTheory_Heights__Heights_weightSet_nonempty_9935efbea46e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:34:22.526441+00:00
 -- url     : https://prove2.me/theorems/ce130c88-a016-4606-bb22-aac630a7b955

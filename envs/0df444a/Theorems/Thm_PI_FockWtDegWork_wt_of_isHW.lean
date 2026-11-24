@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockWtDegWork_wt_of_isHW
 -- name    : PI.FockWtDegWork.wt_of_isHW
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:35.162815+00:00
 -- url     : https://prove2.me/theorems/5b9801ea-5798-41a6-8737-f4fff3185c16

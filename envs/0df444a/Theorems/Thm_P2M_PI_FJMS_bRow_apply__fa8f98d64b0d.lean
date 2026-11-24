@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_FJMS_bRow_apply__fa8f98d64b0d
 -- name    : P2M_PI_FJMS_bRow_apply__fa8f98d64b0d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:45:50.602853+00:00
 -- url     : https://prove2.me/theorems/9818738e-97b0-46a8-ad7f-957cf8736637

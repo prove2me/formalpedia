@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WFJM_Shape_length_lpos
 -- name    : PI.WFJM.Shape.length_lpos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:43:42.796836+00:00
 -- url     : https://prove2.me/theorems/7f98dbb8-8fca-4f86-9a81-dc05d3f73735

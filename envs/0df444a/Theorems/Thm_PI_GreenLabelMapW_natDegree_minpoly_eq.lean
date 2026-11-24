@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GreenLabelMapW_natDegree_minpoly_eq
 -- name    : PI.GreenLabelMapW.natDegree_minpoly_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:37.572799+00:00
 -- url     : https://prove2.me/theorems/0082dcdc-28c6-4cca-94e6-8b75cb4a181c

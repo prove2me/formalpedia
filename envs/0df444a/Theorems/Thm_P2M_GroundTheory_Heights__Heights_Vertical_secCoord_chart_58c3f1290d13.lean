@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_secCoord_chart_58c3f1290d13
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_secCoord_chart_58c3f1290d13
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:44:36.857844+00:00
 -- url     : https://prove2.me/theorems/671ff3ee-fd52-405d-964d-6d12bc72be31

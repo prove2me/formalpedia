@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FockOneDegW_Swap_rename_X_mul
 -- name    : PI.FockOneDegW.Swap.rename_X_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:43:44.271864+00:00
 -- url     : https://prove2.me/theorems/baaf2c1e-4d68-43ca-8707-0c1020a5239c

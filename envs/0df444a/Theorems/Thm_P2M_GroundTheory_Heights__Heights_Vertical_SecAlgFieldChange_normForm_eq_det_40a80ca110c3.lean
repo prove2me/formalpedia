@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SecAlgFieldChange_normForm_eq_det_40a80ca110c3
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SecAlgFieldChange_normForm_eq_det_40a80ca110c3
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:44:20.54644+00:00
 -- url     : https://prove2.me/theorems/cd1bf20a-5cfe-4db1-8cd4-615e69086be5

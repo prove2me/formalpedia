@@ -26432,13 +26432,13 @@
 {"parent": "BosonicLearn.proposition_5", "child": "BosonicLearn_priorMu", "via": ["solution", "statement"]}
 {"parent": "BosonicLearn.proposition_5", "child": "BosonicLearn_fugacityCoeff", "via": ["solution", "statement"]}
 {"parent": "BosonicLearn.proposition_5", "child": "BosonicLearn_transcriptLaw", "via": ["solution", "statement"]}
-{"parent": "DepthOneQExp.theorem_2_13", "child": "DepthOneQExp_permToMatrix", "via": ["statement"]}
-{"parent": "DepthOneQExp.theorem_2_13", "child": "DepthOneQExp_zMat", "via": ["statement"]}
-{"parent": "DepthOneQExp.theorem_2_13", "child": "DepthOneQExp_IsQuantumExpanderGap", "via": ["statement"]}
-{"parent": "DepthOneQExp.theorem_2_13", "child": "DepthOneQExp_xPerm", "via": ["statement"]}
-{"parent": "DepthOneQExp.theorem_2_13", "child": "DepthOneQExp_cnotAvg", "via": ["statement"]}
-{"parent": "DepthOneQExp.theorem_2_13", "child": "DepthOneQExp_cnotGroup", "via": ["statement"]}
-{"parent": "DepthOneQExp.theorem_2_13", "child": "MITMSynthesis_Gate", "via": ["statement"]}
+{"parent": "DepthOneQExp.theorem_2_13", "child": "DepthOneQExp_permToMatrix", "via": ["solution", "statement"]}
+{"parent": "DepthOneQExp.theorem_2_13", "child": "DepthOneQExp_zMat", "via": ["solution", "statement"]}
+{"parent": "DepthOneQExp.theorem_2_13", "child": "DepthOneQExp_IsQuantumExpanderGap", "via": ["solution", "statement"]}
+{"parent": "DepthOneQExp.theorem_2_13", "child": "DepthOneQExp_xPerm", "via": ["solution", "statement"]}
+{"parent": "DepthOneQExp.theorem_2_13", "child": "DepthOneQExp_cnotAvg", "via": ["solution", "statement"]}
+{"parent": "DepthOneQExp.theorem_2_13", "child": "DepthOneQExp_cnotGroup", "via": ["solution", "statement"]}
+{"parent": "DepthOneQExp.theorem_2_13", "child": "MITMSynthesis_Gate", "via": ["solution", "statement"]}
 {"parent": "PauliUnclonable531_Pauli_Choi", "child": "PauliUnclonable531_Pauli_Operators", "via": ["statement"]}
 {"parent": "LinMaxLoad.lemma_7_load_identity", "child": "LinMaxLoad_cosetSum", "via": ["solution", "statement"]}
 {"parent": "LinMaxLoad.lemma_7_load_identity", "child": "LinMaxLoad_maxLoad", "via": ["solution", "statement"]}

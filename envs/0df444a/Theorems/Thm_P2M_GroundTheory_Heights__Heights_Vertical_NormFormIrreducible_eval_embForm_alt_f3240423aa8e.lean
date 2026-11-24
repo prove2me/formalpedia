@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_NormFormIrreducible_eval_embForm_alt_f3240423aa8e
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_NormFormIrreducible_eval_embForm_alt_f3240423aa8e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:44:34.172808+00:00
 -- url     : https://prove2.me/theorems/b2a30de8-e48d-4b7c-a4ce-6f5dec533e2e

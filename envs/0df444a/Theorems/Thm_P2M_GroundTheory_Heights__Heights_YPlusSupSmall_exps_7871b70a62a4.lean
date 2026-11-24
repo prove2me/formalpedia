@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_YPlusSupSmall_exps_7871b70a62a4
 -- name    : P2M_GroundTheory_Heights__Heights_YPlusSupSmall_exps_7871b70a62a4
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:28:26.11681+00:00
 -- url     : https://prove2.me/theorems/4e277038-21c2-4332-8589-15d69ea1907b

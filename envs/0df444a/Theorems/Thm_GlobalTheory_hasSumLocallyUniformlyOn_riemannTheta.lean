@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hasSumLocallyUniformlyOn_riemannTheta
 -- name    : GlobalTheory.hasSumLocallyUniformlyOn_riemannTheta
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:15.279332+00:00
 -- url     : https://prove2.me/theorems/77e69f37-b7fa-4494-80bf-8d5a74af8246

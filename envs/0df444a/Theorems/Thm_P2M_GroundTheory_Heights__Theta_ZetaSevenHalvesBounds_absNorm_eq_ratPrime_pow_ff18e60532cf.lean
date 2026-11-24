@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_ZetaSevenHalvesBounds_absNorm_eq_ratPrime_pow_ff18e60532cf
 -- name    : P2M_GroundTheory_Heights__Theta_ZetaSevenHalvesBounds_absNorm_eq_ratPrime_pow_ff18e60532cf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:34:03.893176+00:00
 -- url     : https://prove2.me/theorems/832304c4-7db3-410e-873e-d7781ccc0b83

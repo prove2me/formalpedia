@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_analyticAt_transition_63e9fc06e079
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_analyticAt_transition_63e9fc06e079
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:45:23.295413+00:00
 -- url     : https://prove2.me/theorems/58f906f7-2f61-41ec-9e43-b3e1e71129ff

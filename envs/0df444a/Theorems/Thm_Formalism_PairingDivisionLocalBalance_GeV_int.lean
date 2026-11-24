@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_PairingDivisionLocalBalance_GeV_int
 -- name    : Formalism.PairingDivisionLocalBalance.GeV.int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:42.039788+00:00
 -- url     : https://prove2.me/theorems/a80157b1-2b32-4538-98d6-fa965b81d3e9

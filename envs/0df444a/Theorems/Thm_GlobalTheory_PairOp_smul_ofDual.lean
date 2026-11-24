@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairOp_smul_ofDual
 -- name    : GlobalTheory.PairOp.smul_ofDual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:43:52.962071+00:00
 -- url     : https://prove2.me/theorems/ce5b6955-8f0f-4f52-8384-bc84c60c99e1

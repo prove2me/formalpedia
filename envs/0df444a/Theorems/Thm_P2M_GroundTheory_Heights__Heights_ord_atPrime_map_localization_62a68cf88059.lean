@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ord_atPrime_map_localization_62a68cf88059
 -- name    : P2M_GroundTheory_Heights__Heights_ord_atPrime_map_localization_62a68cf88059
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:43:52.450797+00:00
 -- url     : https://prove2.me/theorems/405963aa-554c-4835-b734-67a5d35606e4

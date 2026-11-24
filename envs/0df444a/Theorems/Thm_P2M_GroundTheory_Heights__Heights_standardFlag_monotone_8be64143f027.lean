@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_standardFlag_monotone_8be64143f027
 -- name    : P2M_GroundTheory_Heights__Heights_standardFlag_monotone_8be64143f027
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:45:12.206469+00:00
 -- url     : https://prove2.me/theorems/6be0e610-857d-43a9-b092-f15af0c98628

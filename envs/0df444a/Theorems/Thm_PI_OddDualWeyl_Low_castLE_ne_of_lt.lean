@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Low_castLE_ne_of_lt
 -- name    : PI.OddDualWeyl.Low.castLE_ne_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:47.167747+00:00
 -- url     : https://prove2.me/theorems/df302b93-7c37-4678-83a0-fbd590309340

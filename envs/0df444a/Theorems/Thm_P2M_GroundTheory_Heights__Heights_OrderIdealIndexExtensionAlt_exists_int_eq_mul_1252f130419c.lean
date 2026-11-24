@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrderIdealIndexExtensionAlt_exists_int_eq_mul_1252f130419c
 -- name    : P2M_GroundTheory_Heights__Heights_OrderIdealIndexExtensionAlt_exists_int_eq_mul_1252f130419c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:44:39.005421+00:00
 -- url     : https://prove2.me/theorems/7f39878f-33f5-4b8d-a2b5-cbe4db8e3834

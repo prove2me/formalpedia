@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_exists_int_smul_mem_latticeDual_7ca10bc0ad16
 -- name    : P2M_GroundTheory_Heights__Heights_exists_int_smul_mem_latticeDual_7ca10bc0ad16
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:33:53.204382+00:00
 -- url     : https://prove2.me/theorems/c88c6511-6ab7-4c9b-9a35-fabf41625800

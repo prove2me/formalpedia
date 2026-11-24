@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_inv_mem_SU_8fcf949bf882
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_inv_mem_SU_8fcf949bf882
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:46:11.344881+00:00
 -- url     : https://prove2.me/theorems/d7998540-a89d-41e9-a186-73cb4c8ef38b

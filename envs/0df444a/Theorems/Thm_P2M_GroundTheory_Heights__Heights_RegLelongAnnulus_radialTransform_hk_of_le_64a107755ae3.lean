@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_radialTransform_hk_of_le_64a107755ae3
 -- name    : P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_radialTransform_hk_of_le_64a107755ae3
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:28:55.104831+00:00
 -- url     : https://prove2.me/theorems/e8453aaf-a7f1-4672-ada8-5fcb5e41182a

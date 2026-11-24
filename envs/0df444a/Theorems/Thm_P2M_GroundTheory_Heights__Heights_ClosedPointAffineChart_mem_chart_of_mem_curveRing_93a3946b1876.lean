@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ClosedPointAffineChart_mem_chart_of_mem_curveRing_93a3946b1876
 -- name    : P2M_GroundTheory_Heights__Heights_ClosedPointAffineChart_mem_chart_of_mem_curveRing_93a3946b1876
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:39.552875+00:00
 -- url     : https://prove2.me/theorems/ce01bd97-830f-487c-8798-09aeb30aeec2

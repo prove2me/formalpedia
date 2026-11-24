@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_ThKEnd_Cusp_Fr_uv__9cf1dc9daa1c
 -- name    : P2M_PositivityTheory_ThKEnd_Cusp_Fr_uv__9cf1dc9daa1c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:09:07.231889+00:00
 -- url     : https://prove2.me/theorems/433b6bcf-8e79-4523-b7f3-61c26c66e90d

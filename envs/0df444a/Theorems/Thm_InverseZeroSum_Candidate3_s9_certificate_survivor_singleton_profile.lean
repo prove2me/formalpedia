@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_s9_certificate_survivor_singleton_profile
 -- name    : InverseZeroSum.Candidate3.s9_certificate_survivor_singleton_profile
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:24:00.799689+00:00
 -- url     : https://prove2.me/theorems/b59b222f-866b-473d-8f0d-a607ca67437b

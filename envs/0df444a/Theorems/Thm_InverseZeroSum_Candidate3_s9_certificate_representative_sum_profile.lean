@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InverseZeroSum_Candidate3_s9_certificate_representative_sum_profile
 -- name    : InverseZeroSum.Candidate3.s9_certificate_representative_sum_profile
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:31:18.274245+00:00
 -- url     : https://prove2.me/theorems/974deec8-6cc4-4eed-9a93-4604fac321fc

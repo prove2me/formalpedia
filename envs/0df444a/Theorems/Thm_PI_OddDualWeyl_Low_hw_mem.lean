@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_Low_hw_mem
 -- name    : PI.OddDualWeyl.Low.hw_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:53.158075+00:00
 -- url     : https://prove2.me/theorems/7714b429-4982-43ad-9d7d-151a4e20b043

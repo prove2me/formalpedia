@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kirkman_kirkman
 -- name    : Kirkman.kirkman
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T05:45:33.998862+00:00
 -- url     : https://prove2.me/theorems/706b7f44-3799-4fc1-a06b-b818bd555247

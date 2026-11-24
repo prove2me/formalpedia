@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m87_qpos_factor_halfline_reward_expectation
 -- name    : Kyprianou.Ch08.StageB.p2m87_qpos_factor_halfline_reward_expectation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T04:25:43.155733+00:00
 -- url     : https://prove2.me/theorems/c10d6b1b-76ad-4362-ba37-2e3494ffe479

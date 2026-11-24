@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SiegelNormalForm_exists_normal_form
 -- name    : GlobalTheory.SiegelNormalForm.exists_normal_form
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:22:47.086005+00:00
 -- url     : https://prove2.me/theorems/a0b97348-45ee-4913-be90-54afb55ab522

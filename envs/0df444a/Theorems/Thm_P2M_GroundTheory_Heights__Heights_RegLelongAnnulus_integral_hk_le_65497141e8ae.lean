@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_integral_hk_le_65497141e8ae
 -- name    : P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_integral_hk_le_65497141e8ae
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:28:26.549793+00:00
 -- url     : https://prove2.me/theorems/b72a78f3-7437-44df-8aee-caa3177ceb59

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LastSteps_term_eq_finsum
 -- name    : GlobalTheory.LastSteps.term_eq_finsum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:41:59.740791+00:00
 -- url     : https://prove2.me/theorems/fc8fdf35-089a-48eb-abc2-15ccac31c0ec

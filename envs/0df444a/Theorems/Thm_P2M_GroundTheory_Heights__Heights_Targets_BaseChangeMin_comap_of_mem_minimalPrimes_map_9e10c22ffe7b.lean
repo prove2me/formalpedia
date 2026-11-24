@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_BaseChangeMin_comap_of_mem_minimalPrimes_map_9e10c22ffe7b
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_BaseChangeMin_comap_of_mem_minimalPrimes_map_9e10c22ffe7b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:33:42.138887+00:00
 -- url     : https://prove2.me/theorems/831880fc-c41a-45a6-b71e-8081ecf3bb67

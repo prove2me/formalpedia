@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GreenLabelMapW_root_inv
 -- name    : PI.GreenLabelMapW.root_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:50.670804+00:00
 -- url     : https://prove2.me/theorems/00693e85-f68f-428e-887e-a43196edbd39

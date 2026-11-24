@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_FJMB_aeval_aeval__e19064defd0d
 -- name    : P2M_PI_FJMB_aeval_aeval__e19064defd0d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:45:29.401538+00:00
 -- url     : https://prove2.me/theorems/ca5369bc-12a8-4e4f-8628-a3b68e0c009d

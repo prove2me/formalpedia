@@ -91317,8 +91317,8 @@
 {"parent": "Development_AbelianVarietyTheory_Proofs_ModuliProofs_WeilIsLocalOnBaseOfOpenCover", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_WeilIsAlternatingSkewNatural", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_ModuliProofs_WeilIsLocalOnBaseOfOpenCover", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_BCTools", "via": ["statement"]}
 {"parent": "syrFifteenStep15Chunk16", "child": "syracuseStep", "via": ["statement"]}
-{"parent": "GlobalTheory.SiegelNormalForm.exists_normal_form", "child": "Development_AbelianVarietyTheory_Proofs_ToricGeometry_IsUnitOfLagrangian", "via": ["statement"]}
-{"parent": "GlobalTheory.SiegelNormalForm.exists_normal_form", "child": "Development_AbelianVarietyTheory_Proofs_CovolumeBounds_DualRestrictSurjectiveOfIsTorsionFreeQuotient", "via": ["statement"]}
+{"parent": "GlobalTheory.SiegelNormalForm.exists_normal_form", "child": "Development_AbelianVarietyTheory_Proofs_ToricGeometry_IsUnitOfLagrangian", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.SiegelNormalForm.exists_normal_form", "child": "Development_AbelianVarietyTheory_Proofs_CovolumeBounds_DualRestrictSurjectiveOfIsTorsionFreeQuotient", "via": ["solution", "statement"]}
 {"parent": "RH1E6S15_D057_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "GlobalTheory.GaloisDescent.twist_fst", "child": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_IsAffineHomOfIsPullbackSpecMap", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.GaloisDescent.twist_fst", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_ExistsUniqueComapEqVanishingIdeal", "via": ["solution", "statement"]}
@@ -95676,8 +95676,8 @@
 {"parent": "ReciprocityTheory_L2DbarEstimates_NormFibrations_NormOrd", "child": "ReciprocityTheory_L2DbarEstimates_JacobianInterpolationStatement", "via": ["statement"]}
 {"parent": "ReciprocityTheory_L2DbarEstimates_NormFibrations_NormOrd", "child": "ReciprocityTheory_L2DbarEstimates_ChartDerivatives_Imports", "via": ["statement"]}
 {"parent": "ReciprocityTheory_L2DbarEstimates_NormFibrations_NormOrd", "child": "ReciprocityTheory_L2DbarEstimates_PlurisubharmonicCharts_IteratedFDerivEqZeroOfIsBigO", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.Key.Chi.spGens_subset", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SymplecticGenerators_SymplecticCharacters_GenBase", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.Key.Chi.spGens_subset", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SymplecticGenerators_SymplecticCharacters_SpGenStatement", "via": ["statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.Key.Chi.spGens_subset", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SymplecticGenerators_SymplecticCharacters_GenBase", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.Key.Chi.spGens_subset", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SymplecticGenerators_SymplecticCharacters_SpGenStatement", "via": ["solution", "statement"]}
 {"parent": "RH1E6S15_D062_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "Kyprianou.Ch02.prmTimeShiftedWindowCountLawV1", "child": "LevyStochCalc_Poisson_Atomic_F000", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory_L2DbarEstimates_PlurisubharmonicCharts_APrimeD", "child": "ReciprocityTheory_L2DbarEstimates_PlurisubharmonicCharts_APrimeDA", "via": ["statement"]}

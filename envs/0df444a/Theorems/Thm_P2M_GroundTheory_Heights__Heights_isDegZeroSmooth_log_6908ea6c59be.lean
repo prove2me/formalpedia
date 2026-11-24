@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isDegZeroSmooth_log_6908ea6c59be
 -- name    : P2M_GroundTheory_Heights__Heights_isDegZeroSmooth_log_6908ea6c59be
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:43:47.174912+00:00
 -- url     : https://prove2.me/theorems/5a7b1a90-121d-490e-aadd-b318dc836ccb

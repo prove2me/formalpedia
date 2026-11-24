@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairOp_D_dia
 -- name    : GlobalTheory.PairOp.D_dia
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:42:09.137355+00:00
 -- url     : https://prove2.me/theorems/0c45b09d-807c-4329-9235-d699073940b5

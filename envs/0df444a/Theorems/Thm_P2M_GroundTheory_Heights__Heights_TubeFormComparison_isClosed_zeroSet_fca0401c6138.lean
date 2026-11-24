@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TubeFormComparison_isClosed_zeroSet_fca0401c6138
 -- name    : P2M_GroundTheory_Heights__Heights_TubeFormComparison_isClosed_zeroSet_fca0401c6138
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:44:17.224793+00:00
 -- url     : https://prove2.me/theorems/4057585d-b1cf-4b1b-adac-df40a482a45e

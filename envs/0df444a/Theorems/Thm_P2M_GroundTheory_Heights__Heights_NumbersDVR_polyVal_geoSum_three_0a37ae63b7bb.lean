@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_polyVal_geoSum_three_0a37ae63b7bb
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_polyVal_geoSum_three_0a37ae63b7bb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:25.734302+00:00
 -- url     : https://prove2.me/theorems/8e083e9c-3219-4bbc-8fe4-dc3ac051e0e6

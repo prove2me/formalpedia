@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VerticalPointResidue_isWH_X__785d066adc9d
 -- name    : P2M_GroundTheory_Heights__Heights_VerticalPointResidue_isWH_X__785d066adc9d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:44:06.481898+00:00
 -- url     : https://prove2.me/theorems/92c3b25f-d49f-4c34-b6ba-4cd869c57637
