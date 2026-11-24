@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_matching_fin3
 -- name    : FairSelling.matching_fin3
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:56:05.963544+00:00
 -- url     : https://prove2.me/theorems/cf7f03c5-0ead-469b-a076-7928aa32420b

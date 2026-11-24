@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_cr2BT_ret
 -- name    : ULHC.T.cr2BT_ret
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:13:24.041796+00:00
 -- url     : https://prove2.me/theorems/a46a9ca4-89f8-4231-abcf-eb8f6aeee647

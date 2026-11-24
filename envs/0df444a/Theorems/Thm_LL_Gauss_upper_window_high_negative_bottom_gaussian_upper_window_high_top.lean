@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Gauss_upper_window_high_negative_bottom_gaussian_upper_window_high_top
 -- name    : LL_Gauss_upper_window_high.negative_bottom_gaussian_upper_window_high_top
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-11-20T07:49:55.41816+00:00
 -- url     : https://prove2.me/theorems/1befd706-94e2-4854-ab8a-29d7ac6b14af

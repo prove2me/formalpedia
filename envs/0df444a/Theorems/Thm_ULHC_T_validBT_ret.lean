@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_validBT_ret
 -- name    : ULHC.T.validBT_ret
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:12:47.90242+00:00
 -- url     : https://prove2.me/theorems/3a4b7767-9ad0-4754-86fc-2578e9db3f58

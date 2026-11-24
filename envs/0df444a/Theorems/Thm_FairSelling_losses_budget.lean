@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_losses_budget
 -- name    : FairSelling.losses_budget
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:12:28.705915+00:00
 -- url     : https://prove2.me/theorems/f7dfdd9b-451f-48a1-8dfb-c553089adbd7

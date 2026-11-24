@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_sum_le_idealZetaR
 -- name    : ReciprocityTheory.Cheb.sum_le_idealZetaR
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:19:56.51716+00:00
 -- url     : https://prove2.me/theorems/700ab387-553a-4062-a3c1-8761291fc9af

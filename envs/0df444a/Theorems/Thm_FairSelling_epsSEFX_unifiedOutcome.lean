@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_epsSEFX_unifiedOutcome
 -- name    : FairSelling.epsSEFX_unifiedOutcome
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:37:17.207807+00:00
 -- url     : https://prove2.me/theorems/39875ddb-237c-4e72-be37-3953c3aaa441

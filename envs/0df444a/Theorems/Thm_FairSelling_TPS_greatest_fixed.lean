@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_TPS_greatest_fixed
 -- name    : FairSelling.TPS_greatest_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:27:54.235769+00:00
 -- url     : https://prove2.me/theorems/a734946c-1b91-44c5-b64a-84c267bfcaaf

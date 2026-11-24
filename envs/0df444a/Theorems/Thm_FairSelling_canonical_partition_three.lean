@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_canonical_partition_three
 -- name    : FairSelling.canonical_partition_three
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:56:26.471464+00:00
 -- url     : https://prove2.me/theorems/d8fb7755-2fa9-4535-a442-4162d1188ae1

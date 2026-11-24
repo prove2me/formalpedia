@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_finish_from_reduction
 -- name    : FairSelling.finish_from_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:36:41.567556+00:00
 -- url     : https://prove2.me/theorems/85cc0a0f-1a13-40a7-b19f-8a4dbf782949

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_lemmaFourCash_holds
 -- name    : FairSelling.lemmaFourCash_holds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:05:24.075803+00:00
 -- url     : https://prove2.me/theorems/da204fc9-5eeb-420f-bd91-01e34261023a

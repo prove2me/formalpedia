@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_exists_SEFX_of_exists_EFX
 -- name    : FairSelling.exists_SEFX_of_exists_EFX
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:16:11.128025+00:00
 -- url     : https://prove2.me/theorems/86f7803e-b69f-47e0-a6e7-54e6eb0d4857

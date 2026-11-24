@@ -91482,8 +91482,8 @@
 {"parent": "RH1E6S07_D041_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_pj_original_true_bounded_predictable_compensated_fullmark_grid_initial_event_zero_mean", "child": "AvramDividend.Classical.avram_p4_s3_original_physical_bounded_predictable_grid_L2_mean_zero_auto", "via": ["solution", "statement"]}
 {"parent": "RH1E6S04_D022_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "LL_Gauss_upper_window_low.negative_bottom_gaussian_upper_window_low_outer", "child": "LL_Gauss_upper_window_low_e", "via": ["statement"]}
-{"parent": "LL_Gauss_upper_window_low.negative_bottom_gaussian_upper_window_low_outer", "child": "LL_Gauss_upper_window_low_gaussianMellin", "via": ["statement"]}
+{"parent": "LL_Gauss_upper_window_low.negative_bottom_gaussian_upper_window_low_outer", "child": "LL_Gauss_upper_window_low_e", "via": ["solution", "statement"]}
+{"parent": "LL_Gauss_upper_window_low.negative_bottom_gaussian_upper_window_low_outer", "child": "LL_Gauss_upper_window_low_gaussianMellin", "via": ["solution", "statement"]}
 {"parent": "LevyStochCalc.Brownian.Ito.SimplePredictable.merged_u03c0__zero_p2m_3281419cf2ad", "child": "LevyStochCalc_Brownian_SimplePredictableRefineCommon_F000", "via": ["solution", "statement"]}
 {"parent": "RH1E6S04.group_056", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S04.group_056", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}
@@ -96614,8 +96614,8 @@
 {"parent": "RH1E6S03_D063_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "LevyStochCalc.Brownian.Ito.SimplePredictable.simpleIntegral_sub_on_common_intermediate", "child": "LevyStochCalc_Brownian_SimplePredictableRefineCommon_F002", "via": ["statement"]}
 {"parent": "Kyprianou.Ch08.StageB.source_scale_convolution_vanishes_origin", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["solution", "statement"]}
-{"parent": "LL_Gauss_lower_window_mid.negative_bottom_gaussian_lower_window_mid_high", "child": "LL_Gauss_lower_window_mid_e", "via": ["statement"]}
-{"parent": "LL_Gauss_lower_window_mid.negative_bottom_gaussian_lower_window_mid_high", "child": "LL_Gauss_lower_window_mid_gaussianMellin", "via": ["statement"]}
+{"parent": "LL_Gauss_lower_window_mid.negative_bottom_gaussian_lower_window_mid_high", "child": "LL_Gauss_lower_window_mid_e", "via": ["solution", "statement"]}
+{"parent": "LL_Gauss_lower_window_mid.negative_bottom_gaussian_lower_window_mid_high", "child": "LL_Gauss_lower_window_mid_gaussianMellin", "via": ["solution", "statement"]}
 {"parent": "MasulloAudit.trace_formula_window_with_remainder", "child": "MasulloRH_RationalTrace", "via": ["statement"]}
 {"parent": "JardenShami.colorMinOf_color", "child": "MyResearchesLLMLean_JardenShami_Section3", "via": ["solution", "statement"]}
 {"parent": "JardenShami.colorMinOf_color", "child": "MyResearchesLLMLean_JardenShami_Section4", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PhaseTPS_exists_TPS_SEFX_of_Pstep
 -- name    : FairSelling.PhaseTPS.exists_TPS_SEFX_of_Pstep
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:46:55.428797+00:00
 -- url     : https://prove2.me/theorems/441ded47-67d3-4448-b8b9-e561ed7eea01

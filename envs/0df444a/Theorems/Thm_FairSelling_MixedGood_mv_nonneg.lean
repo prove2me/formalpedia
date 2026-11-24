@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_MixedGood_mv_nonneg
 -- name    : FairSelling.MixedGood.mv_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:52:22.77743+00:00
 -- url     : https://prove2.me/theorems/bd7a0424-aa22-4e48-9e41-d209ec808fe4

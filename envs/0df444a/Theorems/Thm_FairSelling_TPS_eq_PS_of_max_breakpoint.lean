@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_TPS_eq_PS_of_max_breakpoint
 -- name    : FairSelling.TPS_eq_PS_of_max_breakpoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:30:57.458796+00:00
 -- url     : https://prove2.me/theorems/f3b14cbf-8927-482b-b0bb-999788cf2316

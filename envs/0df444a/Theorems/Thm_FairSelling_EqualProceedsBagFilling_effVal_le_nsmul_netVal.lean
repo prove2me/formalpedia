@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_EqualProceedsBagFilling_effVal_le_nsmul_netVal
 -- name    : FairSelling.EqualProceedsBagFilling.effVal_le_nsmul_netVal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:26:17.529465+00:00
 -- url     : https://prove2.me/theorems/432c50b7-e32e-4052-8a81-9190aed17f63

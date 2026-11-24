@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_EqualProceedsBagFilling_effVal_le_of_price_le
 -- name    : FairSelling.EqualProceedsBagFilling.effVal_le_of_price_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:26:11.236559+00:00
 -- url     : https://prove2.me/theorems/0c99439e-6027-4f99-af43-8636dabd8513

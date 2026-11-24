@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_mem_fnbr
 -- name    : ULHC.mem_fnbr
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:46:58.365095+00:00
 -- url     : https://prove2.me/theorems/0eb075ed-a9bd-407f-b343-ba64d7056731

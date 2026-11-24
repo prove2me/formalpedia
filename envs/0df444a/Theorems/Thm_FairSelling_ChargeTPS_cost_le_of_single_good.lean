@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_ChargeTPS_cost_le_of_single_good
 -- name    : FairSelling.ChargeTPS.cost_le_of_single_good
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:44:21.138367+00:00
 -- url     : https://prove2.me/theorems/b8a58426-dd88-4b62-a7b9-0ce401522919

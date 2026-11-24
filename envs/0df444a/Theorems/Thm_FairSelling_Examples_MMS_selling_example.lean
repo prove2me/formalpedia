@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_Examples_MMS_selling_example
 -- name    : FairSelling.Examples.MMS_selling_example
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:16:44.286095+00:00
 -- url     : https://prove2.me/theorems/77e8e345-b679-4399-99d1-49f08fd89f62

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_isEdge_side
 -- name    : ULHC.isEdge_side
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:45:13.543157+00:00
 -- url     : https://prove2.me/theorems/32300cdd-f56a-476f-9afc-278bb1957506

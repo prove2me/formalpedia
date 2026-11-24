@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_EqualProceedsBagFilling_remarkTPS
 -- name    : FairSelling.EqualProceedsBagFilling.remarkTPS
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:27:47.619335+00:00
 -- url     : https://prove2.me/theorems/f9e0fa0d-5724-4511-96de-c9bb1390d070

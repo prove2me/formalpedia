@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_midBT_ret
 -- name    : ULHC.T.midBT_ret
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:12:50.000569+00:00
 -- url     : https://prove2.me/theorems/3c4487e7-bb3d-4cfb-87fa-bcd1acbd8b08

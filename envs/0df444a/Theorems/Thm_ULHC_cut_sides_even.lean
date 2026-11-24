@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_cut_sides_even
 -- name    : ULHC.cut_sides_even
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:45:36.393604+00:00
 -- url     : https://prove2.me/theorems/9aa3b5a9-bbce-4b12-a414-9a8f4a0f026d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_not_lemmaFourCashNoPrice
 -- name    : FairSelling.not_lemmaFourCashNoPrice
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:06:47.11512+00:00
 -- url     : https://prove2.me/theorems/931e0af9-8c8c-4efd-8e6b-4415839dfd52

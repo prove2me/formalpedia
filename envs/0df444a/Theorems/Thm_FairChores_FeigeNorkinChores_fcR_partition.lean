@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_FeigeNorkinChores_fcR_partition
 -- name    : FairChores.FeigeNorkinChores.fcR_partition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:28:07.22844+00:00
 -- url     : https://prove2.me/theorems/a7833204-a918-4e48-bc09-8bfafd04449b

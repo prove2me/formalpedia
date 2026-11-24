@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PotTPS_QStage_cost_le_of_src
 -- name    : FairSelling.PotTPS.QStage.cost_le_of_src
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:50:51.824116+00:00
 -- url     : https://prove2.me/theorems/6d9132bb-931a-4a47-bc2e-9c586e77d715

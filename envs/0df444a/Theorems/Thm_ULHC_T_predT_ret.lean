@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_predT_ret
 -- name    : ULHC.T.predT_ret
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:14:53.022807+00:00
 -- url     : https://prove2.me/theorems/87f01162-6b7a-457b-b888-d872a56497f6

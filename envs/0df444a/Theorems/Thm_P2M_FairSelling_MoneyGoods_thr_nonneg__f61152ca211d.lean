@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FairSelling_MoneyGoods_thr_nonneg__f61152ca211d
 -- name    : P2M_FairSelling_MoneyGoods_thr_nonneg__f61152ca211d
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:42:46.163819+00:00
 -- url     : https://prove2.me/theorems/d960c306-114c-4454-a36c-a9ec04192c96

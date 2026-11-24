@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_latA_opp_eq
 -- name    : ULHC.latA_opp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:28:19.891641+00:00
 -- url     : https://prove2.me/theorems/98066577-5c62-4c97-bc77-a9e11703a4f1

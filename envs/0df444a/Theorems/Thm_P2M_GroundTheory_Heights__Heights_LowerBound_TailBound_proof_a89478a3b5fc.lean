@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBound_TailBound_proof_a89478a3b5fc
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBound_TailBound_proof_a89478a3b5fc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:29:53.502281+00:00
 -- url     : https://prove2.me/theorems/8f89cd72-928e-410a-afd5-5725d2726307

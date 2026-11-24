@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_notEndBT_ret
 -- name    : ULHC.T.notEndBT_ret
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:12:56.488539+00:00
 -- url     : https://prove2.me/theorems/3614bb40-0e79-4d7c-b8a9-6ca6c213db83

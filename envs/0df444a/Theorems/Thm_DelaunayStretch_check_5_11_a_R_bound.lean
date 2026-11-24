@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelaunayStretch_check_5_11_a_R_bound
 -- name    : DelaunayStretch.check_5_11_a_R_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-24T03:14:34.59781+00:00
 -- url     : https://prove2.me/theorems/ff28c911-9912-44cf-9efd-546775701c58

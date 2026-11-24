@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_ZeroPrice_exists_TPS_SEFX_of_prices_zero
 -- name    : FairSelling.ZeroPrice.exists_TPS_SEFX_of_prices_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:41:19.042512+00:00
 -- url     : https://prove2.me/theorems/679a40cf-7f32-4427-aee8-f67271210fb1

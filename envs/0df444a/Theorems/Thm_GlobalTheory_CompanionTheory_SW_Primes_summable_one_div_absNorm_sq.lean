@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Primes_summable_one_div_absNorm_sq
 -- name    : GlobalTheory.CompanionTheory.SW.Primes.summable_one_div_absNorm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:33:39.773299+00:00
 -- url     : https://prove2.me/theorems/3db3f96f-cb35-43eb-be93-4be3940e590a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_exists_bags
 -- name    : FairSelling.exists_bags
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:13:05.948106+00:00
 -- url     : https://prove2.me/theorems/f60bb175-aa7a-474e-840c-b86720aca015

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_EqualProceedsExampleFour_MMSEP_const
 -- name    : FairSelling.EqualProceedsExampleFour.MMSEP_const
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:50:26.717798+00:00
 -- url     : https://prove2.me/theorems/3aa8c683-aba6-47b1-847b-a69ccd7e016e

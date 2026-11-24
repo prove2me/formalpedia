@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_exists_outcome_ge_MMS
 -- name    : FairSelling.exists_outcome_ge_MMS
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:29:01.182451+00:00
 -- url     : https://prove2.me/theorems/0a4d631c-dbbc-40a2-b9e5-1454226e54bf

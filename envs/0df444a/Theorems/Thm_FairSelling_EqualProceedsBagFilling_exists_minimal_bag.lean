@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_EqualProceedsBagFilling_exists_minimal_bag
 -- name    : FairSelling.EqualProceedsBagFilling.exists_minimal_bag
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:26:36.208567+00:00
 -- url     : https://prove2.me/theorems/4c2c4a6d-fa41-4c99-a204-d38bcb1bb7f8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBound_AvoidMatrixLemma_proof_0f334d417533
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBound_AvoidMatrixLemma_proof_0f334d417533
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:29:09.96635+00:00
 -- url     : https://prove2.me/theorems/140ef821-9edd-4cb2-8a0c-878d0d622e5e

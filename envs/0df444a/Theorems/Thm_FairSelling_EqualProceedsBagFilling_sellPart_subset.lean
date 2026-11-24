@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_EqualProceedsBagFilling_sellPart_subset
 -- name    : FairSelling.EqualProceedsBagFilling.sellPart_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:25:40.063551+00:00
 -- url     : https://prove2.me/theorems/4cbaed1a-ac8a-4508-ab1c-cb8ca02d1875

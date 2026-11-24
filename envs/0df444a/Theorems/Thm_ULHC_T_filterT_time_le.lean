@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_filterT_time_le
 -- name    : ULHC.T.filterT_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:24:27.483807+00:00
 -- url     : https://prove2.me/theorems/86c9492f-5ac8-4ef1-ac6b-8e4e48411e90

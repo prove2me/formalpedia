@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_epsSEFX_of_SEFX
 -- name    : FairSelling.epsSEFX_of_SEFX
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:34:08.210589+00:00
 -- url     : https://prove2.me/theorems/d461f92e-2477-41bc-9723-317651009c91

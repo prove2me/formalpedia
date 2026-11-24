@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_cut_ends
 -- name    : ULHC.cut_ends
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:43:39.308812+00:00
 -- url     : https://prove2.me/theorems/62868e9f-f913-4155-a91f-c841af46e2ed

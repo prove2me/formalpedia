@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_TPSset_nonempty
 -- name    : FairSelling.TPSset_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:27:50.24983+00:00
 -- url     : https://prove2.me/theorems/dab6c8ea-6895-4dd4-86d3-34a7fe0581ec

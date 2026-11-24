@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_exists_MMS_partition_chores
 -- name    : FairChores.exists_MMS_partition_chores
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:20:42.340535+00:00
 -- url     : https://prove2.me/theorems/bad2a30c-7d14-4583-a685-ae7ec2c9be57

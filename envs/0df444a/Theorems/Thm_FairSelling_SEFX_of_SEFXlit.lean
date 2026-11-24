@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_SEFX_of_SEFXlit
 -- name    : FairSelling.SEFX_of_SEFXlit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:27:51.666245+00:00
 -- url     : https://prove2.me/theorems/260deae4-e385-4d74-b5cc-aced7694dc27

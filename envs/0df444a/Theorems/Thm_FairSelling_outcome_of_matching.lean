@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_outcome_of_matching
 -- name    : FairSelling.outcome_of_matching
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:59:30.764777+00:00
 -- url     : https://prove2.me/theorems/bcbcfb68-d84e-4355-8f39-7726ee6e267b

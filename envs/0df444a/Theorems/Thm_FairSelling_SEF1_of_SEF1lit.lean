@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_SEF1_of_SEF1lit
 -- name    : FairSelling.SEF1_of_SEF1lit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:27:57.307173+00:00
 -- url     : https://prove2.me/theorems/fa7f08c4-880d-4c39-9279-81de73cc8727

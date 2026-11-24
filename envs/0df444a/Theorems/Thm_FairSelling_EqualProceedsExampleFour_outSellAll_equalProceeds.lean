@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_EqualProceedsExampleFour_outSellAll_equalProceeds
 -- name    : FairSelling.EqualProceedsExampleFour.outSellAll_equalProceeds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:24:58.456558+00:00
 -- url     : https://prove2.me/theorems/2a482ee6-891d-49f1-b078-980aa4ee5576

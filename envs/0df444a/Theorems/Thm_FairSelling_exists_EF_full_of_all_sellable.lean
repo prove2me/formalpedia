@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_exists_EF_full_of_all_sellable
 -- name    : FairSelling.exists_EF_full_of_all_sellable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:15:36.544092+00:00
 -- url     : https://prove2.me/theorems/c3c053cd-e358-4961-be62-29fab6dc1ede

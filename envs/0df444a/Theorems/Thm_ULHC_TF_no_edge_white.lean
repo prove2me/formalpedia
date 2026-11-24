@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_TF_no_edge_white
 -- name    : ULHC.TF.no_edge_white
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:46:04.15791+00:00
 -- url     : https://prove2.me/theorems/3e7c64c1-c78e-427d-a906-5d39a24ba92a

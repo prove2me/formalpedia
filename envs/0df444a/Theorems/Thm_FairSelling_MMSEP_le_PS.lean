@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_MMSEP_le_PS
 -- name    : FairSelling.MMSEP_le_PS
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:23:31.466405+00:00
 -- url     : https://prove2.me/theorems/d97ac360-6770-4892-8101-8aa3d6e62d0a

@@ -8981,8 +8981,8 @@
 {"parent": "RH1E6S04.part_016_2", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S04.part_016_2", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
 {"parent": "RiemannMasullo.isDiscrete_principalAdeles", "child": "RiemannMasullo_AdelicExtensions", "via": ["solution", "statement"]}
-{"parent": "LL_Gauss_upper_window_high.negative_bottom_gaussian_upper_window_high_top", "child": "LL_Gauss_upper_window_high_gaussianMellin", "via": ["statement"]}
-{"parent": "LL_Gauss_upper_window_high.negative_bottom_gaussian_upper_window_high_top", "child": "LL_Gauss_upper_window_high_e", "via": ["statement"]}
+{"parent": "LL_Gauss_upper_window_high.negative_bottom_gaussian_upper_window_high_top", "child": "LL_Gauss_upper_window_high_gaussianMellin", "via": ["solution", "statement"]}
+{"parent": "LL_Gauss_upper_window_high.negative_bottom_gaussian_upper_window_high_top", "child": "LL_Gauss_upper_window_high_e", "via": ["solution", "statement"]}
 {"parent": "RH1E6S06_D006_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "SourceProof_da13dd42275c2a9e7134e617", "child": "LevyStochCalc_Driver_CellMixedStep_F000", "via": ["statement"]}
 {"parent": "LevyStochCalc_Brownian_CellCharacter_F000", "child": "LevyStochCalc_Brownian_ItoVersionExists_F000", "via": ["statement"]}
@@ -22233,8 +22233,8 @@
 {"parent": "LevyStochCalc_Driver_CadlagMartingale_F000", "child": "LevyStochCalc_Probability_CondExpModification_F000", "via": ["statement"]}
 {"parent": "RH1E6S05_D048_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "LevyStochCalc.Brownian.Ito.stopped_eq_sub_sum", "child": "LevyStochCalc_Brownian_ItoOptionalStopping_F000", "via": ["solution", "statement"]}
-{"parent": "LL_Gauss_upper_window_high.negative_bottom_gaussian_upper_window_high_mid", "child": "LL_Gauss_upper_window_high_gaussianMellin", "via": ["statement"]}
-{"parent": "LL_Gauss_upper_window_high.negative_bottom_gaussian_upper_window_high_mid", "child": "LL_Gauss_upper_window_high_e", "via": ["statement"]}
+{"parent": "LL_Gauss_upper_window_high.negative_bottom_gaussian_upper_window_high_mid", "child": "LL_Gauss_upper_window_high_gaussianMellin", "via": ["solution", "statement"]}
+{"parent": "LL_Gauss_upper_window_high.negative_bottom_gaussian_upper_window_high_mid", "child": "LL_Gauss_upper_window_high_e", "via": ["solution", "statement"]}
 {"parent": "RH1E6S06_D070_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RH1E6S06.part_002_2", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S06.part_002_2", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}
@@ -25764,8 +25764,8 @@
 {"parent": "RH1E6S06.part_066_0", "child": "ArdaRH65K_RS_C0", "via": ["statement"]}
 {"parent": "RH1E6S06.part_066_0", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S06.part_066_0", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
-{"parent": "LL_Gauss_lower_window_mid.negative_bottom_gaussian_lower_window_mid_center", "child": "LL_Gauss_lower_window_mid_e", "via": ["statement"]}
-{"parent": "LL_Gauss_lower_window_mid.negative_bottom_gaussian_lower_window_mid_center", "child": "LL_Gauss_lower_window_mid_gaussianMellin", "via": ["statement"]}
+{"parent": "LL_Gauss_lower_window_mid.negative_bottom_gaussian_lower_window_mid_center", "child": "LL_Gauss_lower_window_mid_e", "via": ["solution", "statement"]}
+{"parent": "LL_Gauss_lower_window_mid.negative_bottom_gaussian_lower_window_mid_center", "child": "LL_Gauss_lower_window_mid_gaussianMellin", "via": ["solution", "statement"]}
 {"parent": "LevyStochCalc.Examples.Nonvacuity.coeffs_isRegular", "child": "NonvacuityItoLevy_F000", "via": ["solution", "statement"]}
 {"parent": "RH1E6S07_D065_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RH1E6S03_D052_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
@@ -30408,8 +30408,8 @@
 {"parent": "SourceProof_3f70385af64f50e254cd95c8", "child": "LevyStochCalc_Brownian_VectorItoProcessVersion_F000", "via": ["statement"]}
 {"parent": "SourceProof_3f70385af64f50e254cd95c8", "child": "SourceProof_0b802c6f1a6489d52336dde1", "via": ["statement"]}
 {"parent": "SourceProof_3f70385af64f50e254cd95c8", "child": "SourceProof_097e4842bb855e3d75971969", "via": ["statement"]}
-{"parent": "LL_Gauss_lower_window_mid.negative_bottom_gaussian_lower_window_mid_low", "child": "LL_Gauss_lower_window_mid_e", "via": ["statement"]}
-{"parent": "LL_Gauss_lower_window_mid.negative_bottom_gaussian_lower_window_mid_low", "child": "LL_Gauss_lower_window_mid_gaussianMellin", "via": ["statement"]}
+{"parent": "LL_Gauss_lower_window_mid.negative_bottom_gaussian_lower_window_mid_low", "child": "LL_Gauss_lower_window_mid_e", "via": ["solution", "statement"]}
+{"parent": "LL_Gauss_lower_window_mid.negative_bottom_gaussian_lower_window_mid_low", "child": "LL_Gauss_lower_window_mid_gaussianMellin", "via": ["solution", "statement"]}
 {"parent": "RH1E6S05.part_063_2", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S05.part_063_2", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}
 {"parent": "RH1E6S05.part_063_2", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}
@@ -31750,8 +31750,8 @@
 {"parent": "RH1E6S05_D014_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RH1E6S05_D048_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RH1E6S03_D024_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "LL_Gauss_lower_window_high.negative_bottom_gaussian_lower_window_high_small_delta", "child": "LL_Gauss_lower_window_high_gaussianMellin", "via": ["statement"]}
-{"parent": "LL_Gauss_lower_window_high.negative_bottom_gaussian_lower_window_high_small_delta", "child": "LL_Gauss_lower_window_high_e", "via": ["statement"]}
+{"parent": "LL_Gauss_lower_window_high.negative_bottom_gaussian_lower_window_high_small_delta", "child": "LL_Gauss_lower_window_high_gaussianMellin", "via": ["solution", "statement"]}
+{"parent": "LL_Gauss_lower_window_high.negative_bottom_gaussian_lower_window_high_small_delta", "child": "LL_Gauss_lower_window_high_e", "via": ["solution", "statement"]}
 {"parent": "RH1E6S07.group_085", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S07.group_085", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}
 {"parent": "RH1E6S07.group_085", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}
@@ -32559,8 +32559,8 @@
 {"parent": "RH1E6S06.part_068_0", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
 {"parent": "RH1E6S05_D081_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "MasulloRH.shrinking_compact_test_mellin_zero_scaling", "child": "Zeta23_Statement", "via": ["statement"]}
-{"parent": "LL_Gauss_upper_window_low.negative_bottom_gaussian_upper_window_low_middle", "child": "LL_Gauss_upper_window_low_e", "via": ["statement"]}
-{"parent": "LL_Gauss_upper_window_low.negative_bottom_gaussian_upper_window_low_middle", "child": "LL_Gauss_upper_window_low_gaussianMellin", "via": ["statement"]}
+{"parent": "LL_Gauss_upper_window_low.negative_bottom_gaussian_upper_window_low_middle", "child": "LL_Gauss_upper_window_low_e", "via": ["solution", "statement"]}
+{"parent": "LL_Gauss_upper_window_low.negative_bottom_gaussian_upper_window_low_middle", "child": "LL_Gauss_upper_window_low_gaussianMellin", "via": ["solution", "statement"]}
 {"parent": "RH1E6S08.part_003_0", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S08.part_003_0", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}
 {"parent": "RH1E6S08.part_003_0", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}
@@ -33202,8 +33202,8 @@
 {"parent": "SourceProof_f05975f5c16ce82825064bca", "child": "LevyStochCalc_Poisson_CompensatedApprox_F001", "via": ["statement"]}
 {"parent": "SourceProof_f05975f5c16ce82825064bca", "child": "SourceProof_8b57cd5261008e75b4f880d6", "via": ["statement"]}
 {"parent": "NymanBeurling.fixed_damping_shifted_boundary_zero", "child": "NymanBeurling_DampedResidualLimits", "via": ["solution", "statement"]}
-{"parent": "LL_Gauss_upper_window_mid.negative_bottom_gaussian_upper_window_mid_central", "child": "LL_Gauss_upper_window_mid_e", "via": ["statement"]}
-{"parent": "LL_Gauss_upper_window_mid.negative_bottom_gaussian_upper_window_mid_central", "child": "LL_Gauss_upper_window_mid_gaussianMellin", "via": ["statement"]}
+{"parent": "LL_Gauss_upper_window_mid.negative_bottom_gaussian_upper_window_mid_central", "child": "LL_Gauss_upper_window_mid_e", "via": ["solution", "statement"]}
+{"parent": "LL_Gauss_upper_window_mid.negative_bottom_gaussian_upper_window_mid_central", "child": "LL_Gauss_upper_window_mid_gaussianMellin", "via": ["solution", "statement"]}
 {"parent": "RH1E6S03.group_055", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S03.group_055", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}
 {"parent": "RH1E6S03.group_055", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}
@@ -35707,8 +35707,8 @@
 {"parent": "LL_Burst9MatrixR2.entry_1_2", "child": "LL_Burst9MatrixR2_tableSp", "via": ["solution", "statement"]}
 {"parent": "LL_Burst9MatrixR2.entry_1_2", "child": "LL_Burst9MatrixR2_grid", "via": ["solution", "statement"]}
 {"parent": "LL_Burst9MatrixR2.entry_1_2", "child": "LL_Burst9MatrixR2_sigma0", "via": ["solution", "statement"]}
-{"parent": "LL_Gauss_upper_window_high.negative_bottom_gaussian_upper_window_high_low", "child": "LL_Gauss_upper_window_high_gaussianMellin", "via": ["statement"]}
-{"parent": "LL_Gauss_upper_window_high.negative_bottom_gaussian_upper_window_high_low", "child": "LL_Gauss_upper_window_high_e", "via": ["statement"]}
+{"parent": "LL_Gauss_upper_window_high.negative_bottom_gaussian_upper_window_high_low", "child": "LL_Gauss_upper_window_high_gaussianMellin", "via": ["solution", "statement"]}
+{"parent": "LL_Gauss_upper_window_high.negative_bottom_gaussian_upper_window_high_low", "child": "LL_Gauss_upper_window_high_e", "via": ["solution", "statement"]}
 {"parent": "LevyStochCalc.Poisson.Compensated.stochasticIntegral_ae_zero_of_vanishing", "child": "LevyStochCalc_Poisson_CompensatedPullOut_F000", "via": ["statement"]}
 {"parent": "RH1E6S07.part_041_0", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S07.part_041_0", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}
@@ -53473,8 +53473,8 @@
 {"parent": "MasulloGRH.heckeLFunction_polynomial_growth_on_vertical_strips", "child": "MasulloGRH_HeckeLFunction", "via": ["solution", "statement"]}
 {"parent": "BehrendWindows.atMostTwoPerAP_mono", "child": "BehrendWindows_AtMostTwoPerAP", "via": ["solution", "statement"]}
 {"parent": "RH1E6S06_D074_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "LL_Gauss_upper_window_mid.negative_bottom_gaussian_upper_window_mid_lower", "child": "LL_Gauss_upper_window_mid_e", "via": ["statement"]}
-{"parent": "LL_Gauss_upper_window_mid.negative_bottom_gaussian_upper_window_mid_lower", "child": "LL_Gauss_upper_window_mid_gaussianMellin", "via": ["statement"]}
+{"parent": "LL_Gauss_upper_window_mid.negative_bottom_gaussian_upper_window_mid_lower", "child": "LL_Gauss_upper_window_mid_e", "via": ["solution", "statement"]}
+{"parent": "LL_Gauss_upper_window_mid.negative_bottom_gaussian_upper_window_mid_lower", "child": "LL_Gauss_upper_window_mid_gaussianMellin", "via": ["solution", "statement"]}
 {"parent": "RH1E6S04.part_013_3", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S04.part_013_3", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}
 {"parent": "RH1E6S04.part_013_3", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}
@@ -53984,8 +53984,8 @@
 {"parent": "RH1E6S05.group_072", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S05.group_072", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
 {"parent": "RiemannMasullo.regulatorParallelotope_disjoint", "child": "RiemannMasullo_RegulatorParallelotope", "via": ["solution", "statement"]}
-{"parent": "LL_Gauss_upper_window_high.negative_bottom_gaussian_upper_window_high_near", "child": "LL_Gauss_upper_window_high_gaussianMellin", "via": ["statement"]}
-{"parent": "LL_Gauss_upper_window_high.negative_bottom_gaussian_upper_window_high_near", "child": "LL_Gauss_upper_window_high_e", "via": ["statement"]}
+{"parent": "LL_Gauss_upper_window_high.negative_bottom_gaussian_upper_window_high_near", "child": "LL_Gauss_upper_window_high_gaussianMellin", "via": ["solution", "statement"]}
+{"parent": "LL_Gauss_upper_window_high.negative_bottom_gaussian_upper_window_high_near", "child": "LL_Gauss_upper_window_high_e", "via": ["solution", "statement"]}
 {"parent": "RH1E6S08.group_024", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S08.group_024", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}
 {"parent": "RH1E6S08.group_024", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}
@@ -54973,8 +54973,8 @@
 {"parent": "RH1E6S06.part_022_3", "child": "ArdaRH65K_RS_C0", "via": ["statement"]}
 {"parent": "RH1E6S06.part_022_3", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S06.part_022_3", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
-{"parent": "LL_Gauss_upper_window_low.negative_bottom_gaussian_upper_window_low_inner", "child": "LL_Gauss_upper_window_low_e", "via": ["statement"]}
-{"parent": "LL_Gauss_upper_window_low.negative_bottom_gaussian_upper_window_low_inner", "child": "LL_Gauss_upper_window_low_gaussianMellin", "via": ["statement"]}
+{"parent": "LL_Gauss_upper_window_low.negative_bottom_gaussian_upper_window_low_inner", "child": "LL_Gauss_upper_window_low_e", "via": ["solution", "statement"]}
+{"parent": "LL_Gauss_upper_window_low.negative_bottom_gaussian_upper_window_low_inner", "child": "LL_Gauss_upper_window_low_gaussianMellin", "via": ["solution", "statement"]}
 {"parent": "RH1E6S07_D014_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RH1E6S06_D006_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RH1E6S06.part_028_1", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
@@ -58162,8 +58162,8 @@
 {"parent": "RH1E6S03_D082_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "MasulloRH.single_prime_certificate_controls_all_cutoffs", "child": "MasulloRH_RegularizedTrace", "via": ["solution", "statement"]}
 {"parent": "BehrendWindows.exists_atMostTwoPerAP_of_box", "child": "BehrendWindows_AtMostTwoPerAP", "via": ["solution", "statement"]}
-{"parent": "LL_Gauss_upper_window_mid.negative_bottom_gaussian_upper_window_mid_upper", "child": "LL_Gauss_upper_window_mid_e", "via": ["statement"]}
-{"parent": "LL_Gauss_upper_window_mid.negative_bottom_gaussian_upper_window_mid_upper", "child": "LL_Gauss_upper_window_mid_gaussianMellin", "via": ["statement"]}
+{"parent": "LL_Gauss_upper_window_mid.negative_bottom_gaussian_upper_window_mid_upper", "child": "LL_Gauss_upper_window_mid_e", "via": ["solution", "statement"]}
+{"parent": "LL_Gauss_upper_window_mid.negative_bottom_gaussian_upper_window_mid_upper", "child": "LL_Gauss_upper_window_mid_gaussianMellin", "via": ["solution", "statement"]}
 {"parent": "RH1E6S08_D015_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RH1E6S05.part_005_0", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S05.part_005_0", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}

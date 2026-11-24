@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_theorem_two
 -- name    : FairSelling.theorem_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:55:05.951872+00:00
 -- url     : https://prove2.me/theorems/14c63d30-a4f5-450b-afad-9aeb46a36e0d

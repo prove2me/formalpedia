@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_MixedGood_mixed_case_reached
 -- name    : FairSelling.MixedGood.mixed_case_reached
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:54:35.68684+00:00
 -- url     : https://prove2.me/theorems/bb2a8703-0e13-4df2-96a9-0da017547df3

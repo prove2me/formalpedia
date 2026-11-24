@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_dval_eq
 -- name    : ULHC.dval_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:30:03.345036+00:00
 -- url     : https://prove2.me/theorems/5ab5bfd1-2344-4056-84d2-406552cda2b9

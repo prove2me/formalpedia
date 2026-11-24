@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_ProjLine_normSqE_pos_5cb9d9b38f7b
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_ProjLine_normSqE_pos_5cb9d9b38f7b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:23:42.103798+00:00
 -- url     : https://prove2.me/theorems/e6a09446-728e-468c-ac72-8c4f50964359

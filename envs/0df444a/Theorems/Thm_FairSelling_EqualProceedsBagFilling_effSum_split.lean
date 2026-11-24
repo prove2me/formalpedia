@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_EqualProceedsBagFilling_effSum_split
 -- name    : FairSelling.EqualProceedsBagFilling.effSum_split
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:26:28.091096+00:00
 -- url     : https://prove2.me/theorems/2e16bbfd-7660-4907-8fd1-ea319e109ab8

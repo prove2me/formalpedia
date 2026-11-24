@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_augLoopT_ret
 -- name    : ULHC.T.augLoopT_ret
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:16:36.343601+00:00
 -- url     : https://prove2.me/theorems/ea86400b-1447-4747-9d2b-7370eeaaad7b

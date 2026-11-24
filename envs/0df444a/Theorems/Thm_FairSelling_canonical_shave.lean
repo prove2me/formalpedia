@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_canonical_shave
 -- name    : FairSelling.canonical_shave
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:59:27.843354+00:00
 -- url     : https://prove2.me/theorems/fce93f06-9f66-45e1-bf17-99c49bf2c706

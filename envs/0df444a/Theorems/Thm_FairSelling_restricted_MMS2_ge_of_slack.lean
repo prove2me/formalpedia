@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_restricted_MMS2_ge_of_slack
 -- name    : FairSelling.restricted_MMS2_ge_of_slack
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:36:43.191212+00:00
 -- url     : https://prove2.me/theorems/50e34022-48f5-4799-b3a8-17bf7eee13f0

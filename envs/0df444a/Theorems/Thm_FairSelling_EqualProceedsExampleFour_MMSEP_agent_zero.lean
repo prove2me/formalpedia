@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_EqualProceedsExampleFour_MMSEP_agent_zero
 -- name    : FairSelling.EqualProceedsExampleFour.MMSEP_agent_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:25:14.688966+00:00
 -- url     : https://prove2.me/theorems/e4b46783-20a9-45de-884b-c000a51c2233

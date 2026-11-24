@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_GeneralTPS_exists_TPS_SEFX_of_step
 -- name    : FairSelling.GeneralTPS.exists_TPS_SEFX_of_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:42:13.944433+00:00
 -- url     : https://prove2.me/theorems/56cc3bb1-cd5e-433e-b51b-3cfa2a79a5b8

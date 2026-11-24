@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_EqualProceedsBagFilling_keepPart_disjoint_sellPart
 -- name    : FairSelling.EqualProceedsBagFilling.keepPart_disjoint_sellPart
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:25:28.495799+00:00
 -- url     : https://prove2.me/theorems/2f3f4662-8b64-4ed3-bacc-24423f73dbd6

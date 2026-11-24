@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_ChargeTPS_cost_le_of_footprint
 -- name    : FairSelling.ChargeTPS.cost_le_of_footprint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:43:52.492781+00:00
 -- url     : https://prove2.me/theorems/eae0eb26-28d0-4eda-9102-f3aefaf8c751

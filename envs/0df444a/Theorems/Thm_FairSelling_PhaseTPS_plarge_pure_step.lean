@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PhaseTPS_plarge_pure_step
 -- name    : FairSelling.PhaseTPS.plarge_pure_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:47:11.801469+00:00
 -- url     : https://prove2.me/theorems/c5ebe1ca-33f8-4266-ace9-7e306467a485

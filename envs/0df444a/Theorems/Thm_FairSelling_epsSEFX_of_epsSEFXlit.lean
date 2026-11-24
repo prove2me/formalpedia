@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_epsSEFX_of_epsSEFXlit
 -- name    : FairSelling.epsSEFX_of_epsSEFXlit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:34:00.228271+00:00
 -- url     : https://prove2.me/theorems/f493df0d-ace5-4756-ad82-c445fa353240

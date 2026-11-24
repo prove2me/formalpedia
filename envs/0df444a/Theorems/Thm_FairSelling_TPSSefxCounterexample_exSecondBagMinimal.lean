@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_TPSSefxCounterexample_exSecondBagMinimal
 -- name    : FairSelling.TPSSefxCounterexample.exSecondBagMinimal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:39:00.649388+00:00
 -- url     : https://prove2.me/theorems/71410f18-00c3-4d7e-ae4f-61bec45133b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_chain_sig
 -- name    : ULHC.chain_sig
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:28:58.603471+00:00
 -- url     : https://prove2.me/theorems/bf64db1d-57f2-4e65-b5dc-db849794fe30

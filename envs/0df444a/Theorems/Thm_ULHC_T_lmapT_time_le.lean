@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_lmapT_time_le
 -- name    : ULHC.T.lmapT_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:24:15.749607+00:00
 -- url     : https://prove2.me/theorems/4ee41a9d-4e81-4845-a374-01f8dca22efe

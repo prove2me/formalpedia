@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_EqualProceedsBagFilling_effSum_le_nsmul_netSum
 -- name    : FairSelling.EqualProceedsBagFilling.effSum_le_nsmul_netSum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:26:19.835455+00:00
 -- url     : https://prove2.me/theorems/465be8cc-374e-43ba-8eed-434b20de9516

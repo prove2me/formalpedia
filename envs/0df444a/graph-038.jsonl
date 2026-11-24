@@ -46184,8 +46184,8 @@
 {"parent": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_FundSetMeasStatement", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_ArakelovInstances_QuotientIsHausdorff", "via": ["statement"]}
 {"parent": "GlobalTheory.OpTrace.IsRepOp.repOp_eq", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_IsHilbertSchmidtOfFiniteDimensional", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.OpTrace.IsRepOp.repOp_eq", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_SmoothPartStable", "via": ["solution", "statement"]}
-{"parent": "ReciprocityTheory.Cheb.summable_absNorm_rpow_ideal", "child": "ReciprocityTheory_Chebotarev_NZIdeal", "via": ["statement"]}
-{"parent": "ReciprocityTheory.Cheb.summable_absNorm_rpow_ideal", "child": "ReciprocityTheory_Chebotarev_EulerSum", "via": ["statement"]}
+{"parent": "ReciprocityTheory.Cheb.summable_absNorm_rpow_ideal", "child": "ReciprocityTheory_Chebotarev_NZIdeal", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.Cheb.summable_absNorm_rpow_ideal", "child": "ReciprocityTheory_Chebotarev_EulerSum", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Mx7.absNb", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_WeightedSumDifferenceIdentity", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Mx7.absNb", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_EulerZetaGammaInvIdentity", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Mx7.absNb", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_LevelNablaStarRelations", "via": ["solution", "statement"]}
@@ -72348,8 +72348,8 @@
 {"parent": "ReciprocityTheory_DualLattices_TangentPairingStatement", "child": "ReciprocityTheory.PGsh.LHom.sqZero_of_span", "via": ["statement"]}
 {"parent": "CompanionTheory.D.LK.koszul_differential_anticommutator", "child": "CompanionTheory_HarishChandraModules_LowKTypeMultiplicity_EigenspaceCyclicDensity_CreationOperators_DifferentialBoundedSupport", "via": ["solution", "statement"]}
 {"parent": "CompanionTheory.D.LK.koszul_differential_anticommutator", "child": "CompanionTheory_HarishChandraModules_LowKTypeMultiplicity_EigenspaceCyclicDensity_CreationOperators_KoszulDifferentialAnticommutator", "via": ["solution", "statement"]}
-{"parent": "ReciprocityTheory.Cheb.sum_le_idealZetaR", "child": "ReciprocityTheory_Chebotarev_NZIdeal", "via": ["statement"]}
-{"parent": "ReciprocityTheory.Cheb.sum_le_idealZetaR", "child": "ReciprocityTheory_Chebotarev_EulerSum", "via": ["statement"]}
+{"parent": "ReciprocityTheory.Cheb.sum_le_idealZetaR", "child": "ReciprocityTheory_Chebotarev_NZIdeal", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.Cheb.sum_le_idealZetaR", "child": "ReciprocityTheory_Chebotarev_EulerSum", "via": ["solution", "statement"]}
 {"parent": "quantum_minor_star", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_IntegerProductCast_OfFnProdIntCast", "via": ["statement"]}
 {"parent": "quantum_minor_star", "child": "Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QmRowForm", "via": ["statement"]}
 {"parent": "quantum_minor_star", "child": "Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QmStar", "via": ["statement"]}

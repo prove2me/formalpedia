@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_walkT_ret
 -- name    : ULHC.T.walkT_ret
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:15:31.015121+00:00
 -- url     : https://prove2.me/theorems/d68cdb9e-5417-4107-820f-18428c954320

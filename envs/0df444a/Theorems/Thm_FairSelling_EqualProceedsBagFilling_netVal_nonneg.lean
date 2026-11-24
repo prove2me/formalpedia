@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_EqualProceedsBagFilling_netVal_nonneg
 -- name    : FairSelling.EqualProceedsBagFilling.netVal_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:25:54.1772+00:00
 -- url     : https://prove2.me/theorems/d6b1369b-84eb-4bbc-bdce-3cc9325d844b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_summable_absNorm_rpow_neg_subtype
 -- name    : GroundTheory.Global.summable_absNorm_rpow_neg_subtype
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:58:30.56115+00:00
 -- url     : https://prove2.me/theorems/967acf43-7545-4f43-afda-82f53951ac8c

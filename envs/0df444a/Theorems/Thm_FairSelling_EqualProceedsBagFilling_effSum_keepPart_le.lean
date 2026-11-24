@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_EqualProceedsBagFilling_effSum_keepPart_le
 -- name    : FairSelling.EqualProceedsBagFilling.effSum_keepPart_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:26:41.916879+00:00
 -- url     : https://prove2.me/theorems/6a2abe83-2d07-46be-be7a-76687676242a

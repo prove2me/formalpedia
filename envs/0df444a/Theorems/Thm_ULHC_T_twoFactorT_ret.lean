@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_twoFactorT_ret
 -- name    : ULHC.T.twoFactorT_ret
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:15:58.569344+00:00
 -- url     : https://prove2.me/theorems/42679e7e-7d25-401b-961f-d526c722db4a

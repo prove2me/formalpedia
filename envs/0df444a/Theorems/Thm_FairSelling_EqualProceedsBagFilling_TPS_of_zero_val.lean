@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_EqualProceedsBagFilling_TPS_of_zero_val
 -- name    : FairSelling.EqualProceedsBagFilling.TPS_of_zero_val
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:26:50.430051+00:00
 -- url     : https://prove2.me/theorems/26fecb8c-e333-4cbf-9f27-357c8642f8a2

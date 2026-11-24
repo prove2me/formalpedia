@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_MoneyGoods_counting
 -- name    : FairSelling.MoneyGoods.counting
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:42:50.879701+00:00
 -- url     : https://prove2.me/theorems/7999a992-4eb0-4f2e-899e-1119b6a66711

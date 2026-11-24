@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_TF_deg_empty
 -- name    : ULHC.TF.deg_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:45:54.989805+00:00
 -- url     : https://prove2.me/theorems/e15eaf65-cb46-49c3-8033-77cf4092cbbb

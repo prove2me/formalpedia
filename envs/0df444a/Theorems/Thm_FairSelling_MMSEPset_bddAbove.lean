@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_MMSEPset_bddAbove
 -- name    : FairSelling.MMSEPset_bddAbove
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:23:10.178933+00:00
 -- url     : https://prove2.me/theorems/f7188195-520b-420f-841c-a1bbdbbe81d1

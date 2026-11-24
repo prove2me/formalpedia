@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_three_le_deg
 -- name    : ULHC.three_le_deg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:26:29.363016+00:00
 -- url     : https://prove2.me/theorems/5b15e82b-b42f-4e02-9d34-668f9cb90be9

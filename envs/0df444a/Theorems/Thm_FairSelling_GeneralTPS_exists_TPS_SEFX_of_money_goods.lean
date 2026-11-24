@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_GeneralTPS_exists_TPS_SEFX_of_money_goods
 -- name    : FairSelling.GeneralTPS.exists_TPS_SEFX_of_money_goods
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:42:13.796159+00:00
 -- url     : https://prove2.me/theorems/7b63ea96-55f1-4d21-a263-ac650156156c

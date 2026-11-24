@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_exists_threequarter_MMS_three
 -- name    : FairSelling.exists_threequarter_MMS_three
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:07:27.072816+00:00
 -- url     : https://prove2.me/theorems/b2378105-d5cd-434f-80be-d44e25812b8c

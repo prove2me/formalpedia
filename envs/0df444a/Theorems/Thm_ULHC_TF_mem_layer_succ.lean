@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_TF_mem_layer_succ
 -- name    : ULHC.TF.mem_layer_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:46:00.0577+00:00
 -- url     : https://prove2.me/theorems/21826d3d-13b3-4717-a55a-d863675ad7ff

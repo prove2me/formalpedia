@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_summable_absNorm_rpow_ideal
 -- name    : ReciprocityTheory.Cheb.summable_absNorm_rpow_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:47:33.465972+00:00
 -- url     : https://prove2.me/theorems/6c76fbcc-b5e9-4484-af5a-e0076677dfcc

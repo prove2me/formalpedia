@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_NineteenEighteenths_MMS_agent_one
 -- name    : FairChores.NineteenEighteenths.MMS_agent_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:22:37.675844+00:00
 -- url     : https://prove2.me/theorems/58dd6b8d-26fa-4eee-b757-8418e24db5b0

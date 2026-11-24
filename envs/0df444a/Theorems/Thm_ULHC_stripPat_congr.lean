@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_stripPat_congr
 -- name    : ULHC.stripPat_congr
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:54:02.051888+00:00
 -- url     : https://prove2.me/theorems/8173db92-1d30-4b6d-bd43-a7de5846e5c6

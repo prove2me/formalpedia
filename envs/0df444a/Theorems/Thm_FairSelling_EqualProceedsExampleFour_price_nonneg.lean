@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_EqualProceedsExampleFour_price_nonneg
 -- name    : FairSelling.EqualProceedsExampleFour.price_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:24:46.457015+00:00
 -- url     : https://prove2.me/theorems/7d2658cd-70f2-4242-a68c-fafc54fda81b

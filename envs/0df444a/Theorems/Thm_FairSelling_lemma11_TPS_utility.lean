@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_lemma11_TPS_utility
 -- name    : FairSelling.lemma11_TPS_utility
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:36:14.239364+00:00
 -- url     : https://prove2.me/theorems/b501e2f4-0b83-4812-a79d-cc96f7be91f7

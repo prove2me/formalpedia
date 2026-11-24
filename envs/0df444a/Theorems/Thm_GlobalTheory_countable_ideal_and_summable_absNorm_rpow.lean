@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_countable_ideal_and_summable_absNorm_rpow
 -- name    : GlobalTheory.countable_ideal_and_summable_absNorm_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:50:57.24371+00:00
 -- url     : https://prove2.me/theorems/ae90a6cf-934a-43a6-8573-05b6137cfba2

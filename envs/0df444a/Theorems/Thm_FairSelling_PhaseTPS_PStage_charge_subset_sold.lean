@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PhaseTPS_PStage_charge_subset_sold
 -- name    : FairSelling.PhaseTPS.PStage.charge_subset_sold
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:46:47.986805+00:00
 -- url     : https://prove2.me/theorems/fb4ae80c-20fd-4f5a-9bd1-2123dc210d1b

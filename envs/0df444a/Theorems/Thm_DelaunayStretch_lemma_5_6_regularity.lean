@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelaunayStretch_lemma_5_6_regularity
 -- name    : DelaunayStretch.lemma_5_6_regularity
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-24T03:06:19.047991+00:00
 -- url     : https://prove2.me/theorems/c55d9fc0-c292-400b-80d4-4486662fcf0d

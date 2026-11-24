@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBound_MeanCountBound_proof_dd46c9249e3c
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBound_MeanCountBound_proof_dd46c9249e3c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:29:42.188068+00:00
 -- url     : https://prove2.me/theorems/dfa3476e-b780-42fd-87f3-056874614cba

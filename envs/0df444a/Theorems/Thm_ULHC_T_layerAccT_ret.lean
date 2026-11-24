@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_layerAccT_ret
 -- name    : ULHC.T.layerAccT_ret
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:14:53.536991+00:00
 -- url     : https://prove2.me/theorems/4f4f8cda-b8f9-4d0a-b984-70872c1692e9

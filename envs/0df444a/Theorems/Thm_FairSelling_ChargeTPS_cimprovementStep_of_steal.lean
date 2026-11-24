@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_ChargeTPS_cimprovementStep_of_steal
 -- name    : FairSelling.ChargeTPS.cimprovementStep_of_steal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:44:59.253941+00:00
 -- url     : https://prove2.me/theorems/35390ca6-4b96-48bc-bebb-87993f3da73d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_stripLenT_ret
 -- name    : ULHC.T.stripLenT_ret
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:11:39.284803+00:00
 -- url     : https://prove2.me/theorems/62647456-fa04-429e-b3f9-0e8fc806943c

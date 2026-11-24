@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_back_mem_zero
 -- name    : ULHC.back_mem_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:42:54.361872+00:00
 -- url     : https://prove2.me/theorems/4cfbb666-535a-4fd4-92dd-6dae9ad7d4a4

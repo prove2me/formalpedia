@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_latB_ne_opp
 -- name    : ULHC.latB_ne_opp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:27:56.808624+00:00
 -- url     : https://prove2.me/theorems/04be3ef4-4e5f-45d9-8238-083c095ca3f0

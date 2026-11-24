@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_flip_flip_comm
 -- name    : ULHC.flip_flip_comm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:53:59.934168+00:00
 -- url     : https://prove2.me/theorems/6edfcd9c-28ca-4036-aebb-47ba194322ba

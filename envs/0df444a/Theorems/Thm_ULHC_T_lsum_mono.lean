@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_lsum_mono
 -- name    : ULHC.T.lsum_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:24:59.920273+00:00
 -- url     : https://prove2.me/theorems/3dee85e0-0386-4e95-a27d-86f915f4992e

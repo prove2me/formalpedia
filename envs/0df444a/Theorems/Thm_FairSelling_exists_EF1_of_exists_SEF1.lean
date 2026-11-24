@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_exists_EF1_of_exists_SEF1
 -- name    : FairSelling.exists_EF1_of_exists_SEF1
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:15:53.4658+00:00
 -- url     : https://prove2.me/theorems/512408d9-08b3-40d3-b05e-4378b6353d50

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_main_lemma_two_basic_cases
 -- name    : FairSelling.main_lemma_two_basic_cases
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:36:46.173832+00:00
 -- url     : https://prove2.me/theorems/4e5cd33e-1af4-45cd-956f-9f2a33d4923f

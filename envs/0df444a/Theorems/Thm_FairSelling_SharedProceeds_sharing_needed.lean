@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_SharedProceeds_sharing_needed
 -- name    : FairSelling.SharedProceeds.sharing_needed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:55:47.994393+00:00
 -- url     : https://prove2.me/theorems/b36fab9a-aab4-4e7d-9013-110a6c0594f5

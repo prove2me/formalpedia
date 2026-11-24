@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_allStripsT_ret
 -- name    : ULHC.T.allStripsT_ret
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:12:10.813239+00:00
 -- url     : https://prove2.me/theorems/324e2eb8-005a-48ea-b892-cf97b24bd51b

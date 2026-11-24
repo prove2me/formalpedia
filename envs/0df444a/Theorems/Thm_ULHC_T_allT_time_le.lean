@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_allT_time_le
 -- name    : ULHC.T.allT_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:24:24.357845+00:00
 -- url     : https://prove2.me/theorems/e9d10c9c-3241-47e2-a59a-1ff5050e582b

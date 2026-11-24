@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_exists_canonical_of_few_large
 -- name    : FairSelling.exists_canonical_of_few_large
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:13:20.917228+00:00
 -- url     : https://prove2.me/theorems/5753fd71-cad4-49a2-a0ad-807281c36419

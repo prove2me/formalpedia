@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_bwdT_ret
 -- name    : ULHC.T.bwdT_ret
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:14:42.125927+00:00
 -- url     : https://prove2.me/theorems/f8086fae-82b3-410c-9bcf-77c04678a88f

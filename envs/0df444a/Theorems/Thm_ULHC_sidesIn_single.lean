@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_sidesIn_single
 -- name    : ULHC.sidesIn_single
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:44:54.897941+00:00
 -- url     : https://prove2.me/theorems/d532b556-7ab0-4302-9eb8-d35dbafce981

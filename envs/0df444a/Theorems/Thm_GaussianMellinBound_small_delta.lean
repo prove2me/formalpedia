@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianMellinBound_small_delta
 -- name    : GaussianMellinBound.small_delta
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-11-24T03:11:25.783615+00:00
 -- url     : https://prove2.me/theorems/843b0516-3faa-4d2d-8a9d-d9802681cda0

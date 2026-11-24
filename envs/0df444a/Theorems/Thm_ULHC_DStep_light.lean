@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_DStep_light
 -- name    : ULHC.DStep.light
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:45:06.239654+00:00
 -- url     : https://prove2.me/theorems/81cf927b-a48f-4db8-a380-f353bf71550b

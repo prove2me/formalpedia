@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_pat_flip_off
 -- name    : ULHC.pat_flip_off
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:18:21.20115+00:00
 -- url     : https://prove2.me/theorems/9c3bb46a-e1a2-479e-9bd6-a426879e2414

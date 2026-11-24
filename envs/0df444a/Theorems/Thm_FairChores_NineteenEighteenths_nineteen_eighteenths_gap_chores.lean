@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_NineteenEighteenths_nineteen_eighteenths_gap_chores
 -- name    : FairChores.NineteenEighteenths.nineteen_eighteenths_gap_chores
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:23:12.955953+00:00
 -- url     : https://prove2.me/theorems/dd292235-028f-4d2f-8763-0c7b03b2ffa2

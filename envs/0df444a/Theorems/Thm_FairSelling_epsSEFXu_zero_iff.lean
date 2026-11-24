@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_epsSEFXu_zero_iff
 -- name    : FairSelling.epsSEFXu_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:34:24.456706+00:00
 -- url     : https://prove2.me/theorems/9b11c336-7d17-41dc-9a24-f5ec0e4f905f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_nb_ne
 -- name    : ULHC.nb_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:45:03.732801+00:00
 -- url     : https://prove2.me/theorems/456242c6-efbf-42b5-8afe-8d22135060a2

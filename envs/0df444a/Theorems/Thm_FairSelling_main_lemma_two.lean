@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_main_lemma_two
 -- name    : FairSelling.main_lemma_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:37:05.87455+00:00
 -- url     : https://prove2.me/theorems/08026ac1-b611-4cd7-a3d0-9c2581f2217d

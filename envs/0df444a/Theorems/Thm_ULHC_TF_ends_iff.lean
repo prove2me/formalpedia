@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_TF_ends_iff
 -- name    : ULHC.TF.ends_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:45:28.086071+00:00
 -- url     : https://prove2.me/theorems/1795603f-8c64-444b-b286-3a7bbf4cd206

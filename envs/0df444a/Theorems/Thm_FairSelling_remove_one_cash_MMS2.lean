@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_remove_one_cash_MMS2
 -- name    : FairSelling.remove_one_cash_MMS2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:56:51.889074+00:00
 -- url     : https://prove2.me/theorems/1c11eabf-c299-43fe-b09e-bc1e87ea2358

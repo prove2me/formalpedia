@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_TPS_of_consecutive_breakpoints
 -- name    : FairSelling.TPS_of_consecutive_breakpoints
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:30:46.237734+00:00
 -- url     : https://prove2.me/theorems/65a3eb89-0e0a-4a86-bddd-0bd83f897a75

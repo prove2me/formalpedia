@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBound_CuspWeightBound_proof_31f7e20228db
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBound_CuspWeightBound_proof_31f7e20228db
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:29:21.292604+00:00
 -- url     : https://prove2.me/theorems/fc7d84e5-3bfc-45db-8923-939dd1a88ecc

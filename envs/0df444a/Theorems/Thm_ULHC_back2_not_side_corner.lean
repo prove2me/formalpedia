@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_back2_not_side_corner
 -- name    : ULHC.back2_not_side_corner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:43:30.692483+00:00
 -- url     : https://prove2.me/theorems/767aad19-a412-4614-bbff-932001860e1a

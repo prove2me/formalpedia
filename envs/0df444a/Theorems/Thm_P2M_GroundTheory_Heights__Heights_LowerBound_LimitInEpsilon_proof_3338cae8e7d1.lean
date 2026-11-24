@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBound_LimitInEpsilon_proof_3338cae8e7d1
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBound_LimitInEpsilon_proof_3338cae8e7d1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:29:30.653534+00:00
 -- url     : https://prove2.me/theorems/c777d66b-9815-4af0-a303-ce30a2be086a

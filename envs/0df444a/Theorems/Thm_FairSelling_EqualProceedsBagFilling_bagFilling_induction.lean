@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_EqualProceedsBagFilling_bagFilling_induction
 -- name    : FairSelling.EqualProceedsBagFilling.bagFilling_induction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:26:44.761411+00:00
 -- url     : https://prove2.me/theorems/8718b32f-aa92-42ea-a1b2-6dab35b104e3

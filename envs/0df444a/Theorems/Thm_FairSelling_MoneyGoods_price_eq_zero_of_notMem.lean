@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_MoneyGoods_price_eq_zero_of_notMem
 -- name    : FairSelling.MoneyGoods.price_eq_zero_of_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:42:28.515614+00:00
 -- url     : https://prove2.me/theorems/e303cfcf-d428-41a8-bc94-f2aa203754fd

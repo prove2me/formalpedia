@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_NineteenEighteenths_no_rho_MMS_chores_three_eight
 -- name    : FairChores.NineteenEighteenths.no_rho_MMS_chores_three_eight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:22:58.09118+00:00
 -- url     : https://prove2.me/theorems/f92fb16f-7d2d-48d6-91a1-91b77e990643

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LL_Gauss_lower_window_mid_negative_bottom_gaussian_lower_window_mid_low
 -- name    : LL_Gauss_lower_window_mid.negative_bottom_gaussian_lower_window_mid_low
--- status  : Open
+-- status  : Proved
 -- author  : @sthubbar
 -- created : 2026-11-20T08:04:28.769936+00:00
 -- url     : https://prove2.me/theorems/8a6f7931-2047-44ea-a874-45c6ec65a338
