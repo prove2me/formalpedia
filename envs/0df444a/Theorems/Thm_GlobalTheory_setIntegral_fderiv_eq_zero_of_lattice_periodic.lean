@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_setIntegral_fderiv_eq_zero_of_lattice_periodic
 -- name    : GlobalTheory.setIntegral_fderiv_eq_zero_of_lattice_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:20:24.834402+00:00
 -- url     : https://prove2.me/theorems/8a765b6b-256e-4ac5-8bf7-16e7d2c3f624

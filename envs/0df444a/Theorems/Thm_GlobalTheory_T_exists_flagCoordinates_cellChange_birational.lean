@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_flagCoordinates_cellChange_birational
 -- name    : GlobalTheory.T.exists_flagCoordinates_cellChange_birational
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:36:34.194805+00:00
 -- url     : https://prove2.me/theorems/8e14c971-4de6-4615-84a7-81ef47e884d0

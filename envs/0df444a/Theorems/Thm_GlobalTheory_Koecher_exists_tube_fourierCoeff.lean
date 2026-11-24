@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Koecher_exists_tube_fourierCoeff
 -- name    : GlobalTheory.Koecher.exists_tube_fourierCoeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:49:43.370876+00:00
 -- url     : https://prove2.me/theorems/59cdf8e4-8a2d-4462-ba5b-e0fb6ca543aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mem_dual_cuspCharacterLattice_iff_adapted_basis
 -- name    : GlobalTheory.T.mem_dual_cuspCharacterLattice_iff_adapted_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:53:01.412798+00:00
 -- url     : https://prove2.me/theorems/c2cafdcb-223a-45bd-b3e0-15bddc58ba70

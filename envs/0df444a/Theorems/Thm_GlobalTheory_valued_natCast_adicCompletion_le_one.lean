@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_valued_natCast_adicCompletion_le_one
 -- name    : GlobalTheory.valued_natCast_adicCompletion_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:24:51.432719+00:00
 -- url     : https://prove2.me/theorems/4d3d1929-752f-40df-bda6-d0f9577470d5

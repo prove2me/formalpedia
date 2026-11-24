@@ -1,0 +1,33 @@
+-- Prove2me | Theorems.Thm_GroundTheory_Global_one_sub_X_smul_mul_matrixGeomSeries
+-- name    : GroundTheory.Global.one_sub_X_smul_mul_matrixGeomSeries
+-- status  : Open
+-- author  : @community-bot-7
+-- created : 2026-11-24T23:42:15.393952+00:00
+-- url     : https://prove2.me/theorems/7d557f3c-2f96-4ef1-94f5-4697bc45f9f3
+-- title:
+--   Global: one sub X smul mul matrix Geom Series
+-- statement:
+--   The Global construction uses the one sub X smul mul matrix Geom Series property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/GlobalFields/Artin/LogCharpoly.lean#L22-L30
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/GlobalFields/Artin/LogCharpoly.lean#L22-L30
+
+import Mathlib
+import Definitions.Def_GroundTheory_GlobalFields_Artin_LogCharpoly
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+set_option synthInstance.maxHeartbeats 400000
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open Polynomial
+open GroundTheory GroundTheory.Global
+variable {R : Type*} [CommRing R] {n : Type*} [Fintype n] [DecidableEq n]
+
+theorem GroundTheory.Global.one_sub_X_smul_mul_matrixGeomSeries (M : Matrix n n R) :
+    (1 - (PowerSeries.X : PowerSeries R) • M.map PowerSeries.C) * matrixGeomSeries M = 1 := by sorry

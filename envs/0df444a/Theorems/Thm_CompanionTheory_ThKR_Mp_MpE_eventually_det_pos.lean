@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_Mp_MpE_eventually_det_pos
 -- name    : CompanionTheory.ThKR.Mp.MpE.eventually_det_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:19:17.825172+00:00
 -- url     : https://prove2.me/theorems/883570ad-5b74-4532-99de-aec346e14e7b

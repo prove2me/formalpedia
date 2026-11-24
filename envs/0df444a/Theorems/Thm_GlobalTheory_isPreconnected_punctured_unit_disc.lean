@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isPreconnected_punctured_unit_disc
 -- name    : GlobalTheory.isPreconnected_punctured_unit_disc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:58:41.000623+00:00
 -- url     : https://prove2.me/theorems/99a2f88b-b286-4da6-9441-fc7eaa14b35b

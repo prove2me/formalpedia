@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_rational_matrix_approx_adele_linear_map
 -- name    : GlobalTheory.T.exists_rational_matrix_approx_adele_linear_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:40:00.031121+00:00
 -- url     : https://prove2.me/theorems/7207083a-9598-4408-8f0a-3334c8b30a7b

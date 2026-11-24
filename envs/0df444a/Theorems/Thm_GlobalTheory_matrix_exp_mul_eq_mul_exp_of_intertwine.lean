@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_matrix_exp_mul_eq_mul_exp_of_intertwine
 -- name    : GlobalTheory.matrix_exp_mul_eq_mul_exp_of_intertwine
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:18:41.859052+00:00
 -- url     : https://prove2.me/theorems/a1ef4ce8-1afb-4c20-9c08-b25470dcb446

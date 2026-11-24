@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_DepthNonnegative_theorem_w_central_of_simple_quotients
 -- name    : Formalism.CohomologicalDescent.DepthNonnegative.theorem_w_central_of_simple_quotients
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:10:25.43403+00:00
 -- url     : https://prove2.me/theorems/6595c1ee-49c8-403f-8f06-ff6170177ea1

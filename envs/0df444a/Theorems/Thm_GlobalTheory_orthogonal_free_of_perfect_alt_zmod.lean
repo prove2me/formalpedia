@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_orthogonal_free_of_perfect_alt_zmod
 -- name    : GlobalTheory.orthogonal_free_of_perfect_alt_zmod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:12:59.89925+00:00
 -- url     : https://prove2.me/theorems/020a5845-4238-4169-8c52-d9dd572cc08d

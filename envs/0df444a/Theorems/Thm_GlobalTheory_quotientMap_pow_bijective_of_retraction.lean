@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_quotientMap_pow_bijective_of_retraction
 -- name    : GlobalTheory.quotientMap_pow_bijective_of_retraction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:14:53.700185+00:00
 -- url     : https://prove2.me/theorems/a5304a98-7034-4bc7-ab77-f60597df4a92

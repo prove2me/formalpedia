@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_pi_prod_rows_orthonormal
 -- name    : GlobalTheory.pi_prod_rows_orthonormal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:14:01.924526+00:00
 -- url     : https://prove2.me/theorems/3d1e4223-622f-4188-a845-dc96b967644c

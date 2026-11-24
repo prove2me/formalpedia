@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_depthDual
 -- name    : Formalism.CohomologicalDescent.LD.depthDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:06:57.572379+00:00
 -- url     : https://prove2.me/theorems/20e5d502-0dfc-4ff6-934e-3fa75f4861d2

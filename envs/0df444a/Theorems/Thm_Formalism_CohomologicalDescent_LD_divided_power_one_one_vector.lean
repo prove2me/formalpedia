@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_divided_power_one_one_vector
 -- name    : Formalism.CohomologicalDescent.LD.divided_power_one_one_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:41:05.459059+00:00
 -- url     : https://prove2.me/theorems/2b332685-0cb4-4575-932d-6efd8509d929

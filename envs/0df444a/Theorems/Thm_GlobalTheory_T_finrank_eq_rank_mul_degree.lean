@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finrank_eq_rank_mul_degree
 -- name    : GlobalTheory.T.finrank_eq_rank_mul_degree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:39:03.397181+00:00
 -- url     : https://prove2.me/theorems/4c2975bf-83f5-44ff-b05f-8da004e0494e

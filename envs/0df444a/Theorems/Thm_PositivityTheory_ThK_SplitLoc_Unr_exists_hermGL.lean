@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_exists_hermGL
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.exists_hermGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:13:36.983778+00:00
 -- url     : https://prove2.me/theorems/616fe7cf-ca94-452d-aea4-fd562f9d6eed

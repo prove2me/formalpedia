@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_taylorTail_inner
 -- name    : GlobalTheory.taylorTail_inner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:22:43.286887+00:00
 -- url     : https://prove2.me/theorems/84d39d1a-4550-434f-8a4f-8309997be327

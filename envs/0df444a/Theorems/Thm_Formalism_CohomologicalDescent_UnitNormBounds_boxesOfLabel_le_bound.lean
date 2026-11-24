@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_UnitNormBounds_boxesOfLabel_le_bound
 -- name    : Formalism.CohomologicalDescent.UnitNormBounds.boxesOfLabel_le_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:00:39.165822+00:00
 -- url     : https://prove2.me/theorems/b0ce2feb-7b8e-414e-9fde-250b840e77f7

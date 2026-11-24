@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_transvectionUnit_pow_val
 -- name    : GlobalTheory.transvectionUnit_pow_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:23:34.356688+00:00
 -- url     : https://prove2.me/theorems/be423549-b979-4d39-83b1-85acf81eef99

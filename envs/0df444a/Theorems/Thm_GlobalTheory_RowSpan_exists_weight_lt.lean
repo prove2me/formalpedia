@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowSpan_exists_weight_lt
 -- name    : GlobalTheory.RowSpan.exists_weight_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:33:10.202983+00:00
 -- url     : https://prove2.me/theorems/58b892af-71bd-49f7-ba14-a1c84d49cd10

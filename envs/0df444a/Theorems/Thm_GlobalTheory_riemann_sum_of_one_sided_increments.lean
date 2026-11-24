@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_riemann_sum_of_one_sided_increments
 -- name    : GlobalTheory.riemann_sum_of_one_sided_increments
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:17:08.773715+00:00
 -- url     : https://prove2.me/theorems/e6979d1c-e810-4a08-8662-917cc2f4b5a2

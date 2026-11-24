@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_valuationRing_exists_pow_eq
 -- name    : GlobalTheory.valuationRing_exists_pow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:25:10.111336+00:00
 -- url     : https://prove2.me/theorems/eb81dea7-1f9c-444a-888b-7ebbeb56aeea

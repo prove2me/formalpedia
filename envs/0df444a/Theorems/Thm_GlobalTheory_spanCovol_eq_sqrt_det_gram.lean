@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_spanCovol_eq_sqrt_det_gram
 -- name    : GlobalTheory.spanCovol_eq_sqrt_det_gram
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:35:55.751714+00:00
 -- url     : https://prove2.me/theorems/f8c2f0cc-9aa2-4854-9b14-0a2982a935c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_partial_sequence_sum
 -- name    : Formalism.CohomologicalDescent.LD.partial_sequence_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:05:26.863004+00:00
 -- url     : https://prove2.me/theorems/1f94f0e1-d5c3-47a6-b73d-449ede9e357d

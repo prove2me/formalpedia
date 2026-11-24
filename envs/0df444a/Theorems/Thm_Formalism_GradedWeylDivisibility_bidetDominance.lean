@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_bidetDominance
 -- name    : Formalism.GradedWeylDivisibility.bidetDominance
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:25:39.570036+00:00
 -- url     : https://prove2.me/theorems/b56f761d-555c-4a84-9f21-5136d1040a2c

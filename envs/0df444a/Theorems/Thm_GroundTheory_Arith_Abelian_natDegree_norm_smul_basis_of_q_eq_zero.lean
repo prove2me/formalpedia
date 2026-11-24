@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_natDegree_norm_smul_basis_of_q_eq_zero
 -- name    : GroundTheory.Arith.Abelian.natDegree_norm_smul_basis_of_q_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:25:49.29873+00:00
 -- url     : https://prove2.me/theorems/e32a518a-0f09-4d62-bd3c-6119c5f9d2a6

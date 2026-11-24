@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_universallyClosed_of_closed_cover_in_universallyClosed
 -- name    : GlobalTheory.universallyClosed_of_closed_cover_in_universallyClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:24:26.10866+00:00
 -- url     : https://prove2.me/theorems/bc8ccafe-7d35-40f7-acea-1d25d9ee3043

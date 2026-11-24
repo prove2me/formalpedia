@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_ShortWeightBounds_one_le_h
 -- name    : Formalism.CohomologicalDescent.ShortWeightBounds.one_le_h
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:29:23.943402+00:00
 -- url     : https://prove2.me/theorems/5809e8cc-5201-491c-819a-a3d433fad163

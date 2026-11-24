@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_relIndex_span_le_norm_minor
 -- name    : GlobalTheory.relIndex_span_le_norm_minor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:16:41.649964+00:00
 -- url     : https://prove2.me/theorems/3580c4fe-37d7-4107-b75a-ec847d549051

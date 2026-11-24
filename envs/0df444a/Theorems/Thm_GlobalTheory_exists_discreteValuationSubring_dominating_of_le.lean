@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_discreteValuationSubring_dominating_of_le
 -- name    : GlobalTheory.exists_discreteValuationSubring_dominating_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:15:40.192221+00:00
 -- url     : https://prove2.me/theorems/d014d244-0ebb-4cb5-8c10-1caacb1a657e

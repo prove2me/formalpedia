@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SerConj_isConstituent_bc
 -- name    : GlobalTheory.SerConj.isConstituent_bc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:10:49.0768+00:00
 -- url     : https://prove2.me/theorems/237d69ec-c8f8-4cb7-b348-114183427e57

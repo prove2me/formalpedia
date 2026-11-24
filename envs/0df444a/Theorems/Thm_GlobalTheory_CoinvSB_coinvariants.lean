@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoinvSB_coinvariants
 -- name    : GlobalTheory.CoinvSB.coinvariants
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:29:04.755662+00:00
 -- url     : https://prove2.me/theorems/f93fb34c-6771-4937-9691-aa601b197cba

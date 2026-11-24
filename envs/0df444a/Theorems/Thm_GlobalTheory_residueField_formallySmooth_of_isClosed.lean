@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_residueField_formallySmooth_of_isClosed
 -- name    : GlobalTheory.residueField_formallySmooth_of_isClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:16:22.561493+00:00
 -- url     : https://prove2.me/theorems/1d6cdfa2-5ca5-4eb9-9565-70ec06504125

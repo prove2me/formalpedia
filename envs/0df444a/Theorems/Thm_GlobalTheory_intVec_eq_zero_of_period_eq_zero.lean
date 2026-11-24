@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_intVec_eq_zero_of_period_eq_zero
 -- name    : GlobalTheory.intVec_eq_zero_of_period_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:14:10.26964+00:00
 -- url     : https://prove2.me/theorems/df346f7c-aa50-49e8-8d6b-85e332142b58

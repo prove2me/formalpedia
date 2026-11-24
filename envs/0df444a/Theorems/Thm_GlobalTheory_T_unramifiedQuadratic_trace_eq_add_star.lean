@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unramifiedQuadratic_trace_eq_add_star
 -- name    : GlobalTheory.T.unramifiedQuadratic_trace_eq_add_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:01:06.019615+00:00
 -- url     : https://prove2.me/theorems/f4290907-464c-4b8d-9922-43ca508d3118

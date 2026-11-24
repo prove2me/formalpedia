@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Descent_resSys_qiso
 -- name    : GlobalTheory.CompanionTheory.Descent.resSys_qiso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:26:51.593735+00:00
 -- url     : https://prove2.me/theorems/0a550474-2fb4-4b78-8fe2-b8449eeda7e2

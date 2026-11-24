@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_torusCoord_symm_apply
 -- name    : GlobalTheory.torusCoord_symm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:23:52.021856+00:00
 -- url     : https://prove2.me/theorems/74e4aa9b-9762-492d-8e83-1643428dab84

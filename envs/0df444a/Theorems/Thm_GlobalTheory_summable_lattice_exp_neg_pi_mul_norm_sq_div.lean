@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_summable_lattice_exp_neg_pi_mul_norm_sq_div
 -- name    : GlobalTheory.summable_lattice_exp_neg_pi_mul_norm_sq_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:22:17.357707+00:00
 -- url     : https://prove2.me/theorems/0252a080-0c47-4c4d-a736-668a9ea06993

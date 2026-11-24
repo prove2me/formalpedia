@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjCut_degree_lt_of_isIntegral
 -- name    : GlobalTheory.ProjCut.degree_lt_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:56:57.159316+00:00
 -- url     : https://prove2.me/theorems/38b05a3a-50ce-4bd6-9dc2-6fcbd29f7c59

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_quadratic_exists_integral_generator_common_denominator
 -- name    : GlobalTheory.quadratic_exists_integral_generator_common_denominator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:15:01.878492+00:00
 -- url     : https://prove2.me/theorems/f185304a-9c40-42dd-8477-15a76f2baa28

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_riemannThetaTerm_eq_cexp_jointForm
 -- name    : GlobalTheory.riemannThetaTerm_eq_cexp_jointForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:16:25.639245+00:00
 -- url     : https://prove2.me/theorems/322a84a0-bf4d-4641-88be-efed006b1e64

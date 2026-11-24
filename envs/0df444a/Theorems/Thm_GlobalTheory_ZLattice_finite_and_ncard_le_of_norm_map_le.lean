@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZLattice_finite_and_ncard_le_of_norm_map_le
 -- name    : GlobalTheory.ZLattice_finite_and_ncard_le_of_norm_map_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:02:09.354216+00:00
 -- url     : https://prove2.me/theorems/69dd6aef-aa3c-4e54-8b7d-1202539f40ed

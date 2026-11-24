@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_triangularFrame_moves_period_blockTriangular
 -- name    : GlobalTheory.T.triangularFrame_moves_period_blockTriangular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:01:33.878334+00:00
 -- url     : https://prove2.me/theorems/0222628f-36fa-45f0-9cbf-9ec8c0e7f10a

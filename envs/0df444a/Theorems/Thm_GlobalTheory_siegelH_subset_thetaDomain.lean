@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_siegelH_subset_thetaDomain
 -- name    : GlobalTheory.siegelH_subset_thetaDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:20:53.740459+00:00
 -- url     : https://prove2.me/theorems/7c5bc937-a400-40e7-8389-3266ac5ec009

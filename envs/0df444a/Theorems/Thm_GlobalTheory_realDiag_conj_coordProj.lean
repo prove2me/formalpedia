@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_realDiag_conj_coordProj
 -- name    : GlobalTheory.realDiag_conj_coordProj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:16:20.771879+00:00
 -- url     : https://prove2.me/theorems/1234014e-e448-41be-858d-36010f3c1952

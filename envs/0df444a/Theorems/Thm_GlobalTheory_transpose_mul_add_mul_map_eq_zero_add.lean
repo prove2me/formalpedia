@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_transpose_mul_add_mul_map_eq_zero_add
 -- name    : GlobalTheory.transpose_mul_add_mul_map_eq_zero_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:23:32.792279+00:00
 -- url     : https://prove2.me/theorems/02f107f4-1cae-4eee-8003-d00a2871fbed

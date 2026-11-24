@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_wittVector_coeff_add_pow_mul
 -- name    : GlobalTheory.wittVector_coeff_add_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:24:40.444534+00:00
 -- url     : https://prove2.me/theorems/7973bf4c-0d34-42b4-b441-2b932f50812e

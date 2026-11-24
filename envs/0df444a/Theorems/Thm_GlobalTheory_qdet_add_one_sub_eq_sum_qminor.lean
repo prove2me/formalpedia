@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_qdet_add_one_sub_eq_sum_qminor
 -- name    : GlobalTheory.qdet_add_one_sub_eq_sum_qminor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:15:16.936365+00:00
 -- url     : https://prove2.me/theorems/8e4a3245-bc11-4bb4-9979-958f894ce6de

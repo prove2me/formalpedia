@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_resLE_appTop_topIso_inv
 -- name    : GlobalTheory.resLE_appTop_topIso_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:16:08.622123+00:00
 -- url     : https://prove2.me/theorems/216031ee-c778-47b5-96b1-7d55335fdcef

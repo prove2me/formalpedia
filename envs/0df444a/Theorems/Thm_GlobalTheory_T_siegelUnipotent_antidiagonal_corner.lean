@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_siegelUnipotent_antidiagonal_corner
 -- name    : GlobalTheory.T.siegelUnipotent_antidiagonal_corner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:11:59.130635+00:00
 -- url     : https://prove2.me/theorems/51b94fc5-ebe9-4a8f-be43-a1170f079fa0

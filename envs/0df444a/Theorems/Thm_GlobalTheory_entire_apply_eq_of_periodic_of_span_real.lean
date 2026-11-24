@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_entire_apply_eq_of_periodic_of_span_real
 -- name    : GlobalTheory.entire_apply_eq_of_periodic_of_span_real
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:56:29.717571+00:00
 -- url     : https://prove2.me/theorems/683f41ef-0ff9-4def-a942-f3666db74490

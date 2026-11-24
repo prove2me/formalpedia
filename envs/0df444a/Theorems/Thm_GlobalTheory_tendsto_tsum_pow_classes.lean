@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tendsto_tsum_pow_classes
 -- name    : GlobalTheory.tendsto_tsum_pow_classes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:24:03.43927+00:00
 -- url     : https://prove2.me/theorems/7e2a847d-f37e-4f27-bc9e-5a0637071c96

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ringHom_eq_of_perfect_of_dvd_sub_adicSeparated
 -- name    : GlobalTheory.T.ringHom_eq_of_perfect_of_dvd_sub_adicSeparated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:56:26.699502+00:00
 -- url     : https://prove2.me/theorems/3939341c-665c-49f7-bfdc-7f42d9dc985b

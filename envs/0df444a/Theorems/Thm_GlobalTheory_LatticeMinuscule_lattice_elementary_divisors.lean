@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeMinuscule_lattice_elementary_divisors
 -- name    : GlobalTheory.LatticeMinuscule.lattice_elementary_divisors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:00:38.520333+00:00
 -- url     : https://prove2.me/theorems/3edbea91-8080-4b17-ae3b-0c4bf6d237cc

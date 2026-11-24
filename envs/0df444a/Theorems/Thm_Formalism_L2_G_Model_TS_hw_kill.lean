@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_hw_kill
 -- name    : Formalism.L2.G.Model.TS.hw_kill
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:16.022823+00:00
 -- url     : https://prove2.me/theorems/c0c18aea-198a-418a-a8a8-3bca38368862

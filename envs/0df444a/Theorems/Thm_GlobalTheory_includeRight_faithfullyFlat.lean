@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_includeRight_faithfullyFlat
 -- name    : GlobalTheory.includeRight_faithfullyFlat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:54:48.204598+00:00
 -- url     : https://prove2.me/theorems/c28ca8ab-1aef-44ad-b242-7577db5505e5

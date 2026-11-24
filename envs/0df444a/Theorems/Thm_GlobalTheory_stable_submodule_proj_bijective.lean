@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_stable_submodule_proj_bijective
 -- name    : GlobalTheory.stable_submodule_proj_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:21:53.961401+00:00
 -- url     : https://prove2.me/theorems/9333ee47-42d9-4216-a757-75497dd9ea53

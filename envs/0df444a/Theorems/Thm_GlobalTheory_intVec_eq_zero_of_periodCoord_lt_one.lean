@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_intVec_eq_zero_of_periodCoord_lt_one
 -- name    : GlobalTheory.intVec_eq_zero_of_periodCoord_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:14:12.966851+00:00
 -- url     : https://prove2.me/theorems/651686ed-17a9-450c-98b7-f6cb3cad5aea

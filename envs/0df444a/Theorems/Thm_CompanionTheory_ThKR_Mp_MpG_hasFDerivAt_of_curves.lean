@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_Mp_MpG_hasFDerivAt_of_curves
 -- name    : CompanionTheory.ThKR.Mp.MpG.hasFDerivAt_of_curves
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:26:20.593126+00:00
 -- url     : https://prove2.me/theorems/0ecc1183-ab0f-4b05-9d4b-a9c90405ced8

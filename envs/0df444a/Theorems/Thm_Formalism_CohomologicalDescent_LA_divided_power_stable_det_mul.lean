@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_divided_power_stable_det_mul
 -- name    : Formalism.CohomologicalDescent.LA.divided_power_stable_det_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:58:41.025284+00:00
 -- url     : https://prove2.me/theorems/ad0f4e82-f6e6-45f6-9da8-6ed6266b2022

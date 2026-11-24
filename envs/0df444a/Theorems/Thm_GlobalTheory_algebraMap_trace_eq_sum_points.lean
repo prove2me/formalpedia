@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_algebraMap_trace_eq_sum_points
 -- name    : GlobalTheory.algebraMap_trace_eq_sum_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:05:52.042944+00:00
 -- url     : https://prove2.me/theorems/e8e13214-5b4a-4767-89f3-0dfebe8389b8

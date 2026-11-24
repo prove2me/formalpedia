@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_localizationMulSemiringAction_smulDistribClass
 -- name    : GlobalTheory.localizationMulSemiringAction_smulDistribClass
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:08:22.112027+00:00
 -- url     : https://prove2.me/theorems/fce53f03-defe-4c8f-9891-a0245bc20ac1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_padic_isometry
 -- name    : GlobalTheory.exists_padic_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:19:15.366169+00:00
 -- url     : https://prove2.me/theorems/e674b748-e987-49dd-84c2-607643e77e41

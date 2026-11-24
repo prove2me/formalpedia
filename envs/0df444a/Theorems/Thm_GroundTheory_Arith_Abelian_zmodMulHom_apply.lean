@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_zmodMulHom_apply
 -- name    : GroundTheory.Arith.Abelian.zmodMulHom_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:28:41.211079+00:00
 -- url     : https://prove2.me/theorems/e346e0ab-7455-4352-993a-14b705d7c9e6

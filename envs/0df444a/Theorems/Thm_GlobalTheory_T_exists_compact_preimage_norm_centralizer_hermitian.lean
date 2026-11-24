@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_compact_preimage_norm_centralizer_hermitian
 -- name    : GlobalTheory.T.exists_compact_preimage_norm_centralizer_hermitian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:34:30.050274+00:00
 -- url     : https://prove2.me/theorems/bfee9620-ab7a-4f06-bfae-b087f3eac1e7

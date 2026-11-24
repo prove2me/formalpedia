@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_transport_selfDualHaarMeasureKernel_addEquiv
 -- name    : GlobalTheory.T.transport_selfDualHaarMeasureKernel_addEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:59:59.511175+00:00
 -- url     : https://prove2.me/theorems/6d30fbc2-882e-467c-93da-e9ca9bb28392

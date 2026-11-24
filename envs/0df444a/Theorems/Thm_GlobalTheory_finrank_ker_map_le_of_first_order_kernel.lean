@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finrank_ker_map_le_of_first_order_kernel
 -- name    : GlobalTheory.finrank_ker_map_le_of_first_order_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:50:48.216339+00:00
 -- url     : https://prove2.me/theorems/1224d29f-6b3c-4752-84af-679298c3237b

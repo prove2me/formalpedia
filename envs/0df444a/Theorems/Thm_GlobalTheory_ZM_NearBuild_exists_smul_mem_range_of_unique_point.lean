@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_NearBuild_exists_smul_mem_range_of_unique_point
 -- name    : GlobalTheory.ZM.NearBuild.exists_smul_mem_range_of_unique_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:03:10.053705+00:00
 -- url     : https://prove2.me/theorems/217b0554-ceaa-4c29-9666-0476ab38c386

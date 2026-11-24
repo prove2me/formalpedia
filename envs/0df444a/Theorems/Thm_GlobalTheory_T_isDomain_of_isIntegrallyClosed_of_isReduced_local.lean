@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isDomain_of_isIntegrallyClosed_of_isReduced_local
 -- name    : GlobalTheory.T.isDomain_of_isIntegrallyClosed_of_isReduced_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:48:08.342797+00:00
 -- url     : https://prove2.me/theorems/170330fa-1e35-470a-970a-7d47cc94b0d0

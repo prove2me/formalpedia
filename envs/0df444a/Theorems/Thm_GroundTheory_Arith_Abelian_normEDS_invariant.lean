@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_normEDS_invariant
 -- name    : GroundTheory.Arith.Abelian.normEDS_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:25:23.512857+00:00
 -- url     : https://prove2.me/theorems/5fe75978-e4a4-4c28-aa53-579279ba7746

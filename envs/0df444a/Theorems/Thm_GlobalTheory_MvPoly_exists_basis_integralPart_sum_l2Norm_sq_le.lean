@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MvPoly_exists_basis_integralPart_sum_l2Norm_sq_le
 -- name    : GlobalTheory.MvPoly.exists_basis_integralPart_sum_l2Norm_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:29:17.627802+00:00
 -- url     : https://prove2.me/theorems/f56ff9e8-e155-494c-ac02-7981615e539b

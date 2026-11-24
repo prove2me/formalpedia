@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_points_eq_image_hypersurface
 -- name    : GlobalTheory.points_eq_image_hypersurface
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:13:45.441811+00:00
 -- url     : https://prove2.me/theorems/7f149946-a85e-4794-8c92-35bac01cb439

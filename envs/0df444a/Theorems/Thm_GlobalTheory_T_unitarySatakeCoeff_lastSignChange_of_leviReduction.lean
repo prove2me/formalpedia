@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitarySatakeCoeff_lastSignChange_of_leviReduction
 -- name    : GlobalTheory.T.unitarySatakeCoeff_lastSignChange_of_leviReduction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:50:17.523403+00:00
 -- url     : https://prove2.me/theorems/68e0079d-fa9e-4f6e-a0e5-a7fddc68918e

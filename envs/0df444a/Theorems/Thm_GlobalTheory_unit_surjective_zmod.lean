@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_unit_surjective_zmod
 -- name    : GlobalTheory.unit_surjective_zmod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:24:38.638905+00:00
 -- url     : https://prove2.me/theorems/5d92c776-8511-4d88-9f8a-10d2454a7f5e

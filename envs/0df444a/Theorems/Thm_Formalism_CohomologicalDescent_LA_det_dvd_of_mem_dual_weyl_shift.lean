@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_det_dvd_of_mem_dual_weyl_shift
 -- name    : Formalism.CohomologicalDescent.LA.det_dvd_of_mem_dual_weyl_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:58:48.02247+00:00
 -- url     : https://prove2.me/theorems/ce1f9086-93fa-442e-b042-f4ae811a9db9

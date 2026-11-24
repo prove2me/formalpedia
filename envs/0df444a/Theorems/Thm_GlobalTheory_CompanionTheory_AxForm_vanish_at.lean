@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AxForm_vanish_at
 -- name    : GlobalTheory.CompanionTheory.AxForm.vanish_at
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:23:19.974316+00:00
 -- url     : https://prove2.me/theorems/5673ee2e-8189-421d-93f3-1511564e1b1a

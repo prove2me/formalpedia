@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_twelve_dvd_sigma
 -- name    : GlobalTheory.twelve_dvd_sigma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:23:45.627806+00:00
 -- url     : https://prove2.me/theorems/84cb208b-cc89-46d8-8922-37480f117094

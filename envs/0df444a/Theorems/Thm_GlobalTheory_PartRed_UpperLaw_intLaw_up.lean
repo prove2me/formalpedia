@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartRed_UpperLaw_intLaw_up
 -- name    : GlobalTheory.PartRed.UpperLaw.intLaw_up
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:53:42.469654+00:00
 -- url     : https://prove2.me/theorems/877b5e6c-182f-4e4e-afbe-b3449f7ce829

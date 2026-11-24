@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_simple_tensor_product_operatorStable_countable
 -- name    : GlobalTheory.T.simple_tensor_product_operatorStable_countable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:57:34.946071+00:00
 -- url     : https://prove2.me/theorems/318e6644-2c4c-42af-a127-684083c7c582

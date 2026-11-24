@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_quasiIso_tensorLeft_of_flat
 -- name    : GlobalTheory.quasiIso_tensorLeft_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:15:05.21981+00:00
 -- url     : https://prove2.me/theorems/571c46c0-53da-4858-b9f0-eecad6d526a3

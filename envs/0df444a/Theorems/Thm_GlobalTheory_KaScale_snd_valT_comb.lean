@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KaScale_snd_valT_comb
 -- name    : GlobalTheory.KaScale.snd_valT_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:44:16.383569+00:00
 -- url     : https://prove2.me/theorems/0bd3694d-f2aa-40c7-93ee-bd09e085b105

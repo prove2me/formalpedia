@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_quadratic_preimage_compact_on_subspace
 -- name    : GlobalTheory.quadratic_preimage_compact_on_subspace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:15:08.795801+00:00
 -- url     : https://prove2.me/theorems/06915bf3-7393-4c31-9185-a36c48556dcf

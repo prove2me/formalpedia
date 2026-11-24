@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_norm_apply_neg_mul_sub_sub_le_mul
 -- name    : GlobalTheory.T.norm_apply_neg_mul_sub_sub_le_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:54:50.191785+00:00
 -- url     : https://prove2.me/theorems/5071a792-d1aa-4e72-8b4b-047c89be4a63

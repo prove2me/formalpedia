@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isReduced_of_nonZeroDivisor_mem_jacobson_of_assocPrimes
 -- name    : GlobalTheory.T.isReduced_of_nonZeroDivisor_mem_jacobson_of_assocPrimes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:49:35.395273+00:00
 -- url     : https://prove2.me/theorems/cb7a80d4-9444-4f58-be19-ff0602eddde4

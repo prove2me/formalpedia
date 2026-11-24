@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_rank_inf_restrictScalars
 -- name    : GlobalTheory.rank_inf_restrictScalars
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:15:08.825337+00:00
 -- url     : https://prove2.me/theorems/ba33bb18-fd37-46ef-b6a7-58ef9e031226

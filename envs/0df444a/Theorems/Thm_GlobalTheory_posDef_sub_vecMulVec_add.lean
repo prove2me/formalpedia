@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_posDef_sub_vecMulVec_add
 -- name    : GlobalTheory.posDef_sub_vecMulVec_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:14:14.734074+00:00
 -- url     : https://prove2.me/theorems/824b8ba9-a22c-480a-9dec-742ca7766300

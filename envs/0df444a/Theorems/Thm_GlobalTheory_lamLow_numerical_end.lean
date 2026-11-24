@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lamLow_numerical_end
 -- name    : GlobalTheory.lamLow_numerical_end
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:26:54.891936+00:00
 -- url     : https://prove2.me/theorems/4d0ef370-ae26-4762-a198-bfe790710a6f

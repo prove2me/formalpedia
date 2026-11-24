@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_kmax_le
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.kmax_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:44:45.095877+00:00
 -- url     : https://prove2.me/theorems/21b776ed-1e2c-4353-a6ae-66ed864d6de2

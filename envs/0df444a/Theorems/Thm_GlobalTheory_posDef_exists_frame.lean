@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_posDef_exists_frame
 -- name    : GlobalTheory.posDef_exists_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:14:01.562543+00:00
 -- url     : https://prove2.me/theorems/b63c9cc9-450f-4810-a83e-ee6f311437fb

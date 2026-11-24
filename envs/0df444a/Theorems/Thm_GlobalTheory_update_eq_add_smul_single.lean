@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_update_eq_add_smul_single
 -- name    : GlobalTheory.update_eq_add_smul_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:24:52.802693+00:00
 -- url     : https://prove2.me/theorems/9961c047-d06b-431b-bed9-ffa549cc0f62

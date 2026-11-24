@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_volume_ball_complex
 -- name    : GlobalTheory.volume_ball_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:24:34.903389+00:00
 -- url     : https://prove2.me/theorems/b8857b9a-40a9-44ab-9a2b-747e7fa4d315

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_orderOf_transvectionUnit
 -- name    : GlobalTheory.orderOf_transvectionUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:12:58.669268+00:00
 -- url     : https://prove2.me/theorems/4892a5b2-4c18-49f5-bc6b-ed9f765e13c4

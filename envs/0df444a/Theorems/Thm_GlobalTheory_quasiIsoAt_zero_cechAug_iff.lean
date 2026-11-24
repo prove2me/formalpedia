@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_quasiIsoAt_zero_cechAug_iff
 -- name    : GlobalTheory.quasiIsoAt_zero_cechAug_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:15:24.592585+00:00
 -- url     : https://prove2.me/theorems/7779fbc0-d81d-479f-b77b-fa3b01cc0620

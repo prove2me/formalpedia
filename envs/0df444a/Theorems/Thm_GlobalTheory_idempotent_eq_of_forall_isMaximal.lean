@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_idempotent_eq_of_forall_isMaximal
 -- name    : GlobalTheory.idempotent_eq_of_forall_isMaximal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:26:55.692946+00:00
 -- url     : https://prove2.me/theorems/d30c6b82-9b91-4397-b666-9e587d453881

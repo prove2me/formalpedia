@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_norm_sq_toLp_two_eq_integral_norm_sq
 -- name    : GlobalTheory.norm_sq_toLp_two_eq_integral_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:13:02.856268+00:00
 -- url     : https://prove2.me/theorems/657c1992-6932-4a90-9022-53e2d607cd54

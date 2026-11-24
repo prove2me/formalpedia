@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sl2_nonneg_weight_of_highest_weight_vector
 -- name    : GlobalTheory.sl2_nonneg_weight_of_highest_weight_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:20:51.170699+00:00
 -- url     : https://prove2.me/theorems/7086422c-b515-45b6-967b-10b09d760e86

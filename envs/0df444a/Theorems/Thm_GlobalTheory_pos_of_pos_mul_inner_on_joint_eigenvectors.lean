@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_pos_of_pos_mul_inner_on_joint_eigenvectors
 -- name    : GlobalTheory.pos_of_pos_mul_inner_on_joint_eigenvectors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:13:44.78599+00:00
 -- url     : https://prove2.me/theorems/e286a393-4ced-4b8c-a63c-8dc255e2dffc

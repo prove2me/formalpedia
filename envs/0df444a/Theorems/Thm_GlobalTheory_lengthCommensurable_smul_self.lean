@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lengthCommensurable_smul_self
 -- name    : GlobalTheory.lengthCommensurable_smul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:06:29.115796+00:00
 -- url     : https://prove2.me/theorems/29511160-bcf0-4460-abb0-dae245146678

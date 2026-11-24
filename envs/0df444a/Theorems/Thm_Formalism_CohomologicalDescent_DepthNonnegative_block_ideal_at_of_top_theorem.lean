@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_DepthNonnegative_block_ideal_at_of_top_theorem
 -- name    : Formalism.CohomologicalDescent.DepthNonnegative.block_ideal_at_of_top_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:10:52.412807+00:00
 -- url     : https://prove2.me/theorems/c482da01-9a19-4ea0-9333-64f20abadb6e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_eq_algebraMap_of_forall_ringHom_eq
 -- name    : GlobalTheory.exists_eq_algebraMap_of_forall_ringHom_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:31:44.485817+00:00
 -- url     : https://prove2.me/theorems/3dcadfff-4895-4f23-91a4-e5c1de58b747

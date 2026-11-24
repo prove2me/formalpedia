@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GordanGenProof_zero_mem_gcone
 -- name    : GordanGenProof.zero_mem_gcone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:25:52.139277+00:00
 -- url     : https://prove2.me/theorems/2d657940-c713-431b-b5bc-f1e58a9ff9e6

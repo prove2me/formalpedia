@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_seminorm_formPerpVector_le
 -- name    : GlobalTheory.seminorm_formPerpVector_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:17:03.168598+00:00
 -- url     : https://prove2.me/theorems/42ebb801-ac7f-4c53-93d7-3ac50893a9dd

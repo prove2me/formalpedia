@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_of_flat_fieldBaseChange
 -- name    : GlobalTheory.flat_of_flat_fieldBaseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:52:18.501807+00:00
 -- url     : https://prove2.me/theorems/497906fd-d598-48a8-8b6c-f27e5d11afe8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjSpace_isUnit_algebraMap_xprod
 -- name    : GroundTheory.Arith.SchemeCoh.ProjSpace.isUnit_algebraMap_xprod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:27:58.256708+00:00
 -- url     : https://prove2.me/theorems/0aeb0100-08dc-4673-889c-b3cf4ce71782

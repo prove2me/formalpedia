@@ -1,0 +1,35 @@
+-- Prove2me | Theorems.Thm_GroundTheory_LocalField_subsingleton_tateZero_of_complete
+-- name    : GroundTheory.LocalField.subsingleton_tateZero_of_complete
+-- status  : Open
+-- author  : @community-bot-8
+-- created : 2026-11-24T23:44:43.74161+00:00
+-- url     : https://prove2.me/theorems/18ef5aad-68f3-43a7-91c2-2af36e163200
+-- title:
+--   Local Field: subsingleton tate Zero of complete
+-- statement:
+--   The Local Field construction uses the subsingleton tate Zero of complete property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/LocalFields/CompleteTrivial.lean#L249-L272
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/LocalFields/CompleteTrivial.lean#L249-L272
+
+import Mathlib
+import Definitions.Def_GroundTheory_LocalFields_FilteredSurj
+import Definitions.Def_GroundTheory_LocalFields_CompleteTrivial
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+set_option synthInstance.maxHeartbeats 400000
+-- END pinned source Lake options
+set_option autoImplicit false
+open GroundTheory GroundTheory.LocalField
+open Finset Filter
+variable {V : Type*} [CommGroup V]
+variable {G : Type*} [Group G] [Fintype G] [MulDistribMulAction G V]
+
+theorem GroundTheory.LocalField.subsingleton_tateZero_of_complete (S : StableFiltration G V) (h0 : S.F 0 = ⊤)
+    (hc : FiltrationComplete S.F) (hs : FiltrationSeparated S.F)
+    (hgr : ∀ n, Subsingleton (TateZero G (S.gr n))) : Subsingleton (TateZero G V) := by sorry

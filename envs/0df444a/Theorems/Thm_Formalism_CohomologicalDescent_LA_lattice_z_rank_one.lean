@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_lattice_z_rank_one
 -- name    : Formalism.CohomologicalDescent.LA.lattice_z_rank_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:50:36.831014+00:00
 -- url     : https://prove2.me/theorems/b6261b6c-2d6c-452e-8267-31149bbc722f

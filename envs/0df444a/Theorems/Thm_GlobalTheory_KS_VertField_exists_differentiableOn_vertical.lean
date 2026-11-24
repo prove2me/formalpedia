@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_VertField_exists_differentiableOn_vertical
 -- name    : GlobalTheory.KS.VertField.exists_differentiableOn_vertical
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:47:04.634166+00:00
 -- url     : https://prove2.me/theorems/a2e3574c-9410-4158-b40d-31f0bb4f8d77

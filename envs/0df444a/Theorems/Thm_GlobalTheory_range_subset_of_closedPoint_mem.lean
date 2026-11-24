@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_range_subset_of_closedPoint_mem
 -- name    : GlobalTheory.range_subset_of_closedPoint_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:14:41.837024+00:00
 -- url     : https://prove2.me/theorems/071081a6-2cba-4f47-ba5c-097d444daa30

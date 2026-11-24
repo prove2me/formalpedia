@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_unitary_tensor_places_positions
 -- name    : GlobalTheory.unitary_tensor_places_positions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:24:19.089807+00:00
 -- url     : https://prove2.me/theorems/5e849c7f-dcd9-486c-afbd-9008ef07d49c

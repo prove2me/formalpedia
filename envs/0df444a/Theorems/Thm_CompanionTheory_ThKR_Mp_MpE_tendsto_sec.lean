@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_Mp_MpE_tendsto_sec
 -- name    : CompanionTheory.ThKR.Mp.MpE.tendsto_sec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:19:35.852705+00:00
 -- url     : https://prove2.me/theorems/fb96e268-ee85-4949-9d4f-9c6dc46a2b8f

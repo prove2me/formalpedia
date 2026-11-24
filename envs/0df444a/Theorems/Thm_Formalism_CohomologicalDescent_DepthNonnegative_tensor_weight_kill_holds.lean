@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_DepthNonnegative_tensor_weight_kill_holds
 -- name    : Formalism.CohomologicalDescent.DepthNonnegative.tensor_weight_kill_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:09:13.612018+00:00
 -- url     : https://prove2.me/theorems/42b282d7-29da-455e-b777-a3797ecc1abf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowSpan_fisch_mul_X
 -- name    : GlobalTheory.RowSpan.fisch_mul_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:35:00.478773+00:00
 -- url     : https://prove2.me/theorems/b8350d50-d846-4295-920a-fe498460d26a

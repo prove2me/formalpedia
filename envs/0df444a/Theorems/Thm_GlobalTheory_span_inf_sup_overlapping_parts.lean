@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_span_inf_sup_overlapping_parts
 -- name    : GlobalTheory.span_inf_sup_overlapping_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:21:43.186548+00:00
 -- url     : https://prove2.me/theorems/09f5bbd8-c16b-4b75-8f5a-5e15de831c1a

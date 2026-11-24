@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_formPerpVector_mem_subring
 -- name    : GlobalTheory.formPerpVector_mem_subring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:51:52.803901+00:00
 -- url     : https://prove2.me/theorems/73de4046-58dc-49f6-89f4-b76470482a82

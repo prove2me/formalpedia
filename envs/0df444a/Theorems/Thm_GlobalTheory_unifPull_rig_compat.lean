@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_unifPull_rig_compat
 -- name    : GlobalTheory.unifPull_rig_compat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:25:00.067241+00:00
 -- url     : https://prove2.me/theorems/3ed4a102-99ed-4c37-a5b0-42c2f3cdf21d

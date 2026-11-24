@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_symm_pairing_eq_one_of_odd_of_diag
 -- name    : GlobalTheory.symm_pairing_eq_one_of_odd_of_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:22:57.45209+00:00
 -- url     : https://prove2.me/theorems/fe05eaca-1d17-453a-978a-d3f98f8c1f73

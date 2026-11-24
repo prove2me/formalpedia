@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_fourier_expansion_holomorphic_tube
 -- name    : GlobalTheory.T.exists_fourier_expansion_holomorphic_tube
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:35:29.726852+00:00
 -- url     : https://prove2.me/theorems/17d1877f-efb8-4d45-a098-a94691807e03

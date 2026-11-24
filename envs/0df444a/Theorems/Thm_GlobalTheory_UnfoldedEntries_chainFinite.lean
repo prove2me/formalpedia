@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnfoldedEntries_chainFinite
 -- name    : GlobalTheory.UnfoldedEntries.chainFinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:38:42.597124+00:00
 -- url     : https://prove2.me/theorems/d5e526c9-0730-45af-a0c0-1f6515aae9f7

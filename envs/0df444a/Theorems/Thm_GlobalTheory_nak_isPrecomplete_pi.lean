@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_nak_isPrecomplete_pi
 -- name    : GlobalTheory.nak_isPrecomplete_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:12:11.533913+00:00
 -- url     : https://prove2.me/theorems/5af4d735-b61e-4a73-a8db-bade95ab3a5b

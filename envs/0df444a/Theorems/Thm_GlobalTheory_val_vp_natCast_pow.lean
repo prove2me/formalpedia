@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_val_vp_natCast_pow
 -- name    : GlobalTheory.val_vp_natCast_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:24:52.346924+00:00
 -- url     : https://prove2.me/theorems/cb378793-2e0c-456a-8177-1eb97f943a45

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_ParabValues_trans_unique
 -- name    : GlobalTheory.Phase.ParabValues.trans_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:43:33.602351+00:00
 -- url     : https://prove2.me/theorems/21fcb7c0-aa28-4ec5-aaa5-0d377ba98c46

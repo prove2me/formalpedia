@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_span_range_algebraMap_eq_top_of_tame
 -- name    : GlobalTheory.span_range_algebraMap_eq_top_of_tame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:21:56.020242+00:00
 -- url     : https://prove2.me/theorems/732a4b53-a514-4883-9ca3-da662e9bc07b

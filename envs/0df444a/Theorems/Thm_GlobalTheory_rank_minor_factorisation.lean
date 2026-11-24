@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_rank_minor_factorisation
 -- name    : GlobalTheory.rank_minor_factorisation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:15:31.950366+00:00
 -- url     : https://prove2.me/theorems/ffab458b-ed83-446b-9018-369a36ecf440

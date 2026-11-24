@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_weylTensorCoefSpace_le_span_pure_tensors
 -- name    : GlobalTheory.T.weylTensorCoefSpace_le_span_pure_tensors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:21:50.810985+00:00
 -- url     : https://prove2.me/theorems/b27e9986-571c-43df-b1d1-63383c36753b

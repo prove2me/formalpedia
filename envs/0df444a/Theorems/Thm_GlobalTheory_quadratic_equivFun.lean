@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_quadratic_equivFun
 -- name    : GlobalTheory.quadratic_equivFun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:15:10.907791+00:00
 -- url     : https://prove2.me/theorems/0ca4dbaa-5efc-48f7-a768-f0ee5809a7d5

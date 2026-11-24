@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HenselianRing_of_isIntegral
 -- name    : HenselianRing.of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-24T23:07:01.781297+00:00
 -- url     : https://prove2.me/theorems/22ae7468-8d2c-4266-bce9-1917162516d2

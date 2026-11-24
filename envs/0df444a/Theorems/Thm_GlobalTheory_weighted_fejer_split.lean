@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_weighted_fejer_split
 -- name    : GlobalTheory.weighted_fejer_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:24:38.187742+00:00
 -- url     : https://prove2.me/theorems/a8d0d69c-adf5-42aa-95a7-e213691c5e76

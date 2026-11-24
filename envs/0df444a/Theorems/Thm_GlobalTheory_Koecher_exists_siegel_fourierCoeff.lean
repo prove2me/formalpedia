@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Koecher_exists_siegel_fourierCoeff
 -- name    : GlobalTheory.Koecher.exists_siegel_fourierCoeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:49:09.817535+00:00
 -- url     : https://prove2.me/theorems/c6abcf6f-0d2d-4670-b045-9b4965d92302

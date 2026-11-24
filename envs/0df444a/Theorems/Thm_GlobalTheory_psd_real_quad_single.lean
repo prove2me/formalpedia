@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_psd_real_quad_single
 -- name    : GlobalTheory.psd_real_quad_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:15:26.202859+00:00
 -- url     : https://prove2.me/theorems/054b5b96-24e6-477a-92ec-b3a61f7afd90

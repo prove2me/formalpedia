@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_finset_separated_of_multiset_bounded_cluster
 -- name    : GlobalTheory.T.exists_finset_separated_of_multiset_bounded_cluster
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:35:40.325129+00:00
 -- url     : https://prove2.me/theorems/eed75590-c29a-4cdf-bbf8-70ed03e7ec8a

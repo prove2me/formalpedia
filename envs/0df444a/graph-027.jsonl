@@ -72244,7 +72244,7 @@
 {"parent": "OAI.CubicEisenstein.cubicSourceResidualFunction_wirtingerBar", "child": "OAI_NumberTheory_DirichletL_Eisenstein_SourceBesselExpansion", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.cubicSourceResidualFunction_wirtingerBar", "child": "OAI_NumberTheory_DirichletL_Eisenstein_InverseCuspCoordinates", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.cubicSourceResidualFunction_wirtingerBar", "child": "OAI_NumberTheory_DirichletL_Eisenstein_ReflectedCuspMellin", "via": ["solution", "statement"]}
-{"parent": "DetSpectralSparsify.Dense.lemma_7", "child": "DetSpectralSparsify_Dense_Multigraph", "via": ["statement"]}
+{"parent": "DetSpectralSparsify.Dense.lemma_7", "child": "DetSpectralSparsify_Dense_Multigraph", "via": ["solution", "statement"]}
 {"parent": "RWCuckoo.Threshold.lemma_6_5", "child": "RWCuckoo_Threshold_LoadThreshold", "via": ["statement"]}
 {"parent": "RWCuckoo.Threshold.lemma_6_5", "child": "RWCuckoo_Threshold_FrozenWalk", "via": ["statement"]}
 {"parent": "RWCuckoo.Threshold.lemma_6_5", "child": "RWCuckoo_Threshold_Insertion", "via": ["statement"]}

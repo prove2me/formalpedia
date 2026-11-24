@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_poly_eval_eq_eval_zero_of_eq_inv
 -- name    : GlobalTheory.poly_eval_eq_eval_zero_of_eq_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:13:52.246057+00:00
 -- url     : https://prove2.me/theorems/4b66bf8b-a32b-4c57-bd85-1b1b9cae0c5c

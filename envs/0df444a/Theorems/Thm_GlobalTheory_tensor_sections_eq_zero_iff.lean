@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tensor_sections_eq_zero_iff
 -- name    : GlobalTheory.tensor_sections_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:17:48.961795+00:00
 -- url     : https://prove2.me/theorems/8b390990-b1e0-44a3-ba69-7fe22c303da8

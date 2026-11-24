@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_flat_surjective_of_openCover
 -- name    : GlobalTheory.finite_flat_surjective_of_openCover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:46:04.641822+00:00
 -- url     : https://prove2.me/theorems/446cdc4e-05fb-44e8-92c2-e01336a3ebc3

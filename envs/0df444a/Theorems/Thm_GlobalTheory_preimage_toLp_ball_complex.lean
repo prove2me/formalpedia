@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_preimage_toLp_ball_complex
 -- name    : GlobalTheory.preimage_toLp_ball_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:14:39.313405+00:00
 -- url     : https://prove2.me/theorems/ed9d2241-8fcf-4d85-a1fb-70c5c3604f9e

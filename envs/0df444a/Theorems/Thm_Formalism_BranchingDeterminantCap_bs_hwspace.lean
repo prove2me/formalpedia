@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bs_hwspace
 -- name    : Formalism.BranchingDeterminantCap.bs_hwspace
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:26:17.010101+00:00
 -- url     : https://prove2.me/theorems/a734c020-2192-4379-ae72-583aef412033

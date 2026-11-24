@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_nonempty_algHom_of_smooth_of_isSepClosed
 -- name    : GlobalTheory.nonempty_algHom_of_smooth_of_isSepClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:12:09.792527+00:00
 -- url     : https://prove2.me/theorems/7da07298-b9df-4e37-aa82-69dec15c3894

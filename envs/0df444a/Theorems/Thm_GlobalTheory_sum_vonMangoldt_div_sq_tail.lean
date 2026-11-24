@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_vonMangoldt_div_sq_tail
 -- name    : GlobalTheory.sum_vonMangoldt_div_sq_tail
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:22:47.098842+00:00
 -- url     : https://prove2.me/theorems/c31aac9b-fd03-4b35-9be4-d100f099a394

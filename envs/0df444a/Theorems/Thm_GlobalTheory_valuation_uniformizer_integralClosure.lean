@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_valuation_uniformizer_integralClosure
 -- name    : GlobalTheory.valuation_uniformizer_integralClosure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:25:00.331142+00:00
 -- url     : https://prove2.me/theorems/67b94812-4cb2-4a79-975e-c3c5e9f2d148

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_short_basis_of_ratSpan
 -- name    : GlobalTheory.exists_short_basis_of_ratSpan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:42:36.786474+00:00
 -- url     : https://prove2.me/theorems/41127242-26a6-4856-a214-12a6c4a4fe94

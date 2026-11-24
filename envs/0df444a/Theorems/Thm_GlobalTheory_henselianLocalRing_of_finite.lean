@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_henselianLocalRing_of_finite
 -- name    : GlobalTheory.henselianLocalRing_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:16:58.934273+00:00
 -- url     : https://prove2.me/theorems/f42228d4-1f80-4f12-9aa9-67eededbc1e4

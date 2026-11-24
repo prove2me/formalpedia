@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcAvoid_exists_injective_of_height_le_one
 -- name    : GlobalTheory.ArcAvoid.exists_injective_of_height_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:58:29.950051+00:00
 -- url     : https://prove2.me/theorems/0b377b34-33c5-46ba-9500-d86eb727c735

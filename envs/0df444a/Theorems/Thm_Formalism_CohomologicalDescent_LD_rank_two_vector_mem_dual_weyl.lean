@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_rank_two_vector_mem_dual_weyl
 -- name    : Formalism.CohomologicalDescent.LD.rank_two_vector_mem_dual_weyl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:42:27.313212+00:00
 -- url     : https://prove2.me/theorems/391c7a77-13e2-45ca-afdf-1aac92106185

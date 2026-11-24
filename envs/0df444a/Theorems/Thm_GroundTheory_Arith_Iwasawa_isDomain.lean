@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Iwasawa_isDomain
 -- name    : GroundTheory.Arith.Iwasawa.isDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:26:28.454422+00:00
 -- url     : https://prove2.me/theorems/491c9219-dc05-4bec-8dc1-bca0e72d32d3

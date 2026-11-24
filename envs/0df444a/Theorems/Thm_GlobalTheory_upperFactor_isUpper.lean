@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_upperFactor_isUpper
 -- name    : GlobalTheory.upperFactor_isUpper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:24:32.158972+00:00
 -- url     : https://prove2.me/theorems/1d446e7b-8e36-4c68-922c-3f25b5e0af36

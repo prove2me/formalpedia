@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_norm_word_le_number_pow
 -- name    : GlobalTheory.norm_word_le_number_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:12:50.454067+00:00
 -- url     : https://prove2.me/theorems/6eff1424-408d-42cc-9cb0-7fc3aa504f40

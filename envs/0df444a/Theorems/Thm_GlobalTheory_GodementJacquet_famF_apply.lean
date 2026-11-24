@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GodementJacquet_famF_apply
 -- name    : GlobalTheory.GodementJacquet.famF_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:29:44.487814+00:00
 -- url     : https://prove2.me/theorems/4319c6ab-22f3-4551-b32b-d9964ff92d7a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_witt_gaussNorm_mul
 -- name    : GlobalTheory.witt_gaussNorm_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:25:37.66368+00:00
 -- url     : https://prove2.me/theorems/a9cdc1d3-b6a3-4ef8-886d-5f90cf7a6e57

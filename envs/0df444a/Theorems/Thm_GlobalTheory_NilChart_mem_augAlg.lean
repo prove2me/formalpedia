@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NilChart_mem_augAlg
 -- name    : GlobalTheory.NilChart.mem_augAlg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:26:20.732229+00:00
 -- url     : https://prove2.me/theorems/82ccd907-b7a8-46bd-b135-80a0ffbfb237

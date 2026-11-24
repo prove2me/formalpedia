@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_vonMangoldt_div_nat_bounds
 -- name    : GlobalTheory.sum_vonMangoldt_div_nat_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:22:32.998835+00:00
 -- url     : https://prove2.me/theorems/0cbc5a22-a0e6-428d-8b1b-e01560094256

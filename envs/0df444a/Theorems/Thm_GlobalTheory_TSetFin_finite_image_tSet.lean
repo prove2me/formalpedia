@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TSetFin_finite_image_tSet
 -- name    : GlobalTheory.TSetFin.finite_image_tSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:02:28.854671+00:00
 -- url     : https://prove2.me/theorems/7664ddb9-ecf2-4c90-8128-642ef77a565e

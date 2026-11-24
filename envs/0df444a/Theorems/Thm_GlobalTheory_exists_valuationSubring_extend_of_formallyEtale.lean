@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_valuationSubring_extend_of_formallyEtale
 -- name    : GlobalTheory.exists_valuationSubring_extend_of_formallyEtale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:45:41.430398+00:00
 -- url     : https://prove2.me/theorems/9c9b4b2d-3fb6-4beb-ab44-26563a9acdce

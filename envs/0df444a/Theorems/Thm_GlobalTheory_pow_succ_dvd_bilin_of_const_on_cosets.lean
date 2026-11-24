@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_pow_succ_dvd_bilin_of_const_on_cosets
 -- name    : GlobalTheory.pow_succ_dvd_bilin_of_const_on_cosets
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:14:07.099804+00:00
 -- url     : https://prove2.me/theorems/1260acb0-0b99-448e-a665-a52c17ec4998

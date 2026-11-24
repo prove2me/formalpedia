@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_trace_monic_over_mvPolynomial
 -- name    : GlobalTheory.trace_monic_over_mvPolynomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:23:48.600611+00:00
 -- url     : https://prove2.me/theorems/6e89d156-d243-43b5-a374-00194c00c84b

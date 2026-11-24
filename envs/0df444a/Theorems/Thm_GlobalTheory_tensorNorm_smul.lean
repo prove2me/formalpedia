@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tensorNorm_smul
 -- name    : GlobalTheory.tensorNorm_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:23:32.997066+00:00
 -- url     : https://prove2.me/theorems/a86c81da-ad1a-4664-b48d-76ab9a63fe3e

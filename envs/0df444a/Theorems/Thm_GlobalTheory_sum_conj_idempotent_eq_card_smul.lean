@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_conj_idempotent_eq_card_smul
 -- name    : GlobalTheory.sum_conj_idempotent_eq_card_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:22:55.346522+00:00
 -- url     : https://prove2.me/theorems/06dc4ee0-4d2f-4950-96e4-d633414cdb0d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PosOne_exchange_eq_comb
 -- name    : GlobalTheory.PosOne.exchange_eq_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:21:32.583853+00:00
 -- url     : https://prove2.me/theorems/107b6cd7-2cf4-4ab6-bfc8-b133331e52ae

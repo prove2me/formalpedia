@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_unramExt
 -- name    : GlobalTheory.unramExt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:24:42.312797+00:00
 -- url     : https://prove2.me/theorems/bb517802-c283-4bdd-82b1-d58b66253ecb

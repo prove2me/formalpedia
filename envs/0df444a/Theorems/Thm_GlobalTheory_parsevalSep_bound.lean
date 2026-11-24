@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_parsevalSep_bound
 -- name    : GlobalTheory.parsevalSep_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:13:14.030407+00:00
 -- url     : https://prove2.me/theorems/f22258d9-3866-4777-9923-2674e2951634

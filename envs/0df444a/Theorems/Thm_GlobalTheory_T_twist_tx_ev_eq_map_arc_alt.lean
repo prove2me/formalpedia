@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_twist_tx_ev_eq_map_arc_alt
 -- name    : GlobalTheory.T.twist_tx_ev_eq_map_arc_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:00:43.398278+00:00
 -- url     : https://prove2.me/theorems/6f4e3fe5-1274-4b40-a964-6aa67b11850c

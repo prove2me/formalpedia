@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_isIso_morphismRestrict_of_le
 -- name    : GroundTheory.Arith.SchemeCoh.isIso_morphismRestrict_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:27:47.4807+00:00
 -- url     : https://prove2.me/theorems/bdf419c4-9ef0-4b02-a4c6-1152777f791a

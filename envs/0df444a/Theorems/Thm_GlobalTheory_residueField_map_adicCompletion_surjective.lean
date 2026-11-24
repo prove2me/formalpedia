@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_residueField_map_adicCompletion_surjective
 -- name    : GlobalTheory.residueField_map_adicCompletion_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:16:08.732662+00:00
 -- url     : https://prove2.me/theorems/f2305a43-81c8-44e2-a0ff-93c3ff8a1191

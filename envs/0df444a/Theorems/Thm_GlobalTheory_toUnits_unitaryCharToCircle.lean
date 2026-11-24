@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_toUnits_unitaryCharToCircle
 -- name    : GlobalTheory.toUnits_unitaryCharToCircle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:23:39.599305+00:00
 -- url     : https://prove2.me/theorems/f91ad221-6085-4783-9976-32a7f9873b4d

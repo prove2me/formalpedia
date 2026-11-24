@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_smoothOfRelativeDimension_genericFibre_of_affine
 -- name    : GlobalTheory.smoothOfRelativeDimension_genericFibre_of_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:20:48.228647+00:00
 -- url     : https://prove2.me/theorems/abfaaed1-6878-4fb1-9f50-68223585cf89

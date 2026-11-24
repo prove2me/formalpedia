@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finiteDimensional_span_multilinear_values
 -- name    : GlobalTheory.finiteDimensional_span_multilinear_values
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:26:45.343596+00:00
 -- url     : https://prove2.me/theorems/638c2c63-0e76-4fa7-8318-ecd6cc774c60

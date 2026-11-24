@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowSpan_eq_zero_of_fisch_self
 -- name    : GlobalTheory.RowSpan.eq_zero_of_fisch_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:32:27.36436+00:00
 -- url     : https://prove2.me/theorems/6711987b-c4ee-4ff0-8395-8a978e8e449c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_summable_norm_coset_out
 -- name    : GlobalTheory.summable_norm_coset_out
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:22:42.197722+00:00
 -- url     : https://prove2.me/theorems/bbcf5ddd-1031-46a9-8c8e-c6e3a3aa7d69

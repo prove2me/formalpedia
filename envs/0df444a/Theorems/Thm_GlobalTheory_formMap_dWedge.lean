@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_formMap_dWedge
 -- name    : GlobalTheory.formMap_dWedge
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:47:53.314432+00:00
 -- url     : https://prove2.me/theorems/59cb1254-fa2a-415e-87d7-519eae3f301b

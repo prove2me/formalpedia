@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_valuationRing_exists_associated_of_sum_eq_zero
 -- name    : GlobalTheory.valuationRing_exists_associated_of_sum_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:24:58.929785+00:00
 -- url     : https://prove2.me/theorems/8b7abb72-14ab-4f42-89cd-806c0897df98

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_piTensorDistribMulAction_smul_tprod
 -- name    : GlobalTheory.piTensorDistribMulAction_smul_tprod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:13:34.001354+00:00
 -- url     : https://prove2.me/theorems/822c2a99-f8f9-475e-a376-cb40eecd0b6c

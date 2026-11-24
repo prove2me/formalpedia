@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_ld_M_stable
 -- name    : Formalism.CohomologicalDescent.LD.ld_M_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:41:26.129288+00:00
 -- url     : https://prove2.me/theorems/32507da7-f525-47f1-8c04-3cb8c8da993a

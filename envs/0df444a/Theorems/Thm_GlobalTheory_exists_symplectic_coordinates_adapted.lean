@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_symplectic_coordinates_adapted
 -- name    : GlobalTheory.exists_symplectic_coordinates_adapted
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:42:35.514019+00:00
 -- url     : https://prove2.me/theorems/31339a9a-8e8f-4d9b-82a3-5e675346677d

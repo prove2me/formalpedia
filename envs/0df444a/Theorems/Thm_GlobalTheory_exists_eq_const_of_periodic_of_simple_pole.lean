@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_eq_const_of_periodic_of_simple_pole
 -- name    : GlobalTheory.exists_eq_const_of_periodic_of_simple_pole
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:31:32.645032+00:00
 -- url     : https://prove2.me/theorems/d2639377-398c-45ba-b487-b058bcbd8acb

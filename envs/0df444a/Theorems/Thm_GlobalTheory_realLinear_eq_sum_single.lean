@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_realLinear_eq_sum_single
 -- name    : GlobalTheory.realLinear_eq_sum_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:16:15.427906+00:00
 -- url     : https://prove2.me/theorems/f432ecd5-c4fc-4ec4-a296-8ef4ce533224

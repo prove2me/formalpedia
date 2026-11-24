@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_integral_generator_common_denom_of_isQuadratic
 -- name    : GlobalTheory.T.exists_integral_generator_common_denom_of_isQuadratic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:35:20.436325+00:00
 -- url     : https://prove2.me/theorems/e927a092-2619-4e71-beb1-a68a8973b12f

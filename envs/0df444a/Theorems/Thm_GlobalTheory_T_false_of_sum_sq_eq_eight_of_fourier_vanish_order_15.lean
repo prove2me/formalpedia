@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_false_of_sum_sq_eq_eight_of_fourier_vanish_order_15
 -- name    : GlobalTheory.T.false_of_sum_sq_eq_eight_of_fourier_vanish_order_15
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:39:44.628368+00:00
 -- url     : https://prove2.me/theorems/06a98d8f-15fb-4838-b74a-d5476fdc8de0

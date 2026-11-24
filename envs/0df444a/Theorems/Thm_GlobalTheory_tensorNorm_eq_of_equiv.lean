@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tensorNorm_eq_of_equiv
 -- name    : GlobalTheory.tensorNorm_eq_of_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:54:32.52384+00:00
 -- url     : https://prove2.me/theorems/a261cbb3-6905-4cd4-b77d-f6a0fb7351be

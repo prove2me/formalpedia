@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GoodCharacterTail_tail_le
 -- name    : GlobalTheory.GoodCharacterTail.tail_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:05:42.03597+00:00
 -- url     : https://prove2.me/theorems/e3720c95-9b12-421a-9306-e05866a0a47b

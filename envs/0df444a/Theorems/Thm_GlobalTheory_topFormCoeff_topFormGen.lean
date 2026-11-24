@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_topFormCoeff_topFormGen
 -- name    : GlobalTheory.topFormCoeff_topFormGen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:46:47.952453+00:00
 -- url     : https://prove2.me/theorems/491be3d3-b315-468a-91be-019297d69ef2

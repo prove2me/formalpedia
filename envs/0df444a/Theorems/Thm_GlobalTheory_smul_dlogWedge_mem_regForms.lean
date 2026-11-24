@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_smul_dlogWedge_mem_regForms
 -- name    : GlobalTheory.smul_dlogWedge_mem_regForms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:20:48.970106+00:00
 -- url     : https://prove2.me/theorems/d72509fd-ce56-48ad-80e4-806d41efc6d6

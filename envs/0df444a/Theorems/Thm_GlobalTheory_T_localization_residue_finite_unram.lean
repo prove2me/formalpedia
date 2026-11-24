@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_localization_residue_finite_unram
 -- name    : GlobalTheory.T.localization_residue_finite_unram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:52:53.792835+00:00
 -- url     : https://prove2.me/theorems/e28f3afb-f21d-4e50-9be3-c3a5eac7f3a8

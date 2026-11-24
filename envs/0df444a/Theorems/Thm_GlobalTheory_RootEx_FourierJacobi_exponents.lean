@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_FourierJacobi_exponents
 -- name    : GlobalTheory.RootEx.FourierJacobi.exponents
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:40:34.039173+00:00
 -- url     : https://prove2.me/theorems/d319eaba-1b39-4ea7-bf60-d689a81f5f03

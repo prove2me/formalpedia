@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_normalization_basicOpen_cover
 -- name    : GlobalTheory.normalization_basicOpen_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:12:47.295453+00:00
 -- url     : https://prove2.me/theorems/0b7b6afe-9d9b-4e80-82b2-34df3b92e3b2

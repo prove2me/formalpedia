@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cochain_base_change_equivalences
 -- name    : GlobalTheory.T.cochain_base_change_equivalences
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:43:42.201048+00:00
 -- url     : https://prove2.me/theorems/42e840f5-dd70-4329-a83a-1e49fd4040fa

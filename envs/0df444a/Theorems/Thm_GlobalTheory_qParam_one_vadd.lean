@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_qParam_one_vadd
 -- name    : GlobalTheory.qParam_one_vadd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:15:01.14965+00:00
 -- url     : https://prove2.me/theorems/7f18178e-d09d-4371-9770-1ed200fb7661

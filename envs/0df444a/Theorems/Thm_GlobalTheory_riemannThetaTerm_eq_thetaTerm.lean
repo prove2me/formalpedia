@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_riemannThetaTerm_eq_thetaTerm
 -- name    : GlobalTheory.riemannThetaTerm_eq_thetaTerm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:16:12.209001+00:00
 -- url     : https://prove2.me/theorems/d484ab0c-9d4a-47c0-aedb-6b660f0a520d

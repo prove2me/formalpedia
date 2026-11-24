@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ratCircleChar_pairQuadraticForm_mk
 -- name    : GlobalTheory.ratCircleChar_pairQuadraticForm_mk
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:52:29.786801+00:00
 -- url     : https://prove2.me/theorems/91f9ed6b-b496-4d23-a3dd-4bceed70c0ba

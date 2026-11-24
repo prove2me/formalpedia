@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_deriv_mem_and_contDiff_of_translation_stable
 -- name    : GlobalTheory.T.deriv_mem_and_contDiff_of_translation_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:32:11.798103+00:00
 -- url     : https://prove2.me/theorems/7a9ab4c1-ee68-4092-94e0-e2f4c75508a6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_teichmuller_distinguished_regular
 -- name    : GlobalTheory.teichmuller_distinguished_regular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:22:31.737964+00:00
 -- url     : https://prove2.me/theorems/15a54c43-1080-4389-9f56-a0097c7aa389

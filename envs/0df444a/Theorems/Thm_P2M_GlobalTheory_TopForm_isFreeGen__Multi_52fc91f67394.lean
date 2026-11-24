@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_TopForm_isFreeGen__Multi_52fc91f67394
 -- name    : P2M_GlobalTheory_TopForm_isFreeGen__Multi_52fc91f67394
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:02:09.148663+00:00
 -- url     : https://prove2.me/theorems/ac86507d-bf85-49b7-bd50-03862b17d022

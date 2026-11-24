@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_Mp_ddNe
 -- name    : CompanionTheory.ThKR.Mp.ddNe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:16:53.902401+00:00
 -- url     : https://prove2.me/theorems/b7553a5e-d2e0-4776-a658-3b6dfcfe32c4

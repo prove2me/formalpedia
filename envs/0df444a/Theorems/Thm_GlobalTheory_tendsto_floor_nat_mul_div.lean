@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tendsto_floor_nat_mul_div
 -- name    : GlobalTheory.tendsto_floor_nat_mul_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:22:34.961061+00:00
 -- url     : https://prove2.me/theorems/cc12d626-ffb3-4806-b4c9-af70bfd2016e

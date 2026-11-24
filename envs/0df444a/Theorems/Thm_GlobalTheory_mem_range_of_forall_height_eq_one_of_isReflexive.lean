@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_range_of_forall_height_eq_one_of_isReflexive
 -- name    : GlobalTheory.mem_range_of_forall_height_eq_one_of_isReflexive
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:52:31.589835+00:00
 -- url     : https://prove2.me/theorems/38bf5f62-9f95-43ea-bcd7-14b29420ae32

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_coeff_idealHilbertPoly_minimalPrimes_le
 -- name    : GlobalTheory.sum_coeff_idealHilbertPoly_minimalPrimes_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:23:10.732951+00:00
 -- url     : https://prove2.me/theorems/c2c8874f-2371-42f8-b9cd-233ded8620a0

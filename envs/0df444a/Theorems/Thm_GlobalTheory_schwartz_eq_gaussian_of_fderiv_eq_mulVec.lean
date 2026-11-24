@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_schwartz_eq_gaussian_of_fderiv_eq_mulVec
 -- name    : GlobalTheory.schwartz_eq_gaussian_of_fderiv_eq_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:20:31.227243+00:00
 -- url     : https://prove2.me/theorems/dd988d4a-4d3d-46ab-975d-c4e9d609e1e6

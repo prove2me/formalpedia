@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tensorBasisCoords
 -- name    : GlobalTheory.tensorBasisCoords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:24:00.82586+00:00
 -- url     : https://prove2.me/theorems/d69930cd-9b8d-40d1-a9f1-6dd817955561

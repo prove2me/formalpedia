@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiffVanish_sub_form_diag
 -- name    : GlobalTheory.DiffVanish.sub_form_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:49:29.302236+00:00
 -- url     : https://prove2.me/theorems/03b340df-ff79-483d-81ff-f5bde94a9cfd

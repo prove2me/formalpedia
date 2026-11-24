@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cm_type_period_valuation_bound
 -- name    : GlobalTheory.T.cm_type_period_valuation_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:30:44.525015+00:00
 -- url     : https://prove2.me/theorems/d835ac0d-0796-446b-94f3-72b04a48bd92

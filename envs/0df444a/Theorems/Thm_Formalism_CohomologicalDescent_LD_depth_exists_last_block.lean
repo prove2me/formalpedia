@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_depth_exists_last_block
 -- name    : Formalism.CohomologicalDescent.LD.depth_exists_last_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:52:57.416563+00:00
 -- url     : https://prove2.me/theorems/1853a6ca-159c-4ecd-9966-5234149b0da9

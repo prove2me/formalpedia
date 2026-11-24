@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WhitCollapse_collapse
 -- name    : GlobalTheory.WhitCollapse.collapse
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:55:38.033797+00:00
 -- url     : https://prove2.me/theorems/eb076722-fb80-4224-a4c1-4267f6176bee

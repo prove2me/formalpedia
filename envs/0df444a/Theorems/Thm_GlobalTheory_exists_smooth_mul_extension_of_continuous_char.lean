@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_smooth_mul_extension_of_continuous_char
 -- name    : GlobalTheory.exists_smooth_mul_extension_of_continuous_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:42:19.352394+00:00
 -- url     : https://prove2.me/theorems/660930ee-5c36-4051-9a52-c9a692de2409

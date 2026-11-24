@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tendsto_realEisenstein_sub_pole
 -- name    : GlobalTheory.tendsto_realEisenstein_sub_pole
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:23:59.945422+00:00
 -- url     : https://prove2.me/theorems/82ffa568-1acd-4722-ad11-8b77da0f0dc0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_liftsToDetOne_of_det_eq_one
 -- name    : GlobalTheory.liftsToDetOne_of_det_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:15:39.191936+00:00
 -- url     : https://prove2.me/theorems/ee39bc6c-f997-42a2-9e15-71fc32eae780

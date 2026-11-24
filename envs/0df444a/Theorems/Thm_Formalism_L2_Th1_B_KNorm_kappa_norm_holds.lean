@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_KNorm_kappa_norm_holds
 -- name    : Formalism.L2.Th1.B.KNorm.kappa_norm_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:28:55.345594+00:00
 -- url     : https://prove2.me/theorems/b416b4ea-58e1-4f87-b902-ac7670771462

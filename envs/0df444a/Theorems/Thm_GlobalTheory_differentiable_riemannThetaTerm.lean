@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_differentiable_riemannThetaTerm
 -- name    : GlobalTheory.differentiable_riemannThetaTerm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:15:50.899056+00:00
 -- url     : https://prove2.me/theorems/1418819e-89b4-44cb-a280-556915a51d24

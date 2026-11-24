@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_Mp_MpA_eps_ne
 -- name    : CompanionTheory.ThKR.Mp.MpA.eps_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:21:04.37707+00:00
 -- url     : https://prove2.me/theorems/030e9ea2-24a9-400e-b6f8-433c34723cba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlancherelZero_isTest_fourB
 -- name    : GlobalTheory.PlancherelZero.isTest_fourB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:37:56.691856+00:00
 -- url     : https://prove2.me/theorems/1a30e79f-f5ee-4d38-96e7-1dd9c01d8f6b

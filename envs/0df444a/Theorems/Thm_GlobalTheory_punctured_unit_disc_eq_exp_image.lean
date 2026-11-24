@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_punctured_unit_disc_eq_exp_image
 -- name    : GlobalTheory.punctured_unit_disc_eq_exp_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:15:27.121132+00:00
 -- url     : https://prove2.me/theorems/95511e2c-c2b5-42b1-b8de-d09b95b8e841

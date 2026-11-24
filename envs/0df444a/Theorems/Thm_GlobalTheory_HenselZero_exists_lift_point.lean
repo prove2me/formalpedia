@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HenselZero_exists_lift_point
 -- name    : GlobalTheory.HenselZero.exists_lift_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:01:01.63465+00:00
 -- url     : https://prove2.me/theorems/fe9a9d2e-3946-442a-a8b8-ac94e405f2a9

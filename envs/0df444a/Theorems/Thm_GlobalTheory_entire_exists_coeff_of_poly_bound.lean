@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_entire_exists_coeff_of_poly_bound
 -- name    : GlobalTheory.entire_exists_coeff_of_poly_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:17:21.600197+00:00
 -- url     : https://prove2.me/theorems/2ee32250-ec4f-45e3-aaad-45d329d103a8

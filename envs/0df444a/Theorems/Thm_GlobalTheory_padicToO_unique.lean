@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_padicToO_unique
 -- name    : GlobalTheory.padicToO_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:13:38.744555+00:00
 -- url     : https://prove2.me/theorems/0fe841df-750d-438c-8b79-072bf559ff84

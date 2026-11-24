@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_FourierTest_trace_algMap
 -- name    : GlobalTheory.JR.WeilQuad.FourierTest.trace_algMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:39:37.006402+00:00
 -- url     : https://prove2.me/theorems/7c68fc12-c822-426d-9f27-19524a344520

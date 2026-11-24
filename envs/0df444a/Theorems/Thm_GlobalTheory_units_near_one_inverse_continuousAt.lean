@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_units_near_one_inverse_continuousAt
 -- name    : GlobalTheory.units_near_one_inverse_continuousAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:24:28.778679+00:00
 -- url     : https://prove2.me/theorems/62af7c68-b2bd-4a3a-9f45-542f0ad32c9c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_prod_eq_sum_of_factorwise_expansion
 -- name    : GlobalTheory.prod_eq_sum_of_factorwise_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:15:35.918022+00:00
 -- url     : https://prove2.me/theorems/162ffda6-cfae-41c6-93c9-27f92e5bcbb9

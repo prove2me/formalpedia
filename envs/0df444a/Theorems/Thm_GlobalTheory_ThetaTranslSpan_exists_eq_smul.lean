@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaTranslSpan_exists_eq_smul
 -- name    : GlobalTheory.ThetaTranslSpan.exists_eq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:34:24.515286+00:00
 -- url     : https://prove2.me/theorems/f1174df9-852d-44a3-bc7f-3705b17b9875

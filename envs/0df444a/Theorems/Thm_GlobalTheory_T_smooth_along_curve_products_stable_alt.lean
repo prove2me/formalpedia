@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_smooth_along_curve_products_stable_alt
 -- name    : GlobalTheory.T.smooth_along_curve_products_stable_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:57:44.293219+00:00
 -- url     : https://prove2.me/theorems/89d46f74-8db1-4360-8299-c96a578d6e1b

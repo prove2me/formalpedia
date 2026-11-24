@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_LogLine_exists_ball_div
 -- name    : GlobalTheory.Published.LogLine.exists_ball_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:56:35.012004+00:00
 -- url     : https://prove2.me/theorems/f2c17332-f297-41a5-b4dd-2728542aaeaa

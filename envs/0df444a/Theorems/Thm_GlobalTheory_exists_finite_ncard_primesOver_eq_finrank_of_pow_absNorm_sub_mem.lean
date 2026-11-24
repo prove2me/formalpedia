@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_finite_ncard_primesOver_eq_finrank_of_pow_absNorm_sub_mem
 -- name    : GlobalTheory.exists_finite_ncard_primesOver_eq_finrank_of_pow_absNorm_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:31:44.260511+00:00
 -- url     : https://prove2.me/theorems/1c422354-ccdd-4d29-ab01-c64ddfca3e07

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_pmul_injective
 -- name    : GlobalTheory.pmul_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:14:08.204842+00:00
 -- url     : https://prove2.me/theorems/8d00d6ed-cabf-4e2b-b145-1e34bb769a47

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_posDef_exists_conjTranspose_mul_mul_eq_one
 -- name    : GlobalTheory.posDef_exists_conjTranspose_mul_mul_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:14:24.327366+00:00
 -- url     : https://prove2.me/theorems/b5dae342-9594-472d-9fe9-65768f227e24

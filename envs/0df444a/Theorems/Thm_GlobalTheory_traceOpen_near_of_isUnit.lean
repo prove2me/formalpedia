@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_traceOpen_near_of_isUnit
 -- name    : GlobalTheory.traceOpen_near_of_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:23:51.188044+00:00
 -- url     : https://prove2.me/theorems/4b7f6227-fc01-4238-b3b5-515dbaf97c42

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_norm_ratCast_eq_padicNorm
 -- name    : GlobalTheory.norm_ratCast_eq_padicNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:13:00.219744+00:00
 -- url     : https://prove2.me/theorems/562a6623-c45a-4f1a-b337-3bbc36fc2c02

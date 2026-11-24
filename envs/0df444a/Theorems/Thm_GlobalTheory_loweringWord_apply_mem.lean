@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_loweringWord_apply_mem
 -- name    : GlobalTheory.loweringWord_apply_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:10:06.589185+00:00
 -- url     : https://prove2.me/theorems/ac1788ae-9ff9-4a0c-9a34-5d20b34223fe

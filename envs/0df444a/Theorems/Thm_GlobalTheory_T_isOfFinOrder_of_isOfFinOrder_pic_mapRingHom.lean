@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isOfFinOrder_of_isOfFinOrder_pic_mapRingHom
 -- name    : GlobalTheory.T.isOfFinOrder_of_isOfFinOrder_pic_mapRingHom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:57:11.29386+00:00
 -- url     : https://prove2.me/theorems/8d88428f-eb59-40d5-8c2c-a6f93785001c

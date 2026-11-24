@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_etaleHermitianPair_structure_facts
 -- name    : GlobalTheory.T.etaleHermitianPair_structure_facts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:49:23.979059+00:00
 -- url     : https://prove2.me/theorems/8dc40cba-9f93-4d29-a32d-429a5bbfe12b

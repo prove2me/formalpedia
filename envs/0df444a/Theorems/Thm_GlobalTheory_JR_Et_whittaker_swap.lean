@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Et_whittaker_swap
 -- name    : GlobalTheory.JR.Et.whittaker_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:22:53.452796+00:00
 -- url     : https://prove2.me/theorems/474dd78b-cc77-4ab4-a314-5948b9c32017

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_SL2BinomialLattices_lattice_tensor
 -- name    : Formalism.CohomologicalDescent.SL2BinomialLattices.lattice_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:00:00.893734+00:00
 -- url     : https://prove2.me/theorems/0396c40a-9645-43a9-a035-1a1526854a53

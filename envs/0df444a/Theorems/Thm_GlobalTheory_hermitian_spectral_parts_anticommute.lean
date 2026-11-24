@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hermitian_spectral_parts_anticommute
 -- name    : GlobalTheory.hermitian_spectral_parts_anticommute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:55:19.276158+00:00
 -- url     : https://prove2.me/theorems/8bca68ce-2546-4667-b3df-43ef30c2f34c

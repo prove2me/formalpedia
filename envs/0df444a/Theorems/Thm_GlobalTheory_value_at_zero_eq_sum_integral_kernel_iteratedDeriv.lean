@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_value_at_zero_eq_sum_integral_kernel_iteratedDeriv
 -- name    : GlobalTheory.value_at_zero_eq_sum_integral_kernel_iteratedDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:24:52.532502+00:00
 -- url     : https://prove2.me/theorems/bfb18807-0c15-4a6e-b808-8b0acd6e92d7

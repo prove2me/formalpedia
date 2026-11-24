@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_lehw_kill
 -- name    : Formalism.GradedWeylDivisibility.lehw_kill
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:07:01.476908+00:00
 -- url     : https://prove2.me/theorems/7422d03f-920d-4fd5-b531-0ec4f2966da7

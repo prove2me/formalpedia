@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_polMod_mul_fg
 -- name    : GlobalTheory.polMod_mul_fg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:14:06.425064+00:00
 -- url     : https://prove2.me/theorems/7b27b6e4-db42-492a-b412-5226c6b9898f

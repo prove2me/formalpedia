@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_trdeg_le_of_ringEquiv_square
 -- name    : GlobalTheory.trdeg_le_of_ringEquiv_square
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:24:03.865178+00:00
 -- url     : https://prove2.me/theorems/9e89d6c8-00fd-429d-bfc1-54b7b5c684e7

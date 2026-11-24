@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_nsmul_aeval_mem_lattice_of_intMatrix_basis
 -- name    : GlobalTheory.nsmul_aeval_mem_lattice_of_intMatrix_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:12:40.52081+00:00
 -- url     : https://prove2.me/theorems/ae9a23eb-10bf-4af5-b3a3-144a2d111d28

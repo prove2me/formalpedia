@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_perpVector_mem
 -- name    : GlobalTheory.perpVector_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:14:23.596388+00:00
 -- url     : https://prove2.me/theorems/8853bd55-e2ed-4942-a84d-3a6f7868d115

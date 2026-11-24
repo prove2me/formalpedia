@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_jacobi_complementary_minor
 -- name    : Formalism.CohomologicalDescent.LD.jacobi_complementary_minor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:05:01.012664+00:00
 -- url     : https://prove2.me/theorems/55a6bc52-50c2-4fc6-b423-14efe0aab69d

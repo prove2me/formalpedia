@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_smul_eq_re_smul_of_nonneg
 -- name    : GlobalTheory.smul_eq_re_smul_of_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:20:44.097234+00:00
 -- url     : https://prove2.me/theorems/8ec99637-e4ad-4fee-ab12-a501a2782995

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_paramsBasic_holds
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.paramsBasic_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:45:14.45088+00:00
 -- url     : https://prove2.me/theorems/de7759d6-2335-4526-915c-79ee00686e4c

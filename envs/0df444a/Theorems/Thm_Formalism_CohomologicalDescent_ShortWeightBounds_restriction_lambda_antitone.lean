@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_ShortWeightBounds_restriction_lambda_antitone
 -- name    : Formalism.CohomologicalDescent.ShortWeightBounds.restriction_lambda_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:29:18.838106+00:00
 -- url     : https://prove2.me/theorems/c8c389df-055d-47c1-9fcb-25670765a412

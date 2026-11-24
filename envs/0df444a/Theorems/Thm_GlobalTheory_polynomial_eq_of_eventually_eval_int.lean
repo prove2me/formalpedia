@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_polynomial_eq_of_eventually_eval_int
 -- name    : GlobalTheory.polynomial_eq_of_eventually_eval_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:13:50.365357+00:00
 -- url     : https://prove2.me/theorems/6ef3f866-21a4-47cc-9145-631ab9637692

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_scale_integral
 -- name    : GlobalTheory.scale_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:22:33.4248+00:00
 -- url     : https://prove2.me/theorems/8ad09daa-c297-44df-9c8b-37c3d4230f60

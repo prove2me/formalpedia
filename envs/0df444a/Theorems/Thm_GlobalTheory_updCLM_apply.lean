@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_updCLM_apply
 -- name    : GlobalTheory.updCLM_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:24:42.339803+00:00
 -- url     : https://prove2.me/theorems/1212dd59-2419-4181-8ba0-f71d0e4feb0d

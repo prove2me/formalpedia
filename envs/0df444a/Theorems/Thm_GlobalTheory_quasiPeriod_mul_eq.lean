@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_quasiPeriod_mul_eq
 -- name    : GlobalTheory.quasiPeriod_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:14:49.49453+00:00
 -- url     : https://prove2.me/theorems/6d50c26f-5c38-4d19-905b-642581607fee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_splitting_absence_spreads
 -- name    : GlobalTheory.splitting_absence_spreads
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:21:51.795027+00:00
 -- url     : https://prove2.me/theorems/fb2976a1-0c77-4a88-b87c-24ba8742c863

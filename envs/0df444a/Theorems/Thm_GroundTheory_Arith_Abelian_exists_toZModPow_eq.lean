@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_exists_toZModPow_eq
 -- name    : GroundTheory.Arith.Abelian.exists_toZModPow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:29:56.081881+00:00
 -- url     : https://prove2.me/theorems/96b8669a-c946-4dd5-98d9-5a84f4605b38

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lagrangian_transverse_field
 -- name    : GlobalTheory.lagrangian_transverse_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:02:26.329811+00:00
 -- url     : https://prove2.me/theorems/b3a2fffa-4022-4819-8f4a-3738357bc198

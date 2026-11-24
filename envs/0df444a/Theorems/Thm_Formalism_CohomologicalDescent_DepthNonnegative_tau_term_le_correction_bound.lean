@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_DepthNonnegative_tau_term_le_correction_bound
 -- name    : Formalism.CohomologicalDescent.DepthNonnegative.tau_term_le_correction_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:09:58.102096+00:00
 -- url     : https://prove2.me/theorems/25bdfbf6-447b-44ef-8961-ae2d71e3eba1

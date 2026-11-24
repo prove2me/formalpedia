@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_valueGroup_divisible_of_isAlgClosed
 -- name    : GlobalTheory.valueGroup_divisible_of_isAlgClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:24:41.524348+00:00
 -- url     : https://prove2.me/theorems/f601bfca-6397-494d-8b36-342addf536fe

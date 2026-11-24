@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_log_gramDet_ratio_pos
 -- name    : GlobalTheory.sum_log_gramDet_ratio_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:22:36.57804+00:00
 -- url     : https://prove2.me/theorems/243080f0-715e-41dc-9e0c-312ba946d147

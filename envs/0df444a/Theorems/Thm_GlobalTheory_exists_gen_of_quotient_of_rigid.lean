@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_gen_of_quotient_of_rigid
 -- name    : GlobalTheory.exists_gen_of_quotient_of_rigid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:57:35.158446+00:00
 -- url     : https://prove2.me/theorems/9ae9410a-190e-44bf-90cf-73ff3991bace

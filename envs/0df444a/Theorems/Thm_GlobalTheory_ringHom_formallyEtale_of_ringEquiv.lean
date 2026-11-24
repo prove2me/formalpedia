@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ringHom_formallyEtale_of_ringEquiv
 -- name    : GlobalTheory.ringHom_formallyEtale_of_ringEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:18:38.588551+00:00
 -- url     : https://prove2.me/theorems/3203d113-322d-472a-81a8-2a024df218a6

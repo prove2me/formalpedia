@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_piFinset_fin_succ_cons
 -- name    : GlobalTheory.sum_piFinset_fin_succ_cons
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:23:01.789255+00:00
 -- url     : https://prove2.me/theorems/439bdbc0-52d5-4749-9283-93fe0f9449e4

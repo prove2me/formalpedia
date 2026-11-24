@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_signedLength_smul_self_of_addVal_eq
 -- name    : GlobalTheory.signedLength_smul_self_of_addVal_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:20:39.300411+00:00
 -- url     : https://prove2.me/theorems/1822ae6a-40e7-4e76-b3c3-74219ae9d675

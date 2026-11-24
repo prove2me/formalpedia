@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_summable_norm_multilinear_tuples
 -- name    : GlobalTheory.summable_norm_multilinear_tuples
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:22:59.669078+00:00
 -- url     : https://prove2.me/theorems/d700c2c0-58f2-4371-91ff-5563bccf1ab4

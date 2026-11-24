@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_normEDS_somos
 -- name    : GroundTheory.Arith.Abelian.normEDS_somos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:25:13.971618+00:00
 -- url     : https://prove2.me/theorems/11da9e20-632c-4f44-a87d-c7aba7a34725

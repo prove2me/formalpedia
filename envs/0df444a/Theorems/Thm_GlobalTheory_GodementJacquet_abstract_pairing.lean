@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GodementJacquet_abstract_pairing
 -- name    : GlobalTheory.GodementJacquet.abstract_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:29:54.184662+00:00
 -- url     : https://prove2.me/theorems/7b3690d9-b0e3-422c-8d02-67d84a2c494a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_finite_measure_cover_of_drift_function
 -- name    : GlobalTheory.exists_finite_measure_cover_of_drift_function
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:13:08.658221+00:00
 -- url     : https://prove2.me/theorems/16df423e-122f-4f93-8057-e72414cc80a5

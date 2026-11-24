@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ringKrullDim_finite_of_essFiniteType_int
 -- name    : GlobalTheory.T.ringKrullDim_finite_of_essFiniteType_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:56:33.767535+00:00
 -- url     : https://prove2.me/theorems/acb4e502-c9a6-40bb-b5e2-d3ebb39a7c76

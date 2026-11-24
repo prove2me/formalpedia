@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_selfDual_lattice_exists_norm_one_mod
 -- name    : GlobalTheory.selfDual_lattice_exists_norm_one_mod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:20:24.463952+00:00
 -- url     : https://prove2.me/theorems/b68914a0-22b8-49e1-882f-af1b60f11a1e

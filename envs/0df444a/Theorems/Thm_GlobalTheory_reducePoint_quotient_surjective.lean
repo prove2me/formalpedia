@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_reducePoint_quotient_surjective
 -- name    : GlobalTheory.reducePoint_quotient_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:41:57.246428+00:00
 -- url     : https://prove2.me/theorems/64921e5d-c9d1-4f3b-b629-16f9a44eaaf8

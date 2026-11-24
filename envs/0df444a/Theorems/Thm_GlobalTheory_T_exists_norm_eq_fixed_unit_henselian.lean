@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_norm_eq_fixed_unit_henselian
 -- name    : GlobalTheory.T.exists_norm_eq_fixed_unit_henselian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:37:35.230987+00:00
 -- url     : https://prove2.me/theorems/2caddf8c-4d4a-4731-be57-6c2ea5f6d469

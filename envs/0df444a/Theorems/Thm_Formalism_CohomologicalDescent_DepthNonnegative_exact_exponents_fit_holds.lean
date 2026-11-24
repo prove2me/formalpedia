@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_DepthNonnegative_exact_exponents_fit_holds
 -- name    : Formalism.CohomologicalDescent.DepthNonnegative.exact_exponents_fit_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:11:48.592619+00:00
 -- url     : https://prove2.me/theorems/e3c01ae9-f3b6-4010-aee4-633dbd6455a3

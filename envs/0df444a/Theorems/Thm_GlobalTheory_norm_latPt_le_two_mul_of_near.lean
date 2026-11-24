@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_norm_latPt_le_two_mul_of_near
 -- name    : GlobalTheory.norm_latPt_le_two_mul_of_near
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:12:55.066103+00:00
 -- url     : https://prove2.me/theorems/5fa7e018-a232-4d6c-9453-bf5b039d0c4e

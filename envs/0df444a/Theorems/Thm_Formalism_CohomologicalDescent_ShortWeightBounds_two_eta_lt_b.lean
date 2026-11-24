@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_ShortWeightBounds_two_eta_lt_b
 -- name    : Formalism.CohomologicalDescent.ShortWeightBounds.two_eta_lt_b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:28:17.107803+00:00
 -- url     : https://prove2.me/theorems/022bbc0e-0f75-4c85-8ce9-33c4c718c05c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_parsevalSep_identity
 -- name    : GlobalTheory.parsevalSep_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:13:26.337338+00:00
 -- url     : https://prove2.me/theorems/00ef5dca-422e-489e-bdc2-c6b5ba99ced0

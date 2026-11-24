@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartRed_intLaw_direct
 -- name    : GlobalTheory.PartRed.intLaw_direct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:12:21.8948+00:00
 -- url     : https://prove2.me/theorems/2b67b9e6-228a-4f9c-8b25-dbf7a576887b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_ShortWeightBounds_rank_pos_of_hyp
 -- name    : Formalism.CohomologicalDescent.ShortWeightBounds.rank_pos_of_hyp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:28:06.153536+00:00
 -- url     : https://prove2.me/theorems/1083a755-8f5a-4249-a569-c482132e2137

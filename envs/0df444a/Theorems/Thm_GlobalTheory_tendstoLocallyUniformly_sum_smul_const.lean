@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tendstoLocallyUniformly_sum_smul_const
 -- name    : GlobalTheory.tendstoLocallyUniformly_sum_smul_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:22:23.008525+00:00
 -- url     : https://prove2.me/theorems/7adc8c03-ceb5-46e4-aa30-6e57d4c678fb

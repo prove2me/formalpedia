@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_powerSum_second_main
 -- name    : GlobalTheory.powerSum_second_main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:14:16.044131+00:00
 -- url     : https://prove2.me/theorems/6d011ae6-da2e-4ad9-b4f1-c6033fc1d0dd

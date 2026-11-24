@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_smul_eq_zero_of_ringOfIntegers
 -- name    : GlobalTheory.smul_eq_zero_of_ringOfIntegers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:21:31.232806+00:00
 -- url     : https://prove2.me/theorems/a2e7a147-da26-4013-97ec-4b4c5fa73233

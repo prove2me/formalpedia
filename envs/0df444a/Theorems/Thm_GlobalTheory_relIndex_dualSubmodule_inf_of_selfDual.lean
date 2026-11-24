@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_relIndex_dualSubmodule_inf_of_selfDual
 -- name    : GlobalTheory.relIndex_dualSubmodule_inf_of_selfDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:16:24.364628+00:00
 -- url     : https://prove2.me/theorems/9de460a2-5673-44de-b23b-ee04774b4dbc

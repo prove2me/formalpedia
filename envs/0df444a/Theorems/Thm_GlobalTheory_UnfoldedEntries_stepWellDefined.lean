@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnfoldedEntries_stepWellDefined
 -- name    : GlobalTheory.UnfoldedEntries.stepWellDefined
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:38:28.339821+00:00
 -- url     : https://prove2.me/theorems/776f091c-b4ea-4cbe-96de-53f002fa7f9a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_preirreducibleSpace_primeSpectrum_tensor_localizationAway
 -- name    : GlobalTheory.preirreducibleSpace_primeSpectrum_tensor_localizationAway
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:15:12.535147+00:00
 -- url     : https://prove2.me/theorems/b45da1a9-b23d-4d03-b989-be3f4188bdc6

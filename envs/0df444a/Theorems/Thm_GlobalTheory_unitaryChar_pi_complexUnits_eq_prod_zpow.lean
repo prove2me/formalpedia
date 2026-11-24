@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_unitaryChar_pi_complexUnits_eq_prod_zpow
 -- name    : GlobalTheory.unitaryChar_pi_complexUnits_eq_prod_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:24:36.027933+00:00
 -- url     : https://prove2.me/theorems/bbb13c6e-8275-4759-b88e-dc739e30f7c4

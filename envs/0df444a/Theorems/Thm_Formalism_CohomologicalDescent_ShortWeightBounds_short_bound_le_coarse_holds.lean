@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_ShortWeightBounds_short_bound_le_coarse_holds
 -- name    : Formalism.CohomologicalDescent.ShortWeightBounds.short_bound_le_coarse_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:29:50.577977+00:00
 -- url     : https://prove2.me/theorems/72579374-468e-4dc5-ab8f-5f0e5a5b3841

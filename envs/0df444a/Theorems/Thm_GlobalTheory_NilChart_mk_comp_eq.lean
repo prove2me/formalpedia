@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NilChart_mk_comp_eq
 -- name    : GlobalTheory.NilChart.mk_comp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:26:31.468188+00:00
 -- url     : https://prove2.me/theorems/d001eb37-4a70-4e0a-bf7c-d0ae152a4dbe

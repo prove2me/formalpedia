@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Jacobian_spanFinrank_quotient_le
 -- name    : GroundTheory.Arith.Jacobian.spanFinrank_quotient_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:27:16.524566+00:00
 -- url     : https://prove2.me/theorems/1a4af072-a597-4ae7-ac55-41c384a69113

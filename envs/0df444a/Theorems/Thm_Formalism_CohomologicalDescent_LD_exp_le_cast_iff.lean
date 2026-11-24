@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_exp_le_cast_iff
 -- name    : Formalism.CohomologicalDescent.LD.exp_le_cast_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:06:06.844793+00:00
 -- url     : https://prove2.me/theorems/6d64f5f2-c1c0-4480-937d-a50379741fd1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_LocalizingAction_bijective_pow
 -- name    : GroundTheory.Arith.SchemeCoh.LocalizingAction.bijective_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:29:04.389928+00:00
 -- url     : https://prove2.me/theorems/01d78cbc-c7e6-4be5-9632-3bf8dfb41d9b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_algHom_sub_constantCoeff_mem
 -- name    : GlobalTheory.algHom_sub_constantCoeff_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:57:35.852583+00:00
 -- url     : https://prove2.me/theorems/a574e462-c7ec-476f-8de9-b1ea708460ab

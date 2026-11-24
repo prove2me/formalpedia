@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mvPolynomial_content_valuationRing
 -- name    : GlobalTheory.mvPolynomial_content_valuationRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:12:15.339723+00:00
 -- url     : https://prove2.me/theorems/65eed745-bb9d-4e1d-939b-b39d0eaf28fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tendsto_tsum_zero_of_eventually_notMem_range
 -- name    : GlobalTheory.tendsto_tsum_zero_of_eventually_notMem_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:23:52.724368+00:00
 -- url     : https://prove2.me/theorems/c95599cf-9517-4a1e-beec-1716f7fffb27

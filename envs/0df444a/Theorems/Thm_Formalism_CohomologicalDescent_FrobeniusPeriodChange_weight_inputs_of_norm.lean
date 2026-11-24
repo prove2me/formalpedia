@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_FrobeniusPeriodChange_weight_inputs_of_norm
 -- name    : Formalism.CohomologicalDescent.FrobeniusPeriodChange.weight_inputs_of_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:53:29.101504+00:00
 -- url     : https://prove2.me/theorems/b7b5673a-ac0b-4fc2-9eac-2acf07ac1a29

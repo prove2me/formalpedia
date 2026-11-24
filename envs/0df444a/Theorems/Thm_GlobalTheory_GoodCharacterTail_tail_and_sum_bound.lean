@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GoodCharacterTail_tail_and_sum_bound
 -- name    : GlobalTheory.GoodCharacterTail.tail_and_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:06:04.969585+00:00
 -- url     : https://prove2.me/theorems/09263a1d-a131-43ba-9235-6c5bbc6c5633

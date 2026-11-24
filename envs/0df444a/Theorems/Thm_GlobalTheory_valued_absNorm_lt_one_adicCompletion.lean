@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_valued_absNorm_lt_one_adicCompletion
 -- name    : GlobalTheory.valued_absNorm_lt_one_adicCompletion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:24:47.152162+00:00
 -- url     : https://prove2.me/theorems/25cd7906-52d3-4a87-846b-66a570cdd204

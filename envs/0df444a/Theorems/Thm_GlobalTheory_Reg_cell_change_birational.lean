@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_cell_change_birational
 -- name    : GlobalTheory.Reg.cell_change_birational
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:20:33.322801+00:00
 -- url     : https://prove2.me/theorems/15225bd4-e1d9-4d25-acd6-e513ade0bb8b

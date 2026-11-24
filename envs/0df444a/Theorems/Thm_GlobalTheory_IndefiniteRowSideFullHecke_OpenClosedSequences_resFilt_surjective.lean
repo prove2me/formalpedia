@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_OpenClosedSequences_resFilt_surjective
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.OpenClosedSequences.resFilt_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:23:33.193907+00:00
 -- url     : https://prove2.me/theorems/df7a9a59-fb5b-428c-a11a-5c30d09efdd8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_Icc_three_quarters_pow_le
 -- name    : GlobalTheory.sum_Icc_three_quarters_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:23:00.573881+00:00
 -- url     : https://prove2.me/theorems/98aab236-d69f-4b92-b04a-4294353b2315

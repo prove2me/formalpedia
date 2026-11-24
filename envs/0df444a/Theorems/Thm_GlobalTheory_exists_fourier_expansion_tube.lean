@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_fourier_expansion_tube
 -- name    : GlobalTheory.exists_fourier_expansion_tube
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:32:39.121995+00:00
 -- url     : https://prove2.me/theorems/3c4ed509-613a-49d0-a23e-d7480eb63e49

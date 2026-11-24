@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_eq_zero_of_factorsThrough_characters
 -- name    : GlobalTheory.sum_eq_zero_of_factorsThrough_characters
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:22:56.016381+00:00
 -- url     : https://prove2.me/theorems/b36eddb4-63c7-426b-9311-6d41c8780e51

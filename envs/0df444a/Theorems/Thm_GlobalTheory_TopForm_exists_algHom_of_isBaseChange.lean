@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TopForm_exists_algHom_of_isBaseChange
 -- name    : GlobalTheory.TopForm.exists_algHom_of_isBaseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:09:16.335832+00:00
 -- url     : https://prove2.me/theorems/3adaaa3f-5db6-4abc-adbf-e18763c0b0bb

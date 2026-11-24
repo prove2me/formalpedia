@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_sharp_rank_two_one_column
 -- name    : Formalism.CohomologicalDescent.LA.sharp_rank_two_one_column
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:49:51.008316+00:00
 -- url     : https://prove2.me/theorems/89c29910-3d6c-4a90-978e-2ea700692173

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_nabValN_eq_sum_coeff
 -- name    : GlobalTheory.nabValN_eq_sum_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:21:36.054552+00:00
 -- url     : https://prove2.me/theorems/9cad98c2-d72a-48e0-8fb0-bb30b0e7981b

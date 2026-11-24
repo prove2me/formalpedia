@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_not_forall_exists_two_liesOver_absNorm_eq
 -- name    : GlobalTheory.not_forall_exists_two_liesOver_absNorm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:12:59.619446+00:00
 -- url     : https://prove2.me/theorems/6d7cc8a5-ab9a-4536-b6eb-926dd66799cd

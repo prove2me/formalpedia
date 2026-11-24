@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartRed_disj_low_trans
 -- name    : GlobalTheory.PartRed.disj_low_trans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:11:11.82191+00:00
 -- url     : https://prove2.me/theorems/b57a7e67-c13e-43ee-8ee4-cea1236d45cc

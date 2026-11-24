@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_schur_complement_step_cpx
 -- name    : GlobalTheory.schur_complement_step_cpx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:20:37.945871+00:00
 -- url     : https://prove2.me/theorems/6e4db4b4-6af1-4cdb-bc44-e2dc6c694b98

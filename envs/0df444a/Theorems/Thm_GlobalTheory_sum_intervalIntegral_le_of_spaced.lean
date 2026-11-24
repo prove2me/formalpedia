@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_intervalIntegral_le_of_spaced
 -- name    : GlobalTheory.sum_intervalIntegral_le_of_spaced
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:22:45.385518+00:00
 -- url     : https://prove2.me/theorems/001a07f3-6327-4256-b7c4-cfc75bccf6ae

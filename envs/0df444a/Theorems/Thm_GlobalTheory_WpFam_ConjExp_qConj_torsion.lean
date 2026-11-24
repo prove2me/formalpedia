@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WpFam_ConjExp_qConj_torsion
 -- name    : GlobalTheory.WpFam.ConjExp.qConj_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:20:43.404322+00:00
 -- url     : https://prove2.me/theorems/10c67b04-a2cc-475c-9f90-a52d45c2b998

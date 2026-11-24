@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_dnLastIndep
 -- name    : Formalism.CohomologicalDescent.LD.dnLastIndep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:52:35.372887+00:00
 -- url     : https://prove2.me/theorems/3b0d64ef-4264-4ccb-9b33-9d9577bb436f

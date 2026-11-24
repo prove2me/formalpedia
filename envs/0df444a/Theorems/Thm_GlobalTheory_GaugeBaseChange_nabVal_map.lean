@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeBaseChange_nabVal_map
 -- name    : GlobalTheory.GaugeBaseChange.nabVal_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:48:56.658109+00:00
 -- url     : https://prove2.me/theorems/5ea9ac68-0ea1-443a-a2b9-0df5d32980c1

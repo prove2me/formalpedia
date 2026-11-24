@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sl2Map_wS
 -- name    : GlobalTheory.sl2Map_wS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:21:03.877855+00:00
 -- url     : https://prove2.me/theorems/5b167fd9-9683-49b1-9b65-4f45c1ea886c

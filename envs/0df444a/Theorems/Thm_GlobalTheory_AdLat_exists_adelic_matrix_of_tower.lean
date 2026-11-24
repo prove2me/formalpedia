@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_exists_adelic_matrix_of_tower
 -- name    : GlobalTheory.AdLat.exists_adelic_matrix_of_tower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:20:43.693818+00:00
 -- url     : https://prove2.me/theorems/e3f92c07-c17b-4c1c-a40d-14840a562ab4

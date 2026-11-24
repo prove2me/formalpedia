@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelativisticZK205_ThreeCol_pr_no_signalling
 -- name    : RelativisticZK205.ThreeCol.pr_no_signalling
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T09:10:22.323265+00:00
 -- url     : https://prove2.me/theorems/a5e5811e-f6e9-43fa-a118-efc1aa39a5d4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_hensel_generator_of_residue_finite
 -- name    : GlobalTheory.exists_hensel_generator_of_residue_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:32:36.719409+00:00
 -- url     : https://prove2.me/theorems/3ec71c45-1c4a-4a41-8807-ef769b9168d2

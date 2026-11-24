@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrSum_proj_grading
 -- name    : GlobalTheory.GrSum.proj_grading
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:19:24.169998+00:00
 -- url     : https://prove2.me/theorems/79924c9d-cce1-4a50-8e91-ddc45e51801f

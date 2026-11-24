@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_proj_smul_of_mem_right
 -- name    : GlobalTheory.proj_smul_of_mem_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:18:57.904815+00:00
 -- url     : https://prove2.me/theorems/84917a9e-68ab-4414-bd5c-a61fd34279f2

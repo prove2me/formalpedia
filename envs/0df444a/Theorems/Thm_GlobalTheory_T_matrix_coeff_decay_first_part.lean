@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_matrix_coeff_decay_first_part
 -- name    : GlobalTheory.T.matrix_coeff_decay_first_part
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:52:41.30262+00:00
 -- url     : https://prove2.me/theorems/8d6d61e1-5a1b-4dcd-9782-fc98765162b6

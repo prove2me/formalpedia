@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_rTensor_pairing_eq_zero_of_flip_injective
 -- name    : GlobalTheory.rTensor_pairing_eq_zero_of_flip_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:15:00.742697+00:00
 -- url     : https://prove2.me/theorems/cdba4e1a-2ead-424f-8368-2174b2366db7

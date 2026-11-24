@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eigenTensor_full_left_support
 -- name    : GlobalTheory.eigenTensor_full_left_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:16:35.174986+00:00
 -- url     : https://prove2.me/theorems/0dc1f81d-c6fc-461f-8ca3-743fea43ff3d

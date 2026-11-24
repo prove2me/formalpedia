@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_prime_sq_ringHom_of_closure
 -- name    : GlobalTheory.exists_prime_sq_ringHom_of_closure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:36:58.478641+00:00
 -- url     : https://prove2.me/theorems/7295e1df-9fc2-44e6-9252-97edf946f9b0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_heisFun_fou
 -- name    : GlobalTheory.KSp.heisFun_fou
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:07:50.943787+00:00
 -- url     : https://prove2.me/theorems/6f8c5b83-37f8-4536-855e-e5ffcc82b9c4

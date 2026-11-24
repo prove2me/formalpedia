@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_residue_atMaximal_finite_formallyUnramified
 -- name    : GlobalTheory.residue_atMaximal_finite_formallyUnramified
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:45:31.25241+00:00
 -- url     : https://prove2.me/theorems/bb094f81-3206-4aec-be53-c66688b744c7

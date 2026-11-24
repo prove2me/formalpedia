@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_newton_recursion_poly_unique
 -- name    : GlobalTheory.newton_recursion_poly_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:12:37.520023+00:00
 -- url     : https://prove2.me/theorems/917b6573-0aa8-4bc8-b5ad-7cf262d6f07a

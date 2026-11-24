@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_log_three_mul_h_bounds
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.log_three_mul_h_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:44:22.692054+00:00
 -- url     : https://prove2.me/theorems/02fe8091-8e34-43cb-a2a0-6103d8639caa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_summable_norm_inv_pow_innerDual
 -- name    : GlobalTheory.summable_norm_inv_pow_innerDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:22:36.518066+00:00
 -- url     : https://prove2.me/theorems/e08d09d3-0fd9-4031-808a-1be08e592259

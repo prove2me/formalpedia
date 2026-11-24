@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ramification_le_card_of_span
 -- name    : GlobalTheory.ramification_le_card_of_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:14:56.748998+00:00
 -- url     : https://prove2.me/theorems/8cb02af4-96b6-4686-a520-833e44d4d113

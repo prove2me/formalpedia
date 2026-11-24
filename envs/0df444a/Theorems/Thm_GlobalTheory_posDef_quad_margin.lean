@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_posDef_quad_margin
 -- name    : GlobalTheory.posDef_quad_margin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:13:57.011084+00:00
 -- url     : https://prove2.me/theorems/7009be8d-1c28-432c-9caa-88aba7044047

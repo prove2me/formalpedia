@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_divided_power_diag_weight_vector
 -- name    : Formalism.CohomologicalDescent.LD.divided_power_diag_weight_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:05:39.03171+00:00
 -- url     : https://prove2.me/theorems/8ff695f4-a8a0-46f8-a578-1aa7b073d8c9

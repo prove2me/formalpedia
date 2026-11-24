@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sq_scalar_character
 -- name    : GlobalTheory.sq_scalar_character
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:21:43.0538+00:00
 -- url     : https://prove2.me/theorems/e37246f8-eec5-4169-93cd-92c89884f96a

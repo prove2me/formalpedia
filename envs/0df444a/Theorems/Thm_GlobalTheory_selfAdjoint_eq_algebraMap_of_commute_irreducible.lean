@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_selfAdjoint_eq_algebraMap_of_commute_irreducible
 -- name    : GlobalTheory.selfAdjoint_eq_algebraMap_of_commute_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:20:25.605698+00:00
 -- url     : https://prove2.me/theorems/b70f2c76-a7fd-4979-a5d5-eb16d1fb12d9

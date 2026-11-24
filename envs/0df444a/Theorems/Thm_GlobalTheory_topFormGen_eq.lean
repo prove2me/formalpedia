@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_topFormGen_eq
 -- name    : GlobalTheory.topFormGen_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:17:11.990893+00:00
 -- url     : https://prove2.me/theorems/b205d3d9-70ea-4bfb-94df-efa1c9520139

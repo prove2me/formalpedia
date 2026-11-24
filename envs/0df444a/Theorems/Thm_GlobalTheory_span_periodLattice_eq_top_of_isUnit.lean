@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_span_periodLattice_eq_top_of_isUnit
 -- name    : GlobalTheory.span_periodLattice_eq_top_of_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:16:56.686237+00:00
 -- url     : https://prove2.me/theorems/07a3e922-d918-4f17-a3ec-ee35023f935b

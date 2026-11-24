@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_canonicalSigma_add
 -- name    : GlobalTheory.canonicalSigma_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:24:26.390676+00:00
 -- url     : https://prove2.me/theorems/54c4e24a-a0f2-45b8-a2e3-8a4222dcce0a

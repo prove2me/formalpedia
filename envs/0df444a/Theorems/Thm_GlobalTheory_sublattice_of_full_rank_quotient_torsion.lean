@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sublattice_of_full_rank_quotient_torsion
 -- name    : GlobalTheory.sublattice_of_full_rank_quotient_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:21:34.946864+00:00
 -- url     : https://prove2.me/theorems/d6fb56bb-fb91-41af-bf81-730133a472bf

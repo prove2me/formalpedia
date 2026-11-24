@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIntegral_of_forall_mem_discreteValuationSubring
 -- name    : GlobalTheory.isIntegral_of_forall_mem_discreteValuationSubring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:57:19.383879+00:00
 -- url     : https://prove2.me/theorems/8f16ceed-caa1-41f1-92c4-f09f39034d44

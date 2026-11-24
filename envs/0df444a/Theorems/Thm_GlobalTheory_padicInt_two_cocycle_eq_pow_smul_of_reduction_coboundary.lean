@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_padicInt_two_cocycle_eq_pow_smul_of_reduction_coboundary
 -- name    : GlobalTheory.padicInt_two_cocycle_eq_pow_smul_of_reduction_coboundary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:13:43.433676+00:00
 -- url     : https://prove2.me/theorems/7c24c828-159e-4e6f-90ae-7e15d98e4df5

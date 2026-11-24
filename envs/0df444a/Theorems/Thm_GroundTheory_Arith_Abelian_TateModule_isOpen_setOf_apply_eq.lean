@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_TateModule_isOpen_setOf_apply_eq
 -- name    : GroundTheory.Arith.Abelian.TateModule.isOpen_setOf_apply_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:25:42.141791+00:00
 -- url     : https://prove2.me/theorems/142d0521-e972-4575-8eda-df8cfc2998c9

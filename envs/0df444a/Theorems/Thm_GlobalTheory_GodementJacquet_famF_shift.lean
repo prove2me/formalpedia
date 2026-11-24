@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GodementJacquet_famF_shift
 -- name    : GlobalTheory.GodementJacquet.famF_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:29:48.610976+00:00
 -- url     : https://prove2.me/theorems/8f3fe8b4-5abd-4094-8cd8-58184903c469

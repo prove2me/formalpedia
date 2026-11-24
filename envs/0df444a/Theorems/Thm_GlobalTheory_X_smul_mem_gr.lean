@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_X_smul_mem_gr
 -- name    : GlobalTheory.X_smul_mem_gr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:19:58.374561+00:00
 -- url     : https://prove2.me/theorems/7adb9c0a-ca08-4760-8958-79b16350f0e1

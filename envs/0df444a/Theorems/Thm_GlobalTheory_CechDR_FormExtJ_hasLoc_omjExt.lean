@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_FormExtJ_hasLoc_omjExt
 -- name    : GlobalTheory.CechDR.FormExtJ.hasLoc_omjExt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:59:18.927805+00:00
 -- url     : https://prove2.me/theorems/fc478ff1-eba9-437b-a8b7-5936bb06373c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_irreducibleSpace_pullback_of_cover
 -- name    : GlobalTheory.irreducibleSpace_pullback_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:56:24.70022+00:00
 -- url     : https://prove2.me/theorems/aed32a0b-d324-4692-82e5-0d5d71fb69d2

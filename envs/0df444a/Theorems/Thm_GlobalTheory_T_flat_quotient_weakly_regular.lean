@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_flat_quotient_weakly_regular
 -- name    : GlobalTheory.T.flat_quotient_weakly_regular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:40:55.707921+00:00
 -- url     : https://prove2.me/theorems/a22f3f95-78bc-479d-a0a3-07c65a52503a

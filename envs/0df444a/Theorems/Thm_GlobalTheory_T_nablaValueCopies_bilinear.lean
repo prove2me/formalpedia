@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_nablaValueCopies_bilinear
 -- name    : GlobalTheory.T.nablaValueCopies_bilinear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:54:36.661309+00:00
 -- url     : https://prove2.me/theorems/8416abd2-45a7-4864-82bc-e2dbc9cbe7c5

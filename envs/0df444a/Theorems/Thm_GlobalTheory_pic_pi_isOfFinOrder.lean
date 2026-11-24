@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_pic_pi_isOfFinOrder
 -- name    : GlobalTheory.pic_pi_isOfFinOrder
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:13:54.348447+00:00
 -- url     : https://prove2.me/theorems/8275fd03-7798-4cf7-92f1-6a562edf7a67

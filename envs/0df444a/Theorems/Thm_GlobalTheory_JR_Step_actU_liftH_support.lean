@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Step_actU_liftH_support
 -- name    : GlobalTheory.JR.Step.actU_liftH_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:37:09.989093+00:00
 -- url     : https://prove2.me/theorems/760c6001-dbee-4068-8d1b-d1680c282e9b

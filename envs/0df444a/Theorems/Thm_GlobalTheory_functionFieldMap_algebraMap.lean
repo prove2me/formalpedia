@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_functionFieldMap_algebraMap
 -- name    : GlobalTheory.functionFieldMap_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:54:04.875839+00:00
 -- url     : https://prove2.me/theorems/1defe039-6d4e-48ee-ab7f-096bc162c199

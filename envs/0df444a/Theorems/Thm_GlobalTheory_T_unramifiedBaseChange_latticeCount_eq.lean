@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unramifiedBaseChange_latticeCount_eq
 -- name    : GlobalTheory.T.unramifiedBaseChange_latticeCount_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:48:30.365948+00:00
 -- url     : https://prove2.me/theorems/6471b2f4-a8a8-400f-8665-f6a4996bc2d6

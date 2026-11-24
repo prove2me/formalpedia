@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_and_ncard_linearEquiv_le
 -- name    : GlobalTheory.finite_and_ncard_linearEquiv_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:46:14.135793+00:00
 -- url     : https://prove2.me/theorems/3982ec97-4e7d-42ba-ace1-56756f06cb9b

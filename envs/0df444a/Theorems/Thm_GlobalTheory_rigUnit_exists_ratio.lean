@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_rigUnit_exists_ratio
 -- name    : GlobalTheory.rigUnit_exists_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:18:10.424077+00:00
 -- url     : https://prove2.me/theorems/129aafd0-2f9e-4b4f-8448-57a411cd5ca7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_FrobeniusPeriodChange_charpoly_theta_eq_prod
 -- name    : Formalism.CohomologicalDescent.FrobeniusPeriodChange.charpoly_theta_eq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:54:31.425054+00:00
 -- url     : https://prove2.me/theorems/a15747b5-35c6-4c00-9f47-7c651a964cd3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_exists_linear_approx_tower
 -- name    : GlobalTheory.AdLat.exists_linear_approx_tower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:58:32.132714+00:00
 -- url     : https://prove2.me/theorems/59a77fcc-a073-4169-a19f-138606f024a5

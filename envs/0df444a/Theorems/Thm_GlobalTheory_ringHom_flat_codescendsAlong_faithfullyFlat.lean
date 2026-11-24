@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ringHom_flat_codescendsAlong_faithfullyFlat
 -- name    : GlobalTheory.ringHom_flat_codescendsAlong_faithfullyFlat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:17:30.656271+00:00
 -- url     : https://prove2.me/theorems/d929e2c3-484d-41ab-85fd-9dff59bcd6d6

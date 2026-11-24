@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartRed_kills_ints
 -- name    : GlobalTheory.PartRed.kills_ints
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:11:42.871704+00:00
 -- url     : https://prove2.me/theorems/82595953-a514-403b-ac0d-f78772335571

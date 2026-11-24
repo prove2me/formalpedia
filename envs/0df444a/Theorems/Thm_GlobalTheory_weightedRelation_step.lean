@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_weightedRelation_step
 -- name    : GlobalTheory.weightedRelation_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:24:52.304114+00:00
 -- url     : https://prove2.me/theorems/c2c34716-23aa-4725-89ca-fe9444b57037

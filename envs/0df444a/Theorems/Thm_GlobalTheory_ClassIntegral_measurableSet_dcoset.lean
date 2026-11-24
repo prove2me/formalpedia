@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassIntegral_measurableSet_dcoset
 -- name    : GlobalTheory.ClassIntegral.measurableSet_dcoset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:27:06.879685+00:00
 -- url     : https://prove2.me/theorems/4698c9dd-9956-4092-91bf-3dc60cf06267

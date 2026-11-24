@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_forms_idealOfVars_le_radical
 -- name    : GlobalTheory.exists_forms_idealOfVars_le_radical
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:32:29.036679+00:00
 -- url     : https://prove2.me/theorems/02af29c5-181c-47ca-9a8e-c373e3a8d9ba

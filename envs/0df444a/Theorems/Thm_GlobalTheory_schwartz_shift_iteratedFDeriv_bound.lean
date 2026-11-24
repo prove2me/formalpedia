@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_schwartz_shift_iteratedFDeriv_bound
 -- name    : GlobalTheory.schwartz_shift_iteratedFDeriv_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:20:47.721833+00:00
 -- url     : https://prove2.me/theorems/133ea9d8-5f9d-4dd7-9889-4bce6b527a42

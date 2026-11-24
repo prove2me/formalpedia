@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_pow_mul_norm_latticeFourierCoeff_le
 -- name    : GlobalTheory.pow_mul_norm_latticeFourierCoeff_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:16:38.563796+00:00
 -- url     : https://prove2.me/theorems/8b19818b-08bb-4750-a068-b66979af0dbd

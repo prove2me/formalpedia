@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArtinKernel_exists_linear_of_mul_period
 -- name    : GlobalTheory.ArtinKernel.exists_linear_of_mul_period
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:58:21.434609+00:00
 -- url     : https://prove2.me/theorems/7be69199-6ab7-4b30-bec0-711b7b953a59

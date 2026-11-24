@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_Top_hitsCapPos
 -- name    : Formalism.InvariantFactorPaths.G7.Top.hitsCapPos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:39:11.908922+00:00
 -- url     : https://prove2.me/theorems/f1b33450-bbcd-4a9e-84e6-db4bb227f6e4

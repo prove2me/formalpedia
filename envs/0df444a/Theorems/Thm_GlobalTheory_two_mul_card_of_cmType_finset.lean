@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_two_mul_card_of_cmType_finset
 -- name    : GlobalTheory.two_mul_card_of_cmType_finset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:24:58.925608+00:00
 -- url     : https://prove2.me/theorems/e7cf8fb4-60b1-49d1-bab1-b579728b463e

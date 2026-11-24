@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_subsingleton_cechH
 -- name    : GlobalTheory.subsingleton_cechH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:22:14.057506+00:00
 -- url     : https://prove2.me/theorems/08057e9e-77d2-4487-b1c4-a4594e248ce5

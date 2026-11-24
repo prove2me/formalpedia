@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_norm_prod_sign_mul_det_submatrix_sub_one_le
 -- name    : GlobalTheory.norm_prod_sign_mul_det_submatrix_sub_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:13:51.490396+00:00
 -- url     : https://prove2.me/theorems/dc505b64-b2b4-4157-9601-7e1d7cddf716

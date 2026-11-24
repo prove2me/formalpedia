@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TameDescent_appLE_sub_mem_map
 -- name    : GlobalTheory.TameDescent.appLE_sub_mem_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:03:43.244562+00:00
 -- url     : https://prove2.me/theorems/7bb4fafe-152d-4fc8-af28-a47089599812

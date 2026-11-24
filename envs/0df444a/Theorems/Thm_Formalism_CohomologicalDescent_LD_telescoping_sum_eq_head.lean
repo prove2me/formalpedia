@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_telescoping_sum_eq_head
 -- name    : Formalism.CohomologicalDescent.LD.telescoping_sum_eq_head
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:05:23.69386+00:00
 -- url     : https://prove2.me/theorems/28f56b65-4678-46ce-bc96-d187ae19e4e2

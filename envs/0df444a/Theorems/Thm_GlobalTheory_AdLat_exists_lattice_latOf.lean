@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_exists_lattice_latOf
 -- name    : GlobalTheory.AdLat.exists_lattice_latOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:03:05.96048+00:00
 -- url     : https://prove2.me/theorems/af64b108-fc21-40b8-bfd3-e014e56d23ca

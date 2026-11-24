@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mem_span_map_of_eval_mem_of_ne_zero
 -- name    : GlobalTheory.T.mem_span_map_of_eval_mem_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:52:52.140105+00:00
 -- url     : https://prove2.me/theorems/fcbb1309-10ae-4011-8d03-febd11734905

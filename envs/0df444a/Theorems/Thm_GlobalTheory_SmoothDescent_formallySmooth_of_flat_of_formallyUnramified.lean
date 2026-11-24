@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothDescent_formallySmooth_of_flat_of_formallyUnramified
 -- name    : GlobalTheory.SmoothDescent.formallySmooth_of_flat_of_formallyUnramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:15:42.592068+00:00
 -- url     : https://prove2.me/theorems/bdcb5eff-1406-431f-a05f-8c341e2dd121

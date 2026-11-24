@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_schur_unitary_irreducible
 -- name    : GlobalTheory.schur_unitary_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:20:33.316093+00:00
 -- url     : https://prove2.me/theorems/f08fb75f-b1f1-4e28-9480-b45f412acb46

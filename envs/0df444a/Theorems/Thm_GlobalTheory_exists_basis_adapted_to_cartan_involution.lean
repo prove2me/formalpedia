@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_basis_adapted_to_cartan_involution
 -- name    : GlobalTheory.exists_basis_adapted_to_cartan_involution
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:00:19.546556+00:00
 -- url     : https://prove2.me/theorems/6a3aa998-5b0a-4e04-9550-ff4fd8bc20fe

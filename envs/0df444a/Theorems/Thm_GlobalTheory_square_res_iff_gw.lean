@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_square_res_iff_gw
 -- name    : GlobalTheory.square_res_iff_gw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:22:41.17543+00:00
 -- url     : https://prove2.me/theorems/111ae6bd-6819-4935-b28d-bf1ec0fa0021

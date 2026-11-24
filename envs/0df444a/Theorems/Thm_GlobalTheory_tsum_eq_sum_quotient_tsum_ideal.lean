@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tsum_eq_sum_quotient_tsum_ideal
 -- name    : GlobalTheory.tsum_eq_sum_quotient_tsum_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:24:24.705576+00:00
 -- url     : https://prove2.me/theorems/1835a9c5-83d8-4628-8e3c-f88913dbbc04

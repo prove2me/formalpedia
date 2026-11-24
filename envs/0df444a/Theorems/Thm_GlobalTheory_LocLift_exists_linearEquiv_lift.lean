@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocLift_exists_linearEquiv_lift
 -- name    : GlobalTheory.LocLift.exists_linearEquiv_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:13:00.895944+00:00
 -- url     : https://prove2.me/theorems/52b25f83-33ab-4404-a4a2-3ea5335a9fdf

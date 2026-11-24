@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_quasiFiniteAt_homOfVector_of_coord
 -- name    : GlobalTheory.quasiFiniteAt_homOfVector_of_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:16:10.211353+00:00
 -- url     : https://prove2.me/theorems/7c0a2348-3c8e-4f30-a89b-2b080695779b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_prod_lowerPairs_fst
 -- name    : GlobalTheory.prod_lowerPairs_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:15:59.72944+00:00
 -- url     : https://prove2.me/theorems/d5626970-eeb6-43bc-bb7b-dd7a5e60154f

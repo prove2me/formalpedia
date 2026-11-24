@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_span_image_inf_span_image_of_linearIndependent
 -- name    : GlobalTheory.span_image_inf_span_image_of_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:21:13.179424+00:00
 -- url     : https://prove2.me/theorems/e0ef0051-6e5f-4ceb-a08e-37120aa9ea24

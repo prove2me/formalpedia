@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_ordPoint_mul
 -- name    : GroundTheory.Arith.Abelian.ordPoint_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:25:56.979195+00:00
 -- url     : https://prove2.me/theorems/4d5b1fd3-582a-4676-a774-ff69928fe52d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_siegel_unip_corner
 -- name    : GlobalTheory.siegel_unip_corner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:20:37.228947+00:00
 -- url     : https://prove2.me/theorems/79a73df9-da3c-41ce-b0c7-0acc52f7b9f0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_norm_eq_mul_norm_idem_corner
 -- name    : GlobalTheory.norm_eq_mul_norm_idem_corner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:12:23.030997+00:00
 -- url     : https://prove2.me/theorems/42bf5bf6-7e3d-4b2d-baa6-11a935acbf59

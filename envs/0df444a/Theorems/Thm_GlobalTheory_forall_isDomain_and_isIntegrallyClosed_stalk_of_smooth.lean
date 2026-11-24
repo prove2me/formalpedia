@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_forall_isDomain_and_isIntegrallyClosed_stalk_of_smooth
 -- name    : GlobalTheory.forall_isDomain_and_isIntegrallyClosed_stalk_of_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:51:52.62931+00:00
 -- url     : https://prove2.me/theorems/eb6aac32-a9dc-4eaa-a200-ff2385b9a41d

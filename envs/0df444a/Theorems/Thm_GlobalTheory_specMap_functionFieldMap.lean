@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_specMap_functionFieldMap
 -- name    : GlobalTheory.specMap_functionFieldMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:21:53.845515+00:00
 -- url     : https://prove2.me/theorems/339de847-c0c1-4e3a-b2a3-f42020f53d9d

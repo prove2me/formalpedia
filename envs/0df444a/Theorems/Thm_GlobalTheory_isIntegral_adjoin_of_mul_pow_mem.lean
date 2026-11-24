@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIntegral_adjoin_of_mul_pow_mem
 -- name    : GlobalTheory.isIntegral_adjoin_of_mul_pow_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:24:45.035056+00:00
 -- url     : https://prove2.me/theorems/c386e12c-d6a2-448c-a8b3-c1f009d9931b

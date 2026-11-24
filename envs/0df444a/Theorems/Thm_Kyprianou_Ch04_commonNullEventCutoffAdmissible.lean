@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_commonNullEventCutoffAdmissible
 -- name    : Kyprianou.Ch04.commonNullEventCutoffAdmissible
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T23:00:42.576395+00:00
 -- url     : https://prove2.me/theorems/5a097bdb-4ac5-4636-aafe-ac8a342a397b

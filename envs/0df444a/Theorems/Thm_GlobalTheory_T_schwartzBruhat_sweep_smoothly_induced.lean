@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartzBruhat_sweep_smoothly_induced
 -- name    : GlobalTheory.T.schwartzBruhat_sweep_smoothly_induced
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:15:05.27813+00:00
 -- url     : https://prove2.me/theorems/2930da0e-5db3-4b99-b539-5b9a7e9ec826

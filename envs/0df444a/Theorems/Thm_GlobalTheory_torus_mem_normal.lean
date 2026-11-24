@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_torus_mem_normal
 -- name    : GlobalTheory.torus_mem_normal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:24:36.067905+00:00
 -- url     : https://prove2.me/theorems/4e193fcd-af6b-4765-b7bc-de5eacaddbef

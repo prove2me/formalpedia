@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_svalAddHom_smul
 -- name    : GlobalTheory.svalAddHom_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:24:05.031223+00:00
 -- url     : https://prove2.me/theorems/4930ba28-e745-4057-a51e-6be21b1e593f

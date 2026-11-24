@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cosets_main
 -- name    : GlobalTheory.cosets_main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:14:53.878633+00:00
 -- url     : https://prove2.me/theorems/2c22830a-7970-4410-a9a4-cec1a7031296

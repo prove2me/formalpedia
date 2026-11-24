@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_phiEq_dvd_all_pow
 -- name    : GlobalTheory.phiEq_dvd_all_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:14:11.50258+00:00
 -- url     : https://prove2.me/theorems/6b8f6c00-1052-44ad-98b5-a31e6b709849

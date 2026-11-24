@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_span_localization_saturationIn
 -- name    : GlobalTheory.span_localization_saturationIn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:21:30.188675+00:00
 -- url     : https://prove2.me/theorems/4f4c186f-08b7-428f-93dc-1b4c8a8e0ea4

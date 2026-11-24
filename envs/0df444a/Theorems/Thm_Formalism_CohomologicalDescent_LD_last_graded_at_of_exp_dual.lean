@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_last_graded_at_of_exp_dual
 -- name    : Formalism.CohomologicalDescent.LD.last_graded_at_of_exp_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:05:32.202353+00:00
 -- url     : https://prove2.me/theorems/fa054957-dde3-45dc-8bd8-f4898f479ad4

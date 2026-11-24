@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_riesz_and_eigenvector_of_sesq_on_fun_space
 -- name    : GlobalTheory.riesz_and_eigenvector_of_sesq_on_fun_space
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:17:24.191433+00:00
 -- url     : https://prove2.me/theorems/b5809259-5d40-4b04-a7f4-6beab3e49701

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_torsionBy_two_generators_mod_prime
 -- name    : GlobalTheory.torsionBy_two_generators_mod_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:23:29.451074+00:00
 -- url     : https://prove2.me/theorems/df61eb65-0726-49b8-a9d6-9162ce9a0eb0

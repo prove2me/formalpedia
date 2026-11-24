@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_thH_summable_and_inj
 -- name    : GlobalTheory.SW.thH_summable_and_inj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:46:52.881743+00:00
 -- url     : https://prove2.me/theorems/65e33b01-7e71-4940-a152-95dc8a709822

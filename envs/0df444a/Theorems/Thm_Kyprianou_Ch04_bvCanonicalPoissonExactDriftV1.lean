@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_bvCanonicalPoissonExactDriftV1
 -- name    : Kyprianou.Ch04.bvCanonicalPoissonExactDriftV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T23:06:59.053276+00:00
 -- url     : https://prove2.me/theorems/fc756fbf-5fda-47f7-afd9-44f2f3fbd29b

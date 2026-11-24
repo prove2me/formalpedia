@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_prime_pow_sub_dvd_choose_prime_pow_of_lt
 -- name    : GlobalTheory.T.prime_pow_sub_dvd_choose_prime_pow_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:54:45.641339+00:00
 -- url     : https://prove2.me/theorems/64b0ccb2-16c2-45db-b5b9-668049acf3e8

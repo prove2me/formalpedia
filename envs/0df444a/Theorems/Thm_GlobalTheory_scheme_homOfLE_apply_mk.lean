@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_scheme_homOfLE_apply_mk
 -- name    : GlobalTheory.scheme_homOfLE_apply_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:20:30.004971+00:00
 -- url     : https://prove2.me/theorems/547464aa-704c-493a-bd34-70faa1d633f5

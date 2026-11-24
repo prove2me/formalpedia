@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_ld_weyl_le
 -- name    : Formalism.CohomologicalDescent.LD.ld_weyl_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:42:02.244832+00:00
 -- url     : https://prove2.me/theorems/a58c30e5-ed3a-4b0c-9934-d99baf50c27f

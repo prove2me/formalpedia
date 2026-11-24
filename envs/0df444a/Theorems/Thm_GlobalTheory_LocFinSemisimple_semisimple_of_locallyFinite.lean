@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFinSemisimple_semisimple_of_locallyFinite
 -- name    : GlobalTheory.LocFinSemisimple.semisimple_of_locallyFinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:12:29.603536+00:00
 -- url     : https://prove2.me/theorems/0aba3de8-4c0a-4077-934f-d64571a01478

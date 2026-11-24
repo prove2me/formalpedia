@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ne_zero_of_totallyPos
 -- name    : GlobalTheory.ne_zero_of_totallyPos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:12:26.189211+00:00
 -- url     : https://prove2.me/theorems/b2249a5e-3199-473e-914b-2ec8be316259

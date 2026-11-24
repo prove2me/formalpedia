@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassIntegral_tsum_indicator_eq
 -- name    : GlobalTheory.ClassIntegral.tsum_indicator_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:26:33.753453+00:00
 -- url     : https://prove2.me/theorems/17175241-4a30-4695-b440-e59d347bccac

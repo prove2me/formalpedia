@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_quadratic_unramified_iff_inert_or_split
 -- name    : GlobalTheory.quadratic_unramified_iff_inert_or_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:15:13.648506+00:00
 -- url     : https://prove2.me/theorems/44f39b42-4c79-4e1d-ac7a-2724a4a46b2d

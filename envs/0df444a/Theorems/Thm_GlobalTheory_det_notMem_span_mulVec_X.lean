@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_notMem_span_mulVec_X
 -- name    : GlobalTheory.det_notMem_span_mulVec_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:15:32.705188+00:00
 -- url     : https://prove2.me/theorems/2f28dde3-c1a6-41a5-be87-26f32de04715

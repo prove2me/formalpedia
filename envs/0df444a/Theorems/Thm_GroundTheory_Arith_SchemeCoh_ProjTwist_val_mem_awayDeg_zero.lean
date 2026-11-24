@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjTwist_val_mem_awayDeg_zero
 -- name    : GroundTheory.Arith.SchemeCoh.ProjTwist.val_mem_awayDeg_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:28:15.222889+00:00
 -- url     : https://prove2.me/theorems/f3ee8cb4-3a03-413f-a319-5977c2483a77

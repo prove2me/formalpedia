@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_algHom_lift_of_smooth
 -- name    : GlobalTheory.exists_algHom_lift_of_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:35:57.130615+00:00
 -- url     : https://prove2.me/theorems/d8c6c679-39f9-4b79-911c-c7347ee2f7dc

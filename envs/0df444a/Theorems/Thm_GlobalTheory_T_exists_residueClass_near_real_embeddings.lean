@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_residueClass_near_real_embeddings
 -- name    : GlobalTheory.T.exists_residueClass_near_real_embeddings
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:38:41.142019+00:00
 -- url     : https://prove2.me/theorems/9fa47673-8032-4514-b0b6-aa7f739e2db0

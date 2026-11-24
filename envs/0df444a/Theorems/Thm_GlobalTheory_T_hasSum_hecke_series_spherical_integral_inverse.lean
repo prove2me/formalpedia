@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hasSum_hecke_series_spherical_integral_inverse
 -- name    : GlobalTheory.T.hasSum_hecke_series_spherical_integral_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:02:46.087969+00:00
 -- url     : https://prove2.me/theorems/ec69faef-80d1-4ff3-a872-91f15f09dbe7

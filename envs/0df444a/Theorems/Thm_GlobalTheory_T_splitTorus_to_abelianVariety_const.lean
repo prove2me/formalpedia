@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_splitTorus_to_abelianVariety_const
 -- name    : GlobalTheory.T.splitTorus_to_abelianVariety_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:58:44.096994+00:00
 -- url     : https://prove2.me/theorems/2fa039a5-2691-47ed-b032-17f4de5cb66b

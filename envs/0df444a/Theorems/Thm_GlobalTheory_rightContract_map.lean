@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_rightContract_map
 -- name    : GlobalTheory.rightContract_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:17:26.690084+00:00
 -- url     : https://prove2.me/theorems/d709ef09-4d8c-4ba0-b8d1-1ccbe9263e8e

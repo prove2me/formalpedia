@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjSpace_xprod_succ
 -- name    : GroundTheory.Arith.SchemeCoh.ProjSpace.xprod_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:27:57.429739+00:00
 -- url     : https://prove2.me/theorems/fef5c303-e4b6-4a46-84d9-4379d916a674

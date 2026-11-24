@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_quotient_flat_baseChange
 -- name    : GlobalTheory.quotient_flat_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:41:51.461138+00:00
 -- url     : https://prove2.me/theorems/8b3f347f-7a3a-4b2f-99a4-6a9e75683257

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_idempotent_adeles_small_matrices
 -- name    : GlobalTheory.UnRep.idempotent_adeles_small_matrices
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:21:40.132395+00:00
 -- url     : https://prove2.me/theorems/23bf8cad-4625-4fba-9391-aaf0999d5b50

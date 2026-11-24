@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormSec_normsec
 -- name    : GlobalTheory.NormSec.normsec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:36:37.399769+00:00
 -- url     : https://prove2.me/theorems/6aed2975-7ca6-4d97-bf17-d894b3b35cd5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_packing_geometric_mean_separated
 -- name    : GlobalTheory.packing_geometric_mean_separated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:13:03.655865+00:00
 -- url     : https://prove2.me/theorems/3ac4b0a9-0dc9-4276-a9b1-2e1859721873

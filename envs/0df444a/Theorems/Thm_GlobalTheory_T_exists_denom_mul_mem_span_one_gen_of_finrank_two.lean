@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_denom_mul_mem_span_one_gen_of_finrank_two
 -- name    : GlobalTheory.T.exists_denom_mul_mem_span_one_gen_of_finrank_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:34:11.853661+00:00
 -- url     : https://prove2.me/theorems/970c6882-8ce8-427d-baab-9ea7dd81f31b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_spectral_parts_of_diag
 -- name    : GlobalTheory.spectral_parts_of_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:21:52.373134+00:00
 -- url     : https://prove2.me/theorems/f764de3e-ac52-4d0a-a687-4aa05ee67063

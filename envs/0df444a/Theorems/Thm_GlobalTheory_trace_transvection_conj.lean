@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_trace_transvection_conj
 -- name    : GlobalTheory.trace_transvection_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:23:30.264125+00:00
 -- url     : https://prove2.me/theorems/25dda007-068b-4883-b8b0-61f39e2c0162

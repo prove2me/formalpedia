@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mellin_integral_split_functional_equation
 -- name    : GlobalTheory.T.mellin_integral_split_functional_equation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:52:44.874807+00:00
 -- url     : https://prove2.me/theorems/6e480758-ce29-441d-83ff-a964a65e5d47

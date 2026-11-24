@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_completeOrthogonalIdempotents_of_henselian
 -- name    : GlobalTheory.exists_completeOrthogonalIdempotents_of_henselian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:27:00.016777+00:00
 -- url     : https://prove2.me/theorems/985b285f-f295-4d7c-9134-e1fbb82661ae

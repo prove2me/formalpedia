@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_surjective_of_epi_of_field_to_field
 -- name    : GlobalTheory.surjective_of_epi_of_field_to_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:22:55.987156+00:00
 -- url     : https://prove2.me/theorems/2d0eeb88-ce55-4008-aa2d-963997c3dbba

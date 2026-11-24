@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_la_exZ_le_of_U
 -- name    : Formalism.CohomologicalDescent.LA.la_exZ_le_of_U
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:49:41.762559+00:00
 -- url     : https://prove2.me/theorems/9686e193-885e-48d1-9f64-6f311aad3fca

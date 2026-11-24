@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_multilinear_vanish_of_prod_vanish
 -- name    : GlobalTheory.multilinear_vanish_of_prod_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:12:17.07113+00:00
 -- url     : https://prove2.me/theorems/a73308eb-bae3-4604-970f-a44a6868b679

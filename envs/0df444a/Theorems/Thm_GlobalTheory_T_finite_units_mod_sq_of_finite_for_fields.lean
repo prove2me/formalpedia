@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_units_mod_sq_of_finite_for_fields
 -- name    : GlobalTheory.T.finite_units_mod_sq_of_finite_for_fields
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:39:42.080915+00:00
 -- url     : https://prove2.me/theorems/e6c09bf2-d9f9-41fe-a45f-41920204e9b5

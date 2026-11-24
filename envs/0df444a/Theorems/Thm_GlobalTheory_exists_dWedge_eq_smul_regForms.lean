@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_dWedge_eq_smul_regForms
 -- name    : GlobalTheory.exists_dWedge_eq_smul_regForms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:30:55.793714+00:00
 -- url     : https://prove2.me/theorems/49e8e1e8-02fb-414a-98de-091b5b3ba001

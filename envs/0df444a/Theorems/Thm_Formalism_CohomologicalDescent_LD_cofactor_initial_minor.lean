@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_cofactor_initial_minor
 -- name    : Formalism.CohomologicalDescent.LD.cofactor_initial_minor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:06:12.296143+00:00
 -- url     : https://prove2.me/theorems/64591b7c-63a2-4336-8268-7174bc1fb113

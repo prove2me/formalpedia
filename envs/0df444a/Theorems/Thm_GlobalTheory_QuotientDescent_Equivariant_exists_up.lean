@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuotientDescent_Equivariant_exists_up
 -- name    : GlobalTheory.QuotientDescent.Equivariant.exists_up
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:55:34.675474+00:00
 -- url     : https://prove2.me/theorems/d1897593-4238-437a-a763-b5b17c71f338

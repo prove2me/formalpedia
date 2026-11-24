@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_smooth_of_isPullback_of_surjective_of_flat
 -- name    : GlobalTheory.smooth_of_isPullback_of_surjective_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:21:01.145925+00:00
 -- url     : https://prove2.me/theorems/9cafad6a-9698-4762-a50e-bc23d6bb0d5c

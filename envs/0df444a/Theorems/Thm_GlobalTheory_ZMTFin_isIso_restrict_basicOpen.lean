@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZMTFin_isIso_restrict_basicOpen
 -- name    : GlobalTheory.ZMTFin.isIso_restrict_basicOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:04:51.436632+00:00
 -- url     : https://prove2.me/theorems/9e24ed4a-d202-482a-844e-fa5ef936e57e

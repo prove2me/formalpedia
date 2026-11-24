@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Hyp_selfDual_kx_exists
 -- name    : GlobalTheory.JR.Hyp.selfDual_kx_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:34:09.78301+00:00
 -- url     : https://prove2.me/theorems/e37fd83f-ea74-45d7-9e05-c31a781bc8e0

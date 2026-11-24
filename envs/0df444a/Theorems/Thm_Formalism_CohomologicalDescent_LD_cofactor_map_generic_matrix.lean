@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_cofactor_map_generic_matrix
 -- name    : Formalism.CohomologicalDescent.LD.cofactor_map_generic_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:07:20.867027+00:00
 -- url     : https://prove2.me/theorems/05cec822-9146-4d7f-8bdb-4f85bb04f279

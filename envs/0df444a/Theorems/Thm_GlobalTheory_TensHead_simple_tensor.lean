@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensHead_simple_tensor
 -- name    : GlobalTheory.TensHead.simple_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:02:25.080846+00:00
 -- url     : https://prove2.me/theorems/1bfc9984-7a68-4cb4-b8e7-fbaa5400d23f

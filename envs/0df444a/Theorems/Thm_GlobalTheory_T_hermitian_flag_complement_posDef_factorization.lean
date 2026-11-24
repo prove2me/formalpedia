@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_flag_complement_posDef_factorization
 -- name    : GlobalTheory.T.hermitian_flag_complement_posDef_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:45:40.76215+00:00
 -- url     : https://prove2.me/theorems/78df209b-7475-42ee-be33-76dffa82c1ef

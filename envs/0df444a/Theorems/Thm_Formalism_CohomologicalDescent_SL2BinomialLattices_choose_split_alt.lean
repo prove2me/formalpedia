@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_SL2BinomialLattices_choose_split_alt
 -- name    : Formalism.CohomologicalDescent.SL2BinomialLattices.choose_split_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:59:13.242151+00:00
 -- url     : https://prove2.me/theorems/a6c10db0-6a3c-4a66-b534-675bae63b7ad

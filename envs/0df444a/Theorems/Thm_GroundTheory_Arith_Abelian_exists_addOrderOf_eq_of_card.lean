@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_exists_addOrderOf_eq_of_card
 -- name    : GroundTheory.Arith.Abelian.exists_addOrderOf_eq_of_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:25:44.867111+00:00
 -- url     : https://prove2.me/theorems/452682c8-2901-4fc1-b5c6-774d5dbbeaf7

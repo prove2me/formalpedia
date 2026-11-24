@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_prod_initial_minors_mem_det_span
 -- name    : Formalism.CohomologicalDescent.LA.prod_initial_minors_mem_det_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:50:06.384366+00:00
 -- url     : https://prove2.me/theorems/51aa294a-ce59-4597-8d97-e9bfeb7d7c29

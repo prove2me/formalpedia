@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_plane_lattice_reduction_step
 -- name    : GlobalTheory.plane_lattice_reduction_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:14:16.880984+00:00
 -- url     : https://prove2.me/theorems/f441112f-9c3a-4b2f-9783-9f82f9610303

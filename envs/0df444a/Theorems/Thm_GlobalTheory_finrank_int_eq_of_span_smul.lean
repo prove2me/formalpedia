@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finrank_int_eq_of_span_smul
 -- name    : GlobalTheory.finrank_int_eq_of_span_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:49:34.722144+00:00
 -- url     : https://prove2.me/theorems/f9c58ef3-88e9-4b56-bf1f-5d3c43689df4

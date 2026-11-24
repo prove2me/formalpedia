@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GodementJacquet_famF_smul_fun
 -- name    : GlobalTheory.GodementJacquet.famF_smul_fun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:29:54.030397+00:00
 -- url     : https://prove2.me/theorems/a4a336d7-030f-42fe-9fc0-c48ae9ece942

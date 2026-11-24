@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tensor_pairing_separating
 -- name    : GlobalTheory.tensor_pairing_separating
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:23:49.537144+00:00
 -- url     : https://prove2.me/theorems/1f1adb37-f617-4684-8cf7-f887e45fc8cf

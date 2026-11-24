@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_wittVector_coeff_iterate_frobenius
 -- name    : GlobalTheory.wittVector_coeff_iterate_frobenius
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:24:54.737995+00:00
 -- url     : https://prove2.me/theorems/3e02db1f-ae64-49f9-9033-7c94b9fb886d

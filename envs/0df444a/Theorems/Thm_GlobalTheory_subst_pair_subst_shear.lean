@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_subst_pair_subst_shear
 -- name    : GlobalTheory.subst_pair_subst_shear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:21:18.835812+00:00
 -- url     : https://prove2.me/theorems/96a56d2e-587b-4bc8-80ff-5aa17bdf5f09

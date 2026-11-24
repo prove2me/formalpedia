@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_natCard_degree_eq
 -- name    : GlobalTheory.natCard_degree_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:10:51.274103+00:00
 -- url     : https://prove2.me/theorems/53675067-79f6-40ff-82a7-36fce5455003

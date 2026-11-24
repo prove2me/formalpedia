@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_IsometricMatrix_main
 -- name    : GlobalTheory.CompanionTheory.IsometricMatrix.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:48:35.818498+00:00
 -- url     : https://prove2.me/theorems/b8c9337a-2ec4-4441-ba4b-62b32482b465

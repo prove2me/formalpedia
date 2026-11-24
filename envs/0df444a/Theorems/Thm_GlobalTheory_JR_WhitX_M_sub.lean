@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WhitX_M_sub
 -- name    : GlobalTheory.JR.WhitX.M_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:39:42.573434+00:00
 -- url     : https://prove2.me/theorems/c32f9f33-db67-46c9-a402-2ccfada07c8e

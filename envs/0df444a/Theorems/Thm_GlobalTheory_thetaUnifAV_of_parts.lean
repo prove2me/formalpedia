@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_thetaUnifAV_of_parts
 -- name    : GlobalTheory.thetaUnifAV_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:24:23.526533+00:00
 -- url     : https://prove2.me/theorems/579a6b3e-b9f5-4626-ab14-82c067821e23

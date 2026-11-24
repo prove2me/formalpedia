@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ringHom_formallyUnramified_of_comp_faithfullyFlat
 -- name    : GlobalTheory.ringHom_formallyUnramified_of_comp_faithfullyFlat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:18:45.470594+00:00
 -- url     : https://prove2.me/theorems/5099a544-b670-4309-97ec-8c450a3e24cf

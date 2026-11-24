@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TopForm_isBaseChange_exteriorPower
 -- name    : GlobalTheory.TopForm.isBaseChange_exteriorPower
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:03:23.375237+00:00
 -- url     : https://prove2.me/theorems/6d87aec1-45b7-482a-b9f4-be04bcd1d9b6

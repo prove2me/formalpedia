@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_smul_inf_restrictScalars
 -- name    : GlobalTheory.smul_inf_restrictScalars
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:21:33.306691+00:00
 -- url     : https://prove2.me/theorems/8dc53378-1ba1-4dc8-8f5f-69fb6e973dd0

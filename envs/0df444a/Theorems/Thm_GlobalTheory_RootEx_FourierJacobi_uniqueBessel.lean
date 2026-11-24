@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_FourierJacobi_uniqueBessel
 -- name    : GlobalTheory.RootEx.FourierJacobi.uniqueBessel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:42:43.480075+00:00
 -- url     : https://prove2.me/theorems/85dec6bf-f045-44c6-85b0-f9c8235b3245

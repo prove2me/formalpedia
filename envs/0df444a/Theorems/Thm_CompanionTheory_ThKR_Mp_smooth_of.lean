@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_Mp_smooth_of
 -- name    : CompanionTheory.ThKR.Mp.smooth_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:28:49.358549+00:00
 -- url     : https://prove2.me/theorems/367adc66-7e7b-441d-a9a7-b3039934aa55

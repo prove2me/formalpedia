@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_saturatedOrderIsoSubspace_apply
 -- name    : GlobalTheory.saturatedOrderIsoSubspace_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:20:32.098376+00:00
 -- url     : https://prove2.me/theorems/0abc7d22-4653-47a2-9853-a697a65c1655

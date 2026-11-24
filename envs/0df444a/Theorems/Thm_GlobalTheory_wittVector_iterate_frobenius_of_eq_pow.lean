@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_wittVector_iterate_frobenius_of_eq_pow
 -- name    : GlobalTheory.wittVector_iterate_frobenius_of_eq_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:25:05.245313+00:00
 -- url     : https://prove2.me/theorems/33f230e3-84f2-4905-9a1e-844a3645a474

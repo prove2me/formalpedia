@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_fourierCoeff_unitCube_translate_of_entire_periodic
 -- name    : GlobalTheory.fourierCoeff_unitCube_translate_of_entire_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:23:46.979734+00:00
 -- url     : https://prove2.me/theorems/51ebdfe1-5e73-4eda-a527-668ab3598080

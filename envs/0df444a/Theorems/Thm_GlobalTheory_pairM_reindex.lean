@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_pairM_reindex
 -- name    : GlobalTheory.pairM_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:13:08.192969+00:00
 -- url     : https://prove2.me/theorems/45e59575-b0bc-4380-841b-cd6f3247026e

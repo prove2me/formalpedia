@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_trace_pi_fin_self
 -- name    : GlobalTheory.trace_pi_fin_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:23:25.374952+00:00
 -- url     : https://prove2.me/theorems/800ed212-1d55-4eb2-b1da-2d6faa14fef0

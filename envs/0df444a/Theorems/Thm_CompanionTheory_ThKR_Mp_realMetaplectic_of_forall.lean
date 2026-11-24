@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_Mp_realMetaplectic_of_forall
 -- name    : CompanionTheory.ThKR.Mp.realMetaplectic_of_forall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:11:42.682224+00:00
 -- url     : https://prove2.me/theorems/bba714a1-cac5-4475-af0c-dcf07efb7d97

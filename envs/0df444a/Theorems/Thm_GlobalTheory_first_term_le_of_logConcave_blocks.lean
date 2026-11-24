@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_first_term_le_of_logConcave_blocks
 -- name    : GlobalTheory.first_term_le_of_logConcave_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:50:41.482848+00:00
 -- url     : https://prove2.me/theorems/88f66aa2-cea4-487b-abf7-c8b8869d316c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_relIndex_dualSubmodule
 -- name    : GlobalTheory.relIndex_dualSubmodule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:16:35.83223+00:00
 -- url     : https://prove2.me/theorems/e86039c4-00d9-4991-bd02-67b40c15dc94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_schur_proportional_of_range_le
 -- name    : GlobalTheory.schur_proportional_of_range_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:20:33.071325+00:00
 -- url     : https://prove2.me/theorems/7cbf3fa4-0200-4f4c-a218-1cb4e79b71ce

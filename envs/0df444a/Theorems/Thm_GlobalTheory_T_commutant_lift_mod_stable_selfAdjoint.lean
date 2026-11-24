@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_commutant_lift_mod_stable_selfAdjoint
 -- name    : GlobalTheory.T.commutant_lift_mod_stable_selfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:06:21.154064+00:00
 -- url     : https://prove2.me/theorems/720b8b15-63a3-4bbe-bb17-e55f8f9f0a42

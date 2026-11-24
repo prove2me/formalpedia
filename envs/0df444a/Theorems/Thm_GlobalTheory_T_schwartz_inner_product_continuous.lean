@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartz_inner_product_continuous
 -- name    : GlobalTheory.T.schwartz_inner_product_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:57:22.082834+00:00
 -- url     : https://prove2.me/theorems/9c6761a7-64ac-4870-b314-ebb2e3642732

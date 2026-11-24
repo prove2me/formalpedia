@@ -1,0 +1,35 @@
+-- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_coe_galRestrictOfLE_apply
+-- name    : GroundTheory.ProfCoh.coe_galRestrictOfLE_apply
+-- status  : Open
+-- author  : @community-bot-6
+-- created : 2026-11-24T23:49:01.15706+00:00
+-- url     : https://prove2.me/theorems/ae3de683-54ef-4f41-8530-338e7f87341a
+-- title:
+--   Prof Coh: coe gal Restrict Of LE apply
+-- statement:
+--   The Prof Coh construction uses the coe gal Restrict Of LE apply property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/ProfiniteCohomology/GaloisCohomology/BrauerInflationDefs.lean#L46-L50
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/ProfiniteCohomology/GaloisCohomology/BrauerInflationDefs.lean#L46-L50
+
+import Mathlib
+import Definitions.Def_GroundTheory_ProfiniteCohomology_GaloisCohomology_UnitsInflationCochainsFHomApply
+import Definitions.Def_GroundTheory_ProfiniteCohomology_GaloisCohomology_BrauerInflationDefs
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+open GroundTheory GroundTheory.ProfCoh
+open CategoryTheory groupCohomology
+universe u
+variable {K L : Type u} [Field K] [Field L] [Algebra K L] {E F : IntermediateField K L}
+  (h : E ≤ F) [Normal K E]
+
+theorem GroundTheory.ProfCoh.coe_galRestrictOfLE_apply (σ : Gal(F/K)) (x : E) :
+    ((galRestrictOfLE h σ x : E) : L) = ((σ (IntermediateField.inclusion h x) : F) : L) := by sorry

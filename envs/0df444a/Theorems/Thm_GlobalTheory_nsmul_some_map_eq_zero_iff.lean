@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_nsmul_some_map_eq_zero_iff
 -- name    : GlobalTheory.nsmul_some_map_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:13:14.421826+00:00
 -- url     : https://prove2.me/theorems/4b34cc0e-855b-41a0-975c-f3198b4dd1e1

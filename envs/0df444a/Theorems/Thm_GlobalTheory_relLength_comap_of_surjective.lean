@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_relLength_comap_of_surjective
 -- name    : GlobalTheory.relLength_comap_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:16:20.097688+00:00
 -- url     : https://prove2.me/theorems/d8e39f27-a35e-4968-bd7b-0e501448342f

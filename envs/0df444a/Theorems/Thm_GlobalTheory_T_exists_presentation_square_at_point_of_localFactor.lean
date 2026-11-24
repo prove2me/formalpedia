@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_presentation_square_at_point_of_localFactor
 -- name    : GlobalTheory.T.exists_presentation_square_at_point_of_localFactor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:38:11.752893+00:00
 -- url     : https://prove2.me/theorems/f10a8f45-a014-454c-a8ac-b682456289bf

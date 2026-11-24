@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_lift_of_trace_dual_element
 -- name    : GlobalTheory.T.exists_lift_of_trace_dual_element
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:36:37.281804+00:00
 -- url     : https://prove2.me/theorems/1f738072-caf5-4ec0-ac96-5ba7ca39caed

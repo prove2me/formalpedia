@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_minkowski_det_bound_posDef
 -- name    : GlobalTheory.minkowski_det_bound_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:11:18.394183+00:00
 -- url     : https://prove2.me/theorems/858d05e0-dab2-41eb-8073-9780bda24f74

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothDescent_flat_of_formallySmooth_of_essFiniteType
 -- name    : GlobalTheory.SmoothDescent.flat_of_formallySmooth_of_essFiniteType
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:15:29.757646+00:00
 -- url     : https://prove2.me/theorems/2da8af08-5b10-4e4d-85de-1f9ace8e1c1b

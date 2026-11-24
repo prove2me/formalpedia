@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_exists_rational_approx_after_adele_linear
 -- name    : GlobalTheory.UnRep.exists_rational_approx_after_adele_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:24:45.596315+00:00
 -- url     : https://prove2.me/theorems/0b8c045f-df4c-4ac4-abac-80731535d890

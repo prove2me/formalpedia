@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_riemannForm_bijective_of_weilNondeg
 -- name    : GlobalTheory.riemannForm_bijective_of_weilNondeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:16:20.246381+00:00
 -- url     : https://prove2.me/theorems/46145ba5-eef8-4f83-bc9d-f7c5258bd6a1

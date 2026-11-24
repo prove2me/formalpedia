@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sq_intervalIntegral_le_mul_intervalIntegral_sq
 -- name    : GlobalTheory.sq_intervalIntegral_le_mul_intervalIntegral_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:21:32.609398+00:00
 -- url     : https://prove2.me/theorems/821e6071-bee0-48d0-8bbc-31cfb9b5b4e9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_Mp_sp_rel
 -- name    : CompanionTheory.ThKR.Mp.sp_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:18:04.287894+00:00
 -- url     : https://prove2.me/theorems/712202a2-d3d7-404c-aa36-16b6643401ad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_unitary_transitive_of_norm
 -- name    : GlobalTheory.unitary_transitive_of_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:24:22.679895+00:00
 -- url     : https://prove2.me/theorems/dec26e81-364c-4080-a84d-5d8ba458c7b8

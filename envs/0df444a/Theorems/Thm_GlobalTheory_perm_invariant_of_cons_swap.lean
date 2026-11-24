@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_perm_invariant_of_cons_swap
 -- name    : GlobalTheory.perm_invariant_of_cons_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:13:56.350823+00:00
 -- url     : https://prove2.me/theorems/8dec2139-9f80-4c83-aae5-775493e095a7

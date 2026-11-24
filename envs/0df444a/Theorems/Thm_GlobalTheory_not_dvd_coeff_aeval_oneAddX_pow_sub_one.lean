@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_not_dvd_coeff_aeval_oneAddX_pow_sub_one
 -- name    : GlobalTheory.not_dvd_coeff_aeval_oneAddX_pow_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:12:44.608993+00:00
 -- url     : https://prove2.me/theorems/3f55da12-30a6-48c7-9dd2-015654ca0b98

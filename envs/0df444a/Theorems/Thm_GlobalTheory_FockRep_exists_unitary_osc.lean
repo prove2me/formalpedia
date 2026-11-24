@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FockRep_exists_unitary_osc
 -- name    : GlobalTheory.FockRep.exists_unitary_osc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:00.4488+00:00
 -- url     : https://prove2.me/theorems/e12973b7-f4bd-4943-947d-12898fec1e9a

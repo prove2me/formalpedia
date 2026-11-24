@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_volume_le_mul_volume_image_of_expanding
 -- name    : GlobalTheory.volume_le_mul_volume_image_of_expanding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:24:48.781857+00:00
 -- url     : https://prove2.me/theorems/3127c179-d77c-4303-92e8-bebe906dc4ec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_differentiableOn_quotient_of_differentiableOn_slice
 -- name    : GlobalTheory.differentiableOn_quotient_of_differentiableOn_slice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:58:30.309374+00:00
 -- url     : https://prove2.me/theorems/0abc9a3b-470b-478c-905e-9a51263fb365

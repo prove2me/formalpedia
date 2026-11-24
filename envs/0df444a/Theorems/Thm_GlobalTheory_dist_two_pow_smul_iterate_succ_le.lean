@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dist_two_pow_smul_iterate_succ_le
 -- name    : GlobalTheory.dist_two_pow_smul_iterate_succ_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:02:17.104803+00:00
 -- url     : https://prove2.me/theorems/6f6ed55b-f675-4cd2-a67d-c0c6fc959e6e

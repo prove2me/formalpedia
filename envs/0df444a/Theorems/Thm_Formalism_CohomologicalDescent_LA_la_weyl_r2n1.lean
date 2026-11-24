@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_la_weyl_r2n1
 -- name    : Formalism.CohomologicalDescent.LA.la_weyl_r2n1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:49:40.474795+00:00
 -- url     : https://prove2.me/theorems/726edf8a-d845-43fa-b5d2-3373bbc7de4d

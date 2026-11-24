@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dvd_of_forall_height_eq_one
 -- name    : GlobalTheory.dvd_of_forall_height_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:47:01.671705+00:00
 -- url     : https://prove2.me/theorems/d2b09fe7-ae37-4a68-81b0-6b1663292610

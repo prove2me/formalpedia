@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_ShortWeightBounds_kc_cast_le_k
 -- name    : Formalism.CohomologicalDescent.ShortWeightBounds.kc_cast_le_k
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:27:30.489891+00:00
 -- url     : https://prove2.me/theorems/8bd66e7c-55a0-4b62-9b59-a2a3ea7867d7

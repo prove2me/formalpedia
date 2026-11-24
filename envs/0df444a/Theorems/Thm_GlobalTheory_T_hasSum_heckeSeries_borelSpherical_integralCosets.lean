@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hasSum_heckeSeries_borelSpherical_integralCosets
 -- name    : GlobalTheory.T.hasSum_heckeSeries_borelSpherical_integralCosets
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:44:29.097997+00:00
 -- url     : https://prove2.me/theorems/ff899c07-8012-4747-bd6a-6910d555fb0d

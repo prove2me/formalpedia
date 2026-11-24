@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_trace_tower_et
 -- name    : GlobalTheory.trace_tower_et
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:23:55.029934+00:00
 -- url     : https://prove2.me/theorems/1478c091-2f1d-4cd8-a549-dba41b2269ed

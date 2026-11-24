@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_fintypeCard_degree_le
 -- name    : GlobalTheory.fintypeCard_degree_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:50:51.523734+00:00
 -- url     : https://prove2.me/theorems/41dad8e5-356b-49b5-ab63-d0b2cc37a973

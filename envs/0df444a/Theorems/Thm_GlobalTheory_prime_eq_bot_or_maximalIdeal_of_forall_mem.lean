@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_prime_eq_bot_or_maximalIdeal_of_forall_mem
 -- name    : GlobalTheory.prime_eq_bot_or_maximalIdeal_of_forall_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:15:22.373955+00:00
 -- url     : https://prove2.me/theorems/69190e3c-016d-4e44-b494-c90b88a299d0

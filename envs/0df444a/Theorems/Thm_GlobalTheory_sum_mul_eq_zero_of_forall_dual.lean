@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_mul_eq_zero_of_forall_dual
 -- name    : GlobalTheory.sum_mul_eq_zero_of_forall_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:23:12.682565+00:00
 -- url     : https://prove2.me/theorems/c33f2832-d752-47ed-80ac-4f56fccc1806

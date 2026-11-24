@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_la_nabla_r2n2
 -- name    : Formalism.CohomologicalDescent.LA.la_nabla_r2n2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:50:03.247063+00:00
 -- url     : https://prove2.me/theorems/38deade3-bf1b-4c23-9ea8-338608d82fbc

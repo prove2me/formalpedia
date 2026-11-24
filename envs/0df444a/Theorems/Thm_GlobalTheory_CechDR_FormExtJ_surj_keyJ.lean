@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_FormExtJ_surj_keyJ
 -- name    : GlobalTheory.CechDR.FormExtJ.surj_keyJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:59:54.072869+00:00
 -- url     : https://prove2.me/theorems/3bddccea-f5af-4d70-9c1f-acef0965e7b8

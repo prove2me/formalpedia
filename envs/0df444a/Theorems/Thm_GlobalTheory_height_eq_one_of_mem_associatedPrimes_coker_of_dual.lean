@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_height_eq_one_of_mem_associatedPrimes_coker_of_dual
 -- name    : GlobalTheory.height_eq_one_of_mem_associatedPrimes_coker_of_dual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:53:38.982869+00:00
 -- url     : https://prove2.me/theorems/dacf9e3c-eedd-4c09-9472-3e0b50baac32

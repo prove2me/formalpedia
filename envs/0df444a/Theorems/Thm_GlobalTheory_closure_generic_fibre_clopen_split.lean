@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_closure_generic_fibre_clopen_split
 -- name    : GlobalTheory.closure_generic_fibre_clopen_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:08:33.418143+00:00
 -- url     : https://prove2.me/theorems/c46a4c42-0670-4fc1-a143-de5975b4a0f7

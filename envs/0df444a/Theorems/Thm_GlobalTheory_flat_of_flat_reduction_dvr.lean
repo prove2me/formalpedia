@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_of_flat_reduction_dvr
 -- name    : GlobalTheory.flat_of_flat_reduction_dvr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:52:06.074311+00:00
 -- url     : https://prove2.me/theorems/3288e0e3-7c71-4709-ba0d-f3b870e1d34d

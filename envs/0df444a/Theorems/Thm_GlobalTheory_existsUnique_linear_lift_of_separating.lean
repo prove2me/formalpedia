@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_linear_lift_of_separating
 -- name    : GlobalTheory.existsUnique_linear_lift_of_separating
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:29:29.993276+00:00
 -- url     : https://prove2.me/theorems/366c942a-b0e3-4496-8460-88db10f428c1

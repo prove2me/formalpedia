@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_dualOE_xcFD_one_iff_of_adapted
 -- name    : GlobalTheory.mem_dualOE_xcFD_one_iff_of_adapted
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:14:08.581045+00:00
 -- url     : https://prove2.me/theorems/65878098-0c88-4155-a89d-8da812fa8952

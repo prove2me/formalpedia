@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_universallyClosed_of_jointly_surjective
 -- name    : GlobalTheory.universallyClosed_of_jointly_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:24:47.388305+00:00
 -- url     : https://prove2.me/theorems/7d7300d7-1b69-4ba7-944b-953f838790a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_polyChart_clear
 -- name    : GlobalTheory.polyChart_clear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:14:02.551175+00:00
 -- url     : https://prove2.me/theorems/1715bbd3-fb84-47af-b87e-f0b57c97eea6

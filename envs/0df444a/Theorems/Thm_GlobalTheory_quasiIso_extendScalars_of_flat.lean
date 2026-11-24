@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_quasiIso_extendScalars_of_flat
 -- name    : GlobalTheory.quasiIso_extendScalars_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:14:37.483998+00:00
 -- url     : https://prove2.me/theorems/d5fc6218-6d7a-4ce6-8aec-4854b49694f5

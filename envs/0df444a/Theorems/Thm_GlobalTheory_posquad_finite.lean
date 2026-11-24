@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_posquad_finite
 -- name    : GlobalTheory.posquad_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:13:57.076869+00:00
 -- url     : https://prove2.me/theorems/b8884453-566f-415b-b632-0dc96f4a247c

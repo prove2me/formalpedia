@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_valuation_eq_exp_neg_ordAtIdeal
 -- name    : GroundTheory.Arith.Abelian.valuation_eq_exp_neg_ordAtIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:27:03.7619+00:00
 -- url     : https://prove2.me/theorems/6c4be9e2-961d-4617-8de3-9e594b9a28e7

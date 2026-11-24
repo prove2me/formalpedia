@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_WtGen_subring_eq_top
 -- name    : GlobalTheory.ZH.WtGen.subring_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:03:11.224707+00:00
 -- url     : https://prove2.me/theorems/2dc49ffa-7df2-41d3-9afa-7b2868b6ac48

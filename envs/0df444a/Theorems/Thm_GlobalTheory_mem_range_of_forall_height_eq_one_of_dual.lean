@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_range_of_forall_height_eq_one_of_dual
 -- name    : GlobalTheory.mem_range_of_forall_height_eq_one_of_dual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:56:28.397717+00:00
 -- url     : https://prove2.me/theorems/cddd5d6e-3159-4670-a4a7-c6ca18d2deb9

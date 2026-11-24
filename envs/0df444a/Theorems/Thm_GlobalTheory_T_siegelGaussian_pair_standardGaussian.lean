@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_siegelGaussian_pair_standardGaussian
 -- name    : GlobalTheory.T.siegelGaussian_pair_standardGaussian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:57:47.540345+00:00
 -- url     : https://prove2.me/theorems/2257ea3e-99e8-445b-b845-20d9f80882f0

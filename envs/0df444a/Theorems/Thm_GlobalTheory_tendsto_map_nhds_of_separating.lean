@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tendsto_map_nhds_of_separating
 -- name    : GlobalTheory.tendsto_map_nhds_of_separating
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:24:36.538667+00:00
 -- url     : https://prove2.me/theorems/5e6ce089-0a5b-4e43-8b56-bc0a4d2df774

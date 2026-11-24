@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_LocalizingAction_act_zero
 -- name    : GroundTheory.Arith.SchemeCoh.LocalizingAction.act_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:28:14.216826+00:00
 -- url     : https://prove2.me/theorems/f8b6b1fd-5264-419f-ba3a-e00b0ef22507

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sesq_rules_of_combination
 -- name    : GlobalTheory.sesq_rules_of_combination
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:20:30.041134+00:00
 -- url     : https://prove2.me/theorems/fe190b3b-0f32-4d20-abe5-134ce03a2ed7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_sc_eventually_eq_one
 -- name    : GlobalTheory.KSp.sc_eventually_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:08:03.079075+00:00
 -- url     : https://prove2.me/theorems/ecd60120-d5ac-448d-80e6-883e0e059607

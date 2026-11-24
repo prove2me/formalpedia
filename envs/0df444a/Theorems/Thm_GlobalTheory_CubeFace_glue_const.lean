@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeFace_glue_const
 -- name    : GlobalTheory.CubeFace.glue_const
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:59:21.851813+00:00
 -- url     : https://prove2.me/theorems/f945fd55-6fb5-4811-9cc4-0e591d6fb8b8

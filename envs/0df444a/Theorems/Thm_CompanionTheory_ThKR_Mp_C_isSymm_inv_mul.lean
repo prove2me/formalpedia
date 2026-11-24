@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_Mp_C_isSymm_inv_mul
 -- name    : CompanionTheory.ThKR.Mp.C.isSymm_inv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:18:59.166864+00:00
 -- url     : https://prove2.me/theorems/ac746a72-7280-4020-9748-8e1b63f47d3b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_zpow_prod_div_conj_of_continuous_trivial_on_real
 -- name    : GlobalTheory.T.exists_zpow_prod_div_conj_of_continuous_trivial_on_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:39:34.077998+00:00
 -- url     : https://prove2.me/theorems/cfefe47b-e666-4a84-99b8-e91db3dc5d6c

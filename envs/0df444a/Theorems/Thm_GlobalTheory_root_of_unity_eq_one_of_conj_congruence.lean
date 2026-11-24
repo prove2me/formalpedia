@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_root_of_unity_eq_one_of_conj_congruence
 -- name    : GlobalTheory.root_of_unity_eq_one_of_conj_congruence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:19:18.455188+00:00
 -- url     : https://prove2.me/theorems/9d3c71e9-6b18-47cd-a191-08d750a8247c

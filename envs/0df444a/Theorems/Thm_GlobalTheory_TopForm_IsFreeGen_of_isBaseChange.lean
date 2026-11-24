@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TopForm_IsFreeGen_of_isBaseChange
 -- name    : GlobalTheory.TopForm.IsFreeGen.of_isBaseChange
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:03:26.662079+00:00
 -- url     : https://prove2.me/theorems/9731a404-2664-438c-bcae-cb42706ec4dc

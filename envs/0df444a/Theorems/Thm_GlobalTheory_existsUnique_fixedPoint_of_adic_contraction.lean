@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_fixedPoint_of_adic_contraction
 -- name    : GlobalTheory.existsUnique_fixedPoint_of_adic_contraction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:29:43.475392+00:00
 -- url     : https://prove2.me/theorems/b35fd56b-a755-4c1f-874b-2f985552134e

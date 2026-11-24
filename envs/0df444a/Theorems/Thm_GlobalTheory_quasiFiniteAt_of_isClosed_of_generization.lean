@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_quasiFiniteAt_of_isClosed_of_generization
 -- name    : GlobalTheory.quasiFiniteAt_of_isClosed_of_generization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:15:49.005327+00:00
 -- url     : https://prove2.me/theorems/6dd4c782-15fd-423f-82d6-fc353081955a

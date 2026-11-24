@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_fTerm_deriv_summable_bound
 -- name    : GlobalTheory.HeckeTwo.fTerm_deriv_summable_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:08:34.92238+00:00
 -- url     : https://prove2.me/theorems/26731c3f-f96a-403e-96b9-5fcb9debf1e4

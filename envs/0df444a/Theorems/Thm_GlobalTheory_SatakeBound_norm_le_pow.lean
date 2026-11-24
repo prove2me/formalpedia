@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeBound_norm_le_pow
 -- name    : GlobalTheory.SatakeBound.norm_le_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:45:13.923571+00:00
 -- url     : https://prove2.me/theorems/5b37a035-e8bf-4940-ae12-c8cb725a2e88

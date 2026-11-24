@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_quaternion_normOne_re_open_near_of_isUnit
 -- name    : GlobalTheory.T.quaternion_normOne_re_open_near_of_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:56:55.415973+00:00
 -- url     : https://prove2.me/theorems/d32b5fe5-d7fd-4043-9425-42b31b94474e

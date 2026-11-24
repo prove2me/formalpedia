@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_le_saturation_iff_finrank_eq
 -- name    : GlobalTheory.le_saturation_iff_finrank_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:02:11.70585+00:00
 -- url     : https://prove2.me/theorems/8a5a9503-58bf-4442-b1e2-aa043c2aaa0c

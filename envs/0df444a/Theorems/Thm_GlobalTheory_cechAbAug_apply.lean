@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cechAbAug_apply
 -- name    : GlobalTheory.cechAbAug_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:27:42.093857+00:00
 -- url     : https://prove2.me/theorems/27b54965-0f58-41e8-8d4d-cdf68b99d74d

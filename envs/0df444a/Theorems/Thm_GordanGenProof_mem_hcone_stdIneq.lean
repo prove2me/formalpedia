@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GordanGenProof_mem_hcone_stdIneq
 -- name    : GordanGenProof.mem_hcone_stdIneq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:25:47.911654+00:00
 -- url     : https://prove2.me/theorems/1eb7319d-9d3f-487a-b763-76494a09a2a2

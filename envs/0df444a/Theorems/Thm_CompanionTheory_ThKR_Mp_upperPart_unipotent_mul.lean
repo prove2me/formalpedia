@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_Mp_upperPart_unipotent_mul
 -- name    : CompanionTheory.ThKR.Mp.upperPart_unipotent_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:17:12.464286+00:00
 -- url     : https://prove2.me/theorems/338fd20d-e47c-4c53-8cfd-7a5898c860c8

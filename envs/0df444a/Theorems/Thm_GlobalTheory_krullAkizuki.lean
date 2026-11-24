@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_krullAkizuki
 -- name    : GlobalTheory.krullAkizuki
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:52:25.100737+00:00
 -- url     : https://prove2.me/theorems/8525b2ee-92ed-46b5-af57-1b34449a6926

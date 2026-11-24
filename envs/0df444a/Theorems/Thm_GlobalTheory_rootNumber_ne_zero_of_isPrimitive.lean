@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_rootNumber_ne_zero_of_isPrimitive
 -- name    : GlobalTheory.rootNumber_ne_zero_of_isPrimitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:18:49.178798+00:00
 -- url     : https://prove2.me/theorems/2f083e79-85a6-434b-9499-fcb0f114754f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hilbertDegree_eq_zero_iff
 -- name    : GlobalTheory.hilbertDegree_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:55:01.31392+00:00
 -- url     : https://prove2.me/theorems/c10bd314-1e4f-483f-a69f-ba5ae3ea6020

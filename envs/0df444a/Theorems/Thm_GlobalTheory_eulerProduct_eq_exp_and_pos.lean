@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eulerProduct_eq_exp_and_pos
 -- name    : GlobalTheory.eulerProduct_eq_exp_and_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:28:14.008792+00:00
 -- url     : https://prove2.me/theorems/e99cadfc-414a-48ef-ae27-a7dec623b588

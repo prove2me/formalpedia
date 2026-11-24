@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lift_hasSum_zero_of_surjective_mod_prime
 -- name    : GlobalTheory.T.lift_hasSum_zero_of_surjective_mod_prime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:43.365559+00:00
 -- url     : https://prove2.me/theorems/f3697f6f-5506-4e96-a5d5-ce1d1c098e68

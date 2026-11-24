@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_generator_diag_monomial
 -- name    : Formalism.CohomologicalDescent.LD.generator_diag_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:06:24.716792+00:00
 -- url     : https://prove2.me/theorems/b0b0f377-590b-463a-8325-ac196ed20d8b

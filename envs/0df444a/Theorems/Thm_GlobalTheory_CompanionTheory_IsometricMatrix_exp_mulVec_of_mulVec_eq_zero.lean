@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_IsometricMatrix_exp_mulVec_of_mulVec_eq_zero
 -- name    : GlobalTheory.CompanionTheory.IsometricMatrix.exp_mulVec_of_mulVec_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:48:30.661876+00:00
 -- url     : https://prove2.me/theorems/ad984e11-87a6-4f4f-8904-158a88a49ea0

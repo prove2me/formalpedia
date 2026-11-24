@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mvEvalAdic_coe
 -- name    : GlobalTheory.mvEvalAdic_coe
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:51:03.855372+00:00
 -- url     : https://prove2.me/theorems/c3fffe19-6db0-45d3-a41a-09399bd924c1

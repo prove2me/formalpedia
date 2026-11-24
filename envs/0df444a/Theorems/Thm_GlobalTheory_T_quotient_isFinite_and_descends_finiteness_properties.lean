@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_quotient_isFinite_and_descends_finiteness_properties
 -- name    : GlobalTheory.T.quotient_isFinite_and_descends_finiteness_properties
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:56:39.068424+00:00
 -- url     : https://prove2.me/theorems/525e9933-e59d-491f-8cdb-c1eb62c12dc5

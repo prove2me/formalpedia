@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_map_mem_HHa
 -- name    : GlobalTheory.map_mem_HHa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:09:59.514971+00:00
 -- url     : https://prove2.me/theorems/1e3ce24b-98a0-47e6-9881-d74f4c83b320

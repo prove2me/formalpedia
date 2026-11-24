@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isHomogeneous_span_gr
 -- name    : GlobalTheory.isHomogeneous_span_gr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:19:57.801815+00:00
 -- url     : https://prove2.me/theorems/3518955d-440f-4613-bb8a-7edd39b9a3f8

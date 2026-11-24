@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SignedLengthOrdFracDet_relLength_chain
 -- name    : GlobalTheory.SignedLengthOrdFracDet.relLength_chain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:12:50.96393+00:00
 -- url     : https://prove2.me/theorems/0f138de0-1e8a-4a76-ab77-72ca0600c2c5

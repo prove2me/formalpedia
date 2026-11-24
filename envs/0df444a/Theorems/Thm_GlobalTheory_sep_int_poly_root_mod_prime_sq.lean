@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sep_int_poly_root_mod_prime_sq
 -- name    : GlobalTheory.sep_int_poly_root_mod_prime_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:20:43.726306+00:00
 -- url     : https://prove2.me/theorems/09fe2d45-6a72-4eb4-a6b2-d2613d6c9554

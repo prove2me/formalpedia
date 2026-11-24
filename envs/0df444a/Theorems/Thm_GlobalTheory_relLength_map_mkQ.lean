@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_relLength_map_mkQ
 -- name    : GlobalTheory.relLength_map_mkQ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:16:48.319294+00:00
 -- url     : https://prove2.me/theorems/24c82925-376c-4eed-ac93-30608ff5a2b9

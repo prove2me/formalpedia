@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_qdet_polyMap_monic
 -- name    : GlobalTheory.qdet_polyMap_monic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:32:03.387799+00:00
 -- url     : https://prove2.me/theorems/e53b15eb-53a1-423f-b99c-f68ef02d29a1

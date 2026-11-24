@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_map_subtype_saturation_eq_inf_span
 -- name    : GlobalTheory.map_subtype_saturation_eq_inf_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:09:35.620803+00:00
 -- url     : https://prove2.me/theorems/3aa0040a-cdce-42c6-b11b-23a833072fe2

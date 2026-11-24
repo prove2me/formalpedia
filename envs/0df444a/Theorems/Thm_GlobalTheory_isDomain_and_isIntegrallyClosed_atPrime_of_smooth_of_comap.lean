@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isDomain_and_isIntegrallyClosed_atPrime_of_smooth_of_comap
 -- name    : GlobalTheory.isDomain_and_isIntegrallyClosed_atPrime_of_smooth_of_comap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:52:20.678071+00:00
 -- url     : https://prove2.me/theorems/cd5c379a-82d4-447b-ac50-6617545d0a0d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatFactor_UpStage_translate_law
 -- name    : GlobalTheory.FlatFactor.UpStage.translate_law
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:05:03.214719+00:00
 -- url     : https://prove2.me/theorems/a1e3758b-c83a-4a35-9290-f4b028938b36

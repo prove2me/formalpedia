@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ph_a_basis
 -- name    : GlobalTheory.ph_a_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:13:57.805787+00:00
 -- url     : https://prove2.me/theorems/91bd696e-d981-43e6-b490-a9afb056821f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_linearMap_kills_partialEvalIntegralKernel_of_laws
 -- name    : GlobalTheory.T.linearMap_kills_partialEvalIntegralKernel_of_laws
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:47:56.817804+00:00
 -- url     : https://prove2.me/theorems/237556f2-11fb-4782-b6b8-1619fd358688

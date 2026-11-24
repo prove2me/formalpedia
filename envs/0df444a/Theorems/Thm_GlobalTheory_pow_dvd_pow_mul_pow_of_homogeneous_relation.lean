@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_pow_dvd_pow_mul_pow_of_homogeneous_relation
 -- name    : GlobalTheory.pow_dvd_pow_mul_pow_of_homogeneous_relation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:14:14.101528+00:00
 -- url     : https://prove2.me/theorems/9b90d08b-7fa0-407e-939b-cb999f2daade

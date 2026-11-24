@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_posDef_exists_invertible_conjTranspose_mul_self
 -- name    : GlobalTheory.posDef_exists_invertible_conjTranspose_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:14:09.160836+00:00
 -- url     : https://prove2.me/theorems/ce52faa4-67c2-46af-8772-d19ea68f91fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sval_eq_zero_of_faithfullyFlat_base
 -- name    : GlobalTheory.sval_eq_zero_of_faithfullyFlat_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:22:46.323399+00:00
 -- url     : https://prove2.me/theorems/45aa02f3-819f-4359-bce0-859bf7d8bf8e

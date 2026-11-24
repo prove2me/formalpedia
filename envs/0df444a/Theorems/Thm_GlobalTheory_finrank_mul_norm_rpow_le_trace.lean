@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finrank_mul_norm_rpow_le_trace
 -- name    : GlobalTheory.finrank_mul_norm_rpow_le_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:50:45.191798+00:00
 -- url     : https://prove2.me/theorems/7d77b6d4-096e-4af0-a6d3-aaa667029e72

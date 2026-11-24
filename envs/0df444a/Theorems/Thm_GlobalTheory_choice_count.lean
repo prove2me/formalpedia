@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_choice_count
 -- name    : GlobalTheory.choice_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:07:40.158108+00:00
 -- url     : https://prove2.me/theorems/9da5870c-7777-4c03-b132-34cc811b0276

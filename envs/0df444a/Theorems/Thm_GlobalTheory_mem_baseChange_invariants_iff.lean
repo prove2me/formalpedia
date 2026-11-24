@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_baseChange_invariants_iff
 -- name    : GlobalTheory.mem_baseChange_invariants_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:11:40.244183+00:00
 -- url     : https://prove2.me/theorems/d0271b8f-cad8-418d-a953-9c8e42a801e6

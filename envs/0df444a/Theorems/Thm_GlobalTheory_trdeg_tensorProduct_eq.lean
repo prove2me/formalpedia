@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_trdeg_tensorProduct_eq
 -- name    : GlobalTheory.trdeg_tensorProduct_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:23:45.873254+00:00
 -- url     : https://prove2.me/theorems/688568c0-3c7d-4c23-86a3-0e639301ca3c

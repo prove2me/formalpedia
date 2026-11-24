@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_map_liftPoint_genericPoint
 -- name    : GroundTheory.Arith.Abelian.map_liftPoint_genericPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:25:44.653293+00:00
 -- url     : https://prove2.me/theorems/5a92bd95-1944-4f64-9058-282580c258c1

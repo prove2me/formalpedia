@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_nval_eq_of_extension
 -- name    : GlobalTheory.nval_eq_of_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:13:25.664814+00:00
 -- url     : https://prove2.me/theorems/6b958e5b-90bc-4272-8d45-72ad810dacd9

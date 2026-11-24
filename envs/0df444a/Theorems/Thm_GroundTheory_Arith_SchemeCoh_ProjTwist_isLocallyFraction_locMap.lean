@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjTwist_isLocallyFraction_locMap
 -- name    : GroundTheory.Arith.SchemeCoh.ProjTwist.isLocallyFraction_locMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:28:53.028141+00:00
 -- url     : https://prove2.me/theorems/975dac08-9738-420c-8444-34f4f0a4fe12

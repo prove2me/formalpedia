@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowSpan_RowStable_exists_top
 -- name    : GlobalTheory.RowSpan.RowStable.exists_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:32:21.988007+00:00
 -- url     : https://prove2.me/theorems/f413c548-f5cb-4bd5-8bdf-0d3a3fdd2fae

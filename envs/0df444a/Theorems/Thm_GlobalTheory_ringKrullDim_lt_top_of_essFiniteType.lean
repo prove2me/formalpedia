@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ringKrullDim_lt_top_of_essFiniteType
 -- name    : GlobalTheory.ringKrullDim_lt_top_of_essFiniteType
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:18:54.192634+00:00
 -- url     : https://prove2.me/theorems/958b326b-4d6a-4d08-b9b8-4345d5b1a39e

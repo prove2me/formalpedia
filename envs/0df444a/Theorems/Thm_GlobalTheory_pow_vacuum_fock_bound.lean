@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_pow_vacuum_fock_bound
 -- name    : GlobalTheory.pow_vacuum_fock_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:14:42.987902+00:00
 -- url     : https://prove2.me/theorems/157938b4-ae1a-4b28-8e0a-3489a6cbcea1

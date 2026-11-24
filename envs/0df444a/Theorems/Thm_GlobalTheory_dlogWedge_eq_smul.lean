@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dlogWedge_eq_smul
 -- name    : GlobalTheory.dlogWedge_eq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:12:50.991883+00:00
 -- url     : https://prove2.me/theorems/93af00b2-dab7-4172-9003-bab3dd93a914

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_weierstrassP_add_of_ne_of_deriv_ne_zero
 -- name    : GlobalTheory.weierstrassP_add_of_ne_of_deriv_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:24:48.411843+00:00
 -- url     : https://prove2.me/theorems/b35e0a0f-bb89-490a-9ad7-e54c130c91cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_repr_tensorCoeffs
 -- name    : GlobalTheory.repr_tensorCoeffs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:16:07.384239+00:00
 -- url     : https://prove2.me/theorems/377bfadd-95dc-47fe-a77d-670902beef2c

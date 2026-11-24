@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_witt_free_tuples_fin
 -- name    : GlobalTheory.witt_free_tuples_fin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:25:20.159675+00:00
 -- url     : https://prove2.me/theorems/6fab9faf-2daf-4476-a260-41410e595b5c

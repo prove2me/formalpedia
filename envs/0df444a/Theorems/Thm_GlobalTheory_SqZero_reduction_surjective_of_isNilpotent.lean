@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_reduction_surjective_of_isNilpotent
 -- name    : GlobalTheory.SqZero.reduction_surjective_of_isNilpotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:56:16.439117+00:00
 -- url     : https://prove2.me/theorems/cb7f5301-bbb0-40d3-b9cc-b69be0d55b67

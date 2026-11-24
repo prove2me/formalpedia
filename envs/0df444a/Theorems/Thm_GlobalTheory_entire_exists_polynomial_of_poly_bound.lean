@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_entire_exists_polynomial_of_poly_bound
 -- name    : GlobalTheory.entire_exists_polynomial_of_poly_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:17:25.895563+00:00
 -- url     : https://prove2.me/theorems/9167ea84-ee6e-4ec0-8b11-9b4c683a5073

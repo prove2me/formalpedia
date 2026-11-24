@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_translationUnit_mul
 -- name    : GlobalTheory.translationUnit_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:23:52.462806+00:00
 -- url     : https://prove2.me/theorems/1af844a6-617c-48aa-9081-82baa84b6b93

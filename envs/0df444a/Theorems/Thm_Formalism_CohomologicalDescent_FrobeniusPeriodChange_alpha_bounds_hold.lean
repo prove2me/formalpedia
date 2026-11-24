@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_FrobeniusPeriodChange_alpha_bounds_hold
 -- name    : Formalism.CohomologicalDescent.FrobeniusPeriodChange.alpha_bounds_hold
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:53:41.580592+00:00
 -- url     : https://prove2.me/theorems/86861a00-85ce-4edd-8388-4c84ae261b82

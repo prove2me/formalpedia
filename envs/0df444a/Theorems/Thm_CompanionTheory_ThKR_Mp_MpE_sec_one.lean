@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_Mp_MpE_sec_one
 -- name    : CompanionTheory.ThKR.Mp.MpE.sec_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:19:07.107801+00:00
 -- url     : https://prove2.me/theorems/7f99c21f-db29-4469-8e97-e7db25e7d570

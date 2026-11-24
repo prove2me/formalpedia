@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_transpose_le_transpose_of_le
 -- name    : GlobalTheory.transpose_le_transpose_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:23:23.069681+00:00
 -- url     : https://prove2.me/theorems/03872fa3-f101-4109-b32e-1e703c3ce662

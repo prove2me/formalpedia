@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isReduced_isNormalScheme_isLocallyNoetherian_of_smooth_over_field
 -- name    : GlobalTheory.isReduced_isNormalScheme_isLocallyNoetherian_of_smooth_over_field
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:35:48.920035+00:00
 -- url     : https://prove2.me/theorems/426ccd54-b9e5-44eb-9331-8828a0f85bb0

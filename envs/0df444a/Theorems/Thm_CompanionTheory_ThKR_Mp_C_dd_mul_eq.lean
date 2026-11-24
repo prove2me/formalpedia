@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_Mp_C_dd_mul_eq
 -- name    : CompanionTheory.ThKR.Mp.C.dd_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:21:11.271073+00:00
 -- url     : https://prove2.me/theorems/03b25fb2-11d1-4aab-bb92-343035fffb65

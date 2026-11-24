@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_upperHalf_prodImPow_contDiffOn
 -- name    : GlobalTheory.upperHalf_prodImPow_contDiffOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:24:47.1585+00:00
 -- url     : https://prove2.me/theorems/53aca28c-4652-48d4-b40a-1fe536374f9e

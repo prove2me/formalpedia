@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_subsingleton_zmod_tensor_torsion
 -- name    : GlobalTheory.subsingleton_zmod_tensor_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:21:19.8098+00:00
 -- url     : https://prove2.me/theorems/b885af3e-1950-4579-8ee4-f09d02abd1bf

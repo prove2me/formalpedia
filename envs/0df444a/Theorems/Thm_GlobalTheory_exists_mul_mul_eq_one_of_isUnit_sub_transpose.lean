@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_mul_mul_eq_one_of_isUnit_sub_transpose
 -- name    : GlobalTheory.exists_mul_mul_eq_one_of_isUnit_sub_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:35:28.919012+00:00
 -- url     : https://prove2.me/theorems/1eb56224-c993-4fdc-bb21-f5c0d041ccf1

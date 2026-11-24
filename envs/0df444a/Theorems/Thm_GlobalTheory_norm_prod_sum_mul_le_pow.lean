@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_norm_prod_sum_mul_le_pow
 -- name    : GlobalTheory.norm_prod_sum_mul_le_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:13:02.34014+00:00
 -- url     : https://prove2.me/theorems/a354e1ee-1eed-4147-9907-d8cde6ad4afc

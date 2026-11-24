@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_schur_proportional
 -- name    : GlobalTheory.schur_proportional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:20:26.231896+00:00
 -- url     : https://prove2.me/theorems/38a952aa-5fa8-42d0-a118-99b15291cdfc

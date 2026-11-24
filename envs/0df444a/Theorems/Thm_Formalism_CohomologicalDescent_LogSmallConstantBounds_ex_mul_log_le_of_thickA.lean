@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_ex_mul_log_le_of_thickA
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.ex_mul_log_le_of_thickA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:43:59.006493+00:00
 -- url     : https://prove2.me/theorems/6f194aed-87d0-4f63-8c60-a650dd6ea238

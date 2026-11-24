@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_traceForm_integral_perfect_of_isUnf
 -- name    : GlobalTheory.traceForm_integral_perfect_of_isUnf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:24:08.238178+00:00
 -- url     : https://prove2.me/theorems/bbbf9456-02d8-4752-bdba-7c8c0a891a17

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_quotientMap_pow_surjective
 -- name    : GlobalTheory.quotientMap_pow_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:15:27.443206+00:00
 -- url     : https://prove2.me/theorems/a7d47fd4-68b4-403b-8d85-5e3362b356ef

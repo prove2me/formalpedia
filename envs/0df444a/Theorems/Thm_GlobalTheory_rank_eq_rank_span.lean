@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_rank_eq_rank_span
 -- name    : GlobalTheory.rank_eq_rank_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:15:00.933798+00:00
 -- url     : https://prove2.me/theorems/7f70427c-f998-4766-87e0-a51467fcb5db

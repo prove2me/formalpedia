@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exchange_eq_finiteTranslateComb_of_level
 -- name    : GlobalTheory.T.exchange_eq_finiteTranslateComb_of_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:32:09.293059+00:00
 -- url     : https://prove2.me/theorems/b1a58025-d4ce-441f-bfee-f82db27af928

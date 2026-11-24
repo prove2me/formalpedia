@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BaseChangeComponents_components
 -- name    : GlobalTheory.BaseChangeComponents.components
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:59:38.494257+00:00
 -- url     : https://prove2.me/theorems/43c38fe2-9fed-454f-acb4-a34ff0c10913

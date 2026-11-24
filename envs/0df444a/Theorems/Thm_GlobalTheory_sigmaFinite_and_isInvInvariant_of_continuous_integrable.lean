@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sigmaFinite_and_isInvInvariant_of_continuous_integrable
 -- name    : GlobalTheory.sigmaFinite_and_isInvInvariant_of_continuous_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:20:17.435086+00:00
 -- url     : https://prove2.me/theorems/17fe5ba5-1e8e-4482-808b-c27491586567

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_pairing_zero_left
 -- name    : GroundTheory.Arith.Abelian.pairing_zero_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:26:43.327281+00:00
 -- url     : https://prove2.me/theorems/184e9889-0d09-455a-87b4-6b37e0a7e65f

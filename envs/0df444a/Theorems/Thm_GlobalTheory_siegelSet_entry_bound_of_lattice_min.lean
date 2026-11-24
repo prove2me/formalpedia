@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_siegelSet_entry_bound_of_lattice_min
 -- name    : GlobalTheory.siegelSet_entry_bound_of_lattice_min
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:20:29.688982+00:00
 -- url     : https://prove2.me/theorems/34e51e19-d85c-49e5-bfa6-3b0caecd959f

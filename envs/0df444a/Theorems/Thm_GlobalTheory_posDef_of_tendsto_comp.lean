@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_posDef_of_tendsto_comp
 -- name    : GlobalTheory.posDef_of_tendsto_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:13:52.246528+00:00
 -- url     : https://prove2.me/theorems/d91b5f69-d25b-4e10-a6c4-398f90c8adf4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LAtZero_exists_regular_part
 -- name    : GlobalTheory.LAtZero.exists_regular_part
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:56:16.232103+00:00
 -- url     : https://prove2.me/theorems/e2107014-7d46-48d7-a225-fa485225d768

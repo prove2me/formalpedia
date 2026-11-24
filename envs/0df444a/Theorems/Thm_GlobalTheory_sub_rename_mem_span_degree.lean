@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sub_rename_mem_span_degree
 -- name    : GlobalTheory.sub_rename_mem_span_degree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:22:24.776892+00:00
 -- url     : https://prove2.me/theorems/5ec56f4d-797d-4d79-bf9f-7c9fb0190668

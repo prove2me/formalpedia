@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_alternating_eq_of_equivalent_factors
 -- name    : GlobalTheory.alternating_eq_of_equivalent_factors
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:12.433141+00:00
 -- url     : https://prove2.me/theorems/2ee23f20-f879-42d9-8157-fad9069a4719

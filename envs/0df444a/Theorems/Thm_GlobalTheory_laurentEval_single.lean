@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_laurentEval_single
 -- name    : GlobalTheory.laurentEval_single
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:48:58.521805+00:00
 -- url     : https://prove2.me/theorems/7fa6c2c1-347a-4be6-a6c1-bc42a583f192

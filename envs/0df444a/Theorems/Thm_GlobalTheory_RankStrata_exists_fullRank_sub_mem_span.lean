@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankStrata_exists_fullRank_sub_mem_span
 -- name    : GlobalTheory.RankStrata.exists_fullRank_sub_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:19:48.786799+00:00
 -- url     : https://prove2.me/theorems/7f1ebe79-f9ef-4026-b8ea-98487a04fd41

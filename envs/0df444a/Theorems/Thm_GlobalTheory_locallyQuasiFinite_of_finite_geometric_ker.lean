@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_locallyQuasiFinite_of_finite_geometric_ker
 -- name    : GlobalTheory.locallyQuasiFinite_of_finite_geometric_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:08:06.79336+00:00
 -- url     : https://prove2.me/theorems/caac01e6-8a0f-4b76-90cc-9957139cc04e

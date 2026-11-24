@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_topologicalKrullDim_preimage_genericPoint_eq
 -- name    : GlobalTheory.topologicalKrullDim_preimage_genericPoint_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:23:37.187033+00:00
 -- url     : https://prove2.me/theorems/d84b7e88-0709-44f1-a35c-ed9edb51d960

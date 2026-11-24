@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinDescent_exists_descent_of_tame
 -- name    : GlobalTheory.LinDescent.exists_descent_of_tame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:07:30.114459+00:00
 -- url     : https://prove2.me/theorems/ab4a7b9a-0607-485d-9f0f-fae766e85bdd

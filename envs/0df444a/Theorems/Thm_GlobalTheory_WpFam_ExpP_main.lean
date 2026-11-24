@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WpFam_ExpP_main
 -- name    : GlobalTheory.WpFam.ExpP.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:25:45.756248+00:00
 -- url     : https://prove2.me/theorems/a8ccdd95-c4dd-4bd7-8e37-341bbb026e80

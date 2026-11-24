@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_addVal_norm_eq_sum
 -- name    : GlobalTheory.addVal_norm_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:05:42.716075+00:00
 -- url     : https://prove2.me/theorems/213a2c98-646c-4f1a-a7e3-82b236b7370b

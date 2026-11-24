@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjTwist_locMap_comp
 -- name    : GroundTheory.Arith.SchemeCoh.ProjTwist.locMap_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:28:30.33079+00:00
 -- url     : https://prove2.me/theorems/f4323eef-06c3-4041-af30-e8234e5a1b9f

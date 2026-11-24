@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_cofCof
 -- name    : Formalism.CohomologicalDescent.LD.cofCof
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:05:45.708697+00:00
 -- url     : https://prove2.me/theorems/ee3759e9-d15a-4e54-b486-f6266d6c665e

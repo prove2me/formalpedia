@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_algHom_localizationAway_of_rational_points
 -- name    : GlobalTheory.exists_algHom_localizationAway_of_rational_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:29:12.491497+00:00
 -- url     : https://prove2.me/theorems/a52dde2a-bfef-4138-9946-570cace5888b

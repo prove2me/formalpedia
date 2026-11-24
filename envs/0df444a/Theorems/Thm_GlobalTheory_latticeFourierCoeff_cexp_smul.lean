@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_latticeFourierCoeff_cexp_smul
 -- name    : GlobalTheory.latticeFourierCoeff_cexp_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:02:23.931297+00:00
 -- url     : https://prove2.me/theorems/fe92d03b-cf4e-4809-8050-7cceb41aa0ec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hom_eq_of_thickenings_of_isProper
 -- name    : GlobalTheory.hom_eq_of_thickenings_of_isProper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:59:14.20637+00:00
 -- url     : https://prove2.me/theorems/fa8e80c9-cc71-47f6-8a9d-1eb4e7216ce2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_unitary_isCayley_of_det_ne_zero
 -- name    : GlobalTheory.unitary_isCayley_of_det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:24:29.981022+00:00
 -- url     : https://prove2.me/theorems/28b3a7f1-46df-49c4-aa5e-cd17eee324cc

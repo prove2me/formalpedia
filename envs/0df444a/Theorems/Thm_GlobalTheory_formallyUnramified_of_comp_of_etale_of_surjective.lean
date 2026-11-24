@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_formallyUnramified_of_comp_of_etale_of_surjective
 -- name    : GlobalTheory.formallyUnramified_of_comp_of_etale_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:53:15.966578+00:00
 -- url     : https://prove2.me/theorems/7aec5cbe-adb0-4bd4-8247-17b1cf3f74dd

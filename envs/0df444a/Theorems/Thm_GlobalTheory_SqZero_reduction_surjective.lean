@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_reduction_surjective
 -- name    : GlobalTheory.SqZero.reduction_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:56:08.925749+00:00
 -- url     : https://prove2.me/theorems/3ae1aa67-fbbd-4928-882c-88cd568ecb39

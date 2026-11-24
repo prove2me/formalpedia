@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_residueField_isFractionRing_of_generic
 -- name    : GlobalTheory.residueField_isFractionRing_of_generic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:16:19.493157+00:00
 -- url     : https://prove2.me/theorems/7bbf62e9-0b45-4125-b1f1-ea060d34dfae

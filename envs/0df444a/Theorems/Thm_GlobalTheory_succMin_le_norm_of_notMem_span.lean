@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_succMin_le_norm_of_notMem_span
 -- name    : GlobalTheory.succMin_le_norm_of_notMem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:23:08.511941+00:00
 -- url     : https://prove2.me/theorems/d6ffca91-01f5-47b9-b835-5549eecb35d0

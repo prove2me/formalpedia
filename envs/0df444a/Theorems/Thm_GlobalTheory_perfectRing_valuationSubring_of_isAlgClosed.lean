@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_perfectRing_valuationSubring_of_isAlgClosed
 -- name    : GlobalTheory.perfectRing_valuationSubring_of_isAlgClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:14:29.093049+00:00
 -- url     : https://prove2.me/theorems/ef2bde80-ed4a-41ae-8a50-5793102fd5e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_seminorm_perpVector_le
 -- name    : GlobalTheory.seminorm_perpVector_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:20:18.531111+00:00
 -- url     : https://prove2.me/theorems/ffb3f03f-ad7d-4cbe-8cd4-b8d06bb65d77

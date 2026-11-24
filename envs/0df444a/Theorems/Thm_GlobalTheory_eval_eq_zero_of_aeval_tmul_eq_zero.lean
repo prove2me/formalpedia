@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eval_eq_zero_of_aeval_tmul_eq_zero
 -- name    : GlobalTheory.eval_eq_zero_of_aeval_tmul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:20:03.094627+00:00
 -- url     : https://prove2.me/theorems/ecfefe40-1fc8-497a-9f55-a8b5cc9f6c6b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_norm_det_one_add_sub_one_le_exp
 -- name    : GlobalTheory.norm_det_one_add_sub_one_le_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:19:54.547798+00:00
 -- url     : https://prove2.me/theorems/f120c2e6-9db0-4ae0-95cd-d33768ed5100

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tensorContent_eq_polyContent
 -- name    : GlobalTheory.tensorContent_eq_polyContent
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:17:01.479117+00:00
 -- url     : https://prove2.me/theorems/6d384c5f-d0a7-49e3-afc9-9945c06b1661

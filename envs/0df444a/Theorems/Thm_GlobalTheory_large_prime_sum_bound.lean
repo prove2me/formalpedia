@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_large_prime_sum_bound
 -- name    : GlobalTheory.large_prime_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:02:14.413221+00:00
 -- url     : https://prove2.me/theorems/6ade6ad7-f827-472f-a200-e8a5d52b1a21

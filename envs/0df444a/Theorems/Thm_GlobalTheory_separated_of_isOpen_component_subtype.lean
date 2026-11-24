@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_separated_of_isOpen_component_subtype
 -- name    : GlobalTheory.separated_of_isOpen_component_subtype
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:20:24.457098+00:00
 -- url     : https://prove2.me/theorems/bc78962f-cebc-4278-bf60-d5db2af9d17f

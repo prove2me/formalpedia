@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_valuationRing_of_flat_of_formallyUnramified
 -- name    : GlobalTheory.valuationRing_of_flat_of_formallyUnramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:24:41.690629+00:00
 -- url     : https://prove2.me/theorems/2fe7940d-7acf-49de-b8b4-adab71e0ef67

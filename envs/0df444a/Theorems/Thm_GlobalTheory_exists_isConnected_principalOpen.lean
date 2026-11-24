@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isConnected_principalOpen
 -- name    : GlobalTheory.exists_isConnected_principalOpen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:57:51.083382+00:00
 -- url     : https://prove2.me/theorems/973c25d4-74e4-417b-9d50-ccf3bff90ffa

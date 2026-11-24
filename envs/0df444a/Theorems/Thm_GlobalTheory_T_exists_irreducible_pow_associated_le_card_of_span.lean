@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_irreducible_pow_associated_le_card_of_span
 -- name    : GlobalTheory.T.exists_irreducible_pow_associated_le_card_of_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:36:56.158802+00:00
 -- url     : https://prove2.me/theorems/d777df8c-5a79-4bfa-9e81-b8e3308911c0

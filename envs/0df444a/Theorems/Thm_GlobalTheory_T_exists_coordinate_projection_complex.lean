@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_coordinate_projection_complex
 -- name    : GlobalTheory.T.exists_coordinate_projection_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:33:57.933583+00:00
 -- url     : https://prove2.me/theorems/9775d257-127c-4f10-937f-efd335bdaae8

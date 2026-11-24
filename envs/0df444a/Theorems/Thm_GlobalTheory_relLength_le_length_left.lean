@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_relLength_le_length_left
 -- name    : GlobalTheory.relLength_le_length_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:16:10.972269+00:00
 -- url     : https://prove2.me/theorems/45f5900f-5a55-4ec6-943b-2f69c62bbdac

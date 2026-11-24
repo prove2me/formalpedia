@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_root_of_monic_dvd_X_pow_card_sub_one
 -- name    : GlobalTheory.T.exists_root_of_monic_dvd_X_pow_card_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:30:15.07549+00:00
 -- url     : https://prove2.me/theorems/623bd96a-4e00-47f9-9e0e-88ce223a171b

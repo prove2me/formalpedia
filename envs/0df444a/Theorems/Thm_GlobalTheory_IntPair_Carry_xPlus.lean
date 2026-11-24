@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntPair_Carry_xPlus
 -- name    : GlobalTheory.IntPair.Carry.xPlus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:06:39.912329+00:00
 -- url     : https://prove2.me/theorems/67c9ba9f-0177-43be-86f8-7acf18316c85

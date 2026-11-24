@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_preirreducible_tensor_localization_away
 -- name    : GlobalTheory.T.preirreducible_tensor_localization_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:54:51.053535+00:00
 -- url     : https://prove2.me/theorems/ed2f1355-7b61-498f-824d-9c0160a45f96

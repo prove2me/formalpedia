@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_res_mul_eq_of_gm_mul_eq
 -- name    : GlobalTheory.res_mul_eq_of_gm_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:16:58.323901+00:00
 -- url     : https://prove2.me/theorems/9ae5f8dd-3f63-4c5f-8c20-87dc0b343699

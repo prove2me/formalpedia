@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_ShortWeightBounds_upper_translation_le_floor_height
 -- name    : Formalism.CohomologicalDescent.ShortWeightBounds.upper_translation_le_floor_height
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:29:30.538663+00:00
 -- url     : https://prove2.me/theorems/98f7b47c-cd7e-4516-a077-e9f50d7d9d72

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_not_X_pow_succ_dvd_det_of_first_order_kernel_eq_zero
 -- name    : GlobalTheory.not_X_pow_succ_dvd_det_of_first_order_kernel_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:12:54.263821+00:00
 -- url     : https://prove2.me/theorems/e5fea592-8c75-49ff-9ea4-38d68a0aa686

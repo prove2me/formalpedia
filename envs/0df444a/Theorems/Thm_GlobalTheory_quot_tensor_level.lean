@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_quot_tensor_level
 -- name    : GlobalTheory.quot_tensor_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:15:19.193222+00:00
 -- url     : https://prove2.me/theorems/c67a48c5-f597-4158-a7ba-80a15c556a24

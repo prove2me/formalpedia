@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrSum_isGradedMap_map
 -- name    : GlobalTheory.GrSum.isGradedMap_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:19:46.074469+00:00
 -- url     : https://prove2.me/theorems/3176e26f-9950-4db9-bc47-3a8780423700

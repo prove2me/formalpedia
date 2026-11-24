@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_spectral_projections_anticommute
 -- name    : GlobalTheory.T.hermitian_spectral_projections_anticommute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:46:05.218723+00:00
 -- url     : https://prove2.me/theorems/67ade0a1-a7be-4385-931a-eec3c79ca085

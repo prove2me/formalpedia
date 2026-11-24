@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tComb_mul_left
 -- name    : GlobalTheory.tComb_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:22:47.189563+00:00
 -- url     : https://prove2.me/theorems/463ca440-667d-4919-a0af-4be9ba74c2af

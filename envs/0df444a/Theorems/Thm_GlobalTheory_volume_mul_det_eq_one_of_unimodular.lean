@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_volume_mul_det_eq_one_of_unimodular
 -- name    : GlobalTheory.volume_mul_det_eq_one_of_unimodular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:24:56.586738+00:00
 -- url     : https://prove2.me/theorems/6d9b36d3-57e1-4ef6-8280-50389da9c2a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_tendsto_ratio_box_counts_prod_one
 -- name    : GlobalTheory.T.tendsto_ratio_box_counts_prod_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:59:53.706206+00:00
 -- url     : https://prove2.me/theorems/60a8c535-5752-4806-ae22-89bb16331bde

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartz_integral_superposition
 -- name    : GlobalTheory.T.schwartz_integral_superposition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:57:15.998794+00:00
 -- url     : https://prove2.me/theorems/7f2bdc83-abe8-4b21-b382-9e7c58a8fb29

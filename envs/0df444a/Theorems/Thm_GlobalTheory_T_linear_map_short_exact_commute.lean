@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_linear_map_short_exact_commute
 -- name    : GlobalTheory.T.linear_map_short_exact_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:52:31.096375+00:00
 -- url     : https://prove2.me/theorems/79251f02-aeb5-4c96-bed8-9a9f9c300cb0

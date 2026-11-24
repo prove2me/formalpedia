@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_small_combination_strict_min_mod
 -- name    : GlobalTheory.small_combination_strict_min_mod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:20:28.334616+00:00
 -- url     : https://prove2.me/theorems/b1d2e4f0-0a08-43c0-a3e6-29341aa653ae

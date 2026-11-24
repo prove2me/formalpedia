@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_Mp_contDiff_dm
 -- name    : CompanionTheory.ThKR.Mp.contDiff_dm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:28:51.352511+00:00
 -- url     : https://prove2.me/theorems/dcbc2adc-be34-4292-bf9b-9249e32592f8

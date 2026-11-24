@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_large_prime_sq_dvd_eval_of_separable
 -- name    : GlobalTheory.T.exists_large_prime_sq_dvd_eval_of_separable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:37:27.104024+00:00
 -- url     : https://prove2.me/theorems/928eedcb-17bd-4329-9bd0-3222730cf6d4

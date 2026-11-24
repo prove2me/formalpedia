@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WedgeOf_vb_exteriorPower_two
 -- name    : GlobalTheory.CompanionTheory.WedgeOf.vb_exteriorPower_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:35:22.638631+00:00
 -- url     : https://prove2.me/theorems/d656a776-a960-4c58-b4be-18be4767abac

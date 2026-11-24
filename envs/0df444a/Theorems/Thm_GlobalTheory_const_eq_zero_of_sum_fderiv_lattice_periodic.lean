@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_const_eq_zero_of_sum_fderiv_lattice_periodic
 -- name    : GlobalTheory.const_eq_zero_of_sum_fderiv_lattice_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:13:30.529173+00:00
 -- url     : https://prove2.me/theorems/04af43c0-4c57-49c9-953f-a385d2961329

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_algHom_lift_of_etale_of_henselian
 -- name    : GlobalTheory.exists_algHom_lift_of_etale_of_henselian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:28:56.198618+00:00
 -- url     : https://prove2.me/theorems/51942bd0-4cb4-4e68-b1dc-c4717cb0c363

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_frobeniusPowEquation_dvd_all_pow
 -- name    : GlobalTheory.T.frobeniusPowEquation_dvd_all_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:41:06.939255+00:00
 -- url     : https://prove2.me/theorems/67231bd7-648b-48e1-939f-a03eb16a1ad5

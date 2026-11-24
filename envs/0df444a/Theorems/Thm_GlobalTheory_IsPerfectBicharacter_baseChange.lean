@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsPerfectBicharacter_baseChange
 -- name    : GlobalTheory.IsPerfectBicharacter.baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:51:34.868789+00:00
 -- url     : https://prove2.me/theorems/f49cea79-5ee8-4e52-9c2d-fb82a6de278b

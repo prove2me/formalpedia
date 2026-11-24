@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_partialReduction_lower_entry_multiplication_law
 -- name    : GlobalTheory.T.partialReduction_lower_entry_multiplication_law
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:00:04.554158+00:00
 -- url     : https://prove2.me/theorems/797c927f-7544-40a4-ad6c-4d46f16dc8d0

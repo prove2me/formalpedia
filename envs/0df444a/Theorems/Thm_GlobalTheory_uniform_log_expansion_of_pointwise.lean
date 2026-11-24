@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_uniform_log_expansion_of_pointwise
 -- name    : GlobalTheory.uniform_log_expansion_of_pointwise
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:24:22.927884+00:00
 -- url     : https://prove2.me/theorems/4c7b4704-7334-4511-9dde-2d91c5874b48

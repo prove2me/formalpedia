@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_SL2BinomialLattices_lattice_baseChange_alt
 -- name    : Formalism.CohomologicalDescent.SL2BinomialLattices.lattice_baseChange_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:59:29.119409+00:00
 -- url     : https://prove2.me/theorems/fb381206-2c7d-489f-8e8b-2f3e26aa0b1e

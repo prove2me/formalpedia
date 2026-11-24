@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_prod_comp_eq_of_finite_family
 -- name    : GlobalTheory.prod_comp_eq_of_finite_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:23:57.133681+00:00
 -- url     : https://prove2.me/theorems/8bac2a87-76c9-4565-8207-64387864186c

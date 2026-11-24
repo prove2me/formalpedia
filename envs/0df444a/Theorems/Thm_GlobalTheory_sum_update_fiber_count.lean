@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_update_fiber_count
 -- name    : GlobalTheory.sum_update_fiber_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:23:15.793804+00:00
 -- url     : https://prove2.me/theorems/834c1bc7-e471-4c74-a2dc-1ae35e9fc0ff

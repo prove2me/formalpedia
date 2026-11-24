@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_roots_taylor_eq_map_sub
 -- name    : GlobalTheory.roots_taylor_eq_map_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:21:12.32988+00:00
 -- url     : https://prove2.me/theorems/ef05ebee-dfc6-4b62-9b9b-5aea6fda386d

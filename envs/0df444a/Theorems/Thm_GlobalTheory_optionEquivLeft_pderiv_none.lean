@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_optionEquivLeft_pderiv_none
 -- name    : GlobalTheory.optionEquivLeft_pderiv_none
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:13:13.403053+00:00
 -- url     : https://prove2.me/theorems/758957a8-5fe4-443d-b185-1d7a46e8030d

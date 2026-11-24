@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_Mp_metaplectic_unipotent_block_upper
 -- name    : CompanionTheory.ThKR.Mp.metaplectic_unipotent_block_upper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:20:16.376487+00:00
 -- url     : https://prove2.me/theorems/f19f0e5d-5ec1-4255-a8ad-17bd12980293

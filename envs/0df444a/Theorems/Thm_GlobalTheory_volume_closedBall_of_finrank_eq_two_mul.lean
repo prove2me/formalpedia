@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_volume_closedBall_of_finrank_eq_two_mul
 -- name    : GlobalTheory.volume_closedBall_of_finrank_eq_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:24:57.153123+00:00
 -- url     : https://prove2.me/theorems/8d4aec21-a4bf-4be6-a200-be7567fdd302

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_quadExt_topology
 -- name    : GlobalTheory.quadExt_topology
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:15:40.086416+00:00
 -- url     : https://prove2.me/theorems/43a1bbe1-7eab-4a9f-98d5-7e4c7a8df54e

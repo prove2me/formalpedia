@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GodementJacquet_indExt
 -- name    : GlobalTheory.GodementJacquet.indExt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:29:40.855913+00:00
 -- url     : https://prove2.me/theorems/bb887900-a103-4d7b-a2b5-17fd9afed61a

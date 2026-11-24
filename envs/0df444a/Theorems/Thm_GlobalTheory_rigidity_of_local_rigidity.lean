@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_rigidity_of_local_rigidity
 -- name    : GlobalTheory.rigidity_of_local_rigidity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:17:59.94369+00:00
 -- url     : https://prove2.me/theorems/4a84bc3f-c341-4ebc-a709-069735c3fb5f

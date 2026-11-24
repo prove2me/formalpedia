@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_perfLevelOp_frobenius
 -- name    : GlobalTheory.perfLevelOp_frobenius
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:14:19.223193+00:00
 -- url     : https://prove2.me/theorems/c491f456-fe4d-4ee5-a834-c4181009e8a2

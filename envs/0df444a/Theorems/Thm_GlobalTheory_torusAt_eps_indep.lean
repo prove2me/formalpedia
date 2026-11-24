@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_torusAt_eps_indep
 -- name    : GlobalTheory.torusAt_eps_indep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:24:06.035578+00:00
 -- url     : https://prove2.me/theorems/48849108-ec88-4390-a194-b275f6807a59

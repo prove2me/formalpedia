@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_matrix_one_add_pow_sub_entry_le
 -- name    : GlobalTheory.matrix_one_add_pow_sub_entry_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:09:32.616513+00:00
 -- url     : https://prove2.me/theorems/b3de1f0c-0333-4249-9f00-4d144ce91526

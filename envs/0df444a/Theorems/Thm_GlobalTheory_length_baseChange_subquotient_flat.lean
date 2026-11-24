@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_length_baseChange_subquotient_flat
 -- name    : GlobalTheory.length_baseChange_subquotient_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:06:03.316054+00:00
 -- url     : https://prove2.me/theorems/1cc15102-6551-42c2-b26c-fced900ff13b

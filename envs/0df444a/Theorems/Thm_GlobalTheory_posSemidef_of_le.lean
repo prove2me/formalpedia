@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_posSemidef_of_le
 -- name    : GlobalTheory.posSemidef_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:14:10.421897+00:00
 -- url     : https://prove2.me/theorems/6c029fc2-1553-4a45-8be6-432a6b92899e

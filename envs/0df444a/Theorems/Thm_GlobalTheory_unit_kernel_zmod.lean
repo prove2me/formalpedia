@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_unit_kernel_zmod
 -- name    : GlobalTheory.unit_kernel_zmod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:24:40.741774+00:00
 -- url     : https://prove2.me/theorems/fd2214f4-b5ae-4a44-9318-3bdff7a76244

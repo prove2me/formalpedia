@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_skewHermitian_det_mul_add_ne_zero_of_idempotent
 -- name    : GlobalTheory.T.exists_skewHermitian_det_mul_add_ne_zero_of_idempotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:38:07.725813+00:00
 -- url     : https://prove2.me/theorems/5c775be9-a942-4c91-b5bc-327ad9d4470b

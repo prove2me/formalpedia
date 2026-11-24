@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjSpace_mult_eq_zero
 -- name    : GroundTheory.Arith.SchemeCoh.ProjSpace.mult_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:28:11.649112+00:00
 -- url     : https://prove2.me/theorems/56d5c22c-f9ee-4b55-b1ef-71c59052356e

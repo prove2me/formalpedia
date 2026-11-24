@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_doubling_solution_pi
 -- name    : GlobalTheory.exists_doubling_solution_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:31:22.651429+00:00
 -- url     : https://prove2.me/theorems/c6a510fa-3620-4139-9d08-18a400f14d65

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartz_weighted_sobolev_bound_of_finrank_eq_zero
 -- name    : GlobalTheory.T.schwartz_weighted_sobolev_bound_of_finrank_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:57:42.254739+00:00
 -- url     : https://prove2.me/theorems/6636dcb1-0f9c-4e39-8ace-8b5d4110c5c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_trace_eq_add_of_shortExact
 -- name    : GlobalTheory.trace_eq_add_of_shortExact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:23:45.331794+00:00
 -- url     : https://prove2.me/theorems/d97e8179-f704-4293-a7b8-4fb2d32e727f

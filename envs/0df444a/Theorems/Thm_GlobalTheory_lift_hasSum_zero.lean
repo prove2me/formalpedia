@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lift_hasSum_zero
 -- name    : GlobalTheory.lift_hasSum_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:07:14.586901+00:00
 -- url     : https://prove2.me/theorems/bb820212-cc56-4670-ab03-a9e0e55d8215

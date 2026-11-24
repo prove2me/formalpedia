@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_alternating_smul_add_mem
 -- name    : GlobalTheory.alternating_smul_add_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:11:45.056261+00:00
 -- url     : https://prove2.me/theorems/44abe9b2-ea7c-4a50-b1ba-e58b4095a825

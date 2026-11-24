@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_residueField_fg_trdeg_of_isStandardSmoothOfRelativeDimension
 -- name    : GlobalTheory.residueField_fg_trdeg_of_isStandardSmoothOfRelativeDimension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:16:14.612364+00:00
 -- url     : https://prove2.me/theorems/73157860-b121-4863-a8ee-21355974437b

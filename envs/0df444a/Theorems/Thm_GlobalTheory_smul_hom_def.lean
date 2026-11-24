@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_smul_hom_def
 -- name    : GlobalTheory.smul_hom_def
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:21:30.039973+00:00
 -- url     : https://prove2.me/theorems/2ec4dd2e-9273-4140-afd1-27591ced48ff

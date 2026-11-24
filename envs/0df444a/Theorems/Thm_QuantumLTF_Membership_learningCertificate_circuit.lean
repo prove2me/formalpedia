@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumLTF_Membership_learningCertificate_circuit
 -- name    : QuantumLTF.Membership.learningCertificate_circuit
--- status  : Open
+-- status  : Proved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T03:57:43.860044+00:00
 -- url     : https://prove2.me/theorems/b46352ac-e6b9-4476-ac9c-37b505ab99bb

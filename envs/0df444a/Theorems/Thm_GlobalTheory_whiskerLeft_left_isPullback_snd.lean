@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_whiskerLeft_left_isPullback_snd
 -- name    : GlobalTheory.whiskerLeft_left_isPullback_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:24:25.811799+00:00
 -- url     : https://prove2.me/theorems/95d892f4-1d0b-4bae-9369-86a8b62126b0

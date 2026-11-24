@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GordanGenProof_mem_gcone_insert
 -- name    : GordanGenProof.mem_gcone_insert
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:25:20.829607+00:00
 -- url     : https://prove2.me/theorems/31bbb5c8-36d9-4545-986d-a295f9cb392e

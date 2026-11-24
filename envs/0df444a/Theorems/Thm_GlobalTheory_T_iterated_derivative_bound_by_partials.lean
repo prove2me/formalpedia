@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_iterated_derivative_bound_by_partials
 -- name    : GlobalTheory.T.iterated_derivative_bound_by_partials
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:51:12.224476+00:00
 -- url     : https://prove2.me/theorems/24bbd91a-d8be-4f94-ac9f-0ed7c9535668

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_schwartz_pairing_conj_clm_of_borelSpace
 -- name    : GlobalTheory.schwartz_pairing_conj_clm_of_borelSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:20:51.561317+00:00
 -- url     : https://prove2.me/theorems/10051b73-66f8-4367-9a85-c21d2324ea7d

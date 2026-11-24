@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GordanGenProof_fm_scalar
 -- name    : GordanGenProof.fm_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:25:50.720957+00:00
 -- url     : https://prove2.me/theorems/9e3aa675-3a43-4ed6-872f-fa30150d6333

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymDesc_exists_sub_mem_of_under_eq_bot
 -- name    : GlobalTheory.SymDesc.exists_sub_mem_of_under_eq_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:23:44.911739+00:00
 -- url     : https://prove2.me/theorems/18a3abc9-f2f3-4761-b2d3-4b92246ede81

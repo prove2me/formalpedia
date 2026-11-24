@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_root_of_unity_eq_one_of_isIntegral_div
 -- name    : GlobalTheory.root_of_unity_eq_one_of_isIntegral_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:20:39.867453+00:00
 -- url     : https://prove2.me/theorems/f21a59b0-c7af-4a71-96db-0a5c98589ead

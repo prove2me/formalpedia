@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_idempotent_adeles_and_small_adelic_matrices
 -- name    : GlobalTheory.T.idempotent_adeles_and_small_adelic_matrices
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:37:09.464843+00:00
 -- url     : https://prove2.me/theorems/1f5a7636-c752-42cc-8d78-ca0f69d26383

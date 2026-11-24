@@ -37117,7 +37117,7 @@
 {"parent": "Grunbaum2003.g_theorem_necessity", "child": "Grunbaum2003_faceCount", "via": ["solution", "statement"]}
 {"parent": "Grunbaum2003.g_theorem_necessity", "child": "Grunbaum2003_gTheoremMatrix", "via": ["solution", "statement"]}
 {"parent": "MMSImpossibility.Goods.label_sets", "child": "MMSImpossibility_Goods_Instance", "via": ["statement"]}
-{"parent": "RelativisticZK205.ThreeCol.pr_no_signalling", "child": "RelativisticZK205_ThreeCol_PRBox", "via": ["statement"]}
+{"parent": "RelativisticZK205.ThreeCol.pr_no_signalling", "child": "RelativisticZK205_ThreeCol_PRBox", "via": ["solution", "statement"]}
 {"parent": "ParityBarrier563.Trilinear.lemma_3_2", "child": "ParityBarrier563_Trilinear_Correlation", "via": ["statement"]}
 {"parent": "ParityBarrier563.Trilinear.lemma_3_2", "child": "ParityBarrier563_Trilinear_Restriction", "via": ["statement"]}
 {"parent": "QMAvsQCIP_noExp", "child": "QMAvsQCIP_Zdom", "via": ["statement"]}

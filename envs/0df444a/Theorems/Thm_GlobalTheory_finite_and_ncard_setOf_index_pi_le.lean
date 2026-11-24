@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_and_ncard_setOf_index_pi_le
 -- name    : GlobalTheory.finite_and_ncard_setOf_index_pi_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:46:33.154819+00:00
 -- url     : https://prove2.me/theorems/3609cb60-4950-436e-981d-8ac2badf999f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_span_finiteDimensional_of_bounded_forms
 -- name    : GlobalTheory.span_finiteDimensional_of_bounded_forms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:21:24.56793+00:00
 -- url     : https://prove2.me/theorems/a1cd29d1-533f-493e-a840-31cf18e9e158

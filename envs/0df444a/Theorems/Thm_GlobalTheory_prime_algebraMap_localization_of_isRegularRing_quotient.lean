@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_prime_algebraMap_localization_of_isRegularRing_quotient
 -- name    : GlobalTheory.prime_algebraMap_localization_of_isRegularRing_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:15:37.447609+00:00
 -- url     : https://prove2.me/theorems/0b44db28-0c0d-4eb7-a253-acd2ce23f887

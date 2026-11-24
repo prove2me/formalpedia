@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_completedLFunction_ne_zero_of_re_nonpos
 -- name    : GlobalTheory.completedLFunction_ne_zero_of_re_nonpos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:13:05.907673+00:00
 -- url     : https://prove2.me/theorems/41e29043-409c-4628-9625-ed3263703b8a

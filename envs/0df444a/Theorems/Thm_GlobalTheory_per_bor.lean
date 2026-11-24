@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_per_bor
 -- name    : GlobalTheory.per_bor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:15:09.694957+00:00
 -- url     : https://prove2.me/theorems/38614e8c-00d3-43c1-ac67-4c1ba963416b

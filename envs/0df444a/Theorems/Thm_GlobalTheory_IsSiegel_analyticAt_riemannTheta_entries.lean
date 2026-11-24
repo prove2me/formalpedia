@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSiegel_analyticAt_riemannTheta_entries
 -- name    : GlobalTheory.IsSiegel.analyticAt_riemannTheta_entries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:21:59.514573+00:00
 -- url     : https://prove2.me/theorems/60f468d8-5e79-4da1-9eb1-24192b262be6

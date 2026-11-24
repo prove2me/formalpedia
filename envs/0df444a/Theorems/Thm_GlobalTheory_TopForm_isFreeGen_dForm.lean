@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TopForm_isFreeGen_dForm
 -- name    : GlobalTheory.TopForm.isFreeGen_dForm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:01:16.772991+00:00
 -- url     : https://prove2.me/theorems/c588d2ca-b66e-4802-b3d1-c02260e51224

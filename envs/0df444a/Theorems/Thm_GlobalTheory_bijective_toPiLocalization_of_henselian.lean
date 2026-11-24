@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bijective_toPiLocalization_of_henselian
 -- name    : GlobalTheory.bijective_toPiLocalization_of_henselian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:06:31.116479+00:00
 -- url     : https://prove2.me/theorems/cfe13bca-3864-4148-9969-1cb0e1ebc010

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_la_core
 -- name    : Formalism.CohomologicalDescent.LA.la_core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:49:16.82669+00:00
 -- url     : https://prove2.me/theorems/4df54377-62ec-49c1-98e7-7bf7873bebfe

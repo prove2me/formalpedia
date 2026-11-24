@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_polynomial_increment_near_derivative
 -- name    : GlobalTheory.polynomial_increment_near_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:14:01.4553+00:00
 -- url     : https://prove2.me/theorems/fafa9d40-ffc9-4a44-996d-e00e69559497

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isDedekindDomain_integralClosure_of_dimensionLEOne
 -- name    : GlobalTheory.isDedekindDomain_integralClosure_of_dimensionLEOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:56:57.610235+00:00
 -- url     : https://prove2.me/theorems/57c312f4-1331-4d0a-8c7e-3a0be6a45497

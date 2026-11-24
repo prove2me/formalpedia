@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_cofactor_cofactor_variable
 -- name    : Formalism.CohomologicalDescent.LD.cofactor_cofactor_variable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:06:35.230443+00:00
 -- url     : https://prove2.me/theorems/b3200bb7-f572-40f9-9a43-16996e4b5096

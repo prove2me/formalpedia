@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_piTensorDistribMulAction_smulDistribClass
 -- name    : GlobalTheory.piTensorDistribMulAction_smulDistribClass
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:13:46.325433+00:00
 -- url     : https://prove2.me/theorems/7ca56a64-d4a0-4452-9b87-a46ec27b4556

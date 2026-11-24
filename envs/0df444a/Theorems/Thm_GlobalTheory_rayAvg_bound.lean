@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_rayAvg_bound
 -- name    : GlobalTheory.rayAvg_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:16:47.343875+00:00
 -- url     : https://prove2.me/theorems/35705778-f489-47c7-bb50-c0fe593de70a

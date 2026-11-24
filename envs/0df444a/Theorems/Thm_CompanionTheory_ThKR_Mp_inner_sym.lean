@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_Mp_inner_sym
 -- name    : CompanionTheory.ThKR.Mp.inner_sym
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:17:33.775315+00:00
 -- url     : https://prove2.me/theorems/027a1e15-dce7-402b-b84f-7fbdfcfb7259

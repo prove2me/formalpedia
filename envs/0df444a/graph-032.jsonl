@@ -31819,8 +31819,6 @@
 {"parent": "QMAPerfectCompleteness_Proof_CyclicClockMetadata", "child": "QMAPerfectCompleteness_Proof_DyadicEncoding", "via": ["statement"]}
 {"parent": "QMAPerfectCompleteness_Proof_CyclicClockMetadata", "child": "QMAPerfectCompleteness_Proof_RawCircuitEncoding", "via": ["statement"]}
 {"parent": "row23_rh_supp_RHLowSlabSeventhCell12", "child": "row23_rh_supp_RHLowSlabSeventhPilot", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.conditionalPredictableCompensation", "child": "Kyprianou_Ch04_PoissonCompensationSetting", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.conditionalPredictableCompensation", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["statement"]}
 {"parent": "row23_rh_supp_RHLowSlabEighthCell13", "child": "row23_rh_supp_RHLowSlabEighthPilot", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_gbB32_original_gaussian_caplinear_upper_generator_eq_drift", "child": "AvramDividend.Classical.avram_gbB31_interior_caplinear_affine_upper_derivatives", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_gbB32_original_gaussian_caplinear_upper_generator_eq_drift", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
@@ -34187,9 +34185,6 @@
 {"parent": "AvramDividend.Classical.avram_ga_a396_original_crossing_compact_C2_generator_coefficients", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ga_a396_original_crossing_compact_C2_generator_coefficients", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "LARLLL_CurrentData", "child": "LARLLL_GramSchmidtRefinement", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.compensatedJumpIntegralTrueMartingale", "child": "Kyprianou_Ch02_CompensatedSmallJumpBand", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.compensatedJumpIntegralTrueMartingale", "child": "Kyprianou_Ch04_PoissonCompensationSetting", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.compensatedJumpIntegralTrueMartingale", "child": "KLSModular_LevyStochCalc_Poisson_RandomMeasure", "via": ["statement"]}
 {"parent": "LocalLLL_Main_Supplement_Corollaries", "child": "LocalLLL_Main_GraphModel", "via": ["statement"]}
 {"parent": "LocalLLL_Main_Supplement_Corollaries", "child": "LocalLLL_Main_LocalAlgorithm", "via": ["statement"]}
 {"parent": "RPLib_S3_EllW2O7c", "child": "RPLib_S3_EllW2P7b", "via": ["statement"]}
@@ -51026,16 +51021,6 @@
 {"parent": "MatMulDS_Supplement_DynOK", "child": "MatroidSensOracle_AlgRAM", "via": ["statement"]}
 {"parent": "PHIP1887.diagonal_second_euler", "child": "PHIP1887.diagonal_first_euler", "via": ["solution", "statement"]}
 {"parent": "PHIP1887.diagonal_second_euler", "child": "RHPF28_PHIP1887_6e42e337ddd5", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.chapterFourMainResultsV2", "child": "Kyprianou_Ch04_ChapterCertificationV2", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.chapterFourMainResultsV2", "child": "Kyprianou_Ch04_Exercise4_6Certification", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.chapterFourMainResultsV2", "child": "Kyprianou_Ch04_Exercise4_7Certification", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.chapterFourMainResultsV2", "child": "Kyprianou_Ch04_Exercise4_2Certification", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.chapterFourMainResultsV2", "child": "Kyprianou_Ch04_Exercise4_8CertificationV2", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.chapterFourMainResultsV2", "child": "Kyprianou_Ch04_Exercise4_1CertificationV2", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.chapterFourMainResultsV2", "child": "Kyprianou_Ch04_Exercise4_3Certification", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.chapterFourMainResultsV2", "child": "Kyprianou_Ch04_Exercise4_5Certification", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.chapterFourMainResultsV2", "child": "Kyprianou_Ch04_Exercise4_4Certification", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.chapterFourMainResultsV2", "child": "Kyprianou_Ch04_Exercise4_9Certification", "via": ["statement"]}
 {"parent": "CircTrichotomy_Supplement_membershipProblem", "child": "CircTrichotomy_BigO", "via": ["statement"]}
 {"parent": "CircTrichotomy_Supplement_membershipProblem", "child": "CircTrichotomy_Supplement_NFAInst", "via": ["statement"]}
 {"parent": "CircTrichotomy_Supplement_membershipProblem", "child": "CircTrichotomy_HLOmega", "via": ["statement"]}

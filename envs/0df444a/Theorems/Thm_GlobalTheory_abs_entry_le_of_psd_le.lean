@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_abs_entry_le_of_psd_le
 -- name    : GlobalTheory.abs_entry_le_of_psd_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:04:51.546916+00:00
 -- url     : https://prove2.me/theorems/1af67405-bd36-48fa-b308-85e8040cd404

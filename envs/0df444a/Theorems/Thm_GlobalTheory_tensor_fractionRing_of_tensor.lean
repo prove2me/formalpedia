@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tensor_fractionRing_of_tensor
 -- name    : GlobalTheory.tensor_fractionRing_of_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:23:24.856469+00:00
 -- url     : https://prove2.me/theorems/8c0a9eba-f845-4e72-a137-1537a639454d

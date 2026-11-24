@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowSpan_fisch_rowAct
 -- name    : GlobalTheory.RowSpan.fisch_rowAct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:32:53.946064+00:00
 -- url     : https://prove2.me/theorems/ab07fa60-e53a-4a8a-a6cd-ed925df034c8

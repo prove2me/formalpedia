@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_le_re_trace_smul_one_of_posSemidef
 -- name    : GlobalTheory.le_re_trace_smul_one_of_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:13:14.190405+00:00
 -- url     : https://prove2.me/theorems/d3521a3d-1411-4a61-8f3d-5aaa42d151e4

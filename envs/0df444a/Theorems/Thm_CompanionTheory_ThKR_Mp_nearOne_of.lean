@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_Mp_nearOne_of
 -- name    : CompanionTheory.ThKR.Mp.nearOne_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:19:02.084424+00:00
 -- url     : https://prove2.me/theorems/a6b975a0-b27d-4f0e-9c11-dc9efd932348

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_leftColumns_mulVec_injective_of_rank_eq_card
 -- name    : GlobalTheory.T.leftColumns_mulVec_injective_of_rank_eq_card
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:14:59.678302+00:00
 -- url     : https://prove2.me/theorems/3427c7b3-1435-43b6-a8fe-a6090743b64c

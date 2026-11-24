@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartRed_evalLaw_direct
 -- name    : GlobalTheory.PartRed.evalLaw_direct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:11:28.680997+00:00
 -- url     : https://prove2.me/theorems/9c2cf1d4-492e-4ac6-a2ca-85cf9b9cc30e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_zeta_pow_le
 -- name    : GlobalTheory.sum_zeta_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:22:27.040112+00:00
 -- url     : https://prove2.me/theorems/e6bf1ebd-9685-4d23-8741-a4532b23075f

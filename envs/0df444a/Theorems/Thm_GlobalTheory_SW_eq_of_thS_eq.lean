@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_eq_of_thS_eq
 -- name    : GlobalTheory.SW.eq_of_thS_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:48:46.994018+00:00
 -- url     : https://prove2.me/theorems/2d017ac7-1410-4dbe-8e3c-8bf69aeec9c1

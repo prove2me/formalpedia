@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isAbelianScheme_of_generically_surjective
 -- name    : GlobalTheory.isAbelianScheme_of_generically_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:56:27.572216+00:00
 -- url     : https://prove2.me/theorems/7631b547-4613-4fc2-bfef-9b8dddf0a44a

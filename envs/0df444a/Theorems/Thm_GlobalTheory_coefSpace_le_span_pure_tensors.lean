@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coefSpace_le_span_pure_tensors
 -- name    : GlobalTheory.coefSpace_le_span_pure_tensors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:09:46.654855+00:00
 -- url     : https://prove2.me/theorems/d7284814-3c25-481d-a761-1238358c2374

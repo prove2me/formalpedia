@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_lattice_rationalVectorsInAdelicTranslate
 -- name    : GlobalTheory.T.exists_lattice_rationalVectorsInAdelicTranslate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:21:53.221108+00:00
 -- url     : https://prove2.me/theorems/1b49d4c9-9225-4cbb-a721-196272899552

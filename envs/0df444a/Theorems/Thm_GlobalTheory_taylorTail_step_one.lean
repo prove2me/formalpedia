@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_taylorTail_step_one
 -- name    : GlobalTheory.taylorTail_step_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:22:35.372699+00:00
 -- url     : https://prove2.me/theorems/de4433b1-ffdc-4129-a0af-bc2fb2ba5069

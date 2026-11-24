@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_norm_sq_add_sum_Iio_le
 -- name    : GlobalTheory.norm_sq_add_sum_Iio_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:12:53.147541+00:00
 -- url     : https://prove2.me/theorems/e2058119-cbd5-45f3-ba9b-6e174e9cbd64

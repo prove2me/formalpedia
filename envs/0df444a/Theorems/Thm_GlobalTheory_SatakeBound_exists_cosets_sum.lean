@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeBound_exists_cosets_sum
 -- name    : GlobalTheory.SatakeBound.exists_cosets_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:45:13.049817+00:00
 -- url     : https://prove2.me/theorems/0777efba-bc45-4c53-8ae7-9b5fab33e865

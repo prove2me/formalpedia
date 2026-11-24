@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_ShortWeightBounds_kappa_floor_holds
 -- name    : Formalism.CohomologicalDescent.ShortWeightBounds.kappa_floor_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:28:45.785797+00:00
 -- url     : https://prove2.me/theorems/1caa0a5e-a27c-4ac1-8599-5bdd20c9726a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HerbrandLength_concl_ext
 -- name    : GlobalTheory.HerbrandLength.concl_ext
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:56:45.011301+00:00
 -- url     : https://prove2.me/theorems/5e50eafe-3641-45c7-8a9d-c1643c37f91d

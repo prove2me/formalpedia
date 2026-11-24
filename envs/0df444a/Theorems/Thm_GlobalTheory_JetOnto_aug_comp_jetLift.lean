@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetOnto_aug_comp_jetLift
 -- name    : GlobalTheory.JetOnto.aug_comp_jetLift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:28:46.313195+00:00
 -- url     : https://prove2.me/theorems/af93f422-f37d-4361-ab03-661bafb92e8f

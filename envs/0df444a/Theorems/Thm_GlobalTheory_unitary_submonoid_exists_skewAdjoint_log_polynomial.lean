@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_unitary_submonoid_exists_skewAdjoint_log_polynomial
 -- name    : GlobalTheory.unitary_submonoid_exists_skewAdjoint_log_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:24:20.417083+00:00
 -- url     : https://prove2.me/theorems/5902a647-3965-41cd-95cc-c6067b477127

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sub_eq_of_equivalent_factors
 -- name    : GlobalTheory.sub_eq_of_equivalent_factors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:21:49.826363+00:00
 -- url     : https://prove2.me/theorems/50decc84-09a2-4eb2-87e6-db16b339a8bc

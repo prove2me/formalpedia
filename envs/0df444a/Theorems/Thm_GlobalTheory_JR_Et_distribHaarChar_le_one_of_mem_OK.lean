@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Et_distribHaarChar_le_one_of_mem_OK
 -- name    : GlobalTheory.JR.Et.distribHaarChar_le_one_of_mem_OK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:26:55.391589+00:00
 -- url     : https://prove2.me/theorems/9a02b42d-6957-43eb-a9f0-f27e16053de9

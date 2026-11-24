@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuotientDescent_up_injective
 -- name    : GlobalTheory.QuotientDescent.up_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:11:37.228839+00:00
 -- url     : https://prove2.me/theorems/8e9fc8b3-1454-4494-bb4a-d655314a56a9

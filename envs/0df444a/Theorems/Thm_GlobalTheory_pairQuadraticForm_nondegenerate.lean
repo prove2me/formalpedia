@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_pairQuadraticForm_nondegenerate
 -- name    : GlobalTheory.pairQuadraticForm_nondegenerate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:12:56.960827+00:00
 -- url     : https://prove2.me/theorems/1f77bb20-0d47-431e-a3a0-c8a34270f744

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_submodule_fg_of_span_eq_top_of_locally_pow_mul_mem
 -- name    : GlobalTheory.T.submodule_fg_of_span_eq_top_of_locally_pow_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:58:19.206698+00:00
 -- url     : https://prove2.me/theorems/40eea7e7-cf7e-4146-87ba-d07b28258cb2

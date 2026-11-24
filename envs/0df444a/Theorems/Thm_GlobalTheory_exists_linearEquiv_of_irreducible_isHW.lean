@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_linearEquiv_of_irreducible_isHW
 -- name    : GlobalTheory.exists_linearEquiv_of_irreducible_isHW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:34:28.379228+00:00
 -- url     : https://prove2.me/theorems/5cd2dbc9-26b3-4583-bbcd-ee1cb87abb11

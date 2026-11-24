@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dlogWedge_empty
 -- name    : GlobalTheory.dlogWedge_empty
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:46:28.759093+00:00
 -- url     : https://prove2.me/theorems/b4b70ee0-14c0-497e-8b43-21631df3504e

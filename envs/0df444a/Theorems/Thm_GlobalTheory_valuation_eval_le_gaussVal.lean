@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_valuation_eval_le_gaussVal
 -- name    : GlobalTheory.valuation_eval_le_gaussVal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:25:06.000048+00:00
 -- url     : https://prove2.me/theorems/b7c57aa5-e517-49b5-ace6-c3752d830c6e

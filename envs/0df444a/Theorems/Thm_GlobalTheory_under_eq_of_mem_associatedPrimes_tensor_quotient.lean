@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_under_eq_of_mem_associatedPrimes_tensor_quotient
 -- name    : GlobalTheory.under_eq_of_mem_associatedPrimes_tensor_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:24:48.963417+00:00
 -- url     : https://prove2.me/theorems/140f9377-8851-4bfb-84d7-4387c448248a

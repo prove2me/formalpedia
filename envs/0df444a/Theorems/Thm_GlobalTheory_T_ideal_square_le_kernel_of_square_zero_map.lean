@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ideal_square_le_kernel_of_square_zero_map
 -- name    : GlobalTheory.T.ideal_square_le_kernel_of_square_zero_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:35:40.207108+00:00
 -- url     : https://prove2.me/theorems/6143cd5d-92f5-4512-9d9f-aa94f9f50e7f

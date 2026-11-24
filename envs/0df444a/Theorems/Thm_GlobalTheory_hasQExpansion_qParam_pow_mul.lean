@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hasQExpansion_qParam_pow_mul
 -- name    : GlobalTheory.hasQExpansion_qParam_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:21:25.905899+00:00
 -- url     : https://prove2.me/theorems/f7412dcc-d15c-47e6-97f2-6c8b14beb4c0

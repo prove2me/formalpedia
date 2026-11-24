@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_parFun_mem
 -- name    : GlobalTheory.KSp.parFun_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:07:23.961209+00:00
 -- url     : https://prove2.me/theorems/eb04ee45-1606-4aaf-8d02-caee3d734790

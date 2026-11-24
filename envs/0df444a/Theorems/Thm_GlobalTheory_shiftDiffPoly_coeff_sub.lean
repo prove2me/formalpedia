@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_shiftDiffPoly_coeff_sub
 -- name    : GlobalTheory.shiftDiffPoly_coeff_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:20:12.557774+00:00
 -- url     : https://prove2.me/theorems/b8d7b88f-8371-41f8-b036-2a2a87607b98

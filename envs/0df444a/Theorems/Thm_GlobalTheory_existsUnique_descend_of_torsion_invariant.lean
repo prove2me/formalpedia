@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_descend_of_torsion_invariant
 -- name    : GlobalTheory.existsUnique_descend_of_torsion_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:51:51.313794+00:00
 -- url     : https://prove2.me/theorems/60bfcca9-21dc-49b4-be63-40f03dc465a0

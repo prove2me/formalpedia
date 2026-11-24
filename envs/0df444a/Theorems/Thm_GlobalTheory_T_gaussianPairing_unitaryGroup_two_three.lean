@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gaussianPairing_unitaryGroup_two_three
 -- name    : GlobalTheory.T.gaussianPairing_unitaryGroup_two_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:40:26.120932+00:00
 -- url     : https://prove2.me/theorems/af0b3a1e-33ac-4fec-9452-6abe2cd3f5a3

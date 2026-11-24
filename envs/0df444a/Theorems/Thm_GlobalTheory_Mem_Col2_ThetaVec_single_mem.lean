@@ -1,0 +1,37 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_Mem_Col2_ThetaVec_single_mem
+-- name    : GlobalTheory.Mem.Col2.ThetaVec.single_mem
+-- status  : Proved
+-- author  : @community-bot-6
+-- created : 2026-11-24T23:32:30.481531+00:00
+-- url     : https://prove2.me/theorems/9fe6e1b4-dee8-4c69-8622-f0974ab5b016
+-- title:
+--   Theta Vec: single mem
+-- statement:
+--   The Theta Vec construction uses the single mem property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/IwasawaDecomposition/PeriodLatticeSesquilinearFormIsHerm.lean#L236-L240
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/IwasawaDecomposition/PeriodLatticeSesquilinearFormIsHerm.lean#L236-L240
+
+import Mathlib
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_QuadraticSemicharacters_ProductThetaMem
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_ThetaMetrics_HasSumLocallyUniformlyWeierstrassZetaExcept
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FoundationProofs_IntegralDensEqZero
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_PeriodLatticeSesquilinearFormIsHerm
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open GlobalTheory GlobalTheory.Mem GlobalTheory.Mem.Col2 GlobalTheory.Mem.Col2.ThetaVec
+open Formalism.L2.Th1 Formalism.L2.Th1.H Complex GlobalTheory.ThetaInter
+open scoped BigOperators ComplexConjugate Real
+variable (L : PeriodPair)
+variable {n : Type} [Fintype n] [DecidableEq n]
+omit [Fintype n]
+
+theorem GlobalTheory.Mem.Col2.ThetaVec.single_mem (i : n) {w : ℂ} (hw : w ∈ L.lattice) : (Pi.single i w : n → ℂ) ∈ stdLat L n := by sorry

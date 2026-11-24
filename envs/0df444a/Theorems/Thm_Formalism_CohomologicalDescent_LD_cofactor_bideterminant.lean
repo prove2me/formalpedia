@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_cofactor_bideterminant
 -- name    : Formalism.CohomologicalDescent.LD.cofactor_bideterminant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:06:21.92249+00:00
 -- url     : https://prove2.me/theorems/32707f5a-9464-4b74-87d8-b0a8ed7b9ef7

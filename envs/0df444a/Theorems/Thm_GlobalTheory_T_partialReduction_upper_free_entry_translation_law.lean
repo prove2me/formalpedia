@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_partialReduction_upper_free_entry_translation_law
 -- name    : GlobalTheory.T.partialReduction_upper_free_entry_translation_law
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:02:17.022923+00:00
 -- url     : https://prove2.me/theorems/8949f0ac-df18-46ec-a7fe-6ef0ae14a798

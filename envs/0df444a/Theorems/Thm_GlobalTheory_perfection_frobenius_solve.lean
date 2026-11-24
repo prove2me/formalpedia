@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_perfection_frobenius_solve
 -- name    : GlobalTheory.perfection_frobenius_solve
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:14:20.528015+00:00
 -- url     : https://prove2.me/theorems/9016419e-b51c-48e2-9a0d-653a12928d35

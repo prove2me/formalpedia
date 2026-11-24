@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcAvoid_exists_algHom_powerSeries_ne_zero
 -- name    : GlobalTheory.ArcAvoid.exists_algHom_powerSeries_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:58:38.870707+00:00
 -- url     : https://prove2.me/theorems/3290835e-e5fb-47fd-9d78-e86fa2cc8706

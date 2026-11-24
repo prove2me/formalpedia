@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NilpotentEval_isPrecomplete_of_pow_le
 -- name    : GlobalTheory.NilpotentEval.isPrecomplete_of_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:33:36.360268+00:00
 -- url     : https://prove2.me/theorems/f057e113-d3ae-429b-a763-fe4038522f87

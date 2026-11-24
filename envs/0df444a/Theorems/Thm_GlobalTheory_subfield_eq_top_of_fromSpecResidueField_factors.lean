@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_subfield_eq_top_of_fromSpecResidueField_factors
 -- name    : GlobalTheory.subfield_eq_top_of_fromSpecResidueField_factors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:21:44.480236+00:00
 -- url     : https://prove2.me/theorems/e7ba0c01-a68a-4be1-ac11-c1b12538af5a

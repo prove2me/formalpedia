@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntPair_Moves_symm
 -- name    : GlobalTheory.IntPair.Moves.symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:07:34.850601+00:00
 -- url     : https://prove2.me/theorems/a0042e6e-f52f-4e9e-9b78-7c341296b7ae

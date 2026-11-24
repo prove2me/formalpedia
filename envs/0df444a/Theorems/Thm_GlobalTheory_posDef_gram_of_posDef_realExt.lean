@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_posDef_gram_of_posDef_realExt
 -- name    : GlobalTheory.posDef_gram_of_posDef_realExt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:14:04.557568+00:00
 -- url     : https://prove2.me/theorems/7e898f1b-74dd-4de2-ac4f-4543954a369b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_unitMultiple_descends_of_height_eq_one
 -- name    : GlobalTheory.unitMultiple_descends_of_height_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:24:48.892962+00:00
 -- url     : https://prove2.me/theorems/b09ee405-bbd5-46c1-bfcf-42199edfdcea

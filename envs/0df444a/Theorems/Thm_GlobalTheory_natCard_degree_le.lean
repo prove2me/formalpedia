@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_natCard_degree_le
 -- name    : GlobalTheory.natCard_degree_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:12:13.412116+00:00
 -- url     : https://prove2.me/theorems/5b5288f8-8333-4ceb-a366-deca961d232f

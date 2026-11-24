@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_zmod_sq_dvd_of_mul_eq_zero
 -- name    : GlobalTheory.zmod_sq_dvd_of_mul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:25:25.315319+00:00
 -- url     : https://prove2.me/theorems/1597ea2e-4140-4e52-83a3-011117be2912

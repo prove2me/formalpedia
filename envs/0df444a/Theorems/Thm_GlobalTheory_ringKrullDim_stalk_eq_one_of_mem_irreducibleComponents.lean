@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ringKrullDim_stalk_eq_one_of_mem_irreducibleComponents
 -- name    : GlobalTheory.ringKrullDim_stalk_eq_one_of_mem_irreducibleComponents
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:18:53.469734+00:00
 -- url     : https://prove2.me/theorems/cc6f0833-4ea3-472d-936f-5d9766a4a675

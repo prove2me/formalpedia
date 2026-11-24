@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_setOf_degree_eq_coe_finsuppAntidiag
 -- name    : GlobalTheory.setOf_degree_eq_coe_finsuppAntidiag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:20:07.045812+00:00
 -- url     : https://prove2.me/theorems/72383eed-ed35-4b7e-a867-2cc3dc134e26

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_norm_iteratedFDeriv_multilinear_diagonal_le
 -- name    : GlobalTheory.T.norm_iteratedFDeriv_multilinear_diagonal_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:56:49.49873+00:00
 -- url     : https://prove2.me/theorems/2940d212-a674-4107-a1b1-ba43ec79de50

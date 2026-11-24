@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_units_submodule
 -- name    : GlobalTheory.finite_units_submodule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:47:13.604227+00:00
 -- url     : https://prove2.me/theorems/35b1627a-a463-4fc5-9e90-1da3aa7be3ec

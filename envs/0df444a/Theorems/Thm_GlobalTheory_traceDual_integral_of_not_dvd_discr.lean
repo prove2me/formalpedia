@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_traceDual_integral_of_not_dvd_discr
 -- name    : GlobalTheory.traceDual_integral_of_not_dvd_discr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:23:50.613219+00:00
 -- url     : https://prove2.me/theorems/34f56643-9d88-4f0d-a391-1f668c3815aa

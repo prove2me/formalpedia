@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_exp_pair_mul_exp
 -- name    : GlobalTheory.sum_exp_pair_mul_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:23:31.401327+00:00
 -- url     : https://prove2.me/theorems/ce892e3a-fa22-4bb3-a6ed-87bd24a58914

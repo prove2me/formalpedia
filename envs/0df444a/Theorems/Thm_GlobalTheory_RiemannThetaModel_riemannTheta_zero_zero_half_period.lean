@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RiemannThetaModel_riemannTheta_zero_zero_half_period
 -- name    : GlobalTheory.RiemannThetaModel.riemannTheta_zero_zero_half_period
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:25:57.944479+00:00
 -- url     : https://prove2.me/theorems/15ae59ac-ce20-45f6-91fa-481f89b6ed94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_CechOrdered_homotopy_d_zero
 -- name    : GroundTheory.Arith.SchemeCoh.CechOrdered.homotopy_d_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:28:16.991833+00:00
 -- url     : https://prove2.me/theorems/9203a2ec-8159-4b4f-bfaa-c9e672863705

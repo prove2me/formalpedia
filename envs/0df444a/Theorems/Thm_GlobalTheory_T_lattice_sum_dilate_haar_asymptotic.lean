@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lattice_sum_dilate_haar_asymptotic
 -- name    : GlobalTheory.T.lattice_sum_dilate_haar_asymptotic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:50:51.329953+00:00
 -- url     : https://prove2.me/theorems/abce8acb-0cb7-4620-9e37-d0095312abad

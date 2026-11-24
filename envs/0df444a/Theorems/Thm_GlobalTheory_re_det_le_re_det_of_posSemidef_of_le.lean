@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_re_det_le_re_det_of_posSemidef_of_le
 -- name    : GlobalTheory.re_det_le_re_det_of_posSemidef_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:16:52.115927+00:00
 -- url     : https://prove2.me/theorems/f9e5298a-0ed2-4146-a295-31cac2e82002

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_pderivIter_add_index
 -- name    : GlobalTheory.pderivIter_add_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:13:13.088984+00:00
 -- url     : https://prove2.me/theorems/7beabc06-d223-4648-928d-5c35183c99dd

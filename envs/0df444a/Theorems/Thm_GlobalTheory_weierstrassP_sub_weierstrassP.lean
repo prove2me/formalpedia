@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_weierstrassP_sub_weierstrassP
 -- name    : GlobalTheory.weierstrassP_sub_weierstrassP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:24:40.475926+00:00
 -- url     : https://prove2.me/theorems/ee0cf6f5-ef4f-4018-bf2c-22fa833ba11c

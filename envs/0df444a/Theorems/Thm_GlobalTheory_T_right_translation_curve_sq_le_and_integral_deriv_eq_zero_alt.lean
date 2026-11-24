@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_right_translation_curve_sq_le_and_integral_deriv_eq_zero_alt
 -- name    : GlobalTheory.T.right_translation_curve_sq_le_and_integral_deriv_eq_zero_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:56:23.851458+00:00
 -- url     : https://prove2.me/theorems/27a7c116-d7d5-40bd-a06e-23a474f102b6

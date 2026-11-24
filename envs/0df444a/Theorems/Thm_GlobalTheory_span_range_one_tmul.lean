@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_span_range_one_tmul
 -- name    : GlobalTheory.span_range_one_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:21:30.445352+00:00
 -- url     : https://prove2.me/theorems/1c11aed5-bd2a-4a64-ac37-7e8863de9a2d

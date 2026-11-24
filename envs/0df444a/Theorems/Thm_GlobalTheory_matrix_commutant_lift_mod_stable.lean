@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_matrix_commutant_lift_mod_stable
 -- name    : GlobalTheory.matrix_commutant_lift_mod_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:09:47.286483+00:00
 -- url     : https://prove2.me/theorems/495a78b6-7a84-43d2-a9c9-04230f02cb41

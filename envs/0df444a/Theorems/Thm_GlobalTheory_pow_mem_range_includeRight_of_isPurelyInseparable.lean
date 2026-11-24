@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_pow_mem_range_includeRight_of_isPurelyInseparable
 -- name    : GlobalTheory.pow_mem_range_includeRight_of_isPurelyInseparable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:14:03.050164+00:00
 -- url     : https://prove2.me/theorems/2c388fde-c756-4376-944d-50093cc4beee

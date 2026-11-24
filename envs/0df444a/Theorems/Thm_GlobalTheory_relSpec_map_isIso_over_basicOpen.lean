@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_relSpec_map_isIso_over_basicOpen
 -- name    : GlobalTheory.relSpec_map_isIso_over_basicOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:16:29.040632+00:00
 -- url     : https://prove2.me/theorems/bf0fa799-0c2c-43b8-acd4-e43c73daceca

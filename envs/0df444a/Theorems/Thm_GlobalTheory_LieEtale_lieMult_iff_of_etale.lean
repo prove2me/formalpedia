@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LieEtale_lieMult_iff_of_etale
 -- name    : GlobalTheory.LieEtale.lieMult_iff_of_etale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:05:33.332996+00:00
 -- url     : https://prove2.me/theorems/1ef0a628-0984-4053-9334-42ece49f1f33

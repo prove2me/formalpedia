@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_independent_mod_prime_of_pow_le_card
 -- name    : GlobalTheory.T.exists_independent_mod_prime_of_pow_le_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:35:40.454008+00:00
 -- url     : https://prove2.me/theorems/1111efe2-5233-4079-a96f-b842061a4441

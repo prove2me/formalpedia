@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Iwasawa_IsDistinguished_monic
 -- name    : GroundTheory.Arith.Iwasawa.IsDistinguished.monic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:26:45.180709+00:00
 -- url     : https://prove2.me/theorems/873bd6be-66dc-4eb0-aa0e-622c0add550f

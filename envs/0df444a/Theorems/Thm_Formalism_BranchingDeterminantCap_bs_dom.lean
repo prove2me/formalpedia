@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bs_dom
 -- name    : Formalism.BranchingDeterminantCap.bs_dom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:25:44.307396+00:00
 -- url     : https://prove2.me/theorems/78e40be5-3066-490e-9b22-6980792a8ff6

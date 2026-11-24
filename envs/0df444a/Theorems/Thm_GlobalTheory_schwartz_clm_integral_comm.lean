@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_schwartz_clm_integral_comm
 -- name    : GlobalTheory.schwartz_clm_integral_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:20:30.95433+00:00
 -- url     : https://prove2.me/theorems/c78d4583-36b3-46db-9107-ab7ec7c2fee3

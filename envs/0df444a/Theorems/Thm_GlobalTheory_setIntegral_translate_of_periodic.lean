@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_setIntegral_translate_of_periodic
 -- name    : GlobalTheory.setIntegral_translate_of_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:20:22.139536+00:00
 -- url     : https://prove2.me/theorems/e5649523-2c55-4543-8b85-751c2708b9be

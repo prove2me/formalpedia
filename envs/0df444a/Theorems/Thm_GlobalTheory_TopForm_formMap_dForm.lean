@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TopForm_formMap_dForm
 -- name    : GlobalTheory.TopForm.formMap_dForm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:02:18.872526+00:00
 -- url     : https://prove2.me/theorems/bb5a6686-acd7-40dd-8f51-c7fc73d5e93a

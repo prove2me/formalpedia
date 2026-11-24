@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankStrataProof_continuous_lAct
 -- name    : GlobalTheory.RankStrataProof.continuous_lAct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:29:52.428842+00:00
 -- url     : https://prove2.me/theorems/2ed88b8c-6cdb-43f9-9b06-f4c919518f60

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsQuasiRegularSeq_unit_mul
 -- name    : GlobalTheory.IsQuasiRegularSeq.unit_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:39:11.224378+00:00
 -- url     : https://prove2.me/theorems/7180f6e3-790f-44d4-9759-fa268d0a2b2e

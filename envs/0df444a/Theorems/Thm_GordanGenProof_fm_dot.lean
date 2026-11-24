@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GordanGenProof_fm_dot
 -- name    : GordanGenProof.fm_dot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:25:43.656471+00:00
 -- url     : https://prove2.me/theorems/46c915be-7312-4c96-b5c8-dfd77ee7d37d

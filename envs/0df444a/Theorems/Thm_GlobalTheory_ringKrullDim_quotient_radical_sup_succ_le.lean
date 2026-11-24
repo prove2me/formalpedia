@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ringKrullDim_quotient_radical_sup_succ_le
 -- name    : GlobalTheory.ringKrullDim_quotient_radical_sup_succ_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:18:50.833195+00:00
 -- url     : https://prove2.me/theorems/d077476d-3313-4100-82da-631cb266e4b0

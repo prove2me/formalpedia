@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_open_inter_fiber_subset_sectionComponent
 -- name    : GlobalTheory.exists_open_inter_fiber_subset_sectionComponent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:37:23.208015+00:00
 -- url     : https://prove2.me/theorems/5cf1c7cc-8c36-4959-8627-d425e78a19f3

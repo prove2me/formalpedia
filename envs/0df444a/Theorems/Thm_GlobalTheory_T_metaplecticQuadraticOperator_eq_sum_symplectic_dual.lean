@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_metaplecticQuadraticOperator_eq_sum_symplectic_dual
 -- name    : GlobalTheory.T.metaplecticQuadraticOperator_eq_sum_symplectic_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:52:21.057097+00:00
 -- url     : https://prove2.me/theorems/8e956f43-d719-4b15-aa3c-ef5cbc91b2ba

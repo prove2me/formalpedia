@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_succMinRadii_of_lt
 -- name    : GlobalTheory.mem_succMinRadii_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:11:03.27622+00:00
 -- url     : https://prove2.me/theorems/6ac9f613-ff3e-49e6-929c-d7afb68f21cb

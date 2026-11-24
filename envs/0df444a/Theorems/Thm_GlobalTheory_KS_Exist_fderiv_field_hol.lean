@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Exist_fderiv_field_hol
 -- name    : GlobalTheory.KS.Exist.fderiv_field_hol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:46:49.758967+00:00
 -- url     : https://prove2.me/theorems/39f08d4c-d513-4bbe-9828-72b92cf88de0

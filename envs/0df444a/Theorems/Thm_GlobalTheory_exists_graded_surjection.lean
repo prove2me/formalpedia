@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_graded_surjection
 -- name    : GlobalTheory.exists_graded_surjection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:19:28.826079+00:00
 -- url     : https://prove2.me/theorems/c4011de6-0d71-41ac-9cd0-146e83b0b4d8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsHilbertPoly_unique
 -- name    : GlobalTheory.IsHilbertPoly.unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:55:51.795807+00:00
 -- url     : https://prove2.me/theorems/294604a7-07be-4fd7-abb3-095e01eb75d9

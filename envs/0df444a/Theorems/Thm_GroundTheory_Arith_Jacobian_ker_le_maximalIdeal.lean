@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Jacobian_ker_le_maximalIdeal
 -- name    : GroundTheory.Arith.Jacobian.ker_le_maximalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:26:53.400512+00:00
 -- url     : https://prove2.me/theorems/1f5350c8-014b-4dc3-85f8-9e8cb3d1d64f

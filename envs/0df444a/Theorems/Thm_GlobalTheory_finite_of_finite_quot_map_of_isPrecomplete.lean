@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_of_finite_quot_map_of_isPrecomplete
 -- name    : GlobalTheory.finite_of_finite_quot_map_of_isPrecomplete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:47:01.78681+00:00
 -- url     : https://prove2.me/theorems/2dd24c01-e6a2-4cb1-8017-7e6aedc95c01

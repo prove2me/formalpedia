@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_symplectic_system_torsion_basis
 -- name    : GlobalTheory.symplectic_system_torsion_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:23:59.254812+00:00
 -- url     : https://prove2.me/theorems/9fc9ce42-8d74-4071-89b0-c1a05bfe165e

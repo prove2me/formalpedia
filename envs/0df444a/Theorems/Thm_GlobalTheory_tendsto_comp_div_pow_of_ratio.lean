@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tendsto_comp_div_pow_of_ratio
 -- name    : GlobalTheory.tendsto_comp_div_pow_of_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:22:23.008611+00:00
 -- url     : https://prove2.me/theorems/7f63d709-f58b-4866-9663-f908d65636f3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_congruence_trace_lt
 -- name    : GlobalTheory.exists_congruence_trace_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:30:10.037339+00:00
 -- url     : https://prove2.me/theorems/5e68bdf3-faca-4956-9155-f6406a1ec09d

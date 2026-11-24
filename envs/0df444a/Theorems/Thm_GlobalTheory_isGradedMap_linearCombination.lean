@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isGradedMap_linearCombination
 -- name    : GlobalTheory.isGradedMap_linearCombination
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:19:24.973033+00:00
 -- url     : https://prove2.me/theorems/20c2ec8c-97db-43be-9ab5-454934386fa8

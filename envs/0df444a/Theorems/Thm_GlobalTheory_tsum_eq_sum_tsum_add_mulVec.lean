@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tsum_eq_sum_tsum_add_mulVec
 -- name    : GlobalTheory.tsum_eq_sum_tsum_add_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:24:24.993374+00:00
 -- url     : https://prove2.me/theorems/d226a652-4109-4710-bf55-ad16f4f693a1

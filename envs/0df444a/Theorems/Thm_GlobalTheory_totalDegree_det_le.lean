@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_totalDegree_det_le
 -- name    : GlobalTheory.totalDegree_det_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:23:34.868264+00:00
 -- url     : https://prove2.me/theorems/eef8f31a-2f59-43dc-9c7f-03d8552ca189

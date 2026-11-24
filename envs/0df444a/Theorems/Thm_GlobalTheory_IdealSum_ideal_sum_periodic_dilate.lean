@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdealSum_ideal_sum_periodic_dilate
 -- name    : GlobalTheory.IdealSum.ideal_sum_periodic_dilate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:04:41.818014+00:00
 -- url     : https://prove2.me/theorems/dd56289a-1b3d-4e5a-b39f-afa9d569b438

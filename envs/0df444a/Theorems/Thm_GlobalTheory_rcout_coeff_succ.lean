@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_rcout_coeff_succ
 -- name    : GlobalTheory.rcout_coeff_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:16:51.278505+00:00
 -- url     : https://prove2.me/theorems/fe4b3cfe-fc1e-45bd-986d-2ec52b092d39

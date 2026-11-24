@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ringHom_flat_of_injective_of_isUnit
 -- name    : GlobalTheory.ringHom_flat_of_injective_of_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:17:52.748969+00:00
 -- url     : https://prove2.me/theorems/ca83daa0-9feb-4d7e-8b74-cc6b8c30ec99

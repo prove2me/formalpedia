@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ultra_matrix_mul_entry_le
 -- name    : GlobalTheory.ultra_matrix_mul_entry_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:24:32.387816+00:00
 -- url     : https://prove2.me/theorems/ba11e040-8007-4156-b636-011b11b35cba

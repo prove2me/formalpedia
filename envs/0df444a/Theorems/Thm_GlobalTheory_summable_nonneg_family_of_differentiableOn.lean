@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_summable_nonneg_family_of_differentiableOn
 -- name    : GlobalTheory.summable_nonneg_family_of_differentiableOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:22:30.398125+00:00
 -- url     : https://prove2.me/theorems/006ddf95-39ca-46cd-857a-13bd9fea0a2b

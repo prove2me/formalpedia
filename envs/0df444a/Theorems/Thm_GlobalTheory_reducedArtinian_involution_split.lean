@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_reducedArtinian_involution_split
 -- name    : GlobalTheory.reducedArtinian_involution_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:16:22.291812+00:00
 -- url     : https://prove2.me/theorems/5ded6fab-a6b9-4362-b470-c2ed92765df7

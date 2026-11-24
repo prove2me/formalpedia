@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_succMin_comap_linearIsometry
 -- name    : GlobalTheory.succMin_comap_linearIsometry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:23:01.027292+00:00
 -- url     : https://prove2.me/theorems/f40ecd0b-7c99-44aa-8a23-f55901dfa689

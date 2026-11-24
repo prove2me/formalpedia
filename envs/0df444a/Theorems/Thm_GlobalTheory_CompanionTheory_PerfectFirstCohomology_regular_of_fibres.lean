@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PerfectFirstCohomology_regular_of_fibres
 -- name    : GlobalTheory.CompanionTheory.PerfectFirstCohomology.regular_of_fibres
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:02:55.63553+00:00
 -- url     : https://prove2.me/theorems/9689b6e0-b6a7-44c9-b263-dc8f9a5d8912

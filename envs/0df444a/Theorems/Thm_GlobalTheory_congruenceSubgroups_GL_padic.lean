@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_congruenceSubgroups_GL_padic
 -- name    : GlobalTheory.congruenceSubgroups_GL_padic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:13:55.598903+00:00
 -- url     : https://prove2.me/theorems/a6bdb754-1b74-4983-ab26-92b306598a8c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sec_eq_zero_of_chart
 -- name    : GlobalTheory.sec_eq_zero_of_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:20:33.854325+00:00
 -- url     : https://prove2.me/theorems/15a2eb03-2064-491a-9fcc-7522e1663754

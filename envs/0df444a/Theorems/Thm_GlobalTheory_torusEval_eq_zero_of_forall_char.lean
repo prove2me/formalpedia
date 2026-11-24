@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_torusEval_eq_zero_of_forall_char
 -- name    : GlobalTheory.torusEval_eq_zero_of_forall_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:23:49.678363+00:00
 -- url     : https://prove2.me/theorems/bf4e5079-5a62-43d4-9212-2de29ab83c34

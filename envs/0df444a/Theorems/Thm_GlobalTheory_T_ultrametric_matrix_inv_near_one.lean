@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ultrametric_matrix_inv_near_one
 -- name    : GlobalTheory.T.ultrametric_matrix_inv_near_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:01:13.376075+00:00
 -- url     : https://prove2.me/theorems/84242823-b12a-47d8-854d-a6269cb279ae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_nsmul_surj_of_card_torsion
 -- name    : GlobalTheory.nsmul_surj_of_card_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:12:56.842797+00:00
 -- url     : https://prove2.me/theorems/7bd635e6-579b-482c-924a-3c4ced621c9e

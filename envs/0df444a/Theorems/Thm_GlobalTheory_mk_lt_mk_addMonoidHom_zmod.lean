@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mk_lt_mk_addMonoidHom_zmod
 -- name    : GlobalTheory.mk_lt_mk_addMonoidHom_zmod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:11:06.222792+00:00
 -- url     : https://prove2.me/theorems/c8f0189b-f09b-4bb2-81e5-ae4e84a413a7

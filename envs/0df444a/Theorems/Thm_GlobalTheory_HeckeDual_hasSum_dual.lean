@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeDual_hasSum_dual
 -- name    : GlobalTheory.HeckeDual.hasSum_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:03:35.862966+00:00
 -- url     : https://prove2.me/theorems/8d828030-012a-4b84-b7c4-f3ea0b0eaf60

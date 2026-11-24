@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_monic_coeff_natDegree_sub_eq_mul_cmConj
 -- name    : GlobalTheory.T.monic_coeff_natDegree_sub_eq_mul_cmConj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:53:22.871658+00:00
 -- url     : https://prove2.me/theorems/b0f9b1e9-e748-4c48-a9fe-e4b7494b398f

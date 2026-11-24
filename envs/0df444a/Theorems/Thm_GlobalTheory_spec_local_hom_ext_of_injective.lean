@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_spec_local_hom_ext_of_injective
 -- name    : GlobalTheory.spec_local_hom_ext_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:22:56.662795+00:00
 -- url     : https://prove2.me/theorems/0bc803bc-9e36-4a17-b8cb-181074c0079c

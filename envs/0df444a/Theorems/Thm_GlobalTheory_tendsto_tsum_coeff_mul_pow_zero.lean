@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tendsto_tsum_coeff_mul_pow_zero
 -- name    : GlobalTheory.tendsto_tsum_coeff_mul_pow_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:24:26.019907+00:00
 -- url     : https://prove2.me/theorems/4954446a-fd8e-417d-92c2-d8f034cfdac4

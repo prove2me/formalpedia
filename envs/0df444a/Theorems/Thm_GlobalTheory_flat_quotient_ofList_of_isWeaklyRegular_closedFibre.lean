@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_quotient_ofList_of_isWeaklyRegular_closedFibre
 -- name    : GlobalTheory.flat_quotient_ofList_of_isWeaklyRegular_closedFibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:52:15.851305+00:00
 -- url     : https://prove2.me/theorems/26385d66-de07-456b-be1e-e6fae94f3411

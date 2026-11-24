@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isPreconnected_polydisc_first_coords_ne_zero
 -- name    : GlobalTheory.isPreconnected_polydisc_first_coords_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:58:35.888008+00:00
 -- url     : https://prove2.me/theorems/3116bf67-b598-419a-9b99-32f639acd6af

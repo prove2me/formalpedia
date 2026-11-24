@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_totalDegree_le_of_integral_at_infinity
 -- name    : GlobalTheory.totalDegree_le_of_integral_at_infinity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:23:41.726086+00:00
 -- url     : https://prove2.me/theorems/70043b8d-5223-46a4-8388-36cb25ab4358

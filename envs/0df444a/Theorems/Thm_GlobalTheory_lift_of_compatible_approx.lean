@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lift_of_compatible_approx
 -- name    : GlobalTheory.lift_of_compatible_approx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:06:59.65519+00:00
 -- url     : https://prove2.me/theorems/d5ec01bf-4234-46b7-ba51-73a3e2a292cd

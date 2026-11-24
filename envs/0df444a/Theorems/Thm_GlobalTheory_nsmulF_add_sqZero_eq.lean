@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_nsmulF_add_sqZero_eq
 -- name    : GlobalTheory.nsmulF_add_sqZero_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:20:17.867122+00:00
 -- url     : https://prove2.me/theorems/e53b9e6b-afaa-40e2-bb42-4efb9c7c415d

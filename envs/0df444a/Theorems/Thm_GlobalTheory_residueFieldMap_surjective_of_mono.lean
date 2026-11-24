@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_residueFieldMap_surjective_of_mono
 -- name    : GlobalTheory.residueFieldMap_surjective_of_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:15:57.222215+00:00
 -- url     : https://prove2.me/theorems/0377170b-a0bf-4fff-8174-2b8698cdb6c2

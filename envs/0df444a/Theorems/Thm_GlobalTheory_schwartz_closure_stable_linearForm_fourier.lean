@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_schwartz_closure_stable_linearForm_fourier
 -- name    : GlobalTheory.schwartz_closure_stable_linearForm_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:20:04.336454+00:00
 -- url     : https://prove2.me/theorems/f953ee73-0fda-4a18-a8b7-4a1375aed996

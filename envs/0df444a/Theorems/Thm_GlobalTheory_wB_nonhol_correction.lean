@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_wB_nonhol_correction
 -- name    : GlobalTheory.wB_nonhol_correction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:24:46.877049+00:00
 -- url     : https://prove2.me/theorems/e9c1ca65-75b4-43cf-87eb-c418cf5672cf

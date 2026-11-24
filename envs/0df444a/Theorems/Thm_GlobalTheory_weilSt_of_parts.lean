@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_weilSt_of_parts
 -- name    : GlobalTheory.weilSt_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:25:05.991741+00:00
 -- url     : https://prove2.me/theorems/8efc7172-0b09-4d84-94a7-e8f5635a0161

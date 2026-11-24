@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_surjective_spMap_of_field
 -- name    : GlobalTheory.surjective_spMap_of_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:22:49.595183+00:00
 -- url     : https://prove2.me/theorems/a578c797-a364-42ba-884c-184b8bfdb414

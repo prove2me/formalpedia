@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_rank_normal_form_field
 -- name    : GlobalTheory.rank_normal_form_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:15:36.309052+00:00
 -- url     : https://prove2.me/theorems/a5268b1c-8013-48bc-aa56-0b0bdb006eb3

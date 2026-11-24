@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sub_apply_bijective_of_iterate_eq_zero
 -- name    : GlobalTheory.sub_apply_bijective_of_iterate_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:21:39.401963+00:00
 -- url     : https://prove2.me/theorems/dab0899e-1bac-4ad1-b57e-a5cde24bb10c

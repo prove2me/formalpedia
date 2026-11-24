@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_schwartz_eq_fourier_synthesis
 -- name    : GlobalTheory.schwartz_eq_fourier_synthesis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:20:18.471857+00:00
 -- url     : https://prove2.me/theorems/544c637e-5c22-48e3-9f60-fe64593aae72

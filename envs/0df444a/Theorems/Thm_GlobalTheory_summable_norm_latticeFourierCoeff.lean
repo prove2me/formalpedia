@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_summable_norm_latticeFourierCoeff
 -- name    : GlobalTheory.summable_norm_latticeFourierCoeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:22:40.510109+00:00
 -- url     : https://prove2.me/theorems/3372bf98-8502-4f3d-930d-4a76e96468a9

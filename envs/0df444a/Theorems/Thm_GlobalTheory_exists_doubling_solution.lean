@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_doubling_solution
 -- name    : GlobalTheory.exists_doubling_solution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:31:27.13632+00:00
 -- url     : https://prove2.me/theorems/4e429966-8d66-43a9-837a-f00171370aca

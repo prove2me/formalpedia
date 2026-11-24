@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DictPinCompare_joint_iff
 -- name    : GlobalTheory.DictPinCompare.joint_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:18:38.62829+00:00
 -- url     : https://prove2.me/theorems/dfbab64f-1044-44ee-aa10-b1dd81dbec76

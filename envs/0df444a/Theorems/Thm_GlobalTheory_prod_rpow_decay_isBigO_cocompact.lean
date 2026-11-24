@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_prod_rpow_decay_isBigO_cocompact
 -- name    : GlobalTheory.prod_rpow_decay_isBigO_cocompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:15:06.13586+00:00
 -- url     : https://prove2.me/theorems/0ce9b669-d4d8-4eea-bb08-37391bf50b83

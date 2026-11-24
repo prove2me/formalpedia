@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_of_perfect_pairing_zmod
 -- name    : GlobalTheory.finite_of_perfect_pairing_zmod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:47:14.771509+00:00
 -- url     : https://prove2.me/theorems/4b547491-e7a5-4ecf-9272-904d348b5374

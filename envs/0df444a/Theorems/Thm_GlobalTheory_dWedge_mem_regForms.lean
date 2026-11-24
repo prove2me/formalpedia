@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dWedge_mem_regForms
 -- name    : GlobalTheory.dWedge_mem_regForms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:14:20.480853+00:00
 -- url     : https://prove2.me/theorems/9a5ac69f-e177-457f-bd4a-beaba1eca0bd

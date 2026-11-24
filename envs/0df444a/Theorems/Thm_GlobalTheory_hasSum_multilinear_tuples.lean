@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hasSum_multilinear_tuples
 -- name    : GlobalTheory.hasSum_multilinear_tuples
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:54:12.139948+00:00
 -- url     : https://prove2.me/theorems/026fc62e-940f-405b-a69a-57848bcc4acf

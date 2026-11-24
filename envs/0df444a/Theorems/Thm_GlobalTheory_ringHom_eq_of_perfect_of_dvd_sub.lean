@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ringHom_eq_of_perfect_of_dvd_sub
 -- name    : GlobalTheory.ringHom_eq_of_perfect_of_dvd_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:17:38.193704+00:00
 -- url     : https://prove2.me/theorems/d95461e9-ffe4-45db-a424-7fcce54f9e7a

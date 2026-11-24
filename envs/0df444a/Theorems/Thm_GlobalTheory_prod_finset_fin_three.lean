@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_prod_finset_fin_three
 -- name    : GlobalTheory.prod_finset_fin_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:15:43.112802+00:00
 -- url     : https://prove2.me/theorems/1bafeafa-9e85-4a6f-8831-2f49dfe4b878

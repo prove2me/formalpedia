@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_padicNorm_of_sq_add_prime_mul_sq
 -- name    : GlobalTheory.padicNorm_of_sq_add_prime_mul_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:12:57.725366+00:00
 -- url     : https://prove2.me/theorems/0f3ccd95-c481-4f07-89a6-38ab6e93a48f

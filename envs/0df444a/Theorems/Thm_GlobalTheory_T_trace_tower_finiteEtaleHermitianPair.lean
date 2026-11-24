@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_trace_tower_finiteEtaleHermitianPair
 -- name    : GlobalTheory.T.trace_tower_finiteEtaleHermitianPair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:59:58.121988+00:00
 -- url     : https://prove2.me/theorems/8c36250e-1b1b-4d5d-96cf-f9f52e4a994f

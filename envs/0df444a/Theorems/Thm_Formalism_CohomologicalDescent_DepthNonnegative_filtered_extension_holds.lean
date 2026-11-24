@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_DepthNonnegative_filtered_extension_holds
 -- name    : Formalism.CohomologicalDescent.DepthNonnegative.filtered_extension_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:09:10.969655+00:00
 -- url     : https://prove2.me/theorems/5aa1cf6e-78ec-43bf-aed7-ddaf78e2cf7a

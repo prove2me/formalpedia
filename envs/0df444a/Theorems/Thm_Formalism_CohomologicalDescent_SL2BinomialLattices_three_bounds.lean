@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_SL2BinomialLattices_three_bounds
 -- name    : Formalism.CohomologicalDescent.SL2BinomialLattices.three_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:59:04.672918+00:00
 -- url     : https://prove2.me/theorems/a59327aa-805e-43e2-b5ab-73fc52c0b456

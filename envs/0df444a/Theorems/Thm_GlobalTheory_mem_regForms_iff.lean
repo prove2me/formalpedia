@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_regForms_iff
 -- name    : GlobalTheory.mem_regForms_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:11:38.006268+00:00
 -- url     : https://prove2.me/theorems/f7d3d0c1-1c17-44bf-b410-7879f495e942

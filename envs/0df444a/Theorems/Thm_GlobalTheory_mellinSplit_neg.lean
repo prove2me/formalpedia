@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mellinSplit_neg
 -- name    : GlobalTheory.mellinSplit_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:12:15.282516+00:00
 -- url     : https://prove2.me/theorems/0c36c3f3-c8ba-4d16-a449-7b3f60d10bdd

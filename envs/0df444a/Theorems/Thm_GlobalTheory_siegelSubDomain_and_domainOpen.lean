@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_siegelSubDomain_and_domainOpen
 -- name    : GlobalTheory.siegelSubDomain_and_domainOpen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:57:30.736369+00:00
 -- url     : https://prove2.me/theorems/c8305a58-e0e8-48ba-95ae-6f81e704b6b7

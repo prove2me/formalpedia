@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_length_restrictScalars_eq_sum_inertiaDeg_of_isLocalizedModule
 -- name    : GlobalTheory.length_restrictScalars_eq_sum_inertiaDeg_of_isLocalizedModule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:05:49.440655+00:00
 -- url     : https://prove2.me/theorems/043fc0a4-6bec-439b-a353-1ad1db62e1ec

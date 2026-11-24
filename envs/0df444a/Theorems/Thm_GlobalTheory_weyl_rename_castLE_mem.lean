@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_weyl_rename_castLE_mem
 -- name    : GlobalTheory.weyl_rename_castLE_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:25:47.391833+00:00
 -- url     : https://prove2.me/theorems/a7127005-fc46-49cf-9167-1bb4179521de

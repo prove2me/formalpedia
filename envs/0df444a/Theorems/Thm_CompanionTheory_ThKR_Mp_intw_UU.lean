@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_Mp_intw_UU
 -- name    : CompanionTheory.ThKR.Mp.intw_UU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:18:16.847302+00:00
 -- url     : https://prove2.me/theorems/96a3669d-f506-47c5-9942-af9cd9d6655c

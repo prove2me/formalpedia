@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatFactor_UpStage_itUp_zero
 -- name    : GlobalTheory.FlatFactor.UpStage.itUp_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:04:46.375558+00:00
 -- url     : https://prove2.me/theorems/aa401196-bce5-44dc-a7cb-5dd4106777c2

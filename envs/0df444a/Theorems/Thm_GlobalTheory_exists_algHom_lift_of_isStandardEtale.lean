@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_algHom_lift_of_isStandardEtale
 -- name    : GlobalTheory.exists_algHom_lift_of_isStandardEtale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:29:07.453821+00:00
 -- url     : https://prove2.me/theorems/9383cd9a-8261-4794-add9-bbbcffd1b60b

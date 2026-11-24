@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tensorToModP_unit
 -- name    : GlobalTheory.tensorToModP_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:23:46.347888+00:00
 -- url     : https://prove2.me/theorems/35a2bb89-0777-4c96-bc57-00b0f8d8c7f8

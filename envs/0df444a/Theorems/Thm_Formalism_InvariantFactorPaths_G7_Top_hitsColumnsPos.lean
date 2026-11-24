@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_Top_hitsColumnsPos
 -- name    : Formalism.InvariantFactorPaths.G7.Top.hitsColumnsPos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:37:17.501551+00:00
 -- url     : https://prove2.me/theorems/fbe54e4b-160b-4d00-a271-4b9cc06e1bd6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_adelicCompletion_selfDual_of_selfDual_lattice
 -- name    : GlobalTheory.T.adelicCompletion_selfDual_of_selfDual_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:26:09.519103+00:00
 -- url     : https://prove2.me/theorems/f6c30069-6b9a-42cb-84ba-a62c92a1a25a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartRed_kills_low
 -- name    : GlobalTheory.PartRed.kills_low
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:11:15.701656+00:00
 -- url     : https://prove2.me/theorems/d77fb1e3-2fd1-4ff4-966c-f954b38961e0

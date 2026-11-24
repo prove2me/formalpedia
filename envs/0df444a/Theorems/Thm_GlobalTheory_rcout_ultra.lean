@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_rcout_ultra
 -- name    : GlobalTheory.rcout_ultra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:16:57.447376+00:00
 -- url     : https://prove2.me/theorems/1986e124-dded-4f84-92eb-d66e2e7fc8eb

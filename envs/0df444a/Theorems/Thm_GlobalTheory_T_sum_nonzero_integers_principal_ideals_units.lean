@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_sum_nonzero_integers_principal_ideals_units
 -- name    : GlobalTheory.T.sum_nonzero_integers_principal_ideals_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:58:40.320786+00:00
 -- url     : https://prove2.me/theorems/6ae3abdf-faf8-4f45-93d9-c3b048a611af

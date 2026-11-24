@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Etale_bijective_map_of_isIso_counit
 -- name    : GroundTheory.Arith.Etale.bijective_map_of_isIso_counit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:26:59.654609+00:00
 -- url     : https://prove2.me/theorems/8ee38c91-edfe-4e71-b95b-ea8743473c7b

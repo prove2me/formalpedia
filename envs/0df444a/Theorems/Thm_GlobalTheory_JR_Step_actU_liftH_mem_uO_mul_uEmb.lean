@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Step_actU_liftH_mem_uO_mul_uEmb
 -- name    : GlobalTheory.JR.Step.actU_liftH_mem_uO_mul_uEmb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:36:32.74891+00:00
 -- url     : https://prove2.me/theorems/9be7789b-728c-4b2b-9939-861ff749113a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_hw_dom
 -- name    : Formalism.L2.G.Model.TS.hw_dom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:51.289376+00:00
 -- url     : https://prove2.me/theorems/554e2c31-da6c-4fd3-b69e-541398c165c1

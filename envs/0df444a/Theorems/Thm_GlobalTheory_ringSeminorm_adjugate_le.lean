@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ringSeminorm_adjugate_le
 -- name    : GlobalTheory.ringSeminorm_adjugate_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:18:45.008296+00:00
 -- url     : https://prove2.me/theorems/fb464965-cc38-49b6-92d8-2e71339374cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_schwartz_pairing_conj_clm
 -- name    : GlobalTheory.schwartz_pairing_conj_clm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:20:49.93881+00:00
 -- url     : https://prove2.me/theorems/56f04dbd-a222-4ebb-a2f2-88ac0c3af0e5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_map_ofReal_norm_le
 -- name    : GlobalTheory.det_map_ofReal_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:15:25.672084+00:00
 -- url     : https://prove2.me/theorems/2c9124d5-d53f-44b3-b9e2-8ad5ee1e3547

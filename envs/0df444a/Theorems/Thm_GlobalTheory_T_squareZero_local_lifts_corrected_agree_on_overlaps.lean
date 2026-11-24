@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_squareZero_local_lifts_corrected_agree_on_overlaps
 -- name    : GlobalTheory.T.squareZero_local_lifts_corrected_agree_on_overlaps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:00:20.257864+00:00
 -- url     : https://prove2.me/theorems/b51000f6-3605-4c6e-968d-abc595b16f5b

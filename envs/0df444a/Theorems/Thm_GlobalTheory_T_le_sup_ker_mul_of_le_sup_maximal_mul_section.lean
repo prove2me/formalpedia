@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_le_sup_ker_mul_of_le_sup_maximal_mul_section
 -- name    : GlobalTheory.T.le_sup_ker_mul_of_le_sup_maximal_mul_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:51:23.302568+00:00
 -- url     : https://prove2.me/theorems/a85c1a8b-8874-486f-9707-0c93372896d8

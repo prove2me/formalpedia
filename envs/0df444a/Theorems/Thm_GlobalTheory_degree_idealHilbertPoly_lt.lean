@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_degree_idealHilbertPoly_lt
 -- name    : GlobalTheory.degree_idealHilbertPoly_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:13:47.677282+00:00
 -- url     : https://prove2.me/theorems/b70b5d84-014b-4475-b05b-02a1e375fd5b

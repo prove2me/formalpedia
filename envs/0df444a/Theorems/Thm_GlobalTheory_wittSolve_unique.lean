@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_wittSolve_unique
 -- name    : GlobalTheory.wittSolve_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:24:20.244866+00:00
 -- url     : https://prove2.me/theorems/7116edc7-035e-4dae-82d5-6c876801b13c

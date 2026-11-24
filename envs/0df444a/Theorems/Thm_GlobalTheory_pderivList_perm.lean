@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_pderivList_perm
 -- name    : GlobalTheory.pderivList_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:14:45.677817+00:00
 -- url     : https://prove2.me/theorems/48336fab-a564-4e84-a265-b04f37d997b4

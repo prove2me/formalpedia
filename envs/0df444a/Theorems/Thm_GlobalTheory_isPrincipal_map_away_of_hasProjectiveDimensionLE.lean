@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isPrincipal_map_away_of_hasProjectiveDimensionLE
 -- name    : GlobalTheory.isPrincipal_map_away_of_hasProjectiveDimensionLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:59:42.136657+00:00
 -- url     : https://prove2.me/theorems/9a3d923b-759b-42cc-b0c3-ebaf63f3fbc6

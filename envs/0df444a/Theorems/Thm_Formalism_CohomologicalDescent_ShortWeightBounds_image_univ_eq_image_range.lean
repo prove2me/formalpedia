@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_ShortWeightBounds_image_univ_eq_image_range
 -- name    : Formalism.CohomologicalDescent.ShortWeightBounds.image_univ_eq_image_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:29:08.989596+00:00
 -- url     : https://prove2.me/theorems/01e2233b-85d1-4e7d-b94f-d2e478b1c494

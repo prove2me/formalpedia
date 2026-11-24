@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ringHom_formallyEtale_respectsIso
 -- name    : GlobalTheory.ringHom_formallyEtale_respectsIso
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:49:06.302066+00:00
 -- url     : https://prove2.me/theorems/4f27ed16-1941-4fca-859b-a9fc13c93f58

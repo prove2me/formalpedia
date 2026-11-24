@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_integrable_of_lattice_translate_dominated
 -- name    : GlobalTheory.integrable_of_lattice_translate_dominated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:56:07.278703+00:00
 -- url     : https://prove2.me/theorems/ee4d76fb-783d-4aa9-9aff-343bcf6933d4

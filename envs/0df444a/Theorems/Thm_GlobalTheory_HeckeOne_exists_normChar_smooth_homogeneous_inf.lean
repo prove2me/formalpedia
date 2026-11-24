@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeOne_exists_normChar_smooth_homogeneous_inf
 -- name    : GlobalTheory.HeckeOne.exists_normChar_smooth_homogeneous_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:03:33.312797+00:00
 -- url     : https://prove2.me/theorems/111bb8f0-8af8-4ac7-bd80-6c9a12e88c82

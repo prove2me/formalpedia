@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_radical_elt_moving_dual_to_majorant
 -- name    : GlobalTheory.radical_elt_moving_dual_to_majorant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:14:52.943112+00:00
 -- url     : https://prove2.me/theorems/73ce8c33-837a-4cd5-be96-71879c5444b1

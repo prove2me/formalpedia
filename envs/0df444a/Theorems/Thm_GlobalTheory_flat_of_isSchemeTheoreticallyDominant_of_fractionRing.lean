@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_of_isSchemeTheoreticallyDominant_of_fractionRing
 -- name    : GlobalTheory.flat_of_isSchemeTheoreticallyDominant_of_fractionRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:52:15.617537+00:00
 -- url     : https://prove2.me/theorems/55d94ee7-c154-4739-9ba5-cbf0baca7714

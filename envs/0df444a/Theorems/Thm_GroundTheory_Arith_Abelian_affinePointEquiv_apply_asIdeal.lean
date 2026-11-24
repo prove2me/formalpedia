@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_affinePointEquiv_apply_asIdeal
 -- name    : GroundTheory.Arith.Abelian.affinePointEquiv_apply_asIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:25:32.561598+00:00
 -- url     : https://prove2.me/theorems/c4cb1ee9-a96f-4ee8-9ca7-b42bf4f4404d

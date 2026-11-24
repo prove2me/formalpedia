@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_range_comap_includeRight_field
 -- name    : GlobalTheory.range_comap_includeRight_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:14:56.354235+00:00
 -- url     : https://prove2.me/theorems/453152b8-f0d7-44d9-938e-ff8cb549efcb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArtinKernel_exists_linear_of_add_period
 -- name    : GlobalTheory.ArtinKernel.exists_linear_of_add_period
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:58:39.556388+00:00
 -- url     : https://prove2.me/theorems/8a11c1d5-31da-4974-92fc-2b20c874e94e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_periodic_of_mem_span_int
 -- name    : GlobalTheory.periodic_of_mem_span_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:13:48.797227+00:00
 -- url     : https://prove2.me/theorems/1ceabb6e-1f3a-476a-b449-614866fae1e1

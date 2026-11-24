@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_lifts_corrected_agree_on_overlaps
 -- name    : GlobalTheory.SecGlue.lifts_corrected_agree_on_overlaps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:52:07.425743+00:00
 -- url     : https://prove2.me/theorems/f35fd474-0c26-4ffb-ba84-256b9c389020

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_ShortWeightBounds_linkage_depth_eq_sum_difference
 -- name    : Formalism.CohomologicalDescent.ShortWeightBounds.linkage_depth_eq_sum_difference
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:28:43.123605+00:00
 -- url     : https://prove2.me/theorems/deeb2c25-39da-425e-9f47-b12609508368

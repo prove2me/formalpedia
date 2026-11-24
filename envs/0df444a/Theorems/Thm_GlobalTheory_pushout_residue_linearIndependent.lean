@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_pushout_residue_linearIndependent
 -- name    : GlobalTheory.pushout_residue_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:15:16.606144+00:00
 -- url     : https://prove2.me/theorems/f80a6af8-746d-40ad-8495-25ca906c3fd9

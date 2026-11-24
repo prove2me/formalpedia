@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_eq_mul_canonicalSigma
 -- name    : GlobalTheory.exists_eq_mul_canonicalSigma
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:37:30.271413+00:00
 -- url     : https://prove2.me/theorems/73c55255-7d7e-4899-a57a-780172023ee0

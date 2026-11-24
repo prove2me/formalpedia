@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eq_zero_of_rTensor_pairing_eq_zero
 -- name    : GlobalTheory.T.eq_zero_of_rTensor_pairing_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:32:40.834694+00:00
 -- url     : https://prove2.me/theorems/351fe6ce-56bf-4e52-a45a-607733f5a5a9

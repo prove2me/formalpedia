@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_subsingleton_of_lTensor_flat_family
 -- name    : GlobalTheory.subsingleton_of_lTensor_flat_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:21:21.55284+00:00
 -- url     : https://prove2.me/theorems/55aac011-77fb-4b2f-9845-453d1789a946

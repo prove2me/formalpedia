@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mvPowerSeries_variables_syzygy_socle
 -- name    : GlobalTheory.mvPowerSeries_variables_syzygy_socle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:12:08.169819+00:00
 -- url     : https://prove2.me/theorems/8be0e35b-55ad-4124-a91f-296470511b09

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hermDual_smul
 -- name    : GlobalTheory.hermDual_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:55:07.022816+00:00
 -- url     : https://prove2.me/theorems/28524e0d-013e-4b56-bce7-c68b6ea60bb6

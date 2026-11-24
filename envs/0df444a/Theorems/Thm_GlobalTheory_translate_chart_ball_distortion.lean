@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_translate_chart_ball_distortion
 -- name    : GlobalTheory.translate_chart_ball_distortion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:23:38.070562+00:00
 -- url     : https://prove2.me/theorems/07f1e73e-917d-4b01-9f76-3c3098b678aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_ptsMap_surjective_of_isNilpotent
 -- name    : GlobalTheory.SqZero.ptsMap_surjective_of_isNilpotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:56:44.169795+00:00
 -- url     : https://prove2.me/theorems/bb36d395-6321-4c8a-93df-2b83df7d404e

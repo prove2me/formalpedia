@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_equiv_of_sum_min_eq
 -- name    : GlobalTheory.exists_equiv_of_sum_min_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:31:50.555957+00:00
 -- url     : https://prove2.me/theorems/ffcd47b7-aee0-49ff-975d-244dff23ebed

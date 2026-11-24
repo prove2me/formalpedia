@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_symLift_act_in_frame
 -- name    : GlobalTheory.symLift_act_in_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:23:43.926569+00:00
 -- url     : https://prove2.me/theorems/c80db3e1-da07-48c8-9899-96bee9a15316

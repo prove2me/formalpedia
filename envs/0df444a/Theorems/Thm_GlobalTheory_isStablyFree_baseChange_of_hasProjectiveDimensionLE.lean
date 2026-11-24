@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isStablyFree_baseChange_of_hasProjectiveDimensionLE
 -- name    : GlobalTheory.isStablyFree_baseChange_of_hasProjectiveDimensionLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:01:33.119973+00:00
 -- url     : https://prove2.me/theorems/7eb04c2c-fa07-4576-8c2d-f01b87384ea5

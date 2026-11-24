@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_adelicCompletion_rational_points_and_approximation
 -- name    : GlobalTheory.T.adelicCompletion_rational_points_and_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:04:03.693892+00:00
 -- url     : https://prove2.me/theorems/662ed06c-b8f9-4087-b2aa-b4aadce5b466

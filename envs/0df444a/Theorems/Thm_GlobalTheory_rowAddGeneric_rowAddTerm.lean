@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_rowAddGeneric_rowAddTerm
 -- name    : GlobalTheory.rowAddGeneric_rowAddTerm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:20:22.177435+00:00
 -- url     : https://prove2.me/theorems/9cdd3d5a-28d4-4a8d-82a8-70232d059977

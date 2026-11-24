@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_spanning_map_factors_through_quotient
 -- name    : GlobalTheory.spanning_map_factors_through_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:21:39.315541+00:00
 -- url     : https://prove2.me/theorems/7f32d6da-b077-466a-bfd3-e30246c63873

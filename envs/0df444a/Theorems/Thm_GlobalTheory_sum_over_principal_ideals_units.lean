@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_over_principal_ideals_units
 -- name    : GlobalTheory.sum_over_principal_ideals_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:23:50.327488+00:00
 -- url     : https://prove2.me/theorems/8a49f813-8289-448a-9218-c2966525695d

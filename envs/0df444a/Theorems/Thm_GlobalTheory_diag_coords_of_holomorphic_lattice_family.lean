@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_diag_coords_of_holomorphic_lattice_family
 -- name    : GlobalTheory.diag_coords_of_holomorphic_lattice_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:16:20.61153+00:00
 -- url     : https://prove2.me/theorems/4c922ad9-82f2-4c50-97f1-ac828c5aaada

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_descendsAlong_fpqc
 -- name    : GlobalTheory.flat_descendsAlong_fpqc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:51:54.80329+00:00
 -- url     : https://prove2.me/theorems/bdc77b47-2c08-4a3a-af1a-cd132a003858

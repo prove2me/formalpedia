@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_latticeFourierCoeff_fwdDiff_iter
 -- name    : GlobalTheory.latticeFourierCoeff_fwdDiff_iter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:02:08.700171+00:00
 -- url     : https://prove2.me/theorems/18cca39e-8fbb-4ab5-b0cd-f88571108cfa

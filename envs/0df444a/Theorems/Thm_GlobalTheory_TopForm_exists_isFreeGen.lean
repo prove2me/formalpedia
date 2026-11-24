@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TopForm_exists_isFreeGen
 -- name    : GlobalTheory.TopForm.exists_isFreeGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:09:16.729739+00:00
 -- url     : https://prove2.me/theorems/1a5eaf0e-114d-42b1-a788-71082f8bb871

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_stab_relIndex_ne_zero
 -- name    : GlobalTheory.stab_relIndex_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:21:50.198932+00:00
 -- url     : https://prove2.me/theorems/4aebe9ef-8a11-40cb-bea8-e8a00095a12c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_lam_flip_eq_zero
 -- name    : GlobalTheory.JR.lam_flip_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:40:18.315809+00:00
 -- url     : https://prove2.me/theorems/b2e05de7-d4f4-45f5-8aca-526cdcf5ed96

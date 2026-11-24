@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_exact_z_specialization
 -- name    : Formalism.CohomologicalDescent.LA.exact_z_specialization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:50:46.555652+00:00
 -- url     : https://prove2.me/theorems/327848cc-70f2-41dd-b30b-22216822e61b

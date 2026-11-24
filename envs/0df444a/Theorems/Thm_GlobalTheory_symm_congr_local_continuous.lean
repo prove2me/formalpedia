@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_symm_congr_local_continuous
 -- name    : GlobalTheory.symm_congr_local_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:22:54.052189+00:00
 -- url     : https://prove2.me/theorems/afb26251-32e6-41a3-a890-0901139e364b

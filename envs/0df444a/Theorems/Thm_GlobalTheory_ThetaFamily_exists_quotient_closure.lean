@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFamily_exists_quotient_closure
 -- name    : GlobalTheory.ThetaFamily.exists_quotient_closure
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:58:54.643834+00:00
 -- url     : https://prove2.me/theorems/e9d52a2d-7c09-401b-8bc0-94a7f48482ae

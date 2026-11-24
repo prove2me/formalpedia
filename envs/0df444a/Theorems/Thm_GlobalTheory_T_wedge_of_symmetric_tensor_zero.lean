@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_wedge_of_symmetric_tensor_zero
 -- name    : GlobalTheory.T.wedge_of_symmetric_tensor_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:41:33.335982+00:00
 -- url     : https://prove2.me/theorems/59c2dacb-eff8-456d-8e65-2b7f6f52d629

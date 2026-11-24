@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_unifPre_abelianPart_iso
 -- name    : GlobalTheory.unifPre_abelianPart_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:25:50.630119+00:00
 -- url     : https://prove2.me/theorems/28a7e65e-60ab-49e4-8b07-c40081627f51

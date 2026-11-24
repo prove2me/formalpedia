@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_formallyEtale_stalkMap_of_etale
 -- name    : GlobalTheory.formallyEtale_stalkMap_of_etale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:53:17.401868+00:00
 -- url     : https://prove2.me/theorems/7fecfdc7-63c3-4332-8689-bdb699650cbf

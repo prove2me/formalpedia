@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hasQExpansion_normalizedWeierstrassPTorsion
 -- name    : GlobalTheory.T.hasQExpansion_normalizedWeierstrassPTorsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:13:12.270086+00:00
 -- url     : https://prove2.me/theorems/b9bf4bfb-aec9-442c-8bff-2b06db5983c6

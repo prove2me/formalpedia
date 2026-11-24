@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_riemannThetaTerm_fromBlocks
 -- name    : GlobalTheory.riemannThetaTerm_fromBlocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:16:17.249967+00:00
 -- url     : https://prove2.me/theorems/70203c51-eee9-46f0-8673-ea9906f62893

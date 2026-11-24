@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Etale_bijective_pullbackSection_of_isIso
 -- name    : GroundTheory.Arith.Etale.bijective_pullbackSection_of_isIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:26:13.047817+00:00
 -- url     : https://prove2.me/theorems/f57bd9c8-ed75-4fac-8f2a-9de5e6412cf4

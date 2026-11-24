@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_laurent_degeneration_first_order_kernel
 -- name    : GlobalTheory.T.laurent_degeneration_first_order_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:51:05.988057+00:00
 -- url     : https://prove2.me/theorems/2d273e84-a393-47ad-9e91-5b012122e223

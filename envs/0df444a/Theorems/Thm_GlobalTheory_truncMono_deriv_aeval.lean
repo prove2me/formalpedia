@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_truncMono_deriv_aeval
 -- name    : GlobalTheory.truncMono_deriv_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:23:52.383+00:00
 -- url     : https://prove2.me/theorems/601d7e93-56cb-44a5-9641-196b14ee4a66

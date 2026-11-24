@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_orbit_count_parabolic_unfold_levi
 -- name    : GlobalTheory.T.orbit_count_parabolic_unfold_levi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:54:15.620831+00:00
 -- url     : https://prove2.me/theorems/00bc08fd-99d3-4305-b701-6a552ef8ab2c

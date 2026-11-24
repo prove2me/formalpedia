@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_newtonPolygon_lastDominantIndex_mul_X_sub_C
 -- name    : GlobalTheory.T.newtonPolygon_lastDominantIndex_mul_X_sub_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:53:54.057171+00:00
 -- url     : https://prove2.me/theorems/b70f3fb5-5b41-445c-9bfb-a9cb4631e0fb

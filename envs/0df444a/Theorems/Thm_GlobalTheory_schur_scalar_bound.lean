@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_schur_scalar_bound
 -- name    : GlobalTheory.schur_scalar_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:20:17.706705+00:00
 -- url     : https://prove2.me/theorems/7429fb2a-6a2e-439b-90dd-273e3280b129

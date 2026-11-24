@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGroupFrame_exists_const_of_cover
 -- name    : GlobalTheory.ThetaGroupFrame.exists_const_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:06:57.436746+00:00
 -- url     : https://prove2.me/theorems/6ca15449-c804-4882-a2df-58c1811c772a

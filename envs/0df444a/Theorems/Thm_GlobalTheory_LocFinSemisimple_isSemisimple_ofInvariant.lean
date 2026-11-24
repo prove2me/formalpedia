@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFinSemisimple_isSemisimple_ofInvariant
 -- name    : GlobalTheory.LocFinSemisimple.isSemisimple_ofInvariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:12:23.705424+00:00
 -- url     : https://prove2.me/theorems/e1bc0223-7ca5-48a4-99a6-7ccc0b9b1ccc

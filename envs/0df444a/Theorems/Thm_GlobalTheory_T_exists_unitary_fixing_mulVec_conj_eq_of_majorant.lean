@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_unitary_fixing_mulVec_conj_eq_of_majorant
 -- name    : GlobalTheory.T.exists_unitary_fixing_mulVec_conj_eq_of_majorant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:37:55.175942+00:00
 -- url     : https://prove2.me/theorems/bdc54e3b-5d9d-4f14-ad97-008773c4c93e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TopForm_formMap_of_eq_id
 -- name    : GlobalTheory.TopForm.formMap_of_eq_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:09:29.788802+00:00
 -- url     : https://prove2.me/theorems/901c21ca-1aa1-4fe9-84be-eadc51af8d8c

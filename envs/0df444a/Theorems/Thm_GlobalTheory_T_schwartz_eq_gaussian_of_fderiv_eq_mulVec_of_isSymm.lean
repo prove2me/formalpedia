@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartz_eq_gaussian_of_fderiv_eq_mulVec_of_isSymm
 -- name    : GlobalTheory.T.schwartz_eq_gaussian_of_fderiv_eq_mulVec_of_isSymm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:57:31.49507+00:00
 -- url     : https://prove2.me/theorems/f5af9067-9400-4ce6-bc4c-c95ef60e8b00

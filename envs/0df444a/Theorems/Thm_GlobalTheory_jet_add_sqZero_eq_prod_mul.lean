@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_jet_add_sqZero_eq_prod_mul
 -- name    : GlobalTheory.jet_add_sqZero_eq_prod_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:14:19.329888+00:00
 -- url     : https://prove2.me/theorems/cc811666-6080-4edc-953e-3aacac1e5f43

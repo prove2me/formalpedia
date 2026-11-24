@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_oneZ_tmul_surjective
 -- name    : GlobalTheory.oneZ_tmul_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:13:34.052805+00:00
 -- url     : https://prove2.me/theorems/35016e71-cd1b-48a2-9b60-d4e7c5ef0da5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_tensorProduct_basis_coordinates
 -- name    : GlobalTheory.T.tensorProduct_basis_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:13:29.854658+00:00
 -- url     : https://prove2.me/theorems/f1784d42-12d8-4357-b789-b1ab7d65b8de

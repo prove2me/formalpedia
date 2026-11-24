@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bilin_eq_zero_of_const_on_cosets
 -- name    : GlobalTheory.bilin_eq_zero_of_const_on_cosets
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:06:36.327012+00:00
 -- url     : https://prove2.me/theorems/419b3a58-ef71-4c7f-8cd6-4893e759d17f

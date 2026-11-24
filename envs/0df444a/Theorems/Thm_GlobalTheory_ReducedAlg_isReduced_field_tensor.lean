@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ReducedAlg_isReduced_field_tensor
 -- name    : GlobalTheory.ReducedAlg.isReduced_field_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:57:06.434427+00:00
 -- url     : https://prove2.me/theorems/c0ec93f9-21a2-483c-8c4a-75efbf8092aa

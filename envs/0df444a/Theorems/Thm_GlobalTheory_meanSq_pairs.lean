@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_meanSq_pairs
 -- name    : GlobalTheory.meanSq_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:11:24.878922+00:00
 -- url     : https://prove2.me/theorems/fb9c4292-be9b-4a7e-b3f3-77fd9e02f972

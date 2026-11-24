@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sec_eq_zero_of_dvd_pow_uniformiser
 -- name    : GlobalTheory.sec_eq_zero_of_dvd_pow_uniformiser
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:20:17.447593+00:00
 -- url     : https://prove2.me/theorems/387e0bfb-462d-4b1f-8152-933dbebdfc40

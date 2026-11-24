@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_twoSided_shift_series
 -- name    : GlobalTheory.twoSided_shift_series
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:23:57.913084+00:00
 -- url     : https://prove2.me/theorems/66bcca59-b7f0-48c3-b04b-5f9709eaa829

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_FrobeniusPeriodChange_weight_lemma_full
 -- name    : Formalism.CohomologicalDescent.FrobeniusPeriodChange.weight_lemma_full
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:53:34.039045+00:00
 -- url     : https://prove2.me/theorems/2f3631c3-9669-4225-88a4-27009f448c6a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isCompact_preimage_mul_star_anisotropic_submodule
 -- name    : GlobalTheory.T.isCompact_preimage_mul_star_anisotropic_submodule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:47:58.250576+00:00
 -- url     : https://prove2.me/theorems/ae75be24-9cf8-41bb-b2f6-283942c961df

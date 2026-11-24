@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormChar_split_trivial
 -- name    : GlobalTheory.NormChar.split_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:37:27.437355+00:00
 -- url     : https://prove2.me/theorems/25958ca7-613e-4eba-814c-c3c0b1341480

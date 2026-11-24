@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TailIntegralOfSummatory_tail_integral
 -- name    : GlobalTheory.TailIntegralOfSummatory.tail_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:51:19.663221+00:00
 -- url     : https://prove2.me/theorems/050a2910-1148-4d3f-9864-41594f0ad9a3

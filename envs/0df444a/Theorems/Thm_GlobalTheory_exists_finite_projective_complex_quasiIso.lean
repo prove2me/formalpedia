@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_finite_projective_complex_quasiIso
 -- name    : GlobalTheory.exists_finite_projective_complex_quasiIso
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:51:38.529065+00:00
 -- url     : https://prove2.me/theorems/42032707-3296-4582-949b-3fe042d59eb1

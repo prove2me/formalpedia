@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_dominance_of_nabla_weight
 -- name    : Formalism.CohomologicalDescent.LD.dominance_of_nabla_weight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:53:14.980237+00:00
 -- url     : https://prove2.me/theorems/8e2e5fb1-bf24-4bae-b5a3-c0b7728151b6

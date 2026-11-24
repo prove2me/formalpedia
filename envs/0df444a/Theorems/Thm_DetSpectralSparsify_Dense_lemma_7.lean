@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DetSpectralSparsify_Dense_lemma_7
 -- name    : DetSpectralSparsify.Dense.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T03:59:11.869294+00:00
 -- url     : https://prove2.me/theorems/7d493f02-b4c4-4cc1-a467-9230024b8361

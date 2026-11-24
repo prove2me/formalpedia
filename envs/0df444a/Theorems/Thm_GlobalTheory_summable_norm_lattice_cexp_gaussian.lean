@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_summable_norm_lattice_cexp_gaussian
 -- name    : GlobalTheory.summable_norm_lattice_cexp_gaussian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:23:22.184012+00:00
 -- url     : https://prove2.me/theorems/0a86d689-ec4d-490c-b40e-2ca599b46d1e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_rational_multiplier_of_complex
 -- name    : GlobalTheory.exists_rational_multiplier_of_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:41:12.010827+00:00
 -- url     : https://prove2.me/theorems/d425ad96-0260-4564-9cbc-feda481b0636

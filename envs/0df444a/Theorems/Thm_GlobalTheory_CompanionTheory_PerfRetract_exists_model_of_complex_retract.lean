@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PerfRetract_exists_model_of_complex_retract
 -- name    : GlobalTheory.CompanionTheory.PerfRetract.exists_model_of_complex_retract
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:27:08.858549+00:00
 -- url     : https://prove2.me/theorems/cc2a8ba1-2617-4810-b4e5-89006da98ec0

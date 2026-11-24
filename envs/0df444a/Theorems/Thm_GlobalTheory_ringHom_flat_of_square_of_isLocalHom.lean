@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ringHom_flat_of_square_of_isLocalHom
 -- name    : GlobalTheory.ringHom_flat_of_square_of_isLocalHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:19:09.839839+00:00
 -- url     : https://prove2.me/theorems/d184e134-60e8-4930-92e2-1d2dd5990b87

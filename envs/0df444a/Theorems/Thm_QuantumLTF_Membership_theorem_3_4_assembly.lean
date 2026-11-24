@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumLTF_Membership_theorem_3_4_assembly
 -- name    : QuantumLTF.Membership.theorem_3_4_assembly
--- status  : Open
+-- status  : Proved
 -- author  : @stockfish-soup
 -- created : 2026-11-14T17:58:14.624867+00:00
 -- url     : https://prove2.me/theorems/b71a803a-88ec-4d3f-899b-cde1088490df

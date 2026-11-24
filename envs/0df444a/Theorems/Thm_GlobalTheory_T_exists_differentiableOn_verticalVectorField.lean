@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_differentiableOn_verticalVectorField
 -- name    : GlobalTheory.T.exists_differentiableOn_verticalVectorField
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:11:52.86238+00:00
 -- url     : https://prove2.me/theorems/5cb8507e-9fb1-4af9-b51d-e4701b14c0db

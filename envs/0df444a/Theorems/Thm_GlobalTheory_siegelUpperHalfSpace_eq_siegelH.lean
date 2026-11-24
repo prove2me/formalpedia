@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_siegelUpperHalfSpace_eq_siegelH
 -- name    : GlobalTheory.siegelUpperHalfSpace_eq_siegelH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:20:34.829365+00:00
 -- url     : https://prove2.me/theorems/7aca6bd7-6714-4886-b989-f0289b6ab5e5

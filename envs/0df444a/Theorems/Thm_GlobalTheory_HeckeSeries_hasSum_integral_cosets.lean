@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeSeries_hasSum_integral_cosets
 -- name    : GlobalTheory.HeckeSeries.hasSum_integral_cosets
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:46:27.275272+00:00
 -- url     : https://prove2.me/theorems/f9d002ec-d34f-45fb-822c-aba8f3048151

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_exists_eq_pow_of_le_one_iff
 -- name    : GroundTheory.Arith.Abelian.exists_eq_pow_of_le_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:25:31.966355+00:00
 -- url     : https://prove2.me/theorems/604dffce-973b-493b-93da-1c1dc1771a8b

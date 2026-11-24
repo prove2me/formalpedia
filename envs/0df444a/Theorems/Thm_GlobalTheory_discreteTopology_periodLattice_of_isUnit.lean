@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_discreteTopology_periodLattice_of_isUnit
 -- name    : GlobalTheory.discreteTopology_periodLattice_of_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:21:22.106797+00:00
 -- url     : https://prove2.me/theorems/49f52f51-2719-4cca-8049-65ea5c6ed487

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_smooth_of_finiteDimensional_translation_stable
 -- name    : GlobalTheory.smooth_of_finiteDimensional_translation_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:20:42.656258+00:00
 -- url     : https://prove2.me/theorems/75db8b4a-86be-480d-a193-deab78143841

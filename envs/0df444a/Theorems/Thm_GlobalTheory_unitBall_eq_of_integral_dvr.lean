@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_unitBall_eq_of_integral_dvr
 -- name    : GlobalTheory.unitBall_eq_of_integral_dvr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:24:32.101497+00:00
 -- url     : https://prove2.me/theorems/f3f6aeb9-b68e-46e9-b4a4-751ac48e9eae

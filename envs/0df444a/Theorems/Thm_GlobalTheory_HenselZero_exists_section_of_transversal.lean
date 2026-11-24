@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HenselZero_exists_section_of_transversal
 -- name    : GlobalTheory.HenselZero.exists_section_of_transversal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:56:48.768419+00:00
 -- url     : https://prove2.me/theorems/cbc96912-fc6d-4eb4-9ac4-8f6e31c960d5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_Mp_hasFDerivAt_orb
 -- name    : CompanionTheory.ThKR.Mp.hasFDerivAt_orb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:28:42.344885+00:00
 -- url     : https://prove2.me/theorems/fa67ad5c-dfdc-42bc-92f8-fcbaca10bca2

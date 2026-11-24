@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_powerSeries_ringHom_extending_finite_free
 -- name    : GlobalTheory.T.exists_powerSeries_ringHom_extending_finite_free
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:37:33.649975+00:00
 -- url     : https://prove2.me/theorems/3a50d085-527e-4e98-8958-d8570b565792

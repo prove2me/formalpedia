@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_prod_arg_real_unit_eq_one__68b5849ee00e
 -- name    : P2M_GlobalTheory_T_prod_arg_real_unit_eq_one__68b5849ee00e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:30:35.246854+00:00
 -- url     : https://prove2.me/theorems/0b367c69-7ff0-4d13-abb9-91cdbc220544

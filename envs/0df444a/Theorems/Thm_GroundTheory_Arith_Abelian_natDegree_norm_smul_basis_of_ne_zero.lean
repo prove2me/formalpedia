@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_natDegree_norm_smul_basis_of_ne_zero
 -- name    : GroundTheory.Arith.Abelian.natDegree_norm_smul_basis_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:26:49.072045+00:00
 -- url     : https://prove2.me/theorems/622859a1-d66b-4fec-8611-7c7e4b24b2be

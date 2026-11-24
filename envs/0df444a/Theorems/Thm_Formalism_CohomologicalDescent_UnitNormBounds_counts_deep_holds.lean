@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_UnitNormBounds_counts_deep_holds
 -- name    : Formalism.CohomologicalDescent.UnitNormBounds.counts_deep_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:01:09.207306+00:00
 -- url     : https://prove2.me/theorems/58db2614-5e20-40d7-a9ef-63a701b66ca6

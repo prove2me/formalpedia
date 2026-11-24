@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_cusp_pseudoBasis_adapted_lattice
 -- name    : GlobalTheory.T.exists_cusp_pseudoBasis_adapted_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:34:31.435588+00:00
 -- url     : https://prove2.me/theorems/331bd043-cfbf-4ad8-a269-864d9815ba3a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_eq_lift_det_smul__Multi_7c34f112c031
 -- name    : P2M_GlobalTheory_eq_lift_det_smul__Multi_7c34f112c031
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:17:51.171035+00:00
 -- url     : https://prove2.me/theorems/74a321af-be47-473a-a108-a90bf3497213

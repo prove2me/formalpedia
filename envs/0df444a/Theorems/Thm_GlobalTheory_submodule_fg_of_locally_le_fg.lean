@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_submodule_fg_of_locally_le_fg
 -- name    : GlobalTheory.submodule_fg_of_locally_le_fg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:21:51.652346+00:00
 -- url     : https://prove2.me/theorems/a7df27c9-a061-4552-8df3-50a228125463

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_norm_fwdDiff_iter_le
 -- name    : GlobalTheory.norm_fwdDiff_iter_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:13:17.966583+00:00
 -- url     : https://prove2.me/theorems/205e9fe5-2cf3-4420-9d62-8d968f3836e9

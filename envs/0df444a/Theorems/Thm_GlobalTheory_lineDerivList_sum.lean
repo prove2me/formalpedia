@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lineDerivList_sum
 -- name    : GlobalTheory.lineDerivList_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:06:54.833894+00:00
 -- url     : https://prove2.me/theorems/9b24fdf4-8efa-4541-a9ba-622953e05ab0

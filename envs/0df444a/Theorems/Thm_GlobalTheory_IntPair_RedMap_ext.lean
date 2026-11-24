@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntPair_RedMap_ext
 -- name    : GlobalTheory.IntPair.RedMap.ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:06:46.017595+00:00
 -- url     : https://prove2.me/theorems/71aba13e-0f90-4645-ac84-3f57109850ef

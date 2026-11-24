@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_torusEval_bijective
 -- name    : GlobalTheory.torusEval_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:23:35.792683+00:00
 -- url     : https://prove2.me/theorems/c90ac2a8-8790-4b41-a0b0-c7cb6db32f6b

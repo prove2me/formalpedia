@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ncard_primesOver_eq_finrank_of_trivial_frobenius
 -- name    : GlobalTheory.T.ncard_primesOver_eq_finrank_of_trivial_frobenius
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:54:09.760987+00:00
 -- url     : https://prove2.me/theorems/19b33502-d14a-43ae-8f0f-7c2eb7a075cf

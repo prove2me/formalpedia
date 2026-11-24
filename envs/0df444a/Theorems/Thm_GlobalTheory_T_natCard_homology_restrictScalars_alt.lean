@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_natCard_homology_restrictScalars_alt
 -- name    : GlobalTheory.T.natCard_homology_restrictScalars_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:53:56.885771+00:00
 -- url     : https://prove2.me/theorems/27edf343-d358-4fa6-b11a-5c183a240d49

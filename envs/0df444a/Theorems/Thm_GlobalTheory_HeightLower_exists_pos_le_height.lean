@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeightLower_exists_pos_le_height
 -- name    : GlobalTheory.HeightLower.exists_pos_le_height
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:17:28.614834+00:00
 -- url     : https://prove2.me/theorems/faf7c399-12c8-4b15-9c66-135f9f42435b

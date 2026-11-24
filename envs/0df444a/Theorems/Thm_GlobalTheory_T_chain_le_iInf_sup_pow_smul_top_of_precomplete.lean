@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_chain_le_iInf_sup_pow_smul_top_of_precomplete
 -- name    : GlobalTheory.T.chain_le_iInf_sup_pow_smul_top_of_precomplete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:31:02.936992+00:00
 -- url     : https://prove2.me/theorems/ae28f149-51af-42f5-a33d-84ccc6b5b1a1

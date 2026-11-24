@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_two_pow_mul_factorial_succ_le
 -- name    : GlobalTheory.two_pow_mul_factorial_succ_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:24:21.947243+00:00
 -- url     : https://prove2.me/theorems/2703ed05-0298-4368-931d-a475241611ce

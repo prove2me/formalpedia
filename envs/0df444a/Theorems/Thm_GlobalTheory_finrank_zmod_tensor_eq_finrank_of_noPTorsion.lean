@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finrank_zmod_tensor_eq_finrank_of_noPTorsion
 -- name    : GlobalTheory.finrank_zmod_tensor_eq_finrank_of_noPTorsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:51:03.26135+00:00
 -- url     : https://prove2.me/theorems/fec54226-69ad-406b-9ea1-5b40468b93b2

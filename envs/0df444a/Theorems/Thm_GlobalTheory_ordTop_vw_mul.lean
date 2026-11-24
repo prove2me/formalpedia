@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ordTop_vw_mul
 -- name    : GlobalTheory.ordTop_vw_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:13:10.686303+00:00
 -- url     : https://prove2.me/theorems/fb5e61e0-0277-4178-b869-7b1611a4e6f2

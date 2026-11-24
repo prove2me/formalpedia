@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmithBetween_exists_mul_eq_mul_diagonal
 -- name    : GlobalTheory.SmithBetween.exists_mul_eq_mul_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:14:36.456506+00:00
 -- url     : https://prove2.me/theorems/74fac3aa-3d34-41ef-9cb7-612562027e44

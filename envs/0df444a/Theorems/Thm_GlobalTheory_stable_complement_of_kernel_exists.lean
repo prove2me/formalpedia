@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_stable_complement_of_kernel_exists
 -- name    : GlobalTheory.stable_complement_of_kernel_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:21:52.906811+00:00
 -- url     : https://prove2.me/theorems/fc03108d-c432-49f7-b328-041f62c732de

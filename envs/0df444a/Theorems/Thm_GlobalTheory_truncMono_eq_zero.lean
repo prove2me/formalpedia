@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_truncMono_eq_zero
 -- name    : GlobalTheory.truncMono_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:23:58.282013+00:00
 -- url     : https://prove2.me/theorems/63edd24e-6df4-4241-9bee-2987bd85883a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_annihilator_small
 -- name    : GlobalTheory.JR.annihilator_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:38:39.477287+00:00
 -- url     : https://prove2.me/theorems/67945328-026d-445f-be15-bcf8885eb8ce

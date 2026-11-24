@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_topologicalKrullDim_fibres_eq_of_isEmbedding
 -- name    : GlobalTheory.exists_topologicalKrullDim_fibres_eq_of_isEmbedding
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:51:29.922699+00:00
 -- url     : https://prove2.me/theorems/ad198aef-8cb2-420f-be97-e2942a615c45

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_polarised_schur_relations
 -- name    : GlobalTheory.polarised_schur_relations
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:13:52.736533+00:00
 -- url     : https://prove2.me/theorems/081d0e9f-f79b-4f4c-a37a-8cf0d9736b8b

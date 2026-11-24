@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_setIntegral_comp_add_of_lattice_periodic
 -- name    : GlobalTheory.setIntegral_comp_add_of_lattice_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:20:42.43405+00:00
 -- url     : https://prove2.me/theorems/101c1fde-2e00-4c6f-be41-28fb82232421

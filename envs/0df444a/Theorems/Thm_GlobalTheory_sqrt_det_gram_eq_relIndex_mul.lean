@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sqrt_det_gram_eq_relIndex_mul
 -- name    : GlobalTheory.sqrt_det_gram_eq_relIndex_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:21:33.145458+00:00
 -- url     : https://prove2.me/theorems/9e17374a-f398-43ca-aa3a-c60f4497d9af

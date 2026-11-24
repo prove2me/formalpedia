@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZuckTensorWork_Jm_eq_revM
 -- name    : PI.ZuckTensorWork.Jm_eq_revM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:15:40.371221+00:00
 -- url     : https://prove2.me/theorems/a2cf7faf-64e8-4c2d-a749-824272da7f49

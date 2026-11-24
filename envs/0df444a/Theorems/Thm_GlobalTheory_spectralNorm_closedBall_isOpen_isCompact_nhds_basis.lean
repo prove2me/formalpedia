@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_spectralNorm_closedBall_isOpen_isCompact_nhds_basis
 -- name    : GlobalTheory.spectralNorm_closedBall_isOpen_isCompact_nhds_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:21:35.223799+00:00
 -- url     : https://prove2.me/theorems/c1e2b83e-c2a2-452e-a67d-9eda667cde87

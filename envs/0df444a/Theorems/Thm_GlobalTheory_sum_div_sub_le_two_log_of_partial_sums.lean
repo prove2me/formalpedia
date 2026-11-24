@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_div_sub_le_two_log_of_partial_sums
 -- name    : GlobalTheory.sum_div_sub_le_two_log_of_partial_sums
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:23:04.52488+00:00
 -- url     : https://prove2.me/theorems/ef1c7327-1821-4c5a-b83a-8f8a6013ab6d

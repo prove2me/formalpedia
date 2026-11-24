@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_blockStep
 -- name    : Formalism.CohomologicalDescent.LD.blockStep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:52:14.749809+00:00
 -- url     : https://prove2.me/theorems/380d193b-f8ac-495c-abd4-7a2d16cba2d8

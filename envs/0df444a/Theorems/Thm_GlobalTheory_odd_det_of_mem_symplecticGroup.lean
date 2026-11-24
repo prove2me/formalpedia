@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_odd_det_of_mem_symplecticGroup
 -- name    : GlobalTheory.odd_det_of_mem_symplecticGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:13:29.168005+00:00
 -- url     : https://prove2.me/theorems/cd4261d8-0efe-4c4e-8aef-d0357a08408b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_principalCong_inv_mul
 -- name    : GlobalTheory.principalCong_inv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:16:30.765083+00:00
 -- url     : https://prove2.me/theorems/9deee24f-c432-4c46-99f8-e3f2e193bc4b

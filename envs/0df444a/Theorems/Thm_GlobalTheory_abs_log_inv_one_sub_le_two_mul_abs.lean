@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_abs_log_inv_one_sub_le_two_mul_abs
 -- name    : GlobalTheory.abs_log_inv_one_sub_le_two_mul_abs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:26:51.451528+00:00
 -- url     : https://prove2.me/theorems/26045252-ae5d-4d37-aee9-7443f895ab67

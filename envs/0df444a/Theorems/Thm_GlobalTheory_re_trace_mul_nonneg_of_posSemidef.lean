@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_re_trace_mul_nonneg_of_posSemidef
 -- name    : GlobalTheory.re_trace_mul_nonneg_of_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:16:20.9838+00:00
 -- url     : https://prove2.me/theorems/d874dbd4-385e-45ea-bec0-34202a7b47b7

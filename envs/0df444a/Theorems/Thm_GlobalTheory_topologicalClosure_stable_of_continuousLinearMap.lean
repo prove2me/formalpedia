@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_topologicalClosure_stable_of_continuousLinearMap
 -- name    : GlobalTheory.topologicalClosure_stable_of_continuousLinearMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:23:47.315511+00:00
 -- url     : https://prove2.me/theorems/55df617f-0c88-4b4e-9a06-beac0c5b549d

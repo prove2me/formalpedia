@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_unit_pmul_zmod
 -- name    : GlobalTheory.unit_pmul_zmod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:24:44.492426+00:00
 -- url     : https://prove2.me/theorems/817f28ed-e6ab-4000-af12-39e85205200f

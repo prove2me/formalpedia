@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_cofactor_leading_minor_pow
 -- name    : Formalism.CohomologicalDescent.LD.cofactor_leading_minor_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:06:24.113091+00:00
 -- url     : https://prove2.me/theorems/ad331464-3f2a-457f-9e7b-4224f7ed0b66

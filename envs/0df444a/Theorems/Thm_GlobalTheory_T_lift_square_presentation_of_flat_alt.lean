@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lift_square_presentation_of_flat_alt
 -- name    : GlobalTheory.T.lift_square_presentation_of_flat_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:52:03.908824+00:00
 -- url     : https://prove2.me/theorems/96ecb1ae-4c0c-4851-a2c7-90fe06387241

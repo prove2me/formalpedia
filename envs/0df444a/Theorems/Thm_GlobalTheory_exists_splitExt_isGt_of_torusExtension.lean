@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_splitExt_isGt_of_torusExtension
 -- name    : GlobalTheory.exists_splitExt_isGt_of_torusExtension
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:19:44.730431+00:00
 -- url     : https://prove2.me/theorems/e7e58014-57b5-4d3e-85c1-e7a713a133c4

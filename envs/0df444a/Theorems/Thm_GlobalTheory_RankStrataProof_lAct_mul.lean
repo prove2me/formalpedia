@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankStrataProof_lAct_mul
 -- name    : GlobalTheory.RankStrataProof.lAct_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:30:00.487854+00:00
 -- url     : https://prove2.me/theorems/1d3ee423-87bd-475b-84f0-b6d7bcc6bd04

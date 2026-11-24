@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ev_congr
 -- name    : GroundTheory.Arith.SchemeCoh.ev_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:28:08.964922+00:00
 -- url     : https://prove2.me/theorems/b99ca558-1e3d-4a6b-8e99-9a3293d4ba5a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_algHom_coe_mvPolynomial
 -- name    : GlobalTheory.algHom_coe_mvPolynomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:05:45.170937+00:00
 -- url     : https://prove2.me/theorems/f6dbdc09-f8cb-46ff-9c52-42053f7be3be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_repTrace_eq_mul_trace
 -- name    : GlobalTheory.repTrace_eq_mul_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:16:19.261897+00:00
 -- url     : https://prove2.me/theorems/481b218a-f886-449d-bfa0-05088ac45404

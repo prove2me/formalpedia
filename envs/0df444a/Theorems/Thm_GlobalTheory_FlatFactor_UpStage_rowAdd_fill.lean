@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatFactor_UpStage_rowAdd_fill
 -- name    : GlobalTheory.FlatFactor.UpStage.rowAdd_fill
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:03:56.63636+00:00
 -- url     : https://prove2.me/theorems/df3813fb-bee6-41fc-aad9-e3797ff39045

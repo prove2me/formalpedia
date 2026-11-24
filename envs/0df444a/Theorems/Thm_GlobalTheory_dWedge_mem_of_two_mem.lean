@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dWedge_mem_of_two_mem
 -- name    : GlobalTheory.dWedge_mem_of_two_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:14:43.133402+00:00
 -- url     : https://prove2.me/theorems/e2ddc55a-fb5e-4e7a-8c57-9e3fccfffe00

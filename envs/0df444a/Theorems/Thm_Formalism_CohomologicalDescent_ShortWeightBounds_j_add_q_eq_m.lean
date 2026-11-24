@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_ShortWeightBounds_j_add_q_eq_m
 -- name    : Formalism.CohomologicalDescent.ShortWeightBounds.j_add_q_eq_m
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:29:37.820225+00:00
 -- url     : https://prove2.me/theorems/f0d69eac-b4c1-4e02-a6d0-2d3febebdf6b

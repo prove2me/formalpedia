@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameValue_genVal_rosati
 -- name    : GlobalTheory.FrameValue.genVal_rosati
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:14:18.277373+00:00
 -- url     : https://prove2.me/theorems/dfde0a9d-985d-4e9f-8a7a-e986a9e38c72

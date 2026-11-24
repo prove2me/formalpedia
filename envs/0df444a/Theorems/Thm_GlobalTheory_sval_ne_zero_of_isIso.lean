@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sval_ne_zero_of_isIso
 -- name    : GlobalTheory.sval_ne_zero_of_isIso
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:51:42.540321+00:00
 -- url     : https://prove2.me/theorems/a1d00cdd-7269-406e-88b2-411193826873

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_not_mem_mul_mem_sq_of_pderiv_mem
 -- name    : GlobalTheory.T.exists_not_mem_mul_mem_sq_of_pderiv_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:36:59.847214+00:00
 -- url     : https://prove2.me/theorems/6386414e-4c73-46f6-87e5-faddc5068e52

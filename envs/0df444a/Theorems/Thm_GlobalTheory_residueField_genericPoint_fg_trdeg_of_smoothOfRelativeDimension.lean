@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_residueField_genericPoint_fg_trdeg_of_smoothOfRelativeDimension
 -- name    : GlobalTheory.residueField_genericPoint_fg_trdeg_of_smoothOfRelativeDimension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:16:11.673446+00:00
 -- url     : https://prove2.me/theorems/a56c5bfd-53fb-4803-a5b1-00e73e6a8e49

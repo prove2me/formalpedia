@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_relLength_comap_of_le_range
 -- name    : GlobalTheory.relLength_comap_of_le_range
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:16:47.162616+00:00
 -- url     : https://prove2.me/theorems/71cdd575-f4e4-4a7d-9e29-e9adeb13db19

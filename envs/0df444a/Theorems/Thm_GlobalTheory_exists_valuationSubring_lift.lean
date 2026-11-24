@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_valuationSubring_lift
 -- name    : GlobalTheory.exists_valuationSubring_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:45:25.884224+00:00
 -- url     : https://prove2.me/theorems/aa0d1d42-bb4c-496f-9e7f-7f8c0e62fbd1

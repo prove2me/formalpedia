@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IrrPi_irr_factor
 -- name    : GlobalTheory.IrrPi.irr_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:20:45.662614+00:00
 -- url     : https://prove2.me/theorems/98eeaa1b-ec0e-43e9-9500-ff1261f64dde

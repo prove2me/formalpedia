@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_central_of_filt
 -- name    : GlobalTheory.SmoothForms.central_of_filt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:14:31.820327+00:00
 -- url     : https://prove2.me/theorems/b7f668f4-9d45-4d20-a4a7-7ac4f1703a9c

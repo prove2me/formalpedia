@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_CechOrdered_Supp_mapDomain
 -- name    : GroundTheory.Arith.SchemeCoh.CechOrdered.Supp.mapDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:28:55.823331+00:00
 -- url     : https://prove2.me/theorems/c90e6d22-e1e9-4307-b514-139a9aef1c1a

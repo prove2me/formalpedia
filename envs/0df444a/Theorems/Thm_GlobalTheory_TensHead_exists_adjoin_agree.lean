@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensHead_exists_adjoin_agree
 -- name    : GlobalTheory.TensHead.exists_adjoin_agree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:01:42.370461+00:00
 -- url     : https://prove2.me/theorems/898d9f2e-cffb-40a2-968c-d0932251f042

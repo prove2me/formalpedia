@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartzBruhat_self_average_heisenberg
 -- name    : GlobalTheory.T.schwartzBruhat_self_average_heisenberg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:03:26.575813+00:00
 -- url     : https://prove2.me/theorems/90eb9351-74bc-44da-8238-0e21cda7dc61

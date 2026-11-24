@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameValue_genVal_cube_of_face
 -- name    : GlobalTheory.FrameValue.genVal_cube_of_face
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:26:30.342788+00:00
 -- url     : https://prove2.me/theorems/c7b99ba8-9d23-499a-9b4d-58be5e7bb7c2

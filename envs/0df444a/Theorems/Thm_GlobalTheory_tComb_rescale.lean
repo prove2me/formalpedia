@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tComb_rescale
 -- name    : GlobalTheory.tComb_rescale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:22:55.648202+00:00
 -- url     : https://prove2.me/theorems/906accae-b2c7-4417-b11e-050b7a6f6449

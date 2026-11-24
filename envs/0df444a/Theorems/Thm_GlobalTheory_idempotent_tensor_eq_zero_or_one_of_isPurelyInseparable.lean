@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_idempotent_tensor_eq_zero_or_one_of_isPurelyInseparable
 -- name    : GlobalTheory.idempotent_tensor_eq_zero_or_one_of_isPurelyInseparable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:55:13.238796+00:00
 -- url     : https://prove2.me/theorems/e40c7c73-1880-4fca-8d8f-02756d7d0ee5

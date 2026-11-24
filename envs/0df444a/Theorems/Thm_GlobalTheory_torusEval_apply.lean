@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_torusEval_apply
 -- name    : GlobalTheory.torusEval_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:24:01.480801+00:00
 -- url     : https://prove2.me/theorems/09321580-508b-4417-aa1d-d0f10de32f31

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bounded_powers_or_exists_valuationSubring_dvd
 -- name    : GlobalTheory.bounded_powers_or_exists_valuationSubring_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:07:20.479044+00:00
 -- url     : https://prove2.me/theorems/e602c743-4c22-43b4-baf6-86f63d836049

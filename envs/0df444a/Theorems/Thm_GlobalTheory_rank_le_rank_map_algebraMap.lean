@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_rank_le_rank_map_algebraMap
 -- name    : GlobalTheory.rank_le_rank_map_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:15:24.184927+00:00
 -- url     : https://prove2.me/theorems/abae8936-f54f-42f6-b4af-03efa7de6e00

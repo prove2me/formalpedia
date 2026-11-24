@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_logDerivativeThreeFourOne_three_four_one
 -- name    : GlobalTheory.logDerivativeThreeFourOne.three_four_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:52:32.830796+00:00
 -- url     : https://prove2.me/theorems/40eee90d-3292-4310-8f67-16dc79e78498

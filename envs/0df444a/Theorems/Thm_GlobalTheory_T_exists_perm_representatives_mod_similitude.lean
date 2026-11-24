@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_perm_representatives_mod_similitude
 -- name    : GlobalTheory.T.exists_perm_representatives_mod_similitude
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:36:46.534806+00:00
 -- url     : https://prove2.me/theorems/ddf25038-d6da-471c-95fa-5d9d6560d3c5

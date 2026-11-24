@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LiftsToSymplectic_levi_of_det_eq_one
 -- name    : GlobalTheory.LiftsToSymplectic.levi_of_det_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:05:15.417117+00:00
 -- url     : https://prove2.me/theorems/dda058af-2e81-4dcd-a1e9-48d907e788eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Etale_pullbackSection_naturality
 -- name    : GroundTheory.Arith.Etale.pullbackSection_naturality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:26:31.260474+00:00
 -- url     : https://prove2.me/theorems/165bc5bb-18d5-448f-b17a-0f1af824c0a6

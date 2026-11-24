@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_of_bijective_pairing_zmod
 -- name    : GlobalTheory.T.finite_of_bijective_pairing_zmod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:39:46.967933+00:00
 -- url     : https://prove2.me/theorems/5a909d9c-c20f-4bac-b348-e563ba9d4ff1

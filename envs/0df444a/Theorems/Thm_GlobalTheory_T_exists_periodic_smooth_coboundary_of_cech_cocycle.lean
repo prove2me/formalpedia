@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_periodic_smooth_coboundary_of_cech_cocycle
 -- name    : GlobalTheory.T.exists_periodic_smooth_coboundary_of_cech_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:58:08.452124+00:00
 -- url     : https://prove2.me/theorems/14a210f1-dc43-4cea-8297-2b60dd4c4737

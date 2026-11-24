@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_map_subtype_saturation_submoduleOf
 -- name    : GlobalTheory.map_subtype_saturation_submoduleOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:52:27.016831+00:00
 -- url     : https://prove2.me/theorems/b925b304-e118-4f05-8930-b34aaf48fec9

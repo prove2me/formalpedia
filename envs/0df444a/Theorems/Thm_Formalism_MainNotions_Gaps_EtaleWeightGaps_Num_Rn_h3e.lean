@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_EtaleWeightGaps_Num_Rn_h3e
 -- name    : Formalism.MainNotions.Gaps.EtaleWeightGaps.Num.Rn.h3e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:43:26.935293+00:00
 -- url     : https://prove2.me/theorems/60870076-f9f7-4136-b481-749164e8bfc6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSymplecticBasis_exists_adapted
 -- name    : GlobalTheory.IsSymplecticBasis.exists_adapted
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:22:02.634223+00:00
 -- url     : https://prove2.me/theorems/dbcb012a-989d-4135-a840-2d5abc042aa3

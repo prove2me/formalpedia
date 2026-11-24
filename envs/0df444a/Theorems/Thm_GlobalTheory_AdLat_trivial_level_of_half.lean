@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_trivial_level_of_half
 -- name    : GlobalTheory.AdLat.trivial_level_of_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:35:12.970462+00:00
 -- url     : https://prove2.me/theorems/6037bc12-c968-4620-b32f-f1a13d101466

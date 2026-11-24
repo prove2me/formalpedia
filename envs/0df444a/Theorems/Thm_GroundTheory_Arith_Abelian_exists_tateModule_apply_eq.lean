@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_exists_tateModule_apply_eq
 -- name    : GroundTheory.Arith.Abelian.exists_tateModule_apply_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:26:59.33461+00:00
 -- url     : https://prove2.me/theorems/fd819e56-f96a-4dba-b6ee-4eb78318200a

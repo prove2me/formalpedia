@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_FourierJacobi_exists_represents
 -- name    : GlobalTheory.RootEx.FourierJacobi.exists_represents
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:40:06.663392+00:00
 -- url     : https://prove2.me/theorems/15896b5c-6db9-4f6b-a2e2-e014939474a7

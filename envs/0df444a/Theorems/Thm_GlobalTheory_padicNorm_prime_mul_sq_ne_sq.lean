@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_padicNorm_prime_mul_sq_ne_sq
 -- name    : GlobalTheory.padicNorm_prime_mul_sq_ne_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:12:56.541978+00:00
 -- url     : https://prove2.me/theorems/c339ab7f-08b6-4883-9c55-2ad3aa956a4b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_and_ncard_le_of_norm_map_le
 -- name    : GlobalTheory.finite_and_ncard_le_of_norm_map_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:51:19.028269+00:00
 -- url     : https://prove2.me/theorems/1d885e05-51ac-4da5-a373-e82ffdb47f9b

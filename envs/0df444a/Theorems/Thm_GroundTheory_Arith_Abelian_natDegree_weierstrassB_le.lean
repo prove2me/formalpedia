@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_natDegree_weierstrassB_le
 -- name    : GroundTheory.Arith.Abelian.natDegree_weierstrassB_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:25:51.408385+00:00
 -- url     : https://prove2.me/theorems/df6879de-bfe7-4fc7-8ea2-67f8968ebb12

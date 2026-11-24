@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_continuous_congruence_near_symmetric_matrix
 -- name    : GlobalTheory.T.exists_continuous_congruence_near_symmetric_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:34:23.352713+00:00
 -- url     : https://prove2.me/theorems/6aef04b5-98ff-48ba-b3b3-b66bd0b7a961

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_pow_dvd_bound_or_exists_valuationSubring_dvd
 -- name    : GlobalTheory.T.pow_dvd_bound_or_exists_valuationSubring_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:55:49.207+00:00
 -- url     : https://prove2.me/theorems/0bbc7f2d-8901-47aa-982d-348812c4bd7d

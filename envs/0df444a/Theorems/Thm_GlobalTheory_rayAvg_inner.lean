@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_rayAvg_inner
 -- name    : GlobalTheory.rayAvg_inner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:16:39.698877+00:00
 -- url     : https://prove2.me/theorems/5e8f2429-e0ae-40dd-8cfd-7967e6824879

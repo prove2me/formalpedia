@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_relIndex_unfold_semidirect
 -- name    : GlobalTheory.relIndex_unfold_semidirect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:16:17.027919+00:00
 -- url     : https://prove2.me/theorems/cfbe25cc-1239-484a-8b83-7a9b625228f1

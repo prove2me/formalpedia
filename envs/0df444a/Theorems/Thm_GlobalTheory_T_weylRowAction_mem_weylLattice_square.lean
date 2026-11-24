@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_weylRowAction_mem_weylLattice_square
 -- name    : GlobalTheory.T.weylRowAction_mem_weylLattice_square
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:46:23.778426+00:00
 -- url     : https://prove2.me/theorems/5b52d8ea-007f-40c2-864b-24ba9437410b

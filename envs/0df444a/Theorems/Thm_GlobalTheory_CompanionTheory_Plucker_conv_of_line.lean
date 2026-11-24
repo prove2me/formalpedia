@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Plucker_conv_of_line
 -- name    : GlobalTheory.CompanionTheory.Plucker.conv_of_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:05:36.666016+00:00
 -- url     : https://prove2.me/theorems/cf2e747b-be04-4ff4-b09b-7727de712657

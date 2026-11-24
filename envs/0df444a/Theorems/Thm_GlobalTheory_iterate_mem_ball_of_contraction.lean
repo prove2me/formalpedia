@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_iterate_mem_ball_of_contraction
 -- name    : GlobalTheory.iterate_mem_ball_of_contraction
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:03:40.158037+00:00
 -- url     : https://prove2.me/theorems/32101789-a6f0-4ba5-b450-693ac3d06f2d

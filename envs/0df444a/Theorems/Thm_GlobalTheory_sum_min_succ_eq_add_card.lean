@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_min_succ_eq_add_card
 -- name    : GlobalTheory.sum_min_succ_eq_add_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:23:07.687216+00:00
 -- url     : https://prove2.me/theorems/a812cb39-7a8b-4823-87ab-0588383dc42d

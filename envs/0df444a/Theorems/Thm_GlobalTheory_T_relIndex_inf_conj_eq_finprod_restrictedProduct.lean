@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_relIndex_inf_conj_eq_finprod_restrictedProduct
 -- name    : GlobalTheory.T.relIndex_inf_conj_eq_finprod_restrictedProduct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:56:31.992016+00:00
 -- url     : https://prove2.me/theorems/51aa9d22-5ab4-4c07-8ab5-cfc5cb9fc580

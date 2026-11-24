@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_map_twoSided_haar
 -- name    : GlobalTheory.KSp.map_twoSided_haar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:07:52.764902+00:00
 -- url     : https://prove2.me/theorems/6e60c6a0-b213-4be2-96bd-1b31a1a428cb

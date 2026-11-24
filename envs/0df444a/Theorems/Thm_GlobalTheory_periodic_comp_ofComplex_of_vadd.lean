@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_periodic_comp_ofComplex_of_vadd
 -- name    : GlobalTheory.periodic_comp_ofComplex_of_vadd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:14:41.130801+00:00
 -- url     : https://prove2.me/theorems/cd93c46e-8883-4c6e-aff9-aa46780648e0

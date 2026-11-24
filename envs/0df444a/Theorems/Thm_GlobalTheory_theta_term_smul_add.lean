@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_theta_term_smul_add
 -- name    : GlobalTheory.theta_term_smul_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:25:06.061799+00:00
 -- url     : https://prove2.me/theorems/cdace85d-dabe-4a39-81b3-c62b0d828e5e

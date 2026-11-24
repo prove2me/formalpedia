@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_fejer_weights
 -- name    : GlobalTheory.sum_fejer_weights
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:23:09.269189+00:00
 -- url     : https://prove2.me/theorems/2c064429-a9f5-49b8-a788-1aba8cda0fc6

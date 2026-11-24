@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cancel_prod_summand_nilpotent_or_bijective
 -- name    : GlobalTheory.T.cancel_prod_summand_nilpotent_or_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:26:54.445881+00:00
 -- url     : https://prove2.me/theorems/160eab2d-8ea4-42b9-b85d-6ee18f514de3

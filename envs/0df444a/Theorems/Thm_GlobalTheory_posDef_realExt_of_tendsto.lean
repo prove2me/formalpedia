@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_posDef_realExt_of_tendsto
 -- name    : GlobalTheory.posDef_realExt_of_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:02:52.27948+00:00
 -- url     : https://prove2.me/theorems/cbe80c3e-d818-4e8e-ba8a-bfe5d1ac603e

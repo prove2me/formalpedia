@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_TateModule_exists_eq_nsmul_of_apply_one_eq_zero
 -- name    : GroundTheory.Arith.Abelian.TateModule.exists_eq_nsmul_of_apply_one_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:27:27.854138+00:00
 -- url     : https://prove2.me/theorems/59c46fe7-8c96-4f9f-b1e4-3dcd7525084d

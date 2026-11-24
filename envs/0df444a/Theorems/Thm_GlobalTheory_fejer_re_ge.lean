@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_fejer_re_ge
 -- name    : GlobalTheory.fejer_re_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:46:17.871443+00:00
 -- url     : https://prove2.me/theorems/e2eb7690-0351-419e-8647-2576016314a4

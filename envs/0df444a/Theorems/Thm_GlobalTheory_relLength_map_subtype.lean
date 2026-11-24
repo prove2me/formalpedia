@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_relLength_map_subtype
 -- name    : GlobalTheory.relLength_map_subtype
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:16:28.754544+00:00
 -- url     : https://prove2.me/theorems/2dc67d2b-3c2b-4fb3-89bc-7a6d8c85ed24

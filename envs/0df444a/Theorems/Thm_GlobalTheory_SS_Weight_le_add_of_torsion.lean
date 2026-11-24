@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Weight_le_add_of_torsion
 -- name    : GlobalTheory.SS.Weight.le_add_of_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:36:28.729003+00:00
 -- url     : https://prove2.me/theorems/bb186546-e046-4176-91ec-6c3af12f13f4

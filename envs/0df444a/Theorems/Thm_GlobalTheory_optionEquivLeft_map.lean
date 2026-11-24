@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_optionEquivLeft_map
 -- name    : GlobalTheory.optionEquivLeft_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:12:50.13164+00:00
 -- url     : https://prove2.me/theorems/33d90d66-3192-4763-94fa-32d6ba6dfd29

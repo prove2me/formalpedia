@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unfold_sum_invariant_levi_conj
 -- name    : GlobalTheory.T.unfold_sum_invariant_levi_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:01:26.1963+00:00
 -- url     : https://prove2.me/theorems/183ecffb-e584-4781-b810-8aff763eea69

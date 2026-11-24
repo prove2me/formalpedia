@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_of_X_mul_mem
 -- name    : GlobalTheory.mem_of_X_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:11:20.204856+00:00
 -- url     : https://prove2.me/theorems/98804bba-a98a-4ec0-852d-6fd3a1c32d26

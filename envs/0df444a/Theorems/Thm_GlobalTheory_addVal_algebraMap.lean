@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_addVal_algebraMap
 -- name    : GlobalTheory.addVal_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:13:10.594848+00:00
 -- url     : https://prove2.me/theorems/66919c22-23e1-462c-8f2c-255367d61c69

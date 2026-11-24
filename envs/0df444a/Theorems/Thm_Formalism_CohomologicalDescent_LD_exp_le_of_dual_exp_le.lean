@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_exp_le_of_dual_exp_le
 -- name    : Formalism.CohomologicalDescent.LD.exp_le_of_dual_exp_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:05:19.571172+00:00
 -- url     : https://prove2.me/theorems/b727f008-c317-4f15-8279-190c4dadcaf5

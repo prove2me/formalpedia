@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_repr_semilinear_of_map_basis
 -- name    : GlobalTheory.repr_semilinear_of_map_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:16:13.253933+00:00
 -- url     : https://prove2.me/theorems/bd921312-cd45-450e-bb6e-c4af405e6e29

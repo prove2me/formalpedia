@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_heightOneOfNonsingular_asIdeal
 -- name    : GroundTheory.Arith.Abelian.heightOneOfNonsingular_asIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:25:41.115626+00:00
 -- url     : https://prove2.me/theorems/484e38ce-b024-40b6-8e65-fb89ed3fe71e

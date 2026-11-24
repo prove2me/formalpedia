@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_smul_mem_formCombinations_of_le
 -- name    : GlobalTheory.smul_mem_formCombinations_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:21:58.397122+00:00
 -- url     : https://prove2.me/theorems/183cd93f-dc9d-4ef6-ae37-f129f1afd7b3

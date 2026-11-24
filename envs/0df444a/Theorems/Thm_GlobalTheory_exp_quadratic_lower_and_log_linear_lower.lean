@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exp_quadratic_lower_and_log_linear_lower
 -- name    : GlobalTheory.exp_quadratic_lower_and_log_linear_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:46:07.812304+00:00
 -- url     : https://prove2.me/theorems/2c08c27f-2fbf-41de-9d00-4b8152017029

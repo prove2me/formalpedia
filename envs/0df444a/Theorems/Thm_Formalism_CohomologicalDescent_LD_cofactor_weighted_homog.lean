@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_cofactor_weighted_homog
 -- name    : Formalism.CohomologicalDescent.LD.cofactor_weighted_homog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:06:49.974089+00:00
 -- url     : https://prove2.me/theorems/e60c1b9e-1dc7-4c3f-aa34-7bc39d04a48d

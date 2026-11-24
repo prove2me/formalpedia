@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassIntegral_tsum_one_mul_eq_one
 -- name    : GlobalTheory.ClassIntegral.tsum_one_mul_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:26:39.203595+00:00
 -- url     : https://prove2.me/theorems/b49a303f-3dd9-4b2a-89de-0eae4f03756d

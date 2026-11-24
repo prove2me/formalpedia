@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartRed_kills_evals
 -- name    : GlobalTheory.PartRed.kills_evals
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:11:15.25481+00:00
 -- url     : https://prove2.me/theorems/9b3c4880-3dc4-4df3-95b9-2ad3669f7b5b

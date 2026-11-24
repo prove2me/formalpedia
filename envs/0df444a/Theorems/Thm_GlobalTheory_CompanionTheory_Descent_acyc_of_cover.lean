@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Descent_acyc_of_cover
 -- name    : GlobalTheory.CompanionTheory.Descent.acyc_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:25:50.439168+00:00
 -- url     : https://prove2.me/theorems/6fdcc357-1462-4f23-bcf3-1d9103efc1da

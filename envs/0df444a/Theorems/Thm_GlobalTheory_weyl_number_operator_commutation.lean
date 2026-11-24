@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_weyl_number_operator_commutation
 -- name    : GlobalTheory.weyl_number_operator_commutation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:24:26.119531+00:00
 -- url     : https://prove2.me/theorems/d2ee6410-12c9-4d6b-8be5-94f7f916b9a9

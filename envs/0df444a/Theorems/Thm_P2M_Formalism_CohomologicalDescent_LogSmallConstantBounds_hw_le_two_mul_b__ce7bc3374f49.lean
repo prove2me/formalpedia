@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_CohomologicalDescent_LogSmallConstantBounds_hw_le_two_mul_b__ce7bc3374f49
 -- name    : P2M_Formalism_CohomologicalDescent_LogSmallConstantBounds_hw_le_two_mul_b__ce7bc3374f49
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:45:12.039049+00:00
 -- url     : https://prove2.me/theorems/f3809df6-f34a-4089-8d37-c812a644e9ba

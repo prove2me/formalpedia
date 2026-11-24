@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_X_mul_pderiv_X
 -- name    : GlobalTheory.sum_X_mul_pderiv_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:22:54.414383+00:00
 -- url     : https://prove2.me/theorems/4f9f1513-5d02-45ac-b3a6-843eb7aa5810

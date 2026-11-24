@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_rpow_neg_sum_le_of_sum_log
 -- name    : GlobalTheory.exists_rpow_neg_sum_le_of_sum_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:41:02.81831+00:00
 -- url     : https://prove2.me/theorems/9fc845ae-be15-4840-9a4d-efe6e944e2b2

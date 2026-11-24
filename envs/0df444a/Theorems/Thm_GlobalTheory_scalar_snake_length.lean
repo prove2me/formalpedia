@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_scalar_snake_length
 -- name    : GlobalTheory.scalar_snake_length
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:20:35.833449+00:00
 -- url     : https://prove2.me/theorems/645654e8-a903-4bd4-aa5f-cfe7795fd6d7

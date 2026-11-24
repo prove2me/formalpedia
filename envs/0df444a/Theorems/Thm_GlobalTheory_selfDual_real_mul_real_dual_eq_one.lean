@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_selfDual_real_mul_real_dual_eq_one
 -- name    : GlobalTheory.selfDual_real_mul_real_dual_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:20:45.870824+00:00
 -- url     : https://prove2.me/theorems/9396c226-b9b2-4938-8d48-b0e3ac340280

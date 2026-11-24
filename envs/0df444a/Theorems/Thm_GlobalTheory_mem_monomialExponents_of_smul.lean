@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_monomialExponents_of_smul
 -- name    : GlobalTheory.mem_monomialExponents_of_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:11:28.392845+00:00
 -- url     : https://prove2.me/theorems/c281793a-af16-4745-942d-e64e435b97d4

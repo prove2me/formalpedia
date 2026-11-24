@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tmul_one_mem_nonZeroDivisors_of_flat
 -- name    : GlobalTheory.tmul_one_mem_nonZeroDivisors_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:23:46.648713+00:00
 -- url     : https://prove2.me/theorems/d8026c7d-bca3-4212-aef6-29dc099c9ff9

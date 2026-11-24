@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeBound_exists_smul_hermGL
 -- name    : GlobalTheory.SatakeBound.exists_smul_hermGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:44:48.570247+00:00
 -- url     : https://prove2.me/theorems/8988ae2f-c64f-4c10-a8a5-12dfeb8209a9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dual_cinvOK_small
 -- name    : GlobalTheory.dual_cinvOK_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:16:29.766002+00:00
 -- url     : https://prove2.me/theorems/6a592587-1651-4ee2-aefc-10708acf8d97

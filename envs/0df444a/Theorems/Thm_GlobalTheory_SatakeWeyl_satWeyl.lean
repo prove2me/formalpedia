@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_satWeyl
 -- name    : GlobalTheory.SatakeWeyl.satWeyl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:27:24.073852+00:00
 -- url     : https://prove2.me/theorems/a5428922-1e85-42bc-bb64-12b3973888b3

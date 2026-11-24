@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_topologicalKrullDim_eq_of_mem_irreducibleComponents_of_trdeg_eq
 -- name    : GlobalTheory.topologicalKrullDim_eq_of_mem_irreducibleComponents_of_trdeg_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:23:57.810605+00:00
 -- url     : https://prove2.me/theorems/735f9f68-405d-4b1b-b397-d73491bba883

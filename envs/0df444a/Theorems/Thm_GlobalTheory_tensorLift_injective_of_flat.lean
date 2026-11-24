@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tensorLift_injective_of_flat
 -- name    : GlobalTheory.tensorLift_injective_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:23:40.077321+00:00
 -- url     : https://prove2.me/theorems/35e11683-f01e-4e9a-8526-bf39df54d084

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_subst_pair_subst_X
 -- name    : GlobalTheory.subst_pair_subst_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:21:08.314891+00:00
 -- url     : https://prove2.me/theorems/0c3d0789-5539-4f8d-962b-ef1970996bc3

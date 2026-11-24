@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_KNorm_two_tors_le
 -- name    : Formalism.L2.Th1.B.KNorm.two_tors_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:47:16.842086+00:00
 -- url     : https://prove2.me/theorems/1899ea5a-5737-488d-9762-615eac1c1b8d

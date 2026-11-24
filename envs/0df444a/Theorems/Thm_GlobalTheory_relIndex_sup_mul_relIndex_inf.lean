@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_relIndex_sup_mul_relIndex_inf
 -- name    : GlobalTheory.relIndex_sup_mul_relIndex_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:16:07.759983+00:00
 -- url     : https://prove2.me/theorems/00410d9e-c56d-40c6-9d12-08c1781aff2e

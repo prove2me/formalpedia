@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitianTraceDual_integers_eq_uniformizer_pow
 -- name    : GlobalTheory.T.hermitianTraceDual_integers_eq_uniformizer_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:45:35.984821+00:00
 -- url     : https://prove2.me/theorems/20f62ab5-e7b9-4a01-9cb8-3b5945946ff4

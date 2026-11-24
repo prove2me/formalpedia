@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_strip_prime_factors
 -- name    : GlobalTheory.strip_prime_factors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:21:41.294493+00:00
 -- url     : https://prove2.me/theorems/47a1621e-9409-4d47-a06c-8bbe38782fc9

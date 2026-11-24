@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_polarisedTorus_algebraic_of_parts
 -- name    : GlobalTheory.polarisedTorus_algebraic_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:14:27.994315+00:00
 -- url     : https://prove2.me/theorems/5d0f195d-71f3-42ff-8498-ebbfd46cc495

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_rcout_coeff_zero
 -- name    : GlobalTheory.rcout_coeff_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:16:44.258178+00:00
 -- url     : https://prove2.me/theorems/dcabae49-b967-43a0-935d-4d328c3c6fec

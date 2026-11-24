@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_qdet_add_one_sub_eq_sum_qminor__f6f3c8bd0999
 -- name    : P2M_GlobalTheory_T_qdet_add_one_sub_eq_sum_qminor__f6f3c8bd0999
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:12:34.293593+00:00
 -- url     : https://prove2.me/theorems/8f6fb179-1763-4fe4-a53c-7eff4857ffb6

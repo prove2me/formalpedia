@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_of_retractions_mod_pow
 -- name    : GlobalTheory.flat_of_retractions_mod_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:52:37.474159+00:00
 -- url     : https://prove2.me/theorems/ca8d0708-5cee-4a38-aca0-1701985b3d4b

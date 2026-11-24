@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tendsto_div_add_const_pow_div_pow
 -- name    : GlobalTheory.tendsto_div_add_const_pow_div_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:22:41.793802+00:00
 -- url     : https://prove2.me/theorems/94f19b54-f26b-47cb-b291-2ae5b99ff65b

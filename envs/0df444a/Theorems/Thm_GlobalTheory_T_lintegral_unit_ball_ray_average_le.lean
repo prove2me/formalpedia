@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lintegral_unit_ball_ray_average_le
 -- name    : GlobalTheory.T.lintegral_unit_ball_ray_average_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:52:05.964743+00:00
 -- url     : https://prove2.me/theorems/5950239a-1dbb-433c-b259-46b613a54ae5

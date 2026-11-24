@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_span_X_sub_C_le_comap_XYIdeal
 -- name    : GroundTheory.Arith.Abelian.span_X_sub_C_le_comap_XYIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:25:30.103689+00:00
 -- url     : https://prove2.me/theorems/54291acc-ff09-47e8-a933-bf29f88a3927

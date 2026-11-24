@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSaturatedSubmodule_eq_of_le_of_finrank_eq
 -- name    : GlobalTheory.IsSaturatedSubmodule.eq_of_le_of_finrank_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:52:01.467566+00:00
 -- url     : https://prove2.me/theorems/bd01c0d1-8d34-40af-aeb0-63a3a1f26654

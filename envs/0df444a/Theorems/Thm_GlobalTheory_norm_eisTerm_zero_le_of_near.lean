@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_norm_eisTerm_zero_le_of_near
 -- name    : GlobalTheory.norm_eisTerm_zero_le_of_near
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:12:43.161572+00:00
 -- url     : https://prove2.me/theorems/b73dde84-07c6-4df3-80da-9e0ac6cfd066

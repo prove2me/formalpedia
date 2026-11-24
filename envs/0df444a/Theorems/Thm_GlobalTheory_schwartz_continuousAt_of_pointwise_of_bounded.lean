@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_schwartz_continuousAt_of_pointwise_of_bounded
 -- name    : GlobalTheory.schwartz_continuousAt_of_pointwise_of_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:07:07.859097+00:00
 -- url     : https://prove2.me/theorems/31bccdff-f559-4649-ab0b-6e502a45b604

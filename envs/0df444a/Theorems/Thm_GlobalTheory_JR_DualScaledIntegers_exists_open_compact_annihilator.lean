@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_DualScaledIntegers_exists_open_compact_annihilator
 -- name    : GlobalTheory.JR.DualScaledIntegers.exists_open_compact_annihilator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:26:59.373375+00:00
 -- url     : https://prove2.me/theorems/2433ab99-02c0-44a0-a3fa-1f552426e826

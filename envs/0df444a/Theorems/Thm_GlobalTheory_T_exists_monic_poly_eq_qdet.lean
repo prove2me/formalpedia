@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_monic_poly_eq_qdet
 -- name    : GlobalTheory.T.exists_monic_poly_eq_qdet
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:12:31.930502+00:00
 -- url     : https://prove2.me/theorems/2b18c0f8-499c-43bd-a1b4-d26621fd1375

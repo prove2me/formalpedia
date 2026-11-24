@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tprod_comp_perm
 -- name    : GlobalTheory.tprod_comp_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:23:48.044983+00:00
 -- url     : https://prove2.me/theorems/c09dd8f7-638c-47d8-8664-bd6fefc71abb

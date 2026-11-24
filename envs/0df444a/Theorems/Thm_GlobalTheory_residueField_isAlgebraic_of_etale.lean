@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_residueField_isAlgebraic_of_etale
 -- name    : GlobalTheory.residueField_isAlgebraic_of_etale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:16:10.220443+00:00
 -- url     : https://prove2.me/theorems/8f5ad558-027c-431a-bcbc-bd70ff936219

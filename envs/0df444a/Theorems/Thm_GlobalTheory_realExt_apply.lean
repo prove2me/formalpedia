@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_realExt_apply
 -- name    : GlobalTheory.realExt_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:16:03.704941+00:00
 -- url     : https://prove2.me/theorems/4a9f6cb8-1d6c-4fef-ab48-81b0b9abef40

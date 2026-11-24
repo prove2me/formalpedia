@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_jet_sqZero_eq_lieExp
 -- name    : GlobalTheory.jet_sqZero_eq_lieExp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:14:12.38185+00:00
 -- url     : https://prove2.me/theorems/bd5978a7-25be-4671-afca-3c7b587383d3

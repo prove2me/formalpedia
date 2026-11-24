@@ -1,0 +1,66 @@
+-- Prove2me | solution 1 for GroundTheory.Arith.Abelian.exists_toZModPow_eq
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-7
+-- created : 2026-11-24T23:45:06.537394+00:00
+-- url     : https://prove2.me/submissions/dfe9078d-5e38-4497-9572-dc9133b5f905
+
+import Mathlib
+import Definitions.Def_GroundTheory_ArithmeticGeometry_AbelianVarieties_TorsionGalois
+import Definitions.Def_GroundTheory_ArithmeticGeometry_AbelianVarieties_TateModule
+import Theorems.Thm_GroundTheory_Arith_Abelian_xOf_neg
+import Theorems.Thm_GroundTheory_Arith_Abelian_xOf_some
+import Theorems.Thm_GroundTheory_ProfCoh_coe_galRootsOfUnityHom_apply
+import Theorems.Thm_GroundTheory_ProfCoh_coe_openNormalSubgroupEquiv_symm_apply
+import Theorems.Thm_GroundTheory_ProfCoh_isDiscreteRep_apply
+import Theorems.Thm_GroundTheory_ProfCoh_mem_stabilizer
+import Theorems.Thm_GroundTheory_ProfCoh_openNormalSubgroupEquiv_apply
+import Theorems.Thm_P2M_GroundTheory_ProfCoh_galAddInt___apply_e3c2bd0048b0
+import Theorems.Thm_P2M_GroundTheory_ProfCoh_galAddZ___apply_9150def5d083
+import Theorems.Thm_P2M_GroundTheory_ProfCoh_galAdd___apply_d57b0a2a1b9a
+import Theorems.Thm_P2M_GroundTheory_ProfCoh_galRootsOfUnityZ___apply_40a7d6b8f2a7
+import Theorems.Thm_P2M_GroundTheory_ProfCoh_galRootsOfUnity___apply_600492b04171
+import Theorems.Thm_P2M_GroundTheory_ProfCoh_galUnitsZ___apply_2d4ee74d5783
+import Theorems.Thm_P2M_GroundTheory_ProfCoh_galUnits___apply_5e27268f2c21
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+attribute [local simp] GroundTheory.Arith.Abelian.xOf_neg
+attribute [local simp] GroundTheory.Arith.Abelian.xOf_some
+attribute [local simp] GroundTheory.ProfCoh.coe_galRootsOfUnityHom_apply
+attribute [local simp] GroundTheory.ProfCoh.coe_openNormalSubgroupEquiv_symm_apply
+attribute [local simp] GroundTheory.ProfCoh.isDiscreteRep_apply
+attribute [local simp] GroundTheory.ProfCoh.mem_stabilizer
+attribute [local simp] GroundTheory.ProfCoh.openNormalSubgroupEquiv_apply
+attribute [local simp] P2M_GroundTheory_ProfCoh_galAddInt___apply_e3c2bd0048b0
+attribute [local simp] P2M_GroundTheory_ProfCoh_galAddZ___apply_9150def5d083
+attribute [local simp] P2M_GroundTheory_ProfCoh_galAdd___apply_d57b0a2a1b9a
+attribute [local simp] P2M_GroundTheory_ProfCoh_galRootsOfUnityZ___apply_40a7d6b8f2a7
+attribute [local simp] P2M_GroundTheory_ProfCoh_galRootsOfUnity___apply_600492b04171
+attribute [local simp] P2M_GroundTheory_ProfCoh_galUnitsZ___apply_2d4ee74d5783
+attribute [local simp] P2M_GroundTheory_ProfCoh_galUnits___apply_5e27268f2c21
+
+
+
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+open GroundTheory GroundTheory.Arith GroundTheory.Arith.Abelian
+open AddSubgroup
+variable {ℓ : ℕ} [hℓ : Fact ℓ.Prime] {A : Type*} [AddCommGroup A]
+namespace GroundTheory.Arith.Abelian
+theorem _root_.solution (x : ∀ k : ℕ, ZMod (ℓ ^ k))
+    (hx : ∀ k, ((x (k + 1)).val : ZMod (ℓ ^ k)) = x k) :
+    ∃ a : ℤ_[ℓ], ∀ k, PadicInt.toZModPow k a = x k := by
+  have hi : ∀ i, (ℓ : ℤ) ^ i ∣ ((x (i + 1)).val : ℤ) - ((x i).val : ℤ) := by
+    intro i
+    have h := (ZMod.intCast_eq_intCast_iff_dvd_sub ((x i).val : ℤ) ((x (i + 1)).val : ℤ)
+      (ℓ ^ i)).mp (by rw [Int.cast_natCast, Int.cast_natCast, hx i]; simp)
+    exact_mod_cast h
+  refine ⟨PadicInt.ofIntSeq _ (PadicInt.isCauSeq_padicNorm_of_pow_dvd_sub
+    (fun k => ((x k).val : ℤ)) ℓ hi), fun k => ?_⟩
+  rw [PadicInt.toZModPow_ofIntSeq_of_pow_dvd_sub _ _ hi]
+  simp
+end GroundTheory.Arith.Abelian

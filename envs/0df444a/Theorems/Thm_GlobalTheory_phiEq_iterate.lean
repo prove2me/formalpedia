@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_phiEq_iterate
 -- name    : GlobalTheory.phiEq_iterate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:14:12.643337+00:00
 -- url     : https://prove2.me/theorems/a0b1989d-36db-49ea-8029-21647697d076

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_DualLattice_dual_eq_zpow
 -- name    : GlobalTheory.JR.DualLattice.dual_eq_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:25:32.22448+00:00
 -- url     : https://prove2.me/theorems/8443815b-cf4a-43c9-8edd-83155f20f98e

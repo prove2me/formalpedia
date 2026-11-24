@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_chebyshev_coefficient_sum_bound
 -- name    : GlobalTheory.chebyshev_coefficient_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:49:31.409279+00:00
 -- url     : https://prove2.me/theorems/2eda6b00-3bc6-485b-a89f-b2b8ab9e9294

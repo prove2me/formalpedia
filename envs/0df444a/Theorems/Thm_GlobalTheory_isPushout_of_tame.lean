@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isPushout_of_tame
 -- name    : GlobalTheory.isPushout_of_tame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:00:17.229872+00:00
 -- url     : https://prove2.me/theorems/5ca5147a-3b3f-4a3b-9ea0-78b94273be31

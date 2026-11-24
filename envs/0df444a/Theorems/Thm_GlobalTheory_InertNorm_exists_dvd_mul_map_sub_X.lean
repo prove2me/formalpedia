@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertNorm_exists_dvd_mul_map_sub_X
 -- name    : GlobalTheory.InertNorm.exists_dvd_mul_map_sub_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:15:48.260795+00:00
 -- url     : https://prove2.me/theorems/24f48c32-bbe8-4be8-afae-dce317b8e649

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ncard_degree_eq
 -- name    : GlobalTheory.ncard_degree_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:12:11.728843+00:00
 -- url     : https://prove2.me/theorems/aab7266f-1bd7-48b0-865a-e1a093c6a819

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_jetPoint_add_sqZero_eq_prod_mul_tangent
 -- name    : GlobalTheory.T.jetPoint_add_sqZero_eq_prod_mul_tangent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:22:00.931746+00:00
 -- url     : https://prove2.me/theorems/d3ff1043-7001-48f2-ba9f-b75d218d2ce9

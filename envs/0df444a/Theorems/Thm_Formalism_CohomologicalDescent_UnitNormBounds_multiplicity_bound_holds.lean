@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_UnitNormBounds_multiplicity_bound_holds
 -- name    : Formalism.CohomologicalDescent.UnitNormBounds.multiplicity_bound_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:00:59.790438+00:00
 -- url     : https://prove2.me/theorems/a8bc6d65-1a92-4460-89ff-d0d3ec5c786a

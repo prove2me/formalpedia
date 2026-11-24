@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_powerSeries_extend_finite_free
 -- name    : GlobalTheory.powerSeries_extend_finite_free
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:14:20.818302+00:00
 -- url     : https://prove2.me/theorems/f068947a-a044-4f7a-bbdc-f0735b6127cd

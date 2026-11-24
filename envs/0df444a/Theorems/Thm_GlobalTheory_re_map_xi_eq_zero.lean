@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_re_map_xi_eq_zero
 -- name    : GlobalTheory.re_map_xi_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:17:20.689794+00:00
 -- url     : https://prove2.me/theorems/9ff510d1-ded5-4019-829e-f12adaaec6be

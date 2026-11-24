@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_rank_normal_form_matrix_field
 -- name    : GlobalTheory.T.exists_rank_normal_form_matrix_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:38:38.060116+00:00
 -- url     : https://prove2.me/theorems/ac2823ee-43d5-4a9b-a7df-50450b90b841

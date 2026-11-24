@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSInh_exists_goodU_ksRel
 -- name    : GlobalTheory.KSInh.exists_goodU_ksRel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:29.298795+00:00
 -- url     : https://prove2.me/theorems/3e9a05af-558a-486c-bc11-28e93ddaf92d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_surjective_of_generic_fibre_subset_range
 -- name    : GlobalTheory.surjective_of_generic_fibre_subset_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:23:10.696121+00:00
 -- url     : https://prove2.me/theorems/14c8f42c-906b-44b6-b099-b900418abb4a

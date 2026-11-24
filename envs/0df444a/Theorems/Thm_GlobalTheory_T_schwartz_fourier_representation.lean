@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartz_fourier_representation
 -- name    : GlobalTheory.T.schwartz_fourier_representation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:57:32.361803+00:00
 -- url     : https://prove2.me/theorems/87b654dc-6156-4870-89bf-c2ea7aaa8cac

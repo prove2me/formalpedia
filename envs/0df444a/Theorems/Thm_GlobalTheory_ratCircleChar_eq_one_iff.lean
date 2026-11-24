@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ratCircleChar_eq_one_iff
 -- name    : GlobalTheory.ratCircleChar_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:15:33.647696+00:00
 -- url     : https://prove2.me/theorems/2e81d6ff-0c03-4aff-a948-8d45c40df6e4

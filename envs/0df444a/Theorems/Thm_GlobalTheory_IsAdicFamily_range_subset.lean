@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsAdicFamily_range_subset
 -- name    : GlobalTheory.IsAdicFamily.range_subset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:17:44.31212+00:00
 -- url     : https://prove2.me/theorems/6eae8846-9686-447d-87bb-b8cdbbcb4d1d

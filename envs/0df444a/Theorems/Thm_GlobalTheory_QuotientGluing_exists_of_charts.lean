@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuotientGluing_exists_of_charts
 -- name    : GlobalTheory.QuotientGluing.exists_of_charts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:11:22.375902+00:00
 -- url     : https://prove2.me/theorems/64bbaf7b-f641-41cd-a080-2ac8605b3a29

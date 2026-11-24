@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_zarhinAction_adjoint
 -- name    : GlobalTheory.zarhinAction_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:25:20.848808+00:00
 -- url     : https://prove2.me/theorems/6b3947ea-c4fc-44b2-91e5-47a93737085d

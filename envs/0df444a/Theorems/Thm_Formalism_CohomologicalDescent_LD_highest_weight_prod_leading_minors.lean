@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_highest_weight_prod_leading_minors
 -- name    : Formalism.CohomologicalDescent.LD.highest_weight_prod_leading_minors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:05:42.193496+00:00
 -- url     : https://prove2.me/theorems/b0ec2c53-19a1-48de-8be6-695366f32d39

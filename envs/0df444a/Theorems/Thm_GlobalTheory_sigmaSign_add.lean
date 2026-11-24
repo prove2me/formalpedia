@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sigmaSign_add
 -- name    : GlobalTheory.sigmaSign_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:20:32.779191+00:00
 -- url     : https://prove2.me/theorems/28620f58-56b0-4b8c-a892-ffd816d01eeb

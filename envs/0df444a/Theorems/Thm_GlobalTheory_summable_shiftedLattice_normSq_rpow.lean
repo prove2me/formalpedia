@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_summable_shiftedLattice_normSq_rpow
 -- name    : GlobalTheory.summable_shiftedLattice_normSq_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:22:53.69551+00:00
 -- url     : https://prove2.me/theorems/50dc0d65-5b06-42b6-b691-ab66d58599ca

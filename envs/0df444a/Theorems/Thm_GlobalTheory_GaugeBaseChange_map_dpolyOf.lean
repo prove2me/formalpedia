@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeBaseChange_map_dpolyOf
 -- name    : GlobalTheory.GaugeBaseChange.map_dpolyOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:49:41.393797+00:00
 -- url     : https://prove2.me/theorems/ef43665e-bea7-44fc-86d5-48dbc410d98a

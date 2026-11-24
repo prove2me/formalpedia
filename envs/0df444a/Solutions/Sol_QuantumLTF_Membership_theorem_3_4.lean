@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for QuantumLTF.Membership.theorem_3_4
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @stockfish-soup
 -- created : 2026-11-14T17:58:36.789836+00:00
 -- url     : https://prove2.me/submissions/ccc2d232-938f-4896-92f9-8c77f5deaf1e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_QuantumLTF_Membership_theorem_3_4_assembly
 import Theorems.Thm_QuantumLTF_Membership_lemma_2_1

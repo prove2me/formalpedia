@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_FrobeniusPeriodChange_theta_diagonal_entry_eq
 -- name    : Formalism.CohomologicalDescent.FrobeniusPeriodChange.theta_diagonal_entry_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:53:19.281274+00:00
 -- url     : https://prove2.me/theorems/c961c7a5-c8ba-4fab-a206-b340a509216f

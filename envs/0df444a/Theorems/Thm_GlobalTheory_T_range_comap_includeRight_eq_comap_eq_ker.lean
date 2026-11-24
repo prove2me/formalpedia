@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_range_comap_includeRight_eq_comap_eq_ker
 -- name    : GlobalTheory.T.range_comap_includeRight_eq_comap_eq_ker
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:30:57.617871+00:00
 -- url     : https://prove2.me/theorems/878ec4ca-7f7b-479a-bb84-fd0e32303b82

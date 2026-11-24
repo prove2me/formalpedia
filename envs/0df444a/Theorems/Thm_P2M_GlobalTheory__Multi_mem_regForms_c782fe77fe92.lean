@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory__Multi_mem_regForms_c782fe77fe92
 -- name    : P2M_GlobalTheory__Multi_mem_regForms_c782fe77fe92
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:17:41.675726+00:00
 -- url     : https://prove2.me/theorems/c44025cc-dbab-43a1-b03f-f85b228cc1a6

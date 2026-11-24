@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankStrataProof_pAct_eq
 -- name    : GlobalTheory.RankStrataProof.pAct_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:29:15.578248+00:00
 -- url     : https://prove2.me/theorems/4d7e1973-9f8d-4dac-bdf3-3e3b0c6980b9

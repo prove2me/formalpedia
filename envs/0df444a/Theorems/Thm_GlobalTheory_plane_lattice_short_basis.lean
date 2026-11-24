@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_plane_lattice_short_basis
 -- name    : GlobalTheory.plane_lattice_short_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:14:06.622141+00:00
 -- url     : https://prove2.me/theorems/3b5f39e9-9169-4e91-8e6e-3654eafed139

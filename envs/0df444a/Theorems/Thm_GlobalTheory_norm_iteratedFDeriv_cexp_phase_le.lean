@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_norm_iteratedFDeriv_cexp_phase_le
 -- name    : GlobalTheory.norm_iteratedFDeriv_cexp_phase_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:13:02.745703+00:00
 -- url     : https://prove2.me/theorems/000c8b41-a85b-4384-8676-86e970b8e103

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_weighted_sum_drift_inequality
 -- name    : GlobalTheory.weighted_sum_drift_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:54:39.026184+00:00
 -- url     : https://prove2.me/theorems/f5b71e62-f70a-4ddb-a7a6-2d90cb379ca8

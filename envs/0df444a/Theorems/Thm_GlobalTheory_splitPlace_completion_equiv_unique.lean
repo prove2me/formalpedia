@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_splitPlace_completion_equiv_unique
 -- name    : GlobalTheory.splitPlace_completion_equiv_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:21:30.259017+00:00
 -- url     : https://prove2.me/theorems/32b93300-099b-46d6-a976-79a88bc4a605

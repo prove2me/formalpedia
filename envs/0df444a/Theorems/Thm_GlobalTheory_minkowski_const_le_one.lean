@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_minkowski_const_le_one
 -- name    : GlobalTheory.minkowski_const_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:11:30.332574+00:00
 -- url     : https://prove2.me/theorems/f471000c-f96c-4259-af10-a3f6c9571e5b

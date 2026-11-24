@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_unimodular_symplectic_coordinates_and_lattice_rank
 -- name    : GlobalTheory.unimodular_symplectic_coordinates_and_lattice_rank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:24:51.541681+00:00
 -- url     : https://prove2.me/theorems/066b782b-d0c1-4992-a120-0c78e62f71c0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_map_jac
 -- name    : GlobalTheory.map_jac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:09:42.489738+00:00
 -- url     : https://prove2.me/theorems/9101be15-efea-4fac-9104-6eed3c08540e

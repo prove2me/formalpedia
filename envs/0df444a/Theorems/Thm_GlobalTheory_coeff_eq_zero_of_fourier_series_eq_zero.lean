@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coeff_eq_zero_of_fourier_series_eq_zero
 -- name    : GlobalTheory.coeff_eq_zero_of_fourier_series_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:09:44.545089+00:00
 -- url     : https://prove2.me/theorems/d324479c-a546-4b73-8bf3-3fe593b7cde6

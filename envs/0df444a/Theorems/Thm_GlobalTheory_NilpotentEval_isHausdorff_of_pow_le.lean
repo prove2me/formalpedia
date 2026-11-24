@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NilpotentEval_isHausdorff_of_pow_le
 -- name    : GlobalTheory.NilpotentEval.isHausdorff_of_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:34:01.950892+00:00
 -- url     : https://prove2.me/theorems/767f24cc-ff03-4a6d-89ad-f07e3d7fc1e6

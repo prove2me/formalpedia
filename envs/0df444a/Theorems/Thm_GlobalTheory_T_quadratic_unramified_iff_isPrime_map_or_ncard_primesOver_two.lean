@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_quadratic_unramified_iff_isPrime_map_or_ncard_primesOver_two
 -- name    : GlobalTheory.T.quadratic_unramified_iff_isPrime_map_or_ncard_primesOver_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:56:52.19604+00:00
 -- url     : https://prove2.me/theorems/48e575e7-b5ad-4df5-b929-e3cc47cd4660

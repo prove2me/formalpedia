@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_unit_tensorNorm_eq
 -- name    : GlobalTheory.exists_unit_tensorNorm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:45:21.729715+00:00
 -- url     : https://prove2.me/theorems/1bd872d2-be37-4b04-89cd-ec69d2c50818

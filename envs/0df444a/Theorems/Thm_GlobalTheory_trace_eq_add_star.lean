@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_trace_eq_add_star
 -- name    : GlobalTheory.trace_eq_add_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:23:30.449811+00:00
 -- url     : https://prove2.me/theorems/3f71a028-7df0-4769-abcf-c10282c5409c

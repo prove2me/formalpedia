@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_rat_alternating_orthogonal_orthogonal_le
 -- name    : GlobalTheory.rat_alternating_orthogonal_orthogonal_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:15:48.278392+00:00
 -- url     : https://prove2.me/theorems/b2070bc4-b1d2-4313-9864-76e590c8e009

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_weighted_homog_is_homogeneous
 -- name    : Formalism.CohomologicalDescent.LD.weighted_homog_is_homogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:06:39.820878+00:00
 -- url     : https://prove2.me/theorems/5dca94f3-fc2e-4efe-8cd1-99dfcefa6dd9

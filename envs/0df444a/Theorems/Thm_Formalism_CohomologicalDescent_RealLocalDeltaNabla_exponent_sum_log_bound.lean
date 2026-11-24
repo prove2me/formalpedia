@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_RealLocalDeltaNabla_exponent_sum_log_bound
 -- name    : Formalism.CohomologicalDescent.RealLocalDeltaNabla.exponent_sum_log_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:10:40.020429+00:00
 -- url     : https://prove2.me/theorems/3522da85-ad32-4e4c-9d6d-2d0091a21b11

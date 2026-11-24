@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalChart_exists_expansion
 -- name    : GlobalTheory.FormalChart.exists_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:34:53.702963+00:00
 -- url     : https://prove2.me/theorems/cb097e11-c06e-4232-816c-05064157ce0a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_false_of_sum_sq_eq_12_of_fourier_vanish_order_63
 -- name    : GlobalTheory.T.false_of_sum_sq_eq_12_of_fourier_vanish_order_63
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:39:41.657383+00:00
 -- url     : https://prove2.me/theorems/f9a888f2-ea7a-4d45-ba32-eaeb3d7d575a

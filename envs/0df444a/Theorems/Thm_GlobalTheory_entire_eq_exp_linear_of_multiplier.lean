@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_entire_eq_exp_linear_of_multiplier
 -- name    : GlobalTheory.entire_eq_exp_linear_of_multiplier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:16:44.985613+00:00
 -- url     : https://prove2.me/theorems/7b395d75-5186-4d94-81ea-72257cfca148

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmithBetween_smith_between
 -- name    : GlobalTheory.SmithBetween.smith_between
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:41:28.1818+00:00
 -- url     : https://prove2.me/theorems/33abf9ff-0e28-49b2-8f03-8d9e00a7e5ba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_span_image_invariants
 -- name    : GlobalTheory.span_image_invariants
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:21:16.931856+00:00
 -- url     : https://prove2.me/theorems/9d252c3f-99e0-4b16-8b5c-fa9f92e19fde

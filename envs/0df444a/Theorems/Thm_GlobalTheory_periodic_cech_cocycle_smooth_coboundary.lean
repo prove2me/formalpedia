@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_periodic_cech_cocycle_smooth_coboundary
 -- name    : GlobalTheory.periodic_cech_cocycle_smooth_coboundary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:14:09.500952+00:00
 -- url     : https://prove2.me/theorems/7424cf68-5d22-47dc-b6fa-21100fd1c130

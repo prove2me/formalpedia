@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_TateModule_dvd_of_nsmul_add_nsmul_eq_zero
 -- name    : GroundTheory.Arith.Abelian.TateModule.dvd_of_nsmul_add_nsmul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:26:56.796344+00:00
 -- url     : https://prove2.me/theorems/9bb4faf8-a32b-49df-8498-98c30d6cbf5a

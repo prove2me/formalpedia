@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_periodic_tsum_lattice_translate
 -- name    : GlobalTheory.periodic_tsum_lattice_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:14:09.818822+00:00
 -- url     : https://prove2.me/theorems/b45592be-1a62-4854-9e3e-918af150cd08

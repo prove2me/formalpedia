@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartRed_LowLaw_evalLaw_low
 -- name    : GlobalTheory.PartRed.LowLaw.evalLaw_low
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:52:21.420018+00:00
 -- url     : https://prove2.me/theorems/56761263-2822-481d-85b1-37a8b9892053

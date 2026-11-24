@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowSpan_rowStable_harmK
 -- name    : GlobalTheory.RowSpan.rowStable_harmK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:32:38.682899+00:00
 -- url     : https://prove2.me/theorems/234d1db3-a2f4-4b79-a76a-603e5d132783

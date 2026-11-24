@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_subspaceHeight_gramDeterminant
 -- name    : GlobalTheory.T.exists_subspaceHeight_gramDeterminant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:39:05.714808+00:00
 -- url     : https://prove2.me/theorems/9ec18173-2891-4d10-90ac-ae52c4a157c2

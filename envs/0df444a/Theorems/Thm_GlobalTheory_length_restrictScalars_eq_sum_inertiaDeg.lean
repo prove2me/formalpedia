@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_length_restrictScalars_eq_sum_inertiaDeg
 -- name    : GlobalTheory.length_restrictScalars_eq_sum_inertiaDeg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:01:56.198738+00:00
 -- url     : https://prove2.me/theorems/d400b891-298f-4a16-abbc-d870492214f6

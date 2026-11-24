@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_quasiIsoAt_zero_cubeComplexMap_iff
 -- name    : GlobalTheory.quasiIsoAt_zero_cubeComplexMap_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:14:42.142822+00:00
 -- url     : https://prove2.me/theorems/499ef9b6-3288-41f3-a2db-c44cf9f32746

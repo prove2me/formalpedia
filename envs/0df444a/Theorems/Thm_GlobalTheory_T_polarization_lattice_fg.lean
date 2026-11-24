@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_polarization_lattice_fg
 -- name    : GlobalTheory.T.polarization_lattice_fg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:55:53.967023+00:00
 -- url     : https://prove2.me/theorems/80689157-e0db-4209-8d14-fd5da8e2c6d3

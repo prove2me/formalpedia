@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_newton_step_root_outside_disc
 -- name    : GlobalTheory.newton_step_root_outside_disc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:12:23.845913+00:00
 -- url     : https://prove2.me/theorems/70cdc6a3-d14c-4a58-be86-5fa8648f9f3a

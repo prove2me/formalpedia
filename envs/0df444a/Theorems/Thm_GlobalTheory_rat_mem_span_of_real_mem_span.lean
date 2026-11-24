@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_rat_mem_span_of_real_mem_span
 -- name    : GlobalTheory.rat_mem_span_of_real_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:16:49.108488+00:00
 -- url     : https://prove2.me/theorems/a4851271-7b33-47aa-a72a-0e56c6aa9fb4

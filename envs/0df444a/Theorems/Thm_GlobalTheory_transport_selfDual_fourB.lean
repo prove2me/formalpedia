@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_transport_selfDual_fourB
 -- name    : GlobalTheory.transport_selfDual_fourB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:23:40.075562+00:00
 -- url     : https://prove2.me/theorems/f2690f84-8968-45e7-8f75-d9d0d96a79ef

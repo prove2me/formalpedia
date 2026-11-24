@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_pow_vacuum_mem
 -- name    : GlobalTheory.pow_vacuum_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:14:22.317861+00:00
 -- url     : https://prove2.me/theorems/b16f857c-f0d0-46fc-bee9-c1eae7dddf42

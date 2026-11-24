@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_witt_matrix_coeff_mem_of_frobenius
 -- name    : GlobalTheory.witt_matrix_coeff_mem_of_frobenius
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:25:30.514803+00:00
 -- url     : https://prove2.me/theorems/e7377932-60e7-43e0-8054-e492c78cf150

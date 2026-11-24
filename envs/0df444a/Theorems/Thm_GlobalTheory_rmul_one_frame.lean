@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_rmul_one_frame
 -- name    : GlobalTheory.rmul_one_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:19:18.696266+00:00
 -- url     : https://prove2.me/theorems/ecabbc92-deea-4c24-ace1-fa0e662523d4

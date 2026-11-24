@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_integrableOn_log_norm_of_frequently_ne_zero
 -- name    : GlobalTheory.exists_integrableOn_log_norm_of_frequently_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:56:37.016178+00:00
 -- url     : https://prove2.me/theorems/027d2b33-6156-4475-b316-ab2871059b10

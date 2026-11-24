@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_derivative_rowAddGeneric
 -- name    : GlobalTheory.derivative_rowAddGeneric
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:16:07.195729+00:00
 -- url     : https://prove2.me/theorems/766db2ac-f063-4c98-ab60-5cdceb9f79c4

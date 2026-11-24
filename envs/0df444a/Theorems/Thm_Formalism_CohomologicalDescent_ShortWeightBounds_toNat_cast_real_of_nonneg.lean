@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_ShortWeightBounds_toNat_cast_real_of_nonneg
 -- name    : Formalism.CohomologicalDescent.ShortWeightBounds.toNat_cast_real_of_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:29:33.770219+00:00
 -- url     : https://prove2.me/theorems/9cca11b4-8d1a-4656-bb21-6bc08958ca7d

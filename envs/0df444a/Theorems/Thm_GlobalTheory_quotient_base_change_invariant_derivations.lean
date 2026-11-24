@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_quotient_base_change_invariant_derivations
 -- name    : GlobalTheory.quotient_base_change_invariant_derivations
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:15:18.944734+00:00
 -- url     : https://prove2.me/theorems/90c74d8b-a51d-44e3-818c-343b81205341

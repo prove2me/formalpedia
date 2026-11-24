@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_hat_selfDual
 -- name    : GlobalTheory.AdLat.hat_selfDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:21:33.456106+00:00
 -- url     : https://prove2.me/theorems/8839a463-9ae1-4df7-b5c2-73b0ce720a9d

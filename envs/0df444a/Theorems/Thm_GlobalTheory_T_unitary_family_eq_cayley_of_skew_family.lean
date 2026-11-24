@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitary_family_eq_cayley_of_skew_family
 -- name    : GlobalTheory.T.unitary_family_eq_cayley_of_skew_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:01:15.522347+00:00
 -- url     : https://prove2.me/theorems/36d6c0ce-d175-48d7-917e-c7de1e38df15

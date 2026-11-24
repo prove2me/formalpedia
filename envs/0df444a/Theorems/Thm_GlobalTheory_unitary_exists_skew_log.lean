@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_unitary_exists_skew_log
 -- name    : GlobalTheory.unitary_exists_skew_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:24:53.146509+00:00
 -- url     : https://prove2.me/theorems/ee388b2f-4e3f-420e-aa04-d106e1b0e6f6

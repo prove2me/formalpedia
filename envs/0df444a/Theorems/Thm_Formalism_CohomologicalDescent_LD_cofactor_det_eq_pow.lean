@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_cofactor_det_eq_pow
 -- name    : Formalism.CohomologicalDescent.LD.cofactor_det_eq_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:06:44.038848+00:00
 -- url     : https://prove2.me/theorems/80affc00-02db-4b75-8abd-a2973182189b

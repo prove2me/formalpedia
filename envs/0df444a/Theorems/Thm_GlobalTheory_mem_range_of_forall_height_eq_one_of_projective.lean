@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_range_of_forall_height_eq_one_of_projective
 -- name    : GlobalTheory.mem_range_of_forall_height_eq_one_of_projective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:56:12.02546+00:00
 -- url     : https://prove2.me/theorems/b96576ec-2f8d-48f0-a9e4-81c4f38207f3

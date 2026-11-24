@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_weierstrassRHS_ne_zero
 -- name    : GroundTheory.Arith.Abelian.weierstrassRHS_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:27:04.108423+00:00
 -- url     : https://prove2.me/theorems/2f2590b1-49bd-4a01-a18e-298e9a6cd8a7

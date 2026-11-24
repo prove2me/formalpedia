@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_differentiableAt_of_tendstoLocallyUniformly_directional
 -- name    : GlobalTheory.differentiableAt_of_tendstoLocallyUniformly_directional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:16:15.408727+00:00
 -- url     : https://prove2.me/theorems/b1d18bff-3495-4822-a603-64a9d9b81e5b

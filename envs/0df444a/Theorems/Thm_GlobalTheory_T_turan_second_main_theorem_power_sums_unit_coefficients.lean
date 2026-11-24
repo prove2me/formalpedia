@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_turan_second_main_theorem_power_sums_unit_coefficients
 -- name    : GlobalTheory.T.turan_second_main_theorem_power_sums_unit_coefficients
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:00:22.949628+00:00
 -- url     : https://prove2.me/theorems/69846f2a-dd1c-461a-9c49-ca9fbad500dc

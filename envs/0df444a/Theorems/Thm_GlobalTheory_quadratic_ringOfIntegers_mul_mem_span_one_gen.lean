@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_quadratic_ringOfIntegers_mul_mem_span_one_gen
 -- name    : GlobalTheory.quadratic_ringOfIntegers_mul_mem_span_one_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:15:10.285029+00:00
 -- url     : https://prove2.me/theorems/a7500853-3802-4d45-b01e-3318c6b9e679

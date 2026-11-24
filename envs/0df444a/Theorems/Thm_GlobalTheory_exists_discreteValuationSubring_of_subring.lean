@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_discreteValuationSubring_of_subring
 -- name    : GlobalTheory.exists_discreteValuationSubring_of_subring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:31:19.13837+00:00
 -- url     : https://prove2.me/theorems/9d812bf9-3dd0-42a1-b30f-a2c205f8cd1b

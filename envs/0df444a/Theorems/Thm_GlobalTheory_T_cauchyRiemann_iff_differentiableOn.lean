@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cauchyRiemann_iff_differentiableOn
 -- name    : GlobalTheory.T.cauchyRiemann_iff_differentiableOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:27:36.396807+00:00
 -- url     : https://prove2.me/theorems/5466ad58-dc3c-4c39-ac89-09d79717705a

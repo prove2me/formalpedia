@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isWeaklyRegular_map_X
 -- name    : GlobalTheory.isWeaklyRegular_map_X
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:05:28.079994+00:00
 -- url     : https://prove2.me/theorems/d9fa84d3-c44b-4b32-b3a1-f3dfb81ef2dc

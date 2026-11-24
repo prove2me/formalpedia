@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatFactor_KerRedStep_kerRed_extend
 -- name    : GlobalTheory.FlatFactor.KerRedStep.kerRed_extend
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:58:39.247575+00:00
 -- url     : https://prove2.me/theorems/6647826e-788d-47d4-894f-2566fb40083d

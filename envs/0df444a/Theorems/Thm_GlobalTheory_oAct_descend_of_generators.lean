@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_oAct_descend_of_generators
 -- name    : GlobalTheory.oAct_descend_of_generators
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:20:13.321529+00:00
 -- url     : https://prove2.me/theorems/91500218-d0ac-496a-9da0-196e0a055d1d

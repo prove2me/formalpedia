@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_wittVector_dvd_of_coeff_zero
 -- name    : GlobalTheory.wittVector_dvd_of_coeff_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:24:48.750457+00:00
 -- url     : https://prove2.me/theorems/919278c1-3297-4921-a20f-83f027909f76

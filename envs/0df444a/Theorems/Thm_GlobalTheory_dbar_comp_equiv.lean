@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dbar_comp_equiv
 -- name    : GlobalTheory.dbar_comp_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:14:56.309154+00:00
 -- url     : https://prove2.me/theorems/f79888b8-a434-4610-a761-87804a729792

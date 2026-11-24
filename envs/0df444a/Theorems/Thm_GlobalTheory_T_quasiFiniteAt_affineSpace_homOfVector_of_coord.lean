@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_quasiFiniteAt_affineSpace_homOfVector_of_coord
 -- name    : GlobalTheory.T.quasiFiniteAt_affineSpace_homOfVector_of_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:57:19.533553+00:00
 -- url     : https://prove2.me/theorems/da55ac5d-e4e9-438b-8cac-c71c0237bb4d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_unfold_sum_conj_invariant
 -- name    : GlobalTheory.unfold_sum_conj_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:24:37.928624+00:00
 -- url     : https://prove2.me/theorems/cdf8bf3a-907b-409c-b6e3-bd8b4a52aaa3

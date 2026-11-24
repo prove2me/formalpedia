@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_points_sq_eq_discr
 -- name    : GlobalTheory.det_points_sq_eq_discr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:11:00.520949+00:00
 -- url     : https://prove2.me/theorems/ee0b9d0d-8739-4e36-a291-6c12a6e09846

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_quotient_isFinite_locallyOfFiniteType_descend
 -- name    : GlobalTheory.quotient_isFinite_locallyOfFiniteType_descend
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:22:27.292795+00:00
 -- url     : https://prove2.me/theorems/2e1000fe-2480-42e5-8710-a88636e92991

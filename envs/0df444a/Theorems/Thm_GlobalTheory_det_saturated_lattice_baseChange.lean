@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_det_saturated_lattice_baseChange
 -- name    : GlobalTheory.det_saturated_lattice_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:15:38.704904+00:00
 -- url     : https://prove2.me/theorems/10234a51-192b-4053-b306-2bddbaaeb7df

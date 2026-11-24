@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_plane_lattice_short_basis_of_bound_pow_two
 -- name    : GlobalTheory.plane_lattice_short_basis_of_bound_pow_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:14:17.20138+00:00
 -- url     : https://prove2.me/theorems/410af766-8ecc-4f13-91cb-47b2617cdc89

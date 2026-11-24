@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_inv_eq_zero_of_unramified_cocycle
 -- name    : GlobalTheory.sum_inv_eq_zero_of_unramified_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:23:01.117802+00:00
 -- url     : https://prove2.me/theorems/78b58bc0-696e-4ffc-ad36-8643cac463b7

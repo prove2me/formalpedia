@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_weylNumerator_laplace
 -- name    : GlobalTheory.weylNumerator_laplace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:24:43.88829+00:00
 -- url     : https://prove2.me/theorems/90b647fe-18c9-4263-9fa9-3bda7c3f46f0

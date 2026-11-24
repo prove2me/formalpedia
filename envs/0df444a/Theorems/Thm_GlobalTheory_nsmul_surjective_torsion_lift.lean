@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_nsmul_surjective_torsion_lift
 -- name    : GlobalTheory.nsmul_surjective_torsion_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:12:53.486315+00:00
 -- url     : https://prove2.me/theorems/b3157b11-3fef-4ed7-80d7-2930cc8b5ef8

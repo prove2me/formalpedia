@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_pureType_vector_spans_quadratic_lattice
 -- name    : GlobalTheory.pureType_vector_spans_quadratic_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:15:38.460192+00:00
 -- url     : https://prove2.me/theorems/a0052d0a-5f15-4c50-b7b4-35ab84ef20bd

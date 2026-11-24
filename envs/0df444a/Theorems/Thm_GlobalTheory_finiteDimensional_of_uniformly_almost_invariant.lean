@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finiteDimensional_of_uniformly_almost_invariant
 -- name    : GlobalTheory.finiteDimensional_of_uniformly_almost_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:46:36.3468+00:00
 -- url     : https://prove2.me/theorems/f5dba51c-7b84-4eb0-88eb-558cc6aeb831

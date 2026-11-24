@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HasTriangularWeight_norm_le_prod_pow
 -- name    : GlobalTheory.HasTriangularWeight.norm_le_prod_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:01:24.811597+00:00
 -- url     : https://prove2.me/theorems/abfe895f-8185-4d3a-9ee1-b76a48676771

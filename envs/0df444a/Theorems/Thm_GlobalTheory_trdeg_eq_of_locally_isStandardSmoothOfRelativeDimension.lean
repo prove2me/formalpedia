@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_trdeg_eq_of_locally_isStandardSmoothOfRelativeDimension
 -- name    : GlobalTheory.trdeg_eq_of_locally_isStandardSmoothOfRelativeDimension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:25:14.50667+00:00
 -- url     : https://prove2.me/theorems/13a5c50b-383d-4356-a335-523ca6614e8e

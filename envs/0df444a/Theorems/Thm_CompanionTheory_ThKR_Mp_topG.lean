@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_Mp_topG
 -- name    : CompanionTheory.ThKR.Mp.topG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:19:43.436358+00:00
 -- url     : https://prove2.me/theorems/ee657041-895d-4bed-a7af-4a492fb013b5

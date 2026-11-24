@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cechHZeroEquiv_map
 -- name    : GlobalTheory.cechHZeroEquiv_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:20:21.408694+00:00
 -- url     : https://prove2.me/theorems/7ecb71cf-995b-476a-a50f-564e9e50e289

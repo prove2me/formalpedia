@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelDimFibCrit_trdeg_residueField_of_minimal_in_fibre
 -- name    : GlobalTheory.RelDimFibCrit.trdeg_residueField_of_minimal_in_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:21:45.248554+00:00
 -- url     : https://prove2.me/theorems/099c3da0-76d7-42c8-a281-3ba9a3806a04

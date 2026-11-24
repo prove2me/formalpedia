@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_periodCoordSnd_apply
 -- name    : GlobalTheory.periodCoordSnd_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:13:55.254814+00:00
 -- url     : https://prove2.me/theorems/94877c08-6880-40af-b589-31f992b4c41c

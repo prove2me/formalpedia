@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_siegel_fock_exists
 -- name    : GlobalTheory.siegel_fock_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:20:36.089022+00:00
 -- url     : https://prove2.me/theorems/adf246a3-9371-400b-9cb4-b539efa8fa07

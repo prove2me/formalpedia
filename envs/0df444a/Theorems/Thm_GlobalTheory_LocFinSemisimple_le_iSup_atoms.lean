@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFinSemisimple_le_iSup_atoms
 -- name    : GlobalTheory.LocFinSemisimple.le_iSup_atoms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:12:14.613103+00:00
 -- url     : https://prove2.me/theorems/8b3aaa44-73a1-46c5-bde9-6fe294820a11

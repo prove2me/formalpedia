@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PerfectFirstCohomology_stein_univ
 -- name    : GlobalTheory.CompanionTheory.PerfectFirstCohomology.stein_univ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:03:00.804077+00:00
 -- url     : https://prove2.me/theorems/8323a419-4a14-403f-9420-69a6b9154732

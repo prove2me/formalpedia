@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ordTop_vw_unit_mul_zpow
 -- name    : GlobalTheory.ordTop_vw_unit_mul_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:47:54.086583+00:00
 -- url     : https://prove2.me/theorems/8ba6d1c3-ee7d-4735-8a7c-7935895108a4

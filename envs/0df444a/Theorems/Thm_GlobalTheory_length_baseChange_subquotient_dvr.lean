@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_length_baseChange_subquotient_dvr
 -- name    : GlobalTheory.length_baseChange_subquotient_dvr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:13:25.085684+00:00
 -- url     : https://prove2.me/theorems/2d13f0a3-1814-4a6d-aff6-f4eadd4c81bf

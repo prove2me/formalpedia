@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_schwartz_weighted_sobolev_of_finrank_zero
 -- name    : GlobalTheory.schwartz_weighted_sobolev_of_finrank_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:20:57.059089+00:00
 -- url     : https://prove2.me/theorems/fe0464a1-79c4-4d3b-9b68-b5b39041c411

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_stable_submodule_topWeight_line
 -- name    : GlobalTheory.exists_stable_submodule_topWeight_line
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:07:00.35313+00:00
 -- url     : https://prove2.me/theorems/f1d330e2-bb0e-4d53-85f0-1c93f2b0f69c

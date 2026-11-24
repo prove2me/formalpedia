@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_of_isPullback_openCover
 -- name    : GlobalTheory.of_isPullback_openCover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:13:05.876259+00:00
 -- url     : https://prove2.me/theorems/f5222c2f-bac1-44a1-91ae-e43f64974fc9

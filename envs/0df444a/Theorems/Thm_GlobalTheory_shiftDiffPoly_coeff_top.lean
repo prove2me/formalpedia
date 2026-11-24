@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_shiftDiffPoly_coeff_top
 -- name    : GlobalTheory.shiftDiffPoly_coeff_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:20:38.145345+00:00
 -- url     : https://prove2.me/theorems/b3d48b40-412d-4b59-8056-741ddca86f67

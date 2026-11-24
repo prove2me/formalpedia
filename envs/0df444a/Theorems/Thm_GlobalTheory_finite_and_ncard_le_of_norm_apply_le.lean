@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_and_ncard_le_of_norm_apply_le
 -- name    : GlobalTheory.finite_and_ncard_le_of_norm_apply_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:46:24.687939+00:00
 -- url     : https://prove2.me/theorems/0c4c7f59-018f-498a-841c-d016bd2f8942

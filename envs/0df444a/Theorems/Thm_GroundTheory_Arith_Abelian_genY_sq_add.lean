@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_genY_sq_add
 -- name    : GroundTheory.Arith.Abelian.genY_sq_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:26:23.314808+00:00
 -- url     : https://prove2.me/theorems/3df8a952-7da6-496a-9a22-26808f3c0adc

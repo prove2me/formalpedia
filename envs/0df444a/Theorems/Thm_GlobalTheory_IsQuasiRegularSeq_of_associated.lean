@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsQuasiRegularSeq_of_associated
 -- name    : GlobalTheory.IsQuasiRegularSeq.of_associated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:21:18.765802+00:00
 -- url     : https://prove2.me/theorems/996f904d-2e36-479f-afe4-94038186c8a1

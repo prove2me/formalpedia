@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isQuasiRegularSeq_algebraMap_iff
 -- name    : GlobalTheory.isQuasiRegularSeq_algebraMap_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:34:03.240538+00:00
 -- url     : https://prove2.me/theorems/f3c5eab3-0805-4c31-b461-50262dbd5f07

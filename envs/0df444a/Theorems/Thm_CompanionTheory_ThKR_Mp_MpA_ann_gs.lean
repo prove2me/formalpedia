@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_Mp_MpA_ann_gs
 -- name    : CompanionTheory.ThKR.Mp.MpA.ann_gs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:20:17.728092+00:00
 -- url     : https://prove2.me/theorems/24437304-15ba-4d3a-864f-7d29552a54a6

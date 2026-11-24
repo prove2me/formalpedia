@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeShift_hasSum_hecke_shift
 -- name    : GlobalTheory.HeckeShift.hasSum_hecke_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:04:20.965286+00:00
 -- url     : https://prove2.me/theorems/6e02486f-6565-4782-9caf-5e41d9559531

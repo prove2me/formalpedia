@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_periodic_strip_shift_nonneg
 -- name    : GlobalTheory.periodic_strip_shift_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:14:21.637821+00:00
 -- url     : https://prove2.me/theorems/22db0922-0fcb-45a1-b5de-e25e177c5467

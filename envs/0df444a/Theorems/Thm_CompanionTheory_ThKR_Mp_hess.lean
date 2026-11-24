@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_Mp_hess
 -- name    : CompanionTheory.ThKR.Mp.hess
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:18:37.597924+00:00
 -- url     : https://prove2.me/theorems/4fcb8c84-3a9c-4a03-87bc-2ed5760b499c

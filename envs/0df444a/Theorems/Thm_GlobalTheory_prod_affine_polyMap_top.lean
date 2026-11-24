@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_prod_affine_polyMap_top
 -- name    : GlobalTheory.prod_affine_polyMap_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:15:51.853792+00:00
 -- url     : https://prove2.me/theorems/a5b1c1ab-dbbb-4d3f-bf5d-eec52fe8cc14

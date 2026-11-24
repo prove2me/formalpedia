@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_prod_arg_real_unit_eq_one
 -- name    : GlobalTheory.prod_arg_real_unit_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:15:16.982387+00:00
 -- url     : https://prove2.me/theorems/4549b059-2f1c-41b9-8483-02fef8ce51e4

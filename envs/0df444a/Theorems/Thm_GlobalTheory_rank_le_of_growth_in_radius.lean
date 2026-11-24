@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_rank_le_of_growth_in_radius
 -- name    : GlobalTheory.rank_le_of_growth_in_radius
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:15:26.816323+00:00
 -- url     : https://prove2.me/theorems/d7aceddb-1303-4cd5-a647-4a15c20adcf1

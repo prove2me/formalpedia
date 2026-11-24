@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_three_mul_div_four_le_log_one_add
 -- name    : GlobalTheory.three_mul_div_four_le_log_one_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:23:44.135211+00:00
 -- url     : https://prove2.me/theorems/2027782f-ae06-4b74-9b4c-a7d8d4a4c6ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_riemannTheta_eq_cexp_mul_zero_zero
 -- name    : GlobalTheory.riemannTheta_eq_cexp_mul_zero_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:16:17.459552+00:00
 -- url     : https://prove2.me/theorems/70259d79-d24a-414d-bb19-6ea1600f0025

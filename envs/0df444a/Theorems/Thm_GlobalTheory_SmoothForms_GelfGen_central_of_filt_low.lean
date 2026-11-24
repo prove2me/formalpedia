@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_GelfGen_central_of_filt_low
 -- name    : GlobalTheory.SmoothForms.GelfGen.central_of_filt_low
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:28:43.6118+00:00
 -- url     : https://prove2.me/theorems/2fa2389f-9abe-4e8b-8cd0-827c6c0c13a3

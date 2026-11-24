@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_discreteValuationSubring_of_valuationSubring
 -- name    : GlobalTheory.exists_discreteValuationSubring_of_valuationSubring
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:27:22.724432+00:00
 -- url     : https://prove2.me/theorems/1894b0f8-04d8-49a9-9596-815b90ccadb6

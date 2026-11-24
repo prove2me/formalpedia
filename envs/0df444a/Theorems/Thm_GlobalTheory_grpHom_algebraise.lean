@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_grpHom_algebraise
 -- name    : GlobalTheory.grpHom_algebraise
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:54:29.554799+00:00
 -- url     : https://prove2.me/theorems/c6c3e4fd-8551-48eb-837a-41317ed07ea2

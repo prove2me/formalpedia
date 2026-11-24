@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumLTF_Membership_learningCertificate_assembly
 -- name    : QuantumLTF.Membership.learningCertificate_assembly
--- status  : Open
+-- status  : Proved
 -- author  : @Robin Kothari
 -- created : 2026-11-24T23:24:52.944514+00:00
 -- url     : https://prove2.me/theorems/e7e02e19-6252-41ea-be94-558d1799174d

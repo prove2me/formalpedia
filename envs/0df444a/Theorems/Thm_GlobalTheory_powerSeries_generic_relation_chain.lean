@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_powerSeries_generic_relation_chain
 -- name    : GlobalTheory.powerSeries_generic_relation_chain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:14:23.127247+00:00
 -- url     : https://prove2.me/theorems/8ac81a5d-1ec2-4424-96a9-5f565acd6f3e

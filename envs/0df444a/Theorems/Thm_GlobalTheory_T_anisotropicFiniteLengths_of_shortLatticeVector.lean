@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_anisotropicFiniteLengths_of_shortLatticeVector
 -- name    : GlobalTheory.T.anisotropicFiniteLengths_of_shortLatticeVector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:26:43.374589+00:00
 -- url     : https://prove2.me/theorems/b8a040f2-65f2-4d7c-aa6c-7bf85db2ee5f

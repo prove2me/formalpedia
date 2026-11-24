@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_relation_descends_along_functional
 -- name    : GlobalTheory.relation_descends_along_functional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:16:11.314919+00:00
 -- url     : https://prove2.me/theorems/01cfd1d9-cc17-4df4-9208-df56487d2c7b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_no_norm_twelve_order_sixtythree
 -- name    : GlobalTheory.no_norm_twelve_order_sixtythree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:12:32.303998+00:00
 -- url     : https://prove2.me/theorems/2ee377b2-a325-4f44-ba0b-1bcf0005ed71

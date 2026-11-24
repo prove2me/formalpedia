@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_norm_iteratedFDeriv_fTerm_le_of_isCompact
 -- name    : GlobalTheory.T.norm_iteratedFDeriv_fTerm_le_of_isCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:53:40.974845+00:00
 -- url     : https://prove2.me/theorems/a369364c-9962-48c2-b706-6198138d1456

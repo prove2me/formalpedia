@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sobolev_endpoint_one_variable
 -- name    : GlobalTheory.sobolev_endpoint_one_variable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:14:06.814482+00:00
 -- url     : https://prove2.me/theorems/dd99c14d-f8ac-456c-8c53-9926b4905657

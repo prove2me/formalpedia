@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_succMinRadii_upper
 -- name    : GlobalTheory.succMinRadii_upper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:21:13.880162+00:00
 -- url     : https://prove2.me/theorems/a97f62b7-4b5c-4bd4-9a8a-9759ef0737ba

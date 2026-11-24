@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_map_saturation_equiv
 -- name    : GlobalTheory.map_saturation_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:09:24.61339+00:00
 -- url     : https://prove2.me/theorems/4cb044a7-471f-4769-bb3e-9042572aeff5

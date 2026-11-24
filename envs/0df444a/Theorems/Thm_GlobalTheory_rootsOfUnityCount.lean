@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_rootsOfUnityCount
 -- name    : GlobalTheory.rootsOfUnityCount
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:20:16.069649+00:00
 -- url     : https://prove2.me/theorems/a286acec-37a4-420c-9021-80dba98e0a20

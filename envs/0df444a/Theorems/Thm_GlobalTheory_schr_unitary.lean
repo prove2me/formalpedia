@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_schr_unitary
 -- name    : GlobalTheory.schr_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:20:28.517996+00:00
 -- url     : https://prove2.me/theorems/42edd564-a9f3-4022-8e38-f989adafe9cc

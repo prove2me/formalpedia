@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_charIntegral_inv_OK
 -- name    : GlobalTheory.JR.charIntegral_inv_OK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:38:33.912968+00:00
 -- url     : https://prove2.me/theorems/c3feff5f-2128-45af-a458-b3458e8f2cf4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_relLength_smul_self_ne_top
 -- name    : GlobalTheory.relLength_smul_self_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:16:45.431965+00:00
 -- url     : https://prove2.me/theorems/d0ff1af5-d17c-4fa1-8288-e264a0009de9

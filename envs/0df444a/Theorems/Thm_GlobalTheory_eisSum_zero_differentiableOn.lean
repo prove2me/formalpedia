@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eisSum_zero_differentiableOn
 -- name    : GlobalTheory.eisSum_zero_differentiableOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:18:15.051079+00:00
 -- url     : https://prove2.me/theorems/cf81b420-a4e0-4638-9c02-976218b2589a

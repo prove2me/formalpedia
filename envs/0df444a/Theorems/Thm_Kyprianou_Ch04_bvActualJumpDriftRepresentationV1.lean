@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_bvActualJumpDriftRepresentationV1
 -- name    : Kyprianou.Ch04.bvActualJumpDriftRepresentationV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T22:01:14.271727+00:00
 -- url     : https://prove2.me/theorems/fa06618c-9b2e-4ec7-b22e-469d241e3947

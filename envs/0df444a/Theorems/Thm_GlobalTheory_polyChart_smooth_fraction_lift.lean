@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_polyChart_smooth_fraction_lift
 -- name    : GlobalTheory.polyChart_smooth_fraction_lift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:16:44.781954+00:00
 -- url     : https://prove2.me/theorems/49361a52-0a0f-4ecb-af29-1dd9aaa82227

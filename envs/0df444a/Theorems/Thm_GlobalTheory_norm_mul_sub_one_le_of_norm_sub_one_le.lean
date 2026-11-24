@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_norm_mul_sub_one_le_of_norm_sub_one_le
 -- name    : GlobalTheory.norm_mul_sub_one_le_of_norm_sub_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:13:10.273434+00:00
 -- url     : https://prove2.me/theorems/5871329f-5ce0-414e-a6cf-a22e6a9a19b8

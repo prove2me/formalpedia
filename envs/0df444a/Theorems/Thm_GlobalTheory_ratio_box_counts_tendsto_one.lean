@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ratio_box_counts_tendsto_one
 -- name    : GlobalTheory.ratio_box_counts_tendsto_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:16:43.482732+00:00
 -- url     : https://prove2.me/theorems/0c8ac01c-7867-43d4-8269-6572962d5d8d

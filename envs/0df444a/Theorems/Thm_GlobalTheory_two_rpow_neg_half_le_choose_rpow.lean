@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_two_rpow_neg_half_le_choose_rpow
 -- name    : GlobalTheory.two_rpow_neg_half_le_choose_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:24:28.835266+00:00
 -- url     : https://prove2.me/theorems/e71999e3-b316-4907-a491-6247710997be

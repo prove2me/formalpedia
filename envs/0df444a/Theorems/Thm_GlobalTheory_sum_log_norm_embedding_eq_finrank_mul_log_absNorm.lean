@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_log_norm_embedding_eq_finrank_mul_log_absNorm
 -- name    : GlobalTheory.sum_log_norm_embedding_eq_finrank_mul_log_absNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:22:55.560529+00:00
 -- url     : https://prove2.me/theorems/22d61f0c-0d85-4bb5-adcf-16c8baee246a

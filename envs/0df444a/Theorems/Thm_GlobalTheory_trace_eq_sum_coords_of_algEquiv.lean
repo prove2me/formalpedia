@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_trace_eq_sum_coords_of_algEquiv
 -- name    : GlobalTheory.trace_eq_sum_coords_of_algEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:23:29.545125+00:00
 -- url     : https://prove2.me/theorems/edd06f12-b6c8-4c58-bd8f-117c469bf704

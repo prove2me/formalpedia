@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_range_specMap_fractionField
 -- name    : GlobalTheory.range_specMap_fractionField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:14:53.524749+00:00
 -- url     : https://prove2.me/theorems/7cc0cf07-0788-4b79-890e-6851bd200b62

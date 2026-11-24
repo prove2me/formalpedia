@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_preirreducibleSpace_tensor_congr_fibreChart
 -- name    : GlobalTheory.preirreducibleSpace_tensor_congr_fibreChart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:16:26.656676+00:00
 -- url     : https://prove2.me/theorems/95880b98-2c00-4d5f-b69c-e72c7941879b

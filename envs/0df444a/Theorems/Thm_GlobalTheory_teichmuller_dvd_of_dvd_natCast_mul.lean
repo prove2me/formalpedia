@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_teichmuller_dvd_of_dvd_natCast_mul
 -- name    : GlobalTheory.teichmuller_dvd_of_dvd_natCast_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:22:26.986466+00:00
 -- url     : https://prove2.me/theorems/6c284248-4a80-4209-88f5-0c7377aa8cd0

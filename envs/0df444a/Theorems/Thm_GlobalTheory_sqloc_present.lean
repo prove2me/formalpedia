@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sqloc_present
 -- name    : GlobalTheory.sqloc_present
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:21:41.219951+00:00
 -- url     : https://prove2.me/theorems/4d44b74b-4f8b-4214-95eb-aac416875334

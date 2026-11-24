@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TopForm_IsFreeGen_formMap
 -- name    : GlobalTheory.TopForm.IsFreeGen.formMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:08:47.482416+00:00
 -- url     : https://prove2.me/theorems/b683433b-0bb5-4bf4-94f2-6f16a5d7f51c

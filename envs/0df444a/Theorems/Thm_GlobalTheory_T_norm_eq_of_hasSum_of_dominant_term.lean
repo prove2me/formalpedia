@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_norm_eq_of_hasSum_of_dominant_term
 -- name    : GlobalTheory.T.norm_eq_of_hasSum_of_dominant_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:54:35.408745+00:00
 -- url     : https://prove2.me/theorems/4e4051a4-0c81-42df-a3a1-a37030a74609

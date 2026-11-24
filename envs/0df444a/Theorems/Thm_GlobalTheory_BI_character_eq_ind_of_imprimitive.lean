@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_character_eq_ind_of_imprimitive
 -- name    : GlobalTheory.BI.character_eq_ind_of_imprimitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:58:03.590577+00:00
 -- url     : https://prove2.me/theorems/31c2c661-02ac-4a2e-9331-8e1914bfd2a5

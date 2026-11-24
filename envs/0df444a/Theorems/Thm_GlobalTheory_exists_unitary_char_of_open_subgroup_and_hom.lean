@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_unitary_char_of_open_subgroup_and_hom
 -- name    : GlobalTheory.exists_unitary_char_of_open_subgroup_and_hom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:13:06.804872+00:00
 -- url     : https://prove2.me/theorems/cea02319-7b26-4331-901d-5d33ec7c696b

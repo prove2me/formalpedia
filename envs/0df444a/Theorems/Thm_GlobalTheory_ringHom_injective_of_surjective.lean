@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ringHom_injective_of_surjective
 -- name    : GlobalTheory.ringHom_injective_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:18:48.219797+00:00
 -- url     : https://prove2.me/theorems/98fd6f1c-4862-46a0-becc-2e7bb55421f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_re_det_pos_of_posDef
 -- name    : GlobalTheory.re_det_pos_of_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:16:54.750804+00:00
 -- url     : https://prove2.me/theorems/02a8917e-5c4e-4f57-b298-527642dc6913

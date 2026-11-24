@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_norm_tensorProduct_map_id_right
 -- name    : GlobalTheory.T.norm_tensorProduct_map_id_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:53:50.005188+00:00
 -- url     : https://prove2.me/theorems/68eb7a74-c0f2-4af7-9638-8fadbd926110

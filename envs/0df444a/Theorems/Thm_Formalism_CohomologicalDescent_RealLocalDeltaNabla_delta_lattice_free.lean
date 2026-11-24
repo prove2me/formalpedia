@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_RealLocalDeltaNabla_delta_lattice_free
 -- name    : Formalism.CohomologicalDescent.RealLocalDeltaNabla.delta_lattice_free
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:09:12.481799+00:00
 -- url     : https://prove2.me/theorems/88caec31-68b6-462f-8d9c-cf0cb13d8fa9

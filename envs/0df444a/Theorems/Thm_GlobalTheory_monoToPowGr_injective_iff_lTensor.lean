@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_monoToPowGr_injective_iff_lTensor
 -- name    : GlobalTheory.monoToPowGr_injective_iff_lTensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:11:01.430911+00:00
 -- url     : https://prove2.me/theorems/64aa522c-6f7e-4e83-823c-083e541a8c09

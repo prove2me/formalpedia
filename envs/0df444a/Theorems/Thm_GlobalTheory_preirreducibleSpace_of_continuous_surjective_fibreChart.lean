@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_preirreducibleSpace_of_continuous_surjective_fibreChart
 -- name    : GlobalTheory.preirreducibleSpace_of_continuous_surjective_fibreChart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:15:39.906272+00:00
 -- url     : https://prove2.me/theorems/a1a129e6-0a51-40f8-9322-e8ea40f8964a

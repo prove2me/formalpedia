@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_ordInfty_X
 -- name    : GroundTheory.Arith.Abelian.ordInfty_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:25:22.629314+00:00
 -- url     : https://prove2.me/theorems/23eb5607-8ed1-4179-bd59-55bbcf8523af

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_splitExt_intClosure
 -- name    : GlobalTheory.splitExt_intClosure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:21:49.924028+00:00
 -- url     : https://prove2.me/theorems/b2ecf57f-0e01-4750-baec-1b662e8d087a

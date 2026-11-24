@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_trace_sq_of_pow_four
 -- name    : GlobalTheory.trace_sq_of_pow_four
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:23:25.930896+00:00
 -- url     : https://prove2.me/theorems/fa97be52-f839-437f-b539-c3024984d22f

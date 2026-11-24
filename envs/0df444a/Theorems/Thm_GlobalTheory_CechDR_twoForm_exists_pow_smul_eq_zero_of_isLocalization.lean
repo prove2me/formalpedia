@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_twoForm_exists_pow_smul_eq_zero_of_isLocalization
 -- name    : GlobalTheory.CechDR.twoForm_exists_pow_smul_eq_zero_of_isLocalization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:59:07.551644+00:00
 -- url     : https://prove2.me/theorems/26484c25-1719-4790-b64c-78f3d883440d

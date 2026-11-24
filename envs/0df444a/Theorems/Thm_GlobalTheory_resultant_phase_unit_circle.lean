@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_resultant_phase_unit_circle
 -- name    : GlobalTheory.resultant_phase_unit_circle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:16:18.927305+00:00
 -- url     : https://prove2.me/theorems/7882a87e-2093-46b1-8717-834a2c1dd75e

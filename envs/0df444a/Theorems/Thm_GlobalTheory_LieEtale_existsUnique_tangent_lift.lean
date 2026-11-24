@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LieEtale_existsUnique_tangent_lift
 -- name    : GlobalTheory.LieEtale.existsUnique_tangent_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:03:12.190804+00:00
 -- url     : https://prove2.me/theorems/de1a5a8c-8cc8-4662-869b-b1fb556eb1ad

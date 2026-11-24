@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuotientGluing_isOpenImmersion_desc
 -- name    : GlobalTheory.QuotientGluing.isOpenImmersion_desc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:12:43.797805+00:00
 -- url     : https://prove2.me/theorems/e8b74378-f305-454a-98ab-2c3184d31294

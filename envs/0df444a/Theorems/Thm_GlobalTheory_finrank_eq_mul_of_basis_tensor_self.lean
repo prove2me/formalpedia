@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finrank_eq_mul_of_basis_tensor_self
 -- name    : GlobalTheory.finrank_eq_mul_of_basis_tensor_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:47:29.714647+00:00
 -- url     : https://prove2.me/theorems/9fd06957-a80b-435e-aaea-ea5187a5ac89

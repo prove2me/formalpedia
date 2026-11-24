@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PerfectFirstCohomology_ker_equiv_base
 -- name    : GlobalTheory.CompanionTheory.PerfectFirstCohomology.ker_equiv_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:02:22.414419+00:00
 -- url     : https://prove2.me/theorems/974873a5-6120-42cc-82ca-be1ec9f17302

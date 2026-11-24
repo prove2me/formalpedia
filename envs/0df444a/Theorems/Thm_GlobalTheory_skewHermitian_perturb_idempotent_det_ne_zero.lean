@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_skewHermitian_perturb_idempotent_det_ne_zero
 -- name    : GlobalTheory.skewHermitian_perturb_idempotent_det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:20:43.152822+00:00
 -- url     : https://prove2.me/theorems/281dee70-959f-42f8-93d7-5dbd565a9a59

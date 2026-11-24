@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_submodule_pow_simple_eq_sum_equiv_values
 -- name    : GlobalTheory.submodule_pow_simple_eq_sum_equiv_values
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:21:17.393035+00:00
 -- url     : https://prove2.me/theorems/b565c26e-9b14-41be-9b6b-b291291b4b76

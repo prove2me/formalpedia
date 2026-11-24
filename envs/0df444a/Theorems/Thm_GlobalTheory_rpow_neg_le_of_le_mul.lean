@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_rpow_neg_le_of_le_mul
 -- name    : GlobalTheory.rpow_neg_le_of_le_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:20:36.106365+00:00
 -- url     : https://prove2.me/theorems/52a8be69-c501-4cb1-8a41-7ac19b977d73

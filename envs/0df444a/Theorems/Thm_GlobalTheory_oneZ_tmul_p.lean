@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_oneZ_tmul_p
 -- name    : GlobalTheory.oneZ_tmul_p
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:13:10.656459+00:00
 -- url     : https://prove2.me/theorems/800df2a8-88e5-45e5-bd62-05fb606b2f21

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatFactor_UpStage_red_rowAdd
 -- name    : GlobalTheory.FlatFactor.UpStage.red_rowAdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:04:28.638804+00:00
 -- url     : https://prove2.me/theorems/70924e35-ae69-45d6-bacb-8b9fef60867e

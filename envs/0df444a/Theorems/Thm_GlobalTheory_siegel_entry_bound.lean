@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_siegel_entry_bound
 -- name    : GlobalTheory.siegel_entry_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:20:36.035933+00:00
 -- url     : https://prove2.me/theorems/06502aba-e8a0-4ebf-89f6-b8c06e0b121e

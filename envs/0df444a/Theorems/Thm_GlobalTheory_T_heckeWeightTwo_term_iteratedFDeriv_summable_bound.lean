@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heckeWeightTwo_term_iteratedFDeriv_summable_bound
 -- name    : GlobalTheory.T.heckeWeightTwo_term_iteratedFDeriv_summable_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:47:11.083255+00:00
 -- url     : https://prove2.me/theorems/b0caab31-0dbe-45c4-8e20-e4bc8e0d0aab

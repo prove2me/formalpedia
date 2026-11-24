@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_primePowerSum_le_two_mul_log_div
 -- name    : GlobalTheory.primePowerSum_le_two_mul_log_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:15:36.368905+00:00
 -- url     : https://prove2.me/theorems/1586f853-323f-40e0-b070-d03c4db5e96f

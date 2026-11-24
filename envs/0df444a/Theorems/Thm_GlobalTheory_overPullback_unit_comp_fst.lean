@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_overPullback_unit_comp_fst
 -- name    : GlobalTheory.overPullback_unit_comp_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:21:01.38798+00:00
 -- url     : https://prove2.me/theorems/4dd3c2bb-ffd1-4e2a-86a2-adb463e6d798

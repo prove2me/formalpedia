@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_isIso_restrictGlobalSections_of_henselian_pair
 -- name    : AlgebraicGeometry.Scheme.isIso_restrictGlobalSections_of_henselian_pair
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-24T22:44:04.731956+00:00
 -- url     : https://prove2.me/theorems/8a054096-2490-4a5a-9cda-fd5bf2a9df56

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_normalisedPeriod_algebraic_estimate
 -- name    : GlobalTheory.normalisedPeriod_algebraic_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:13:01.439003+00:00
 -- url     : https://prove2.me/theorems/5188a77d-955d-45d6-a0e5-0b8d0b196c0f

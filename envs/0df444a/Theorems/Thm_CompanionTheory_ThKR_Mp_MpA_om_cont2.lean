@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_Mp_MpA_om_cont2
 -- name    : CompanionTheory.ThKR.Mp.MpA.om_cont2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:19:38.171487+00:00
 -- url     : https://prove2.me/theorems/923bc9e4-42b2-42a1-a254-1c733a5903cd

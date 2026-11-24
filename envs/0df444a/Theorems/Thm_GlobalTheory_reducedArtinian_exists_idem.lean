@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_reducedArtinian_exists_idem
 -- name    : GlobalTheory.reducedArtinian_exists_idem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:16:15.069203+00:00
 -- url     : https://prove2.me/theorems/de72ded7-9324-463f-bf44-5252330215aa

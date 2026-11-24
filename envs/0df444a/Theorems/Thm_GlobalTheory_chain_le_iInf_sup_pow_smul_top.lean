@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_chain_le_iInf_sup_pow_smul_top
 -- name    : GlobalTheory.chain_le_iInf_sup_pow_smul_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:07:34.940806+00:00
 -- url     : https://prove2.me/theorems/0c37e77f-e804-4e31-a511-9072761ec5cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIntegrallyClosed_quotient_minimalPrime_of_smooth
 -- name    : GlobalTheory.isIntegrallyClosed_quotient_minimalPrime_of_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:56:49.695589+00:00
 -- url     : https://prove2.me/theorems/d9dd808b-72c3-4c2c-971e-a1fa3526e988

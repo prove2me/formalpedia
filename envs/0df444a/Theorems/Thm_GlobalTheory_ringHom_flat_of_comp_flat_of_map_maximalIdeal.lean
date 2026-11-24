@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ringHom_flat_of_comp_flat_of_map_maximalIdeal
 -- name    : GlobalTheory.ringHom_flat_of_comp_flat_of_map_maximalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:17:24.826355+00:00
 -- url     : https://prove2.me/theorems/78225960-6176-4e0e-a1d9-a7db81ae5baf

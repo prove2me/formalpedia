@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_formPerpVector_mem
 -- name    : GlobalTheory.formPerpVector_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:14:14.516497+00:00
 -- url     : https://prove2.me/theorems/23a2a9a4-7772-476a-9f2f-f21cc9e32e5d

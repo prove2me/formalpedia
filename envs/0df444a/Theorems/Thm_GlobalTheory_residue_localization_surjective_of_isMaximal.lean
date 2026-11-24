@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_residue_localization_surjective_of_isMaximal
 -- name    : GlobalTheory.residue_localization_surjective_of_isMaximal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:16:04.766933+00:00
 -- url     : https://prove2.me/theorems/30923b0a-ad6a-48a6-9216-fb6a28875246

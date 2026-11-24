@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_representatives_mod_similitude_transpose
 -- name    : GlobalTheory.exists_representatives_mod_similitude_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:41:17.629797+00:00
 -- url     : https://prove2.me/theorems/387060ad-1811-416f-b5b1-46ae239170b8

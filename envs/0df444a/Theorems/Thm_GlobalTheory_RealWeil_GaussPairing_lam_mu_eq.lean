@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_GaussPairing_lam_mu_eq
 -- name    : GlobalTheory.RealWeil.GaussPairing.lam_mu_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:03:22.959077+00:00
 -- url     : https://prove2.me/theorems/11802eb1-132b-4219-a988-2c6aec65e114

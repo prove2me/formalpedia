@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiffVanish_multiDiff_form_diag
 -- name    : GlobalTheory.DiffVanish.multiDiff_form_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:49:16.654441+00:00
 -- url     : https://prove2.me/theorems/47e318a7-60e4-4072-928e-f38a79fda1d5

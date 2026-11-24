@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_stabilizer_relIndex_ne_zero_parabolic
 -- name    : GlobalTheory.T.stabilizer_relIndex_ne_zero_parabolic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:58:45.408271+00:00
 -- url     : https://prove2.me/theorems/1e147e36-ff3d-4b99-a8f4-18c77067081f

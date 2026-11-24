@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_von_mangoldt_div_sq_Ioc_le
 -- name    : GlobalTheory.sum_von_mangoldt_div_sq_Ioc_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:22:45.385786+00:00
 -- url     : https://prove2.me/theorems/d8f9655d-d6de-45e3-bbfc-b795d020cb4f

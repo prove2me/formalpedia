@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_ShortWeightBounds_weights_strictAnti
 -- name    : Formalism.CohomologicalDescent.ShortWeightBounds.weights_strictAnti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:29:30.45955+00:00
 -- url     : https://prove2.me/theorems/45536ef3-6196-4d05-90f8-aa69306d6682

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sumElim_mem
 -- name    : GlobalTheory.sumElim_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:22:50.769848+00:00
 -- url     : https://prove2.me/theorems/ff7760f5-0b54-4b5b-a4d9-8646274fe8c6

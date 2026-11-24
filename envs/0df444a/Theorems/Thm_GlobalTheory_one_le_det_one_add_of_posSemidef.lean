@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_one_le_det_one_add_of_posSemidef
 -- name    : GlobalTheory.one_le_det_one_add_of_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:13:33.570467+00:00
 -- url     : https://prove2.me/theorems/87684457-5666-4d5c-a01d-30ae601c568c

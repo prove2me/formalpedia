@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjTwist_exists_val_eq_of_mem_awayDeg_zero
 -- name    : GroundTheory.Arith.SchemeCoh.ProjTwist.exists_val_eq_of_mem_awayDeg_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:28:47.937801+00:00
 -- url     : https://prove2.me/theorems/eaa609d5-b6da-415f-80b6-5af9ad0d22b3

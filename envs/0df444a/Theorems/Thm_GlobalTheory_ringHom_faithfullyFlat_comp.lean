@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ringHom_faithfullyFlat_comp
 -- name    : GlobalTheory.ringHom_faithfullyFlat_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:17:28.282004+00:00
 -- url     : https://prove2.me/theorems/c6915692-4112-44ee-b5f0-460a667c2e25

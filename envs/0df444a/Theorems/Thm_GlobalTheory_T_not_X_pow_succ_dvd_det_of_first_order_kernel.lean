@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_not_X_pow_succ_dvd_det_of_first_order_kernel
 -- name    : GlobalTheory.T.not_X_pow_succ_dvd_det_of_first_order_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:53:43.555471+00:00
 -- url     : https://prove2.me/theorems/4a42c11c-f388-40c8-b943-c6297eda643d

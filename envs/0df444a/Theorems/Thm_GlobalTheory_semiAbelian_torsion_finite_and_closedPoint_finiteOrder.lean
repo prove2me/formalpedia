@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_semiAbelian_torsion_finite_and_closedPoint_finiteOrder
 -- name    : GlobalTheory.semiAbelian_torsion_finite_and_closedPoint_finiteOrder
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:50:06.740853+00:00
 -- url     : https://prove2.me/theorems/bf1d91ec-01f5-4c4b-b2d7-87440e73f479

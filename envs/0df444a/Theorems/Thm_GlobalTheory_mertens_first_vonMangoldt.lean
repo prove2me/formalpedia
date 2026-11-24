@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mertens_first_vonMangoldt
 -- name    : GlobalTheory.mertens_first_vonMangoldt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:53:17.509626+00:00
 -- url     : https://prove2.me/theorems/9f31350a-918e-434a-93da-0ee10e5eef1e

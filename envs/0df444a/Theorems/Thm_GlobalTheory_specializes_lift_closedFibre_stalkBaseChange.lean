@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_specializes_lift_closedFibre_stalkBaseChange
 -- name    : GlobalTheory.specializes_lift_closedFibre_stalkBaseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:21:38.342518+00:00
 -- url     : https://prove2.me/theorems/eb847964-5f17-4bd1-9e53-f183f9e3a570

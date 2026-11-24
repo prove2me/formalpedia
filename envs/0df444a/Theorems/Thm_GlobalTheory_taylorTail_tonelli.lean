@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_taylorTail_tonelli
 -- name    : GlobalTheory.taylorTail_tonelli
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:22:24.363929+00:00
 -- url     : https://prove2.me/theorems/e9136d89-384e-458d-aa9f-d10259d22d36

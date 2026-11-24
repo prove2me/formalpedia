@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_proj_grShift
 -- name    : GlobalTheory.proj_grShift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:19:37.027855+00:00
 -- url     : https://prove2.me/theorems/f6c79ea7-2630-4b1b-b949-1d4a1fec5802

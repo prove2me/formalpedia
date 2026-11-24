@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_quotient_isIntegral_surjective_orbits
 -- name    : GlobalTheory.quotient_isIntegral_surjective_orbits
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:25:25.578012+00:00
 -- url     : https://prove2.me/theorems/2828f725-c7b1-49c6-bcc5-797d5a326c58

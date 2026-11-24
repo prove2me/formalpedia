@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FourKTest_fourK_isTest
 -- name    : GlobalTheory.FourKTest.fourK_isTest
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:36:02.760041+00:00
 -- url     : https://prove2.me/theorems/1c55b7e0-4224-46e8-8f68-487d00c7be9b

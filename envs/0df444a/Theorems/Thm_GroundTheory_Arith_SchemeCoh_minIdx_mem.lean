@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_minIdx_mem
 -- name    : GroundTheory.Arith.SchemeCoh.minIdx_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:27:57.655818+00:00
 -- url     : https://prove2.me/theorems/ab75b13e-827d-4ae9-a9f8-4e12a4783baf

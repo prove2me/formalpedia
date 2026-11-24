@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_integrableOn_log_norm_ball
 -- name    : GlobalTheory.integrableOn_log_norm_ball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:56:17.458712+00:00
 -- url     : https://prove2.me/theorems/c9725c7f-dc7d-43e6-b127-7900dce0ff03

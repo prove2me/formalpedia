@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_residueFieldMap_finite_of_locallyQuasiFinite
 -- name    : GlobalTheory.residueFieldMap_finite_of_locallyQuasiFinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:16:19.765362+00:00
 -- url     : https://prove2.me/theorems/2bf93032-b87d-4458-b4c3-9d7e5dcc53ea

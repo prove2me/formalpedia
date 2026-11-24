@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Etale_exists_modules_linearEquiv
 -- name    : GroundTheory.Arith.Etale.exists_modules_linearEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:26:45.08856+00:00
 -- url     : https://prove2.me/theorems/c718da10-b5de-4835-be94-41aaf3d6e038

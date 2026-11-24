@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_intGenerators_card_eq_of_isLattice_pi
 -- name    : GlobalTheory.exists_intGenerators_card_eq_of_isLattice_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:32:30.919814+00:00
 -- url     : https://prove2.me/theorems/b3396544-35e2-46fd-8383-98407d371ecb

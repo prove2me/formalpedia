@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_zarhinBlock_real_posDef_det
 -- name    : GlobalTheory.zarhinBlock_real_posDef_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:25:39.209058+00:00
 -- url     : https://prove2.me/theorems/04952b0b-a04e-4dbe-a647-ad188db2a135

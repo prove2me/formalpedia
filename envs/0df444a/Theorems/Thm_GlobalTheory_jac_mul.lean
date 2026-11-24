@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_jac_mul
 -- name    : GlobalTheory.jac_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:02:23.608465+00:00
 -- url     : https://prove2.me/theorems/16c6b456-c8bc-4da1-be7e-c84b995a8f0b

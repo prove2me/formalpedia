@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_norm_eq_X_mod_monic_of_adicComplete_involution
 -- name    : GlobalTheory.T.exists_norm_eq_X_mod_monic_of_adicComplete_involution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:37:35.492435+00:00
 -- url     : https://prove2.me/theorems/2acdcf12-5468-4243-8d46-b5491a06248f

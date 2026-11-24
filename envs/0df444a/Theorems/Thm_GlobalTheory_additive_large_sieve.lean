@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_additive_large_sieve
 -- name    : GlobalTheory.additive_large_sieve
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:50:36.061796+00:00
 -- url     : https://prove2.me/theorems/c382e85c-c85a-4c83-b36c-3d9f6a4e84a7

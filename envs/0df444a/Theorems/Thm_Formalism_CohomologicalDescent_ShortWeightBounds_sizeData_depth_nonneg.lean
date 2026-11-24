@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_ShortWeightBounds_sizeData_depth_nonneg
 -- name    : Formalism.CohomologicalDescent.ShortWeightBounds.sizeData_depth_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:29:28.369199+00:00
 -- url     : https://prove2.me/theorems/b78a9d89-dadb-455a-a858-9f3a1d7c13d8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSInh_ksRel_const
 -- name    : GlobalTheory.KSInh.ksRel_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:46:37.184806+00:00
 -- url     : https://prove2.me/theorems/d50706fd-799d-46c8-a5ec-6629dafa3e3f

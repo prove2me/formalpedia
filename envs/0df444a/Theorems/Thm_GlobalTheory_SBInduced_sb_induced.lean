@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SBInduced_sb_induced
 -- name    : GlobalTheory.SBInduced.sb_induced
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:32:10.542827+00:00
 -- url     : https://prove2.me/theorems/795181d5-c9d7-42f7-b22d-b1750ac8af9f

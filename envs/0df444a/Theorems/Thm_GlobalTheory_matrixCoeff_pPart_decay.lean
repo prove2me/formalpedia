@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_matrixCoeff_pPart_decay
 -- name    : GlobalTheory.matrixCoeff_pPart_decay
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:09:55.040165+00:00
 -- url     : https://prove2.me/theorems/03e06e08-7ebe-48ce-8e9c-722f2f26d2d3

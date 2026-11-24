@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eq_of_siegelThetaSeriesRational_eq
 -- name    : GlobalTheory.T.eq_of_siegelThetaSeriesRational_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:32:47.749243+00:00
 -- url     : https://prove2.me/theorems/dc963074-f13c-4218-9d7a-5a21af1d7956

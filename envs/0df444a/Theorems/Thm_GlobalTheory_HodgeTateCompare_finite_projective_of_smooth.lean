@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeTateCompare_finite_projective_of_smooth
 -- name    : GlobalTheory.HodgeTateCompare.finite_projective_of_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:56:33.132085+00:00
 -- url     : https://prove2.me/theorems/0b679a91-58a1-4d33-b774-8c6f136496be

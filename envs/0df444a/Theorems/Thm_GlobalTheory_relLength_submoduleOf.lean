@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_relLength_submoduleOf
 -- name    : GlobalTheory.relLength_submoduleOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:16:47.621535+00:00
 -- url     : https://prove2.me/theorems/b5139437-6b6d-45ef-ac99-98ec64fe6927

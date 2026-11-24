@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DictPinCompare_level_iff
 -- name    : GlobalTheory.DictPinCompare.level_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:19:11.5894+00:00
 -- url     : https://prove2.me/theorems/5a725951-c434-4ac8-949a-7b64652e2d71

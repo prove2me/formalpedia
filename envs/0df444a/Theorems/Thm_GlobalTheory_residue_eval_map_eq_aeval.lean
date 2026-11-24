@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_residue_eval_map_eq_aeval
 -- name    : GlobalTheory.residue_eval_map_eq_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:16:11.050106+00:00
 -- url     : https://prove2.me/theorems/307acfe7-104b-4426-8963-859de35f51b3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_differentiableOn_tsum_of_norm_le
 -- name    : GlobalTheory.differentiableOn_tsum_of_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:16:07.742804+00:00
 -- url     : https://prove2.me/theorems/03e64320-5778-4275-95eb-5ae44f58dc87

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_uniqueFactorizationMonoid_of_isRegularRing_of_isLocalRing
 -- name    : GlobalTheory.uniqueFactorizationMonoid_of_isRegularRing_of_isLocalRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:24:24.660899+00:00
 -- url     : https://prove2.me/theorems/2ae947ae-40be-4bc8-80c8-4740dac10f1f

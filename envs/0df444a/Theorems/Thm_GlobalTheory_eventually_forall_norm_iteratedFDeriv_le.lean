@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eventually_forall_norm_iteratedFDeriv_le
 -- name    : GlobalTheory.eventually_forall_norm_iteratedFDeriv_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:19:46.584416+00:00
 -- url     : https://prove2.me/theorems/4fb89307-9d1c-45b3-abd2-d801295d0a1c

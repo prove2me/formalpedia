@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_specialLinearGroup_map_surjective
 -- name    : GlobalTheory.specialLinearGroup_map_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:41:51.05559+00:00
 -- url     : https://prove2.me/theorems/cf42a04f-7252-4dcc-a510-3ee91dc5f992

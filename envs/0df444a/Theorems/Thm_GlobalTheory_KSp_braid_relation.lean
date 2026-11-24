@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_braid_relation
 -- name    : GlobalTheory.KSp.braid_relation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:09:41.292189+00:00
 -- url     : https://prove2.me/theorems/4078655a-1aab-43dc-ab72-fb36fb5f4e3d

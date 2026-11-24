@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_norm_pow_le_inv_measure_mul_integral_ball
 -- name    : GlobalTheory.norm_pow_le_inv_measure_mul_integral_ball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:13:06.622805+00:00
 -- url     : https://prove2.me/theorems/ceeaf2bc-6dee-4166-ad0d-5acc594bb53c

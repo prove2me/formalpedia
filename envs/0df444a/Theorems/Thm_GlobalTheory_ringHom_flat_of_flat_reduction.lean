@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ringHom_flat_of_flat_reduction
 -- name    : GlobalTheory.ringHom_flat_of_flat_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:17:41.202668+00:00
 -- url     : https://prove2.me/theorems/fedc67ea-4666-4d21-b7ce-d3d5dfadee83
