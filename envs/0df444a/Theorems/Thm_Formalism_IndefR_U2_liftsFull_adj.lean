@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_U2_liftsFull_adj
 -- name    : Formalism.IndefR.U2.liftsFull_adj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:19:56.506456+00:00
 -- url     : https://prove2.me/theorems/827af0cb-abad-479b-a724-cac8dbff8fd6

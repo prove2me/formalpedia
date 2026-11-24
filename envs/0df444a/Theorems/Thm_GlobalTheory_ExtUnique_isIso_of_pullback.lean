@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtUnique_isIso_of_pullback
 -- name    : GlobalTheory.ExtUnique.isIso_of_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:35.214427+00:00
 -- url     : https://prove2.me/theorems/4c498919-d2e8-4d56-b589-9e186554945a

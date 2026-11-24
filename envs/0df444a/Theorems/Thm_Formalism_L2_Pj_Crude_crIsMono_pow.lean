@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_crIsMono_pow
 -- name    : Formalism.L2.Pj.Crude.crIsMono_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:42.837895+00:00
 -- url     : https://prove2.me/theorems/374e2ae1-5651-47ae-b061-64e33267c44d

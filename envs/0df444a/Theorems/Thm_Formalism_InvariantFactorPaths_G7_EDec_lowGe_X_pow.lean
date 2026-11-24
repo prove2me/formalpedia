@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_EDec_lowGe_X_pow
 -- name    : Formalism.InvariantFactorPaths.G7.EDec.lowGe_X_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:17:22.741894+00:00
 -- url     : https://prove2.me/theorems/cc0f4376-a6ba-41e8-8f88-103bebfde990

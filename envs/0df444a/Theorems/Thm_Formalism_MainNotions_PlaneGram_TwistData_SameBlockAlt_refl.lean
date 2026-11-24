@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_SameBlockAlt_refl
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.SameBlockAlt.refl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:33:49.123451+00:00
 -- url     : https://prove2.me/theorems/34d55590-7990-4801-a120-900859ad0ee2

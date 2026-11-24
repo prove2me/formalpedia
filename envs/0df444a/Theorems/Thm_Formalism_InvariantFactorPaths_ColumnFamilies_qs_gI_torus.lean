@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qs_gI_torus
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qs_gI_torus
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:22:07.340798+00:00
 -- url     : https://prove2.me/theorems/a8838c9f-3182-48f6-ba17-f18d3cf54be0

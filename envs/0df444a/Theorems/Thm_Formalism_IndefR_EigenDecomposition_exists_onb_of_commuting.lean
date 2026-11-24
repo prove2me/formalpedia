@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_EigenDecomposition_exists_onb_of_commuting
 -- name    : Formalism.IndefR.EigenDecomposition.exists_onb_of_commuting
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:12.684722+00:00
 -- url     : https://prove2.me/theorems/54f80ea1-c45e-4de9-b9ef-155d2ee26087

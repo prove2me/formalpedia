@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m89_density_exhaustion
 -- name    : Kyprianou.Ch08.StageB.p2m89_density_exhaustion
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T08:18:52.732871+00:00
 -- url     : https://prove2.me/theorems/1cc58853-df03-4323-883a-974f57a5e198

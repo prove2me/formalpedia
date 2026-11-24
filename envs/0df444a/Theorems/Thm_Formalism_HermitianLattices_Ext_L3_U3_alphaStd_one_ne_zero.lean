@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_U3_alphaStd_one_ne_zero
 -- name    : Formalism.HermitianLattices.Ext.L3.U3.alphaStd_one_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:14:45.543426+00:00
 -- url     : https://prove2.me/theorems/500cb28e-98d8-4ccc-8a37-69a9c5517cc0

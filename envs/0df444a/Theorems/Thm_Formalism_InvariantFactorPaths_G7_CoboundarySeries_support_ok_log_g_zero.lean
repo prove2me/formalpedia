@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_CoboundarySeries_support_ok_log_g_zero
 -- name    : Formalism.InvariantFactorPaths.G7.CoboundarySeries.support_ok_log_g_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:26:08.391896+00:00
 -- url     : https://prove2.me/theorems/3b82bbd8-493d-4d8e-8f1b-c74979fa899c

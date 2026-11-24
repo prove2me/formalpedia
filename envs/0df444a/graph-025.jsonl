@@ -27537,7 +27537,7 @@
 {"parent": "HSElemKernel.lemma_4_4", "child": "HSElemKernel_HSInstance", "via": ["statement"]}
 {"parent": "HSElemKernel.lemma_4_4", "child": "HSElemKernel_phiF", "via": ["statement"]}
 {"parent": "PersistQMem.lemma_6_2", "child": "PersistQMem_Hsig", "via": ["statement"]}
-{"parent": "LocalPush.lemma_5_1", "child": "LocalPush_ResidueSystem", "via": ["statement"]}
+{"parent": "LocalPush.lemma_5_1", "child": "LocalPush_ResidueSystem", "via": ["solution", "statement"]}
 {"parent": "L22EigEst.theorem_4", "child": "L22EigEst_rowSq", "via": ["statement"]}
 {"parent": "L22EigEst.theorem_4", "child": "L22EigEst_QueryPlan", "via": ["statement"]}
 {"parent": "L22EigEst.theorem_4", "child": "WainwrightHDS_EigPert_gamma", "via": ["statement"]}
@@ -32429,7 +32429,7 @@
 {"parent": "BookProof.L2TensorPower.embPow_succ_tmul", "child": "ChapterTensorGraphCore", "via": ["solution", "statement"]}
 {"parent": "BookProof.L2TensorPower.embPow_succ_tmul", "child": "ChapterSecondQuantizationCoreEsa", "via": ["solution", "statement"]}
 {"parent": "BookProof.L2TensorPower.embPow_succ_tmul", "child": "ChapterNsScalarVectorCurry", "via": ["solution", "statement"]}
-{"parent": "LocalPush.eq_9_10", "child": "LocalPush_ResidueSystem", "via": ["statement"]}
+{"parent": "LocalPush.eq_9_10", "child": "LocalPush_ResidueSystem", "via": ["solution", "statement"]}
 {"parent": "RamseyDisambig.Spherical.theorem_1", "child": "RamseyDisambig_Spherical_Sphere", "via": ["solution", "statement"]}
 {"parent": "RamseyDisambig.Spherical.theorem_1", "child": "NatureSLT_GrowthFunction_vcDim", "via": ["solution", "statement"]}
 {"parent": "HarmonicKServer.Competitive.harmonic_competitive", "child": "HarmonicKServer_Competitive_Interaction", "via": ["solution", "statement"]}
@@ -42957,7 +42957,7 @@
 {"parent": "NondetConn.ndcc_upper_bound", "child": "NondetConn_ndcc", "via": ["statement"]}
 {"parent": "OAI.SecondPassArithmetic.globalSecond_complete_cost", "child": "OAI_NumberTheory_DirichletL_Eisenstein_QuotientTopology", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.globalSecond_complete_cost", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_HighKernelGeometry", "via": ["solution", "statement"]}
-{"parent": "LocalPush.lemma_5_2", "child": "LocalPush_GoodTraj", "via": ["statement"]}
+{"parent": "LocalPush.lemma_5_2", "child": "LocalPush_GoodTraj", "via": ["solution", "statement"]}
 {"parent": "CountingLLL_DetCount_Machine", "child": "CountingLLL_DetCount_Expansion", "via": ["statement"]}
 {"parent": "NAMatchEst_dU", "child": "NAMatchEst_U", "via": ["statement"]}
 {"parent": "NAMatchEst_dU", "child": "NAMatchEst_AdjList", "via": ["statement"]}

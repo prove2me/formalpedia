@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_tableauBideterminant_canonical_eq_smul_highestWeight
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.tableauBideterminant_canonical_eq_smul_highestWeight
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:52:30.030872+00:00
 -- url     : https://prove2.me/theorems/e19573f5-263b-4df3-af1f-0329a88226cc

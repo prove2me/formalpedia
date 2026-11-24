@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_skew_mulVec
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.skew_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:12:22.80658+00:00
 -- url     : https://prove2.me/theorems/9236b185-e058-47ea-a85a-719d41bbd95c

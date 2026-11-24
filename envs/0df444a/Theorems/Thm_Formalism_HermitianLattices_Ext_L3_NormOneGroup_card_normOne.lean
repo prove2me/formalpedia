@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_NormOneGroup_card_normOne
 -- name    : Formalism.HermitianLattices.Ext.L3.NormOneGroup.card_normOne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:31.270807+00:00
 -- url     : https://prove2.me/theorems/90c2c9a1-0d06-4500-9dd1-7272bfe58884

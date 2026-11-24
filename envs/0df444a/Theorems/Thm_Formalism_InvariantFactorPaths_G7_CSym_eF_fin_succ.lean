@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_CSym_eF_fin_succ
 -- name    : Formalism.InvariantFactorPaths.G7.CSym.eF_fin_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:25:52.257799+00:00
 -- url     : https://prove2.me/theorems/896fe80d-851d-4de3-afa0-fdf5d719cb4c

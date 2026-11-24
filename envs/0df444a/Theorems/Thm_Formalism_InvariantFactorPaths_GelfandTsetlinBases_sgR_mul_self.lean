@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_sgR_mul_self
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.sgR_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:57:28.27026+00:00
 -- url     : https://prove2.me/theorems/f1e0e88a-1721-4bd1-ac41-c3a65a2e3e50

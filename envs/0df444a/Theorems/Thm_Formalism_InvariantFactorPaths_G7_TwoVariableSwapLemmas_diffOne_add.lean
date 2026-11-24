@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_TwoVariableSwapLemmas_diffOne_add
 -- name    : Formalism.InvariantFactorPaths.G7.TwoVariableSwapLemmas.diffOne_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:00.817464+00:00
 -- url     : https://prove2.me/theorems/b2e63787-352c-420b-9f3c-e85761564741

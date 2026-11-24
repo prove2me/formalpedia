@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_IdempotentLemmas_charOf_conj
 -- name    : Formalism.IndefR.LatticeTransfer.IdempotentLemmas.charOf_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:17.326631+00:00
 -- url     : https://prove2.me/theorems/5b0c7906-252d-4950-b19f-2b0d3df8999d

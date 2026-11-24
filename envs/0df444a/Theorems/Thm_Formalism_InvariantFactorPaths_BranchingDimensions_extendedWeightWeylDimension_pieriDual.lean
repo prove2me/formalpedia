@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_extendedWeightWeylDimension_pieriDual
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.extendedWeightWeylDimension.pieriDual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:54:57.362819+00:00
 -- url     : https://prove2.me/theorems/1e6ec586-410e-4e97-8ee4-b7bc20959b01

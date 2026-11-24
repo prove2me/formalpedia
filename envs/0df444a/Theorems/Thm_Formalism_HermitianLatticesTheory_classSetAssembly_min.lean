@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_classSetAssembly_min
 -- name    : Formalism.HermitianLatticesTheory.classSetAssembly_min
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:06:50.388598+00:00
 -- url     : https://prove2.me/theorems/f7162eee-7e1a-427b-ae0d-afefe696ca5b

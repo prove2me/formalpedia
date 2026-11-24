@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_fk_blockAct_mem
 -- name    : Formalism.L2.DIV.fk_blockAct_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:01:54.110802+00:00
 -- url     : https://prove2.me/theorems/7f58cacf-2db4-4f29-a2a6-dd0ff0d9867c

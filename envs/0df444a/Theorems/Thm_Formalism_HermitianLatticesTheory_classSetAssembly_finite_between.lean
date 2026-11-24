@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_classSetAssembly_finite_between
 -- name    : Formalism.HermitianLatticesTheory.classSetAssembly_finite_between
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:06:38.483717+00:00
 -- url     : https://prove2.me/theorems/833065f6-32ad-4190-8223-4e7f752ccb7a

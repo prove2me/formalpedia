@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LemOne_coeff_pow_top
 -- name    : Formalism.InvariantFactorPaths.G7.LemOne.coeff_pow_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:32:46.229425+00:00
 -- url     : https://prove2.me/theorems/937f9847-c5ab-409d-b275-deb63b27e965

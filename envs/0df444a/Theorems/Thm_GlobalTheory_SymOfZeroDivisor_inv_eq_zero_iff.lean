@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymOfZeroDivisor_inv_eq_zero_iff
 -- name    : GlobalTheory.SymOfZeroDivisor.inv_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:02:11.899096+00:00
 -- url     : https://prove2.me/theorems/d3f3a44d-b8ec-4613-ab30-1c0242e2cc24

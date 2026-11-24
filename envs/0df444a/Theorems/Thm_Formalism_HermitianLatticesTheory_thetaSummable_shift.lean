@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_thetaSummable_shift
 -- name    : Formalism.HermitianLatticesTheory.thetaSummable_shift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:05:13.950796+00:00
 -- url     : https://prove2.me/theorems/4d9bca4c-d57f-4f45-82e1-b3ad76753715

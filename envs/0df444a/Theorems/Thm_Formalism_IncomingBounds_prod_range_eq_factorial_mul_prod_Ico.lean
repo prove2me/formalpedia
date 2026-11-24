@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_prod_range_eq_factorial_mul_prod_Ico
 -- name    : Formalism.IncomingBounds.prod_range_eq_factorial_mul_prod_Ico
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:09:50.624256+00:00
 -- url     : https://prove2.me/theorems/b150a752-825f-4803-8357-aedaee965d25

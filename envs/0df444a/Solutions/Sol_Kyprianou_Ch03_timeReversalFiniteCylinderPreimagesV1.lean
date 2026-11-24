@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.timeReversalFiniteCylinderPreimagesV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T08:18:06.956271+00:00
 -- url     : https://prove2.me/submissions/7b15f019-51a1-4be0-91f5-7f4cc5eaf2f0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

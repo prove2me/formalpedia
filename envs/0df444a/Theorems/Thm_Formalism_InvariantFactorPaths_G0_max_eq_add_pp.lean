@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G0_max_eq_add_pp
 -- name    : Formalism.InvariantFactorPaths.G0.max_eq_add_pp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:26:19.236317+00:00
 -- url     : https://prove2.me/theorems/19d8de52-2cc0-4e03-a095-f54b7e88c633

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_EDec_lowLin_bBof
 -- name    : Formalism.InvariantFactorPaths.G7.EDec.lowLin_bBof
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:14:25.569029+00:00
 -- url     : https://prove2.me/theorems/47f472ff-991a-4e7f-a333-9828ca9d9806

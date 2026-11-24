@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_padicValFactorialRatioProd
 -- name    : Formalism.IncomingBounds.padicValFactorialRatioProd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:09.947407+00:00
 -- url     : https://prove2.me/theorems/11f3d551-93cf-4654-abab-786f9a4393ae

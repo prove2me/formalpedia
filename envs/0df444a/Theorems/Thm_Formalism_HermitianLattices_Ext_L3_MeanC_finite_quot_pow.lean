@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_MeanC_finite_quot_pow
 -- name    : Formalism.HermitianLattices.Ext.L3.MeanC.finite_quot_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:37.249589+00:00
 -- url     : https://prove2.me/theorems/9cbd564f-4602-49ac-9564-137132ed1a53

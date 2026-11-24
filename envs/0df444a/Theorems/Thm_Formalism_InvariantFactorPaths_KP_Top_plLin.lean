@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_Top_plLin
 -- name    : Formalism.InvariantFactorPaths.KP.Top.plLin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:59:23.123574+00:00
 -- url     : https://prove2.me/theorems/dd93665c-4d99-4342-9450-7733a7f40d32

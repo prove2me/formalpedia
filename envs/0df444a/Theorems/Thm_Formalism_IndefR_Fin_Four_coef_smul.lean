@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_coef_smul
 -- name    : Formalism.IndefR.Fin.Four.coef_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:24.218722+00:00
 -- url     : https://prove2.me/theorems/f255377b-5f07-4131-ac6f-1e76d5248129

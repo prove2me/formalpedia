@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qn_T_binomE
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qn_T_binomE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:27:29.89941+00:00
 -- url     : https://prove2.me/theorems/e5c6bc43-808a-4a56-b53a-92ab17d0cd8b

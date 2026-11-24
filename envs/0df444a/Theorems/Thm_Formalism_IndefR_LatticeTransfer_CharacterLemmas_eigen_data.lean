@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_CharacterLemmas_eigen_data
 -- name    : Formalism.IndefR.LatticeTransfer.CharacterLemmas.eigen_data
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:16.180704+00:00
 -- url     : https://prove2.me/theorems/a922f828-05c5-4bed-81f9-f31530b69245

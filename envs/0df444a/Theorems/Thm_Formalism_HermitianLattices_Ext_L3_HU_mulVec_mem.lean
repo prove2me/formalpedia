@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_mulVec_mem
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.mulVec_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:49.957175+00:00
 -- url     : https://prove2.me/theorems/ee964297-4cd0-4b81-817d-337e20e33d73

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_LL_harmonicProjection_expand
 -- name    : Formalism.InvariantFactorPaths.KP.LL.harmonicProjection_expand
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:58:19.376054+00:00
 -- url     : https://prove2.me/theorems/4a08c694-b1ba-41ce-8212-9532d4909fc9

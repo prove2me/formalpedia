@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LogarithmEquivalence_map_mk_eq_zero_iff
 -- name    : Formalism.InvariantFactorPaths.G7.LogarithmEquivalence.map_mk_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:16.82004+00:00
 -- url     : https://prove2.me/theorems/186c04d3-910d-42e6-a835-6681e74aeb61

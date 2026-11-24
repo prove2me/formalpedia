@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_finiteZeroBasedVectorLawOfReverseDifferencesV1
 -- name    : Kyprianou.Ch03.finiteZeroBasedVectorLawOfReverseDifferencesV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T08:22:51.688812+00:00
 -- url     : https://prove2.me/theorems/fe7eafa0-0d49-4094-a931-57ec3bf6d298

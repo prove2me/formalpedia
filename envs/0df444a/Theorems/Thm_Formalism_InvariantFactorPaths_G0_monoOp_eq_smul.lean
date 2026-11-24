@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G0_monoOp_eq_smul
 -- name    : Formalism.InvariantFactorPaths.G0.monoOp_eq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:26:12.927221+00:00
 -- url     : https://prove2.me/theorems/b97edd8e-ac56-42d5-a108-49ef1790f9f6

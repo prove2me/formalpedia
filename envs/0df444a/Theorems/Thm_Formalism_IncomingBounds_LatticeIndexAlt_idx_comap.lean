@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_LatticeIndexAlt_idx_comap
 -- name    : Formalism.IncomingBounds.LatticeIndexAlt.idx_comap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:12.241823+00:00
 -- url     : https://prove2.me/theorems/693bdc65-29d2-4353-a271-3240b4709548

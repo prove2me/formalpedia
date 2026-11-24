@@ -95623,10 +95623,10 @@
 {"parent": "RH1E6S13.part_078_0", "child": "ArdaRS_DyadicOps", "via": ["statement"]}
 {"parent": "RH1E6S13.part_078_0", "child": "ArdaRS_Evaluator", "via": ["statement"]}
 {"parent": "RH1E6S13.part_078_0", "child": "ArdaRS_Dyadic", "via": ["statement"]}
-{"parent": "Formalism.HermitianLatticesTheory.traceReal", "child": "Formalism_HermitianLattices_DefsCS", "via": ["statement"]}
-{"parent": "Formalism.HermitianLatticesTheory.traceReal", "child": "Formalism_HermitianLattices_HermitianLatticesProofs_ThetaSummable", "via": ["statement"]}
-{"parent": "Formalism.HermitianLatticesTheory.traceReal", "child": "Lemmata_GeneralBFactSecondSide_Imports", "via": ["statement"]}
-{"parent": "Formalism.HermitianLatticesTheory.traceReal", "child": "Formalism_HermitianLattices_HermitianLatticesProofs_TraceReal", "via": ["statement"]}
+{"parent": "Formalism.HermitianLatticesTheory.traceReal", "child": "Formalism_HermitianLattices_DefsCS", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLatticesTheory.traceReal", "child": "Formalism_HermitianLattices_HermitianLatticesProofs_ThetaSummable", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLatticesTheory.traceReal", "child": "Lemmata_GeneralBFactSecondSide_Imports", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLatticesTheory.traceReal", "child": "Formalism_HermitianLattices_HermitianLatticesProofs_TraceReal", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_TensorRepresentations_HidaSetting", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_RigidityTheorems_IsInLieAlgebraISmulAddConjTranspose", "via": ["statement"]}
 {"parent": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_TensorRepresentations_HidaSetting", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_TensorRepresentations_Resolvent", "via": ["statement"]}
 {"parent": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_TensorRepresentations_HidaSetting", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_RigidityTheorems_MultOne", "via": ["statement"]}

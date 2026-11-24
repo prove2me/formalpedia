@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_exists_common_den
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.exists_common_den
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:14:29.713817+00:00
 -- url     : https://prove2.me/theorems/a45977e3-662d-4828-b4f2-ab26bde77913

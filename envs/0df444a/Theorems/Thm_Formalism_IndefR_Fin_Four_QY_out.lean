@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_QY_out
 -- name    : Formalism.IndefR.Fin.Four.QY_out
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:05.336103+00:00
 -- url     : https://prove2.me/theorems/1d98ac0d-f431-4f8d-8dcb-6d69cbb737a6

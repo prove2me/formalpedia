@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreUnif_surjective_of_countable
 -- name    : GlobalTheory.FibreUnif.surjective_of_countable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:14:31.914572+00:00
 -- url     : https://prove2.me/theorems/965c1e21-dbfe-4e09-b368-c2734477368e

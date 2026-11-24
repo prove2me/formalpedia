@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Tow_SobPf_Avg_contDiff_integral_param
 -- name    : Formalism.IndefR.Tow.SobPf.Avg.contDiff_integral_param
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:17:18.982722+00:00
 -- url     : https://prove2.me/theorems/39fe7a47-58f4-4433-8aea-f9d4e3293633

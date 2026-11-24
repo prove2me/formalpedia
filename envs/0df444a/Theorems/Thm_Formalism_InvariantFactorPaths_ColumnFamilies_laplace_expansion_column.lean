@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_laplace_expansion_column
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.laplace_expansion_column
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:20:23.326832+00:00
 -- url     : https://prove2.me/theorems/03cee21f-ec82-4baf-a311-4b5caa00c7de

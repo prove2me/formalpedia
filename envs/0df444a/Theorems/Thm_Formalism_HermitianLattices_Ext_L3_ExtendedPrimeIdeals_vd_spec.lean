@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_ExtendedPrimeIdeals_vd_spec
 -- name    : Formalism.HermitianLattices.Ext.L3.ExtendedPrimeIdeals.vd_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:59.826286+00:00
 -- url     : https://prove2.me/theorems/ae1cf510-4768-4d81-82d7-b8f7131949f0

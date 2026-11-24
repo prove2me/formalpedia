@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_compL_intertwine
 -- name    : Formalism.InvariantFactorPaths.L4.compL_intertwine
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:59:07.818823+00:00
 -- url     : https://prove2.me/theorems/3943c248-a738-4344-a104-00d71c8d5116

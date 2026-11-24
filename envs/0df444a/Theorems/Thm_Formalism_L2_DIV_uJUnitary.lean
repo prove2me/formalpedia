@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_uJUnitary
 -- name    : Formalism.L2.DIV.uJUnitary
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:51:08.000246+00:00
 -- url     : https://prove2.me/theorems/b3eab306-ead8-4753-8265-7e04922bb593

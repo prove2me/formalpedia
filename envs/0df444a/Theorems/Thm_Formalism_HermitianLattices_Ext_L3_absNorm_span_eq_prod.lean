@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_absNorm_span_eq_prod
 -- name    : Formalism.HermitianLattices.Ext.L3.absNorm_span_eq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:02.050864+00:00
 -- url     : https://prove2.me/theorems/6cb0217e-314c-4a1f-b02e-09be7b16f47c

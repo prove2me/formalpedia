@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_index_monotone
 -- name    : Formalism.EigenvalueLevelCeiling.index_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:32:41.053255+00:00
 -- url     : https://prove2.me/theorems/60d4c536-fc79-4f6b-a5ad-ef8c82ac6636

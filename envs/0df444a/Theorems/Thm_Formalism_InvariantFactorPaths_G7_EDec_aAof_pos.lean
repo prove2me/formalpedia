@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_EDec_aAof_pos
 -- name    : Formalism.InvariantFactorPaths.G7.EDec.aAof_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:26.999163+00:00
 -- url     : https://prove2.me/theorems/2071527e-771f-442e-9e3e-8a3f54263ada

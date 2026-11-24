@@ -11736,11 +11736,11 @@
 {"parent": "FunctorialResolution.EmbeddedResolution.LocalResolutionData.lastObjIsoPullback_hom_fst", "child": "Development_ResolutionOfSingularities_Foundations_BlowupUniversalProperty", "via": ["statement"]}
 {"parent": "FunctorialResolution.EmbeddedResolution.LocalResolutionData.lastObjIsoPullback_hom_fst", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_StrongResolution_StrongResolution", "via": ["statement"]}
 {"parent": "FunctorialResolution.EmbeddedResolution.LocalResolutionData.lastObjIsoPullback_hom_fst", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_StrongResolution_LocalResolutionData", "via": ["statement"]}
-{"parent": "Formalism.InvariantFactorPaths.INST.spr_upper", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LDbasisLemmas", "via": ["statement"]}
-{"parent": "Formalism.InvariantFactorPaths.INST.spr_upper", "child": "Formalism_ThetaLogCoordinates_SandwichModelDomains_SandwichModelProofs_Spread", "via": ["statement"]}
-{"parent": "Formalism.InvariantFactorPaths.INST.spr_upper", "child": "Formalism_ThetaLogCoordinates_SandwichModelDomains_SpreadSquare", "via": ["statement"]}
-{"parent": "Formalism.InvariantFactorPaths.INST.spr_upper", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LDrowLemmas", "via": ["statement"]}
-{"parent": "Formalism.InvariantFactorPaths.INST.spr_upper", "child": "Formalism_GradedWeylDivisibility_FinalD", "via": ["statement"]}
+{"parent": "Formalism.InvariantFactorPaths.INST.spr_upper", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LDbasisLemmas", "via": ["solution", "statement"]}
+{"parent": "Formalism.InvariantFactorPaths.INST.spr_upper", "child": "Formalism_ThetaLogCoordinates_SandwichModelDomains_SandwichModelProofs_Spread", "via": ["solution", "statement"]}
+{"parent": "Formalism.InvariantFactorPaths.INST.spr_upper", "child": "Formalism_ThetaLogCoordinates_SandwichModelDomains_SpreadSquare", "via": ["solution", "statement"]}
+{"parent": "Formalism.InvariantFactorPaths.INST.spr_upper", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LDrowLemmas", "via": ["solution", "statement"]}
+{"parent": "Formalism.InvariantFactorPaths.INST.spr_upper", "child": "Formalism_GradedWeylDivisibility_FinalD", "via": ["solution", "statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PRootDivSuppEmpty", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_StatementsGrassHeight", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PRootDivSuppEmpty", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_StatementsGrassHeightNE", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PSpanBundleTrdegLe", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_StatementsSpanBundleTrdegLe", "via": ["statement"]}
@@ -17149,8 +17149,8 @@
 {"parent": "GroundTheory_HeightsAndTheta_Heights_MatrixCharts_PCuspCoordinateBound", "child": "GroundTheory_HeightsAndTheta_Heights_MatrixCharts_StatementsCusp", "via": ["statement"]}
 {"parent": "FairSelling.lemma11_utility_u", "child": "RequestProject_EpsEnvy", "via": ["solution", "statement"]}
 {"parent": "FairSelling.lemma11_utility_u", "child": "RequestProject_LemmaEleven", "via": ["solution", "statement"]}
-{"parent": "Formalism.InvariantFactorPaths.PW.hwc_iff", "child": "Formalism_ThetaLogCoordinates_TraceIsometryWeights_SchurTraceProofs_WeightCompApply", "via": ["statement"]}
-{"parent": "Formalism.InvariantFactorPaths.PW.hwc_iff", "child": "Formalism_ThetaLogCoordinates_TraceIsometryWeights_HasLatBasis", "via": ["statement"]}
+{"parent": "Formalism.InvariantFactorPaths.PW.hwc_iff", "child": "Formalism_ThetaLogCoordinates_TraceIsometryWeights_SchurTraceProofs_WeightCompApply", "via": ["solution", "statement"]}
+{"parent": "Formalism.InvariantFactorPaths.PW.hwc_iff", "child": "Formalism_ThetaLogCoordinates_TraceIsometryWeights_HasLatBasis", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch02.levyMonotoneMarginalProbabilityFamilyV1", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch02.levyMonotoneMarginalProbabilityFamilyV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_OrbitLimits_StatementsProjRegularFibre", "child": "GroundTheory_HeightsAndTheta_Heights_OrbitLimits_StatementsProjRegular", "via": ["statement"]}
@@ -36971,8 +36971,8 @@
 {"parent": "Formalism.GM.DimensionMonotonicity.Dle_raise", "child": "Formalism_MahlerMeasure_MahlerMeasureProofs_FreezeBij", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_HilbertSamuel_sum_add_pi_single_one_3a9c5801f689", "child": "GroundTheory_HeightsAndTheta_Heights_HilbertSamuel_PDegLTGrowth", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_HilbertSamuel_sum_add_pi_single_one_3a9c5801f689", "child": "GroundTheory_HeightsAndTheta_Heights_HilbertSamuel_StatementsDegLTGrowth", "via": ["solution", "statement"]}
-{"parent": "Formalism.InvariantFactorPaths.PW.wtSpC_iff", "child": "Formalism_ThetaLogCoordinates_TraceIsometryWeights_SchurTraceProofs_WeightCompApply", "via": ["statement"]}
-{"parent": "Formalism.InvariantFactorPaths.PW.wtSpC_iff", "child": "Formalism_ThetaLogCoordinates_TraceIsometryWeights_HasLatBasis", "via": ["statement"]}
+{"parent": "Formalism.InvariantFactorPaths.PW.wtSpC_iff", "child": "Formalism_ThetaLogCoordinates_TraceIsometryWeights_SchurTraceProofs_WeightCompApply", "via": ["solution", "statement"]}
+{"parent": "Formalism.InvariantFactorPaths.PW.wtSpC_iff", "child": "Formalism_ThetaLogCoordinates_TraceIsometryWeights_HasLatBasis", "via": ["solution", "statement"]}
 {"parent": "FairSelling.ElevenTwelfths.MMS_agent_two", "child": "RequestProject_ElevenTwelfths", "via": ["solution", "statement"]}
 {"parent": "FairSelling.ElevenTwelfths.MMS_agent_two", "child": "RequestProject_ThreeAgents", "via": ["solution", "statement"]}
 {"parent": "FairSelling.ElevenTwelfths.MMS_agent_two", "child": "RequestProject_FeigeNorkin", "via": ["solution", "statement"]}
@@ -41714,10 +41714,10 @@
 {"parent": "VpVnp.main_theorem", "child": "VpVnp_Beyond", "via": ["solution", "statement"]}
 {"parent": "VpVnp.main_theorem", "child": "VpVnp_Circuit", "via": ["solution", "statement"]}
 {"parent": "VpVnp.main_theorem", "child": "VpVnp_Polynomials", "via": ["solution", "statement"]}
-{"parent": "Formalism.GM.meanGam_of", "child": "Formalism_MahlerMeasure_GamInt", "via": ["statement"]}
-{"parent": "Formalism.GM.meanGam_of", "child": "Formalism_MahlerMeasure_StatementTM", "via": ["statement"]}
-{"parent": "Formalism.GM.meanGam_of", "child": "Formalism_MahlerMeasure_LegendreDigits", "via": ["statement"]}
-{"parent": "Formalism.GM.meanGam_of", "child": "Formalism_MahlerMeasure_MahlerMeasureProofs_MeanGam", "via": ["statement"]}
+{"parent": "Formalism.GM.meanGam_of", "child": "Formalism_MahlerMeasure_GamInt", "via": ["solution", "statement"]}
+{"parent": "Formalism.GM.meanGam_of", "child": "Formalism_MahlerMeasure_StatementTM", "via": ["solution", "statement"]}
+{"parent": "Formalism.GM.meanGam_of", "child": "Formalism_MahlerMeasure_LegendreDigits", "via": ["solution", "statement"]}
+{"parent": "Formalism.GM.meanGam_of", "child": "Formalism_MahlerMeasure_MahlerMeasureProofs_MeanGam", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_TwistedDualGensSpan_proof_984f8b2ec229", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PTwistedDualGensSpan", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_TwistedDualGensSpan_proof_984f8b2ec229", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_StatementsTwistedDualGensSpan", "via": ["statement"]}
 {"parent": "ULHC.Ends.conn_insert_iff", "child": "ULHC_Flip", "via": ["solution", "statement"]}

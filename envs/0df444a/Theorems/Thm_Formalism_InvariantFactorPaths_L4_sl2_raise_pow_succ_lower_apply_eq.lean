@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_sl2_raise_pow_succ_lower_apply_eq
 -- name    : Formalism.InvariantFactorPaths.L4.sl2_raise_pow_succ_lower_apply_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:03:39.937714+00:00
 -- url     : https://prove2.me/theorems/c55cb15d-66a0-40c8-95e2-c75bac0abc5d

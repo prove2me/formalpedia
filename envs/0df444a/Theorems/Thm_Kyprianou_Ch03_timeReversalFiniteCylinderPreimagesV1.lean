@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_timeReversalFiniteCylinderPreimagesV1
 -- name    : Kyprianou.Ch03.timeReversalFiniteCylinderPreimagesV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T07:56:40.672069+00:00
 -- url     : https://prove2.me/theorems/1267c650-c871-460d-b8c1-f7127daafb6e

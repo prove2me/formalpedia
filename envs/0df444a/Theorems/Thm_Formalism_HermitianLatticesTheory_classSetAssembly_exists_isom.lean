@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_classSetAssembly_exists_isom
 -- name    : Formalism.HermitianLatticesTheory.classSetAssembly_exists_isom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:06:36.153634+00:00
 -- url     : https://prove2.me/theorems/f17cb3be-b91f-4b5b-b603-27499b2b5989

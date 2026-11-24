@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_degeneratingTori_basePeriodMap_smul
 -- name    : GlobalTheory.AnArc.degeneratingTori_basePeriodMap_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:48.332662+00:00
 -- url     : https://prove2.me/theorems/3cc8ccbc-682d-4e19-8cc6-b344e3211fbd

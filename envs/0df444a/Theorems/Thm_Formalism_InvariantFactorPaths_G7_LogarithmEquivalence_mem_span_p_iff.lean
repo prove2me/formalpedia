@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LogarithmEquivalence_mem_span_p_iff
 -- name    : Formalism.InvariantFactorPaths.G7.LogarithmEquivalence.mem_span_p_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:26:10.049454+00:00
 -- url     : https://prove2.me/theorems/5af4e548-508d-49e9-af69-91336041f829

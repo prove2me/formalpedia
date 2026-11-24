@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qc_span_eq
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qc_span_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:19:07.458692+00:00
 -- url     : https://prove2.me/theorems/c69705a7-5c0b-4643-bd2e-eebc715584d1

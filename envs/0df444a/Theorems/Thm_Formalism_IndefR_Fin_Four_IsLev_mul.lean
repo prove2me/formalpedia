@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_IsLev_mul
 -- name    : Formalism.IndefR.Fin.Four.IsLev.mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:29.412842+00:00
 -- url     : https://prove2.me/theorems/f4e24e46-5c47-4988-a2e7-c7f9b59addbc

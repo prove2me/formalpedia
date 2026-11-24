@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_CSym_eF_isEmpty
 -- name    : Formalism.InvariantFactorPaths.G7.CSym.eF_isEmpty
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:26:12.004861+00:00
 -- url     : https://prove2.me/theorems/fbbe2c03-3026-4e10-a24f-7de90e7f529c

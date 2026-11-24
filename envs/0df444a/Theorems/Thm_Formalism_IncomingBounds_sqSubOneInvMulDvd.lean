@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_sqSubOneInvMulDvd
 -- name    : Formalism.IncomingBounds.sqSubOneInvMulDvd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:04.707473+00:00
 -- url     : https://prove2.me/theorems/2df892db-461c-4547-9afa-8f750c6d7fb7

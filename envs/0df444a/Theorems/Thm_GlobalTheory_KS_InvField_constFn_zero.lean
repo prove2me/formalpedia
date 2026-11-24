@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_InvField_constFn_zero
 -- name    : GlobalTheory.KS.InvField.constFn_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:08.317657+00:00
 -- url     : https://prove2.me/theorems/d3d8be32-01dd-43e1-a7eb-0c4d97a986d1

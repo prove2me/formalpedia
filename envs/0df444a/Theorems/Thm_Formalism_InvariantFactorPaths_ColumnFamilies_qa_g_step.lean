@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qa_g_step
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qa_g_step
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:22:02.064871+00:00
 -- url     : https://prove2.me/theorems/f5864a8c-8470-463d-9af4-3b49f3769eb5

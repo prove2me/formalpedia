@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_logRankEstimate
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.logRankEstimate
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:13:14.023973+00:00
 -- url     : https://prove2.me/theorems/a62a4b9b-541c-405e-84b7-19f0d1f24622

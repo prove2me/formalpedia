@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G0_inverse_shift
 -- name    : Formalism.InvariantFactorPaths.G0.inverse_shift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:25:51.579097+00:00
 -- url     : https://prove2.me/theorems/3dc2b706-f1c5-4cb0-9bae-0fe351e4e864

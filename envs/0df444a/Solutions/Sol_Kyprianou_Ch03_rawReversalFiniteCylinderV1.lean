@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.rawReversalFiniteCylinderV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T08:24:45.738875+00:00
 -- url     : https://prove2.me/submissions/c197ffba-c21e-493b-8bfe-d81125a77a67
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

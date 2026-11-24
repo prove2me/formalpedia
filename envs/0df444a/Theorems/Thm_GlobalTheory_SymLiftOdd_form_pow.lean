@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymLiftOdd_form_pow
 -- name    : GlobalTheory.SymLiftOdd.form_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:04:12.324986+00:00
 -- url     : https://prove2.me/theorems/8f7af7f6-8d40-4f8a-aa39-47826bba02a5

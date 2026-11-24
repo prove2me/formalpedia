@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_lValEta_pos
 -- name    : Formalism.HermitianLattices.Ext.L3.lValEta_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:17:12.215802+00:00
 -- url     : https://prove2.me/theorems/1eeaa2fc-252f-4e86-9c03-a7eb6463ac45

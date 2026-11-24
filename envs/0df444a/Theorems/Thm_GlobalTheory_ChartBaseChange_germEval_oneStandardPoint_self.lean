@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartBaseChange_germEval_oneStandardPoint_self
 -- name    : GlobalTheory.ChartBaseChange.germEval_oneStandardPoint_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:53.458007+00:00
 -- url     : https://prove2.me/theorems/b2561bda-3e1c-4e70-b540-3d884d1e6b5d

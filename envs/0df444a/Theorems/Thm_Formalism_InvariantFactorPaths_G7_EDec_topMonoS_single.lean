@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_EDec_topMonoS_single
 -- name    : Formalism.InvariantFactorPaths.G7.EDec.topMonoS_single
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:40.744055+00:00
 -- url     : https://prove2.me/theorems/c3f48505-a9bb-496a-b2c0-a33e3cb029ec

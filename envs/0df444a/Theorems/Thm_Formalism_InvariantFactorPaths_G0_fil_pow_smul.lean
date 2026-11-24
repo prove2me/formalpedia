@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G0_fil_pow_smul
 -- name    : Formalism.InvariantFactorPaths.G0.fil_pow_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:26:20.401901+00:00
 -- url     : https://prove2.me/theorems/1dfbabe8-a07e-4cae-923c-f6a71e1991de

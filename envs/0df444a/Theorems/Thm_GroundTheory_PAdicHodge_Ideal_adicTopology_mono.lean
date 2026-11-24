@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_Ideal_adicTopology_mono
 -- name    : GroundTheory.PAdicHodge.Ideal.adicTopology_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:00:07.406076+00:00
 -- url     : https://prove2.me/theorems/49d6a72d-880d-4143-a526-b10f3f7c3bc9

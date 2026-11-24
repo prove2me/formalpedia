@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_PinAA_mul_eq_zero_iff
 -- name    : Formalism.HermitianLattices.Ext.L3.PinAA.mul_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:46:02.163198+00:00
 -- url     : https://prove2.me/theorems/949579f8-5189-462b-b598-cddbf461074d

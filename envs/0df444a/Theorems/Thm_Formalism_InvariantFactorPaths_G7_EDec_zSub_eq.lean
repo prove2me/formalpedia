@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_EDec_zSub_eq
 -- name    : Formalism.InvariantFactorPaths.G7.EDec.zSub_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:18.682991+00:00
 -- url     : https://prove2.me/theorems/5ef4650a-f464-41cb-943e-e7f6e7b5aadb

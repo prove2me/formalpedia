@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_coef_ne_zero
 -- name    : Formalism.IndefR.Fin.Four.coef_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:15.607804+00:00
 -- url     : https://prove2.me/theorems/424d82c9-939f-40f7-a005-a4169bbfbcbc

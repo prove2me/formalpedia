@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_genusCovolBound_dual_genus
 -- name    : Formalism.HermitianLatticesTheory.genusCovolBound_dual_genus
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:23.782796+00:00
 -- url     : https://prove2.me/theorems/b62a5552-9d03-499f-bdee-f49aaa669c48

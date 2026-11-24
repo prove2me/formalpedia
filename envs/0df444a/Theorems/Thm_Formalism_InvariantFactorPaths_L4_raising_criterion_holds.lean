@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_raising_criterion_holds
 -- name    : Formalism.InvariantFactorPaths.L4.raising_criterion_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:02:39.059263+00:00
 -- url     : https://prove2.me/theorems/673677ba-b051-431e-881b-37deeb87ec77

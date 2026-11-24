@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_pathEntryBounds
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.pathEntryBounds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:13:10.441303+00:00
 -- url     : https://prove2.me/theorems/e06ac022-fba9-4209-9beb-c9dc959fd4ab

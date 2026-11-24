@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_neg_A
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.neg_A
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:13:17.789749+00:00
 -- url     : https://prove2.me/theorems/e69f97f0-7459-4ef2-bf69-29b9cc061846

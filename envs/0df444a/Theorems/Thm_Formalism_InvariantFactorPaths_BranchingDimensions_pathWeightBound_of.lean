@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_pathWeightBound_of
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.pathWeightBound_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:13:37.805413+00:00
 -- url     : https://prove2.me/theorems/d8414e8f-625c-442d-a580-b52d09f22ca5

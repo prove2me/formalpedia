@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m89_density_measurable_mono
 -- name    : Kyprianou.Ch08.StageB.p2m89_density_measurable_mono
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T08:24:40.890604+00:00
 -- url     : https://prove2.me/theorems/02702730-0186-47a1-a44b-f9a1f2198175

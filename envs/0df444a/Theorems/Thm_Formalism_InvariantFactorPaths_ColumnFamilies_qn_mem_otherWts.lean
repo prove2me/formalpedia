@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qn_mem_otherWts
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qn_mem_otherWts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:14.978801+00:00
 -- url     : https://prove2.me/theorems/05897e28-5b68-461c-b34e-5147ea2e2299

@@ -88336,9 +88336,9 @@
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_P9_1315", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch43_59", "child": "OAIQ259US022", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch43_59", "child": "OAIQ259US021", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch03.entranceHit_firstEntranceIsStoppingTime", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.entranceHit_firstEntranceIsStoppingTime", "child": "Kyprianou_Ch03_CompletedNaturalFiltration", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.entranceHit_firstEntranceIsStoppingTime", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["statement"]}
+{"parent": "Kyprianou.Ch03.entranceHit_firstEntranceIsStoppingTime", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.entranceHit_firstEntranceIsStoppingTime", "child": "Kyprianou_Ch03_CompletedNaturalFiltration", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.entranceHit_firstEntranceIsStoppingTime", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.checked_D8_244", "child": "RealPinwheel_FiveSixths_WitnessD8_244", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch39_290", "child": "OAIQ259US022", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch39_290", "child": "OAIQ259US021", "via": ["solution", "statement"]}

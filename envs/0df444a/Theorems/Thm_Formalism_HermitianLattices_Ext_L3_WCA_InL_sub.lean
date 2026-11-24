@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_WCA_InL_sub
 -- name    : Formalism.HermitianLattices.Ext.L3.WCA.InL.sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:27:41.648953+00:00
 -- url     : https://prove2.me/theorems/f64a1bae-6216-4a6f-a17c-e60641219291

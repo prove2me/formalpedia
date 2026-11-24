@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_num_fact_add_q
 -- name    : Formalism.IncomingBounds.num_fact_add_q
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:09:50.031343+00:00
 -- url     : https://prove2.me/theorems/7ae10b74-ee57-4e45-a930-26f3f7820f46

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalPush_eq_9_10
 -- name    : LocalPush.eq_9_10
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T23:06:07.285901+00:00
 -- url     : https://prove2.me/theorems/2dcd45fa-8f44-4ff0-b2fb-fd6bbd9c4b50

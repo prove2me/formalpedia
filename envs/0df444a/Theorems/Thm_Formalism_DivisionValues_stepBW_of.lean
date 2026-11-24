@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_stepBW_of
 -- name    : Formalism.DivisionValues.stepBW_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:30.223484+00:00
 -- url     : https://prove2.me/theorems/99d8e4b3-539c-465f-affd-04bc6b39f199

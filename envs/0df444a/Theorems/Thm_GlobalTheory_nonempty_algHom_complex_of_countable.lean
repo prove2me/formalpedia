@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_nonempty_algHom_complex_of_countable
 -- name    : GlobalTheory.nonempty_algHom_complex_of_countable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:05:00.704192+00:00
 -- url     : https://prove2.me/theorems/068e0a6d-a01c-4604-8475-518949043a48

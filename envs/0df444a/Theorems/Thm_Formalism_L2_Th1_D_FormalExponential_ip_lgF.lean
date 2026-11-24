@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_FormalExponential_ip_lgF
 -- name    : Formalism.L2.Th1.D.FormalExponential.ip_lgF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:01:18.785802+00:00
 -- url     : https://prove2.me/theorems/683589ac-8374-4878-8331-9b128bb3eafe

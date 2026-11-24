@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_QX_out
 -- name    : Formalism.IndefR.Fin.Four.QX_out
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:07.595743+00:00
 -- url     : https://prove2.me/theorems/4dc2c69c-2d9e-4a8c-a6a0-0bd5facba05a

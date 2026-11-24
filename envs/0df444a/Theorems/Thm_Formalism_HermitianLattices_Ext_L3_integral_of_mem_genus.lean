@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_integral_of_mem_genus
 -- name    : Formalism.HermitianLattices.Ext.L3.integral_of_mem_genus
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:05.221662+00:00
 -- url     : https://prove2.me/theorems/2d8998cd-213b-4bd0-b317-5b751bc424a9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_timeReversalDuality
 -- name    : Kyprianou.Ch03.timeReversalDuality
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T13:38:29.737296+00:00
 -- url     : https://prove2.me/theorems/738b23d9-7a4a-4950-8e30-28b1734d73dd

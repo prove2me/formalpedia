@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_WCA_InI_mono
 -- name    : Formalism.HermitianLattices.Ext.L3.WCA.InI.mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:28:20.921379+00:00
 -- url     : https://prove2.me/theorems/e56eccc6-9008-4850-8da1-063f0134ca88

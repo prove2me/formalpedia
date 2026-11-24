@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_delLeNab
 -- name    : Formalism.L2.DIV.delLeNab
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:22.19323+00:00
 -- url     : https://prove2.me/theorems/b5b03f77-965b-4eeb-a0d7-0cbd95df5e02

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_shiftExponentIdentity
 -- name    : Formalism.IncomingBounds.shiftExponentIdentity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:09:51.974704+00:00
 -- url     : https://prove2.me/theorems/82e147a5-aeb3-4b44-8204-eb20b1d425d8

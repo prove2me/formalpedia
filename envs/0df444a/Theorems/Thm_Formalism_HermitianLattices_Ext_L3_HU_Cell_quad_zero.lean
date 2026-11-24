@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_Cell_quad_zero
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.Cell.quad_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:29.212968+00:00
 -- url     : https://prove2.me/theorems/0a534b48-e1f3-4358-889b-58af259d3401

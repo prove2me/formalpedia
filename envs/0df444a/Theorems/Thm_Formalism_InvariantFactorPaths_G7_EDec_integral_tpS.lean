@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_EDec_integral_tpS
 -- name    : Formalism.InvariantFactorPaths.G7.EDec.integral_tpS
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:28.609985+00:00
 -- url     : https://prove2.me/theorems/512fdb31-ec1b-41a2-bfa5-8be234e5c214

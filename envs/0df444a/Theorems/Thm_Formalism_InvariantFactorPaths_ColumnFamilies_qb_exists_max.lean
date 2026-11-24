@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qb_exists_max
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qb_exists_max
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:47:52.435805+00:00
 -- url     : https://prove2.me/theorems/870aa667-1049-4e40-abce-ca294c966f26

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_equivOfMatrix_mem_isom
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.equivOfMatrix_mem_isom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:03.995366+00:00
 -- url     : https://prove2.me/theorems/bbf03e89-1822-4fdb-85d0-7b4689534e17

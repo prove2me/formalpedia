@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_prime_to_part_spec
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.prime_to_part_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:04:49.245293+00:00
 -- url     : https://prove2.me/theorems/3140bb2a-1e37-406a-a748-5d7c46ad0620

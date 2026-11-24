@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_CoboundarySeries_partial_coboundary_product
 -- name    : Formalism.InvariantFactorPaths.G7.CoboundarySeries.partial_coboundary_product
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:26:08.400212+00:00
 -- url     : https://prove2.me/theorems/63ba0718-19f6-46ea-bffb-a5728db5806e

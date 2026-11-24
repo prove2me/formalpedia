@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_geometricSumDistinct
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.geometricSumDistinct
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:13:26.183675+00:00
 -- url     : https://prove2.me/theorems/311f7195-32f2-4af7-abd1-4efeb2787cc6

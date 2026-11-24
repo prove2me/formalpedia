@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryZariskiDense_mapMatrix_varMat
 -- name    : GlobalTheory.UnitaryZariskiDense.mapMatrix_varMat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:04:51.181151+00:00
 -- url     : https://prove2.me/theorems/2a91161b-caa1-40f5-aaac-5419fdb7821c

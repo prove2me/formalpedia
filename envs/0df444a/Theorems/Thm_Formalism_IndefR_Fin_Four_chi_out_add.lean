@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_chi_out_add
 -- name    : Formalism.IndefR.Fin.Four.chi_out_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:23.090799+00:00
 -- url     : https://prove2.me/theorems/df4a9313-238b-4ea6-a049-140fb222b087

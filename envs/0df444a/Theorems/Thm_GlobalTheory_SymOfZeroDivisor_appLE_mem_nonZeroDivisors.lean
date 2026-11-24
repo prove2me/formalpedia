@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymOfZeroDivisor_appLE_mem_nonZeroDivisors
 -- name    : GlobalTheory.SymOfZeroDivisor.appLE_mem_nonZeroDivisors
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:02:30.128863+00:00
 -- url     : https://prove2.me/theorems/811be0be-8ed9-4fea-b7de-61a262fd1de7

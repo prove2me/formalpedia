@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m89_translated_killed_occupation
 -- name    : Kyprianou.Ch08.StageB.p2m89_translated_killed_occupation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T08:18:52.655951+00:00
 -- url     : https://prove2.me/theorems/1f8ebc50-22cb-4f98-90db-c63cad9f5f2c

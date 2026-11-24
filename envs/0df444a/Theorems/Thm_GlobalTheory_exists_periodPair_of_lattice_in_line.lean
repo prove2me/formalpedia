@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_periodPair_of_lattice_in_line
 -- name    : GlobalTheory.exists_periodPair_of_lattice_in_line
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:32.511624+00:00
 -- url     : https://prove2.me/theorems/a7f9c67e-d876-4009-81a7-92ab66052034

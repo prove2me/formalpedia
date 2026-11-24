@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_inertFactor_sub_one_le
 -- name    : Formalism.IrreducibleCountingLemmas.Z.inertFactor_sub_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:09:13.251396+00:00
 -- url     : https://prove2.me/theorems/084af564-ce83-4f43-9863-0be26201a91a

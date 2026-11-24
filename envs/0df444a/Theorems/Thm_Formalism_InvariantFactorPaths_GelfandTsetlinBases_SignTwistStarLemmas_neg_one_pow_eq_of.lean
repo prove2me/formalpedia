@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_SignTwistStarLemmas_neg_one_pow_eq_of
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.SignTwistStarLemmas.neg_one_pow_eq_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:45.814392+00:00
 -- url     : https://prove2.me/theorems/ecee1e1e-db08-4028-afae-a55136460ab1

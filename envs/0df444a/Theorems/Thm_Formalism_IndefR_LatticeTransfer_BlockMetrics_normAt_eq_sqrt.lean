@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_BlockMetrics_normAt_eq_sqrt
 -- name    : Formalism.IndefR.LatticeTransfer.BlockMetrics.normAt_eq_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:13:01.140551+00:00
 -- url     : https://prove2.me/theorems/ab29128e-9add-4cf1-9e6a-d935d8331781

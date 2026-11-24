@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionReduced_isReduced_of_forall_dualNumber
 -- name    : GlobalTheory.TorsionReduced.isReduced_of_forall_dualNumber
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:01:57.870679+00:00
 -- url     : https://prove2.me/theorems/a8d3f5ce-5b33-411f-8f79-eb9ff51e42a5

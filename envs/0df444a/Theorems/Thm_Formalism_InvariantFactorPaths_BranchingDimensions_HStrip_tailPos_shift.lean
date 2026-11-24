@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_HStrip_tailPos_shift
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.HStrip.tailPos_shift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:45:52.728989+00:00
 -- url     : https://prove2.me/theorems/5235cb03-58fe-463c-83eb-f5c7657053c2

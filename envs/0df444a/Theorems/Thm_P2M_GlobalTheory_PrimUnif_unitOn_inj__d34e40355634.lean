@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_PrimUnif_unitOn_inj__d34e40355634
 -- name    : P2M_GlobalTheory_PrimUnif_unitOn_inj__d34e40355634
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:06:57.51871+00:00
 -- url     : https://prove2.me/theorems/6109e2a6-a6b2-4a8d-89e8-2dddb8e25a54

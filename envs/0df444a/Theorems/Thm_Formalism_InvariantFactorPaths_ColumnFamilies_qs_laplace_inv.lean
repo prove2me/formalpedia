@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qs_laplace_inv
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qs_laplace_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:21:47.949702+00:00
 -- url     : https://prove2.me/theorems/e2b1c200-7262-40ce-bff5-5c60d88db9ed

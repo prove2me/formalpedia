@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_ETerm_lowGe_mul
 -- name    : Formalism.InvariantFactorPaths.G7.ETerm.lowGe_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:54:38.485651+00:00
 -- url     : https://prove2.me/theorems/39701a58-b583-4021-a86d-ab4802377bb1

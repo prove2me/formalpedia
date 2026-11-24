@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_C_mem_opInt
 -- name    : Formalism.InvariantFactorPaths.G7.C_mem_opInt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:26:39.984304+00:00
 -- url     : https://prove2.me/theorems/09f5105f-33ec-43b2-ace9-b2b749648797

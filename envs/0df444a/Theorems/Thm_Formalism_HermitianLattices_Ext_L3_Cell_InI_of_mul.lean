@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_Cell_InI_of_mul
 -- name    : Formalism.HermitianLattices.Ext.L3.Cell.InI.of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:30:02.461801+00:00
 -- url     : https://prove2.me/theorems/bf947db0-e3e0-4e3d-819e-1ab46ccff576

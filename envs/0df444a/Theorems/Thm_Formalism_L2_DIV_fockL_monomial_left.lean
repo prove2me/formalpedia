@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_fockL_monomial_left
 -- name    : Formalism.L2.DIV.fockL_monomial_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:20.010822+00:00
 -- url     : https://prove2.me/theorems/790eaee5-d5bb-4717-979b-351ea641ac5b

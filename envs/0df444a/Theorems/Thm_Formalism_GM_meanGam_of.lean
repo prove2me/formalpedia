@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_meanGam_of
 -- name    : Formalism.GM.meanGam_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:51:50.46724+00:00
 -- url     : https://prove2.me/theorems/eadc7779-4461-4bb6-9cde-9b9064483767

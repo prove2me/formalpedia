@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_dvd_of_norm_untilt_le
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.dvd_of_norm_untilt_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:59:29.479163+00:00
 -- url     : https://prove2.me/theorems/d028469c-dbbf-47f9-a7d6-862c669fa7f0

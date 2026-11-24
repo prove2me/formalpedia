@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_pos_I
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.pos_I
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:13:16.074877+00:00
 -- url     : https://prove2.me/theorems/0e2c3569-9747-4198-8563-4e78d12e32e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_extendedWeightWeylDimension_frame_sum
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.extendedWeightWeylDimension.frame_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:13:23.829845+00:00
 -- url     : https://prove2.me/theorems/2a5d2743-3e12-4664-b9ce-7c4571b1318f

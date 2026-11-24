@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_mk_sigma_iff
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.mk_sigma_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:56.437409+00:00
 -- url     : https://prove2.me/theorems/63985a57-6389-47a4-a9e1-69bca7bbe25f

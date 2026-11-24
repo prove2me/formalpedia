@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyPow_NormalAt_mem_siegelH
 -- name    : GlobalTheory.KeyPow.NormalAt.mem_siegelH
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:14.685804+00:00
 -- url     : https://prove2.me/theorems/4b7b1611-8c80-423b-8294-88ff4756ccfa

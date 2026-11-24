@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_logWeylDimensionEstimate
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.logWeylDimensionEstimate
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:13:17.126976+00:00
 -- url     : https://prove2.me/theorems/fe2fcf9b-e6bf-4ace-9f82-2a089bdfe931

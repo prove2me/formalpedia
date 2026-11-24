@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LogarithmEquivalence_charP_quot
 -- name    : Formalism.InvariantFactorPaths.G7.LogarithmEquivalence.charP_quot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:32:53.850273+00:00
 -- url     : https://prove2.me/theorems/5dac8578-8ad6-44d0-8cd0-ebf97c8b6290

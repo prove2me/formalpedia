@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_span_unitInChart
 -- name    : GlobalTheory.SqZero.span_unitInChart
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:01:46.931797+00:00
 -- url     : https://prove2.me/theorems/1dd265e5-90ec-445b-bbcd-3436b0cba5b7

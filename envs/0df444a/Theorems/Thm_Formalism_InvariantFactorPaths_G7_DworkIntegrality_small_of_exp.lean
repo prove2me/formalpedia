@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_DworkIntegrality_small_of_exp
 -- name    : Formalism.InvariantFactorPaths.G7.DworkIntegrality.small_of_exp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:26:31.481599+00:00
 -- url     : https://prove2.me/theorems/6dcacb43-b2d7-4205-b5df-b26b9f472956

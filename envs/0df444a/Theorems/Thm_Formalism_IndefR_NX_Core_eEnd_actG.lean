@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_NX_Core_eEnd_actG
 -- name    : Formalism.IndefR.NX.Core.eEnd_actG
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:23.291649+00:00
 -- url     : https://prove2.me/theorems/84fa19a6-46d3-4ee2-bab9-a27914b4e775

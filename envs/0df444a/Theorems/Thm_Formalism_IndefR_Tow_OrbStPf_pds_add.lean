@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Tow_OrbStPf_pds_add
 -- name    : Formalism.IndefR.Tow.OrbStPf.pds_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:17:16.270452+00:00
 -- url     : https://prove2.me/theorems/8a8c1e97-93da-4ab3-aadc-3609c0fb3cb0

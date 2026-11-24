@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qn_weightSp_coeff
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qn_weightSp_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:08.94881+00:00
 -- url     : https://prove2.me/theorems/c9a19840-48ad-45e7-8bd5-96cf46ad1d52

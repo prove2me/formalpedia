@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_ExpansionTerms_degStepBound
 -- name    : Formalism.HermitianLatticeCounting.Final.ExpansionTerms.degStepBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:34.141979+00:00
 -- url     : https://prove2.me/theorems/83daac19-ca67-457b-abb7-676228f5ea4c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qb_psi_le
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qb_psi_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:18:48.174735+00:00
 -- url     : https://prove2.me/theorems/d86c0a51-e011-4495-91e8-d6edcee591a3

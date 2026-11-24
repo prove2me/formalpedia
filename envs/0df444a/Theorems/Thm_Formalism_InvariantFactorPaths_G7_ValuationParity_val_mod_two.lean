@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_ValuationParity_val_mod_two
 -- name    : Formalism.InvariantFactorPaths.G7.ValuationParity.val_mod_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:56:09.180091+00:00
 -- url     : https://prove2.me/theorems/9ae82b9b-c81c-4968-9580-4ecb9ac11933

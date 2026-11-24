@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_EDec_integral_altSum
 -- name    : Formalism.InvariantFactorPaths.G7.EDec.integral_altSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:25.269914+00:00
 -- url     : https://prove2.me/theorems/1fa111c8-9b0c-4774-9a7f-f0697ed58b40

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_bounds_class_field_fixed
 -- name    : Formalism.DivisionValues.bounds_class_field_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:22:14.352196+00:00
 -- url     : https://prove2.me/theorems/2e92e71f-2f51-425a-9649-d4d69e227cbc

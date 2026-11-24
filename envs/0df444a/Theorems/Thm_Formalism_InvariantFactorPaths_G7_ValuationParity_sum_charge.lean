@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_ValuationParity_sum_charge
 -- name    : Formalism.InvariantFactorPaths.G7.ValuationParity.sum_charge
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:09.229944+00:00
 -- url     : https://prove2.me/theorems/ff9957cb-2891-4611-93bc-b94d116800d8

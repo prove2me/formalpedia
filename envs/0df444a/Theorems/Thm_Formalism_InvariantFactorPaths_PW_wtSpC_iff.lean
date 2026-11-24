@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_wtSpC_iff
 -- name    : Formalism.InvariantFactorPaths.PW.wtSpC_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:18:34.62495+00:00
 -- url     : https://prove2.me/theorems/bfc59416-e01b-4831-a63b-99e58c5cd4aa

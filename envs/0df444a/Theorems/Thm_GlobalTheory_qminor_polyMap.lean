@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_qminor_polyMap
 -- name    : GlobalTheory.qminor_polyMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:14:16.808639+00:00
 -- url     : https://prove2.me/theorems/d9bc8266-342d-42fe-a132-083562676a77

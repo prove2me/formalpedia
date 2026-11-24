@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_hermitianFormColumns_nkM_succ
 -- name    : Formalism.HermitianLattices.Ext.L3.hermitianFormColumns.nkM_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:53:25.421238+00:00
 -- url     : https://prove2.me/theorems/8f8dc2a8-2da0-44da-814e-4433318a738f

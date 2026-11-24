@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_U3_absNorm_extP_pow
 -- name    : Formalism.HermitianLattices.Ext.L3.U3.absNorm_extP_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:57.068119+00:00
 -- url     : https://prove2.me/theorems/ddb201b2-3a98-4710-8c2c-1d92fda5328d

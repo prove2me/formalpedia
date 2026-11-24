@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIso_of_isFinite_of_birational
 -- name    : GlobalTheory.isIso_of_isFinite_of_birational
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:14:32.744793+00:00
 -- url     : https://prove2.me/theorems/4dfbcfdb-09e6-4e80-a69e-e2b5d3e708a9

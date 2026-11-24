@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_EDec_low_sPos_sub
 -- name    : Formalism.InvariantFactorPaths.G7.EDec.low_sPos_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:12:28.376635+00:00
 -- url     : https://prove2.me/theorems/5657e206-78ea-4ef4-ad25-434b8fd0c5a7

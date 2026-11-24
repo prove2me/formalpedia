@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_gramHerm
 -- name    : Formalism.L2.DIV.gramHerm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:47:56.763699+00:00
 -- url     : https://prove2.me/theorems/ddb3a365-d2c1-47cc-be1e-3bd5d9b21ecd

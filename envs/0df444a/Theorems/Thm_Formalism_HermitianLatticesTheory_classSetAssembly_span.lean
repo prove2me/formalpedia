@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_classSetAssembly_span
 -- name    : Formalism.HermitianLatticesTheory.classSetAssembly_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:41:47.472676+00:00
 -- url     : https://prove2.me/theorems/ac4761ab-a998-4f3c-b336-17b73072ca95

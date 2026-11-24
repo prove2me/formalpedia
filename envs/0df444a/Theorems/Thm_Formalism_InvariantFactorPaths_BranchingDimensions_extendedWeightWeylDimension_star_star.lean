@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_extendedWeightWeylDimension_star_star
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.extendedWeightWeylDimension.star_star
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:47:19.010058+00:00
 -- url     : https://prove2.me/theorems/745628fe-98a0-45ce-9a9f-16f588db3feb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_CSym_eF_of_genE_mul
 -- name    : Formalism.InvariantFactorPaths.G7.CSym.eF_of_genE_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:26:02.073802+00:00
 -- url     : https://prove2.me/theorems/6fc79b2f-9d51-4ea6-9bf4-e5c9ac3f7ff5

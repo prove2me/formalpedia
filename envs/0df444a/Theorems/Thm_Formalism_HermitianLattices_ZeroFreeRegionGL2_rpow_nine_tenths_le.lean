@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ZeroFreeRegionGL2_rpow_nine_tenths_le
 -- name    : Formalism.HermitianLattices.ZeroFreeRegionGL2.rpow_nine_tenths_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:05:04.466421+00:00
 -- url     : https://prove2.me/theorems/ceb9bac1-0a6e-4f67-8615-75b8e71b8125

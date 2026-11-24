@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameValue_isLift_sym
 -- name    : GlobalTheory.FrameValue.isLift_sym
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:14:23.625983+00:00
 -- url     : https://prove2.me/theorems/bb923151-96f5-43c8-961d-fa53174ada65

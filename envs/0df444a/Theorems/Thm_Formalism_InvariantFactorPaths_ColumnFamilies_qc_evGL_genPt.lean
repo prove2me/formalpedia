@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qc_evGL_genPt
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qc_evGL_genPt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:21:02.67999+00:00
 -- url     : https://prove2.me/theorems/6b4093a6-9d27-4f4c-899e-6ac8fd881a13

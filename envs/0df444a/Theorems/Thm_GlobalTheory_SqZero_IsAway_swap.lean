@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_IsAway_swap
 -- name    : GlobalTheory.SqZero.IsAway.swap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:03:58.295835+00:00
 -- url     : https://prove2.me/theorems/b385537c-8d40-4d42-b1d0-6040ae4eff98

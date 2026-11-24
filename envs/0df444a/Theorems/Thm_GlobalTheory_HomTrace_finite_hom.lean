@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HomTrace_finite_hom
 -- name    : GlobalTheory.HomTrace.finite_hom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:14:58.276842+00:00
 -- url     : https://prove2.me/theorems/1670009f-d3e9-48b4-9d80-70839b84e869

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_MeanC_one_lt_absNorm
 -- name    : Formalism.HermitianLattices.Ext.L3.MeanC.one_lt_absNorm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:04.959949+00:00
 -- url     : https://prove2.me/theorems/017947fd-7636-46e5-a153-cf60b8646a8c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BoxCube_card_box_le
 -- name    : Formalism.HermitianLattices.Ext.L3.BoxCube.card_box_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:45:33.155746+00:00
 -- url     : https://prove2.me/theorems/a62d17f5-1425-4295-8acf-e26a6e7d2bc7

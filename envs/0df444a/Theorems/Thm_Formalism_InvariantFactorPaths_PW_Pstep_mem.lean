@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_Pstep_mem
 -- name    : Formalism.InvariantFactorPaths.PW.Pstep_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:04:20.359583+00:00
 -- url     : https://prove2.me/theorems/00e40f48-505d-4f78-a22b-e0d10303d1e9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Measures_modulus_ne_zero
 -- name    : GroundTheory.Automorphic.Measures.modulus_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:56.880976+00:00
 -- url     : https://prove2.me/theorems/c5cc0dd4-4450-4026-8ed6-428bc23f7a35

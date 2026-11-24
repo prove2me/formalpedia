@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_EDec_cg_frob_add_pow
 -- name    : Formalism.InvariantFactorPaths.G7.EDec.cg_frob_add_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:35.787406+00:00
 -- url     : https://prove2.me/theorems/235ebe42-2af4-4587-8566-20a7ef4663a2

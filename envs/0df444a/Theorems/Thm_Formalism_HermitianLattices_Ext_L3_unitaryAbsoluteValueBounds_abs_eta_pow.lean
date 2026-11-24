@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_unitaryAbsoluteValueBounds_abs_eta_pow
 -- name    : Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.abs_eta_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:14:41.948284+00:00
 -- url     : https://prove2.me/theorems/6667376c-ab28-4e31-89ad-111bd2d4e569

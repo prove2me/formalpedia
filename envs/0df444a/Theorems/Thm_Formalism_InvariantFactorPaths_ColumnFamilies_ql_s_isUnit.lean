@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_ql_s_isUnit
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.ql_s_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:51:30.719622+00:00
 -- url     : https://prove2.me/theorems/c416a602-ba23-4842-9d51-c8516cee8085

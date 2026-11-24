@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_Cell_InI_zero
 -- name    : Formalism.HermitianLattices.Ext.L3.Cell.InI.zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:28:41.7968+00:00
 -- url     : https://prove2.me/theorems/d40882a5-5706-4eb0-81d0-604f31a74aa6

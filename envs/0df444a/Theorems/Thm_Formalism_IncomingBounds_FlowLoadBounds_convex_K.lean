@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_FlowLoadBounds_convex_K
 -- name    : Formalism.IncomingBounds.FlowLoadBounds.convex_K
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:11:48.67253+00:00
 -- url     : https://prove2.me/theorems/d81c1448-269f-4bd4-ae74-efeb9d7e66b7

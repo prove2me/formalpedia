@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_unitaryAbsoluteValueBounds_geom_bound
 -- name    : Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.geom_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:46.157882+00:00
 -- url     : https://prove2.me/theorems/80440c5b-bd29-4b0b-a880-341cc7c7857c

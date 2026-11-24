@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymLiftOdd_negT_eq
 -- name    : GlobalTheory.SymLiftOdd.negT_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:02:38.6676+00:00
 -- url     : https://prove2.me/theorems/09949513-26df-4ada-afa2-9be359143dd5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qa_fill_cnt
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qa_fill_cnt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:48:41.6487+00:00
 -- url     : https://prove2.me/theorems/f6666394-9966-4ba8-a02b-be5f874eb039

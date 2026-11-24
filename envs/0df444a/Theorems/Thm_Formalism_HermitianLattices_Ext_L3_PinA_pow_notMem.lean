@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_PinA_pow_notMem
 -- name    : Formalism.HermitianLattices.Ext.L3.PinA.pow_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:02:34.84967+00:00
 -- url     : https://prove2.me/theorems/5d64e23e-449d-4471-b2c2-e003b9729c1b

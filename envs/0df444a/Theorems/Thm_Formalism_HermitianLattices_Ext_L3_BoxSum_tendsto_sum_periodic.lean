@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BoxSum_tendsto_sum_periodic
 -- name    : Formalism.HermitianLattices.Ext.L3.BoxSum.tendsto_sum_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:47:00.250258+00:00
 -- url     : https://prove2.me/theorems/b28d572d-bbb9-4532-a5da-20f9998e7ac2

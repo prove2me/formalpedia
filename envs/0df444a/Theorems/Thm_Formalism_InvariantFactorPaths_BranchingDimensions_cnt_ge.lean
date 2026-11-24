@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_cnt_ge
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.cnt_ge
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:50.730891+00:00
 -- url     : https://prove2.me/theorems/8e048bc5-a7f9-4d1d-b0d3-103981fe88a9

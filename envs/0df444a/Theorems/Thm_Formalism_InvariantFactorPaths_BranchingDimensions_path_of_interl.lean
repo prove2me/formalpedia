@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_path_of_interl
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.path_of_interl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:13:12.477539+00:00
 -- url     : https://prove2.me/theorems/1b71d7d4-1ce6-4c4c-bf91-9fac81851f32

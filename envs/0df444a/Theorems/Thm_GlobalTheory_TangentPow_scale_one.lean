@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TangentPow_scale_one
 -- name    : GlobalTheory.TangentPow.scale_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:43.036999+00:00
 -- url     : https://prove2.me/theorems/491ee81e-e257-4e6e-b594-563a253a433c

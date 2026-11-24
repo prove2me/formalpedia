@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_EDec_tpS_pos
 -- name    : Formalism.InvariantFactorPaths.G7.EDec.tpS_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:39.613034+00:00
 -- url     : https://prove2.me/theorems/7ef13d32-883d-4525-b1a3-54fede68098d

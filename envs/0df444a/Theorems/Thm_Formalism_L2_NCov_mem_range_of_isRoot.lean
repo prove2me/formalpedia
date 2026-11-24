@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NCov_mem_range_of_isRoot
 -- name    : Formalism.L2.NCov.mem_range_of_isRoot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:37.482806+00:00
 -- url     : https://prove2.me/theorems/8c5f2b73-fc9d-440b-9369-491b50d7fbd4

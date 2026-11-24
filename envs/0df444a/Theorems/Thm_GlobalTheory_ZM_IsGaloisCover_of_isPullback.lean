@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_IsGaloisCover_of_isPullback
 -- name    : GlobalTheory.ZM.IsGaloisCover.of_isPullback
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:29.928608+00:00
 -- url     : https://prove2.me/theorems/5b4280a5-ebff-4d03-acb3-c2a9bbaec763

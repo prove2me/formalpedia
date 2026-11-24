@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m89_density_pointwise_limit
 -- name    : Kyprianou.Ch08.StageB.p2m89_density_pointwise_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T08:24:44.319822+00:00
 -- url     : https://prove2.me/theorems/6bf5ed6d-88d6-4a14-a579-2c2552810144

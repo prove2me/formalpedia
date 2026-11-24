@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_CoboundarySeries_partial_coboundary_C_mul
 -- name    : Formalism.InvariantFactorPaths.G7.CoboundarySeries.partial_coboundary_C_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:53:25.087588+00:00
 -- url     : https://prove2.me/theorems/d7c07d27-c839-4979-b46e-95bc776eceb0

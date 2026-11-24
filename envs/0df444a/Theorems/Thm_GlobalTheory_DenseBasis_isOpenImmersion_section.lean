@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DenseBasis_isOpenImmersion_section
 -- name    : GlobalTheory.DenseBasis.isOpenImmersion_section
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:36.468174+00:00
 -- url     : https://prove2.me/theorems/80d1ab7d-8f0a-4a67-90b2-23daf2d66fa1

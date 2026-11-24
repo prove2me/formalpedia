@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_NormOneGroup_normOne_mk_iff
 -- name    : Formalism.HermitianLattices.Ext.L3.NormOneGroup.normOne_mk_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:06:30.813427+00:00
 -- url     : https://prove2.me/theorems/d794fe12-0351-404c-92c6-31605a680f19

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_WModel_maxIdeal_eq
 -- name    : Formalism.InvariantFactorPaths.G7.WModel.maxIdeal_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:39.296411+00:00
 -- url     : https://prove2.me/theorems/f9e6a6f8-cdf2-4588-882b-c8180a944d5d

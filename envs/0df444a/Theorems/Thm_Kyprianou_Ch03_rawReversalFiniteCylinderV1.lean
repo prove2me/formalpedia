@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_rawReversalFiniteCylinderV1
 -- name    : Kyprianou.Ch03.rawReversalFiniteCylinderV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T08:06:58.988834+00:00
 -- url     : https://prove2.me/theorems/8ac9ed28-eeeb-4802-8031-7ce3fe9b88b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RHX1000000_Slab_cell_09
 -- name    : RHX1000000.Slab.cell_09
--- status  : Open
+-- status  : Proved
 -- author  : @@bwdaugherty
 -- created : 2026-11-24T09:25:15.399378+00:00
 -- url     : https://prove2.me/theorems/8e18e03d-64ef-4b98-bcac-f856a20b095b

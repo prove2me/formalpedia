@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffExt_mem_Dcris_iff
 -- name    : GlobalTheory.CoeffExt.mem_Dcris_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:39.036821+00:00
 -- url     : https://prove2.me/theorems/44a24ab9-6d6c-4ec5-adc7-3d39e55d184f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_MeanC_card_out_mem
 -- name    : Formalism.HermitianLattices.Ext.L3.MeanC.card_out_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:48.110631+00:00
 -- url     : https://prove2.me/theorems/a6a33cee-645c-4a56-a07b-b304cdda9113

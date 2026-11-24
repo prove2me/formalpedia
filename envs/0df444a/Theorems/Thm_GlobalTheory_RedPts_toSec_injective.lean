@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RedPts_toSec_injective
 -- name    : GlobalTheory.RedPts.toSec_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:04:05.912113+00:00
 -- url     : https://prove2.me/theorems/895b3d62-31f9-4fbe-b9cd-9ff5e4b689e3

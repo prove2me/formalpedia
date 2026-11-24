@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GL2PrimeSums_central_sum_estimate
 -- name    : Formalism.HermitianLattices.GL2PrimeSums.central_sum_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:55.960433+00:00
 -- url     : https://prove2.me/theorems/dcab7513-8569-4b24-90a1-e1cba6553239

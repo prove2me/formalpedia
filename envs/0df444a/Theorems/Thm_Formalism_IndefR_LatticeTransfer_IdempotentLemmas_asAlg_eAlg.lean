@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_IdempotentLemmas_asAlg_eAlg
 -- name    : Formalism.IndefR.LatticeTransfer.IdempotentLemmas.asAlg_eAlg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:25.713805+00:00
 -- url     : https://prove2.me/theorems/8b385d81-7c2e-4c6d-8ae9-975c81776dc2

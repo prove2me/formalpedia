@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_IsInv_mk_eq
 -- name    : Formalism.IndefR.Fin.Four.IsInv.mk_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:05.903802+00:00
 -- url     : https://prove2.me/theorems/0258c0d1-660e-4c2d-b90c-846dbd32e38a

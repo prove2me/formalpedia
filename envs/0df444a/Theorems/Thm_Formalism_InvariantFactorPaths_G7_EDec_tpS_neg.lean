@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_EDec_tpS_neg
 -- name    : Formalism.InvariantFactorPaths.G7.EDec.tpS_neg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:57.807799+00:00
 -- url     : https://prove2.me/theorems/91e44421-037a-4f1d-be30-f4229e281ef5

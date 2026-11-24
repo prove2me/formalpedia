@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_stepB_of
 -- name    : Formalism.DivisionValues.stepB_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:53.345534+00:00
 -- url     : https://prove2.me/theorems/dd55cb0c-5fe9-4ab3-926a-8f9eae81578d

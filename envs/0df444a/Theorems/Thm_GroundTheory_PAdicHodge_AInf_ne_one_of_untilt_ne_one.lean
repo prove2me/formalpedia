@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_ne_one_of_untilt_ne_one
 -- name    : GroundTheory.PAdicHodge.AInf.ne_one_of_untilt_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:04:32.655542+00:00
 -- url     : https://prove2.me/theorems/16f06c53-40d6-4376-8812-bdd8bc42d88f

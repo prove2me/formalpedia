@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_omB_mul
 -- name    : GlobalTheory.SplitFlip.omB_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:33:58.405683+00:00
 -- url     : https://prove2.me/theorems/4db9f8f2-679e-4fcb-bcf0-3e540fd0096b

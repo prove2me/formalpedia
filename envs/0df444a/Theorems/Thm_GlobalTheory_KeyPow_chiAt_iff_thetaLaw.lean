@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyPow_chiAt_iff_thetaLaw
 -- name    : GlobalTheory.KeyPow.chiAt_iff_thetaLaw
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:32.427821+00:00
 -- url     : https://prove2.me/theorems/fc4247e2-3354-4281-a4dd-d3c5a6018751

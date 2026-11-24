@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RHX1000000_Slab_clear
 -- name    : RHX1000000.Slab.clear
--- status  : Open
+-- status  : Proved
 -- author  : @@bwdaugherty
 -- created : 2026-11-24T09:25:38.099114+00:00
 -- url     : https://prove2.me/theorems/424ccd36-362e-47bb-82fc-471b6e6b3b56

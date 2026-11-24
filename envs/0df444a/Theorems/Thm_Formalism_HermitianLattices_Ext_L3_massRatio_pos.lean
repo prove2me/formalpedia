@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_massRatio_pos
 -- name    : Formalism.HermitianLattices.Ext.L3.massRatio_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:03:42.732713+00:00
 -- url     : https://prove2.me/theorems/91123607-429e-495d-8aef-88f8c0030ffe

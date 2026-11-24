@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_final_traceReal
 -- name    : Formalism.HermitianLatticesTheory.final_traceReal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:42:13.841726+00:00
 -- url     : https://prove2.me/theorems/e5b5c036-510b-47b8-a878-5cd0981b7a6f

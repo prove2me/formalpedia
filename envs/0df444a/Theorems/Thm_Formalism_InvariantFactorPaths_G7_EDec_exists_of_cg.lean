@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_EDec_exists_of_cg
 -- name    : Formalism.InvariantFactorPaths.G7.EDec.exists_of_cg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:43.809934+00:00
 -- url     : https://prove2.me/theorems/a831fd8b-3b55-4b05-804a-adbd23422e85
