@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_WA_exists_trace_eq
 -- name    : Formalism.HermitianLattices.Ext.L3.WA.exists_trace_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:43.700887+00:00
 -- url     : https://prove2.me/theorems/12d9983a-e63e-4b3b-87d8-250906b8fd53

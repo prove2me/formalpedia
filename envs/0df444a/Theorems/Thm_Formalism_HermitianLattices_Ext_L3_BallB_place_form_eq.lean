@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallB_place_form_eq
 -- name    : Formalism.HermitianLattices.Ext.L3.BallB.place_form_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:46:03.863573+00:00
 -- url     : https://prove2.me/theorems/3a9197eb-6343-41e6-bb43-55212acdea9d

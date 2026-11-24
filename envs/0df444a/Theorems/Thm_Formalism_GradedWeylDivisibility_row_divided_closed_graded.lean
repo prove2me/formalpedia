@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_row_divided_closed_graded
 -- name    : Formalism.GradedWeylDivisibility.row_divided_closed_graded
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:24.148625+00:00
 -- url     : https://prove2.me/theorems/b3ca69b5-5a4d-4e4a-b9d1-3c7933f53b10

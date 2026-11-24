@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhosphorylationSharpness_conversion_eventually_positive
 -- name    : PhosphorylationSharpness.conversion_eventually_positive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:22:52.541764+00:00
 -- url     : https://prove2.me/theorems/a55bef83-ad8a-4f0e-83c0-b9854cf55ceb

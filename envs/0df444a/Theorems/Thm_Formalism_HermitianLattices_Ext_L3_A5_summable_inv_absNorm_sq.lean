@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_A5_summable_inv_absNorm_sq
 -- name    : Formalism.HermitianLattices.Ext.L3.A5.summable_inv_absNorm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:44:16.804515+00:00
 -- url     : https://prove2.me/theorems/21373a75-e430-4d30-a534-c0184ff4815c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_NormLifting_card_lift
 -- name    : Formalism.HermitianLattices.Ext.L3.NormLifting.card_lift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:52:17.906406+00:00
 -- url     : https://prove2.me/theorems/0a8816c4-9272-48e2-8eaa-27ceaea6e0f4

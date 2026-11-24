@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_triangular_sum_exponent_bound
 -- name    : Formalism.HermitianLattices.GlobalBoundRefinements.triangular_sum_exponent_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:28.623527+00:00
 -- url     : https://prove2.me/theorems/860b07ef-161c-4dd1-a406-2f76d6decc5d

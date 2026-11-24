@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SlopeSteps_fqB_apply
 -- name    : PI.SlopeSteps.fqB_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:27.675993+00:00
 -- url     : https://prove2.me/theorems/6e4088a9-375e-4392-a542-8757f794cd3b

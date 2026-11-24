@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_orderedProduct_adjacent_swap_identity
 -- name    : Formalism.HermitianLatticeCounting.P.orderedProduct_adjacent_swap_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:42:14.258446+00:00
 -- url     : https://prove2.me/theorems/917eff36-1a62-4170-a215-f2ceb8d93f31

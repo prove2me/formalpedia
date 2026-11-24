@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_quotient_lattice_realization
 -- name    : Formalism.HN.quotient_lattice_realization
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:50.084835+00:00
 -- url     : https://prove2.me/theorems/1bf1b6f7-0746-4e4a-900a-9f7883d52bb6

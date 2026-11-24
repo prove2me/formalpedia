@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AddUN_add_universallyNull_le_non_null
 -- name    : AddUN.add_universallyNull_le_non_null
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:24:14.257808+00:00
 -- url     : https://prove2.me/theorems/e641b857-3571-4458-bfbe-6bedb662b9ae

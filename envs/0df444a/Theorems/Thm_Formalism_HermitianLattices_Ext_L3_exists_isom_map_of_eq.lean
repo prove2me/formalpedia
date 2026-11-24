@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_exists_isom_map_of_eq
 -- name    : Formalism.HermitianLattices.Ext.L3.exists_isom_map_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:15:59.812282+00:00
 -- url     : https://prove2.me/theorems/f3175af1-423e-4fe9-88b8-73abd532d183

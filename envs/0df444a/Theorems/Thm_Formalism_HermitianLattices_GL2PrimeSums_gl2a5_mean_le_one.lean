@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GL2PrimeSums_gl2a5_mean_le_one
 -- name    : Formalism.HermitianLattices.GL2PrimeSums.gl2a5_mean_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:11.472403+00:00
 -- url     : https://prove2.me/theorems/60b17522-7ec2-46b9-be18-770d615f7180

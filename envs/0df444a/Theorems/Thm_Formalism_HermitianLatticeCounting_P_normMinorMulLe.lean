@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_normMinorMulLe
 -- name    : Formalism.HermitianLatticeCounting.P.normMinorMulLe
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:43.653825+00:00
 -- url     : https://prove2.me/theorems/eb530a14-ec90-449c-9ffb-b7f8588170ef

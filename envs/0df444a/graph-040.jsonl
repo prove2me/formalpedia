@@ -18366,10 +18366,10 @@
 {"parent": "RH1E6S17.part_086_0", "child": "ArdaRS_Dyadic", "via": ["statement"]}
 {"parent": "RH1E6S17.part_086_0", "child": "ArdaRH65K_Probes_ArbEconomics_Sound", "via": ["statement"]}
 {"parent": "RH1E6S17.part_086_0", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.highest_weight_line_tall", "child": "Formalism_GradedWeylDivisibility_DualWeylDominanceOf", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.highest_weight_line_tall", "child": "Formalism_GradedWeylDivisibility_StatementB", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.highest_weight_line_tall", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LHwlineLemmas", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.highest_weight_line_tall", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_HWLineTall", "via": ["statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.highest_weight_line_tall", "child": "Formalism_GradedWeylDivisibility_DualWeylDominanceOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.highest_weight_line_tall", "child": "Formalism_GradedWeylDivisibility_StatementB", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.highest_weight_line_tall", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LHwlineLemmas", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.highest_weight_line_tall", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_HWLineTall", "via": ["solution", "statement"]}
 {"parent": "Formalism.GM.M.PhiIntegrality.contr_pow", "child": "Formalism_MahlerMeasure_MahlerMeasureProofs_PhiInt", "via": ["solution", "statement"]}
 {"parent": "Formalism.GM.M.PhiIntegrality.contr_pow", "child": "Formalism_MahlerMeasure_IsIntegral", "via": ["solution", "statement"]}
 {"parent": "RH1E6S17.part_079_1", "child": "ArdaRS_Band", "via": ["statement"]}
@@ -25475,10 +25475,10 @@
 {"parent": "ReciprocityTheory.ChartRestriction.G.Geo.exists_eval_cons_one_ne_zero", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterGoodD", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.Geo.exists_eval_cons_one_ne_zero", "child": "Lemmata_FirstBlockLemmaA_Imports", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.Geo.exists_eval_cons_one_ne_zero", "child": "Lemmata_GeneralBFactMore_Imports", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.highest_weight_line", "child": "Formalism_GradedWeylDivisibility_DualWeylDominanceOf", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.highest_weight_line", "child": "Formalism_GradedWeylDivisibility_StatementB", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.highest_weight_line", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LHwlineLemmas", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.highest_weight_line", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_HWLine", "via": ["statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.highest_weight_line", "child": "Formalism_GradedWeylDivisibility_DualWeylDominanceOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.highest_weight_line", "child": "Formalism_GradedWeylDivisibility_StatementB", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.highest_weight_line", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LHwlineLemmas", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.highest_weight_line", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_HWLine", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_Inter_ThmIExists_hermLine_ext_b7bdcdc64384", "child": "GroundTheory_HeightsAndTheta_Heights_Intersections_StatementsArith", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_Inter_ThmIExists_hermLine_ext_b7bdcdc64384", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovGeometry_IsMultiHomogXpow", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_Inter_ThmIExists_hermLine_ext_b7bdcdc64384", "child": "GroundTheory_HeightsAndTheta_Heights_Intersections_ThmIExistsFamily", "via": ["solution", "statement"]}
@@ -67638,7 +67638,7 @@
 {"parent": "ULHC.src_notouch", "child": "ULHC_NearCA", "via": ["solution", "statement"]}
 {"parent": "ULHC.sidesIn_EB_even", "child": "ULHC_Chain", "via": ["solution", "statement"]}
 {"parent": "ULHC.sidesIn_EB_even", "child": "ULHC_V2", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch08.StageB.p2m87_qpos_factor_positive_time_shift", "child": "Kyprianou_Ch08_StageCFoundation_B", "via": ["statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m87_qpos_factor_positive_time_shift", "child": "Kyprianou_Ch08_StageCFoundation_B", "via": ["solution", "statement"]}
 {"parent": "ULHC.link_cells", "child": "ULHC_ChainLinks", "via": ["solution", "statement"]}
 {"parent": "ULHC.link_cells", "child": "ULHC_MinPath", "via": ["solution", "statement"]}
 {"parent": "ULHC.link_cells", "child": "ULHC_LinkGraph", "via": ["solution", "statement"]}
@@ -71588,18 +71588,18 @@
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ArithDegree", "child": "GroundTheory_HeightsAndTheta_Heights_HermitianTensor", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ArithDegree", "child": "P2M_GroundTheory_Heights__Heights_HermitianMetric_integers_inner_66e5d940cc4d", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StCMProjDimCriterion", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StTransverseObjects", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.ht_dual_ann", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_ShiftInvariance", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.ht_dual_ann", "child": "Formalism_HarderNarasimhan_QuotRealize", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.ht_dual_ann", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_SatBasic", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.ht_dual_ann", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DegSupermodZ", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.ht_dual_ann", "child": "Formalism_LatticeSlopes_ExistsSaturatedSlopeEqMuMax", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.ht_dual_ann", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_Duality", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.ht_dual_ann", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_MuChar", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.ht_dual_ann", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_PlaceSplit", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.ht_dual_ann", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_ExistsSmulMemOfFinrankEq", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.ht_dual_ann", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DualPl", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.ht_dual_ann", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_SizeMu", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.ht_dual_ann", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DiscreteSpanOfLinIndep", "via": ["statement"]}
+{"parent": "Formalism.HN.DualPolygon.ht_dual_ann", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_ShiftInvariance", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.ht_dual_ann", "child": "Formalism_HarderNarasimhan_QuotRealize", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.ht_dual_ann", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_SatBasic", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.ht_dual_ann", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DegSupermodZ", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.ht_dual_ann", "child": "Formalism_LatticeSlopes_ExistsSaturatedSlopeEqMuMax", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.ht_dual_ann", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_Duality", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.ht_dual_ann", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_MuChar", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.ht_dual_ann", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_PlaceSplit", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.ht_dual_ann", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_ExistsSmulMemOfFinrankEq", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.ht_dual_ann", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DualPl", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.ht_dual_ann", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_SizeMu", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.ht_dual_ann", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DiscreteSpanOfLinIndep", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_SiegelParabolicTransformPhase", "child": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_SymplecticSiegelActionMemUpperHalfSpaceAndCocycl", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_SiegelParabolicTransformPhase", "child": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_SiegelThetaTransformationSiegelParabolic", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_SiegelParabolicTransformPhase", "child": "Development_AbelianVarietyTheory_Definitions_SpanningFamilies_IntMIffInt", "via": ["statement"]}
@@ -73866,8 +73866,8 @@
 {"parent": "Formalism.IndefR.Fin.Four.integ_eq", "child": "Formalism_LocalToGlobal_IndefiniteReal_FinitePlaces_SmulSubMulLe", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_FundamentalDomainL2Bound", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_LocallyIntegrableRep", "via": ["statement"]}
 {"parent": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_MeasInvStatementPfG", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_MeasInvStatementPfF", "via": ["statement"]}
-{"parent": "Kyprianou.Ch08.StageB.p2m87_qpos_factor_enreal_stopped_reward_factor", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["statement"]}
-{"parent": "Kyprianou.Ch08.StageB.p2m87_qpos_factor_enreal_stopped_reward_factor", "child": "Kyprianou_Ch08_StageCFoundation_B", "via": ["statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m87_qpos_factor_enreal_stopped_reward_factor", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m87_qpos_factor_enreal_stopped_reward_factor", "child": "Kyprianou_Ch08_StageCFoundation_B", "via": ["solution", "statement"]}
 {"parent": "P2M_GlobalTheory_GermExist_unit_comp_prim__a51190ddb949", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_ChartChg", "via": ["solution", "statement"]}
 {"parent": "P2M_GlobalTheory_GermExist_unit_comp_prim__a51190ddb949", "child": "Development_AbelianVarietyTheory_Proofs_FormalGroupCharts_TopLePreimageWchart", "via": ["solution", "statement"]}
 {"parent": "P2M_GlobalTheory_GermExist_unit_comp_prim__a51190ddb949", "child": "Development_AbelianVarietyTheory_Definitions_TwoChartAtlas_TwoChartSt", "via": ["solution", "statement"]}
@@ -95522,9 +95522,9 @@
 {"parent": "GlobalTheory.ThetaBundleSym.isUnit_of_complex_points", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_PullUUnitsCompatGeneric", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.ThKG.Std.detB", "child": "Development_WeilBound_ThetaLifts_LocalTheory_StandardValuations_IntIndPow", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.ThKG.Std.detB", "child": "Development_WeilBound_ThetaLifts_LocalTheory_StandardValuations_SplitProd", "via": ["solution", "statement"]}
-{"parent": "WeightedEdgeColor.lemma_profile_selection", "child": "WeightedEdgeColor_WGraph_IsFeasiblePartialColoring", "via": ["statement"]}
-{"parent": "WeightedEdgeColor.lemma_profile_selection", "child": "WeightedEdgeColor_WGraph", "via": ["statement"]}
-{"parent": "WeightedEdgeColor.lemma_profile_selection", "child": "WeightedEdgeColor_IsAvgOfFeasibleSets", "via": ["statement"]}
+{"parent": "WeightedEdgeColor.lemma_profile_selection", "child": "WeightedEdgeColor_WGraph_IsFeasiblePartialColoring", "via": ["solution", "statement"]}
+{"parent": "WeightedEdgeColor.lemma_profile_selection", "child": "WeightedEdgeColor_WGraph", "via": ["solution", "statement"]}
+{"parent": "WeightedEdgeColor.lemma_profile_selection", "child": "WeightedEdgeColor_IsAvgOfFeasibleSets", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_StrongApprox_LocalInClosure_proof_837219d902a0", "child": "GroundTheory_HeightsAndTheta_Heights_StrongApproximation_Statements", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_StrongApprox_LocalInClosure_proof_837219d902a0", "child": "GroundTheory_HeightsAndTheta_Heights_StrongApproximation_PLocalInClosure", "via": ["statement"]}
 {"parent": "PositivityTheory.ThKF0.Chr.isSp_kE", "child": "Development_WeilBound_ThetaLifts_LeviDeterminants_CharacterAdmissibility_SchrodingerApplyZeroOfFst", "via": ["solution", "statement"]}
@@ -99967,15 +99967,15 @@
 {"parent": "Formalism.GradedWeylDivisibility.lfockq_mat_conjTranspose", "child": "Formalism_GradedWeylDivisibility_StatementB", "via": ["solution", "statement"]}
 {"parent": "Formalism.GradedWeylDivisibility.lfockq_mat_conjTranspose", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LFocksLemmas", "via": ["solution", "statement"]}
 {"parent": "Formalism.GradedWeylDivisibility.lfockq_mat_conjTranspose", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockQRowDivAdj", "via": ["solution", "statement"]}
-{"parent": "Formalism.H.thetaSummable", "child": "Formalism_LatticeTheta_LatticeThetaProofs_Periodization", "via": ["statement"]}
-{"parent": "Formalism.H.thetaSummable", "child": "Formalism_LatticeTheta_LatticeThetaProofs_GaussSchwartz", "via": ["statement"]}
-{"parent": "Formalism.H.thetaSummable", "child": "Formalism_LatticeTheta_LatticeThetaProofs_UnfoldCoeff", "via": ["statement"]}
-{"parent": "Formalism.H.thetaSummable", "child": "Formalism_LatticeTheta_LatticeThetaProofs_DualLattice", "via": ["statement"]}
-{"parent": "Formalism.H.thetaSummable", "child": "Formalism_LatticeTheta_LatticeThetaProofs_LatticeSummableDecay", "via": ["statement"]}
-{"parent": "Formalism.H.thetaSummable", "child": "Formalism_LatticeTheta_LatticeThetaProofs_CovolumeDual", "via": ["statement"]}
-{"parent": "Formalism.H.thetaSummable", "child": "Formalism_LatticeTheta_LatticeThetaProofs_LatticeFourierSeries", "via": ["statement"]}
-{"parent": "Formalism.H.thetaSummable", "child": "Formalism_LatticeTheta_LatticeThetaProofs_Assembly", "via": ["statement"]}
-{"parent": "Formalism.H.thetaSummable", "child": "Formalism_LatticeTheta_ThetaShiftInversion", "via": ["statement"]}
+{"parent": "Formalism.H.thetaSummable", "child": "Formalism_LatticeTheta_LatticeThetaProofs_Periodization", "via": ["solution", "statement"]}
+{"parent": "Formalism.H.thetaSummable", "child": "Formalism_LatticeTheta_LatticeThetaProofs_GaussSchwartz", "via": ["solution", "statement"]}
+{"parent": "Formalism.H.thetaSummable", "child": "Formalism_LatticeTheta_LatticeThetaProofs_UnfoldCoeff", "via": ["solution", "statement"]}
+{"parent": "Formalism.H.thetaSummable", "child": "Formalism_LatticeTheta_LatticeThetaProofs_DualLattice", "via": ["solution", "statement"]}
+{"parent": "Formalism.H.thetaSummable", "child": "Formalism_LatticeTheta_LatticeThetaProofs_LatticeSummableDecay", "via": ["solution", "statement"]}
+{"parent": "Formalism.H.thetaSummable", "child": "Formalism_LatticeTheta_LatticeThetaProofs_CovolumeDual", "via": ["solution", "statement"]}
+{"parent": "Formalism.H.thetaSummable", "child": "Formalism_LatticeTheta_LatticeThetaProofs_LatticeFourierSeries", "via": ["solution", "statement"]}
+{"parent": "Formalism.H.thetaSummable", "child": "Formalism_LatticeTheta_LatticeThetaProofs_Assembly", "via": ["solution", "statement"]}
+{"parent": "Formalism.H.thetaSummable", "child": "Formalism_LatticeTheta_ThetaShiftInversion", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.DVR.exists_normalized", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_AppCompatGeneric", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.DVR.exists_normalized", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_PullUUnitsCompatGeneric", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.freeQuot_rank_span", "child": "Lemmata_MiscLemmasJ_Imports", "via": ["solution", "statement"]}

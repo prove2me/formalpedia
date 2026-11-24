@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_height_image_formula
 -- name    : Formalism.HN.height_image_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:27:07.197883+00:00
 -- url     : https://prove2.me/theorems/21561ba6-667a-4e17-99e9-503ad5e1f513

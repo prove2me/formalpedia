@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_MeanB_card_quot_extP
 -- name    : Formalism.HermitianLattices.Ext.L3.MeanB.card_quot_extP
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:13:46.264395+00:00
 -- url     : https://prove2.me/theorems/07c7275b-a3df-4c01-9d1d-9fe4a62c7486

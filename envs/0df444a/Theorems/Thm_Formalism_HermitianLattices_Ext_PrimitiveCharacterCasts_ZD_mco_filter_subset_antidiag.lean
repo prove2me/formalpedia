@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimitiveCharacterCasts_ZD_mco_filter_subset_antidiag
 -- name    : Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.ZD.mco_filter_subset_antidiag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:01.13801+00:00
 -- url     : https://prove2.me/theorems/b72849e1-a50f-48e1-9239-82f95066c87a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ZeroFreeRegionGL2_log_prime_size_bound
 -- name    : Formalism.HermitianLattices.ZeroFreeRegionGL2.log_prime_size_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:52.879475+00:00
 -- url     : https://prove2.me/theorems/dbf54fc9-6d7d-4764-9852-09840865c7f9

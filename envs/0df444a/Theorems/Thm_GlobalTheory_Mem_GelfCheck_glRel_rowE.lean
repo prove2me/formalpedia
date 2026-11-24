@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_GelfCheck_glRel_rowE
 -- name    : GlobalTheory.Mem.GelfCheck.glRel_rowE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:11:53.881037+00:00
 -- url     : https://prove2.me/theorems/5f6b1879-36aa-49cf-998b-26ef0e0780e0

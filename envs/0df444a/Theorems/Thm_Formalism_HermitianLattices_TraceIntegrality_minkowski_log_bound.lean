@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_minkowski_log_bound
 -- name    : Formalism.HermitianLattices.TraceIntegrality.minkowski_log_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:58.625266+00:00
 -- url     : https://prove2.me/theorems/bd7c3070-865c-43a0-a255-08ce65466609

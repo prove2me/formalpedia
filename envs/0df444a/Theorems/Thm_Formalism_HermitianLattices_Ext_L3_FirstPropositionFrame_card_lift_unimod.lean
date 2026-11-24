@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_FirstPropositionFrame_card_lift_unimod
 -- name    : Formalism.HermitianLattices.Ext.L3.FirstPropositionFrame.card_lift_unimod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:45:44.655914+00:00
 -- url     : https://prove2.me/theorems/01239a6f-3c6d-4f90-a883-94285e78c295

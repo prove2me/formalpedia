@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ModelCocycles_split_component_vanishes
 -- name    : Formalism.HermitianLattices.ModelCocycles.split_component_vanishes
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:37.80907+00:00
 -- url     : https://prove2.me/theorems/2320d979-8851-4a4b-a195-486ba2326220

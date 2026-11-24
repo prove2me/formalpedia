@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_U0_star_norm
 -- name    : Formalism.HermitianLattices.Ext.L3.U0.star_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:33.558811+00:00
 -- url     : https://prove2.me/theorems/57b66e4e-ce37-4f48-a4e4-39219cc29107

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LIOrb_index_tube
 -- name    : Formalism.HermitianLattices.Ext.L3.LIOrb.index_tube
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:52:10.63844+00:00
 -- url     : https://prove2.me/theorems/5b836eac-f99c-4a6e-82fa-e3e4048c8cb6

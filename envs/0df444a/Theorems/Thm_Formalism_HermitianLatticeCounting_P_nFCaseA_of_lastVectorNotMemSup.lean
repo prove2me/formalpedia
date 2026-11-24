@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_nFCaseA_of_lastVectorNotMemSup
 -- name    : Formalism.HermitianLatticeCounting.P.nFCaseA_of_lastVectorNotMemSup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:22.518488+00:00
 -- url     : https://prove2.me/theorems/caef62ec-8410-4b6f-bebe-9260b59909c4

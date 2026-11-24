@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_hnSlopes_of
 -- name    : Formalism.HN.hnSlopes_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:03.756349+00:00
 -- url     : https://prove2.me/theorems/e75003a1-d4c5-4692-9316-bb5df68829c3

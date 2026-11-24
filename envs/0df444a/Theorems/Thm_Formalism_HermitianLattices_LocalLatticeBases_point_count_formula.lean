@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_point_count_formula
 -- name    : Formalism.HermitianLattices.LocalLatticeBases.point_count_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:48.7951+00:00
 -- url     : https://prove2.me/theorems/bf860018-fa69-441b-b67f-436f8970390c

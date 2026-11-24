@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimitiveCharacterCasts_ZD_norm_cpow_neg_le_one
 -- name    : Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.ZD.norm_cpow_neg_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:38.134018+00:00
 -- url     : https://prove2.me/theorems/eb2bbd8b-015d-49af-9e0a-2156d5c327fb

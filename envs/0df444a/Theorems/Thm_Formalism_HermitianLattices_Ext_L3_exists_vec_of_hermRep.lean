@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_exists_vec_of_hermRep
 -- name    : Formalism.HermitianLattices.Ext.L3.exists_vec_of_hermRep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:05:37.816144+00:00
 -- url     : https://prove2.me/theorems/788c9d6e-b358-447a-8154-8cfd35831795

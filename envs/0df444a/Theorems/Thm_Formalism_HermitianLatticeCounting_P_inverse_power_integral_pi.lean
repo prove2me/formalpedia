@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_inverse_power_integral_pi
 -- name    : Formalism.HermitianLatticeCounting.P.inverse_power_integral_pi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:54.311122+00:00
 -- url     : https://prove2.me/theorems/7ed05d30-f28a-4ae8-96d8-c53e4fec39f9

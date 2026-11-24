@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_VecSplit_le_dual_of_mem
 -- name    : Formalism.HermitianLattices.Ext.L3.VecSplit.le_dual_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:51:21.6448+00:00
 -- url     : https://prove2.me/theorems/4b349d7e-f09e-42f3-94e4-c4b9aa580189

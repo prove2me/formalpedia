@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_RR_nonneg
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.RR_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:19.369272+00:00
 -- url     : https://prove2.me/theorems/02e9142b-08af-4e8c-915e-dc7745ac980c

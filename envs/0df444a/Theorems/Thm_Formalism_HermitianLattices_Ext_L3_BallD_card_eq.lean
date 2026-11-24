@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallD_card_eq
 -- name    : Formalism.HermitianLattices.Ext.L3.BallD.card_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:34:09.954059+00:00
 -- url     : https://prove2.me/theorems/4afcc8bf-4dbb-4816-9cfd-5560c9eea382

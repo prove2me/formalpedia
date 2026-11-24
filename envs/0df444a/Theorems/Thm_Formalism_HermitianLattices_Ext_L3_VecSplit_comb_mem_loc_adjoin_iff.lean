@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_VecSplit_comb_mem_loc_adjoin_iff
 -- name    : Formalism.HermitianLattices.Ext.L3.VecSplit.comb_mem_loc_adjoin_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:15:56.039351+00:00
 -- url     : https://prove2.me/theorems/4f422c7d-ad92-4bc2-8902-73f236aba2f2

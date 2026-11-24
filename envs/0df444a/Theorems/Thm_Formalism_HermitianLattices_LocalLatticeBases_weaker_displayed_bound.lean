@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_weaker_displayed_bound
 -- name    : Formalism.HermitianLattices.LocalLatticeBases.weaker_displayed_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:39.44111+00:00
 -- url     : https://prove2.me/theorems/6bfd01a3-8ebb-4c77-a4e0-2b2fbd76cc39

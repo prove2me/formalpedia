@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AddUN_codingLemma
 -- name    : AddUN.codingLemma
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:25:13.202823+00:00
 -- url     : https://prove2.me/theorems/db64700d-ecc9-4f1b-afe4-11bc46f01004

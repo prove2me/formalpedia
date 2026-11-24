@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AddUN_inner_subset
 -- name    : AddUN.inner_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:26:54.217708+00:00
 -- url     : https://prove2.me/theorems/f9fa9c8d-9203-45f9-af7e-d266a0981ae2

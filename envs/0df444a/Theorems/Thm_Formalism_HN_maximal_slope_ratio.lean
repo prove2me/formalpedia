@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_maximal_slope_ratio
 -- name    : Formalism.HN.maximal_slope_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:05:55.123052+00:00
 -- url     : https://prove2.me/theorems/0dd0b670-3e22-43c8-b249-b3f361e7b8e8

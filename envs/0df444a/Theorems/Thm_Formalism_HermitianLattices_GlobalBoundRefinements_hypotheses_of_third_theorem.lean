@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_hypotheses_of_third_theorem
 -- name    : Formalism.HermitianLattices.GlobalBoundRefinements.hypotheses_of_third_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:43.690503+00:00
 -- url     : https://prove2.me/theorems/ace77ee8-d9b8-41d8-b879-c54a9b246170

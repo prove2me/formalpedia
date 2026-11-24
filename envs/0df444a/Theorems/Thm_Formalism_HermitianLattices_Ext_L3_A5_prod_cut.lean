@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_A5_prod_cut
 -- name    : Formalism.HermitianLattices.Ext.L3.A5.prod_cut
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:04.265523+00:00
 -- url     : https://prove2.me/theorems/c72aa39a-7890-487b-8c80-24fe18cdaaba

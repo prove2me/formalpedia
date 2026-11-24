@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_Pairs_sP_nonneg
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.Pairs.sP_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:56:11.670461+00:00
 -- url     : https://prove2.me/theorems/2f18637f-86c1-4c81-a1e9-2b39d5920aa4

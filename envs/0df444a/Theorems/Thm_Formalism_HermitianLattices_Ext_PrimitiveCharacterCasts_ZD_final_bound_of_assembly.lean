@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimitiveCharacterCasts_ZD_final_bound_of_assembly
 -- name    : Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.ZD.final_bound_of_assembly
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:57.765504+00:00
 -- url     : https://prove2.me/theorems/bf7476d7-7ef4-47b1-8758-5e9c8d232f64

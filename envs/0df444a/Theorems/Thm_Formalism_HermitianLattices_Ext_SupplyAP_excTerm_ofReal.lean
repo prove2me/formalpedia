@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_SupplyAP_excTerm_ofReal
 -- name    : Formalism.HermitianLattices.Ext.SupplyAP.excTerm_ofReal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:40.346383+00:00
 -- url     : https://prove2.me/theorems/913a2fb3-d4df-4161-a308-70af8d8eb58b

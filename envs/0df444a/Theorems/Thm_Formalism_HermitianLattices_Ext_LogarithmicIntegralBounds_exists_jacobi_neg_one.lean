@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_exists_jacobi_neg_one
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.exists_jacobi_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:51:35.11073+00:00
 -- url     : https://prove2.me/theorems/e40cbf54-ccc7-4ddc-be91-64a8035e2d70

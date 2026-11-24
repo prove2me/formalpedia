@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_RamifiedHeckeModels_column_decomposition
 -- name    : Formalism.HermitianLattices.RamifiedHeckeModels.column_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:00:09.620421+00:00
 -- url     : https://prove2.me/theorems/ad3821ec-a1ca-4078-a14d-1d8bc0ad4950

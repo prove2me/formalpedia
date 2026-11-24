@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_supportVolumeIndex_statement
 -- name    : Formalism.HermitianLattices.LocalLatticeBases.supportVolumeIndex_statement
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:22.146435+00:00
 -- url     : https://prove2.me/theorems/fcfa4615-8018-497d-ba05-ec65d19c9e00

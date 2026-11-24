@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallC_fundamentalDomain_piBasis
 -- name    : Formalism.HermitianLattices.Ext.L3.BallC.fundamentalDomain_piBasis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:44:31.74882+00:00
 -- url     : https://prove2.me/theorems/2ea8f047-5da6-4621-a122-601868a49ee5

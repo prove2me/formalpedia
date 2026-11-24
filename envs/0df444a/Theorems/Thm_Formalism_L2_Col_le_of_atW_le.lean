@@ -1,0 +1,35 @@
+-- Prove2me | Theorems.Thm_Formalism_L2_Col_le_of_atW_le
+-- name    : Formalism.L2.Col.le_of_atW_le
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-24T07:49:31.754256+00:00
+-- url     : https://prove2.me/theorems/6d1ebcd6-c887-49df-9777-cbb945d11903
+-- title:
+--   Col: le of at W le
+-- statement:
+--   The Col construction uses the le of at W le property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/LocalToGlobal/Columns/AlgebraMapMemMaximalIdealPowIff.lean#L193-L205
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/LocalToGlobal/Columns/AlgebraMapMemMaximalIdealPowIff.lean#L193-L205
+
+import Mathlib
+import Definitions.Def_Formalism_HermitianLattices_StatementLat
+import Definitions.Def_Formalism_SizeWindowBrackets_SlopesHypothesisFinitePlaces
+import Definitions.Def_Formalism_LocalToGlobal_Columns_AlgebraMapMemMaximalIdealPowIff
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open NumberField IsDedekindDomain
+noncomputable section
+open Formalism Formalism.L2 Formalism.L2.Col
+variable {K : Type} [Field K] [NumberField K]
+variable {V : Type} [AddCommGroup V] [Module K V] [Module (𝓞 K) V] [IsScalarTower (𝓞 K) K V]
+
+theorem Formalism.L2.Col.le_of_atW_le {A B : Submodule (𝓞 K) V}
+    (h : ∀ w : HeightOneSpectrum (𝓞 K), atW w A ≤ atW w B) : A ≤ B := by sorry

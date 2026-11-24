@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_cylinderOn_insert
 -- name    : MeasureTheory.cylinderOn_insert
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:29:24.068346+00:00
 -- url     : https://prove2.me/theorems/3fbfe281-48fd-42b0-a8cb-91738c0de079

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallD_lat_span
 -- name    : Formalism.HermitianLattices.Ext.L3.BallD.lat_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:46:34.915751+00:00
 -- url     : https://prove2.me/theorems/a8a15613-edc8-40e4-b983-8995fb335db3

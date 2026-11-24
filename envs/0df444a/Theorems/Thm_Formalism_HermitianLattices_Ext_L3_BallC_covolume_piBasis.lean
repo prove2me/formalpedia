@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallC_covolume_piBasis
 -- name    : Formalism.HermitianLattices.Ext.L3.BallC.covolume_piBasis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:44:44.226178+00:00
 -- url     : https://prove2.me/theorems/15d6e1bf-12a3-44b7-b967-5c5160b259fa

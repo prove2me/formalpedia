@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AddUN_isOpen_inner
 -- name    : AddUN.isOpen_inner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:27:44.4339+00:00
 -- url     : https://prove2.me/theorems/ac967eaf-7415-4fcc-91bd-2cdcbb9fc417

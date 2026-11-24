@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_length_bound_under_twist
 -- name    : Formalism.HermitianLattices.LocalLatticeBases.length_bound_under_twist
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:42.274511+00:00
 -- url     : https://prove2.me/theorems/f052fd69-9d56-446c-9475-524b09932677

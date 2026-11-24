@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EquivarianceConvolution_fourier_quotient_sparsity
 -- name    : EquivarianceConvolution.fourier_quotient_sparsity
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T19:59:39.769166+00:00
 -- url     : https://prove2.me/theorems/6fde41f0-ac4a-41c0-aed4-e4a3256f0a63

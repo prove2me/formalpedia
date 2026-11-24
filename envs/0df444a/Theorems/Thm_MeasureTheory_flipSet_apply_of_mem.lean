@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_flipSet_apply_of_mem
 -- name    : MeasureTheory.flipSet_apply_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:26:26.885801+00:00
 -- url     : https://prove2.me/theorems/525f20c3-84fd-4aaf-becc-1c7b76c5d70d

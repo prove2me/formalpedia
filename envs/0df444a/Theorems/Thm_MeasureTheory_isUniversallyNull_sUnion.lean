@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_isUniversallyNull_sUnion
 -- name    : MeasureTheory.isUniversallyNull_sUnion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:28:18.65322+00:00
 -- url     : https://prove2.me/theorems/b0c4ab2b-6347-455e-a137-6a275666c83b

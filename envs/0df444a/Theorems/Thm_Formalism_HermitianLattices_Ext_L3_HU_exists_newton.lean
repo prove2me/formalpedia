@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_exists_newton
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.exists_newton
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:42:17.494237+00:00
 -- url     : https://prove2.me/theorems/205a6963-f64e-449a-98a7-36cb0df37e14

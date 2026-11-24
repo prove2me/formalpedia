@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_primitive_density_split
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.primitive_density_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:01:03.006796+00:00
 -- url     : https://prove2.me/theorems/b3ae5300-9052-441c-ac8e-a06bb10707ed

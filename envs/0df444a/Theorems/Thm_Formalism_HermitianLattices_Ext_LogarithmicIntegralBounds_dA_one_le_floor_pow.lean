@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_dA_one_le_floor_pow
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.dA_one_le_floor_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:51:31.864451+00:00
 -- url     : https://prove2.me/theorems/e84e503a-9a07-431b-8bc3-2a7a6ebabaf9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_second_moment
 -- name    : MeasureTheory.second_moment
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:29:42.251837+00:00
 -- url     : https://prove2.me/theorems/98bc50b9-5746-4cc8-aa35-07d15cdf7a53

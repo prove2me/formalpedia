@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimitiveCharacterCasts_ZD_mco_sum_moebius_divisors
 -- name    : Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.ZD.mco_sum_moebius_divisors
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:02.111948+00:00
 -- url     : https://prove2.me/theorems/fbbc3cbd-fcb3-4ed1-8cfe-56030d50bfe8

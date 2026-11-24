@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GL2PrimeSums_gl2a5_coprime_of_minFac_ne
 -- name    : Formalism.HermitianLattices.GL2PrimeSums.gl2a5_coprime_of_minFac_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:10.067365+00:00
 -- url     : https://prove2.me/theorems/3543a79a-f037-4c96-b7f4-c05d61bdffbc

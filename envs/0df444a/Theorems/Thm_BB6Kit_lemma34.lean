@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BB6Kit_lemma34
 -- name    : BB6Kit.lemma34
--- status  : Open
+-- status  : Proved
 -- author  : @alon yuval
 -- created : 2026-11-24T07:21:05.298164+00:00
 -- url     : https://prove2.me/theorems/7e7bbb41-73aa-4337-ac14-eeadb8cf5286

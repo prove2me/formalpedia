@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_lehw_rowDiv_shift
 -- name    : Formalism.GradedWeylDivisibility.lehw_rowDiv_shift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:06:04.435926+00:00
 -- url     : https://prove2.me/theorems/5e1c8e43-ddef-483b-b70a-ab743033769f

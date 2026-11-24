@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_eulerFac_inv_inert
 -- name    : Formalism.HermitianLattices.Ext.L3.eulerFac_inv_inert
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:56.426859+00:00
 -- url     : https://prove2.me/theorems/9f65dcd5-bdad-4dce-989d-c9e0c15b2e4f

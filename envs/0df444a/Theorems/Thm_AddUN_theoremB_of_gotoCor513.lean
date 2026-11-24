@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AddUN_theoremB_of_gotoCor513
 -- name    : AddUN.theoremB_of_gotoCor513
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:28:09.183188+00:00
 -- url     : https://prove2.me/theorems/290012f9-7b10-4af7-ab66-11ea78c9e91f

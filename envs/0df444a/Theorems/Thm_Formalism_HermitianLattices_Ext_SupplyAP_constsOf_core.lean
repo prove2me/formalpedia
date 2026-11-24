@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_SupplyAP_constsOf_core
 -- name    : Formalism.HermitianLattices.Ext.SupplyAP.constsOf_core
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:46.454441+00:00
 -- url     : https://prove2.me/theorems/f2f071d1-4eb7-4a33-ac64-54ec2be8c6b7

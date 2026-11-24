@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_we_intQ_word
 -- name    : Formalism.L2.DIV.we_intQ_word
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:19:33.211078+00:00
 -- url     : https://prove2.me/theorems/97343b3e-e38b-417d-945d-fec4a5062ede

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LR_lre_lowerTri
 -- name    : Formalism.CohomologicalDescent.LR.lre_lowerTri
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:07:08.765029+00:00
 -- url     : https://prove2.me/theorems/3d16d69c-67d3-42aa-ad2b-0f89d8905734

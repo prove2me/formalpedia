@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_inRegion_of_lt
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.inRegion_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:56:12.501786+00:00
 -- url     : https://prove2.me/theorems/9801032c-874e-412c-95b9-9ea6d6863dbe

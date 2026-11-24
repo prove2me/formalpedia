@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DepthOneQExp_kassabov_uniform_bound
 -- name    : DepthOneQExp.kassabov_uniform_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-24T06:51:36.476507+00:00
 -- url     : https://prove2.me/theorems/e9da374b-f352-4b39-835a-60088b8d21b4

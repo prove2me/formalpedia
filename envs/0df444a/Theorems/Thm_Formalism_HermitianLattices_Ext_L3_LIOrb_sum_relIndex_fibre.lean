@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LIOrb_sum_relIndex_fibre
 -- name    : Formalism.HermitianLattices.Ext.L3.LIOrb.sum_relIndex_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:52:26.222896+00:00
 -- url     : https://prove2.me/theorems/215a817a-de85-4886-924c-49f26cb18124

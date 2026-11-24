@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_intervalIntegrable_Fm_div_mul_log_sq
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.intervalIntegrable_Fm_div_mul_log_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:20:10.985837+00:00
 -- url     : https://prove2.me/theorems/ece96fba-44b6-4b5d-8048-739f4ceeb3a5

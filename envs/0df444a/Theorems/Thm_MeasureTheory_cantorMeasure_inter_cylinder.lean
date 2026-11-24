@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_cantorMeasure_inter_cylinder
 -- name    : MeasureTheory.cantorMeasure_inter_cylinder
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:23:06.991815+00:00
 -- url     : https://prove2.me/theorems/e3166db4-f430-49e0-a17b-3b17f9768f8c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_VecSplit_comb_mem_dualAt_iff
 -- name    : Formalism.HermitianLattices.Ext.L3.VecSplit.comb_mem_dualAt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:25:20.706313+00:00
 -- url     : https://prove2.me/theorems/0c922e10-4948-4d16-9c1c-32b0f414a202

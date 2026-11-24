@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_cylinderOn_eq_biInter
 -- name    : MeasureTheory.cylinderOn_eq_biInter
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:29:19.840364+00:00
 -- url     : https://prove2.me/theorems/4970f997-1234-4e8a-98c0-6c95646709c0

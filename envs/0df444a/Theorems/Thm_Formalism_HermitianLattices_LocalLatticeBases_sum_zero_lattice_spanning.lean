@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_sum_zero_lattice_spanning
 -- name    : Formalism.HermitianLattices.LocalLatticeBases.sum_zero_lattice_spanning
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:33.164297+00:00
 -- url     : https://prove2.me/theorems/a28733ec-fe75-4f99-8a64-085ac15de9b1

@@ -1,0 +1,37 @@
+-- Prove2me | solution 1 for Formalism.L2.DIV.we_weyl_le
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-24T07:32:17.40084+00:00
+-- url     : https://prove2.me/submissions/5429b63e-914f-4e38-8e1b-998d801a7cab
+
+import Definitions.Def_Formalism_GradedWeylDivisibility_FinalD
+import Definitions.Def_Formalism_GradedWeylDivisibility_StatementE
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockQHW
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockQWordAdj
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_LClosedeqLemmas
+import Definitions.Def_Formalism_PieriBlockIdeals_PieriColumnMinors_LowerTriangularIntegral
+import Definitions.Def_Formalism_PieriBlockIdeals_PieriColumnMinors_LrfcApplyWordAppendSingle
+import Definitions.Def_Formalism_HermitianLattices_HermitianLatticesProofs_DualLattice
+import Definitions.Def_Formalism_LocalToGlobal_Columns_CoefficientsModP_WeTransposeWordTransposeWord
+import Theorems.Thm_Formalism_GradedWeylDivisibility_dualWeylMap
+import Theorems.Thm_Formalism_GradedWeylDivisibility_weylLeDual
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open MvPolynomial
+noncomputable section
+open Formalism Formalism.L2 Formalism.L2.DIV
+open Formalism.GradedWeylDivisibility
+variable {r n : ℕ} (hn : n ≤ r) (ν : Fin n → ℕ)
+namespace Formalism.L2.DIV
+theorem _root_.solution (hν : Antitone ν) : ∀ x ∈ (weyl ℤ r n hn ν).map (intQ r n), x ∈ dualWeyl ℚ r n ν := by
+  rintro _ ⟨f, hf, rfl⟩
+  exact dualWeylMap ℤ ℚ (Int.castRingHom ℚ) r n ν f (weylLeDual ℤ r n hn ν hν hf)
+end Formalism.L2.DIV

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_exists_cayley
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.exists_cayley
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:32:56.658028+00:00
 -- url     : https://prove2.me/theorems/1297b994-e920-4721-b358-aac006dc609e

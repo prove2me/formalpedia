@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_split_preimage_cylinderOn
 -- name    : MeasureTheory.split_preimage_cylinderOn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:26:19.990249+00:00
 -- url     : https://prove2.me/theorems/22ccc260-05c0-4bfe-afd7-2719204a4a9a

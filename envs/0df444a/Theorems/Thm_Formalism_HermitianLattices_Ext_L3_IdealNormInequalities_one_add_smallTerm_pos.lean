@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_IdealNormInequalities_one_add_smallTerm_pos
 -- name    : Formalism.HermitianLattices.Ext.L3.IdealNormInequalities.one_add_smallTerm_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:11:59.722333+00:00
 -- url     : https://prove2.me/theorems/77619ab7-2d05-4416-80bf-7a29e5d1384e

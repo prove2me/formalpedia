@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_quotient_length_embedding_bound
 -- name    : Formalism.HermitianLattices.LocalLatticeBases.quotient_length_embedding_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:55.521313+00:00
 -- url     : https://prove2.me/theorems/07bddb88-d485-4709-bc9c-8f6211fa2d18

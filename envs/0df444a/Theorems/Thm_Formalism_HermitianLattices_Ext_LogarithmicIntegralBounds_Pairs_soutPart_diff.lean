@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_Pairs_soutPart_diff
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.Pairs.soutPart_diff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:46:52.689854+00:00
 -- url     : https://prove2.me/theorems/781d4ac4-2606-447a-ba9a-ccd79c7e7241

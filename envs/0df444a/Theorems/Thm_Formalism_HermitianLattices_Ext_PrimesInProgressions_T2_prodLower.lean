@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_T2_prodLower
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.T2.prodLower
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:39.61066+00:00
 -- url     : https://prove2.me/theorems/f17d9160-d632-48b5-baf2-54cdcf98eec9

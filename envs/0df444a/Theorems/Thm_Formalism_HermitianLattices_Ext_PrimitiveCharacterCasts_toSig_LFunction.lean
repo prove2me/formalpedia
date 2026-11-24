@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimitiveCharacterCasts_toSig_LFunction
 -- name    : Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.toSig_LFunction
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:45.77284+00:00
 -- url     : https://prove2.me/theorems/e652b312-9052-4487-ae4f-e336968f793d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GenusMassVolumes_height_integral_formula
 -- name    : Formalism.HermitianLattices.GenusMassVolumes.height_integral_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:22.145292+00:00
 -- url     : https://prove2.me/theorems/018429a2-dd1f-42e7-89fc-54955ebea0b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_U0_isLatIn_loc
 -- name    : Formalism.HermitianLattices.Ext.L3.U0.isLatIn_loc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:53:08.073057+00:00
 -- url     : https://prove2.me/theorems/aa1ecbcf-8879-4db6-83cb-47d4f8cdfbaf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_aleph0_lt_add_universallyNullSets
 -- name    : MeasureTheory.aleph0_lt_add_universallyNullSets
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:28:27.544046+00:00
 -- url     : https://prove2.me/theorems/c2949d11-7e4a-4a68-b15e-16deeb7923df

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GL2PrimeSums_TailSumsHookFormulaTorsion_bound1
 -- name    : Formalism.HermitianLattices.GL2PrimeSums.TailSumsHookFormulaTorsion.bound1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:02:40.466557+00:00
 -- url     : https://prove2.me/theorems/48c65489-a191-43a4-ad09-47ddfb096c3e

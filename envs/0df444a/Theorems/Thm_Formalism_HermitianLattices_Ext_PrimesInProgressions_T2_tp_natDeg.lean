@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_T2_tp_natDeg
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.T2.tp_natDeg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:16.867381+00:00
 -- url     : https://prove2.me/theorems/18f8c497-ad36-4807-b60a-012fd3795e09

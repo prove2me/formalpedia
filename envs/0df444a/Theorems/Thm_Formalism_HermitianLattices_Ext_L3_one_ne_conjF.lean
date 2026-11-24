@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_one_ne_conjF
 -- name    : Formalism.HermitianLattices.Ext.L3.one_ne_conjF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:55:50.880045+00:00
 -- url     : https://prove2.me/theorems/c21cf136-e89b-4fae-84f7-26858787b91f

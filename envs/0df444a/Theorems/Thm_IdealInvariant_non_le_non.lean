@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IdealInvariant_non_le_non
 -- name    : IdealInvariant.non_le_non
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:27:40.220251+00:00
 -- url     : https://prove2.me/theorems/ec845f9a-0fd7-47ff-98f4-e22e34ce4d86

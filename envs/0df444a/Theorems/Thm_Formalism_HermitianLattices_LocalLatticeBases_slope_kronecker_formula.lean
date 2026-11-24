@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_slope_kronecker_formula
 -- name    : Formalism.HermitianLattices.LocalLatticeBases.slope_kronecker_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:29.490638+00:00
 -- url     : https://prove2.me/theorems/02cf7abf-1c38-4c8f-be0e-b4ebaec71e6a

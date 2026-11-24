@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_sharp_split
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.sharp_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:34.996805+00:00
 -- url     : https://prove2.me/theorems/e9ed8fda-696d-448f-b660-09c2fde3578d

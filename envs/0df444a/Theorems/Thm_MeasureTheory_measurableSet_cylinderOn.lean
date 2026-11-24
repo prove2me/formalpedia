@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_measurableSet_cylinderOn
 -- name    : MeasureTheory.measurableSet_cylinderOn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:22:27.438027+00:00
 -- url     : https://prove2.me/theorems/3c5a89aa-18ea-41f0-93d1-07ed12964531

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AddUN_exists_clopens_summable
 -- name    : AddUN.exists_clopens_summable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:30:02.349527+00:00
 -- url     : https://prove2.me/theorems/c47ba8c8-8923-4b43-86a6-f569c2bc413e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_RankOne_isClassReps_map
 -- name    : Formalism.HermitianLattices.Ext.L3.RankOne.isClassReps_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:03.760069+00:00
 -- url     : https://prove2.me/theorems/a7947543-fbd6-4c53-8b69-48b6105d18e9

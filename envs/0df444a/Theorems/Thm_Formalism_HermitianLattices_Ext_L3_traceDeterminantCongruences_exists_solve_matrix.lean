@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_traceDeterminantCongruences_exists_solve_matrix
 -- name    : Formalism.HermitianLattices.Ext.L3.traceDeterminantCongruences.exists_solve_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:56:17.792813+00:00
 -- url     : https://prove2.me/theorems/63c74679-44e7-4ccd-9b04-661ab5123f59

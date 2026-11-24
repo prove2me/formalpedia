@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallC_volume_ell
 -- name    : Formalism.HermitianLattices.Ext.L3.BallC.volume_ell
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:44:49.567849+00:00
 -- url     : https://prove2.me/theorems/ecd9ffec-2eaa-4c11-a32a-3e875f66f659

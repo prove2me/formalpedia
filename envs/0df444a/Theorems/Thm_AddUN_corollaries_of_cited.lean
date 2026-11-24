@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AddUN_corollaries_of_cited
 -- name    : AddUN.corollaries_of_cited
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:26:47.925937+00:00
 -- url     : https://prove2.me/theorems/ebf06609-6e22-4758-b4cd-e5fce542af14

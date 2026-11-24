@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_cantorMeasure_cylinderOn
 -- name    : MeasureTheory.cantorMeasure_cylinderOn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:22:33.884458+00:00
 -- url     : https://prove2.me/theorems/9220d988-e8ca-4c53-a17b-372b808535d3

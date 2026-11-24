@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_StepBAux_G_finite
 -- name    : Formalism.DivisionValues.StepBAux.G_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:03:14.626412+00:00
 -- url     : https://prove2.me/theorems/82ae4284-a09c-43ec-b395-2192acfefb7b

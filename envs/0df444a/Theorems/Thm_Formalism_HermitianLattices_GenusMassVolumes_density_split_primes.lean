@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GenusMassVolumes_density_split_primes
 -- name    : Formalism.HermitianLattices.GenusMassVolumes.density_split_primes
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:13.624835+00:00
 -- url     : https://prove2.me/theorems/63af611a-6bda-488f-82e6-d1153309e5ae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_T2_ratioLim
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.T2.ratioLim
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:21.765634+00:00
 -- url     : https://prove2.me/theorems/d39567e2-aa21-4961-bac0-a1eb7a04cb72

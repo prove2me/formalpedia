@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DepthOneQExp_root_subgroups_kazhdan
 -- name    : DepthOneQExp.root_subgroups_kazhdan
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-24T06:55:53.245107+00:00
 -- url     : https://prove2.me/theorems/141ee3c8-5cb8-4540-9031-78cdc0aeb2e6

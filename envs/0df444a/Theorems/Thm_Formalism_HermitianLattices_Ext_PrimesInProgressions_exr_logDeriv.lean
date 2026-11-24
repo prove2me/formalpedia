@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_exr_logDeriv
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.exr_logDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:56:52.998796+00:00
 -- url     : https://prove2.me/theorems/6f09ef4f-6d35-40ea-bd6f-5e7945fe5b79

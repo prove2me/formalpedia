@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_A5_summable_sq_geom
 -- name    : Formalism.HermitianLattices.Ext.L3.A5.summable_sq_geom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:44:11.202722+00:00
 -- url     : https://prove2.me/theorems/975c3d1f-5747-45b0-af99-4500df637cfd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LR_lrf_pairwise
 -- name    : Formalism.CohomologicalDescent.LR.lrf_pairwise
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:06:42.588268+00:00
 -- url     : https://prove2.me/theorems/45b8e2a0-d096-477e-a6e2-c663254b8964

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallC_isBounded_ell
 -- name    : Formalism.HermitianLattices.Ext.L3.BallC.isBounded_ell
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:44:41.707846+00:00
 -- url     : https://prove2.me/theorems/c7b353df-f155-4e01-bf4f-8333cae21ae7

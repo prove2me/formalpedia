@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GL2PrimeSums_primesInProgressionCountLowerBound
 -- name    : Formalism.HermitianLattices.GL2PrimeSums.primesInProgressionCountLowerBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:04.105785+00:00
 -- url     : https://prove2.me/theorems/d9922065-5b90-4230-a875-a50086117e14

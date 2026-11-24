@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IdealInvariant_sUnion_mem_of_lt_add
 -- name    : IdealInvariant.sUnion_mem_of_lt_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:21:37.283075+00:00
 -- url     : https://prove2.me/theorems/fcf90043-f854-482e-a79b-765d6dd0ce02

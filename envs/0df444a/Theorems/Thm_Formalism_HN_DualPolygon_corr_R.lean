@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_DualPolygon_corr_R
 -- name    : Formalism.HN.DualPolygon.corr_R
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:55:45.527172+00:00
 -- url     : https://prove2.me/theorems/9a53f32f-236c-4551-8a10-80356bcb782c

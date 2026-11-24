@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_gram_determinant_formula
 -- name    : Formalism.HermitianLatticeCounting.P.gram_determinant_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:36.611869+00:00
 -- url     : https://prove2.me/theorems/7e8b7bd8-e2fc-4736-9491-38c2d5a303f9

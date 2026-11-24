@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_leadInterlaced
 -- name    : Formalism.GradedWeylDivisibility.leadInterlaced
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T18:00:14.26527+00:00
 -- url     : https://prove2.me/theorems/bba51e91-8f82-41da-bfc5-d3a094b02e25

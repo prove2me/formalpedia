@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GL2a2_zero_sum_bound_large
 -- name    : Formalism.HermitianLattices.GL2a2.zero_sum_bound_large
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:18.514604+00:00
 -- url     : https://prove2.me/theorems/915c5879-d924-4871-8e98-71f76688daf7

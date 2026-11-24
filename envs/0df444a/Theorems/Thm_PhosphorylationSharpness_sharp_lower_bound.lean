@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhosphorylationSharpness_sharp_lower_bound
 -- name    : PhosphorylationSharpness.sharp_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:27:31.058379+00:00
 -- url     : https://prove2.me/theorems/14456a47-0671-45ce-9bbb-a1119550eaaa

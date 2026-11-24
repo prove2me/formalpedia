@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_conjIdeal_eq_map
 -- name    : Formalism.HermitianLattices.Ext.L3.conjIdeal_eq_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:51:54.602477+00:00
 -- url     : https://prove2.me/theorems/dfbc97ee-19de-43e4-af53-3a5dad9ecb73

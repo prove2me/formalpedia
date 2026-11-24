@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_we_weyl_le
 -- name    : Formalism.L2.DIV.we_weyl_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:19:11.176852+00:00
 -- url     : https://prove2.me/theorems/1df0a4ce-7417-4ec0-a30f-4afd682d2d3b

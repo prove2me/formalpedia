@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_WA_principal_locRing
 -- name    : Formalism.HermitianLattices.Ext.L3.WA.principal_locRing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:51:21.283455+00:00
 -- url     : https://prove2.me/theorems/3e31191a-0398-4bba-b8de-9586fdee549f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GL2PrimeSums_TailSumsHookFormulaTorsion_exp_neg_le_div_pow_four
 -- name    : Formalism.HermitianLattices.GL2PrimeSums.TailSumsHookFormulaTorsion.exp_neg_le_div_pow_four
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:06.429918+00:00
 -- url     : https://prove2.me/theorems/3cbb0688-1ff9-4498-ad73-17cc23591a4c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_C2_cast_geom
 -- name    : Formalism.HermitianLattices.Ext.L3.C2.cast_geom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:45:42.744737+00:00
 -- url     : https://prove2.me/theorems/7860fbd8-35f9-4bbb-b703-5a0cfe0a3786

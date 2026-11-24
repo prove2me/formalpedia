@@ -4250,18 +4250,18 @@
 {"parent": "GlobalTheory.IntegralMultipleClearDenominators.exists_nsmul_mulVec_mem", "child": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_ExistsNsmulMulVecMem", "via": ["statement"]}
 {"parent": "syracuse_descent_fifteen_mod16_mod1048576_step16_mod67108864_chunk18", "child": "syrFifteenStep16Chunk18", "via": ["solution", "statement"]}
 {"parent": "syracuse_descent_fifteen_mod16_mod1048576_step16_mod67108864_chunk18", "child": "syracuseStep", "via": ["solution", "statement"]}
-{"parent": "Formalism.HN.DualPolygon.dual_dual", "child": "Formalism_LatticeSlopes_ExistsSaturatedSlopeEqMuMax", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.dual_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DualPl", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.dual_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_SizeMu", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.dual_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DegSupermodZ", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.dual_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_ExistsSmulMemOfFinrankEq", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.dual_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_MuChar", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.dual_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_ShiftInvariance", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.dual_dual", "child": "Formalism_HarderNarasimhan_QuotRealize", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.dual_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_PlaceSplit", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.dual_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_SatBasic", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.dual_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DiscreteSpanOfLinIndep", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.dual_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_Duality", "via": ["statement"]}
+{"parent": "Formalism.HN.DualPolygon.dual_dual", "child": "Formalism_LatticeSlopes_ExistsSaturatedSlopeEqMuMax", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.dual_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DualPl", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.dual_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_SizeMu", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.dual_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DegSupermodZ", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.dual_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_ExistsSmulMemOfFinrankEq", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.dual_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_MuChar", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.dual_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_ShiftInvariance", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.dual_dual", "child": "Formalism_HarderNarasimhan_QuotRealize", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.dual_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_PlaceSplit", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.dual_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_SatBasic", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.dual_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DiscreteSpanOfLinIndep", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.dual_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_Duality", "via": ["solution", "statement"]}
 {"parent": "ProcureAssort.Hotelling.Supplement.corollary_G_1", "child": "ProcureAssort_Hotelling_Supplement_Affine", "via": ["statement"]}
 {"parent": "GlobalTheory.polyContent_le_iff", "child": "Development_AbelianVarietyTheory_Definitions_ThetaMetrics_TensorContentEqPolyContentScalarCoeffs", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Ex.cub_rot", "child": "Development_AbelianVarietyTheory_Proofs_DegenerationProofs_MulqLaws", "via": ["solution", "statement"]}
@@ -70997,8 +70997,8 @@
 {"parent": "Formalism.FourierDecayAlt.P.A6x8.I_compact", "child": "Formalism_HermitianCurvature_ThetaExistenceInductiveFromPieces", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.A6x8.I_compact", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_GramKernelHermitian", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.EtaPartialSums.summable_dterm", "child": "Formalism.FX.LFunctionPartialSum.summable_dterm", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.EtaPartialSums.summable_dterm", "child": "Formalism_LFunctionBounds_LFunctionBoundsProofs_LFunctionEqGOfOneLt", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.EtaPartialSums.summable_dterm", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_PNTDensLsA", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.EtaPartialSums.summable_dterm", "child": "Formalism_LFunctionBounds_LFunctionBoundsProofs_LFunctionEqGOfOneLt", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.EtaPartialSums.summable_dterm", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_PNTDensLsA", "via": ["solution", "statement"]}
 {"parent": "Formalism.InvariantFactorPaths.G7.TwoS.norm_wE", "child": "Formalism.FG.SolveVAux.low_pow", "via": ["solution", "statement"]}
 {"parent": "Formalism.InvariantFactorPaths.G7.TwoS.norm_wE", "child": "Formalism.FG.IntegralSubstitution.integral_one", "via": ["solution", "statement"]}
 {"parent": "Formalism.InvariantFactorPaths.G7.TwoS.norm_wE", "child": "Formalism.FG.IntegralSubstitution.integral_pow", "via": ["solution", "statement"]}
@@ -84699,7 +84699,7 @@
 {"parent": "Formalism.FourierDecayAlt.P.G4.lower_inv_mul", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_StabilizerBlockPoint", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.G4.blk_mul_diag_left", "child": "Formalism_HermitianCurvature_StatementG", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.G4.blk_mul_diag_left", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_StabilizerBlockPoint", "via": ["solution", "statement"]}
-{"parent": "EquivarianceConvolution.fourier_quotient_sparsity", "child": "EquivarianceConvolution_Basic", "via": ["statement"]}
+{"parent": "EquivarianceConvolution.fourier_quotient_sparsity", "child": "EquivarianceConvolution_Basic", "via": ["solution", "statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ShuffleOfPerm", "child": "Development_WeilBound_CoreStatements_TemperedRepresentationTheory_ZelevinskyJacquet_ZelevinskyInterleaving_Interleave", "via": ["statement"]}
 {"parent": "EquivarianceConvolution.gcnn_is_equivariant", "child": "EquivarianceConvolution_Basic", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.HarishChandra.coeff_rowOp_self", "child": "GroundTheory_AutomorphicForms_HarishChandraCentre_FischerForm", "via": ["statement"]}

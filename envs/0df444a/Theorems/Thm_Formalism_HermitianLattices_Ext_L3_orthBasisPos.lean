@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_orthBasisPos
 -- name    : Formalism.HermitianLattices.Ext.L3.orthBasisPos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:51:08.151908+00:00
 -- url     : https://prove2.me/theorems/0d41dad4-74e5-4bac-808c-da6e29b1653e

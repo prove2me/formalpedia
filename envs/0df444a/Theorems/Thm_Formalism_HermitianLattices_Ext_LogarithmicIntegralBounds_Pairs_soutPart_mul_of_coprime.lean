@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_Pairs_soutPart_mul_of_coprime
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.Pairs.soutPart_mul_of_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:56:07.58989+00:00
 -- url     : https://prove2.me/theorems/061fff6f-8a4f-4ea2-8aff-bac679aea1ff

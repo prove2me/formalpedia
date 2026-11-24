@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_measurable_split
 -- name    : MeasureTheory.measurable_split
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:26:17.090806+00:00
 -- url     : https://prove2.me/theorems/eb72dba2-ca75-4511-9240-9f0eae2cffda

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_UnitaryNormCounts_exists_norm
 -- name    : Formalism.HermitianLattices.Ext.L3.UnitaryNormCounts.exists_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:51:09.396165+00:00
 -- url     : https://prove2.me/theorems/e539b552-01bd-4d66-b762-0e5e7149b480

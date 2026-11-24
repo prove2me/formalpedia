@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_unitaryAbsoluteValueBounds_sg_sg
 -- name    : Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.sg_sg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:56:21.35739+00:00
 -- url     : https://prove2.me/theorems/13d56976-11c6-4fec-8559-9a51d74438a8

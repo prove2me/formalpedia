@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_fourier_commutes_hecke_scalar
 -- name    : Formalism.HermitianLattices.LocalLatticeBases.fourier_commutes_hecke_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:10.98503+00:00
 -- url     : https://prove2.me/theorems/0d626550-8a0f-4329-be5d-108288f96a94

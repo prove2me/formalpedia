@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_gram_eq_conjTranspose_mul
 -- name    : Formalism.HermitianLattices.Ext.L3.gram_eq_conjTranspose_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:51:02.398813+00:00
 -- url     : https://prove2.me/theorems/2d963b9f-b4d4-42b7-9a58-e4edf4a63caf

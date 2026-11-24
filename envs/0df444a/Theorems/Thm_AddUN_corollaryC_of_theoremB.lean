@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AddUN_corollaryC_of_theoremB
 -- name    : AddUN.corollaryC_of_theoremB
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:29:48.074956+00:00
 -- url     : https://prove2.me/theorems/1d526302-ad9f-4f8a-9fc6-ba540e108806

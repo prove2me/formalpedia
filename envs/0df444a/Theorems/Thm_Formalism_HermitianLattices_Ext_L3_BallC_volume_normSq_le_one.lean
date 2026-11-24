@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallC_volume_normSq_le_one
 -- name    : Formalism.HermitianLattices.Ext.L3.BallC.volume_normSq_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:44:33.314822+00:00
 -- url     : https://prove2.me/theorems/30e20b90-4b40-4af5-a853-d1130d654c7b

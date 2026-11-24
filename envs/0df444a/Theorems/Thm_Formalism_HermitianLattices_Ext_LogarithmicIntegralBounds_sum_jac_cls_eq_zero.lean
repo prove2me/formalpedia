@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_sum_jac_cls_eq_zero
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.sum_jac_cls_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:52:34.544373+00:00
 -- url     : https://prove2.me/theorems/0cb4fe17-49b2-444d-9d64-4971a0c5fe2c

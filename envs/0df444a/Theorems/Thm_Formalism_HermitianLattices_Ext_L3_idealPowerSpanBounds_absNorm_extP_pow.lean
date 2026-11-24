@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_idealPowerSpanBounds_absNorm_extP_pow
 -- name    : Formalism.HermitianLattices.Ext.L3.idealPowerSpanBounds.absNorm_extP_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:58:54.058563+00:00
 -- url     : https://prove2.me/theorems/f74e9ad4-018e-402a-b3ee-51628409860b

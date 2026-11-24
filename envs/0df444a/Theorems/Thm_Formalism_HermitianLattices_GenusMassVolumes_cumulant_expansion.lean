@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GenusMassVolumes_cumulant_expansion
 -- name    : Formalism.HermitianLattices.GenusMassVolumes.cumulant_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:01.015424+00:00
 -- url     : https://prove2.me/theorems/b3f07622-5dd5-46e4-b124-d2604384f266

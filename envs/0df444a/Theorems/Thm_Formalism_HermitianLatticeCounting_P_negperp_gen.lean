@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_negperp_gen
 -- name    : Formalism.HermitianLatticeCounting.P.negperp_gen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:19.81352+00:00
 -- url     : https://prove2.me/theorems/dc0a591b-4b3b-407a-a393-8b3299ee5780

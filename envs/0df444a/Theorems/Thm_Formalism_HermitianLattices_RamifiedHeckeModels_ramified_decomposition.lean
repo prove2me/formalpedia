@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_RamifiedHeckeModels_ramified_decomposition
 -- name    : Formalism.HermitianLattices.RamifiedHeckeModels.ramified_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:42.506269+00:00
 -- url     : https://prove2.me/theorems/0532d9ca-7c16-4d5b-aa91-54dc310901d4

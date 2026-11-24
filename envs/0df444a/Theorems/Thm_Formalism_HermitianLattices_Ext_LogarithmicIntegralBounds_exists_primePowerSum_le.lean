@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_exists_primePowerSum_le
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.exists_primePowerSum_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:56:25.861796+00:00
 -- url     : https://prove2.me/theorems/62ef3da6-7ac2-4afd-8009-29fde73481fd

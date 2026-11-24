@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SlopeSteps_sumNuZero
 -- name    : PI.SlopeSteps.sumNuZero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:27:58.052163+00:00
 -- url     : https://prove2.me/theorems/be1f0a71-1334-41b2-a039-2dbf5e00101b

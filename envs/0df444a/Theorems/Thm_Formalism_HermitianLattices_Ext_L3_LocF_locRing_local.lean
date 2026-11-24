@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LocF_locRing_local
 -- name    : Formalism.HermitianLattices.Ext.L3.LocF.locRing_local
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:09:47.786253+00:00
 -- url     : https://prove2.me/theorems/cbbce832-e029-4cd1-9f7b-5eddda8324e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_unitaryAbsoluteValueBounds_mulW_injective
 -- name    : Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.mulW_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:56:27.847345+00:00
 -- url     : https://prove2.me/theorems/61f061e8-0534-4786-93fe-7751250e3b18

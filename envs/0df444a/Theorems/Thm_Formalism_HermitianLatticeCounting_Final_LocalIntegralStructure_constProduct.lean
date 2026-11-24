@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LocalIntegralStructure_constProduct
 -- name    : Formalism.HermitianLatticeCounting.Final.LocalIntegralStructure.constProduct
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:25.13542+00:00
 -- url     : https://prove2.me/theorems/74de2ae8-38f6-4ee4-a0f6-5f7318271cdd

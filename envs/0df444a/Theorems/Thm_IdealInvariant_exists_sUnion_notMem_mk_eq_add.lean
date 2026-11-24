@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IdealInvariant_exists_sUnion_notMem_mk_eq_add
 -- name    : IdealInvariant.exists_sUnion_notMem_mk_eq_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:30:00.718509+00:00
 -- url     : https://prove2.me/theorems/5e700eaa-fb8e-4e59-984c-37b73d1b1186

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_eulerFac_mul_conj_inv_split
 -- name    : Formalism.HermitianLattices.Ext.L3.eulerFac_mul_conj_inv_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:51:26.038806+00:00
 -- url     : https://prove2.me/theorems/2f3de984-8a02-44ea-bbb6-67aca4a49c26

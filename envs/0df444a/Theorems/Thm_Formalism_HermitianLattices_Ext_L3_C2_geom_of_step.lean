@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_C2_geom_of_step
 -- name    : Formalism.HermitianLattices.Ext.L3.C2.geom_of_step
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:46:14.257962+00:00
 -- url     : https://prove2.me/theorems/29636bce-9749-4ac1-83c5-1016f3570e21

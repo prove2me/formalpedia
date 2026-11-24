@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for DepthOneQExp.theorem_2_11
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Shuze Chen
 -- created : 2026-11-24T06:51:43.758834+00:00
 -- url     : https://prove2.me/submissions/54a06bc6-432e-47f6-aeeb-5d2634627093
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_DepthOneQExp_sigma

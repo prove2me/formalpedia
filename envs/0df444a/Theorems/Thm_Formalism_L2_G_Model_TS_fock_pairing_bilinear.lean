@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_fock_pairing_bilinear
 -- name    : Formalism.L2.G.Model.TS.fock_pairing_bilinear
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:18:25.343642+00:00
 -- url     : https://prove2.me/theorems/6223cf89-a3e4-4cfd-8a16-2f7474d68651

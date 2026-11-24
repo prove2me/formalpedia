@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_A5_sum_dif_le
 -- name    : Formalism.HermitianLattices.Ext.L3.A5.sum_dif_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:58.065094+00:00
 -- url     : https://prove2.me/theorems/8522a883-7f36-4644-8795-d8f57806ef4a

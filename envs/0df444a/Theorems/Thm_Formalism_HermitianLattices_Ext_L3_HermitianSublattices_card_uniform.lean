@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HermitianSublattices_card_uniform
 -- name    : Formalism.HermitianLattices.Ext.L3.HermitianSublattices.card_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:11:58.36023+00:00
 -- url     : https://prove2.me/theorems/f269e43b-f523-4b49-be39-508a69441140

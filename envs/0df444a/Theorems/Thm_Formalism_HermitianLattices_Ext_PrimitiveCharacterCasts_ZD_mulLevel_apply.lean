@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimitiveCharacterCasts_ZD_mulLevel_apply
 -- name    : Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.ZD.mulLevel_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:40.113821+00:00
 -- url     : https://prove2.me/theorems/a60af7da-b477-49cb-a69b-1cab9968e5c0

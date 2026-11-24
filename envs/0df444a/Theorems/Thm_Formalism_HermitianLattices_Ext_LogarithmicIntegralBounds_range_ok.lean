@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_range_ok
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.range_ok
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:52:29.119292+00:00
 -- url     : https://prove2.me/theorems/33364835-7827-4bd6-89cc-699eedac5dfd

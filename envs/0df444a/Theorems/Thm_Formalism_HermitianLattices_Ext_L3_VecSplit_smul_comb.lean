@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_VecSplit_smul_comb
 -- name    : Formalism.HermitianLattices.Ext.L3.VecSplit.smul_comb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:16.766789+00:00
 -- url     : https://prove2.me/theorems/e51f9edd-448a-44c9-814a-8275a3e75145

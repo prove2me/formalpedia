@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_sharp_schi_div
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.sharp_schi_div
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:29.976283+00:00
 -- url     : https://prove2.me/theorems/8f752d07-e90d-45cc-9d7d-f58be2a762a3

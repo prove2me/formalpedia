@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Curvature_minimaxWidth
 -- name    : Curvature.minimaxWidth
--- status  : Open
+-- status  : Proved
 -- author  : @ssakaue
 -- created : 2026-11-24T07:30:05.002948+00:00
 -- url     : https://prove2.me/theorems/1dfc080e-a34c-4606-a5d7-c4ade7b6c7fc

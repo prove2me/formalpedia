@@ -1,0 +1,28 @@
+-- Prove2me | solution 1 for Formalism.HermitianLatticeCounting.Final.LocalIntegralStructure.gramDetGen
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-24T07:33:10.087144+00:00
+-- url     : https://prove2.me/submissions/b801a351-dca1-41c1-b4ce-6997fe75cc44
+
+import Definitions.Def_Formalism_FlagUnipotentLattices_DetIndexProductHyperbolicInequality
+import Definitions.Def_Formalism_FlagUnipotentLattices_DetIndexProductPlacesInequalitySq
+import Definitions.Def_Formalism_FlagUnipotentLattices_UnitSumBound
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_LocalIntegralStructure
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_ComplexMultiplicationRoot
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_ConstantProductFormula
+import Definitions.Def_Formalism_FlagUnipotentLattices_SignaturePreservingEntryNorms
+import Theorems.Thm_Formalism_HermitianLatticeCounting_P_gram_determinant_general
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.HermitianLatticeCounting Formalism.HermitianLatticeCounting.Final Formalism.HermitianLatticeCounting.Final.LocalIntegralStructure
+namespace Formalism.HermitianLatticeCounting.Final.LocalIntegralStructure
+theorem _root_.solution : Formalism.HermitianLatticeCounting.LocalIntegralStructure.GramDetGen := Formalism.HermitianLatticeCounting.P.gram_determinant_general
+end Formalism.HermitianLatticeCounting.Final.LocalIntegralStructure

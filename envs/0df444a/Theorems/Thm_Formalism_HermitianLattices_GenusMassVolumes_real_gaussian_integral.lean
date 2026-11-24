@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GenusMassVolumes_real_gaussian_integral
 -- name    : Formalism.HermitianLattices.GenusMassVolumes.real_gaussian_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:15.801898+00:00
 -- url     : https://prove2.me/theorems/a25ff028-f812-4f01-af6f-5923451ce370

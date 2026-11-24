@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BoxSum_integral_gW
 -- name    : Formalism.HermitianLattices.Ext.L3.BoxSum.integral_gW
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:46:23.078804+00:00
 -- url     : https://prove2.me/theorems/d1deea6f-86b5-4da6-ab45-2bbc91c43daf

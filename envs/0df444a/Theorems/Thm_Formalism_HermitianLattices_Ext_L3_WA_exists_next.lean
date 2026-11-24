@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_WA_exists_next
 -- name    : Formalism.HermitianLattices.Ext.L3.WA.exists_next
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:53.549146+00:00
 -- url     : https://prove2.me/theorems/cbed5a2c-d8b4-4edb-8b27-3677ae1363d8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LocalIntegralStructure_unitsSquareIndex
 -- name    : Formalism.HermitianLatticeCounting.Final.LocalIntegralStructure.unitsSquareIndex
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:30:51.657473+00:00
 -- url     : https://prove2.me/theorems/370c98e8-7b56-41d5-a33f-9ce3a73c4be2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_linear_form_integrality_on_support
 -- name    : Formalism.HermitianLattices.LocalLatticeBases.linear_form_integrality_on_support
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:27.729217+00:00
 -- url     : https://prove2.me/theorems/87b429b1-5d88-40d1-b70d-bf54b1a9813b

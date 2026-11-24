@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LocF_patch
 -- name    : Formalism.HermitianLattices.Ext.L3.LocF.patch
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:04:58.486432+00:00
 -- url     : https://prove2.me/theorems/83c3879d-6fda-4ea6-bc19-e1a6a1b9855a

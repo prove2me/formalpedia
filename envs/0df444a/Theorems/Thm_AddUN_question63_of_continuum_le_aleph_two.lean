@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AddUN_question63_of_continuum_le_aleph_two
 -- name    : AddUN.question63_of_continuum_le_aleph_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:29:58.735883+00:00
 -- url     : https://prove2.me/theorems/c8501cac-9283-4e49-ae72-686038b42cad

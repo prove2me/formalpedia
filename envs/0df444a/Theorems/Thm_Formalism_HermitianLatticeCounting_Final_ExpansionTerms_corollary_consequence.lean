@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_ExpansionTerms_corollary_consequence
 -- name    : Formalism.HermitianLatticeCounting.Final.ExpansionTerms.corollary_consequence
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:10.169241+00:00
 -- url     : https://prove2.me/theorems/c1c4536b-14ed-4f47-b623-9d0abb5fe563

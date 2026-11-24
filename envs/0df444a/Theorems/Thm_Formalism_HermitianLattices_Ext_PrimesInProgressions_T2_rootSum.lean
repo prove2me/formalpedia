@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_T2_rootSum
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.T2.rootSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:30.984961+00:00
 -- url     : https://prove2.me/theorems/324ff623-97d9-4119-a992-0ea67055122c

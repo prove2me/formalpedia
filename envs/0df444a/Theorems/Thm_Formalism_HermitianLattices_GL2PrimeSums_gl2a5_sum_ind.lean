@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GL2PrimeSums_gl2a5_sum_ind
 -- name    : Formalism.HermitianLattices.GL2PrimeSums.gl2a5_sum_ind
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:06.305945+00:00
 -- url     : https://prove2.me/theorems/ff77ff50-038d-44d2-88ab-fc4bf00d75b1

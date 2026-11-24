@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DepthOneQExp_gem_generation_small
 -- name    : DepthOneQExp.gem_generation_small
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-24T06:55:51.89059+00:00
 -- url     : https://prove2.me/theorems/eb014684-a8b4-4540-b781-66f9c1fc0213

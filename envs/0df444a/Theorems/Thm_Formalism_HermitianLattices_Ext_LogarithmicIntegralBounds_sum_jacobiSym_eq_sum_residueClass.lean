@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_sum_jacobiSym_eq_sum_residueClass
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.sum_jacobiSym_eq_sum_residueClass
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:51:50.432065+00:00
 -- url     : https://prove2.me/theorems/149e2064-9113-4da7-8c12-465c021491a5

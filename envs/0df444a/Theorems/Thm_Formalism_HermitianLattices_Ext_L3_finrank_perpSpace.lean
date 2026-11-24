@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_finrank_perpSpace
 -- name    : Formalism.HermitianLattices.Ext.L3.finrank_perpSpace
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:09.979818+00:00
 -- url     : https://prove2.me/theorems/f2d797aa-0be4-46f5-8974-f258061b4745

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AddUN_Coding_card_le_of_subset_bad
 -- name    : AddUN.Coding.card_le_of_subset_bad
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:25:10.921799+00:00
 -- url     : https://prove2.me/theorems/c328671d-e19f-4e91-8038-31097f7e4362

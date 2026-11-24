@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_rescaleCovol
 -- name    : Formalism.HN.rescaleCovol
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:43.725863+00:00
 -- url     : https://prove2.me/theorems/09534c99-518d-4497-a30f-2e0cfa771d71

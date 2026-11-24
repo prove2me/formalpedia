@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AddUN_Coding_isClopen_marker
 -- name    : AddUN.Coding.isClopen_marker
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:25:03.049154+00:00
 -- url     : https://prove2.me/theorems/f9f8d6a0-69d9-4c97-86e7-4e112c4b4e81

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_TuranPowerSumBounds_akapD_le
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.TuranPowerSumBounds.akapD_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:38.36015+00:00
 -- url     : https://prove2.me/theorems/caa210b9-3585-4a96-b443-bd5cf7ad7026

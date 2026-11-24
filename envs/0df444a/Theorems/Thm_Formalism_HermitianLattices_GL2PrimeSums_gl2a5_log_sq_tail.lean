@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GL2PrimeSums_gl2a5_log_sq_tail
 -- name    : Formalism.HermitianLattices.GL2PrimeSums.gl2a5_log_sq_tail
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:02:57.463802+00:00
 -- url     : https://prove2.me/theorems/6d64a48a-b050-4b3d-9c05-7b2a1b9e4ce8

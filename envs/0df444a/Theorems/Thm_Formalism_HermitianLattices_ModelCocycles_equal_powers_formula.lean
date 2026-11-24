@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ModelCocycles_equal_powers_formula
 -- name    : Formalism.HermitianLattices.ModelCocycles.equal_powers_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:34.120799+00:00
 -- url     : https://prove2.me/theorems/cc148e9a-b0b3-4ed9-a8ad-e513e88697dd

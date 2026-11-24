@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_OrbSum_sum_orbits_on
 -- name    : Formalism.HermitianLattices.Ext.L3.OrbSum.sum_orbits_on
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:13:50.483682+00:00
 -- url     : https://prove2.me/theorems/5c5b89c7-76e6-4639-89d4-912d898ae5d2

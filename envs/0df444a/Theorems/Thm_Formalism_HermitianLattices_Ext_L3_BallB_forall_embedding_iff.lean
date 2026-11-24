@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallB_forall_embedding_iff
 -- name    : Formalism.HermitianLattices.Ext.L3.BallB.forall_embedding_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:45:26.690793+00:00
 -- url     : https://prove2.me/theorems/1fb3d344-46ae-4590-9a29-1b52a2f5ed24

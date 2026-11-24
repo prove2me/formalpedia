@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ModelCocycles_genus_one_character
 -- name    : Formalism.HermitianLattices.ModelCocycles.genus_one_character
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:38.993971+00:00
 -- url     : https://prove2.me/theorems/28df4a31-217e-4f34-98cb-3110ce74bd32

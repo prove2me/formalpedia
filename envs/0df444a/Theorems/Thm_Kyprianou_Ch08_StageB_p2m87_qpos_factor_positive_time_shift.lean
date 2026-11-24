@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m87_qpos_factor_positive_time_shift
 -- name    : Kyprianou.Ch08.StageB.p2m87_qpos_factor_positive_time_shift
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T03:45:47.813311+00:00
 -- url     : https://prove2.me/theorems/dd324f45-dd0a-4d05-bf2d-3c48daaec7ac

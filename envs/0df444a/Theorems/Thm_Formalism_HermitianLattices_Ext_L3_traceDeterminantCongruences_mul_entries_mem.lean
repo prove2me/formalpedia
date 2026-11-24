@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_traceDeterminantCongruences_mul_entries_mem
 -- name    : Formalism.HermitianLattices.Ext.L3.traceDeterminantCongruences.mul_entries_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:56:25.351342+00:00
 -- url     : https://prove2.me/theorems/70ff5fc0-288d-489f-8155-aed19e86075b

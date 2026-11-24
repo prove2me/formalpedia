@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BoxSum_exists_shifts
 -- name    : Formalism.HermitianLattices.Ext.L3.BoxSum.exists_shifts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:47:12.596322+00:00
 -- url     : https://prove2.me/theorems/ccb5c8a2-9fca-4f9f-a29e-c505df140cec

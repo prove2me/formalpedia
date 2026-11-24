@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_prodMinLeOfProdRatio
 -- name    : Formalism.HermitianLatticeCounting.P.prodMinLeOfProdRatio
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:37.891277+00:00
 -- url     : https://prove2.me/theorems/b9b20e40-9b2d-49fa-af5b-3b372f0cef8d

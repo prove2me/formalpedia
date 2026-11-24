@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_pow_le_sqrt_of_rpow_le_log
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.pow_le_sqrt_of_rpow_le_log
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:56:00.718648+00:00
 -- url     : https://prove2.me/theorems/234af3e9-04d5-4a13-8353-947e558f482b

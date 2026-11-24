@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_tail_along_ray_bound
 -- name    : Formalism.HermitianLattices.CumulantEstimateDefs.tail_along_ray_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:26.463117+00:00
 -- url     : https://prove2.me/theorems/9e8fbc0c-f293-47f0-ab7d-f6060cbceddc

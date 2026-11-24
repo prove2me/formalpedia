@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_primitive_orbit_functional_unique
 -- name    : Formalism.HermitianLattices.LocalLatticeBases.primitive_orbit_functional_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:32.244945+00:00
 -- url     : https://prove2.me/theorems/8bebd514-a44c-4342-b568-eb8641f9383f

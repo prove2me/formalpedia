@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_pairs_one
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.pairs_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:03:55.128701+00:00
 -- url     : https://prove2.me/theorems/fa34d482-85ce-4d09-bdbe-76543819d1e9

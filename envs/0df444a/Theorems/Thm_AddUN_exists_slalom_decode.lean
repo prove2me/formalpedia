@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AddUN_exists_slalom_decode
 -- name    : AddUN.exists_slalom_decode
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:25:04.643632+00:00
 -- url     : https://prove2.me/theorems/d08969c9-f69b-4ea4-84ef-f5c556358364

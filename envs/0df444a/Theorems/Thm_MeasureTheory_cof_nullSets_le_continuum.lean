@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_cof_nullSets_le_continuum
 -- name    : MeasureTheory.cof_nullSets_le_continuum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:28:26.161451+00:00
 -- url     : https://prove2.me/theorems/7c9e30bf-bd4d-4b8a-b53f-eb02bca16f97

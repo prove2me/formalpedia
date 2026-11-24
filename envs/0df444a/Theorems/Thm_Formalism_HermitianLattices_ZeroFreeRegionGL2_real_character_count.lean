@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ZeroFreeRegionGL2_real_character_count
 -- name    : Formalism.HermitianLattices.ZeroFreeRegionGL2.real_character_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:58.546345+00:00
 -- url     : https://prove2.me/theorems/5f15a467-ff34-4bb5-809c-7bd45a0f18cc

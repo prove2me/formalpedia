@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_liX_two_rpow_abs
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.liX_two_rpow_abs
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:05.733025+00:00
 -- url     : https://prove2.me/theorems/dad7e99d-7010-4a9f-b9b9-107ddb6766a4

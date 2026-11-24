@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_FiniteNormFibres_card_norm_fibre
 -- name    : Formalism.HermitianLattices.Ext.L3.FiniteNormFibres.card_norm_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:12:04.0871+00:00
 -- url     : https://prove2.me/theorems/d2f96106-36d7-4bd3-92d2-d4caa31946c0

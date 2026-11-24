@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_jointSpanRadical
 -- name    : Formalism.HermitianLatticeCounting.P.jointSpanRadical
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:57.445808+00:00
 -- url     : https://prove2.me/theorems/77b6e85e-89ce-4f20-9405-7729d5c1bde9

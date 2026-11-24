@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_differenced_kernel_bound
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.differenced_kernel_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:56:24.528503+00:00
 -- url     : https://prove2.me/theorems/44191079-8294-483d-ba6e-de2de4cfaa9a

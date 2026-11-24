@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_SupplyAP_zetaMul_eq_sum
 -- name    : Formalism.HermitianLattices.Ext.SupplyAP.zetaMul_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:08.125049+00:00
 -- url     : https://prove2.me/theorems/f8523e16-b35c-477f-9c50-28f732c0613c

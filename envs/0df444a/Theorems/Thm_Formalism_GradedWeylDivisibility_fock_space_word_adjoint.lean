@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_fock_space_word_adjoint
 -- name    : Formalism.GradedWeylDivisibility.fock_space_word_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:07:21.569806+00:00
 -- url     : https://prove2.me/theorems/bc2e4157-3d51-4dd5-84d6-13e158cf89f7

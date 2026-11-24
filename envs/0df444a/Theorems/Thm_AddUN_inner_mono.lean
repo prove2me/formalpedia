@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AddUN_inner_mono
 -- name    : AddUN.inner_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:27:24.847593+00:00
 -- url     : https://prove2.me/theorems/9e9ea8c6-b753-4cba-adda-897c09434484

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GenusMassVolumes_bracket_bound
 -- name    : Formalism.HermitianLattices.GenusMassVolumes.bracket_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:11.687436+00:00
 -- url     : https://prove2.me/theorems/84f5f28a-9232-41ec-8e26-888c751b80de

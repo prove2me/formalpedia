@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AddUN_add_universallyNull_le_add_null_of_codingLemma
 -- name    : AddUN.add_universallyNull_le_add_null_of_codingLemma
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:24:34.618812+00:00
 -- url     : https://prove2.me/theorems/91e2c58a-7e09-423f-b830-353cfcb9cffa

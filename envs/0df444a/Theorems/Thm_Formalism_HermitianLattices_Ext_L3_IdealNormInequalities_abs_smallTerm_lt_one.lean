@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_IdealNormInequalities_abs_smallTerm_lt_one
 -- name    : Formalism.HermitianLattices.Ext.L3.IdealNormInequalities.abs_smallTerm_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:02.747712+00:00
 -- url     : https://prove2.me/theorems/c8bef8ab-fb86-4af1-b68e-24d55e23dd5c

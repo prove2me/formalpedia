@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_DHF_final_contra
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.DHF.final_contra
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:03.673857+00:00
 -- url     : https://prove2.me/theorems/3ba0a390-f1d5-4201-a740-1667cba50108

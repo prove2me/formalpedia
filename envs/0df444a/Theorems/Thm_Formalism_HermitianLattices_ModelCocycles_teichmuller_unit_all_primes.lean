@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ModelCocycles_teichmuller_unit_all_primes
 -- name    : Formalism.HermitianLattices.ModelCocycles.teichmuller_unit_all_primes
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:41.739807+00:00
 -- url     : https://prove2.me/theorems/c298f194-8b96-4d46-aa57-282c2d1ae0d9

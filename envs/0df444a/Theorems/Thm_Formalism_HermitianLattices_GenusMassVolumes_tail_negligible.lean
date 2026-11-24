@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GenusMassVolumes_tail_negligible
 -- name    : Formalism.HermitianLattices.GenusMassVolumes.tail_negligible
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:40.247807+00:00
 -- url     : https://prove2.me/theorems/7d8e96ba-6c9e-4918-a92c-120f93396bbb

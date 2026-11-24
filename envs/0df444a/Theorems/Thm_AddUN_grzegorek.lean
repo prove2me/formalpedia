@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AddUN_grzegorek
 -- name    : AddUN.grzegorek
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:24:57.664405+00:00
 -- url     : https://prove2.me/theorems/cc1520a0-94c0-4165-8806-2d1bf0d038dc

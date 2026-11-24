@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_tsact_sum_right
 -- name    : Formalism.L2.G.Model.TS.tsact_sum_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:18:12.477799+00:00
 -- url     : https://prove2.me/theorems/adc78b14-852a-4934-9199-3fd8f0580ff2

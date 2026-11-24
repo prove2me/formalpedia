@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ModelCocycles_cross_terms_vanish
 -- name    : Formalism.HermitianLattices.ModelCocycles.cross_terms_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:32.499796+00:00
 -- url     : https://prove2.me/theorems/c3c50724-c3e4-486e-bfa0-9b02a53d90f9

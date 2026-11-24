@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_SupplyAP_excSum_leOf
 -- name    : Formalism.HermitianLattices.Ext.SupplyAP.excSum_leOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:33.362839+00:00
 -- url     : https://prove2.me/theorems/561ba8f9-7c41-4f6b-bb49-db2bcc3bde3d

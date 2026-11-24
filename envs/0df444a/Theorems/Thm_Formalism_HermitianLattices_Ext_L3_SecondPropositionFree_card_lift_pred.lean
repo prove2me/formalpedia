@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_SecondPropositionFree_card_lift_pred
 -- name    : Formalism.HermitianLattices.Ext.L3.SecondPropositionFree.card_lift_pred
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:17.556187+00:00
 -- url     : https://prove2.me/theorems/0b4f2691-7d64-49f8-8a05-8b20ba11928f

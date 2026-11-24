@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_certain_record_ae
 -- name    : Kyprianou.Ch08.StageB.p2m810_certain_record_ae
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T07:30:00.448015+00:00
 -- url     : https://prove2.me/theorems/d8bbf14e-89e1-409b-8f1a-f6ec3b683f2f

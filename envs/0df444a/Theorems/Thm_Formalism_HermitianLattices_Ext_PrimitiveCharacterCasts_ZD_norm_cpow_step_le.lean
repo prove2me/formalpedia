@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimitiveCharacterCasts_ZD_norm_cpow_step_le
 -- name    : Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.ZD.norm_cpow_step_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:26.316563+00:00
 -- url     : https://prove2.me/theorems/7deffb55-4f69-40e9-9f22-01ce745661ce

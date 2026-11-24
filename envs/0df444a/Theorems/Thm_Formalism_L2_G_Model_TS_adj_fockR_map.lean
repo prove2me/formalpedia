@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_adj_fockR_map
 -- name    : Formalism.L2.G.Model.TS.adj_fockR_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:18:45.980794+00:00
 -- url     : https://prove2.me/theorems/cabfe4e8-96a8-4154-a591-250085095d64

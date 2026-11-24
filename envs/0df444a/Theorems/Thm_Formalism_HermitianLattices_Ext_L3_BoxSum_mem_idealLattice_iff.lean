@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BoxSum_mem_idealLattice_iff
 -- name    : Formalism.HermitianLattices.Ext.L3.BoxSum.mem_idealLattice_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:47:42.378793+00:00
 -- url     : https://prove2.me/theorems/06e09596-d1cd-4c2b-bf69-2af10561284e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m87_qpos_factor_enreal_stopped_reward_factor
 -- name    : Kyprianou.Ch08.StageB.p2m87_qpos_factor_enreal_stopped_reward_factor
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T04:25:48.12036+00:00
 -- url     : https://prove2.me/theorems/3ce91e20-486e-4e51-8a72-adc4efbdb861

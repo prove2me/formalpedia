@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_flip_apply_of_ne
 -- name    : MeasureTheory.flip_apply_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:28:30.540131+00:00
 -- url     : https://prove2.me/theorems/e1455b72-795e-434c-8d44-5c63381674b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_sum_log_sq_div_sq_primes_tail_le
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.sum_log_sq_div_sq_primes_tail_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:04:20.340541+00:00
 -- url     : https://prove2.me/theorems/ea6941e1-783f-4fe1-883d-a6941dc7d70d

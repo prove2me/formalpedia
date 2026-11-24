@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_WA_exists_isom_fix
 -- name    : Formalism.HermitianLattices.Ext.L3.WA.exists_isom_fix
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:51:16.48488+00:00
 -- url     : https://prove2.me/theorems/038961b8-3bd4-4948-b65d-62d988320aa0

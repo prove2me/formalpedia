@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_SupplyAP_innerSum
 -- name    : Formalism.HermitianLattices.Ext.SupplyAP.innerSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:12.557293+00:00
 -- url     : https://prove2.me/theorems/93e80045-8fc6-4c5b-b36c-e881b66ac1bb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_universallyNullSets_subset_nullSets
 -- name    : MeasureTheory.universallyNullSets_subset_nullSets
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:28:19.472799+00:00
 -- url     : https://prove2.me/theorems/1d449b47-2257-4794-9401-c5aeb2869e59

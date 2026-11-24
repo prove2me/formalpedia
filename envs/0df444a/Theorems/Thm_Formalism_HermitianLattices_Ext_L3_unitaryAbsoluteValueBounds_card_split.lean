@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_unitaryAbsoluteValueBounds_card_split
 -- name    : Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.card_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:56:46.004353+00:00
 -- url     : https://prove2.me/theorems/b77ee3eb-6325-41e2-b5da-4fec558adbf2

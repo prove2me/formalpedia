@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_DualPolygon_key_one
 -- name    : Formalism.HN.DualPolygon.key_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:28.190519+00:00
 -- url     : https://prove2.me/theorems/a17113d1-cb97-44b8-a066-42fa2ae9ad39

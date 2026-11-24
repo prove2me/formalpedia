@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_cnt_add_small
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.cnt_add_small
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:52:49.605534+00:00
 -- url     : https://prove2.me/theorems/8045df49-df13-4ff0-bb92-6973d987386b

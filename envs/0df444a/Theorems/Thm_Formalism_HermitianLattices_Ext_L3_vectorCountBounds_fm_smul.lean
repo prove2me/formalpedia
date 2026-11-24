@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_vectorCountBounds_fm_smul
 -- name    : Formalism.HermitianLattices.Ext.L3.vectorCountBounds.fm_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:42.278274+00:00
 -- url     : https://prove2.me/theorems/10241c14-4186-49c1-8ba8-91e2e7f503a8

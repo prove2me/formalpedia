@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallB_absNorm_span_singleton_eq
 -- name    : Formalism.HermitianLattices.Ext.L3.BallB.absNorm_span_singleton_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:45:47.510803+00:00
 -- url     : https://prove2.me/theorems/bc7323c1-ce42-4947-854c-1b72c123c948

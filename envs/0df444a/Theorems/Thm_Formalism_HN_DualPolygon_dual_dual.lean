@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_DualPolygon_dual_dual
 -- name    : Formalism.HN.DualPolygon.dual_dual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:38:18.685287+00:00
 -- url     : https://prove2.me/theorems/30602750-8fab-4f03-bcc7-9ae7c19da6ab

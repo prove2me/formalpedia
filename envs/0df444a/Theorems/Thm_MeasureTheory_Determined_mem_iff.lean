@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_Determined_mem_iff
 -- name    : MeasureTheory.Determined.mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:28:56.279332+00:00
 -- url     : https://prove2.me/theorems/44523209-d1e4-4cc4-bce3-0bb59cbf1e87

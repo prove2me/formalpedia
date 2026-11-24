@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_leadj_fockF_map
 -- name    : Formalism.GradedWeylDivisibility.leadj_fockF_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:07:38.862092+00:00
 -- url     : https://prove2.me/theorems/2afc8ff6-15de-4aff-9049-3ad1e43ecf90

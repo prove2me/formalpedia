@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimitiveCharacterCasts_ZD_mco_norm_le
 -- name    : Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.ZD.mco_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:19:58.02173+00:00
 -- url     : https://prove2.me/theorems/26d59972-8eb8-40a2-a17b-60dd0ebde3a7

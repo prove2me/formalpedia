@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_length_quotient_twist_formula
 -- name    : Formalism.HermitianLattices.LocalLatticeBases.length_quotient_twist_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:20.374982+00:00
 -- url     : https://prove2.me/theorems/62f56c48-de94-4f27-8a7f-71e4c40edf13

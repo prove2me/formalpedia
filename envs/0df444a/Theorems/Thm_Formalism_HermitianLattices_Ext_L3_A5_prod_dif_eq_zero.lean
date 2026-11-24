@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_A5_prod_dif_eq_zero
 -- name    : Formalism.HermitianLattices.Ext.L3.A5.prod_dif_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:03.051809+00:00
 -- url     : https://prove2.me/theorems/09aca870-f742-4cb9-8d6a-a5c17d496615

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_Measure_ext_of_initialCylinders
 -- name    : MeasureTheory.Measure.ext_of_initialCylinders
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:25:23.865827+00:00
 -- url     : https://prove2.me/theorems/d1f86858-78c7-4e01-927d-344adf2279e8

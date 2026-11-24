@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_integral_mul_aux
 -- name    : MeasureTheory.integral_mul_aux
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:29:38.196004+00:00
 -- url     : https://prove2.me/theorems/eacc44a8-19e2-4abd-ac43-1f916bba8fae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ModelCocycles_character_modulus_all
 -- name    : Formalism.HermitianLattices.ModelCocycles.character_modulus_all
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:00:36.880826+00:00
 -- url     : https://prove2.me/theorems/6d6a54c3-ab61-45c0-af18-c0a06d09f2c8

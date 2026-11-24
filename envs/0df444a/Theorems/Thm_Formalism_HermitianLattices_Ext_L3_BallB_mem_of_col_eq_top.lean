@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallB_mem_of_col_eq_top
 -- name    : Formalism.HermitianLattices.Ext.L3.BallB.mem_of_col_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:46:06.351751+00:00
 -- url     : https://prove2.me/theorems/9a6a0a03-6938-498e-afca-63aac06dad50

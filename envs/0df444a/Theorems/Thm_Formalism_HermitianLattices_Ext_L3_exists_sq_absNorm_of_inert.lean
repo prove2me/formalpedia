@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_exists_sq_absNorm_of_inert
 -- name    : Formalism.HermitianLattices.Ext.L3.exists_sq_absNorm_of_inert
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:15:24.600557+00:00
 -- url     : https://prove2.me/theorems/cb98353d-07f8-4a6d-bfab-f37442c44e7e

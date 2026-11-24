@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallB_exists_det_span
 -- name    : Formalism.HermitianLattices.Ext.L3.BallB.exists_det_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:45:32.214869+00:00
 -- url     : https://prove2.me/theorems/2468f104-fd70-4228-a1e7-eb2c213572ab

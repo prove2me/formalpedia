@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimitiveCharacterCasts_ZD_conj_natCast_cpow_neg
 -- name    : Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.ZD.conj_natCast_cpow_neg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:47.406823+00:00
 -- url     : https://prove2.me/theorems/7879b5e8-30b5-459a-95a9-a28797943dae

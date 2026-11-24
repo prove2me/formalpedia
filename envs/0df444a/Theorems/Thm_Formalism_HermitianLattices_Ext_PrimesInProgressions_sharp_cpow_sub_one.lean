@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_sharp_cpow_sub_one
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.sharp_cpow_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:32.69958+00:00
 -- url     : https://prove2.me/theorems/0c9c1e0d-d19d-448a-aa9a-385897e0dc1e

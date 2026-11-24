@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GenusMassVolumes_corollary_needs_degree
 -- name    : Formalism.HermitianLattices.GenusMassVolumes.corollary_needs_degree
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:08.987008+00:00
 -- url     : https://prove2.me/theorems/5bf45c6c-f788-446a-958b-5c4a2115d9e5

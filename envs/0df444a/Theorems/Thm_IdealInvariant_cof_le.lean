@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IdealInvariant_cof_le
 -- name    : IdealInvariant.cof_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:20:27.090745+00:00
 -- url     : https://prove2.me/theorems/3ca61b60-d12d-4c51-bf9f-40353146dcf1

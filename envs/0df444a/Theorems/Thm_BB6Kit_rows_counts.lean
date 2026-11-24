@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BB6Kit_rows_counts
 -- name    : BB6Kit.rows_counts
--- status  : Open
+-- status  : Proved
 -- author  : @alon yuval
 -- created : 2026-11-24T07:20:51.06083+00:00
 -- url     : https://prove2.me/theorems/0d8cdd71-7c8c-4411-9b34-d6082e83ff41

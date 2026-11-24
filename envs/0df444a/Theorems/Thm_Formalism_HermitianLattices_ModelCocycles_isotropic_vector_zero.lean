@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ModelCocycles_isotropic_vector_zero
 -- name    : Formalism.HermitianLattices.ModelCocycles.isotropic_vector_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:34.185483+00:00
 -- url     : https://prove2.me/theorems/585bbb54-5da0-4a37-9719-5623321a09e6

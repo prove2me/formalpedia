@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_highest_weight_line
 -- name    : Formalism.GradedWeylDivisibility.highest_weight_line
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:58:49.267462+00:00
 -- url     : https://prove2.me/theorems/82c78109-d09f-435a-99b9-2d47b10ffb43

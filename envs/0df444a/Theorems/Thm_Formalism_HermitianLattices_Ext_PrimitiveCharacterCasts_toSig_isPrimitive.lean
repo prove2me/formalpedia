@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimitiveCharacterCasts_toSig_isPrimitive
 -- name    : Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.toSig_isPrimitive
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:51.441581+00:00
 -- url     : https://prove2.me/theorems/9397af3f-33b2-4bcc-bf1a-412f061d369c

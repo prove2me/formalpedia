@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_reductionMapsOfForms_map_map_piQ
 -- name    : Formalism.HermitianLattices.Ext.L3.reductionMapsOfForms.map_map_piQ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:36.622098+00:00
 -- url     : https://prove2.me/theorems/4d309735-8c8b-47e7-9d8e-36823e118405

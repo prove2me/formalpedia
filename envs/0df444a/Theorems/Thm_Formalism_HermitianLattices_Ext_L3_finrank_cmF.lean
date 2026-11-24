@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_finrank_cmF
 -- name    : Formalism.HermitianLattices.Ext.L3.finrank_cmF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:15:11.464178+00:00
 -- url     : https://prove2.me/theorems/a4326cad-4359-429e-90f5-a8f50975210d

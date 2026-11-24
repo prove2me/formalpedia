@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ExtensionFiltration_idealScale_mu
 -- name    : Formalism.ExtensionFiltration.idealScale_mu
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:36:31.85741+00:00
 -- url     : https://prove2.me/theorems/608db07e-047a-442f-b697-c71136ec6b57

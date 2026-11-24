@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_RamifiedHeckeModels_logarithmic_bound
 -- name    : Formalism.HermitianLattices.RamifiedHeckeModels.logarithmic_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:48.242423+00:00
 -- url     : https://prove2.me/theorems/1c4c2eb2-6760-4602-bc18-e05715b5a47a

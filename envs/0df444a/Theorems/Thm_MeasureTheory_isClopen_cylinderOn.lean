@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_isClopen_cylinderOn
 -- name    : MeasureTheory.isClopen_cylinderOn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:22:29.309801+00:00
 -- url     : https://prove2.me/theorems/04ff3495-0dea-4322-877c-f2d8a311ee76

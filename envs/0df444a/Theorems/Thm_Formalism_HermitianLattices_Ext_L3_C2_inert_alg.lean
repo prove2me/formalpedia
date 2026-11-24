@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_C2_inert_alg
 -- name    : Formalism.HermitianLattices.Ext.L3.C2.inert_alg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:46:02.729966+00:00
 -- url     : https://prove2.me/theorems/318e3483-41d6-41dc-a5a2-5d002ffbdcf7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_mainAP_lower
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.mainAP_lower
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:51:36.528736+00:00
 -- url     : https://prove2.me/theorems/335e389d-53b4-4005-a4a9-a8eb05b07128

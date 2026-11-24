@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_SupplyAP_log_sq_le_four_mul_of_one_le
 -- name    : Formalism.HermitianLattices.Ext.SupplyAP.log_sq_le_four_mul_of_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:42.137832+00:00
 -- url     : https://prove2.me/theorems/8d281c2f-36be-432a-9d8b-e830d9e0de71

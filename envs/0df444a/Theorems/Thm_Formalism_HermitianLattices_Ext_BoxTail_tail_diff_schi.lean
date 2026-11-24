@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_BoxTail_tail_diff_schi
 -- name    : Formalism.HermitianLattices.Ext.BoxTail.tail_diff_schi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:03:13.411463+00:00
 -- url     : https://prove2.me/theorems/e0b426cb-891c-4310-8a30-34784169145a

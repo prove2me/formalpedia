@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_quadratic_form_upper_bound
 -- name    : Formalism.HermitianLattices.CumulantEstimateDefs.quadratic_form_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:10.3408+00:00
 -- url     : https://prove2.me/theorems/27b3c51e-590b-496f-ad55-aa3ff6a8fd38

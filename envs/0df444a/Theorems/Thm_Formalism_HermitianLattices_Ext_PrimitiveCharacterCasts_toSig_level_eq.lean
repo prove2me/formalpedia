@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimitiveCharacterCasts_toSig_level_eq
 -- name    : Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.toSig_level_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:37.189124+00:00
 -- url     : https://prove2.me/theorems/300c2c5e-1aa9-4a14-9e9f-f97886cf5371

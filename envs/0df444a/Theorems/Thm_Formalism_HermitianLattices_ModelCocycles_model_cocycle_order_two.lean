@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ModelCocycles_model_cocycle_order_two
 -- name    : Formalism.HermitianLattices.ModelCocycles.model_cocycle_order_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:48.334801+00:00
 -- url     : https://prove2.me/theorems/f7fa90da-747d-4c30-b888-ee21611e280e

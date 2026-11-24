@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_T2_rootAvg
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.T2.rootAvg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:07.797204+00:00
 -- url     : https://prove2.me/theorems/8131c02d-fad5-47d6-af33-8e1567f05831

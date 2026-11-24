@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_SupplyAP_neg_half_le_gExp
 -- name    : Formalism.HermitianLattices.Ext.SupplyAP.neg_half_le_gExp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:10.987475+00:00
 -- url     : https://prove2.me/theorems/1bdb4319-61e6-4018-9bba-c810ed9a2067

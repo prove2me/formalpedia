@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_Pairs_pairs_r_not_prime
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.Pairs.pairs_r_not_prime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:56:23.459519+00:00
 -- url     : https://prove2.me/theorems/62dca74e-e41b-4eb0-9f0b-28f7783b04ae

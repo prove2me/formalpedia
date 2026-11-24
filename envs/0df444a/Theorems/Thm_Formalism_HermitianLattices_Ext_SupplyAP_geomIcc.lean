@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_SupplyAP_geomIcc
 -- name    : Formalism.HermitianLattices.Ext.SupplyAP.geomIcc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:01.279219+00:00
 -- url     : https://prove2.me/theorems/9a1ac693-c361-4df6-bc89-fcecd65a298f

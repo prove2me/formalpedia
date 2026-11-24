@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_SupplyAP_one_le_zetaMul_prime_pow_even
 -- name    : Formalism.HermitianLattices.Ext.SupplyAP.one_le_zetaMul_prime_pow_even
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:07.865801+00:00
 -- url     : https://prove2.me/theorems/b9b33635-f1eb-4673-b468-4c62b741a32a

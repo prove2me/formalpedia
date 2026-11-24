@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_SplitBAux_autL_iff
 -- name    : Formalism.HermitianLattices.Ext.L3.SplitBAux.autL_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:41.910069+00:00
 -- url     : https://prove2.me/theorems/36ce5b17-57dc-4e83-b270-201cb7a33768

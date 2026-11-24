@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_BsForm_hw_weight
 -- name    : Formalism.BranchingDeterminantCap.BsForm.hw_weight
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:12:28.283486+00:00
 -- url     : https://prove2.me/theorems/04de893e-baa5-4771-98c9-14fd4b77a3c5

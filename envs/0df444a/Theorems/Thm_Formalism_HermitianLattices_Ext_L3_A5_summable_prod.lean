@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_A5_summable_prod
 -- name    : Formalism.HermitianLattices.Ext.L3.A5.summable_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:44:05.281992+00:00
 -- url     : https://prove2.me/theorems/df8319d1-240d-4d11-8bd2-f12a93f4d53c

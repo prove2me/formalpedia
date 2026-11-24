@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_normalFormMeetNeBot
 -- name    : Formalism.HermitianLatticeCounting.P.normalFormMeetNeBot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:18.310394+00:00
 -- url     : https://prove2.me/theorems/c9b7d00d-0a49-41a6-93a8-779e7aab91a9

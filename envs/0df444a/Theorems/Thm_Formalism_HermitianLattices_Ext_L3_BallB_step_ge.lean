@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallB_step_ge
 -- name    : Formalism.HermitianLattices.Ext.L3.BallB.step_ge
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:45:18.35463+00:00
 -- url     : https://prove2.me/theorems/961e40e0-3cac-46a5-97f3-60fe961e1206

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_measurableSet_saturation
 -- name    : MeasureTheory.measurableSet_saturation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:26:39.550063+00:00
 -- url     : https://prove2.me/theorems/0dbba631-889d-4884-834c-52d5b1fd7503

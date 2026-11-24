@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_adj_fockR_add_left
 -- name    : Formalism.L2.G.Model.TS.adj_fockR_add_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:18:35.300508+00:00
 -- url     : https://prove2.me/theorems/a77226c9-c706-4b73-9e80-07fadfd5b5a8

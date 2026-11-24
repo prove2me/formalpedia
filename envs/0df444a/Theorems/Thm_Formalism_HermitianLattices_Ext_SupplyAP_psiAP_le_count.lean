@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_SupplyAP_psiAP_le_count
 -- name    : Formalism.HermitianLattices.Ext.SupplyAP.psiAP_le_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:22.44719+00:00
 -- url     : https://prove2.me/theorems/3600e2b0-55ed-4045-a31e-b6963a530c06

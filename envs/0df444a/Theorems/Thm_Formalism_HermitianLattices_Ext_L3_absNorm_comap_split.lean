@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_absNorm_comap_split
 -- name    : Formalism.HermitianLattices.Ext.L3.absNorm_comap_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:01:14.577438+00:00
 -- url     : https://prove2.me/theorems/f21d1e4f-e991-445f-be6a-ee5ee642b736

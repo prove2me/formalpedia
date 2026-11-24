@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallC_convex_ell
 -- name    : Formalism.HermitianLattices.Ext.L3.BallC.convex_ell
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:45:03.607931+00:00
 -- url     : https://prove2.me/theorems/70363f83-0b57-45ef-a3e7-a6b98c92d321

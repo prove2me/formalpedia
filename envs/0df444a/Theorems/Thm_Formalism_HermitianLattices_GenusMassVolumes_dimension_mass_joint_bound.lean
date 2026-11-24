@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GenusMassVolumes_dimension_mass_joint_bound
 -- name    : Formalism.HermitianLattices.GenusMassVolumes.dimension_mass_joint_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:02:58.274241+00:00
 -- url     : https://prove2.me/theorems/bb32a8ab-ec40-487b-a640-4212d9a648a9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AddUN_aleph0_lt_add_universallyNull
 -- name    : AddUN.aleph0_lt_add_universallyNull
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:29:44.4838+00:00
 -- url     : https://prove2.me/theorems/3119a48b-6a1a-461e-be89-babbc740e29d

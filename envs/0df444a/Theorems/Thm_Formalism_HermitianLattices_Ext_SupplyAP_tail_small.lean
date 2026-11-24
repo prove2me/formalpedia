@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_SupplyAP_tail_small
 -- name    : Formalism.HermitianLattices.Ext.SupplyAP.tail_small
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:17.50339+00:00
 -- url     : https://prove2.me/theorems/04aefb70-91ab-4784-a87d-9e3c1c23e0e3

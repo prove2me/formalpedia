@@ -9911,9 +9911,9 @@
 {"parent": "Formalism.HermitianLatticeCounting.P.S4aux.hermitian_count_assembly_of_type", "child": "Formalism_SobolevGaussianKernels_KernelBoundRel", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLatticeCounting.P.S4aux.hermitian_count_assembly_of_type", "child": "Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_SuperdiagonalAdditionInvariance", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLatticeCounting.P.S4aux.hermitian_count_assembly_of_type", "child": "Formalism_FlagUnipotentLattices_PairingOrthogonalComplement", "via": ["solution", "statement"]}
-{"parent": "Formalism.HermitianLatticeCounting.P.S4aux.primitive_density_inert", "child": "Formalism_SobolevGaussianKernels_KernelBoundRel", "via": ["statement"]}
-{"parent": "Formalism.HermitianLatticeCounting.P.S4aux.primitive_density_inert", "child": "Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_SuperdiagonalAdditionInvariance", "via": ["statement"]}
-{"parent": "Formalism.HermitianLatticeCounting.P.S4aux.primitive_density_inert", "child": "Formalism_FlagUnipotentLattices_PairingOrthogonalComplement", "via": ["statement"]}
+{"parent": "Formalism.HermitianLatticeCounting.P.S4aux.primitive_density_inert", "child": "Formalism_SobolevGaussianKernels_KernelBoundRel", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLatticeCounting.P.S4aux.primitive_density_inert", "child": "Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_SuperdiagonalAdditionInvariance", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLatticeCounting.P.S4aux.primitive_density_inert", "child": "Formalism_FlagUnipotentLattices_PairingOrthogonalComplement", "via": ["solution", "statement"]}
 {"parent": "Formalism.HN.PlaceDecomposition.sum_prj", "child": "Formalism_HarderNarasimhan_DefsPl", "via": ["solution", "statement"]}
 {"parent": "Formalism.HN.PlaceDecomposition.sum_prj", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_PlaceSplit", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLatticeCounting.P.invSqrtPowLeExp", "child": "Formalism_FlagUnipotentLattices_CardSubmodulesAndLinearEquivBounds", "via": ["solution", "statement"]}
@@ -10267,12 +10267,12 @@
 {"parent": "Formalism.FourierDecayAlt.P.LEx2.L2", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_ThetaLimit", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.crossOp_eig_gap", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_BochnerInequality_CrossOpEigGap", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.crossOp_eig_gap", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_BochnerInequality_InnerCrossOpEigEqZero", "via": ["statement"]}
-{"parent": "Formalism.HermitianLatticeCounting.Final.ExpansionTerms.integral_evaluation_fourth", "child": "Formalism_FlagUnipotentLattices_AlgebraicIdentityHigherDegree", "via": ["statement"]}
-{"parent": "Formalism.HermitianLatticeCounting.Final.ExpansionTerms.integral_evaluation_fourth", "child": "Formalism_FlagUnipotentLattices_UnipotentStabiliserCharacterisation", "via": ["statement"]}
-{"parent": "Formalism.HermitianLatticeCounting.Final.ExpansionTerms.integral_evaluation_fourth", "child": "Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_IntegrableOnIoiTruncatedPowerMoment", "via": ["statement"]}
-{"parent": "Formalism.HermitianLatticeCounting.Final.ExpansionTerms.integral_evaluation_fourth", "child": "Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_BlockMinorSumCounterexample", "via": ["statement"]}
-{"parent": "Formalism.HermitianLatticeCounting.Final.ExpansionTerms.integral_evaluation_fourth", "child": "Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_NormalisationIdentity", "via": ["statement"]}
-{"parent": "Formalism.HermitianLatticeCounting.Final.ExpansionTerms.integral_evaluation_fourth", "child": "Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_CircleIntegralInvSubEqZeroOfOutside", "via": ["statement"]}
+{"parent": "Formalism.HermitianLatticeCounting.Final.ExpansionTerms.integral_evaluation_fourth", "child": "Formalism_FlagUnipotentLattices_AlgebraicIdentityHigherDegree", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLatticeCounting.Final.ExpansionTerms.integral_evaluation_fourth", "child": "Formalism_FlagUnipotentLattices_UnipotentStabiliserCharacterisation", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLatticeCounting.Final.ExpansionTerms.integral_evaluation_fourth", "child": "Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_IntegrableOnIoiTruncatedPowerMoment", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLatticeCounting.Final.ExpansionTerms.integral_evaluation_fourth", "child": "Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_BlockMinorSumCounterexample", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLatticeCounting.Final.ExpansionTerms.integral_evaluation_fourth", "child": "Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_NormalisationIdentity", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLatticeCounting.Final.ExpansionTerms.integral_evaluation_fourth", "child": "Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_CircleIntegralInvSubEqZeroOfOutside", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.slt_mem_ncV_iff", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_BochnerInequality_NcVOneDecomp", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.slt_mem_ncV_iff", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_BochnerInequality_SltEqZeroOfCompact", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLatticeCounting.P.radius_sq_pow_card_places", "child": "Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_BlockMinorSumCounterexample", "via": ["solution", "statement"]}
@@ -11040,15 +11040,15 @@
 {"parent": "PI.WGL.LTB.initMinor_not_inj", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GelfandTsetlinLowering_LiftTupleM", "via": ["solution", "statement"]}
 {"parent": "Formalism.GradedWeylDivisibility.ldrow_rowAct_diag_eq", "child": "Formalism_GradedWeylDivisibility_StatementD", "via": ["solution", "statement"]}
 {"parent": "Formalism.GradedWeylDivisibility.ldrow_rowAct_diag_eq", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LDrowLemmas", "via": ["solution", "statement"]}
-{"parent": "Formalism.HN.piSum_single", "child": "Formalism_LatticeSlopes_LatticeSlopesProofs_ShortVector", "via": ["statement"]}
-{"parent": "Formalism.HN.piSum_single", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DegSupermod", "via": ["statement"]}
-{"parent": "Formalism.HN.piSum_single", "child": "Formalism_LatticeSlopes_ExistsSaturatedSlopeEqMuMax", "via": ["statement"]}
-{"parent": "Formalism.HN.piSum_single", "child": "Formalism_HarderNarasimhan_DegSupermodZ", "via": ["statement"]}
-{"parent": "Formalism.HN.piSum_single", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_PolygonSlopeSum", "via": ["statement"]}
-{"parent": "Formalism.HN.piSum_single", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_PiSumForallInsertOnly", "via": ["statement"]}
-{"parent": "Formalism.HN.piSum_single", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_SatBasic", "via": ["statement"]}
-{"parent": "Formalism.HN.piSum_single", "child": "Formalism_LatticeSlopes_LatticeSlopesProofs_DiscreteTopologyOfLe", "via": ["statement"]}
-{"parent": "Formalism.HN.piSum_single", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_MuChar", "via": ["statement"]}
+{"parent": "Formalism.HN.piSum_single", "child": "Formalism_LatticeSlopes_LatticeSlopesProofs_ShortVector", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.piSum_single", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DegSupermod", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.piSum_single", "child": "Formalism_LatticeSlopes_ExistsSaturatedSlopeEqMuMax", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.piSum_single", "child": "Formalism_HarderNarasimhan_DegSupermodZ", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.piSum_single", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_PolygonSlopeSum", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.piSum_single", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_PiSumForallInsertOnly", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.piSum_single", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_SatBasic", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.piSum_single", "child": "Formalism_LatticeSlopes_LatticeSlopesProofs_DiscreteTopologyOfLe", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.piSum_single", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_MuChar", "via": ["solution", "statement"]}
 {"parent": "RH1E6S14_D010_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "PI.FglTriFactor.Wk.hasSubst_upd", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FormalGroupTriangles_CoeffSubstUpdZero", "via": ["solution", "statement"]}
 {"parent": "PI.FglTriFactor.Wk.hasSubst_upd", "child": "PI.AddIntG.Wk.mvsubst_mem_SerS", "via": ["solution", "statement"]}
@@ -11360,9 +11360,9 @@
 {"parent": "PI.FglTriFactor.Wk.fact_div", "child": "PI.AddIntG.Wk.mvsubst_mem_SerS", "via": ["statement"]}
 {"parent": "PI.FglTriFactor.Wk.fact_div", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdditiveIntegralGroups_SubstMem", "via": ["statement"]}
 {"parent": "PI.FglTriFactor.Wk.fact_div", "child": "PI.AddIntG.Wk.mem_SerS", "via": ["statement"]}
-{"parent": "Formalism.HermitianLatticeCounting.P.S4aux.primitive_density_split", "child": "Formalism_SobolevGaussianKernels_KernelBoundRel", "via": ["statement"]}
-{"parent": "Formalism.HermitianLatticeCounting.P.S4aux.primitive_density_split", "child": "Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_SuperdiagonalAdditionInvariance", "via": ["statement"]}
-{"parent": "Formalism.HermitianLatticeCounting.P.S4aux.primitive_density_split", "child": "Formalism_FlagUnipotentLattices_PairingOrthogonalComplement", "via": ["statement"]}
+{"parent": "Formalism.HermitianLatticeCounting.P.S4aux.primitive_density_split", "child": "Formalism_SobolevGaussianKernels_KernelBoundRel", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLatticeCounting.P.S4aux.primitive_density_split", "child": "Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_SuperdiagonalAdditionInvariance", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLatticeCounting.P.S4aux.primitive_density_split", "child": "Formalism_FlagUnipotentLattices_PairingOrthogonalComplement", "via": ["solution", "statement"]}
 {"parent": "Formalism.GradedWeylDivisibility.lcminor_initMinor_eq", "child": "Formalism_GradedWeylDivisibility_StatementC", "via": ["solution", "statement"]}
 {"parent": "Formalism.GradedWeylDivisibility.lcminor_initMinor_eq", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_ColLexInitMinor", "via": ["solution", "statement"]}
 {"parent": "RH1E6S14.part_009_1", "child": "ArdaRH65K_Probes_ArbEconomics_Sound", "via": ["statement"]}
@@ -11410,8 +11410,8 @@
 {"parent": "Formalism.GM.leadingTermLemmas.sum_single_we", "child": "Formalism_MahlerMeasure_FinalM", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ConjugateNormBound_BeConjNormOfIntInv", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ConjugateNormBound_Development", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ConjugateNormBound_BeConjNormOfIntInv", "child": "Formalism_PeriodIntegrals_BeConjNorm", "via": ["statement"]}
-{"parent": "Formalism.HN.place_decomposition", "child": "Formalism_HarderNarasimhan_DefsPl", "via": ["statement"]}
-{"parent": "Formalism.HN.place_decomposition", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_PlaceSplit", "via": ["statement"]}
+{"parent": "Formalism.HN.place_decomposition", "child": "Formalism_HarderNarasimhan_DefsPl", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.place_decomposition", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_PlaceSplit", "via": ["solution", "statement"]}
 {"parent": "Formalism.GM.leadingTermLemmas.biHom_pow", "child": "Formalism_MahlerMeasure_HasOrder", "via": ["solution", "statement"]}
 {"parent": "Formalism.GM.leadingTermLemmas.biHom_pow", "child": "Formalism_MahlerMeasure_MahlerMeasureProofs_GamLead", "via": ["solution", "statement"]}
 {"parent": "Formalism.GM.leadingTermLemmas.biHom_pow", "child": "Formalism_MahlerMeasure_FinalM", "via": ["solution", "statement"]}
@@ -11817,18 +11817,18 @@
 {"parent": "Formalism.HN.sum_ite_val_lt_sub_mul", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_ExistsSmulMemOfFinrankEq", "via": ["solution", "statement"]}
 {"parent": "Formalism.HN.sum_ite_val_lt_sub_mul", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_MuChar", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GelfandTsetlinLowering_LiftDecomp", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GelfandTsetlinLowering_LiftDefs", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.ht_dual", "child": "Formalism_HarderNarasimhan_QuotRealize", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.ht_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_Duality", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.ht_dual", "child": "Formalism_LatticeSlopes_ExistsSaturatedSlopeEqMuMax", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.ht_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DegSupermodZ", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.ht_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DualPl", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.ht_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DiscreteSpanOfLinIndep", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.ht_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_SatBasic", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.ht_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_PlaceSplit", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.ht_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_ShiftInvariance", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.ht_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_SizeMu", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.ht_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_ExistsSmulMemOfFinrankEq", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.ht_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_MuChar", "via": ["statement"]}
+{"parent": "Formalism.HN.DualPolygon.ht_dual", "child": "Formalism_HarderNarasimhan_QuotRealize", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.ht_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_Duality", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.ht_dual", "child": "Formalism_LatticeSlopes_ExistsSaturatedSlopeEqMuMax", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.ht_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DegSupermodZ", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.ht_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DualPl", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.ht_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DiscreteSpanOfLinIndep", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.ht_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_SatBasic", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.ht_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_PlaceSplit", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.ht_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_ShiftInvariance", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.ht_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_SizeMu", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.ht_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_ExistsSmulMemOfFinrankEq", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.ht_dual", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_MuChar", "via": ["solution", "statement"]}
 {"parent": "Formalism.HN.PolygonExample.covol_Lx", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_HNSlopes", "via": ["solution", "statement"]}
 {"parent": "Formalism.HN.PolygonExample.covol_Lx", "child": "Formalism_LatticeSlopes_ExistsSaturatedSlopeEqMuMax", "via": ["solution", "statement"]}
 {"parent": "Formalism.HN.PolygonExample.covol_Lx", "child": "Formalism_HarderNarasimhan_DegSupermodZ", "via": ["solution", "statement"]}
@@ -11978,18 +11978,18 @@
 {"parent": "RH1E6S14.part_010_0", "child": "ArdaRH65K_RS_Mellin", "via": ["statement"]}
 {"parent": "RH1E6S14.part_010_0", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S14.part_010_0", "child": "ArdaRH65K_RS_C0", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.corr_R", "child": "Formalism_HarderNarasimhan_QuotRealize", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.corr_R", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_Duality", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.corr_R", "child": "Formalism_LatticeSlopes_ExistsSaturatedSlopeEqMuMax", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.corr_R", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DegSupermodZ", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.corr_R", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DualPl", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.corr_R", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DiscreteSpanOfLinIndep", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.corr_R", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_SatBasic", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.corr_R", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_PlaceSplit", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.corr_R", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_ShiftInvariance", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.corr_R", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_SizeMu", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.corr_R", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_ExistsSmulMemOfFinrankEq", "via": ["statement"]}
-{"parent": "Formalism.HN.DualPolygon.corr_R", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_MuChar", "via": ["statement"]}
+{"parent": "Formalism.HN.DualPolygon.corr_R", "child": "Formalism_HarderNarasimhan_QuotRealize", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.corr_R", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_Duality", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.corr_R", "child": "Formalism_LatticeSlopes_ExistsSaturatedSlopeEqMuMax", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.corr_R", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DegSupermodZ", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.corr_R", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DualPl", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.corr_R", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DiscreteSpanOfLinIndep", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.corr_R", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_SatBasic", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.corr_R", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_PlaceSplit", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.corr_R", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_ShiftInvariance", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.corr_R", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_SizeMu", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.corr_R", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_ExistsSmulMemOfFinrankEq", "via": ["solution", "statement"]}
+{"parent": "Formalism.HN.DualPolygon.corr_R", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_MuChar", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GelfandTsetlinLowering_LiftTupleB", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GelfandTsetlinLowering_LiftTupleM", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_SchurOrthogonality_Assembly", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_SchurOrthogonality_InstMeasurableSpaceMat", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_OrbitalBoundsConclusion_UnimodGenus", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnimodularGenus_Bridge", "via": ["statement"]}
@@ -13972,8 +13972,8 @@
 {"parent": "Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.cntI_one_of_mem", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_UnitaryDensityField", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.cntI_one_of_mem", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CntIOneOfNotMem", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.IdealNormInequalities.summable_resChar_sq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardFilterResCharLe", "via": ["solution", "statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.soutPart_le", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MeanSquareHypWIff", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.soutPart_le", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqJac", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.soutPart_le", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MeanSquareHypWIff", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.soutPart_le", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqJac", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_IsAffineHomFromSpecResidueField", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ValCalc", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_IsAffineHomFromSpecResidueField", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_SecBaseChangeAnySt", "via": ["statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.soutPart_coprime", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MeanSquareHypWIff", "via": ["solution", "statement"]}
@@ -14085,11 +14085,11 @@
 {"parent": "RH1E6S14.part_018_3", "child": "ArdaRS_DyadicOps", "via": ["statement"]}
 {"parent": "RH1E6S14.part_018_3", "child": "ArdaRH65K_RS5_Z", "via": ["statement"]}
 {"parent": "RH1E6S14.part_018_3", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.boxCountHyp_of_zeroDensityBox", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_CountA", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.boxCountHyp_of_zeroDensityBox", "child": "Formalism_GL3MeanSquares_HookFormulaTorsion_TwistIsPrimitiveCharacter", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.boxCountHyp_of_zeroDensityBox", "child": "Formalism_GL3MeanSquares_SecondEstimateOfIntervalHypothesis", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.boxCountHyp_of_zeroDensityBox", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_CountFinal", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.boxCountHyp_of_zeroDensityBox", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_CountSt", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.boxCountHyp_of_zeroDensityBox", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_CountA", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.boxCountHyp_of_zeroDensityBox", "child": "Formalism_GL3MeanSquares_HookFormulaTorsion_TwistIsPrimitiveCharacter", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.boxCountHyp_of_zeroDensityBox", "child": "Formalism_GL3MeanSquares_SecondEstimateOfIntervalHypothesis", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.boxCountHyp_of_zeroDensityBox", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_CountFinal", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.boxCountHyp_of_zeroDensityBox", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_CountSt", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.NormResidues.sigEquiv_mk", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_NormRepCountSplitOne", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.NormResidues.sigEquiv_mk", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardSumNormFibres", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.NormResidues.sigEquiv_mk", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsSqAbsNormOfInert", "via": ["solution", "statement"]}
@@ -14102,9 +14102,9 @@
 {"parent": "ReciprocityTheory.ChartRestriction.DS.rigid_orth", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_DefsRep", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.rigid_orth", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_RigidityTheorems_RigidOrth", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.rigid_orth", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_AnalyticVectors_Closure", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.HU.det_unit", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_IsLocUnif", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.HU.det_unit", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_StepIdentity", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.HU.det_unit", "child": "Formalism.HermitianLattices.Ext.L3.HU.Ent.det", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.HU.det_unit", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_IsLocUnif", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.HU.det_unit", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_StepIdentity", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.HU.det_unit", "child": "Formalism.HermitianLattices.Ext.L3.HU.Ent.det", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.CumulantEstimateDefs.CumulantEstimates.halfSum", "child": "Formalism_GL3MeanSquares_HookFormulaTorsion_HilbertSchmidtHalfBound", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.CumulantEstimateDefs.CumulantEstimates.halfSum", "child": "Formalism_GL3MeanSquares_QuadraticFormLowerBound", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_IsRegularRingOfIsDiscreteValuationRing", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_LBLocalC", "via": ["statement"]}
@@ -14163,7 +14163,7 @@
 {"parent": "Formalism.HermitianLattices.GenusMassVolumes.local_index_formula", "child": "Formalism_LogVandermondeBounds_LogVandermondeProofs_CardStabilizerVector", "via": ["statement"]}
 {"parent": "Formalism.HermitianLattices.GenusMassVolumes.local_index_formula", "child": "Formalism_LogVandermondeBounds_LogVandermondeProofs_BlockDimensionIdentities", "via": ["statement"]}
 {"parent": "Formalism.HermitianLattices.GenusMassVolumes.local_index_formula", "child": "Formalism_GL3MeanSquares_HookFormulaTorsion_DimensionMassJointBound", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.NormLifting.card_fixSub_sq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardFiberMulCardRange", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.NormLifting.card_fixSub_sq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardFiberMulCardRange", "via": ["solution", "statement"]}
 {"parent": "AlonMilman.PropertyT.Supplement.proposition_3_1", "child": "AlonMilman_Diameter_lambda1", "via": ["statement"]}
 {"parent": "AlonMilman.PropertyT.Supplement.proposition_3_1", "child": "AlonMilman_PropertyT_Supplement_boxPi", "via": ["statement"]}
 {"parent": "RH1E6S14.part_017_3", "child": "ArdaRH65K_RS_Fold", "via": ["statement"]}
@@ -14249,8 +14249,8 @@
 {"parent": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_RelIndexSquaresLeTwoMulOfSubgroup", "child": "Development_AbelianVarietyTheory_Definitions_AdelicHermitianForms_SqSubLeNormSub", "via": ["statement"]}
 {"parent": "SalesRebate_NoIncreasing_Supplement_Problems", "child": "BlackScholesModel_Core", "via": ["statement"]}
 {"parent": "SalesRebate_NoIncreasing_Supplement_Problems", "child": "SalesRebate_NoIncreasing_Setting", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.ZD.mco_norm_le", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_CountZMoll", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.ZD.mco_norm_le", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_CountZDefs", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.ZD.mco_norm_le", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_CountZMoll", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.ZD.mco_norm_le", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_CountZDefs", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLatticeCounting.P.matrix_action_evaluation_holds", "child": "Formalism_FlagUnipotentLattices_AlgebraicIdentityHigherDegree", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLatticeCounting.P.matrix_action_evaluation_holds", "child": "Formalism_FlagUnipotentLattices_StabiliserComplementDecomposition", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLatticeCounting.P.matrix_action_evaluation_holds", "child": "Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_BlockMinorAbsoluteOfExplicit", "via": ["solution", "statement"]}
@@ -14280,9 +14280,9 @@
 {"parent": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_LinearIndependentOfCommSmul", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_SecBaseChangeAnySt", "via": ["statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.BallB.mem_col", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ConjOMemConjIdeal", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.BallB.mem_col", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_AlgebraMapConjO", "via": ["solution", "statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.IdealNormInequalities.abs_smallTerm_le", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_EulerFacMulConjInvSplit", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.IdealNormInequalities.abs_smallTerm_le", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardFilterResCharLe", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.IdealNormInequalities.abs_smallTerm_le", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsSqAbsNormOfInert", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.IdealNormInequalities.abs_smallTerm_le", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_EulerFacMulConjInvSplit", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.IdealNormInequalities.abs_smallTerm_le", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardFilterResCharLe", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.IdealNormInequalities.abs_smallTerm_le", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsSqAbsNormOfInert", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_DivCalc", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ValCalc", "via": ["statement"]}
 {"parent": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_DivCalc", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_IsLieBasis", "via": ["statement"]}
 {"parent": "Formalism.HermitianLattices.GenusMassVolumes.grassmannian_volume", "child": "Formalism_GL3MeanSquares_RankMulPowThreeHalvesLeFourthPower", "via": ["solution", "statement"]}
@@ -14374,9 +14374,9 @@
 {"parent": "ReciprocityTheory.ChartRestriction.DS.closGen_stable", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_RigidityTheorems_ClosGenStable", "via": ["statement"]}
 {"parent": "IntegerRootsFN.Main.proposition_3_4_computation", "child": "IntegerRootsFN_Main_Binary", "via": ["statement"]}
 {"parent": "IntegerRootsFN.Main.proposition_3_4_computation", "child": "IntegerRootsFN_Main_ApproximationConstruction", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.MeanB.card_quot_extP", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_LocalDensityRatio", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.MeanB.card_quot_extP", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsMulSubOneMemPow", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.MeanB.card_quot_extP", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_StarAlgebraMap", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.MeanB.card_quot_extP", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_LocalDensityRatio", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.MeanB.card_quot_extP", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsMulSubOneMemPow", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.MeanB.card_quot_extP", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_StarAlgebraMap", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLatticeCounting.P.s1c2_hzz", "child": "Formalism_FlagUnipotentLattices_AlgebraicIdentityHigherDegree", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLatticeCounting.P.s1c2_hzz", "child": "Formalism_FlagUnipotentLattices_StabiliserComplementDecomposition", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLatticeCounting.P.s1c2_hzz", "child": "Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_BlockMinorAbsoluteOfExplicit", "via": ["solution", "statement"]}
@@ -14392,8 +14392,8 @@
 {"parent": "Formalism.HermitianLattices.Ext.L3.A5.tendsto_weighted", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_TendstoWeightedTprod", "via": ["statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.A5.tendsto_weighted", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_SummableSqGeom", "via": ["statement"]}
 {"parent": "GrothendieckPD_Digits_ArcsineTail", "child": "GrothendieckPD_Digits_RoundingScheme", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.vectorCountBounds.card_vec", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsNotMemOfSol", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.vectorCountBounds.card_vec", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_LocalDensityEleventh", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.vectorCountBounds.card_vec", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsNotMemOfSol", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.vectorCountBounds.card_vec", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_LocalDensityEleventh", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GelfandTsetlinLowering_IoXiHw", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GelfandTsetlinLowering_IoPolDiagHw", "via": ["statement"]}
 {"parent": "RH1E6S14.part_018_1", "child": "ArdaRH65K_RS_Fold", "via": ["statement"]}
 {"parent": "RH1E6S14.part_018_1", "child": "ArdaRH65K_RS_Entire", "via": ["statement"]}
@@ -14604,8 +14604,8 @@
 {"parent": "P2M_Def_Development_AbelianVarietyTheory_PublishedTheorems_Landherr__LandherrStIffLandherr_9fec213082f17e18", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_IsHolPeriods", "via": ["statement"]}
 {"parent": "P2M_Def_Development_AbelianVarietyTheory_PublishedTheorems_Landherr__LandherrStIffLandherr_9fec213082f17e18", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_Signature", "via": ["statement"]}
 {"parent": "P2M_Def_Development_AbelianVarietyTheory_PublishedTheorems_Landherr__LandherrStIffLandherr_9fec213082f17e18", "child": "P2M_Def_Development_AbelianVarietyTheory_PublishedTheorems_AdelicLattices__AlgebraMapNormOfBasisOneSqrt_07cf76d090f2548e", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.OrbSum.sum_orbits_on", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_FiniteRepSetOfOrtho", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.OrbSum.sum_orbits_on", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsRepsOfCover", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.OrbSum.sum_orbits_on", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_FiniteRepSetOfOrtho", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.OrbSum.sum_orbits_on", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsRepsOfCover", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.EtaPartialSums.partial_identity", "child": "Formalism_LFunctionBounds_LFunctionBoundsProofs_LFunctionEqGOfOneLt", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.EtaPartialSums.partial_identity", "child": "Formalism.FX.LFunctionPartialSum.partial_identity", "via": ["statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.EtaPartialSums.partial_identity", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_PNTDensLsA", "via": ["solution", "statement"]}
@@ -14649,16 +14649,16 @@
 {"parent": "Formalism.HermitianLattices.Ext.L3.LocF.vd_eq_zero_of_not_le", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_LinearIndependentOfGramDetNeZero", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.LocF.vd_eq_zero_of_not_le", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_AlgebraMapIntCastSmul", "via": ["solution", "statement"]}
 {"parent": "GrothendieckPD.Digits.claim_C_2_5_arcsine_tail", "child": "GrothendieckPD_Digits_ArcsineTail", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.card_herm_norm_eq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_MassSt", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.card_herm_norm_eq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardSumNormFibres", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.RankOne.loc_mul", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_IsClassRepsMap", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.RankOne.loc_mul", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsNeZeroOfIsLattice", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.card_herm_norm_eq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_MassSt", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.card_herm_norm_eq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardSumNormFibres", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.RankOne.loc_mul", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_IsClassRepsMap", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.RankOne.loc_mul", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsNeZeroOfIsLattice", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_RelIndexSquaresLeTwoMulOfSubgroupStatement", "child": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_RelIndexSquaresLeTwoMulOfSubgroup", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_RelIndexSquaresLeTwoMulOfSubgroupStatement", "child": "Development_AbelianVarietyTheory_Definitions_AdelicHermitianForms_SqSubLeNormSub", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.Geo.Tor.maps_iff", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_OneArcSt", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.Geo.Tor.maps_iff", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_PullCub", "via": ["solution", "statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.VecSplit.comb_mem_loc_adjoin_iff", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ConjOMemHcompl", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.VecSplit.comb_mem_loc_adjoin_iff", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_IsUnimodularAtAdjoinIff", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.VecSplit.comb_mem_loc_adjoin_iff", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ConjOMemHcompl", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.VecSplit.comb_mem_loc_adjoin_iff", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_IsUnimodularAtAdjoinIff", "via": ["solution", "statement"]}
 {"parent": "QuantumLTF.Membership.localizedAffineBisect_circuit_core", "child": "QuantumLTF_Membership_IsFp", "via": ["statement"]}
 {"parent": "QuantumLTF.Membership.localizedAffineBisect_circuit_core", "child": "QuantumLTF_Membership_Uncontrolled", "via": ["statement"]}
 {"parent": "QuantumLTF.Membership.localizedAffineBisect_circuit_core", "child": "QuantumLTF_Membership_gatesRev", "via": ["statement"]}
@@ -14987,14 +14987,14 @@
 {"parent": "ReciprocityTheory.ChartRestriction.DS.S7.range_toM", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_DefsRep", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.one_mem_unitaryJ", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_AnalyticVectors_ConjTransposeEqOfInG", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.one_mem_unitaryJ", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_RigidityTheorems_MultOneA", "via": ["solution", "statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.gal_cmF_cases", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_MassLandA", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.gal_cmF_cases", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_MassLandSt", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.gal_cmF_cases", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_MassLandA", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.gal_cmF_cases", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_MassLandSt", "via": ["solution", "statement"]}
 {"parent": "RH1E6S14_D014_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.IdealNormInequalities.under_isMaximal", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardFilterResCharLe", "via": ["solution", "statement"]}
 {"parent": "ProRataUC_Sustain_Supplement_CoalitionValue", "child": "ProRataUC_Sustain_Setting", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_IsQuadraticSqrtExtensionBasicFactsStatement", "child": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_IsQuadraticSqrtExtensionBasicFacts", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_IsQuadraticSqrtExtensionBasicFactsStatement", "child": "Development_AbelianVarietyTheory_Definitions_AdelicHermitianForms_SqSubLeNormSub", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.PrimesInProgressions.T2.tp_eval_sum", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_TpCoeffNorm", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.PrimesInProgressions.T2.tp_eval_sum", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_TpCoeffNorm", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.StandardSymmetricSums.mem_lat_iff", "child": "Formalism_HermitianLattices_HermitianLatticesProofs_MassBasic", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.StandardSymmetricSums.mem_lat_iff", "child": "Formalism_HermitianLattices_HermitianLatticesProofs_LocDual", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.StandardSymmetricSums.mem_lat_iff", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_MassSt", "via": ["solution", "statement"]}
@@ -15005,8 +15005,8 @@
 {"parent": "Formalism.HermitianLattices.Ext.L3.U0.exists_prep", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsIsomScale", "via": ["solution", "statement"]}
 {"parent": "GrothendieckLB.majorant_barrier", "child": "GrothendieckLB_taylorCoeff", "via": ["solution", "statement"]}
 {"parent": "GrothendieckLB.majorant_barrier", "child": "GrothendieckLB_IsAdmissible", "via": ["solution", "statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.HermitianSublattices.card_lift_matrix", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardLiftMatrix", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.HermitianSublattices.card_lift_matrix", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardFiberMulCardRange", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.HermitianSublattices.card_lift_matrix", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardLiftMatrix", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.HermitianSublattices.card_lift_matrix", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardFiberMulCardRange", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.NormLifting.normRepCount_pow_succ_of", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_NormRepCountPowSuccInert", "via": ["statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.NormLifting.normRepCount_pow_succ_of", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardFiberMulCardRange", "via": ["statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.NormLifting.normRepCount_pow_succ_of", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsSqAbsNormOfInert", "via": ["statement"]}
@@ -15101,8 +15101,8 @@
 {"parent": "RH1E6S14.part_016_0", "child": "ArdaRS_DyadicOps", "via": ["statement"]}
 {"parent": "RH1E6S14.part_016_0", "child": "ArdaRH65K_RS5_Z", "via": ["statement"]}
 {"parent": "RH1E6S14.part_016_0", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.finrank_cmF", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_MassLandA", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.finrank_cmF", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_MassLandSt", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.finrank_cmF", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_MassLandA", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.finrank_cmF", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_MassLandSt", "via": ["solution", "statement"]}
 {"parent": "RH1E6S14.part_017_1", "child": "ArdaRH65K_RS_Fold", "via": ["statement"]}
 {"parent": "RH1E6S14.part_017_1", "child": "ArdaRH65K_RS_Entire", "via": ["statement"]}
 {"parent": "RH1E6S14.part_017_1", "child": "ArdaRH65K_ThetaConverge", "via": ["statement"]}
@@ -15129,9 +15129,9 @@
 {"parent": "RH1E6S14.part_017_1", "child": "ArdaRS_DyadicOps", "via": ["statement"]}
 {"parent": "RH1E6S14.part_017_1", "child": "ArdaRH65K_RS5_Z", "via": ["statement"]}
 {"parent": "RH1E6S14.part_017_1", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.IdealNormInequalities.one_add_smallTerm_pos", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_EulerFacMulConjInvSplit", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.IdealNormInequalities.one_add_smallTerm_pos", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardFilterResCharLe", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.IdealNormInequalities.one_add_smallTerm_pos", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsSqAbsNormOfInert", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.IdealNormInequalities.one_add_smallTerm_pos", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_EulerFacMulConjInvSplit", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.IdealNormInequalities.one_add_smallTerm_pos", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardFilterResCharLe", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.IdealNormInequalities.one_add_smallTerm_pos", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsSqAbsNormOfInert", "via": ["solution", "statement"]}
 {"parent": "DecrAlmostLinearSSSP.Decremental.NonemptyCut.capacity_normalization", "child": "DecrAlmostLinearSSSP_NonemptyCutProtocol", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.U0.int_of_cut", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsPrimitiveNorm", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.U0.int_of_cut", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsIsomScale", "via": ["solution", "statement"]}
@@ -15193,13 +15193,13 @@
 {"parent": "P2M_ReciprocityTheory_ChartRestriction_DS_UnitaryGroupOfForm_inner_map_map__a3d9c3698dd1", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_RigidityTheorems_IrredA", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.PrimesInProgressions.TuranPowerSumBounds.eps_le", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_TwentyFiveMulSmallConstant", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.PrimesInProgressions.TuranPowerSumBounds.eps_le", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_ExistsPowerSumLowerBound", "via": ["solution", "statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.card_AQ", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_MemRangeLinPart", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.card_AQ", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardLiftMatrix", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.card_AQ", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_UnitaryDensityField", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.card_AQ", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExtPPowLeSpanSup", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.locF_eq_loc", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_VdEqZeroOfNotLe", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.locF_eq_loc", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_LocalDensityRatio", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.locF_eq_loc", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_IsUnimodularAtIffVd", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.card_AQ", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_MemRangeLinPart", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.card_AQ", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardLiftMatrix", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.card_AQ", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_UnitaryDensityField", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.card_AQ", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExtPPowLeSpanSup", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.locF_eq_loc", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_VdEqZeroOfNotLe", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.locF_eq_loc", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_LocalDensityRatio", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.locF_eq_loc", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_IsUnimodularAtIffVd", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.GenusMassVolumes.joint_lower_bound", "child": "Formalism_GL3MeanSquares_RankMulPowThreeHalvesLeFourthPower", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.GenusMassVolumes.joint_lower_bound", "child": "Formalism_GL3MeanSquares_HookFormulaTorsion_GaussianIntegralFormula", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.HostModel.host_rt0_eq_I_mul_sqrt_seven", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_TwoWeightEqOneAddRoot", "via": ["solution", "statement"]}
@@ -15463,8 +15463,8 @@
 {"parent": "Formalism.L2.Th1.H.heisenbergStandard", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_QuasiPeriodConstUnique", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.H.heisenbergStandard", "child": "Formalism_LocalToGlobal_TorsionIntegrality_QuadraticSemicharacters_SemiCharBasic", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.H.heisenbergStandard", "child": "Formalism_LocalToGlobal_TorsionIntegrality_QuadraticSemicharacters_CayleyGaussianIntegrals_MatrixFormFourfoldBlock", "via": ["solution", "statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.LocalSpans.mem_span_RP", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_LocalDensityRatio", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.LocalSpans.mem_span_RP", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsBasisLocF", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.LocalSpans.mem_span_RP", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_LocalDensityRatio", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.LocalSpans.mem_span_RP", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsBasisLocF", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.lift_khw", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_BochnerInequality_IsKUnitaryOfIsInfUnitary", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.lift_khw", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_BochnerInequality_KUnitB", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_ExistsEqPowOfTorsionCompEqOne", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_SecBaseChangeAnySt", "via": ["statement"]}
@@ -15545,10 +15545,10 @@
 {"parent": "ReciprocityTheory.ChartRestriction.DS.UnitaryGroupOfForm.K_inv", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_RigidityTheorems_IrredA", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.BoxTail.tail_mertens", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_TailMertens", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.QuadAdj.exists_rep", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_MassLandDA", "via": ["solution", "statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.cnt_eq_add", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_MemRangeLinPart", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.cnt_eq_add", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardLiftMatrix", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.cnt_eq_add", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_UnitaryDensityField", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.cnt_eq_add", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExtPPowLeSpanSup", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.cnt_eq_add", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_MemRangeLinPart", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.cnt_eq_add", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardLiftMatrix", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.cnt_eq_add", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_UnitaryDensityField", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.cnt_eq_add", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExtPPowLeSpanSup", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.exp_neg_le_one_sub_half", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MeanSquareHypWIff", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.exp_neg_le_one_sub_half", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqCount", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.exp_neg_le_one_sub_half", "child": "Formalism_LandauZeroFreeBounds_LogDerivRegionChiOf", "via": ["solution", "statement"]}
@@ -15561,7 +15561,7 @@
 {"parent": "Formalism.HermitianLattices.Ext.L3.U0.unit_inv", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsNormRepresentation", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.U0.unit_inv", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_AddMulInvMem", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.U0.unit_inv", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsIsomFrame", "via": ["solution", "statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.A5.summable_dif", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_SummableSqGeom", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.A5.summable_dif", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_SummableSqGeom", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.lValEta_eq_lValEtaF", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_EulerFacMulConjInvSplit", "via": ["statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.lValEta_eq_lValEtaF", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_LValEtaEqLValEtaF", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GelfandTsetlinLowering_LiftTupleF", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GelfandTsetlinLowering_LiftTupleE", "via": ["statement"]}
@@ -15570,8 +15570,8 @@
 {"parent": "Formalism.HermitianLatticeCounting.P.leading_minor_at_block_end", "child": "Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_IntegrableOnIoiTruncatedPowerMoment", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLatticeCounting.P.leading_minor_at_block_end", "child": "Formalism_FlagUnipotentLattices_UnipotentStabiliserCharacterisation", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLatticeCounting.P.leading_minor_at_block_end", "child": "Formalism_FormalDegreeBessel_FinalG", "via": ["solution", "statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.FiniteNormFibres.card_norm_fibre", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_MassSt", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.FiniteNormFibres.card_norm_fibre", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardSumNormFibres", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.FiniteNormFibres.card_norm_fibre", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_MassSt", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.FiniteNormFibres.card_norm_fibre", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardSumNormFibres", "via": ["solution", "statement"]}
 {"parent": "RH1E6S14_D016_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "Formalism.HermitianLatticeCounting.P.pow_two_div_sq_identity", "child": "Formalism_HyperbolicPlaceProducts_ArithmeticCountRevised", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLatticeCounting.P.pow_two_div_sq_identity", "child": "Formalism_HyperbolicPlaceProducts_SecondLevelArithmeticNorm", "via": ["solution", "statement"]}
@@ -15662,15 +15662,15 @@
 {"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.recip_sign_congr", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MeanSquareHypWIff", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.recip_sign_congr", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqJac", "via": ["solution", "statement"]}
 {"parent": "SubspaceEvasion312.Explicit.encoderAlgorithm_of_entries", "child": "SubspaceEvasion312_Explicit_effective", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.HermitianSublattices.card_uniform", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardLiftMatrix", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.HermitianSublattices.card_uniform", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardFiberMulCardRange", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.HermitianSublattices.card_uniform", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardLiftMatrix", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.HermitianSublattices.card_uniform", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardFiberMulCardRange", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LocalQuad.isSquare_of_valued_sub_one_lt", "child": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_IsSquareOfValuedSubOneLt", "via": ["statement"]}
 {"parent": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_LBTransport", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_LBLocal", "via": ["statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.U0.isUnitIn_one", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsNormRepresentation", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.U0.isUnitIn_one", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_AddMulInvMem", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.U0.isUnitIn_one", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsIsomFrame", "via": ["solution", "statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.exists_isom_map_of_eq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsIsomMapOfEq", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.exists_isom_map_of_eq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_FiniteDimensionalOfOrtho", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.exists_isom_map_of_eq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsIsomMapOfEq", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.exists_isom_map_of_eq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_FiniteDimensionalOfOrtho", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.UnitaryGroupOfForm.K_mem_UJ", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_AnalyticVectors_PolarJmConjTranspose", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.UnitaryGroupOfForm.K_mem_UJ", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_AnalyticVectors_ConjTransposeEqOfInG", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.UnitaryGroupOfForm.K_mem_UJ", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_RigidityTheorems_IrredA", "via": ["solution", "statement"]}
@@ -15965,8 +15965,8 @@
 {"parent": "Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.ZD.duality_inequality", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_CountZDefs", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.ZD.duality_inequality", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_CountZDual", "via": ["solution", "statement"]}
 {"parent": "DecrAlmostLinearSSSP.Decremental.NonemptyCut.ratio_unscale_and_quality_padding", "child": "DecrAlmostLinearSSSP_NonemptyCutProtocol", "via": ["solution", "statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.dA_vM_major", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqDiagA", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.dA_vM_major", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MeanSquareHypWIff", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.dA_vM_major", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqDiagA", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.dA_vM_major", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MeanSquareHypWIff", "via": ["solution", "statement"]}
 {"parent": "SubspaceEvasion312.Explicit.generatorAlgorithm_of_entries", "child": "SubspaceEvasion312_Explicit_effective", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_TwoPowCardLeIndexIInf", "child": "Development_AbelianVarietyTheory_Definitions_AdelicHermitianForms_SqSubLeNormSub", "via": ["statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.idealPowerSpanBounds.exists_fillO", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_StarAlgebraMap", "via": ["solution", "statement"]}
@@ -16004,9 +16004,9 @@
 {"parent": "Formalism.HermitianLattices.Ext.L3.IdealNormInequalities.summable_log_eulerFac", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_EulerFacMulConjInvSplit", "via": ["statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.IdealNormInequalities.summable_log_eulerFac", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardFilterResCharLe", "via": ["statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.IdealNormInequalities.summable_log_eulerFac", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsSqAbsNormOfInert", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.exists_sq_absNorm_of_inert", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsSubMemOfInert", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.exists_sq_absNorm_of_inert", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_MassSt", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.exists_sq_absNorm_of_inert", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsSqAbsNormOfInert", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.exists_sq_absNorm_of_inert", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsSubMemOfInert", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.exists_sq_absNorm_of_inert", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_MassSt", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.exists_sq_absNorm_of_inert", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsSqAbsNormOfInert", "via": ["solution", "statement"]}
 {"parent": "WeldedPath.Supplement.long_output_recorded_vanishes", "child": "WeldedPath_Supplement_pLongLabel", "via": ["statement"]}
 {"parent": "WeldedPath.Supplement.long_output_recorded_vanishes", "child": "QAlgorithms_Defs_Query", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.vogan_min", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_BochnerInequality_LayerBound", "via": ["statement"]}
@@ -16027,9 +16027,9 @@
 {"parent": "Formalism.HermitianLattices.Ext.BoxTail.tail_mertens_psi", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_TailMertens", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.reductionMapsOfForms.card_rep_succ", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_LocalDensitySeventh", "via": ["statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.reductionMapsOfForms.card_rep_succ", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_LocalDensityEighth", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.PrimesInProgressions.intervalIntegrable_Fm_div_mul_log_sq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqTwistC", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.PrimesInProgressions.intervalIntegrable_Fm_div_mul_log_sq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqCount", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.PrimesInProgressions.intervalIntegrable_Fm_div_mul_log_sq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_PNTPiB", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.PrimesInProgressions.intervalIntegrable_Fm_div_mul_log_sq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqTwistC", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.PrimesInProgressions.intervalIntegrable_Fm_div_mul_log_sq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqCount", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.PrimesInProgressions.intervalIntegrable_Fm_div_mul_log_sq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_PNTPiB", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.rigid_irred", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_RigidityTheorems_MultOne", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.rigid_irred", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_AnalyticVectors_Closure", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.rigid_irred", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_RigidityTheorems_IrredA", "via": ["statement"]}
@@ -30464,8 +30464,8 @@
 {"parent": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_RayLNonvanishingAtOne", "child": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_RayClassPartialZetaContinuationStatement", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_RayLNonvanishingAtOne", "child": "Development_AbelianVarietyTheory_Definitions_AutomorphicMembership_NonemptyRayDataOfNeZero", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_RayLNonvanishingAtOne", "child": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_DedekindZetaFactorizationRayStatement", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.page_across", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqPage", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.page_across", "child": "Formalism_LandauZeroFreeBounds_Statement", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.page_across", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqPage", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.page_across", "child": "Formalism_LandauZeroFreeBounds_Statement", "via": ["solution", "statement"]}
 {"parent": "Formalism.RankGapBounds.LocalQuadraticParts.zmod_int_eq_one_iff", "child": "Formalism_RankGapBounds_RankGapProofs_FourNotDvdOddSqAddOne", "via": ["solution", "statement"]}
 {"parent": "Formalism.RankGapBounds.LocalQuadraticParts.zmod_int_eq_one_iff", "child": "Formalism_RankGapBounds_RandomSubsetCounterexample", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_LatticeEpsteinZetaContinuationStatement", "child": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_LatticeEpsteinZetaContinuation", "via": ["statement"]}
@@ -30725,8 +30725,8 @@
 {"parent": "Formalism.NG.gen_key", "child": "Formalism_CharacterColumnKernels_IdempotentNormalForms_GenRelMapApply", "via": ["statement"]}
 {"parent": "Formalism.HC.An.induces_of", "child": "Formalism_SharpRestriction_RamificationFrobenius_TotientGaloisClasses_PrimePairSizeCondition", "via": ["solution", "statement"]}
 {"parent": "Formalism.HC.An.induces_of", "child": "Formalism_SharpRestriction_RamificationFrobenius_TotientGaloisClasses_Analytic", "via": ["solution", "statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.liX_pow_le", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqTwistC", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.liX_pow_le", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MeanSquareHypWIff", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.liX_pow_le", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqTwistC", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.liX_pow_le", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MeanSquareHypWIff", "via": ["solution", "statement"]}
 {"parent": "Development_AutomorphicArithmetic_MeanSquareBounds_realDecomp", "child": "Development_AutomorphicArithmetic_MeanSquareBounds_PrimeSetTwoBounds", "via": ["statement"]}
 {"parent": "GlobalTheory.Inertia.posIndex_diagonal", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_Signature", "via": ["statement"]}
 {"parent": "GlobalTheory.Inertia.posIndex_diagonal", "child": "Development_AbelianVarietyTheory_Proofs_HermitianTraceForms_PosIndexMapEqCardOfCongrDiagonal", "via": ["statement"]}
@@ -30874,8 +30874,8 @@
 {"parent": "ReciprocityTheory_CommutativeAlgebra_CohenMacaulay_ExistsIsRegularOfLeHeight", "child": "ReciprocityTheory_CommutativeAlgebra_CohenMacaulay_RingKrullDimQuotientOfMemAssociatedPrimes", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ParahoricIndexCount_IdxStep", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ParahoricIndexCount_ParamInjective", "via": ["statement"]}
 {"parent": "RH1E6S14_D042_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.jacobi_separate", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqOrth", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.jacobi_separate", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MeanSquareHypWIff", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.jacobi_separate", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqOrth", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.jacobi_separate", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MeanSquareHypWIff", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_CommutingMultiplicity_SchurStepAlt", "child": "Formalism_PeriodIntegrals_UMultOne", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_CommutingMultiplicity_SchurStepAlt", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_CommutingMultiplicity_SchurStep", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_CommutingMultiplicity_SchurStepAlt", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_SchurIrreducible", "via": ["statement"]}
@@ -31866,8 +31866,8 @@
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_IdempotentTransfer_ESMulESOfNeZero", "child": "Formalism_PeriodIntegrals_SameFormAllLevels", "via": ["statement"]}
 {"parent": "PI.DvRows.card_le_of_orth", "child": "Formalism_PeriodIntegrals_DivisionRowsRationalLattice", "via": ["solution", "statement"]}
 {"parent": "PI.DvRows.card_le_of_orth", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ProjectionRows_ValLeOneOfMemRange", "via": ["solution", "statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.sum_cN_le", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqDiagA", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.sum_cN_le", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MeanSquareHypWIff", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.sum_cN_le", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqDiagA", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.sum_cN_le", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MeanSquareHypWIff", "via": ["solution", "statement"]}
 {"parent": "Formalism.MainNotions.TestSideWords.TwistedFiltration.G2.mem_of_X_mul_mem", "child": "Formalism_SharpRestriction_GrowthBounds_TwistedSubstitution_TwistedMonomialFiltration_SumCCMulSumOfMulEqOne", "via": ["solution", "statement"]}
 {"parent": "Formalism.MainNotions.TestSideWords.TwistedFiltration.G2.mem_of_X_mul_mem", "child": "Formalism_SharpRestriction_GrowthBounds_TwistedSubstitution_TwistedMonomialFiltration_MaxTwistDegreePderivLeAddOne", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.RandomTops.ex_sum", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_ChoiceOfTops", "via": ["solution", "statement"]}
@@ -32179,8 +32179,8 @@
 {"parent": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_WeightedFejerPositivityStatement", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_WeightedFejerPositivity", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HermitianGroupLattices_IsCMFormEOf", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HermitianGroupLattices_AsAlgebraHomEG", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HermitianGroupLattices_IsCMFormEOf", "child": "Formalism_PeriodIntegrals_DivisionRowsRationalLattice", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.dA_sum_min_sq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqDiagA", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.dA_sum_min_sq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MeanSquareHypWIff", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.dA_sum_min_sq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqDiagA", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.dA_sum_min_sq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MeanSquareHypWIff", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_IdempotentTransfer_PerSAlg", "child": "Formalism_PeriodIntegrals_SameFormAllLevels", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_IdempotentTransfer_PerSAlg", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_IdempotentTransfer_CharacteristicPolynomialCompatibility", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_IdempotentTransfer_PerSAlg", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_IdempotentTransfer_RankIdentity", "via": ["statement"]}
@@ -32189,8 +32189,8 @@
 {"parent": "Development_AutomorphicArithmetic_ThickFrames_MarkedGe", "child": "Development_AutomorphicArithmetic_ThickFrames_expectationSpec", "via": ["statement"]}
 {"parent": "Development_AutomorphicArithmetic_ThickFrames_MarkedGe", "child": "Development_AutomorphicArithmetic_ThickFrames_MarkedLow", "via": ["statement"]}
 {"parent": "Development_AutomorphicArithmetic_ThickFrames_MarkedGe", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_ChoiceOfTops", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.BoxTail.tail_diff_schi", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_TailDiff", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.BoxTail.tail_diff_schi", "child": "Formalism_LandauZeroFreeBounds_LogDerivRegionChiOf", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.BoxTail.tail_diff_schi", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_TailDiff", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.BoxTail.tail_diff_schi", "child": "Formalism_LandauZeroFreeBounds_LogDerivRegionChiOf", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryConjugation_TransferStep", "child": "Formalism_PeriodIntegrals_UMultOne", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_GaussSumMulGaussSumInvOfIsPrimitive", "child": "Formalism_QuotientMetricDivisors_ReductionLemmaZero", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_GaussSumMulGaussSumInvOfIsPrimitive", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_TupleConstantsNeZero", "via": ["statement"]}
@@ -32656,8 +32656,8 @@
 {"parent": "P2M_GlobalTheory_ZetaLocal_zeta__eq_fc7653a25de8", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_DifferentiableAtFractInt", "via": ["solution", "statement"]}
 {"parent": "P2M_GlobalTheory_ZetaLocal_zeta__eq_fc7653a25de8", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_NormOneSubConjMul", "via": ["solution", "statement"]}
 {"parent": "P2M_GlobalTheory_ZetaLocal_zeta__eq_fc7653a25de8", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_LogDerivRiemannZetaLocalZeroSum", "via": ["solution", "statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.pairs_one", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqPairs", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.pairs_one", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MeanSquareHypWIff", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.pairs_one", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqPairs", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.pairs_one", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MeanSquareHypWIff", "via": ["solution", "statement"]}
 {"parent": "PI.Dv.TIW.intR_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_TransferIndices_MemOOfIsIntegral", "via": ["solution", "statement"]}
 {"parent": "PI.Dv.TIW.intR_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_TransferIndices_DvTransferIdxOf", "via": ["solution", "statement"]}
 {"parent": "PI.Dv.TIW.intR_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_TransferIndices_TauCentralScalar", "via": ["solution", "statement"]}
@@ -32680,9 +32680,9 @@
 {"parent": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_ExceptionalPrimesFiniteCardLe", "child": "Formalism_CyclotomicNorms_StatementI", "via": ["statement"]}
 {"parent": "Formalism.NormUnitaryCountingLemmas.NMul.blockDeg_add", "child": "Formalism_NormUnitaryBounds_Statement", "via": ["solution", "statement"]}
 {"parent": "Formalism.NormUnitaryCountingLemmas.NMul.blockDeg_add", "child": "Formalism_NormUnitaryBounds_DetPolynomialWeights_NormMul", "via": ["solution", "statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.sum_log_sq_div_sq_primes_tail_le", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqDiagB", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.sum_log_sq_div_sq_primes_tail_le", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqDiagA", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.sum_log_sq_div_sq_primes_tail_le", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MeanSquareHypWIff", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.sum_log_sq_div_sq_primes_tail_le", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqDiagB", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.sum_log_sq_div_sq_primes_tail_le", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqDiagA", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.sum_log_sq_div_sq_primes_tail_le", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MeanSquareHypWIff", "via": ["solution", "statement"]}
 {"parent": "Formalism.MainNotions.TestSideWords.TwistedFiltration.G2.coeff_divDer", "child": "Formalism_SharpRestriction_GrowthBounds_TwistedSubstitution_TwistedMonomialFiltration_SumCCMulSumOfMulEqOne", "via": ["solution", "statement"]}
 {"parent": "Formalism.MainNotions.TestSideWords.TwistedFiltration.G2.coeff_divDer", "child": "Formalism_SharpRestriction_GrowthBounds_TwistedSubstitution_TwistedMonomialFiltration_MaxTwistDegreePderivLeAddOne", "via": ["solution", "statement"]}
 {"parent": "Formalism.REAL.mem_symmetricArrays", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_FirstSlotSliceSlotMixedCasimirZero", "via": ["solution", "statement"]}
@@ -41662,8 +41662,8 @@
 {"parent": "Formalism.FourierDecayAlt.P.Mx7.isPoly_t21", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_InterlaceSignTwo", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Mx7.isPoly_t21", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_EulerZetaGammaInvIdentity", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Mx7.isPoly_t21", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_MultiplicationOpHom", "via": ["solution", "statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.VecSplit.comb_mem_dualAt_iff", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ConjOMemHcompl", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.VecSplit.comb_mem_dualAt_iff", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_IsUnimodularAtAdjoinIff", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.VecSplit.comb_mem_dualAt_iff", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ConjOMemHcompl", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.VecSplit.comb_mem_dualAt_iff", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_IsUnimodularAtAdjoinIff", "via": ["solution", "statement"]}
 {"parent": "ZMod.snd_chineseRemainder", "child": "MillerRabin_Mathlib_Data_ZMod_Basic", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Global.IdeleClassGroup.continuous_mk", "child": "GroundTheory_GlobalFields_IdeleGroups_InfiniteProjInfiniteEmbeddingOfNe", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.PRep.IsSmooth.map_smoothOp", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_SmoothPartStable", "via": ["statement"]}
@@ -44482,8 +44482,8 @@
 {"parent": "ReciprocityTheory_SemistableReduction_AlgAll", "child": "ReciprocityTheory_SemistableReduction_GenericImageFinite", "via": ["statement"]}
 {"parent": "ReciprocityTheory_SemistableReduction_AlgAll", "child": "ReciprocityTheory_SemistableReduction_NormValuationEqFactorization", "via": ["statement"]}
 {"parent": "ReciprocityTheory_SemistableReduction_AlgAll", "child": "ReciprocityTheory_SemistableReduction_GaussExtensionAndResidueTrdegEq", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.HU.exists_newton", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_StepIdentity", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.HU.exists_newton", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_IsLocUnif", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.HU.exists_newton", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_StepIdentity", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.HU.exists_newton", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_IsLocUnif", "via": ["solution", "statement"]}
 {"parent": "Formalism_GaussJetBounds_GaussJetProofs_OneGauss", "child": "Formalism_GaussJetBounds_MonoShapeTop", "via": ["statement"]}
 {"parent": "Formalism_GaussJetBounds_GaussJetProofs_OneGauss", "child": "Formalism_GaussJetBounds_GaussJetProofs_ConstantCoeffAevalLinP", "via": ["statement"]}
 {"parent": "Formalism_GaussJetBounds_GaussJetProofs_OneGauss", "child": "Formalism_GaussJetBounds_OneLetterRadius", "via": ["statement"]}
@@ -49190,10 +49190,10 @@
 {"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.ExtFPf.rmul_assoc", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_OrthogonalFrameDomain", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.ExtFPf.rmul_assoc", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_FlowCoefficientBounds", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.ExtFPf.rmul_assoc", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_ExtFStatementPfA", "via": ["solution", "statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.LocF.patch", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_AlgebraMapIntCastSmul", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.LocF.patch", "child": "Formalism_HermitianLattices_HermitianLatticesProofs_LocBasic", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.LocF.patch", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_LocalDensityRatio", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.LocF.patch", "child": "Formalism_HermitianLattices_HermitianLatticesProofs_TraceReal", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.LocF.patch", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_AlgebraMapIntCastSmul", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.LocF.patch", "child": "Formalism_HermitianLattices_HermitianLatticesProofs_LocBasic", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.LocF.patch", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_LocalDensityRatio", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.LocF.patch", "child": "Formalism_HermitianLattices_HermitianLatticesProofs_TraceReal", "via": ["solution", "statement"]}
 {"parent": "PerishablePricing.Backlog.Supplement.lemma_4", "child": "PerishablePricing_Backlog_Supplement_PositiveShift", "via": ["statement"]}
 {"parent": "RH1E6S14.group_082", "child": "ArdaRH65K_RS_Mellin", "via": ["statement"]}
 {"parent": "RH1E6S14.group_082", "child": "ArdaRH65K_ThetaConverge", "via": ["statement"]}
@@ -49403,9 +49403,9 @@
 {"parent": "Reduce.set_id_self", "child": "Bdd_Collect", "via": ["solution", "statement"]}
 {"parent": "Reduce.keyLE_trans", "child": "Bdd_Reduce_State", "via": ["solution", "statement"]}
 {"parent": "Reduce.keyLE_trans", "child": "Bdd_Collect", "via": ["solution", "statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.exists_vec_of_hermRep", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsVecOfHermRep", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.exists_vec_of_hermRep", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_FiniteDimensionalOfOrtho", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.exists_vec_of_hermRep", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_LocalDensityRatio", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.exists_vec_of_hermRep", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsVecOfHermRep", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.exists_vec_of_hermRep", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_FiniteDimensionalOfOrtho", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.exists_vec_of_hermRep", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_LocalDensityRatio", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.UnitaryFrames.locallyCompact_GL", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_WeightFunctionOnFrames", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.UnitaryFrames.locallyCompact_GL", "child": "Development_AbelianVarietyTheory_Proofs_TorusHaarMeasure_DetNeZeroOfIsOrth", "via": ["solution", "statement"]}
 {"parent": "ChenWhitt93.Reflection.Supplement.theorem_5_2", "child": "ChenWhitt93_Reflection_Supplement_FixedUpDown", "via": ["statement"]}
@@ -49626,8 +49626,8 @@
 {"parent": "CompanionTheory.PlacePermOperatorBicommutantSpan.schur", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_CountData", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GelfandTsetlinTopCoefficient_InterlacingDefectEqCard", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GelfandTsetlinTopCoefficient_CardEraseIccMin", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_GelfandTsetlinTopCoefficient_InterlacingDefectEqCard", "child": "Formalism_PeriodIntegrals_GTDefs", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.BallB.discrIdeal_span", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_AbsNormDiscrIdealOfLe", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.BallB.discrIdeal_span", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_AbsNormSpanSingletonEq", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.BallB.discrIdeal_span", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_AbsNormDiscrIdealOfLe", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.BallB.discrIdeal_span", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_AbsNormSpanSingletonEq", "via": ["solution", "statement"]}
 {"parent": "OBdd.not_oedge_reachable", "child": "Bdd_DecisionTree", "via": ["solution", "statement"]}
 {"parent": "OBdd.not_oedge_reachable", "child": "Bdd_Nary", "via": ["solution", "statement"]}
 {"parent": "OBdd.not_oedge_reachable", "child": "Bdd_Basic", "via": ["solution", "statement"]}
@@ -54863,12 +54863,12 @@
 {"parent": "GlobalTheory.Mem.RayData.coe_idealUnit", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_NormOneSevenOneTwo", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Mem.RayData.coe_idealUnit", "child": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_ExistsIntegralOfMemRayI", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Mem.RayData.coe_idealUnit", "child": "Development_AbelianVarietyTheory_Definitions_AutomorphicMembership_NonemptyRayDataOfNeZero", "via": ["solution", "statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.BallD.card_eq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_FundamentalDomainPiBasis", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.BallD.card_eq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_VolumeNormSqLeOne", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.BallD.card_eq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_DiscreteTopologyOfZsmul", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.BallD.card_eq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_MeasurableSetBallSet", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.BallD.card_eq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CovolumeIntegerLatticeEq", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.BallD.card_eq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsOrthBasisMem", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.BallD.card_eq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_FundamentalDomainPiBasis", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.BallD.card_eq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_VolumeNormSqLeOne", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.BallD.card_eq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_DiscreteTopologyOfZsmul", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.BallD.card_eq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_MeasurableSetBallSet", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.BallD.card_eq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CovolumeIntegerLatticeEq", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.BallD.card_eq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsOrthBasisMem", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.T.exists_norm_one_unit_shift", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicUnitaryOrbits_InclRAlgebraMap", "via": ["statement"]}
 {"parent": "GlobalTheory.T.exists_norm_one_unit_shift", "child": "CompanionTheory_SpectralGeometry_CountingDefinitions_AdelicEulerProducts_IsEulerProd", "via": ["statement"]}
 {"parent": "GlobalTheory.T.exists_norm_one_unit_shift", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_ExistsNormOneUnitShiftStatement", "via": ["statement"]}
@@ -56749,8 +56749,8 @@
 {"parent": "Development_AbelianVarietyTheory_Proofs_TorusHaarMeasure_ExistsDriftFunctionOrthonormalHermitianFrames", "child": "Development_AbelianVarietyTheory_Proofs_TorusHaarMeasure_MajorantEqSumNormSqOrthonormalFrameStatement", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_lsv_original_finitecap_signed_physical_stopped_cash_mesh_remainder_L1", "child": "AvramDividend_Classical_DividendStrategy", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_lsv_original_finitecap_signed_physical_stopped_cash_mesh_remainder_L1", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.gram_det_change", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_MassLandG", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.gram_det_change", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_GramEqConjTransposeMul", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.gram_det_change", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_MassLandG", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.gram_det_change", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_GramEqConjTransposeMul", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.T.isCharacterOverSubfield_of_representation", "child": "Development_AbelianVarietyTheory_Proofs_CharacterTheory_IsCharacterOverSubfieldOfRepresentationStatement", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.T.isCharacterOverSubfield_of_representation", "child": "Development_AbelianVarietyTheory_Proofs_CharacterTheory_IsCharacterOverSubfieldOfRepresentation", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.T.isCharacterOverSubfield_of_representation", "child": "Development_AbelianVarietyTheory_Definitions_CommutativeAlgebra_AbByPOfComm", "via": ["solution", "statement"]}
@@ -80098,9 +80098,9 @@
 {"parent": "GlobalTheory.MulFinite.isAffineHom_fromSpecResidueField", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ValCalc", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SW.HaarLevel.index_nsmul", "child": "Development_AbelianVarietyTheory_Definitions_SpanningFamilies_IMemSiegel", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SW.HaarLevel.index_nsmul", "child": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_FinsumQuotientOfLe", "via": ["solution", "statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.BsForm.hw_weight", "child": "Formalism_GradedWeylDivisibility_FinalD", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.BsForm.hw_weight", "child": "Formalism_BranchSandwichDivisors_StatementW", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.BsForm.hw_weight", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_BranchScale", "via": ["statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.BsForm.hw_weight", "child": "Formalism_GradedWeylDivisibility_FinalD", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.BsForm.hw_weight", "child": "Formalism_BranchSandwichDivisors_StatementW", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.BsForm.hw_weight", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_BranchScale", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.I2.nA_re_U", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_GCauchyStatement", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.I2.nA_re_U", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_LemmaNA", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Definitions_ThetaMetrics_WeightedHomogeneousComponentMemElimIdeal", "child": "GlobalTheory.quotientMapCSupSpanLinFormEquiv_mk", "via": ["statement"]}

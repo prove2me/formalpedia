@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimitiveCharacterCasts_ZD_numeric_constants
 -- name    : Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.ZD.numeric_constants
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:57.3363+00:00
 -- url     : https://prove2.me/theorems/f4b90a13-9afd-420d-a252-68240d98ac40

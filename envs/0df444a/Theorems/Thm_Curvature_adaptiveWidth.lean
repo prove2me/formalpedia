@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Curvature_adaptiveWidth
 -- name    : Curvature.adaptiveWidth
--- status  : Open
+-- status  : Proved
 -- author  : @ssakaue
 -- created : 2026-11-24T07:23:53.927933+00:00
 -- url     : https://prove2.me/theorems/c2198591-2461-427a-a8ab-f1a15f02952f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AddUN_exists_clopens_iUnion_eq
 -- name    : AddUN.exists_clopens_iUnion_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:30:04.63891+00:00
 -- url     : https://prove2.me/theorems/f81fde10-2db8-4726-96fd-8a5c9978c620

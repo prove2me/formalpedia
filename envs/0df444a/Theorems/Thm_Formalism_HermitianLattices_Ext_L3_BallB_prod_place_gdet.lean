@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallB_prod_place_gdet
 -- name    : Formalism.HermitianLattices.Ext.L3.BallB.prod_place_gdet
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:46:00.444894+00:00
 -- url     : https://prove2.me/theorems/63366247-9949-4d51-a782-73e5263691bc

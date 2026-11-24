@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_Regroup_tprod_eq_of_fibre
 -- name    : Formalism.HermitianLattices.Ext.L3.Regroup.tprod_eq_of_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:12.91886+00:00
 -- url     : https://prove2.me/theorems/c8b3f4f1-a167-4bbf-b4cc-3600cb221ecc

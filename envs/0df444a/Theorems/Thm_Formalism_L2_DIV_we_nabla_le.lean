@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_we_nabla_le
 -- name    : Formalism.L2.DIV.we_nabla_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:18:29.905536+00:00
 -- url     : https://prove2.me/theorems/70b405c1-520c-491d-bc46-5bc30e46022a

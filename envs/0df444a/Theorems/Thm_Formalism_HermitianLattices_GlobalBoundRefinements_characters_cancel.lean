@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_characters_cancel
 -- name    : Formalism.HermitianLattices.GlobalBoundRefinements.characters_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:46.139854+00:00
 -- url     : https://prove2.me/theorems/e8bbdb73-fa48-4329-9daf-7e935ed67fce

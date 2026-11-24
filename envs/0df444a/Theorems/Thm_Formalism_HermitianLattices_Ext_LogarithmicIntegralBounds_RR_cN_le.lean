@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_RR_cN_le
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.RR_cN_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:56:01.428702+00:00
 -- url     : https://prove2.me/theorems/104b4f54-7305-4f5d-96b8-91512c8e9020

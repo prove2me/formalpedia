@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_continuousOn_Fm_div_mul_log_sq
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.continuousOn_Fm_div_mul_log_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:53:25.597607+00:00
 -- url     : https://prove2.me/theorems/52c21006-49dc-41c2-a0fb-055c0399d172

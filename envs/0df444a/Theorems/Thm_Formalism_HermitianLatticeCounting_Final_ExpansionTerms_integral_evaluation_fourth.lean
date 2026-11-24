@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_ExpansionTerms_integral_evaluation_fourth
 -- name    : Formalism.HermitianLatticeCounting.Final.ExpansionTerms.integral_evaluation_fourth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:57:34.851886+00:00
 -- url     : https://prove2.me/theorems/061db6ed-1bf6-45f7-b41b-e38e63dd9c15

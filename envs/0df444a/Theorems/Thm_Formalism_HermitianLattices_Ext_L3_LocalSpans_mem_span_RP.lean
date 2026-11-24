@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LocalSpans_mem_span_RP
 -- name    : Formalism.HermitianLattices.Ext.L3.LocalSpans.mem_span_RP
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:13:47.614323+00:00
 -- url     : https://prove2.me/theorems/ae3495cc-c056-45d3-8a7b-58bfebc0ed45

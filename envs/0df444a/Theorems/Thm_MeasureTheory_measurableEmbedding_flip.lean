@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_measurableEmbedding_flip
 -- name    : MeasureTheory.measurableEmbedding_flip
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:28:42.916559+00:00
 -- url     : https://prove2.me/theorems/436bb08e-5b9f-44cf-9445-dc62fa781b0f

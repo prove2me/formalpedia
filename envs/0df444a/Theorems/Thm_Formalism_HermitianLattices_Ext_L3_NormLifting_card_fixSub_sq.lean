@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_NormLifting_card_fixSub_sq
 -- name    : Formalism.HermitianLattices.Ext.L3.NormLifting.card_fixSub_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:12:38.519788+00:00
 -- url     : https://prove2.me/theorems/0467edfb-5fce-48b2-9093-b63602b7b0c2

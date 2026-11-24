@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_hermitianFormColumns_exists_notMem_of_sol
 -- name    : Formalism.HermitianLattices.Ext.L3.hermitianFormColumns.exists_notMem_of_sol
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:52:21.04069+00:00
 -- url     : https://prove2.me/theorems/daa5f450-f075-4421-b94c-12df07981833

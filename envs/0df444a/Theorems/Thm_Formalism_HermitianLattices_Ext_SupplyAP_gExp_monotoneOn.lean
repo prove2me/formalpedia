@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_SupplyAP_gExp_monotoneOn
 -- name    : Formalism.HermitianLattices.Ext.SupplyAP.gExp_monotoneOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:25.808803+00:00
 -- url     : https://prove2.me/theorems/fb5dfe0c-0b6f-45a4-831f-61a6123d60f6

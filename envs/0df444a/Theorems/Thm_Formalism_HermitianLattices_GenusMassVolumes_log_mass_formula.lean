@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GenusMassVolumes_log_mass_formula
 -- name    : Formalism.HermitianLattices.GenusMassVolumes.log_mass_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:08.46048+00:00
 -- url     : https://prove2.me/theorems/2bf8aaed-1380-419b-bf9e-7f8749f13107

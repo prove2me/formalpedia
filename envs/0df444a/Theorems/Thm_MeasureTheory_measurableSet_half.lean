@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_measurableSet_half
 -- name    : MeasureTheory.measurableSet_half
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:25:37.929049+00:00
 -- url     : https://prove2.me/theorems/b20af3bc-532c-4672-975d-4ef6e1504cd9

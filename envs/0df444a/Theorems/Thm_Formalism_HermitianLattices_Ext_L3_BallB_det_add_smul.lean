@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallB_det_add_smul
 -- name    : Formalism.HermitianLattices.Ext.L3.BallB.det_add_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:44:30.623632+00:00
 -- url     : https://prove2.me/theorems/794ab5db-cb51-4fbb-8c00-cff764c386fe

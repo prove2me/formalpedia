@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_hwLineTall
 -- name    : Formalism.GradedWeylDivisibility.hwLineTall
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:24.503797+00:00
 -- url     : https://prove2.me/theorems/2f5efee0-4a37-4d71-9bd2-50407f5eb119

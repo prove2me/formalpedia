@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallB_discrIdeal_span
 -- name    : Formalism.HermitianLattices.Ext.L3.BallB.discrIdeal_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:05:54.157534+00:00
 -- url     : https://prove2.me/theorems/b9ec8e72-b537-4657-9045-e94b882bc2be

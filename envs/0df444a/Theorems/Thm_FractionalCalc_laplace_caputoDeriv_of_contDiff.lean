@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FractionalCalc_laplace_caputoDeriv_of_contDiff
 -- name    : FractionalCalc.laplace_caputoDeriv_of_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-21T15:48:50.299918+00:00
 -- url     : https://prove2.me/theorems/c399551c-1479-4939-8dde-ff2c1f60685c

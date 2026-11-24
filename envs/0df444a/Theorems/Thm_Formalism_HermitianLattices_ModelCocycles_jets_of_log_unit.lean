@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ModelCocycles_jets_of_log_unit
 -- name    : Formalism.HermitianLattices.ModelCocycles.jets_of_log_unit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:41.741644+00:00
 -- url     : https://prove2.me/theorems/c29d582c-6419-40e4-988a-84099f523f5f

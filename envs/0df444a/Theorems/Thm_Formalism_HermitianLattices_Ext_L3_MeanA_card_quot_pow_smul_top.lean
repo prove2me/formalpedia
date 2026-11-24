@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_MeanA_card_quot_pow_smul_top
 -- name    : Formalism.HermitianLattices.Ext.L3.MeanA.card_quot_pow_smul_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:52:19.537532+00:00
 -- url     : https://prove2.me/theorems/69ca57e2-c56b-4bc4-afe4-f927ba390585

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_dA_sum_min_sq
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.dA_sum_min_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:03:41.616246+00:00
 -- url     : https://prove2.me/theorems/9fc839f6-bd54-4483-8c73-ecdf5619c36e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BoxSum_exists_crt
 -- name    : Formalism.HermitianLattices.Ext.L3.BoxSum.exists_crt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:47:22.643599+00:00
 -- url     : https://prove2.me/theorems/aa9ea31c-061d-49bb-a802-2e1b8fcad399

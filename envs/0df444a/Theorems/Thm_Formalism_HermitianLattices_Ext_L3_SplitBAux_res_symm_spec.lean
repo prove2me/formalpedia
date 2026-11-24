@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_SplitBAux_res_symm_spec
 -- name    : Formalism.HermitianLattices.Ext.L3.SplitBAux.res_symm_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:41.763817+00:00
 -- url     : https://prove2.me/theorems/0130c6c0-b96b-4bed-82f6-a0d407792e52

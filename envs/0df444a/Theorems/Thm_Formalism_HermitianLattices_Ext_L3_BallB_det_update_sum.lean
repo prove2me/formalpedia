@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallB_det_update_sum
 -- name    : Formalism.HermitianLattices.Ext.L3.BallB.det_update_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:45:32.069188+00:00
 -- url     : https://prove2.me/theorems/084c9e0f-b70c-458a-8dad-ded028dc32cf

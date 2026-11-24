@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GenusMassVolumes_initial_sum_identity
 -- name    : Formalism.HermitianLattices.GenusMassVolumes.initial_sum_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:16.394802+00:00
 -- url     : https://prove2.me/theorems/ec6ec890-3a6a-43de-9019-0ce517b8f21a

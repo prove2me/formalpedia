@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_U0_isUnitIn_of_coprime
 -- name    : Formalism.HermitianLattices.Ext.L3.U0.isUnitIn_of_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:47.339838+00:00
 -- url     : https://prove2.me/theorems/3f5c36a9-6910-4aec-abaf-5f61b42e3faf

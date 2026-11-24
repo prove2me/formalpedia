@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ModelCocycles_adjoint_additive
 -- name    : Formalism.HermitianLattices.ModelCocycles.adjoint_additive
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:56.818963+00:00
 -- url     : https://prove2.me/theorems/27d6c91f-5a0f-4162-850b-1b80e8e76b26

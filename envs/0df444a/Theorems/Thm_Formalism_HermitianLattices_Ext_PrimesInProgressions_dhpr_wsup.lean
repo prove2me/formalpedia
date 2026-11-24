@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_dhpr_wsup
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.dhpr_wsup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:56:17.544559+00:00
 -- url     : https://prove2.me/theorems/aba8c309-eb4c-48fd-9c7c-4d24c3f2a912

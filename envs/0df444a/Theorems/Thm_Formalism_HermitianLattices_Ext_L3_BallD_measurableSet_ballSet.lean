@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallD_measurableSet_ballSet
 -- name    : Formalism.HermitianLattices.Ext.L3.BallD.measurableSet_ballSet
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:46:48.269101+00:00
 -- url     : https://prove2.me/theorems/dd799b5f-5581-489c-9113-65c0f93530b9

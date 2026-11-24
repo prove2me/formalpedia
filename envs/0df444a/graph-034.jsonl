@@ -806,8 +806,8 @@
 {"parent": "RealPinwheel_FiveSixths_WitnessD8_212", "child": "RealPinwheel_FiveSixths_CertificateD8", "via": ["statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_D8_0042", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["statement"]}
 {"parent": "RealPinwheel.FiveSixths.covered_fragment_D8_0042", "child": "RealPinwheel_FiveSixths_CodeFunctionD8", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.quasiLeft_stoppingSequenceLimit", "child": "Kyprianou_Ch03_CompletedNaturalFiltration", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.quasiLeft_stoppingSequenceLimit", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
+{"parent": "Kyprianou.Ch03.quasiLeft_stoppingSequenceLimit", "child": "Kyprianou_Ch03_CompletedNaturalFiltration", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.quasiLeft_stoppingSequenceLimit", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch43_432", "child": "OAIQ259US022", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeUnionBranch43_432", "child": "OAIQ259US021", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch03.exponentRegularity_convexNonnegative", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}

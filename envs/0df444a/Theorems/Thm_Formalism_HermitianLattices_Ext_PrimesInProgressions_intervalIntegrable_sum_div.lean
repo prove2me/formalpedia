@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_intervalIntegrable_sum_div
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.intervalIntegrable_sum_div
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:56:34.152915+00:00
 -- url     : https://prove2.me/theorems/49c0aa2f-0413-4272-aab7-5d0a2597c3e7

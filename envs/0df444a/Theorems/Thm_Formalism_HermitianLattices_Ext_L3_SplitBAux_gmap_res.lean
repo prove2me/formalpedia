@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_SplitBAux_gmap_res
 -- name    : Formalism.HermitianLattices.Ext.L3.SplitBAux.gmap_res
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:49:42.568385+00:00
 -- url     : https://prove2.me/theorems/c9e0cba9-9243-479f-9d41-48c9991118f9

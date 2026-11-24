@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_soutPart_le
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.soutPart_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:19:34.307115+00:00
 -- url     : https://prove2.me/theorems/1121e0e2-08b9-443e-9e91-151f3c69d5aa

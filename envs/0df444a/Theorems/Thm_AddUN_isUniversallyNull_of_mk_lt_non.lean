@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AddUN_isUniversallyNull_of_mk_lt_non
 -- name    : AddUN.isUniversallyNull_of_mk_lt_non
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:26:31.209194+00:00
 -- url     : https://prove2.me/theorems/72f3d3ea-a87f-4529-94ff-2ed1d928def0

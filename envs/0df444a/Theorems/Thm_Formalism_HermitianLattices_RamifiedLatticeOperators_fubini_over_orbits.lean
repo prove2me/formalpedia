@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_RamifiedLatticeOperators_fubini_over_orbits
 -- name    : Formalism.HermitianLattices.RamifiedLatticeOperators.fubini_over_orbits
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:51.512812+00:00
 -- url     : https://prove2.me/theorems/5a7bbfa0-2335-49e7-8d0b-a7d7ec9ddc31

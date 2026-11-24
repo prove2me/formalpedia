@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LocF_iInf_locF
 -- name    : Formalism.HermitianLattices.Ext.L3.LocF.iInf_locF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:50:55.349364+00:00
 -- url     : https://prove2.me/theorems/d08f012d-83b4-48f2-8a05-c8d58cece656

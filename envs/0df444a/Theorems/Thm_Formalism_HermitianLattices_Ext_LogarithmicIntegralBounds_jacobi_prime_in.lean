@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_jacobi_prime_in
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.jacobi_prime_in
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:56:26.029742+00:00
 -- url     : https://prove2.me/theorems/554a9efa-2469-4e83-a5f1-d4baebec2d05

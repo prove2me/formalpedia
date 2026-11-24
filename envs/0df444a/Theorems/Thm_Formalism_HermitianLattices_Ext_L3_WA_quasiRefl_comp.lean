@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_WA_quasiRefl_comp
 -- name    : Formalism.HermitianLattices.Ext.L3.WA.quasiRefl_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:52.223691+00:00
 -- url     : https://prove2.me/theorems/703a128b-79cf-4ca2-bc1f-0412d82b04b0

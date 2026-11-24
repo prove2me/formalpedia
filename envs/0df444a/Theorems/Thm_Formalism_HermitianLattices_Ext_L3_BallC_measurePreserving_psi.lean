@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallC_measurePreserving_psi
 -- name    : Formalism.HermitianLattices.Ext.L3.BallC.measurePreserving_psi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:44:35.874871+00:00
 -- url     : https://prove2.me/theorems/a98edd8a-310f-4720-b740-7154d655a864

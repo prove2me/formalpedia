@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_gaussian_lattice_cutoff_sum
 -- name    : Formalism.HermitianLatticeCounting.P.gaussian_lattice_cutoff_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:16.154804+00:00
 -- url     : https://prove2.me/theorems/0a17d0c6-0c9f-48cc-a70f-efa414b601bd

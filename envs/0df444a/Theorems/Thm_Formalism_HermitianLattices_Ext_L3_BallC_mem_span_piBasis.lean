@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallC_mem_span_piBasis
 -- name    : Formalism.HermitianLattices.Ext.L3.BallC.mem_span_piBasis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:44:56.8388+00:00
 -- url     : https://prove2.me/theorems/c2484487-54f6-4043-989b-a3040b6dd0db

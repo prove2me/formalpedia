@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhosphorylationSharpness_attainment_succ
 -- name    : PhosphorylationSharpness.attainment_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:23:30.065371+00:00
 -- url     : https://prove2.me/theorems/468d50d5-65b0-43c9-9987-689f433e2486

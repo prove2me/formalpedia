@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_isUnimodularAt_of_loc_eq
 -- name    : Formalism.HermitianLattices.Ext.L3.isUnimodularAt_of_loc_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:04.732849+00:00
 -- url     : https://prove2.me/theorems/900246d6-cb37-4ada-bd26-2bbb53956c97

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_FiniteUnitaryColumns_exists_col
 -- name    : Formalism.HermitianLattices.Ext.L3.FiniteUnitaryColumns.exists_col
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:45:28.046895+00:00
 -- url     : https://prove2.me/theorems/30e2190c-37ee-4323-a676-176ea9396b45

@@ -1,0 +1,36 @@
+-- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_localizedQuotients_form_smul
+-- name    : Formalism.HermitianLattices.Ext.L3.localizedQuotients.form_smul
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-24T07:48:03.000797+00:00
+-- url     : https://prove2.me/theorems/f0977f33-3e18-499d-a17f-30220bdaf02a
+-- title:
+--   localized Quotients: form smul
+-- statement:
+--   The localized Quotients construction uses the form smul property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/GL3MeanSquares/GenusMeanAsymptotics/UnimodularClassRepresentatives/MemSmulOfMemSmulLocF.lean#L93-L97
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/GL3MeanSquares/GenusMeanAsymptotics/UnimodularClassRepresentatives/MemSmulOfMemSmulLocF.lean#L93-L97
+
+import Definitions.Def_Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsBasisLocF
+import Definitions.Def_Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExtPPowLeSpanSup
+import Definitions.Def_Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_MemSmulOfMemSmulLocF
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open NumberField Module
+noncomputable section
+open Formalism Formalism.HermitianLattices Formalism.HermitianLattices.Ext Formalism.HermitianLattices.Ext.L3 Formalism.HermitianLattices.Ext.L3.localizedQuotients
+open LocalSpans idealPowerSpanBounds
+variable {K F : Type} [Field K] [NumberField K] [StarRing K] [Field F] [NumberField F] [Algebra F K]
+variable {V : Type} [AddCommGroup V] [Module K V] [Module (𝓞 K) V] [IsScalarTower (𝓞 K) K V]
+local notation "ι" => algebraMap (𝓞 F) (𝓞 K)
+
+theorem Formalism.HermitianLattices.Ext.L3.localizedQuotients.form_smul (hF : IsFixF K F) (h : V →ₗ⋆[K] V →ₗ[K] K) (a b : 𝓞 F) (x y : V) :
+    h (ι a • x) (ι b • y) = algebraMap (𝓞 K) K (ι (a * b)) * h x y := by sorry

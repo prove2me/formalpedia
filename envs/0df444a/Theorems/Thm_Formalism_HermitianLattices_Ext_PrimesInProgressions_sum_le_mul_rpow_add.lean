@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_sum_le_mul_rpow_add
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.sum_le_mul_rpow_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:38.004929+00:00
 -- url     : https://prove2.me/theorems/31766a23-afb9-4882-aa7a-247b29e218cc

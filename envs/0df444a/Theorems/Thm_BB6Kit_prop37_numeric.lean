@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BB6Kit_prop37_numeric
 -- name    : BB6Kit.prop37_numeric
--- status  : Open
+-- status  : Proved
 -- author  : @alon yuval
 -- created : 2026-11-24T06:58:21.303427+00:00
 -- url     : https://prove2.me/theorems/207af130-fa9b-4d33-ad2b-83750c85552c

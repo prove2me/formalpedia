@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_traceDeterminantCongruences_exists_tr_notMem
 -- name    : Formalism.HermitianLattices.Ext.L3.traceDeterminantCongruences.exists_tr_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:41.067377+00:00
 -- url     : https://prove2.me/theorems/f8dd3d15-fab0-4712-b977-92f77b4b4a56

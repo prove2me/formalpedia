@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ModelCocycles_adjoint_from_norm
 -- name    : Formalism.HermitianLattices.ModelCocycles.adjoint_from_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:36.157678+00:00
 -- url     : https://prove2.me/theorems/27fc9d8b-6cc2-4a4f-8179-12bbd3e41c24

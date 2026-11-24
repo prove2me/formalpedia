@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_SupplyAP_gExp_nonpos
 -- name    : Formalism.HermitianLattices.Ext.SupplyAP.gExp_nonpos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:02.919422+00:00
 -- url     : https://prove2.me/theorems/97171e21-f436-488e-a83c-de07ea1906f4

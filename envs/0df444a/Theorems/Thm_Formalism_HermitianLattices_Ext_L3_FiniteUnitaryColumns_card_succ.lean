@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_FiniteUnitaryColumns_card_succ
 -- name    : Formalism.HermitianLattices.Ext.L3.FiniteUnitaryColumns.card_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:46:27.504906+00:00
 -- url     : https://prove2.me/theorems/ceb12789-a13b-4155-bc61-b94b978aa5dc

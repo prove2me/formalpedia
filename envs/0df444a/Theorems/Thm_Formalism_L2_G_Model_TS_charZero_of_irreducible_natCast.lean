@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_charZero_of_irreducible_natCast
 -- name    : Formalism.L2.G.Model.TS.charZero_of_irreducible_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:23.897895+00:00
 -- url     : https://prove2.me/theorems/00b72e81-6274-441c-bb2a-10cf283b4f2b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_valuation_formula
 -- name    : Formalism.HermitianLattices.GlobalBoundRefinements.valuation_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:36.215946+00:00
 -- url     : https://prove2.me/theorems/0755d7fe-f2dc-4e0a-b7a3-4d8e5f18998a

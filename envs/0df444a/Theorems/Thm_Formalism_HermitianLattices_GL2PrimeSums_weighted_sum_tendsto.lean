@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GL2PrimeSums_weighted_sum_tendsto
 -- name    : Formalism.HermitianLattices.GL2PrimeSums.weighted_sum_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:00.046469+00:00
 -- url     : https://prove2.me/theorems/f42c8dc6-5fb5-4ca4-80a2-bff0229372f5

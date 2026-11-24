@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Curvature_fixedDomain
 -- name    : Curvature.fixedDomain
--- status  : Open
+-- status  : Proved
 -- author  : @ssakaue
 -- created : 2026-11-24T07:23:39.507747+00:00
 -- url     : https://prove2.me/theorems/d13a6f46-ce5c-4509-b254-7766ffeb05fd

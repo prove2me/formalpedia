@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AddUN_iUnion_inner
 -- name    : AddUN.iUnion_inner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:27:54.031271+00:00
 -- url     : https://prove2.me/theorems/5660ca52-2cb9-4d1a-8e8f-2d646b5fce02

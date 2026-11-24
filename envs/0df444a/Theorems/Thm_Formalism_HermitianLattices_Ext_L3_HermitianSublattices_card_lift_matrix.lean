@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HermitianSublattices_card_lift_matrix
 -- name    : Formalism.HermitianLattices.Ext.L3.HermitianSublattices.card_lift_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:11:46.980106+00:00
 -- url     : https://prove2.me/theorems/83f7c6a3-7aa6-4cb6-ba85-c61ae06b1591

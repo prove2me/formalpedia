@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_DHF_near_far
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.DHF.near_far
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:51:29.401913+00:00
 -- url     : https://prove2.me/theorems/103850c4-2a2b-4e87-90d3-3b01b8808ccb

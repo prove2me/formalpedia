@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DepthOneQExp_relT_gem
 -- name    : DepthOneQExp.relT_gem
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-24T06:55:47.271496+00:00
 -- url     : https://prove2.me/theorems/e46551b1-c93a-4c34-85aa-e9caca0368d1

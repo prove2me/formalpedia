@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_normRepCount_split_one
 -- name    : Formalism.HermitianLattices.Ext.L3.normRepCount_split_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:55:54.434285+00:00
 -- url     : https://prove2.me/theorems/22627a8b-9fe7-4106-a970-7ef9bc9f55ef

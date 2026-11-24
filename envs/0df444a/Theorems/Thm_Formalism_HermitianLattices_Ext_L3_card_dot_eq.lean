@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_card_dot_eq
 -- name    : Formalism.HermitianLattices.Ext.L3.card_dot_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:52.831164+00:00
 -- url     : https://prove2.me/theorems/86b015eb-3c81-47af-9fcd-7d09d6710151

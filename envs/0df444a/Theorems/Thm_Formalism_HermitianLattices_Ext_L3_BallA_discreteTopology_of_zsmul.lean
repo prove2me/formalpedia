@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallA_discreteTopology_of_zsmul
 -- name    : Formalism.HermitianLattices.Ext.L3.BallA.discreteTopology_of_zsmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:44:10.041501+00:00
 -- url     : https://prove2.me/theorems/0f36017b-883b-42ab-a397-aa4fe6d49c25

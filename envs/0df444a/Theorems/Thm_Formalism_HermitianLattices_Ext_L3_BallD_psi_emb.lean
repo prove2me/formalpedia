@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallD_psi_emb
 -- name    : Formalism.HermitianLattices.Ext.L3.BallD.psi_emb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:46:41.451701+00:00
 -- url     : https://prove2.me/theorems/0982d0ef-7c34-43ac-8392-ab4abfdd95da

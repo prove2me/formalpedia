@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_sharp_term
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.sharp_term
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:38.655915+00:00
 -- url     : https://prove2.me/theorems/263c5906-cb5a-4866-a3a8-afc973b90939

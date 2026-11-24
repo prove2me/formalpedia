@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_RankOne_mem_isom_iff
 -- name    : Formalism.HermitianLattices.Ext.L3.RankOne.mem_isom_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:44:52.998366+00:00
 -- url     : https://prove2.me/theorems/0e67a451-0f3f-4784-acfc-ea2eda5c2324

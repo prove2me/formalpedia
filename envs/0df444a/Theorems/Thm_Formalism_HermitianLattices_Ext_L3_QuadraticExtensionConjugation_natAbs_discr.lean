@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_QuadraticExtensionConjugation_natAbs_discr
 -- name    : Formalism.HermitianLattices.Ext.L3.QuadraticExtensionConjugation.natAbs_discr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:53:16.051542+00:00
 -- url     : https://prove2.me/theorems/ac652acb-2cc6-4fc1-8176-322ec1f16a92

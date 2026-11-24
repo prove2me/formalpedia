@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_joint_coefficient_formula
 -- name    : Formalism.HermitianLattices.LocalLatticeBases.joint_coefficient_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:18.559862+00:00
 -- url     : https://prove2.me/theorems/2011e9f4-4048-451d-809d-a90cee7d342b

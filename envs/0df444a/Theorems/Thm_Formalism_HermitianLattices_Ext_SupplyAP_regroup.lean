@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_SupplyAP_regroup
 -- name    : Formalism.HermitianLattices.Ext.SupplyAP.regroup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:59.301457+00:00
 -- url     : https://prove2.me/theorems/4764d139-675f-43ad-890b-24270fea6019

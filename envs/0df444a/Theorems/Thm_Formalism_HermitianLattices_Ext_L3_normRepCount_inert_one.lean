@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_normRepCount_inert_one
 -- name    : Formalism.HermitianLattices.Ext.L3.normRepCount_inert_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:55:51.864016+00:00
 -- url     : https://prove2.me/theorems/f60342fa-e9a7-4ae5-a34e-fb1654f9b50d

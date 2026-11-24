@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_card_GL_fin
 -- name    : Formalism.HermitianLattices.Ext.L3.card_GL_fin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:51:00.954807+00:00
 -- url     : https://prove2.me/theorems/ac9e62e9-8f3b-487e-a5e7-6ea6aab8874e

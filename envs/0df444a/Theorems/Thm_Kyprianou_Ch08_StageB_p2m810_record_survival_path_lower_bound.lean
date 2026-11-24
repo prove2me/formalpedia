@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_record_survival_path_lower_bound
 -- name    : Kyprianou.Ch08.StageB.p2m810_record_survival_path_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T07:30:01.91275+00:00
 -- url     : https://prove2.me/theorems/571b5489-94da-41e1-81df-47c3ba658b60

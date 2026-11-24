@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_RankOne_ne_zero_of_mem_hcompl
 -- name    : Formalism.HermitianLattices.Ext.L3.RankOne.ne_zero_of_mem_hcompl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:51:35.88071+00:00
 -- url     : https://prove2.me/theorems/8057ff13-b49d-4d40-a74a-8ed7edd5894d

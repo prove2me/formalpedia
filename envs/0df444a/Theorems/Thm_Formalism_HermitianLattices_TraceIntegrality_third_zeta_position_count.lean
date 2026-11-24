@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_third_zeta_position_count
 -- name    : Formalism.HermitianLattices.TraceIntegrality.third_zeta_position_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:02:56.191164+00:00
 -- url     : https://prove2.me/theorems/3afab472-5c78-4b54-a7a9-c5493ec77ab0

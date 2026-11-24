@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_half_subset
 -- name    : MeasureTheory.half_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:25:46.372817+00:00
 -- url     : https://prove2.me/theorems/f2330516-850d-4b5f-ab40-cf91dbb7e15f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_absNorm_conjIdeal
 -- name    : Formalism.HermitianLattices.Ext.L3.absNorm_conjIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:40:20.754801+00:00
 -- url     : https://prove2.me/theorems/55928e77-f6af-4f59-869c-0af9a994f0d2

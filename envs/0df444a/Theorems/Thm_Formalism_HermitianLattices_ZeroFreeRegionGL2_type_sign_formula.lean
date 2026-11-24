@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ZeroFreeRegionGL2_type_sign_formula
 -- name    : Formalism.HermitianLattices.ZeroFreeRegionGL2.type_sign_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:48.3058+00:00
 -- url     : https://prove2.me/theorems/3f777465-0ddc-43b2-bd6a-9d8f6c67466c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_measurePreserving_flipSet
 -- name    : MeasureTheory.measurePreserving_flipSet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:26:39.233829+00:00
 -- url     : https://prove2.me/theorems/4f0a5019-5191-4b92-bc3f-fdec5f1981d0

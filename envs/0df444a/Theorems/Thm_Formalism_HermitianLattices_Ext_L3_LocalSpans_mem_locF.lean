@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LocalSpans_mem_locF
 -- name    : Formalism.HermitianLattices.Ext.L3.LocalSpans.mem_locF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:43:44.095203+00:00
 -- url     : https://prove2.me/theorems/363a3f0a-8c10-448d-9b66-047370fcdb7a

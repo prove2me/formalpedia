@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_glue_apply
 -- name    : Formalism.L2.G.Model.TS.glue_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:18:15.273808+00:00
 -- url     : https://prove2.me/theorems/7ee1035d-5dcf-4832-890d-f520eb6e79ce

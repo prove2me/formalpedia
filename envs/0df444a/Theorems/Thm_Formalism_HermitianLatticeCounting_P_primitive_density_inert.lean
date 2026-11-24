@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_primitive_density_inert
 -- name    : Formalism.HermitianLatticeCounting.P.primitive_density_inert
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:41.256527+00:00
 -- url     : https://prove2.me/theorems/5bba2cc6-2b19-4321-a35a-0d044b0176c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_isReal_cmF
 -- name    : Formalism.HermitianLattices.Ext.L3.isReal_cmF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:51:06.090075+00:00
 -- url     : https://prove2.me/theorems/14b233c0-1202-4021-b216-c5cd91e1604a

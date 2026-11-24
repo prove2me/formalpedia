@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GenusMassVolumes_real_place_decay
 -- name    : Formalism.HermitianLattices.GenusMassVolumes.real_place_decay
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:18.046191+00:00
 -- url     : https://prove2.me/theorems/921fe29f-f03f-4d0a-8acf-9657435575ec

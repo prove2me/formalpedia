@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimitiveCharacterCasts_boxCountHyp_of_zeroDensityBox
 -- name    : Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.boxCountHyp_of_zeroDensityBox
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:20:35.442024+00:00
 -- url     : https://prove2.me/theorems/52bf0ff3-e87e-49ff-b8ac-c5abfb0e1fc0

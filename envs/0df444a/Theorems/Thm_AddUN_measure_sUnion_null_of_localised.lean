@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AddUN_measure_sUnion_null_of_localised
 -- name    : AddUN.measure_sUnion_null_of_localised
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:24:40.172608+00:00
 -- url     : https://prove2.me/theorems/378e368a-b1c0-4621-b1a2-57eb726e6e08

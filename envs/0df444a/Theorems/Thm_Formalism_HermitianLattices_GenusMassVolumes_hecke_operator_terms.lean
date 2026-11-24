@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GenusMassVolumes_hecke_operator_terms
 -- name    : Formalism.HermitianLattices.GenusMassVolumes.hecke_operator_terms
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:15.355962+00:00
 -- url     : https://prove2.me/theorems/336ddb9e-ffb3-4f44-b30a-1308c78d592f

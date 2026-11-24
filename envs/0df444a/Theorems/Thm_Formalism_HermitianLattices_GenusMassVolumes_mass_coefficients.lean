@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GenusMassVolumes_mass_coefficients
 -- name    : Formalism.HermitianLattices.GenusMassVolumes.mass_coefficients
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:18.869842+00:00
 -- url     : https://prove2.me/theorems/b288b709-ef2d-42fa-9149-5e542a816f71

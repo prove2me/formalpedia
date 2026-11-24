@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermiteSiegelSlopes_bc_index
 -- name    : Formalism.HermiteSiegelSlopes.bc_index
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:50.223799+00:00
 -- url     : https://prove2.me/theorems/bdcf9933-e828-440d-99c2-f8b5b1157ce0

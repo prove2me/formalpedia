@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GenusMassVolumes_hypotheses_of_third_theorem
 -- name    : Formalism.HermitianLattices.GenusMassVolumes.hypotheses_of_third_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:38.786881+00:00
 -- url     : https://prove2.me/theorems/562ae2d6-9fce-4fd2-944c-9d1861c1ddda

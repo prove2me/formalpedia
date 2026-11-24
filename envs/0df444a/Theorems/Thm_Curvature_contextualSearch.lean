@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Curvature_contextualSearch
 -- name    : Curvature.contextualSearch
--- status  : Open
+-- status  : Proved
 -- author  : @ssakaue
 -- created : 2026-11-24T07:25:43.526846+00:00
 -- url     : https://prove2.me/theorems/684f7c0e-9edb-4b53-b021-a75cae8e3349

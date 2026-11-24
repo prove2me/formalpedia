@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_odd_half_shift_sign_dichotomy_bound
 -- name    : Formalism.HermitianLattices.LocalLatticeBases.odd_half_shift_sign_dichotomy_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:30.276706+00:00
 -- url     : https://prove2.me/theorems/e0d7243c-1f0c-41a1-a2ec-298829ebf428

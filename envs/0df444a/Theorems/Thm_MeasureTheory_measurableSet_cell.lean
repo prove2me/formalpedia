@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_measurableSet_cell
 -- name    : MeasureTheory.measurableSet_cell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:25:44.320121+00:00
 -- url     : https://prove2.me/theorems/8217aae8-2670-4e05-8b42-be0398527fb9

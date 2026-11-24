@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_WA_exists_norm_one_of_pair
 -- name    : Formalism.HermitianLattices.Ext.L3.WA.exists_norm_one_of_pair
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:44.0569+00:00
 -- url     : https://prove2.me/theorems/530a4fad-d181-4632-8414-ae00bcf8be91

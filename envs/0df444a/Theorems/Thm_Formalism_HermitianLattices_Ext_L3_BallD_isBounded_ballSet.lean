@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallD_isBounded_ballSet
 -- name    : Formalism.HermitianLattices.Ext.L3.BallD.isBounded_ballSet
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:46:07.128301+00:00
 -- url     : https://prove2.me/theorems/209d9724-f4f8-4292-8913-8447e3687ae9

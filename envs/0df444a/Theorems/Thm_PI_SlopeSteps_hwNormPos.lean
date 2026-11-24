@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SlopeSteps_hwNormPos
 -- name    : PI.SlopeSteps.hwNormPos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:44.773837+00:00
 -- url     : https://prove2.me/theorems/3ee693cf-5c1f-4950-af96-b5967f3c4911

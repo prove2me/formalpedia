@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_lgraded_multi
 -- name    : Formalism.GradedWeylDivisibility.lgraded_multi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:09.170359+00:00
 -- url     : https://prove2.me/theorems/a06ab446-5201-440c-a8ad-af7f4f1c84a8

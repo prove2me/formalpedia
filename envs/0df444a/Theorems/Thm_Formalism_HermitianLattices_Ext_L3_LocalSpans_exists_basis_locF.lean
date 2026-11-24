@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LocalSpans_exists_basis_locF
 -- name    : Formalism.HermitianLattices.Ext.L3.LocalSpans.exists_basis_locF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:18:51.119221+00:00
 -- url     : https://prove2.me/theorems/e5182876-afda-4603-8e6f-974a31dfc4e8

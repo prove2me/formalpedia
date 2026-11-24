@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_DHF_pow_small_a
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.DHF.pow_small_a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:51:34.002745+00:00
 -- url     : https://prove2.me/theorems/2519d181-116d-4d11-a450-eb71f995242f

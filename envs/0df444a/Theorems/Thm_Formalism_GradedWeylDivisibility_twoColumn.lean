@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_twoColumn
 -- name    : Formalism.GradedWeylDivisibility.twoColumn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:06.51412+00:00
 -- url     : https://prove2.me/theorems/7f1dd1d8-2c57-42a1-af34-897363f440f9

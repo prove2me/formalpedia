@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_tsact_sum_left
 -- name    : Formalism.L2.G.Model.TS.tsact_sum_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:17:58.958539+00:00
 -- url     : https://prove2.me/theorems/6c8130ef-6988-4df6-a5a1-e6189d3dc40f

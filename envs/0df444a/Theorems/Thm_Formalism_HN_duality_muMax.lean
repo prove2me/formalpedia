@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_duality_muMax
 -- name    : Formalism.HN.duality_muMax
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:25.545378+00:00
 -- url     : https://prove2.me/theorems/6e60ba1d-1eaf-42b6-b48b-685d502d74a3

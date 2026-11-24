@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ExpSeriesBivariate_ExpSeriesAddition_low_pow
 -- name    : Formalism.HermitianLattices.ExpSeriesBivariate.ExpSeriesAddition.low_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:37.316267+00:00
 -- url     : https://prove2.me/theorems/c6dc17fe-6ee4-4d5f-aa62-43452db84081

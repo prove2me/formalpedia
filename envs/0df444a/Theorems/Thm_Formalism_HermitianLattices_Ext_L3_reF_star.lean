@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_reF_star
 -- name    : Formalism.HermitianLattices.Ext.L3.reF_star
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:55:57.964564+00:00
 -- url     : https://prove2.me/theorems/d3f49aeb-babe-4741-a531-83ae68c04e73

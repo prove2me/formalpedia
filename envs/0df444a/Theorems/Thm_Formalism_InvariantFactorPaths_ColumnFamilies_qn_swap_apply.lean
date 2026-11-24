@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qn_swap_apply
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qn_swap_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:18:18.4428+00:00
 -- url     : https://prove2.me/theorems/38c8b80d-a614-419e-97cc-8113a43a493e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_IntegralLatticeDensity_no_form_of_bidegree_one_one
 -- name    : Formalism.HermitianLattices.IntegralLatticeDensity.no_form_of_bidegree_one_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:51.825862+00:00
 -- url     : https://prove2.me/theorems/bc9bc59a-b396-48b2-aeca-c46b30da18c1

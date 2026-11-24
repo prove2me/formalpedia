@@ -1,0 +1,42 @@
+-- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_sum_half_pow_le_one
+-- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.sum_half_pow_le_one
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-24T07:47:21.251922+00:00
+-- url     : https://prove2.me/theorems/d7e80e29-2e3c-4fd0-8baa-27818dcf3135
+-- title:
+--   Galois Irreducibility: sum half pow le one
+-- statement:
+--   The Galois Irreducibility construction uses the sum half pow le one property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PadicSubsetSums/StableGradedCounts/LocalEstimateIVOfTypeSetWeight.lean#L155-L167
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PadicSubsetSums/StableGradedCounts/LocalEstimateIVOfTypeSetWeight.lean#L155-L167
+
+import Definitions.Def_Formalism_PadicSubsetSums_CentralIdempotents_EigenbasisOfDistinctRoots
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_PropositionOneCentralCount
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRDivisorDegreeSubSum
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRCycleProbSum
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRPrimeRecipSum
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRLemmaLWeight
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRPrimeToPartEqIff
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRPrimeToPartSpec
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRLemmaP
+import Definitions.Def_Formalism_GaloisIrreducibility_NoSolvableTransitive
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRCentralIdemSelfAdjoint
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRIrredCountUpper
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRSquarefreeCount
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRTypeCountExact
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRCycleTypeProb
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_LocalEstimateIVOfTypeSetWeight
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.IrreducibleCountingLemmas Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+
+theorem Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.sum_half_pow_le_one (B : ℕ) : ∑ j ∈ Finset.Icc 1 B, (1 / (2 : ℝ) ^ j) ≤ 1 := by sorry

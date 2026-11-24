@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_rawRightGermPastFutureLatticeV1
 -- name    : Kyprianou.Ch03.rawRightGermPastFutureLatticeV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T07:24:56.477038+00:00
 -- url     : https://prove2.me/theorems/1d32ef22-9f74-4973-8a99-94c7984cc733

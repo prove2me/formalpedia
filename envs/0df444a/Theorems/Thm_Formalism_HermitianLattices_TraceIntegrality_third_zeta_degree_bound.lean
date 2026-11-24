@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_third_zeta_degree_bound
 -- name    : Formalism.HermitianLattices.TraceIntegrality.third_zeta_degree_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:02:48.581217+00:00
 -- url     : https://prove2.me/theorems/5f952db1-7fce-4135-ae59-9648ad1d5a29

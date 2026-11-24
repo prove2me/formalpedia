@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_IntegralLatticeDensity_norm_for_all_alpha
 -- name    : Formalism.HermitianLattices.IntegralLatticeDensity.norm_for_all_alpha
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:13.132135+00:00
 -- url     : https://prove2.me/theorems/baef9715-7659-45b1-88f4-2a438cc03d95

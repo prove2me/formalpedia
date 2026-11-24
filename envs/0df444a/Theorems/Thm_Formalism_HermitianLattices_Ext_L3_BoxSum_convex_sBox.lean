@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BoxSum_convex_sBox
 -- name    : Formalism.HermitianLattices.Ext.L3.BoxSum.convex_sBox
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:45:27.781807+00:00
 -- url     : https://prove2.me/theorems/e8dbb5b4-ca0e-4633-97d6-be2aeccd3829

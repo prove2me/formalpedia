@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_RamifiedHeckeModels_coprime_case_decomposition
 -- name    : Formalism.HermitianLattices.RamifiedHeckeModels.coprime_case_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:36.151168+00:00
 -- url     : https://prove2.me/theorems/0edc38c8-ae95-477a-829f-6dc141f7b9a7

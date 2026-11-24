@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_RamifiedLatticeOperators_lemmaB_length_statement
 -- name    : Formalism.HermitianLattices.RamifiedLatticeOperators.lemmaB_length_statement
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:54.091472+00:00
 -- url     : https://prove2.me/theorems/b2d94301-9b2c-42ae-9496-cb19927448d6

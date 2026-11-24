@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_kappaAssembly_of
 -- name    : Formalism.HermitianLatticeCounting.P.kappaAssembly_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:10.343015+00:00
 -- url     : https://prove2.me/theorems/84afe089-d5c8-46fb-84c3-3236c0897a77

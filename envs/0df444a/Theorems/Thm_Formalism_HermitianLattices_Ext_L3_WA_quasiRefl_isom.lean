@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_WA_quasiRefl_isom
 -- name    : Formalism.HermitianLattices.Ext.L3.WA.quasiRefl_isom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:50.972195+00:00
 -- url     : https://prove2.me/theorems/f1891815-5fd3-494c-8efe-0c6e50f30433

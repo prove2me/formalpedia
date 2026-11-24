@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GenusMassVolumes_exponential_tail_integral
 -- name    : Formalism.HermitianLattices.GenusMassVolumes.exponential_tail_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:20.531961+00:00
 -- url     : https://prove2.me/theorems/9ae30093-d01c-4007-8ce1-841332f7f18c

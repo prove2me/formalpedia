@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_covolume_integerLattice_eq
 -- name    : Formalism.HermitianLattices.Ext.L3.covolume_integerLattice_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:51:08.569481+00:00
 -- url     : https://prove2.me/theorems/56607ee4-33d6-4034-94c4-204cf4159996

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ZeroFreeRegionGL2_weighted_von_mangoldt_sum_identity
 -- name    : Formalism.HermitianLattices.ZeroFreeRegionGL2.weighted_von_mangoldt_sum_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:54.134982+00:00
 -- url     : https://prove2.me/theorems/c123873f-4f5b-40a0-ac21-3f67620d782b

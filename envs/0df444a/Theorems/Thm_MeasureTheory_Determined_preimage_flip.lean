@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_Determined_preimage_flip
 -- name    : MeasureTheory.Determined.preimage_flip
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:29:18.568368+00:00
 -- url     : https://prove2.me/theorems/e87dc140-3f03-411f-a230-3c6d1e3ec060

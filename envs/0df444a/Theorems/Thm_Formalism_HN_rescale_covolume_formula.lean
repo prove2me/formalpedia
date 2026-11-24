@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_rescale_covolume_formula
 -- name    : Formalism.HN.rescale_covolume_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:27:11.756618+00:00
 -- url     : https://prove2.me/theorems/18236d2b-a5ec-4c50-9ac6-03bf820afc2d

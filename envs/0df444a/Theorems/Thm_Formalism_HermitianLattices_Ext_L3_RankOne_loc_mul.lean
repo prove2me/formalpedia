@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_RankOne_loc_mul
 -- name    : Formalism.HermitianLattices.Ext.L3.RankOne.loc_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:14:39.162981+00:00
 -- url     : https://prove2.me/theorems/4e9936ae-40a0-4de7-b8ed-ff3786cbdb4f

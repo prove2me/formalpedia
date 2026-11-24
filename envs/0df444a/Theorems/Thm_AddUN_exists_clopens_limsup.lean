@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AddUN_exists_clopens_limsup
 -- name    : AddUN.exists_clopens_limsup
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:24:27.482829+00:00
 -- url     : https://prove2.me/theorems/c8be76f8-9c8a-4970-80f0-35ef7283a5ff

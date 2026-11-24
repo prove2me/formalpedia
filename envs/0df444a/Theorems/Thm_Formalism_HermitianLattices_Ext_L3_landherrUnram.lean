@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_landherrUnram
 -- name    : Formalism.HermitianLattices.Ext.L3.landherrUnram
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:56:36.412889+00:00
 -- url     : https://prove2.me/theorems/cc8cf1ac-46d7-40a7-a846-20ea60b6e05e

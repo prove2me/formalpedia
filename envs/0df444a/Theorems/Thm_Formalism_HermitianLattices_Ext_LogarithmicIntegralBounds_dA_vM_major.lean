@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_dA_vM_major
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.dA_vM_major
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:18:35.865008+00:00
 -- url     : https://prove2.me/theorems/cac05a23-23f4-4446-a08a-59f4034f44b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_volume_eq_siegel_mass
 -- name    : Formalism.HermitianLattices.CumulantEstimateDefs.volume_eq_siegel_mass
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:41.406666+00:00
 -- url     : https://prove2.me/theorems/1e0f7cf9-18f3-4ab2-b869-efcb9db5b8c2

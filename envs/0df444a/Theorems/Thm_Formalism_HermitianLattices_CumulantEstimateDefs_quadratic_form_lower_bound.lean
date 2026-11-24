@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_quadratic_form_lower_bound
 -- name    : Formalism.HermitianLattices.CumulantEstimateDefs.quadratic_form_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:48:50.433885+00:00
 -- url     : https://prove2.me/theorems/d4e46742-ed01-4755-b91e-668daa0a0d41

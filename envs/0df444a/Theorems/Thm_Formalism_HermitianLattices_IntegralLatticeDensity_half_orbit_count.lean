@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_IntegralLatticeDensity_half_orbit_count
 -- name    : Formalism.HermitianLattices.IntegralLatticeDensity.half_orbit_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:48.441218+00:00
 -- url     : https://prove2.me/theorems/c9ab5466-0d14-4144-93b7-7a6273013cec

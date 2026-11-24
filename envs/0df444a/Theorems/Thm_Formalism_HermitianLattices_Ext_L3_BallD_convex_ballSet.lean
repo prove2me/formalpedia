@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallD_convex_ballSet
 -- name    : Formalism.HermitianLattices.Ext.L3.BallD.convex_ballSet
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:47:31.783156+00:00
 -- url     : https://prove2.me/theorems/9dd2a931-253e-4e50-9bbe-9248b1687dd9

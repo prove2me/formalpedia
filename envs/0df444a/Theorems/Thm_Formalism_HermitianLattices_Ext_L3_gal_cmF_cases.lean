@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_gal_cmF_cases
 -- name    : Formalism.HermitianLattices.Ext.L3.gal_cmF_cases
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:15:49.380287+00:00
 -- url     : https://prove2.me/theorems/9409da3e-741d-438d-9a33-48db392b3c9a

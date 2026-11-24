@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_nuOf_antitone
 -- name    : Formalism.L2.G.Model.TS.nuOf_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:30.827899+00:00
 -- url     : https://prove2.me/theorems/13c56fdf-6313-486d-832e-155e2836968f

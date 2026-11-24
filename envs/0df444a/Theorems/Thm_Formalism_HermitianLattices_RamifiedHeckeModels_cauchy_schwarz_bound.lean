@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_RamifiedHeckeModels_cauchy_schwarz_bound
 -- name    : Formalism.HermitianLattices.RamifiedHeckeModels.cauchy_schwarz_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:34.387999+00:00
 -- url     : https://prove2.me/theorems/8a87c1e8-5a0d-4d48-a899-7f09034c0a22

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_cantorMeasure_inter_coord
 -- name    : MeasureTheory.cantorMeasure_inter_coord
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:29:25.255527+00:00
 -- url     : https://prove2.me/theorems/9b909780-de59-45da-b623-27373c54e277

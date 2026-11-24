@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_flipSet_apply_of_notMem
 -- name    : MeasureTheory.flipSet_apply_of_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:26:40.819168+00:00
 -- url     : https://prove2.me/theorems/721b1454-477e-4f98-aa1b-f3fc4252800a

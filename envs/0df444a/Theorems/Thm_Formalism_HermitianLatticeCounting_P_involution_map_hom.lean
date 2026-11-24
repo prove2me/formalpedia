@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_involution_map_hom
 -- name    : Formalism.HermitianLatticeCounting.P.involution_map_hom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:59.860193+00:00
 -- url     : https://prove2.me/theorems/55d4c67a-e931-4c61-b14b-54481fe7a5d4

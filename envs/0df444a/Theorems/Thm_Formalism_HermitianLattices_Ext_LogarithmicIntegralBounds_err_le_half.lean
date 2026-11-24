@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_err_le_half
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.err_le_half
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:56:28.10743+00:00
 -- url     : https://prove2.me/theorems/7a28c436-1af3-4b06-98ec-4a0d773888cf

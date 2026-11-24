@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_QuadraticExtensionConjugation_differentIdeal_eq_top
 -- name    : Formalism.HermitianLattices.Ext.L3.QuadraticExtensionConjugation.differentIdeal_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:53:52.898807+00:00
 -- url     : https://prove2.me/theorems/56e3bda0-7221-4d48-a112-0bcd914250d5

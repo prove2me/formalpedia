@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Curvature_inverseLinearOptimization
 -- name    : Curvature.inverseLinearOptimization
--- status  : Open
+-- status  : Proved
 -- author  : @ssakaue
 -- created : 2026-11-24T07:27:44.986341+00:00
 -- url     : https://prove2.me/theorems/a88d832b-8d9d-4263-8cdc-991b1a02fcd8

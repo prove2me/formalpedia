@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GenusMassVolumes_gaussian_integral_formula
 -- name    : Formalism.HermitianLattices.GenusMassVolumes.gaussian_integral_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:24.94701+00:00
 -- url     : https://prove2.me/theorems/5c75bafe-ca1d-4598-8b0a-077448faac5e

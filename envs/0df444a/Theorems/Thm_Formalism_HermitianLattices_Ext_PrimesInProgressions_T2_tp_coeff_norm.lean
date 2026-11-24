@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_T2_tp_coeff_norm
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.T2.tp_coeff_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:15.761619+00:00
 -- url     : https://prove2.me/theorems/ca686f02-002d-465f-a5e7-e705d159f8a0

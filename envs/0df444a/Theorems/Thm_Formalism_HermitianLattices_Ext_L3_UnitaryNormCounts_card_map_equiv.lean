@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_UnitaryNormCounts_card_map_equiv
 -- name    : Formalism.HermitianLattices.Ext.L3.UnitaryNormCounts.card_map_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:51:02.309919+00:00
 -- url     : https://prove2.me/theorems/8c906723-c324-47e4-9dc7-206672d92fa7

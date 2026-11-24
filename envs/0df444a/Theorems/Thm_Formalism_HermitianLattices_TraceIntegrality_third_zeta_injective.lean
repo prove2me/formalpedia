@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_third_zeta_injective
 -- name    : Formalism.HermitianLattices.TraceIntegrality.third_zeta_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:22.53321+00:00
 -- url     : https://prove2.me/theorems/84b4de06-0be1-4b17-bf0d-eaf20d8ab4c2

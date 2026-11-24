@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_gram_det_change
 -- name    : Formalism.HermitianLattices.Ext.L3.gram_det_change
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:38:02.174328+00:00
 -- url     : https://prove2.me/theorems/f5f9ddf9-95d2-4953-b9a4-68324bc9e879

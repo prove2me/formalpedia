@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AddUN_universallyNull_subset_null
 -- name    : AddUN.universallyNull_subset_null
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T07:23:19.99469+00:00
 -- url     : https://prove2.me/theorems/84d08643-d49f-416e-812f-ea38c9e8af61
