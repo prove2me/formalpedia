@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_timeReversalPathAEMeasurableV1
 -- name    : Kyprianou.Ch03.timeReversalPathAEMeasurableV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T07:56:41.327299+00:00
 -- url     : https://prove2.me/theorems/42196240-b3a8-4082-98f6-d9e7e4a02b71

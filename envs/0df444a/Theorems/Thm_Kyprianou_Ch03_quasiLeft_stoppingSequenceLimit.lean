@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_quasiLeft_stoppingSequenceLimit
 -- name    : Kyprianou.Ch03.quasiLeft_stoppingSequenceLimit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T14:57:18.614912+00:00
 -- url     : https://prove2.me/theorems/e40f7821-bc5b-415b-9859-f876418451d9

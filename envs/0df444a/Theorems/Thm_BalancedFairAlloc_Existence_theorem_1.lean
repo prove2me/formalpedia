@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalancedFairAlloc_Existence_theorem_1
 -- name    : BalancedFairAlloc.Existence.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T14:36:56.369826+00:00
 -- url     : https://prove2.me/theorems/be2b1823-f764-4817-b715-c26a327dbf84

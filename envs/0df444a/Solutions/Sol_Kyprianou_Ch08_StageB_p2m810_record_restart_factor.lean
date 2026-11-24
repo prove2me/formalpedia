@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch08.StageB.p2m810_record_restart_factor
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T08:06:21.454022+00:00
 -- url     : https://prove2.me/submissions/a7a4412a-d7d4-4e87-affc-81c8cd6baf6c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_filtered_restart_factor
 import Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_filtered_avram_model

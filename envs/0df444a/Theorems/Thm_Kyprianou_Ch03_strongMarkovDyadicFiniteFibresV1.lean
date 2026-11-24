@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_strongMarkovDyadicFiniteFibresV1
 -- name    : Kyprianou.Ch03.strongMarkovDyadicFiniteFibresV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T07:57:35.297118+00:00
 -- url     : https://prove2.me/theorems/549813ab-58fc-4e59-ab0b-175afdb53dbe

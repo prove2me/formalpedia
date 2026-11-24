@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_exists_finite_etale_representation_constant_torsor_of_ne_zero
 -- name    : AlgebraicGeometry.Scheme.exists_finite_etale_representation_constant_torsor_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-24T07:08:38.272183+00:00
 -- url     : https://prove2.me/theorems/f73fd62c-3da8-4bd6-ad15-973402e083ec

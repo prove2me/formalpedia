@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SepCostShare_theorem_5
 -- name    : SepCostShare.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:08:59.663868+00:00
 -- url     : https://prove2.me/theorems/eeeea24a-380e-4418-916d-b62549a88ac0

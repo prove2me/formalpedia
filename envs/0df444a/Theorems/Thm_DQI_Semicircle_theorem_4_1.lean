@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DQI_Semicircle_theorem_4_1
 -- name    : DQI.Semicircle.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:04:27.909963+00:00
 -- url     : https://prove2.me/theorems/2f3646ad-7ea3-4aaf-b0a7-4c0c6f1d6408

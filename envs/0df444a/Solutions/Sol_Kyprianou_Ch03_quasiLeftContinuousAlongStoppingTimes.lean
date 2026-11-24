@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.quasiLeftContinuousAlongStoppingTimes
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-18T14:58:17.506255+00:00
 -- url     : https://prove2.me/submissions/99482fe4-4239-4118-a5da-8e72a29e7231
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

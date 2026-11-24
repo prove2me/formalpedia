@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_record_restart_factor
 -- name    : Kyprianou.Ch08.StageB.p2m810_record_restart_factor
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T07:08:14.921277+00:00
 -- url     : https://prove2.me/theorems/8056c167-874f-40ea-9409-ac52a354974f

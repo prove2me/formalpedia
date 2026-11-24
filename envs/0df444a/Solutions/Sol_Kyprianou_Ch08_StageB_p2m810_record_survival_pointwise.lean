@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch08.StageB.p2m810_record_survival_pointwise
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T07:09:19.818116+00:00
 -- url     : https://prove2.me/submissions/1697d703-b32b-4f97-9090-6deeabf097db
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_strict_record_origin
 import Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_record_restart_factor

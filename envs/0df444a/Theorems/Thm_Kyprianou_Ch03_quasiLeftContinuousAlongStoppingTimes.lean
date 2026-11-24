@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_quasiLeftContinuousAlongStoppingTimes
 -- name    : Kyprianou.Ch03.quasiLeftContinuousAlongStoppingTimes
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T13:37:41.844847+00:00
 -- url     : https://prove2.me/theorems/7240686d-5bbf-4b24-8fe9-84a0600f317d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_filtered_restart_split
 -- name    : Kyprianou.Ch08.StageB.p2m810_filtered_restart_split
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T08:00:38.148395+00:00
 -- url     : https://prove2.me/theorems/b27b6da4-22df-4d1b-97f1-979e08c5488e

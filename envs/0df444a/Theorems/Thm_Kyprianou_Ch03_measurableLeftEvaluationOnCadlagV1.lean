@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_measurableLeftEvaluationOnCadlagV1
 -- name    : Kyprianou.Ch03.measurableLeftEvaluationOnCadlagV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T08:06:57.741253+00:00
 -- url     : https://prove2.me/theorems/90916305-dd17-4c4e-89d2-3e14aac7fc00

@@ -269,9 +269,9 @@
 {"parent": "PacketFlowConv.refined_arrival_forms_agree", "child": "PacketFlowConv_ArcDynamics", "via": ["statement"]}
 {"parent": "PacketFlowConv.refined_arrival_forms_agree", "child": "PacketFlowConv_Discretization", "via": ["statement"]}
 {"parent": "PacketFlowConv.refined_arrival_forms_agree", "child": "PacketFlowConv_Instance", "via": ["statement"]}
-{"parent": "CutSetEnum.theorem_1_4", "child": "HyperKCut_Structure_Model", "via": ["statement"]}
-{"parent": "CutSetEnum.theorem_1_4", "child": "CutSetEnum_cutSet", "via": ["statement"]}
-{"parent": "CutSetEnum.theorem_1_4", "child": "CutSetEnum_IsOptKCutValue", "via": ["statement"]}
+{"parent": "CutSetEnum.theorem_1_4", "child": "HyperKCut_Structure_Model", "via": ["solution", "statement"]}
+{"parent": "CutSetEnum.theorem_1_4", "child": "CutSetEnum_cutSet", "via": ["solution", "statement"]}
+{"parent": "CutSetEnum.theorem_1_4", "child": "CutSetEnum_IsOptKCutValue", "via": ["solution", "statement"]}
 {"parent": "OAI.NuclearUltrapower.SOS.row_partition_66", "child": "OAIQ019N048", "via": ["solution", "statement"]}
 {"parent": "OAI.NuclearUltrapower.SOS.row_partition_66", "child": "OAIQ019N043", "via": ["solution", "statement"]}
 {"parent": "CombOpt_TutteBerge_Multigraph_Path_IsOddCircuit", "child": "CombOpt_TutteBerge_Multigraph_Path_IsCircuit", "via": ["statement"]}
@@ -7237,10 +7237,10 @@
 {"parent": "BroadieKaya.SV.variance_bridge_characteristic", "child": "BroadieKaya_SV_EndpointBridge", "via": ["statement"]}
 {"parent": "OAIQ023F036", "child": "OAIQ023F033", "via": ["statement"]}
 {"parent": "OAIQ023F036", "child": "OAIQ023F034", "via": ["statement"]}
-{"parent": "SepCostShare.theorem_5", "child": "SepCostShare_Deviation", "via": ["statement"]}
-{"parent": "SepCostShare.theorem_5", "child": "SepCostShare_MatroidGame", "via": ["statement"]}
-{"parent": "SepCostShare.theorem_5", "child": "SepCostShare_Protocol", "via": ["statement"]}
-{"parent": "SepCostShare.theorem_5", "child": "SepCostShare_Algorithm", "via": ["statement"]}
+{"parent": "SepCostShare.theorem_5", "child": "SepCostShare_Deviation", "via": ["solution", "statement"]}
+{"parent": "SepCostShare.theorem_5", "child": "SepCostShare_MatroidGame", "via": ["solution", "statement"]}
+{"parent": "SepCostShare.theorem_5", "child": "SepCostShare_Protocol", "via": ["solution", "statement"]}
+{"parent": "SepCostShare.theorem_5", "child": "SepCostShare_Algorithm", "via": ["solution", "statement"]}
 {"parent": "MarkovProcess.SubMarkovKernelSemigroup.IsFellerKernelSemigroup.integral_exitTimeTrunc_le", "child": "MarkovProcess_V3H_Trajectory_DiscountedDynkin_a0eb8ff0", "via": ["solution", "statement"]}
 {"parent": "MarkovProcess.SubMarkovKernelSemigroup.IsFellerKernelSemigroup.integral_exitTimeTrunc_le", "child": "MarkovProcess_V3H_Path_ExitTime_92962b9e", "via": ["solution", "statement"]}
 {"parent": "MarkovProcess.SubMarkovKernelSemigroup.IsFellerKernelSemigroup.integral_exitTimeTrunc_le", "child": "MarkovProcess_V3H_Path_OptionalStopping_4dea182f", "via": ["solution", "statement"]}
@@ -17441,9 +17441,9 @@
 {"parent": "PConeEB.facial_structure", "child": "PConeEB_pCone", "via": ["statement"]}
 {"parent": "PConeEB.facial_structure", "child": "PConeEB_facialVec", "via": ["statement"]}
 {"parent": "PConeEB.facial_structure", "child": "PConeEB_hyperplane", "via": ["statement"]}
-{"parent": "ProphetBipartite.theorem_3_1", "child": "ProphetBipartite_optValue", "via": ["statement"]}
-{"parent": "ProphetBipartite.theorem_3_1", "child": "ProphetBipartite_IsOrder", "via": ["statement"]}
-{"parent": "ProphetBipartite.theorem_3_1", "child": "ProphetBipartite_vaddRun", "via": ["statement"]}
+{"parent": "ProphetBipartite.theorem_3_1", "child": "ProphetBipartite_optValue", "via": ["solution", "statement"]}
+{"parent": "ProphetBipartite.theorem_3_1", "child": "ProphetBipartite_IsOrder", "via": ["solution", "statement"]}
+{"parent": "ProphetBipartite.theorem_3_1", "child": "ProphetBipartite_vaddRun", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.four_body_10_positive_s50", "child": "OAIQ050L010", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.maximal_planar_drawing_edge_count_lower_bound__p2m_f2cfae8b_743a_4350_8c03_fa33aa7b455e_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "OAI.ContinuumCoulomb.exists_actual_oneBody_parameters", "child": "ContinuumCoulombHardness", "via": ["solution", "statement"]}
@@ -19789,20 +19789,20 @@
 {"parent": "OAIQ075A013", "child": "OAIQ075A007", "via": ["statement"]}
 {"parent": "OAIQ075A013", "child": "OAIQ075A008", "via": ["statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_gram_14_5_13_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
-{"parent": "AndOrSched.theorem_1", "child": "AndOrSched_LP1Optimal", "via": ["statement"]}
-{"parent": "AndOrSched.theorem_1", "child": "AndOrSched_cand", "via": ["statement"]}
-{"parent": "AndOrSched.theorem_1", "child": "AndOrSched_numIntervals", "via": ["statement"]}
-{"parent": "AndOrSched.theorem_1", "child": "AndOrSched_Instance", "via": ["statement"]}
-{"parent": "AndOrSched.theorem_1", "child": "AndOrSched_key", "via": ["statement"]}
-{"parent": "AndOrSched.theorem_1", "child": "AndOrSched_horizon", "via": ["statement"]}
-{"parent": "AndOrSched.theorem_1", "child": "AndOrSched_Compat", "via": ["statement"]}
-{"parent": "AndOrSched.theorem_1", "child": "AndOrSched_Acyclic", "via": ["statement"]}
-{"parent": "AndOrSched.theorem_1", "child": "AndOrSched_normalize", "via": ["statement"]}
-{"parent": "AndOrSched.theorem_1", "child": "AndOrSched_outSched", "via": ["statement"]}
-{"parent": "AndOrSched.theorem_1", "child": "AndOrSched_delta", "via": ["statement"]}
-{"parent": "AndOrSched.theorem_1", "child": "AndOrSched_LP5Optimal", "via": ["statement"]}
-{"parent": "AndOrSched.theorem_1", "child": "AndOrSched_IsFeasible", "via": ["statement"]}
-{"parent": "AndOrSched.theorem_1", "child": "AndOrSched_cost", "via": ["statement"]}
+{"parent": "AndOrSched.theorem_1", "child": "AndOrSched_LP1Optimal", "via": ["solution", "statement"]}
+{"parent": "AndOrSched.theorem_1", "child": "AndOrSched_cand", "via": ["solution", "statement"]}
+{"parent": "AndOrSched.theorem_1", "child": "AndOrSched_numIntervals", "via": ["solution", "statement"]}
+{"parent": "AndOrSched.theorem_1", "child": "AndOrSched_Instance", "via": ["solution", "statement"]}
+{"parent": "AndOrSched.theorem_1", "child": "AndOrSched_key", "via": ["solution", "statement"]}
+{"parent": "AndOrSched.theorem_1", "child": "AndOrSched_horizon", "via": ["solution", "statement"]}
+{"parent": "AndOrSched.theorem_1", "child": "AndOrSched_Compat", "via": ["solution", "statement"]}
+{"parent": "AndOrSched.theorem_1", "child": "AndOrSched_Acyclic", "via": ["solution", "statement"]}
+{"parent": "AndOrSched.theorem_1", "child": "AndOrSched_normalize", "via": ["solution", "statement"]}
+{"parent": "AndOrSched.theorem_1", "child": "AndOrSched_outSched", "via": ["solution", "statement"]}
+{"parent": "AndOrSched.theorem_1", "child": "AndOrSched_delta", "via": ["solution", "statement"]}
+{"parent": "AndOrSched.theorem_1", "child": "AndOrSched_LP5Optimal", "via": ["solution", "statement"]}
+{"parent": "AndOrSched.theorem_1", "child": "AndOrSched_IsFeasible", "via": ["solution", "statement"]}
+{"parent": "AndOrSched.theorem_1", "child": "AndOrSched_cost", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_19_4_9_s50", "child": "OAIQ050L004", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_19_4_9_s50", "child": "OAIQ050L000", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.computeLDL_19_4_9_s50", "child": "OAIQ050L003", "via": ["solution", "statement"]}
@@ -30352,14 +30352,14 @@
 {"parent": "AvramDividend.Classical.avram_wave4_04a_bv_actual_source_locally_finite_jump_times_ae", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.maximal_planar_graph_edge_bound__p2m_a9c9dbb0_74a5_4e80_aeeb_6c6cfc8d46c4_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_error_22_1_9_s50", "child": "OAIQ050L010", "via": ["solution", "statement"]}
-{"parent": "RelaxRoundPoA.theorem_3", "child": "RelaxRoundPoA_IsExactMaximizer", "via": ["statement"]}
-{"parent": "RelaxRoundPoA.theorem_3", "child": "RelaxRoundPoA_IsRounded", "via": ["statement"]}
-{"parent": "RelaxRoundPoA.theorem_3", "child": "RelaxRoundPoA_ExpFinite", "via": ["statement"]}
-{"parent": "RelaxRoundPoA.theorem_3", "child": "RelaxRoundPoA_HalfClosed", "via": ["statement"]}
-{"parent": "RelaxRoundPoA.theorem_3", "child": "RelaxRoundPoA_IsSmooth", "via": ["statement"]}
-{"parent": "RelaxRoundPoA.theorem_3", "child": "RelaxRoundPoA_IsPayYourBid", "via": ["statement"]}
-{"parent": "RelaxRoundPoA.theorem_3", "child": "RelaxRoundPoA_Mechanism", "via": ["statement"]}
-{"parent": "RelaxRoundPoA.theorem_3", "child": "RelaxRoundPoA_IsObliviousRounding", "via": ["statement"]}
+{"parent": "RelaxRoundPoA.theorem_3", "child": "RelaxRoundPoA_IsExactMaximizer", "via": ["solution", "statement"]}
+{"parent": "RelaxRoundPoA.theorem_3", "child": "RelaxRoundPoA_IsRounded", "via": ["solution", "statement"]}
+{"parent": "RelaxRoundPoA.theorem_3", "child": "RelaxRoundPoA_ExpFinite", "via": ["solution", "statement"]}
+{"parent": "RelaxRoundPoA.theorem_3", "child": "RelaxRoundPoA_HalfClosed", "via": ["solution", "statement"]}
+{"parent": "RelaxRoundPoA.theorem_3", "child": "RelaxRoundPoA_IsSmooth", "via": ["solution", "statement"]}
+{"parent": "RelaxRoundPoA.theorem_3", "child": "RelaxRoundPoA_IsPayYourBid", "via": ["solution", "statement"]}
+{"parent": "RelaxRoundPoA.theorem_3", "child": "RelaxRoundPoA_Mechanism", "via": ["solution", "statement"]}
+{"parent": "RelaxRoundPoA.theorem_3", "child": "RelaxRoundPoA_IsObliviousRounding", "via": ["solution", "statement"]}
 {"parent": "PerfCorrMSQ.theorem_2_star", "child": "ErlangA_Diffusion_SDE", "via": ["statement"]}
 {"parent": "PerfCorrMSQ.theorem_2_star", "child": "PuhaWardFluid_Limit_Paths", "via": ["statement"]}
 {"parent": "PerfCorrMSQ.theorem_2_star", "child": "PerfCorrMSQ_Scaled", "via": ["statement"]}

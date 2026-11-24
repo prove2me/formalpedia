@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_quasiLeft_strictlyEarlierLeftLimit
 -- name    : Kyprianou.Ch03.quasiLeft_strictlyEarlierLeftLimit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T14:57:12.542136+00:00
 -- url     : https://prove2.me/theorems/e075026e-defe-4603-9d2c-89294b68914e

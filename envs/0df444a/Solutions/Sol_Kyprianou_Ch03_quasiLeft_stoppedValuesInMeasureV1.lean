@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.quasiLeft_stoppedValuesInMeasureV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T07:44:14.595818+00:00
 -- url     : https://prove2.me/submissions/c410d1aa-5253-4228-b969-3065c9f92c73
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

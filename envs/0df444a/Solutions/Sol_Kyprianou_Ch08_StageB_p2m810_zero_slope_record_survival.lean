@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch08.StageB.p2m810_zero_slope_record_survival
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T00:26:46.056269+00:00
 -- url     : https://prove2.me/submissions/ac705efe-9310-4ebd-8096-28d3529f4902
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Kyprianou_Ch08_StageB_source_result8_2_v2
 import Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_record_survival_pointwise

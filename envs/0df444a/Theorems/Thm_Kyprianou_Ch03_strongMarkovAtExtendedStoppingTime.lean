@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_strongMarkovAtExtendedStoppingTime
 -- name    : Kyprianou.Ch03.strongMarkovAtExtendedStoppingTime
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T13:37:14.207834+00:00
 -- url     : https://prove2.me/theorems/2623fefc-be31-45fd-9189-b00f2e50b331

@@ -1,15 +1,15 @@
--- Prove2me | Theorems.Thm_WeightedEdgeColor_lemma_profile_choice_typed
--- name    : WeightedEdgeColor.lemma_profile_choice_typed
+-- Prove2me | Theorems.Thm_WeightedEdgeColor_lemma_profile_choice_pos
+-- name    : WeightedEdgeColor.lemma_profile_choice_pos
 -- status  : Open
 -- author  : @Shuze Chen
--- created : 2026-11-24T07:59:47.033801+00:00
--- url     : https://prove2.me/theorems/41d65a3b-4868-4d83-8633-85cc438a4045
+-- created : 2026-11-24T08:13:28.302676+00:00
+-- url     : https://prove2.me/theorems/ecaf5e0a-5faa-410e-856b-115f6ed2a77f
 -- title:
---   Choosing profiles group by group (large/small typed edges): slack and small discrepancy
+--   Choosing profiles group by group (typed edges, $\beta>0$): slack and small discrepancy
 -- statement:
 --   This is the step "Choosing profiles group by group" in the proof of Theorem 3.1 (local-to-global rounding). From a menu of profiles at every vertex and color, it selects one profile per vertex–color pair. Every slot then keeps spare capacity, and at every vertex the coordinated fractional options deviate from their intended totals by only $O(n^{3/4})$ in weighted absolute value.
 --
---   Fix constants $C_0,C_1,\theta,r_0>0$, $0<\sigma<1$, a threshold $\beta$, and integers $M$ (menu size), $K_s$ (slots per profile) and $r$ (number of groups). Let $G$ be a finite simple graph with weights in $(0,1]$, with an orientation $e=(u_e,v_e)$ of every edge, and with its vertices divided into $r$ groups with no edge inside a group. Let $n$ be a real parameter with $W_G(v)\le n$, and let $\mathcal C$ be a palette with $|\mathcal C|\le C_1n$.
+--   Fix constants $C_0,C_1,\theta,r_0>0$, $0<\sigma<1$, a threshold $\beta>0$, and integers $M$ (menu size), $K_s$ (slots per profile) and $r$ (number of groups). Let $G$ be a finite simple graph with weights in $(0,1]$, with an orientation $e=(u_e,v_e)$ of every edge, and with its vertices divided into $r$ groups with no edge inside a group. Let $n$ be a real parameter with $W_G(v)\le n$, and let $\mathcal C$ be a palette with $|\mathcal C|\le C_1n$.
 --
 --   **Data.** At every vertex $v$ and color $c$ there is a menu of $M$ profile labels $P$, with:
 --
@@ -60,8 +60,9 @@ import Definitions.Def_WeightedEdgeColor_WGraph
 set_option autoImplicit false
 namespace WeightedEdgeColor
 
-theorem lemma_profile_choice_typed (C₀ C₁ θ σ r₀ β : ℝ) (M Ks r : ℕ)
-    (hC₀ : 0 < C₀) (hC₁ : 0 < C₁) (hθ : 0 < θ) (hσ0 : 0 < σ) (hσ1 : σ < 1) (hr₀ : 0 < r₀) :
+theorem lemma_profile_choice_pos (C₀ C₁ θ σ r₀ β : ℝ) (M Ks r : ℕ)
+    (hC₀ : 0 < C₀) (hC₁ : 0 < C₁) (hθ : 0 < θ) (hσ0 : 0 < σ) (hσ1 : σ < 1) (hr₀ : 0 < r₀)
+    (hβ : 0 < β) :
     ∃ n₀ K : ℝ, ∀ (V E : Type) [Fintype V] [DecidableEq V] [Fintype E] [DecidableEq E]
       (G : WGraph V E), G.IsSimple → ∀ g : V → Fin r,
       (∀ (e : E) (u v : V), G.ends e = s(u, v) → g u ≠ g v) →

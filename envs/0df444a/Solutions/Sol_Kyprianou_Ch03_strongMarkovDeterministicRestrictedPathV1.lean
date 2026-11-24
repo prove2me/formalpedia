@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.strongMarkovDeterministicRestrictedPathV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T07:32:00.702873+00:00
 -- url     : https://prove2.me/submissions/e1af941e-c8c4-4444-8a63-bcc5a0271514
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

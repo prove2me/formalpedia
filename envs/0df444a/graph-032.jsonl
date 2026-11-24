@@ -84572,11 +84572,11 @@
 {"parent": "CompNonlocal_Supplement_omegaStar", "child": "CompNonlocal_werner", "via": ["statement"]}
 {"parent": "CompNonlocal_Supplement_omegaStar", "child": "QAlgorithms_Defs_Complexity", "via": ["statement"]}
 {"parent": "GraphonCheeger.Supplement.theorem_3_8", "child": "GraphonCheeger_Supplement_homDens", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.Supplement.theorem_5_3", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.Supplement.theorem_5_3", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.Supplement.theorem_5_3", "child": "QAlgorithms_Defs_Circuit", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.Supplement.theorem_5_3", "child": "QuantumLTF_Membership_gates12", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.Supplement.theorem_5_3", "child": "QuantumLTF_Membership_Uncontrolled", "via": ["statement"]}
+{"parent": "QuantumLTF.Membership.Supplement.theorem_5_3", "child": "QuantumLTF_Membership_Supplement_projDist", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.Supplement.theorem_5_3", "child": "QuantumLTF_Membership_Supplement_bandKet", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.Supplement.theorem_5_3", "child": "QAlgorithms_Defs_Circuit", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.Supplement.theorem_5_3", "child": "QuantumLTF_Membership_gates12", "via": ["solution", "statement"]}
+{"parent": "QuantumLTF.Membership.Supplement.theorem_5_3", "child": "QuantumLTF_Membership_Uncontrolled", "via": ["solution", "statement"]}
 {"parent": "TwoFoldOPI_Supplement_Admissible", "child": "TwoFoldOPI_Supplement_tiltPoiss", "via": ["statement"]}
 {"parent": "TwoFoldOPI_Supplement_Admissible", "child": "QAlgorithms_ClassicalBinaryEncoding", "via": ["statement"]}
 {"parent": "TwoFoldOPI_Supplement_Admissible", "child": "QAlgorithms_Defs_Basic", "via": ["statement"]}

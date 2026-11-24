@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch08.StageB.p2m810_filtered_restart_factor
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T08:09:13.352015+00:00
 -- url     : https://prove2.me/submissions/ec240c5b-b47d-4ae8-9e11-62729870674f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_shifted_reward_representation
 import Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_filtered_restart_split

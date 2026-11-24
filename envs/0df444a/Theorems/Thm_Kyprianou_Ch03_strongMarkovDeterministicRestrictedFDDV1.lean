@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_strongMarkovDeterministicRestrictedFDDV1
 -- name    : Kyprianou.Ch03.strongMarkovDeterministicRestrictedFDDV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T07:31:06.59464+00:00
 -- url     : https://prove2.me/theorems/37502337-b7ad-4ef6-95f2-d63f0de1d870

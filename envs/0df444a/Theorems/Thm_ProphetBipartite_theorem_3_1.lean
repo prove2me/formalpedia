@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProphetBipartite_theorem_3_1
 -- name    : ProphetBipartite.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T09:51:06.728614+00:00
 -- url     : https://prove2.me/theorems/3667cc06-36ac-4590-b94c-ce3215d4db15

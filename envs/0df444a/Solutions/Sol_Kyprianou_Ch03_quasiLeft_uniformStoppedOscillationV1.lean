@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.quasiLeft_uniformStoppedOscillationV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T07:59:57.136979+00:00
 -- url     : https://prove2.me/submissions/e2f9d545-78a3-4d20-8809-756cc8a4a843
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

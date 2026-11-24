@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_strongMarkovDeterministicRestrictedPathV1
 -- name    : Kyprianou.Ch03.strongMarkovDeterministicRestrictedPathV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T07:09:18.342245+00:00
 -- url     : https://prove2.me/theorems/1965c746-9098-4274-8064-bb96ff53ec19

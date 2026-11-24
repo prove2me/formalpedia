@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.strongMarkovExtendedUpperGridV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T07:58:35.059097+00:00
 -- url     : https://prove2.me/submissions/58e5ca07-9665-4b5b-a317-1286ab031b68
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_sup_discounted_record_integral
 -- name    : Kyprianou.Ch08.StageB.p2m810_sup_discounted_record_integral
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T00:05:01.259431+00:00
 -- url     : https://prove2.me/theorems/3ca6c4cd-36bc-46cf-8493-a4ea5904dae1

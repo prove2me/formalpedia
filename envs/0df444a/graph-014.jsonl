@@ -89091,12 +89091,12 @@
 {"parent": "MarkovProcess.SubMarkovKernelSemigroup.IsConservative.isKolmogorovProcess_continuousProcess", "child": "MarkovProcess_V3H_Trajectory_Basic_34bd0835", "via": ["solution", "statement"]}
 {"parent": "MarkovProcess.SubMarkovKernelSemigroup.IsConservative.isKolmogorovProcess_continuousProcess", "child": "MarkovProcess_V3H_Feller_Semigroup_2cfe612a", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakenext100.P12.polynomial_phase_injection", "child": "QAlgorithms_Papers_Independent_Intakenext100_P12", "via": ["statement"]}
-{"parent": "MultiwayCut.theorem_1_2", "child": "MultiwayCut_ExpClocks", "via": ["statement"]}
-{"parent": "MultiwayCut.theorem_1_2", "child": "MultiwayCut_Transformation", "via": ["statement"]}
-{"parent": "MultiwayCut.theorem_1_2", "child": "MultiwayCut_A53", "via": ["statement"]}
-{"parent": "MultiwayCut.theorem_1_2", "child": "MultiwayCut_Algorithm3", "via": ["statement"]}
-{"parent": "MultiwayCut.theorem_1_2", "child": "MultiwayCut_CKR", "via": ["statement"]}
-{"parent": "MultiwayCut.theorem_1_2", "child": "MultiwayCut_Instance", "via": ["statement"]}
+{"parent": "MultiwayCut.theorem_1_2", "child": "MultiwayCut_ExpClocks", "via": ["solution", "statement"]}
+{"parent": "MultiwayCut.theorem_1_2", "child": "MultiwayCut_Transformation", "via": ["solution", "statement"]}
+{"parent": "MultiwayCut.theorem_1_2", "child": "MultiwayCut_A53", "via": ["solution", "statement"]}
+{"parent": "MultiwayCut.theorem_1_2", "child": "MultiwayCut_Algorithm3", "via": ["solution", "statement"]}
+{"parent": "MultiwayCut.theorem_1_2", "child": "MultiwayCut_CKR", "via": ["solution", "statement"]}
+{"parent": "MultiwayCut.theorem_1_2", "child": "MultiwayCut_Instance", "via": ["solution", "statement"]}
 {"parent": "SplitPMSGame_pmsCost", "child": "SplitPMSGame_sptCost", "via": ["statement"]}
 {"parent": "KallMayerSLP.Bonferroni.proposition_3_1", "child": "KallMayerSLP_Bonferroni_binomialMoment", "via": ["solution", "statement"]}
 {"parent": "KallMayerSLP.Bonferroni.proposition_3_1", "child": "KallMayerSLP_Bonferroni_occurrenceCount", "via": ["solution", "statement"]}

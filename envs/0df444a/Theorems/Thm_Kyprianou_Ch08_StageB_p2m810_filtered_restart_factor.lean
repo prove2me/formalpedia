@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_filtered_restart_factor
 -- name    : Kyprianou.Ch08.StageB.p2m810_filtered_restart_factor
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T08:00:33.652812+00:00
 -- url     : https://prove2.me/theorems/fcc6893a-2be2-4688-9d8d-13d58dfbffb3

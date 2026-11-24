@@ -42104,8 +42104,8 @@
 {"parent": "DirTeleMC.comparison_structure", "child": "DirTeleMC_Schedule", "via": ["statement"]}
 {"parent": "DirTeleMC.comparison_structure", "child": "DirTeleMC_IsJumpArb", "via": ["statement"]}
 {"parent": "HDXHitting.fact_2_1_bipartite", "child": "HDXHitting_BipSingLE", "via": ["solution", "statement"]}
-{"parent": "DerandLDT.theorem_1_2", "child": "LineVsPoint_agr", "via": ["statement"]}
-{"parent": "DerandLDT.theorem_1_2", "child": "DerandLDT_localAgr", "via": ["statement"]}
+{"parent": "DerandLDT.theorem_1_2", "child": "LineVsPoint_agr", "via": ["solution", "statement"]}
+{"parent": "DerandLDT.theorem_1_2", "child": "DerandLDT_localAgr", "via": ["solution", "statement"]}
 {"parent": "DeMorganApprox.Main.lemma_4_1", "child": "DeMorganApprox_Main_SpanPrograms", "via": ["statement"]}
 {"parent": "AutobidSPPE_eps", "child": "AutobidSPPE_b0", "via": ["statement"]}
 {"parent": "AutobidSPPE_eps", "child": "AutobidSPPE_Dtri", "via": ["statement"]}

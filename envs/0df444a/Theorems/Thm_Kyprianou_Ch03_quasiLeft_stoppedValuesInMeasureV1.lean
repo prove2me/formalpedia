@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_quasiLeft_stoppedValuesInMeasureV1
 -- name    : Kyprianou.Ch03.quasiLeft_stoppedValuesInMeasureV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T07:24:16.293863+00:00
 -- url     : https://prove2.me/theorems/a4eda0ec-df84-488e-a209-50ed53bbb8bf

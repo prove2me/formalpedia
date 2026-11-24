@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_filtered_fresh_reward
 -- name    : Kyprianou.Ch08.StageB.p2m810_filtered_fresh_reward
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T08:00:46.491773+00:00
 -- url     : https://prove2.me/theorems/4e8d60ea-35a8-476d-8157-9494aa4227c4

@@ -12821,8 +12821,8 @@
 {"parent": "Formalism.HermitianLatticesTheory.classSetAssembly_min", "child": "Formalism_HermitianLattices_HermitianLatticesProofs_IsomAct", "via": ["statement"]}
 {"parent": "Formalism.HermitianLatticesTheory.classSetAssembly_min", "child": "Formalism_HermitianLattices_HermitianLatticesProofs_GenusBasic", "via": ["statement"]}
 {"parent": "Formalism.HermitianLatticesTheory.classSetAssembly_min", "child": "Formalism_HermitianLattices_HermitianLatticesProofs_ClassSetAssembly", "via": ["statement"]}
-{"parent": "AlgebraicGeometry.Scheme.exists_finite_etale_representation_constant_torsor_of_ne_zero", "child": "AlgebraicGeometry_AbelianSheafTorsors", "via": ["statement"]}
-{"parent": "AlgebraicGeometry.Scheme.exists_finite_etale_representation_constant_torsor_of_ne_zero", "child": "AlgebraicGeometry_EtaleClosedFiberSections", "via": ["statement"]}
+{"parent": "AlgebraicGeometry.Scheme.exists_finite_etale_representation_constant_torsor_of_ne_zero", "child": "AlgebraicGeometry_AbelianSheafTorsors", "via": ["solution", "statement"]}
+{"parent": "AlgebraicGeometry.Scheme.exists_finite_etale_representation_constant_torsor_of_ne_zero", "child": "AlgebraicGeometry_EtaleClosedFiberSections", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.E62.run", "child": "RHX_Edge1000000Data", "via": ["statement"]}
 {"parent": "RHX1000000.Run.E62.run", "child": "ArdaRH65K_Turing121_H11K_EdgeSplit", "via": ["statement"]}
 {"parent": "RHX1000000.Run.E62.run", "child": "RHX_RunSplit", "via": ["statement"]}
@@ -19666,8 +19666,8 @@
 {"parent": "Formalism.InvariantFactorPaths.KP.LL.lattice_plus_holds", "child": "Formalism_ThetaLogCoordinates_BihomogeneousPairs_LetterChainEmbeddings_LatticeEqualHolds", "via": ["statement"]}
 {"parent": "Formalism.InvariantFactorPaths.KP.LL.lattice_plus_holds", "child": "Formalism_ThetaLogCoordinates_BihomogeneousPairs_LetterChainEmbeddings_PlusOp", "via": ["statement"]}
 {"parent": "syracuse_cycle_eq_one_of_rational_period_sieve", "child": "syracuseStep", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.strongMarkovDeterministicRestrictedFDDV1", "child": "Kyprianou_Ch03_CompletedNaturalFiltration", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.strongMarkovDeterministicRestrictedFDDV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
+{"parent": "Kyprianou.Ch03.strongMarkovDeterministicRestrictedFDDV1", "child": "Kyprianou_Ch03_CompletedNaturalFiltration", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.strongMarkovDeterministicRestrictedFDDV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "Formalism.IrreducibleCountingLemmas.Z.BN.mul_eq_one_of_covolume_identity", "child": "Lemmata_GeneralBFactSecondVersion_Imports", "via": ["statement"]}
 {"parent": "Formalism.IrreducibleCountingLemmas.Z.BN.mul_eq_one_of_covolume_identity", "child": "Formalism_PadicSubsetSums_CentralIdempotents_PrimitiveRootFifteenSubOneUnit", "via": ["statement"]}
 {"parent": "Formalism.IrreducibleCountingLemmas.Z.BN.mul_eq_one_of_covolume_identity", "child": "Formalism_PadicSubsetSums_StableGradedCounts_ZBrauerNesbittAlg", "via": ["statement"]}
@@ -24762,10 +24762,10 @@
 {"parent": "RHX1000000.Run.E70.blk9", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.E72.blk7", "child": "RHX_RunSplit", "via": ["statement"]}
 {"parent": "RHX1000000.Run.E72.blk7", "child": "RHX_RunChain", "via": ["statement"]}
-{"parent": "RHX1000000.Run.E72.blk7", "child": "RHX_Edge1000000Data", "via": ["statement"]}
-{"parent": "RHX1000000.Run.E72.blk7", "child": "RHX1E6_RunE72", "via": ["statement"]}
+{"parent": "RHX1000000.Run.E72.blk7", "child": "RHX_Edge1000000Data", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.E72.blk7", "child": "RHX1E6_RunE72", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.E72.blk7", "child": "ArdaRH65K_Turing121_H11K_EdgeSplit", "via": ["statement"]}
-{"parent": "RHX1000000.Run.E72.blk7", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1000000.Run.E72.blk7", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.G.Model.sw_bidet_map", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LEhwLemmas", "via": ["statement"]}
 {"parent": "Formalism.L2.G.Model.sw_bidet_map", "child": "Formalism_LocalToGlobal_GroupLattices_FockModels_SwRowGenMonomial", "via": ["statement"]}
 {"parent": "Formalism.L2.G.Model.sw_bidet_map", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LGradedLemmas", "via": ["statement"]}
@@ -24773,7 +24773,7 @@
 {"parent": "FongoSync.merged_perm", "child": "FongoSync_Register", "via": ["solution", "statement"]}
 {"parent": "FongoSync.merged_perm", "child": "FongoSync_State", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.FormalSeriesBounds.S4.ch_split", "child": "Formalism_LocalToGlobal_CharacterGerms_ExistsStrictMonoMinor", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.levyNoFixedTimeJumpV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
+{"parent": "Kyprianou.Ch03.levyNoFixedTimeJumpV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.FormalSeriesBounds.sysExists", "child": "Formalism_LocalToGlobal_CharacterGerms_ScaledSecondIntegral", "via": ["statement"]}
 {"parent": "Formalism.L2.FormalSeriesBounds.sysExists", "child": "Formalism_LocalToGlobal_CharacterGerms_CartesianBoundOnCurves", "via": ["statement"]}
 {"parent": "Formalism.L2.FormalSeriesBounds.sysExists", "child": "Formalism_LocalToGlobal_CharacterGerms_LatticeInclusionFormsInjective", "via": ["statement"]}
@@ -24787,7 +24787,6 @@
 {"parent": "Formalism.HermitianLattices.Ext.L3.HU.exists_unif0", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsAddConjTransposeEq", "via": ["statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.HU.exists_unif0", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_SpanPowMulLe", "via": ["statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.HU.exists_unif0", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_IsLocUnif", "via": ["statement"]}
-{"parent": "WeightedEdgeColor.lemma_profile_choice_typed", "child": "WeightedEdgeColor_WGraph", "via": ["statement"]}
 {"parent": "RHX1000000.Run.E71.blk8", "child": "RHX1E6_RunE71", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.E71.blk8", "child": "RHX_RunSplit", "via": ["statement"]}
 {"parent": "RHX1000000.Run.E71.blk8", "child": "RHX_RunChain", "via": ["statement"]}
@@ -24811,10 +24810,10 @@
 {"parent": "Formalism.L2.G.Model.TS.prod_monomial_eq", "child": "Formalism_LocalToGlobal_GroupLattices_FockModels_TransposeWords_FockPairingHighestWeight", "via": ["statement"]}
 {"parent": "Formalism.L2.G.Model.TS.prod_monomial_eq", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LClosedeqLemmas", "via": ["statement"]}
 {"parent": "Formalism.L2.G.Model.TS.prod_monomial_eq", "child": "Formalism_LocalToGlobal_GroupLattices_FockModels_TransposeWords_TransposeWordsProofs_ProdBlockEmbMonomial", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.timeReversalFiniteCylinderPreimagesV1", "child": "LevyExtrema_SBA_runSup", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.timeReversalFiniteCylinderPreimagesV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.timeReversalPathAEMeasurableV1", "child": "LevyExtrema_SBA_runSup", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.timeReversalPathAEMeasurableV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
+{"parent": "Kyprianou.Ch03.timeReversalFiniteCylinderPreimagesV1", "child": "LevyExtrema_SBA_runSup", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.timeReversalFiniteCylinderPreimagesV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.timeReversalPathAEMeasurableV1", "child": "LevyExtrema_SBA_runSup", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.timeReversalPathAEMeasurableV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.G.Model.TS.fockR_int_self_pos", "child": "Formalism_LocalToGlobal_GroupLattices_FockModels_TransposeWords_FockPairingHighestWeight", "via": ["statement"]}
 {"parent": "Formalism.L2.G.Model.TS.fockR_int_self_pos", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LClosedeqLemmas", "via": ["statement"]}
 {"parent": "Formalism.L2.G.Model.TS.fockR_int_self_pos", "child": "Formalism_LocalToGlobal_GroupLattices_FockModels_TransposeWords_TransposeWordsProofs_ProdBlockEmbMonomial", "via": ["statement"]}
@@ -24832,10 +24831,10 @@
 {"parent": "SensitivityCampaign.endpoint22_sharp_profile_reset", "child": "Sensitivity213981Formal_Endpoint22NumericData", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.E72.blk3", "child": "RHX_RunSplit", "via": ["statement"]}
 {"parent": "RHX1000000.Run.E72.blk3", "child": "RHX_RunChain", "via": ["statement"]}
-{"parent": "RHX1000000.Run.E72.blk3", "child": "RHX_Edge1000000Data", "via": ["statement"]}
-{"parent": "RHX1000000.Run.E72.blk3", "child": "RHX1E6_RunE72", "via": ["statement"]}
+{"parent": "RHX1000000.Run.E72.blk3", "child": "RHX_Edge1000000Data", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.E72.blk3", "child": "RHX1E6_RunE72", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.E72.blk3", "child": "ArdaRH65K_Turing121_H11K_EdgeSplit", "via": ["statement"]}
-{"parent": "RHX1000000.Run.E72.blk3", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1000000.Run.E72.blk3", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.FormalSeriesBounds.Sys.eqn_eq", "child": "Formalism.BaseCaseIdentities.OrdGE.X", "via": ["statement"]}
 {"parent": "Formalism.L2.FormalSeriesBounds.Sys.eqn_eq", "child": "Formalism_FrobeniusBaseCase_FrobeniusBaseCaseProofs_HasUniqueFixedPoint", "via": ["statement"]}
 {"parent": "Formalism.L2.FormalSeriesBounds.Sys.eqn_eq", "child": "Formalism_LocalToGlobal_CharacterGerms_LatticeInclusionFormsInjective", "via": ["statement"]}
@@ -24934,10 +24933,10 @@
 {"parent": "FongoSync.apply_lww", "child": "FongoSync_Clock", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.E72.blk9", "child": "RHX_RunSplit", "via": ["statement"]}
 {"parent": "RHX1000000.Run.E72.blk9", "child": "RHX_RunChain", "via": ["statement"]}
-{"parent": "RHX1000000.Run.E72.blk9", "child": "RHX_Edge1000000Data", "via": ["statement"]}
-{"parent": "RHX1000000.Run.E72.blk9", "child": "RHX1E6_RunE72", "via": ["statement"]}
+{"parent": "RHX1000000.Run.E72.blk9", "child": "RHX_Edge1000000Data", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.E72.blk9", "child": "RHX1E6_RunE72", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.E72.blk9", "child": "ArdaRH65K_Turing121_H11K_EdgeSplit", "via": ["statement"]}
-{"parent": "RHX1000000.Run.E72.blk9", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1000000.Run.E72.blk9", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
 {"parent": "Formalism.IrreducibleCountingLemmas.Z.factorOverLocalSubalgebra", "child": "Formalism_PadicSubsetSums_StableGradedCounts_FactorOverLocalSubalgebra", "via": ["statement"]}
 {"parent": "Formalism.IrreducibleCountingLemmas.Z.factorOverLocalSubalgebra", "child": "Formalism_PadicSubsetSums_CentralIdempotents_PrimitiveRootFifteenSubOneUnit", "via": ["statement"]}
 {"parent": "Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.SC.cmQuadraticForm_eq_alternatingForm", "child": "Formalism_LocalToGlobal_TorsionIntegrality_QuadraticSemicharacters_CayleyGaussianIntegrals_MatrixFormFourfoldBlock", "via": ["statement"]}
@@ -24989,10 +24988,10 @@
 {"parent": "Formalism.L2.G.Model.TS.cwl_coeffT_sum", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_ColSums", "via": ["statement"]}
 {"parent": "RHX1000000.Run.E72.blk6", "child": "RHX_RunSplit", "via": ["statement"]}
 {"parent": "RHX1000000.Run.E72.blk6", "child": "RHX_RunChain", "via": ["statement"]}
-{"parent": "RHX1000000.Run.E72.blk6", "child": "RHX_Edge1000000Data", "via": ["statement"]}
-{"parent": "RHX1000000.Run.E72.blk6", "child": "RHX1E6_RunE72", "via": ["statement"]}
+{"parent": "RHX1000000.Run.E72.blk6", "child": "RHX_Edge1000000Data", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.E72.blk6", "child": "RHX1E6_RunE72", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.E72.blk6", "child": "ArdaRH65K_Turing121_H11K_EdgeSplit", "via": ["statement"]}
-{"parent": "RHX1000000.Run.E72.blk6", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1000000.Run.E72.blk6", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
 {"parent": "FongoSync.Laws.merge_idem", "child": "FongoSync_Examples", "via": ["solution", "statement"]}
 {"parent": "FongoSync.Laws.merge_idem", "child": "FongoSync_Model", "via": ["solution", "statement"]}
 {"parent": "FongoSync.Laws.merge_idem", "child": "FongoSync.merge_idem", "via": ["solution", "statement"]}
@@ -25415,8 +25414,8 @@
 {"parent": "FongoSync.rule_congr", "child": "FongoSync_View", "via": ["solution", "statement"]}
 {"parent": "FongoSync.rule_congr", "child": "FongoSync_Run", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch08.StageB.p2m810_filtered_fresh_reward", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["statement"]}
-{"parent": "Kyprianou.Ch08.StageB.p2m810_filtered_fresh_reward", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["statement"]}
-{"parent": "Kyprianou.Ch08.StageB.p2m810_filtered_fresh_reward", "child": "AvramDividend_Classical_ReflectionBarrier", "via": ["statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_filtered_fresh_reward", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_filtered_fresh_reward", "child": "AvramDividend_Classical_ReflectionBarrier", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.PinE.eq_block_of_fix", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_LocalDensitySixth", "via": ["statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.PinE.eq_block_of_fix", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_EqBlockOfFix", "via": ["statement"]}
 {"parent": "FongoSync.foldl_state_apply", "child": "FongoSync_Register", "via": ["solution", "statement"]}
@@ -25513,7 +25512,7 @@
 {"parent": "Formalism.L2.G.Model.TS.adj_applyWord_append", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LClosedeqLemmas", "via": ["statement"]}
 {"parent": "Formalism.L2.G.Model.TS.adj_applyWord_append", "child": "Formalism_LocalToGlobal_GroupLattices_FockModels_TransposeWords_TransposeWordsProofs_FockPairingDividedAdjoint", "via": ["statement"]}
 {"parent": "PDSmooth_Framework_Supplement_Problem", "child": "PDSmooth_Framework_Bregman", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.measurableLeftEvaluationOnCadlagV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
+{"parent": "Kyprianou.Ch03.measurableLeftEvaluationOnCadlagV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "FongoSync.State.foldl_swap", "child": "FongoSync_Register", "via": ["solution", "statement"]}
 {"parent": "FongoSync.State.foldl_swap", "child": "FongoSync_State", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.DIV.idemOf_integral", "child": "Formalism_LocalToGlobal_Divisibility_ProjLemmas", "via": ["statement"]}
@@ -25666,9 +25665,9 @@
 {"parent": "FongoSync.Full.view_eq_of_mem_iff", "child": "FongoSync_Model", "via": ["solution", "statement"]}
 {"parent": "FongoSync.Full.view_eq_of_mem_iff", "child": "FongoSync.IsCanonical.unique", "via": ["solution", "statement"]}
 {"parent": "syracuse_cycle_eq_one_of_triple_period_sieve", "child": "syracuseStep", "via": ["statement"]}
-{"parent": "Kyprianou.Ch08.StageB.p2m810_filtered_restart_split", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["statement"]}
-{"parent": "Kyprianou.Ch08.StageB.p2m810_filtered_restart_split", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["statement"]}
-{"parent": "Kyprianou.Ch08.StageB.p2m810_filtered_restart_split", "child": "AvramDividend_Classical_ReflectionBarrier", "via": ["statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_filtered_restart_split", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_filtered_restart_split", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_filtered_restart_split", "child": "AvramDividend_Classical_ReflectionBarrier", "via": ["solution", "statement"]}
 {"parent": "FongoSync.fold_apply_perm", "child": "FongoSync_Register", "via": ["solution", "statement"]}
 {"parent": "FongoSync.fold_apply_perm", "child": "FongoSync_Clock", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.G.Triv.cong_coprime", "child": "Formalism_LocalToGlobal_GroupLattices_TrivialTransfer_OneAddPowOfSq", "via": ["statement"]}
@@ -25687,10 +25686,10 @@
 {"parent": "Formalism.L2.G.RelativeIndexFlags.Core.map_mem_weyl", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LClosedeqLemmas", "via": ["statement"]}
 {"parent": "RHX1000000.Edge.piece_69", "child": "RHX_RunSplit", "via": ["statement"]}
 {"parent": "RHX1000000.Edge.piece_69", "child": "RHX_RunChain", "via": ["statement"]}
-{"parent": "RHX1000000.Edge.piece_69", "child": "RHX_Edge1000000Data", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.piece_69", "child": "RHX_Edge1000000Data", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Edge.piece_69", "child": "RHX1E6_RunE69", "via": ["statement"]}
 {"parent": "RHX1000000.Edge.piece_69", "child": "ArdaRH65K_Turing121_H11K_EdgeSplit", "via": ["statement"]}
-{"parent": "RHX1000000.Edge.piece_69", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.piece_69", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.PinG.red_of_mem", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_LocalDensitySixth", "via": ["statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.PinG.red_of_mem", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_FiniteRepSetOfOrtho", "via": ["statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.PinG.red_of_mem", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_RedEqOfSubMem", "via": ["statement"]}
@@ -25732,10 +25731,10 @@
 {"parent": "FongoSync.wins_max", "child": "FongoSync_Clock", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.E72.blk4", "child": "RHX_RunSplit", "via": ["statement"]}
 {"parent": "RHX1000000.Run.E72.blk4", "child": "RHX_RunChain", "via": ["statement"]}
-{"parent": "RHX1000000.Run.E72.blk4", "child": "RHX_Edge1000000Data", "via": ["statement"]}
-{"parent": "RHX1000000.Run.E72.blk4", "child": "RHX1E6_RunE72", "via": ["statement"]}
+{"parent": "RHX1000000.Run.E72.blk4", "child": "RHX_Edge1000000Data", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.E72.blk4", "child": "RHX1E6_RunE72", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.E72.blk4", "child": "ArdaRH65K_Turing121_H11K_EdgeSplit", "via": ["statement"]}
-{"parent": "RHX1000000.Run.E72.blk4", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1000000.Run.E72.blk4", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.DIV.quotFrameHermAt", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_Rerealize", "via": ["statement"]}
 {"parent": "Formalism.L2.DIV.quotFrameHermAt", "child": "Formalism_LocalToGlobal_Divisibility_FramesLemmas", "via": ["statement"]}
 {"parent": "Formalism.L2.DIV.quotFrameHermAt", "child": "Formalism_LocalToGlobal_Divisibility_Frames", "via": ["statement"]}
@@ -25923,7 +25922,7 @@
 {"parent": "FongoSync.known_eq", "child": "FongoSync_State", "via": ["solution", "statement"]}
 {"parent": "FongoSync.known_eq", "child": "FongoSync_View", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.GlobalTheoryTheory.UnramifiedTrace.card_dual_line", "child": "Formalism_LocalToGlobal_GlobalTheory_UnramifiedTrace_CardFilterSubtype", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.rawReversalFiniteCylinderV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
+{"parent": "Kyprianou.Ch03.rawReversalFiniteCylinderV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "EWILI2018.figure3_generators", "child": "EWILI2018_Generators", "via": ["statement"]}
 {"parent": "PigeonholeDesign.Upper.Supplement.theorem_5", "child": "PigeonholeDesign_Upper_Supplement_MatchedPair", "via": ["statement"]}
 {"parent": "PigeonholeDesign.Upper.Supplement.theorem_5", "child": "PigeonholeDesign_MultiDim_Setting", "via": ["statement"]}
@@ -25958,10 +25957,10 @@
 {"parent": "FongoSync.isCanonical_union", "child": "FongoSync_Clock", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Edge.piece_72", "child": "RHX_RunSplit", "via": ["statement"]}
 {"parent": "RHX1000000.Edge.piece_72", "child": "RHX_RunChain", "via": ["statement"]}
-{"parent": "RHX1000000.Edge.piece_72", "child": "RHX_Edge1000000Data", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.piece_72", "child": "RHX_Edge1000000Data", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Edge.piece_72", "child": "RHX1E6_RunE72", "via": ["statement"]}
 {"parent": "RHX1000000.Edge.piece_72", "child": "ArdaRH65K_Turing121_H11K_EdgeSplit", "via": ["statement"]}
-{"parent": "RHX1000000.Edge.piece_72", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.piece_72", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
 {"parent": "FongoSync.isCanonical_nil", "child": "FongoSync_Alias", "via": ["solution", "statement"]}
 {"parent": "FongoSync.isCanonical_nil", "child": "FongoSync_Clock", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.FormalSeriesBounds.Sys.al_zero", "child": "Formalism.BaseCaseIdentities.OrdGE.X", "via": ["statement"]}
@@ -26359,10 +26358,10 @@
 {"parent": "FongoSync_Laws", "child": "FongoSync_Run", "via": ["statement"]}
 {"parent": "RHX1000000.Run.E72.blk5", "child": "RHX_RunSplit", "via": ["statement"]}
 {"parent": "RHX1000000.Run.E72.blk5", "child": "RHX_RunChain", "via": ["statement"]}
-{"parent": "RHX1000000.Run.E72.blk5", "child": "RHX_Edge1000000Data", "via": ["statement"]}
-{"parent": "RHX1000000.Run.E72.blk5", "child": "RHX1E6_RunE72", "via": ["statement"]}
+{"parent": "RHX1000000.Run.E72.blk5", "child": "RHX_Edge1000000Data", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.E72.blk5", "child": "RHX1E6_RunE72", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.E72.blk5", "child": "ArdaRH65K_Turing121_H11K_EdgeSplit", "via": ["statement"]}
-{"parent": "RHX1000000.Run.E72.blk5", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1000000.Run.E72.blk5", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
 {"parent": "FongoSync_Run", "child": "FongoSync_View", "via": ["statement"]}
 {"parent": "ConformalBeyondExchangeability.multiplicative_bounds", "child": "ConformalBeyondExchangeability_Basic", "via": ["statement"]}
 {"parent": "Kyprianou.Ch08.StageB.p2m87_qpos_shifted_integral_to_upper_event", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["solution", "statement"]}
@@ -26437,9 +26436,9 @@
 {"parent": "RHX1000000.Edge.piece_70", "child": "RHX_RunSplit", "via": ["statement"]}
 {"parent": "RHX1000000.Edge.piece_70", "child": "RHX1E6_RunE70", "via": ["statement"]}
 {"parent": "RHX1000000.Edge.piece_70", "child": "RHX_RunChain", "via": ["statement"]}
-{"parent": "RHX1000000.Edge.piece_70", "child": "RHX_Edge1000000Data", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.piece_70", "child": "RHX_Edge1000000Data", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Edge.piece_70", "child": "ArdaRH65K_Turing121_H11K_EdgeSplit", "via": ["statement"]}
-{"parent": "RHX1000000.Edge.piece_70", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.piece_70", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
 {"parent": "ConformalOutlierTesting.calibration_scores_given_pvalue", "child": "ConformalOutlierTesting_Basic", "via": ["statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.BrA.finrank_ringOfIntegers", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_MemSmulOfMemSmulLocF", "via": ["statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.BrA.finrank_ringOfIntegers", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_IsUnimodularAtIffVd", "via": ["statement"]}
@@ -26500,10 +26499,10 @@
 {"parent": "FongoSync.merge_idem", "child": "FongoSync_Clock", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.E72.blk8", "child": "RHX_RunSplit", "via": ["statement"]}
 {"parent": "RHX1000000.Run.E72.blk8", "child": "RHX_RunChain", "via": ["statement"]}
-{"parent": "RHX1000000.Run.E72.blk8", "child": "RHX_Edge1000000Data", "via": ["statement"]}
-{"parent": "RHX1000000.Run.E72.blk8", "child": "RHX1E6_RunE72", "via": ["statement"]}
+{"parent": "RHX1000000.Run.E72.blk8", "child": "RHX_Edge1000000Data", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.E72.blk8", "child": "RHX1E6_RunE72", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.E72.blk8", "child": "ArdaRH65K_Turing121_H11K_EdgeSplit", "via": ["statement"]}
-{"parent": "RHX1000000.Run.E72.blk8", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1000000.Run.E72.blk8", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
 {"parent": "FongoSync.Full.registers_eq", "child": "FongoSync_View", "via": ["solution", "statement"]}
 {"parent": "FongoSync.Full.registers_eq", "child": "FongoSync_Model", "via": ["solution", "statement"]}
 {"parent": "FongoSync.Full.registers_eq", "child": "FongoSync.IsCanonical.unique", "via": ["solution", "statement"]}
@@ -26582,8 +26581,8 @@
 {"parent": "Formalism.HermitianLattices.Ext.L3.BrA.normD_eq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_MemSmulOfMemSmulLocF", "via": ["statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.BrA.normD_eq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_IsUnimodularAtIffVd", "via": ["statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.BrA.normD_eq", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_FinrankRingOfIntegers", "via": ["statement"]}
-{"parent": "BB6Kit.zero_poly", "child": "BB6Delta", "via": ["statement"]}
-{"parent": "BB6Kit.zero_poly", "child": "BB6Kit", "via": ["statement"]}
+{"parent": "BB6Kit.zero_poly", "child": "BB6Delta", "via": ["solution", "statement"]}
+{"parent": "BB6Kit.zero_poly", "child": "BB6Kit", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.DIV.we_fock_word", "child": "Formalism_LocalToGlobal_Columns_CoefficientsModP_WeTransposeWordTransposeWord", "via": ["statement"]}
 {"parent": "Formalism.L2.DIV.we_fock_word", "child": "Formalism_GradedWeylDivisibility_StatementE", "via": ["statement"]}
 {"parent": "Formalism.L2.DIV.we_fock_word", "child": "Formalism_PieriBlockIdeals_PieriColumnMinors_LowerTriangularIntegral", "via": ["statement"]}
@@ -26629,8 +26628,8 @@
 {"parent": "Formalism.HermitianLattices.Ext.L3.integralBasisSpans.qE_mk", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_LocalDensitySixth", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.integralBasisSpans.qE_mk", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_MemSmulOfMemSmulLocF", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.integralBasisSpans.qE_mk", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_CardQuotExtPPow", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch08.StageB.p2m810_filtered_record_weight", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["statement"]}
-{"parent": "Kyprianou.Ch08.StageB.p2m810_filtered_record_weight", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_filtered_record_weight", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_filtered_record_weight", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch08.StageB.p2m810_filtered_record_weight", "child": "AvramDividend_Classical_ReflectionBarrier", "via": ["statement"]}
 {"parent": "Formalism.L2.DIV.map_inj", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_Rerealize", "via": ["statement"]}
 {"parent": "Formalism.L2.DIV.map_inj", "child": "Formalism_LocalToGlobal_Divisibility_FramesLemmas", "via": ["statement"]}
@@ -26651,9 +26650,9 @@
 {"parent": "RHX1000000.Edge.piece_71", "child": "RHX1E6_RunE71", "via": ["statement"]}
 {"parent": "RHX1000000.Edge.piece_71", "child": "RHX_RunSplit", "via": ["statement"]}
 {"parent": "RHX1000000.Edge.piece_71", "child": "RHX_RunChain", "via": ["statement"]}
-{"parent": "RHX1000000.Edge.piece_71", "child": "RHX_Edge1000000Data", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.piece_71", "child": "RHX_Edge1000000Data", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Edge.piece_71", "child": "ArdaRH65K_Turing121_H11K_EdgeSplit", "via": ["statement"]}
-{"parent": "RHX1000000.Edge.piece_71", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.piece_71", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
 {"parent": "FongoSync.Clock.tick_after_any_history", "child": "FongoSync_Clock", "via": ["solution", "statement"]}
 {"parent": "FongoSync.fold_keep_dup", "child": "FongoSync_Register", "via": ["solution", "statement"]}
 {"parent": "FongoSync.fold_keep_dup", "child": "FongoSync_Clock", "via": ["solution", "statement"]}
@@ -26829,7 +26828,6 @@
 {"parent": "Kyprianou.Ch08.StageB.p2m87_qpos_factor_post_stopped_reward_shift", "child": "AvramDividend.Classical.shiftedLevy_increments_right_continuous", "via": ["solution"]}
 {"parent": "Kyprianou.Ch08.StageB.p2m87_qpos_factor_post_stopped_reward_shift", "child": "Kyprianou.Ch08.StageB.source_result81_positive_open_clock_eq_all_times", "via": ["solution"]}
 {"parent": "Kyprianou.Ch08.StageB.p2m87_qpos_factor_source_exit_clocks_eq", "child": "Kyprianou.Ch08.StageB.source_result81_positive_open_clock_eq_all_times", "via": ["solution"]}
-{"parent": "WeightedEdgeColor.lemma_profile_selection", "child": "WeightedEdgeColor.lemma_profile_choice_typed", "via": ["solution"]}
 {"parent": "Formalism.GradedWeylDivisibility.semistandard_basis", "child": "Formalism.GradedWeylDivisibility.bidetMem", "via": ["solution"]}
 {"parent": "Formalism.GradedWeylDivisibility.semistandard_basis", "child": "Formalism.GradedWeylDivisibility.leadInterlaced", "via": ["solution"]}
 {"parent": "Formalism.GradedWeylDivisibility.semistandard_basis", "child": "Formalism.GradedWeylDivisibility.ldbasis_linearIndependent", "via": ["solution"]}
@@ -28145,3 +28143,991 @@
 {"parent": "FongoSync.length_filter_lt", "child": "FongoSync.length_filter_mono", "via": ["solution"]}
 {"parent": "FongoSync.Full.unverified_eq", "child": "FongoSync.Full.homeCollection_eq", "via": ["solution"]}
 {"parent": "FongoSync.Full.unverified_eq", "child": "FongoSync.Full.key_eq", "via": ["solution"]}
+{"parent": "Kyprianou.Ch03.strongMarkovOrderedPrefixFactorV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m89_killing_barrier_exhaustion", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["statement"]}
+{"parent": "LargeDelaySGD.MeanSquare.Supplement.lemma_5", "child": "LargeDelaySGD_MeanSquare_Supplement_Constrained", "via": ["statement"]}
+{"parent": "LargeDelaySGD.MeanSquare.Supplement.lemma_5", "child": "SolodovSvaiterVI_Alg21_projOnto", "via": ["statement"]}
+{"parent": "LargeDelaySGD.MeanSquare.Supplement.lemma_5", "child": "LargeDelaySGD_MeanSquare_Model", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk4", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk4", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk4", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C02.blk4", "child": "RHX1E6_RunC02", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C02.blk4", "child": "RHX_Slab1000000Data", "via": ["solution", "statement"]}
+{"parent": "syracuse_no_cycle_below_two_pow_twenty_three", "child": "syracuseStep", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C01.blk6", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C01.blk6", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C01.blk6", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C01.blk6", "child": "RHX_Slab1000000Data", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C01.blk6", "child": "RHX1E6_RunC01", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m89_density_measurable_mono", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C01.blk8", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C01.blk8", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C01.blk8", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C01.blk8", "child": "RHX_Slab1000000Data", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C01.blk8", "child": "RHX1E6_RunC01", "via": ["statement"]}
+{"parent": "RHX1000000.Slab.cell_00", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Slab.cell_00", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Slab.cell_00", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Slab.cell_00", "child": "RHX1E6_RunC00", "via": ["statement"]}
+{"parent": "RHX1000000.Slab.cell_00", "child": "RHX_Slab1000000Data", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m89_unrestricted_occupation_set_identity_v2", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["solution", "statement"]}
+{"parent": "syracuse_cycle_eq_one_of_eight_million_triple_sieve", "child": "syracuseStep", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C00.blk6", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C00.blk6", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C00.blk6", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C00.blk6", "child": "RHX1E6_RunC00", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C00.blk6", "child": "RHX_Slab1000000Data", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C00.blk9", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C00.blk9", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C00.blk9", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C00.blk9", "child": "RHX1E6_RunC00", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C00.blk9", "child": "RHX_Slab1000000Data", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "ArdaRH65K_Turing121_ArgHoriz", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE62", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "ArdaRH65K_Turing121_EMZetaHighCheck", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "ArdaRH65K_Turing121_Arb4_Q", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE70", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE02", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE11", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE42", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE41", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "ArdaRH65K_Turing121_EMZetaOfflineSlabClear", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "ArdaRH65K_Turing121_StripReprR1", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "ArdaRH65K_Turing121_EMZeta", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE26", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE08", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE53", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE38", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "ArdaRH65K_Turing121_RHInBoxAnalytic", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE36", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE69", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE49", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE54", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "ArdaRH65K_ThetaValue", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE20", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX_Edge1000000Data", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "ArdaRH65K_Turing121_Arb4_Side", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE28", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE33", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE45", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE64", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "ArdaRH65K_Turing121_StripRepr", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE65", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE55", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE01", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE12", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "ArdaRH65K_Turing121_H1000Octant", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE14", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE60", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE03", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE63", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "ArdaRH65K_Turing121_H11K_EdgeSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE68", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE05", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE48", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "ArdaRH65K_Turing121_EMZetaOfflineCore", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE04", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "ArdaRH65K_Turing121_EdgeClearGlue", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE06", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE30", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE58", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE00", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE18", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE13", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "ArdaRH65K_XiLineZeros", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "ArdaRH65K_Turing121_Arb4_Edge", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "ArdaRH65K_Turing121_DlvpTheta", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE72", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE61", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE52", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE17", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "ArdaRH65K_Turing121_DlvpZetaRateEffective", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE40", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "ArdaRH65K_Turing121_EMZetaOfflineSound", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE07", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "ArdaRS_Arithmetic", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE66", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE22", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "ArdaRH65K_Turing121_EMZetaOfflineCheck", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE27", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "ArdaRH65K_Turing121_EMZetaOfflineSlab", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE31", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "ArdaRH65K_Probes_ArbEconomics_Sound", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE32", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "ArdaRH65K_Turing121_EMZetaOfflineEval", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "ArdaRH65K_Turing121_ArctanTaylor", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE21", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE51", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE15", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE44", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE71", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE59", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "ArdaRH65K_Turing121_Probes_ArbEconomics_Zeta", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "ArdaRH65K_Turing121_TuringBand", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE56", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "ArdaRH65K_Turing121_Arb4_Slab", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "ArdaRH65K_Turing121_EMZetaHigh", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "ArdaRH65K_Turing121_EMZetaComplex", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE47", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE10", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE29", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE19", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE09", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE25", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE39", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE50", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE67", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE23", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE16", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE24", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE37", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE46", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE35", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "ArdaRH65K_Turing121_DiffractionCore", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE34", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE43", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "ArdaRH65K_Turing121_EMZetaTail", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "ArdaRH65K_Turing121_EMZetaOfflineSlabCheck", "via": ["statement"]}
+{"parent": "RHX1000000.Edge.hAH", "child": "RHX1E6_RunE57", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C01.blk5", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C01.blk5", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C01.blk5", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C01.blk5", "child": "RHX_Slab1000000Data", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C01.blk5", "child": "RHX1E6_RunC01", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C01.blk3", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C01.blk3", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C01.blk3", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C01.blk3", "child": "RHX_Slab1000000Data", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C01.blk3", "child": "RHX1E6_RunC01", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C02.blk1", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk1", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk1", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C02.blk1", "child": "RHX1E6_RunC02", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C02.blk1", "child": "RHX_Slab1000000Data", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_initial_controlled_ruin_clock", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_initial_controlled_ruin_clock", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_initial_controlled_ruin_clock", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_initial_controlled_ruin_clock", "child": "AvramDividend_Classical_ReflectionBarrier", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.source_result8_9_v3", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C02.blk7", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk7", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk7", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk7", "child": "RHX1E6_RunC02", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk7", "child": "RHX_Slab1000000Data", "via": ["statement"]}
+{"parent": "Kyprianou.Ch03.strongMarkovOrderedIncrementLawV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C02.run", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.run", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.run", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.run", "child": "RHX1E6_RunC02", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.run", "child": "RHX_Slab1000000Data", "via": ["statement"]}
+{"parent": "OfflinePolicyLearning.Trees.Supplement.theorem2_printed_argmin_false", "child": "OfflinePolicyLearning_Regret_Hamming", "via": ["statement"]}
+{"parent": "OfflinePolicyLearning.Trees.Supplement.theorem2_printed_argmin_false", "child": "OfflinePolicyLearning_Regret_Setting", "via": ["statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_initial_controlled_ruin_event", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_initial_controlled_ruin_event", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_initial_controlled_ruin_event", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_initial_controlled_ruin_event", "child": "AvramDividend_Classical_ReflectionBarrier", "via": ["solution", "statement"]}
+{"parent": "SensitivityProfileCycle.cofinal_215_certificates", "child": "SensitivityProfileCycle", "via": ["statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m89_density_exhaustion", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C01.blk7", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C01.blk7", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C01.blk7", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C01.blk7", "child": "RHX_Slab1000000Data", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C01.blk7", "child": "RHX1E6_RunC01", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C00.blk5", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C00.blk5", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C00.blk5", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C00.blk5", "child": "RHX1E6_RunC00", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C00.blk5", "child": "RHX_Slab1000000Data", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C03.blk1", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C03.blk1", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C03.blk1", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C03.blk1", "child": "RHX1E6_RunC03", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C03.blk1", "child": "RHX_Slab1000000Data", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk8", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk8", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk8", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk8", "child": "RHX1E6_RunC02", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk8", "child": "RHX_Slab1000000Data", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C01.blk2", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C01.blk2", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C01.blk2", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C01.blk2", "child": "RHX_Slab1000000Data", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C01.blk2", "child": "RHX1E6_RunC01", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.strongMarkovFiniteVectorLawOfPrefixRectanglesV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.levyShrinkingIncrementPairLawV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C00.blk4", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C00.blk4", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C00.blk4", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C00.blk4", "child": "RHX1E6_RunC00", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C00.blk4", "child": "RHX_Slab1000000Data", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C01.blk0", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C01.blk0", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C01.blk0", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C01.blk0", "child": "RHX_Slab1000000Data", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C01.blk0", "child": "RHX1E6_RunC01", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m89_translated_killed_occupation", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk6", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk6", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk6", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk6", "child": "RHX1E6_RunC02", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk6", "child": "RHX_Slab1000000Data", "via": ["statement"]}
+{"parent": "OfflinePolicyLearning.Trees.Supplement.theorem1_printed_equality_false", "child": "OfflinePolicyLearning_Regret_Hamming", "via": ["statement"]}
+{"parent": "OfflinePolicyLearning.Trees.Supplement.theorem1_printed_equality_false", "child": "OfflinePolicyLearning_Trees_Supplement_Setting", "via": ["statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m89_phi_derivative_exact", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Slab.cell_02", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Slab.cell_02", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Slab.cell_02", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1000000.Slab.cell_02", "child": "RHX1E6_RunC02", "via": ["statement"]}
+{"parent": "RHX1000000.Slab.cell_02", "child": "RHX_Slab1000000Data", "via": ["statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_shifted_controlled_bad_clock", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_shifted_controlled_bad_clock", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_shifted_controlled_bad_clock", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_shifted_controlled_bad_clock", "child": "AvramDividend_Classical_ReflectionBarrier", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_origin_drawdown_clock", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_origin_drawdown_clock", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m89_tilted_scale_limit", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["statement"]}
+{"parent": "PalomaMax2SAT.UgcStrong.strong_ugc_broken", "child": "PalomaMax2SAT_UgcStrong_Defs", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C03.blk3", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C03.blk3", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C03.blk3", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C03.blk3", "child": "RHX1E6_RunC03", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C03.blk3", "child": "RHX_Slab1000000Data", "via": ["statement"]}
+{"parent": "RHX1E6_RunC04", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1E6_RunC04", "child": "RHX_Slab1000000Data", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C00.blk7", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C00.blk7", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C00.blk7", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C00.blk7", "child": "RHX1E6_RunC00", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C00.blk7", "child": "RHX_Slab1000000Data", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C01.blk1", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C01.blk1", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C01.blk1", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C01.blk1", "child": "RHX_Slab1000000Data", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C01.blk1", "child": "RHX1E6_RunC01", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C03.blk0", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C03.blk0", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C03.blk0", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C03.blk0", "child": "RHX1E6_RunC03", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C03.blk0", "child": "RHX_Slab1000000Data", "via": ["statement"]}
+{"parent": "OfflinePolicyLearning.Trees.Supplement.theorem4_printed_false", "child": "OfflinePolicyLearning_Regret_Hamming", "via": ["statement"]}
+{"parent": "OfflinePolicyLearning.Trees.Supplement.theorem4_printed_false", "child": "OfflinePolicyLearning_Regret_Setting", "via": ["statement"]}
+{"parent": "OfflinePolicyLearning.Trees.Supplement.theorem4_printed_false", "child": "OfflinePolicyLearning_Trees_Supplement_Setting", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C00.blk1", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C00.blk1", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C00.blk1", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C00.blk1", "child": "RHX1E6_RunC00", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C00.blk1", "child": "RHX_Slab1000000Data", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.strongMarkovShiftedPrefixRectanglesV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "LargeDelaySGD.MeanSquare.Supplement.theorem_3", "child": "LargeDelaySGD_MeanSquare_Supplement_Constrained", "via": ["statement"]}
+{"parent": "LargeDelaySGD.MeanSquare.Supplement.theorem_3", "child": "SolodovSvaiterVI_Alg21_projOnto", "via": ["statement"]}
+{"parent": "LargeDelaySGD.MeanSquare.Supplement.theorem_3", "child": "LargeDelaySGD_MeanSquare_Model", "via": ["statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m89_density_pointwise_limit", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["statement"]}
+{"parent": "Kyprianou.Ch03.levyFixedTimeIncrementLimitLawV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_origin_drawdown_event", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_origin_drawdown_event", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C02.blk5", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk5", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk5", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C02.blk5", "child": "RHX1E6_RunC02", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C02.blk5", "child": "RHX_Slab1000000Data", "via": ["solution", "statement"]}
+{"parent": "RHX1E6_RunC00", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1E6_RunC00", "child": "RHX_Slab1000000Data", "via": ["statement"]}
+{"parent": "HodgeComputer.SymmetricSexticResidual.Proof.cover_deg_bounds", "child": "HodgeComputerSSR_CoverParams", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.levyReflectedIncrementVectorLawV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C00.run", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C00.run", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C00.run", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C00.run", "child": "RHX1E6_RunC00", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C00.run", "child": "RHX_Slab1000000Data", "via": ["statement"]}
+{"parent": "syracuse_primitive_word_residual_eight_million_period_sieve", "child": "syracuseOffsetMod", "via": ["statement"]}
+{"parent": "OfflinePolicyLearning.Trees.Supplement.theorem3_printed_false", "child": "OfflinePolicyLearning_Regret_Hamming", "via": ["statement"]}
+{"parent": "OfflinePolicyLearning.Trees.Supplement.theorem3_printed_false", "child": "OfflinePolicyLearning_Regret_Setting", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk3", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk3", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk3", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk3", "child": "RHX1E6_RunC02", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk3", "child": "RHX_Slab1000000Data", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C00.blk0", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C00.blk0", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C00.blk0", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C00.blk0", "child": "RHX1E6_RunC00", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C00.blk0", "child": "RHX_Slab1000000Data", "via": ["solution", "statement"]}
+{"parent": "OfflinePolicyLearning_Trees_Supplement_Setting", "child": "OfflinePolicyLearning_Trees_Setting", "via": ["statement"]}
+{"parent": "OfflinePolicyLearning_Trees_Supplement_Setting", "child": "DRBatchBandit_Rademacher", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C03.blk2", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C03.blk2", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C03.blk2", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C03.blk2", "child": "RHX1E6_RunC03", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C03.blk2", "child": "RHX_Slab1000000Data", "via": ["statement"]}
+{"parent": "RHX1000000.Slab.cell_01", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Slab.cell_01", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Slab.cell_01", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1000000.Slab.cell_01", "child": "RHX_Slab1000000Data", "via": ["statement"]}
+{"parent": "RHX1000000.Slab.cell_01", "child": "RHX1E6_RunC01", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C01.blk9", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C01.blk9", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C01.blk9", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C01.blk9", "child": "RHX_Slab1000000Data", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C01.blk9", "child": "RHX1E6_RunC01", "via": ["statement"]}
+{"parent": "RHX1E6_RunC02", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1E6_RunC02", "child": "RHX_Slab1000000Data", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C00.blk2", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C00.blk2", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C00.blk2", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C00.blk2", "child": "RHX1E6_RunC00", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C00.blk2", "child": "RHX_Slab1000000Data", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C01.run", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C01.run", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C01.run", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C01.run", "child": "RHX_Slab1000000Data", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C01.run", "child": "RHX1E6_RunC01", "via": ["statement"]}
+{"parent": "LargeDelaySGD.MeanSquare.Supplement.lemma_6", "child": "LargeDelaySGD_MeanSquare_Supplement_Constrained", "via": ["statement"]}
+{"parent": "LargeDelaySGD.MeanSquare.Supplement.lemma_6", "child": "SolodovSvaiterVI_Alg21_projOnto", "via": ["statement"]}
+{"parent": "LargeDelaySGD.MeanSquare.Supplement.lemma_6", "child": "LargeDelaySGD_MeanSquare_Model", "via": ["statement"]}
+{"parent": "LargeDelaySGD.MeanSquare.Supplement.lemma_6", "child": "StochApproxDyn_LimitSet_AsymptoticPseudotrajectory", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C01.blk4", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C01.blk4", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C01.blk4", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C01.blk4", "child": "RHX_Slab1000000Data", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C01.blk4", "child": "RHX1E6_RunC01", "via": ["solution", "statement"]}
+{"parent": "RHX1E6_RunC03", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1E6_RunC03", "child": "RHX_Slab1000000Data", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk9", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk9", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk9", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk9", "child": "RHX1E6_RunC02", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk9", "child": "RHX_Slab1000000Data", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C00.blk3", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C00.blk3", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C00.blk3", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C00.blk3", "child": "RHX1E6_RunC00", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C00.blk3", "child": "RHX_Slab1000000Data", "via": ["solution", "statement"]}
+{"parent": "RHX1E6_RunC05", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1E6_RunC05", "child": "RHX_Slab1000000Data", "via": ["statement"]}
+{"parent": "WeightedEdgeColor.lemma_profile_choice_pos", "child": "WeightedEdgeColor_WGraph", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C00.blk8", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C00.blk8", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C00.blk8", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C00.blk8", "child": "RHX1E6_RunC00", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C00.blk8", "child": "RHX_Slab1000000Data", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_shifted_killed_discount", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_shifted_killed_discount", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_shifted_killed_discount", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_shifted_killed_discount", "child": "AvramDividend_Classical_ReflectionBarrier", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C02.blk2", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk2", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk2", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C02.blk2", "child": "RHX1E6_RunC02", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C02.blk2", "child": "RHX_Slab1000000Data", "via": ["solution", "statement"]}
+{"parent": "RHX1E6_RunC01", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1E6_RunC01", "child": "RHX_Slab1000000Data", "via": ["statement"]}
+{"parent": "Kyprianou.Ch03.strongMarkovGridPositionLawV1", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_initial_shifted_clock_pair", "child": "Kyprianou_Ch08_StageCFoundation_D", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_initial_shifted_clock_pair", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["solution", "statement"]}
+{"parent": "RHX1000000.Run.C02.blk0", "child": "RHX_RunSplit", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk0", "child": "RHX_RunChain", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk0", "child": "ArdaRS_Config64", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk0", "child": "RHX1E6_RunC02", "via": ["statement"]}
+{"parent": "RHX1000000.Run.C02.blk0", "child": "RHX_Slab1000000Data", "via": ["statement"]}
+{"parent": "DQI.Semicircle.theorem_4_1", "child": "DQI.Semicircle.eq_132", "via": ["solution"]}
+{"parent": "DQI.Semicircle.theorem_4_1", "child": "DQI.Semicircle.eq_137", "via": ["solution"]}
+{"parent": "DQI.Semicircle.theorem_4_1", "child": "DQI.Semicircle.eq_131", "via": ["solution"]}
+{"parent": "DQI.Semicircle.theorem_4_1", "child": "DQI.Semicircle.eq_129", "via": ["solution"]}
+{"parent": "DQI.Semicircle.theorem_4_1", "child": "DQI.Semicircle.lemma_9_3", "via": ["solution"]}
+{"parent": "SensitivityCampaign.reach_215", "child": "SensitivityProfileCycle.cofinal_215_certificates", "via": ["solution"]}
+{"parent": "MultiwayCut.theorem_1_2", "child": "MultiwayCut.theorem_1_2_density", "via": ["solution"]}
+{"parent": "MultiwayCut.theorem_1_2", "child": "MultiwayCut.observation_5_1", "via": ["solution"]}
+{"parent": "MultiwayCut.theorem_1_2", "child": "MultiwayCut.karger_reduction", "via": ["solution"]}
+{"parent": "MultiwayCut.theorem_1_2", "child": "MultiwayCut.lemma_5_1", "via": ["solution"]}
+{"parent": "CutSetEnum.theorem_1_4", "child": "HyperKCut.Structure.source_max_cut", "via": ["solution"]}
+{"parent": "CutSetEnum.theorem_1_4", "child": "CutSetEnum.theorem_2_1", "via": ["solution"]}
+{"parent": "CutSetEnum.theorem_1_4", "child": "HyperKCut.Structure.cut_sym_submod", "via": ["solution"]}
+{"parent": "CutSetEnum.theorem_1_4", "child": "CutSetEnum.corollary_3_1", "via": ["solution"]}
+{"parent": "SepCostShare.theorem_5", "child": "SepCostShare.inner_loop_cost_decrease", "via": ["solution"]}
+{"parent": "SepCostShare.theorem_5", "child": "SepCostShare.line8_well_defined", "via": ["solution"]}
+{"parent": "SepCostShare.theorem_5", "child": "SepCostShare.stopped_enforceable", "via": ["solution"]}
+{"parent": "SepCostShare.theorem_5", "child": "SepCostShare.exchange_count", "via": ["solution"]}
+{"parent": "SepCostShare.theorem_5", "child": "SepCostShare.exchange_pi_decrease", "via": ["solution"]}
+{"parent": "SepCostShare.theorem_5", "child": "SepCostShare.type1_cost_decrease", "via": ["solution"]}
+{"parent": "ProphetBipartite.theorem_3_1", "child": "ProphetBipartite_Mmat", "via": ["solution"]}
+{"parent": "ProphetBipartite.theorem_3_1", "child": "ProphetBipartite.eq_17_solution_exists", "via": ["solution"]}
+{"parent": "ProphetBipartite.theorem_3_1", "child": "ProphetBipartite.eq_14_ge_third_opt", "via": ["solution"]}
+{"parent": "ProphetBipartite.theorem_3_1", "child": "ProphetBipartite.eq_12_opt", "via": ["solution"]}
+{"parent": "ProphetBipartite.theorem_3_1", "child": "ProphetBipartite.fact_3_2", "via": ["solution"]}
+{"parent": "ProphetBipartite.theorem_3_1", "child": "ProphetBipartite.eq_11_lower_bound", "via": ["solution"]}
+{"parent": "ProphetBipartite.theorem_3_1", "child": "ProphetBipartite_IsSolution17", "via": ["solution"]}
+{"parent": "ProphetBipartite.theorem_3_1", "child": "ProphetBipartite_IsOptSelector", "via": ["solution"]}
+{"parent": "AndOrSched.theorem_1", "child": "AndOrSched.section_2_normalization", "via": ["solution"]}
+{"parent": "AndOrSched.theorem_1", "child": "AndOrSched.lemma_3", "via": ["solution"]}
+{"parent": "AndOrSched.theorem_1", "child": "AndOrSched.lemma_2", "via": ["solution"]}
+{"parent": "AndOrSched.theorem_1", "child": "AndOrSched.section_2_lp5_relaxation", "via": ["solution"]}
+{"parent": "AndOrSched.theorem_1", "child": "AndOrSched.section_2_lp1_relaxation", "via": ["solution"]}
+{"parent": "AndOrSched.theorem_1", "child": "AndOrSched.lemma_1", "via": ["solution"]}
+{"parent": "AndOrSched.theorem_1", "child": "AndOrSched.section_2_derandomize_alg2", "via": ["solution"]}
+{"parent": "RelaxRoundPoA.theorem_3", "child": "RelaxRoundPoA.lemma_1", "via": ["solution"]}
+{"parent": "RelaxRoundPoA.theorem_3", "child": "RelaxRoundPoA.isSmooth_of_half", "via": ["solution"]}
+{"parent": "RelaxRoundPoA.theorem_3", "child": "RelaxRoundPoA.theorem_3_prime", "via": ["solution"]}
+{"parent": "DerandLDT.theorem_1_2", "child": "DerandLDT.lemma_3_18", "via": ["solution"]}
+{"parent": "DerandLDT.theorem_1_2", "child": "DerandLDT.lemma_3_2_ii", "via": ["solution"]}
+{"parent": "QuantumLTF.Membership.Supplement.theorem_5_3", "child": "QuantumLTF.Membership.Supplement.hermite_band_bounds_53", "via": ["solution"]}
+{"parent": "QuantumLTF.Membership.Supplement.theorem_5_3", "child": "QuantumLTF_Membership_splitReg", "via": ["solution"]}
+{"parent": "QuantumLTF.Membership.Supplement.theorem_5_3", "child": "QAlgorithms_Defs_Gates", "via": ["solution"]}
+{"parent": "QuantumLTF.Membership.Supplement.theorem_5_3", "child": "QuantumLTF_Membership_Supplement_goodBasis53", "via": ["solution"]}
+{"parent": "QuantumLTF.Membership.Supplement.theorem_5_3", "child": "QuantumLTF.Membership.Supplement.band_circuits_53", "via": ["solution"]}
+{"parent": "QuantumLTF.Membership.Supplement.theorem_5_3", "child": "QAlgorithms_Defs_Basic", "via": ["solution"]}
+{"parent": "QuantumLTF.Membership.Supplement.theorem_5_3", "child": "QuantumLTF_Membership_flatReg", "via": ["solution"]}
+{"parent": "QuantumLTF.Membership.Supplement.theorem_5_3", "child": "QuantumLTF_Membership_Supplement_band1D53", "via": ["solution"]}
+{"parent": "WeightedEdgeColor.lemma_profile_selection", "child": "WeightedEdgeColor.lemma_profile_choice_pos", "via": ["solution"]}
+{"parent": "Kyprianou.Ch03.strongMarkovDeterministicRestrictedFDDV1", "child": "Kyprianou.Ch03.strongMarkovGridPositionLawV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch03.strongMarkovDeterministicRestrictedFDDV1", "child": "AvramDividend.Classical.finite_time_set_has_monotone_zero_started_grid", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk7", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk7", "child": "RHX.pieceJ_of", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk7", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk7", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk7", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk7", "child": "RHX.pieceOK_of", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk7", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk7", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk7", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk7", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk7", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "Kyprianou.Ch03.levyNoFixedTimeJumpV1", "child": "Kyprianou.Ch03.levyFixedTimeIncrementLimitLawV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch03.timeReversalFiniteCylinderPreimagesV1", "child": "Kyprianou.Ch03.rawReversalFiniteCylinderV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch03.timeReversalFiniteCylinderPreimagesV1", "child": "Kyprianou.Ch03.levyNoFixedTimeJumpV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch03.timeReversalPathAEMeasurableV1", "child": "Kyprianou.Ch03.measurableLeftEvaluationOnCadlagV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch03.timeReversalPathAEMeasurableV1", "child": "Kyprianou.Ch02.aemeasurableWholePathOfIsLevyProcessV1", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk3", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk3", "child": "RHX.pieceJ_of", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk3", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk3", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk3", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk3", "child": "RHX.pieceOK_of", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk3", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk3", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk3", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk3", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk3", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "Kyprianou.Ch03.strongMarkovDyadicFiniteFibresV1", "child": "Kyprianou.Ch03.strongMarkovDyadicSublevelV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch03.strongMarkovDyadicFiniteFibresV1", "child": "Kyprianou.Ch03.strongMarkovGridCellsMeasV1", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk9", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk9", "child": "RHX.pieceJ_of", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk9", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk9", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk9", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk9", "child": "RHX.pieceOK_of", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk9", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk9", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk9", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk9", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk9", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk6", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk6", "child": "RHX.pieceJ_of", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk6", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk6", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk6", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk6", "child": "RHX.pieceOK_of", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk6", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk6", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk6", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk6", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk6", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX1000000.Run.E00.run", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX1000000.Run.E00.blk2", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX1000000.Run.E72.blk5", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX.pieceJ_of", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX1000000.Run.E72.blk9", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX.edgeRest_of", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX.cellOK_of", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX1000000.Run.E00.blk0", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX1000000.Run.E72.blk3", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX1000000.Run.E00.blk4", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX1000000.Run.E00.blk5", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX1000000.Run.E00.blk7", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX1000000.Run.E72.run", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX.slabOK_of", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX1000000.Run.E72.blk4", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX1000000.Run.E72.blk0", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX1000000.Run.E72.blk7", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX1000000.Run.E72.blk6", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX1000000.Run.E72.blk2", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX1000000.Run.E00.blk1", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX1000000.Run.E72.blk8", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX1000000.Run.E00.blk8", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX1000000.Run.E00.blk3", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX1000000.Run.E00.blk9", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX1000000.Run.E00.blk6", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX.pieceOK_of", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.rest", "child": "RHX1000000.Run.E72.blk1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_filtered_fresh_reward", "child": "AvramDividend.Classical.levyPath_bddAbove_Icc", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_filtered_fresh_reward", "child": "Kyprianou.Ch08.StageB.p2m810_origin_drawdown_clock", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_filtered_fresh_reward", "child": "Kyprianou.Ch08.StageB.source_result81_positive_open_clock_eq_all_times", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_filtered_restart_split", "child": "Kyprianou.Ch08.StageB.p2m810_initial_controlled_ruin_clock", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_filtered_restart_split", "child": "stageB_tauPlus_coe_eq", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_filtered_restart_split", "child": "AvramDividend.Classical.barrierStrategy_upExit_before_controlledRuin_iff_rawExit", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_filtered_restart_split", "child": "AvramDividend.Classical.nextRecord_upclock_eq_add_shifted_inf", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_filtered_restart_split", "child": "Kyprianou.Ch08.StageB.p2m810_shifted_controlled_bad_clock", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_filtered_restart_split", "child": "AvramDividend.Classical.firstUpcrossing_value_eq_threshold", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_filtered_restart_split", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_filtered_restart_split", "child": "AvramDividend.Classical.barrierStrategy_ruinTime_post_firstUpcrossing_add_shifted_badClock", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_filtered_restart_split", "child": "AvramDividend.Classical.twoSidedExitUpTime_mono_threshold", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_filtered_restart_split", "child": "Kyprianou.Ch08.StageB.p2m810_shifted_killed_discount", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_69", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_69", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_69", "child": "RHX.pieceJ_of", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_69", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_69", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_69", "child": "RHX1000000.Run.E69.blk8", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_69", "child": "RHX1000000.Run.E69.blk5", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_69", "child": "RHX1000000.Run.E69.blk1", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_69", "child": "RHX1000000.Run.E69.blk7", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_69", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_69", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_69", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_69", "child": "RHX1000000.Run.E69.blk0", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_69", "child": "RHX1000000.Run.E69.blk9", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_69", "child": "RHX1000000.Run.E69.blk4", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_69", "child": "RHX1000000.Run.E69.blk2", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_69", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_69", "child": "RHX.pieceOK_of", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_69", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_69", "child": "RHX1000000.Run.E69.blk6", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_69", "child": "RHX1000000.Run.E69.blk3", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_69", "child": "RHX1000000.Run.E69.run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk4", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk4", "child": "RHX.pieceJ_of", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk4", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk4", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk4", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk4", "child": "RHX.pieceOK_of", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk4", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk4", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk4", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk4", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk4", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "Kyprianou.Ch03.rawReversalFiniteCylinderV1", "child": "Kyprianou.Ch03.levyReflectedIncrementVectorLawV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch03.rawReversalFiniteCylinderV1", "child": "Kyprianou.Ch02.levyCoordinateAEMeasurableV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch03.rawReversalFiniteCylinderV1", "child": "Kyprianou.Ch03.finiteCylinderOfOrderedGridLawsV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch03.rawReversalFiniteCylinderV1", "child": "Kyprianou.Ch03.finiteZeroBasedVectorLawOfReverseDifferencesV1", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E71.run", "child": "RHX1000000.Run.E71.blk4", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E71.run", "child": "RHX1000000.Run.E71.blk2", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E71.run", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E71.run", "child": "RHX.pieceJ_of", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E71.run", "child": "RHX1000000.Run.E71.blk5", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E71.run", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E71.run", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E71.run", "child": "RHX1000000.Run.E71.blk8", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E71.run", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E71.run", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E71.run", "child": "RHX1000000.Run.E71.blk3", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E71.run", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E71.run", "child": "RHX1000000.Run.E71.blk9", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E71.run", "child": "RHX1000000.Run.E71.blk6", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E71.run", "child": "RHX1000000.Run.E71.blk0", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E71.run", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E71.run", "child": "RHX1000000.Run.E71.blk1", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E71.run", "child": "RHX.pieceOK_of", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E71.run", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E71.run", "child": "RHX1000000.Run.E71.blk7", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E71.run", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_72", "child": "RHX1000000.Run.E72.blk6", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_72", "child": "RHX1000000.Run.E72.blk2", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_72", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_72", "child": "RHX1000000.Run.E72.blk5", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_72", "child": "RHX.pieceJ_of", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_72", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_72", "child": "RHX1000000.Run.E72.blk9", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_72", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_72", "child": "RHX1000000.Run.E72.blk3", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_72", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_72", "child": "RHX1000000.Run.E72.blk8", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_72", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_72", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_72", "child": "RHX1000000.Run.E72.run", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_72", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_72", "child": "RHX.pieceOK_of", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_72", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_72", "child": "RHX1000000.Run.E72.blk4", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_72", "child": "RHX1000000.Run.E72.blk0", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_72", "child": "RHX1000000.Run.E72.blk1", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_72", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_72", "child": "RHX1000000.Run.E72.blk7", "via": ["solution"]}
+{"parent": "syracuse_primitive_word_nondivisibility_after_triple_period_sieve", "child": "syracuse_cycle_eq_one_of_eight_million_triple_sieve", "via": ["solution"]}
+{"parent": "syracuse_primitive_word_nondivisibility_after_triple_period_sieve", "child": "syracuse_positive_affine_word_realization", "via": ["solution"]}
+{"parent": "syracuse_primitive_word_nondivisibility_after_triple_period_sieve", "child": "syracuse_primitive_word_residual_eight_million_period_sieve", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk5", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk5", "child": "RHX.pieceJ_of", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk5", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk5", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk5", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk5", "child": "RHX.pieceOK_of", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk5", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk5", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk5", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk5", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk5", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_70", "child": "RHX1000000.Run.E70.blk0", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_70", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_70", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_70", "child": "RHX1000000.Run.E70.blk9", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_70", "child": "RHX.pieceJ_of", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_70", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_70", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_70", "child": "RHX1000000.Run.E70.run", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_70", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_70", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_70", "child": "RHX1000000.Run.E70.blk1", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_70", "child": "RHX1000000.Run.E70.blk3", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_70", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_70", "child": "RHX1000000.Run.E70.blk7", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_70", "child": "RHX1000000.Run.E70.blk8", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_70", "child": "RHX1000000.Run.E70.blk6", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_70", "child": "RHX1000000.Run.E70.blk2", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_70", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_70", "child": "RHX1000000.Run.E70.blk5", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_70", "child": "RHX.pieceOK_of", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_70", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_70", "child": "RHX1000000.Run.E70.blk4", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk8", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk8", "child": "RHX.pieceJ_of", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk8", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk8", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk8", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk8", "child": "RHX.pieceOK_of", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk8", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk8", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk8", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk8", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.blk8", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "BB6Kit.zero_poly", "child": "BB6Kit.gouillon_311", "via": ["solution"]}
+{"parent": "BB6Kit.zero_poly", "child": "BB6Kit.lemma321", "via": ["solution"]}
+{"parent": "BB6Kit.zero_poly", "child": "BB6Kit.lemma317", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_filtered_record_weight", "child": "Kyprianou.Ch08.StageB.source_result81_positive_open_clock_eq_all_times", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_filtered_record_weight", "child": "Kyprianou.Ch08.StageB.p2m810_initial_shifted_clock_pair", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_71", "child": "RHX1000000.Run.E71.blk2", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_71", "child": "RHX1000000.Run.E71.blk4", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_71", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_71", "child": "RHX.pieceJ_of", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_71", "child": "RHX1000000.Run.E71.blk5", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_71", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_71", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_71", "child": "RHX1000000.Run.E71.blk8", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_71", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_71", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_71", "child": "RHX1000000.Run.E71.blk3", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_71", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_71", "child": "RHX1000000.Run.E71.run", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_71", "child": "RHX1000000.Run.E71.blk9", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_71", "child": "RHX1000000.Run.E71.blk6", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_71", "child": "RHX1000000.Run.E71.blk0", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_71", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_71", "child": "RHX1000000.Run.E71.blk1", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_71", "child": "RHX.pieceOK_of", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_71", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_71", "child": "RHX1000000.Run.E71.blk7", "via": ["solution"]}
+{"parent": "RHX1000000.Edge.piece_71", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.run", "child": "RHX1000000.Run.E72.blk6", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.run", "child": "RHX1000000.Run.E72.blk2", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.run", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.run", "child": "RHX1000000.Run.E72.blk5", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.run", "child": "RHX.pieceJ_of", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.run", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.run", "child": "RHX1000000.Run.E72.blk9", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.run", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.run", "child": "RHX1000000.Run.E72.blk3", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.run", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.run", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.run", "child": "RHX1000000.Run.E72.blk8", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.run", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.run", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.run", "child": "RHX.pieceOK_of", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.run", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.run", "child": "RHX1000000.Run.E72.blk4", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.run", "child": "RHX1000000.Run.E72.blk0", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.run", "child": "RHX1000000.Run.E72.blk1", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.run", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.E72.run", "child": "RHX1000000.Run.E72.blk7", "via": ["solution"]}
+{"parent": "Kyprianou.Ch03.finiteCylinderOfOrderedGridLawsV1", "child": "Kyprianou.Ch03.finiteOrderedGridCoversV1", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk4", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk4", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk4", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk4", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk4", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk4", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk4", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk4", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk4", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "syracuse_no_cycle_below_two_pow_twenty_three", "child": "syracuse_periodic_reaches_one", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk6", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk6", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk6", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk6", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk6", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk6", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk6", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk6", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk6", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Slab.cell_00", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Slab.cell_00", "child": "RHX1000000.Run.C00.blk3", "via": ["solution"]}
+{"parent": "RHX1000000.Slab.cell_00", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Slab.cell_00", "child": "RHX1000000.Run.C00.blk8", "via": ["solution"]}
+{"parent": "RHX1000000.Slab.cell_00", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Slab.cell_00", "child": "RHX1000000.Run.C00.blk1", "via": ["solution"]}
+{"parent": "RHX1000000.Slab.cell_00", "child": "RHX1000000.Run.C00.run", "via": ["solution"]}
+{"parent": "RHX1000000.Slab.cell_00", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Slab.cell_00", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Slab.cell_00", "child": "RHX1000000.Run.C00.blk7", "via": ["solution"]}
+{"parent": "RHX1000000.Slab.cell_00", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Slab.cell_00", "child": "RHX1000000.Run.C00.blk6", "via": ["solution"]}
+{"parent": "RHX1000000.Slab.cell_00", "child": "RHX1000000.Run.C00.blk5", "via": ["solution"]}
+{"parent": "RHX1000000.Slab.cell_00", "child": "RHX1000000.Run.C00.blk9", "via": ["solution"]}
+{"parent": "RHX1000000.Slab.cell_00", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Slab.cell_00", "child": "RHX1000000.Run.C00.blk4", "via": ["solution"]}
+{"parent": "RHX1000000.Slab.cell_00", "child": "RHX1000000.Run.C00.blk2", "via": ["solution"]}
+{"parent": "RHX1000000.Slab.cell_00", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Slab.cell_00", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Slab.cell_00", "child": "RHX1000000.Run.C00.blk0", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m89_unrestricted_occupation_set_identity_v2", "child": "Kyprianou.Ch08.StageB.p2m89_killing_barrier_exhaustion", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m89_unrestricted_occupation_set_identity_v2", "child": "Kyprianou.Ch08.StageB.p2m89_tilted_scale_limit", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m89_unrestricted_occupation_set_identity_v2", "child": "Kyprianou.Ch08.StageB.p2m89_translated_killed_occupation", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m89_unrestricted_occupation_set_identity_v2", "child": "Kyprianou.Ch08.StageB.p2m89_density_exhaustion", "via": ["solution"]}
+{"parent": "syracuse_cycle_eq_one_of_eight_million_triple_sieve", "child": "syracuse_cycle_three_consecutive_entries_budget", "via": ["solution"]}
+{"parent": "syracuse_cycle_eq_one_of_eight_million_triple_sieve", "child": "syracuse_cycle_pow_two_gt_pow_three", "via": ["solution"]}
+{"parent": "syracuse_cycle_eq_one_of_eight_million_triple_sieve", "child": "syracuse_periodic_reaches_one", "via": ["solution"]}
+{"parent": "syracuse_cycle_eq_one_of_eight_million_triple_sieve", "child": "syracuse_no_cycle_below_two_pow_twenty_three", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk6", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk6", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk6", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk6", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk6", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk6", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk6", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk6", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk6", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk9", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk9", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk9", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk9", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk9", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk9", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk9", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk9", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk9", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk5", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk5", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk5", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk5", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk5", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk5", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk5", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk5", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk5", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk3", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk3", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk3", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk3", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk3", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk3", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk3", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk3", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk3", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk1", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk1", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk1", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk1", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk1", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk1", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk1", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk1", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk1", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_initial_controlled_ruin_clock", "child": "Kyprianou.Ch08.StageB.p2m810_initial_controlled_ruin_event", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.source_result8_9_v3", "child": "Kyprianou.Ch08.StageB.p2m89_unrestricted_occupation_set_identity_v2", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.source_result8_9_v3", "child": "Kyprianou.Ch08.StageB.p2m89_phi_differentiable", "via": ["solution"]}
+{"parent": "Kyprianou.Ch03.strongMarkovOrderedIncrementLawV1", "child": "Kyprianou.Ch03.strongMarkovShiftedPrefixRectanglesV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch03.strongMarkovOrderedIncrementLawV1", "child": "Kyprianou.Ch03.strongMarkovFiniteVectorLawOfPrefixRectanglesV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_initial_controlled_ruin_event", "child": "AvramDividend.Classical.riskProcess_barrier_piecewise", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_initial_controlled_ruin_event", "child": "stageB_reflect_eq", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m89_density_exhaustion", "child": "Kyprianou.Ch08.StageB.p2m89_density_measurable_mono", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m89_density_exhaustion", "child": "Kyprianou.Ch08.StageB.p2m89_density_pointwise_limit", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk7", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk7", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk7", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk7", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk7", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk7", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk7", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk7", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk7", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk5", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk5", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk5", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk5", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk5", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk5", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk5", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk5", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk5", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk2", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk2", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk2", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk2", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk2", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk2", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk2", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk2", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk2", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "Kyprianou.Ch03.strongMarkovFiniteVectorLawOfPrefixRectanglesV1", "child": "AvramDividend.Classical.piPathMeasure_eq_of_finite_cylinder_masses", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk4", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk4", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk4", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk4", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk4", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk4", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk4", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk4", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk4", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk0", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk0", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk0", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk0", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk0", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk0", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk0", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk0", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk0", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m89_phi_derivative_exact", "child": "Kyprianou.Ch08.StageB.source_result81_law_laplace_convex", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m89_phi_derivative_exact", "child": "Kyprianou.Ch08.StageB.p2m89_psi_differentiable_pos", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m89_phi_derivative_exact", "child": "Kyprianou.Ch08.StageB.p2m89_phi_continuous_pos", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_shifted_controlled_bad_clock", "child": "AvramDividend.Classical.levyPath_bddAbove_Icc", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_shifted_controlled_bad_clock", "child": "AvramDividend.Classical.shiftedSup_increment_eq_sup_sub", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_origin_drawdown_clock", "child": "AvramDividend.Classical.levyPath_bddAbove_Icc", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_origin_drawdown_clock", "child": "Kyprianou.Ch08.StageB.p2m810_origin_drawdown_event", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk7", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk7", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk7", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk7", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk7", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk7", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk7", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk7", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk7", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk1", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk1", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk1", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk1", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk1", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk1", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk1", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk1", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk1", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk1", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk1", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk1", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk1", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk1", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk1", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk1", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk1", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk1", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "Kyprianou.Ch03.strongMarkovShiftedPrefixRectanglesV1", "child": "Kyprianou.Ch03.strongMarkovOrderedPrefixFactorV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch03.levyFixedTimeIncrementLimitLawV1", "child": "Kyprianou.Ch02.identDistribPairOfAELimitsV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch03.levyFixedTimeIncrementLimitLawV1", "child": "Kyprianou.Ch03.levyShrinkingIncrementPairLawV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_origin_drawdown_event", "child": "AvramDividend.Classical.levyPath_bddAbove_Icc", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk5", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk5", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk5", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk5", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk5", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk5", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk5", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk5", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk5", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "HodgeComputer.SymmetricSexticResidual.Proof.cover_deg_bounds", "child": "HodgeComputerFormal_LaurentJets", "via": ["solution"]}
+{"parent": "HodgeComputer.SymmetricSexticResidual.Proof.cover_deg_bounds", "child": "HodgeComputerSSR_K5Field", "via": ["solution"]}
+{"parent": "Kyprianou.Ch03.levyReflectedIncrementVectorLawV1", "child": "Kyprianou.Ch02.levyCoordinateAEMeasurableV1", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.run", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.run", "child": "RHX1000000.Run.C00.blk3", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.run", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.run", "child": "RHX1000000.Run.C00.blk8", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.run", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.run", "child": "RHX1000000.Run.C00.blk1", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.run", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.run", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.run", "child": "RHX1000000.Run.C00.blk7", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.run", "child": "RHX1000000.Run.C00.blk5", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.run", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.run", "child": "RHX1000000.Run.C00.blk6", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.run", "child": "RHX1000000.Run.C00.blk9", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.run", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.run", "child": "RHX1000000.Run.C00.blk4", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.run", "child": "RHX1000000.Run.C00.blk2", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.run", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.run", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.run", "child": "RHX1000000.Run.C00.blk0", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk0", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk0", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk0", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk0", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk0", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk0", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk0", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk0", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk0", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk2", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk2", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk2", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk2", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk2", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk2", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk2", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk2", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk2", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk4", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk4", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk4", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk4", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk4", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk4", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk4", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk4", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C01.blk4", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk3", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk3", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk3", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk3", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk3", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk3", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk3", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk3", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk3", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk8", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk8", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk8", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk8", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk8", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk8", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk8", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk8", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C00.blk8", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk2", "child": "RHX.stoBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk2", "child": "RHX.runO_succ", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk2", "child": "RHX.runO_add", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk2", "child": "RHX.accBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk2", "child": "RHX.runO_chain", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk2", "child": "RHX.boxOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk2", "child": "RHX.accsBeq_eq", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk2", "child": "RHX.pieceOK_of_run", "via": ["solution"]}
+{"parent": "RHX1000000.Run.C02.blk2", "child": "RHX.cellOK_of_run", "via": ["solution"]}
+{"parent": "Kyprianou.Ch03.strongMarkovGridPositionLawV1", "child": "Kyprianou.Ch03.strongMarkovOrderedIncrementLawV1", "via": ["solution"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m810_initial_shifted_clock_pair", "child": "Kyprianou.Ch08.StageB.source_result81_positive_open_clock_eq_all_times", "via": ["solution"]}

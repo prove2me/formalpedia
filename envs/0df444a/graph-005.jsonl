@@ -52360,7 +52360,7 @@
 {"parent": "ThreeSum1960614.Machine.ThreeSum.LightOutputDecodeStep.meets", "child": "ThreeSum1962Source_Bundle05", "via": ["solution", "statement"]}
 {"parent": "ThreeSum1960614.Machine.ThreeSum.LightOutputDecodeStep.meets", "child": "ThreeSum1962Source_Bundle11", "via": ["solution", "statement"]}
 {"parent": "LSWCuttingPlane.ChasingZero.union_bound_sum", "child": "LSWCuttingPlane_ChasingZero_Setting", "via": ["solution", "statement"]}
-{"parent": "DQI.Semicircle.theorem_4_1", "child": "DQI_Semicircle_Setting", "via": ["statement"]}
+{"parent": "DQI.Semicircle.theorem_4_1", "child": "DQI_Semicircle_Setting", "via": ["solution", "statement"]}
 {"parent": "OAI.Paper320.recursive_sensitivity_one_at", "child": "OAI_Combinatorics_Sensitivity_HammingBase", "via": ["solution", "statement"]}
 {"parent": "OAI.Paper320.recursive_sensitivity_one_at", "child": "OAI_Combinatorics_Sensitivity_Tournament", "via": ["solution", "statement"]}
 {"parent": "OAI.Paper320.recursive_sensitivity_one_at", "child": "OAI_Combinatorics_Sensitivity_RecursiveDefinitions", "via": ["solution", "statement"]}

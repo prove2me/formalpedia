@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_levyNoFixedTimeJumpV1
 -- name    : Kyprianou.Ch03.levyNoFixedTimeJumpV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T08:06:56.655868+00:00
 -- url     : https://prove2.me/theorems/11df6340-566e-48b2-ba84-cb77468f8366

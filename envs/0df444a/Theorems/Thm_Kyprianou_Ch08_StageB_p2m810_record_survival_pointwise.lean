@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_record_survival_pointwise
 -- name    : Kyprianou.Ch08.StageB.p2m810_record_survival_pointwise
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T00:21:32.769056+00:00
 -- url     : https://prove2.me/theorems/609ac777-c81a-46c6-997e-4d2cd1211c4e

@@ -75566,7 +75566,7 @@
 {"parent": "OAI.ExactQuantumFactoring.PhysicalTree.accepted_iff_passed", "child": "OAIQ222A004", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.Triorthogonal.BinaryRowFamily.bitstringWordEquiv_reducedLogicalBits", "child": "QEC_Distillation_Triorthogonal_Transversal", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.Triorthogonal.BinaryRowFamily.bitstringWordEquiv_reducedLogicalBits", "child": "QEC_Distillation_Triorthogonal_CSS", "via": ["solution", "statement"]}
-{"parent": "BalancedFairAlloc.Existence.theorem_1", "child": "BalancedFairAlloc_Existence_Model", "via": ["statement"]}
+{"parent": "BalancedFairAlloc.Existence.theorem_1", "child": "BalancedFairAlloc_Existence_Model", "via": ["solution", "statement"]}
 {"parent": "ZeroFreeRRG_Hardcore_ConfigModel", "child": "ZeroFreeRRG_Hardcore_Kernels", "via": ["statement"]}
 {"parent": "ZeroFreeRRG_Hardcore_ConfigModel", "child": "AFIsingKS_Matching", "via": ["statement"]}
 {"parent": "QEC.Coding.BDL26NativeStateRows.indices_nodup", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_PaidRowsComposition", "via": ["solution", "statement"]}

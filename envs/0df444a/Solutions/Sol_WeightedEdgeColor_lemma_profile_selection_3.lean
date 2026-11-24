@@ -1,8 +1,8 @@
--- Prove2me | solution 2 for WeightedEdgeColor.lemma_profile_selection
+-- Prove2me | solution 3 for WeightedEdgeColor.lemma_profile_selection
 -- status  : SKETCH_ACCEPTED   (prove)
 -- author  : @Shuze Chen
--- created : 2026-11-24T07:59:56.956807+00:00
--- url     : https://prove2.me/submissions/8e8a5633-a794-4c3a-b675-2f90740affc9
+-- created : 2026-11-24T08:13:34.362884+00:00
+-- url     : https://prove2.me/submissions/527d12c1-e4b7-4d1e-baae-fa7b5d61965f
 -- note    : a sketch -- it imports a theorem that is still Open,
 --           so it depends on `sorryAx` until that child is proved.
 
@@ -11,7 +11,7 @@ import Definitions.Def_WeightedEdgeColor_WGraph
 import Definitions.Def_WeightedEdgeColor_WGraph_IsFeasiblePartialColoring
 import Definitions.Def_WeightedEdgeColor_IsAvgOfFeasibleSets
 import Theorems.Thm_WeightedEdgeColor_lemma_C_1
-import Theorems.Thm_WeightedEdgeColor_lemma_profile_choice_typed
+import Theorems.Thm_WeightedEdgeColor_lemma_profile_choice_pos
 
 set_option autoImplicit false
 set_option maxHeartbeats 0
@@ -70,8 +70,8 @@ theorem solution (C₀ C₁ ε : ℝ) (hC₀ : 0 < C₀) (hC₁ : 0 < C₁) (hε
   have hCm0 : 0 < Cm := by rw [hCm]; positivity
   refine ⟨t / 2, r₀, β, Cm, ⌊1 / β⌋₊, by positivity, by linarith, hr₀0, by rw [hr₀]; linarith,
     hβ0, hβr, by rw [hβ]; linarith, hCm0, ?_⟩
-  obtain ⟨n₀, K, hPC⟩ := lemma_profile_choice_typed C₀ C₁ t t r₀ β M ⌊1 / β⌋₊ r hC₀ hC₁ ht0 ht0
-    (by linarith) hr₀0
+  obtain ⟨n₀, K, hPC⟩ := lemma_profile_choice_pos C₀ C₁ t t r₀ β M ⌊1 / β⌋₊ r hC₀ hC₁ ht0 ht0
+    (by linarith) hr₀0 hβ0
   refine ⟨max n₀ 1, K, ?_⟩
   intro V E _ _ _ _ G hG g hg src tgt hst n hn hW 𝒞 _ _ hcard x hx hxs hxK
   have hn1 : 1 ≤ n := le_trans (le_max_right _ _) hn

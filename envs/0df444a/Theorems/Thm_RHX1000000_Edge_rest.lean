@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RHX1000000_Edge_rest
 -- name    : RHX1000000.Edge.rest
--- status  : Open
+-- status  : Proved
 -- author  : @@bwdaugherty
 -- created : 2026-11-24T08:09:04.493487+00:00
 -- url     : https://prove2.me/theorems/099a7e15-9686-4786-b805-b1892ee5cfa3

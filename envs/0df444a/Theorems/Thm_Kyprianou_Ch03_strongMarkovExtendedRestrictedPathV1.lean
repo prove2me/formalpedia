@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_strongMarkovExtendedRestrictedPathV1
 -- name    : Kyprianou.Ch03.strongMarkovExtendedRestrictedPathV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T07:09:26.957788+00:00
 -- url     : https://prove2.me/theorems/f441c06a-283e-4064-b4f5-099f01124b30
