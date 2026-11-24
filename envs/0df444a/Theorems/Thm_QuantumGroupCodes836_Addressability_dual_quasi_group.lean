@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumGroupCodes836_Addressability_dual_quasi_group
 -- name    : QuantumGroupCodes836.Addressability.dual_quasi_group
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T17:07:43.080278+00:00
 -- url     : https://prove2.me/theorems/7cc3ccd2-2402-4690-8bad-009af7e490b7

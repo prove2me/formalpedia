@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinrankGrowthBounds_le_of_frequently
 -- name    : GlobalTheory.FinrankGrowthBounds.le_of_frequently
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:29:48.612269+00:00
 -- url     : https://prove2.me/theorems/3b2ee940-2ca1-432e-9641-598ca57437e5

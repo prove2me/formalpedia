@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x5_base_vector_first_one
 -- name    : Formalism.FourierDecayAlt.P.B2x5.base_vector_first_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:00:14.600157+00:00
 -- url     : https://prove2.me/theorems/c0d3e69a-4dd0-40a2-b876-741041f6246e

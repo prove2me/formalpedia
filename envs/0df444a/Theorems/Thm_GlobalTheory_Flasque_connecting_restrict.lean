@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Flasque_connecting_restrict
 -- name    : GlobalTheory.Flasque.connecting_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:31:41.170565+00:00
 -- url     : https://prove2.me/theorems/2eb4dd7c-3869-4db3-aead-ef28905b8d22

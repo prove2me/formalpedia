@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinWeil_isHeis_comp_rep
 -- name    : GlobalTheory.FinWeil.isHeis_comp_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:30:48.933123+00:00
 -- url     : https://prove2.me/theorems/8d5a45bb-ca94-4eb5-91d3-d5d03699bb56

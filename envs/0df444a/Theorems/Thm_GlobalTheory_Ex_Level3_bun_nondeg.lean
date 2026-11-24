@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_Level3_bun_nondeg
 -- name    : GlobalTheory.Ex.Level3.bun_nondeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:06:18.676416+00:00
 -- url     : https://prove2.me/theorems/1f8cfef2-1734-4289-b950-69cdcf2d516c

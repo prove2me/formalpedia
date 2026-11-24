@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinsetKernelTrivial_exists_finset_ker_eq_bot
 -- name    : GlobalTheory.FinsetKernelTrivial.exists_finset_ker_eq_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:31:16.480136+00:00
 -- url     : https://prove2.me/theorems/36dd9ae3-4c05-4144-83c9-1407f779f69d

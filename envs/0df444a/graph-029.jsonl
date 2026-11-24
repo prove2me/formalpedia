@@ -76791,7 +76791,7 @@
 {"parent": "OAI.UniversalTensorSquare.sg27053", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeTree62_505All", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.degreeTree62_505All", "child": "OAIQ259US012", "via": ["solution", "statement"]}
-{"parent": "QuantumGroupCodes836.Addressability.dual_quasi_group", "child": "QuantumGroupCodes836_Addressability_Linear", "via": ["statement"]}
+{"parent": "QuantumGroupCodes836.Addressability.dual_quasi_group", "child": "QuantumGroupCodes836_Addressability_Linear", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg2360", "child": "OAIQ259US007", "via": ["statement"]}
 {"parent": "OAI.MatrixAllFields.MatrixMultiplication.NativeNumerics.CA1_4_11I2R8H_sound", "child": "OAIQ254M007", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bva19_original_inclusive_compensator_grid_converges", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}

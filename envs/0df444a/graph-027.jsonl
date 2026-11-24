@@ -84548,7 +84548,7 @@
 {"parent": "QEC.Coding.BDL26OwnerIncidenceMasks.witnessTopOutput_boundary_zero", "child": "QEC_Coding_FiniteAlternatingConstruction_OwnerIncidenceMasks_History", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26OwnerIncidenceMasks.witnessTopOutput_boundary_zero", "child": "QEC_Coding_FiniteAlternatingConstruction_OwnerParentObstruction", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26OwnerIncidenceMasks.witnessTopOutput_boundary_zero", "child": "QEC_Coding_FiniteAlternatingConstruction_TopOwnerIsolation", "via": ["solution", "statement"]}
-{"parent": "TightPQRepetition.Main.lemma_5_5", "child": "TightPQRepetition_Main_Reduction", "via": ["statement"]}
+{"parent": "TightPQRepetition.Main.lemma_5_5", "child": "TightPQRepetition_Main_Reduction", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelSourcePullback_rational_eq", "child": "OAI_NumberTheory_DirichletL_Eisenstein_SourceQuotient", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelSourcePullback_rational_eq", "child": "OAI_NumberTheory_DirichletL_Eisenstein_SourceProjection", "via": ["solution", "statement"]}
 {"parent": "OAI.WeakMTWTransport.WeakMTW.family_comparison_local_data", "child": "OAIQ232A013", "via": ["statement"]}

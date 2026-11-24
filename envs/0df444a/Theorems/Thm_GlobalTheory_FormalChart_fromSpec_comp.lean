@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalChart_fromSpec_comp
 -- name    : GlobalTheory.FormalChart.fromSpec_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:34:07.263851+00:00
 -- url     : https://prove2.me/theorems/28865e79-aea3-4309-b77f-c181dd7dcfc1

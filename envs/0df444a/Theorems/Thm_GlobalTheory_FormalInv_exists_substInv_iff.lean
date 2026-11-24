@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalInv_exists_substInv_iff
 -- name    : GlobalTheory.FormalInv.exists_substInv_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:34:26.977933+00:00
 -- url     : https://prove2.me/theorems/5f264c04-294b-4647-8cdf-7bee939f8f96

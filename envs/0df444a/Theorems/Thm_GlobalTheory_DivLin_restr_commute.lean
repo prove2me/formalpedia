@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DivLin_restr_commute
 -- name    : GlobalTheory.DivLin.restr_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:50:10.369784+00:00
 -- url     : https://prove2.me/theorems/87733657-0137-432f-a05c-f3e83bf547e6

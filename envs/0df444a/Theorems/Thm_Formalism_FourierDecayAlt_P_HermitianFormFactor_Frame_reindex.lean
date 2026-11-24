@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormFactor_Frame_reindex
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormFactor.Frame.reindex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:58:28.679005+00:00
 -- url     : https://prove2.me/theorems/531e3b49-dc7a-4900-b860-26e68014da83

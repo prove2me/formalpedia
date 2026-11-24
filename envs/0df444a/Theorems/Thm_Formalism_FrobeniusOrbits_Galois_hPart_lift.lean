@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Galois_hPart_lift
 -- name    : Formalism.FrobeniusOrbits.Galois.hPart_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:52:51.270404+00:00
 -- url     : https://prove2.me/theorems/28452051-6b7b-4aff-99a1-c0a993f640af

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCalc_existsUnique_primitive_param
 -- name    : GlobalTheory.FormalCalc.existsUnique_primitive_param
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:33:51.897814+00:00
 -- url     : https://prove2.me/theorems/ff7e1030-7979-43b9-90a3-1847fbfa15ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinrankGrowthBounds_finite_index
 -- name    : GlobalTheory.FinrankGrowthBounds.finite_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:29:31.482859+00:00
 -- url     : https://prove2.me/theorems/7bee8003-3d19-4e2c-8e7b-3f03955b1137

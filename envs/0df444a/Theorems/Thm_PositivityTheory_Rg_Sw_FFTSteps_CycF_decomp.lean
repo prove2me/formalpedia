@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_CycF_decomp
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.CycF.decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:41:26.324388+00:00
 -- url     : https://prove2.me/theorems/2209bb29-35de-4303-b2a5-075cd47331c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinWeil_exists_extension_of_dense
 -- name    : GlobalTheory.FinWeil.exists_extension_of_dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:25:19.818417+00:00
 -- url     : https://prove2.me/theorems/3417b80a-daf3-497e-9ebe-1bc9d2c966da

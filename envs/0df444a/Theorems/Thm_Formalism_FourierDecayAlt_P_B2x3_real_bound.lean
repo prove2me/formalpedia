@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x3_real_bound
 -- name    : Formalism.FourierDecayAlt.P.B2x3.real_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:04:10.553239+00:00
 -- url     : https://prove2.me/theorems/1867aacb-3ee0-4234-8b96-5fb68f4af9b2

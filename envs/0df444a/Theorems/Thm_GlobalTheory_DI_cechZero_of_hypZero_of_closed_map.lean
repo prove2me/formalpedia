@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_cechZero_of_hypZero_of_closed_map
 -- name    : GlobalTheory.DI.cechZero_of_hypZero_of_closed_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:35:59.072464+00:00
 -- url     : https://prove2.me/theorems/9dc67370-3ff7-4e9c-9c6a-d81e528b4045

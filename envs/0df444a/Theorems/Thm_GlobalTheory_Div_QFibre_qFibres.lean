@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Div_QFibre_qFibres
 -- name    : GlobalTheory.Div.QFibre.qFibres
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:51:00.135301+00:00
 -- url     : https://prove2.me/theorems/922124db-c51e-4228-b394-556f849d7dc8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_adelicCompletionFractionalIdeal_divisible_eq_zero
 -- name    : GlobalTheory.AdLat.adelicCompletionFractionalIdeal_divisible_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:20:51.003055+00:00
 -- url     : https://prove2.me/theorems/acbbac32-981e-4659-8795-c8d14dfcf09d

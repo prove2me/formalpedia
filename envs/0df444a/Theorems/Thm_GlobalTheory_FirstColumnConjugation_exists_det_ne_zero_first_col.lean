@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FirstColumnConjugation_exists_det_ne_zero_first_col
 -- name    : GlobalTheory.FirstColumnConjugation.exists_det_ne_zero_first_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:31:20.268538+00:00
 -- url     : https://prove2.me/theorems/1bbd50c3-0a97-414c-9eb1-f30faa09b9ed

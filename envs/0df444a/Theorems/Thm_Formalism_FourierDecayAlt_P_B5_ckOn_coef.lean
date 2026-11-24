@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B5_ckOn_coef
 -- name    : Formalism.FourierDecayAlt.P.B5.ckOn_coef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:56:31.952805+00:00
 -- url     : https://prove2.me/theorems/ef419e24-0d22-4357-af06-c83523a16bf5

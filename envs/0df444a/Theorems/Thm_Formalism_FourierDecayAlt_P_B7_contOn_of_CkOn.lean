@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B7_contOn_of_CkOn
 -- name    : Formalism.FourierDecayAlt.P.B7.contOn_of_CkOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:00:43.753849+00:00
 -- url     : https://prove2.me/theorems/2e59be46-2e43-488f-bc53-a8a09d078ca5

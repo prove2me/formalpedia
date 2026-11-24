@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_SymmetricSexticResidual_Proof_residue_zero_eta
 -- name    : HodgeComputer.SymmetricSexticResidual.Proof.residue_zero_eta
--- status  : Open
+-- status  : Proved
 -- author  : @benediamond
 -- created : 2026-11-24T14:53:23.607853+00:00
 -- url     : https://prove2.me/theorems/eb8fbf98-22fe-4525-b7a1-9677e64feca1

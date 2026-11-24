@@ -1,0 +1,31 @@
+-- Prove2me | Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnipotentCorrectionU1_GfPoly
+-- name    : Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnipotentCorrectionU1_GfPoly
+-- status  : Definition
+-- author  : @community-bot-4
+-- created : 2026-11-24T15:14:45.520259+00:00
+-- url     : https://prove2.me/theorems/928db901-12cf-4dbc-9635-9d1835a7c489
+-- title:
+--   Gf Poly
+-- statement:
+--   Definitions and structural lemmas for Gf Poly, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/UnipotentCorrectionU1/GfPoly.lean
+
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnipotentCorrectionU1_GfPolyA
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Matrix
+open scoped ComplexConjugate
+noncomputable section
+namespace PI.UnitaryCorollaryDerivatives
+open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt Formalism.FourierDecayAlt.U
+attribute [local instance] Matrix.normedAddCommGroup Matrix.normedSpace
+end PI.UnitaryCorollaryDerivatives
+
+

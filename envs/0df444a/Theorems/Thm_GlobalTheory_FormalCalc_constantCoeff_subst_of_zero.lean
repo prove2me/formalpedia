@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCalc_constantCoeff_subst_of_zero
 -- name    : GlobalTheory.FormalCalc.constantCoeff_subst_of_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:33:55.329515+00:00
 -- url     : https://prove2.me/theorems/188c4daa-2622-46d1-817d-bbae00ad57e1

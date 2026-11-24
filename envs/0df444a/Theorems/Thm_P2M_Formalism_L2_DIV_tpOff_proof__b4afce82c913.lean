@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_DIV_tpOff_proof__b4afce82c913
 -- name    : P2M_Formalism_L2_DIV_tpOff_proof__b4afce82c913
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:23:38.195887+00:00
 -- url     : https://prove2.me/theorems/f70e8484-3b87-454d-ba49-2278cb62b2ce

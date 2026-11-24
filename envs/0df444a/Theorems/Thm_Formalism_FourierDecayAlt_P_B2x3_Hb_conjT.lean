@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x3_Hb_conjT
 -- name    : Formalism.FourierDecayAlt.P.B2x3.Hb_conjT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:55:14.183105+00:00
 -- url     : https://prove2.me/theorems/6c136d16-52fb-45f4-baa4-446582cf5df6

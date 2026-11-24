@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_QStr_tor_div
 -- name    : GlobalTheory.Ex.QStr.tor_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:05:59.778562+00:00
 -- url     : https://prove2.me/theorems/d8fec1e9-8a2b-4e45-a881-c1cda3e0c216

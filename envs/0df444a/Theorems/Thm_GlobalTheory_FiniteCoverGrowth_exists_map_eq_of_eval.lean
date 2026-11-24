@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteCoverGrowth_exists_map_eq_of_eval
 -- name    : GlobalTheory.FiniteCoverGrowth.exists_map_eq_of_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:29:32.785948+00:00
 -- url     : https://prove2.me/theorems/4c44e24f-bb8a-43a6-83d3-2c3b8eaa3c07

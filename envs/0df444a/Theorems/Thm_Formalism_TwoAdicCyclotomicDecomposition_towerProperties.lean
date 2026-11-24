@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_towerProperties
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.towerProperties
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:32:41.398662+00:00
 -- url     : https://prove2.me/theorems/76ea58c0-c4f4-42ff-8f6b-cebb07c3052d

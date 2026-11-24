@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdelicMatLat_inv_mul_mem
 -- name    : GlobalTheory.AdelicMatLat.inv_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:02:20.028797+00:00
 -- url     : https://prove2.me/theorems/3b59ce22-3daa-4506-bb34-4b98451e2d55

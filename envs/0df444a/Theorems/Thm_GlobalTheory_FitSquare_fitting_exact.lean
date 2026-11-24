@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FitSquare_fitting_exact
 -- name    : GlobalTheory.FitSquare.fitting_exact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:31:02.478533+00:00
 -- url     : https://prove2.me/theorems/85ca3dbb-12c3-4c6d-a002-8ee267d9ea06

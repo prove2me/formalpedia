@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalInv_rename_mem_coeffsIn
 -- name    : GlobalTheory.FormalInv.rename_mem_coeffsIn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:34:40.583743+00:00
 -- url     : https://prove2.me/theorems/c5a790d3-c431-4a3f-8ec7-f8eabbf2b2cb

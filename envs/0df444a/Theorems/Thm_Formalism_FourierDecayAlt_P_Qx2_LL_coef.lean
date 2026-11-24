@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx2_LL_coef
 -- name    : Formalism.FourierDecayAlt.P.Qx2.LL.coef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:09:27.703401+00:00
 -- url     : https://prove2.me/theorems/6d3aa337-780b-4838-9644-389b01b37d27

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinrankGrowthBounds_isField_base
 -- name    : GlobalTheory.FinrankGrowthBounds.isField_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:29:51.061384+00:00
 -- url     : https://prove2.me/theorems/92ebbbe3-7169-44b3-8e2f-1e482ad75881

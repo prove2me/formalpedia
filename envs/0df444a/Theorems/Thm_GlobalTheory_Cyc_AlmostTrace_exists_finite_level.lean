@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_AlmostTrace_exists_finite_level
 -- name    : GlobalTheory.Cyc.AlmostTrace.exists_finite_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:32:35.118748+00:00
 -- url     : https://prove2.me/theorems/aef18d3d-724c-47c4-aa29-e1748d455128

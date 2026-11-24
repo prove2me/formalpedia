@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x5_isUnit_det_GV
 -- name    : Formalism.FourierDecayAlt.P.B2x5.isUnit_det_GV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:55:14.714119+00:00
 -- url     : https://prove2.me/theorems/1a1859a3-ea74-42d3-9ef4-1b3c86a843fe

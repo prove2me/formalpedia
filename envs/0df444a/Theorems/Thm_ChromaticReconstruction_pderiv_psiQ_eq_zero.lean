@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_pderiv_psiQ_eq_zero
 -- name    : ChromaticReconstruction.pderiv_psiQ_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T12:35:04.648197+00:00
 -- url     : https://prove2.me/theorems/b3c82f45-9246-45e6-bc66-b22360a5c86a

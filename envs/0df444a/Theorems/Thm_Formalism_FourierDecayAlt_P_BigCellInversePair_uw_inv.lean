@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BigCellInversePair_uw_inv
 -- name    : Formalism.FourierDecayAlt.P.BigCellInversePair.uw_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:09:20.282627+00:00
 -- url     : https://prove2.me/theorems/31d56777-e6aa-4e99-9d24-4a40634ba358

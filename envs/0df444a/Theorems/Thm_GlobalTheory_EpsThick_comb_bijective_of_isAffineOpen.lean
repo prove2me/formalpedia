@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EpsThick_comb_bijective_of_isAffineOpen
 -- name    : GlobalTheory.EpsThick.comb_bijective_of_isAffineOpen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:22:51.591012+00:00
 -- url     : https://prove2.me/theorems/d56d3bf3-e07e-449f-b1e2-ff6a4d888397

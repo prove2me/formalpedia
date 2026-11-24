@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_markedTripleOrderOne_structureMorphism
 -- name    : FunctorialResolution.EmbeddedResolution.markedTripleOrderOne_structureMorphism
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:46:39.404691+00:00
 -- url     : https://prove2.me/theorems/1e2abee8-4cf8-49ae-9351-144526012b9b

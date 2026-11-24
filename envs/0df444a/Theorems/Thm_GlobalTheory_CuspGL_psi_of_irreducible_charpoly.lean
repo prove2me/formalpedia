@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_psi_of_irreducible_charpoly
 -- name    : GlobalTheory.CuspGL.psi_of_irreducible_charpoly
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:32:55.83402+00:00
 -- url     : https://prove2.me/theorems/5e58f020-e890-4361-8ca6-9507b2d62e92

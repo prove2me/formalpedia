@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualFibreRank_finrank_dual_and_range_dualMap_baseChange
 -- name    : GlobalTheory.DualFibreRank.finrank_dual_and_range_dualMap_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:51:53.732491+00:00
 -- url     : https://prove2.me/theorems/7741b287-28d3-4e55-b865-07cc885b93fa

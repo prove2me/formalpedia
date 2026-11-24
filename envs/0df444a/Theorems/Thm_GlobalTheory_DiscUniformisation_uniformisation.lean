@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscUniformisation_uniformisation
 -- name    : GlobalTheory.DiscUniformisation.uniformisation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:48:55.889123+00:00
 -- url     : https://prove2.me/theorems/b32f35e7-5efa-4926-94b8-a3104645c595

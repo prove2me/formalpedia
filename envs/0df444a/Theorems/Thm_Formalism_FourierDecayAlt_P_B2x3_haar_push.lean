@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x3_haar_push
 -- name    : Formalism.FourierDecayAlt.P.B2x3.haar_push
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:55:08.852792+00:00
 -- url     : https://prove2.me/theorems/e93d828d-260b-481c-888e-96cc169075e1

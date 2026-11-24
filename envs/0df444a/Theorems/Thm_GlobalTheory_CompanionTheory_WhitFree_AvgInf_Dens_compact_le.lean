@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WhitFree_AvgInf_Dens_compact_le
 -- name    : GlobalTheory.CompanionTheory.WhitFree.AvgInf.Dens.compact_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:24:15.856221+00:00
 -- url     : https://prove2.me/theorems/f6b495fa-5734-4da8-82b4-ba7abf727188

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FockHighestWeight_lowerTri_of_interlaced
 -- name    : GlobalTheory.FockHighestWeight.lowerTri_of_interlaced
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:34:42.263195+00:00
 -- url     : https://prove2.me/theorems/331e3ca4-9291-4445-a82c-9ea4ef55dcf7

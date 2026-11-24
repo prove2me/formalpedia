@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_Final_HermBridgeSurj
 -- name    : Formalism.UG.Final.HermBridgeSurj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:13:21.867235+00:00
 -- url     : https://prove2.me/theorems/22ec4731-6806-484d-ab1b-02686c7f0195

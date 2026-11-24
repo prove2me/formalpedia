@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_dual_family
 -- name    : GlobalTheory.exists_dual_family
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:42:09.541696+00:00
 -- url     : https://prove2.me/theorems/ad1c2300-3f62-4aeb-a6be-eb60b7c92970

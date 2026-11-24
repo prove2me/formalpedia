@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x2_map_compl_null
 -- name    : Formalism.FourierDecayAlt.P.B2x2.map_compl_null
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:54:55.853797+00:00
 -- url     : https://prove2.me/theorems/be328634-8b71-4f5a-ab54-59aaac742d3f

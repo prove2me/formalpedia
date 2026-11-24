@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibSurj_fibMap_snd
 -- name    : GlobalTheory.FibSurj.fibMap_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:23:21.622599+00:00
 -- url     : https://prove2.me/theorems/fff26ce0-12d1-4a3b-94c5-6f8b96d6781c

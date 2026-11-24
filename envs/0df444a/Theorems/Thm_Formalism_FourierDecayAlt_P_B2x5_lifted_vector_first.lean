@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x5_lifted_vector_first
 -- name    : Formalism.FourierDecayAlt.P.B2x5.lifted_vector_first
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:54:18.18898+00:00
 -- url     : https://prove2.me/theorems/441eaf31-0067-4dc2-8d6e-f19244b2ceb9

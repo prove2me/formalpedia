@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_isPeriod
 -- name    : GlobalTheory.AnArc.isPeriod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:42:32.59893+00:00
 -- url     : https://prove2.me/theorems/760ca666-a323-46e5-9f02-904d12e251e7

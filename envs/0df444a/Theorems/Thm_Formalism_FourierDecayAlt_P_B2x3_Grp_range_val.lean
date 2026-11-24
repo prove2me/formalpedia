@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x3_Grp_range_val
 -- name    : Formalism.FourierDecayAlt.P.B2x3.Grp.range_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:54:32.413262+00:00
 -- url     : https://prove2.me/theorems/69a11057-6b04-4f2a-b701-0ba3cc3c7ae6

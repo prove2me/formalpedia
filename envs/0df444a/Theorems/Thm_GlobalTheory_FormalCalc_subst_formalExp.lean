@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCalc_subst_formalExp
 -- name    : GlobalTheory.FormalCalc.subst_formalExp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:33:44.950083+00:00
 -- url     : https://prove2.me/theorems/5a07d6fc-9062-4171-a476-8118ff0d275a

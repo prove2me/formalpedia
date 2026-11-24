@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteEndFlat_exists_flat_away
 -- name    : GlobalTheory.FiniteEndFlat.exists_flat_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:30:34.540363+00:00
 -- url     : https://prove2.me/theorems/a846733c-83b0-4778-bc89-b4f5e52ea801

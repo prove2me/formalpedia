@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_Final_ConvCount
 -- name    : Formalism.UG.Final.ConvCount
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:29:05.675292+00:00
 -- url     : https://prove2.me/theorems/121fcec9-b159-47ab-bd24-f0917cac62a5

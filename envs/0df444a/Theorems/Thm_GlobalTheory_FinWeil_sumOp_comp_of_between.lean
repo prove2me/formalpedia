@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinWeil_sumOp_comp_of_between
 -- name    : GlobalTheory.FinWeil.sumOp_comp_of_between
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:29:35.5158+00:00
 -- url     : https://prove2.me/theorems/c31afbb9-6ffb-43ef-89e2-bc032f860a8a

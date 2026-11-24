@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteAbelianWeights_comm_avg
 -- name    : GlobalTheory.FiniteAbelianWeights.comm_avg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:29:44.445793+00:00
 -- url     : https://prove2.me/theorems/4a4c27bf-9675-41e5-9eb3-c143cfdb5eda

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinEt_isIso_iff_isoLocus_eq_univ
 -- name    : GlobalTheory.FinEt.isIso_iff_isoLocus_eq_univ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:24:08.762618+00:00
 -- url     : https://prove2.me/theorems/c15b6271-7b98-49de-8c26-04a7d89b29d6

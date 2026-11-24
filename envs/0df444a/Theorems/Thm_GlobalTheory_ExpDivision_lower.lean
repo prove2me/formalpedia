@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpDivision_lower
 -- name    : GlobalTheory.ExpDivision.lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:07:09.917628+00:00
 -- url     : https://prove2.me/theorems/2362de56-549e-4371-a96e-f7861dee817a

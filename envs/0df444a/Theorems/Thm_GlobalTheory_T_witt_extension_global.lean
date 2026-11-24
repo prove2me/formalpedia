@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_witt_extension_global
 -- name    : GlobalTheory.T.witt_extension_global
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:58:37.949028+00:00
 -- url     : https://prove2.me/theorems/58f1df72-00cb-4044-952d-fe0095ec2a50

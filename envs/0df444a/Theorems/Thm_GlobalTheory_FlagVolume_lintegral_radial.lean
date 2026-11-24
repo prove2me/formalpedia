@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagVolume_lintegral_radial
 -- name    : GlobalTheory.FlagVolume.lintegral_radial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:30:55.063659+00:00
 -- url     : https://prove2.me/theorems/fcac646d-c1ad-4b04-8480-56811ea2b1a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_isE8_W8
 -- name    : GlobalTheory.ZM.isE8_W8
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:45:27.170006+00:00
 -- url     : https://prove2.me/theorems/a3a63b2b-8149-4224-9f71-8ea00e3fd1dd

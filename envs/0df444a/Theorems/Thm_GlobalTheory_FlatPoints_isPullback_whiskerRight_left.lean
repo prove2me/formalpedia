@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatPoints_isPullback_whiskerRight_left
 -- name    : GlobalTheory.FlatPoints.isPullback_whiskerRight_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:33:06.223927+00:00
 -- url     : https://prove2.me/theorems/81da7be6-b32a-4e76-9b79-e430becd292b

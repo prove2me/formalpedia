@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalInv_higherPart_mem_coeffsInDeg
 -- name    : GlobalTheory.FormalInv.higherPart_mem_coeffsInDeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:34:47.121106+00:00
 -- url     : https://prove2.me/theorems/0c3ecdac-f3bf-4b56-93e9-e490dea9a328

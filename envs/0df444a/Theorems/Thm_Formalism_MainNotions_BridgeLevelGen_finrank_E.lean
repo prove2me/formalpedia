@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLevelGen_finrank_E
 -- name    : Formalism.MainNotions.BridgeLevelGen.finrank_E
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:59:09.699208+00:00
 -- url     : https://prove2.me/theorems/ea8b3f00-3128-47bb-97b6-9da0a9bcf445

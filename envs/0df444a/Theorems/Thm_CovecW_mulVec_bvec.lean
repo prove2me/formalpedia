@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CovecW_mulVec_bvec
 -- name    : CovecW.mulVec_bvec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:07:41.814368+00:00
 -- url     : https://prove2.me/theorems/f14ad88c-38d4-4780-b458-06eec1489dcf

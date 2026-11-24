@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinWeil_exists_injective_addChar
 -- name    : GlobalTheory.FinWeil.exists_injective_addChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:25:28.504644+00:00
 -- url     : https://prove2.me/theorems/0aba0105-5423-4ec8-8d7f-5cf8ecd4d770

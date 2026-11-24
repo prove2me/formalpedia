@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_fatou_lemma_in_parameter
 -- name    : Formalism.FourierDecayAlt.P.fatou_lemma_in_parameter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:32:08.783778+00:00
 -- url     : https://prove2.me/theorems/e3320cb1-7c86-4e8f-8e06-ecfcdacca633

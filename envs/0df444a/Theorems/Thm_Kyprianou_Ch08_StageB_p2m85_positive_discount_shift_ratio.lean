@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m85_positive_discount_shift_ratio
 -- name    : Kyprianou.Ch08.StageB.p2m85_positive_discount_shift_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T13:25:12.896923+00:00
 -- url     : https://prove2.me/theorems/7d9530f2-c220-4134-a01d-22961fb3234f

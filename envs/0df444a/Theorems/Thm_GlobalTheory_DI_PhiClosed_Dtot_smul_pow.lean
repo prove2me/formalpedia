@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_PhiClosed_Dtot_smul_pow
 -- name    : GlobalTheory.DI.PhiClosed.Dtot_smul_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:34:44.222342+00:00
 -- url     : https://prove2.me/theorems/7addfedc-91fc-4396-970e-f496fa500f06

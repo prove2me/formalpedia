@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B7_boundary_weight_nonneg
 -- name    : Formalism.FourierDecayAlt.P.B7.boundary_weight_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:59:33.438941+00:00
 -- url     : https://prove2.me/theorems/5c35a136-3475-44c8-ba18-fd1601406bdd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_io_mem_smooth
 -- name    : Formalism.QuantumDeterminants.io_mem_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:53:35.435799+00:00
 -- url     : https://prove2.me/theorems/ba9f48bb-ba07-40aa-8cda-40afe5f4f5d2

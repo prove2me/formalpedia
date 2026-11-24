@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinTypeIntCatenary_exists_maximal_mvPolynomial_localization
 -- name    : GlobalTheory.FinTypeIntCatenary.exists_maximal_mvPolynomial_localization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:25:43.766977+00:00
 -- url     : https://prove2.me/theorems/1d86985c-e0af-4b7e-9195-59a8449e32ad

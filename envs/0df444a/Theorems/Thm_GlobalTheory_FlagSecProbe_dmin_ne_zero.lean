@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagSecProbe_dmin_ne_zero
 -- name    : GlobalTheory.FlagSecProbe.dmin_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:31:38.878314+00:00
 -- url     : https://prove2.me/theorems/44f815df-af13-408a-a69a-acf1e64ad19f

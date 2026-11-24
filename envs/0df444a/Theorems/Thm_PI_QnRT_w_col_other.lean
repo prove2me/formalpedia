@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnRT_w_col_other
 -- name    : PI.QnRT.w_col_other
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:01:16.024593+00:00
 -- url     : https://prove2.me/theorems/c1285a98-67bd-4739-9e27-a32877a4bac9

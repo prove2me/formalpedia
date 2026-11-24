@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConstThickening_existsUnique_comb
 -- name    : GlobalTheory.ConstThickening.existsUnique_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:26:16.505617+00:00
 -- url     : https://prove2.me/theorems/17822d6a-f17f-440a-81ba-5aedef5c5524

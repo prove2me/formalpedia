@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QnYLeibnizW_glev_mul
 -- name    : QnYLeibnizW.glev_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:00:51.898049+00:00
 -- url     : https://prove2.me/theorems/307fbd57-b61e-498b-82a6-ef168e95784c

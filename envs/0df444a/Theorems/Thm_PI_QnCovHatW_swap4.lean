@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnCovHatW_swap4
 -- name    : PI.QnCovHatW.swap4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:03:58.135925+00:00
 -- url     : https://prove2.me/theorems/e3743db6-d266-42e3-bd2e-078f159d30a6

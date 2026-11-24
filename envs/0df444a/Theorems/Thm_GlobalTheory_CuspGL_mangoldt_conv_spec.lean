@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_mangoldt_conv_spec
 -- name    : GlobalTheory.CuspGL.mangoldt_conv_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:33:18.409849+00:00
 -- url     : https://prove2.me/theorems/b2c0af1c-6f85-43c9-b47c-51d06937de71

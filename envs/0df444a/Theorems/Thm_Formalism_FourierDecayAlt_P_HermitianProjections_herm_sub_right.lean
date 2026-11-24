@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianProjections_herm_sub_right
 -- name    : Formalism.FourierDecayAlt.P.HermitianProjections.herm_sub_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:57:01.006321+00:00
 -- url     : https://prove2.me/theorems/86ae5f40-980f-4f04-a18a-7f1b3ca57f98

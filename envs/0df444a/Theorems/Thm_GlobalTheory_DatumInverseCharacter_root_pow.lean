@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DatumInverseCharacter_root_pow
 -- name    : GlobalTheory.DatumInverseCharacter.root_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:43:16.516179+00:00
 -- url     : https://prove2.me/theorems/c6261980-695f-4afe-8d6a-18c74b5b0065

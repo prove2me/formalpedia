@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinTypeIntCatenary_isCM_localization_int
 -- name    : GlobalTheory.FinTypeIntCatenary.isCM_localization_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:25:36.730178+00:00
 -- url     : https://prove2.me/theorems/f059b45b-82df-457f-ad50-8465ab2ffa9c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x3_normsq_eq
 -- name    : Formalism.FourierDecayAlt.P.B2x3.normsq_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:55:02.990659+00:00
 -- url     : https://prove2.me/theorems/ee4f7a5d-1ca5-4a42-998b-7311506481c9

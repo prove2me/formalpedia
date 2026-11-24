@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_cubeFaceSequence___eq_2f890e00cceb
 -- name    : P2M_GlobalTheory_cubeFaceSequence___eq_2f890e00cceb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:08:39.599499+00:00
 -- url     : https://prove2.me/theorems/e9a9c20c-440b-4372-8a91-7a02a85417b6

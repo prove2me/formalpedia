@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiagVol_RowIdx_red_row_off
 -- name    : GlobalTheory.DiagVol.RowIdx.red_row_off
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:31:19.676813+00:00
 -- url     : https://prove2.me/theorems/7a1dfe13-2bd0-4309-b9c8-b5956df47871

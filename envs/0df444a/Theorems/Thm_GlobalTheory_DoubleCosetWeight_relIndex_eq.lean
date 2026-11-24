@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DoubleCosetWeight_relIndex_eq
 -- name    : GlobalTheory.DoubleCosetWeight.relIndex_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:50:17.630424+00:00
 -- url     : https://prove2.me/theorems/bee042dc-ea20-4c5c-b6ae-19e5d07227f6

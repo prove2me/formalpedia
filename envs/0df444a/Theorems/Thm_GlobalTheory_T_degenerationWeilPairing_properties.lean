@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_degenerationWeilPairing_properties
 -- name    : GlobalTheory.T.degenerationWeilPairing_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:48:12.158654+00:00
 -- url     : https://prove2.me/theorems/18e2939f-c11c-4068-8004-b24474f7dc90

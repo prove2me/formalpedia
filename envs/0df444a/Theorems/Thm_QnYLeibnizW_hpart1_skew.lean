@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QnYLeibnizW_hpart1_skew
 -- name    : QnYLeibnizW.hpart1_skew
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:06:23.436966+00:00
 -- url     : https://prove2.me/theorems/f7d72c4e-e49b-4a5b-afc4-022844041407

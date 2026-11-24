@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B7_ae_mem_good_set_or_weight_zero
 -- name    : Formalism.FourierDecayAlt.P.B7.ae_mem_good_set_or_weight_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:09:34.5049+00:00
 -- url     : https://prove2.me/theorems/cd1f2576-4b8c-499b-abf4-7fd73e719ed9

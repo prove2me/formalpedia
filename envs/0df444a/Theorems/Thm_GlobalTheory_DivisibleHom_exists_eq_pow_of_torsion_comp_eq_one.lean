@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DivisibleHom_exists_eq_pow_of_torsion_comp_eq_one
 -- name    : GlobalTheory.DivisibleHom.exists_eq_pow_of_torsion_comp_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:50:46.993799+00:00
 -- url     : https://prove2.me/theorems/8f3fb650-2d77-4f4c-a66c-fb8288a85918

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibLine_eq_zero_of_eval_hermitian
 -- name    : GlobalTheory.FibLine.eq_zero_of_eval_hermitian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:23:22.716131+00:00
 -- url     : https://prove2.me/theorems/e9908d1b-071c-4252-ac2a-fd97be7f09e8

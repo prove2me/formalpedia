@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteAbelianWeights_baseChange_avg_of_weight
 -- name    : GlobalTheory.FiniteAbelianWeights.baseChange_avg_of_weight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:29:58.047162+00:00
 -- url     : https://prove2.me/theorems/0418a2c3-fa5e-4d15-8cbf-4a4b14195306

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_continuous_fourth_coordinate
 -- name    : Formalism.FourierDecayAlt.P.B6.continuous_fourth_coordinate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:01:34.870985+00:00
 -- url     : https://prove2.me/theorems/683f3750-7b7e-4e66-ada0-ca0b39c7d630

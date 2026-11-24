@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_GN_hpk_sq
 -- name    : PI.PolynomialProperness.GN.hpk_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:52:15.435773+00:00
 -- url     : https://prove2.me/theorems/2d7661da-e4fe-4288-a63a-e96c6458b43a

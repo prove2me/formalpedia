@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fibre_family_eq_on_open_subset
 -- name    : GlobalTheory.T.fibre_family_eq_on_open_subset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:48:19.824253+00:00
 -- url     : https://prove2.me/theorems/f8af5a30-affa-4df8-be14-cab01d025bad

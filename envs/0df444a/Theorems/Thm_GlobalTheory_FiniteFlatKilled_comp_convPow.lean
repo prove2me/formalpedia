@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteFlatKilled_comp_convPow
 -- name    : GlobalTheory.FiniteFlatKilled.comp_convPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:30:01.625942+00:00
 -- url     : https://prove2.me/theorems/f1a2b514-56c7-40eb-965f-c0f1a36fcd40

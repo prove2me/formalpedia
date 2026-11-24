@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_Final_SplitPts
 -- name    : Formalism.UG.Final.SplitPts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:14:21.846827+00:00
 -- url     : https://prove2.me/theorems/6bb7534d-b95a-497a-b050-a04bd6cc2b91

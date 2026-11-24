@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_orderAt_comap_of_isIso_stalkMap
 -- name    : FunctorialResolution.EmbeddedResolution.orderAt_comap_of_isIso_stalkMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:12:50.966973+00:00
 -- url     : https://prove2.me/theorems/f90de411-eb33-4939-bca3-d14996173bb0

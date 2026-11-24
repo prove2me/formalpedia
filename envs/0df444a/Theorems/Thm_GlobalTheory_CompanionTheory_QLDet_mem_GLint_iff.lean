@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QLDet_mem_GLint_iff
 -- name    : GlobalTheory.CompanionTheory.QLDet.mem_GLint_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:17:57.707341+00:00
 -- url     : https://prove2.me/theorems/ec1be332-93a8-4c7b-acf5-ba1102145fc0

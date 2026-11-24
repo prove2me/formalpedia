@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_det_quot_mul_det_levi
 -- name    : GlobalTheory.Doubling.det_quot_mul_det_levi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:51:24.41884+00:00
 -- url     : https://prove2.me/theorems/9ec627d6-9b53-4e0e-8a43-183569c78e4b

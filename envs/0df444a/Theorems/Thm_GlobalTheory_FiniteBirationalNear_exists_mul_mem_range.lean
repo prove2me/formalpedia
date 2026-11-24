@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteBirationalNear_exists_mul_mem_range
 -- name    : GlobalTheory.FiniteBirationalNear.exists_mul_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:30:00.39702+00:00
 -- url     : https://prove2.me/theorems/ec37999c-08a4-4351-abec-bd10cf3010a3

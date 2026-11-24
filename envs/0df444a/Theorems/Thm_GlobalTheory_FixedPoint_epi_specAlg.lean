@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FixedPoint_epi_specAlg
 -- name    : GlobalTheory.FixedPoint.epi_specAlg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:31:22.885311+00:00
 -- url     : https://prove2.me/theorems/59180302-4ba4-4539-bbfd-9b3a8b7b29b0

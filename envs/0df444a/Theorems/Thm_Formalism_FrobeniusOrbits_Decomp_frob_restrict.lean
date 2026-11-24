@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Decomp_frob_restrict
 -- name    : Formalism.FrobeniusOrbits.Decomp.frob_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:11:22.599337+00:00
 -- url     : https://prove2.me/theorems/1ad0cf69-154d-4daf-9e83-63fa4f43b902

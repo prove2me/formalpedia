@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x3_uwb_col
 -- name    : Formalism.FourierDecayAlt.P.B2x3.uwb_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:53:38.598523+00:00
 -- url     : https://prove2.me/theorems/c9274889-2fb6-41a4-b3da-2c4ee15cb54d

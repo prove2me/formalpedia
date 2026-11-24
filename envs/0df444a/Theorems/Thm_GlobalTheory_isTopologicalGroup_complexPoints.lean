@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isTopologicalGroup_complexPoints
 -- name    : GlobalTheory.isTopologicalGroup_complexPoints
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:15:46.077727+00:00
 -- url     : https://prove2.me/theorems/c93e7ccd-dde5-4743-a0a4-7087ff1ca6dc

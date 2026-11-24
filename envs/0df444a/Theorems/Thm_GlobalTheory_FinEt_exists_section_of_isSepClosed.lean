@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinEt_exists_section_of_isSepClosed
 -- name    : GlobalTheory.FinEt.exists_section_of_isSepClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:24:11.782802+00:00
 -- url     : https://prove2.me/theorems/8e558342-9936-49fb-a11c-7f0a88560dfe

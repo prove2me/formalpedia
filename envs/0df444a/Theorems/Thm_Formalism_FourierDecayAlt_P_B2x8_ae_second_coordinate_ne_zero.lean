@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_ae_second_coordinate_ne_zero
 -- name    : Formalism.FourierDecayAlt.P.B2x8.ae_second_coordinate_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:59:42.357989+00:00
 -- url     : https://prove2.me/theorems/40e4b578-ec7d-48ef-8491-5832a6109f92

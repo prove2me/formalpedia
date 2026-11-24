@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_dilation_big_cell_formula
 -- name    : Formalism.FourierDecayAlt.P.dilation_big_cell_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:34:44.292831+00:00
 -- url     : https://prove2.me/theorems/6dcc007a-4f15-4fe2-b526-bbf15018fd60

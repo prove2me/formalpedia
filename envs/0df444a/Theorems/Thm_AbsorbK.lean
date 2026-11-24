@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AbsorbK
 -- name    : AbsorbK
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:58:47.11983+00:00
 -- url     : https://prove2.me/theorems/bcedb426-7095-4732-94f2-dcf084d3b691

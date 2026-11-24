@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux3_column_index_second_val
 -- name    : Formalism.FourierDecayAlt.P.Ux3.column_index_second_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:59:27.67446+00:00
 -- url     : https://prove2.me/theorems/8274b3c1-ea32-4450-b572-59cf2c6ce55f

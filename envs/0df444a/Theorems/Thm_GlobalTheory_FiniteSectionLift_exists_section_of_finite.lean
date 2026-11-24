@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteSectionLift_exists_section_of_finite
 -- name    : GlobalTheory.FiniteSectionLift.exists_section_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:29:30.170078+00:00
 -- url     : https://prove2.me/theorems/c777cd62-aba7-497a-b86e-76c598affaf5

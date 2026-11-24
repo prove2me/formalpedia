@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_lie_derivative_weight_le
 -- name    : Formalism.REAL.lie_derivative_weight_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:15:16.512801+00:00
 -- url     : https://prove2.me/theorems/e4de7cba-3ebf-466e-b134-8aec6537ff03

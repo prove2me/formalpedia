@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_gN_continuous
 -- name    : Formalism.FourierDecayAlt.P.B6.gN_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:49:43.492936+00:00
 -- url     : https://prove2.me/theorems/815269de-1ec3-4b49-b628-decaf3c361d7

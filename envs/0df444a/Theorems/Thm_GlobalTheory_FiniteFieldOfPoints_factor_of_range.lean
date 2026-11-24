@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteFieldOfPoints_factor_of_range
 -- name    : GlobalTheory.FiniteFieldOfPoints.factor_of_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:30:23.411299+00:00
 -- url     : https://prove2.me/theorems/24da1e5d-e9a5-4d1d-b35a-f1b9a84a6751

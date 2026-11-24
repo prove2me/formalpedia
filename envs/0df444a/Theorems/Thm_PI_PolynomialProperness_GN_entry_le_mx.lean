@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_GN_entry_le_mx
 -- name    : PI.PolynomialProperness.GN.entry_le_mx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:51:07.153488+00:00
 -- url     : https://prove2.me/theorems/92e59a3c-b528-47be-8957-71b6411b4ce4

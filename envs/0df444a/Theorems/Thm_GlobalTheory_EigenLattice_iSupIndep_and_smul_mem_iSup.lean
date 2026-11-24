@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenLattice_iSupIndep_and_smul_mem_iSup
 -- name    : GlobalTheory.EigenLattice.iSupIndep_and_smul_mem_iSup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:52:48.18494+00:00
 -- url     : https://prove2.me/theorems/bfbd38eb-8b50-4bab-a84e-cdf7a5fa7911

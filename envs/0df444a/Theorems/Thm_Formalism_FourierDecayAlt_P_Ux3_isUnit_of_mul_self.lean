@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux3_isUnit_of_mul_self
 -- name    : Formalism.FourierDecayAlt.P.Ux3.isUnit_of_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:58:47.793336+00:00
 -- url     : https://prove2.me/theorems/1ff5b2aa-86b2-45dc-be1b-5a7f7cff71c5

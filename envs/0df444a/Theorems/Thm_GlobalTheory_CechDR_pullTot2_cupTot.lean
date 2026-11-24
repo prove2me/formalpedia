@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_pullTot2_cupTot
 -- name    : GlobalTheory.CechDR.pullTot2_cupTot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:36:15.040078+00:00
 -- url     : https://prove2.me/theorems/222b286a-678a-4050-bf1c-f24273a60812

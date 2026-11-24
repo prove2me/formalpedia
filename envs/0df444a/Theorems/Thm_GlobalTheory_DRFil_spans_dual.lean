@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_spans_dual
 -- name    : GlobalTheory.DRFil.spans_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:36:22.747215+00:00
 -- url     : https://prove2.me/theorems/2febb37a-5854-4c3e-af34-fb86ec65410a

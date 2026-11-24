@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalConnection_ez_dF
 -- name    : GlobalTheory.FormalConnection.ez_dF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:35:34.510993+00:00
 -- url     : https://prove2.me/theorems/133c409c-c82a-4a3a-8999-68d2a2c2f790

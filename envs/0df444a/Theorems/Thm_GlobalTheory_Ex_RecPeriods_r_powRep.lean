@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_RecPeriods_r_powRep
 -- name    : GlobalTheory.Ex.RecPeriods.r_powRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:05:43.515849+00:00
 -- url     : https://prove2.me/theorems/aeec52f2-ea26-446c-a2a7-f82927950973

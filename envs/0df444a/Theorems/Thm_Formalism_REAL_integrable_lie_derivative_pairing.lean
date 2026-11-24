@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_integrable_lie_derivative_pairing
 -- name    : Formalism.REAL.integrable_lie_derivative_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:13:42.55619+00:00
 -- url     : https://prove2.me/theorems/897ac7dd-7c55-43a5-bf36-8f3be5d48d98

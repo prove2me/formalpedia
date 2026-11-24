@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DictPinCompare_inv_smul_mem_latHat
 -- name    : GlobalTheory.DictPinCompare.inv_smul_mem_latHat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:18:57.117611+00:00
 -- url     : https://prove2.me/theorems/ee7c303c-aa70-47d0-823d-74b9a835356d

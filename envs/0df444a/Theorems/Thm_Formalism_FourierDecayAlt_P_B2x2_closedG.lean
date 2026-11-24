@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x2_closedG
 -- name    : Formalism.FourierDecayAlt.P.B2x2.closedG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:56:05.410815+00:00
 -- url     : https://prove2.me/theorems/2eb4e020-2abe-4e45-95b7-92894f48a7e7

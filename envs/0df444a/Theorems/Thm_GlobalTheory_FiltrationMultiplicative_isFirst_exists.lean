@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiltrationMultiplicative_isFirst_exists
 -- name    : GlobalTheory.FiltrationMultiplicative.isFirst_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:24:54.794927+00:00
 -- url     : https://prove2.me/theorems/b6c13993-cd95-4703-88d5-bbf5520b3e64

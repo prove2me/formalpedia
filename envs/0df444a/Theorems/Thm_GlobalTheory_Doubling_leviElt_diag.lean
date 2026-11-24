@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_leviElt_diag
 -- name    : GlobalTheory.Doubling.leviElt_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:33:32.186557+00:00
 -- url     : https://prove2.me/theorems/ce54b69a-2cfd-490f-ba82-01612ad4ee7f

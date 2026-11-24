@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SmoothExtensionClosedSet_isClosed_GVt
 -- name    : Formalism.FourierDecayAlt.P.SmoothExtensionClosedSet.isClosed_GVt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:54:03.094917+00:00
 -- url     : https://prove2.me/theorems/9dfafef2-c603-4f27-a9ad-1ae215f97c28

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_leviElt_anti
 -- name    : GlobalTheory.Doubling.leviElt_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:51:28.162983+00:00
 -- url     : https://prove2.me/theorems/41aef4f6-5942-45d6-ad89-289936053670

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_QStr_chr_injective
 -- name    : GlobalTheory.Ex.QStr.chr_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:06:58.044804+00:00
 -- url     : https://prove2.me/theorems/ce7e040c-9308-4509-a703-7d9953e57374

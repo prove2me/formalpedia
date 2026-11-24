@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x5_measurable_rmulF
 -- name    : Formalism.FourierDecayAlt.P.B2x5.measurable_rmulF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:56:29.800505+00:00
 -- url     : https://prove2.me/theorems/0f8492f2-3794-4dd2-a112-0c51f8b03e9d

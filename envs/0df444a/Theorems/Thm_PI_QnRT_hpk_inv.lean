@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnRT_hpk_inv
 -- name    : PI.QnRT.hpk_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:05:59.666601+00:00
 -- url     : https://prove2.me/theorems/641825c0-480d-41d3-bbca-db1cd76c9b27

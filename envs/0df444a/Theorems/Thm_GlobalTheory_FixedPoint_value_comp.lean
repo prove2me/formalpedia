@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FixedPoint_value_comp
 -- name    : GlobalTheory.FixedPoint.value_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:31:37.410085+00:00
 -- url     : https://prove2.me/theorems/468e9781-05c5-4200-8a7e-45aaaaf35fe8

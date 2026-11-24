@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatDescent_apply_extend
 -- name    : GlobalTheory.FlatDescent.apply_extend
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:32:08.074879+00:00
 -- url     : https://prove2.me/theorems/9d9325b3-9ff5-494c-a75c-a97a7c3a3e70

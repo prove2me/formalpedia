@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteCover_exists_denominator
 -- name    : GlobalTheory.FiniteCover.exists_denominator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:29:56.06713+00:00
 -- url     : https://prove2.me/theorems/555d00c4-acfa-49d7-93ef-bab62cd8de33

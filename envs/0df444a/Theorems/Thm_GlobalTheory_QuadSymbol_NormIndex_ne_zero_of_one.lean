@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_NormIndex_ne_zero_of_one
 -- name    : GlobalTheory.QuadSymbol.NormIndex.ne_zero_of_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:01:41.68426+00:00
 -- url     : https://prove2.me/theorems/f6377d52-ec85-4e5f-a28a-fd2840dbbc3a

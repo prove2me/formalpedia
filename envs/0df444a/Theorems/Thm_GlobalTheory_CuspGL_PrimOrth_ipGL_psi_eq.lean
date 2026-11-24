@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_PrimOrth_ipGL_psi_eq
 -- name    : GlobalTheory.CuspGL.PrimOrth.ipGL_psi_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:25:43.975916+00:00
 -- url     : https://prove2.me/theorems/baf8c735-1d8c-4de7-9267-1456664e4804

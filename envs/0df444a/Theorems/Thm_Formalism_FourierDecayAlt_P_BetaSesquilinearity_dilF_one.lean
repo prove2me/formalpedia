@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BetaSesquilinearity_dilF_one
 -- name    : Formalism.FourierDecayAlt.P.BetaSesquilinearity.dilF_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:31:04.568848+00:00
 -- url     : https://prove2.me/theorems/d80edcbd-c86f-4ae1-b4d8-67c697a0e8a9

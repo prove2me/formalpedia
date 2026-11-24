@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_oneMinusDD_const_mul
 -- name    : Formalism.FourierDecayAlt.P.B6.oneMinusDD_const_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:48:49.431731+00:00
 -- url     : https://prove2.me/theorems/54d0a7c5-da1b-4646-8158-d034004f79d0

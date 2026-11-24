@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinrankGrowthBounds_sec_ne_zero
 -- name    : GlobalTheory.FinrankGrowthBounds.sec_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:31:06.572452+00:00
 -- url     : https://prove2.me/theorems/008db574-21de-49a2-bc13-c1fae55ee320

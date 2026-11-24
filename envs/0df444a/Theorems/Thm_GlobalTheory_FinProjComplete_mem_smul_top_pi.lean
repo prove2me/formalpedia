@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinProjComplete_mem_smul_top_pi
 -- name    : GlobalTheory.FinProjComplete.mem_smul_top_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:25:39.01977+00:00
 -- url     : https://prove2.me/theorems/d7a41da1-9fed-4ae6-a0c0-4f9b20f7a3e3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B5_len_le_order
 -- name    : Formalism.FourierDecayAlt.P.B5.len_le_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:56:40.204845+00:00
 -- url     : https://prove2.me/theorems/48238cdd-735a-4ee5-a7e7-4f4cfb022d8b

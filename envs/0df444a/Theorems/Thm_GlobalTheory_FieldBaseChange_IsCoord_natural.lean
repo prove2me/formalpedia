@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldBaseChange_IsCoord_natural
 -- name    : GlobalTheory.FieldBaseChange.IsCoord.natural
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:10:00.515913+00:00
 -- url     : https://prove2.me/theorems/8294d8c0-31c7-4db2-8aa4-b80198033e5f

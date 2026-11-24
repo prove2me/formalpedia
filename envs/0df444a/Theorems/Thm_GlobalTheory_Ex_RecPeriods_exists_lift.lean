@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_RecPeriods_exists_lift
 -- name    : GlobalTheory.Ex.RecPeriods.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:59:14.085662+00:00
 -- url     : https://prove2.me/theorems/cb7d21b0-f000-43e5-905c-4d17ea289cd8

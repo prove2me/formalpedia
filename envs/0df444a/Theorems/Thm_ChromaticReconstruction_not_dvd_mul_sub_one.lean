@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_not_dvd_mul_sub_one
 -- name    : ChromaticReconstruction.not_dvd_mul_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T12:34:02.820563+00:00
 -- url     : https://prove2.me/theorems/20ce7bf8-9b5f-485d-b42a-2f8c54cebf3d

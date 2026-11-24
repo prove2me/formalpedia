@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagTransport_map_restrict_withDensity
 -- name    : GlobalTheory.FlagTransport.map_restrict_withDensity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:31:04.143374+00:00
 -- url     : https://prove2.me/theorems/6619fe0e-200c-441b-85ea-28ec325496d8

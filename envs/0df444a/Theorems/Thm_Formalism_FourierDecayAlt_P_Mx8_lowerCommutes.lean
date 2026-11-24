@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx8_lowerCommutes
 -- name    : Formalism.FourierDecayAlt.P.Mx8.lowerCommutes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:46:43.215251+00:00
 -- url     : https://prove2.me/theorems/b9a1e3d3-bbc7-425e-92d1-5f9813f0c0b5

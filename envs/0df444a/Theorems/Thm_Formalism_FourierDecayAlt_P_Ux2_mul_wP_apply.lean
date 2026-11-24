@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux2_mul_wP_apply
 -- name    : Formalism.FourierDecayAlt.P.Ux2.mul_wP_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:52:59.347017+00:00
 -- url     : https://prove2.me/theorems/511ad448-b6c6-432a-95d7-74147e251f88

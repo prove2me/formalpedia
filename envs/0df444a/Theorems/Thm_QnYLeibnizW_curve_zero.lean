@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QnYLeibnizW_curve_zero
 -- name    : QnYLeibnizW.curve_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:07:05.308463+00:00
 -- url     : https://prove2.me/theorems/868cc1ee-fcb3-4126-910c-2e79d3e28fc4

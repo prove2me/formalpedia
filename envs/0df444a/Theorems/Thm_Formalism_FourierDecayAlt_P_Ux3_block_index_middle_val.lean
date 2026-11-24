@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux3_block_index_middle_val
 -- name    : Formalism.FourierDecayAlt.P.Ux3.block_index_middle_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:05:44.32544+00:00
 -- url     : https://prove2.me/theorems/f47b8d7f-53ef-479c-9840-51f8d67e55a5

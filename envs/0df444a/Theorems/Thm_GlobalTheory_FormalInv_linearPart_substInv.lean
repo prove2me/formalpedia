@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalInv_linearPart_substInv
 -- name    : GlobalTheory.FormalInv.linearPart_substInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:34:35.316876+00:00
 -- url     : https://prove2.me/theorems/36ec5cc8-1bc8-4c07-938f-aca8b52e8b20

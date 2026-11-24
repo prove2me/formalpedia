@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArtinReduction_eq_zero_of_forall_mem_pow
 -- name    : GlobalTheory.ArtinReduction.eq_zero_of_forall_mem_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:58:13.407863+00:00
 -- url     : https://prove2.me/theorems/52b74ba4-f9ce-40c1-baa7-6725061a7aac

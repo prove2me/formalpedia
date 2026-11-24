@@ -35552,10 +35552,10 @@
 {"parent": "QMAPerfectCompleteness.Main.BlockHadamardCoordinates.spectator_mask", "child": "QMAPerfectCompleteness_Proof_ControlCircuits", "via": ["solution", "statement"]}
 {"parent": "DiazModulus.variations_theorem_2_11", "child": "DiazModulus", "via": ["solution", "statement"]}
 {"parent": "QuantumLTF.Membership.centerPhaseGate_unitary", "child": "QuantumLTF_Membership_centerPhaseGate", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch03.esscherDensityAtExtendedStoppingTime", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.esscherDensityAtExtendedStoppingTime", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.esscherDensityAtExtendedStoppingTime", "child": "Kyprianou_Ch03_EsscherDensity", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.esscherDensityAtExtendedStoppingTime", "child": "Kyprianou_Ch03_CompletedNaturalFiltration", "via": ["statement"]}
+{"parent": "Kyprianou.Ch03.esscherDensityAtExtendedStoppingTime", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.esscherDensityAtExtendedStoppingTime", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.esscherDensityAtExtendedStoppingTime", "child": "Kyprianou_Ch03_EsscherDensity", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.esscherDensityAtExtendedStoppingTime", "child": "Kyprianou_Ch03_CompletedNaturalFiltration", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K3.exists_held_of_direction", "child": "APFPaper5.K3.unseen_of_anticommutes", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K3.exists_held_of_direction", "child": "APFPaper5.K3.pair_dichotomy", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K3.exists_held_of_direction", "child": "APFPaper5.K3.unseen_iff", "via": ["solution", "statement"]}
@@ -54800,7 +54800,7 @@
 {"parent": "NashOrTriangle.Supplement.theorem_B_3", "child": "NashOrTriangle_Supplement_Arithmetical", "via": ["statement"]}
 {"parent": "ImplicitParityWL_Supplement_Complexity", "child": "VariableWL", "via": ["statement"]}
 {"parent": "GinibrePermanent977.Anticoncentration.Supplement.lemma_C_5", "child": "GinibrePermanent977_Anticoncentration_Supplement_Model", "via": ["statement"]}
-{"parent": "SymmetricDepthHierarchy.ConstantDepth.Supplement.theorem_5_5", "child": "SymmetricDepthHierarchy_ConstantDepth_Supplement_Branching", "via": ["statement"]}
+{"parent": "SymmetricDepthHierarchy.ConstantDepth.Supplement.theorem_5_5", "child": "SymmetricDepthHierarchy_ConstantDepth_Supplement_Branching", "via": ["solution", "statement"]}
 {"parent": "Kyprianou_Ch06_certificate_result_6_11", "child": "Kyprianou_Ch06_RealLevyLawAndRegularityIntegrals", "via": ["statement"]}
 {"parent": "Kyprianou_Ch06_certificate_result_6_11", "child": "Kyprianou_Ch06_IndexedExcursion", "via": ["statement"]}
 {"parent": "Kyprianou_Ch06_certificate_result_6_11", "child": "Kyprianou_Ch06_AdmissibleLocalTime", "via": ["statement"]}

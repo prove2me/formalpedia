@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExteriorInterpolation_exists_divided
 -- name    : GlobalTheory.ExteriorInterpolation.exists_divided
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:17:40.219251+00:00
 -- url     : https://prove2.me/theorems/6cd2709a-ff7f-4722-a9ad-5a09fe9e1698

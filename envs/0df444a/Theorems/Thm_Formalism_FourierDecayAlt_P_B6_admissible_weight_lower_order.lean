@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_admissible_weight_lower_order
 -- name    : Formalism.FourierDecayAlt.P.B6.admissible_weight_lower_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:52:41.150005+00:00
 -- url     : https://prove2.me/theorems/8ab78d88-3093-4876-b015-1fe584e6388d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FixedPointApproximation_smodEq_iff
 -- name    : GlobalTheory.FixedPointApproximation.smodEq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:31:17.378792+00:00
 -- url     : https://prove2.me/theorems/03d81076-835b-4dba-b09d-40e30d763ec2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObjectCentric_jacobian_rank_equality
 -- name    : ObjectCentric.jacobian_rank_equality
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T19:38:37.057294+00:00
 -- url     : https://prove2.me/theorems/9cdf3f98-d4a3-42ab-b708-db1bfa1a3ad0

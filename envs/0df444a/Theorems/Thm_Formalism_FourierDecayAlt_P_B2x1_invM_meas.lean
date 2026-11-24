@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x1_invM_meas
 -- name    : Formalism.FourierDecayAlt.P.B2x1.invM_meas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:06:42.570467+00:00
 -- url     : https://prove2.me/theorems/bcb97b7d-8a9a-43f4-bf26-303ea4d42246

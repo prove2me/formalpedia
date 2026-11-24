@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteCoverGrowth_contDiff_eval_map
 -- name    : GlobalTheory.FiniteCoverGrowth.contDiff_eval_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:29:28.733584+00:00
 -- url     : https://prove2.me/theorems/0b16393f-0227-4278-9ee0-2f2fd61133de

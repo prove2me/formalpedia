@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiberCardPermutation_card_fiber_eq_count
 -- name    : GlobalTheory.FiberCardPermutation.card_fiber_eq_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:23:17.471804+00:00
 -- url     : https://prove2.me/theorems/7d6c7b73-e588-4ab8-808a-025914a54ee5

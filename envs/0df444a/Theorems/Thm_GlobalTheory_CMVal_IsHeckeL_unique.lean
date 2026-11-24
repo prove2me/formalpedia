@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_IsHeckeL_unique
 -- name    : GlobalTheory.CMVal.IsHeckeL.unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:00:13.009834+00:00
 -- url     : https://prove2.me/theorems/c8b5d6d1-24ba-44f9-9660-399bb5f78385

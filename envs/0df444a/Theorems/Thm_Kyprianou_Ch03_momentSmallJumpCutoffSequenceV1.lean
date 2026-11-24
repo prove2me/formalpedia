@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_momentSmallJumpCutoffSequenceV1
 -- name    : Kyprianou.Ch03.momentSmallJumpCutoffSequenceV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T13:20:10.882611+00:00
 -- url     : https://prove2.me/theorems/0b630e29-b804-4087-8dde-ea48713fc289

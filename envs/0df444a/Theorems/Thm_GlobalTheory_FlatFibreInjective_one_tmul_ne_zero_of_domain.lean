@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatFibreInjective_one_tmul_ne_zero_of_domain
 -- name    : GlobalTheory.FlatFibreInjective.one_tmul_ne_zero_of_domain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:32:44.29229+00:00
 -- url     : https://prove2.me/theorems/edc4b112-9981-4f2d-94e4-6f8ee223eab4

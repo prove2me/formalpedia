@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagTransport_det_cpt_base_ne
 -- name    : GlobalTheory.FlagTransport.det_cpt_base_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:31:29.667086+00:00
 -- url     : https://prove2.me/theorems/42a1cfb0-f733-42f8-ab3b-2c6f5ba92fbc

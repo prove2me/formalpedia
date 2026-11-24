@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_NumB_cubN_inv_inv
 -- name    : GlobalTheory.Ex.NumB.cubN_inv_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:06:09.542848+00:00
 -- url     : https://prove2.me/theorems/52cb79af-cd5a-4e5b-bdc5-875bfaa36bca

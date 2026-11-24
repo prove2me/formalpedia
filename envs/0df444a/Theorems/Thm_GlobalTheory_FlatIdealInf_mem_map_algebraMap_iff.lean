@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatIdealInf_mem_map_algebraMap_iff
 -- name    : GlobalTheory.FlatIdealInf.mem_map_algebraMap_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:32:38.958672+00:00
 -- url     : https://prove2.me/theorems/3be91bdf-0f86-4985-89ef-58bbd1944d40

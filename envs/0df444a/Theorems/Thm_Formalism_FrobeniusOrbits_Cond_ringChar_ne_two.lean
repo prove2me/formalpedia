@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Cond_ringChar_ne_two
 -- name    : Formalism.FrobeniusOrbits.Cond.ringChar_ne_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:10:50.158176+00:00
 -- url     : https://prove2.me/theorems/13ddb41f-2e66-4b57-820f-be80593e6159

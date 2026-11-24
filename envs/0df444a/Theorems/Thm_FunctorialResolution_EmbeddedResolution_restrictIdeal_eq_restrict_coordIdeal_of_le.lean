@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_restrictIdeal_eq_restrict_coordIdeal_of_le
 -- name    : FunctorialResolution.EmbeddedResolution.restrictIdeal_eq_restrict_coordIdeal_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:06:00.441357+00:00
 -- url     : https://prove2.me/theorems/d8d454d4-1559-4ab1-bd7d-308a229cb111

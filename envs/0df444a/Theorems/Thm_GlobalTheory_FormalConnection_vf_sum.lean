@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalConnection_vf_sum
 -- name    : GlobalTheory.FormalConnection.vf_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:35:41.020649+00:00
 -- url     : https://prove2.me/theorems/023363f4-1f2b-49cc-b6ed-728cd4c2cf9e

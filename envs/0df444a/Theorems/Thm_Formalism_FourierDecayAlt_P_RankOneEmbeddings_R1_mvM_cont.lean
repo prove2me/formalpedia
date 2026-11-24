@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RankOneEmbeddings_R1_mvM_cont
 -- name    : Formalism.FourierDecayAlt.P.RankOneEmbeddings.R1.mvM_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:44:03.493342+00:00
 -- url     : https://prove2.me/theorems/5acfa679-8419-488f-a7e7-bdec71f74cb4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_Comp_glob_sup
 -- name    : Formalism.L2.GlobalTheoryTheory.Comp.glob_sup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:09.973783+00:00
 -- url     : https://prove2.me/theorems/896c8a0c-5c7e-47d5-8ab0-f623d446a1de

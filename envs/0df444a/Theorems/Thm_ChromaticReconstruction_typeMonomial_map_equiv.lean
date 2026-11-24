@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_typeMonomial_map_equiv
 -- name    : ChromaticReconstruction.typeMonomial_map_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:57:45.392013+00:00
 -- url     : https://prove2.me/theorems/c211143a-b031-4d56-b20c-8dce8b51e38a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmTangent_tangent_mem_lieAlg
 -- name    : GlobalTheory.CompanionTheory.SmTangent.tangent_mem_lieAlg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:15:17.021751+00:00
 -- url     : https://prove2.me/theorems/ef5ddf12-9101-4ce4-816c-82771d13953f

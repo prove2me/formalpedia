@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_aDil_mul_eq_mul_aDil
 -- name    : Formalism.FourierDecayAlt.P.B6.aDil_mul_eq_mul_aDil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:01:37.400878+00:00
 -- url     : https://prove2.me/theorems/27b3e4b7-5f97-4367-9796-b7a4793b7b6f

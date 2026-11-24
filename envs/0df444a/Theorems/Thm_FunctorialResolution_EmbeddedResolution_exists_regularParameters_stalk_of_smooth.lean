@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_exists_regularParameters_stalk_of_smooth
 -- name    : FunctorialResolution.EmbeddedResolution.exists_regularParameters_stalk_of_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:33:29.678938+00:00
 -- url     : https://prove2.me/theorems/727109c8-d458-477c-a883-88808a5a6475

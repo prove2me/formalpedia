@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiffVanish_eval_diffTopPoly
 -- name    : GlobalTheory.DiffVanish.eval_diffTopPoly
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:00:34.758905+00:00
 -- url     : https://prove2.me/theorems/c33437c8-ec24-4f11-be48-8650c35502df

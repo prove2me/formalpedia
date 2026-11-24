@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B3_test_prod_zero
 -- name    : Formalism.FourierDecayAlt.P.B3.test_prod_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:27:29.422801+00:00
 -- url     : https://prove2.me/theorems/58dd09af-9f4d-4b00-b00e-eebbc549dea0

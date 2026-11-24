@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtendRig_isRegularRing_stalk
 -- name    : GlobalTheory.ExtendRig.isRegularRing_stalk
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:17:18.599306+00:00
 -- url     : https://prove2.me/theorems/ca8fe2c9-0dd4-4633-806a-f92ff93eedc3

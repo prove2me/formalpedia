@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Galois_zeta_inversion_sq_eq_one
 -- name    : Formalism.FrobeniusOrbits.Galois.zeta_inversion_sq_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:53:07.232676+00:00
 -- url     : https://prove2.me/theorems/90351576-5416-45b7-80b5-3f3c0d03883e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SettingConstruction_Hb_herm
 -- name    : Formalism.FourierDecayAlt.P.SettingConstruction.Hb_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:51:09.261466+00:00
 -- url     : https://prove2.me/theorems/7b2caf2f-3a09-4ad1-a841-27d919610ac9

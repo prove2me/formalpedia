@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteCovolume_exists_unitary_elem_of_isUStab
 -- name    : GlobalTheory.FiniteCovolume.exists_unitary_elem_of_isUStab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:31:22.859804+00:00
 -- url     : https://prove2.me/theorems/941604e2-bee9-449f-9423-ee79ea3f12eb

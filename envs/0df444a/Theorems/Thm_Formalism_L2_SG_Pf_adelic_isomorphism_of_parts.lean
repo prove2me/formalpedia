@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_adelic_isomorphism_of_parts
 -- name    : Formalism.L2.SG.Pf.adelic_isomorphism_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:16:22.578152+00:00
 -- url     : https://prove2.me/theorems/924a89ec-b34c-4903-b333-eae2e20cf345

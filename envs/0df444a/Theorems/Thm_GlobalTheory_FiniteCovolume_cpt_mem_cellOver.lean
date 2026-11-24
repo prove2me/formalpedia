@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteCovolume_cpt_mem_cellOver
 -- name    : GlobalTheory.FiniteCovolume.cpt_mem_cellOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:30:09.270746+00:00
 -- url     : https://prove2.me/theorems/34d1656c-e83a-4a56-a2f6-60908284ed74

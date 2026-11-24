@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibLine_Intg_norm_qCoef_le
 -- name    : GlobalTheory.FibLine.Intg.norm_qCoef_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:23:18.601734+00:00
 -- url     : https://prove2.me/theorems/27ccc41f-91cc-4a33-aad8-4eb9e9318ae3

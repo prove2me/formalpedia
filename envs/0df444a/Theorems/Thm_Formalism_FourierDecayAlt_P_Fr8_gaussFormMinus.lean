@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr8_gaussFormMinus
 -- name    : Formalism.FourierDecayAlt.P.Fr8.gaussFormMinus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:02:28.840615+00:00
 -- url     : https://prove2.me/theorems/3dbc6216-5348-4d4e-8710-f1a3aa45360a

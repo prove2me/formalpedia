@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinAffineCharts_iso_refineLB
 -- name    : GlobalTheory.FinAffineCharts.iso_refineLB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:24:52.367129+00:00
 -- url     : https://prove2.me/theorems/2e829fe2-6cb8-436e-8885-2b45f108ac51

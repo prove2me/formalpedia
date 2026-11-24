@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnCovHatW_skip_one_eq_succAbove
 -- name    : PI.QnCovHatW.skip_one_eq_succAbove
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:03:49.4348+00:00
 -- url     : https://prove2.me/theorems/2a788efb-9d2e-4c0b-82ed-23de0b323a09

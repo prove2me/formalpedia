@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EpsCocycle_regauge_iso
 -- name    : GlobalTheory.EpsCocycle.regauge_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:58:46.835212+00:00
 -- url     : https://prove2.me/theorems/2a12d888-6d28-4635-a104-112face90f38

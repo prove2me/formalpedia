@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscUniformisation_disc_of_pos
 -- name    : GlobalTheory.DiscUniformisation.disc_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:48:56.402128+00:00
 -- url     : https://prove2.me/theorems/3c1b5ac2-25bb-4c51-99d0-bfc4de201d1f

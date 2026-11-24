@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_momentCPCharSeriesEvalV1
 -- name    : Kyprianou.Ch03.momentCPCharSeriesEvalV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T13:16:06.534806+00:00
 -- url     : https://prove2.me/theorems/2f19bd91-ba5b-411e-812c-f3004a7902d4

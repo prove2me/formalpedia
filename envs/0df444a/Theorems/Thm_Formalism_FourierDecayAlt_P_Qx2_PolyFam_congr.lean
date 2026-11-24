@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx2_PolyFam_congr
 -- name    : Formalism.FourierDecayAlt.P.Qx2.PolyFam.congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:09:44.968882+00:00
 -- url     : https://prove2.me/theorems/e6057fa7-c4c1-4751-b242-c55146f6b87f

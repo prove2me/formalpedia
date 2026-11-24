@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteCovolume_eq_of_lact_mem_cellOver
 -- name    : GlobalTheory.FiniteCovolume.eq_of_lact_mem_cellOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:30:17.963432+00:00
 -- url     : https://prove2.me/theorems/9a04f56c-eab7-4d3f-b8c5-61fb30e152b6

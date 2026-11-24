@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEis_continuousOn_bdet
 -- name    : GlobalTheory.CompanionTheory.RgEis.continuousOn_bdet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:57:46.54418+00:00
 -- url     : https://prove2.me/theorems/1b781489-0394-41fc-af52-681b0a13071c

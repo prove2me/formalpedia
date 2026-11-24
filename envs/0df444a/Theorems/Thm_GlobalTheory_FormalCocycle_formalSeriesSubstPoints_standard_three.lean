@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCocycle_formalSeriesSubstPoints_standard_three
 -- name    : GlobalTheory.FormalCocycle.formalSeriesSubstPoints_standard_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:33:34.954998+00:00
 -- url     : https://prove2.me/theorems/66b5e9af-0628-424d-bbcb-3edf8f15e4ba

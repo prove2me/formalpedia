@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreUnif_isHolTo_slice
 -- name    : GlobalTheory.FibreUnif.isHolTo_slice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:24:53.728776+00:00
 -- url     : https://prove2.me/theorems/6aab261c-4796-4937-b415-eaa650632653

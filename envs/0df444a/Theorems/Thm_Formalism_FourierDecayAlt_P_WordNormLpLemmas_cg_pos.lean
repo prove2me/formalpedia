@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WordNormLpLemmas_cg_pos
 -- name    : Formalism.FourierDecayAlt.P.WordNormLpLemmas.cg_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:37:26.233159+00:00
 -- url     : https://prove2.me/theorems/74c1b698-b030-47e2-9564-996a5f149577

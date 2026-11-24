@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_B4_op__contDiffOn_a13b807b4df6
 -- name    : P2M_Formalism_FourierDecayAlt_P_B4_op__contDiffOn_a13b807b4df6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:28:48.1121+00:00
 -- url     : https://prove2.me/theorems/ada7c9c7-f5b7-4bd9-ae2d-b9944cee1ea6

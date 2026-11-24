@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenSplit_det_sq_eq_discr_of_isDomain
 -- name    : GlobalTheory.EigenSplit.det_sq_eq_discr_of_isDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:57:16.172161+00:00
 -- url     : https://prove2.me/theorems/3b6d0518-f3c6-4450-b8f6-4b648817da57

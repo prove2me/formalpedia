@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_NumD_twist_qEq
 -- name    : GlobalTheory.Ex.NumD.twist_qEq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:06:40.449868+00:00
 -- url     : https://prove2.me/theorems/f4f34cf2-f013-406a-88dd-999768d90cdc

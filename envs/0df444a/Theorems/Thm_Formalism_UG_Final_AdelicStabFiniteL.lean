@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_Final_AdelicStabFiniteL
 -- name    : Formalism.UG.Final.AdelicStabFiniteL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:13:37.077947+00:00
 -- url     : https://prove2.me/theorems/6a7e76e7-ed10-443f-a772-3d821ef49af8

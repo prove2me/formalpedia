@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_MirrorSection__col_eq_524aef35e814
 -- name    : P2M_PI_MirrorSection__col_eq_524aef35e814
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:56:46.578537+00:00
 -- url     : https://prove2.me/theorems/043c4207-61b9-4e9b-9376-31f2db939e17

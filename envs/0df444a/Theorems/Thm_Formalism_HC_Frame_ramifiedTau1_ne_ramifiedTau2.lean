@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_ramifiedTau1_ne_ramifiedTau2
 -- name    : Formalism.HC.Frame.ramifiedTau1_ne_ramifiedTau2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:52:59.367044+00:00
 -- url     : https://prove2.me/theorems/dbeb8dab-ab32-41c3-af80-50d8cdc8dc59

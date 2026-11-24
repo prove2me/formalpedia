@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_continuousOn_of_contDiffOn_group
 -- name    : Formalism.FourierDecayAlt.P.B6.continuousOn_of_contDiffOn_group
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:49:11.231068+00:00
 -- url     : https://prove2.me/theorems/96b16cda-dc3d-44cc-b612-07abcac80036

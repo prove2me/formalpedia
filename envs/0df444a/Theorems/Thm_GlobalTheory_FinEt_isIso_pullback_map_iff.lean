@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinEt_isIso_pullback_map_iff
 -- name    : GlobalTheory.FinEt.isIso_pullback_map_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:24:14.398959+00:00
 -- url     : https://prove2.me/theorems/4b66d285-73b3-4d1e-81a9-e0a35599cd38

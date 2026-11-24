@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteCover_exists_common_multiple
 -- name    : GlobalTheory.FiniteCover.exists_common_multiple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:29:52.231803+00:00
 -- url     : https://prove2.me/theorems/d132ef8a-b0e6-4687-9954-7d57ad29e939

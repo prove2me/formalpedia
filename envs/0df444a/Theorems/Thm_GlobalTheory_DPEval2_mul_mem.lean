@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DPEval2_mul_mem
 -- name    : GlobalTheory.DPEval2.mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:21:38.354942+00:00
 -- url     : https://prove2.me/theorems/f5f7268d-ca39-4ea4-a86f-d81b83f12f7a

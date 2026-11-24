@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Div_eigen_line_bilinear_lower_skew_orth
 -- name    : GlobalTheory.Div.eigen_line_bilinear.lower_skew_orth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:50:44.301748+00:00
 -- url     : https://prove2.me/theorems/bddd9763-2bae-4a89-a293-b0cf1723e504

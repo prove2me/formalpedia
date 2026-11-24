@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalConnection_coeff_F_y
 -- name    : GlobalTheory.FormalConnection.coeff_F_y
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:37:40.430837+00:00
 -- url     : https://prove2.me/theorems/a962b7c0-769e-4d1f-ab98-c842609c9549

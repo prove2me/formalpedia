@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecondDerivAtMaxNonpos
 -- name    : SecondDerivAtMaxNonpos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:57:48.367823+00:00
 -- url     : https://prove2.me/theorems/7cd42cd5-3494-4ba7-a09f-05107a9ed258

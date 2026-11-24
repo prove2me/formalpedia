@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinCovol_compactSpace_unitary_of_definite
 -- name    : GlobalTheory.FinCovol.compactSpace_unitary_of_definite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:24:27.282839+00:00
 -- url     : https://prove2.me/theorems/c2ca922b-6dbd-4284-9f8e-337f06ed271a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCalc_continuous_pderiv
 -- name    : GlobalTheory.FormalCalc.continuous_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:34:01.824376+00:00
 -- url     : https://prove2.me/theorems/bc07a43c-d4f8-4d9d-9481-5886cb62d668

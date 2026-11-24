@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_Compare_isUnit_of_isUnA
 -- name    : GlobalTheory.UnRep.Compare.isUnit_of_isUnA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:18:31.4778+00:00
 -- url     : https://prove2.me/theorems/e94d2d53-e75e-4e6f-8e2a-e39786b25592

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteSeparablePoints_exists_factor_of_unramified
 -- name    : GlobalTheory.FiniteSeparablePoints.exists_factor_of_unramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:29:24.311538+00:00
 -- url     : https://prove2.me/theorems/baf31ebe-4289-4b84-be33-060cc62784aa

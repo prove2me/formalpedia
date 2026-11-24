@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinEt_IsSplitOfRank_pullback_snd
 -- name    : GlobalTheory.FinEt.IsSplitOfRank.pullback_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:24:10.054116+00:00
 -- url     : https://prove2.me/theorems/c22031a2-ef89-442a-91ec-805f020479c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B4_gN_rpow_nonneg
 -- name    : Formalism.FourierDecayAlt.P.B4.gN_rpow_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:25:08.731771+00:00
 -- url     : https://prove2.me/theorems/9bd890be-caff-4ec2-a8f3-5ad0b3763981

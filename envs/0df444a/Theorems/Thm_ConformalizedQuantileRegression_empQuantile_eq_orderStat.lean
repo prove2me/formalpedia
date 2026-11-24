@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConformalizedQuantileRegression_empQuantile_eq_orderStat
 -- name    : ConformalizedQuantileRegression.empQuantile_eq_orderStat
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T07:40:00.152396+00:00
 -- url     : https://prove2.me/theorems/6d31c99a-113c-4b46-a555-6c1ad05a97e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FoldIntegral_integral_integral_eq_pos_sub_neg
 -- name    : GlobalTheory.FoldIntegral.integral_integral_eq_pos_sub_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:33:45.424248+00:00
 -- url     : https://prove2.me/theorems/f6dffe60-4585-4d12-bc48-cb9feb4eb668

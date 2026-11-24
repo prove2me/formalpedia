@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassFin_low_vec
 -- name    : PI.UnitaryGroupMassFormula.UJClassFin.low_vec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:31:03.587197+00:00
 -- url     : https://prove2.me/theorems/61df7bd9-4e0a-48e0-a522-1b118eaa8fbb

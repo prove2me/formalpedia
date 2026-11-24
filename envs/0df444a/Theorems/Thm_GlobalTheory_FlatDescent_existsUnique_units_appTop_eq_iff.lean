@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatDescent_existsUnique_units_appTop_eq_iff
 -- name    : GlobalTheory.FlatDescent.existsUnique_units_appTop_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:32:09.860686+00:00
 -- url     : https://prove2.me/theorems/478103ea-121c-4e40-bc23-a06a8fbe1bcc

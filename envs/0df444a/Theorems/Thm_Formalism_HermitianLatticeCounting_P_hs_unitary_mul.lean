@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_hs_unitary_mul
 -- name    : Formalism.HermitianLatticeCounting.P.hs_unitary_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:28:04.313795+00:00
 -- url     : https://prove2.me/theorems/2aabcfca-00b5-4c86-ab13-69f58ea8abf6

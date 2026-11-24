@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DimDrop_dim_drop
 -- name    : GlobalTheory.DimDrop.dim_drop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:48:51.267115+00:00
 -- url     : https://prove2.me/theorems/64ef9c49-7c99-4a86-8cc0-d074b9d28c47

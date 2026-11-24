@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteCover_finrank_le_of_range_le
 -- name    : GlobalTheory.FiniteCover.finrank_le_of_range_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:30:01.76739+00:00
 -- url     : https://prove2.me/theorems/db15c658-5dbb-40f4-9441-cdeaf5eb8fbb

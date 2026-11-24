@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QnYLeibnizW_hpart_sum
 -- name    : QnYLeibnizW.hpart_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:06:41.128155+00:00
 -- url     : https://prove2.me/theorems/542a3184-ada3-4dd9-9bc5-f2472e7abf7b

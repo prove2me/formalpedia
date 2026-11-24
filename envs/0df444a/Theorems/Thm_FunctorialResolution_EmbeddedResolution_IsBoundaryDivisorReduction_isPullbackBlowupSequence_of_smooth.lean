@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_IsBoundaryDivisorReduction_isPullbackBlowupSequence_of_smooth
 -- name    : FunctorialResolution.EmbeddedResolution.IsBoundaryDivisorReduction.isPullbackBlowupSequence_of_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:13:31.171784+00:00
 -- url     : https://prove2.me/theorems/6be9c161-5aa5-4c93-b7f9-d76e342735fb

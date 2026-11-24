@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenSplit_charpoly_eq_prod_of_isLocalRing
 -- name    : GlobalTheory.EigenSplit.charpoly_eq_prod_of_isLocalRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:57:27.49987+00:00
 -- url     : https://prove2.me/theorems/64da877f-1270-43ac-9304-bbf0f1b21558

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteCovolume_measurableSet_Bor
 -- name    : GlobalTheory.FiniteCovolume.measurableSet_Bor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:30:38.428947+00:00
 -- url     : https://prove2.me/theorems/34b6c161-293b-4af4-bf3d-c14478e1132c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinrankGrowthBounds_le_of_pow_le_mul_pow
 -- name    : GlobalTheory.FinrankGrowthBounds.le_of_pow_le_mul_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:29:54.568978+00:00
 -- url     : https://prove2.me/theorems/51a28f99-9b28-4290-8a0b-3898a51c5b8b

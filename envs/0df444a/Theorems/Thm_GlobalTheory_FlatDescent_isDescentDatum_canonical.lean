@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatDescent_isDescentDatum_canonical
 -- name    : GlobalTheory.FlatDescent.isDescentDatum_canonical
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:32:23.333553+00:00
 -- url     : https://prove2.me/theorems/2925e742-7455-4676-8e47-2b49256a6f8c

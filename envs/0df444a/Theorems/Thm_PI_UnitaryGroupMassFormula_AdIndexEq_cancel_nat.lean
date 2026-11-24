@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_cancel_nat
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.cancel_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:00:57.190462+00:00
 -- url     : https://prove2.me/theorems/a4dfdda7-b7b7-4eff-91c9-a2274a05a348

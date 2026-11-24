@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnramDict_value_map_eq
 -- name    : GlobalTheory.CompanionTheory.UnramDict.value_map_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:21:11.043268+00:00
 -- url     : https://prove2.me/theorems/d6628318-fd77-4e76-85a5-c0772873c31b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinWeil_index_comap_toSpanSingleton_ne_zero
 -- name    : GlobalTheory.FinWeil.index_comap_toSpanSingleton_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:26:01.090482+00:00
 -- url     : https://prove2.me/theorems/50e9bb43-76a3-4fd2-b2ac-de951b6fd91e

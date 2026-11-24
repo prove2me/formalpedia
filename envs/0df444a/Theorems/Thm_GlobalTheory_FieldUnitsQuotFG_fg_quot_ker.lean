@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldUnitsQuotFG_fg_quot_ker
 -- name    : GlobalTheory.FieldUnitsQuotFG.fg_quot_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:24:47.154322+00:00
 -- url     : https://prove2.me/theorems/ad162b96-e241-46b5-a0f0-e2a3c904da31

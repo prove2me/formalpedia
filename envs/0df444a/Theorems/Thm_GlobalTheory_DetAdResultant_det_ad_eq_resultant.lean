@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetAdResultant_det_ad_eq_resultant
 -- name    : GlobalTheory.DetAdResultant.det_ad_eq_resultant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:43:21.631606+00:00
 -- url     : https://prove2.me/theorems/ad51f552-80f5-4fbb-934a-c9d327191028

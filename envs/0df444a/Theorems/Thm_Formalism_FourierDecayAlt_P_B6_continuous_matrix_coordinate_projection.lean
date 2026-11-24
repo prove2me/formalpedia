@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_continuous_matrix_coordinate_projection
 -- name    : Formalism.FourierDecayAlt.P.B6.continuous_matrix_coordinate_projection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:02:42.149262+00:00
 -- url     : https://prove2.me/theorems/f2df48e5-8ea5-4b9e-8b47-6522c41f3fff

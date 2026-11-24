@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagSecProbe_chi_zero
 -- name    : GlobalTheory.FlagSecProbe.chi_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:31:42.913798+00:00
 -- url     : https://prove2.me/theorems/872b388a-c031-4147-9aa7-777e7c2b15fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsotropicReflections_al_e
 -- name    : PI.IsotropicReflections.al_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:55:42.958377+00:00
 -- url     : https://prove2.me/theorems/0c8078df-6a79-4838-8d50-ffcd37bd1881

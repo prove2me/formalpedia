@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_continuousOn_matrix_mul
 -- name    : Formalism.FourierDecayAlt.P.B6.continuousOn_matrix_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:48:19.749971+00:00
 -- url     : https://prove2.me/theorems/a03f84d3-76df-47f8-b167-7238732326ae

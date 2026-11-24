@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenPair_pairing_eig_eq_zero
 -- name    : GlobalTheory.EigenPair.pairing_eig_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:57:28.410475+00:00
 -- url     : https://prove2.me/theorems/87c6fb53-7b08-448c-8165-a3ce997e96f8

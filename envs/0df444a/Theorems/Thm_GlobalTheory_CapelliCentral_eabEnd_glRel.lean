@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CapelliCentral_eabEnd_glRel
 -- name    : GlobalTheory.CapelliCentral.eabEnd_glRel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:34:33.885634+00:00
 -- url     : https://prove2.me/theorems/855a2c26-af4f-4b76-97da-f2cea24490a2

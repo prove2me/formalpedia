@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x5_measurable_conjM
 -- name    : Formalism.FourierDecayAlt.P.B2x5.measurable_conjM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:56:53.756106+00:00
 -- url     : https://prove2.me/theorems/dd3a5c52-5da7-4792-b146-bdfbccb7afb7

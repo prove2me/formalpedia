@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_momentSmallJumpBandRealIntegralBoundV1
 -- name    : Kyprianou.Ch03.momentSmallJumpBandRealIntegralBoundV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T13:20:09.549622+00:00
 -- url     : https://prove2.me/theorems/ae6c43cb-3a38-40dd-a9d7-285a3bd7dafe

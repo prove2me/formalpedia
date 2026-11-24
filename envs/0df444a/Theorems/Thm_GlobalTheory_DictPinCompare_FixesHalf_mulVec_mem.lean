@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DictPinCompare_FixesHalf_mulVec_mem
 -- name    : GlobalTheory.DictPinCompare.FixesHalf.mulVec_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:18:23.869116+00:00
 -- url     : https://prove2.me/theorems/fc736898-7001-4603-a399-0b1451254302

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatDescent_IsCompatible_map_mem
 -- name    : GlobalTheory.FlatDescent.IsCompatible.map_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:32:08.355279+00:00
 -- url     : https://prove2.me/theorems/a92c15d9-e840-40a3-8cbc-d0c1db501997

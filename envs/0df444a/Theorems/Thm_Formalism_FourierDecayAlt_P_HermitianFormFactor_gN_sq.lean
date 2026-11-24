@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormFactor_gN_sq
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormFactor.gN_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:53:38.045794+00:00
 -- url     : https://prove2.me/theorems/890b1e46-f2e6-4efd-a2c3-f6156e86f6f1

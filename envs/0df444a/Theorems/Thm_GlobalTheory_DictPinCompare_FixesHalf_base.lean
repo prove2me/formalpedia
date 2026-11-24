@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DictPinCompare_FixesHalf_base
 -- name    : GlobalTheory.DictPinCompare.FixesHalf.base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:18:30.798798+00:00
 -- url     : https://prove2.me/theorems/6257fd90-8e07-4f88-8c63-b83d817ec11a

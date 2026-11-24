@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCocycle_cen_mapAt
 -- name    : GlobalTheory.FormalCocycle.cen_mapAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:33:43.454966+00:00
 -- url     : https://prove2.me/theorems/0daf2013-0175-4dc3-a2a4-d8e789e0784c

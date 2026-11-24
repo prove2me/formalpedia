@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteBirationalNear_exists_away_isDomain
 -- name    : GlobalTheory.FiniteBirationalNear.exists_away_isDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:29:57.944799+00:00
 -- url     : https://prove2.me/theorems/28f871ab-aa4e-4b2a-b715-7b6888dbb741

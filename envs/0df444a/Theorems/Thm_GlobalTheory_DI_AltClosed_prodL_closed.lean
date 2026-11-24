@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_AltClosed_prodL_closed
 -- name    : GlobalTheory.DI.AltClosed.prodL_closed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:49:52.039266+00:00
 -- url     : https://prove2.me/theorems/e2dc14e8-2287-4d93-8dff-a4047b64ba60

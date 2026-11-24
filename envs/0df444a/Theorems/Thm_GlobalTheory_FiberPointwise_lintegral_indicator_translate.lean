@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiberPointwise_lintegral_indicator_translate
 -- name    : GlobalTheory.FiberPointwise.lintegral_indicator_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:23:12.939495+00:00
 -- url     : https://prove2.me/theorems/da6d2cbc-2e1f-4993-a082-3c8791c498ad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_admissibleWeight_of_succ_left_order
 -- name    : Formalism.FourierDecayAlt.P.B6.admissibleWeight_of_succ_left_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:56:02.919878+00:00
 -- url     : https://prove2.me/theorems/dff24841-4f69-40a4-a9a6-493f76652d44

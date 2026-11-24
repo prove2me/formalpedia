@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteFlatKilled_mul_comp_antipode
 -- name    : GlobalTheory.FiniteFlatKilled.mul_comp_antipode
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:30:21.489613+00:00
 -- url     : https://prove2.me/theorems/c3390fe5-e358-4ab4-9333-6ec9a32d338c

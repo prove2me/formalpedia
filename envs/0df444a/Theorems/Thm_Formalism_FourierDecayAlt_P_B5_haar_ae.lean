@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B5_haar_ae
 -- name    : Formalism.FourierDecayAlt.P.B5.haar_ae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:47:25.31419+00:00
 -- url     : https://prove2.me/theorems/82cba720-da7e-4b48-b2b7-6242f75ad00c

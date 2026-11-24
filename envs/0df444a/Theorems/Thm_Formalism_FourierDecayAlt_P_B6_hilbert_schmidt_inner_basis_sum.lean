@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_hilbert_schmidt_inner_basis_sum
 -- name    : Formalism.FourierDecayAlt.P.B6.hilbert_schmidt_inner_basis_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:48:33.433066+00:00
 -- url     : https://prove2.me/theorems/03809236-b676-489b-bc22-8bb69aa3b4c1

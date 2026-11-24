@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIQnLT_hpk_inv
 -- name    : PIQnLT.hpk_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:55:29.516219+00:00
 -- url     : https://prove2.me/theorems/d6006f6a-881f-4cf7-99a6-d05a1250e650

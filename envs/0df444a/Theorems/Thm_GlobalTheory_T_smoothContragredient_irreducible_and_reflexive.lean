@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_smoothContragredient_irreducible_and_reflexive
 -- name    : GlobalTheory.T.smoothContragredient_irreducible_and_reflexive
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:50:56.949648+00:00
 -- url     : https://prove2.me/theorems/04d78d6b-5981-45bf-9e3b-95e677fe285e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinProjComplete_map_mem_pow_smul_top
 -- name    : GlobalTheory.FinProjComplete.map_mem_pow_smul_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:25:25.976047+00:00
 -- url     : https://prove2.me/theorems/30c07d0b-4163-4ad2-a954-9a9a55b117d2

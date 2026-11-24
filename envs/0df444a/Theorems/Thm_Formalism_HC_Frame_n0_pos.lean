@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_n0_pos
 -- name    : Formalism.HC.Frame.n0_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:48:11.087132+00:00
 -- url     : https://prove2.me/theorems/490bcf83-9df4-4b5d-9d56-6caea4788541

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_lim_eq_of_congr
 -- name    : GlobalTheory.AdLat.lim_eq_of_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:20:49.669944+00:00
 -- url     : https://prove2.me/theorems/706be76e-12b4-4889-a3a2-8351022f9c49

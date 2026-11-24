@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_RecPeriods_uth_iso
 -- name    : GlobalTheory.Ex.RecPeriods.uth_iso
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:15.634319+00:00
 -- url     : https://prove2.me/theorems/8cedacc2-07c5-4dd1-9a69-a4719856fe77

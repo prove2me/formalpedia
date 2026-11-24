@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z5_loc_iff
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z5.loc_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:29:21.386066+00:00
 -- url     : https://prove2.me/theorems/e12f4dd7-eeb4-4d88-9f30-f54b014385e9

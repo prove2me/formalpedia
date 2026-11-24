@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GaussRec_gauss_recursion
 -- name    : GlobalTheory.CompanionTheory.GaussRec.gauss_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:43:42.370375+00:00
 -- url     : https://prove2.me/theorems/1b7acc9e-bc92-422f-9418-1c7a51c326a4

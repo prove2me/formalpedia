@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_val_unitOfCoprime
 -- name    : Formalism.HC.HostRaw.val_unitOfCoprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:08:40.668799+00:00
 -- url     : https://prove2.me/theorems/4b5d568b-f444-47af-b714-55a901a83153

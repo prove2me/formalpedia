@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagData_cc_herm
 -- name    : GlobalTheory.FlagData.cc_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:31:43.148798+00:00
 -- url     : https://prove2.me/theorems/ade9281a-71f5-4ea8-bbca-453d58a41b2f

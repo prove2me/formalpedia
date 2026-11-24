@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GramFib_fibre_unique
 -- name    : GlobalTheory.CompanionTheory.SW.GramFib.fibre_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:05:29.165666+00:00
 -- url     : https://prove2.me/theorems/a155ec06-00e1-4645-a6d3-c7f4d4ea9013

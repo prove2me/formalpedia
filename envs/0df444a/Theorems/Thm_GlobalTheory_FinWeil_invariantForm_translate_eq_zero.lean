@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinWeil_invariantForm_translate_eq_zero
 -- name    : GlobalTheory.FinWeil.invariantForm_translate_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:30:07.69608+00:00
 -- url     : https://prove2.me/theorems/e08d528a-4516-4568-988c-0d46abf0464b

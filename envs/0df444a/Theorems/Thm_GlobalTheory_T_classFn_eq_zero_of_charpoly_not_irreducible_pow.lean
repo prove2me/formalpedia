@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_classFn_eq_zero_of_charpoly_not_irreducible_pow
 -- name    : GlobalTheory.T.classFn_eq_zero_of_charpoly_not_irreducible_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:20:35.278281+00:00
 -- url     : https://prove2.me/theorems/f99cecf0-7ad2-4942-b194-dbb8e414a373

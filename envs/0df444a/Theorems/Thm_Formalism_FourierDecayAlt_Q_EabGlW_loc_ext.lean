@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_EabGlW_loc_ext
 -- name    : Formalism.FourierDecayAlt.Q.EabGlW.loc_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:52:40.282004+00:00
 -- url     : https://prove2.me/theorems/aa1cb013-eb2e-4616-b208-c4807c90529d

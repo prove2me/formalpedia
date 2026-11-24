@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FibreShift_fib_ne_zero
 -- name    : GlobalTheory.CompanionTheory.SW.FibreShift.fib_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:03:35.680332+00:00
 -- url     : https://prove2.me/theorems/a4784253-dfd5-4e39-b50b-18c2936eea48

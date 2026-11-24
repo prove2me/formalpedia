@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B5_curve_zero
 -- name    : Formalism.FourierDecayAlt.P.B5.curve_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:48:18.293848+00:00
 -- url     : https://prove2.me/theorems/b450d738-6dd6-4b86-a5ba-c8e29e57fc6d

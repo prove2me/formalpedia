@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_coneMap_bijective
 -- name    : GlobalTheory.CechDR.coneMap_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:38:13.568519+00:00
 -- url     : https://prove2.me/theorems/fcc5bbda-fc97-43b9-ba6c-3f7b4ed2ff54

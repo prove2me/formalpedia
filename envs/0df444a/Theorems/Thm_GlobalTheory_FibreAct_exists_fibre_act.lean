@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreAct_exists_fibre_act
 -- name    : GlobalTheory.FibreAct.exists_fibre_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:24:30.141794+00:00
 -- url     : https://prove2.me/theorems/efa556c3-3d15-433d-9399-f58449c8ff98

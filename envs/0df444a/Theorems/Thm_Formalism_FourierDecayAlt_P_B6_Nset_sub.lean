@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_Nset_sub
 -- name    : Formalism.FourierDecayAlt.P.B6.Nset_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:54:07.300292+00:00
 -- url     : https://prove2.me/theorems/c4ec0979-fa76-4446-a2e8-57cf4e85caaa

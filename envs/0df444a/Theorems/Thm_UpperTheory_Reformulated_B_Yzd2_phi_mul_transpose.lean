@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_Yzd2_phi_mul_transpose
 -- name    : UpperTheory.Reformulated.B.Yzd2.phi_mul_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:59:13.159279+00:00
 -- url     : https://prove2.me/theorems/bb8e3f99-fbbc-44ce-9d01-090f86ee8a4d

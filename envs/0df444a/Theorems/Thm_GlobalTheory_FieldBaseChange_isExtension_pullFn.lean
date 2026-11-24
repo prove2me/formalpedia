@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldBaseChange_isExtension_pullFn
 -- name    : GlobalTheory.FieldBaseChange.isExtension_pullFn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:24:44.740538+00:00
 -- url     : https://prove2.me/theorems/6da68303-c897-486e-a237-6dacb3b50066

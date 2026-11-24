@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DescentPairing_cubN_transl
 -- name    : GlobalTheory.DescentPairing.cubN_transl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:04:07.034803+00:00
 -- url     : https://prove2.me/theorems/d5e2749f-cb05-4ab2-9f7e-e4c5f0e253a5

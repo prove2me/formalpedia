@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenSplit_finrank_eq_of_charpoly
 -- name    : GlobalTheory.EigenSplit.finrank_eq_of_charpoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:57:32.943814+00:00
 -- url     : https://prove2.me/theorems/c153cdaa-f66f-4794-84ef-b69901e21c9d

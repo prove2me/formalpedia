@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegSS_eq_zero_of_trace_mul_eq_zero
 -- name    : GlobalTheory.RegSS.eq_zero_of_trace_mul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:00:16.650309+00:00
 -- url     : https://prove2.me/theorems/95e16208-4f3b-4ab5-8d9e-70f8b6535538

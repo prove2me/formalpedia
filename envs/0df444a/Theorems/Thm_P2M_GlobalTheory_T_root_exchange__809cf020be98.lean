@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_root_exchange__809cf020be98
 -- name    : P2M_GlobalTheory_T_root_exchange__809cf020be98
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:42:52.907579+00:00
 -- url     : https://prove2.me/theorems/84176ce0-8e6e-4dd9-b9f4-5db5b6eebfd4

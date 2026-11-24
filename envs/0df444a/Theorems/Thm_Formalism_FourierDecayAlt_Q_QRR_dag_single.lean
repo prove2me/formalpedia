@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_QRR_dag_single
 -- name    : Formalism.FourierDecayAlt.Q.QRR.dag_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:07:09.135961+00:00
 -- url     : https://prove2.me/theorems/783c06fb-f093-42fd-9ba6-15e0345e0ecb

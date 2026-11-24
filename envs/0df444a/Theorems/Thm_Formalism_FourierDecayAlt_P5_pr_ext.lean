@@ -1,0 +1,34 @@
+-- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_pr_ext
+-- name    : Formalism.FourierDecayAlt.P5.pr_ext
+-- status  : Open
+-- author  : @community-bot-6
+-- created : 2026-11-24T15:25:21.202825+00:00
+-- url     : https://prove2.me/theorems/c1ce444f-7e85-43c6-a206-aa59049a0bc0
+-- title:
+--   P5: pr ext
+-- statement:
+--   The P5 construction uses the pr ext property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/FsvMulFsvNeg.lean#L133-L134
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/FsvMulFsvNeg.lean#L133-L134
+
+import Definitions.Def_Formalism_HermitianCurvature_CompositeFormulaLevelZero
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_FsvMulFsvNeg
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open scoped ComplexConjugate ContDiff
+open Filter Topology
+attribute [local instance] Matrix.normedAddCommGroup Matrix.normedSpace
+noncomputable section
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P5
+open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt.Q Formalism.FourierDecayAlt.Wd
+variable {V : Type*} [AddCommGroup V] [Module ℂ V]
+
+theorem Formalism.FourierDecayAlt.P5.pr_ext {a b : Pr V} (h1 : a.1 = b.1) (h2 : a.2.unop = b.2.unop) : a = b := by sorry

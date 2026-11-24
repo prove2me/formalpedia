@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExplicitRect_finite_zeros
 -- name    : GlobalTheory.ExplicitRect.finite_zeros
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:07:08.448705+00:00
 -- url     : https://prove2.me/theorems/2a0b1354-86ea-4ceb-883d-10d5aa90c842

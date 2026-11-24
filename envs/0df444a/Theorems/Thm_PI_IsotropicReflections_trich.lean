@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsotropicReflections_trich
 -- name    : PI.IsotropicReflections.trich
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:53:57.767516+00:00
 -- url     : https://prove2.me/theorems/49d9778c-aea4-43b4-b8b3-c58281dd5b00

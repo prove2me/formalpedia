@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FixedPoint_exists_ringHom_of_forall_mem_range
 -- name    : GlobalTheory.FixedPoint.exists_ringHom_of_forall_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:31:23.597653+00:00
 -- url     : https://prove2.me/theorems/3c49849c-ea2b-4299-8558-eca3c84e9c7c

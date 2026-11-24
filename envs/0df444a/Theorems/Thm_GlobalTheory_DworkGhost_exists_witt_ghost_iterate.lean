@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DworkGhost_exists_witt_ghost_iterate
 -- name    : GlobalTheory.DworkGhost.exists_witt_ghost_iterate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:52:14.530589+00:00
 -- url     : https://prove2.me/theorems/d1606dc8-d53e-4678-a74d-b5a586504af9

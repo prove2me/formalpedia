@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagTransport_idxEquiv_symm_equivFin
 -- name    : GlobalTheory.FlagTransport.idxEquiv_symm_equivFin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:31:48.724503+00:00
 -- url     : https://prove2.me/theorems/078b51f9-27d7-4a55-9b1e-75ecfa76b13c

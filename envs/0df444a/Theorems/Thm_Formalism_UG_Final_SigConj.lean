@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_Final_SigConj
 -- name    : Formalism.UG.Final.SigConj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:13:48.240363+00:00
 -- url     : https://prove2.me/theorems/3c1215ae-02aa-45a3-a44e-470315c9f37e

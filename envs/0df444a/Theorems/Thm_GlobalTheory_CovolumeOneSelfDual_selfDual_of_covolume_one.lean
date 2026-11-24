@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CovolumeOneSelfDual_selfDual_of_covolume_one
 -- name    : GlobalTheory.CovolumeOneSelfDual.selfDual_of_covolume_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:44:11.239805+00:00
 -- url     : https://prove2.me/theorems/acdb11b7-245b-44ae-b1ab-29a63fc9a560

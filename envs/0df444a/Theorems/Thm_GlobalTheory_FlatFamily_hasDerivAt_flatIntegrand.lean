@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatFamily_hasDerivAt_flatIntegrand
 -- name    : GlobalTheory.FlatFamily.hasDerivAt_flatIntegrand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:32:51.695468+00:00
 -- url     : https://prove2.me/theorems/de5e2694-f1de-414b-a329-73eb0fd96b36

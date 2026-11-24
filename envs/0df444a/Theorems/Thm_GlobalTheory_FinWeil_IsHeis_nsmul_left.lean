@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinWeil_IsHeis_nsmul_left
 -- name    : GlobalTheory.FinWeil.IsHeis.nsmul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:25:53.091726+00:00
 -- url     : https://prove2.me/theorems/6b053b88-77d6-4f0e-805c-acc1e166367a

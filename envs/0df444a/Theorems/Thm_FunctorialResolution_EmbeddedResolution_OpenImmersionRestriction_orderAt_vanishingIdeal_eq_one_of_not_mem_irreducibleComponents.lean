@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_OpenImmersionRestriction_orderAt_vanishingIdeal_eq_one_of_not_mem_irreducibleComponents
 -- name    : FunctorialResolution.EmbeddedResolution.OpenImmersionRestriction.orderAt_vanishingIdeal_eq_one_of_not_mem_irreducibleComponents
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:33:12.159235+00:00
 -- url     : https://prove2.me/theorems/3beeba54-b14c-4cdc-b3e3-e84c76061fc7

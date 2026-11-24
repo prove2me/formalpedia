@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConvexCutOff_iteratedFDeriv_eq_zero_off
 -- name    : GlobalTheory.ConvexCutOff.iteratedFDeriv_eq_zero_off
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:26:19.666544+00:00
 -- url     : https://prove2.me/theorems/4492fca4-20bb-47aa-a1d3-c9f306a33dee

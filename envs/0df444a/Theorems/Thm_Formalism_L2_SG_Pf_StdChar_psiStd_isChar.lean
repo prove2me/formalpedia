@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_StdChar_psiStd_isChar
 -- name    : Formalism.L2.SG.Pf.StdChar.psiStd_isChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:36:24.061691+00:00
 -- url     : https://prove2.me/theorems/eb7bca4f-a1e7-4fa1-9b26-665c46b05e7a

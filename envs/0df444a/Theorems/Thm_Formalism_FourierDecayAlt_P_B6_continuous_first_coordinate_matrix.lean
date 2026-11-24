@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_continuous_first_coordinate_matrix
 -- name    : Formalism.FourierDecayAlt.P.B6.continuous_first_coordinate_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:56:19.465297+00:00
 -- url     : https://prove2.me/theorems/70a82f26-4a39-44ce-8d08-78e08afd9fce

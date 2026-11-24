@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatDescent_isPullback_resLE
 -- name    : GlobalTheory.FlatDescent.isPullback_resLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:32:35.279263+00:00
 -- url     : https://prove2.me/theorems/a9e0963d-3409-4f68-8f42-83e967f6e3dd

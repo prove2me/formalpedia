@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FixedPointApproximation_approx_step
 -- name    : GlobalTheory.FixedPointApproximation.approx_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:31:12.398901+00:00
 -- url     : https://prove2.me/theorems/9e12606e-7e47-44d0-8d74-c54bd9776ca7

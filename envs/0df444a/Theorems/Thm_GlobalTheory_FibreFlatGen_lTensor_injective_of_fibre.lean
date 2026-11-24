@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreFlatGen_lTensor_injective_of_fibre
 -- name    : GlobalTheory.FibreFlatGen.lTensor_injective_of_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:24:48.26895+00:00
 -- url     : https://prove2.me/theorems/bfde81ee-751a-45c7-91d5-a01011d16a25

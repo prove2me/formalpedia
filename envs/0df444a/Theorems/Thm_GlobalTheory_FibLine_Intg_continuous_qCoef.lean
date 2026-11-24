@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibLine_Intg_continuous_qCoef
 -- name    : GlobalTheory.FibLine.Intg.continuous_qCoef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:20:15.171901+00:00
 -- url     : https://prove2.me/theorems/c5f327b7-e991-4f9a-b5f5-5a0338da8eae

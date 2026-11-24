@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B7_measurable_invM
 -- name    : Formalism.FourierDecayAlt.P.B7.measurable_invM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:47:49.189677+00:00
 -- url     : https://prove2.me/theorems/10eb39ba-7214-400d-8a63-1217f06ee1c2

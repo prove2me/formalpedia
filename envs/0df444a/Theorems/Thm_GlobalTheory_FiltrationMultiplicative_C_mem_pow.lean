@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiltrationMultiplicative_C_mem_pow
 -- name    : GlobalTheory.FiltrationMultiplicative.C_mem_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:24:47.777487+00:00
 -- url     : https://prove2.me/theorems/ddc9726b-ea8f-4ae4-8f1d-8a388464efdc

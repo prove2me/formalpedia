@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenSplit_isSplitting_complex
 -- name    : GlobalTheory.EigenSplit.isSplitting_complex
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:13:33.431221+00:00
 -- url     : https://prove2.me/theorems/0f48b386-1970-4327-9832-2f9abadedfdf

@@ -79434,12 +79434,12 @@
 {"parent": "QEC.Coding.ClassicalWeightReduction.transpose_combineInverseMap1_single", "child": "QEC_Coding_CodeReduction_Classical_Collapse", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.ClassicalWeightReduction.transpose_combineInverseMap1_single", "child": "QEC_Coding_CodeReduction_Classical_Distance", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.ClassicalWeightReduction.transpose_combineInverseMap1_single", "child": "QEC_Coding_ChainComplex_HomotopyDistance", "via": ["solution", "statement"]}
-{"parent": "IntConeFPT.lemma_7", "child": "OnlineCRS_Combine_encInt", "via": ["statement"]}
-{"parent": "IntConeFPT.lemma_7", "child": "OnlineCRS_Combine_encVec", "via": ["statement"]}
-{"parent": "IntConeFPT.lemma_7", "child": "IntConeFPT_Problem", "via": ["statement"]}
-{"parent": "IntConeFPT.lemma_7", "child": "OnlineCRS_Combine_Sym", "via": ["statement"]}
-{"parent": "IntConeFPT.lemma_7", "child": "OnlineCRS_Combine_encRat", "via": ["statement"]}
-{"parent": "IntConeFPT.lemma_7", "child": "OnlineCRS_Combine_encNat", "via": ["statement"]}
+{"parent": "IntConeFPT.lemma_7", "child": "OnlineCRS_Combine_encInt", "via": ["solution", "statement"]}
+{"parent": "IntConeFPT.lemma_7", "child": "OnlineCRS_Combine_encVec", "via": ["solution", "statement"]}
+{"parent": "IntConeFPT.lemma_7", "child": "IntConeFPT_Problem", "via": ["solution", "statement"]}
+{"parent": "IntConeFPT.lemma_7", "child": "OnlineCRS_Combine_Sym", "via": ["solution", "statement"]}
+{"parent": "IntConeFPT.lemma_7", "child": "OnlineCRS_Combine_encRat", "via": ["solution", "statement"]}
+{"parent": "IntConeFPT.lemma_7", "child": "OnlineCRS_Combine_encNat", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound3431_e", "child": "MUBSix", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound3431_e", "child": "OAIQ106E148", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.PairSemantics.sound3431_e", "child": "OAIQ106E141", "via": ["solution", "statement"]}

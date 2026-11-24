@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x1_exists_pos
 -- name    : Formalism.FourierDecayAlt.P.B2x1.exists_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:06:37.270999+00:00
 -- url     : https://prove2.me/theorems/29f86873-4a81-497a-9471-b77156896a54

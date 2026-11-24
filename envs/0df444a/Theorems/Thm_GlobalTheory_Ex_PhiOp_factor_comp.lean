@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_PhiOp_factor_comp
 -- name    : GlobalTheory.Ex.PhiOp.factor_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:06:01.075799+00:00
 -- url     : https://prove2.me/theorems/62add132-33b9-4661-88c2-c0ebfb4aa3d6

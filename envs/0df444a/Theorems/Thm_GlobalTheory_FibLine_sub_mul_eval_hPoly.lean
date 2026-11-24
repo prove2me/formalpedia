@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibLine_sub_mul_eval_hPoly
 -- name    : GlobalTheory.FibLine.sub_mul_eval_hPoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:23:08.926833+00:00
 -- url     : https://prove2.me/theorems/888ebc45-e137-4c1f-a5df-fa0a6f2919ab

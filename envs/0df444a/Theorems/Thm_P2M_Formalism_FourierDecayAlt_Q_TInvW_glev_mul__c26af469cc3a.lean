@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_Q_TInvW_glev_mul__c26af469cc3a
 -- name    : P2M_Formalism_FourierDecayAlt_Q_TInvW_glev_mul__c26af469cc3a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:07:57.066487+00:00
 -- url     : https://prove2.me/theorems/c7dd745e-caba-48f9-aa29-8b48dc825069

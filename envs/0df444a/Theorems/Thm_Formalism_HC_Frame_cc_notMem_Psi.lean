@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_cc_notMem_Psi
 -- name    : Formalism.HC.Frame.cc_notMem_Psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:58:23.675909+00:00
 -- url     : https://prove2.me/theorems/5ee4fc4f-e900-4092-b0ef-c44ff4781c58

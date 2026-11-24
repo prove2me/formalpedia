@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagTransport_gram_eq
 -- name    : GlobalTheory.FlagTransport.gram_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:31:07.674088+00:00
 -- url     : https://prove2.me/theorems/b991943f-8f58-4c80-b198-5d4b4a06000e

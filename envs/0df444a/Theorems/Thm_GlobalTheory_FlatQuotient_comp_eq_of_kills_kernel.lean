@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatQuotient_comp_eq_of_kills_kernel
 -- name    : GlobalTheory.FlatQuotient.comp_eq_of_kills_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:32:36.11495+00:00
 -- url     : https://prove2.me/theorems/55d6fafe-5540-44c1-a2ad-d0e302cd952b

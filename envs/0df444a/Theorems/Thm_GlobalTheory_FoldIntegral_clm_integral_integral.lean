@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FoldIntegral_clm_integral_integral
 -- name    : GlobalTheory.FoldIntegral.clm_integral_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:33:55.847662+00:00
 -- url     : https://prove2.me/theorems/9293b32f-543c-4d4d-8afb-4aed30b2e02b

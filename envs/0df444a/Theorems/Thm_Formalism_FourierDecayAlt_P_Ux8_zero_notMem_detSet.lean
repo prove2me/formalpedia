@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux8_zero_notMem_detSet
 -- name    : Formalism.FourierDecayAlt.P.Ux8.zero_notMem_detSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:58:43.878224+00:00
 -- url     : https://prove2.me/theorems/e0afc128-7e90-4c3d-844b-fccbaadb8ffe

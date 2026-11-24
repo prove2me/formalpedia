@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_cubN_mul_point
 -- name    : GlobalTheory.Ex.cubN_mul_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:07:10.31135+00:00
 -- url     : https://prove2.me/theorems/e244ea8b-1b3b-4761-b84d-9376345d4a1a

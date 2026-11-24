@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B4_ne_zero_of_mem_I
 -- name    : Formalism.FourierDecayAlt.P.B4.ne_zero_of_mem_I
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:25:09.014334+00:00
 -- url     : https://prove2.me/theorems/5ce4a453-a331-47cb-ba56-6e311e0f517d

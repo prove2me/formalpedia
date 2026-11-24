@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCocycle_hasSubst_elim3
 -- name    : GlobalTheory.FormalCocycle.hasSubst_elim3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:33:32.751143+00:00
 -- url     : https://prove2.me/theorems/39cf181f-a2ca-4e2d-bec7-78ac6865069f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Conv_eq_zero_of_ev_eq_zero
 -- name    : GlobalTheory.Conv.eq_zero_of_ev_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:27:23.664752+00:00
 -- url     : https://prove2.me/theorems/9f9c1b8a-5bf4-423c-a368-223e24e19442

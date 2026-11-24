@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Inertia_mem_of_lift
 -- name    : Formalism.FrobeniusOrbits.Inertia.mem_of_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:11:40.838066+00:00
 -- url     : https://prove2.me/theorems/24ac8f5c-0d3e-4e3b-9a9b-dbd358da1297

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SpreadingModels_properSpreads
 -- name    : GlobalTheory.CompanionTheory.SpreadingModels.properSpreads
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:14:43.557512+00:00
 -- url     : https://prove2.me/theorems/24fb23f3-1dbe-42e4-aeb5-0321cb03e84d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ABound
 -- name    : ABound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:58:37.290569+00:00
 -- url     : https://prove2.me/theorems/8cfb4d30-b3a6-45ba-a1bd-07aab6e61d58

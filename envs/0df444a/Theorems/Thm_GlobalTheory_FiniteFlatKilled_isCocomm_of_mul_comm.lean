@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteFlatKilled_isCocomm_of_mul_comm
 -- name    : GlobalTheory.FiniteFlatKilled.isCocomm_of_mul_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:30:24.748903+00:00
 -- url     : https://prove2.me/theorems/c9165aab-a655-44b5-9da5-346051c9dba4

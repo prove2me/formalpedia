@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_test_function_decay
 -- name    : Formalism.FourierDecayAlt.P.test_function_decay
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:28:42.532635+00:00
 -- url     : https://prove2.me/theorems/195614ea-c351-46b5-8840-7c60e520a44b

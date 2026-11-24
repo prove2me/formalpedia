@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_NumD_Int_tendsto_vt_QT
 -- name    : GlobalTheory.Ex.NumD.Int.tendsto_vt_QT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:06:13.646264+00:00
 -- url     : https://prove2.me/theorems/f003edc4-018d-4c74-a9d4-d84014da34a6

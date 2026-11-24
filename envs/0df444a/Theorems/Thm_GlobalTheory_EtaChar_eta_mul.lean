@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EtaChar_eta_mul
 -- name    : GlobalTheory.EtaChar.eta_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:58:58.311519+00:00
 -- url     : https://prove2.me/theorems/38e23502-476e-4e57-a7f6-179bcf5f49bd

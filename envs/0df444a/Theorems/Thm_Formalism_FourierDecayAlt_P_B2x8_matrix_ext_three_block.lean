@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_matrix_ext_three_block
 -- name    : Formalism.FourierDecayAlt.P.B2x8.matrix_ext_three_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:43:27.467995+00:00
 -- url     : https://prove2.me/theorems/a104415a-6202-4cb7-8b9d-bdd5a079702a

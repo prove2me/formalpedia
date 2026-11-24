@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_StabFirst_isClosed_range_iotaHom
 -- name    : GlobalTheory.CompanionTheory.SW.StabFirst.isClosed_range_iotaHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:09:04.988948+00:00
 -- url     : https://prove2.me/theorems/7928de50-8926-4801-a2f7-a2b41e661357

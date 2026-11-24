@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassFin_finMat_unitary
 -- name    : PI.UnitaryGroupMassFormula.UJClassFin.finMat_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:28:35.251868+00:00
 -- url     : https://prove2.me/theorems/a73fbf40-70e5-4d4a-aab9-d88a4454194c

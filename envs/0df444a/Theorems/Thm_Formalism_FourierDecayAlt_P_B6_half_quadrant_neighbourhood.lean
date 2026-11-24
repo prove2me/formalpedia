@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_half_quadrant_neighbourhood
 -- name    : Formalism.FourierDecayAlt.P.B6.half_quadrant_neighbourhood
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:05:52.524746+00:00
 -- url     : https://prove2.me/theorems/ca70746d-1de7-4449-8e37-7a4c808c7106

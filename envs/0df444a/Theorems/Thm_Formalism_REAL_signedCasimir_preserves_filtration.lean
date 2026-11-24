@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_signedCasimir_preserves_filtration
 -- name    : Formalism.REAL.signedCasimir_preserves_filtration
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:14:44.514408+00:00
 -- url     : https://prove2.me/theorems/ae697544-ca85-42fc-9299-88c075a226e2

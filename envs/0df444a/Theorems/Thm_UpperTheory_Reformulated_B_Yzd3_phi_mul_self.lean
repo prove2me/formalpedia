@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_Yzd3_phi_mul_self
 -- name    : UpperTheory.Reformulated.B.Yzd3.phi_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:59:19.536675+00:00
 -- url     : https://prove2.me/theorems/a479dffc-d42f-43b4-b769-1ce0e93f4a7d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Cx2_idl_two_le_one
 -- name    : Formalism.FourierDecayAlt.P.Cx2.idl_two_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:08:59.862403+00:00
 -- url     : https://prove2.me/theorems/73b7b32f-5ba6-4572-98e7-959a1f54a4f9

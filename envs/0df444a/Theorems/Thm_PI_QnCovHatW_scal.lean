@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnCovHatW_scal
 -- name    : PI.QnCovHatW.scal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:03:48.54804+00:00
 -- url     : https://prove2.me/theorems/10e634e6-3484-46a9-beab-6480476de613

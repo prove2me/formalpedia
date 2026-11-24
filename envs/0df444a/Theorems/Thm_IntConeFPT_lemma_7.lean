@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntConeFPT_lemma_7
 -- name    : IntConeFPT.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T00:41:23.149708+00:00
 -- url     : https://prove2.me/theorems/1a2b7ab6-11e8-4cab-821e-763b5a0f692a

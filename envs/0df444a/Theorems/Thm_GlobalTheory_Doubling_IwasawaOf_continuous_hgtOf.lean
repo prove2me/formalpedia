@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_IwasawaOf_continuous_hgtOf
 -- name    : GlobalTheory.Doubling.IwasawaOf.continuous_hgtOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:52:07.552713+00:00
 -- url     : https://prove2.me/theorems/88ed44e7-f7a9-4c83-911c-cd6a95e964d6

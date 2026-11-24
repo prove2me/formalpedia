@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_coordinate_homeomorph_rank_one_tuples
 -- name    : GlobalTheory.T.coordinate_homeomorph_rank_one_tuples
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:01:50.247955+00:00
 -- url     : https://prove2.me/theorems/938b0452-53ff-449b-b299-31bf88f69fbf

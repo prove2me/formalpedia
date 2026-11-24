@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiltrationMultiplicative_max_le_filt_one
 -- name    : GlobalTheory.FiltrationMultiplicative.max_le_filt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:24:07.788915+00:00
 -- url     : https://prove2.me/theorems/c880f6b4-fffa-4842-b6df-9fda9bad7556

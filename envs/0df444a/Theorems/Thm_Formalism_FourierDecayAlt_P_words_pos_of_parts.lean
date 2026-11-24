@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_words_pos_of_parts
 -- name    : Formalism.FourierDecayAlt.P.words_pos_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:56:04.585198+00:00
 -- url     : https://prove2.me/theorems/980ea257-f407-40ad-a4bf-943569cadf50

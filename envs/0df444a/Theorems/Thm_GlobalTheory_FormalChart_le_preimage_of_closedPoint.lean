@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalChart_le_preimage_of_closedPoint
 -- name    : GlobalTheory.FormalChart.le_preimage_of_closedPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:34:19.864508+00:00
 -- url     : https://prove2.me/theorems/1064573f-156d-4f8f-abdc-76a865f31509

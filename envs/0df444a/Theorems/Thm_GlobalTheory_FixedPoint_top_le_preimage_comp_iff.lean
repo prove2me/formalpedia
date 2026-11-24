@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FixedPoint_top_le_preimage_comp_iff
 -- name    : GlobalTheory.FixedPoint.top_le_preimage_comp_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:31:27.424201+00:00
 -- url     : https://prove2.me/theorems/57889ea9-eb74-4c34-85d7-0a442d1f8303

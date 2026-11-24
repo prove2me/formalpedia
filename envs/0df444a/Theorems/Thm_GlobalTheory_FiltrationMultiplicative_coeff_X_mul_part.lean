@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiltrationMultiplicative_coeff_X_mul_part
 -- name    : GlobalTheory.FiltrationMultiplicative.coeff_X_mul_part
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:24:52.706667+00:00
 -- url     : https://prove2.me/theorems/b671f457-8892-456f-8a6c-abd5d8bb5c72

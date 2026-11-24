@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Conv_differentiableOn_of_eq_ev
 -- name    : GlobalTheory.Conv.differentiableOn_of_eq_ev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:27:09.141814+00:00
 -- url     : https://prove2.me/theorems/30747ffb-8c95-4c85-90a5-a4b07fdde60a

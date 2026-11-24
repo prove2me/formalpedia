@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatDescent_act_lTensor_subtype
 -- name    : GlobalTheory.FlatDescent.act_lTensor_subtype
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:32:14.155859+00:00
 -- url     : https://prove2.me/theorems/d8e3eb70-65d1-4988-8f07-1790be399534

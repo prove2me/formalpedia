@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatBaseChangeIdeal_toImage_std
 -- name    : GlobalTheory.FlatBaseChangeIdeal.toImage_std
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:31:29.712811+00:00
 -- url     : https://prove2.me/theorems/8be45e84-3bdb-4719-811f-33b9a8c7e661

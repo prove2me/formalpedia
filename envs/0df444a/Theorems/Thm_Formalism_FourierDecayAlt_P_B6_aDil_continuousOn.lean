@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_aDil_continuousOn
 -- name    : Formalism.FourierDecayAlt.P.B6.aDil_continuousOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:56:49.539321+00:00
 -- url     : https://prove2.me/theorems/74b4c484-d64c-4b1a-a087-bc5cd37e6ba1

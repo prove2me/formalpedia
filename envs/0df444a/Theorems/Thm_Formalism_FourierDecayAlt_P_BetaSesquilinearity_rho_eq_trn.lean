@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BetaSesquilinearity_rho_eq_trn
 -- name    : Formalism.FourierDecayAlt.P.BetaSesquilinearity.rho_eq_trn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:29:54.40081+00:00
 -- url     : https://prove2.me/theorems/68f079cc-5128-4cb4-93be-773b9cacfdc7

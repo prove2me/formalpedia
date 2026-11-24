@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExistsSmulMemRange_exists_coeffs
 -- name    : GlobalTheory.ExistsSmulMemRange.exists_coeffs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:07:19.313569+00:00
 -- url     : https://prove2.me/theorems/677927f8-ccd9-49f3-84b5-65da7406ce30

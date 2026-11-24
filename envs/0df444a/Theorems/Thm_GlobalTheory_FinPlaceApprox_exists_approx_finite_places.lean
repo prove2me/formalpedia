@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinPlaceApprox_exists_approx_finite_places
 -- name    : GlobalTheory.FinPlaceApprox.exists_approx_finite_places
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:24:50.571572+00:00
 -- url     : https://prove2.me/theorems/885ff2e6-2add-4af8-9ebb-3479dd612b52

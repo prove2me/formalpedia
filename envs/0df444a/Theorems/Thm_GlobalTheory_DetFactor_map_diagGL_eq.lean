@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetFactor_map_diagGL_eq
 -- name    : GlobalTheory.DetFactor.map_diagGL_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:48:13.734504+00:00
 -- url     : https://prove2.me/theorems/755d4981-af25-4279-8aae-ba92bdfb5b4f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_DIV_tpExU_proof__f73447c0298f
 -- name    : P2M_Formalism_L2_DIV_tpExU_proof__f73447c0298f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:22:16.559711+00:00
 -- url     : https://prove2.me/theorems/e3226df8-138c-4fae-8c9c-3df6130badf3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinWeil_idx_congr_of_inf_eq
 -- name    : GlobalTheory.FinWeil.idx_congr_of_inf_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:26:11.643768+00:00
 -- url     : https://prove2.me/theorems/1b25c83d-a915-4f44-841c-6740f124a0b3

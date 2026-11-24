@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatFibreInjective_exists_of_torsion
 -- name    : GlobalTheory.FlatFibreInjective.exists_of_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:32:40.329393+00:00
 -- url     : https://prove2.me/theorems/30fe5c79-f044-4539-bc82-9128a4b18f7b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_EFG_coprime_two_pow
 -- name    : Formalism.FrobeniusOrbits.EFG.coprime_two_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:32:00.867171+00:00
 -- url     : https://prove2.me/theorems/4666c72a-4fc9-4c5a-8c3c-6424d810394c

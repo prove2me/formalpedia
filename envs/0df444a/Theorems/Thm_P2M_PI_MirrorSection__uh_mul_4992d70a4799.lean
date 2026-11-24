@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_MirrorSection__uh_mul_4992d70a4799
 -- name    : P2M_PI_MirrorSection__uh_mul_4992d70a4799
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:55:53.8958+00:00
 -- url     : https://prove2.me/theorems/2c100e3e-979b-4b29-9986-71eb69b01c0a

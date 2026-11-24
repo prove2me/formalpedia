@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinTypCount_inv_val
 -- name    : GlobalTheory.FinTypCount.inv_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:25:48.658551+00:00
 -- url     : https://prove2.me/theorems/e75bf8fb-c3a7-449b-be21-396e9f332505

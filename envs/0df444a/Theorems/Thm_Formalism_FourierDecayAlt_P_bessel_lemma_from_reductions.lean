@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_bessel_lemma_from_reductions
 -- name    : Formalism.FourierDecayAlt.P.bessel_lemma_from_reductions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:35:52.76069+00:00
 -- url     : https://prove2.me/theorems/68b1826e-b9d7-4763-a43d-b7010144534d

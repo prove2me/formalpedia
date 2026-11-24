@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DictPinCompare_det_of_unitary
 -- name    : GlobalTheory.DictPinCompare.det_of_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:18:49.01494+00:00
 -- url     : https://prove2.me/theorems/1bab6f97-1386-4427-b130-070846854e4b

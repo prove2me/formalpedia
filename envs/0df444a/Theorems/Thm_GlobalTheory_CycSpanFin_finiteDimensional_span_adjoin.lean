@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycSpanFin_finiteDimensional_span_adjoin
 -- name    : GlobalTheory.CycSpanFin.finiteDimensional_span_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:34:13.561685+00:00
 -- url     : https://prove2.me/theorems/11276c74-06cb-40e7-8611-d9066122c319

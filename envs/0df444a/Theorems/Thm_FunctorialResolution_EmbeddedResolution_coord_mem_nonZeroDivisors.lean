@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_coord_mem_nonZeroDivisors
 -- name    : FunctorialResolution.EmbeddedResolution.coord_mem_nonZeroDivisors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:06:30.804946+00:00
 -- url     : https://prove2.me/theorems/2214c36b-695c-4bd4-8115-01da976dfef8

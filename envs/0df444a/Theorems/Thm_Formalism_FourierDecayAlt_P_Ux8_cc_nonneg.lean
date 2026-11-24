@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux8_cc_nonneg
 -- name    : Formalism.FourierDecayAlt.P.Ux8.cc_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:55:01.009207+00:00
 -- url     : https://prove2.me/theorems/f338fbc4-0188-4b72-b85c-86c338f5acee

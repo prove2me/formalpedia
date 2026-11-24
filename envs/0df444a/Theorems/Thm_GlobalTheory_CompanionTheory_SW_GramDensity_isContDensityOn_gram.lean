@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GramDensity_isContDensityOn_gram
 -- name    : GlobalTheory.CompanionTheory.SW.GramDensity.isContDensityOn_gram
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:31:22.134799+00:00
 -- url     : https://prove2.me/theorems/3af9990d-c3f0-4ac3-bb55-e1c07a93f15b

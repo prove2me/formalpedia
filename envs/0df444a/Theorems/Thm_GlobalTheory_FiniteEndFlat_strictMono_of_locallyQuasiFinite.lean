@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteEndFlat_strictMono_of_locallyQuasiFinite
 -- name    : GlobalTheory.FiniteEndFlat.strictMono_of_locallyQuasiFinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:30:46.201155+00:00
 -- url     : https://prove2.me/theorems/94af6a79-75a4-47eb-854c-a945382229d5

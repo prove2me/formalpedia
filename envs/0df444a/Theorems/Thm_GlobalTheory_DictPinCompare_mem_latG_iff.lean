@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DictPinCompare_mem_latG_iff
 -- name    : GlobalTheory.DictPinCompare.mem_latG_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:18:09.728244+00:00
 -- url     : https://prove2.me/theorems/f1cc614a-e33f-45d5-81ad-682a49548243

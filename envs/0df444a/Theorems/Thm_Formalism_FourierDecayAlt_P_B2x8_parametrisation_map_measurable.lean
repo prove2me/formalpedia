@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_parametrisation_map_measurable
 -- name    : Formalism.FourierDecayAlt.P.B2x8.parametrisation_map_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:01:18.557026+00:00
 -- url     : https://prove2.me/theorems/ef5f34e3-29fe-4573-ac62-c2d1c4f5c483

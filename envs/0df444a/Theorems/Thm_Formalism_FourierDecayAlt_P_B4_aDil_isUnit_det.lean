@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B4_aDil_isUnit_det
 -- name    : Formalism.FourierDecayAlt.P.B4.aDil_isUnit_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:27:56.80077+00:00
 -- url     : https://prove2.me/theorems/538e2c6c-dffd-496e-8159-497eab660266

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EvaluationSpanTopToricGeometry_exists_sum_mul
 -- name    : GlobalTheory.EvaluationSpanTopToricGeometry.exists_sum_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:50:55.676736+00:00
 -- url     : https://prove2.me/theorems/e1396d10-b830-4fa6-891b-a968cafc29c2

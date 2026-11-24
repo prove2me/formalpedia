@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalConnection_vf_zeroc
 -- name    : GlobalTheory.FormalConnection.vf_zeroc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:35:12.1198+00:00
 -- url     : https://prove2.me/theorems/e8f8c2b4-1e89-41c3-a034-11436fad4b30

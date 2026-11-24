@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FockHighestWeight_eval_idFrame_eq_coeff
 -- name    : GlobalTheory.FockHighestWeight.eval_idFrame_eq_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:34:39.103798+00:00
 -- url     : https://prove2.me/theorems/81e7ee73-f97d-4793-b8ba-422822b22c63

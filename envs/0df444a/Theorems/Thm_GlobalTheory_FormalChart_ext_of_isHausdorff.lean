@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalChart_ext_of_isHausdorff
 -- name    : GlobalTheory.FormalChart.ext_of_isHausdorff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:34:28.759744+00:00
 -- url     : https://prove2.me/theorems/6278be80-8f70-4c3f-91b0-edf88064260f

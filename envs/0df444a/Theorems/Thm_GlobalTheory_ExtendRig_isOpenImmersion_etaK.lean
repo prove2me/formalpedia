@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtendRig_isOpenImmersion_etaK
 -- name    : GlobalTheory.ExtendRig.isOpenImmersion_etaK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:17:56.699088+00:00
 -- url     : https://prove2.me/theorems/84fa1738-2919-4b90-9af1-47d8c0602242

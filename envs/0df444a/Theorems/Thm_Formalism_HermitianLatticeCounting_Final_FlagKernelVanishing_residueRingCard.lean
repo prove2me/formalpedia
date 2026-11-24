@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_FlagKernelVanishing_residueRingCard
 -- name    : Formalism.HermitianLatticeCounting.Final.FlagKernelVanishing.residueRingCard
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:33:16.605435+00:00
 -- url     : https://prove2.me/theorems/44b062be-0edf-42cc-b244-5fd5fb254b6d

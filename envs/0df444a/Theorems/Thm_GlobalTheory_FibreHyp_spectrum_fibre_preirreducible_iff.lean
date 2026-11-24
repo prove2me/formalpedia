@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreHyp_spectrum_fibre_preirreducible_iff
 -- name    : GlobalTheory.FibreHyp.spectrum_fibre_preirreducible_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:24:34.622117+00:00
 -- url     : https://prove2.me/theorems/542d04cf-da3d-412d-ac4a-3f35f59ae3a1

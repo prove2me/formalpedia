@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibLine_qMat_diagonal
 -- name    : GlobalTheory.FibLine.qMat_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:23:12.597221+00:00
 -- url     : https://prove2.me/theorems/e038d03b-a1d2-4f25-8b4d-da28311aca5a

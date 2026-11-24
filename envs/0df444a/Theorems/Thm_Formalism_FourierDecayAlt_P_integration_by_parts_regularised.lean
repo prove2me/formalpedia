@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_integration_by_parts_regularised
 -- name    : Formalism.FourierDecayAlt.P.integration_by_parts_regularised
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:29:03.09938+00:00
 -- url     : https://prove2.me/theorems/e0b957d1-d0b2-4b52-89a8-da79bddcfd72

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_lim_herm_mem
 -- name    : GlobalTheory.AdLat.lim_herm_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:21:04.066744+00:00
 -- url     : https://prove2.me/theorems/78de9dcb-7e5c-4434-a8ca-618ba03be399

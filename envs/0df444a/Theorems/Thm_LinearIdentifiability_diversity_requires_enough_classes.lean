@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearIdentifiability_diversity_requires_enough_classes
 -- name    : LinearIdentifiability.diversity_requires_enough_classes
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T07:38:14.170601+00:00
 -- url     : https://prove2.me/theorems/e2c0dc9c-73f9-4055-9760-d779b76179d9

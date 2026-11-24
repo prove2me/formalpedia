@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B4_op_letter_smul
 -- name    : Formalism.FourierDecayAlt.P.B4.op_letter_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:31:37.270951+00:00
 -- url     : https://prove2.me/theorems/e1e4e3c5-ff61-4341-b730-2270fce1e240

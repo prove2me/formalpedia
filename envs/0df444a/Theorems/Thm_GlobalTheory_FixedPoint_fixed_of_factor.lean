@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FixedPoint_fixed_of_factor
 -- name    : GlobalTheory.FixedPoint.fixed_of_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:31:29.968021+00:00
 -- url     : https://prove2.me/theorems/7d44e837-806a-4011-8d5c-f520f7d2de36

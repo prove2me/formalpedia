@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinAffineCharts_exists_finite_affine_cover
 -- name    : GlobalTheory.FinAffineCharts.exists_finite_affine_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:24:14.460563+00:00
 -- url     : https://prove2.me/theorems/c1f3d389-5b5c-4750-8bee-71f7696273ed

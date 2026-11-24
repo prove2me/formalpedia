@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnRT_tau_e
 -- name    : PI.QnRT.tau_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:54:25.037591+00:00
 -- url     : https://prove2.me/theorems/0a1aa5ac-1a3e-4900-b0b8-2178c580ae2a

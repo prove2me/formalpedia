@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Galois_hostE_le_fixedField
 -- name    : Formalism.FrobeniusOrbits.Galois.hostE_le_fixedField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:52:33.690814+00:00
 -- url     : https://prove2.me/theorems/a342d63b-e86d-4ad6-8689-7d2d34a17f87

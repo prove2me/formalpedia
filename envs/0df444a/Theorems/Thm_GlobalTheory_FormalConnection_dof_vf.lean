@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalConnection_dof_vf
 -- name    : GlobalTheory.FormalConnection.dof_vf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:37:38.230328+00:00
 -- url     : https://prove2.me/theorems/92b2265a-24b2-41de-a211-43d3205f67cf

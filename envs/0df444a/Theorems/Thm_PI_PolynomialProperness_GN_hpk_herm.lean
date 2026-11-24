@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_GN_hpk_herm
 -- name    : PI.PolynomialProperness.GN.hpk_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:59:25.463793+00:00
 -- url     : https://prove2.me/theorems/f9482fec-a35a-4791-b06c-538b938d2d8d

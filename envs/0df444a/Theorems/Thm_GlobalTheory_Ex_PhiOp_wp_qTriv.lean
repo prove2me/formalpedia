@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_PhiOp_wp_qTriv
 -- name    : GlobalTheory.Ex.PhiOp.wp_qTriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:06:18.263089+00:00
 -- url     : https://prove2.me/theorems/821c1bc1-a657-47dd-aadd-817b3a79a614

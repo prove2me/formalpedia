@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_charpoly_eq_finsum_psi
 -- name    : GlobalTheory.CuspGL.charpoly_eq_finsum_psi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:32:22.023796+00:00
 -- url     : https://prove2.me/theorems/b7527af7-9e01-462e-bf01-bc9b57581cd1

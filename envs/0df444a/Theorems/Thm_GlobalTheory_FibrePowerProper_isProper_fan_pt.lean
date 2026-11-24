@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibrePowerProper_isProper_fan_pt
 -- name    : GlobalTheory.FibrePowerProper.isProper_fan_pt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:24:35.029808+00:00
 -- url     : https://prove2.me/theorems/2d9bc9b8-4a72-44b2-8d64-4dab43f5db2a

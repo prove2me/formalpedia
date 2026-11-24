@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Mu_mu_no_odd
 -- name    : Formalism.FrobeniusOrbits.Mu.mu_no_odd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:11:36.432124+00:00
 -- url     : https://prove2.me/theorems/635f3427-a391-4f50-8aec-d8cf4366798b

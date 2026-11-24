@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux5_gN_le_of_EB
 -- name    : Formalism.FourierDecayAlt.P.Ux5.gN_le_of_EB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:54:43.324923+00:00
 -- url     : https://prove2.me/theorems/f50e6242-c7c8-488f-bb15-18deaea3e28b

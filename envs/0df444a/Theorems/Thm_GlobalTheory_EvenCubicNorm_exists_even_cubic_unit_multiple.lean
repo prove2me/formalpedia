@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EvenCubicNorm_exists_even_cubic_unit_multiple
 -- name    : GlobalTheory.EvenCubicNorm.exists_even_cubic_unit_multiple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:06:12.395182+00:00
 -- url     : https://prove2.me/theorems/f4b0e2c4-be54-4072-9495-f49534bc2724

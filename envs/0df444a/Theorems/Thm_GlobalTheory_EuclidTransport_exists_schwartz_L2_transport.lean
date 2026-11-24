@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EuclidTransport_exists_schwartz_L2_transport
 -- name    : GlobalTheory.EuclidTransport.exists_schwartz_L2_transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:59:26.915238+00:00
 -- url     : https://prove2.me/theorems/9f1b3d9d-7856-451d-8f6c-c1fafae21eeb

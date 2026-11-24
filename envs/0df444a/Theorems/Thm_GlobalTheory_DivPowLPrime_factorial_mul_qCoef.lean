@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DivPowLPrime_factorial_mul_qCoef
 -- name    : GlobalTheory.DivPowLPrime.factorial_mul_qCoef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:50:30.284578+00:00
 -- url     : https://prove2.me/theorems/3044aec8-1663-413d-a314-fc883b1d9a6b

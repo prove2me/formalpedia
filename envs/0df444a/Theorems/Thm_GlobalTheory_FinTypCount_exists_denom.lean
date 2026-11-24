@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinTypCount_exists_denom
 -- name    : GlobalTheory.FinTypCount.exists_denom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:26:23.233065+00:00
 -- url     : https://prove2.me/theorems/fc83f46f-8eae-4bba-8e3f-4e732855d538

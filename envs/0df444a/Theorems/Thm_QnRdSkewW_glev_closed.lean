@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QnRdSkewW_glev_closed
 -- name    : QnRdSkewW.glev_closed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:01:44.204458+00:00
 -- url     : https://prove2.me/theorems/b22e51c4-83cc-42f1-b5c8-42543c231bf9

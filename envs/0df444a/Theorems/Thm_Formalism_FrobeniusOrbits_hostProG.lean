@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_hostProG
 -- name    : Formalism.FrobeniusOrbits.hostProG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:31:56.12979+00:00
 -- url     : https://prove2.me/theorems/71245585-485c-4f3c-923c-7e9289321fc5

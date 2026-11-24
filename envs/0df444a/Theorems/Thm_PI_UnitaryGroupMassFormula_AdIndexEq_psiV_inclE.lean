@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_psiV_inclE
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.psiV_inclE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:50:34.218794+00:00
 -- url     : https://prove2.me/theorems/f5e456de-3d69-4592-b02c-a89e3d41cec1

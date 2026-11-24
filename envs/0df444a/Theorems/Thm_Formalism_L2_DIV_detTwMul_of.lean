@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_detTwMul_of
 -- name    : Formalism.L2.DIV.detTwMul_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:22:29.635091+00:00
 -- url     : https://prove2.me/theorems/457d8487-9eae-4cd3-a4a5-0f5fc5a5d8a0

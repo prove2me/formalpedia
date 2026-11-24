@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCocycle_subst_elim2
 -- name    : GlobalTheory.FormalCocycle.subst_elim2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:33:36.899822+00:00
 -- url     : https://prove2.me/theorems/71b4c62b-d2b1-4f8b-b785-8c1414b35574

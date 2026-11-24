@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldUnitsQuotFG_finite_spec
 -- name    : GlobalTheory.FieldUnitsQuotFG.finite_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:24:44.732798+00:00
 -- url     : https://prove2.me/theorems/ddd1d925-fe61-456d-8a5f-9b0289b6d748

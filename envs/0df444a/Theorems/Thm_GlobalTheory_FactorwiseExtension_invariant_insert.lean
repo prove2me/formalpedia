@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FactorwiseExtension_invariant_insert
 -- name    : GlobalTheory.FactorwiseExtension.invariant_insert
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:17:49.356652+00:00
 -- url     : https://prove2.me/theorems/80b8ca74-cc52-4b57-8c11-779d54ce3172

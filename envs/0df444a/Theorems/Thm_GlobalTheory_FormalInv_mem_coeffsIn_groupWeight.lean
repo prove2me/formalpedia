@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalInv_mem_coeffsIn_groupWeight
 -- name    : GlobalTheory.FormalInv.mem_coeffsIn_groupWeight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:34:37.64526+00:00
 -- url     : https://prove2.me/theorems/1ac976d3-2621-4146-a070-0b9ef7fe4e17

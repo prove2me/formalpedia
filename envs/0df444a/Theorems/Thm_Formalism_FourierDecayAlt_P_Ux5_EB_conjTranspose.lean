@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux5_EB_conjTranspose
 -- name    : Formalism.FourierDecayAlt.P.Ux5.EB_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:58:27.405632+00:00
 -- url     : https://prove2.me/theorems/823a0340-61c0-4285-8a43-d7ed02b9e960

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatDescent_bijective_baseChange_iff
 -- name    : GlobalTheory.FlatDescent.bijective_baseChange_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:32:17.387803+00:00
 -- url     : https://prove2.me/theorems/44ffc680-1ee3-432d-9fa4-12e7cd171753

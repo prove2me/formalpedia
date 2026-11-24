@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_IsIwasawa_npow_iwAbs_mem
 -- name    : GlobalTheory.Doubling.IsIwasawa.npow_iwAbs_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:50:39.208992+00:00
 -- url     : https://prove2.me/theorems/2380a5b0-2a64-4b1c-bace-ba778c630aea

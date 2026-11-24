@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenSplit_det_sq_conjugateHom
 -- name    : GlobalTheory.EigenSplit.det_sq_conjugateHom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:33:39.542491+00:00
 -- url     : https://prove2.me/theorems/e587dc34-3be0-441a-9e74-a9a1319d8df6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux2_supS_eq
 -- name    : Formalism.FourierDecayAlt.P.Ux2.supS_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:59:14.338922+00:00
 -- url     : https://prove2.me/theorems/aeab7ae1-6e71-43f3-a781-d4a0daf2969d

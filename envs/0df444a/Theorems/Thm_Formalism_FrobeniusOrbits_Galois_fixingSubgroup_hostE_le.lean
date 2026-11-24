@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Galois_fixingSubgroup_hostE_le
 -- name    : Formalism.FrobeniusOrbits.Galois.fixingSubgroup_hostE_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:52:25.936545+00:00
 -- url     : https://prove2.me/theorems/b32c452b-095a-4d59-843c-6fda7fee75b4

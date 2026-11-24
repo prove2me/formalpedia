@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Equi_exists_bounded_infDomain
 -- name    : GlobalTheory.CompanionTheory.Equi.exists_bounded_infDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:37:50.853678+00:00
 -- url     : https://prove2.me/theorems/ac1fdfe7-8ebb-404c-9801-1495acde0980

@@ -1,0 +1,76 @@
+-- Prove2me | solution 1 for FunctorialResolution.EmbeddedResolution.orderAt_mul
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-8
+-- created : 2026-11-24T15:15:44.60993+00:00
+-- url     : https://prove2.me/submissions/3347338f-9aed-444d-ae2d-08154092a981
+
+import Mathlib
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_AdaptedParameters
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_ChartRing
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_EtaleCoordinates
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_EtaleChartExistence
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_FormallyEtaleCoordinates
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_DerivativeIdealSheaf
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_DerivativeIdealEtaleBaseChange
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_IdealSheafOrder
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_LeadingForm
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_DerivativeIdealSheafOrderDecrease
+import Definitions.Def_Development_ResolutionOfSingularities_Foundations_BlowupUniversalProperty
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionOfSingularities
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_OrderAtMultiplicativity
+import Theorems.Thm_FunctorialResolution_EmbeddedResolution_exists_regularParameters_stalk_of_smooth
+import Theorems.Thm_Derivation_liftToLocalization_algebraMap
+import Theorems.Thm_Derivation_mapToLocalization_algebraMap
+import Theorems.Thm_FunctorialResolution_EmbeddedResolution_EtaleChart_coordRingHom_X
+import Theorems.Thm_FunctorialResolution_EmbeddedResolution_EtaleChart_ofCoords_map
+import Theorems.Thm_FunctorialResolution_EmbeddedResolution_EtaleCoordinates_basisDerivation_apply
+import Theorems.Thm_FunctorialResolution_EmbeddedResolution_JacobianCriterion_coordBasis_apply
+import Theorems.Thm_FunctorialResolution_EmbeddedResolution_JacobianCriterion_inducedBasis_apply
+import Theorems.Thm_FunctorialResolution_EmbeddedResolution_JacobianCriterion_tensorKaehlerBasis_mapBaseChange
+import Theorems.Thm_FunctorialResolution_EmbeddedResolution_derivIdealSheafIterate_ideal
+import Theorems.Thm_FunctorialResolution_EmbeddedResolution_derivIdealSheafIterate_zero
+import Theorems.Thm_FunctorialResolution_EmbeddedResolution_derivIdealSheaf_ideal
+import Theorems.Thm_FunctorialResolution_EmbeddedResolution_idealOrder_mul
+import Theorems.Thm_FunctorialResolution_EmbeddedResolution_isNoetherianRing_stalk
+import Theorems.Thm_FunctorialResolution_EmbeddedResolution_isUnit_natCast_stalk
+import Theorems.Thm_FunctorialResolution_EmbeddedResolution_orderAt_eq_idealOrder
+import Theorems.Thm_FunctorialResolution_EmbeddedResolution_stalkIdeal_mul
+import Theorems.Thm_FunctorialResolution_EmbeddedResolution_unitMultiIndex_apply
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+attribute [local simp] Derivation.liftToLocalization_algebraMap
+attribute [local simp] Derivation.mapToLocalization_algebraMap
+attribute [local simp] FunctorialResolution.EmbeddedResolution.EtaleChart.coordRingHom_X
+attribute [local simp] FunctorialResolution.EmbeddedResolution.EtaleChart.ofCoords_map
+attribute [local simp] FunctorialResolution.EmbeddedResolution.EtaleCoordinates.basisDerivation_apply
+attribute [local simp] FunctorialResolution.EmbeddedResolution.JacobianCriterion.coordBasis_apply
+attribute [local simp] FunctorialResolution.EmbeddedResolution.JacobianCriterion.inducedBasis_apply
+attribute [local simp] FunctorialResolution.EmbeddedResolution.JacobianCriterion.tensorKaehlerBasis_mapBaseChange
+attribute [local simp] FunctorialResolution.EmbeddedResolution.derivIdealSheafIterate_ideal
+attribute [local simp] FunctorialResolution.EmbeddedResolution.derivIdealSheafIterate_zero
+attribute [local simp] FunctorialResolution.EmbeddedResolution.derivIdealSheaf_ideal
+attribute [local simp] FunctorialResolution.EmbeddedResolution.unitMultiIndex_apply
+
+
+
+set_option autoImplicit false
+universe u
+open AlgebraicGeometry CategoryTheory TopologicalSpace
+open FunctorialResolution FunctorialResolution.EmbeddedResolution
+namespace FunctorialResolution.EmbeddedResolution
+theorem _root_.solution (k : Type u) [Field k] [CharZero k] {X : Scheme.{u}}
+    (p : X ⟶ Spec (CommRingCat.of k)) [AlgebraicGeometry.Smooth p]
+    (I J : X.IdealSheafData) (x : X) :
+    orderAt (I * J) x = orderAt I x + orderAt J x := by
+  let _ := stalkAlgebra k p x
+  have := isNoetherianRing_stalk k p x
+  obtain ⟨h, y, D, hspan, hD, hDD⟩ := exists_regularParameters_stalk_of_smooth k p x
+  simp only [orderAt_eq_idealOrder, stalkIdeal_mul]
+  exact idealOrder_mul y D hspan hD hDD (fun n hn => isUnit_natCast_stalk k p x hn)
+    (stalkIdeal I x) (stalkIdeal J x)
+end FunctorialResolution.EmbeddedResolution

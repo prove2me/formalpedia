@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameValue_isLift_cube
 -- name    : GlobalTheory.FrameValue.isLift_cube
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:01:21.208804+00:00
 -- url     : https://prove2.me/theorems/02777006-51e3-472e-a358-3905c6247d04

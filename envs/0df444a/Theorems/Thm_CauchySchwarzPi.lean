@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CauchySchwarzPi
 -- name    : CauchySchwarzPi
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:58:38.251801+00:00
 -- url     : https://prove2.me/theorems/f5d7bc4a-b493-4e58-a7cf-86b9ae8f0177

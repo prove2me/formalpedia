@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreUnif_unitOn_injective
 -- name    : GlobalTheory.FibreUnif.unitOn_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:25:13.929907+00:00
 -- url     : https://prove2.me/theorems/1f94e96d-071b-499b-8f08-5db644e7c7ab

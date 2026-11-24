@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DictPinCompare_ratTo_mem
 -- name    : GlobalTheory.DictPinCompare.ratTo_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:18:36.615417+00:00
 -- url     : https://prove2.me/theorems/397a7422-fc94-45c4-8cd7-c5e547c37df6

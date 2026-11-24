@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalAlg_TowerSq_isPullback_id_of_mono
 -- name    : GlobalTheory.FormalAlg.TowerSq.isPullback_id_of_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:34:09.428917+00:00
 -- url     : https://prove2.me/theorems/804f6bc3-f54b-4d30-9e4f-fedaf0502798

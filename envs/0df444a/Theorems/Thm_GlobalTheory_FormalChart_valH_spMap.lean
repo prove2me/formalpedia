@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalChart_valH_spMap
 -- name    : GlobalTheory.FormalChart.valH_spMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:34:09.874798+00:00
 -- url     : https://prove2.me/theorems/1cb12e58-b7a9-4587-8ade-945e26301f44

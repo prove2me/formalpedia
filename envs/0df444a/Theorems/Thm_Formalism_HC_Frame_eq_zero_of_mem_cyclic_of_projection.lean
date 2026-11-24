@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_eq_zero_of_mem_cyclic_of_projection
 -- name    : Formalism.HC.Frame.eq_zero_of_mem_cyclic_of_projection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:54:46.67853+00:00
 -- url     : https://prove2.me/theorems/7e5646a2-8491-411f-af22-b2d9edaf5c99

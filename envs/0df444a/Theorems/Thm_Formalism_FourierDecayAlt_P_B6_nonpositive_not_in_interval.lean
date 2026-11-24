@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_nonpositive_not_in_interval
 -- name    : Formalism.FourierDecayAlt.P.B6.nonpositive_not_in_interval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:56:59.511519+00:00
 -- url     : https://prove2.me/theorems/22874a40-c9f1-4406-92a6-7ffcab82ebd5

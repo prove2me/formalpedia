@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldTransport_exists_isField_transport
 -- name    : GlobalTheory.FieldTransport.exists_isField_transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:25:14.311835+00:00
 -- url     : https://prove2.me/theorems/07e0dc72-55f8-4195-ad18-e7b3eb46b6a5

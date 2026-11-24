@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinEt_eq_iff_eqLocus_eq_univ
 -- name    : GlobalTheory.FinEt.eq_iff_eqLocus_eq_univ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:23:59.138941+00:00
 -- url     : https://prove2.me/theorems/00995260-131e-4eaf-a165-9d91be7d32ff

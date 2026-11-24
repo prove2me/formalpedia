@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_EFG_card_Psi
 -- name    : Formalism.FrobeniusOrbits.EFG.card_Psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:10:45.791433+00:00
 -- url     : https://prove2.me/theorems/ba206d1d-9d0b-417d-9a60-1f39c8f34d6a

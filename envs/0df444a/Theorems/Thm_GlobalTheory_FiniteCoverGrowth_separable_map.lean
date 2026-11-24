@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteCoverGrowth_separable_map
 -- name    : GlobalTheory.FiniteCoverGrowth.separable_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:29:45.00579+00:00
 -- url     : https://prove2.me/theorems/eaca79e0-8eff-463a-a89b-d95f563f1ec8

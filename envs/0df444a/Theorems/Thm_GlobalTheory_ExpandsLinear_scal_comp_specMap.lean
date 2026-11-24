@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpandsLinear_scal_comp_specMap
 -- name    : GlobalTheory.ExpandsLinear.scal_comp_specMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:07:51.454256+00:00
 -- url     : https://prove2.me/theorems/e9442410-1ac4-4a52-934c-c8dfd1b7f45c

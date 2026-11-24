@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharConductor_exists_conductor_exponent
 -- name    : GlobalTheory.CharConductor.exists_conductor_exponent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:07:53.408701+00:00
 -- url     : https://prove2.me/theorems/e3159c09-c899-49c2-8b4f-a29028a2896b

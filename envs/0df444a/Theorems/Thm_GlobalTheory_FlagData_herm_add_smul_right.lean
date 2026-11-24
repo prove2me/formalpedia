@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagData_herm_add_smul_right
 -- name    : GlobalTheory.FlagData.herm_add_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:32:10.044834+00:00
 -- url     : https://prove2.me/theorems/470751f8-7e3c-47e3-8bf7-7b6e7e712989

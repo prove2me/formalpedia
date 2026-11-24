@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagDim_card_pairs_lt
 -- name    : GlobalTheory.FlagDim.card_pairs_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:32:00.230295+00:00
 -- url     : https://prove2.me/theorems/32fe72eb-53ba-4b14-9f92-91707ac0a004

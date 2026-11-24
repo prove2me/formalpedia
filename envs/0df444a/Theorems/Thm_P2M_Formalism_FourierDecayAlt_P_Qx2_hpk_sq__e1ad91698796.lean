@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_Qx2_hpk_sq__e1ad91698796
 -- name    : P2M_Formalism_FourierDecayAlt_P_Qx2_hpk_sq__e1ad91698796
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:09:36.821171+00:00
 -- url     : https://prove2.me/theorems/9af82733-1b86-445b-be97-2f201be6eb9b

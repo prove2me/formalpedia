@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_PrincipalizationRules_isMaxOrderReduction_outputLevelData
 -- name    : FunctorialResolution.EmbeddedResolution.PrincipalizationRules.isMaxOrderReduction_outputLevelData
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:33:18.994653+00:00
 -- url     : https://prove2.me/theorems/fb4a527c-5aa1-4794-821d-e2abdf35b7ae

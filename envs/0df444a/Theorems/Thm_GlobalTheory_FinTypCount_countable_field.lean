@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinTypCount_countable_field
 -- name    : GlobalTheory.FinTypCount.countable_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:25:48.706341+00:00
 -- url     : https://prove2.me/theorems/d755ca3b-d9c0-46b6-abac-6c5f21128fd2

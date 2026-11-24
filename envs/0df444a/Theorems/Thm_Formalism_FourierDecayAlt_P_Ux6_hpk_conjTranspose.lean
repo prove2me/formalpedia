@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux6_hpk_conjTranspose
 -- name    : Formalism.FourierDecayAlt.P.Ux6.hpk_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:58:05.293215+00:00
 -- url     : https://prove2.me/theorems/72e50b7d-d743-4544-abd3-3f6f7d7dacab

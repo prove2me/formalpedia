@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_exists_leviElt_mem_UJ
 -- name    : GlobalTheory.Doubling.exists_leviElt_mem_UJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:51:22.266238+00:00
 -- url     : https://prove2.me/theorems/beda8555-0d69-4bca-b6d3-bfa3cc558679

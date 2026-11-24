@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux3_det_lowW
 -- name    : Formalism.FourierDecayAlt.P.Ux3.det_lowW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:49:23.840424+00:00
 -- url     : https://prove2.me/theorems/7203beb2-b9b1-4395-bbb3-f7ef0f50ba20

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCalc_coeff_law_fst
 -- name    : GlobalTheory.FormalCalc.coeff_law_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:34:14.89059+00:00
 -- url     : https://prove2.me/theorems/b8e747b6-5bc0-4606-9d11-2f443cef6f7f

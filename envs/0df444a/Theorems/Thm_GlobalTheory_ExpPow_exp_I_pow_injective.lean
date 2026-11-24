@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpPow_exp_I_pow_injective
 -- name    : GlobalTheory.ExpPow.exp_I_pow_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:07:30.551749+00:00
 -- url     : https://prove2.me/theorems/a1432525-b2ef-407a-a346-694591a9a560

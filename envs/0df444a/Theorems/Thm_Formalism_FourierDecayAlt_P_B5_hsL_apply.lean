@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B5_hsL_apply
 -- name    : Formalism.FourierDecayAlt.P.B5.hsL_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:47:47.642117+00:00
 -- url     : https://prove2.me/theorems/9d526b3d-515c-4e4b-837c-a9ce08faee85

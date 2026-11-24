@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NFOne_sg_val
 -- name    : NFOne.sg_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:06:27.550902+00:00
 -- url     : https://prove2.me/theorems/746e4edc-a90d-4f22-b7c9-4a89d437a22b

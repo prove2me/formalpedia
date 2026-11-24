@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIQnLT_Lz_conjTranspose
 -- name    : PIQnLT.Lz_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:55:19.127838+00:00
 -- url     : https://prove2.me/theorems/cef06363-143d-4ad8-bc67-08a88344adc9

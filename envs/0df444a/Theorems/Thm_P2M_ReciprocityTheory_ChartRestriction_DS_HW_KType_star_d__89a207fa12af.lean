@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_HW_KType_star_d__89a207fa12af
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_HW_KType_star_d__89a207fa12af
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:55:57.45907+00:00
 -- url     : https://prove2.me/theorems/4889446d-9cb5-445d-b784-0dc51a935e15

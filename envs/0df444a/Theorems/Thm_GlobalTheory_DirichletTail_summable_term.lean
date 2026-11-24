@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DirichletTail_summable_term
 -- name    : GlobalTheory.DirichletTail.summable_term
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:33:11.237319+00:00
 -- url     : https://prove2.me/theorems/011d6e69-4a4d-4a3f-8786-891ba1801ab2

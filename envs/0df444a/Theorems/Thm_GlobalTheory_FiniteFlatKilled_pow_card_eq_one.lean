@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteFlatKilled_pow_card_eq_one
 -- name    : GlobalTheory.FiniteFlatKilled.pow_card_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:30:24.46586+00:00
 -- url     : https://prove2.me/theorems/2b20d892-4e09-40dc-acf9-8bc3db4831d3

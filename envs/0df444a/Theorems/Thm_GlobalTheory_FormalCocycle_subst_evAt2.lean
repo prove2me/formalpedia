@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCocycle_subst_evAt2
 -- name    : GlobalTheory.FormalCocycle.subst_evAt2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:34:54.671239+00:00
 -- url     : https://prove2.me/theorems/2d3f6973-4a79-4ade-9c78-3babc79e4b75

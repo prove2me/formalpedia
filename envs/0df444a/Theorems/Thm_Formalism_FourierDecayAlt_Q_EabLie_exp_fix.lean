@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_EabLie_exp_fix
 -- name    : Formalism.FourierDecayAlt.Q.EabLie.exp_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:58:17.45673+00:00
 -- url     : https://prove2.me/theorems/240d2920-5936-4063-b09e-d1c82aa3a936

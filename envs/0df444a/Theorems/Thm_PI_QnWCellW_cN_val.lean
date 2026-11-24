@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnWCellW_cN_val
 -- name    : PI.QnWCellW.cN_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:45:35.000369+00:00
 -- url     : https://prove2.me/theorems/361d9c4b-8bef-4acb-9b68-4e87cb7a99ab

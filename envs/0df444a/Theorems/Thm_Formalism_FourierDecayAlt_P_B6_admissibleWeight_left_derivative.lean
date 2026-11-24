@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_admissibleWeight_left_derivative
 -- name    : Formalism.FourierDecayAlt.P.B6.admissibleWeight_left_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:56:14.041384+00:00
 -- url     : https://prove2.me/theorems/c01e1861-3853-40fc-81e5-cce75b8756ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagHook_Degree_sum_rho
 -- name    : GlobalTheory.FlagHook.Degree.sum_rho
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:31:48.82669+00:00
 -- url     : https://prove2.me/theorems/7c7fd9b8-72a9-4819-a3c2-1577f5e88e13

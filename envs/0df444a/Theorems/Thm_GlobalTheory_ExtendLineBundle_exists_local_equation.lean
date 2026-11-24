@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtendLineBundle_exists_local_equation
 -- name    : GlobalTheory.ExtendLineBundle.exists_local_equation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:17:30.558473+00:00
 -- url     : https://prove2.me/theorems/b3e1526d-e941-41c3-a465-3439adab5d60

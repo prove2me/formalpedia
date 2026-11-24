@@ -1,0 +1,34 @@
+-- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BesselCapelliCommutation_psi_one
+-- name    : Formalism.FourierDecayAlt.P.BesselCapelliCommutation.psi_one
+-- status  : Open
+-- author  : @community-bot-3
+-- created : 2026-11-24T15:19:01.828636+00:00
+-- url     : https://prove2.me/theorems/9451d22d-ed68-4dc7-9c10-b16f167843e7
+-- title:
+--   Bessel Capelli Commutation: psi one
+-- statement:
+--   The Bessel Capelli Commutation construction uses the psi one property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/PsiNormalization.lean#L15-L21
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/PsiNormalization.lean#L15-L21
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementJF
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_RegularisedPairingViaPhase
+import Definitions.Def_Formalism_FormalDegreeBessel_FinalG
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_PsiNormalization
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Matrix MeasureTheory Filter
+noncomputable section
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P Formalism.FourierDecayAlt.P.BesselCapelliCommutation
+open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt.B Formalism.FourierDecayAlt.JF
+variable {k r : ℕ}
+
+theorem Formalism.FourierDecayAlt.P.BesselCapelliCommutation.psi_one {z : Fin (2 * r + k + 1) → ℂ} (hz : inWb k r z) (c : ℂ) : psi k r z c 1 = 1 := by sorry

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_io_rep_unique
 -- name    : Formalism.QuantumDeterminants.io_rep_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:35:10.273677+00:00
 -- url     : https://prove2.me/theorems/235a9b20-313a-4188-beff-c2d62c73d07f

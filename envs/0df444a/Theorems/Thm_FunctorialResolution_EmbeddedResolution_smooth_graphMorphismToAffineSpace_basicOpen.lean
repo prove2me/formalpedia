@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_smooth_graphMorphismToAffineSpace_basicOpen
 -- name    : FunctorialResolution.EmbeddedResolution.smooth_graphMorphismToAffineSpace_basicOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:55:03.211895+00:00
 -- url     : https://prove2.me/theorems/46aa8056-b56e-41fd-aed7-7275dfaf9669

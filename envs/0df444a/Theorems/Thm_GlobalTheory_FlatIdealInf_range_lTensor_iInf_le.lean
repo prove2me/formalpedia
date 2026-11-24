@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatIdealInf_range_lTensor_iInf_le
 -- name    : GlobalTheory.FlatIdealInf.range_lTensor_iInf_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:32:40.949501+00:00
 -- url     : https://prove2.me/theorems/7ffb4cba-8239-4573-8d27-db1fa5e8012f

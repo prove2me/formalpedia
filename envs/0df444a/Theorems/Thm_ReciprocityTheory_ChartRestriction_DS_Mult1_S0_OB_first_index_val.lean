@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Mult1_S0_OB_first_index_val
 -- name    : ReciprocityTheory.ChartRestriction.DS.Mult1.S0.OB.first_index_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:52:20.199426+00:00
 -- url     : https://prove2.me/theorems/8164ad84-6ec2-4678-99e4-85a9e62a42bb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagSecProbe_dom_nonempty
 -- name    : GlobalTheory.FlagSecProbe.dom_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:31:59.745152+00:00
 -- url     : https://prove2.me/theorems/283ee4ac-532c-4e43-9309-eec7f360f554

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EmbUnitBallConj_exists_conj
 -- name    : GlobalTheory.EmbUnitBallConj.exists_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:58:04.62519+00:00
 -- url     : https://prove2.me/theorems/84e39352-bd3f-4001-90fe-6958195ade69

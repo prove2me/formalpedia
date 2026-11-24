@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamGerm_Pt1_colVal_smul
 -- name    : GlobalTheory.FamGerm.Pt1.colVal_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:17:42.360594+00:00
 -- url     : https://prove2.me/theorems/514d71d6-3724-4000-816e-14205c4647b0

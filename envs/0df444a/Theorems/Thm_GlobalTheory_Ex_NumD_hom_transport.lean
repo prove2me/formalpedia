@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_NumD_hom_transport
 -- name    : GlobalTheory.Ex.NumD.hom_transport
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:01:13.543711+00:00
 -- url     : https://prove2.me/theorems/8399c391-5bdf-434b-b719-92f26b911723

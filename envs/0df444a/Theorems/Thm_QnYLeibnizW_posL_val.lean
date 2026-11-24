@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QnYLeibnizW_posL_val
 -- name    : QnYLeibnizW.posL_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:05:56.2066+00:00
 -- url     : https://prove2.me/theorems/478b919b-e1b8-4974-8d76-281627f75d7a

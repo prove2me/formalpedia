@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Conv_exists_valAt__halfCurve_23b766881e41
 -- name    : P2M_GlobalTheory_Conv_exists_valAt__halfCurve_23b766881e41
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:40:22.494218+00:00
 -- url     : https://prove2.me/theorems/4f0cf651-0a4d-4848-915e-f22ba2b63e67
