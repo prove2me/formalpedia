@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_unitsInflationCochains_f_hom_apply
 -- name    : GroundTheory.ProfCoh.unitsInflationCochains_f_hom_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:56:50.992897+00:00
 -- url     : https://prove2.me/theorems/1db90107-aa4f-417f-b1a6-4b521077ce70

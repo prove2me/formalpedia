@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlueCover_exists_evenly_covered
 -- name    : GlobalTheory.GlueCover.exists_evenly_covered
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:55:55.479144+00:00
 -- url     : https://prove2.me/theorems/e869bee7-d9a9-48f5-851f-fe241f567ae0

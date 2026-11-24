@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_QRR_exp_of_cube
 -- name    : Formalism.FourierDecayAlt.Q.QRR.exp_of_cube
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:46:46.755811+00:00
 -- url     : https://prove2.me/theorems/d2b7c609-ee60-42d4-9f10-6319fa3807b7

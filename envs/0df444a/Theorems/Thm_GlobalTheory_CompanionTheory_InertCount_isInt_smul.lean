@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertCount_isInt_smul
 -- name    : GlobalTheory.CompanionTheory.InertCount.isInt_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:01:21.109795+00:00
 -- url     : https://prove2.me/theorems/af417cca-fb7e-47e9-ade0-89f337fcab54

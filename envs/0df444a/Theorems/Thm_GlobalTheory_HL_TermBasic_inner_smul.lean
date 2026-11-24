@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_TermBasic_inner_smul
 -- name    : GlobalTheory.HL.TermBasic.inner_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:00:41.66604+00:00
 -- url     : https://prove2.me/theorems/4f4df59c-4677-4f9b-a638-3982af6433d3

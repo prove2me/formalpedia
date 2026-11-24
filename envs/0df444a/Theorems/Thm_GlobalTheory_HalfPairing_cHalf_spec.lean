@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HalfPairing_cHalf_spec
 -- name    : GlobalTheory.HalfPairing.cHalf_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:03:02.753198+00:00
 -- url     : https://prove2.me/theorems/01a10f5b-6f4c-4d99-b2ab-b93dcd0668f5

@@ -69726,7 +69726,7 @@
 {"parent": "QEC.Coding.DistanceBalancingSubsystem.balancedSubsystemData_logicalQubits", "child": "QEC_Coding_CodeReduction_DistanceBalancing_Subsystem", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.DistanceBalancingSubsystem.balancedSubsystemData_logicalQubits", "child": "QEC_Coding_CodeReduction_DistanceBalancing_SubsystemDimension", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.FiniteCentering.finset_centered_sum_eq_nonzero_residual", "child": "QEC_Distillation_Core_FiniteCentering", "via": ["solution", "statement"]}
-{"parent": "MeanBudgetXC.lemma_3_7", "child": "MeanBudgetXC_rltPolytope", "via": ["statement"]}
+{"parent": "MeanBudgetXC.lemma_3_7", "child": "MeanBudgetXC_rltPolytope", "via": ["solution", "statement"]}
 {"parent": "ReplicableOL_Lam", "child": "ReplicableOL_hist", "via": ["statement"]}
 {"parent": "ReplicableOL_Lam", "child": "ReplicableOL_hazard", "via": ["statement"]}
 {"parent": "ReplicableOL_Lam", "child": "ReplicableOL_M", "via": ["statement"]}

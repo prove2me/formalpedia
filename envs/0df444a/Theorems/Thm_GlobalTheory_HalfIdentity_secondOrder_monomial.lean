@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HalfIdentity_secondOrder_monomial
 -- name    : GlobalTheory.HalfIdentity.secondOrder_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:02:05.650494+00:00
 -- url     : https://prove2.me/theorems/b5069966-a50d-47b3-be82-207d767c5d13

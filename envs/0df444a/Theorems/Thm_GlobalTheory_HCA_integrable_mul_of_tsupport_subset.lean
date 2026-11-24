@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_integrable_mul_of_tsupport_subset
 -- name    : GlobalTheory.HCA.integrable_mul_of_tsupport_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:00:02.854895+00:00
 -- url     : https://prove2.me/theorems/0eb826d1-1687-4113-b4d7-05394da851c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CoordExist_hermND
 -- name    : GlobalTheory.HL.CoordExist.hermND
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:59:02.14392+00:00
 -- url     : https://prove2.me/theorems/418567a6-0e8f-4ee2-b52d-480078c149bc

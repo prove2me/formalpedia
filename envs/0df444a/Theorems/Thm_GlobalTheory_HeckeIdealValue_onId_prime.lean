@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeIdealValue_onId_prime
 -- name    : GlobalTheory.HeckeIdealValue.onId_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:03:16.109801+00:00
 -- url     : https://prove2.me/theorems/70cf3004-f846-495c-a0ca-444283cfc663

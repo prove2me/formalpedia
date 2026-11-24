@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LeftMultiplicationRule_exp_S
 -- name    : Formalism.FourierDecayAlt.Q.LeftMultiplicationRule.exp_S
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:41:50.766674+00:00
 -- url     : https://prove2.me/theorems/cf20ff6f-c92f-4b96-9f81-c02d8e2d2ff7

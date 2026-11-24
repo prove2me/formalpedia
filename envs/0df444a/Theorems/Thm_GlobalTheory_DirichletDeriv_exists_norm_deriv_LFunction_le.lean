@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DirichletDeriv_exists_norm_deriv_LFunction_le
 -- name    : GlobalTheory.DirichletDeriv.exists_norm_deriv_LFunction_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:48:48.2948+00:00
 -- url     : https://prove2.me/theorems/9c294dfa-a649-483e-a925-0c01f3f9a5e0

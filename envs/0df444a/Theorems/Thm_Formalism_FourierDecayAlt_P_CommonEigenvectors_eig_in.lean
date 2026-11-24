@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CommonEigenvectors_eig_in
 -- name    : Formalism.FourierDecayAlt.P.CommonEigenvectors.eig_in
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:53:36.642899+00:00
 -- url     : https://prove2.me/theorems/4298fbba-0e48-40fe-95a3-505ba432dd16

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HalfPairing_dvd_of_mem
 -- name    : GlobalTheory.HalfPairing.dvd_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:03:13.661216+00:00
 -- url     : https://prove2.me/theorems/04d6e026-2935-4d68-828e-0bb4f2fc4360

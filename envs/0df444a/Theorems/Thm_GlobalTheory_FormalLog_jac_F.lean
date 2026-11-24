@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalLog_jac_F
 -- name    : GlobalTheory.FormalLog.jac_F
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:37:34.776371+00:00
 -- url     : https://prove2.me/theorems/4681521d-96d3-450b-8203-4be87f46dbfa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertIndex_vecMul_mem_intV
 -- name    : GlobalTheory.CompanionTheory.InertIndex.vecMul_mem_intV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:45:10.976795+00:00
 -- url     : https://prove2.me/theorems/751427f6-e10f-450d-800e-ac72f5424379

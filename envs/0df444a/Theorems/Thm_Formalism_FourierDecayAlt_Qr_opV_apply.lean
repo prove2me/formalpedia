@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Qr_opV_apply
 -- name    : Formalism.FourierDecayAlt.Qr.opV_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:55:30.555246+00:00
 -- url     : https://prove2.me/theorems/322a15b7-7ce2-42d9-a52e-74cd0e43b4f9

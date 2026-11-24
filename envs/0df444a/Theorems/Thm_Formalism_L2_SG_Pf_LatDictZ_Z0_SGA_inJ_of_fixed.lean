@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z0_SGA_inJ_of_fixed
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z0.SGA.inJ_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:58:32.26979+00:00
 -- url     : https://prove2.me/theorems/f9795e25-77d7-460d-914f-7dce8844ffe1

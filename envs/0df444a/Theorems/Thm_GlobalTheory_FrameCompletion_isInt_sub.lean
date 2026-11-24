@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameCompletion_isInt_sub
 -- name    : GlobalTheory.FrameCompletion.isInt_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:04:57.173443+00:00
 -- url     : https://prove2.me/theorems/1cd3e2a8-fd47-4d65-a798-423e4cf53c5f

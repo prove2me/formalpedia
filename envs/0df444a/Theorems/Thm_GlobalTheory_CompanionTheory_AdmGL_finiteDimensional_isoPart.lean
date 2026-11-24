@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AdmGL_finiteDimensional_isoPart
 -- name    : GlobalTheory.CompanionTheory.AdmGL.finiteDimensional_isoPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:58:39.6778+00:00
 -- url     : https://prove2.me/theorems/5f8e85cd-35e7-4353-a895-1c0f28be2b39

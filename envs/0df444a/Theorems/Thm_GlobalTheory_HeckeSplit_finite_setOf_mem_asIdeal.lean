@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeSplit_finite_setOf_mem_asIdeal
 -- name    : GlobalTheory.HeckeSplit.finite_setOf_mem_asIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:04:53.478913+00:00
 -- url     : https://prove2.me/theorems/a7c1b5e4-fac9-4e65-88f4-20f676fd2222

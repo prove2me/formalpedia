@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_hermA_tmul_right
 -- name    : GlobalTheory.AdLat.hermA_tmul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:58:59.012651+00:00
 -- url     : https://prove2.me/theorems/37e4b13a-6207-44e5-8de7-9efcfcc8dc94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_exists_primitiveRoot_w
 -- name    : Formalism.HC.HostRaw.exists_primitiveRoot_w
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:54:59.91385+00:00
 -- url     : https://prove2.me/theorems/59514e96-1e00-40ca-b5db-bc4bdd0ef137

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StrictBoxOrder_sup_pres
 -- name    : Formalism.FourierDecayAlt.P.StrictBoxOrder.sup_pres
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:53:11.022825+00:00
 -- url     : https://prove2.me/theorems/b1ced1c7-2a38-4af4-922a-127b76e2a04f

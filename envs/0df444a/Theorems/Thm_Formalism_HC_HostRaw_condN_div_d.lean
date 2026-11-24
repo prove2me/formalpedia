@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_condN_div_d
 -- name    : Formalism.HC.HostRaw.condN_div_d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:54:53.831639+00:00
 -- url     : https://prove2.me/theorems/8288d40d-ed5b-417f-9479-23c5677e2d34

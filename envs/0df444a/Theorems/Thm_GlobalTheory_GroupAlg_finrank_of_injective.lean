@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GroupAlg_finrank_of_injective
 -- name    : GlobalTheory.GroupAlg.finrank_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:57:37.202798+00:00
 -- url     : https://prove2.me/theorems/970491bc-2b0c-4d0d-96a8-62712983eaed

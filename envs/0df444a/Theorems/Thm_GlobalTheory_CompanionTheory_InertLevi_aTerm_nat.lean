@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertLevi_aTerm_nat
 -- name    : GlobalTheory.CompanionTheory.InertLevi.aTerm_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:04:11.024179+00:00
 -- url     : https://prove2.me/theorems/6a19bbef-bded-4d73-8087-98851be6ee2f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HalfPairing_qRep_mk
 -- name    : GlobalTheory.HalfPairing.qRep_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:02:41.872979+00:00
 -- url     : https://prove2.me/theorems/f143a048-1419-496b-9d1c-05b582955301

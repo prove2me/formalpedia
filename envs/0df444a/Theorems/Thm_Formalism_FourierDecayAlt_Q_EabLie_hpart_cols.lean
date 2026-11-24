@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_EabLie_hpart_cols
 -- name    : Formalism.FourierDecayAlt.Q.EabLie.hpart_cols
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:24:25.769378+00:00
 -- url     : https://prove2.me/theorems/1308b4f0-1c95-49c1-bb2a-378fe06049dd

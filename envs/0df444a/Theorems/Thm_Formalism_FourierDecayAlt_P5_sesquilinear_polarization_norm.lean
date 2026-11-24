@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_sesquilinear_polarization_norm
 -- name    : Formalism.FourierDecayAlt.P5.sesquilinear_polarization_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:42:31.586849+00:00
 -- url     : https://prove2.me/theorems/e9517082-d41e-4fdd-803b-aeb745472c5f

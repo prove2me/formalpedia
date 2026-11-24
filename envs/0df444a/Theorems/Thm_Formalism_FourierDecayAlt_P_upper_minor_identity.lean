@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_upper_minor_identity
 -- name    : Formalism.FourierDecayAlt.P.upper_minor_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:40:58.654565+00:00
 -- url     : https://prove2.me/theorems/2414a325-584e-4aff-8ed3-11c6b4912a84

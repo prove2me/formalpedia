@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_differentiable_left_of_contDiffOn_succ
 -- name    : Formalism.FourierDecayAlt.P.B6.differentiable_left_of_contDiffOn_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:01:43.116309+00:00
 -- url     : https://prove2.me/theorems/c3959400-06b0-4796-b22a-3e09aa1748bb

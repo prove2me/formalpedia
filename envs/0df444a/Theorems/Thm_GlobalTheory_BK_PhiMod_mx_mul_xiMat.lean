@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_mx_mul_xiMat
 -- name    : GlobalTheory.BK.PhiMod.mx_mul_xiMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:57:37.897369+00:00
 -- url     : https://prove2.me/theorems/a0f74c44-073a-4398-a3b6-0db97ebfc607

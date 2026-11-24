@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeLocInt_int_mul
 -- name    : GlobalTheory.HeckeLocInt.int_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:03:29.827714+00:00
 -- url     : https://prove2.me/theorems/b7562467-ebba-4d39-bed0-87087818a36f

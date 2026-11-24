@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TInvW_unit_col
 -- name    : Formalism.FourierDecayAlt.Q.TInvW.unit_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:55:08.917816+00:00
 -- url     : https://prove2.me/theorems/ec5516fb-2620-4d79-ade7-25cf85caed32

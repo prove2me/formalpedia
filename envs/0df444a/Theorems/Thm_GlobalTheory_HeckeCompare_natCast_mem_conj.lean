@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeCompare_natCast_mem_conj
 -- name    : GlobalTheory.HeckeCompare.natCast_mem_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:03:14.380031+00:00
 -- url     : https://prove2.me/theorems/ce92f057-6d5c-42ec-a602-c43548e29db5

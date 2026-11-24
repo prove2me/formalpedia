@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeLocInt_le_exp_neg_one_of_lt
 -- name    : GlobalTheory.HeckeLocInt.le_exp_neg_one_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:06:27.247646+00:00
 -- url     : https://prove2.me/theorems/0f500084-947d-4969-8c7a-c4dff23482b2

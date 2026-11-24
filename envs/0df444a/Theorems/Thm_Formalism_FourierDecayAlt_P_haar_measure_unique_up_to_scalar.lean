@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_haar_measure_unique_up_to_scalar
 -- name    : Formalism.FourierDecayAlt.P.haar_measure_unique_up_to_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:26:04.010162+00:00
 -- url     : https://prove2.me/theorems/ae6823a9-44ac-4d40-9ca9-d82822c51285

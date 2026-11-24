@@ -3050,7 +3050,7 @@
 {"parent": "PositivityTheory.Rg.BcB.F.EigA.term_inv", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_DoubleCosetOperatorsCommOfAntiInvolution", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.BcB.F.EigA.term_inv", "child": "Development_AbelianVarietyTheory_Definitions_AutomorphicMembership_IsIrreducibleIff", "via": ["solution", "statement"]}
 {"parent": "DeletedPrimes.kappaK_lt_half", "child": "DeletedPrimes_Exponents", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.GenEigenFinOrbit.map_prod_eq_bot", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_MemSpanGenEigenOfFiniteDimensionalOrbit", "via": ["statement"]}
+{"parent": "GlobalTheory.GenEigenFinOrbit.map_prod_eq_bot", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_MemSpanGenEigenOfFiniteDimensionalOrbit", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_FinsumDoubleCosetRegroupCommutative", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_DoubleCosetCardDivCardInfCommutativeSubgroupStatement", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_FinsumDoubleCosetRegroupCommutative", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_FinsumCompEqFinsumCardFiberMulStatement", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_FinsumDoubleCosetRegroupCommutative", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_CardFiberDoubleCosetMapEqCardInfConjStatement", "via": ["statement"]}

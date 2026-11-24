@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_FormExt_exists_cocycle_restrict_sub_eq_coboundary
 -- name    : GlobalTheory.CechDR.FormExt.exists_cocycle_restrict_sub_eq_coboundary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:59:38.273076+00:00
 -- url     : https://prove2.me/theorems/e80d0580-1705-4600-b084-c65622914e44

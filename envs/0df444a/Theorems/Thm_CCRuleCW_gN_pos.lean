@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCRuleCW_gN_pos
 -- name    : CCRuleCW.gN_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:59:50.081805+00:00
 -- url     : https://prove2.me/theorems/67248a35-9b0d-4b46-a46a-4ca22f69ca16

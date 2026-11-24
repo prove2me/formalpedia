@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux10_chart_mem
 -- name    : Formalism.FourierDecayAlt.P.Ux10.chart_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:10:41.6608+00:00
 -- url     : https://prove2.me/theorems/406cf909-9381-4eeb-966e-36e883d03b8a

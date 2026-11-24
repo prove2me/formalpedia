@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CatCoh_Desc_VandermondeTwoBasis_CovBy_mono
 -- name    : GlobalTheory.CatCoh.Desc.VandermondeTwoBasis.CovBy.mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:54:41.380841+00:00
 -- url     : https://prove2.me/theorems/dbf91a23-abe5-41fb-9467-221aafb1e898

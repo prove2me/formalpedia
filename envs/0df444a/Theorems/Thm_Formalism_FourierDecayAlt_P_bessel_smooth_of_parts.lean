@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_bessel_smooth_of_parts
 -- name    : Formalism.FourierDecayAlt.P.bessel_smooth_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:52:50.936025+00:00
 -- url     : https://prove2.me/theorems/5aafb6d7-245a-4825-ae00-d861b9ca7baa

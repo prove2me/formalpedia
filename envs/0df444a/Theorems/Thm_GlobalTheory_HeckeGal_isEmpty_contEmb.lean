@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeGal_isEmpty_contEmb
 -- name    : GlobalTheory.HeckeGal.isEmpty_contEmb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:02:52.112807+00:00
 -- url     : https://prove2.me/theorems/254dd8d3-f865-4630-b70a-a0ca449ec1ab

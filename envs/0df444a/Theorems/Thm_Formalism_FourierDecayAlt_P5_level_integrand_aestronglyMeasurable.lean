@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_level_integrand_aestronglyMeasurable
 -- name    : Formalism.FourierDecayAlt.P5.level_integrand_aestronglyMeasurable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:43:03.375911+00:00
 -- url     : https://prove2.me/theorems/4d678085-4779-41ac-b15c-12ad2953433e

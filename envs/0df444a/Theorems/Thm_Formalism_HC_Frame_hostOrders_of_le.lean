@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_hostOrders_of_le
 -- name    : Formalism.HC.Frame.hostOrders_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:52:45.05694+00:00
 -- url     : https://prove2.me/theorems/55af3047-4ca0-4eaf-a94a-9a949b959103

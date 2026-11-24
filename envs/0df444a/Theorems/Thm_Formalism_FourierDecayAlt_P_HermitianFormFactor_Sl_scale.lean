@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormFactor_Sl_scale
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormFactor.Sl_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:13:42.703176+00:00
 -- url     : https://prove2.me/theorems/9db97de5-09f6-4f3e-81a2-5f7f444fe603

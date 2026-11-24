@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StrictBoxOrder_isWt_vec
 -- name    : Formalism.FourierDecayAlt.P.StrictBoxOrder.isWt_vec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:53:35.00715+00:00
 -- url     : https://prove2.me/theorems/e3fc01b9-732a-4fa2-87a1-72eb94277936

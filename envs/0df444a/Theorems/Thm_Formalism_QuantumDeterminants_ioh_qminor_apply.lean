@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_ioh_qminor_apply
 -- name    : Formalism.QuantumDeterminants.ioh_qminor_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:58:03.791809+00:00
 -- url     : https://prove2.me/theorems/e875ec26-6f13-4e19-b8ab-7ed599a49cbd

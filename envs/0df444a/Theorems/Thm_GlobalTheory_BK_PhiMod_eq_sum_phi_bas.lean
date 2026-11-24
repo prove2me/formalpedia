@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_eq_sum_phi_bas
 -- name    : GlobalTheory.BK.PhiMod.eq_sum_phi_bas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:44:09.6468+00:00
 -- url     : https://prove2.me/theorems/29a717ae-4d04-4d26-a5bd-00c511277ef1

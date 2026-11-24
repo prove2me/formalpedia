@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_UnipotentSums_sgn_X
 -- name    : Formalism.FourierDecayAlt.P.UnipotentSums.sgn_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:06:24.013797+00:00
 -- url     : https://prove2.me/theorems/3f8d8feb-c103-4251-a8b9-42106b125027

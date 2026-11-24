@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_CC_Surj_wal_inv_eq
 -- name    : Formalism.MainNotions.Gaps.CC.Surj.wal_inv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:57:40.080022+00:00
 -- url     : https://prove2.me/theorems/ae0b0264-3131-43c1-bbbc-b846be4bc318

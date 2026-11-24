@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_hH_iota
 -- name    : Formalism.HC.Frame.hH_iota
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:53:09.756675+00:00
 -- url     : https://prove2.me/theorems/461f4d62-b570-47e0-b7d6-dcd4d7affa47

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_TermBasic_spanTo_mono
 -- name    : GlobalTheory.HL.TermBasic.spanTo_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:01:02.369229+00:00
 -- url     : https://prove2.me/theorems/a0e01ef4-9924-4637-a45e-1703d6bbedba

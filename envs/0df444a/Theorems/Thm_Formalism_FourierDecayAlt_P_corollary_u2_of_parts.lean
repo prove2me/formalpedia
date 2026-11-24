@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_corollary_u2_of_parts
 -- name    : Formalism.FourierDecayAlt.P.corollary_u2_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:40:17.770222+00:00
 -- url     : https://prove2.me/theorems/75981df1-4ad4-4f1f-8c11-85dba607108b

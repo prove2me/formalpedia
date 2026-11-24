@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeSplit_exists_int_moved
 -- name    : GlobalTheory.HeckeSplit.exists_int_moved
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:04:59.24768+00:00
 -- url     : https://prove2.me/theorems/b128f375-5538-4f8b-861b-22cedc75afd7

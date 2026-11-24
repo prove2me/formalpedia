@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_power_matching
 -- name    : Formalism.FourierDecayAlt.P.power_matching
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:40:17.832483+00:00
 -- url     : https://prove2.me/theorems/943ca9f6-0716-4448-9943-aaaaff32cfc6

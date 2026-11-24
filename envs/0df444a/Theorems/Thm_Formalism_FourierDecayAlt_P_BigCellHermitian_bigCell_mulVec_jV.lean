@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BigCellHermitian_bigCell_mulVec_jV
 -- name    : Formalism.FourierDecayAlt.P.BigCellHermitian.bigCell_mulVec_jV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:44:31.129313+00:00
 -- url     : https://prove2.me/theorems/e0458d05-8f0d-44e4-840b-b32ebf746053

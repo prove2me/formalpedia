@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramLinearMap_exists_linearMap_of_gram
 -- name    : GlobalTheory.GramLinearMap.exists_linearMap_of_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:56:30.137376+00:00
 -- url     : https://prove2.me/theorems/63b495ff-5d0a-4fae-887b-2e5e260488e0

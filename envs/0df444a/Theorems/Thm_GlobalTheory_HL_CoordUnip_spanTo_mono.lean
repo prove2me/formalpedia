@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CoordUnip_spanTo_mono
 -- name    : GlobalTheory.HL.CoordUnip.spanTo_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:00:30.274817+00:00
 -- url     : https://prove2.me/theorems/cb10e12e-3037-4ce9-818c-b61169c5915a

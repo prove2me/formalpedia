@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoByOneBlock_Hpk_out_mid
 -- name    : Formalism.FourierDecayAlt.P.TwoByOneBlock.Hpk_out_mid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:33:10.031117+00:00
 -- url     : https://prove2.me/theorems/d719193b-96ba-470f-8b14-a999ecd91c49

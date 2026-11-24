@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z2_plane_idealLike
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z2.plane_idealLike
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:57:32.690639+00:00
 -- url     : https://prove2.me/theorems/3d82bfb9-54b3-4751-9023-7dfead05f0b6

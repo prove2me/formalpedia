@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_tendsto_diffQuot_dw
 -- name    : GlobalTheory.HCA.tendsto_diffQuot_dw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:59:52.361487+00:00
 -- url     : https://prove2.me/theorems/c002e3cd-39c2-430f-8f74-cce2533ad93f

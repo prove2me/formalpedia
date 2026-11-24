@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_RowSpan_rowsP_mid
 -- name    : GlobalTheory.InertZeta.RowSpan.rowsP_mid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:51:08.763483+00:00
 -- url     : https://prove2.me/theorems/2194bfe0-c267-48d4-a0bf-de62b3e9074a

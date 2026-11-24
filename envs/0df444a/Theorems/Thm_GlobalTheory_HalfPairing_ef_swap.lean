@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HalfPairing_ef_swap
 -- name    : GlobalTheory.HalfPairing.ef_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:02:27.27151+00:00
 -- url     : https://prove2.me/theorems/57395fcc-3919-426d-bdd2-056c235db7e4

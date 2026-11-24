@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertZeta_mem_cosetsIn
 -- name    : GlobalTheory.CompanionTheory.InertZeta.mem_cosetsIn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:53:23.913639+00:00
 -- url     : https://prove2.me/theorems/59f6449e-77ab-41c8-97f1-ad9b6678f71a

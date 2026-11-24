@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelUMod_upLat_mono
 -- name    : GlobalTheory.BorelUMod.upLat_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:01:17.488097+00:00
 -- url     : https://prove2.me/theorems/bc48b530-012e-4aec-bf1c-8e05297286bb

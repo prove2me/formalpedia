@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx6_near_update
 -- name    : Formalism.FourierDecayAlt.P.Qx6.near_update
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:35:27.900101+00:00
 -- url     : https://prove2.me/theorems/da5514c9-5b3c-48fd-8c76-17c6cd77d1e0

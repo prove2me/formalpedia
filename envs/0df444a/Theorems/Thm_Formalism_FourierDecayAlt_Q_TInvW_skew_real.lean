@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TInvW_skew_real
 -- name    : Formalism.FourierDecayAlt.Q.TInvW.skew_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:52:45.459695+00:00
 -- url     : https://prove2.me/theorems/23065626-f380-4e8a-983a-463efa36dd3c

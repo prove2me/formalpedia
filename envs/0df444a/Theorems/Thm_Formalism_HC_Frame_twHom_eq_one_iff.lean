@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_twHom_eq_one_iff
 -- name    : Formalism.HC.Frame.twHom_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:56:16.4437+00:00
 -- url     : https://prove2.me/theorems/9b5bb849-0d41-4f9f-b232-916e11428b25

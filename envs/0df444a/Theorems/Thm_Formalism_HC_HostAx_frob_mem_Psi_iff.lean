@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostAx_frob_mem_Psi_iff
 -- name    : Formalism.HC.HostAx.frob_mem_Psi_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:54:32.850018+00:00
 -- url     : https://prove2.me/theorems/4d859721-3162-4fd6-926b-db01ee313857

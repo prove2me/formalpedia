@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_coord_mem_primeIdealOf_of_mem_support
 -- name    : FunctorialResolution.EmbeddedResolution.coord_mem_primeIdealOf_of_mem_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:57:59.726812+00:00
 -- url     : https://prove2.me/theorems/7cbacc11-f890-42be-8d71-54623399aa0f

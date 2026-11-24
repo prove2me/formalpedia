@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_DSIC_qminor_intertwine
 -- name    : CompanionTheory.D.DSIC.qminor_intertwine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:09:58.948865+00:00
 -- url     : https://prove2.me/theorems/00745759-727e-4bb6-8961-503aa3a58980

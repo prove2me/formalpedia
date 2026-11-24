@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HasTriangularWeightPoly_hasTriangularWeight
 -- name    : GlobalTheory.HasTriangularWeightPoly.hasTriangularWeight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:01:35.280858+00:00
 -- url     : https://prove2.me/theorems/df12a327-7ec9-49c8-8490-c723ff0f1e1f

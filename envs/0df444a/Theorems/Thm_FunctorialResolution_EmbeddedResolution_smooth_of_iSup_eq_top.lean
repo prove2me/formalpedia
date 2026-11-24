@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_smooth_of_iSup_eq_top
 -- name    : FunctorialResolution.EmbeddedResolution.smooth_of_iSup_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:58:09.344593+00:00
 -- url     : https://prove2.me/theorems/69ca8107-9efa-4ffc-92e8-97e1bcd6b3ab

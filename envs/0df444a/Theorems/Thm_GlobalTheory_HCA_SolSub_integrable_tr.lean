@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_SolSub_integrable_tr
 -- name    : GlobalTheory.HCA.SolSub.integrable_tr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:59:54.704594+00:00
 -- url     : https://prove2.me/theorems/315920c2-884b-4381-91d8-b98b589cb8bc

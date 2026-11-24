@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_FormExt_inr_sub_add_inr_eq
 -- name    : GlobalTheory.CechDR.FormExt.inr_sub_add_inr_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:59:59.85406+00:00
 -- url     : https://prove2.me/theorems/19ec9362-fd39-4a00-859b-27b533b4b50a

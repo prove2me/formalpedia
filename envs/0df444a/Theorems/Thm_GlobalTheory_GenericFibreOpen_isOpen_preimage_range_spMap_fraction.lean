@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenericFibreOpen_isOpen_preimage_range_spMap_fraction
 -- name    : GlobalTheory.GenericFibreOpen.isOpen_preimage_range_spMap_fraction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:53:35.006386+00:00
 -- url     : https://prove2.me/theorems/df093ea9-4446-46ea-b372-ad332179dd2a

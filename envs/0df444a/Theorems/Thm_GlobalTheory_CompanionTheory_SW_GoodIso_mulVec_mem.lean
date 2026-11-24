@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GoodIso_mulVec_mem
 -- name    : GlobalTheory.CompanionTheory.SW.GoodIso.mulVec_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:02:23.657127+00:00
 -- url     : https://prove2.me/theorems/5d35c143-b09a-49be-bdef-3c11e5656426

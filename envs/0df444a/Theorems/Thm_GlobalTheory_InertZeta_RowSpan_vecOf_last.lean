@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_RowSpan_vecOf_last
 -- name    : GlobalTheory.InertZeta.RowSpan.vecOf_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:49:42.247507+00:00
 -- url     : https://prove2.me/theorems/2f14d00e-46cb-49fb-8e06-e2379e8a6401

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeCompare_exists_root
 -- name    : GlobalTheory.HeckeCompare.exists_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:03:24.670804+00:00
 -- url     : https://prove2.me/theorems/795e018b-9ecf-4bbb-895e-7349e8b86c87

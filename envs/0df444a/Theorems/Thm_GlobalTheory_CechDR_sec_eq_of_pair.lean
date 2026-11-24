@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_sec_eq_of_pair
 -- name    : GlobalTheory.CechDR.sec_eq_of_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:59:30.860135+00:00
 -- url     : https://prove2.me/theorems/924513b5-3b95-4501-82e1-3237410eb028

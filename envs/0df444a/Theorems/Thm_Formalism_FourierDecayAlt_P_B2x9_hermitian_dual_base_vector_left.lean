@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x9_hermitian_dual_base_vector_left
 -- name    : Formalism.FourierDecayAlt.P.B2x9.hermitian_dual_base_vector_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:59:41.625232+00:00
 -- url     : https://prove2.me/theorems/c665df1c-799a-4479-b44f-4a22028da573

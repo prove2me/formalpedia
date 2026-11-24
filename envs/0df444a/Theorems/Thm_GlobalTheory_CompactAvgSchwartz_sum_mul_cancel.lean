@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactAvgSchwartz_sum_mul_cancel
 -- name    : GlobalTheory.CompactAvgSchwartz.sum_mul_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:00:48.673188+00:00
 -- url     : https://prove2.me/theorems/b9e5b6f8-0a83-45d7-abf4-9897364a8cbc

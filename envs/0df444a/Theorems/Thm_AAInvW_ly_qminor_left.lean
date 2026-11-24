@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_ly_qminor_left
 -- name    : AAInvW.ly_qminor_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:27:03.813805+00:00
 -- url     : https://prove2.me/theorems/305f54df-c0af-4c9e-ad84-e47f04243271

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx6_snocCast_eq
 -- name    : Formalism.FourierDecayAlt.P.Qx6.snocCast_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:34:35.518971+00:00
 -- url     : https://prove2.me/theorems/cc1aa8db-26e9-4f68-9fbf-856e119caba0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Harm_sum_filter_lt_eq_sum_range
 -- name    : GlobalTheory.Harm.sum_filter_lt_eq_sum_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:02:15.378825+00:00
 -- url     : https://prove2.me/theorems/ac40d0ef-89a5-480d-90a3-7cba9283e43f

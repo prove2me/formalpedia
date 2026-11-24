@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HTLat_AdaptedFrame_notMem_step
 -- name    : GlobalTheory.HTLat.AdaptedFrame.notMem_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:01:01.043952+00:00
 -- url     : https://prove2.me/theorems/f11a6bb1-fbcc-463f-b5ca-b451cc8ed8cf

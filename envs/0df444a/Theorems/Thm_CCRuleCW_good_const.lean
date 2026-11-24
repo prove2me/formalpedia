@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCRuleCW_good_const
 -- name    : CCRuleCW.good_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:36:36.405843+00:00
 -- url     : https://prove2.me/theorems/dfb90458-f76e-4049-b6d0-e35171af5847

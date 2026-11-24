@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_map_mvPolynomialCoordIdeal_eq_etaleChartCoordIdeal
 -- name    : FunctorialResolution.EmbeddedResolution.map_mvPolynomialCoordIdeal_eq_etaleChartCoordIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:57:47.836745+00:00
 -- url     : https://prove2.me/theorems/8ccfdca2-c521-4ff5-9a5c-a6c286ce99dd

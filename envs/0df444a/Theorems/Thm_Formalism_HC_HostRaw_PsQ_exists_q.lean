@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_PsQ_exists_q
 -- name    : Formalism.HC.HostRaw.PsQ.exists_q
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:54:46.03027+00:00
 -- url     : https://prove2.me/theorems/80f0b055-9a3e-4432-b474-12aa70a2b6d2

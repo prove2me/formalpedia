@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_density_lemma_of_reductions
 -- name    : Formalism.FourierDecayAlt.P.density_lemma_of_reductions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:40:04.691869+00:00
 -- url     : https://prove2.me/theorems/864a78bd-50dc-46e3-9772-af17ecbdb85e

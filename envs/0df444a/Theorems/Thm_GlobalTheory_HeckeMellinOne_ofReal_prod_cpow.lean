@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeMellinOne_ofReal_prod_cpow
 -- name    : GlobalTheory.HeckeMellinOne.ofReal_prod_cpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:03:10.213815+00:00
 -- url     : https://prove2.me/theorems/a58a313a-3e20-4dc5-b3fa-a6a9db64f3a8

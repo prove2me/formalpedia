@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactAvgSchwartz_comp_mem_SB
 -- name    : GlobalTheory.CompactAvgSchwartz.comp_mem_SB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:59:31.649807+00:00
 -- url     : https://prove2.me/theorems/6cbb9137-7385-48fc-9256-ebf2aa1c30e0

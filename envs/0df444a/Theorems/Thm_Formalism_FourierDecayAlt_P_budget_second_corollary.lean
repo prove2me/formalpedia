@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_budget_second_corollary
 -- name    : Formalism.FourierDecayAlt.P.budget_second_corollary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:36:42.219572+00:00
 -- url     : https://prove2.me/theorems/07ddb5a0-cc48-4b6b-95bc-263e8961887a

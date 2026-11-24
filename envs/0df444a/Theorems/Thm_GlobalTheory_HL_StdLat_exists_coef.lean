@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_StdLat_exists_coef
 -- name    : GlobalTheory.HL.StdLat.exists_coef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:00:25.278912+00:00
 -- url     : https://prove2.me/theorems/572a61d3-4bb1-4136-aa6f-24f52d7adcbd

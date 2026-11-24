@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x9_eta_xi
 -- name    : Formalism.FourierDecayAlt.P.B2x9.eta_xi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:44:15.205251+00:00
 -- url     : https://prove2.me/theorems/1e480f31-8e94-4e18-b8ca-41b7682fff3b

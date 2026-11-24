@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_lf_S_invCol
 -- name    : AAInvW.lf_S_invCol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:45:00.228875+00:00
 -- url     : https://prove2.me/theorems/68770295-1aca-4f09-a159-0873f4868273

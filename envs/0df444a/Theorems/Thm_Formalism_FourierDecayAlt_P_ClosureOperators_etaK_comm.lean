@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ClosureOperators_etaK_comm
 -- name    : Formalism.FourierDecayAlt.P.ClosureOperators.etaK_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:51:28.668997+00:00
 -- url     : https://prove2.me/theorems/14eb6b93-5905-48ff-8fa1-b0cbe289ad3c

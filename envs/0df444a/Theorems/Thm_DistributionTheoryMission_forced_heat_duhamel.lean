@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistributionTheoryMission_forced_heat_duhamel
 -- name    : DistributionTheoryMission.forced_heat_duhamel
--- status  : Open
+-- status  : Disproved
 -- author  : @liuyao
 -- created : 2026-11-16T02:08:48.192504+00:00
 -- url     : https://prove2.me/theorems/3b17f430-3264-4741-ad9c-8b683adcbb88

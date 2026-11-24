@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_IsInt_add
 -- name    : GlobalTheory.InertZeta.IsInt.add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:53:58.596392+00:00
 -- url     : https://prove2.me/theorems/36f7fbf9-5617-4c45-84b2-c288b19145af

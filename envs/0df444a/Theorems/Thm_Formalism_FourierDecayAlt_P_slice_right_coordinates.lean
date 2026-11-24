@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_slice_right_coordinates
 -- name    : Formalism.FourierDecayAlt.P.slice_right_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:23:48.269076+00:00
 -- url     : https://prove2.me/theorems/b6b6bcea-966f-42dc-9c5f-8b609d60d4d1

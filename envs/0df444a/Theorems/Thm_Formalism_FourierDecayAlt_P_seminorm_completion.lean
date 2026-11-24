@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_seminorm_completion
 -- name    : Formalism.FourierDecayAlt.P.seminorm_completion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:39:56.391802+00:00
 -- url     : https://prove2.me/theorems/88c9e272-94f7-411c-b6bf-4ef6ca403494

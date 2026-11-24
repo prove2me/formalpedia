@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_second_derivative_in_y
 -- name    : Formalism.FourierDecayAlt.P.B6.second_derivative_in_y
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:05:23.362686+00:00
 -- url     : https://prove2.me/theorems/aeff98bc-b546-443a-b39f-df8dd87ba967

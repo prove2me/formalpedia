@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConvexCutOff_exists_perm_of_ofFn_perm
 -- name    : GlobalTheory.ConvexCutOff.exists_perm_of_ofFn_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:02:41.025827+00:00
 -- url     : https://prove2.me/theorems/fb4bbbbe-8eea-4ca4-9eae-f3814fd58564

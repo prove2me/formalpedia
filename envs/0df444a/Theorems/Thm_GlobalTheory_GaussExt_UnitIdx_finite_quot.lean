@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussExt_UnitIdx_finite_quot
 -- name    : GlobalTheory.GaussExt.UnitIdx.finite_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:51:11.734859+00:00
 -- url     : https://prove2.me/theorems/8881d0d7-da73-4e8c-bc22-bd991a1689c1

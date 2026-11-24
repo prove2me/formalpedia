@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HalfIdentity_T_replicate
 -- name    : GlobalTheory.HalfIdentity.T_replicate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:01:57.907608+00:00
 -- url     : https://prove2.me/theorems/b9eeb722-cb90-4d60-bfc1-ff38fead80e5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GoodIso_sigma_sigma
 -- name    : GlobalTheory.CompanionTheory.SW.GoodIso.sigma_sigma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:04:47.872025+00:00
 -- url     : https://prove2.me/theorems/eae5cb1f-bd0f-45dc-8884-875c6fee75a3

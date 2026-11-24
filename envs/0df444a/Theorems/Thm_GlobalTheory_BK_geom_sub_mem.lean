@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_geom_sub_mem
 -- name    : GlobalTheory.BK.geom_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:43:32.542206+00:00
 -- url     : https://prove2.me/theorems/0f7c0907-4a07-42c1-b62b-d56104186d1d

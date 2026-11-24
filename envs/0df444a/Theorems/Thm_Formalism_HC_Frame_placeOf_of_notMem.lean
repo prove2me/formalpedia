@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_placeOf_of_notMem
 -- name    : Formalism.HC.Frame.placeOf_of_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:55:48.046922+00:00
 -- url     : https://prove2.me/theorems/2d60b701-3dbc-498d-a964-1758d30eb166

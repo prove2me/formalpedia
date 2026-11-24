@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertTrans_conj_mem_radU
 -- name    : GlobalTheory.CompanionTheory.InertTrans.conj_mem_radU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:03:12.298942+00:00
 -- url     : https://prove2.me/theorems/be3fda62-b747-43c9-9907-443de7e9eba7

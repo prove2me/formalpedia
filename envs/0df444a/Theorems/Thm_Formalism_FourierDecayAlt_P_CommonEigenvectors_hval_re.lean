@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CommonEigenvectors_hval_re
 -- name    : Formalism.FourierDecayAlt.P.CommonEigenvectors.hval_re
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:54:02.026666+00:00
 -- url     : https://prove2.me/theorems/11d0cacd-d42b-493d-ba4b-306e2b1c97ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_Hom_app_smul_tot
 -- name    : GlobalTheory.BK.Hom.app_smul_tot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:58:05.119948+00:00
 -- url     : https://prove2.me/theorems/2bfa4501-b88f-48e7-abb3-d39aed61c154

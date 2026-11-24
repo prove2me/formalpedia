@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z0_SGA_InJ_one_add
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z0.SGA.InJ.one_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:57:28.432112+00:00
 -- url     : https://prove2.me/theorems/05d4dd82-818b-4ad4-a9e4-542c87c70d39

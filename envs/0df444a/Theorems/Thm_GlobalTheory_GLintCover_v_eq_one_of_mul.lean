@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GLintCover_v_eq_one_of_mul
 -- name    : GlobalTheory.GLintCover.v_eq_one_of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:05:44.883073+00:00
 -- url     : https://prove2.me/theorems/d854a741-8985-4735-bace-f901475ee965

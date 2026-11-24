@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescent_span_image_comap_map
 -- name    : GlobalTheory.GaloisDescent.span_image_comap_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:48:34.227657+00:00
 -- url     : https://prove2.me/theorems/99c299b5-793b-48a0-a238-71224e7e889c

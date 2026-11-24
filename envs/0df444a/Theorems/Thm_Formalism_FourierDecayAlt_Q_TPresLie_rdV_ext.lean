@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TPresLie_rdV_ext
 -- name    : Formalism.FourierDecayAlt.Q.TPresLie.rdV_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:53:52.394254+00:00
 -- url     : https://prove2.me/theorems/dd808b70-8de9-4b7d-be13-7f073cf79596

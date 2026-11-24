@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_FormExt_snd_sub_add
 -- name    : GlobalTheory.CechDR.FormExt.snd_sub_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:59:33.171712+00:00
 -- url     : https://prove2.me/theorems/731668fc-933b-482d-932b-6df63aafbb48

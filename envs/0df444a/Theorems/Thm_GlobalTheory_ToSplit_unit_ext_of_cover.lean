@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToSplit_unit_ext_of_cover
 -- name    : GlobalTheory.ToSplit.unit_ext_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:04:59.163806+00:00
 -- url     : https://prove2.me/theorems/f5eba7e2-55d5-4094-94d2-96560319ad3a

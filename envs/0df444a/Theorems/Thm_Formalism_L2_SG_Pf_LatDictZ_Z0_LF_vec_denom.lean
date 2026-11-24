@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z0_LF_vec_denom
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z0.LF.vec_denom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:58:18.463636+00:00
 -- url     : https://prove2.me/theorems/97fbf8f4-0b37-479d-a5a8-2bec00b9fafb

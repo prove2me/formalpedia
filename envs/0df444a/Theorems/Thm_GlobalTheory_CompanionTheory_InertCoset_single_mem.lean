@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertCoset_single_mem
 -- name    : GlobalTheory.CompanionTheory.InertCoset.single_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:52:58.770313+00:00
 -- url     : https://prove2.me/theorems/4937a0c4-12cf-4e53-ae4b-e34c49b333fb

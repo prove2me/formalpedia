@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_cechHodgeFiltration_eq_range
 -- name    : GlobalTheory.CechDR.cechHodgeFiltration_eq_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:59:20.622011+00:00
 -- url     : https://prove2.me/theorems/d2e03135-2e3b-4d3d-aab8-7678d55db401

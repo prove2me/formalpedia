@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hadamard_det_gram_comp_equiv
 -- name    : GlobalTheory.Hadamard.det_gram_comp_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:02:18.138138+00:00
 -- url     : https://prove2.me/theorems/898d99ea-e624-49b1-b8e8-ffedd070bf32

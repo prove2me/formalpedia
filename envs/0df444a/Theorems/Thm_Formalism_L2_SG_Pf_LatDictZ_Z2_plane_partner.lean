@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z2_plane_partner
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z2.plane_partner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:58:35.805116+00:00
 -- url     : https://prove2.me/theorems/89221b9a-8b16-4b31-8447-0ead564a07d3

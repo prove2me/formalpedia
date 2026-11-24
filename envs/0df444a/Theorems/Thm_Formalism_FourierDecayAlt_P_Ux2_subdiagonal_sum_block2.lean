@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux2_subdiagonal_sum_block2
 -- name    : Formalism.FourierDecayAlt.P.Ux2.subdiagonal_sum_block2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:25:49.242954+00:00
 -- url     : https://prove2.me/theorems/089fed5d-5d2c-4651-8c79-3c3eebad5ccc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeGal_norm_lt_one_of_contEmb
 -- name    : GlobalTheory.HeckeGal.norm_lt_one_of_contEmb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:03:09.869079+00:00
 -- url     : https://prove2.me/theorems/ceb4483a-7ec2-40f2-9f79-89250d2f57f4

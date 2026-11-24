@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymLiftFrame_exists_choice
 -- name    : GlobalTheory.SymLiftFrame.exists_choice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:56:23.06157+00:00
 -- url     : https://prove2.me/theorems/75662924-44cf-432a-9190-7d70196d58e4

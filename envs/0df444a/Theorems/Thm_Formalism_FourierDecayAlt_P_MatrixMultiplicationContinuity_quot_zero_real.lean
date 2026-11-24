@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MatrixMultiplicationContinuity_quot_zero_real
 -- name    : Formalism.FourierDecayAlt.P.MatrixMultiplicationContinuity.quot_zero_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:17:23.652224+00:00
 -- url     : https://prove2.me/theorems/d983b32c-af77-4a2c-a057-b5b585e8b921

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_prim_of_isUnit_det
 -- name    : GlobalTheory.GramCount.prim_of_isUnit_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:56:12.440261+00:00
 -- url     : https://prove2.me/theorems/cbb79ed7-fc3a-4c74-9904-d54f6c011e21

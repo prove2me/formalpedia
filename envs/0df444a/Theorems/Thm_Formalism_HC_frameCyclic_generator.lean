@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_frameCyclic_generator
 -- name    : Formalism.HC.frameCyclic_generator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:55:15.86513+00:00
 -- url     : https://prove2.me/theorems/84a3f63e-e082-46a4-a893-3cf2abf2b02a

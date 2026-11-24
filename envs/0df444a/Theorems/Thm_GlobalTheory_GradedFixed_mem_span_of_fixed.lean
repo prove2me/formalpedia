@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GradedFixed_mem_span_of_fixed
 -- name    : GlobalTheory.GradedFixed.mem_span_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:58:47.648233+00:00
 -- url     : https://prove2.me/theorems/63ff9453-8570-4a21-bff8-c450e7129870

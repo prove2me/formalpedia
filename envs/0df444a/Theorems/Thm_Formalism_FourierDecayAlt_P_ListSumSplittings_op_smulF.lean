@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ListSumSplittings_op_smulF
 -- name    : Formalism.FourierDecayAlt.P.ListSumSplittings.op_smulF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:09:47.055789+00:00
 -- url     : https://prove2.me/theorems/dd8927cf-b96c-425b-a8ec-be599f560007

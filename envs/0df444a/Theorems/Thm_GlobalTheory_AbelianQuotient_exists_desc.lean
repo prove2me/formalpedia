@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbelianQuotient_exists_desc
 -- name    : GlobalTheory.AbelianQuotient.exists_desc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:58:26.797829+00:00
 -- url     : https://prove2.me/theorems/afe8acae-ce8e-489f-a4f7-45b061587156

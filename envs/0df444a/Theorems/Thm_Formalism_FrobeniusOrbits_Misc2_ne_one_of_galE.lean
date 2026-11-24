@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Misc2_ne_one_of_galE
 -- name    : Formalism.FrobeniusOrbits.Misc2.ne_one_of_galE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:11:46.07274+00:00
 -- url     : https://prove2.me/theorems/04445a93-2222-41a7-abd4-bf560e3c45bd

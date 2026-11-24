@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramSchmidtCont_continuousOn_uMat_apply
 -- name    : GlobalTheory.GramSchmidtCont.continuousOn_uMat_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:56:40.964119+00:00
 -- url     : https://prove2.me/theorems/3adf35b7-88d5-4d6d-a1f4-b97ddb48bcd4

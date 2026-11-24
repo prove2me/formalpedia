@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_KLExA_projI_self
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.KLExA.projI_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:47:54.042798+00:00
 -- url     : https://prove2.me/theorems/5ab759f0-46be-4064-a6aa-3722324827b3

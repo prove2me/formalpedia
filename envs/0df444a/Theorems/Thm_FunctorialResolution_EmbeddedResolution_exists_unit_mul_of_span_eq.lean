@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_exists_unit_mul_of_span_eq
 -- name    : FunctorialResolution.EmbeddedResolution.exists_unit_mul_of_span_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:58:39.75183+00:00
 -- url     : https://prove2.me/theorems/e1745b8f-7d7a-45e1-b1d0-a146cc0a2274

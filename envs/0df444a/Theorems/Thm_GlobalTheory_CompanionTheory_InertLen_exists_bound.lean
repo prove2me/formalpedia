@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertLen_exists_bound
 -- name    : GlobalTheory.CompanionTheory.InertLen.exists_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:01:53.597392+00:00
 -- url     : https://prove2.me/theorems/87c432a2-4c49-451d-8f0d-0314fa3ce569

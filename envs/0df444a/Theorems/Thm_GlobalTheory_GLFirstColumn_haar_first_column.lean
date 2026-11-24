@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GLFirstColumn_haar_first_column
 -- name    : GlobalTheory.GLFirstColumn.haar_first_column
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:41:21.291815+00:00
 -- url     : https://prove2.me/theorems/1845cfeb-604f-4e93-bc5e-3623e9e105d5

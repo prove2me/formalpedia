@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HTLat_step_succ
 -- name    : GlobalTheory.HTLat.step_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:01:59.404799+00:00
 -- url     : https://prove2.me/theorems/a129d8ba-2a3d-470f-b5e3-c464f11dc0d6

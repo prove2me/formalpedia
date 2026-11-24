@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_AffLoc_eq_of_secMap_eq_on_pairs
 -- name    : GlobalTheory.CechDR.AffLoc.eq_of_secMap_eq_on_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:01:04.8258+00:00
 -- url     : https://prove2.me/theorems/58e777cf-ecdc-4169-8ec6-770519408a46

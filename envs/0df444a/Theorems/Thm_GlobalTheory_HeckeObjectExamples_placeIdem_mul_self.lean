@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeObjectExamples_placeIdem_mul_self
 -- name    : GlobalTheory.HeckeObjectExamples.placeIdem_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:03:35.870197+00:00
 -- url     : https://prove2.me/theorems/97768c29-bba7-4b54-96f3-68162ceaa9e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_ListSumSplittings_ckOn_const__e377d3c1ddb7
 -- name    : P2M_Formalism_FourierDecayAlt_P_ListSumSplittings_ckOn_const__e377d3c1ddb7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:07:26.266353+00:00
 -- url     : https://prove2.me/theorems/b396bf0b-b96f-4ac8-b134-340cab34b6b6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactAvgSchwartz_isLocallyConstant_comp
 -- name    : GlobalTheory.CompactAvgSchwartz.isLocallyConstant_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:00:53.754629+00:00
 -- url     : https://prove2.me/theorems/01d164b2-b40a-4fc5-85c2-1e87b4ccbeef

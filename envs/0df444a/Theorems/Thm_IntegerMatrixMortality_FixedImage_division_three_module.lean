@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntegerMatrixMortality_FixedImage_division_three_module
 -- name    : IntegerMatrixMortality.FixedImage.division_three_module
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T14:33:38.010199+00:00
 -- url     : https://prove2.me/theorems/e409bc38-29eb-4132-b07a-575977dfb745

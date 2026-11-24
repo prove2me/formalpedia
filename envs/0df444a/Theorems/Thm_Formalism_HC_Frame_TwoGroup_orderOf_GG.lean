@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_TwoGroup_orderOf_GG
 -- name    : Formalism.HC.Frame.TwoGroup.orderOf_GG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:54:03.26118+00:00
 -- url     : https://prove2.me/theorems/af3a1140-f742-4f6f-b3b9-892059b8102b

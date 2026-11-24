@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeGal_exists_unique_hchar_of_finite_order
 -- name    : GlobalTheory.HeckeGal.exists_unique_hchar_of_finite_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:03:02.831705+00:00
 -- url     : https://prove2.me/theorems/3e9fdeb4-5706-43e3-b325-5fb84725fe19

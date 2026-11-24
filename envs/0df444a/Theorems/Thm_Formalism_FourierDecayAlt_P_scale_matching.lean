@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_scale_matching
 -- name    : Formalism.FourierDecayAlt.P.scale_matching
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:58:28.167928+00:00
 -- url     : https://prove2.me/theorems/8ab4a6dc-6ae7-4caf-84fa-95b2da1c8d5f

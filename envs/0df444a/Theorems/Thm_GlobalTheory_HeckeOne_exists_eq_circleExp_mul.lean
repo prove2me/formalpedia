@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeOne_exists_eq_circleExp_mul
 -- name    : GlobalTheory.HeckeOne.exists_eq_circleExp_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:03:52.748611+00:00
 -- url     : https://prove2.me/theorems/12b4c130-610d-47dd-914c-8857e9ce44c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_redQ_injective
 -- name    : GlobalTheory.BK.PhiMod.redQ_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:57:52.059795+00:00
 -- url     : https://prove2.me/theorems/cee50ca0-1a19-43da-a383-56234a576126

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_hat_coe_A
 -- name    : GlobalTheory.BK.hat_coe_A
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:58:51.621794+00:00
 -- url     : https://prove2.me/theorems/f257aae6-7b8b-44bf-871a-b22d6b0521db

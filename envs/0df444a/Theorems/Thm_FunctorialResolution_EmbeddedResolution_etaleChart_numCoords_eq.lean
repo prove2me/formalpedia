@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_etaleChart_numCoords_eq
 -- name    : FunctorialResolution.EmbeddedResolution.etaleChart_numCoords_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:58:54.23688+00:00
 -- url     : https://prove2.me/theorems/7219600e-cbc4-4f85-b9d3-5bbe80d36f08

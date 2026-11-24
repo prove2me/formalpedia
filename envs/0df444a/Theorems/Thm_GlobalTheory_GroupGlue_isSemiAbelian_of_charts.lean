@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GroupGlue_isSemiAbelian_of_charts
 -- name    : GlobalTheory.GroupGlue.isSemiAbelian_of_charts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:57:40.67707+00:00
 -- url     : https://prove2.me/theorems/9d9755db-a558-42fe-b710-13ed888f0379

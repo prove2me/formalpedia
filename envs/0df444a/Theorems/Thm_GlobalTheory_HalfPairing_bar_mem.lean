@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HalfPairing_bar_mem
 -- name    : GlobalTheory.HalfPairing.bar_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:02:46.422413+00:00
 -- url     : https://prove2.me/theorems/37f90401-e6c5-46e6-8d38-effd574608c6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FreeQuotient_finite_projective_invariants_iff
 -- name    : GlobalTheory.FreeQuotient.finite_projective_invariants_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:40:43.045689+00:00
 -- url     : https://prove2.me/theorems/ad0c1871-1e31-4e72-bbd4-a3a05a31e887

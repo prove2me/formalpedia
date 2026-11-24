@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_card_hermMod
 -- name    : GlobalTheory.CompanionTheory.UnrDens.card_hermMod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:20:32.99638+00:00
 -- url     : https://prove2.me/theorems/93ebb47e-3d9d-4c0f-b1c4-8b35717263d1

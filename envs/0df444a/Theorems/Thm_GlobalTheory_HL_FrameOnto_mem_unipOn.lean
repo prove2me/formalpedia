@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameOnto_mem_unipOn
 -- name    : GlobalTheory.HL.FrameOnto.mem_unipOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:00:28.576674+00:00
 -- url     : https://prove2.me/theorems/81f7827a-c74b-44f9-b334-9957d35a3a5c

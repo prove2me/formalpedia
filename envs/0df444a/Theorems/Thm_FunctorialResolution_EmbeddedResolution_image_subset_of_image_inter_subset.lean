@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_image_subset_of_image_inter_subset
 -- name    : FunctorialResolution.EmbeddedResolution.image_subset_of_image_inter_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:58:49.383804+00:00
 -- url     : https://prove2.me/theorems/f97de542-33b1-4c05-a506-7876f206fad7

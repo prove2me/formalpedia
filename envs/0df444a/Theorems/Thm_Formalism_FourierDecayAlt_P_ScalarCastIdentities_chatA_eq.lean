@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ScalarCastIdentities_chatA_eq
 -- name    : Formalism.FourierDecayAlt.P.ScalarCastIdentities.chatA_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:07:52.833858+00:00
 -- url     : https://prove2.me/theorems/78d06c14-d945-4b40-ad14-e71570b1997f

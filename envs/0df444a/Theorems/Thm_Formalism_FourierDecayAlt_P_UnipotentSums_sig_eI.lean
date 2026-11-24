@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_UnipotentSums_sig_eI
 -- name    : Formalism.FourierDecayAlt.P.UnipotentSums.sig_eI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:05:29.093956+00:00
 -- url     : https://prove2.me/theorems/98d38d34-2335-4593-a4f2-6e458dea3da4

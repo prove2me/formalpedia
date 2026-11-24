@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z0_BR_unimod_of_selfDual
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z0.BR.unimod_of_selfDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:59:37.560808+00:00
 -- url     : https://prove2.me/theorems/c364bc55-a6e4-4ea5-99a0-089c09e272db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_zero_mem_solSet
 -- name    : GlobalTheory.HCA.zero_mem_solSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:59:29.558898+00:00
 -- url     : https://prove2.me/theorems/91d217b3-2a9b-4d71-9309-63cc37047d4a

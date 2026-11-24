@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_cst_single
 -- name    : GlobalTheory.BK.cst_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:01:45.788864+00:00
 -- url     : https://prove2.me/theorems/859d4927-8892-4172-985d-9246ee7567e7

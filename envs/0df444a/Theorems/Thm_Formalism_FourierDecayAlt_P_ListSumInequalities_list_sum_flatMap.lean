@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ListSumInequalities_list_sum_flatMap
 -- name    : Formalism.FourierDecayAlt.P.ListSumInequalities.list_sum_flatMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:49:06.087797+00:00
 -- url     : https://prove2.me/theorems/eb2c4b01-36ee-45f3-90e6-56ca1cdd5c71

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_CoefDecay_cstW_spec
 -- name    : Formalism.L2.SG.Pf.CoefDecay.cstW_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:55:32.275064+00:00
 -- url     : https://prove2.me/theorems/aaccc99b-b4b3-4a66-8627-35a96957a427

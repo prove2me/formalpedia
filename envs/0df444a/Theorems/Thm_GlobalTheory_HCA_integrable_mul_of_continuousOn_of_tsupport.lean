@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_integrable_mul_of_continuousOn_of_tsupport
 -- name    : GlobalTheory.HCA.integrable_mul_of_continuousOn_of_tsupport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:00:05.035322+00:00
 -- url     : https://prove2.me/theorems/fb2e4682-b00d-4d28-824e-07d2dfb4e0d8

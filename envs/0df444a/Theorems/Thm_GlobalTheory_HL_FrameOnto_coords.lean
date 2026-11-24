@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameOnto_coords
 -- name    : GlobalTheory.HL.FrameOnto.coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:00:51.458378+00:00
 -- url     : https://prove2.me/theorems/b9a155f3-2915-4738-8d03-fadbf7530174

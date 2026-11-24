@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_capComatrix
 -- name    : Formalism.QuantumDeterminants.capComatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:16:26.948508+00:00
 -- url     : https://prove2.me/theorems/f467c57d-aab8-4fa1-bf02-f257d72ccab8

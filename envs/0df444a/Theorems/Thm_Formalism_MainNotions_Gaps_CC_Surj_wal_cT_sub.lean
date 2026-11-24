@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_CC_Surj_wal_cT_sub
 -- name    : Formalism.MainNotions.Gaps.CC.Surj.wal_cT_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:57:33.261362+00:00
 -- url     : https://prove2.me/theorems/da999441-e7bf-4059-89cf-4ee38d2241bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FreeQuotient_bijective_toInvariantsTensor
 -- name    : GlobalTheory.FreeQuotient.bijective_toInvariantsTensor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:37:06.839172+00:00
 -- url     : https://prove2.me/theorems/20b38c54-0341-42ef-8c63-37eee15390ef

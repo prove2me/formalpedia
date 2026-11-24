@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SimpleDensity_exists_smul_eq_end
 -- name    : GlobalTheory.CompanionTheory.SimpleDensity.exists_smul_eq_end
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:02:23.178136+00:00
 -- url     : https://prove2.me/theorems/744a3e6f-e1c2-401e-bc82-1d5b8c5b4639

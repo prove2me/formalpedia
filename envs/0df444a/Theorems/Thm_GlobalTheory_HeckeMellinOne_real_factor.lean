@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeMellinOne_real_factor
 -- name    : GlobalTheory.HeckeMellinOne.real_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:03:57.143716+00:00
 -- url     : https://prove2.me/theorems/267f305e-74a2-4146-ac92-b6c21d1ffb5e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_markedTripleOrderOne_isAdmissible
 -- name    : FunctorialResolution.EmbeddedResolution.markedTripleOrderOne_isAdmissible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:58:05.107483+00:00
 -- url     : https://prove2.me/theorems/970e0486-dc4c-4666-82ea-d3b4fbbecc25

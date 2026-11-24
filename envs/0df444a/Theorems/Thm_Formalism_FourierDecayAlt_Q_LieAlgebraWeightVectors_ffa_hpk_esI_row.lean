@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LieAlgebraWeightVectors_ffa_hpk_esI_row
 -- name    : Formalism.FourierDecayAlt.Q.LieAlgebraWeightVectors.ffa_hpk_esI_row
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:43:54.55195+00:00
 -- url     : https://prove2.me/theorems/83111eb1-a5ad-4ee2-b987-5f9b9ed60fbb

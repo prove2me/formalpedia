@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeSplitAll_Approx_nat_ne_zero_fin
 -- name    : GlobalTheory.HeckeSplitAll.Approx.nat_ne_zero_fin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:04:57.214798+00:00
 -- url     : https://prove2.me/theorems/32c3cab1-1fe8-45d5-9269-47517d84e2b8

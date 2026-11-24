@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LieAlgebraWeightVectors_sv_uw_slev
 -- name    : Formalism.FourierDecayAlt.Q.LieAlgebraWeightVectors.sv_uw_slev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:46:50.293802+00:00
 -- url     : https://prove2.me/theorems/d00e8433-db98-425a-893d-d617ae8a2074

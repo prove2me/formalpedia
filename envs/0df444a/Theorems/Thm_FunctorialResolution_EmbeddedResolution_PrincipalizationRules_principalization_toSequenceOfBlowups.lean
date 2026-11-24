@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_PrincipalizationRules_principalization_toSequenceOfBlowups
 -- name    : FunctorialResolution.EmbeddedResolution.PrincipalizationRules.principalization_toSequenceOfBlowups
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:58:15.959198+00:00
 -- url     : https://prove2.me/theorems/df2a0be9-9c23-41ee-ad68-89a7c4bc8e29

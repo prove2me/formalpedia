@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hadamard_gram_sum_smul
 -- name    : GlobalTheory.Hadamard.gram_sum_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:02:21.8697+00:00
 -- url     : https://prove2.me/theorems/19d6664a-9048-479e-894d-566ec2b6c4ad

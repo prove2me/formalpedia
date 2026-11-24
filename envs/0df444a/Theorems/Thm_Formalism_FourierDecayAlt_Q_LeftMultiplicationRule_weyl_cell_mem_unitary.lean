@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LeftMultiplicationRule_weyl_cell_mem_unitary
 -- name    : Formalism.FourierDecayAlt.Q.LeftMultiplicationRule.weyl_cell_mem_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:24:23.854419+00:00
 -- url     : https://prove2.me/theorems/2da73fcb-1456-486d-afce-cdb38c2891c5

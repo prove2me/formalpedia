@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CoordExist_not_field
 -- name    : GlobalTheory.HL.CoordExist.not_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:00:10.829717+00:00
 -- url     : https://prove2.me/theorems/06155954-d4ec-41b3-813c-1b0c9085b55d

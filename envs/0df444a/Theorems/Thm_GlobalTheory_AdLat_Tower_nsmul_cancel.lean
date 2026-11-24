@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_Tower_nsmul_cancel
 -- name    : GlobalTheory.AdLat.Tower.nsmul_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:58:29.61917+00:00
 -- url     : https://prove2.me/theorems/3bab56b2-29bf-4da2-929e-84ca489d898e

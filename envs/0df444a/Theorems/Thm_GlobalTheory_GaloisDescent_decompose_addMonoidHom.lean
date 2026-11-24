@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescent_decompose_addMonoidHom
 -- name    : GlobalTheory.GaloisDescent.decompose_addMonoidHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:42:55.764933+00:00
 -- url     : https://prove2.me/theorems/4f3ce7ca-24bb-4815-a7f3-28e6478367a3

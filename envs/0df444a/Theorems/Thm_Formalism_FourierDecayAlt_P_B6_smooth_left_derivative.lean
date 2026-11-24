@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_smooth_left_derivative
 -- name    : Formalism.FourierDecayAlt.P.B6.smooth_left_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:05:33.23382+00:00
 -- url     : https://prove2.me/theorems/9dff8fcb-6629-47c2-9833-868738260d39

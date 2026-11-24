@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_ana_rdLocal
 -- name    : AAInvW.ana_rdLocal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:56:43.70694+00:00
 -- url     : https://prove2.me/theorems/3a281c6a-3632-4f14-9266-0ba127f48573

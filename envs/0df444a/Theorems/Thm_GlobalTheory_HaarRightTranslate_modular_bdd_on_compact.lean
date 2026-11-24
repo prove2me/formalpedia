@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HaarRightTranslate_modular_bdd_on_compact
 -- name    : GlobalTheory.HaarRightTranslate.modular_bdd_on_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:02:04.624198+00:00
 -- url     : https://prove2.me/theorems/df04dd20-1f6e-4b15-a10a-6638cce6d4bb

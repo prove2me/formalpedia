@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z0_LF_loc_le_of_denom
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z0.LF.loc_le_of_denom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:58:22.148795+00:00
 -- url     : https://prove2.me/theorems/9d3a029f-a5ac-4247-aca6-6fe8debe7b39

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostAx_hostFiniteOrder
 -- name    : Formalism.HC.HostAx.hostFiniteOrder
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:54:51.49485+00:00
 -- url     : https://prove2.me/theorems/bf89fe4c-69e7-4ef8-8ac4-0b23c069e976

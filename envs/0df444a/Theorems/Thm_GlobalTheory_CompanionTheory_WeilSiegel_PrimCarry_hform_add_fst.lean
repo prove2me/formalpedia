@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WeilSiegel_PrimCarry_hform_add_fst
 -- name    : GlobalTheory.CompanionTheory.WeilSiegel.PrimCarry.hform_add_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:03:10.63207+00:00
 -- url     : https://prove2.me/theorems/8bd84f5e-a143-4fe7-9a73-ac0d68c99444

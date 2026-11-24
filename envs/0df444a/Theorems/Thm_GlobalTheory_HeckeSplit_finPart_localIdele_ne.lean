@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeSplit_finPart_localIdele_ne
 -- name    : GlobalTheory.HeckeSplit.finPart_localIdele_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:04:55.028049+00:00
 -- url     : https://prove2.me/theorems/0b377b4c-4a85-4048-9d9c-b059665e63c4

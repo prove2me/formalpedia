@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FubiniStudyHessian_wdb_log
 -- name    : GlobalTheory.FubiniStudyHessian.wdb_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:40:12.454744+00:00
 -- url     : https://prove2.me/theorems/52b6e995-5bb1-4fd9-8e1a-6adb003f60dd

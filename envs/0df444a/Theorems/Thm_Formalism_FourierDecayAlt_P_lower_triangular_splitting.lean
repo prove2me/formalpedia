@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_lower_triangular_splitting
 -- name    : Formalism.FourierDecayAlt.P.lower_triangular_splitting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:48:10.175493+00:00
 -- url     : https://prove2.me/theorems/ef3fd527-021f-4bf0-b649-6f55cb5d43a8

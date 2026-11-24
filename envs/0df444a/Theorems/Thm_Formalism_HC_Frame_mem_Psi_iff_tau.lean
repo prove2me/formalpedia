@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_mem_Psi_iff_tau
 -- name    : Formalism.HC.Frame.mem_Psi_iff_tau
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:53:12.175227+00:00
 -- url     : https://prove2.me/theorems/7817f786-e92a-4182-9b31-29522188aa65

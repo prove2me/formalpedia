@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HaarCosetSum_integral_eq_vol_mul_sum_of_cosets
 -- name    : GlobalTheory.HaarCosetSum.integral_eq_vol_mul_sum_of_cosets
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:01:48.65482+00:00
 -- url     : https://prove2.me/theorems/699a0870-de69-42c6-8ba5-d44d2e854bbd

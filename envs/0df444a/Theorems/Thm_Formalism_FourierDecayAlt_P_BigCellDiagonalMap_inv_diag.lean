@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BigCellDiagonalMap_inv_diag
 -- name    : Formalism.FourierDecayAlt.P.BigCellDiagonalMap.inv_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:55:33.362429+00:00
 -- url     : https://prove2.me/theorems/bb89c1ef-72b1-42a5-b756-080207ede4de

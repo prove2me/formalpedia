@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TInvW_transfer_invariance_group_mul
 -- name    : Formalism.FourierDecayAlt.Q.TInvW.transfer_invariance_group_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:52:31.401848+00:00
 -- url     : https://prove2.me/theorems/62b31cdb-2c26-4faa-997f-eaadf402145f

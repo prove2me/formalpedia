@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HasQExpansion_one_le_radius
 -- name    : GlobalTheory.HasQExpansion.one_le_radius
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:02:06.739667+00:00
 -- url     : https://prove2.me/theorems/db3cf3c8-6e64-4165-840e-3f7c201e20d6

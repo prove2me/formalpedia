@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OperatorRepresentations_smooth_coef
 -- name    : Formalism.FourierDecayAlt.P.OperatorRepresentations.smooth_coef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:10:03.846043+00:00
 -- url     : https://prove2.me/theorems/ecd2d0f7-c94a-406c-bcd8-beb787575da5

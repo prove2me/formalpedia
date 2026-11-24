@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_form_pow_smul_eq_zero_of_res_basicOpen
 -- name    : GlobalTheory.CechDR.form_pow_smul_eq_zero_of_res_basicOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:59:09.012379+00:00
 -- url     : https://prove2.me/theorems/98d36810-32b1-432a-88c0-80e1c1018c91

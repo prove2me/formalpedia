@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_exists_isIrreducibleComponentOfSupport
 -- name    : FunctorialResolution.EmbeddedResolution.exists_isIrreducibleComponentOfSupport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:55:39.670801+00:00
 -- url     : https://prove2.me/theorems/a886fab1-156a-4377-8c2a-cb8176325d17

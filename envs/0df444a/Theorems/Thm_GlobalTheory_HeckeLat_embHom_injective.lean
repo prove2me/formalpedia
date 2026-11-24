@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeLat_embHom_injective
 -- name    : GlobalTheory.HeckeLat.embHom_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:04:01.505824+00:00
 -- url     : https://prove2.me/theorems/4989dae3-981c-42f3-a36a-bf2fd486186a

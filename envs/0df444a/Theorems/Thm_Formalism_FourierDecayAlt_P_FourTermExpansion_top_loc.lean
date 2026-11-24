@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FourTermExpansion_top_loc
 -- name    : Formalism.FourierDecayAlt.P.FourTermExpansion.top_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:04:31.243918+00:00
 -- url     : https://prove2.me/theorems/80aa681f-d616-4d4f-a01a-8defc532816b

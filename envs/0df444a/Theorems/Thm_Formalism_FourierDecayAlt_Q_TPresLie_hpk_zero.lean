@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TPresLie_hpk_zero
 -- name    : Formalism.FourierDecayAlt.Q.TPresLie.hpk_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:53:41.780168+00:00
 -- url     : https://prove2.me/theorems/2f213de8-39b0-4242-8101-3ac639e55840

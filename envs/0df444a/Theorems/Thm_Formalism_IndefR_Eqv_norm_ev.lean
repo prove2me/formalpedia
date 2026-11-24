@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Eqv_norm_ev
 -- name    : Formalism.IndefR.Eqv.norm_ev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:55:52.961888+00:00
 -- url     : https://prove2.me/theorems/21faa5b6-fd66-4c15-817d-946dc0a9db00

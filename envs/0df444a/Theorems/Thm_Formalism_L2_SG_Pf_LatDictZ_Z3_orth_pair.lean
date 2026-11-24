@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z3_orth_pair
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z3.orth_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:57:48.712976+00:00
 -- url     : https://prove2.me/theorems/395515af-a1c7-47c8-a1d3-3ceb3d1e2894

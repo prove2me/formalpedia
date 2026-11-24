@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_thresholds_second_corollary
 -- name    : Formalism.FourierDecayAlt.P.thresholds_second_corollary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:40:12.324796+00:00
 -- url     : https://prove2.me/theorems/a8c05282-9abc-46c8-a0fa-8a5339a61730

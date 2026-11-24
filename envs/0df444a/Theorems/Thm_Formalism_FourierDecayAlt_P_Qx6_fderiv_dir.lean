@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx6_fderiv_dir
 -- name    : Formalism.FourierDecayAlt.P.Qx6.fderiv_dir
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:35:05.660322+00:00
 -- url     : https://prove2.me/theorems/a3c98450-cf7c-427e-959d-918d68232f28

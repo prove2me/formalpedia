@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_mem_span_l_pow_S_iff
 -- name    : GlobalTheory.BK.mem_span_l_pow_S_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:59:20.2355+00:00
 -- url     : https://prove2.me/theorems/2386f81b-651a-45f4-b827-6f5f5a1d19f8

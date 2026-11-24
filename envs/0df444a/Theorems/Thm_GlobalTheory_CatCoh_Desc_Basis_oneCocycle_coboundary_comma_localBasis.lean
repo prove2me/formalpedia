@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CatCoh_Desc_Basis_oneCocycle_coboundary_comma_localBasis
 -- name    : GlobalTheory.CatCoh.Desc.Basis.oneCocycle_coboundary_comma_localBasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:13:55.912269+00:00
 -- url     : https://prove2.me/theorems/11fa12fd-ed5d-403f-bda7-8fae3cfa7a75

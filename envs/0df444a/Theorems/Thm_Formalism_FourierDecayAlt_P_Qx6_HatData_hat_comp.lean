@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx6_HatData_hat_comp
 -- name    : Formalism.FourierDecayAlt.P.Qx6.HatData.hat_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:34:00.566471+00:00
 -- url     : https://prove2.me/theorems/592e6e9f-2d69-4cb3-bda1-66cdaaa4e36b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_Half_herm_mem_of_fv
 -- name    : GlobalTheory.AdLat.Half.herm_mem_of_fv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:58:35.318476+00:00
 -- url     : https://prove2.me/theorems/88c3f55b-1887-48da-b7f3-0d7202c6ef67

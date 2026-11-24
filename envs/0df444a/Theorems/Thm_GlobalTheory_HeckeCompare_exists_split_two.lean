@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeCompare_exists_split_two
 -- name    : GlobalTheory.HeckeCompare.exists_split_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:03:23.912395+00:00
 -- url     : https://prove2.me/theorems/9b8d9136-120e-488c-9ce2-7f0894158b64

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux10_aesm_deriv
 -- name    : Formalism.FourierDecayAlt.P.Ux10.aesm_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:11:37.04562+00:00
 -- url     : https://prove2.me/theorems/0419bbf0-a38b-42d4-b974-68ebfa9ede85

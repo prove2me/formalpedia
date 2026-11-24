@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameOnto_spanTo_le_perp
 -- name    : GlobalTheory.HL.FrameOnto.spanTo_le_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:00:26.472828+00:00
 -- url     : https://prove2.me/theorems/d51754cd-e121-4a90-bf19-c51179329cbf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_mOm_eq_exteriorPowerMapOver
 -- name    : GlobalTheory.CechDR.mOm_eq_exteriorPowerMapOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:59:32.081363+00:00
 -- url     : https://prove2.me/theorems/0ec7d5f7-d04b-4666-bffa-c9f52060b9af

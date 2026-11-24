@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_conn_xiExt
 -- name    : GlobalTheory.BK.PhiMod.conn_xiExt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:58:11.964136+00:00
 -- url     : https://prove2.me/theorems/046a38ed-52b9-4d5f-a70a-852627fe930c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Eichler_eich_inv
 -- name    : GlobalTheory.HL.Eichler.eich_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:00:06.706288+00:00
 -- url     : https://prove2.me/theorems/e2fc9794-833c-490b-b15b-f91043e9e20d

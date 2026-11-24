@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hadamard_sum_norm_apply_sq_le
 -- name    : GlobalTheory.Hadamard.sum_norm_apply_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:02:27.157961+00:00
 -- url     : https://prove2.me/theorems/7987cb4f-8656-4c80-8cf1-2ec6cae732bf

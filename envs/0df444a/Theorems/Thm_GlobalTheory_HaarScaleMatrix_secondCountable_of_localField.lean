@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HaarScaleMatrix_secondCountable_of_localField
 -- name    : GlobalTheory.HaarScaleMatrix.secondCountable_of_localField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:02:16.368074+00:00
 -- url     : https://prove2.me/theorems/3899c1e0-fa22-4019-8462-a668a3f244f8

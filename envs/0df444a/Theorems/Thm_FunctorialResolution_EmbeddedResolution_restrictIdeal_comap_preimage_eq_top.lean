@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_restrictIdeal_comap_preimage_eq_top
 -- name    : FunctorialResolution.EmbeddedResolution.restrictIdeal_comap_preimage_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:57:44.175543+00:00
 -- url     : https://prove2.me/theorems/5910311c-5bcc-468e-a302-2009a3a71de2

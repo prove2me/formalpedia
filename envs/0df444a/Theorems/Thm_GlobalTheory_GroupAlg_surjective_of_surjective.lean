@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GroupAlg_surjective_of_surjective
 -- name    : GlobalTheory.GroupAlg.surjective_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:57:36.40801+00:00
 -- url     : https://prove2.me/theorems/f033dd04-4cfb-49b1-bee8-4d840f4c3267

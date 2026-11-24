@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_compact_subgroup_conjugation
 -- name    : Formalism.FourierDecayAlt.P.compact_subgroup_conjugation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:38:33.813385+00:00
 -- url     : https://prove2.me/theorems/47fd9b57-349b-44b2-beaa-313bef8b0ee1

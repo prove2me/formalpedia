@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CatCoh_Desc_pull2_surjective_of_comma
 -- name    : GlobalTheory.CatCoh.Desc.pull2_surjective_of_comma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:59:52.95328+00:00
 -- url     : https://prove2.me/theorems/845e8ae7-03ab-418d-b1cb-21148d0e4049

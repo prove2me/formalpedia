@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_stalkIdeal_ne_bot_of_nonzeroOnComponents
 -- name    : FunctorialResolution.EmbeddedResolution.stalkIdeal_ne_bot_of_nonzeroOnComponents
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:59:31.991824+00:00
 -- url     : https://prove2.me/theorems/b59acf27-ca37-4dc6-a378-392d458caaee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CoordExist_gram_eq
 -- name    : GlobalTheory.HL.CoordExist.gram_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:59:56.063563+00:00
 -- url     : https://prove2.me/theorems/784e6ebd-39b0-4f71-81a4-a428a9134073

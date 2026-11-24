@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx6_expFCE
 -- name    : Formalism.FourierDecayAlt.P.Qx6.expFCE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:33:39.87285+00:00
 -- url     : https://prove2.me/theorems/c528be5c-e832-4333-9cdd-6354f646b635

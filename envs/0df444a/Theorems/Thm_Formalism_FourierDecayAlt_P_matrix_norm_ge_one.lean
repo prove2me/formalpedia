@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_matrix_norm_ge_one
 -- name    : Formalism.FourierDecayAlt.P.matrix_norm_ge_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:23:52.077281+00:00
 -- url     : https://prove2.me/theorems/aa16b1ec-16e2-4e10-9c2b-7960d990f1d7

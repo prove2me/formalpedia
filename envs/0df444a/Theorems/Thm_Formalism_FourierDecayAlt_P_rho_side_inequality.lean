@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_rho_side_inequality
 -- name    : Formalism.FourierDecayAlt.P.rho_side_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:40:04.733862+00:00
 -- url     : https://prove2.me/theorems/4aedf213-1ce9-4822-bed6-21e82dc5d5f7

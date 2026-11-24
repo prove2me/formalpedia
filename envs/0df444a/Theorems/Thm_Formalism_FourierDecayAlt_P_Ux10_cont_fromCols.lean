@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux10_cont_fromCols
 -- name    : Formalism.FourierDecayAlt.P.Ux10.cont_fromCols
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:11:05.167499+00:00
 -- url     : https://prove2.me/theorems/7df7261b-33e7-4dc2-a959-cc57c0a9cd36

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EpsCocycle_exists_cocycle_one_add_eps
 -- name    : GlobalTheory.EpsCocycle.exists_cocycle_one_add_eps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:58:05.946824+00:00
 -- url     : https://prove2.me/theorems/fd4a4f45-e457-4585-a90f-2caeac4f0b24

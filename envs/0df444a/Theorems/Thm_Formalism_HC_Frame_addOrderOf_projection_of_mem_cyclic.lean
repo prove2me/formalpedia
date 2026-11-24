@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_addOrderOf_projection_of_mem_cyclic
 -- name    : Formalism.HC.Frame.addOrderOf_projection_of_mem_cyclic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:53:10.505647+00:00
 -- url     : https://prove2.me/theorems/f4e27ce1-1743-45e4-91ac-990ceb5f8abb

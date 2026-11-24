@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HalfPairing_exists_span
 -- name    : GlobalTheory.HalfPairing.exists_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:03:27.272798+00:00
 -- url     : https://prove2.me/theorems/cedbb4a2-6d6e-4223-bc02-873835e1abf9

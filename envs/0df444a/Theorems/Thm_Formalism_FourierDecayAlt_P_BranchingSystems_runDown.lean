@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BranchingSystems_runDown
 -- name    : Formalism.FourierDecayAlt.P.BranchingSystems.runDown
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:52:39.545683+00:00
 -- url     : https://prove2.me/theorems/3c9d8953-aefc-4474-8c45-9f4aded4f52a

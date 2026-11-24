@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostAx_exists_d
 -- name    : Formalism.HC.HostAx.exists_d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:56:34.119365+00:00
 -- url     : https://prove2.me/theorems/31dde760-9dd1-4250-ba25-186daf19302a

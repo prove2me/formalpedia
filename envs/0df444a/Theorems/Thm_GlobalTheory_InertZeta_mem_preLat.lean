@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_mem_preLat
 -- name    : GlobalTheory.InertZeta.mem_preLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:28:24.128811+00:00
 -- url     : https://prove2.me/theorems/10ce15a4-9965-46dc-8fdc-d24f26dea2e6

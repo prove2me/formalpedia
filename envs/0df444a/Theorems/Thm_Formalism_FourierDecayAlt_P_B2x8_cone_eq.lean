@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_cone_eq
 -- name    : Formalism.FourierDecayAlt.P.B2x8.cone_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:42:47.669382+00:00
 -- url     : https://prove2.me/theorems/fe329db5-74de-4d0a-9c34-28d27e0c5641

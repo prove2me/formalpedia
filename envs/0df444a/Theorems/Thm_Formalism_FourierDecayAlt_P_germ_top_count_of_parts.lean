@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_germ_top_count_of_parts
 -- name    : Formalism.FourierDecayAlt.P.germ_top_count_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:38:26.270525+00:00
 -- url     : https://prove2.me/theorems/cbf1d197-be16-4aee-b429-6c09cf249cb3

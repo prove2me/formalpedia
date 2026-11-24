@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertLen_excess_iff
 -- name    : GlobalTheory.CompanionTheory.InertLen.excess_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:02:32.543124+00:00
 -- url     : https://prove2.me/theorems/dc479982-69a3-4f84-87b1-380ef2bfb10d

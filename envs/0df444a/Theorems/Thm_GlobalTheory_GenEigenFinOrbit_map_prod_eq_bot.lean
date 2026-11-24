@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenEigenFinOrbit_map_prod_eq_bot
 -- name    : GlobalTheory.GenEigenFinOrbit.map_prod_eq_bot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:32:51.613297+00:00
 -- url     : https://prove2.me/theorems/a073e9a1-94cb-4d2d-8c58-775e866e1f0f

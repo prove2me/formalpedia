@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlueCover_chartMeas_finite
 -- name    : GlobalTheory.GlueCover.chartMeas_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:55:13.72458+00:00
 -- url     : https://prove2.me/theorems/1f74cfea-642f-4cc7-9aa1-a5f41545c2d3

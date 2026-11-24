@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertCount_neg_add_out_mem
 -- name    : GlobalTheory.CompanionTheory.InertCount.neg_add_out_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:01:41.661832+00:00
 -- url     : https://prove2.me/theorems/5dee7c56-92ba-4c89-9b3d-f7fb7c58e5f0

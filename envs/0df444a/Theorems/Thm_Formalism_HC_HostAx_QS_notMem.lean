@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostAx_QS_notMem
 -- name    : Formalism.HC.HostAx.QS_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:56:19.814157+00:00
 -- url     : https://prove2.me/theorems/23e7c8aa-5e4a-4874-a536-2d0e4a6018e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GroupAlg_finitePresentation_of_injective
 -- name    : GlobalTheory.GroupAlg.finitePresentation_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:57:52.247537+00:00
 -- url     : https://prove2.me/theorems/0fb3fbd3-a60a-4384-bfb2-3160ec53fda7

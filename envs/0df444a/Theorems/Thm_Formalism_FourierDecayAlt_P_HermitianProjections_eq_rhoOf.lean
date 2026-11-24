@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianProjections_eq_rhoOf
 -- name    : Formalism.FourierDecayAlt.P.HermitianProjections.eq_rhoOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:15:11.968086+00:00
 -- url     : https://prove2.me/theorems/e5262972-bcb0-49bd-a277-fb6c89677b3a

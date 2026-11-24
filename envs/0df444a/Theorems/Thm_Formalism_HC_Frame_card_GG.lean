@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_card_GG
 -- name    : Formalism.HC.Frame.card_GG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:53:01.549796+00:00
 -- url     : https://prove2.me/theorems/2c8d1a61-72de-4a22-ba6b-6abcfc18d9f1

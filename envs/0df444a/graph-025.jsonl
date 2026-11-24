@@ -39524,10 +39524,10 @@
 {"parent": "WeightedSpectralSketch.LowerBound.tv_le_leverage", "child": "FoundationsRL_DECLower_tvDist", "via": ["statement"]}
 {"parent": "WeightedSpectralSketch.LowerBound.tv_le_leverage", "child": "WeightedSpectralSketch_LowerBound_Stat", "via": ["statement"]}
 {"parent": "WeightedSpectralSketch.LowerBound.tv_le_leverage", "child": "WeightedSpectralSketch_LowerBound_Leverage", "via": ["statement"]}
-{"parent": "FairShareAlmostAll.Slack.bucket_supply", "child": "FairShareAlmostAll_Slack_Buckets", "via": ["statement"]}
-{"parent": "FairShareAlmostAll.Slack.bucket_supply", "child": "FairShareAlmostAll_Slack_Instance", "via": ["statement"]}
-{"parent": "FairShareAlmostAll.Slack.bucket_supply", "child": "AnyPriceShare_Bidding_Basic", "via": ["statement"]}
-{"parent": "FairShareAlmostAll.Slack.bucket_supply", "child": "FairShareAlmostAll_Slack_FiniteAllocation", "via": ["statement"]}
+{"parent": "FairShareAlmostAll.Slack.bucket_supply", "child": "FairShareAlmostAll_Slack_Buckets", "via": ["solution", "statement"]}
+{"parent": "FairShareAlmostAll.Slack.bucket_supply", "child": "FairShareAlmostAll_Slack_Instance", "via": ["solution", "statement"]}
+{"parent": "FairShareAlmostAll.Slack.bucket_supply", "child": "AnyPriceShare_Bidding_Basic", "via": ["solution", "statement"]}
+{"parent": "FairShareAlmostAll.Slack.bucket_supply", "child": "FairShareAlmostAll_Slack_FiniteAllocation", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.ha16_0_11_contains_g", "child": "OAIQ098G083", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.ha16_0_11_contains_g", "child": "OAIQ098G1680", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.ha16_0_11_contains_g", "child": "OAIQ098G388", "via": ["solution", "statement"]}
@@ -43240,7 +43240,7 @@
 {"parent": "IncoherentPurity.Adaptive.fisher_tv", "child": "IncoherentPurity_Adaptive_Analytic", "via": ["statement"]}
 {"parent": "IncoherentPurity.Adaptive.fisher_tv", "child": "IncoherentPurity_Adaptive_Estimators", "via": ["statement"]}
 {"parent": "TFIMPhaseDiagram.Classical.theorem_13", "child": "TFIMPhaseDiagram_Classical_entropy", "via": ["statement"]}
-{"parent": "ChangingCache.UpperBound.lemma_5_3", "child": "ChangingCache_UpperBound_NormalForm", "via": ["statement"]}
+{"parent": "ChangingCache.UpperBound.lemma_5_3", "child": "ChangingCache_UpperBound_NormalForm", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedTargetSemantics.reducedMergeEval246_e", "child": "MUBSix", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedTargetSemantics.reducedMergeEval246_e", "child": "OAIQ106E122", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedTargetSemantics.reducedMergeEval246_e", "child": "OAIQ106E130", "via": ["solution", "statement"]}

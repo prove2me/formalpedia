@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z0_SGA_norm_add_smul
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z0.SGA.norm_add_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:58:26.44539+00:00
 -- url     : https://prove2.me/theorems/4d81cf3d-b231-4163-b784-9e7f7db89425

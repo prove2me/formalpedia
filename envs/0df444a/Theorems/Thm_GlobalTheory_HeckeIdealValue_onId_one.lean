@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeIdealValue_onId_one
 -- name    : GlobalTheory.HeckeIdealValue.onId_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:03:03.643851+00:00
 -- url     : https://prove2.me/theorems/f9c2976d-5edb-4295-a772-a73b70f6e8d8

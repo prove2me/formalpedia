@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_derivative_bound_composition
 -- name    : Formalism.FourierDecayAlt.P.derivative_bound_composition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:38:24.439078+00:00
 -- url     : https://prove2.me/theorems/bf9f5673-bd06-4b55-a1b7-d207ba69ee39

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckePoisson_norm_toLp_half
 -- name    : GlobalTheory.HeckePoisson.norm_toLp_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:05:34.31729+00:00
 -- url     : https://prove2.me/theorems/b7d09c88-f163-47b6-9f72-26debf84c5a2

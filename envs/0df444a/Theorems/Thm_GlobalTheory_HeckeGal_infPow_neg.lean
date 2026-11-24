@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeGal_infPow_neg
 -- name    : GlobalTheory.HeckeGal.infPow_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:03:02.46581+00:00
 -- url     : https://prove2.me/theorems/31b34e5e-ab27-4920-a80e-7d93d952b299

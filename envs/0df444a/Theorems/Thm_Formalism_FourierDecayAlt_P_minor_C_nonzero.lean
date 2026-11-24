@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_minor_C_nonzero
 -- name    : Formalism.FourierDecayAlt.P.minor_C_nonzero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:40:40.418669+00:00
 -- url     : https://prove2.me/theorems/08b25d4c-7f89-4596-89d1-a23efe68bb4f

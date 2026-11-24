@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z2_planeForm_apply
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z2.planeForm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:00:14.712991+00:00
 -- url     : https://prove2.me/theorems/f3d8d650-2a82-4e2b-8012-5f0d03866247

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GradedFixed_mem_of_orbits
 -- name    : GlobalTheory.GradedFixed.mem_of_orbits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:57:05.663809+00:00
 -- url     : https://prove2.me/theorems/69326e1f-e94e-4395-a3ae-65fdfbe8bcc8

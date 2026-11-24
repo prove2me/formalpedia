@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z0_SGB_symm_restr
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z0.SGB.symm_restr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:57:43.454629+00:00
 -- url     : https://prove2.me/theorems/4e02f35c-66de-43ba-a5df-48a7eca57397

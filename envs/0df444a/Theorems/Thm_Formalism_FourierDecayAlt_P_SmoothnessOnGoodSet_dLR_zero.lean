@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SmoothnessOnGoodSet_dLR_zero
 -- name    : Formalism.FourierDecayAlt.P.SmoothnessOnGoodSet.dLR_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:05:21.645985+00:00
 -- url     : https://prove2.me/theorems/9294b411-985e-4aff-9352-3cef519ccae0

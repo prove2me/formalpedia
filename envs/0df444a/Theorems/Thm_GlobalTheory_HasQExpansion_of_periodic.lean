@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HasQExpansion_of_periodic
 -- name    : GlobalTheory.HasQExpansion.of_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:02:04.039581+00:00
 -- url     : https://prove2.me/theorems/4099610e-b7ee-4e99-8a53-919f410d058e

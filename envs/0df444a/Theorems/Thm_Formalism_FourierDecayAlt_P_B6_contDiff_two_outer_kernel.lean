@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_contDiff_two_outer_kernel
 -- name    : Formalism.FourierDecayAlt.P.B6.contDiff_two_outer_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:01:10.607311+00:00
 -- url     : https://prove2.me/theorems/27f3778f-45cc-4aec-b04f-d2c37c6ede37

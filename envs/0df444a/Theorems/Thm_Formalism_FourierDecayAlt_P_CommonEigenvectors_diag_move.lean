@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CommonEigenvectors_diag_move
 -- name    : Formalism.FourierDecayAlt.P.CommonEigenvectors.diag_move
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:53:18.386081+00:00
 -- url     : https://prove2.me/theorems/fecb01b2-9c2a-4e35-aae9-55d85ba50aad

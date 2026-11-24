@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HaarNullSub_addHaar_submodule_eq_zero
 -- name    : GlobalTheory.HaarNullSub.addHaar_submodule_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:02:00.587959+00:00
 -- url     : https://prove2.me/theorems/4092c5b4-8f4f-4a14-b0ac-35b127103ef4

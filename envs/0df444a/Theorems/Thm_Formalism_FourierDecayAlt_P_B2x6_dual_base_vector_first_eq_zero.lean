@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x6_dual_base_vector_first_eq_zero
 -- name    : Formalism.FourierDecayAlt.P.B2x6.dual_base_vector_first_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:03:20.944825+00:00
 -- url     : https://prove2.me/theorems/91904ca0-0c3a-4dde-8c1c-30d898b12906

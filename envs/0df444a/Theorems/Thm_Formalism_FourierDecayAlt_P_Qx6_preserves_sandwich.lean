@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx6_preserves_sandwich
 -- name    : Formalism.FourierDecayAlt.P.Qx6.preserves_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:34:34.933161+00:00
 -- url     : https://prove2.me/theorems/88dc2672-2dee-4fa0-a832-7c293b7c400b

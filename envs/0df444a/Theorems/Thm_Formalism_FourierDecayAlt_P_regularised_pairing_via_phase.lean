@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_regularised_pairing_via_phase
 -- name    : Formalism.FourierDecayAlt.P.regularised_pairing_via_phase
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:39:33.216912+00:00
 -- url     : https://prove2.me/theorems/f9f1efb9-2e11-44e9-8e08-098d634e1c38

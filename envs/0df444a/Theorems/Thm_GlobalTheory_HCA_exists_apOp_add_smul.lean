@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_exists_apOp_add_smul
 -- name    : GlobalTheory.HCA.exists_apOp_add_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:59:46.865036+00:00
 -- url     : https://prove2.me/theorems/33b88899-af03-468b-839a-63651d28b34d

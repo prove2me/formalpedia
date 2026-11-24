@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_eqOn_dw_lincomb_of_isOpen
 -- name    : GlobalTheory.HCA.eqOn_dw_lincomb_of_isOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:00:58.982868+00:00
 -- url     : https://prove2.me/theorems/f54a6175-b2d6-4f03-87ad-a305e77a9340

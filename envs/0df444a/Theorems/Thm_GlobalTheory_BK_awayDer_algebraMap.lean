@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_awayDer_algebraMap
 -- name    : GlobalTheory.BK.awayDer_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:57:48.632138+00:00
 -- url     : https://prove2.me/theorems/f0504c57-9911-4cbb-ba9b-afe525b3bbd7

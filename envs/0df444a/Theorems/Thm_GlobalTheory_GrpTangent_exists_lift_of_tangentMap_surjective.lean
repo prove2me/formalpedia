@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpTangent_exists_lift_of_tangentMap_surjective
 -- name    : GlobalTheory.GrpTangent.exists_lift_of_tangentMap_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:58:56.497051+00:00
 -- url     : https://prove2.me/theorems/b84d8027-61b8-4d5c-a63e-4032f500e9d4

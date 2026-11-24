@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameCompletion_isInt_submatrix
 -- name    : GlobalTheory.FrameCompletion.isInt_submatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:05:07.964914+00:00
 -- url     : https://prove2.me/theorems/d8c21875-e672-42ed-8c48-334d6ff80502

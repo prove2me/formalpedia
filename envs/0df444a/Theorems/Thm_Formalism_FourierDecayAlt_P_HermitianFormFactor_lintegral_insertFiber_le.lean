@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormFactor_lintegral_insertFiber_le
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormFactor.lintegral_insertFiber_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:17:27.116008+00:00
 -- url     : https://prove2.me/theorems/80ad52c0-db96-4539-8147-41150f27ccf8

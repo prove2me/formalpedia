@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_OneCosetProof_psi_shift
 -- name    : GlobalTheory.FunObj.OneCosetProof.psi_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:40:22.846026+00:00
 -- url     : https://prove2.me/theorems/2be704c3-ec96-4a28-a214-1d7645dd7103

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CoordMass_mem_riemannRochSpace_iff_regularAt_everywhere
 -- name    : GlobalTheory.HL.CoordMass.mem_riemannRochSpace_iff_regularAt_everywhere
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:00:24.27984+00:00
 -- url     : https://prove2.me/theorems/b062fd73-08c0-45cb-80ee-a8153395bbf0

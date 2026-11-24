@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_phi_extension_generator_eq_add
 -- name    : GlobalTheory.BK.PhiMod.phi_extension_generator_eq_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:43:43.933436+00:00
 -- url     : https://prove2.me/theorems/75e1264d-979d-4a44-907f-2bbe5d71a054

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_aeval_eq_of_charpoly_separable_involution
 -- name    : GlobalTheory.T.exists_aeval_eq_of_charpoly_separable_involution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:37:57.650528+00:00
 -- url     : https://prove2.me/theorems/ee8e04ad-a195-49a9-918c-e437f7137af4

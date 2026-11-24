@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_syracuse_initial_run_block_crossing_certificate
 -- name    : syracuse_initial_run_block_crossing_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @immiq
 -- created : 2026-11-24T17:05:21.657047+00:00
 -- url     : https://prove2.me/theorems/a82c640b-5eab-4f94-a322-faa9bb9d60b7

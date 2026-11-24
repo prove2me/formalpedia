@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ClosureOperators_trace_comm
 -- name    : Formalism.FourierDecayAlt.P.ClosureOperators.trace_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:51:32.258699+00:00
 -- url     : https://prove2.me/theorems/dcc37fd2-79eb-442d-a77f-6fea9f148043

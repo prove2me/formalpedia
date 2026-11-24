@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeOne_exists_entire_ne_zero
 -- name    : GlobalTheory.HeckeOne.exists_entire_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:03:22.674885+00:00
 -- url     : https://prove2.me/theorems/a3443186-38cf-448f-a1b0-c33c34caa239

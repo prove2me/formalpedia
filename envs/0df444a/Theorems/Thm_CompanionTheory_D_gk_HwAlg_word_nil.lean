@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_HwAlg_word_nil
 -- name    : CompanionTheory.D.gk.HwAlg.word_nil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:48:51.808284+00:00
 -- url     : https://prove2.me/theorems/db2ff30f-bd88-478a-86fe-65012169f3b1

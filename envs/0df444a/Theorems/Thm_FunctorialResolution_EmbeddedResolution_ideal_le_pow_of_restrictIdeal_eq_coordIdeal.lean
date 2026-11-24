@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_ideal_le_pow_of_restrictIdeal_eq_coordIdeal
 -- name    : FunctorialResolution.EmbeddedResolution.ideal_le_pow_of_restrictIdeal_eq_coordIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:58:39.362881+00:00
 -- url     : https://prove2.me/theorems/ae51244c-d8ca-4c18-8be5-888f5f20a110

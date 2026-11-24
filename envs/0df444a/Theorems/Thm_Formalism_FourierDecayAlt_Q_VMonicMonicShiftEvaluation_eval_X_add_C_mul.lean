@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_VMonicMonicShiftEvaluation_eval_X_add_C_mul
 -- name    : Formalism.FourierDecayAlt.Q.VMonicMonicShiftEvaluation.eval_X_add_C_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:54:04.030976+00:00
 -- url     : https://prove2.me/theorems/0df75cfa-9637-4aa5-a1de-80065897c72e

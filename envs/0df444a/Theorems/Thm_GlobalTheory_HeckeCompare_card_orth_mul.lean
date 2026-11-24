@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeCompare_card_orth_mul
 -- name    : GlobalTheory.HeckeCompare.card_orth_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:01:52.477519+00:00
 -- url     : https://prove2.me/theorems/b5606863-a893-46d2-9e1f-9d7a94f2a8ea

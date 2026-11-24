@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_lf_N_rowStar
 -- name    : AAInvW.lf_N_rowStar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:54:50.90495+00:00
 -- url     : https://prove2.me/theorems/6e531845-76ec-4943-86f2-29be75595502

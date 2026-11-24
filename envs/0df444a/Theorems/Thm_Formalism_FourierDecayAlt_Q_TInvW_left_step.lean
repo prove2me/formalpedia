@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TInvW_left_step
 -- name    : Formalism.FourierDecayAlt.Q.TInvW.left_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:52:08.964052+00:00
 -- url     : https://prove2.me/theorems/77a52bce-ca81-4e0a-bc05-e6acd36cb7fe

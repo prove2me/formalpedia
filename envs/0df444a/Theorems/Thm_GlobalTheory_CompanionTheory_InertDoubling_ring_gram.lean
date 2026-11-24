@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertDoubling_ring_gram
 -- name    : GlobalTheory.CompanionTheory.InertDoubling.ring_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:01:27.786722+00:00
 -- url     : https://prove2.me/theorems/6b791baf-53cb-447e-963f-06b19ddef0de

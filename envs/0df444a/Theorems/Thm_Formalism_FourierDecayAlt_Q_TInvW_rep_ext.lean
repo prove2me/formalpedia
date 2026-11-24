@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TInvW_rep_ext
 -- name    : Formalism.FourierDecayAlt.Q.TInvW.rep_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:52:19.871911+00:00
 -- url     : https://prove2.me/theorems/b7c24a6b-dc3f-4488-b875-e6e73ee88eab

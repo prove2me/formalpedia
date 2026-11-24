@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_budget_top_convergence
 -- name    : Formalism.FourierDecayAlt.P.budget_top_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:53:57.022126+00:00
 -- url     : https://prove2.me/theorems/98ed1ecf-86f1-4d2f-be68-b05b291e3d9b

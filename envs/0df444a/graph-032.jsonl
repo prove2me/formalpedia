@@ -49494,7 +49494,7 @@
 {"parent": "MetricMinTest.Supplement.theorem_D_3", "child": "MetricMinTest_Tester_IsValid", "via": ["statement"]}
 {"parent": "MetricMinTest.Supplement.theorem_D_3", "child": "MetricMinTest_IsPseudometric", "via": ["statement"]}
 {"parent": "MetricMinTest.Supplement.theorem_D_3", "child": "MetricMinTest_Supplement_ballCoverCost", "via": ["statement"]}
-{"parent": "DistributionTheoryMission.forced_heat_duhamel", "child": "liuyao_ca_fd889115_k1_Distributions_HeatDuhamelTargets", "via": ["statement"]}
+{"parent": "DistributionTheoryMission.forced_heat_duhamel", "child": "liuyao_ca_fd889115_k1_Distributions_HeatDuhamelTargets", "via": ["solution", "statement"]}
 {"parent": "CollectiveTreeExploration.Async.Supplement.theorem_1_2", "child": "CollectiveTreeExploration_Async_Supplement_Synchronous", "via": ["statement"]}
 {"parent": "PfaffianRecognition_Recognition_Supplement_cut_model", "child": "PfaffianRecognition_Recognition_graph_model", "via": ["statement"]}
 {"parent": "PfaffianRecognition_Recognition_Supplement_cut_model", "child": "FASTournament_IsStrong", "via": ["statement"]}
@@ -51646,7 +51646,7 @@
 {"parent": "BordenaveCollins.exists_linearization", "child": "BordenaveCollins", "via": ["solution", "statement"]}
 {"parent": "HypercliqueFalse_Supplement_apDetection", "child": "HypercliqueCircuits_Circuits_Supplement_Progression", "via": ["statement"]}
 {"parent": "HypercliqueFalse_Supplement_apDetection", "child": "TrulySubcubicAPSP_WordRAM", "via": ["statement"]}
-{"parent": "SymmetricDepthHierarchy.ConstantDepth.Supplement.theorem_7_7", "child": "SymmetricDepthHierarchy_ConstantDepth_Supplement_Joint", "via": ["statement"]}
+{"parent": "SymmetricDepthHierarchy.ConstantDepth.Supplement.theorem_7_7", "child": "SymmetricDepthHierarchy_ConstantDepth_Supplement_Joint", "via": ["solution", "statement"]}
 {"parent": "ReLUBinaryDepth_ProductTradeoff_Supplement_Layered", "child": "ReLUBinaryDepth_ProductTradeoff_Network", "via": ["statement"]}
 {"parent": "IndependentInfoPricing.Main.Supplement.smaller_side_transfer", "child": "IndependentInfoPricing_Main_Supplement_Orthant", "via": ["statement"]}
 {"parent": "MatroidSensOracle.Supplement.theorem_8_7", "child": "MatroidSensOracle_Supplement_AlphaAux", "via": ["statement"]}

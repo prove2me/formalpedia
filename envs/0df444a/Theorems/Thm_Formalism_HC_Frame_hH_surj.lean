@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_hH_surj
 -- name    : Formalism.HC.Frame.hH_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:53:45.639114+00:00
 -- url     : https://prove2.me/theorems/3a727c22-d60a-40eb-afc7-cf6cfef19499

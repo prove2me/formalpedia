@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLevelGen_incl_mem
 -- name    : Formalism.MainNotions.BridgeLevelGen.incl_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:00:01.274107+00:00
 -- url     : https://prove2.me/theorems/e6a4dc1b-1a8c-4f5d-b0bb-c4b227136c63

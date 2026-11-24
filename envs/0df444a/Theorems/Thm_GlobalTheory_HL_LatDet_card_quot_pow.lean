@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_LatDet_card_quot_pow
 -- name    : GlobalTheory.HL.LatDet.card_quot_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:00:44.813062+00:00
 -- url     : https://prove2.me/theorems/b0019d9d-674e-4724-99bf-2f42e3b11b23

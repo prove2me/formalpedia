@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux8_germInFormOfParts
 -- name    : Formalism.FourierDecayAlt.P.Ux8.germInFormOfParts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:54:07.494926+00:00
 -- url     : https://prove2.me/theorems/2695883c-c430-41aa-b2b2-d103b52030aa

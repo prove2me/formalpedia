@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Eichler_eich_isom
 -- name    : GlobalTheory.HL.Eichler.eich_isom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:00:04.281504+00:00
 -- url     : https://prove2.me/theorems/4072e2b0-0237-46d7-a139-3229b856677a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ListSumInequalities_vf_sum
 -- name    : Formalism.FourierDecayAlt.P.ListSumInequalities.vf_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:50:33.534478+00:00
 -- url     : https://prove2.me/theorems/a98ba4ab-35db-4089-b860-c19f41fcd020

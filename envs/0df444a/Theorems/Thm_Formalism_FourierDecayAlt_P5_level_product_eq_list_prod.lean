@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_level_product_eq_list_prod
 -- name    : Formalism.FourierDecayAlt.P5.level_product_eq_list_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:42:46.429657+00:00
 -- url     : https://prove2.me/theorems/66e80d6a-5772-4ce0-9a60-c3371f4f14d6

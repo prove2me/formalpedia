@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_pullHyp2_restrict_injective
 -- name    : GlobalTheory.CechDR.pullHyp2_restrict_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:59:29.831029+00:00
 -- url     : https://prove2.me/theorems/e0735364-2cbc-433f-a09e-85ccc5bb667c

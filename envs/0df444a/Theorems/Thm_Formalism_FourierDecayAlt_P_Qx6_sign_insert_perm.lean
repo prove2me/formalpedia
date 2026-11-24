@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx6_sign_insert_perm
 -- name    : Formalism.FourierDecayAlt.P.Qx6.sign_insert_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:34:05.757739+00:00
 -- url     : https://prove2.me/theorems/32e2b67f-3ab1-4183-8d3e-7c612d92b654

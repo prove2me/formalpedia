@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_lf_UW_row
 -- name    : AAInvW.lf_UW_row
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:55:25.727476+00:00
 -- url     : https://prove2.me/theorems/46610271-306b-4fcf-b3a7-4b76f4a4f81b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OperatorRepresentations_Rep_ext
 -- name    : Formalism.FourierDecayAlt.P.OperatorRepresentations.Rep.ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:08:32.366882+00:00
 -- url     : https://prove2.me/theorems/2ed1fe2f-2dc3-4899-9436-ee8ec88f109e

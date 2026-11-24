@@ -92711,7 +92711,7 @@
 {"parent": "QEC.Coding.AlgebraicGeometry.integralClosurePlace_artinSchreier_order_dichotomy", "child": "QEC_Coding_AlgebraicGeometry_Places_ArtinSchreierOrder", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.integralClosurePlace_artinSchreier_order_dichotomy", "child": "QEC_Coding_AlgebraicGeometry_Places_IntegralClosureOrder", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.AlgebraicGeometry.integralClosurePlace_artinSchreier_order_dichotomy", "child": "QEC_Coding_AlgebraicGeometry_Differentials_DifferentialLocal", "via": ["solution", "statement"]}
-{"parent": "MetricMinTest.lemma_A_4", "child": "MetricMinTest_signedBernoulli", "via": ["statement"]}
+{"parent": "MetricMinTest.lemma_A_4", "child": "MetricMinTest_signedBernoulli", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.FiniteSubsystem.selectedPartialTrace_toLinearMap", "child": "QEC_Semantics_Core_Qubit", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.FiniteSubsystem.selectedPartialTrace_toLinearMap", "child": "QEC_Semantics_Channels_Core", "via": ["solution", "statement"]}
 {"parent": "QEC.Semantics.FiniteSubsystem.selectedPartialTrace_toLinearMap", "child": "QEC_Semantics_Core_Subsystem", "via": ["solution", "statement"]}

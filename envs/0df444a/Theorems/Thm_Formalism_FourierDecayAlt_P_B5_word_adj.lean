@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B5_word_adj
 -- name    : Formalism.FourierDecayAlt.P.B5.word_adj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:56:31.3588+00:00
 -- url     : https://prove2.me/theorems/bb09dfce-58f5-4c55-ba9c-09ae5d0c3984

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_support_subset_orderAtLeastLocus_of_le_pow
 -- name    : FunctorialResolution.EmbeddedResolution.support_subset_orderAtLeastLocus_of_le_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:58:02.82834+00:00
 -- url     : https://prove2.me/theorems/6318680f-af61-4a9b-8b80-6c253e8a9deb

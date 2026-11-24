@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_structureSheaf_comparison_comm
 -- name    : GlobalTheory.CechDR.structureSheaf_comparison_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:59:31.860605+00:00
 -- url     : https://prove2.me/theorems/f855af66-56a3-4244-af31-46163b06897c

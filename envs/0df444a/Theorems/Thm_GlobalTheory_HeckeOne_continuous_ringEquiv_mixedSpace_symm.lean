@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeOne_continuous_ringEquiv_mixedSpace_symm
 -- name    : GlobalTheory.HeckeOne.continuous_ringEquiv_mixedSpace_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:03:47.334834+00:00
 -- url     : https://prove2.me/theorems/957e2dd4-3da6-4565-bb4b-68470d824801

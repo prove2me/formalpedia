@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_InertCoset_mem_intL__232cca9d9091
 -- name    : P2M_GlobalTheory_CompanionTheory_InertCoset_mem_intL__232cca9d9091
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:54:48.799126+00:00
 -- url     : https://prove2.me/theorems/fa9126d8-61bd-482d-b822-ccc272d9ad0d

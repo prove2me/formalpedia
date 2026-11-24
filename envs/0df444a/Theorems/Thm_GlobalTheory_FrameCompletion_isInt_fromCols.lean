@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameCompletion_isInt_fromCols
 -- name    : GlobalTheory.FrameCompletion.isInt_fromCols
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:05:27.015722+00:00
 -- url     : https://prove2.me/theorems/15b5e815-cc08-463f-bec5-72fda7f75133

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactAvgSchwartz_exists_bound
 -- name    : GlobalTheory.CompactAvgSchwartz.exists_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:59:21.284969+00:00
 -- url     : https://prove2.me/theorems/05f83b4b-bcbe-42c7-af44-145a59ec6e3d

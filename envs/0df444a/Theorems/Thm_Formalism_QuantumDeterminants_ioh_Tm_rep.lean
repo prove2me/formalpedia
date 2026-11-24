@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_ioh_Tm_rep
 -- name    : Formalism.QuantumDeterminants.ioh_Tm_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:01:17.334585+00:00
 -- url     : https://prove2.me/theorems/747060d4-198c-4de1-9f8c-86197b960179

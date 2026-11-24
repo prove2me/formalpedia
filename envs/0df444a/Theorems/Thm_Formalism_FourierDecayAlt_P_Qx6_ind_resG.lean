@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx6_ind_resG
 -- name    : Formalism.FourierDecayAlt.P.Qx6.ind_resG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:35:12.502583+00:00
 -- url     : https://prove2.me/theorems/b3f42d9e-5e8c-4e0b-9329-558461b40f4a

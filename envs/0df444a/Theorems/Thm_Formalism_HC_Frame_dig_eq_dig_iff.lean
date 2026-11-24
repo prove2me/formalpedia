@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_dig_eq_dig_iff
 -- name    : Formalism.HC.Frame.dig_eq_dig_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:53:26.386907+00:00
 -- url     : https://prove2.me/theorems/1df57073-41d2-4523-ac6a-87f3c10e9894

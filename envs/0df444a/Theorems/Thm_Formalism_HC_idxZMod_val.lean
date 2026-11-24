@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_idxZMod_val
 -- name    : Formalism.HC.idxZMod_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:55:42.624751+00:00
 -- url     : https://prove2.me/theorems/b92387e6-a192-4417-8bfa-7aa259f774ae

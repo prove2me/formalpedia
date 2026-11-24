@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WordIntegralScaling_rw_scale
 -- name    : Formalism.FourierDecayAlt.P.WordIntegralScaling.rw_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:34:01.877445+00:00
 -- url     : https://prove2.me/theorems/08609a4f-b56d-4b1f-8ce1-e7f5c1b32aef

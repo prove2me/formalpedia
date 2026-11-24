@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_invariant_functions_descend
 -- name    : GlobalTheory.invariant_functions_descend
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:41:51.718782+00:00
 -- url     : https://prove2.me/theorems/10ceaf00-9c5c-426e-be0d-46c0fee938ed

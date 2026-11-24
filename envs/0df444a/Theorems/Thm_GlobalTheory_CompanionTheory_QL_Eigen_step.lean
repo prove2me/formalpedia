@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_Eigen_step
 -- name    : GlobalTheory.CompanionTheory.QL.Eigen.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:56:32.115891+00:00
 -- url     : https://prove2.me/theorems/db750655-3065-48f9-8736-4230e312ccd1

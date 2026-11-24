@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Eichler_hf_neg_l
 -- name    : GlobalTheory.HL.Eichler.hf_neg_l
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:00:19.263812+00:00
 -- url     : https://prove2.me/theorems/7d81b2c1-47bf-4c6d-9f41-1d0ad8a62f4d

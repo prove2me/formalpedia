@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z3_isUnitIn_one_sub
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z3.isUnitIn_one_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:58:01.649014+00:00
 -- url     : https://prove2.me/theorems/d42fb83d-5207-4d15-81d7-1007aa9958a1

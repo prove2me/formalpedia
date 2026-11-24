@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_FormExtJ_inrJ_sub
 -- name    : GlobalTheory.CechDR.FormExtJ.inrJ_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:59:33.556573+00:00
 -- url     : https://prove2.me/theorems/00cecbfc-f074-40ff-91c2-2da77444e195

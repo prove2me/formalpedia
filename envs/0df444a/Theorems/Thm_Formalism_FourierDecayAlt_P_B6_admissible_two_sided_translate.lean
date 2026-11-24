@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_admissible_two_sided_translate
 -- name    : Formalism.FourierDecayAlt.P.B6.admissible_two_sided_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:49:48.845324+00:00
 -- url     : https://prove2.me/theorems/3308339d-7b59-4c17-bff6-0a7872ae39fc

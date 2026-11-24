@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CosetCrit_exists_lift
 -- name    : GlobalTheory.CosetCrit.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:28:24.394835+00:00
 -- url     : https://prove2.me/theorems/1f707012-93c6-4dd1-ab92-dcec8177127c

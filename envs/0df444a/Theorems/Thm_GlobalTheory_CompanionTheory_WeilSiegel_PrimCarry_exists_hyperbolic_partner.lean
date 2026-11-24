@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WeilSiegel_PrimCarry_exists_hyperbolic_partner
 -- name    : GlobalTheory.CompanionTheory.WeilSiegel.PrimCarry.exists_hyperbolic_partner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:02:43.703162+00:00
 -- url     : https://prove2.me/theorems/c4f30b49-cfd8-4675-8984-ec51b7d52fa1

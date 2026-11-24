@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux6_intH
 -- name    : Formalism.FourierDecayAlt.P.Ux6.intH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:23:25.17037+00:00
 -- url     : https://prove2.me/theorems/2d2d9ca9-adab-4564-8697-bc54a1d1ae8b

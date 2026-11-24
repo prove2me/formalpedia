@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThinShellSampling_lemma_2_7
 -- name    : ThinShellSampling.lemma_2_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T04:46:13.206916+00:00
 -- url     : https://prove2.me/theorems/712cb766-44a0-4cb3-a7d4-081f7096351d

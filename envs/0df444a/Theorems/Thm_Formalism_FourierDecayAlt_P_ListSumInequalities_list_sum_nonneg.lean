@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ListSumInequalities_list_sum_nonneg
 -- name    : Formalism.FourierDecayAlt.P.ListSumInequalities.list_sum_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:49:36.582877+00:00
 -- url     : https://prove2.me/theorems/13d6ccd9-845d-45d8-8eb7-02cd2ac3f05d

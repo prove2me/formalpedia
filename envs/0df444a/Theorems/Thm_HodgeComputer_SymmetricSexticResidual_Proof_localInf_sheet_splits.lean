@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_SymmetricSexticResidual_Proof_localInf_sheet_splits
 -- name    : HodgeComputer.SymmetricSexticResidual.Proof.localInf_sheet_splits
--- status  : Open
+-- status  : Proved
 -- author  : @benediamond
 -- created : 2026-11-24T16:58:38.926983+00:00
 -- url     : https://prove2.me/theorems/e0bf8a39-e035-46d0-bbb4-377a26072435

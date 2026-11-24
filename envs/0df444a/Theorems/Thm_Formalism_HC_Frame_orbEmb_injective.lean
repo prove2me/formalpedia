@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_orbEmb_injective
 -- name    : Formalism.HC.Frame.orbEmb_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:53:08.766923+00:00
 -- url     : https://prove2.me/theorems/52b201db-eab2-4006-b412-6943d4ed7bf5

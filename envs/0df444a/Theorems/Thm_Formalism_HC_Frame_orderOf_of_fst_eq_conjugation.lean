@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_orderOf_of_fst_eq_conjugation
 -- name    : Formalism.HC.Frame.orderOf_of_fst_eq_conjugation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:53:18.046798+00:00
 -- url     : https://prove2.me/theorems/2cb066de-45f6-4acd-9d24-bdff5ae44ff0

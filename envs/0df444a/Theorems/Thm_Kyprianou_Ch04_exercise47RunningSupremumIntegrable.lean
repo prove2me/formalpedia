@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise47RunningSupremumIntegrable
 -- name    : Kyprianou.Ch04.exercise47RunningSupremumIntegrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T22:28:37.53695+00:00
 -- url     : https://prove2.me/theorems/94aa45b1-dd43-4fb4-b32c-027e593db36d

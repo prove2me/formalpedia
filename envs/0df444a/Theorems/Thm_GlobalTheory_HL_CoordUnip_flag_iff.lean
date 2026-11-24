@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CoordUnip_flag_iff
 -- name    : GlobalTheory.HL.CoordUnip.flag_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:00:41.412003+00:00
 -- url     : https://prove2.me/theorems/64e3ac50-f668-4a55-941c-90841938f5c1

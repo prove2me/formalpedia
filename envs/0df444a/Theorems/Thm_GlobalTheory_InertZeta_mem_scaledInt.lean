@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_mem_scaledInt
 -- name    : GlobalTheory.InertZeta.mem_scaledInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:56:10.807696+00:00
 -- url     : https://prove2.me/theorems/5615c499-9e9f-4107-9c85-bd945fca43e7

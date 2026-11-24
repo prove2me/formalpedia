@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_exists_unitary_comm_mul_eq_of_gram
 -- name    : GlobalTheory.HCXi.exists_unitary_comm_mul_eq_of_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:03:58.755187+00:00
 -- url     : https://prove2.me/theorems/52ca59d0-e0bc-48cb-a52e-cb63b7cccef8

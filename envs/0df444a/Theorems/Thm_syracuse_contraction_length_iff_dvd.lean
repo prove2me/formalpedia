@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_syracuse_contraction_length_iff_dvd
 -- name    : syracuse_contraction_length_iff_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @immiq
 -- created : 2026-11-24T17:05:22.866356+00:00
 -- url     : https://prove2.me/theorems/7db4057e-cc88-4016-8fa9-892e44aca1f0

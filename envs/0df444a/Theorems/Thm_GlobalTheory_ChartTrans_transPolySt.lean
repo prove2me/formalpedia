@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartTrans_transPolySt
 -- name    : GlobalTheory.ChartTrans.transPolySt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:09:29.578412+00:00
 -- url     : https://prove2.me/theorems/06c99013-3b71-4f83-a0ed-c59a83106530

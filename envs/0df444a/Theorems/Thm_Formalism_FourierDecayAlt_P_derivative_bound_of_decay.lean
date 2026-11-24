@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_derivative_bound_of_decay
 -- name    : Formalism.FourierDecayAlt.P.derivative_bound_of_decay
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:57:44.247785+00:00
 -- url     : https://prove2.me/theorems/09dfc75c-78ae-4b1f-ba08-07f46a5598dd

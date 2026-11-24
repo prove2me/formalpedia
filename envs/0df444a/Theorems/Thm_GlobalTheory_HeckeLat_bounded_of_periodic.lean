@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeLat_bounded_of_periodic
 -- name    : GlobalTheory.HeckeLat.bounded_of_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:03:26.250937+00:00
 -- url     : https://prove2.me/theorems/8cc44c2f-2cdc-4b61-8259-dfb051fe981e

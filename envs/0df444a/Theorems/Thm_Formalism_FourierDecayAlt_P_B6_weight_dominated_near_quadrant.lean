@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_weight_dominated_near_quadrant
 -- name    : Formalism.FourierDecayAlt.P.B6.weight_dominated_near_quadrant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:59:37.232044+00:00
 -- url     : https://prove2.me/theorems/67da5fb6-eb45-474e-aca0-907eddfc8988

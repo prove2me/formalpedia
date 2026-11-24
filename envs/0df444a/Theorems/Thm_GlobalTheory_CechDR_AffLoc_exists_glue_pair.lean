@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_AffLoc_exists_glue_pair
 -- name    : GlobalTheory.CechDR.AffLoc.exists_glue_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:59:12.515273+00:00
 -- url     : https://prove2.me/theorems/4da74849-ebdd-4e26-ba0d-8309190ea1a5

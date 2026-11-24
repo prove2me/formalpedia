@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qb1_rdV_orbit
 -- name    : Formalism.FourierDecayAlt.P.Qb1.rdV_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:20:43.563479+00:00
 -- url     : https://prove2.me/theorems/66e4dc31-3067-4c70-bee9-4451e3bfc06b

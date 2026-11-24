@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_gram_cofactor_identity
 -- name    : Formalism.FourierDecayAlt.P.gram_cofactor_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:38:24.735019+00:00
 -- url     : https://prove2.me/theorems/586fa03d-64d6-465f-856d-4bdd5c8981f5

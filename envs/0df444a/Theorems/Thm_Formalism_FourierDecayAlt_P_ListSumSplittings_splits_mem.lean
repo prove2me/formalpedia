@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ListSumSplittings_splits_mem
 -- name    : Formalism.FourierDecayAlt.P.ListSumSplittings.splits_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:09:30.716058+00:00
 -- url     : https://prove2.me/theorems/5e0aef3d-6962-4015-aada-2568e0185e4a

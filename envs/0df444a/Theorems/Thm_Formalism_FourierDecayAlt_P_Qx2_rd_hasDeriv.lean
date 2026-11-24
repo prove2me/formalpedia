@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx2_rd_hasDeriv
 -- name    : Formalism.FourierDecayAlt.P.Qx2.rd_hasDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:10:49.151013+00:00
 -- url     : https://prove2.me/theorems/49f029bf-f9ed-4df6-8bd4-e6b22bdb3a1e

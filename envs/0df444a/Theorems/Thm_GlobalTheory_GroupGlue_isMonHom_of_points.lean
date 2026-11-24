@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GroupGlue_isMonHom_of_points
 -- name    : GlobalTheory.GroupGlue.isMonHom_of_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:57:44.352349+00:00
 -- url     : https://prove2.me/theorems/04e7517c-b87d-490c-8888-91d696d1f546

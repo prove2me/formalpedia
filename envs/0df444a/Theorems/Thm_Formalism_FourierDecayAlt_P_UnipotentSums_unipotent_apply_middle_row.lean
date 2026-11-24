@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_UnipotentSums_unipotent_apply_middle_row
 -- name    : Formalism.FourierDecayAlt.P.UnipotentSums.unipotent_apply_middle_row
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:05:13.695773+00:00
 -- url     : https://prove2.me/theorems/3b7f09db-0bd1-44a1-b0ad-260d78c17862

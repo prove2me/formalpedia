@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HalfIdentity_secondOrder_add
 -- name    : GlobalTheory.HalfIdentity.secondOrder_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:02:04.328281+00:00
 -- url     : https://prove2.me/theorems/8a4c63c6-e2cc-4f92-a0e7-19402b168d61

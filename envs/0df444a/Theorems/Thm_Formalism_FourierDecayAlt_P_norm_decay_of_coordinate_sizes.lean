@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_norm_decay_of_coordinate_sizes
 -- name    : Formalism.FourierDecayAlt.P.norm_decay_of_coordinate_sizes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:23:46.667853+00:00
 -- url     : https://prove2.me/theorems/79c0c3e3-5e0f-4246-a197-2116e45e5560

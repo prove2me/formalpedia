@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_Pair_exists_le_le
 -- name    : GlobalTheory.CechDR.Pair.exists_le_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:59:29.765703+00:00
 -- url     : https://prove2.me/theorems/1700194e-f481-4af0-913d-510e94fa6e5b

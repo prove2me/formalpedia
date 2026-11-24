@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_AdmissibleLieWords_hh_bound
 -- name    : Formalism.FourierDecayAlt.P.AdmissibleLieWords.hh_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:07:23.986676+00:00
 -- url     : https://prove2.me/theorems/2edc0390-7304-4b8a-8be8-11e2ab702688

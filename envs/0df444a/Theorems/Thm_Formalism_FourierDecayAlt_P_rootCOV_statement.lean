@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_rootCOV_statement
 -- name    : Formalism.FourierDecayAlt.P.rootCOV_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:47:04.338804+00:00
 -- url     : https://prove2.me/theorems/5c760af2-58a7-4ee6-9014-359841056244

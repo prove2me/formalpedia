@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeSplit_trivAt_iff
 -- name    : GlobalTheory.HeckeSplit.trivAt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:04:54.896425+00:00
 -- url     : https://prove2.me/theorems/86ac1223-9d62-4894-9c7d-c32bc95c8af1

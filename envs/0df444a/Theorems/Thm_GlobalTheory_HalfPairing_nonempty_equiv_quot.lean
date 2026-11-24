@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HalfPairing_nonempty_equiv_quot
 -- name    : GlobalTheory.HalfPairing.nonempty_equiv_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:03:40.063572+00:00
 -- url     : https://prove2.me/theorems/050a3634-c684-4c22-bde8-777055b91452

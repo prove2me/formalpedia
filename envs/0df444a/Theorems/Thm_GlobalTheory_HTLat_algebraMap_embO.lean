@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HTLat_algebraMap_embO
 -- name    : GlobalTheory.HTLat.algebraMap_embO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:01:28.267972+00:00
 -- url     : https://prove2.me/theorems/277e50d7-3e74-414f-85cf-715f29500acc

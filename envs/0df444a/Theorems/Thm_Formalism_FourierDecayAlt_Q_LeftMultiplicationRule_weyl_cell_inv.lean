@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LeftMultiplicationRule_weyl_cell_inv
 -- name    : Formalism.FourierDecayAlt.Q.LeftMultiplicationRule.weyl_cell_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:44:56.482291+00:00
 -- url     : https://prove2.me/theorems/b3681997-9196-4abc-9434-f11ec078f1fb

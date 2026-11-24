@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymmetricDepthHierarchy_ConstantDepth_Supplement_theorem_7_7
 -- name    : SymmetricDepthHierarchy.ConstantDepth.Supplement.theorem_7_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T11:10:44.651941+00:00
 -- url     : https://prove2.me/theorems/71784861-2930-4072-8883-e4c13c38827e

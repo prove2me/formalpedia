@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_addOrderOf_iotaInv
 -- name    : Formalism.HC.Frame.addOrderOf_iotaInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:53:54.584635+00:00
 -- url     : https://prove2.me/theorems/d6a87a14-885c-48b7-b9cb-bc0ad787945b

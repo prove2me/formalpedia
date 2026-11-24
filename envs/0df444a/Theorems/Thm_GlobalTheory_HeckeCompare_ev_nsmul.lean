@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeCompare_ev_nsmul
 -- name    : GlobalTheory.HeckeCompare.ev_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:03:19.182815+00:00
 -- url     : https://prove2.me/theorems/21637ca7-892c-459c-9eb7-b40efbbf4455

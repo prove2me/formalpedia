@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GtTorsionPoints_zeroF_eq
 -- name    : GlobalTheory.GtTorsionPoints.zeroF_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:59:04.657824+00:00
 -- url     : https://prove2.me/theorems/229d425a-0024-4e28-b4e0-0a02e0cdac3d

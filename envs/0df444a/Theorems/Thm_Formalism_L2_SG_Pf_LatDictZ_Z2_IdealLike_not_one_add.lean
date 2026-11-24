@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z2_IdealLike_not_one_add
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z2.IdealLike.not_one_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:57:34.909438+00:00
 -- url     : https://prove2.me/theorems/5d8cebfb-e6ef-4ca9-9820-cfacb71866c6

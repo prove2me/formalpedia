@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_sg_ne_one
 -- name    : Formalism.HC.Frame.sg_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:55:51.335829+00:00
 -- url     : https://prove2.me/theorems/93085aac-2a56-4bc8-b8ef-37057b91a541

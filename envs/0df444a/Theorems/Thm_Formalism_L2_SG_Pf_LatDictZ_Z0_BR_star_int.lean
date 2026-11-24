@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z0_BR_star_int
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z0.BR.star_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:58:44.07798+00:00
 -- url     : https://prove2.me/theorems/e3aab1c4-84b7-4abc-9904-abb1b9b885cd

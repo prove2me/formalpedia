@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_singular_dominant
 -- name    : Formalism.FourierDecayAlt.P.singular_dominant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:52:44.199513+00:00
 -- url     : https://prove2.me/theorems/d5a90c3f-bccb-40cf-8922-2767bf7fdbb6

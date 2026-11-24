@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeLat_discrete_embLat
 -- name    : GlobalTheory.HeckeLat.discrete_embLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:04:02.084278+00:00
 -- url     : https://prove2.me/theorems/717f1137-74f7-4aa5-a2ba-c24b978e72d0

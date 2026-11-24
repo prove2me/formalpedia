@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_derivative_bound_use_of_parts
 -- name    : Formalism.FourierDecayAlt.P.derivative_bound_use_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:38:51.747656+00:00
 -- url     : https://prove2.me/theorems/afb335ea-a180-437f-a5c5-97f806ba3849

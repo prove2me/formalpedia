@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescent_isPushout_app
 -- name    : GlobalTheory.GaloisDescent.isPushout_app
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:47:50.021959+00:00
 -- url     : https://prove2.me/theorems/44448eeb-35b4-40e1-893b-41892da65906

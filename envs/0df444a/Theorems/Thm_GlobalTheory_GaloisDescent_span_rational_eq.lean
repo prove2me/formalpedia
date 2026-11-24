@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescent_span_rational_eq
 -- name    : GlobalTheory.GaloisDescent.span_rational_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:48:36.545315+00:00
 -- url     : https://prove2.me/theorems/0010cafc-9f90-45fd-ace6-940afe1abb59

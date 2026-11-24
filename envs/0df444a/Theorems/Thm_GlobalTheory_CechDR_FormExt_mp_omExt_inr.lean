@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_FormExt_mp_omExt_inr
 -- name    : GlobalTheory.CechDR.FormExt.mp_omExt_inr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:59:44.141808+00:00
 -- url     : https://prove2.me/theorems/dc7e24d5-23a5-451a-b556-f284b9809e7e

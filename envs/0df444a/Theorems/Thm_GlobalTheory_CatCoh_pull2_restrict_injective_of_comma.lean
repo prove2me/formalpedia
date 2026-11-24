@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CatCoh_pull2_restrict_injective_of_comma
 -- name    : GlobalTheory.CatCoh.pull2_restrict_injective_of_comma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:59:33.013955+00:00
 -- url     : https://prove2.me/theorems/fe25ae6a-3fc5-42f6-b0ad-f7c296656141

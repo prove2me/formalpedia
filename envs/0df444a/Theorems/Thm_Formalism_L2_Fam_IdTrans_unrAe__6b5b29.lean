@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Fam_IdTrans_unrAe__6b5b29
 -- name    : Formalism.L2.Fam.IdTrans.unrAe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:54:33.861256+00:00
 -- url     : https://prove2.me/theorems/6b5b293e-e9d0-47e3-8d3e-6015aad4dca0

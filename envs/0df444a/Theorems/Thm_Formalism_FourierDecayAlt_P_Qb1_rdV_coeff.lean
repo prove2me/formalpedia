@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qb1_rdV_coeff
 -- name    : Formalism.FourierDecayAlt.P.Qb1.rdV_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:20:39.832103+00:00
 -- url     : https://prove2.me/theorems/a6989846-2062-4f81-b5b3-54a60e78e35c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CoordMass_mem_smul_lat
 -- name    : GlobalTheory.HL.CoordMass.mem_smul_lat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:00:45.925871+00:00
 -- url     : https://prove2.me/theorems/efb8dc4c-bde5-4242-b339-486b43b7b3b1

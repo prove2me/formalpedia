@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_nabla_smul_tot
 -- name    : GlobalTheory.BK.PhiMod.nabla_smul_tot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:42:26.482803+00:00
 -- url     : https://prove2.me/theorems/bb71abaf-71a5-44f2-9bce-9f3628966dc7

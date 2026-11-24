@@ -43260,7 +43260,7 @@
 {"parent": "OAI.SharpPlanar.CachedData.hm39_0_0_10.s4_eq_g", "child": "OAIQ098G1181", "via": ["solution", "statement"]}
 {"parent": "PrivateAgnosticHalfspace.Gaussian.proposition_C_1", "child": "PrivateAgnosticHalfspace_Gaussian_Regression", "via": ["solution", "statement"]}
 {"parent": "SYKFastMix_FastMixing_Coefficients", "child": "SYKFastMix_FastMixing_Model", "via": ["statement"]}
-{"parent": "ThinShellSampling.lemma_2_7", "child": "ThinShellSampling_renyi", "via": ["statement"]}
+{"parent": "ThinShellSampling.lemma_2_7", "child": "ThinShellSampling_renyi", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelEnergyLocalize_core", "child": "OAI_NumberTheory_DirichletL_CubicSieve_PaddedPassage", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelEnergyLocalize_core", "child": "OAI_NumberTheory_DirichletL_MeanSquare_HarmonicAggregation", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelEnergyLocalize_core", "child": "OAI_NumberTheory_DirichletL_Eisenstein_LocalCutoffs", "via": ["solution", "statement"]}
@@ -52246,7 +52246,7 @@
 {"parent": "OAI.InitialMeanSquare.positive_nested_density_bound", "child": "OAI_NumberTheory_DirichletL_GaussSum_BranchScaling", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.density1_r3_14_eq_g", "child": "OAIQ098G402", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.density1_r3_14_eq_g", "child": "OAIQ098G397", "via": ["solution", "statement"]}
-{"parent": "IntegerMatrixMortality.FixedImage.division_three_module", "child": "IntegerMatrixMortality_FixedImage_ScanInterfaces", "via": ["statement"]}
+{"parent": "IntegerMatrixMortality.FixedImage.division_three_module", "child": "IntegerMatrixMortality_FixedImage_ScanInterfaces", "via": ["solution", "statement"]}
 {"parent": "RandOnlineSetCoverSqrt_LowerBound_Canonical", "child": "RandOnlineSetCover_InfoLB_Model", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_mix_fin14_original_bounded_random_clock_finite_negative_jump_count_ae", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_mix_fin14_original_bounded_random_clock_finite_negative_jump_count_ae", "child": "AvramDividend.Classical.avram_mix_fin14_original_finite_activity_negative_jump_count_finite_ae", "via": ["solution", "statement"]}

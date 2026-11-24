@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_card_hermitian_resAlg
 -- name    : GlobalTheory.CompanionTheory.UnrDens.card_hermitian_resAlg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:19:44.364857+00:00
 -- url     : https://prove2.me/theorems/58ec3391-3985-4c62-88f4-d14157ae9e3a

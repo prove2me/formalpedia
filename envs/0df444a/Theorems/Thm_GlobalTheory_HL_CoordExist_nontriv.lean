@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CoordExist_nontriv
 -- name    : GlobalTheory.HL.CoordExist.nontriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:59:11.35229+00:00
 -- url     : https://prove2.me/theorems/1248d89e-43cb-4b13-af7f-65a66fb9d429

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertLen_le_of_lt_exp
 -- name    : GlobalTheory.CompanionTheory.InertLen.le_of_lt_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:01:43.092525+00:00
 -- url     : https://prove2.me/theorems/35a4f425-10e5-47a1-98ab-ce2e419f0615

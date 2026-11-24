@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeSplitAll_Approx_norm_natCast_lt_one
 -- name    : GlobalTheory.HeckeSplitAll.Approx.norm_natCast_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:04:13.618234+00:00
 -- url     : https://prove2.me/theorems/07c4d7ba-9efc-4f60-ae50-8df74b5df988

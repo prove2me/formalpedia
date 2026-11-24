@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussMarginal_map_ofLp_gaussProb
 -- name    : GlobalTheory.GaussMarginal.map_ofLp_gaussProb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:55:25.673797+00:00
 -- url     : https://prove2.me/theorems/6403bc7a-738b-44b0-b862-291b68a5abf1

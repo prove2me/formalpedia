@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ClosureOperators_top_of_stab
 -- name    : Formalism.FourierDecayAlt.P.ClosureOperators.top_of_stab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:48:31.445809+00:00
 -- url     : https://prove2.me/theorems/3c09dd95-e965-4fb9-bdac-3d88eb685152

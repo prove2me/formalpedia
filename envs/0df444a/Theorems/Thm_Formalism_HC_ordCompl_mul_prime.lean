@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_ordCompl_mul_prime
 -- name    : Formalism.HC.ordCompl_mul_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:54:45.74957+00:00
 -- url     : https://prove2.me/theorems/f8097a62-c00c-490f-adfe-1a08ed849b00

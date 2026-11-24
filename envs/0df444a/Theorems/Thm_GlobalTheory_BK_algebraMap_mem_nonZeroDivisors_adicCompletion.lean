@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_algebraMap_mem_nonZeroDivisors_adicCompletion
 -- name    : GlobalTheory.BK.algebraMap_mem_nonZeroDivisors_adicCompletion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:57:53.319016+00:00
 -- url     : https://prove2.me/theorems/4991d1db-660f-4f7c-b580-1ba0388f2469

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeCompare_IsAct_comm
 -- name    : GlobalTheory.HeckeCompare.IsAct.comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:01:33.858811+00:00
 -- url     : https://prove2.me/theorems/60599425-d109-4b33-9039-342f24fad25d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TPresMain_one_mem_Nlev
 -- name    : Formalism.FourierDecayAlt.Q.TPresMain.one_mem_Nlev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:53:35.702418+00:00
 -- url     : https://prove2.me/theorems/4449bc33-1056-48b7-83e8-1ff753f11234

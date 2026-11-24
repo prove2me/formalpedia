@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HasRationalTorsion_mem_range_of_root
 -- name    : GlobalTheory.HasRationalTorsion.mem_range_of_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:01:08.701649+00:00
 -- url     : https://prove2.me/theorems/6c4e8069-6d33-4938-ab73-d4f892fdc5f1

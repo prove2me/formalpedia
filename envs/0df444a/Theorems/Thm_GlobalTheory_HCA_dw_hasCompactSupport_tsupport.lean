@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_dw_hasCompactSupport_tsupport
 -- name    : GlobalTheory.HCA.dw_hasCompactSupport_tsupport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:59:30.53845+00:00
 -- url     : https://prove2.me/theorems/c7e1334c-72ab-4096-b635-f8d8fa868393

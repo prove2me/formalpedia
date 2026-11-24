@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymLiftFrame_mem_chart
 -- name    : GlobalTheory.SymLiftFrame.mem_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:55:57.437844+00:00
 -- url     : https://prove2.me/theorems/8e00ba09-f689-4fb2-a9b1-75ad8f21b099

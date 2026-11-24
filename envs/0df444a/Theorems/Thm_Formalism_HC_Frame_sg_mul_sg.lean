@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_sg_mul_sg
 -- name    : Formalism.HC.Frame.sg_mul_sg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:55:51.760739+00:00
 -- url     : https://prove2.me/theorems/f2e42f53-47c6-4637-97ad-072857fee829

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalConnection_d_y
 -- name    : GlobalTheory.FormalConnection.d_y
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:37:31.459234+00:00
 -- url     : https://prove2.me/theorems/bb969807-b013-4704-83a6-b57a45607eac

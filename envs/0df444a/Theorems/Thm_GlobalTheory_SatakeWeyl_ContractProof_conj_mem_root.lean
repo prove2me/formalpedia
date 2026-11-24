@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_ContractProof_conj_mem_root
 -- name    : GlobalTheory.SatakeWeyl.ContractProof.conj_mem_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:27:51.797036+00:00
 -- url     : https://prove2.me/theorems/538d2dad-5d01-4660-b995-9345d126eb4f

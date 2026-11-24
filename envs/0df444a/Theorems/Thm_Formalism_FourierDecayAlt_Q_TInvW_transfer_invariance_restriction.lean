@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TInvW_transfer_invariance_restriction
 -- name    : Formalism.FourierDecayAlt.Q.TInvW.transfer_invariance_restriction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:54:26.786376+00:00
 -- url     : https://prove2.me/theorems/6416da2e-daae-4d5c-bcb1-c5ac58ba2a8c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeShift_sum_ulog
 -- name    : GlobalTheory.HeckeShift.sum_ulog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:04:12.238382+00:00
 -- url     : https://prove2.me/theorems/ade02710-c893-40d3-a45a-f6a7956b0776

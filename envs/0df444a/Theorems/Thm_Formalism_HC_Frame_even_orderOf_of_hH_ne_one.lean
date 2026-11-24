@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_even_orderOf_of_hH_ne_one
 -- name    : Formalism.HC.Frame.even_orderOf_of_hH_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:53:29.50185+00:00
 -- url     : https://prove2.me/theorems/20fcf78b-ea8e-40ef-bf39-f641b06d280f

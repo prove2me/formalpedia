@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_stabilizer_null_of_integrable
 -- name    : Formalism.FourierDecayAlt.P.stabilizer_null_of_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:40:07.318963+00:00
 -- url     : https://prove2.me/theorems/81695df8-a0f5-4153-8bae-8e1a7b236192

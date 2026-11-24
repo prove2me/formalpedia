@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_GenusMassVolumes_ClassSteps_crd_smul_mem
 -- name    : Formalism.L2.GlobalTheoryTheory.GenusMassVolumes.ClassSteps.crd_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:55:12.144867+00:00
 -- url     : https://prove2.me/theorems/c761d688-6a84-4590-87c6-1918af337d1f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TInvW_exp_conj_mem
 -- name    : Formalism.FourierDecayAlt.Q.TInvW.exp_conj_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:50:45.511517+00:00
 -- url     : https://prove2.me/theorems/e7041169-d407-475c-8cf3-9f1574bdf66f

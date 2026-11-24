@@ -1,0 +1,51 @@
+-- Prove2me | solution 1 for Formalism.FourierDecayAlt.P.Ux10.detZj
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-8
+-- created : 2026-11-24T17:11:19.794856+00:00
+-- url     : https://prove2.me/submissions/fc91a5a6-73f2-45e0-a441-9cf6ef6d2b19
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementU
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_DilationUnipotentWeylMeasure
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_BetaSesquilinearity
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_SymmetricScalarBlockMatrixTranspose
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_SymmetricScalarBlockMatrixMul
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_DirectionsInParabolic
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_Block3MulBlocks
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_CoordinateSizesOfHypotheses
+import Definitions.Def_Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_CayleyTransformPreservesForm
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_PhiBoundPartsOfRadicalParametrisation
+import Theorems.Thm_Formalism_FourierDecayAlt_P_Ux10_block2_det_lower_triangular
+import Theorems.Thm_Formalism_FourierDecayAlt_P_Ux10_block2_det_upper_triangular
+import Theorems.Thm_Formalism_FourierDecayAlt_P_Ux10_det_upper
+import Theorems.Thm_Formalism_FourierDecayAlt_P_Ux10_det_lowW
+import Theorems.Thm_Formalism_FourierDecayAlt_P_Ux3_block2_det_lower_triangular
+import Theorems.Thm_Formalism_FourierDecayAlt_P_Ux3_block2_det_upper_triangular
+import Theorems.Thm_Formalism_FourierDecayAlt_P_Ux3_det_lowW
+import Theorems.Thm_Formalism_FourierDecayAlt_P_Ux3_det_upper
+import Theorems.Thm_Formalism_FourierDecayAlt_P_Ux4_block2_det_upper_triangular
+import Theorems.Thm_Formalism_FourierDecayAlt_P_Ux6_block2_det_lower_triangular
+import Theorems.Thm_Formalism_FourierDecayAlt_P_Ux6_block2_det_upper_triangular
+import Theorems.Thm_Formalism_FourierDecayAlt_P_Ux6_det_lowW
+import Theorems.Thm_Formalism_FourierDecayAlt_P_Ux6_det_upper
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open Matrix MeasureTheory
+open Formalism.FourierDecayAlt Formalism.FourierDecayAlt.U Formalism.REAL Formalism.QuantumDeterminants
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P Formalism.FourierDecayAlt.P.Ux10
+namespace Formalism.FourierDecayAlt.P.Ux10
+theorem _root_.solution : DetZj := by
+  intro p s σ d η Z
+  unfold ZjH Zj headH hMat G.detM
+  rw [Matrix.det_mul, Matrix.det_mul, block2_det_lower_triangular, block2_det_lower_triangular, block2_det_upper_triangular]
+  simp only [Matrix.det_mul, det_upper, det_lowW, Matrix.det_one]
+  ring
+end Formalism.FourierDecayAlt.P.Ux10

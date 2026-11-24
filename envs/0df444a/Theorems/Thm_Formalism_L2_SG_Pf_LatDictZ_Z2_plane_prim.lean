@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z2_plane_prim
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z2.plane_prim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:58:03.256102+00:00
 -- url     : https://prove2.me/theorems/bf69db40-9621-427d-8cd6-51e58e1524dd

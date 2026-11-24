@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeMellin_integrableOn_cpow_mul_exp_neg_mul
 -- name    : GlobalTheory.HeckeMellin.integrableOn_cpow_mul_exp_neg_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:08:29.830809+00:00
 -- url     : https://prove2.me/theorems/553cf195-2cc0-4831-b5dc-be66a7ad6e09

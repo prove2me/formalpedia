@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_Tower_projective_of_fg
 -- name    : GlobalTheory.AdLat.Tower.projective_of_fg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:59:00.402581+00:00
 -- url     : https://prove2.me/theorems/6f266821-f875-47b7-8a8f-aabad70f67a4

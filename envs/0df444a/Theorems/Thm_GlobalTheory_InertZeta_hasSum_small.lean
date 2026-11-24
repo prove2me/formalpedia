@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_hasSum_small
 -- name    : GlobalTheory.InertZeta.hasSum_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:46:55.326103+00:00
 -- url     : https://prove2.me/theorems/f0cc74a9-90ca-4478-8e36-e9122f1bf5e1

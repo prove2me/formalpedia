@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_gram_positive_semidefinite
 -- name    : Formalism.FourierDecayAlt.P.gram_positive_semidefinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:59:17.776801+00:00
 -- url     : https://prove2.me/theorems/c7c22340-8b66-4b82-9d6f-f0496bb5f161

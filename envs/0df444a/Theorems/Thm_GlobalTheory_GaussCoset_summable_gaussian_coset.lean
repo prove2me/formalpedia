@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussCoset_summable_gaussian_coset
 -- name    : GlobalTheory.GaussCoset.summable_gaussian_coset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:48:49.539253+00:00
 -- url     : https://prove2.me/theorems/6e4c198f-38b0-4b6d-aac9-314292241611

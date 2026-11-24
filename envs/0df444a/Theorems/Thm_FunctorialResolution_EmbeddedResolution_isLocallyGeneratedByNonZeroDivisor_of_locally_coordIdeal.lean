@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isLocallyGeneratedByNonZeroDivisor_of_locally_coordIdeal
 -- name    : FunctorialResolution.EmbeddedResolution.isLocallyGeneratedByNonZeroDivisor_of_locally_coordIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:58:34.248445+00:00
 -- url     : https://prove2.me/theorems/69af633b-3a55-46ec-a1c8-a9d9a7ad5789

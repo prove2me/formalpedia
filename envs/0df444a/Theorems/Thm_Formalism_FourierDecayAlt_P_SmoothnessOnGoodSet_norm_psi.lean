@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SmoothnessOnGoodSet_norm_psi
 -- name    : Formalism.FourierDecayAlt.P.SmoothnessOnGoodSet.norm_psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:05:15.485819+00:00
 -- url     : https://prove2.me/theorems/e2e37ce6-1437-48ea-80d8-fe991f04d6fe

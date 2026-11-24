@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_invVol_eq_div_of_le
 -- name    : GlobalTheory.HL.invVol_eq_div_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:00:46.189797+00:00
 -- url     : https://prove2.me/theorems/552d863f-1688-40fe-8735-7327d131ee90

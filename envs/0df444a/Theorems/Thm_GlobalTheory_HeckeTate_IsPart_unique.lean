@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTate_IsPart_unique
 -- name    : GlobalTheory.HeckeTate.IsPart.unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:05:51.427839+00:00
 -- url     : https://prove2.me/theorems/c86dab53-4cf4-449d-bc41-c70bad2b57d0

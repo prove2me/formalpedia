@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TPresMain_mulX_cd
 -- name    : Formalism.FourierDecayAlt.Q.TPresMain.mulX_cd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:54:41.392586+00:00
 -- url     : https://prove2.me/theorems/82d9eb1c-8ccb-4dfa-ab29-1f9fc6b3364b

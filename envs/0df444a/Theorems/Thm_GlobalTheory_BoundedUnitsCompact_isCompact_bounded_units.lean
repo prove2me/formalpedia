@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoundedUnitsCompact_isCompact_bounded_units
 -- name    : GlobalTheory.BoundedUnitsCompact.isCompact_bounded_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:59:15.268829+00:00
 -- url     : https://prove2.me/theorems/6b2c17f0-9f8c-4cff-94b3-658a65817f44

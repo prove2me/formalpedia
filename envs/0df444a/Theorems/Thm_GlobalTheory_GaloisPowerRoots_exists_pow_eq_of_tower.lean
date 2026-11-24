@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisPowerRoots_exists_pow_eq_of_tower
 -- name    : GlobalTheory.GaloisPowerRoots.exists_pow_eq_of_tower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:48:49.944311+00:00
 -- url     : https://prove2.me/theorems/21c176be-87ab-42db-983a-a539abfadf58

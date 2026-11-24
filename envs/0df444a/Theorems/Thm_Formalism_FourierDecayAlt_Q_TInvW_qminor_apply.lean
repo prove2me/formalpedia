@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TInvW_qminor_apply
 -- name    : Formalism.FourierDecayAlt.Q.TInvW.qminor_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:53:03.702883+00:00
 -- url     : https://prove2.me/theorems/c718f507-6f71-4175-8017-25c2d9dbac38

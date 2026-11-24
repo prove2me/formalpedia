@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_long_weyl_three_block
 -- name    : Formalism.FourierDecayAlt.P.B2x8.long_weyl_three_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:56:28.450668+00:00
 -- url     : https://prove2.me/theorems/3a83b6a9-b89b-42ed-aa6e-dfa1a51298d5

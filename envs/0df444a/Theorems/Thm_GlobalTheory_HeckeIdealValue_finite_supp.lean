@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeIdealValue_finite_supp
 -- name    : GlobalTheory.HeckeIdealValue.finite_supp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:03:08.126886+00:00
 -- url     : https://prove2.me/theorems/c561a7b0-3a4b-4eb6-b851-8a6479dcee98

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_auxiliary_derivatives
 -- name    : auxiliary_derivatives
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T15:34:26.705819+00:00
 -- url     : https://prove2.me/theorems/411becb6-fc88-4972-b149-188d23a2c751

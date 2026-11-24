@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_inStrictNormalCrossingPositionAt_of_filterNeTop_eq
 -- name    : FunctorialResolution.EmbeddedResolution.inStrictNormalCrossingPositionAt_of_filterNeTop_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:58:48.342832+00:00
 -- url     : https://prove2.me/theorems/dfef075a-980d-42a4-8736-8c6f962c6dae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalLog_pderiv_first_ev_second_point_eq_zero
 -- name    : GlobalTheory.FormalLog.pderiv_first_ev_second_point_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:36:57.007429+00:00
 -- url     : https://prove2.me/theorems/9bc5ef4a-6639-4586-9a05-d8fa907065e5

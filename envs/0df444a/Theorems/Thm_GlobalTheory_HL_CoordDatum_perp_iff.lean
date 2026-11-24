@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CoordDatum_perp_iff
 -- name    : GlobalTheory.HL.CoordDatum.perp_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:00:20.214822+00:00
 -- url     : https://prove2.me/theorems/941d3de7-3d4f-4858-a4f2-830bf07588f7

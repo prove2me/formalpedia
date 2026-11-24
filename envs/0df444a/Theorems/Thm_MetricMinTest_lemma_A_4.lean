@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricMinTest_lemma_A_4
 -- name    : MetricMinTest.lemma_A_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T03:06:38.358921+00:00
 -- url     : https://prove2.me/theorems/664f30c6-8567-4054-9843-2c3990356c5f

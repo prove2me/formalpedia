@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFn_IsPullConst_origin
 -- name    : GlobalTheory.ThetaFn.IsPullConst.origin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:28:01.675953+00:00
 -- url     : https://prove2.me/theorems/c172fc25-afa9-43de-8c50-55d6033e6c60

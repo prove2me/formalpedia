@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_LatDet_resQ_ne_zero
 -- name    : GlobalTheory.HL.LatDet.resQ_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:00:36.118113+00:00
 -- url     : https://prove2.me/theorems/391b7231-9396-490c-be80-e327a3bdbdbd

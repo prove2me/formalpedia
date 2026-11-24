@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hadamard_norm_orthonormalBasis_det_le
 -- name    : GlobalTheory.Hadamard.norm_orthonormalBasis_det_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:02:23.331908+00:00
 -- url     : https://prove2.me/theorems/2e6f405d-d901-4b1e-9f8c-332fea8012dd

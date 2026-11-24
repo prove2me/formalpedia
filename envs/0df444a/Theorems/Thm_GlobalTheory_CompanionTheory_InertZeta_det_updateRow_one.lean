@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertZeta_det_updateRow_one
 -- name    : GlobalTheory.CompanionTheory.InertZeta.det_updateRow_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:07:17.987517+00:00
 -- url     : https://prove2.me/theorems/d51d8881-72c1-4a44-bc3d-6328370b3846

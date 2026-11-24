@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameCompletion_isInt_antiJ
 -- name    : GlobalTheory.FrameCompletion.isInt_antiJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:52:25.996554+00:00
 -- url     : https://prove2.me/theorems/98b9f4e3-12e5-476c-8398-9bbdbfe57413

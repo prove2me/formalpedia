@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_xKappaOfNF
 -- name    : Formalism.FourierDecayAlt.P5.xKappaOfNF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:42:10.475038+00:00
 -- url     : https://prove2.me/theorems/9e716343-3c91-42cf-b8a1-1c7c0fb1f89d

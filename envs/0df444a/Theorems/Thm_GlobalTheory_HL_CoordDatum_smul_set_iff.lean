@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CoordDatum_smul_set_iff
 -- name    : GlobalTheory.HL.CoordDatum.smul_set_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:58:37.912194+00:00
 -- url     : https://prove2.me/theorems/9daa763b-c53a-449e-af25-07ced9bc7cda

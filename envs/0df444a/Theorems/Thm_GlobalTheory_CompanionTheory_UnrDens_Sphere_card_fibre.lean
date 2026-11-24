@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_Sphere_card_fibre
 -- name    : GlobalTheory.CompanionTheory.UnrDens.Sphere.card_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:02:36.631526+00:00
 -- url     : https://prove2.me/theorems/e0d5c3e2-14b1-4e1d-b639-5a32393f7726

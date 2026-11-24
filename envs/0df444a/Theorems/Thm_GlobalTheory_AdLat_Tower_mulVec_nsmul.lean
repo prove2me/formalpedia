@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_Tower_mulVec_nsmul
 -- name    : GlobalTheory.AdLat.Tower.mulVec_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:59:02.80524+00:00
 -- url     : https://prove2.me/theorems/59aed82b-d015-40d4-9a6a-7338a6c58f1e

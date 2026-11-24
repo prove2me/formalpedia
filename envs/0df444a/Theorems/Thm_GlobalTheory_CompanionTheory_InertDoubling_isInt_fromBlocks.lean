@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertDoubling_isInt_fromBlocks
 -- name    : GlobalTheory.CompanionTheory.InertDoubling.isInt_fromBlocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:02:52.371366+00:00
 -- url     : https://prove2.me/theorems/d1be3959-3c4a-4449-b6de-74ea851a381e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeanBudgetXC_lemma_3_7
 -- name    : MeanBudgetXC.lemma_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T05:42:16.343619+00:00
 -- url     : https://prove2.me/theorems/58610718-9801-4c47-903b-431e5010c534

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x5_levi_fixes_base_vector
 -- name    : Formalism.FourierDecayAlt.P.B2x5.levi_fixes_base_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:58:38.462558+00:00
 -- url     : https://prove2.me/theorems/d29b2b15-f335-4dfd-8fbe-1119abfcd448

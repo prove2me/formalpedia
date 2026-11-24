@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_secPull_surjective_and_ker
 -- name    : GlobalTheory.CechDR.secPull_surjective_and_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:59:35.943166+00:00
 -- url     : https://prove2.me/theorems/5c884502-c89e-4609-ab9d-3eb4a94986fc

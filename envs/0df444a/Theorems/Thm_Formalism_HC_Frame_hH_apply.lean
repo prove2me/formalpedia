@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_hH_apply
 -- name    : Formalism.HC.Frame.hH_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:53:17.863041+00:00
 -- url     : https://prove2.me/theorems/1085dd39-b348-4124-a49f-a1d4c7552707

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ae_equality_from_test_functions
 -- name    : Formalism.FourierDecayAlt.P.ae_equality_from_test_functions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:29:43.62295+00:00
 -- url     : https://prove2.me/theorems/31f41ffa-3f31-4839-8bcb-3bdd36ef34b8

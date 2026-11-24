@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_mid_injective
 -- name    : GlobalTheory.InertZeta.mid_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:26:50.084034+00:00
 -- url     : https://prove2.me/theorems/046dc007-86b8-4edf-87b9-57b79f31e42d

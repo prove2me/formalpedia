@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertCount_trace_corner
 -- name    : GlobalTheory.CompanionTheory.InertCount.trace_corner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:01:08.32013+00:00
 -- url     : https://prove2.me/theorems/d449912f-9cda-49e8-bd10-e91a8217d435

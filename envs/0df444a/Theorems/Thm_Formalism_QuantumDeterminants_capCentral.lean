@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_capCentral
 -- name    : Formalism.QuantumDeterminants.capCentral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:00:47.653084+00:00
 -- url     : https://prove2.me/theorems/867025b8-d60e-40fb-8bc1-bb8559598680

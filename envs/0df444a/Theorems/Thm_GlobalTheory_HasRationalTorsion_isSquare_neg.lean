@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HasRationalTorsion_isSquare_neg
 -- name    : GlobalTheory.HasRationalTorsion.isSquare_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:02:12.279986+00:00
 -- url     : https://prove2.me/theorems/074e9bbe-1e55-466d-ae57-e45d638dffaf

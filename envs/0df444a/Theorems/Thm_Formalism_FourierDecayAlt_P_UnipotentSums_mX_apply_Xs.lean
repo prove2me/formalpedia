@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_UnipotentSums_mX_apply_Xs
 -- name    : Formalism.FourierDecayAlt.P.UnipotentSums.mX_apply_Xs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:05:57.885019+00:00
 -- url     : https://prove2.me/theorems/89074f20-badf-4e01-b94e-32746ac6f325

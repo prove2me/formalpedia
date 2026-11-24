@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SmoothnessOrderArithmetic_one_le_gN
 -- name    : Formalism.FourierDecayAlt.P.SmoothnessOrderArithmetic.one_le_gN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:30:16.753571+00:00
 -- url     : https://prove2.me/theorems/a682f5dd-7915-4f9a-93ae-1d451ec48273

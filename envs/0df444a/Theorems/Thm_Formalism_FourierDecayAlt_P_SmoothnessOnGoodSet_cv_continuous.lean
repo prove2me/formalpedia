@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SmoothnessOnGoodSet_cv_continuous
 -- name    : Formalism.FourierDecayAlt.P.SmoothnessOnGoodSet.cv_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:06:14.362854+00:00
 -- url     : https://prove2.me/theorems/e11bf65c-0539-407e-90ed-3eb46882a1be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z3_isSelfDualMod_comap
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z3.isSelfDualMod_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:57:56.311912+00:00
 -- url     : https://prove2.me/theorems/eded20e5-2a0b-41e8-a96b-571d2853292d

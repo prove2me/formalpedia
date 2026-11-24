@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_SupEst_tr_eq_zero_of_notMem
 -- name    : GlobalTheory.HCA.SupEst.tr_eq_zero_of_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:59:37.664809+00:00
 -- url     : https://prove2.me/theorems/c75e3022-708d-455a-84f0-da6344d50843

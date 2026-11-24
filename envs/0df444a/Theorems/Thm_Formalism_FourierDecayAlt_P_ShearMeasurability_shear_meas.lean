@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ShearMeasurability_shear_meas
 -- name    : Formalism.FourierDecayAlt.P.ShearMeasurability.shear_meas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:22:42.672306+00:00
 -- url     : https://prove2.me/theorems/390df13d-ab06-4191-a1a1-b384c2a3fd24

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux6_intRC
 -- name    : Formalism.FourierDecayAlt.P.Ux6.intRC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:29:02.187538+00:00
 -- url     : https://prove2.me/theorems/78e11cdc-fef2-44da-a002-b72479e12bc8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx3_w1_commute_of_mem_Glev
 -- name    : Formalism.FourierDecayAlt.P.Qx3.w1_commute_of_mem_Glev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:20:45.819792+00:00
 -- url     : https://prove2.me/theorems/29cf280e-219a-4616-935a-5614e07b1ee7

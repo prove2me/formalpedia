@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_ncard_primesOver_d
 -- name    : Formalism.HC.HostRaw.ncard_primesOver_d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:54:59.965429+00:00
 -- url     : https://prove2.me/theorems/7969ba30-00d9-4d10-918c-e759ccc8e60f

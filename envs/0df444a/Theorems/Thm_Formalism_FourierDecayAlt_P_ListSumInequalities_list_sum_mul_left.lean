@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ListSumInequalities_list_sum_mul_left
 -- name    : Formalism.FourierDecayAlt.P.ListSumInequalities.list_sum_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:49:07.993802+00:00
 -- url     : https://prove2.me/theorems/b63568c2-362d-44bd-8050-a19b94a87416

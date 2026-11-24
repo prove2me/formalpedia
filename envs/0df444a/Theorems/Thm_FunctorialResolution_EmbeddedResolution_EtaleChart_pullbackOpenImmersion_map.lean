@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EtaleChart_pullbackOpenImmersion_map
 -- name    : FunctorialResolution.EmbeddedResolution.EtaleChart.pullbackOpenImmersion_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:57:51.109983+00:00
 -- url     : https://prove2.me/theorems/91f1e191-05e5-4153-8bce-2dc61c6da6d7

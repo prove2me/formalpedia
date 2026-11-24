@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_PrincipalizationRules_principalization_lastIdeal
 -- name    : FunctorialResolution.EmbeddedResolution.PrincipalizationRules.principalization_lastIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:57:59.469416+00:00
 -- url     : https://prove2.me/theorems/9b574889-8cee-4ee1-8bdf-7579cb0d356e

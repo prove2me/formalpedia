@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HalfIdentity_dpolyOf_monomial
 -- name    : GlobalTheory.HalfIdentity.dpolyOf_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:02:31.246251+00:00
 -- url     : https://prove2.me/theorems/57dfaef9-bb6d-4315-9e0e-551a55c6402e

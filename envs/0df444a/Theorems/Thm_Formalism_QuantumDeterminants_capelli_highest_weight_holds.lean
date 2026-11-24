@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_capelli_highest_weight_holds
 -- name    : Formalism.QuantumDeterminants.capelli_highest_weight_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:33:46.185804+00:00
 -- url     : https://prove2.me/theorems/73c25d4d-bb18-4d70-bff7-84c0815eea7a

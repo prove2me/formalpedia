@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BranchingSystems_fin_cap
 -- name    : Formalism.FourierDecayAlt.P.BranchingSystems.fin_cap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:51:14.589522+00:00
 -- url     : https://prove2.me/theorems/16373dcc-4cba-4435-af5f-adef765e0d36

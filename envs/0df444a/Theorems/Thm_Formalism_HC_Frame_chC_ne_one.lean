@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_chC_ne_one
 -- name    : Formalism.HC.Frame.chC_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:53:11.612303+00:00
 -- url     : https://prove2.me/theorems/ddbb2d46-4b31-48af-9ca2-53a95ff7a54c

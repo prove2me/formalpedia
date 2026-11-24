@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SmoothnessOrderArithmetic_chart_rho
 -- name    : Formalism.FourierDecayAlt.P.SmoothnessOrderArithmetic.chart_rho
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:29:47.519856+00:00
 -- url     : https://prove2.me/theorems/50ee5331-c134-49ed-bdd5-dea4b3316cd3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GalDiff_differentIdeal_pow_finrank_eq_span_discr
 -- name    : GlobalTheory.GalDiff.differentIdeal_pow_finrank_eq_span_discr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:41:39.288039+00:00
 -- url     : https://prove2.me/theorems/cc4bf594-739b-43df-b4d0-b5d59e5216a7

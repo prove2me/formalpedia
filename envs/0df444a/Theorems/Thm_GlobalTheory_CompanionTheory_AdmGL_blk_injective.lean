@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AdmGL_blk_injective
 -- name    : GlobalTheory.CompanionTheory.AdmGL.blk_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:58:43.716717+00:00
 -- url     : https://prove2.me/theorems/ee2716df-8465-4773-b5bd-c95cf3d08eeb

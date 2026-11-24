@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_regular_base_point_reg
 -- name    : Formalism.FourierDecayAlt.P.NFx2.regular_base_point_reg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:18:45.316506+00:00
 -- url     : https://prove2.me/theorems/6cde5b0d-e489-4098-9959-1a76fa609e1e

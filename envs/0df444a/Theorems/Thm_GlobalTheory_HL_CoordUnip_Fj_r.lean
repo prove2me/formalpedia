@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CoordUnip_Fj_r
 -- name    : GlobalTheory.HL.CoordUnip.Fj_r
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:00:45.357766+00:00
 -- url     : https://prove2.me/theorems/07386fb5-ce8a-436c-b2b0-6551cd3b1958

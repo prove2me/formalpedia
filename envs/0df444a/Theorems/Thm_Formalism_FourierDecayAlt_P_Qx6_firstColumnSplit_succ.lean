@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx6_firstColumnSplit_succ
 -- name    : Formalism.FourierDecayAlt.P.Qx6.firstColumnSplit_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:34:17.685056+00:00
 -- url     : https://prove2.me/theorems/82d04189-4323-44ae-b053-0956ae9b47f7

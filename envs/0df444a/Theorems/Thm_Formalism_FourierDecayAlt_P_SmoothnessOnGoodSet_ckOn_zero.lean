@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SmoothnessOnGoodSet_ckOn_zero
 -- name    : Formalism.FourierDecayAlt.P.SmoothnessOnGoodSet.ckOn_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:06:11.379806+00:00
 -- url     : https://prove2.me/theorems/ad8e1157-f08e-4717-adf1-d3182378c435

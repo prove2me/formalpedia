@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenericValue_mem_range_of_fixed
 -- name    : GlobalTheory.GenericValue.mem_range_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:55:09.645243+00:00
 -- url     : https://prove2.me/theorems/960413d4-3ad9-4bc3-85f2-911b75801228

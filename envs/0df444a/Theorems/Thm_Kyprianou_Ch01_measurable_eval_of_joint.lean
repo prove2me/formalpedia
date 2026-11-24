@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_measurable_eval_of_joint
 -- name    : Kyprianou.Ch01.measurable_eval_of_joint
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T16:58:43.4332+00:00
 -- url     : https://prove2.me/theorems/8ad8c2e4-e79c-4472-93f3-791d351639d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GallagherLemma_exp_sum
 -- name    : GlobalTheory.GallagherLemma.exp_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:41:40.18263+00:00
 -- url     : https://prove2.me/theorems/b82898c9-e13c-434e-813b-0aedc30d78de

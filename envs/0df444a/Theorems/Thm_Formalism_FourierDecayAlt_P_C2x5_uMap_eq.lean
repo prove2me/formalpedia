@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_C2x5_uMap_eq
 -- name    : Formalism.FourierDecayAlt.P.C2x5.uMap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:48:38.429717+00:00
 -- url     : https://prove2.me/theorems/81158497-39f5-457d-ae6e-c6f493404e55

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeSplitAll_Approx_exists_finset_norm_one
 -- name    : GlobalTheory.HeckeSplitAll.Approx.exists_finset_norm_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:04:33.42046+00:00
 -- url     : https://prove2.me/theorems/bc1e9f26-6291-434f-80a1-c2ed4f5c9e2a

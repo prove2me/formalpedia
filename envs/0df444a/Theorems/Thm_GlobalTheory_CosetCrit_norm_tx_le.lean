@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CosetCrit_norm_tx_le
 -- name    : GlobalTheory.CosetCrit.norm_tx_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:27:57.502805+00:00
 -- url     : https://prove2.me/theorems/f7f61d34-c98e-4988-a4f6-2b48585875a0

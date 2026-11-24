@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_VMonicMonicShiftEvaluation_coeff_PQ
 -- name    : Formalism.FourierDecayAlt.Q.VMonicMonicShiftEvaluation.coeff_PQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:54:41.479918+00:00
 -- url     : https://prove2.me/theorems/ad9bf40b-b5e7-441a-b52c-82cfe046722d

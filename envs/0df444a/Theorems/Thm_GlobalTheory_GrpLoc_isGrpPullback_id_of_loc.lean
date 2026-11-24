@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpLoc_isGrpPullback_id_of_loc
 -- name    : GlobalTheory.GrpLoc.isGrpPullback_id_of_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:59:34.76451+00:00
 -- url     : https://prove2.me/theorems/0b842c10-9da3-4294-b348-765f74e724fc

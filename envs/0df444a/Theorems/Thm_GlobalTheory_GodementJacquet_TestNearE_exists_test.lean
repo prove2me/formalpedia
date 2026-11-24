@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GodementJacquet_TestNearE_exists_test
 -- name    : GlobalTheory.GodementJacquet.TestNearE.exists_test
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:56:03.204849+00:00
 -- url     : https://prove2.me/theorems/a72fdcac-c49c-424c-969e-3de9fa3343db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairShareAlmostAll_Slack_bucket_supply
 -- name    : FairShareAlmostAll.Slack.bucket_supply
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:54:40.53419+00:00
 -- url     : https://prove2.me/theorems/aaab2e82-ac66-4c80-b063-a4cc362e4000

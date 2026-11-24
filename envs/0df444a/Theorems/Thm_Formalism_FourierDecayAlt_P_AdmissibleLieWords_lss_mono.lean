@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_AdmissibleLieWords_lss_mono
 -- name    : Formalism.FourierDecayAlt.P.AdmissibleLieWords.lss_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:02:16.053905+00:00
 -- url     : https://prove2.me/theorems/7859e03f-05c6-4104-890e-9f0ac91c9cf2

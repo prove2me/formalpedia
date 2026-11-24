@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_Adapted_second_capelli_minor_standard_basis
 -- name    : Formalism.FourierDecayAlt.Q.Adapted.second_capelli_minor_standard_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:44:20.104353+00:00
 -- url     : https://prove2.me/theorems/24e73b94-844b-4ab0-a2d2-31c1654aab31

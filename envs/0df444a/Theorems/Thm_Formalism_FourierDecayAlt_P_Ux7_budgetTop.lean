@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux7_budgetTop
 -- name    : Formalism.FourierDecayAlt.P.Ux7.budgetTop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:35:04.960244+00:00
 -- url     : https://prove2.me/theorems/10a8cb75-8bb1-40c9-a98b-15da51319624
