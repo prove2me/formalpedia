@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_branching_count_holds
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.branching_count_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:13:40.707798+00:00
 -- url     : https://prove2.me/theorems/a829b77f-23cb-49f8-bd89-a179f316d2bb

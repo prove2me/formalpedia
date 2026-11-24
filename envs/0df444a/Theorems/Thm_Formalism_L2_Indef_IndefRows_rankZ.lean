@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_IndefRows_rankZ
 -- name    : Formalism.L2.Indef.IndefRows.rankZ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:09.031798+00:00
 -- url     : https://prove2.me/theorems/48a00640-77fc-4444-9ee7-c1d02acd1071

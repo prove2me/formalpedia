@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_log_rescale_alt
 -- name    : Formalism.InvariantFactorPaths.G7.log_rescale_alt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:17.719309+00:00
 -- url     : https://prove2.me/theorems/7da10fb4-9b63-4774-8c03-b3b71db973fc

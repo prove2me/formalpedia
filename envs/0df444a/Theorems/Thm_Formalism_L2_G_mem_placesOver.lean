@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_mem_placesOver
 -- name    : Formalism.L2.G.mem_placesOver
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:41:14.901793+00:00
 -- url     : https://prove2.me/theorems/82c413e0-b269-412d-861d-6a4a0a85af6d

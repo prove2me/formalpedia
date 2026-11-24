@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Clo_coeff_pow_zero
 -- name    : Formalism.L2.Th1.C.Clo.coeff_pow_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:01.797671+00:00
 -- url     : https://prove2.me/theorems/a72892b0-70ac-4c00-92e7-895297d332a9

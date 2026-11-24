@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FJ_dualZE_eq
 -- name    : Formalism.L2.Pj.FJ.dualZE_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:46:46.468907+00:00
 -- url     : https://prove2.me/theorems/dbcbc11d-fa0f-49e7-89ec-504ed34a91db

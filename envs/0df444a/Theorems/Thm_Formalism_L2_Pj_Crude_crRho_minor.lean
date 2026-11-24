@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_crRho_minor
 -- name    : Formalism.L2.Pj.Crude.crRho_minor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:55.687927+00:00
 -- url     : https://prove2.me/theorems/e339df6a-4bfa-42f5-9442-c86a2899b772

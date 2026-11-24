@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatEx_sub_smul_mem_span_init
 -- name    : Formalism.L2.SG.Pf.LatEx.sub_smul_mem_span_init
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:18.799963+00:00
 -- url     : https://prove2.me/theorems/9bebfc71-7e79-471c-9a38-51698046738e

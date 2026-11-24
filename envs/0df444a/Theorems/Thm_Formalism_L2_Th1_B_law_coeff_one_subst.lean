@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_law_coeff_one_subst
 -- name    : Formalism.L2.Th1.B.law_coeff_one_subst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:04.388249+00:00
 -- url     : https://prove2.me/theorems/38413d1d-aa7f-45a1-aa4e-7301587cc51d

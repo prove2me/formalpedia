@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Sim_integral_of_sq
 -- name    : Formalism.L2.Th1.B.Sim.integral_of_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:04.676875+00:00
 -- url     : https://prove2.me/theorems/455b0e1b-9c92-4bd8-8d86-44aa9776a383

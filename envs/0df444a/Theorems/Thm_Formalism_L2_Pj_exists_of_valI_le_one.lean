@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_exists_of_valI_le_one
 -- name    : Formalism.L2.Pj.exists_of_valI_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:38.25082+00:00
 -- url     : https://prove2.me/theorems/27224f31-c29b-40a1-bdcc-a98985f8cea9

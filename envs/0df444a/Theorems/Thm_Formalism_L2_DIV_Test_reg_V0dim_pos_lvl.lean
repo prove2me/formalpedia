@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_Test_reg_V0dim_pos_lvl
 -- name    : Formalism.L2.DIV.Test.reg_V0dim_pos_lvl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:41:40.784284+00:00
 -- url     : https://prove2.me/theorems/2b017e07-7751-4cab-97ac-99f3731e5872

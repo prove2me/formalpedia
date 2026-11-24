@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_eq_substInv_of_left
 -- name    : Formalism.L2.Th1.A.eq_substInv_of_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:47:51.927798+00:00
 -- url     : https://prove2.me/theorems/e59bf68f-5b3d-4c36-b857-36cc72c39bfc

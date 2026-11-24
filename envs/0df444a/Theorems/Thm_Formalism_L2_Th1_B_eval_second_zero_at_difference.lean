@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_eval_second_zero_at_difference
 -- name    : Formalism.L2.Th1.B.eval_second_zero_at_difference
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:51:25.09441+00:00
 -- url     : https://prove2.me/theorems/7c6ea2b2-abef-4070-8bf3-63c4bbb95079

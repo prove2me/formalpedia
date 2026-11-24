@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_mul_le_mul_r
 -- name    : Formalism.L2.LamCM.mul_le_mul_r
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:33.298522+00:00
 -- url     : https://prove2.me/theorems/5e5ebc3d-bb22-4d1c-a948-309f26de316c

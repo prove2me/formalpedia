@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_cube_sub_eq
 -- name    : Formalism.L2.Th1.B.cube_sub_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:30:19.513704+00:00
 -- url     : https://prove2.me/theorems/7eb9bac3-b7fb-4f7f-907c-3d564929eacf

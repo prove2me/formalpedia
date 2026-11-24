@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_modCond_last_fwd
 -- name    : Formalism.InvariantFactorPaths.L4.modCond_last_fwd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:12.131221+00:00
 -- url     : https://prove2.me/theorems/0278b997-db7b-4dd5-83f5-498d42170fbf

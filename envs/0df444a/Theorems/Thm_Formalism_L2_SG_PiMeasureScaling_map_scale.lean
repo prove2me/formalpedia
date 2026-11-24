@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_PiMeasureScaling_map_scale
 -- name    : Formalism.L2.SG.PiMeasureScaling.map_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:50:23.789017+00:00
 -- url     : https://prove2.me/theorems/47c7804e-342b-454f-94a5-97830893286d

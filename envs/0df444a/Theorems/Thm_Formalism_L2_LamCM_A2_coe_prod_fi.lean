@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_A2_coe_prod_fi
 -- name    : Formalism.L2.LamCM.A2.coe_prod_fi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:35:46.183867+00:00
 -- url     : https://prove2.me/theorems/a8a6feea-3235-48ee-9926-0910a9f3ddcd

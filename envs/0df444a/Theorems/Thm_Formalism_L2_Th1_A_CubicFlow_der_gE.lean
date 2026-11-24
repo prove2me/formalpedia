@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_CubicFlow_der_gE
 -- name    : Formalism.L2.Th1.A.CubicFlow.der_gE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:47.41401+00:00
 -- url     : https://prove2.me/theorems/1ecd158b-c80a-41a5-b1e5-a0c8b2d72ced

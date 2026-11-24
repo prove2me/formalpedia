@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_ColsDim_sharpFun_mem
 -- name    : Formalism.L2.SG.ColsDim.sharpFun_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:27.436863+00:00
 -- url     : https://prove2.me/theorems/89212376-5383-4eca-b3cf-5ba3158f018a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_RowsOther_ngInputs_iff
 -- name    : Formalism.L2.SG.RowsOther.ngInputs_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:51.7387+00:00
 -- url     : https://prove2.me/theorems/bebb1aa5-fbcc-4e6f-8ea2-cc1bab4c9064

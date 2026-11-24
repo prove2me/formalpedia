@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_GS_hasWeight_iff
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.GS.hasWeight_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:59:54.346664+00:00
 -- url     : https://prove2.me/theorems/bc180c75-3d58-441e-bf70-54b88884d9ab

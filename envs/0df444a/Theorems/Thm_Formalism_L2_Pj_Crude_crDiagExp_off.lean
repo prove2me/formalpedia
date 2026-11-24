@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_crDiagExp_off
 -- name    : Formalism.L2.Pj.Crude.crDiagExp_off
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:06.422497+00:00
 -- url     : https://prove2.me/theorems/78a2b611-68e0-451d-a22d-6acd969d3c50

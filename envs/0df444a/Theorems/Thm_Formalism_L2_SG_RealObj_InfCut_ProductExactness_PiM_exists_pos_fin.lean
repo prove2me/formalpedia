@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_RealObj_InfCut_ProductExactness_PiM_exists_pos_fin
 -- name    : Formalism.L2.SG.RealObj.InfCut.ProductExactness.PiM.exists_pos_fin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:53.397162+00:00
 -- url     : https://prove2.me/theorems/0a1ad4a2-ffe0-4c5a-9531-7ef66dd0117c

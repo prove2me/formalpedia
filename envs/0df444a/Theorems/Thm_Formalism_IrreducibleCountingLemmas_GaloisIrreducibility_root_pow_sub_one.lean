@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_root_pow_sub_one
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.root_pow_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:06:59.739697+00:00
 -- url     : https://prove2.me/theorems/c858e740-081a-4dbc-a035-106c2c31de06

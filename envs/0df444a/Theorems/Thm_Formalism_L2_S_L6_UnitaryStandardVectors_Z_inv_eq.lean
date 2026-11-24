@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_L6_UnitaryStandardVectors_Z_inv_eq
 -- name    : Formalism.L2.S.L6.UnitaryStandardVectors.Z_inv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:30.508051+00:00
 -- url     : https://prove2.me/theorems/0d7f7dd0-d979-4a4b-a2a3-da8de37d3619

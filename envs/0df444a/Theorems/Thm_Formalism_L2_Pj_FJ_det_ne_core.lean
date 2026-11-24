@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FJ_det_ne_core
 -- name    : Formalism.L2.Pj.FJ.det_ne_core
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:38.090085+00:00
 -- url     : https://prove2.me/theorems/1e165566-f05b-491e-ae44-1aa58cae9d2c

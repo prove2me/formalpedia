@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_LL_lattice_plus_holds
 -- name    : Formalism.InvariantFactorPaths.KP.LL.lattice_plus_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:37:32.09984+00:00
 -- url     : https://prove2.me/theorems/57a8fbf8-e82c-4cda-9588-04394bb32319

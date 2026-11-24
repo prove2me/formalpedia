@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_sw_Dop_rowDiv
 -- name    : Formalism.L2.G.Model.sw_Dop_rowDiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:33.991696+00:00
 -- url     : https://prove2.me/theorems/4166dace-a843-480f-94f6-f5c6aa0c3ef3

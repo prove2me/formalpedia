@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_syracuse_nontrivial_cycle_dyadic_exponent_bound
 -- name    : syracuse_nontrivial_cycle_dyadic_exponent_bound
--- status  : Open
+-- status  : Proved
 -- author  : @immiq
 -- created : 2026-11-24T10:09:50.568913+00:00
 -- url     : https://prove2.me/theorems/993eaf2f-ee56-4645-ace2-307046c3efcf

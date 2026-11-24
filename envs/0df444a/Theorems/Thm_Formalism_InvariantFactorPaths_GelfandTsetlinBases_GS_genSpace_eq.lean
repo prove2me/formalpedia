@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_GS_genSpace_eq
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.GS.genSpace_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:04.129876+00:00
 -- url     : https://prove2.me/theorems/cbaeec1d-8f6a-4ffb-b203-e7173f139f94

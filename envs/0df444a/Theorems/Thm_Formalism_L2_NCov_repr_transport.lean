@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NCov_repr_transport
 -- name    : Formalism.L2.NCov.repr_transport
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:46.456822+00:00
 -- url     : https://prove2.me/theorems/7f264d37-a2a7-4b25-9c9e-9b433c9748b0

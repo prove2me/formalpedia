@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_eval_second_zero_at_variable_zero
 -- name    : Formalism.L2.Th1.B.eval_second_zero_at_variable_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:51:27.997524+00:00
 -- url     : https://prove2.me/theorems/155fea0a-11e8-4535-8a59-7a819b3a19d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_IndefRows_Qpart_decomp
 -- name    : Formalism.L2.Indef.IndefRows.Qpart_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:35:55.622911+00:00
 -- url     : https://prove2.me/theorems/ea7eb6d1-991b-496e-8263-8a38b4251c84

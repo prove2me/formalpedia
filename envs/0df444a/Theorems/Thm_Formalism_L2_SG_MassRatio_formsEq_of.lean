@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_MassRatio_formsEq_of
 -- name    : Formalism.L2.SG.MassRatio.formsEq_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:52.445685+00:00
 -- url     : https://prove2.me/theorems/4a5e3bff-bb28-458a-8573-07ddab6f32cc

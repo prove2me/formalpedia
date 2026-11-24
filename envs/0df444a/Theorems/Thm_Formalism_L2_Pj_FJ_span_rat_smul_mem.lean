@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FJ_span_rat_smul_mem
 -- name    : Formalism.L2.Pj.FJ.span_rat_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:46:19.848145+00:00
 -- url     : https://prove2.me/theorems/76bf9afc-40ab-416e-a3e8-fb3bda0bce06

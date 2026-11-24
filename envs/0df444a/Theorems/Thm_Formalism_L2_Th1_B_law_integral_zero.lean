@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_law_integral_zero
 -- name    : Formalism.L2.Th1.B.law_integral_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:35.873368+00:00
 -- url     : https://prove2.me/theorems/fc1f4883-94ee-427d-afb0-f850d5583180

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatEx_exists_smul_mem_of_mem_span
 -- name    : Formalism.L2.SG.Pf.LatEx.exists_smul_mem_of_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:12.993293+00:00
 -- url     : https://prove2.me/theorems/1043ee98-a403-41f5-814a-09ff5c2b2ead

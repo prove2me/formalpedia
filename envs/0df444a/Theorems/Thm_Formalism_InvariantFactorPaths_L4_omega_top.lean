@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_omega_top
 -- name    : Formalism.InvariantFactorPaths.L4.omega_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:28.24238+00:00
 -- url     : https://prove2.me/theorems/4137f200-49b7-4aac-b419-5711cde65ea1

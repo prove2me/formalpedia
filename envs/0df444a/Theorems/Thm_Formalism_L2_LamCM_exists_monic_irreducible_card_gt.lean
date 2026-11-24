@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_exists_monic_irreducible_card_gt
 -- name    : Formalism.L2.LamCM.exists_monic_irreducible_card_gt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:05.888891+00:00
 -- url     : https://prove2.me/theorems/96a299d6-ad36-4f6a-843b-eeb8d48c29e1

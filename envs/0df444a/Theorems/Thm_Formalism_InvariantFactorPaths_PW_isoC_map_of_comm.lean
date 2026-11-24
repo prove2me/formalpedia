@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_isoC_map_of_comm
 -- name    : Formalism.InvariantFactorPaths.PW.isoC_map_of_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:19:14.654217+00:00
 -- url     : https://prove2.me/theorems/acb2cbcf-f0d9-45db-87d8-53187e8ff253

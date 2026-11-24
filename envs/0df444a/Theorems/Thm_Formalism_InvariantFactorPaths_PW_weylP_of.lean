@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_weylP_of
 -- name    : Formalism.InvariantFactorPaths.PW.weylP_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:35.850591+00:00
 -- url     : https://prove2.me/theorems/4bf999ed-71ac-439b-92a8-2a2efb1bf958

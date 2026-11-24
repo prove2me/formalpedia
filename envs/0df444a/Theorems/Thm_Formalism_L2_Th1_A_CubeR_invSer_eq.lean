@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_CubeR_invSer_eq
 -- name    : Formalism.L2.Th1.A.CubeR.invSer_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:48:44.222634+00:00
 -- url     : https://prove2.me/theorems/3986afc7-3253-434b-a15f-48e6dcacb99b

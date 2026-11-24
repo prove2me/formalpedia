@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_QuadraticFlow_weierstrassSubstitution_unit_fact
 -- name    : Formalism.L2.Th1.A.QuadraticFlow.weierstrassSubstitution_unit_fact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:46:19.699396+00:00
 -- url     : https://prove2.me/theorems/e458b480-f296-41a5-a321-ca9be5c654eb

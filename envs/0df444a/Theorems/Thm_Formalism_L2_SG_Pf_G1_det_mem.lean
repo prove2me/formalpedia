@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G1_det_mem
 -- name    : Formalism.L2.SG.Pf.G1.det_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:45.449189+00:00
 -- url     : https://prove2.me/theorems/b2d1e0a6-d5c4-4bba-b465-89de0f868e01

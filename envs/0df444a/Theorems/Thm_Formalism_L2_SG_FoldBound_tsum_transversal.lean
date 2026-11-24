@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_FoldBound_tsum_transversal
 -- name    : Formalism.L2.SG.FoldBound.tsum_transversal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:36.04023+00:00
 -- url     : https://prove2.me/theorems/35c7bb96-89b1-40e3-a7e8-a6bf8bfac63e

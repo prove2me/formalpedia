@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qa_exp_surj
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qa_exp_surj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:48:03.459818+00:00
 -- url     : https://prove2.me/theorems/9be8ef5b-6afb-4e38-85fd-94694cdfcb2f

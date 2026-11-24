@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_nrmC_zero
 -- name    : Formalism.L2.Pj.nrmC_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:44.027802+00:00
 -- url     : https://prove2.me/theorems/fe3c9a98-0f83-489b-9dce-6ef664e48f06

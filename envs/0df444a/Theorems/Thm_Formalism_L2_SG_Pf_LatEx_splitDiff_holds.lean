@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatEx_splitDiff_holds
 -- name    : Formalism.L2.SG.Pf.LatEx.splitDiff_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:29.72079+00:00
 -- url     : https://prove2.me/theorems/730c042b-3a62-4e85-a3ba-aa6e8e1ba835

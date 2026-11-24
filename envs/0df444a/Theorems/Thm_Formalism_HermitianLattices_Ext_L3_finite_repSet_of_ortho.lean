@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_finite_repSet_of_ortho
 -- name    : Formalism.HermitianLattices.Ext.L3.finite_repSet_of_ortho
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:51:34.626524+00:00
 -- url     : https://prove2.me/theorems/11f5f406-c0f5-46a9-957a-26513e63bac8

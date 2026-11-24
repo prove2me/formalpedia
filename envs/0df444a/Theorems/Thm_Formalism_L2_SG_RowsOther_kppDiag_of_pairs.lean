@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_RowsOther_kppDiag_of_pairs
 -- name    : Formalism.L2.SG.RowsOther.kppDiag_of_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:00:27.27223+00:00
 -- url     : https://prove2.me/theorems/9b9a2d0f-1ae4-4959-8b75-7a49fa8d171d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hollom_square_subset_R
 -- name    : Hollom.square_subset_R
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:09:27.590014+00:00
 -- url     : https://prove2.me/theorems/40198afe-94ae-4cd2-9ef1-7458cb262b9d

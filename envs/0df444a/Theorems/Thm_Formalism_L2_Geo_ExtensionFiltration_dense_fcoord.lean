@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Geo_ExtensionFiltration_dense_fcoord
 -- name    : Formalism.L2.Geo.ExtensionFiltration.dense_fcoord
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:34.047052+00:00
 -- url     : https://prove2.me/theorems/955a78b7-49ea-4d95-b5fe-74d1c0fbf999

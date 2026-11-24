@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_valV_algebraMap_unit
 -- name    : Formalism.L2.Pj.valV_algebraMap_unit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:10.700035+00:00
 -- url     : https://prove2.me/theorems/94614478-0aa3-442f-b81f-48242064a4a3

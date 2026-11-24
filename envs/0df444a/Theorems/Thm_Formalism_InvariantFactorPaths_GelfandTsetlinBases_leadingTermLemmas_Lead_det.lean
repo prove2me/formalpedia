@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_leadingTermLemmas_Lead_det
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.leadingTermLemmas.Lead_det
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:02.590287+00:00
 -- url     : https://prove2.me/theorems/947a9e43-e794-4766-b98d-4d20380bfb38

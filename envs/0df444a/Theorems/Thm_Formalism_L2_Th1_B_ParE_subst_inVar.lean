@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_ParE_subst_inVar
 -- name    : Formalism.L2.Th1.B.ParE.subst_inVar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:50:29.549732+00:00
 -- url     : https://prove2.me/theorems/3e62e5bc-3be6-44e7-9d90-721204f17524

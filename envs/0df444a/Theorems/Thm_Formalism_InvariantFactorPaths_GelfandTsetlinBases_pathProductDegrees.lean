@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_pathProductDegrees
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.pathProductDegrees
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:22:35.610017+00:00
 -- url     : https://prove2.me/theorems/1ae2ebf3-c7cb-423a-ae4f-1cbe057b278e

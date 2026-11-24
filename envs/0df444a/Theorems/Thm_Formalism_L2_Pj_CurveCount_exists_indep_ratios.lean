@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_CurveCount_exists_indep_ratios
 -- name    : Formalism.L2.Pj.CurveCount.exists_indep_ratios
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:14.128799+00:00
 -- url     : https://prove2.me/theorems/bf7738e5-4871-4a57-ae2f-32212273d47d

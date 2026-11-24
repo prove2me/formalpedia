@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_ColsDim_equi_subtype
 -- name    : Formalism.L2.SG.ColsDim.equi_subtype
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:04.927808+00:00
 -- url     : https://prove2.me/theorems/6da26d65-dbd5-45e0-ae21-f70152f6d989

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_central_idempotent_holds
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.central_idempotent_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:27.643807+00:00
 -- url     : https://prove2.me/theorems/120bd49e-a3b7-435e-89d1-73aeea17243b

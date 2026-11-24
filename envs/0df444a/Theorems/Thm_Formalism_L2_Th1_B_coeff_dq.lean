@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_coeff_dq
 -- name    : Formalism.L2.Th1.B.coeff_dq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:07:02.770582+00:00
 -- url     : https://prove2.me/theorems/b0300380-807a-420a-a80d-a64808025d45

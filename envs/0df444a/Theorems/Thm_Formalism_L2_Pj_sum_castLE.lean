@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_sum_castLE
 -- name    : Formalism.L2.Pj.sum_castLE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:44.416525+00:00
 -- url     : https://prove2.me/theorems/dcff5323-775e-4cd0-b09b-eff4894d0713

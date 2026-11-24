@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_intP_of
 -- name    : Formalism.InvariantFactorPaths.PW.intP_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:32:00.646978+00:00
 -- url     : https://prove2.me/theorems/b96984dd-44cd-442b-be9f-09a6986891e6

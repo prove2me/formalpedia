@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_LocalLatticeBases_length_quot_map_of_injective
 -- name    : Formalism.L2.GlobalTheoryTheory.LocalLatticeBases.length_quot_map_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:58:06.100796+00:00
 -- url     : https://prove2.me/theorems/b0623d21-142a-429b-a15f-9a599982edb4

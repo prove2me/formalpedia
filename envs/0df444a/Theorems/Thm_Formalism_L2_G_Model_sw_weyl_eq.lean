@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_sw_weyl_eq
 -- name    : Formalism.L2.G.Model.sw_weyl_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:00.615769+00:00
 -- url     : https://prove2.me/theorems/10d9c5df-dd69-49e2-800f-14093a84604e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_integral_subst_two_variables
 -- name    : Formalism.L2.Th1.B.integral_subst_two_variables
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:48:19.475416+00:00
 -- url     : https://prove2.me/theorems/4e3dac76-50b9-48de-8daf-7b1a490a0196

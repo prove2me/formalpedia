@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Pts_coeff_one_linv
 -- name    : Formalism.L2.Th1.C.Pts.coeff_one_linv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:06:41.656643+00:00
 -- url     : https://prove2.me/theorems/8133ed3c-5e9e-4a7c-a071-14c9a87f0117

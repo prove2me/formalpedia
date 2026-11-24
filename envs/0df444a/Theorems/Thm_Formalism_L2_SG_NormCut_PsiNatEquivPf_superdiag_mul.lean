@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_NormCut_PsiNatEquivPf_superdiag_mul
 -- name    : Formalism.L2.SG.NormCut.PsiNatEquivPf.superdiag_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:52.904083+00:00
 -- url     : https://prove2.me/theorems/0a6a5e8e-2a3d-48f7-b43c-5701f215b9be

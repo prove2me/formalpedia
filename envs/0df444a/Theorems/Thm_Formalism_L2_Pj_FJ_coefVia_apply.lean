@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FJ_coefVia_apply
 -- name    : Formalism.L2.Pj.FJ.coefVia_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:20.143725+00:00
 -- url     : https://prove2.me/theorems/62e7a8a8-2ce4-4691-b7a2-065ffa315cb4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A1_psi_lead_unit
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.A1.psi_lead_unit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:35:46.656552+00:00
 -- url     : https://prove2.me/theorems/0b0bdafe-47e9-4de3-ba41-7538247705dc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_UnramifiedTrace_card_dual_two
 -- name    : Formalism.L2.GlobalTheoryTheory.UnramifiedTrace.card_dual_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:58:12.132494+00:00
 -- url     : https://prove2.me/theorems/ac24a8cf-8bfe-4a36-8d7b-23a7e0ecdc86

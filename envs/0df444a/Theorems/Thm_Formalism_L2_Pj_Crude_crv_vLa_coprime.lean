@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_crv_vLa_coprime
 -- name    : Formalism.L2.Pj.Crude.crv_vLa_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:53.420945+00:00
 -- url     : https://prove2.me/theorems/5cbff4a3-8ab2-4d3b-9177-2e083159ad40

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_dot_basis_vector_diag
 -- name    : Formalism.L2.LamCM.dot_basis_vector_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:24.323261+00:00
 -- url     : https://prove2.me/theorems/201a4ce1-f4ab-4096-8ffd-528c483113e6

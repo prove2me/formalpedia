@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_ZSer_subst_subst_pair
 -- name    : Formalism.L2.Th1.A.ZSer.subst_subst_pair
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:55.803627+00:00
 -- url     : https://prove2.me/theorems/859ff17c-401c-4648-b08f-970584953f40

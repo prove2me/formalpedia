@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_ow_smul_mem_of_length
 -- name    : Formalism.L2.Col.ow_smul_mem_of_length
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:27.886472+00:00
 -- url     : https://prove2.me/theorems/cbe90b1a-cef9-4773-bc4f-8c5e861b717b

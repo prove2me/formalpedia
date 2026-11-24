@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_law_constantCoeff_FI
 -- name    : Formalism.L2.Th1.B.law_constantCoeff_FI
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:27.638871+00:00
 -- url     : https://prove2.me/theorems/3aa37d7c-c85b-4640-b5af-7be0625125e8

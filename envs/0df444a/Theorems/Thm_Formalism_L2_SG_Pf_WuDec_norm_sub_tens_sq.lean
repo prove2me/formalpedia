@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_WuDec_norm_sub_tens_sq
 -- name    : Formalism.L2.SG.Pf.WuDec.norm_sub_tens_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:43.054219+00:00
 -- url     : https://prove2.me/theorems/f9e01b2b-ea32-4168-908d-bf17dc35ddea

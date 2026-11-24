@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_FS_Herm4_norm_add
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.FS.Herm4.norm_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:47.26888+00:00
 -- url     : https://prove2.me/theorems/bdeabc82-cdca-4718-9e84-40f27cc16b1b

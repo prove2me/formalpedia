@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_finite_autL_of_ortho
 -- name    : Formalism.HermitianLattices.Ext.L3.finite_autL_of_ortho
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:52:37.69891+00:00
 -- url     : https://prove2.me/theorems/6b970782-f9bc-489f-956c-4339c113ad09

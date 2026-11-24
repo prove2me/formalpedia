@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_inversion_formula
 -- name    : Formalism.InvariantFactorPaths.G7.inversion_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:06.552748+00:00
 -- url     : https://prove2.me/theorems/05abad76-5d0e-4da6-a75a-34b9733cc45d

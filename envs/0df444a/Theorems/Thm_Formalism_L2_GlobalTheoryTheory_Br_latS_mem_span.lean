@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_Br_latS_mem_span
 -- name    : Formalism.L2.GlobalTheoryTheory.Br.latS_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:27.92281+00:00
 -- url     : https://prove2.me/theorems/51f5e80e-ef21-4338-a40d-e3ef116e74cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_restrFrameSpec
 -- name    : Formalism.L2.DIV.restrFrameSpec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:09:26.641265+00:00
 -- url     : https://prove2.me/theorems/c7aa41cc-77b9-4258-98ed-cfb22915adb7

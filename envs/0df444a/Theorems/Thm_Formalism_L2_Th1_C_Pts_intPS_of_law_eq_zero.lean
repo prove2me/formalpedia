@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Pts_intPS_of_law_eq_zero
 -- name    : Formalism.L2.Th1.C.Pts.intPS_of_law_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:05.732606+00:00
 -- url     : https://prove2.me/theorems/fa4b7fb3-8167-4d2c-8a09-2d9baf8c9bff

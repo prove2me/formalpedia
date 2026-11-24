@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NCov_length_quot_map
 -- name    : Formalism.L2.NCov.length_quot_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:40.223564+00:00
 -- url     : https://prove2.me/theorems/73305a3d-f742-4dab-98ee-3ce8692e7c4a

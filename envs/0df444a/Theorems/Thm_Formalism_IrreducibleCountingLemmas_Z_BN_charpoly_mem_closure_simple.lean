@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_BN_charpoly_mem_closure_simple
 -- name    : Formalism.IrreducibleCountingLemmas.Z.BN.charpoly_mem_closure_simple
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:48:06.277454+00:00
 -- url     : https://prove2.me/theorems/8f534dc0-ca9d-479f-a9fb-7a9490c1f4f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_fockL_X_X
 -- name    : Formalism.L2.DIV.fockL_X_X
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:36.133679+00:00
 -- url     : https://prove2.me/theorems/ad54fb73-f244-4be5-bf71-d7c2401853e5

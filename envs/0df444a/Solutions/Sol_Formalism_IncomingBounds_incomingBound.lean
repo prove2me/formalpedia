@@ -1,0 +1,34 @@
+-- Prove2me | solution 1 for Formalism.IncomingBounds.incomingBound
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-24T10:17:17.685117+00:00
+-- url     : https://prove2.me/submissions/8cb6ce0c-5e93-4e44-94fd-85b809a6fb1f
+
+import Definitions.Def_Formalism_IncomingBounds_FlowDegreeBounds_MaxFlowValueAttained
+import Definitions.Def_Formalism_IncomingBounds_FlowDegreeBounds_LemmaF
+import Definitions.Def_Formalism_IncomingBounds_FlowDegreeBounds_LemmaFd
+import Definitions.Def_Formalism_IncomingBounds_FlowDegreeBounds_BaseTermLeTopTerm
+import Definitions.Def_Formalism_IncomingBounds_FlowDegreeBounds_PadicValFactorialRatioProd
+import Definitions.Def_Formalism_IncomingBounds_FlowDegreeBounds_AltChooseSumEqZero
+import Definitions.Def_Formalism_IncomingBounds_FlowDegreeBounds_IndexLastReductionHolds
+import Definitions.Def_Formalism_IncomingBounds_FlowDegreeBounds_Cayley
+import Definitions.Def_Formalism_IncomingBounds_FlowDegreeBounds_Series
+import Definitions.Def_Formalism_IncomingBounds_FlowDegreeBounds_ProdRangeEqFactorialMulProdIco
+import Definitions.Def_Formalism_IncomingBounds_WeightIdentities
+import Theorems.Thm_Formalism_IncomingBounds_incomingBound_of
+import Theorems.Thm_Formalism_IncomingBounds_maxFlowValueAttained
+import Theorems.Thm_Formalism_IncomingBounds_strongDuality
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.IncomingBounds
+namespace Formalism.IncomingBounds
+theorem _root_.solution : IncomingBound := incomingBound_of maxFlowValueAttained strongDuality
+end Formalism.IncomingBounds

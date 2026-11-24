@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_isDer_dL
 -- name    : Formalism.L2.Th1.A.isDer_dL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:50:18.208876+00:00
 -- url     : https://prove2.me/theorems/1c739ef1-10e9-4821-ad32-1b613eb4ce7d

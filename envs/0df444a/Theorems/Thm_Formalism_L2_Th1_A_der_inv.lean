@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_der_inv
 -- name    : Formalism.L2.Th1.A.der_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:47:17.429584+00:00
 -- url     : https://prove2.me/theorems/91a521ac-f89e-4b44-8693-5554772f991a

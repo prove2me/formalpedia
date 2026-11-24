@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PairingIndexBounds_Mv_eq_of_out_sub_mem
 -- name    : Formalism.L2.PairingIndexBounds.Mv.eq_of_out_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:09.647568+00:00
 -- url     : https://prove2.me/theorems/4b9584e1-aed3-4f51-8b3e-f3a999b71a85

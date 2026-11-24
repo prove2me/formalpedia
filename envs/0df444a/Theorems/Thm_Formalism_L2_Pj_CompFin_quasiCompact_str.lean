@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_CompFin_quasiCompact_str
 -- name    : Formalism.L2.Pj.CompFin.quasiCompact_str
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:01.765336+00:00
 -- url     : https://prove2.me/theorems/523eef15-04b6-4a40-b56e-e4071217bc3d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_conj_ne_self_of_CM
 -- name    : Formalism.L2.Pj.conj_ne_self_of_CM
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:56.452069+00:00
 -- url     : https://prove2.me/theorems/c7a41a60-b2ce-466d-af47-ff1263bd551f

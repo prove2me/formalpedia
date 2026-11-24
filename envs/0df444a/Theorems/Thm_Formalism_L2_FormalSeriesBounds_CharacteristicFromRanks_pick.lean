@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_CharacteristicFromRanks_pick
 -- name    : Formalism.L2.FormalSeriesBounds.CharacteristicFromRanks.pick
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:13:35.569174+00:00
 -- url     : https://prove2.me/theorems/f7e15f11-2886-4f66-939c-51d3a5e9f91f

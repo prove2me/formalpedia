@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_count_pow8_inv_pow4
 -- name    : Formalism.L2.LamCM.count_pow8_inv_pow4
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:13.016702+00:00
 -- url     : https://prove2.me/theorems/657dab18-83db-40bc-b6c0-03c9b8f48af3

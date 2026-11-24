@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FundamentalDomainD5_rho_sub
 -- name    : Formalism.L2.Pj.FundamentalDomainD5.rho_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:46:47.790548+00:00
 -- url     : https://prove2.me/theorems/b56d98d8-e6aa-41e1-8920-6d582a84a4f6

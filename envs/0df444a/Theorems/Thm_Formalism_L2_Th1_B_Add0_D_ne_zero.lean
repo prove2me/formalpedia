@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Add0_D_ne_zero
 -- name    : Formalism.L2.Th1.B.Add0.D_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:44.907324+00:00
 -- url     : https://prove2.me/theorems/9c990a78-3f00-4d55-af5d-6da2b1d382b9

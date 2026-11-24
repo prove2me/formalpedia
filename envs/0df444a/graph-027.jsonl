@@ -69918,7 +69918,7 @@
 {"parent": "OAIQ240Bp019", "child": "BallPacking", "via": ["statement"]}
 {"parent": "HigherOrderId.Certify.lemma_B_2", "child": "HigherOrderId_Certify_Model", "via": ["solution", "statement"]}
 {"parent": "HigherOrderId.Certify.lemma_B_2", "child": "HigherOrderId_Certify_Completion", "via": ["solution", "statement"]}
-{"parent": "MIBF.Balanced.full_lemma_4_2", "child": "MIBF_Balanced_PureGap", "via": ["statement"]}
+{"parent": "MIBF.Balanced.full_lemma_4_2", "child": "MIBF_Balanced_PureGap", "via": ["solution", "statement"]}
 {"parent": "InducedMinorDeletion1657.Main.auxiliary_minor_free", "child": "InducedMinorDeletion1657_Main_Collections", "via": ["statement"]}
 {"parent": "IndependentInfoPricing.Main.abstract_bound", "child": "IndependentInfoPricing_Main_Analysis", "via": ["statement"]}
 {"parent": "QEC.Distillation.OneQubitMagic.projectionSquaredOverlap_mem_Icc", "child": "QEC_Distillation_Universality_OneQubitClifford", "via": ["solution", "statement"]}

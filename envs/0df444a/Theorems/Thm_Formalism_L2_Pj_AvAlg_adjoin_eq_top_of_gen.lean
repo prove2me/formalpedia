@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_AvAlg_adjoin_eq_top_of_gen
 -- name    : Formalism.L2.Pj.AvAlg.adjoin_eq_top_of_gen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:50.365095+00:00
 -- url     : https://prove2.me/theorems/7fc03ddf-4c40-401b-ac51-a06888e32aae

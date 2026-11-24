@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_polLatData_of
 -- name    : Formalism.InvariantFactorPaths.PW.polLatData_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:29:06.172896+00:00
 -- url     : https://prove2.me/theorems/ee03e3d5-3ee9-4267-938b-45903b663e7c

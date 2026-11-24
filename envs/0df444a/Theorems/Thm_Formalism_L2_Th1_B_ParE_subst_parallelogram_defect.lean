@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_ParE_subst_parallelogram_defect
 -- name    : Formalism.L2.Th1.B.ParE.subst_parallelogram_defect
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:17.472828+00:00
 -- url     : https://prove2.me/theorems/cba2a48b-385b-499d-899a-394e2d2ceb0b

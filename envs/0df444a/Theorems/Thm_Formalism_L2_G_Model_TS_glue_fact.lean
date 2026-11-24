@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_glue_fact
 -- name    : Formalism.L2.G.Model.TS.glue_fact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:09.575015+00:00
 -- url     : https://prove2.me/theorems/8957f52d-e1d9-4fbd-b4c1-a21cdbc5b7c1

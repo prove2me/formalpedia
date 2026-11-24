@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_DatLin_trace_eq_sum_psi
 -- name    : Formalism.L2.Pj.DatLin.trace_eq_sum_psi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:24.924178+00:00
 -- url     : https://prove2.me/theorems/382363b0-38b2-4ecf-b321-cf79f93a4707

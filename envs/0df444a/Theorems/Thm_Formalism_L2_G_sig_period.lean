@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_sig_period
 -- name    : Formalism.L2.G.sig_period
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:36.754149+00:00
 -- url     : https://prove2.me/theorems/bf069eac-4634-43e3-a15d-a6529cc3bd35

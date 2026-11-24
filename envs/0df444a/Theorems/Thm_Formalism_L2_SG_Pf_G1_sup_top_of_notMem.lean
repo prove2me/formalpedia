@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G1_sup_top_of_notMem
 -- name    : Formalism.L2.SG.Pf.G1.sup_top_of_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:02.665688+00:00
 -- url     : https://prove2.me/theorems/3c8b6ddc-c3df-41b3-876d-65dd9a94a9bb

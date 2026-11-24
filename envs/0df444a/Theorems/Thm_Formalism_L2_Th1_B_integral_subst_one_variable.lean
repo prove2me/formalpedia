@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_integral_subst_one_variable
 -- name    : Formalism.L2.Th1.B.integral_subst_one_variable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:48:08.269224+00:00
 -- url     : https://prove2.me/theorems/3d49dab7-bc4c-4d38-b0f8-94d2042811ce

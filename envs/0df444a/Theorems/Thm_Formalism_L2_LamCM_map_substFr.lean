@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_map_substFr
 -- name    : Formalism.L2.LamCM.map_substFr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:13.179426+00:00
 -- url     : https://prove2.me/theorems/7ce47a38-1d21-440b-94d7-d7358d2d9f53

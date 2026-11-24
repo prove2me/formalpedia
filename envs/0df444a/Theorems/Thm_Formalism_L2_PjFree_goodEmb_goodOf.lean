@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PjFree_goodEmb_goodOf
 -- name    : Formalism.L2.PjFree.goodEmb_goodOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:27.548557+00:00
 -- url     : https://prove2.me/theorems/e212addc-8d5f-4801-86d9-28d7ef780128

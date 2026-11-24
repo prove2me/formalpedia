@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Map_map_fLog
 -- name    : Formalism.L2.Th1.B.Map.map_fLog
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:55.558277+00:00
 -- url     : https://prove2.me/theorems/5a45e6ce-e842-4460-9cbd-2f1fcd1c1613

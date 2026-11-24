@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_pairSymm
 -- name    : Formalism.L2.DIV.pairSymm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:53.150572+00:00
 -- url     : https://prove2.me/theorems/ad0766b7-0d14-4bc4-8fc2-979dbeea5893

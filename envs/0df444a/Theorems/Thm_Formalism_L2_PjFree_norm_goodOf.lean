@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PjFree_norm_goodOf
 -- name    : Formalism.L2.PjFree.norm_goodOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:31.591808+00:00
 -- url     : https://prove2.me/theorems/7273bcb1-45de-4d7e-9b23-ae287fb7046b

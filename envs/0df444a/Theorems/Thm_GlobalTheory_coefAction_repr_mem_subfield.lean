@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coefAction_repr_mem_subfield
 -- name    : GlobalTheory.coefAction_repr_mem_subfield
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:00:05.458545+00:00
 -- url     : https://prove2.me/theorems/6a1c2c00-5520-4003-8b03-6737da7dd46a

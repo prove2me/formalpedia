@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_fockR_sum_right
 -- name    : Formalism.L2.G.Model.TS.fockR_sum_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:19:02.724527+00:00
 -- url     : https://prove2.me/theorems/68377700-81a4-4b44-b072-937128197095

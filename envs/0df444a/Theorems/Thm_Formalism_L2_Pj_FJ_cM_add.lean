@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FJ_cM_add
 -- name    : Formalism.L2.Pj.FJ.cM_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:18.32104+00:00
 -- url     : https://prove2.me/theorems/a17c8797-0155-48ad-ab7a-02fd57ecb5fb

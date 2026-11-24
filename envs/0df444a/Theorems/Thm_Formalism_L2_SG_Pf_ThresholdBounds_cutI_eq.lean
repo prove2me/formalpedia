@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_ThresholdBounds_cutI_eq
 -- name    : Formalism.L2.SG.Pf.ThresholdBounds.cutI_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:28.688054+00:00
 -- url     : https://prove2.me/theorems/3bcb8b21-75fc-407d-899c-a7faa2f2dfb3

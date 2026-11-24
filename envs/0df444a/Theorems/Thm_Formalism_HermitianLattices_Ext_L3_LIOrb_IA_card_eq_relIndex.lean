@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LIOrb_IA_card_eq_relIndex
 -- name    : Formalism.HermitianLattices.Ext.L3.LIOrb.IA.card_eq_relIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:33:51.597766+00:00
 -- url     : https://prove2.me/theorems/3f49dff6-33a7-4b84-ab86-5a5d1ca02d47

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_crExpSum
 -- name    : Formalism.L2.Pj.Crude.crExpSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:39:06.514381+00:00
 -- url     : https://prove2.me/theorems/4aca0d1f-6b20-4e88-b283-6abaa870a0e6

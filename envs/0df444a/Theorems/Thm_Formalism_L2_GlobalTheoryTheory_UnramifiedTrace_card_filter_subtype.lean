@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_UnramifiedTrace_card_filter_subtype
 -- name    : Formalism.L2.GlobalTheoryTheory.UnramifiedTrace.card_filter_subtype
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:58:14.127282+00:00
 -- url     : https://prove2.me/theorems/ea214f7e-f5b9-4f8a-b518-c4d184f95e70

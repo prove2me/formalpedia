@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatEx_latSpanV_zero
 -- name    : Formalism.L2.SG.Pf.LatEx.latSpanV_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:43.798049+00:00
 -- url     : https://prove2.me/theorems/00c3bdda-ca0f-4d86-9c5a-f0bdda7b8839

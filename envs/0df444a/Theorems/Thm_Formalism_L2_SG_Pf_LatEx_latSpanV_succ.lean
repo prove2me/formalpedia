@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatEx_latSpanV_succ
 -- name    : Formalism.L2.SG.Pf.LatEx.latSpanV_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:12.278411+00:00
 -- url     : https://prove2.me/theorems/346f5aa1-d48b-4425-9667-8c7a5a750bf8

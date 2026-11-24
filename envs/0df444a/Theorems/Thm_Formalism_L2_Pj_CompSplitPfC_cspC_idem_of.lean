@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_CompSplitPfC_cspC_idem_of
 -- name    : Formalism.L2.Pj.CompSplitPfC.cspC_idem_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:48.754795+00:00
 -- url     : https://prove2.me/theorems/4f2744e7-7d33-4357-851f-825155f86241

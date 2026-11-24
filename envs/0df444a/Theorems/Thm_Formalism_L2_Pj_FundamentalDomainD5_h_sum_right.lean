@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FundamentalDomainD5_h_sum_right
 -- name    : Formalism.L2.Pj.FundamentalDomainD5.h_sum_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:00.085177+00:00
 -- url     : https://prove2.me/theorems/e5662ad7-ac55-49aa-9f18-e22bb7a1fa0c

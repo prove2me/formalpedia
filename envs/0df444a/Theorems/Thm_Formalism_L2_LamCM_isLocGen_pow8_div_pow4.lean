@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_isLocGen_pow8_div_pow4
 -- name    : Formalism.L2.LamCM.isLocGen_pow8_div_pow4
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:04:05.078332+00:00
 -- url     : https://prove2.me/theorems/23a59dae-d51b-4b8e-a9b4-78b0fba16add

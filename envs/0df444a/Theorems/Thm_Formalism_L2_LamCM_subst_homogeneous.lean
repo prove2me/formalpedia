@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_subst_homogeneous
 -- name    : Formalism.L2.LamCM.subst_homogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:35:57.995807+00:00
 -- url     : https://prove2.me/theorems/d2f69575-73db-4bc4-a260-cac061231d4f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_VolumeComparison_layercake
 -- name    : GaussianPerimeter.VolumeComparison.layercake
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:09:15.001161+00:00
 -- url     : https://prove2.me/theorems/fa18b92d-1459-4676-9878-9fb923971086

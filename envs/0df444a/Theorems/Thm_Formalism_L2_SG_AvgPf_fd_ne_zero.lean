@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_AvgPf_fd_ne_zero
 -- name    : Formalism.L2.SG.AvgPf.fd_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:23.029901+00:00
 -- url     : https://prove2.me/theorems/655b3c98-424d-4356-8f79-4ad69ccd610b

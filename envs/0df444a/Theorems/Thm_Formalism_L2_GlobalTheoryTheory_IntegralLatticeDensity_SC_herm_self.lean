@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_SC_herm_self
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.SC.herm_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:58:18.680682+00:00
 -- url     : https://prove2.me/theorems/7d9ee50c-367e-4ec1-84af-2f7d60ee7ce7

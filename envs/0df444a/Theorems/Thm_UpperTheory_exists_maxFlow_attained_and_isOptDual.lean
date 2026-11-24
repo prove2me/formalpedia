@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_exists_maxFlow_attained_and_isOptDual
 -- name    : UpperTheory.exists_maxFlow_attained_and_isOptDual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:23:26.270806+00:00
 -- url     : https://prove2.me/theorems/9702f6fb-77fc-4d56-b3f7-2aebdb8926bd

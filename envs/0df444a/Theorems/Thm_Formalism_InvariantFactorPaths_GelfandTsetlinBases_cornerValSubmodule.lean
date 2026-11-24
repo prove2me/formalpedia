@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_cornerValSubmodule
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.cornerValSubmodule
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:39:48.467799+00:00
 -- url     : https://prove2.me/theorems/e02e851e-c991-4c44-9a14-1e167825ae5b

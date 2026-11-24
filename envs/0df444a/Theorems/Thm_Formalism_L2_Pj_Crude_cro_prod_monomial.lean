@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_cro_prod_monomial
 -- name    : Formalism.L2.Pj.Crude.cro_prod_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:05.003776+00:00
 -- url     : https://prove2.me/theorems/286342ca-ba37-4a33-9919-7c4c668b6306

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Add1_pd_sub
 -- name    : Formalism.L2.Th1.B.Add1.pd_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:24.510848+00:00
 -- url     : https://prove2.me/theorems/b9e6ae63-4487-4fe6-a1e3-e88cd1ed3695

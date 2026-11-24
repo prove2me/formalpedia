@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_nabDelEquiv
 -- name    : Formalism.L2.DIV.nabDelEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:15.643461+00:00
 -- url     : https://prove2.me/theorems/c91c40a9-1401-492c-a270-28a8c6e50851

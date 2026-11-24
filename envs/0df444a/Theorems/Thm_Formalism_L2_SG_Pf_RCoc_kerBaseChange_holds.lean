@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_RCoc_kerBaseChange_holds
 -- name    : Formalism.L2.SG.Pf.RCoc.kerBaseChange_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:26.067012+00:00
 -- url     : https://prove2.me/theorems/783e110f-c3e4-4f01-bdbc-2774a5422777

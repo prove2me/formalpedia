@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_unitaryAbsoluteValueBounds_alphaN_closed
 -- name    : Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.alphaN_closed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:06:04.09588+00:00
 -- url     : https://prove2.me/theorems/e9c37a94-eeab-48f8-a449-539e163eb969

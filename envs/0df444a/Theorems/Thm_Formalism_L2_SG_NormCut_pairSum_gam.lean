@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_NormCut_pairSum_gam
 -- name    : Formalism.L2.SG.NormCut.pairSum_gam
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:56.59339+00:00
 -- url     : https://prove2.me/theorems/881fbcee-bdb2-4d10-978f-83fb77d2ab23

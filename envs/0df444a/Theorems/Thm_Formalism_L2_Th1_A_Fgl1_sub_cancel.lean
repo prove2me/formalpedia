@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Fgl1_sub_cancel
 -- name    : Formalism.L2.Th1.A.Fgl1.sub_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:04:33.962115+00:00
 -- url     : https://prove2.me/theorems/233b8ef0-aa65-41d3-8e65-a80c2cec3d2d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PjFree_cusp_le_sec
 -- name    : Formalism.L2.PjFree.cusp_le_sec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:22.476837+00:00
 -- url     : https://prove2.me/theorems/b1ef6f71-068c-4b8b-9984-4ccb4f11914c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_prW_eq_unit_mul_pow
 -- name    : Formalism.L2.Col.prW_eq_unit_mul_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:07:35.204546+00:00
 -- url     : https://prove2.me/theorems/4fcb979c-c96b-4b11-b8a9-2d6fa0659bb5

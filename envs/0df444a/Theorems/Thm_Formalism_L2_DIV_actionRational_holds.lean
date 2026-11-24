@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_actionRational_holds
 -- name    : Formalism.L2.DIV.actionRational_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:02:56.43709+00:00
 -- url     : https://prove2.me/theorems/4eb7ab6e-4852-40d6-8548-c2852d290184

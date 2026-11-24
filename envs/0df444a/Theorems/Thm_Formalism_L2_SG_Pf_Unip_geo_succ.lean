@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_Unip_geo_succ
 -- name    : Formalism.L2.SG.Pf.Unip.geo_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:07.640729+00:00
 -- url     : https://prove2.me/theorems/71666789-489d-4ae9-9fb6-012d8fcc7f72

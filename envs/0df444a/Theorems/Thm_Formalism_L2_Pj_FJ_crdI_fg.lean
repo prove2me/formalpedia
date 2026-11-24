@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FJ_crdI_fg
 -- name    : Formalism.L2.Pj.FJ.crdI_fg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:53:04.411793+00:00
 -- url     : https://prove2.me/theorems/c9addbe5-721e-4eb1-9fd9-e307671f2b29

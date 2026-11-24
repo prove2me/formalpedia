@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_lemmaFa
 -- name    : Formalism.IncomingBounds.lemmaFa
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:33:18.676262+00:00
 -- url     : https://prove2.me/theorems/06755fc8-7bcc-4fa7-a56e-55173fe5ccf5

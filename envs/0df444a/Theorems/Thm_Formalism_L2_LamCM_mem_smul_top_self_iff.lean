@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_mem_smul_top_self_iff
 -- name    : Formalism.L2.LamCM.mem_smul_top_self_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:58.504082+00:00
 -- url     : https://prove2.me/theorems/da73a0ce-c805-4ab8-8646-beb5aff60fd3

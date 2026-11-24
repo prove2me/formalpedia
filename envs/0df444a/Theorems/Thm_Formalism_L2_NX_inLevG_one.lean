@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NX_inLevG_one
 -- name    : Formalism.L2.NX.inLevG_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:15.383641+00:00
 -- url     : https://prove2.me/theorems/08074f9d-8fa0-4c20-95bb-2e1139443c4d

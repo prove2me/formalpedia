@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_card_samePart_le
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.card_samePart_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:44:26.243444+00:00
 -- url     : https://prove2.me/theorems/50298d4e-72a7-4311-83b9-4378f6a024f4

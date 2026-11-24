@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_crP_rowInv
 -- name    : Formalism.L2.Pj.Crude.crP_rowInv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:54.818791+00:00
 -- url     : https://prove2.me/theorems/c090c82f-92c1-4724-bcd9-9b98f6ed2aa6

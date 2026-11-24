@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Host_CT_transport_valTw
 -- name    : Formalism.L2.Host.CT.transport_valTw
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:35:43.205821+00:00
 -- url     : https://prove2.me/theorems/aabc2c57-6c6c-4c00-b36b-97e12586aee7

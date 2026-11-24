@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_vac_eq_zero_of_mem_span
 -- name    : Formalism.IndefR.Fin.Four.vac_eq_zero_of_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:11:57.392173+00:00
 -- url     : https://prove2.me/theorems/f6d453b9-fa32-4b3d-9251-3f82b17ae08a

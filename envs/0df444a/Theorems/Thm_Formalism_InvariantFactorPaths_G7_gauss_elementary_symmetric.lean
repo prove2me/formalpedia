@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_gauss_elementary_symmetric
 -- name    : Formalism.InvariantFactorPaths.G7.gauss_elementary_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:43.211883+00:00
 -- url     : https://prove2.me/theorems/fd0bea8c-b4ef-4f0f-81da-92936d40325f

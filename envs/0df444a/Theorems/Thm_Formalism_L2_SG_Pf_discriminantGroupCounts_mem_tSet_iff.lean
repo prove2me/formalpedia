@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_discriminantGroupCounts_mem_tSet_iff
 -- name    : Formalism.L2.SG.Pf.discriminantGroupCounts.mem_tSet_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:30.43081+00:00
 -- url     : https://prove2.me/theorems/e38e2d35-f00e-45c2-9f21-f77435589c90

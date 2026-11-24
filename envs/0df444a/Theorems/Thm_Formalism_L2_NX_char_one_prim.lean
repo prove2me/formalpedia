@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NX_char_one_prim
 -- name    : Formalism.L2.NX.char_one_prim
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:55.529817+00:00
 -- url     : https://prove2.me/theorems/0e07a13e-700d-4cda-ae41-5fa98934b697

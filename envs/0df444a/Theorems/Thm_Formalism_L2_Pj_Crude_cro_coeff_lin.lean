@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_cro_coeff_lin
 -- name    : Formalism.L2.Pj.Crude.cro_coeff_lin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:55.941799+00:00
 -- url     : https://prove2.me/theorems/4f18278b-cf75-49f0-a55e-b5ee7daf803f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_SC_even_im_hermitian_sub
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.SC.even_im_hermitian_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:58:16.258164+00:00
 -- url     : https://prove2.me/theorems/adfed33d-8049-491c-8451-f4cbcf0c8779

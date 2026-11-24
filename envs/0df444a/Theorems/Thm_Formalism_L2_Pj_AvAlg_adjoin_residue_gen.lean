@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_AvAlg_adjoin_residue_gen
 -- name    : Formalism.L2.Pj.AvAlg.adjoin_residue_gen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:30.259906+00:00
 -- url     : https://prove2.me/theorems/2c5b4a19-f147-4bf1-a223-1c3035ac74a5

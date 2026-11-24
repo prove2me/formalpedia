@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_highest_weight_corollary_one
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.highest_weight_corollary_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:20:49.159422+00:00
 -- url     : https://prove2.me/theorems/8bfc8945-df60-4cc8-aab1-f7f147e46cab

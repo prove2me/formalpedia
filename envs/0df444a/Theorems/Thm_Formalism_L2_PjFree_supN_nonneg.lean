@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PjFree_supN_nonneg
 -- name    : Formalism.L2.PjFree.supN_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:21.199119+00:00
 -- url     : https://prove2.me/theorems/84afa7da-e652-4549-812e-a78c06a4c1b9

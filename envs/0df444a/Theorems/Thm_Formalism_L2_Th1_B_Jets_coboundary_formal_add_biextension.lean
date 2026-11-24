@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Jets_coboundary_formal_add_biextension
 -- name    : Formalism.L2.Th1.B.Jets.coboundary_formal_add_biextension
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:38.329752+00:00
 -- url     : https://prove2.me/theorems/13b23980-6c0e-4996-b7c6-8aabd572525f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_autFinite
 -- name    : Formalism.HermitianLatticesTheory.autFinite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:31:04.576719+00:00
 -- url     : https://prove2.me/theorems/90842107-6ac1-40e0-b76f-d6347dd5fd8f

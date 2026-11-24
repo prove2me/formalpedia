@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_CompSplitPfC_cspC_range
 -- name    : Formalism.L2.Pj.CompSplitPfC.cspC_range
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:08.368539+00:00
 -- url     : https://prove2.me/theorems/2497a8e5-dbd0-4d3d-ac3d-38aec8d337b4

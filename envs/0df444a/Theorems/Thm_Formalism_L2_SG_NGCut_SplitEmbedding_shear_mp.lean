@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_NGCut_SplitEmbedding_shear_mp
 -- name    : Formalism.L2.SG.NGCut.SplitEmbedding.shear_mp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:08.541403+00:00
 -- url     : https://prove2.me/theorems/8c995182-1060-4f14-8ab8-ec51c542af92

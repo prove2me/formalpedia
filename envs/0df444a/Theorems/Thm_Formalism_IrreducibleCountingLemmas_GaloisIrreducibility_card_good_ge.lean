@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_card_good_ge
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.card_good_ge
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:21.932933+00:00
 -- url     : https://prove2.me/theorems/b93787bf-5161-4617-86d3-75a6292cc4af

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Map_map_inVar
 -- name    : Formalism.L2.Th1.B.Map.map_inVar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:31.01745+00:00
 -- url     : https://prove2.me/theorems/c070360d-4e10-4098-83a3-be1ccb3d60f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_bVVfun_int
 -- name    : Formalism.L2.DIV.bVVfun_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:53:38.481807+00:00
 -- url     : https://prove2.me/theorems/5eb63249-3172-4993-b748-ec520159ce48

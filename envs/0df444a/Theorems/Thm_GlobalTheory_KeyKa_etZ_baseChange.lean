@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_etZ_baseChange
 -- name    : GlobalTheory.KeyKa.etZ_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:04:45.292668+00:00
 -- url     : https://prove2.me/theorems/4b0191e3-1aa9-4eab-8383-ed4536ad2d48

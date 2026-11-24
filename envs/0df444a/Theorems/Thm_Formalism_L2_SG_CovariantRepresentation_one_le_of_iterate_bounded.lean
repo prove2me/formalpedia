@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_CovariantRepresentation_one_le_of_iterate_bounded
 -- name    : Formalism.L2.SG.CovariantRepresentation.one_le_of_iterate_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:08.231806+00:00
 -- url     : https://prove2.me/theorems/8de2f17e-6057-4a5d-bb38-0921c9616831

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_ql_W_equiv
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.ql_W_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:25:37.916511+00:00
 -- url     : https://prove2.me/theorems/802d7981-b584-4668-b08a-1f681442ce37

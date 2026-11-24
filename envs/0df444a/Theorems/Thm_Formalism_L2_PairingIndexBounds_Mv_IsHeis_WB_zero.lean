@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PairingIndexBounds_Mv_IsHeis_WB_zero
 -- name    : Formalism.L2.PairingIndexBounds.Mv.IsHeis.WB_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:45.00443+00:00
 -- url     : https://prove2.me/theorems/42e76243-2de5-48b5-8d8d-8d5a1ba34d7f

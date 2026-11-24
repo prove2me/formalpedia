@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_isEval_evI
 -- name    : Formalism.L2.Pj.isEval_evI
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:45.261+00:00
 -- url     : https://prove2.me/theorems/4a498211-a6c6-4e0f-8433-5e0c576bdd6d

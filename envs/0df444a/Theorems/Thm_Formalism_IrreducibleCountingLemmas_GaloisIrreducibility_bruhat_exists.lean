@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_bruhat_exists
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.bruhat_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:15.366572+00:00
 -- url     : https://prove2.me/theorems/c632538a-59da-4ed4-b900-45d44f14b993

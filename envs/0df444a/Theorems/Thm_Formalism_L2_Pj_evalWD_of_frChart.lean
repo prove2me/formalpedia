@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_evalWD_of_frChart
 -- name    : Formalism.L2.Pj.evalWD_of_frChart
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:37.742456+00:00
 -- url     : https://prove2.me/theorems/8349b744-c3a1-4921-92e6-b68d9a2b8c5e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_nval_smul
 -- name    : Formalism.L2.Pj.nval_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:40.685299+00:00
 -- url     : https://prove2.me/theorems/cda6fb16-e206-418a-9b72-ba88bb34da2e

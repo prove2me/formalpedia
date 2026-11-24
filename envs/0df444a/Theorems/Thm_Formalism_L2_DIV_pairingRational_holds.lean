@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_pairingRational_holds
 -- name    : Formalism.L2.DIV.pairingRational_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:19.085808+00:00
 -- url     : https://prove2.me/theorems/65bd2e5f-f890-4f8c-907b-0e40340904ae

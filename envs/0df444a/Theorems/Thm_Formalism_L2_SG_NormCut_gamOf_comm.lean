@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_NormCut_gamOf_comm
 -- name    : Formalism.L2.SG.NormCut.gamOf_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:03.308827+00:00
 -- url     : https://prove2.me/theorems/bca9b13d-f68c-4d37-8c65-b3e818da923a

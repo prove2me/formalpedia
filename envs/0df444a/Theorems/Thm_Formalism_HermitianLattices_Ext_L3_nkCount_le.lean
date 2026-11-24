@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_nkCount_le
 -- name    : Formalism.HermitianLattices.Ext.L3.nkCount_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:14.463891+00:00
 -- url     : https://prove2.me/theorems/278eb55e-3a24-43e0-a29a-723507d2d492

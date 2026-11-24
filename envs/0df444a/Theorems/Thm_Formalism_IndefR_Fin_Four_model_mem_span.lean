@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_model_mem_span
 -- name    : Formalism.IndefR.Fin.Four.model_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:14.034458+00:00
 -- url     : https://prove2.me/theorems/62d353b8-3c9b-49cf-95a1-5397ba215432

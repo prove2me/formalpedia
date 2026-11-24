@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_AvAlg_residue_aeval
 -- name    : Formalism.L2.Pj.AvAlg.residue_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:02.847867+00:00
 -- url     : https://prove2.me/theorems/c1be0aa1-5012-4803-972a-706c90174a2c

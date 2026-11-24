@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_S4_lenCoker_mul_le
 -- name    : Formalism.L2.FormalSeriesBounds.S4.lenCoker_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:35.623878+00:00
 -- url     : https://prove2.me/theorems/f77b0f8c-6bb8-4c3e-b442-fe74e54f072f

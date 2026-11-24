@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_indexChange_of_det_ne_zero
 -- name    : Formalism.DivisionValues.indexChange_of_det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:45:09.030049+00:00
 -- url     : https://prove2.me/theorems/6b3ba629-83c6-4655-859b-d67eeaf99654

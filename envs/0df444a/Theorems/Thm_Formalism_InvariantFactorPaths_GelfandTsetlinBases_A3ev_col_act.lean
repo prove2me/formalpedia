@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A3ev_col_act
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.A3ev.col_act
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:50.070581+00:00
 -- url     : https://prove2.me/theorems/c65cbddd-c172-4abd-9ce6-debbe06070ca

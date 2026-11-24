@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FJ_trBE_sepLeft
 -- name    : Formalism.L2.Pj.FJ.trBE_sepLeft
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:26.23481+00:00
 -- url     : https://prove2.me/theorems/e4eb5cc4-bea1-45fe-9261-c2f13bedd54e

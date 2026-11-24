@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_ThresholdBounds_b_one_le
 -- name    : Formalism.L2.SG.Pf.ThresholdBounds.b_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:21.65147+00:00
 -- url     : https://prove2.me/theorems/8c7f50ac-88fb-4cc8-a310-e7ef2ed927bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_detChar_dGL
 -- name    : Formalism.L2.Col.detChar_dGL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:10:24.525168+00:00
 -- url     : https://prove2.me/theorems/0c4c5bab-0d83-47d7-bcc9-797541779033

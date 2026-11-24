@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FundamentalDomainD5_finrank_cmType
 -- name    : Formalism.L2.Pj.FundamentalDomainD5.finrank_cmType
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:40.476814+00:00
 -- url     : https://prove2.me/theorems/46d13264-29c7-4b02-866c-f9bae6539888

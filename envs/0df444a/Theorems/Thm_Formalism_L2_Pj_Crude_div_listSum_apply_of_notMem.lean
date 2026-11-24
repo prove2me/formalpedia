@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_div_listSum_apply_of_notMem
 -- name    : Formalism.L2.Pj.Crude.div_listSum_apply_of_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:13.469031+00:00
 -- url     : https://prove2.me/theorems/eba49511-d3f5-4c65-874b-bd72b838893e

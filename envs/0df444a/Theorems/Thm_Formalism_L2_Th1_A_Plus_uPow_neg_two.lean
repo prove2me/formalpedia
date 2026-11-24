@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Plus_uPow_neg_two
 -- name    : Formalism.L2.Th1.A.Plus.uPow_neg_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:14.30496+00:00
 -- url     : https://prove2.me/theorems/747413d0-8d9d-48cc-a336-14b84a66ffbf

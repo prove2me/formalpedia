@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_CurveCount_aeval_div_homog
 -- name    : Formalism.L2.Pj.CurveCount.aeval_div_homog
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:18.397072+00:00
 -- url     : https://prove2.me/theorems/f7a8217b-7d0f-496a-9f77-247f2d7e06f6

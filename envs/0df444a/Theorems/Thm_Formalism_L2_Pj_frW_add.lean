@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_frW_add
 -- name    : Formalism.L2.Pj.frW_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:08.81138+00:00
 -- url     : https://prove2.me/theorems/0ce3d287-17b5-475d-8d0e-4617c5f5ff95

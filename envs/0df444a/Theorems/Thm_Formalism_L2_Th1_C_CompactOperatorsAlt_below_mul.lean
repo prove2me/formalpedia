@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_CompactOperatorsAlt_below_mul
 -- name    : Formalism.L2.Th1.C.CompactOperatorsAlt.below_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:55.481794+00:00
 -- url     : https://prove2.me/theorems/55ced7c1-41fb-4f91-aa65-a469936c513f

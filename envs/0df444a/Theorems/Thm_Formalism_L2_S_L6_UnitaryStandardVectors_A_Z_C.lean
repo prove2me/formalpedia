@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_L6_UnitaryStandardVectors_A_Z_C
 -- name    : Formalism.L2.S.L6.UnitaryStandardVectors.A_Z_C
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:26.179915+00:00
 -- url     : https://prove2.me/theorems/3f847573-0a25-4b20-9c74-2d79299e051b

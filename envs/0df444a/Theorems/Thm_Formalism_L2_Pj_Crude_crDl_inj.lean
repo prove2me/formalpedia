@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_crDl_inj
 -- name    : Formalism.L2.Pj.Crude.crDl_inj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:42.737412+00:00
 -- url     : https://prove2.me/theorems/30156323-a6ba-401d-b6dc-6855c98842a6

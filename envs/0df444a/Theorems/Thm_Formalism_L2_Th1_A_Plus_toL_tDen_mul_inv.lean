@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Plus_toL_tDen_mul_inv
 -- name    : Formalism.L2.Th1.A.Plus.toL_tDen_mul_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:04:32.411269+00:00
 -- url     : https://prove2.me/theorems/b07b5bfd-6184-4fee-9004-287a2fc7f703

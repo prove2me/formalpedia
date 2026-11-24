@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_DatLin_star_mulVec_dot
 -- name    : Formalism.L2.Pj.DatLin.star_mulVec_dot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:19.491297+00:00
 -- url     : https://prove2.me/theorems/767d5239-5463-4525-baf2-7cac5bdd3ea4

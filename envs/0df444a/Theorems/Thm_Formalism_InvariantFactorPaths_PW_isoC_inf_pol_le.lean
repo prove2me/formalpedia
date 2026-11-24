@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_isoC_inf_pol_le
 -- name    : Formalism.InvariantFactorPaths.PW.isoC_inf_pol_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:28.528378+00:00
 -- url     : https://prove2.me/theorems/d8e95253-1f6b-4677-8424-3d1f204d65e8

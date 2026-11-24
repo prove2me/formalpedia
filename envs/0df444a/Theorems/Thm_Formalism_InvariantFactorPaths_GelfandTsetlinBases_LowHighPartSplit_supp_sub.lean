@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_LowHighPartSplit_supp_sub
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.LowHighPartSplit.supp_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:54.092889+00:00
 -- url     : https://prove2.me/theorems/34ba511a-4727-45b0-b0c0-c4fd7986f894

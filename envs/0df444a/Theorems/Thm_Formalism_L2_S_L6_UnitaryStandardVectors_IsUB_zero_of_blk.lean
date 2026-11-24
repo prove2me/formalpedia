@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_L6_UnitaryStandardVectors_IsUB_zero_of_blk
 -- name    : Formalism.L2.S.L6.UnitaryStandardVectors.IsUB.zero_of_blk
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:39.721971+00:00
 -- url     : https://prove2.me/theorems/ecaf0cec-a4c1-4dbc-974d-e8595c7448ff

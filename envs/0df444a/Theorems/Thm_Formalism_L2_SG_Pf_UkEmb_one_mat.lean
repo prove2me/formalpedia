@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_UkEmb_one_mat
 -- name    : Formalism.L2.SG.Pf.UkEmb.one_mat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:08.864868+00:00
 -- url     : https://prove2.me/theorems/b0fda2fb-6224-4e54-a85a-2a6054c7d9de

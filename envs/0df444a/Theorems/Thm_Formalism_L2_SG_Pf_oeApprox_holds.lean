@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_oeApprox_holds
 -- name    : Formalism.L2.SG.Pf.oeApprox_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:50:18.841885+00:00
 -- url     : https://prove2.me/theorems/b41cd657-d4d3-4440-9ac5-0cb5a9ef9f59

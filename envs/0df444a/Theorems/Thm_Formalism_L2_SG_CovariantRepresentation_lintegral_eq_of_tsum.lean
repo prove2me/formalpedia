@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_CovariantRepresentation_lintegral_eq_of_tsum
 -- name    : Formalism.L2.SG.CovariantRepresentation.lintegral_eq_of_tsum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:56.071126+00:00
 -- url     : https://prove2.me/theorems/e2e87ca2-66e8-4257-ae99-c14868b91146

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatEx_fi_mul_mem
 -- name    : Formalism.L2.SG.Pf.LatEx.fi_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:25.650009+00:00
 -- url     : https://prove2.me/theorems/69466b3a-6015-4805-bb42-ad435b73bfa9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_QuadraticFlow_der_sq
 -- name    : Formalism.L2.Th1.A.QuadraticFlow.der_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:46:24.936925+00:00
 -- url     : https://prove2.me/theorems/fb7fa538-933d-4119-aa9b-1d880fb92791

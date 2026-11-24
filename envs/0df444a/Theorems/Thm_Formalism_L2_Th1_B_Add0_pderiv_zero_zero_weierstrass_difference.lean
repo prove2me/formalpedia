@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Add0_pderiv_zero_zero_weierstrass_difference
 -- name    : Formalism.L2.Th1.B.Add0.pderiv_zero_zero_weierstrass_difference
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:02.926519+00:00
 -- url     : https://prove2.me/theorems/e0d451e7-3091-4a5b-ad6c-eb705d31db30

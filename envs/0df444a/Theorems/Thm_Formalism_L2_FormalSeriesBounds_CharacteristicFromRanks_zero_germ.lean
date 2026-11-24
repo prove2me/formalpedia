@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_CharacteristicFromRanks_zero_germ
 -- name    : Formalism.L2.FormalSeriesBounds.CharacteristicFromRanks.zero_germ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:12:50.979465+00:00
 -- url     : https://prove2.me/theorems/99d315fc-d5d5-4196-b028-2d33f268c24d

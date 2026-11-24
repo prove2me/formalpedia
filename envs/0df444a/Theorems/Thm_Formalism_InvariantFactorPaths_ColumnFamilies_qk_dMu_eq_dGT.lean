@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qk_dMu_eq_dGT
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qk_dMu_eq_dGT
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:41:06.069808+00:00
 -- url     : https://prove2.me/theorems/ba2f67c4-2a28-4b8d-a41a-39a6c4ade214

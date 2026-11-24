@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NX_tvAt_mem
 -- name    : Formalism.L2.NX.tvAt_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:10:37.382197+00:00
 -- url     : https://prove2.me/theorems/de7261ff-5e00-45f2-9ed2-3485ea82e059

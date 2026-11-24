@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FJ_zBas_skew
 -- name    : Formalism.L2.Pj.FJ.zBas_skew
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:40.011348+00:00
 -- url     : https://prove2.me/theorems/c48266b0-52ea-4a21-89d1-083520614dba

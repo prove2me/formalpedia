@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Bridge_model_map
 -- name    : Formalism.L2.Th1.A.Bridge.model_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:50.625133+00:00
 -- url     : https://prove2.me/theorems/c466a452-92db-4d9e-93bb-37e93b3935a1

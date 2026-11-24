@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_NormCut_card_ne_zero_of_bij
 -- name    : Formalism.L2.SG.NormCut.card_ne_zero_of_bij
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:51.158132+00:00
 -- url     : https://prove2.me/theorems/d0e53060-c64d-4930-bb46-d50cfde9f3c3

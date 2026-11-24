@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_MeasureShiftInvariance_mem_conjSub
 -- name    : Formalism.L2.SG.MeasureShiftInvariance.mem_conjSub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:09.097691+00:00
 -- url     : https://prove2.me/theorems/e8cef38c-a630-450f-a6ab-050d827fe36c

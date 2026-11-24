@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_leadingTermLemmas_tabDiag_apply
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.leadingTermLemmas.tabDiag_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:39:47.340498+00:00
 -- url     : https://prove2.me/theorems/8edc2291-7207-4a23-b41d-81d3e555e333

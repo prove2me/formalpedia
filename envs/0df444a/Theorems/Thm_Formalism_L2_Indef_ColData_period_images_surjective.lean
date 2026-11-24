@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_ColData_period_images_surjective
 -- name    : Formalism.L2.Indef.ColData.period_images_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:17:05.397805+00:00
 -- url     : https://prove2.me/theorems/c219646b-24ef-42f2-8562-d66dfa3e550a

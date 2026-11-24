@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PairingIndexBounds_Mv_model_moves_hold
 -- name    : Formalism.L2.PairingIndexBounds.Mv.model_moves_hold
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:16:11.855695+00:00
 -- url     : https://prove2.me/theorems/36e60fd6-e03b-4382-a743-3a689d21fb9a

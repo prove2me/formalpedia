@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hollom_SpinalMap_incomp_apply
 -- name    : Hollom.SpinalMap.incomp_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:09:52.086409+00:00
 -- url     : https://prove2.me/theorems/07b0a2f5-c7db-4df0-bb8d-ea4f94228c2d

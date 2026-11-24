@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_chartFlowToFlow
 -- name    : Formalism.L2.Th1.A.chartFlowToFlow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:50:47.272923+00:00
 -- url     : https://prove2.me/theorems/6d92018c-d837-47c0-b895-a8c2ad2ff908

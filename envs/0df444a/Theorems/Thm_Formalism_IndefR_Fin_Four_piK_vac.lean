@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_piK_vac
 -- name    : Formalism.IndefR.Fin.Four.piK_vac
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:30.238803+00:00
 -- url     : https://prove2.me/theorems/09c42b5e-f83b-45ec-8999-b912f41abecd

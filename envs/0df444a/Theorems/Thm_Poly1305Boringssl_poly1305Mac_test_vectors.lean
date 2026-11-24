@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Poly1305Boringssl_poly1305Mac_test_vectors
 -- name    : Poly1305Boringssl.poly1305Mac_test_vectors
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-24T10:08:21.262971+00:00
 -- url     : https://prove2.me/theorems/a009b2c1-4e78-4867-b9b7-efebcaa592ea

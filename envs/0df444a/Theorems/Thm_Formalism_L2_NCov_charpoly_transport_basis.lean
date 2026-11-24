@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NCov_charpoly_transport_basis
 -- name    : Formalism.L2.NCov.charpoly_transport_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:14:27.635533+00:00
 -- url     : https://prove2.me/theorems/37b4f9b0-7950-44c9-8354-f4313d51fb0d

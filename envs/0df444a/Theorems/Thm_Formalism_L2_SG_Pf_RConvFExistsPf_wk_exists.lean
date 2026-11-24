@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_RConvFExistsPf_wk_exists
 -- name    : Formalism.L2.SG.Pf.RConvFExistsPf.wk_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:13.017731+00:00
 -- url     : https://prove2.me/theorems/930bbc22-554a-459d-8779-54b4763d3b3f

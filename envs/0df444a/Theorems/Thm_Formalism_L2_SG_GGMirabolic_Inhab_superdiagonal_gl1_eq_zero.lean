@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_GGMirabolic_Inhab_superdiagonal_gl1_eq_zero
 -- name    : Formalism.L2.SG.GGMirabolic.Inhab.superdiagonal_gl1_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:37.37062+00:00
 -- url     : https://prove2.me/theorems/d792fd40-b918-4b34-b092-7984afa5e9d8

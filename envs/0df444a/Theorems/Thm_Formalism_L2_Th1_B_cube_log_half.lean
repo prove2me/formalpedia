@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_cube_log_half
 -- name    : Formalism.L2.Th1.B.cube_log_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:48:18.133798+00:00
 -- url     : https://prove2.me/theorems/c6ce9782-328c-430f-acfb-6d398dc9b9a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_Unip_self_mul_sharp
 -- name    : Formalism.L2.SG.Pf.Unip.self_mul_sharp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:20.01233+00:00
 -- url     : https://prove2.me/theorems/dacc3482-b6ca-4258-8060-bbf19fa6fe8e

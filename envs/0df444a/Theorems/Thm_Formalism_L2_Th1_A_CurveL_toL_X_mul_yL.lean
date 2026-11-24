@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_CurveL_toL_X_mul_yL
 -- name    : Formalism.L2.Th1.A.CurveL.toL_X_mul_yL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:03.225238+00:00
 -- url     : https://prove2.me/theorems/7a39cd9e-c681-4d11-abba-f06ba5c62864

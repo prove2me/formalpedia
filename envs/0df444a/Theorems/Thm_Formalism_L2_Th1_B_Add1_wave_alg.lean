@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Add1_wave_alg
 -- name    : Formalism.L2.Th1.B.Add1.wave_alg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:51:48.153222+00:00
 -- url     : https://prove2.me/theorems/e3ccd090-8d27-4860-b67a-ba738346f6c3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hollom_SpinalMap_eq_of_le
 -- name    : Hollom.SpinalMap.eq_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:09:04.49848+00:00
 -- url     : https://prove2.me/theorems/5299187f-be1e-4998-b35e-15f6e6475799

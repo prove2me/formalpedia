@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_USideB_subst_mulBy_l
 -- name    : Formalism.L2.Th1.C.USideB.subst_mulBy_l
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:28.661659+00:00
 -- url     : https://prove2.me/theorems/e546e76c-a313-4f0f-bff4-26ce19218876

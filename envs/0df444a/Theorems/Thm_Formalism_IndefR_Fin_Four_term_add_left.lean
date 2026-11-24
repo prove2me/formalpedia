@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_term_add_left
 -- name    : Formalism.IndefR.Fin.Four.term_add_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:30:11.147989+00:00
 -- url     : https://prove2.me/theorems/e29940f7-486a-4425-8d70-fa53ccd07314

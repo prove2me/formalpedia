@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_RealObj_InfCut_ProductExactness_PiM_exists_box_alt
 -- name    : Formalism.L2.SG.RealObj.InfCut.ProductExactness.PiM.exists_box_alt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:17.162371+00:00
 -- url     : https://prove2.me/theorems/03ace3ae-8cd9-4b37-9f11-916702ebfbcb

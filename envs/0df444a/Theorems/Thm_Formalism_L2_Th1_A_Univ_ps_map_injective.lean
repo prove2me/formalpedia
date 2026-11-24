@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Univ_ps_map_injective
 -- name    : Formalism.L2.Th1.A.Univ.ps_map_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:16.668961+00:00
 -- url     : https://prove2.me/theorems/14dcd5d5-02bf-495d-bf55-6650cb835def

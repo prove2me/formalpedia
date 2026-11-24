@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_ExponentSetCounting_good_smul_add
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.ExponentSetCounting.good_smul_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:18.061012+00:00
 -- url     : https://prove2.me/theorems/9bdd7d3c-fe68-4d86-b194-2086b8ceb466

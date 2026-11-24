@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_cw_eval_coeffT
 -- name    : Formalism.L2.G.Model.TS.cw_eval_coeffT
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:11.000791+00:00
 -- url     : https://prove2.me/theorems/95b40370-fd13-4325-abd2-10929b291ddc

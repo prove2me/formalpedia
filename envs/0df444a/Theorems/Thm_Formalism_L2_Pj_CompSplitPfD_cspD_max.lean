@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_CompSplitPfD_cspD_max
 -- name    : Formalism.L2.Pj.CompSplitPfD.cspD_max
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:14.596168+00:00
 -- url     : https://prove2.me/theorems/e4ae0290-0eb9-48ab-bdb1-814e6cdd6ca8

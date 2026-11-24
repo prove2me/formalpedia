@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Jets_integral_eval_second_zero
 -- name    : Formalism.L2.Th1.B.Jets.integral_eval_second_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:50:23.980866+00:00
 -- url     : https://prove2.me/theorems/0b13139d-4a8c-4d83-ab48-898171afe7a4

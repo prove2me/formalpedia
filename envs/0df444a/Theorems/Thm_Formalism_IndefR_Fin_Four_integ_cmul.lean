@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_integ_cmul
 -- name    : Formalism.IndefR.Fin.Four.integ_cmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:22:07.23974+00:00
 -- url     : https://prove2.me/theorems/e942a25a-4b0a-4e0a-90d5-0e1883172bfa

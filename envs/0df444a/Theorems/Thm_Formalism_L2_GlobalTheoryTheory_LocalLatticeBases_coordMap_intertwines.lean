@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_LocalLatticeBases_coordMap_intertwines
 -- name    : Formalism.L2.GlobalTheoryTheory.LocalLatticeBases.coordMap_intertwines
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:59.556263+00:00
 -- url     : https://prove2.me/theorems/c9118b1f-7c2d-43db-8de8-676b5e44cf17

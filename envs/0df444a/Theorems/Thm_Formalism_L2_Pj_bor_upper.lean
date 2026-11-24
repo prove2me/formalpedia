@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_bor_upper
 -- name    : Formalism.L2.Pj.bor_upper
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:32.148714+00:00
 -- url     : https://prove2.me/theorems/db64ba08-bab8-4c41-9202-234aaf481b21

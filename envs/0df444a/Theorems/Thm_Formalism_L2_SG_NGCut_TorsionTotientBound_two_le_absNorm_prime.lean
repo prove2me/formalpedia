@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_NGCut_TorsionTotientBound_two_le_absNorm_prime
 -- name    : Formalism.L2.SG.NGCut.TorsionTotientBound.two_le_absNorm_prime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:26.298166+00:00
 -- url     : https://prove2.me/theorems/bb6798be-d13f-43b8-8f42-f3f8d31caa2a

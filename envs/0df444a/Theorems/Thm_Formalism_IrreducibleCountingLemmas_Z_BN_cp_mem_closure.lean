@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_BN_cp_mem_closure
 -- name    : Formalism.IrreducibleCountingLemmas.Z.BN.cp_mem_closure
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:46.603367+00:00
 -- url     : https://prove2.me/theorems/319b0ce9-2d8f-466c-bcb4-825f382489df

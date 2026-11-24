@@ -26723,7 +26723,7 @@
 {"parent": "CubeSampling.lemma_6_1", "child": "CubeSampling_outsideCov", "via": ["statement"]}
 {"parent": "IncoherentPurity.Adaptive.gaussian_update", "child": "IncoherentPurity_Adaptive_Analytic", "via": ["statement"]}
 {"parent": "IncoherentPurity.Adaptive.gaussian_update", "child": "IncoherentPurity_Adaptive_Estimators", "via": ["statement"]}
-{"parent": "LocalPush.lemma_5_9", "child": "LocalPush_GoodTraj", "via": ["statement"]}
+{"parent": "LocalPush.lemma_5_9", "child": "LocalPush_GoodTraj", "via": ["solution", "statement"]}
 {"parent": "BourgainUnion.Euclidean.lemma_2_1", "child": "BourgainUnion_Euclidean_VoronoiModel", "via": ["statement"]}
 {"parent": "MixedCloning.Optimal.wss_first_row", "child": "MixedCloning_Optimal_Schur", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.Residual52.bound0_1_g", "child": "OAIQ098G1696", "via": ["solution", "statement"]}

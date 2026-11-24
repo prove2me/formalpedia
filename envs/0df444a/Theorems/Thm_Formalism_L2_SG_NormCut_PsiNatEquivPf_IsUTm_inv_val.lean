@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_NormCut_PsiNatEquivPf_IsUTm_inv_val
 -- name    : Formalism.L2.SG.NormCut.PsiNatEquivPf.IsUTm.inv_val
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:45.126492+00:00
 -- url     : https://prove2.me/theorems/58f782c1-f8e7-4ed1-9e0d-662280d61607

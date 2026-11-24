@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LIOrb_congr_apply_mem
 -- name    : Formalism.HermitianLattices.Ext.L3.LIOrb.congr_apply_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:48:14.317799+00:00
 -- url     : https://prove2.me/theorems/e9736830-0e1a-461a-930b-3b992674ee78

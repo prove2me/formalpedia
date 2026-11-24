@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_A2_abs_norm_eq_prod
 -- name    : Formalism.L2.LamCM.A2.abs_norm_eq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:35:51.749231+00:00
 -- url     : https://prove2.me/theorems/dea9b584-25be-4e79-a07d-bd7c94f25d4e

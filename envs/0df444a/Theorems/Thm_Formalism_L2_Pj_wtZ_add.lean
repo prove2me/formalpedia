@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_wtZ_add
 -- name    : Formalism.L2.Pj.wtZ_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:11.304416+00:00
 -- url     : https://prove2.me/theorems/3eca068f-fdd2-460f-acea-cf1e1d04ed62

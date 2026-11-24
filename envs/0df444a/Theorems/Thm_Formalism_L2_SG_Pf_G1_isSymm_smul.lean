@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G1_isSymm_smul
 -- name    : Formalism.L2.SG.Pf.G1.isSymm_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:43.111098+00:00
 -- url     : https://prove2.me/theorems/2b33e19d-9602-4ca2-aa6f-5f77d4be1866

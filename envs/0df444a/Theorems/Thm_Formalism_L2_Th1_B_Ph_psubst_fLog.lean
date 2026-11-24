@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Ph_psubst_fLog
 -- name    : Formalism.L2.Th1.B.Ph.psubst_fLog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:47:50.759549+00:00
 -- url     : https://prove2.me/theorems/da72a588-9b00-412c-bff7-6d98df90ad63

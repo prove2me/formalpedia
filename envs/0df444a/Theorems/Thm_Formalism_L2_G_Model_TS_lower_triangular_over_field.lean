@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_lower_triangular_over_field
 -- name    : Formalism.L2.G.Model.TS.lower_triangular_over_field
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:18:45.847074+00:00
 -- url     : https://prove2.me/theorems/4f7c64ca-1eeb-4135-9737-149b2b08728a

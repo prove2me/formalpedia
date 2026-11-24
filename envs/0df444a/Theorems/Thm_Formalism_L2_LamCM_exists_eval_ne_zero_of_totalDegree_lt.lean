@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_exists_eval_ne_zero_of_totalDegree_lt
 -- name    : Formalism.L2.LamCM.exists_eval_ne_zero_of_totalDegree_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:08.904528+00:00
 -- url     : https://prove2.me/theorems/a212d65e-e0c0-4dd5-b13d-54ee3140809e

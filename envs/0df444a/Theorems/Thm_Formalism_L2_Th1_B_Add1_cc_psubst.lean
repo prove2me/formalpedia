@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Add1_cc_psubst
 -- name    : Formalism.L2.Th1.B.Add1.cc_psubst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:38.911044+00:00
 -- url     : https://prove2.me/theorems/8ffe9a5c-e178-4a55-8df8-b9e85725b1f7

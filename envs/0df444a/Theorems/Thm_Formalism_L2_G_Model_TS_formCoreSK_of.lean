@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_formCoreSK_of
 -- name    : Formalism.L2.G.Model.TS.formCoreSK_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:13.608954+00:00
 -- url     : https://prove2.me/theorems/c2db6514-7e25-48b4-8a79-5faf7695fef8

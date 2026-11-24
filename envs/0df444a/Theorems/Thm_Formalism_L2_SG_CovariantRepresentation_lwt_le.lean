@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_CovariantRepresentation_lwt_le
 -- name    : Formalism.L2.SG.CovariantRepresentation.lwt_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:19.380728+00:00
 -- url     : https://prove2.me/theorems/0b89b0d3-39f2-4ed6-a349-9b4e67fb902e

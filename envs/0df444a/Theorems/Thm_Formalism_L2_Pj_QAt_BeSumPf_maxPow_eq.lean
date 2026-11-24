@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_QAt_BeSumPf_maxPow_eq
 -- name    : Formalism.L2.Pj.QAt.BeSumPf.maxPow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:04.5+00:00
 -- url     : https://prove2.me/theorems/2cbf6261-922c-47d1-837e-26ef89fab71e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_substFr_C_mul
 -- name    : Formalism.L2.LamCM.substFr_C_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:01.381887+00:00
 -- url     : https://prove2.me/theorems/0d9e5330-c4ce-4f2b-9da1-88e0bedb13e2

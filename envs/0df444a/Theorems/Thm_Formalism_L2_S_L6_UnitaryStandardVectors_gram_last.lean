@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_L6_UnitaryStandardVectors_gram_last
 -- name    : Formalism.L2.S.L6.UnitaryStandardVectors.gram_last
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:13.952266+00:00
 -- url     : https://prove2.me/theorems/b172b5a0-f731-4f54-864e-4b89e771bfff

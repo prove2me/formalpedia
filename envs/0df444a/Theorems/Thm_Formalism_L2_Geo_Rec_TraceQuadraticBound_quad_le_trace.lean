@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Geo_Rec_TraceQuadraticBound_quad_le_trace
 -- name    : Formalism.L2.Geo.Rec.TraceQuadraticBound.quad_le_trace
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:34:47.145985+00:00
 -- url     : https://prove2.me/theorems/15110186-5fef-4132-a9f7-419b29edd74a

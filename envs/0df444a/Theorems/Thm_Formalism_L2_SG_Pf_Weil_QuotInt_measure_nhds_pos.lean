@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_Weil_QuotInt_measure_nhds_pos
 -- name    : Formalism.L2.SG.Pf.Weil.QuotInt.measure_nhds_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:22.294052+00:00
 -- url     : https://prove2.me/theorems/a7b8eb4d-3fa8-42c0-af86-c3ccd5b26f59

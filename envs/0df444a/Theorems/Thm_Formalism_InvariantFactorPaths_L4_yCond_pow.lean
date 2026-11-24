@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_yCond_pow
 -- name    : Formalism.InvariantFactorPaths.L4.yCond_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:04:23.918998+00:00
 -- url     : https://prove2.me/theorems/382b32e5-d7e8-4ca5-a98e-f5bc8ce3b1cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_hom_divided_holds
 -- name    : Formalism.InvariantFactorPaths.PW.hom_divided_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:45:15.178896+00:00
 -- url     : https://prove2.me/theorems/bbcb672f-57b3-44bb-96d5-66beefd0bf4d

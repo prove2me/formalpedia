@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_prime_reciprocal_sum_bound
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.prime_reciprocal_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:48:43.9966+00:00
 -- url     : https://prove2.me/theorems/9e12ace5-8d46-4241-8421-18b4fb5b8d4f

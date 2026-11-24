@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_linIndep_alg_pts
 -- name    : Formalism.L2.Pj.linIndep_alg_pts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:43.630806+00:00
 -- url     : https://prove2.me/theorems/215353f0-101e-4836-957f-d3d5136b59c5

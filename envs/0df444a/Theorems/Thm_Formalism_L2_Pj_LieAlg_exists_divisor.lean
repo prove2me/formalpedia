@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_LieAlg_exists_divisor
 -- name    : Formalism.L2.Pj.LieAlg.exists_divisor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:06.807473+00:00
 -- url     : https://prove2.me/theorems/c8d92339-b19d-4bff-a68a-1f1e671f89ea

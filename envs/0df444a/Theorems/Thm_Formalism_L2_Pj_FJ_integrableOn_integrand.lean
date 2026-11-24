@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FJ_integrableOn_integrand
 -- name    : Formalism.L2.Pj.FJ.integrableOn_integrand
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:46:14.929217+00:00
 -- url     : https://prove2.me/theorems/2dd966ae-743c-4b17-b6d3-7dddbecde91d

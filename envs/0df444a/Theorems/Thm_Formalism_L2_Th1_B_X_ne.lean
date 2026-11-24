@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_X_ne
 -- name    : Formalism.L2.Th1.B.X_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:06:59.195236+00:00
 -- url     : https://prove2.me/theorems/9b697744-53a5-48bf-8c30-0cae866e74f1

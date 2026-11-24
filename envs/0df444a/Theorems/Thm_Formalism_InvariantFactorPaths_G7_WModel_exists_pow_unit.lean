@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_WModel_exists_pow_unit
 -- name    : Formalism.InvariantFactorPaths.G7.WModel.exists_pow_unit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:50.005071+00:00
 -- url     : https://prove2.me/theorems/4684a063-9d1b-497a-82bf-438f292b1eb9

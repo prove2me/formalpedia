@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_CovariantRepresentation_map_conj_of_mem
 -- name    : Formalism.L2.SG.CovariantRepresentation.map_conj_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:01.699861+00:00
 -- url     : https://prove2.me/theorems/669548f6-2af5-4e01-a4bd-29a644fcd908

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_DatLin_trace_blk
 -- name    : Formalism.L2.Pj.DatLin.trace_blk
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:24.327831+00:00
 -- url     : https://prove2.me/theorems/643ca405-eb8a-4dae-874f-2165a74d37f4

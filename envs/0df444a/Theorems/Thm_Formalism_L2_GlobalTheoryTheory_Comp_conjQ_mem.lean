@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_Comp_conjQ_mem
 -- name    : Formalism.L2.GlobalTheoryTheory.Comp.conjQ_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:35:39.364884+00:00
 -- url     : https://prove2.me/theorems/7e333b5e-b90c-4bfe-8c91-a936cd7989b1

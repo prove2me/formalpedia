@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_DatLin_flat_real
 -- name    : Formalism.L2.Pj.DatLin.flat_real
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:37.293948+00:00
 -- url     : https://prove2.me/theorems/74cb49e8-821e-474b-acbb-2a101482791d

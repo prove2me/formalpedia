@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_WpSh_alg_second
 -- name    : Formalism.L2.Th1.A.WpSh.alg_second
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:50.075835+00:00
 -- url     : https://prove2.me/theorems/20b950f2-a1a6-4d1f-b919-fe5306bb9ca5

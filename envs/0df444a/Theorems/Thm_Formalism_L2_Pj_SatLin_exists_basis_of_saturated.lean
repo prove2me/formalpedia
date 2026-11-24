@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_SatLin_exists_basis_of_saturated
 -- name    : Formalism.L2.Pj.SatLin.exists_basis_of_saturated
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:06.655798+00:00
 -- url     : https://prove2.me/theorems/047adfdc-fa8a-4d86-9b2f-d27162e1b3d4

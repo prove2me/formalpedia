@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_chordRegular
 -- name    : Formalism.L2.Th1.A.chordRegular
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:56.650582+00:00
 -- url     : https://prove2.me/theorems/d1634f7c-ebfe-44f1-a24e-5c20d124d071

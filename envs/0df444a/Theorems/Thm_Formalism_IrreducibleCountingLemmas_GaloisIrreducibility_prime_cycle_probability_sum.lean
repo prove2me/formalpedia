@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_prime_cycle_probability_sum
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.prime_cycle_probability_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:10.919911+00:00
 -- url     : https://prove2.me/theorems/46a72f3a-73e1-4523-b321-20154c7898f8

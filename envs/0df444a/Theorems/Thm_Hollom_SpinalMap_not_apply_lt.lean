@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hollom_SpinalMap_not_apply_lt
 -- name    : Hollom.SpinalMap.not_apply_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:09:49.397919+00:00
 -- url     : https://prove2.me/theorems/71a510ec-17d2-4b3f-aa43-8c7bff4474ee

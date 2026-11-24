@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_MeasureShiftInvariance_SF_measure_cover
 -- name    : Formalism.L2.SG.MeasureShiftInvariance.SF_measure_cover
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:55.454069+00:00
 -- url     : https://prove2.me/theorems/5a532741-adf0-43bc-882a-2153a71b2a51

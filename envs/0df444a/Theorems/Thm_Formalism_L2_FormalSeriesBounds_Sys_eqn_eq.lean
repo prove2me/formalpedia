@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_Sys_eqn_eq
 -- name    : Formalism.L2.FormalSeriesBounds.Sys.eqn_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:58.542231+00:00
 -- url     : https://prove2.me/theorems/32857195-914d-45a7-8128-a32f8a61e99e

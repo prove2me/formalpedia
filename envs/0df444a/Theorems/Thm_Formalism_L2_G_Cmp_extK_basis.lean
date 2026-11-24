@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Cmp_extK_basis
 -- name    : Formalism.L2.G.Cmp.extK_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:08.772872+00:00
 -- url     : https://prove2.me/theorems/5b2e8772-4e6b-4908-bb7b-6c1ad61de29d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_PsiTrCore_exists_int_near
 -- name    : Formalism.L2.S.Pv.PsiTrCore.exists_int_near
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:59.676872+00:00
 -- url     : https://prove2.me/theorems/8b65b016-2f37-495a-96b1-68bfbfb416cd

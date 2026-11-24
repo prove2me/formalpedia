@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_IsAbsIrrChar_isIntegral
 -- name    : Formalism.L2.DIV.IsAbsIrrChar.isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:41:43.387815+00:00
 -- url     : https://prove2.me/theorems/a1cc4785-6d3b-42fa-b7f8-142eb7d0b691

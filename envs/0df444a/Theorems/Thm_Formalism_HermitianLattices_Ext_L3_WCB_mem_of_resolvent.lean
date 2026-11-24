@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_WCB_mem_of_resolvent
 -- name    : Formalism.HermitianLattices.Ext.L3.WCB.mem_of_resolvent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:47:37.455301+00:00
 -- url     : https://prove2.me/theorems/9552b321-6680-4cff-8303-0843d5448b21

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_UkEmb_smat_inv
 -- name    : Formalism.L2.SG.Pf.UkEmb.smat_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:16.338798+00:00
 -- url     : https://prove2.me/theorems/a045eeeb-f5e9-43ef-8a83-df803726fcaf

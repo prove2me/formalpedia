@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_IndefColsR_RR_spec
 -- name    : Formalism.L2.Indef.IndefColsR.RR_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:17.756426+00:00
 -- url     : https://prove2.me/theorems/e889e4e9-b582-48d7-8ff9-7275034d429f

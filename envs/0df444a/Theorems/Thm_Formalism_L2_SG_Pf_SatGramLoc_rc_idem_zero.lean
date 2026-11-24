@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_SatGramLoc_rc_idem_zero
 -- name    : Formalism.L2.SG.Pf.SatGramLoc.rc_idem_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:50:24.484897+00:00
 -- url     : https://prove2.me/theorems/acff4d2a-bc73-4cdf-8f15-c64468189888

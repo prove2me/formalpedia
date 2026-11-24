@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_crIsMono_prod
 -- name    : Formalism.L2.Pj.Crude.crIsMono_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:42.644606+00:00
 -- url     : https://prove2.me/theorems/d9352450-4304-4296-b385-03d1127891cb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_alphaN_congr
 -- name    : Formalism.HermitianLattices.Ext.L3.alphaN_congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:50.601795+00:00
 -- url     : https://prove2.me/theorems/5db2b40e-43bd-459f-af65-ec1abf7256bb

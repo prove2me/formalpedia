@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_prodMaxInvLeSq
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.prodMaxInvLeSq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:48:56.136803+00:00
 -- url     : https://prove2.me/theorems/4706f132-8d45-4010-aace-53386ff301d9

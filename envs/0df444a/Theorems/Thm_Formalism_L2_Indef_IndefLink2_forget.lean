@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_IndefLink2_forget
 -- name    : Formalism.L2.Indef.IndefLink2.forget
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:35:46.5698+00:00
 -- url     : https://prove2.me/theorems/611b605d-7c24-4a1e-b79d-a596ef2dda28

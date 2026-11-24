@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Ph_constantCoeff_phE
 -- name    : Formalism.L2.Th1.B.Ph.constantCoeff_phE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:51:03.610354+00:00
 -- url     : https://prove2.me/theorems/bb0fafcc-d080-4098-b48c-ff50210530cb

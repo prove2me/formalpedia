@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalPush_lemma_5_9
 -- name    : LocalPush.lemma_5_9
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T23:07:46.722291+00:00
 -- url     : https://prove2.me/theorems/011574dd-252e-4242-877d-176727154749

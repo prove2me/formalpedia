@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Geo_ExtensionFiltration_dense_emb
 -- name    : Formalism.L2.Geo.ExtensionFiltration.dense_emb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:01.309277+00:00
 -- url     : https://prove2.me/theorems/73c88976-e4ff-410e-8b04-edbacdba1048

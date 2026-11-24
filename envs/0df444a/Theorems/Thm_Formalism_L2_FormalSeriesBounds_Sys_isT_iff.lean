@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_Sys_isT_iff
 -- name    : Formalism.L2.FormalSeriesBounds.Sys.isT_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:44.132494+00:00
 -- url     : https://prove2.me/theorems/284102b3-8a04-4444-8b9c-082e79c0c230

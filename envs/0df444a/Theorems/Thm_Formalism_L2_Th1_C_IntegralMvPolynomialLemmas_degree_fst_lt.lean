@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_IntegralMvPolynomialLemmas_degree_fst_lt
 -- name    : Formalism.L2.Th1.C.IntegralMvPolynomialLemmas.degree_fst_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:49.941808+00:00
 -- url     : https://prove2.me/theorems/d684f35a-54d6-4d7b-ab59-9f439e6c649a

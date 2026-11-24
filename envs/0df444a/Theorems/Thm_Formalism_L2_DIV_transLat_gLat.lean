@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_transLat_gLat
 -- name    : Formalism.L2.DIV.transLat_gLat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:47:21.407671+00:00
 -- url     : https://prove2.me/theorems/7555b881-3dc0-47ac-8da8-46ba9ea18397

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Props_uniR_of_uniRT
 -- name    : Formalism.L2.Props.uniR_of_uniRT
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:46.819426+00:00
 -- url     : https://prove2.me/theorems/04044a09-4503-46ed-be78-04bdb1ce920e

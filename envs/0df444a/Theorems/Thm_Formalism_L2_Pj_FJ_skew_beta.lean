@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FJ_skew_beta
 -- name    : Formalism.L2.Pj.FJ.skew_beta
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:09.5389+00:00
 -- url     : https://prove2.me/theorems/1e4529ee-35e4-4f6d-a3e7-f08e41f5ce88

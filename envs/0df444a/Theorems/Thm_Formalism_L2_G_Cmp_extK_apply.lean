@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Cmp_extK_apply
 -- name    : Formalism.L2.G.Cmp.extK_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:09:26.408475+00:00
 -- url     : https://prove2.me/theorems/bf2638bf-69bf-45bd-afe3-67deee0062a5

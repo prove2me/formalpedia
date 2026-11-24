@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_ereal_add_iInf
 -- name    : Formalism.L2.Pj.ereal_add_iInf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:40.875978+00:00
 -- url     : https://prove2.me/theorems/24b6fd15-1640-4ac4-9133-44092cd3b4fc

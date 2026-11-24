@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_raising_divided_integral
 -- name    : Formalism.InvariantFactorPaths.L4.raising_divided_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:23.087559+00:00
 -- url     : https://prove2.me/theorems/d55f5d7d-084b-4fc6-a97e-12959dc7c1fe

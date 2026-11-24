@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_TW_unit_ball_is_lattice
 -- name    : Formalism.IrreducibleCountingLemmas.TW.unit_ball_is_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:48:05.818436+00:00
 -- url     : https://prove2.me/theorems/fa0480ff-e4e9-48bc-8a74-3a75da9a6688

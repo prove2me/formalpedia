@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Add0_series_at_variable_const
 -- name    : Formalism.L2.Th1.B.Add0.series_at_variable_const
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:28.277438+00:00
 -- url     : https://prove2.me/theorems/91e23b44-c2a3-45d9-887d-286887f598a9

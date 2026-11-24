@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_comm_projection_holds
 -- name    : Formalism.InvariantFactorPaths.PW.comm_projection_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:19:12.841651+00:00
 -- url     : https://prove2.me/theorems/f6b34705-8f25-447c-9e17-78d02f010f0f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_IntegralMvPolynomialLemmas_degree_le_of_mem_antidiagonal
 -- name    : Formalism.L2.Th1.C.IntegralMvPolynomialLemmas.degree_le_of_mem_antidiagonal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:48.469186+00:00
 -- url     : https://prove2.me/theorems/d9c0aae8-dcfd-4e5a-bdc4-977d8462c320

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_der_sq
 -- name    : Formalism.L2.Th1.A.der_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:47:23.908649+00:00
 -- url     : https://prove2.me/theorems/ddfa2600-2054-4dc6-b0e9-5b785bc5231f

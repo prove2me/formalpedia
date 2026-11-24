@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_exists_smul_le
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.exists_smul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:31:18.020675+00:00
 -- url     : https://prove2.me/theorems/ef9d004d-caa4-4ddd-97f3-9999d47d9538

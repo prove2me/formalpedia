@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_upper_inv
 -- name    : Formalism.L2.Pj.upper_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:49.699657+00:00
 -- url     : https://prove2.me/theorems/8a5e7723-44bd-4889-a3bd-1375dbba560c

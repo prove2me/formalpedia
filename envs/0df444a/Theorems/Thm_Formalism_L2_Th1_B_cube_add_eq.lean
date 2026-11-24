@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_cube_add_eq
 -- name    : Formalism.L2.Th1.B.cube_add_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:25:09.422371+00:00
 -- url     : https://prove2.me/theorems/274c76ee-eaa5-4b10-8803-232666420ec9

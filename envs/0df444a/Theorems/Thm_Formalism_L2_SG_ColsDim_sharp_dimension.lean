@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_ColsDim_sharp_dimension
 -- name    : Formalism.L2.SG.ColsDim.sharp_dimension
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:04.967694+00:00
 -- url     : https://prove2.me/theorems/48b90f0d-55a5-43d7-8d8f-c0b6f59d291a

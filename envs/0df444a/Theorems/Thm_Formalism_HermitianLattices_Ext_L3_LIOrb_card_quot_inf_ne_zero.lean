@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LIOrb_card_quot_inf_ne_zero
 -- name    : Formalism.HermitianLattices.Ext.L3.LIOrb.card_quot_inf_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:47:27.463414+00:00
 -- url     : https://prove2.me/theorems/53827247-df4d-4198-9250-dcaa6d13512f

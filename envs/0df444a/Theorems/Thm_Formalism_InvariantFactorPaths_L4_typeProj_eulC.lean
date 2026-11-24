@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_typeProj_eulC
 -- name    : Formalism.InvariantFactorPaths.L4.typeProj_eulC
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:54.73798+00:00
 -- url     : https://prove2.me/theorems/743ff5c5-4fc3-444d-948f-43166d636cef

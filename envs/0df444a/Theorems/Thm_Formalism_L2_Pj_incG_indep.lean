@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_incG_indep
 -- name    : Formalism.L2.Pj.incG_indep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:51.264425+00:00
 -- url     : https://prove2.me/theorems/5cec7ad1-1750-4cae-abf3-1d4330cac72e

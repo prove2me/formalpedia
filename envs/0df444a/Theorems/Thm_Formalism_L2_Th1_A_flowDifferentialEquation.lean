@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_flowDifferentialEquation
 -- name    : Formalism.L2.Th1.A.flowDifferentialEquation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:47:27.716797+00:00
 -- url     : https://prove2.me/theorems/dcee4ea0-81a5-47b1-b4fc-c72ba0f3f53e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_idemP
 -- name    : Formalism.IndefR.LatticeTransfer.idemP
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:47:02.953856+00:00
 -- url     : https://prove2.me/theorems/19442974-05a0-4971-b06b-3cde0588cab4

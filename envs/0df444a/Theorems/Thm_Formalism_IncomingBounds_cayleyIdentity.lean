@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_cayleyIdentity
 -- name    : Formalism.IncomingBounds.cayleyIdentity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:09:41.761383+00:00
 -- url     : https://prove2.me/theorems/61d782b9-67f5-4035-940f-7f0d73a7af18

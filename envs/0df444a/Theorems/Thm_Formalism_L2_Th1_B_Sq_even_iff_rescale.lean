@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Sq_even_iff_rescale
 -- name    : Formalism.L2.Th1.B.Sq.even_iff_rescale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:12:48.001795+00:00
 -- url     : https://prove2.me/theorems/83f48ddf-80c0-4364-b429-2dfe8a930d0a

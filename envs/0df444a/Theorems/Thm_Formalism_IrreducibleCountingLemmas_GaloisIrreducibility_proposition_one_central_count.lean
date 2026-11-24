@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_proposition_one_central_count
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.proposition_one_central_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:04:58.812001+00:00
 -- url     : https://prove2.me/theorems/d7abaeb6-b961-4618-badb-e41e02a60af7

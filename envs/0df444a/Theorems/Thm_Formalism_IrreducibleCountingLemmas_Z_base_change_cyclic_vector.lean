@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_base_change_cyclic_vector
 -- name    : Formalism.IrreducibleCountingLemmas.Z.base_change_cyclic_vector
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:24.316056+00:00
 -- url     : https://prove2.me/theorems/02d20fd3-f671-44ca-8e9d-12cf86f65e85

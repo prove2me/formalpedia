@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_coeffIntegralOfUnitEval
 -- name    : Formalism.L2.LamCM.coeffIntegralOfUnitEval
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:32.510903+00:00
 -- url     : https://prove2.me/theorems/7bb23ee2-0db3-442d-ada1-3309e1e5e094

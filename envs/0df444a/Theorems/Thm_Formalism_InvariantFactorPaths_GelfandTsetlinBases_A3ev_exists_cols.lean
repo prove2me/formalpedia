@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A3ev_exists_cols
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.A3ev.exists_cols
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:39:00.676199+00:00
 -- url     : https://prove2.me/theorems/010d4b44-baed-42a0-9ecf-08cadca56cb3

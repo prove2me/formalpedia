@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_Br_latS_functional
 -- name    : Formalism.L2.GlobalTheoryTheory.Br.latS_functional
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:35:10.979397+00:00
 -- url     : https://prove2.me/theorems/9082e598-b33a-455c-9765-bf021f459c33

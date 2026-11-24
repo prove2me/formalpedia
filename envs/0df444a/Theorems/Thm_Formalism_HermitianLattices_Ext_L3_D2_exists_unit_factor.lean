@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_exists_unit_factor
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.exists_unit_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:49:16.622405+00:00
 -- url     : https://prove2.me/theorems/041113ed-e836-4da6-8002-d2e7eeda8e7e

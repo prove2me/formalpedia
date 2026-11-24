@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_JetSubstitutionLemmas_intPS_of_intMv
 -- name    : Formalism.L2.Th1.C.JetSubstitutionLemmas.intPS_of_intMv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:43.653994+00:00
 -- url     : https://prove2.me/theorems/686fdf11-5537-4e34-9904-f8670b808560

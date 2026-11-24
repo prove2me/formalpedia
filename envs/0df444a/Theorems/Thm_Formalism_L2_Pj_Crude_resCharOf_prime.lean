@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_resCharOf_prime
 -- name    : Formalism.L2.Pj.Crude.resCharOf_prime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:40:40.941068+00:00
 -- url     : https://prove2.me/theorems/9e19727a-ca3a-40dd-ad01-1cb67e1186ac

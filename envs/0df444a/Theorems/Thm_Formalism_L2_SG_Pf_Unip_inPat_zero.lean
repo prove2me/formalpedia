@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_Unip_inPat_zero
 -- name    : Formalism.L2.SG.Pf.Unip.inPat_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:34.194984+00:00
 -- url     : https://prove2.me/theorems/d7bbe586-5b0c-4c14-99b2-6d27c16debe9

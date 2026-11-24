@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Fgl1_wSer_unique
 -- name    : Formalism.L2.Th1.A.Fgl1.wSer_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:04:08.995717+00:00
 -- url     : https://prove2.me/theorems/b69c48cb-8257-4c83-89f7-6f6ddf07fc54

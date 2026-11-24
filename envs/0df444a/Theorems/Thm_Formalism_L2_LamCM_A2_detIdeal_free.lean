@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_A2_detIdeal_free
 -- name    : Formalism.L2.LamCM.A2.detIdeal_free
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:35:50.623516+00:00
 -- url     : https://prove2.me/theorems/0451989e-5a3e-4d19-b4fd-b9a7aab5bdd1

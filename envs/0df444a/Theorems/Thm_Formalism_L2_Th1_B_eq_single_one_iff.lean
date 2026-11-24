@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_eq_single_one_iff
 -- name    : Formalism.L2.Th1.B.eq_single_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:46:52.280471+00:00
 -- url     : https://prove2.me/theorems/9546b057-2bb3-46b7-ae97-6c16691881cf

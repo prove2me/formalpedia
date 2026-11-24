@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_exp_subst_log
 -- name    : Formalism.L2.Th1.B.exp_subst_log
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:51:12.546862+00:00
 -- url     : https://prove2.me/theorems/5d1ca402-73f2-4b85-9ffd-3e48c11d9afd

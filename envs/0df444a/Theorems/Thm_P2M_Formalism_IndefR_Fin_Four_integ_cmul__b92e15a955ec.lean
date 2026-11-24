@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_IndefR_Fin_Four_integ_cmul__b92e15a955ec
 -- name    : P2M_Formalism_IndefR_Fin_Four_integ_cmul__b92e15a955ec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:22:31.361938+00:00
 -- url     : https://prove2.me/theorems/a6200eca-aeec-4d18-bd07-75d3bebc68e5

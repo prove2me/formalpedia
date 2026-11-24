@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FJ_herm_g
 -- name    : Formalism.L2.Pj.FJ.herm_g
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:07.422347+00:00
 -- url     : https://prove2.me/theorems/cbdae9d1-c104-4360-a9bb-9a54efe4e4f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_LocalLatticeBases_eq_zero_of_sum_rename_mul
 -- name    : Formalism.L2.GlobalTheoryTheory.LocalLatticeBases.eq_zero_of_sum_rename_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:58:08.276211+00:00
 -- url     : https://prove2.me/theorems/3b697c0c-2dd1-430f-a7f4-0b3fd78634f4

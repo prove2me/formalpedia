@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_IndefRows_Wp_decomp
 -- name    : Formalism.L2.Indef.IndefRows.Wp_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:35:57.209097+00:00
 -- url     : https://prove2.me/theorems/12ddd481-7e62-47b5-b634-027a19cfa918

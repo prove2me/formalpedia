@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_Weil_QuotInt_measurable_mulH
 -- name    : Formalism.L2.SG.Pf.Weil.QuotInt.measurable_mulH
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:50:05.400804+00:00
 -- url     : https://prove2.me/theorems/50823635-9c6c-4b5f-83b6-e05ec172b5df

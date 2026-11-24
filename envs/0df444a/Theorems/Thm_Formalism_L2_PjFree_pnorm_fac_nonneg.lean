@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PjFree_pnorm_fac_nonneg
 -- name    : Formalism.L2.PjFree.pnorm_fac_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:09.941264+00:00
 -- url     : https://prove2.me/theorems/76174be0-ac28-46df-be74-ab21254d18c2

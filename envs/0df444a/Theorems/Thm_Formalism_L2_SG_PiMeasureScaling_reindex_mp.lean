@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_PiMeasureScaling_reindex_mp
 -- name    : Formalism.L2.SG.PiMeasureScaling.reindex_mp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:50:20.778593+00:00
 -- url     : https://prove2.me/theorems/583826c3-079f-4267-a9ad-d6f528cc9867

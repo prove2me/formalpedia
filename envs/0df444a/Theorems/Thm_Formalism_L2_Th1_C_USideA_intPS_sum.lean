@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_USideA_intPS_sum
 -- name    : Formalism.L2.Th1.C.USideA.intPS_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:58.870443+00:00
 -- url     : https://prove2.me/theorems/9a8c8b62-01c0-4ee9-b246-73ac0bdc7a6a

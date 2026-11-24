@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatEx_spanE_of_lat
 -- name    : Formalism.L2.SG.Pf.LatEx.spanE_of_lat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:35.359122+00:00
 -- url     : https://prove2.me/theorems/f93c1561-01f2-461d-8195-9f9e69cf3fb9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_CompFin_quasiCompact_alt
 -- name    : Formalism.L2.Pj.CompFin.quasiCompact_alt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:15.013354+00:00
 -- url     : https://prove2.me/theorems/988a26af-735a-47d0-807a-09664a4835df

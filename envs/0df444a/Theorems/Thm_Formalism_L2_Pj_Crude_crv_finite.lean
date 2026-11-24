@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_crv_finite
 -- name    : Formalism.L2.Pj.Crude.crv_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:36.903737+00:00
 -- url     : https://prove2.me/theorems/cbe653aa-3272-4f6f-aa8e-cf794cab5fc0

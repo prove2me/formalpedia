@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hollom_SpinalMap_not_lt_of_eq
 -- name    : Hollom.SpinalMap.not_lt_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:09:06.229605+00:00
 -- url     : https://prove2.me/theorems/6be9f482-36af-497c-a787-42257e831595

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_cro_constCoeff_expS
 -- name    : Formalism.L2.Pj.Crude.cro_constCoeff_expS
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:31.238518+00:00
 -- url     : https://prove2.me/theorems/913b5ab5-d55a-4520-8adb-a28f773398f8

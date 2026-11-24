@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_type_set_weight_bound
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.type_set_weight_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:46:55.155911+00:00
 -- url     : https://prove2.me/theorems/142898f7-9552-465d-ab18-b2daed5f6d61

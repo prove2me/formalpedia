@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_frChart_of_cover
 -- name    : Formalism.L2.Pj.frChart_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:08.452381+00:00
 -- url     : https://prove2.me/theorems/30739abb-3423-4f33-adda-ce76e9fc3435

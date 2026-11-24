@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_ColData_fnorm_eq_zero
 -- name    : Formalism.L2.Indef.ColData.fnorm_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:33.596099+00:00
 -- url     : https://prove2.me/theorems/46fa10a3-9aaf-421a-8a1c-42c55da57a6f

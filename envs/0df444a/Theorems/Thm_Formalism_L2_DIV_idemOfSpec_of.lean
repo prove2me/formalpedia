@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_idemOfSpec_of
 -- name    : Formalism.L2.DIV.idemOfSpec_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:54:29.357399+00:00
 -- url     : https://prove2.me/theorems/7332696f-4e9a-41f8-bc0e-a2c508c01b77

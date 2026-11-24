@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_hermitian_form_gramBlock_basis
 -- name    : Formalism.L2.LamCM.hermitian_form_gramBlock_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:04.321578+00:00
 -- url     : https://prove2.me/theorems/f37baa81-dc92-4b9f-9995-f7fdb9ec4bf5

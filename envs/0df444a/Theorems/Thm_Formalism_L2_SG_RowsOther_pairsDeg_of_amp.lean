@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_RowsOther_pairsDeg_of_amp
 -- name    : Formalism.L2.SG.RowsOther.pairsDeg_of_amp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:07.230599+00:00
 -- url     : https://prove2.me/theorems/1fba7cf0-d011-49c0-b9a5-8b6f01296c8c

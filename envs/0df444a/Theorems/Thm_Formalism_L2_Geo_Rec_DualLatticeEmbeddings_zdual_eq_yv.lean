@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Geo_Rec_DualLatticeEmbeddings_zdual_eq_yv
 -- name    : Formalism.L2.Geo.Rec.DualLatticeEmbeddings.zdual_eq_yv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:35:24.422796+00:00
 -- url     : https://prove2.me/theorems/8a0e27d0-dd8d-498d-8aa3-c7763dd3e5bd

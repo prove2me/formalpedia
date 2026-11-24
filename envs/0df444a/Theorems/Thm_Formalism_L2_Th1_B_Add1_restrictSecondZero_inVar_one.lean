@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Add1_restrictSecondZero_inVar_one
 -- name    : Formalism.L2.Th1.B.Add1.restrictSecondZero_inVar_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:51:50.560751+00:00
 -- url     : https://prove2.me/theorems/af2971ed-d26a-48b0-9462-b0aaf9933c85

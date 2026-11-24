@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LemmaTwo_of
 -- name    : Formalism.InvariantFactorPaths.G7.LemmaTwo_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:32:46.798535+00:00
 -- url     : https://prove2.me/theorems/8f3b69b5-1179-48df-9a87-bf48838d1605

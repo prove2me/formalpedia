@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_quot_eq_restr_of
 -- name    : Formalism.L2.DIV.quot_eq_restr_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:10:13.022199+00:00
 -- url     : https://prove2.me/theorems/ef55fd95-06ee-44e1-8c42-580a844313f7

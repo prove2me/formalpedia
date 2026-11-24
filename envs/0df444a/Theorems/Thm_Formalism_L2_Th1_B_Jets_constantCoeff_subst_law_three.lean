@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Jets_constantCoeff_subst_law_three
 -- name    : Formalism.L2.Th1.B.Jets.constantCoeff_subst_law_three
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:22.060341+00:00
 -- url     : https://prove2.me/theorems/8f470b52-a30e-49c3-8b80-7a9831053c05

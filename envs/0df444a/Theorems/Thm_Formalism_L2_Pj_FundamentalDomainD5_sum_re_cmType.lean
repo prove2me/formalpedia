@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FundamentalDomainD5_sum_re_cmType
 -- name    : Formalism.L2.Pj.FundamentalDomainD5.sum_re_cmType
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:46:29.125554+00:00
 -- url     : https://prove2.me/theorems/ce6035f9-79d7-420a-b518-bfb741730c2f

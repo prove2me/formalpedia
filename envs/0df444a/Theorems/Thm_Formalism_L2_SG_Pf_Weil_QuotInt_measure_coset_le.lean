@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_Weil_QuotInt_measure_coset_le
 -- name    : Formalism.L2.SG.Pf.Weil.QuotInt.measure_coset_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:50:05.705533+00:00
 -- url     : https://prove2.me/theorems/b3350210-6222-4b3e-9270-edf8dbbf370a

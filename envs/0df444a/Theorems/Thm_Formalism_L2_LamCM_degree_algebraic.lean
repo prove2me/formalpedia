@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_degree_algebraic
 -- name    : Formalism.L2.LamCM.degree_algebraic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:48:27.711784+00:00
 -- url     : https://prove2.me/theorems/37368cce-1d99-4568-8a7e-111cb97196b5

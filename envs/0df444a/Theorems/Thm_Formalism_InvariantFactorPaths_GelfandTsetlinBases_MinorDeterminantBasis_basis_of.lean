@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_MinorDeterminantBasis_basis_of
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.MinorDeterminantBasis.basis_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:35:13.441252+00:00
 -- url     : https://prove2.me/theorems/81cac2c5-bb26-43de-9657-0682ea384ab4

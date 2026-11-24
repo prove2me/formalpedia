@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_J_map_smul_hermL
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.J.map_smul_hermL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:54:29.105686+00:00
 -- url     : https://prove2.me/theorems/16e64ec4-a94c-4e8b-989e-0bbd52320a23

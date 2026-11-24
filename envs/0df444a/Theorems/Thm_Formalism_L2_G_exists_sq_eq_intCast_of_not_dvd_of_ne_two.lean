@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_exists_sq_eq_intCast_of_not_dvd_of_ne_two
 -- name    : Formalism.L2.G.exists_sq_eq_intCast_of_not_dvd_of_ne_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:17.217199+00:00
 -- url     : https://prove2.me/theorems/c86ebb52-cd2c-4d20-b402-ea89d6de5bee

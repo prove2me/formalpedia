@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Geo_Rec_DualLatticeEmbeddings_norm_sq_realize
 -- name    : Formalism.L2.Geo.Rec.DualLatticeEmbeddings.norm_sq_realize
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:35:41.352272+00:00
 -- url     : https://prove2.me/theorems/942bc0bd-b661-4fde-b40d-3287aa90135b

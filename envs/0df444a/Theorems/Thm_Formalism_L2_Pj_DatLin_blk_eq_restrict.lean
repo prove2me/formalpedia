@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_DatLin_blk_eq_restrict
 -- name    : Formalism.L2.Pj.DatLin.blk_eq_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:21.983849+00:00
 -- url     : https://prove2.me/theorems/b6106069-bd8f-44a4-8204-b8f26037345e

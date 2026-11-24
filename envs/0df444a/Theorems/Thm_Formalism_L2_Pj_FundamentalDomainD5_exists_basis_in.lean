@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FundamentalDomainD5_exists_basis_in
 -- name    : Formalism.L2.Pj.FundamentalDomainD5.exists_basis_in
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:48.696212+00:00
 -- url     : https://prove2.me/theorems/cc2d59d6-47a2-465d-a8a8-c7e934ab380d

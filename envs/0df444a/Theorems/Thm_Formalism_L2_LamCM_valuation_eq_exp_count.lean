@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_valuation_eq_exp_count
 -- name    : Formalism.L2.LamCM.valuation_eq_exp_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:04:34.976282+00:00
 -- url     : https://prove2.me/theorems/c79126bd-735e-400c-8918-956a5a7b26e3

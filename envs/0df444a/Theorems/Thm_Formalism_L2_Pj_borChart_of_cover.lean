@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_borChart_of_cover
 -- name    : Formalism.L2.Pj.borChart_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:29.517334+00:00
 -- url     : https://prove2.me/theorems/812c9c01-4497-469a-bb69-a2e882afb579

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_discriminantNormShapes_ent_sub
 -- name    : Formalism.L2.SG.Pf.discriminantNormShapes.ent_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:25.427695+00:00
 -- url     : https://prove2.me/theorems/094a1d41-1f30-4023-8ad5-2466db1724ef

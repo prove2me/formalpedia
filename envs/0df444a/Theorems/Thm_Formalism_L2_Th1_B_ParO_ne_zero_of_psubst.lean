@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_ParO_ne_zero_of_psubst
 -- name    : Formalism.L2.Th1.B.ParO.ne_zero_of_psubst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:50:58.596276+00:00
 -- url     : https://prove2.me/theorems/b996b217-cb23-4331-b660-9b3bcbe44980

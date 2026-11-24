@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_NGCut_TorsionTotientBound_absNorm_map_equiv
 -- name    : Formalism.L2.SG.NGCut.TorsionTotientBound.absNorm_map_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:18.608899+00:00
 -- url     : https://prove2.me/theorems/0c864eff-0951-4725-8b7f-64fcdab0f8fb

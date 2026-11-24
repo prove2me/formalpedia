@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LemOne_good_zero
 -- name    : Formalism.InvariantFactorPaths.G7.LemOne.good_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:27:55.20812+00:00
 -- url     : https://prove2.me/theorems/34e275fc-2989-4ec7-b36a-7a8ed7fabb24

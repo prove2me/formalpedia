@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_ColData_invZ_invZ
 -- name    : Formalism.L2.Indef.ColData.invZ_invZ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:09.84837+00:00
 -- url     : https://prove2.me/theorems/91bfe026-b48e-4671-9bc3-2bc53240c461

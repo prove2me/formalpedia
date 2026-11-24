@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_GluingBases_bin_step_gen
 -- name    : Formalism.L2.SG.Pf.GluingBases.bin_step_gen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:48.311403+00:00
 -- url     : https://prove2.me/theorems/b153802c-c4ff-418f-a9cd-e0a63f1273e0

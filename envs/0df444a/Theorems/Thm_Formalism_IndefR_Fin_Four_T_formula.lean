@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_T_formula
 -- name    : Formalism.IndefR.Fin.Four.T_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:27:17.431309+00:00
 -- url     : https://prove2.me/theorems/174355e2-220d-4f98-93e2-438bff848805

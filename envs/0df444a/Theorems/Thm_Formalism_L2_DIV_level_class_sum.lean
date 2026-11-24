@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_level_class_sum
 -- name    : Formalism.L2.DIV.level_class_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:54:13.025828+00:00
 -- url     : https://prove2.me/theorems/64107531-3cb3-4726-b89a-39cea6e67f4f

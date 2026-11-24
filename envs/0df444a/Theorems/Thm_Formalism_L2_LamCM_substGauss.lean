@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_substGauss
 -- name    : Formalism.L2.LamCM.substGauss
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:02.006547+00:00
 -- url     : https://prove2.me/theorems/c79f40f7-9a9a-491e-a703-e262dd3b23a0

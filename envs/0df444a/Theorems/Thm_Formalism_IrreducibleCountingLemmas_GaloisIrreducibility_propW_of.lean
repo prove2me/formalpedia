@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_propW_of
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.propW_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:44:17.321298+00:00
 -- url     : https://prove2.me/theorems/59cee873-8e71-4ba8-8ad8-075bf57bc4ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_DatLin_cplx_str_core
 -- name    : Formalism.L2.Pj.DatLin.cplx_str_core
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:17.824111+00:00
 -- url     : https://prove2.me/theorems/f81cf651-3135-4095-b7ed-bfa222f69dd3

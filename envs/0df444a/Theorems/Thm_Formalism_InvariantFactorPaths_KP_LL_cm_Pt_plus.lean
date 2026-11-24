@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_LL_cm_Pt_plus
 -- name    : Formalism.InvariantFactorPaths.KP.LL.cm_Pt_plus
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:36:15.985704+00:00
 -- url     : https://prove2.me/theorems/9a71d2d0-ad20-4f31-95f3-1a04e4e5a586

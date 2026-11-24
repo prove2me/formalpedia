@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_subst_at_variable_eq_subst
 -- name    : Formalism.L2.Th1.B.subst_at_variable_eq_subst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:47.474151+00:00
 -- url     : https://prove2.me/theorems/867e4ac2-e729-4d65-8a2f-e39ad724c542

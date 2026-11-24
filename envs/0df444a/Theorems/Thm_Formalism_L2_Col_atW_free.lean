@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_atW_free
 -- name    : Formalism.L2.Col.atW_free
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:39:53.593256+00:00
 -- url     : https://prove2.me/theorems/7ec047f5-17c3-4166-9d3f-b224972ef126

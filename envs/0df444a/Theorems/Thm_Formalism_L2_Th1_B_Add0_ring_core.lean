@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Add0_ring_core
 -- name    : Formalism.L2.Th1.B.Add0.ring_core
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:02.774548+00:00
 -- url     : https://prove2.me/theorems/7927c098-f69b-4275-9b52-d354b777fce9

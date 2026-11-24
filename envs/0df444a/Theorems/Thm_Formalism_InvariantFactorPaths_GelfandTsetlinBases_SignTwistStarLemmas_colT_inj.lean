@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_SignTwistStarLemmas_colT_inj
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.SignTwistStarLemmas.colT_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:47:05.06495+00:00
 -- url     : https://prove2.me/theorems/5001c29a-7357-401a-9a66-94ab5a18c003

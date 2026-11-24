@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_det_sub_tri_ne
 -- name    : Formalism.L2.Pj.det_sub_tri_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:42.261996+00:00
 -- url     : https://prove2.me/theorems/2043cb16-bdb8-42c8-8d83-2a7666f34525

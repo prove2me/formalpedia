@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_TW_truncation_operator_holds
 -- name    : Formalism.IrreducibleCountingLemmas.TW.truncation_operator_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:41.933027+00:00
 -- url     : https://prove2.me/theorems/7f37ce1a-56a8-4ed7-a61c-af7c98e9b45d

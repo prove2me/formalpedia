@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_Unip_filtered_mul_mul_sub_sub
 -- name    : Formalism.L2.SG.Pf.Unip.filtered_mul_mul_sub_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:15.464805+00:00
 -- url     : https://prove2.me/theorems/cd9231cd-73c1-49f5-9886-0f50f65520f5

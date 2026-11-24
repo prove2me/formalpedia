@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_gramBlock_eq
 -- name    : Formalism.L2.LamCM.gramBlock_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:54.994427+00:00
 -- url     : https://prove2.me/theorems/3a5a19c1-d7c8-4f3e-a00d-0c96bd295c9e

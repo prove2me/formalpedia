@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_S4_detOp_apply_eigen
 -- name    : Formalism.L2.FormalSeriesBounds.S4.detOp_apply_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:38.229044+00:00
 -- url     : https://prove2.me/theorems/1f347207-d6e9-47ff-985e-31142fb3e38d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_fockSAdj
 -- name    : Formalism.L2.DIV.fockSAdj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:23.27445+00:00
 -- url     : https://prove2.me/theorems/8eb76495-1b18-48e1-985c-3d269a9b8b73

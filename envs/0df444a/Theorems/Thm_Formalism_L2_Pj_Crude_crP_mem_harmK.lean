@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_crP_mem_harmK
 -- name    : Formalism.L2.Pj.Crude.crP_mem_harmK
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:13.465911+00:00
 -- url     : https://prove2.me/theorems/de331553-afda-4870-a7b8-88f8af3cdcb1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_totalDegree_det_X_le
 -- name    : Formalism.L2.LamCM.totalDegree_det_X_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:31.791646+00:00
 -- url     : https://prove2.me/theorems/7c68b22d-9ce2-4998-a35c-a2191ae0cc3c

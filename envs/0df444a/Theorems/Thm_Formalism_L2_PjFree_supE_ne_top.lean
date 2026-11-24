@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PjFree_supE_ne_top
 -- name    : Formalism.L2.PjFree.supE_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:26.513551+00:00
 -- url     : https://prove2.me/theorems/c457edf9-1c2d-40f7-a9fc-6602d316591a

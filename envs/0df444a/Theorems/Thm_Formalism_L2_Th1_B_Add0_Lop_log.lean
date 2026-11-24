@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Add0_Lop_log
 -- name    : Formalism.L2.Th1.B.Add0.Lop_log
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:30.270122+00:00
 -- url     : https://prove2.me/theorems/f8a836d0-4489-47ab-8dcd-00336efeb4f0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_PiMeasureScaling_pi_smul_vol
 -- name    : Formalism.L2.SG.PiMeasureScaling.pi_smul_vol
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:50:16.42664+00:00
 -- url     : https://prove2.me/theorems/293d3c3e-81b3-43f7-9cd9-81c494927e6c

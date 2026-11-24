@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_EtBaseChange_fst_valT_translate
 -- name    : GlobalTheory.KeyKa.EtBaseChange.fst_valT_translate
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:03:11.473864+00:00
 -- url     : https://prove2.me/theorems/464c2bb6-179f-4de6-a56d-1c192bdef6de

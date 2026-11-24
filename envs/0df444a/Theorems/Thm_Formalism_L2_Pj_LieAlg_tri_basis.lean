@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_LieAlg_tri_basis
 -- name    : Formalism.L2.Pj.LieAlg.tri_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:08.310569+00:00
 -- url     : https://prove2.me/theorems/0f6fa9af-7acb-48fa-9aa4-e038562abe80

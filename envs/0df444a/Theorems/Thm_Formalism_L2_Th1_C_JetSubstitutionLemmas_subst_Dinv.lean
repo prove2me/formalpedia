@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_JetSubstitutionLemmas_subst_Dinv
 -- name    : Formalism.L2.Th1.C.JetSubstitutionLemmas.subst_Dinv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:04:17.905366+00:00
 -- url     : https://prove2.me/theorems/6dc01edc-1258-4f5f-b85f-5d4edb533b90

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_SatGramLoc_rc_finrank
 -- name    : Formalism.L2.SG.Pf.SatGramLoc.rc_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:47:03.701075+00:00
 -- url     : https://prove2.me/theorems/b0da14d7-32b9-4dc6-ab3c-c02a9200e112

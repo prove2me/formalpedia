@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_absIrrChar_finite
 -- name    : Formalism.L2.Col.absIrrChar_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:08:59.680876+00:00
 -- url     : https://prove2.me/theorems/d2673b7b-488b-4921-804a-04a026b51cc6

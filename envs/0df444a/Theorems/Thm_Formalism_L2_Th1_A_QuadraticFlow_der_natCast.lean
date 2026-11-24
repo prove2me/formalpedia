@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_QuadraticFlow_der_natCast
 -- name    : Formalism.L2.Th1.A.QuadraticFlow.der_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:46:26.342833+00:00
 -- url     : https://prove2.me/theorems/8cc6c8e1-3f0c-4abf-8c60-7ee5a7aa97cd

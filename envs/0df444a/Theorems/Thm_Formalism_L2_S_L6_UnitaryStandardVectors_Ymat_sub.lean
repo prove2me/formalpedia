@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_L6_UnitaryStandardVectors_Ymat_sub
 -- name    : Formalism.L2.S.L6.UnitaryStandardVectors.Ymat_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:31.57844+00:00
 -- url     : https://prove2.me/theorems/9e1c03f2-3621-488f-b655-b6605baf18a8

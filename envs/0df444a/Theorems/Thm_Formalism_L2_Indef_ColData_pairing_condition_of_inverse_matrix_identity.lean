@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_ColData_pairing_condition_of_inverse_matrix_identity
 -- name    : Formalism.L2.Indef.ColData.pairing_condition_of_inverse_matrix_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:14.609829+00:00
 -- url     : https://prove2.me/theorems/b66cabd5-6a47-4f5b-909f-375616267b67

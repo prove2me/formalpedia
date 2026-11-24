@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Add0_Lop_mulD
 -- name    : Formalism.L2.Th1.B.Add0.Lop_mulD
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:13.175879+00:00
 -- url     : https://prove2.me/theorems/b38b7ed0-42af-438b-8838-557b9751eacf

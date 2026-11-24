@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PairingIndexBounds_Mv_IsXi_fixed
 -- name    : Formalism.L2.PairingIndexBounds.Mv.IsXi.fixed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:54.694491+00:00
 -- url     : https://prove2.me/theorems/3c86db57-86ef-486a-8199-6eed260338ee

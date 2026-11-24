@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_min_le_vV_add
 -- name    : Formalism.L2.Pj.min_le_vV_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:42.210164+00:00
 -- url     : https://prove2.me/theorems/34def1f0-6c9b-43ea-85dc-a663692c3e76

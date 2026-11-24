@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_discriminantNormShapes_ent_of_map_eq_zero
 -- name    : Formalism.L2.SG.Pf.discriminantNormShapes.ent_of_map_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:19.475977+00:00
 -- url     : https://prove2.me/theorems/f12a7a90-cb43-4fa4-8c76-b754cd612ef2

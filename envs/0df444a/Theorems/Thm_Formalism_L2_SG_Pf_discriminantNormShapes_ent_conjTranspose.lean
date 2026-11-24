@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_discriminantNormShapes_ent_conjTranspose
 -- name    : Formalism.L2.SG.Pf.discriminantNormShapes.ent_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:51:26.554927+00:00
 -- url     : https://prove2.me/theorems/65cb8412-494b-46ee-8924-ab6aef3ba16d

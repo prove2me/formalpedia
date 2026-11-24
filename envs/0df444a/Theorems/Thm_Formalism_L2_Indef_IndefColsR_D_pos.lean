@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_IndefColsR_D_pos
 -- name    : Formalism.L2.Indef.IndefColsR.D_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:20.462142+00:00
 -- url     : https://prove2.me/theorems/3def781e-8ccd-4470-b97a-de39e90d1033

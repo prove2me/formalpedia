@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_fk_fock_prod
 -- name    : Formalism.L2.DIV.fk_fock_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:02:14.960978+00:00
 -- url     : https://prove2.me/theorems/543aa63d-6e59-47df-9882-132c88fabfaa

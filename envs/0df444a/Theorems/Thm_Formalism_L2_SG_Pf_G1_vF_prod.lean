@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G1_vF_prod
 -- name    : Formalism.L2.SG.Pf.G1.vF_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:17.339309+00:00
 -- url     : https://prove2.me/theorems/104808d7-4a92-4053-a563-3e435012d683

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_NO_comap_scal
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.NO.comap_scal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:44:40.346597+00:00
 -- url     : https://prove2.me/theorems/7dec65e8-a013-4b39-82f5-f680f02acd71

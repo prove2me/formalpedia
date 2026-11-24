@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_USideB_C_mem_intSub
 -- name    : Formalism.L2.Th1.C.USideB.C_mem_intSub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:06:48.993092+00:00
 -- url     : https://prove2.me/theorems/bfaccc65-d09f-4b61-bee3-be856fb97563

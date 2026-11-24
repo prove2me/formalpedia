@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_CovariantRepresentation_lcount_mul
 -- name    : Formalism.L2.SG.CovariantRepresentation.lcount_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:02.033801+00:00
 -- url     : https://prove2.me/theorems/a3dadd11-5c6a-425b-a022-1bbfcf710605

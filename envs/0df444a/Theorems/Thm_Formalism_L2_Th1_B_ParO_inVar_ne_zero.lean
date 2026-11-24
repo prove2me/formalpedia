@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_ParO_inVar_ne_zero
 -- name    : Formalism.L2.Th1.B.ParO.inVar_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:46:29.140801+00:00
 -- url     : https://prove2.me/theorems/6c57f87c-6ba0-4d0d-b59d-67e1729a8727

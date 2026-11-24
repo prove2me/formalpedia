@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_SatGramLoc_intValuation_split
 -- name    : Formalism.L2.SG.Pf.SatGramLoc.intValuation_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:33.158628+00:00
 -- url     : https://prove2.me/theorems/eac1825d-0bac-4d59-905f-01952497ca6d

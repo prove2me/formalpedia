@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_strongTranslationInvariance
 -- name    : strongTranslationInvariance
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:09:20.575734+00:00
 -- url     : https://prove2.me/theorems/d4551f97-35fa-4dfe-81df-f07139d6b8ba

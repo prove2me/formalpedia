@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_L6_UnitaryStandardVectors_gram_isUnit
 -- name    : Formalism.L2.S.L6.UnitaryStandardVectors.gram_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:26.184083+00:00
 -- url     : https://prove2.me/theorems/ea04ed47-fc84-40e9-8574-027297cb4ce7

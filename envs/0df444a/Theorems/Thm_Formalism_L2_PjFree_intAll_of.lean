@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PjFree_intAll_of
 -- name    : Formalism.L2.PjFree.intAll_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:23.763248+00:00
 -- url     : https://prove2.me/theorems/6d704ad9-ec01-438c-9995-1d7ca4b3d905

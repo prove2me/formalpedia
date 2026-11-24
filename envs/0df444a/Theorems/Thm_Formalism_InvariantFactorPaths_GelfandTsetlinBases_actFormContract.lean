@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_actFormContract
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.actFormContract
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:40:26.113803+00:00
 -- url     : https://prove2.me/theorems/5c6bc88e-a956-4bcc-8756-92995a8f9fe6

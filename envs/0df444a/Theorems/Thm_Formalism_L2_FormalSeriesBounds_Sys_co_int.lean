@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_Sys_co_int
 -- name    : Formalism.L2.FormalSeriesBounds.Sys.co_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:05:50.653414+00:00
 -- url     : https://prove2.me/theorems/3616e51b-5b32-4038-9ed6-4dab3937f5f3

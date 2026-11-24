@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_incG_mul
 -- name    : Formalism.L2.Pj.incG_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:39.794473+00:00
 -- url     : https://prove2.me/theorems/6a5507d1-3c9c-4759-a36e-6ba77f0304a7

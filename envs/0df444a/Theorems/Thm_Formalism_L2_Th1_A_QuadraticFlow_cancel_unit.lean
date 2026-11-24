@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_QuadraticFlow_cancel_unit
 -- name    : Formalism.L2.Th1.A.QuadraticFlow.cancel_unit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:53.369797+00:00
 -- url     : https://prove2.me/theorems/3cb8d630-7b1a-49ff-8531-341c14c90e00

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_USideA_l_ne_zero
 -- name    : Formalism.L2.Th1.C.USideA.l_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:06:48.9488+00:00
 -- url     : https://prove2.me/theorems/d1d161e0-54c2-4559-bcd4-f5f0442bb43f

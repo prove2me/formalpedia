@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_exists_finset_card_gt
 -- name    : Formalism.L2.LamCM.exists_finset_card_gt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:35:55.043395+00:00
 -- url     : https://prove2.me/theorems/ed75d2a9-9c61-4b40-9674-00d8b05eee5f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_finrank_AG
 -- name    : Formalism.L2.Pj.finrank_AG
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:53.694099+00:00
 -- url     : https://prove2.me/theorems/6c1ca20e-f0ef-4438-a673-bca3feffb1bc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_CSD_one_good
 -- name    : Formalism.L2.DIV.CSD.one_good
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:48.661801+00:00
 -- url     : https://prove2.me/theorems/22ce09b8-d965-4a05-ae15-5002a6c9acbb

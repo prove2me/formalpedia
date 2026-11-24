@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_pairTransport
 -- name    : Formalism.L2.DIV.pairTransport
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:41.395779+00:00
 -- url     : https://prove2.me/theorems/c6dcef5a-ed28-4d82-84b3-5b582096c922

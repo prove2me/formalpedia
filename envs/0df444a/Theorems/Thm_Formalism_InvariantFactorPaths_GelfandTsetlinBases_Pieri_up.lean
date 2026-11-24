@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Pieri_up
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.Pieri.up
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:40:36.449798+00:00
 -- url     : https://prove2.me/theorems/c3731572-528d-4367-8294-e54b83d21fb2

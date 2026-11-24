@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_DatLin_iota1_repr
 -- name    : Formalism.L2.Pj.DatLin.iota1_repr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:14.222964+00:00
 -- url     : https://prove2.me/theorems/51f094cb-76b5-4914-8964-654bb3e1c058

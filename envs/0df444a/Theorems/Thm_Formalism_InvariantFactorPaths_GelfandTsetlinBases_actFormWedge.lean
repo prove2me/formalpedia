@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_actFormWedge
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.actFormWedge
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:08:56.427597+00:00
 -- url     : https://prove2.me/theorems/02c20396-de1c-4d2f-9cba-5c39c2ddcbea

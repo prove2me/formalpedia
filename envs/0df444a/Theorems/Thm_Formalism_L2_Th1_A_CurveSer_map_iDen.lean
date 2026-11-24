@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_CurveSer_map_iDen
 -- name    : Formalism.L2.Th1.A.CurveSer.map_iDen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:12:39.70474+00:00
 -- url     : https://prove2.me/theorems/bc7bbf3f-4a3f-4538-a053-ab12701214b8

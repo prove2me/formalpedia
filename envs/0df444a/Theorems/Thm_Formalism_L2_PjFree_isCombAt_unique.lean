@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PjFree_isCombAt_unique
 -- name    : Formalism.L2.PjFree.isCombAt_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:02.760421+00:00
 -- url     : https://prove2.me/theorems/eee66ae3-f113-4e29-bd0b-cbd9ef2e3636

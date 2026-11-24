@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_NormCut_inner_sum_smul
 -- name    : Formalism.L2.SG.NormCut.inner_sum_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:31.333242+00:00
 -- url     : https://prove2.me/theorems/a299781b-d8a3-4172-9d5c-ed59fb6a2b06

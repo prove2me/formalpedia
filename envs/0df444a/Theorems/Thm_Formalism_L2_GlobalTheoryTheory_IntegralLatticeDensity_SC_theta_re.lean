@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_SC_theta_re
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.SC.theta_re
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:58:44.402456+00:00
 -- url     : https://prove2.me/theorems/b005850b-ebb4-438d-a0b7-bb9b4f78f058

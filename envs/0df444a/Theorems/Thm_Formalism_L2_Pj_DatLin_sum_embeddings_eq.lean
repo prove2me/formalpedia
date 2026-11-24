@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_DatLin_sum_embeddings_eq
 -- name    : Formalism.L2.Pj.DatLin.sum_embeddings_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:32.636966+00:00
 -- url     : https://prove2.me/theorems/c0bf08e1-eed2-48a6-b972-15ba938ae320

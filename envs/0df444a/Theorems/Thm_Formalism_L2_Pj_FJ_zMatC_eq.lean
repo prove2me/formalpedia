@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FJ_zMatC_eq
 -- name    : Formalism.L2.Pj.FJ.zMatC_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:10.405651+00:00
 -- url     : https://prove2.me/theorems/83e3d9ff-41d4-4d12-961c-dcdda57f757c

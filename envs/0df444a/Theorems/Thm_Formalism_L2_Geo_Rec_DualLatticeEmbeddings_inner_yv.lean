@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Geo_Rec_DualLatticeEmbeddings_inner_yv
 -- name    : Formalism.L2.Geo.Rec.DualLatticeEmbeddings.inner_yv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:12:08.352229+00:00
 -- url     : https://prove2.me/theorems/28325b25-4885-4bf2-ab52-63ada1170dee

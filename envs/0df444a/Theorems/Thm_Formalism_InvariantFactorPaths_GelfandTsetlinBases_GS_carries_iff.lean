@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_GS_carries_iff
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.GS.carries_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:59.072303+00:00
 -- url     : https://prove2.me/theorems/8abc050e-f79d-4493-8b34-0b52219ebd98

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_ParO_psubst_C
 -- name    : Formalism.L2.Th1.B.ParO.psubst_C
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:46:30.594978+00:00
 -- url     : https://prove2.me/theorems/29dce7dc-67c1-4dbc-81bc-a99621b67171

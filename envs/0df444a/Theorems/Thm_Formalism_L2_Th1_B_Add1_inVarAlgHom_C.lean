@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Add1_inVarAlgHom_C
 -- name    : Formalism.L2.Th1.B.Add1.inVarAlgHom_C
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:47:50.898204+00:00
 -- url     : https://prove2.me/theorems/51ec096b-4951-474b-90d7-0bf3ab7d6a07

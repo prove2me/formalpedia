@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NCov_withTop_add_pos
 -- name    : Formalism.L2.NCov.withTop_add_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:50.136359+00:00
 -- url     : https://prove2.me/theorems/d69f381b-bb71-489a-bdec-e792af5817b7

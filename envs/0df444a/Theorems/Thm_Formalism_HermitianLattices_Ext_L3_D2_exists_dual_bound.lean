@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_exists_dual_bound
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.exists_dual_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:44:55.782909+00:00
 -- url     : https://prove2.me/theorems/fcbfb6b7-d443-4daa-a982-b0e4c6e7ba6d

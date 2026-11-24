@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_WpSh_uPow_neg_four
 -- name    : Formalism.L2.Th1.A.WpSh.uPow_neg_four
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:45.340119+00:00
 -- url     : https://prove2.me/theorems/a8612f61-61a8-430c-8bec-3dcf656a5c00

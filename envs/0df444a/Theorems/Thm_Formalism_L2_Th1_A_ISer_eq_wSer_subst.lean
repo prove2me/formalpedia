@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_ISer_eq_wSer_subst
 -- name    : Formalism.L2.Th1.A.ISer.eq_wSer_subst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:28.245529+00:00
 -- url     : https://prove2.me/theorems/2ffee3b6-44d3-4545-8f46-84d34f38ce4d

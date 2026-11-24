@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_ParE_hsU
 -- name    : Formalism.L2.Th1.B.ParE.hsU
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:57.980868+00:00
 -- url     : https://prove2.me/theorems/e1e69158-110a-49b8-8e62-828faa6a640f

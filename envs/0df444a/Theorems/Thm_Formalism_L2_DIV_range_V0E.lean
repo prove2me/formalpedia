@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_range_V0E
 -- name    : Formalism.L2.DIV.range_V0E
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:46:05.681936+00:00
 -- url     : https://prove2.me/theorems/5cb810e6-6fee-472e-873e-4a6a5ded63f1

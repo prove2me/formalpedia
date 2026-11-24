@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_CovariantRepresentation_measurable_lcount
 -- name    : Formalism.L2.SG.CovariantRepresentation.measurable_lcount
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:02.698402+00:00
 -- url     : https://prove2.me/theorems/dc293e9c-3f93-4152-a94e-9b765e029a38

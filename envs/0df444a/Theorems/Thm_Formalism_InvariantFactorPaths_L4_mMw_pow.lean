@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_mMw_pow
 -- name    : Formalism.InvariantFactorPaths.L4.mMw_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:11.071145+00:00
 -- url     : https://prove2.me/theorems/6b3d2cd0-25dd-4a79-be58-76512abe35b9

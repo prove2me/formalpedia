@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_WpSh_coeff_shift_zero
 -- name    : Formalism.L2.Th1.A.WpSh.coeff_shift_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:37.732377+00:00
 -- url     : https://prove2.me/theorems/71ae8e93-7630-4447-b3e1-02c78c023afa

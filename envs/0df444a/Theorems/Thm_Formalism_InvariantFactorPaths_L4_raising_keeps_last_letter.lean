@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_raising_keeps_last_letter
 -- name    : Formalism.InvariantFactorPaths.L4.raising_keeps_last_letter
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:37:01.225942+00:00
 -- url     : https://prove2.me/theorems/e752cd24-b7e6-4dad-b7a3-641fefb49380

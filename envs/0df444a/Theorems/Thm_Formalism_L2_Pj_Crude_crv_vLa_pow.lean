@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_crv_vLa_pow
 -- name    : Formalism.L2.Pj.Crude.crv_vLa_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:53.399995+00:00
 -- url     : https://prove2.me/theorems/b97d054d-ab51-4c0a-9496-536c6f6d7a11

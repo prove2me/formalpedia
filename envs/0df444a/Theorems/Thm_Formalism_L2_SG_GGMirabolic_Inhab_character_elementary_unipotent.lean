@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_GGMirabolic_Inhab_character_elementary_unipotent
 -- name    : Formalism.L2.SG.GGMirabolic.Inhab.character_elementary_unipotent
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:58.484799+00:00
 -- url     : https://prove2.me/theorems/7b7dbfc7-4360-47ad-8e2d-974c7ddcab6f

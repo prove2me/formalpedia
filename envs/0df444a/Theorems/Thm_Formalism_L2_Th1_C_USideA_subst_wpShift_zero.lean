@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_USideA_subst_wpShift_zero
 -- name    : Formalism.L2.Th1.C.USideA.subst_wpShift_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:07:04.710688+00:00
 -- url     : https://prove2.me/theorems/8ab45490-2021-402b-b255-9a333ba11d03

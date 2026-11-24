@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Fgl1_weq_iff
 -- name    : Formalism.L2.Th1.A.Fgl1.weq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:05.407601+00:00
 -- url     : https://prove2.me/theorems/6feadcad-b9f4-445e-ae7d-24b70901a439

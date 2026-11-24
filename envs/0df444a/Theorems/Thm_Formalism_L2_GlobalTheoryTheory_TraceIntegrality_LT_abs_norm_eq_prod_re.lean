@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_TraceIntegrality_LT_abs_norm_eq_prod_re
 -- name    : Formalism.L2.GlobalTheoryTheory.TraceIntegrality.LT.abs_norm_eq_prod_re
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:58:14.050814+00:00
 -- url     : https://prove2.me/theorems/9703eae1-f854-460e-b16d-1400512d3fc5

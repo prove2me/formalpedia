@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_leadingTermLemmas_mono_eq_of_counts
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.leadingTermLemmas.mono_eq_of_counts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:39:52.374865+00:00
 -- url     : https://prove2.me/theorems/8cb9631b-f29c-4e2b-9a1a-f37d160e51b9

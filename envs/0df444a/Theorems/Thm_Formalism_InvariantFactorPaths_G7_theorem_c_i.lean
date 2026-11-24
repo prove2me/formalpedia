@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_theorem_c_i
 -- name    : Formalism.InvariantFactorPaths.G7.theorem_c_i
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:19.549181+00:00
 -- url     : https://prove2.me/theorems/e7900aae-4ea6-4311-adeb-93226be42287

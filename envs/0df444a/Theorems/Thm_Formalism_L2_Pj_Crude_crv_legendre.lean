@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_crv_legendre
 -- name    : Formalism.L2.Pj.Crude.crv_legendre
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:45.246257+00:00
 -- url     : https://prove2.me/theorems/e5b24017-1e0b-41aa-a3b1-2000c83f866f

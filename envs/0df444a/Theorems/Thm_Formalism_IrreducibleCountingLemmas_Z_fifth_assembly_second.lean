@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_fifth_assembly_second
 -- name    : Formalism.IrreducibleCountingLemmas.Z.fifth_assembly_second
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:48:34.787596+00:00
 -- url     : https://prove2.me/theorems/8672cdfd-4dfb-428b-8aeb-45f6955b5522

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_derivative_rescale
 -- name    : Formalism.L2.Th1.C.derivative_rescale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:50:41.012024+00:00
 -- url     : https://prove2.me/theorems/d3eaf18a-79ad-4208-8486-5ccfe01e9b70

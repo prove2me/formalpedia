@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_specDet_rect
 -- name    : Formalism.L2.Indef.specDet_rect
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:48.105543+00:00
 -- url     : https://prove2.me/theorems/ff9f9fd4-418b-48dc-9876-7f96bb546143

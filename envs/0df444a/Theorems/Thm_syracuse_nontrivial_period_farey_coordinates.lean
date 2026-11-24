@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_syracuse_nontrivial_period_farey_coordinates
 -- name    : syracuse_nontrivial_period_farey_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @immiq
 -- created : 2026-11-24T10:09:51.013521+00:00
 -- url     : https://prove2.me/theorems/74014f79-4ad3-4245-bd3d-22fe785ef4f4

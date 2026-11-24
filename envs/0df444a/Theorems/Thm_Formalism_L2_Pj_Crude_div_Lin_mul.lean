@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_div_Lin_mul
 -- name    : Formalism.L2.Pj.Crude.div_Lin_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:27.476919+00:00
 -- url     : https://prove2.me/theorems/a8e08706-803e-4888-8c07-5af7b7e2d8be

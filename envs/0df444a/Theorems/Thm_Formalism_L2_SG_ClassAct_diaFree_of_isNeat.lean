@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_ClassAct_diaFree_of_isNeat
 -- name    : Formalism.L2.SG.ClassAct.diaFree_of_isNeat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:46.077504+00:00
 -- url     : https://prove2.me/theorems/cc7bf0c7-8e30-4edc-95ba-0a0ee0f57767

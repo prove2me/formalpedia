@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Cmp_stabStd_iff
 -- name    : Formalism.L2.G.Cmp.stabStd_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:03:46.713802+00:00
 -- url     : https://prove2.me/theorems/36020dfc-7c1a-4372-85e1-f388455b1663

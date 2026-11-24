@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_FS_PLat_pair_div
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.FS.PLat.pair_div
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:58:01.678057+00:00
 -- url     : https://prove2.me/theorems/5d01b537-57fb-492f-a1a4-2d86a996a130

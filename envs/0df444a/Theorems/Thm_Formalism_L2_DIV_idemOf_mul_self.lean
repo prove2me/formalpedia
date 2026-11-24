@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_idemOf_mul_self
 -- name    : Formalism.L2.DIV.idemOf_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:40:46.046915+00:00
 -- url     : https://prove2.me/theorems/7cb642a2-af08-465d-a8ae-bd534fbef404

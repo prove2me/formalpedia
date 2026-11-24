@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_Cart_Vpow_mem
 -- name    : Formalism.L2.FormalSeriesBounds.Cart.Vpow_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:45.007997+00:00
 -- url     : https://prove2.me/theorems/ec4d0133-75df-4584-9953-8e45c105bab7

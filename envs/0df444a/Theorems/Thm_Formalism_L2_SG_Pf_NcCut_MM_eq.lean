@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_NcCut_MM_eq
 -- name    : Formalism.L2.SG.Pf.NcCut.MM_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:23.715783+00:00
 -- url     : https://prove2.me/theorems/ea982386-a589-4d83-bc98-6db1a6a307aa

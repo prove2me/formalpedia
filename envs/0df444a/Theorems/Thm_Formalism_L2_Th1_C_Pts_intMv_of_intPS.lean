@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Pts_intMv_of_intPS
 -- name    : Formalism.L2.Th1.C.Pts.intMv_of_intPS
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:21.35637+00:00
 -- url     : https://prove2.me/theorems/a8969aef-7188-4a19-9ec5-e9ec6adaf292

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_MassRatio_cm_degree_eq
 -- name    : Formalism.L2.SG.MassRatio.cm_degree_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:02.2498+00:00
 -- url     : https://prove2.me/theorems/15d71b95-bb14-48ef-9b25-05a61f7f1c08

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PjFree_epsPt_zero
 -- name    : Formalism.L2.PjFree.epsPt_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:49.342696+00:00
 -- url     : https://prove2.me/theorems/48dcc708-4fd8-4369-9d40-27720a5057e4

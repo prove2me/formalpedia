@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_QuadraticFlow_unit_four
 -- name    : Formalism.L2.Th1.A.QuadraticFlow.unit_four
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:46:15.358676+00:00
 -- url     : https://prove2.me/theorems/cc3a1749-d47b-4e37-a29d-ad98ebed1b6b

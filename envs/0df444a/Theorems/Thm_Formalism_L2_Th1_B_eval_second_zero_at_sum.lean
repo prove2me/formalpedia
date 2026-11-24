@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_eval_second_zero_at_sum
 -- name    : Formalism.L2.Th1.B.eval_second_zero_at_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:51:14.611778+00:00
 -- url     : https://prove2.me/theorems/cce36911-041e-4e38-8dca-501765d7dcfe

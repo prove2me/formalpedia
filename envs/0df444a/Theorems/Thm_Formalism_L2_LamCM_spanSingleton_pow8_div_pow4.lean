@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_spanSingleton_pow8_div_pow4
 -- name    : Formalism.L2.LamCM.spanSingleton_pow8_div_pow4
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:43.366418+00:00
 -- url     : https://prove2.me/theorems/17a8e30b-8787-4b8d-9d15-e56207aa682f

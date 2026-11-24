@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Add0_subst_sigma
 -- name    : Formalism.L2.Th1.B.Add0.subst_sigma
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:06:17.202993+00:00
 -- url     : https://prove2.me/theorems/1ad56857-015d-4fb7-83a7-7a36349517ac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_LocalLatticeBases_linearIndependent_rename_mul
 -- name    : Formalism.L2.GlobalTheoryTheory.LocalLatticeBases.linearIndependent_rename_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:58:15.061105+00:00
 -- url     : https://prove2.me/theorems/2edaca48-d9ca-4cc9-8c9f-119406ba6d3e

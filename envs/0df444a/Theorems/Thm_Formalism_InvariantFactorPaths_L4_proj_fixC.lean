@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_proj_fixC
 -- name    : Formalism.InvariantFactorPaths.L4.proj_fixC
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:32.483983+00:00
 -- url     : https://prove2.me/theorems/e1644928-2204-409e-a23c-97b6d56478d5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_BN_lin_indep
 -- name    : Formalism.IrreducibleCountingLemmas.Z.BN.lin_indep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:48:05.387266+00:00
 -- url     : https://prove2.me/theorems/dbed80e0-eeae-4c4c-9aa1-1b402d1afe6c

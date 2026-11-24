@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_nuOf_le_ellWt
 -- name    : Formalism.L2.G.Model.TS.nuOf_le_ellWt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:29.58533+00:00
 -- url     : https://prove2.me/theorems/69b86016-6cfe-4032-a5d9-cf9cf322ae16

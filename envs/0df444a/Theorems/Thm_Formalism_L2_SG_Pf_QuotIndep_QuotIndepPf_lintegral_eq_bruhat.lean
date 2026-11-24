@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_QuotIndep_QuotIndepPf_lintegral_eq_bruhat
 -- name    : Formalism.L2.SG.Pf.QuotIndep.QuotIndepPf.lintegral_eq_bruhat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:36.98846+00:00
 -- url     : https://prove2.me/theorems/b543818c-b00a-4d48-a3f6-a53a1efbff3f

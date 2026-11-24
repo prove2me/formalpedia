@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_crTele
 -- name    : Formalism.L2.Pj.Crude.crTele
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:59.552167+00:00
 -- url     : https://prove2.me/theorems/6995ca88-793f-46f6-b663-931c3fbf2e60

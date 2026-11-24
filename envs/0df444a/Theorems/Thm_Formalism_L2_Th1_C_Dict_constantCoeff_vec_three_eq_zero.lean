@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Dict_constantCoeff_vec_three_eq_zero
 -- name    : Formalism.L2.Th1.C.Dict.constantCoeff_vec_three_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:05.194807+00:00
 -- url     : https://prove2.me/theorems/e8b96523-f44c-4a6f-a33b-491e92e88eee

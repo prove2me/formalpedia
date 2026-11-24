@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_leadingTermLemmas_Lead_minor
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.leadingTermLemmas.Lead_minor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:35:18.238411+00:00
 -- url     : https://prove2.me/theorems/5a6ab20a-ebed-432d-8492-c082745bb112

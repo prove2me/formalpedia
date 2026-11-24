@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_CubeR_pair_vector_map
 -- name    : Formalism.L2.Th1.A.CubeR.pair_vector_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:37.952366+00:00
 -- url     : https://prove2.me/theorems/02f3b9cf-a783-4ad4-8a9f-88b57dcd5e0f

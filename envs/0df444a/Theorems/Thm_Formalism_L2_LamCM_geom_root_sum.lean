@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_geom_root_sum
 -- name    : Formalism.L2.LamCM.geom_root_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:14.747443+00:00
 -- url     : https://prove2.me/theorems/0ef95da4-8935-4439-a0b9-ff69dd2aa140

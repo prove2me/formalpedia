@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_wtField_of
 -- name    : Formalism.L2.Pj.wtField_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:13.942662+00:00
 -- url     : https://prove2.me/theorems/df7ec114-928b-4edc-95e4-9678efe28a33

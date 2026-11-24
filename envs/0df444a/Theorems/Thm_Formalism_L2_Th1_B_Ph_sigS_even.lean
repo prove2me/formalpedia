@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Ph_sigS_even
 -- name    : Formalism.L2.Th1.B.Ph.sigS_even
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:05.509472+00:00
 -- url     : https://prove2.me/theorems/785773bb-3a0e-4557-8c6f-f809dc62e752

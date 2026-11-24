@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_AvgPf_isFD_of_strict
 -- name    : Formalism.L2.SG.AvgPf.isFD_of_strict
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:06.041121+00:00
 -- url     : https://prove2.me/theorems/ef7f2043-758b-463c-96b7-dc52e356f5ab

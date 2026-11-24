@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Host_CT_idMap_infDiag
 -- name    : Formalism.L2.Host.CT.idMap_infDiag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:35:42.022873+00:00
 -- url     : https://prove2.me/theorems/60544686-d91c-4347-ae82-cea07a10c91d

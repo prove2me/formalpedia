@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_CurveL_fwAt_toL
 -- name    : Formalism.L2.Th1.A.CurveL.fwAt_toL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:36.879951+00:00
 -- url     : https://prove2.me/theorems/7463f804-4943-40bc-a587-f850eafa4c71

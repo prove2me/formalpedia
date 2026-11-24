@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_Cart_Good_bound
 -- name    : Formalism.L2.FormalSeriesBounds.Cart.Good.bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:25.416523+00:00
 -- url     : https://prove2.me/theorems/4af2f2f0-d9ab-4215-891b-fe251723d382

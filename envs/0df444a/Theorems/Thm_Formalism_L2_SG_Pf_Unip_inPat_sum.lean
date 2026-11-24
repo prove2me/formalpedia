@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_Unip_inPat_sum
 -- name    : Formalism.L2.SG.Pf.Unip.inPat_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:57.284723+00:00
 -- url     : https://prove2.me/theorems/b77aff8a-fcd2-4df3-8409-1517cabd1706

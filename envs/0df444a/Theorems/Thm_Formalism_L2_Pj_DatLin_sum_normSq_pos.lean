@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_DatLin_sum_normSq_pos
 -- name    : Formalism.L2.Pj.DatLin.sum_normSq_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:50:05.186984+00:00
 -- url     : https://prove2.me/theorems/a59cbcb0-0973-45f2-a5d9-1be52e956301

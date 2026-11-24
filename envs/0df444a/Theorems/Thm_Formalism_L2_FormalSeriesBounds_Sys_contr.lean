@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_Sys_contr
 -- name    : Formalism.L2.FormalSeriesBounds.Sys.contr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:38.262907+00:00
 -- url     : https://prove2.me/theorems/fc4c98f6-ffc9-4cbe-8c35-92f018cd6ac8

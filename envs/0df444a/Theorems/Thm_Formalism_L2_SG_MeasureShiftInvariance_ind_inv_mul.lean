@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_MeasureShiftInvariance_ind_inv_mul
 -- name    : Formalism.L2.SG.MeasureShiftInvariance.ind_inv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:16.176313+00:00
 -- url     : https://prove2.me/theorems/8e9e275e-f424-47cf-be02-1fc26844b648

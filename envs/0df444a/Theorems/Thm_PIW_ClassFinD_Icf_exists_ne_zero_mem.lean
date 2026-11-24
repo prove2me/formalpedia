@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_ClassFinD_Icf_exists_ne_zero_mem
 -- name    : PIW.ClassFinD.Icf.exists_ne_zero_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:48:24.675809+00:00
 -- url     : https://prove2.me/theorems/a8245030-9b52-4893-bdd7-0fb294b8d86c

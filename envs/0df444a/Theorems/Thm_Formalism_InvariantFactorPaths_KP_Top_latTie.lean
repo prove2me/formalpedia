@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_Top_latTie
 -- name    : Formalism.InvariantFactorPaths.KP.Top.latTie
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:53.926006+00:00
 -- url     : https://prove2.me/theorems/131f8bb4-ee69-4658-a775-12c795187332

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_DatLin_kap_spec
 -- name    : Formalism.L2.Pj.DatLin.kap_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:58.520052+00:00
 -- url     : https://prove2.me/theorems/37fbe27e-0797-441b-8c79-f4d24df3fd69

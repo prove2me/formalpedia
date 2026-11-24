@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_alphaL_eq
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.alphaL_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:05:11.602177+00:00
 -- url     : https://prove2.me/theorems/176c19f8-8a9b-4dec-a75a-51fba4b1a1c2

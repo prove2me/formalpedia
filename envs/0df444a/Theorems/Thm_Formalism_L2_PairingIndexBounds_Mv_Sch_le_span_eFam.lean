@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PairingIndexBounds_Mv_Sch_le_span_eFam
 -- name    : Formalism.L2.PairingIndexBounds.Mv.Sch_le_span_eFam
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:09.80306+00:00
 -- url     : https://prove2.me/theorems/7f51dfc9-2862-4524-9571-fbc1193b257d

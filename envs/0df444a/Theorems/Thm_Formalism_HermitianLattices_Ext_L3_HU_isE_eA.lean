@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_isE_eA
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.isE_eA
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:54.240922+00:00
 -- url     : https://prove2.me/theorems/d9a3a99c-c9e3-4cae-bcd3-83079a6cd22d

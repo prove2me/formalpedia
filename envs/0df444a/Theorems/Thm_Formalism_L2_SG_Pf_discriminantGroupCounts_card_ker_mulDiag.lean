@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_discriminantGroupCounts_card_ker_mulDiag
 -- name    : Formalism.L2.SG.Pf.discriminantGroupCounts.card_ker_mulDiag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:41.294248+00:00
 -- url     : https://prove2.me/theorems/3956f68c-9c40-49b3-8ca5-dc7289ec084b

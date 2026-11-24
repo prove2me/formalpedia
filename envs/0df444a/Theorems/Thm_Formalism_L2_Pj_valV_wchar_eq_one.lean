@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_valV_wchar_eq_one
 -- name    : Formalism.L2.Pj.valV_wchar_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:00.115959+00:00
 -- url     : https://prove2.me/theorems/cd626230-5244-4804-b9eb-5f49a9be0ae4

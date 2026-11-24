@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_AvAlg_mem_adjoin_mod
 -- name    : Formalism.L2.Pj.AvAlg.mem_adjoin_mod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:59.203938+00:00
 -- url     : https://prove2.me/theorems/227a1eb5-cd1e-4f6e-b404-65be8db7b359

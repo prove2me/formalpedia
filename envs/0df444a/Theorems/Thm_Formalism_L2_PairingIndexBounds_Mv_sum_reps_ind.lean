@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PairingIndexBounds_Mv_sum_reps_ind
 -- name    : Formalism.L2.PairingIndexBounds.Mv.sum_reps_ind
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:30.424104+00:00
 -- url     : https://prove2.me/theorems/cccd692c-dc4f-46be-8d7d-8980b7c37d38

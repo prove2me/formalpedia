@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_condition_drop_holds
 -- name    : Formalism.InvariantFactorPaths.L4.condition_drop_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:59:08.098899+00:00
 -- url     : https://prove2.me/theorems/793f492b-c5f7-4945-b989-b5a2d33a5ca7

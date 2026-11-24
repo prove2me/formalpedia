@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_lambda_endomorphism
 -- name    : Formalism.L2.LamCM.lambda_endomorphism
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:14.92202+00:00
 -- url     : https://prove2.me/theorems/ae95c78b-446c-4ce1-b42e-e105f2e7e42b

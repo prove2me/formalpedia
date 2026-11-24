@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Map_map_fExp
 -- name    : Formalism.L2.Th1.B.Map.map_fExp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:51.68097+00:00
 -- url     : https://prove2.me/theorems/8d3dfd99-e4f6-4d78-821c-b32ff9f3280d

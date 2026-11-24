@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_J_gram_rel
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.J.gram_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:54:39.276433+00:00
 -- url     : https://prove2.me/theorems/23f5e420-1a20-4702-b0ef-21147a3e1a23

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_crSig_ne
 -- name    : Formalism.L2.Pj.Crude.crSig_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:00.279414+00:00
 -- url     : https://prove2.me/theorems/f7404da2-34fb-4752-8825-3f73dd54297d

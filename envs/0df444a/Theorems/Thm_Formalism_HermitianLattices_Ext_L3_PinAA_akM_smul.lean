@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_PinAA_akM_smul
 -- name    : Formalism.HermitianLattices.Ext.L3.PinAA.akM_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:46:57.158281+00:00
 -- url     : https://prove2.me/theorems/cfd1da18-574d-4b48-b652-6379fc19eced

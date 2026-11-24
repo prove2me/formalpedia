@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Dict_constantCoeff_vecCons_pair_eq_zero
 -- name    : Formalism.L2.Th1.C.Dict.constantCoeff_vecCons_pair_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:56.581794+00:00
 -- url     : https://prove2.me/theorems/62409bd3-f00a-4755-b61a-d3541612f14b

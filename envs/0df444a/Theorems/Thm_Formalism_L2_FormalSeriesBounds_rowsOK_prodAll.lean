@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_rowsOK_prodAll
 -- name    : Formalism.L2.FormalSeriesBounds.rowsOK_prodAll
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:51:19.361953+00:00
 -- url     : https://prove2.me/theorems/400095eb-995d-467a-87ad-9c3a3b18ace8

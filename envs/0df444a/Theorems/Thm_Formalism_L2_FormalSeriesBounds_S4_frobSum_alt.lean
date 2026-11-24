@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_S4_frobSum_alt
 -- name    : Formalism.L2.FormalSeriesBounds.S4.frobSum_alt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:46:04.109221+00:00
 -- url     : https://prove2.me/theorems/d1d86f85-0e91-4e17-bb4b-5f3e7f5a348f

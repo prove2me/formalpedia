@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_div_iter_pderiv_monomial
 -- name    : Formalism.L2.Pj.Crude.div_iter_pderiv_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:06.094706+00:00
 -- url     : https://prove2.me/theorems/416d0e24-4d5a-40b8-b0c9-ab085a114c9b

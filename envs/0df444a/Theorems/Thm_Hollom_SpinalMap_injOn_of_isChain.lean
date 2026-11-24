@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hollom_SpinalMap_injOn_of_isChain
 -- name    : Hollom.SpinalMap.injOn_of_isChain
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:09:25.291488+00:00
 -- url     : https://prove2.me/theorems/8d22db07-7779-4037-ae4b-3101cba1bbed

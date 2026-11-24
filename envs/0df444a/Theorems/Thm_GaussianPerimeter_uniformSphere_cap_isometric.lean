@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_uniformSphere_cap_isometric
 -- name    : GaussianPerimeter.uniformSphere_cap_isometric
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:09:08.477957+00:00
 -- url     : https://prove2.me/theorems/cda5f736-240a-4baf-8f70-c728f9db5f26

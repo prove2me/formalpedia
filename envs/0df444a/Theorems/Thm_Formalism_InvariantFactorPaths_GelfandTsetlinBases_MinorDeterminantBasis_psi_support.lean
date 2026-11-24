@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_MinorDeterminantBasis_psi_support
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.MinorDeterminantBasis.psi_support
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:35:32.05426+00:00
 -- url     : https://prove2.me/theorems/5b298d83-86f4-4977-b07c-954f5e4940fd

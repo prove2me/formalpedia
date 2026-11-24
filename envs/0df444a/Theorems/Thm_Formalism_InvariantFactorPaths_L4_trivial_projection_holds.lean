@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_trivial_projection_holds
 -- name    : Formalism.InvariantFactorPaths.L4.trivial_projection_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:25.008874+00:00
 -- url     : https://prove2.me/theorems/854b0f7b-12a6-4e42-9cbb-1fbb589974ac

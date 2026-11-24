@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_SatGramLoc_card_quot_split
 -- name    : Formalism.L2.SG.Pf.SatGramLoc.card_quot_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:47:12.155797+00:00
 -- url     : https://prove2.me/theorems/b8e3ce9a-69a5-497b-b68f-8a3a4402aa51

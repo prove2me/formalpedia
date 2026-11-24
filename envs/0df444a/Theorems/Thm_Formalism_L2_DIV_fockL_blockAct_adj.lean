@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_fockL_blockAct_adj
 -- name    : Formalism.L2.DIV.fockL_blockAct_adj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:49.964361+00:00
 -- url     : https://prove2.me/theorems/cd7daa90-c27a-43f9-b6b5-b15839d04943

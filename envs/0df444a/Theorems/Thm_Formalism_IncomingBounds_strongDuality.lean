@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_strongDuality
 -- name    : Formalism.IncomingBounds.strongDuality
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T18:10:18.568802+00:00
 -- url     : https://prove2.me/theorems/61d2673e-65f9-4bb4-8ad0-07ee924104c9

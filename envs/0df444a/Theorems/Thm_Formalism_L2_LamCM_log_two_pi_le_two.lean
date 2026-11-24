@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_log_two_pi_le_two
 -- name    : Formalism.L2.LamCM.log_two_pi_le_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:59.953816+00:00
 -- url     : https://prove2.me/theorems/9801adfe-ebfa-431d-8b61-ca809230bfa8

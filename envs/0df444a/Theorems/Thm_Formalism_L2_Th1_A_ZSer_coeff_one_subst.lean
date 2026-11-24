@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_ZSer_coeff_one_subst
 -- name    : Formalism.L2.Th1.A.ZSer.coeff_one_subst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:53.604738+00:00
 -- url     : https://prove2.me/theorems/d365f8d5-9c38-4c76-844f-929f788c7760

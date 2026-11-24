@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_exists_isom_lift_basis
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.exists_isom_lift_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:02:18.614002+00:00
 -- url     : https://prove2.me/theorems/54d82f38-0519-4a59-9b5e-0b1a0b059a52

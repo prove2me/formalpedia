@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_uPow_natCast
 -- name    : Formalism.L2.Th1.A.uPow_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:47:54.738953+00:00
 -- url     : https://prove2.me/theorems/c6ad4196-9b3d-4ce9-9c0c-5f9d3152c544

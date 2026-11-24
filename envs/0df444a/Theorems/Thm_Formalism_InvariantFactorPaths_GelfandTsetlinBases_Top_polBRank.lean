@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Top_polBRank
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.Top.polBRank
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:14:58.674612+00:00
 -- url     : https://prove2.me/theorems/1fb2c4a4-ac96-449c-a375-8c02e1a1bde3

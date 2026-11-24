@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_incomingBound
 -- name    : Formalism.IncomingBounds.incomingBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:33:07.696383+00:00
 -- url     : https://prove2.me/theorems/c3af6656-0205-45e1-8d16-cde77bd74836

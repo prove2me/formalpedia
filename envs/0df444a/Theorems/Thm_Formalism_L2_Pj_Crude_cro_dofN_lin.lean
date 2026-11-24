@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_cro_dofN_lin
 -- name    : Formalism.L2.Pj.Crude.cro_dofN_lin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:04:33.945802+00:00
 -- url     : https://prove2.me/theorems/1a7b7d57-8198-4816-9cdd-3eb6575b53e4

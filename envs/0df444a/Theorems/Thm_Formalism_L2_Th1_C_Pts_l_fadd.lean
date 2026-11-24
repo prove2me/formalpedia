@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Pts_l_fadd
 -- name    : Formalism.L2.Th1.C.Pts.l_fadd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:06.656454+00:00
 -- url     : https://prove2.me/theorems/d07a1185-4498-45ac-94a9-f78ef9ecfd7e

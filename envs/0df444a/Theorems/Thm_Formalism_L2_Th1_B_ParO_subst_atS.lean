@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_ParO_subst_atS
 -- name    : Formalism.L2.Th1.B.ParO.subst_atS
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:51:04.289426+00:00
 -- url     : https://prove2.me/theorems/4d9f4090-a525-4c3b-a9eb-76f2f5034218

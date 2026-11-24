@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FundamentalDomainD5_theta_dot_self
 -- name    : Formalism.L2.Pj.FundamentalDomainD5.theta_dot_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:42.969192+00:00
 -- url     : https://prove2.me/theorems/1973c8cc-1f46-4321-9efa-500fa338b813

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Sq_rescale_fExp
 -- name    : Formalism.L2.Th1.B.Sq.rescale_fExp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:27.98465+00:00
 -- url     : https://prove2.me/theorems/c8b6e41e-3acc-43f2-9a80-275aa81dc049

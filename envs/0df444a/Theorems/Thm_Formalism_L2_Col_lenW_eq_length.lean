@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_lenW_eq_length
 -- name    : Formalism.L2.Col.lenW_eq_length
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:08:36.306558+00:00
 -- url     : https://prove2.me/theorems/c27ea750-2246-4aaf-b2c8-bd0f89d21f94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PairingIndexBounds_Mv_rhoB_mem
 -- name    : Formalism.L2.PairingIndexBounds.Mv.rhoB_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:55.7468+00:00
 -- url     : https://prove2.me/theorems/e79a493b-1828-49c6-bdc2-cee035efb698

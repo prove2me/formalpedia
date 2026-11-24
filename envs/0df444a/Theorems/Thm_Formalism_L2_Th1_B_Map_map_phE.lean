@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Map_map_phE
 -- name    : Formalism.L2.Th1.B.Map.map_phE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:55.025337+00:00
 -- url     : https://prove2.me/theorems/d936db0e-e0a4-4514-83f2-c4d41ff25d7c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_cvalR_algebraMap
 -- name    : Formalism.L2.Pj.cvalR_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:33.765209+00:00
 -- url     : https://prove2.me/theorems/52a0cb2c-869c-46cd-b293-0d230c2a27d9

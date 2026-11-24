@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_WModel_complete
 -- name    : Formalism.InvariantFactorPaths.G7.WModel.complete
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:56:09.89981+00:00
 -- url     : https://prove2.me/theorems/09402b58-4bba-4203-8090-53cee5802fbc

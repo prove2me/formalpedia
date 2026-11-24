@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Ph_sigmaOneLogPart_even
 -- name    : Formalism.L2.Th1.B.Ph.sigmaOneLogPart_even
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:04:19.113158+00:00
 -- url     : https://prove2.me/theorems/623b906c-bd84-4e9a-86e2-c11bba68f9df

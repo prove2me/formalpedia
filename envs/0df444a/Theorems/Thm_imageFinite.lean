@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_imageFinite
 -- name    : imageFinite
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:09:24.178536+00:00
 -- url     : https://prove2.me/theorems/77d90513-6268-42fa-8393-5a6b3d095d6d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_Weil_QuotInt_fib_mul
 -- name    : Formalism.L2.SG.Pf.Weil.QuotInt.fib_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:20.441068+00:00
 -- url     : https://prove2.me/theorems/fa7ed9a3-6de6-48e4-bf0c-11b5b53d91d3

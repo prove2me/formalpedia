@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PairingIndexBounds_Mv_sum_reps_eq_zero
 -- name    : Formalism.L2.PairingIndexBounds.Mv.sum_reps_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:46.649819+00:00
 -- url     : https://prove2.me/theorems/6f685b8d-fa36-4cbf-9ad6-999d46836aed

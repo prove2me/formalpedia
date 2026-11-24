@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_div_constCoeff_aeval
 -- name    : Formalism.L2.Pj.Crude.div_constCoeff_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:53.313941+00:00
 -- url     : https://prove2.me/theorems/514e06f2-8068-4469-b7a8-50d0c4ba954b

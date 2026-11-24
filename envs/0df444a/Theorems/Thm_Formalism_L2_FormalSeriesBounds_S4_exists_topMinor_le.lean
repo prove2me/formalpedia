@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_S4_exists_topMinor_le
 -- name    : Formalism.L2.FormalSeriesBounds.S4.exists_topMinor_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:35.179801+00:00
 -- url     : https://prove2.me/theorems/d9b3520d-357e-43fd-aff6-c5ec1a282382

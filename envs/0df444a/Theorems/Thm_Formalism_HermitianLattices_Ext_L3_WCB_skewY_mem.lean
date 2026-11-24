@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_WCB_skewY_mem
 -- name    : Formalism.HermitianLattices.Ext.L3.WCB.skewY_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:48:21.500501+00:00
 -- url     : https://prove2.me/theorems/0390f0ff-cac6-4e22-b483-0952c0edcd09

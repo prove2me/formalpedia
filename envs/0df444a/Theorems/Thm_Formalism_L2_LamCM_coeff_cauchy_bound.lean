@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_coeff_cauchy_bound
 -- name    : Formalism.L2.LamCM.coeff_cauchy_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:57.597936+00:00
 -- url     : https://prove2.me/theorems/8adaacc0-1273-499f-b0f8-3a09417eb9ed

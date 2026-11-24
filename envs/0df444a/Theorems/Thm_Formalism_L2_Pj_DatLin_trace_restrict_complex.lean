@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_DatLin_trace_restrict_complex
 -- name    : Formalism.L2.Pj.DatLin.trace_restrict_complex
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:28.857375+00:00
 -- url     : https://prove2.me/theorems/18474b36-1bbb-4b21-985f-b021d91ecd38

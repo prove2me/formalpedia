@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_UnramifiedTrace_comb_du
 -- name    : Formalism.L2.GlobalTheoryTheory.UnramifiedTrace.comb_du
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:01:10.609033+00:00
 -- url     : https://prove2.me/theorems/c942b7c9-55ab-4046-a1d0-2d593980ce7a

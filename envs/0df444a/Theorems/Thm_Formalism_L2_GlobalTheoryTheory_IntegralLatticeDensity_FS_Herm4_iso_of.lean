@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_FS_Herm4_iso_of
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.FS.Herm4.iso_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:13:55.998674+00:00
 -- url     : https://prove2.me/theorems/f1385b45-b5a8-4de7-9e57-5870d68c7cce

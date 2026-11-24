@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NX_charOf_one
 -- name    : Formalism.L2.NX.charOf_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:53.020517+00:00
 -- url     : https://prove2.me/theorems/c6578084-b80a-405c-963c-fa61e28bbf4e

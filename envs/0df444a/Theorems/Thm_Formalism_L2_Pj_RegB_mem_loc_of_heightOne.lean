@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_RegB_mem_loc_of_heightOne
 -- name    : Formalism.L2.Pj.RegB.mem_loc_of_heightOne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:35.333936+00:00
 -- url     : https://prove2.me/theorems/2109b570-db2e-4392-8834-9549abfbc84b

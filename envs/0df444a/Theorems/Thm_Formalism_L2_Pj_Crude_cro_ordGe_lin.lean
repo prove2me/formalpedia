@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_cro_ordGe_lin
 -- name    : Formalism.L2.Pj.Crude.cro_ordGe_lin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:08.995812+00:00
 -- url     : https://prove2.me/theorems/011a2dbb-d68d-4b1c-bc2a-65096c6f1194

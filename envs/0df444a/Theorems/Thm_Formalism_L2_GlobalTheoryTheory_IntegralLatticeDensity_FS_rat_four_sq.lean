@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_FS_rat_four_sq
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.FS.rat_four_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:58:05.790802+00:00
 -- url     : https://prove2.me/theorems/59b0417c-dfb0-4d95-a4b1-dfa0ae7b9085

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_LocalLatticeBases_length_quot_pi_const
 -- name    : Formalism.L2.GlobalTheoryTheory.LocalLatticeBases.length_quot_pi_const
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:58:18.932676+00:00
 -- url     : https://prove2.me/theorems/77b10524-3ad2-4419-bb8d-d57817988d43

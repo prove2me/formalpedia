@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_dz_two
 -- name    : Formalism.L2.Th1.B.dz_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:46:34.3008+00:00
 -- url     : https://prove2.me/theorems/29efa95c-6ee2-49e4-9bab-fb1a40b94319

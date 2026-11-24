@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_RowsOther_noId_idSet
 -- name    : Formalism.L2.SG.RowsOther.noId_idSet
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:46:18.115516+00:00
 -- url     : https://prove2.me/theorems/d1bafaa2-89c9-4eff-a7ef-c696c3c075f1

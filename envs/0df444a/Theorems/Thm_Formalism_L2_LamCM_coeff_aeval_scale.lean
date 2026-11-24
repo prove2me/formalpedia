@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_coeff_aeval_scale
 -- name    : Formalism.L2.LamCM.coeff_aeval_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:59.737948+00:00
 -- url     : https://prove2.me/theorems/eef6d82b-a095-43ca-9708-0a6939448282

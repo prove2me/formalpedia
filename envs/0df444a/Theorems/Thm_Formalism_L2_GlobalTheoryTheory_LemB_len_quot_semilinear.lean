@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_LemB_len_quot_semilinear
 -- name    : Formalism.L2.GlobalTheoryTheory.LemB.len_quot_semilinear
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:58.020906+00:00
 -- url     : https://prove2.me/theorems/a4012384-291f-4f9f-927a-52abffa27cc9

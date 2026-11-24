@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_LocFrM_range_projective
 -- name    : Formalism.L2.Pj.LocFrM.range_projective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:08.280618+00:00
 -- url     : https://prove2.me/theorems/d745a182-ab43-46ab-83ab-92ea6e24e591

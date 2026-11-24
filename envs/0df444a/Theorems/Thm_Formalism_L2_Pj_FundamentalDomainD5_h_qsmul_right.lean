@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FundamentalDomainD5_h_qsmul_right
 -- name    : Formalism.L2.Pj.FundamentalDomainD5.h_qsmul_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:03:52.614492+00:00
 -- url     : https://prove2.me/theorems/c640febd-d086-4566-a63a-b7026b9b7e27

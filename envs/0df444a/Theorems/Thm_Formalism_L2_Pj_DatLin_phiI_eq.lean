@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_DatLin_phiI_eq
 -- name    : Formalism.L2.Pj.DatLin.phiI_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:25.172807+00:00
 -- url     : https://prove2.me/theorems/facb5f1b-bffd-48e5-b574-f9cefd05a0cd

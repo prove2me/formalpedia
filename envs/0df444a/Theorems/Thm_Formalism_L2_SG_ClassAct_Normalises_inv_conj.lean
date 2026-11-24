@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_ClassAct_Normalises_inv_conj
 -- name    : Formalism.L2.SG.ClassAct.Normalises.inv_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:48.249842+00:00
 -- url     : https://prove2.me/theorems/7c54401f-1147-4afb-91db-95d19d9c77d1

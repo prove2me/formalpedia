@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_LemB_len_pi_sum
 -- name    : Formalism.L2.GlobalTheoryTheory.LemB.len_pi_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:58:09.747571+00:00
 -- url     : https://prove2.me/theorems/e9d92687-6496-461b-8e54-263d2dd92130

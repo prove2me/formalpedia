@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Bridge_integral_map
 -- name    : Formalism.L2.Th1.A.Bridge.integral_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:47:18.834032+00:00
 -- url     : https://prove2.me/theorems/f61764a4-1c63-4d4f-97e9-af032312208c

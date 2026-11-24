@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_Sys_co_spec
 -- name    : Formalism.L2.FormalSeriesBounds.Sys.co_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:50.836818+00:00
 -- url     : https://prove2.me/theorems/b85bd2cd-a810-48b4-91b1-f82a1a768115

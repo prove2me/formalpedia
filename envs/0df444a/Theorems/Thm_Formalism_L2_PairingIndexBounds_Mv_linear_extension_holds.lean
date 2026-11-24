@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PairingIndexBounds_Mv_linear_extension_holds
 -- name    : Formalism.L2.PairingIndexBounds.Mv.linear_extension_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:10.775514+00:00
 -- url     : https://prove2.me/theorems/50c1c8a5-6c46-46ba-bb92-1cc9c77b165a

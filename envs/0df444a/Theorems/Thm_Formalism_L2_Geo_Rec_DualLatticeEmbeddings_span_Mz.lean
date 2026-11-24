@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Geo_Rec_DualLatticeEmbeddings_span_Mz
 -- name    : Formalism.L2.Geo.Rec.DualLatticeEmbeddings.span_Mz
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:35:43.406674+00:00
 -- url     : https://prove2.me/theorems/74d4db04-1027-4e7f-88ab-c37e000996a1

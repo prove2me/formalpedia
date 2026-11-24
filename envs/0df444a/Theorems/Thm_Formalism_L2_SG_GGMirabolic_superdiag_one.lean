@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_GGMirabolic_superdiag_one
 -- name    : Formalism.L2.SG.GGMirabolic.superdiag_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:23.252372+00:00
 -- url     : https://prove2.me/theorems/464438e6-21ac-4725-bb16-899cebae2f2b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_NormCut_fForm_right
 -- name    : Formalism.L2.SG.NormCut.fForm_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:45.3759+00:00
 -- url     : https://prove2.me/theorems/b50f82e3-9068-4625-a6ef-a643b49ee2d7

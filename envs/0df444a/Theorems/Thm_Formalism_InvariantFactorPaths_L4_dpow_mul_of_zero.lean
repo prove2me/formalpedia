@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_dpow_mul_of_zero
 -- name    : Formalism.InvariantFactorPaths.L4.dpow_mul_of_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:59:23.79668+00:00
 -- url     : https://prove2.me/theorems/76dcc218-0f4b-40a2-bbc1-ef93dd6b2ee1

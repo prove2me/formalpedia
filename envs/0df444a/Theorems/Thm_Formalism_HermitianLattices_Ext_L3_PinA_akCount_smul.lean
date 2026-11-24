@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_PinA_akCount_smul
 -- name    : Formalism.HermitianLattices.Ext.L3.PinA.akCount_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:55.174684+00:00
 -- url     : https://prove2.me/theorems/3b86b321-0f1e-4347-8909-f393ad2f57c6

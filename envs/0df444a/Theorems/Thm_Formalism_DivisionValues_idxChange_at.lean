@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_idxChange_at
 -- name    : Formalism.DivisionValues.idxChange_at
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:05:53.167123+00:00
 -- url     : https://prove2.me/theorems/b10d1dd0-b4f5-4829-af21-740605a11618

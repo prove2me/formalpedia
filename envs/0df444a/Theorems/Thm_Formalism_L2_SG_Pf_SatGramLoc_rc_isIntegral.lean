@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_SatGramLoc_rc_isIntegral
 -- name    : Formalism.L2.SG.Pf.SatGramLoc.rc_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:23.433378+00:00
 -- url     : https://prove2.me/theorems/f87a0042-cca5-4782-92eb-b9ecfbec6f7a

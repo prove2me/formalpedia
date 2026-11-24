@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_Lin_linForm
 -- name    : Formalism.L2.Pj.Crude.Lin_linForm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:31.005272+00:00
 -- url     : https://prove2.me/theorems/13afdf40-2b11-44e2-bad8-e71176fcf592

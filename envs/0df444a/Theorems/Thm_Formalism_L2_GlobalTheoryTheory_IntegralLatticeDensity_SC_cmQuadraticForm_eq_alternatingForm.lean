@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_SC_cmQuadraticForm_eq_alternatingForm
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.SC.cmQuadraticForm_eq_alternatingForm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:59:31.088305+00:00
 -- url     : https://prove2.me/theorems/04e10d53-6ac3-4faf-9ab4-7c69b682c44f

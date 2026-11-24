@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_A2_detSub_mono
 -- name    : Formalism.L2.LamCM.A2.detSub_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:31.077181+00:00
 -- url     : https://prove2.me/theorems/0eb284b8-d6a1-49f6-81fc-0e5d43f9536d

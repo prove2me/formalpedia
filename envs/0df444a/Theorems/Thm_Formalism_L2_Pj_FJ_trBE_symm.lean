@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FJ_trBE_symm
 -- name    : Formalism.L2.Pj.FJ.trBE_symm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:30.255945+00:00
 -- url     : https://prove2.me/theorems/fe683506-5169-4134-b76f-4c90dc8c9473

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_intFr_of_model
 -- name    : Formalism.L2.Pj.intFr_of_model
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:13.014341+00:00
 -- url     : https://prove2.me/theorems/c3cc4fb5-8457-4140-82a4-e6b1ec9dc957

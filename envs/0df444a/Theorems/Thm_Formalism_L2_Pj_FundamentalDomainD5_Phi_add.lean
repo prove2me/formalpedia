@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FundamentalDomainD5_Phi_add
 -- name    : Formalism.L2.Pj.FundamentalDomainD5.Phi_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:34.996174+00:00
 -- url     : https://prove2.me/theorems/04bab339-049b-4102-9fcc-968dcc8e55e0

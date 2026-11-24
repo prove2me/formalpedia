@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_GGMirabolic_Inhab_cardU_pos
 -- name    : Formalism.L2.SG.GGMirabolic.Inhab.cardU_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:45.388696+00:00
 -- url     : https://prove2.me/theorems/2b7f1a66-256f-455e-a316-f179bb13bf90

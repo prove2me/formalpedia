@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_NGCut_TorsionTotientBound_mem_torsion_of_mul_conj
 -- name    : Formalism.L2.SG.NGCut.TorsionTotientBound.mem_torsion_of_mul_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:18.059289+00:00
 -- url     : https://prove2.me/theorems/a855b752-dfa9-42ba-b98d-0b63e535b032

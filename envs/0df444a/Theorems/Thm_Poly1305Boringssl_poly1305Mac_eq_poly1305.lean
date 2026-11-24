@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Poly1305Boringssl_poly1305Mac_eq_poly1305
 -- name    : Poly1305Boringssl.poly1305Mac_eq_poly1305
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-24T10:08:29.836994+00:00
 -- url     : https://prove2.me/theorems/0800eb07-48da-4a4b-966d-b8e7d8f98495

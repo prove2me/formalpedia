@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_finrank_atW
 -- name    : Formalism.L2.Col.finrank_atW
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:08:38.364227+00:00
 -- url     : https://prove2.me/theorems/5a08c718-40e3-4077-adb3-3f7f511c4951

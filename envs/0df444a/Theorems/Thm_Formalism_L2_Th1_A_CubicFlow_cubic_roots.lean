@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_CubicFlow_cubic_roots
 -- name    : Formalism.L2.Th1.A.CubicFlow.cubic_roots
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:53.884804+00:00
 -- url     : https://prove2.me/theorems/bd25df09-f1c5-4fe5-9af8-8ee85e427f36

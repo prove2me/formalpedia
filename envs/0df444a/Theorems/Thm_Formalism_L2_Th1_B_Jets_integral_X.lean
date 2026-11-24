@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Jets_integral_X
 -- name    : Formalism.L2.Th1.B.Jets.integral_X
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:45.42384+00:00
 -- url     : https://prove2.me/theorems/e50dcc49-8015-4223-a9c3-ab570f4da9da

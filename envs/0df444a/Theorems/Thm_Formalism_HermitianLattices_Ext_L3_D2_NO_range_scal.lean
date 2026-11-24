@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_NO_range_scal
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.NO.range_scal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:44:38.402166+00:00
 -- url     : https://prove2.me/theorems/dabd0255-069c-497b-bf98-220526e01e24

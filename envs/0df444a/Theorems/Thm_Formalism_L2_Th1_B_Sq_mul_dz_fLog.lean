@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Sq_mul_dz_fLog
 -- name    : Formalism.L2.Th1.B.Sq.mul_dz_fLog
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:58.400021+00:00
 -- url     : https://prove2.me/theorems/553e6ecd-f5b7-4b19-a856-3a47318246a3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_typeProj_polC
 -- name    : Formalism.InvariantFactorPaths.L4.typeProj_polC
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:43:40.73885+00:00
 -- url     : https://prove2.me/theorems/8ffd7763-5009-447b-a887-63caa0ca2634

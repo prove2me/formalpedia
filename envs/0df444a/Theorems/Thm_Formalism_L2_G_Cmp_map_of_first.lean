@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Cmp_map_of_first
 -- name    : Formalism.L2.G.Cmp.map_of_first
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:53:39.969898+00:00
 -- url     : https://prove2.me/theorems/b34393cf-b192-480c-b8a0-9cb8919c1eac

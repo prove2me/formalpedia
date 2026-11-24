@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_nO_unif_pow
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.nO_unif_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:41:58.164252+00:00
 -- url     : https://prove2.me/theorems/d01b070a-8509-41c2-8253-3ca1a01b889b

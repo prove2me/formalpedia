@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RawChart_hLf_swap
 -- name    : Formalism.L2.FormalSeriesBounds.RawChart.hLf_swap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:51:13.337802+00:00
 -- url     : https://prove2.me/theorems/66034831-2091-4102-96bb-dadbbc2cc829

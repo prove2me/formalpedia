@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_dimSq
 -- name    : Formalism.IndefR.LatticeTransfer.dimSq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:19:19.094218+00:00
 -- url     : https://prove2.me/theorems/cb9d9fe1-1201-4231-82b9-e2c29ad8b50e

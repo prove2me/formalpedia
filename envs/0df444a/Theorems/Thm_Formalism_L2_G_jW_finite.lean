@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_jW_finite
 -- name    : Formalism.L2.G.jW_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:32.264533+00:00
 -- url     : https://prove2.me/theorems/2b450a26-f8af-4406-a97e-0e7090dfb207

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_FS_Herm4_ortho_basis
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.FS.Herm4.ortho_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:51.737814+00:00
 -- url     : https://prove2.me/theorems/f7643117-04aa-4a38-b86c-7aeeb7d53649

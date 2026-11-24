@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_div_ordGe_pow
 -- name    : Formalism.L2.Pj.Crude.div_ordGe_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:28.274904+00:00
 -- url     : https://prove2.me/theorems/5b3c6567-e740-4297-89f3-cc83a8d513c5

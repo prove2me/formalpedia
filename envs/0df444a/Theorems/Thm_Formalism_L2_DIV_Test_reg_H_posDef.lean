@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_Test_reg_H_posDef
 -- name    : Formalism.L2.DIV.Test.reg_H_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:42:57.379009+00:00
 -- url     : https://prove2.me/theorems/51642f57-500a-42fe-b98e-25038dab78d6

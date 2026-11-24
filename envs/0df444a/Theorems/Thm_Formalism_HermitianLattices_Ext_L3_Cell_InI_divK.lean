@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_Cell_InI_divK
 -- name    : Formalism.HermitianLattices.Ext.L3.Cell.InI.divK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:46:01.41788+00:00
 -- url     : https://prove2.me/theorems/0db8f821-5bae-4b9a-a0ed-aea2e923f2fc

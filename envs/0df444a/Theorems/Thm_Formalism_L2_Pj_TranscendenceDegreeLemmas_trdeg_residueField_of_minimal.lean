@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_TranscendenceDegreeLemmas_trdeg_residueField_of_minimal
 -- name    : Formalism.L2.Pj.TranscendenceDegreeLemmas.trdeg_residueField_of_minimal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:32.936413+00:00
 -- url     : https://prove2.me/theorems/ce3a631f-9502-427c-911d-678598fcae5a

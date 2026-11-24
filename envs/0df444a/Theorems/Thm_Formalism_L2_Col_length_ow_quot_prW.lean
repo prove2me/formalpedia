@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_length_ow_quot_prW
 -- name    : Formalism.L2.Col.length_ow_quot_prW
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:12.573835+00:00
 -- url     : https://prove2.me/theorems/332b6606-ff74-405d-9900-528f909c9c90

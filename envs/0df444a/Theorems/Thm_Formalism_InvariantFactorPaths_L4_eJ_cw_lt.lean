@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_eJ_cw_lt
 -- name    : Formalism.InvariantFactorPaths.L4.eJ_cw_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:59:23.565897+00:00
 -- url     : https://prove2.me/theorems/e9405c0c-56ce-461f-be48-b8eeecf0a549

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Jets_inv_mul_dz
 -- name    : Formalism.L2.Th1.B.Jets.inv_mul_dz
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:49.140775+00:00
 -- url     : https://prove2.me/theorems/b1988556-1726-4537-a93c-e4246198c11e

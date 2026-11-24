@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_SatGramLoc_ram_inertia_sub
 -- name    : Formalism.L2.SG.Pf.SatGramLoc.ram_inertia_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:56.854492+00:00
 -- url     : https://prove2.me/theorems/c8037de1-fa65-4f00-8d89-fb6f3ad9681f

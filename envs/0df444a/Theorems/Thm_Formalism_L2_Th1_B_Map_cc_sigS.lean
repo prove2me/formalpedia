@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Map_cc_sigS
 -- name    : Formalism.L2.Th1.B.Map.cc_sigS
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:47:44.052809+00:00
 -- url     : https://prove2.me/theorems/d3868bfb-5010-42c6-b3f5-96ddf3cc24a9

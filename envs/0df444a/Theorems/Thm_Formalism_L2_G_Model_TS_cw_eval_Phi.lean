@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_cw_eval_Phi
 -- name    : Formalism.L2.G.Model.TS.cw_eval_Phi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:54:56.395496+00:00
 -- url     : https://prove2.me/theorems/b143f050-ecdc-4e7c-bf3b-c78ce3fb3932

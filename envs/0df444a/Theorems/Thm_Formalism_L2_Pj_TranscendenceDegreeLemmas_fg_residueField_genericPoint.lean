@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_TranscendenceDegreeLemmas_fg_residueField_genericPoint
 -- name    : Formalism.L2.Pj.TranscendenceDegreeLemmas.fg_residueField_genericPoint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:28.279214+00:00
 -- url     : https://prove2.me/theorems/a5551da9-c1bf-4300-b375-384d9de473be

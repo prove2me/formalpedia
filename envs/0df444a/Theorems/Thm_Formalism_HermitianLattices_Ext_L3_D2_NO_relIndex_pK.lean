@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_NO_relIndex_pK
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.NO.relIndex_pK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:45:32.350739+00:00
 -- url     : https://prove2.me/theorems/a42dae25-f759-47ab-b175-c6ac3c13aa64

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_flowNegUW
 -- name    : Formalism.L2.Th1.A.flowNegUW
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:02.733225+00:00
 -- url     : https://prove2.me/theorems/7f14551d-781a-4443-938a-3857c95eb980

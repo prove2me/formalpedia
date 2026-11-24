@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_LocalLatticeBases_leftCoeff_rename_mul
 -- name    : Formalism.L2.GlobalTheoryTheory.LocalLatticeBases.leftCoeff_rename_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:58:10.008194+00:00
 -- url     : https://prove2.me/theorems/0a8aa090-bb1e-4aaf-ab01-1ef4f252b6a7

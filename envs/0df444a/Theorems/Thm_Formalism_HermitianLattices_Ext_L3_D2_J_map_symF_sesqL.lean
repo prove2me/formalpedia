@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_J_map_symF_sesqL
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.J.map_symF_sesqL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:54:35.649717+00:00
 -- url     : https://prove2.me/theorems/650367f1-6180-4076-b07a-bdc6a860de67

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_crRho_coeff
 -- name    : Formalism.L2.Pj.Crude.crRho_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:07.508144+00:00
 -- url     : https://prove2.me/theorems/b22cd3b0-6b08-4770-aa61-1ad9071b4d16

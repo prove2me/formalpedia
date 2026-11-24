@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_WpSh_sum_even
 -- name    : Formalism.L2.Th1.A.WpSh.sum_even
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:00.031792+00:00
 -- url     : https://prove2.me/theorems/58dc4ead-b605-4a7d-91ed-edaf59e80d35

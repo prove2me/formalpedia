@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_exp_biv
 -- name    : Formalism.L2.Th1.B.exp_biv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:46:48.506256+00:00
 -- url     : https://prove2.me/theorems/ccbd9cec-a4ca-40ff-898f-f9f1732f7ab3

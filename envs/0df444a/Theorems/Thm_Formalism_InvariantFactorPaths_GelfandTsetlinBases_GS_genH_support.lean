@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_GS_genH_support
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.GS.genH_support
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:59:54.595219+00:00
 -- url     : https://prove2.me/theorems/2c601763-6de6-4312-821f-77f654652611

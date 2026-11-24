@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_NormCut_PsiNatEquivPf_norm_addChar
 -- name    : Formalism.L2.SG.NormCut.PsiNatEquivPf.norm_addChar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:51.82229+00:00
 -- url     : https://prove2.me/theorems/fffe0765-8f1b-47cb-8161-eda9451aad92

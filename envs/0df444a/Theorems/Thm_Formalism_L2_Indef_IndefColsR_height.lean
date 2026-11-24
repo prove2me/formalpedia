@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_IndefColsR_height
 -- name    : Formalism.L2.Indef.IndefColsR.height
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:35:42.495617+00:00
 -- url     : https://prove2.me/theorems/0e0548ab-984d-43e8-8a38-569d19579a12

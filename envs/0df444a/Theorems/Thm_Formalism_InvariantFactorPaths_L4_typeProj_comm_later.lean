@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_typeProj_comm_later
 -- name    : Formalism.InvariantFactorPaths.L4.typeProj_comm_later
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:35:09.59752+00:00
 -- url     : https://prove2.me/theorems/9d5883a5-7f46-48e2-b9d1-85d6967b54bb

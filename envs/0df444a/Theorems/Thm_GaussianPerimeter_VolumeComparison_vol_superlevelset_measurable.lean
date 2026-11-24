@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_VolumeComparison_vol_superlevelset_measurable
 -- name    : GaussianPerimeter.VolumeComparison.vol_superlevelset_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:09:17.044589+00:00
 -- url     : https://prove2.me/theorems/38fb358d-7d9e-4b6d-95cd-b9341c97c766

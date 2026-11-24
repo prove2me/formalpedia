@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_decomposition_of_hh
 -- name    : Formalism.InvariantFactorPaths.G7.decomposition_of_hh
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:12:28.671846+00:00
 -- url     : https://prove2.me/theorems/d76db16a-e9a5-4ac7-a59c-a9a6597c7708

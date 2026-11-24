@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_le_one_of_count_nonneg
 -- name    : Formalism.L2.LamCM.le_one_of_count_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:04:07.885796+00:00
 -- url     : https://prove2.me/theorems/44bcde9e-83b4-4cf3-a441-d48ff5fa3886

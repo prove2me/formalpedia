@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Clo_constantCoeff_addDefect
 -- name    : Formalism.L2.Th1.C.Clo.constantCoeff_addDefect
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:50.113819+00:00
 -- url     : https://prove2.me/theorems/f49b0fef-d215-4625-9e45-5a0bbbc64bfd

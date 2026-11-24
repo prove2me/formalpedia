@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_WpSh_C_neg_three
 -- name    : Formalism.L2.Th1.A.WpSh.C_neg_three
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:36.69078+00:00
 -- url     : https://prove2.me/theorems/0f45e0ce-050d-4a13-9f81-ddcebea96f8e

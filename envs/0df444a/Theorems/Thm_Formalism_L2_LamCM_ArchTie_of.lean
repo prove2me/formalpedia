@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_ArchTie_of
 -- name    : Formalism.L2.LamCM.ArchTie_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:18.451141+00:00
 -- url     : https://prove2.me/theorems/f6b369dc-8576-4743-815f-75b76059d4f8

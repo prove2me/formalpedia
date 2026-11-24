@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_WpSh_wpL_eq
 -- name    : Formalism.L2.Th1.A.WpSh.wpL_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:56.394506+00:00
 -- url     : https://prove2.me/theorems/f839a848-f2f2-4d7a-8d8b-d958501e54df

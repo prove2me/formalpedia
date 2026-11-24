@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_A2_prod_mul_le_detIdeal
 -- name    : Formalism.L2.LamCM.A2.prod_mul_le_detIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:51.299541+00:00
 -- url     : https://prove2.me/theorems/8cf1436d-94c4-401b-bcb3-ba40d965eaac

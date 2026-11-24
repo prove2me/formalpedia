@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_dwork_multivariable
 -- name    : Formalism.InvariantFactorPaths.G7.dwork_multivariable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:27:07.740085+00:00
 -- url     : https://prove2.me/theorems/687b9818-c212-4018-8c88-572b8d10f2ed

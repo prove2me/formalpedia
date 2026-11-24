@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_vG_incG
 -- name    : Formalism.L2.Pj.vG_incG
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:55.903922+00:00
 -- url     : https://prove2.me/theorems/9723f90a-9781-47eb-932c-16d518904bbc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_cube_simeq_subst1
 -- name    : Formalism.L2.Th1.B.cube_simeq_subst1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:48:36.085069+00:00
 -- url     : https://prove2.me/theorems/46a81a5c-eaff-46dd-8f64-7ac0352a780d

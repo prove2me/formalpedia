@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FundamentalDomainD5_lattice_zbasis
 -- name    : Formalism.L2.Pj.FundamentalDomainD5.lattice_zbasis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:04:13.525891+00:00
 -- url     : https://prove2.me/theorems/2b355b8f-34b8-4942-a830-b1687982b81d

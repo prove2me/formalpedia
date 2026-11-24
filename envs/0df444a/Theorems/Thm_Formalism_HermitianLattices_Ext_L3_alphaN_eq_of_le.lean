@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_alphaN_eq_of_le
 -- name    : Formalism.HermitianLattices.Ext.L3.alphaN_eq_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:51:51.036802+00:00
 -- url     : https://prove2.me/theorems/6b292877-b9ca-496e-8b22-31fa5200fb69

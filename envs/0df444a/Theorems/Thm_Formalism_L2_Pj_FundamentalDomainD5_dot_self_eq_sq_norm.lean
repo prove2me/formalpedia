@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FundamentalDomainD5_dot_self_eq_sq_norm
 -- name    : Formalism.L2.Pj.FundamentalDomainD5.dot_self_eq_sq_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:36.361824+00:00
 -- url     : https://prove2.me/theorems/d1434b1a-678e-44e7-90bb-9f18c5b830ad

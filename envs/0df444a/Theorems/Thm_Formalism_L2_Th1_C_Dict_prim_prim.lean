@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Dict_prim_prim
 -- name    : Formalism.L2.Th1.C.Dict.prim_prim
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:48.703801+00:00
 -- url     : https://prove2.me/theorems/42c532b9-ee7d-4391-94d6-3dafab47b691

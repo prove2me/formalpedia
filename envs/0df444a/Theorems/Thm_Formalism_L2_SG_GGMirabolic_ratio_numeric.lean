@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_GGMirabolic_ratio_numeric
 -- name    : Formalism.L2.SG.GGMirabolic.ratio_numeric
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:18.38637+00:00
 -- url     : https://prove2.me/theorems/d5c1e55f-19f7-4d47-bec9-5d6c8d471e75

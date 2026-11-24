@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FJ_cM_transpose
 -- name    : Formalism.L2.Pj.FJ.cM_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:30.10223+00:00
 -- url     : https://prove2.me/theorems/58ceb69f-1aee-4dfc-ad28-391cec3b77af

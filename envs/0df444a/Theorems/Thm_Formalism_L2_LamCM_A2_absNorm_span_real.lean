@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_A2_absNorm_span_real
 -- name    : Formalism.L2.LamCM.A2.absNorm_span_real
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:03:30.840713+00:00
 -- url     : https://prove2.me/theorems/fb223445-e775-4f52-924f-a6c5511416ad

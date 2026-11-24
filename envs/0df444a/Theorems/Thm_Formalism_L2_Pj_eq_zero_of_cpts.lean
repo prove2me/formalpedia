@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_eq_zero_of_cpts
 -- name    : Formalism.L2.Pj.eq_zero_of_cpts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:44.166658+00:00
 -- url     : https://prove2.me/theorems/e0a0124a-1199-49bd-a428-f277d33bb280

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_TW_Idx_relLen_ne_top_of_le
 -- name    : Formalism.IrreducibleCountingLemmas.TW.Idx.relLen_ne_top_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:20.296088+00:00
 -- url     : https://prove2.me/theorems/5484aa76-168d-4cba-933c-cd8c9aa360b0

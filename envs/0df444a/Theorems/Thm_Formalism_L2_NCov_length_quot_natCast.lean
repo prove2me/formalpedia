@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NCov_length_quot_natCast
 -- name    : Formalism.L2.NCov.length_quot_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:43.458718+00:00
 -- url     : https://prove2.me/theorems/206d2767-55fe-4669-86fe-99d20ff7509d

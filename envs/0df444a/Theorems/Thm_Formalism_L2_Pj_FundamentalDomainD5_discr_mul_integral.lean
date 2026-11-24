@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FundamentalDomainD5_discr_mul_integral
 -- name    : Formalism.L2.Pj.FundamentalDomainD5.discr_mul_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:17.493349+00:00
 -- url     : https://prove2.me/theorems/a43859b4-ddf1-42f1-bd7d-52556a7d11cb

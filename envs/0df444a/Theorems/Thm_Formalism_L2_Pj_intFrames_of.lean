@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_intFrames_of
 -- name    : Formalism.L2.Pj.intFrames_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:05.670856+00:00
 -- url     : https://prove2.me/theorems/3e3a5324-07df-4be1-96a5-06559ea0b075

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_Top_pairStep
 -- name    : Formalism.InvariantFactorPaths.KP.Top.pairStep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:59:31.621014+00:00
 -- url     : https://prove2.me/theorems/4023e88a-8838-4dba-b4b4-a314441f0af4

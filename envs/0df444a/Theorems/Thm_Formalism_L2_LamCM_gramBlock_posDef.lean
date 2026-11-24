@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_gramBlock_posDef
 -- name    : Formalism.L2.LamCM.gramBlock_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:37.701799+00:00
 -- url     : https://prove2.me/theorems/3043a0f8-0bf0-47b1-85fd-a2a4017614b8

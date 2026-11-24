@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatEx_exists_coord
 -- name    : Formalism.L2.SG.Pf.LatEx.exists_coord
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:37.09447+00:00
 -- url     : https://prove2.me/theorems/7d9dafa1-0e7e-45bb-9d88-a8da715321be

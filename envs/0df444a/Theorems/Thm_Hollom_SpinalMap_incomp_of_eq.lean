@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hollom_SpinalMap_incomp_of_eq
 -- name    : Hollom.SpinalMap.incomp_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:09:39.289703+00:00
 -- url     : https://prove2.me/theorems/40c8e84a-2de7-44fa-a6eb-45c3b1b7c3bc

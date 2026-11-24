@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FJ_crdI_span
 -- name    : Formalism.L2.Pj.FJ.crdI_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:14.70086+00:00
 -- url     : https://prove2.me/theorems/6cee15c4-85f7-4e92-9563-f3a939542c0f

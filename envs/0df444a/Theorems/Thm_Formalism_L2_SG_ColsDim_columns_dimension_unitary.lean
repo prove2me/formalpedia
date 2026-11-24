@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_ColsDim_columns_dimension_unitary
 -- name    : Formalism.L2.SG.ColsDim.columns_dimension_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:24.446905+00:00
 -- url     : https://prove2.me/theorems/c3327f96-9590-48ed-adb9-c7913f0ce06d

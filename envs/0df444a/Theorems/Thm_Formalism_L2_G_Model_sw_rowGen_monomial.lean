@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_sw_rowGen_monomial
 -- name    : Formalism.L2.G.Model.sw_rowGen_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:51.21357+00:00
 -- url     : https://prove2.me/theorems/f0585506-c5dd-48b8-870d-d3fe6b018d07

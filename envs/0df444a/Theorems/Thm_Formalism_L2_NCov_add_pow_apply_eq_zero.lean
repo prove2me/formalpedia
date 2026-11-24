@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NCov_add_pow_apply_eq_zero
 -- name    : Formalism.L2.NCov.add_pow_apply_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:35:48.082237+00:00
 -- url     : https://prove2.me/theorems/ed7f40d0-3c9b-41d6-bff9-c2e1b07af4fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_mem_of_add_mem
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.mem_of_add_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:47:16.033472+00:00
 -- url     : https://prove2.me/theorems/0587cbbc-db32-455b-bbad-6b64d610bf72

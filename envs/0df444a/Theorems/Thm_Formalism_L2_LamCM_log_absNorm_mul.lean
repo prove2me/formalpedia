@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_log_absNorm_mul
 -- name    : Formalism.L2.LamCM.log_absNorm_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:01.614038+00:00
 -- url     : https://prove2.me/theorems/9cb2a1cd-9677-4309-b382-571156aa9b0e

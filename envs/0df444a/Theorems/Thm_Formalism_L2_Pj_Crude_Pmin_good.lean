@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_Pmin_good
 -- name    : Formalism.L2.Pj.Crude.Pmin_good
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:59.249934+00:00
 -- url     : https://prove2.me/theorems/a4d307d8-8e85-41c7-8425-338c13c831e5

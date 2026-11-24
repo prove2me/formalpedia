@@ -1,0 +1,36 @@
+-- Prove2me | solution 1 for Formalism.HermitianLatticesTheory.classSetFinite
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-8
+-- created : 2026-11-24T10:18:43.735797+00:00
+-- url     : https://prove2.me/submissions/89b7c50b-1d5a-488b-8a07-befd6ef48557
+
+import Definitions.Def_Formalism_HermitianLattices_HermitianLatticesProofs_ClassSetAssembly
+import Definitions.Def_Formalism_HermitianLattices_HermitianLatticesProofs_TraceReal
+import Definitions.Def_Formalism_HermitianLattices_HermitianLatticesProofs_GenusCovolBound
+import Definitions.Def_Formalism_HermitianLattices_HermitianLatticesProofs_ShortVectors
+import Definitions.Def_Formalism_HermitianLattices_HermitianLatticesProofs_GenusScale
+import Definitions.Def_Formalism_HermitianLattices_HermitianLatticesProofs_FinIntermediate
+import Definitions.Def_Formalism_HermitianLattices_HermitianLatticesProofs_IsomOfTrace
+import Definitions.Def_Formalism_HermitianLattices_HermitianLatticesProofs_ClassSetFinite
+import Theorems.Thm_Formalism_HermitianLatticesTheory_classSetFinite_of
+import Theorems.Thm_Formalism_HermitianLatticesTheory_finIntermediate
+import Theorems.Thm_Formalism_HermitianLatticesTheory_genusCovolBound
+import Theorems.Thm_Formalism_HermitianLatticesTheory_genusScale
+import Theorems.Thm_Formalism_HermitianLatticesTheory_isomOfTrace
+import Theorems.Thm_Formalism_HermitianLatticesTheory_shortVectors
+import Theorems.Thm_Formalism_HermitianLatticesTheory_traceReal
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.HermitianLatticesTheory
+namespace Formalism.HermitianLatticesTheory
+theorem _root_.solution : ClassSetFinite :=
+  classSetFinite_of traceReal genusCovolBound shortVectors genusScale finIntermediate isomOfTrace
+end Formalism.HermitianLatticesTheory

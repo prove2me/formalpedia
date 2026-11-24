@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_valuation_algebraMap_eq
 -- name    : Formalism.L2.LamCM.valuation_algebraMap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:03.769377+00:00
 -- url     : https://prove2.me/theorems/d44a1ec0-b32a-47c9-9624-252f7667b7b6

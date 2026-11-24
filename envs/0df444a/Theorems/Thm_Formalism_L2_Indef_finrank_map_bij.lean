@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_finrank_map_bij
 -- name    : Formalism.L2.Indef.finrank_map_bij
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:53.350892+00:00
 -- url     : https://prove2.me/theorems/ac915044-636f-4d64-9149-9a0090935dbe

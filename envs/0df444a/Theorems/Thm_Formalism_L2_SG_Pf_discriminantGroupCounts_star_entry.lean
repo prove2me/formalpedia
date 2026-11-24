@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_discriminantGroupCounts_star_entry
 -- name    : Formalism.L2.SG.Pf.discriminantGroupCounts.star_entry
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:26.637393+00:00
 -- url     : https://prove2.me/theorems/c1300e1c-91cd-4b97-b19e-a53be7c87f9b

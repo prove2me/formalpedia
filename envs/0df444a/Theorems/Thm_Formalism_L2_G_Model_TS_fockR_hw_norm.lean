@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_fockR_hw_norm
 -- name    : Formalism.L2.G.Model.TS.fockR_hw_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:27.265992+00:00
 -- url     : https://prove2.me/theorems/f7318e57-b0b9-40a6-a251-34a6b063263a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_Top_weylGT
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.Top.weylGT
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:13:03.531187+00:00
 -- url     : https://prove2.me/theorems/e556d758-a912-4f32-bc86-efcc9947ed27

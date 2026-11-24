@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PjFree_isCombAt_epsPt
 -- name    : Formalism.L2.PjFree.isCombAt_epsPt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:55.851378+00:00
 -- url     : https://prove2.me/theorems/bf5cf127-7fed-4765-92c1-8675fc6be547

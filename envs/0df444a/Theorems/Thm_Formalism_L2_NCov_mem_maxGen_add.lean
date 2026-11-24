@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NCov_mem_maxGen_add
 -- name    : Formalism.L2.NCov.mem_maxGen_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:46:51.681122+00:00
 -- url     : https://prove2.me/theorems/764bcab8-2899-4df9-a1fb-10de595890e2

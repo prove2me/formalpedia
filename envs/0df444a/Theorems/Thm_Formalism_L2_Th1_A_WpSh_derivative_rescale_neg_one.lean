@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_WpSh_derivative_rescale_neg_one
 -- name    : Formalism.L2.Th1.A.WpSh.derivative_rescale_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:40.241508+00:00
 -- url     : https://prove2.me/theorems/5ab99a0e-05fb-46ae-b8bb-986af5a7b724

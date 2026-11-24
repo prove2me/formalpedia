@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_coeff_eq_zero_of_eval_second_zero
 -- name    : Formalism.L2.Th1.B.coeff_eq_zero_of_eval_second_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:50.021138+00:00
 -- url     : https://prove2.me/theorems/28c94396-afe1-455a-bc3e-bc84c6970c14

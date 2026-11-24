@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_OddLevelGainBounds_theorem_A_monomial_of_lemmas
 -- name    : Formalism.DworkPowerSeriesWeights.OddLevelGainBounds.theorem_A_monomial_of_lemmas
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:53:40.031822+00:00
 -- url     : https://prove2.me/theorems/5af46d03-bc36-4a45-8202-9cea0c4fb841

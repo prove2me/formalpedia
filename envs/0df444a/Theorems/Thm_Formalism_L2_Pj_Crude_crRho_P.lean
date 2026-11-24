@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_crRho_P
 -- name    : Formalism.L2.Pj.Crude.crRho_P
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:54.291751+00:00
 -- url     : https://prove2.me/theorems/bee5c985-9ac5-4f59-8838-5bf07b30e683

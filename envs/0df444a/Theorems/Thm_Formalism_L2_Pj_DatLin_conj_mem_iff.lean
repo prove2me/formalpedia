@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_DatLin_conj_mem_iff
 -- name    : Formalism.L2.Pj.DatLin.conj_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:05.855719+00:00
 -- url     : https://prove2.me/theorems/2e76355d-6888-478f-add9-fefa4ad763bb

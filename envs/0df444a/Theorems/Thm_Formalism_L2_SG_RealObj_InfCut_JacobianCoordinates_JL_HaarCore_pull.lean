@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_RealObj_InfCut_JacobianCoordinates_JL_HaarCore_pull
 -- name    : Formalism.L2.SG.RealObj.InfCut.JacobianCoordinates.JL.HaarCore.pull
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:50:09.851336+00:00
 -- url     : https://prove2.me/theorems/a24a8adb-62c2-4e55-818c-d5d91b00633a

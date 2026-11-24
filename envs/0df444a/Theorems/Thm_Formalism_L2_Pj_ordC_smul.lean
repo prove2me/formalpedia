@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_ordC_smul
 -- name    : Formalism.L2.Pj.ordC_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:25.127039+00:00
 -- url     : https://prove2.me/theorems/9ad49bc5-9465-4ac4-96d9-397e0555d9e2

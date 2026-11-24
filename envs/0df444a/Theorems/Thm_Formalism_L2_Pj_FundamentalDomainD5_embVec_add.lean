@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FundamentalDomainD5_embVec_add
 -- name    : Formalism.L2.Pj.FundamentalDomainD5.embVec_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:42.630995+00:00
 -- url     : https://prove2.me/theorems/53c443ef-b7b6-4640-a29c-daadf4fadc4a

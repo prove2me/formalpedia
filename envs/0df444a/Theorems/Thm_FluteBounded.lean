@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FluteBounded
 -- name    : FluteBounded
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:09:51.021716+00:00
 -- url     : https://prove2.me/theorems/3acb8801-d339-4207-a971-19b6d58e2e95

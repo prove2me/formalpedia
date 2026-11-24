@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_ParO_log_FI
 -- name    : Formalism.L2.Th1.B.ParO.log_FI
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:04:21.701002+00:00
 -- url     : https://prove2.me/theorems/218340b2-04d1-4a86-92eb-6ac3e5971363

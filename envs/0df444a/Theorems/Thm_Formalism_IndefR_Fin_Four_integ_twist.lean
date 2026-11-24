@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_integ_twist
 -- name    : Formalism.IndefR.Fin.Four.integ_twist
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:27.884911+00:00
 -- url     : https://prove2.me/theorems/82f0fefa-623a-4b61-be96-093dc6466fec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_uPow_mul_cancel
 -- name    : Formalism.L2.Th1.A.uPow_mul_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:35.630676+00:00
 -- url     : https://prove2.me/theorems/1a9bb530-362c-4718-8c8d-4f15683e5a19

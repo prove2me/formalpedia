@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Geo_Def_G1_isFrame_of
 -- name    : Formalism.L2.Geo.Def.G1.isFrame_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:34:44.820107+00:00
 -- url     : https://prove2.me/theorems/c27a4c6f-4653-4ffa-b78b-182bc78d65dd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_CurveSer_fw_coeff_two
 -- name    : Formalism.L2.Th1.A.CurveSer.fw_coeff_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:27.066995+00:00
 -- url     : https://prove2.me/theorems/c93957ff-93db-4c3b-b86b-a37f63940746

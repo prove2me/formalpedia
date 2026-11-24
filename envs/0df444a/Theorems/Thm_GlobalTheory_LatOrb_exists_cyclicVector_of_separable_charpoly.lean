@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatOrb_exists_cyclicVector_of_separable_charpoly
 -- name    : GlobalTheory.LatOrb.exists_cyclicVector_of_separable_charpoly
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:24:33.131422+00:00
 -- url     : https://prove2.me/theorems/ddc62311-b573-470d-b66c-859fd10c5f82

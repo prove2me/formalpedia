@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Poly1305Boringssl_internalOk_poly1305_update
 -- name    : Poly1305Boringssl.internalOk_poly1305_update
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-24T10:06:28.799562+00:00
 -- url     : https://prove2.me/theorems/436605d3-2e7a-4230-898c-b8d5a7b9a650

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NX_mem_Uup
 -- name    : Formalism.L2.NX.mem_Uup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:11.201186+00:00
 -- url     : https://prove2.me/theorems/30255cb9-5096-4473-99e2-2072eaffaa7f

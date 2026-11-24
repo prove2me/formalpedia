@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_bridgeWp_of
 -- name    : Formalism.L2.Th1.A.bridgeWp_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:59.138032+00:00
 -- url     : https://prove2.me/theorems/2b3f3f65-376e-4e2c-9592-790a6e2dd22d

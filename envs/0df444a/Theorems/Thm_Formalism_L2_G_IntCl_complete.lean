@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_IntCl_complete
 -- name    : Formalism.L2.G.IntCl.complete
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:45:16.54085+00:00
 -- url     : https://prove2.me/theorems/8d13a199-9c5b-4c5f-b8b2-6a0efee05230

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_ColsDim_innerFun_mem
 -- name    : Formalism.L2.SG.ColsDim.innerFun_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:15.643858+00:00
 -- url     : https://prove2.me/theorems/a321f982-a37e-40a6-92bc-3c532761c1d6

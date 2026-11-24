@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_model_unique
 -- name    : Formalism.IndefR.Fin.Four.model_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:17.077088+00:00
 -- url     : https://prove2.me/theorems/90246243-7f59-4657-8bde-4b4c89345008

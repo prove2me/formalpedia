@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FundamentalDomainD5_sgn_conj
 -- name    : Formalism.L2.Pj.FundamentalDomainD5.sgn_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:46:38.408108+00:00
 -- url     : https://prove2.me/theorems/9c58d62d-9865-4c0b-8ee2-73eae71b4943

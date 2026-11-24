@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_GS_mem_genSpace
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.GS.mem_genSpace
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:02.136383+00:00
 -- url     : https://prove2.me/theorems/276f583d-4ed0-4340-a520-2f87cb21cf94

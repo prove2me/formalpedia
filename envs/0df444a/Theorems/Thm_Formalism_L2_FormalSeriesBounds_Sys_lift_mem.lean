@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_Sys_lift_mem
 -- name    : Formalism.L2.FormalSeriesBounds.Sys.lift_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:51.898568+00:00
 -- url     : https://prove2.me/theorems/dd5133c1-40de-4b10-81db-39249bc4b7f7

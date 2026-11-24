@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_QAt_BeSumPf_absNorm_span_nat
 -- name    : Formalism.L2.Pj.QAt.BeSumPf.absNorm_span_nat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:27.021011+00:00
 -- url     : https://prove2.me/theorems/dc826cd6-405d-4a9b-a700-53043b5086dd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_count_eq_of_valuation_le
 -- name    : Formalism.L2.LamCM.count_eq_of_valuation_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:05:06.278574+00:00
 -- url     : https://prove2.me/theorems/9361d393-d258-4766-bb8e-59671cabdd74

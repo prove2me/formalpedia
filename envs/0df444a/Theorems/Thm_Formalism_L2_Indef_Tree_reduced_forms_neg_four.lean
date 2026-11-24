@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_Tree_reduced_forms_neg_four
 -- name    : Formalism.L2.Indef.Tree.reduced_forms_neg_four
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:33.129799+00:00
 -- url     : https://prove2.me/theorems/dd79d3a8-22f9-46c0-9601-1ec7cf0936c3

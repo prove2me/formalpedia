@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_RegroupPf_isFund_of_exact
 -- name    : Formalism.L2.SG.Pf.RegroupPf.isFund_of_exact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:32.186111+00:00
 -- url     : https://prove2.me/theorems/46611df2-6ca6-4458-a2c6-ea1f893eb2ae

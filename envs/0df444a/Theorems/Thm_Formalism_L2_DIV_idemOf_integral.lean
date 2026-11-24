@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_idemOf_integral
 -- name    : Formalism.L2.DIV.idemOf_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:00.2278+00:00
 -- url     : https://prove2.me/theorems/633ace73-4ce9-48b2-a9f0-88cf57e064d8

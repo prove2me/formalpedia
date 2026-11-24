@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Univ_mv_transfer
 -- name    : Formalism.L2.Th1.A.Univ.mv_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:46:35.362902+00:00
 -- url     : https://prove2.me/theorems/1f2d40d2-b177-4e59-b032-c908d4468969

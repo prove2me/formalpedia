@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_ParO_curve_at
 -- name    : Formalism.L2.Th1.B.ParO.curve_at
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:47:59.795496+00:00
 -- url     : https://prove2.me/theorems/37e5cc4d-f9d1-4788-a66f-8f3fa3eb375d

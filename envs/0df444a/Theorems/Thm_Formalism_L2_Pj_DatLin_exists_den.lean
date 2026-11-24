@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_DatLin_exists_den
 -- name    : Formalism.L2.Pj.DatLin.exists_den
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:52.564101+00:00
 -- url     : https://prove2.me/theorems/bff56b5b-fa62-487f-b26f-2d14e9fab3cb

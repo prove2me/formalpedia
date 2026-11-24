@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_TraceIntegrality_LT_sum_re_ge
 -- name    : Formalism.L2.GlobalTheoryTheory.TraceIntegrality.LT.sum_re_ge
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:58:12.210036+00:00
 -- url     : https://prove2.me/theorems/56019c33-003e-46a4-afa0-4054d042bfd4

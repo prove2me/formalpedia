@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_UnramifiedTrace_card_sig_fib
 -- name    : Formalism.L2.GlobalTheoryTheory.UnramifiedTrace.card_sig_fib
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:58:20.018174+00:00
 -- url     : https://prove2.me/theorems/493d9daf-ecf3-467e-bd6b-0ed7d53282ac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_MeasureShiftInvariance_measure_SF_eq
 -- name    : Formalism.L2.SG.MeasureShiftInvariance.measure_SF_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:23.022961+00:00
 -- url     : https://prove2.me/theorems/3e329f3d-467e-410c-92b8-7764683cef05

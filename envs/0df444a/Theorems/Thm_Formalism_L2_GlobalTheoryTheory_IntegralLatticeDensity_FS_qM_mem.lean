@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_FS_qM_mem
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.FS.qM_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:58:05.459006+00:00
 -- url     : https://prove2.me/theorems/80fb7261-95b0-4533-ab95-8cdc2ffeaa15

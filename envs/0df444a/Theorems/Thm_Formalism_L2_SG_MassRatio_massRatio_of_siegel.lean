@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_MassRatio_massRatio_of_siegel
 -- name    : Formalism.L2.SG.MassRatio.massRatio_of_siegel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:50.933308+00:00
 -- url     : https://prove2.me/theorems/b46a8b6b-f00d-4348-9940-e834c4017597

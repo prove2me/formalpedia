@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_LocalUnitReduction_finRed
 -- name    : Formalism.L2.Pj.LocalUnitReduction.finRed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:16.656356+00:00
 -- url     : https://prove2.me/theorems/39b980d6-c158-4749-8e66-171133213980

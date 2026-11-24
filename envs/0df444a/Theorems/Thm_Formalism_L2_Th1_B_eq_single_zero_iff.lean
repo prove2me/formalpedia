@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_eq_single_zero_iff
 -- name    : Formalism.L2.Th1.B.eq_single_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:59:56.933438+00:00
 -- url     : https://prove2.me/theorems/89082544-bb95-407a-96c9-76854da9d64f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_IsDer_map_sq
 -- name    : Formalism.L2.Th1.A.IsDer.map_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:40.012931+00:00
 -- url     : https://prove2.me/theorems/df3909f3-6243-46e1-8dcf-323efee6e59c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Cmp_stab_of_first
 -- name    : Formalism.L2.G.Cmp.stab_of_first
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:54:29.689401+00:00
 -- url     : https://prove2.me/theorems/f282b183-398b-4821-9b0e-9bd59a5b457b

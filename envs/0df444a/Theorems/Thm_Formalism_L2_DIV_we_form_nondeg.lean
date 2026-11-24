@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_we_form_nondeg
 -- name    : Formalism.L2.DIV.we_form_nondeg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:54:34.701421+00:00
 -- url     : https://prove2.me/theorems/144ec294-0a88-4468-9e42-e7d8d5508491

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_isUnit_det_of_form
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.isUnit_det_of_form
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:05.808198+00:00
 -- url     : https://prove2.me/theorems/cc454aa7-94e1-4a89-93cf-3ef57088090e

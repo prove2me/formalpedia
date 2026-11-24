@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_ThresholdBounds_cutIntervalLong_eq_Icc
 -- name    : Formalism.L2.SG.Pf.ThresholdBounds.cutIntervalLong_eq_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:21.20949+00:00
 -- url     : https://prove2.me/theorems/95c5008d-694b-4c96-ad5f-367d4af4a075

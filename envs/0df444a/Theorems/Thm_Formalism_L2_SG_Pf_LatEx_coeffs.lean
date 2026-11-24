@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatEx_coeffs
 -- name    : Formalism.L2.SG.Pf.LatEx.coeffs
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:20.011621+00:00
 -- url     : https://prove2.me/theorems/0a966a12-fead-4c77-9216-ae3051587ca7

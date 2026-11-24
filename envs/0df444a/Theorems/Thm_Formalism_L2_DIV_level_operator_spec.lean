@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_level_operator_spec
 -- name    : Formalism.L2.DIV.level_operator_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:54:06.953486+00:00
 -- url     : https://prove2.me/theorems/3988d195-0bd9-49a0-8b72-78d24e73e2f6

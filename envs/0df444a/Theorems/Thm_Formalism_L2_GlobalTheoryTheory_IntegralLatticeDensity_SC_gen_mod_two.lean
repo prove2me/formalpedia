@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_SC_gen_mod_two
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.SC.gen_mod_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:59:13.075464+00:00
 -- url     : https://prove2.me/theorems/8b288d40-7eec-4c44-96d9-89de58849923

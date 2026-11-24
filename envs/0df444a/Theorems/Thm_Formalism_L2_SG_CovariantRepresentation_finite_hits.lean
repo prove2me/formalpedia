@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_CovariantRepresentation_finite_hits
 -- name    : Formalism.L2.SG.CovariantRepresentation.finite_hits
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:42.746927+00:00
 -- url     : https://prove2.me/theorems/639f50c1-8971-4cfd-8429-6484423241fb

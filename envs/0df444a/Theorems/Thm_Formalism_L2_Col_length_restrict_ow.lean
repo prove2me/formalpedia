@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_length_restrict_ow
 -- name    : Formalism.L2.Col.length_restrict_ow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:23.821889+00:00
 -- url     : https://prove2.me/theorems/59de1900-497b-41b4-a7aa-f6291ce0814d

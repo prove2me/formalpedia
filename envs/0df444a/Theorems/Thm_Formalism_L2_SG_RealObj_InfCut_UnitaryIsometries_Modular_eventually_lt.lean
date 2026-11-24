@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_RealObj_InfCut_UnitaryIsometries_Modular_eventually_lt
 -- name    : Formalism.L2.SG.RealObj.InfCut.UnitaryIsometries.Modular.eventually_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:33.334777+00:00
 -- url     : https://prove2.me/theorems/a1dc1e76-ee57-44e6-83a4-6ddf5b27e55f

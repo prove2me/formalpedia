@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hollom_S_subset_level
 -- name    : Hollom.S_subset_level
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:10:02.923053+00:00
 -- url     : https://prove2.me/theorems/ce34bb9b-3f10-4d3e-ac94-47ba7b380714

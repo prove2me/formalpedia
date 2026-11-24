@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_evalYZero_mul
 -- name    : Formalism.L2.Th1.B.evalYZero_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:51:31.048868+00:00
 -- url     : https://prove2.me/theorems/1e27e7d1-0536-4b5f-b8c9-5949855c160a

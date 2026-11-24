@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_BN_exponents_eq
 -- name    : Formalism.IrreducibleCountingLemmas.Z.BN.exponents_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:55.754372+00:00
 -- url     : https://prove2.me/theorems/9cb2da38-2477-4bef-9a51-64c1cdf8abcb

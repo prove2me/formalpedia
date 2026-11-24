@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_UnramifiedTrace_sum_fib
 -- name    : Formalism.L2.GlobalTheoryTheory.UnramifiedTrace.sum_fib
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:35:32.643422+00:00
 -- url     : https://prove2.me/theorems/8ef9dc31-7b49-4ba9-8e9f-19aaaa9d3078

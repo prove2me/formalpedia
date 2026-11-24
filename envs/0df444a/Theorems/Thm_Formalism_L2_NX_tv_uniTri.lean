@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NX_tv_uniTri
 -- name    : Formalism.L2.NX.tv_uniTri
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:51.344684+00:00
 -- url     : https://prove2.me/theorems/1e269143-7bb7-455b-8d69-2e8ce8c12379

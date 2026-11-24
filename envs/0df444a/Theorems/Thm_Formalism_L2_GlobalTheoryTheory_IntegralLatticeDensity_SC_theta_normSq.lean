@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_SC_theta_normSq
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.SC.theta_normSq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:58:31.035172+00:00
 -- url     : https://prove2.me/theorems/6820d44e-d242-41ba-82ac-56583f73dfec

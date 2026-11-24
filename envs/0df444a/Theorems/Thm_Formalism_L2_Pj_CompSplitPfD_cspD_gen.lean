@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_CompSplitPfD_cspD_gen
 -- name    : Formalism.L2.Pj.CompSplitPfD.cspD_gen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:16.010949+00:00
 -- url     : https://prove2.me/theorems/48a12112-0dfa-4257-9c80-14320658c2c0

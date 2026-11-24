@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_central_idempotents_sum_one
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.central_idempotents_sum_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:30.387319+00:00
 -- url     : https://prove2.me/theorems/cb3f63c3-56cf-4eac-931a-a8c7c5e472e4

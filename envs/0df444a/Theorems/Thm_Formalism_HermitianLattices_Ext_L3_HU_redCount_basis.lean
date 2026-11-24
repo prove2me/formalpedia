@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_redCount_basis
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.redCount_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:21.301509+00:00
 -- url     : https://prove2.me/theorems/8026dad8-7654-4498-89e0-adf66d4b86d5

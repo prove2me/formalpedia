@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_CharacteristicFromRanks_alt_step
 -- name    : Formalism.L2.FormalSeriesBounds.CharacteristicFromRanks.alt_step
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:12:51.429186+00:00
 -- url     : https://prove2.me/theorems/de4ee72d-a6b3-447d-9c15-c3f753186172

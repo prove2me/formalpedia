@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_GenericSectionMinimum_IsDer_der_neg
 -- name    : Formalism.L2.Pj.GenericSectionMinimum.IsDer.der_neg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:38.701998+00:00
 -- url     : https://prove2.me/theorems/75560f7e-4735-4a2b-b70b-d4ffe5365eb9

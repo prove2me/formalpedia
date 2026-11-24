@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_integ_zero_of
 -- name    : Formalism.IndefR.Fin.Four.integ_zero_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:29.545233+00:00
 -- url     : https://prove2.me/theorems/7454c33f-6cfa-4a6e-962a-7dd34667dd77

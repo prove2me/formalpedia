@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_GGMirabolic_termsGGBound_of_matrix
 -- name    : Formalism.L2.SG.GGMirabolic.termsGGBound_of_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:14.940851+00:00
 -- url     : https://prove2.me/theorems/5de98f89-65ee-492b-a666-b4a746e614c5

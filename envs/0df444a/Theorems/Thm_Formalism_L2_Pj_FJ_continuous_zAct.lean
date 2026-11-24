@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FJ_continuous_zAct
 -- name    : Formalism.L2.Pj.FJ.continuous_zAct
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:19.405965+00:00
 -- url     : https://prove2.me/theorems/6047110b-ade1-4b1a-946b-ef30db449d6c

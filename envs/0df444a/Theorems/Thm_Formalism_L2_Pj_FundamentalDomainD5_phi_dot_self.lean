@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FundamentalDomainD5_phi_dot_self
 -- name    : Formalism.L2.Pj.FundamentalDomainD5.phi_dot_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:12:17.561717+00:00
 -- url     : https://prove2.me/theorems/fdbbcfed-687e-4b60-b510-886f6807a006

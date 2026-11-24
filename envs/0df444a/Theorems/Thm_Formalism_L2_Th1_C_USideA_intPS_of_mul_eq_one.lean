@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_USideA_intPS_of_mul_eq_one
 -- name    : Formalism.L2.Th1.C.USideA.intPS_of_mul_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:04.300633+00:00
 -- url     : https://prove2.me/theorems/2e912990-4004-4322-908a-31527adc493d
