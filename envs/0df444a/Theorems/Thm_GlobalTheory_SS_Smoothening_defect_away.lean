@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Smoothening_defect_away
 -- name    : GlobalTheory.SS.Smoothening.defect_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:37:13.355435+00:00
 -- url     : https://prove2.me/theorems/9e846b4f-2e6e-4ef9-a8dd-7b3ba82f1e78

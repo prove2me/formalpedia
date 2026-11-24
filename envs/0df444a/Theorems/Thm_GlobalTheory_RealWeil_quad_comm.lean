@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_quad_comm
 -- name    : GlobalTheory.RealWeil.quad_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:29:24.109904+00:00
 -- url     : https://prove2.me/theorems/7443c7f1-f135-4aa0-8a58-b70329c5cecc

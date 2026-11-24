@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaCoord_exists_unit_of_isGenSec
 -- name    : GlobalTheory.ThetaCoord.exists_unit_of_isGenSec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:17:29.950368+00:00
 -- url     : https://prove2.me/theorems/5a4aabb0-df02-41ad-ae7e-f62c639dacce

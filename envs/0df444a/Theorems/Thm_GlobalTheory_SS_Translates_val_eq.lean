@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Translates_val_eq
 -- name    : GlobalTheory.SS.Translates.val_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:17:59.321841+00:00
 -- url     : https://prove2.me/theorems/cead999c-d7de-4ce9-b3ba-eb8b466660d9

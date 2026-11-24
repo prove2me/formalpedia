@@ -1,0 +1,63 @@
+-- Prove2me | solution 1 for Formalism.FourierDecayAlt.P.WeakDominationMajorants.Asm.sup_le_gN
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-2
+-- created : 2026-11-24T20:29:39.001+00:00
+-- url     : https://prove2.me/submissions/476b1f36-a280-4067-8948-57d49b98228a
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementJF
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_DilationUnipotentWeylMeasure
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_RegularisedPairingViaPhase
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_BetaSesquilinearity
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_ConjugationContinuousOnInvertible
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_UnipotentHeisenbergDecomposition
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_OppositeWeylSubgroupClosed
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_Block3MulBlocks
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_CoordinateSizesOfHypotheses
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_SeminormCompletion
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_SandwichRhoAction
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_SmoothnessOnGoodSet
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_NormDiagonalEntryDilationGeneratorLeOne
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_JfJqSmoothOfNnMaj
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_LUFactorOrbitBounds
+import Theorems.Thm_Formalism_FourierDecayAlt_P_WeakDominationMajorants_Orb_gN_nonneg
+import Theorems.Thm_Formalism_FourierDecayAlt_P_WeakDominationMajorants_Orb_ent_le
+import Theorems.Thm_Formalism_FourierDecayAlt_P_B6_gN_nonneg
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open Matrix MeasureTheory Filter Topology
+open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt.B Formalism.FourierDecayAlt.JF
+open Matrix MeasureTheory Filter Topology
+open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt.B Formalism.FourierDecayAlt.JF
+open Matrix
+open Matrix
+open Matrix MeasureTheory Filter Topology
+open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt.B Formalism.FourierDecayAlt.JF
+open Matrix MeasureTheory Filter Topology
+open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt.B Formalism.FourierDecayAlt.JF
+open Matrix MeasureTheory Filter Topology
+open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt.B Formalism.FourierDecayAlt.JF
+open Matrix MeasureTheory Filter Topology
+open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt.B Formalism.FourierDecayAlt.JF
+open Matrix MeasureTheory Filter Topology
+open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt.B Formalism.FourierDecayAlt.JF
+open Matrix MeasureTheory Filter Topology
+open scoped ENNReal NNReal
+open Matrix MeasureTheory Filter Topology
+open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt.B Formalism.FourierDecayAlt.JF
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P Formalism.FourierDecayAlt.P.WeakDominationMajorants Formalism.FourierDecayAlt.P.WeakDominationMajorants.Asm
+attribute [local instance] Matrix.normedAddCommGroup Matrix.normedSpace
+open Formalism.FourierDecayAlt.P.WeakDominationMajorants
+variable {k r : ℕ}
+namespace Formalism.FourierDecayAlt.P.WeakDominationMajorants.Asm
+theorem _root_.solution (M : Mat k r) : ‖M‖ ≤ gN M :=
+  (Matrix.norm_le_iff (Orb.gN_nonneg M)).2 fun i j => Orb.ent_le M i j
+end Formalism.FourierDecayAlt.P.WeakDominationMajorants.Asm

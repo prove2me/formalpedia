@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_DefectZero_exists_mul_mem_span
 -- name    : GlobalTheory.SS.DefectZero.exists_mul_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:33:22.679045+00:00
 -- url     : https://prove2.me/theorems/6fa2c5b4-9b0e-4bed-b3ba-a5e69779f376

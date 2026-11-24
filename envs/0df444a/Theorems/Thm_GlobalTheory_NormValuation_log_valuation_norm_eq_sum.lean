@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormValuation_log_valuation_norm_eq_sum
 -- name    : GlobalTheory.NormValuation.log_valuation_norm_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:36:17.48611+00:00
 -- url     : https://prove2.me/theorems/e53b763c-515f-402e-9f77-0bbca3270566

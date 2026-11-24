@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowBasis_exists_basis_pow
 -- name    : GlobalTheory.PowBasis.exists_basis_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:08.660674+00:00
 -- url     : https://prove2.me/theorems/931e87dd-8e22-48c9-b975-4542d3f892ff

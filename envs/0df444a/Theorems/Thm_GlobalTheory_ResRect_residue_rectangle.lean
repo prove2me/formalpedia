@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResRect_residue_rectangle
 -- name    : GlobalTheory.ResRect.residue_rectangle
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:43:19.819143+00:00
 -- url     : https://prove2.me/theorems/ad65835a-45f8-434b-8014-fc27ebe8703b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaCoord_lift_translT
 -- name    : GlobalTheory.ThetaCoord.lift_translT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:19:34.098618+00:00
 -- url     : https://prove2.me/theorems/eb2a7423-73d4-44b7-85d4-aa279f846dc9

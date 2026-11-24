@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuotientHaar_measurable_fibreIntegral
 -- name    : GlobalTheory.QuotientHaar.measurable_fibreIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:12:19.333853+00:00
 -- url     : https://prove2.me/theorems/9d040437-dadd-4561-baef-d82f8d2e6919

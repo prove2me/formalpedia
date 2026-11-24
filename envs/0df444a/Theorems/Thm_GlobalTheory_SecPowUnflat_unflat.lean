@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecPowUnflat_unflat
 -- name    : GlobalTheory.SecPowUnflat.unflat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:51:29.311002+00:00
 -- url     : https://prove2.me/theorems/56cc70dd-908d-4dd2-b632-0024bc767ba7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeBound_card_quot
 -- name    : GlobalTheory.SatakeBound.card_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:45:16.419253+00:00
 -- url     : https://prove2.me/theorems/307c3611-bf84-4767-a81d-ec0a33343377

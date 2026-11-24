@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_ChartIndep_lands_loc
 -- name    : GlobalTheory.SecGlue.ChartIndep.lands_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:49:46.931104+00:00
 -- url     : https://prove2.me/theorems/37fdd77a-ca5d-401b-aa5c-c96c615062d0

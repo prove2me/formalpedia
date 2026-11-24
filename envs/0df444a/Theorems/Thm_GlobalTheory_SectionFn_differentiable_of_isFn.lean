@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionFn_differentiable_of_isFn
 -- name    : GlobalTheory.SectionFn.differentiable_of_isFn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:51:44.152621+00:00
 -- url     : https://prove2.me/theorems/c0bbbdf0-5b03-43e0-bda6-22e04243b8d3

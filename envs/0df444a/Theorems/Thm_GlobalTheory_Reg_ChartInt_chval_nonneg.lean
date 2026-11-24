@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_ChartInt_chval_nonneg
 -- name    : GlobalTheory.Reg.ChartInt.chval_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:22:21.099265+00:00
 -- url     : https://prove2.me/theorems/5b67f25c-f09a-4889-a705-8c57ba3380f7

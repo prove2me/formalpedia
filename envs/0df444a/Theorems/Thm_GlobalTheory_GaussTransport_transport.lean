@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussTransport_transport
 -- name    : GlobalTheory.GaussTransport.transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:29:17.757363+00:00
 -- url     : https://prove2.me/theorems/1b41360f-5e0c-43f0-9526-c4138d436f43

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeSection_isDiscreteValuationRing_stalk
 -- name    : GlobalTheory.PrimeSection.isDiscreteValuationRing_stalk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:29:23.593513+00:00
 -- url     : https://prove2.me/theorems/ef3e6590-c4f3-40c3-8e6d-ee3c7e3277aa

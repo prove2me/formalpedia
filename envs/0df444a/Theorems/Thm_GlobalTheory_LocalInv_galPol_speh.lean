@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalInv_galPol_speh
 -- name    : GlobalTheory.LocalInv.galPol_speh
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:24:36.278799+00:00
 -- url     : https://prove2.me/theorems/5fb0a07e-819c-454f-a6cc-e7806f47fdcc

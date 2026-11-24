@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RiemannRel_riemann_relations
 -- name    : GlobalTheory.RiemannRel.riemann_relations
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:29:46.958357+00:00
 -- url     : https://prove2.me/theorems/cb7a4d3f-9629-40e7-805a-dc44a91442ce

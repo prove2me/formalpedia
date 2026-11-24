@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Emb_drop_corV
 -- name    : GlobalTheory.SW.Emb.drop_corV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:39:05.119792+00:00
 -- url     : https://prove2.me/theorems/402bd038-28dc-438e-8e7b-d09273160d0e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_CombEx_combHom_comp_eq
 -- name    : GlobalTheory.SecGlue.CombEx.combHom_comp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:50:04.056727+00:00
 -- url     : https://prove2.me/theorems/32ae52db-3714-4343-b49d-41a00df15b04

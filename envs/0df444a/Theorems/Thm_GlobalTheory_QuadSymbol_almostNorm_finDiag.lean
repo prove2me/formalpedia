@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_almostNorm_finDiag
 -- name    : GlobalTheory.QuadSymbol.almostNorm_finDiag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:02:34.249628+00:00
 -- url     : https://prove2.me/theorems/f7955e45-30bb-4b7b-a362-21ff6cdb8c36

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeckeId_finrank_of_agree
 -- name    : GlobalTheory.SW.HeckeId.finrank_of_agree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:40:19.985134+00:00
 -- url     : https://prove2.me/theorems/41482db7-1333-4f02-b102-57bbd6ec2247

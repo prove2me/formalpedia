@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealZeros_summable_br
 -- name    : GlobalTheory.RealZeros.summable_br
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:16:38.496357+00:00
 -- url     : https://prove2.me/theorems/d6dba263-3c21-4316-a861-6776bced806d

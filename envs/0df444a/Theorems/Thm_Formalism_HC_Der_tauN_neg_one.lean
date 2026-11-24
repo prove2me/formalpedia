@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_tauN_neg_one
 -- name    : Formalism.HC.Der.tauN_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:54:32.954333+00:00
 -- url     : https://prove2.me/theorems/96466775-93b9-4fbc-b2ca-54b98159389e

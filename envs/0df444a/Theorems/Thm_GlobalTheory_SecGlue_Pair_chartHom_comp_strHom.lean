@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_Pair_chartHom_comp_strHom
 -- name    : GlobalTheory.SecGlue.Pair.chartHom_comp_strHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:53:39.395203+00:00
 -- url     : https://prove2.me/theorems/f8d3eb47-eae7-489f-938f-ce4a193c23ba

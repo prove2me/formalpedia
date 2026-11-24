@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_StrictLaw_exists_restrict
 -- name    : GlobalTheory.SS.StrictLaw.exists_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:36:32.783115+00:00
 -- url     : https://prove2.me/theorems/a3812d5b-bd71-4673-8050-6b73910e9116

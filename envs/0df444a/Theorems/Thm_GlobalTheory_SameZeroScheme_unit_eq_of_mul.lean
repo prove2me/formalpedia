@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SameZeroScheme_unit_eq_of_mul
 -- name    : GlobalTheory.SameZeroScheme.unit_eq_of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:45:54.659641+00:00
 -- url     : https://prove2.me/theorems/47c403cb-1ad1-4f49-add1-8f5b4519d05e

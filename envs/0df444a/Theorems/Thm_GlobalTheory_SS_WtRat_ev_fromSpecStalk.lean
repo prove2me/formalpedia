@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_WtRat_ev_fromSpecStalk
 -- name    : GlobalTheory.SS.WtRat.ev_fromSpecStalk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:36:12.097427+00:00
 -- url     : https://prove2.me/theorems/c97e741e-800a-4b0b-adc9-241ca8e3201f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionFn_ne_zero_of_isFn
 -- name    : GlobalTheory.SectionFn.ne_zero_of_isFn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:50:42.800649+00:00
 -- url     : https://prove2.me/theorems/c5f7d2dd-f4af-42cb-b691-15375cf527c9

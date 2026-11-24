@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Triv_iwU_coprime
 -- name    : Formalism.L2.G.Triv.iwU_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:00:38.164661+00:00
 -- url     : https://prove2.me/theorems/a352d1fa-d9a9-4e94-a955-df88ed19d695

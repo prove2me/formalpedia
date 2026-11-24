@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_MassTest_exists_bump
 -- name    : GlobalTheory.CompanionTheory.SW.MassTest.exists_bump
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:21:48.242826+00:00
 -- url     : https://prove2.me/theorems/62f97d16-9e9c-4260-a85a-16c20aaaee4a

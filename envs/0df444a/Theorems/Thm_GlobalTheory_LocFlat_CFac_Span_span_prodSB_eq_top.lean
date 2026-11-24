@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_CFac_Span_span_prodSB_eq_top
 -- name    : GlobalTheory.LocFlat.CFac.Span.span_prodSB_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:13:37.763149+00:00
 -- url     : https://prove2.me/theorems/ef808491-ddb1-4c1a-8a06-56ac1a020f55

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GaloisCoh_global_finite_of_poitouTate
 -- name    : GlobalTheory.CompanionTheory.GaloisCoh.global_finite_of_poitouTate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:42:23.186156+00:00
 -- url     : https://prove2.me/theorems/41b1cac0-2be0-4893-bc4a-50594a9d0196

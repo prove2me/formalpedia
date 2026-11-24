@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FaulhuberTFA_stft_norm_eq
 -- name    : FaulhuberTFA.stft_norm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T11:43:32.964132+00:00
 -- url     : https://prove2.me/theorems/5baf1fec-0fdb-4bc8-9cd8-a1d115c7acfd

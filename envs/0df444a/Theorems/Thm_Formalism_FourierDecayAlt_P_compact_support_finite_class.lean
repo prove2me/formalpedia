@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_compact_support_finite_class
 -- name    : Formalism.FourierDecayAlt.P.compact_support_finite_class
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:19:09.009591+00:00
 -- url     : https://prove2.me/theorems/2e89d22b-f9df-438b-8d46-daaa763fa731

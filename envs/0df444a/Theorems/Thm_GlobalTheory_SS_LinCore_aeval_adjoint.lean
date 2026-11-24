@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_LinCore_aeval_adjoint
 -- name    : GlobalTheory.SS.LinCore.aeval_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:36:43.275965+00:00
 -- url     : https://prove2.me/theorems/76c797ed-944e-405c-a2b4-0aa504922543

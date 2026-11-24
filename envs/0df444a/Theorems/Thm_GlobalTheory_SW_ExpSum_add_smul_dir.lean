@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_ExpSum_add_smul_dir
 -- name    : GlobalTheory.SW.ExpSum.add_smul_dir
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:39:30.81667+00:00
 -- url     : https://prove2.me/theorems/3b0347fb-1be0-4ee6-a8e7-1784330ce2cb

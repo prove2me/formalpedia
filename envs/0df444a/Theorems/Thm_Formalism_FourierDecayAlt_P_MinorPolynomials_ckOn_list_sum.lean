@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MinorPolynomials_ckOn_list_sum
 -- name    : Formalism.FourierDecayAlt.P.MinorPolynomials.ckOn_list_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:18:17.471268+00:00
 -- url     : https://prove2.me/theorems/90718061-7085-461b-b1d0-e04eddf6b0f2

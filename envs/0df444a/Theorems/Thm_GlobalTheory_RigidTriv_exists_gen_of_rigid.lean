@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RigidTriv_exists_gen_of_rigid
 -- name    : GlobalTheory.RigidTriv.exists_gen_of_rigid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:25:15.455887+00:00
 -- url     : https://prove2.me/theorems/798b3f4e-3bf1-4509-8c96-e238aebc9163

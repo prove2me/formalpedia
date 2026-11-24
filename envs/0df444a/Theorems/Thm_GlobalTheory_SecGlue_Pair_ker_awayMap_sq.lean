@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_Pair_ker_awayMap_sq
 -- name    : GlobalTheory.SecGlue.Pair.ker_awayMap_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:50:05.460462+00:00
 -- url     : https://prove2.me/theorems/642bcf83-cfd2-43ae-9a62-e26d9c851735

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_TorusConjProof_mat_conj_apply
 -- name    : GlobalTheory.SatakeWeyl.TorusConjProof.mat_conj_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:48:11.491087+00:00
 -- url     : https://prove2.me/theorems/526b2d69-bfb4-4c7a-806d-3efe94ea56f9

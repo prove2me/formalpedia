@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchwartzIntegral_seminorm_le_norm_weightedDeriv
 -- name    : GlobalTheory.SchwartzIntegral.seminorm_le_norm_weightedDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:48:02.296678+00:00
 -- url     : https://prove2.me/theorems/a86a2da9-d0fe-4b56-ab04-2ffe2fba9899

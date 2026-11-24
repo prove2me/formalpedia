@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_smul_mem_ext_of_basis
 -- name    : GlobalTheory.BK.PhiMod.smul_mem_ext_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:17:40.022601+00:00
 -- url     : https://prove2.me/theorems/e3d617c0-f31f-4cd3-9685-c03774445dd9

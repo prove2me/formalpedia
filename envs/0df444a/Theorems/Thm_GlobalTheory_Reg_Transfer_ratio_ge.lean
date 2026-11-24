@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_Transfer_ratio_ge
 -- name    : GlobalTheory.Reg.Transfer.ratio_ge
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:53:27.198326+00:00
 -- url     : https://prove2.me/theorems/678fdeae-5fda-4d28-941c-0e8de92351f6

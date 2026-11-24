@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartzBruhat_lintegral_sq_ne_top
 -- name    : GlobalTheory.T.schwartzBruhat_lintegral_sq_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:37:20.861418+00:00
 -- url     : https://prove2.me/theorems/a1b997df-aa33-42ef-917a-3270253dfa97

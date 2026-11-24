@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_schwartzBruhat_supported_nhds_integral_one
 -- name    : GlobalTheory.T.exists_schwartzBruhat_supported_nhds_integral_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:35:41.748713+00:00
 -- url     : https://prove2.me/theorems/1870327b-bbf7-4d4b-8a2d-1e14af9a6044

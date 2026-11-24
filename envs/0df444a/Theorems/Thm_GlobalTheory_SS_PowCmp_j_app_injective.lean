@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_PowCmp_j_app_injective
 -- name    : GlobalTheory.SS.PowCmp.j_app_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:37:24.196383+00:00
 -- url     : https://prove2.me/theorems/36554c0f-00bd-4d51-9778-a5c621e6c252

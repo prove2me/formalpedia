@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_UniSp_quad_bd
 -- name    : GlobalTheory.SW.UniSp.quad_bd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:44:51.249947+00:00
 -- url     : https://prove2.me/theorems/277d571d-f642-49b6-ba3d-4a2ba8c0c23e

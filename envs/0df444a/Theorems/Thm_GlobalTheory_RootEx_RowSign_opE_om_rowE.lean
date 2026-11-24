@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_RowSign_opE_om_rowE
 -- name    : GlobalTheory.RootEx.RowSign.opE_om_rowE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:28:20.092659+00:00
 -- url     : https://prove2.me/theorems/3d0b39e3-16e3-47eb-9f9b-2984fed98f70

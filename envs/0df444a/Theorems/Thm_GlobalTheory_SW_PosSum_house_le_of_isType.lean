@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_PosSum_house_le_of_isType
 -- name    : GlobalTheory.SW.PosSum.house_le_of_isType
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:44:35.269063+00:00
 -- url     : https://prove2.me/theorems/d3f40326-023f-4c12-be20-48e6fc71b022

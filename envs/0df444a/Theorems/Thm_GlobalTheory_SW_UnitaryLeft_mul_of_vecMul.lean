@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_UnitaryLeft_mul_of_vecMul
 -- name    : GlobalTheory.SW.UnitaryLeft.mul_of_vecMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:45:41.821479+00:00
 -- url     : https://prove2.me/theorems/fd9ed089-5945-400b-b656-834d2f70ef3b

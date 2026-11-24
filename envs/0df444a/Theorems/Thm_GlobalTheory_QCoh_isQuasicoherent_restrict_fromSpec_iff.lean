@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_isQuasicoherent_restrict_fromSpec_iff
 -- name    : GlobalTheory.QCoh.isQuasicoherent_restrict_fromSpec_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:37:45.268798+00:00
 -- url     : https://prove2.me/theorems/e2d2ca01-20fb-465c-a169-ba1bff0df949

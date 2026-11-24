@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchrodExist_liftZ_of_ne
 -- name    : GlobalTheory.SchrodExist.liftZ_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:48:12.968826+00:00
 -- url     : https://prove2.me/theorems/70e6f5fa-b666-4c4c-82dd-30f49371a539

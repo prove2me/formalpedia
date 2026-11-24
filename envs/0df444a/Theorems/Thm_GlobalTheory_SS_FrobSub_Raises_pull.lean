@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_FrobSub_Raises_pull
 -- name    : GlobalTheory.SS.FrobSub.Raises.pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:33:32.949745+00:00
 -- url     : https://prove2.me/theorems/bd1dcfaa-9603-4e17-ab38-9703a6be6b16

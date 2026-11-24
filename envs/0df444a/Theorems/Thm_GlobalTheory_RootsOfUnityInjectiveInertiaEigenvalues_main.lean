@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootsOfUnityInjectiveInertiaEigenvalues_main
 -- name    : GlobalTheory.RootsOfUnityInjectiveInertiaEigenvalues.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:10:35.787344+00:00
 -- url     : https://prove2.me/theorems/8ad7199b-e32d-4a76-a6b9-523bf2b185eb

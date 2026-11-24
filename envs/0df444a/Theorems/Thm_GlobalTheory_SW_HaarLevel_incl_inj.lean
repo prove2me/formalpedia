@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HaarLevel_incl_inj
 -- name    : GlobalTheory.SW.HaarLevel.incl_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:41:43.594783+00:00
 -- url     : https://prove2.me/theorems/14788880-fb67-4ff5-a723-820e33c68453

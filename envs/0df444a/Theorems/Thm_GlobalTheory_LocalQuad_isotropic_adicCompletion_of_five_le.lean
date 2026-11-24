@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_isotropic_adicCompletion_of_five_le
 -- name    : GlobalTheory.LocalQuad.isotropic_adicCompletion_of_five_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:23:49.512814+00:00
 -- url     : https://prove2.me/theorems/ecd10218-ebc6-4a07-a129-635821ddd66b

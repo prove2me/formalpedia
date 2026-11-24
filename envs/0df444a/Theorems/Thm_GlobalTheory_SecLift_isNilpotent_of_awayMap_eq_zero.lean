@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecLift_isNilpotent_of_awayMap_eq_zero
 -- name    : GlobalTheory.SecLift.isNilpotent_of_awayMap_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:51:18.387421+00:00
 -- url     : https://prove2.me/theorems/51f83f95-543e-48f1-9843-33661bd7c4a4

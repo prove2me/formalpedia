@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_MinkowskiProductBounds_emb_cc
 -- name    : GlobalTheory.SW.MinkowskiProductBounds.emb_cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:43:21.050139+00:00
 -- url     : https://prove2.me/theorems/17c5716b-c44e-4a93-8e43-b5c35bb684f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_Good_sm
 -- name    : GlobalTheory.RealWeil.Good.sm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:57:47.003809+00:00
 -- url     : https://prove2.me/theorems/fbef0901-fe82-450c-be68-9f2ffbc52b24

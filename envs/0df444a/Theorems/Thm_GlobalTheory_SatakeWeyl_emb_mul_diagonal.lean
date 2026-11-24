@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_emb_mul_diagonal
 -- name    : GlobalTheory.SatakeWeyl.emb_mul_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:47:45.04139+00:00
 -- url     : https://prove2.me/theorems/423cc2b2-927f-4a8f-a46f-51dea178bd87

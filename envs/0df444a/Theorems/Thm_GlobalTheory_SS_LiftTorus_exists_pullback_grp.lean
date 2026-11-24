@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_LiftTorus_exists_pullback_grp
 -- name    : GlobalTheory.SS.LiftTorus.exists_pullback_grp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:36:17.392167+00:00
 -- url     : https://prove2.me/theorems/34fd9812-2102-4a06-9b9b-5a55924e7a42

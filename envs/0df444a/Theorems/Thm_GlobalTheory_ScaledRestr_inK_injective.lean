@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ScaledRestr_inK_injective
 -- name    : GlobalTheory.ScaledRestr.inK_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:47:51.219946+00:00
 -- url     : https://prove2.me/theorems/504cb7d7-9ac1-4869-8fa1-f1f17f170f91

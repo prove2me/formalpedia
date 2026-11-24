@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrinTwo_coord_eq_of_far
 -- name    : GlobalTheory.PrinTwo.coord_eq_of_far
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:55:28.059888+00:00
 -- url     : https://prove2.me/theorems/9846740a-4c8d-4b01-aae7-b7b2cf1bcf66

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeBound_Rep_sum_fixed
 -- name    : GlobalTheory.SatakeBound.Rep.sum_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:45:04.524047+00:00
 -- url     : https://prove2.me/theorems/52ee0c1d-3321-4650-9b30-d15463a24935

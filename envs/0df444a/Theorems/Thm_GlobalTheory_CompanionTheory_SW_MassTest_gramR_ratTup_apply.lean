@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_MassTest_gramR_ratTup_apply
 -- name    : GlobalTheory.CompanionTheory.SW.MassTest.gramR_ratTup_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:20:25.000864+00:00
 -- url     : https://prove2.me/theorems/ec4f9ddd-bab4-4052-b5d1-b7bff9ccd7fa

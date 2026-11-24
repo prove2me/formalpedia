@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_WtRat_isUnit_ev
 -- name    : GlobalTheory.SS.WtRat.isUnit_ev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:37:55.552909+00:00
 -- url     : https://prove2.me/theorems/1d528020-210e-43cb-9a31-a6c3edeb8d06

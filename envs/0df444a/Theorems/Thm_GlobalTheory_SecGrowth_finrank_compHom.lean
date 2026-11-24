@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGrowth_finrank_compHom
 -- name    : GlobalTheory.SecGrowth.finrank_compHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:52:14.253349+00:00
 -- url     : https://prove2.me/theorems/eab39d70-4b98-4500-9881-58529663cd8b

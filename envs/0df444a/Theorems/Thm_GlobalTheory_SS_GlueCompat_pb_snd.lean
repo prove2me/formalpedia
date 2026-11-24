@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GlueCompat_pb_snd
 -- name    : GlobalTheory.SS.GlueCompat.pb_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:35:55.681631+00:00
 -- url     : https://prove2.me/theorems/4789d083-aff6-4ff8-b290-d14b56eef46a

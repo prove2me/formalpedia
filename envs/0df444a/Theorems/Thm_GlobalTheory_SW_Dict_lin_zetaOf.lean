@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Dict_lin_zetaOf
 -- name    : GlobalTheory.SW.Dict.lin_zetaOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:37:22.544581+00:00
 -- url     : https://prove2.me/theorems/24d67653-91db-45fd-906a-9fc17ab14fbf

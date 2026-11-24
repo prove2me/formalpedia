@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WeakDominationMajorants_Asm_haar_finite
 -- name    : Formalism.FourierDecayAlt.P.WeakDominationMajorants.Asm.haar_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:18:54.079326+00:00
 -- url     : https://prove2.me/theorems/31825232-e741-41c9-976c-b8951e56c5f4

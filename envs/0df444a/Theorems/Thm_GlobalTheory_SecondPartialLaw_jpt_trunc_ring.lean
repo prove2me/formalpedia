@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecondPartialLaw_jpt_trunc_ring
 -- name    : GlobalTheory.SecondPartialLaw.jpt_trunc_ring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:51:48.261912+00:00
 -- url     : https://prove2.me/theorems/f15bcfee-efb2-4fde-a2c2-f6884f8039de

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RealZero_le_order
 -- name    : GlobalTheory.Hk.RealZero.le_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:36:12.443739+00:00
 -- url     : https://prove2.me/theorems/754df552-fedf-4ffa-9150-1569783d5fe3

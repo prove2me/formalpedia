@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealZeros_differentiableOn_tsum_br
 -- name    : GlobalTheory.RealZeros.differentiableOn_tsum_br
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:16:46.702828+00:00
 -- url     : https://prove2.me/theorems/90a64091-a1a3-4543-8b52-1cb742ae9862

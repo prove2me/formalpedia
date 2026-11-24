@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKH_Evl_schr_mem
 -- name    : PositivityTheory.ThKH.Evl.schr_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:43:07.251213+00:00
 -- url     : https://prove2.me/theorems/30600a9a-e682-4f9a-a529-b46c5ecd74ec

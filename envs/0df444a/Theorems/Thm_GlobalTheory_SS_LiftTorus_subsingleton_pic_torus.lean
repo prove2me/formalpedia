@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_LiftTorus_subsingleton_pic_torus
 -- name    : GlobalTheory.SS.LiftTorus.subsingleton_pic_torus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:35:58.187048+00:00
 -- url     : https://prove2.me/theorems/f01eba23-2f7f-4564-8779-2456392ed4fb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Emb_imH_cor
 -- name    : GlobalTheory.SW.Emb.imH_cor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:40:08.12229+00:00
 -- url     : https://prove2.me/theorems/62c3946f-d343-4034-acfa-0f6c223fe942

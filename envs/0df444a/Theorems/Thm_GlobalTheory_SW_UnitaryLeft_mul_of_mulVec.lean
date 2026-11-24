@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_UnitaryLeft_mul_of_mulVec
 -- name    : GlobalTheory.SW.UnitaryLeft.mul_of_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:45:41.120129+00:00
 -- url     : https://prove2.me/theorems/51d22822-92aa-41d9-8a3a-55bf69c5f462

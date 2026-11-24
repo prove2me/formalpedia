@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeFlip_cosetMap_smul
 -- name    : GlobalTheory.SatakeFlip.cosetMap_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:45:19.258423+00:00
 -- url     : https://prove2.me/theorems/8fe7b74a-1aa1-4aac-b2d7-32dfb44c0559

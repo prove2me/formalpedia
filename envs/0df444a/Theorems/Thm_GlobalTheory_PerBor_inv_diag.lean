@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerBor_inv_diag
 -- name    : GlobalTheory.PerBor.inv_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:09:30.812047+00:00
 -- url     : https://prove2.me/theorems/8e081660-83bc-4d40-a171-c79b2ddd7203

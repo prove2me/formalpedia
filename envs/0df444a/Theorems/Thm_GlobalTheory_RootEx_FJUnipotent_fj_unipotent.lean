@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_FJUnipotent_fj_unipotent
 -- name    : GlobalTheory.RootEx.FJUnipotent.fj_unipotent
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:10:26.683576+00:00
 -- url     : https://prove2.me/theorems/76c9af82-9d7a-4546-abe5-25aaa8ce67cd

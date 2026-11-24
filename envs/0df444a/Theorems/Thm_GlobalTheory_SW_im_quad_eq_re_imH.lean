@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_im_quad_eq_re_imH
 -- name    : GlobalTheory.SW.im_quad_eq_re_imH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:45:41.411153+00:00
 -- url     : https://prove2.me/theorems/b40b60a1-83b8-424c-beb7-50e28ce77768

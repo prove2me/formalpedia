@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_pairing_kernel_integrable
 -- name    : Formalism.FourierDecayAlt.P.B6.pairing_kernel_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:04:19.271533+00:00
 -- url     : https://prove2.me/theorems/0822d196-7ce2-4bb4-8b92-ab9b4c7bf336

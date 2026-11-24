@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_IsGoodCMCurve_field_eq
 -- name    : GlobalTheory.Published.IsGoodCMCurve.field_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:56:37.014977+00:00
 -- url     : https://prove2.me/theorems/38c26681-df86-4bcf-8f5e-67909cefb534

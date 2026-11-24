@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_NullV_nhdsNE_Fv
 -- name    : GlobalTheory.CompanionTheory.SW.NullV.nhdsNE_Fv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:20:55.441536+00:00
 -- url     : https://prove2.me/theorems/8fb08273-4d8e-4952-a1ba-6d60e9c501b2

@@ -91633,13 +91633,13 @@
 {"parent": "BewleyGE.closed_graph", "child": "BewleyGE_Spread", "via": ["statement"]}
 {"parent": "BewleyGE.closed_graph", "child": "BewleyGE_IsEqFamily", "via": ["statement"]}
 {"parent": "BewleyGE.closed_graph", "child": "BewleyGE_Assumption1", "via": ["statement"]}
-{"parent": "KallMayerSLP.Bonferroni.eq_3_15_boole_bonferroni", "child": "KallMayerSLP_Bonferroni_exceedanceEvent", "via": ["statement"]}
-{"parent": "KallMayerSLP.Bonferroni.eq_3_15_boole_bonferroni", "child": "KallMayerSLP_Bonferroni_lpMin", "via": ["statement"]}
-{"parent": "KallMayerSLP.Bonferroni.eq_3_15_boole_bonferroni", "child": "KallMayerSLP_Bonferroni_vMinClosedForm", "via": ["statement"]}
-{"parent": "KallMayerSLP.Bonferroni.eq_3_15_boole_bonferroni", "child": "KallMayerSLP_Bonferroni_lpMax", "via": ["statement"]}
-{"parent": "KallMayerSLP.Bonferroni.eq_3_15_boole_bonferroni", "child": "KallMayerSLP_Bonferroni_vMaxClosedForm", "via": ["statement"]}
-{"parent": "KallMayerSLP.Bonferroni.eq_3_15_boole_bonferroni", "child": "KallMayerSLP_Bonferroni_jointCDF", "via": ["statement"]}
-{"parent": "KallMayerSLP.Bonferroni.eq_3_15_boole_bonferroni", "child": "KallMayerSLP_Bonferroni_binomialMoment", "via": ["statement"]}
+{"parent": "KallMayerSLP.Bonferroni.eq_3_15_boole_bonferroni", "child": "KallMayerSLP_Bonferroni_exceedanceEvent", "via": ["solution", "statement"]}
+{"parent": "KallMayerSLP.Bonferroni.eq_3_15_boole_bonferroni", "child": "KallMayerSLP_Bonferroni_lpMin", "via": ["solution", "statement"]}
+{"parent": "KallMayerSLP.Bonferroni.eq_3_15_boole_bonferroni", "child": "KallMayerSLP_Bonferroni_vMinClosedForm", "via": ["solution", "statement"]}
+{"parent": "KallMayerSLP.Bonferroni.eq_3_15_boole_bonferroni", "child": "KallMayerSLP_Bonferroni_lpMax", "via": ["solution", "statement"]}
+{"parent": "KallMayerSLP.Bonferroni.eq_3_15_boole_bonferroni", "child": "KallMayerSLP_Bonferroni_vMaxClosedForm", "via": ["solution", "statement"]}
+{"parent": "KallMayerSLP.Bonferroni.eq_3_15_boole_bonferroni", "child": "KallMayerSLP_Bonferroni_jointCDF", "via": ["solution", "statement"]}
+{"parent": "KallMayerSLP.Bonferroni.eq_3_15_boole_bonferroni", "child": "KallMayerSLP_Bonferroni_binomialMoment", "via": ["solution", "statement"]}
 {"parent": "HuangN13.N13IntegralInfinityVerticalGraphSpecialRestriction.constantInfinityFibre_affine_xUnitMod", "child": "MazurN13_L4", "via": ["solution", "statement"]}
 {"parent": "HuangN13.N13IntegralInfinityVerticalGraphSpecialRestriction.constantInfinityFibre_affine_xUnitMod", "child": "HuangN13_SpecialComparisonCore", "via": ["solution", "statement"]}
 {"parent": "MarkovProcess_V3H_Examples_HeatSemigroup_43feba3c", "child": "MarkovProcess_V3H_Trajectory_Dynkin_eb6ae7c0", "via": ["statement"]}

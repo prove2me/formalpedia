@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_FullLevel_M__pos_df9b3d1f4b28
 -- name    : P2M_GlobalTheory_FullLevel_M__pos_df9b3d1f4b28
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:18:26.888545+00:00
 -- url     : https://prove2.me/theorems/7129509e-0470-44e9-8e49-f8d0caba3aca

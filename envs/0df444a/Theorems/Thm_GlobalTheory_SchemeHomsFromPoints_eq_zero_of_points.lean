@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchemeHomsFromPoints_eq_zero_of_points
 -- name    : GlobalTheory.SchemeHomsFromPoints.eq_zero_of_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:48:13.083868+00:00
 -- url     : https://prove2.me/theorems/635fc410-b143-43ab-836e-339507e1b162

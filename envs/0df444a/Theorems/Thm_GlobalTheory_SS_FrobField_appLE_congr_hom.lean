@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_FrobField_appLE_congr_hom
 -- name    : GlobalTheory.SS.FrobField.appLE_congr_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:33:30.264594+00:00
 -- url     : https://prove2.me/theorems/824dd9d2-06d0-4849-8809-452c4e92c249

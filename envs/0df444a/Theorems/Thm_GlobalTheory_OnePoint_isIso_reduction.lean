@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OnePoint_isIso_reduction
 -- name    : GlobalTheory.OnePoint.isIso_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:37:28.539493+00:00
 -- url     : https://prove2.me/theorems/3e69650c-1204-4049-ad33-8f8e5802d4ac

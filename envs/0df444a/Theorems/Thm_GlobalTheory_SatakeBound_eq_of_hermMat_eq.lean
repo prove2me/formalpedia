@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeBound_eq_of_hermMat_eq
 -- name    : GlobalTheory.SatakeBound.eq_of_hermMat_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:45:25.455902+00:00
 -- url     : https://prove2.me/theorems/d6b8a3ae-be3f-4252-8a4a-92ef9ae1e4fc

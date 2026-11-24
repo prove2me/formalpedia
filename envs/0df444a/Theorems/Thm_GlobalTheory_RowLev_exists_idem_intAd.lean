@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_exists_idem_intAd
 -- name    : GlobalTheory.RowLev.exists_idem_intAd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:32:49.25484+00:00
 -- url     : https://prove2.me/theorems/adacd098-1213-4342-8aa8-2966e7013883

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_TargetUnip_det_linPart
 -- name    : GlobalTheory.RootEx.TargetUnip.det_linPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:29:58.551415+00:00
 -- url     : https://prove2.me/theorems/615381ba-e873-4482-8756-8c35d0c5d239

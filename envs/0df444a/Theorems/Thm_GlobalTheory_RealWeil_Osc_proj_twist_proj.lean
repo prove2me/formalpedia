@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_Osc_proj_twist_proj
 -- name    : GlobalTheory.RealWeil.Osc.proj_twist_proj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:07:50.504232+00:00
 -- url     : https://prove2.me/theorems/7cd87b23-2da9-4090-a0d7-d122d87bb3c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspBasis_isHerm_conj
 -- name    : GlobalTheory.CuspBasis.isHerm_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:51:18.735988+00:00
 -- url     : https://prove2.me/theorems/de32358f-d0f2-4547-a835-0ebbae322957

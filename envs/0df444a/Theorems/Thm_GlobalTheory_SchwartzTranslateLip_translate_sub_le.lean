@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchwartzTranslateLip_translate_sub_le
 -- name    : GlobalTheory.SchwartzTranslateLip.translate_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:48:20.692537+00:00
 -- url     : https://prove2.me/theorems/04c26ed4-da47-4378-a2e7-ea9bf1c21cad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FaulhuberTFA_ambiguity_box
 -- name    : FaulhuberTFA.ambiguity_box
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T11:49:06.78387+00:00
 -- url     : https://prove2.me/theorems/8d14abd5-313f-4c8c-969c-36e4d814dc47

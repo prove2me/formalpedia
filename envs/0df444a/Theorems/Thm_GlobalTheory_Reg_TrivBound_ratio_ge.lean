@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_TrivBound_ratio_ge
 -- name    : GlobalTheory.Reg.TrivBound.ratio_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:20:25.058803+00:00
 -- url     : https://prove2.me/theorems/a17b4447-a560-4ab9-8f10-49a9c0504b47

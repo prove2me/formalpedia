@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_D7_exists_art
 -- name    : Formalism.HC.D7.exists_art
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:40:14.195809+00:00
 -- url     : https://prove2.me/theorems/c4614df2-03fe-46a5-8f60-d3d872d154e6

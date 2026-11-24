@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodCompare_isPeriod_iff
 -- name    : GlobalTheory.PeriodCompare.isPeriod_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:44:00.549123+00:00
 -- url     : https://prove2.me/theorems/9c705517-a4cc-4dc7-a80e-70775fe656da

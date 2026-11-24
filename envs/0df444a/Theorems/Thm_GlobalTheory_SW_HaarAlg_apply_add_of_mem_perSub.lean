@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HaarAlg_apply_add_of_mem_perSub
 -- name    : GlobalTheory.SW.HaarAlg.apply_add_of_mem_perSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:40:43.193882+00:00
 -- url     : https://prove2.me/theorems/123b9666-38f9-4434-936f-6f269f9e8edf

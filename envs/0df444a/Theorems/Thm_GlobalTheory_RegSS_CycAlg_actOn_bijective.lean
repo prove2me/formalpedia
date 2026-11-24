@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegSS_CycAlg_actOn_bijective
 -- name    : GlobalTheory.RegSS.CycAlg.actOn_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:20:25.572371+00:00
 -- url     : https://prove2.me/theorems/b96e6cf2-6546-4a28-9f5b-fe6655117c3c

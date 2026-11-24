@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_StrictLaw_isoAt_of_open
 -- name    : GlobalTheory.SS.StrictLaw.isoAt_of_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:38:51.702468+00:00
 -- url     : https://prove2.me/theorems/ba0509e7-14bd-4376-a36a-d298b32c8279

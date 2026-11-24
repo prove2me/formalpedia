@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Ord_exists_prime_iInf
 -- name    : GlobalTheory.SS.Ord.exists_prime_iInf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:18:16.974208+00:00
 -- url     : https://prove2.me/theorems/4a266280-545d-4ea0-9c0f-16d84cfccd99

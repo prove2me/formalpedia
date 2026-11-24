@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SBConv_exists_conv
 -- name    : GlobalTheory.SBConv.exists_conv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:32:23.639493+00:00
 -- url     : https://prove2.me/theorems/bd84d021-c248-4201-a505-96f27327d887

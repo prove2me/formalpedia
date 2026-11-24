@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_Rel_gs_eq
 -- name    : GlobalTheory.SecGlue.Rel.gs_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:49:22.071493+00:00
 -- url     : https://prove2.me/theorems/cc7693c8-8a19-4919-8825-eb7e6c69fa4e

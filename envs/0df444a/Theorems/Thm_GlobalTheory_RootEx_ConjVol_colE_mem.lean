@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_ConjVol_colE_mem
 -- name    : GlobalTheory.RootEx.ConjVol.colE_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:16:36.415813+00:00
 -- url     : https://prove2.me/theorems/c4a3b68e-c46d-4f32-be4d-541ab9ef67ad

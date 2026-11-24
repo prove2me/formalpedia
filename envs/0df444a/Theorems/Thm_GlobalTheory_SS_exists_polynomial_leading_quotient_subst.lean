@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_exists_polynomial_leading_quotient_subst
 -- name    : GlobalTheory.SS.exists_polynomial_leading_quotient_subst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:38:11.11243+00:00
 -- url     : https://prove2.me/theorems/3ad05a70-99de-4b0c-99c6-a7e25de1bab1

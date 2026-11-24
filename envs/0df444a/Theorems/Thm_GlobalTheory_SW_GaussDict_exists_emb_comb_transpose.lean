@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_GaussDict_exists_emb_comb_transpose
 -- name    : GlobalTheory.SW.GaussDict.exists_emb_comb_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:40:59.14982+00:00
 -- url     : https://prove2.me/theorems/2f3de48c-087e-491c-9aad-5db92d2c6dc0

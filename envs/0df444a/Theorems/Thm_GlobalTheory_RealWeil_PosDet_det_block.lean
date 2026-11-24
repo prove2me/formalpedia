@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_PosDet_det_block
 -- name    : GlobalTheory.RealWeil.PosDet.det_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:16:46.589159+00:00
 -- url     : https://prove2.me/theorems/355d1613-f94e-4393-92d1-4625153f3cb1

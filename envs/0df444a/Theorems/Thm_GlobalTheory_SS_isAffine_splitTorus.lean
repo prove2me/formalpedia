@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_isAffine_splitTorus
 -- name    : GlobalTheory.SS.isAffine_splitTorus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:38:40.286331+00:00
 -- url     : https://prove2.me/theorems/ab3ec72b-ebb6-4449-bf3c-1c1771703447

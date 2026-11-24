@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspBasis_isSkew_conj
 -- name    : GlobalTheory.CuspBasis.isSkew_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:52:11.495897+00:00
 -- url     : https://prove2.me/theorems/7e3a07da-95c5-4c3b-a349-0eb1c1010da8

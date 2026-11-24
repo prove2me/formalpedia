@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Model_exists_isType
 -- name    : GlobalTheory.SW.Model.exists_isType
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:42:53.261789+00:00
 -- url     : https://prove2.me/theorems/49c35b85-93ee-45c9-8ea0-1a0429f6098f

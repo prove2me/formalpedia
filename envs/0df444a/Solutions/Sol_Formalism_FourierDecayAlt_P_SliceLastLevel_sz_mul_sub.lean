@@ -1,0 +1,67 @@
+-- Prove2me | solution 1 for Formalism.FourierDecayAlt.P.SliceLastLevel.sz_mul_sub
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-1
+-- created : 2026-11-24T20:28:31.4718+00:00
+-- url     : https://prove2.me/submissions/420542df-9613-47e8-a0ed-d40ceea82065
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementJF
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_Block3MulBlocks
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_PhiBoundPartsOfRadicalParametrisation
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_DilationUnipotentWeylMeasure
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_BetaSesquilinearity
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_LongWeylElement
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_SettingExistence
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_OppositeWeylSubgroupClosed
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_HermitianFormFactor
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_TwoByOneBlock
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_CompactGroupHaarExists
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_SmoothnessOnGoodSet
+import Definitions.Def_Formalism_FormalDegreeBessel_FinalBF
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_NormDiagonalEntryDilationGeneratorLeOne
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_RegularisedPairingViaPhase
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_OrbitalIntegralAeConvergenceContinuity
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_SliceLastLevel
+import Theorems.Thm_Formalism_FourierDecayAlt_P_SliceLastLevel_sz_sum
+import Theorems.Thm_Formalism_FourierDecayAlt_P_B2x6_base_vector_first_eq_one
+import Theorems.Thm_Formalism_FourierDecayAlt_P_B2x6_base_vector_last_eq_zero
+import Theorems.Thm_Formalism_FourierDecayAlt_P_B2x6_base_vector_restriction_zero
+import Theorems.Thm_Formalism_FourierDecayAlt_P_B2x6_dual_base_vector_first_eq_zero
+import Theorems.Thm_Formalism_FourierDecayAlt_P_B2x6_dual_base_vector_last
+import Theorems.Thm_Formalism_FourierDecayAlt_P_B2x6_dual_base_vector_restriction_zero
+import Theorems.Thm_Formalism_FourierDecayAlt_P_B2x6_lift_F
+import Theorems.Thm_Formalism_FourierDecayAlt_P_B2x6_lift_L
+import Theorems.Thm_Formalism_FourierDecayAlt_P_B2x6_lift_res
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+attribute [local simp] Formalism.FourierDecayAlt.P.B2x6.base_vector_first_eq_one
+attribute [local simp] Formalism.FourierDecayAlt.P.B2x6.base_vector_last_eq_zero
+attribute [local simp] Formalism.FourierDecayAlt.P.B2x6.base_vector_restriction_zero
+attribute [local simp] Formalism.FourierDecayAlt.P.B2x6.dual_base_vector_first_eq_zero
+attribute [local simp] Formalism.FourierDecayAlt.P.B2x6.dual_base_vector_last
+attribute [local simp] Formalism.FourierDecayAlt.P.B2x6.dual_base_vector_restriction_zero
+attribute [local simp] Formalism.FourierDecayAlt.P.B2x6.lift_F
+attribute [local simp] Formalism.FourierDecayAlt.P.B2x6.lift_L
+attribute [local simp] Formalism.FourierDecayAlt.P.B2x6.lift_res
+
+
+
+set_option autoImplicit false
+noncomputable section
+open Matrix
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P Formalism.FourierDecayAlt.P.SliceLastLevel
+open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt Formalism.FourierDecayAlt.B Formalism.FourierDecayAlt.JF Formalism.FourierDecayAlt.P.Ux5
+variable (k r : ℕ)
+variable {k r}
+namespace Formalism.FourierDecayAlt.P.SliceLastLevel
+theorem _root_.solution {α β : Type*} (A B : B.Mat k r) (f : α → Fin (2 * r + k + 1)) (g : β → Fin (2 * r + k + 1)) :
+    (A * B).submatrix f g = A.submatrix f (szX k r) * B.submatrix (szX k r) g +
+      A.submatrix f (szW k r) * B.submatrix (szW k r) g + A.submatrix f (szS k r) * B.submatrix (szS k r) g := by
+  ext i j
+  simp only [submatrix_apply, Matrix.add_apply, Matrix.mul_apply]
+  exact sz_sum (fun x => A (f i) x * B x (g j))
+end Formalism.FourierDecayAlt.P.SliceLastLevel

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Retract_of_hasRingHomProperty
 -- name    : GlobalTheory.Retract.of_hasRingHomProperty
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:52.487119+00:00
 -- url     : https://prove2.me/theorems/efd4a066-a958-43b4-8938-a52079759392

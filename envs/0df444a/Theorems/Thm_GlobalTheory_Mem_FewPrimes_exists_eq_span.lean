@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_FewPrimes_exists_eq_span
 -- name    : GlobalTheory.Mem.FewPrimes.exists_eq_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:23:37.226656+00:00
 -- url     : https://prove2.me/theorems/77460abe-7354-4ac7-be32-7bc2d7c5f4ff

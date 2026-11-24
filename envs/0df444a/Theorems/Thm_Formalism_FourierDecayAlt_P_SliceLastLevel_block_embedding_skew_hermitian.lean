@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SliceLastLevel_block_embedding_skew_hermitian
 -- name    : Formalism.FourierDecayAlt.P.SliceLastLevel.block_embedding_skew_hermitian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:08:07.912135+00:00
 -- url     : https://prove2.me/theorems/6838fe0d-978e-49f1-b85f-e213b6afcca5

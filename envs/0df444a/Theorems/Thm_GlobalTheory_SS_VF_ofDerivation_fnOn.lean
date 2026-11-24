@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_VF_ofDerivation_fnOn
 -- name    : GlobalTheory.SS.VF.ofDerivation_fnOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:37:58.495666+00:00
 -- url     : https://prove2.me/theorems/e17d8421-ed53-4f34-9e78-352b06a7f2f8

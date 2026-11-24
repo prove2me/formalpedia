@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_essFiniteType_residueField_of_locallyOfFiniteType
 -- name    : GlobalTheory.SS.essFiniteType_residueField_of_locallyOfFiniteType
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:38:07.702473+00:00
 -- url     : https://prove2.me/theorems/ceae7414-c90a-40ee-be30-db28bab5bd97

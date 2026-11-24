@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnalyticHom_val_sec
 -- name    : GlobalTheory.AnalyticHom.val_sec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:56:06.862231+00:00
 -- url     : https://prove2.me/theorems/17691d98-785d-40d8-9879-d18f54a76234

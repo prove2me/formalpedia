@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_MinkowskiProductBounds_intM_ccT
 -- name    : GlobalTheory.SW.MinkowskiProductBounds.intM_ccT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:43:18.428838+00:00
 -- url     : https://prove2.me/theorems/7fc5cce2-2b71-4a1c-9442-b4b5e9c4027f

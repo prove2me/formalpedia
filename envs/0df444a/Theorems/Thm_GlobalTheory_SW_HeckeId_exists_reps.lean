@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeckeId_exists_reps
 -- name    : GlobalTheory.SW.HeckeId.exists_reps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:40:46.670205+00:00
 -- url     : https://prove2.me/theorems/f5227257-9edd-41b6-ab50-6e93e3991b16

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementJacquet_eq_of_eval_eq
 -- name    : GroundTheory.Automorphic.GodementJacquet.eq_of_eval_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:18:45.479556+00:00
 -- url     : https://prove2.me/theorems/a74d677d-41d0-4959-ad2a-f453d3debb17

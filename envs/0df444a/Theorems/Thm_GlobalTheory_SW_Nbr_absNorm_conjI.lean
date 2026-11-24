@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Nbr_absNorm_conjI
 -- name    : GlobalTheory.SW.Nbr.absNorm_conjI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:42:52.318831+00:00
 -- url     : https://prove2.me/theorems/4962fb60-075c-4e52-82c5-ec64112a7b3e

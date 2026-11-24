@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_RowExt_J_conj
 -- name    : GlobalTheory.SW.RowExt.J_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:44:29.266907+00:00
 -- url     : https://prove2.me/theorems/4fe71083-1063-480e-992f-0da1c550d7b5

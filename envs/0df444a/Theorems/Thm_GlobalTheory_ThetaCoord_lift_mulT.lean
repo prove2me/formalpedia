@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaCoord_lift_mulT
 -- name    : GlobalTheory.ThetaCoord.lift_mulT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:17:25.029739+00:00
 -- url     : https://prove2.me/theorems/7cba7f16-84e5-4071-bd54-dfdee95540df

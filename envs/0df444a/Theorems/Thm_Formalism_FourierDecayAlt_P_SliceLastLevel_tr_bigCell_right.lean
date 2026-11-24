@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SliceLastLevel_tr_bigCell_right
 -- name    : Formalism.FourierDecayAlt.P.SliceLastLevel.tr_bigCell_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:08:46.997639+00:00
 -- url     : https://prove2.me/theorems/845e6a09-94bc-46ac-abf0-7a7ca606911c

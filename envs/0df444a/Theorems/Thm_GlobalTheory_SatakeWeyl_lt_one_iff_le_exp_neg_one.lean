@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_lt_one_iff_le_exp_neg_one
 -- name    : GlobalTheory.SatakeWeyl.lt_one_iff_le_exp_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:50:13.241898+00:00
 -- url     : https://prove2.me/theorems/a6dbadb9-f4f1-4deb-b6e2-555a3366069c

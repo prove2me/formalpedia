@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelBasis_affine_transfer
 -- name    : GlobalTheory.RelBasis.affine_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:19:51.240036+00:00
 -- url     : https://prove2.me/theorems/dcd6660c-5b02-4f0c-b862-5eb27db26465

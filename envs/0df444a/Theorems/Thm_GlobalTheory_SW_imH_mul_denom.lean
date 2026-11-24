@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_imH_mul_denom
 -- name    : GlobalTheory.SW.imH_mul_denom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:45:30.241745+00:00
 -- url     : https://prove2.me/theorems/eb8e9906-c8b8-4a20-a473-8b8172ded1b5

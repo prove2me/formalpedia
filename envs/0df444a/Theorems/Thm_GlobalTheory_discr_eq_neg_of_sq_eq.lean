@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_discr_eq_neg_of_sq_eq
 -- name    : GlobalTheory.discr_eq_neg_of_sq_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:53:48.095802+00:00
 -- url     : https://prove2.me/theorems/c1902546-5559-48d5-a155-32baec974035

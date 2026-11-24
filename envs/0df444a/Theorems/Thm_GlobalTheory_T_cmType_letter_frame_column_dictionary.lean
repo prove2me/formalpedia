@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cmType_letter_frame_column_dictionary
 -- name    : GlobalTheory.T.cmType_letter_frame_column_dictionary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:49:21.223319+00:00
 -- url     : https://prove2.me/theorems/40e3b070-088e-4faa-883a-63bde60bd002

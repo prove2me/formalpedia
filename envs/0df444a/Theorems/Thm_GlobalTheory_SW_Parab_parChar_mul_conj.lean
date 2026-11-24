@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Parab_parChar_mul_conj
 -- name    : GlobalTheory.SW.Parab.parChar_mul_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:43:49.342279+00:00
 -- url     : https://prove2.me/theorems/996437eb-804c-4585-9903-19e0eede8f19

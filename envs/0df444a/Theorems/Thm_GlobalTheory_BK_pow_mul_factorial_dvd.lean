@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_pow_mul_factorial_dvd
 -- name    : GlobalTheory.BK.pow_mul_factorial_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:29:14.660515+00:00
 -- url     : https://prove2.me/theorems/087a9596-c6f7-4120-ba8e-2852b4f9a193

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SBUnif_sb_lattice_bounds
 -- name    : GlobalTheory.SBUnif.sb_lattice_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:39:50.124798+00:00
 -- url     : https://prove2.me/theorems/1a0dc239-0109-4783-a3cf-73b21d5c9fe1

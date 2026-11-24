@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGrowth_finite_compHom
 -- name    : GlobalTheory.SecGrowth.finite_compHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:52:37.485081+00:00
 -- url     : https://prove2.me/theorems/c1c8393a-a7f1-48da-898b-72262bad043c

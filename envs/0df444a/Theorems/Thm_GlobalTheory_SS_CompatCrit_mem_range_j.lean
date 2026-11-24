@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_CompatCrit_mem_range_j
 -- name    : GlobalTheory.SS.CompatCrit.mem_range_j
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:59:24.636745+00:00
 -- url     : https://prove2.me/theorems/aea90bc5-f10d-4156-9545-7fb4fcc988ec

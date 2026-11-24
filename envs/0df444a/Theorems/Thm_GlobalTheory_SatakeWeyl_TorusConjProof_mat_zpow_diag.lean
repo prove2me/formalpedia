@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_TorusConjProof_mat_zpow_diag
 -- name    : GlobalTheory.SatakeWeyl.TorusConjProof.mat_zpow_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:48:04.733625+00:00
 -- url     : https://prove2.me/theorems/7147d721-9b3e-45c9-bcc5-2d1b6997acdc

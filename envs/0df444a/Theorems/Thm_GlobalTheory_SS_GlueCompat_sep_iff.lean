@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GlueCompat_sep_iff
 -- name    : GlobalTheory.SS.GlueCompat.sep_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:34:59.014805+00:00
 -- url     : https://prove2.me/theorems/9dab74da-7481-414d-be8b-8f884044ff2b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_extId_mul_sup_natCast_conj
 -- name    : GlobalTheory.RowLev.extId_mul_sup_natCast_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:09:07.539923+00:00
 -- url     : https://prove2.me/theorems/158a8c05-d90f-42ef-9df5-d0b86a434f83

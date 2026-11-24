@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClopenIdealSheaf_exists_idealSheafData_of_isClopen
 -- name    : GlobalTheory.ClopenIdealSheaf.exists_idealSheafData_of_isClopen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:42:10.7138+00:00
 -- url     : https://prove2.me/theorems/7b08a90e-ef17-43c0-9230-472e465300e0

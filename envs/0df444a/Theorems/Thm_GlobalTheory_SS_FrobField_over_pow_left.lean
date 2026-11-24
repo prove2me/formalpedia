@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_FrobField_over_pow_left
 -- name    : GlobalTheory.SS.FrobField.over_pow_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:33:58.209793+00:00
 -- url     : https://prove2.me/theorems/6d73e185-57d5-4189-a484-c197d01c21ac

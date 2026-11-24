@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_FourierJ_tsum_supp
 -- name    : GlobalTheory.SW.FourierJ.tsum_supp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:39:23.717745+00:00
 -- url     : https://prove2.me/theorems/4ed01b89-41eb-4dcb-9297-0a5cf1e03adb

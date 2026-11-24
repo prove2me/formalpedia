@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Principalise_dense_range_restrict_of_blowup
 -- name    : GlobalTheory.CompanionTheory.Principalise.dense_range_restrict_of_blowup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:59:22.132622+00:00
 -- url     : https://prove2.me/theorems/7330b51e-c953-4c81-9642-959921c9374c

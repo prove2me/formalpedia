@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_val_modEq_iff
 -- name    : Formalism.HC.Der.val_modEq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:28:27.545698+00:00
 -- url     : https://prove2.me/theorems/ce19543d-82ed-4129-9e78-79dd7f1ef7fd

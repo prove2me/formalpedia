@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_conj_places_transitive
 -- name    : GlobalTheory.QNorm.conj_places_transitive
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:23:27.551273+00:00
 -- url     : https://prove2.me/theorems/64314fb8-8686-4450-ad61-4df6dbc12a53

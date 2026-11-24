@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspCentre_zMatE_unitary
 -- name    : GlobalTheory.CuspCentre.zMatE_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:36:21.165518+00:00
 -- url     : https://prove2.me/theorems/eccc6b24-d705-4cea-9330-5a642a92c700

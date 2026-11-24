@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_indexTwo_unitary
 -- name    : GlobalTheory.SatakeWeyl.indexTwo_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:48:09.450143+00:00
 -- url     : https://prove2.me/theorems/c3a7fc59-3dea-4371-805c-290ede6e2035

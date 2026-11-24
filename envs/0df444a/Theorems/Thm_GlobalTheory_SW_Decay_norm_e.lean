@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Decay_norm_e
 -- name    : GlobalTheory.SW.Decay.norm_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:38:00.388614+00:00
 -- url     : https://prove2.me/theorems/d5cf572a-61a6-4eee-871c-cc379e93e74a

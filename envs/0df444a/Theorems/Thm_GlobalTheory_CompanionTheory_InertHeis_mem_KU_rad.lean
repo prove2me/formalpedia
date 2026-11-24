@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertHeis_mem_KU_rad
 -- name    : GlobalTheory.CompanionTheory.InertHeis.mem_KU_rad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:50:21.42789+00:00
 -- url     : https://prove2.me/theorems/8ca5cc7c-c087-4031-8010-89490439ddb7

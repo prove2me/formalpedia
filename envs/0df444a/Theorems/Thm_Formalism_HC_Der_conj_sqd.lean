@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_conj_sqd
 -- name    : Formalism.HC.Der.conj_sqd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:54:09.688214+00:00
 -- url     : https://prove2.me/theorems/402fa43f-7982-4dd6-8a4c-66fd24cb2af3

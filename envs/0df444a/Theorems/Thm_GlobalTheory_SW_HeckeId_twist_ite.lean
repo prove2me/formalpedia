@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeckeId_twist_ite
 -- name    : GlobalTheory.SW.HeckeId.twist_ite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:41:15.402893+00:00
 -- url     : https://prove2.me/theorems/70c33cd2-54e1-4ded-947d-29516796b9d6

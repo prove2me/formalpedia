@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_PrimV_primitiveCompact_normedField
 -- name    : GlobalTheory.CompanionTheory.SW.PrimV.primitiveCompact_normedField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:11:26.936598+00:00
 -- url     : https://prove2.me/theorems/48090bb6-76d4-493d-8d2a-6badc990ef5f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ScalarSnakeLength_exact_kerMap
 -- name    : GlobalTheory.ScalarSnakeLength.exact_kerMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:48:13.447164+00:00
 -- url     : https://prove2.me/theorems/7160d52d-f234-48cd-84a9-3327a27b46c9

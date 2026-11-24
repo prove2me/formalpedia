@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Translates_exists_right_slice
 -- name    : GlobalTheory.SS.Translates.exists_right_slice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:18:13.856258+00:00
 -- url     : https://prove2.me/theorems/93b0a80b-3932-491a-a807-daba424ee706

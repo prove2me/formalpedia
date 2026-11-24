@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityRankedConstruction_separatesRows_of_indexing
 -- name    : SensitivityRankedConstruction.separatesRows_of_indexing
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T20:19:22.036254+00:00
 -- url     : https://prove2.me/theorems/829a6d4f-0748-4b88-b417-a77247767b39

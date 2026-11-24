@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NTr_small_of_trace_small
 -- name    : GlobalTheory.NTr.small_of_trace_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:30:11.758068+00:00
 -- url     : https://prove2.me/theorems/91bf2026-ffe7-4e66-a661-1f418fd64344

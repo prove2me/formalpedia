@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_VolN_isMulRightInvariant_volN
 -- name    : GlobalTheory.RootEx.VolN.isMulRightInvariant_volN
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:05:02.173349+00:00
 -- url     : https://prove2.me/theorems/903a6869-a88d-4298-901c-ded8d9b0afb2

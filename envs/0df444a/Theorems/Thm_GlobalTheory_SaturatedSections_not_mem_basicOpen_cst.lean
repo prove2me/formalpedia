@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SaturatedSections_not_mem_basicOpen_cst
 -- name    : GlobalTheory.SaturatedSections.not_mem_basicOpen_cst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:48:36.616251+00:00
 -- url     : https://prove2.me/theorems/ee850f49-c789-4b26-b70a-ebf40cb96bd8

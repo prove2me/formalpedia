@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermClass_exists_finite_orthogonal_lengths
 -- name    : GlobalTheory.HermClass.exists_finite_orthogonal_lengths
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:17:49.684046+00:00
 -- url     : https://prove2.me/theorems/4fd2e079-ff26-4d7b-b1de-b8a9d7297d08

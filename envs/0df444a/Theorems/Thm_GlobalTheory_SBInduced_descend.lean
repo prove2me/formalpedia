@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SBInduced_descend
 -- name    : GlobalTheory.SBInduced.descend
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:32:57.292731+00:00
 -- url     : https://prove2.me/theorems/7c301bd5-6733-48a3-806e-b63826c4e97e

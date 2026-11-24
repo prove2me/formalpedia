@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeisH_isSB_heisH
 -- name    : GlobalTheory.SW.HeisH.isSB_heisH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:41:06.513564+00:00
 -- url     : https://prove2.me/theorems/3553d50a-9fa7-4a6a-b9d3-7d1c9205ad4e

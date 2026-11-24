@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityGraphPopulation_minimumEdges_copy_cost
 -- name    : SensitivityGraphPopulation.minimumEdges_copy_cost
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T20:19:20.462804+00:00
 -- url     : https://prove2.me/theorems/f5d03e5c-f4a4-4d32-9c94-4f6b3b41976a

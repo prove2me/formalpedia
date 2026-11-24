@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeisH_of_vecMul
 -- name    : GlobalTheory.SW.HeisH.of_vecMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:40:34.69454+00:00
 -- url     : https://prove2.me/theorems/9d782e47-e9cb-4a79-9953-10dd7f6846c6

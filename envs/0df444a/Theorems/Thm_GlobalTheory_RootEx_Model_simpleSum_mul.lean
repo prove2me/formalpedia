@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Model_simpleSum_mul
 -- name    : GlobalTheory.RootEx.Model.simpleSum_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:54:13.39703+00:00
 -- url     : https://prove2.me/theorems/fb4f0a93-60a9-48f7-9d9e-c0be5d8a67c2

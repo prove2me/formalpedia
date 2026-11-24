@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Emb_exists_col
 -- name    : GlobalTheory.SW.Emb.exists_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:41:39.342783+00:00
 -- url     : https://prove2.me/theorems/657e2fa2-27d9-4dd4-86c2-f4f4785a5afa

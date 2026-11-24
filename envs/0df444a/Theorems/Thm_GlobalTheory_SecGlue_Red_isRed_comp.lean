@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_Red_isRed_comp
 -- name    : GlobalTheory.SecGlue.Red.isRed_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:49:02.825779+00:00
 -- url     : https://prove2.me/theorems/a9ac90cc-3802-4e80-8e48-3eb60319e371

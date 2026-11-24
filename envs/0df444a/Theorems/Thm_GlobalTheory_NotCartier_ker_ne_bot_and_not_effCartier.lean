@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NotCartier_ker_ne_bot_and_not_effCartier
 -- name    : GlobalTheory.NotCartier.ker_ne_bot_and_not_effCartier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:59:15.362943+00:00
 -- url     : https://prove2.me/theorems/7eef2cfa-9b9e-47e4-8ebf-25f206890350

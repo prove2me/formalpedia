@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_ModelPoints_exists_equiv
 -- name    : GlobalTheory.SS.ModelPoints.exists_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:38:05.792359+00:00
 -- url     : https://prove2.me/theorems/3070523f-791d-4aad-bdab-0fc43cc4de2a

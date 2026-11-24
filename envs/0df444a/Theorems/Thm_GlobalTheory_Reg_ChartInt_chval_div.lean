@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_ChartInt_chval_div
 -- name    : GlobalTheory.Reg.ChartInt.chval_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:18:20.113649+00:00
 -- url     : https://prove2.me/theorems/84824d89-39a5-480f-a602-58bb7882fef2

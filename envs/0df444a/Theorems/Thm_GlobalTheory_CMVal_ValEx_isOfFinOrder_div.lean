@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_ValEx_isOfFinOrder_div
 -- name    : GlobalTheory.CMVal.ValEx.isOfFinOrder_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:06:32.290864+00:00
 -- url     : https://prove2.me/theorems/6e53ae2e-3240-41b6-951a-472c7fde8558

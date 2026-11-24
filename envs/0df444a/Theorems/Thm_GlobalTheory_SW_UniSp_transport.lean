@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_UniSp_transport
 -- name    : GlobalTheory.SW.UniSp.transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:44:58.749412+00:00
 -- url     : https://prove2.me/theorems/97dd69a3-c4e8-4082-969d-2c9c0429ec62

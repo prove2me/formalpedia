@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_WeakNeronEx_spMap_ev
 -- name    : GlobalTheory.SS.WeakNeronEx.spMap_ev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:10:34.040814+00:00
 -- url     : https://prove2.me/theorems/0bfe2160-6671-4597-9d19-21e0307c0aff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeSection_eq_zero_of_forall_pow_dvd_germ
 -- name    : GlobalTheory.PrimeSection.eq_zero_of_forall_pow_dvd_germ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:28:35.259172+00:00
 -- url     : https://prove2.me/theorems/76daa560-546b-4d50-a74a-70383ca39a98

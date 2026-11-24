@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Emb_hAct_emb
 -- name    : GlobalTheory.SW.Emb.hAct_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:39:36.529704+00:00
 -- url     : https://prove2.me/theorems/3c65e6ff-852b-473e-abf8-8e468031be8c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_gal_eq_art_iff
 -- name    : Formalism.HC.Der.gal_eq_art_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:54:08.047396+00:00
 -- url     : https://prove2.me/theorems/4af25d2f-a89e-4de5-8313-377d290bc244

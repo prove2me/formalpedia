@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_UniSp_tau_eq
 -- name    : GlobalTheory.SW.UniSp.tau_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:44:51.110843+00:00
 -- url     : https://prove2.me/theorems/76e3a9b8-2877-44f7-a8a8-4c7ef32c2560

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_NullV_null_of_overlap
 -- name    : GlobalTheory.CompanionTheory.SW.NullV.null_of_overlap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:21:33.272797+00:00
 -- url     : https://prove2.me/theorems/440cafc3-fe4e-4dca-9b2d-deafd381cb7f

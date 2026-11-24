@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Smoothening_free_of_away
 -- name    : GlobalTheory.SS.Smoothening.free_of_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:38:29.509804+00:00
 -- url     : https://prove2.me/theorems/dbdd99ad-48be-435d-b2a2-cca8a1b102ed

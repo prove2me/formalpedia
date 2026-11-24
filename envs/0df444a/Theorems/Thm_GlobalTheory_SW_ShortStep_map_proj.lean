@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_ShortStep_map_proj
 -- name    : GlobalTheory.SW.ShortStep.map_proj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:44:54.844172+00:00
 -- url     : https://prove2.me/theorems/a4368960-bfb1-4298-98b0-ddac2bf6a216

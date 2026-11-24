@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityWeightedCliqueCertificate_coloring_bound
 -- name    : SensitivityWeightedCliqueCertificate.coloring_bound
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T20:19:29.286711+00:00
 -- url     : https://prove2.me/theorems/3d839889-fa86-4fe6-a745-91f79ca5e9aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KallMayerSLP_Bonferroni_eq_3_15_boole_bonferroni
 -- name    : KallMayerSLP.Bonferroni.eq_3_15_boole_bonferroni
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T22:16:22.233812+00:00
 -- url     : https://prove2.me/theorems/1d60459e-8f81-4b17-ba1a-e8efcc728aeb

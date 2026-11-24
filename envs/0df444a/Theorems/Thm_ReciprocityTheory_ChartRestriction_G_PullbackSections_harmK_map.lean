@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_harmK_map
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.harmK_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:19:02.294796+00:00
 -- url     : https://prove2.me/theorems/495a743a-d42e-4ec9-a3a1-3df2616611ba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_b2_rank_one_coord
 -- name    : Formalism.FourierDecayAlt.P.b2_rank_one_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:25:56.294972+00:00
 -- url     : https://prove2.me/theorems/14b034ce-2a51-4500-8272-3fe2ebcaccfa

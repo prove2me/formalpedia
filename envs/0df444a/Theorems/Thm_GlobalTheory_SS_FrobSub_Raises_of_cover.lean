@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_FrobSub_Raises_of_cover
 -- name    : GlobalTheory.SS.FrobSub.Raises.of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:34:47.187805+00:00
 -- url     : https://prove2.me/theorems/fbbd8bf5-dcb1-421d-b93a-ef3987b680dc

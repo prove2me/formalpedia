@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_WeilAdm_eq_of_agree
 -- name    : GlobalTheory.SW.WeilAdm.eq_of_agree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:45:26.730126+00:00
 -- url     : https://prove2.me/theorems/25b5b3ef-ebcd-423e-9c9b-c2b965220fbe

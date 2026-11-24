@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadDeriv_dof_additive
 -- name    : GlobalTheory.QuadDeriv.dof_additive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:08:12.888+00:00
 -- url     : https://prove2.me/theorems/e467daf9-1fcc-4f2f-ab9c-4bf38336301f

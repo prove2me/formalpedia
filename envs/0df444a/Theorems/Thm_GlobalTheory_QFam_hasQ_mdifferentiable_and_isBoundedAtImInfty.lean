@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_hasQ_mdifferentiable_and_isBoundedAtImInfty
 -- name    : GlobalTheory.QFam.hasQ_mdifferentiable_and_isBoundedAtImInfty
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:16:14.803698+00:00
 -- url     : https://prove2.me/theorems/f3609aa0-154f-4835-9267-56979a3b38d5

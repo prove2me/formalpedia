@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Emb_cor_zero
 -- name    : GlobalTheory.SW.Emb.cor_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:38:07.395522+00:00
 -- url     : https://prove2.me/theorems/3dbaeaac-4f18-4ff5-a122-70974d183da8

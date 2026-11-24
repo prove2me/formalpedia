@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FaulhuberTFA_crossAmbiguity_orthogonality
 -- name    : FaulhuberTFA.crossAmbiguity_orthogonality
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T11:52:29.71024+00:00
 -- url     : https://prove2.me/theorems/eaa8c9c8-69da-4a7e-b8e5-d570916bee0b

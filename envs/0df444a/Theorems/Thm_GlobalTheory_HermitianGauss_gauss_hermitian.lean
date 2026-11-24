@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermitianGauss_gauss_hermitian
 -- name    : GlobalTheory.HermitianGauss.gauss_hermitian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:20:18.353807+00:00
 -- url     : https://prove2.me/theorems/aa4e4e83-a180-4883-8183-19efc614fd62

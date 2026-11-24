@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_isotropic_ternary_of_units
 -- name    : GlobalTheory.LocalQuad.isotropic_ternary_of_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:19:08.482838+00:00
 -- url     : https://prove2.me/theorems/25bf56b2-59f9-48cd-bcc8-22db3e7d5853

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Ord_exists_pow_mul_mem
 -- name    : GlobalTheory.SS.Ord.exists_pow_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:18:20.365625+00:00
 -- url     : https://prove2.me/theorems/311fae03-970e-4f9e-b154-4e9b8e3ea999

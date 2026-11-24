@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Smoothening_vanish_isRadical
 -- name    : GlobalTheory.SS.Smoothening.vanish_isRadical
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:37:24.645625+00:00
 -- url     : https://prove2.me/theorems/c51f6c6b-5aa7-4641-8f88-a7522d03c8fb

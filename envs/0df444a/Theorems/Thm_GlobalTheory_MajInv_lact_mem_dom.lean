@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MajInv_lact_mem_dom
 -- name    : GlobalTheory.MajInv.lact_mem_dom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:20:24.959175+00:00
 -- url     : https://prove2.me/theorems/933a9f07-bef2-41bb-a2ae-61bfc79980f3

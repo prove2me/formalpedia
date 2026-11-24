@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OpTrace_IsTraceClass_trace_conj
 -- name    : GlobalTheory.OpTrace.IsTraceClass.trace_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:05:47.717497+00:00
 -- url     : https://prove2.me/theorems/d200d1af-982e-4fc9-a764-83f5910203a3

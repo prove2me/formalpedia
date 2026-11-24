@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SegreCoord_gs_sum
 -- name    : GlobalTheory.SegreCoord.gs_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:52:31.396727+00:00
 -- url     : https://prove2.me/theorems/f01f8c16-9749-4853-abf5-a9305acdd00c

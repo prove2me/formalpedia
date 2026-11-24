@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GlueCompat_closed_two
 -- name    : GlobalTheory.SS.GlueCompat.closed_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:59:14.254948+00:00
 -- url     : https://prove2.me/theorems/a91bdbd2-18db-4310-ae8e-3b5fc4434fc1

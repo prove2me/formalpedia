@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_WeilAdm_mul_mem_cols
 -- name    : GlobalTheory.SW.WeilAdm.mul_mem_cols
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:45:59.341786+00:00
 -- url     : https://prove2.me/theorems/33d4e141-a23e-4175-81e2-5cdb1f742747

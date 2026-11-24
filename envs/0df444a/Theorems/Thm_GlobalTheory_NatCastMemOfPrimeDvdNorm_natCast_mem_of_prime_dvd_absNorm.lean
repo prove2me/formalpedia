@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NatCastMemOfPrimeDvdNorm_natCast_mem_of_prime_dvd_absNorm
 -- name    : GlobalTheory.NatCastMemOfPrimeDvdNorm.natCast_mem_of_prime_dvd_absNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:23:16.025391+00:00
 -- url     : https://prove2.me/theorems/c5f67569-fb5f-42a6-9931-a5d7671a8374

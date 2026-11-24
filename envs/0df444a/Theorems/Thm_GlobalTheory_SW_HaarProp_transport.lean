@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HaarProp_transport
 -- name    : GlobalTheory.SW.HaarProp.transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:41:08.70329+00:00
 -- url     : https://prove2.me/theorems/50bfa130-d0c5-4956-8a69-d1201dfbe8b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_LawDef_prod_j_snd
 -- name    : GlobalTheory.SS.LawDef.prod_j_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:03:15.8288+00:00
 -- url     : https://prove2.me/theorems/9d59b175-aab6-49d0-8d01-7a8935ccc9d3

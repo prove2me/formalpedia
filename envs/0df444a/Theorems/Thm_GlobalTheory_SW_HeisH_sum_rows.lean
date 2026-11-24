@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeisH_sum_rows
 -- name    : GlobalTheory.SW.HeisH.sum_rows
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:40:41.993817+00:00
 -- url     : https://prove2.me/theorems/4e3db35c-2110-4c08-92f5-f4cdab5e13ba

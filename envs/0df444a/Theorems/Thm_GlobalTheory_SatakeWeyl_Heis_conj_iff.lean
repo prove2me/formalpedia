@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_Heis_conj_iff
 -- name    : GlobalTheory.SatakeWeyl.Heis.conj_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:47:42.785822+00:00
 -- url     : https://prove2.me/theorems/db6d58bf-1680-44dd-8442-7c94946abbf2

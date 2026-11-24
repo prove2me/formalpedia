@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_IdxFour_rootMat_unitary
 -- name    : GlobalTheory.SatakeWeyl.IdxFour.rootMat_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:48:33.723518+00:00
 -- url     : https://prove2.me/theorems/ad9cb96f-d012-4e6c-bfe1-8d8211d423b6

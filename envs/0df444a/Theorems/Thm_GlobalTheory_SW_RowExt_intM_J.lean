@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_RowExt_intM_J
 -- name    : GlobalTheory.SW.RowExt.intM_J
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:44:36.861221+00:00
 -- url     : https://prove2.me/theorems/d246fcbf-e9ad-4d9b-aadc-cf6d07c65bfd

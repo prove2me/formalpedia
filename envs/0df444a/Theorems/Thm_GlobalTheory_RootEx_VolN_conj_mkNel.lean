@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_VolN_conj_mkNel
 -- name    : GlobalTheory.RootEx.VolN.conj_mkNel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:29:52.435723+00:00
 -- url     : https://prove2.me/theorems/a26acd96-bf8f-46fe-ad04-9b9d4b09be55

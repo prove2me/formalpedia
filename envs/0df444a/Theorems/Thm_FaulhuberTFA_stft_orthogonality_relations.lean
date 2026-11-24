@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FaulhuberTFA_stft_orthogonality_relations
 -- name    : FaulhuberTFA.stft_orthogonality_relations
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T11:40:52.349537+00:00
 -- url     : https://prove2.me/theorems/1fadc07b-b8ce-4458-afd6-ac65f0a40217

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_FourierJ_prodsum_fin
 -- name    : GlobalTheory.SW.FourierJ.prodsum_fin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:38:59.11468+00:00
 -- url     : https://prove2.me/theorems/37f6df88-ee8b-451f-ae3c-aadecd91d275

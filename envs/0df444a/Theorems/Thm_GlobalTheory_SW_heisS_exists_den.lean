@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_heisS_exists_den
 -- name    : GlobalTheory.SW.heisS_exists_den
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:45:31.1546+00:00
 -- url     : https://prove2.me/theorems/9563def0-1cc1-445e-bc68-bdeab166a91f

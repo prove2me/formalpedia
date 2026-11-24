@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_PrimV_compact_Nf
 -- name    : GlobalTheory.CompanionTheory.SW.PrimV.compact_Nf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:08:52.775612+00:00
 -- url     : https://prove2.me/theorems/b24f4426-498e-4dcb-8eb4-ff663a713027

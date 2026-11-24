@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_FourierJ_qm_J
 -- name    : GlobalTheory.SW.FourierJ.qm_J
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:38:41.806798+00:00
 -- url     : https://prove2.me/theorems/fffb8432-4f80-442f-ad94-7dc05bd7000b

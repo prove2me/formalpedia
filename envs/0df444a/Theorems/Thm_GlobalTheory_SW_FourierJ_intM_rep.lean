@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_FourierJ_intM_rep
 -- name    : GlobalTheory.SW.FourierJ.intM_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:38:54.453272+00:00
 -- url     : https://prove2.me/theorems/5f9e98dd-2248-49bb-a501-ea89594cd818

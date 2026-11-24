@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Retract_finitePresentation_algebra
 -- name    : GlobalTheory.Retract.finitePresentation_algebra
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:10:05.848956+00:00
 -- url     : https://prove2.me/theorems/42533c90-3d78-4a3f-8987-6ec23e428017

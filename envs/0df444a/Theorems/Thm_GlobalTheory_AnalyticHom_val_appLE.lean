@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnalyticHom_val_appLE
 -- name    : GlobalTheory.AnalyticHom.val_appLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:55:45.332507+00:00
 -- url     : https://prove2.me/theorems/085483e8-65eb-458e-97a6-b577beddb698

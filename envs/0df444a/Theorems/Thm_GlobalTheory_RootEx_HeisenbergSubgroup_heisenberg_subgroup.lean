@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_HeisenbergSubgroup_heisenberg_subgroup
 -- name    : GlobalTheory.RootEx.HeisenbergSubgroup.heisenberg_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:25:53.564354+00:00
 -- url     : https://prove2.me/theorems/c9c96b29-6470-4c9d-857d-737df8c2e523

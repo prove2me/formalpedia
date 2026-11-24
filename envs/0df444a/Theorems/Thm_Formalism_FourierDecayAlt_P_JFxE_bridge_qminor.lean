@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxE_bridge_qminor
 -- name    : Formalism.FourierDecayAlt.P.JFxE.bridge_qminor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:59:49.830364+00:00
 -- url     : https://prove2.me/theorems/4088af37-9896-45be-8cdd-12538cd8da28

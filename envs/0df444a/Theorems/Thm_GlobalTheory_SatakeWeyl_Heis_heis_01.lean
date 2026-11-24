@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_Heis_heis_01
 -- name    : GlobalTheory.SatakeWeyl.Heis.heis_01
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:48:03.572885+00:00
 -- url     : https://prove2.me/theorems/3389f5a9-5f09-4cc4-b6ac-e78a619a4513

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecLift_awayMap_surjective_of_surjective
 -- name    : GlobalTheory.SecLift.awayMap_surjective_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:51:52.527784+00:00
 -- url     : https://prove2.me/theorems/35ea4e1f-4d4c-436c-9b35-6def2cb8fc18

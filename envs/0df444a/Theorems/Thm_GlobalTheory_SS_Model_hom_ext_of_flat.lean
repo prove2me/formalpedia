@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Model_hom_ext_of_flat
 -- name    : GlobalTheory.SS.Model.hom_ext_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:36:53.036208+00:00
 -- url     : https://prove2.me/theorems/d4ec6857-383b-44f9-a7db-c376a5099113

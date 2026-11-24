@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ScalarSnakeLength_length_of_surjective
 -- name    : GlobalTheory.ScalarSnakeLength.length_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:47:34.119711+00:00
 -- url     : https://prove2.me/theorems/bf1002a0-547c-46a4-8778-0d213f3b5694

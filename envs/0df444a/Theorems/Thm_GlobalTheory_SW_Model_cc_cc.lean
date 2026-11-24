@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Model_cc_cc
 -- name    : GlobalTheory.SW.Model.cc_cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:44:12.354849+00:00
 -- url     : https://prove2.me/theorems/36980074-54db-401b-b32c-179d4ae9b613

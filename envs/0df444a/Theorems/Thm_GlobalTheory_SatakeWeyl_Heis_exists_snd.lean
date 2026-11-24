@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_Heis_exists_snd
 -- name    : GlobalTheory.SatakeWeyl.Heis.exists_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:48:06.346519+00:00
 -- url     : https://prove2.me/theorems/6819dfa4-0403-47dc-97c6-db3e3ef0ad16

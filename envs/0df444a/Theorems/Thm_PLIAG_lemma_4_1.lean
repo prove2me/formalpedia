@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PLIAG_lemma_4_1
 -- name    : PLIAG.lemma_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-03T05:29:21.078735+00:00
 -- url     : https://prove2.me/theorems/5e14cd1c-3128-4783-8a53-dbca4dfb032f

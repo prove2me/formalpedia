@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_UniSp_exists_gram
 -- name    : GlobalTheory.SW.UniSp.exists_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:44:09.143591+00:00
 -- url     : https://prove2.me/theorems/fba36fee-6201-4bd0-af59-c75bb7b3ac5d

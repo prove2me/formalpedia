@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxDs3_orbital_measurability_weak_threshold
 -- name    : Formalism.FourierDecayAlt.P.JFxDs3.orbital_measurability_weak_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:20:58.214074+00:00
 -- url     : https://prove2.me/theorems/2ca0aee4-650f-4cce-b60d-f0724ba0a16e

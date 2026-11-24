@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecLift_exists_div
 -- name    : GlobalTheory.SecLift.exists_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:52:29.038969+00:00
 -- url     : https://prove2.me/theorems/9e288664-c23a-4871-baef-17fe173c1414

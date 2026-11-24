@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_norm_form_mem_nhds_one
 -- name    : GlobalTheory.QNorm.norm_form_mem_nhds_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:04:19.623115+00:00
 -- url     : https://prove2.me/theorems/32304989-fdf9-4e36-b508-2b2e7485a9f0

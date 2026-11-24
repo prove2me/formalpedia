@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FaulhuberTFA_crossAmbiguity_fourier
 -- name    : FaulhuberTFA.crossAmbiguity_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T11:52:49.556799+00:00
 -- url     : https://prove2.me/theorems/8bcc76d7-8b3d-4e3d-8221-552c599c75e9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_ringHom_ext_zO
 -- name    : Formalism.HC.Der.ringHom_ext_zO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:28:16.338486+00:00
 -- url     : https://prove2.me/theorems/18e6102c-d0b8-4002-99b9-1dab86edc543

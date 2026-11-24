@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_FourierJacobiGroup_colE_conj_mem_R
 -- name    : GlobalTheory.RootEx.FourierJacobiGroup.colE_conj_mem_R
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:26:14.229384+00:00
 -- url     : https://prove2.me/theorems/c9447a7b-d178-4140-9c22-fa2edbd49e65

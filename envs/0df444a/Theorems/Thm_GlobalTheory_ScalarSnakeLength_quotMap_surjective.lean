@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ScalarSnakeLength_quotMap_surjective
 -- name    : GlobalTheory.ScalarSnakeLength.quotMap_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:47:41.464108+00:00
 -- url     : https://prove2.me/theorems/49c6707f-4de4-49bf-9b62-9ef5734b3d77

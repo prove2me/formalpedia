@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_CompatCrit_isOpenImmersion_of_sections
 -- name    : GlobalTheory.SS.CompatCrit.isOpenImmersion_of_sections
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:12:19.88075+00:00
 -- url     : https://prove2.me/theorems/e0b12ce3-93e7-4152-97e9-b0879a1e885c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_exists_appLE_eq
 -- name    : GlobalTheory.SecGlue.exists_appLE_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:49:51.96541+00:00
 -- url     : https://prove2.me/theorems/1334c7b4-7c3d-4c13-810e-288570058ed3

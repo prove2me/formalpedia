@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Nbr_exists_vec
 -- name    : GlobalTheory.SW.Nbr.exists_vec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:43:06.545802+00:00
 -- url     : https://prove2.me/theorems/e387c4e9-1985-4fd1-960c-c0cff427d0a9

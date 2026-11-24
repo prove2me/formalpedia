@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_ThetaProd_fromBlocks_mem_siegel
 -- name    : GlobalTheory.SW.ThetaProd.fromBlocks_mem_siegel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:44:05.310478+00:00
 -- url     : https://prove2.me/theorems/9f571dd7-c4da-4d2f-9c19-4167db051603

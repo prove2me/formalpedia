@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_FullLevel_A_dvd_M__c65dcadf2e66
 -- name    : P2M_GlobalTheory_FullLevel_A_dvd_M__c65dcadf2e66
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:18:09.553428+00:00
 -- url     : https://prove2.me/theorems/cc9d4b8b-cb2b-4499-9c31-05e920deb8a0

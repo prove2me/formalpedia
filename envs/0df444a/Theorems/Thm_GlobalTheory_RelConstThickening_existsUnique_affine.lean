@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelConstThickening_existsUnique_affine
 -- name    : GlobalTheory.RelConstThickening.existsUnique_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:22:16.671389+00:00
 -- url     : https://prove2.me/theorems/1fa810e4-b018-4f62-a690-5114c8370b7a

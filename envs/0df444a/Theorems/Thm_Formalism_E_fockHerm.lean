@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_E_fockHerm
 -- name    : Formalism.E.fockHerm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:23:14.894186+00:00
 -- url     : https://prove2.me/theorems/6f1f087d-1815-44ad-9c58-e449bad2004f

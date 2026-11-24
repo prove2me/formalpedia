@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_combIn_unique
 -- name    : GlobalTheory.SecGlue.combIn_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:49:27.05843+00:00
 -- url     : https://prove2.me/theorems/f02fb233-e849-4d22-a62f-84bd2078bf56

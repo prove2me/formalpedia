@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_OrdTwist_app_cstR
 -- name    : GlobalTheory.SS.OrdTwist.app_cstR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:42:40.586463+00:00
 -- url     : https://prove2.me/theorems/81389159-5dd1-4613-bc8d-5ca4d09b0ee6

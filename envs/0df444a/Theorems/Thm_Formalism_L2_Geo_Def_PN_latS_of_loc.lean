@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Geo_Def_PN_latS_of_loc
 -- name    : Formalism.L2.Geo.Def.PN.latS_of_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:23:28.374917+00:00
 -- url     : https://prove2.me/theorems/bfabf81d-189c-4813-b083-afd6b55d3c2b

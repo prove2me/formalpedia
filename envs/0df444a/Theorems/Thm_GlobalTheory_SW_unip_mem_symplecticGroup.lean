@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_unip_mem_symplecticGroup
 -- name    : GlobalTheory.SW.unip_mem_symplecticGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:45:20.318468+00:00
 -- url     : https://prove2.me/theorems/127a7761-495d-40b9-b141-d56a0846be20

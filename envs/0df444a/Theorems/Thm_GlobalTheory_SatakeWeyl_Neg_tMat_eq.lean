@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_Neg_tMat_eq
 -- name    : GlobalTheory.SatakeWeyl.Neg.tMat_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:47:42.058219+00:00
 -- url     : https://prove2.me/theorems/90641b71-6216-41d4-a924-3fb690d3b7c5

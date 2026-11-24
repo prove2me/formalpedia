@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_exists_int_div_of_intM
 -- name    : GlobalTheory.SW.exists_int_div_of_intM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:45:05.299815+00:00
 -- url     : https://prove2.me/theorems/c82843ca-6f4d-43e0-97a1-c51621710ee0

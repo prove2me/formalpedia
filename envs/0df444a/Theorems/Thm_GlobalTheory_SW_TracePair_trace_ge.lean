@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_TracePair_trace_ge
 -- name    : GlobalTheory.SW.TracePair.trace_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:44:23.787868+00:00
 -- url     : https://prove2.me/theorems/4e83b738-0978-4e9a-9a1b-3450306c529d

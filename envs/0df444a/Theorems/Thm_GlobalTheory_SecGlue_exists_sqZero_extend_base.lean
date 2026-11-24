@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_exists_sqZero_extend_base
 -- name    : GlobalTheory.SecGlue.exists_sqZero_extend_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:48:53.986961+00:00
 -- url     : https://prove2.me/theorems/107f0d34-81a7-4e41-abf0-e5d89ba0bebf

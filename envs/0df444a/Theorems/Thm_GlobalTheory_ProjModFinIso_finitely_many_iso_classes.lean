@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjModFinIso_finitely_many_iso_classes
 -- name    : GlobalTheory.ProjModFinIso.finitely_many_iso_classes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:55:12.683069+00:00
 -- url     : https://prove2.me/theorems/1cf0a025-7d2f-4175-879e-6ae16f87f8b8

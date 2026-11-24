@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_LawDef_exists_fibre
 -- name    : GlobalTheory.SS.LawDef.exists_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:10:28.4729+00:00
 -- url     : https://prove2.me/theorems/0c2a9e12-2aeb-4ad7-9ff0-83abea68c0ff

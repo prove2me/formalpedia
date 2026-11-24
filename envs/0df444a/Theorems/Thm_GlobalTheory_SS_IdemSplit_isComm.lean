@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_IdemSplit_isComm
 -- name    : GlobalTheory.SS.IdemSplit.isComm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:35:01.057919+00:00
 -- url     : https://prove2.me/theorems/1b8d2088-425c-44b0-873e-48d688844f9a

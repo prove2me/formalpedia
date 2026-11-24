@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_UniSp_sw_sw
 -- name    : GlobalTheory.SW.UniSp.sw_sw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:44:53.639329+00:00
 -- url     : https://prove2.me/theorems/6c1cf488-e480-43c9-ac4f-460ba5a0aff6

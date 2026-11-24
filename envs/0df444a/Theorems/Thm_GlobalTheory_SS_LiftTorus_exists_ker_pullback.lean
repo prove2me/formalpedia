@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_LiftTorus_exists_ker_pullback
 -- name    : GlobalTheory.SS.LiftTorus.exists_ker_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:36:58.359725+00:00
 -- url     : https://prove2.me/theorems/62a2339e-16a3-4c21-b4c1-043bce8d0747

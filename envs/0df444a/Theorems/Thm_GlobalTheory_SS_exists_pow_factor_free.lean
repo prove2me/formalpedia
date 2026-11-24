@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_exists_pow_factor_free
 -- name    : GlobalTheory.SS.exists_pow_factor_free
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:37:34.447177+00:00
 -- url     : https://prove2.me/theorems/0b8b9472-a996-40c1-832f-629804ae7c64

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_coef_qDecay
 -- name    : GlobalTheory.RealWeil.coef_qDecay
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:16:32.057308+00:00
 -- url     : https://prove2.me/theorems/c66e8523-9644-4b88-8595-5c057c4a63a2

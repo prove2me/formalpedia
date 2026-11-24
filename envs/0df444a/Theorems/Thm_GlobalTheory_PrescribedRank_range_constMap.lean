@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrescribedRank_range_constMap
 -- name    : GlobalTheory.PrescribedRank.range_constMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:54:41.338436+00:00
 -- url     : https://prove2.me/theorems/187f9608-64b9-4888-a531-e9ee07921ab9

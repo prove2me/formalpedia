@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FaulhuberTFA_ambiguity_gaussian
 -- name    : FaulhuberTFA.ambiguity_gaussian
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T11:50:56.717297+00:00
 -- url     : https://prove2.me/theorems/90f1bf39-d7c9-45c4-b7fa-f4aeb950abd4

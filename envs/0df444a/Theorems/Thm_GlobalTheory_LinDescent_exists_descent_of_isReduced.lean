@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinDescent_exists_descent_of_isReduced
 -- name    : GlobalTheory.LinDescent.exists_descent_of_isReduced
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:05.53881+00:00
 -- url     : https://prove2.me/theorems/a7d5fb3c-e4af-465e-81ff-db8ba8152c62

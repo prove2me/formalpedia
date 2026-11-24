@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_ContractProof_zpow_mul_int
 -- name    : GlobalTheory.SatakeWeyl.ContractProof.zpow_mul_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:48:57.374384+00:00
 -- url     : https://prove2.me/theorems/7c19f68a-60fc-4bf8-b45f-c794771a4ed9

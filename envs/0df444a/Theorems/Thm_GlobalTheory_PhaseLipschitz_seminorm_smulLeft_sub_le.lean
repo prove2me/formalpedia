@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhaseLipschitz_seminorm_smulLeft_sub_le
 -- name    : GlobalTheory.PhaseLipschitz.seminorm_smulLeft_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:44:39.663258+00:00
 -- url     : https://prove2.me/theorems/a044ba18-a726-4344-99fe-453a3fc13d2a

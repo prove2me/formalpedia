@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_ThetaProd_row_exponent
 -- name    : GlobalTheory.SW.ThetaProd.row_exponent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:44:22.318404+00:00
 -- url     : https://prove2.me/theorems/59c0fb33-286b-4e14-9665-cb6b9497b0eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityLowPacking_residual_zero_bound
 -- name    : SensitivityLowPacking.residual_zero_bound
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T20:19:21.146863+00:00
 -- url     : https://prove2.me/theorems/e43a1d9e-ae88-433c-a0b4-b7a389226a6e

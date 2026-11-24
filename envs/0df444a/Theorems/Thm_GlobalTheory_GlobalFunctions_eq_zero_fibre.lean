@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlobalFunctions_eq_zero_fibre
 -- name    : GlobalTheory.GlobalFunctions.eq_zero_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:55:52.613983+00:00
 -- url     : https://prove2.me/theorems/b147e281-ad05-4fe1-bf15-abb709985ab1

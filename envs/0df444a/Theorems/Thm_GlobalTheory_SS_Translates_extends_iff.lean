@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Translates_extends_iff
 -- name    : GlobalTheory.SS.Translates.extends_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:18:57.902246+00:00
 -- url     : https://prove2.me/theorems/81ad93cd-ee10-4274-b4b7-952097ceeced

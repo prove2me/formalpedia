@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KernelCommTw_unram_val
 -- name    : GlobalTheory.KernelCommTw.unram_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:26:28.174806+00:00
 -- url     : https://prove2.me/theorems/f050497b-8b5a-4187-972a-0a28b22876f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_PrimeIdem_exists_idem_prime
 -- name    : GlobalTheory.RowLev.PrimeIdem.exists_idem_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:32:52.473033+00:00
 -- url     : https://prove2.me/theorems/67cd1ae7-6a38-4b5c-8707-09040b2dc66f

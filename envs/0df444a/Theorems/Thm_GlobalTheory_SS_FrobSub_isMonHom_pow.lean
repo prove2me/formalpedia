@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_FrobSub_isMonHom_pow
 -- name    : GlobalTheory.SS.FrobSub.isMonHom_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:34:13.333792+00:00
 -- url     : https://prove2.me/theorems/fc109d65-898d-4654-9a98-ed4ad13ea9c5

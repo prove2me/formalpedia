@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SCV_eq_of_eventually_real_lines
 -- name    : GlobalTheory.SCV.eq_of_eventually_real_lines
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:31:54.034351+00:00
 -- url     : https://prove2.me/theorems/b4179081-c1cb-41fe-be2d-266ad67b1123

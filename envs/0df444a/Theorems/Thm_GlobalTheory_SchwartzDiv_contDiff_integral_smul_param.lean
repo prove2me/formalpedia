@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchwartzDiv_contDiff_integral_smul_param
 -- name    : GlobalTheory.SchwartzDiv.contDiff_integral_smul_param
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:47:37.496996+00:00
 -- url     : https://prove2.me/theorems/c3f3fbe0-3ef1-4f7e-a8c0-fd3091dfc0a7

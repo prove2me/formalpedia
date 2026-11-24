@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_NullV_exists_seq_Fv
 -- name    : GlobalTheory.CompanionTheory.SW.NullV.exists_seq_Fv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:21:05.24281+00:00
 -- url     : https://prove2.me/theorems/e2de9529-cdab-4275-81b1-e26dcc30346b

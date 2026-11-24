@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_embMem
 -- name    : GlobalTheory.SatakeWeyl.embMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:47:06.955063+00:00
 -- url     : https://prove2.me/theorems/8363c6bb-a66c-4a92-b936-18390ef152c5

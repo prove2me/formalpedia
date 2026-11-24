@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TameDescent_specMap_fromSpec_comp_eq_iff
 -- name    : GlobalTheory.TameDescent.specMap_fromSpec_comp_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:17:49.598794+00:00
 -- url     : https://prove2.me/theorems/71360879-2df4-4a65-b3e2-3dfe3fb27f5f

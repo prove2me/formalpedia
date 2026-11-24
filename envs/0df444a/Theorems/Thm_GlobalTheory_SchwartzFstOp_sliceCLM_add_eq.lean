@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchwartzFstOp_sliceCLM_add_eq
 -- name    : GlobalTheory.SchwartzFstOp.sliceCLM_add_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:48:18.861827+00:00
 -- url     : https://prove2.me/theorems/82a8492f-3964-4be3-a3b3-ff8f46767102

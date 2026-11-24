@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Sandwich_HodgeTateBound_right_cancel
 -- name    : GlobalTheory.Sandwich.HodgeTateBound.right_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:45:45.630952+00:00
 -- url     : https://prove2.me/theorems/0888bbad-26f0-4e32-9f06-42fa92dea2f7

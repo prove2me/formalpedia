@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OnePoint_existsUnique_section
 -- name    : GlobalTheory.OnePoint.existsUnique_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:37:49.366906+00:00
 -- url     : https://prove2.me/theorems/31fdebda-2fed-4250-9f09-99e840d1877f

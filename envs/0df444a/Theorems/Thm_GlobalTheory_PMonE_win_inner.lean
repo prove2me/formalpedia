@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_win_inner
 -- name    : GlobalTheory.PMonE.win_inner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:39:39.759677+00:00
 -- url     : https://prove2.me/theorems/f031b94d-20fc-405e-bc61-38fbe7a55e80

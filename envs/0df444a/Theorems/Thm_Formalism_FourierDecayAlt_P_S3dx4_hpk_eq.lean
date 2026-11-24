@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3dx4_hpk_eq
 -- name    : Formalism.FourierDecayAlt.P.S3dx4.hpk_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:24:02.218625+00:00
 -- url     : https://prove2.me/theorems/4e78b445-f34d-492a-8801-f1626f87ee78

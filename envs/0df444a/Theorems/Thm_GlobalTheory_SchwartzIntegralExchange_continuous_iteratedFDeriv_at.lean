@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchwartzIntegralExchange_continuous_iteratedFDeriv_at
 -- name    : GlobalTheory.SchwartzIntegralExchange.continuous_iteratedFDeriv_at
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:48:09.977283+00:00
 -- url     : https://prove2.me/theorems/2de070be-5e6a-482c-8ead-deb35d00485b

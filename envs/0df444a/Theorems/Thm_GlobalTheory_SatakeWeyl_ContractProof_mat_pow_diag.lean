@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_ContractProof_mat_pow_diag
 -- name    : GlobalTheory.SatakeWeyl.ContractProof.mat_pow_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:47:23.364854+00:00
 -- url     : https://prove2.me/theorems/176df1ed-5ea1-4527-bd75-677b417282a3

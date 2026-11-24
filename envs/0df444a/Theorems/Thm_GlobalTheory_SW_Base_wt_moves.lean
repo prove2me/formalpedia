@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Base_wt_moves
 -- name    : GlobalTheory.SW.Base.wt_moves
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:37:46.994418+00:00
 -- url     : https://prove2.me/theorems/3d309e18-7445-4b4d-b4e9-2b45aaf720ce

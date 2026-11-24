@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_FiniteSupport_mem_symN
 -- name    : GlobalTheory.FunObj.FiniteSupport.mem_symN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:42:53.846574+00:00
 -- url     : https://prove2.me/theorems/66173405-1921-4309-8b7b-30de200252a3

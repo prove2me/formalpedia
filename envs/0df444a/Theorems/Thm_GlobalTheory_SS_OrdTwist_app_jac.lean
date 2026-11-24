@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_OrdTwist_app_jac
 -- name    : GlobalTheory.SS.OrdTwist.app_jac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:42:15.168834+00:00
 -- url     : https://prove2.me/theorems/2fef5641-7a7c-4e32-b946-b102e30ce9a5

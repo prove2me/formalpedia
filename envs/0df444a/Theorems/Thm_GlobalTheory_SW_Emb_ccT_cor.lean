@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Emb_ccT_cor
 -- name    : GlobalTheory.SW.Emb.ccT_cor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:38:20.864969+00:00
 -- url     : https://prove2.me/theorems/88e560ae-c82d-4ff2-b1c4-f8919c6793e4

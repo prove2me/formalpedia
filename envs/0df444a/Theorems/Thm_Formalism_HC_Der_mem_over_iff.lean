@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_mem_over_iff
 -- name    : Formalism.HC.Der.mem_over_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:13:42.853845+00:00
 -- url     : https://prove2.me/theorems/7fcbe35a-3788-4041-bffb-ad14a6b0edc9

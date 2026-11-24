@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadraticZeta_idealCount_prime_mul
 -- name    : GlobalTheory.QuadraticZeta.idealCount_prime_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:12:34.39242+00:00
 -- url     : https://prove2.me/theorems/4ec4c98c-2f4e-4870-8d8f-60d05e58d0c0

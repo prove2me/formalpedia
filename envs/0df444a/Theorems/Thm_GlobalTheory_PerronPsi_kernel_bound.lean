@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerronPsi_kernel_bound
 -- name    : GlobalTheory.PerronPsi.kernel_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:42:29.577829+00:00
 -- url     : https://prove2.me/theorems/1a186e9f-2ce7-451d-b203-faa1f6b62c54

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_FrobSub_pow_comm_hom
 -- name    : GlobalTheory.SS.FrobSub.pow_comm_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:33:28.066122+00:00
 -- url     : https://prove2.me/theorems/f57af910-e49b-4664-9535-7f4f7fc75003

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FaulhuberTFA_ambiguity_max_at_origin
 -- name    : FaulhuberTFA.ambiguity_max_at_origin
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T11:47:54.101833+00:00
 -- url     : https://prove2.me/theorems/94662ee4-78e3-48dd-b082-63242921b504

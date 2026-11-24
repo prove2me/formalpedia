@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Base_weil_deg_zero
 -- name    : GlobalTheory.SW.Base.weil_deg_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:38:17.861849+00:00
 -- url     : https://prove2.me/theorems/107b9ae5-713b-44ff-aa4f-18d3744b5998

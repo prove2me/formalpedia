@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimitiveUnitProduct_unit_on_product_eq_one
 -- name    : GlobalTheory.PrimitiveUnitProduct.unit_on_product_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:55:00.202797+00:00
 -- url     : https://prove2.me/theorems/703aac32-d542-4452-b99c-598cb4ef6a7d

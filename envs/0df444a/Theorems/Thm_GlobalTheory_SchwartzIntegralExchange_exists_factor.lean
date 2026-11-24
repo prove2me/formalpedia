@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchwartzIntegralExchange_exists_factor
 -- name    : GlobalTheory.SchwartzIntegralExchange.exists_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:47:55.607787+00:00
 -- url     : https://prove2.me/theorems/a7493356-df22-4395-9596-467d18531ef7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_Primary_mem_image_of_mem_span
 -- name    : GlobalTheory.CuspGL.Primary.mem_image_of_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:31:48.724387+00:00
 -- url     : https://prove2.me/theorems/9a5ab9e2-d2b8-4251-be43-1076b25bc1f2

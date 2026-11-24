@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Decay_rpow_mul_exp_le
 -- name    : GlobalTheory.SW.Decay.rpow_mul_exp_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:39:43.909837+00:00
 -- url     : https://prove2.me/theorems/7348c3c8-7a34-49f1-9f36-81c6b45e5457

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeckeId_int_of_eT
 -- name    : GlobalTheory.SW.HeckeId.int_of_eT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:40:13.586599+00:00
 -- url     : https://prove2.me/theorems/a58d2d2c-a493-46be-b744-0e33e2bb6fb0

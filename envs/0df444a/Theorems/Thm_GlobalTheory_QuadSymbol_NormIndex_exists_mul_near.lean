@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_NormIndex_exists_mul_near
 -- name    : GlobalTheory.QuadSymbol.NormIndex.exists_mul_near
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:12:14.233806+00:00
 -- url     : https://prove2.me/theorems/06c3bb58-088d-4872-87b7-317574af7944

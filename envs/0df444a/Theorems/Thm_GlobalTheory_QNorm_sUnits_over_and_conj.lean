@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_sUnits_over_and_conj
 -- name    : GlobalTheory.QNorm.sUnits_over_and_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:03:57.95277+00:00
 -- url     : https://prove2.me/theorems/545d087a-0da5-44fd-aa93-29e0a192d400

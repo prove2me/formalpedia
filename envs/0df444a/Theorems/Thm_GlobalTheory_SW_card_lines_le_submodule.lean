@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_card_lines_le_submodule
 -- name    : GlobalTheory.SW.card_lines_le_submodule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:45:09.023598+00:00
 -- url     : https://prove2.me/theorems/eff514f6-f7a8-4259-ac01-16108822fde4

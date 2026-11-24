@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_SphericalZetaCosets_zeta_spherical
 -- name    : UpperTheory.Reformulated.B.SphericalZetaCosets.zeta_spherical
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:29:09.854211+00:00
 -- url     : https://prove2.me/theorems/43caacf6-543c-4bcb-8c37-f6ee39cdcebc

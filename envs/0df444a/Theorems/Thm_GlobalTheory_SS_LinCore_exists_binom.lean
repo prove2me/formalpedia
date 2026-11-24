@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_LinCore_exists_binom
 -- name    : GlobalTheory.SS.LinCore.exists_binom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:35:21.455348+00:00
 -- url     : https://prove2.me/theorems/3817a32f-320a-4b6d-bb97-8276937ec180

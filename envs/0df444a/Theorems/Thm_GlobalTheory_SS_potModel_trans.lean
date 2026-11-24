@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_potModel_trans
 -- name    : GlobalTheory.SS.potModel_trans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:38:04.136258+00:00
 -- url     : https://prove2.me/theorems/95c7d708-f333-4a82-b4b9-f9990291fe61

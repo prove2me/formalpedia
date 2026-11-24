@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchemeHomsFromPoints_top_le_of_lift
 -- name    : GlobalTheory.SchemeHomsFromPoints.top_le_of_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:47:59.710991+00:00
 -- url     : https://prove2.me/theorems/1f011305-2449-4c5a-8589-3de1ec6d3cd6

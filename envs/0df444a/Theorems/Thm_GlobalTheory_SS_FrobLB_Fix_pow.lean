@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_FrobLB_Fix_pow
 -- name    : GlobalTheory.SS.FrobLB.Fix.pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:33:34.814791+00:00
 -- url     : https://prove2.me/theorems/08f71c95-468c-47b0-b641-7cbef593e4c6

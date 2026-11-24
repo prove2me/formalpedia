@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unramifiedValuationParitySign_character_kernel_norms
 -- name    : GlobalTheory.T.unramifiedValuationParitySign_character_kernel_norms
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:03:02.759707+00:00
 -- url     : https://prove2.me/theorems/6b3e0b9b-bcb6-4d02-9288-b4a5e1824226

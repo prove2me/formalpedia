@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalInv_matches_rho
 -- name    : GlobalTheory.LocalInv.matches_rho
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:23:02.146384+00:00
 -- url     : https://prove2.me/theorems/8c00089d-c7cc-43a7-9fe8-9f40ea8a7eb8

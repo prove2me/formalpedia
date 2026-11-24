@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionKernel_mem_map_of_flat
 -- name    : GlobalTheory.SectionKernel.mem_map_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:52:03.545805+00:00
 -- url     : https://prove2.me/theorems/1735af20-6dc9-4de8-8a7c-b9703d275593

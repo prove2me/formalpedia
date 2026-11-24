@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_SectionTranslation_ext_generic
 -- name    : GlobalTheory.SS.SectionTranslation.ext_generic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:36:02.179107+00:00
 -- url     : https://prove2.me/theorems/a5ef6464-ccd1-4389-b735-f4ec9cd39721

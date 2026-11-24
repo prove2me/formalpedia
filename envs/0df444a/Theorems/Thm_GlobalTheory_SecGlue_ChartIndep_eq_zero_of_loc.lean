@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_ChartIndep_eq_zero_of_loc
 -- name    : GlobalTheory.SecGlue.ChartIndep.eq_zero_of_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:49:49.983714+00:00
 -- url     : https://prove2.me/theorems/cb9ce2cd-455d-4dae-a097-9e16000acb42

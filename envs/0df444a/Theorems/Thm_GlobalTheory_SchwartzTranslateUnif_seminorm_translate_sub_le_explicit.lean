@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchwartzTranslateUnif_seminorm_translate_sub_le_explicit
 -- name    : GlobalTheory.SchwartzTranslateUnif.seminorm_translate_sub_le_explicit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:48:15.44394+00:00
 -- url     : https://prove2.me/theorems/239251ad-3f52-4809-a414-ea0ce668b1c0

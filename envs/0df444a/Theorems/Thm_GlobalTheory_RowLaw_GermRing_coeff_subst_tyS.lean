@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLaw_GermRing_coeff_subst_tyS
 -- name    : GlobalTheory.RowLaw.GermRing.coeff_subst_tyS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:31:29.296043+00:00
 -- url     : https://prove2.me/theorems/c78ae2e8-5335-49bf-a031-a3e031816f00

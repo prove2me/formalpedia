@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_opE_support_compact_mod_R
 -- name    : GlobalTheory.RootEx.opE_support_compact_mod_R
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:59:56.185319+00:00
 -- url     : https://prove2.me/theorems/35c42bf5-1aa7-4908-b8b4-e922011b859f

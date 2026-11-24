@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchwartzFstOp_norm_iteratedFDeriv_sliceCLM_le
 -- name    : GlobalTheory.SchwartzFstOp.norm_iteratedFDeriv_sliceCLM_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:48:03.376995+00:00
 -- url     : https://prove2.me/theorems/5d08501d-e414-4673-8252-f6cb6f9fb75c

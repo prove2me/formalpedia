@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_WeakNeronEx_exists_min
 -- name    : GlobalTheory.SS.WeakNeronEx.exists_min
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:10:56.706466+00:00
 -- url     : https://prove2.me/theorems/4c90d805-436d-47b4-8ba6-6a8fa8f5a848

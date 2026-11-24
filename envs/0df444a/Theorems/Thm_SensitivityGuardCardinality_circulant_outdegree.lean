@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityGuardCardinality_circulant_outdegree
 -- name    : SensitivityGuardCardinality.circulant_outdegree
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T20:19:21.632222+00:00
 -- url     : https://prove2.me/theorems/1d907e3d-726b-4cb2-9d5d-82191aed9c83

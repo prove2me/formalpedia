@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_WtRat_genericPoint_mem
 -- name    : GlobalTheory.SS.WtRat.genericPoint_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:37:26.794806+00:00
 -- url     : https://prove2.me/theorems/91d5bbfd-70b5-474a-8d5a-60a48afe31dc

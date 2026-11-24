@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeisH_cols_eq
 -- name    : GlobalTheory.SW.HeisH.cols_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:40:32.757834+00:00
 -- url     : https://prove2.me/theorems/e724205b-52c6-4a01-a21f-97f22b7da202

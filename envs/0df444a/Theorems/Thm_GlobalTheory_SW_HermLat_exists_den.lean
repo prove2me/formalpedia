@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HermLat_exists_den
 -- name    : GlobalTheory.SW.HermLat.exists_den
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:41:14.507954+00:00
 -- url     : https://prove2.me/theorems/2776772f-4368-47b2-870b-3ff1900820bc

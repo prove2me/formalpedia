@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_TransComp_qm_transpose
 -- name    : GlobalTheory.SW.TransComp.qm_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:43:59.462493+00:00
 -- url     : https://prove2.me/theorems/bf15c494-cc00-4ed7-9342-905c1d9b2fab

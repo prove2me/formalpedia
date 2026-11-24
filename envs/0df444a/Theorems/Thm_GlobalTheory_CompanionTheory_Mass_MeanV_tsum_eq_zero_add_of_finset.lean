@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Mass_MeanV_tsum_eq_zero_add_of_finset
 -- name    : GlobalTheory.CompanionTheory.Mass.MeanV.tsum_eq_zero_add_of_finset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:20:36.236388+00:00
 -- url     : https://prove2.me/theorems/181249f6-7ab2-4aa9-9b10-7a93a60398d2

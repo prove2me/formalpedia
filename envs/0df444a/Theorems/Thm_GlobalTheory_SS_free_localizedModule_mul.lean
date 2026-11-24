@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_free_localizedModule_mul
 -- name    : GlobalTheory.SS.free_localizedModule_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:37:42.43387+00:00
 -- url     : https://prove2.me/theorems/d206cde8-1b05-464e-bf09-4c8005471e0d

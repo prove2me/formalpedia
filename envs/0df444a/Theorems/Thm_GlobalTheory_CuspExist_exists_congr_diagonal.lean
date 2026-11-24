@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspExist_exists_congr_diagonal
 -- name    : GlobalTheory.CuspExist.exists_congr_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:37:42.131804+00:00
 -- url     : https://prove2.me/theorems/f3a89ae4-5f07-4175-9256-833b98687592

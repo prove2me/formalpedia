@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_Red_comp_overR
 -- name    : GlobalTheory.SecGlue.Red.comp_overR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:48:57.115392+00:00
 -- url     : https://prove2.me/theorems/3a53ab50-4ed2-40d8-9cb5-d66ad25b0898

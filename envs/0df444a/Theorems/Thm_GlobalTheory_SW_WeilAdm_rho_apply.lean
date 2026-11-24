@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_WeilAdm_rho_apply
 -- name    : GlobalTheory.SW.WeilAdm.rho_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:45:30.03362+00:00
 -- url     : https://prove2.me/theorems/53835ea1-5b7d-4a72-be19-a83f3846c157

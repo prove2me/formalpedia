@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxB_cvWordSum
 -- name    : Formalism.FourierDecayAlt.P.JFxB.cvWordSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:26:01.013774+00:00
 -- url     : https://prove2.me/theorems/bdc5d87a-d7dc-46f0-ba0d-a7299df6ad17

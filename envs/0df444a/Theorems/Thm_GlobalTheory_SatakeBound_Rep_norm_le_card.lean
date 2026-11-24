@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeBound_Rep_norm_le_card
 -- name    : GlobalTheory.SatakeBound.Rep.norm_le_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:45:08.496951+00:00
 -- url     : https://prove2.me/theorems/91a07d24-41a9-4ea6-882f-cf140aed8b6f

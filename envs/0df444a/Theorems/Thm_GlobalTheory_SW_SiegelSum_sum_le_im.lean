@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_SiegelSum_sum_le_im
 -- name    : GlobalTheory.SW.SiegelSum.sum_le_im
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:44:42.001427+00:00
 -- url     : https://prove2.me/theorems/04526b66-501f-48c5-809f-7edb56f1eae1

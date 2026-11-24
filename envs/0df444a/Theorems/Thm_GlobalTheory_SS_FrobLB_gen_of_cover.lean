@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_FrobLB_gen_of_cover
 -- name    : GlobalTheory.SS.FrobLB.gen_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:33:49.947925+00:00
 -- url     : https://prove2.me/theorems/587917d7-4c64-4acf-84dd-a1a32541adf9

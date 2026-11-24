@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_VertReg_exists_cramer
 -- name    : GlobalTheory.KS.VertReg.exists_cramer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:29:36.03089+00:00
 -- url     : https://prove2.me/theorems/eb134268-335e-4800-a7bd-27a677081830

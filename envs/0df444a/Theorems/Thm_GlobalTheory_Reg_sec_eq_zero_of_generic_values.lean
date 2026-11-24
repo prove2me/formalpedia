@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_sec_eq_zero_of_generic_values
 -- name    : GlobalTheory.Reg.sec_eq_zero_of_generic_values
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:15:14.01333+00:00
 -- url     : https://prove2.me/theorems/3c4520da-43b7-48aa-89a5-668727f96c69

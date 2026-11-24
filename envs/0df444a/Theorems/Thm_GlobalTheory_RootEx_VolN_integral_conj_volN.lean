@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_VolN_integral_conj_volN
 -- name    : GlobalTheory.RootEx.VolN.integral_conj_volN
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:04:56.016639+00:00
 -- url     : https://prove2.me/theorems/71f81fac-8bae-4109-a945-c15e7ca5ef9d

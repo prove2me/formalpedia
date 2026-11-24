@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FaulhuberTFA_crossAmbiguity_covariance
 -- name    : FaulhuberTFA.crossAmbiguity_covariance
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T11:53:15.083152+00:00
 -- url     : https://prove2.me/theorems/325bf1c7-e680-43ff-92ed-c4a57ea0b0bf

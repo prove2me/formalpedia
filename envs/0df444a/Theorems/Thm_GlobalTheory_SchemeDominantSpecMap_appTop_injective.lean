@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchemeDominantSpecMap_appTop_injective
 -- name    : GlobalTheory.SchemeDominantSpecMap.appTop_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:47:43.198267+00:00
 -- url     : https://prove2.me/theorems/d4f90cd4-fa23-491a-b5b6-db0b4d79da54

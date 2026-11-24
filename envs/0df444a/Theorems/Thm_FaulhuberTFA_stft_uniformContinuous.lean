@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FaulhuberTFA_stft_uniformContinuous
 -- name    : FaulhuberTFA.stft_uniformContinuous
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T11:00:37.957984+00:00
 -- url     : https://prove2.me/theorems/099b9ea0-121b-46c4-bac0-c553afa7aa95

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Ord_multilinear_mem
 -- name    : GlobalTheory.SS.Ord.multilinear_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:17:59.513689+00:00
 -- url     : https://prove2.me/theorems/80b1e5ac-52a4-44d9-a54e-bc95604ddce7

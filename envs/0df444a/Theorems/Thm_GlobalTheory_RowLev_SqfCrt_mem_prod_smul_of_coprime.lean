@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_SqfCrt_mem_prod_smul_of_coprime
 -- name    : GlobalTheory.RowLev.SqfCrt.mem_prod_smul_of_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:34:20.314902+00:00
 -- url     : https://prove2.me/theorems/485a5bee-24e4-4488-aba7-e1528082d825

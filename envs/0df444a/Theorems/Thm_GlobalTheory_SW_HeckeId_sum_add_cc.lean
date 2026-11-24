@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeckeId_sum_add_cc
 -- name    : GlobalTheory.SW.HeckeId.sum_add_cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:41:00.136808+00:00
 -- url     : https://prove2.me/theorems/0f30701a-f9b2-44fc-98b3-68546777afe5

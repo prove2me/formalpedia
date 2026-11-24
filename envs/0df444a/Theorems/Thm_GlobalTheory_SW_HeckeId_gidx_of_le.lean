@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeckeId_gidx_of_le
 -- name    : GlobalTheory.SW.HeckeId.gidx_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:40:45.952817+00:00
 -- url     : https://prove2.me/theorems/28ad35d7-3988-4f71-9fe9-a941a411e8bf

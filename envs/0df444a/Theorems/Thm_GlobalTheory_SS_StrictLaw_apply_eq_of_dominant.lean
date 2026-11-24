@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_StrictLaw_apply_eq_of_dominant
 -- name    : GlobalTheory.SS.StrictLaw.apply_eq_of_dominant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:37:01.097507+00:00
 -- url     : https://prove2.me/theorems/5c60260d-fe6e-4a3e-99c6-74eec18cc3e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchemeWords_isQProjOver_of_isProjOver
 -- name    : GlobalTheory.SchemeWords.isQProjOver_of_isProjOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:48:00.423587+00:00
 -- url     : https://prove2.me/theorems/eee55a6c-09e1-46ff-aab2-8fbe14badb1c

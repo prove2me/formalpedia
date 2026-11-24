@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Height_integral_value
 -- name    : GlobalTheory.SS.Height.integral_value
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:53:10.028875+00:00
 -- url     : https://prove2.me/theorems/5193bb85-bc60-4763-9aff-16f753d0cf50

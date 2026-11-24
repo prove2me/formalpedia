@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelativeLengthSpanDet_length_coker
 -- name    : GlobalTheory.RelativeLengthSpanDet.length_coker
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:13.504373+00:00
 -- url     : https://prove2.me/theorems/96a99391-ea4c-4225-aa64-11f6f14da9c2

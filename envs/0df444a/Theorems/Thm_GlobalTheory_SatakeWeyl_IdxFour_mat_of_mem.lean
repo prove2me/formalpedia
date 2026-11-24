@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_IdxFour_mat_of_mem
 -- name    : GlobalTheory.SatakeWeyl.IdxFour.mat_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:47:12.539371+00:00
 -- url     : https://prove2.me/theorems/1b73b63a-9501-44ef-98df-6106b319d028

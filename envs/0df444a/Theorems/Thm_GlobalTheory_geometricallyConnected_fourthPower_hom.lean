@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_geometricallyConnected_fourthPower_hom
 -- name    : GlobalTheory.geometricallyConnected_fourthPower_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:27:53.493416+00:00
 -- url     : https://prove2.me/theorems/06bb9841-3486-4b91-833f-33b64bcb2c9b

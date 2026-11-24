@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_NullV_card_le_two
 -- name    : GlobalTheory.CompanionTheory.SW.NullV.card_le_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:21:11.196127+00:00
 -- url     : https://prove2.me/theorems/511f3824-b313-45b9-88f9-a48407da6437

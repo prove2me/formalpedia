@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_WeilAct_ip_smul
 -- name    : GlobalTheory.SW.WeilAct.ip_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:45:43.780797+00:00
 -- url     : https://prove2.me/theorems/7ce19736-c5d3-44b7-a80c-f7bee79b8e60

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Emb_sub_mem
 -- name    : GlobalTheory.SW.Emb.sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:41:17.115603+00:00
 -- url     : https://prove2.me/theorems/1dc33d48-366e-4706-a7fd-2195fb808788

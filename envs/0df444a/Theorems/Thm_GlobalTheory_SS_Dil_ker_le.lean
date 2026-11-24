@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Dil_ker_le
 -- name    : GlobalTheory.SS.Dil.ker_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:51:44.812777+00:00
 -- url     : https://prove2.me/theorems/82e73edb-36c4-4b8a-b7c5-4a8b049a784c

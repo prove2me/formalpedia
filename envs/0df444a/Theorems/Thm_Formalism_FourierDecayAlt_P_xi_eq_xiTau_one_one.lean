@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_xi_eq_xiTau_one_one
 -- name    : Formalism.FourierDecayAlt.P.xi_eq_xiTau_one_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:24:25.750798+00:00
 -- url     : https://prove2.me/theorems/844644fa-df8e-4c88-950d-ddedfdd5d275

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_root_eq_of_sub_mem
 -- name    : Formalism.HC.Der.root_eq_of_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:28:20.39286+00:00
 -- url     : https://prove2.me/theorems/5499b82d-13d5-4929-908b-7ef5abc6c2ea

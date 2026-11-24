@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_tauN_zO
 -- name    : Formalism.HC.Der.tauN_zO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:28:24.032887+00:00
 -- url     : https://prove2.me/theorems/1005ca67-596a-4ea4-9e6b-2f34e3fbc018

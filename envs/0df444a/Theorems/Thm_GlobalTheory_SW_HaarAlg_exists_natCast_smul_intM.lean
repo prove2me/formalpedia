@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HaarAlg_exists_natCast_smul_intM
 -- name    : GlobalTheory.SW.HaarAlg.exists_natCast_smul_intM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:41:30.896888+00:00
 -- url     : https://prove2.me/theorems/5ab1fdd0-f9f2-4374-b040-bb78982b9b97

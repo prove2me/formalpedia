@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_Landherr_iff
 -- name    : GlobalTheory.Published.Landherr.iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:56:09.083844+00:00
 -- url     : https://prove2.me/theorems/63600492-2504-4a0b-a263-308d2f06f06c

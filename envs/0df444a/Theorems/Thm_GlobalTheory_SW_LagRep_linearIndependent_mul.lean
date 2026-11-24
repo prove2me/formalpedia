@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_LagRep_linearIndependent_mul
 -- name    : GlobalTheory.SW.LagRep.linearIndependent_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:41:30.225147+00:00
 -- url     : https://prove2.me/theorems/75e78438-1983-44ef-a85d-aed7929f6bd6

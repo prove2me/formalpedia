@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PushHarm_lap_push
 -- name    : GlobalTheory.PushHarm.lap_push
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:59:07.373006+00:00
 -- url     : https://prove2.me/theorems/54cac819-cbed-48e2-8c38-af7dca1d77d5

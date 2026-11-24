@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMNormIdentity_primeSpectrum_dualNumber_eq
 -- name    : GlobalTheory.CMNormIdentity.primeSpectrum_dualNumber_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:14:48.282917+00:00
 -- url     : https://prove2.me/theorems/16378283-123d-44cd-884a-2a6c7980f26d

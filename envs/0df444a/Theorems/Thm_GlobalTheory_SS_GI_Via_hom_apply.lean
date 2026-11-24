@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GI_Via_hom_apply
 -- name    : GlobalTheory.SS.GI.Via.hom_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:33:19.109986+00:00
 -- url     : https://prove2.me/theorems/1b22cf58-009a-40ed-b84e-bdd3bb8e62b5

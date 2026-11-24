@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_StrictLaw_isDominant_j
 -- name    : GlobalTheory.SS.StrictLaw.isDominant_j
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:37:48.334204+00:00
 -- url     : https://prove2.me/theorems/19a40bf5-3dff-42ae-b976-ad1c2196acde

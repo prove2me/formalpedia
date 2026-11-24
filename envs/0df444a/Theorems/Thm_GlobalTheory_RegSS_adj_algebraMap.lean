@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegSS_adj_algebraMap
 -- name    : GlobalTheory.RegSS.adj_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:04:56.394827+00:00
 -- url     : https://prove2.me/theorems/8af7f095-485e-4d2b-9091-d23070703dd1

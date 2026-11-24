@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RapidFourier_summable_weighted
 -- name    : GlobalTheory.RapidFourier.summable_weighted
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:13:14.679042+00:00
 -- url     : https://prove2.me/theorems/0a0a8102-08bc-4a50-beb4-e0d6b74b99d3

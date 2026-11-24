@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_smooth_fourthPower_hom
 -- name    : GlobalTheory.smooth_fourthPower_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:28:12.051979+00:00
 -- url     : https://prove2.me/theorems/6f344b19-d2e4-4012-b073-b1998ada1fc4

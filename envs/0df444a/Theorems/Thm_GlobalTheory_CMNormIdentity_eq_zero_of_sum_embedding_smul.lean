@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMNormIdentity_eq_zero_of_sum_embedding_smul
 -- name    : GlobalTheory.CMNormIdentity.eq_zero_of_sum_embedding_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:14:48.867743+00:00
 -- url     : https://prove2.me/theorems/65e953df-469c-4d28-a982-76136917534c

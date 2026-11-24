@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_Pair_smooth_strHom
 -- name    : GlobalTheory.SecGlue.Pair.smooth_strHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:49:56.486478+00:00
 -- url     : https://prove2.me/theorems/cd6248a1-3a9d-4b94-81a5-5726e6f9db7f

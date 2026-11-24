@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelBasis_indepOn_spanOn_of_affine
 -- name    : GlobalTheory.RelBasis.indepOn_spanOn_of_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:20:56.4683+00:00
 -- url     : https://prove2.me/theorems/53b3d1ac-564c-41d1-8e2c-bbb2e7a79cff

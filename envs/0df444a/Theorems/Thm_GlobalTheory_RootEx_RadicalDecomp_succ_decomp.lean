@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_RadicalDecomp_succ_decomp
 -- name    : GlobalTheory.RootEx.RadicalDecomp.succ_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:04:46.720432+00:00
 -- url     : https://prove2.me/theorems/82ca72f7-b31d-46ba-92ae-96da33ab737b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FaulhuberTFA_stft_fundamental_identity
 -- name    : FaulhuberTFA.stft_fundamental_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T11:01:32.918199+00:00
 -- url     : https://prove2.me/theorems/4348764b-9482-40f8-bd52-d3c1bc7bd549

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx4_smM_hx
 -- name    : Formalism.FourierDecayAlt.P.Qx4.smM_hx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:25:08.170332+00:00
 -- url     : https://prove2.me/theorems/8f62b50a-f772-4679-9028-112e7b1e0783

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TPresMain_second_capelli_minor_smooth
 -- name    : Formalism.FourierDecayAlt.Q.TPresMain.second_capelli_minor_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:53:45.373499+00:00
 -- url     : https://prove2.me/theorems/51439a70-13be-4f7b-822d-09ea697e4a78

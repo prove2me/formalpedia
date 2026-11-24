@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_CombEx_fromSpec_comp_top
 -- name    : GlobalTheory.SecGlue.CombEx.fromSpec_comp_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:52:37.008719+00:00
 -- url     : https://prove2.me/theorems/20b900ac-7f7c-476b-b11c-94e24df8f83a

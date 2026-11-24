@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_Descent_cls_mem_invariants
 -- name    : GlobalTheory.BK.Descent.cls_mem_invariants
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:19:09.606798+00:00
 -- url     : https://prove2.me/theorems/4903a619-9136-4441-a762-fd7027edcb75

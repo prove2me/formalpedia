@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_ConjVol_mem_normalizer_of_tri
 -- name    : GlobalTheory.RootEx.ConjVol.mem_normalizer_of_tri
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:09:14.966924+00:00
 -- url     : https://prove2.me/theorems/af6a63f5-d051-4a9d-a2be-b47cd243c2ce

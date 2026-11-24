@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_langCount
 -- name    : GlobalTheory.PMonE.langCount
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:39:35.206342+00:00
 -- url     : https://prove2.me/theorems/9d33703f-be83-42ad-a214-8257de665811

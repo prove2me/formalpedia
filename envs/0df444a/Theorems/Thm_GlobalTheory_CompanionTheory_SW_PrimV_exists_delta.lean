@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_PrimV_exists_delta
 -- name    : GlobalTheory.CompanionTheory.SW.PrimV.exists_delta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:09:52.566087+00:00
 -- url     : https://prove2.me/theorems/a024bbb9-37b7-4387-8e99-68206f8a5be1

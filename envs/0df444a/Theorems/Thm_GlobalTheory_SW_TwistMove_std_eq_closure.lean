@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_TwistMove_std_eq_closure
 -- name    : GlobalTheory.SW.TwistMove.std_eq_closure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:43:47.127892+00:00
 -- url     : https://prove2.me/theorems/b3d1d6c9-c872-45aa-b2aa-1516100e8a7d

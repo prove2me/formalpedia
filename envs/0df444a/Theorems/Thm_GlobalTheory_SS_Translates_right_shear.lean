@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Translates_right_shear
 -- name    : GlobalTheory.SS.Translates.right_shear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:18:12.834265+00:00
 -- url     : https://prove2.me/theorems/bccc96e3-b744-439d-828c-87f32e08e2fb

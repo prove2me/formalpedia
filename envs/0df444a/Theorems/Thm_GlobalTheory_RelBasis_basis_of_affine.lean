@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelBasis_basis_of_affine
 -- name    : GlobalTheory.RelBasis.basis_of_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:19:48.910207+00:00
 -- url     : https://prove2.me/theorems/ad0e8bcc-dc76-4145-b16b-1d2444203c71

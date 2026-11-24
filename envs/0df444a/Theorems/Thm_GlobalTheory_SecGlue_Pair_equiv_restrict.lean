@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_Pair_equiv_restrict
 -- name    : GlobalTheory.SecGlue.Pair.equiv_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:49:28.276716+00:00
 -- url     : https://prove2.me/theorems/a91ebe58-5e3e-4fec-8c93-e36a75b35155

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_cellInv_holds
 -- name    : GlobalTheory.SatakeWeyl.cellInv_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:48:01.704316+00:00
 -- url     : https://prove2.me/theorems/3e7203a1-88ef-4dd9-9eb2-4bc27bd0eff7

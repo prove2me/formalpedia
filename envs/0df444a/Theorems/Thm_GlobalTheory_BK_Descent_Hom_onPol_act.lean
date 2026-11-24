@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_Descent_Hom_onPol_act
 -- name    : GlobalTheory.BK.Descent.Hom.onPol_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:16:57.353305+00:00
 -- url     : https://prove2.me/theorems/3f517e4d-3d28-4928-aaa0-43e06f4141e1

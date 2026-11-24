@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_LinCore_aeval_scale
 -- name    : GlobalTheory.SS.LinCore.aeval_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:36:05.892653+00:00
 -- url     : https://prove2.me/theorems/1de2ac4f-6ce1-4622-96b2-95dcfdc87c18

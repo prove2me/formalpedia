@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatMinor_isUnit_int_iff
 -- name    : GlobalTheory.SatMinor.isUnit_int_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:44:57.690296+00:00
 -- url     : https://prove2.me/theorems/adcdecb3-c2de-4160-9fad-13604163c737

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegKer_rankAbove_basicOpen
 -- name    : GlobalTheory.DegKer.rankAbove_basicOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:59:45.972975+00:00
 -- url     : https://prove2.me/theorems/59f109c2-0bd4-4958-a38f-d70bc93b6790

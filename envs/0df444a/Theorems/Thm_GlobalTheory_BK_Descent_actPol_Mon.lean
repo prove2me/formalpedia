@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_Descent_actPol_Mon
 -- name    : GlobalTheory.BK.Descent.actPol_Mon
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:17:47.645264+00:00
 -- url     : https://prove2.me/theorems/34f17767-1e7e-4376-b407-fec3750e7870

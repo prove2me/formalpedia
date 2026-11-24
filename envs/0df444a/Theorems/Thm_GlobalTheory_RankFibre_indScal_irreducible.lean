@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankFibre_indScal_irreducible
 -- name    : GlobalTheory.RankFibre.indScal_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:14:37.317828+00:00
 -- url     : https://prove2.me/theorems/940ee2ce-5ccc-4c90-8815-63fdcffc615a

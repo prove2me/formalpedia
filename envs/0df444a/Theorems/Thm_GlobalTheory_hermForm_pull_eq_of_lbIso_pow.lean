@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hermForm_pull_eq_of_lbIso_pow
 -- name    : GlobalTheory.hermForm_pull_eq_of_lbIso_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:36:29.118806+00:00
 -- url     : https://prove2.me/theorems/4f41a995-a073-4a5e-b326-53a5468762f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_exists_can
 -- name    : GlobalTheory.SecGlue.exists_can
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:49:53.078313+00:00
 -- url     : https://prove2.me/theorems/31949cd3-bcc2-4f53-8693-4ef7b30c17ae

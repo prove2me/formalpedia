@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_FrobField_good_of_cover
 -- name    : GlobalTheory.SS.FrobField.good_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:34:29.08255+00:00
 -- url     : https://prove2.me/theorems/4c90cea0-0651-4a47-ba43-ddd7b254c761

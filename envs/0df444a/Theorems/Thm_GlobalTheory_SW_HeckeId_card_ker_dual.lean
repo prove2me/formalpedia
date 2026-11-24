@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeckeId_card_ker_dual
 -- name    : GlobalTheory.SW.HeckeId.card_ker_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:41:55.003302+00:00
 -- url     : https://prove2.me/theorems/d7f91ea8-72f0-47c5-bfd0-3cbce77a904f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_star_dotProduct_self_eq_sum
 -- name    : GlobalTheory.SW.star_dotProduct_self_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:45:47.288803+00:00
 -- url     : https://prove2.me/theorems/95947932-4a36-450b-9cd0-ebc1965c0e41

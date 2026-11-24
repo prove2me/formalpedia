@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Smoothening_Cov_union
 -- name    : GlobalTheory.SS.Smoothening.Cov.union
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:36:44.689814+00:00
 -- url     : https://prove2.me/theorems/abeabdbc-eb0e-4afa-b0eb-00d53429d3be

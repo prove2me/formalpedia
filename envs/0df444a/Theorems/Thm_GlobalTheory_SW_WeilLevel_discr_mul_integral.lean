@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_WeilLevel_discr_mul_integral
 -- name    : GlobalTheory.SW.WeilLevel.discr_mul_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:45:12.016931+00:00
 -- url     : https://prove2.me/theorems/386b3708-59c9-401a-8d42-7e01de0e3db3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KernelComm_indicatorIdentity
 -- name    : GlobalTheory.KernelComm.indicatorIdentity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:11:52.63506+00:00
 -- url     : https://prove2.me/theorems/eef7400a-5d5e-4417-a01b-67282e56d9b5

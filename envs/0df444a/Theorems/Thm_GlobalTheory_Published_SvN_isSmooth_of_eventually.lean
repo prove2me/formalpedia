@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SvN_isSmooth_of_eventually
 -- name    : GlobalTheory.Published.SvN.isSmooth_of_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:58:25.780523+00:00
 -- url     : https://prove2.me/theorems/6a041f65-976a-48bd-a6db-efd8f932fc6f

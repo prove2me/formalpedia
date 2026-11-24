@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_NullV_qR_rat
 -- name    : GlobalTheory.CompanionTheory.SW.NullV.qR_rat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:21:25.922775+00:00
 -- url     : https://prove2.me/theorems/500710f1-8bec-43a9-bfff-18db052aaa1e

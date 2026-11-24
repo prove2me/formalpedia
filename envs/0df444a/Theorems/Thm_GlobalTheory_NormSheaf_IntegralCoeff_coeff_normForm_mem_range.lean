@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormSheaf_IntegralCoeff_coeff_normForm_mem_range
 -- name    : GlobalTheory.NormSheaf.IntegralCoeff.coeff_normForm_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:42:00.908906+00:00
 -- url     : https://prove2.me/theorems/e4195385-0355-43d5-a98c-db79c5890089

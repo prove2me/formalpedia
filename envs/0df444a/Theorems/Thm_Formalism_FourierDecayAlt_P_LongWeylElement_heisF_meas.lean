@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LongWeylElement_heisF_meas
 -- name    : Formalism.FourierDecayAlt.P.LongWeylElement.heisF_meas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:03:40.052921+00:00
 -- url     : https://prove2.me/theorems/d9827fdb-18a5-4a83-84df-fd2637f7bc4a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Slope_step
 -- name    : GlobalTheory.SS.Slope.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:36:19.550947+00:00
 -- url     : https://prove2.me/theorems/ad0d12a4-5798-414c-a80d-b8878deb6116

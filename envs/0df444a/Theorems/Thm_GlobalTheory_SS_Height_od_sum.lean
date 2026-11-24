@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Height_od_sum
 -- name    : GlobalTheory.SS.Height.od_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:35:13.968864+00:00
 -- url     : https://prove2.me/theorems/4183ab37-a119-4187-b515-60b0f2e05a45

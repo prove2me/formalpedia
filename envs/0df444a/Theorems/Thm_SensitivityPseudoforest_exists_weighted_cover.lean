@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityPseudoforest_exists_weighted_cover
 -- name    : SensitivityPseudoforest.exists_weighted_cover
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T20:19:21.526061+00:00
 -- url     : https://prove2.me/theorems/5e831761-7ead-43f0-8ee2-8e364d4c5908

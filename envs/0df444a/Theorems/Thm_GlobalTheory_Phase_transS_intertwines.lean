@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_transS_intertwines
 -- name    : GlobalTheory.Phase.transS_intertwines
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:19:17.627804+00:00
 -- url     : https://prove2.me/theorems/c602c725-b3af-4df5-9ec1-6027a6dfa4cb

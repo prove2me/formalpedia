@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OpenDim_topologicalKrullDim_open
 -- name    : GlobalTheory.OpenDim.topologicalKrullDim_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:03:20.887281+00:00
 -- url     : https://prove2.me/theorems/9aadf4b5-1cb9-41d4-9b40-18d7925015c3

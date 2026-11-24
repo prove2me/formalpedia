@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_TransComp_mul_block
 -- name    : GlobalTheory.SW.TransComp.mul_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:44:11.558812+00:00
 -- url     : https://prove2.me/theorems/1fa77901-3a9f-46ed-8523-34e89133e7db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeatTerm_det_one_add
 -- name    : GlobalTheory.SW.HeatTerm.det_one_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:40:34.447562+00:00
 -- url     : https://prove2.me/theorems/cfbd1e3d-408e-4317-bef0-407e6d042eb3

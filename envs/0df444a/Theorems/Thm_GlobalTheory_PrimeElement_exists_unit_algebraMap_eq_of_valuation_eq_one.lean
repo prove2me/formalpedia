@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeElement_exists_unit_algebraMap_eq_of_valuation_eq_one
 -- name    : GlobalTheory.PrimeElement.exists_unit_algebraMap_eq_of_valuation_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:55:27.718947+00:00
 -- url     : https://prove2.me/theorems/5f176d63-4bfc-4989-8876-7c1499632a80

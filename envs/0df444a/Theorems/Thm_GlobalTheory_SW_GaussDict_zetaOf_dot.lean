@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_GaussDict_zetaOf_dot
 -- name    : GlobalTheory.SW.GaussDict.zetaOf_dot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:40:57.039609+00:00
 -- url     : https://prove2.me/theorems/25ef9fa8-a304-4059-b7bc-b756c7e6b5d8

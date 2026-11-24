@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_away_open
 -- name    : GlobalTheory.SecGlue.away_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:50:11.920836+00:00
 -- url     : https://prove2.me/theorems/ff2be397-601e-4af9-a36a-6ff6bafd32a9

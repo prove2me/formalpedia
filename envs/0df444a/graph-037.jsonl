@@ -27839,9 +27839,9 @@
 {"parent": "RH1E6S12.group_002", "child": "ArdaRH65K_RS_Kernel", "via": ["statement"]}
 {"parent": "RH1E6S12.group_002", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S12.group_002", "child": "ArdaRH65K_DlvpTheta", "via": ["statement"]}
-{"parent": "GlobalTheory.QuadraticZeta.exists_basis_embedding", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_ExistsBasisEmbedding", "via": ["statement"]}
-{"parent": "GlobalTheory.QuadraticZeta.exists_basis_embedding", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_ExistsVariableChangeEqLatticeCurve", "via": ["statement"]}
-{"parent": "GlobalTheory.QuadraticZeta.exists_basis_embedding", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_ExistsIsKroneckerCharOfDiscr", "via": ["statement"]}
+{"parent": "GlobalTheory.QuadraticZeta.exists_basis_embedding", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_ExistsBasisEmbedding", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.QuadraticZeta.exists_basis_embedding", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_ExistsVariableChangeEqLatticeCurve", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.QuadraticZeta.exists_basis_embedding", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_ExistsIsKroneckerCharOfDiscr", "via": ["solution", "statement"]}
 {"parent": "RH1E6S12.part_024_3", "child": "ArdaRH65K_RS_C0", "via": ["statement"]}
 {"parent": "RH1E6S12.part_024_3", "child": "ArdaRH65K_XiLineZeros", "via": ["statement"]}
 {"parent": "RH1E6S12.part_024_3", "child": "ArdaRH65K_RS_Mellin", "via": ["statement"]}

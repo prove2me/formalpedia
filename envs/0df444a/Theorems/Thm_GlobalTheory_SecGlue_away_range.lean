@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_away_range
 -- name    : GlobalTheory.SecGlue.away_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:49:34.13259+00:00
 -- url     : https://prove2.me/theorems/a2006cf0-bd20-4064-af86-df76169976a2

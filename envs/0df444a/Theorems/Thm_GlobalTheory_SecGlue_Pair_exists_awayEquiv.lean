@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_Pair_exists_awayEquiv
 -- name    : GlobalTheory.SecGlue.Pair.exists_awayEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:49:29.978667+00:00
 -- url     : https://prove2.me/theorems/c990d465-f78c-4c72-83fb-938ea242463d

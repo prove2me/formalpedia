@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_Cocycle_ker_awayMap_le
 -- name    : GlobalTheory.SecGlue.Cocycle.ker_awayMap_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:50:12.629282+00:00
 -- url     : https://prove2.me/theorems/8ce2c3c6-3188-4054-8bd1-83d95866b2c2

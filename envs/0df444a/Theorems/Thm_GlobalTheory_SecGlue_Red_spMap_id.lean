@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_Red_spMap_id
 -- name    : GlobalTheory.SecGlue.Red.spMap_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:49:31.72411+00:00
 -- url     : https://prove2.me/theorems/62aec829-95c7-41f6-b90b-70b43b5eefae

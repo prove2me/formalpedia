@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_WeilLevel_hasLevel_of_levelL
 -- name    : GlobalTheory.SW.WeilLevel.hasLevel_of_levelL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:45:35.512478+00:00
 -- url     : https://prove2.me/theorems/f4414802-83dd-42c1-8d83-492f62ad9f2f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Radical_unipotent_radical_basic
 -- name    : GlobalTheory.RootEx.Radical.unipotent_radical_basic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:49:49.661609+00:00
 -- url     : https://prove2.me/theorems/a790f528-39b9-4c26-bd5f-fddd95e5ce2c

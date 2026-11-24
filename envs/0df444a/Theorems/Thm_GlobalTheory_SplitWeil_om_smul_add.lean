@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_om_smul_add
 -- name    : GlobalTheory.SplitWeil.om_smul_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:21:07.842019+00:00
 -- url     : https://prove2.me/theorems/1ded2247-c387-4785-b5b6-41bd7c3bba65

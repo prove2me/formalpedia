@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_appTop_pow_mul
 -- name    : GlobalTheory.SS.appTop_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:38:10.533972+00:00
 -- url     : https://prove2.me/theorems/a0105df5-de92-417e-8df6-11674b3101fb

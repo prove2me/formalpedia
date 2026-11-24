@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeckeId_ccT_sym
 -- name    : GlobalTheory.SW.HeckeId.ccT_sym
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:40:56.558637+00:00
 -- url     : https://prove2.me/theorems/83524968-edd6-4c37-b446-aea9fa5dd2dd

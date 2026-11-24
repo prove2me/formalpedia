@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GFam_resOf_apply
 -- name    : Formalism.L2.Col.GFam.resOf_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:29:26.211249+00:00
 -- url     : https://prove2.me/theorems/d5c870fe-9608-4363-bb80-cb63819d356c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootExSource_det_linPart
 -- name    : GlobalTheory.RootExSource.det_linPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:29:38.170217+00:00
 -- url     : https://prove2.me/theorems/140ecfd9-3b70-4994-b4cc-4b3c9ecaf984

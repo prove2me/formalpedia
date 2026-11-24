@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeatTerm_quad_add
 -- name    : GlobalTheory.SW.HeatTerm.quad_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:40:20.58925+00:00
 -- url     : https://prove2.me/theorems/bfad4a33-7f59-483c-9717-739834824143

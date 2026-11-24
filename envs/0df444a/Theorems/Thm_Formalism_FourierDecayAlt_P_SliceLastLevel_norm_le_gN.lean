@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SliceLastLevel_norm_le_gN
 -- name    : Formalism.FourierDecayAlt.P.SliceLastLevel.norm_le_gN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:05:42.610713+00:00
 -- url     : https://prove2.me/theorems/95e952f6-92b6-4dea-b518-317b7cbc2128

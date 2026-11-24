@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GoodRing_good_at
 -- name    : GlobalTheory.CompanionTheory.SW.GoodRing.good_at
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:04:04.44436+00:00
 -- url     : https://prove2.me/theorems/0590e294-4852-46c0-863a-8c0731667faf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_ThetaProd_hasLevel_mul
 -- name    : GlobalTheory.SW.ThetaProd.hasLevel_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:43:57.351525+00:00
 -- url     : https://prove2.me/theorems/7c9d2196-0dbb-404c-a608-3e2390ab29f1

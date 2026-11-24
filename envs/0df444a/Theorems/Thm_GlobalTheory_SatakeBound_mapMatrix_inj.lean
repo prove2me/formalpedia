@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeBound_mapMatrix_inj
 -- name    : GlobalTheory.SatakeBound.mapMatrix_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:45:02.860882+00:00
 -- url     : https://prove2.me/theorems/73d0c26c-c15d-414b-833c-7fbf586d74ae

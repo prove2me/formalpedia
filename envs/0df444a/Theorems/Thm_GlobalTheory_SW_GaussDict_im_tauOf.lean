@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_GaussDict_im_tauOf
 -- name    : GlobalTheory.SW.GaussDict.im_tauOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:41:06.483815+00:00
 -- url     : https://prove2.me/theorems/8e3b7de1-a6cc-46c5-a43d-a3b12fe6fbf5

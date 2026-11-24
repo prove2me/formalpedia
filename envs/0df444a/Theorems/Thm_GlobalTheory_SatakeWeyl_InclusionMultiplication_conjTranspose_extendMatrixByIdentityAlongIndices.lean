@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_InclusionMultiplication_conjTranspose_extendMatrixByIdentityAlongIndices
 -- name    : GlobalTheory.SatakeWeyl.InclusionMultiplication.conjTranspose_extendMatrixByIdentityAlongIndices
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:47:37.505852+00:00
 -- url     : https://prove2.me/theorems/c0d3cf64-63f4-482c-94c2-b4504a6552fa

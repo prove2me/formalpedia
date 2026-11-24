@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx4_fFTransfer
 -- name    : Formalism.FourierDecayAlt.P.Qx4.fFTransfer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:21:40.438919+00:00
 -- url     : https://prove2.me/theorems/fd093b91-ccc9-40ae-9d33-23f19b88a16e

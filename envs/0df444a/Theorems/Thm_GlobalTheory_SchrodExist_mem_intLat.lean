@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchrodExist_mem_intLat
 -- name    : GlobalTheory.SchrodExist.mem_intLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:48:07.166787+00:00
 -- url     : https://prove2.me/theorems/5971da8b-d865-4c11-9fc0-d837dff7d0b2

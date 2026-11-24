@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_WeakNeronEx_flat_sub
 -- name    : GlobalTheory.SS.WeakNeronEx.flat_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:11:32.170584+00:00
 -- url     : https://prove2.me/theorems/c4a4ce6a-a966-4525-9cfa-3a37f1cd2d91

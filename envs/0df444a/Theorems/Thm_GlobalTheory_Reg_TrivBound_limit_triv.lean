@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_TrivBound_limit_triv
 -- name    : GlobalTheory.Reg.TrivBound.limit_triv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:18:51.63608+00:00
 -- url     : https://prove2.me/theorems/83025a21-bd7c-48a4-b8d7-e0028fee9884

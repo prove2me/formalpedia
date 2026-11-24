@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Emb_botSpan_mul_le
 -- name    : GlobalTheory.SW.Emb.botSpan_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:37:31.913716+00:00
 -- url     : https://prove2.me/theorems/cb754574-ab1c-4cda-97d1-161df34e9459

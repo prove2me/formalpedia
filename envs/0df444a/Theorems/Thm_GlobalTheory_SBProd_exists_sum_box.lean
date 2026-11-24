@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SBProd_exists_sum_box
 -- name    : GlobalTheory.SBProd.exists_sum_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:32:26.758738+00:00
 -- url     : https://prove2.me/theorems/656f0059-5137-4a53-9319-fb2029b13361

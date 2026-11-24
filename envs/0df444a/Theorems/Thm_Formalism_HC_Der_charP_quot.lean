@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_charP_quot
 -- name    : Formalism.HC.Der.charP_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:28:34.768301+00:00
 -- url     : https://prove2.me/theorems/57daf61a-4b87-4175-98b1-7edc2cbb1f85

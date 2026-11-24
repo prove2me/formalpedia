@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_PowCmp_not_isUnit_cstR
 -- name    : GlobalTheory.SS.PowCmp.not_isUnit_cstR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:35:59.0987+00:00
 -- url     : https://prove2.me/theorems/6fda988d-e6f4-4a98-909d-04f8e44ed6f8

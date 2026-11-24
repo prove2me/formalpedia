@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_SplitPrime_exists_goodPrime
 -- name    : GlobalTheory.SW.SplitPrime.exists_goodPrime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:44:22.278649+00:00
 -- url     : https://prove2.me/theorems/3f8feb77-357c-44fd-80f8-3d03add5f4a8

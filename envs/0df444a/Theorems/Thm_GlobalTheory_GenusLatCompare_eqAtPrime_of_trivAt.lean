@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenusLatCompare_eqAtPrime_of_trivAt
 -- name    : GlobalTheory.GenusLatCompare.eqAtPrime_of_trivAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:59:34.938794+00:00
 -- url     : https://prove2.me/theorems/7366cb06-970c-40ca-bebe-f58ffdcf7aed

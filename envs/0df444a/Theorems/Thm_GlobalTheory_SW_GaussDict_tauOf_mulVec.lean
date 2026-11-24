@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_GaussDict_tauOf_mulVec
 -- name    : GlobalTheory.SW.GaussDict.tauOf_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:41:17.960809+00:00
 -- url     : https://prove2.me/theorems/3fb884c4-98bd-4865-8eb4-4d78f6d7eaa9

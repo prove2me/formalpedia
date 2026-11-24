@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityGuardCardinality_cyclic_outdegree
 -- name    : SensitivityGuardCardinality.cyclic_outdegree
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T20:19:31.545258+00:00
 -- url     : https://prove2.me/theorems/8bce6324-000e-4e7c-8a8d-f7d6f43797d5

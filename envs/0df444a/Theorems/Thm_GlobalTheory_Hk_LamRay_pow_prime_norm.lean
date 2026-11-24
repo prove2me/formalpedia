@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_LamRay_pow_prime_norm
 -- name    : GlobalTheory.Hk.LamRay.pow_prime_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:22:30.224679+00:00
 -- url     : https://prove2.me/theorems/551a2e58-0626-4fc4-9296-4d21903beb1f

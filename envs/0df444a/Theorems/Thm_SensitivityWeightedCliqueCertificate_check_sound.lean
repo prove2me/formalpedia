@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityWeightedCliqueCertificate_check_sound
 -- name    : SensitivityWeightedCliqueCertificate.check_sound
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T20:19:22.889986+00:00
 -- url     : https://prove2.me/theorems/5a5f9163-abec-4285-88e1-bd4c0d96db03

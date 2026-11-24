@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_intAdIncl_jacobson
 -- name    : GlobalTheory.RowLev.intAdIncl_jacobson
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:32:36.580637+00:00
 -- url     : https://prove2.me/theorems/9c6dffdc-aa1f-436c-bfd9-b763059ace55

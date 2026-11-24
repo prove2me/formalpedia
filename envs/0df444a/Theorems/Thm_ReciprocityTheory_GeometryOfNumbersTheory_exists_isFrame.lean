@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_exists_isFrame
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.exists_isFrame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:23:09.677723+00:00
 -- url     : https://prove2.me/theorems/3f713b87-f96f-4805-afe6-4e027e38e31e

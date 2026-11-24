@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairOp_operatorIdentities
 -- name    : GlobalTheory.PairOp.operatorIdentities
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:41:21.827437+00:00
 -- url     : https://prove2.me/theorems/0827b408-e4e8-4384-b609-4101e6ad6ed1

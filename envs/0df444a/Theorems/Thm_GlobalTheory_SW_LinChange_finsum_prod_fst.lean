@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_LinChange_finsum_prod_fst
 -- name    : GlobalTheory.SW.LinChange.finsum_prod_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:41:54.776097+00:00
 -- url     : https://prove2.me/theorems/52a3c995-39a7-4a29-a2c9-030b593e97a0

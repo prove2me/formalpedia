@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormSheafDescent_isLocalization_away_of_eq_basicOpen
 -- name    : GlobalTheory.NormSheafDescent.isLocalization_away_of_eq_basicOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:14:42.900623+00:00
 -- url     : https://prove2.me/theorems/0476b1e5-8e0e-4944-9b0e-7f3c84e8e972

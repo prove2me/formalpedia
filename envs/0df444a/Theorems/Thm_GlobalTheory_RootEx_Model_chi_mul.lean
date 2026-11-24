@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Model_chi_mul
 -- name    : GlobalTheory.RootEx.Model.chi_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:25:56.315656+00:00
 -- url     : https://prove2.me/theorems/c221bca9-c81d-4902-ac9d-0c9852d294b5

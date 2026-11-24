@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_indexTwo_mem_root
 -- name    : GlobalTheory.SatakeWeyl.indexTwo_mem_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:48:17.799071+00:00
 -- url     : https://prove2.me/theorems/5683f33b-51c3-4450-a6d2-27f54fa4b0f1

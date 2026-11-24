@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RiemannRel_matrix_form
 -- name    : GlobalTheory.RiemannRel.matrix_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:24:40.502273+00:00
 -- url     : https://prove2.me/theorems/2614d879-cee4-49e7-a03b-467527201201

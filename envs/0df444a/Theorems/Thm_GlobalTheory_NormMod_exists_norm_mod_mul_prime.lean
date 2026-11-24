@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormMod_exists_norm_mod_mul_prime
 -- name    : GlobalTheory.NormMod.exists_norm_mod_mul_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:36:50.438283+00:00
 -- url     : https://prove2.me/theorems/04765df0-4f76-4f00-9143-698ab8a2a534

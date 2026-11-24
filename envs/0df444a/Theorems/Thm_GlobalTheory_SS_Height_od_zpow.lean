@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Height_od_zpow
 -- name    : GlobalTheory.SS.Height.od_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:35:16.388986+00:00
 -- url     : https://prove2.me/theorems/8bb0aa1d-6297-43ab-9c92-b61f7c6cb98a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Translates_slice_swap
 -- name    : GlobalTheory.SS.Translates.slice_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:18:53.360838+00:00
 -- url     : https://prove2.me/theorems/0e22164d-4541-4605-8cb1-0d9e835b07f1

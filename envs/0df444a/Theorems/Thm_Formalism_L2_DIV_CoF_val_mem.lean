@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_CoF_val_mem
 -- name    : Formalism.L2.DIV.CoF.val_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:16:29.547165+00:00
 -- url     : https://prove2.me/theorems/8cf21243-85b3-4d63-ac35-fdcbf7895311

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodOnto_exists_frames
 -- name    : GlobalTheory.PeriodOnto.exists_frames
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:43:57.535314+00:00
 -- url     : https://prove2.me/theorems/93f8135b-6533-46ff-8242-5b55f412b134

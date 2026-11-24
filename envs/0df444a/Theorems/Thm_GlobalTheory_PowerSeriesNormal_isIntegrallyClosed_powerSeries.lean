@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowerSeriesNormal_isIntegrallyClosed_powerSeries
 -- name    : GlobalTheory.PowerSeriesNormal.isIntegrallyClosed_powerSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:53:56.653799+00:00
 -- url     : https://prove2.me/theorems/5da20a07-1e53-4b37-bd6b-bf5eacc7aeab

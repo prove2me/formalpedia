@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RiemannRel_exists_siegel_of_symplectic
 -- name    : GlobalTheory.RiemannRel.exists_siegel_of_symplectic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:22:58.853233+00:00
 -- url     : https://prove2.me/theorems/40f1079d-333d-4702-9279-f4e219806567

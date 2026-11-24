@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_Swap_blk_eq_iff
 -- name    : GlobalTheory.SatakeWeyl.Swap.blk_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:47:55.077981+00:00
 -- url     : https://prove2.me/theorems/2ffaa8de-c855-4ecd-a217-15a0cdde5a30

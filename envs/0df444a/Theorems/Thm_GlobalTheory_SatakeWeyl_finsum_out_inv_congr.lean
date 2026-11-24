@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_finsum_out_inv_congr
 -- name    : GlobalTheory.SatakeWeyl.finsum_out_inv_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:48:23.975248+00:00
 -- url     : https://prove2.me/theorems/307c6def-8a3e-4c5f-a75a-63eb2907b4b7

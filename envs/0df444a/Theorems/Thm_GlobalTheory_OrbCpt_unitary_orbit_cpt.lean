@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbCpt_unitary_orbit_cpt
 -- name    : GlobalTheory.OrbCpt.unitary_orbit_cpt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:38:04.782313+00:00
 -- url     : https://prove2.me/theorems/50c44b4f-8886-4995-b371-510769a7eab4

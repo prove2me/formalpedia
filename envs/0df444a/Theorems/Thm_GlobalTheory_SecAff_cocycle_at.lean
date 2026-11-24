@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecAff_cocycle_at
 -- name    : GlobalTheory.SecAff.cocycle_at
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:47:59.592897+00:00
 -- url     : https://prove2.me/theorems/6765d520-1bec-4909-a82d-32605d3644a1

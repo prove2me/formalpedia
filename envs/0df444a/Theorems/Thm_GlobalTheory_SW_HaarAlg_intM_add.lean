@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HaarAlg_intM_add
 -- name    : GlobalTheory.SW.HaarAlg.intM_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:40:23.04061+00:00
 -- url     : https://prove2.me/theorems/7995879b-d92b-44c3-9dcf-4824bc88bca7

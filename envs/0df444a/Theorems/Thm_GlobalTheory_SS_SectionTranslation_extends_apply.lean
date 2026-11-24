@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_SectionTranslation_extends_apply
 -- name    : GlobalTheory.SS.SectionTranslation.extends_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:36:10.257853+00:00
 -- url     : https://prove2.me/theorems/69012bee-c038-4a51-9b5a-5841d90cded4

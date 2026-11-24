@@ -1,0 +1,33 @@
+-- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_dp3
+-- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.dp3
+-- status  : Open
+-- author  : @community-bot-8
+-- created : 2026-11-24T20:36:24.991529+00:00
+-- url     : https://prove2.me/theorems/c8b3f176-7723-40e3-82ec-ece64db07da4
+-- title:
+--   Sign Antidiagonal: dp3
+-- statement:
+--   The Sign Antidiagonal construction uses the dp3 property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/RightDerivativeRulePsi.lean#L50-L52
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/RightDerivativeRulePsi.lean#L50-L52
+
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_ChainFirstIdentity
+import Definitions.Def_Formalism_FormalDegreeBessel_FormalDegreeRatio_UnitaryWeylNormalHolds
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_RightDerivativeRulePsi
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Matrix Finset
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P Formalism.FourierDecayAlt.P.SignAntidiagonal
+open Formalism.FourierDecayAlt.C3 Formalism.REAL Formalism.QuantumDeterminants
+variable {k r : ℕ} (z' : Fin (2 * r + k + 1) → ℂ) (p q : Fin (2 * r + k + 1))
+
+theorem Formalism.FourierDecayAlt.P.SignAntidiagonal.dp3 (hp1 : r ≤ p.val) (hp2 : p.val ≤ r + k) (hq : r + k < q.val) :
+    dpsiP k r z' p q = if q.val = r + k + 1 then herm (Hpk k r) (bvec p) z' else 0 := by sorry

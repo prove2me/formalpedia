@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_splitTorus_hom_eq_one_of_no_cocharacter
 -- name    : GlobalTheory.SS.splitTorus_hom_eq_one_of_no_cocharacter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:38:49.387994+00:00
 -- url     : https://prove2.me/theorems/7d1cea10-7401-4388-af37-2b5abb00d816

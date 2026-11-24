@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Weight_exists_lift
 -- name    : GlobalTheory.SS.Weight.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:36:59.304218+00:00
 -- url     : https://prove2.me/theorems/bd91eba6-87f3-4e63-b16b-29dfe75dee67

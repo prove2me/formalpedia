@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_opE_om_target_unipotent
 -- name    : GlobalTheory.RootEx.opE_om_target_unipotent
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:00:13.014861+00:00
 -- url     : https://prove2.me/theorems/9ce6e28e-1d15-4e34-a76f-6d196d37cbce

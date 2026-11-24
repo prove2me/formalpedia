@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_exists_minimal_support
 -- name    : GlobalTheory.SS.exists_minimal_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:39:16.314661+00:00
 -- url     : https://prove2.me/theorems/e8de966a-a04e-4f01-8920-238675a5293b

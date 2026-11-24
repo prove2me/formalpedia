@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegSS_CycAlg_toGen_bijective
 -- name    : GlobalTheory.RegSS.CycAlg.toGen_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:20:38.482911+00:00
 -- url     : https://prove2.me/theorems/3baf12c4-cd5f-43b9-9fa2-1433f5221481

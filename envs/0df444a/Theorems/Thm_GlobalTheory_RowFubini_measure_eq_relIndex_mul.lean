@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowFubini_measure_eq_relIndex_mul
 -- name    : GlobalTheory.RowFubini.measure_eq_relIndex_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:30:52.936801+00:00
 -- url     : https://prove2.me/theorems/9a497fe4-8893-410a-9136-24a4053be920

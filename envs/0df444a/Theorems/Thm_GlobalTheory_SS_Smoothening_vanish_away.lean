@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Smoothening_vanish_away
 -- name    : GlobalTheory.SS.Smoothening.vanish_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:38:48.249966+00:00
 -- url     : https://prove2.me/theorems/f4108663-e21f-4a13-b7e8-4b631978b5be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Mass_MeanV_tsum_unitVec_eq
 -- name    : GlobalTheory.CompanionTheory.Mass.MeanV.tsum_unitVec_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:19:33.281845+00:00
 -- url     : https://prove2.me/theorems/aef76a80-d51f-47de-920d-359e0060d399

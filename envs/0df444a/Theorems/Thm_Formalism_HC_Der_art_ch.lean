@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_art_ch
 -- name    : Formalism.HC.Der.art_ch
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:55:16.74481+00:00
 -- url     : https://prove2.me/theorems/586ee61b-18b3-4299-ae03-14b477bb115d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_residue_embedding_unique
 -- name    : GlobalTheory.SS.residue_embedding_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:37:44.076905+00:00
 -- url     : https://prove2.me/theorems/7181a11a-b339-4965-9d52-224e1fac29b1

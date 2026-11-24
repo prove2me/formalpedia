@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaCoord_symLift_of_tval
 -- name    : GlobalTheory.ThetaCoord.symLift_of_tval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:17:04.310934+00:00
 -- url     : https://prove2.me/theorems/2d595ae6-c478-42d1-8786-35c90d5830b0

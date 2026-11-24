@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Ord_j_app_injective
 -- name    : GlobalTheory.SS.Ord.j_app_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:18:55.765141+00:00
 -- url     : https://prove2.me/theorems/7fce54fe-cab1-490e-a514-8727a4a5d7c6

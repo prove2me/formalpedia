@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Ord_rs_j
 -- name    : GlobalTheory.SS.Ord.rs_j
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:18:59.123799+00:00
 -- url     : https://prove2.me/theorems/679b2c73-1c45-4cae-9f3f-3f763b8365cd

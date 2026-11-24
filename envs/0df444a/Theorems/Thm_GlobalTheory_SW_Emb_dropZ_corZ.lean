@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Emb_dropZ_corZ
 -- name    : GlobalTheory.SW.Emb.dropZ_corZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:38:28.735389+00:00
 -- url     : https://prove2.me/theorems/ce1588de-480a-4f74-8a04-0506e395589d

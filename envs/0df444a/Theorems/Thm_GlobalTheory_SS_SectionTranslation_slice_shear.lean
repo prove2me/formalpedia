@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_SectionTranslation_slice_shear
 -- name    : GlobalTheory.SS.SectionTranslation.slice_shear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:36:53.348805+00:00
 -- url     : https://prove2.me/theorems/dd9e192f-7b8a-4a07-af97-5335a8656c54

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux1_tangent
 -- name    : Formalism.FourierDecayAlt.P.Ux1.tangent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:10:28.755054+00:00
 -- url     : https://prove2.me/theorems/1dfecee4-6462-4439-9d07-8a4a14048054

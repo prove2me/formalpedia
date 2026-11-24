@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Host_CT_transport_isUnitary
 -- name    : Formalism.L2.Host.CT.transport_isUnitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:23:24.941396+00:00
 -- url     : https://prove2.me/theorems/284a69c4-aad3-4a5b-ad8d-847f2451014c

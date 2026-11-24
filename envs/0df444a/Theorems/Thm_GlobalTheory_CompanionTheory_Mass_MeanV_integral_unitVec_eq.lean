@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Mass_MeanV_integral_unitVec_eq
 -- name    : GlobalTheory.CompanionTheory.Mass.MeanV.integral_unitVec_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:19:20.495539+00:00
 -- url     : https://prove2.me/theorems/d71c1f78-58bd-4718-b038-0354fd7956fa

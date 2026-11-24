@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeSection_isUnit_of_isUnit_res
 -- name    : GlobalTheory.PrimeSection.isUnit_of_isUnit_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:31:58.143703+00:00
 -- url     : https://prove2.me/theorems/995f41f2-24c5-4836-89fa-29e6fb19e89b

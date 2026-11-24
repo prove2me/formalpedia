@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SaturatedNotDvd_exists_saturated
 -- name    : GlobalTheory.SaturatedNotDvd.exists_saturated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:48:34.793861+00:00
 -- url     : https://prove2.me/theorems/e50c2e15-b77d-4350-9403-dbe086865581

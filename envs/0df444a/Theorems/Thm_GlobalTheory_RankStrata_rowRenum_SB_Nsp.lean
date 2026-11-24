@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankStrata_rowRenum_SB_Nsp
 -- name    : GlobalTheory.RankStrata.rowRenum_SB_Nsp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:33:47.423869+00:00
 -- url     : https://prove2.me/theorems/714fd6d5-fc59-488c-9dc4-33eb992b4aea

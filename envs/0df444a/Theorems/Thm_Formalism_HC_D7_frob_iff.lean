@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_D7_frob_iff
 -- name    : Formalism.HC.D7.frob_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:39:47.600397+00:00
 -- url     : https://prove2.me/theorems/9c3d8134-7613-44c0-8f7a-99e6bc84579e

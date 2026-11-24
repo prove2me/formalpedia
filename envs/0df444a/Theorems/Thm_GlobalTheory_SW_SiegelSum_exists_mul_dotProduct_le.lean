@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_SiegelSum_exists_mul_dotProduct_le
 -- name    : GlobalTheory.SW.SiegelSum.exists_mul_dotProduct_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:44:21.694584+00:00
 -- url     : https://prove2.me/theorems/23df0a40-58a0-473f-a437-71529174737e

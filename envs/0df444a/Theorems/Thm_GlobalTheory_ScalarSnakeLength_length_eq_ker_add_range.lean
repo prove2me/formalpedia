@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ScalarSnakeLength_length_eq_ker_add_range
 -- name    : GlobalTheory.ScalarSnakeLength.length_eq_ker_add_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:48:25.065629+00:00
 -- url     : https://prove2.me/theorems/9e727317-5152-4fb0-8f11-39cb5aa0d9aa

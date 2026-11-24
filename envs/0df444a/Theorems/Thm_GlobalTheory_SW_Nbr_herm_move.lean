@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Nbr_herm_move
 -- name    : GlobalTheory.SW.Nbr.herm_move
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:43:09.07981+00:00
 -- url     : https://prove2.me/theorems/168b19ab-6b02-4892-9366-07390143821b

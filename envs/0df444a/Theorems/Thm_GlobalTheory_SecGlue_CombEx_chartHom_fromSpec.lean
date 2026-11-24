@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_CombEx_chartHom_fromSpec
 -- name    : GlobalTheory.SecGlue.CombEx.chartHom_fromSpec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:51:51.958629+00:00
 -- url     : https://prove2.me/theorems/7f8ee1fa-5fea-493f-8a91-5957b37bc183

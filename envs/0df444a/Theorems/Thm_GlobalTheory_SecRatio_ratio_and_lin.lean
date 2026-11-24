@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecRatio_ratio_and_lin
 -- name    : GlobalTheory.SecRatio.ratio_and_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:50:53.317991+00:00
 -- url     : https://prove2.me/theorems/89ba1c3b-72fe-4d89-89fd-07a0a43b25e4

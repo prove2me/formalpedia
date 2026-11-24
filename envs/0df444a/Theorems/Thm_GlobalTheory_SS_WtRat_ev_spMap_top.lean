@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_WtRat_ev_spMap_top
 -- name    : GlobalTheory.SS.WtRat.ev_spMap_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:37:12.241068+00:00
 -- url     : https://prove2.me/theorems/c0fb6fb2-eb5b-441e-a627-9cd8e60ec69a

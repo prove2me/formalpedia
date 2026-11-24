@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_ExchangeSupport_continuous_rowE
 -- name    : GlobalTheory.RootEx.ExchangeSupport.continuous_rowE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:00:29.140613+00:00
 -- url     : https://prove2.me/theorems/3eb98025-70fd-450a-98ed-7b40285ff2e6

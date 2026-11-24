@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UpqExpChart_continuous_expU
 -- name    : GlobalTheory.UpqExpChart.continuous_expU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:29:35.8888+00:00
 -- url     : https://prove2.me/theorems/b6f55bbb-c505-462f-984e-4498683f9a9d

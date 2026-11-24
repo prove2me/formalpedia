@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SliceLastLevel_sliceR_eq
 -- name    : Formalism.FourierDecayAlt.P.SliceLastLevel.sliceR_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:07:07.540312+00:00
 -- url     : https://prove2.me/theorems/8c2c5fad-8e59-43e5-b3b8-e677bc88de69

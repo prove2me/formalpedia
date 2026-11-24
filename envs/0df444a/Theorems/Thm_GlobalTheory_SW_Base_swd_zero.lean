@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Base_swd_zero
 -- name    : GlobalTheory.SW.Base.swd_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:37:50.366285+00:00
 -- url     : https://prove2.me/theorems/3a108b7d-0998-4736-97f6-3edc30e594db

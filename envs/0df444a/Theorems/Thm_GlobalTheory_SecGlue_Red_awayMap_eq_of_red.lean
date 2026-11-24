@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_Red_awayMap_eq_of_red
 -- name    : GlobalTheory.SecGlue.Red.awayMap_eq_of_red
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:49:49.67487+00:00
 -- url     : https://prove2.me/theorems/b39c5013-bc48-4b98-818e-3c745f4a6557

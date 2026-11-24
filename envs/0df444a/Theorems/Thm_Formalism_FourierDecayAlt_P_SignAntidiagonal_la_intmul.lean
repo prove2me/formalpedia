@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_la_intmul
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.la_intmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:20:18.009249+00:00
 -- url     : https://prove2.me/theorems/aaa497fa-bb33-47ff-8301-47ec4aac0cc0

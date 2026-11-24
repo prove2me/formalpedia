@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_OrdTwist_det_cross
 -- name    : GlobalTheory.SS.OrdTwist.det_cross
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:42:18.325802+00:00
 -- url     : https://prove2.me/theorems/85a90552-cb11-4d0b-8ad3-e65e4346a3e3

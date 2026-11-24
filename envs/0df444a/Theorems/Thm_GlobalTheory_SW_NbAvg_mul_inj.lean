@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_NbAvg_mul_inj
 -- name    : GlobalTheory.SW.NbAvg.mul_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:44:05.662858+00:00
 -- url     : https://prove2.me/theorems/ee2716cc-39d0-436a-98b2-b8b1eb800114

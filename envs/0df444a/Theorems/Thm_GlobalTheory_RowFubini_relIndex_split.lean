@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowFubini_relIndex_split
 -- name    : GlobalTheory.RowFubini.relIndex_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:30:38.520253+00:00
 -- url     : https://prove2.me/theorems/4488768c-3a79-46fd-a05e-617eb08e0575

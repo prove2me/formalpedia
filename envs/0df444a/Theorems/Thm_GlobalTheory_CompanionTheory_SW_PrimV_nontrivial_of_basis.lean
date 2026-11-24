@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_PrimV_nontrivial_of_basis
 -- name    : GlobalTheory.CompanionTheory.SW.PrimV.nontrivial_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:10:24.329248+00:00
 -- url     : https://prove2.me/theorems/cff60650-f8e6-41fe-b5f8-1010b9ebfcc1

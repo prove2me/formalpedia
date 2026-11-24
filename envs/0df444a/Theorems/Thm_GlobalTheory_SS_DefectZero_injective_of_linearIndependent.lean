@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_DefectZero_injective_of_linearIndependent
 -- name    : GlobalTheory.SS.DefectZero.injective_of_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:33:40.60129+00:00
 -- url     : https://prove2.me/theorems/1999e0bc-adcc-4c55-8be2-ba584e8533c4

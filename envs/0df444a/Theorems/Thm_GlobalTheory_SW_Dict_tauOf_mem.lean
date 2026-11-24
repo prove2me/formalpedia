@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Dict_tauOf_mem
 -- name    : GlobalTheory.SW.Dict.tauOf_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:37:25.97582+00:00
 -- url     : https://prove2.me/theorems/beb4c710-f06a-4f8e-832e-cbbf0748bc5d

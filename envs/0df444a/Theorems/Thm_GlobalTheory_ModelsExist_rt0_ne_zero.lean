@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ModelsExist_rt0_ne_zero
 -- name    : GlobalTheory.ModelsExist.rt0_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:29:43.338532+00:00
 -- url     : https://prove2.me/theorems/5c4d7767-998d-4a27-90dd-56778712d836

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_continuous_beta_integrand_in_tau
 -- name    : Formalism.FourierDecayAlt.P.B6.continuous_beta_integrand_in_tau
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:01:26.304161+00:00
 -- url     : https://prove2.me/theorems/ee370f89-e847-45be-ba3f-671ab654bbab

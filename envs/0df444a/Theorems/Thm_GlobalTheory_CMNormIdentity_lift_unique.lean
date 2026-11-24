@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMNormIdentity_lift_unique
 -- name    : GlobalTheory.CMNormIdentity.lift_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:14:58.517+00:00
 -- url     : https://prove2.me/theorems/ab793dc6-d441-401d-b670-17ca8083ab27

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuotientHaar_isHaarMeasure_bind
 -- name    : GlobalTheory.QuotientHaar.isHaarMeasure_bind
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:11:53.583282+00:00
 -- url     : https://prove2.me/theorems/87957b72-e4bc-4677-814d-77a7e9d54b42

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_threshold_of_large_constant
 -- name    : Formalism.FourierDecayAlt.P.threshold_of_large_constant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:23:40.021912+00:00
 -- url     : https://prove2.me/theorems/da350a49-1956-4faa-99e5-7eb485d170f4

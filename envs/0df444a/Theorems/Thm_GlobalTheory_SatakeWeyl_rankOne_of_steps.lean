@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_rankOne_of_steps
 -- name    : GlobalTheory.SatakeWeyl.rankOne_of_steps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:49:31.893408+00:00
 -- url     : https://prove2.me/theorems/e30dcaae-8e5c-4e80-97e8-d3874c1853de

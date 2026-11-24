@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeisH_of_mulVec
 -- name    : GlobalTheory.SW.HeisH.of_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:40:28.042503+00:00
 -- url     : https://prove2.me/theorems/a8594da7-b205-4426-8d25-15474f81ba2a

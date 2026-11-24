@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GlueCompat_exists_sup
 -- name    : GlobalTheory.SS.GlueCompat.exists_sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:36:10.992217+00:00
 -- url     : https://prove2.me/theorems/732eac60-6070-4a37-afa9-28cd04a8f835

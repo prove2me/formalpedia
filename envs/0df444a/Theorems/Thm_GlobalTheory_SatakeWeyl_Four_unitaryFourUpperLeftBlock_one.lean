@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_Four_unitaryFourUpperLeftBlock_one
 -- name    : GlobalTheory.SatakeWeyl.Four.unitaryFourUpperLeftBlock_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:48:31.003934+00:00
 -- url     : https://prove2.me/theorems/8f285735-e4ea-438b-9375-fe747968fec3

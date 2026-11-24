@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HaarLatticeScale_step
 -- name    : GlobalTheory.HaarLatticeScale.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:01:52.958154+00:00
 -- url     : https://prove2.me/theorems/8ad413eb-2f70-40f1-bd45-8575b9bff556

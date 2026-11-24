@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_WeilAdm_intM_mul
 -- name    : GlobalTheory.SW.WeilAdm.intM_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:47:55.315447+00:00
 -- url     : https://prove2.me/theorems/dd2464ea-c4a7-49ae-b443-fd6d3b9f527c

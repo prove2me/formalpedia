@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootNormLowerBound_exists_root_norm_lt
 -- name    : GlobalTheory.RootNormLowerBound.exists_root_norm_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:52:36.406869+00:00
 -- url     : https://prove2.me/theorems/ade1256a-d365-4fd6-9a7f-ecc6ebfb59cf

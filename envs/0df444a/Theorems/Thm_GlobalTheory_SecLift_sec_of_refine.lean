@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecLift_sec_of_refine
 -- name    : GlobalTheory.SecLift.sec_of_refine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:50:53.581096+00:00
 -- url     : https://prove2.me/theorems/6e2dcd79-563d-4fbf-848a-be547b981ebc

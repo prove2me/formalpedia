@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_StrictLaw_coshear_snd
 -- name    : GlobalTheory.SS.StrictLaw.coshear_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:36:03.677218+00:00
 -- url     : https://prove2.me/theorems/d4a27897-7414-4dd9-9e14-63d198047d5f

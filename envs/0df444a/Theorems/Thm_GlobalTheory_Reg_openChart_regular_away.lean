@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_openChart_regular_away
 -- name    : GlobalTheory.Reg.openChart_regular_away
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:45:39.055556+00:00
 -- url     : https://prove2.me/theorems/2aab97b8-6ee8-462e-85d7-707982051028

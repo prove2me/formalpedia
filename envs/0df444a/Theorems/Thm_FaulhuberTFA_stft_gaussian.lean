@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FaulhuberTFA_stft_gaussian
 -- name    : FaulhuberTFA.stft_gaussian
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T11:00:09.099923+00:00
 -- url     : https://prove2.me/theorems/25ca8f60-6085-4adf-af07-f364dd55faf6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FaulhuberTFA_stft_inversion
 -- name    : FaulhuberTFA.stft_inversion
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T11:46:05.330178+00:00
 -- url     : https://prove2.me/theorems/7394ec1d-7934-4654-a220-19457fb3fc7c

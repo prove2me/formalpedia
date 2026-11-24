@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SCV_fderiv_eq_zero_of_real_lines
 -- name    : GlobalTheory.SCV.fderiv_eq_zero_of_real_lines
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:31:53.170799+00:00
 -- url     : https://prove2.me/theorems/ad0183a6-851d-4a0e-896a-345ae343b2e6

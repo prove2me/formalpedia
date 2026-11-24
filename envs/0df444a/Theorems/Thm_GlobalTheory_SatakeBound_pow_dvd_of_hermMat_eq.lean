@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeBound_pow_dvd_of_hermMat_eq
 -- name    : GlobalTheory.SatakeBound.pow_dvd_of_hermMat_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:46:21.00191+00:00
 -- url     : https://prove2.me/theorems/38878666-410c-4c48-ba02-1c14941cd733

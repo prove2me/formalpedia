@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GI_genIso_of_le
 -- name    : GlobalTheory.SS.GI.genIso_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:33:33.392497+00:00
 -- url     : https://prove2.me/theorems/46b37ef4-3149-4fd4-a0a7-03634719be9f

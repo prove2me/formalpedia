@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_FourierJ_tsum_level_eq_sum_cosets
 -- name    : GlobalTheory.SW.FourierJ.tsum_level_eq_sum_cosets
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:38:18.202072+00:00
 -- url     : https://prove2.me/theorems/688c51fa-0fe1-4b1f-9c2b-b042080a2d4a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowDet_notMem_vars_det
 -- name    : GlobalTheory.RowDet.notMem_vars_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:30:27.92006+00:00
 -- url     : https://prove2.me/theorems/cee78880-251d-4dfe-93a9-49aacdf4cbde

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_ind_sb
 -- name    : GlobalTheory.SW.ind_sb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:45:23.859465+00:00
 -- url     : https://prove2.me/theorems/d1da6191-f3a9-4ebe-bf1c-a7a73f1acb6e

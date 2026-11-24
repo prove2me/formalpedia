@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_blockDiagPart_mul
 -- name    : GlobalTheory.SatakeWeyl.blockDiagPart_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:48:04.869697+00:00
 -- url     : https://prove2.me/theorems/5ef0073b-4c2b-4364-8795-60eb06a8e559

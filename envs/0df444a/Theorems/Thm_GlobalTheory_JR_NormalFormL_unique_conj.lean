@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_NormalFormL_unique_conj
 -- name    : GlobalTheory.JR.NormalFormL.unique_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:34:48.462368+00:00
 -- url     : https://prove2.me/theorems/5e6d1cb9-9045-40f9-b804-7fab858e8766

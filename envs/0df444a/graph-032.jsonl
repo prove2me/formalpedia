@@ -48669,7 +48669,7 @@
 {"parent": "AcceptSubcube.Supplement.theorem_7_9", "child": "CookPvsNP_defs", "via": ["statement"]}
 {"parent": "AcceptSubcube.Supplement.theorem_7_9", "child": "AcceptSubcube_Supplement_RP", "via": ["statement"]}
 {"parent": "GreedyRegionGrowing.Layouts.Supplement.lemma_6_7", "child": "GreedyRegionGrowing_Layouts_Foundation", "via": ["statement"]}
-{"parent": "HarmonicRanking.Main.Supplement.theorem_7_1", "child": "HarmonicRanking_Main_Supplement_PriceLP", "via": ["statement"]}
+{"parent": "HarmonicRanking.Main.Supplement.theorem_7_1", "child": "HarmonicRanking_Main_Supplement_PriceLP", "via": ["solution", "statement"]}
 {"parent": "GradedReserve_Supplement_interimQ", "child": "GradedReserve_Supplement_profileLaw", "via": ["statement"]}
 {"parent": "GradedReserve_Supplement_interimQ", "child": "GradedReserve_Supplement_allocAgainst", "via": ["statement"]}
 {"parent": "SuperRamanujan227.Main.Supplement.theorem_A_1", "child": "SuperRamanujan227_Main_Supplement_LPS", "via": ["statement"]}
@@ -48802,7 +48802,7 @@
 {"parent": "SYKEdge.Supplement.theorem_5_6", "child": "SYKEdge_Hamiltonian", "via": ["statement"]}
 {"parent": "SYKEdge.Supplement.theorem_5_6", "child": "SYKEdge_Supplement_RandomHypergraph", "via": ["statement"]}
 {"parent": "SYKEdge.Supplement.theorem_5_6", "child": "SYKEdge_MatrixNorms", "via": ["statement"]}
-{"parent": "HarmonicRanking.Main.Supplement.lemma_B_5", "child": "HarmonicRanking_Main_Supplement_PriceLP", "via": ["statement"]}
+{"parent": "HarmonicRanking.Main.Supplement.lemma_B_5", "child": "HarmonicRanking_Main_Supplement_PriceLP", "via": ["solution", "statement"]}
 {"parent": "RGMISFast.Ncount_measurable", "child": "RGMISFast_condLaw", "via": ["statement"]}
 {"parent": "RGMISFast.Ncount_measurable", "child": "RGMISFast_Y", "via": ["solution", "statement"]}
 {"parent": "ChvatalOneHard398.SAT.Supplement.lemma_4", "child": "ChvatalOneHard398_SAT_Supplement_Probability", "via": ["statement"]}

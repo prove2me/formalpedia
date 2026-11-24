@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_LinChange_relIndex_map
 -- name    : GlobalTheory.SW.LinChange.relIndex_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:42:43.601802+00:00
 -- url     : https://prove2.me/theorems/ed8ee2ec-79d1-4351-9607-5fa454538821

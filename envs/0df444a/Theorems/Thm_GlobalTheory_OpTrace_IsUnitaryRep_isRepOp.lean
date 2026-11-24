@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OpTrace_IsUnitaryRep_isRepOp
 -- name    : GlobalTheory.OpTrace.IsUnitaryRep.isRepOp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:27:09.085198+00:00
 -- url     : https://prove2.me/theorems/06c1672e-fa24-4ef2-b5aa-afb087089109

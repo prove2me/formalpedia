@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_DefectZero_isSmoothAt_of_ker
 -- name    : GlobalTheory.SS.DefectZero.isSmoothAt_of_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:33:54.606431+00:00
 -- url     : https://prove2.me/theorems/a2f4dbc5-d48b-43be-86a1-eb69fc850335

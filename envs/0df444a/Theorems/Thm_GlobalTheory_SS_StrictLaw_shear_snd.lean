@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_StrictLaw_shear_snd
 -- name    : GlobalTheory.SS.StrictLaw.shear_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:37:27.027801+00:00
 -- url     : https://prove2.me/theorems/46279160-d9ae-402a-85ea-785fb8ddbfed

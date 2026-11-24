@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Smoothening_smooth_away_of_inj
 -- name    : GlobalTheory.SS.Smoothening.smooth_away_of_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:37:25.676244+00:00
 -- url     : https://prove2.me/theorems/ef0a0f94-c695-42d3-8a78-62b55b2c1077

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_smul_mem_Mext_of_basis
 -- name    : GlobalTheory.BK.PhiMod.smul_mem_Mext_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:17:09.928457+00:00
 -- url     : https://prove2.me/theorems/143c3ca5-51d0-4542-9fec-9aa25c90e457

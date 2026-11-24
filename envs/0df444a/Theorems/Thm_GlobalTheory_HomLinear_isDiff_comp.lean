@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HomLinear_isDiff_comp
 -- name    : GlobalTheory.HomLinear.isDiff_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:55:56.497799+00:00
 -- url     : https://prove2.me/theorems/04b6516a-4db3-49f5-9f1b-b2a63d281c82

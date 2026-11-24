@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuotientDescent_up_comp
 -- name    : GlobalTheory.QuotientDescent.up_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:10:58.572045+00:00
 -- url     : https://prove2.me/theorems/36a2b494-b838-428b-bae8-5acd55759809

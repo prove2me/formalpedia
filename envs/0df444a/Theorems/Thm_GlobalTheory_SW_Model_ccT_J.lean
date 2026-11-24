@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Model_ccT_J
 -- name    : GlobalTheory.SW.Model.ccT_J
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:43:14.838809+00:00
 -- url     : https://prove2.me/theorems/ab1e00fe-1f92-4b53-9646-6fabb08636c5

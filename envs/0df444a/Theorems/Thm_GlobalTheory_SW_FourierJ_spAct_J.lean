@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_FourierJ_spAct_J
 -- name    : GlobalTheory.SW.FourierJ.spAct_J
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:38:38.250322+00:00
 -- url     : https://prove2.me/theorems/d78401be-34d2-4bf0-9f12-7d21770e64a4

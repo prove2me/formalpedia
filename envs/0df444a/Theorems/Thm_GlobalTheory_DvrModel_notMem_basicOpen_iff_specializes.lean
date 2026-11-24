@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DvrModel_notMem_basicOpen_iff_specializes
 -- name    : GlobalTheory.DvrModel.notMem_basicOpen_iff_specializes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:57:16.100459+00:00
 -- url     : https://prove2.me/theorems/27252764-2fe9-4ba7-9988-9b8477760e9e

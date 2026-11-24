@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_ExpSum_convexOn_norm_term
 -- name    : GlobalTheory.SW.ExpSum.convexOn_norm_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:39:26.844185+00:00
 -- url     : https://prove2.me/theorems/30bd0081-1fcc-4429-a4d3-b9b3b5b0b5d7

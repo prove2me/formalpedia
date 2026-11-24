@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_LinChange_finsum_quot_map
 -- name    : GlobalTheory.SW.LinChange.finsum_quot_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:41:18.979938+00:00
 -- url     : https://prove2.me/theorems/116bbad6-9ddf-4d6e-ba9d-3c6f9b39a3a3

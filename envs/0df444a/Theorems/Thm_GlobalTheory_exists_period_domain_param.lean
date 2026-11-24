@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_period_domain_param
 -- name    : GlobalTheory.exists_period_domain_param
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:15:09.624801+00:00
 -- url     : https://prove2.me/theorems/62b2ea4f-4347-4a20-a3fe-02b0d55c877c

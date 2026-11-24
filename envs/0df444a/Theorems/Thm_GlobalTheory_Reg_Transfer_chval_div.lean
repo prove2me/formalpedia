@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_Transfer_chval_div
 -- name    : GlobalTheory.Reg.Transfer.chval_div
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:07:27.190808+00:00
 -- url     : https://prove2.me/theorems/25f2df2e-9500-4527-a734-79502c516e72

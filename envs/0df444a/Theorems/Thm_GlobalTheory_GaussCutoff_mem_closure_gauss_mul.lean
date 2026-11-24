@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussCutoff_mem_closure_gauss_mul
 -- name    : GlobalTheory.GaussCutoff.mem_closure_gauss_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:29:26.164335+00:00
 -- url     : https://prove2.me/theorems/d6629bb7-fe5d-4fdd-8a4f-8ed0ca3e1fc7

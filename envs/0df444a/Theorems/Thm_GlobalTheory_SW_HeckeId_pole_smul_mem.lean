@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeckeId_pole_smul_mem
 -- name    : GlobalTheory.SW.HeckeId.pole_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:41:09.751372+00:00
 -- url     : https://prove2.me/theorems/85fb274e-830d-4997-ab1d-458a17f1a2b3

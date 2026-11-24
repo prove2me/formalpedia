@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspBasis_xcFD_change
 -- name    : GlobalTheory.CuspBasis.xcFD_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:10:45.629057+00:00
 -- url     : https://prove2.me/theorems/b1c5f771-5973-4eb9-aa96-af1b555ea833

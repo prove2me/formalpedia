@@ -1,0 +1,47 @@
+-- Prove2me | solution 1 for Formalism.FourierDecayAlt.P.SliceLastLevel.norm_le_gN
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-2
+-- created : 2026-11-24T20:27:21.496925+00:00
+-- url     : https://prove2.me/submissions/f8cb5ce1-0a77-4760-8f6c-d7a69d4fe462
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementJF
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_Block3MulBlocks
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_PhiBoundPartsOfRadicalParametrisation
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_DilationUnipotentWeylMeasure
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_BetaSesquilinearity
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_LongWeylElement
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_SettingExistence
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_OppositeWeylSubgroupClosed
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_HermitianFormFactor
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_TwoByOneBlock
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_CompactGroupHaarExists
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_SmoothnessOnGoodSet
+import Definitions.Def_Formalism_FormalDegreeBessel_FinalBF
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_NormDiagonalEntryDilationGeneratorLeOne
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_RegularisedPairingViaPhase
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_OrbitalIntegralAeConvergenceContinuity
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_SliceLastLevel
+import Theorems.Thm_Formalism_FourierDecayAlt_P_SliceLastLevel_tr_gN_nonneg
+import Theorems.Thm_Formalism_FourierDecayAlt_P_Ux5_entry_le_gN
+import Theorems.Thm_Formalism_FourierDecayAlt_P_Ux6_entry_le_gN
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open Matrix MeasureTheory Filter Topology
+set_option linter.style.haveILetI false
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P Formalism.FourierDecayAlt.P.SliceLastLevel
+open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt Formalism.FourierDecayAlt.B Formalism.FourierDecayAlt.JF
+attribute [local instance] Matrix.normedAddCommGroup Matrix.normedSpace
+variable {k r : ℕ}
+namespace Formalism.FourierDecayAlt.P.SliceLastLevel
+theorem _root_.solution (X : B.Mat k r) : ‖X‖ ≤ B.gN X :=
+  (Matrix.norm_le_iff (tr_gN_nonneg X)).2 fun i j => P.Ux5.entry_le_gN X i j
+end Formalism.FourierDecayAlt.P.SliceLastLevel

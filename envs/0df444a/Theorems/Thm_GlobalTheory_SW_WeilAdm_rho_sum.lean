@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_WeilAdm_rho_sum
 -- name    : GlobalTheory.SW.WeilAdm.rho_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:45:45.332323+00:00
 -- url     : https://prove2.me/theorems/e1a63b48-caa4-4d6d-aa11-a6935db3af64

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeisH_trace_eq
 -- name    : GlobalTheory.SW.HeisH.trace_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:40:36.269959+00:00
 -- url     : https://prove2.me/theorems/504a6ab3-ac5e-46b3-87dd-461cd4f8c7c9

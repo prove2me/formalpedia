@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_TwistMove_admissibleLatticeFamily_moved_by_rational_matrix
 -- name    : GlobalTheory.SW.TwistMove.admissibleLatticeFamily_moved_by_rational_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:44:42.899501+00:00
 -- url     : https://prove2.me/theorems/1b572205-b6f6-4cbf-b8d7-438f8bd8907a

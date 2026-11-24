@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperFunctions_isIso_appTop_of_isIntegrallyClosed
 -- name    : GlobalTheory.ProperFunctions.isIso_appTop_of_isIntegrallyClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:56:20.586146+00:00
 -- url     : https://prove2.me/theorems/aa699126-9c69-4af6-b6a7-3ceba086591c

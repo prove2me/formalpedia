@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineThickening_isCoboundary_zero
 -- name    : GlobalTheory.AffineThickening.isCoboundary_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:58:45.490442+00:00
 -- url     : https://prove2.me/theorems/bc306d5e-7654-4456-b07c-4159504e7043

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HermLat_cc_trace
 -- name    : GlobalTheory.SW.HermLat.cc_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:40:07.586996+00:00
 -- url     : https://prove2.me/theorems/ac616bd4-9b66-4340-8815-4feadca2df04

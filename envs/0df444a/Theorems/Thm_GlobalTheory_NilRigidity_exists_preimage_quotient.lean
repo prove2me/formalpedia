@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NilRigidity_exists_preimage_quotient
 -- name    : GlobalTheory.NilRigidity.exists_preimage_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:17:56.014883+00:00
 -- url     : https://prove2.me/theorems/b7850e3c-c648-495e-bb37-721b35144c97

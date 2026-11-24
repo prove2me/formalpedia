@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Ord_rs_cstK
 -- name    : GlobalTheory.SS.Ord.rs_cstK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:17:12.296041+00:00
 -- url     : https://prove2.me/theorems/a8eef004-207b-4f15-b6a4-10530814db7a

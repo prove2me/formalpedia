@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootNormPowerBound_exists_root_norm_sub_pow_le
 -- name    : GlobalTheory.RootNormPowerBound.exists_root_norm_sub_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:30:38.315444+00:00
 -- url     : https://prove2.me/theorems/61695682-2bf7-4ac4-8888-bab56de7d12a

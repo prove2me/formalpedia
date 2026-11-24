@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_PosSum_exists_repr_le
 -- name    : GlobalTheory.SW.PosSum.exists_repr_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:44:37.777734+00:00
 -- url     : https://prove2.me/theorems/8bbaec4c-be63-4f08-822a-b6a9c041d2cd

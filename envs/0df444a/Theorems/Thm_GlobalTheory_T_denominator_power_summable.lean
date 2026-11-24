@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_denominator_power_summable
 -- name    : GlobalTheory.T.denominator_power_summable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:48:12.531299+00:00
 -- url     : https://prove2.me/theorems/ba4decea-512d-48f2-a6b8-28f712181e71

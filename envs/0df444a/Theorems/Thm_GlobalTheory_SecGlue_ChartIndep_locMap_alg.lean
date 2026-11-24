@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_ChartIndep_locMap_alg
 -- name    : GlobalTheory.SecGlue.ChartIndep.locMap_alg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:50:49.030386+00:00
 -- url     : https://prove2.me/theorems/17ae90f3-26c8-4de5-9674-592a06be9dbe

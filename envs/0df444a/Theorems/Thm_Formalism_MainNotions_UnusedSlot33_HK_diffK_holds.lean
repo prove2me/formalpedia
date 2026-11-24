@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_UnusedSlot33_HK_diffK_holds
 -- name    : Formalism.MainNotions.UnusedSlot33.HK.diffK_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:30:16.674276+00:00
 -- url     : https://prove2.me/theorems/7d957f72-b9a1-4c5d-a254-256461e439dc

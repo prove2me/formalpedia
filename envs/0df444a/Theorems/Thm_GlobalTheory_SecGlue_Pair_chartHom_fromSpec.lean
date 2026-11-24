@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_Pair_chartHom_fromSpec
 -- name    : GlobalTheory.SecGlue.Pair.chartHom_fromSpec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:52:31.903308+00:00
 -- url     : https://prove2.me/theorems/7a86320a-45c2-408a-9ad0-c8842f2a7cdc

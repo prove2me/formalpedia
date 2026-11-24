@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_proj_idem
 -- name    : GlobalTheory.RealWeil.proj_idem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:16:46.27785+00:00
 -- url     : https://prove2.me/theorems/c08491dc-c003-489f-9927-c3eb5e768878

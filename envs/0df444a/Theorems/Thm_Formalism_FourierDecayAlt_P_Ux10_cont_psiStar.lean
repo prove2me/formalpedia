@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux10_cont_psiStar
 -- name    : Formalism.FourierDecayAlt.P.Ux10.cont_psiStar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:27:06.240318+00:00
 -- url     : https://prove2.me/theorems/4b5e3f2f-1d99-408f-8209-dde24b8ff9aa

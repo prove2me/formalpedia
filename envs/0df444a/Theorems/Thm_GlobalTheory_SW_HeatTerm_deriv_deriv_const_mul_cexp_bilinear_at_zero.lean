@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeatTerm_deriv_deriv_const_mul_cexp_bilinear_at_zero
 -- name    : GlobalTheory.SW.HeatTerm.deriv_deriv_const_mul_cexp_bilinear_at_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:40:40.053144+00:00
 -- url     : https://prove2.me/theorems/2735abfb-c461-4f13-ba30-099f61935305

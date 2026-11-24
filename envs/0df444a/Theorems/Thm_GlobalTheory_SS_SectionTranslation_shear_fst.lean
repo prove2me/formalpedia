@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_SectionTranslation_shear_fst
 -- name    : GlobalTheory.SS.SectionTranslation.shear_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:37:14.97988+00:00
 -- url     : https://prove2.me/theorems/97fd89f7-c192-4f87-9995-a75b9853e0e1

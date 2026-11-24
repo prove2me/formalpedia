@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionKernel_gs_sub
 -- name    : GlobalTheory.SectionKernel.gs_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:51:39.70327+00:00
 -- url     : https://prove2.me/theorems/646d46f7-dff8-4b64-9e78-f78795ee8a7f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnalyticHom_le_preimage_nonzeroLocus
 -- name    : GlobalTheory.AnalyticHom.le_preimage_nonzeroLocus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:56:42.935854+00:00
 -- url     : https://prove2.me/theorems/94cfa222-440c-4380-900d-78e4fd5ad272

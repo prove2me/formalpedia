@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootUnit_sec_gs_ne_zero
 -- name    : GlobalTheory.RootUnit.sec_gs_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:49:37.001483+00:00
 -- url     : https://prove2.me/theorems/9fb07cc5-89d8-4405-81ee-b4f8e768443c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SCV_norm_iteratedFDeriv_le_factorial
 -- name    : GlobalTheory.SCV.norm_iteratedFDeriv_le_factorial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:33:25.317608+00:00
 -- url     : https://prove2.me/theorems/261b26b7-2bde-4be6-9a0d-afe2af5c0980

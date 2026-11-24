@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharIdem_sum_fiber_nonneg
 -- name    : GlobalTheory.CharIdem.sum_fiber_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:30:04.112859+00:00
 -- url     : https://prove2.me/theorems/87cca30b-a628-42ef-bd02-c7cdb919b089

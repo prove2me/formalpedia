@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_WeilAdm_isSB_add
 -- name    : GlobalTheory.SW.WeilAdm.isSB_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:45:28.248734+00:00
 -- url     : https://prove2.me/theorems/de8a59c5-7363-4da2-968f-b4c9caa21fe6

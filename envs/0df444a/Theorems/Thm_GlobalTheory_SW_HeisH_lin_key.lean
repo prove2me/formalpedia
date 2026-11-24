@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeisH_lin_key
 -- name    : GlobalTheory.SW.HeisH.lin_key
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:40:00.963092+00:00
 -- url     : https://prove2.me/theorems/18632e6f-c4e8-4a6e-b5ce-7b3df0c62461

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Nbr_inf_spec
 -- name    : GlobalTheory.SW.Nbr.inf_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:43:17.809814+00:00
 -- url     : https://prove2.me/theorems/e04601ae-74b5-44c1-a95c-f43038752f4b

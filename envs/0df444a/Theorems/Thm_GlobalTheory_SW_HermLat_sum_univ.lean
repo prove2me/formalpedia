@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HermLat_sum_univ
 -- name    : GlobalTheory.SW.HermLat.sum_univ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:41:18.026224+00:00
 -- url     : https://prove2.me/theorems/aabea1d7-2180-489d-adbd-b1730396716f

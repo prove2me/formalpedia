@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspCentre_zMatE_injective
 -- name    : GlobalTheory.CuspCentre.zMatE_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:37:38.96959+00:00
 -- url     : https://prove2.me/theorems/a51c8015-66cc-4d96-8d3f-e9c36a7dbf85

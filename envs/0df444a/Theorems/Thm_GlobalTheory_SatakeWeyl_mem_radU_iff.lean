@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_mem_radU_iff
 -- name    : GlobalTheory.SatakeWeyl.mem_radU_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:51:12.751582+00:00
 -- url     : https://prove2.me/theorems/5d9828c8-f725-4393-b5e1-7445dfb236bf

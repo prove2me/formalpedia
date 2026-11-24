@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_exists_rel
 -- name    : GlobalTheory.SecGlue.exists_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:49:28.334005+00:00
 -- url     : https://prove2.me/theorems/65d86109-1eac-44f5-a95e-aebe13dccbd7

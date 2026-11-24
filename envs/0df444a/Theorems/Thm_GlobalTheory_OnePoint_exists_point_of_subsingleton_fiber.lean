@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OnePoint_exists_point_of_subsingleton_fiber
 -- name    : GlobalTheory.OnePoint.exists_point_of_subsingleton_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:05:27.599451+00:00
 -- url     : https://prove2.me/theorems/9f28831f-21b1-4be2-bd6b-a130770d39d4

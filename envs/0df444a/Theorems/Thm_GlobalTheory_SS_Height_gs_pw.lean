@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Height_gs_pw
 -- name    : GlobalTheory.SS.Height.gs_pw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:34:46.293059+00:00
 -- url     : https://prove2.me/theorems/fc496eb4-2048-4172-9635-61c199bdd460

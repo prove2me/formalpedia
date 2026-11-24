@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionKernel_exists_rs_eq_zero
 -- name    : GlobalTheory.SectionKernel.exists_rs_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:50:25.334624+00:00
 -- url     : https://prove2.me/theorems/f240bc89-cb68-407a-b701-4cefc8f74e4a

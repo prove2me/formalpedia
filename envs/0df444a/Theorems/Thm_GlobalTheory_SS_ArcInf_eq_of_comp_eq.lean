@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_ArcInf_eq_of_comp_eq
 -- name    : GlobalTheory.SS.ArcInf.eq_of_comp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:51:48.900633+00:00
 -- url     : https://prove2.me/theorems/dd4d0325-7b9d-433f-9e25-1a070a5febd8

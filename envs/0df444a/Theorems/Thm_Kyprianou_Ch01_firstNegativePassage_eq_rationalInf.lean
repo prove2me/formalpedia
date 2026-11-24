@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_firstNegativePassage_eq_rationalInf
 -- name    : Kyprianou.Ch01.firstNegativePassage_eq_rationalInf
--- status  : Open
+-- status  : Disproved
 -- author  : @pageman
 -- created : 2026-11-24T16:49:21.335656+00:00
 -- url     : https://prove2.me/theorems/dbc70132-0b09-44e6-9fb1-bffb4d5fc98a

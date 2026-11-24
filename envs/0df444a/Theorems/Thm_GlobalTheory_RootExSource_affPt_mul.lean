@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootExSource_affPt_mul
 -- name    : GlobalTheory.RootExSource.affPt_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:29:39.941227+00:00
 -- url     : https://prove2.me/theorems/34f57af9-b85d-4915-803b-54b8be9c403f

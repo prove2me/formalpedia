@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_exists_diag_zpow
 -- name    : GlobalTheory.SatakeWeyl.exists_diag_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:48:09.139592+00:00
 -- url     : https://prove2.me/theorems/3054c6b3-5fce-4d47-8e29-67582d8ec841

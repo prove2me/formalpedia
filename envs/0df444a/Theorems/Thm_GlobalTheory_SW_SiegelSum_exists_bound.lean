@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_SiegelSum_exists_bound
 -- name    : GlobalTheory.SW.SiegelSum.exists_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:44:15.913421+00:00
 -- url     : https://prove2.me/theorems/87ee02ea-0b97-48c9-9dde-fa638a1204e1

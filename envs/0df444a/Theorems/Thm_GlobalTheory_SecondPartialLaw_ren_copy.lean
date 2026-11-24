@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecondPartialLaw_ren_copy
 -- name    : GlobalTheory.SecondPartialLaw.ren_copy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:51:40.147041+00:00
 -- url     : https://prove2.me/theorems/12570acd-bbc8-4dd8-836a-c47a6167b7b5

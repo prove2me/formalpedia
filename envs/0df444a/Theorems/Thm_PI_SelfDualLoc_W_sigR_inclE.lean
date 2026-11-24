@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SelfDualLoc_W_sigR_inclE
 -- name    : PI.SelfDualLoc.W.sigR_inclE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:23:30.168478+00:00
 -- url     : https://prove2.me/theorems/be7ef6a4-8aaa-486a-9d07-35fb0c450e8b

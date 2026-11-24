@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeatTerm_inv_one_add
 -- name    : GlobalTheory.SW.HeatTerm.inv_one_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:40:04.629364+00:00
 -- url     : https://prove2.me/theorems/ae6cf6b0-c884-4f06-877b-447d2ec96ea4

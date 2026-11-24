@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalLog_exists_log_exp
 -- name    : GlobalTheory.FormalLog.exists_log_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:35:02.862029+00:00
 -- url     : https://prove2.me/theorems/94d0e219-e062-498a-8b52-5b2ea9ab27be

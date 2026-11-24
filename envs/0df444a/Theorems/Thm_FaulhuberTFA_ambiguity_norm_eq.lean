@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FaulhuberTFA_ambiguity_norm_eq
 -- name    : FaulhuberTFA.ambiguity_norm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T11:47:29.569846+00:00
 -- url     : https://prove2.me/theorems/fdf45286-50a2-4773-b337-a4021ab6841d

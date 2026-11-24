@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_UnitaryLeft_sum_rows_eq_trace
 -- name    : GlobalTheory.SW.UnitaryLeft.sum_rows_eq_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:45:34.052925+00:00
 -- url     : https://prove2.me/theorems/bce1277b-f9a8-4843-9d7b-d2414c8e62e2

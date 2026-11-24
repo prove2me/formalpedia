@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_RowSupport_row_support_uniform
 -- name    : GlobalTheory.RootEx.RowSupport.row_support_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:28:36.414192+00:00
 -- url     : https://prove2.me/theorems/feadf82d-34b4-462a-8a3c-c99dcb268f55

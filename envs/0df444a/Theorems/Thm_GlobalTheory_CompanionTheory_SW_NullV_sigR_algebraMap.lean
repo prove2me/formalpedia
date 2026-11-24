@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_NullV_sigR_algebraMap
 -- name    : GlobalTheory.CompanionTheory.SW.NullV.sigR_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:22:03.379831+00:00
 -- url     : https://prove2.me/theorems/33ca2638-3fa5-4917-9b9e-4538167d12bc

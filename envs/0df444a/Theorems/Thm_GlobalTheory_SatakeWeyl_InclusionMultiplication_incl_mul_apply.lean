@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_InclusionMultiplication_incl_mul_apply
 -- name    : GlobalTheory.SatakeWeyl.InclusionMultiplication.incl_mul_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:47:03.517828+00:00
 -- url     : https://prove2.me/theorems/3793560f-0b52-48ca-8133-f04effa2b439

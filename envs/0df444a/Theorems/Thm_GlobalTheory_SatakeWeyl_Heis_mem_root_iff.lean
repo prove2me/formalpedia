@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_Heis_mem_root_iff
 -- name    : GlobalTheory.SatakeWeyl.Heis.mem_root_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:48:15.756245+00:00
 -- url     : https://prove2.me/theorems/fa820bc8-f197-4db9-ad70-2efcc922dbca

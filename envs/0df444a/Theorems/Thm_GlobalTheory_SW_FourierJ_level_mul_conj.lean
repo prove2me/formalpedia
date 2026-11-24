@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_FourierJ_level_mul_conj
 -- name    : GlobalTheory.SW.FourierJ.level_mul_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:38:45.580964+00:00
 -- url     : https://prove2.me/theorems/8f5feaa0-3fc5-4a1c-944c-2ff05d042f15

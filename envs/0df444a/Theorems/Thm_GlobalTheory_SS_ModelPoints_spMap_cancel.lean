@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_ModelPoints_spMap_cancel
 -- name    : GlobalTheory.SS.ModelPoints.spMap_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:36:51.580146+00:00
 -- url     : https://prove2.me/theorems/962e0a8b-a0be-42e3-8617-f94f3208f0db

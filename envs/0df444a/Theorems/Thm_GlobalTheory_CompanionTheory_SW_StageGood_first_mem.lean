@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_StageGood_first_mem
 -- name    : GlobalTheory.CompanionTheory.SW.StageGood.first_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:23:11.7208+00:00
 -- url     : https://prove2.me/theorems/64530f3d-a75d-4147-a7da-93a0eea68cca

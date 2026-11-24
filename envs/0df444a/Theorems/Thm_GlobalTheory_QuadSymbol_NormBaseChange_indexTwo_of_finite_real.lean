@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_NormBaseChange_indexTwo_of_finite_real
 -- name    : GlobalTheory.QuadSymbol.NormBaseChange.indexTwo_of_finite_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:13:00.280382+00:00
 -- url     : https://prove2.me/theorems/5de09f9e-659b-4217-92ac-d60d6dfc0c3b

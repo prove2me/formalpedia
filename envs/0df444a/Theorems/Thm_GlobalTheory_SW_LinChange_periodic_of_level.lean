@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_LinChange_periodic_of_level
 -- name    : GlobalTheory.SW.LinChange.periodic_of_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:42:36.943945+00:00
 -- url     : https://prove2.me/theorems/35cf754c-85cf-417c-a89e-6d8ac99748bd

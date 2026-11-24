@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchwartzIntegralExchange_le_norm_wtFun
 -- name    : GlobalTheory.SchwartzIntegralExchange.le_norm_wtFun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:47:36.732342+00:00
 -- url     : https://prove2.me/theorems/6084db9b-83b6-4e01-b1d8-c9a9e51d9fdd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RiemannRel_differentiableOn_left_inverse
 -- name    : GlobalTheory.RiemannRel.differentiableOn_left_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:08:57.141306+00:00
 -- url     : https://prove2.me/theorems/46ed15c1-19ca-4d93-ab38-2da0b7b1e746

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankChart_sb_shear_invariant
 -- name    : GlobalTheory.RankChart.sb_shear_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:47:45.190799+00:00
 -- url     : https://prove2.me/theorems/6d6bb43a-d96b-47d8-ae43-2ff37e9e6dba

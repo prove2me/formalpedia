@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HermLat_indep
 -- name    : GlobalTheory.SW.HermLat.indep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:41:20.565805+00:00
 -- url     : https://prove2.me/theorems/0b79db45-8fe0-4f39-bab4-14a8a404ade6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResultantNorm_padic_case
 -- name    : GlobalTheory.ResultantNorm.padic_case
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:21:12.33457+00:00
 -- url     : https://prove2.me/theorems/d95b2b12-2034-41fa-aa3d-36dabfaa025d

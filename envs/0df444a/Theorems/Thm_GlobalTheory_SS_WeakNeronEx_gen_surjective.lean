@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_WeakNeronEx_gen_surjective
 -- name    : GlobalTheory.SS.WeakNeronEx.gen_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:11:45.143798+00:00
 -- url     : https://prove2.me/theorems/05ccebb4-ee4a-4d37-901c-f98c9a30f31b

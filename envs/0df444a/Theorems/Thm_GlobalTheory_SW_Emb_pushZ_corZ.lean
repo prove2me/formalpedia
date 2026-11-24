@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Emb_pushZ_corZ
 -- name    : GlobalTheory.SW.Emb.pushZ_corZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:39:12.212668+00:00
 -- url     : https://prove2.me/theorems/8eefa41b-06b6-4b29-8bc9-c0096d40c1c5

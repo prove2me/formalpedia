@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_LinChange_det_mul_left
 -- name    : GlobalTheory.SW.LinChange.det_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:41:25.692856+00:00
 -- url     : https://prove2.me/theorems/4084c947-eecc-41a1-ac4e-3fdc41ce1782

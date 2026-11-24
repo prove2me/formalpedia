@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_polarization_module_unit_dual
 -- name    : GlobalTheory.T.polarization_module_unit_dual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:18:39.089641+00:00
 -- url     : https://prove2.me/theorems/986beca1-8735-46c6-a7ec-0014feb6685f

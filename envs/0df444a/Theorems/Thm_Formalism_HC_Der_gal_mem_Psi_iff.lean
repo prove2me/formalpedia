@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_gal_mem_Psi_iff
 -- name    : Formalism.HC.Der.gal_mem_Psi_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:55:15.921236+00:00
 -- url     : https://prove2.me/theorems/adad6785-2a7d-4b54-af62-18707b7a7807

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DerLin_le_of_fst_eq
 -- name    : GlobalTheory.DerLin.le_of_fst_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:11:36.299308+00:00
 -- url     : https://prove2.me/theorems/6c797d65-f7dd-4ee3-8509-04aeb8eb9bcd

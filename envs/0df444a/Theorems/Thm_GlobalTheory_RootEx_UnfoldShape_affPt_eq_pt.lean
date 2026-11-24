@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_UnfoldShape_affPt_eq_pt
 -- name    : GlobalTheory.RootEx.UnfoldShape.affPt_eq_pt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:29:53.306808+00:00
 -- url     : https://prove2.me/theorems/4ada31fb-d367-4fcd-8203-96f9437b71aa

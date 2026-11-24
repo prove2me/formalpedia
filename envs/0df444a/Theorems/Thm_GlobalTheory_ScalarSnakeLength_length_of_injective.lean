@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ScalarSnakeLength_length_of_injective
 -- name    : GlobalTheory.ScalarSnakeLength.length_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:48:18.819338+00:00
 -- url     : https://prove2.me/theorems/b311771e-daaf-4721-b946-64c267d70c67

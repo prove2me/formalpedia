@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_Pair_awayMap_comp_algebraMap
 -- name    : GlobalTheory.SecGlue.Pair.awayMap_comp_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:52:58.51309+00:00
 -- url     : https://prove2.me/theorems/b032f5ad-b7bc-433b-a78f-292486d1d548

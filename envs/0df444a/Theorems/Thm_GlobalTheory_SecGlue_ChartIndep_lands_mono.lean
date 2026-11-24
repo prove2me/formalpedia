@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_ChartIndep_lands_mono
 -- name    : GlobalTheory.SecGlue.ChartIndep.lands_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:51:08.109648+00:00
 -- url     : https://prove2.me/theorems/0e9f9130-60f6-4c02-84f1-3b76dbf37f30

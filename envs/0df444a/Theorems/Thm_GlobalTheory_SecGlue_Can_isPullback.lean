@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_Can_isPullback
 -- name    : GlobalTheory.SecGlue.Can.isPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:48:47.799649+00:00
 -- url     : https://prove2.me/theorems/6f074cf0-2470-418a-9a24-b1e2314a7b84

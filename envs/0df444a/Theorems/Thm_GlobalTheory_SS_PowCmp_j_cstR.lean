@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_PowCmp_j_cstR
 -- name    : GlobalTheory.SS.PowCmp.j_cstR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:37:01.151249+00:00
 -- url     : https://prove2.me/theorems/93825e45-5cb2-4a11-b171-376f3a39a0e1

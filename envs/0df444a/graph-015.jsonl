@@ -54587,17 +54587,17 @@
 {"parent": "AvramDividend.Classical.avram_wave8_20_original_capped_ruin_clock_killed_terminal_expectation_nonnegative", "child": "AvramDividend.Classical.avram_wave8_20_original_capped_ruin_clock_killed_terminal_expectation_eq_horizon", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave8_20_original_capped_ruin_clock_killed_terminal_expectation_nonnegative", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave8_20_original_capped_ruin_clock_killed_terminal_expectation_nonnegative", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
-{"parent": "PLIAG.lemma_4_1", "child": "PLIAG_AssumptionB4", "via": ["statement"]}
-{"parent": "PLIAG.lemma_4_1", "child": "PLIAG_AssumptionB1", "via": ["statement"]}
-{"parent": "PLIAG.lemma_4_1", "child": "PLIAG_Phik", "via": ["statement"]}
-{"parent": "PLIAG.lemma_4_1", "child": "PLIAG_IsLegendre", "via": ["statement"]}
-{"parent": "PLIAG.lemma_4_1", "child": "PLIAG_AssumptionB2", "via": ["statement"]}
-{"parent": "PLIAG.lemma_4_1", "child": "AubinLipschitz_effDom", "via": ["statement"]}
-{"parent": "PLIAG.lemma_4_1", "child": "PLIAG_optSet", "via": ["statement"]}
-{"parent": "PLIAG.lemma_4_1", "child": "PLIAG_bregman", "via": ["statement"]}
-{"parent": "PLIAG.lemma_4_1", "child": "TensorAHPE_IsProperClosedConvex", "via": ["statement"]}
-{"parent": "PLIAG.lemma_4_1", "child": "PLIAG_Delta", "via": ["statement"]}
-{"parent": "PLIAG.lemma_4_1", "child": "PLIAG_Phi", "via": ["statement"]}
+{"parent": "PLIAG.lemma_4_1", "child": "PLIAG_AssumptionB4", "via": ["solution", "statement"]}
+{"parent": "PLIAG.lemma_4_1", "child": "PLIAG_AssumptionB1", "via": ["solution", "statement"]}
+{"parent": "PLIAG.lemma_4_1", "child": "PLIAG_Phik", "via": ["solution", "statement"]}
+{"parent": "PLIAG.lemma_4_1", "child": "PLIAG_IsLegendre", "via": ["solution", "statement"]}
+{"parent": "PLIAG.lemma_4_1", "child": "PLIAG_AssumptionB2", "via": ["solution", "statement"]}
+{"parent": "PLIAG.lemma_4_1", "child": "AubinLipschitz_effDom", "via": ["solution", "statement"]}
+{"parent": "PLIAG.lemma_4_1", "child": "PLIAG_optSet", "via": ["solution", "statement"]}
+{"parent": "PLIAG.lemma_4_1", "child": "PLIAG_bregman", "via": ["solution", "statement"]}
+{"parent": "PLIAG.lemma_4_1", "child": "TensorAHPE_IsProperClosedConvex", "via": ["solution", "statement"]}
+{"parent": "PLIAG.lemma_4_1", "child": "PLIAG_Delta", "via": ["solution", "statement"]}
+{"parent": "PLIAG.lemma_4_1", "child": "PLIAG_Phi", "via": ["solution", "statement"]}
 {"parent": "RiskAverseConsistency.theorem_21", "child": "RiskAverseConsistency_EpiConvergesOn", "via": ["statement"]}
 {"parent": "RiskAverseConsistency.theorem_21", "child": "RiskAverseConsistency_Assumption20", "via": ["statement"]}
 {"parent": "RiskAverseConsistency.theorem_21", "child": "RiskAverseConsistency_riskOf", "via": ["statement"]}

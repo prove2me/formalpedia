@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WeakDominationMajorants_Asm_sup_le_gN
 -- name    : Formalism.FourierDecayAlt.P.WeakDominationMajorants.Asm.sup_le_gN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:08:50.124309+00:00
 -- url     : https://prove2.me/theorems/419bd567-b27a-4bf4-a63d-9e5c7d254b80

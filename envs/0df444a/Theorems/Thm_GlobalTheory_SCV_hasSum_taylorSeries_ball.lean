@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SCV_hasSum_taylorSeries_ball
 -- name    : GlobalTheory.SCV.hasSum_taylorSeries_ball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:33:21.567178+00:00
 -- url     : https://prove2.me/theorems/394debbb-1b3f-4156-862e-39c42b2f3610

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_WtRat_top_le_fromSpecStalk_preimage
 -- name    : GlobalTheory.SS.WtRat.top_le_fromSpecStalk_preimage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:37:52.166975+00:00
 -- url     : https://prove2.me/theorems/b3c01ddb-ccc7-4269-ab04-86eda8f2a97d

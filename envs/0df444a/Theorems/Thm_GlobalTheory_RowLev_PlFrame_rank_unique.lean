@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_PlFrame_rank_unique
 -- name    : GlobalTheory.RowLev.PlFrame.rank_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:31:52.635633+00:00
 -- url     : https://prove2.me/theorems/dace5589-ac7f-444d-bb99-ba7c185f6db0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Smoothening_smooth_away_away
 -- name    : GlobalTheory.SS.Smoothening.smooth_away_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:37:22.196544+00:00
 -- url     : https://prove2.me/theorems/2007c473-5670-4b08-ae98-1a77e794801b

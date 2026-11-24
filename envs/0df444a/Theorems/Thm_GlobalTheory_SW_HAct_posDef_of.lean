@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HAct_posDef_of
 -- name    : GlobalTheory.SW.HAct.posDef_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:40:56.6048+00:00
 -- url     : https://prove2.me/theorems/37b4d8b5-7075-4001-b10b-b76c0c8df04f

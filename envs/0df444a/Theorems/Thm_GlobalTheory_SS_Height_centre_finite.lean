@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Height_centre_finite
 -- name    : GlobalTheory.SS.Height.centre_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:35:43.549527+00:00
 -- url     : https://prove2.me/theorems/23079197-09e8-4f4d-a716-0b6695e7cd23

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Pat_CplMap_exists_levHom
 -- name    : GlobalTheory.Pat.CplMap.exists_levHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:42:53.473819+00:00
 -- url     : https://prove2.me/theorems/0f68bf9a-b1b1-49f2-89f9-09c26dd5ecd9

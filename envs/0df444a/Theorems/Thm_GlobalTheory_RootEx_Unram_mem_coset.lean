@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Unram_mem_coset
 -- name    : GlobalTheory.RootEx.Unram.mem_coset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:29:35.58578+00:00
 -- url     : https://prove2.me/theorems/cc0bd48a-69c3-4e51-a261-58d93de09018

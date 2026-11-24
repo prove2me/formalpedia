@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_Transfer_chval_nonneg
 -- name    : GlobalTheory.Reg.Transfer.chval_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:06:47.294583+00:00
 -- url     : https://prove2.me/theorems/247766ec-39fc-4263-b3ef-4c289dd1f3b7

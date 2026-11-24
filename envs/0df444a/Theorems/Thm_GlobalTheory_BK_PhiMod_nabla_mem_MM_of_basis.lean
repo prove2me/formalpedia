@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_nabla_mem_MM_of_basis
 -- name    : GlobalTheory.BK.PhiMod.nabla_mem_MM_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:17:30.480504+00:00
 -- url     : https://prove2.me/theorems/056469ea-76b7-45bc-bc02-1333dabcb30a

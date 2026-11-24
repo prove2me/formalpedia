@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GenProj_eq_of_generic
 -- name    : GlobalTheory.SS.GenProj.eq_of_generic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:33:52.145219+00:00
 -- url     : https://prove2.me/theorems/1c0d5833-8a29-49e4-8a4c-64f900607bb6

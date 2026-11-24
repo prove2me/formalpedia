@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Dict_map_ofQ
 -- name    : GlobalTheory.SW.Dict.map_ofQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:37:14.916317+00:00
 -- url     : https://prove2.me/theorems/03e350b8-24f5-4c6f-9bd5-246f1dca97e7

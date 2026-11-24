@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowRat_repr_mem_of_coeff
 -- name    : GlobalTheory.RowRat.repr_mem_of_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:33:03.743231+00:00
 -- url     : https://prove2.me/theorems/09c29e84-52fe-4a3a-8f05-84994f9efa20

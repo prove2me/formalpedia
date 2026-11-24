@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_finsum_quotient_subgroupOf
 -- name    : GlobalTheory.SatakeWeyl.finsum_quotient_subgroupOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:48:38.747987+00:00
 -- url     : https://prove2.me/theorems/50ec3c1e-52e2-4bb0-b004-b38cf6006a4c

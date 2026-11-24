@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_exists_isRoot_norm_lt
 -- name    : GlobalTheory.AffinePoints.exists_isRoot_norm_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:55:00.657601+00:00
 -- url     : https://prove2.me/theorems/7d783a1b-89e3-40b7-a103-ac58061a65e9

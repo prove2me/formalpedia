@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_WeakNeronEx_away_of_irreducible
 -- name    : GlobalTheory.SS.WeakNeronEx.away_of_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:11:13.670681+00:00
 -- url     : https://prove2.me/theorems/89e4d20f-bb66-4a20-acdb-dd19b39f16b4

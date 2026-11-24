@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Ord_isOpenImmersion_j
 -- name    : GlobalTheory.SS.Ord.isOpenImmersion_j
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:16:29.073338+00:00
 -- url     : https://prove2.me/theorems/80a56340-05e3-46a7-879c-eca658cf5e7f

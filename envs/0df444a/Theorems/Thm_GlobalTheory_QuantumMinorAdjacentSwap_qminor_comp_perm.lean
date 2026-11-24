@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuantumMinorAdjacentSwap_qminor_comp_perm
 -- name    : GlobalTheory.QuantumMinorAdjacentSwap.qminor_comp_perm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:43:59.56724+00:00
 -- url     : https://prove2.me/theorems/8054c4a1-e51e-459a-95ce-3d304b0079ff

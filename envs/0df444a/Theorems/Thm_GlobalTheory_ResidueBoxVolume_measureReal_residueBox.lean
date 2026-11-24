@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResidueBoxVolume_measureReal_residueBox
 -- name    : GlobalTheory.ResidueBoxVolume.measureReal_residueBox
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:27:22.466899+00:00
 -- url     : https://prove2.me/theorems/698093f3-4768-4c22-990a-4e7ad76e41fa

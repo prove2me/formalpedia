@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DvrModel_opensRange_generic
 -- name    : GlobalTheory.DvrModel.opensRange_generic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:58:25.052718+00:00
 -- url     : https://prove2.me/theorems/60e589c6-2e25-4d8b-b99e-9dac202698e7

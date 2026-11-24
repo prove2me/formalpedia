@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowFubini_cross_identity
 -- name    : GlobalTheory.RowFubini.cross_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:30:40.819709+00:00
 -- url     : https://prove2.me/theorems/61aeac0c-7daf-4ae1-a04c-2fb48f6decf0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GenProj_exists_lift_j
 -- name    : GlobalTheory.SS.GenProj.exists_lift_j
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:35:32.439103+00:00
 -- url     : https://prove2.me/theorems/060e0082-a3d9-43d8-b179-ba30178e270f

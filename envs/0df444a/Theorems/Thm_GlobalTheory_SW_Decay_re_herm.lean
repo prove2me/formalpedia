@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Decay_re_herm
 -- name    : GlobalTheory.SW.Decay.re_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:40:39.023637+00:00
 -- url     : https://prove2.me/theorems/294c658f-80fe-4092-ab10-b20ecf505ce7

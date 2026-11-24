@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_VolN_isClosed_R
 -- name    : GlobalTheory.RootEx.VolN.isClosed_R
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:05:06.564822+00:00
 -- url     : https://prove2.me/theorems/7b06082c-690b-4313-887b-d1b0aea80ab3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Smoothening_genOpen_of_inj
 -- name    : GlobalTheory.SS.Smoothening.genOpen_of_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:37:12.5312+00:00
 -- url     : https://prove2.me/theorems/7d0d77b3-bc85-4938-8203-1b3d10a648d9

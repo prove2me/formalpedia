@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_betaInfTau_additive_of_pairing_additive
 -- name    : Formalism.FourierDecayAlt.P.B6.betaInfTau_additive_of_pairing_additive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:01:04.292443+00:00
 -- url     : https://prove2.me/theorems/6f27e224-88af-49f1-941b-45fd21dea48c

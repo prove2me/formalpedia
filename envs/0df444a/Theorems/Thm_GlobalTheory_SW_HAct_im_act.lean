@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HAct_im_act
 -- name    : GlobalTheory.SW.HAct.im_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:40:54.017068+00:00
 -- url     : https://prove2.me/theorems/352df6ac-7052-41b9-bdcb-7dfed12d2df2

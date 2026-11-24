@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecAff_exists_spec_retract
 -- name    : GlobalTheory.SecAff.exists_spec_retract
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:48:14.542935+00:00
 -- url     : https://prove2.me/theorems/6cdcbf94-a7b7-4ffe-8538-f2e8cb976680

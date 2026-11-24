@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGlue_Pair_fromSpec_comp_top
 -- name    : GlobalTheory.SecGlue.Pair.fromSpec_comp_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:50:07.951586+00:00
 -- url     : https://prove2.me/theorems/2caab3ff-ba94-42e1-a511-caa8f15ca51d

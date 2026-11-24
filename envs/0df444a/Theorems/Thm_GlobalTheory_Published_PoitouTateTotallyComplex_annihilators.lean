@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_PoitouTateTotallyComplex_annihilators
 -- name    : GlobalTheory.Published.PoitouTateTotallyComplex.annihilators
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:13:54.152447+00:00
 -- url     : https://prove2.me/theorems/e0ae3988-a2ad-4608-a30c-d7fd1892ac0a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RestrMeas_IsHaarProd_isMulRightInvariant
 -- name    : GlobalTheory.RestrMeas.IsHaarProd.isMulRightInvariant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:45:24.794255+00:00
 -- url     : https://prove2.me/theorems/47dce32d-5a48-4272-91c6-70863679e74a

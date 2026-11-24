@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_comp_affPt_mem_SB
 -- name    : GlobalTheory.RootEx.comp_affPt_mem_SB
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:04:42.028891+00:00
 -- url     : https://prove2.me/theorems/d79b0e4d-bcff-45b8-8ec5-46b4a4229d4d

@@ -61737,7 +61737,7 @@
 {"parent": "QEC.Coding.BDL26ReplacementMaterialization.materializeRows_value", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_FiniteExperimentCost", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26ReplacementMaterialization.materializeRows_value", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_CountableExperimentGeometry", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26ReplacementMaterialization.materializeRows_value", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_ReplacementMaterialization", "via": ["solution", "statement"]}
-{"parent": "L1ResistanceCount.Counting.lemma_4_1", "child": "L1ResistanceCount_Counting_Obstacle", "via": ["statement"]}
+{"parent": "L1ResistanceCount.Counting.lemma_4_1", "child": "L1ResistanceCount_Counting_Obstacle", "via": ["solution", "statement"]}
 {"parent": "BipMatchNC.Weighted.observation_3_11", "child": "BipMatchNC_Weighted_Graph", "via": ["statement"]}
 {"parent": "BipMatchNC.Weighted.observation_3_11", "child": "BipMatchNC_Weighted_Bipartite", "via": ["statement"]}
 {"parent": "BipMatchNC.Weighted.observation_3_11", "child": "BipMatchNC_Weighted_BlowUp", "via": ["statement"]}
@@ -63479,8 +63479,8 @@
 {"parent": "QEC.Coding.BDL26PairedDecoderGibbs.atom_mul_hamiltonian", "child": "QEC_Coding_FiniteAlternatingConstruction_CSSHamiltonian_LogicalDimension", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26PairedDecoderGibbs.atom_mul_hamiltonian", "child": "QEC_Semantics_Dynamics_Davies_FrequencyLocality", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_anoise43_unit_dyadic_halfopen_cover", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "DynLZ77.Main.claim_8_11", "child": "DynLZ77_Main_Structure", "via": ["statement"]}
-{"parent": "DynLZ77.Main.claim_8_11", "child": "DynLZ77_Main_Strings", "via": ["statement"]}
+{"parent": "DynLZ77.Main.claim_8_11", "child": "DynLZ77_Main_Structure", "via": ["solution", "statement"]}
+{"parent": "DynLZ77.Main.claim_8_11", "child": "DynLZ77_Main_Strings", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.childLabelRotation_injective", "child": "OAI_NumberTheory_DirichletL_CubicSieve_LogSeparation", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.childLabelRotation_injective", "child": "OAI_NumberTheory_DirichletL_RowCompletion_SupportBounds", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.childLabelRotation_injective", "child": "OAI_NumberTheory_DirichletL_CubicSieve_ReopeningSeparation", "via": ["solution", "statement"]}
@@ -82834,7 +82834,7 @@
 {"parent": "RandModSubsetSum.lemma_4_3", "child": "RandModSubsetSum_Strata", "via": ["statement"]}
 {"parent": "RandModSubsetSum.lemma_4_3", "child": "RandModSubsetSum_Template", "via": ["statement"]}
 {"parent": "CyclotomicRankTwoSVP.Main.uniform_binary_count", "child": "CyclotomicRankTwoSVP_Main_Counting", "via": ["statement"]}
-{"parent": "LindbladQueryOptimal.Simulation.lemma_18", "child": "LindbladQueryOptimal_Simulation_Local", "via": ["statement"]}
+{"parent": "LindbladQueryOptimal.Simulation.lemma_18", "child": "LindbladQueryOptimal_Simulation_Local", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_gledger51_original_postpayment_stopped_generator_grid_nonpositive", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_gledger51_original_postpayment_stopped_generator_grid_nonpositive", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "FlexRigidity.lemma_3_3", "child": "QAlgorithms_Papers_Independent_Dependency50_P35", "via": ["statement"]}

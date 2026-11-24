@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Ord_isPullback_j
 -- name    : GlobalTheory.SS.Ord.isPullback_j
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:17:43.764427+00:00
 -- url     : https://prove2.me/theorems/4a95e2d4-69df-410c-939b-5ef59da8009a

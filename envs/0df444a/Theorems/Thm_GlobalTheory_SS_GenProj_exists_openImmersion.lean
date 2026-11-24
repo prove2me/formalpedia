@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GenProj_exists_openImmersion
 -- name    : GlobalTheory.SS.GenProj.exists_openImmersion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:34:59.742788+00:00
 -- url     : https://prove2.me/theorems/b52f2df4-cdee-486e-afde-68643d8bc606

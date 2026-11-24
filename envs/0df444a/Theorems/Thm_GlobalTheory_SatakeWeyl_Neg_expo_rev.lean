@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_Neg_expo_rev
 -- name    : GlobalTheory.SatakeWeyl.Neg.expo_rev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:47:38.820663+00:00
 -- url     : https://prove2.me/theorems/6b9337ba-1eb1-4609-b412-da3fb765ce37

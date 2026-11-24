@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_Swap_tMat_eq
 -- name    : GlobalTheory.SatakeWeyl.Swap.tMat_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:47:55.193839+00:00
 -- url     : https://prove2.me/theorems/a11033e4-4cfe-4819-a2d0-1e6e33ddca37

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_VertReg_resG_constFn
 -- name    : GlobalTheory.KS.VertReg.resG_constFn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:29:14.497806+00:00
 -- url     : https://prove2.me/theorems/2a4c8f40-e96e-433c-bc49-f23eaad9d6c9

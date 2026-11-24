@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HomLinear_isHolTo_ex_comp
 -- name    : GlobalTheory.HomLinear.isHolTo_ex_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:56:03.117808+00:00
 -- url     : https://prove2.me/theorems/29ed95ad-4816-4661-b714-3175e68f314e

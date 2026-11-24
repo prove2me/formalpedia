@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecLift_exists_nbhd
 -- name    : GlobalTheory.SecLift.exists_nbhd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:51:51.66729+00:00
 -- url     : https://prove2.me/theorems/1c694b34-df17-4005-8f5f-85a2b5793e35

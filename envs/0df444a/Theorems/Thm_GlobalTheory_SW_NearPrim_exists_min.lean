@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_NearPrim_exists_min
 -- name    : GlobalTheory.SW.NearPrim.exists_min
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:43:53.26067+00:00
 -- url     : https://prove2.me/theorems/cc7cc2b5-0f32-45bc-a9b1-0f45caa909d8

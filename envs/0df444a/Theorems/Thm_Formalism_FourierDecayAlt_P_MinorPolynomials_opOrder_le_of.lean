@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MinorPolynomials_opOrder_le_of
 -- name    : Formalism.FourierDecayAlt.P.MinorPolynomials.opOrder_le_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:19:26.11356+00:00
 -- url     : https://prove2.me/theorems/a75e5547-6ffe-47fa-a53f-bf8562173dc5

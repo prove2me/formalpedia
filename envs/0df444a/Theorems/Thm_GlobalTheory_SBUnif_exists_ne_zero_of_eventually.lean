@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SBUnif_exists_ne_zero_of_eventually
 -- name    : GlobalTheory.SBUnif.exists_ne_zero_of_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:31:51.783897+00:00
 -- url     : https://prove2.me/theorems/5ba37063-1a0d-4dee-9df9-9e1cf6d00581

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuotInt_block_of_mem
 -- name    : GlobalTheory.QuotInt.block_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:54:20.526541+00:00
 -- url     : https://prove2.me/theorems/17595128-4c3c-49d3-95e8-46a000d13682

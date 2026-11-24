@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecAff_pull_id
 -- name    : GlobalTheory.SecAff.pull_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:48:28.919162+00:00
 -- url     : https://prove2.me/theorems/06c56a98-538a-4130-8da3-3737d7989821

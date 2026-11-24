@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMNormIdentity_isDiff_of_isLieComb
 -- name    : GlobalTheory.CMNormIdentity.isDiff_of_isLieComb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:14:50.979802+00:00
 -- url     : https://prove2.me/theorems/f3920ae2-d73b-445a-b88f-9b625408917a

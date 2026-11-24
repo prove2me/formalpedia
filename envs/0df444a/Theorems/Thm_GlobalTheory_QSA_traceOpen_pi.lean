@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QSA_traceOpen_pi
 -- name    : GlobalTheory.QSA.traceOpen_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:03:14.899732+00:00
 -- url     : https://prove2.me/theorems/caf72d0a-7386-43a3-996f-c98aa80996fa

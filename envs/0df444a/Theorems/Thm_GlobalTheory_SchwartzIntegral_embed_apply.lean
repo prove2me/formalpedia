@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchwartzIntegral_embed_apply
 -- name    : GlobalTheory.SchwartzIntegral.embed_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:47:32.152539+00:00
 -- url     : https://prove2.me/theorems/f1909a26-6a6a-4976-9bc7-7f32d4b314cd

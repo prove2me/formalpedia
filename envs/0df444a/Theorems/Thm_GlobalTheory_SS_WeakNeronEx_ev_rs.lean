@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_WeakNeronEx_ev_rs
 -- name    : GlobalTheory.SS.WeakNeronEx.ev_rs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:11:49.804154+00:00
 -- url     : https://prove2.me/theorems/bcf64934-4b43-47ed-91bf-10945a8593ed

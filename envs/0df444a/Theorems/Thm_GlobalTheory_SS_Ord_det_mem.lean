@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Ord_det_mem
 -- name    : GlobalTheory.SS.Ord.det_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:17:10.981291+00:00
 -- url     : https://prove2.me/theorems/95f1c60a-1d3d-4b7c-bdb3-10653b05f5c9

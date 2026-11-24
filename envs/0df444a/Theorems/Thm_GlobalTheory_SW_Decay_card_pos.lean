@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Decay_card_pos
 -- name    : GlobalTheory.SW.Decay.card_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:39:14.603127+00:00
 -- url     : https://prove2.me/theorems/93154e60-97c2-4d79-9ea5-430bc5affc97

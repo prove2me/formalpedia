@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_zO_prim
 -- name    : Formalism.HC.Der.zO_prim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:28:10.01954+00:00
 -- url     : https://prove2.me/theorems/459f49e5-a0b8-4d6f-b672-3e026b8c53bd

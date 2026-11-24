@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_CompatCrit_exists_model
 -- name    : GlobalTheory.SS.CompatCrit.exists_model
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:11:46.645776+00:00
 -- url     : https://prove2.me/theorems/c3259445-9036-4496-be2f-aa128993702b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchwartzTranslateUnif_seminorm_lineDerivOp_le
 -- name    : GlobalTheory.SchwartzTranslateUnif.seminorm_lineDerivOp_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:48:06.530089+00:00
 -- url     : https://prove2.me/theorems/1f281def-ecfc-4ee1-9678-d9e611489bd3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_FrobSub_Raises_comp
 -- name    : GlobalTheory.SS.FrobSub.Raises.comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:33:33.13991+00:00
 -- url     : https://prove2.me/theorems/aedc2309-5709-4db0-9584-e4851c11d081

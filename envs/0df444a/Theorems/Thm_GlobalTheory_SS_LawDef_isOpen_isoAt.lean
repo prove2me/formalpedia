@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_LawDef_isOpen_isoAt
 -- name    : GlobalTheory.SS.LawDef.isOpen_isoAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:11:00.335859+00:00
 -- url     : https://prove2.me/theorems/c8e2fade-c79e-45a4-966f-40e773c4fa35

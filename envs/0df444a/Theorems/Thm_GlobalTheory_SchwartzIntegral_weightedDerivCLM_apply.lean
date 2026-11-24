@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchwartzIntegral_weightedDerivCLM_apply
 -- name    : GlobalTheory.SchwartzIntegral.weightedDerivCLM_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:48:24.980802+00:00
 -- url     : https://prove2.me/theorems/0054a1d9-b1fa-4c84-b972-655403ad2ed4

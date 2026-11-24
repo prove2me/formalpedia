@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_hasDerivAt_inner_rho
 -- name    : GlobalTheory.RealWeil.hasDerivAt_inner_rho
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:29:13.380068+00:00
 -- url     : https://prove2.me/theorems/97c7e83d-8265-4b9a-babd-eb071d166d8b

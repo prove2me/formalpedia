@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadDeriv_formalSecondPointDerivative_subst_second_point
 -- name    : GlobalTheory.QuadDeriv.formalSecondPointDerivative_subst_second_point
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:07:50.067487+00:00
 -- url     : https://prove2.me/theorems/9eb22539-0e7a-406c-ad87-af763699fcac

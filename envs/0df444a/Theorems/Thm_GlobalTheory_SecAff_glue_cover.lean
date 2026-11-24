@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecAff_glue_cover
 -- name    : GlobalTheory.SecAff.glue_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:48:20.452129+00:00
 -- url     : https://prove2.me/theorems/3169a4f0-cb0f-4201-868c-4897ed224851

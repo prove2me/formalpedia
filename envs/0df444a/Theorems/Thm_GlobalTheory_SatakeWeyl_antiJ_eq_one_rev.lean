@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_antiJ_eq_one_rev
 -- name    : GlobalTheory.SatakeWeyl.antiJ_eq_one_rev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:48:50.17483+00:00
 -- url     : https://prove2.me/theorems/22ed6688-06c5-4caf-872f-e31c230fb355

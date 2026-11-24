@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLaw_GermRing_exists_sum_point
 -- name    : GlobalTheory.RowLaw.GermRing.exists_sum_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:31:22.973792+00:00
 -- url     : https://prove2.me/theorems/6c67a63c-4d08-4309-ba4d-35a869163f37

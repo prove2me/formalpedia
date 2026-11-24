@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadraticZeta_exists_basis_embedding
 -- name    : GlobalTheory.QuadraticZeta.exists_basis_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T18:04:33.3502+00:00
 -- url     : https://prove2.me/theorems/53d1849a-c512-40be-911f-2dcbad7f42c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LieFrame_sum_single_apply
 -- name    : GlobalTheory.LieFrame.sum_single_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:26:30.698955+00:00
 -- url     : https://prove2.me/theorems/febd1f63-a16f-411c-9aed-d8bbdd21e835
