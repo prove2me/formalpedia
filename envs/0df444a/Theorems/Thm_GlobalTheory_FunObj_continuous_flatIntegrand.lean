@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_continuous_flatIntegrand
 -- name    : GlobalTheory.FunObj.continuous_flatIntegrand
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:12:53.648578+00:00
 -- url     : https://prove2.me/theorems/df94e599-df09-47f1-be27-4cfefdedfe78

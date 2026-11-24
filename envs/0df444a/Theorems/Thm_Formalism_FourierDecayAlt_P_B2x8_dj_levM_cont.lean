@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_dj_levM_cont
 -- name    : Formalism.FourierDecayAlt.P.B2x8.dj_levM_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:00:26.712016+00:00
 -- url     : https://prove2.me/theorems/49297fec-f25d-4cf1-8e0b-34d258e9426b

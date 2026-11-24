@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z3_isCompl_orth
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z3.isCompl_orth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:59:57.668402+00:00
 -- url     : https://prove2.me/theorems/0a8a3d68-d6b9-40c8-8885-72fd249094cc

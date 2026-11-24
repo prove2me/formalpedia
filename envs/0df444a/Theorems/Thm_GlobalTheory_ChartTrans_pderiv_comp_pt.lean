@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartTrans_pderiv_comp_pt
 -- name    : GlobalTheory.ChartTrans.pderiv_comp_pt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:09:22.656797+00:00
 -- url     : https://prove2.me/theorems/64eb73c3-dec4-4628-88db-dd189d6a8485

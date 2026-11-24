@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_sm_fromBlocks
 -- name    : PI.UnitaryGroupMassFormula.UsCost.sm_fromBlocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:52:02.65655+00:00
 -- url     : https://prove2.me/theorems/4089798c-f3e5-473b-aff8-7e8b48d48750

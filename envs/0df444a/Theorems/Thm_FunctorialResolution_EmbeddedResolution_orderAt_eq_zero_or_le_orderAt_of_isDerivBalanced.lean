@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_orderAt_eq_zero_or_le_orderAt_of_isDerivBalanced
 -- name    : FunctorialResolution.EmbeddedResolution.orderAt_eq_zero_or_le_orderAt_of_isDerivBalanced
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:52:35.507228+00:00
 -- url     : https://prove2.me/theorems/f6e54513-37a7-43eb-b7cd-f1782732e97f

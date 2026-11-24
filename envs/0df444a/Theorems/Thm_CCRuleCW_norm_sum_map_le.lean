@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCRuleCW_norm_sum_map_le
 -- name    : CCRuleCW.norm_sum_map_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:48:28.278393+00:00
 -- url     : https://prove2.me/theorems/991a71b2-3d27-4fdf-aa03-93cd345361d3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x3_EmT_Hpk
 -- name    : Formalism.FourierDecayAlt.P.B2x3.EmT_Hpk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:45:03.513124+00:00
 -- url     : https://prove2.me/theorems/258ef498-e353-47e7-a41c-24efa4e28704

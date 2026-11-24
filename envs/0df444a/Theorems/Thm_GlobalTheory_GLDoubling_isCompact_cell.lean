@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GLDoubling_isCompact_cell
 -- name    : GlobalTheory.GLDoubling.isCompact_cell
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:44:17.177277+00:00
 -- url     : https://prove2.me/theorems/85dd4853-e295-49bc-9868-caccae470760

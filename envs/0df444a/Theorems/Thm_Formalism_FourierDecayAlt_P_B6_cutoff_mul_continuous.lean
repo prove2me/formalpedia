@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_cutoff_mul_continuous
 -- name    : Formalism.FourierDecayAlt.P.B6.cutoff_mul_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:01:20.502661+00:00
 -- url     : https://prove2.me/theorems/98e58276-25a8-4fdf-a999-e531f1e71a63

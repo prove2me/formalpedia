@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CovecW_herm_bvec_left
 -- name    : CovecW.herm_bvec_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:00:11.715598+00:00
 -- url     : https://prove2.me/theorems/199dc2c7-c5c1-4569-83a2-6dea976442f4

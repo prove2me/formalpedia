@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_heisenberg_quadratic_continuous
 -- name    : Formalism.FourierDecayAlt.P.B2x8.heisenberg_quadratic_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:00:05.082796+00:00
 -- url     : https://prove2.me/theorems/a7f1dbce-91d7-4921-be3f-13e822ff063f

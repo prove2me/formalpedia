@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_lx_esI_ne
 -- name    : AAInvW.lx_esI_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:04:50.835919+00:00
 -- url     : https://prove2.me/theorems/cd5702fb-d2eb-4a61-be30-be89c2d0b49c

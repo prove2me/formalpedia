@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_conj_inverse_map_inj_on
 -- name    : Formalism.FourierDecayAlt.P.B2x8.conj_inverse_map_inj_on
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:59:52.828066+00:00
 -- url     : https://prove2.me/theorems/461d1d3e-a1c7-4674-9921-1a510cbdf559

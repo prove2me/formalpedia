@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B7_lintegral_weighted_swap_ne_top_and_toReal_eq_integral
 -- name    : Formalism.FourierDecayAlt.P.B7.lintegral_weighted_swap_ne_top_and_toReal_eq_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:07:14.815231+00:00
 -- url     : https://prove2.me/theorems/360a8295-df0e-400e-81eb-91b371ab7d49

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCRuleCW_curve_hasDerivAt
 -- name    : CCRuleCW.curve_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:13:40.116891+00:00
 -- url     : https://prove2.me/theorems/1c937345-7210-4388-ad69-70a9f59da043

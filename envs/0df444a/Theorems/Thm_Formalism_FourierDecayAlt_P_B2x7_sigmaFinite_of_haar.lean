@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x7_sigmaFinite_of_haar
 -- name    : Formalism.FourierDecayAlt.P.B2x7.sigmaFinite_of_haar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:57:46.437985+00:00
 -- url     : https://prove2.me/theorems/37619dcc-1cbd-4c7f-ba90-830cb67561d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_AdmissibleLieWords_sqrt_div_eq
 -- name    : Formalism.FourierDecayAlt.P.AdmissibleLieWords.sqrt_div_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:06:56.647802+00:00
 -- url     : https://prove2.me/theorems/0947b513-b346-40f2-a312-c96fb8e652f5

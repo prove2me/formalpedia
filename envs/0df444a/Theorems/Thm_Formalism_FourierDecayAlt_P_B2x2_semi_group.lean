@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x2_semi_group
 -- name    : Formalism.FourierDecayAlt.P.B2x2.semi_group
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:56:43.541817+00:00
 -- url     : https://prove2.me/theorems/09a1d695-9ed1-4522-ae6c-93f5c4cd165b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_Base0_enn_nnnorm
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.Base0.enn_nnnorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:54:14.260655+00:00
 -- url     : https://prove2.me/theorems/21c3e71f-ebbd-4538-b2df-6a3fcfe1b2aa

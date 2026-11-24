@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_antiJ_mul_apply
 -- name    : GlobalTheory.SatakeWeyl.antiJ_mul_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:06:39.926321+00:00
 -- url     : https://prove2.me/theorems/e44ee471-c749-43de-ad25-bcf2b834e7ef

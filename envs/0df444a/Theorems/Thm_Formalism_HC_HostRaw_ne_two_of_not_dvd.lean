@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_ne_two_of_not_dvd
 -- name    : Formalism.HC.HostRaw.ne_two_of_not_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:15:30.31846+00:00
 -- url     : https://prove2.me/theorems/9f0f03dc-20b3-44b5-8a49-9e66acca408f

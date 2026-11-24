@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_level_z_affine
 -- name    : Formalism.FourierDecayAlt.P.level_z_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:49:14.375287+00:00
 -- url     : https://prove2.me/theorems/228e432e-4fff-4087-b956-92fb0d05fec7

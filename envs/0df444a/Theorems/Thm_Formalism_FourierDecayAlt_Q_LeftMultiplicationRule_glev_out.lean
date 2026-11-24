@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LeftMultiplicationRule_glev_out
 -- name    : Formalism.FourierDecayAlt.Q.LeftMultiplicationRule.glev_out
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:06:06.679239+00:00
 -- url     : https://prove2.me/theorems/517f4d07-d648-43b8-93ea-5530ff24a5ce

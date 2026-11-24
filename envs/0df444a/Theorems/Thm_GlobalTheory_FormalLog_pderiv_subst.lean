@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalLog_pderiv_subst
 -- name    : GlobalTheory.FormalLog.pderiv_subst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:03:47.687277+00:00
 -- url     : https://prove2.me/theorems/eb965170-4320-43bf-b09f-15cc10cb32ab

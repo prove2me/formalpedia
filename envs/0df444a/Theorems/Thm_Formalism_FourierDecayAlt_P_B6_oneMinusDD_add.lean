@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_oneMinusDD_add
 -- name    : Formalism.FourierDecayAlt.P.B6.oneMinusDD_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:04:36.695282+00:00
 -- url     : https://prove2.me/theorems/795c14d6-0c3e-45b4-a62d-dda8b868904a

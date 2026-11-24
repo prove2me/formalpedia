@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_lf_triInv
 -- name    : AAInvW.lf_triInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:54:49.557006+00:00
 -- url     : https://prove2.me/theorems/c20b919a-dfde-4cb5-b483-9030e08459dc

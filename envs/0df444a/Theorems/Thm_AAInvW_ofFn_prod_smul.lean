@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_ofFn_prod_smul
 -- name    : AAInvW.ofFn_prod_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:54:45.768125+00:00
 -- url     : https://prove2.me/theorems/4b4b2453-c396-4627-b2d9-72e6c2cb508b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_hsInner_hasDerivAt
 -- name    : Formalism.FourierDecayAlt.P.B6.hsInner_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:02:56.880637+00:00
 -- url     : https://prove2.me/theorems/b2fa4a77-ca4f-4900-9d23-afae81469df9

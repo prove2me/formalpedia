@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussCoset_exp_le_inv_pow
 -- name    : GlobalTheory.GaussCoset.exp_le_inv_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:48:51.254798+00:00
 -- url     : https://prove2.me/theorems/08400a89-ae4e-4b8b-a2b1-08e1e87e2593

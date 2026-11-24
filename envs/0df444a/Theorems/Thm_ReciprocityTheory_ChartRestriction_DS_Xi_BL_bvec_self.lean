@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_BL_bvec_self
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.BL.bvec_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:52:26.67281+00:00
 -- url     : https://prove2.me/theorems/0cf2472f-1380-4fe6-b9f9-2b0191ed985f

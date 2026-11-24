@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_B7_sm_piM__11e3047c332f
 -- name    : P2M_Formalism_FourierDecayAlt_P_B7_sm_piM__11e3047c332f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:53:40.554353+00:00
 -- url     : https://prove2.me/theorems/a31e0a8d-18fc-4371-9a4b-9abfa1663121

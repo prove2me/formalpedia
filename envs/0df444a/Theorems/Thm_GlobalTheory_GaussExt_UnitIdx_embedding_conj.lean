@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussExt_UnitIdx_embedding_conj
 -- name    : GlobalTheory.GaussExt.UnitIdx.embedding_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:50:59.314625+00:00
 -- url     : https://prove2.me/theorems/cf19d0ec-187e-477b-91fa-08729f9f4edc

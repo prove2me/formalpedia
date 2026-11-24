@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_opNorm_le_one_of_norm_map_eq
 -- name    : Formalism.FourierDecayAlt.P.B6.opNorm_le_one_of_norm_map_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:04:47.160587+00:00
 -- url     : https://prove2.me/theorems/9e0b175a-baa0-4419-ab1e-38462c297a03

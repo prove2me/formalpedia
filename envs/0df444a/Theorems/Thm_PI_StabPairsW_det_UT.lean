@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairsW_det_UT
 -- name    : PI.StabPairsW.det_UT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:50:23.775834+00:00
 -- url     : https://prove2.me/theorems/6fcf0b56-8780-464e-8b70-72bf6b4c0e89

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x9_S1_herm_bvec
 -- name    : Formalism.FourierDecayAlt.P.B2x9.S1.herm_bvec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:08:53.269128+00:00
 -- url     : https://prove2.me/theorems/2ce013fe-fd71-4a85-9de6-f0c5c2758bca

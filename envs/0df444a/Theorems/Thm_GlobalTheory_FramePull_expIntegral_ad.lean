@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePull_expIntegral_ad
 -- name    : GlobalTheory.FramePull.expIntegral_ad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:39:10.251796+00:00
 -- url     : https://prove2.me/theorems/3896840a-d9da-4b7b-9cf3-1c3a488edea0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatDescent_IsDescentDatum_invertible_invariants
 -- name    : GlobalTheory.FlatDescent.IsDescentDatum.invertible_invariants
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:55:37.502006+00:00
 -- url     : https://prove2.me/theorems/e621d212-f990-471d-a199-db7275dc9dee

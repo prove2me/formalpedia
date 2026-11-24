@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Cond_two_dvd
 -- name    : Formalism.FrobeniusOrbits.Cond.two_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:10:13.720811+00:00
 -- url     : https://prove2.me/theorems/cd9c666d-1ca7-4f25-bb4b-1441412aa323

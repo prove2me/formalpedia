@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitarySwap_form_mulVec
 -- name    : GlobalTheory.UnitarySwap.form_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:46:00.853337+00:00
 -- url     : https://prove2.me/theorems/9c1275a3-6912-4c37-bb55-01d9f93ede94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GLDoubling_hasSum_cell
 -- name    : GlobalTheory.GLDoubling.hasSum_cell
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:44:17.837093+00:00
 -- url     : https://prove2.me/theorems/66e790be-abf1-4c05-bd7d-4e1e73ceefc9

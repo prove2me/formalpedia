@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FourTermExpansion_fold_nil
 -- name    : Formalism.FourierDecayAlt.P.FourTermExpansion.fold_nil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:06:01.006796+00:00
 -- url     : https://prove2.me/theorems/8bf4bfb5-1462-4401-a0c0-cdcb87a1d954

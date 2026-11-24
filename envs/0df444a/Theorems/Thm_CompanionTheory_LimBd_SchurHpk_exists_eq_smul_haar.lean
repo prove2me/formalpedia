@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_SchurHpk_exists_eq_smul_haar
 -- name    : CompanionTheory.LimBd.SchurHpk.exists_eq_smul_haar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:57:41.562906+00:00
 -- url     : https://prove2.me/theorems/d931de6d-8be6-40b4-b3c8-8c6659b2c51c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_rho_art
 -- name    : UpperTheory.HF.rho_art
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:55:35.85461+00:00
 -- url     : https://prove2.me/theorems/88a822e9-ef06-4d07-b6e0-bd666bc8dc04

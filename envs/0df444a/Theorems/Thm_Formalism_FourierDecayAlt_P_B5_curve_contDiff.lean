@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B5_curve_contDiff
 -- name    : Formalism.FourierDecayAlt.P.B5.curve_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:49:42.88896+00:00
 -- url     : https://prove2.me/theorems/669f4f31-7edb-4344-8d45-a6b711bb6f9d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameBaseChange_point_bc
 -- name    : GlobalTheory.FrameBaseChange.point_bc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:37:20.336456+00:00
 -- url     : https://prove2.me/theorems/52dc9583-7762-4ccc-a766-f26b9907ab09

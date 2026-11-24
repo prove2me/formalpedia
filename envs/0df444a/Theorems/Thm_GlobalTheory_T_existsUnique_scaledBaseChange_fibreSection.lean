@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_existsUnique_scaledBaseChange_fibreSection
 -- name    : GlobalTheory.T.existsUnique_scaledBaseChange_fibreSection
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:42:56.019431+00:00
 -- url     : https://prove2.me/theorems/a9cf32c4-e5ad-4006-94a8-eaf726f1e0d1

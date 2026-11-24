@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_heisenberg_coordinate_measurable
 -- name    : Formalism.FourierDecayAlt.P.B2x8.heisenberg_coordinate_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:00:40.156404+00:00
 -- url     : https://prove2.me/theorems/1753a804-6228-418c-b457-126934f3b884

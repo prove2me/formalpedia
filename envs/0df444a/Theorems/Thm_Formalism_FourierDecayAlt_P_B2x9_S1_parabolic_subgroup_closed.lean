@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x9_S1_parabolic_subgroup_closed
 -- name    : Formalism.FourierDecayAlt.P.B2x9.S1.parabolic_subgroup_closed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:59:30.532843+00:00
 -- url     : https://prove2.me/theorems/8560b5f5-c389-4084-ae77-d8c3c76aa876

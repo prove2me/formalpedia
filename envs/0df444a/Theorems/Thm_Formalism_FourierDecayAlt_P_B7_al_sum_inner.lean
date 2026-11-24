@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B7_al_sum_inner
 -- name    : Formalism.FourierDecayAlt.P.B7.al_sum_inner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:05:37.311678+00:00
 -- url     : https://prove2.me/theorems/514f0952-8761-45b0-9d5a-3e93ed1bdff8

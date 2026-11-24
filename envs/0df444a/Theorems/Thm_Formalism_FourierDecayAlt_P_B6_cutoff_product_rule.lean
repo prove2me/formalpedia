@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_cutoff_product_rule
 -- name    : Formalism.FourierDecayAlt.P.B6.cutoff_product_rule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:01:02.703006+00:00
 -- url     : https://prove2.me/theorems/ebaa8be9-17ff-4ab7-b986-e1664c3a8f5d

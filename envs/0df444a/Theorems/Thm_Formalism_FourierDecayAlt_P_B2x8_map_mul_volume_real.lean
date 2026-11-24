@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_map_mul_volume_real
 -- name    : Formalism.FourierDecayAlt.P.B2x8.map_mul_volume_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:59:58.575077+00:00
 -- url     : https://prove2.me/theorems/7a2cab7e-f6f6-4e1d-aa99-d799b17b7d7e

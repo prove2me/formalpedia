@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LeftMultiplicationRule_ell_dag_form
 -- name    : Formalism.FourierDecayAlt.Q.LeftMultiplicationRule.ell_dag_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:45:52.503828+00:00
 -- url     : https://prove2.me/theorems/0f1a8def-8823-40cd-b902-39ead6cdd993

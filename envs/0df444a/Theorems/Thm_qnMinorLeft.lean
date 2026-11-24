@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_qnMinorLeft
 -- name    : qnMinorLeft
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:55:41.121958+00:00
 -- url     : https://prove2.me/theorems/9036fc21-fdaf-4c5b-a9f5-e5f9566a5e31

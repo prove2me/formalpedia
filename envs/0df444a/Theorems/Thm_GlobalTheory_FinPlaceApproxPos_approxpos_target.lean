@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinPlaceApproxPos_approxpos_target
 -- name    : GlobalTheory.FinPlaceApproxPos.approxpos_target
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:04.270455+00:00
 -- url     : https://prove2.me/theorems/7a0f387c-cc83-46ef-9c3d-a112a16eac90

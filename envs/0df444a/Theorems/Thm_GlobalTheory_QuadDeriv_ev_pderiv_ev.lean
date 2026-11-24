@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadDeriv_ev_pderiv_ev
 -- name    : GlobalTheory.QuadDeriv.ev_pderiv_ev
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:41:09.971953+00:00
 -- url     : https://prove2.me/theorems/3b7962ce-7db5-4db7-95ec-b7a152735bb9

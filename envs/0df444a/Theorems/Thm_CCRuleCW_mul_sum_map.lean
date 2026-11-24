@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCRuleCW_mul_sum_map
 -- name    : CCRuleCW.mul_sum_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:56:49.344082+00:00
 -- url     : https://prove2.me/theorems/18c1e5a5-15c1-4755-bf2c-f4a206458d70

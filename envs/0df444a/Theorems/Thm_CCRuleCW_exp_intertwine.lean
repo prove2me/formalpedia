@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCRuleCW_exp_intertwine
 -- name    : CCRuleCW.exp_intertwine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:56:19.924007+00:00
 -- url     : https://prove2.me/theorems/4bb1ba53-8c8b-4a2b-98cb-9e19feacc760

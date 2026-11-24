@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteFlatKilled_exists_id_pow_eq_one_of_isFinite_of_flat
 -- name    : GlobalTheory.FiniteFlatKilled.exists_id_pow_eq_one_of_isFinite_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:30:22.786022+00:00
 -- url     : https://prove2.me/theorems/6f977cf4-b4b9-46ae-ba17-c2cc40c23766

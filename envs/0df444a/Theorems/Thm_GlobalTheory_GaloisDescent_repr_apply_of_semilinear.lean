@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescent_repr_apply_of_semilinear
 -- name    : GlobalTheory.GaloisDescent.repr_apply_of_semilinear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:48:47.073106+00:00
 -- url     : https://prove2.me/theorems/c38d0bba-7a28-4628-8045-94af62f21aa3

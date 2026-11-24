@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_exp_neg_dilation_generator_eq_aDil
 -- name    : Formalism.FourierDecayAlt.P.B6.exp_neg_dilation_generator_eq_aDil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:01:43.780899+00:00
 -- url     : https://prove2.me/theorems/c2b6e64e-0533-439e-ad9a-fb8a24041f77

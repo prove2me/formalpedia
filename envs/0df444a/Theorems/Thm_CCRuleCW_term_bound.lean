@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCRuleCW_term_bound
 -- name    : CCRuleCW.term_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:56:40.565863+00:00
 -- url     : https://prove2.me/theorems/8781d2b2-854a-4aeb-868a-b2409827af2c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EpsThick_thickening_functions
 -- name    : GlobalTheory.EpsThick.thickening_functions
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:24:41.718563+00:00
 -- url     : https://prove2.me/theorems/2f492471-ba60-4854-a221-4d9977485de0

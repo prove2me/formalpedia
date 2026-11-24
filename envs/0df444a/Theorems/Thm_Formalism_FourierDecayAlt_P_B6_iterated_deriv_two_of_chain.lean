@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_iterated_deriv_two_of_chain
 -- name    : Formalism.FourierDecayAlt.P.B6.iterated_deriv_two_of_chain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:02:28.005733+00:00
 -- url     : https://prove2.me/theorems/f8d3653e-10f6-4e62-b6f0-e5546465f852

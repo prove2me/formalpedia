@@ -75463,8 +75463,8 @@
 {"parent": "RHX1000000.Run.E37.blk7", "child": "RHX_RunChain", "via": ["statement"]}
 {"parent": "RHX1000000.Run.E37.blk7", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Run.E37.blk7", "child": "RHX_RunSplit", "via": ["statement"]}
-{"parent": "GlobalTheory.FunObj.hasCompactSupport_flatIntegrand", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_HasCompactSupportFlatIntegrand", "via": ["statement"]}
-{"parent": "GlobalTheory.FunObj.hasCompactSupport_flatIntegrand", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_FlatTensorVacuum", "via": ["statement"]}
+{"parent": "GlobalTheory.FunObj.hasCompactSupport_flatIntegrand", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_HasCompactSupportFlatIntegrand", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.FunObj.hasCompactSupport_flatIntegrand", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_FlatTensorVacuum", "via": ["solution", "statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PDualStdModelTransc", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_DualStdModelField", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PDualStdModelTransc", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PDualArithVar", "via": ["statement"]}
 {"parent": "GroundTheory.Automorphic.exists_compactOpenSubgroup_normalized", "child": "GroundTheory_AutomorphicForms_LocallyProfinite", "via": ["solution", "statement"]}
@@ -75831,8 +75831,8 @@
 {"parent": "RHX1000000.Run.E38.run", "child": "RHX1E6_RunE38", "via": ["statement"]}
 {"parent": "RHX1000000.Run.E38.run", "child": "ArdaRS_Config64", "via": ["statement"]}
 {"parent": "RHX1000000.Run.E38.run", "child": "RHX_RunSplit", "via": ["statement"]}
-{"parent": "GlobalTheory.FunObj.continuous_flatIntegrand", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_HasCompactSupportFlatIntegrand", "via": ["statement"]}
-{"parent": "GlobalTheory.FunObj.continuous_flatIntegrand", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_FlatTensorVacuum", "via": ["statement"]}
+{"parent": "GlobalTheory.FunObj.continuous_flatIntegrand", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_HasCompactSupportFlatIntegrand", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.FunObj.continuous_flatIntegrand", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_FlatTensorVacuum", "via": ["solution", "statement"]}
 {"parent": "Arxiv1801_00461.kramers_kronig_admittance", "child": "Arxiv1801_00461_Basic", "via": ["statement"]}
 {"parent": "GlobalTheory.BetaEx.mem_std", "child": "Development_AbelianVarietyTheory_Proofs_UnitaryExistence_ExistsIndexIdeal", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.BetaEx.mem_std", "child": "Formalism_LocalToGlobal_ProjectiveLattices_ThShort", "via": ["solution", "statement"]}
@@ -79001,9 +79001,9 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_Regular_ExpQuad_logLift_castLE_f986c713271f", "child": "GroundTheory_HeightsAndTheta_Heights_Regularisation_PExpExtension", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.TensHead.MinStab.map", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_LeKerOfLocalFiniteLengthToSimple", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.TensHead.MinStab.map", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_SimpleOver", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.FunObj.OneCosetProof.stepPt_shift", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_FlatTensorVacuum", "via": ["statement"]}
-{"parent": "GlobalTheory.FunObj.OneCosetProof.stepPt_shift", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExistsKOOfDet", "via": ["statement"]}
-{"parent": "GlobalTheory.FunObj.OneCosetProof.stepPt_shift", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_OneCosetOfIsTensor", "via": ["statement"]}
+{"parent": "GlobalTheory.FunObj.OneCosetProof.stepPt_shift", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_FlatTensorVacuum", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.FunObj.OneCosetProof.stepPt_shift", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExistsKOOfDet", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.FunObj.OneCosetProof.stepPt_shift", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_OneCosetOfIsTensor", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_CuspFormEvaluations_ExistsShortIndependentIntegers", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_HeightTheory_Transference", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_CuspFormEvaluations_ExistsShortIndependentIntegers", "child": "Development_AbelianVarietyTheory_Proofs_CovolumeBounds_FinrankMulDiscrRpowLeSumSqOfMemTraceDual", "via": ["statement"]}
 {"parent": "GlobalTheory.ZM.isE8_W8", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_HeckeKer", "via": ["solution", "statement"]}
@@ -95484,10 +95484,10 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_HomLocRingDimLe_mem_primeAbove_933b8ede3481", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_StatementsHomLocRingLocal", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_HomLocRingDimLe_mem_primeAbove_933b8ede3481", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PHomLocRingLocal", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_HomLocRingDimLe_mem_primeAbove_933b8ede3481", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PHomLocRingDimLe", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.FiniteCoverGrowth.integral_and_rational_of_polynomial_growth", "child": "ReciprocityTheory_ThetaQuasiPeriods_Change", "via": ["statement"]}
-{"parent": "GlobalTheory.FiniteCoverGrowth.integral_and_rational_of_polynomial_growth", "child": "ReciprocityTheory_ThetaQuasiPeriods_Transl", "via": ["statement"]}
-{"parent": "GlobalTheory.FiniteCoverGrowth.integral_and_rational_of_polynomial_growth", "child": "ReciprocityTheory_ThetaQuasiPeriods_ThetaQuasiPeriodStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.FiniteCoverGrowth.integral_and_rational_of_polynomial_growth", "child": "Development_AbelianVarietyTheory_Proofs_ToricGeometry_IntegralAndRationalOfPolynomialGrowth", "via": ["statement"]}
+{"parent": "GlobalTheory.FiniteCoverGrowth.integral_and_rational_of_polynomial_growth", "child": "ReciprocityTheory_ThetaQuasiPeriods_Change", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.FiniteCoverGrowth.integral_and_rational_of_polynomial_growth", "child": "ReciprocityTheory_ThetaQuasiPeriods_Transl", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.FiniteCoverGrowth.integral_and_rational_of_polynomial_growth", "child": "ReciprocityTheory_ThetaQuasiPeriods_ThetaQuasiPeriodStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.FiniteCoverGrowth.integral_and_rational_of_polynomial_growth", "child": "Development_AbelianVarietyTheory_Proofs_ToricGeometry_IntegralAndRationalOfPolynomialGrowth", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.AnArc.Sum_add_period", "child": "Development_AbelianVarietyTheory_Definitions_ArchimedeanThetaValues_CoeffFSumDerivEqFderiv", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.AnArc.Sum_add_period", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_HasArcDataIff", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.AnArc.Sum_add_period", "child": "Development_AbelianVarietyTheory_Definitions_ArchimedeanThetaValues_DegeneratingToriPeriodMapEqBaseOfYEqZero", "via": ["solution", "statement"]}
@@ -97226,9 +97226,9 @@
 {"parent": "GlobalTheory.SW.Base.transH_one", "child": "Development_AbelianVarietyTheory_Definitions_SpanningFamilies_IMemSiegel", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SW.Base.transH_one", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_Signature", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SW.Base.transH_one", "child": "Development_AbelianVarietyTheory_Definitions_SpanningFamilies_FirstCoordinateAdmissible", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.HeckeOne.IsContAtOne.apply_one_eq", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_EntireEqOfHalfPlane", "via": ["statement"]}
-{"parent": "GlobalTheory.HeckeOne.IsContAtOne.apply_one_eq", "child": "Development_AbelianVarietyTheory_BlockTheory_AdelicCMFields_UnitaryHeckeCharacterIdele", "via": ["statement"]}
-{"parent": "GlobalTheory.HeckeOne.IsContAtOne.apply_one_eq", "child": "Development_AbelianVarietyTheory_PublishedTheorems_TwistedTraceFormula_HeckeLEntireAndNonzeroAtOne", "via": ["statement"]}
+{"parent": "GlobalTheory.HeckeOne.IsContAtOne.apply_one_eq", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_EntireEqOfHalfPlane", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HeckeOne.IsContAtOne.apply_one_eq", "child": "Development_AbelianVarietyTheory_BlockTheory_AdelicCMFields_UnitaryHeckeCharacterIdele", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.HeckeOne.IsContAtOne.apply_one_eq", "child": "Development_AbelianVarietyTheory_PublishedTheorems_TwistedTraceFormula_HeckeLEntireAndNonzeroAtOne", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_ExistsFourierExpansionHolomorphicTube", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_GCauchyStatement", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_ExistsFourierExpansionHolomorphicTube", "child": "Development_AbelianVarietyTheory_Definitions_SpanningFamilies_IsHeatZero", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_SiegelThetaTransformation_ExistsFourierExpansionHolomorphicTube", "child": "Development_AbelianVarietyTheory_Proofs_ThetaLawProofs_NormLeTsumOfCubeFourierCoeffLe", "via": ["statement"]}

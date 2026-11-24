@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NFOne_cols_X
 -- name    : NFOne.cols_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:47:48.353247+00:00
 -- url     : https://prove2.me/theorems/2be70f99-68a5-4ff7-8369-c3b9b4687be7

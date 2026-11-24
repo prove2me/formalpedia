@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FubiniStudyHessian_wd_normSq
 -- name    : GlobalTheory.FubiniStudyHessian.wd_normSq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:55:45.058495+00:00
 -- url     : https://prove2.me/theorems/09e9328a-40be-45a0-8cbd-640215f606c1

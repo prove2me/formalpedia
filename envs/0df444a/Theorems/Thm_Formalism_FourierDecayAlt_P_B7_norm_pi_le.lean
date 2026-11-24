@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B7_norm_pi_le
 -- name    : Formalism.FourierDecayAlt.P.B7.norm_pi_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:06:54.074825+00:00
 -- url     : https://prove2.me/theorems/ecc9d052-8f2e-4903-bdde-9ef5dd90a969

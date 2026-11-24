@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameBasic_frames_basic
 -- name    : GlobalTheory.FrameBasic.frames_basic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:36:25.723819+00:00
 -- url     : https://prove2.me/theorems/1a8f423c-0177-46f2-abf4-4f1e098463a9

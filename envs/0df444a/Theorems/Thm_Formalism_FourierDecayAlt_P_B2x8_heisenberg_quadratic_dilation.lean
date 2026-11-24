@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_heisenberg_quadratic_dilation
 -- name    : Formalism.FourierDecayAlt.P.B2x8.heisenberg_quadratic_dilation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:00:26.281336+00:00
 -- url     : https://prove2.me/theorems/e9e94506-634f-47b3-8041-1ca070df3ef7

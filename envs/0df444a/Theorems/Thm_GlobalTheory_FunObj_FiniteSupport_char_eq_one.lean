@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_FiniteSupport_char_eq_one
 -- name    : GlobalTheory.FunObj.FiniteSupport.char_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:41:00.35421+00:00
 -- url     : https://prove2.me/theorems/e4ede3fa-ae96-4ec5-9551-09078b4eecab

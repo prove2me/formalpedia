@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_EabLie_hpart2_skew
 -- name    : Formalism.FourierDecayAlt.Q.EabLie.hpart2_skew
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:58:02.507527+00:00
 -- url     : https://prove2.me/theorems/a791f19a-ae3f-474c-aff6-a30101895ef3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GamFree_gram_unitary
 -- name    : GlobalTheory.GamFree.gram_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:49:20.996842+00:00
 -- url     : https://prove2.me/theorems/6cbd9b09-c852-43ff-a5bd-606636d2eb74

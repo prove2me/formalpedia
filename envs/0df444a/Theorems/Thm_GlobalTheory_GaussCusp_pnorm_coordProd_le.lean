@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussCusp_pnorm_coordProd_le
 -- name    : GlobalTheory.GaussCusp.pnorm_coordProd_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:51:21.363656+00:00
 -- url     : https://prove2.me/theorems/113f3642-6475-448a-b433-59e5750eec97

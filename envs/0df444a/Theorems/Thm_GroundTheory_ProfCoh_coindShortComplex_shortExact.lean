@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_coindShortComplex_shortExact
 -- name    : GroundTheory.ProfCoh.coindShortComplex_shortExact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:05:21.666801+00:00
 -- url     : https://prove2.me/theorems/b539e4bd-72b6-4801-8331-529f4be07c59

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Mu_mu_no_four
 -- name    : Formalism.FrobeniusOrbits.Mu.mu_no_four
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:11:35.731981+00:00
 -- url     : https://prove2.me/theorems/1066beda-062b-4038-95c1-d98cd4f9e3d5

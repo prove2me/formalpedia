@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_contDiff_matrix_mul_left
 -- name    : Formalism.FourierDecayAlt.P.B6.contDiff_matrix_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:01:23.566264+00:00
 -- url     : https://prove2.me/theorems/0eeb29d1-c5e8-4cb8-bde1-a9e0bfe09be2

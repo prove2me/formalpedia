@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameValue_genVal_sym
 -- name    : GlobalTheory.FrameValue.genVal_sym
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:39:26.662922+00:00
 -- url     : https://prove2.me/theorems/9a0fc29e-49ca-48fa-9118-7f74005936d0

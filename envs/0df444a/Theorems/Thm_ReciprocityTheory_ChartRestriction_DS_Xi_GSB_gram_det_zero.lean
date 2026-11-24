@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_GSB_gram_det_zero
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.GSB.gram_det_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:54:00.269859+00:00
 -- url     : https://prove2.me/theorems/07628513-5bd8-4007-8fdf-81b275a857a7

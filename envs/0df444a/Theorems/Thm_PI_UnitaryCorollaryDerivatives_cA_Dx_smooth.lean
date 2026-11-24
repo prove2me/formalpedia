@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_cA_Dx_smooth
 -- name    : PI.UnitaryCorollaryDerivatives.cA_Dx_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:48:21.432276+00:00
 -- url     : https://prove2.me/theorems/7af0f09c-de23-4ea9-8638-c0a579b5969b

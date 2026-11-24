@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_expMoment_forward
 -- name    : Kyprianou.Ch03.expMoment_forward
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T13:18:24.86096+00:00
 -- url     : https://prove2.me/theorems/ccd8c94e-d87b-4c96-90ae-d5925821c240

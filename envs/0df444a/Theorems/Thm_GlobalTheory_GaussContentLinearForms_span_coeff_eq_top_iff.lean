@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussContentLinearForms_span_coeff_eq_top_iff
 -- name    : GlobalTheory.GaussContentLinearForms.span_coeff_eq_top_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:48:23.213307+00:00
 -- url     : https://prove2.me/theorems/82ea283a-337b-4378-9a2f-77a29768fd7f

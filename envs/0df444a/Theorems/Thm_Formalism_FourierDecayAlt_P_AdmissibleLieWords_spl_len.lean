@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_AdmissibleLieWords_spl_len
 -- name    : Formalism.FourierDecayAlt.P.AdmissibleLieWords.spl_len
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:48:36.898592+00:00
 -- url     : https://prove2.me/theorems/5a1af465-df44-4622-8a21-a8979a7351c3

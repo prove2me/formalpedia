@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussMarginal_gaussProb_eq_complexGaussian
 -- name    : GlobalTheory.GaussMarginal.gaussProb_eq_complexGaussian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:55:39.098425+00:00
 -- url     : https://prove2.me/theorems/aa3236bc-1533-4ce1-82ee-562654e87c9b

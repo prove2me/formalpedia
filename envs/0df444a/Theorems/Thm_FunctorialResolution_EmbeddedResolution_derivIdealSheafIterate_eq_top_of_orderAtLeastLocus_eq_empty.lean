@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_derivIdealSheafIterate_eq_top_of_orderAtLeastLocus_eq_empty
 -- name    : FunctorialResolution.EmbeddedResolution.derivIdealSheafIterate_eq_top_of_orderAtLeastLocus_eq_empty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:16:20.781944+00:00
 -- url     : https://prove2.me/theorems/49fb80b5-294a-4c8f-a51c-cc36bad2f9d4

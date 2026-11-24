@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_continuous_exp_I_linear_form
 -- name    : Formalism.FourierDecayAlt.P.B6.continuous_exp_I_linear_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:01:21.583716+00:00
 -- url     : https://prove2.me/theorems/6330dc19-9711-4f7d-9b0b-6eecbe73f826

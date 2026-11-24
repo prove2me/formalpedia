@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_LatForm_fm_mul
 -- name    : GlobalTheory.UnRep.LatForm.fm_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:55:49.355745+00:00
 -- url     : https://prove2.me/theorems/90d5fda8-3e56-4e65-aa16-55c7d75ace1a

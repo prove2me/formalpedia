@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitarySwap_inv_one_sub_mem
 -- name    : GlobalTheory.UnitarySwap.inv_one_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:49:15.114811+00:00
 -- url     : https://prove2.me/theorems/95777e45-6932-480d-b45a-72dcc7ba1a15

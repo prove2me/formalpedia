@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DirichletTail_norm_LFunction_sub_sum_le
 -- name    : GlobalTheory.DirichletTail.norm_LFunction_sub_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:48:37.628086+00:00
 -- url     : https://prove2.me/theorems/f1d91210-556c-47bf-8726-5a67ca5f667f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescent_isWeightedHomogeneous_map
 -- name    : GlobalTheory.GaloisDescent.isWeightedHomogeneous_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:48:28.716963+00:00
 -- url     : https://prove2.me/theorems/78daddcc-86ff-41d3-b265-f1c0676a1e8c

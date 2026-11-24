@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_iteratedDeriv_two_eq_zero_off_support
 -- name    : Formalism.FourierDecayAlt.P.B6.iteratedDeriv_two_eq_zero_off_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:02:49.747623+00:00
 -- url     : https://prove2.me/theorems/1af809f2-a130-47d4-ba90-423448490e1d

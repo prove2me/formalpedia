@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrobeniusProduct_exists_unit_iterate_mul_eq
 -- name    : GlobalTheory.FrobeniusProduct.exists_unit_iterate_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:40:07.366445+00:00
 -- url     : https://prove2.me/theorems/ea50c970-85be-4608-88c5-f467cd54ac3c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ResPlug_FromRes_coe_support_comap
 -- name    : PositivityTheory.ResPlug.FromRes.coe_support_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:05:06.805488+00:00
 -- url     : https://prove2.me/theorems/63b045a2-40b7-470d-8c90-a2ec208daa3a

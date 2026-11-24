@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_latticeNormDisc_conjPeriods
 -- name    : GlobalTheory.latticeNormDisc_conjPeriods
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:15:26.043403+00:00
 -- url     : https://prove2.me/theorems/01777293-d83f-4120-aa46-b544cc33b7d0

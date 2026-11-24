@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_contDiff_two_of_derivatives
 -- name    : Formalism.FourierDecayAlt.P.B6.contDiff_two_of_derivatives
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:01:10.276804+00:00
 -- url     : https://prove2.me/theorems/93b796d7-688d-4ccf-b63e-02c8f0c00a87

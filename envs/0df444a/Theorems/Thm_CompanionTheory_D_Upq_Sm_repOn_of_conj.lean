@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_Sm_repOn_of_conj
 -- name    : CompanionTheory.D.Upq.Sm.repOn_of_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:57:05.557366+00:00
 -- url     : https://prove2.me/theorems/b0c1c268-4f96-4ea0-bd3e-99937233bb26

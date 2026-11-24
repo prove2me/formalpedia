@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_det_zjH_ne
 -- name    : PI.UnitaryGroupMassFormula.UsCost.det_zjH_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:52:14.914432+00:00
 -- url     : https://prove2.me/theorems/b1d1b455-61b8-4c03-a7a8-27157d6b4cff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_lift_vector_measurable
 -- name    : Formalism.FourierDecayAlt.P.B2x8.lift_vector_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:00:39.185396+00:00
 -- url     : https://prove2.me/theorems/3e1c224c-9107-4cbf-b647-de3a6b73865f

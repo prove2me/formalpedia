@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CovecW_sgn_eI
 -- name    : CovecW.sgn_eI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:00:25.515612+00:00
 -- url     : https://prove2.me/theorems/4bcd5ddc-9e16-4f47-90ac-3877810c6684

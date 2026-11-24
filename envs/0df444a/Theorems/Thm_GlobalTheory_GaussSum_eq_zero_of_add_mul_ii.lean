@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussSum_eq_zero_of_add_mul_ii
 -- name    : GlobalTheory.GaussSum.eq_zero_of_add_mul_ii
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:54:18.347222+00:00
 -- url     : https://prove2.me/theorems/d621a2d9-774d-41ad-bfac-9c3375d19ae9

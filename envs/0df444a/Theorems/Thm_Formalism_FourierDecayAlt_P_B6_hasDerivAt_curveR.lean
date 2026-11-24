@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_hasDerivAt_curveR
 -- name    : Formalism.FourierDecayAlt.P.B6.hasDerivAt_curveR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:02:03.215539+00:00
 -- url     : https://prove2.me/theorems/0f5993f0-14b2-4916-85de-84444dd2a2b7

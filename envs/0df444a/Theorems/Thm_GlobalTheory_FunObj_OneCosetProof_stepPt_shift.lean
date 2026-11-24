@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_OneCosetProof_stepPt_shift
 -- name    : GlobalTheory.FunObj.OneCosetProof.stepPt_shift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:31:05.478807+00:00
 -- url     : https://prove2.me/theorems/a34e719d-1ce7-421e-8b3b-a6ef6654d7d0

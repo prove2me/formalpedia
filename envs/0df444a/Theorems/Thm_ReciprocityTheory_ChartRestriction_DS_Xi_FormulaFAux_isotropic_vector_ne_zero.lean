@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_FormulaFAux_isotropic_vector_ne_zero
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.FormulaFAux.isotropic_vector_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:53:25.425441+00:00
 -- url     : https://prove2.me/theorems/cbc1ef28-a909-4d9e-94e5-dc31208191e5

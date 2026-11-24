@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameValue_chi_zero
 -- name    : GlobalTheory.FrameValue.chi_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:25:13.125968+00:00
 -- url     : https://prove2.me/theorems/e46afcd0-db32-4af6-813b-3767498fb2fb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstructiveArboricity_Exact_Supplement_rooted_equivalence
 -- name    : ConstructiveArboricity.Exact.Supplement.rooted_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T10:21:19.11175+00:00
 -- url     : https://prove2.me/theorems/d65a2ccc-8452-475e-ad02-b6c9a06981d9

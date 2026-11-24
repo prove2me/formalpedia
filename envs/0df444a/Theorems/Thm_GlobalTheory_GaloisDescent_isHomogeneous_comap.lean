@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescent_isHomogeneous_comap
 -- name    : GlobalTheory.GaloisDescent.isHomogeneous_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:47:52.748007+00:00
 -- url     : https://prove2.me/theorems/1d8b8a15-eadb-436d-b353-fc0399c498af

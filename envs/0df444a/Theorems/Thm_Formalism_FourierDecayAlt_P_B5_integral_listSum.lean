@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B5_integral_listSum
 -- name    : Formalism.FourierDecayAlt.P.B5.integral_listSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:01:07.619723+00:00
 -- url     : https://prove2.me/theorems/3b5c4a63-5ef5-4334-8955-e3358e8221bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_dj_aDil_unit
 -- name    : Formalism.FourierDecayAlt.P.B2x8.dj_aDil_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:00:32.97371+00:00
 -- url     : https://prove2.me/theorems/dd7e2a25-97b9-40b3-84fc-43846c02c9db

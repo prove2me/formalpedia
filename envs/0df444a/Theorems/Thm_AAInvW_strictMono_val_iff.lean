@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_strictMono_val_iff
 -- name    : AAInvW.strictMono_val_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:55:18.237813+00:00
 -- url     : https://prove2.me/theorems/804618a9-dd5f-449d-b340-d588ce9ddb7b

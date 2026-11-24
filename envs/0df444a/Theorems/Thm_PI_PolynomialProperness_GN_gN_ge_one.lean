@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_GN_gN_ge_one
 -- name    : PI.PolynomialProperness.GN.gN_ge_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:50:58.968815+00:00
 -- url     : https://prove2.me/theorems/dcbdbff5-070b-4d8f-9a35-c6aa4be15caa

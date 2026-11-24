@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x5_idx_cases
 -- name    : Formalism.FourierDecayAlt.P.B2x5.idx_cases
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:58:27.219007+00:00
 -- url     : https://prove2.me/theorems/9f483cee-614f-4e20-a83f-46f9579c41fa

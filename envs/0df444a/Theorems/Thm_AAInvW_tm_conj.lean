@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_tm_conj
 -- name    : AAInvW.tm_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:55:25.329804+00:00
 -- url     : https://prove2.me/theorems/356b48d4-5db6-4cda-a19c-9194373bfd7f

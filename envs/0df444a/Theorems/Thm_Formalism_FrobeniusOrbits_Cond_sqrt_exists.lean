@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Cond_sqrt_exists
 -- name    : Formalism.FrobeniusOrbits.Cond.sqrt_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:10:27.902844+00:00
 -- url     : https://prove2.me/theorems/444400fb-c810-4246-b410-458a12cee936

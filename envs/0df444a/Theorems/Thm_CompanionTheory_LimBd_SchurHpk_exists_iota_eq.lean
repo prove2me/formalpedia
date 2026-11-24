@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_SchurHpk_exists_iota_eq
 -- name    : CompanionTheory.LimBd.SchurHpk.exists_iota_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:28:15.391846+00:00
 -- url     : https://prove2.me/theorems/93c4638d-63cb-49d9-b15a-fba7dadfbc54

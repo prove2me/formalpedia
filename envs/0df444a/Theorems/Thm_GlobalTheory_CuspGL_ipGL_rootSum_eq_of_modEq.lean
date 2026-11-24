@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_ipGL_rootSum_eq_of_modEq
 -- name    : GlobalTheory.CuspGL.ipGL_rootSum_eq_of_modEq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:32:47.467038+00:00
 -- url     : https://prove2.me/theorems/30dfc340-fdb4-487c-b5c3-a16956dfbb72

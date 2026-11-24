@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BigCellOpenDomain_mu_entry
 -- name    : Formalism.FourierDecayAlt.P.BigCellOpenDomain.mu_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:09:44.920809+00:00
 -- url     : https://prove2.me/theorems/41747e28-c31e-44f9-976b-7325ac8a3bff

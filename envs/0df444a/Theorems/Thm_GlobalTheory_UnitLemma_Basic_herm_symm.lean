@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Basic_herm_symm
 -- name    : GlobalTheory.UnitLemma.Basic.herm_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:36:28.338241+00:00
 -- url     : https://prove2.me/theorems/5092451c-9d1f-4b3d-9ab6-f39ba034928f

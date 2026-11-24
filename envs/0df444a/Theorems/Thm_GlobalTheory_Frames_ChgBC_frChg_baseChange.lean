@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_ChgBC_frChg_baseChange
 -- name    : GlobalTheory.Frames.ChgBC.frChg_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:46:03.357213+00:00
 -- url     : https://prove2.me/theorems/ef9a0203-2db4-47be-af9b-461d62ed9c3a

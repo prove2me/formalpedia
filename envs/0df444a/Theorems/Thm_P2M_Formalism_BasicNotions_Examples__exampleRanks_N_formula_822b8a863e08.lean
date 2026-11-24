@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__exampleRanks_N_formula_822b8a863e08
 -- name    : P2M_Formalism_BasicNotions_Examples__exampleRanks_N_formula_822b8a863e08
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:07:46.459602+00:00
 -- url     : https://prove2.me/theorems/8a4b0086-672a-47b3-ae72-9549e7034f4b

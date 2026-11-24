@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeFirstLaw_pderiv_axis
 -- name    : GlobalTheory.GaugeFirstLaw.pderiv_axis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:49:09.591303+00:00
 -- url     : https://prove2.me/theorems/a69c3362-a68a-40f5-b996-83cb418787a5

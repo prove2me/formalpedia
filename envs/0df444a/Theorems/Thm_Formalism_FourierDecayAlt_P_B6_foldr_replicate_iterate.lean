@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_foldr_replicate_iterate
 -- name    : Formalism.FourierDecayAlt.P.B6.foldr_replicate_iterate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:01:32.964852+00:00
 -- url     : https://prove2.me/theorems/d5576852-4b79-4a69-9b49-c1835a95a6a0

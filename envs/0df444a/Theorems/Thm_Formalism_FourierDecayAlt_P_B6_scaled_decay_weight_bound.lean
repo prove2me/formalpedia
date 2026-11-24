@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_scaled_decay_weight_bound
 -- name    : Formalism.FourierDecayAlt.P.B6.scaled_decay_weight_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:05:49.421358+00:00
 -- url     : https://prove2.me/theorems/2f709036-863c-4325-9d31-f578e76f0a28

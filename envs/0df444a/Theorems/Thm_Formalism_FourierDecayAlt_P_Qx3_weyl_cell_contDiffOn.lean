@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx3_weyl_cell_contDiffOn
 -- name    : Formalism.FourierDecayAlt.P.Qx3.weyl_cell_contDiffOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:20:44.662873+00:00
 -- url     : https://prove2.me/theorems/ed913a03-0fa1-410c-acee-e47b49215c3f

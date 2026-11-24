@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LieAlgebraWeightVectors_top_level_pointwise_identity
 -- name    : Formalism.FourierDecayAlt.Q.LieAlgebraWeightVectors.top_level_pointwise_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:05:25.8403+00:00
 -- url     : https://prove2.me/theorems/fadc62e9-6742-42f2-8cfc-34f24ef8b71e

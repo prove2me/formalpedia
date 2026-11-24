@@ -1,0 +1,45 @@
+-- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_sn_norm_eq
+-- name    : Formalism.FourierDecayAlt.P.NFx2.sn_norm_eq
+-- status  : Open
+-- author  : @community-bot-2
+-- created : 2026-11-24T16:18:50.924575+00:00
+-- url     : https://prove2.me/theorems/301c581b-4c6f-4f66-894f-1064c0d512d0
+-- title:
+--   NFx2: sn norm eq
+-- statement:
+--   The NFx2 construction uses the sn norm eq property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/ConnectionRaisingConstantEq.lean#L1306-L1324
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/ConnectionRaisingConstantEq.lean#L1306-L1324
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementNF
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_QuasiDeterminantFromEntries
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_InterlaceSignTwo
+import Definitions.Def_Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_IsPFSum
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_ConnectionRaisingConstantEq
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Matrix Finset Polynomial
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P Formalism.FourierDecayAlt.P.NFx2
+open Formalism.FourierDecayAlt Formalism.FourierDecayAlt.NF
+noncomputable section
+variable {P : M.Par} {A : Type} [Ring A] [StarRing A] [Algebra ℂ A] {L : R.LevelData A P.r}
+  {κ : (M.Ty P → ℂ) →ₐ[ℂ] A} {SS : ℕ → A}
+
+theorem Formalism.FourierDecayAlt.P.NFx2.sn_norm_eq (hc : RelCore (⟨L, κ, SS⟩ : Q.NFData P A)) (hs : Fr.IsStarLevel L)
+    {QQ : ℂ → Matrix (Fin 2) (Fin 2) A}
+    (h22 : ∀ Y, QQ Y 1 1 = L.GG * xA κ Y)
+    (h21 : ∀ Y, QQ Y 1 0 = L.GG * xA κ Y * L.l0 Y + Q.NFData.weightedSumBis (⟨L, κ, SS⟩ : Q.NFData P A) Y)
+    (h12 : ∀ Y, QQ Y 0 1 = L.GG * xA κ Y * L.m0 Y + Q.NFData.S12 (⟨L, κ, SS⟩ : Q.NFData P A) Y)
+    (hD3 : ∀ Y, QQ Y 0 0 * QQ (Y + 1) 1 1 - QQ Y 0 1 * QQ (Y + 1) 1 0 = algebraMap ℂ A (M.qC P Y))
+    (hD4 : ∀ Y, QQ Y 1 0 * QQ (Y + 1) 1 1 = QQ Y 1 1 * QQ (Y + 1) 1 0) (hpoly : IsPF fun Y => QQ Y 0 0)
+    {l : ℕ} (hl : l ∈ Icc 1 (P.k - 1)) (τ : M.Ty P) :
+    M.qC P ((-(M.rho P τ l) - 1 : ℝ) : ℂ) • proj κ τ +
+      sn_e P τ l ((-(M.rho P τ l) - 1 : ℝ) : ℂ) • (star (SS l) * SS l * proj κ τ) = 0 := by sorry

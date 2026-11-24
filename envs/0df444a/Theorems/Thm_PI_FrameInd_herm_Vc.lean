@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FrameInd_herm_Vc
 -- name    : PI.FrameInd.herm_Vc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:38:59.5403+00:00
 -- url     : https://prove2.me/theorems/6af4479d-7a85-46b4-b42b-79d6579e4bd0

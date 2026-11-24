@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_sm_reindex
 -- name    : PI.UnitaryGroupMassFormula.UsCost.sm_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:52:54.930424+00:00
 -- url     : https://prove2.me/theorems/cb1dfa0f-1079-4f72-818f-de26c7c015a3

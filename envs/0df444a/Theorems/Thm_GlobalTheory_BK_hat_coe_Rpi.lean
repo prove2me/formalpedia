@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_hat_coe_Rpi
 -- name    : GlobalTheory.BK.hat_coe_Rpi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:31:01.908818+00:00
 -- url     : https://prove2.me/theorems/e3345e79-c483-4f23-bf66-e9230e9d1924

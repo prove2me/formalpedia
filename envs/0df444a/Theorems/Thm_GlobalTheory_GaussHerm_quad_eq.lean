@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussHerm_quad_eq
 -- name    : GlobalTheory.GaussHerm.quad_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:54:55.870238+00:00
 -- url     : https://prove2.me/theorems/53348bd0-5293-47fc-8c46-db88a779e3a8

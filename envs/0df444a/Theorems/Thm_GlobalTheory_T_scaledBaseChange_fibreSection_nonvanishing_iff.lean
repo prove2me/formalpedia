@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_scaledBaseChange_fibreSection_nonvanishing_iff
 -- name    : GlobalTheory.T.scaledBaseChange_fibreSection_nonvanishing_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:01:39.008318+00:00
 -- url     : https://prove2.me/theorems/3433aa0d-82e1-4aab-84b2-52b001b71f46

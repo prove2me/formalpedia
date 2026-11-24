@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isClosed_orderAtLeastLocus
 -- name    : FunctorialResolution.EmbeddedResolution.isClosed_orderAtLeastLocus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:16:16.607071+00:00
 -- url     : https://prove2.me/theorems/191cf830-6959-448e-8b48-9107d0d72e83

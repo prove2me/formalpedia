@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeFirstLaw_ev_axis
 -- name    : GlobalTheory.GaugeFirstLaw.ev_axis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:49:07.334191+00:00
 -- url     : https://prove2.me/theorems/97aff416-f30f-4f00-b999-5823fa03ac59

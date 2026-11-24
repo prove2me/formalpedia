@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EtIsom_cayley_hasInv
 -- name    : GlobalTheory.EtIsom.cayley_hasInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:37:58.123248+00:00
 -- url     : https://prove2.me/theorems/8ff667f4-6032-486d-b32d-5f992f8c39c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx3_exp_fix
 -- name    : Formalism.FourierDecayAlt.P.Qx3.exp_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:20:40.258488+00:00
 -- url     : https://prove2.me/theorems/969b4373-58e1-40d5-9855-421a0074c88f

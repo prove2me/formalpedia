@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescentLattice_sigma_smul
 -- name    : GlobalTheory.GaloisDescentLattice.sigma_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:48:50.177798+00:00
 -- url     : https://prove2.me/theorems/80b87041-8229-4778-9cfa-e9abd375530b

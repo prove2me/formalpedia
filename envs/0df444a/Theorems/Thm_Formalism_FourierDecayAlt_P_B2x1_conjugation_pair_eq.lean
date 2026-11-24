@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x1_conjugation_pair_eq
 -- name    : Formalism.FourierDecayAlt.P.B2x1.conjugation_pair_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:56:47.08709+00:00
 -- url     : https://prove2.me/theorems/8e256159-f151-4968-ad76-33e27f07c41b

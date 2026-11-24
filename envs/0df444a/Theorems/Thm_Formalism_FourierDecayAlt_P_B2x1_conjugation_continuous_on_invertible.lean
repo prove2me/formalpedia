@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x1_conjugation_continuous_on_invertible
 -- name    : Formalism.FourierDecayAlt.P.B2x1.conjugation_continuous_on_invertible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:58:19.044816+00:00
 -- url     : https://prove2.me/theorems/1c71e6d5-f1c5-4ffb-aca8-c2ffa6ad6aa2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_ioh_smooth
 -- name    : Formalism.QuantumDeterminants.ioh_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:53:44.580688+00:00
 -- url     : https://prove2.me/theorems/c230f417-51b4-4caf-b213-0400cd8546d4

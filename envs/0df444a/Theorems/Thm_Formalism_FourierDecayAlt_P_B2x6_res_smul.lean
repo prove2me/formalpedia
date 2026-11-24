@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x6_res_smul
 -- name    : Formalism.FourierDecayAlt.P.B2x6.res_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:58:49.166286+00:00
 -- url     : https://prove2.me/theorems/690d7da5-9401-47e8-b8f8-941054fa8c20

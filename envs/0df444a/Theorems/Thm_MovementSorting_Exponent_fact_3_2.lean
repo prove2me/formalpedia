@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MovementSorting_Exponent_fact_3_2
 -- name    : MovementSorting.Exponent.fact_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-09T21:02:11.875246+00:00
 -- url     : https://prove2.me/theorems/db018a69-451c-4af2-8d7a-236d3808cae6

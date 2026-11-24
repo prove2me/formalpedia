@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_momentSmallGaussianMarginalFiniteApproxV1
 -- name    : Kyprianou.Ch03.momentSmallGaussianMarginalFiniteApproxV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T12:35:25.292658+00:00
 -- url     : https://prove2.me/theorems/6f1c4d49-c451-43c1-a2e3-dc5b7c6e36da

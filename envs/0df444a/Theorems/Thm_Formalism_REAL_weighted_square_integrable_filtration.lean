@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_weighted_square_integrable_filtration
 -- name    : Formalism.REAL.weighted_square_integrable_filtration
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:14:53.718458+00:00
 -- url     : https://prove2.me/theorems/01ff4a53-8acc-4e62-8afb-0e625320a234

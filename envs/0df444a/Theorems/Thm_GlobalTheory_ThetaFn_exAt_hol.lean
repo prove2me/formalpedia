@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFn_exAt_hol
 -- name    : GlobalTheory.ThetaFn.exAt_hol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:37:45.595805+00:00
 -- url     : https://prove2.me/theorems/de804599-1c18-4fe0-b089-f975804e196a

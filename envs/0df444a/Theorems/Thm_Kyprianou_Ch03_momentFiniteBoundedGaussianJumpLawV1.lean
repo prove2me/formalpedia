@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_momentFiniteBoundedGaussianJumpLawV1
 -- name    : Kyprianou.Ch03.momentFiniteBoundedGaussianJumpLawV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T13:20:21.753725+00:00
 -- url     : https://prove2.me/theorems/1c1f51e4-c657-41d1-a1ff-b84b43f183bc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisPowerRoots_isLocalRing_of_isInvariant
 -- name    : GlobalTheory.GaloisPowerRoots.isLocalRing_of_isInvariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:48:51.899941+00:00
 -- url     : https://prove2.me/theorems/e964f013-0393-4313-ac39-9bd71395aff2

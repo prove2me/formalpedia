@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnWCellW_weyl_cell_mul_apply
 -- name    : PI.QnWCellW.weyl_cell_mul_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:48:59.975188+00:00
 -- url     : https://prove2.me/theorems/87103edc-a543-44b6-9af1-dfd3bf667963

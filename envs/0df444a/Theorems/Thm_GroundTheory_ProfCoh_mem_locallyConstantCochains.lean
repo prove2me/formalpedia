@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_mem_locallyConstantCochains
 -- name    : GroundTheory.ProfCoh.mem_locallyConstantCochains
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:03:42.305331+00:00
 -- url     : https://prove2.me/theorems/d0a39b90-0c68-4a9f-963a-3ff1ca389743

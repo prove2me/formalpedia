@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_doubling_injective
 -- name    : Formalism.HC.Frame.doubling_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:51:45.2628+00:00
 -- url     : https://prove2.me/theorems/a4767f1d-8cb6-4c27-b681-cbba3d6ce56d

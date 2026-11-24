@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatDescent_existsUnique_baseChange_eq_of_mem
 -- name    : GlobalTheory.FlatDescent.existsUnique_baseChange_eq_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:33:01.211991+00:00
 -- url     : https://prove2.me/theorems/2f8d354a-d835-40af-bf5b-ba9ecf7a2224

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_QRR_ell_single_row
 -- name    : Formalism.FourierDecayAlt.Q.QRR.ell_single_row
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:39:02.239269+00:00
 -- url     : https://prove2.me/theorems/0fb4cda5-5e8c-4818-9ee6-752f7345475f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x9_S1_base_vector_levi_coordinate_zero
 -- name    : Formalism.FourierDecayAlt.P.B2x9.S1.base_vector_levi_coordinate_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:59:29.385485+00:00
 -- url     : https://prove2.me/theorems/9848a72c-a44a-4838-b9ba-b126e98e07d1

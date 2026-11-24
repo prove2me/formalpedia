@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnaryQuadraticKKT_Hardness_affine_equivalence
 -- name    : UnaryQuadraticKKT.Hardness.affine_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T15:46:31.168788+00:00
 -- url     : https://prove2.me/theorems/2ffe5ea5-9a15-4bc8-961a-a02cc77ee5eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_tk_herm_sum
 -- name    : Formalism.FourierDecayAlt.P.B2x8.tk_herm_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:59:45.995519+00:00
 -- url     : https://prove2.me/theorems/b537d4ce-b0de-42ab-a64f-247613beceea

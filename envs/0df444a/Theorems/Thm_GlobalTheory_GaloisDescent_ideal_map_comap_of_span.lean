@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescent_ideal_map_comap_of_span
 -- name    : GlobalTheory.GaloisDescent.ideal_map_comap_of_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:44:02.102819+00:00
 -- url     : https://prove2.me/theorems/5eeecda7-e463-4589-9570-2230bd6a194c

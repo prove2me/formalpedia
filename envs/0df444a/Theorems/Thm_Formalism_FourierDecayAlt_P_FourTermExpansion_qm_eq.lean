@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FourTermExpansion_qm_eq
 -- name    : Formalism.FourierDecayAlt.P.FourTermExpansion.qm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:04:47.914215+00:00
 -- url     : https://prove2.me/theorems/8f87b8f7-297f-48a6-a7fe-76e7cc570cec

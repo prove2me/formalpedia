@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LieDecompositionLocal_hconj_lie
 -- name    : Formalism.FourierDecayAlt.P.LieDecompositionLocal.hconj_lie
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:47:27.80288+00:00
 -- url     : https://prove2.me/theorems/15b613bc-ad4a-485e-8bab-33515873d07d

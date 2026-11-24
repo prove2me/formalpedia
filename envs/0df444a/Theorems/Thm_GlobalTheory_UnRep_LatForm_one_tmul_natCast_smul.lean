@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_LatForm_one_tmul_natCast_smul
 -- name    : GlobalTheory.UnRep.LatForm.one_tmul_natCast_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:54:54.517698+00:00
 -- url     : https://prove2.me/theorems/a3e3cb7d-b08a-48bd-99a3-51d15f0242ef

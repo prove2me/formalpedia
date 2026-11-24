@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QnFFZero_nset_uh
 -- name    : PI.UnitaryGroupMassFormula.QnFFZero.nset_uh
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:50:58.774796+00:00
 -- url     : https://prove2.me/theorems/53989923-a449-46ed-a2b5-44ec62c5ce6c

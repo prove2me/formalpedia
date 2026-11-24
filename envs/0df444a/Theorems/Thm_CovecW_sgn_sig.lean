@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CovecW_sgn_sig
 -- name    : CovecW.sgn_sig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:00:28.132963+00:00
 -- url     : https://prove2.me/theorems/010812d7-a6b2-44cb-8184-ef4991c29dff

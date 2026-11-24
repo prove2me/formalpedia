@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCRuleCW_opsW_length
 -- name    : CCRuleCW.opsW_length
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:56:49.160904+00:00
 -- url     : https://prove2.me/theorems/8ece0b06-cf1a-4934-95d9-d939ac3ad207

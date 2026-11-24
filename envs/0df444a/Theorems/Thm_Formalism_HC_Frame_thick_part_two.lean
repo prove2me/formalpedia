@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_thick_part_two
 -- name    : Formalism.HC.Frame.thick_part_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:34:48.405962+00:00
 -- url     : https://prove2.me/theorems/29c42d5f-73e6-483a-a045-ad0c20476e23

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_tau1_injective
 -- name    : Formalism.HC.Frame.tau1_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:53:24.134043+00:00
 -- url     : https://prove2.me/theorems/f475f96a-ae8a-40da-92d4-dab01e1d5fdf

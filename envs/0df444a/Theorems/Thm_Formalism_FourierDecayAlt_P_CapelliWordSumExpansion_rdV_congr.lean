@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CapelliWordSumExpansion_rdV_congr
 -- name    : Formalism.FourierDecayAlt.P.CapelliWordSumExpansion.rdV_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:29:21.216803+00:00
 -- url     : https://prove2.me/theorems/648e19d0-3b97-4a4e-a86a-cdfded18c978

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_GS_gram_comb
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.GS.gram_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:53:46.133884+00:00
 -- url     : https://prove2.me/theorems/1393f8af-d697-4008-85b6-180809cea602

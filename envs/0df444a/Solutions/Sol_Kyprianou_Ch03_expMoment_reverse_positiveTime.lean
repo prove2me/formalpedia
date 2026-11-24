@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.expMoment_reverse_positiveTime
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-18T18:56:19.411201+00:00
 -- url     : https://prove2.me/submissions/aa5b0664-8b55-414c-ba50-2a243936b4b1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

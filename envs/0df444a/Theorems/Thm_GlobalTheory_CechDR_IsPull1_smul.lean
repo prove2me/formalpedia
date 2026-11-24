@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_IsPull1_smul
 -- name    : GlobalTheory.CechDR.IsPull1.smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:54:45.042958+00:00
 -- url     : https://prove2.me/theorems/b1b15f3d-855d-4665-8012-99340fe86dcd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_integrable_step
 -- name    : GlobalTheory.FunObj.integrable_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:41:55.711954+00:00
 -- url     : https://prove2.me/theorems/2d9192f8-8576-4873-a62e-e9d69ddf1fda

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_inv_eq_hermitian_form_conjTranspose
 -- name    : Formalism.FourierDecayAlt.P.B6.inv_eq_hermitian_form_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:02:22.554372+00:00
 -- url     : https://prove2.me/theorems/70bedc6d-724d-4f23-9e74-cdbfc8ef9e24

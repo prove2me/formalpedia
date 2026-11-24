@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LieAlgebraWeightVectors_cb_rho_bounds
 -- name    : Formalism.FourierDecayAlt.Q.LieAlgebraWeightVectors.cb_rho_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:46:37.287417+00:00
 -- url     : https://prove2.me/theorems/24e65e68-256c-4846-b9c0-68423d0c2e13

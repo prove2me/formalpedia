@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_InvHom_tr_preimage
 -- name    : GlobalTheory.KS.InvHom.tr_preimage
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:37:56.51248+00:00
 -- url     : https://prove2.me/theorems/bd689402-512b-4106-a1b9-cc4e04ced544

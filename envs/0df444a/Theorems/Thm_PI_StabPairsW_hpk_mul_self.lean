@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairsW_hpk_mul_self
 -- name    : PI.StabPairsW.hpk_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:46:23.737502+00:00
 -- url     : https://prove2.me/theorems/d65673ad-dadb-475b-a93c-54621fccba21

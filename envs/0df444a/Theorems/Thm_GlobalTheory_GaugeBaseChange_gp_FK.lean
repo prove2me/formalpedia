@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeBaseChange_gp_FK
 -- name    : GlobalTheory.GaugeBaseChange.gp_FK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:49:27.471031+00:00
 -- url     : https://prove2.me/theorems/281c18e1-bb5b-4500-b5a3-fa09f390b241

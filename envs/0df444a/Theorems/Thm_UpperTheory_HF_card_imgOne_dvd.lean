@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_card_imgOne_dvd
 -- name    : UpperTheory.HF.card_imgOne_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:55:34.987498+00:00
 -- url     : https://prove2.me/theorems/4004086e-599e-4f7b-9e53-7c5022ecac6c

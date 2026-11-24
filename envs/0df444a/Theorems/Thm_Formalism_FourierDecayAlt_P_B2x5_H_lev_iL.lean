@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x5_H_lev_iL
 -- name    : Formalism.FourierDecayAlt.P.B2x5.H_lev_iL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:56:48.358183+00:00
 -- url     : https://prove2.me/theorems/4e0cb164-f155-4023-a807-ba3f5530dfac

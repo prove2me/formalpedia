@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_three_block_injective
 -- name    : Formalism.FourierDecayAlt.P.B2x8.three_block_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:59:57.876806+00:00
 -- url     : https://prove2.me/theorems/0436ebd2-d667-469f-a473-59e1bf9aed3b

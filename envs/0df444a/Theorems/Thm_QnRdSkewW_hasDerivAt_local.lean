@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QnRdSkewW_hasDerivAt_local
 -- name    : QnRdSkewW.hasDerivAt_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:51:45.615813+00:00
 -- url     : https://prove2.me/theorems/914fea53-c204-43a5-946d-a3f1fb584612

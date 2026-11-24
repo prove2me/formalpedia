@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_hermitian_entry_zero_or_weights_cancel
 -- name    : Formalism.FourierDecayAlt.P.B6.hermitian_entry_zero_or_weights_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:02:14.582834+00:00
 -- url     : https://prove2.me/theorems/cbe3c810-5133-499f-8a07-cee0c18f1c9f

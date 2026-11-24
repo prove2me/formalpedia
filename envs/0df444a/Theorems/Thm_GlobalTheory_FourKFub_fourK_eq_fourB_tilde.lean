@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FourKFub_fourK_eq_fourB_tilde
 -- name    : GlobalTheory.FourKFub.fourK_eq_fourB_tilde
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:36:10.806799+00:00
 -- url     : https://prove2.me/theorems/c2b1e6ed-3a1c-4741-97cc-0f3864680402

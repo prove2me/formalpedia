@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z0_SGB_extE_apply
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z0.SGB.extE_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:37:24.871488+00:00
 -- url     : https://prove2.me/theorems/131c2756-21fa-4404-9c77-8e9172bfa9eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussHerm_det_toEuclideanLin
 -- name    : GlobalTheory.GaussHerm.det_toEuclideanLin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:51:04.825829+00:00
 -- url     : https://prove2.me/theorems/5d6e8156-c780-462e-9956-dfa5d467c6ed

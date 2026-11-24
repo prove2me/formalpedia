@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x4_heis_isom
 -- name    : Formalism.FourierDecayAlt.P.B2x4.heis_isom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:56:32.3738+00:00
 -- url     : https://prove2.me/theorems/b972825d-8a70-44e3-97d4-0edf63a12b01

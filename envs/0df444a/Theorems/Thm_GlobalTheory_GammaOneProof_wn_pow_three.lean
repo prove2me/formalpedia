@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GammaOneProof_wn_pow_three
 -- name    : GlobalTheory.GammaOneProof.wn_pow_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:49:29.838036+00:00
 -- url     : https://prove2.me/theorems/53dc28d8-f7c2-42ab-b033-868c489559c1

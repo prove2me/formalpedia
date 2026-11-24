@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_q_ne_two
 -- name    : Formalism.HC.HostRaw.q_ne_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:14:41.564908+00:00
 -- url     : https://prove2.me/theorems/f5fb38c2-40f4-43a3-b00d-f338abf640e2

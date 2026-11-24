@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescent_contract_map
 -- name    : GlobalTheory.GaloisDescent.contract_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:43:25.174995+00:00
 -- url     : https://prove2.me/theorems/583bc017-697a-4c93-b4eb-54edfe6059d7

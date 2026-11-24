@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFn_exAt_mem_twist_chart_iff
 -- name    : GlobalTheory.ThetaFn.exAt_mem_twist_chart_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:55:43.508769+00:00
 -- url     : https://prove2.me/theorems/e35cf2f9-e570-419e-acba-698ac7f914df

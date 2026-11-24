@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x5_hermitian_levi_entry_zero
 -- name    : Formalism.FourierDecayAlt.P.B2x5.hermitian_levi_entry_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:57:59.908245+00:00
 -- url     : https://prove2.me/theorems/486312f2-4a85-4576-9f9e-bbeba93ea54f

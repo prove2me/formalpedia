@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DenseBasis_exists_lift
 -- name    : GlobalTheory.DenseBasis.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:43:32.357858+00:00
 -- url     : https://prove2.me/theorems/3439fb6a-5a67-4d66-99b3-ec53cb5e2c28

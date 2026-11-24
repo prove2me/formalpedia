@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_conj_inverse_map_measurable
 -- name    : Formalism.FourierDecayAlt.P.B2x8.conj_inverse_map_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:59:33.636911+00:00
 -- url     : https://prove2.me/theorems/d6d89a45-b96a-4007-bdd9-35db0da9ce88

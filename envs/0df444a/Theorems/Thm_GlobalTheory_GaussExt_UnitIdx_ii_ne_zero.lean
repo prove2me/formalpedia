@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussExt_UnitIdx_ii_ne_zero
 -- name    : GlobalTheory.GaussExt.UnitIdx.ii_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:50:52.522906+00:00
 -- url     : https://prove2.me/theorems/e85b59d8-f8c5-415d-8176-a7b3d4f57ba5

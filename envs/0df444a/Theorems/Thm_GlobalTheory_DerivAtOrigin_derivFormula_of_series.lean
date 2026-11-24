@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DerivAtOrigin_derivFormula_of_series
 -- name    : GlobalTheory.DerivAtOrigin.derivFormula_of_series
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:43:20.977581+00:00
 -- url     : https://prove2.me/theorems/fcc7b512-7234-489b-8133-33b5e40b0a67

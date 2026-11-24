@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibLine_fibPow_diagonal
 -- name    : GlobalTheory.FibLine.fibPow_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:23:18.191197+00:00
 -- url     : https://prove2.me/theorems/92c53e09-9967-47ae-a978-9585ec8ea547

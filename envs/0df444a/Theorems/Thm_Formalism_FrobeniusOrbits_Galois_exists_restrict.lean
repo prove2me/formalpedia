@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Galois_exists_restrict
 -- name    : Formalism.FrobeniusOrbits.Galois.exists_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:53:17.519561+00:00
 -- url     : https://prove2.me/theorems/40af7ae9-ce96-4d41-8619-42fcc40e51f5

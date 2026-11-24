@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescent_exists_finsupp_contract
 -- name    : GlobalTheory.GaloisDescent.exists_finsupp_contract
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:42:31.014168+00:00
 -- url     : https://prove2.me/theorems/e5403745-d62b-44b8-85a1-bb274bceaa0b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_FormulaFAux_lift_kills_last_basis
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.FormulaFAux.lift_kills_last_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:54:19.076679+00:00
 -- url     : https://prove2.me/theorems/a1a10721-5c8d-4e71-96fe-ff39d266f197

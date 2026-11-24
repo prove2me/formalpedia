@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiltrationMultiplicative_main
 -- name    : GlobalTheory.FiltrationMultiplicative.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:23:58.696285+00:00
 -- url     : https://prove2.me/theorems/bd2cf523-2382-4fb2-a0c8-da80da43b784

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_odd_of_coprime
 -- name    : Formalism.HC.HostRaw.odd_of_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:15:18.23385+00:00
 -- url     : https://prove2.me/theorems/0ab68790-71fb-47cd-a3ea-4a9011e6b6d7

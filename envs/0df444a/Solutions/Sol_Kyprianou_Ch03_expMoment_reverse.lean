@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.expMoment_reverse
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-18T19:01:40.784094+00:00
 -- url     : https://prove2.me/submissions/d358e4d5-fd5a-48fc-b2db-0d518c27f073
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

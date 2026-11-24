@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_Base0_ofReal_rpow_neg_anti
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.Base0.ofReal_rpow_neg_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:54:57.371783+00:00
 -- url     : https://prove2.me/theorems/09a513e2-e2f5-46d4-8e10-2239ff2fdb46

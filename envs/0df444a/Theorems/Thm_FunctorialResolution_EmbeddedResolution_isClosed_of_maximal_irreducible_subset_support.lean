@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isClosed_of_maximal_irreducible_subset_support
 -- name    : FunctorialResolution.EmbeddedResolution.isClosed_of_maximal_irreducible_subset_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:02:20.028427+00:00
 -- url     : https://prove2.me/theorems/69b57b22-6b06-4e1f-a8c5-78acf6bc0984

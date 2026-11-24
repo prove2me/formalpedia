@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnLevBasicsW_level_group_nilpotent
 -- name    : PI.QnLevBasicsW.level_group_nilpotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:29:00.868582+00:00
 -- url     : https://prove2.me/theorems/0383adb0-c41b-40c4-b6d1-e269358a6890

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_GS_inner_bvec
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.GS.inner_bvec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:54:15.402404+00:00
 -- url     : https://prove2.me/theorems/b01eb4ef-00fa-44c6-bcde-bce38ada7a6c

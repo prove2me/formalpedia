@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabSplit_UnipW_star_dotProduct_Hpk_mulVec_eq_sum_sub
 -- name    : PI.StabSplit.UnipW.star_dotProduct_Hpk_mulVec_eq_sum_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:47:08.55135+00:00
 -- url     : https://prove2.me/theorems/4cee78a6-74f3-403c-bb05-5fd0d31d8aa4

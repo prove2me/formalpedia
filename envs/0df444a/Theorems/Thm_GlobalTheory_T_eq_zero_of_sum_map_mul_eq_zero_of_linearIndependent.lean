@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eq_zero_of_sum_map_mul_eq_zero_of_linearIndependent
 -- name    : GlobalTheory.T.eq_zero_of_sum_map_mul_eq_zero_of_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:04:49.32531+00:00
 -- url     : https://prove2.me/theorems/2a854fbd-ecc7-4b98-89be-2270459b9780

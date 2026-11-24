@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GammaOneProof_wS_pow_four
 -- name    : GlobalTheory.GammaOneProof.wS_pow_four
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:49:50.441768+00:00
 -- url     : https://prove2.me/theorems/23a5ff6e-b2f0-4763-83f6-b0854e042374

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameNet_exists_net_of_matrices
 -- name    : GlobalTheory.FrameNet.exists_net_of_matrices
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:37:53.429951+00:00
 -- url     : https://prove2.me/theorems/be3856b8-02f8-40f7-9b46-a4287282ea71

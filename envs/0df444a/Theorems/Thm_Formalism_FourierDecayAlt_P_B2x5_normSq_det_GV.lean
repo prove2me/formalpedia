@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x5_normSq_det_GV
 -- name    : Formalism.FourierDecayAlt.P.B2x5.normSq_det_GV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:58:33.275964+00:00
 -- url     : https://prove2.me/theorems/7c090267-52b3-4d69-8b44-0d7918421b3d

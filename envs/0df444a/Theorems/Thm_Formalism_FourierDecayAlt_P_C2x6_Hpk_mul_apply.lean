@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_C2x6_Hpk_mul_apply
 -- name    : Formalism.FourierDecayAlt.P.C2x6.Hpk_mul_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:49:40.734688+00:00
 -- url     : https://prove2.me/theorems/cf59061f-844f-4040-8a8d-23a8f724b639

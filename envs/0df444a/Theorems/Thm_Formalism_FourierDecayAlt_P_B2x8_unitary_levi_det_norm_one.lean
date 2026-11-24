@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_unitary_levi_det_norm_one
 -- name    : Formalism.FourierDecayAlt.P.B2x8.unitary_levi_det_norm_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:00:50.372688+00:00
 -- url     : https://prove2.me/theorems/1a5ab2d3-5e62-459e-8f16-3ddfd310422f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_pureTensor_fill
 -- name    : GlobalTheory.FunObj.pureTensor_fill
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:04:28.433868+00:00
 -- url     : https://prove2.me/theorems/c3f2f176-481c-4499-87d9-02e1f096e115

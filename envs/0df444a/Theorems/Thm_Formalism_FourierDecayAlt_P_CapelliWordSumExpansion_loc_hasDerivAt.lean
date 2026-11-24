@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CapelliWordSumExpansion_loc_hasDerivAt
 -- name    : Formalism.FourierDecayAlt.P.CapelliWordSumExpansion.loc_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:29:16.363804+00:00
 -- url     : https://prove2.me/theorems/c58a1670-b85d-4e59-8c7c-9595cd8709e8

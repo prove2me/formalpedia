@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Cond_gs_ne_zero
 -- name    : Formalism.FrobeniusOrbits.Cond.gs_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:11:27.788662+00:00
 -- url     : https://prove2.me/theorems/f92f5ddb-fd88-475a-a7cf-e1b5b3ebc856

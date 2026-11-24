@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_q_not_dvd_QS
 -- name    : Formalism.HC.HostRaw.q_not_dvd_QS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:35:24.932583+00:00
 -- url     : https://prove2.me/theorems/d3f3f721-1153-4920-b6ed-e68f9ff9c619

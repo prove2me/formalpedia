@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_LogDeriv_additive_mul_eq_conv
 -- name    : GlobalTheory.CuspGL.LogDeriv.additive_mul_eq_conv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:30:12.212988+00:00
 -- url     : https://prove2.me/theorems/075e7db0-9f4d-4756-b311-dc1229163602

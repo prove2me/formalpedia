@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_PolynomialProperness_TauW_fvec_last__592450600e93
 -- name    : P2M_PI_PolynomialProperness_TauW_fvec_last__592450600e93
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:53:57.576152+00:00
 -- url     : https://prove2.me/theorems/901b793e-6d93-410c-8206-56a6fdb4e137

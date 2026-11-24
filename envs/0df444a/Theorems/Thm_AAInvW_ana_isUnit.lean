@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_ana_isUnit
 -- name    : AAInvW.ana_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:55:54.648602+00:00
 -- url     : https://prove2.me/theorems/bcec0284-cb93-47aa-a63f-ecce9f66360c

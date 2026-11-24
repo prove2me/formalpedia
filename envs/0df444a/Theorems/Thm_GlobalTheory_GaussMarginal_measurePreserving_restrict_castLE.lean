@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussMarginal_measurePreserving_restrict_castLE
 -- name    : GlobalTheory.GaussMarginal.measurePreserving_restrict_castLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:54:59.670539+00:00
 -- url     : https://prove2.me/theorems/620bc0d5-fb46-4717-91f9-d6601cd0aefa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B7_u_norm_om_integrand
 -- name    : Formalism.FourierDecayAlt.P.B7.u_norm_om_integrand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:08:06.558024+00:00
 -- url     : https://prove2.me/theorems/29f74580-d338-4530-8d3c-dc03b8ddef27

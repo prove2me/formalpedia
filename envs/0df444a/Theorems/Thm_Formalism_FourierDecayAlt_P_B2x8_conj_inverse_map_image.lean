@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_conj_inverse_map_image
 -- name    : Formalism.FourierDecayAlt.P.B2x8.conj_inverse_map_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:59:41.391536+00:00
 -- url     : https://prove2.me/theorems/80508e9c-e518-450a-8b2d-2310cda321c9

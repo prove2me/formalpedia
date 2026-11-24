@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B5_rho_norm_le
 -- name    : Formalism.FourierDecayAlt.P.B5.rho_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:01:12.155171+00:00
 -- url     : https://prove2.me/theorems/604acad8-a2fc-4c7e-a28a-6b1271bacc97

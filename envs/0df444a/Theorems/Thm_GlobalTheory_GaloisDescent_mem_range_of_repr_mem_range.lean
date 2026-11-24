@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescent_mem_range_of_repr_mem_range
 -- name    : GlobalTheory.GaloisDescent.mem_range_of_repr_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:48:27.941213+00:00
 -- url     : https://prove2.me/theorems/58e6831a-ca5e-4de1-9271-841e80ecd3fe

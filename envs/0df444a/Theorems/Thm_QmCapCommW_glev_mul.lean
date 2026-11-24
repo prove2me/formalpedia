@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QmCapCommW_glev_mul
 -- name    : QmCapCommW.glev_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:52:48.600329+00:00
 -- url     : https://prove2.me/theorems/524ee788-a597-4a40-ad69-39c5168190a2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePull_ev_actK_hL
 -- name    : GlobalTheory.FramePull.ev_actK_hL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:56:03.488906+00:00
 -- url     : https://prove2.me/theorems/a0f9dddd-4da1-4c30-8bd3-df14b315557d

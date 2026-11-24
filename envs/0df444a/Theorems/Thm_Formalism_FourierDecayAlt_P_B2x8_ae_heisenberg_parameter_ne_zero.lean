@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_ae_heisenberg_parameter_ne_zero
 -- name    : Formalism.FourierDecayAlt.P.B2x8.ae_heisenberg_parameter_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:58:18.373588+00:00
 -- url     : https://prove2.me/theorems/f2567115-3d01-4cf5-8557-fc157fbb875f

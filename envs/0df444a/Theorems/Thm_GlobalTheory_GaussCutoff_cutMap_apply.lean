@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussCutoff_cutMap_apply
 -- name    : GlobalTheory.GaussCutoff.cutMap_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:51:39.876804+00:00
 -- url     : https://prove2.me/theorems/0dfb6b73-1e6e-4142-b972-8d96e061c9d0

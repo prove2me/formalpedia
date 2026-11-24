@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FullFlag_exists_isAdapted_of_free
 -- name    : GlobalTheory.FullFlag.exists_isAdapted_of_free
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:46:21.661705+00:00
 -- url     : https://prove2.me/theorems/125540bc-7102-4161-aee5-b97c71dcf9ae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B3_box_tendsto
 -- name    : Formalism.FourierDecayAlt.P.B3.box_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:29:20.158062+00:00
 -- url     : https://prove2.me/theorems/87b0a5e1-08eb-478a-8dc5-65f4d8007675

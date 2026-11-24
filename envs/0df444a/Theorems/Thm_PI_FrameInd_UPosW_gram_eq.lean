@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FrameInd_UPosW_gram_eq
 -- name    : PI.FrameInd.UPosW.gram_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:18:16.849796+00:00
 -- url     : https://prove2.me/theorems/ca504f31-82c7-4c1c-99a7-40ef2be0e828

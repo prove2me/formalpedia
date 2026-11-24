@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ResPlug_FromRes_inSNCPosition_of_hasSNC
 -- name    : PositivityTheory.ResPlug.FromRes.inSNCPosition_of_hasSNC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:05:43.547797+00:00
 -- url     : https://prove2.me/theorems/00aa52b3-12fa-4374-9709-455899e0abd1

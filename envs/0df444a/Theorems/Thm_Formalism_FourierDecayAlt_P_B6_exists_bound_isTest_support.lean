@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_exists_bound_isTest_support
 -- name    : Formalism.FourierDecayAlt.P.B6.exists_bound_isTest_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:01:33.801621+00:00
 -- url     : https://prove2.me/theorems/1367b9f6-6fb8-4ef4-9a15-b7d2962c5ce1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_regularised_pairing_smul
 -- name    : Formalism.FourierDecayAlt.P.B6.regularised_pairing_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:05:24.948082+00:00
 -- url     : https://prove2.me/theorems/9ed887c0-ee28-4c35-821d-a7e765d8640e

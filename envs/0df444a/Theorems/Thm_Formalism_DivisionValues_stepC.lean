@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_stepC
 -- name    : Formalism.DivisionValues.stepC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:04:59.363101+00:00
 -- url     : https://prove2.me/theorems/0c4daad7-add9-4885-a43b-aff4cfbe02b0

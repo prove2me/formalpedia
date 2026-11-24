@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_Formalism_HC_HostRaw_mem_inertG
 -- name    : UpperTheory.HF.Formalism.HC.HostRaw.mem_inertG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:27:07.122907+00:00
 -- url     : https://prove2.me/theorems/9c9ba8de-43b8-4464-a243-e4b15cc7d026

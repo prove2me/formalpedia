@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_bfs_layer_step
 -- name    : WilliamsonShmoys.bfs_layer_step
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-24T16:02:39.916809+00:00
 -- url     : https://prove2.me/theorems/a5c55481-4661-4c11-acb1-34bcbafbbcd2

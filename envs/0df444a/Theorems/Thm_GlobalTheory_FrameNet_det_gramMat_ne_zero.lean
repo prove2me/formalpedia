@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameNet_det_gramMat_ne_zero
 -- name    : GlobalTheory.FrameNet.det_gramMat_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:37:58.654999+00:00
 -- url     : https://prove2.me/theorems/b02acb9b-2023-4ed3-9007-2f69146890a8

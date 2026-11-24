@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_existsUnique_glue_dual
 -- name    : GlobalTheory.Frames.existsUnique_glue_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:42:38.947877+00:00
 -- url     : https://prove2.me/theorems/f90b765a-8a08-4c2e-8236-80605e04a738

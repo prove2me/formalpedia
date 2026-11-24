@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_Formalism_HC_HostRaw_imgOne_anti
 -- name    : UpperTheory.HF.Formalism.HC.HostRaw.imgOne_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:26:49.028066+00:00
 -- url     : https://prove2.me/theorems/ea84f379-4284-4d71-8cfd-b1deecafc7a6

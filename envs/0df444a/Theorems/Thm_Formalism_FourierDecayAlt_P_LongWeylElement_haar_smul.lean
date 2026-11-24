@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LongWeylElement_haar_smul
 -- name    : Formalism.FourierDecayAlt.P.LongWeylElement.haar_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:03:10.163216+00:00
 -- url     : https://prove2.me/theorems/ccc0a2a0-d2fe-409d-a582-679aa1164fd9

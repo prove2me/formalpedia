@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_gval_eq_of_isGVal
 -- name    : GlobalTheory.HilbFam.gval_eq_of_isGVal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:16:01.326807+00:00
 -- url     : https://prove2.me/theorems/04c1fa96-6c99-4636-9ff1-52ef6aa38c3e

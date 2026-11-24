@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussExt_gEmb_mul_ii
 -- name    : GlobalTheory.GaussExt.gEmb_mul_ii
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:50:46.70569+00:00
 -- url     : https://prove2.me/theorems/2f7bbfb4-cb48-4080-bca1-ed2f53c38774

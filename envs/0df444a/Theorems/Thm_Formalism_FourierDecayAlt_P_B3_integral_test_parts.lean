@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B3_integral_test_parts
 -- name    : Formalism.FourierDecayAlt.P.B3.integral_test_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:29:06.996412+00:00
 -- url     : https://prove2.me/theorems/efb4c261-3a09-4ab8-9e8f-cf533570a41d

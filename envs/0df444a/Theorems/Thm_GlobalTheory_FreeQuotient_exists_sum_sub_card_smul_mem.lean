@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FreeQuotient_exists_sum_sub_card_smul_mem
 -- name    : GlobalTheory.FreeQuotient.exists_sum_sub_card_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:47:37.72415+00:00
 -- url     : https://prove2.me/theorems/b31c7984-4fc2-4d5c-9bb5-73253171a501

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussInt_gaussSum_mul_gaussSum_inv_of_isPrimitive
 -- name    : GlobalTheory.GaussInt.gaussSum_mul_gaussSum_inv_of_isPrimitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:55:22.619744+00:00
 -- url     : https://prove2.me/theorems/f7bc56c8-71bd-4b2a-a2a8-b54e8ea79c1d

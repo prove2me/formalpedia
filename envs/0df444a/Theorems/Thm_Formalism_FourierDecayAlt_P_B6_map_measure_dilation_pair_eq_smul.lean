@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_map_measure_dilation_pair_eq_smul
 -- name    : Formalism.FourierDecayAlt.P.B6.map_measure_dilation_pair_eq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:04:18.49498+00:00
 -- url     : https://prove2.me/theorems/3aaf8bb5-645d-46e5-a874-7af72fc5c2ed

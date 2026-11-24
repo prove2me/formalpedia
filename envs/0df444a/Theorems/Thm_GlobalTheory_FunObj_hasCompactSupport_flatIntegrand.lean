@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_hasCompactSupport_flatIntegrand
 -- name    : GlobalTheory.FunObj.hasCompactSupport_flatIntegrand
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:13:20.048103+00:00
 -- url     : https://prove2.me/theorems/d5e2ecaa-4a54-4bfd-ad89-a827adce1242

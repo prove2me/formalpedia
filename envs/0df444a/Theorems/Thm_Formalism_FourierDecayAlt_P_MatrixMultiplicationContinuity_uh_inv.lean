@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MatrixMultiplicationContinuity_uh_inv
 -- name    : Formalism.FourierDecayAlt.P.MatrixMultiplicationContinuity.uh_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:48:53.411579+00:00
 -- url     : https://prove2.me/theorems/2e86160f-417e-49ae-bc32-a71dfe07a898

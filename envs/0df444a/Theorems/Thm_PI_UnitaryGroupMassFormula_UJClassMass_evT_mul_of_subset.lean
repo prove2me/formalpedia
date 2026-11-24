@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_evT_mul_of_subset
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.evT_mul_of_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:52:18.293894+00:00
 -- url     : https://prove2.me/theorems/f26bd725-a3c2-4bd4-8e81-9be834c5801d

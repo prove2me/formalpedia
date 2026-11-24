@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_quadrant_is_open
 -- name    : Formalism.FourierDecayAlt.P.B6.quadrant_is_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:09:04.185101+00:00
 -- url     : https://prove2.me/theorems/78324db0-2679-43fe-8a8e-80f625523d61

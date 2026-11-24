@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_norm_rep_generators_and_thetaSeriesTerm
 -- name    : GlobalTheory.T.norm_rep_generators_and_thetaSeriesTerm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:52:40.83529+00:00
 -- url     : https://prove2.me/theorems/3341d8a6-bcb4-44ce-8c9c-c67e3cbb8f7f

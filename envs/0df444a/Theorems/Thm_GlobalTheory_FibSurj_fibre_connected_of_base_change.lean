@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibSurj_fibre_connected_of_base_change
 -- name    : GlobalTheory.FibSurj.fibre_connected_of_base_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:23:21.708733+00:00
 -- url     : https://prove2.me/theorems/ac637fbc-c0c1-46e1-b0c4-752198a8076f

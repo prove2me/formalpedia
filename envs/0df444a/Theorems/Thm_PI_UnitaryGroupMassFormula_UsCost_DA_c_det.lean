@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_DA_c_det
 -- name    : PI.UnitaryGroupMassFormula.UsCost.DA.c_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:51:03.629675+00:00
 -- url     : https://prove2.me/theorems/a9a92b1b-9483-41f7-8d53-4afe512ee5f0

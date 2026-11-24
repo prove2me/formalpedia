@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalSeries_exists_subst_eq
 -- name    : GlobalTheory.FormalSeries.exists_subst_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:36:19.742559+00:00
 -- url     : https://prove2.me/theorems/de0dda8d-a999-44f9-a11e-1aa1665a2496

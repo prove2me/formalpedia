@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ResPlug_FromRes_preimage_union_eq_strictTransform_union
 -- name    : PositivityTheory.ResPlug.FromRes.preimage_union_eq_strictTransform_union
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:05:13.237854+00:00
 -- url     : https://prove2.me/theorems/e2f9e721-5491-4809-b1d3-ef6ce8f4a95a

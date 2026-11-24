@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Rg_FlCls_exists_denom
 -- name    : CompanionTheory.Rg.FlCls.exists_denom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:57:17.164562+00:00
 -- url     : https://prove2.me/theorems/58cd893d-28f2-42c8-ac4b-cc4007b37acf

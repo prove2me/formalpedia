@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusNormal_antiJ_pm
 -- name    : GlobalTheory.TorusNormal.antiJ_pm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:10:06.503441+00:00
 -- url     : https://prove2.me/theorems/64f5606a-522e-469d-a974-691808efe660

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_GN_gN_mul_le
 -- name    : PI.PolynomialProperness.GN.gN_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:51:13.219822+00:00
 -- url     : https://prove2.me/theorems/6fc51690-e3ef-4e3a-a445-ace583a74877

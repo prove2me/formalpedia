@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameNet_norm_det_coord
 -- name    : GlobalTheory.FrameNet.norm_det_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:37:49.703009+00:00
 -- url     : https://prove2.me/theorems/4606075b-e649-4a0c-9afe-d4460cb557b3

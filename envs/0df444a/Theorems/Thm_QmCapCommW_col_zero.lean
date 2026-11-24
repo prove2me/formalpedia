@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QmCapCommW_col_zero
 -- name    : QmCapCommW.col_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:52:52.032138+00:00
 -- url     : https://prove2.me/theorems/a0de159d-9743-4b9d-ac01-8fed36742ae1

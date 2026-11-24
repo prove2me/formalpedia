@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_phase_function_smul_right
 -- name    : Formalism.FourierDecayAlt.P.B6.phase_function_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:04:39.140171+00:00
 -- url     : https://prove2.me/theorems/db49614a-b6aa-43b3-bd82-0132bfb43a6d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_rel_posL_bound
 -- name    : PI.QnHermHaar.rel_posL_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:19:36.166262+00:00
 -- url     : https://prove2.me/theorems/d9087b62-53b4-44d9-80aa-d1d2bceb0982

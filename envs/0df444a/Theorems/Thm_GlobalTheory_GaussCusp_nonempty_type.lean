@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussCusp_nonempty_type
 -- name    : GlobalTheory.GaussCusp.nonempty_type
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:51:16.26895+00:00
 -- url     : https://prove2.me/theorems/8457667f-ab9c-4908-8a0c-54fb2fbb5731

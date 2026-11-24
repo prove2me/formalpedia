@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_map_congr
 -- name    : GlobalTheory.Inertia.map_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:57:14.862856+00:00
 -- url     : https://prove2.me/theorems/d0edd35b-8516-4f50-9435-bdc3e1078723

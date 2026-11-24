@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_submulMoment_reverse
 -- name    : Kyprianou.Ch03.submulMoment_reverse
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T13:18:45.439612+00:00
 -- url     : https://prove2.me/theorems/7a61b1a8-a560-41d2-a066-3f0a1c5ad126

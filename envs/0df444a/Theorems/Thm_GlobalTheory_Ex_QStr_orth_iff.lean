@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_QStr_orth_iff
 -- name    : GlobalTheory.Ex.QStr.orth_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:06:29.131076+00:00
 -- url     : https://prove2.me/theorems/1a02b7c1-a247-492c-b16c-30f26dfa0859

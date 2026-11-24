@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCalc_mul_pderiv_formalLog
 -- name    : GlobalTheory.FormalCalc.mul_pderiv_formalLog
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:47:31.601622+00:00
 -- url     : https://prove2.me/theorems/95b4f2bd-1d4b-4594-a2b3-c49752834168

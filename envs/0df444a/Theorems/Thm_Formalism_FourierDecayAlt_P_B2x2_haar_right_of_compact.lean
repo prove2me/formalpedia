@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x2_haar_right_of_compact
 -- name    : Formalism.FourierDecayAlt.P.B2x2.haar_right_of_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:56:29.253805+00:00
 -- url     : https://prove2.me/theorems/786f92aa-e3da-4a3f-a180-f2b5ccf4e9bd

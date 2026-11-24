@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_inducedBlowups_transitionMap
 -- name    : FunctorialResolution.EmbeddedResolution.inducedBlowups_transitionMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:29:52.029607+00:00
 -- url     : https://prove2.me/theorems/92aaeff0-e2fb-4a7d-96ab-f43d6e1bf485

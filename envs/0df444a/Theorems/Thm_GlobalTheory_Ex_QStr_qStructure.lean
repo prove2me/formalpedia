@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_QStr_qStructure
 -- name    : GlobalTheory.Ex.QStr.qStructure
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:52:24.725097+00:00
 -- url     : https://prove2.me/theorems/293cefc0-1a07-4b7f-8cd1-72a0ccb8da8d

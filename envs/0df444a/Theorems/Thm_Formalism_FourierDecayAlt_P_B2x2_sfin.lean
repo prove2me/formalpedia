@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x2_sfin
 -- name    : Formalism.FourierDecayAlt.P.B2x2.sfin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:56:25.786654+00:00
 -- url     : https://prove2.me/theorems/872b5486-1cd2-4807-bdb3-34c6ef6ae268

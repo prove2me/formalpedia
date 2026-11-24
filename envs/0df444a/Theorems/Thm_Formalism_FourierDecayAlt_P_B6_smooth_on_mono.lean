@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_smooth_on_mono
 -- name    : Formalism.FourierDecayAlt.P.B6.smooth_on_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:05:18.192154+00:00
 -- url     : https://prove2.me/theorems/11f525b6-0933-47a6-b4bb-6b1d57a63e15

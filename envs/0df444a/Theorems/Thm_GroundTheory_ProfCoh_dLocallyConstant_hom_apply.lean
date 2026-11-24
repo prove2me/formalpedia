@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_dLocallyConstant_hom_apply
 -- name    : GroundTheory.ProfCoh.dLocallyConstant_hom_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:04:02.704995+00:00
 -- url     : https://prove2.me/theorems/e7954097-318b-46b3-aca6-52e48e20976b

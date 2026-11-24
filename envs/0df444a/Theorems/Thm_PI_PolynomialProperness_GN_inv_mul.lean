@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_GN_inv_mul
 -- name    : PI.PolynomialProperness.GN.inv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:00:30.891455+00:00
 -- url     : https://prove2.me/theorems/fa208e1b-d624-40d8-952a-61fd213528b8

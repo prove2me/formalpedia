@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_lf_sig_small
 -- name    : AAInvW.lf_sig_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:54:42.546262+00:00
 -- url     : https://prove2.me/theorems/4fe9f3c0-62a5-47d1-9e31-dfa27b939cc3

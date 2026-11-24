@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_C2x7_UW_sub_S
 -- name    : Formalism.FourierDecayAlt.P.C2x7.UW_sub_S
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:08:40.634516+00:00
 -- url     : https://prove2.me/theorems/61361abe-5932-43f4-86c9-fe57f6595b6d

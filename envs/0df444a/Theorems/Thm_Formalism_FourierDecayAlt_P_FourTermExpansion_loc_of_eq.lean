@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FourTermExpansion_loc_of_eq
 -- name    : Formalism.FourierDecayAlt.P.FourTermExpansion.loc_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:04:29.854822+00:00
 -- url     : https://prove2.me/theorems/5c86fa42-55c2-4e75-9eb6-ffdcc80c55d3

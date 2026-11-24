@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TPresLie_hasDerivAt_ext
 -- name    : Formalism.FourierDecayAlt.Q.TPresLie.hasDerivAt_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:58:40.788034+00:00
 -- url     : https://prove2.me/theorems/c9ba4046-3050-4ec1-b288-e9b4f3a07883

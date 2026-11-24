@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_dilation_action_measurable
 -- name    : Formalism.FourierDecayAlt.P.B6.dilation_action_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:01:25.378084+00:00
 -- url     : https://prove2.me/theorems/2704dbae-7756-4cdb-ac55-23fa7d0e038c

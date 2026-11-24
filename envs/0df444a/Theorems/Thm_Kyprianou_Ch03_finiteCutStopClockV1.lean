@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_finiteCutStopClockV1
 -- name    : Kyprianou.Ch03.finiteCutStopClockV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T15:13:19.399974+00:00
 -- url     : https://prove2.me/theorems/b9a1db3e-c0a3-4eb1-acc1-a3f83bc54e52

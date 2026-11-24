@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_momentLightMarginalExpAbsV1
 -- name    : Kyprianou.Ch03.momentLightMarginalExpAbsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T12:30:33.750271+00:00
 -- url     : https://prove2.me/theorems/0f7412ab-6d9b-475d-a824-3d08d9264198

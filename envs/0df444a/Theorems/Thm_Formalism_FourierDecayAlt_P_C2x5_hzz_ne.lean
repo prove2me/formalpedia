@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_C2x5_hzz_ne
 -- name    : Formalism.FourierDecayAlt.P.C2x5.hzz_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:48:47.578366+00:00
 -- url     : https://prove2.me/theorems/e026a9b9-4be8-4e21-85be-d8cccc01672e

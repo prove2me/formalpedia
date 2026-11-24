@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.submultiplicativeMomentsIffLargeJumpIntegral
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-18T13:20:14.406683+00:00
 -- url     : https://prove2.me/submissions/d0628f8d-9487-466f-aefc-731cfe0a1aa7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

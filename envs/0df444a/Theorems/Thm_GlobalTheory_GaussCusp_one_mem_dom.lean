@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussCusp_one_mem_dom
 -- name    : GlobalTheory.GaussCusp.one_mem_dom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:51:18.706564+00:00
 -- url     : https://prove2.me/theorems/e124d330-c126-44b4-9879-2f9c1543c2fd

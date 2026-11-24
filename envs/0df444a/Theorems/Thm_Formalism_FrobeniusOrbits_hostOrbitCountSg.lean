@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_hostOrbitCountSg
 -- name    : Formalism.FrobeniusOrbits.hostOrbitCountSg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:29:26.074116+00:00
 -- url     : https://prove2.me/theorems/55b4930c-126b-46d2-b38a-fb1569cb0f46

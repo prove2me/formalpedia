@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussExt_UnitIdx_exists_repr
 -- name    : GlobalTheory.GaussExt.UnitIdx.exists_repr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:50:27.670099+00:00
 -- url     : https://prove2.me/theorems/d2b339f3-d034-406c-99a2-f854f88e8a17

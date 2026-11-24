@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_act_one_hermitian_curvature
 -- name    : Formalism.FourierDecayAlt.P5.act_one_hermitian_curvature
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:09:04.618508+00:00
 -- url     : https://prove2.me/theorems/9a30d7ef-d78a-422c-86f1-296c0011af65

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussExt_UnitIdx_isIntegral_conj
 -- name    : GlobalTheory.GaussExt.UnitIdx.isIntegral_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:50:16.209524+00:00
 -- url     : https://prove2.me/theorems/41190327-d5a7-4633-b190-cb9d813be676

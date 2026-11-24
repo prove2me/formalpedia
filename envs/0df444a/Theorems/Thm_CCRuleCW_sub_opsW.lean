@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCRuleCW_sub_opsW
 -- name    : CCRuleCW.sub_opsW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:56:40.811291+00:00
 -- url     : https://prove2.me/theorems/7b2220a2-9a4b-4f8c-81e5-c19428672707

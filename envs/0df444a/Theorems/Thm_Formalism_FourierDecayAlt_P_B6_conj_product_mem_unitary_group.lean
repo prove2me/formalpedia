@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_conj_product_mem_unitary_group
 -- name    : Formalism.FourierDecayAlt.P.B6.conj_product_mem_unitary_group
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:01:01.016573+00:00
 -- url     : https://prove2.me/theorems/5467702c-51fb-4e95-b9a0-d75e5f0d1f33

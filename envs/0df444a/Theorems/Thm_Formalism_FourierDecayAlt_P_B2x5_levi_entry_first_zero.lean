@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x5_levi_entry_first_zero
 -- name    : Formalism.FourierDecayAlt.P.B2x5.levi_entry_first_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:58:20.930994+00:00
 -- url     : https://prove2.me/theorems/4d30ce65-e427-4d70-b599-b470a290afc0

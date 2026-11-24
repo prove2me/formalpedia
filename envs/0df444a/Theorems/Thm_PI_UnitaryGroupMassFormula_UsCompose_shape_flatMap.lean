@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCompose_shape_flatMap
 -- name    : PI.UnitaryGroupMassFormula.UsCompose.shape_flatMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:50:20.050547+00:00
 -- url     : https://prove2.me/theorems/64f6a158-17bd-4003-a0a1-a5fc1a769a0e

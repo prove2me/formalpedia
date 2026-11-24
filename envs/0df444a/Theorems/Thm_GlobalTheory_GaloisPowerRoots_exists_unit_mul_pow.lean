@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisPowerRoots_exists_unit_mul_pow
 -- name    : GlobalTheory.GaloisPowerRoots.exists_unit_mul_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:48:53.289442+00:00
 -- url     : https://prove2.me/theorems/7463bb20-ea6d-4003-ab30-f8d4411cd11f

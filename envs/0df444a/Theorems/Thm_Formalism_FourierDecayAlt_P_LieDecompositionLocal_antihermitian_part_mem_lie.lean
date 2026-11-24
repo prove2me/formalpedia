@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LieDecompositionLocal_antihermitian_part_mem_lie
 -- name    : Formalism.FourierDecayAlt.P.LieDecompositionLocal.antihermitian_part_mem_lie
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:47:53.987749+00:00
 -- url     : https://prove2.me/theorems/e5d74c55-aeca-44e5-b163-a611f306f9e6

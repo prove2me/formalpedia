@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_fourier_slice_in_x
 -- name    : Formalism.FourierDecayAlt.P.B6.fourier_slice_in_x
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:02:18.674848+00:00
 -- url     : https://prove2.me/theorems/a2398fc6-53f3-4fc1-980e-8c2be184f3e4

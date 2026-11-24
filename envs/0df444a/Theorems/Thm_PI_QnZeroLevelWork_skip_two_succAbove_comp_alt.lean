@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnZeroLevelWork_skip_two_succAbove_comp_alt
 -- name    : PI.QnZeroLevelWork.skip_two_succAbove_comp_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:47:23.886396+00:00
 -- url     : https://prove2.me/theorems/41531401-ce31-4409-bfdd-fcd7a95c82a6

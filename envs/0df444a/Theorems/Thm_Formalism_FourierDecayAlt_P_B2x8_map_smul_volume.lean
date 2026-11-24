@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_map_smul_volume
 -- name    : Formalism.FourierDecayAlt.P.B2x8.map_smul_volume
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:00:24.836692+00:00
 -- url     : https://prove2.me/theorems/82a5ba96-75ef-4a2f-9a07-4aeba57581f1

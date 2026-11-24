@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QnYLeibnizW_rdV_of_hasDerivAt
 -- name    : QnYLeibnizW.rdV_of_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:52:22.730022+00:00
 -- url     : https://prove2.me/theorems/bbf29e47-bb83-4fc1-bdc4-1f51ddfa2692

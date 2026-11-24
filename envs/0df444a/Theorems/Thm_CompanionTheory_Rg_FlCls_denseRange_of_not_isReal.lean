@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Rg_FlCls_denseRange_of_not_isReal
 -- name    : CompanionTheory.Rg.FlCls.denseRange_of_not_isReal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:57:49.388818+00:00
 -- url     : https://prove2.me/theorems/e4c5bf4a-4b26-4813-a0d2-446ff6405105

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunDescent_res_square_apply
 -- name    : GlobalTheory.FunDescent.res_square_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:36:12.139348+00:00
 -- url     : https://prove2.me/theorems/5b68810d-7936-4321-994d-cfc6caebfc06

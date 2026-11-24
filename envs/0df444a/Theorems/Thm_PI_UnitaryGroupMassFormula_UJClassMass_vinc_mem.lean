@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_vinc_mem
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.vinc_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:51:29.234957+00:00
 -- url     : https://prove2.me/theorems/67763809-8e83-4c5a-abfb-200f6ae17e55

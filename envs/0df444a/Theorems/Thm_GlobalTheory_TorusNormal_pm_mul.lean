@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusNormal_pm_mul
 -- name    : GlobalTheory.TorusNormal.pm_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:06:09.915328+00:00
 -- url     : https://prove2.me/theorems/c75e7656-36a1-4f03-97f6-e3ff3a16eb00

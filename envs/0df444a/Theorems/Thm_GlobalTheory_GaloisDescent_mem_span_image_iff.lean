@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescent_mem_span_image_iff
 -- name    : GlobalTheory.GaloisDescent.mem_span_image_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:52:04.059392+00:00
 -- url     : https://prove2.me/theorems/dd4a72ff-7215-4d82-8213-7773a68f3931

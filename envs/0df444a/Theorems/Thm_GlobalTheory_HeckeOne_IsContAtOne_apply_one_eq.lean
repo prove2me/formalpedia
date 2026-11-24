@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeOne_IsContAtOne_apply_one_eq
 -- name    : GlobalTheory.HeckeOne.IsContAtOne.apply_one_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:51:30.632908+00:00
 -- url     : https://prove2.me/theorems/8c9aa5f6-3164-4a5f-8437-d0f187acf326

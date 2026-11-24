@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_hk_eps_mul_self
 -- name    : AAInvW.hk_eps_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:54:57.714428+00:00
 -- url     : https://prove2.me/theorems/679b94fd-163e-4b40-943b-09dc8f231a56

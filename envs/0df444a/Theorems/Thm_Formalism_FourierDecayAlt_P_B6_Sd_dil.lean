@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_Sd_dil
 -- name    : Formalism.FourierDecayAlt.P.B6.Sd_dil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:01:42.910598+00:00
 -- url     : https://prove2.me/theorems/4e41175a-c925-422d-b953-2ea05b946242

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_GS_star_sgn
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.GS.star_sgn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:54:21.348881+00:00
 -- url     : https://prove2.me/theorems/a29f6cb0-f839-4cf4-9975-f87a193ebf89

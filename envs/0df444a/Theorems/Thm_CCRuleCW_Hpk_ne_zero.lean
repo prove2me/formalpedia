@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCRuleCW_Hpk_ne_zero
 -- name    : CCRuleCW.Hpk_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:55:24.537826+00:00
 -- url     : https://prove2.me/theorems/d3f7114c-6a23-4dbf-92c5-0150d83336c1

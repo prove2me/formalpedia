@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_Model_Phi_transpose
 -- name    : GlobalTheory.Tw.Model.Phi_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:01:43.684846+00:00
 -- url     : https://prove2.me/theorems/58dfd924-43ec-4482-84a4-fb72988b5778

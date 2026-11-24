@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_roots_outside_jointly
 -- name    : Formalism.FourierDecayAlt.P.roots_outside_jointly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:06:43.888681+00:00
 -- url     : https://prove2.me/theorems/d22d329d-0258-4232-98a1-8f0aec8b63ca

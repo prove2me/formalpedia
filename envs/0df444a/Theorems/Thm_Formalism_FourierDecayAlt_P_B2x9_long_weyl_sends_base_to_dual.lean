@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x9_long_weyl_sends_base_to_dual
 -- name    : Formalism.FourierDecayAlt.P.B2x9.long_weyl_sends_base_to_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:00:35.276726+00:00
 -- url     : https://prove2.me/theorems/33f02905-76fe-40b3-bcf9-92a1aa92f24f

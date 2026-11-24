@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_conj_mul_conj
 -- name    : Formalism.HC.HostRaw.conj_mul_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:11:43.922125+00:00
 -- url     : https://prove2.me/theorems/6f27e94d-5764-4a0e-98f0-4780846e0030

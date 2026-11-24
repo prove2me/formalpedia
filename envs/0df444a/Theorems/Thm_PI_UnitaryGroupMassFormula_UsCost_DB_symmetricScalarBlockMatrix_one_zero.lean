@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_DB_symmetricScalarBlockMatrix_one_zero
 -- name    : PI.UnitaryGroupMassFormula.UsCost.DB.symmetricScalarBlockMatrix_one_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:06:48.717836+00:00
 -- url     : https://prove2.me/theorems/cc126a95-59be-4315-96a7-5dd95c3fc3bd

@@ -94580,8 +94580,8 @@
 {"parent": "AvramDividend.Classical.avram_pj_reward76_eventwise_HJB_from_vanishing_positive_residual", "child": "AvramDividend.Classical.avram_pj_reward35_integrable_positive_residual_event_budget", "via": ["solution", "statement"]}
 {"parent": "DeletionCode.SignedSupport.suffix_gram", "child": "DeletionCode_SupportComponents", "via": ["solution", "statement"]}
 {"parent": "DeletionCode.SignedSupport.suffix_gram", "child": "DeletionCode_SignedSupport", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch03.stableFracMoment_forward", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.stableFracMoment_forward", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
+{"parent": "Kyprianou.Ch03.stableFracMoment_forward", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.stableFracMoment_forward", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "KoanaKPaths.Machine.Balanced.mergeOnes_exec", "child": "KoanaKPaths_Runtime_LiftNative", "via": ["solution", "statement"]}
 {"parent": "KoanaKPaths.Machine.Balanced.mergeOnes_exec", "child": "IntMul_SS_Defs1", "via": ["solution", "statement"]}
 {"parent": "KoanaKPaths.Machine.Balanced.mergeOnes_exec", "child": "KoanaKPaths_Runtime_TrialIndexing", "via": ["solution", "statement"]}

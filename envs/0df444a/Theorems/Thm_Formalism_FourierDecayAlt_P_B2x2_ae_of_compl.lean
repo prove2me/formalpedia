@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x2_ae_of_compl
 -- name    : Formalism.FourierDecayAlt.P.B2x2.ae_of_compl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:56:19.544831+00:00
 -- url     : https://prove2.me/theorems/c62ff3ea-09aa-454e-8288-10b9167bc9de

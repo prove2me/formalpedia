@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_weight_integrable_first_factor
 -- name    : Formalism.FourierDecayAlt.P.B6.weight_integrable_first_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:05:48.17752+00:00
 -- url     : https://prove2.me/theorems/7008a665-067a-473d-b948-9dda61e01e14

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z0_BR_gl_of_isom
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z0.BR.gl_of_isom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:55:02.8858+00:00
 -- url     : https://prove2.me/theorems/2928a7f7-d15c-49f5-9862-9aacac07e8e3

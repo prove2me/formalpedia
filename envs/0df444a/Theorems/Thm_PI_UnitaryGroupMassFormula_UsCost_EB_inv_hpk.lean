@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_EB_inv_hpk
 -- name    : PI.UnitaryGroupMassFormula.UsCost.EB_inv_hpk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:51:12.859065+00:00
 -- url     : https://prove2.me/theorems/5f6f53c1-3241-47e9-bcae-30a6aad956f1

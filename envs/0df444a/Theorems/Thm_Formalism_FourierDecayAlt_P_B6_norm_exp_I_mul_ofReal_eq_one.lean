@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_norm_exp_I_mul_ofReal_eq_one
 -- name    : Formalism.FourierDecayAlt.P.B6.norm_exp_I_mul_ofReal_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:05:25.572377+00:00
 -- url     : https://prove2.me/theorems/8036538d-e342-42d1-bc8e-f88c3a5c7270

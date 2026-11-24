@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_SymmetricSexticResidual_Proof_localInf_lead3_alg
 -- name    : HodgeComputer.SymmetricSexticResidual.Proof.localInf_lead3_alg
--- status  : Open
+-- status  : Proved
 -- author  : @benediamond
 -- created : 2026-11-24T15:56:43.283862+00:00
 -- url     : https://prove2.me/theorems/cb1b68e1-f4c0-4dfb-afe0-37298313f6a9

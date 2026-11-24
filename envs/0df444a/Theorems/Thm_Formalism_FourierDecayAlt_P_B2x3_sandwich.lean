@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x3_sandwich
 -- name    : Formalism.FourierDecayAlt.P.B2x3.sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:43:26.332395+00:00
 -- url     : https://prove2.me/theorems/44f2f812-b1de-4631-aaef-863e5a200e02

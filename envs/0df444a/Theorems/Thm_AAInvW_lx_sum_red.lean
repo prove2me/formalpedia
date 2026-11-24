@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_lx_sum_red
 -- name    : AAInvW.lx_sum_red
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:04:43.579143+00:00
 -- url     : https://prove2.me/theorems/42ce9b5b-069c-4d3d-80e7-a52b04186bd7

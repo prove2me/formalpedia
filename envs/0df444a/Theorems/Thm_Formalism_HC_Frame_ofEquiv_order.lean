@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_ofEquiv_order
 -- name    : Formalism.HC.Frame.ofEquiv_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:49:49.009409+00:00
 -- url     : https://prove2.me/theorems/8fac390c-d5a1-4a5b-a728-ee0c24b92ec4

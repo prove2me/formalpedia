@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePeriod_loc_compare
 -- name    : GlobalTheory.FramePeriod.loc_compare
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:40:30.820617+00:00
 -- url     : https://prove2.me/theorems/620f7b52-d0a2-46a9-925d-426bee8173eb

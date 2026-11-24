@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CovecW_zhat_lo
 -- name    : CovecW.zhat_lo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:00:24.173429+00:00
 -- url     : https://prove2.me/theorems/38365040-8bee-467e-bb6a-f46063994ad6

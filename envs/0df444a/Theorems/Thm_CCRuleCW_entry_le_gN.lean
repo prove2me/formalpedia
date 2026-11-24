@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCRuleCW_entry_le_gN
 -- name    : CCRuleCW.entry_le_gN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:56:13.749835+00:00
 -- url     : https://prove2.me/theorems/10d5c43d-0691-4e54-a195-7dab363de2a4

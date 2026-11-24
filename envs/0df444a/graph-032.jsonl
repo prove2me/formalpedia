@@ -54985,7 +54985,7 @@
 {"parent": "VertexSampleCSP.Supplement.theorem_E_1", "child": "VertexSampleCSP_Supplement_SampleAlgorithm", "via": ["statement"]}
 {"parent": "VertexSampleCSP.Supplement.theorem_E_1", "child": "VertexSampleCSP_Supplement_maxCutInstance", "via": ["statement"]}
 {"parent": "ARGFContract_Hardness_Supplement_Prefixes", "child": "ARGFContract_Hardness_Supplement_RealNetUtility", "via": ["statement"]}
-{"parent": "CatalyticTreeEval.Main.Supplement.lemma_3_14", "child": "CatalyticTreeEval_Main_Supplement_UniformConstructions", "via": ["statement"]}
+{"parent": "CatalyticTreeEval.Main.Supplement.lemma_3_14", "child": "CatalyticTreeEval_Main_Supplement_UniformConstructions", "via": ["solution", "statement"]}
 {"parent": "MinimaxInterventions1429.Separable.Supplement.inference_modulo_constants", "child": "MinimaxInterventions1429_Separable_Supplement_Groups", "via": ["statement"]}
 {"parent": "ParallelDiffusionLB.NearIsotropic.Supplement.lemma_B_3", "child": "ParallelDiffusionLB_NearIsotropic_Supplement_Box", "via": ["statement"]}
 {"parent": "ParallelDiffusionLB.NearIsotropic.Supplement.lemma_B_3", "child": "ParallelDiffusionLB_NearIsotropic_Simulation", "via": ["statement"]}
@@ -58057,7 +58057,7 @@
 {"parent": "DynSort.Supplement.theorem_3", "child": "DynSort_OnlineAlg", "via": ["statement"]}
 {"parent": "DynSort.Supplement.theorem_3", "child": "DynSort_Supplement_InsertOnly", "via": ["statement"]}
 {"parent": "DynSort.Supplement.theorem_3", "child": "DynSort_cost", "via": ["statement"]}
-{"parent": "ConstructiveArboricity.Exact.Supplement.rooted_equivalence", "child": "ConstructiveArboricity_Exact_Supplement_Rooted", "via": ["statement"]}
+{"parent": "ConstructiveArboricity.Exact.Supplement.rooted_equivalence", "child": "ConstructiveArboricity_Exact_Supplement_Rooted", "via": ["solution", "statement"]}
 {"parent": "MeanCertificates1424.Hardness.Supplement.lemma_3_10", "child": "MeanCertificates1424_Hardness_Supplement_Complexity", "via": ["statement"]}
 {"parent": "SuperRamanujan227_Main_Supplement_RootPolynomial", "child": "SuperRamanujan227_Main_Spectra", "via": ["statement"]}
 {"parent": "SmallBiasPRF.Supplement.theorem_6", "child": "SmallBiasPRF_GeneratesBiasedSpace", "via": ["statement"]}

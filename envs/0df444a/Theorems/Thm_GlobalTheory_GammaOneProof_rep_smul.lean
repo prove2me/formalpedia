@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GammaOneProof_rep_smul
 -- name    : GlobalTheory.GammaOneProof.rep_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:49:56.643134+00:00
 -- url     : https://prove2.me/theorems/116a8f7c-736d-403a-8830-485bbf4b4b47

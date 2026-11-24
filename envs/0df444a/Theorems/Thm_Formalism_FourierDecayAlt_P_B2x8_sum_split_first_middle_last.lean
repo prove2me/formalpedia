@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_sum_split_first_middle_last
 -- name    : Formalism.FourierDecayAlt.P.B2x8.sum_split_first_middle_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:59:17.268812+00:00
 -- url     : https://prove2.me/theorems/540f8233-5dc3-4ea9-a1b2-7093c8767ade

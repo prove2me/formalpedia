@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_GS_linInd_toLp
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.GS.linInd_toLp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:53:45.627577+00:00
 -- url     : https://prove2.me/theorems/bfbe0dd1-a4f6-470b-aaf7-e8d80a6ec87c

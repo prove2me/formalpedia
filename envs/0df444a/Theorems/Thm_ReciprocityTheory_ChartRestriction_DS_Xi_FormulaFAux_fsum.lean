@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_FormulaFAux_fsum
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.FormulaFAux.fsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:55:15.343799+00:00
 -- url     : https://prove2.me/theorems/c988490a-987b-4d56-85f6-f06f90efa799

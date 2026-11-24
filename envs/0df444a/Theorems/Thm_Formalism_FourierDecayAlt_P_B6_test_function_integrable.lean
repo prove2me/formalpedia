@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_test_function_integrable
 -- name    : Formalism.FourierDecayAlt.P.B6.test_function_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:05:29.593468+00:00
 -- url     : https://prove2.me/theorems/50258089-16de-4bfc-9ee0-0a6eb4cb8784

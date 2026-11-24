@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_lf_inUH_mul
 -- name    : AAInvW.lf_inUH_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:54:48.862124+00:00
 -- url     : https://prove2.me/theorems/f5a8670c-0790-4a10-91f2-1f6bf2f9bd3b

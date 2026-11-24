@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_continuous_pairPhase
 -- name    : GlobalTheory.FunObj.continuous_pairPhase
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:42:08.290805+00:00
 -- url     : https://prove2.me/theorems/9645cebd-6ac9-4e84-9dcc-8d54e26c2caf

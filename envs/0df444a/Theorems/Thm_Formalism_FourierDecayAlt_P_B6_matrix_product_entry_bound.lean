@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_matrix_product_entry_bound
 -- name    : Formalism.FourierDecayAlt.P.B6.matrix_product_entry_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:04:57.488631+00:00
 -- url     : https://prove2.me/theorems/dec1835d-1cd1-4bea-a431-a289b6648ece

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_expMoment_reverse_positiveTime
 -- name    : Kyprianou.Ch03.expMoment_reverse_positiveTime
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T18:49:30.695487+00:00
 -- url     : https://prove2.me/theorems/1a41bce3-2146-46ac-8aed-c8fa5993cddf

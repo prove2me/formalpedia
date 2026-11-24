@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_weyl_subgroup_closed
 -- name    : Formalism.FourierDecayAlt.P.weyl_subgroup_closed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:41:20.962219+00:00
 -- url     : https://prove2.me/theorems/dbb0891c-7612-4c94-9700-48ffa1517f7d

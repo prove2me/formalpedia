@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B7_d_hsVec_smul
 -- name    : Formalism.FourierDecayAlt.P.B7.d_hsVec_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:06:25.222077+00:00
 -- url     : https://prove2.me/theorems/b70fd12b-e578-4e7f-b1e2-a67c708cdf22

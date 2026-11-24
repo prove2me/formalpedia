@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_Sm_conj_facts
 -- name    : CompanionTheory.D.Upq.Sm.conj_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:57:45.356316+00:00
 -- url     : https://prove2.me/theorems/09bc099b-e410-4bf5-a633-67555f85eb24

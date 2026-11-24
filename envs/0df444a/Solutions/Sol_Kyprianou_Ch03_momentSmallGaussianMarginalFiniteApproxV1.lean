@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.momentSmallGaussianMarginalFiniteApproxV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T15:46:01.347036+00:00
 -- url     : https://prove2.me/submissions/9537c3ce-e1f7-4cc2-856a-01409acece26
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_KSATSingleFlip_Connect_SoftField

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameGeo_isExpOf_ad
 -- name    : GlobalTheory.FrameGeo.isExpOf_ad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:38:16.631796+00:00
 -- url     : https://prove2.me/theorems/47dc89a5-7ae6-4c6b-8b85-5ddbd0876b42

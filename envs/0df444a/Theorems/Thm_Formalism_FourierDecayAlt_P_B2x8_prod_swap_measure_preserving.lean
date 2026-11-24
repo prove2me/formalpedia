@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_prod_swap_measure_preserving
 -- name    : Formalism.FourierDecayAlt.P.B2x8.prod_swap_measure_preserving
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:59:45.877984+00:00
 -- url     : https://prove2.me/theorems/a35d1830-f1a7-4839-9d50-20fbf10c573c

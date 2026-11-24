@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B4_bound_scaled
 -- name    : Formalism.FourierDecayAlt.P.B4.bound_scaled
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:24:38.62081+00:00
 -- url     : https://prove2.me/theorems/806bf3d5-432d-4ba5-ba5b-b13a4e91f612

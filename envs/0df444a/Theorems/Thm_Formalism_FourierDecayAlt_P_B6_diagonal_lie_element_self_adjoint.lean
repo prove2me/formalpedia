@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_diagonal_lie_element_self_adjoint
 -- name    : Formalism.FourierDecayAlt.P.B6.diagonal_lie_element_self_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:01:31.118949+00:00
 -- url     : https://prove2.me/theorems/3534cb79-4445-484e-8f6e-a1e0157cc880

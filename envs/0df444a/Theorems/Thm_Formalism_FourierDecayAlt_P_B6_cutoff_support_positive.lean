@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_cutoff_support_positive
 -- name    : Formalism.FourierDecayAlt.P.B6.cutoff_support_positive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:00:59.435736+00:00
 -- url     : https://prove2.me/theorems/86139568-104e-44a9-98f5-68539a612b4b

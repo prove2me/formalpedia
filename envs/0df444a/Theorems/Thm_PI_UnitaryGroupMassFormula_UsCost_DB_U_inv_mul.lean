@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_DB_U_inv_mul
 -- name    : PI.UnitaryGroupMassFormula.UsCost.DB.U_inv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:07:39.402546+00:00
 -- url     : https://prove2.me/theorems/cce3a036-aed1-4721-8806-735cbf9f4ed9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_IsPull1_toO
 -- name    : GlobalTheory.CechDR.IsPull1.toO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:56:00.860602+00:00
 -- url     : https://prove2.me/theorems/f63dc0c8-0862-4d61-b893-f72a6df0e548

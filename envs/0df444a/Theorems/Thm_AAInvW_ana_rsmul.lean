@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_ana_rsmul
 -- name    : AAInvW.ana_rsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:56:26.696344+00:00
 -- url     : https://prove2.me/theorems/07609d95-de81-4c51-a18f-66207d440f46

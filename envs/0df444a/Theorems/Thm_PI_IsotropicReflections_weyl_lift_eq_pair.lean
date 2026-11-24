@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsotropicReflections_weyl_lift_eq_pair
 -- name    : PI.IsotropicReflections.weyl_lift_eq_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:53:00.018918+00:00
 -- url     : https://prove2.me/theorems/226994c0-6534-493f-bdd3-4b841bd5a531

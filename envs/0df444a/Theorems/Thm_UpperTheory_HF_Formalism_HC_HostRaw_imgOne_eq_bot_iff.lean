@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_Formalism_HC_HostRaw_imgOne_eq_bot_iff
 -- name    : UpperTheory.HF.Formalism.HC.HostRaw.imgOne_eq_bot_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:55:39.132564+00:00
 -- url     : https://prove2.me/theorems/8154d2b0-a3c5-4992-8c66-b5879c0b68d9

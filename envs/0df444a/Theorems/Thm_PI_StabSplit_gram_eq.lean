@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabSplit_gram_eq
 -- name    : PI.StabSplit.gram_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:05:58.840797+00:00
 -- url     : https://prove2.me/theorems/ccc9befc-8289-43e0-b360-9bed19218d1e

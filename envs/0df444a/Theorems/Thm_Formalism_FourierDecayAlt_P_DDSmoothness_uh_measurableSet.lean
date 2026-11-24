@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DDSmoothness_uh_measurableSet
 -- name    : Formalism.FourierDecayAlt.P.DDSmoothness.uh_measurableSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:09:44.179799+00:00
 -- url     : https://prove2.me/theorems/832598bf-368d-4795-aff2-5876f14b17ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussHerm_finrank_V
 -- name    : GlobalTheory.GaussHerm.finrank_V
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:51:11.561913+00:00
 -- url     : https://prove2.me/theorems/bff822eb-94df-4ee6-9223-a36c8dacaffe

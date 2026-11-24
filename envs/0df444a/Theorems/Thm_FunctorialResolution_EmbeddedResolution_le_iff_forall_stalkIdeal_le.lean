@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_le_iff_forall_stalkIdeal_le
 -- name    : FunctorialResolution.EmbeddedResolution.le_iff_forall_stalkIdeal_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:02:26.539576+00:00
 -- url     : https://prove2.me/theorems/77a63f5d-327c-4390-81a4-3a1621d0fd5c

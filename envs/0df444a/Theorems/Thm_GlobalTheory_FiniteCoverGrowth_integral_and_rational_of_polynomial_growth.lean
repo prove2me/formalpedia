@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteCoverGrowth_integral_and_rational_of_polynomial_growth
 -- name    : GlobalTheory.FiniteCoverGrowth.integral_and_rational_of_polynomial_growth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:59:46.768139+00:00
 -- url     : https://prove2.me/theorems/07ea4ca0-aa85-4e1d-8373-c728162e22f9

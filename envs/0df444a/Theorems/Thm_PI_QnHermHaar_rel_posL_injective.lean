@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_rel_posL_injective
 -- name    : PI.QnHermHaar.rel_posL_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:40:00.489507+00:00
 -- url     : https://prove2.me/theorems/8677cf68-c3b9-4d83-8743-f0b415b0f97a

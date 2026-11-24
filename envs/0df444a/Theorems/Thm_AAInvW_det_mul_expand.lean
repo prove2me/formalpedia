@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_det_mul_expand
 -- name    : AAInvW.det_mul_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:54:42.557139+00:00
 -- url     : https://prove2.me/theorems/9c97db77-ec11-4cc3-ad95-709b840506ca

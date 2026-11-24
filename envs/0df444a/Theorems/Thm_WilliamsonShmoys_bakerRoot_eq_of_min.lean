@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_bakerRoot_eq_of_min
 -- name    : WilliamsonShmoys.bakerRoot_eq_of_min
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-24T16:02:53.284141+00:00
 -- url     : https://prove2.me/theorems/024bbaf3-2e53-4ac5-81b5-9964ed55b453

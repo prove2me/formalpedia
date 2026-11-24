@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.expMoment_forward
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-18T18:56:32.222984+00:00
 -- url     : https://prove2.me/submissions/31529f2d-ea84-4486-b7fc-7c97dc273830
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

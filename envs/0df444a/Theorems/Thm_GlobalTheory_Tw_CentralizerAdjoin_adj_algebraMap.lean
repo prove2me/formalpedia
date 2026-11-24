@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Tw_CentralizerAdjoin_adj_algebraMap
 -- name    : GlobalTheory.Tw.CentralizerAdjoin.adj_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:02:28.41092+00:00
 -- url     : https://prove2.me/theorems/8bfd2d4e-c99d-4640-ad4f-6c3e1d217b58

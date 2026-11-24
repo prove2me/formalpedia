@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_weylK_eq_zero_of_eq
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.weylK_eq_zero_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:52:28.279458+00:00
 -- url     : https://prove2.me/theorems/983fe6ed-e329-4a4a-afa7-48759a1f2d55

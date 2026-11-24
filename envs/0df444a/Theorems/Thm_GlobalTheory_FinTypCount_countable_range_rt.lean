@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinTypCount_countable_range_rt
 -- name    : GlobalTheory.FinTypCount.countable_range_rt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:25:59.879133+00:00
 -- url     : https://prove2.me/theorems/7ef64d97-0892-40e5-99e5-cb44d8ceee82

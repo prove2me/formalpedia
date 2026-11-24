@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_lintegral_inv_norm_lt_top
 -- name    : Formalism.FourierDecayAlt.P.B2x8.lintegral_inv_norm_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:00:07.694447+00:00
 -- url     : https://prove2.me/theorems/c558bfa3-fbc5-46da-b822-a1246ee3b88e

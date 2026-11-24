@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_mem_cusp_forms_iff_automorphic_compact
 -- name    : Formalism.HC.Frame.mem_cusp_forms_iff_automorphic_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:02:15.583709+00:00
 -- url     : https://prove2.me/theorems/5863ec5f-fe62-404e-9e64-87ee3aa4b365

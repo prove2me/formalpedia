@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCRuleCW_loss_bound_nonneg
 -- name    : CCRuleCW.loss_bound_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:56:44.513137+00:00
 -- url     : https://prove2.me/theorems/4ae54c0a-2480-47d2-9bd5-bbc5aeb48d6a

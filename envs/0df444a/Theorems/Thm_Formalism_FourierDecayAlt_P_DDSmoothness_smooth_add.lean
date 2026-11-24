@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DDSmoothness_smooth_add
 -- name    : Formalism.FourierDecayAlt.P.DDSmoothness.smooth_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:51:06.984844+00:00
 -- url     : https://prove2.me/theorems/5201fa6d-65a8-4dc2-ac8d-0fe10ccb4df5

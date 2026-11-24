@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatThickenings_flat_chart
 -- name    : GlobalTheory.FlatThickenings.flat_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:33:08.25762+00:00
 -- url     : https://prove2.me/theorems/bebc9d2f-7f5b-4f9b-93a9-2bb6ec7f7d9b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_index_A0_eq_o
 -- name    : Formalism.HC.Frame.index_A0_eq_o
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:54:13.966074+00:00
 -- url     : https://prove2.me/theorems/4232fbc9-bcca-4369-a69b-3845607944f0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_hostUnramEF
 -- name    : Formalism.FrobeniusOrbits.hostUnramEF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:10:54.671855+00:00
 -- url     : https://prove2.me/theorems/f105a74d-1df8-4323-91b6-060fc3b71e66

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BigCellZetaMinors_one_uw
 -- name    : Formalism.FourierDecayAlt.P.BigCellZetaMinors.one_uw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:03:21.180671+00:00
 -- url     : https://prove2.me/theorems/32bc4b70-485b-48e7-a6a2-48aa78bf3c8f

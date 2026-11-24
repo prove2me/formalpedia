@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x5_levi_position_ne_first
 -- name    : Formalism.FourierDecayAlt.P.B2x5.levi_position_ne_first
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:58:35.592042+00:00
 -- url     : https://prove2.me/theorems/03b0e998-2db0-4aff-af52-ec3fe3e1761c

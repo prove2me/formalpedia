@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_GS_herm_eq
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.GS.herm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:54:39.278169+00:00
 -- url     : https://prove2.me/theorems/bed00550-a47a-4743-bc2c-c84b2312c1d2

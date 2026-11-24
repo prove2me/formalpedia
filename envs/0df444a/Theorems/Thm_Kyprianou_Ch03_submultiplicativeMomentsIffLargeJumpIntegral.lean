@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_submultiplicativeMomentsIffLargeJumpIntegral
 -- name    : Kyprianou.Ch03.submultiplicativeMomentsIffLargeJumpIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T13:39:54.682516+00:00
 -- url     : https://prove2.me/theorems/1a81fd8e-6331-4cbd-bab7-6061fab42164

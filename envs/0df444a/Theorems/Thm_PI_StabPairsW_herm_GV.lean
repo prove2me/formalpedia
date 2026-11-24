@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairsW_herm_GV
 -- name    : PI.StabPairsW.herm_GV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:29:48.454351+00:00
 -- url     : https://prove2.me/theorems/d70e2dec-f612-453f-9ce2-4bac62b3e9e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WhitFree_AvgInf_Dens_density_of_pairing
 -- name    : GlobalTheory.CompanionTheory.WhitFree.AvgInf.Dens.density_of_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:24:26.00657+00:00
 -- url     : https://prove2.me/theorems/0988dc25-fc3b-416b-b48f-8e08024a8bf9

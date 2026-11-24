@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_lorentzian_weight_bound
 -- name    : Formalism.FourierDecayAlt.P.B6.lorentzian_weight_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:05:28.728419+00:00
 -- url     : https://prove2.me/theorems/dce8dd46-8f35-412b-9a27-67d0c7d69c91

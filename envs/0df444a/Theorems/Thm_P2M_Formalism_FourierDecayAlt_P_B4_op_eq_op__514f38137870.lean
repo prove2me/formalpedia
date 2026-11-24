@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_B4_op_eq_op__514f38137870
 -- name    : P2M_Formalism_FourierDecayAlt_P_B4_op_eq_op__514f38137870
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:25:06.875996+00:00
 -- url     : https://prove2.me/theorems/66bf62a0-f57b-4f0a-bc26-1f63bb87e529

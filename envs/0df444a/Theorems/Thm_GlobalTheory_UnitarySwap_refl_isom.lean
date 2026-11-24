@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitarySwap_refl_isom
 -- name    : GlobalTheory.UnitarySwap.refl_isom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:47:59.568813+00:00
 -- url     : https://prove2.me/theorems/c81c78af-a8f9-4b32-8fb4-1bedd34782d4

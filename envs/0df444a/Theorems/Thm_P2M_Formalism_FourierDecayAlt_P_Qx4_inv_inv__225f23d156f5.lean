@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_Qx4_inv_inv__225f23d156f5
 -- name    : P2M_Formalism_FourierDecayAlt_P_Qx4_inv_inv__225f23d156f5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:42:05.723446+00:00
 -- url     : https://prove2.me/theorems/fd25cfb4-0719-46ac-a7e8-d42004cd8cbb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GLDoubling_nabs_det_torusElt
 -- name    : GlobalTheory.GLDoubling.nabs_det_torusElt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:44:12.872206+00:00
 -- url     : https://prove2.me/theorems/e4d17a9a-0416-4fd6-b436-644042772666

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B5_hasDerivAt_of_ext
 -- name    : Formalism.FourierDecayAlt.P.B5.hasDerivAt_of_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:53:20.096703+00:00
 -- url     : https://prove2.me/theorems/51af55da-36fe-4c65-a1bd-b5273b1ca02a

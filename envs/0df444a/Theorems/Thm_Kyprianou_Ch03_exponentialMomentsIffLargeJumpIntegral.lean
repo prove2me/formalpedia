@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_exponentialMomentsIffLargeJumpIntegral
 -- name    : Kyprianou.Ch03.exponentialMomentsIffLargeJumpIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T13:39:21.186702+00:00
 -- url     : https://prove2.me/theorems/0e17b884-e265-409b-acb3-069b7d67121f

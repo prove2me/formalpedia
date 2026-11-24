@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescent_exists_ringEquiv_extend
 -- name    : GlobalTheory.GaloisDescent.exists_ringEquiv_extend
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:42:34.598974+00:00
 -- url     : https://prove2.me/theorems/19a756f2-8b89-4c13-949e-741894b5910a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Rg_FlCls_hasSignature_of_posDef
 -- name    : CompanionTheory.Rg.FlCls.hasSignature_of_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:03:21.989017+00:00
 -- url     : https://prove2.me/theorems/3b72c6bb-f2b1-4653-aea1-57fa39c1952f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CharonChurn_Main_lemma_7
 -- name    : CharonChurn.Main.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T00:55:16.193825+00:00
 -- url     : https://prove2.me/theorems/cc133326-cc6b-48c5-8bab-e10e3d64dd0a

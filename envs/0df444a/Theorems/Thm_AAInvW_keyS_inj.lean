@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_keyS_inj
 -- name    : AAInvW.keyS_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:55:53.54378+00:00
 -- url     : https://prove2.me/theorems/90cb463a-5386-4208-ac7b-1ece85e34ccd

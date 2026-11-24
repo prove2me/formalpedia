@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x5_measurable_herm_im_left
 -- name    : Formalism.FourierDecayAlt.P.B2x5.measurable_herm_im_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:58:31.201351+00:00
 -- url     : https://prove2.me/theorems/0a52278e-cecf-4a72-9c99-7f2391bc4691

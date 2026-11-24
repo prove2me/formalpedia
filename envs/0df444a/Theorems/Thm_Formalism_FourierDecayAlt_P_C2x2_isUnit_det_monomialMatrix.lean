@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_C2x2_isUnit_det_monomialMatrix
 -- name    : Formalism.FourierDecayAlt.P.C2x2.isUnit_det_monomialMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:50:01.150713+00:00
 -- url     : https://prove2.me/theorems/0260f83f-639e-4874-8800-867df3f3abb4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B5_hs_contDiff
 -- name    : Formalism.FourierDecayAlt.P.B5.hs_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:01:14.656797+00:00
 -- url     : https://prove2.me/theorems/d6a71467-3f18-4a3a-a3c7-ecd93f912d01

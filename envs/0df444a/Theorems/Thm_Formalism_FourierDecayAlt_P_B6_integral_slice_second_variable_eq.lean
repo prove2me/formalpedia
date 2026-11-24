@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_integral_slice_second_variable_eq
 -- name    : Formalism.FourierDecayAlt.P.B6.integral_slice_second_variable_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:02:30.208653+00:00
 -- url     : https://prove2.me/theorems/a453a6be-706a-406c-9759-9534750a3fed

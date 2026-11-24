@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CovecW_mul_Hpk_eI
 -- name    : CovecW.mul_Hpk_eI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:00:05.419085+00:00
 -- url     : https://prove2.me/theorems/4ed606c7-71ff-46f3-b9fd-65df6c6ee021

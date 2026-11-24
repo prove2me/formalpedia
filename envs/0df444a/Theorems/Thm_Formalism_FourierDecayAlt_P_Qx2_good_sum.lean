@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx2_good_sum
 -- name    : Formalism.FourierDecayAlt.P.Qx2.good_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:13:55.398264+00:00
 -- url     : https://prove2.me/theorems/dbb6c2fd-5325-423e-867b-6e5d3ad006cf

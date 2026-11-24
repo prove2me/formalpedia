@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_mat_eq_of_mulVec
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.mat_eq_of_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:55:38.456354+00:00
 -- url     : https://prove2.me/theorems/9ff3575e-2bb2-4760-aafe-048da5e0572b

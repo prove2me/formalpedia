@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_adjacent_selfDual_lattices_index_simple
 -- name    : GlobalTheory.T.adjacent_selfDual_lattices_index_simple
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:54:45.063846+00:00
 -- url     : https://prove2.me/theorems/2def21ae-6ed4-414d-8865-76c6d2586142

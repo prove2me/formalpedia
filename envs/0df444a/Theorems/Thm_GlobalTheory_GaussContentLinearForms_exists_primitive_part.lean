@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussContentLinearForms_exists_primitive_part
 -- name    : GlobalTheory.GaussContentLinearForms.exists_primitive_part
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:49:02.499798+00:00
 -- url     : https://prove2.me/theorems/6a80e457-b377-4453-bd47-1738db281d14

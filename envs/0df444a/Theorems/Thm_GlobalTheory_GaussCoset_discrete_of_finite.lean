@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussCoset_discrete_of_finite
 -- name    : GlobalTheory.GaussCoset.discrete_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:48:35.219993+00:00
 -- url     : https://prove2.me/theorems/eb5a10fc-ceae-4dc9-b0b4-bebcc66ec24c

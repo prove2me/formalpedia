@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_integral_cutoff_product_eq_one
 -- name    : Formalism.FourierDecayAlt.P.B6.integral_cutoff_product_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:02:46.942898+00:00
 -- url     : https://prove2.me/theorems/e05b070c-82ba-4085-b96f-30f999d28b90

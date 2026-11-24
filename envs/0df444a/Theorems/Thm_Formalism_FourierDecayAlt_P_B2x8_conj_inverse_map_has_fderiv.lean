@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_conj_inverse_map_has_fderiv
 -- name    : Formalism.FourierDecayAlt.P.B2x8.conj_inverse_map_has_fderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:58:02.870513+00:00
 -- url     : https://prove2.me/theorems/dc9ffa93-b5e0-4c37-ace5-4315c6b7503c

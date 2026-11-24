@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairsW_hpk_conjTranspose
 -- name    : PI.StabPairsW.hpk_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:29:01.835331+00:00
 -- url     : https://prove2.me/theorems/498870cf-d843-4b0b-bb7d-eda07ee4c2cf

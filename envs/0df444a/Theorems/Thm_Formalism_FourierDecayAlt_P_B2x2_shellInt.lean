@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x2_shellInt
 -- name    : Formalism.FourierDecayAlt.P.B2x2.shellInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:56:27.6648+00:00
 -- url     : https://prove2.me/theorems/0595106d-46d0-4865-84f1-b781bb605f6e

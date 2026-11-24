@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx3_isOpen_OmXX
 -- name    : Formalism.FourierDecayAlt.P.Qx3.isOpen_OmXX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:14:33.37524+00:00
 -- url     : https://prove2.me/theorems/99daff8b-1611-408c-be97-17da00e9f337

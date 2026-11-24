@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_ana_neg
 -- name    : AAInvW.ana_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:56:51.752072+00:00
 -- url     : https://prove2.me/theorems/a9bdfa6c-8e12-4dcb-9d8c-2c4bb5bd6947
