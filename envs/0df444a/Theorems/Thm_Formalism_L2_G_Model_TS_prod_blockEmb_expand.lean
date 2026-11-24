@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_prod_blockEmb_expand
 -- name    : Formalism.L2.G.Model.TS.prod_blockEmb_expand
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:22.619273+00:00
 -- url     : https://prove2.me/theorems/4c3178f9-af88-4985-aa6e-db42092e5214

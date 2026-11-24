@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_waveKills
 -- name    : Formalism.L2.Th1.B.waveKills
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:22:44.952325+00:00
 -- url     : https://prove2.me/theorems/b55d2d5e-be9c-4e36-b884-545a60878f5d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_J_isLattice_tr
 -- name    : Formalism.MainNotions.J.isLattice_tr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:57:21.419533+00:00
 -- url     : https://prove2.me/theorems/fbbe04bd-ebcb-48c4-a97f-bd77454cc0f3

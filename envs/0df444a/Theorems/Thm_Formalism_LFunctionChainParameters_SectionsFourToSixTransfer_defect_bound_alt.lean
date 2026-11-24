@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_SectionsFourToSixTransfer_defect_bound_alt
 -- name    : Formalism.LFunctionChainParameters.SectionsFourToSixTransfer.defect_bound_alt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:20.336967+00:00
 -- url     : https://prove2.me/theorems/e240ff5b-a02c-47a0-9e54-a13b69a575a5

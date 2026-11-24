@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PartialResampling_pra_sums
 -- name    : PartialResampling.pra_sums
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-24T10:47:08.519907+00:00
 -- url     : https://prove2.me/theorems/7c6b114c-5536-4593-8d9c-3f1a53341858

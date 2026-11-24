@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_RowsOther_nonIdentity_K0
 -- name    : Formalism.L2.SG.RowsOther.nonIdentity_K0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:51.27056+00:00
 -- url     : https://prove2.me/theorems/20071437-8f95-422c-afd9-c21a04417c98

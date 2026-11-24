@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_simeqInt
 -- name    : Formalism.L2.Th1.B.simeqInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:41:57.984183+00:00
 -- url     : https://prove2.me/theorems/4391a4ba-5d89-4c7e-add2-60a545d9889f

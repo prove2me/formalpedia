@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain_ModelEv_askDA_le
 -- name    : Formalism.LFunctionChainParameters.LChain.ModelEv.askDA_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:31:02.681854+00:00
 -- url     : https://prove2.me/theorems/ecafa312-a45b-444f-932d-22f98a40f0c2

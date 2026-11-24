@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_HomD_one
 -- name    : Formalism.MainNotions.PlaneGram.HomD_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:03:14.988607+00:00
 -- url     : https://prove2.me/theorems/902d3610-8a14-4e07-b2cb-f86937963580

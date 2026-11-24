@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_MassRatioBoundPower_eulerFac_ge
 -- name    : Formalism.MainNotions.MassRatioBoundPower.eulerFac_ge
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:17:16.84398+00:00
 -- url     : https://prove2.me/theorems/601538a1-1d1d-4be8-813f-94b693cbc39d

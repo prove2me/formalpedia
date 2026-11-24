@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_HarmInvC_sum_subst_quadCol
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.HarmInvC.sum_subst_quadCol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:02:59.946259+00:00
 -- url     : https://prove2.me/theorems/fce26bfb-9f14-4877-9315-cff5d8f1e928

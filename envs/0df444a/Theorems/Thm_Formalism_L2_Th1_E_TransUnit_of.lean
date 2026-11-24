@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_TransUnit_of
 -- name    : Formalism.L2.Th1.E.TransUnit_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:51:36.967352+00:00
 -- url     : https://prove2.me/theorems/5a9edc71-c572-4622-a232-75ceae1f7f38

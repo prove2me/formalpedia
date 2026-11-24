@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGL_val_Bq
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGL.val_Bq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:07:18.541664+00:00
 -- url     : https://prove2.me/theorems/09c0b552-f60b-4480-af80-d6624c313b1e

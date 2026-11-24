@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Sim_inLam_fLog
 -- name    : Formalism.L2.Th1.B.Sim.inLam_fLog
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:02.87643+00:00
 -- url     : https://prove2.me/theorems/c6979e2e-96c1-4a76-9507-2b81cc63f916

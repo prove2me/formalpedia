@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_wBTail_of
 -- name    : Formalism.LIFT.wBTail_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:21.822992+00:00
 -- url     : https://prove2.me/theorems/8d925f61-8b8d-4efd-aa3d-32c3172024c4

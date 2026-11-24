@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain_ModelText_family
 -- name    : Formalism.LFunctionChainParameters.LChain.ModelText.family
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:30:47.632885+00:00
 -- url     : https://prove2.me/theorems/9bc8ffe7-6fd2-476f-a93d-7c0eddf7125d

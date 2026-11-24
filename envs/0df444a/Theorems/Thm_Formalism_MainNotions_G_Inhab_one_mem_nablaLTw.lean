@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_Inhab_one_mem_nablaLTw
 -- name    : Formalism.MainNotions.G.Inhab.one_mem_nablaLTw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:55:36.266097+00:00
 -- url     : https://prove2.me/theorems/3efc9bec-90c4-4f70-8fcf-d3d5b833591a

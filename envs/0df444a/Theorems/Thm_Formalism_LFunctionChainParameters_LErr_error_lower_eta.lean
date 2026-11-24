@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LErr_error_lower_eta
 -- name    : Formalism.LFunctionChainParameters.LErr.error_lower_eta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:48:53.167891+00:00
 -- url     : https://prove2.me/theorems/2ee48aaa-6bf1-442b-ba42-9d5ec4270c2b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_chainSet_mono
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.chainSet_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:03:54.467479+00:00
 -- url     : https://prove2.me/theorems/5b2adbe5-327b-4af9-afca-34600db76c67

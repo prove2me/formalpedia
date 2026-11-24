@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_Ser_unitAt_intS
 -- name    : Formalism.L2.Th1.E.Ser.unitAt_intS
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:02:37.064602+00:00
 -- url     : https://prove2.me/theorems/7c087f41-15b5-4271-bb2b-272e86631fdd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TranslateJetMomentLawAnyIdempotentLevel_sumO_eq
 -- name    : Formalism.L2.Th1.D.TranslateJetMomentLawAnyIdempotentLevel.sumO_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:36:14.52054+00:00
 -- url     : https://prove2.me/theorems/a5c87269-4559-481f-8e9f-b9b60bb89ed8

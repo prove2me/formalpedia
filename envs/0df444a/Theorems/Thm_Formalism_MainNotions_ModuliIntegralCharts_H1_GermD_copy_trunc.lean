@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GermD_copy_trunc
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GermD.copy_trunc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:00:55.30861+00:00
 -- url     : https://prove2.me/theorems/b68f879f-f284-4dae-a576-22c23354dc1b

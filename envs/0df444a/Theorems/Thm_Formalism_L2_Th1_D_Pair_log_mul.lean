@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_Pair_log_mul
 -- name    : Formalism.L2.Th1.D.Pair.log_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:23:22.975506+00:00
 -- url     : https://prove2.me/theorems/d3a71e5e-44eb-42ea-962b-975cd4b5a2c1

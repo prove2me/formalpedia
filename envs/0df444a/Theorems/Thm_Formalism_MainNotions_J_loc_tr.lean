@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_J_loc_tr
 -- name    : Formalism.MainNotions.J.loc_tr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:57:59.250421+00:00
 -- url     : https://prove2.me/theorems/440c861e-c2a9-4885-9686-9d0445023c17

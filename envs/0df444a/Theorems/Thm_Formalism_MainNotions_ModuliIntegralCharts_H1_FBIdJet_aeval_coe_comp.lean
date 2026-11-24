@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_FBIdJet_aeval_coe_comp
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.FBIdJet.aeval_coe_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:00:08.641045+00:00
 -- url     : https://prove2.me/theorems/6bcfdb01-68f1-42da-a64a-66775e694f6c

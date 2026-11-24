@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_SectionsFourToSixTransfer_logT_of_window
 -- name    : Formalism.LFunctionChainParameters.SectionsFourToSixTransfer.logT_of_window
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:57:38.819154+00:00
 -- url     : https://prove2.me/theorems/6dbbcae2-d2df-4604-b14d-e1affd99b462

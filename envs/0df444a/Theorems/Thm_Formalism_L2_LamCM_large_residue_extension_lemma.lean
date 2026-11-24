@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_large_residue_extension_lemma
 -- name    : Formalism.L2.LamCM.large_residue_extension_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:30.355935+00:00
 -- url     : https://prove2.me/theorems/1123efdf-10c5-4a0b-959f-90f984f59bdb

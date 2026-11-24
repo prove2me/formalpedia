@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_PadicP_frobLiftPadic
 -- name    : Formalism.LT.PadicP.frobLiftPadic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:39:16.112841+00:00
 -- url     : https://prove2.me/theorems/4e9a9964-d915-4f47-8ad3-5c9d23227662

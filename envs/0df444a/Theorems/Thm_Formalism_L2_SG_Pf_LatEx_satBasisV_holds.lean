@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatEx_satBasisV_holds
 -- name    : Formalism.L2.SG.Pf.LatEx.satBasisV_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:30.205421+00:00
 -- url     : https://prove2.me/theorems/55e75953-0a97-484f-b172-864aaa7b8a37

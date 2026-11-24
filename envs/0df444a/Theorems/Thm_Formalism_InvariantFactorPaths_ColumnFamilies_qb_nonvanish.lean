@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qb_nonvanish
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qb_nonvanish
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:17:52.369181+00:00
 -- url     : https://prove2.me/theorems/1d5cb574-f62d-4224-8348-98ea7b354867

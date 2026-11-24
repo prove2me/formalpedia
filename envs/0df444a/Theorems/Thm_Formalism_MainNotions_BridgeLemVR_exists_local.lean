@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLemVR_exists_local
 -- name    : Formalism.MainNotions.BridgeLemVR.exists_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:55:18.709848+00:00
 -- url     : https://prove2.me/theorems/5229bef6-3ab2-4ec2-94d9-2cb355c84a01

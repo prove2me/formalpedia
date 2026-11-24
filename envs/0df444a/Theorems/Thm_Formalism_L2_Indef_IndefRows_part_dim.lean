@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_IndefRows_part_dim
 -- name    : Formalism.L2.Indef.IndefRows.part_dim
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:42.920543+00:00
 -- url     : https://prove2.me/theorems/cc364ed3-7a8d-4e5d-af95-597d7e6e6612

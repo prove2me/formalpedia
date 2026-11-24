@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_Unip_inPat_geo
 -- name    : Formalism.L2.SG.Pf.Unip.inPat_geo
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:18:03.528024+00:00
 -- url     : https://prove2.me/theorems/157bf8cb-822e-47cf-8387-bcd3884a7ce2

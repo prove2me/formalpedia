@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ProjectiveLineModels_distinct_lines_gram_hs_le_one
 -- name    : Formalism.LFunctionChainParameters.ProjectiveLineModels.distinct_lines_gram_hs_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:00.951151+00:00
 -- url     : https://prove2.me/theorems/f95c7089-42a2-4d96-b944-c495c74d7293

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_NormCut_psi_natural_equiv_holds
 -- name    : Formalism.L2.SG.NormCut.psi_natural_equiv_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:18:04.61722+00:00
 -- url     : https://prove2.me/theorems/a6c91aea-6917-4227-811f-91ed54cdf3ab

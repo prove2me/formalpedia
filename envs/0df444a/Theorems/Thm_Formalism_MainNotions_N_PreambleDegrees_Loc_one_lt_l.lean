@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_PreambleDegrees_Loc_one_lt_l
 -- name    : Formalism.MainNotions.N.PreambleDegrees.Loc.one_lt_l
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:03:58.950235+00:00
 -- url     : https://prove2.me/theorems/358efde2-0274-438b-ad42-4d3a26be01d0

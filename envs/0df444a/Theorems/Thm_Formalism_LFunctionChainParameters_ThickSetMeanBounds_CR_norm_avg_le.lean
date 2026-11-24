@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ThickSetMeanBounds_CR_norm_avg_le
 -- name    : Formalism.LFunctionChainParameters.ThickSetMeanBounds.CR.norm_avg_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:56:41.308689+00:00
 -- url     : https://prove2.me/theorems/94c665b7-ee39-4f7e-b45a-9e2c45103cf4

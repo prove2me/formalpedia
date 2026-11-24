@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_pair_count_ge
 -- name    : MomentComparison.pair_count_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:28:15.547014+00:00
 -- url     : https://prove2.me/theorems/ced546ee-5c0e-4149-a913-db678035bac6

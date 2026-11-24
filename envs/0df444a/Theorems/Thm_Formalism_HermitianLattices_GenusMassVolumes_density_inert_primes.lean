@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GenusMassVolumes_density_inert_primes
 -- name    : Formalism.HermitianLattices.GenusMassVolumes.density_inert_primes
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:03.581811+00:00
 -- url     : https://prove2.me/theorems/1a86f55a-6956-4ce2-a7ba-654d11a2ccd0

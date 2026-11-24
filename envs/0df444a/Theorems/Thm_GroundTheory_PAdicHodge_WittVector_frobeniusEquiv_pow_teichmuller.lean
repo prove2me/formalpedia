@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_WittVector_frobeniusEquiv_pow_teichmuller
 -- name    : GroundTheory.PAdicHodge.WittVector.frobeniusEquiv_pow_teichmuller
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:38:37.922382+00:00
 -- url     : https://prove2.me/theorems/86dcdb12-b358-421a-8789-3b83e9ae6636

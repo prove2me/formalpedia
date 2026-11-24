@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_CharacteristicFromRanks_characteristic_of_rank_split
 -- name    : Formalism.L2.FormalSeriesBounds.CharacteristicFromRanks.characteristic_of_rank_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:15.679985+00:00
 -- url     : https://prove2.me/theorems/7806600d-fc6f-4ce4-a410-e4905f38f50c

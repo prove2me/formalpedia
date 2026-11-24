@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_CurveL_isFlowUW_toL
 -- name    : Formalism.L2.Th1.A.CurveL.isFlowUW_toL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:21.2703+00:00
 -- url     : https://prove2.me/theorems/b533a078-d2ac-478e-81c1-106ca89b7a83

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_cubeAverage_mul_const
 -- name    : MomentComparison.cubeAverage_mul_const
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:29:44.519942+00:00
 -- url     : https://prove2.me/theorems/518039d9-f8dc-420d-8c5b-64fcd629c7fe

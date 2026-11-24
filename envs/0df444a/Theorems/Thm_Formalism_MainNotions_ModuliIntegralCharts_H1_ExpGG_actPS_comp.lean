@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGG_actPS_comp
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGG.actPS_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:01:23.83733+00:00
 -- url     : https://prove2.me/theorems/c7ab1371-b845-4357-8366-63481ab825ec

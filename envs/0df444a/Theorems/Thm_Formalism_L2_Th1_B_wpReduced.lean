@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_wpReduced
 -- name    : Formalism.L2.Th1.B.wpReduced
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:16.163161+00:00
 -- url     : https://prove2.me/theorems/1ae3b4dc-5976-4a7d-8433-47d686c44056

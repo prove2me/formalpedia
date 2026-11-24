@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_lGHalf_of
 -- name    : Formalism.L2.Th1.C.lGHalf_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:50:57.636748+00:00
 -- url     : https://prove2.me/theorems/83695ed6-3c46-4fef-995a-6bde6d4f11c0

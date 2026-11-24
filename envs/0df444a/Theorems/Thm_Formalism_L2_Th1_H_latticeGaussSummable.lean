@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_latticeGaussSummable
 -- name    : Formalism.L2.Th1.H.latticeGaussSummable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:32:07.490333+00:00
 -- url     : https://prove2.me/theorems/4908874e-0c86-41f3-9bd4-d73c781cccb3

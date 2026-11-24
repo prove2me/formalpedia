@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpChartJet_pOf_zero
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpChartJet.pOf_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:58:10.07682+00:00
 -- url     : https://prove2.me/theorems/198f10fd-c154-49a2-9e3c-884878957207

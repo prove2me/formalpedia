@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_GlobalTheoryTheory_GenusMassVolumes_volHE_spec
 -- name    : Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes.volHE_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:56:25.25181+00:00
 -- url     : https://prove2.me/theorems/6a8e65b6-6114-43ab-9bb8-54749725a8ea

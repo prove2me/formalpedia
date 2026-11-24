@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_Pair_cc_C_mul_lgF
 -- name    : Formalism.L2.Th1.D.Pair.cc_C_mul_lgF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:24:27.570597+00:00
 -- url     : https://prove2.me/theorems/e2948de5-884b-4885-982e-adbd415a2f2b

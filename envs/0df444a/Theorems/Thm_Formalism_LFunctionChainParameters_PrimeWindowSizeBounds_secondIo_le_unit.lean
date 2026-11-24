@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_PrimeWindowSizeBounds_secondIo_le_unit
 -- name    : Formalism.LFunctionChainParameters.PrimeWindowSizeBounds.secondIo_le_unit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:44.362604+00:00
 -- url     : https://prove2.me/theorems/92618c13-a46c-4420-b4e3-fd917a4a830c

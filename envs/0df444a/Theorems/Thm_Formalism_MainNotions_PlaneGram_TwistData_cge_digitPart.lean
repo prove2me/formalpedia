@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_cge_digitPart
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.cge_digitPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:05:28.340233+00:00
 -- url     : https://prove2.me/theorems/8c897700-3f04-4b19-9b01-0ce8da4688bc

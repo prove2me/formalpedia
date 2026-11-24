@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpUniqLoc_diag_cpy_apply
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpUniqLoc.diag_cpy_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:00:51.139835+00:00
 -- url     : https://prove2.me/theorems/d9e1760e-6277-48f9-b097-8443a0446943

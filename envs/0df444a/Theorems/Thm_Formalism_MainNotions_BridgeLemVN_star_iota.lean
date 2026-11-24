@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLemVN_star_iota
 -- name    : Formalism.MainNotions.BridgeLemVN.star_iota
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:56:18.774268+00:00
 -- url     : https://prove2.me/theorems/cb6b809f-25c3-43d6-807f-b15dce52e968

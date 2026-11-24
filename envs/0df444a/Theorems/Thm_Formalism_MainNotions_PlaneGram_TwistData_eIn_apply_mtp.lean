@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_eIn_apply_mtp
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.eIn_apply_mtp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:05:33.892285+00:00
 -- url     : https://prove2.me/theorems/3cdcede3-d544-441a-910e-d3c0fa0a7239

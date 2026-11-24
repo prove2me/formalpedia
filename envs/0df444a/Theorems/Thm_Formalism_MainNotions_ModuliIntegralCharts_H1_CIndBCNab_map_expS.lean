@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndBCNab_map_expS
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndBCNab.map_expS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:57:45.112811+00:00
 -- url     : https://prove2.me/theorems/13fefaf8-acc7-4701-aebf-0d620376bcff

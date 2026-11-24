@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_HomD_prod
 -- name    : Formalism.MainNotions.PlaneGram.HomD_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:03:25.310347+00:00
 -- url     : https://prove2.me/theorems/cab62347-b09e-41e2-9108-38883e6dcea9

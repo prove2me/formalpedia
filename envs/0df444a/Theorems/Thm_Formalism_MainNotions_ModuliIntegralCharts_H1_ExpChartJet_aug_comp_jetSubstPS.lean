@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpChartJet_aug_comp_jetSubstPS
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpChartJet.aug_comp_jetSubstPS
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:23:45.617998+00:00
 -- url     : https://prove2.me/theorems/16146993-57a4-4759-b883-d060a999c834

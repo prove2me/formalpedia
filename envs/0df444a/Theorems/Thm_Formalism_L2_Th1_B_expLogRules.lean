@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_expLogRules
 -- name    : Formalism.L2.Th1.B.expLogRules
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:15:53.551271+00:00
 -- url     : https://prove2.me/theorems/c4c20e4d-8a18-465b-8f8a-d49b1ff9c1b6

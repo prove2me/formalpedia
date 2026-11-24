@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_dom_rmul
 -- name    : Formalism.L2.Pj.dom_rmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:58:43.775086+00:00
 -- url     : https://prove2.me/theorems/6c021128-50bf-4707-b18f-1f29d42d7663

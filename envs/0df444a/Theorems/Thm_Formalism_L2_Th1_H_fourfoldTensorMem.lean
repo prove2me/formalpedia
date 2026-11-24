@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_fourfoldTensorMem
 -- name    : Formalism.L2.Th1.H.fourfoldTensorMem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:28:19.895114+00:00
 -- url     : https://prove2.me/theorems/83847ce7-426b-48dd-93dd-f25e4fb0019e

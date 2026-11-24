@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBrDiv_divisibility_of_conclusion
 -- name    : Formalism.LFunctionChainParameters.LBrDiv.divisibility_of_conclusion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:49:27.139805+00:00
 -- url     : https://prove2.me/theorems/ea53ab17-5c9b-44b0-9801-5b34bc21f13e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Jets_integral_pd_of_simeq
 -- name    : Formalism.L2.Th1.B.Jets.integral_pd_of_simeq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:42.008804+00:00
 -- url     : https://prove2.me/theorems/3cae8e2d-42c6-4bb4-b368-e4e50a16d5b0

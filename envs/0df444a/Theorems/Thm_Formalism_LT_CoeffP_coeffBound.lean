@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_CoeffP_coeffBound
 -- name    : Formalism.LT.CoeffP.coeffBound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:51:04.952927+00:00
 -- url     : https://prove2.me/theorems/c83277f0-026b-4e40-973e-e81f5d88a3ad

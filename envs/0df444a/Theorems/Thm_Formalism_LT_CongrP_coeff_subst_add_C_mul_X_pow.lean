@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_CongrP_coeff_subst_add_C_mul_X_pow
 -- name    : Formalism.LT.CongrP.coeff_subst_add_C_mul_X_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:51:10.728714+00:00
 -- url     : https://prove2.me/theorems/53789617-3ca0-4c28-b06e-9cd1b4847335

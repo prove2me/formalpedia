@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_teichmuller_sigma
 -- name    : Formalism.L2.Th1.D.teichmuller_sigma
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:03:08.431843+00:00
 -- url     : https://prove2.me/theorems/30c22af0-8210-428f-b8d0-76f3df121580

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_PairEvaluation_aeval_double
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.PairEvaluation.aeval_double
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:01:51.694873+00:00
 -- url     : https://prove2.me/theorems/655f357c-2d7f-458d-ba69-7a30652b5213

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_B4_second_difference_C_mul_sum
 -- name    : Formalism.L2.Th1.D.B4.second_difference_C_mul_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:25:15.399691+00:00
 -- url     : https://prove2.me/theorems/17d0ac7e-f894-4bce-b6af-0b0e623f486e

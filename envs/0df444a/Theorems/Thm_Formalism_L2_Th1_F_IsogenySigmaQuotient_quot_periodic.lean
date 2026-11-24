@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_IsogenySigmaQuotient_quot_periodic
 -- name    : Formalism.L2.Th1.F.IsogenySigmaQuotient.quot_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:51:32.749795+00:00
 -- url     : https://prove2.me/theorems/0b25e73c-6ec4-40d7-947e-9ca2b1f0b21d

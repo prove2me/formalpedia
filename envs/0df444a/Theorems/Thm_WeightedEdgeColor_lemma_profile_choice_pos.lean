@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeightedEdgeColor_lemma_profile_choice_pos
 -- name    : WeightedEdgeColor.lemma_profile_choice_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-24T08:13:28.302676+00:00
 -- url     : https://prove2.me/theorems/ecaf5e0a-5faa-410e-856b-115f6ed2a77f

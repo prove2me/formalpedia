@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FJ_exists_basis
 -- name    : Formalism.L2.Pj.FJ.exists_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:50:39.983672+00:00
 -- url     : https://prove2.me/theorems/0b122070-ef60-4a8e-a595-38ca2bff0d2b

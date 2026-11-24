@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ChartFrameTrA_glue_units
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ChartFrameTrA.glue_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:59:33.374472+00:00
 -- url     : https://prove2.me/theorems/e92c48ad-a2d7-41c4-aee4-c3399d338257

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_expLower_le_exp
 -- name    : GaussianPerimeter.expLower_le_exp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:09:51.525986+00:00
 -- url     : https://prove2.me/theorems/460df3a1-0d73-4670-bf4a-3db39baafa9f

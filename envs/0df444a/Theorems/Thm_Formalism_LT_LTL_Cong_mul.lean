@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_LTL_Cong_mul
 -- name    : Formalism.LT.LTL.Cong.mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:05:30.801875+00:00
 -- url     : https://prove2.me/theorems/883a71eb-79f3-493c-9c2f-8b5aaf90664f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_RedC_exists_lift
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.RedC.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:51:23.288993+00:00
 -- url     : https://prove2.me/theorems/4a5fd951-b6b1-4d00-8bf4-c1097bcb75ea

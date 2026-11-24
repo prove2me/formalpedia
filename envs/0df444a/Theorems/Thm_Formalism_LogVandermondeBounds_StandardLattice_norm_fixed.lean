@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_StandardLattice_norm_fixed
 -- name    : Formalism.LogVandermondeBounds.StandardLattice.norm_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:52:30.503888+00:00
 -- url     : https://prove2.me/theorems/636a4ad8-1e95-4126-86af-822593788e34

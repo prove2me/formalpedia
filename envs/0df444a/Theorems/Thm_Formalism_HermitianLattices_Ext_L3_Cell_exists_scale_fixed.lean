@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_Cell_exists_scale_fixed
 -- name    : Formalism.HermitianLattices.Ext.L3.Cell.exists_scale_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:45:10.39892+00:00
 -- url     : https://prove2.me/theorems/9de752d9-e979-49e7-9b14-2ead51d68ce8

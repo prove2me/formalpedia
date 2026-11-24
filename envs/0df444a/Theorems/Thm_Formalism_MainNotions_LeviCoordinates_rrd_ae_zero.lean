@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_LeviCoordinates_rrd_ae_zero
 -- name    : Formalism.MainNotions.LeviCoordinates.rrd_ae_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:27.062993+00:00
 -- url     : https://prove2.me/theorems/3072f9f9-5fd9-4734-808b-73aae6c033d3

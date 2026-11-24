@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_PairEvaluation_symm_of
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.PairEvaluation.symm_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:02:31.755854+00:00
 -- url     : https://prove2.me/theorems/1260dc28-bce0-4fa8-8170-88d2115b1576

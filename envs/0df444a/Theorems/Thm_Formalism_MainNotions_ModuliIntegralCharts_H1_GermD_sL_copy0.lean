@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GermD_sL_copy0
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GermD.sL_copy0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:02:37.13883+00:00
 -- url     : https://prove2.me/theorems/4486996d-cf34-4e41-9184-c92f37b480d4

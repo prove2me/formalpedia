@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_BiextensionSums_subst_sumE
 -- name    : Formalism.L2.Th1.D.BiextensionSums.subst_sumE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:37:54.812145+00:00
 -- url     : https://prove2.me/theorems/869dbe5d-f8e5-4cb6-8436-7b3d88c23d69

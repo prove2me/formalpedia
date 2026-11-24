@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NCov_iSup_W_eq_top
 -- name    : Formalism.L2.NCov.iSup_W_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:49.671856+00:00
 -- url     : https://prove2.me/theorems/b3372e29-7c7c-4aad-b8be-41fb5399565f

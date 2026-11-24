@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_flipTwoThree_hook_product_bounds
 -- name    : Formalism.LogVandermondeBounds.flipTwoThree.hook_product_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:36:31.498536+00:00
 -- url     : https://prove2.me/theorems/9ec90927-696a-4bc6-b370-aad71a0232d1

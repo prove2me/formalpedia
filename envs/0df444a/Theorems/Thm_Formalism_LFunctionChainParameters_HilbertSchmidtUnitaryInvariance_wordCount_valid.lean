@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtUnitaryInvariance_wordCount_valid
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtUnitaryInvariance.wordCount_valid
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:55:29.899502+00:00
 -- url     : https://prove2.me/theorems/748ef4d4-7f99-4002-9f89-f9b6b07de06c

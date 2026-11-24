@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_TW_index_additive
 -- name    : Formalism.IrreducibleCountingLemmas.TW.index_additive
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:07:27.213412+00:00
 -- url     : https://prove2.me/theorems/009d0a58-3c2e-4e83-952d-7ab54c3c9666

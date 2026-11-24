@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_H_lineCoeff__fb5a11f6bb6a
 -- name    : P2M_Formalism_L2_Th1_H_lineCoeff__fb5a11f6bb6a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:41:37.240868+00:00
 -- url     : https://prove2.me/theorems/51d0e77b-3d7d-49a2-8b89-4a951413e8e5

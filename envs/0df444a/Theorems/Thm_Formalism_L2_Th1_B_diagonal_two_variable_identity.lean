@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_diagonal_two_variable_identity
 -- name    : Formalism.L2.Th1.B.diagonal_two_variable_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:48:47.948738+00:00
 -- url     : https://prove2.me/theorems/6e9b12a8-5fdc-452e-b37c-80dd95611aec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_HarmInvC_rename_col
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.HarmInvC.rename_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:03:04.832329+00:00
 -- url     : https://prove2.me/theorems/5ea973e1-64eb-41e0-9704-f33548ca7555

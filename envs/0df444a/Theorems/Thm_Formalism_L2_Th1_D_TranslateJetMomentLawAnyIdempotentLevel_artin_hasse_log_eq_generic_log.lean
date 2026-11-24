@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TranslateJetMomentLawAnyIdempotentLevel_artin_hasse_log_eq_generic_log
 -- name    : Formalism.L2.Th1.D.TranslateJetMomentLawAnyIdempotentLevel.artin_hasse_log_eq_generic_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:36:01.700575+00:00
 -- url     : https://prove2.me/theorems/5f944466-1b0e-4bb6-b105-4dc8aaa4866e

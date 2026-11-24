@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_slopeLatticeData_card_eq_prod_locLen
 -- name    : Formalism.LFunctionChainParameters.slopeLatticeData.card_eq_prod_locLen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:49:36.164723+00:00
 -- url     : https://prove2.me/theorems/0921d93f-a0d2-4d70-a822-f9eba0757259

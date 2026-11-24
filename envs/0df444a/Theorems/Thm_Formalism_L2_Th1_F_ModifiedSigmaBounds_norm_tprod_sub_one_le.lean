@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_ModifiedSigmaBounds_norm_tprod_sub_one_le
 -- name    : Formalism.L2.Th1.F.ModifiedSigmaBounds.norm_tprod_sub_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:21.206712+00:00
 -- url     : https://prove2.me/theorems/805c2d54-cfc4-47ef-bff6-f9ba637933d6

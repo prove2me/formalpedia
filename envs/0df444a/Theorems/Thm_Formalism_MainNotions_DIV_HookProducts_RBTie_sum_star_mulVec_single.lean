@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_DIV_HookProducts_RBTie_sum_star_mulVec_single
 -- name    : Formalism.MainNotions.DIV.HookProducts.RBTie.sum_star_mulVec_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:54:11.41156+00:00
 -- url     : https://prove2.me/theorems/c3ba6419-c3c3-4c95-860a-d9000a4910ad

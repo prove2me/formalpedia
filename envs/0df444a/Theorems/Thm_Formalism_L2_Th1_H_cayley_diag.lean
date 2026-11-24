@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_cayley_diag
 -- name    : Formalism.L2.Th1.H.cayley_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:48:45.15367+00:00
 -- url     : https://prove2.me/theorems/56e1fef4-c296-4d2e-b446-fbcec31d5aef

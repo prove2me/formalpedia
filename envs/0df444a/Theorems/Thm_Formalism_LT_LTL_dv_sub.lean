@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_LTL_dv_sub
 -- name    : Formalism.LT.LTL.dv_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:12.242799+00:00
 -- url     : https://prove2.me/theorems/ef2e26d0-ee1f-4abf-8e46-65e291d50df4

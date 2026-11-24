@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_InverseCommuting_parity_add_one
 -- name    : Formalism.L2.Th1.D.InverseCommuting.parity_add_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:37:01.574199+00:00
 -- url     : https://prove2.me/theorems/74e45a18-fbbe-47cd-bae0-5c9053eaf08c

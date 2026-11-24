@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_MatrixLatticeEstimates_frame_kernel_to_lin_sub_id
 -- name    : Formalism.LFunctionChainParameters.MatrixLatticeEstimates.frame_kernel_to_lin_sub_id
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:03:25.30852+00:00
 -- url     : https://prove2.me/theorems/503205d5-4a10-4f1d-923c-8672ffe56254

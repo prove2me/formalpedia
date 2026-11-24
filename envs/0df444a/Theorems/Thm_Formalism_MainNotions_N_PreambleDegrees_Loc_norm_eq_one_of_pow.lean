@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_PreambleDegrees_Loc_norm_eq_one_of_pow
 -- name    : Formalism.MainNotions.N.PreambleDegrees.Loc.norm_eq_one_of_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:04:05.696692+00:00
 -- url     : https://prove2.me/theorems/b8c96f00-ec98-4f9a-bda5-5ac28eae28be

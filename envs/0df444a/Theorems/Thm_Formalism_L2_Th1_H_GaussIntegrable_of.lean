@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_GaussIntegrable_of
 -- name    : Formalism.L2.Th1.H.GaussIntegrable_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:05:16.776261+00:00
 -- url     : https://prove2.me/theorems/594c6a42-5bde-48bd-8766-c46a401c9451

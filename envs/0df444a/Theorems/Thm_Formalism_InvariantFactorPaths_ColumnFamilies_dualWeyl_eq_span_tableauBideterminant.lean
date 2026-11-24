@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_dualWeyl_eq_span_tableauBideterminant
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.dualWeyl_eq_span_tableauBideterminant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:25:58.754178+00:00
 -- url     : https://prove2.me/theorems/08f84b11-9494-4d04-b87d-b19f5bb634fe

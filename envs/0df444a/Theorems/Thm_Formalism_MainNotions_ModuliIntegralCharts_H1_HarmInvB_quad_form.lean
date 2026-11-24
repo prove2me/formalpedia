@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_HarmInvB_quad_form
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.HarmInvB.quad_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:03:09.804319+00:00
 -- url     : https://prove2.me/theorems/f99f5f93-37ee-4068-8ad2-f2aa4a5e9932

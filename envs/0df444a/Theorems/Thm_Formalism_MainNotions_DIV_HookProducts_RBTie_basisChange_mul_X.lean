@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_DIV_HookProducts_RBTie_basisChange_mul_X
 -- name    : Formalism.MainNotions.DIV.HookProducts.RBTie.basisChange_mul_X
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:17:10.134333+00:00
 -- url     : https://prove2.me/theorems/7bd0f738-9f50-4890-abde-d8120f7bb1e4

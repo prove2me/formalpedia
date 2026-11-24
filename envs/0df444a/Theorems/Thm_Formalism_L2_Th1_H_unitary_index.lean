@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_unitary_index
 -- name    : Formalism.L2.Th1.H.unitary_index
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:35:22.476893+00:00
 -- url     : https://prove2.me/theorems/d4f4d575-bee8-4e55-8510-fa992781fc96

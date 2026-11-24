@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_tendsto_capScale_zero
 -- name    : GaussianPerimeter.tendsto_capScale_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:09:47.308508+00:00
 -- url     : https://prove2.me/theorems/e52ba290-b344-4220-b512-5a982b6f531d

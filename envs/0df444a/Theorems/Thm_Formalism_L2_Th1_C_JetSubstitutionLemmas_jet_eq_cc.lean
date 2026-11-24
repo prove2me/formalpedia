@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_JetSubstitutionLemmas_jet_eq_cc
 -- name    : Formalism.L2.Th1.C.JetSubstitutionLemmas.jet_eq_cc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:23:44.057686+00:00
 -- url     : https://prove2.me/theorems/615b5deb-da8c-46b4-9dbe-a298edcd20f9

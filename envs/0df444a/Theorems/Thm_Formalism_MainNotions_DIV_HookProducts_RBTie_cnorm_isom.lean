@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_DIV_HookProducts_RBTie_cnorm_isom
 -- name    : Formalism.MainNotions.DIV.HookProducts.RBTie.cnorm_isom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:18:02.830024+00:00
 -- url     : https://prove2.me/theorems/94a67285-73f6-423f-8233-70ece2c620a2

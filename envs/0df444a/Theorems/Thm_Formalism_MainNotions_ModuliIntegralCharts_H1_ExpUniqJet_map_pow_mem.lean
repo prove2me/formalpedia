@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpUniqJet_map_pow_mem
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpUniqJet.map_pow_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:01:29.450869+00:00
 -- url     : https://prove2.me/theorems/a8d47fff-7ab1-4ac1-ad64-576571cd66ec

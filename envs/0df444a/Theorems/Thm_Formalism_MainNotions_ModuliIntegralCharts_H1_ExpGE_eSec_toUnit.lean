@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGE_eSec_toUnit
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGE.eSec_toUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:00:32.833874+00:00
 -- url     : https://prove2.me/theorems/77629e00-75a2-4f66-9b27-73d3b73949d4

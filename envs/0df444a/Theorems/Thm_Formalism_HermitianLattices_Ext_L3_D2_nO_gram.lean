@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_nO_gram
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.nO_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:48:35.148173+00:00
 -- url     : https://prove2.me/theorems/ed811015-fd4c-4a66-8399-72bbad55c444

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLemVR_conjO_mem_hcompl
 -- name    : Formalism.MainNotions.BridgeLemVR.conjO_mem_hcompl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:55:44.828695+00:00
 -- url     : https://prove2.me/theorems/4c66cb70-a0de-49b2-b8fd-6d24e8c1b3bc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpOf_hasSubst_XX
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpOf.hasSubst_XX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:59:06.986848+00:00
 -- url     : https://prove2.me/theorems/4df61396-44a1-4ac4-8588-900778efdb3c

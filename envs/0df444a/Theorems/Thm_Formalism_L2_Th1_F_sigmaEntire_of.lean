@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_sigmaEntire_of
 -- name    : Formalism.L2.Th1.F.sigmaEntire_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:36.91002+00:00
 -- url     : https://prove2.me/theorems/a2871c8b-4746-42c5-ab96-484b28bf7321

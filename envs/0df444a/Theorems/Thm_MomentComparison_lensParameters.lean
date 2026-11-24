@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_lensParameters
 -- name    : MomentComparison.lensParameters
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:11:41.16547+00:00
 -- url     : https://prove2.me/theorems/e10419a9-ef45-4179-842f-410dd8c08784

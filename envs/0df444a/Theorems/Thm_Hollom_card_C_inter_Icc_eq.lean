@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hollom_card_C_inter_Icc_eq
 -- name    : Hollom.card_C_inter_Icc_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:10:47.250314+00:00
 -- url     : https://prove2.me/theorems/4fa99bdd-1aeb-4603-9fea-0c73d4696b05

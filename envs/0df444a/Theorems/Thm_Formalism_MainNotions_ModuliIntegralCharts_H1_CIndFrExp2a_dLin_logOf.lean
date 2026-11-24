@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrExp2a_dLin_logOf
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrExp2a.dLin_logOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:58:10.951434+00:00
 -- url     : https://prove2.me/theorems/6fe03dc5-84ea-405c-a464-8c5aec894c65

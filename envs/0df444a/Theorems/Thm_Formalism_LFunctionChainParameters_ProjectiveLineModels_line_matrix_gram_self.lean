@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ProjectiveLineModels_line_matrix_gram_self
 -- name    : Formalism.LFunctionChainParameters.ProjectiveLineModels.line_matrix_gram_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:08.728626+00:00
 -- url     : https://prove2.me/theorems/98c6f891-ee84-46ba-9f3a-5680fb7d0db7

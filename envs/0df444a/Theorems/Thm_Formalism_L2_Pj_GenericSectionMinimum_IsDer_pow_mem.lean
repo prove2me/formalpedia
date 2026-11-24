@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_GenericSectionMinimum_IsDer_pow_mem
 -- name    : Formalism.L2.Pj.GenericSectionMinimum.IsDer.pow_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:11.563797+00:00
 -- url     : https://prove2.me/theorems/f83e68c6-e223-4ce3-8cb5-53161754030f

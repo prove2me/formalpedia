@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeightedEdgeColor_proposition_A_4
 -- name    : WeightedEdgeColor.proposition_A_4
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T02:44:52.27404+00:00
 -- url     : https://prove2.me/theorems/6eb17c02-91b9-468f-8dfa-f7132687a84b

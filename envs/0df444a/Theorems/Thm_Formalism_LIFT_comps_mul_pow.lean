@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_comps_mul_pow
 -- name    : Formalism.LIFT.comps_mul_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:50.043843+00:00
 -- url     : https://prove2.me/theorems/95ea0a25-3db6-4578-872e-61546a754416

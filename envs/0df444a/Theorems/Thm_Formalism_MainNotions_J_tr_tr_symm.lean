@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_J_tr_tr_symm
 -- name    : Formalism.MainNotions.J.tr_tr_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:57:05.657458+00:00
 -- url     : https://prove2.me/theorems/0a864f9b-fd51-49da-9cd7-1ef3bedc0b91

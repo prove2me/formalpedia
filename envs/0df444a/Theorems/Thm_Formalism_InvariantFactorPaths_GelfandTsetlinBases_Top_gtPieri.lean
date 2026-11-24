@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Top_gtPieri
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.Top.gtPieri
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:08:15.612804+00:00
 -- url     : https://prove2.me/theorems/afb69917-ade6-4c3e-a5bb-6596851b8a1b

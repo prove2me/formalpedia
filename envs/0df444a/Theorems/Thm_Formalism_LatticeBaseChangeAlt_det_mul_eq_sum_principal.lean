@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_det_mul_eq_sum_principal
 -- name    : Formalism.LatticeBaseChangeAlt.det_mul_eq_sum_principal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:09.922851+00:00
 -- url     : https://prove2.me/theorems/aa990a95-780e-40f8-b683-5c34b1a93167

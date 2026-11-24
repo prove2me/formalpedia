@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_Pair_subst_single_var
 -- name    : Formalism.L2.Th1.D.Pair.subst_single_var
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:42:18.343205+00:00
 -- url     : https://prove2.me/theorems/bb948527-9962-4d4f-b206-327c5b8bd354

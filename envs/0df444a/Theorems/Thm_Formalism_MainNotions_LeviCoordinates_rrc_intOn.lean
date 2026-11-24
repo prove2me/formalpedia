@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_LeviCoordinates_rrc_intOn
 -- name    : Formalism.MainNotions.LeviCoordinates.rrc_intOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:03:04.960716+00:00
 -- url     : https://prove2.me/theorems/52eaefca-4e4f-458e-ab51-4c0fba1ed485

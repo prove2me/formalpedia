@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_Tset_disjoint
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.Tset_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:04:40.262253+00:00
 -- url     : https://prove2.me/theorems/3d3f5d58-4128-4e68-b158-cfd05084f118

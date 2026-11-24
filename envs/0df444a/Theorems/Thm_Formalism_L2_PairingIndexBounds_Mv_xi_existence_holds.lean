@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PairingIndexBounds_Mv_xi_existence_holds
 -- name    : Formalism.L2.PairingIndexBounds.Mv.xi_existence_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:48.756654+00:00
 -- url     : https://prove2.me/theorems/406f5ddc-2d14-4fb9-aeae-d8f9f92348df

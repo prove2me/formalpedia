@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m89_killing_barrier_exhaustion
 -- name    : Kyprianou.Ch08.StageB.p2m89_killing_barrier_exhaustion
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T08:18:58.527449+00:00
 -- url     : https://prove2.me/theorems/50c915ba-2eda-4061-82af-1ed9ac6d0456

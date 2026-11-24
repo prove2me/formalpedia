@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_product_first_zeroth_parts_count2
 -- name    : Formalism.LogVandermondeBounds.product_first_zeroth_parts.count2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:52:59.749159+00:00
 -- url     : https://prove2.me/theorems/2d09e21c-1967-4972-b4d7-f767c8d7d22c

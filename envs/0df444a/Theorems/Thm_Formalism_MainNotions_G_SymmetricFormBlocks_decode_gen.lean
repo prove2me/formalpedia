@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_SymmetricFormBlocks_decode_gen
 -- name    : Formalism.MainNotions.G.SymmetricFormBlocks.decode_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:55:03.402253+00:00
 -- url     : https://prove2.me/theorems/5e95a358-926f-4482-97b7-bb80deb7c84e

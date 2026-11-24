@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_sigma_summable
 -- name    : Formalism.L2.Th1.F.sigma_summable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:27:35.728727+00:00
 -- url     : https://prove2.me/theorems/13a0fc7c-8747-4218-9db9-4f2ae27076d5

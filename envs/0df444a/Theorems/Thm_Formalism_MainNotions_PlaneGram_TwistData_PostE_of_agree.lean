@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_PostE_of_agree
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.PostE.of_agree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:05:00.109414+00:00
 -- url     : https://prove2.me/theorems/6575edb6-7ee1-4a8c-86e7-96553aaca2f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Pj_iwasawa__f83cbdce79a0
 -- name    : P2M_Formalism_L2_Pj_iwasawa__f83cbdce79a0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:17:13.620751+00:00
 -- url     : https://prove2.me/theorems/933d8c4b-186f-484d-bb15-ac8b2a752414

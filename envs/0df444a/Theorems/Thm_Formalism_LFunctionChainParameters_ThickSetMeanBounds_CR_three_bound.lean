@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ThickSetMeanBounds_CR_three_bound
 -- name    : Formalism.LFunctionChainParameters.ThickSetMeanBounds.CR.three_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:50:00.694946+00:00
 -- url     : https://prove2.me/theorems/c2dfd81d-c336-4e97-99c6-647ef14f9322

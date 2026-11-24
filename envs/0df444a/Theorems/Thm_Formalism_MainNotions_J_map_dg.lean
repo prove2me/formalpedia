@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_J_map_dg
 -- name    : Formalism.MainNotions.J.map_dg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:57:20.216826+00:00
 -- url     : https://prove2.me/theorems/caa7961f-683e-4f42-b292-5b5003280fbc

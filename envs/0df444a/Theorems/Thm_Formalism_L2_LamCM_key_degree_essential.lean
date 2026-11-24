@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_key_degree_essential
 -- name    : Formalism.L2.LamCM.key_degree_essential
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:57.996391+00:00
 -- url     : https://prove2.me/theorems/3927b5cc-1a7f-4a8f-81b0-7e9f8da6b95b

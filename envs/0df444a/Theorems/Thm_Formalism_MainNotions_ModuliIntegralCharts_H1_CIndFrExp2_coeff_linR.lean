@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrExp2_coeff_linR
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrExp2.coeff_linR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:59:31.74782+00:00
 -- url     : https://prove2.me/theorems/5ccf0b19-50d4-4311-be5c-391b41f771ba

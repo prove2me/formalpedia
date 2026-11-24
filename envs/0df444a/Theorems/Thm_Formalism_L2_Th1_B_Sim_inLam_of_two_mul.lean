@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Sim_inLam_of_two_mul
 -- name    : Formalism.L2.Th1.B.Sim.inLam_of_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:53.073872+00:00
 -- url     : https://prove2.me/theorems/b6b7a285-58b6-4a10-95e8-1ff1fcd0edaa

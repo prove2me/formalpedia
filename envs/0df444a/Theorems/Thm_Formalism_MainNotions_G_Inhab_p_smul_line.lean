@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_Inhab_p_smul_line
 -- name    : Formalism.MainNotions.G.Inhab.p_smul_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:55:32.02485+00:00
 -- url     : https://prove2.me/theorems/86bd185c-12ed-467d-82bc-04f7588fff57

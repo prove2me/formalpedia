@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_hadamard_local_base
 -- name    : Formalism.L2.LamCM.hadamard_local_base
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:19.36595+00:00
 -- url     : https://prove2.me/theorems/21ae8d1c-1050-482d-8eed-9751479c1c57

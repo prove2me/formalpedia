@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GaugeR_aeval_scale_monomial
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GaugeR.aeval_scale_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:01:59.113801+00:00
 -- url     : https://prove2.me/theorems/52eda87f-252f-4413-820e-323c95bf50b5

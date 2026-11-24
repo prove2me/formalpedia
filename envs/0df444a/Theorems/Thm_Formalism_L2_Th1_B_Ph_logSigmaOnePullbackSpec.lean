@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Ph_logSigmaOnePullbackSpec
 -- name    : Formalism.L2.Th1.B.Ph.logSigmaOnePullbackSpec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:01:45.961011+00:00
 -- url     : https://prove2.me/theorems/b99112a1-181b-487f-b88e-8c898fa0918a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Wp_inv_mul_sig
 -- name    : Formalism.L2.Th1.A.Wp.inv_mul_sig
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:46:59.035859+00:00
 -- url     : https://prove2.me/theorems/1c62dac8-9d85-4411-b30e-00410e75ea00

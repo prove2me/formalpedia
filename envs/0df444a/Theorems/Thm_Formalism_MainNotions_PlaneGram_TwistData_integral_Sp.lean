@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_integral_Sp
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.integral_Sp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:05:12.66433+00:00
 -- url     : https://prove2.me/theorems/fcd388d4-e9b2-490b-8015-4fe824e610b6

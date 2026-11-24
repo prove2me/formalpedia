@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_Inhab_lpprime_one
 -- name    : Formalism.MainNotions.G.Inhab.lpprime_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:56:10.714328+00:00
 -- url     : https://prove2.me/theorems/f0ea8a68-b351-42c9-b8d5-dbbb18e2ed72

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpActPf_eval_single_eq_subst
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpActPf.eval_single_eq_subst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:58:50.207806+00:00
 -- url     : https://prove2.me/theorems/a904f68f-f4b1-4fe6-b619-e1f8ea44f115

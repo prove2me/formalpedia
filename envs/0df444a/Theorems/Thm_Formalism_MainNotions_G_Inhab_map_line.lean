@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_Inhab_map_line
 -- name    : Formalism.MainNotions.G.Inhab.map_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:55:59.537894+00:00
 -- url     : https://prove2.me/theorems/e79d7c05-8e24-4777-9824-6fc8c69d5611

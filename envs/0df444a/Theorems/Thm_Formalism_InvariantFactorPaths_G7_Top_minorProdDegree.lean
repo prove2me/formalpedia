@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_Top_minorProdDegree
 -- name    : Formalism.InvariantFactorPaths.G7.Top.minorProdDegree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:38:55.892926+00:00
 -- url     : https://prove2.me/theorems/c3401600-c4da-4d7e-bb5b-924c08ed47bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLevelGenA_primes_finite
 -- name    : Formalism.MainNotions.BridgeLevelGenA.primes_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:58.126592+00:00
 -- url     : https://prove2.me/theorems/ae4095c4-ba9a-49fa-8147-422cd1bf139a

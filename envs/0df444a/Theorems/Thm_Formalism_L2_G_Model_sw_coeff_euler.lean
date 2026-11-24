@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_sw_coeff_euler
 -- name    : Formalism.L2.G.Model.sw_coeff_euler
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:05.192845+00:00
 -- url     : https://prove2.me/theorems/22312713-bfb6-45e8-8f64-1f004620f980

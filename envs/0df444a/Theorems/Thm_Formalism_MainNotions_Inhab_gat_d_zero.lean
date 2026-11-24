@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Inhab_gat_d_zero
 -- name    : Formalism.MainNotions.Inhab.gat_d_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:56:27.092378+00:00
 -- url     : https://prove2.me/theorems/a3fe43b2-f39a-4816-8887-fc23f16581ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_CoefficientSupportCongruences_partial_coboundary_de_s_g_series
 -- name    : Formalism.InvariantFactorPaths.G7.CoefficientSupportCongruences.partial_coboundary_de_s_g_series
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:21:42.552796+00:00
 -- url     : https://prove2.me/theorems/85ed82e5-51f0-4901-8f0b-510346b88336

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpActPf_eq_linear
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpActPf.eq_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:59:17.695804+00:00
 -- url     : https://prove2.me/theorems/5543a9af-a599-4579-b422-fc7275bc86ac

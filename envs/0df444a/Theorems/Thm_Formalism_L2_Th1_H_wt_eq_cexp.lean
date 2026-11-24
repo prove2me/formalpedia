@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_wt_eq_cexp
 -- name    : Formalism.L2.Th1.H.wt_eq_cexp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:17:11.567514+00:00
 -- url     : https://prove2.me/theorems/bc3c5e68-386b-4221-8732-5a8c5b4c072c

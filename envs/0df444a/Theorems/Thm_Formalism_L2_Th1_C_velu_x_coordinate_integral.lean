@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_velu_x_coordinate_integral
 -- name    : Formalism.L2.Th1.C.velu_x_coordinate_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:03.376408+00:00
 -- url     : https://prove2.me/theorems/42f0113c-fb69-4700-80df-90dea3cf1b4a

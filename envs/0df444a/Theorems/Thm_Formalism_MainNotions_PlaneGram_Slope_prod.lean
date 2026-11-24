@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_Slope_prod
 -- name    : Formalism.MainNotions.PlaneGram.Slope.prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:03:05.653795+00:00
 -- url     : https://prove2.me/theorems/302c03de-a210-46f9-a161-240d3f617056

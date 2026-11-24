@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_StandardLattice_pair_bound
 -- name    : Formalism.LogVandermondeBounds.StandardLattice.pair_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:00.485861+00:00
 -- url     : https://prove2.me/theorems/d00e3f25-4b80-45c9-b258-32160441fcb7

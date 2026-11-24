@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_Sym_ordGE_add
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.Sym.ordGE_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:02:39.360863+00:00
 -- url     : https://prove2.me/theorems/760aef29-b103-4cb1-a779-3dc5c35d9a5a

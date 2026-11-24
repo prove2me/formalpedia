@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrFix2_mulGen_scale_right
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrFix2.mulGen_scale_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:58:07.019806+00:00
 -- url     : https://prove2.me/theorems/8f7833a4-d0a4-4eb3-b0d7-b326a1f72fbd

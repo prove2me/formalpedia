@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpTieGerm_ptSecT_whisker
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpTieGerm.ptSecT_whisker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:01:44.055026+00:00
 -- url     : https://prove2.me/theorems/816d7466-bcfb-4be3-bcbe-5f619338da9d

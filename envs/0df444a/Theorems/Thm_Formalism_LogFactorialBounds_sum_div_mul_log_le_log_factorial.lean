@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogFactorialBounds_sum_div_mul_log_le_log_factorial
 -- name    : Formalism.LogFactorialBounds.sum_div_mul_log_le_log_factorial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:01.358734+00:00
 -- url     : https://prove2.me/theorems/b8529d32-8ce5-4311-8c96-a0a69b598894

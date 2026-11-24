@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_MassRatioZetaBound_sum_norm_le
 -- name    : Formalism.MainNotions.MassRatioZetaBound.sum_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:43:06.117905+00:00
 -- url     : https://prove2.me/theorems/5ce8400f-d81e-4078-8976-4d573f3b760c

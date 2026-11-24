@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_CubeR_map_quadratic_lhs
 -- name    : Formalism.L2.Th1.A.CubeR.map_quadratic_lhs
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:17:58.86905+00:00
 -- url     : https://prove2.me/theorems/4586edcf-7679-4ad6-9c75-2c206f3ffe6b

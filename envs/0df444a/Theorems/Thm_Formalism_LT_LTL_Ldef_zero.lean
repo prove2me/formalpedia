@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_LTL_Ldef_zero
 -- name    : Formalism.LT.LTL.Ldef_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:50:52.558542+00:00
 -- url     : https://prove2.me/theorems/6f1004c3-9821-46cc-ad42-0db425541606

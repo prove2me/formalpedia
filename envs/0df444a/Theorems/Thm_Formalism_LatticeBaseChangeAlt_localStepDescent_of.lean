@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_localStepDescent_of
 -- name    : Formalism.LatticeBaseChangeAlt.localStepDescent_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:43.946214+00:00
 -- url     : https://prove2.me/theorems/baa43f07-8a2d-4651-ac16-9c623277ad53

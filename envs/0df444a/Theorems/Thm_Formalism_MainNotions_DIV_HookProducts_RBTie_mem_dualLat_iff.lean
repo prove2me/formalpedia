@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_DIV_HookProducts_RBTie_mem_dualLat_iff
 -- name    : Formalism.MainNotions.DIV.HookProducts.RBTie.mem_dualLat_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:17:56.590854+00:00
 -- url     : https://prove2.me/theorems/a33b667d-5833-4154-9eb1-1561847f98f4

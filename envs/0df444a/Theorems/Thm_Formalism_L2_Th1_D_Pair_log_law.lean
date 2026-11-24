@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_Pair_log_law
 -- name    : Formalism.L2.Th1.D.Pair.log_law
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:23:21.159161+00:00
 -- url     : https://prove2.me/theorems/70ddfafe-019b-4278-b823-aae682cd0d28

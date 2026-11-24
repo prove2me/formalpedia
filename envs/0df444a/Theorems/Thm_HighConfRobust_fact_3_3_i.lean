@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighConfRobust_fact_3_3_i
 -- name    : HighConfRobust.fact_3_3_i
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T23:06:48.454546+00:00
 -- url     : https://prove2.me/theorems/9aca2ee6-2079-48a0-ae6a-c7938333c24b

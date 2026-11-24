@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatEx_adapted_basis
 -- name    : Formalism.L2.SG.Pf.LatEx.adapted_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:35.584728+00:00
 -- url     : https://prove2.me/theorems/c1d957b4-3f25-40dc-a87b-4103c6545773

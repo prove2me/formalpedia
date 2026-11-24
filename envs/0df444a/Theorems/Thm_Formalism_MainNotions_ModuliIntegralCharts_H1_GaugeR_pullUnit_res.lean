@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GaugeR_pullUnit_res
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GaugeR.pullUnit_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:02:05.248539+00:00
 -- url     : https://prove2.me/theorems/af359c1a-9836-4f13-82a6-d8d44ca7bbb9

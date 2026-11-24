@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_Inhab_one_mem_weyl
 -- name    : Formalism.MainNotions.G.Inhab.one_mem_weyl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:55:21.890801+00:00
 -- url     : https://prove2.me/theorems/12cecf93-7421-4b91-b21f-f18028decf0f

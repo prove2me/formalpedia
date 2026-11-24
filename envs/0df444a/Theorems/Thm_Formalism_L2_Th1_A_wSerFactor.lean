@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_wSerFactor
 -- name    : Formalism.L2.Th1.A.wSerFactor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:51.956582+00:00
 -- url     : https://prove2.me/theorems/1442c0ca-2ae5-4040-9555-fba300f5dfc0

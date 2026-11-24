@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_ellipticNoPole
 -- name    : Formalism.L2.Th1.F.ellipticNoPole
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:03:49.677179+00:00
 -- url     : https://prove2.me/theorems/a34b8a24-f9aa-4022-a301-2dd05fd54e89

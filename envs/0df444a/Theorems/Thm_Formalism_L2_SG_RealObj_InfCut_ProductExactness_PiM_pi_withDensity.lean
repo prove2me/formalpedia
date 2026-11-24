@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_RealObj_InfCut_ProductExactness_PiM_pi_withDensity
 -- name    : Formalism.L2.SG.RealObj.InfCut.ProductExactness.PiM.pi_withDensity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:19:17.38641+00:00
 -- url     : https://prove2.me/theorems/1f60615c-1400-4a46-b281-73cc537731e1

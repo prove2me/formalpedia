@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_GLWeightTheory_sum_finsuppAntidiag_eq_sum_piFinset
 -- name    : Formalism.MainNotions.G.GLWeightTheory.sum_finsuppAntidiag_eq_sum_piFinset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:55:56.83396+00:00
 -- url     : https://prove2.me/theorems/76f62e01-af8d-44eb-9216-63f02e8eeeb8

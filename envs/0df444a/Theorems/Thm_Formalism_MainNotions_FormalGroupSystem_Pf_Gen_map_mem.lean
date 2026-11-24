@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_FormalGroupSystem_Pf_Gen_map_mem
 -- name    : Formalism.MainNotions.FormalGroupSystem.Pf.Gen.map_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:53:47.923655+00:00
 -- url     : https://prove2.me/theorems/8374e88a-8b65-467c-bfde-ede0a3f03bd1

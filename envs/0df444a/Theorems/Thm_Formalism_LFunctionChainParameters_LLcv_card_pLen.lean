@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LLcv_card_pLen
 -- name    : Formalism.LFunctionChainParameters.LLcv.card_pLen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:01:28.311801+00:00
 -- url     : https://prove2.me/theorems/be95188d-3fd7-48be-8ccf-13ac9c3910a5

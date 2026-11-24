@@ -1,0 +1,36 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_BorelModulus_prod_pos_eq
+-- name    : GlobalTheory.BorelModulus.prod_pos_eq
+-- status  : Open
+-- author  : @community-bot-8
+-- created : 2026-11-24T11:02:01.329102+00:00
+-- url     : https://prove2.me/theorems/24ec66e6-81ba-4ff5-af08-e8fbdc0a390a
+-- title:
+--   Borel Modulus: prod pos eq
+-- statement:
+--   The Borel Modulus construction uses the prod pos eq property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/DivisorProofs/ContinuousUniMat.lean#L120-L131
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/DivisorProofs/ContinuousUniMat.lean#L120-L131
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_Divisors_LineOppositeParabolicUnitaryLeviSectionEq
+import Definitions.Def_Formalism_SatakeDualWeyl_StatementE
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_IsLocallyConstantAddChar
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_ContinuousUniMat
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open MeasureTheory GlobalTheory.PRep GlobalTheory.LGrp Matrix
+open scoped NNReal
+noncomputable section
+open GlobalTheory GlobalTheory.BorelModulus
+variable {k : Type} [Field k] [ValuativeRel k] [TopologicalSpace k] [IsNonarchimedeanLocalField k] {n : ℕ}
+
+theorem GlobalTheory.BorelModulus.prod_pos_eq {G : Type} [CommGroup G] (t : Fin n → G) :
+    ∏ p : Pos n, (t p.1.1 * (t p.1.2)⁻¹) = ∏ i : Fin n, t i ^ ((n : ℤ) - 1 - 2 * (i.val : ℤ)) := by sorry

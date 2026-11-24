@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hollom_mapsTo_Icc_image
 -- name    : Hollom.mapsTo_Icc_image
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:09:57.861018+00:00
 -- url     : https://prove2.me/theorems/dc748743-6b52-4a29-bb8c-bf9ff5336911

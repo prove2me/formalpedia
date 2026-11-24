@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_dqRule
 -- name    : Formalism.L2.Th1.B.dqRule
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:22:32.98678+00:00
 -- url     : https://prove2.me/theorems/02b0e718-6eef-4885-984f-bc479dfe1a2e

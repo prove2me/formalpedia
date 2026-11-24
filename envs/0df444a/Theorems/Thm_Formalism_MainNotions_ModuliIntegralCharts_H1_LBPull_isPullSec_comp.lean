@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_LBPull_isPullSec_comp
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.LBPull.isPullSec_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:03:03.016145+00:00
 -- url     : https://prove2.me/theorems/5461b7d9-ef47-4358-9ad4-e6a420de44bc

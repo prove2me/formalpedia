@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_fact_EM
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.fact_EM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:05:17.104853+00:00
 -- url     : https://prove2.me/theorems/c33ed5f5-1587-4dde-bff3-a921f6e81064

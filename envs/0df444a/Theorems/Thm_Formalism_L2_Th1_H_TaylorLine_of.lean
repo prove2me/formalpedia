@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_TaylorLine_of
 -- name    : Formalism.L2.Th1.H.TaylorLine_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:49:31.794351+00:00
 -- url     : https://prove2.me/theorems/cb469c1f-1e64-4722-918a-120a34442e6e

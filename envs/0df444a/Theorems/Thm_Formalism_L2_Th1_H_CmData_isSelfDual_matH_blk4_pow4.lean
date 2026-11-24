@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_CmData_isSelfDual_matH_blk4_pow4
 -- name    : Formalism.L2.Th1.H.CmData.isSelfDual_matH_blk4_pow4
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:47:00.15669+00:00
 -- url     : https://prove2.me/theorems/79d31b02-7090-4029-9d0a-ddbecd9a1a44

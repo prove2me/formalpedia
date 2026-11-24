@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Pf14_smith_mem
 -- name    : Formalism.MainNotions.Pf14.smith_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:03:22.081385+00:00
 -- url     : https://prove2.me/theorems/687daa53-6621-47b6-9f86-68b694a311e6

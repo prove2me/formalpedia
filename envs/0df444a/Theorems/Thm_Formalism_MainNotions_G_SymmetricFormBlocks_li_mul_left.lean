@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_SymmetricFormBlocks_li_mul_left
 -- name    : Formalism.MainNotions.G.SymmetricFormBlocks.li_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:55:18.979355+00:00
 -- url     : https://prove2.me/theorems/476acea0-ee7c-4841-8bf7-4888705574d5

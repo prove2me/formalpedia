@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_B4_simeq_sub_zero
 -- name    : Formalism.L2.Th1.D.B4.simeq_sub_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:25:31.826263+00:00
 -- url     : https://prove2.me/theorems/d8a13e3a-5ec4-4ce8-ba1f-0601c95d92f3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_KAV_val_encP
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.KAV.val_encP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:02:07.338853+00:00
 -- url     : https://prove2.me/theorems/d5ff0f7c-8ca8-46af-9ea7-7450893cfe4e

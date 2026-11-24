@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_HarmInvB_subst_lg
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.HarmInvB.subst_lg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:02:43.912251+00:00
 -- url     : https://prove2.me/theorems/2dc332cc-3efd-412b-8ff2-4120aa5c5acb

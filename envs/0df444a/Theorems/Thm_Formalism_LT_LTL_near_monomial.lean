@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_LTL_near_monomial
 -- name    : Formalism.LT.LTL.near_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:51:12.68337+00:00
 -- url     : https://prove2.me/theorems/c86584cd-08ff-4485-9f60-60e5f3ec66a2

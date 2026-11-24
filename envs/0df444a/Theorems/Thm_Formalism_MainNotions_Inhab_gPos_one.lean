@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Inhab_gPos_one
 -- name    : Formalism.MainNotions.Inhab.gPos_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:56:25.938183+00:00
 -- url     : https://prove2.me/theorems/558b9178-3689-49d9-b6d4-9ebf8a5a7dfd

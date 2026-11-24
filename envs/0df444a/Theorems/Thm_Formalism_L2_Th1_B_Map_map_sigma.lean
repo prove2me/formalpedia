@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Map_map_sigma
 -- name    : Formalism.L2.Th1.B.Map.map_sigma
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:20:19.429062+00:00
 -- url     : https://prove2.me/theorems/1e9c077c-1eff-4e9e-89e5-237e2f7d548d

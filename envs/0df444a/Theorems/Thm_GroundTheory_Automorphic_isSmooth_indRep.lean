@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_isSmooth_indRep
 -- name    : GroundTheory.Automorphic.isSmooth_indRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:43:43.355667+00:00
 -- url     : https://prove2.me/theorems/f9002b4d-0670-4ddb-8e8b-edac44885ea7

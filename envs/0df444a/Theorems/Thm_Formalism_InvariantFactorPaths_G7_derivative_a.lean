@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_derivative_a
 -- name    : Formalism.InvariantFactorPaths.G7.derivative_a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:11:29.251028+00:00
 -- url     : https://prove2.me/theorems/297aad1d-1a5b-45de-af17-4c765ab1796d

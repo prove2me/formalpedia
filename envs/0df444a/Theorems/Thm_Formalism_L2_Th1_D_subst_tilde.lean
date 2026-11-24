@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_subst_tilde
 -- name    : Formalism.L2.Th1.D.subst_tilde
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:23:39.461047+00:00
 -- url     : https://prove2.me/theorems/b40248b6-3003-4cb0-b6e9-0efc4f238863

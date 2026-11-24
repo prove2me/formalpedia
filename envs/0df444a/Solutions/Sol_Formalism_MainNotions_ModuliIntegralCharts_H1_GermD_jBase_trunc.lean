@@ -1,0 +1,35 @@
+-- Prove2me | solution 1 for Formalism.MainNotions.ModuliIntegralCharts.H1.GermD.jBase_trunc
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-2
+-- created : 2026-11-24T10:47:41.7196+00:00
+-- url     : https://prove2.me/submissions/25d95ded-ad95-4a28-b181-fde527cc26e7
+
+import Definitions.Def_Formalism_SharpRestriction_Divisibility_GeneratorPowers_GermCut
+import Definitions.Def_Formalism_SharpRestriction_Divisibility_GeneratorPowers_GermDJet
+import Definitions.Def_Formalism_SharpRestriction_Divisibility_GeneratorPowers_GermDVal
+import Definitions.Def_Formalism_SharpRestriction_Divisibility_GeneratorPowers_GermDPf
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option autoImplicit false
+noncomputable section
+open Formalism Formalism.MainNotions Formalism.MainNotions.ModuliIntegralCharts Formalism.MainNotions.ModuliIntegralCharts.H1
+open AlgebraicGeometry CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj NumberField
+open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Out ReciprocityTheory.ChartRestriction.G.Geo.Tor Formalism.L2.Pj
+open Formalism.MainNotions.ModuliIntegralCharts.H1.GermFun
+attribute [local instance] Over.cartesianMonoidalCategory
+open Formalism.MainNotions.ModuliIntegralCharts.H1.GermD
+variable {E : Type} [Field E] [NumberField E] [IsCMField E] {H : Host E} {X0 : Scheme.{0}} (t : SAB H X0)
+variable {S : Type} [CommRing S] (x0 : Sp S ⟶ X0) (d : ℕ) (x : ∀ m, jOG x0 d m 1 ⟶ t.G)
+namespace Formalism.MainNotions.ModuliIntegralCharts.H1.GermD
+theorem _root_.solution (m : ℕ) : ρT x0 d m ≫ jBaseG x0 d (m + 1) 1 = jBaseG x0 d m 1 := by
+  apply Over.OverMorphism.ext
+  simp only [ρT, jBaseG, Formalism.L2.Pj.homAt, Over.comp_left, Over.homMk_left]
+  rw [spMap_comp_alg]
+end Formalism.MainNotions.ModuliIntegralCharts.H1.GermD

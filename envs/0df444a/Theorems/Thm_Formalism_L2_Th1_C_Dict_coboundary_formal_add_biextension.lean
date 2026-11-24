@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Dict_coboundary_formal_add_biextension
 -- name    : Formalism.L2.Th1.C.Dict.coboundary_formal_add_biextension
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:36.470293+00:00
 -- url     : https://prove2.me/theorems/7483fa77-7e16-436b-ae47-bc58abec72b3

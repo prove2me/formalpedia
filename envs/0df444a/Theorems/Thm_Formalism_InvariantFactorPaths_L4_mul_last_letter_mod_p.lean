@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_mul_last_letter_mod_p
 -- name    : Formalism.InvariantFactorPaths.L4.mul_last_letter_mod_p
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:02:17.273534+00:00
 -- url     : https://prove2.me/theorems/121889a7-7611-4df9-b73d-6fec6c111537

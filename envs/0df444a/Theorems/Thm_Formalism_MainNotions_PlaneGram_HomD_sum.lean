@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_HomD_sum
 -- name    : Formalism.MainNotions.PlaneGram.HomD_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:02:58.380603+00:00
 -- url     : https://prove2.me/theorems/3abb68e2-2bf2-4dc2-ba5c-251877f08566

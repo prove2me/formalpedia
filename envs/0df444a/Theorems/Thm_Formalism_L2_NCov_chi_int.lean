@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NCov_chi_int
 -- name    : Formalism.L2.NCov.chi_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:34.705918+00:00
 -- url     : https://prove2.me/theorems/f50be6ec-85dc-4771-afe9-82c9aabcfdb2

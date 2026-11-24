@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtNormSquare_ram_gap
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtNormSquare.ram_gap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:00:28.92178+00:00
 -- url     : https://prove2.me/theorems/36379a94-bef2-4ed0-a30b-cdb693bd0c3f

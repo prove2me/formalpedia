@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_exists_autSub_mul_nSub
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.exists_autSub_mul_nSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:46:34.940206+00:00
 -- url     : https://prove2.me/theorems/0f93db49-05ae-4e6b-8175-3ba4f76f37b6

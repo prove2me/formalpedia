@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGJPh1_subst_coe_rename
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGJPh1.subst_coe_rename
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:59:59.688379+00:00
 -- url     : https://prove2.me/theorems/7bf90ea5-0ab6-4b81-a68f-a9e15ded7e05

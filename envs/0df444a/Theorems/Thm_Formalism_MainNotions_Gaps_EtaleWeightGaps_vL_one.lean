@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_EtaleWeightGaps_vL_one
 -- name    : Formalism.MainNotions.Gaps.EtaleWeightGaps.vL_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:56:12.035811+00:00
 -- url     : https://prove2.me/theorems/313a5336-6620-4fcc-bb91-8c94615657e0

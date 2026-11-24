@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Congruence_finite_quotient_span_pow
 -- name    : GlobalTheory.CompanionTheory.Congruence.finite_quotient_span_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:47:56.76942+00:00
 -- url     : https://prove2.me/theorems/b2dc176d-0d4d-4946-a0ba-7c58dc50a255

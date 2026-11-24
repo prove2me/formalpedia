@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_kernel_summable_bound
 -- name    : Formalism.L2.Th1.H.kernel_summable_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:12:59.897231+00:00
 -- url     : https://prove2.me/theorems/38b10530-50b9-44e8-90d5-1a172c7aed72

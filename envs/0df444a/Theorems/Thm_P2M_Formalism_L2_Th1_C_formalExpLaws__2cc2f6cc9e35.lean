@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_C_formalExpLaws__2cc2f6cc9e35
 -- name    : P2M_Formalism_L2_Th1_C_formalExpLaws__2cc2f6cc9e35
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:05:47.585375+00:00
 -- url     : https://prove2.me/theorems/9bd92e95-e238-4e28-a9d0-cb2b6f94d98a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_ScaledSeriesSubstitution_ps_subst_C_mul
 -- name    : Formalism.InvariantFactorPaths.G7.ScaledSeriesSubstitution.ps_subst_C_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:41:31.614499+00:00
 -- url     : https://prove2.me/theorems/09fb4cef-4f3e-4cd0-b625-ac51ee2f2381

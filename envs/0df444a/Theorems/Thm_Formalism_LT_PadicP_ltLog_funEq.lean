@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_PadicP_ltLog_funEq
 -- name    : Formalism.LT.PadicP.ltLog_funEq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:39:19.203805+00:00
 -- url     : https://prove2.me/theorems/876cded1-36b8-42bf-8ea6-efdcd82531a7

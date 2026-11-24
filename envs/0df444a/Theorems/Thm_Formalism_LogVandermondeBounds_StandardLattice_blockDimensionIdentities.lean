@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_StandardLattice_blockDimensionIdentities
 -- name    : Formalism.LogVandermondeBounds.StandardLattice.blockDimensionIdentities
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:52:24.420325+00:00
 -- url     : https://prove2.me/theorems/6a5cf221-8865-4128-a154-e527cd96b5af

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_GS_isWeightOf_iff
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.GS.isWeightOf_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:16.310968+00:00
 -- url     : https://prove2.me/theorems/26147580-0990-40cc-a028-2d1a59fd3ba8

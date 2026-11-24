@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_HarmInvC_colIdx_degree
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.HarmInvC.colIdx_degree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:03:01.064801+00:00
 -- url     : https://prove2.me/theorems/a375ade6-981c-4a8d-b433-8bf76ef66db5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_Inhab_decomp
 -- name    : Formalism.MainNotions.G.Inhab.decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:55:33.274533+00:00
 -- url     : https://prove2.me/theorems/20fc8d3a-9c56-41db-98c7-9e5d5ddd57fe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_PreE_of_agree
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.PreE.of_agree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:05:21.120811+00:00
 -- url     : https://prove2.me/theorems/ebcc1815-1e06-4269-9e78-063ebd95948e

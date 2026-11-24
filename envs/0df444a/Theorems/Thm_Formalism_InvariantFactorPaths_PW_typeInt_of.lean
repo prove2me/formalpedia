@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_typeInt_of
 -- name    : Formalism.InvariantFactorPaths.PW.typeInt_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:19:50.08246+00:00
 -- url     : https://prove2.me/theorems/e22ed554-25b3-4f4f-a508-cab1b65d5947

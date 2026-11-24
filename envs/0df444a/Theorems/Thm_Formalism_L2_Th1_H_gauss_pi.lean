@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_gauss_pi
 -- name    : Formalism.L2.Th1.H.gauss_pi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:25.995577+00:00
 -- url     : https://prove2.me/theorems/8c037a6c-b59c-4367-93bc-500feca93d97

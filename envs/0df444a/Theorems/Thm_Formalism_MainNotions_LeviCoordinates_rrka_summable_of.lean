@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_LeviCoordinates_rrka_summable_of
 -- name    : Formalism.MainNotions.LeviCoordinates.rrka_summable_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:56:50.635347+00:00
 -- url     : https://prove2.me/theorems/78c43dc3-9e7d-4fb2-a926-09eb16ba1c42

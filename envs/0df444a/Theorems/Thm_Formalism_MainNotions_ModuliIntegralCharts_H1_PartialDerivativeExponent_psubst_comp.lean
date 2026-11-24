@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_PartialDerivativeExponent_psubst_comp
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.PartialDerivativeExponent.psubst_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:02:42.556873+00:00
 -- url     : https://prove2.me/theorems/ec741b7a-26b4-406e-bb77-da02b6211a2f

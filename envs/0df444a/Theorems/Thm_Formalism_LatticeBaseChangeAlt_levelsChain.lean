@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_levelsChain
 -- name    : Formalism.LatticeBaseChangeAlt.levelsChain
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:39:59.143318+00:00
 -- url     : https://prove2.me/theorems/285c5ac4-f170-4f4f-92f1-faa72de35b4e

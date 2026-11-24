@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_ValuationFitting_det_mul_eq_sum
 -- name    : Formalism.MainNotions.G.ValuationFitting.det_mul_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:51.373607+00:00
 -- url     : https://prove2.me/theorems/9f241fc0-6bf9-4ed4-b0df-03d8871c9a7e

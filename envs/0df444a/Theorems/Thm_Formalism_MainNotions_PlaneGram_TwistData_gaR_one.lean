@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_gaR_one
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.gaR_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:05:19.212497+00:00
 -- url     : https://prove2.me/theorems/648d463c-0f52-41c7-aef8-fa6574962129

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpUniqTan_ker_fst_sq
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpUniqTan.ker_fst_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:00:44.436483+00:00
 -- url     : https://prove2.me/theorems/0bf15fda-17f2-490b-9b63-dd2a33684c5c

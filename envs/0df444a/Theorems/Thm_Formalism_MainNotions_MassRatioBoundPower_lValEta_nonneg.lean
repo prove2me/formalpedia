@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_MassRatioBoundPower_lValEta_nonneg
 -- name    : Formalism.MainNotions.MassRatioBoundPower.lValEta_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:17:24.020355+00:00
 -- url     : https://prove2.me/theorems/ad96cfce-1094-4d0c-ad3f-787b771e0586

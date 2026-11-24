@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TranslateJetMomentLawAnyIdempotentLevel_norm_mXY
 -- name    : Formalism.L2.Th1.D.TranslateJetMomentLawAnyIdempotentLevel.norm_mXY
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:49:59.442235+00:00
 -- url     : https://prove2.me/theorems/e1d21a13-6608-4ab7-95a0-fba85d0ab8ff

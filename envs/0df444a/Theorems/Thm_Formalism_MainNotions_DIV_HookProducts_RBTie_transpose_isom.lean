@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_DIV_HookProducts_RBTie_transpose_isom
 -- name    : Formalism.MainNotions.DIV.HookProducts.RBTie.transpose_isom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:54:55.37599+00:00
 -- url     : https://prove2.me/theorems/66ea5814-1d19-46af-8fe3-0b8ce3178643

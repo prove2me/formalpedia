@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_GLWeightTheory_sum_sourceExp_le
 -- name    : Formalism.MainNotions.G.GLWeightTheory.sum_sourceExp_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:56:08.312811+00:00
 -- url     : https://prove2.me/theorems/afc37767-ddcf-47d3-8f39-9257176d485b

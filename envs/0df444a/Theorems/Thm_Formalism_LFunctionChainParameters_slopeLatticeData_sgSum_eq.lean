@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_slopeLatticeData_sgSum_eq
 -- name    : Formalism.LFunctionChainParameters.slopeLatticeData.sgSum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:50:30.744262+00:00
 -- url     : https://prove2.me/theorems/8ba3e37a-5105-4a89-83c0-481c5992ac76

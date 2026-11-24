@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Inhab_map_colSpan
 -- name    : Formalism.MainNotions.Inhab.map_colSpan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:56:32.378781+00:00
 -- url     : https://prove2.me/theorems/d847a5bf-4089-4bf9-b696-97e218c09263

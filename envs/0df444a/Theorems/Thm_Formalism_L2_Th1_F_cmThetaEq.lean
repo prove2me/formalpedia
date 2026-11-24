@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_cmThetaEq
 -- name    : Formalism.L2.Th1.F.cmThetaEq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:38.074482+00:00
 -- url     : https://prove2.me/theorems/d5858e4e-519e-401f-80bc-2bd77998c2b5

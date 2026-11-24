@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_card_unmarked
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.card_unmarked
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:04:26.594842+00:00
 -- url     : https://prove2.me/theorems/9bd04aa7-1458-4aee-b007-981a7bc43ade

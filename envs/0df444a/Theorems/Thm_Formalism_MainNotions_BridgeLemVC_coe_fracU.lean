@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLemVC_coe_fracU
 -- name    : Formalism.MainNotions.BridgeLemVC.coe_fracU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:55:29.42522+00:00
 -- url     : https://prove2.me/theorems/902d7dd4-d771-487b-b379-5c7825d661c3

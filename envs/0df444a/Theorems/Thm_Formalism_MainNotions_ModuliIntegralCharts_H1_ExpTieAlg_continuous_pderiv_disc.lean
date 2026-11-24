@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpTieAlg_continuous_pderiv_disc
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpTieAlg.continuous_pderiv_disc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:59:54.760201+00:00
 -- url     : https://prove2.me/theorems/6eddf4c9-6c49-4d60-97fb-b5473c01416e

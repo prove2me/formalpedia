@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_inner_facetEmbedding
 -- name    : GaussianPerimeter.inner_facetEmbedding
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:10:05.94549+00:00
 -- url     : https://prove2.me/theorems/9d80e3ee-fa8f-4b14-bd57-a9cb2c3cb8a6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_LBPull_isPullSec_unique
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.LBPull.isPullSec_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:02:29.985814+00:00
 -- url     : https://prove2.me/theorems/e8f882c1-71f7-4306-a966-b6b3eb6ad91c

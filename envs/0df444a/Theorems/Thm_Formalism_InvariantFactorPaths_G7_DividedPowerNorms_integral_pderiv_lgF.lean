@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_DividedPowerNorms_integral_pderiv_lgF
 -- name    : Formalism.InvariantFactorPaths.G7.DividedPowerNorms.integral_pderiv_lgF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:11:37.440799+00:00
 -- url     : https://prove2.me/theorems/a6ec4cd2-6e1d-4ba0-acde-f5997bb53907

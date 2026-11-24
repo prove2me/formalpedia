@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GaugeR_rename_rescale
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GaugeR.rename_rescale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:01:37.025873+00:00
 -- url     : https://prove2.me/theorems/e9ad24c3-bb95-4fc9-ab4b-e94d1a5aad82

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpOf_coeff_linPt
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpOf.coeff_linPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:59:19.378718+00:00
 -- url     : https://prove2.me/theorems/fe065898-d3ce-4601-8cbb-477866ae4f30

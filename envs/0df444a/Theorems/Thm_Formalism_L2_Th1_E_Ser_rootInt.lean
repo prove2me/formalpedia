@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_Ser_rootInt
 -- name    : Formalism.L2.Th1.E.Ser.rootInt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:18:49.557722+00:00
 -- url     : https://prove2.me/theorems/0b42e5a4-1dc4-426f-ab23-6d9c56c90d9b

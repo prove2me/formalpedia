@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_KAV_coeff_prod_cols
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.KAV.coeff_prod_cols
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:01:59.098889+00:00
 -- url     : https://prove2.me/theorems/45e3e02d-05c0-486b-87c1-0fbfc1a679c6

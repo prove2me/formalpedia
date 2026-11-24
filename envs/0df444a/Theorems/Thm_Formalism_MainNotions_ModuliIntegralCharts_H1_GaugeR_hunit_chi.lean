@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GaugeR_hunit_chi
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GaugeR.hunit_chi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:02:08.402166+00:00
 -- url     : https://prove2.me/theorems/5c2b546c-5f48-4f4e-9280-f6ea86c7e989

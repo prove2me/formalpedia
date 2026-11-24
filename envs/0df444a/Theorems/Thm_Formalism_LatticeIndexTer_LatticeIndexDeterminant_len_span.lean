@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_LatticeIndexDeterminant_len_span
 -- name    : Formalism.LatticeIndexTer.LatticeIndexDeterminant.len_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T18:21:39.200393+00:00
 -- url     : https://prove2.me/theorems/70093c2a-33e3-441b-bda9-338bd87929e1

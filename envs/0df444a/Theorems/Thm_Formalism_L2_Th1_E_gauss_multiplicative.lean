@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_gauss_multiplicative
 -- name    : Formalism.L2.Th1.E.gauss_multiplicative
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:51:58.588291+00:00
 -- url     : https://prove2.me/theorems/37cba29c-0831-40fa-b8b5-e82da335690d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_RamifiedHeckeModels_length_quotient_bound_general
 -- name    : Formalism.HermitianLattices.RamifiedHeckeModels.length_quotient_bound_general
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:57.228847+00:00
 -- url     : https://prove2.me/theorems/61dc7b65-f4d3-4818-bc2b-26eba57dea9b

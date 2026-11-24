@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_GLWeightTheory_sourcePart_le
 -- name    : Formalism.MainNotions.G.GLWeightTheory.sourcePart_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:55:16.349335+00:00
 -- url     : https://prove2.me/theorems/25a1641e-f884-4883-8d60-772075552b7c

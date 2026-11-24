@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GaussianPerimeter_gaussianPerimeter_le___da265b26a9dd
 -- name    : P2M_GaussianPerimeter_gaussianPerimeter_le___da265b26a9dd
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:09:48.860946+00:00
 -- url     : https://prove2.me/theorems/0e87690f-3731-4863-89ce-3ef59ed2ec1b

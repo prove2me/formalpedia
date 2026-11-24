@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndBCNab_map_eval_first_point_zero
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndBCNab.map_eval_first_point_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:57:47.057905+00:00
 -- url     : https://prove2.me/theorems/29dec906-406c-4bdc-acda-412a098a58ee

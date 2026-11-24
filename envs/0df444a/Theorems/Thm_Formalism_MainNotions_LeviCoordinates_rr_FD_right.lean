@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_LeviCoordinates_rr_FD_right
 -- name    : Formalism.MainNotions.LeviCoordinates.rr_FD_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:56:39.589435+00:00
 -- url     : https://prove2.me/theorems/aa80a24e-25da-46c0-9593-23989000b4a9

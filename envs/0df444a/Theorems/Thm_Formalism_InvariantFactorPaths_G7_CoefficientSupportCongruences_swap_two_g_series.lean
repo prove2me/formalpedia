@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_CoefficientSupportCongruences_swap_two_g_series
 -- name    : Formalism.InvariantFactorPaths.G7.CoefficientSupportCongruences.swap_two_g_series
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:22:24.927599+00:00
 -- url     : https://prove2.me/theorems/9605f80f-618d-4028-bf59-c00d4d5f9e39

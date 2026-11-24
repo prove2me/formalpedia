@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBrDiv_construct_height_comparison
 -- name    : Formalism.LFunctionChainParameters.LBrDiv.construct_height_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:07:58.280861+00:00
 -- url     : https://prove2.me/theorems/c5cb1875-e455-482d-84b8-e018734fa1ec

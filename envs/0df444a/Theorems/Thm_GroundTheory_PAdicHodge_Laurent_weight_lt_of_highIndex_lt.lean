@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_Laurent_weight_lt_of_highIndex_lt
 -- name    : GroundTheory.PAdicHodge.Laurent.weight_lt_of_highIndex_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:49:20.916683+00:00
 -- url     : https://prove2.me/theorems/7b3bc658-ce63-422e-a7a6-f9e7c972342a

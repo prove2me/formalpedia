@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_invariant_differential_units
 -- name    : Formalism.L2.Th1.A.invariant_differential_units
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:03:46.695854+00:00
 -- url     : https://prove2.me/theorems/603b81ff-7ba1-463e-997f-2bdc0e10e850

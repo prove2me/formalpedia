@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_J_ef_pos
 -- name    : Formalism.MainNotions.J.ef_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:16.518134+00:00
 -- url     : https://prove2.me/theorems/9b63ea86-2c9c-4d2b-a67d-cda327c3f18d

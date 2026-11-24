@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_WuDec_tens_update_inj
 -- name    : Formalism.L2.SG.Pf.WuDec.tens_update_inj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:54.20142+00:00
 -- url     : https://prove2.me/theorems/0c5ce057-97a9-42d4-9618-5b733cc39922

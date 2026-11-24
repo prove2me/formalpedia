@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_digOK_exists
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.digOK_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:04:02.649028+00:00
 -- url     : https://prove2.me/theorems/c91d6458-a206-40c1-aa1a-63522e1739ae

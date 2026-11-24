@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_StandardLattice_cardGeneralLinear
 -- name    : Formalism.LogVandermondeBounds.StandardLattice.cardGeneralLinear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:52:21.199233+00:00
 -- url     : https://prove2.me/theorems/d2c98c1a-2b5b-4001-9c85-aa570ed50239

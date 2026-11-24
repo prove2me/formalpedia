@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_SectionsFourToSixTransfer_z_terms
 -- name    : Formalism.LFunctionChainParameters.SectionsFourToSixTransfer.z_terms
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:47.147942+00:00
 -- url     : https://prove2.me/theorems/fb3af27a-2bd9-4d38-b836-fce4940201a9

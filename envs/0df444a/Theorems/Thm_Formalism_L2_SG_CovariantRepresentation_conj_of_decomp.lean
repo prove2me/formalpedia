@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_CovariantRepresentation_conj_of_decomp
 -- name    : Formalism.L2.SG.CovariantRepresentation.conj_of_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:16:46.484831+00:00
 -- url     : https://prove2.me/theorems/fa413936-5954-4f11-b994-3113c5aad483

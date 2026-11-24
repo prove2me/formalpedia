@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_uChase_proof
 -- name    : Formalism.LIFT.uChase_proof
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:50:39.98964+00:00
 -- url     : https://prove2.me/theorems/e9a7a137-d3a5-429b-aabf-70cc4263670e

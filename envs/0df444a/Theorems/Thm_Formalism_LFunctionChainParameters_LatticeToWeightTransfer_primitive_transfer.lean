@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LatticeToWeightTransfer_primitive_transfer
 -- name    : Formalism.LFunctionChainParameters.LatticeToWeightTransfer.primitive_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:52.38408+00:00
 -- url     : https://prove2.me/theorems/6f24dd88-6acf-41ee-8d1f-5b286bb79a44

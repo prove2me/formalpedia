@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_hasFiniteLength_of_injective
 -- name    : GroundTheory.Automorphic.hasFiniteLength_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:49:41.527503+00:00
 -- url     : https://prove2.me/theorems/7a49040c-e609-4a7a-8889-f73e1182e895

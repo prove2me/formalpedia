@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrFix2_corr_refl
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrFix2.corr_refl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:58:36.696618+00:00
 -- url     : https://prove2.me/theorems/33b8b01e-1887-40a2-a76e-bffacdf166d2

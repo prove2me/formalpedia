@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_PairEvaluation_eval_pair_additive_first
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.PairEvaluation.eval_pair_additive_first
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:01:53.248967+00:00
 -- url     : https://prove2.me/theorems/daa64e0e-f23d-4132-85dd-c31c79e8b7d9

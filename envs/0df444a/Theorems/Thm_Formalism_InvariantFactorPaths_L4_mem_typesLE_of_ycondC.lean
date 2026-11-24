@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_mem_typesLE_of_ycondC
 -- name    : Formalism.InvariantFactorPaths.L4.mem_typesLE_of_ycondC
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:43:28.845035+00:00
 -- url     : https://prove2.me/theorems/68b722a8-2aa9-4cdf-ad53-a171357399d1

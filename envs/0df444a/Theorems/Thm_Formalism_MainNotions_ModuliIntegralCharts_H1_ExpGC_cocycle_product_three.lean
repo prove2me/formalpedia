@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGC_cocycle_product_three
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGC.cocycle_product_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:58:57.426234+00:00
 -- url     : https://prove2.me/theorems/4bfa559c-e12d-45b3-a5c5-e32c03b0c851

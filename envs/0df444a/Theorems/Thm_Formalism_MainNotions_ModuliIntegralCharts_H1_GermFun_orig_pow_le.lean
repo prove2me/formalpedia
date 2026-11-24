@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GermFun_orig_pow_le
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GermFun.orig_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:02:26.947632+00:00
 -- url     : https://prove2.me/theorems/866e19e0-4bc4-4140-8f1c-c705795481b3

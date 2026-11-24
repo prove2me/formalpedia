@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_weierstrass_p_second_derivative
 -- name    : Formalism.L2.Th1.F.weierstrass_p_second_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:05:05.613381+00:00
 -- url     : https://prove2.me/theorems/18032d1e-dd52-4bb5-afbc-bf141e99396d

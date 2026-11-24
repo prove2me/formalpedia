@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_Cay_det_adj
 -- name    : Formalism.L2.Th1.H.Cay.det_adj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:05:32.774124+00:00
 -- url     : https://prove2.me/theorems/fa761658-7377-408b-b52a-fe5f87082016

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpTiePf_isValueAt_of_eq
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpTiePf.isValueAt_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:08:26.889168+00:00
 -- url     : https://prove2.me/theorems/b5a42e7a-3c92-43a6-9039-17ca76a2797b

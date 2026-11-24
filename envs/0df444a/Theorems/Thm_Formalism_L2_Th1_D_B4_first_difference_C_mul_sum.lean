@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_B4_first_difference_C_mul_sum
 -- name    : Formalism.L2.Th1.D.B4.first_difference_C_mul_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:25:15.413537+00:00
 -- url     : https://prove2.me/theorems/c45c1408-4894-462a-804f-7bb5909cef6e

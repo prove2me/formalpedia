@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_iInf_join_pastSigma_le_join_germSigma_lattice
 -- name    : Kyprianou.Ch03.iInf_join_pastSigma_le_join_germSigma_lattice
--- status  : Open
+-- status  : Disproved
 -- author  : @pageman
 -- created : 2026-11-24T10:02:45.68138+00:00
 -- url     : https://prove2.me/theorems/6f37bd26-9725-47dd-a8c5-f6185a654543

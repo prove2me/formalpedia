@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_TransGauss_of
 -- name    : Formalism.L2.Th1.E.TransGauss_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:51:44.18119+00:00
 -- url     : https://prove2.me/theorems/0cd52947-a8ac-449a-9566-c0bce105c489

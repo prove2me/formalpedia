@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_goodIndex_of_latFinite
 -- name    : Formalism.LatticeIndexTer.goodIndex_of_latFinite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:20.737449+00:00
 -- url     : https://prove2.me/theorems/7739e675-1734-4096-9aae-8ca413e47ca8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGE_val_rigPow
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGE.val_rigPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:59:54.621807+00:00
 -- url     : https://prove2.me/theorems/af6f404b-d340-49c2-a94a-fc200d9e9125

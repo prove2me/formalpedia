@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_DIV_HookProducts_RBTie_fcoord_e
 -- name    : Formalism.MainNotions.DIV.HookProducts.RBTie.fcoord_e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:17:23.471919+00:00
 -- url     : https://prove2.me/theorems/25cf0396-3814-43b9-a706-4a5eb9c16e62

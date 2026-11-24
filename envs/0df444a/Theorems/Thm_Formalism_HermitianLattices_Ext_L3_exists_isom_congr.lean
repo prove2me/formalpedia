@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_exists_isom_congr
 -- name    : Formalism.HermitianLattices.Ext.L3.exists_isom_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:32:56.319171+00:00
 -- url     : https://prove2.me/theorems/4b74260e-a626-4349-90b2-914c25412c91

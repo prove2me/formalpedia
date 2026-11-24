@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_TT_monomial
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.TT_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:04:32.540229+00:00
 -- url     : https://prove2.me/theorems/5bd1df22-087b-418a-a4c9-44ebc00ac50e

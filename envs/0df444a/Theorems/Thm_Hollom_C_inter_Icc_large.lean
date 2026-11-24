@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hollom_C_inter_Icc_large
 -- name    : Hollom.C_inter_Icc_large
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:10:41.417063+00:00
 -- url     : https://prove2.me/theorems/003cc8a1-88f1-4921-b76a-9eb8f63c6fff

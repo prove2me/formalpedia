@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_KAV_coeff_iterate_pderiv
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.KAV.coeff_iterate_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:02:17.632167+00:00
 -- url     : https://prove2.me/theorems/530a90f7-e21b-4334-8fd0-b5334ee714e1

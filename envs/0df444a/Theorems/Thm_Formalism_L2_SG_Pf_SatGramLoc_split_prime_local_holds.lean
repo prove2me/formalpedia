@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_SatGramLoc_split_prime_local_holds
 -- name    : Formalism.L2.SG.Pf.SatGramLoc.split_prime_local_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:17:14.314092+00:00
 -- url     : https://prove2.me/theorems/7e01c231-3c3f-4694-a6e3-bea1932def56

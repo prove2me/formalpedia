@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_LeviCoordinates_rrd_countable
 -- name    : Formalism.MainNotions.LeviCoordinates.rrd_countable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:20.932879+00:00
 -- url     : https://prove2.me/theorems/eef54910-46de-45ba-bd32-c079b5f8fb30

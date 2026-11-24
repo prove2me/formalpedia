@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_CoeffP_powp_step
 -- name    : Formalism.LT.CoeffP.powp_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:51:20.773784+00:00
 -- url     : https://prove2.me/theorems/20b2d6a0-ba72-43bc-9a63-55d6bcd8f004

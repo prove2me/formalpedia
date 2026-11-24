@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_ud_skew
 -- name    : Formalism.L2.Th1.H.ud_skew
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:17:41.256638+00:00
 -- url     : https://prove2.me/theorems/cf265eba-fbf5-463b-9eb2-83d77db05a5a

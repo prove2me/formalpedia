@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLemVC_gmap_smul
 -- name    : Formalism.MainNotions.BridgeLemVC.gmap_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:56:10.998175+00:00
 -- url     : https://prove2.me/theorems/991944c6-8b3e-4da3-9592-f280949b029e

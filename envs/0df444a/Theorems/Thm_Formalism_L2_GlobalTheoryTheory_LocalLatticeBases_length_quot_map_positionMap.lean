@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_LocalLatticeBases_length_quot_map_positionMap
 -- name    : Formalism.L2.GlobalTheoryTheory.LocalLatticeBases.length_quot_map_positionMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:58:03.045489+00:00
 -- url     : https://prove2.me/theorems/2a95cc8b-7e21-46c6-a37e-7c9d0d1afa29

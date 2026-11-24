@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpActPf_coeff_single_subst
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpActPf.coeff_single_subst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:58:41.460806+00:00
 -- url     : https://prove2.me/theorems/4af7a73c-2f8c-4d26-989f-392bb4d730dc

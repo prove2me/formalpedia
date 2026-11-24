@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpChartJetA_zero_ne_single
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpChartJetA.zero_ne_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:59:03.026851+00:00
 -- url     : https://prove2.me/theorems/c80cdc93-6f16-40fc-9ec8-5dc53a64513b

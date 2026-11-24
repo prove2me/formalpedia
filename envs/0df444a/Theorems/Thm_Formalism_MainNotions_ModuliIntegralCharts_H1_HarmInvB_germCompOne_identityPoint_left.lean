@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_HarmInvB_germCompOne_identityPoint_left
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.HarmInvB.germCompOne_identityPoint_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:02:46.46036+00:00
 -- url     : https://prove2.me/theorems/3b430153-38a6-4386-8da4-669973e473d5

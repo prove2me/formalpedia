@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_sigmaOdd
 -- name    : Formalism.L2.Th1.F.sigmaOdd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:59:01.377374+00:00
 -- url     : https://prove2.me/theorems/f82fe144-0030-494c-ad28-f0ac1e1e4274

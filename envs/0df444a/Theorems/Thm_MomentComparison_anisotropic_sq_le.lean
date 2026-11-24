@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_anisotropic_sq_le
 -- name    : MomentComparison.anisotropic_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:11:23.153947+00:00
 -- url     : https://prove2.me/theorems/087da6c9-e26b-4ba3-8930-179c8a8b8f58

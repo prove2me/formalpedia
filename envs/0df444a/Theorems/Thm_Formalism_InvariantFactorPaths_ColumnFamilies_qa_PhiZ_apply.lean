@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qa_PhiZ_apply
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qa_PhiZ_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:39:47.744865+00:00
 -- url     : https://prove2.me/theorems/4c61ea10-1630-438f-87ae-0d0a24e146bf

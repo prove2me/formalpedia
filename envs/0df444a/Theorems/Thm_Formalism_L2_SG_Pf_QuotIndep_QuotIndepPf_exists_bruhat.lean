@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_QuotIndep_QuotIndepPf_exists_bruhat
 -- name    : Formalism.L2.SG.Pf.QuotIndep.QuotIndepPf.exists_bruhat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:05:31.421567+00:00
 -- url     : https://prove2.me/theorems/dd6aad50-83f0-42f1-a9a6-6f4730aefbf1

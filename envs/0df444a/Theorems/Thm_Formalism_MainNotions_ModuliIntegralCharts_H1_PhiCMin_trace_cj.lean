@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_PhiCMin_trace_cj
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.PhiCMin.trace_cj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:02:32.30356+00:00
 -- url     : https://prove2.me/theorems/7def7af2-7379-4d65-b70f-4b32d9d9d585

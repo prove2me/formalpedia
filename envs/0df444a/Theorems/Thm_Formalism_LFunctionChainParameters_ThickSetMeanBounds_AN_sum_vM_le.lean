@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ThickSetMeanBounds_AN_sum_vM_le
 -- name    : Formalism.LFunctionChainParameters.ThickSetMeanBounds.AN.sum_vM_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:36:46.321821+00:00
 -- url     : https://prove2.me/theorems/5d4967b6-4263-4b5d-b0f6-4d625061d13a

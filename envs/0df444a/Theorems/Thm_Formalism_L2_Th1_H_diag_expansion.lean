@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_diag_expansion
 -- name    : Formalism.L2.Th1.H.diag_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:28:33.49787+00:00
 -- url     : https://prove2.me/theorems/64030c1d-e3a7-453b-81f8-171080a7ca4b

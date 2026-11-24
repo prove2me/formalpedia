@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_third_mean_condition
 -- name    : Formalism.L2.Th1.D.third_mean_condition
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:58.354232+00:00
 -- url     : https://prove2.me/theorems/685f8f29-9a80-4766-b53e-814b6342520f

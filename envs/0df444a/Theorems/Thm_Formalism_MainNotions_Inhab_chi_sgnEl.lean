@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Inhab_chi_sgnEl
 -- name    : Formalism.MainNotions.Inhab.chi_sgnEl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:56:32.722562+00:00
 -- url     : https://prove2.me/theorems/c2ef6b47-9fe0-48df-b3e9-c1bba5fafa93

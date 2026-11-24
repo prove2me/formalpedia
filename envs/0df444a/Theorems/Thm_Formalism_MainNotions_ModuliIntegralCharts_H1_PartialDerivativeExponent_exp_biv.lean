@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_PartialDerivativeExponent_exp_biv
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.PartialDerivativeExponent.exp_biv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:02:21.432935+00:00
 -- url     : https://prove2.me/theorems/ab1d4185-f11b-4b34-be7b-4edbc8f25367

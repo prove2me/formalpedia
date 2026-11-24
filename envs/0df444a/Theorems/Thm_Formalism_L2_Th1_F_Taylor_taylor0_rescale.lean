@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Taylor_taylor0_rescale
 -- name    : Formalism.L2.Th1.F.Taylor.taylor0_rescale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:00:54.934097+00:00
 -- url     : https://prove2.me/theorems/f7aaa251-11b1-49a9-b6f7-c0fedb90c8fb

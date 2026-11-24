@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_nearestPlane_finset
 -- name    : Formalism.LatticeBaseChangeAlt.nearestPlane_finset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:32.022983+00:00
 -- url     : https://prove2.me/theorems/2996b320-7f19-4ef8-919e-749f9eadd825

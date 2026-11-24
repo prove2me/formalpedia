@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Inhab_gat_M_bot
 -- name    : Formalism.MainNotions.Inhab.gat_M_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:57:05.865497+00:00
 -- url     : https://prove2.me/theorems/d2c8ea68-8c24-47d4-a95d-087b4ada8476

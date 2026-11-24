@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_FBIdLB_pull_top_res
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.FBIdLB.pull_top_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:59:54.320364+00:00
 -- url     : https://prove2.me/theorems/88298173-fe77-4bb0-9d45-e0f0d12eaba9

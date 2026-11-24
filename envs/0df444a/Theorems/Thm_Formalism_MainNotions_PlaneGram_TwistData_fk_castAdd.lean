@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_fk_castAdd
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.fk_castAdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:05:08.255889+00:00
 -- url     : https://prove2.me/theorems/f9b22246-4856-4194-9029-b2ef327c4786

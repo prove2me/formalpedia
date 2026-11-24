@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_nabVal_eq_const
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.nabVal_eq_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:02:36.887444+00:00
 -- url     : https://prove2.me/theorems/293cd10e-ee02-41e5-8541-b516eb589089

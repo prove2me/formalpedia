@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_hasFiniteLength_of_filtration
 -- name    : GroundTheory.Automorphic.hasFiniteLength_of_filtration
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:47:02.903225+00:00
 -- url     : https://prove2.me/theorems/d8e3de25-66a4-4ac3-95c3-b768e517017c

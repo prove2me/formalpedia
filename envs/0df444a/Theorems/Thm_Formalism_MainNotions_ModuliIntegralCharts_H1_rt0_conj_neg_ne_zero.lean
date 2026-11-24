@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_rt0_conj_neg_ne_zero
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.rt0_conj_neg_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:02:40.612828+00:00
 -- url     : https://prove2.me/theorems/9e97e1e3-8a4e-495c-824a-b7db73b9ee3a

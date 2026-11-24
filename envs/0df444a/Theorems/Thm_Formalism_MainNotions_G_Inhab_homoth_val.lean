@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_Inhab_homoth_val
 -- name    : Formalism.MainNotions.G.Inhab.homoth_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:55:46.936662+00:00
 -- url     : https://prove2.me/theorems/0746e775-d2b1-45ad-9580-1573efca852a

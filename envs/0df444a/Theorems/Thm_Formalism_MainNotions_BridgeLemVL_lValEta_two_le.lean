@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLemVL_lValEta_two_le
 -- name    : Formalism.MainNotions.BridgeLemVL.lValEta_two_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:59.513959+00:00
 -- url     : https://prove2.me/theorems/55672d58-55ef-43cc-9901-c8c2920191a9

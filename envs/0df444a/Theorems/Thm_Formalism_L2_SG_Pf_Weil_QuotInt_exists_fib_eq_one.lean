@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_Weil_QuotInt_exists_fib_eq_one
 -- name    : Formalism.L2.SG.Pf.Weil.QuotInt.exists_fib_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:19:10.908099+00:00
 -- url     : https://prove2.me/theorems/d0d9e255-b853-4f80-b5b9-37ea6fb15648

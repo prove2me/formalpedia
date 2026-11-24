@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LIOrb_relIndex_autSub_ne_zero
 -- name    : Formalism.HermitianLattices.Ext.L3.LIOrb.relIndex_autSub_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:34:26.664703+00:00
 -- url     : https://prove2.me/theorems/88b68b24-4119-4110-ad0a-9f58eac7a1c5

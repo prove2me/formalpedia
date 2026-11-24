@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_PhiCMin_cj_ratCast
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.PhiCMin.cj_ratCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:02:35.314801+00:00
 -- url     : https://prove2.me/theorems/c493ae8f-0a27-479d-9855-d6cd95a76915

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_HomD_congr
 -- name    : Formalism.MainNotions.PlaneGram.HomD_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:03:14.1648+00:00
 -- url     : https://prove2.me/theorems/98876b6b-fe14-428a-a11b-9355096e78d8

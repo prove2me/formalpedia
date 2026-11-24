@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_flipTwoThree_mem_Iset_of
 -- name    : Formalism.LogVandermondeBounds.flipTwoThree.mem_Iset_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:36:42.663693+00:00
 -- url     : https://prove2.me/theorems/f792ce72-0171-40bc-a8f6-061b8bfdbaaa

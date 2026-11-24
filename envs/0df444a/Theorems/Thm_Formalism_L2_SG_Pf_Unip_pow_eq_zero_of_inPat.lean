@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_Unip_pow_eq_zero_of_inPat
 -- name    : Formalism.L2.SG.Pf.Unip.pow_eq_zero_of_inPat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:05:16.250628+00:00
 -- url     : https://prove2.me/theorems/a2930211-ff8a-400a-bca0-aa0e75a5e590

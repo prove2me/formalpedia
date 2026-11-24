@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_TaylorLogMetric_logarithm_series_coefficient_identities
 -- name    : Formalism.LogVandermondeBounds.TaylorLogMetric.logarithm_series_coefficient_identities
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:29.969095+00:00
 -- url     : https://prove2.me/theorems/b500e5e3-ac82-4533-9fa0-9e7dc5ed712a

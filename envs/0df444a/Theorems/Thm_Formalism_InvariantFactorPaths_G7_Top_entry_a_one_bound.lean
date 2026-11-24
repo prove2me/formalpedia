@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_Top_entry_a_one_bound
 -- name    : Formalism.InvariantFactorPaths.G7.Top.entry_a_one_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:37:28.69385+00:00
 -- url     : https://prove2.me/theorems/36646c3e-b579-4c55-973e-49fa52b33fcd

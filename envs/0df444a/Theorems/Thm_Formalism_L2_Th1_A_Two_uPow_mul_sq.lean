@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Two_uPow_mul_sq
 -- name    : Formalism.L2.Th1.A.Two.uPow_mul_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:19:12.298094+00:00
 -- url     : https://prove2.me/theorems/154a112e-9cfe-41e7-bb7a-6023164059ad

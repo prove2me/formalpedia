@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_J_Ex_biv
 -- name    : Formalism.MainNotions.J.Ex_biv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:56:43.421466+00:00
 -- url     : https://prove2.me/theorems/1b2e2f77-d78d-4a6d-aafe-037ebf4c0dac

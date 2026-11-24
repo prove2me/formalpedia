@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_operator_u_comm
 -- name    : Formalism.L2.Th1.F.operator_u_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:40.779619+00:00
 -- url     : https://prove2.me/theorems/519839cc-b5b8-46e0-8d50-1e2e81a90341

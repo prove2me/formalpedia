@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBrDiv_divisibility_free_shift
 -- name    : Formalism.LFunctionChainParameters.LBrDiv.divisibility_free_shift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:02:54.28666+00:00
 -- url     : https://prove2.me/theorems/e1834df9-3efe-41e1-985a-98659810bde0

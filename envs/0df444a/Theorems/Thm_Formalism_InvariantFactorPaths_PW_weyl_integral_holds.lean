@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_weyl_integral_holds
 -- name    : Formalism.InvariantFactorPaths.PW.weyl_integral_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:02.8255+00:00
 -- url     : https://prove2.me/theorems/695c884c-8803-4b24-810a-87770554aeac

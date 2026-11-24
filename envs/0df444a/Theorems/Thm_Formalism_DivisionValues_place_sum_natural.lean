@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_place_sum_natural
 -- name    : Formalism.DivisionValues.place_sum_natural
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:18:11.155262+00:00
 -- url     : https://prove2.me/theorems/2b5f51ec-8176-4184-8e19-ab7731e98f50

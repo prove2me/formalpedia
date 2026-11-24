@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_VolumeComparison_iSup_nonzero_of_nonzero
 -- name    : GaussianPerimeter.VolumeComparison.iSup_nonzero_of_nonzero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:13:58.393377+00:00
 -- url     : https://prove2.me/theorems/a0e6e7fc-d7db-47d7-a695-77182c52e821

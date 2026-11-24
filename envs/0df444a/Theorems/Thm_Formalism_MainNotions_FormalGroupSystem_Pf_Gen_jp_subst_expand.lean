@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_FormalGroupSystem_Pf_Gen_jp_subst_expand
 -- name    : Formalism.MainNotions.FormalGroupSystem.Pf.Gen.jp_subst_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:54:09.301348+00:00
 -- url     : https://prove2.me/theorems/acec05f2-fa0c-490a-8371-a0b101bccea3

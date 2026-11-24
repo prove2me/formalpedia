@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_SigmaAdditionFormula_additionQuotient_order
 -- name    : Formalism.L2.Th1.F.SigmaAdditionFormula.additionQuotient_order
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:19.086657+00:00
 -- url     : https://prove2.me/theorems/0225879f-1fb1-4169-96e6-fc516445645b

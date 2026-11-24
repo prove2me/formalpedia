@@ -37605,10 +37605,10 @@
 {"parent": "GlobalTheory.CompanionTheory.TyFin.Maschke.avg_apply", "child": "Development_WeilBound_CoreStatements_FiniteTypeHarishChandra_SupportExistsAll", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.TyFin.Maschke.avg_apply", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_MaschkeProperties", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.TyFin.Maschke.avg_apply", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_SimpleIffIrreducibleStatement", "via": ["solution", "statement"]}
-{"parent": "Formalism.InvariantFactorPaths.PW.typeInt_of", "child": "Formalism_ThetaLogCoordinates_TraceIsometryWeights_SchurTraceProofs_InvInt", "via": ["statement"]}
-{"parent": "Formalism.InvariantFactorPaths.PW.typeInt_of", "child": "Formalism_ThetaLogCoordinates_TraceIsometryWeights_StatementB", "via": ["statement"]}
-{"parent": "Formalism.InvariantFactorPaths.PW.typeInt_of", "child": "Formalism_ThetaLogCoordinates_TraceIsometryWeights_SchurTraceProofs_HomRelationHolds", "via": ["statement"]}
-{"parent": "Formalism.InvariantFactorPaths.PW.typeInt_of", "child": "Formalism_ThetaLogCoordinates_TraceIsometryWeights_SchurTraceProofs_TypeInt", "via": ["statement"]}
+{"parent": "Formalism.InvariantFactorPaths.PW.typeInt_of", "child": "Formalism_ThetaLogCoordinates_TraceIsometryWeights_SchurTraceProofs_InvInt", "via": ["solution", "statement"]}
+{"parent": "Formalism.InvariantFactorPaths.PW.typeInt_of", "child": "Formalism_ThetaLogCoordinates_TraceIsometryWeights_StatementB", "via": ["solution", "statement"]}
+{"parent": "Formalism.InvariantFactorPaths.PW.typeInt_of", "child": "Formalism_ThetaLogCoordinates_TraceIsometryWeights_SchurTraceProofs_HomRelationHolds", "via": ["solution", "statement"]}
+{"parent": "Formalism.InvariantFactorPaths.PW.typeInt_of", "child": "Formalism_ThetaLogCoordinates_TraceIsometryWeights_SchurTraceProofs_TypeInt", "via": ["solution", "statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PLinesStdIndexDet", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_StatementsLines", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_Objects_isMultiProjPrime_iff_a67b98d88a86", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_Objects", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_NumbersDVR_Objects_isMultiProjPrime_iff_a67b98d88a86", "child": "GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_MemOfMemSupportDivCycle", "via": ["solution", "statement"]}
@@ -67068,9 +67068,9 @@
 {"parent": "ULHC.end_flip_sep", "child": "ULHC.APair.flip", "via": ["solution", "statement"]}
 {"parent": "ULHC.end_flip_sep", "child": "ULHC_Complete", "via": ["solution", "statement"]}
 {"parent": "TwoSidedGrowth.Balance.Supplement.theorem_2", "child": "TwoSidedGrowth_Balance_Supplement_Stationary", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.entranceHit_firstHittingIsStoppingTime_of_isClosed", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.entranceHit_firstHittingIsStoppingTime_of_isClosed", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.entranceHit_firstHittingIsStoppingTime_of_isClosed", "child": "Kyprianou_Ch03_CompletedNaturalFiltration", "via": ["statement"]}
+{"parent": "Kyprianou.Ch03.entranceHit_firstHittingIsStoppingTime_of_isClosed", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.entranceHit_firstHittingIsStoppingTime_of_isClosed", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.entranceHit_firstHittingIsStoppingTime_of_isClosed", "child": "Kyprianou_Ch03_CompletedNaturalFiltration", "via": ["solution", "statement"]}
 {"parent": "ULHC.T.lfilterT_time_le", "child": "ULHC_Algorithm", "via": ["solution", "statement"]}
 {"parent": "ULHC.T.lfilterT_time_le", "child": "ULHC_Timed_TimeM", "via": ["solution", "statement"]}
 {"parent": "ULHC.ind_symmDiff", "child": "ULHC_Dual", "via": ["solution", "statement"]}
@@ -75442,8 +75442,8 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_NormalGermIntegrallyClosed_toGerm_eq_iff_6da30c5633ae", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StZariskiAnalyticNormality", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_NormalGermIntegrallyClosed_toGerm_eq_iff_6da30c5633ae", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StNormalGermIntegrallyClosed", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_NormalGermIntegrallyClosed_toGerm_eq_iff_6da30c5633ae", "child": "GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_OsgoodSeparate", "via": ["solution", "statement"]}
-{"parent": "Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrExp1.stepNo2", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_PairEvaluation", "via": ["statement"]}
-{"parent": "Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrExp1.stepNo2", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_AevalDiagMonomial", "via": ["statement"]}
+{"parent": "Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrExp1.stepNo2", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_PairEvaluation", "via": ["solution", "statement"]}
+{"parent": "Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrExp1.stepNo2", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_AevalDiagMonomial", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.ThKG.Tow.Levi.hf_mulVec", "child": "Development_WeilBound_ThetaLifts_TowerModels_ExistsRefl", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.DVR.sec_transport", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_LBLocal", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.DVR.sec_transport", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_LBTransport", "via": ["statement"]}

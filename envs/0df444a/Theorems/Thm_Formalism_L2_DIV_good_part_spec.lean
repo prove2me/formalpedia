@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_good_part_spec
 -- name    : Formalism.L2.DIV.good_part_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:45:43.613371+00:00
 -- url     : https://prove2.me/theorems/2bf5e172-f35c-47ae-ab38-549b7331b88c

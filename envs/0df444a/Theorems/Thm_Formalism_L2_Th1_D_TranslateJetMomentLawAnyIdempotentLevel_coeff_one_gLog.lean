@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TranslateJetMomentLawAnyIdempotentLevel_coeff_one_gLog
 -- name    : Formalism.L2.Th1.D.TranslateJetMomentLawAnyIdempotentLevel.coeff_one_gLog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:36:46.609468+00:00
 -- url     : https://prove2.me/theorems/236b76ab-b362-426f-96c3-2f2da96ef5f6

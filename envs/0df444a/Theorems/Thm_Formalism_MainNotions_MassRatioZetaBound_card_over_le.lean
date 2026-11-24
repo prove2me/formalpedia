@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_MassRatioZetaBound_card_over_le
 -- name    : Formalism.MainNotions.MassRatioZetaBound.card_over_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:17:26.563953+00:00
 -- url     : https://prove2.me/theorems/3e412545-6768-4e39-8533-2ceb63e60141

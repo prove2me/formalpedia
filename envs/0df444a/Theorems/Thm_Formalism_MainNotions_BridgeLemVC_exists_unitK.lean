@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLemVC_exists_unitK
 -- name    : Formalism.MainNotions.BridgeLemVC.exists_unitK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:55:51.26595+00:00
 -- url     : https://prove2.me/theorems/37086cbe-3007-4740-b680-75199e6012ad

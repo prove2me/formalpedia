@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GermB_divLinB_isGen
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GermB.divLinB_isGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:01:51.515272+00:00
 -- url     : https://prove2.me/theorems/d685d5f5-a0b5-4c2a-81b9-f8f080b8785c

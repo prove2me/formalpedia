@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_th0Basic_of
 -- name    : Formalism.L2.Th1.F.th0Basic_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:02:39.057846+00:00
 -- url     : https://prove2.me/theorems/d089b0f6-47d6-4030-bf88-1dec516de54f

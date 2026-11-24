@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_EtaleWeightGaps_isDVRAt_of_field_ext
 -- name    : Formalism.MainNotions.Gaps.EtaleWeightGaps.isDVRAt_of_field_ext
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:06.332518+00:00
 -- url     : https://prove2.me/theorems/a12b0436-2415-4be4-96d0-250061b2a4fa

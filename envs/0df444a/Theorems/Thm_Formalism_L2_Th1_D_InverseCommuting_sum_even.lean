@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_InverseCommuting_sum_even
 -- name    : Formalism.L2.Th1.D.InverseCommuting.sum_even
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:37:18.872653+00:00
 -- url     : https://prove2.me/theorems/a41ddd1d-3fa0-491f-a0f9-a4c16f3453cc

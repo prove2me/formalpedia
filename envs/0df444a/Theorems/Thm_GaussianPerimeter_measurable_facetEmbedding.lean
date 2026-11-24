@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_measurable_facetEmbedding
 -- name    : GaussianPerimeter.measurable_facetEmbedding
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:09:57.527803+00:00
 -- url     : https://prove2.me/theorems/ef2d4d90-b5fd-46c4-bb91-5f1be4923206

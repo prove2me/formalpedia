@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_GLWeightTheory_sub_sourcePart_sourceVar
 -- name    : Formalism.MainNotions.G.GLWeightTheory.sub_sourcePart_sourceVar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:55:20.617328+00:00
 -- url     : https://prove2.me/theorems/afae147c-fdad-45f0-9c10-65f522311466

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FJ_orbDom_of_latZ
 -- name    : Formalism.L2.Pj.FJ.orbDom_of_latZ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:46:27.563834+00:00
 -- url     : https://prove2.me/theorems/298b2fc0-e7bb-45df-9a4b-dec7dffe6d8e

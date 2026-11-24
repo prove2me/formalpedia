@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_lengthBaseChangeLocal
 -- name    : Formalism.LatticeBaseChangeAlt.lengthBaseChangeLocal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:32.708192+00:00
 -- url     : https://prove2.me/theorems/cb48ad86-7761-400c-883a-0895bccee94c

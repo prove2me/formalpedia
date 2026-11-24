@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_PhiCMin_bessel2
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.PhiCMin.bessel2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:02:50.98105+00:00
 -- url     : https://prove2.me/theorems/c512b7a1-8686-49f9-be36-a30034b1d514

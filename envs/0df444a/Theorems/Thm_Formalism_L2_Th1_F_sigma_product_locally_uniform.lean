@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_sigma_product_locally_uniform
 -- name    : Formalism.L2.Th1.F.sigma_product_locally_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:24:56.096816+00:00
 -- url     : https://prove2.me/theorems/aeead2db-9f9e-40f9-b2ac-f8f24ee5ffff

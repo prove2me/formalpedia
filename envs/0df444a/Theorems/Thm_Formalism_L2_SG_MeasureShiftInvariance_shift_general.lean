@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_MeasureShiftInvariance_shift_general
 -- name    : Formalism.L2.SG.MeasureShiftInvariance.shift_general
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:03.762421+00:00
 -- url     : https://prove2.me/theorems/1abe34fa-8b86-4a63-90ba-04c859e91403

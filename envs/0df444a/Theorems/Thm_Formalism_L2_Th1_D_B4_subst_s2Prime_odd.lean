@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_B4_subst_s2Prime_odd
 -- name    : Formalism.L2.Th1.D.B4.subst_s2Prime_odd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:39:22.268299+00:00
 -- url     : https://prove2.me/theorems/d153f6a8-7414-44ec-9546-fb7866f8286d

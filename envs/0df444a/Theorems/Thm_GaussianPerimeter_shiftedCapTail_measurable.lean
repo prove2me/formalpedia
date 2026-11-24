@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_shiftedCapTail_measurable
 -- name    : GaussianPerimeter.shiftedCapTail_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:09:47.633805+00:00
 -- url     : https://prove2.me/theorems/34f48bd4-cb32-409b-83cb-0c10f8ec2088

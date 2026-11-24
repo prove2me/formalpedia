@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_NormCut_normExp_abs
 -- name    : Formalism.L2.SG.NormCut.normExp_abs
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:48.913314+00:00
 -- url     : https://prove2.me/theorems/4f2d1c35-0b4c-4871-bb34-674be603f107

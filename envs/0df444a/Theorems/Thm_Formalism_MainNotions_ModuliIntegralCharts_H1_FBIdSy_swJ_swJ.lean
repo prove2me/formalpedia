@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_FBIdSy_swJ_swJ
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.FBIdSy.swJ_swJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:01:24.826691+00:00
 -- url     : https://prove2.me/theorems/aee4cb5c-7865-4d34-ac20-f7ca860b9344

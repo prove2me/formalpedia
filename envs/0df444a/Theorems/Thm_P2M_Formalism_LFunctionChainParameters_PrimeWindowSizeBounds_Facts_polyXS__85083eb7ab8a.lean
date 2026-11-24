@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_LFunctionChainParameters_PrimeWindowSizeBounds_Facts_polyXS__85083eb7ab8a
 -- name    : P2M_Formalism_LFunctionChainParameters_PrimeWindowSizeBounds_Facts_polyXS__85083eb7ab8a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:14:19.642458+00:00
 -- url     : https://prove2.me/theorems/4c18ad36-779b-4f71-b95a-cf6779d5b764

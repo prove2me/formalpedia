@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_divided_power_mod_p_of
 -- name    : Formalism.InvariantFactorPaths.L4.divided_power_mod_p_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:59:16.408424+00:00
 -- url     : https://prove2.me/theorems/f1d148de-a720-4b1a-9881-77a23ea6eaab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GermB_gm_divLC
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GermB.gm_divLC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:01:12.47184+00:00
 -- url     : https://prove2.me/theorems/8ddda315-491f-46ad-8f99-8977b9079061

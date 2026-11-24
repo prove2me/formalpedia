@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_product_first_zeroth_parts_ne_zero_of_pair_eq_one
 -- name    : Formalism.LogVandermondeBounds.product_first_zeroth_parts.ne_zero_of_pair_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:14:57.204665+00:00
 -- url     : https://prove2.me/theorems/cc851d64-625a-4d2c-beb8-77b75b2cd5f3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_FrobP_main
 -- name    : Formalism.LT.FrobP.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:10:25.060503+00:00
 -- url     : https://prove2.me/theorems/bebf9fb4-41e3-486c-bbad-cb99570806ff

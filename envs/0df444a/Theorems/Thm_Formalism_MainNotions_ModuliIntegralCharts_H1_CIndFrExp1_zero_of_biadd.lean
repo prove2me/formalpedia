@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrExp1_zero_of_biadd
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrExp1.zero_of_biadd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:57:27.704928+00:00
 -- url     : https://prove2.me/theorems/dae4d3d5-a29c-49fa-b7c5-f6813b8ee98c

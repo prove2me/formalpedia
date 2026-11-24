@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_GLWeightTheory_monomial_mul_prod_binomial_term
 -- name    : Formalism.MainNotions.G.GLWeightTheory.monomial_mul_prod_binomial_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:55:30.194249+00:00
 -- url     : https://prove2.me/theorems/1010a4b3-fb44-41e5-9fc6-e6fe1acecadc

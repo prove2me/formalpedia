@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_lensAngle_eq_four_arctan
 -- name    : MomentComparison.lensAngle_eq_four_arctan
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:11:28.073813+00:00
 -- url     : https://prove2.me/theorems/72a3b2ee-86ab-4152-84a0-b72a34918d5f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_treewidth_disjoint_union_le
 -- name    : WilliamsonShmoys.treewidth_disjoint_union_le
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-24T10:44:55.687712+00:00
 -- url     : https://prove2.me/theorems/5f42d7c8-ca87-4644-9b52-e22ef3844c24

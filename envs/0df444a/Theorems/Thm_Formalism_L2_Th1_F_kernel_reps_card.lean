@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_kernel_reps_card
 -- name    : Formalism.L2.Th1.F.kernel_reps_card
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:27:31.265394+00:00
 -- url     : https://prove2.me/theorems/59edc15e-6baf-4adb-9984-04914118455d

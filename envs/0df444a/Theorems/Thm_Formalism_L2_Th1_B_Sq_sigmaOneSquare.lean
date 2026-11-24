@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Sq_sigmaOneSquare
 -- name    : Formalism.L2.Th1.B.Sq.sigmaOneSquare
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:06.921198+00:00
 -- url     : https://prove2.me/theorems/de189613-ef23-4209-a160-9bf23c3e526f

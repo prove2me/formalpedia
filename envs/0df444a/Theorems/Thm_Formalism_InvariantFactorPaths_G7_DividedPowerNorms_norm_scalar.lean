@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_DividedPowerNorms_norm_scalar
 -- name    : Formalism.InvariantFactorPaths.G7.DividedPowerNorms.norm_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:11:14.066177+00:00
 -- url     : https://prove2.me/theorems/de77805b-abd8-4e83-9f09-8634284d8a4e

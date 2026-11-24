@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_mem_XgE
 -- name    : Formalism.L2.Col.mem_XgE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:46:16.304805+00:00
 -- url     : https://prove2.me/theorems/3b6d66be-45a6-4501-9a9c-ecdc7d475e6a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGB_aug_comp_eq
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGB.aug_comp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:59:09.402058+00:00
 -- url     : https://prove2.me/theorems/a393c345-481f-4a22-8469-2ff28e007529

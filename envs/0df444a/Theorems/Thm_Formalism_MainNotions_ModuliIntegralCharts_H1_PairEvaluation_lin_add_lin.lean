@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_PairEvaluation_lin_add_lin
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.PairEvaluation.lin_add_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:02:33.03821+00:00
 -- url     : https://prove2.me/theorems/5ed6c682-c184-427a-8fcf-16ad692cb357

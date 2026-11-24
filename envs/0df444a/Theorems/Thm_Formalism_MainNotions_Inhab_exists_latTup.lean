@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Inhab_exists_latTup
 -- name    : Formalism.MainNotions.Inhab.exists_latTup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:56:17.488796+00:00
 -- url     : https://prove2.me/theorems/95641158-4d5a-42b4-9c7d-6574920477d0

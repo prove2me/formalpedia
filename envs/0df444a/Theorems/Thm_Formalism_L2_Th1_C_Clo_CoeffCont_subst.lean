@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Clo_CoeffCont_subst
 -- name    : Formalism.L2.Th1.C.Clo.CoeffCont.subst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:16:46.308571+00:00
 -- url     : https://prove2.me/theorems/23e8e89e-e712-4a64-9419-c87f8468304b

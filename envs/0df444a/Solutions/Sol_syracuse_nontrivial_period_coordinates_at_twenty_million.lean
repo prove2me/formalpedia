@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for syracuse_nontrivial_period_coordinates_at_twenty_million
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @immiq
 -- created : 2026-11-24T10:37:42.865174+00:00
 -- url     : https://prove2.me/submissions/a94a4af9-f0cc-49ca-b39c-1bad94719fb6
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_syracuse_no_cycle_below_twenty_million_cutoff
 import Theorems.Thm_syracuse_periodic_reaches_one

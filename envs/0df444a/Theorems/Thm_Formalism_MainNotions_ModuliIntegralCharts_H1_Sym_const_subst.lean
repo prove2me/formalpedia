@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_Sym_const_subst
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.Sym.const_subst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:02:29.927211+00:00
 -- url     : https://prove2.me/theorems/3adf5334-0a9d-4b17-b881-7a07f54ba2c7

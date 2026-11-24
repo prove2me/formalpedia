@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_CompatibleChartOperations_intMv_thetaProd
 -- name    : Formalism.L2.Th1.E.CompatibleChartOperations.intMv_thetaProd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:53:38.061136+00:00
 -- url     : https://prove2.me/theorems/c4984bad-9753-42e9-a70e-6ae5e18d7808

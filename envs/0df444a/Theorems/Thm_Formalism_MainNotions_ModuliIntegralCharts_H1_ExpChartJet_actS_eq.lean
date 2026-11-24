@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpChartJet_actS_eq
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpChartJet.actS_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:58:44.226111+00:00
 -- url     : https://prove2.me/theorems/22937598-0dcd-4f4e-a932-8efe24f4f097

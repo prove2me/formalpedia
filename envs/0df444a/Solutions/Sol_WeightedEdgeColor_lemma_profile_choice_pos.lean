@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WeightedEdgeColor.lemma_profile_choice_pos
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Shuze Chen
 -- created : 2026-11-24T09:42:22.810946+00:00
 -- url     : https://prove2.me/submissions/6b875336-918d-43da-b0b1-028b6c4b9947
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WeightedEdgeColor_WGraph

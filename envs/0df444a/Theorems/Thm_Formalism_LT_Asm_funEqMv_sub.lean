@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_Asm_funEqMv_sub
 -- name    : Formalism.LT.Asm.funEqMv_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:58.266306+00:00
 -- url     : https://prove2.me/theorems/8ef71c32-80d8-423b-9080-d89f9f102729

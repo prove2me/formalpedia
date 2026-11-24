@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_syracuse_nontrivial_period_coordinates_at_twenty_million
 -- name    : syracuse_nontrivial_period_coordinates_at_twenty_million
--- status  : Open
+-- status  : Proved
 -- author  : @immiq
 -- created : 2026-11-24T10:36:48.215887+00:00
 -- url     : https://prove2.me/theorems/3cab8615-2e85-420a-8a3f-88728e4955e0

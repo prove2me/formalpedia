@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_local_estimate_fourth
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.local_estimate_fourth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:45:05.131476+00:00
 -- url     : https://prove2.me/theorems/728feec8-c4d4-49c4-8f38-81d0c2b16c7d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_DegNN_of
 -- name    : Formalism.L2.LamCM.DegNN_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:11.585729+00:00
 -- url     : https://prove2.me/theorems/83a4c9bf-0397-4ba6-8aef-2ff6810d85d2

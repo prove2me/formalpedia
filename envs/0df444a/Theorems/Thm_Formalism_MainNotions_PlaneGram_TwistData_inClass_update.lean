@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_inClass_update
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.inClass_update
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:05:02.625332+00:00
 -- url     : https://prove2.me/theorems/9a81db14-798c-4a72-9a8f-c700a4170e8f

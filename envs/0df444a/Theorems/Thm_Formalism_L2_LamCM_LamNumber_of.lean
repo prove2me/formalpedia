@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_LamNumber_of
 -- name    : Formalism.L2.LamCM.LamNumber_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:35:53.769617+00:00
 -- url     : https://prove2.me/theorems/cfa26849-dd32-4808-8669-6199bc1dad6c

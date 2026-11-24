@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_KillingConditions_WildPf_IsWild_val_div
 -- name    : Formalism.MainNotions.N.KillingConditions.WildPf.IsWild.val_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:03:23.149772+00:00
 -- url     : https://prove2.me/theorems/7762c635-a580-4f4a-9e25-ea569ad910da

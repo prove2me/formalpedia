@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_restrict_mem
 -- name    : Formalism.L2.Th1.H.restrict_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:58.022124+00:00
 -- url     : https://prove2.me/theorems/89669dd2-84ca-4d1c-bef3-2a16e1e914d0

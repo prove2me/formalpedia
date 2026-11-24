@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_discriminantNormShapes_exists_solve_herm
 -- name    : Formalism.L2.SG.Pf.discriminantNormShapes.exists_solve_herm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:51:52.055883+00:00
 -- url     : https://prove2.me/theorems/3c6ee23c-8845-41ac-8a7b-4769ab38fac5

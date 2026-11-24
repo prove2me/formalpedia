@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_factorial_embedded_exponent
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.factorial_embedded_exponent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:06:02.485937+00:00
 -- url     : https://prove2.me/theorems/3d94051f-180c-4bf2-83cb-a4ee453744bf

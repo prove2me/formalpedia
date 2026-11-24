@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_SectionsFourToSixTransfer_exact_coefficient_price
 -- name    : Formalism.LFunctionChainParameters.SectionsFourToSixTransfer.exact_coefficient_price
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:28.919697+00:00
 -- url     : https://prove2.me/theorems/def89819-6b36-4e50-8f37-ffde1569dbd1

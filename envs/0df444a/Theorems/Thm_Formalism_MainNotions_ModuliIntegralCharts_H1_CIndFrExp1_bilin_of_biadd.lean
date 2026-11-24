@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrExp1_bilin_of_biadd
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrExp1.bilin_of_biadd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:57:37.110818+00:00
 -- url     : https://prove2.me/theorems/92bf4895-febd-4f11-a9f8-9024e3a997c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Inhab_subst_one
 -- name    : Formalism.MainNotions.Inhab.subst_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:57:33.066695+00:00
 -- url     : https://prove2.me/theorems/195cf23b-ca49-4431-8b3d-d471f513652f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_LatticeGluingRadicals_common_int_denomL
 -- name    : Formalism.MainNotions.LatticeGluingRadicals.common_int_denomL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:56:56.202018+00:00
 -- url     : https://prove2.me/theorems/a2eeba1e-10cd-4749-8e9a-8208e61af253

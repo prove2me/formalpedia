@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_BiextensionSums_simeq_sum
 -- name    : Formalism.L2.Th1.D.BiextensionSums.simeq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:37:11.985723+00:00
 -- url     : https://prove2.me/theorems/07d2c5be-3e4d-43b1-acc3-7f1070d6a5e7

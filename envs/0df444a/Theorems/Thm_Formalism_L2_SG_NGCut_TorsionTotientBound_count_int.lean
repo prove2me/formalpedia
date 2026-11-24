@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_NGCut_TorsionTotientBound_count_int
 -- name    : Formalism.L2.SG.NGCut.TorsionTotientBound.count_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:14.253284+00:00
 -- url     : https://prove2.me/theorems/e933c00a-41fa-4b39-9a41-afaecca2568d

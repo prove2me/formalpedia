@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGB_jetSubstPS_trunc
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGB.jetSubstPS_trunc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:59:28.526029+00:00
 -- url     : https://prove2.me/theorems/3bc4bb87-2b05-40da-a594-3a86474bdd39

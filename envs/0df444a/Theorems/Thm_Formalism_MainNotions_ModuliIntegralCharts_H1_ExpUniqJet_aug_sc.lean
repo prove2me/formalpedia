@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpUniqJet_aug_sc
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpUniqJet.aug_sc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:00:52.240792+00:00
 -- url     : https://prove2.me/theorems/55eb42ed-7452-49bd-bbc8-393c78ee4ab3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_MassRatioBoundPower_exp_le_two_pow
 -- name    : Formalism.MainNotions.MassRatioBoundPower.exp_le_two_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:17:31.804176+00:00
 -- url     : https://prove2.me/theorems/acd43b4f-b0a5-44e1-8cfa-4b8c0a15ba79

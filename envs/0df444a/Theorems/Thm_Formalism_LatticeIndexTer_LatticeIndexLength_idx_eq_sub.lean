@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_LatticeIndexLength_idx_eq_sub
 -- name    : Formalism.LatticeIndexTer.LatticeIndexLength.idx_eq_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:31.824874+00:00
 -- url     : https://prove2.me/theorems/85fa1e0f-74b6-4e3e-b8f4-c15e406507a3

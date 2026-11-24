@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLemVC_span_unit_mul
 -- name    : Formalism.MainNotions.BridgeLemVC.span_unit_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:55:20.956485+00:00
 -- url     : https://prove2.me/theorems/bcf7ca1f-837a-4083-9b97-28b0a95b20ee

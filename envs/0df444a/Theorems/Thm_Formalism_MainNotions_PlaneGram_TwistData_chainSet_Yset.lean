@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_chainSet_Yset
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.chainSet_Yset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:04:39.227028+00:00
 -- url     : https://prove2.me/theorems/afc2766d-9f09-4fb3-8c34-ca6ae3eb7ffd

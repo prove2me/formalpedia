@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_CompFin_finite_comp
 -- name    : Formalism.L2.Pj.CompFin.finite_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:04:13.48187+00:00
 -- url     : https://prove2.me/theorems/21544c14-6461-48c2-8385-98c388cc5eca

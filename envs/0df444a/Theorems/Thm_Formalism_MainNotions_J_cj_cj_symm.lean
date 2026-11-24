@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_J_cj_cj_symm
 -- name    : Formalism.MainNotions.J.cj_cj_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:56:57.035413+00:00
 -- url     : https://prove2.me/theorems/4bf1fc26-feb4-4337-b361-38baf1ddf32a

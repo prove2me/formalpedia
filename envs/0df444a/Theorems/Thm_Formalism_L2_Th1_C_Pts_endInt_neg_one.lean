@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Pts_endInt_neg_one
 -- name    : Formalism.L2.Th1.C.Pts.endInt_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:23:50.031097+00:00
 -- url     : https://prove2.me/theorems/db3ba366-3662-4317-88b8-1d17ae73c418

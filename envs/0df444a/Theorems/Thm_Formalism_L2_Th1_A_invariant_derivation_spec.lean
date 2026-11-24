@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_invariant_derivation_spec
 -- name    : Formalism.L2.Th1.A.invariant_derivation_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:16.965802+00:00
 -- url     : https://prove2.me/theorems/900b3489-0c96-4207-95fe-15a06c78f1ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_compInvSpec
 -- name    : Formalism.L2.Th1.A.compInvSpec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:14:25.941433+00:00
 -- url     : https://prove2.me/theorems/dd9cf44a-5486-496f-991d-48b89ee149ed

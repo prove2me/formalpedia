@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_finrank_span_image_alt
 -- name    : Formalism.LatticeBaseChangeAlt.finrank_span_image_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:52:06.242261+00:00
 -- url     : https://prove2.me/theorems/d0d32a86-35f3-47db-8e7c-66f451c8ab2d

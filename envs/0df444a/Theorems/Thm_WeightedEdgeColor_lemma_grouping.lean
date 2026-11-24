@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeightedEdgeColor_lemma_grouping
 -- name    : WeightedEdgeColor.lemma_grouping
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-24T05:47:15.095793+00:00
 -- url     : https://prove2.me/theorems/22052f99-e59a-48c7-a4aa-83896932cc04

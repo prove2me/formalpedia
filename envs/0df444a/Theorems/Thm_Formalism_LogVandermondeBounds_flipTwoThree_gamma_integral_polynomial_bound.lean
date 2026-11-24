@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_flipTwoThree_gamma_integral_polynomial_bound
 -- name    : Formalism.LogVandermondeBounds.flipTwoThree.gamma_integral_polynomial_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:39:54.955187+00:00
 -- url     : https://prove2.me/theorems/66b27a57-a33f-429a-8f21-e02331461185

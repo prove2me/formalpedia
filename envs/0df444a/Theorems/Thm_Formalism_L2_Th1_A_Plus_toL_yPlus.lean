@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Plus_toL_yPlus
 -- name    : Formalism.L2.Th1.A.Plus.toL_yPlus
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:04.838271+00:00
 -- url     : https://prove2.me/theorems/87ae5555-eb72-4199-858b-f0b747b8c848

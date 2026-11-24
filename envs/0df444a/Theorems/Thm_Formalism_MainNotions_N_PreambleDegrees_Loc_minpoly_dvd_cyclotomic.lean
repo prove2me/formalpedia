@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_PreambleDegrees_Loc_minpoly_dvd_cyclotomic
 -- name    : Formalism.MainNotions.N.PreambleDegrees.Loc.minpoly_dvd_cyclotomic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:03:41.616308+00:00
 -- url     : https://prove2.me/theorems/fa710a32-f308-4a76-8664-23ced3994325

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_lamStrip_of
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.lamStrip_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:20:28.010981+00:00
 -- url     : https://prove2.me/theorems/87c42171-f16f-4087-ace6-1fee3835626a

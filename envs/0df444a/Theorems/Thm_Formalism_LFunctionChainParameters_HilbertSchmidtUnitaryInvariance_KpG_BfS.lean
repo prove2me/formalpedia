@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtUnitaryInvariance_KpG_BfS
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtUnitaryInvariance.KpG_BfS
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:06:05.38882+00:00
 -- url     : https://prove2.me/theorems/d0485b75-0525-4ce7-a6e6-f1be2719a836

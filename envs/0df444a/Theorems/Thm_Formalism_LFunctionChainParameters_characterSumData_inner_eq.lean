@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_characterSumData_inner_eq
 -- name    : Formalism.LFunctionChainParameters.characterSumData.inner_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:37:21.256813+00:00
 -- url     : https://prove2.me/theorems/df5e3fec-d26e-441a-982d-6b075a73ba69

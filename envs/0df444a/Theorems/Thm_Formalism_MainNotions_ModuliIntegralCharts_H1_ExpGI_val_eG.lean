@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGI_val_eG
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGI.val_eG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:01:34.017366+00:00
 -- url     : https://prove2.me/theorems/54ddab62-fbe1-4056-8096-0e35241ec84f

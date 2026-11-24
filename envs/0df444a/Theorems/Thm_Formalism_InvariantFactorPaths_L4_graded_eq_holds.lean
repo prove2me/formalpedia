@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_graded_eq_holds
 -- name    : Formalism.InvariantFactorPaths.L4.graded_eq_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:43:34.601642+00:00
 -- url     : https://prove2.me/theorems/2549d164-dbfd-4c83-932c-70581fcd8636

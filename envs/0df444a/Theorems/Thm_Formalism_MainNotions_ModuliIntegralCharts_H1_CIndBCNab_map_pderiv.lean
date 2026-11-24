@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndBCNab_map_pderiv
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndBCNab.map_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:57:38.386379+00:00
 -- url     : https://prove2.me/theorems/8745d1bb-9f68-4a0b-b92f-fdd0f60fd29b

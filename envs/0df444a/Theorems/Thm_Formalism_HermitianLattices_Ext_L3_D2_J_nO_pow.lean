@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_J_nO_pow
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.J.nO_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:55:09.656532+00:00
 -- url     : https://prove2.me/theorems/6af0c394-15dd-4332-b8c1-b9ecf1e2860a

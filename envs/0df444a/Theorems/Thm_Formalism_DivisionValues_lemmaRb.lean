@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_lemmaRb
 -- name    : Formalism.DivisionValues.lemmaRb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:23:25.612503+00:00
 -- url     : https://prove2.me/theorems/8520100a-3a13-44ad-a963-d79ce2403d3c

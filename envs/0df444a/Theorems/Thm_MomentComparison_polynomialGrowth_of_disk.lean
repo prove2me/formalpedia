@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MomentComparison_polynomialGrowth_of_disk
 -- name    : MomentComparison.polynomialGrowth_of_disk
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:22:28.074799+00:00
 -- url     : https://prove2.me/theorems/f88545c0-cba2-4dc5-9e6d-565e5df29170

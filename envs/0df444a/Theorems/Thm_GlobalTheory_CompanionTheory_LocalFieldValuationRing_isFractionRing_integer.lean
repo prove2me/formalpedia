@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LocalFieldValuationRing_isFractionRing_integer
 -- name    : GlobalTheory.CompanionTheory.LocalFieldValuationRing.isFractionRing_integer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:49:36.262841+00:00
 -- url     : https://prove2.me/theorems/4732cc44-5954-434e-8076-13290a7f241c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GaugeR_embK_conj
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GaugeR.embK_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:01:25.138487+00:00
 -- url     : https://prove2.me/theorems/ae21da3d-afe9-4164-b782-a8c936ce07e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PartialResampling_pra_exists
 -- name    : PartialResampling.pra_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-24T10:47:09.188364+00:00
 -- url     : https://prove2.me/theorems/aef5fdae-d87f-41a1-9995-5984ff35ad1f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_MatrixLatticeEstimates_transfer_fin_index_holds
 -- name    : Formalism.LFunctionChainParameters.MatrixLatticeEstimates.transfer_fin_index_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:50:40.425435+00:00
 -- url     : https://prove2.me/theorems/0d1d83fe-c3af-430a-b530-968fd8624140

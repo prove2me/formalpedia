@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_MassRatioZetaBound_summable_Z
 -- name    : Formalism.MainNotions.MassRatioZetaBound.summable_Z
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:56:50.547937+00:00
 -- url     : https://prove2.me/theorems/3eb26975-a920-4111-8a77-ecac9383cefb

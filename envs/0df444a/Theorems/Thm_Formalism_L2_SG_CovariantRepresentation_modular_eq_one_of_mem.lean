@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_CovariantRepresentation_modular_eq_one_of_mem
 -- name    : Formalism.L2.SG.CovariantRepresentation.modular_eq_one_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:00.675306+00:00
 -- url     : https://prove2.me/theorems/6f5f61b9-df6b-427d-8e4a-26d463166ca1

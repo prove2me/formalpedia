@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGJ_cc_psIn
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGJ.cc_psIn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:00:52.202889+00:00
 -- url     : https://prove2.me/theorems/55203aa8-4edd-428a-ad89-ebce007469d5

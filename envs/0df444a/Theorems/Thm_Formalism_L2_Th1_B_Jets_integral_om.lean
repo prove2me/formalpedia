@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Jets_integral_om
 -- name    : Formalism.L2.Th1.B.Jets.integral_om
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:41.43129+00:00
 -- url     : https://prove2.me/theorems/1659b7e4-971e-441a-b169-12362a9b86d7

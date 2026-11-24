@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_LieAlg_eig_basis
 -- name    : Formalism.L2.Pj.LieAlg.eig_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:56.817208+00:00
 -- url     : https://prove2.me/theorems/4d645684-474e-4ddf-994f-2d77253e6113

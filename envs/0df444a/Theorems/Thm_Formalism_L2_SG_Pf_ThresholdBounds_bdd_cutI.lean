@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_ThresholdBounds_bdd_cutI
 -- name    : Formalism.L2.SG.Pf.ThresholdBounds.bdd_cutI
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:21.143062+00:00
 -- url     : https://prove2.me/theorems/9981a1bd-b16c-4b37-a973-5004a0d64497

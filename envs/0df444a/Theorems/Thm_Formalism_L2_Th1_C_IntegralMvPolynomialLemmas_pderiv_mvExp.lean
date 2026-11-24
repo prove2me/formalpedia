@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_IntegralMvPolynomialLemmas_pderiv_mvExp
 -- name    : Formalism.L2.Th1.C.IntegralMvPolynomialLemmas.pderiv_mvExp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:23:30.928417+00:00
 -- url     : https://prove2.me/theorems/4ea289e4-e9ed-4ce8-a05e-b52eff2e823d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_LeviCoordinates_rrc_inner
 -- name    : Formalism.MainNotions.LeviCoordinates.rrc_inner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:56:44.121884+00:00
 -- url     : https://prove2.me/theorems/79d38e31-470d-4b52-ac8c-e06be867ca15

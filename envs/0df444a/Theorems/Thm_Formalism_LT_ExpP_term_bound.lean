@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_ExpP_term_bound
 -- name    : Formalism.LT.ExpP.term_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:56:58.071612+00:00
 -- url     : https://prove2.me/theorems/96290a87-90ae-4111-bf8e-f939cf9a709c

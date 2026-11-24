@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_SingleLetterLog_at_variable_artin_hasse_eq_one_log
 -- name    : Formalism.L2.Th1.D.SingleLetterLog.at_variable_artin_hasse_eq_one_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:39:57.066274+00:00
 -- url     : https://prove2.me/theorems/f469f8dc-6642-43b1-83d3-a63cb6fd7b00

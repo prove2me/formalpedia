@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_Power_closed
 -- name    : Formalism.L2.Th1.E.Power.closed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:22.765585+00:00
 -- url     : https://prove2.me/theorems/4e7db709-6d73-46e9-9811-21369551fd72

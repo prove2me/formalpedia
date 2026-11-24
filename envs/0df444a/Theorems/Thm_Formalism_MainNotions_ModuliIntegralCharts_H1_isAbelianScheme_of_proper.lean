@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_isAbelianScheme_of_proper
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.isAbelianScheme_of_proper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:03:06.806354+00:00
 -- url     : https://prove2.me/theorems/4cc802dd-2957-4e4d-a7ab-f66892687721

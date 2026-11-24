@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Wp_wEq_sig
 -- name    : Formalism.L2.Th1.A.Wp.wEq_sig
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:01.689036+00:00
 -- url     : https://prove2.me/theorems/534ffab0-e6a3-43cc-8248-dcc7c6d9b388

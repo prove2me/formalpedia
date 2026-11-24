@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain_x_large_eventually
 -- name    : Formalism.LFunctionChainParameters.LChain.x_large_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:10:29.281079+00:00
 -- url     : https://prove2.me/theorems/98e0b9f1-d199-47b3-a443-23a6f9979eaf

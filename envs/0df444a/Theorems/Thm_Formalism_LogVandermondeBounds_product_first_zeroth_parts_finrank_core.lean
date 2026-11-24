@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_product_first_zeroth_parts_finrank_core
 -- name    : Formalism.LogVandermondeBounds.product_first_zeroth_parts.finrank_core
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:24.830259+00:00
 -- url     : https://prove2.me/theorems/9f4cc8a0-a38b-4b48-8b65-427b06fb1432

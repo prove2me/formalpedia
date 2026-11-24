@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NCov_exists_pt
 -- name    : Formalism.L2.NCov.exists_pt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:14:16.813811+00:00
 -- url     : https://prove2.me/theorems/cf262de4-997e-461a-80ca-d6d90ba83a23

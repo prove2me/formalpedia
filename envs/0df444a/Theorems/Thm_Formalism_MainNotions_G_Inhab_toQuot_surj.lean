@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_Inhab_toQuot_surj
 -- name    : Formalism.MainNotions.G.Inhab.toQuot_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:56:19.745804+00:00
 -- url     : https://prove2.me/theorems/e61e9326-bdb7-447d-bfc6-87f30c7723e7

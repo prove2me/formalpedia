@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_characterSumData_PB_mul_chC_eq_zero_iff
 -- name    : Formalism.LFunctionChainParameters.characterSumData.PB.mul_chC_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:11.784058+00:00
 -- url     : https://prove2.me/theorems/bace62f4-8800-4286-b47d-4f6e0dd7feda

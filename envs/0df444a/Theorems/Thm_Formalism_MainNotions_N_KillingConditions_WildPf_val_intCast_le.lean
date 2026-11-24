@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_KillingConditions_WildPf_val_intCast_le
 -- name    : Formalism.MainNotions.N.KillingConditions.WildPf.val_intCast_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:03:41.952345+00:00
 -- url     : https://prove2.me/theorems/e2c8a906-3e93-4294-9523-2b05dc8a7c5d

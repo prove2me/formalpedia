@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_GLWeightTheory_matrixSubst_transvection_X
 -- name    : Formalism.MainNotions.G.GLWeightTheory.matrixSubst_transvection_X
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:40:42.736894+00:00
 -- url     : https://prove2.me/theorems/5bbcefbb-871e-4e2b-aa15-4441259457c1

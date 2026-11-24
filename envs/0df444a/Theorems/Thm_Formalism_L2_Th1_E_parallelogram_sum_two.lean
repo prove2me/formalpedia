@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_parallelogram_sum_two
 -- name    : Formalism.L2.Th1.E.parallelogram_sum_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:02:50.296604+00:00
 -- url     : https://prove2.me/theorems/99471bde-58ef-47f1-953f-d8450e457d24

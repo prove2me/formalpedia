@@ -33813,7 +33813,7 @@
 {"parent": "KColoringFaster.ListBootstrap.lemma_4_1", "child": "KColoringFaster_ListBootstrap_Instances", "via": ["statement"]}
 {"parent": "ParallelDiffusionLB.NearIsotropic.theorem_3_1", "child": "PolySampIso_Divergences", "via": ["statement"]}
 {"parent": "ParallelDiffusionLB.NearIsotropic.theorem_3_1", "child": "ParallelDiffusionLB_NearIsotropic_Product", "via": ["statement"]}
-{"parent": "HighConfRobust.fact_3_1", "child": "TotalVariationDist", "via": ["statement"]}
+{"parent": "HighConfRobust.fact_3_1", "child": "TotalVariationDist", "via": ["solution", "statement"]}
 {"parent": "AutobidSPPE_iterate", "child": "AutobidSPPE_response", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.tm1_3_1.KContains_g", "child": "OAIQ098G083", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.tm1_3_1.KContains_g", "child": "OAIQ098G1682", "via": ["solution", "statement"]}
@@ -34258,7 +34258,7 @@
 {"parent": "Grunbaum2003.global_facet_from_compatible_local_facets_and_ridge_gluing", "child": "Grunbaum2003_SkeletonFace", "via": ["solution", "statement"]}
 {"parent": "StabilityDichotomies.Solvability.stable_solvability_dichotomy", "child": "StabilityDichotomies_Solvability_Stability", "via": ["solution", "statement"]}
 {"parent": "StabilityDichotomies.Solvability.stable_solvability_dichotomy", "child": "StabilityDichotomies_Solvability_FiniteDuality", "via": ["solution", "statement"]}
-{"parent": "HighConfRobust.fact_3_3_ii", "child": "HighConfRobust_renyiDivergence", "via": ["statement"]}
+{"parent": "HighConfRobust.fact_3_3_ii", "child": "HighConfRobust_renyiDivergence", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedTargetSemantics.reducedMergeEval164_e", "child": "MUBSix", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedTargetSemantics.reducedMergeEval164_e", "child": "OAIQ106E122", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedTargetSemantics.reducedMergeEval164_e", "child": "OAIQ106E130", "via": ["solution", "statement"]}
@@ -35073,7 +35073,7 @@
 {"parent": "ParityDegreeDepth_Main_Context", "child": "ParityCubes_anfCoeff", "via": ["statement"]}
 {"parent": "ParityDegreeDepth_Main_Context", "child": "DetCCHard_Protocol", "via": ["statement"]}
 {"parent": "ParityDegreeDepth_Main_Context", "child": "QAlgorithms_Defs_BooleanFourier", "via": ["statement"]}
-{"parent": "HighConfRobust.fact_4_4", "child": "HighConfRobust_renyiDivergence", "via": ["statement"]}
+{"parent": "HighConfRobust.fact_4_4", "child": "HighConfRobust_renyiDivergence", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.IntegerCompact.roots13_contains_g", "child": "OAIQ098G072", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.IntegerCompact.roots13_contains_g", "child": "OAIQ098G083", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.IntegerCompact.roots13_contains_g", "child": "OAIQ098G064", "via": ["statement"]}
@@ -36728,7 +36728,7 @@
 {"parent": "KSPolySign.lemma_3_10", "child": "KSPolySign_IsOptimal", "via": ["statement"]}
 {"parent": "KSPolySign.lemma_3_10", "child": "KSPolySign_IsInstance", "via": ["statement"]}
 {"parent": "QuadraticProbe717.Insertion.shift_intersection", "child": "QuadraticProbe717_Insertion_arithmetic", "via": ["statement"]}
-{"parent": "HighConfRobust.fact_3_3_iii", "child": "HighConfRobust_renyiDivergence", "via": ["statement"]}
+{"parent": "HighConfRobust.fact_3_3_iii", "child": "HighConfRobust_renyiDivergence", "via": ["solution", "statement"]}
 {"parent": "ForestPersuasion.Symmetric.recursion_7", "child": "ForestPersuasion_Symmetric_DP", "via": ["statement"]}
 {"parent": "QECDecodingHardness_AllThree_cnot_model", "child": "QECDecodingHardness_AllThree_lattice_coordinates", "via": ["statement"]}
 {"parent": "SecondBestTrade_HalfEfficiency_Clocks", "child": "SecondBestTrade_HalfEfficiency_Dual", "via": ["statement"]}
@@ -37100,7 +37100,7 @@
 {"parent": "ModLatSVP.eq_7", "child": "ModLatSVP_IsStar", "via": ["statement"]}
 {"parent": "ModLatSVP.eq_7", "child": "ModLatSVP_IsModuleFlag", "via": ["statement"]}
 {"parent": "TriFreeEst247.Main.lemma_3_9", "child": "TriFreeEst247_Main_BlockUpdates", "via": ["statement"]}
-{"parent": "HighConfRobust.fact_3_3_iv", "child": "HighConfRobust_renyiDivergence", "via": ["statement"]}
+{"parent": "HighConfRobust.fact_3_3_iv", "child": "HighConfRobust_renyiDivergence", "via": ["solution", "statement"]}
 {"parent": "LinearSetReconciliation327_Main_TopLevel", "child": "LinearSetReconciliation327_Main_Framework", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_bv_small13_original_strategy_compact_signed_HJB_expected_nonpos", "child": "AvramDividend.Classical.avram_bv_small13_original_strategy_compact_HJB_drift_L1", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bv_small13_original_strategy_compact_signed_HJB_expected_nonpos", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
@@ -38631,7 +38631,7 @@
 {"parent": "OAI.MUB6.Certificate.MixedTargetSemantics.reducedMergeEval1555_e", "child": "OAIQ106E130", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedTargetSemantics.reducedMergeEval1555_e", "child": "OAIQ106E137", "via": ["solution", "statement"]}
 {"parent": "BipHamCount.Deterministic.lemma_3_1", "child": "BipHamCount_Deterministic_Core", "via": ["statement"]}
-{"parent": "HighConfRobust.fact_3_3_i", "child": "HighConfRobust_renyiDivergence", "via": ["statement"]}
+{"parent": "HighConfRobust.fact_3_3_i", "child": "HighConfRobust_renyiDivergence", "via": ["solution", "statement"]}
 {"parent": "BatchMaxService.Metric.two_family_bound", "child": "BatchMaxService_Metric_Certificates", "via": ["statement"]}
 {"parent": "FourierDimTesting102.Quantum.fourier_state_one_query", "child": "FourierDimTesting102_Quantum_Algorithm", "via": ["statement"]}
 {"parent": "ResultantVNP.theorem_1_4_symmetric_tensor", "child": "ResultantVNP_symTensorDet", "via": ["statement"]}
@@ -42530,8 +42530,8 @@
 {"parent": "OAI.SharpPlanar.CachedData.hm4_0_0_4.s3_eq_g", "child": "OAIQ098G1276", "via": ["solution", "statement"]}
 {"parent": "IntADSat.prop_A_2", "child": "IntADSat_wordLattice", "via": ["statement"]}
 {"parent": "IntADSat.prop_A_2", "child": "IntADSat_wordModule", "via": ["statement"]}
-{"parent": "HighConfRobust.lemma_4_3", "child": "TotalVariationDist", "via": ["statement"]}
-{"parent": "HighConfRobust.lemma_4_3", "child": "HighConfRobust_renyiDivergence", "via": ["statement"]}
+{"parent": "HighConfRobust.lemma_4_3", "child": "TotalVariationDist", "via": ["solution", "statement"]}
+{"parent": "HighConfRobust.lemma_4_3", "child": "HighConfRobust_renyiDivergence", "via": ["solution", "statement"]}
 {"parent": "SkipListConc_Wlev", "child": "SkipListConc_levelW", "via": ["statement"]}
 {"parent": "NAMatchEst_RandAlg", "child": "NAMatchEst_Query", "via": ["statement"]}
 {"parent": "NAMatchEst_RandAlg", "child": "WildeQIT_FinDist", "via": ["statement"]}
@@ -45420,10 +45420,10 @@
 {"parent": "DeMorganApprox.Main.lemma_5_7", "child": "DeMorganApprox_Main_HeavyChains", "via": ["statement"]}
 {"parent": "MLAMaxDelay.RandomizedTimer.connected_cut_inequalities", "child": "MLAMaxDelay_RandomizedTimer_Potential", "via": ["statement"]}
 {"parent": "EditMulticoloring_Code_Construction", "child": "EditMulticoloring_Code_Graph", "via": ["statement"]}
-{"parent": "HighConfRobust.theorem_4_2", "child": "HighConfRobust_IsHighConfidence", "via": ["statement"]}
-{"parent": "HighConfRobust.theorem_4_2", "child": "HighConfRobust_IsTVRobust", "via": ["statement"]}
-{"parent": "HighConfRobust.theorem_4_2", "child": "HighConfRobust_extFamily", "via": ["statement"]}
-{"parent": "HighConfRobust.theorem_4_2", "child": "TotalVariationDist", "via": ["statement"]}
+{"parent": "HighConfRobust.theorem_4_2", "child": "HighConfRobust_IsHighConfidence", "via": ["solution", "statement"]}
+{"parent": "HighConfRobust.theorem_4_2", "child": "HighConfRobust_IsTVRobust", "via": ["solution", "statement"]}
+{"parent": "HighConfRobust.theorem_4_2", "child": "HighConfRobust_extFamily", "via": ["solution", "statement"]}
+{"parent": "HighConfRobust.theorem_4_2", "child": "TotalVariationDist", "via": ["solution", "statement"]}
 {"parent": "PhyloCSP.lemma_9_2", "child": "PhyloCSP_RankRelations", "via": ["statement"]}
 {"parent": "PhyloCSP.lemma_9_2", "child": "PhyloCSP_AutF", "via": ["statement"]}
 {"parent": "PhyloCSP.lemma_9_2", "child": "PhyloCSP_IsConvexOrder", "via": ["statement"]}

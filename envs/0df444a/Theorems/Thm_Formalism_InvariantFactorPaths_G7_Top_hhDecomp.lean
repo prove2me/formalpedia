@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_Top_hhDecomp
 -- name    : Formalism.InvariantFactorPaths.G7.Top.hhDecomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:37:13.218246+00:00
 -- url     : https://prove2.me/theorems/7eaab268-bff8-4fa8-ae9b-731193fda42e

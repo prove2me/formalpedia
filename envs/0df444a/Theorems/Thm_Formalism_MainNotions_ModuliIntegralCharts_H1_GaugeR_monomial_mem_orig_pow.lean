@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GaugeR_monomial_mem_orig_pow
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GaugeR.monomial_mem_orig_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:01:18.685123+00:00
 -- url     : https://prove2.me/theorems/20a1ba0e-b3ae-44e4-a99b-bb8cbe194728

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qa_can_emb
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qa_can_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:39:46.995807+00:00
 -- url     : https://prove2.me/theorems/5d5efa08-0eb5-4db7-bb6f-b2de8d5b6caa

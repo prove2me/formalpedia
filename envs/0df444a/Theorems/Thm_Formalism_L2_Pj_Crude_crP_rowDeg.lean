@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_crP_rowDeg
 -- name    : Formalism.L2.Pj.Crude.crP_rowDeg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:42.881805+00:00
 -- url     : https://prove2.me/theorems/91cfcaf3-453b-4d6c-804b-e89a854a0819

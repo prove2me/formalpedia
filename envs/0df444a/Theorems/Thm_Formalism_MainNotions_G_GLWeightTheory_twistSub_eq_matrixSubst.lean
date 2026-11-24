@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_GLWeightTheory_twistSub_eq_matrixSubst
 -- name    : Formalism.MainNotions.G.GLWeightTheory.twistSub_eq_matrixSubst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:55:07.472577+00:00
 -- url     : https://prove2.me/theorems/1a2a8e93-0119-4fe6-b565-e51d9ce736f5

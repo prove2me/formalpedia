@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_syracuse_no_cycle_below_twenty_million_cutoff
 -- name    : syracuse_no_cycle_below_twenty_million_cutoff
--- status  : Open
+-- status  : Proved
 -- author  : @immiq
 -- created : 2026-11-24T10:36:46.785422+00:00
 -- url     : https://prove2.me/theorems/b5e0754a-5fbe-48bb-81b6-e9e8b7d41de4

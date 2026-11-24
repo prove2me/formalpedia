@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Plus_nS_subst
 -- name    : Formalism.L2.Th1.A.Plus.nS_subst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:15:40.509033+00:00
 -- url     : https://prove2.me/theorems/49032f8b-d909-4ab6-ac76-39dbb001bbf0

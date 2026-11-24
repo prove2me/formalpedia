@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ThickSetMeanBounds_AN_norm_primVal_le
 -- name    : Formalism.LFunctionChainParameters.ThickSetMeanBounds.AN.norm_primVal_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:49:36.925798+00:00
 -- url     : https://prove2.me/theorems/7a2f440f-dc60-4a58-ab6e-1f39a4f244f7

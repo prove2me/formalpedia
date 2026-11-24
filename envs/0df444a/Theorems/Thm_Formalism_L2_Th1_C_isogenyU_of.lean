@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_isogenyU_of
 -- name    : Formalism.L2.Th1.C.isogenyU_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:08.244635+00:00
 -- url     : https://prove2.me/theorems/c722677c-0e5a-4b2a-b724-623a5cd9ecd3

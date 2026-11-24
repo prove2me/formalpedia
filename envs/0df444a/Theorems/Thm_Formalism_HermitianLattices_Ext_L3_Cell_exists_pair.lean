@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_Cell_exists_pair
 -- name    : Formalism.HermitianLattices.Ext.L3.Cell.exists_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:44:03.614901+00:00
 -- url     : https://prove2.me/theorems/678577be-4f34-4773-a2f8-ed242b453808

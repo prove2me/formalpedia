@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_GLWeightTheory_dividedPower_monomial
 -- name    : Formalism.MainNotions.G.GLWeightTheory.dividedPower_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:54:09.229067+00:00
 -- url     : https://prove2.me/theorems/075ef1f1-113d-436d-bfe9-e2aa431e078e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_ValuationFitting_Em_mulVec
 -- name    : Formalism.MainNotions.G.ValuationFitting.Em_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:56:07.165423+00:00
 -- url     : https://prove2.me/theorems/16f607ae-0081-4758-90a7-2c5a7e198393

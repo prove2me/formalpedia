@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_PrimeWindowSizeBounds_size_cp_bucket_bound
 -- name    : Formalism.LFunctionChainParameters.PrimeWindowSizeBounds.size_cp_bucket_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:35:46.29501+00:00
 -- url     : https://prove2.me/theorems/3272a5a0-8680-4ca1-980d-61f0b4b1436c

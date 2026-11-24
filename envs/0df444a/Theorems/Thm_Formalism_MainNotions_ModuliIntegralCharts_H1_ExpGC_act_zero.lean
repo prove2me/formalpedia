@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGC_act_zero
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGC.act_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:59:42.029787+00:00
 -- url     : https://prove2.me/theorems/51a1de3f-46d6-46c3-9cbd-119cefcdfb96

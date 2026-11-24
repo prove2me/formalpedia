@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_DIV_HookProducts_RBTie_emb_single
 -- name    : Formalism.MainNotions.DIV.HookProducts.RBTie.emb_single
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:17:20.910007+00:00
 -- url     : https://prove2.me/theorems/95753da6-db70-48b6-8961-733394b6f48a

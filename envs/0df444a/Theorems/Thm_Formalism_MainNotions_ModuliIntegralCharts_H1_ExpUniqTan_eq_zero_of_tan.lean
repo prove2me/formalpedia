@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpUniqTan_eq_zero_of_tan
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpUniqTan.eq_zero_of_tan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:01:13.286869+00:00
 -- url     : https://prove2.me/theorems/514174fe-f972-4454-a44b-ae27ef1cd60b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_phm_ge
 -- name    : Formalism.LatticeIndexTer.phm_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:52:21.351028+00:00
 -- url     : https://prove2.me/theorems/e7dc7277-ad3e-4215-b548-0e75bf24715d

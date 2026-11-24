@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpOf_dLin_inv
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpOf.dLin_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:59:08.239846+00:00
 -- url     : https://prove2.me/theorems/86b63aed-11ee-47f9-be0d-cf6499da058c

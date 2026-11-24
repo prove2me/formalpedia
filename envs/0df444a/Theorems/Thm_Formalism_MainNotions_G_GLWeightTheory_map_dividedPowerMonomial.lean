@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_GLWeightTheory_map_dividedPowerMonomial
 -- name    : Formalism.MainNotions.G.GLWeightTheory.map_dividedPowerMonomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:55:05.590072+00:00
 -- url     : https://prove2.me/theorems/dceb806c-ac26-4bd9-a207-132439d1dc8b

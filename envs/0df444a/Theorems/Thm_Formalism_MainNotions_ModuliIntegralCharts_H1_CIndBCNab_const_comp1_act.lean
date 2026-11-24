@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndBCNab_const_comp1_act
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndBCNab.const_comp1_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:57:33.396028+00:00
 -- url     : https://prove2.me/theorems/323cc68d-9b16-46c1-98ec-b151a22ca9d3

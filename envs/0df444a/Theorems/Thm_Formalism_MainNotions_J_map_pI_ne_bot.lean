@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_J_map_pI_ne_bot
 -- name    : Formalism.MainNotions.J.map_pI_ne_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:57:18.769721+00:00
 -- url     : https://prove2.me/theorems/911515cc-7db8-4f45-b5e4-e8cec17d07bd

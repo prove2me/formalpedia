@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_Top_e_one_vanish
 -- name    : Formalism.InvariantFactorPaths.G7.Top.e_one_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:38:26.023038+00:00
 -- url     : https://prove2.me/theorems/23a34ce0-490a-4ca8-a637-c97dfcd8580b

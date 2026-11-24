@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_StandardLattice_cardStabilizerVector
 -- name    : Formalism.LogVandermondeBounds.StandardLattice.cardStabilizerVector
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:55.80466+00:00
 -- url     : https://prove2.me/theorems/675e847a-8fb0-4eae-a693-014e34f300fe

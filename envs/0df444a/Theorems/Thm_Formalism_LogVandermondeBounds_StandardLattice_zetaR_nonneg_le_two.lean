@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_StandardLattice_zetaR_nonneg_le_two
 -- name    : Formalism.LogVandermondeBounds.StandardLattice.zetaR_nonneg_le_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:33.128805+00:00
 -- url     : https://prove2.me/theorems/93fd6199-f2d9-430e-b5f3-a28c0a49fd18

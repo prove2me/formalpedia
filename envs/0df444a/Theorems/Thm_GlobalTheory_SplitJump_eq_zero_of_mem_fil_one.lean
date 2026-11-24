@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitJump_eq_zero_of_mem_fil_one
 -- name    : GlobalTheory.SplitJump.eq_zero_of_mem_fil_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:49:22.605811+00:00
 -- url     : https://prove2.me/theorems/3d50a59d-25f0-43de-8d1b-53146db81182

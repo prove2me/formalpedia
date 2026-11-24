@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_Slope_trunc
 -- name    : Formalism.MainNotions.PlaneGram.Slope.trunc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:03:26.734824+00:00
 -- url     : https://prove2.me/theorems/bf98c1a6-c231-4408-a1ff-18c37f929603

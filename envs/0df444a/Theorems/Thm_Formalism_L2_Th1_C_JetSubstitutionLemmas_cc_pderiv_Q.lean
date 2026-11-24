@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_JetSubstitutionLemmas_cc_pderiv_Q
 -- name    : Formalism.L2.Th1.C.JetSubstitutionLemmas.cc_pderiv_Q
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:57.511017+00:00
 -- url     : https://prove2.me/theorems/299cd705-218c-4a22-b935-459257a28317

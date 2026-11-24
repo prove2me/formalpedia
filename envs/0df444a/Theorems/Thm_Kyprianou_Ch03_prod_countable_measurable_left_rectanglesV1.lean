@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_prod_countable_measurable_left_rectanglesV1
 -- name    : Kyprianou.Ch03.prod_countable_measurable_left_rectanglesV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T07:11:48.101908+00:00
 -- url     : https://prove2.me/theorems/aeee17c9-c5bf-4267-b376-e1d5929fd7c5

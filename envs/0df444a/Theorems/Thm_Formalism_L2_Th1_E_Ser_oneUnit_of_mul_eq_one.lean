@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_Ser_oneUnit_of_mul_eq_one
 -- name    : Formalism.L2.Th1.E.Ser.oneUnit_of_mul_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:12:59.389578+00:00
 -- url     : https://prove2.me/theorems/9d76c6c5-188b-4c13-8fca-47fcf600adcb

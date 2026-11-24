@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GaugeR_corr_scaled_left
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GaugeR.corr_scaled_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:01:35.231888+00:00
 -- url     : https://prove2.me/theorems/8980d22a-9db1-421a-8d9b-cc561f8f6f02

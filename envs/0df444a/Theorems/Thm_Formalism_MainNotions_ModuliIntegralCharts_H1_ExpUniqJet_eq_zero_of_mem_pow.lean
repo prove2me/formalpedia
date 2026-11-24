@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpUniqJet_eq_zero_of_mem_pow
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpUniqJet.eq_zero_of_mem_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:00:53.039583+00:00
 -- url     : https://prove2.me/theorems/42084a5f-0d6e-417c-9c69-d3951a71da3f

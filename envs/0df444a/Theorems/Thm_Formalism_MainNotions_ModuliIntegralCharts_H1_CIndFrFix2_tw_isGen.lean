@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrFix2_tw_isGen
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrFix2.tw_isGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:58:21.3158+00:00
 -- url     : https://prove2.me/theorems/f8ad5fa2-d593-4f2c-a61c-527af2b36db9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogFactorialMertensBounds_Gz_eq_P
 -- name    : Formalism.LogFactorialMertensBounds.Gz_eq_P
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:58.229929+00:00
 -- url     : https://prove2.me/theorems/da5de2eb-e144-44da-ac0a-209e13b1ac08

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrFix3_isValueAt_scale
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrFix3.isValueAt_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:59:13.370344+00:00
 -- url     : https://prove2.me/theorems/4f184597-ee6e-448c-97e2-6114cfa5efb1

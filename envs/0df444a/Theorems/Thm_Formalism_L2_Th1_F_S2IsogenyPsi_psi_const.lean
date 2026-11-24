@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_S2IsogenyPsi_psi_const
 -- name    : Formalism.L2.Th1.F.S2IsogenyPsi.psi_const
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:42.679085+00:00
 -- url     : https://prove2.me/theorems/842c3c5d-f8fe-42eb-b8ac-76df7ac448cc

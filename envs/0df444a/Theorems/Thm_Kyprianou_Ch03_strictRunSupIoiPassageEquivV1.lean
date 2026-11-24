@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_strictRunSupIoiPassageEquivV1
 -- name    : Kyprianou.Ch03.strictRunSupIoiPassageEquivV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T07:11:53.799373+00:00
 -- url     : https://prove2.me/theorems/e8e69b25-8883-4e88-9914-fb38b177f01a

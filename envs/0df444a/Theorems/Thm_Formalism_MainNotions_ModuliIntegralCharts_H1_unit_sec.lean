@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_unit_sec
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.unit_sec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:03:15.175149+00:00
 -- url     : https://prove2.me/theorems/a1d7725c-f80b-416c-8a28-6383f82ea687

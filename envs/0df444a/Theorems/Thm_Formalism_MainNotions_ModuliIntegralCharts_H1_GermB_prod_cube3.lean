@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GermB_prod_cube3
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GermB.prod_cube3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:00:58.319471+00:00
 -- url     : https://prove2.me/theorems/3193cf9d-6ff7-4f69-b107-94aed56ea6e4

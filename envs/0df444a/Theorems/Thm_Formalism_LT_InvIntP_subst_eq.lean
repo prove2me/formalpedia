@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_InvIntP_subst_eq
 -- name    : Formalism.LT.InvIntP.subst_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:51:02.3919+00:00
 -- url     : https://prove2.me/theorems/8767bed7-a323-4afe-838f-5402031158f7

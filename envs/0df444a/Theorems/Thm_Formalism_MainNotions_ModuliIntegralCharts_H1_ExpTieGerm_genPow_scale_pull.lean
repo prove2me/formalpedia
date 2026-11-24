@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpTieGerm_genPow_scale_pull
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpTieGerm.genPow_scale_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:01:20.053383+00:00
 -- url     : https://prove2.me/theorems/eb1279c9-cfb5-48b3-9237-66bae064eb48

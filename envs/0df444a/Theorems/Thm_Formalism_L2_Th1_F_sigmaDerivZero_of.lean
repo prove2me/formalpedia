@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_sigmaDerivZero_of
 -- name    : Formalism.L2.Th1.F.sigmaDerivZero_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:49.536843+00:00
 -- url     : https://prove2.me/theorems/dffee60d-a02a-44a6-84f4-44be895c5f17

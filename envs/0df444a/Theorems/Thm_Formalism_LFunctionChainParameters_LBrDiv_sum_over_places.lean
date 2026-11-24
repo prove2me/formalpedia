@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBrDiv_sum_over_places
 -- name    : Formalism.LFunctionChainParameters.LBrDiv.sum_over_places
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:31:34.638563+00:00
 -- url     : https://prove2.me/theorems/1df53d64-7a62-4623-b628-080a514b8afd

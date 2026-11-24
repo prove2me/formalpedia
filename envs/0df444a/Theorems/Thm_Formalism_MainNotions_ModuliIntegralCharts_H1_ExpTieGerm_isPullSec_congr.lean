@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpTieGerm_isPullSec_congr
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpTieGerm.isPullSec_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:00:16.550797+00:00
 -- url     : https://prove2.me/theorems/eeae4755-5fc7-4576-babe-82ee24b718ac

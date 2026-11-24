@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_KAV_conj_conj
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.KAV.conj_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:01:56.325238+00:00
 -- url     : https://prove2.me/theorems/f903e120-774b-4e2a-b5d6-76d1d19f9fa6

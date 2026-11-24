@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_digitPart_smul
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.digitPart_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:04:45.315547+00:00
 -- url     : https://prove2.me/theorems/f801dc20-ac58-4f2f-b5ae-7da8a9cde04e

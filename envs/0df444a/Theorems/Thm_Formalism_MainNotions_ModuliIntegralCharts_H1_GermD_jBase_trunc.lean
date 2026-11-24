@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GermD_jBase_trunc
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GermD.jBase_trunc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:01:54.626691+00:00
 -- url     : https://prove2.me/theorems/0959a08f-69c4-49d1-b392-d3fe99199db6

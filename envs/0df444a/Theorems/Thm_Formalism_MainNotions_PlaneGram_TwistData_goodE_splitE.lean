@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_goodE_splitE
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.goodE_splitE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:04:53.568261+00:00
 -- url     : https://prove2.me/theorems/b9aea83e-3e3b-40c8-b325-6d6126bbcae7

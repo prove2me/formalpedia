@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_CostOK_prod
 -- name    : Formalism.MainNotions.PlaneGram.CostOK.prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:03:26.745984+00:00
 -- url     : https://prove2.me/theorems/83d480e5-38f2-4208-987e-cd40c442c35d

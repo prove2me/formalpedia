@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_DeficitSplitLemmas_choose_window_second
 -- name    : Formalism.LFunctionChainParameters.DeficitSplitLemmas.choose_window_second
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:48.742691+00:00
 -- url     : https://prove2.me/theorems/d0aaecb9-8ec2-4dbf-8774-41b475195ba6

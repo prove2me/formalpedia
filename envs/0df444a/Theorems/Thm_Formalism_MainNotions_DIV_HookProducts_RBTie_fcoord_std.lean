@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_DIV_HookProducts_RBTie_fcoord_std
 -- name    : Formalism.MainNotions.DIV.HookProducts.RBTie.fcoord_std
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:17:28.67465+00:00
 -- url     : https://prove2.me/theorems/2eddcfe7-6ff8-42a4-8c47-29c61b7a470e

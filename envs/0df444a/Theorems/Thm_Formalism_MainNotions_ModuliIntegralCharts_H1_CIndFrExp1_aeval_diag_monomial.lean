@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrExp1_aeval_diag_monomial
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrExp1.aeval_diag_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:57:26.083813+00:00
 -- url     : https://prove2.me/theorems/660d7132-2f8a-4645-a199-8632cfeaf59f

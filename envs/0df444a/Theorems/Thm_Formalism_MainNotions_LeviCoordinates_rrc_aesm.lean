@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_LeviCoordinates_rrc_aesm
 -- name    : Formalism.MainNotions.LeviCoordinates.rrc_aesm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:37.403823+00:00
 -- url     : https://prove2.me/theorems/92dee195-de53-4347-a8b2-1aa563295322

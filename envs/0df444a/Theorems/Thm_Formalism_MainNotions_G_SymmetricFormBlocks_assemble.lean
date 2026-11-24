@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_SymmetricFormBlocks_assemble
 -- name    : Formalism.MainNotions.G.SymmetricFormBlocks.assemble
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:54:46.781428+00:00
 -- url     : https://prove2.me/theorems/1b4f7e55-f857-45e9-acd1-b43e27734d23

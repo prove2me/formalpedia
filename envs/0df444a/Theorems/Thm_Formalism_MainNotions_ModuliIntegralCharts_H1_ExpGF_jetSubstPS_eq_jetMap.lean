@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGF_jetSubstPS_eq_jetMap
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGF.jetSubstPS_eq_jetMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:01:35.122898+00:00
 -- url     : https://prove2.me/theorems/447bfd85-e222-4230-91c8-99567d24b9ff

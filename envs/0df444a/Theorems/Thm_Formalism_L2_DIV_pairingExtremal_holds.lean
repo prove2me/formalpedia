@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_pairingExtremal_holds
 -- name    : Formalism.L2.DIV.pairingExtremal_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:27.079093+00:00
 -- url     : https://prove2.me/theorems/fa660032-a6d1-466f-9afb-20831ae9e0d4

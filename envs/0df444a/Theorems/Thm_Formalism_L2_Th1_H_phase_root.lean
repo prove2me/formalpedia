@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_phase_root
 -- name    : Formalism.L2.Th1.H.phase_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:49:54.737808+00:00
 -- url     : https://prove2.me/theorems/eb49323a-cfe3-46ae-a405-9baa55f858d4

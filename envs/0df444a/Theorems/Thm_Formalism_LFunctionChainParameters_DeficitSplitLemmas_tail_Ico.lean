@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_DeficitSplitLemmas_tail_Ico
 -- name    : Formalism.LFunctionChainParameters.DeficitSplitLemmas.tail_Ico
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:49:16.693736+00:00
 -- url     : https://prove2.me/theorems/f2ea57e4-f49a-4324-8af0-9931c292e1ad

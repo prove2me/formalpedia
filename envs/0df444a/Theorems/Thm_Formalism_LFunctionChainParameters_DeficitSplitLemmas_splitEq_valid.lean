@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_DeficitSplitLemmas_splitEq_valid
 -- name    : Formalism.LFunctionChainParameters.DeficitSplitLemmas.splitEq_valid
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:29:23.01836+00:00
 -- url     : https://prove2.me/theorems/51971a18-1ce5-415e-9196-859fb9a9894e

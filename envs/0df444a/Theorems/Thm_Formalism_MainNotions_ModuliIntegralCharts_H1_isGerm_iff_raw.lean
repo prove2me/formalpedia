@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_isGerm_iff_raw
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.isGerm_iff_raw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:02:51.414728+00:00
 -- url     : https://prove2.me/theorems/84f6966e-ae56-4de3-a1c9-6205923ad522

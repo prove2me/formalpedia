@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_lidxW_eq_lidx
 -- name    : Formalism.L2.Col.lidxW_eq_lidx
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:21.846257+00:00
 -- url     : https://prove2.me/theorems/64914d8c-c025-471b-a406-40def3e5ad15

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_KillingConditions_WildPf_IsWild_one
 -- name    : Formalism.MainNotions.N.KillingConditions.WildPf.IsWild.one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:03:16.607426+00:00
 -- url     : https://prove2.me/theorems/f9a7da8c-8b47-4744-b664-dcbd98c1314d

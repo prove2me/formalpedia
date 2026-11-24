@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrFix2_scaleGen_eq
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrFix2.scaleGen_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:59:15.548352+00:00
 -- url     : https://prove2.me/theorems/c3dacc7f-4253-4e55-9a2b-40938fa70a8c

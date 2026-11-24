@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpTieGerm_corr_pullGen
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpTieGerm.corr_pullGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:01:35.326124+00:00
 -- url     : https://prove2.me/theorems/2a76ebf8-046b-483e-a134-4ee297e478ec

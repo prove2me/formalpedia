@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_GLWeightTheory_sum_C_single_col
 -- name    : Formalism.MainNotions.G.GLWeightTheory.sum_C_single_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:55:22.366207+00:00
 -- url     : https://prove2.me/theorems/c5d86a5b-a460-4ff7-b39a-dfb5ffef3a29

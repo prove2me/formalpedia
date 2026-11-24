@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_frobeniusEquiv_symm_ofCompatible
 -- name    : GroundTheory.PAdicHodge.AInf.frobeniusEquiv_symm_ofCompatible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:44:08.937498+00:00
 -- url     : https://prove2.me/theorems/2e37a387-3187-4ee9-9d56-a462fef5fa94

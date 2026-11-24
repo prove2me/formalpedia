@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_LeviCoordinates_rrka_K_symm
 -- name    : Formalism.MainNotions.LeviCoordinates.rrka_K_symm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:17:02.845257+00:00
 -- url     : https://prove2.me/theorems/a4366212-cb3d-40a7-bd39-b03058bc0fcd

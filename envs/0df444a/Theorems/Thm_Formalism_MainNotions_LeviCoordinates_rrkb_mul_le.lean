@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_LeviCoordinates_rrkb_mul_le
 -- name    : Formalism.MainNotions.LeviCoordinates.rrkb_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:56:54.275941+00:00
 -- url     : https://prove2.me/theorems/20a7fe0d-92de-4ff4-89c1-b6e3d8765e4b

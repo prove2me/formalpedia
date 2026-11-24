@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_hasFiniteLength_of_isIrreducible
 -- name    : GroundTheory.Automorphic.hasFiniteLength_of_isIrreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:47:22.678865+00:00
 -- url     : https://prove2.me/theorems/5b2c39be-5b83-4d93-a9b3-02ac57074fd7

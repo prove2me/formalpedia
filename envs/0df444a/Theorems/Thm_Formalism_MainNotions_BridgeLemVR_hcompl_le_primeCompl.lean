@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLemVR_hcompl_le_primeCompl
 -- name    : Formalism.MainNotions.BridgeLemVR.hcompl_le_primeCompl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:55:06.385055+00:00
 -- url     : https://prove2.me/theorems/ca7bca18-0f77-4638-962a-d06f51f3085d

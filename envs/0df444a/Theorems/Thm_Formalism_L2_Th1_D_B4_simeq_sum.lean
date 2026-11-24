@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_B4_simeq_sum
 -- name    : Formalism.L2.Th1.D.B4.simeq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:39:25.757414+00:00
 -- url     : https://prove2.me/theorems/81388c3b-ab37-4da4-bd56-668047d360a0

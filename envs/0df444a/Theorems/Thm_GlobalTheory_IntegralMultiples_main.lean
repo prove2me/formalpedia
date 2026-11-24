@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralMultiples_main
 -- name    : GlobalTheory.IntegralMultiples.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:49:27.308994+00:00
 -- url     : https://prove2.me/theorems/028f1966-f1ce-4b87-828f-ecbdfc4a8c79

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_EtaleWeightGaps_Hunt_isIntegral_of_all
 -- name    : Formalism.MainNotions.Gaps.EtaleWeightGaps.Hunt.isIntegral_of_all
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:55:38.815183+00:00
 -- url     : https://prove2.me/theorems/f53cb323-0375-4996-a091-6afad5e05491

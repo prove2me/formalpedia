@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_LeviCoordinates_rr_right_of_finite
 -- name    : Formalism.MainNotions.LeviCoordinates.rr_right_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:17.133887+00:00
 -- url     : https://prove2.me/theorems/4c397a0c-666a-4241-ac3f-543d5f54087f

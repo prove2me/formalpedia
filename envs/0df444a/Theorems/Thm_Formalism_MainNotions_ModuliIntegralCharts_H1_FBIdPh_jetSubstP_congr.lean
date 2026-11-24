@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_FBIdPh_jetSubstP_congr
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.FBIdPh.jetSubstP_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:01:44.605847+00:00
 -- url     : https://prove2.me/theorems/e7b42bf4-e676-4329-aaec-95ef36414d0c

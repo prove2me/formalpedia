@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Jets_key
 -- name    : Formalism.L2.Th1.B.Jets.key
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:26:14.835884+00:00
 -- url     : https://prove2.me/theorems/94ac5c66-be9d-4f26-8f81-36a878482deb

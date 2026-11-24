@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_supInfDyadicPairsAEMeasurableV1
 -- name    : Kyprianou.Ch03.supInfDyadicPairsAEMeasurableV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T10:08:42.668636+00:00
 -- url     : https://prove2.me/theorems/611aefc4-8b6f-4996-87d9-9cc7a33406e8

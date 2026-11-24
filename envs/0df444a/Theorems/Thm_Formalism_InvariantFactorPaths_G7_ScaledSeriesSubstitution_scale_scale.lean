@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_ScaledSeriesSubstitution_scale_scale
 -- name    : Formalism.InvariantFactorPaths.G7.ScaledSeriesSubstitution.scale_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:41:24.463496+00:00
 -- url     : https://prove2.me/theorems/b801db67-fad5-4a85-ae2b-92b077da318b

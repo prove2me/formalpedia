@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_characterSumData_PB_sum_partner
 -- name    : Formalism.LFunctionChainParameters.characterSumData.PB.sum_partner
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:57:12.050849+00:00
 -- url     : https://prove2.me/theorems/58b655e6-1c4e-4c30-99be-d94ab886d9c0

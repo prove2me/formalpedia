@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_convex_halfspaceIntersection
 -- name    : GaussianPerimeter.convex_halfspaceIntersection
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:10:56.601927+00:00
 -- url     : https://prove2.me/theorems/fe11cb00-c984-4b0b-88aa-fe2db6401768

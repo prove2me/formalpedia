@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGA_scaleGen_isGen
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGA.scaleGen_isGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:59:45.054076+00:00
 -- url     : https://prove2.me/theorems/ecff6ed9-1a9a-42cc-8652-66fda583918a

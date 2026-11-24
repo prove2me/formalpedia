@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Fgl1_lam_map
 -- name    : Formalism.L2.Th1.A.Fgl1.lam_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:09:18.266407+00:00
 -- url     : https://prove2.me/theorems/de2ce42b-35a8-44d7-9ac9-7afa175ac2b0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_Ser_oneUnit_pow
 -- name    : Formalism.L2.Th1.E.Ser.oneUnit_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:23:25.224721+00:00
 -- url     : https://prove2.me/theorems/f0ce6515-1832-426f-be42-bb9a791a594c

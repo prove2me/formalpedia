@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_Laurent_ConvergesAt_exists_eq_gaussNorm
 -- name    : GroundTheory.PAdicHodge.Laurent.ConvergesAt.exists_eq_gaussNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:49:25.230574+00:00
 -- url     : https://prove2.me/theorems/57355169-f767-453b-ae32-924c36199a39

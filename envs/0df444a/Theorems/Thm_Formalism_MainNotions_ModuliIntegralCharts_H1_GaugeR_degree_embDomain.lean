@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GaugeR_degree_embDomain
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GaugeR.degree_embDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:01:44.748155+00:00
 -- url     : https://prove2.me/theorems/5e3be410-eb3e-4217-a7cd-ed462a8f3688

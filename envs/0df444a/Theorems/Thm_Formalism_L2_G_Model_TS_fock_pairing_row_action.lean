@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_fock_pairing_row_action
 -- name    : Formalism.L2.G.Model.TS.fock_pairing_row_action
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:18:42.349433+00:00
 -- url     : https://prove2.me/theorems/4c2d5a16-e1f2-4ab2-b742-16acbc850fae

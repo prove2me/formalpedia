@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_twoTorsionTranslation
 -- name    : Formalism.L2.Th1.A.twoTorsionTranslation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:19:27.507109+00:00
 -- url     : https://prove2.me/theorems/079cdac2-1eda-42b1-b651-07f7bdffa866

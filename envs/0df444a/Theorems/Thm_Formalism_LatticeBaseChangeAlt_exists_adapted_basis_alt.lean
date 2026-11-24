@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_exists_adapted_basis_alt
 -- name    : Formalism.LatticeBaseChangeAlt.exists_adapted_basis_alt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:51.408562+00:00
 -- url     : https://prove2.me/theorems/743bf52c-9c51-44f9-8c86-00c379687f6e

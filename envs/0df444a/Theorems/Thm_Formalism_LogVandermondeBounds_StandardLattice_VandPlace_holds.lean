@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_StandardLattice_VandPlace_holds
 -- name    : Formalism.LogVandermondeBounds.StandardLattice.VandPlace_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:39:39.84471+00:00
 -- url     : https://prove2.me/theorems/f512d440-4493-448f-9029-2a6218fb73a0

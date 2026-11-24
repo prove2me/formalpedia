@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CoboundaryTransfers_wach_lattice_nonempty_unramified
 -- name    : Formalism.CoboundaryTransfers.wach_lattice_nonempty_unramified
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:12.094+00:00
 -- url     : https://prove2.me/theorems/75599324-43a2-493f-aaa8-33f916230d8a

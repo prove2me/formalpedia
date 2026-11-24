@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qa_det_ne
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qa_det_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:38:54.946479+00:00
 -- url     : https://prove2.me/theorems/42e65ab9-6645-4200-a661-63ae2aaac285

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_TW_index_of_determinant
 -- name    : Formalism.IrreducibleCountingLemmas.TW.index_of_determinant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:40.988349+00:00
 -- url     : https://prove2.me/theorems/6a14c5fd-aa6e-4536-b247-73421f4506d4

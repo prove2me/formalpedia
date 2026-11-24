@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_J_map_Ex
 -- name    : Formalism.MainNotions.J.map_Ex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:57:09.812852+00:00
 -- url     : https://prove2.me/theorems/d1c0e6b3-9660-4832-ab15-c63203eae0f1

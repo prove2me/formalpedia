@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_VolumeComparison_iSup_min_nat_ne_top
 -- name    : GaussianPerimeter.VolumeComparison.iSup_min_nat_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:15:24.046796+00:00
 -- url     : https://prove2.me/theorems/ded5d192-5360-458a-bd6e-17d345a9d5d6

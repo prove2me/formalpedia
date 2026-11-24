@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_CongrP_fwd
 -- name    : Formalism.LT.CongrP.fwd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:37:33.450986+00:00
 -- url     : https://prove2.me/theorems/b89dd6cf-478b-4280-a378-d7361f91197f

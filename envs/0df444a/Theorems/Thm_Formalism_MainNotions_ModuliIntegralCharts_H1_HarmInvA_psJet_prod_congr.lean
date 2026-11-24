@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_HarmInvA_psJet_prod_congr
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.HarmInvA.psJet_prod_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:02:16.756259+00:00
 -- url     : https://prove2.me/theorems/6498f12a-48d8-4b29-863e-2fb563ee587e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_cro_word_const
 -- name    : Formalism.L2.Pj.Crude.cro_word_const
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:00.965391+00:00
 -- url     : https://prove2.me/theorems/86b765f6-1c9b-4fb2-ba9c-4577313373f6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitJump_mem_filV
 -- name    : GlobalTheory.SplitJump.mem_filV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:49:11.438573+00:00
 -- url     : https://prove2.me/theorems/f78200a3-1f44-4f13-b2f4-e87dcad1d12d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_DIV_HookProducts_RBTie_slope_eq_of_norm_eq
 -- name    : Formalism.MainNotions.DIV.HookProducts.RBTie.slope_eq_of_norm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:54:05.501809+00:00
 -- url     : https://prove2.me/theorems/27064437-8557-4e89-9eb7-109d24c9b8eb

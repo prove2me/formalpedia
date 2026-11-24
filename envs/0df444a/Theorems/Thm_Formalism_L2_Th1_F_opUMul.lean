@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_opUMul
 -- name    : Formalism.L2.Th1.F.opUMul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:27:14.307315+00:00
 -- url     : https://prove2.me/theorems/4b2cf38a-e58a-4b2c-a774-38b81b70e5ed

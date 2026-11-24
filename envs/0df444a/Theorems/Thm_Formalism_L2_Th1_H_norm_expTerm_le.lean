@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_norm_expTerm_le
 -- name    : Formalism.L2.Th1.H.norm_expTerm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:49:10.544193+00:00
 -- url     : https://prove2.me/theorems/e92f31fd-fc18-4291-b467-be32b972628a

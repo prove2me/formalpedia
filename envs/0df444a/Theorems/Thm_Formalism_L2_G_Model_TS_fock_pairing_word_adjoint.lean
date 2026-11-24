@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_fock_pairing_word_adjoint
 -- name    : Formalism.L2.G.Model.TS.fock_pairing_word_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:18:14.864646+00:00
 -- url     : https://prove2.me/theorems/9d317364-6b48-4f74-ba47-bd9697b08dc7

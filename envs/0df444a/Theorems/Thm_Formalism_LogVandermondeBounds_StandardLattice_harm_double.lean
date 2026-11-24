@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_StandardLattice_harm_double
 -- name    : Formalism.LogVandermondeBounds.StandardLattice.harm_double
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:52:31.040101+00:00
 -- url     : https://prove2.me/theorems/b66195cf-83d1-4365-9433-12cc00da206d

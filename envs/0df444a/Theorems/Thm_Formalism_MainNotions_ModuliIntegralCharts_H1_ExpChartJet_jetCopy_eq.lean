@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpChartJet_jetCopy_eq
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpChartJet.jetCopy_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:59:15.936816+00:00
 -- url     : https://prove2.me/theorems/56bec3f3-bf9e-4ada-b747-8d17bbc238e4

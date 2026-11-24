@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrFix3_genPow_scale
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrFix3.genPow_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:59:49.276451+00:00
 -- url     : https://prove2.me/theorems/ef6d3d67-167f-425e-aa2f-91785e1e1ece

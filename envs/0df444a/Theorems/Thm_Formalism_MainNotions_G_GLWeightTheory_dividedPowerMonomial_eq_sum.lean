@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_GLWeightTheory_dividedPowerMonomial_eq_sum
 -- name    : Formalism.MainNotions.G.GLWeightTheory.dividedPowerMonomial_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:53:59.387839+00:00
 -- url     : https://prove2.me/theorems/452072da-5f5e-4916-8edc-7f771e2be262

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_crP_coeff_diag
 -- name    : Formalism.L2.Pj.Crude.crP_coeff_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:52.56882+00:00
 -- url     : https://prove2.me/theorems/a52741e3-84d0-4b29-b072-9c115425f53c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighConfRobust_lemma_4_3
 -- name    : HighConfRobust.lemma_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T23:07:06.172363+00:00
 -- url     : https://prove2.me/theorems/d4c98bca-abf3-452a-b25c-18af92c14845

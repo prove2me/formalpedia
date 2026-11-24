@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpOf_atPt_expPhi
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpOf.atPt_expPhi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:00:20.014866+00:00
 -- url     : https://prove2.me/theorems/3a14e33f-7fc4-454f-a8be-8fba6aa06c8b

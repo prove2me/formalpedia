@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_InverseCommuting_sim_trans
 -- name    : Formalism.L2.Th1.D.InverseCommuting.sim_trans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:37:37.12878+00:00
 -- url     : https://prove2.me/theorems/e0b449e3-4f8a-4ae5-8cef-a1087b200072

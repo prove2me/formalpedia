@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_discriminantGroupCounts_card_ker_eq_card_hermD
 -- name    : Formalism.L2.SG.Pf.discriminantGroupCounts.card_ker_eq_card_hermD
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:32.64869+00:00
 -- url     : https://prove2.me/theorems/7094a80f-5279-480a-b79c-e99358c1969a

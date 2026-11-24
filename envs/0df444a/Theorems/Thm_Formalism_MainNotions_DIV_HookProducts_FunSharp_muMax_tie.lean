@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_DIV_HookProducts_FunSharp_muMax_tie
 -- name    : Formalism.MainNotions.DIV.HookProducts.FunSharp.muMax_tie
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:17:53.119134+00:00
 -- url     : https://prove2.me/theorems/87fa5bf2-723a-412d-b687-fc64b7d2784f
