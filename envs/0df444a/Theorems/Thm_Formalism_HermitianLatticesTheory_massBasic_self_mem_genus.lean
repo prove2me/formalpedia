@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_massBasic_self_mem_genus
 -- name    : Formalism.HermitianLatticesTheory.massBasic_self_mem_genus
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:05:40.040702+00:00
 -- url     : https://prove2.me/theorems/f628e1fe-4367-4827-a94e-55d693c621e4

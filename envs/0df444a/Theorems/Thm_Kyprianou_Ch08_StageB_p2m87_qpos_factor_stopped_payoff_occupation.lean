@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m87_qpos_factor_stopped_payoff_occupation
 -- name    : Kyprianou.Ch08.StageB.p2m87_qpos_factor_stopped_payoff_occupation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T04:25:44.124401+00:00
 -- url     : https://prove2.me/theorems/ee0147bb-3081-4409-86c6-bbfddc4c9b01

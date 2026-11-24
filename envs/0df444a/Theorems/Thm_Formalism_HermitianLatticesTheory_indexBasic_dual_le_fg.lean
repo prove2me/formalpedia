@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_indexBasic_dual_le_fg
 -- name    : Formalism.HermitianLatticesTheory.indexBasic_dual_le_fg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:24.685625+00:00
 -- url     : https://prove2.me/theorems/f9e86528-b95d-4732-8d43-d445c38a2d71

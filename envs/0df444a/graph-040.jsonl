@@ -75837,8 +75837,8 @@
 {"parent": "GlobalTheory.BetaEx.mem_std", "child": "Development_AbelianVarietyTheory_Proofs_UnitaryExistence_ExistsIndexIdeal", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.BetaEx.mem_std", "child": "Formalism_LocalToGlobal_ProjectiveLattices_ThShort", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_HermitianFlagComplementPosDefFactorizationStatement", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_HermitianFlagComplementPosDefFactorization", "via": ["statement"]}
-{"parent": "Kyprianou.Ch08.StageB.p2m87_qpos_factor_stopped_payoff_occupation", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["statement"]}
-{"parent": "Kyprianou.Ch08.StageB.p2m87_qpos_factor_stopped_payoff_occupation", "child": "Kyprianou_Ch08_StageCFoundation_B", "via": ["statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m87_qpos_factor_stopped_payoff_occupation", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m87_qpos_factor_stopped_payoff_occupation", "child": "Kyprianou_Ch08_StageCFoundation_B", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.TorsorUnit.exists_coaction", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_ExistsLocalUnitOfWeight", "via": ["statement"]}
 {"parent": "GlobalTheory.TorsorUnit.exists_coaction", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_FamMod", "via": ["statement"]}
 {"parent": "GlobalTheory.TorsorUnit.exists_coaction", "child": "ReciprocityTheory.ChartRestriction.G.Geo.Tor.IsGrpPullback.comp", "via": ["statement"]}
@@ -88331,8 +88331,8 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_Vertical_SpecCompDim_proof_172508824a98", "child": "GroundTheory_HeightsAndTheta_Heights_ChowForms_PMinimalPrimeHomog", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_Vertical_SpecCompDim_proof_172508824a98", "child": "GroundTheory_HeightsAndTheta_Heights_ChowForms_Statements", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_Vertical_SpecCompDim_proof_172508824a98", "child": "GroundTheory_HeightsAndTheta_Heights_VerticalDivisors_StatementsFibreCompDim", "via": ["statement"]}
-{"parent": "Kyprianou.Ch08.StageB.p2m87_qpos_factor_post_stopped_reward_shift", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["statement"]}
-{"parent": "Kyprianou.Ch08.StageB.p2m87_qpos_factor_post_stopped_reward_shift", "child": "Kyprianou_Ch08_StageCFoundation_B", "via": ["statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m87_qpos_factor_post_stopped_reward_shift", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m87_qpos_factor_post_stopped_reward_shift", "child": "Kyprianou_Ch08_StageCFoundation_B", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_Vertical_FreeParAlgIndep_algebraicIndependent_of_trdeg_51e66fc3f49b", "child": "GroundTheory_HeightsAndTheta_Heights_VerticalDivisors_PFreeParAlgIndep", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_Vertical_FreeParAlgIndep_algebraicIndependent_of_trdeg_51e66fc3f49b", "child": "GroundTheory_HeightsAndTheta_Heights_VerticalDivisors_StatementsFreeParAlgIndep", "via": ["solution", "statement"]}
 {"parent": "Formalism.MainNotions.ModuliIntegralCharts.H1.LBPull.isPullSec_congr", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ValCalc", "via": ["solution", "statement"]}
@@ -88384,8 +88384,8 @@
 {"parent": "GroundTheory.Automorphic.Whittaker.supportedIn_le_of_base", "child": "GroundTheory_AutomorphicForms_WhittakerOrbit", "via": ["statement"]}
 {"parent": "GroundTheory.Automorphic.Whittaker.supportedIn_le_of_base", "child": "GroundTheory_AutomorphicForms_LocallyProfinite", "via": ["statement"]}
 {"parent": "GroundTheory.Automorphic.Whittaker.supportedIn_le_of_base", "child": "GroundTheory_AutomorphicForms_SmoothRep", "via": ["statement"]}
-{"parent": "Kyprianou.Ch08.StageB.p2m87_qpos_factor_source_exit_clocks_eq", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["statement"]}
-{"parent": "Kyprianou.Ch08.StageB.p2m87_qpos_factor_source_exit_clocks_eq", "child": "Kyprianou_Ch08_StageCFoundation_B", "via": ["statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m87_qpos_factor_source_exit_clocks_eq", "child": "AvramDividend_Classical_TwoSidedExit", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.p2m87_qpos_factor_source_exit_clocks_eq", "child": "Kyprianou_Ch08_StageCFoundation_B", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Edge.piece_45", "child": "ArdaRS_Config64", "via": ["solution", "statement"]}
 {"parent": "RHX1000000.Edge.piece_45", "child": "RHX_RunChain", "via": ["statement"]}
 {"parent": "RHX1000000.Edge.piece_45", "child": "ArdaRH65K_Turing121_H11K_EdgeSplit", "via": ["statement"]}

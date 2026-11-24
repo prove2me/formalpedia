@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ZeroDensityInBoxes_box_count_of_zero_density
 -- name    : Formalism.HermitianLattices.ZeroDensityInBoxes.box_count_of_zero_density
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:57.037449+00:00
 -- url     : https://prove2.me/theorems/3da99afd-76ea-4ecb-8c48-4de1a8dc1e41

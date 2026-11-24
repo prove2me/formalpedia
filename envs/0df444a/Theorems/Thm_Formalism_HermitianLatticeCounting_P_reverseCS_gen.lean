@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_reverseCS_gen
 -- name    : Formalism.HermitianLatticeCounting.P.reverseCS_gen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:51.781671+00:00
 -- url     : https://prove2.me/theorems/12ec4196-a36f-407e-8285-759db60634c6

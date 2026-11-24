@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LatticeEstimates_fifth_zeta_arithmetic_bound
 -- name    : Formalism.HermitianLattices.LatticeEstimates.fifth_zeta_arithmetic_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:02.706294+00:00
 -- url     : https://prove2.me/theorems/c0d4791c-e5cd-4460-aa02-53f4d4538558

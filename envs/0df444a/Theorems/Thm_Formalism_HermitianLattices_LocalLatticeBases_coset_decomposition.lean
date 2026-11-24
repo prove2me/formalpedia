@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_coset_decomposition
 -- name    : Formalism.HermitianLattices.LocalLatticeBases.coset_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:29.030804+00:00
 -- url     : https://prove2.me/theorems/d7431b0f-5366-4615-84ac-eee16ed25594

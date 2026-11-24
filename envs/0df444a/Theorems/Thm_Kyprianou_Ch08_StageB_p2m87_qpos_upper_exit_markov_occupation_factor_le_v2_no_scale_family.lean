@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m87_qpos_upper_exit_markov_occupation_factor_le_v2_no_scale_family
 -- name    : Kyprianou.Ch08.StageB.p2m87_qpos_upper_exit_markov_occupation_factor_le_v2_no_scale_family
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T03:52:04.888326+00:00
 -- url     : https://prove2.me/theorems/d553554e-c395-4944-937b-497cffee94ee

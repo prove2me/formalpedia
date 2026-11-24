@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LatticeEstimates_L1LeSqrtCardOfL2_statement
 -- name    : Formalism.HermitianLattices.LatticeEstimates.L1LeSqrtCardOfL2_statement
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:11.569503+00:00
 -- url     : https://prove2.me/theorems/a872f080-b244-4546-99ae-e28720d0b5a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_locBasic_hcompl_le_conj
 -- name    : Formalism.HermitianLatticesTheory.locBasic_hcompl_le_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:25.140631+00:00
 -- url     : https://prove2.me/theorems/a98ebc33-7ae6-4a82-8852-5d4a703de6e9

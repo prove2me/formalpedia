@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_localizedQuotients_form_smul
 -- name    : Formalism.HermitianLattices.Ext.L3.localizedQuotients.form_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:48:03.000797+00:00
 -- url     : https://prove2.me/theorems/f0977f33-3e18-499d-a17f-30220bdaf02a

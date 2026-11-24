@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_strongMarkovCountableGridRestrictedLawV1
 -- name    : Kyprianou.Ch03.strongMarkovCountableGridRestrictedLawV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T07:41:28.139863+00:00
 -- url     : https://prove2.me/theorems/ce10a41b-6699-4acd-b73c-5cedfb05d77b

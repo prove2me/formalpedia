@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_genus_covolume_local_dual_le
 -- name    : Formalism.HermitianLatticesTheory.genus_covolume_local_dual_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:33.397122+00:00
 -- url     : https://prove2.me/theorems/3bfcff00-8c5d-41a9-944b-b1fdbe745d6d

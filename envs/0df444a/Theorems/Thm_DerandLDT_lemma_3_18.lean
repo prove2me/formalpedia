@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DerandLDT_lemma_3_18
 -- name    : DerandLDT.lemma_3_18
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T23:04:41.28652+00:00
 -- url     : https://prove2.me/theorems/8ab3f7a2-a989-4164-b92d-1b04be1de9dc

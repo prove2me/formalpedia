@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_final_shortVectors
 -- name    : Formalism.HermitianLatticesTheory.final_shortVectors
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:32.02009+00:00
 -- url     : https://prove2.me/theorems/52a1edf7-0104-4374-9e2e-8ba2356a2f56

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_neighbourBasic_not_le
 -- name    : Formalism.HermitianLatticesTheory.neighbourBasic_not_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:05:06.153411+00:00
 -- url     : https://prove2.me/theorems/41898ae2-fe8f-4e6d-82c8-c638e5eefc36

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_majDual_herm
 -- name    : Formalism.HermitianLatticesTheory.majDual_herm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:38.680855+00:00
 -- url     : https://prove2.me/theorems/e07add69-9788-4226-a12d-ce3dfe7af6f3

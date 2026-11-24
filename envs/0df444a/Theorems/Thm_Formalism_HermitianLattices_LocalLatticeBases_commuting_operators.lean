@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_commuting_operators
 -- name    : Formalism.HermitianLattices.LocalLatticeBases.commuting_operators
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:15.593851+00:00
 -- url     : https://prove2.me/theorems/63344f3d-439e-4900-9b6f-e8ae8ebeb18f

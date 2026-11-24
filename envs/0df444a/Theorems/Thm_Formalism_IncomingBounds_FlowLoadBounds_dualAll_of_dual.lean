@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_FlowLoadBounds_dualAll_of_dual
 -- name    : Formalism.IncomingBounds.FlowLoadBounds.dualAll_of_dual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:01.945619+00:00
 -- url     : https://prove2.me/theorems/4027d785-93a1-4eac-955a-b881d5065f07

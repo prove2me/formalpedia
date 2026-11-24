@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_avg_congr
 -- name    : Formalism.IndefR.Fin.Four.avg_congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:18.586283+00:00
 -- url     : https://prove2.me/theorems/5636d241-55a2-4481-b83a-b7f3feff5365

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FractionalCalc_laplace_prabhakar_of_le_two
 -- name    : FractionalCalc.laplace_prabhakar_of_le_two
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-21T15:48:45.473032+00:00
 -- url     : https://prove2.me/theorems/33c287ae-648b-422a-ab57-a27e8a050dd3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_final_finIntermediate
 -- name    : Formalism.HermitianLatticesTheory.final_finIntermediate
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:50.921087+00:00
 -- url     : https://prove2.me/theorems/99258bdc-deb9-476e-b0af-7ad05ad0ccd6

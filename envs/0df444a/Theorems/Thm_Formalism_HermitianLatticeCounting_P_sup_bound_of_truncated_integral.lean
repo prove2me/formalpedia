@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_sup_bound_of_truncated_integral
 -- name    : Formalism.HermitianLatticeCounting.P.sup_bound_of_truncated_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:48:31.936054+00:00
 -- url     : https://prove2.me/theorems/dab09987-3bef-4429-944a-c1f48aefc3b2

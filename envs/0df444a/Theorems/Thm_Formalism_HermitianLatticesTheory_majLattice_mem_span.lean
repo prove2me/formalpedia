@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_majLattice_mem_span
 -- name    : Formalism.HermitianLatticesTheory.majLattice_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:05:01.287388+00:00
 -- url     : https://prove2.me/theorems/fd84b29c-2888-4911-a864-e28ef327164b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_am_gm_sum_lower_bound
 -- name    : Formalism.HermitianLattices.TraceIntegrality.am_gm_sum_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:52.774419+00:00
 -- url     : https://prove2.me/theorems/b62d1fd7-055c-487f-a586-f8263761945d

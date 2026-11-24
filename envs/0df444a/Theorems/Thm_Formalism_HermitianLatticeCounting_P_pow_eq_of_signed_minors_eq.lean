@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_pow_eq_of_signed_minors_eq
 -- name    : Formalism.HermitianLatticeCounting.P.pow_eq_of_signed_minors_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:38.113283+00:00
 -- url     : https://prove2.me/theorems/dce26243-709a-4edb-8b2e-f86cc7f14013

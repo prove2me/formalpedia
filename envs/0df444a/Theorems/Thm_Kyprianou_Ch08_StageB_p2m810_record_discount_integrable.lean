@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_record_discount_integrable
 -- name    : Kyprianou.Ch08.StageB.p2m810_record_discount_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T07:44:00.13032+00:00
 -- url     : https://prove2.me/theorems/1ad6307a-72e8-43d7-ad45-7570a1138ab3

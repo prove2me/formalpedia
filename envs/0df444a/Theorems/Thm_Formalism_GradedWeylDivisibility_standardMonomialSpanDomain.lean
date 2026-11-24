@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_standardMonomialSpanDomain
 -- name    : Formalism.GradedWeylDivisibility.standardMonomialSpanDomain
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:53:10.638806+00:00
 -- url     : https://prove2.me/theorems/68af4db1-1b5a-4679-bbfa-a9b57e4b638a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_Cay_diffOp_C_mul
 -- name    : Formalism.IncomingBounds.Cay.diffOp_C_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:11:28.807658+00:00
 -- url     : https://prove2.me/theorems/f712b3ea-cb02-4cb9-adf7-a8d7de35dabc

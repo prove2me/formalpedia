@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_Cay_step_der
 -- name    : Formalism.IncomingBounds.Cay.step_der
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:11:45.661133+00:00
 -- url     : https://prove2.me/theorems/8b7cd432-9728-470b-9ca3-6c9c666865f4

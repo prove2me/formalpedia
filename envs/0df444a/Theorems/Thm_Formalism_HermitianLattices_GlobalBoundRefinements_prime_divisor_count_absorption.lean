@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_prime_divisor_count_absorption
 -- name    : Formalism.HermitianLattices.GlobalBoundRefinements.prime_divisor_count_absorption
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:02:55.782045+00:00
 -- url     : https://prove2.me/theorems/3669e1e4-23fc-4a44-b31b-ec1d116a63fc

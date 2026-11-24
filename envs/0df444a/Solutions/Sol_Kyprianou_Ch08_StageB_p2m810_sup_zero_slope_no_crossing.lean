@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch08.StageB.p2m810_sup_zero_slope_no_crossing
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T07:33:33.754975+00:00
 -- url     : https://prove2.me/submissions/c0dedcaa-4c03-4041-ac08-6d79fb82e3a9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_zero_slope_record_survival
 import Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_certain_record_ae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_sup_zero_slope_no_crossing
 -- name    : Kyprianou.Ch08.StageB.p2m810_sup_zero_slope_no_crossing
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T00:05:07.896271+00:00
 -- url     : https://prove2.me/theorems/44349357-9d85-4fbc-b8ec-d3c7cc88f438

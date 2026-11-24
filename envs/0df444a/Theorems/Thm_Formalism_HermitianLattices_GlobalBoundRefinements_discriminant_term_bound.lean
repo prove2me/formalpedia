@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_discriminant_term_bound
 -- name    : Formalism.HermitianLattices.GlobalBoundRefinements.discriminant_term_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:11.100279+00:00
 -- url     : https://prove2.me/theorems/dc6d3bb7-1945-4c78-bcd4-9a2cc4e653b3

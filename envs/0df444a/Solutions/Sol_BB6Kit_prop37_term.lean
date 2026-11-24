@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BB6Kit.prop37_term
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @alon yuval
 -- created : 2026-11-24T06:59:26.968456+00:00
 -- url     : https://prove2.me/submissions/5051a2a4-c0f6-4d14-921e-be5692db9804
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_BB6Delta

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m87_qpos_occupation_upper_exit_markov_bridge
 -- name    : Kyprianou.Ch08.StageB.p2m87_qpos_occupation_upper_exit_markov_bridge
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T01:08:44.997018+00:00
 -- url     : https://prove2.me/theorems/d1876b4f-762e-4e43-870a-6d628160e2e4

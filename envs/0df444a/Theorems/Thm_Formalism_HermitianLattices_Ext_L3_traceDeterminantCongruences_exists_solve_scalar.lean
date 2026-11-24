@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_traceDeterminantCongruences_exists_solve_scalar
 -- name    : Formalism.HermitianLattices.Ext.L3.traceDeterminantCongruences.exists_solve_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:56:42.962731+00:00
 -- url     : https://prove2.me/theorems/a5b4c1cc-953c-4234-9461-c43485ee64eb

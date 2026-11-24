@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_orthogonal_minor_bound
 -- name    : Formalism.HermitianLattices.TraceIntegrality.orthogonal_minor_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:02:26.811631+00:00
 -- url     : https://prove2.me/theorems/983f24f6-a8c8-46ff-9fa0-2aa58bee7e1a

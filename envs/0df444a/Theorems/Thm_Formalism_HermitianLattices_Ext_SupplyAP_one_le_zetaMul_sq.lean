@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_SupplyAP_one_le_zetaMul_sq
 -- name    : Formalism.HermitianLattices.Ext.SupplyAP.one_le_zetaMul_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:07.034531+00:00
 -- url     : https://prove2.me/theorems/bf31771d-747a-443b-bc6d-7accaea83a6f

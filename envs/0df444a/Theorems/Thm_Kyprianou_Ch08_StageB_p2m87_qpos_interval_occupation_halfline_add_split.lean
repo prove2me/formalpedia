@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m87_qpos_interval_occupation_halfline_add_split
 -- name    : Kyprianou.Ch08.StageB.p2m87_qpos_interval_occupation_halfline_add_split
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T00:35:08.70369+00:00
 -- url     : https://prove2.me/theorems/e337c740-9494-4b38-b735-4860dc1ede52

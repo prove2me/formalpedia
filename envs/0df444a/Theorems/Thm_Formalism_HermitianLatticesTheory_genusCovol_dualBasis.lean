@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_genusCovol_dualBasis
 -- name    : Formalism.HermitianLatticesTheory.genusCovol_dualBasis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:25.149666+00:00
 -- url     : https://prove2.me/theorems/c8353a4a-174d-4b3f-9ce5-02174928f5cf

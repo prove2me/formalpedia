@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Eqv_hasDerivAt_md_along_line
 -- name    : Formalism.IndefR.Eqv.hasDerivAt_md_along_line
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:10.188776+00:00
 -- url     : https://prove2.me/theorems/da6a3693-1028-471e-958e-eb0d141a2615

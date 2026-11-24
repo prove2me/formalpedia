@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_vectorCountBounds_card_sub_le
 -- name    : Formalism.HermitianLattices.Ext.L3.vectorCountBounds.card_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:16:07.46963+00:00
 -- url     : https://prove2.me/theorems/62d0ce07-78c4-4e9a-8f11-c6b0481ee6f5

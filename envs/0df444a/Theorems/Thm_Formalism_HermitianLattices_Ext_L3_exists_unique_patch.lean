@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_exists_unique_patch
 -- name    : Formalism.HermitianLattices.Ext.L3.exists_unique_patch
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:05:29.748976+00:00
 -- url     : https://prove2.me/theorems/3f7db1b5-42f5-4219-a66b-7872a903fe02

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_traceReal_star_rat
 -- name    : Formalism.HermitianLatticesTheory.traceReal_star_rat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:05:29.891217+00:00
 -- url     : https://prove2.me/theorems/55e757bd-8e07-4e85-8e98-16c877c3a140

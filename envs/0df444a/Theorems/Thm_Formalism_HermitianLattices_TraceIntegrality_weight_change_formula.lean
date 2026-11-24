@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_weight_change_formula
 -- name    : Formalism.HermitianLattices.TraceIntegrality.weight_change_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:07.281145+00:00
 -- url     : https://prove2.me/theorems/ac33f275-c827-4c99-b6d0-5fac26490750

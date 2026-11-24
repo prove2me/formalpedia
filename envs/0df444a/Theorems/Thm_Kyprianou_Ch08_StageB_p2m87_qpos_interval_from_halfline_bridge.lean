@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m87_qpos_interval_from_halfline_bridge
 -- name    : Kyprianou.Ch08.StageB.p2m87_qpos_interval_from_halfline_bridge
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T23:39:32.46282+00:00
 -- url     : https://prove2.me/theorems/dd94395e-5a1b-4371-8a44-53bb6ca85201

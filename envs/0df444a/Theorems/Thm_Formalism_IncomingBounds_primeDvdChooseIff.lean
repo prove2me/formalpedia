@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_primeDvdChooseIff
 -- name    : Formalism.IncomingBounds.primeDvdChooseIff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:09:51.501125+00:00
 -- url     : https://prove2.me/theorems/39ac7dbe-3303-41be-ac68-7f9a13daca30

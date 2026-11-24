@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_FlowLoadBounds_flowVal_zero
 -- name    : Formalism.IncomingBounds.FlowLoadBounds.flowVal_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:11:56.42118+00:00
 -- url     : https://prove2.me/theorems/de8bb30b-1903-46c5-94da-e399f5d3b769

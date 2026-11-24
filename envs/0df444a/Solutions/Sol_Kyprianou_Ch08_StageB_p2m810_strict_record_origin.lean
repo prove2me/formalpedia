@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch08.StageB.p2m810_strict_record_origin
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T07:24:17.351444+00:00
 -- url     : https://prove2.me/submissions/e27d4f0a-ba44-47ca-b8e9-e4da04e95afa
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Kyprianou_Ch08_StageB_source_result8_2_v2
 import Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_strict_height_discount_limit

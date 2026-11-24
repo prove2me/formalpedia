@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_thetaBasic_trace_star
 -- name    : Formalism.HermitianLatticesTheory.thetaBasic_trace_star
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:05:18.965205+00:00
 -- url     : https://prove2.me/theorems/5aa514e4-c403-444a-89a7-f49d240d521d

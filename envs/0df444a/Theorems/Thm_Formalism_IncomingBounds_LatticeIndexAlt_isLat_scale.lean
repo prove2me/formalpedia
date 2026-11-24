@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_LatticeIndexAlt_isLat_scale
 -- name    : Formalism.IncomingBounds.LatticeIndexAlt.isLat_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:14:00.859215+00:00
 -- url     : https://prove2.me/theorems/e6c07146-cfac-4461-9ce7-01e7bbc6f1fd

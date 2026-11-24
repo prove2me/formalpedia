@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Poly1305_pocklington
 -- name    : Poly1305.pocklington
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-24T07:40:21.439835+00:00
 -- url     : https://prove2.me/theorems/26d9cb23-5925-46bd-be68-33ec7c4ecfc0

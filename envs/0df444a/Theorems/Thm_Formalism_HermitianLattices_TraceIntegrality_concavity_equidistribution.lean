@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_concavity_equidistribution
 -- name    : Formalism.HermitianLattices.TraceIntegrality.concavity_equidistribution
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:00:05.312563+00:00
 -- url     : https://prove2.me/theorems/0e1031a8-09d2-40bb-bdb7-f8e63280e845

@@ -1,0 +1,31 @@
+-- Prove2me | Theorems.Thm_Formalism_L2_Fam_IdTrans_eq_one_of_pow
+-- name    : Formalism.L2.Fam.IdTrans.eq_one_of_pow
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-24T07:55:41.513633+00:00
+-- url     : https://prove2.me/theorems/67d1c9c3-0e89-4ceb-9192-af1e3b096108
+-- title:
+--   Id Trans: eq one of pow
+-- statement:
+--   The Id Trans construction uses the eq one of pow property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/LocalToGlobal/NumberFieldFamilies/IdTransSM.lean#L28-L84
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/LocalToGlobal/NumberFieldFamilies/IdTransSM.lean#L28-L84
+
+import Definitions.Def_Formalism_LocalToGlobal_UnitaryNorms_IsUnitaryNormOf
+import Definitions.Def_Formalism_LocalToGlobal_UnitaryNorms_UnrAe
+import Definitions.Def_Formalism_LocalToGlobal_NumberFieldFamilies_IdTransSM
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open NumberField IsDedekindDomain Formalism.L2.Host Neutral.B1 ReciprocityTheory.Neutral.Bridge.HCFR Filter Topology
+open Formalism Formalism.L2 Formalism.L2.Fam Formalism.L2.Fam.IdTrans
+
+theorem Formalism.L2.Fam.IdTrans.eq_one_of_pow {a : ℂ} (h : ∀ n : ℤ, ‖a ^ n - 1‖ < 1) (ha : a ≠ 0) : a = 1 := by sorry

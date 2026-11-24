@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_locDual_sigma_mem
 -- name    : Formalism.HermitianLatticesTheory.locDual_sigma_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:38.506381+00:00
 -- url     : https://prove2.me/theorems/cb355c04-5eb7-4e5e-aa02-252a5b42338e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_RamifiedHeckeModels_imprimitive_case_count
 -- name    : Formalism.HermitianLattices.RamifiedHeckeModels.imprimitive_case_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:52.30621+00:00
 -- url     : https://prove2.me/theorems/bc831fe8-b10f-4514-a2db-6bc6c2368ea9

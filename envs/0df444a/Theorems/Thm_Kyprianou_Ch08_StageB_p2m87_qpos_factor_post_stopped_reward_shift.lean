@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m87_qpos_factor_post_stopped_reward_shift
 -- name    : Kyprianou.Ch08.StageB.p2m87_qpos_factor_post_stopped_reward_shift
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T04:25:46.453796+00:00
 -- url     : https://prove2.me/theorems/bdfc1113-10d9-4f2e-a33c-6f312b12f7d7

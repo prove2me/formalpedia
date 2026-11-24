@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_genusScale_transfer
 -- name    : Formalism.HermitianLatticesTheory.genusScale_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:31.117207+00:00
 -- url     : https://prove2.me/theorems/5aa0c287-379a-4b3f-a484-1d4358015a73

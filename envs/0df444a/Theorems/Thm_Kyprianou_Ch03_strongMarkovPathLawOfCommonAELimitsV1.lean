@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_strongMarkovPathLawOfCommonAELimitsV1
 -- name    : Kyprianou.Ch03.strongMarkovPathLawOfCommonAELimitsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T07:41:39.602205+00:00
 -- url     : https://prove2.me/theorems/6ca4e517-a112-432a-b338-6d002fb7c8aa

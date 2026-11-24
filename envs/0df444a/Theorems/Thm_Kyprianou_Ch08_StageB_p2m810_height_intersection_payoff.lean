@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_height_intersection_payoff
 -- name    : Kyprianou.Ch08.StageB.p2m810_height_intersection_payoff
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T07:44:10.070151+00:00
 -- url     : https://prove2.me/theorems/b009583b-8235-484e-aa3b-12e725ce8310

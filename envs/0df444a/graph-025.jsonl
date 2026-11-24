@@ -36809,7 +36809,7 @@
 {"parent": "OAI.SharpPlanar.CachedData.hm13_1_0_10.realContains_g", "child": "OAIQ098G1682", "via": ["solution", "statement"]}
 {"parent": "ZCDPtoGDP.Sharp.lemma_20", "child": "ZCDPtoGDP_Sharp_Privacy", "via": ["statement"]}
 {"parent": "ZCDPtoGDP.Sharp.lemma_20", "child": "ZCDPtoGDP_Sharp_Analysis", "via": ["statement"]}
-{"parent": "WeightedEdgeColor.lemma_C_1", "child": "WeightedEdgeColor_IsAvgOfFeasibleSets", "via": ["statement"]}
+{"parent": "WeightedEdgeColor.lemma_C_1", "child": "WeightedEdgeColor_IsAvgOfFeasibleSets", "via": ["solution", "statement"]}
 {"parent": "WangRenyiEntropy.Noninteger.noninteger_lower_bound", "child": "WangRenyiEntropy_Noninteger_SamplingExperiment", "via": ["statement"]}
 {"parent": "DetSupportRank_DeterminantSupport_DegreeRelations", "child": "DetSupportRank_DeterminantSupport_PartitionRank", "via": ["statement"]}
 {"parent": "DetSupportRank_DeterminantSupport_DegreeRelations", "child": "DetSupportRank_DeterminantSupport_PolynomialGrading", "via": ["statement"]}

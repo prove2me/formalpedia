@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_genusCovol_le_of_loc
 -- name    : Formalism.HermitianLatticesTheory.genusCovol_le_of_loc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:17.41529+00:00
 -- url     : https://prove2.me/theorems/9cc268dd-60e3-4795-a658-271132b518b1

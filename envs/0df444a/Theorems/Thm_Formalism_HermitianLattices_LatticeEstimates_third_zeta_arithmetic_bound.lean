@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LatticeEstimates_third_zeta_arithmetic_bound
 -- name    : Formalism.HermitianLattices.LatticeEstimates.third_zeta_arithmetic_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:21.968183+00:00
 -- url     : https://prove2.me/theorems/99a5f11c-862c-4371-bbcf-9c6413189028

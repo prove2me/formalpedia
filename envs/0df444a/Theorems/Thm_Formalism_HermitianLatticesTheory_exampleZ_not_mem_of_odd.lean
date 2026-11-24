@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_exampleZ_not_mem_of_odd
 -- name    : Formalism.HermitianLatticesTheory.exampleZ_not_mem_of_odd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:55.093069+00:00
 -- url     : https://prove2.me/theorems/a38a9b7d-7546-4436-9acf-2479f953596f

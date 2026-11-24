@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_majLattice_B_apply
 -- name    : Formalism.HermitianLatticesTheory.majLattice_B_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:58.514558+00:00
 -- url     : https://prove2.me/theorems/2e30c052-b72d-4d5c-9354-4cf593f8a86b

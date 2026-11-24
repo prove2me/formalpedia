@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_Cay_dm_monomial
 -- name    : Formalism.IncomingBounds.Cay.dm_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:11:33.474059+00:00
 -- url     : https://prove2.me/theorems/c60f7590-9dba-44c3-b42a-94ae636f0410

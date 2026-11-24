@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ZeroFreeRegionGL2_gl2b2_thinIntegral
 -- name    : Formalism.HermitianLattices.ZeroFreeRegionGL2.gl2b2_thinIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:53.349188+00:00
 -- url     : https://prove2.me/theorems/ca02fde8-f569-4163-93d8-5d04bfbfc012

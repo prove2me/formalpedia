@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_cor_tsum_cmp
 -- name    : Formalism.IncomingBounds.cor_tsum_cmp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:09:41.364927+00:00
 -- url     : https://prove2.me/theorems/47bd5480-9d0a-43fa-9917-6e0f54bd420b

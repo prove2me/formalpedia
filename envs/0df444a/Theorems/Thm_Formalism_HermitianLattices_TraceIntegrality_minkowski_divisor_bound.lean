@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_minkowski_divisor_bound
 -- name    : Formalism.HermitianLattices.TraceIntegrality.minkowski_divisor_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:55.089957+00:00
 -- url     : https://prove2.me/theorems/2f97aaf7-d512-429d-ad59-a521e7bc092a

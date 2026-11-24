@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_FlowDualityReindexing_sum_inv_pow_le
 -- name    : Formalism.IncomingBounds.FlowDualityReindexing.sum_inv_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:11:36.976708+00:00
 -- url     : https://prove2.me/theorems/0c59f9f8-5c3f-48db-92f4-5513874a2bc0

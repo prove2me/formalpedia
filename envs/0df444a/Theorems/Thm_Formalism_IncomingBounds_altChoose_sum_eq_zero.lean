@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_altChoose_sum_eq_zero
 -- name    : Formalism.IncomingBounds.altChoose_sum_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:09:24.756405+00:00
 -- url     : https://prove2.me/theorems/ab043864-4cc8-4205-a30e-24ae64a3ac51

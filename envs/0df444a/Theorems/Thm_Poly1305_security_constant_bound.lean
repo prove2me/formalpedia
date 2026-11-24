@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Poly1305_security_constant_bound
 -- name    : Poly1305.security_constant_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-24T07:40:12.000605+00:00
 -- url     : https://prove2.me/theorems/cfc1c8ce-75ca-48a7-b0df-6cf7faacbba4

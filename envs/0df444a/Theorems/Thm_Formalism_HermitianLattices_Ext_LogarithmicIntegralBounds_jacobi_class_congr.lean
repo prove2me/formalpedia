@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_jacobi_class_congr
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.jacobi_class_congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:56:34.931799+00:00
 -- url     : https://prove2.me/theorems/94415a46-6c51-4d30-9f73-3ae65c6e0607

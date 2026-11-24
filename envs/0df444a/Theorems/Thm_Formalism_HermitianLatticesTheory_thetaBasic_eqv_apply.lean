@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_thetaBasic_eqv_apply
 -- name    : Formalism.HermitianLatticesTheory.thetaBasic_eqv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:05:11.546794+00:00
 -- url     : https://prove2.me/theorems/b6249fee-a934-4026-8364-e4c9d9c53bb6

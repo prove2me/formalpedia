@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_exampleZ_len_self
 -- name    : Formalism.HermitianLatticesTheory.exampleZ_len_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:00.619115+00:00
 -- url     : https://prove2.me/theorems/97cf1da1-4265-44f5-ad09-4c444e0be6ee

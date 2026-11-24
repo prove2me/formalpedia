@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_majLattice_common
 -- name    : Formalism.HermitianLatticesTheory.majLattice_common
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:59.739031+00:00
 -- url     : https://prove2.me/theorems/f45e5c87-8a9a-44c5-bbb9-619d31855a7d

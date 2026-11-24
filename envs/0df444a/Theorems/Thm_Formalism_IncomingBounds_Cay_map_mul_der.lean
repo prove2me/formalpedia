@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_Cay_map_mul_der
 -- name    : Formalism.IncomingBounds.Cay.map_mul_der
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:11:37.572357+00:00
 -- url     : https://prove2.me/theorems/6d157e94-f611-4a0a-a792-4b9f5a578ea0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_WeilRepresentation_CocycleEighthPower_t_heis
 -- name    : Formalism.HermitianLattices.WeilRepresentation.CocycleEighthPower.t_heis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:34.698675+00:00
 -- url     : https://prove2.me/theorems/7cb4bde4-fe36-4633-bc73-7b4008c64dc3

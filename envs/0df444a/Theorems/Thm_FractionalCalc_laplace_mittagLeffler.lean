@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FractionalCalc_laplace_mittagLeffler
 -- name    : FractionalCalc.laplace_mittagLeffler
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-20T16:41:57.415338+00:00
 -- url     : https://prove2.me/theorems/604be156-243c-48f6-9c34-477437f1a683

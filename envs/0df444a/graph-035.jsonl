@@ -98509,8 +98509,8 @@
 {"parent": "RH1E6S06_D040_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "JardenShami.ht_subtype_of_downward", "child": "MyResearchesLLMLean_JardenShami_Section6", "via": ["solution", "statement"]}
 {"parent": "JardenShami.ht_subtype_of_downward", "child": "MyResearchesLLMLean_JardenShami_Section7", "via": ["solution", "statement"]}
-{"parent": "FractionalCalc.laplace_mittagLefflerOne", "child": "FractionalCalc_mittagLeffler", "via": ["statement"]}
-{"parent": "FractionalCalc.laplace_mittagLefflerOne", "child": "QueueingFundamentals_Transient_laplace", "via": ["statement"]}
+{"parent": "FractionalCalc.laplace_mittagLefflerOne", "child": "FractionalCalc_mittagLeffler", "via": ["solution", "statement"]}
+{"parent": "FractionalCalc.laplace_mittagLefflerOne", "child": "QueueingFundamentals_Transient_laplace", "via": ["solution", "statement"]}
 {"parent": "SourceProof_8329e02bd7c6c97e21b74a4b", "child": "LevyStochCalc_Brownian_ItoL2CompletionConvergence_F003", "via": ["statement"]}
 {"parent": "RH1E6S03.group_021", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S03.group_021", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}

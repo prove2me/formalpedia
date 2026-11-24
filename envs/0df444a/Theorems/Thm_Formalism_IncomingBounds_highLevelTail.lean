@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_highLevelTail
 -- name    : Formalism.IncomingBounds.highLevelTail
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:02.315662+00:00
 -- url     : https://prove2.me/theorems/78b8b738-9395-47dd-9210-2fa4bd83f17e

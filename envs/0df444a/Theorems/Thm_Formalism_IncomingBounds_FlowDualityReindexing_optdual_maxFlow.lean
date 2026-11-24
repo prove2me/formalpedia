@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_FlowDualityReindexing_optdual_maxFlow
 -- name    : Formalism.IncomingBounds.FlowDualityReindexing.optdual_maxFlow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:11:34.869845+00:00
 -- url     : https://prove2.me/theorems/7e12d245-8b0e-4275-a783-35f04bffb12d

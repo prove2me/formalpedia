@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Poly1305_chunk_mem_Icc
 -- name    : Poly1305.chunk_mem_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-24T07:39:15.627936+00:00
 -- url     : https://prove2.me/theorems/4c3a5820-50f9-4a24-9e6f-073a017c7048

@@ -1,0 +1,38 @@
+-- Prove2me | Theorems.Thm_Formalism_L2_DIV_nabla_eq_dual_weyl_holds
+-- name    : Formalism.L2.DIV.nabla_eq_dual_weyl_holds
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-24T07:54:45.069985+00:00
+-- url     : https://prove2.me/theorems/ae901884-3744-4e73-8dcc-b5fdb84b04f4
+-- title:
+--   DIV: nabla eq dual weyl holds
+-- statement:
+--   The DIV construction uses the nabla eq dual weyl holds property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/LocalToGlobal/Columns/CoefficientsModP/WeTransposeWordTransposeWord.lean#L74-L116
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/LocalToGlobal/Columns/CoefficientsModP/WeTransposeWordTransposeWord.lean#L74-L116
+
+import Definitions.Def_Formalism_GradedWeylDivisibility_FinalD
+import Definitions.Def_Formalism_GradedWeylDivisibility_StatementE
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockQHW
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockQWordAdj
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_LClosedeqLemmas
+import Definitions.Def_Formalism_PieriBlockIdeals_PieriColumnMinors_LowerTriangularIntegral
+import Definitions.Def_Formalism_PieriBlockIdeals_PieriColumnMinors_LrfcApplyWordAppendSingle
+import Definitions.Def_Formalism_HermitianLattices_HermitianLatticesProofs_DualLattice
+import Definitions.Def_Formalism_LocalToGlobal_Columns_CoefficientsModP_WeTransposeWordTransposeWord
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open MvPolynomial
+noncomputable section
+open Formalism Formalism.L2 Formalism.L2.DIV
+open Formalism.GradedWeylDivisibility
+
+theorem Formalism.L2.DIV.nabla_eq_dual_weyl_holds : NablaEqDualWeyl := by sorry

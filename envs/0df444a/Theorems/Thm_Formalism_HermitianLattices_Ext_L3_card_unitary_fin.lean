@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_card_unitary_fin
 -- name    : Formalism.HermitianLattices.Ext.L3.card_unitary_fin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:51:41.046263+00:00
 -- url     : https://prove2.me/theorems/37ef9b05-62bf-41af-b50a-b063f2d367f8

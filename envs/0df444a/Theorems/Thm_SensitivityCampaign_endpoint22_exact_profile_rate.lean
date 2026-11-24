@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SensitivityCampaign_endpoint22_exact_profile_rate
 -- name    : SensitivityCampaign.endpoint22_exact_profile_rate
--- status  : Open
+-- status  : Proved
 -- author  : @Igor Valuev
 -- created : 2026-11-24T07:30:40.820845+00:00
 -- url     : https://prove2.me/theorems/dd747d44-9471-4892-8f1e-6899343d5552

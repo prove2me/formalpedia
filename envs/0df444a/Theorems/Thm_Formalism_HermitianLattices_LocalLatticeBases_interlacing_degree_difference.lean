@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_interlacing_degree_difference
 -- name    : Formalism.HermitianLattices.LocalLatticeBases.interlacing_degree_difference
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:00:02.390427+00:00
 -- url     : https://prove2.me/theorems/f5d70291-1647-49f7-b09b-b4a4371760a1

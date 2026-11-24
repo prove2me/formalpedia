@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_count_a
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.count_a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:18:39.062748+00:00
 -- url     : https://prove2.me/theorems/0828b62e-36c8-408e-aa54-100454e3c60b

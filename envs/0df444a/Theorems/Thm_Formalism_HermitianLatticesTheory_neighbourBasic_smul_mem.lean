@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_neighbourBasic_smul_mem
 -- name    : Formalism.HermitianLatticesTheory.neighbourBasic_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:05:17.123814+00:00
 -- url     : https://prove2.me/theorems/d72e1a31-1181-4069-b55b-2775017d624f

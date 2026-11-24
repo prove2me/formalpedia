@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_dualLattice_repr
 -- name    : Formalism.HermitianLatticesTheory.dualLattice_repr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:14.014782+00:00
 -- url     : https://prove2.me/theorems/0bc2bb74-db22-45bb-9ea6-b247ff0adbc9

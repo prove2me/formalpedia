@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_detLeadDiag
 -- name    : Formalism.CountingSumsFrames.Top.detLeadDiag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:48:14.419938+00:00
 -- url     : https://prove2.me/theorems/c6c3717e-8ad6-4764-b882-a3f2ce84cddf

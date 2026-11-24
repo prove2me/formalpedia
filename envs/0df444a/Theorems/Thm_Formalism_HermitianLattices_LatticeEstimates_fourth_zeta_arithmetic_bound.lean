@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LatticeEstimates_fourth_zeta_arithmetic_bound
 -- name    : Formalism.HermitianLattices.LatticeEstimates.fourth_zeta_arithmetic_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:18.173101+00:00
 -- url     : https://prove2.me/theorems/d3279d37-f8fa-435d-8016-fd14b917e0d8

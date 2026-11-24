@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_neighbourConstruct_avoid
 -- name    : Formalism.HermitianLatticesTheory.neighbourConstruct_avoid
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:05:14.539537+00:00
 -- url     : https://prove2.me/theorems/61733c11-f68a-41dd-931f-5801d83fd656

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ThinSetIntegral_thin_set_integral
 -- name    : Formalism.HermitianLattices.ThinSetIntegral.thin_set_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:50.790419+00:00
 -- url     : https://prove2.me/theorems/2005d97e-3aa4-4385-b258-4042feb07b01

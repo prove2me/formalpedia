@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_localizedQuotients_exists_common
 -- name    : Formalism.HermitianLattices.Ext.L3.localizedQuotients.exists_common
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:48:26.256261+00:00
 -- url     : https://prove2.me/theorems/c3a9d00c-38c6-4102-9f62-57d2b7ec6183

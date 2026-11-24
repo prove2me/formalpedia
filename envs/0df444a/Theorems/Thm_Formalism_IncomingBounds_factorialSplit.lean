@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_factorialSplit
 -- name    : Formalism.IncomingBounds.factorialSplit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:09:50.292012+00:00
 -- url     : https://prove2.me/theorems/997bf65c-2f44-496d-980d-89c483d2af0c

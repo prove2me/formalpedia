@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Poly1305_card_U_le_eight
 -- name    : Poly1305.card_U_le_eight
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-24T07:42:47.10868+00:00
 -- url     : https://prove2.me/theorems/4b261500-a529-42ba-ae8c-4cbe3ca23af5

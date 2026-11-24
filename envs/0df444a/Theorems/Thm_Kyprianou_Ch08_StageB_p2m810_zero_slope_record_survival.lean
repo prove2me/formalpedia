@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_zero_slope_record_survival
 -- name    : Kyprianou.Ch08.StageB.p2m810_zero_slope_record_survival
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T00:21:33.993958+00:00
 -- url     : https://prove2.me/theorems/12771f63-9bd7-4c4e-8259-021dfd315533

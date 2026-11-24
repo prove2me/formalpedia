@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch08.StageB.p2m810_sup_zero_payoff
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T00:13:24.805438+00:00
 -- url     : https://prove2.me/submissions/d6b680ca-776d-4492-a912-5acb3cc6097a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_source_tilt_derivative
 import Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_sup_zero_slope_no_crossing

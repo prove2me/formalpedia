@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Poly1305_prime_p1
 -- name    : Poly1305.prime_p1
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-24T07:41:22.114715+00:00
 -- url     : https://prove2.me/theorems/7595192f-8036-408c-9522-88cbb9cfeea6

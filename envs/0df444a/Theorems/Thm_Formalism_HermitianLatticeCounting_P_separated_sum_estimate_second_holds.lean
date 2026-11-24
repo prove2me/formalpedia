@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_separated_sum_estimate_second_holds
 -- name    : Formalism.HermitianLatticeCounting.P.separated_sum_estimate_second_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:13.211418+00:00
 -- url     : https://prove2.me/theorems/9d54a955-8dae-4301-9706-bb8e3465b5a7

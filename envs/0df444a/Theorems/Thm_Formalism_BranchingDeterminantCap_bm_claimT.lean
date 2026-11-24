@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bm_claimT
 -- name    : Formalism.BranchingDeterminantCap.bm_claimT
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:25:14.435183+00:00
 -- url     : https://prove2.me/theorems/813badc6-1a60-46c2-a993-7a12b7b1e76e

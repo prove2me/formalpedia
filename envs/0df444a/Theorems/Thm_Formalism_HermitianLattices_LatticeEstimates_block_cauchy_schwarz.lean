@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LatticeEstimates_block_cauchy_schwarz
 -- name    : Formalism.HermitianLattices.LatticeEstimates.block_cauchy_schwarz
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:03.68942+00:00
 -- url     : https://prove2.me/theorems/27cf68db-8ba2-416c-9d08-eecd7db123c0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LatticeEstimates_column_other_entries
 -- name    : Formalism.HermitianLattices.LatticeEstimates.column_other_entries
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:03.004807+00:00
 -- url     : https://prove2.me/theorems/df63a0e7-1ea4-4037-b11b-dc30bbb8c092

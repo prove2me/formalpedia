@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_T2_exists_far_from_points
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.T2.exists_far_from_points
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:14.338777+00:00
 -- url     : https://prove2.me/theorems/9ac77a3b-bee6-4707-b1ca-6d2992ffc5c9

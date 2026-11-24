@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Arith_FormsL_Mj_sub_Wgood
 -- name    : Formalism.IndefR.Arith.FormsL.Mj_sub_Wgood
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:29.823571+00:00
 -- url     : https://prove2.me/theorems/8c9d4004-da44-457c-b2b5-48e713792fe4

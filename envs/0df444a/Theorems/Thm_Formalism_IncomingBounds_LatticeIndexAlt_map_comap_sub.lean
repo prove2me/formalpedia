@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_LatticeIndexAlt_map_comap_sub
 -- name    : Formalism.IncomingBounds.LatticeIndexAlt.map_comap_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:09:25.714668+00:00
 -- url     : https://prove2.me/theorems/70f0b319-51b3-471b-b130-3698f799e02d

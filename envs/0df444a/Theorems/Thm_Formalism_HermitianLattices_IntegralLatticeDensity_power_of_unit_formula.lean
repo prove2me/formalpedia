@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_IntegralLatticeDensity_power_of_unit_formula
 -- name    : Formalism.HermitianLattices.IntegralLatticeDensity.power_of_unit_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:46.578786+00:00
 -- url     : https://prove2.me/theorems/62bc7c35-8f21-4535-b9a6-2f41c297eb53

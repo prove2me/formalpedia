@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_FlowLoadBounds_coord_le_load
 -- name    : Formalism.IncomingBounds.FlowLoadBounds.coord_le_load
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:11:48.846877+00:00
 -- url     : https://prove2.me/theorems/b179eca0-6f3a-4a46-92e1-84f4600a0497

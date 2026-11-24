@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_majDual_invDiffSub
 -- name    : Formalism.HermitianLatticesTheory.majDual_invDiffSub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:53.79302+00:00
 -- url     : https://prove2.me/theorems/0d707ba0-7f9c-482d-9b7e-1fb2175f0750

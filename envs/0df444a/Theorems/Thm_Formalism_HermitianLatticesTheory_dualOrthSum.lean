@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_dualOrthSum
 -- name    : Formalism.HermitianLatticesTheory.dualOrthSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:22.527072+00:00
 -- url     : https://prove2.me/theorems/faf0f91c-fb05-468c-a09b-23a652685d05

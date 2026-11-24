@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BB6Kit_prop37_order
 -- name    : BB6Kit.prop37_order
--- status  : Open
+-- status  : Proved
 -- author  : @alon yuval
 -- created : 2026-11-24T06:58:33.702873+00:00
 -- url     : https://prove2.me/theorems/acf5a22c-405a-4aeb-bf95-569b2849c611

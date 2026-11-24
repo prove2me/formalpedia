@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_cayley_hamilton_recursion
 -- name    : Formalism.IncomingBounds.cayley_hamilton_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:09:44.367317+00:00
 -- url     : https://prove2.me/theorems/94c91274-05d3-4899-a845-0c0d5d094d85

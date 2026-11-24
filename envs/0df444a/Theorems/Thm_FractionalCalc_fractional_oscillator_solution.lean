@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FractionalCalc_fractional_oscillator_solution
 -- name    : FractionalCalc.fractional_oscillator_solution
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-20T16:45:40.837411+00:00
 -- url     : https://prove2.me/theorems/fcf73464-bdb9-4d35-a410-6bc55dd8197b

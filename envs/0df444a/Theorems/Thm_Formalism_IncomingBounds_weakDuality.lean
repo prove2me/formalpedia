@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_weakDuality
 -- name    : Formalism.IncomingBounds.weakDuality
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:09:51.965903+00:00
 -- url     : https://prove2.me/theorems/948f2721-7a2e-4bbc-ad12-5f3577b15d87

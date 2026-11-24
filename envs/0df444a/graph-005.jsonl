@@ -45962,7 +45962,7 @@
 {"parent": "OAI.DiscreteFree.finite_support_reduction", "child": "OAI_Analysis_LipschitzFree_Attachment", "via": ["solution", "statement"]}
 {"parent": "OAI.TriangularCovering.first_crossing", "child": "OAI_Geometry_TriangularCovering_CoordinateCover", "via": ["solution", "statement"]}
 {"parent": "OAI.TriangularCovering.first_crossing", "child": "TriangularCovering", "via": ["solution", "statement"]}
-{"parent": "QAOAE3Lin2.General.eq_44_45", "child": "QAOAE3Lin2_General_Setting", "via": ["statement"]}
+{"parent": "QAOAE3Lin2.General.eq_44_45", "child": "QAOAE3Lin2_General_Setting", "via": ["solution", "statement"]}
 {"parent": "OAI_InformationTheory_QuantumCircuit_Computational", "child": "OAI_InformationTheory_QuantumCircuit_Polynomial", "via": ["statement"]}
 {"parent": "OAI_InformationTheory_QuantumCircuit_Computational", "child": "OAI_InformationTheory_QuantumCircuit_ProductProjection", "via": ["statement"]}
 {"parent": "OAI_InformationTheory_QuantumCircuit_Computational", "child": "OAI_InformationTheory_QuantumCircuit_DepthZero", "via": ["statement"]}

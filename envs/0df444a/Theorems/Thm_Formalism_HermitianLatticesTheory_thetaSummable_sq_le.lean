@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_thetaSummable_sq_le
 -- name    : Formalism.HermitianLatticesTheory.thetaSummable_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:05:25.818357+00:00
 -- url     : https://prove2.me/theorems/1698dc3f-c49f-4264-9a80-681ff88ed1ce

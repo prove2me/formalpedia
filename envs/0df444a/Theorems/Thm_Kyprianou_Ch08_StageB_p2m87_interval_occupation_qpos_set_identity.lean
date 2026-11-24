@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m87_interval_occupation_qpos_set_identity
 -- name    : Kyprianou.Ch08.StageB.p2m87_interval_occupation_qpos_set_identity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T21:16:21.238138+00:00
 -- url     : https://prove2.me/theorems/1f71b175-0746-459f-a474-7a83c0a7ca17

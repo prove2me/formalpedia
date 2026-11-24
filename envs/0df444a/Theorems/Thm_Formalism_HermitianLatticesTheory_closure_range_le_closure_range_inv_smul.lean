@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_closure_range_le_closure_range_inv_smul
 -- name    : Formalism.HermitianLatticesTheory.closure_range_le_closure_range_inv_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:32.486363+00:00
 -- url     : https://prove2.me/theorems/588dc912-a0c4-4f96-bed9-048eb9883c14

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Poly1305_poly1305_eq_add16_H
 -- name    : Poly1305.poly1305_eq_add16_H
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-24T07:39:52.546311+00:00
 -- url     : https://prove2.me/theorems/470a7213-b185-444e-977c-f616c299c44e

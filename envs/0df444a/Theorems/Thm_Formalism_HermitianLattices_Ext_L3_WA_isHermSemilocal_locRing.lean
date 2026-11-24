@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_WA_isHermSemilocal_locRing
 -- name    : Formalism.HermitianLattices.Ext.L3.WA.isHermSemilocal_locRing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:08:53.142507+00:00
 -- url     : https://prove2.me/theorems/11307980-55fe-4423-bf92-afff9e64099c

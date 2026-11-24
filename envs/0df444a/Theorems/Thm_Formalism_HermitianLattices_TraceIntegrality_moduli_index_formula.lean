@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_moduli_index_formula
 -- name    : Formalism.HermitianLattices.TraceIntegrality.moduli_index_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:50.429513+00:00
 -- url     : https://prove2.me/theorems/680d0c7a-46d2-407d-aaac-a7dc6573a113

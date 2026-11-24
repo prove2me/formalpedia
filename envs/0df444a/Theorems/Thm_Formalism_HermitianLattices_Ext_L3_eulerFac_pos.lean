@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_eulerFac_pos
 -- name    : Formalism.HermitianLattices.Ext.L3.eulerFac_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:34:19.49219+00:00
 -- url     : https://prove2.me/theorems/9b967963-7404-4682-af1d-d58a842cc2b5

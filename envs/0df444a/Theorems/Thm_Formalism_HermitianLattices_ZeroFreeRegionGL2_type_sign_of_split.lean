@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ZeroFreeRegionGL2_type_sign_of_split
 -- name    : Formalism.HermitianLattices.ZeroFreeRegionGL2.type_sign_of_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:53.509001+00:00
 -- url     : https://prove2.me/theorems/1585301e-a313-443e-a602-5ff842187e98

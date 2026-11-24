@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Bl_FreeLattices_goal1
 -- name    : Bl.FreeLattices.goal1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:48:13.009464+00:00
 -- url     : https://prove2.me/theorems/ca0ffeb8-d0e0-475c-b08d-e6dda98ad230

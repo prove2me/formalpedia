@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Poly1305_gmpOut_eq_poly1305
 -- name    : Poly1305.gmpOut_eq_poly1305
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-24T07:39:40.030582+00:00
 -- url     : https://prove2.me/theorems/74393e02-a3b2-4ef3-be86-2213814af9c3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_MeanGammaLemmas_neglog_nat
 -- name    : Formalism.GM.MeanGammaLemmas.neglog_nat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:48:12.159542+00:00
 -- url     : https://prove2.me/theorems/f35fd7c5-b7cf-42ff-a331-cbbf40d9bcfd

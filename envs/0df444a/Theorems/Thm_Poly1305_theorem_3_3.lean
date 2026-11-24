@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Poly1305_theorem_3_3
 -- name    : Poly1305.theorem_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-24T07:43:53.177056+00:00
 -- url     : https://prove2.me/theorems/9fdc2ed1-febe-4cd4-ba3c-cc31cbc1a21d

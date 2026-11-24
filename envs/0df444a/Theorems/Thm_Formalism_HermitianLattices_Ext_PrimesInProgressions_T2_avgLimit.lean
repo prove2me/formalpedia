@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_T2_avgLimit
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.T2.avgLimit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:53:05.844317+00:00
 -- url     : https://prove2.me/theorems/305021dd-1e44-4140-8cf8-1e27f7ed362f

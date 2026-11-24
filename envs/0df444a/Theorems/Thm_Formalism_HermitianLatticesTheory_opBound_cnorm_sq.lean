@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_opBound_cnorm_sq
 -- name    : Formalism.HermitianLatticesTheory.opBound_cnorm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:05:16.574332+00:00
 -- url     : https://prove2.me/theorems/82b7cfac-0d36-4b45-81ef-64f1928a4a43

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_adjoin_sub_one_eq_cycl
 -- name    : GroundTheory.PAdicHodge.adjoin_sub_one_eq_cycl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:48:20.535824+00:00
 -- url     : https://prove2.me/theorems/9d30d6f0-bfd6-476b-91e6-64aa333048bf

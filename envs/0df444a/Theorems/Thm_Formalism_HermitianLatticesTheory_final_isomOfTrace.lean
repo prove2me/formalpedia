@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_final_isomOfTrace
 -- name    : Formalism.HermitianLatticesTheory.final_isomOfTrace
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:58.963805+00:00
 -- url     : https://prove2.me/theorems/00b13d17-0171-4599-bfb7-54285588e769

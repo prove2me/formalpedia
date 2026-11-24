@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_PropZ_i_of
 -- name    : Formalism.HermitianLattices.TraceIntegrality.PropZ_i_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:51.559547+00:00
 -- url     : https://prove2.me/theorems/8682196f-e62f-4c2e-b7a0-ce4a7d28d7a1

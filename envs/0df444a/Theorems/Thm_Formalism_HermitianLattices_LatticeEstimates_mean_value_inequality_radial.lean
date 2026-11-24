@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LatticeEstimates_mean_value_inequality_radial
 -- name    : Formalism.HermitianLattices.LatticeEstimates.mean_value_inequality_radial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:29.250801+00:00
 -- url     : https://prove2.me/theorems/0e657d9b-c643-4fc9-8e15-e6331b916776

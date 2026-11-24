@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_WeilRepresentation_CocycleEighthPower_rv_sumexp
 -- name    : Formalism.HermitianLattices.WeilRepresentation.CocycleEighthPower.rv_sumexp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:00.518071+00:00
 -- url     : https://prove2.me/theorems/b7806067-f036-439f-927c-88c08d7d7676

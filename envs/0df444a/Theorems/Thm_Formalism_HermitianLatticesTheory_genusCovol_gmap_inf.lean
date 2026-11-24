@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_genusCovol_gmap_inf
 -- name    : Formalism.HermitianLatticesTheory.genusCovol_gmap_inf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:31.702008+00:00
 -- url     : https://prove2.me/theorems/b9bcecee-32f9-49ab-a11a-7c5e45575465

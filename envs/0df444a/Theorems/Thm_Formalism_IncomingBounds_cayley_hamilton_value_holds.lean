@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_cayley_hamilton_value_holds
 -- name    : Formalism.IncomingBounds.cayley_hamilton_value_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:09:44.674831+00:00
 -- url     : https://prove2.me/theorems/ab8f06a7-9d29-436d-8b2a-ed1ae85cc390

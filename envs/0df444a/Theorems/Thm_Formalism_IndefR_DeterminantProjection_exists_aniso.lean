@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_DeterminantProjection_exists_aniso
 -- name    : Formalism.IndefR.DeterminantProjection.exists_aniso
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:01.486148+00:00
 -- url     : https://prove2.me/theorems/bfb615d9-e370-43d7-a7da-e4c07782af04

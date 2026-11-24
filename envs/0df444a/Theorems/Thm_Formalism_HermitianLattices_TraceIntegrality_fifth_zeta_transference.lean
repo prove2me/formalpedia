@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_fifth_zeta_transference
 -- name    : Formalism.HermitianLattices.TraceIntegrality.fifth_zeta_transference
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:43.690796+00:00
 -- url     : https://prove2.me/theorems/6f833841-7bc8-4837-bcfa-d9aea661fa66

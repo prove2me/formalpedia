@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_thetaSummable_coercive
 -- name    : Formalism.HermitianLatticesTheory.thetaSummable_coercive
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:05:30.296961+00:00
 -- url     : https://prove2.me/theorems/717c3ee7-c127-4633-8fd2-8b53e154b3af

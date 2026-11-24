@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_traceReal_trace_smul
 -- name    : Formalism.HermitianLatticesTheory.traceReal_trace_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:05:34.437618+00:00
 -- url     : https://prove2.me/theorems/2b2ec2aa-f6b0-420c-9f81-662d72a6a387

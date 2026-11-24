@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_fourier_transform_kernel_surjective
 -- name    : Formalism.HermitianLattices.LocalLatticeBases.fourier_transform_kernel_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:24.059472+00:00
 -- url     : https://prove2.me/theorems/a0be4ac6-eb8a-4e60-abda-82486a5fbf9d

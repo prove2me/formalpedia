@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_frobenius_orbit_period_holds
 -- name    : Formalism.IncomingBounds.frobenius_orbit_period_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:09:43.468808+00:00
 -- url     : https://prove2.me/theorems/fda9dad7-e768-40c3-9985-5aa559a3efa5

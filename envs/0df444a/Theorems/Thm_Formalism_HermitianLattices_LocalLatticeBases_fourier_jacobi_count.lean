@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_fourier_jacobi_count
 -- name    : Formalism.HermitianLattices.LocalLatticeBases.fourier_jacobi_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:22.020831+00:00
 -- url     : https://prove2.me/theorems/d88dffed-3e15-448c-a2fa-0680a93ae2fa

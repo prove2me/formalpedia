@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_genusCovol_zmap_mono
 -- name    : Formalism.HermitianLatticesTheory.genusCovol_zmap_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:38.26298+00:00
 -- url     : https://prove2.me/theorems/0f93e011-b65f-4437-8b47-aaef07a6f6be

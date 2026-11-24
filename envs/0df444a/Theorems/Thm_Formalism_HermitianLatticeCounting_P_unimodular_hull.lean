@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_unimodular_hull
 -- name    : Formalism.HermitianLatticeCounting.P.unimodular_hull
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:48:39.182494+00:00
 -- url     : https://prove2.me/theorems/e0377b47-d9d2-4879-aa04-17f5425e52d6

@@ -14190,8 +14190,8 @@
 {"parent": "RH1E6S06.part_044_0", "child": "ArdaRH65K_RS_C0", "via": ["statement"]}
 {"parent": "RH1E6S06.part_044_0", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S06.part_044_0", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
-{"parent": "FractionalCalc.laplace_mittagLeffler", "child": "FractionalCalc_mittagLeffler", "via": ["statement"]}
-{"parent": "FractionalCalc.laplace_mittagLeffler", "child": "QueueingFundamentals_Transient_laplace", "via": ["statement"]}
+{"parent": "FractionalCalc.laplace_mittagLeffler", "child": "FractionalCalc_mittagLeffler", "via": ["solution", "statement"]}
+{"parent": "FractionalCalc.laplace_mittagLeffler", "child": "QueueingFundamentals_Transient_laplace", "via": ["solution", "statement"]}
 {"parent": "MasulloGRH.mellin_of_forwardSemiExpDecay", "child": "MasulloGRH_MellinRpos", "via": ["solution", "statement"]}
 {"parent": "RH1E6S04_D069_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RH1E6S07_D057_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
@@ -55947,9 +55947,9 @@
 {"parent": "SourceProof_e1094767e30c62c80823a8ec", "child": "SourceProof_a4dbeae1c9a6b22bf7020922", "via": ["statement"]}
 {"parent": "SourceProof_e1094767e30c62c80823a8ec", "child": "LevyStochCalc_Ito_ItoFormulaUnboundedClamp_F002", "via": ["statement"]}
 {"parent": "RH1E6S03_D062_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "FractionalCalc.fractional_oscillator_solution", "child": "FractionalCalc_caputoDeriv", "via": ["statement"]}
-{"parent": "FractionalCalc.fractional_oscillator_solution", "child": "FractionalCalc_mittagLeffler", "via": ["statement"]}
-{"parent": "FractionalCalc.fractional_oscillator_solution", "child": "FractionalCalc_rlIntegral", "via": ["statement"]}
+{"parent": "FractionalCalc.fractional_oscillator_solution", "child": "FractionalCalc_caputoDeriv", "via": ["solution", "statement"]}
+{"parent": "FractionalCalc.fractional_oscillator_solution", "child": "FractionalCalc_mittagLeffler", "via": ["solution", "statement"]}
+{"parent": "FractionalCalc.fractional_oscillator_solution", "child": "FractionalCalc_rlIntegral", "via": ["solution", "statement"]}
 {"parent": "RH1E6S05_D077_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "SourceProof_38bd2809fbf8ffc383f84cb8", "child": "LevyStochCalc_Poisson_CompensatedDensityMarkSum_F001", "via": ["statement"]}
 {"parent": "SourceProof_38bd2809fbf8ffc383f84cb8", "child": "LevyStochCalc_Poisson_CompensatedDensityMarkSum_F002", "via": ["statement"]}
@@ -75579,8 +75579,8 @@
 {"parent": "RH1E6S11.part_027_3", "child": "ArdaRH65K_RS_Kernel", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.p2m81_bv_root_scale_pos_no_standing_public", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.p2m81_bv_root_scale_pos_no_standing_public", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
-{"parent": "FractionalCalc.laplace_prabhakar_of_le_two", "child": "FractionalCalc_mittagLeffler", "via": ["statement"]}
-{"parent": "FractionalCalc.laplace_prabhakar_of_le_two", "child": "QueueingFundamentals_Transient_laplace", "via": ["statement"]}
+{"parent": "FractionalCalc.laplace_prabhakar_of_le_two", "child": "FractionalCalc_mittagLeffler", "via": ["solution", "statement"]}
+{"parent": "FractionalCalc.laplace_prabhakar_of_le_two", "child": "QueueingFundamentals_Transient_laplace", "via": ["solution", "statement"]}
 {"parent": "Polychromatic418967fa_Branch141", "child": "Polychromatic418967fa_Helpers016", "via": ["statement"]}
 {"parent": "TreeEquivalenceHORS.Equivalence.finite_semantic_domains", "child": "TreeEquivalenceHORS_Equivalence_FiniteSemantics", "via": ["solution", "statement"]}
 {"parent": "MasulloGRH.heckeLFunction_zero_free_region_large_height", "child": "MasulloGRH_HeckeLFunction", "via": ["solution", "statement"]}

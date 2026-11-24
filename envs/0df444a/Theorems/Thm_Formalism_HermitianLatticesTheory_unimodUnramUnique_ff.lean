@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_unimodUnramUnique_ff
 -- name    : Formalism.HermitianLatticesTheory.unimodUnramUnique_ff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:05:23.479155+00:00
 -- url     : https://prove2.me/theorems/b7f0a2b6-9afd-4288-a08e-d1925572150e

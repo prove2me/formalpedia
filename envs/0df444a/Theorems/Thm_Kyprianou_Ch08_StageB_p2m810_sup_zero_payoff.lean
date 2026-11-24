@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_sup_zero_payoff
 -- name    : Kyprianou.Ch08.StageB.p2m810_sup_zero_payoff
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T00:12:33.850997+00:00
 -- url     : https://prove2.me/theorems/39ba63aa-89ef-453b-9cbb-a04a5cc5800f

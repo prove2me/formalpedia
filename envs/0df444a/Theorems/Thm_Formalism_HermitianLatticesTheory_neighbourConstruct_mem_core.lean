@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_neighbourConstruct_mem_core
 -- name    : Formalism.HermitianLatticesTheory.neighbourConstruct_mem_core
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:05:14.039282+00:00
 -- url     : https://prove2.me/theorems/64e8cdab-ed58-43ad-a62b-e31bf3ade921

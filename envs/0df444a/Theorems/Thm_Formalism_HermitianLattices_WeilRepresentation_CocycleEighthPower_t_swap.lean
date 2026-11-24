@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_WeilRepresentation_CocycleEighthPower_t_swap
 -- name    : Formalism.HermitianLattices.WeilRepresentation.CocycleEighthPower.t_swap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:20.379633+00:00
 -- url     : https://prove2.me/theorems/aad33c2b-166f-469c-b891-09fe832ddc6a

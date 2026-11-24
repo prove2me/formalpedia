@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LR_lower_triangular_integral
 -- name    : Formalism.CohomologicalDescent.LR.lower_triangular_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:07:21.64789+00:00
 -- url     : https://prove2.me/theorems/ea7c2c62-6c1e-4461-92dc-f6a53293f8d1

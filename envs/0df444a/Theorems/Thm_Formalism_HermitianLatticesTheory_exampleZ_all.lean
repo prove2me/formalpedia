@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_exampleZ_all
 -- name    : Formalism.HermitianLatticesTheory.exampleZ_all
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:53.114229+00:00
 -- url     : https://prove2.me/theorems/e2aced6f-b6f0-4a1b-8b96-daeeb413c303

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ZeroFreeRegionGL2_is_norm_one_iff
 -- name    : Formalism.HermitianLattices.ZeroFreeRegionGL2.is_norm_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:12.70281+00:00
 -- url     : https://prove2.me/theorems/aefd45f7-3721-4fcc-bc5d-3c7280987105

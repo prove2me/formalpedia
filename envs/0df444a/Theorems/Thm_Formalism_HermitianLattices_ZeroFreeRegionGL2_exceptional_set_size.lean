@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ZeroFreeRegionGL2_exceptional_set_size
 -- name    : Formalism.HermitianLattices.ZeroFreeRegionGL2.exceptional_set_size
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:15.669854+00:00
 -- url     : https://prove2.me/theorems/aa5b86e5-acf8-4139-8556-d605ad56f5c1

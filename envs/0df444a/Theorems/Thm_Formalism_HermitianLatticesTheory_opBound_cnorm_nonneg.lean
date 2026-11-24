@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_opBound_cnorm_nonneg
 -- name    : Formalism.HermitianLatticesTheory.opBound_cnorm_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:05:25.624842+00:00
 -- url     : https://prove2.me/theorems/e39aa9f2-d3ac-442d-ad8b-486be165e67f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_square_moment_from_bound
 -- name    : Formalism.HermitianLattices.TraceIntegrality.square_moment_from_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:23.996965+00:00
 -- url     : https://prove2.me/theorems/911bbbe3-4065-4e47-b828-13183e110e46

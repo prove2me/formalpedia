@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_deficitOfBoundedRatio
 -- name    : Formalism.IncomingBounds.deficitOfBoundedRatio
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:09:43.551725+00:00
 -- url     : https://prove2.me/theorems/ea52684d-b857-4c6f-b270-ab3cc2f5087a

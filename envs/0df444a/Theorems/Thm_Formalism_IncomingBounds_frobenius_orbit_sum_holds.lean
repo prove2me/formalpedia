@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_frobenius_orbit_sum_holds
 -- name    : Formalism.IncomingBounds.frobenius_orbit_sum_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:09:44.665106+00:00
 -- url     : https://prove2.me/theorems/ff4dc984-4877-4dbb-9825-ce7b2e5eab09

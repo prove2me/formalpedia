@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_IntegralLatticeDensity_normalised_equation_general
 -- name    : Formalism.HermitianLattices.IntegralLatticeDensity.normalised_equation_general
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:46.52286+00:00
 -- url     : https://prove2.me/theorems/7037dc4f-da80-42df-aac0-3cca73850513

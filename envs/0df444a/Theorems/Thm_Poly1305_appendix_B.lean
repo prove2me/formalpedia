@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Poly1305_appendix_B
 -- name    : Poly1305.appendix_B
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-24T07:43:42.38002+00:00
 -- url     : https://prove2.me/theorems/0a2b7d5b-05d5-452d-ab8e-22015d16c072

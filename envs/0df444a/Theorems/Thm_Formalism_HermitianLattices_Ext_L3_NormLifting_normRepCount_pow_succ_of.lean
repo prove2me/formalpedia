@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_NormLifting_normRepCount_pow_succ_of
 -- name    : Formalism.HermitianLattices.Ext.L3.NormLifting.normRepCount_pow_succ_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:13:04.923654+00:00
 -- url     : https://prove2.me/theorems/6579ce83-0386-4102-81a4-d8bcc5cad057

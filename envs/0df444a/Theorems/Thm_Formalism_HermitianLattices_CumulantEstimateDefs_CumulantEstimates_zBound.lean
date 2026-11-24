@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_CumulantEstimates_zBound
 -- name    : Formalism.HermitianLattices.CumulantEstimateDefs.CumulantEstimates.zBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:43:41.535836+00:00
 -- url     : https://prove2.me/theorems/93e164e3-4eae-4f40-b7cb-42bf15d2b6bd

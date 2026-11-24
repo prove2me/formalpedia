@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_unimodUnramUnique_transport
 -- name    : Formalism.HermitianLatticesTheory.unimodUnramUnique_transport
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:11:31.994788+00:00
 -- url     : https://prove2.me/theorems/97970fbb-c4e0-40b0-b28f-05b6a4b2f9c6

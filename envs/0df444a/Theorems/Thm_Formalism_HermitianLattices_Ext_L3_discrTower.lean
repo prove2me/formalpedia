@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_discrTower
 -- name    : Formalism.HermitianLattices.Ext.L3.discrTower
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:44:52.018644+00:00
 -- url     : https://prove2.me/theorems/baf5459f-88e2-4611-b187-43e7e4259930

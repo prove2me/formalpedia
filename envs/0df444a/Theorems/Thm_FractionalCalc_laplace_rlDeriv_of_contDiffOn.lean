@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FractionalCalc_laplace_rlDeriv_of_contDiffOn
 -- name    : FractionalCalc.laplace_rlDeriv_of_contDiffOn
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-21T15:48:45.594036+00:00
 -- url     : https://prove2.me/theorems/faff5100-d905-4ee9-acb3-aec0e5ba7319

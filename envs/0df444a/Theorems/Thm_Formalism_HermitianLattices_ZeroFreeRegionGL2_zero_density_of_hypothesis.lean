@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ZeroFreeRegionGL2_zero_density_of_hypothesis
 -- name    : Formalism.HermitianLattices.ZeroFreeRegionGL2.zero_density_of_hypothesis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:06:42.404711+00:00
 -- url     : https://prove2.me/theorems/ac347534-8723-4541-b057-f22ab67f27ab

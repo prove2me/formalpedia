@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LatticeEstimates_inverse_norm_le_of_integer_inner
 -- name    : Formalism.HermitianLattices.LatticeEstimates.inverse_norm_le_of_integer_inner
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:14.589566+00:00
 -- url     : https://prove2.me/theorems/1f1f9044-84ef-4240-9ddd-42fcd615ec71

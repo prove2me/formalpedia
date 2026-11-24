@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_neighbourBasic_gen
 -- name    : Formalism.HermitianLatticesTheory.neighbourBasic_gen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:05:07.665844+00:00
 -- url     : https://prove2.me/theorems/2909df5f-db29-4005-bf68-1a5fa213e611

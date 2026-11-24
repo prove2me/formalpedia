@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch08.StageB.p2m810_strict_height_discount_limit
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T07:45:41.718651+00:00
 -- url     : https://prove2.me/submissions/c030cbd2-9103-4d5c-b17d-06bdd2821806
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_null_indicator_integral
 import Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_antitone_null_set_integral

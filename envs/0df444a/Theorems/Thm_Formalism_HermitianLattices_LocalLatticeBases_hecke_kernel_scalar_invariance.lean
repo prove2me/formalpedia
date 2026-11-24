@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_hecke_kernel_scalar_invariance
 -- name    : Formalism.HermitianLattices.LocalLatticeBases.hecke_kernel_scalar_invariance
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:12.791589+00:00
 -- url     : https://prove2.me/theorems/e4a1014f-7f80-4316-bf48-04f74a999a36

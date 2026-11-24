@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_block_operator_norm_bound
 -- name    : Formalism.HermitianLattices.TraceIntegrality.block_operator_norm_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:55.103029+00:00
 -- url     : https://prove2.me/theorems/14bbe66f-29b1-4fe8-9dcf-0f7dcde89b46

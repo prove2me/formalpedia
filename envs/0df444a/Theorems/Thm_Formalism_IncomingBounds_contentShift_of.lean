@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_contentShift_of
 -- name    : Formalism.IncomingBounds.contentShift_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:09:43.636291+00:00
 -- url     : https://prove2.me/theorems/11fb5ea5-edf9-4a2b-b11e-4d3a10176f14

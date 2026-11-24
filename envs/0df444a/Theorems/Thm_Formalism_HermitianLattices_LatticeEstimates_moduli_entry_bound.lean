@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LatticeEstimates_moduli_entry_bound
 -- name    : Formalism.HermitianLattices.LatticeEstimates.moduli_entry_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:06.154642+00:00
 -- url     : https://prove2.me/theorems/40754d68-086d-441f-b332-b7a7b0269be3

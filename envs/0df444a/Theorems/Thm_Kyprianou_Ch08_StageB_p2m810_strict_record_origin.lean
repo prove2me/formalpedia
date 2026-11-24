@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_strict_record_origin
 -- name    : Kyprianou.Ch08.StageB.p2m810_strict_record_origin
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T07:08:12.546797+00:00
 -- url     : https://prove2.me/theorems/dcf17e13-3128-4e95-823a-c567167b47ac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ZeroFreeRegionGL2_exponential_sum_split
 -- name    : Formalism.HermitianLattices.ZeroFreeRegionGL2.exponential_sum_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:21.745612+00:00
 -- url     : https://prove2.me/theorems/2edf471d-8eb1-4f28-a759-e20e67f889bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_rank_mul_pow_three_halves_le_fourth_power
 -- name    : Formalism.HermitianLattices.GlobalBoundRefinements.rank_mul_pow_three_halves_le_fourth_power
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:51.116519+00:00
 -- url     : https://prove2.me/theorems/eff76c20-0b2d-476d-b5bf-50d7d725674e

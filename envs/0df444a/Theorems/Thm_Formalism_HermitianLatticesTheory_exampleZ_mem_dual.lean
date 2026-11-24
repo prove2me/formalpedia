@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_exampleZ_mem_dual
 -- name    : Formalism.HermitianLatticesTheory.exampleZ_mem_dual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:23.236631+00:00
 -- url     : https://prove2.me/theorems/813f0734-09af-4c96-b249-d2cd3249ac50

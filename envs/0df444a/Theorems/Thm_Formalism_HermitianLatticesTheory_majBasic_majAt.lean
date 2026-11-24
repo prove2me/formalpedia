@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_majBasic_majAt
 -- name    : Formalism.HermitianLatticesTheory.majBasic_majAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:37.690857+00:00
 -- url     : https://prove2.me/theorems/a2cbc20b-7608-48a3-9090-b43ccb82387e

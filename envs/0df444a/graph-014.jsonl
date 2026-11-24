@@ -90395,7 +90395,7 @@
 {"parent": "ScalarMultiRisk.corollary_4_10", "child": "ScalarMultiRisk_payoffImage", "via": ["statement"]}
 {"parent": "ScalarMultiRisk.corollary_4_10", "child": "ScalarMultiRisk_IsEssInf", "via": ["statement"]}
 {"parent": "OAIQ107D070", "child": "OAIQ107D000", "via": ["statement"]}
-{"parent": "TSPSDPGap.theorem_4_1", "child": "TSPSDPGap_integralityGapSDP2", "via": ["statement"]}
+{"parent": "TSPSDPGap.theorem_4_1", "child": "TSPSDPGap_integralityGapSDP2", "via": ["solution", "statement"]}
 {"parent": "RegExperiment.proposition_6", "child": "RegExperiment_Regulation", "via": ["statement"]}
 {"parent": "MonoIncExtrap.theorem_1", "child": "MonoIncExtrap_Setting", "via": ["statement"]}
 {"parent": "MonoIncExtrap.theorem_1", "child": "ThreeOpSplitting_Convergence_MonotoneOperators", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Poly1305_clamped_card_and_form
 -- name    : Poly1305.clamped_card_and_form
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-11-24T07:39:28.587215+00:00
 -- url     : https://prove2.me/theorems/cd933399-12cf-45f0-99db-81f1f83109dc

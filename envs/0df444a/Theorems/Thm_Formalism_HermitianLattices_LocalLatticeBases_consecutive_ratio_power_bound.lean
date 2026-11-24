@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_consecutive_ratio_power_bound
 -- name    : Formalism.HermitianLattices.LocalLatticeBases.consecutive_ratio_power_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:15.127989+00:00
 -- url     : https://prove2.me/theorems/2ee14447-8f75-45b5-bd72-2c67ef86050a

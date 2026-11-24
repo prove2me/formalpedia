@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LatticeEstimates_hadamard_unit_diagonal_det_le_one
 -- name    : Formalism.HermitianLattices.LatticeEstimates.hadamard_unit_diagonal_det_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:18.602228+00:00
 -- url     : https://prove2.me/theorems/9b4a261b-cd64-40ef-87ad-511c000ac6be

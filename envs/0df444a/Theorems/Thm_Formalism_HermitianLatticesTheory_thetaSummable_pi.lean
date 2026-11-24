@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_thetaSummable_pi
 -- name    : Formalism.HermitianLatticesTheory.thetaSummable_pi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:05:23.713703+00:00
 -- url     : https://prove2.me/theorems/e4a5924d-5f4f-400a-80ad-44954766ecb0

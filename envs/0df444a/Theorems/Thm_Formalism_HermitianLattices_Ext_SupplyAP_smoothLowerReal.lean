@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_SupplyAP_smoothLowerReal
 -- name    : Formalism.HermitianLattices.Ext.SupplyAP.smoothLowerReal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:01.719398+00:00
 -- url     : https://prove2.me/theorems/e0d33453-5459-46e6-aa2d-662436ed8ef4

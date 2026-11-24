@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_majDual_trace
 -- name    : Formalism.HermitianLatticesTheory.majDual_trace
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:57.036289+00:00
 -- url     : https://prove2.me/theorems/30b2dda5-a2ed-43e6-8ba7-5a552a4cf241

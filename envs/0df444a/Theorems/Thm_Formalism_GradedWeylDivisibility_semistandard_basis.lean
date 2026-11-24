@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_semistandard_basis
 -- name    : Formalism.GradedWeylDivisibility.semistandard_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:38.941599+00:00
 -- url     : https://prove2.me/theorems/3c62723b-09b4-4d54-b13e-7ab909e1c5b8

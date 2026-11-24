@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_FlowLoadBounds_clip_dual
 -- name    : Formalism.IncomingBounds.FlowLoadBounds.clip_dual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:11:39.624849+00:00
 -- url     : https://prove2.me/theorems/def5f58f-94d4-4a56-8224-f8b3aaa53b0a

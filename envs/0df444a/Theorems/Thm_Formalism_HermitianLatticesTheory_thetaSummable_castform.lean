@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_thetaSummable_castform
 -- name    : Formalism.HermitianLatticesTheory.thetaSummable_castform
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:05:37.584769+00:00
 -- url     : https://prove2.me/theorems/8abebcca-fc15-4d24-9744-c2fad1b1ff5c

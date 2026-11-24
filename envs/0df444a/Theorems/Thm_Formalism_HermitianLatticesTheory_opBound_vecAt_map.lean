@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_opBound_vecAt_map
 -- name    : Formalism.HermitianLatticesTheory.opBound_vecAt_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:05:38.814319+00:00
 -- url     : https://prove2.me/theorems/04eb2172-88fb-4a5a-9636-7695a15c492f

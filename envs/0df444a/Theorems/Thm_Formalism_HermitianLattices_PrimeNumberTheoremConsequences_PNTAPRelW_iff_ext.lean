@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_PrimeNumberTheoremConsequences_PNTAPRelW_iff_ext
 -- name    : Formalism.HermitianLattices.PrimeNumberTheoremConsequences.PNTAPRelW_iff_ext
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:01:27.086283+00:00
 -- url     : https://prove2.me/theorems/0063db20-dee7-4e55-933e-89662fe49cc2

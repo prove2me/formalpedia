@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_LatticeIndexAlt_isLat_sup
 -- name    : Formalism.IncomingBounds.LatticeIndexAlt.isLat_sup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:04.231356+00:00
 -- url     : https://prove2.me/theorems/40cd4ae2-45ca-4246-82b7-f93c9843693b

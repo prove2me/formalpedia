@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_WeakMeanSquareEstimates_prime_pair_of_box_and_weak_mean_square_hypotheses
 -- name    : Formalism.HermitianLattices.WeakMeanSquareEstimates.prime_pair_of_box_and_weak_mean_square_hypotheses
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:02:58.686255+00:00
 -- url     : https://prove2.me/theorems/aca06dcc-dabf-47c3-af30-a4a3ea5d7f60

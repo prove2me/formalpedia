@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_parallelogram_maximum
 -- name    : Formalism.HermitianLattices.GlobalBoundRefinements.parallelogram_maximum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:22.875852+00:00
 -- url     : https://prove2.me/theorems/bd5278ef-fdb8-4f42-94ff-84a2c0cd8adc

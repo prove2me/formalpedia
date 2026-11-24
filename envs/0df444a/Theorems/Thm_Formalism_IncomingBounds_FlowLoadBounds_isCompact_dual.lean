@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_FlowLoadBounds_isCompact_dual
 -- name    : Formalism.IncomingBounds.FlowLoadBounds.isCompact_dual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:11:54.540957+00:00
 -- url     : https://prove2.me/theorems/8b2bbe6c-eb07-4641-a54d-48cf40a89903

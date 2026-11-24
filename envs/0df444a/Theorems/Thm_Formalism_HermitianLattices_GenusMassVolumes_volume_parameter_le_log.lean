@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GenusMassVolumes_volume_parameter_le_log
 -- name    : Formalism.HermitianLattices.GenusMassVolumes.volume_parameter_le_log
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:07.320801+00:00
 -- url     : https://prove2.me/theorems/37514344-3df8-41e4-b26a-9255470101b1

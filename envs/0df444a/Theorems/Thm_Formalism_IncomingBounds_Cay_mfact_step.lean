@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_Cay_mfact_step
 -- name    : Formalism.IncomingBounds.Cay.mfact_step
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:11:41.758137+00:00
 -- url     : https://prove2.me/theorems/4e03924a-d9a2-45fd-b9d6-c78f30662dcc

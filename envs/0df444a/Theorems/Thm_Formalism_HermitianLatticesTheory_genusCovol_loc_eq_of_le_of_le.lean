@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_genusCovol_loc_eq_of_le_of_le
 -- name    : Formalism.HermitianLatticesTheory.genusCovol_loc_eq_of_le_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:27.729899+00:00
 -- url     : https://prove2.me/theorems/6339fc5f-ae74-4db4-9c8b-690f094e86c2

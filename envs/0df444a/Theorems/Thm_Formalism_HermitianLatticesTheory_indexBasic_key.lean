@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_indexBasic_key
 -- name    : Formalism.HermitianLatticesTheory.indexBasic_key
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:44.403934+00:00
 -- url     : https://prove2.me/theorems/57c03db7-de87-42ea-b852-352f59ab644a

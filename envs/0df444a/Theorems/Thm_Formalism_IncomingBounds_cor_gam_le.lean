@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_cor_gam_le
 -- name    : Formalism.IncomingBounds.cor_gam_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:04.151135+00:00
 -- url     : https://prove2.me/theorems/05931f0e-d27b-4f5f-9e20-d3f157226a47

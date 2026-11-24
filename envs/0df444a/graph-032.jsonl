@@ -34532,8 +34532,8 @@
 {"parent": "row23_rh_supp_RHLow100ThreeRebuilt_AcceptedCore002", "child": "row23_rh_supp_RHLow100ThreeRebuilt_AcceptedCore001", "via": ["statement"]}
 {"parent": "row23_rh_supp_RHLow100ThreeRebuilt_AcceptedCore002", "child": "row23_rh_supp_RHLow100ThetaReplacement", "via": ["statement"]}
 {"parent": "row23_rh_supp_RHLow100ThreeRebuilt_AcceptedCore002", "child": "TaoFivePrimes.rh14to100_moments_enclosed", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.timeReversalDuality", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.timeReversalDuality", "child": "LevyExtrema_SBA_runSup", "via": ["statement"]}
+{"parent": "Kyprianou.Ch03.timeReversalDuality", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.timeReversalDuality", "child": "LevyExtrema_SBA_runSup", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ga_a250_Gaussian_HJB_factor_antitone_on_positive_reserve_interval", "child": "AvramDividend.Classical.avram_ga_a249_Gaussian_HJB_factor_exponential_derivative", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ga_a250_Gaussian_HJB_factor_antitone_on_positive_reserve_interval", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "Transport_DataProbe", "child": "Transport_PhysicalHigh_TunedData", "via": ["statement"]}

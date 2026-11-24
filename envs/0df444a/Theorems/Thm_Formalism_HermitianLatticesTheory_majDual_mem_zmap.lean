@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_majDual_mem_zmap
 -- name    : Formalism.HermitianLatticesTheory.majDual_mem_zmap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:05:07.913139+00:00
 -- url     : https://prove2.me/theorems/d6b3a8ac-7c18-4d7b-b8f5-3a9144a3f685

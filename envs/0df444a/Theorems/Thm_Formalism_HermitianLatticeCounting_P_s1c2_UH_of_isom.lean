@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_s1c2_UH_of_isom
 -- name    : Formalism.HermitianLatticeCounting.P.s1c2_UH_of_isom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:42:11.216814+00:00
 -- url     : https://prove2.me/theorems/16a5f781-c66d-4c73-b2fa-2cb8e6c698f5

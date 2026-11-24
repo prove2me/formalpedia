@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_zeta_proposition_tail
 -- name    : Formalism.HermitianLattices.TraceIntegrality.zeta_proposition_tail
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:20.437108+00:00
 -- url     : https://prove2.me/theorems/41d11f0c-6b00-4f49-a722-66e7a6326b5e

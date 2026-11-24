@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_exponent_total_bound
 -- name    : Formalism.HermitianLattices.LocalLatticeBases.exponent_total_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:35.5328+00:00
 -- url     : https://prove2.me/theorems/c127bcd9-7d1b-4fb6-95e2-46d1262c0fa7
