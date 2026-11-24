@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_zeta_sub_pole_differentiable
 -- name    : Formalism.ZeroFreeDirichlet.zeta_sub_pole_differentiable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:44:33.0221+00:00
 -- url     : https://prove2.me/theorems/e5eebd1b-2994-4c8a-96fa-8e321cf8d87f

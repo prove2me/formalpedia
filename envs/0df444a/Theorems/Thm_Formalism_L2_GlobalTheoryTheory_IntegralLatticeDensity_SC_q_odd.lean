@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_SC_q_odd
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.SC.q_odd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:58:24.279416+00:00
 -- url     : https://prove2.me/theorems/643516a5-acd3-4470-967a-adce33466cce

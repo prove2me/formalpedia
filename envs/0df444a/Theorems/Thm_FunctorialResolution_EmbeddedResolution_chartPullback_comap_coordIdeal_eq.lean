@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_chartPullback_comap_coordIdeal_eq
 -- name    : FunctorialResolution.EmbeddedResolution.chartPullback_comap_coordIdeal_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:46:48.620612+00:00
 -- url     : https://prove2.me/theorems/d7613706-393d-4075-85dd-af990c8d872e

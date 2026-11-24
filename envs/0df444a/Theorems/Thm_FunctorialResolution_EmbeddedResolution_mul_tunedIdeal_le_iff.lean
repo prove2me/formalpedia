@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_mul_tunedIdeal_le_iff
 -- name    : FunctorialResolution.EmbeddedResolution.mul_tunedIdeal_le_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:48:27.956798+00:00
 -- url     : https://prove2.me/theorems/461e88af-cd8e-4a47-aefc-d26c63216a06

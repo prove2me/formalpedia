@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_taylorRing
 -- name    : Formalism.L2.Th1.F.taylorRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:39:54.151697+00:00
 -- url     : https://prove2.me/theorems/277930b1-599a-4720-845b-7ff29294d184

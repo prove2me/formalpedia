@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EtaleCoordinates_sumEvalAlgebra_isScalarTower
 -- name    : FunctorialResolution.EmbeddedResolution.EtaleCoordinates.sumEvalAlgebra_isScalarTower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:45:10.363813+00:00
 -- url     : https://prove2.me/theorems/e79a9cf2-7b79-444b-9c16-d6b76ee52bf1

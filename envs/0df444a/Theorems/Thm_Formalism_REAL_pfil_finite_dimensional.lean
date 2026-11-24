@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_pfil_finite_dimensional
 -- name    : Formalism.REAL.pfil_finite_dimensional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:24:42.83889+00:00
 -- url     : https://prove2.me/theorems/b8a557c0-6dc9-4166-af7a-9c56722fb923

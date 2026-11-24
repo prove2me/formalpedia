@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_GBasic_PJP
 -- name    : Formalism.QuantumDeterminants.GBasic.PJP
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:07:08.325814+00:00
 -- url     : https://prove2.me/theorems/3f0597dc-5dfa-47dc-91be-6a420ba00aef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_adele_neg_integral
 -- name    : GlobalTheory.AdLat.adele_neg_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:53:58.408689+00:00
 -- url     : https://prove2.me/theorems/809515ec-5d53-47a2-b59b-94aaecec062b

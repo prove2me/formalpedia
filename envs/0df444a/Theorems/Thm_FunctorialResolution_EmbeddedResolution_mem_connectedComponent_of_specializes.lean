@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_mem_connectedComponent_of_specializes
 -- name    : FunctorialResolution.EmbeddedResolution.mem_connectedComponent_of_specializes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:48:03.816391+00:00
 -- url     : https://prove2.me/theorems/ba9c25bf-b0d3-4192-87a4-4f0f505e987b

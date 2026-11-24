@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_CubeGen_isOpen_locTriv
 -- name    : GlobalTheory.AbLaw.CubeGen.isOpen_locTriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:50:48.165307+00:00
 -- url     : https://prove2.me/theorems/b779f28f-f6df-4906-9e74-bf22695001c9

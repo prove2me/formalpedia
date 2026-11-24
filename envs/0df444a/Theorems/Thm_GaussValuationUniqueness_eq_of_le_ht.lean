@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussValuationUniqueness_eq_of_le_ht
 -- name    : GaussValuationUniqueness.eq_of_le_ht
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:50:52.949599+00:00
 -- url     : https://prove2.me/theorems/ab136159-60cb-47e5-aeb5-c60024f3d2f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_rpow_neg_eq_inv_pow
 -- name    : Formalism.ZeroFreeDirichlet.rpow_neg_eq_inv_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:44:09.901377+00:00
 -- url     : https://prove2.me/theorems/a209c7e4-c961-4ddf-91b2-f278dddb0749

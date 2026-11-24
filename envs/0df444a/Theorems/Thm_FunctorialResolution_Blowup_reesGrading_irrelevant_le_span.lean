@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_reesGrading_irrelevant_le_span
 -- name    : FunctorialResolution.Blowup.reesGrading_irrelevant_le_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:45:41.475111+00:00
 -- url     : https://prove2.me/theorems/74826a71-5bc0-4966-a18e-25b75cf65da7

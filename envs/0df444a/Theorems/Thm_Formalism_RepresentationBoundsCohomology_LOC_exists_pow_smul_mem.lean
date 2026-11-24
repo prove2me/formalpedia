@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_LOC_exists_pow_smul_mem
 -- name    : Formalism.RepresentationBoundsCohomology.LOC.exists_pow_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:26:02.558947+00:00
 -- url     : https://prove2.me/theorems/497ac25f-8f86-493d-9426-0efb405b9626

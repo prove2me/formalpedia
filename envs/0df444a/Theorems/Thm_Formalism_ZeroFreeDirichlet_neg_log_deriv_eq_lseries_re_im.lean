@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_neg_log_deriv_eq_lseries_re_im
 -- name    : Formalism.ZeroFreeDirichlet.neg_log_deriv_eq_lseries_re_im
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:42:23.63803+00:00
 -- url     : https://prove2.me/theorems/ab53f070-f8b6-44be-a585-c006c791ec3e

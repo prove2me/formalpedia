@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZRN_e_crude
 -- name    : Formalism.ZRN.e_crude
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:42:07.42221+00:00
 -- url     : https://prove2.me/theorems/9b986a02-e0ad-4448-b51a-7b68a2a84dc7

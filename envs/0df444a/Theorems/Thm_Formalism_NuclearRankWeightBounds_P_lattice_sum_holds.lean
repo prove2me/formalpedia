@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NuclearRankWeightBounds_P_lattice_sum_holds
 -- name    : Formalism.NuclearRankWeightBounds.P.lattice_sum_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:18:15.695807+00:00
 -- url     : https://prove2.me/theorems/46e91ab4-fa20-4e73-9baa-6cf0577a9175

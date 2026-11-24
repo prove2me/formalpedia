@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_graphMorphismToAffineSpace_comp_affineSpaceIndexedByToSpec
 -- name    : FunctorialResolution.EmbeddedResolution.graphMorphismToAffineSpace_comp_affineSpaceIndexedByToSpec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:47:15.538807+00:00
 -- url     : https://prove2.me/theorems/fec1e07f-ceb8-4106-ba07-33a7b812efbe

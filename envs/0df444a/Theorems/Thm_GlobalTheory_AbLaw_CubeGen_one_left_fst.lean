@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_CubeGen_one_left_fst
 -- name    : GlobalTheory.AbLaw.CubeGen.one_left_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:51:02.346739+00:00
 -- url     : https://prove2.me/theorems/4bbac109-fbbc-4bb1-b26c-9afce5246d37

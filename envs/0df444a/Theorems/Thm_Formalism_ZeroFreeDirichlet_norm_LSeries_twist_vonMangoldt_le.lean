@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_norm_LSeries_twist_vonMangoldt_le
 -- name    : Formalism.ZeroFreeDirichlet.norm_LSeries_twist_vonMangoldt_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:42:48.427356+00:00
 -- url     : https://prove2.me/theorems/e55f7b3a-c48f-46a8-a7c5-64edb7ce1c90

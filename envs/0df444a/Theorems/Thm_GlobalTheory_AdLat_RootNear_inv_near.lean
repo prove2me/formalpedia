@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_RootNear_inv_near
 -- name    : GlobalTheory.AdLat.RootNear.inv_near
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:54:19.045799+00:00
 -- url     : https://prove2.me/theorems/5eee6412-dc89-4087-95bd-53f9509232e7

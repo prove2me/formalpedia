@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_vala_rename_iff
 -- name    : Formalism.MainNotions.PlaneGram.vala_rename_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:07:42.791808+00:00
 -- url     : https://prove2.me/theorems/7fc9bc0c-d584-4fff-926a-c1ed943a9833

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_Final_submoduleCountDed
 -- name    : Formalism.SLP.Final.submoduleCountDed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:27:35.7883+00:00
 -- url     : https://prove2.me/theorems/9e783b53-4d94-4d9a-9459-50a30ad14eaa

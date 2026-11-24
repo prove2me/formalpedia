@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_algebraMap_smul_basis
 -- name    : GroundTheory.Arith.Abelian.algebraMap_smul_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:41:15.137519+00:00
 -- url     : https://prove2.me/theorems/b8cd57d5-9f9c-409e-ba8b-a7615812aafa

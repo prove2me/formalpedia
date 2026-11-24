@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_windowCountAlt
 -- name    : Formalism.WeaklyAdmissibleFiltrations.windowCountAlt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:40:02.098082+00:00
 -- url     : https://prove2.me/theorems/201b6e57-d734-443c-ac1b-9222f96f218f

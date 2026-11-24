@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_orderAt_eq_one_iff
 -- name    : FunctorialResolution.EmbeddedResolution.orderAt_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:49:05.144962+00:00
 -- url     : https://prove2.me/theorems/21fcd39b-1103-45f0-b0e3-576b3a41b517

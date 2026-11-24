@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_mxS_nonneg
 -- name    : Formalism.mxS_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:45:18.526124+00:00
 -- url     : https://prove2.me/theorems/feaf1679-553b-4799-9b88-2b55e2cc1c8a

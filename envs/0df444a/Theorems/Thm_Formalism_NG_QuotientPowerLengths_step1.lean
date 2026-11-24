@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_QuotientPowerLengths_step1
 -- name    : Formalism.NG.QuotientPowerLengths.step1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:15:02.135112+00:00
 -- url     : https://prove2.me/theorems/dee5d75c-630b-47b6-8b3b-e4cd89a11be0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_hostMu_of
 -- name    : Formalism.Q3.hostMu_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:19:16.100818+00:00
 -- url     : https://prove2.me/theorems/801d3867-280c-4b17-b0c7-260277e0e647

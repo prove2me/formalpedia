@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_slopeLatticeData_local_ideal_pow
 -- name    : Formalism.LFunctionChainParameters.slopeLatticeData.local_ideal_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:37:42.845225+00:00
 -- url     : https://prove2.me/theorems/035da0cb-5663-4b3a-8584-38f26ee1a3b0

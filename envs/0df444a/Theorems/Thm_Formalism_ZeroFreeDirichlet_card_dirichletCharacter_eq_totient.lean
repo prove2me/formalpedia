@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_card_dirichletCharacter_eq_totient
 -- name    : Formalism.ZeroFreeDirichlet.card_dirichletCharacter_eq_totient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:43:34.011618+00:00
 -- url     : https://prove2.me/theorems/b82fb288-dcb3-4f92-a405-f3c03b6afd4d

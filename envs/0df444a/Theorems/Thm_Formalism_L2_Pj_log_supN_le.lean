@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_log_supN_le
 -- name    : Formalism.L2.Pj.log_supN_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:20:16.30731+00:00
 -- url     : https://prove2.me/theorems/9a7a9078-6f08-46f6-b53d-fa4aa36c1332

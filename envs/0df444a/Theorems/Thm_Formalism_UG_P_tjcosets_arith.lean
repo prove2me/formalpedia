@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_tjcosets_arith
 -- name    : Formalism.UG.P.tjcosets_arith
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:36:17.623774+00:00
 -- url     : https://prove2.me/theorems/16f7e2ca-b73e-4955-a6dc-c88ad16235a3

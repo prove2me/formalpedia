@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_characterSumData_orthogonality_unramified
 -- name    : Formalism.LFunctionChainParameters.characterSumData.orthogonality_unramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:49:35.544233+00:00
 -- url     : https://prove2.me/theorems/a41a52ba-8b4d-40cf-a1a4-091dbc21815a

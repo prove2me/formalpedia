@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_span_singleton_prod_eq_biInf
 -- name    : FunctorialResolution.EmbeddedResolution.span_singleton_prod_eq_biInf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:49:29.375185+00:00
 -- url     : https://prove2.me/theorems/72123b98-f8b9-4131-bf26-fa85469181ed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_rdp_rectInt_add
 -- name    : Formalism.ZF.rdp_rectInt_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:41:01.356835+00:00
 -- url     : https://prove2.me/theorems/68fa219c-205d-4ad7-af5c-dc3f35afb029

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_rint_Gchi
 -- name    : Formalism.rint_Gchi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:45:10.668071+00:00
 -- url     : https://prove2.me/theorems/6141e583-e0eb-4ee7-ad24-d41659f216ad

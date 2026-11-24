@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_fischerAdjointness_holds
 -- name    : Formalism.REAL.fischerAdjointness_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:21:27.365802+00:00
 -- url     : https://prove2.me/theorems/a5fa02c8-ce87-406a-bacd-3922696552b6

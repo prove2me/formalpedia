@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdSplit_exists_prod_equiv
 -- name    : GlobalTheory.AdSplit.exists_prod_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:54:22.275814+00:00
 -- url     : https://prove2.me/theorems/b363ca5f-eee7-4352-9fbc-4c3989fd42b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_LeviCoordinates_rrk_unfold
 -- name    : Formalism.MainNotions.LeviCoordinates.rrk_unfold
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:17:21.559381+00:00
 -- url     : https://prove2.me/theorems/4408231d-95e5-4fd7-b175-2c68775808d8

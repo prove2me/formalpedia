@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_linOps
 -- name    : Formalism.QuantumDeterminants.linOps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:47:17.227051+00:00
 -- url     : https://prove2.me/theorems/2e9e4f24-0bed-4a01-a66d-a0fda2ea0bb3

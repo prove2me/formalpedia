@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_vonMangoldtCharRe_zero
 -- name    : Formalism.ZeroFreeDirichlet.vonMangoldtCharRe_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:43:56.96829+00:00
 -- url     : https://prove2.me/theorems/c98d9f86-d1e9-426d-9cb0-4e57e017e477

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_perFactor_of_y_eq_zero
 -- name    : GlobalTheory.AnArc.perFactor_of_y_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:58:07.2383+00:00
 -- url     : https://prove2.me/theorems/dbe962f3-1f68-459b-b780-47e4a5e0ee69

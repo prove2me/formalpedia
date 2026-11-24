@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_closure_inter_open_eq
 -- name    : FunctorialResolution.EmbeddedResolution.closure_inter_open_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:46:39.849801+00:00
 -- url     : https://prove2.me/theorems/5e72e723-e87d-44dc-8163-1ef8523e6a77

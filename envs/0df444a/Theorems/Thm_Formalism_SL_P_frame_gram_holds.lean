@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SL_P_frame_gram_holds
 -- name    : Formalism.SL.P.frame_gram_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:27:14.029009+00:00
 -- url     : https://prove2.me/theorems/82f3311c-2f70-4a3d-bebf-8e890afc4cdb

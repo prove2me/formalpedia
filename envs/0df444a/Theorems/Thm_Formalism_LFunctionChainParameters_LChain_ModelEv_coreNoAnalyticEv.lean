@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain_ModelEv_coreNoAnalyticEv
 -- name    : Formalism.LFunctionChainParameters.LChain.ModelEv.coreNoAnalyticEv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:06:39.478824+00:00
 -- url     : https://prove2.me/theorems/cf08180b-786e-4def-8e34-55f2cacd99ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SL_Final_primesOver
 -- name    : Formalism.SL.Final.primesOver
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:53:50.113355+00:00
 -- url     : https://prove2.me/theorems/3b532fa4-8dd7-44f5-8989-07f47a5599ad

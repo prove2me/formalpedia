@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_graphMorphismToAffineSpace_appTop_coord_inl
 -- name    : FunctorialResolution.EmbeddedResolution.graphMorphismToAffineSpace_appTop_coord_inl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:46:52.945116+00:00
 -- url     : https://prove2.me/theorems/c8185a52-2ecd-4048-9c2e-7ccf0d71236e

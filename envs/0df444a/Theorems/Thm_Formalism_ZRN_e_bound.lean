@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZRN_e_bound
 -- name    : Formalism.ZRN.e_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:41:40.85277+00:00
 -- url     : https://prove2.me/theorems/5e7b45ec-8ed9-4cdd-8c46-f02eca21c719

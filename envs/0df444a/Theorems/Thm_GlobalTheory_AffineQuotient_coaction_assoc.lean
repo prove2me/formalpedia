@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineQuotient_coaction_assoc
 -- name    : GlobalTheory.AffineQuotient.coaction_assoc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:55:03.230306+00:00
 -- url     : https://prove2.me/theorems/6cef9a2e-4c30-4c83-8f7f-f8085e5728c2

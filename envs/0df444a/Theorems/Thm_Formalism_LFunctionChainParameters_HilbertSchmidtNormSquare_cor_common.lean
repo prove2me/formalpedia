@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtNormSquare_cor_common
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtNormSquare.cor_common
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:05:28.790312+00:00
 -- url     : https://prove2.me/theorems/967a491e-e011-4508-8e16-709252507c9d

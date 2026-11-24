@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_perron_horizontal_segment_bound
 -- name    : Formalism.ZeroFreeDirichlet.perron_horizontal_segment_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:44:02.099584+00:00
 -- url     : https://prove2.me/theorems/4ffae4d9-5fc9-4c6d-9300-6ab7470f8d54

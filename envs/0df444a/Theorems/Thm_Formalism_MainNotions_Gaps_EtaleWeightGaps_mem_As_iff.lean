@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_EtaleWeightGaps_mem_As_iff
 -- name    : Formalism.MainNotions.Gaps.EtaleWeightGaps.mem_As_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T18:10:14.224382+00:00
 -- url     : https://prove2.me/theorems/0dd180b9-eac0-42d0-9a1a-e5bc9f66bc0d

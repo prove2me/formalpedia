@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_lowering_word_raises_in_span
 -- name    : Formalism.REAL.lowering_word_raises_in_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:23:38.271981+00:00
 -- url     : https://prove2.me/theorems/52709287-c643-4205-829a-3f78baf3b26b

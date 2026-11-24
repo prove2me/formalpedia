@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_smooth_of_isEmpty
 -- name    : FunctorialResolution.Blowup.smooth_of_isEmpty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:45:30.351711+00:00
 -- url     : https://prove2.me/theorems/3f7f9323-4d12-4855-8958-cb92dc0edf47

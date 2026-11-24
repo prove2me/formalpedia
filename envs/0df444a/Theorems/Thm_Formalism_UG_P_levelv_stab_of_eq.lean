@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_levelv_stab_of_eq
 -- name    : Formalism.UG.P.levelv_stab_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:33:13.294803+00:00
 -- url     : https://prove2.me/theorems/6123283c-808b-4bed-ad35-941e57569a3e

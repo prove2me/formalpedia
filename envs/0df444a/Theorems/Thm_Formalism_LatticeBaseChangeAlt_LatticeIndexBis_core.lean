@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_LatticeIndexBis_core
 -- name    : Formalism.LatticeBaseChangeAlt.LatticeIndexBis.core
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:37:20.203801+00:00
 -- url     : https://prove2.me/theorems/5e63b726-67ef-44c2-817b-2bd765e8435e

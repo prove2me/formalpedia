@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_log_le_div_log_two_mul
 -- name    : Formalism.ZeroFreeDirichlet.log_le_div_log_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:43:07.047449+00:00
 -- url     : https://prove2.me/theorems/978d7d0c-2737-4cf0-80b5-0c5bf070cba1

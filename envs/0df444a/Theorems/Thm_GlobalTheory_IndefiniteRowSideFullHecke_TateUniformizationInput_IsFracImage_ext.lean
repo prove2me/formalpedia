@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_TateUniformizationInput_IsFracImage_ext
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.TateUniformizationInput.IsFracImage.ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:47:26.326086+00:00
 -- url     : https://prove2.me/theorems/ddbbba82-4e9a-4598-9f1c-893ef44842a2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_smooth_coprod_desc
 -- name    : FunctorialResolution.Blowup.smooth_coprod_desc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:46:23.256794+00:00
 -- url     : https://prove2.me/theorems/e4610244-48f9-4760-9543-8265010e0c5a

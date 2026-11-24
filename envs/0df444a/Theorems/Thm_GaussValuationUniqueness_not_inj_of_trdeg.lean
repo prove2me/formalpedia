@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussValuationUniqueness_not_inj_of_trdeg
 -- name    : GaussValuationUniqueness.not_inj_of_trdeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:51:29.469461+00:00
 -- url     : https://prove2.me/theorems/3810d36d-11fe-4d2d-8d5d-bbc859a6a4dd

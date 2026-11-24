@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_pc_exPC
 -- name    : Formalism.WeaklyAdmissibleFiltrations.pc_exPC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:39:46.446797+00:00
 -- url     : https://prove2.me/theorems/757133b1-bafd-4b06-baf3-6435452d2ab7

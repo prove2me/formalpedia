@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isAdicComplete_of_finite
 -- name    : GlobalTheory.isAdicComplete_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:38:28.450566+00:00
 -- url     : https://prove2.me/theorems/77818379-3fb2-4b36-8836-27096e40bcf2

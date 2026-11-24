@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Jets_chain
 -- name    : Formalism.L2.Th1.B.Jets.chain
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:22.377733+00:00
 -- url     : https://prove2.me/theorems/973c8f21-a53e-45fe-82b6-3856348c2525

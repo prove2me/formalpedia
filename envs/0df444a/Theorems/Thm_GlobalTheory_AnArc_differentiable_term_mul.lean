@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_differentiable_term_mul
 -- name    : GlobalTheory.AnArc.differentiable_term_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:57:04.821785+00:00
 -- url     : https://prove2.me/theorems/d407edc6-92c2-4082-960f-38673788cd7c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SA_P_trace_pow_eq_sum
 -- name    : Formalism.SA.P.trace_pow_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:27:59.192087+00:00
 -- url     : https://prove2.me/theorems/06c3c882-3256-4b99-9f85-bb32d172056a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BCT_SuppFin_exists_ne_zero_intValuation_le_of_finset
 -- name    : GlobalTheory.BCT.SuppFin.exists_ne_zero_intValuation_le_of_finset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:57:53.697097+00:00
 -- url     : https://prove2.me/theorems/e0413050-9fe3-484d-81ac-a59d258615ae

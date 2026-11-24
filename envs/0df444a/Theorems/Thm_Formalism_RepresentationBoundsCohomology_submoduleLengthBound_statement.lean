@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_submoduleLengthBound_statement
 -- name    : Formalism.RepresentationBoundsCohomology.submoduleLengthBound_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:27:31.195533+00:00
 -- url     : https://prove2.me/theorems/fcab55b6-9a53-4c6c-9eca-3ece9c9bb594

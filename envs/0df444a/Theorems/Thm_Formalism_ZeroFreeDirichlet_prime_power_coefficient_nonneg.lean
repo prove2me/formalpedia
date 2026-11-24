@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_prime_power_coefficient_nonneg
 -- name    : Formalism.ZeroFreeDirichlet.prime_power_coefficient_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:44:08.960728+00:00
 -- url     : https://prove2.me/theorems/8f3e6cc4-127f-4a11-b036-f21a5726dedf

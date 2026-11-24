@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_zfo_M_bound
 -- name    : Formalism.ZF.zfo_M_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:37:19.78182+00:00
 -- url     : https://prove2.me/theorems/7c103208-248e-47cc-9365-3028de9153ca

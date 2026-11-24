@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_norm_neg_log_deriv_le_tsum
 -- name    : Formalism.ZeroFreeDirichlet.norm_neg_log_deriv_le_tsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:42:59.771358+00:00
 -- url     : https://prove2.me/theorems/07188777-cfeb-4ac9-9ff0-e675d47d510b

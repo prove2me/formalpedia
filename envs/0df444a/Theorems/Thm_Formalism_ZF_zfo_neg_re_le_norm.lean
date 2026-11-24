@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_zfo_neg_re_le_norm
 -- name    : Formalism.ZF.zfo_neg_re_le_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:41:13.138513+00:00
 -- url     : https://prove2.me/theorems/7a48160f-8d64-4bb9-86b6-0a2f7b463d95

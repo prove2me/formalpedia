@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ResultantValuation_ParabolicCounting_finrank_smul
 -- name    : Formalism.ResultantValuation.ParabolicCounting.finrank_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:27:11.977571+00:00
 -- url     : https://prove2.me/theorems/487ec73a-3f90-425c-a70c-4b7558c050f6

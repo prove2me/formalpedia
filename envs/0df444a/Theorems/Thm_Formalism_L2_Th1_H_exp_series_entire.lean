@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_exp_series_entire
 -- name    : Formalism.L2.Th1.H.exp_series_entire
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:12:30.864271+00:00
 -- url     : https://prove2.me/theorems/d99b8646-70cb-4a3c-908c-52e8b27df3b6

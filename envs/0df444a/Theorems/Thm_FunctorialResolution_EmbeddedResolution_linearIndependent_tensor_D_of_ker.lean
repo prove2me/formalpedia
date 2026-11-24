@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_linearIndependent_tensor_D_of_ker
 -- name    : FunctorialResolution.EmbeddedResolution.linearIndependent_tensor_D_of_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:47:48.111293+00:00
 -- url     : https://prove2.me/theorems/c8b7a4f3-116b-4215-bd67-882abcec430a

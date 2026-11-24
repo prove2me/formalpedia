@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_abs_zetaPrimeSumError_le_of_one_le
 -- name    : Formalism.ZF.abs_zetaPrimeSumError_le_of_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:41:00.290973+00:00
 -- url     : https://prove2.me/theorems/11025f7e-618a-4b0c-9d61-26aa778d1563

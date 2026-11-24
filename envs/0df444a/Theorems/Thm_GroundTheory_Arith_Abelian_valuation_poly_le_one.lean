@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_valuation_poly_le_one
 -- name    : GroundTheory.Arith.Abelian.valuation_poly_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:41:32.912196+00:00
 -- url     : https://prove2.me/theorems/8374b7dc-bc92-4874-87f0-be861a8836cf

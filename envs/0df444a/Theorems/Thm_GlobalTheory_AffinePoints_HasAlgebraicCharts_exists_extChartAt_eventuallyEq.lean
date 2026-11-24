@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_HasAlgebraicCharts_exists_extChartAt_eventuallyEq
 -- name    : GlobalTheory.AffinePoints.HasAlgebraicCharts.exists_extChartAt_eventuallyEq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:54:44.804079+00:00
 -- url     : https://prove2.me/theorems/fb809dc4-2eaf-4e3a-bf02-cb720e7d2962

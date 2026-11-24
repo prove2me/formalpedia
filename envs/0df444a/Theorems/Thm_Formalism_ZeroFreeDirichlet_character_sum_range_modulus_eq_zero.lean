@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_character_sum_range_modulus_eq_zero
 -- name    : Formalism.ZeroFreeDirichlet.character_sum_range_modulus_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:43:44.819144+00:00
 -- url     : https://prove2.me/theorems/f2c1625c-1fe6-4db2-85df-1d7bb45a18e3

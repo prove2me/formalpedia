@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_edgeFinset_map_iso
 -- name    : ChromaticReconstruction.edgeFinset_map_iso
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:28:43.585953+00:00
 -- url     : https://prove2.me/theorems/628c629f-45af-4040-a5d5-f1eba57bc29d

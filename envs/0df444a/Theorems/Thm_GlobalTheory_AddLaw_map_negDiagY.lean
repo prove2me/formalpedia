@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AddLaw_map_negDiagY
 -- name    : GlobalTheory.AddLaw.map_negDiagY
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:53:48.910797+00:00
 -- url     : https://prove2.me/theorems/95b9b48f-0528-400b-a7df-0693ebdbbb1d

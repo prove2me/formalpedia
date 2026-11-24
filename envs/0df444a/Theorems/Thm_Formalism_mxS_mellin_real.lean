@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_mxS_mellin_real
 -- name    : Formalism.mxS_mellin_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:46:19.926776+00:00
 -- url     : https://prove2.me/theorems/021e8ce0-7fb8-455d-bdf6-9fd444207863

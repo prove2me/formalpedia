@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_addHaar_image_eq_zero_of_finrank_lt
 -- name    : GlobalTheory.AffinePoints.addHaar_image_eq_zero_of_finrank_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:54:32.947712+00:00
 -- url     : https://prove2.me/theorems/63f19b62-63bb-4970-b350-628a2c17347b

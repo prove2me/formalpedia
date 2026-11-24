@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_presOps
 -- name    : Formalism.QuantumDeterminants.presOps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:47:14.604315+00:00
 -- url     : https://prove2.me/theorems/9019ce81-36f3-43dc-b30f-e39463b64a71

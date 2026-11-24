@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineFactorExists_exists_factor_fractionRing
 -- name    : GlobalTheory.AffineFactorExists.exists_factor_fractionRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:54:32.403976+00:00
 -- url     : https://prove2.me/theorems/a6fc246f-0f08-4bff-8be4-df60edcf76e4

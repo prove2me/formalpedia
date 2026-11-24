@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ThickSetMeanBounds_derivative_integral_all
 -- name    : Formalism.LFunctionChainParameters.ThickSetMeanBounds.derivative_integral_all
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:15:23.606266+00:00
 -- url     : https://prove2.me/theorems/cf75d9bd-33e2-493f-bbf4-36769dbd64e4

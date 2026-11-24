@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_TaylorExpansion_truncatedSeries_one
 -- name    : FunctorialResolution.EmbeddedResolution.TaylorExpansion.truncatedSeries_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:47:09.735973+00:00
 -- url     : https://prove2.me/theorems/10475536-5c6d-433c-875c-46856079aa77

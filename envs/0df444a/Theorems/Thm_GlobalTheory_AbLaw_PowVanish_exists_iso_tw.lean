@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_PowVanish_exists_iso_tw
 -- name    : GlobalTheory.AbLaw.PowVanish.exists_iso_tw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:52:21.979805+00:00
 -- url     : https://prove2.me/theorems/5ae10e8d-8fc1-4fb1-999d-1371bb1fcf26

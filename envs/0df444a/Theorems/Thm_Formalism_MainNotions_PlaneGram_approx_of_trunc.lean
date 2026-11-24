@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_approx_of_trunc
 -- name    : Formalism.MainNotions.PlaneGram.approx_of_trunc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:43:59.525092+00:00
 -- url     : https://prove2.me/theorems/217cbfa7-3b52-419d-986b-fb6d42dbb030

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_ggDet_keyM
 -- name    : Formalism.QuantumDeterminants.ggDet_keyM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:18:39.66424+00:00
 -- url     : https://prove2.me/theorems/d1cfd4ab-8da3-4bca-963a-85e1896acd12

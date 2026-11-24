@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeoProdPow_one_sub_sum_le_prod
 -- name    : GeoProdPow.one_sub_sum_le_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:50:25.572809+00:00
 -- url     : https://prove2.me/theorems/9db98243-0f65-4c96-b92f-056ab94d16a7

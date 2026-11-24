@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_supInfFiniteExtremaLimitOfApproximantsV1
 -- name    : Kyprianou.Ch03.supInfFiniteExtremaLimitOfApproximantsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T11:02:31.664214+00:00
 -- url     : https://prove2.me/theorems/0b40acff-4732-45f6-bc22-afbccc557c79

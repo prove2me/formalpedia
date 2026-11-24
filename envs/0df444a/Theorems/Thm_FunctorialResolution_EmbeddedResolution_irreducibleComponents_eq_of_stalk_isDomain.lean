@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_irreducibleComponents_eq_of_stalk_isDomain
 -- name    : FunctorialResolution.EmbeddedResolution.irreducibleComponents_eq_of_stalk_isDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:47:43.68636+00:00
 -- url     : https://prove2.me/theorems/d6c022c1-5418-4d9b-85fc-8ef8c2f27d27

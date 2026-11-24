@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_YangianSpanCharacter_P_mu_symm
 -- name    : Formalism.YangianSpanCharacter.P.mu_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:39:10.70322+00:00
 -- url     : https://prove2.me/theorems/dd8320dd-d4f1-4f92-a65b-b41ffc83f312

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_GlobalBoundRefinements_P_entry_MNinv
 -- name    : Formalism.SLP.GlobalBoundRefinements.P.entry_MNinv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:29:35.426798+00:00
 -- url     : https://prove2.me/theorems/e855563c-75ae-40db-97e1-d4899d31ab14

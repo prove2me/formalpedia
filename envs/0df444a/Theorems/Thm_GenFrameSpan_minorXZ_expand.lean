@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenFrameSpan_minorXZ_expand
 -- name    : GenFrameSpan.minorXZ_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:50:46.418437+00:00
 -- url     : https://prove2.me/theorems/7df94e7b-8b30-4182-afcc-27fbb655f5ac

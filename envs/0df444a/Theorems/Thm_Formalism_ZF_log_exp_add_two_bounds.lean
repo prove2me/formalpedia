@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_log_exp_add_two_bounds
 -- name    : Formalism.ZF.log_exp_add_two_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:42:15.478827+00:00
 -- url     : https://prove2.me/theorems/f682a48c-17df-439c-aceb-f8f8fa332348

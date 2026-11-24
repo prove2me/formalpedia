@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AlgWtHW_conjugate_ne_self
 -- name    : GlobalTheory.AlgWtHW.conjugate_ne_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:56:14.885054+00:00
 -- url     : https://prove2.me/theorems/09cfb271-94f6-4230-a775-82aae1cbaf7d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_cnt_not_segL
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.cnt_not_segL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:04:09.768804+00:00
 -- url     : https://prove2.me/theorems/54e3743d-3b55-4884-b9aa-ab55b899c3ff

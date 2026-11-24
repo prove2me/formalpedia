@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdicCompl_max_eq_span
 -- name    : GlobalTheory.AdicCompl.max_eq_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:55:47.260803+00:00
 -- url     : https://prove2.me/theorems/e2cd6fc8-e946-4855-b4a0-b935cf609587

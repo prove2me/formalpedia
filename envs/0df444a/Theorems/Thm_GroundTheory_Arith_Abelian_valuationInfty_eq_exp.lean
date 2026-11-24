@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_valuationInfty_eq_exp
 -- name    : GroundTheory.Arith.Abelian.valuationInfty_eq_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:33:22.985375+00:00
 -- url     : https://prove2.me/theorems/6ef38949-3a99-4d02-bb29-41692b293dbc

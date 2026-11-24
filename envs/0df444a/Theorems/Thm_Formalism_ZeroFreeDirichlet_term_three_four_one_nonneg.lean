@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_term_three_four_one_nonneg
 -- name    : Formalism.ZeroFreeDirichlet.term_three_four_one_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:44:42.973492+00:00
 -- url     : https://prove2.me/theorems/85fc0dcd-e991-4832-b906-cc5fd9f1cb04

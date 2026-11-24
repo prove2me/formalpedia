@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_deriv_mul_deriv_comm
 -- name    : Formalism.REAL.deriv_mul_deriv_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:21:37.820585+00:00
 -- url     : https://prove2.me/theorems/12ed59f3-80e7-4309-aa0f-85f4b125c83b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_eq_zero_of_sum_Sum
 -- name    : GlobalTheory.AnArc.eq_zero_of_sum_Sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:57:44.756942+00:00
 -- url     : https://prove2.me/theorems/1f325104-4298-4c44-9918-6999a4c4bba9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_comap_schemeImageIdeal
 -- name    : FunctorialResolution.Blowup.comap_schemeImageIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:45:31.015208+00:00
 -- url     : https://prove2.me/theorems/b83a87db-b017-422c-8b08-5ee4f61d00e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_nabla_subspace_stable
 -- name    : Formalism.UG.P.nabla_subspace_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:33:12.103914+00:00
 -- url     : https://prove2.me/theorems/65f04fcb-631a-454a-afe5-2f02f46a8ba4

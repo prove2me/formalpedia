@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_P_CountO_exists_rel_not_mem
 -- name    : Formalism.SLP.P.CountO.exists_rel_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:29:14.489412+00:00
 -- url     : https://prove2.me/theorems/97f260e2-c3e8-4474-9254-d5a730de0aa6

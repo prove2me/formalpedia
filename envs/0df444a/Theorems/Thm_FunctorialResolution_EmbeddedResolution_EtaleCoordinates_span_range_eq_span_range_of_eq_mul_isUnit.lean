@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EtaleCoordinates_span_range_eq_span_range_of_eq_mul_isUnit
 -- name    : FunctorialResolution.EmbeddedResolution.EtaleCoordinates.span_range_eq_span_range_of_eq_mul_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:45:02.391845+00:00
 -- url     : https://prove2.me/theorems/3144d1d1-8ebe-4154-becc-4757f0e1505f

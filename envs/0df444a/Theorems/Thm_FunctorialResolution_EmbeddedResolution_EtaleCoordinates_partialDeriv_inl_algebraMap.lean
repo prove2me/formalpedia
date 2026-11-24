@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EtaleCoordinates_partialDeriv_inl_algebraMap
 -- name    : FunctorialResolution.EmbeddedResolution.EtaleCoordinates.partialDeriv_inl_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:45:06.335042+00:00
 -- url     : https://prove2.me/theorems/3d5fb411-a7f4-44bc-bca2-cc2dcd8b3d55

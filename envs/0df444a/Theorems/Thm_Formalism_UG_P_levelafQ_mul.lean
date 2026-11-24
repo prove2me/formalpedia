@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_levelafQ_mul
 -- name    : Formalism.UG.P.levelafQ_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:31:25.401328+00:00
 -- url     : https://prove2.me/theorems/2bfcf899-86d3-419e-89ce-e51b4f45c762

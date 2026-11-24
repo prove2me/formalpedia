@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_Inhab_exists_integral_nonzero_form
 -- name    : Formalism.MainNotions.G.Inhab.exists_integral_nonzero_form
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:40:43.344737+00:00
 -- url     : https://prove2.me/theorems/43e748c0-34d3-4f33-a34b-ebfae1c785b9

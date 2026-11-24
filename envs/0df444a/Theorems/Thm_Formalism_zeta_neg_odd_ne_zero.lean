@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_zeta_neg_odd_ne_zero
 -- name    : Formalism.zeta_neg_odd_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:45:26.798802+00:00
 -- url     : https://prove2.me/theorems/11d3958d-2fcd-4347-baef-c365dff7e717

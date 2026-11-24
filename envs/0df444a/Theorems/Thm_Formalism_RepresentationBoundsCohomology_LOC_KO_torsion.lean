@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_LOC_KO_torsion
 -- name    : Formalism.RepresentationBoundsCohomology.LOC.KO_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:26:28.052186+00:00
 -- url     : https://prove2.me/theorems/5018a8b5-5c4f-4d90-998c-84f79fd0a3a7

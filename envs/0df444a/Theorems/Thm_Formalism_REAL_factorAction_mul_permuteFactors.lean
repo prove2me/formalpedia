@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_factorAction_mul_permuteFactors
 -- name    : Formalism.REAL.factorAction_mul_permuteFactors
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:16.443609+00:00
 -- url     : https://prove2.me/theorems/19530bc9-c62d-47bb-965c-a7068e1f61a8

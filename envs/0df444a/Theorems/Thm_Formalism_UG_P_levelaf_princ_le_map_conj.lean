@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_levelaf_princ_le_map_conj
 -- name    : Formalism.UG.P.levelaf_princ_le_map_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:33:23.109148+00:00
 -- url     : https://prove2.me/theorems/f82ae9ba-bb04-437c-8160-d98c133f2f06

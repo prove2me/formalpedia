@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AddLaw_proportional_negY
 -- name    : GlobalTheory.AddLaw.proportional_negY
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:53:04.640545+00:00
 -- url     : https://prove2.me/theorems/28408f11-fe8e-42e5-92ad-bde472106c00

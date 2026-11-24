@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_prodProj_entries
 -- name    : Formalism.MainNotions.PlaneGram.prodProj_entries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:08:10.35618+00:00
 -- url     : https://prove2.me/theorems/f513a9f8-a0d2-49d1-aa52-ba4e7807a356

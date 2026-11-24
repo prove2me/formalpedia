@@ -1,0 +1,32 @@
+-- Prove2me | solution 1 for Formalism.InvariantFactorPaths.ColumnFamilies.Top.closure_second_part
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-7
+-- created : 2026-11-24T11:43:08.175676+00:00
+-- url     : https://prove2.me/submissions/d4792910-8d28-4e47-9b2a-ecff537c3fb0
+
+import Definitions.Def_Formalism_ThetaLogCoordinates_DualWeylCoordinates_DualWeylProofs_StripDataTensorColumnFamilies
+import Definitions.Def_Formalism_ThetaLogCoordinates_DualWeylCoordinates_DualWeylProofs_CntSym
+import Definitions.Def_Formalism_ThetaLogCoordinates_DualWeylCoordinates_DualWeylProofs_CntLam
+import Definitions.Def_Formalism_ThetaLogCoordinates_DualWeylCoordinates_DualWeylProofs_SymStrip
+import Definitions.Def_Formalism_ThetaLogCoordinates_DualWeylCoordinates_DualWeylProofs_SymDStrip
+import Definitions.Def_Formalism_ThetaLogCoordinates_DualWeylCoordinates_DualWeylProofs_LamStrip
+import Definitions.Def_Formalism_ThetaLogCoordinates_DualWeylCoordinates_ClosureSecondPart
+import Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_Top_strip_data_tensor_column_families
+import Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_Top_symStrip
+import Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_Top_symDStrip
+import Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_Top_lamStrip
+import Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_closure_tensor_of_strip_data
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.InvariantFactorPaths Formalism.InvariantFactorPaths.ColumnFamilies Formalism.InvariantFactorPaths.ColumnFamilies.Top
+namespace Formalism.InvariantFactorPaths.ColumnFamilies.Top
+theorem _root_.solution : ClosureTensorPowers := closure_tensor_of_strip_data strip_data_tensor_column_families symStrip symDStrip lamStrip
+end Formalism.InvariantFactorPaths.ColumnFamilies.Top

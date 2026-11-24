@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_complexified_derivative_commutator
 -- name    : Formalism.REAL.complexified_derivative_commutator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:21:39.097787+00:00
 -- url     : https://prove2.me/theorems/9e47dec8-8a1c-4660-9202-a66e3c5319bb

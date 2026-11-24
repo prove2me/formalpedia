@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_lfunction_tendsto_one_atTop
 -- name    : Formalism.ZeroFreeDirichlet.lfunction_tendsto_one_atTop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:42:36.187806+00:00
 -- url     : https://prove2.me/theorems/cdcc2bdd-5b0f-4948-a656-d8682ceaa840

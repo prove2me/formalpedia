@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_landauIteratedDerivatives_good_mono
 -- name    : Formalism.landauIteratedDerivatives.good_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:44:58.844349+00:00
 -- url     : https://prove2.me/theorems/9fe13923-7440-485f-aaf5-d3c3dcf26b26

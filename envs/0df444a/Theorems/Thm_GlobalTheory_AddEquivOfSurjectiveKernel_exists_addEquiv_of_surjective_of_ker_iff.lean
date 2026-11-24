@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AddEquivOfSurjectiveKernel_exists_addEquiv_of_surjective_of_ker_iff
 -- name    : GlobalTheory.AddEquivOfSurjectiveKernel.exists_addEquiv_of_surjective_of_ker_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:53:19.94954+00:00
 -- url     : https://prove2.me/theorems/969f686c-57b1-4895-bd51-121dc098755e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_exists_iso_subscheme_vanishingIdeal_of_isClosed
 -- name    : FunctorialResolution.EmbeddedResolution.exists_iso_subscheme_vanishingIdeal_of_isClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:46:45.798851+00:00
 -- url     : https://prove2.me/theorems/e8e37e6e-e471-48bd-9431-c022275a78f2

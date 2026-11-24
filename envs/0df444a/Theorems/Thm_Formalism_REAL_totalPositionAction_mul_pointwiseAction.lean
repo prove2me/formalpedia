@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_totalPositionAction_mul_pointwiseAction
 -- name    : Formalism.REAL.totalPositionAction_mul_pointwiseAction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:26:03.968649+00:00
 -- url     : https://prove2.me/theorems/8a59c354-c08e-4899-86ec-e822a775c88b

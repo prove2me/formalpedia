@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_conv_biInv
 -- name    : Formalism.UG.P.conv_biInv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:28:39.024215+00:00
 -- url     : https://prove2.me/theorems/bec2845c-ff6a-4499-85b0-d0083033b141

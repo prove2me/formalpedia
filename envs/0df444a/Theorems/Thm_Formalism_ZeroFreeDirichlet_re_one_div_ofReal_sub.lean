@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_re_one_div_ofReal_sub
 -- name    : Formalism.ZeroFreeDirichlet.re_one_div_ofReal_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:43:48.727421+00:00
 -- url     : https://prove2.me/theorems/f56b771d-3be9-412a-aaa9-7b177a0231fc

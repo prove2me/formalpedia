@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_bilinear_product_commutator
 -- name    : Formalism.REAL.bilinear_product_commutator
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:09:07.582727+00:00
 -- url     : https://prove2.me/theorems/33ccaba0-d2ba-4080-8100-c74b46bf3b35

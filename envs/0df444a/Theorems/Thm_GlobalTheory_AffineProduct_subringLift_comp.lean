@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineProduct_subringLift_comp
 -- name    : GlobalTheory.AffineProduct.subringLift_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:55:41.700689+00:00
 -- url     : https://prove2.me/theorems/a2e008c6-9782-47c4-9115-47086770ab5f

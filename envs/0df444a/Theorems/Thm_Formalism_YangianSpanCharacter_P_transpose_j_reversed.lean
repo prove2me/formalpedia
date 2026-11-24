@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_YangianSpanCharacter_P_transpose_j_reversed
 -- name    : Formalism.YangianSpanCharacter.P.transpose_j_reversed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:39:50.755099+00:00
 -- url     : https://prove2.me/theorems/32a10498-a4ec-47b8-80a2-8fead13f3449

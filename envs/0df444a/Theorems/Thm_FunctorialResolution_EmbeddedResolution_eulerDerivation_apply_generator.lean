@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_eulerDerivation_apply_generator
 -- name    : FunctorialResolution.EmbeddedResolution.eulerDerivation_apply_generator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:46:46.084612+00:00
 -- url     : https://prove2.me/theorems/c58e557d-c2ac-4b5b-9a55-7bc3e64e1d90

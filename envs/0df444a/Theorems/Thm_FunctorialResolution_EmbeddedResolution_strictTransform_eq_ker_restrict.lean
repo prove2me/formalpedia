@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_strictTransform_eq_ker_restrict
 -- name    : FunctorialResolution.EmbeddedResolution.strictTransform_eq_ker_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:48:49.695341+00:00
 -- url     : https://prove2.me/theorems/3d25176c-5ce9-4002-937c-e2c17311d2ea

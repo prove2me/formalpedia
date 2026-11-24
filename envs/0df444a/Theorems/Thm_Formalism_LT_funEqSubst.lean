@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_funEqSubst
 -- name    : Formalism.LT.funEqSubst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:39:37.86007+00:00
 -- url     : https://prove2.me/theorems/6130d097-6cb8-4226-898b-b2284754f118

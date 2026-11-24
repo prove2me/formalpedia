@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_stdform_psd
 -- name    : Formalism.UG.P.stdform_psd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:36:05.266647+00:00
 -- url     : https://prove2.me/theorems/3885ef15-747a-4048-bf0a-2573eb14905d

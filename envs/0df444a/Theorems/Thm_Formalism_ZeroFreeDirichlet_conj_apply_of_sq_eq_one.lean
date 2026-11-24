@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_conj_apply_of_sq_eq_one
 -- name    : Formalism.ZeroFreeDirichlet.conj_apply_of_sq_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:43:01.504516+00:00
 -- url     : https://prove2.me/theorems/91289b4a-de9b-4dc5-9781-36c61c68cf3c

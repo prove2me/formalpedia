@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_ringDataObjects_nilConst
 -- name    : Formalism.RepresentationBoundsCohomology.ringDataObjects.nilConst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:28:34.031302+00:00
 -- url     : https://prove2.me/theorems/0690ff7b-0322-497a-9b60-8c25977cb594

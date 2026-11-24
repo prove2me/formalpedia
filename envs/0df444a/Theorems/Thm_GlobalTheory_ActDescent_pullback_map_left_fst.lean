@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ActDescent_pullback_map_left_fst
 -- name    : GlobalTheory.ActDescent.pullback_map_left_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:54:47.124497+00:00
 -- url     : https://prove2.me/theorems/c54030e4-1bf7-4885-8e79-8327dd990094

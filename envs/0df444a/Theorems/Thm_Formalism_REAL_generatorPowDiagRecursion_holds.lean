@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_generatorPowDiagRecursion_holds
 -- name    : Formalism.REAL.generatorPowDiagRecursion_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:07:28.458332+00:00
 -- url     : https://prove2.me/theorems/1779095a-d190-4c09-bc9f-d5a252ac5949

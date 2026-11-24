@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AlgWtHW_span_ratPt_orbit
 -- name    : GlobalTheory.AlgWtHW.span_ratPt_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:56:56.543265+00:00
 -- url     : https://prove2.me/theorems/be8050a8-8594-4e01-94a8-608c18e3ea1e

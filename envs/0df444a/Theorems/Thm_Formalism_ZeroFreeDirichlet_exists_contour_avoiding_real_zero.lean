@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_exists_contour_avoiding_real_zero
 -- name    : Formalism.ZeroFreeDirichlet.exists_contour_avoiding_real_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:42:58.243419+00:00
 -- url     : https://prove2.me/theorems/5cbcfc3e-2f23-4794-ab20-34cc8b783517

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdicQuot_psi_surjective
 -- name    : GlobalTheory.AdicQuot.psi_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:54:53.46224+00:00
 -- url     : https://prove2.me/theorems/c626d820-1eb9-4d74-85b9-804144b12305

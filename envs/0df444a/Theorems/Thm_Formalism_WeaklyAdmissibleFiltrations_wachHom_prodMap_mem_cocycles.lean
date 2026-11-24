@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_wachHom_prodMap_mem_cocycles
 -- name    : Formalism.WeaklyAdmissibleFiltrations.wachHom_prodMap_mem_cocycles
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:39:04.445249+00:00
 -- url     : https://prove2.me/theorems/f500000b-5440-450b-869c-e61f1b1df715

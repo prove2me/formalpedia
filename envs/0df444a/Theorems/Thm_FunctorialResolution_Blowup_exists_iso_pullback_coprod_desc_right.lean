@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_exists_iso_pullback_coprod_desc_right
 -- name    : FunctorialResolution.Blowup.exists_iso_pullback_coprod_desc_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:45:22.041729+00:00
 -- url     : https://prove2.me/theorems/23b4ac94-c6b4-4ce6-8446-3d6251ef4fec

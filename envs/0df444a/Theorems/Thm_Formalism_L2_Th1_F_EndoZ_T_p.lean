@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_EndoZ_T_p
 -- name    : Formalism.L2.Th1.F.EndoZ.T_p
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:39:04.405647+00:00
 -- url     : https://prove2.me/theorems/7e8cf0c1-9e78-4083-a7e0-2a068134a2ef

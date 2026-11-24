@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_one_sub_div_log_le_re
 -- name    : Formalism.ZeroFreeDirichlet.one_sub_div_log_le_re
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:43:02.508988+00:00
 -- url     : https://prove2.me/theorems/6c6d40c2-a106-46cc-8654-5e9e4a258394

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryDepthMIS_lemma_3_2
 -- name    : QueryDepthMIS.lemma_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:34:26.458203+00:00
 -- url     : https://prove2.me/theorems/bba18c6d-bb7d-4ef2-ac54-8bad8850bdc1

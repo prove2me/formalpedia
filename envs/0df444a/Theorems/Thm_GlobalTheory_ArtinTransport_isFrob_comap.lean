@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArtinTransport_isFrob_comap
 -- name    : GlobalTheory.ArtinTransport.isFrob_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:58:17.511693+00:00
 -- url     : https://prove2.me/theorems/30482cd3-38e7-4545-a160-37bef4d32d08

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_MoebiusInverseZetaBounds_tsum_rpow_le
 -- name    : Formalism.ZF.MoebiusInverseZetaBounds.tsum_rpow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:42:36.007523+00:00
 -- url     : https://prove2.me/theorems/5a746679-d0f1-48e5-aa98-b324957c5e10

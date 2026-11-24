@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_integral_eq_intervalIntegral_add_compl
 -- name    : Formalism.ZF.integral_eq_intervalIntegral_add_compl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:41:03.530914+00:00
 -- url     : https://prove2.me/theorems/59d559a1-f4a7-462a-8725-d4879b4a3750

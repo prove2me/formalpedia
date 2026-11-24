@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_summatory_eq_sum_range
 -- name    : Formalism.ZeroFreeDirichlet.summatory_eq_sum_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:44:41.046256+00:00
 -- url     : https://prove2.me/theorems/a5f13d26-d134-44d3-b99f-de3be6d742d6

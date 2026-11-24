@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_IdealBlowupSequence_boundary_succ_eq_map_strictTransform_append
 -- name    : FunctorialResolution.EmbeddedResolution.IdealBlowupSequence.boundary_succ_eq_map_strictTransform_append
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:45:29.57582+00:00
 -- url     : https://prove2.me/theorems/3d6d8039-21fe-4841-8d5d-e848065462d4

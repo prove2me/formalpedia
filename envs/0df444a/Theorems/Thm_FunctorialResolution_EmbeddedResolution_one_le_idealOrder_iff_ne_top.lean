@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_one_le_idealOrder_iff_ne_top
 -- name    : FunctorialResolution.EmbeddedResolution.one_le_idealOrder_iff_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:48:51.082859+00:00
 -- url     : https://prove2.me/theorems/0f161ee4-9f73-4016-891a-6c0a054424f7

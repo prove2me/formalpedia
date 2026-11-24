@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdaptedCoord_dirDeriv_mul
 -- name    : GlobalTheory.AdaptedCoord.dirDeriv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:54:16.928009+00:00
 -- url     : https://prove2.me/theorems/e13b71c8-044c-4871-ae5c-56ca4bf44439

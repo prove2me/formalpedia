@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_riemannZetaOne_ne_zero_of_real_mem_Ioo
 -- name    : Formalism.riemannZetaOne_ne_zero_of_real_mem_Ioo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:45:22.078061+00:00
 -- url     : https://prove2.me/theorems/4e5bfae0-43a7-4198-9f5d-443b34b3d01a

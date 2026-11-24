@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_f1alg_theta_comm
 -- name    : Formalism.REAL.f1alg_theta_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:21:50.031398+00:00
 -- url     : https://prove2.me/theorems/07b1dddc-d690-4b56-b8b0-b747f01ccabe

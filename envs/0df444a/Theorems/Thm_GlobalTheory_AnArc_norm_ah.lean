@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_norm_ah
 -- name    : GlobalTheory.AnArc.norm_ah
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:56:47.61959+00:00
 -- url     : https://prove2.me/theorems/cfb93727-0d1c-409b-9caa-be37e4378514

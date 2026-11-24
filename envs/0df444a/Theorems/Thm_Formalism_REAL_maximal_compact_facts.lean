@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_maximal_compact_facts
 -- name    : Formalism.REAL.maximal_compact_facts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:51:57.819794+00:00
 -- url     : https://prove2.me/theorems/dc2b10b8-edfc-4a4e-ac10-243960567637

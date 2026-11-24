@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_AdmissibleUnits_neg_not_mem_three
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.AdmissibleUnits.neg_not_mem_three
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:58:30.720804+00:00
 -- url     : https://prove2.me/theorems/bda27abd-d99b-460c-8bcb-592f8da6d14e

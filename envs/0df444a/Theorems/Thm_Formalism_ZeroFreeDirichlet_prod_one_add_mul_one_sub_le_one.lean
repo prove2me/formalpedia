@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_prod_one_add_mul_one_sub_le_one
 -- name    : Formalism.ZeroFreeDirichlet.prod_one_add_mul_one_sub_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:43:59.626024+00:00
 -- url     : https://prove2.me/theorems/4d414771-a12f-4f89-b677-b1ae3ee66bd4

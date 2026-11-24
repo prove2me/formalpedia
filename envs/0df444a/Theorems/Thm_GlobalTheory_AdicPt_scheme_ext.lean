@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdicPt_scheme_ext
 -- name    : GlobalTheory.AdicPt.scheme_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:55:39.727918+00:00
 -- url     : https://prove2.me/theorems/7cf8d9c2-9773-490e-903c-9e9316550aed

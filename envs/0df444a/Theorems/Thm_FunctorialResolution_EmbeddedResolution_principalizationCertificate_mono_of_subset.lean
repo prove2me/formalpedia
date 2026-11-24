@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_principalizationCertificate_mono_of_subset
 -- name    : FunctorialResolution.EmbeddedResolution.principalizationCertificate_mono_of_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:51:07.888645+00:00
 -- url     : https://prove2.me/theorems/9607d583-e847-4198-8561-258eb986363b

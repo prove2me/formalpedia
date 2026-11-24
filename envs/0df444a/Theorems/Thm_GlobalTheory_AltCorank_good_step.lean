@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AltCorank_good_step
 -- name    : GlobalTheory.AltCorank.good_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:57:16.933493+00:00
 -- url     : https://prove2.me/theorems/fd2df5e1-fa6a-414f-9e60-958a2fa52c65

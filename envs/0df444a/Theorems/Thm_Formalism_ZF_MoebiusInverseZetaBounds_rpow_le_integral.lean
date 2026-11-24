@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_MoebiusInverseZetaBounds_rpow_le_integral
 -- name    : Formalism.ZF.MoebiusInverseZetaBounds.rpow_le_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:41:49.480811+00:00
 -- url     : https://prove2.me/theorems/61c31030-6591-4761-a957-259ee4a0fd65

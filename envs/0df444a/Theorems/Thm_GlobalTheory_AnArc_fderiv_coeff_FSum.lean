@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_fderiv_coeff_FSum
 -- name    : GlobalTheory.AnArc.fderiv_coeff_FSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:57:17.009719+00:00
 -- url     : https://prove2.me/theorems/6641790c-a444-44af-b22f-f4a8ff64e67c

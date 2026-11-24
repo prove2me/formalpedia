@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_CubeGen_trivAt_of_formal
 -- name    : GlobalTheory.AbLaw.CubeGen.trivAt_of_formal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:50:32.832044+00:00
 -- url     : https://prove2.me/theorems/5d7ae132-c189-4d24-ba19-9f372ab2be48

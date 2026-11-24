@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_YangianSpanCharacter_P_commutator_of_modular_relation
 -- name    : Formalism.YangianSpanCharacter.P.commutator_of_modular_relation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:58:34.070301+00:00
 -- url     : https://prove2.me/theorems/eb6fcf9e-9b46-493a-a2c8-30fae8f0db9c

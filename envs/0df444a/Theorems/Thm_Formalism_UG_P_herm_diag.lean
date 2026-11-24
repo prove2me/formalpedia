@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_herm_diag
 -- name    : Formalism.UG.P.herm_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:43:16.319135+00:00
 -- url     : https://prove2.me/theorems/2c785894-ef60-452b-9cd1-808794ea1bc8

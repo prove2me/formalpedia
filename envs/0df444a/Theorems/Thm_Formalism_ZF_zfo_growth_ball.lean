@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_zfo_growth_ball
 -- name    : Formalism.ZF.zfo_growth_ball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:41:45.919781+00:00
 -- url     : https://prove2.me/theorems/3428a9e1-f7a4-48da-897a-5f72c003637d

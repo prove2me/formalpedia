@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_norm_term_twist_moebius_le
 -- name    : Formalism.ZeroFreeDirichlet.norm_term_twist_moebius_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:43:10.595783+00:00
 -- url     : https://prove2.me/theorems/6d0b4a77-ac02-4ace-9ff6-4ce9c1b4aa7d

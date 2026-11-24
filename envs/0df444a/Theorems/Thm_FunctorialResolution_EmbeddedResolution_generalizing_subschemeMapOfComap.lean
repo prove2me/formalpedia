@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_generalizing_subschemeMapOfComap
 -- name    : FunctorialResolution.EmbeddedResolution.generalizing_subschemeMapOfComap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:47:35.501167+00:00
 -- url     : https://prove2.me/theorems/0617fdb0-f936-45d9-ac9e-c82bad6cf524

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_satisfiesGlRelations_bilinearLeft
 -- name    : Formalism.REAL.satisfiesGlRelations_bilinearLeft
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:26:31.361097+00:00
 -- url     : https://prove2.me/theorems/5ffea86e-d453-4325-9033-2072268a5a64

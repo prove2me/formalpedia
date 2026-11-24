@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_Tor_cc_fExp_phL
 -- name    : Formalism.L2.Th1.E.Tor.cc_fExp_phL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:03:53.424375+00:00
 -- url     : https://prove2.me/theorems/cf81b9d7-8ff7-4da3-b02c-edd0e653416a

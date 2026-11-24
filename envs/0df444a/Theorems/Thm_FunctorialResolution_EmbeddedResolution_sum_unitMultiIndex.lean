@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_sum_unitMultiIndex
 -- name    : FunctorialResolution.EmbeddedResolution.sum_unitMultiIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:49:01.23188+00:00
 -- url     : https://prove2.me/theorems/912c215e-db11-4343-a414-bd9df472f9a3

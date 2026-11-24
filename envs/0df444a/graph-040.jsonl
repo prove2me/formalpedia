@@ -7947,8 +7947,8 @@
 {"parent": "Formalism.FrobeniusOrbits.SplitK.ncard_one", "child": "Formalism_FrobeniusOrbits_FrobeniusOrbitsProofs_SplitK", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.gaugeConjugation", "child": "Formalism_HermitianCurvature_StatementR", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.gaugeConjugation", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_RuleGD", "via": ["solution", "statement"]}
-{"parent": "Formalism.RepresentationBoundsCohomology.ringDataObjects.idem_normal_form", "child": "Formalism_WachLatticeTwists_RamifiedBlockRings_RamifiedBlockProofs_CharpolyRevMap", "via": ["statement"]}
-{"parent": "Formalism.RepresentationBoundsCohomology.ringDataObjects.idem_normal_form", "child": "Formalism_WachLatticeTwists_RamifiedBlockRings_RamifiedBlockProofs_Normal", "via": ["statement"]}
+{"parent": "Formalism.RepresentationBoundsCohomology.ringDataObjects.idem_normal_form", "child": "Formalism_WachLatticeTwists_RamifiedBlockRings_RamifiedBlockProofs_CharpolyRevMap", "via": ["solution", "statement"]}
+{"parent": "Formalism.RepresentationBoundsCohomology.ringDataObjects.idem_normal_form", "child": "Formalism_WachLatticeTwists_RamifiedBlockRings_RamifiedBlockProofs_Normal", "via": ["solution", "statement"]}
 {"parent": "DeletedPrimes.decomp", "child": "DeletedPrimes_Exponents", "via": ["solution", "statement"]}
 {"parent": "Development_WeilBound_RepresentationTheoryGL_UnitaryDualProof_CompactOrbits_NilpotentOrbits_OrbitIntegrals_CentralizerRepresentatives_CbIsChainApply", "child": "Development_WeilBound_RepresentationTheoryGL_UnitaryDualProof_CompactOrbits_NilpotentOrbits_OrbitIntegrals_CentralizerRepresentatives_IsChain", "via": ["statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.embedding_facts", "child": "Formalism_HermitianCurvature_StatementJ", "via": ["solution", "statement"]}
@@ -39435,10 +39435,10 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_Inter_PFFibreMultProof_isUnit_baseSubst_rename_67bd4c226138", "child": "GroundTheory_HeightsAndTheta_Heights_Intersections_PPFFibreSum", "via": ["solution", "statement"]}
 {"parent": "OpaquePricing.Dominance.Supplement.lemma_4", "child": "OpaquePricing_Dominance_Supplement_SinglePricing", "via": ["statement"]}
 {"parent": "OpaquePricing.Dominance.Supplement.lemma_4", "child": "OpaquePricing_Dominance_Setting", "via": ["statement"]}
-{"parent": "FunctorialResolution.EmbeddedResolution.EtaleCoordinates.map_partialDeriv_eq_pow_mul_of_notMem", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_EtaleCoordinates", "via": ["statement"]}
-{"parent": "FunctorialResolution.EmbeddedResolution.EtaleCoordinates.map_partialDeriv_eq_pow_mul_of_notMem", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_DerivativeIdealEtaleBaseChange", "via": ["statement"]}
-{"parent": "FunctorialResolution.EmbeddedResolution.EtaleCoordinates.map_partialDeriv_eq_pow_mul_of_notMem", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_DerivativeIdeal", "via": ["statement"]}
-{"parent": "FunctorialResolution.EmbeddedResolution.EtaleCoordinates.map_partialDeriv_eq_pow_mul_of_notMem", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_DerivativesInBlowupCharts", "via": ["statement"]}
+{"parent": "FunctorialResolution.EmbeddedResolution.EtaleCoordinates.map_partialDeriv_eq_pow_mul_of_notMem", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_EtaleCoordinates", "via": ["solution", "statement"]}
+{"parent": "FunctorialResolution.EmbeddedResolution.EtaleCoordinates.map_partialDeriv_eq_pow_mul_of_notMem", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_DerivativeIdealEtaleBaseChange", "via": ["solution", "statement"]}
+{"parent": "FunctorialResolution.EmbeddedResolution.EtaleCoordinates.map_partialDeriv_eq_pow_mul_of_notMem", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_DerivativeIdeal", "via": ["solution", "statement"]}
+{"parent": "FunctorialResolution.EmbeddedResolution.EtaleCoordinates.map_partialDeriv_eq_pow_mul_of_notMem", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_DerivativesInBlowupCharts", "via": ["solution", "statement"]}
 {"parent": "HLambdaG.Main.Supplement.lemma_3", "child": "HLambdaG_Main_Supplement_Discrete", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_mahler_C_02c18ff6a9ea", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_ContinuousHermNormGroup", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_mahler_C_02c18ff6a9ea", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_Statements", "via": ["statement"]}
@@ -69875,20 +69875,20 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_DualGeometricDegreeCharts_eq_planePt_3508fd5ed475", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PDualGeomDegCharts", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_DualGeometricDegreeCharts_eq_planePt_3508fd5ed475", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PDualPtsOnPlane", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_DualGeometricDegreeCharts_eq_planePt_3508fd5ed475", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_StatementsDualGeomDegCharts", "via": ["solution", "statement"]}
-{"parent": "Formalism.REAL.growthIter", "child": "Formalism_RealPlaceAnalysis_StatementD", "via": ["statement"]}
-{"parent": "Formalism.REAL.growthIter", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_CasComm", "via": ["statement"]}
-{"parent": "Formalism.REAL.growthIter", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_QuantumDetHighestWeightHolds", "via": ["statement"]}
-{"parent": "Formalism.REAL.growthIter", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_ShiftedGeneratorEqIteSmulAdd", "via": ["statement"]}
-{"parent": "Formalism.REAL.growthIter", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_SumOfSquaresIdentityHolds", "via": ["statement"]}
-{"parent": "Formalism.REAL.growthIter", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_HWDiag", "via": ["statement"]}
-{"parent": "Formalism.REAL.growthIter", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_GeneratorPowUpperVanishHolds", "via": ["statement"]}
-{"parent": "Formalism.REAL.growthIter", "child": "Formalism_RealPlaceAnalysis_ThirdArithmeticHolds", "via": ["statement"]}
-{"parent": "Formalism.REAL.growthIter", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_QuadraticInequalityBoundHolds", "via": ["statement"]}
-{"parent": "Formalism.REAL.growthIter", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_CharId", "via": ["statement"]}
-{"parent": "Formalism.REAL.growthIter", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_HalfSumRootsStandard", "via": ["statement"]}
-{"parent": "Formalism.REAL.growthIter", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_CasKHW", "via": ["statement"]}
-{"parent": "Formalism.REAL.growthIter", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_TrPowSumFilterZero", "via": ["statement"]}
-{"parent": "Formalism.REAL.growthIter", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_GeneratorCommutatorQuantumDet", "via": ["statement"]}
+{"parent": "Formalism.REAL.growthIter", "child": "Formalism_RealPlaceAnalysis_StatementD", "via": ["solution", "statement"]}
+{"parent": "Formalism.REAL.growthIter", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_CasComm", "via": ["solution", "statement"]}
+{"parent": "Formalism.REAL.growthIter", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_QuantumDetHighestWeightHolds", "via": ["solution", "statement"]}
+{"parent": "Formalism.REAL.growthIter", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_ShiftedGeneratorEqIteSmulAdd", "via": ["solution", "statement"]}
+{"parent": "Formalism.REAL.growthIter", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_SumOfSquaresIdentityHolds", "via": ["solution", "statement"]}
+{"parent": "Formalism.REAL.growthIter", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_HWDiag", "via": ["solution", "statement"]}
+{"parent": "Formalism.REAL.growthIter", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_GeneratorPowUpperVanishHolds", "via": ["solution", "statement"]}
+{"parent": "Formalism.REAL.growthIter", "child": "Formalism_RealPlaceAnalysis_ThirdArithmeticHolds", "via": ["solution", "statement"]}
+{"parent": "Formalism.REAL.growthIter", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_QuadraticInequalityBoundHolds", "via": ["solution", "statement"]}
+{"parent": "Formalism.REAL.growthIter", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_CharId", "via": ["solution", "statement"]}
+{"parent": "Formalism.REAL.growthIter", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_HalfSumRootsStandard", "via": ["solution", "statement"]}
+{"parent": "Formalism.REAL.growthIter", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_CasKHW", "via": ["solution", "statement"]}
+{"parent": "Formalism.REAL.growthIter", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_TrPowSumFilterZero", "via": ["solution", "statement"]}
+{"parent": "Formalism.REAL.growthIter", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_GeneratorCommutatorQuantumDet", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_JetHarmonics_EqZeroOfFischSelf", "child": "Formalism_LocalToGlobal_ProjectiveLattices_RowDeg", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_JetHarmonics_EqZeroOfFischSelf", "child": "Development_AbelianVarietyTheory_Proofs_CuspFormEvaluations_InvariantOperatorValueTriangularChange", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_LowerBound_ShortVectorsOrthogonal_full_d0fd9770f772", "child": "GroundTheory_HeightsAndTheta_Heights_CountingLowerBound_PMeanCuspWeight", "via": ["statement"]}
@@ -70803,20 +70803,20 @@
 {"parent": "ULHC.split_end_t3", "child": "ULHC_Enum", "via": ["solution", "statement"]}
 {"parent": "ULHC.split_end_t3", "child": "ULHC_L57", "via": ["solution", "statement"]}
 {"parent": "ULHC.split_end_t3", "child": "ULHC_Created", "via": ["solution", "statement"]}
-{"parent": "Formalism.REAL.taylorRadius", "child": "Formalism_RealPlaceAnalysis_StatementD", "via": ["statement"]}
-{"parent": "Formalism.REAL.taylorRadius", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_CasComm", "via": ["statement"]}
-{"parent": "Formalism.REAL.taylorRadius", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_QuantumDetHighestWeightHolds", "via": ["statement"]}
-{"parent": "Formalism.REAL.taylorRadius", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_ShiftedGeneratorEqIteSmulAdd", "via": ["statement"]}
-{"parent": "Formalism.REAL.taylorRadius", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_SumOfSquaresIdentityHolds", "via": ["statement"]}
-{"parent": "Formalism.REAL.taylorRadius", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_HWDiag", "via": ["statement"]}
-{"parent": "Formalism.REAL.taylorRadius", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_GeneratorPowUpperVanishHolds", "via": ["statement"]}
-{"parent": "Formalism.REAL.taylorRadius", "child": "Formalism_RealPlaceAnalysis_ThirdArithmeticHolds", "via": ["statement"]}
-{"parent": "Formalism.REAL.taylorRadius", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_QuadraticInequalityBoundHolds", "via": ["statement"]}
-{"parent": "Formalism.REAL.taylorRadius", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_CharId", "via": ["statement"]}
-{"parent": "Formalism.REAL.taylorRadius", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_HalfSumRootsStandard", "via": ["statement"]}
-{"parent": "Formalism.REAL.taylorRadius", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_CasKHW", "via": ["statement"]}
-{"parent": "Formalism.REAL.taylorRadius", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_TrPowSumFilterZero", "via": ["statement"]}
-{"parent": "Formalism.REAL.taylorRadius", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_GeneratorCommutatorQuantumDet", "via": ["statement"]}
+{"parent": "Formalism.REAL.taylorRadius", "child": "Formalism_RealPlaceAnalysis_StatementD", "via": ["solution", "statement"]}
+{"parent": "Formalism.REAL.taylorRadius", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_CasComm", "via": ["solution", "statement"]}
+{"parent": "Formalism.REAL.taylorRadius", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_QuantumDetHighestWeightHolds", "via": ["solution", "statement"]}
+{"parent": "Formalism.REAL.taylorRadius", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_ShiftedGeneratorEqIteSmulAdd", "via": ["solution", "statement"]}
+{"parent": "Formalism.REAL.taylorRadius", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_SumOfSquaresIdentityHolds", "via": ["solution", "statement"]}
+{"parent": "Formalism.REAL.taylorRadius", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_HWDiag", "via": ["solution", "statement"]}
+{"parent": "Formalism.REAL.taylorRadius", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_GeneratorPowUpperVanishHolds", "via": ["solution", "statement"]}
+{"parent": "Formalism.REAL.taylorRadius", "child": "Formalism_RealPlaceAnalysis_ThirdArithmeticHolds", "via": ["solution", "statement"]}
+{"parent": "Formalism.REAL.taylorRadius", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_QuadraticInequalityBoundHolds", "via": ["solution", "statement"]}
+{"parent": "Formalism.REAL.taylorRadius", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_CharId", "via": ["solution", "statement"]}
+{"parent": "Formalism.REAL.taylorRadius", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_HalfSumRootsStandard", "via": ["solution", "statement"]}
+{"parent": "Formalism.REAL.taylorRadius", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_CasKHW", "via": ["solution", "statement"]}
+{"parent": "Formalism.REAL.taylorRadius", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_TrPowSumFilterZero", "via": ["solution", "statement"]}
+{"parent": "Formalism.REAL.taylorRadius", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_GeneratorCommutatorQuantumDet", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.RootEx.Supp.exists_bd_of_char", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_PadicIsNonarchimedeanLocalField", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.RootEx.Supp.exists_bd_of_char", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_CharEqOneOfOpENeZero", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.RootEx.Supp.exists_bd_of_char", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_IwasawaBlockTriangular", "via": ["solution", "statement"]}
@@ -78340,8 +78340,8 @@
 {"parent": "GroundTheory_HeightsAndTheta_Heights_HeightComparison_HeightCentredConductor", "child": "GroundTheory_HeightsAndTheta_Heights_HeightComparison_HeightSemilocalQuotCard", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_HeightComparison_HeightCentredConductor", "child": "GroundTheory_HeightsAndTheta_Heights_HeightComparison_HeightOrbitChart", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_HeightComparison_HeightCentredConductor", "child": "P2M_GroundTheory_Heights__Heights_ComplexAt_algebraMap_apply_de37bb391a59", "via": ["statement"]}
-{"parent": "Formalism.UG.P.herm_diag", "child": "Formalism_SatakeDualWeyl_Statement", "via": ["statement"]}
-{"parent": "Formalism.UG.P.herm_diag", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_SignatureExists", "via": ["statement"]}
+{"parent": "Formalism.UG.P.herm_diag", "child": "Formalism_SatakeDualWeyl_Statement", "via": ["solution", "statement"]}
+{"parent": "Formalism.UG.P.herm_diag", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_SignatureExists", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_PtsPosPartLocal_analyticOnNhd_of_diffOn_dfa8683cecfc", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterBridgeF", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_PtsPosPartLocal_analyticOnNhd_of_diffOn_dfa8683cecfc", "child": "GroundTheory_HeightsAndTheta_Heights_OrbitLimits_StPtsPosPartLocal", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_PtsPosPartLocal_analyticOnNhd_of_diffOn_dfa8683cecfc", "child": "GroundTheory_HeightsAndTheta_Heights_OrbitLimits_PPtsPosPartLocal", "via": ["statement"]}
@@ -99761,8 +99761,8 @@
 {"parent": "RHX1000000.Run.E55.blk1", "child": "RHX_RunChain", "via": ["statement"]}
 {"parent": "Formalism.HC.HostAx.galE_pow", "child": "Formalism_SharpRestriction_RamificationFrobenius_TotientGaloisClasses_ZsmulGeneratorEqZeroOfProjection", "via": ["solution", "statement"]}
 {"parent": "Formalism.HC.HostAx.galE_pow", "child": "Formalism_SharpRestriction_RamificationFrobenius_TotientGaloisClasses_ConjEMemHostFIff", "via": ["solution", "statement"]}
-{"parent": "Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGH.ptm_subst", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_ExpChartActionPoint", "via": ["statement"]}
-{"parent": "Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGH.ptm_subst", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_HasSubstActPS", "via": ["statement"]}
+{"parent": "Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGH.ptm_subst", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_ExpChartActionPoint", "via": ["solution", "statement"]}
+{"parent": "Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGH.ptm_subst", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_HasSubstActPS", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.I2.pa_contDiff_of_diff", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_PropAC", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.I2.pa_contDiff_of_diff", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_RCauchy", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.I2.pa_contDiff_of_diff", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_PropAB", "via": ["statement"]}

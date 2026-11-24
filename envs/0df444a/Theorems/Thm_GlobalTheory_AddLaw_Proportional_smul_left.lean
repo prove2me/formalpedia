@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AddLaw_Proportional_smul_left
 -- name    : GlobalTheory.AddLaw.Proportional.smul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:54:12.361957+00:00
 -- url     : https://prove2.me/theorems/40531d58-bee9-4eec-b33a-7971f70fe15c

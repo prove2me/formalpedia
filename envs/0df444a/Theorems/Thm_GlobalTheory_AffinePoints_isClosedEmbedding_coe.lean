@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_isClosedEmbedding_coe
 -- name    : GlobalTheory.AffinePoints.isClosedEmbedding_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:54:56.139567+00:00
 -- url     : https://prove2.me/theorems/2a424ca8-a4cb-4889-8dc7-37d39127318f

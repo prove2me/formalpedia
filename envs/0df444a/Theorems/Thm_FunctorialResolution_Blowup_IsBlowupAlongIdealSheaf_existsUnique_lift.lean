@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_IsBlowupAlongIdealSheaf_existsUnique_lift
 -- name    : FunctorialResolution.Blowup.IsBlowupAlongIdealSheaf.existsUnique_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:45:28.932203+00:00
 -- url     : https://prove2.me/theorems/d863d1ae-8562-42f0-b96d-a7537ad308dc

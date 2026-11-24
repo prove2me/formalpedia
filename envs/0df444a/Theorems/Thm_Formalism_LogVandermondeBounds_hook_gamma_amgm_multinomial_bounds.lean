@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_hook_gamma_amgm_multinomial_bounds
 -- name    : Formalism.LogVandermondeBounds.hook_gamma_amgm_multinomial_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:53:06.163223+00:00
 -- url     : https://prove2.me/theorems/8f416866-0814-439b-b636-322200c5079e

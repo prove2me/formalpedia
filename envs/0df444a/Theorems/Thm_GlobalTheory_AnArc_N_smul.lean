@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_N_smul
 -- name    : GlobalTheory.AnArc.N_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:56:45.547613+00:00
 -- url     : https://prove2.me/theorems/f9bb22f4-1e19-4dc4-93ce-eb27f6ab7586

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_deriv_Pfun_of_ne
 -- name    : Formalism.deriv_Pfun_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:44:25.804633+00:00
 -- url     : https://prove2.me/theorems/789932c5-415c-49ed-8dd8-670bb1b089e2

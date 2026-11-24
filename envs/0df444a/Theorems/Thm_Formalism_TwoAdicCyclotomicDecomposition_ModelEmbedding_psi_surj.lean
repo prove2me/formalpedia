@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_ModelEmbedding_psi_surj
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.ModelEmbedding.psi_surj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:10:55.108927+00:00
 -- url     : https://prove2.me/theorems/dade96b0-cf74-4c30-9b06-f1b9791be7fd

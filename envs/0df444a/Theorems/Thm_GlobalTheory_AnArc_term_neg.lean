@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_term_neg
 -- name    : GlobalTheory.AnArc.term_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:56:54.353804+00:00
 -- url     : https://prove2.me/theorems/41dca485-9b8b-46ac-82d0-663bef70cb8b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_conjTranspose_mul_self_pos_facts
 -- name    : Formalism.REAL.conjTranspose_mul_self_pos_facts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:06:05.044498+00:00
 -- url     : https://prove2.me/theorems/9acc1204-0f48-42f3-8a49-886d4ada37db

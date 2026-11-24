@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_continuousOn_iff
 -- name    : GlobalTheory.AffinePoints.continuousOn_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:54:32.007419+00:00
 -- url     : https://prove2.me/theorems/2a2425e2-9ffa-492d-8d88-b7531983d689

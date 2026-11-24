@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_projAtOf_of
 -- name    : Formalism.InvariantFactorPaths.L4.projAtOf_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:02:57.715371+00:00
 -- url     : https://prove2.me/theorems/9a74f97b-c9e4-484d-930f-5783dfe5ab44

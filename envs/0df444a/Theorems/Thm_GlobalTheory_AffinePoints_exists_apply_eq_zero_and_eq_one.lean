@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_exists_apply_eq_zero_and_eq_one
 -- name    : GlobalTheory.AffinePoints.exists_apply_eq_zero_and_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:54:50.333799+00:00
 -- url     : https://prove2.me/theorems/acdc23a3-d386-4cb5-bcc0-6039297c2193

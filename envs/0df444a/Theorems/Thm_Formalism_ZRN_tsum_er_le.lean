@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZRN_tsum_er_le
 -- name    : Formalism.ZRN.tsum_er_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:43:13.661578+00:00
 -- url     : https://prove2.me/theorems/1825d696-3f99-4c92-a4f6-103af1423b10

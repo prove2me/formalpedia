@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_negLD_eq_LSeries_mul_vonMangoldt
 -- name    : Formalism.ZeroFreeDirichlet.negLD_eq_LSeries_mul_vonMangoldt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:42:15.795981+00:00
 -- url     : https://prove2.me/theorems/f878c139-8db5-4da3-a4e6-967f878a6bb2

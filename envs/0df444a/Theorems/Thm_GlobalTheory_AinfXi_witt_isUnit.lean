@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AinfXi_witt_isUnit
 -- name    : GlobalTheory.AinfXi.witt_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:56:51.552583+00:00
 -- url     : https://prove2.me/theorems/b43613a9-d84f-41da-b7de-71cf0b4c8af7

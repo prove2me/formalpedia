@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_Segre_pre_right
 -- name    : GlobalTheory.AbLaw.Segre.pre_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:51:49.648807+00:00
 -- url     : https://prove2.me/theorems/5fb40152-d383-4dd1-80d3-7611fa0907e6

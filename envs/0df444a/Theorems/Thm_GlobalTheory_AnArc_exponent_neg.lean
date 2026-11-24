@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_exponent_neg
 -- name    : GlobalTheory.AnArc.exponent_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:57:27.999803+00:00
 -- url     : https://prove2.me/theorems/8a4db314-2970-4b8a-b8fd-36c0c1db786a

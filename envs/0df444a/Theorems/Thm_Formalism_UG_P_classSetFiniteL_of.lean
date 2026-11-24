@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_classSetFiniteL_of
 -- name    : Formalism.UG.P.classSetFiniteL_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:22:31.353835+00:00
 -- url     : https://prove2.me/theorems/1424e666-71b4-43de-b584-36449f65005b

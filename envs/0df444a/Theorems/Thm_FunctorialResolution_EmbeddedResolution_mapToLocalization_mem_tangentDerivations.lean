@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_mapToLocalization_mem_tangentDerivations
 -- name    : FunctorialResolution.EmbeddedResolution.mapToLocalization_mem_tangentDerivations
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:48:25.8489+00:00
 -- url     : https://prove2.me/theorems/23cf26e1-92d8-4f0a-a961-06d987cba572

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_tjcosets_hmax
 -- name    : Formalism.UG.P.tjcosets_hmax
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:37:03.50155+00:00
 -- url     : https://prove2.me/theorems/ba481115-574f-4905-a0a7-8606237de63e

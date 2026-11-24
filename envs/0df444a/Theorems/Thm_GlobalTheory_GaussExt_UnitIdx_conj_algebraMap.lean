@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussExt_UnitIdx_conj_algebraMap
 -- name    : GlobalTheory.GaussExt.UnitIdx.conj_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:48:29.869349+00:00
 -- url     : https://prove2.me/theorems/4e205c60-a3b9-4595-a158-533a53193f55

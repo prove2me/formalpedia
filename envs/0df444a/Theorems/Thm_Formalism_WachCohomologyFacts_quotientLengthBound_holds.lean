@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WachCohomologyFacts_quotientLengthBound_holds
 -- name    : Formalism.WachCohomologyFacts.quotientLengthBound_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:38:17.316851+00:00
 -- url     : https://prove2.me/theorems/b61b1b9d-bd34-43bd-a8ae-433663714fa2

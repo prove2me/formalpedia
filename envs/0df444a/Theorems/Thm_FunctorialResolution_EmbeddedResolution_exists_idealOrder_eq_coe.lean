@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_exists_idealOrder_eq_coe
 -- name    : FunctorialResolution.EmbeddedResolution.exists_idealOrder_eq_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:46:38.967183+00:00
 -- url     : https://prove2.me/theorems/e4c11fa3-d987-4682-9cde-d821cf7a468b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_KernelLengthBounds_length_ker_smul_pi
 -- name    : Formalism.NG.KernelLengthBounds.length_ker_smul_pi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:17:12.421432+00:00
 -- url     : https://prove2.me/theorems/4604a534-a157-49fe-9a67-9b5a82066708

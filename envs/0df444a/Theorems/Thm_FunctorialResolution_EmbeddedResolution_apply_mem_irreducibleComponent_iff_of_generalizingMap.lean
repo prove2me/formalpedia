@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_apply_mem_irreducibleComponent_iff_of_generalizingMap
 -- name    : FunctorialResolution.EmbeddedResolution.apply_mem_irreducibleComponent_iff_of_generalizingMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:46:27.73954+00:00
 -- url     : https://prove2.me/theorems/81326639-5e43-4d3c-9e2d-afc34b248da6

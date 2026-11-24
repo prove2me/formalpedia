@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_pow_three_mul_exp_le
 -- name    : Formalism.ZF.pow_three_mul_exp_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:41:04.910547+00:00
 -- url     : https://prove2.me/theorems/a19e67e7-a4e3-4409-933d-00af5af06a46

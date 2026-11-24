@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_YangianSpanCharacter_P_eta_symm
 -- name    : Formalism.YangianSpanCharacter.P.eta_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:39:58.616322+00:00
 -- url     : https://prove2.me/theorems/743ead1c-e419-4de0-a06e-080a9b6dbad5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AugCot_exact_kerMap_map
 -- name    : GlobalTheory.AugCot.exact_kerMap_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:45:55.356233+00:00
 -- url     : https://prove2.me/theorems/0ae86921-c5b0-4e4a-8fcb-90ebcd758461

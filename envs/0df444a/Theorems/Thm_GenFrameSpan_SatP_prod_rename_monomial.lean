@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenFrameSpan_SatP_prod_rename_monomial
 -- name    : GenFrameSpan.SatP.prod_rename_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:50:57.998672+00:00
 -- url     : https://prove2.me/theorems/54cf096a-2a10-4f2a-a0b3-4633438deefa

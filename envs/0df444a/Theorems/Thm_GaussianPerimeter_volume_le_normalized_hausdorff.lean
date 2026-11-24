@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_volume_le_normalized_hausdorff
 -- name    : GaussianPerimeter.volume_le_normalized_hausdorff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:35:52.723858+00:00
 -- url     : https://prove2.me/theorems/6d49453d-aba0-470f-bffe-094fd72e23d5

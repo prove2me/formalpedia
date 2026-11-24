@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_odd_smul_lift
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.odd_smul_lift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:06:15.400541+00:00
 -- url     : https://prove2.me/theorems/182cca92-d867-46e3-b0d8-a0a1eb96fc56

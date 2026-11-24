@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_P_det_orth_sq_le
 -- name    : Formalism.SLP.P.det_orth_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:29:23.826642+00:00
 -- url     : https://prove2.me/theorems/3d7c1b9e-8a9e-4de3-8b3e-5bc864ec2a1e

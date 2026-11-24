@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_JacobianCriterion_formallyUnramified_of_mapBaseChange_surjective
 -- name    : FunctorialResolution.EmbeddedResolution.JacobianCriterion.formallyUnramified_of_mapBaseChange_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:45:54.658267+00:00
 -- url     : https://prove2.me/theorems/dc014308-0abd-4402-a5f7-ebe9faebf3fa

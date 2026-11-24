@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isPullback_initial_of_isEmpty
 -- name    : FunctorialResolution.EmbeddedResolution.isPullback_initial_of_isEmpty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:47:31.728433+00:00
 -- url     : https://prove2.me/theorems/f8d81fdc-f678-4721-a8dc-58c5a41aef60

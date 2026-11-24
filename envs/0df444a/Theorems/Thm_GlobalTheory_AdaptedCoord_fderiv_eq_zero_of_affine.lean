@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdaptedCoord_fderiv_eq_zero_of_affine
 -- name    : GlobalTheory.AdaptedCoord.fderiv_eq_zero_of_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:54:24.803843+00:00
 -- url     : https://prove2.me/theorems/8327af38-d722-49be-83a6-2f84abc67786

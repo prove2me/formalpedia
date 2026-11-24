@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_rso_deriv_zeta_diff
 -- name    : Formalism.ZF.rso_deriv_zeta_diff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:41:30.626587+00:00
 -- url     : https://prove2.me/theorems/335f54e9-98eb-4cf9-a417-7a0c750c4eab

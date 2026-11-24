@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_dual_weyl_action_mul
 -- name    : Formalism.UG.P.dual_weyl_action_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:32:59.165649+00:00
 -- url     : https://prove2.me/theorems/519c5cd9-7ab5-4928-93fa-d71a3c027782

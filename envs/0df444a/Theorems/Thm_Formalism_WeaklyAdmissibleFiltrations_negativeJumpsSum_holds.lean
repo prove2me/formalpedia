@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_negativeJumpsSum_holds
 -- name    : Formalism.WeaklyAdmissibleFiltrations.negativeJumpsSum_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:39:26.479174+00:00
 -- url     : https://prove2.me/theorems/52bb6315-3460-4832-a857-19117f58920e

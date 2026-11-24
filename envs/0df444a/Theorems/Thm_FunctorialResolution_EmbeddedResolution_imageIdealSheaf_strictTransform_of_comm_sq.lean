@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_imageIdealSheaf_strictTransform_of_comm_sq
 -- name    : FunctorialResolution.EmbeddedResolution.imageIdealSheaf_strictTransform_of_comm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:47:47.262217+00:00
 -- url     : https://prove2.me/theorems/12969e18-d06e-4d67-9c3d-8f09475fc057

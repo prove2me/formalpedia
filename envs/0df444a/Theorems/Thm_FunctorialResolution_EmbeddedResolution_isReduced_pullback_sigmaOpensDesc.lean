@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isReduced_pullback_sigmaOpensDesc
 -- name    : FunctorialResolution.EmbeddedResolution.isReduced_pullback_sigmaOpensDesc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:48:12.817877+00:00
 -- url     : https://prove2.me/theorems/5470c03e-5959-4395-9575-00559f9de290

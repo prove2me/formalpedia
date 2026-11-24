@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_arr_operator_one_apply
 -- name    : Formalism.REAL.arr_operator_one_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:04:51.91479+00:00
 -- url     : https://prove2.me/theorems/a7d9adae-67ff-4c5a-b102-19a5b40df149

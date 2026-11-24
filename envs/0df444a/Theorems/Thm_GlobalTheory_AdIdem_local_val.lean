@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdIdem_local_val
 -- name    : GlobalTheory.AdIdem.local_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:53:33.015729+00:00
 -- url     : https://prove2.me/theorems/5c9ebf80-fab5-4f59-b150-e0d357b7626d

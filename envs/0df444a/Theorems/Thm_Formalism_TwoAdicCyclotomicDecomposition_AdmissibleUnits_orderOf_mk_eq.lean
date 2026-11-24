@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_AdmissibleUnits_orderOf_mk_eq
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.AdmissibleUnits.orderOf_mk_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:29:27.333901+00:00
 -- url     : https://prove2.me/theorems/8e9e2a5c-b8d5-49c2-b80c-5910f2a33cc3

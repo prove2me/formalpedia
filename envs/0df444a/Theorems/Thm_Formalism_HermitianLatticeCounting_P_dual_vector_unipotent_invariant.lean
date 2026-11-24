@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_dual_vector_unipotent_invariant
 -- name    : Formalism.HermitianLatticeCounting.P.dual_vector_unipotent_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:12.404309+00:00
 -- url     : https://prove2.me/theorems/1eace763-7011-4c4b-916c-a59343c0ce7a

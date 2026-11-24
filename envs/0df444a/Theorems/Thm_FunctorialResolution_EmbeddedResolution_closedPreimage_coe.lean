@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_closedPreimage_coe
 -- name    : FunctorialResolution.EmbeddedResolution.closedPreimage_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:46:54.681538+00:00
 -- url     : https://prove2.me/theorems/c4e9d3a8-deac-4c16-b349-85084dd3b92c

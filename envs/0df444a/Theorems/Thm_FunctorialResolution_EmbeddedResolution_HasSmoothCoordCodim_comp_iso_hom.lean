@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_HasSmoothCoordCodim_comp_iso_hom
 -- name    : FunctorialResolution.EmbeddedResolution.HasSmoothCoordCodim.comp_iso_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:45:39.148373+00:00
 -- url     : https://prove2.me/theorems/f04285bd-35c0-4ea6-aa12-a05454380677

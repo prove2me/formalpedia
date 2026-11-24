@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satakeGL_lower
 -- name    : Formalism.UG.P.satakeGL_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:32:56.024347+00:00
 -- url     : https://prove2.me/theorems/1c50b24e-5a19-4e8c-8952-04f14fe3fb64

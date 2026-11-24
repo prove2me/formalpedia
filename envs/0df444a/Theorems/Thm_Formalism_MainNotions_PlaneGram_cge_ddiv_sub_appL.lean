@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_cge_ddiv_sub_appL
 -- name    : Formalism.MainNotions.PlaneGram.cge_ddiv_sub_appL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:05:49.117705+00:00
 -- url     : https://prove2.me/theorems/f1c55977-2684-4247-8065-3c82ffbca0cb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_ker_comp_coprod_inl_comap_inr
 -- name    : FunctorialResolution.Blowup.ker_comp_coprod_inl_comap_inr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:45:48.651519+00:00
 -- url     : https://prove2.me/theorems/84f49731-0c36-4d76-a567-ec2c3ea16770

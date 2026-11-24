@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_HomD_substS_monomial
 -- name    : Formalism.MainNotions.PlaneGram.HomD_substS_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:03:03.011315+00:00
 -- url     : https://prove2.me/theorems/41c81480-157e-4cdb-85c1-a21e1f291309

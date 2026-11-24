@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_compact_casimir_span_holds
 -- name    : Formalism.REAL.compact_casimir_span_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:22:07.08317+00:00
 -- url     : https://prove2.me/theorems/d9e5bd27-70ae-4fdf-9a78-831869c489d8

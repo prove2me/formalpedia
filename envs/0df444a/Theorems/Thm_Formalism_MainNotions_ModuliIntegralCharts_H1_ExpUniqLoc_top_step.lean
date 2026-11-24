@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpUniqLoc_top_step
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpUniqLoc.top_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:00:08.621324+00:00
 -- url     : https://prove2.me/theorems/b5d47ca0-68d5-4685-901d-9ab610066de5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WindowSums_zv_emult_eq_val
 -- name    : Formalism.WindowSums.zv_emult_eq_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:39:27.044284+00:00
 -- url     : https://prove2.me/theorems/a71c61f6-c593-48fe-91bb-e720597ebc4b

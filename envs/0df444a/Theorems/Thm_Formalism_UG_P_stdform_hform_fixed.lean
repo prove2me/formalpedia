@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_stdform_hform_fixed
 -- name    : Formalism.UG.P.stdform_hform_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:36:14.913521+00:00
 -- url     : https://prove2.me/theorems/4f5fb5dd-0325-4033-9ad8-452d347b7eef

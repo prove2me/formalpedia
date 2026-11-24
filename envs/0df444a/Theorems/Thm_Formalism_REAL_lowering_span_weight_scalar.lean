@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_lowering_span_weight_scalar
 -- name    : Formalism.REAL.lowering_span_weight_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:09:50.120722+00:00
 -- url     : https://prove2.me/theorems/5db0216f-c26a-42b7-8165-c41572e6f003

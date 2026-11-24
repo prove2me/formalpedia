@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_ModelEmbedding_orderOf_JJ
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.ModelEmbedding.orderOf_JJ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:05:58.483798+00:00
 -- url     : https://prove2.me/theorems/4080c3ac-772c-46bb-bd8e-29b52b17ee14

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_PresentedSmoothChart_smooth_specMap_comp_isoSpec_inv
 -- name    : FunctorialResolution.EmbeddedResolution.PresentedSmoothChart.smooth_specMap_comp_isoSpec_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:48:07.894807+00:00
 -- url     : https://prove2.me/theorems/a65e7021-7d30-487f-b346-3eb7be9fd416

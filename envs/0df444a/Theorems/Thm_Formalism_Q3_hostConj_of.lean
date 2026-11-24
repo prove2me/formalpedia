@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_hostConj_of
 -- name    : Formalism.Q3.hostConj_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:59:56.704331+00:00
 -- url     : https://prove2.me/theorems/cec7c85f-5f31-4292-a62b-b28e4acab7bc

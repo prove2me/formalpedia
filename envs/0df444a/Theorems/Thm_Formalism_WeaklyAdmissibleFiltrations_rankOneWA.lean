@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_rankOneWA
 -- name    : Formalism.WeaklyAdmissibleFiltrations.rankOneWA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:39:42.873958+00:00
 -- url     : https://prove2.me/theorems/b92fc270-b9c1-404a-8903-11ca6e879cc5

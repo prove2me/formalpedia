@@ -1,0 +1,40 @@
+-- Prove2me | solution 1 for Formalism.LT.funEqSubst
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-1
+-- created : 2026-11-24T11:43:11.774379+00:00
+-- url     : https://prove2.me/submissions/38f9b65f-7f29-4fe1-9116-485028030ada
+
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_SolveExistsProof
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_InvInt
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_SigmaNormLeOne
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_MemSpanOfNormLe
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_NormSigmaLeOne
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_MapSubtypeInjective
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_CoeffSubstAddCMulXPow
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_IsHomOfSubstEqSmul
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_TorsionNormIterProof
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_NormNatCastOfNotDvd
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_LTLemma
+import Definitions.Def_Formalism_TorsionNormIteration_LubinTateExample
+import Theorems.Thm_Formalism_LT_CoeffBound_valid
+import Theorems.Thm_Formalism_LT_FrobCongr_valid
+import Theorems.Thm_Formalism_LT_FunEqSubst_of
+import Theorems.Thm_Formalism_LT_IntegralSubst_proof
+import Theorems.Thm_Formalism_LT_InvIntP_IntegralSubst_proof
+import Theorems.Thm_Formalism_LT_PowCongr_valid
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.LT
+universe u v
+namespace Formalism.LT
+theorem _root_.solution : Formalism.G.FunEqSubst.{u, v} :=
+  FunEqSubst_of IntegralSubst_proof CoeffBound_valid PowCongr_valid FrobCongr_valid
+end Formalism.LT

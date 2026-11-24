@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_gLoc_hom_bij
 -- name    : Formalism.UG.P.gLoc_hom_bij
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:31:52.168831+00:00
 -- url     : https://prove2.me/theorems/3dbefa84-9cba-4c68-8854-24920770c5d2

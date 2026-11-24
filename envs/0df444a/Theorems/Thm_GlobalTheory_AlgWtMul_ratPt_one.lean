@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AlgWtMul_ratPt_one
 -- name    : GlobalTheory.AlgWtMul.ratPt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:57:45.37152+00:00
 -- url     : https://prove2.me/theorems/e2ae9744-ff39-4561-abe5-39e818f244b5

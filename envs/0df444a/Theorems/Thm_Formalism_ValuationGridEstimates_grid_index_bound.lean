@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ValuationGridEstimates_grid_index_bound
 -- name    : Formalism.ValuationGridEstimates.grid_index_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:38:52.582806+00:00
 -- url     : https://prove2.me/theorems/fa0d38fb-9d20-49b9-a958-831e3173cd50

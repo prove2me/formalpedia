@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_polar_decomposition_unique
 -- name    : Formalism.REAL.polar_decomposition_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:45.912283+00:00
 -- url     : https://prove2.me/theorems/5db5cfde-003a-4a4e-b559-9a539195b5b9

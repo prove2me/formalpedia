@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_exists_factorization_of_sum_order
 -- name    : Formalism.ZF.exists_factorization_of_sum_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:40:55.18334+00:00
 -- url     : https://prove2.me/theorems/3a62056d-6c71-4b1c-9e07-971422035aac

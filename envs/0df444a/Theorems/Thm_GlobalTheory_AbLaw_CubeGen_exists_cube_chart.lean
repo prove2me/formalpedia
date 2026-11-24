@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_CubeGen_exists_cube_chart
 -- name    : GlobalTheory.AbLaw.CubeGen.exists_cube_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:50:57.29992+00:00
 -- url     : https://prove2.me/theorems/44190393-ff64-4ee6-8afa-5e418004be1e

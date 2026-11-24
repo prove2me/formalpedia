@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_class_set_finite_bounded_holds
 -- name    : Formalism.UG.P.class_set_finite_bounded_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:22:52.997799+00:00
 -- url     : https://prove2.me/theorems/f0d4e8f8-8910-4965-976e-36cf6215972f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeoProdPow_one_sub_pow_mem
 -- name    : GeoProdPow.one_sub_pow_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:50:21.148386+00:00
 -- url     : https://prove2.me/theorems/e16f519a-f8a9-4ed3-b681-4c510e7d8465

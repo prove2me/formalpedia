@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_altE_cayC
 -- name    : Formalism.L2.Th1.H.altE_cayC
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:28:08.897107+00:00
 -- url     : https://prove2.me/theorems/73b63a9b-a219-42b9-919a-c54cef960f18

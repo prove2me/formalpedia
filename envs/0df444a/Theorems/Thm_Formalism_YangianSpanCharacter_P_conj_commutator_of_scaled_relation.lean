@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_YangianSpanCharacter_P_conj_commutator_of_scaled_relation
 -- name    : Formalism.YangianSpanCharacter.P.conj_commutator_of_scaled_relation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:39:53.112461+00:00
 -- url     : https://prove2.me/theorems/352c4d09-2b0a-4b50-b0c9-28f2f26139f7

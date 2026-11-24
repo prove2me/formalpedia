@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_integral_adele_approximation_holds
 -- name    : Formalism.UG.P.integral_adele_approximation_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:24:32.097883+00:00
 -- url     : https://prove2.me/theorems/255a76f2-e740-46d1-8abe-6fd8e67096aa

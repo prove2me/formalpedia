@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_NU_card_fib
 -- name    : Formalism.NormUnitaryCountingLemmas.NU.card_fib
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:17:48.358529+00:00
 -- url     : https://prove2.me/theorems/a042f87a-a236-426c-9a0d-a5dd969e3bc9

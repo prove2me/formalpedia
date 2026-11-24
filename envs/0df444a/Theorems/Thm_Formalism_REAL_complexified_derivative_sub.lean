@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_complexified_derivative_sub
 -- name    : Formalism.REAL.complexified_derivative_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:21:59.307964+00:00
 -- url     : https://prove2.me/theorems/ca983e63-c361-4dd0-833a-ff98bbd63530

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ActionGauge_left_right_commute
 -- name    : GlobalTheory.ActionGauge.left_right_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:53:53.382177+00:00
 -- url     : https://prove2.me/theorems/40c1ed2e-9ff2-4813-b7a0-166288fa3077

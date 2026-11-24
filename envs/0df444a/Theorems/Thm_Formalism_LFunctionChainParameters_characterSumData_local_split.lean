@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_characterSumData_local_split
 -- name    : Formalism.LFunctionChainParameters.characterSumData.local_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:05.149093+00:00
 -- url     : https://prove2.me/theorems/2bb0ae34-8941-4f48-a7b2-73f0dbacee43

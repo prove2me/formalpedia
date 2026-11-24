@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SL_Final_eichInt
 -- name    : Formalism.SL.Final.eichInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:27:42.479508+00:00
 -- url     : https://prove2.me/theorems/da865adc-fbdf-4a6a-a4c8-cbeeccfb42fb

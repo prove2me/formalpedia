@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_plusChord_of
 -- name    : Formalism.L2.Th1.A.plusChord_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:06.632418+00:00
 -- url     : https://prove2.me/theorems/b7273c3c-c4a6-4ff9-9f10-eeb5be791625

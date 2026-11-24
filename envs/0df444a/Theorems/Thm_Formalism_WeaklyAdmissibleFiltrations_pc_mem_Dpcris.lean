@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_pc_mem_Dpcris
 -- name    : Formalism.WeaklyAdmissibleFiltrations.pc_mem_Dpcris
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:39:55.80651+00:00
 -- url     : https://prove2.me/theorems/d27cf07c-774a-403b-a9b3-e9ae67c1b541

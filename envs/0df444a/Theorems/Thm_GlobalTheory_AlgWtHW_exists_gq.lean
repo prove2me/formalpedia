@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AlgWtHW_exists_gq
 -- name    : GlobalTheory.AlgWtHW.exists_gq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:56:41.009637+00:00
 -- url     : https://prove2.me/theorems/07621d59-a8b8-462e-872b-edb3dbf2db40

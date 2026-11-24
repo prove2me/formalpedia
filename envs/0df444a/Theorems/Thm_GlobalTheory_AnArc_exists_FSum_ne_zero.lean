@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_exists_FSum_ne_zero
 -- name    : GlobalTheory.AnArc.exists_FSum_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:58:19.717462+00:00
 -- url     : https://prove2.me/theorems/73290811-3f04-40c9-9e10-5f9262cd91d7

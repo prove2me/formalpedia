@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_coeff_FSum_mul
 -- name    : GlobalTheory.AnArc.coeff_FSum_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:56:51.112801+00:00
 -- url     : https://prove2.me/theorems/21eea39a-613e-48cb-87c5-1c0a02c08da2

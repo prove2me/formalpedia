@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_dual_lattice_bound_holds
 -- name    : Formalism.UG.P.dual_lattice_bound_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:24:44.6762+00:00
 -- url     : https://prove2.me/theorems/178e7a8a-8949-44ee-bb7c-9a05f4995454

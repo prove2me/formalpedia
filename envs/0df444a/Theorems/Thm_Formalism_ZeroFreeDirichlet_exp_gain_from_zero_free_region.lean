@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_exp_gain_from_zero_free_region
 -- name    : Formalism.ZeroFreeDirichlet.exp_gain_from_zero_free_region
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:42:36.034091+00:00
 -- url     : https://prove2.me/theorems/4632e07e-c95f-4a50-8396-bdccd8794c81

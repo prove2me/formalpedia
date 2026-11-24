@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_mul_le_div_sq_add_sq
 -- name    : Formalism.ZeroFreeDirichlet.mul_le_div_sq_add_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:43:33.30821+00:00
 -- url     : https://prove2.me/theorems/1b07c8e1-4fcc-4f80-b9c6-8067ac9a22c2

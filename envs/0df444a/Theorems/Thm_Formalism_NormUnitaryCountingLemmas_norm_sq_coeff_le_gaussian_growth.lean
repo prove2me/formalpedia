@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_norm_sq_coeff_le_gaussian_growth
 -- name    : Formalism.NormUnitaryCountingLemmas.norm_sq_coeff_le_gaussian_growth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:18:14.574055+00:00
 -- url     : https://prove2.me/theorems/45d6c165-fd46-4b51-bc2e-377e496ee3f5

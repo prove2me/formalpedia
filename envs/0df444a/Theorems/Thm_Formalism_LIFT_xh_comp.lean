@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_xh_comp
 -- name    : Formalism.LIFT.xh_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:59.305496+00:00
 -- url     : https://prove2.me/theorems/0293bc8b-0ff3-4f27-b908-ad763b76f28c

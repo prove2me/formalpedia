@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_multiIndexDeriv_mul
 -- name    : FunctorialResolution.EmbeddedResolution.multiIndexDeriv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:48:09.18073+00:00
 -- url     : https://prove2.me/theorems/d3cf35bf-d67a-404c-819d-d8f4c4fa0d71

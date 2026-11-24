@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EtaleCoordinates_exists_away_map_ideal_eq
 -- name    : FunctorialResolution.EmbeddedResolution.EtaleCoordinates.exists_away_map_ideal_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:46:09.832027+00:00
 -- url     : https://prove2.me/theorems/d0e7b93e-3d78-4da8-8b49-53add6148bf4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_algEquiv_mem_one
 -- name    : GlobalTheory.AdLat.algEquiv_mem_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:54:06.769322+00:00
 -- url     : https://prove2.me/theorems/739f0e57-36a5-40f4-9492-34f0e0a3366c

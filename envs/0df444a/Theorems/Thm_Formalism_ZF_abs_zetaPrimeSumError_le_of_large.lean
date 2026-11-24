@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_abs_zetaPrimeSumError_le_of_large
 -- name    : Formalism.ZF.abs_zetaPrimeSumError_le_of_large
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:40:56.080126+00:00
 -- url     : https://prove2.me/theorems/3bdf71e1-2093-4d17-b35a-d9063f433501

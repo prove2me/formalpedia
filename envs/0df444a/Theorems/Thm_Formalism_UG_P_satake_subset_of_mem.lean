@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satake_subset_of_mem
 -- name    : Formalism.UG.P.satake_subset_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:34:22.212617+00:00
 -- url     : https://prove2.me/theorems/5962799d-3747-4999-a580-544cea58131b

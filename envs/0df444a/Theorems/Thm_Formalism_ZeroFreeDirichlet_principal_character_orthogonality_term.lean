@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_principal_character_orthogonality_term
 -- name    : Formalism.ZeroFreeDirichlet.principal_character_orthogonality_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:44:02.775393+00:00
 -- url     : https://prove2.me/theorems/27867988-6019-4853-b4d5-9abc65c667c8

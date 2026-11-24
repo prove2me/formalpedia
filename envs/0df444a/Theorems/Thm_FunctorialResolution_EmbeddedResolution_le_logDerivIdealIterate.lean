@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_le_logDerivIdealIterate
 -- name    : FunctorialResolution.EmbeddedResolution.le_logDerivIdealIterate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:47:40.754494+00:00
 -- url     : https://prove2.me/theorems/d5433c15-eb8f-485f-98c9-9c81bd631e8d

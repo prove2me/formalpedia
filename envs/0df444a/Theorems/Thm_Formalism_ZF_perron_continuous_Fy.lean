@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_perron_continuous_Fy
 -- name    : Formalism.ZF.perron_continuous_Fy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:41:49.719801+00:00
 -- url     : https://prove2.me/theorems/d99bb1ce-7b9e-4a6b-a6e3-e42742b39d66

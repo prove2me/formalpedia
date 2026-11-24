@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_zfo_term_re_nonneg
 -- name    : Formalism.ZF.zfo_term_re_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:41:23.321001+00:00
 -- url     : https://prove2.me/theorems/75124680-7015-410a-a923-94a2f5a46e33

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdicQuot_ker_psi
 -- name    : GlobalTheory.AdicQuot.ker_psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:54:41.256452+00:00
 -- url     : https://prove2.me/theorems/a5f4202a-f642-48a5-93b7-d93aca6b76fe

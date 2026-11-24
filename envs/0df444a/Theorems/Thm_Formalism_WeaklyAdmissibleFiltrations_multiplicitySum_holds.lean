@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_multiplicitySum_holds
 -- name    : Formalism.WeaklyAdmissibleFiltrations.multiplicitySum_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:39:31.45182+00:00
 -- url     : https://prove2.me/theorems/116d0bb6-cd86-49d6-868d-0fa0d5f174e4

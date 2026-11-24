@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenFrameSpan_SatP_res_apply
 -- name    : GenFrameSpan.SatP.res_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:50:57.627995+00:00
 -- url     : https://prove2.me/theorems/f6a8e1fd-bc09-4615-b2f9-32535cb86c19

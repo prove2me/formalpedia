@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_euler_factor_product_upper
 -- name    : Formalism.ZeroFreeDirichlet.euler_factor_product_upper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:42:50.183847+00:00
 -- url     : https://prove2.me/theorems/4331de7b-20d3-4d66-bdb4-7c55010980d9

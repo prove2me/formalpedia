@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_valS_monomial_nonneg_of_vec
 -- name    : Formalism.MainNotions.PlaneGram.valS_monomial_nonneg_of_vec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:46:26.558527+00:00
 -- url     : https://prove2.me/theorems/d932fba3-be80-426b-ae33-bd4c318ce943

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_lattice_index_scale
 -- name    : Formalism.LatticeIndexTer.lattice_index_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:52:33.800813+00:00
 -- url     : https://prove2.me/theorems/8b817a61-b973-40ff-975f-4de23ac23522

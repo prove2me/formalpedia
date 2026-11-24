@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankGapBounds_WeightedMeanData_sub_wmean_le
 -- name    : Formalism.RankGapBounds.WeightedMeanData.sub_wmean_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:11:12.701056+00:00
 -- url     : https://prove2.me/theorems/51984628-e75b-461e-9cb4-20a917048b6c

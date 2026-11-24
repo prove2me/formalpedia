@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineQuotient_isPullback_fromQuot
 -- name    : GlobalTheory.AffineQuotient.isPullback_fromQuot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:54:41.316638+00:00
 -- url     : https://prove2.me/theorems/9f2d2d75-6ac2-49ad-8128-021e107051c3

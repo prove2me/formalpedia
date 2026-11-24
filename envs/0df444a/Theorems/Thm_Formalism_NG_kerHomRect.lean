@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_kerHomRect
 -- name    : Formalism.NG.kerHomRect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:17:08.919968+00:00
 -- url     : https://prove2.me/theorems/4c9002ab-570a-429c-b703-cb360f203d8f

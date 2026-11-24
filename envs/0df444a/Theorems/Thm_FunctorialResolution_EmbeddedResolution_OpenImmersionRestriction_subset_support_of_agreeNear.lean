@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_OpenImmersionRestriction_subset_support_of_agreeNear
 -- name    : FunctorialResolution.EmbeddedResolution.OpenImmersionRestriction.subset_support_of_agreeNear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:46:34.923569+00:00
 -- url     : https://prove2.me/theorems/1fca5732-d679-4ec7-bc28-5a6d97abfeb4

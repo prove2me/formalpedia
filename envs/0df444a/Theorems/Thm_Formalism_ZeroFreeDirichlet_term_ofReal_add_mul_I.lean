@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_term_ofReal_add_mul_I
 -- name    : Formalism.ZeroFreeDirichlet.term_ofReal_add_mul_I
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:44:46.521063+00:00
 -- url     : https://prove2.me/theorems/1fb74fc7-082c-46df-81cc-41d35d52f472

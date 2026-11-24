@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_LOC_pi_torsion
 -- name    : Formalism.RepresentationBoundsCohomology.LOC.pi_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:28:50.879357+00:00
 -- url     : https://prove2.me/theorems/822e1a5e-8a8e-4ffe-b024-3203fd829e13

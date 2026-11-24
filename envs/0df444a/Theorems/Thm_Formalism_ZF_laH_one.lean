@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_laH_one
 -- name    : Formalism.ZF.laH_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:40:57.137199+00:00
 -- url     : https://prove2.me/theorems/1af44565-e76f-4b50-97cc-fa8d9a804b5a

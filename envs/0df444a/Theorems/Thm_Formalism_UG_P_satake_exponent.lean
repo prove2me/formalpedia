@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satake_exponent
 -- name    : Formalism.UG.P.satake_exponent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:33:14.05938+00:00
 -- url     : https://prove2.me/theorems/055f0aaa-5325-4368-b03a-2f6ce7a09cc1

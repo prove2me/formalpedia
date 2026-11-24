@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_re_sum_div_sub
 -- name    : Formalism.ZeroFreeDirichlet.re_sum_div_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:44:09.103318+00:00
 -- url     : https://prove2.me/theorems/0aab40b4-e9d7-4181-962e-abf260e9c1bb

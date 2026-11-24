@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_hermitian_lattice_correspondence_holds
 -- name    : Formalism.UG.P.hermitian_lattice_correspondence_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:14:52.768808+00:00
 -- url     : https://prove2.me/theorems/33ec65fe-0b8d-4a94-99ee-3d0ea8e859da

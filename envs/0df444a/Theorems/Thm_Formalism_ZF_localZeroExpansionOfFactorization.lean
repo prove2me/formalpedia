@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_localZeroExpansionOfFactorization
 -- name    : Formalism.ZF.localZeroExpansionOfFactorization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:41:36.368752+00:00
 -- url     : https://prove2.me/theorems/75e91fd2-03be-4c9d-82f2-9e3ae7cffa4e

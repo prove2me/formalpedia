@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_KeyVAux_main
 -- name    : Formalism.FG.KeyVAux.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:11:57.078799+00:00
 -- url     : https://prove2.me/theorems/faff755b-5632-48ef-8296-a3e79e3488b3

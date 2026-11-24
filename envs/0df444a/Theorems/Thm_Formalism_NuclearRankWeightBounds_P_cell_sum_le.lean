@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NuclearRankWeightBounds_P_cell_sum_le
 -- name    : Formalism.NuclearRankWeightBounds.P.cell_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:18:13.555356+00:00
 -- url     : https://prove2.me/theorems/bdeb8633-8f55-474d-a5d1-d62505ba65ef

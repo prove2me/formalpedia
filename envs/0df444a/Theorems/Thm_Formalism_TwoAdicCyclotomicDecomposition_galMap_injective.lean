@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_galMap_injective
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.galMap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:29:57.898882+00:00
 -- url     : https://prove2.me/theorems/338bc508-90ab-44b6-8ba4-d6203b19dfc5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_torsFreeT
 -- name    : Formalism.WeaklyAdmissibleFiltrations.torsFreeT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:39:58.675833+00:00
 -- url     : https://prove2.me/theorems/7cfbfad9-049f-4a84-806c-b786be352444

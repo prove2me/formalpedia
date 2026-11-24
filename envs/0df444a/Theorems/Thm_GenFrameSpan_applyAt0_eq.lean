@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenFrameSpan_applyAt0_eq
 -- name    : GenFrameSpan.applyAt0_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:50:51.197323+00:00
 -- url     : https://prove2.me/theorems/f22ceb2e-4034-42d6-952c-8c165c45bc6f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_BlockDetAlt_schur
 -- name    : Formalism.NG.BlockDetAlt.schur
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:11:51.721499+00:00
 -- url     : https://prove2.me/theorems/b06891bf-abdf-4bc4-8659-10fcb356e5e3

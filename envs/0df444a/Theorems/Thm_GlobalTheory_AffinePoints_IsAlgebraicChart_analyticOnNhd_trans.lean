@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_IsAlgebraicChart_analyticOnNhd_trans
 -- name    : GlobalTheory.AffinePoints.IsAlgebraicChart.analyticOnNhd_trans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:54:55.549606+00:00
 -- url     : https://prove2.me/theorems/0f6fd1c4-e53e-45f2-aee8-c4b581bcfbb8

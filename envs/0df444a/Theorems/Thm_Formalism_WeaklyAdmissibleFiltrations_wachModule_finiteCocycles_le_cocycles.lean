@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_wachModule_finiteCocycles_le_cocycles
 -- name    : Formalism.WeaklyAdmissibleFiltrations.wachModule_finiteCocycles_le_cocycles
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:39:07.619786+00:00
 -- url     : https://prove2.me/theorems/107f8c98-ac5e-4387-bc5c-f89e16bfe346

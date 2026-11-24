@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_indexInMoveToFront_injective
 -- name    : FunctorialResolution.EmbeddedResolution.indexInMoveToFront_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:48:15.826384+00:00
 -- url     : https://prove2.me/theorems/8e9918e1-53d6-4c41-b5a8-a1da1499fe32

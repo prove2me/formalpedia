@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdelicComp_eq_sum_coord
 -- name    : GlobalTheory.AdelicComp.eq_sum_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:54:08.608648+00:00
 -- url     : https://prove2.me/theorems/eeb69ec2-bf32-477d-8a6e-874c2ec4ea0f

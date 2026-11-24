@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_not_sq_cyc
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.not_sq_cyc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:30:28.282793+00:00
 -- url     : https://prove2.me/theorems/def2ce19-ab8c-4b55-9775-515154a74eac

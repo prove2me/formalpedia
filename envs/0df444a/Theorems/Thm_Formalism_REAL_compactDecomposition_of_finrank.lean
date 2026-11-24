@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_compactDecomposition_of_finrank
 -- name    : Formalism.REAL.compactDecomposition_of_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:20:28.977919+00:00
 -- url     : https://prove2.me/theorems/b55117da-c3bc-4dd8-97c9-6eca16e07c32

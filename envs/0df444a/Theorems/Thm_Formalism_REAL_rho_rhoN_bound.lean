@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_rho_rhoN_bound
 -- name    : Formalism.REAL.rho_rhoN_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:45:39.669564+00:00
 -- url     : https://prove2.me/theorems/e4efe021-dad1-4812-9b43-77afc101a7bb

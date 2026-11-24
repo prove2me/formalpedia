@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_one_apply_natCast
 -- name    : Formalism.ZeroFreeDirichlet.one_apply_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:42:58.636278+00:00
 -- url     : https://prove2.me/theorems/5f206292-8cc1-46ca-9f73-2acbbd245a5d

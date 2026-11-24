@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_rso_zeta_ne_near_one
 -- name    : Formalism.ZF.rso_zeta_ne_near_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:40:46.409191+00:00
 -- url     : https://prove2.me/theorems/e7f91a31-8a94-4c74-ab0f-a295cd9cc188

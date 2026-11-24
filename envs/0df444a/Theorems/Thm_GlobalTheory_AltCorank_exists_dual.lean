@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AltCorank_exists_dual
 -- name    : GlobalTheory.AltCorank.exists_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:57:17.941949+00:00
 -- url     : https://prove2.me/theorems/f200e973-21ae-4190-97e4-7f010b5495e5

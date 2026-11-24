@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_restrictIdeal_eq_of_le_of_eq
 -- name    : FunctorialResolution.EmbeddedResolution.restrictIdeal_eq_of_le_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:48:47.320493+00:00
 -- url     : https://prove2.me/theorems/3fa132a6-4fe8-4424-b15d-4e31e61c8d75

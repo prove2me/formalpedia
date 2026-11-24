@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_JacobianCriterion_mapBaseChange_bijective_of_basis
 -- name    : FunctorialResolution.EmbeddedResolution.JacobianCriterion.mapBaseChange_bijective_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:45:58.451056+00:00
 -- url     : https://prove2.me/theorems/d464ed93-ff95-4282-aec7-daea3fb71066

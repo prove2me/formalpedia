@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_characterModFour_apply
 -- name    : Formalism.ZeroFreeDirichlet.characterModFour_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:43:19.934278+00:00
 -- url     : https://prove2.me/theorems/8c9c7437-c54e-484e-bf6e-944c80ce3140

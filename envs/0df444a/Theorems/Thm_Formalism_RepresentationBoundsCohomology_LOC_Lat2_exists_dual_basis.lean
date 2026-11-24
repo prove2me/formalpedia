@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_LOC_Lat2_exists_dual_basis
 -- name    : Formalism.RepresentationBoundsCohomology.LOC.Lat2.exists_dual_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:27:19.228449+00:00
 -- url     : https://prove2.me/theorems/f1b95f5d-782d-4761-8aa2-169571cb4a39

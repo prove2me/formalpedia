@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_laurentExpansionAtOne
 -- name    : Formalism.ZF.laurentExpansionAtOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:41:33.731093+00:00
 -- url     : https://prove2.me/theorems/08039cd2-bd03-4e9c-8ae0-68a4af29c670

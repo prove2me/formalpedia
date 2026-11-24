@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_WeightedLatticeSum_sum_wt_int_le
 -- name    : Formalism.MainNotions.WeightedLatticeSum.sum_wt_int_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:12:09.724062+00:00
 -- url     : https://prove2.me/theorems/b896a4db-0f82-42a0-ada4-93f18cbd7555

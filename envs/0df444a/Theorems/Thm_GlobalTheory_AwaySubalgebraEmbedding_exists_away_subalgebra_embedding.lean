@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AwaySubalgebraEmbedding_exists_away_subalgebra_embedding
 -- name    : GlobalTheory.AwaySubalgebraEmbedding.exists_away_subalgebra_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:58:15.223846+00:00
 -- url     : https://prove2.me/theorems/78defdf3-dfb2-4a7c-baf7-862959283053

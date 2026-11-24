@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdaptedCoord_apply_eq_sum
 -- name    : GlobalTheory.AdaptedCoord.apply_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:54:09.138505+00:00
 -- url     : https://prove2.me/theorems/8eb923ce-bc59-4399-8fcd-84b7931b8cda

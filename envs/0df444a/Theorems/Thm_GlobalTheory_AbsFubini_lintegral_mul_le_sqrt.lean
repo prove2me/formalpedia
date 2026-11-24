@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbsFubini_lintegral_mul_le_sqrt
 -- name    : GlobalTheory.AbsFubini.lintegral_mul_le_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:54:05.684396+00:00
 -- url     : https://prove2.me/theorems/b19adc4b-8bda-4dd3-bc6d-a1b126e85bdf

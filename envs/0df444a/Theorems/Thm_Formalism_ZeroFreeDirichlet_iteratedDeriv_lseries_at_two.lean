@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_iteratedDeriv_lseries_at_two
 -- name    : Formalism.ZeroFreeDirichlet.iteratedDeriv_lseries_at_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:43:24.312493+00:00
 -- url     : https://prove2.me/theorems/c92d6a58-ff5e-4d95-8394-88e7a794519d

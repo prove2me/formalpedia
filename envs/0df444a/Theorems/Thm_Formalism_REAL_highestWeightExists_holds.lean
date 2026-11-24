@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_highestWeightExists_holds
 -- name    : Formalism.REAL.highestWeightExists_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:07:34.61662+00:00
 -- url     : https://prove2.me/theorems/3e9dbf82-4963-4134-8783-359be6c5634f

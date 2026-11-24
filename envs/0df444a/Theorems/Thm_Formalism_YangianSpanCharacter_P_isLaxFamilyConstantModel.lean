@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_YangianSpanCharacter_P_isLaxFamilyConstantModel
 -- name    : Formalism.YangianSpanCharacter.P.isLaxFamilyConstantModel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:39:15.175693+00:00
 -- url     : https://prove2.me/theorems/732f99ad-226a-4f9d-a494-bafeca1871d0

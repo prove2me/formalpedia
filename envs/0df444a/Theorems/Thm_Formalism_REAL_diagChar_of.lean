@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_diagChar_of
 -- name    : Formalism.REAL.diagChar_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:21:41.104842+00:00
 -- url     : https://prove2.me/theorems/2d82ffc3-86d7-423c-9d8f-779fc2da23cb

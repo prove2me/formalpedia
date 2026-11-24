@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BFAlmostLinear_lemma_4_2
 -- name    : BFAlmostLinear.lemma_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T21:41:41.956208+00:00
 -- url     : https://prove2.me/theorems/7aea25b7-f8af-4a35-937a-3b5a1e37fc57

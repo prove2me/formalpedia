@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TangentPow_ofTwo_toTwo
 -- name    : GlobalTheory.TangentPow.ofTwo_toTwo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:43:59.632631+00:00
 -- url     : https://prove2.me/theorems/3ce4c6ca-51ea-4959-bb64-d37b7a6116fd

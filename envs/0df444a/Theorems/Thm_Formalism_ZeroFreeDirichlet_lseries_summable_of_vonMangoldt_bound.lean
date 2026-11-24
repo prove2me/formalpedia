@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_lseries_summable_of_vonMangoldt_bound
 -- name    : Formalism.ZeroFreeDirichlet.lseries_summable_of_vonMangoldt_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:43:00.630655+00:00
 -- url     : https://prove2.me/theorems/054385e3-586b-4bc0-96f7-07f90fdc3a34

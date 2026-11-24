@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_quantumMinorTerm_adjacent_swap
 -- name    : Formalism.REAL.quantumMinorTerm_adjacent_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:24:15.233058+00:00
 -- url     : https://prove2.me/theorems/0864228b-9e4b-4ae8-bbe4-49b41828fec1

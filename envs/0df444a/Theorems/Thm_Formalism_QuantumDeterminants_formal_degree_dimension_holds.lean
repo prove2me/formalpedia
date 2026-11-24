@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_formal_degree_dimension_holds
 -- name    : Formalism.QuantumDeterminants.formal_degree_dimension_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:19:06.2108+00:00
 -- url     : https://prove2.me/theorems/6bc3dd14-faf8-4c3c-9462-7a644d05633c

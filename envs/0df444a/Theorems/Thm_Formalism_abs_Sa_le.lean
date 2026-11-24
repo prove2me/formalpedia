@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_abs_Sa_le
 -- name    : Formalism.abs_Sa_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:44:20.334307+00:00
 -- url     : https://prove2.me/theorems/0534c468-9396-4b6e-bf82-f534b0a2067b

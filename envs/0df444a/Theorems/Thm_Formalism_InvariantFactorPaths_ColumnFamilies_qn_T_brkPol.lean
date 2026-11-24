@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qn_T_brkPol
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qn_T_brkPol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:52:54.784801+00:00
 -- url     : https://prove2.me/theorems/21cb7346-a1d1-431e-9592-e74e5c59f51a

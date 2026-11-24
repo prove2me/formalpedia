@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_nPos_of
 -- name    : Formalism.REAL.nPos_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:24:27.728555+00:00
 -- url     : https://prove2.me/theorems/031b383b-02c2-465b-8ac8-6a1e085ff007

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_continuous_H
 -- name    : GlobalTheory.AnArc.continuous_H
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:56:55.787794+00:00
 -- url     : https://prove2.me/theorems/115179ec-a350-4d79-aebd-b6becb88cf71

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_hasStrictNormalCrossingsWith_iff
 -- name    : FunctorialResolution.EmbeddedResolution.hasStrictNormalCrossingsWith_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:46:34.493853+00:00
 -- url     : https://prove2.me/theorems/9a6031f8-381c-4cdf-9a9c-e14c64833bf3

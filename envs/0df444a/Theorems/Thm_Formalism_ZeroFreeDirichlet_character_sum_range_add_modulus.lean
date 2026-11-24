@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_character_sum_range_add_modulus
 -- name    : Formalism.ZeroFreeDirichlet.character_sum_range_add_modulus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:43:22.238854+00:00
 -- url     : https://prove2.me/theorems/66834384-843f-454e-9579-331f5d88eb0c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_real_character_apply_sq_eq_one
 -- name    : Formalism.ZeroFreeDirichlet.real_character_apply_sq_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:43:50.0039+00:00
 -- url     : https://prove2.me/theorems/24de1466-6b0c-44c7-a098-8293447d3f9f

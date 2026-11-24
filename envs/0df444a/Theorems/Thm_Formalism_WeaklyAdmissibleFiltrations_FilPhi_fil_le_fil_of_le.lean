@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_FilPhi_fil_le_fil_of_le
 -- name    : Formalism.WeaklyAdmissibleFiltrations.FilPhi.fil_le_fil_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:38:08.336802+00:00
 -- url     : https://prove2.me/theorems/38c2c707-65a6-42ae-8784-2ba9174dd36f

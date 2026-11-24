@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_raisingPart_invariant
 -- name    : Formalism.REAL.raisingPart_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:24:32.085774+00:00
 -- url     : https://prove2.me/theorems/1851d347-c45b-4faf-9357-81cadf900111

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_hasDerivAt_mul_exp_smul_zero
 -- name    : Formalism.REAL.hasDerivAt_mul_exp_smul_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:42:42.806318+00:00
 -- url     : https://prove2.me/theorems/a9f858a7-65ef-47e7-8732-df70301fc5d5

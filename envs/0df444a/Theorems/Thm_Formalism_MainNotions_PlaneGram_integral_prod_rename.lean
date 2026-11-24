@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_integral_prod_rename
 -- name    : Formalism.MainNotions.PlaneGram.integral_prod_rename
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:07:02.927847+00:00
 -- url     : https://prove2.me/theorems/ebd4d3b1-cb44-486e-b330-0ffbd6a80fc6

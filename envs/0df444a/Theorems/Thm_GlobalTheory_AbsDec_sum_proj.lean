@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbsDec_sum_proj
 -- name    : GlobalTheory.AbsDec.sum_proj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:54:07.435323+00:00
 -- url     : https://prove2.me/theorems/f616fb02-94ea-4583-ab27-cbac8143e3bb

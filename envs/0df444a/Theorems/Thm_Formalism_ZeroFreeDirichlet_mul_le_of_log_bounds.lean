@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_mul_le_of_log_bounds
 -- name    : Formalism.ZeroFreeDirichlet.mul_le_of_log_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:42:56.841205+00:00
 -- url     : https://prove2.me/theorems/64361cbc-3973-4949-9210-cabf4829c1f0

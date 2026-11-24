@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_preimage_basicOpen_specToAffineSpaceExtendCoords
 -- name    : FunctorialResolution.EmbeddedResolution.preimage_basicOpen_specToAffineSpaceExtendCoords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:49:21.417664+00:00
 -- url     : https://prove2.me/theorems/b934b5b4-b3e2-4c6b-9f6b-d216db15dc8e

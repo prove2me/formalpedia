@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_IsAlgebraicChart_volume_image_zeroSet
 -- name    : GlobalTheory.AffinePoints.IsAlgebraicChart.volume_image_zeroSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:54:17.5922+00:00
 -- url     : https://prove2.me/theorems/c5628a09-9601-4913-8b8b-d0db8c8196f6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdelicComp_coord_compAt
 -- name    : GlobalTheory.AdelicComp.coord_compAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:53:41.793942+00:00
 -- url     : https://prove2.me/theorems/a65f5929-3302-42ee-a25f-2e2cd5f7b7ab

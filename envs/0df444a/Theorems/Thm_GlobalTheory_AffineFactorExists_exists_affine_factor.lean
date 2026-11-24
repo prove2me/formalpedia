@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineFactorExists_exists_affine_factor
 -- name    : GlobalTheory.AffineFactorExists.exists_affine_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:54:33.900029+00:00
 -- url     : https://prove2.me/theorems/c469970b-41c2-4087-8ea9-3c7c413e1367

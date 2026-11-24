@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_Tree_cfl_Q
 -- name    : Formalism.L2.Indef.Tree.cfl_Q
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:44:16.563226+00:00
 -- url     : https://prove2.me/theorems/bb61c457-aba0-4408-880e-c7e7f636f68b

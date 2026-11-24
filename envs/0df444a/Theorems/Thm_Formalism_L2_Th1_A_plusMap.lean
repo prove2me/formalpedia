@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_plusMap
 -- name    : Formalism.L2.Th1.A.plusMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:19:38.270863+00:00
 -- url     : https://prove2.me/theorems/991d148e-d8c3-471b-8aeb-ff1cab963bf9

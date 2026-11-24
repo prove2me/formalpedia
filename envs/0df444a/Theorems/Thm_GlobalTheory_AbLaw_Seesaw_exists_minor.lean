@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_Seesaw_exists_minor
 -- name    : GlobalTheory.AbLaw.Seesaw.exists_minor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:51:44.396895+00:00
 -- url     : https://prove2.me/theorems/8f5591fa-cab1-4e63-be7b-4fba5046c0f3

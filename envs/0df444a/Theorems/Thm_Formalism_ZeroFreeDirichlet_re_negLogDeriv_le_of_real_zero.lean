@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_re_negLogDeriv_le_of_real_zero
 -- name    : Formalism.ZeroFreeDirichlet.re_negLogDeriv_le_of_real_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:44:19.450009+00:00
 -- url     : https://prove2.me/theorems/d0e775c6-4b5c-4ac4-a248-955f18eb1a4b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AugCot_map_surjective
 -- name    : GlobalTheory.AugCot.map_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:45:29.090802+00:00
 -- url     : https://prove2.me/theorems/2d046453-7274-45f5-96a5-8ad6303d8897

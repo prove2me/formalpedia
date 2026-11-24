@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_canonicalCommutation_holds
 -- name    : Formalism.REAL.canonicalCommutation_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:04:41.543549+00:00
 -- url     : https://prove2.me/theorems/e3670a77-9c1c-4862-bebc-af0f90659129

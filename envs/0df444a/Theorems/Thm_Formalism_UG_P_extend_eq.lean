@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_extend_eq
 -- name    : Formalism.UG.P.extend_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:31:38.6448+00:00
 -- url     : https://prove2.me/theorems/e12d032b-7af3-4aee-8e6b-04577c69c5b4

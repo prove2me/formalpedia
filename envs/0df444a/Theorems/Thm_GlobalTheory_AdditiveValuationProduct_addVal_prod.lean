@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdditiveValuationProduct_addVal_prod
 -- name    : GlobalTheory.AdditiveValuationProduct.addVal_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:53:40.281164+00:00
 -- url     : https://prove2.me/theorems/c2593be3-c551-486b-9d04-d788d0d5b1aa

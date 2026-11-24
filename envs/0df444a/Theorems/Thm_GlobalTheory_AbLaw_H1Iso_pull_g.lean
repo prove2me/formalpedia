@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_H1Iso_pull_g
 -- name    : GlobalTheory.AbLaw.H1Iso.pull_g
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:52:22.006119+00:00
 -- url     : https://prove2.me/theorems/850d99a0-0644-49ba-ac08-56c92e4fe525

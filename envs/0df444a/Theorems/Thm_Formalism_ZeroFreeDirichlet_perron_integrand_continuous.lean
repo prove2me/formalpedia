@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_perron_integrand_continuous
 -- name    : Formalism.ZeroFreeDirichlet.perron_integrand_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:44:07.892517+00:00
 -- url     : https://prove2.me/theorems/62c6664a-5b4e-4a4a-abf3-06f6338efe24

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_wlocal_map_rowGen
 -- name    : Formalism.UG.P.wlocal_map_rowGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:38:30.606708+00:00
 -- url     : https://prove2.me/theorems/a90003c9-2664-42e0-bd4a-a7a114f1bab0

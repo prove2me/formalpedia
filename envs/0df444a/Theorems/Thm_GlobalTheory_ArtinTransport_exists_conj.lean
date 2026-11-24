@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArtinTransport_exists_conj
 -- name    : GlobalTheory.ArtinTransport.exists_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:57:57.109876+00:00
 -- url     : https://prove2.me/theorems/cf828514-7edc-4b36-8de3-7817e49d2f5e

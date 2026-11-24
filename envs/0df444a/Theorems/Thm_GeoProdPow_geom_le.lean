@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeoProdPow_geom_le
 -- name    : GeoProdPow.geom_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:50:23.79311+00:00
 -- url     : https://prove2.me/theorems/66669e56-55b4-484a-9cb2-5e68f2b60175

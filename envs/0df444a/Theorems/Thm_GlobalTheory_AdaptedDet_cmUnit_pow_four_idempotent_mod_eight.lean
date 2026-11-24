@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdaptedDet_cmUnit_pow_four_idempotent_mod_eight
 -- name    : GlobalTheory.AdaptedDet.cmUnit_pow_four_idempotent_mod_eight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:54:22.169915+00:00
 -- url     : https://prove2.me/theorems/683534b1-ca81-487a-a2a9-6ec9dd732065

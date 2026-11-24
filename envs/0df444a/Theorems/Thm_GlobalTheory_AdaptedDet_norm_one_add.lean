@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdaptedDet_norm_one_add
 -- name    : GlobalTheory.AdaptedDet.norm_one_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:53:29.430939+00:00
 -- url     : https://prove2.me/theorems/9d936661-2dda-4230-b5d0-10c66aaf75f0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdicCompleteFinite_isPrecomplete_of_pow_le
 -- name    : GlobalTheory.AdicCompleteFinite.isPrecomplete_of_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:55:30.150186+00:00
 -- url     : https://prove2.me/theorems/5d563dc2-b304-4851-b358-c987e8821d5f

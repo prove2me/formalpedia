@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_map_derivIdeal_le
 -- name    : FunctorialResolution.EmbeddedResolution.map_derivIdeal_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:48:23.723151+00:00
 -- url     : https://prove2.me/theorems/a06e83f3-88ab-4816-a6fc-7ede7aff9dde

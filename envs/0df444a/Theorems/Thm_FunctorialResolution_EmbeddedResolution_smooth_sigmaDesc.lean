@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_smooth_sigmaDesc
 -- name    : FunctorialResolution.EmbeddedResolution.smooth_sigmaDesc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:49:07.3698+00:00
 -- url     : https://prove2.me/theorems/afc12763-0014-4405-8dd3-63b199d7ad7b

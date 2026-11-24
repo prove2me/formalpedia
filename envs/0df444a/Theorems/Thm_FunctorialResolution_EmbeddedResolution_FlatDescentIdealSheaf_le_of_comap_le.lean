@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_FlatDescentIdealSheaf_le_of_comap_le
 -- name    : FunctorialResolution.EmbeddedResolution.FlatDescentIdealSheaf.le_of_comap_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:46:11.371157+00:00
 -- url     : https://prove2.me/theorems/3a8daa3f-2e55-4094-9d24-42bdd5bfe6ce

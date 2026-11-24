@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AevalTotalDegreeLinear_totalDegree_aeval_le_of_linear
 -- name    : GlobalTheory.AevalTotalDegreeLinear.totalDegree_aeval_le_of_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:54:59.085903+00:00
 -- url     : https://prove2.me/theorems/5c55374a-cc23-469e-960b-15b7eb977509

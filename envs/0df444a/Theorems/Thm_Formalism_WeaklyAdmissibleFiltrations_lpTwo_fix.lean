@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_lpTwo_fix
 -- name    : Formalism.WeaklyAdmissibleFiltrations.lpTwo_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:39:14.995838+00:00
 -- url     : https://prove2.me/theorems/10d78be5-5c42-4c8b-ac49-b30e2b10cd52

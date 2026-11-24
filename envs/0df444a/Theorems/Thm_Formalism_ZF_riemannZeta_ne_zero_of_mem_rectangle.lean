@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_riemannZeta_ne_zero_of_mem_rectangle
 -- name    : Formalism.ZF.riemannZeta_ne_zero_of_mem_rectangle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:41:27.304799+00:00
 -- url     : https://prove2.me/theorems/95e3e32a-75a9-41da-a4e0-199bd0afbdfe

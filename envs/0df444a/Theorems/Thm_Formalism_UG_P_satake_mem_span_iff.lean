@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satake_mem_span_iff
 -- name    : Formalism.UG.P.satake_mem_span_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:34:31.841688+00:00
 -- url     : https://prove2.me/theorems/4d16c480-17ae-4a76-8567-2dc0cc463490

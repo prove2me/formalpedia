@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EtaleCoordinates_partialDeriv_map_of_notMem
 -- name    : FunctorialResolution.EmbeddedResolution.EtaleCoordinates.partialDeriv_map_of_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:45:37.342867+00:00
 -- url     : https://prove2.me/theorems/1a2f3500-10bf-4eb5-a92c-8d81156053b5

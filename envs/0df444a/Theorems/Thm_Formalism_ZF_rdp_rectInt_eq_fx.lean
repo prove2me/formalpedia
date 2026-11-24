@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_rdp_rectInt_eq_fx
 -- name    : Formalism.ZF.rdp_rectInt_eq_fx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:41:16.964186+00:00
 -- url     : https://prove2.me/theorems/d6bc8382-760c-43f8-ad43-c233998aadbf

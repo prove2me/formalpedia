@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_volume_le_diameter_ball
 -- name    : GaussianPerimeter.volume_le_diameter_ball
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:35:42.204174+00:00
 -- url     : https://prove2.me/theorems/45134bd5-e659-4013-b8b9-cad548e6312e

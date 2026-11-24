@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_compactCasimirOnHighestWeight_holds
 -- name    : Formalism.REAL.compactCasimirOnHighestWeight_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:06:02.971052+00:00
 -- url     : https://prove2.me/theorems/b91ee04e-5fed-411e-836b-0516a10b05b6

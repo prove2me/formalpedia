@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenFrameSpan_sfe_inl_inr
 -- name    : GenFrameSpan.sfe_inl_inr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:50:49.733795+00:00
 -- url     : https://prove2.me/theorems/24a35ca2-0fba-4355-a7df-f9f3cff04fe3

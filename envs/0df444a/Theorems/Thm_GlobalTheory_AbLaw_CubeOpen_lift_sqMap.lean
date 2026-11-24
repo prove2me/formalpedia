@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_CubeOpen_lift_sqMap
 -- name    : GlobalTheory.AbLaw.CubeOpen.lift_sqMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:53:05.303032+00:00
 -- url     : https://prove2.me/theorems/b06172a1-664e-472a-b237-a7eca0b404fc

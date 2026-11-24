@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AlgWtHW_tauPt_mul
 -- name    : GlobalTheory.AlgWtHW.tauPt_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:58:14.669291+00:00
 -- url     : https://prove2.me/theorems/fd5822cd-3d0a-47e0-83dd-24b08b754299

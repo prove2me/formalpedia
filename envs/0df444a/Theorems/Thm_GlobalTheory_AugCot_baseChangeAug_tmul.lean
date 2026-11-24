@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AugCot_baseChangeAug_tmul
 -- name    : GlobalTheory.AugCot.baseChangeAug_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:46:01.803605+00:00
 -- url     : https://prove2.me/theorems/2d14f726-0b48-429c-973c-0b33781f770a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_WirtingerDerivatives_fderiv_Wc
 -- name    : Formalism.QuantumDeterminants.WirtingerDerivatives.fderiv_Wc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:18:36.933002+00:00
 -- url     : https://prove2.me/theorems/7dea8eb1-301f-4489-9c2c-6f210e9798ec

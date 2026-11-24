@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_surjective_algebraMap_localization_of_henselian
 -- name    : GlobalTheory.surjective_algebraMap_localization_of_henselian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:27:05.210251+00:00
 -- url     : https://prove2.me/theorems/750727ba-9bca-401b-bb11-53a63d9868ac

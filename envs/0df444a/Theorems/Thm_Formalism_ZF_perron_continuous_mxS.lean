@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_perron_continuous_mxS
 -- name    : Formalism.ZF.perron_continuous_mxS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:40:37.196836+00:00
 -- url     : https://prove2.me/theorems/4d099c64-c5e1-49bf-a856-def8b91eb7ee

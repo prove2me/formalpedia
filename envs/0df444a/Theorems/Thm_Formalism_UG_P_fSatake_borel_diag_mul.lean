@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_fSatake_borel_diag_mul
 -- name    : Formalism.UG.P.fSatake_borel_diag_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:25:02.608322+00:00
 -- url     : https://prove2.me/theorems/a0941656-5ff3-4378-a537-ae1a02564ac1

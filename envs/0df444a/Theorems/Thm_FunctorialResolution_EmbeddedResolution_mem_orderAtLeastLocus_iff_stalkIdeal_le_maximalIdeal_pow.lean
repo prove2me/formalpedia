@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_mem_orderAtLeastLocus_iff_stalkIdeal_le_maximalIdeal_pow
 -- name    : FunctorialResolution.EmbeddedResolution.mem_orderAtLeastLocus_iff_stalkIdeal_le_maximalIdeal_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:47:46.766703+00:00
 -- url     : https://prove2.me/theorems/1d576ef3-73ee-4f79-86d0-01259fd3a3fc

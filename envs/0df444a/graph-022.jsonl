@@ -90046,8 +90046,8 @@
 {"parent": "QEC.Distillation.DistillationProtocolFamily.targetError_nonneg", "child": "QEC_Distillation_Core_Overhead", "via": ["solution", "statement"]}
 {"parent": "PlantedSubgraphLD.lemma_4_4", "child": "PlantedSubgraphLD_IsDivisible", "via": ["statement"]}
 {"parent": "PlantedSubgraphLD.lemma_4_4", "child": "PlantedSubgraphLD_tw", "via": ["statement"]}
-{"parent": "BFAlmostLinear.lemma_4_2", "child": "BFAlmostLinear_WGraph_I1", "via": ["statement"]}
-{"parent": "BFAlmostLinear.lemma_4_2", "child": "BFAlmostLinear_auxGraph", "via": ["statement"]}
+{"parent": "BFAlmostLinear.lemma_4_2", "child": "BFAlmostLinear_WGraph_I1", "via": ["solution", "statement"]}
+{"parent": "BFAlmostLinear.lemma_4_2", "child": "BFAlmostLinear_auxGraph", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.DistillationRun.postprocess_successProbability", "child": "QEC_Distillation_Core_MagicStateProtocol", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.DistillationRun.postprocess_successProbability", "child": "QEC_Semantics_Entropy_Convexity", "via": ["solution", "statement"]}
 {"parent": "QEC.Distillation.DistillationRun.postprocess_successProbability", "child": "QEC_Semantics_Channels_Core", "via": ["solution", "statement"]}

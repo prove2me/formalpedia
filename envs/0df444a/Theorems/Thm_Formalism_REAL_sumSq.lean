@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_sumSq
 -- name    : Formalism.REAL.sumSq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:12:35.861714+00:00
 -- url     : https://prove2.me/theorems/15429174-6594-4da6-aa6c-d4c6b2dbf6a4

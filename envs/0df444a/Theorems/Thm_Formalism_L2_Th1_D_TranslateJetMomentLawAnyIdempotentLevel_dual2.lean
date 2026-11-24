@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TranslateJetMomentLawAnyIdempotentLevel_dual2
 -- name    : Formalism.L2.Th1.D.TranslateJetMomentLawAnyIdempotentLevel.dual2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:36:32.319557+00:00
 -- url     : https://prove2.me/theorems/92dfc0e1-5a04-4bd4-b46b-9f97f1bca8c0

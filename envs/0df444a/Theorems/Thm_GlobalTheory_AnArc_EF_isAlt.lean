@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_EF_isAlt
 -- name    : GlobalTheory.AnArc.EF_isAlt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:57:27.015752+00:00
 -- url     : https://prove2.me/theorems/d78dce65-ea2d-4fa4-b71e-fd52b49ae223

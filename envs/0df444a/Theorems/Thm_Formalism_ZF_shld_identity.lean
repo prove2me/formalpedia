@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_shld_identity
 -- name    : Formalism.ZF.shld_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:40:44.53482+00:00
 -- url     : https://prove2.me/theorems/77dccae8-318d-4199-bcc2-f810e0667deb

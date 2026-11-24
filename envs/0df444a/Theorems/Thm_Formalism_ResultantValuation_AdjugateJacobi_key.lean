@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ResultantValuation_AdjugateJacobi_key
 -- name    : Formalism.ResultantValuation.AdjugateJacobi.key
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:05:59.695801+00:00
 -- url     : https://prove2.me/theorems/4d7232d9-ba61-416a-aed3-dc051acc8e88

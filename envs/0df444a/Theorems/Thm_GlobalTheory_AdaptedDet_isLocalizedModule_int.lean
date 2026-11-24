@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdaptedDet_isLocalizedModule_int
 -- name    : GlobalTheory.AdaptedDet.isLocalizedModule_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:53:31.42081+00:00
 -- url     : https://prove2.me/theorems/a53d3072-15f2-4277-abce-936c4f848771

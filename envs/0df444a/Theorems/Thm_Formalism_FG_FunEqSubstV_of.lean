@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_FunEqSubstV_of
 -- name    : Formalism.FG.FunEqSubstV_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:37:24.336535+00:00
 -- url     : https://prove2.me/theorems/752ec85f-e1ed-4c5c-b885-d5a6520b71c3

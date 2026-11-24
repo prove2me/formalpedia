@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_log_three_mul_le_rpow
 -- name    : Formalism.ZeroFreeDirichlet.log_three_mul_le_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:43:27.430191+00:00
 -- url     : https://prove2.me/theorems/72098121-9612-4cec-82af-a902bed06318

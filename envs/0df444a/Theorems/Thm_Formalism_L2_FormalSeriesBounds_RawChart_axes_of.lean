@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RawChart_axes_of
 -- name    : Formalism.L2.FormalSeriesBounds.RawChart.axes_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:06:22.271428+00:00
 -- url     : https://prove2.me/theorems/55a37d8e-c728-4ac7-ab82-f03de6aa94d3

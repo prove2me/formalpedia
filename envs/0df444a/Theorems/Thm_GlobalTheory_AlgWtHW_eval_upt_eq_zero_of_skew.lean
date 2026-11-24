@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AlgWtHW_eval_upt_eq_zero_of_skew
 -- name    : GlobalTheory.AlgWtHW.eval_upt_eq_zero_of_skew
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:56:51.510967+00:00
 -- url     : https://prove2.me/theorems/4f61a3cb-ccd7-4704-9ef9-42bda6ad48de

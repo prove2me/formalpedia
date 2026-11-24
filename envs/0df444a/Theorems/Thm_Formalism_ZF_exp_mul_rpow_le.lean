@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_exp_mul_rpow_le
 -- name    : Formalism.ZF.exp_mul_rpow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:40:58.443131+00:00
 -- url     : https://prove2.me/theorems/d7afaf64-b031-46b7-8041-5ceaf592ef94

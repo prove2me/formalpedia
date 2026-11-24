@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_Tree_exp_neg_le_twelfth
 -- name    : Formalism.L2.Indef.Tree.exp_neg_le_twelfth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:47:37.102715+00:00
 -- url     : https://prove2.me/theorems/72330856-3c09-42ac-8f8a-584766235667

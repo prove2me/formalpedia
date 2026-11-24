@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_norm_perronIntegrand_le_left
 -- name    : Formalism.ZF.norm_perronIntegrand_le_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:41:30.002968+00:00
 -- url     : https://prove2.me/theorems/f798f7f3-73db-4b54-a0e4-3cf747d698e3

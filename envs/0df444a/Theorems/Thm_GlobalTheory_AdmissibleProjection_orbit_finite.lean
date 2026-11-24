@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdmissibleProjection_orbit_finite
 -- name    : GlobalTheory.AdmissibleProjection.orbit_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:55:18.793627+00:00
 -- url     : https://prove2.me/theorems/ba298bbc-7c0c-4784-98c7-6fccb4292e58

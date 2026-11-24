@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_idealSheafData_eq_of_forall_restrictIdeal_eq
 -- name    : FunctorialResolution.EmbeddedResolution.idealSheafData_eq_of_forall_restrictIdeal_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:48:27.932802+00:00
 -- url     : https://prove2.me/theorems/f1581ba4-33a7-4a36-a172-b767e2545201

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdicSurj_psi_surjective
 -- name    : GlobalTheory.AdicSurj.psi_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:54:33.608312+00:00
 -- url     : https://prove2.me/theorems/260da83a-2cc6-4aa0-b08d-23b059ce2162

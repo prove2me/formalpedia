@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SL_Final_eichIsom
 -- name    : Formalism.SL.Final.eichIsom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:11:50.227446+00:00
 -- url     : https://prove2.me/theorems/e1b31073-01a2-4bce-b18b-4325a59625c6

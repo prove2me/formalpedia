@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_one_sub_prime_cpow_neg_ne_zero
 -- name    : Formalism.ZeroFreeDirichlet.one_sub_prime_cpow_neg_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:43:14.381022+00:00
 -- url     : https://prove2.me/theorems/aacb2c24-a3aa-46fa-8a46-513325a4baef

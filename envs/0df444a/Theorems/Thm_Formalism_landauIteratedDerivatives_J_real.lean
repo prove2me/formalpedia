@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_landauIteratedDerivatives_J_real
 -- name    : Formalism.landauIteratedDerivatives.J_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:44:40.118821+00:00
 -- url     : https://prove2.me/theorems/c373d32b-2c80-4356-a8a4-7b7bdb856e35

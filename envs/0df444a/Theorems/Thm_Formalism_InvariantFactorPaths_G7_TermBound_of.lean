@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_TermBound_of
 -- name    : Formalism.InvariantFactorPaths.G7.TermBound_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:20.775697+00:00
 -- url     : https://prove2.me/theorems/46b6d030-e8f9-4bac-8638-33ef061d10dc

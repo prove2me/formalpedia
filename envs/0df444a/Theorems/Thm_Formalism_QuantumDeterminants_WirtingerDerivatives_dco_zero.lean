@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_WirtingerDerivatives_dco_zero
 -- name    : Formalism.QuantumDeterminants.WirtingerDerivatives.dco_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:18:37.126861+00:00
 -- url     : https://prove2.me/theorems/fdac0b71-8857-4d4c-8459-95f7200c2656

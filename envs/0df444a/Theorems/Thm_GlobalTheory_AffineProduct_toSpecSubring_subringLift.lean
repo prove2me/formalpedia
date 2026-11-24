@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineProduct_toSpecSubring_subringLift
 -- name    : GlobalTheory.AffineProduct.toSpecSubring_subringLift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:55:02.408026+00:00
 -- url     : https://prove2.me/theorems/a9129e2d-a094-45b7-b07e-bfddd76ed457

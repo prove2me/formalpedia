@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Alc_good_top_bot
 -- name    : GlobalTheory.Alc.good_top_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:55:58.989481+00:00
 -- url     : https://prove2.me/theorems/ab65e2b7-0485-4d42-8a07-bc054d780ea2

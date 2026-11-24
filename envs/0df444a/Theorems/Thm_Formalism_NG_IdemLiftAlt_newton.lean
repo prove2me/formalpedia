@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_IdemLiftAlt_newton
 -- name    : Formalism.NG.IdemLiftAlt.newton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:15:02.35832+00:00
 -- url     : https://prove2.me/theorems/283f0ecb-a1b4-4853-8d6d-8bb2a7bff4bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AugCot_map_comp
 -- name    : GlobalTheory.AugCot.map_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:46:24.735118+00:00
 -- url     : https://prove2.me/theorems/a3a171b5-1649-41d7-8344-910afdca8127

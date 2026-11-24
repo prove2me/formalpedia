@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AddLaw_negDiagY_self
 -- name    : GlobalTheory.AddLaw.negDiagY_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:53:49.447502+00:00
 -- url     : https://prove2.me/theorems/100c2812-204b-4cb8-856b-fc189cec5f56

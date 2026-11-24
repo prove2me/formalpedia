@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_transport_bc_mem
 -- name    : Formalism.UG.P.transport_bc_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:35:23.278152+00:00
 -- url     : https://prove2.me/theorems/4aa32dc4-a187-4b79-858d-5f0ddf3e3318

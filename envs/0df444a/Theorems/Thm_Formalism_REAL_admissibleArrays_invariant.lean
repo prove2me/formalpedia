@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_admissibleArrays_invariant
 -- name    : Formalism.REAL.admissibleArrays_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:32:50.736915+00:00
 -- url     : https://prove2.me/theorems/6077bae2-ad5e-4934-9f52-a4d7d033e4bf

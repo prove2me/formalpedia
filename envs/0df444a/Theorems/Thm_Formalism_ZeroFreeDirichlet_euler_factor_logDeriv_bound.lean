@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_euler_factor_logDeriv_bound
 -- name    : Formalism.ZeroFreeDirichlet.euler_factor_logDeriv_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:42:54.600848+00:00
 -- url     : https://prove2.me/theorems/5db97674-c6e4-4590-b678-4127664a7d17

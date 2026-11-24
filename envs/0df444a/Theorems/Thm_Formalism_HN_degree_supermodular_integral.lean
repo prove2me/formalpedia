@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_degree_supermodular_integral
 -- name    : Formalism.HN.degree_supermodular_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:58.103543+00:00
 -- url     : https://prove2.me/theorems/0902e2b5-d352-4d35-8efa-908f24415e60

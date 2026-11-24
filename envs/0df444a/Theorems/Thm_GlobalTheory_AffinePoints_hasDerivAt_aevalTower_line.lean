@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_hasDerivAt_aevalTower_line
 -- name    : GlobalTheory.AffinePoints.hasDerivAt_aevalTower_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:54:57.494942+00:00
 -- url     : https://prove2.me/theorems/43049853-cd94-4cb8-b060-b6dbf0fc04e4

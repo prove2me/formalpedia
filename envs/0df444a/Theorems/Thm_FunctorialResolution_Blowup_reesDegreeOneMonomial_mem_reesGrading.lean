@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_reesDegreeOneMonomial_mem_reesGrading
 -- name    : FunctorialResolution.Blowup.reesDegreeOneMonomial_mem_reesGrading
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:45:37.600093+00:00
 -- url     : https://prove2.me/theorems/da08d1ee-8b36-43db-b155-22c10c0eaba6

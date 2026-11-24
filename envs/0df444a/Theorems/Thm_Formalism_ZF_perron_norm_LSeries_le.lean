@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_perron_norm_LSeries_le
 -- name    : Formalism.ZF.perron_norm_LSeries_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:40:57.027707+00:00
 -- url     : https://prove2.me/theorems/767892cb-1447-472d-9dab-e99f7f7d168d

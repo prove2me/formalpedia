@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_perron_Fy_eq_LSeries
 -- name    : Formalism.ZF.perron_Fy_eq_LSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:41:34.288172+00:00
 -- url     : https://prove2.me/theorems/81d4373b-e61a-4d97-91fd-d6e735ebf497

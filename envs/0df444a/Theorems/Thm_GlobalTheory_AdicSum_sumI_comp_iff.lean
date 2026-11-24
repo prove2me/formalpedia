@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdicSum_sumI_comp_iff
 -- name    : GlobalTheory.AdicSum.sumI_comp_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:55:47.427047+00:00
 -- url     : https://prove2.me/theorems/9bf56f23-4e51-4d94-b68f-75e370bcc793

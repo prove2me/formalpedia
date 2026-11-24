@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_landauIteratedDerivatives_integrable_of_series
 -- name    : Formalism.landauIteratedDerivatives.integrable_of_series
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:46:13.860278+00:00
 -- url     : https://prove2.me/theorems/9148b8b6-bb1b-4fca-8745-bb38ccd4644f

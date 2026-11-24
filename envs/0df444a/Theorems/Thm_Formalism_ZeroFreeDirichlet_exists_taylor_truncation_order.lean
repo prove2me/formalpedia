@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_exists_taylor_truncation_order
 -- name    : Formalism.ZeroFreeDirichlet.exists_taylor_truncation_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:42:36.823412+00:00
 -- url     : https://prove2.me/theorems/7f0e61b6-14fb-4247-b5e6-61f8c8df1862

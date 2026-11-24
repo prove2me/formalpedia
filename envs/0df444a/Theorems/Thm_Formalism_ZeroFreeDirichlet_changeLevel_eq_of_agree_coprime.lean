@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_changeLevel_eq_of_agree_coprime
 -- name    : Formalism.ZeroFreeDirichlet.changeLevel_eq_of_agree_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:43:23.636822+00:00
 -- url     : https://prove2.me/theorems/87da6f84-61e6-41b8-b0e7-415a849774a7

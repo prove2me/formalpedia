@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_cob_apply_galois
 -- name    : Formalism.WeaklyAdmissibleFiltrations.cob_apply_galois
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:40:30.033791+00:00
 -- url     : https://prove2.me/theorems/e1147cb4-4423-4cbd-8985-ecf60ae9d445

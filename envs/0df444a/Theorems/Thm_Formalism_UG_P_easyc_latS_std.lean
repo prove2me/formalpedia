@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_easyc_latS_std
 -- name    : Formalism.UG.P.easyc_latS_std
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:11:26.121178+00:00
 -- url     : https://prove2.me/theorems/a4d891ce-0205-4870-b6db-2fe91916892c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_perron_integrand_residue_real_zero
 -- name    : Formalism.ZeroFreeDirichlet.perron_integrand_residue_real_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:44:47.402805+00:00
 -- url     : https://prove2.me/theorems/21f7d068-c86e-4a0e-a373-256afe5e6a39

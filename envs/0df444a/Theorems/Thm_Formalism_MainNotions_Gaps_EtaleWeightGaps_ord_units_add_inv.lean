@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_EtaleWeightGaps_ord_units_add_inv
 -- name    : Formalism.MainNotions.Gaps.EtaleWeightGaps.ord_units_add_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:41:34.473971+00:00
 -- url     : https://prove2.me/theorems/91028f7f-bada-4fe0-8c42-30cb3d14eef3

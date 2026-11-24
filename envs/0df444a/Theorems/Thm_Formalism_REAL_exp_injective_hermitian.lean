@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_exp_injective_hermitian
 -- name    : Formalism.REAL.exp_injective_hermitian
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:06:12.701805+00:00
 -- url     : https://prove2.me/theorems/123a948d-db29-43a2-9f20-3ef144f42f93

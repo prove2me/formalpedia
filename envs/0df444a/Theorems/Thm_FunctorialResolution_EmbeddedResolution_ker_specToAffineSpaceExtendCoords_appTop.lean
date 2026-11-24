@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_ker_specToAffineSpaceExtendCoords_appTop
 -- name    : FunctorialResolution.EmbeddedResolution.ker_specToAffineSpaceExtendCoords_appTop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:47:48.432833+00:00
 -- url     : https://prove2.me/theorems/c8d0c064-19eb-4efc-b38d-6bf053f4be32

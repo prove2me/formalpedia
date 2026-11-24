@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_subTopBot
 -- name    : Formalism.WeaklyAdmissibleFiltrations.subTopBot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:39:56.666778+00:00
 -- url     : https://prove2.me/theorems/43c48ca4-8dbd-4416-a3fb-0a6ae4d2dc0f

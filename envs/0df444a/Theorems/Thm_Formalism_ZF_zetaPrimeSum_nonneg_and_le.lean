@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_zetaPrimeSum_nonneg_and_le
 -- name    : Formalism.ZF.zetaPrimeSum_nonneg_and_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:40:47.619181+00:00
 -- url     : https://prove2.me/theorems/83d6ef99-707d-4102-b430-32c659d86655

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_complex_parts_mem_lie_algebra_holds
 -- name    : Formalism.REAL.complex_parts_mem_lie_algebra_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:42:45.776084+00:00
 -- url     : https://prove2.me/theorems/0c4f8554-1d8e-4904-9a8b-7edf9ffc3cd2

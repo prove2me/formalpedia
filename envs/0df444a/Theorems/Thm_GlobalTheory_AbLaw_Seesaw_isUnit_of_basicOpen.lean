@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_Seesaw_isUnit_of_basicOpen
 -- name    : GlobalTheory.AbLaw.Seesaw.isUnit_of_basicOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:52:06.705647+00:00
 -- url     : https://prove2.me/theorems/319acf7e-b1e5-4eae-b09d-1292fb73811b

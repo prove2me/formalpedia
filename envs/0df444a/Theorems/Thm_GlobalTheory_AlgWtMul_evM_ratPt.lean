@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AlgWtMul_evM_ratPt
 -- name    : GlobalTheory.AlgWtMul.evM_ratPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:57:17.959874+00:00
 -- url     : https://prove2.me/theorems/8f58c990-f0b1-480d-a468-4a009c8724e7

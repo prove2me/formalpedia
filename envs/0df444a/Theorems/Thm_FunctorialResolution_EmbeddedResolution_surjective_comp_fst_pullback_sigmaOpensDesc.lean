@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_surjective_comp_fst_pullback_sigmaOpensDesc
 -- name    : FunctorialResolution.EmbeddedResolution.surjective_comp_fst_pullback_sigmaOpensDesc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:49:08.441836+00:00
 -- url     : https://prove2.me/theorems/97adcf40-f98e-4c74-a584-f602eee73f01

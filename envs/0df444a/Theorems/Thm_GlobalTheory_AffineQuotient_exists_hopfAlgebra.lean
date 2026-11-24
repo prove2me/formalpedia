@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineQuotient_exists_hopfAlgebra
 -- name    : GlobalTheory.AffineQuotient.exists_hopfAlgebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:54:52.96487+00:00
 -- url     : https://prove2.me/theorems/aa9991f9-526a-4a64-bd6c-65054314cdae

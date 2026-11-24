@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_CubeGen_triv_pull_iff
 -- name    : GlobalTheory.AbLaw.CubeGen.triv_pull_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:51:04.20454+00:00
 -- url     : https://prove2.me/theorems/c46b38c6-9c5e-466b-bea5-d1c91c61f26f

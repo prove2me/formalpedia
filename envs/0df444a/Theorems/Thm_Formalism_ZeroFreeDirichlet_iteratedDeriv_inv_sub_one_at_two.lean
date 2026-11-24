@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_iteratedDeriv_inv_sub_one_at_two
 -- name    : Formalism.ZeroFreeDirichlet.iteratedDeriv_inv_sub_one_at_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:42:48.898112+00:00
 -- url     : https://prove2.me/theorems/c407aa0c-279c-4ed7-837a-54c192c59f3e

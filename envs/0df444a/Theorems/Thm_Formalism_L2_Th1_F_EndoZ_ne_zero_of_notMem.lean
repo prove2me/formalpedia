@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_EndoZ_ne_zero_of_notMem
 -- name    : Formalism.L2.Th1.F.EndoZ.ne_zero_of_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:38:57.266442+00:00
 -- url     : https://prove2.me/theorems/aa684a0a-5165-4902-af77-ba30608590a7

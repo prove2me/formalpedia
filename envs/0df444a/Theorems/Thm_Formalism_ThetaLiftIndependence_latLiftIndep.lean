@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ThetaLiftIndependence_latLiftIndep
 -- name    : Formalism.ThetaLiftIndependence.latLiftIndep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:37:26.979798+00:00
 -- url     : https://prove2.me/theorems/02bdac50-b2d3-46ca-9fed-38b557f56bb0

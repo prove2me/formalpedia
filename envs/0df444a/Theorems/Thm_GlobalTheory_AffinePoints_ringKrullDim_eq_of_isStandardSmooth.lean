@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_ringKrullDim_eq_of_isStandardSmooth
 -- name    : GlobalTheory.AffinePoints.ringKrullDim_eq_of_isStandardSmooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:54:39.941972+00:00
 -- url     : https://prove2.me/theorems/87df7898-808a-46b9-9293-cf3b16026060

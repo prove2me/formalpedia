@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_log_le_of_le_exp_log_conductor
 -- name    : Formalism.ZeroFreeDirichlet.log_le_of_le_exp_log_conductor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:42:42.985273+00:00
 -- url     : https://prove2.me/theorems/b6efcdb3-6d7b-4c29-94db-ebbbc4e0de4d

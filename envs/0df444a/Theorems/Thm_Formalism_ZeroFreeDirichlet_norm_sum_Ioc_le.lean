@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_norm_sum_Ioc_le
 -- name    : Formalism.ZeroFreeDirichlet.norm_sum_Ioc_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:42:56.793849+00:00
 -- url     : https://prove2.me/theorems/effc3c51-f710-4167-bd0a-6a8b1211c35b

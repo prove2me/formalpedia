@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdeleIdempotents_exists_orthogonal_idempotents_of_sum_mul_eq_one
 -- name    : GlobalTheory.AdeleIdempotents.exists_orthogonal_idempotents_of_sum_mul_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:53:40.322814+00:00
 -- url     : https://prove2.me/theorems/30385902-cd19-42dd-ba8b-0d30525222db

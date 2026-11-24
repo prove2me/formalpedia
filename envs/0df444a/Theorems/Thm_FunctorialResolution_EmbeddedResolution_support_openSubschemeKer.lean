@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_support_openSubschemeKer
 -- name    : FunctorialResolution.EmbeddedResolution.support_openSubschemeKer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:48:54.947837+00:00
 -- url     : https://prove2.me/theorems/e61b9327-186a-48c3-a093-c80579e2e89d

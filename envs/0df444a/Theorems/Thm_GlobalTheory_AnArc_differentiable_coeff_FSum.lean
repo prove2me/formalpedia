@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_differentiable_coeff_FSum
 -- name    : GlobalTheory.AnArc.differentiable_coeff_FSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:56:47.72909+00:00
 -- url     : https://prove2.me/theorems/df238d9c-4a7c-49f2-a28c-bad9d154c4e7

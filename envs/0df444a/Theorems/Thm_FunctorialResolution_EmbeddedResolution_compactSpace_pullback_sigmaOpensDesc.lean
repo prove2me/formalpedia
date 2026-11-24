@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_compactSpace_pullback_sigmaOpensDesc
 -- name    : FunctorialResolution.EmbeddedResolution.compactSpace_pullback_sigmaOpensDesc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:46:44.214592+00:00
 -- url     : https://prove2.me/theorems/7e179373-47cf-460c-b7a6-55f7121714e2

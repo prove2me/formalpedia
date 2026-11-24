@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdicSum_sumI_add
 -- name    : GlobalTheory.AdicSum.sumI_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:55:27.351406+00:00
 -- url     : https://prove2.me/theorems/7fca8a6c-b079-4d0a-9b59-85f032fef762

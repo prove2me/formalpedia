@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_growthIter
 -- name    : Formalism.REAL.growthIter
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:58:13.992662+00:00
 -- url     : https://prove2.me/theorems/49bd39f4-8ec4-4d1e-b5af-73a321c62ba9

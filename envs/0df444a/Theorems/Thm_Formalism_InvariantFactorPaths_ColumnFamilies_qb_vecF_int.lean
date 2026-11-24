@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qb_vecF_int
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qb_vecF_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:47:03.536455+00:00
 -- url     : https://prove2.me/theorems/a4308f04-41fd-4eb8-8dd8-3f86f798d39b

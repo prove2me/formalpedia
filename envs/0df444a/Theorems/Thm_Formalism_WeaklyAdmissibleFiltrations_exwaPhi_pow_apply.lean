@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_exwaPhi_pow_apply
 -- name    : Formalism.WeaklyAdmissibleFiltrations.exwaPhi_pow_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:39:23.319476+00:00
 -- url     : https://prove2.me/theorems/e8a899d8-e3bb-4d2b-8c0d-3ceadff2902a

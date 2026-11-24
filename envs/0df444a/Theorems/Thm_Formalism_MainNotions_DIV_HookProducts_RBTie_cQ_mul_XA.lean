@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_DIV_HookProducts_RBTie_cQ_mul_XA
 -- name    : Formalism.MainNotions.DIV.HookProducts.RBTie.cQ_mul_XA
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:17:35.215914+00:00
 -- url     : https://prove2.me/theorems/c0d09355-d2e3-4164-b909-f93a3c99eb32

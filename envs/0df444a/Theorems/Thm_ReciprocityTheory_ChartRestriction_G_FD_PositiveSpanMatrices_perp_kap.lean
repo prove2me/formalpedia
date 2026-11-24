@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_PositiveSpanMatrices_perp_kap
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.PositiveSpanMatrices.perp_kap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:25:50.7027+00:00
 -- url     : https://prove2.me/theorems/d62026a1-cc8d-4356-b80f-e136c22d2ac1

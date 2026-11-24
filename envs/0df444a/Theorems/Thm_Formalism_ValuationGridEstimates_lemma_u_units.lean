@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ValuationGridEstimates_lemma_u_units
 -- name    : Formalism.ValuationGridEstimates.lemma_u_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:38:23.312363+00:00
 -- url     : https://prove2.me/theorems/ac8940d4-de2f-440d-ba3c-87b11488fa2d

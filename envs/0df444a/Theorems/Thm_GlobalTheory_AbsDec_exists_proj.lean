@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbsDec_exists_proj
 -- name    : GlobalTheory.AbsDec.exists_proj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:52:13.213119+00:00
 -- url     : https://prove2.me/theorems/78ce5e6d-6f80-4302-b394-33235374a062

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AinfXi_isUnit_of_coeff_zero
 -- name    : GlobalTheory.AinfXi.isUnit_of_coeff_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:56:55.6778+00:00
 -- url     : https://prove2.me/theorems/99fad730-f097-4529-a14d-13677e8ba7de

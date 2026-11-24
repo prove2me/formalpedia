@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_P_CountO_hyp_count
 -- name    : Formalism.SLP.P.CountO.hyp_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:28:48.600359+00:00
 -- url     : https://prove2.me/theorems/4fb47104-8b54-4981-95de-7f4c9d30e654

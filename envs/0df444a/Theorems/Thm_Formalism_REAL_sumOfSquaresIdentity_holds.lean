@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_sumOfSquaresIdentity_holds
 -- name    : Formalism.REAL.sumOfSquaresIdentity_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:09:16.356618+00:00
 -- url     : https://prove2.me/theorems/192581af-0b30-4513-914b-5a3ae3595faf

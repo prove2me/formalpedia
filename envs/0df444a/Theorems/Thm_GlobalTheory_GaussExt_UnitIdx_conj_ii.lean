@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussExt_UnitIdx_conj_ii
 -- name    : GlobalTheory.GaussExt.UnitIdx.conj_ii
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:49:02.592689+00:00
 -- url     : https://prove2.me/theorems/f3c606bb-80c9-4d0a-a622-a9bf03395aba

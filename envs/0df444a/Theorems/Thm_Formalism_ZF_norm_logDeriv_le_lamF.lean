@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_norm_logDeriv_le_lamF
 -- name    : Formalism.ZF.norm_logDeriv_le_lamF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:41:48.101834+00:00
 -- url     : https://prove2.me/theorems/d4745369-9283-42d3-8b0a-598ca9c4f409

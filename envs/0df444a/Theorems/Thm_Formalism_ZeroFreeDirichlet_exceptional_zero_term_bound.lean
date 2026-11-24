@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_exceptional_zero_term_bound
 -- name    : Formalism.ZeroFreeDirichlet.exceptional_zero_term_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:43:19.979805+00:00
 -- url     : https://prove2.me/theorems/25528f87-ea53-4f98-a6e6-bf511277c888

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_chebyshev_character_trivial_bound
 -- name    : Formalism.ZeroFreeDirichlet.chebyshev_character_trivial_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:43:23.05264+00:00
 -- url     : https://prove2.me/theorems/d1cf0a70-f88a-4ffd-b59b-43cb94f6d17d

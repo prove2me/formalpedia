@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_rttRelation
 -- name    : Formalism.REAL.rttRelation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:24:50.919899+00:00
 -- url     : https://prove2.me/theorems/75b393d2-9d11-45f5-9a23-834c1b4c6b30

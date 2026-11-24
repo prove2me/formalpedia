@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussValuationUniqueness_exists_smul_of_line
 -- name    : GaussValuationUniqueness.exists_smul_of_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:50:40.178815+00:00
 -- url     : https://prove2.me/theorems/52212102-9196-4fcf-b9bf-8165067f3227

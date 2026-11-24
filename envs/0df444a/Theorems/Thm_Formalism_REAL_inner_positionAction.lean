@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_inner_positionAction
 -- name    : Formalism.REAL.inner_positionAction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:23:25.146431+00:00
 -- url     : https://prove2.me/theorems/1236b56e-0115-42a6-b8c8-a521bba8af0b

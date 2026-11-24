@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_YangianSpanCharacter_P_planeWaveIntertwining
 -- name    : Formalism.YangianSpanCharacter.P.planeWaveIntertwining
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:39:27.754013+00:00
 -- url     : https://prove2.me/theorems/67e2c67b-f1be-4500-9fe0-17a6805796fa

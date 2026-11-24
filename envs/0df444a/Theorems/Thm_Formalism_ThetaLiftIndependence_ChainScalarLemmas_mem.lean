@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ThetaLiftIndependence_ChainScalarLemmas_mem
 -- name    : Formalism.ThetaLiftIndependence.ChainScalarLemmas.mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:44:30.022188+00:00
 -- url     : https://prove2.me/theorems/c8d2fe61-ba33-41ee-b2be-70ea3999737e

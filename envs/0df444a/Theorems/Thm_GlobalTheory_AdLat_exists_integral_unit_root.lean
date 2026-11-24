@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_exists_integral_unit_root
 -- name    : GlobalTheory.AdLat.exists_integral_unit_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:54:26.300478+00:00
 -- url     : https://prove2.me/theorems/9189770f-a35a-4dcc-aa13-6aace1a66f20

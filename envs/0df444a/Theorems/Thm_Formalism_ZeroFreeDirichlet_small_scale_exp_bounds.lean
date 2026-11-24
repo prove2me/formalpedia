@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_small_scale_exp_bounds
 -- name    : Formalism.ZeroFreeDirichlet.small_scale_exp_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:44:25.694057+00:00
 -- url     : https://prove2.me/theorems/49283726-2dad-4074-90b8-d925710b163c

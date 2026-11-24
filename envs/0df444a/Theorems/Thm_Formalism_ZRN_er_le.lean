@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZRN_er_le
 -- name    : Formalism.ZRN.er_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:43:14.583584+00:00
 -- url     : https://prove2.me/theorems/3430fab1-27b7-4ba6-aa53-1ea7d91c43ac

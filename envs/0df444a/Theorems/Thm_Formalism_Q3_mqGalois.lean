@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_mqGalois
 -- name    : Formalism.Q3.mqGalois
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:40:43.061289+00:00
 -- url     : https://prove2.me/theorems/051f0e33-ff1b-4422-84fb-d5606fcc09b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_TrPow_diag
 -- name    : Formalism.REAL.TrPow_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:19:55.6852+00:00
 -- url     : https://prove2.me/theorems/32f59766-7d79-4a0d-a49a-fd16646372da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EtaleCoordinates_mapCoeffAlgebra_isScalarTower
 -- name    : FunctorialResolution.EmbeddedResolution.EtaleCoordinates.mapCoeffAlgebra_isScalarTower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:45:59.516029+00:00
 -- url     : https://prove2.me/theorems/58c11a8f-d991-4643-8d5d-33ed03ef13dd

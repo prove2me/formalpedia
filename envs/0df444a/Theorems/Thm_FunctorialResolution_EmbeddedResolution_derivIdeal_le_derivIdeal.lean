@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_derivIdeal_le_derivIdeal
 -- name    : FunctorialResolution.EmbeddedResolution.derivIdeal_le_derivIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:46:37.403378+00:00
 -- url     : https://prove2.me/theorems/900b948b-755b-40d8-9936-25388421bc3a

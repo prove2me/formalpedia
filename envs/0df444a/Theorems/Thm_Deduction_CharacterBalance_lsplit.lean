@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_CharacterBalance_lsplit
 -- name    : Deduction.CharacterBalance.lsplit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:33:52.697805+00:00
 -- url     : https://prove2.me/theorems/5c7942ae-c86b-4ced-90bc-807ee10182d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_exists_le_tuningWeight_eq_mul
 -- name    : FunctorialResolution.EmbeddedResolution.exists_le_tuningWeight_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:47:02.480041+00:00
 -- url     : https://prove2.me/theorems/28bf19ec-9057-4267-aa1f-9cc3dcf3870f

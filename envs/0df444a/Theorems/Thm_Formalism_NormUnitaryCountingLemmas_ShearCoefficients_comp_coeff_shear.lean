@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_ShearCoefficients_comp_coeff_shear
 -- name    : Formalism.NormUnitaryCountingLemmas.ShearCoefficients.comp_coeff_shear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:17:48.402799+00:00
 -- url     : https://prove2.me/theorems/f8cf19aa-5434-47bc-a4b5-7802ec1e1951

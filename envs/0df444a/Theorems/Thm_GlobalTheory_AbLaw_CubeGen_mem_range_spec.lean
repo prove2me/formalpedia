@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_CubeGen_mem_range_spec
 -- name    : GlobalTheory.AbLaw.CubeGen.mem_range_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:50:55.178646+00:00
 -- url     : https://prove2.me/theorems/497d5617-4015-4291-92b6-e641f289364b

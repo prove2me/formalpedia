@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_derivIdeal_pow_succ_le_pow
 -- name    : FunctorialResolution.EmbeddedResolution.derivIdeal_pow_succ_le_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:46:45.561375+00:00
 -- url     : https://prove2.me/theorems/91a7af19-ce52-4323-a1d5-906be9488426

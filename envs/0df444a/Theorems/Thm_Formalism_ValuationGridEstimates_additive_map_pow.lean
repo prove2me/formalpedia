@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ValuationGridEstimates_additive_map_pow
 -- name    : Formalism.ValuationGridEstimates.additive_map_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:38:34.122859+00:00
 -- url     : https://prove2.me/theorems/03e89b11-55e5-406d-a5c5-9ef93cc857ca

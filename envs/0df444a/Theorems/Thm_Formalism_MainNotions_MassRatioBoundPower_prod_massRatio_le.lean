@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_MassRatioBoundPower_prod_massRatio_le
 -- name    : Formalism.MainNotions.MassRatioBoundPower.prod_massRatio_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:17:41.297899+00:00
 -- url     : https://prove2.me/theorems/0b0b99f7-2c86-43a7-a624-18236b78413e

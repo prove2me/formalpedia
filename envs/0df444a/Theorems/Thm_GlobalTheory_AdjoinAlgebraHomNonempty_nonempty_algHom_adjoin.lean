@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdjoinAlgebraHomNonempty_nonempty_algHom_adjoin
 -- name    : GlobalTheory.AdjoinAlgebraHomNonempty.nonempty_algHom_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:54:38.890857+00:00
 -- url     : https://prove2.me/theorems/7068b141-5188-466d-b7d6-4d395319651a

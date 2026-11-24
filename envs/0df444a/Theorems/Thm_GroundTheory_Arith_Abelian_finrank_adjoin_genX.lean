@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_finrank_adjoin_genX
 -- name    : GroundTheory.Arith.Abelian.finrank_adjoin_genX
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:35:31.333012+00:00
 -- url     : https://prove2.me/theorems/1fa3d4d1-8929-4065-9c68-d5d5ff4545bc

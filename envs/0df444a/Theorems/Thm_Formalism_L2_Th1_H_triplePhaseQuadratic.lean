@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_triplePhaseQuadratic
 -- name    : Formalism.L2.Th1.H.triplePhaseQuadratic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:39:02.427934+00:00
 -- url     : https://prove2.me/theorems/4c995e1c-771c-4674-8c53-65bc23e186d7

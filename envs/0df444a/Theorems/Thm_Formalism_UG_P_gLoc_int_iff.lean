@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_gLoc_int_iff
 -- name    : Formalism.UG.P.gLoc_int_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:32:09.560869+00:00
 -- url     : https://prove2.me/theorems/539e834f-d047-46bc-9fad-cd269f8c197a

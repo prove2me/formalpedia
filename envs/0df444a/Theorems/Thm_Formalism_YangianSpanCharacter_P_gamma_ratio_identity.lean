@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_YangianSpanCharacter_P_gamma_ratio_identity
 -- name    : Formalism.YangianSpanCharacter.P.gamma_ratio_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:39:09.474166+00:00
 -- url     : https://prove2.me/theorems/5b4ce93d-a119-4f47-850e-0d525fc2d960

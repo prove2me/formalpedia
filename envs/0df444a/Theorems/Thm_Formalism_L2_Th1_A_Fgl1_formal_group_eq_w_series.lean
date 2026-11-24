@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Fgl1_formal_group_eq_w_series
 -- name    : Formalism.L2.Th1.A.Fgl1.formal_group_eq_w_series
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:01:16.344303+00:00
 -- url     : https://prove2.me/theorems/fa8a8a28-3521-4fd0-b62d-88c19f0a23ea

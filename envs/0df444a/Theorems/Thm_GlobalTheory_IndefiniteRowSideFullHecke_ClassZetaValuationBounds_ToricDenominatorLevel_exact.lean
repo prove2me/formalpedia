@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_ClassZetaValuationBounds_ToricDenominatorLevel_exact
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.ClassZetaValuationBounds.ToricDenominatorLevel.exact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:45:42.579048+00:00
 -- url     : https://prove2.me/theorems/186942a4-dced-4159-be2c-9eb043aa6f0f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_iteratedDeriv_lseries_alternating_nonneg
 -- name    : Formalism.ZeroFreeDirichlet.iteratedDeriv_lseries_alternating_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:43:24.217973+00:00
 -- url     : https://prove2.me/theorems/24435b6f-2b45-4890-a220-c20dbd5b9927

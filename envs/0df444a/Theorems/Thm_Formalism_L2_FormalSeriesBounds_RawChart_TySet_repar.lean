@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RawChart_TySet_repar
 -- name    : Formalism.L2.FormalSeriesBounds.RawChart.TySet_repar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:35:04.512821+00:00
 -- url     : https://prove2.me/theorems/fe0c492f-0f9a-4aee-81fc-0d312b69006e

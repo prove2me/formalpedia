@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_compact_casimir_positions_one
 -- name    : Formalism.REAL.compact_casimir_positions_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:22:04.740598+00:00
 -- url     : https://prove2.me/theorems/a20c4a99-4426-421e-b719-366b5b89dcf9

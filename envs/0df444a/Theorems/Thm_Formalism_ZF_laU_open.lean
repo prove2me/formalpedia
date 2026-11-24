@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_laU_open
 -- name    : Formalism.ZF.laU_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:41:47.014333+00:00
 -- url     : https://prove2.me/theorems/03dfee6f-bf09-4c4a-bc3b-0fc50c2c1096

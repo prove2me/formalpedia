@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planarRAMStep_eq_execInstr
 -- name    : WilliamsonShmoys.planarRAMStep_eq_execInstr
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-24T11:45:51.203861+00:00
 -- url     : https://prove2.me/theorems/9f94b4ea-cf54-45d1-8ca1-229b491474af

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndBCNab_map_DmonOf
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndBCNab.map_DmonOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:57:40.368368+00:00
 -- url     : https://prove2.me/theorems/6bf2db4f-f118-46f9-8158-45abd3b9f018

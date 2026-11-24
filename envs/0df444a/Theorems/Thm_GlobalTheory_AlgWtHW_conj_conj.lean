@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AlgWtHW_conj_conj
 -- name    : GlobalTheory.AlgWtHW.conj_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:56:29.133799+00:00
 -- url     : https://prove2.me/theorems/70cc672a-6baf-4f6e-80c1-78b0ea8c76bb

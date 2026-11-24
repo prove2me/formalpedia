@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_character_convolution_eq
 -- name    : Formalism.ZeroFreeDirichlet.character_convolution_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:43:22.516329+00:00
 -- url     : https://prove2.me/theorems/7fa63b3b-9459-4a4e-9bc9-ce500039d8ad

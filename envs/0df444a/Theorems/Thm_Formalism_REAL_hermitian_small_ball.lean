@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_hermitian_small_ball
 -- name    : Formalism.REAL.hermitian_small_ball
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:34:24.264855+00:00
 -- url     : https://prove2.me/theorems/cb53c58d-7f51-4ece-80c4-e44af28fd3c2

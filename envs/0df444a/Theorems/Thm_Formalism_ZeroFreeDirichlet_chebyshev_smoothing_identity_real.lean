@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_chebyshev_smoothing_identity_real
 -- name    : Formalism.ZeroFreeDirichlet.chebyshev_smoothing_identity_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:42:34.555802+00:00
 -- url     : https://prove2.me/theorems/96cf280c-5cd7-4664-9820-54a6a8e683fc

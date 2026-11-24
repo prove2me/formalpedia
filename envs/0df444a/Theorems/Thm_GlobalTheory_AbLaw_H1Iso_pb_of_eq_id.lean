@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_H1Iso_pb_of_eq_id
 -- name    : GlobalTheory.AbLaw.H1Iso.pb_of_eq_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:52:58.361812+00:00
 -- url     : https://prove2.me/theorems/8839523e-41a9-4c6e-9408-301227b33c30

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_derivIdeal_top
 -- name    : FunctorialResolution.EmbeddedResolution.derivIdeal_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:46:19.776396+00:00
 -- url     : https://prove2.me/theorems/bafa15d3-cc2b-4389-a9bb-46b1c34d4aef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_finite_cosets_in_doset
 -- name    : Formalism.UG.P.finite_cosets_in_doset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:20:17.930008+00:00
 -- url     : https://prove2.me/theorems/106106cb-6397-494f-a0c2-2aabfadf8970

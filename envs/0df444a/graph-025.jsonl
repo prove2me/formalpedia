@@ -39417,10 +39417,10 @@
 {"parent": "OAI.SharpPlanar.Numerical.dentry2_3_contains_g", "child": "OAIQ098G004", "via": ["solution", "statement"]}
 {"parent": "HybridXorLift_ParallelHybridAlg_cost", "child": "HybridXorLift_ParallelHybridAlg", "via": ["statement"]}
 {"parent": "WangRenyiEntropy.Noninteger.poissonization_equivalence", "child": "WangRenyiEntropy_Noninteger_SamplingExperiment", "via": ["statement"]}
-{"parent": "QueryDepthMIS.lemma_3_2", "child": "QueryDepthMIS_oneHopEvent", "via": ["statement"]}
-{"parent": "QueryDepthMIS.lemma_3_2", "child": "QueryDepthMIS_aliveSet", "via": ["statement"]}
-{"parent": "QueryDepthMIS.lemma_3_2", "child": "QueryDepthMIS_maxDegOn", "via": ["statement"]}
-{"parent": "QueryDepthMIS.lemma_3_2", "child": "QueryDepthMIS_condProb", "via": ["statement"]}
+{"parent": "QueryDepthMIS.lemma_3_2", "child": "QueryDepthMIS_oneHopEvent", "via": ["solution", "statement"]}
+{"parent": "QueryDepthMIS.lemma_3_2", "child": "QueryDepthMIS_aliveSet", "via": ["solution", "statement"]}
+{"parent": "QueryDepthMIS.lemma_3_2", "child": "QueryDepthMIS_maxDegOn", "via": ["solution", "statement"]}
+{"parent": "QueryDepthMIS.lemma_3_2", "child": "QueryDepthMIS_condProb", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.complexTranslation_action", "child": "OAI_NumberTheory_DirichletL_Eisenstein_HyperbolicVolume", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.complexTranslation_action", "child": "OAI_NumberTheory_DirichletL_CubicSieve_ArithmeticBins", "via": ["solution", "statement"]}
 {"parent": "OptimalAgnosticPAC.Learner.lemma_3_3", "child": "OptimalAgnosticPAC_Learner_Score", "via": ["solution", "statement"]}

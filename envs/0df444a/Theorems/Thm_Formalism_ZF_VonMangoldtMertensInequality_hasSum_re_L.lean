@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_VonMangoldtMertensInequality_hasSum_re_L
 -- name    : Formalism.ZF.VonMangoldtMertensInequality.hasSum_re_L
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:40:51.087011+00:00
 -- url     : https://prove2.me/theorems/326b0f66-5367-49de-9a12-dd41e21fc930

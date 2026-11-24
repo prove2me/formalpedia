@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_perron_left_line_bound
 -- name    : Formalism.ZeroFreeDirichlet.perron_left_line_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:44:25.089601+00:00
 -- url     : https://prove2.me/theorems/ce2b62e1-fc30-42c3-91c9-d3c3732dbb85

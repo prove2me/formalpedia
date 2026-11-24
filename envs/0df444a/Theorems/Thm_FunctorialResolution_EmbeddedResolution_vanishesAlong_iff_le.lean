@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_vanishesAlong_iff_le
 -- name    : FunctorialResolution.EmbeddedResolution.vanishesAlong_iff_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:50:10.491207+00:00
 -- url     : https://prove2.me/theorems/314c0c30-b850-440f-819d-01b6194c96b4

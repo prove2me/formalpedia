@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineOpenAgree_cst_pull
 -- name    : GlobalTheory.AffineOpenAgree.cst_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:55:13.754899+00:00
 -- url     : https://prove2.me/theorems/cab153dc-bd67-4e9b-b81d-f4929feda4bb

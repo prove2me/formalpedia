@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_spherical_chiDelta_mul
 -- name    : Formalism.UG.P.spherical_chiDelta_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:27:59.695971+00:00
 -- url     : https://prove2.me/theorems/9ee90cee-4485-4a62-9c67-65ff6edbb8ba

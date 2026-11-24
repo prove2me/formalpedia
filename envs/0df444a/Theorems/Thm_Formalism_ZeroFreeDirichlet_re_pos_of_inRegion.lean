@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_re_pos_of_inRegion
 -- name    : Formalism.ZeroFreeDirichlet.re_pos_of_inRegion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:44:01.916921+00:00
 -- url     : https://prove2.me/theorems/87e97986-9102-472e-a55b-542773ef3b21

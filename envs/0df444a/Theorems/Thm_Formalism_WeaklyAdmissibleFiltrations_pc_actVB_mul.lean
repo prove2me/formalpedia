@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_pc_actVB_mul
 -- name    : Formalism.WeaklyAdmissibleFiltrations.pc_actVB_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:39:36.610431+00:00
 -- url     : https://prove2.me/theorems/0f2b340f-160a-4693-a31a-aab3b9318edf

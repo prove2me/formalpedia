@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_wlocal_pivot
 -- name    : Formalism.UG.P.wlocal_pivot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:38:17.96056+00:00
 -- url     : https://prove2.me/theorems/901ded87-e122-42cc-aaac-c1bca1e4bc90

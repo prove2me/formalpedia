@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_low_k_dominant_holds
 -- name    : Formalism.QuantumDeterminants.low_k_dominant_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:19:55.055252+00:00
 -- url     : https://prove2.me/theorems/afa525a9-b2c3-4477-beec-1582f6027727

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_Scale_smul_mem_hat
 -- name    : GlobalTheory.AdLat.Scale.smul_mem_hat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:53:54.145854+00:00
 -- url     : https://prove2.me/theorems/4b983e02-3152-4bc6-97b2-42e5e018041b

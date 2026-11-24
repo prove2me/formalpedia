@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_CongrVAux_fwd
 -- name    : Formalism.FG.CongrVAux.fwd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:04:17.986199+00:00
 -- url     : https://prove2.me/theorems/70e77842-d3fa-48f6-93f1-0fcc6234940e

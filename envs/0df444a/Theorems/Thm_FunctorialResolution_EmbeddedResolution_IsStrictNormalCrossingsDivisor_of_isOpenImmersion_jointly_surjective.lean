@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_IsStrictNormalCrossingsDivisor_of_isOpenImmersion_jointly_surjective
 -- name    : FunctorialResolution.EmbeddedResolution.IsStrictNormalCrossingsDivisor.of_isOpenImmersion_jointly_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:45:53.522803+00:00
 -- url     : https://prove2.me/theorems/d818f321-fd36-4e29-8a4d-76bd31847d85

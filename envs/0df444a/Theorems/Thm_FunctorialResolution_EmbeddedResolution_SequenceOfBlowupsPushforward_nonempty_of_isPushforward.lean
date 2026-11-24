@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_SequenceOfBlowupsPushforward_nonempty_of_isPushforward
 -- name    : FunctorialResolution.EmbeddedResolution.SequenceOfBlowupsPushforward.nonempty_of_isPushforward
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:47:22.417185+00:00
 -- url     : https://prove2.me/theorems/432dddf5-16bb-4594-b26e-bbb4bfbc7e48

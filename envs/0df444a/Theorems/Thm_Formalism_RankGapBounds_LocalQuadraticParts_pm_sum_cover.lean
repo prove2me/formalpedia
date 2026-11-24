@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankGapBounds_LocalQuadraticParts_pm_sum_cover
 -- name    : Formalism.RankGapBounds.LocalQuadraticParts.pm_sum_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:26:01.426191+00:00
 -- url     : https://prove2.me/theorems/9b7e375e-08cf-48db-89fe-15fefe87404a

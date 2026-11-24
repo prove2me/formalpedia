@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_gNonneg_of
 -- name    : Formalism.QuantumDeterminants.gNonneg_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:18:32.429499+00:00
 -- url     : https://prove2.me/theorems/be2c6221-15c5-497f-ab6d-fec91c78d72f

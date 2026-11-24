@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_CharacterBalance_ld
 -- name    : Deduction.CharacterBalance.ld
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:45:47.014809+00:00
 -- url     : https://prove2.me/theorems/730e0296-57c7-459a-aca6-4be0c383880a

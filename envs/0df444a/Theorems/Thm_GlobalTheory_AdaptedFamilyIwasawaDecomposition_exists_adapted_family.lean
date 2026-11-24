@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdaptedFamilyIwasawaDecomposition_exists_adapted_family
 -- name    : GlobalTheory.AdaptedFamilyIwasawaDecomposition.exists_adapted_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:53:27.128835+00:00
 -- url     : https://prove2.me/theorems/7616693b-0627-4e8c-982b-eb4fb54793d7

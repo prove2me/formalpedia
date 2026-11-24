@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKCT_Fr_IsFr_ext
 -- name    : PositivityTheory.ThKCT.Fr.IsFr.ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:46:58.651863+00:00
 -- url     : https://prove2.me/theorems/c1adcf08-2d6c-416c-aa8a-0ee0328df6ce

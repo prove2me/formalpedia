@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_PositiveSpanMatrices_span_eq_of_mat
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.PositiveSpanMatrices.span_eq_of_mat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:44:41.046232+00:00
 -- url     : https://prove2.me/theorems/ce4403ac-0560-4d19-8e54-755a1be61ba6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_exp_signature_conj
 -- name    : Formalism.REAL.exp_signature_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:10.254143+00:00
 -- url     : https://prove2.me/theorems/e51088bb-6d60-4834-a75b-29c74eb42ad6

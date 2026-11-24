@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_cmValueConst_eq
 -- name    : GlobalTheory.CMVal.cmValueConst_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:06:36.838296+00:00
 -- url     : https://prove2.me/theorems/da292375-5a2c-47ae-886f-0066206f3910

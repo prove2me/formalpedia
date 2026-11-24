@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_surjective_comap_of_isIntegral
 -- name    : GlobalTheory.AffinePoints.surjective_comap_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:54:56.074402+00:00
 -- url     : https://prove2.me/theorems/2dd52e9c-75af-47fe-97fa-2be684ff2705

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_omEigen
 -- name    : Formalism.REAL.omEigen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:25:20.286197+00:00
 -- url     : https://prove2.me/theorems/f8f44173-c788-41be-946f-54c0cbaf5f51

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdaptedDet_isBaseChange
 -- name    : GlobalTheory.AdaptedDet.isBaseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:53:28.375607+00:00
 -- url     : https://prove2.me/theorems/64e83126-788f-4ce6-b409-59e53075c132

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_mvPolynomialEquivGlobalSections_basicOpen
 -- name    : FunctorialResolution.EmbeddedResolution.mvPolynomialEquivGlobalSections_basicOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:48:40.357777+00:00
 -- url     : https://prove2.me/theorems/d4f0d3a5-314d-4a75-9c49-16d75b037706

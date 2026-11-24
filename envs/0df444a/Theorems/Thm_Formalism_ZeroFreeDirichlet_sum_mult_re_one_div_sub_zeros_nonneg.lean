@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_sum_mult_re_one_div_sub_zeros_nonneg
 -- name    : Formalism.ZeroFreeDirichlet.sum_mult_re_one_div_sub_zeros_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:44:32.099466+00:00
 -- url     : https://prove2.me/theorems/a30711ae-d36a-4fc0-bb9c-4fb516a6fd0b

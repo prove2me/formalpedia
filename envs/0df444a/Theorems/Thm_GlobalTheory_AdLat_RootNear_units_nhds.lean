@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_RootNear_units_nhds
 -- name    : GlobalTheory.AdLat.RootNear.units_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:53:48.438518+00:00
 -- url     : https://prove2.me/theorems/0ff93feb-1a28-4617-83cd-636cfd07c825

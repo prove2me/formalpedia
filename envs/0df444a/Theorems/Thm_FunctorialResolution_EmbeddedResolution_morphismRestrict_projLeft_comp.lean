@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_morphismRestrict_projLeft_comp
 -- name    : FunctorialResolution.EmbeddedResolution.morphismRestrict_projLeft_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:47:48.908589+00:00
 -- url     : https://prove2.me/theorems/21434667-4212-4a8c-9845-f10e01226471

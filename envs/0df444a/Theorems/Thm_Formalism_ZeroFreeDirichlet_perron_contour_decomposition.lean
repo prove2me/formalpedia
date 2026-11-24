@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_perron_contour_decomposition
 -- name    : Formalism.ZeroFreeDirichlet.perron_contour_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:43:11.614467+00:00
 -- url     : https://prove2.me/theorems/9494e64f-8b62-4333-b1b0-bee483ab9047

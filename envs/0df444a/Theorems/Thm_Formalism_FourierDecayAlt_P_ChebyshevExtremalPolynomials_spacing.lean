@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ChebyshevExtremalPolynomials_spacing
 -- name    : Formalism.FourierDecayAlt.P.ChebyshevExtremalPolynomials.spacing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:57:59.876383+00:00
 -- url     : https://prove2.me/theorems/862e113d-b1bf-4a7a-a0e8-0baa3b31c7b0

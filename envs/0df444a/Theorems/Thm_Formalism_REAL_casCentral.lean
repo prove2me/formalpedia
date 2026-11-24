@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_casCentral
 -- name    : Formalism.REAL.casCentral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:57:29.000083+00:00
 -- url     : https://prove2.me/theorems/c86b1a94-c2b4-42b0-ba22-79cdb4dcebfc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_perFactor_ne_zero
 -- name    : GlobalTheory.AnArc.perFactor_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:57:10.333807+00:00
 -- url     : https://prove2.me/theorems/2a8e4b4a-45b3-4dc7-9f60-13694aae8dd4

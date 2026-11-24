@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_YangianSpanCharacter_P_isWeylTripleShiftModel
 -- name    : Formalism.YangianSpanCharacter.P.isWeylTripleShiftModel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:39:14.08105+00:00
 -- url     : https://prove2.me/theorems/62226c98-1230-476e-8490-43cfeec28da2

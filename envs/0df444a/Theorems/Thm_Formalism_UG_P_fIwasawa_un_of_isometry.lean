@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_fIwasawa_un_of_isometry
 -- name    : Formalism.UG.P.fIwasawa_un_of_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:24:43.536704+00:00
 -- url     : https://prove2.me/theorems/177ed189-ad48-4b86-9474-d7cc43aec6cf

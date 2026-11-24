@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_mqk_induction
 -- name    : Formalism.Q3.mqk_induction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:18:39.658803+00:00
 -- url     : https://prove2.me/theorems/b6d9eb5c-e2ec-42ec-a8c8-6cf8551909e8

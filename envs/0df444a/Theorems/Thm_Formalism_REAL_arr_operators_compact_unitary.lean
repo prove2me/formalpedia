@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_arr_operators_compact_unitary
 -- name    : Formalism.REAL.arr_operators_compact_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:20:14.935736+00:00
 -- url     : https://prove2.me/theorems/a5584f2c-b150-4074-982c-c122da0fc1e7

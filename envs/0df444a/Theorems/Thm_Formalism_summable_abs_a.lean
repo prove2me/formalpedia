@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_summable_abs_a
 -- name    : Formalism.summable_abs_a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:45:15.601635+00:00
 -- url     : https://prove2.me/theorems/9d4f70d2-f381-487d-807b-1db8591a6793

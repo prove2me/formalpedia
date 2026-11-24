@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AltCorank_finrank_inf_ker
 -- name    : GlobalTheory.AltCorank.finrank_inf_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:56:57.689821+00:00
 -- url     : https://prove2.me/theorems/a9bf8dee-c4e9-4d27-842d-83519bdf4a59

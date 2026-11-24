@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_zeroFactorization
 -- name    : Formalism.ZF.zeroFactorization
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:44:49.794411+00:00
 -- url     : https://prove2.me/theorems/f57874a6-690e-4b66-898b-04062b23e109

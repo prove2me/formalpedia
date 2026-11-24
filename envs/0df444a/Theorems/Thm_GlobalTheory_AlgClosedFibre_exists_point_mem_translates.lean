@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AlgClosedFibre_exists_point_mem_translates
 -- name    : GlobalTheory.AlgClosedFibre.exists_point_mem_translates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:56:19.009388+00:00
 -- url     : https://prove2.me/theorems/0736d48f-498a-4249-bcad-fcd6cb7817aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_compact_span_le_cyclic
 -- name    : Formalism.REAL.compact_span_le_cyclic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:22:12.873983+00:00
 -- url     : https://prove2.me/theorems/cbe6fb41-acce-4e85-8785-e610ed5a9e8c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_eulerDerivation_apply_mem_span
 -- name    : FunctorialResolution.EmbeddedResolution.eulerDerivation_apply_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:46:49.675134+00:00
 -- url     : https://prove2.me/theorems/1d9527a0-4af7-4388-8a95-4018aceb1f9d

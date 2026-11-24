@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_pht_window_sum_Ico_telescope
 -- name    : Formalism.WeaklyAdmissibleFiltrations.pht_window_sum_Ico_telescope
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:39:55.339468+00:00
 -- url     : https://prove2.me/theorems/f13c338f-3c87-40bb-893a-c77fa9627df1

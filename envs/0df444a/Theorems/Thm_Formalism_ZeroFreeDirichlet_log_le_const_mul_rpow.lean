@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_log_le_const_mul_rpow
 -- name    : Formalism.ZeroFreeDirichlet.log_le_const_mul_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:42:50.135831+00:00
 -- url     : https://prove2.me/theorems/054807f5-8956-4cec-9c63-1713cd14a9c3

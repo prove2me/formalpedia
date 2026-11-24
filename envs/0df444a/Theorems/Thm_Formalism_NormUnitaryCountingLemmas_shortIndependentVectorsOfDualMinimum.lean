@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_shortIndependentVectorsOfDualMinimum
 -- name    : Formalism.NormUnitaryCountingLemmas.shortIndependentVectorsOfDualMinimum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:18:18.762256+00:00
 -- url     : https://prove2.me/theorems/3cd58bc3-5951-429b-a4bd-89135e7e32af

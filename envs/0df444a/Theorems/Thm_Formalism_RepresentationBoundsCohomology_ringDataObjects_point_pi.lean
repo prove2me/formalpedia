@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_ringDataObjects_point_pi
 -- name    : Formalism.RepresentationBoundsCohomology.ringDataObjects.point_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:32:26.561799+00:00
 -- url     : https://prove2.me/theorems/329c3a06-11b2-453a-a65c-0dc0c6ee31be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_section_eq_zero_of_locally_zero
 -- name    : FunctorialResolution.EmbeddedResolution.section_eq_zero_of_locally_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:49:29.331736+00:00
 -- url     : https://prove2.me/theorems/5e8550b3-5bfd-4dc8-9fc5-e98c96d8fd35

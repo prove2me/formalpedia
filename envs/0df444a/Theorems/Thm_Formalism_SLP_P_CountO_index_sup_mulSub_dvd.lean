@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_P_CountO_index_sup_mulSub_dvd
 -- name    : Formalism.SLP.P.CountO.index_sup_mulSub_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:29:01.077225+00:00
 -- url     : https://prove2.me/theorems/a5fc0705-e1ff-4d4c-b8eb-f1e69907b2da

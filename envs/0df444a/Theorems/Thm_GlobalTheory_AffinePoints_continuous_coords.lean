@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_continuous_coords
 -- name    : GlobalTheory.AffinePoints.continuous_coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:54:35.251831+00:00
 -- url     : https://prove2.me/theorems/067aa242-2374-4242-b2b8-7c578d093892

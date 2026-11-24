@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_supInfFiniteVectorPairTransferV1
 -- name    : Kyprianou.Ch03.supInfFiniteVectorPairTransferV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T10:08:40.961026+00:00
 -- url     : https://prove2.me/theorems/f43702ec-6212-4a29-87c1-33ed9a25242a

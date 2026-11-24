@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_fSatake_cell_exists
 -- name    : Formalism.UG.P.fSatake_cell_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:32:05.369829+00:00
 -- url     : https://prove2.me/theorems/79658c37-e9e0-4af8-a5b0-4c40375f2bc9

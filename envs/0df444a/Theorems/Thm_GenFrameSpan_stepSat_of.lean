@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenFrameSpan_stepSat_of
 -- name    : GenFrameSpan.stepSat_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:50:25.066752+00:00
 -- url     : https://prove2.me/theorems/ff869412-6332-4f4e-b3c9-e22f733770e0

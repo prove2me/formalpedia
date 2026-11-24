@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_stdform_Q_eq
 -- name    : Formalism.UG.P.stdform_Q_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:36:46.313306+00:00
 -- url     : https://prove2.me/theorems/5eb68b4f-3080-42a3-98a0-be1958b3cc03

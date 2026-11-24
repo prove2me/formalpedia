@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_term_vonMangoldt_real
 -- name    : Formalism.ZF.term_vonMangoldt_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:41:31.535823+00:00
 -- url     : https://prove2.me/theorems/5801cb71-a200-441d-a249-16b9d1f3d691

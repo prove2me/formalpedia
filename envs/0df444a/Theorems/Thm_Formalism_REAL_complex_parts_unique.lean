@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_complex_parts_unique
 -- name    : Formalism.REAL.complex_parts_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:06:18.258099+00:00
 -- url     : https://prove2.me/theorems/ca2dbf8d-26af-4688-aee3-3e402ed5caa8

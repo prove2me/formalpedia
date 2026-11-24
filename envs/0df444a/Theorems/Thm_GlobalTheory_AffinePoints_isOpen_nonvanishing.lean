@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_isOpen_nonvanishing
 -- name    : GlobalTheory.AffinePoints.isOpen_nonvanishing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:55:05.343579+00:00
 -- url     : https://prove2.me/theorems/1a150a94-1f78-4d61-b286-688276406002

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_MulN_mulA_finite_flat_surjective_etale
 -- name    : GlobalTheory.AbLaw.MulN.mulA_finite_flat_surjective_etale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:52:02.193307+00:00
 -- url     : https://prove2.me/theorems/7eb24a77-92b3-4e99-bdce-aa579dcc06de

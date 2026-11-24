@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_Lam_monomial_blk
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.Lam_monomial_blk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:04:02.96485+00:00
 -- url     : https://prove2.me/theorems/eec24974-a47e-48eb-a71e-5a59c8dc1a46

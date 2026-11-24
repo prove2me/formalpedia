@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_stabilizer_standard_lattice
 -- name    : Formalism.UG.P.stabilizer_standard_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:19:58.838643+00:00
 -- url     : https://prove2.me/theorems/985e73db-485a-43f8-80cd-34dbe737edbf

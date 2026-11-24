@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_EndoZ_T_neg
 -- name    : Formalism.L2.Th1.F.EndoZ.T.neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:40:16.540422+00:00
 -- url     : https://prove2.me/theorems/d45ed197-ea18-4076-a5c4-5191c0d1e452

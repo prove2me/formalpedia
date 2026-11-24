@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_heckecomm_theta_inv
 -- name    : Formalism.UG.P.heckecomm_theta_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:25:24.938994+00:00
 -- url     : https://prove2.me/theorems/f7fac47c-8f35-49bb-91ee-b641f44efea6

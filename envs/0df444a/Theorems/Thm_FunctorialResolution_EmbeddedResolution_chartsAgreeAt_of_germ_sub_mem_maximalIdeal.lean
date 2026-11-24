@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_chartsAgreeAt_of_germ_sub_mem_maximalIdeal
 -- name    : FunctorialResolution.EmbeddedResolution.chartsAgreeAt_of_germ_sub_mem_maximalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:46:34.382959+00:00
 -- url     : https://prove2.me/theorems/ca141959-c82a-4d1c-9915-e05a9e677e65

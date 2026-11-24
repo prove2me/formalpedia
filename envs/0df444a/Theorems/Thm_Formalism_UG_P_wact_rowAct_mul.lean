@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_wact_rowAct_mul
 -- name    : Formalism.UG.P.wact_rowAct_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:38:12.0958+00:00
 -- url     : https://prove2.me/theorems/d22365de-477c-4e08-9e2e-86dae7d0e3d2

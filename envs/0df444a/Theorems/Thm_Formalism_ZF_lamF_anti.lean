@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_lamF_anti
 -- name    : Formalism.ZF.lamF_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:41:21.382466+00:00
 -- url     : https://prove2.me/theorems/b7b99172-1b8b-4021-b609-67863403def5

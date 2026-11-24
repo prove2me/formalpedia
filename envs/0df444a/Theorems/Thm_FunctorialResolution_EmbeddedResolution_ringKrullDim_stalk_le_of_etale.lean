@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_ringKrullDim_stalk_le_of_etale
 -- name    : FunctorialResolution.EmbeddedResolution.ringKrullDim_stalk_le_of_etale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:49:05.099978+00:00
 -- url     : https://prove2.me/theorems/f6f39d55-189f-4160-bebc-6036b3c5edec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_P_step
 -- name    : Formalism.SLP.P.step
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:50:25.414218+00:00
 -- url     : https://prove2.me/theorems/88c84fb3-8c42-4dbf-b638-3ea7835cdcbd

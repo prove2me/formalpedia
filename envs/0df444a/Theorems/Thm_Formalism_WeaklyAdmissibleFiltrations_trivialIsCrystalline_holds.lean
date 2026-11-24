@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_trivialIsCrystalline_holds
 -- name    : Formalism.WeaklyAdmissibleFiltrations.trivialIsCrystalline_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:40:30.77588+00:00
 -- url     : https://prove2.me/theorems/218aad5e-67bd-472f-bed3-2f7184da1ab6

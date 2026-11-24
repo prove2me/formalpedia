@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_one_mem_laU
 -- name    : Formalism.ZF.one_mem_laU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:41:36.659083+00:00
 -- url     : https://prove2.me/theorems/e300882b-e58e-49c5-8ccb-ff850c0f6942

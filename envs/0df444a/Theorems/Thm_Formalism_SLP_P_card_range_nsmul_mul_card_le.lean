@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_P_card_range_nsmul_mul_card_le
 -- name    : Formalism.SLP.P.card_range_nsmul_mul_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:10:13.389509+00:00
 -- url     : https://prove2.me/theorems/0ca52d1b-09c8-4a6c-95cf-32c3b88f77bb

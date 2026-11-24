@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_orbit_coset_finite
 -- name    : Formalism.UG.P.orbit_coset_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:26:52.709612+00:00
 -- url     : https://prove2.me/theorems/41ad6b31-44f9-43c8-862e-0c196e1f0720

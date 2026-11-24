@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_FSum_add
 -- name    : GlobalTheory.AnArc.FSum_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:56:52.648993+00:00
 -- url     : https://prove2.me/theorems/60acf8ba-6d67-4889-9eb6-9b2e8c45caee

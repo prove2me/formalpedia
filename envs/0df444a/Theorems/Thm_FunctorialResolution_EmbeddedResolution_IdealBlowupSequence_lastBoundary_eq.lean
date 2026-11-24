@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_IdealBlowupSequence_lastBoundary_eq
 -- name    : FunctorialResolution.EmbeddedResolution.IdealBlowupSequence.lastBoundary_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:44:57.790807+00:00
 -- url     : https://prove2.me/theorems/b81ca7a6-5b6e-4b55-8d02-58fbc2e96f9f

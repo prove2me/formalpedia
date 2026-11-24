@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZRN_e_ofReal
 -- name    : Formalism.ZRN.e_ofReal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:41:59.459846+00:00
 -- url     : https://prove2.me/theorems/45ab90b1-2e14-4f8e-b253-8aebada63b9b

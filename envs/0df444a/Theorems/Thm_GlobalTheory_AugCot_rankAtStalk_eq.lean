@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AugCot_rankAtStalk_eq
 -- name    : GlobalTheory.AugCot.rankAtStalk_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:45:11.154557+00:00
 -- url     : https://prove2.me/theorems/d4b11abd-0005-43da-8c24-119872b6c685

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_StandardSmoothLift_baseChangeEquiv_one_tmul
 -- name    : FunctorialResolution.EmbeddedResolution.StandardSmoothLift.baseChangeEquiv_one_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:47:44.519881+00:00
 -- url     : https://prove2.me/theorems/4b18632f-2387-4d6b-a262-ad5fa0dc6be8

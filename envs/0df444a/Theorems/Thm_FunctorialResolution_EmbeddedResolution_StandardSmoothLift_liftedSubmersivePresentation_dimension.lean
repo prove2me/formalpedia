@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_StandardSmoothLift_liftedSubmersivePresentation_dimension
 -- name    : FunctorialResolution.EmbeddedResolution.StandardSmoothLift.liftedSubmersivePresentation_dimension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:47:59.255786+00:00
 -- url     : https://prove2.me/theorems/922619ea-10f5-4b3c-8a24-6784ff315173

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdicValuationCountFactors_valuation_algebraMap_eq_count
 -- name    : GlobalTheory.AdicValuationCountFactors.valuation_algebraMap_eq_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:54:32.983116+00:00
 -- url     : https://prove2.me/theorems/a2ead07e-5637-436f-9ceb-8bb0ea14c991

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_Tree_exampleSingleLift_ne_bot
 -- name    : Formalism.L2.Indef.Tree.exampleSingleLift_ne_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:39:21.707304+00:00
 -- url     : https://prove2.me/theorems/f5369e31-24b6-4a6f-8be8-159db54cf0cf

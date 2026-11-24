@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_YangianSpanCharacter_P_symplectic_transpose_entry_zero_one
 -- name    : Formalism.YangianSpanCharacter.P.symplectic_transpose_entry_zero_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:39:24.00406+00:00
 -- url     : https://prove2.me/theorems/00284b32-6f93-4660-bfe7-8fc908d8c94f

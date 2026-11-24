@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_efg_L
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.efg_L
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:55:31.259484+00:00
 -- url     : https://prove2.me/theorems/e11f2c6b-14db-46f2-a164-cdeca955751d

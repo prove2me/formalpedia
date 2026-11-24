@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_csEasy_stdLat_eq_range
 -- name    : Formalism.UG.P.csEasy_stdLat_eq_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:32:06.363797+00:00
 -- url     : https://prove2.me/theorems/9cc73c67-b7d0-40a7-a409-75b133973ac1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_quantumDetHighestWeight_holds
 -- name    : Formalism.REAL.quantumDetHighestWeight_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:57:46.914402+00:00
 -- url     : https://prove2.me/theorems/c17cf8dd-3c66-4339-aa5f-37d4c8e4db30

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_stalkIdeal_vanishingIdeal_eq_maximalIdeal_of_isGenericPoint
 -- name    : FunctorialResolution.EmbeddedResolution.stalkIdeal_vanishingIdeal_eq_maximalIdeal_of_isGenericPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:49:15.938821+00:00
 -- url     : https://prove2.me/theorems/f993fa90-a0e3-4f23-882d-6ab54b0e3c29

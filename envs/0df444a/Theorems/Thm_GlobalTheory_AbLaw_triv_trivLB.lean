@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_triv_trivLB
 -- name    : GlobalTheory.AbLaw.triv_trivLB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:32:06.756986+00:00
 -- url     : https://prove2.me/theorems/e594bdd3-4a3d-4695-a0c3-5cc4fa0ccbeb

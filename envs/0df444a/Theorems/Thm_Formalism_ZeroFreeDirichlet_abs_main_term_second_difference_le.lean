@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_abs_main_term_second_difference_le
 -- name    : Formalism.ZeroFreeDirichlet.abs_main_term_second_difference_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:43:16.905185+00:00
 -- url     : https://prove2.me/theorems/450b4822-3b5b-4248-84c7-fbbb6b32a876

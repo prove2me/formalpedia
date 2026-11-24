@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_CubeOpen_eq_bot_of_small
 -- name    : GlobalTheory.AbLaw.CubeOpen.eq_bot_of_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:52:31.620839+00:00
 -- url     : https://prove2.me/theorems/86a488c4-2d7d-4401-bd3e-d8781adc4259

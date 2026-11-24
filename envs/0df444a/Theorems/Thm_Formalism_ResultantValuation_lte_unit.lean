@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ResultantValuation_lte_unit
 -- name    : Formalism.ResultantValuation.lte_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:27:20.954176+00:00
 -- url     : https://prove2.me/theorems/126cdb20-a2a2-4044-aa48-f2c8cb2d2442

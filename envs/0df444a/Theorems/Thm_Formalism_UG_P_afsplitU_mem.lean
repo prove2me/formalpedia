@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_afsplitU_mem
 -- name    : Formalism.UG.P.afsplitU_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:03:11.238368+00:00
 -- url     : https://prove2.me/theorems/a228ba30-a2ef-4068-9e02-e31768bfc4ad

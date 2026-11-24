@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_plusFlow_of
 -- name    : Formalism.L2.Th1.A.plusFlow_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:27.178803+00:00
 -- url     : https://prove2.me/theorems/7e6bb46d-dba4-40e3-8018-d20ba50dcf67

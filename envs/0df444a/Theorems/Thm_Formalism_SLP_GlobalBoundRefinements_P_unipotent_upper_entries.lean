@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_GlobalBoundRefinements_P_unipotent_upper_entries
 -- name    : Formalism.SLP.GlobalBoundRefinements.P.unipotent_upper_entries
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:58:50.153251+00:00
 -- url     : https://prove2.me/theorems/19c3949f-5674-435d-b680-0258a3e3aba2

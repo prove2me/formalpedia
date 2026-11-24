@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_finSec_eq_zero_of_cover
 -- name    : GlobalTheory.AbLaw.finSec_eq_zero_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:51:49.585951+00:00
 -- url     : https://prove2.me/theorems/ec7deef4-4c6b-46bf-9829-a37baea5b3c6

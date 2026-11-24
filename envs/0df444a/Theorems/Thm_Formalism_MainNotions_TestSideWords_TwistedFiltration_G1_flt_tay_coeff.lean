@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_TestSideWords_TwistedFiltration_G1_flt_tay_coeff
 -- name    : Formalism.MainNotions.TestSideWords.TwistedFiltration.G1.flt_tay_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:10:39.857929+00:00
 -- url     : https://prove2.me/theorems/cc6d98ae-b392-48f4-ab1c-5c7551b905da

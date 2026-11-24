@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeoProdPow_gauss
 -- name    : GeoProdPow.gauss
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:50:15.078059+00:00
 -- url     : https://prove2.me/theorems/53950b26-c386-4048-8783-1162a0fb3490

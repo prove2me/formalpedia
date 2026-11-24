@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_cube_mul_exp_le_poly_bound
 -- name    : Formalism.ZeroFreeDirichlet.cube_mul_exp_le_poly_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:42:55.879818+00:00
 -- url     : https://prove2.me/theorems/265a578c-5421-4ea6-9736-5db3ae4c9ca9

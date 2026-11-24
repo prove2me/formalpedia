@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_gInv
 -- name    : Formalism.QuantumDeterminants.gInv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:34:04.484099+00:00
 -- url     : https://prove2.me/theorems/468c7b89-6aaf-44d4-9b7b-1066d90fefc5

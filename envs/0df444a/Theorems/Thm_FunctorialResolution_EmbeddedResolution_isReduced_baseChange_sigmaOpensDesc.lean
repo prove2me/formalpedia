@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isReduced_baseChange_sigmaOpensDesc
 -- name    : FunctorialResolution.EmbeddedResolution.isReduced_baseChange_sigmaOpensDesc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:47:40.47613+00:00
 -- url     : https://prove2.me/theorems/55731116-4a5a-4836-8ae0-41b2b0f0aeef

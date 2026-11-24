@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_EF_n_y
 -- name    : GlobalTheory.AnArc.EF_n_y
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:57:33.540516+00:00
 -- url     : https://prove2.me/theorems/e96084e3-3b5f-424e-a498-d41377eb5a01

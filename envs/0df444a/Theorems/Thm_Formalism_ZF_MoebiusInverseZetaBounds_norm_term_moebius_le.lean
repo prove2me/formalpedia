@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_MoebiusInverseZetaBounds_norm_term_moebius_le
 -- name    : Formalism.ZF.MoebiusInverseZetaBounds.norm_term_moebius_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:41:48.888736+00:00
 -- url     : https://prove2.me/theorems/f4cf8278-7674-4d51-972a-2e2864252d81

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_isCompact_units_of_unitary
 -- name    : Formalism.UG.P.isCompact_units_of_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:45:10.340803+00:00
 -- url     : https://prove2.me/theorems/84b8d860-033c-4b33-927b-cfb66ac2c4a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankGapBounds_WeightedMeanData_umean_le_comb
 -- name    : Formalism.RankGapBounds.WeightedMeanData.umean_le_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:25:57.103225+00:00
 -- url     : https://prove2.me/theorems/925227ec-1be0-424e-8e5b-b8a1a22c788b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_derivationOfSurjective_apply
 -- name    : FunctorialResolution.EmbeddedResolution.derivationOfSurjective_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:46:32.30937+00:00
 -- url     : https://prove2.me/theorems/4ede14ee-1a6d-48d3-9d38-ebedf60f2453

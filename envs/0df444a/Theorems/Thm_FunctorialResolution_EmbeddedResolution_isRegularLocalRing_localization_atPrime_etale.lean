@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isRegularLocalRing_localization_atPrime_etale
 -- name    : FunctorialResolution.EmbeddedResolution.isRegularLocalRing_localization_atPrime_etale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:48:23.463798+00:00
 -- url     : https://prove2.me/theorems/b2545cf2-5c5e-4477-a32b-179e3a390607

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_norm_le_of_isRoot_monic
 -- name    : GlobalTheory.AffinePoints.norm_le_of_isRoot_monic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:54:34.107662+00:00
 -- url     : https://prove2.me/theorems/31d771b1-6253-4c8e-bf1c-f485b49b3374

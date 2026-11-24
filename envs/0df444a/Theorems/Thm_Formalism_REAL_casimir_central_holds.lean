@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_casimir_central_holds
 -- name    : Formalism.REAL.casimir_central_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:04:44.311519+00:00
 -- url     : https://prove2.me/theorems/a911a338-9b63-4307-bc30-d852d0032e21

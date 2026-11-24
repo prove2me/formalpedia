@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_legendre
 -- name    : Formalism.L2.Th1.F.legendre
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:27:29.649504+00:00
 -- url     : https://prove2.me/theorems/a1fbccab-3316-4aa7-b2fb-55507e50b90d

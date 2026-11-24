@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_ModelEmbedding_closure_units
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.ModelEmbedding.closure_units
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:05:52.480884+00:00
 -- url     : https://prove2.me/theorems/18761703-e82a-47f0-aa33-955fc2724770

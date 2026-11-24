@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_saturation_at_holds
 -- name    : Formalism.InvariantFactorPaths.L4.saturation_at_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:08.558805+00:00
 -- url     : https://prove2.me/theorems/71c497c3-6ca2-41a1-8bf5-d1342f2c4391

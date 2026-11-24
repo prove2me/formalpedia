@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AugCot_smooth_of_locally
 -- name    : GlobalTheory.AugCot.smooth_of_locally
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:46:12.743513+00:00
 -- url     : https://prove2.me/theorems/7216a98c-7d44-432c-8c0c-bdec4fbee3c9

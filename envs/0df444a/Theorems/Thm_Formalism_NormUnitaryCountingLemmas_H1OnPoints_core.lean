@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_H1OnPoints_core
 -- name    : Formalism.NormUnitaryCountingLemmas.H1OnPoints.core
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:07:52.206195+00:00
 -- url     : https://prove2.me/theorems/f6cd855d-4216-49a0-8bff-d97903fc7238

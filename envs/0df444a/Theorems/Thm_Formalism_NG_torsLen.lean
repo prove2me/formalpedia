@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_torsLen
 -- name    : Formalism.NG.torsLen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:16:43.132451+00:00
 -- url     : https://prove2.me/theorems/24d92faf-2b23-4c0c-a8f8-d445b0d00492

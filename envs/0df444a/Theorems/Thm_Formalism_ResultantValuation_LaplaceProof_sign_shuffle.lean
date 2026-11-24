@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ResultantValuation_LaplaceProof_sign_shuffle
 -- name    : Formalism.ResultantValuation.LaplaceProof.sign_shuffle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:28:05.830874+00:00
 -- url     : https://prove2.me/theorems/ed3491b1-dc96-4b78-b9c3-b3b2e9a7bfaf

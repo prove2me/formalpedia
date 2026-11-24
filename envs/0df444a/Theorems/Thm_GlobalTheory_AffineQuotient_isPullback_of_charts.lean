@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineQuotient_isPullback_of_charts
 -- name    : GlobalTheory.AffineQuotient.isPullback_of_charts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:54:43.966251+00:00
 -- url     : https://prove2.me/theorems/1ec271d9-1631-4162-8d0c-c6b36a154cfb

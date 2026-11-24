@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbsFubini_sqrt_le_of_sq_le
 -- name    : GlobalTheory.AbsFubini.sqrt_le_of_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:54:09.891608+00:00
 -- url     : https://prove2.me/theorems/87d8bafe-ad09-4f39-8930-8f198ed86555

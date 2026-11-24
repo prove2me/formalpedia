@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_LocalResolutionData_exists_reindex_eq_iff_exists_mem_support
 -- name    : FunctorialResolution.EmbeddedResolution.LocalResolutionData.exists_reindex_eq_iff_exists_mem_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:45:47.00571+00:00
 -- url     : https://prove2.me/theorems/f47265b8-83e3-42e2-95e3-80ad38e34b26

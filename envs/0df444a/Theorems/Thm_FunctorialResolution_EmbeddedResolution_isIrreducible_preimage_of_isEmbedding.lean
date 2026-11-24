@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isIrreducible_preimage_of_isEmbedding
 -- name    : FunctorialResolution.EmbeddedResolution.isIrreducible_preimage_of_isEmbedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:47:57.64934+00:00
 -- url     : https://prove2.me/theorems/a78c5ba7-abc9-4252-ac01-e3592672cc02

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AuxiliaryLemmaFirst_main
 -- name    : GlobalTheory.AuxiliaryLemmaFirst.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:57:57.290649+00:00
 -- url     : https://prove2.me/theorems/6ab1f3f5-fc62-492c-a9fe-992da3c12fc3

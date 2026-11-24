@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_leading_minors_positive
 -- name    : Formalism.REAL.leading_minors_positive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:22:48.359258+00:00
 -- url     : https://prove2.me/theorems/5a63081e-4f32-4e64-8f27-c6bd84438f4a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLocusPull_isProper_restrict_pull
 -- name    : GlobalTheory.AbLocusPull.isProper_restrict_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:52:14.126408+00:00
 -- url     : https://prove2.me/theorems/a6a48d90-289d-4f40-a5d7-203807cd4b38

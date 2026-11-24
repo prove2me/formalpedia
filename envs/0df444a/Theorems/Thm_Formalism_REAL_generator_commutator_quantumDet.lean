@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_generator_commutator_quantumDet
 -- name    : Formalism.REAL.generator_commutator_quantumDet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:21:03.457806+00:00
 -- url     : https://prove2.me/theorems/a8b7ef0d-376e-4e7d-9121-042a6ca2b6f1

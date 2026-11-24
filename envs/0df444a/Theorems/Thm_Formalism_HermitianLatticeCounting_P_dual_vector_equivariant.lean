@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_dual_vector_equivariant
 -- name    : Formalism.HermitianLatticeCounting.P.dual_vector_equivariant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:59.768138+00:00
 -- url     : https://prove2.me/theorems/4827981b-d81a-45f8-adec-26233d36f181

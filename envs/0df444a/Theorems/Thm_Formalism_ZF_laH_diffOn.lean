@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_laH_diffOn
 -- name    : Formalism.ZF.laH_diffOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:41:08.704951+00:00
 -- url     : https://prove2.me/theorems/978c59c8-4b47-4f3b-bdd3-eedd69d96b89

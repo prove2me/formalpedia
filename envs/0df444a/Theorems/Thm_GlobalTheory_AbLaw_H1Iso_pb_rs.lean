@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_H1Iso_pb_rs
 -- name    : GlobalTheory.AbLaw.H1Iso.pb_rs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:52:23.593006+00:00
 -- url     : https://prove2.me/theorems/0454413c-8649-495c-9581-1bd69970019f

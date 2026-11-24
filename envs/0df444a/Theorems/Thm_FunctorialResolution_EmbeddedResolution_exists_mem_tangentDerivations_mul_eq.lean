@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_exists_mem_tangentDerivations_mul_eq
 -- name    : FunctorialResolution.EmbeddedResolution.exists_mem_tangentDerivations_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:47:09.313717+00:00
 -- url     : https://prove2.me/theorems/1c177b85-acc3-49fc-af74-1d6a181d9235

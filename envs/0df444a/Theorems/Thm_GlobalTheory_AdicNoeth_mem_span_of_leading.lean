@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdicNoeth_mem_span_of_leading
 -- name    : GlobalTheory.AdicNoeth.mem_span_of_leading
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:54:44.414852+00:00
 -- url     : https://prove2.me/theorems/e2f239dc-4272-46d9-b9d3-4cfae3b24094

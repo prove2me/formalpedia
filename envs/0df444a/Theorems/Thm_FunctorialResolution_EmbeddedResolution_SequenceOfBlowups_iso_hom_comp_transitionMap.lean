@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_SequenceOfBlowups_iso_hom_comp_transitionMap
 -- name    : FunctorialResolution.EmbeddedResolution.SequenceOfBlowups.iso_hom_comp_transitionMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:47:08.576353+00:00
 -- url     : https://prove2.me/theorems/708897d8-c55d-4b22-8751-62f3ff859f39

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_kIsoSplit_of
 -- name    : Formalism.REAL.kIsoSplit_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:23:08.436695+00:00
 -- url     : https://prove2.me/theorems/c26cbbd0-5eeb-43ec-a864-22e2c2546746

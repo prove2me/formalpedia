@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_H_pos
 -- name    : GlobalTheory.AnArc.H_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:56:34.183551+00:00
 -- url     : https://prove2.me/theorems/de6aa7c2-0aa0-4a14-a55b-3ec6f7e0b678

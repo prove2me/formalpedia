@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_supInfDyadicRightApproximantsV1
 -- name    : Kyprianou.Ch03.supInfDyadicRightApproximantsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T11:02:31.721646+00:00
 -- url     : https://prove2.me/theorems/0164a48d-e798-4e6c-8d5e-d2ab4d333213

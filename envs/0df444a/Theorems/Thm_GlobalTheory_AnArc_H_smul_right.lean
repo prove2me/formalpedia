@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_H_smul_right
 -- name    : GlobalTheory.AnArc.H_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:57:07.326946+00:00
 -- url     : https://prove2.me/theorems/3c1c0a28-6999-4214-b594-d00d87d751b7

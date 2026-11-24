@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_cartan_smith
 -- name    : Formalism.UG.P.cartan_smith
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:14:02.272947+00:00
 -- url     : https://prove2.me/theorems/ce1160b2-9f7f-4510-a9f0-07e09141663b

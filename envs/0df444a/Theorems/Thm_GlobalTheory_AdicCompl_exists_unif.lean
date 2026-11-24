@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdicCompl_exists_unif
 -- name    : GlobalTheory.AdicCompl.exists_unif
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:53:53.862222+00:00
 -- url     : https://prove2.me/theorems/e30fcb39-667b-49ea-b60c-eae2d61f77bc

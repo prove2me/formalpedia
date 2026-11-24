@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_ordAtIdeal_mul
 -- name    : GroundTheory.Arith.Abelian.ordAtIdeal_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:33:08.550736+00:00
 -- url     : https://prove2.me/theorems/5a86526c-99e9-4da5-a312-546719a6f8c0

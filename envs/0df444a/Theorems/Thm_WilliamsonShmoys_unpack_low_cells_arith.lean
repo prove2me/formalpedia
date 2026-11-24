@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_unpack_low_cells_arith
 -- name    : WilliamsonShmoys.unpack_low_cells_arith
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-24T11:45:50.417426+00:00
 -- url     : https://prove2.me/theorems/d04d17ad-0aa9-47ca-a949-4d182b1781ee

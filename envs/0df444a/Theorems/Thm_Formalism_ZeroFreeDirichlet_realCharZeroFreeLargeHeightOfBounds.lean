@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_realCharZeroFreeLargeHeightOfBounds
 -- name    : Formalism.ZeroFreeDirichlet.realCharZeroFreeLargeHeightOfBounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:44:08.514975+00:00
 -- url     : https://prove2.me/theorems/c00262ed-0d5e-4220-af56-347bb7892907

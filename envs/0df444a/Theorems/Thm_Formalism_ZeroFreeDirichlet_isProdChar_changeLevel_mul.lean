@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_isProdChar_changeLevel_mul
 -- name    : Formalism.ZeroFreeDirichlet.isProdChar_changeLevel_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:42:46.823058+00:00
 -- url     : https://prove2.me/theorems/6f5e5593-864c-45ab-a1b0-47dda6307757

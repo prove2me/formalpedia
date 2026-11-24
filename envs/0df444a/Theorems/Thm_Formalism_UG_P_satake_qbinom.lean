@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satake_qbinom
 -- name    : Formalism.UG.P.satake_qbinom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:34:37.429532+00:00
 -- url     : https://prove2.me/theorems/3116b623-26d7-4a7f-86c9-ee881f776ebb

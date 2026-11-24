@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_log_analytic_conductor_ge_const
 -- name    : Formalism.ZeroFreeDirichlet.log_analytic_conductor_ge_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:42:32.363847+00:00
 -- url     : https://prove2.me/theorems/ed372fed-334f-4225-9633-f22b2f70ffb5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isIrreducible_inter_open
 -- name    : FunctorialResolution.EmbeddedResolution.isIrreducible_inter_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:47:51.473049+00:00
 -- url     : https://prove2.me/theorems/79b312d0-d0ec-4b93-afdc-84e2809e4472

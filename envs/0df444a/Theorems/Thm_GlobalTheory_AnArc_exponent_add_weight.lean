@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_exponent_add_weight
 -- name    : GlobalTheory.AnArc.exponent_add_weight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:57:12.463375+00:00
 -- url     : https://prove2.me/theorems/46599df4-01dc-4b44-a35a-84690b0c4b16

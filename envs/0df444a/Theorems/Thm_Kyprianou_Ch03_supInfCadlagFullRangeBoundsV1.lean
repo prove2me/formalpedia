@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_supInfCadlagFullRangeBoundsV1
 -- name    : Kyprianou.Ch03.supInfCadlagFullRangeBoundsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T11:02:38.905315+00:00
 -- url     : https://prove2.me/theorems/dd5eea50-c662-442d-a44c-818d8b97295a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeIntegralMass_proof_0af09eb068df
 -- name    : P2M_GroundTheory_Heights__Heights_ConeIntegralMass_proof_0af09eb068df
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:54:02.166852+00:00
 -- url     : https://prove2.me/theorems/789337bb-0241-4cee-a5a9-2b21ba8ee20b

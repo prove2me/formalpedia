@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_ShearCoefficients_weight
 -- name    : Formalism.NormUnitaryCountingLemmas.ShearCoefficients.weight
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:15:44.219723+00:00
 -- url     : https://prove2.me/theorems/26311320-230d-4545-a5ba-5450b79d953f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenFrameSpan_nablaX_eq
 -- name    : GenFrameSpan.nablaX_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:51:01.055673+00:00
 -- url     : https://prove2.me/theorems/12982646-7d86-4245-8349-062b1e2221a2

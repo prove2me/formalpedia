@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineOpenAgree_app_restrict_eq
 -- name    : GlobalTheory.AffineOpenAgree.app_restrict_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:55:28.110288+00:00
 -- url     : https://prove2.me/theorems/e6cd9936-0633-4f95-8943-0ef38e966e28

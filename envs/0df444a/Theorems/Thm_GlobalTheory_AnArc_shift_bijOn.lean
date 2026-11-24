@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_shift_bijOn
 -- name    : GlobalTheory.AnArc.shift_bijOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:56:04.047721+00:00
 -- url     : https://prove2.me/theorems/80bdaa96-059c-4dec-806a-dbb36fa0c217

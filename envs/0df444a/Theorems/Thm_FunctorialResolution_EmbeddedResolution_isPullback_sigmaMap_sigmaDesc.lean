@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isPullback_sigmaMap_sigmaDesc
 -- name    : FunctorialResolution.EmbeddedResolution.isPullback_sigmaMap_sigmaDesc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:47:44.187978+00:00
 -- url     : https://prove2.me/theorems/8c41b6a4-091b-4543-ae3d-8b47ad743567

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_BaseChange_ap_top_eq_cst
 -- name    : GlobalTheory.AbLaw.BaseChange.ap_top_eq_cst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:50:44.560691+00:00
 -- url     : https://prove2.me/theorems/54bf1587-b1e1-447d-ba44-439d16ec0e75

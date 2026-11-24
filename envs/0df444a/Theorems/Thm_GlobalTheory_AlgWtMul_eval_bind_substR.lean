@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AlgWtMul_eval_bind_substR
 -- name    : GlobalTheory.AlgWtMul.eval_bind_substR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:57:41.038812+00:00
 -- url     : https://prove2.me/theorems/345d33a1-d2a2-4b37-ad77-743c83b00bfc

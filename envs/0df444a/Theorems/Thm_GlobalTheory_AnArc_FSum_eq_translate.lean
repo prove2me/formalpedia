@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_FSum_eq_translate
 -- name    : GlobalTheory.AnArc.FSum_eq_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:56:51.875701+00:00
 -- url     : https://prove2.me/theorems/56afb248-4d29-4cf1-a8f9-469faffb4e3e

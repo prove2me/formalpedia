@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_re_one_div_ofReal_add_mul_I
 -- name    : Formalism.ZeroFreeDirichlet.re_one_div_ofReal_add_mul_I
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:44:09.112322+00:00
 -- url     : https://prove2.me/theorems/84f16055-2f6f-4e9f-8915-8ae2e72e9cd4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_rdp_horiz
 -- name    : Formalism.ZF.rdp_horiz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:40:58.990283+00:00
 -- url     : https://prove2.me/theorems/96f7e4e7-3876-4646-9ce3-7fff13e7e611

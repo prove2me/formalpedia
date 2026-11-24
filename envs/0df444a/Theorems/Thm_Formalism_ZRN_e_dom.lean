@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZRN_e_dom
 -- name    : Formalism.ZRN.e_dom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:37:29.314808+00:00
 -- url     : https://prove2.me/theorems/ef031d6c-489e-488c-a54e-c5ad13a28b2a

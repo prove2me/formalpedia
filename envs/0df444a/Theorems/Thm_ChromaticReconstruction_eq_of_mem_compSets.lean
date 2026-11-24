@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_eq_of_mem_compSets
 -- name    : ChromaticReconstruction.eq_of_mem_compSets
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:27:04.51567+00:00
 -- url     : https://prove2.me/theorems/4f52e8ca-b501-450f-b09a-01f65b1811f5

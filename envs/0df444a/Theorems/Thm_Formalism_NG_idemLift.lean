@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_idemLift
 -- name    : Formalism.NG.idemLift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:16:39.82758+00:00
 -- url     : https://prove2.me/theorems/cc2c26a1-2958-4343-b537-f1fbc406c13b

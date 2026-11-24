@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdaptedDet_prod_interp
 -- name    : GlobalTheory.AdaptedDet.prod_interp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:53:34.147594+00:00
 -- url     : https://prove2.me/theorems/2c87da1b-a420-4fdd-8d17-2dc9efd3d28c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_ker_includeRight_eq_map_ker
 -- name    : FunctorialResolution.EmbeddedResolution.ker_includeRight_eq_map_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:47:55.304682+00:00
 -- url     : https://prove2.me/theorems/21d4e764-ab24-44bb-aa54-762c69349223

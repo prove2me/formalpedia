@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_UnitRoot_incl_apply
 -- name    : GlobalTheory.AdLat.UnitRoot.incl_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:53:50.761873+00:00
 -- url     : https://prove2.me/theorems/6d36fdf2-f709-4fcf-a9cd-38d5c87dbd21

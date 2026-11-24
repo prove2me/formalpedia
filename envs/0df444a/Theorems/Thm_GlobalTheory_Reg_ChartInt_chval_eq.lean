@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_ChartInt_chval_eq
 -- name    : GlobalTheory.Reg.ChartInt.chval_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:28:17.100273+00:00
 -- url     : https://prove2.me/theorems/384f68c8-9899-4c91-828f-d2dcf0042436

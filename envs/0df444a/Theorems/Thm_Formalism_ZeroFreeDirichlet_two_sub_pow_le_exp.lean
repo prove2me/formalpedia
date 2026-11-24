@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_two_sub_pow_le_exp
 -- name    : Formalism.ZeroFreeDirichlet.two_sub_pow_le_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:44:33.290607+00:00
 -- url     : https://prove2.me/theorems/1a4ef8f8-2f40-4883-8502-93cb2e31b51f

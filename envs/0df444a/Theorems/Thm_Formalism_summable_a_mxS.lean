@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_summable_a_mxS
 -- name    : Formalism.summable_a_mxS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:45:40.482853+00:00
 -- url     : https://prove2.me/theorems/2b5cb6ad-b29c-4206-863f-5267f6fc4cc1

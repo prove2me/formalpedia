@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineLineExt_isPrincipalIdealRing_away
 -- name    : GlobalTheory.AffineLineExt.isPrincipalIdealRing_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:55:23.732835+00:00
 -- url     : https://prove2.me/theorems/26a49f3d-65fb-4a0b-8842-10cad2e75aa8

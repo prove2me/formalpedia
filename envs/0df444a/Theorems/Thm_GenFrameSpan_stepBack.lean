@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenFrameSpan_stepBack
 -- name    : GenFrameSpan.stepBack
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:50:36.851412+00:00
 -- url     : https://prove2.me/theorems/aef788c3-e91f-4fd9-9ff0-c7b2af0289fd

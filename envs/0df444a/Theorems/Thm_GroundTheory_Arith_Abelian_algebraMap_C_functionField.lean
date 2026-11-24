@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_algebraMap_C_functionField
 -- name    : GroundTheory.Arith.Abelian.algebraMap_C_functionField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:41:23.958094+00:00
 -- url     : https://prove2.me/theorems/2295110e-5945-4e09-89c7-29288eeb5779

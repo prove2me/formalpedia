@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_layer_isGalois
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.layer_isGalois
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:30:24.2808+00:00
 -- url     : https://prove2.me/theorems/35b08162-9ddc-469f-aad7-332b8385679a

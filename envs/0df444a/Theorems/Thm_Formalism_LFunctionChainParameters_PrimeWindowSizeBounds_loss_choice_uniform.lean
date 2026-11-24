@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_PrimeWindowSizeBounds_loss_choice_uniform
 -- name    : Formalism.LFunctionChainParameters.PrimeWindowSizeBounds.loss_choice_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:38.166803+00:00
 -- url     : https://prove2.me/theorems/abf91472-e3f7-4835-80e7-7cabdd0fb5b9

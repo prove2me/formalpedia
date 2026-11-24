@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_mqKummer_of
 -- name    : Formalism.Q3.mqKummer_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:18:40.88481+00:00
 -- url     : https://prove2.me/theorems/7fa979b3-721a-43d4-8569-13bd57612b68

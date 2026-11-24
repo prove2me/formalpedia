@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_csCovol_column
 -- name    : Formalism.UG.P.csCovol_column
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:32:43.347325+00:00
 -- url     : https://prove2.me/theorems/3ac8bab2-e2f1-410f-bb42-b83be4be660e

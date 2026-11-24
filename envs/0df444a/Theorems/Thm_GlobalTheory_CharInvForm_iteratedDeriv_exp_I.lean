@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharInvForm_iteratedDeriv_exp_I
 -- name    : GlobalTheory.CharInvForm.iteratedDeriv_exp_I
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:07:42.741551+00:00
 -- url     : https://prove2.me/theorems/e4de117a-d447-4341-9c37-57d6cef61738

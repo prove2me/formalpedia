@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdaptedCoord_dirDeriv_constFn
 -- name    : GlobalTheory.AdaptedCoord.dirDeriv_constFn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:54:25.464873+00:00
 -- url     : https://prove2.me/theorems/7dbe033f-a3f8-4d17-ae0c-d551c5ed6a8f

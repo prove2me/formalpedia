@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_split_mem_iff
 -- name    : Formalism.UG.P.split_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:28:13.221799+00:00
 -- url     : https://prove2.me/theorems/f436fcd8-579d-4d70-8b33-dfebb650fbd7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_prod_one_sub_inv_ge_inv_card_succ
 -- name    : Formalism.ZeroFreeDirichlet.prod_one_sub_inv_ge_inv_card_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:44:12.648452+00:00
 -- url     : https://prove2.me/theorems/462c93fa-bbaf-45f4-8163-0f6ae88db49a

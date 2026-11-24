@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_exponential_integral_nonneg_real
 -- name    : Formalism.ZeroFreeDirichlet.exponential_integral_nonneg_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:42:39.808908+00:00
 -- url     : https://prove2.me/theorems/60fc1f7f-4314-4ba6-ae6c-f3f76f548812

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_complComapSupport_eq
 -- name    : FunctorialResolution.EmbeddedResolution.complComapSupport_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:47:09.936329+00:00
 -- url     : https://prove2.me/theorems/3d7ee020-6a40-41e0-90ef-aaa20f0b5256

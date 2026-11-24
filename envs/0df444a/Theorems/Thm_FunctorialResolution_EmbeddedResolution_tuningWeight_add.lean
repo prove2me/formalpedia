@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_tuningWeight_add
 -- name    : FunctorialResolution.EmbeddedResolution.tuningWeight_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:50:13.28251+00:00
 -- url     : https://prove2.me/theorems/08fb78a9-539b-48ba-b61e-a6b9d9e346b2

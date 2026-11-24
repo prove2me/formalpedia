@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_ah_cocycle
 -- name    : GlobalTheory.AnArc.ah_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:57:00.008881+00:00
 -- url     : https://prove2.me/theorems/79c7fcdb-9a77-4fce-b777-4169555bc0e6

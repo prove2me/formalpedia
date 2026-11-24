@@ -1,0 +1,35 @@
+-- Prove2me | solution 1 for Formalism.REAL.omEigen
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-24T11:59:00.854812+00:00
+-- url     : https://prove2.me/submissions/c8902263-6329-47c8-a867-57c6f2266bcf
+
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_QuadraticInequalityBoundHolds
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_HalfSumRootsStandard
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_SumOfSquaresIdentityHolds
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_CasKHW
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_CasComm
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_GeneratorPowUpperVanishHolds
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_HWDiag
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_TrPowSumFilterZero
+import Definitions.Def_Formalism_RealPlaceAnalysis_StatementD
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_QuantumDetHighestWeightHolds
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_ShiftedGeneratorEqIteSmulAdd
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_GeneratorCommutatorQuantumDet
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_CharId
+import Definitions.Def_Formalism_RealPlaceAnalysis_ThirdArithmeticHolds
+import Theorems.Thm_Formalism_REAL_omega_eigenvalue_holds
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.REAL
+namespace Formalism.REAL
+theorem _root_.solution : OmEigen := omega_eigenvalue_holds
+end Formalism.REAL

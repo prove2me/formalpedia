@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_existsPeriodRingData_holds
 -- name    : Formalism.WeaklyAdmissibleFiltrations.existsPeriodRingData_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:40:24.572092+00:00
 -- url     : https://prove2.me/theorems/7baaf9ee-96ea-47f0-bf2a-21b8a3894da8

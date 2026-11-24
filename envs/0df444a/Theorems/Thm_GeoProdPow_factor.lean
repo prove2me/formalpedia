@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeoProdPow_factor
 -- name    : GeoProdPow.factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:50:30.257463+00:00
 -- url     : https://prove2.me/theorems/311aedb7-7b6a-4abf-a287-2a8283e2d5e8

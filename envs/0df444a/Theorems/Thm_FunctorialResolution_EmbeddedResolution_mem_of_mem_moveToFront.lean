@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_mem_of_mem_moveToFront
 -- name    : FunctorialResolution.EmbeddedResolution.mem_of_mem_moveToFront
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:48:03.376359+00:00
 -- url     : https://prove2.me/theorems/7a6dea13-0baa-4b74-b740-9bcc8582c97e

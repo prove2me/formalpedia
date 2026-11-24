@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_NMul_normSq_mul
 -- name    : Formalism.NormUnitaryCountingLemmas.NMul.normSq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:28:55.739813+00:00
 -- url     : https://prove2.me/theorems/6cf0ed60-434f-4a5a-997d-157af115f951

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLocusPull_exists_secOn_pull
 -- name    : GlobalTheory.AbLocusPull.exists_secOn_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:52:09.034497+00:00
 -- url     : https://prove2.me/theorems/54f8ddc9-b49a-4c5f-b1f2-07f0ff7317df

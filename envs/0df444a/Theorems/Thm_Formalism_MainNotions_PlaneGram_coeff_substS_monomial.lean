@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_coeff_substS_monomial
 -- name    : Formalism.MainNotions.PlaneGram.coeff_substS_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:06:28.628423+00:00
 -- url     : https://prove2.me/theorems/33237118-521a-452f-bdd2-9989e79e0f95

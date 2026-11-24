@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_csTrace_trace_algebraMap_pos
 -- name    : Formalism.UG.P.csTrace_trace_algebraMap_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:32:06.062473+00:00
 -- url     : https://prove2.me/theorems/e72542d4-cad9-4660-9135-7afd538a522f

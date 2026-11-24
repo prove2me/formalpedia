@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_euler_factor_product_lower
 -- name    : Formalism.ZeroFreeDirichlet.euler_factor_product_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:43:38.319617+00:00
 -- url     : https://prove2.me/theorems/ad008a7f-1ee9-4451-a7ce-2fb22109b8d5

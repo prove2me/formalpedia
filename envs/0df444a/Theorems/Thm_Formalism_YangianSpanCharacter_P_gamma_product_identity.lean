@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_YangianSpanCharacter_P_gamma_product_identity
 -- name    : Formalism.YangianSpanCharacter.P.gamma_product_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:40:03.99319+00:00
 -- url     : https://prove2.me/theorems/d6166c1a-bb83-4f57-b8aa-ccff55cbaa26

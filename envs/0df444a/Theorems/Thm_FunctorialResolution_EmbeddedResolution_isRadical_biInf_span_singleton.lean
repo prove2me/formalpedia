@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isRadical_biInf_span_singleton
 -- name    : FunctorialResolution.EmbeddedResolution.isRadical_biInf_span_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:47:37.515958+00:00
 -- url     : https://prove2.me/theorems/ffe4456c-b3b1-4fd1-b74e-561c5c40cd5e

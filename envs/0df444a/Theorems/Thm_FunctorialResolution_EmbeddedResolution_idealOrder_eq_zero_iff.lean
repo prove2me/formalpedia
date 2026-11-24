@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_idealOrder_eq_zero_iff
 -- name    : FunctorialResolution.EmbeddedResolution.idealOrder_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:47:40.561895+00:00
 -- url     : https://prove2.me/theorems/c009a97e-b5b4-4bd1-8800-f6057899794d

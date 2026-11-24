@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_term_two_real_nonneg
 -- name    : Formalism.ZeroFreeDirichlet.term_two_real_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:44:25.07202+00:00
 -- url     : https://prove2.me/theorems/c6ddfa4d-31c8-4af2-9a0b-41810e0a2a79

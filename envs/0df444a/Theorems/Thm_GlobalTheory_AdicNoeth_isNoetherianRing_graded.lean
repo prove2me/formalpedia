@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdicNoeth_isNoetherianRing_graded
 -- name    : GlobalTheory.AdicNoeth.isNoetherianRing_graded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:55:34.390911+00:00
 -- url     : https://prove2.me/theorems/d6bb3ce5-5f3e-4a96-b0cc-fde7f6878fbe

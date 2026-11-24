@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_mem_Upq_iff
 -- name    : Formalism.UG.P.mem_Upq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:45:32.841809+00:00
 -- url     : https://prove2.me/theorems/eadb6054-a3fe-4845-9db5-8b86857f1747

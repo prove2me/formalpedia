@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_psi_sq
 -- name    : GlobalTheory.AnArc.psi_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:56:19.982581+00:00
 -- url     : https://prove2.me/theorems/70d4a0f6-ff81-46d4-9130-62b44101334b

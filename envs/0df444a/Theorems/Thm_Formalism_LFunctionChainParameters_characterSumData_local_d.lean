@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_characterSumData_local_d
 -- name    : Formalism.LFunctionChainParameters.characterSumData.local_d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:10.691337+00:00
 -- url     : https://prove2.me/theorems/95f93fbc-bfb6-4a34-8058-d1d669f0c6f3

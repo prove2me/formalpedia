@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_tate_isConvLine_iff
 -- name    : GlobalTheory.AnArc.tate_isConvLine_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:56:14.507935+00:00
 -- url     : https://prove2.me/theorems/a87f7515-c659-4b42-9543-8c5dd95e511d

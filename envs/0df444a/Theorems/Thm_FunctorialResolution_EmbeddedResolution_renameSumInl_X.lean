@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_renameSumInl_X
 -- name    : FunctorialResolution.EmbeddedResolution.renameSumInl_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:49:12.407108+00:00
 -- url     : https://prove2.me/theorems/4206161e-58c7-48f4-a30f-11734424daf8

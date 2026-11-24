@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_lamF_eq_norm
 -- name    : Formalism.ZF.lamF_eq_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:36:10.602123+00:00
 -- url     : https://prove2.me/theorems/8f394beb-02f7-44dc-aff8-f12910918230

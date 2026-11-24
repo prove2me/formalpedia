@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_Segre_ratio_self
 -- name    : GlobalTheory.AbLaw.Segre.ratio_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:51:37.648301+00:00
 -- url     : https://prove2.me/theorems/c5089d6c-9655-4f09-86b6-4ca36798f057

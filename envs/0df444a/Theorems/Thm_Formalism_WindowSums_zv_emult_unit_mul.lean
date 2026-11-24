@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WindowSums_zv_emult_unit_mul
 -- name    : Formalism.WindowSums.zv_emult_unit_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:39:33.090853+00:00
 -- url     : https://prove2.me/theorems/bbda4f1e-3aae-48bc-ac0b-c71e4ddd399c

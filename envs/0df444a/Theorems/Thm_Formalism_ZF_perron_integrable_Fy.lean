@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_perron_integrable_Fy
 -- name    : Formalism.ZF.perron_integrable_Fy
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:36:35.58392+00:00
 -- url     : https://prove2.me/theorems/263d1f83-5f8b-4d44-94dc-966e1bc28e1a

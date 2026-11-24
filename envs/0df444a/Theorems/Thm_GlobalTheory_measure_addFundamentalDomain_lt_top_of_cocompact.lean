@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_measure_addFundamentalDomain_lt_top_of_cocompact
 -- name    : GlobalTheory.measure_addFundamentalDomain_lt_top_of_cocompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:48:37.844458+00:00
 -- url     : https://prove2.me/theorems/c155f5f4-2a3b-49cf-8f9e-42ca0da3ff34

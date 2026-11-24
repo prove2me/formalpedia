@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SL_Final_eichMove
 -- name    : Formalism.SL.Final.eichMove
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:11:45.36103+00:00
 -- url     : https://prove2.me/theorems/cbf3bb36-e379-4a3f-8aff-8c186fc213f1

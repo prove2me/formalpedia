@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_bilinearLeft_mul_bilinearRight
 -- name    : Formalism.REAL.bilinearLeft_mul_bilinearRight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:20:12.100275+00:00
 -- url     : https://prove2.me/theorems/f7354826-2730-4fa9-bf2d-03bc225fbfa6

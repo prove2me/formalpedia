@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_linear_part_commutator_period
 -- name    : GlobalTheory.AnArc.linear_part_commutator_period
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:57:00.696478+00:00
 -- url     : https://prove2.me/theorems/8275891f-b30b-43a1-b247-7cdf89648515

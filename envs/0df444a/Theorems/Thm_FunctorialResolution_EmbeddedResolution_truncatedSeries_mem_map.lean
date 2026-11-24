@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_truncatedSeries_mem_map
 -- name    : FunctorialResolution.EmbeddedResolution.truncatedSeries_mem_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:49:07.882175+00:00
 -- url     : https://prove2.me/theorems/950c43ec-e2cc-4cce-bf93-7cd103fe71f1

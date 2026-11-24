@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_commutator_word_operator_sum
 -- name    : Formalism.REAL.commutator_word_operator_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:19:57.799368+00:00
 -- url     : https://prove2.me/theorems/fae14d55-3ee6-4c17-891e-a731b8b59c6b

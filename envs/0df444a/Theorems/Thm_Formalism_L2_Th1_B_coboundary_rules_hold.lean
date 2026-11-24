@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_coboundary_rules_hold
 -- name    : Formalism.L2.Th1.B.coboundary_rules_hold
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:09.332655+00:00
 -- url     : https://prove2.me/theorems/eaf863a7-787a-4d02-906e-862d14923f1d

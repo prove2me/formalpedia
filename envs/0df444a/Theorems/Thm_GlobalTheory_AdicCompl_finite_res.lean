@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdicCompl_finite_res
 -- name    : GlobalTheory.AdicCompl.finite_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:55:29.191178+00:00
 -- url     : https://prove2.me/theorems/6384ef35-8fc2-437f-857e-667d4cdb5c1d

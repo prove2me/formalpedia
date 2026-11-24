@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_restrictIdeal_openSubschemeKer_of_preimage_le
 -- name    : FunctorialResolution.EmbeddedResolution.restrictIdeal_openSubschemeKer_of_preimage_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:49:16.439338+00:00
 -- url     : https://prove2.me/theorems/4bc1b5ae-bdca-4322-9427-909521c06586

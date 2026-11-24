@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_graphPreSubmersivePresentation_jacobiMatrix
 -- name    : FunctorialResolution.EmbeddedResolution.graphPreSubmersivePresentation_jacobiMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:46:36.096283+00:00
 -- url     : https://prove2.me/theorems/ef79db1a-5df3-46a1-bff8-f7d611346677

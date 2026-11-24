@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ActDescent_isMonHom_descend
 -- name    : GlobalTheory.ActDescent.isMonHom_descend
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:54:55.693944+00:00
 -- url     : https://prove2.me/theorems/1752a79f-90d4-4378-b77c-56c0d7421f72

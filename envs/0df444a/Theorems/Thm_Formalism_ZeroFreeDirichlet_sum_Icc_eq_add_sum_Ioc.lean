@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_sum_Icc_eq_add_sum_Ioc
 -- name    : Formalism.ZeroFreeDirichlet.sum_Icc_eq_add_sum_Ioc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:44:23.830843+00:00
 -- url     : https://prove2.me/theorems/a180421d-ea18-40cc-8a1b-9ba6d5d9436d

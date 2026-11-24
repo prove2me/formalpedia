@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EtaleCoordinates_partialDeriv_mem_sup_of_span_pow_mul_eq_map
 -- name    : FunctorialResolution.EmbeddedResolution.EtaleCoordinates.partialDeriv_mem_sup_of_span_pow_mul_eq_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:45:46.839798+00:00
 -- url     : https://prove2.me/theorems/0cbef3b3-aed8-42d7-a7e7-8b9aad9caef0

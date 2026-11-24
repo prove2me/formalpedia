@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_reducedInverseImage_comp
 -- name    : FunctorialResolution.EmbeddedResolution.reducedInverseImage_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:49:31.321205+00:00
 -- url     : https://prove2.me/theorems/ccc5e19d-252c-4087-888d-55abdc3a150d

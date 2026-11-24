@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_hermitian_pos_facts_hold
 -- name    : Formalism.QuantumDeterminants.hermitian_pos_facts_hold
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:52:54.743407+00:00
 -- url     : https://prove2.me/theorems/ca44488c-f9d9-4b68-9c54-5b51452dab4b

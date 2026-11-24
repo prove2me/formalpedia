@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_fderiv_apply_eq_zero_of_mem_adjoin
 -- name    : GlobalTheory.AffinePoints.fderiv_apply_eq_zero_of_mem_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:54:43.258877+00:00
 -- url     : https://prove2.me/theorems/66670308-9fee-49b9-ba67-2ee2de8bd21d

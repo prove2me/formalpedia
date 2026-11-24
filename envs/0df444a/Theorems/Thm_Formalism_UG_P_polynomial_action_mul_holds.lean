@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_polynomial_action_mul_holds
 -- name    : Formalism.UG.P.polynomial_action_mul_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:33:20.936785+00:00
 -- url     : https://prove2.me/theorems/7f1f42f9-b521-4f08-b982-427d3b0ee7d9

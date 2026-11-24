@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKCT_Fr_cols_of_mul
 -- name    : PositivityTheory.ThKCT.Fr.cols_of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:47:05.912139+00:00
 -- url     : https://prove2.me/theorems/62fec5d3-39ee-4e19-9bfa-2516ac28def1

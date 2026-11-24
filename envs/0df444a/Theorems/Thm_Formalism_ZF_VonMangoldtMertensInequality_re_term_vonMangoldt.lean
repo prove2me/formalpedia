@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_VonMangoldtMertensInequality_re_term_vonMangoldt
 -- name    : Formalism.ZF.VonMangoldtMertensInequality.re_term_vonMangoldt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:40:51.45714+00:00
 -- url     : https://prove2.me/theorems/8cfb9ef9-ceee-48aa-a6cf-9081546f743f

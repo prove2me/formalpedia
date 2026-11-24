@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussValuationUniqueness_sImg_rel
 -- name    : GaussValuationUniqueness.sImg_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:51:02.158458+00:00
 -- url     : https://prove2.me/theorems/1c90eb76-f785-496c-9f40-60631697be31

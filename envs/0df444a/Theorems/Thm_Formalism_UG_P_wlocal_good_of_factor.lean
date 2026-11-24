@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_wlocal_good_of_factor
 -- name    : Formalism.UG.P.wlocal_good_of_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:38:16.111807+00:00
 -- url     : https://prove2.me/theorems/f39b98fc-2fd3-490f-94e7-cdc11e87a6a4

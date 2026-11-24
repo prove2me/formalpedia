@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZRN_e_differentiable
 -- name    : Formalism.ZRN.e_differentiable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:42:32.454161+00:00
 -- url     : https://prove2.me/theorems/68db7cff-bfd3-4487-a2b4-8cf702105a09

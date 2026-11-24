@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_rdp_seg
 -- name    : Formalism.ZF.rdp_seg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:41:12.805395+00:00
 -- url     : https://prove2.me/theorems/52d5dfe3-c078-427f-a5ce-c05519e5040c

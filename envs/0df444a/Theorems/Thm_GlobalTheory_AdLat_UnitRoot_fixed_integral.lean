@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_UnitRoot_fixed_integral
 -- name    : GlobalTheory.AdLat.UnitRoot.fixed_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:54:07.592962+00:00
 -- url     : https://prove2.me/theorems/7a64e13c-622b-48aa-9589-ff4bceb2a8fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_EndoZ_T_shift
 -- name    : Formalism.L2.Th1.F.EndoZ.T_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:38:33.083918+00:00
 -- url     : https://prove2.me/theorems/55c1fd47-36cb-4262-843e-59e650620c73

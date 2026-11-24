@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_omega_eigenvalue_holds
 -- name    : Formalism.REAL.omega_eigenvalue_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:24:37.760918+00:00
 -- url     : https://prove2.me/theorems/7ba3520a-d146-4ae2-aae3-485d60fdc2ec

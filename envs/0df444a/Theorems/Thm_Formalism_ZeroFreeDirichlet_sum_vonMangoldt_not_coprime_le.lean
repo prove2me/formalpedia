@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_sum_vonMangoldt_not_coprime_le
 -- name    : Formalism.ZeroFreeDirichlet.sum_vonMangoldt_not_coprime_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:44:28.247874+00:00
 -- url     : https://prove2.me/theorems/d3e48634-c9f4-448c-b98a-74a218d52332

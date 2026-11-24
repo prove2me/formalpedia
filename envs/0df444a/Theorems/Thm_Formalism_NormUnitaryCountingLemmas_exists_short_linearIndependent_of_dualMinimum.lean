@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_exists_short_linearIndependent_of_dualMinimum
 -- name    : Formalism.NormUnitaryCountingLemmas.exists_short_linearIndependent_of_dualMinimum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:18:29.593947+00:00
 -- url     : https://prove2.me/theorems/30108832-9c8e-4a1f-b69c-0ab634ee3717

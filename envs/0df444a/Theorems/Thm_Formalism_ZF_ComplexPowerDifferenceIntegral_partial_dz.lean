@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_ComplexPowerDifferenceIntegral_partial_dz
 -- name    : Formalism.ZF.ComplexPowerDifferenceIntegral.partial_dz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:41:46.171435+00:00
 -- url     : https://prove2.me/theorems/f72e6b5d-de66-4493-9f01-254336193216

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_BaseChange_cst_comp_specMap
 -- name    : GlobalTheory.AbLaw.BaseChange.cst_comp_specMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:50:48.090708+00:00
 -- url     : https://prove2.me/theorems/2773c8e5-99f2-440f-bf19-515e44b11466

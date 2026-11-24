@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AddLaw_negDiagY_mul_addZ
 -- name    : GlobalTheory.AddLaw.negDiagY_mul_addZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:53:42.687082+00:00
 -- url     : https://prove2.me/theorems/d6c2844d-2166-4af0-a944-81a013f649bb

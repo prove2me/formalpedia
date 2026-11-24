@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_tjcosets_stab
 -- name    : Formalism.UG.P.tjcosets_stab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:37:53.964599+00:00
 -- url     : https://prove2.me/theorems/7500563d-fd2e-425f-862e-0d93f1fa6dcf

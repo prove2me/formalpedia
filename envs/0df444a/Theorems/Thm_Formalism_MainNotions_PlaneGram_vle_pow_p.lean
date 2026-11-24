@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_vle_pow_p
 -- name    : Formalism.MainNotions.PlaneGram.vle_pow_p
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:46:46.312643+00:00
 -- url     : https://prove2.me/theorems/3a4fcd4c-929a-4c0b-bc1d-4cee5b81d770

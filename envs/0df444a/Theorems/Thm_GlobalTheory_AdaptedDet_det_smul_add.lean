@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdaptedDet_det_smul_add
 -- name    : GlobalTheory.AdaptedDet.det_smul_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:54:39.570044+00:00
 -- url     : https://prove2.me/theorems/0c501717-ddf0-44a2-83ea-5dcbf1325805

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_vN_eq
 -- name    : Formalism.MainNotions.PlaneGram.vN_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T18:46:45.052476+00:00
 -- url     : https://prove2.me/theorems/275395ad-64ce-49fb-a5ee-3193a41fe80e

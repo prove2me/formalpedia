@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_norm_perronIntegrand_le_horizontal
 -- name    : Formalism.ZF.norm_perronIntegrand_le_horizontal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:41:32.10049+00:00
 -- url     : https://prove2.me/theorems/307dc07f-79d7-49de-9c84-bc2eab8b4060

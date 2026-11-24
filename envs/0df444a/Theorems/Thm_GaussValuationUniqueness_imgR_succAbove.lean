@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussValuationUniqueness_imgR_succAbove
 -- name    : GaussValuationUniqueness.imgR_succAbove
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:50:38.74213+00:00
 -- url     : https://prove2.me/theorems/a890afa1-6b6a-4586-b35b-7136c68962a0

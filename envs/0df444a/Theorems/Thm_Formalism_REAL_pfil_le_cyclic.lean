@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_pfil_le_cyclic
 -- name    : Formalism.REAL.pfil_le_cyclic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:24:39.319882+00:00
 -- url     : https://prove2.me/theorems/84b4a6a1-358d-4f49-933c-cfd2fe5b94a9

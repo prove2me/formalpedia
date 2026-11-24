@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_tjcosets_red_surjective
 -- name    : Formalism.UG.P.tjcosets_red_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:38:06.638535+00:00
 -- url     : https://prove2.me/theorems/0345f047-6fa8-4196-bd9f-4a48284754e3

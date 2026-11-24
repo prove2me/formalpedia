@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_surjective_of_isPullback_blowupMorphism
 -- name    : FunctorialResolution.EmbeddedResolution.surjective_of_isPullback_blowupMorphism
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:49:14.392811+00:00
 -- url     : https://prove2.me/theorems/35fcb3ea-326b-45d1-9d8b-f93a30e6a9c6

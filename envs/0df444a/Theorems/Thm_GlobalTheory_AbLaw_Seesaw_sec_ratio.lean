@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_Seesaw_sec_ratio
 -- name    : GlobalTheory.AbLaw.Seesaw.sec_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:52:13.50415+00:00
 -- url     : https://prove2.me/theorems/18b5dc54-85bb-4fff-a231-2ec8c6346cfe

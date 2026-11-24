@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ResultantValuation_LaplaceProof_glue_injective
 -- name    : Formalism.ResultantValuation.LaplaceProof.glue_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:27:48.210847+00:00
 -- url     : https://prove2.me/theorems/965f9d0a-b8c5-4ef1-8e9d-5c749cb627bb

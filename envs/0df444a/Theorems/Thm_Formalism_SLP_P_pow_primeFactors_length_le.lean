@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_P_pow_primeFactors_length_le
 -- name    : Formalism.SLP.P.pow_primeFactors_length_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:29:00.719144+00:00
 -- url     : https://prove2.me/theorems/2aa5754e-7f4a-486f-854f-fa51679be3c8

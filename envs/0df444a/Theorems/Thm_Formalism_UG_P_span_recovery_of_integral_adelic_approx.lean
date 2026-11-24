@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_span_recovery_of_integral_adelic_approx
 -- name    : Formalism.UG.P.span_recovery_of_integral_adelic_approx
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:58:38.751117+00:00
 -- url     : https://prove2.me/theorems/cc32b622-4547-4062-af2a-bef3bd143484

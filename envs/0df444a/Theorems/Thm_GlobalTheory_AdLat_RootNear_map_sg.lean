@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_RootNear_map_sg
 -- name    : GlobalTheory.AdLat.RootNear.map_sg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:53:53.744796+00:00
 -- url     : https://prove2.me/theorems/e308731a-d856-498a-ab8a-70ef4837626f

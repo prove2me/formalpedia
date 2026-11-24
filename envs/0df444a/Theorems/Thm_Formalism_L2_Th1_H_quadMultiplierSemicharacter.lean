@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_quadMultiplierSemicharacter
 -- name    : Formalism.L2.Th1.H.quadMultiplierSemicharacter
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:28:39.872224+00:00
 -- url     : https://prove2.me/theorems/ed7ad92c-f149-4be8-a9ad-25f2b57a063d

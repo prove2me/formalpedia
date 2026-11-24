@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_casimir_on_cyclic_holds
 -- name    : Formalism.REAL.casimir_on_cyclic_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:20:10.796256+00:00
 -- url     : https://prove2.me/theorems/6199ed65-b057-47b2-86d0-b877b921520c

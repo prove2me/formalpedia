@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_wachCol_lift_transfer
 -- name    : Formalism.WeaklyAdmissibleFiltrations.wachCol_lift_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:39:04.94512+00:00
 -- url     : https://prove2.me/theorems/e5e94514-dc4b-4328-884e-5721976cacc4

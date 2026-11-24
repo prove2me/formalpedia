@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrExp2a_psTrunc_two_twist
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrExp2a.psTrunc_two_twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:57:50.815795+00:00
 -- url     : https://prove2.me/theorems/bb41aef0-1427-4423-93a7-80974c5718c7

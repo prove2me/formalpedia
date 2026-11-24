@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_analyticAt_aevalTower
 -- name    : GlobalTheory.AffinePoints.analyticAt_aevalTower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:54:28.86897+00:00
 -- url     : https://prove2.me/theorems/86b6c673-430f-4cb6-8445-bc386b5125f3

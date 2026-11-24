@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankGapBounds_LocalQuadraticParts_hOf_pow_eq_one_iff
 -- name    : Formalism.RankGapBounds.LocalQuadraticParts.hOf_pow_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:25:48.221337+00:00
 -- url     : https://prove2.me/theorems/b2ba426f-9e8b-409e-be96-6140c2315c23

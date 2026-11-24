@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AlgWtHW_eval_evPt
 -- name    : GlobalTheory.AlgWtHW.eval_evPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:57:20.386064+00:00
 -- url     : https://prove2.me/theorems/105085c8-6158-497a-8e8e-eac911bf24cb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZRN_er_nonneg
 -- name    : Formalism.ZRN.er_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:43:19.918901+00:00
 -- url     : https://prove2.me/theorems/f0102fb1-02eb-4d11-805c-435f16c4e77d

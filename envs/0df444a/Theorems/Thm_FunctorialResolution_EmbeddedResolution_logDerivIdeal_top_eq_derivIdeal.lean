@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_logDerivIdeal_top_eq_derivIdeal
 -- name    : FunctorialResolution.EmbeddedResolution.logDerivIdeal_top_eq_derivIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:48:15.40639+00:00
 -- url     : https://prove2.me/theorems/1415a553-d071-4b39-93c4-c57aaba8869a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_vanishingIdeal_congr
 -- name    : FunctorialResolution.EmbeddedResolution.vanishingIdeal_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:50:23.206467+00:00
 -- url     : https://prove2.me/theorems/3468fd40-a980-4832-a39d-c3611a882ff6

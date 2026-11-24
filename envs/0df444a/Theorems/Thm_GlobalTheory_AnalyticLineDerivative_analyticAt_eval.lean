@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnalyticLineDerivative_analyticAt_eval
 -- name    : GlobalTheory.AnalyticLineDerivative.analyticAt_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:56:31.228979+00:00
 -- url     : https://prove2.me/theorems/0d9ac01d-397f-4886-9d45-ad3f9ae1d063

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_group_gram_holds
 -- name    : Formalism.QuantumDeterminants.group_gram_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:57:27.56197+00:00
 -- url     : https://prove2.me/theorems/461df7fd-e5c3-4486-a882-f565e03de1f2

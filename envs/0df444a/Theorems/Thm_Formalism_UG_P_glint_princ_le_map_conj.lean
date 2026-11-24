@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_glint_princ_le_map_conj
 -- name    : Formalism.UG.P.glint_princ_le_map_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:24:58.066024+00:00
 -- url     : https://prove2.me/theorems/cf24e38a-7b49-4f53-a1e7-7e46527271c9

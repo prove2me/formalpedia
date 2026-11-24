@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenFrameSpan_Sj_monomial
 -- name    : GenFrameSpan.Sj_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:50:53.409141+00:00
 -- url     : https://prove2.me/theorems/9a52ed3b-ae12-46fc-8d5f-4e701033bba5

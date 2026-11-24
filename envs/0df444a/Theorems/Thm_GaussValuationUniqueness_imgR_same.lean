@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussValuationUniqueness_imgR_same
 -- name    : GaussValuationUniqueness.imgR_same
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:51:12.52381+00:00
 -- url     : https://prove2.me/theorems/a6f44d35-cec3-42fa-b493-135eaebcf762

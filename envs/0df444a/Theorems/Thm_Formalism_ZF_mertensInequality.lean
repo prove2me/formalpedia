@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_mertensInequality
 -- name    : Formalism.ZF.mertensInequality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:41:54.144883+00:00
 -- url     : https://prove2.me/theorems/bbb64c22-cf27-4424-a88b-ad836498c981

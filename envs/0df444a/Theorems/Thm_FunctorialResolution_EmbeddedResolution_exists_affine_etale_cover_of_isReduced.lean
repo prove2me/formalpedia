@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_exists_affine_etale_cover_of_isReduced
 -- name    : FunctorialResolution.EmbeddedResolution.exists_affine_etale_cover_of_isReduced
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:46:57.466308+00:00
 -- url     : https://prove2.me/theorems/ead6706a-cf66-4769-b10c-f75a59cbfa9a

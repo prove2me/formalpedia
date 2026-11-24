@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_jumpsIcc
 -- name    : Formalism.WeaklyAdmissibleFiltrations.jumpsIcc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:39:58.268634+00:00
 -- url     : https://prove2.me/theorems/20bc8e3e-ee37-42b1-8650-72624fc1f033

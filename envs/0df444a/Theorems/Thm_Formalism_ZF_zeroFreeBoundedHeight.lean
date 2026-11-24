@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_zeroFreeBoundedHeight
 -- name    : Formalism.ZF.zeroFreeBoundedHeight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:40:50.303819+00:00
 -- url     : https://prove2.me/theorems/9b702de3-84a8-4590-b4ca-d05dab37e3f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_zetaPrimeSumErrorLipschitz
 -- name    : Formalism.zetaPrimeSumErrorLipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:20:52.993248+00:00
 -- url     : https://prove2.me/theorems/9eee42ca-8326-4696-834c-2781a0cffbff

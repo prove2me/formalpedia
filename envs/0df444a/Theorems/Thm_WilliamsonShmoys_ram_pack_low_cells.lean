@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_ram_pack_low_cells
 -- name    : WilliamsonShmoys.ram_pack_low_cells
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-24T11:46:00.471219+00:00
 -- url     : https://prove2.me/theorems/9b85a633-3230-4269-a768-52d681b533fa

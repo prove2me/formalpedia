@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_zeta_minus_pole_eq
 -- name    : Formalism.ZeroFreeDirichlet.zeta_minus_pole_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:44:21.289799+00:00
 -- url     : https://prove2.me/theorems/0aaf5d1c-92de-4e84-a798-1e3a4b5c646b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussValuationUniqueness_sHom_factor
 -- name    : GaussValuationUniqueness.sHom_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:51:13.718954+00:00
 -- url     : https://prove2.me/theorems/489b6f2e-1079-453d-9982-3f7817440bfa

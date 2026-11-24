@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussValuationUniqueness_ratio_eq_of
 -- name    : GaussValuationUniqueness.ratio_eq_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:50:25.294508+00:00
 -- url     : https://prove2.me/theorems/c1fec947-db6c-49f9-b1e4-d8bd198a5ada

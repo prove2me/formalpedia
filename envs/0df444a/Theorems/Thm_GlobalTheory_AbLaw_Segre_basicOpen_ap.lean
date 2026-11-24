@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_Segre_basicOpen_ap
 -- name    : GlobalTheory.AbLaw.Segre.basicOpen_ap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:52:07.738561+00:00
 -- url     : https://prove2.me/theorems/8748fe7b-25a1-48a0-a95a-7dfe3bacb26c

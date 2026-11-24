@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_isOpen_connectedComponent_of_noetherianSpace
 -- name    : FunctorialResolution.Blowup.isOpen_connectedComponent_of_noetherianSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:45:28.579038+00:00
 -- url     : https://prove2.me/theorems/a6b5cc14-0c3c-4a77-a25a-7bd52444364d

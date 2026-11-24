@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_exists_mvPolynomial_map_appTop_eq
 -- name    : FunctorialResolution.EmbeddedResolution.exists_mvPolynomial_map_appTop_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:47:21.774332+00:00
 -- url     : https://prove2.me/theorems/466481d9-d14b-4183-b445-b00b9c10b71a

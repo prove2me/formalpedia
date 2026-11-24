@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_chartEvalHom_comp_C
 -- name    : FunctorialResolution.EmbeddedResolution.chartEvalHom_comp_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:46:46.678005+00:00
 -- url     : https://prove2.me/theorems/e06a54e3-2952-4a6a-8fb8-b17999618da6

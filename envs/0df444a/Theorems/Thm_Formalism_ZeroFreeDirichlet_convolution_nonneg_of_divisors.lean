@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_convolution_nonneg_of_divisors
 -- name    : Formalism.ZeroFreeDirichlet.convolution_nonneg_of_divisors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:43:04.177726+00:00
 -- url     : https://prove2.me/theorems/498b713b-0849-4034-b9bd-cc29d08bae5b

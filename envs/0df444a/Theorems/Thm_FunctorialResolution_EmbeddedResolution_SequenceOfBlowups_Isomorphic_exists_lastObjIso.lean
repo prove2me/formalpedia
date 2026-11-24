@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_SequenceOfBlowups_Isomorphic_exists_lastObjIso
 -- name    : FunctorialResolution.EmbeddedResolution.SequenceOfBlowups.Isomorphic.exists_lastObjIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:47:34.835307+00:00
 -- url     : https://prove2.me/theorems/0ee1f226-5c3a-4a12-8d0c-940780517dda

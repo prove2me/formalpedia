@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_taylorExp
 -- name    : Formalism.L2.Th1.F.taylorExp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:40:05.586823+00:00
 -- url     : https://prove2.me/theorems/d512816a-b7d5-4a6a-b5ae-d4b7e148d0ca

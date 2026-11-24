@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_SequenceOfBlowupsPushforward_length_eq_length
 -- name    : FunctorialResolution.EmbeddedResolution.SequenceOfBlowupsPushforward.length_eq_length
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:47:16.662225+00:00
 -- url     : https://prove2.me/theorems/108f593d-42cd-492b-8723-4e95d8c23d82

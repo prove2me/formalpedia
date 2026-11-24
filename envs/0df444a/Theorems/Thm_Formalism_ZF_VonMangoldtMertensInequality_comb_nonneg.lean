@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_VonMangoldtMertensInequality_comb_nonneg
 -- name    : Formalism.ZF.VonMangoldtMertensInequality.comb_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:42:06.373432+00:00
 -- url     : https://prove2.me/theorems/4623a7f1-fb62-4241-8853-cc9a571a8a99

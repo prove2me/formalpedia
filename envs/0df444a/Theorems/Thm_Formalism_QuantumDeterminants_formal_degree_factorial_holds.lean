@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_formal_degree_factorial_holds
 -- name    : Formalism.QuantumDeterminants.formal_degree_factorial_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:18:57.489808+00:00
 -- url     : https://prove2.me/theorems/a811048b-4e67-4b96-a816-ddd66a4c2e4c

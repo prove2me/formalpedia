@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WindowSums_zv_not_dvd_cast
 -- name    : Formalism.WindowSums.zv_not_dvd_cast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:39:38.693859+00:00
 -- url     : https://prove2.me/theorems/4a2dc797-fd6a-45c3-b4f2-542a760130a1

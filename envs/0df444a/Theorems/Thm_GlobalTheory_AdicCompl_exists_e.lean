@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdicCompl_exists_e
 -- name    : GlobalTheory.AdicCompl.exists_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:53:48.204042+00:00
 -- url     : https://prove2.me/theorems/5e92fd55-adcf-44f4-9635-b15ba50b0df7

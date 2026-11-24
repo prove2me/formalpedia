@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_tuningMonomial_zero
 -- name    : FunctorialResolution.EmbeddedResolution.tuningMonomial_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:50:14.708413+00:00
 -- url     : https://prove2.me/theorems/093fea87-f288-4b7d-b183-b8ec0d1458b3

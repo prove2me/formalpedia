@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_rowColength
 -- name    : Formalism.RepresentationBoundsCohomology.rowColength
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:27:34.378487+00:00
 -- url     : https://prove2.me/theorems/4b4f130d-c2c3-47ca-8df3-dcb22bc3e3f6

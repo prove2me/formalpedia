@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_inertia_fix
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.inertia_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:30:18.350106+00:00
 -- url     : https://prove2.me/theorems/acca9ef6-a4fa-49cf-a979-42e6ec2c86ec

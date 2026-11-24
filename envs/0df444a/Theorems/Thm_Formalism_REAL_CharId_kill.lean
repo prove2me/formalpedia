@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_CharId_kill
 -- name    : Formalism.REAL.CharId_kill
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:19:43.683522+00:00
 -- url     : https://prove2.me/theorems/0b3d284f-e7f7-45e0-abba-0b5a0ac5499d

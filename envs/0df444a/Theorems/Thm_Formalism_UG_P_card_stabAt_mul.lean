@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_card_stabAt_mul
 -- name    : Formalism.UG.P.card_stabAt_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:07:47.417952+00:00
 -- url     : https://prove2.me/theorems/67fa6f50-520d-4514-b07f-bfd1fbacce96

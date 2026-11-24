@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_re_ge_of_mem_closedBall
 -- name    : Formalism.ZeroFreeDirichlet.re_ge_of_mem_closedBall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:44:33.963181+00:00
 -- url     : https://prove2.me/theorems/ac61a467-2ce1-4123-8dd7-a53838312230

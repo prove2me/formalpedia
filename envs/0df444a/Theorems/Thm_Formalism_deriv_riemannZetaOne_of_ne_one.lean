@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_deriv_riemannZetaOne_of_ne_one
 -- name    : Formalism.deriv_riemannZetaOne_of_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:44:25.907079+00:00
 -- url     : https://prove2.me/theorems/5d65e3f0-9eda-4a38-8938-134a763d84f9

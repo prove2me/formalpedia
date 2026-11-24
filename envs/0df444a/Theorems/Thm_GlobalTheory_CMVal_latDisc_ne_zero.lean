@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_latDisc_ne_zero
 -- name    : GlobalTheory.CMVal.latDisc_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:06:48.512307+00:00
 -- url     : https://prove2.me/theorems/054faafb-22a3-4567-9b3e-4196e9ae1e6a

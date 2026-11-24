@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_bounded_of_exp_sqrt_lt_pow
 -- name    : Formalism.ZeroFreeDirichlet.bounded_of_exp_sqrt_lt_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:43:33.381301+00:00
 -- url     : https://prove2.me/theorems/7e8cecbe-58a5-4937-9372-fa53a94d7910

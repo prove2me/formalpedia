@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_selRelax
 -- name    : Formalism.NG.selRelax
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:55:35.892236+00:00
 -- url     : https://prove2.me/theorems/587b8a64-c8f3-4500-a607-9e58609321b9

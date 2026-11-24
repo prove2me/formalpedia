@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_arr_operators_gl_relation
 -- name    : Formalism.REAL.arr_operators_gl_relation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:20:16.57291+00:00
 -- url     : https://prove2.me/theorems/f03058f4-4246-4ebd-acbe-a7a91978972d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_coe_complSUnionOtherComponents
 -- name    : FunctorialResolution.EmbeddedResolution.coe_complSUnionOtherComponents
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:46:45.496803+00:00
 -- url     : https://prove2.me/theorems/566d0e2c-a06b-440e-a31d-2df9633eddd9

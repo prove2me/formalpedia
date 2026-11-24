@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_Ef_FLam
 -- name    : GlobalTheory.AnArc.Ef_FLam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:57:42.199571+00:00
 -- url     : https://prove2.me/theorems/96112932-973c-4973-b5f8-4823fff3a1da

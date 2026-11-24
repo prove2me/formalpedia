@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_hecke_act_mul
 -- name    : Formalism.UG.P.hecke_act_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:19:37.180727+00:00
 -- url     : https://prove2.me/theorems/052c1b3f-09d7-4874-badf-87e068a6c40b

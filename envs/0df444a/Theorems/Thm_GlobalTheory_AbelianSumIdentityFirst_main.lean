@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbelianSumIdentityFirst_main
 -- name    : GlobalTheory.AbelianSumIdentityFirst.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:52:20.932226+00:00
 -- url     : https://prove2.me/theorems/a503d883-00e4-48b3-a444-21894b0cba8a

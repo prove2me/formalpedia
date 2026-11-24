@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_logDerivIdeal_iSup_le
 -- name    : FunctorialResolution.EmbeddedResolution.logDerivIdeal_iSup_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:48:06.570287+00:00
 -- url     : https://prove2.me/theorems/d17735ce-77a5-421f-a753-5d143d931e79

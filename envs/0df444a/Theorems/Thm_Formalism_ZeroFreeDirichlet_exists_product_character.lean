@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_exists_product_character
 -- name    : Formalism.ZeroFreeDirichlet.exists_product_character
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:42:27.059071+00:00
 -- url     : https://prove2.me/theorems/366abcff-26fb-4cb8-9be9-534f7091c20c

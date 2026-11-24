@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_compactCasimir_pointwiseAction_apply
 -- name    : Formalism.REAL.compactCasimir_pointwiseAction_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:20:24.383867+00:00
 -- url     : https://prove2.me/theorems/68373a72-c55c-4f3c-8e38-f9eddab32292

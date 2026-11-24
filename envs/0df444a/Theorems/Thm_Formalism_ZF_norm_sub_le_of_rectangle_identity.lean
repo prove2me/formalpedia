@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_norm_sub_le_of_rectangle_identity
 -- name    : Formalism.ZF.norm_sub_le_of_rectangle_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:42:22.644804+00:00
 -- url     : https://prove2.me/theorems/8ac3bac6-6192-460e-aeba-ecad3d04f21a

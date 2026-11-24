@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_GL_columns_linearIndependent
 -- name    : Formalism.UG.P.GL_columns_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:13:24.287881+00:00
 -- url     : https://prove2.me/theorems/87785cd6-88dc-4dd6-9217-759baab16dc2

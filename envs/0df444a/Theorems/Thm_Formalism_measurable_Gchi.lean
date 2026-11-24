@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_measurable_Gchi
 -- name    : Formalism.measurable_Gchi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:46:01.985381+00:00
 -- url     : https://prove2.me/theorems/0d603ab9-6731-49e7-bccd-0af8be4b60e9

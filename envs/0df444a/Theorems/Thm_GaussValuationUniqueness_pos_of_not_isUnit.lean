@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussValuationUniqueness_pos_of_not_isUnit
 -- name    : GaussValuationUniqueness.pos_of_not_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:51:33.496364+00:00
 -- url     : https://prove2.me/theorems/d5f50a03-08a6-41db-85fe-70216646f7f1

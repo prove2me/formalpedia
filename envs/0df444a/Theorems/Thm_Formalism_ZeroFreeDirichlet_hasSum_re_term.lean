@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_hasSum_re_term
 -- name    : Formalism.ZeroFreeDirichlet.hasSum_re_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:42:39.846392+00:00
 -- url     : https://prove2.me/theorems/12e63397-9770-48c9-a09f-373b2d01fcaa

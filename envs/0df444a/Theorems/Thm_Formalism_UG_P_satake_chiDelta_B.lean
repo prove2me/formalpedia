@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satake_chiDelta_B
 -- name    : Formalism.UG.P.satake_chiDelta_B
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:32:45.109698+00:00
 -- url     : https://prove2.me/theorems/03b141f0-b747-4c6d-8634-e74986928cf0

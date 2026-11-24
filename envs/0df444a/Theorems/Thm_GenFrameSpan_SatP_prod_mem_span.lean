@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenFrameSpan_SatP_prod_mem_span
 -- name    : GenFrameSpan.SatP.prod_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:50:51.592836+00:00
 -- url     : https://prove2.me/theorems/11fbd6a0-54d9-4ce3-8559-99a245886553

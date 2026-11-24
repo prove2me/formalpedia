@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdicSurj_ker_psi
 -- name    : GlobalTheory.AdicSurj.ker_psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:55:09.144882+00:00
 -- url     : https://prove2.me/theorems/7f7cc2e7-1199-4ee6-b64f-083e72fed269

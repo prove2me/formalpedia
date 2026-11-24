@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_TwoAdicValuation_val_odd
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.TwoAdicValuation.val_odd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:30:19.39969+00:00
 -- url     : https://prove2.me/theorems/357667a5-7f05-4497-b5d4-7b21269429e8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AugCot_locally_iff_smoothOfRelativeDimension
 -- name    : GlobalTheory.AugCot.locally_iff_smoothOfRelativeDimension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:45:04.056931+00:00
 -- url     : https://prove2.me/theorems/6b633fc4-a344-488f-bfa8-73f02b61c2b2

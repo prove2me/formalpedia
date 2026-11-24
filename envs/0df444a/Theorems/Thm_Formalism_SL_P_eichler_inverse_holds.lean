@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SL_P_eichler_inverse_holds
 -- name    : Formalism.SL.P.eichler_inverse_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:27:08.272206+00:00
 -- url     : https://prove2.me/theorems/4fa29b89-3718-46f4-8340-5b40dc3e7afa

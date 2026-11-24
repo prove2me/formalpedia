@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_DIV_HookProducts_RBTie_cU_mul_conj
 -- name    : Formalism.MainNotions.DIV.HookProducts.RBTie.cU_mul_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:17:25.799692+00:00
 -- url     : https://prove2.me/theorems/02e94a31-eb48-492a-9510-4b96d4301faf

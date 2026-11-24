@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_ordInfty_algebraMap
 -- name    : GroundTheory.Arith.Abelian.ordInfty_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:33:03.740527+00:00
 -- url     : https://prove2.me/theorems/ee7555ce-05fe-492b-9829-b64372529473

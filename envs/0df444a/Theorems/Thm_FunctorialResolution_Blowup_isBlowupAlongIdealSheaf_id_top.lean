@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_isBlowupAlongIdealSheaf_id_top
 -- name    : FunctorialResolution.Blowup.isBlowupAlongIdealSheaf_id_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:45:29.401808+00:00
 -- url     : https://prove2.me/theorems/f468afc3-426a-442b-91ed-326a0ec6da12

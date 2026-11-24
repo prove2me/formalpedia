@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WachCohomologyFacts_PLenBound_length_quot_pow_le
 -- name    : Formalism.WachCohomologyFacts.PLenBound.length_quot_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:37:33.842942+00:00
 -- url     : https://prove2.me/theorems/b7926543-95e9-44b8-bc5e-d11678ca5706

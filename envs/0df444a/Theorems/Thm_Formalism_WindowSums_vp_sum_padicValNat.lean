@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WindowSums_vp_sum_padicValNat
 -- name    : Formalism.WindowSums.vp_sum_padicValNat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:39:33.188721+00:00
 -- url     : https://prove2.me/theorems/4921e719-1387-415b-b23b-c160e31abf83

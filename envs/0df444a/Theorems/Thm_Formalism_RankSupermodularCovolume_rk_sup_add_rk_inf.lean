@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankSupermodularCovolume_rk_sup_add_rk_inf
 -- name    : Formalism.RankSupermodularCovolume.rk_sup_add_rk_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:26:13.995877+00:00
 -- url     : https://prove2.me/theorems/346cf2a5-0b51-463b-86fa-a705884c8723

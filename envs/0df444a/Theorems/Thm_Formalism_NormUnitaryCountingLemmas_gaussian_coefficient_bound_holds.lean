@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_gaussian_coefficient_bound_holds
 -- name    : Formalism.NormUnitaryCountingLemmas.gaussian_coefficient_bound_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:18:11.973645+00:00
 -- url     : https://prove2.me/theorems/30218eda-33f2-41b4-92c8-99a0a6bea334

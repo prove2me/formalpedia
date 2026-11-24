@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_norm_disc_center_le
 -- name    : Formalism.ZeroFreeDirichlet.norm_disc_center_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:42:44.581312+00:00
 -- url     : https://prove2.me/theorems/6518f250-2dd4-480f-9858-d294cb3819e9

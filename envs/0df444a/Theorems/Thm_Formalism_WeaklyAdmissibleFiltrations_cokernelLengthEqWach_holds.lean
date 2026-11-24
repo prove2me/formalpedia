@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_cokernelLengthEqWach_holds
 -- name    : Formalism.WeaklyAdmissibleFiltrations.cokernelLengthEqWach_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:40:19.832024+00:00
 -- url     : https://prove2.me/theorems/76484166-bfd3-45b9-a4e6-6440d1243ca7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_valS_add_le
 -- name    : Formalism.MainNotions.PlaneGram.valS_add_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:46:14.904838+00:00
 -- url     : https://prove2.me/theorems/e4e4b0ab-3d15-4908-a582-d427f292aeb2

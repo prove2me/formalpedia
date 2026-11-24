@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_xh_coeffs
 -- name    : Formalism.LIFT.xh_coeffs
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:22.342668+00:00
 -- url     : https://prove2.me/theorems/621638c0-0313-4bfb-8fb9-82bf02ee0c46

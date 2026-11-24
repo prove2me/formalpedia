@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankGapBounds_LocalQuadraticParts_tops_lemma_six_holds
 -- name    : Formalism.RankGapBounds.LocalQuadraticParts.tops_lemma_six_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:25:39.631804+00:00
 -- url     : https://prove2.me/theorems/42652759-6443-4372-b00c-c04e689aecf2

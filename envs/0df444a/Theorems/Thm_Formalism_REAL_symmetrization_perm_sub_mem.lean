@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_symmetrization_perm_sub_mem
 -- name    : Formalism.REAL.symmetrization_perm_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:26:14.872128+00:00
 -- url     : https://prove2.me/theorems/aa1537f3-5609-4cfc-bb6e-b20481eb767c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_H1Iso_rs_inv_mul
 -- name    : GlobalTheory.AbLaw.H1Iso.rs_inv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:52:08.620061+00:00
 -- url     : https://prove2.me/theorems/34c3c197-2920-46c2-a4c7-f2ae10a4f1c9

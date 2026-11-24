@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_negLogDeriv_eq_LSeries
 -- name    : Formalism.ZeroFreeDirichlet.negLogDeriv_eq_LSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:42:28.772804+00:00
 -- url     : https://prove2.me/theorems/69e7368c-6a89-48f0-8009-3edfe1f82707

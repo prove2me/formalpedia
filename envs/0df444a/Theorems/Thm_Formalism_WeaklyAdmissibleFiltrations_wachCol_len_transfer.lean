@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_wachCol_len_transfer
 -- name    : Formalism.WeaklyAdmissibleFiltrations.wachCol_len_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:39:01.555019+00:00
 -- url     : https://prove2.me/theorems/78ab1c3e-52b9-4b2d-89a7-0bc8eb2e4656

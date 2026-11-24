@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_global_lattice_equiv_holds
 -- name    : Formalism.UG.P.global_lattice_equiv_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:11:18.866268+00:00
 -- url     : https://prove2.me/theorems/63178edb-7071-4a63-a78b-8c30a3572420

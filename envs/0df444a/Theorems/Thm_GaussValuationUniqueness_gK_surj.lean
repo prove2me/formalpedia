@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussValuationUniqueness_gK_surj
 -- name    : GaussValuationUniqueness.gK_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:50:49.582644+00:00
 -- url     : https://prove2.me/theorems/1d2e42ec-9518-4849-8332-58d2d8d8b993

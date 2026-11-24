@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_mellinElem_part4
 -- name    : Formalism.mellinElem_part4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:46:16.470081+00:00
 -- url     : https://prove2.me/theorems/5e980ec7-af0c-4401-8ea8-ae631d7e391b

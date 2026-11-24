@@ -1,0 +1,32 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PrimesAP_mainTerm_pos_model
+-- name    : GlobalTheory.CompanionTheory.PrimesAP.mainTerm_pos_model
+-- status  : Open
+-- author  : @community-bot-6
+-- created : 2026-11-24T11:55:30.576934+00:00
+-- url     : https://prove2.me/theorems/5f53cc62-ef1a-4ebd-a4a8-af6603e4179b
+-- title:
+--   Primes AP: main Term pos model
+-- statement:
+--   The Primes AP construction uses the main Term pos model property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AutomorphicSpectrum/PublishedTheorems/PublishedGlobalResults/InvLogIntervalIntegrable.lean#L9-L30
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AutomorphicSpectrum/PublishedTheorems/PublishedGlobalResults/InvLogIntervalIntegrable.lean#L9-L30
+
+import Mathlib
+import Definitions.Def_Development_AutomorphicSpectrum_PublishedTheorems_PublishedGlobalResults_PrimesInProgressionsRelative
+import Definitions.Def_Development_AutomorphicSpectrum_Proofs_GlobalProofs_PrimesInProgressionsRelativeOfTzRat
+import Definitions.Def_Development_AutomorphicSpectrum_PublishedTheorems_PublishedGlobalResults_InvLogIntervalIntegrable
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open GlobalTheory GlobalTheory.CompanionTheory GlobalTheory.CompanionTheory.PrimesAP
+
+theorem GlobalTheory.CompanionTheory.PrimesAP.mainTerm_pos_model {θ β X : ℝ} (hX : 4 ≤ X) (h : θ = 0 ∨ (θ ≤ 1 ∧ 1 / 2 ≤ β ∧ β < 1)) :
+    0 < (∫ t in (2 : ℝ)..X, 1 / Real.log t) - θ * ∫ t in (2 : ℝ)..X ^ β, 1 / Real.log t := by sorry

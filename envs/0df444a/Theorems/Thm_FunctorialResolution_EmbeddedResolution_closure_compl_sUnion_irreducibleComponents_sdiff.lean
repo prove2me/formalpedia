@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_closure_compl_sUnion_irreducibleComponents_sdiff
 -- name    : FunctorialResolution.EmbeddedResolution.closure_compl_sUnion_irreducibleComponents_sdiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:47:27.546315+00:00
 -- url     : https://prove2.me/theorems/38efd856-af3c-4244-9237-0ad50cbad56e

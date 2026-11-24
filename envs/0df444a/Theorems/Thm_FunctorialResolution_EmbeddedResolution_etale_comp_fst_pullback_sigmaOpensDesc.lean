@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_etale_comp_fst_pullback_sigmaOpensDesc
 -- name    : FunctorialResolution.EmbeddedResolution.etale_comp_fst_pullback_sigmaOpensDesc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:46:48.443391+00:00
 -- url     : https://prove2.me/theorems/40ac8643-ac1e-447f-86aa-dfe58d4c5d71

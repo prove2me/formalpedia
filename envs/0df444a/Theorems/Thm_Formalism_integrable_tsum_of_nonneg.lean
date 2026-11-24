@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_integrable_tsum_of_nonneg
 -- name    : Formalism.integrable_tsum_of_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:44:34.524471+00:00
 -- url     : https://prove2.me/theorems/5b879690-45dc-4382-a957-0cc39596590f

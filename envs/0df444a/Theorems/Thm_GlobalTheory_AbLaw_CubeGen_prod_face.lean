@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_CubeGen_prod_face
 -- name    : GlobalTheory.AbLaw.CubeGen.prod_face
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:50:44.201861+00:00
 -- url     : https://prove2.me/theorems/0365b773-bc67-42e8-8a23-c4216c6a4135

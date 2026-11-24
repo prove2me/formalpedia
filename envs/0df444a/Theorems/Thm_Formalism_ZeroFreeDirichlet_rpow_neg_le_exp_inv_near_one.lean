@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_rpow_neg_le_exp_inv_near_one
 -- name    : Formalism.ZeroFreeDirichlet.rpow_neg_le_exp_inv_near_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:44:27.318774+00:00
 -- url     : https://prove2.me/theorems/a74fb49d-1914-4fc0-bb3c-f673cba7b788

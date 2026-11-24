@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_IsStrictPullbackBlowupSeq_length_eq
 -- name    : FunctorialResolution.EmbeddedResolution.IsStrictPullbackBlowupSeq.length_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:45:41.206427+00:00
 -- url     : https://prove2.me/theorems/c7fbed4d-6e54-4ede-bc14-55bc6c4c0031

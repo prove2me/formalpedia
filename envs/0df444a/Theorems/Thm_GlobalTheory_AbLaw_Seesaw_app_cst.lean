@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_Seesaw_app_cst
 -- name    : GlobalTheory.AbLaw.Seesaw.app_cst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:52:11.676887+00:00
 -- url     : https://prove2.me/theorems/1bd34123-6c66-4bda-9b95-d08bed52a623

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WindowSums_zv_pow_prime_pow
 -- name    : Formalism.WindowSums.zv_pow_prime_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:39:50.957404+00:00
 -- url     : https://prove2.me/theorems/79450ccf-0d15-4599-ba08-11333137b4c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_comp_fst_comp_eq_comp_snd_comp_sigmaOpensDesc
 -- name    : FunctorialResolution.EmbeddedResolution.comp_fst_comp_eq_comp_snd_comp_sigmaOpensDesc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:47:05.074314+00:00
 -- url     : https://prove2.me/theorems/7e2c75ba-1076-453b-92fc-8198e73c364f

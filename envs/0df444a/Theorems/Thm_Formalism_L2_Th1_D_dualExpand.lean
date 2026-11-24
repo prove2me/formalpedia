@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_dualExpand
 -- name    : Formalism.L2.Th1.D.dualExpand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:14:28.233332+00:00
 -- url     : https://prove2.me/theorems/1043f9b5-1afa-4625-8f01-bf84174fa46a

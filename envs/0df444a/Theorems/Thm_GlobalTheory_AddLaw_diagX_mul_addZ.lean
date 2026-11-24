@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AddLaw_diagX_mul_addZ
 -- name    : GlobalTheory.AddLaw.diagX_mul_addZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:54:34.929209+00:00
 -- url     : https://prove2.me/theorems/be4d502f-3f76-4190-aa4e-4b437abddecf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_natDegree_weierstrassRHS
 -- name    : GroundTheory.Arith.Abelian.natDegree_weierstrassRHS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:41:51.748961+00:00
 -- url     : https://prove2.me/theorems/e4b18cd7-5896-4f31-99fd-030d21a0351c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SA_P_packing_count_geometric_mean
 -- name    : Formalism.SA.P.packing_count_geometric_mean
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:27:55.763062+00:00
 -- url     : https://prove2.me/theorems/edd960b4-fa58-40df-a49c-bc7dd39eed3d
