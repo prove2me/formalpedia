@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for GlobalTheory.LatPair.phiOne_mem_SB
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:54:39.814436+00:00
 -- url     : https://prove2.me/submissions/73c2038e-b306-4541-84f7-92c83b2fab2e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Development_AbelianVarietyTheory_Definitions_TwistedInnerProducts_HasConductorMulShift

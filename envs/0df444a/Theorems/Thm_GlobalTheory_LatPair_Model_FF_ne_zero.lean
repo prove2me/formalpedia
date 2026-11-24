@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_Model_FF_ne_zero
 -- name    : GlobalTheory.LatPair.Model.FF_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:58:53.208028+00:00
 -- url     : https://prove2.me/theorems/d9d6cef0-13bb-4bd2-987c-849295c3479a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GL2b2_PfN_tt_differentiable
 -- name    : Formalism.HermitianLattices.GL2b2.PfN.tt_differentiable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:04:03.472211+00:00
 -- url     : https://prove2.me/theorems/f53bc2ca-1211-4193-878a-40036f0d1b82

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LieAlgebraWeightVectors_exists_frame_of_positive_vector
 -- name    : Formalism.FourierDecayAlt.Q.LieAlgebraWeightVectors.exists_frame_of_positive_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:44:47.989216+00:00
 -- url     : https://prove2.me/theorems/03b026ce-d9b6-47de-912c-b09dea0c78fe

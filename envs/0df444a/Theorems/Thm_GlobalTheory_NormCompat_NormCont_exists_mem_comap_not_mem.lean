@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormCompat_NormCont_exists_mem_comap_not_mem
 -- name    : GlobalTheory.NormCompat.NormCont.exists_mem_comap_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:34:21.922133+00:00
 -- url     : https://prove2.me/theorems/6e0625cd-0acf-45e4-9fe1-73047426ab47

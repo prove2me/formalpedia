@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagRestrictConstantCoeff_proof_586f614cbcf2
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagRestrictConstantCoeff_proof_586f614cbcf2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:00:59.289063+00:00
 -- url     : https://prove2.me/theorems/bd62ac73-08c9-4a60-b195-13b5a40db5b5

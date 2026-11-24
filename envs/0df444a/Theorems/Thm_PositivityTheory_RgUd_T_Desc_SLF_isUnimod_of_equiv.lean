@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_T_Desc_SLF_isUnimod_of_equiv
 -- name    : PositivityTheory.RgUd.T.Desc.SLF.isUnimod_of_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:02:39.758188+00:00
 -- url     : https://prove2.me/theorems/7acc10a5-1a95-41e9-8af1-47877adae05d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_RayData_LSeries_coef_eq_sum
 -- name    : GlobalTheory.Mem.RayData.LSeries_coef_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:24:52.736717+00:00
 -- url     : https://prove2.me/theorems/56d80a68-19ec-4474-9da5-8888fae9f83e

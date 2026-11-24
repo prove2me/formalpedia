@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatchTerm_class_sum_eq
 -- name    : GlobalTheory.MatchTerm.class_sum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:22:31.392934+00:00
 -- url     : https://prove2.me/theorems/42c047a2-5045-41b5-bdc8-a4fe0d0b48f6

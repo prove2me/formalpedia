@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AllClasses_sign_spec
 -- name    : GlobalTheory.AllClasses.sign_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:58:53.646451+00:00
 -- url     : https://prove2.me/theorems/e1b8de2f-954a-44f4-a3ed-af73cdfb5e37

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_reflectionSignedCompactBoundV1
 -- name    : Kyprianou.Ch03.reflectionSignedCompactBoundV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T18:58:53.206102+00:00
 -- url     : https://prove2.me/theorems/5ab2c3fe-bd00-431c-92a1-5d6ce9cb8949

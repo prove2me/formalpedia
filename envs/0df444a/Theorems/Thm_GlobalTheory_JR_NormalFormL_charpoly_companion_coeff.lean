@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_NormalFormL_charpoly_companion_coeff
 -- name    : GlobalTheory.JR.NormalFormL.charpoly_companion_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:38:13.367433+00:00
 -- url     : https://prove2.me/theorems/2b2275df-c951-41dd-b83d-31a5c8cadfd9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NoBasePoint_exists_value_one
 -- name    : GlobalTheory.NoBasePoint.exists_value_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:35:15.666217+00:00
 -- url     : https://prove2.me/theorems/57fc022c-90f9-4e30-beb8-9d2875188c9c

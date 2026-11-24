@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Host_ActsAs_unique
 -- name    : Formalism.L2.Host.ActsAs.unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:33:33.719834+00:00
 -- url     : https://prove2.me/theorems/81cb6114-9902-4ad9-8dad-9bf93a810c3a

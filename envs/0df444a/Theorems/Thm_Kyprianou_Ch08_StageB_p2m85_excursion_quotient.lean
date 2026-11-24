@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m85_excursion_quotient
 -- name    : Kyprianou.Ch08.StageB.p2m85_excursion_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T17:58:22.097638+00:00
 -- url     : https://prove2.me/theorems/74a295a8-36e7-4fbc-9f7e-8458a8729369

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocWeil_DerComm_deriv_swap
 -- name    : GlobalTheory.LocWeil.DerComm.deriv_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:13:40.171624+00:00
 -- url     : https://prove2.me/theorems/ed74b784-5bbc-4d1b-9b06-d6ebcbfa908a

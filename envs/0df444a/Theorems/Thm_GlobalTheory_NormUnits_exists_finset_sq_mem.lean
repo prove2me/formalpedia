@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormUnits_exists_finset_sq_mem
 -- name    : GlobalTheory.NormUnits.exists_finset_sq_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:36:18.665509+00:00
 -- url     : https://prove2.me/theorems/acd25407-e23d-4548-8b7b-0988daad128e

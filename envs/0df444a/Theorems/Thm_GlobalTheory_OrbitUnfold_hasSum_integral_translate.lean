@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbitUnfold_hasSum_integral_translate
 -- name    : GlobalTheory.OrbitUnfold.hasSum_integral_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:37:05.005693+00:00
 -- url     : https://prove2.me/theorems/c80b5342-beea-41ce-9d0a-dee63d8351e1

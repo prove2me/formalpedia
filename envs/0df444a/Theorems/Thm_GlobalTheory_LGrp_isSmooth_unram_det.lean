@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_isSmooth_unram_det
 -- name    : GlobalTheory.LGrp.isSmooth_unram_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:57:46.600225+00:00
 -- url     : https://prove2.me/theorems/e6b8e997-7b56-4641-be8d-06e1925d2411

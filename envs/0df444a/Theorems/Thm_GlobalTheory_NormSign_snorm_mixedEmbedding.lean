@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormSign_snorm_mixedEmbedding
 -- name    : GlobalTheory.NormSign.snorm_mixedEmbedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:35:59.831318+00:00
 -- url     : https://prove2.me/theorems/fb3d3c05-c865-4895-9133-029440dd88f6

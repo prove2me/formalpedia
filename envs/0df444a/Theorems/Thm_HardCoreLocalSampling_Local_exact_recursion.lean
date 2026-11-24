@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HardCoreLocalSampling_Local_exact_recursion
 -- name    : HardCoreLocalSampling.Local.exact_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:51:30.86456+00:00
 -- url     : https://prove2.me/theorems/340c5b8b-6874-4990-b519-a45592f28370

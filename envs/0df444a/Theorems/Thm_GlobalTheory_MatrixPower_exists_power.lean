@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatrixPower_exists_power
 -- name    : GlobalTheory.MatrixPower.exists_power
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:22:05.062317+00:00
 -- url     : https://prove2.me/theorems/9031ef9a-63a0-4de6-bff2-76a0201b137e

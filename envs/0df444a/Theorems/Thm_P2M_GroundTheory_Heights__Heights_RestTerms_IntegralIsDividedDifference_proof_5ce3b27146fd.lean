@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_IntegralIsDividedDifference_proof_5ce3b27146fd
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_IntegralIsDividedDifference_proof_5ce3b27146fd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:02:20.468623+00:00
 -- url     : https://prove2.me/theorems/28bd72e3-d027-4d99-b71a-e97243fc91ab

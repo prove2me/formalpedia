@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormVal_addVal_prod
 -- name    : GlobalTheory.NormVal.addVal_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:35:50.203057+00:00
 -- url     : https://prove2.me/theorems/9d012d7d-758c-4949-9a8b-0ab64b62db05

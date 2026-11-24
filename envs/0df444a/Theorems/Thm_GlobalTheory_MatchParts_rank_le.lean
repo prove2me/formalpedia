@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatchParts_rank_le
 -- name    : GlobalTheory.MatchParts.rank_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:19:53.403139+00:00
 -- url     : https://prove2.me/theorems/200f0e6e-ac42-4e8b-bcd7-838da8be7f8d

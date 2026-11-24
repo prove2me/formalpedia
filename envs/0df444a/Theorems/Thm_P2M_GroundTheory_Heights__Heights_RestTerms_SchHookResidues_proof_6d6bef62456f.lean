@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchHookResidues_proof_6d6bef62456f
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchHookResidues_proof_6d6bef62456f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:01:12.861581+00:00
 -- url     : https://prove2.me/theorems/f715a81c-cf5a-4aba-a09e-2cf2d29b6b66

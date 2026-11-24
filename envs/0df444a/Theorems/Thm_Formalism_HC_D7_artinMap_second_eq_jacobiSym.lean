@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_D7_artinMap_second_eq_jacobiSym
 -- name    : Formalism.HC.D7.artinMap_second_eq_jacobiSym
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:09:50.957445+00:00
 -- url     : https://prove2.me/theorems/ca8b0f25-3154-4bd9-a30e-5cf1a6a6dee4

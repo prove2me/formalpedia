@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBC_Lat_dual_sep
 -- name    : Formalism.FourierDecayAlt.P.PBC.Lat.dual_sep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:31:46.046256+00:00
 -- url     : https://prove2.me/theorems/714716ba-d065-4bf5-ace6-f3717b95560d

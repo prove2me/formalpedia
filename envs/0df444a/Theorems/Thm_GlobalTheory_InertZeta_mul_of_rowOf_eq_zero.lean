@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_mul_of_rowOf_eq_zero
 -- name    : GlobalTheory.InertZeta.mul_of_rowOf_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:19:19.416553+00:00
 -- url     : https://prove2.me/theorems/d992f4cf-3e53-4ade-9f5c-ab01a4d661ad

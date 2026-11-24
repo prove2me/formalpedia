@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinGLChar_trace_infl
 -- name    : GlobalTheory.CompanionTheory.FinGLChar.trace_infl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:58:36.668835+00:00
 -- url     : https://prove2.me/theorems/4921eaed-ad31-41e1-b1b4-808bab83c4a9

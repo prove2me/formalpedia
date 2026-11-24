@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_stableGridUnboundedMeasurableV1
 -- name    : Kyprianou.Ch03.stableGridUnboundedMeasurableV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T18:58:39.241256+00:00
 -- url     : https://prove2.me/theorems/46427344-51a4-4302-b634-4c4f738c22e1

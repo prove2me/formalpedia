@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_mE_gl
 -- name    : AAInvW.mE_gl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:34:02.146843+00:00
 -- url     : https://prove2.me/theorems/8e7749ae-03a0-4db4-bd34-4c92b7b15b25

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulUnramified_parallelogram
 -- name    : GlobalTheory.MulUnramified.parallelogram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:27:56.606668+00:00
 -- url     : https://prove2.me/theorems/dcf759ce-2be8-47b5-9bfc-8d13c68e6088

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormSquareRamified_isUnit_norm_of_isCoprime
 -- name    : GlobalTheory.NormSquareRamified.isUnit_norm_of_isCoprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:46:00.634689+00:00
 -- url     : https://prove2.me/theorems/37bbe973-2465-4aee-941e-12f2413ebb72

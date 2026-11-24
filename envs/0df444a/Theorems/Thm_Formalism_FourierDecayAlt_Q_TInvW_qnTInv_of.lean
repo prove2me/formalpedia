@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TInvW_qnTInv_of
 -- name    : Formalism.FourierDecayAlt.Q.TInvW.qnTInv_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:53:50.442169+00:00
 -- url     : https://prove2.me/theorems/64b0182d-c304-4f8d-9ad0-ee94327aa43e

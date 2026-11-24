@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbitAvg_stab_finiteIndex
 -- name    : GlobalTheory.OrbitAvg.stab_finiteIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:37:34.186575+00:00
 -- url     : https://prove2.me/theorems/fecb9583-c461-419d-8a2a-37a7be03fb5d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MonoEigen_orbProd_add
 -- name    : GlobalTheory.MonoEigen.orbProd_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:28:04.724441+00:00
 -- url     : https://prove2.me/theorems/5cab2c4a-0f24-4bdb-bfc0-97f8e9d8bcb2

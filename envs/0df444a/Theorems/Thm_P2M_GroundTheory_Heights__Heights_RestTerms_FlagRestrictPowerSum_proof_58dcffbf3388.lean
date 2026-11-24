@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagRestrictPowerSum_proof_58dcffbf3388
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagRestrictPowerSum_proof_58dcffbf3388
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:01:17.662805+00:00
 -- url     : https://prove2.me/theorems/447f3992-7a89-4041-8156-2458c46aa704

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LineThrough_isMaximal_of_ker_lineMap_lt
 -- name    : GlobalTheory.LineThrough.isMaximal_of_ker_lineMap_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:11:40.471916+00:00
 -- url     : https://prove2.me/theorems/58fd58c6-6076-450c-b203-6df3265eafbb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinDescent_exists_descent_of_invGen_of_invariants
 -- name    : GlobalTheory.LinDescent.exists_descent_of_invGen_of_invariants
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:07:13.917283+00:00
 -- url     : https://prove2.me/theorems/c6b44380-0edd-4331-8c03-76d407febffe

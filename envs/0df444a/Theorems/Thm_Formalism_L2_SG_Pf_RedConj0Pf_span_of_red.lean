@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_RedConj0Pf_span_of_red
 -- name    : Formalism.L2.SG.Pf.RedConj0Pf.span_of_red
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:28:24.893851+00:00
 -- url     : https://prove2.me/theorems/f722ca7c-7955-4785-ac9c-6150beccfb67

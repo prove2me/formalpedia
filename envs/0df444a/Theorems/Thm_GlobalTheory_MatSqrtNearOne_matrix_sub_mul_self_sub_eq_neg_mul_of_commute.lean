@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatSqrtNearOne_matrix_sub_mul_self_sub_eq_neg_mul_of_commute
 -- name    : GlobalTheory.MatSqrtNearOne.matrix_sub_mul_self_sub_eq_neg_mul_of_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:19:22.021818+00:00
 -- url     : https://prove2.me/theorems/f089a025-0cdd-4d01-be26-a15983eecd91

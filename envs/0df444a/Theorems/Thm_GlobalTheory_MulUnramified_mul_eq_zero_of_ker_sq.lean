@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulUnramified_mul_eq_zero_of_ker_sq
 -- name    : GlobalTheory.MulUnramified.mul_eq_zero_of_ker_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:27:38.064661+00:00
 -- url     : https://prove2.me/theorems/181aa714-2fee-47f8-b853-e112dae4b1af

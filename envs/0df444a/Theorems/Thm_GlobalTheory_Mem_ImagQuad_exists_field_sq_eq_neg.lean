@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_ImagQuad_exists_field_sq_eq_neg
 -- name    : GlobalTheory.Mem.ImagQuad.exists_field_sq_eq_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:23:30.845022+00:00
 -- url     : https://prove2.me/theorems/8a7370b0-9e98-4546-9e4a-4c6490e9b5ef

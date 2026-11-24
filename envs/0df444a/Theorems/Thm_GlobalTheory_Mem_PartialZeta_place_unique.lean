@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_PartialZeta_place_unique
 -- name    : GlobalTheory.Mem.PartialZeta.place_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:23:49.200819+00:00
 -- url     : https://prove2.me/theorems/a53458ac-8579-4b4e-adce-fe2e273a87fe

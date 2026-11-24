@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_Mon_phi_sub
 -- name    : GlobalTheory.BK.PhiMod.Mon_phi_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:54:34.155906+00:00
 -- url     : https://prove2.me/theorems/d0c5aeed-3383-44e1-85ff-0a9d5599ad33

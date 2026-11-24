@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NearFibreIso_isOpen_near
 -- name    : GlobalTheory.NearFibreIso.isOpen_near
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:32:56.775652+00:00
 -- url     : https://prove2.me/theorems/a0e350b0-7e03-4128-b9ee-b7c76efedd0c

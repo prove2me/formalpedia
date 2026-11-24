@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_RayData_idealUnit_congr
 -- name    : GlobalTheory.Mem.RayData.idealUnit_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:25:22.726502+00:00
 -- url     : https://prove2.me/theorems/ac1fa28d-e067-4945-a741-5fc96bca404c

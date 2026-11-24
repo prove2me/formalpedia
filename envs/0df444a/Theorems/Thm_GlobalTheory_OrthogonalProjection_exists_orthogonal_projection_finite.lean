@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrthogonalProjection_exists_orthogonal_projection_finite
 -- name    : GlobalTheory.OrthogonalProjection.exists_orthogonal_projection_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:38:41.722939+00:00
 -- url     : https://prove2.me/theorems/ae114caf-cf43-4516-8efe-a48ecc79d756

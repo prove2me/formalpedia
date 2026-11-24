@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LineCos_re_hform_pos
 -- name    : GlobalTheory.LineCos.re_hform_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:56:02.844136+00:00
 -- url     : https://prove2.me/theorems/7f8cf330-7fa0-467f-b253-3c4a7aa6c38c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeHom_semicharacter_add
 -- name    : GlobalTheory.LatticeHom.semicharacter_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:34:34.584677+00:00
 -- url     : https://prove2.me/theorems/fcf857e9-abb8-43af-9a00-4aa01689c617

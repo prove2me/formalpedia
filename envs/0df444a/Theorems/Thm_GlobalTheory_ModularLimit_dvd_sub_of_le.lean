@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ModularLimit_dvd_sub_of_le
 -- name    : GlobalTheory.ModularLimit.dvd_sub_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:26:45.266006+00:00
 -- url     : https://prove2.me/theorems/5d81d0c4-323b-4c93-a486-48d0baaff98d

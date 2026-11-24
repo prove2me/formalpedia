@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrowth_LFunction_eq_mul_mellin
 -- name    : GlobalTheory.LGrowth.LFunction_eq_mul_mellin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:55:44.759324+00:00
 -- url     : https://prove2.me/theorems/99bb1b9b-3a41-4e41-8d68-5bcfdb4bd8aa

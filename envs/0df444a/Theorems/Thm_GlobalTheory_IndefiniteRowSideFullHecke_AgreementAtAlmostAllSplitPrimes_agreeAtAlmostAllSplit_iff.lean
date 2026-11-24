@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_AgreementAtAlmostAllSplitPrimes_agreeAtAlmostAllSplit_iff
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.AgreementAtAlmostAllSplitPrimes.agreeAtAlmostAllSplit_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:47:34.314161+00:00
 -- url     : https://prove2.me/theorems/453f344c-d0e3-4909-82f6-171e2007d8e5

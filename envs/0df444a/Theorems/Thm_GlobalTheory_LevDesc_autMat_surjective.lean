@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevDesc_autMat_surjective
 -- name    : GlobalTheory.LevDesc.autMat_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:03:13.683102+00:00
 -- url     : https://prove2.me/theorems/3d819216-b769-4e05-8473-c58945bd3fe4

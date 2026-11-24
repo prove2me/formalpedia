@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_rank_one_formula_of_parts
 -- name    : Formalism.FourierDecayAlt.P.rank_one_formula_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:40:20.085932+00:00
 -- url     : https://prove2.me/theorems/6cbc344b-a229-4fcd-987f-4c210f2db54b

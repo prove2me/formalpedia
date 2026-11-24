@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolHom_isDerivAt_mul
 -- name    : GlobalTheory.HolHom.isDerivAt_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:36:16.56229+00:00
 -- url     : https://prove2.me/theorems/72a1a9df-27af-4acc-8d83-c32f3a49b09b

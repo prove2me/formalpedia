@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormSquareRamified_dvd_of_mul_sq
 -- name    : GlobalTheory.NormSquareRamified.dvd_of_mul_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:48:45.630302+00:00
 -- url     : https://prove2.me/theorems/414c572d-7a70-444a-ae6f-9ac99c744405

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorInt_lintegral_mul_right
 -- name    : GlobalTheory.MinorInt.lintegral_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:25:34.282763+00:00
 -- url     : https://prove2.me/theorems/4e15723b-ba8b-4633-bd89-939a47d57bfc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertZeta_fracExists_of_smith
 -- name    : GlobalTheory.CompanionTheory.InertZeta.fracExists_of_smith
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:23:21.726374+00:00
 -- url     : https://prove2.me/theorems/ba5eeeb4-2f01-4dda-9997-b797340dc404

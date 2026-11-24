@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairingInvariants_act_mul
 -- name    : GlobalTheory.PairingInvariants.act_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:41:15.265451+00:00
 -- url     : https://prove2.me/theorems/e96fa120-954d-4969-9314-0bad1203d279

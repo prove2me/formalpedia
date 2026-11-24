@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatrixEntryBound_entry_bound
 -- name    : GlobalTheory.MatrixEntryBound.entry_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:22:21.849197+00:00
 -- url     : https://prove2.me/theorems/af784ed4-af3d-4540-9800-efc720f23834

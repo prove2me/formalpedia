@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatchParts_inT_of_inG
 -- name    : GlobalTheory.MatchParts.inT_of_inG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:23:05.498891+00:00
 -- url     : https://prove2.me/theorems/2cf28cdf-04e1-4022-a792-95337d8bc579

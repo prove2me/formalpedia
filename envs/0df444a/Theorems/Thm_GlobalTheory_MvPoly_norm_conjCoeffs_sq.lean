@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MvPoly_norm_conjCoeffs_sq
 -- name    : GlobalTheory.MvPoly.norm_conjCoeffs_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:29:55.544984+00:00
 -- url     : https://prove2.me/theorems/6f5b34ad-112b-4560-ac18-b08d91156531

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Moduli_LevelAction_map_zero_of_add
 -- name    : GlobalTheory.Moduli.LevelAction.map_zero_of_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:26:49.22388+00:00
 -- url     : https://prove2.me/theorems/ca0db07a-2d6c-46a6-b249-bb9266a79d53

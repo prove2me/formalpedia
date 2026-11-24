@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatchTerm_Cl_shift
 -- name    : GlobalTheory.MatchTerm.Cl.shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:22:33.477577+00:00
 -- url     : https://prove2.me/theorems/7da2a68c-0ccb-4da7-a4f5-b0f08dec5e12

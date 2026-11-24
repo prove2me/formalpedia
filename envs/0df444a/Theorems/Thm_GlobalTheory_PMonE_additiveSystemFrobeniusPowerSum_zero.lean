@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_additiveSystemFrobeniusPowerSum_zero
 -- name    : GlobalTheory.PMonE.additiveSystemFrobeniusPowerSum_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:38:58.717177+00:00
 -- url     : https://prove2.me/theorems/867e12f4-f86a-46ed-ab51-e2009b074a7b

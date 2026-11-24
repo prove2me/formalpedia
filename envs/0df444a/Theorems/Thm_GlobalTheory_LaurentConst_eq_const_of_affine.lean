@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LaurentConst_eq_const_of_affine
 -- name    : GlobalTheory.LaurentConst.eq_const_of_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:01:34.437862+00:00
 -- url     : https://prove2.me/theorems/1ab5e2a0-ec7a-497d-a016-e4a8b160cd9a

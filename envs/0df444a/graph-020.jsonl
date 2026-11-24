@@ -86080,7 +86080,7 @@
 {"parent": "BianchiIX.exists_fixedWall_physical_core", "child": "BianchiIX_Dynamics_ProjectiveRegularity", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.StabilizerCode.BinaryStabilizerPresentation.interactionsAtLengthAtLeast_anti_mono", "child": "QEC_Locality_OptimalTradeoff_Interaction", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.StabilizerCode.BinaryStabilizerPresentation.interactionsAtLengthAtLeast_anti_mono", "child": "QEC_Coding_Stabilizer_FixedGeneratorInteraction", "via": ["solution", "statement"]}
-{"parent": "MatrixLewis.fact_3_6", "child": "MatrixLewis_mpow", "via": ["statement"]}
+{"parent": "MatrixLewis.fact_3_6", "child": "MatrixLewis_mpow", "via": ["solution", "statement"]}
 {"parent": "OAI.SevenEighths.PNT.cumsum_div_tendsto_zero_of_summable_div", "child": "OAI_NumberTheory_DirichletL_PrimeCounting_Progressions", "via": ["solution", "statement"]}
 {"parent": "OAI.SevenEighths.PNT.cumsum_div_tendsto_zero_of_summable_div", "child": "W21.hf", "via": ["solution", "statement"]}
 {"parent": "OAI.SevenEighths.PNT.cumsum_div_tendsto_zero_of_summable_div", "child": "OAI_NumberTheory_DirichletL_PrimeCounting_PrimeMass", "via": ["solution", "statement"]}

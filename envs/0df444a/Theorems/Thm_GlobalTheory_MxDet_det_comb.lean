@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MxDet_det_comb
 -- name    : GlobalTheory.MxDet.det_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:30:41.095355+00:00
 -- url     : https://prove2.me/theorems/7093dac0-d903-4dd1-b9dd-c620e1e1c692

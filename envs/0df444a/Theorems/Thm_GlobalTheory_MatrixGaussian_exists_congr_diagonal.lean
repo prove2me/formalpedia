@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatrixGaussian_exists_congr_diagonal
 -- name    : GlobalTheory.MatrixGaussian.exists_congr_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:21:05.060229+00:00
 -- url     : https://prove2.me/theorems/92d3a3ef-0dc4-4ae8-b948-16951ec9eda2

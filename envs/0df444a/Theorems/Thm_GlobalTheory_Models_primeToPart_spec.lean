@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Models_primeToPart_spec
 -- name    : GlobalTheory.Models.primeToPart_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:27:10.008644+00:00
 -- url     : https://prove2.me/theorems/3147be1a-6f40-40a5-8b89-307650584ed8

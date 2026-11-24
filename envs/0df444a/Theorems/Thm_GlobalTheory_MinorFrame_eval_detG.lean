@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorFrame_eval_detG
 -- name    : GlobalTheory.MinorFrame.eval_detG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:26:25.698071+00:00
 -- url     : https://prove2.me/theorems/437dd94e-8ac7-4fa8-9c36-3b4b85cb92a3

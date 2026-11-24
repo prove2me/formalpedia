@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_regularised_pairing_continuous_in_t
 -- name    : Formalism.FourierDecayAlt.P.B6.regularised_pairing_continuous_in_t
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:56:51.8663+00:00
 -- url     : https://prove2.me/theorems/83d51561-d994-4c7e-9771-febe83940ab3

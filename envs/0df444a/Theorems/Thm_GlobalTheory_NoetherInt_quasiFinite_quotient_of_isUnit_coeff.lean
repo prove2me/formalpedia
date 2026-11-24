@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NoetherInt_quasiFinite_quotient_of_isUnit_coeff
 -- name    : GlobalTheory.NoetherInt.quasiFinite_quotient_of_isUnit_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:34:24.777172+00:00
 -- url     : https://prove2.me/theorems/e5baf997-274b-4d32-bd7a-d20e2dfbfe56

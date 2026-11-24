@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PadicUnitBall_smul_top_eq
 -- name    : GlobalTheory.PadicUnitBall.smul_top_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:39:51.715806+00:00
 -- url     : https://prove2.me/theorems/cb48ef55-f68b-417e-9d86-d5a174458a62

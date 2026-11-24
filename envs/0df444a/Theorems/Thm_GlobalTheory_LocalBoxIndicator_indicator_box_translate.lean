@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalBoxIndicator_indicator_box_translate
 -- name    : GlobalTheory.LocalBoxIndicator.indicator_box_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:13:47.772181+00:00
 -- url     : https://prove2.me/theorems/0a25b8ba-062a-4714-b0e3-ead4a3e298c4

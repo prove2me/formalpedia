@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PadicUnitBall_norm_lt_one_of_mem_maximalIdeal
 -- name    : GlobalTheory.PadicUnitBall.norm_lt_one_of_mem_maximalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:39:52.406259+00:00
 -- url     : https://prove2.me/theorems/73bf4079-1732-4855-8d52-8cd416d0cd5e

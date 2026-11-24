@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetTest_X_pow_ne_zero
 -- name    : GlobalTheory.JetTest.X_pow_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:40:46.051618+00:00
 -- url     : https://prove2.me/theorems/4a0a3bc7-9891-48d6-b4a9-fec3c8d75757

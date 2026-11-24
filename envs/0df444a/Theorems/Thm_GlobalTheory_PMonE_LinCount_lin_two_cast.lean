@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_LinCount_lin_two_cast
 -- name    : GlobalTheory.PMonE.LinCount.lin_two_cast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:38:05.418479+00:00
 -- url     : https://prove2.me/theorems/2eb9243a-7275-41bf-82c0-60a821c81c1d

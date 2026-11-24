@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NabCol_rename_eq
 -- name    : GlobalTheory.NabCol.rename_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:34:16.486039+00:00
 -- url     : https://prove2.me/theorems/fba51642-ffcf-43a3-8d5b-0c80eb0bc791

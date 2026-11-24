@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagIntegralVandermondeMul_proof_36b89ddad044
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagIntegralVandermondeMul_proof_36b89ddad044
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:01:03.02458+00:00
 -- url     : https://prove2.me/theorems/224378f0-9c9e-4c8b-9691-4086fa36e5f7

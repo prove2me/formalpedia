@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbitAvg_stab_le_smul
 -- name    : GlobalTheory.OrbitAvg.stab_le_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:37:35.364012+00:00
 -- url     : https://prove2.me/theorems/1fb82347-cd4b-4252-91d0-db6018422f09

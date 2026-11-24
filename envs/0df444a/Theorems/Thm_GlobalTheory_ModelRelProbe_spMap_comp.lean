@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ModelRelProbe_spMap_comp
 -- name    : GlobalTheory.ModelRelProbe.spMap_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:27:20.272801+00:00
 -- url     : https://prove2.me/theorems/661367df-9b42-473e-9682-a783585ce2e9

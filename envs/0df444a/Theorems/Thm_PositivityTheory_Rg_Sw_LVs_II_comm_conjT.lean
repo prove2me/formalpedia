@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_II_comm_conjT
 -- name    : PositivityTheory.Rg.Sw.LVs.II.comm_conjT
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:47:05.195637+00:00
 -- url     : https://prove2.me/theorems/96cd2f11-980c-4b10-8287-cbd0f3ce90ca

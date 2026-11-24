@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LaurentConst_eq_const
 -- name    : GlobalTheory.LaurentConst.eq_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:01:29.98458+00:00
 -- url     : https://prove2.me/theorems/d5b2a647-11bb-4549-88e7-3f2626d3c91c

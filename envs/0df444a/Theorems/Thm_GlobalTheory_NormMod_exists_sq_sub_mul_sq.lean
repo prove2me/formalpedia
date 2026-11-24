@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormMod_exists_sq_sub_mul_sq
 -- name    : GlobalTheory.NormMod.exists_sq_sub_mul_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:35:58.015934+00:00
 -- url     : https://prove2.me/theorems/f2dfa5e6-cc38-4e30-b1f0-ec379fa5cee7

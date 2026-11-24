@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_exists_linear_lift_action
 -- name    : GlobalTheory.KS.exists_linear_lift_action
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:01:20.669068+00:00
 -- url     : https://prove2.me/theorems/d1573275-57f0-4403-a7a0-ffdecb4f5828

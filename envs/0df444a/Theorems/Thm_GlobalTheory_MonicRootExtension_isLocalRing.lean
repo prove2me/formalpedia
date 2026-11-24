@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MonicRootExtension_isLocalRing
 -- name    : GlobalTheory.MonicRootExtension.isLocalRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:26:30.993409+00:00
 -- url     : https://prove2.me/theorems/7d017b07-82d2-4d70-a4b3-fcf0f5c626fb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_RayPrimes_log_bounded
 -- name    : GlobalTheory.Mem.RayPrimes.log_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:25:38.383819+00:00
 -- url     : https://prove2.me/theorems/69397fd9-cdf6-404f-849e-db60a71f8e0d

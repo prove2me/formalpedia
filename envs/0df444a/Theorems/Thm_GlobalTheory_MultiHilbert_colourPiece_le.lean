@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MultiHilbert_colourPiece_le
 -- name    : GlobalTheory.MultiHilbert.colourPiece_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:29:49.390351+00:00
 -- url     : https://prove2.me/theorems/bf33e8c8-dce7-456f-bbd6-a429b13a841e

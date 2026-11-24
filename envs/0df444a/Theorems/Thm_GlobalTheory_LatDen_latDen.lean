@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatDen_latDen
 -- name    : GlobalTheory.LatDen.latDen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:05:40.526995+00:00
 -- url     : https://prove2.me/theorems/ac195c6e-08ff-4512-97b4-9a7c897a7416

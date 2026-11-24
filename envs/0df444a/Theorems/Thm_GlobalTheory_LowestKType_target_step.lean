@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LowestKType_target_step
 -- name    : GlobalTheory.LowestKType.target_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:18:51.580797+00:00
 -- url     : https://prove2.me/theorems/df3aa19d-fcb4-4954-b469-efee02a087ef

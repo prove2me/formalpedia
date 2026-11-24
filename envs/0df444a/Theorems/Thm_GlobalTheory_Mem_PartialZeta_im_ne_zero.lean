@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_PartialZeta_im_ne_zero
 -- name    : GlobalTheory.Mem.PartialZeta.im_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:23:03.895631+00:00
 -- url     : https://prove2.me/theorems/4c81fdbb-5ba6-4765-9b41-15e99bc55071

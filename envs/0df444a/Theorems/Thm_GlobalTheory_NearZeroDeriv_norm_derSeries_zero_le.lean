@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NearZeroDeriv_norm_derSeries_zero_le
 -- name    : GlobalTheory.NearZeroDeriv.norm_derSeries_zero_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:32:37.029204+00:00
 -- url     : https://prove2.me/theorems/8cd98d8c-4d4f-4d9e-b00a-43693c097f20

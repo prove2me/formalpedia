@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_OrbitProper_cont_Delta
 -- name    : GlobalTheory.JR.OrbitProper.cont_Delta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:34:41.484736+00:00
 -- url     : https://prove2.me/theorems/afac9e88-2522-481e-8240-4abd337fdbc5

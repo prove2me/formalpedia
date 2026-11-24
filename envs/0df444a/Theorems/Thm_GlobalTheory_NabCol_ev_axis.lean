@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NabCol_ev_axis
 -- name    : GlobalTheory.NabCol.ev_axis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:34:23.48104+00:00
 -- url     : https://prove2.me/theorems/9cd2e0b4-9513-44fb-a8cb-834d3027d7bd

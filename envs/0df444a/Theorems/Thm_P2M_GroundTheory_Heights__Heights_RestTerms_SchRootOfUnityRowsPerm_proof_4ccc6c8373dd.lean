@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchRootOfUnityRowsPerm_proof_4ccc6c8373dd
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchRootOfUnityRowsPerm_proof_4ccc6c8373dd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:01:07.645806+00:00
 -- url     : https://prove2.me/theorems/02b28292-a363-42db-8106-af3d5d71fae8

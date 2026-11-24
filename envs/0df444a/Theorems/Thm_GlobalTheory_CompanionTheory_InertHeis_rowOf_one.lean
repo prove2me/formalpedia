@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertHeis_rowOf_one
 -- name    : GlobalTheory.CompanionTheory.InertHeis.rowOf_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:51:14.594166+00:00
 -- url     : https://prove2.me/theorems/6a1dc4b2-35c1-4102-a498-bdd05fd85889

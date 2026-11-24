@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ChartIntegralLocal_int_chart_loc
 -- name    : Formalism.FourierDecayAlt.P.ChartIntegralLocal.int_chart_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:31:29.5648+00:00
 -- url     : https://prove2.me/theorems/0f1a5471-0f6e-4240-9ff5-424e2326bfb5

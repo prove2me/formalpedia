@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OnePoint_exists_algHom_ker_eq_of_isMaximal
 -- name    : GlobalTheory.OnePoint.exists_algHom_ker_eq_of_isMaximal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:37:44.1978+00:00
 -- url     : https://prove2.me/theorems/c14688f8-5ab6-42f8-afce-53e00ade6285

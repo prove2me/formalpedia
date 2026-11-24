@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LengthQuotientValuationDet_length_quotient_eq_addVal_det
 -- name    : GlobalTheory.LengthQuotientValuationDet.length_quotient_eq_addVal_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:01:28.818945+00:00
 -- url     : https://prove2.me/theorems/1a391378-ef68-49a7-ada6-b3cfc0da7bff

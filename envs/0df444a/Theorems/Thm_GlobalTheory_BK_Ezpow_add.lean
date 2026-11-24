@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_Ezpow_add
 -- name    : GlobalTheory.BK.Ezpow_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:52:48.474145+00:00
 -- url     : https://prove2.me/theorems/1c0a0203-34d1-4336-ae01-98e6dcc5577e

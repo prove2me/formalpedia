@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MultiHilbert_eval_monomial_erase
 -- name    : GlobalTheory.MultiHilbert.eval_monomial_erase
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:29:42.398032+00:00
 -- url     : https://prove2.me/theorems/4a859027-1cb5-4457-8b47-3414e85eacfd

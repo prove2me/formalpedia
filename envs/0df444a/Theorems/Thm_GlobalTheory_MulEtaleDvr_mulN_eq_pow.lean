@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulEtaleDvr_mulN_eq_pow
 -- name    : GlobalTheory.MulEtaleDvr.mulN_eq_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:27:45.891871+00:00
 -- url     : https://prove2.me/theorems/5c130a07-e554-4197-8865-d512061f34ce

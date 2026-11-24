@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_exists_anisotropic_orthogonal_basis
 -- name    : GlobalTheory.UnRep.exists_anisotropic_orthogonal_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:11:09.545065+00:00
 -- url     : https://prove2.me/theorems/ede2697e-a869-43a8-952c-119029855966

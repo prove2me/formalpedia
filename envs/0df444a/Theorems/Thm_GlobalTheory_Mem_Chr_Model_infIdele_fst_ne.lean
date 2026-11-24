@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Chr_Model_infIdele_fst_ne
 -- name    : GlobalTheory.Mem.Chr.Model.infIdele_fst_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:23:05.892179+00:00
 -- url     : https://prove2.me/theorems/f9040d69-2842-4d01-83ea-c08ac8b65cb4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatchParts_inG_of_half
 -- name    : GlobalTheory.MatchParts.inG_of_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:20:50.266793+00:00
 -- url     : https://prove2.me/theorems/e662f36f-aa24-4450-a894-4d12c05be737

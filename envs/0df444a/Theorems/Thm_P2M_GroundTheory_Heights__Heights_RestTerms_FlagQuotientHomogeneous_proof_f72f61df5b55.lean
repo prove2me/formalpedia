@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagQuotientHomogeneous_proof_f72f61df5b55
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagQuotientHomogeneous_proof_f72f61df5b55
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:01:54.900652+00:00
 -- url     : https://prove2.me/theorems/fdc62295-6b47-4fee-a81d-47f2bb5622af

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatSqrtNearOne_tau_smul
 -- name    : GlobalTheory.MatSqrtNearOne.tau_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:19:39.793327+00:00
 -- url     : https://prove2.me/theorems/ce97fdcb-c343-411a-b871-28f6789bba26

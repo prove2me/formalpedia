@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LowerTriangularMul_main
 -- name    : GlobalTheory.LowerTriangularMul.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:18:54.986836+00:00
 -- url     : https://prove2.me/theorems/49c983c3-fa4f-45a8-9694-1bc785e8d822

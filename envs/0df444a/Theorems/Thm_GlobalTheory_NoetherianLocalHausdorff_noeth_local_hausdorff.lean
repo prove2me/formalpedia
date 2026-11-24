@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NoetherianLocalHausdorff_noeth_local_hausdorff
 -- name    : GlobalTheory.NoetherianLocalHausdorff.noeth_local_hausdorff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:34:44.661361+00:00
 -- url     : https://prove2.me/theorems/dd863384-51af-45f6-a656-54d364429706

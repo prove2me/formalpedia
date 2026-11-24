@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelUnfold_embX_smul_gluedS
 -- name    : GlobalTheory.LevelUnfold.embX_smul_gluedS
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:27:17.581026+00:00
 -- url     : https://prove2.me/theorems/44c6b12d-5c11-4263-952e-94ed8bc024e6

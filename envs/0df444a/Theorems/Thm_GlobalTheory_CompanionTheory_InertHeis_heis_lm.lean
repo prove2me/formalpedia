@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertHeis_heis_lm
 -- name    : GlobalTheory.CompanionTheory.InertHeis.heis_lm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:49:52.872029+00:00
 -- url     : https://prove2.me/theorems/ea57d66d-8a7a-4249-a98e-13d272a64285

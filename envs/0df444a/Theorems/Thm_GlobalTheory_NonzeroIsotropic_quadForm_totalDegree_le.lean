@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NonzeroIsotropic_quadForm_totalDegree_le
 -- name    : GlobalTheory.NonzeroIsotropic.quadForm_totalDegree_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:34:56.028572+00:00
 -- url     : https://prove2.me/theorems/1182011e-afe6-401c-9918-fd0b0d8ea9d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MvPoly_vectorL2Norm_const_mul
 -- name    : GlobalTheory.MvPoly.vectorL2Norm_const_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:30:20.444927+00:00
 -- url     : https://prove2.me/theorems/f901b2ba-9c0f-42c9-aaea-821daa4742b9

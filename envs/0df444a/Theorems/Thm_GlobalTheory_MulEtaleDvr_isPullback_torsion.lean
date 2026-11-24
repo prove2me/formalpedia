@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulEtaleDvr_isPullback_torsion
 -- name    : GlobalTheory.MulEtaleDvr.isPullback_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:28:39.317815+00:00
 -- url     : https://prove2.me/theorems/031b7a62-52da-4b20-84cb-3a4498b5e7ff

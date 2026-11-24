@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_regularised_pairing_deriv_x
 -- name    : Formalism.FourierDecayAlt.P.B6.regularised_pairing_deriv_x
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:05:25.985714+00:00
 -- url     : https://prove2.me/theorems/460d8cff-c701-4c58-a197-385a1898395f

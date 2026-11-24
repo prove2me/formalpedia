@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulCocycle_mul_mem_map_sq
 -- name    : GlobalTheory.MulCocycle.mul_mem_map_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:29:01.787605+00:00
 -- url     : https://prove2.me/theorems/7440308e-4dde-480b-b185-58e1f04d8bae

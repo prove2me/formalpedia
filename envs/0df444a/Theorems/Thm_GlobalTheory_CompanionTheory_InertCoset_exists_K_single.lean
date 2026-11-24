@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertCoset_exists_K_single
 -- name    : GlobalTheory.CompanionTheory.InertCoset.exists_K_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:01:48.911812+00:00
 -- url     : https://prove2.me/theorems/df733337-0bef-4df4-8c1d-298d5d47aa8b

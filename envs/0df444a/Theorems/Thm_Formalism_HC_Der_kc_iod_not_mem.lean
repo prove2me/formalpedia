@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_kc_iod_not_mem
 -- name    : Formalism.HC.Der.kc_iod_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:51:09.055578+00:00
 -- url     : https://prove2.me/theorems/3beb8fcf-2ecd-4f62-86a2-2f92f9d2b920

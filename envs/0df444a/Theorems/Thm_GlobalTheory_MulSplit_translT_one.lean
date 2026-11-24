@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulSplit_translT_one
 -- name    : GlobalTheory.MulSplit.translT_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:28:36.598735+00:00
 -- url     : https://prove2.me/theorems/e4d506e1-0b65-49bd-9937-20047b5ffb77

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NearlyPrimitive_sum_lt
 -- name    : GlobalTheory.NearlyPrimitive.sum_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:33:44.264041+00:00
 -- url     : https://prove2.me/theorems/440ac124-81f5-4d3d-b569-fa73e665f941

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_iter_frobSymm_pow
 -- name    : GlobalTheory.PMonE.iter_frobSymm_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:41:18.839215+00:00
 -- url     : https://prove2.me/theorems/a3e7957e-605b-47c0-b506-bc31c1baff06

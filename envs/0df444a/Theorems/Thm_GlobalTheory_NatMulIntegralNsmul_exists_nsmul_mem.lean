@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NatMulIntegralNsmul_exists_nsmul_mem
 -- name    : GlobalTheory.NatMulIntegralNsmul.exists_nsmul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:31:46.772532+00:00
 -- url     : https://prove2.me/theorems/7d301e24-ab5e-4ccd-954e-d2eb88db3621

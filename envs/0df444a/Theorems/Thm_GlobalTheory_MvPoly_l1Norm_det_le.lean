@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MvPoly_l1Norm_det_le
 -- name    : GlobalTheory.MvPoly.l1Norm_det_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:28:48.852372+00:00
 -- url     : https://prove2.me/theorems/e6fab9f3-bff5-4447-9463-02e2e0f78ada

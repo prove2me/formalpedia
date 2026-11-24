@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelUnimod_modular_aut
 -- name    : GlobalTheory.LevelUnimod.modular_aut
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:24:26.48074+00:00
 -- url     : https://prove2.me/theorems/c8d211d6-01a1-49b9-b01e-326ce25016d7

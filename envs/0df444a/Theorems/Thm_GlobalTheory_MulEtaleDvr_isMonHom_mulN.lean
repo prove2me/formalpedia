@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulEtaleDvr_isMonHom_mulN
 -- name    : GlobalTheory.MulEtaleDvr.isMonHom_mulN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:28:41.42677+00:00
 -- url     : https://prove2.me/theorems/6c3db743-c4d4-4efb-98e2-429b4a0dc3d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulJacobian_const_invMat
 -- name    : GlobalTheory.MulJacobian.const_invMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:28:19.038184+00:00
 -- url     : https://prove2.me/theorems/f5d047df-466c-494c-8864-206ea2916cb7

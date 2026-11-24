@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NearlyPrimitive_map_dpow
 -- name    : GlobalTheory.NearlyPrimitive.map_dpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:31:45.618685+00:00
 -- url     : https://prove2.me/theorems/e8dbe70e-6cfe-4590-bf31-d5bda1ee7a70

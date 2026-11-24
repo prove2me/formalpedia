@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbitUnfold_isFundamentalDomain_iUnion_pull
 -- name    : GlobalTheory.OrbitUnfold.isFundamentalDomain_iUnion_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:37:19.123799+00:00
 -- url     : https://prove2.me/theorems/12e885ee-b946-41bd-a705-96b703ab7e6d

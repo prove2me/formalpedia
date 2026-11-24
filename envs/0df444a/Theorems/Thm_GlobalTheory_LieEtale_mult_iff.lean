@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LieEtale_mult_iff
 -- name    : GlobalTheory.LieEtale.mult_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:05:05.901815+00:00
 -- url     : https://prove2.me/theorems/fb59e1fb-8479-4873-81b8-6f96dae41676

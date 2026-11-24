@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagAntisymHomogeneous_proof_8560cf0b8992
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagAntisymHomogeneous_proof_8560cf0b8992
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:01:55.949252+00:00
 -- url     : https://prove2.me/theorems/8947c306-5c5b-4351-9e67-a30ec6cc065b

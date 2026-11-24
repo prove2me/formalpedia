@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_fibre_orbit_description
 -- name    : Formalism.FourierDecayAlt.P.fibre_orbit_description
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:02:21.055797+00:00
 -- url     : https://prove2.me/theorems/f8b8a515-3054-46b5-bb66-af70f844f5cb

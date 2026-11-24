@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OmAStab_isLocallyConstant_of_isOpen_ker
 -- name    : GlobalTheory.OmAStab.isLocallyConstant_of_isOpen_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:36:51.731424+00:00
 -- url     : https://prove2.me/theorems/f70e9411-6eeb-40d5-b375-beddd7673cfe

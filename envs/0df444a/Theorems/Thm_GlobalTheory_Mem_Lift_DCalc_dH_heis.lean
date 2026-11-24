@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Lift_DCalc_dH_heis
 -- name    : GlobalTheory.Mem.Lift.DCalc.dH_heis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:23:32.693439+00:00
 -- url     : https://prove2.me/theorems/c1f19a5b-ce06-4e2e-ba29-53cee65660db

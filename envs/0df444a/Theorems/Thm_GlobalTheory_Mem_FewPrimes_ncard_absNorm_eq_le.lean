@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_FewPrimes_ncard_absNorm_eq_le
 -- name    : GlobalTheory.Mem.FewPrimes.ncard_absNorm_eq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:23:05.252728+00:00
 -- url     : https://prove2.me/theorems/004a1986-dd81-4eab-a77c-245655306fdb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixLewis_fact_3_6
 -- name    : MatrixLewis.fact_3_6
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T03:06:29.126975+00:00
 -- url     : https://prove2.me/theorems/706796ac-2a66-46dd-9553-e7b9c37bfceb

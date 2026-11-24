@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermClass_exists_int_vecMul_lt
 -- name    : GlobalTheory.HermClass.exists_int_vecMul_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:36:14.098571+00:00
 -- url     : https://prove2.me/theorems/e7d7e451-50c4-4740-b638-ff1c7f5aea45

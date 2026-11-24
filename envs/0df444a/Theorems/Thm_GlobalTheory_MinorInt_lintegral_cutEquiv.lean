@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorInt_lintegral_cutEquiv
 -- name    : GlobalTheory.MinorInt.lintegral_cutEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:25:35.582695+00:00
 -- url     : https://prove2.me/theorems/90bce35e-6cba-4c1a-a838-71b775af4f8f

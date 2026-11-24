@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormUnits_exists_sqrt_mod
 -- name    : GlobalTheory.NormUnits.exists_sqrt_mod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:35:55.106072+00:00
 -- url     : https://prove2.me/theorems/030a6203-6c5c-4519-885c-493690e3279d

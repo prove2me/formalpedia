@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatchTerm_exists_txT_ne
 -- name    : GlobalTheory.MatchTerm.exists_txT_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:24:21.174488+00:00
 -- url     : https://prove2.me/theorems/99ebc34e-bae7-429e-be42-234ed04bc55f

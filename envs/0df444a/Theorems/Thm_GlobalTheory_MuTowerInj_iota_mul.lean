@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MuTowerInj_iota_mul
 -- name    : GlobalTheory.MuTowerInj.iota_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:28:15.748864+00:00
 -- url     : https://prove2.me/theorems/18c7f231-4478-4e6c-8a45-998efe6911a3

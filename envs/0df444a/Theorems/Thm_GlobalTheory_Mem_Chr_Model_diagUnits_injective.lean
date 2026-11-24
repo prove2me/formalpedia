@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Chr_Model_diagUnits_injective
 -- name    : GlobalTheory.Mem.Chr.Model.diagUnits_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:23:06.734803+00:00
 -- url     : https://prove2.me/theorems/3742d7d1-550b-4eab-b5e8-06b9b742ed86

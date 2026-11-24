@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_FiltrationBoundaryCriterion_PfN_diffQuad
 -- name    : Formalism.HermitianLattices.FiltrationBoundaryCriterion.PfN.diffQuad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:49:35.04532+00:00
 -- url     : https://prove2.me/theorems/7211545c-d4ed-4cf1-8e0e-5267f2137ffb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_GelfCheck_upper_kill
 -- name    : GlobalTheory.Mem.GelfCheck.upper_kill
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:23:59.874886+00:00
 -- url     : https://prove2.me/theorems/c4fc065a-621e-410a-b3b7-4d1f91c803d9

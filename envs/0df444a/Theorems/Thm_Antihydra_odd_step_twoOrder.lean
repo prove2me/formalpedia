@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Antihydra_odd_step_twoOrder
 -- name    : Antihydra.odd_step_twoOrder
--- status  : Open
+-- status  : Proved
 -- author  : @sammas24
 -- created : 2026-11-24T18:57:16.784806+00:00
 -- url     : https://prove2.me/theorems/01fc2d02-fcdc-4b0f-87b5-1729ba2f87d0

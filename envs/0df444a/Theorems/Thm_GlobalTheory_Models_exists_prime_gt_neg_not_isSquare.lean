@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Models_exists_prime_gt_neg_not_isSquare
 -- name    : GlobalTheory.Models.exists_prime_gt_neg_not_isSquare
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:27:39.054987+00:00
 -- url     : https://prove2.me/theorems/c93e84d8-348c-4ee1-b288-f98ffbb16d19

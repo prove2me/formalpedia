@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagDiffNotDvd_proof_7bf15d9fc75f
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagDiffNotDvd_proof_7bf15d9fc75f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:01:14.314857+00:00
 -- url     : https://prove2.me/theorems/ee594326-0f02-4d22-8189-051fda99c2ed

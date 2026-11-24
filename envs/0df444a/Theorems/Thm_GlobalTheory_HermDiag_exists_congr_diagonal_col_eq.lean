@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermDiag_exists_congr_diagonal_col_eq
 -- name    : GlobalTheory.HermDiag.exists_congr_diagonal_col_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:36:20.296845+00:00
 -- url     : https://prove2.me/theorems/10e8c1fe-90c3-4df9-9376-f29ce4a3afd4

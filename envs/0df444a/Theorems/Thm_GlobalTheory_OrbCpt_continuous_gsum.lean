@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbCpt_continuous_gsum
 -- name    : GlobalTheory.OrbCpt.continuous_gsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:37:42.913271+00:00
 -- url     : https://prove2.me/theorems/68b00160-ba17-44bb-869d-1dfc464363df

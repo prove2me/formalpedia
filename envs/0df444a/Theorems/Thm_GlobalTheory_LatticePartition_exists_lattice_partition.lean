@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticePartition_exists_lattice_partition
 -- name    : GlobalTheory.LatticePartition.exists_lattice_partition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:00:29.418876+00:00
 -- url     : https://prove2.me/theorems/fd0554bd-50b4-4f98-b47b-eae7ecaf5619

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_moore_det_succ
 -- name    : GlobalTheory.PMonE.moore_det_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:39:08.843121+00:00
 -- url     : https://prove2.me/theorems/a1d21209-d2c0-422e-80c7-2230c5d5acd2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxG_om_stable
 -- name    : Formalism.FourierDecayAlt.P.JFxG.om_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:46:20.801344+00:00
 -- url     : https://prove2.me/theorems/2bc8b3f5-ce47-4937-9edd-d21f0c489bc7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MultiHilbert_EventuallyPoly_of_shift_add
 -- name    : GlobalTheory.MultiHilbert.EventuallyPoly.of_shift_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:29:33.597438+00:00
 -- url     : https://prove2.me/theorems/cc65dd35-b6b2-457d-bc5c-50933cc1c4eb

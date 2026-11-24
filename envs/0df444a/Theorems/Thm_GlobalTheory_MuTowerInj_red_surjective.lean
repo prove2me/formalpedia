@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MuTowerInj_red_surjective
 -- name    : GlobalTheory.MuTowerInj.red_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:28:29.606424+00:00
 -- url     : https://prove2.me/theorems/0bd30b68-51f6-4c98-8269-c59f5845c6fb

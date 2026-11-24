@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MonoEigen_exists_rep
 -- name    : GlobalTheory.MonoEigen.exists_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:27:43.223152+00:00
 -- url     : https://prove2.me/theorems/ce32e36e-3abf-4c14-b508-a9eeedfce094

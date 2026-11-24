@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_Hom_app_EN
 -- name    : GlobalTheory.BK.Hom.app_EN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:52:22.599145+00:00
 -- url     : https://prove2.me/theorems/9ff9ce69-1b48-4d4a-ba74-5ab8aea18a0d

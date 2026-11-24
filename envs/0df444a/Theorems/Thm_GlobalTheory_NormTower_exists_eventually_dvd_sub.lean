@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormTower_exists_eventually_dvd_sub
 -- name    : GlobalTheory.NormTower.exists_eventually_dvd_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:36:05.734641+00:00
 -- url     : https://prove2.me/theorems/75635405-41ed-4677-9370-a40f5686350b

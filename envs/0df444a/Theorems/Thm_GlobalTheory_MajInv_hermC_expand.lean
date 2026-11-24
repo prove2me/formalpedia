@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MajInv_hermC_expand
 -- name    : GlobalTheory.MajInv.hermC_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:20:07.394399+00:00
 -- url     : https://prove2.me/theorems/bea41ea8-d2d2-4c60-9c6b-9e8f5112d538

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NearZeroDeriv_power_sum_mult
 -- name    : GlobalTheory.NearZeroDeriv.power_sum_mult
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:32:27.933796+00:00
 -- url     : https://prove2.me/theorems/d031fdc4-1e9b-4228-a59b-6934fccdab3c

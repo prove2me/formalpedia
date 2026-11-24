@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_FiltrationBoundaryCriterion_PfN_int_mem_of_cm
 -- name    : Formalism.HermitianLattices.FiltrationBoundaryCriterion.PfN.int_mem_of_cm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:47:22.180015+00:00
 -- url     : https://prove2.me/theorems/53789a49-a3a5-449d-b8c8-e6c8aebf295f

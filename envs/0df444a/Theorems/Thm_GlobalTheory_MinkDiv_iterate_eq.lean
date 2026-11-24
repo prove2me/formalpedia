@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinkDiv_iterate_eq
 -- name    : GlobalTheory.MinkDiv.iterate_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:25:15.667678+00:00
 -- url     : https://prove2.me/theorems/1cda4886-d21e-4b7b-acc1-e321c06a9cce

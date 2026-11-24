@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormSign_sgn_mul
 -- name    : GlobalTheory.NormSign.sgn_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:37:36.241843+00:00
 -- url     : https://prove2.me/theorems/b481768c-909d-43d5-bf22-04054bbd2a82

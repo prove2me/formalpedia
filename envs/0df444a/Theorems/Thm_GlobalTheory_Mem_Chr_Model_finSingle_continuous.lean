@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Chr_Model_finSingle_continuous
 -- name    : GlobalTheory.Mem.Chr.Model.finSingle_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:22:57.117858+00:00
 -- url     : https://prove2.me/theorems/90714bb7-71dd-44ac-98e3-5b4bc59a029b

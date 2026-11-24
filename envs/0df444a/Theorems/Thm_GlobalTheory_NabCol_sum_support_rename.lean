@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NabCol_sum_support_rename
 -- name    : GlobalTheory.NabCol.sum_support_rename
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:31:27.209315+00:00
 -- url     : https://prove2.me/theorems/bf207697-df45-4699-8dd3-76652cd7306f

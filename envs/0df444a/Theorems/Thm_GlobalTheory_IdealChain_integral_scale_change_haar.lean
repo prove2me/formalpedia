@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdealChain_integral_scale_change_haar
 -- name    : GlobalTheory.IdealChain.integral_scale_change_haar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:13:49.919372+00:00
 -- url     : https://prove2.me/theorems/54d7f0b0-0288-4bb1-a928-bc443fc0ade9

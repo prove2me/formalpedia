@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogExt_cauchy_of_log_growth
 -- name    : GlobalTheory.LogExt.cauchy_of_log_growth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:18:58.463854+00:00
 -- url     : https://prove2.me/theorems/4f234869-7518-4f85-b52f-dbca035c664a

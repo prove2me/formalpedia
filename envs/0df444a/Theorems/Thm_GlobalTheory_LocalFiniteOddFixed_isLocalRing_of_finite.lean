@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalFiniteOddFixed_isLocalRing_of_finite
 -- name    : GlobalTheory.LocalFiniteOddFixed.isLocalRing_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:14:13.895322+00:00
 -- url     : https://prove2.me/theorems/c0562c41-0947-4207-8ae0-d5e72f283c16

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_kc_sqd_ne_zero
 -- name    : Formalism.HC.Der.kc_sqd_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:50:28.895808+00:00
 -- url     : https://prove2.me/theorems/887b49f2-0b65-420c-9a1b-4ada16541050

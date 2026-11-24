@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_coefDet_pw_natCast
 -- name    : GlobalTheory.PMonE.coefDet_pw_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:38:59.046309+00:00
 -- url     : https://prove2.me/theorems/5fe1dc34-17cd-4ec1-941b-3dc340295a59

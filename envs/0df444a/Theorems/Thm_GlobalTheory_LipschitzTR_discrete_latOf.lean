@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_discrete_latOf
 -- name    : GlobalTheory.LipschitzTR.discrete_latOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:59:44.317256+00:00
 -- url     : https://prove2.me/theorems/7c05940b-e46c-4444-bba7-eb829754af48

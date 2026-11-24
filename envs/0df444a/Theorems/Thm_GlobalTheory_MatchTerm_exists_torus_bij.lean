@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatchTerm_exists_torus_bij
 -- name    : GlobalTheory.MatchTerm.exists_torus_bij
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:22:35.117797+00:00
 -- url     : https://prove2.me/theorems/e424c25a-ff07-4ce4-a492-76b99b20f998

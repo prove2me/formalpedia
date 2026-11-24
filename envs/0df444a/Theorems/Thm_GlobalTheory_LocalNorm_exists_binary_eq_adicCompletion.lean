@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalNorm_exists_binary_eq_adicCompletion
 -- name    : GlobalTheory.LocalNorm.exists_binary_eq_adicCompletion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:14:14.121771+00:00
 -- url     : https://prove2.me/theorems/cfb6a279-affc-4fbf-9291-feee90ac8ae8

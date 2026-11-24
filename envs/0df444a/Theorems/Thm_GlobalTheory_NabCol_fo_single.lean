@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NabCol_fo_single
 -- name    : GlobalTheory.NabCol.fo_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:31:41.295339+00:00
 -- url     : https://prove2.me/theorems/37771aed-2cc1-452b-b075-c8921acc15e7

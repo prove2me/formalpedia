@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BasicNotions_Host_q_dvd_discr
 -- name    : Formalism.BasicNotions.Host.q_dvd_discr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:31:48.474806+00:00
 -- url     : https://prove2.me/theorems/fc2770ee-b069-4661-85ce-d1f111f26b60

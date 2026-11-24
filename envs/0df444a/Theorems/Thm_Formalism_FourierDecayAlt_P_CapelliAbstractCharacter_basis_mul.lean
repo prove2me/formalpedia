@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CapelliAbstractCharacter_basis_mul
 -- name    : Formalism.FourierDecayAlt.P.CapelliAbstractCharacter.basis_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:55:41.608012+00:00
 -- url     : https://prove2.me/theorems/cffe46c5-d52c-4294-aae1-f0c4dcd0c5d5

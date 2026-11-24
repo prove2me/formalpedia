@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OpTrace_finRankTrace_eq_of_equiv
 -- name    : GlobalTheory.OpTrace.finRankTrace_eq_of_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:37:00.906805+00:00
 -- url     : https://prove2.me/theorems/9dffcccc-3682-4485-a266-cfdafc1e1e5f

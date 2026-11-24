@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_PosDirichlet_norm_term
 -- name    : GlobalTheory.Mem.PosDirichlet.norm_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:24:39.829785+00:00
 -- url     : https://prove2.me/theorems/eb3f916f-09a2-429b-93c0-686e9160867c

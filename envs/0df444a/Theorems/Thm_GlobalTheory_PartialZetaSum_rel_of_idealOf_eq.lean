@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartialZetaSum_rel_of_idealOf_eq
 -- name    : GlobalTheory.PartialZetaSum.rel_of_idealOf_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:41:08.804811+00:00
 -- url     : https://prove2.me/theorems/b7100917-5874-4fec-b008-5046bb7d676c

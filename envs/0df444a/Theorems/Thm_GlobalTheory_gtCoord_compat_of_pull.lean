@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gtCoord_compat_of_pull
 -- name    : GlobalTheory.gtCoord_compat_of_pull
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:36:48.533388+00:00
 -- url     : https://prove2.me/theorems/68d0a446-6d50-4a9c-a164-c568be612f53

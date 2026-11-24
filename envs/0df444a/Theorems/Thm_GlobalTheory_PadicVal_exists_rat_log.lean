@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PadicVal_exists_rat_log
 -- name    : GlobalTheory.PadicVal.exists_rat_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:40:04.4401+00:00
 -- url     : https://prove2.me/theorems/cd28d074-c815-4240-85ea-59a473279eb3

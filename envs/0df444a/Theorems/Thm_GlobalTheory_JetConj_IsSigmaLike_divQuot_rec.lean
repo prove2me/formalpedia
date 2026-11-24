@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetConj_IsSigmaLike_divQuot_rec
 -- name    : GlobalTheory.JetConj.IsSigmaLike.divQuot_rec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:39:50.187187+00:00
 -- url     : https://prove2.me/theorems/d439d3c2-802e-4677-90c3-94ac42a61260

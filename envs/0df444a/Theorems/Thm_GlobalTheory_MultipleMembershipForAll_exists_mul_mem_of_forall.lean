@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MultipleMembershipForAll_exists_mul_mem_of_forall
 -- name    : GlobalTheory.MultipleMembershipForAll.exists_mul_mem_of_forall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:29:09.427793+00:00
 -- url     : https://prove2.me/theorems/9f5fe765-8fde-41a1-b788-4becb5391a59

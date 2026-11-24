@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertHeis_heisenberg_middle_first_zero
 -- name    : GlobalTheory.CompanionTheory.InertHeis.heisenberg_middle_first_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:49:22.013916+00:00
 -- url     : https://prove2.me/theorems/00fcbad8-3d21-4d55-9dd1-eeca4947f0fe

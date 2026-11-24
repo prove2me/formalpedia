@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_Model_FF_eq_D_Gs
 -- name    : GlobalTheory.LatPair.Model.FF_eq_D_Gs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:59:04.492344+00:00
 -- url     : https://prove2.me/theorems/f812f3a3-cd20-4120-96d0-8d60b970d898

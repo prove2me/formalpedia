@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_LinCount_lin_det
 -- name    : GlobalTheory.PMonE.LinCount.lin_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:39:37.203875+00:00
 -- url     : https://prove2.me/theorems/fb3eb65c-d86f-424a-85c6-3d6f6f65611a

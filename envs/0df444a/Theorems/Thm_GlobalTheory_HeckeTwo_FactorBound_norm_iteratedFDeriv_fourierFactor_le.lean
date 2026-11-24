@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_FactorBound_norm_iteratedFDeriv_fourierFactor_le
 -- name    : GlobalTheory.HeckeTwo.FactorBound.norm_iteratedFDeriv_fourierFactor_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:06:03.202651+00:00
 -- url     : https://prove2.me/theorems/7fcb77c9-0455-4654-975a-05c4d09322c0

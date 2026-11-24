@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MuTowerInj_exists_iota_of_red
 -- name    : GlobalTheory.MuTowerInj.exists_iota_of_red
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:30:32.80218+00:00
 -- url     : https://prove2.me/theorems/42f0802c-21d2-4217-ae21-ea136f7d4d7e

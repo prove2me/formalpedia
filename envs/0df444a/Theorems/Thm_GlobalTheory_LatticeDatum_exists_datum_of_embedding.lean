@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeDatum_exists_datum_of_embedding
 -- name    : GlobalTheory.LatticeDatum.exists_datum_of_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:58:35.089639+00:00
 -- url     : https://prove2.me/theorems/272ea5ec-6453-41b2-a8a8-f74b241fff96

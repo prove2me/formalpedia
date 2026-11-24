@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KaUnique_isCx_of_isMul
 -- name    : GlobalTheory.KaUnique.isCx_of_isMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:00:10.743471+00:00
 -- url     : https://prove2.me/theorems/c8708bdd-7e39-4f49-9c73-6a203d3ff257

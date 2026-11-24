@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_snlCommonVersionFiltrationFieldsV1
 -- name    : Kyprianou.Ch03.snlCommonVersionFiltrationFieldsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T17:58:11.345793+00:00
 -- url     : https://prove2.me/theorems/573fce0a-241c-4512-bf95-b4f5eaf97864

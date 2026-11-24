@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagRestrictHomogeneous_proof_d03bfba93573
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagRestrictHomogeneous_proof_d03bfba93573
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:02:23.608403+00:00
 -- url     : https://prove2.me/theorems/5886054b-69ac-4e0f-9bfa-d0864517471a

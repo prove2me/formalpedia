@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GL2b2_PfN_tt_ofReal
 -- name    : Formalism.HermitianLattices.GL2b2.PfN.tt_ofReal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:48:17.001873+00:00
 -- url     : https://prove2.me/theorems/38e4c0b2-31ae-4ffc-9a51-29927a6cfafc

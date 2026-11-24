@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Models_isFinite_lift_comp
 -- name    : GlobalTheory.Models.isFinite_lift_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:26:53.89107+00:00
 -- url     : https://prove2.me/theorems/607b85d7-3296-4129-a767-ce41f4ea5d6e

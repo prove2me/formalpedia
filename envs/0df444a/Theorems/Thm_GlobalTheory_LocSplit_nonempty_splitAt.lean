@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocSplit_nonempty_splitAt
 -- name    : GlobalTheory.LocSplit.nonempty_splitAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:03:27.689224+00:00
 -- url     : https://prove2.me/theorems/6f8190a4-92b0-452d-8c09-404605d044b0

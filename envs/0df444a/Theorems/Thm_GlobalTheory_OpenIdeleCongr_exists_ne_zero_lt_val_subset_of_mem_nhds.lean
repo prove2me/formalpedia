@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OpenIdeleCongr_exists_ne_zero_lt_val_subset_of_mem_nhds
 -- name    : GlobalTheory.OpenIdeleCongr.exists_ne_zero_lt_val_subset_of_mem_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:37:34.115021+00:00
 -- url     : https://prove2.me/theorems/aef6fcc9-b4f4-4feb-b44d-f3b959e62bdb

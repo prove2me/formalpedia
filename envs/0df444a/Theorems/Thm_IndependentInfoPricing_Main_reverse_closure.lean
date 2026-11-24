@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IndependentInfoPricing_Main_reverse_closure
 -- name    : IndependentInfoPricing.Main.reverse_closure
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T04:32:28.804846+00:00
 -- url     : https://prove2.me/theorems/cc06a363-e0eb-4f0f-97f8-592b88584090

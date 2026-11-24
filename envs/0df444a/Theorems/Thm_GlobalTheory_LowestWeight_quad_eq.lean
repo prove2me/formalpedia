@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LowestWeight_quad_eq
 -- name    : GlobalTheory.LowestWeight.quad_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:19:48.042419+00:00
 -- url     : https://prove2.me/theorems/571bba22-3598-4b37-9bef-185564c6a47c

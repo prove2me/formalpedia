@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinkLaw_exists_subst
 -- name    : GlobalTheory.LinkLaw.exists_subst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:47:06.68519+00:00
 -- url     : https://prove2.me/theorems/5eefb1d2-ac7e-4b5f-b954-0f1bfc9c04b1

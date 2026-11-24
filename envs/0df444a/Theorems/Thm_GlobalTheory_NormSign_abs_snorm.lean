@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormSign_abs_snorm
 -- name    : GlobalTheory.NormSign.abs_snorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:37:48.110073+00:00
 -- url     : https://prove2.me/theorems/e4fe1d2f-b309-4254-85b3-7612d1825d8a

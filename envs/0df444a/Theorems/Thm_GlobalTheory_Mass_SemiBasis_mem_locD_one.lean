@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_SemiBasis_mem_locD_one
 -- name    : GlobalTheory.Mass.SemiBasis.mem_locD_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:20:02.306809+00:00
 -- url     : https://prove2.me/theorems/475aa2f4-d9c5-4b0c-b873-2dfa9748f546

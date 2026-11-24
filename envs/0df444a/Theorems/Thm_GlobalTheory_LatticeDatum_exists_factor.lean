@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeDatum_exists_factor
 -- name    : GlobalTheory.LatticeDatum.exists_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:58:41.097189+00:00
 -- url     : https://prove2.me/theorems/31869af4-101a-4e8d-bfa1-1e7f300add58

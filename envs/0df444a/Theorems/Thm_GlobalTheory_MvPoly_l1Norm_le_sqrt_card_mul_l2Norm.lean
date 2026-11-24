@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MvPoly_l1Norm_le_sqrt_card_mul_l2Norm
 -- name    : GlobalTheory.MvPoly.l1Norm_le_sqrt_card_mul_l2Norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:28:57.090275+00:00
 -- url     : https://prove2.me/theorems/68384d16-6676-4696-9bc4-752740a2e0ae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulCocycle_finsupp_homotopy
 -- name    : GlobalTheory.MulCocycle.finsupp_homotopy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:29:20.900996+00:00
 -- url     : https://prove2.me/theorems/c6d962e8-4fb9-4811-93cd-84bfe8fde5b3

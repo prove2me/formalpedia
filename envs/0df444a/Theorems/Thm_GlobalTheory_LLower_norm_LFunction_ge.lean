@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LLower_norm_LFunction_ge
 -- name    : GlobalTheory.LLower.norm_LFunction_ge
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:57:56.871254+00:00
 -- url     : https://prove2.me/theorems/97b38394-5a2d-4f5b-ae7d-9671dd36e249

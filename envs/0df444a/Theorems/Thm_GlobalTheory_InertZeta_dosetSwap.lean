@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_dosetSwap
 -- name    : GlobalTheory.InertZeta.dosetSwap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:18:42.773806+00:00
 -- url     : https://prove2.me/theorems/5f24aa64-6af5-43b7-bdbf-4edc66c02ae8

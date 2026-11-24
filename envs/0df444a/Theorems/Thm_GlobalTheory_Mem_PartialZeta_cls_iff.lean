@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_PartialZeta_cls_iff
 -- name    : GlobalTheory.Mem.PartialZeta.cls_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:23:32.838726+00:00
 -- url     : https://prove2.me/theorems/000afe8a-b27c-4335-b094-46d4174e7d5e

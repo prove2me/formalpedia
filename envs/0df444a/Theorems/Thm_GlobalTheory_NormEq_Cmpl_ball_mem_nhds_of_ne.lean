@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormEq_Cmpl_ball_mem_nhds_of_ne
 -- name    : GlobalTheory.NormEq.Cmpl.ball_mem_nhds_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:34:25.917611+00:00
 -- url     : https://prove2.me/theorems/3f5d9584-23b6-44f8-ad0b-61ec0e6cdd5c

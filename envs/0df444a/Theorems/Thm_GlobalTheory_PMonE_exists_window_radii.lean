@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_exists_window_radii
 -- name    : GlobalTheory.PMonE.exists_window_radii
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:38:44.416805+00:00
 -- url     : https://prove2.me/theorems/fbb7a505-d1d5-44b6-a731-cb731b171003

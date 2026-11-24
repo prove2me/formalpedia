@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_serEx
 -- name    : GlobalTheory.JetSer.serEx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:41:39.748806+00:00
 -- url     : https://prove2.me/theorems/cd64f3db-b37a-4f7c-aaac-80db30ed78ef

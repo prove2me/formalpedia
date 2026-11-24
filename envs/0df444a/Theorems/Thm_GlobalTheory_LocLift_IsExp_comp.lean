@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocLift_IsExp_comp
 -- name    : GlobalTheory.LocLift.IsExp.comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:22:02.789812+00:00
 -- url     : https://prove2.me/theorems/f297f3c6-951a-417b-8d6f-8a55fc13b1c9

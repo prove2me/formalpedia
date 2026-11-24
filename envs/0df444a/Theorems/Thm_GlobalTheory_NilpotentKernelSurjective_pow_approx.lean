@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NilpotentKernelSurjective_pow_approx
 -- name    : GlobalTheory.NilpotentKernelSurjective.pow_approx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:33:47.414369+00:00
 -- url     : https://prove2.me/theorems/2f39a13f-3c3c-4182-ab5a-b4712686075e

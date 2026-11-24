@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsLatticeEmb_extend_isAlt
 -- name    : GlobalTheory.IsLatticeEmb.extend_isAlt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:52:52.470967+00:00
 -- url     : https://prove2.me/theorems/13318839-ae43-44a5-bb0f-52991e74dd32

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MajInv_exists_colP_rmul_eq_sum
 -- name    : GlobalTheory.MajInv.exists_colP_rmul_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:22:14.478901+00:00
 -- url     : https://prove2.me/theorems/a11e3363-5e32-4244-9d85-5b2fda917375

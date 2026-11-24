@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OneSpace_gram_conj
 -- name    : GlobalTheory.OneSpace.gram_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:38:15.39568+00:00
 -- url     : https://prove2.me/theorems/6019704c-97e3-43ed-a106-fc9d8c6d1b36

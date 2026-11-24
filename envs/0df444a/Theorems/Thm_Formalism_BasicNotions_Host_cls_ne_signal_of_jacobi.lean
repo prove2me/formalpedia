@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BasicNotions_Host_cls_ne_signal_of_jacobi
 -- name    : Formalism.BasicNotions.Host.cls_ne_signal_of_jacobi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:46:03.91159+00:00
 -- url     : https://prove2.me/theorems/4dc4c725-d48a-4567-9acd-f568c32a9365

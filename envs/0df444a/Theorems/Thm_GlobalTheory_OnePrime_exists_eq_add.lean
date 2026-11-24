@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OnePrime_exists_eq_add
 -- name    : GlobalTheory.OnePrime.exists_eq_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:37:31.569994+00:00
 -- url     : https://prove2.me/theorems/02ec10ed-7f84-4d0f-94e9-5876b97c9f87

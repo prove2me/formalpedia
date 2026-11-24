@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormValuation_exponent_mul
 -- name    : GlobalTheory.NormValuation.exponent_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:35:58.460149+00:00
 -- url     : https://prove2.me/theorems/ef2ef78c-1a84-4584-ac32-085e1c6355e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LaurentFinite_finite_of_triangular
 -- name    : GlobalTheory.LaurentFinite.finite_of_triangular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:01:25.89842+00:00
 -- url     : https://prove2.me/theorems/43839cf0-213e-4962-8d66-066ce1603bd8

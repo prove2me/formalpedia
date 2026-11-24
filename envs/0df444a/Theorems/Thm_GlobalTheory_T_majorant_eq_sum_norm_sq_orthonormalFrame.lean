@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_majorant_eq_sum_norm_sq_orthonormalFrame
 -- name    : GlobalTheory.T.majorant_eq_sum_norm_sq_orthonormalFrame
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:07:04.537716+00:00
 -- url     : https://prove2.me/theorems/a8b6e37b-5443-40b6-bc7f-0f4184acece2

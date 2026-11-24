@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalGrouping_finsum_fibres_eq
 -- name    : GlobalTheory.LocalGrouping.finsum_fibres_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:13:44.316342+00:00
 -- url     : https://prove2.me/theorems/f4c617f0-ca64-4228-a0a7-42624c9b45ee

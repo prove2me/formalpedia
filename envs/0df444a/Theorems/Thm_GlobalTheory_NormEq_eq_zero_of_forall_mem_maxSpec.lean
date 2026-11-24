@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormEq_eq_zero_of_forall_mem_maxSpec
 -- name    : GlobalTheory.NormEq.eq_zero_of_forall_mem_maxSpec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:34:39.486801+00:00
 -- url     : https://prove2.me/theorems/b46b2073-61dd-40c0-8939-eb48dd9e04bc

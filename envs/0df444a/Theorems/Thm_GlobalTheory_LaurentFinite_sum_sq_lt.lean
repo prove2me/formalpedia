@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LaurentFinite_sum_sq_lt
 -- name    : GlobalTheory.LaurentFinite.sum_sq_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:01:11.47175+00:00
 -- url     : https://prove2.me/theorems/9ff88821-b2ca-4e9a-aeff-b9f5aeee588e

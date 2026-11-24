@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormPowerTwoUnity_norm_sq_sub_one_ge
 -- name    : GlobalTheory.NormPowerTwoUnity.norm_sq_sub_one_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:35:59.182804+00:00
 -- url     : https://prove2.me/theorems/a7881c34-7dd1-471f-952f-9cf5632a0feb

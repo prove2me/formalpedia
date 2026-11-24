@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NB_LT_poly_dvd_of_dvd
 -- name    : GlobalTheory.NB.LT.poly_dvd_of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:30:22.169225+00:00
 -- url     : https://prove2.me/theorems/38f51383-194e-48db-b47b-035de8227f96

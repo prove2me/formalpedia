@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CapelliAbstractCharacter_Tm_apply
 -- name    : Formalism.FourierDecayAlt.P.CapelliAbstractCharacter.Tm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:56:19.572043+00:00
 -- url     : https://prove2.me/theorems/311fd448-3e11-4f8f-a826-8d39fa90501f

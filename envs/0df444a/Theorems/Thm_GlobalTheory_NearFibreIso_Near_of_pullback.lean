@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NearFibreIso_Near_of_pullback
 -- name    : GlobalTheory.NearFibreIso.Near.of_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:36:38.307803+00:00
 -- url     : https://prove2.me/theorems/5b99cd00-c3bc-450e-9833-81768013457e

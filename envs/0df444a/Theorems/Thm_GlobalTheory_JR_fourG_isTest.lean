@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_fourG_isTest
 -- name    : GlobalTheory.JR.fourG_isTest
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:38:19.701803+00:00
 -- url     : https://prove2.me/theorems/7755ba0a-425e-4cda-8372-05e521d43b83

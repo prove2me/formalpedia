@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinGLChar_mul_mul_eq_iff
 -- name    : GlobalTheory.CompanionTheory.FinGLChar.mul_mul_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:58:28.611864+00:00
 -- url     : https://prove2.me/theorems/2e0abfc6-5947-4acb-a2b0-06fb1d5e3a1d

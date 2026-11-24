@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OmAStab_continuous_invT_inv_val
 -- name    : GlobalTheory.OmAStab.continuous_invT_inv_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:38:06.742316+00:00
 -- url     : https://prove2.me/theorems/98e7f0c4-caab-4ec9-8607-379a2fb6e693

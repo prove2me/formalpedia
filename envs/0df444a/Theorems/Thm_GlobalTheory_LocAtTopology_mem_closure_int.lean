@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocAtTopology_mem_closure_int
 -- name    : GlobalTheory.LocAtTopology.mem_closure_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:13:26.050108+00:00
 -- url     : https://prove2.me/theorems/7ef34d22-eb5d-4ca9-a11b-58c19743116b

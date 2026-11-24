@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_PsiToPi_abel
 -- name    : GlobalTheory.Lin.PsiToPi.abel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:06:12.412166+00:00
 -- url     : https://prove2.me/theorems/1b651fd4-a8bd-404e-8252-67da1400b479

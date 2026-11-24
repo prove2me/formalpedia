@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_gram_proposition_of_places
 -- name    : Formalism.FourierDecayAlt.P.gram_proposition_of_places
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:03:04.089229+00:00
 -- url     : https://prove2.me/theorems/f7009ad3-3a85-4d6e-a42f-361458e47845

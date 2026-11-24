@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_herm_diagonal_self
 -- name    : GlobalTheory.UTrans.herm_diagonal_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:54:34.690703+00:00
 -- url     : https://prove2.me/theorems/9715a8e4-5907-4b77-a8b3-0c40b3e81430

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulJacobian_dof_single
 -- name    : GlobalTheory.MulJacobian.dof_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:30:03.484479+00:00
 -- url     : https://prove2.me/theorems/1ebe2ec5-1af8-464e-a419-f1239b322e4d

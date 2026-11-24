@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinDescent_exists_locSec
 -- name    : GlobalTheory.LinDescent.exists_locSec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:19:58.312808+00:00
 -- url     : https://prove2.me/theorems/d20cdd5d-8328-48fc-8db5-ad085ea0b1ea

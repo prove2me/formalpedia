@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocRep_exists_eval_closure
 -- name    : GlobalTheory.LocRep.exists_eval_closure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:13:44.171801+00:00
 -- url     : https://prove2.me/theorems/47620d46-d4c1-40c1-a09c-0b991c2457de

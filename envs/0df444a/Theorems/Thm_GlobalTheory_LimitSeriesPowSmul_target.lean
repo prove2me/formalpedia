@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LimitSeriesPowSmul_target
 -- name    : GlobalTheory.LimitSeriesPowSmul.target
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:04:43.29214+00:00
 -- url     : https://prove2.me/theorems/84cd94df-7f4a-4b4a-9aac-fd364ec8a0f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevDesc_IsRightAct_algOp_eq
 -- name    : GlobalTheory.LevDesc.IsRightAct.algOp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:02:07.678584+00:00
 -- url     : https://prove2.me/theorems/25aa859d-6d71-4b97-b627-55d847119930

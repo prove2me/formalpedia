@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatSqrtNearOne_norm_sub_le_max_ultra
 -- name    : GlobalTheory.MatSqrtNearOne.norm_sub_le_max_ultra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:19:32.430923+00:00
 -- url     : https://prove2.me/theorems/de3f661e-4ebc-42f8-a4f9-e0088c24694f

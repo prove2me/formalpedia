@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ModelCharpoly_charpoly_eq
 -- name    : GlobalTheory.ModelCharpoly.charpoly_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:24:31.070634+00:00
 -- url     : https://prove2.me/theorems/03c86e33-0c92-4df0-a13e-58a802ae3650

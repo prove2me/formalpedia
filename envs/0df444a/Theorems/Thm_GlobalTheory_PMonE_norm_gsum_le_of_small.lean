@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_norm_gsum_le_of_small
 -- name    : GlobalTheory.PMonE.norm_gsum_le_of_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:40:18.397416+00:00
 -- url     : https://prove2.me/theorems/788dea85-0c54-4963-b875-f7bc6ab8d8ea

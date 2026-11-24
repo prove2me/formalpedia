@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermDen_exists_den
 -- name    : GlobalTheory.HermDen.exists_den
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:19:07.626346+00:00
 -- url     : https://prove2.me/theorems/2981f84f-d5f5-4d57-a495-3b8e7878b8c6

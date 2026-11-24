@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinpolyHeightCount_finite_and_ncard_le_of_fibres_roots
 -- name    : GlobalTheory.MinpolyHeightCount.finite_and_ncard_le_of_fibres_roots
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:39:44.490729+00:00
 -- url     : https://prove2.me/theorems/8a1b72c0-b1a1-469e-87e7-23e5e14dc318

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormDetIndex_norm_eq_of_associated
 -- name    : GlobalTheory.NormDetIndex.norm_eq_of_associated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:34:06.761936+00:00
 -- url     : https://prove2.me/theorems/003e0979-99c7-4f19-88a0-07b405e37e37

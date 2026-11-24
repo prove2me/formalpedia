@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaximalIdealFiltration_maximalIdeal_pow_le_filt
 -- name    : GlobalTheory.MaximalIdealFiltration.maximalIdeal_pow_le_filt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:21:03.030503+00:00
 -- url     : https://prove2.me/theorems/65792638-1df0-4779-b560-96e8babb2c10

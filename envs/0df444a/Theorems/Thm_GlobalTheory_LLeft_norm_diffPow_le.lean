@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LLeft_norm_diffPow_le
 -- name    : GlobalTheory.LLeft.norm_diffPow_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:00:13.305097+00:00
 -- url     : https://prove2.me/theorems/4fa6c24f-c3db-4cd8-9034-81d09ecf9c34

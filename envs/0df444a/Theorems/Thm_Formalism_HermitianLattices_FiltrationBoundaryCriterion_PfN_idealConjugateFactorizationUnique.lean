@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_FiltrationBoundaryCriterion_PfN_idealConjugateFactorizationUnique
 -- name    : Formalism.HermitianLattices.FiltrationBoundaryCriterion.PfN.idealConjugateFactorizationUnique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:48:37.368374+00:00
 -- url     : https://prove2.me/theorems/99c17a50-ede6-4114-a9a5-64d7c1645d38

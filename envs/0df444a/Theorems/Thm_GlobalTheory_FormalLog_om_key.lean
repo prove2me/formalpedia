@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalLog_om_key
 -- name    : GlobalTheory.FormalLog.om_key
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:36:31.413891+00:00
 -- url     : https://prove2.me/theorems/1dbff0ba-1434-442b-9192-e15f4834f889

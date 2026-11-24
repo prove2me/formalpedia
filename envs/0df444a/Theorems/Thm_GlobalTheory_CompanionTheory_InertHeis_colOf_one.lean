@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertHeis_colOf_one
 -- name    : GlobalTheory.CompanionTheory.InertHeis.colOf_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:50:24.093295+00:00
 -- url     : https://prove2.me/theorems/05f32bc4-951f-4a72-978b-23934c69e5a6

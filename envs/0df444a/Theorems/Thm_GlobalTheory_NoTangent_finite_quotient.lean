@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NoTangent_finite_quotient
 -- name    : GlobalTheory.NoTangent.finite_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:35:28.442851+00:00
 -- url     : https://prove2.me/theorems/824055ea-f47b-403b-9938-2af897af5b15

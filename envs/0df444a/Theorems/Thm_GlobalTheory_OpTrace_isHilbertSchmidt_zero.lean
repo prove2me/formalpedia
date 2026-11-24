@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OpTrace_isHilbertSchmidt_zero
 -- name    : GlobalTheory.OpTrace.isHilbertSchmidt_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:37:15.970034+00:00
 -- url     : https://prove2.me/theorems/07153055-464b-4ed2-901d-a6045d711517

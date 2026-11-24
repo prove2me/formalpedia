@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_firstNegativePassage_eq_rational
 -- name    : Kyprianou.Ch01.firstNegativePassage_eq_rational
--- status  : Open
+-- status  : Disproved
 -- author  : @pageman
 -- created : 2026-11-24T16:58:46.171902+00:00
 -- url     : https://prove2.me/theorems/2ae01875-483e-4003-aca7-f1998374054e

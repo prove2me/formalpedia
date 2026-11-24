@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinearMapDifferenceFormula_main
 -- name    : GlobalTheory.LinearMapDifferenceFormula.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:11:03.56404+00:00
 -- url     : https://prove2.me/theorems/ad13a68b-a9b0-495f-b531-68445da3c535

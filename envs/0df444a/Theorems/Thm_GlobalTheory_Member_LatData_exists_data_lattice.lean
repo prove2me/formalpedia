@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Member_LatData_exists_data_lattice
 -- name    : GlobalTheory.Member.LatData.exists_data_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:25:39.306336+00:00
 -- url     : https://prove2.me/theorems/71bb44bd-f52f-4b4f-8da8-05e45b08fc7a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertGenFun_genFun
 -- name    : GlobalTheory.CompanionTheory.InertGenFun.genFun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:01:32.996585+00:00
 -- url     : https://prove2.me/theorems/1b2d946e-3c7a-49d8-8a04-591b70da9dbd

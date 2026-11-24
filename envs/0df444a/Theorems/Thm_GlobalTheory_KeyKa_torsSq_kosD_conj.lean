@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_torsSq_kosD_conj
 -- name    : GlobalTheory.KeyKa.torsSq_kosD_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:41:50.014136+00:00
 -- url     : https://prove2.me/theorems/0ea03338-7d76-4254-ac6b-d7d7bcde2a8a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_cls_mem_PolEta
 -- name    : GlobalTheory.BK.PhiMod.cls_mem_PolEta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:54:38.086432+00:00
 -- url     : https://prove2.me/theorems/d1d27d55-bdce-4da0-8869-52bfcecf4327

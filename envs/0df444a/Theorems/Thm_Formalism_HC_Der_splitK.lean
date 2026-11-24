@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_splitK
 -- name    : Formalism.HC.Der.splitK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:03:52.370279+00:00
 -- url     : https://prove2.me/theorems/079cc5a0-95c0-4a36-8a58-23557e3db9df

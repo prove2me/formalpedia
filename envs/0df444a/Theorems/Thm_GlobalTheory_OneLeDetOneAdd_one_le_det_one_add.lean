@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OneLeDetOneAdd_one_le_det_one_add
 -- name    : GlobalTheory.OneLeDetOneAdd.one_le_det_one_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:36:26.926089+00:00
 -- url     : https://prove2.me/theorems/78635248-0539-4c51-91ba-2dd57e3c9166

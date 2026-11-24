@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NoetherInt_shear_leadingCoeff_isUnit
 -- name    : GlobalTheory.NoetherInt.shear_leadingCoeff_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:34:32.605493+00:00
 -- url     : https://prove2.me/theorems/ae6310d2-8b39-4cad-908e-b38fb299955d

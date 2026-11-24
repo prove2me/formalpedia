@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Chr_valued_algebraMap_eq_one
 -- name    : GlobalTheory.Mem.Chr.valued_algebraMap_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:23:15.110462+00:00
 -- url     : https://prove2.me/theorems/03e0e47a-47a7-4e0b-b996-2002910e626a

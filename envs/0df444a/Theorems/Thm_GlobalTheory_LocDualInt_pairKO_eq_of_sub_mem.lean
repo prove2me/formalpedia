@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocDualInt_pairKO_eq_of_sub_mem
 -- name    : GlobalTheory.LocDualInt.pairKO_eq_of_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:12:16.248087+00:00
 -- url     : https://prove2.me/theorems/39c01a0c-6cb4-4e60-90c6-bab13a53bf10

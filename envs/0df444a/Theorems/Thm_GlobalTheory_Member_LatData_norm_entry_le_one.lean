@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Member_LatData_norm_entry_le_one
 -- name    : GlobalTheory.Member.LatData.norm_entry_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:25:38.588668+00:00
 -- url     : https://prove2.me/theorems/12830cce-0c23-49c8-ae1f-aca212508768

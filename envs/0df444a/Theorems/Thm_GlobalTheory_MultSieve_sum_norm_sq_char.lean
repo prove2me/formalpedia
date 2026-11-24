@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MultSieve_sum_norm_sq_char
 -- name    : GlobalTheory.MultSieve.sum_norm_sq_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:28:30.495574+00:00
 -- url     : https://prove2.me/theorems/ba7f8024-cad7-4661-b6c5-06d49b6be691

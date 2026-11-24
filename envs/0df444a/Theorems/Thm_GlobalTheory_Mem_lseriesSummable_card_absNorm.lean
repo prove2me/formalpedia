@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_lseriesSummable_card_absNorm
 -- name    : GlobalTheory.Mem.lseriesSummable_card_absNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:24:55.137033+00:00
 -- url     : https://prove2.me/theorems/b15ce41b-0ee8-40fd-950a-0881c0372290

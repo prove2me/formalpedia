@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormVal_length_localization_quot_maximal
 -- name    : GlobalTheory.NormVal.length_localization_quot_maximal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:35:35.378173+00:00
 -- url     : https://prove2.me/theorems/abe8763f-1a62-450e-b9a3-037196fb433c

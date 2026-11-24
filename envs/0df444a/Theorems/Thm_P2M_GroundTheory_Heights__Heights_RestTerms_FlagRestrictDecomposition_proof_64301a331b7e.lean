@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagRestrictDecomposition_proof_64301a331b7e
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagRestrictDecomposition_proof_64301a331b7e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:01:25.406823+00:00
 -- url     : https://prove2.me/theorems/875d7a4e-8c1d-49c5-b8fe-f693c04c3953

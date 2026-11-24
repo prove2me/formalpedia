@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_LemmaA_proof_9dec2ef3e4c2
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_LemmaA_proof_9dec2ef3e4c2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:01:46.961479+00:00
 -- url     : https://prove2.me/theorems/6fd33c4e-7ec1-4a08-91bd-5a81ea3abdb4

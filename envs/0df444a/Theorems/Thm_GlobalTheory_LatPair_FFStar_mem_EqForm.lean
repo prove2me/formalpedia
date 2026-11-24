@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_FFStar_mem_EqForm
 -- name    : GlobalTheory.LatPair.FFStar_mem_EqForm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:36:48.671199+00:00
 -- url     : https://prove2.me/theorems/5ae8b2e1-ec0a-40be-903e-ceaf09abddb8

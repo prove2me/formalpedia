@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_GelfCheck_gelfA_eq_Amat
 -- name    : GlobalTheory.Mem.GelfCheck.gelfA_eq_Amat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:24:10.093882+00:00
 -- url     : https://prove2.me/theorems/83323480-5576-4c7b-8368-3a5dae2e898c

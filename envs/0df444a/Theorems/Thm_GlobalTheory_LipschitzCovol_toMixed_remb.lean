@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzCovol_toMixed_remb
 -- name    : GlobalTheory.LipschitzCovol.toMixed_remb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:11:06.546252+00:00
 -- url     : https://prove2.me/theorems/1b4fbd92-9003-4200-8108-3f83c7eb83cb

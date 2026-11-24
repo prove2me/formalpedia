@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeSumOne_exists_schwartz_lattice_sum_one
 -- name    : GlobalTheory.LatticeSumOne.exists_schwartz_lattice_sum_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:01:30.977632+00:00
 -- url     : https://prove2.me/theorems/a506f4b2-75ea-46ba-b719-3aad18070e20

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_StdLat_stdLat_spec
 -- name    : GlobalTheory.HL.StdLat.stdLat_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:00:38.424242+00:00
 -- url     : https://prove2.me/theorems/f9f891a7-7bf0-49b8-8d17-52b009d4b68e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NoCommonZeroSpread_exists_common_denominator
 -- name    : GlobalTheory.NoCommonZeroSpread.exists_common_denominator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:34:41.459808+00:00
 -- url     : https://prove2.me/theorems/393c5aaf-2aae-479f-8319-3510d2f82cdc

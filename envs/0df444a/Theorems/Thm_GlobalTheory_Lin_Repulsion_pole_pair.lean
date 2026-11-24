@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_Repulsion_pole_pair
 -- name    : GlobalTheory.Lin.Repulsion.pole_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:06:55.006228+00:00
 -- url     : https://prove2.me/theorems/cde4d090-0984-4023-b185-7c16e0b1b6d8

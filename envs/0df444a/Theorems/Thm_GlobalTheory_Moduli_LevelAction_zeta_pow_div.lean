@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Moduli_LevelAction_zeta_pow_div
 -- name    : GlobalTheory.Moduli.LevelAction.zeta_pow_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:26:52.655138+00:00
 -- url     : https://prove2.me/theorems/393910ce-d1cc-4e5a-a02a-bd429a7fde39

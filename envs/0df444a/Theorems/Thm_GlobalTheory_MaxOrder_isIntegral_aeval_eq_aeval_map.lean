@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaxOrder_isIntegral_aeval_eq_aeval_map
 -- name    : GlobalTheory.MaxOrder.isIntegral_aeval_eq_aeval_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:21:10.784325+00:00
 -- url     : https://prove2.me/theorems/16656f94-5aa0-42bb-b006-407aec703a2f

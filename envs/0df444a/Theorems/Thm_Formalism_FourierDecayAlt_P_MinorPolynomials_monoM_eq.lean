@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MinorPolynomials_monoM_eq
 -- name    : Formalism.FourierDecayAlt.P.MinorPolynomials.monoM_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:55:23.524535+00:00
 -- url     : https://prove2.me/theorems/4b0eafc1-cbf9-4985-ae30-155c456ed5a1

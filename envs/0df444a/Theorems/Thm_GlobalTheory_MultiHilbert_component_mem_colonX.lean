@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MultiHilbert_component_mem_colonX
 -- name    : GlobalTheory.MultiHilbert.component_mem_colonX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:29:39.107799+00:00
 -- url     : https://prove2.me/theorems/cd9d46ad-b542-4a5d-b82c-2bfc8197e6e0

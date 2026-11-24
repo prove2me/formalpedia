@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_E_pow_mul_Ezpow_neg
 -- name    : GlobalTheory.BK.E_pow_mul_Ezpow_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:51:43.456305+00:00
 -- url     : https://prove2.me/theorems/6435d467-4d38-42a5-8ff7-8cd14dcb5709

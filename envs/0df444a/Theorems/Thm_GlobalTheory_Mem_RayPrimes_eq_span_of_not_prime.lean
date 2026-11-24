@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_RayPrimes_eq_span_of_not_prime
 -- name    : GlobalTheory.Mem.RayPrimes.eq_span_of_not_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:25:03.531861+00:00
 -- url     : https://prove2.me/theorems/f0e294b6-60af-4f92-a028-8b89ee572be6

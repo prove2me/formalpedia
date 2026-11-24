@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_LangIsogenyConstruction_langX_root
 -- name    : GlobalTheory.PMonE.LangIsogenyConstruction.langX_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:38:55.340931+00:00
 -- url     : https://prove2.me/theorems/962c7e59-eef3-4696-8f8a-62000742d1a5

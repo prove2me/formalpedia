@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_norm_lipschitzOneVariableKernel_le
 -- name    : GlobalTheory.LipschitzTR.norm_lipschitzOneVariableKernel_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:12:16.046845+00:00
 -- url     : https://prove2.me/theorems/9854cd40-29c1-455d-a16c-5e4f551c6a8f

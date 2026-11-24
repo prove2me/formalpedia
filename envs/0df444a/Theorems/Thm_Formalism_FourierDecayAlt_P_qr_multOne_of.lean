@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_qr_multOne_of
 -- name    : Formalism.FourierDecayAlt.P.qr_multOne_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:12:21.478807+00:00
 -- url     : https://prove2.me/theorems/887404b9-8fba-4e03-8c36-a2b6563fdfbd

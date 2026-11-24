@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_PtDual_existsUnique_point
 -- name    : GlobalTheory.KS.PtDual.existsUnique_point
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:26:08.993364+00:00
 -- url     : https://prove2.me/theorems/255c95ed-6b79-4566-92b1-c22ce797e528

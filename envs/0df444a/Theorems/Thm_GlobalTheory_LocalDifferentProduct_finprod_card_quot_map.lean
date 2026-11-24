@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalDifferentProduct_finprod_card_quot_map
 -- name    : GlobalTheory.LocalDifferentProduct.finprod_card_quot_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:14:01.666433+00:00
 -- url     : https://prove2.me/theorems/804c5d7e-e2b7-48c7-adf6-90c6dbae30d3

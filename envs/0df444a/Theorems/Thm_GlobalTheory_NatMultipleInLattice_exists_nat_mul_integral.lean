@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NatMultipleInLattice_exists_nat_mul_integral
 -- name    : GlobalTheory.NatMultipleInLattice.exists_nat_mul_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:32:00.450805+00:00
 -- url     : https://prove2.me/theorems/a1717b46-2241-42f1-9829-44d7575a91c3

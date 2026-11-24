@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormResidue_exists_mul_involution_eq_neg_one
 -- name    : GlobalTheory.NormResidue.exists_mul_involution_eq_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:35:47.048075+00:00
 -- url     : https://prove2.me/theorems/311d95ca-5bd9-42ad-9ee1-6326b2bab968

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeMean_mean_prod_eq_pow
 -- name    : GlobalTheory.LatticeMean.mean_prod_eq_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:51:51.54956+00:00
 -- url     : https://prove2.me/theorems/49843b74-7a6d-478f-8536-753ce2c0e1a9

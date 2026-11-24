@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_kc_cc_not_mem
 -- name    : Formalism.HC.Der.kc_cc_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:50:22.309861+00:00
 -- url     : https://prove2.me/theorems/e55551d0-14b6-410d-a838-b03972f161c0

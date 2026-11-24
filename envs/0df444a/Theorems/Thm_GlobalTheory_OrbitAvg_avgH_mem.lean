@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbitAvg_avgH_mem
 -- name    : GlobalTheory.OrbitAvg.avgH_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:37:21.855415+00:00
 -- url     : https://prove2.me/theorems/ce47df39-cebe-4c7b-a15b-2b62165c526a

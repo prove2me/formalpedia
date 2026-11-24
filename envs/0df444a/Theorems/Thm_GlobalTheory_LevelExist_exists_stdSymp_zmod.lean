@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelExist_exists_stdSymp_zmod
 -- name    : GlobalTheory.LevelExist.exists_stdSymp_zmod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:04:07.357007+00:00
 -- url     : https://prove2.me/theorems/fc9d8ef8-496c-4cad-843c-45f00b09afba

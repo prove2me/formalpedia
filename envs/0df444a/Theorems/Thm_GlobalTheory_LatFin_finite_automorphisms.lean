@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatFin_finite_automorphisms
 -- name    : GlobalTheory.LatFin.finite_automorphisms
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:03:55.059179+00:00
 -- url     : https://prove2.me/theorems/1c111f2f-7314-415c-a275-4da241237540

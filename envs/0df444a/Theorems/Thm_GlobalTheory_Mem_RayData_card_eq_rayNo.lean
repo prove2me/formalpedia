@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_RayData_card_eq_rayNo
 -- name    : GlobalTheory.Mem.RayData.card_eq_rayNo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:24:58.287542+00:00
 -- url     : https://prove2.me/theorems/ad7f1029-a83c-4ad5-8cdb-a1bf443fdfe2

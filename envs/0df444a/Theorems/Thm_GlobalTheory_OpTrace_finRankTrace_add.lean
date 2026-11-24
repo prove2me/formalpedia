@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OpTrace_finRankTrace_add
 -- name    : GlobalTheory.OpTrace.finRankTrace_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:37:15.94119+00:00
 -- url     : https://prove2.me/theorems/96ff4262-1c0d-4934-b649-e3c50edcbef4

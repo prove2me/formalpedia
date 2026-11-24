@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MultiHilbert_finrank_sup_add_finrank_colonX
 -- name    : GlobalTheory.MultiHilbert.finrank_sup_add_finrank_colonX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:29:17.5357+00:00
 -- url     : https://prove2.me/theorems/ce392c75-9d46-4ba7-8421-5061da469587

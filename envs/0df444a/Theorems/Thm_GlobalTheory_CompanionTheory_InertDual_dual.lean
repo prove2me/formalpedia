@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertDual_dual
 -- name    : GlobalTheory.CompanionTheory.InertDual.dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:02:07.738993+00:00
 -- url     : https://prove2.me/theorems/7c5e24a6-d26a-4fff-bd82-3f2fb852e505

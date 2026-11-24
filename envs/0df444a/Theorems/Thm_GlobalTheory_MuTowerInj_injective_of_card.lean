@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MuTowerInj_injective_of_card
 -- name    : GlobalTheory.MuTowerInj.injective_of_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:28:05.389733+00:00
 -- url     : https://prove2.me/theorems/12b83b1e-c439-4acb-bfc0-0a9942b64642

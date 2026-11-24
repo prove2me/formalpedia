@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulCocycle_algHom_mem_map
 -- name    : GlobalTheory.MulCocycle.algHom_mem_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:29:08.33484+00:00
 -- url     : https://prove2.me/theorems/43efd1d5-2550-4204-9951-ce69297ccc90

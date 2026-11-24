@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MultiplicativeSeries_axis_law
 -- name    : GlobalTheory.MultiplicativeSeries.axis_law
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:29:08.689794+00:00
 -- url     : https://prove2.me/theorems/ac648867-5d21-4eac-a596-9244636f645b

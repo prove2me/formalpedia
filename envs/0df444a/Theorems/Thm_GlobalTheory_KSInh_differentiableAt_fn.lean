@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSInh_differentiableAt_fn
 -- name    : GlobalTheory.KSInh.differentiableAt_fn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:46:33.236622+00:00
 -- url     : https://prove2.me/theorems/caf46d13-f5b1-4301-9be1-af0f01342840

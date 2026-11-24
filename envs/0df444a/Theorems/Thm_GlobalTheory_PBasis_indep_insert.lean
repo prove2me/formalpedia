@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PBasis_indep_insert
 -- name    : GlobalTheory.PBasis.indep_insert
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:39:08.800368+00:00
 -- url     : https://prove2.me/theorems/04d30c8d-608c-45c8-bc5f-f2b7d1e83ebb

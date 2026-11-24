@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeIneq_exists_reduced_combination
 -- name    : GlobalTheory.LatticeIneq.exists_reduced_combination
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:00:04.034827+00:00
 -- url     : https://prove2.me/theorems/c98756ff-f56e-4dc9-adc0-4ef7f0a5eae5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MvPoly_ncard_setOf_degree_le
 -- name    : GlobalTheory.MvPoly.ncard_setOf_degree_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:29:16.301793+00:00
 -- url     : https://prove2.me/theorems/2db0df8a-4eec-4956-86d6-95688ec2d671

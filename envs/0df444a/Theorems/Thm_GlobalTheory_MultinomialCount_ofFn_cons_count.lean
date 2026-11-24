@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MultinomialCount_ofFn_cons_count
 -- name    : GlobalTheory.MultinomialCount.ofFn_cons_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:28:43.238433+00:00
 -- url     : https://prove2.me/theorems/9cd19b5a-ad0c-4e7e-a8f4-b6fee62c0c6f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_dual_inter_eq_sum
 -- name    : GlobalTheory.InertZeta.dual_inter_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:19:02.464503+00:00
 -- url     : https://prove2.me/theorems/c7288d3a-32ec-443d-8123-7705a2a8bc1d

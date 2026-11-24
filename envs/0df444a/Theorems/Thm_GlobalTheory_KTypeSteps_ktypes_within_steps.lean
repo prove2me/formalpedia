@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KTypeSteps_ktypes_within_steps
 -- name    : GlobalTheory.KTypeSteps.ktypes_within_steps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:47:03.093903+00:00
 -- url     : https://prove2.me/theorems/615625fe-d672-4581-a4f4-45d961f3c58e

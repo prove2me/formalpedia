@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_mRel_top
 -- name    : AAInvW.mRel_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:34:22.854795+00:00
 -- url     : https://prove2.me/theorems/1c2e94eb-536c-4a21-8de6-e9101469d35d

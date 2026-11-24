@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_phiOne_mem_SB
 -- name    : GlobalTheory.LatPair.phiOne_mem_SB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:58:42.191617+00:00
 -- url     : https://prove2.me/theorems/c4ff396f-d2eb-400a-86de-ac94afdd8b91

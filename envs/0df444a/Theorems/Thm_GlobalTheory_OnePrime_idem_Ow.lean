@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OnePrime_idem_Ow
 -- name    : GlobalTheory.OnePrime.idem_Ow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:38:12.323459+00:00
 -- url     : https://prove2.me/theorems/6a34767c-fe90-42dc-af9d-bce98549d6f8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMon_vecM_injective
 -- name    : GlobalTheory.PMon.vecM_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:39:01.513516+00:00
 -- url     : https://prove2.me/theorems/35cb793e-667c-439c-84e7-fc7247547af1

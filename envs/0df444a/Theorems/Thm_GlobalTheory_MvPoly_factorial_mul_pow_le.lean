@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MvPoly_factorial_mul_pow_le
 -- name    : GlobalTheory.MvPoly.factorial_mul_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:28:55.765214+00:00
 -- url     : https://prove2.me/theorems/9dae2cfa-54fc-4a8a-9b61-4ef7018accc9

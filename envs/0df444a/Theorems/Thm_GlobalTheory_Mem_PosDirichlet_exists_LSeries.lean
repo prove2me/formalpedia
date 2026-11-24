@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_PosDirichlet_exists_LSeries
 -- name    : GlobalTheory.Mem.PosDirichlet.exists_LSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:23:07.850401+00:00
 -- url     : https://prove2.me/theorems/8e6297a1-9207-4cf1-adb2-c86f285c07f0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MeasurableFundamentalDomain_exists_measurable_fundamental_domain
 -- name    : GlobalTheory.MeasurableFundamentalDomain.exists_measurable_fundamental_domain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:21:39.159336+00:00
 -- url     : https://prove2.me/theorems/b5fcf263-a7bc-49e8-860f-0d443419bc2a

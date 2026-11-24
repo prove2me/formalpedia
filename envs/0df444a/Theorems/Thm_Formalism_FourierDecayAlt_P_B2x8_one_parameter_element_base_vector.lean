@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_one_parameter_element_base_vector
 -- name    : Formalism.FourierDecayAlt.P.B2x8.one_parameter_element_base_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:01:43.789102+00:00
 -- url     : https://prove2.me/theorems/04b2cadb-3d1b-4865-9635-dfa732de89a1

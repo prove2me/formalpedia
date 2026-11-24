@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_hat_E_pow_mul
 -- name    : GlobalTheory.BK.hat_E_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:51:39.278194+00:00
 -- url     : https://prove2.me/theorems/e92862cb-45e7-46d3-a62b-04df6c7d0851

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_kc_one_ne
 -- name    : Formalism.HC.Der.kc_one_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:09:54.626188+00:00
 -- url     : https://prove2.me/theorems/f6f0a067-2aa2-4ee0-a953-272c617268ea

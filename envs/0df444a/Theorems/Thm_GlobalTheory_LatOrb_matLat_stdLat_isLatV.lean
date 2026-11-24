@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatOrb_matLat_stdLat_isLatV
 -- name    : GlobalTheory.LatOrb.matLat_stdLat_isLatV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:59:17.310877+00:00
 -- url     : https://prove2.me/theorems/a3368232-49cb-4736-b7b6-480c6a2261b9

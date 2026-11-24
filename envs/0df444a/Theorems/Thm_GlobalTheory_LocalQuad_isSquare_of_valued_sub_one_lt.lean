@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_isSquare_of_valued_sub_one_lt
 -- name    : GlobalTheory.LocalQuad.isSquare_of_valued_sub_one_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:16:29.864223+00:00
 -- url     : https://prove2.me/theorems/c40f8ebb-1cbb-446d-97d9-916fe621cc32

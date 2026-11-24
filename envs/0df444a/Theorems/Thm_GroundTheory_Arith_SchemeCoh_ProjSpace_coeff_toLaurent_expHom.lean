@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjSpace_coeff_toLaurent_expHom
 -- name    : GroundTheory.Arith.SchemeCoh.ProjSpace.coeff_toLaurent_expHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:39:52.598003+00:00
 -- url     : https://prove2.me/theorems/3ecf6425-fd72-491a-b06a-81826748ea9e

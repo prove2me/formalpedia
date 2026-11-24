@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_LinCount_lin_succ_last
 -- name    : GlobalTheory.PMonE.LinCount.lin_succ_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:38:28.692333+00:00
 -- url     : https://prove2.me/theorems/bc884e2f-3266-40f0-a65f-113ef02a9a6f

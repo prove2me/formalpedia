@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_RayData_cnt_of_ne_zero
 -- name    : GlobalTheory.Mem.RayData.cnt_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:24:50.777379+00:00
 -- url     : https://prove2.me/theorems/5054ef05-1e70-4c0a-8c47-38e1c3e83b81

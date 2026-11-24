@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsLatticeEmb_extend_nondegenerate_iff
 -- name    : GlobalTheory.IsLatticeEmb.extend_nondegenerate_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:52:40.46442+00:00
 -- url     : https://prove2.me/theorems/c41c2d50-25d1-499b-9dc8-b5ab6b6a338a

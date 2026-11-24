@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinPhaseSeminorm_norm_iteratedDeriv_phaseLine
 -- name    : GlobalTheory.LinPhaseSeminorm.norm_iteratedDeriv_phaseLine
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:28:27.396658+00:00
 -- url     : https://prove2.me/theorems/77bbe499-8001-47b8-98eb-88f0418b0094

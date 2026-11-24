@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndivisibleSection_secBGenerates_of_not_dvd
 -- name    : GlobalTheory.IndivisibleSection.secBGenerates_of_not_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:16:16.349886+00:00
 -- url     : https://prove2.me/theorems/02d4bb6b-ec24-4bfd-b894-b555e9abc418

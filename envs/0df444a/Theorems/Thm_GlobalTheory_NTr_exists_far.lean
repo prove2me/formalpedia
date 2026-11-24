@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NTr_exists_far
 -- name    : GlobalTheory.NTr.exists_far
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:30:21.869072+00:00
 -- url     : https://prove2.me/theorems/f34ec0a4-c4da-4b33-aed8-ef17356907e2

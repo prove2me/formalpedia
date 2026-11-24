@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulSplit_nonempty_equiv_pi_of_weights
 -- name    : GlobalTheory.MulSplit.nonempty_equiv_pi_of_weights
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:28:51.853196+00:00
 -- url     : https://prove2.me/theorems/ed1c2ce2-abf1-46b9-80c2-124ad6932db9

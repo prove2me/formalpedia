@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_EpsDer_exists_locDer
 -- name    : GlobalTheory.KS.EpsDer.exists_locDer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:44:45.570801+00:00
 -- url     : https://prove2.me/theorems/7defe845-f78a-4c74-b397-bda630dea94c

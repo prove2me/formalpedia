@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_moore_pow_sub_self_eq_prod
 -- name    : GlobalTheory.PMonE.moore_pow_sub_self_eq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:39:52.417586+00:00
 -- url     : https://prove2.me/theorems/6e6f6467-dc27-46e8-b521-2809dd942879

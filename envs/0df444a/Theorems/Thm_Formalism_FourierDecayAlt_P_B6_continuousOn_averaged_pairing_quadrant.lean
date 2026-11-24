@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_continuousOn_averaged_pairing_quadrant
 -- name    : Formalism.FourierDecayAlt.P.B6.continuousOn_averaged_pairing_quadrant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:01:23.475098+00:00
 -- url     : https://prove2.me/theorems/d24d4042-525d-4a7d-8306-de52f0906820

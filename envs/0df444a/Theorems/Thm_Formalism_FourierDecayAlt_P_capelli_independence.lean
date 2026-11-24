@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_capelli_independence
 -- name    : Formalism.FourierDecayAlt.P.capelli_independence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:28:31.135798+00:00
 -- url     : https://prove2.me/theorems/920db46a-2180-4c83-9da3-cb716bf9e043

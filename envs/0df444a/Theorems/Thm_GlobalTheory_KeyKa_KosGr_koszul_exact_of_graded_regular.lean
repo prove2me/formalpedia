@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_KosGr_koszul_exact_of_graded_regular
 -- name    : GlobalTheory.KeyKa.KosGr.koszul_exact_of_graded_regular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:47:59.246269+00:00
 -- url     : https://prove2.me/theorems/6d40c15a-4ac2-45a2-98c5-eeda6f8076c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MvPoly_sum_norm_coeff_mul_pow_le
 -- name    : GlobalTheory.MvPoly.sum_norm_coeff_mul_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:30:27.93288+00:00
 -- url     : https://prove2.me/theorems/b6e8772c-11e8-4999-aaf0-02d8691e2cd1

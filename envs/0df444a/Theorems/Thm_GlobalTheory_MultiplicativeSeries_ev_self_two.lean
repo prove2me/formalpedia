@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MultiplicativeSeries_ev_self_two
 -- name    : GlobalTheory.MultiplicativeSeries.ev_self_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:29:02.90253+00:00
 -- url     : https://prove2.me/theorems/78a5819f-175d-4729-b2f0-884302b136d6

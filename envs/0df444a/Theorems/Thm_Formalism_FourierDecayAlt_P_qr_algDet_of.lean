@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_qr_algDet_of
 -- name    : Formalism.FourierDecayAlt.P.qr_algDet_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:13:42.907881+00:00
 -- url     : https://prove2.me/theorems/821b4b57-5896-4ed1-aabd-f1a0fa1eb3ab

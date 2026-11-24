@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NearlyPrimitive_exists_last_max
 -- name    : GlobalTheory.NearlyPrimitive.exists_last_max
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:32:04.554519+00:00
 -- url     : https://prove2.me/theorems/16c41991-6f67-4033-810c-156b3d479b94

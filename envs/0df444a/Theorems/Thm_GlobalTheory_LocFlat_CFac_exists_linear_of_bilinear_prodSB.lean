@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_CFac_exists_linear_of_bilinear_prodSB
 -- name    : GlobalTheory.LocFlat.CFac.exists_linear_of_bilinear_prodSB
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:13:48.46312+00:00
 -- url     : https://prove2.me/theorems/ea2e7e68-72b3-447c-aaf8-ed434c3db824

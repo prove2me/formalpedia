@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OpenIdeleCongr_isOpen_adicIntegers
 -- name    : GlobalTheory.OpenIdeleCongr.isOpen_adicIntegers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:39:48.926605+00:00
 -- url     : https://prove2.me/theorems/52894066-28e9-438c-94d2-cd39968909e1

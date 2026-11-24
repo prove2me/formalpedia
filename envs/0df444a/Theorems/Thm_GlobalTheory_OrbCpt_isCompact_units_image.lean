@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbCpt_isCompact_units_image
 -- name    : GlobalTheory.OrbCpt.isCompact_units_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:37:48.848676+00:00
 -- url     : https://prove2.me/theorems/1e516ded-1ae0-4c4d-a687-3f70110bdfbd

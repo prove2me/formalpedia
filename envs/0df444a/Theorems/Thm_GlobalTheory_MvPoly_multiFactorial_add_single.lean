@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MvPoly_multiFactorial_add_single
 -- name    : GlobalTheory.MvPoly.multiFactorial_add_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:29:43.0288+00:00
 -- url     : https://prove2.me/theorems/95843a43-0765-42a1-ab70-9d45baf4216c

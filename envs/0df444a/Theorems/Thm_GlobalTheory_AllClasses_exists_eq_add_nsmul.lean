@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AllClasses_exists_eq_add_nsmul
 -- name    : GlobalTheory.AllClasses.exists_eq_add_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:58:59.857177+00:00
 -- url     : https://prove2.me/theorems/c7a4fcd6-7ea6-4567-bb73-94ba0ee68dc4

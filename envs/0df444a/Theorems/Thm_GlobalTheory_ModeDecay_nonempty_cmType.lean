@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ModeDecay_nonempty_cmType
 -- name    : GlobalTheory.ModeDecay.nonempty_cmType
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:26:24.721842+00:00
 -- url     : https://prove2.me/theorems/2a2fe130-bce6-4c45-8727-32a9dbba1f10

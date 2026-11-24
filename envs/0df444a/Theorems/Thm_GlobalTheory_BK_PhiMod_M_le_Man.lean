@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_M_le_Man
 -- name    : GlobalTheory.BK.PhiMod.M_le_Man
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:52:09.574054+00:00
 -- url     : https://prove2.me/theorems/2e1408ca-dd5b-41b4-b054-9737d125356d

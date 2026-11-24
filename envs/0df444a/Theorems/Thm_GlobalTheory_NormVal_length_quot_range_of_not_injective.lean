@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormVal_length_quot_range_of_not_injective
 -- name    : GlobalTheory.NormVal.length_quot_range_of_not_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:35:51.31682+00:00
 -- url     : https://prove2.me/theorems/987097a6-9f24-469a-a471-1668831f6443

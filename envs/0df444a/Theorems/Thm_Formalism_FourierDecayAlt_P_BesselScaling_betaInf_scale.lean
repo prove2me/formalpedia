@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BesselScaling_betaInf_scale
 -- name    : Formalism.FourierDecayAlt.P.BesselScaling.betaInf_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:09:33.183849+00:00
 -- url     : https://prove2.me/theorems/706c3b67-d43b-47da-9371-ac3399a5e8f5

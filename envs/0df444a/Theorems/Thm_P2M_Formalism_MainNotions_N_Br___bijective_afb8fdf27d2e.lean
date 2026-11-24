@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_N_Br___bijective_afb8fdf27d2e
 -- name    : P2M_Formalism_MainNotions_N_Br___bijective_afb8fdf27d2e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:53:05.972358+00:00
 -- url     : https://prove2.me/theorems/5519d2ae-c5d6-4286-aca9-903bb429dd90

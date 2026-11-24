@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulFinite_exists_pow_mul_eq_zero
 -- name    : GlobalTheory.MulFinite.exists_pow_mul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:28:13.213366+00:00
 -- url     : https://prove2.me/theorems/497e3ee0-9cd8-4f03-8c0b-391bf3cf058a

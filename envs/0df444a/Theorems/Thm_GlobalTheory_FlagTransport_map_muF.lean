@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagTransport_map_muF
 -- name    : GlobalTheory.FlagTransport.map_muF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:32:00.537581+00:00
 -- url     : https://prove2.me/theorems/d662ef98-9d68-4f68-a78e-3c0315f8547f

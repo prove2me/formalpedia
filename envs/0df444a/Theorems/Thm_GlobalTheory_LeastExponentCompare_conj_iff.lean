@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeastExponentCompare_conj_iff
 -- name    : GlobalTheory.LeastExponentCompare.conj_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:01:23.989801+00:00
 -- url     : https://prove2.me/theorems/0d90932f-1e39-487c-9aee-a368210abd55

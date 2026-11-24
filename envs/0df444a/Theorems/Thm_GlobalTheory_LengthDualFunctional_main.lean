@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LengthDualFunctional_main
 -- name    : GlobalTheory.LengthDualFunctional.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:40.719377+00:00
 -- url     : https://prove2.me/theorems/7bfe455d-1613-46ca-b20e-f1d9ec564549

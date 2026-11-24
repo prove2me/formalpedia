@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NoetherPrimitive_exists_common_denominator
 -- name    : GlobalTheory.NoetherPrimitive.exists_common_denominator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:34:24.146152+00:00
 -- url     : https://prove2.me/theorems/c5fc1ee8-d468-472c-83a6-9bfc6a5ec982

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_prodIm_wirtWord_differentiableOn
 -- name    : GlobalTheory.HeckeTwo.prodIm_wirtWord_differentiableOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:13:03.817831+00:00
 -- url     : https://prove2.me/theorems/cfe6c22d-dcbb-4162-b51f-8c14ac808036

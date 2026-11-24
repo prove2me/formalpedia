@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFinSupport_exists_generalizedInverse
 -- name    : GlobalTheory.CompanionTheory.TyFinSupport.exists_generalizedInverse
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:03:37.2608+00:00
 -- url     : https://prove2.me/theorems/b5984dbb-bc87-49f4-804c-7b29e0bef189

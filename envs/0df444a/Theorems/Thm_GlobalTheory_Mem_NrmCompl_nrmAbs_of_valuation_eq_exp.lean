@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_NrmCompl_nrmAbs_of_valuation_eq_exp
 -- name    : GlobalTheory.Mem.NrmCompl.nrmAbs_of_valuation_eq_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:23:37.657121+00:00
 -- url     : https://prove2.me/theorems/955cb6c0-b11b-4cf1-a012-c0f26dda9ae0

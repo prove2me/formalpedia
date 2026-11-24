@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AllClasses_dvd_of_parts
 -- name    : GlobalTheory.AllClasses.dvd_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:59:51.044616+00:00
 -- url     : https://prove2.me/theorems/fe755025-973c-47d1-b797-ac03e01adad3

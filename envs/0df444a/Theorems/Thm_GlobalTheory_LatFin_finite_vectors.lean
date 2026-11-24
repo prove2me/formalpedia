@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatFin_finite_vectors
 -- name    : GlobalTheory.LatFin.finite_vectors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:57:05.440803+00:00
 -- url     : https://prove2.me/theorems/ea49676f-f5e7-40c3-b30b-e424383ff3fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_CoinvAboveTopGeneral_proof_49c6836d5d15
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_CoinvAboveTopGeneral_proof_49c6836d5d15
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:01:58.977734+00:00
 -- url     : https://prove2.me/theorems/87fd2cb8-3165-46f4-8591-909b9317b369

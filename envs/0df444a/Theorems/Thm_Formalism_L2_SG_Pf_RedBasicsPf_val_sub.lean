@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_RedBasicsPf_val_sub
 -- name    : Formalism.L2.SG.Pf.RedBasicsPf.val_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:27:43.0481+00:00
 -- url     : https://prove2.me/theorems/fd0a763c-a0da-4a99-8016-22027a1bb544

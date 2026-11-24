@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormValuation_exponent_pow
 -- name    : GlobalTheory.NormValuation.exponent_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:36:12.551812+00:00
 -- url     : https://prove2.me/theorems/ed8d2114-b9fa-49cd-84c0-4fc3bd6931ef

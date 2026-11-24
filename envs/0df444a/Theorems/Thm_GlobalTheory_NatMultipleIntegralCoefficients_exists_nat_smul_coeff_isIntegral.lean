@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NatMultipleIntegralCoefficients_exists_nat_smul_coeff_isIntegral
 -- name    : GlobalTheory.NatMultipleIntegralCoefficients.exists_nat_smul_coeff_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:31:51.939805+00:00
 -- url     : https://prove2.me/theorems/c7bb36fe-6209-45bf-973a-815692d935ea

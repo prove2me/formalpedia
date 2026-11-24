@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorInt_weight_le
 -- name    : GlobalTheory.MinorInt.weight_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:25:26.780298+00:00
 -- url     : https://prove2.me/theorems/42b471b2-6eaf-4f7f-838c-17380b287430

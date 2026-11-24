@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FourierChainCompare_act_zero
 -- name    : GlobalTheory.FourierChainCompare.act_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:54:38.129958+00:00
 -- url     : https://prove2.me/theorems/65d2503c-c79c-49ee-85af-16fc0145dbc8

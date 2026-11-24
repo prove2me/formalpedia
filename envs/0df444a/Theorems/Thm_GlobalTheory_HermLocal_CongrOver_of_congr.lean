@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermLocal_CongrOver_of_congr
 -- name    : GlobalTheory.HermLocal.CongrOver.of_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:56:44.406314+00:00
 -- url     : https://prove2.me/theorems/0c2628d0-3a72-4df2-9180-ebf10fe5b539

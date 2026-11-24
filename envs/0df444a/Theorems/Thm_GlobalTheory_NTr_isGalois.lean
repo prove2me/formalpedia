@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NTr_isGalois
 -- name    : GlobalTheory.NTr.isGalois
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:30:26.634878+00:00
 -- url     : https://prove2.me/theorems/54474fcf-caea-40fc-a9da-2826a59073b4

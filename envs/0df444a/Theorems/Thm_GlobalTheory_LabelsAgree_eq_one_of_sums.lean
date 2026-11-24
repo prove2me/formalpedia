@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LabelsAgree_eq_one_of_sums
 -- name    : GlobalTheory.LabelsAgree.eq_one_of_sums
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:56:33.6018+00:00
 -- url     : https://prove2.me/theorems/9961d0cd-bfff-4a54-bac5-663fc72c58fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_TransferFactor_lastDet_eq
 -- name    : GlobalTheory.JR.TransferFactor.lastDet_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:37:37.95741+00:00
 -- url     : https://prove2.me/theorems/ae0a99e4-eba3-411f-96db-799ed5052a74

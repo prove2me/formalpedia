@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux1_limit_ident
 -- name    : Formalism.FourierDecayAlt.P.Ux1.limit_ident
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:10:18.734965+00:00
 -- url     : https://prove2.me/theorems/43da2888-5928-4240-8324-fbc4c33e382f

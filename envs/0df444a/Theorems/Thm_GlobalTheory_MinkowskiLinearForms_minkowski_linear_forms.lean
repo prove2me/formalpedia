@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinkowskiLinearForms_minkowski_linear_forms
 -- name    : GlobalTheory.MinkowskiLinearForms.minkowski_linear_forms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:25:16.606803+00:00
 -- url     : https://prove2.me/theorems/a0486296-4e6a-437d-8762-fe8d8b0d68e5

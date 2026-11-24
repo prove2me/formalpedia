@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MvPoly_fockInner_monomial_left
 -- name    : GlobalTheory.MvPoly.fockInner_monomial_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:29:05.200417+00:00
 -- url     : https://prove2.me/theorems/894564cf-cb6e-4932-b94d-4f5d88c36002

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBA_base_count_tendsto
 -- name    : Formalism.FourierDecayAlt.P.PBA.base_count_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:06:03.927+00:00
 -- url     : https://prove2.me/theorems/050d46cb-fb12-4ad9-b36a-f67f1bb44304

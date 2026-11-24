@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormalDescent_reverse_map_of_injective
 -- name    : GlobalTheory.NormalDescent.reverse_map_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:36:31.20923+00:00
 -- url     : https://prove2.me/theorems/a22e3ec5-09ea-42f9-8c7e-6a80560a59fe

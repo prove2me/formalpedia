@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_unipotent_weyl_properties
 -- name    : Formalism.FourierDecayAlt.P.unipotent_weyl_properties
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:25:37.485138+00:00
 -- url     : https://prove2.me/theorems/f36331a0-a58a-4071-8eb2-43e9b375a00a

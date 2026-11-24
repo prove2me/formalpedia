@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OppRad_un_mem
 -- name    : GlobalTheory.OppRad.un_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:39:47.348622+00:00
 -- url     : https://prove2.me/theorems/ba605452-c538-4ce1-b68e-22a6fe49923d

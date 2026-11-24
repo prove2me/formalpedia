@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NoetherPrimitive_exists_C_mem_span
 -- name    : GlobalTheory.NoetherPrimitive.exists_C_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:34:40.811009+00:00
 -- url     : https://prove2.me/theorems/9efc3bef-1c7b-4493-93c0-293732572169

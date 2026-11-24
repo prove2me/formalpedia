@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_gsum_eq_add_gsum_update
 -- name    : GlobalTheory.PMonE.gsum_eq_add_gsum_update
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:39:28.878384+00:00
 -- url     : https://prove2.me/theorems/09bdf10a-0297-47f7-88af-941b7a843844

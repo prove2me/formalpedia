@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NatMulIntegral_exists_nat_mul_isIntegral
 -- name    : GlobalTheory.NatMulIntegral.exists_nat_mul_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:31:46.03106+00:00
 -- url     : https://prove2.me/theorems/5e0f5135-c517-4817-b249-1e30c59f44c1

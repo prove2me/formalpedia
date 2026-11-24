@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_SemiBasis_isPID
 -- name    : GlobalTheory.Mass.SemiBasis.isPID
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:09:33.890802+00:00
 -- url     : https://prove2.me/theorems/6a94898f-5cbc-4dde-ad51-fcf8f8803abc

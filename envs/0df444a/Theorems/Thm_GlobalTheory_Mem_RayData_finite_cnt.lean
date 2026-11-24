@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_RayData_finite_cnt
 -- name    : GlobalTheory.Mem.RayData.finite_cnt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:24:45.048024+00:00
 -- url     : https://prove2.me/theorems/2a367e20-c52a-4a6b-bb42-b02d8d87c878

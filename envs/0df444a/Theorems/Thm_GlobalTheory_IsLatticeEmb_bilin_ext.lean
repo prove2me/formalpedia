@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsLatticeEmb_bilin_ext
 -- name    : GlobalTheory.IsLatticeEmb.bilin_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:52:47.179026+00:00
 -- url     : https://prove2.me/theorems/716e3757-f81b-44ca-b73e-698211ffd09d

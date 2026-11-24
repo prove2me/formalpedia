@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_Hom_onPol_mem_PolEta
 -- name    : GlobalTheory.BK.Hom.onPol_mem_PolEta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:54:42.105042+00:00
 -- url     : https://prove2.me/theorems/7d4536f7-31c8-4b31-8460-37a4d519693f

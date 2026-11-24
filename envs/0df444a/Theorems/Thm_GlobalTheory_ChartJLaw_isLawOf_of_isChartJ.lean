@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartJLaw_isLawOf_of_isChartJ
 -- name    : GlobalTheory.ChartJLaw.isLawOf_of_isChartJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:11:11.190546+00:00
 -- url     : https://prove2.me/theorems/9d183974-41e9-40f2-a1f8-bb08232c89ca

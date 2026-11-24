@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagHomogeneousComponentMul_proof_b65f97eb0ba0
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagHomogeneousComponentMul_proof_b65f97eb0ba0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:01:07.369146+00:00
 -- url     : https://prove2.me/theorems/4d241c17-6ff1-4694-a11e-6ef46ea57e9f

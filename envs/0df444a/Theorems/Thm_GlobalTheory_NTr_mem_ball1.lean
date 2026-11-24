@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NTr_mem_ball1
 -- name    : GlobalTheory.NTr.mem_ball1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:30:10.771643+00:00
 -- url     : https://prove2.me/theorems/ec8254f5-e6aa-4e85-81ed-9bfc2b4f663d

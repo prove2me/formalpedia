@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_SemiBasis_mem_iff_repr
 -- name    : GlobalTheory.Mass.SemiBasis.mem_iff_repr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:20:21.135914+00:00
 -- url     : https://prove2.me/theorems/b17af04d-c900-4690-9598-ea010cb452e5

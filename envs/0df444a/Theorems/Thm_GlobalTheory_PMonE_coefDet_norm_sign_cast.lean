@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_coefDet_norm_sign_cast
 -- name    : GlobalTheory.PMonE.coefDet_norm_sign_cast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:38:22.709612+00:00
 -- url     : https://prove2.me/theorems/dfdf864e-5a21-48ff-b12e-59c38e4ca444

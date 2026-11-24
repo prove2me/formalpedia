@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_LargeMean_pointwise
 -- name    : GlobalTheory.Lin.LargeMean.pointwise
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:06:33.705655+00:00
 -- url     : https://prove2.me/theorems/b8539e1a-dd88-456b-ac81-bf3bbb67fea4

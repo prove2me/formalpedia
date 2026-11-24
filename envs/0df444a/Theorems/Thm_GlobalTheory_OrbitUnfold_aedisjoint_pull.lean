@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbitUnfold_aedisjoint_pull
 -- name    : GlobalTheory.OrbitUnfold.aedisjoint_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:37:11.368832+00:00
 -- url     : https://prove2.me/theorems/b64fee26-1849-4c5d-8ce5-af6c0f2fa1a2

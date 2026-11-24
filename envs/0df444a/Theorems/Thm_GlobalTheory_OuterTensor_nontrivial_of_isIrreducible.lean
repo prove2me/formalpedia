@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OuterTensor_nontrivial_of_isIrreducible
 -- name    : GlobalTheory.OuterTensor.nontrivial_of_isIrreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:38:53.016581+00:00
 -- url     : https://prove2.me/theorems/28734978-9886-445e-9d3b-2698e84ef04a

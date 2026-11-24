@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BasicNotions_primeClass_q
 -- name    : Formalism.BasicNotions.primeClass_q
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:30:55.77832+00:00
 -- url     : https://prove2.me/theorems/eed27a7e-0d74-4f46-80ed-bfbbf56204a7

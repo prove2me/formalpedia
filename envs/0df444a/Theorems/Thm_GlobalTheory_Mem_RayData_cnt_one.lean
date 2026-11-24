@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_RayData_cnt_one
 -- name    : GlobalTheory.Mem.RayData.cnt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:24:52.413983+00:00
 -- url     : https://prove2.me/theorems/19d16b8d-4bad-4e4e-a832-2fc2ec196733

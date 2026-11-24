@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_Br_PD_p
 -- name    : Formalism.MainNotions.N.Br.PD_p
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:51:32.381277+00:00
 -- url     : https://prove2.me/theorems/c71a5b6d-22da-4d1f-8634-5fc14a935468

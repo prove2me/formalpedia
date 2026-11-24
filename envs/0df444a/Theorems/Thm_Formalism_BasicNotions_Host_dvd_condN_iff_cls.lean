@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BasicNotions_Host_dvd_condN_iff_cls
 -- name    : Formalism.BasicNotions.Host.dvd_condN_iff_cls
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:31:07.225212+00:00
 -- url     : https://prove2.me/theorems/d981ce37-3cb5-42aa-8a75-73ff1c59db5c

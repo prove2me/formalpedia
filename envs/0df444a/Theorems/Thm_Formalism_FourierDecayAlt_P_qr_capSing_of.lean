@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_qr_capSing_of
 -- name    : Formalism.FourierDecayAlt.P.qr_capSing_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:29:15.876563+00:00
 -- url     : https://prove2.me/theorems/c02b8a0b-dc99-4b8a-a069-cb9efdfa2bc5

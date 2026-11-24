@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_FiltrationBoundaryCriterion_PfM_orbitsInt
 -- name    : Formalism.HermitianLattices.FiltrationBoundaryCriterion.PfM.orbitsInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:53:05.02248+00:00
 -- url     : https://prove2.me/theorems/4f62860d-1918-4a2f-8726-44f094ad409c

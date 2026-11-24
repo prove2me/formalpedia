@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogDerivHigher_cauchy
 -- name    : GlobalTheory.LogDerivHigher.cauchy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:16:59.292664+00:00
 -- url     : https://prove2.me/theorems/91a2c4bf-b07b-437c-9512-e5e0461aa1f6

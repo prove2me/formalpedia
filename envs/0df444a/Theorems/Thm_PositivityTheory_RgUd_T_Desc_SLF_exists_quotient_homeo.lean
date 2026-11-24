@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_T_Desc_SLF_exists_quotient_homeo
 -- name    : PositivityTheory.RgUd.T.Desc.SLF.exists_quotient_homeo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:02:04.766009+00:00
 -- url     : https://prove2.me/theorems/8bd780ad-6e2a-4d1f-b939-2080a42d480b

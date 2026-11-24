@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocBounded_bounded_of_isIntegral_general
 -- name    : GlobalTheory.LocBounded.bounded_of_isIntegral_general
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:12:30.575862+00:00
 -- url     : https://prove2.me/theorems/3f955ccf-df9d-4e33-ac3a-9c9546d8e451

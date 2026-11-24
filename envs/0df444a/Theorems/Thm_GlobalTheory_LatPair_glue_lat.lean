@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_glue_lat
 -- name    : GlobalTheory.LatPair.glue_lat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:59:19.099813+00:00
 -- url     : https://prove2.me/theorems/0b875f20-29c1-43d4-b794-4af49959e18c

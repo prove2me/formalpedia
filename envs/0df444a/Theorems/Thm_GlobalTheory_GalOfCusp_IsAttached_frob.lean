@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GalOfCusp_IsAttached_frob
 -- name    : GlobalTheory.GalOfCusp.IsAttached.frob
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:48:55.983824+00:00
 -- url     : https://prove2.me/theorems/836037a5-8bf2-4db1-b6c5-23fc529a320f

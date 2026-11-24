@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OnePoint_exists_algHom_of_isIntegrallyClosedIn
 -- name    : GlobalTheory.OnePoint.exists_algHom_of_isIntegrallyClosedIn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:38:04.27592+00:00
 -- url     : https://prove2.me/theorems/29755df2-8d45-43f8-9430-8ae27478eb66

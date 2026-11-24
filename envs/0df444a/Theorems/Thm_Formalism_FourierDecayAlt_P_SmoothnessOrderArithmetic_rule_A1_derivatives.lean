@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SmoothnessOrderArithmetic_rule_A1_derivatives
 -- name    : Formalism.FourierDecayAlt.P.SmoothnessOrderArithmetic.rule_A1_derivatives
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:30:25.060826+00:00
 -- url     : https://prove2.me/theorems/5aabf4f7-d8b4-473e-ac1a-b68c43cab425

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MonicRootExtension_isLocalHom
 -- name    : GlobalTheory.MonicRootExtension.isLocalHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:26:42.663179+00:00
 -- url     : https://prove2.me/theorems/171031d4-1d7c-4a1c-b326-794b393dbfda

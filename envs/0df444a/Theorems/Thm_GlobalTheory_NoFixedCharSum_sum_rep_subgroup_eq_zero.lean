@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NoFixedCharSum_sum_rep_subgroup_eq_zero
 -- name    : GlobalTheory.NoFixedCharSum.sum_rep_subgroup_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:35:06.655363+00:00
 -- url     : https://prove2.me/theorems/bbc69579-7d9e-4a4e-9492-8787dc203c07

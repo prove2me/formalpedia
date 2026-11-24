@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_RayData_coef_eq_tsum
 -- name    : GlobalTheory.Mem.RayData.coef_eq_tsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:24:55.742061+00:00
 -- url     : https://prove2.me/theorems/8a350734-2a8c-485d-85f8-6a91960687f5

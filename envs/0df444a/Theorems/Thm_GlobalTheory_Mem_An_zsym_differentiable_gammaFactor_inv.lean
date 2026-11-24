@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_An_zsym_differentiable_gammaFactor_inv
 -- name    : GlobalTheory.Mem.An.zsym_differentiable_gammaFactor_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:21:59.1868+00:00
 -- url     : https://prove2.me/theorems/3bc18158-79c9-4860-accc-e282c0a6a7a8

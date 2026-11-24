@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormIntegers_ringKrullDim_eq_one
 -- name    : GlobalTheory.NormIntegers.ringKrullDim_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:36:10.512419+00:00
 -- url     : https://prove2.me/theorems/5e442cdc-a701-4bfd-851a-e50817ed7995

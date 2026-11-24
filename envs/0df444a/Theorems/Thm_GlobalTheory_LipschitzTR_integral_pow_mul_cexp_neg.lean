@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_integral_pow_mul_cexp_neg
 -- name    : GlobalTheory.LipschitzTR.integral_pow_mul_cexp_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:12:00.876908+00:00
 -- url     : https://prove2.me/theorems/057387af-4747-4c91-85b9-016b4f0f05be

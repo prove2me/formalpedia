@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OriginValue_ex_zero
 -- name    : GlobalTheory.OriginValue.ex_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:40:28.063773+00:00
 -- url     : https://prove2.me/theorems/42b9dad0-769d-42f2-93b9-4967e087f672

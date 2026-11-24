@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NabCol_dofN_mul_out
 -- name    : GlobalTheory.NabCol.dofN_mul_out
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:34:07.282055+00:00
 -- url     : https://prove2.me/theorems/8e823f16-5d4e-4bdf-9356-26a857dfc3d4

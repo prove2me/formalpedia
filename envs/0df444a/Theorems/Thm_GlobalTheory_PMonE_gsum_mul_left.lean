@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_gsum_mul_left
 -- name    : GlobalTheory.PMonE.gsum_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:41:54.157869+00:00
 -- url     : https://prove2.me/theorems/6cb8659e-3b79-4579-b065-a3ed47c11a92

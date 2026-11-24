@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LiftTest_main
 -- name    : GlobalTheory.LiftTest.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:45:42.005287+00:00
 -- url     : https://prove2.me/theorems/faa2ac32-e889-4809-9969-725f1b28929e

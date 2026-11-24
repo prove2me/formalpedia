@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Host_cycQ_mono
 -- name    : Formalism.L2.Host.cycQ_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:49:47.060771+00:00
 -- url     : https://prove2.me/theorems/e3524fbe-881d-4989-a52a-06caf1f518e4

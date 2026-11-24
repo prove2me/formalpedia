@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulJacobian_isUnit_det_of_const
 -- name    : GlobalTheory.MulJacobian.isUnit_det_of_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:28:50.149058+00:00
 -- url     : https://prove2.me/theorems/62947ba5-a051-40cc-a03a-4fb010438d26

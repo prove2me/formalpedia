@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_coefDet_det_scaled
 -- name    : GlobalTheory.PMonE.coefDet_det_scaled
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:38:39.21127+00:00
 -- url     : https://prove2.me/theorems/3d30c029-45fa-43b5-b267-a1b58cb83ef7

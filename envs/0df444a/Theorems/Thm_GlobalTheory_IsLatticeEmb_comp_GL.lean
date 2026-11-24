@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsLatticeEmb_comp_GL
 -- name    : GlobalTheory.IsLatticeEmb.comp_GL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:52:21.876617+00:00
 -- url     : https://prove2.me/theorems/46389a12-562b-48df-ae71-0e91aa2caf30

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_ProdLift_main
 -- name    : GlobalTheory.KS.ProdLift.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:28:11.524799+00:00
 -- url     : https://prove2.me/theorems/4b7e3c1c-ebbf-4cc0-8603-4b447c5755c0

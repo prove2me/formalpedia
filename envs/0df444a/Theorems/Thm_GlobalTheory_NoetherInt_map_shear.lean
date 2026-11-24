@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NoetherInt_map_shear
 -- name    : GlobalTheory.NoetherInt.map_shear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:34:26.664902+00:00
 -- url     : https://prove2.me/theorems/3ad866a2-7c1c-463e-b7bc-a7d8bec3d706

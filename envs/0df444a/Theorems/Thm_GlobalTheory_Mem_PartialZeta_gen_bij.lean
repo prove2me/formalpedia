@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_PartialZeta_gen_bij
 -- name    : GlobalTheory.Mem.PartialZeta.gen_bij
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:40:57.460806+00:00
 -- url     : https://prove2.me/theorems/2d287cdc-af22-4579-a446-cd309a8ab1b5

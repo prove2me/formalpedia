@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Models_exists_eq_of_mem_adjoin_quadratic_generator
 -- name    : GlobalTheory.Models.exists_eq_of_mem_adjoin_quadratic_generator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:27:42.526974+00:00
 -- url     : https://prove2.me/theorems/a2d98aad-f052-49ea-bb3d-c0ef99c3b1a5

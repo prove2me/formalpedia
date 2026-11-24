@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_kc_sqd_mem
 -- name    : Formalism.HC.Der.kc_sqd_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:50:04.15735+00:00
 -- url     : https://prove2.me/theorems/b73fcd92-20e2-411a-972c-d20703149213

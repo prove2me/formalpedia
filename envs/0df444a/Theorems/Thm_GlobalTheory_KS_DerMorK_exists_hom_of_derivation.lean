@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_DerMorK_exists_hom_of_derivation
 -- name    : GlobalTheory.KS.DerMorK.exists_hom_of_derivation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:44:41.99646+00:00
 -- url     : https://prove2.me/theorems/52ed6335-cfae-478b-a805-5feca152076a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KLowSpan_isWeight_word
 -- name    : GlobalTheory.CompanionTheory.KLowSpan.isWeight_word
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:13:10.608124+00:00
 -- url     : https://prove2.me/theorems/3a58fd08-6903-467d-bb77-254e45c6db99

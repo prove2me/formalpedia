@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_SemiBasis_mem_locD_iff_span
 -- name    : GlobalTheory.Mass.SemiBasis.mem_locD_iff_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:19:58.271691+00:00
 -- url     : https://prove2.me/theorems/de810c2b-5ece-4175-aa69-60eba63cbc5f

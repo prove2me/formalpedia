@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IncrOpenAddr_NoTradeoff_eq_3
 -- name    : IncrOpenAddr.NoTradeoff.eq_3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T04:35:40.75743+00:00
 -- url     : https://prove2.me/theorems/a5301363-3254-49c4-bb6a-7275e8b7cbba

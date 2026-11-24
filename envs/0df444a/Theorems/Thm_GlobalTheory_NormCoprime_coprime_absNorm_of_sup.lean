@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormCoprime_coprime_absNorm_of_sup
 -- name    : GlobalTheory.NormCoprime.coprime_absNorm_of_sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:34:32.664968+00:00
 -- url     : https://prove2.me/theorems/319395d1-b24d-48bc-94d4-899d40703cdc

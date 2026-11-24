@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagIntegralTopComponent_proof_93f864d99eb7
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagIntegralTopComponent_proof_93f864d99eb7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:01:25.157816+00:00
 -- url     : https://prove2.me/theorems/3b958eb5-306a-40a3-870b-906e5947acaa

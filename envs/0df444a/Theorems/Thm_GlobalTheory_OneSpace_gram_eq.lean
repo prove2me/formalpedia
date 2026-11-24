@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OneSpace_gram_eq
 -- name    : GlobalTheory.OneSpace.gram_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:38:33.328835+00:00
 -- url     : https://prove2.me/theorems/c8d9beb3-4de2-45c2-861a-b4067703bb95

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagCoeffBlockPermute_proof_ffd217eb1969
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagCoeffBlockPermute_proof_ffd217eb1969
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:02:39.345728+00:00
 -- url     : https://prove2.me/theorems/46b39fe2-bf64-480c-8d4f-a948f58356d8

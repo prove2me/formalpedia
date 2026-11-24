@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormalDescent_exists_charK_coeff
 -- name    : GlobalTheory.NormalDescent.exists_charK_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:36:21.170379+00:00
 -- url     : https://prove2.me/theorems/42f6894b-b438-448a-be88-23f04b52c038

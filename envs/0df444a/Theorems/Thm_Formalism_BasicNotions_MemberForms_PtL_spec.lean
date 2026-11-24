@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BasicNotions_MemberForms_PtL_spec
 -- name    : Formalism.BasicNotions.MemberForms.PtL_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:32:45.483019+00:00
 -- url     : https://prove2.me/theorems/6a137890-d040-45e2-b5f9-060c9f7b4b6a

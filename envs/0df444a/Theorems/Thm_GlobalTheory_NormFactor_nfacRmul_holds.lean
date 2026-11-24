@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormFactor_nfacRmul_holds
 -- name    : GlobalTheory.NormFactor.nfacRmul_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:36:45.025083+00:00
 -- url     : https://prove2.me/theorems/152cdb0a-3fde-47aa-8014-2f414fc5bf2e

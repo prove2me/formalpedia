@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LowestKType_theta_param
 -- name    : GlobalTheory.LowestKType.theta_param
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:47:11.090508+00:00
 -- url     : https://prove2.me/theorems/b6880fe5-8fa7-41f4-9f05-dcccc49f29c3

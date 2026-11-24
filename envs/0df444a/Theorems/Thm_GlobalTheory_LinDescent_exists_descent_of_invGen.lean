@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinDescent_exists_descent_of_invGen
 -- name    : GlobalTheory.LinDescent.exists_descent_of_invGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:07:37.489303+00:00
 -- url     : https://prove2.me/theorems/df1e31cc-5900-40b0-9699-2e1ae0cef442

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CapelliAbstractCharacter_polyVanish
 -- name    : Formalism.FourierDecayAlt.P.CapelliAbstractCharacter.polyVanish
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:56:03.002489+00:00
 -- url     : https://prove2.me/theorems/02c2f35e-6c9d-4ac8-b0b3-f19e74bc30c8

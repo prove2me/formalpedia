@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevDesc_trivMod_sup
 -- name    : GlobalTheory.LevDesc.trivMod_sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:03:22.61965+00:00
 -- url     : https://prove2.me/theorems/2f61c8bf-4f16-49e7-9680-f93f16d71311

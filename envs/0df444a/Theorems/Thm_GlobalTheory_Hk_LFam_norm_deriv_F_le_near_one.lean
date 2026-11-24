@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_LFam_norm_deriv_F_le_near_one
 -- name    : GlobalTheory.Hk.LFam.norm_deriv_F_le_near_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:22:10.84449+00:00
 -- url     : https://prove2.me/theorems/ef14136c-1ee5-4e1a-8093-76539d278b74

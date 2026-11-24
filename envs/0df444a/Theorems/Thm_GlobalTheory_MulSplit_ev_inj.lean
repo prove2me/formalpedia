@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulSplit_ev_inj
 -- name    : GlobalTheory.MulSplit.ev_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:28:10.490792+00:00
 -- url     : https://prove2.me/theorems/dc0511b2-6c78-427b-92a7-7b166e853251

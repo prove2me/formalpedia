@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CapelliAbstractCharacter_eval_prod_lin
 -- name    : Formalism.FourierDecayAlt.P.CapelliAbstractCharacter.eval_prod_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:55:06.594632+00:00
 -- url     : https://prove2.me/theorems/54b1fd23-97af-4f9a-b0eb-38568beac811

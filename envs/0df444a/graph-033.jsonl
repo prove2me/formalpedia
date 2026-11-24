@@ -28554,11 +28554,11 @@
 {"parent": "RealPinwheel_FiveSixths_FragmentTreeP9_0039", "child": "RealPinwheel_FiveSixths_LinearFragment", "via": ["statement"]}
 {"parent": "RealPinwheel_FiveSixths_FragmentTreeP9_0039", "child": "RealPinwheel_FiveSixths_CodeFunctionP9", "via": ["statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg922", "child": "OAIQ259US007", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch08.StageB.open_result8_3", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "Kyprianou.Ch08.StageB.open_result8_3", "child": "Kyprianou_Ch03_CompletedNaturalFiltration", "via": ["statement"]}
-{"parent": "Kyprianou.Ch08.StageB.open_result8_3", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.Ch08.StageB.open_result8_3", "child": "AvramDividend_Classical_ScaleFunction", "via": ["statement"]}
-{"parent": "Kyprianou.Ch08.StageB.open_result8_3", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
+{"parent": "Kyprianou.Ch08.StageB.open_result8_3", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.open_result8_3", "child": "Kyprianou_Ch03_CompletedNaturalFiltration", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.open_result8_3", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.open_result8_3", "child": "AvramDividend_Classical_ScaleFunction", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch08.StageB.open_result8_3", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "OAI.UniversalTensorSquare.sg961", "child": "OAIQ259US007", "via": ["solution", "statement"]}
 {"parent": "PrimorialCert.block_38", "child": "PrimorialCertData_38", "via": ["solution", "statement"]}
 {"parent": "RealPinwheel.FiveSixths.checked_D7_020", "child": "RealPinwheel_FiveSixths_WitnessD7_020", "via": ["solution", "statement"]}

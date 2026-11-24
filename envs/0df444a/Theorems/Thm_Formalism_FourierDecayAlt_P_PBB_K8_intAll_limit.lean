@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBB_K8_intAll_limit
 -- name    : Formalism.FourierDecayAlt.P.PBB.K8.intAll_limit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:05:50.565125+00:00
 -- url     : https://prove2.me/theorems/dc09db25-f2b2-434e-a44a-375008d4741d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatchTerm_cotot_G
 -- name    : GlobalTheory.MatchTerm.cotot_G
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:22:12.558983+00:00
 -- url     : https://prove2.me/theorems/9b0d90ec-b318-4ddd-8eb9-3b776128b5c2

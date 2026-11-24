@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_GaussPhase_hasDerivAt_phase
 -- name    : GlobalTheory.Mem.GaussPhase.hasDerivAt_phase
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:23:08.60306+00:00
 -- url     : https://prove2.me/theorems/e88709a5-b829-4dd6-8dc0-c48b34832ea9

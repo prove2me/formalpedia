@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagIntegralViaQuotient_proof_a77b6162ac7f
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagIntegralViaQuotient_proof_a77b6162ac7f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:01:12.686358+00:00
 -- url     : https://prove2.me/theorems/dbcc1d98-d1c6-4c21-82d0-53092ac4ea6d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalRingGeneralisation_isIso_stalkMap_fromSpecStalk
 -- name    : GlobalTheory.LocalRingGeneralisation.isIso_stalkMap_fromSpecStalk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:18:51.090797+00:00
 -- url     : https://prove2.me/theorems/6e10cf68-6159-47db-aa01-eaebc3d46f00

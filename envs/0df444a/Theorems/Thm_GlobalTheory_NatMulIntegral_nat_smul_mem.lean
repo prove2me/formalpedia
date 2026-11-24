@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NatMulIntegral_nat_smul_mem
 -- name    : GlobalTheory.NatMulIntegral.nat_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:31:29.168277+00:00
 -- url     : https://prove2.me/theorems/fb37121e-f257-4a00-8e5c-5a96fa55b371

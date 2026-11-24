@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_NearZero_continuous_NL
 -- name    : GlobalTheory.JR.WeilQuad.NearZero.continuous_NL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:41:29.924798+00:00
 -- url     : https://prove2.me/theorems/37b7982a-2389-4443-920d-8b7cc8dd0e5a

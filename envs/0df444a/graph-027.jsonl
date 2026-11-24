@@ -69402,7 +69402,7 @@
 {"parent": "OAI.CubicEisenstein.kernelCuspFourierCoordinate_integrable", "child": "OAI_NumberTheory_DirichletL_Eisenstein_ResidualFourierSeries", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelCuspFourierCoordinate_integrable", "child": "OAI_NumberTheory_DirichletL_Eisenstein_ScatteringResidues", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelCuspFourierCoordinate_integrable", "child": "OAI_NumberTheory_DirichletL_Eisenstein_SourceProjection", "via": ["solution", "statement"]}
-{"parent": "GaussPolyReg.Approx.lemma_A_3", "child": "GaussPolyReg_Approx_Chaos", "via": ["statement"]}
+{"parent": "GaussPolyReg.Approx.lemma_A_3", "child": "GaussPolyReg_Approx_Chaos", "via": ["solution", "statement"]}
 {"parent": "PowerMinUncut.Threshold.lemma_6", "child": "PowerMinUncut_Threshold_Gaussian", "via": ["statement"]}
 {"parent": "OAIQ098G380", "child": "OAIQ098G010", "via": ["statement"]}
 {"parent": "OAIQ098G380", "child": "OAI.SharpPlanar.Numerical.finiteA_bijective_g", "via": ["statement"]}

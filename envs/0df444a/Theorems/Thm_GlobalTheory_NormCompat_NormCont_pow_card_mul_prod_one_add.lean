@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormCompat_NormCont_pow_card_mul_prod_one_add
 -- name    : GlobalTheory.NormCompat.NormCont.pow_card_mul_prod_one_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:34:37.422808+00:00
 -- url     : https://prove2.me/theorems/28778f01-785e-425b-b93b-02df627c236c

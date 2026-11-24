@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinpolyHeightCount_natDegree_minpoly_int_le
 -- name    : GlobalTheory.MinpolyHeightCount.natDegree_minpoly_int_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:24:46.36489+00:00
 -- url     : https://prove2.me/theorems/6741f1f9-df47-4a73-bfa4-b830b9d03da9

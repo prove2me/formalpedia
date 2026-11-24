@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m85_zero_root_inverse_at_positive
 -- name    : Kyprianou.Ch08.StageB.p2m85_zero_root_inverse_at_positive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T19:00:30.582401+00:00
 -- url     : https://prove2.me/theorems/3dacfb63-b94a-4ed8-b520-0b9861bbd210

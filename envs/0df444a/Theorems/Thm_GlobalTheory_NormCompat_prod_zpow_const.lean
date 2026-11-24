@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormCompat_prod_zpow_const
 -- name    : GlobalTheory.NormCompat.prod_zpow_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:35:14.932656+00:00
 -- url     : https://prove2.me/theorems/18b52357-c477-4906-8f0d-cc204813c43b

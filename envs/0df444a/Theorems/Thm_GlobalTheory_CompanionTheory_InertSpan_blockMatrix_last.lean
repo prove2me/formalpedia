@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertSpan_blockMatrix_last
 -- name    : GlobalTheory.CompanionTheory.InertSpan.blockMatrix_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:50:57.130696+00:00
 -- url     : https://prove2.me/theorems/f7c85ab4-9b7f-4394-b8f0-8bfbcb0bc58f

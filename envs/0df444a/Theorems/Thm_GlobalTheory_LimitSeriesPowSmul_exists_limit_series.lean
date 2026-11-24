@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LimitSeriesPowSmul_exists_limit_series
 -- name    : GlobalTheory.LimitSeriesPowSmul.exists_limit_series
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:04:25.236264+00:00
 -- url     : https://prove2.me/theorems/a7161912-63c6-4d27-8f9d-d51ff37617e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogCompress_trace_log_le_log_det
 -- name    : GlobalTheory.LogCompress.trace_log_le_log_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:16:50.805139+00:00
 -- url     : https://prove2.me/theorems/54263b62-a986-47b5-9f0e-7ef8f32623f9

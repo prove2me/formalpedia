@@ -7060,7 +7060,7 @@
 {"parent": "WilliamsonShmoys.connect_planar_drawing__p2m_2ba654e2_e4e9_4dba_a1f5_978037f8b005_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
 {"parent": "LatentRobust.pinv_sqrt_opNorm", "child": "LatentRobust_sigmaMin", "via": ["statement"]}
 {"parent": "LatentRobust.pinv_sqrt_opNorm", "child": "LatentRobust_pinv", "via": ["statement"]}
-{"parent": "WindowedMatching.theorem_3_3", "child": "WindowedMatching_PostponedGreedy", "via": ["statement"]}
+{"parent": "WindowedMatching.theorem_3_3", "child": "WindowedMatching_PostponedGreedy", "via": ["solution", "statement"]}
 {"parent": "ImbalPricing.op_profit_concave", "child": "ImbalPricing_Market", "via": ["statement"]}
 {"parent": "ImbalPricing.op_profit_concave", "child": "ImbalPricing_OPMechanism", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intakenext100.P10.translatedCechCocycle", "child": "QAlgorithms_Papers_Independent_Intakenext100_P10", "via": ["statement"]}

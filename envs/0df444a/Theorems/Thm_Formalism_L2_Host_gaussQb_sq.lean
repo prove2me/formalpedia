@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Host_gaussQb_sq
 -- name    : Formalism.L2.Host.gaussQb_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:53:28.40321+00:00
 -- url     : https://prove2.me/theorems/6c52ca3b-f9ba-448d-8243-bc1249c1f86f

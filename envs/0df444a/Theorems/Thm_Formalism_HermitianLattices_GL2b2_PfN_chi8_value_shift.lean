@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GL2b2_PfN_chi8_value_shift
 -- name    : Formalism.HermitianLattices.GL2b2.PfN.chi8_value_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:47:15.064094+00:00
 -- url     : https://prove2.me/theorems/79977f5c-b433-48fc-af4c-96592c2a870f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatchTerm_Cl_cong
 -- name    : GlobalTheory.MatchTerm.Cl.cong
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:22:34.244332+00:00
 -- url     : https://prove2.me/theorems/f8c4d00b-b7e9-4bd0-967f-04eed6738c7d

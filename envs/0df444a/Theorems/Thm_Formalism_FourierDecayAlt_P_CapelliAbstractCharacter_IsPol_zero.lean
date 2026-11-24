@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CapelliAbstractCharacter_IsPol_zero
 -- name    : Formalism.FourierDecayAlt.P.CapelliAbstractCharacter.IsPol.zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:55:18.962322+00:00
 -- url     : https://prove2.me/theorems/78535034-d77a-497c-be7f-197d5890c66d

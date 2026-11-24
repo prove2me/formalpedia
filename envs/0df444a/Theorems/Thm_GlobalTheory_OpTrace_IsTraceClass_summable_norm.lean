@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OpTrace_IsTraceClass_summable_norm
 -- name    : GlobalTheory.OpTrace.IsTraceClass.summable_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:37:44.836715+00:00
 -- url     : https://prove2.me/theorems/c7f74f23-09ac-4265-b7f9-f03aa8059343

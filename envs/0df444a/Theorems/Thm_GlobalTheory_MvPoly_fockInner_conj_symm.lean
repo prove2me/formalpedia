@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MvPoly_fockInner_conj_symm
 -- name    : GlobalTheory.MvPoly.fockInner_conj_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:28:48.772206+00:00
 -- url     : https://prove2.me/theorems/6e0e48cb-adb8-4ace-8a94-1c261275c033

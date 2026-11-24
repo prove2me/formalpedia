@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ModelCharpoly_model_charpoly_unitary
 -- name    : GlobalTheory.ModelCharpoly.model_charpoly_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:25:02.691346+00:00
 -- url     : https://prove2.me/theorems/d362ed3e-984c-4af6-94b9-89c0a2fc821c

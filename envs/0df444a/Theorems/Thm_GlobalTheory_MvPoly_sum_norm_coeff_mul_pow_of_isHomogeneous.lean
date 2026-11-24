@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MvPoly_sum_norm_coeff_mul_pow_of_isHomogeneous
 -- name    : GlobalTheory.MvPoly.sum_norm_coeff_mul_pow_of_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:30:09.298724+00:00
 -- url     : https://prove2.me/theorems/1769a8a5-19e7-4d55-acae-d92692b23a4e

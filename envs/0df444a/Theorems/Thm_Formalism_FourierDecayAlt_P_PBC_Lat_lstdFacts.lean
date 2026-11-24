@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBC_Lat_lstdFacts
 -- name    : Formalism.FourierDecayAlt.P.PBC.Lat.lstdFacts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:32:39.597714+00:00
 -- url     : https://prove2.me/theorems/deec94bc-3758-48ae-81ef-4aecf32110cb

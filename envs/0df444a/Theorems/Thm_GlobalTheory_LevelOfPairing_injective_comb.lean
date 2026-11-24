@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelOfPairing_injective_comb
 -- name    : GlobalTheory.LevelOfPairing.injective_comb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:20:58.441764+00:00
 -- url     : https://prove2.me/theorems/33ef1c5a-81a2-451d-b6c7-439d2dff7439

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_stablePositiveUnitNonzeroV1
 -- name    : Kyprianou.Ch03.stablePositiveUnitNonzeroV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T19:00:38.079801+00:00
 -- url     : https://prove2.me/theorems/98b7a01a-c652-4207-8b84-9ec00bcd841d

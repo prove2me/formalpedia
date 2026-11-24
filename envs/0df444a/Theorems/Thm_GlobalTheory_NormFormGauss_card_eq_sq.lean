@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormFormGauss_card_eq_sq
 -- name    : GlobalTheory.NormFormGauss.card_eq_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:36:25.966448+00:00
 -- url     : https://prove2.me/theorems/abfde073-4c30-493c-a802-dbd5812cca99

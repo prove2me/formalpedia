@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulPullSec_powGen_isGen
 -- name    : GlobalTheory.MulPullSec.powGen_isGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:27:56.4801+00:00
 -- url     : https://prove2.me/theorems/11f860fa-dc57-40d0-81df-96fb6f13ec22

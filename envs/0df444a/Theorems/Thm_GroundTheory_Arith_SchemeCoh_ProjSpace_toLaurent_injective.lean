@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjSpace_toLaurent_injective
 -- name    : GroundTheory.Arith.SchemeCoh.ProjSpace.toLaurent_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:39:12.644133+00:00
 -- url     : https://prove2.me/theorems/6115446d-6f72-4bef-ad69-e517bdd388f6

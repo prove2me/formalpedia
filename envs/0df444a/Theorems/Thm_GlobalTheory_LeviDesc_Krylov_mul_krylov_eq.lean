@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeviDesc_Krylov_mul_krylov_eq
 -- name    : GlobalTheory.LeviDesc.Krylov.mul_krylov_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:02:45.016179+00:00
 -- url     : https://prove2.me/theorems/048b03d7-e4e9-4386-ac5f-bf94399fdc1b

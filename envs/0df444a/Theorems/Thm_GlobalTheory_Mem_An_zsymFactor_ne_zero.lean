@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_An_zsymFactor_ne_zero
 -- name    : GlobalTheory.Mem.An.zsymFactor_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:21:44.297769+00:00
 -- url     : https://prove2.me/theorems/be7e8528-2309-495e-8d2c-ef524b7390bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormCharL_sup_eq_top_iff
 -- name    : GlobalTheory.NormCharL.sup_eq_top_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:35:39.776809+00:00
 -- url     : https://prove2.me/theorems/f4061643-4659-4661-9dc8-8156189ab854

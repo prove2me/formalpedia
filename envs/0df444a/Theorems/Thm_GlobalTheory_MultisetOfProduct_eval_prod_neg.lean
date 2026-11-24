@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MultisetOfProduct_eval_prod_neg
 -- name    : GlobalTheory.MultisetOfProduct.eval_prod_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:29:08.88861+00:00
 -- url     : https://prove2.me/theorems/44380f3c-0316-487b-b125-c34081e6647a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_PartialZeta_normSq_eq
 -- name    : GlobalTheory.Mem.PartialZeta.normSq_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:01:44.81885+00:00
 -- url     : https://prove2.me/theorems/92ba16e2-bc40-45e3-b2dd-ce1cb9acf2e5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormalDescent_charpoly_reverse_coeff_smul
 -- name    : GlobalTheory.NormalDescent.charpoly_reverse_coeff_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:36:23.965575+00:00
 -- url     : https://prove2.me/theorems/72c4f004-64e9-474d-80fe-758144bd99c7

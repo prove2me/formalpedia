@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MapComapIso_map_eq_comap_inv
 -- name    : GlobalTheory.MapComapIso.map_eq_comap_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:20:09.887097+00:00
 -- url     : https://prove2.me/theorems/348d9b2c-acdd-4e24-aa2a-543bf1c36278

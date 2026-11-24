@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevDesc_autMat_injective
 -- name    : GlobalTheory.LevDesc.autMat_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:02:16.309651+00:00
 -- url     : https://prove2.me/theorems/943b3576-ab68-4d6a-ae16-1410fc7694ec

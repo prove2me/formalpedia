@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_contDiff_first_cayley_block
 -- name    : PositivityTheory.Rg.Sw.LVs.contDiff_first_cayley_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:48:05.273975+00:00
 -- url     : https://prove2.me/theorems/ae736ab1-3893-4a99-85dd-559b04941de6

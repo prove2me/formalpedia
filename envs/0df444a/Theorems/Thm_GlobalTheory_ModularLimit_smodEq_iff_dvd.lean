@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ModularLimit_smodEq_iff_dvd
 -- name    : GlobalTheory.ModularLimit.smodEq_iff_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:26:46.526552+00:00
 -- url     : https://prove2.me/theorems/27a0915b-eca5-4c54-a09c-811fa06080fa

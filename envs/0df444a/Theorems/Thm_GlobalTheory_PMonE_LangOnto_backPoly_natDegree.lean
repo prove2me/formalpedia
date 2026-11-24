@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_LangOnto_backPoly_natDegree
 -- name    : GlobalTheory.PMonE.LangOnto.backPoly_natDegree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:39:04.826026+00:00
 -- url     : https://prove2.me/theorems/b9da6073-4783-4a89-a95e-2633a30d3486

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_RedBasicsPf_smul_mem
 -- name    : Formalism.L2.SG.Pf.RedBasicsPf.smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:27:33.462803+00:00
 -- url     : https://prove2.me/theorems/c5db43fd-1b03-4a5f-8fdf-76b5c4ea10d3

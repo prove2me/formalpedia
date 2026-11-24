@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormMod_exists_norm_mod_level
 -- name    : GlobalTheory.NormMod.exists_norm_mod_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:36:26.91596+00:00
 -- url     : https://prove2.me/theorems/7973760f-1e99-4e61-b89c-f7d58420c35f

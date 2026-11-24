@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_PrepBd_mono
 -- name    : GlobalTheory.PMonE.PrepBd.mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:38:26.600392+00:00
 -- url     : https://prove2.me/theorems/70401c0a-5715-468c-8e17-d4d27ccce249

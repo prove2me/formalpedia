@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FourierChainCompare_coeffIntAllChars_iff
 -- name    : GlobalTheory.FourierChainCompare.coeffIntAllChars_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:55:00.429879+00:00
 -- url     : https://prove2.me/theorems/c8ed2437-2c55-4986-b9aa-976601c116f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatchTerm_txT_tendsto
 -- name    : GlobalTheory.MatchTerm.txT_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:21:34.443502+00:00
 -- url     : https://prove2.me/theorems/597e227c-41a8-4db1-ac90-66096e841527

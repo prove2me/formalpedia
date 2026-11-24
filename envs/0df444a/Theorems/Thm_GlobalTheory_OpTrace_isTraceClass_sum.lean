@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OpTrace_isTraceClass_sum
 -- name    : GlobalTheory.OpTrace.isTraceClass_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:37:12.848469+00:00
 -- url     : https://prove2.me/theorems/6235661d-8f40-449d-be01-d85d45599812

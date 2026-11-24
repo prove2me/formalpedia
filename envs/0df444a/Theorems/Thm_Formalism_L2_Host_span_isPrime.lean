@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Host_span_isPrime
 -- name    : Formalism.L2.Host.span_isPrime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:47:15.470969+00:00
 -- url     : https://prove2.me/theorems/b6f369e1-f339-4531-8260-f669563f91ee

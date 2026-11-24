@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MajorantContinuity_hermC_smul_l
 -- name    : GlobalTheory.MajorantContinuity.hermC_smul_l
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:20:34.962205+00:00
 -- url     : https://prove2.me/theorems/3eb53551-c2d6-4c9f-9bba-a4733dcb91e2

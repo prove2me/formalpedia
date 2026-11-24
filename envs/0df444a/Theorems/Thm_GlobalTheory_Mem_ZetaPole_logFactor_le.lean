@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_ZetaPole_logFactor_le
 -- name    : GlobalTheory.Mem.ZetaPole.logFactor_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:25:14.874601+00:00
 -- url     : https://prove2.me/theorems/fd7513dc-4756-4cd8-9591-ea1b3fe1eb80

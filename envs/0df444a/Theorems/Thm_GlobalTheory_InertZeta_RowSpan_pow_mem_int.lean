@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_RowSpan_pow_mem_int
 -- name    : GlobalTheory.InertZeta.RowSpan.pow_mem_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:19:21.966916+00:00
 -- url     : https://prove2.me/theorems/8ae50750-dcc3-40a6-ba3a-e938a58667c3

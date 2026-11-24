@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LiftLocal_lift
 -- name    : GlobalTheory.LiftLocal.lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:06:45.810027+00:00
 -- url     : https://prove2.me/theorems/4f3fef51-51b5-4632-a8e6-6e7650230cdd

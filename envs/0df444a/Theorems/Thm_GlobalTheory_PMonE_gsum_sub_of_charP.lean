@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_gsum_sub_of_charP
 -- name    : GlobalTheory.PMonE.gsum_sub_of_charP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:39:52.392153+00:00
 -- url     : https://prove2.me/theorems/76363588-4cf5-4303-9cea-69a68f8eaa17

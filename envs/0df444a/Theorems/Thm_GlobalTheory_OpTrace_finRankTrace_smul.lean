@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OpTrace_finRankTrace_smul
 -- name    : GlobalTheory.OpTrace.finRankTrace_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:37:31.07801+00:00
 -- url     : https://prove2.me/theorems/5ae6f678-665c-4f7e-bbbf-58770f9e23df

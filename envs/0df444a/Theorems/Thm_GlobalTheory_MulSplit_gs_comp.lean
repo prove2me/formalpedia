@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulSplit_gs_comp
 -- name    : GlobalTheory.MulSplit.gs_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:28:20.912313+00:00
 -- url     : https://prove2.me/theorems/b20dd9dd-53f7-45e7-a19b-d365ce70090f

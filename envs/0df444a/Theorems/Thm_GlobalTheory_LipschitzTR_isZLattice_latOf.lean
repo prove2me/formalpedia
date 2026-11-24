@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_isZLattice_latOf
 -- name    : GlobalTheory.LipschitzTR.isZLattice_latOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:09:03.31884+00:00
 -- url     : https://prove2.me/theorems/c59589ac-69a5-4a09-9ef2-21c7cc19a82c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OnePoint_epi_of_nonempty
 -- name    : GlobalTheory.OnePoint.epi_of_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:37:49.966486+00:00
 -- url     : https://prove2.me/theorems/b26a8ab4-8b9b-4174-a713-c426917018b5

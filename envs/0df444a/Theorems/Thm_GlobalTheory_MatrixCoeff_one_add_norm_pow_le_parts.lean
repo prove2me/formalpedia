@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatrixCoeff_one_add_norm_pow_le_parts
 -- name    : GlobalTheory.MatrixCoeff.one_add_norm_pow_le_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:21:31.154321+00:00
 -- url     : https://prove2.me/theorems/a23187b0-0989-4410-b90d-d0ed8e9f7643

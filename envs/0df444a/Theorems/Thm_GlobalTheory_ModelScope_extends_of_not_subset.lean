@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ModelScope_extends_of_not_subset
 -- name    : GlobalTheory.ModelScope.extends_of_not_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:27:20.816902+00:00
 -- url     : https://prove2.me/theorems/576f45d9-bf90-4e5c-b0c8-5ea57a1b2172

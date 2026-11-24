@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_integrand_slice_formula
 -- name    : Formalism.FourierDecayAlt.P.B6.integrand_slice_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:02:49.57429+00:00
 -- url     : https://prove2.me/theorems/a3d6a76d-ecd8-498b-9a44-90f22fab8729

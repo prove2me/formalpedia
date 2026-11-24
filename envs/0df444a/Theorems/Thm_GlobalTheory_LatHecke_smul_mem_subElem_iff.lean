@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatHecke_smul_mem_subElem_iff
 -- name    : GlobalTheory.LatHecke.smul_mem_subElem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:57:13.967341+00:00
 -- url     : https://prove2.me/theorems/a6871ce0-f791-4cda-813e-d92c4e3f0abc

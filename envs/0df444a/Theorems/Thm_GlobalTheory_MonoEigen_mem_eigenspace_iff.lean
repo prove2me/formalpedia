@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MonoEigen_mem_eigenspace_iff
 -- name    : GlobalTheory.MonoEigen.mem_eigenspace_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:27:56.271801+00:00
 -- url     : https://prove2.me/theorems/399fc720-b9b2-46b5-8bf3-f19f86ad4014

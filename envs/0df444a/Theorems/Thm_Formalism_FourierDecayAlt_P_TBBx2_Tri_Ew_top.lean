@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TBBx2_Tri_Ew_top
 -- name    : Formalism.FourierDecayAlt.P.TBBx2.Tri.Ew_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:54:48.12883+00:00
 -- url     : https://prove2.me/theorems/51481499-dfe9-4150-916e-b4dea97ea561

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NonUnitShift_isUnit_aeval
 -- name    : GlobalTheory.NonUnitShift.isUnit_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:34:29.351635+00:00
 -- url     : https://prove2.me/theorems/d365c1bc-750e-4d97-bd6c-136f5012dd3b

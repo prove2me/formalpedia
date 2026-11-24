@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MultiHilbert_eval_polynomial_aeval_X
 -- name    : GlobalTheory.MultiHilbert.eval_polynomial_aeval_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:29:51.483207+00:00
 -- url     : https://prove2.me/theorems/83900d77-8322-44aa-bf20-9a9fd10df4fd

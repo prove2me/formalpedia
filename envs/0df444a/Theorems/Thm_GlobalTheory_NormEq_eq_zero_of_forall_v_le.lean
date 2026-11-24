@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormEq_eq_zero_of_forall_v_le
 -- name    : GlobalTheory.NormEq.eq_zero_of_forall_v_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:35:16.497028+00:00
 -- url     : https://prove2.me/theorems/96571ff5-6054-40ae-8633-3802ce7961f8

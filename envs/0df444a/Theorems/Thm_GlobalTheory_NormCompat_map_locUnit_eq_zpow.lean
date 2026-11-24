@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormCompat_map_locUnit_eq_zpow
 -- name    : GlobalTheory.NormCompat.map_locUnit_eq_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:35:13.020802+00:00
 -- url     : https://prove2.me/theorems/c61aad19-84ac-4f40-9dc0-0281165f918d

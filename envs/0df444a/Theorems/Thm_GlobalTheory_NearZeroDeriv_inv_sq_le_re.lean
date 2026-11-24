@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NearZeroDeriv_inv_sq_le_re
 -- name    : GlobalTheory.NearZeroDeriv.inv_sq_le_re
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:32:43.082617+00:00
 -- url     : https://prove2.me/theorems/b39ad0a2-dc94-4e2a-a46c-8311d8aae83d

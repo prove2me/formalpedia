@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormVal_inertiaDeg_eq_finrank_residueField
 -- name    : GlobalTheory.NormVal.inertiaDeg_eq_finrank_residueField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:35:57.822666+00:00
 -- url     : https://prove2.me/theorems/d50c73a5-5439-4d8e-b3cb-a3693e091238

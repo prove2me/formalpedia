@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_FiveVar_val_bf_sq_le
 -- name    : GlobalTheory.LocalQuad.FiveVar.val_bf_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:39:41.474719+00:00
 -- url     : https://prove2.me/theorems/58b061a9-4723-4a8e-af01-0a62e20f3883

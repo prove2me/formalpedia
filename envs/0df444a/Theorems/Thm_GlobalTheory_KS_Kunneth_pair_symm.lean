@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Kunneth_pair_symm
 -- name    : GlobalTheory.KS.Kunneth.pair_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:46:17.677436+00:00
 -- url     : https://prove2.me/theorems/bcb3e6ca-fb02-47e6-ac54-e55084d1ce12

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxG_ckOn_Rw_top
 -- name    : Formalism.FourierDecayAlt.P.JFxG.ckOn_Rw_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:46:15.76286+00:00
 -- url     : https://prove2.me/theorems/6203c563-a911-4b65-83e3-7939609811e2

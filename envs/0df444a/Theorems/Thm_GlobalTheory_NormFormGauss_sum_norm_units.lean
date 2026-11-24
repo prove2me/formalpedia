@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormFormGauss_sum_norm_units
 -- name    : GlobalTheory.NormFormGauss.sum_norm_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:36:21.381735+00:00
 -- url     : https://prove2.me/theorems/d5fab2b1-9fd4-440d-b09d-51dba9f77d8f

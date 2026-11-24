@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinSchurLatt_ker_int_mem_nhds
 -- name    : GlobalTheory.LinSchurLatt.ker_int_mem_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:07:57.312341+00:00
 -- url     : https://prove2.me/theorems/706729b0-fa2f-47e6-85a1-30ea5e63d158

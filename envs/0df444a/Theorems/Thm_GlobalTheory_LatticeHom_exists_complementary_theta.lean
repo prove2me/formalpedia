@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeHom_exists_complementary_theta
 -- name    : GlobalTheory.LatticeHom.exists_complementary_theta
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:21:34.045563+00:00
 -- url     : https://prove2.me/theorems/e9136676-cfb1-4902-b116-4fff0ccd17f1

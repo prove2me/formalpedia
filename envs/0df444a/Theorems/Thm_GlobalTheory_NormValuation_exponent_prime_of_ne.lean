@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormValuation_exponent_prime_of_ne
 -- name    : GlobalTheory.NormValuation.exponent_prime_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:36:15.972446+00:00
 -- url     : https://prove2.me/theorems/ea046233-6794-4053-9e82-d091648746ea

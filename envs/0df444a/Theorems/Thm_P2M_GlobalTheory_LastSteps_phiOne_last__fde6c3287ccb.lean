@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_LastSteps_phiOne_last__fde6c3287ccb
 -- name    : P2M_GlobalTheory_LastSteps_phiOne_last__fde6c3287ccb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:41:14.894705+00:00
 -- url     : https://prove2.me/theorems/21e6f4f7-b09e-46a0-8a69-96de1ec21edf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GalOfCusp_IsAttached_tempered
 -- name    : GlobalTheory.GalOfCusp.IsAttached.tempered
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:48:41.594896+00:00
 -- url     : https://prove2.me/theorems/0b2fb665-4cf1-4109-94b3-ab8cdd59cacd

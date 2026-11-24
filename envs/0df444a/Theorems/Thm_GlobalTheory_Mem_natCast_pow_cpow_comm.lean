@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_natCast_pow_cpow_comm
 -- name    : GlobalTheory.Mem.natCast_pow_cpow_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:24:44.365545+00:00
 -- url     : https://prove2.me/theorems/1a38319f-e1d5-45a0-afdf-d0e8baff4c94

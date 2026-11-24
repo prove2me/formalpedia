@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeDomain_hodge_moeb
 -- name    : GlobalTheory.HodgeDomain.hodge_moeb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:37:21.834798+00:00
 -- url     : https://prove2.me/theorems/5d05e876-80c6-4d14-a0e5-88d0ecd80768

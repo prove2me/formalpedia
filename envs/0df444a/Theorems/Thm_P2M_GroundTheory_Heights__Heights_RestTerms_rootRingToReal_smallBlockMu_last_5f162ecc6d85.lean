@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_rootRingToReal_smallBlockMu_last_5f162ecc6d85
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_rootRingToReal_smallBlockMu_last_5f162ecc6d85
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:27.699582+00:00
 -- url     : https://prove2.me/theorems/e502a42b-9991-43ba-946b-427a7e33717f

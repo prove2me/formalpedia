@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_HermClass_exists_represent
 -- name    : GlobalTheory.LocalQuad.HermClass.exists_represent
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:14:03.408791+00:00
 -- url     : https://prove2.me/theorems/ee7ec11e-1d5b-4ae7-a98e-99433e22e847

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_hTrans_rapid_decay
 -- name    : GlobalTheory.HeckeTwo.hTrans_rapid_decay
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:12:26.439887+00:00
 -- url     : https://prove2.me/theorems/cd82e02e-772c-4838-bcac-a74fe79d3dba

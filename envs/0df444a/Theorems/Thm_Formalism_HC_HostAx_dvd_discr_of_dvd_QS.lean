@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostAx_dvd_discr_of_dvd_QS
 -- name    : Formalism.HC.HostAx.dvd_discr_of_dvd_QS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:31:00.576857+00:00
 -- url     : https://prove2.me/theorems/1e6f4a88-465f-4f83-863b-59e3190fdc7d

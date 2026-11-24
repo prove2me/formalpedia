@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NabCol_pderiv_prod_out
 -- name    : GlobalTheory.NabCol.pderiv_prod_out
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:32:05.880805+00:00
 -- url     : https://prove2.me/theorems/8493a929-f141-45fa-b966-a16057068f53

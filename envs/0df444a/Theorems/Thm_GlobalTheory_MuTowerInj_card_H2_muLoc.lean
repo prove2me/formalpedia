@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MuTowerInj_card_H2_muLoc
 -- name    : GlobalTheory.MuTowerInj.card_H2_muLoc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:28:26.943683+00:00
 -- url     : https://prove2.me/theorems/1f5ae21a-888b-4010-bb40-c85922b1fcc4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OntoSurj_surjective_of_points
 -- name    : GlobalTheory.OntoSurj.surjective_of_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:37:24.630694+00:00
 -- url     : https://prove2.me/theorems/a29b46c7-ed43-41ce-9ace-d755b9ceeb54

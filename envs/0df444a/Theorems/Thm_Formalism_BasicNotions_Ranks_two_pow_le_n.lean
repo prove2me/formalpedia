@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BasicNotions_Ranks_two_pow_le_n
 -- name    : Formalism.BasicNotions.Ranks.two_pow_le_n
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:31:49.838993+00:00
 -- url     : https://prove2.me/theorems/d1a483d6-7182-4f2e-b77b-d9213a6f5337

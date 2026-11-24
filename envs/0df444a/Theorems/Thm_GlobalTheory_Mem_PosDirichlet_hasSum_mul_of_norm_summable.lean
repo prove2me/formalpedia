@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_PosDirichlet_hasSum_mul_of_norm_summable
 -- name    : GlobalTheory.Mem.PosDirichlet.hasSum_mul_of_norm_summable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:23:22.833909+00:00
 -- url     : https://prove2.me/theorems/e69ce93c-095f-4d6c-af0b-46cf275254f6

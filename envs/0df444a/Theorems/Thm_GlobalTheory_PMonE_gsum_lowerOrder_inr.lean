@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_gsum_lowerOrder_inr
 -- name    : GlobalTheory.PMonE.gsum_lowerOrder_inr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:39:54.53435+00:00
 -- url     : https://prove2.me/theorems/5bff6618-85df-4801-b39a-7154ab6ab2b3

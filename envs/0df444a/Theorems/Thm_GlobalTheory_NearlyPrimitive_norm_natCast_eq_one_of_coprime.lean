@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NearlyPrimitive_norm_natCast_eq_one_of_coprime
 -- name    : GlobalTheory.NearlyPrimitive.norm_natCast_eq_one_of_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:31:56.07181+00:00
 -- url     : https://prove2.me/theorems/87eaac4f-e7fc-400c-9b58-f587047b1a28

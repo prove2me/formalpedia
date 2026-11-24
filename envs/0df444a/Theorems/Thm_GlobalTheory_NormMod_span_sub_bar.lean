@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormMod_span_sub_bar
 -- name    : GlobalTheory.NormMod.span_sub_bar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:36:27.498928+00:00
 -- url     : https://prove2.me/theorems/9a62eaec-3170-4de9-bb9f-4cf357b7f1ad

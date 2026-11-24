@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NatMulIntegerMultiple_exists_nat_mul_eq_integer
 -- name    : GlobalTheory.NatMulIntegerMultiple.exists_nat_mul_eq_integer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:30:11.160821+00:00
 -- url     : https://prove2.me/theorems/d0c22733-75a2-4458-bcd0-f7e959f86ca3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormValuation_exponent_top
 -- name    : GlobalTheory.NormValuation.exponent_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:36:56.843262+00:00
 -- url     : https://prove2.me/theorems/e7d4a95f-f081-4c24-b937-f99a0a92d3b3

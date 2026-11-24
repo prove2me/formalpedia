@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_SelfDualUniq_isTest_fourB
 -- name    : GlobalTheory.JR.SelfDualUniq.isTest_fourB
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:49:19.259809+00:00
 -- url     : https://prove2.me/theorems/ce1fbf0a-c3aa-4f93-b5a5-def3d2e51856

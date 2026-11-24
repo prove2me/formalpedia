@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_RestBound_proof_0d78e9e9eb76
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_RestBound_proof_0d78e9e9eb76
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:00:34.89419+00:00
 -- url     : https://prove2.me/theorems/79b02b8a-7277-4cb0-b2ca-74f254a2f237

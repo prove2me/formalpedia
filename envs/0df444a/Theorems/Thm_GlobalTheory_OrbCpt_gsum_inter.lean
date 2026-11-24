@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbCpt_gsum_inter
 -- name    : GlobalTheory.OrbCpt.gsum_inter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:37:49.127318+00:00
 -- url     : https://prove2.me/theorems/8b0fea5d-d071-4456-81cf-7985c41956af

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GL2b2_PfN_tr_pos
 -- name    : Formalism.HermitianLattices.GL2b2.PfN.tr_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:47:41.480568+00:00
 -- url     : https://prove2.me/theorems/627c864f-c2fc-43ac-a859-07cc389f7191

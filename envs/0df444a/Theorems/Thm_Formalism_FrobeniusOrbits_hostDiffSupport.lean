@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_hostDiffSupport
 -- name    : Formalism.FrobeniusOrbits.hostDiffSupport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:38:46.886801+00:00
 -- url     : https://prove2.me/theorems/06d7f9eb-ced5-4618-8573-d691534c592b

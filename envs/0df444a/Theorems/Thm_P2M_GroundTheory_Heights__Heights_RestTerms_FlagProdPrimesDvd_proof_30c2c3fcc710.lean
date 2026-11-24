@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagProdPrimesDvd_proof_30c2c3fcc710
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagProdPrimesDvd_proof_30c2c3fcc710
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:00:43.222472+00:00
 -- url     : https://prove2.me/theorems/cad442d2-f697-447f-863f-2d50f721955c

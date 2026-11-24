@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NewPrime_aeval_eq_zero_of_low_coeff_of_pow_eq_zero
 -- name    : GlobalTheory.NewPrime.aeval_eq_zero_of_low_coeff_of_pow_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:33:28.989889+00:00
 -- url     : https://prove2.me/theorems/58dbe877-3e3c-4ed6-856a-8fd1b165ef45

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormVal_length_quot_maximal
 -- name    : GlobalTheory.NormVal.length_quot_maximal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:35:47.509078+00:00
 -- url     : https://prove2.me/theorems/df04d8be-3349-4a34-a7fd-5764c2cd915f

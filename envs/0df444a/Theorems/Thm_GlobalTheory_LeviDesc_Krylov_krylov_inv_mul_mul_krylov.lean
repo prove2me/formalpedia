@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeviDesc_Krylov_krylov_inv_mul_mul_krylov
 -- name    : GlobalTheory.LeviDesc.Krylov.krylov_inv_mul_mul_krylov
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:02:25.683927+00:00
 -- url     : https://prove2.me/theorems/ce3e2b87-1398-4de0-8598-2c3a3cde6481

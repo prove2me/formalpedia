@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalNorm_exists_mul_norm_eq
 -- name    : GlobalTheory.LocalNorm.exists_mul_norm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:14:16.649244+00:00
 -- url     : https://prove2.me/theorems/ba51810f-7e41-4c2c-9ee4-7a144d18dc91

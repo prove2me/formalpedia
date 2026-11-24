@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_TraceIsometry_exists_map_smul_eq
 -- name    : GlobalTheory.LocalQuad.TraceIsometry.exists_map_smul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:13:55.134502+00:00
 -- url     : https://prove2.me/theorems/426b7cb3-3078-47a7-90bb-9e237e049bd1

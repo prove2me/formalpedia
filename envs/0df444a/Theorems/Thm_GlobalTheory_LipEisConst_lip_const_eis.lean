@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipEisConst_lip_const_eis
 -- name    : GlobalTheory.LipEisConst.lip_const_eis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:11:11.186576+00:00
 -- url     : https://prove2.me/theorems/99d6e57b-b7b0-49a3-97e2-5831d91ef740

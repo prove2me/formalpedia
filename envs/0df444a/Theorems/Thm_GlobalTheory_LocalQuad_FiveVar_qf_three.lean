@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_FiveVar_qf_three
 -- name    : GlobalTheory.LocalQuad.FiveVar.qf_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:13:49.915417+00:00
 -- url     : https://prove2.me/theorems/6f2c91dc-3ed3-49ab-8e9d-08e2655415e7

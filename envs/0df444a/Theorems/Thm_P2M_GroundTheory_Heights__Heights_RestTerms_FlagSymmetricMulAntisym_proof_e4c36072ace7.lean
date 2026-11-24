@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagSymmetricMulAntisym_proof_e4c36072ace7
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagSymmetricMulAntisym_proof_e4c36072ace7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:01:47.607803+00:00
 -- url     : https://prove2.me/theorems/22c96e25-da5f-4efc-a9e2-f9b420c1dda7

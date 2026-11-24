@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulLaw_natCard_eq_of_equiv_pi_field
 -- name    : GlobalTheory.MulLaw.natCard_eq_of_equiv_pi_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:28:12.460125+00:00
 -- url     : https://prove2.me/theorems/f1ce16f3-b595-49d6-8b9f-713e986c3640

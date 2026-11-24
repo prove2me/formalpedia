@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NonzeroScalarMembership_exists_ne_zero_smul_mem
 -- name    : GlobalTheory.NonzeroScalarMembership.exists_ne_zero_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:35:15.142797+00:00
 -- url     : https://prove2.me/theorems/dd064f91-3029-41d7-b998-f78a353c038f

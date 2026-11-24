@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CapelliAbstractCharacter_IsPol_const
 -- name    : Formalism.FourierDecayAlt.P.CapelliAbstractCharacter.IsPol.const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:54:54.597085+00:00
 -- url     : https://prove2.me/theorems/431d545a-2e40-4ebf-b31d-09bd72cf1ae4

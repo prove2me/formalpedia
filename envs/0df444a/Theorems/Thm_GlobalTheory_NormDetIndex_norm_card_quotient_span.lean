@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormDetIndex_norm_card_quotient_span
 -- name    : GlobalTheory.NormDetIndex.norm_card_quotient_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:34:20.68084+00:00
 -- url     : https://prove2.me/theorems/168bc62e-42e1-4d83-bc5a-53230ce18dba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_mRel_fold
 -- name    : AAInvW.mRel_fold
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:34:44.385408+00:00
 -- url     : https://prove2.me/theorems/66fdd98c-9ece-419c-bc94-18a3a9542e47

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbitScalar_exists_smul_of_orbits
 -- name    : GlobalTheory.OrbitScalar.exists_smul_of_orbits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:37:54.502894+00:00
 -- url     : https://prove2.me/theorems/b89a4b09-80b1-43bc-aa44-e6855bd9fe0c

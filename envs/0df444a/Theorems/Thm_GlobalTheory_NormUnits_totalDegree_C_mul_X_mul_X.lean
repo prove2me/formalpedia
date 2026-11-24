@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormUnits_totalDegree_C_mul_X_mul_X
 -- name    : GlobalTheory.NormUnits.totalDegree_C_mul_X_mul_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:36:20.033583+00:00
 -- url     : https://prove2.me/theorems/80c0b701-edb4-4c78-aeac-53e80e4388f6

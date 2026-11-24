@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormRos_gen_s_ext
 -- name    : GlobalTheory.NormRos.gen_s_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:36:38.001053+00:00
 -- url     : https://prove2.me/theorems/43b6bbf7-38e3-45d1-8383-d367a6e3395c

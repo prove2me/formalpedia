@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NearZeroDeriv_re_lt_one
 -- name    : GlobalTheory.NearZeroDeriv.re_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:32:59.599616+00:00
 -- url     : https://prove2.me/theorems/3f2dfaac-470e-4585-a592-70d2a46ebfae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LOneLower_compare_right
 -- name    : GlobalTheory.LOneLower.compare_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:56:15.423034+00:00
 -- url     : https://prove2.me/theorems/efd85f89-c671-4d3c-977f-5791ea5d44a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isLatticeEmb_subtype
 -- name    : GlobalTheory.isLatticeEmb_subtype
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:53:09.407911+00:00
 -- url     : https://prove2.me/theorems/860957f8-37a4-4306-a4c7-0fc2d342bc59

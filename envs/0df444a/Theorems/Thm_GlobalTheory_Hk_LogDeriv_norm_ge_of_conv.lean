@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_LogDeriv_norm_ge_of_conv
 -- name    : GlobalTheory.Hk.LogDeriv.norm_ge_of_conv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:35:27.063995+00:00
 -- url     : https://prove2.me/theorems/ff55d926-12d5-4adf-baf8-3054cd167f30

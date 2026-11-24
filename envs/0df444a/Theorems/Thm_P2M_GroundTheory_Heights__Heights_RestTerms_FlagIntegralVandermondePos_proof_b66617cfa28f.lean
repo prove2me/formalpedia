@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagIntegralVandermondePos_proof_b66617cfa28f
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagIntegralVandermondePos_proof_b66617cfa28f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:01:24.35611+00:00
 -- url     : https://prove2.me/theorems/798a41c8-858c-4440-a161-fa7ef432c3ed

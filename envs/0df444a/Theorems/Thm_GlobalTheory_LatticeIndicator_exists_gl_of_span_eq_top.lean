@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeIndicator_exists_gl_of_span_eq_top
 -- name    : GlobalTheory.LatticeIndicator.exists_gl_of_span_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:13:06.756775+00:00
 -- url     : https://prove2.me/theorems/89044bcb-f763-44c6-9936-4ee6f77762c3

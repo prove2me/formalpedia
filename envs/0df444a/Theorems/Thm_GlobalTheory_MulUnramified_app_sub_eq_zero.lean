@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulUnramified_app_sub_eq_zero
 -- name    : GlobalTheory.MulUnramified.app_sub_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:27:28.947837+00:00
 -- url     : https://prove2.me/theorems/e59a0867-2137-48f4-9a76-4d3b7a361a3d

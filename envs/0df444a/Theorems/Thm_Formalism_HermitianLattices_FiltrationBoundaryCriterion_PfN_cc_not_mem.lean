@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_FiltrationBoundaryCriterion_PfN_cc_not_mem
 -- name    : Formalism.HermitianLattices.FiltrationBoundaryCriterion.PfN.cc_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:48:27.681543+00:00
 -- url     : https://prove2.me/theorems/3872fc86-627c-4143-99cb-edb58abdfdb9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_PosDirichlet_mul
 -- name    : GlobalTheory.Mem.PosDirichlet.mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:42:32.93379+00:00
 -- url     : https://prove2.me/theorems/ccb42a13-877c-4396-a85a-edc156059878

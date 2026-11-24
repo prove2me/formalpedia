@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MvPoly_span_ringOfIntegers_basis_integralPart
 -- name    : GlobalTheory.MvPoly.span_ringOfIntegers_basis_integralPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:30:37.506371+00:00
 -- url     : https://prove2.me/theorems/7dbe9de9-5f60-4974-bc73-513d44d1374a

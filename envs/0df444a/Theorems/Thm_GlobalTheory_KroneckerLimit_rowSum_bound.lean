@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KroneckerLimit_rowSum_bound
 -- name    : GlobalTheory.KroneckerLimit.rowSum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:17:24.194511+00:00
 -- url     : https://prove2.me/theorems/13a74d29-ce30-43b4-af14-7cf7459eb2ae

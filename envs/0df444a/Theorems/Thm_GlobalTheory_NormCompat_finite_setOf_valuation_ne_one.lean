@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormCompat_finite_setOf_valuation_ne_one
 -- name    : GlobalTheory.NormCompat.finite_setOf_valuation_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:37:41.255796+00:00
 -- url     : https://prove2.me/theorems/cdfc3c28-2e8a-4c44-9751-d5a068e29151

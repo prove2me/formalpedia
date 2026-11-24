@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OriginValue_top_le_preimage_wchart_one
 -- name    : GlobalTheory.OriginValue.top_le_preimage_wchart_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:38:42.950241+00:00
 -- url     : https://prove2.me/theorems/d353a405-b8a6-4700-baa0-9254e480a3cb

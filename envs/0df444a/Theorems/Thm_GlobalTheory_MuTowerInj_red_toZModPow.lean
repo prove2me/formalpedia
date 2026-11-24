@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MuTowerInj_red_toZModPow
 -- name    : GlobalTheory.MuTowerInj.red_toZModPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:28:05.258805+00:00
 -- url     : https://prove2.me/theorems/7e175880-5bc7-4c40-b745-732cdfd05a6b

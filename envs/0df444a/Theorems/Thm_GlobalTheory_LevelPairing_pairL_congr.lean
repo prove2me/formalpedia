@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelPairing_pairL_congr
 -- name    : GlobalTheory.LevelPairing.pairL_congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:05:57.060809+00:00
 -- url     : https://prove2.me/theorems/682cd8e1-aa36-45ae-ab1c-7815132b23cf

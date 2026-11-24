@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OpTrace_trace_comp_comm
 -- name    : GlobalTheory.OpTrace.trace_comp_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:37:39.907923+00:00
 -- url     : https://prove2.me/theorems/a0c138e8-dd4a-4f88-ae89-9dc7dde4be81

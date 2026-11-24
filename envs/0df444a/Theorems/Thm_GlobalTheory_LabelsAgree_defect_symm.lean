@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LabelsAgree_defect_symm
 -- name    : GlobalTheory.LabelsAgree.defect_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:56:35.244095+00:00
 -- url     : https://prove2.me/theorems/e4c429f2-c9a0-4a50-ba02-989d38fd8c09

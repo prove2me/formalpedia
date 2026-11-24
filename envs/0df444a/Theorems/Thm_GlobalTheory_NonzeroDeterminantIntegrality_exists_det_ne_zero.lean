@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NonzeroDeterminantIntegrality_exists_det_ne_zero
 -- name    : GlobalTheory.NonzeroDeterminantIntegrality.exists_det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:35:10.783152+00:00
 -- url     : https://prove2.me/theorems/58e5b505-1d8f-45fe-a240-1dbe0f303aa6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_RayPrimes_summable_of_not_prime_or_le
 -- name    : GlobalTheory.Mem.RayPrimes.summable_of_not_prime_or_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:26:09.293857+00:00
 -- url     : https://prove2.me/theorems/d99782af-b17f-4069-9b24-099d4eb03fa1

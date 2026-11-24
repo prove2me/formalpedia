@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MultiHilbert_component_mem_span_X
 -- name    : GlobalTheory.MultiHilbert.component_mem_span_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:29:25.305793+00:00
 -- url     : https://prove2.me/theorems/d3cc890e-88e5-4f27-9063-2fd72b72b54d

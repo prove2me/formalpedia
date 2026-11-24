@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchJTMatrixDetAtRoots_proof_4064d62d2596
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchJTMatrixDetAtRoots_proof_4064d62d2596
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:01:18.309843+00:00
 -- url     : https://prove2.me/theorems/b6ac098a-2688-4b9c-904e-44d4f81336ff

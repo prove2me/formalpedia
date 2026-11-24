@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBA_local_norm_nonneg_alt
 -- name    : Formalism.FourierDecayAlt.P.PBA.local_norm_nonneg_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:05:50.342653+00:00
 -- url     : https://prove2.me/theorems/d203147a-2585-470e-8fcb-3c41c1030507

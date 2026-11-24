@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NearFibreIso_near_isFinite
 -- name    : GlobalTheory.NearFibreIso.near_isFinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:32:06.417984+00:00
 -- url     : https://prove2.me/theorems/93ebbc6c-5781-4091-bb2e-1af035715a78

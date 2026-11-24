@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulUnramified_preimage_eq
 -- name    : GlobalTheory.MulUnramified.preimage_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:28:01.428808+00:00
 -- url     : https://prove2.me/theorems/1e3eeab1-cd6c-4303-a003-f51110879fc8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_PartialZeta_hasSum_cnt
 -- name    : GlobalTheory.Mem.PartialZeta.hasSum_cnt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:23:03.32966+00:00
 -- url     : https://prove2.me/theorems/34ce4b42-b195-40c2-95ae-629f95087398

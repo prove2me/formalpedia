@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MultiplicativeSeries_ev_mul
 -- name    : GlobalTheory.MultiplicativeSeries.ev_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:29:15.106547+00:00
 -- url     : https://prove2.me/theorems/c6d42bbf-bd69-4b12-af2b-e748dde708c4

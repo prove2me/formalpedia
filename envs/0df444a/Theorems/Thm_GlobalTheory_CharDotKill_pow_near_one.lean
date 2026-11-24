@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharDotKill_pow_near_one
 -- name    : GlobalTheory.CharDotKill.pow_near_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:08:03.20491+00:00
 -- url     : https://prove2.me/theorems/5949e75b-8037-4423-92c8-4f3450e5bc86

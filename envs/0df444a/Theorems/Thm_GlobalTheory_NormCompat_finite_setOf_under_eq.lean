@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormCompat_finite_setOf_under_eq
 -- name    : GlobalTheory.NormCompat.finite_setOf_under_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:35:17.44021+00:00
 -- url     : https://prove2.me/theorems/4d4fa235-1326-492f-bde3-6125d9e31259

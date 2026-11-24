@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_GaussPhase_differentiableAt_inv_apply
 -- name    : GlobalTheory.Mem.GaussPhase.differentiableAt_inv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:22:51.008084+00:00
 -- url     : https://prove2.me/theorems/309f4865-639d-4eef-9579-1541756f81d5

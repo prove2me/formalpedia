@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormEq_mul_ofAdd_one_le_of_lt_one
 -- name    : GlobalTheory.NormEq.mul_ofAdd_one_le_of_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:35:21.569969+00:00
 -- url     : https://prove2.me/theorems/b116d4d6-2352-459b-b565-1fe95fd26a8f

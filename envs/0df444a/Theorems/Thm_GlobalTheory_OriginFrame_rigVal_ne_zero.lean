@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OriginFrame_rigVal_ne_zero
 -- name    : GlobalTheory.OriginFrame.rigVal_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:38:30.497953+00:00
 -- url     : https://prove2.me/theorems/6ca2b3ab-5812-4054-9f5f-696fd610052e

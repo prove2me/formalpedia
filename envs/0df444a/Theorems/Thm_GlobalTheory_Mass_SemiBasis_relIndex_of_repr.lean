@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_SemiBasis_relIndex_of_repr
 -- name    : GlobalTheory.Mass.SemiBasis.relIndex_of_repr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:19:37.723717+00:00
 -- url     : https://prove2.me/theorems/333bbf3f-4126-4a9e-a40a-85012776eb6f

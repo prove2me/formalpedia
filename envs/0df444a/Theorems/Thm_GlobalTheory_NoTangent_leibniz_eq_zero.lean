@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NoTangent_leibniz_eq_zero
 -- name    : GlobalTheory.NoTangent.leibniz_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:35:21.325803+00:00
 -- url     : https://prove2.me/theorems/93f3a927-3eb6-4a6b-9336-ea8213a16982

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagPts_CellCont_continuous_cellFrame
 -- name    : GlobalTheory.FlagPts.CellCont.continuous_cellFrame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:52:32.530365+00:00
 -- url     : https://prove2.me/theorems/43cffca5-019a-4cf7-859c-7934b17e0af5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeIntegerMultiple_exists_zsmul_mem_lattice
 -- name    : GlobalTheory.LatticeIntegerMultiple.exists_zsmul_mem_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:00:28.093662+00:00
 -- url     : https://prove2.me/theorems/4a28009e-bf29-492a-b244-4d1cac572a93

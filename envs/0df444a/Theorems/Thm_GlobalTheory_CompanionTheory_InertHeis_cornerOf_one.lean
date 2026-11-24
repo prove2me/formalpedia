@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertHeis_cornerOf_one
 -- name    : GlobalTheory.CompanionTheory.InertHeis.cornerOf_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:50:56.015107+00:00
 -- url     : https://prove2.me/theorems/11e864dc-64cf-48c8-9484-984743ecf3f6

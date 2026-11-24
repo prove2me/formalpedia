@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m85_zero_root_mass_match
 -- name    : Kyprianou.Ch08.StageB.p2m85_zero_root_mass_match
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T17:59:14.244446+00:00
 -- url     : https://prove2.me/theorems/6fac89af-9e6d-48c1-924e-df7ae3987eca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermWitt_exists_isometry_of_graph
 -- name    : GlobalTheory.HermWitt.exists_isometry_of_graph
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:20:12.694427+00:00
 -- url     : https://prove2.me/theorems/05782748-c008-4874-a559-e6dbd11d9e27

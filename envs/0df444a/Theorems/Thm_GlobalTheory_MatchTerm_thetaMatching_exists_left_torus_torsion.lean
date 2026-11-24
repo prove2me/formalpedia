@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatchTerm_thetaMatching_exists_left_torus_torsion
 -- name    : GlobalTheory.MatchTerm.thetaMatching_exists_left_torus_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:23:35.75225+00:00
 -- url     : https://prove2.me/theorems/28cb8e20-f18f-4353-8a64-7813414ac004

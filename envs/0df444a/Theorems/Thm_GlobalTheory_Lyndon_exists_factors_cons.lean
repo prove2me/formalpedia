@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lyndon_exists_factors_cons
 -- name    : GlobalTheory.Lyndon.exists_factors_cons
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:19:36.804533+00:00
 -- url     : https://prove2.me/theorems/ac433df2-982a-4164-a3b8-2b3da5b014e3

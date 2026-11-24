@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mum_exists_uniformiser_mul_eq_mul_pow_of_height_eq_one
 -- name    : GlobalTheory.Mum.exists_uniformiser_mul_eq_mul_pow_of_height_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:29:22.825392+00:00
 -- url     : https://prove2.me/theorems/cea5f36a-d8d6-43e4-8e47-c89b98a54147

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Moduli_LevelAction_sec_ext
 -- name    : GlobalTheory.Moduli.LevelAction.sec_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:27:08.879643+00:00
 -- url     : https://prove2.me/theorems/b9092bf0-3bcf-4f34-a9e0-cf5705684a7f

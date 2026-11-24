@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lyndon_exists_suffix_le_of_mem
 -- name    : GlobalTheory.Lyndon.exists_suffix_le_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:19:34.128739+00:00
 -- url     : https://prove2.me/theorems/46a79f67-32c1-4ad4-b9bd-94c6eff7d701

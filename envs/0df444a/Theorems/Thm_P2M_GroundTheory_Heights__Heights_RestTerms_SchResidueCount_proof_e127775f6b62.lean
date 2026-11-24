@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchResidueCount_proof_e127775f6b62
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchResidueCount_proof_e127775f6b62
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:01:40.511245+00:00
 -- url     : https://prove2.me/theorems/c666f435-d421-4223-af9b-f62ea2427ffc

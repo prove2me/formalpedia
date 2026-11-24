@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NoBasePoint_exists_section_mem
 -- name    : GlobalTheory.NoBasePoint.exists_section_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:35:06.45487+00:00
 -- url     : https://prove2.me/theorems/355d8f39-e616-4e74-b3e2-e26780858c39

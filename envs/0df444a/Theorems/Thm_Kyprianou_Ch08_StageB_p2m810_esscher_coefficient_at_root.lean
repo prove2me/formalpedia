@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m810_esscher_coefficient_at_root
 -- name    : Kyprianou.Ch08.StageB.p2m810_esscher_coefficient_at_root
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T18:05:49.854716+00:00
 -- url     : https://prove2.me/theorems/440cce0f-8396-480b-b4cf-237cbfda7427

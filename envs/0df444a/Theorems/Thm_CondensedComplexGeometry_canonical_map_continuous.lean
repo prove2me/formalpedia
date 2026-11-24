@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondensedComplexGeometry_canonical_map_continuous
 -- name    : CondensedComplexGeometry.canonical_map_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-23T01:42:54.762134+00:00
 -- url     : https://prove2.me/theorems/59097c5a-6137-4174-8de9-7d548551c77a

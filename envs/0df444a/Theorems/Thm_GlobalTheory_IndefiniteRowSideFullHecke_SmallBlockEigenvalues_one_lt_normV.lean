@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SmallBlockEigenvalues_one_lt_normV
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SmallBlockEigenvalues.one_lt_normV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:49:19.46408+00:00
 -- url     : https://prove2.me/theorems/53da5c60-6af3-47ab-8ff4-56b2e4c00e9f

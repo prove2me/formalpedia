@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalLattice_mem_iff_forall_mem_localize_ringOfIntegers
 -- name    : GlobalTheory.LocalLattice.mem_iff_forall_mem_localize_ringOfIntegers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:13:45.902858+00:00
 -- url     : https://prove2.me/theorems/f6e16d94-294d-472a-8cc2-da93e5cb76ac

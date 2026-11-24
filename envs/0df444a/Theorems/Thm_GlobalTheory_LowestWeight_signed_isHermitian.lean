@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LowestWeight_signed_isHermitian
 -- name    : GlobalTheory.LowestWeight.signed_isHermitian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:20:03.594105+00:00
 -- url     : https://prove2.me/theorems/9efc5673-3e6b-4717-a781-6254a2710cb7

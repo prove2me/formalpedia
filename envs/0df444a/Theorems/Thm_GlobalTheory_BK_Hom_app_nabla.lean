@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_Hom_app_nabla
 -- name    : GlobalTheory.BK.Hom.app_nabla
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:00:27.718053+00:00
 -- url     : https://prove2.me/theorems/5aac0162-6f34-442d-94d9-55c5d054818a

@@ -28322,7 +28322,7 @@
 {"parent": "AvramDividend.Classical.avram_bv_zero13_original_pathwise_all_restart_zero_weighted_cash", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bv_zero13_original_pathwise_all_restart_zero_weighted_cash", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bv_zero13_original_pathwise_all_restart_zero_weighted_cash", "child": "AvramDividend.Classical.avram_wave4_04a_bv_actual_no_jump_interval_is_drift_only", "via": ["solution", "statement"]}
-{"parent": "HardCoreLocalSampling.Local.exact_recursion", "child": "HardCoreLocalSampling_Local_Deletion", "via": ["statement"]}
+{"parent": "HardCoreLocalSampling.Local.exact_recursion", "child": "HardCoreLocalSampling_Local_Deletion", "via": ["solution", "statement"]}
 {"parent": "Grunbaum2003.two_maximal_ridges_above_facet_edge_and_maximal_skeleton_dim", "child": "Grunbaum2003_PolytopeFace", "via": ["solution", "statement"]}
 {"parent": "Grunbaum2003.two_maximal_ridges_above_facet_edge_and_maximal_skeleton_dim", "child": "Grunbaum2003_IsDPolytope", "via": ["solution", "statement"]}
 {"parent": "Grunbaum2003.two_maximal_ridges_above_facet_edge_and_maximal_skeleton_dim", "child": "Grunbaum2003_SkeletonFace", "via": ["solution", "statement"]}

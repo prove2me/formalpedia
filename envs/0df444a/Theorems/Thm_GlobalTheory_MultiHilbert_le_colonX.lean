@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MultiHilbert_le_colonX
 -- name    : GlobalTheory.MultiHilbert.le_colonX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:29:39.188989+00:00
 -- url     : https://prove2.me/theorems/4f227707-2756-4f49-9bbe-a7b65ce4e43c

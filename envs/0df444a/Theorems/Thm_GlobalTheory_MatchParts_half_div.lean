@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatchParts_half_div
 -- name    : GlobalTheory.MatchParts.half_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:20:32.044312+00:00
 -- url     : https://prove2.me/theorems/75ec0658-c7dc-4384-80f3-82f2bdf64699

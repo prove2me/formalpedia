@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_eabHGl
 -- name    : Formalism.QuantumDeterminants.eabHGl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:35:35.072155+00:00
 -- url     : https://prove2.me/theorems/126e2905-015d-48e7-9588-b744a4de7d74

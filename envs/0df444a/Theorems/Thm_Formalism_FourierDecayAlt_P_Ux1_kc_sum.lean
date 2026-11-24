@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux1_kc_sum
 -- name    : Formalism.FourierDecayAlt.P.Ux1.kc_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:10:40.858795+00:00
 -- url     : https://prove2.me/theorems/349ec508-a49a-4304-912b-c3d1c213f3d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MultSieve_norm_sq_gaussSum
 -- name    : GlobalTheory.MultSieve.norm_sq_gaussSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:28:55.843644+00:00
 -- url     : https://prove2.me/theorems/6bd661b2-60ae-4cfc-8515-fc1fd2d25983

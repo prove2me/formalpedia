@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MonicSeparableProduct_exists_sep
 -- name    : GlobalTheory.MonicSeparableProduct.exists_sep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:27:53.482161+00:00
 -- url     : https://prove2.me/theorems/c82464b1-a4dd-445b-9216-6e6a7fca51d9

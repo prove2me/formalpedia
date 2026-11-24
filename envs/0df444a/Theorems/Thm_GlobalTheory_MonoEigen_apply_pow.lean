@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MonoEigen_apply_pow
 -- name    : GlobalTheory.MonoEigen.apply_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:27:41.906844+00:00
 -- url     : https://prove2.me/theorems/84494820-2ec1-411b-9f55-aac7a07a4902

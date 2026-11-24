@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NB_LT_algHom_coe
 -- name    : GlobalTheory.NB.LT.algHom_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:30:00.901395+00:00
 -- url     : https://prove2.me/theorems/d3b0413d-e5a7-4f85-ac30-05b3e2b68b6f

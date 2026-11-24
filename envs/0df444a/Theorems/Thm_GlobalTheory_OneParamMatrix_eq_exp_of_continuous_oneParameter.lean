@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OneParamMatrix_eq_exp_of_continuous_oneParameter
 -- name    : GlobalTheory.OneParamMatrix.eq_exp_of_continuous_oneParameter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:37:44.499083+00:00
 -- url     : https://prove2.me/theorems/360ebb7c-38c8-4238-a7c6-b88c772613d3

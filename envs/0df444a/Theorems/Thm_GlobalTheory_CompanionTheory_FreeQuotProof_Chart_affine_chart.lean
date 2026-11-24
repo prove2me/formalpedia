@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FreeQuotProof_Chart_affine_chart
 -- name    : GlobalTheory.CompanionTheory.FreeQuotProof.Chart.affine_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:41:32.885853+00:00
 -- url     : https://prove2.me/theorems/c06eac44-a9e0-4a97-95de-77088b323f77

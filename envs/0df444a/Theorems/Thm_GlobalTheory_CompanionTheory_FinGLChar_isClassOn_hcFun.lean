@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinGLChar_isClassOn_hcFun
 -- name    : GlobalTheory.CompanionTheory.FinGLChar.isClassOn_hcFun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:58:36.160815+00:00
 -- url     : https://prove2.me/theorems/7b04756b-3c21-4776-a14d-b386a4e5a5dc

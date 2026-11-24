@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_FewPrimes_ncard_dvd_le
 -- name    : GlobalTheory.Mem.FewPrimes.ncard_dvd_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:23:27.417996+00:00
 -- url     : https://prove2.me/theorems/c7bd67ef-07a6-4830-af16-0239c079b62e

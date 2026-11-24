@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormEq_piO_mem_of_isMaximal
 -- name    : GlobalTheory.NormEq.piO_mem_of_isMaximal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:34:30.660697+00:00
 -- url     : https://prove2.me/theorems/80575a00-0594-4206-ba5a-b1a891826d48

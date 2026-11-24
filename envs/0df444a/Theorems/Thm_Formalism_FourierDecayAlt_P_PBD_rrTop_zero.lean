@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBD_rrTop_zero
 -- name    : Formalism.FourierDecayAlt.P.PBD.rrTop_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:33:07.696772+00:00
 -- url     : https://prove2.me/theorems/b697cd8b-5e3d-46dd-9ac8-1c0a27c78308

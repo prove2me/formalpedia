@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lyndon_interleaves_flatten
 -- name    : GlobalTheory.Lyndon.interleaves_flatten
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:19:46.354983+00:00
 -- url     : https://prove2.me/theorems/ae47d2df-8cf6-4eca-badb-836e214bbde6

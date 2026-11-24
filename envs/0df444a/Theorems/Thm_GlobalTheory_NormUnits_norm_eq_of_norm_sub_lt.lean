@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormUnits_norm_eq_of_norm_sub_lt
 -- name    : GlobalTheory.NormUnits.norm_eq_of_norm_sub_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:36:14.593144+00:00
 -- url     : https://prove2.me/theorems/de184255-7d4b-4509-a788-6cb96f30e1c4

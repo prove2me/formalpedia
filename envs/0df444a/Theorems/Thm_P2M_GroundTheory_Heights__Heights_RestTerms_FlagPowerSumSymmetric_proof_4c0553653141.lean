@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagPowerSumSymmetric_proof_4c0553653141
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagPowerSumSymmetric_proof_4c0553653141
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:00:55.663956+00:00
 -- url     : https://prove2.me/theorems/cef407e6-7566-4137-afad-1e6c2a5ca904

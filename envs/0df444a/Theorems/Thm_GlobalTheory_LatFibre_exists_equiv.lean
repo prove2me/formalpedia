@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatFibre_exists_equiv
 -- name    : GlobalTheory.LatFibre.exists_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:57:09.258748+00:00
 -- url     : https://prove2.me/theorems/4e81730b-9b3d-48bb-b0bc-ce158a292d04

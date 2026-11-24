@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_LhsSum_one_le_abs_prod_int
 -- name    : GlobalTheory.LipschitzTR.LhsSum.one_le_abs_prod_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:11:24.829792+00:00
 -- url     : https://prove2.me/theorems/4ecb3aa4-342f-46d1-9992-e380f08b0a97

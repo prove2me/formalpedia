@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormEq_mem_filt
 -- name    : GlobalTheory.NormEq.mem_filt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:34:16.992608+00:00
 -- url     : https://prove2.me/theorems/da17014d-7a73-4109-8fe1-3ce610d37d05

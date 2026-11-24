@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsLatticeEmb_isBaseChange
 -- name    : GlobalTheory.IsLatticeEmb.isBaseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:53:02.892284+00:00
 -- url     : https://prove2.me/theorems/dc224d1b-a5d9-4c6f-84da-d77e180b8544

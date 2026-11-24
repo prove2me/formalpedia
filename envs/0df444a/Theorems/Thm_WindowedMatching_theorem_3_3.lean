@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WindowedMatching_theorem_3_3
 -- name    : WindowedMatching.theorem_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T02:27:43.842009+00:00
 -- url     : https://prove2.me/theorems/dee01d38-b7f5-4ec2-aa2a-d9f78fc79a84

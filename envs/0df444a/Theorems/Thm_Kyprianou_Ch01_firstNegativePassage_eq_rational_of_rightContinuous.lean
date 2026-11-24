@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_firstNegativePassage_eq_rational_of_rightContinuous
 -- name    : Kyprianou.Ch01.firstNegativePassage_eq_rational_of_rightContinuous
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T17:56:39.903188+00:00
 -- url     : https://prove2.me/theorems/8daf3cdd-79ab-4c78-aa2d-826504cea67b

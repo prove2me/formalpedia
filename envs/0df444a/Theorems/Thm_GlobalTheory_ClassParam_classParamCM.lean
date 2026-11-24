@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassParam_classParamCM
 -- name    : GlobalTheory.ClassParam.classParamCM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:13:34.663422+00:00
 -- url     : https://prove2.me/theorems/78399781-2b8d-4037-a3cb-7127422a78e1

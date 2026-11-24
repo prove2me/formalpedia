@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulJacobian_mulF_eq_mulN
 -- name    : GlobalTheory.MulJacobian.mulF_eq_mulN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:29:23.410432+00:00
 -- url     : https://prove2.me/theorems/8eac2560-b500-416b-bcc5-69c4dc342f6a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LowerOps_conj_ofF
 -- name    : GlobalTheory.LowerOps.conj_ofF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:16:48.916749+00:00
 -- url     : https://prove2.me/theorems/8ce22cca-3e73-422e-9db3-6f547376d37f

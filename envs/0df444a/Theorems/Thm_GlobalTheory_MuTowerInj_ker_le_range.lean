@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MuTowerInj_ker_le_range
 -- name    : GlobalTheory.MuTowerInj.ker_le_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:29:44.75163+00:00
 -- url     : https://prove2.me/theorems/19d0a912-496f-4c16-9cce-fca412c5d718

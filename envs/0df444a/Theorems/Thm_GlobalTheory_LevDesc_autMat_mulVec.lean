@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevDesc_autMat_mulVec
 -- name    : GlobalTheory.LevDesc.autMat_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:56:16.533363+00:00
 -- url     : https://prove2.me/theorems/1856a0bf-569b-44bf-97d6-70796b39bd34

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermDiag_exists_congr_diagonal
 -- name    : GlobalTheory.HermDiag.exists_congr_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:28:39.778888+00:00
 -- url     : https://prove2.me/theorems/e5dabc85-cd40-4d38-87be-c8a83e9eb76e

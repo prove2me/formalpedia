@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinpolyHeightCount_abs_coeff_minpoly_int_le
 -- name    : GlobalTheory.MinpolyHeightCount.abs_coeff_minpoly_int_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:24:42.054686+00:00
 -- url     : https://prove2.me/theorems/75628f52-3924-4164-876e-d2f030f5b52f

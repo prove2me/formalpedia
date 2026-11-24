@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Lift_DCalc_dH_commutator
 -- name    : GlobalTheory.Mem.Lift.DCalc.dH_commutator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:23:58.29061+00:00
 -- url     : https://prove2.me/theorems/a411dbdb-36e4-4db3-a7a7-b1151dbaaa0e

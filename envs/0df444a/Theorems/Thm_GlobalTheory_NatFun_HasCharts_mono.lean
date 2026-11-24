@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NatFun_HasCharts_mono
 -- name    : GlobalTheory.NatFun.HasCharts.mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:30:14.408798+00:00
 -- url     : https://prove2.me/theorems/b6ed6f4a-d41b-472d-aa53-1b897f84fd23

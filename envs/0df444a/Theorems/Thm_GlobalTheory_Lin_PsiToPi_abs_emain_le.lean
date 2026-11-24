@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_PsiToPi_abs_emain_le
 -- name    : GlobalTheory.Lin.PsiToPi.abs_emain_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:06:17.881004+00:00
 -- url     : https://prove2.me/theorems/0017855a-cf37-417a-b18c-29c929535b94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorInt_re_dot_le
 -- name    : GlobalTheory.MinorInt.re_dot_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:25:37.165822+00:00
 -- url     : https://prove2.me/theorems/f7a4a666-7d63-4ab1-8c13-a889e74593b6

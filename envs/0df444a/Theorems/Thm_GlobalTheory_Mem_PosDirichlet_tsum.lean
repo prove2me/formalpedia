@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_PosDirichlet_tsum
 -- name    : GlobalTheory.Mem.PosDirichlet.tsum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:40:08.82006+00:00
 -- url     : https://prove2.me/theorems/1dc1394e-4600-4fa9-899a-04035370492a

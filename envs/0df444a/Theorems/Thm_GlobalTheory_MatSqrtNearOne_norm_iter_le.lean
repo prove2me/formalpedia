@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatSqrtNearOne_norm_iter_le
 -- name    : GlobalTheory.MatSqrtNearOne.norm_iter_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:19:45.89879+00:00
 -- url     : https://prove2.me/theorems/ee68e0e6-5758-488a-930b-7826eb8d93d8

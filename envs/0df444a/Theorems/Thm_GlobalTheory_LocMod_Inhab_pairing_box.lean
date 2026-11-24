@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocMod_Inhab_pairing_box
 -- name    : GlobalTheory.LocMod.Inhab.pairing_box
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:49:03.350088+00:00
 -- url     : https://prove2.me/theorems/e532c302-401a-4c90-97cf-d935e28e5ab9

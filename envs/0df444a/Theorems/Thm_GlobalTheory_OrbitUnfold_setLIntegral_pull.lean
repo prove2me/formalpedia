@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbitUnfold_setLIntegral_pull
 -- name    : GlobalTheory.OrbitUnfold.setLIntegral_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:38:08.600311+00:00
 -- url     : https://prove2.me/theorems/e6773472-c11b-4fa8-a4f2-f9b3f42be38e

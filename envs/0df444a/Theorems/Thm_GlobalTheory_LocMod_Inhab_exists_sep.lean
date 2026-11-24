@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocMod_Inhab_exists_sep
 -- name    : GlobalTheory.LocMod.Inhab.exists_sep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:48:44.151297+00:00
 -- url     : https://prove2.me/theorems/f3eafca1-587a-43bf-8b03-40d412feeb71

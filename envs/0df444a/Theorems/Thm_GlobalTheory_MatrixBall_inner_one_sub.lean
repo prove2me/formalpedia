@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatrixBall_inner_one_sub
 -- name    : GlobalTheory.MatrixBall.inner_one_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:49:07.678412+00:00
 -- url     : https://prove2.me/theorems/05f14b8c-c6c8-4c7a-949b-e01e3f294d8a

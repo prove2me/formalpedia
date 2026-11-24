@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameCompletion_pair_symm
 -- name    : GlobalTheory.FrameCompletion.pair_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:05:10.299583+00:00
 -- url     : https://prove2.me/theorems/0b4747dc-026a-47fc-b37a-ac8a26f84f95

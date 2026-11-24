@@ -47612,10 +47612,10 @@
 {"parent": "QuadSDE_Supplement_Succinct", "child": "QuadSDE_Observable", "via": ["statement"]}
 {"parent": "QuadSDE_Supplement_Succinct", "child": "QAlgorithms_ClassicalBinaryEncoding", "via": ["statement"]}
 {"parent": "DistributedMWC440.UpperBound.Supplement.theorem_4", "child": "DistributedMWC440_UpperBound_Supplement_BCC", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.spectrallyNegativeLevyCadlagModification", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.spectrallyNegativeLevyCadlagModification", "child": "Kyprianou_Ch03_CompletedNaturalFiltration", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.spectrallyNegativeLevyCadlagModification", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.spectrallyNegativeLevyCadlagModification", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
+{"parent": "Kyprianou.Ch03.spectrallyNegativeLevyCadlagModification", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.spectrallyNegativeLevyCadlagModification", "child": "Kyprianou_Ch03_CompletedNaturalFiltration", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.spectrallyNegativeLevyCadlagModification", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.spectrallyNegativeLevyCadlagModification", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "PNormRegLib_Exec", "child": "PNormReg_Machine", "via": ["statement"]}
 {"parent": "RepellingPairs.Supplement.theorem_32_medial_template_unique_minimum", "child": "RepellingPairs_IsMetric", "via": ["statement"]}
 {"parent": "RepellingPairs.Supplement.theorem_32_medial_template_unique_minimum", "child": "RepellingPairs_Config", "via": ["statement"]}

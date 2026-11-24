@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NearFibreIso_near_isClosedImmersion
 -- name    : GlobalTheory.NearFibreIso.near_isClosedImmersion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:32:01.727605+00:00
 -- url     : https://prove2.me/theorems/129c509c-a78e-4d8b-9512-7c1be9eba3cd

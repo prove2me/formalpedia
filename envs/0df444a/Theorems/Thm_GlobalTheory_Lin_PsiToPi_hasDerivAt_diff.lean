@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_PsiToPi_hasDerivAt_diff
 -- name    : GlobalTheory.Lin.PsiToPi.hasDerivAt_diff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:05:56.509126+00:00
 -- url     : https://prove2.me/theorems/7e16cbc6-5156-4b2a-9258-fd4ab62cbfd1

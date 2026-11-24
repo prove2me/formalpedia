@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormMod_exists_pow_sub_one_mem
 -- name    : GlobalTheory.NormMod.exists_pow_sub_one_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:36:55.626549+00:00
 -- url     : https://prove2.me/theorems/4d69b9a8-d6bf-4656-a391-d760372baf06

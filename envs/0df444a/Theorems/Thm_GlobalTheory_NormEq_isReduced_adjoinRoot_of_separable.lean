@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormEq_isReduced_adjoinRoot_of_separable
 -- name    : GlobalTheory.NormEq.isReduced_adjoinRoot_of_separable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:34:59.021132+00:00
 -- url     : https://prove2.me/theorems/4ee39017-4898-4ad0-b91e-176940ea780c

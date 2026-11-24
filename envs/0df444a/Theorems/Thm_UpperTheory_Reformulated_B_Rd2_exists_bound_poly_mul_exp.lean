@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_Rd2_exists_bound_poly_mul_exp
 -- name    : UpperTheory.Reformulated.B.Rd2.exists_bound_poly_mul_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:08:56.52503+00:00
 -- url     : https://prove2.me/theorems/812a403a-76f9-4908-b675-622109b251e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NT_hasLabelO_spec
 -- name    : Formalism.L2.NT.hasLabelO_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:08:49.635752+00:00
 -- url     : https://prove2.me/theorems/8ba71c7c-918c-4db4-8520-3f1304d2b17f

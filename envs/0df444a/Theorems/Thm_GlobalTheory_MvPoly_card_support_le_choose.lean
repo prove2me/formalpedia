@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MvPoly_card_support_le_choose
 -- name    : GlobalTheory.MvPoly.card_support_le_choose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:29:01.922203+00:00
 -- url     : https://prove2.me/theorems/8453773e-22af-4442-9415-14c1b88c745d

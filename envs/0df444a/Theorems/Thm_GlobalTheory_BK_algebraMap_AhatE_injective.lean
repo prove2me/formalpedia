@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_algebraMap_AhatE_injective
 -- name    : GlobalTheory.BK.algebraMap_AhatE_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:51:33.351596+00:00
 -- url     : https://prove2.me/theorems/d17495ae-9b06-4513-999a-bc9584b40ce4

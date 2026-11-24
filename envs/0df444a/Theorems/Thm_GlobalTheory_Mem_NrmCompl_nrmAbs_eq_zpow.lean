@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_NrmCompl_nrmAbs_eq_zpow
 -- name    : GlobalTheory.Mem.NrmCompl.nrmAbs_eq_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:23:47.640881+00:00
 -- url     : https://prove2.me/theorems/77cfa392-9b87-4a53-bcd7-dbdeb47602d3

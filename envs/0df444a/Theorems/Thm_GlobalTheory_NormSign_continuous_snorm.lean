@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormSign_continuous_snorm
 -- name    : GlobalTheory.NormSign.continuous_snorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:38:02.937512+00:00
 -- url     : https://prove2.me/theorems/631cf830-3e1e-48c2-88be-9a8f02fe74ad

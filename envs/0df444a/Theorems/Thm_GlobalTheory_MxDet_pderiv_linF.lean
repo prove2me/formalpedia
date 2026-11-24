@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MxDet_pderiv_linF
 -- name    : GlobalTheory.MxDet.pderiv_linF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:30:14.264551+00:00
 -- url     : https://prove2.me/theorems/9cee9a35-f7d6-456a-8892-28809ba3666a

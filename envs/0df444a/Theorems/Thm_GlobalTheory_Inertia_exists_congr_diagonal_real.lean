@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_exists_congr_diagonal_real
 -- name    : GlobalTheory.Inertia.exists_congr_diagonal_real
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:55:58.050782+00:00
 -- url     : https://prove2.me/theorems/a7d9c781-be27-444e-b8d4-440e574142aa

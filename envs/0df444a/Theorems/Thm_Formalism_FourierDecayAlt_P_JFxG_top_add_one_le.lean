@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxG_top_add_one_le
 -- name    : Formalism.FourierDecayAlt.P.JFxG.top_add_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:34:55.521933+00:00
 -- url     : https://prove2.me/theorems/eef8afbd-09df-431a-be1a-abf584dc2be7

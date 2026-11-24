@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_KosKer_ker_and_image
 -- name    : GlobalTheory.KeyKa.KosKer.ker_and_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:55:13.149822+00:00
 -- url     : https://prove2.me/theorems/7648c3a1-8efb-4417-919e-c85e9d26751f

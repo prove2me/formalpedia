@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorFrame_colSub_rowSub
 -- name    : GlobalTheory.MinorFrame.colSub_rowSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:26:12.56966+00:00
 -- url     : https://prove2.me/theorems/25d766a2-351c-48a3-b939-77d1a59fa2e8

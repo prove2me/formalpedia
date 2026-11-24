@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_EN_apply
 -- name    : GlobalTheory.BK.PhiMod.EN_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:52:56.924938+00:00
 -- url     : https://prove2.me/theorems/26b9e8cb-b6d5-49c2-874f-58d9b3170c80

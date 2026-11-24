@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OnePoint_isIntegrallyClosedIn_fractionField_powerSeries
 -- name    : GlobalTheory.OnePoint.isIntegrallyClosedIn_fractionField_powerSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:37:47.986561+00:00
 -- url     : https://prove2.me/theorems/74f345ed-289f-4abe-89b5-3bba0c12df42

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NatMultipleRingOfIntegers_exists_pos_nat_mul_mem_ringOfIntegers
 -- name    : GlobalTheory.NatMultipleRingOfIntegers.exists_pos_nat_mul_mem_ringOfIntegers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:31:55.440055+00:00
 -- url     : https://prove2.me/theorems/df860326-eca1-4b52-9f6a-fe0969611f80

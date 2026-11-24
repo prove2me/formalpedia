@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux11_hasFDeriv_of
 -- name    : Formalism.FourierDecayAlt.P.Ux11.hasFDeriv_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:24:46.818803+00:00
 -- url     : https://prove2.me/theorems/4b442da0-f2bc-403d-8e22-ac357a2db01c

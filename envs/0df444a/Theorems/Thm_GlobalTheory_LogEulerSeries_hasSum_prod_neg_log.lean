@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogEulerSeries_hasSum_prod_neg_log
 -- name    : GlobalTheory.LogEulerSeries.hasSum_prod_neg_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:19:07.485972+00:00
 -- url     : https://prove2.me/theorems/efc7e472-2a89-4abb-92d2-bece3bde8cdf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OneAddPowSquareZero_one_add_pow_of_mul_self_eq_zero
 -- name    : GlobalTheory.OneAddPowSquareZero.one_add_pow_of_mul_self_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:36:29.866862+00:00
 -- url     : https://prove2.me/theorems/7cba896c-00d4-4d76-a44f-c6c8feb71cf7

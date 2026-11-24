@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermLocal_exists_zero_coord
 -- name    : GlobalTheory.HermLocal.exists_zero_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:53:16.727799+00:00
 -- url     : https://prove2.me/theorems/0b3fc91c-bbe2-4e99-812a-d1048edb1ade

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormExtensionBound_norm_le_one_of_extension
 -- name    : GlobalTheory.NormExtensionBound.norm_le_one_of_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:36:28.593474+00:00
 -- url     : https://prove2.me/theorems/68ad3cce-48ab-4031-ab5a-41651e647beb

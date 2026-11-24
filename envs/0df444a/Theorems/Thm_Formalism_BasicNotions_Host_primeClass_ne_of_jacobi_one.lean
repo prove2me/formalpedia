@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BasicNotions_Host_primeClass_ne_of_jacobi_one
 -- name    : Formalism.BasicNotions.Host.primeClass_ne_of_jacobi_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:46:26.85059+00:00
 -- url     : https://prove2.me/theorems/d1ec753e-208f-469b-b172-7f06c3b01f79

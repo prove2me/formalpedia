@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MuTowerInj_iota_injective
 -- name    : GlobalTheory.MuTowerInj.iota_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:28:17.967513+00:00
 -- url     : https://prove2.me/theorems/0ed42964-70c1-478e-873a-872e20dbca99

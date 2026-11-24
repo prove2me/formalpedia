@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_exists_entire_div_sub_one
 -- name    : GlobalTheory.Mem.exists_entire_div_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:24:25.049635+00:00
 -- url     : https://prove2.me/theorems/7d12e4c6-0b3d-4f64-834a-2f216c426891

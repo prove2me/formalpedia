@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelUnimod_modular_eq_one
 -- name    : GlobalTheory.LevelUnimod.modular_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:24:29.38516+00:00
 -- url     : https://prove2.me/theorems/b0c7aa54-f093-4b1d-9d9f-8b7cb970a68f

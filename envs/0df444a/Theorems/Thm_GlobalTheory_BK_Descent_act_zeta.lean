@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_Descent_act_zeta
 -- name    : GlobalTheory.BK.Descent.act_zeta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:07:33.829341+00:00
 -- url     : https://prove2.me/theorems/a99981b7-8794-46d1-ae74-a82baf052f82

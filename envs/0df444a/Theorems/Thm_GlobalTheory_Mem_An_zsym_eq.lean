@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_An_zsym_eq
 -- name    : GlobalTheory.Mem.An.zsym_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:22:00.723057+00:00
 -- url     : https://prove2.me/theorems/1a365e0d-8958-4caa-b59a-f2997278633e

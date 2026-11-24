@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormalDescent_charK_map_of_isPushout
 -- name    : GlobalTheory.NormalDescent.charK_map_of_isPushout
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:36:42.502448+00:00
 -- url     : https://prove2.me/theorems/105d1842-bf57-48d5-9828-0cc22356a03c

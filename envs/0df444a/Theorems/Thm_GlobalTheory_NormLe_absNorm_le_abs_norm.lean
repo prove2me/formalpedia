@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormLe_absNorm_le_abs_norm
 -- name    : GlobalTheory.NormLe.absNorm_le_abs_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:36:41.926232+00:00
 -- url     : https://prove2.me/theorems/17f0e917-209d-4ed3-8687-7b6dec4c31a2

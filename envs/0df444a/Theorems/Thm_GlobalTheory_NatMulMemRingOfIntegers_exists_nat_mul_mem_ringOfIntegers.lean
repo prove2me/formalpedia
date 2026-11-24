@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NatMulMemRingOfIntegers_exists_nat_mul_mem_ringOfIntegers
 -- name    : GlobalTheory.NatMulMemRingOfIntegers.exists_nat_mul_mem_ringOfIntegers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:31:44.177454+00:00
 -- url     : https://prove2.me/theorems/c9484963-fc69-4da1-a84b-e06ceb8549f8

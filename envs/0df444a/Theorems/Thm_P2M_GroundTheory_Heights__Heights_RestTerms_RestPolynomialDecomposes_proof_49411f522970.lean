@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_RestPolynomialDecomposes_proof_49411f522970
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_RestPolynomialDecomposes_proof_49411f522970
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:00:55.061574+00:00
 -- url     : https://prove2.me/theorems/03db985e-999b-47c0-9258-3bb3468904c0

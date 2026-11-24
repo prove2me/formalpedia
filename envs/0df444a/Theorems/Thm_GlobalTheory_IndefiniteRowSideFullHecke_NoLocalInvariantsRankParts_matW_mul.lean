@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_NoLocalInvariantsRankParts_matW_mul
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.NoLocalInvariantsRankParts.matW_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:50:35.907701+00:00
 -- url     : https://prove2.me/theorems/f7d6f6a2-725d-4c53-93c2-181a84319c7a

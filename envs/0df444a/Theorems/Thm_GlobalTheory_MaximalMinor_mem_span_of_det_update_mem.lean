@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaximalMinor_mem_span_of_det_update_mem
 -- name    : GlobalTheory.MaximalMinor.mem_span_of_det_update_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:21:06.076658+00:00
 -- url     : https://prove2.me/theorems/427c8205-db57-49de-b528-bb35ad7528e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NoetherInt_exists_primitive_of_aeval_eq_zero
 -- name    : GlobalTheory.NoetherInt.exists_primitive_of_aeval_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:34:54.161275+00:00
 -- url     : https://prove2.me/theorems/5df93091-6b86-4f38-87f8-7361b0261d41

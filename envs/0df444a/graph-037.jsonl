@@ -95235,7 +95235,7 @@
 {"parent": "Formalism.FourierDecayAlt.P.G4.block_prod", "child": "Formalism_HermitianCurvature_StatementG", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Jx10.pull", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_ChebyshevToThreshold", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Jx10.pull", "child": "Formalism_HermitianCurvature_StatementJ", "via": ["solution", "statement"]}
-{"parent": "CondensedComplexGeometry.ostrowski_algebraic", "child": "CondensedComplexGeometry_berkovich", "via": ["statement"]}
+{"parent": "CondensedComplexGeometry.ostrowski_algebraic", "child": "CondensedComplexGeometry_berkovich", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Fr10.comm_lit", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PositionInsertionDiagonalCompat", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Fr10.comm_lit", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_MinusLetterFrameOfData", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Fr10.comm_lit", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_CommuteInvLeft", "via": ["solution", "statement"]}
@@ -95315,7 +95315,7 @@
 {"parent": "PI.VolStabW.densFibV_holds", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicLocalCompactness_AdeleLC", "via": ["statement"]}
 {"parent": "RH1E6S13_D079_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_Legendre", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_Legendre", "via": ["statement"]}
-{"parent": "CondensedComplexGeometry.canonical_map_continuous", "child": "CondensedComplexGeometry_berkovich", "via": ["statement"]}
+{"parent": "CondensedComplexGeometry.canonical_map_continuous", "child": "CondensedComplexGeometry_berkovich", "via": ["solution", "statement"]}
 {"parent": "Mdp.DiscountedMDP.bellman_eq_Lpolicy_findPolicy", "child": "Mdp_ValueIteration", "via": ["solution", "statement"]}
 {"parent": "Mdp.DiscountedMDP.bellman_eq_Lpolicy_findPolicy", "child": "Mdp_Basic", "via": ["solution", "statement"]}
 {"parent": "Formalism.FN.LowerVolumeBound.covol_le", "child": "Formalism_SuccessiveMinima_DefsMink", "via": ["solution", "statement"]}

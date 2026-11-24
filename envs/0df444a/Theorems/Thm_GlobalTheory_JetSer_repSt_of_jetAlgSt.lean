@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_repSt_of_jetAlgSt
 -- name    : GlobalTheory.JetSer.repSt_of_jetAlgSt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:12:16.062798+00:00
 -- url     : https://prove2.me/theorems/dee1180d-c1f2-454e-8715-36977d36fa5c

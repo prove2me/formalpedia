@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CapelliAbstractCharacter_isCov_D
 -- name    : Formalism.FourierDecayAlt.P.CapelliAbstractCharacter.isCov_D
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:54:51.696506+00:00
 -- url     : https://prove2.me/theorems/367e91bf-96f7-4e1f-a237-9ca308c2773b

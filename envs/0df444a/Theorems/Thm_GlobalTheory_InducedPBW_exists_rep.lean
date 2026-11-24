@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InducedPBW_exists_rep
 -- name    : GlobalTheory.InducedPBW.exists_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:15:35.640194+00:00
 -- url     : https://prove2.me/theorems/a1b54da5-9a8a-4662-9d70-1f72ab688dd9

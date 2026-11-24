@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NoetherInt_map_finSuccEquiv
 -- name    : GlobalTheory.NoetherInt.map_finSuccEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:35:02.324826+00:00
 -- url     : https://prove2.me/theorems/c9c80e61-1b3d-4e6a-9f93-c769b433ec84

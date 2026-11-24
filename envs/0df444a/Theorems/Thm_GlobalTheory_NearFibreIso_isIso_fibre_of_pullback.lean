@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NearFibreIso_isIso_fibre_of_pullback
 -- name    : GlobalTheory.NearFibreIso.isIso_fibre_of_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:32:00.525032+00:00
 -- url     : https://prove2.me/theorems/554f796e-4f3f-49a9-832d-7d50b76c0155

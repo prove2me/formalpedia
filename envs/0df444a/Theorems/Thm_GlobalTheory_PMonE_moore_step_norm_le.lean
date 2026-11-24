@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_moore_step_norm_le
 -- name    : GlobalTheory.PMonE.moore_step_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:40:33.101802+00:00
 -- url     : https://prove2.me/theorems/78069acc-51ae-4701-af36-e6df2f1b9d1b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertLevi_leviExists
 -- name    : GlobalTheory.CompanionTheory.InertLevi.leviExists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:05:00.289231+00:00
 -- url     : https://prove2.me/theorems/d6234a00-d350-4d7d-827e-3618a0e669a5

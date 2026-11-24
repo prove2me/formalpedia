@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeLinearEquivBasis_exists_linearEquiv_map_lattice_eq
 -- name    : GlobalTheory.LatticeLinearEquivBasis.exists_linearEquiv_map_lattice_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:00:34.865893+00:00
 -- url     : https://prove2.me/theorems/5ee745a2-176f-44e1-bfc5-34be8058577c
