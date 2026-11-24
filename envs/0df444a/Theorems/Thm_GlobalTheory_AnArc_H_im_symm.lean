@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_H_im_symm
 -- name    : GlobalTheory.AnArc.H_im_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:40:22.375514+00:00
 -- url     : https://prove2.me/theorems/b45c1ae3-408d-49ae-aeb4-827620869d25

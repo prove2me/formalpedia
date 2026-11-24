@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_dualForm_apply
 -- name    : GlobalTheory.AnArc.dualForm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:38:37.070675+00:00
 -- url     : https://prove2.me/theorems/c987d074-a2c0-4a4b-ad9e-e755f4f295b0

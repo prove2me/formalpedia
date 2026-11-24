@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KernelColumns_tst_zero
 -- name    : GlobalTheory.CompanionTheory.KernelColumns.tst_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:51:08.16196+00:00
 -- url     : https://prove2.me/theorems/e4e588e8-8e91-4677-9456-4bb3032ee7a4

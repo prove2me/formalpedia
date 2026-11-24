@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReciprocityTheory.AnForm.mdisc_zero
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:27:27.25582+00:00
 -- url     : https://prove2.me/submissions/0d4ac243-21e8-4f5a-93be-7aa14d15ad61
 

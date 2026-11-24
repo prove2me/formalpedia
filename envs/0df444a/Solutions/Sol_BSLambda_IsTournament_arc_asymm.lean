@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.IsTournament.arc_asymm
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:49:21.423147+00:00
 -- url     : https://prove2.me/submissions/a70723f4-8d9c-416f-8504-640ee36c1186
 

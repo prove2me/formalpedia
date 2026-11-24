@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_AdBridge_toHA_isBridge
 -- name    : Formalism.L2.SG.AdBridge.toHA_isBridge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:41:07.10209+00:00
 -- url     : https://prove2.me/theorems/5b69ddaf-a907-4036-9034-00747f762bf3

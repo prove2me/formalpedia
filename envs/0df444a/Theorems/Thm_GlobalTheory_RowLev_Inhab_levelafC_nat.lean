@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_Inhab_levelafC_nat
 -- name    : GlobalTheory.RowLev.Inhab.levelafC_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:40:47.604669+00:00
 -- url     : https://prove2.me/theorems/d60fd38a-6d8f-4010-9fb4-018a82464b33

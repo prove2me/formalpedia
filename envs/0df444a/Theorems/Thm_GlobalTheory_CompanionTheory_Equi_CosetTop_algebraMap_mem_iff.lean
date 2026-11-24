@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Equi_CosetTop_algebraMap_mem_iff
 -- name    : GlobalTheory.CompanionTheory.Equi.CosetTop.algebraMap_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:38:23.450536+00:00
 -- url     : https://prove2.me/theorems/17ff2162-fdea-4d45-bae2-96a988d08ace

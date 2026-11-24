@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_SplitPair_unrAt_and_val
 -- name    : GlobalTheory.CMVal.Euler.SplitPair.unrAt_and_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:05:25.983824+00:00
 -- url     : https://prove2.me/theorems/b60fa0b5-87e8-4c8e-9511-af4f6829028d

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.closedHitDelayedApproxAEEqV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T12:03:08.826057+00:00
 -- url     : https://prove2.me/submissions/89583d11-73d1-4f0f-acf9-3e347d6aeebd
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

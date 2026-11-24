@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PTIso_Norm_isNormalised_transfer
 -- name    : GlobalTheory.CompanionTheory.PTIso.Norm.isNormalised_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:54:29.608082+00:00
 -- url     : https://prove2.me/theorems/faa9eac7-e81c-4b67-b9dc-3425536d45d8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PTIso_nineTermExact_iff
 -- name    : GlobalTheory.CompanionTheory.PTIso.nineTermExact_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:54:28.030591+00:00
 -- url     : https://prove2.me/theorems/5121ec3a-ec72-4f36-88d1-36ac8109fe4a

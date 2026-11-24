@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_span_pow_mul_tunedIdeal_le
 -- name    : FunctorialResolution.EmbeddedResolution.span_pow_mul_tunedIdeal_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:48:56.924804+00:00
 -- url     : https://prove2.me/theorems/d51255f9-818e-4417-a44d-d5c6c1be9fa1

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReciprocityTheory.Cheb.summable_absNorm_rpow_ideal
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T03:43:30.566596+00:00
 -- url     : https://prove2.me/submissions/084d04b7-4d79-4068-95bd-0d16791e3500
 

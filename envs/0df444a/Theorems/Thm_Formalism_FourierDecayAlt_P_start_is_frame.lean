@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_start_is_frame
 -- name    : Formalism.FourierDecayAlt.P.start_is_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:47:02.496796+00:00
 -- url     : https://prove2.me/theorems/02d74d4f-2cd0-4249-8c61-c9add9a93574

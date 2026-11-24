@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CardLength_log_card_eq_finsum_length
 -- name    : GlobalTheory.CardLength.log_card_eq_finsum_length
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:05:56.252926+00:00
 -- url     : https://prove2.me/theorems/5849e948-a997-4187-a786-6323aca4a7e0

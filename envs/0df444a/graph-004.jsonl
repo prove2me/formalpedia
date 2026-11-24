@@ -33245,8 +33245,8 @@
 {"parent": "QCQPTightness.Exact.lemma_1", "child": "QCQPTightness_Exact_QCQP", "via": ["statement"]}
 {"parent": "QCQPTightness.Exact.lemma_2", "child": "QCQPTightness_Exact_Faces", "via": ["solution", "statement"]}
 {"parent": "QCQPTightness.Exact.lemma_2", "child": "QCQPTightness_Exact_QCQP", "via": ["solution", "statement"]}
-{"parent": "QCQPTightness.Exact.lemma_3", "child": "QCQPTightness_Exact_Faces", "via": ["statement"]}
-{"parent": "QCQPTightness.Exact.lemma_3", "child": "QCQPTightness_Exact_QCQP", "via": ["statement"]}
+{"parent": "QCQPTightness.Exact.lemma_3", "child": "QCQPTightness_Exact_Faces", "via": ["solution", "statement"]}
+{"parent": "QCQPTightness.Exact.lemma_3", "child": "QCQPTightness_Exact_QCQP", "via": ["solution", "statement"]}
 {"parent": "QCQPTightness.Exact.lemma_8", "child": "QCQPTightness_Exact_Faces", "via": ["statement"]}
 {"parent": "QCQPTightness.Exact.lemma_8", "child": "QCQPTightness_Exact_QCQP", "via": ["statement"]}
 {"parent": "QCQPTightness.Exact.lemma_8", "child": "QCQPTightness_Exact_Recession", "via": ["statement"]}

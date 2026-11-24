@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_NumberFieldCoord_abs_repr_le_of_forall_norm_embedding_le
 -- name    : GlobalTheory.CompanionTheory.NumberFieldCoord.abs_repr_le_of_forall_norm_embedding_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:53:01.134179+00:00
 -- url     : https://prove2.me/theorems/0dec636d-91a3-48d6-8292-04e2cd0f77cf

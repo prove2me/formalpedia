@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_wlocal_global
 -- name    : Formalism.UG.P.wlocal_global
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:37:45.546447+00:00
 -- url     : https://prove2.me/theorems/0172db30-01b1-4d49-9fa2-61ca63a5f417

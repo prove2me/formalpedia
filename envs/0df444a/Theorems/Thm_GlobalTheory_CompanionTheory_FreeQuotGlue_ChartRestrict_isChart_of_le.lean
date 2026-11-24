@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FreeQuotGlue_ChartRestrict_isChart_of_le
 -- name    : GlobalTheory.CompanionTheory.FreeQuotGlue.ChartRestrict.isChart_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:41:19.347807+00:00
 -- url     : https://prove2.me/theorems/74aba544-fa47-4c91-9ca2-e1ebd5043eed

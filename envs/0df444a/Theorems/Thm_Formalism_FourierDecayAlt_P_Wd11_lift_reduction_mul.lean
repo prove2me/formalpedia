@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd11_lift_reduction_mul
 -- name    : Formalism.FourierDecayAlt.P.Wd11.lift_reduction_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:47:57.719835+00:00
 -- url     : https://prove2.me/theorems/20e88235-7335-4f4f-9268-0df6f5c7898a

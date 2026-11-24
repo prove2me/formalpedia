@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_adelicCompletion_fractionalIdeal_properties
 -- name    : GlobalTheory.AdLat.adelicCompletion_fractionalIdeal_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:10:39.216087+00:00
 -- url     : https://prove2.me/theorems/d244b9f0-fba4-48b5-aa31-cb51df8ee6d5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd11_freeOf2_transpose
 -- name    : Formalism.FourierDecayAlt.P.Wd11.freeOf2_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:47:15.60955+00:00
 -- url     : https://prove2.me/theorems/8b14e5f6-5080-4d6d-ad39-676aa76300ba

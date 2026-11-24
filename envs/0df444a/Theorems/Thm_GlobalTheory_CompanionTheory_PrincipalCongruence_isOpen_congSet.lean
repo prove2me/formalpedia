@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PrincipalCongruence_isOpen_congSet
 -- name    : GlobalTheory.CompanionTheory.PrincipalCongruence.isOpen_congSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:54:55.804138+00:00
 -- url     : https://prove2.me/theorems/aa83df0b-c96e-4e70-b3cd-55e149876d46

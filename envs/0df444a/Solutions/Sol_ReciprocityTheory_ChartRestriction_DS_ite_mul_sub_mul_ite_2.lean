@@ -1,6 +1,6 @@
 -- Prove2me | solution 2 for ReciprocityTheory.ChartRestriction.DS.ite_mul_sub_mul_ite
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-23T22:38:19.922852+00:00
 -- url     : https://prove2.me/submissions/b9d7623d-62a5-4dd7-89ac-3fc8e51204d2
 

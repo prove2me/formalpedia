@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FrobProd_span_of_factor
 -- name    : GlobalTheory.CompanionTheory.FrobProd.span_of_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:42:31.348773+00:00
 -- url     : https://prove2.me/theorems/d0059fa6-ba4b-4f6b-9780-6c0cb42c6e95

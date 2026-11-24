@@ -1,6 +1,6 @@
 -- Prove2me | solution 2 for Psi.cLead0_block
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-23T23:47:58.209794+00:00
 -- url     : https://prove2.me/submissions/96aa7116-2612-4fdf-a288-6e7a81a05c92
 

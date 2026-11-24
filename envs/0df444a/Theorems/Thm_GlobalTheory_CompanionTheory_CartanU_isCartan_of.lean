@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartanU_isCartan_of
 -- name    : GlobalTheory.CompanionTheory.CartanU.isCartan_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:31:02.847057+00:00
 -- url     : https://prove2.me/theorems/85e87550-3703-48c1-9e15-34765e8457c2

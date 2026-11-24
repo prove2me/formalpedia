@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_T0_localStepLevelsQ
 -- name    : Formalism.MainNotions.Gaps.T0.localStepLevelsQ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:43:25.834893+00:00
 -- url     : https://prove2.me/theorems/8e4aced2-9080-481c-9b60-5ea604247844

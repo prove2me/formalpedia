@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GlobalTheory.IterationConvergence.main
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T01:43:58.206866+00:00
 -- url     : https://prove2.me/submissions/3bd1f46a-54d4-456a-87d3-8468612d5d90
 

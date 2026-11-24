@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ExplZeta_LeftShift_horiz_integral
 -- name    : GlobalTheory.CompanionTheory.ExplZeta.LeftShift.horiz_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:37:50.204196+00:00
 -- url     : https://prove2.me/theorems/e01b6fa4-5753-4e92-b8c2-4a262e8f3258

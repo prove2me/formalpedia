@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_QIndex_BoxIndex_ball_eq_line
 -- name    : GlobalTheory.CompanionTheory.QL.QIndex.BoxIndex.ball_eq_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:56:24.605874+00:00
 -- url     : https://prove2.me/theorems/36019a11-0cf0-441f-9cc1-cd794b42ab66

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for P2M_GroundTheory_Heights__Heights_SphereProjectionLaw_ofReal_norm_sq_0f7fc2aa98eb
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T05:44:33.086901+00:00
 -- url     : https://prove2.me/submissions/c166df19-812b-4773-8598-6a241a34a8ae
 

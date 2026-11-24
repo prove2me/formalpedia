@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for FairSelling.epsSEF1_mono
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T02:36:29.770783+00:00
 -- url     : https://prove2.me/submissions/5cd5fba6-b796-4cb4-b2e2-9ee01ec6f11f
 

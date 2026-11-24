@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_QIndex_mem_conjSub
 -- name    : GlobalTheory.CompanionTheory.QL.QIndex.mem_conjSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:56:24.994799+00:00
 -- url     : https://prove2.me/theorems/3cb1ede5-904c-4e55-a56e-349740430a79

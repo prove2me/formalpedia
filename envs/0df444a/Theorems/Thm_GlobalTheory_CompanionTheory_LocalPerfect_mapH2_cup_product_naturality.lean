@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LocalPerfect_mapH2_cup_product_naturality
 -- name    : GlobalTheory.CompanionTheory.LocalPerfect.mapH2_cup_product_naturality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:52:06.72067+00:00
 -- url     : https://prove2.me/theorems/b2c4a762-52f3-4854-93b5-b66c385d42b4

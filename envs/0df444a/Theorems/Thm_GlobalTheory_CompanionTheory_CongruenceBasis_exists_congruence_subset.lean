@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CongruenceBasis_exists_congruence_subset
 -- name    : GlobalTheory.CompanionTheory.CongruenceBasis.exists_congruence_subset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:10:11.882479+00:00
 -- url     : https://prove2.me/theorems/92c49b94-2aab-4c52-8f86-614e73fdff77

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CatCoh_Desc_acyclic_of_cover
 -- name    : GlobalTheory.CatCoh.Desc.acyclic_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:06:17.165038+00:00
 -- url     : https://prove2.me/theorems/8e4d2831-c881-44b2-b895-8a4adcb08a38

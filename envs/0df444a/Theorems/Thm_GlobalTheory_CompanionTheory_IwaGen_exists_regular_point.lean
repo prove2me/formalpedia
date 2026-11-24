@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_IwaGen_exists_regular_point
 -- name    : GlobalTheory.CompanionTheory.IwaGen.exists_regular_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:47:56.315665+00:00
 -- url     : https://prove2.me/theorems/efe678f6-8788-4889-96ed-1dc8868bd5d5

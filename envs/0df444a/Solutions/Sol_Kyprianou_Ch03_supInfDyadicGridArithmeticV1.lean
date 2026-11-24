@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.supInfDyadicGridArithmeticV1
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T11:29:24.43849+00:00
 -- url     : https://prove2.me/submissions/0f1288dc-cb1d-449d-8b95-08d46f36f33b
 

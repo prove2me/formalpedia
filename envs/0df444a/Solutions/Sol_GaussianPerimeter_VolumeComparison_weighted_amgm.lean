@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GaussianPerimeter.VolumeComparison.weighted_amgm
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T11:15:36.900443+00:00
 -- url     : https://prove2.me/submissions/56953486-1f42-4e86-92a9-097d14dc2bd6
 

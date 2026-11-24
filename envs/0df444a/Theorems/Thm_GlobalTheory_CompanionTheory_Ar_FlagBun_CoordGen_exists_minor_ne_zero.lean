@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_FlagBun_CoordGen_exists_minor_ne_zero
 -- name    : GlobalTheory.CompanionTheory.Ar.FlagBun.CoordGen.exists_minor_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:18:15.535279+00:00
 -- url     : https://prove2.me/theorems/e2bf5097-a8f3-4457-982b-d952dad45d5a

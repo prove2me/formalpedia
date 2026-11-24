@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_vala_dg_choose
 -- name    : Formalism.MainNotions.PlaneGram.vala_dg_choose
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:06:22.455701+00:00
 -- url     : https://prove2.me/theorems/d2b906e4-5ca8-4d65-b31f-e6a234edcb9a

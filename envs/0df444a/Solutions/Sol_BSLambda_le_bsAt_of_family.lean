@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.le_bsAt_of_family
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:53:49.683693+00:00
 -- url     : https://prove2.me/submissions/c24ee33a-d028-41b5-b526-e627f9910cad
 

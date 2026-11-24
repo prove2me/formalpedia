@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for P2M_GroundTheory_Heights__Heights_ChartGram_re_inner_comm_a8b0e44bf3d7
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:50:24.408328+00:00
 -- url     : https://prove2.me/submissions/91db6ad0-0eba-43c2-9745-19a6a84c9531
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_hermForm_HwMat
 -- name    : GlobalTheory.AnArc.hermForm_HwMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:40:29.694911+00:00
 -- url     : https://prove2.me/theorems/e54ff4cb-86d6-46b4-9b9e-5c6818f7e52b

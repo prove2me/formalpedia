@@ -1,6 +1,6 @@
 -- Prove2me | solution 2 for P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_NumbersDVR_Bundles_mem_stdE_18e89a1870fc
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:44:59.482915+00:00
 -- url     : https://prove2.me/submissions/436a08e8-5876-49df-a17e-b19efa5a7b0f
 

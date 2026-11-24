@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PRep_JacExact_exists_finite_support
 -- name    : GlobalTheory.CompanionTheory.PRep.JacExact.exists_finite_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:53:37.002953+00:00
 -- url     : https://prove2.me/theorems/1a4bc16e-664b-4e74-8286-db46f32a65f1

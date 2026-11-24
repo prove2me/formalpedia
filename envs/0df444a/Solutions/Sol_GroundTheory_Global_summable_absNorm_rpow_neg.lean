@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GroundTheory.Global.summable_absNorm_rpow_neg
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T03:47:50.991247+00:00
 -- url     : https://prove2.me/submissions/1410eb27-aba1-43aa-8128-0555d6ba3469
 

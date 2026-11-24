@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_afsplit_stab_iff
 -- name    : Formalism.UG.P.afsplit_stab_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:33:56.076828+00:00
 -- url     : https://prove2.me/theorems/c10f11ae-8818-4ecf-b3c5-8850ce8756b9

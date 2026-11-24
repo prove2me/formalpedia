@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HaarPK_exists_eq_smul_subgroup
 -- name    : GlobalTheory.CompanionTheory.HaarPK.exists_eq_smul_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:44:53.003735+00:00
 -- url     : https://prove2.me/theorems/35eaf813-7653-4488-bdb3-04b690c6da4d

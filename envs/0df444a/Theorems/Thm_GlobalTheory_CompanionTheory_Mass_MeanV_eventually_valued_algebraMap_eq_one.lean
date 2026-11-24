@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Mass_MeanV_eventually_valued_algebraMap_eq_one
 -- name    : GlobalTheory.CompanionTheory.Mass.MeanV.eventually_valued_algebraMap_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:52:43.189498+00:00
 -- url     : https://prove2.me/theorems/23275dba-60df-4e1a-9922-ab98ae71450b

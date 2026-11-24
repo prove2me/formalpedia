@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharModGrowth_seminorm_char_mul_polynomial_growth
 -- name    : GlobalTheory.CharModGrowth.seminorm_char_mul_polynomial_growth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:07:38.451794+00:00
 -- url     : https://prove2.me/theorems/237babb2-d7fa-4e5f-a344-857b8a1e3579

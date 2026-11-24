@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CommStep_adjoin_le_sup
 -- name    : GlobalTheory.CompanionTheory.CommStep.adjoin_le_sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:33:25.691976+00:00
 -- url     : https://prove2.me/theorems/aba7a969-9f19-4071-bec0-334ab2fcccef

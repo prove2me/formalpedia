@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Inh_CharId_isPoly_Tm
 -- name    : GlobalTheory.CompanionTheory.Inh.CharId.isPoly_Tm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:48:27.590076+00:00
 -- url     : https://prove2.me/theorems/3f76beeb-dbe4-4f02-a87c-caeba4728561

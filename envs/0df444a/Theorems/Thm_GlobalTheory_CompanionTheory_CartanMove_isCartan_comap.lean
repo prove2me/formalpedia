@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartanMove_isCartan_comap
 -- name    : GlobalTheory.CompanionTheory.CartanMove.isCartan_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:27:04.589807+00:00
 -- url     : https://prove2.me/theorems/562c0282-eb17-4132-949c-0f49e7befb88

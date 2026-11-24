@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.gbPot_eq
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:27:26.263744+00:00
 -- url     : https://prove2.me/submissions/4342aa5f-a8a3-40d3-8b31-9d0abe4f9c17
 

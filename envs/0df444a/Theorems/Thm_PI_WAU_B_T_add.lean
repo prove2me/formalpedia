@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_B_T_add
 -- name    : PI.WAU.B.T_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:38:38.915813+00:00
 -- url     : https://prove2.me/theorems/3b0f3211-f828-4780-9fe4-400475ef0bc3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Inh_CharId_eq_zero_of_eval
 -- name    : GlobalTheory.CompanionTheory.Inh.CharId.eq_zero_of_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:48:22.40016+00:00
 -- url     : https://prove2.me/theorems/6d81e1af-1737-4ab6-a5dd-e816b9c8d763

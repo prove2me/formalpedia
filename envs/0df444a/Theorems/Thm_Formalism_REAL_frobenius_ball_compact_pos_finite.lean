@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_frobenius_ball_compact_pos_finite
 -- name    : Formalism.REAL.frobenius_ball_compact_pos_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:23:48.499252+00:00
 -- url     : https://prove2.me/theorems/d58e4104-7a08-47f2-8ca6-3a9c200afb99

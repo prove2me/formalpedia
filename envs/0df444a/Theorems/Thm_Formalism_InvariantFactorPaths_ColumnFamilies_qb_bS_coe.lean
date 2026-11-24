@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qb_bS_coe
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qb_bS_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:31:19.068103+00:00
 -- url     : https://prove2.me/theorems/23aaf54e-78b8-44ea-bf87-0eed75733c90

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx8_gamma_family_commute_generators
 -- name    : Formalism.FourierDecayAlt.P.Mx8.gamma_family_commute_generators
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:47:04.75394+00:00
 -- url     : https://prove2.me/theorems/9e61a276-7e1e-4c9a-9348-789cfc912e3a

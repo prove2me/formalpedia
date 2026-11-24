@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CommStep_finrank_map_pow_le
 -- name    : GlobalTheory.CompanionTheory.CommStep.finrank_map_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:33:18.159358+00:00
 -- url     : https://prove2.me/theorems/c99707f7-b515-42de-89f1-5a1af3ff0986

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GlobalTheory.SplitWeil.HaarFactor.real_ne_zero
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T04:20:04.204858+00:00
 -- url     : https://prove2.me/submissions/20a13c9d-ac27-43b2-ae89-506fc0bafc8e
 

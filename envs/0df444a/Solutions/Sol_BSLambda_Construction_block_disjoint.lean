@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.Construction.block_disjoint
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:52:25.726021+00:00
 -- url     : https://prove2.me/submissions/ac153fec-e261-4eac-8fab-4aadac6f6e49
 

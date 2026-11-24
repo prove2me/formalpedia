@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_Sm_IsSm_apply
 -- name    : CompanionTheory.D.Upq.Sm.IsSm.apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:24:58.586263+00:00
 -- url     : https://prove2.me/theorems/ecb1913f-f4d4-4293-be51-9620be88df14

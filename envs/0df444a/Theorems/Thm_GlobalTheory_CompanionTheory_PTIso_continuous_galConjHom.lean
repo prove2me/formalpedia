@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PTIso_continuous_galConjHom
 -- name    : GlobalTheory.CompanionTheory.PTIso.continuous_galConjHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:54:17.957944+00:00
 -- url     : https://prove2.me/theorems/43ab9853-368e-41ea-b2a4-af60c696a19c

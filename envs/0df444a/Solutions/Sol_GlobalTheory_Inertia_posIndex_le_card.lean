@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GlobalTheory.Inertia.posIndex_le_card
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T02:25:45.838438+00:00
 -- url     : https://prove2.me/submissions/d5202303-3c09-47cc-857f-cb8d4292306b
 

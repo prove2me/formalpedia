@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LocalHensel_stHensel_holds
 -- name    : GlobalTheory.CompanionTheory.LocalHensel.stHensel_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:52:09.064949+00:00
 -- url     : https://prove2.me/theorems/49dc4ffa-911f-42f1-854c-7cc45533c5a1

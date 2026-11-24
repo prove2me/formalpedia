@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_EtaleWeightGaps_levelsQDesc
 -- name    : Formalism.MainNotions.Gaps.EtaleWeightGaps.levelsQDesc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:57:20.937487+00:00
 -- url     : https://prove2.me/theorems/8dda7463-1e59-4278-9738-f1f917c44c33

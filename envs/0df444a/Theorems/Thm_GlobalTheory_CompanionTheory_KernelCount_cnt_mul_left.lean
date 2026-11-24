@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KernelCount_cnt_mul_left
 -- name    : GlobalTheory.CompanionTheory.KernelCount.cnt_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:50:27.934023+00:00
 -- url     : https://prove2.me/theorems/9010759a-8b4d-466f-b72a-7bffcc9a1840

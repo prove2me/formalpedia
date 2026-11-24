@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_PrimeWindowSizeBounds_first_kind_bound
 -- name    : Formalism.LFunctionChainParameters.PrimeWindowSizeBounds.first_kind_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:34:52.222811+00:00
 -- url     : https://prove2.me/theorems/76c9aebd-f6a8-4c78-8d46-5fabed473ce0

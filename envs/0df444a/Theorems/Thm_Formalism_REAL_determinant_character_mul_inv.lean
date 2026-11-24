@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_determinant_character_mul_inv
 -- name    : Formalism.REAL.determinant_character_mul_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:23:15.075781+00:00
 -- url     : https://prove2.me/theorems/de6075aa-be8a-4099-be31-e97720443588

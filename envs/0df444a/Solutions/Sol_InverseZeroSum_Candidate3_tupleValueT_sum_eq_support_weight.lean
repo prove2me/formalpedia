@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for InverseZeroSum.Candidate3.tupleValueT_sum_eq_support_weight
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T05:34:51.150572+00:00
 -- url     : https://prove2.me/submissions/16a968fd-02fb-4243-b145-5b90a5d4639a
 

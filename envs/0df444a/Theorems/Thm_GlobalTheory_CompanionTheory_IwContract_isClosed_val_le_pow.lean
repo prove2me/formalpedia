@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_IwContract_isClosed_val_le_pow
 -- name    : GlobalTheory.CompanionTheory.IwContract.isClosed_val_le_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:48:22.66933+00:00
 -- url     : https://prove2.me/theorems/12554a20-b3a9-4b2e-86e6-394b46182ab2

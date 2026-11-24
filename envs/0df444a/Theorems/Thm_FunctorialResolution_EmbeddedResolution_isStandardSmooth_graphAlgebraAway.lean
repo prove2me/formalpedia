@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isStandardSmooth_graphAlgebraAway
 -- name    : FunctorialResolution.EmbeddedResolution.isStandardSmooth_graphAlgebraAway
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:48:09.015123+00:00
 -- url     : https://prove2.me/theorems/74b0288f-b52c-409a-84b0-f8b59d0137c9

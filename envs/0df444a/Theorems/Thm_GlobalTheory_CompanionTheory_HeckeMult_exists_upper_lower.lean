@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeMult_exists_upper_lower
 -- name    : GlobalTheory.CompanionTheory.HeckeMult.exists_upper_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:46:22.606279+00:00
 -- url     : https://prove2.me/theorems/e827e585-b548-465c-bcbd-5351f49cafeb

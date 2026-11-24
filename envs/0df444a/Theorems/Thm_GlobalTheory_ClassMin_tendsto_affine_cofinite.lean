@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassMin_tendsto_affine_cofinite
 -- name    : GlobalTheory.ClassMin.tendsto_affine_cofinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:13:37.189042+00:00
 -- url     : https://prove2.me/theorems/f7ba21c8-4dad-4922-b2b7-fefed6faa7be

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.hammingDist_flipSet_singleton
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:52:13.668484+00:00
 -- url     : https://prove2.me/submissions/e704a76f-9c30-4383-ad37-3cf4a653f7d0
 

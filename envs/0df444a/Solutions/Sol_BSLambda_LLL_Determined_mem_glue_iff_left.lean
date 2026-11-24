@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.LLL.Determined.mem_glue_iff_left
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:54:48.650525+00:00
 -- url     : https://prove2.me/submissions/023d39d0-ac7d-4871-a666-6712c3673085
 

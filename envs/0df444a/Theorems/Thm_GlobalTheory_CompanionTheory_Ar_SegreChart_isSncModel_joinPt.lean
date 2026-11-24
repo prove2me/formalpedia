@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_SegreChart_isSncModel_joinPt
 -- name    : GlobalTheory.CompanionTheory.Ar.SegreChart.isSncModel_joinPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:21:05.9168+00:00
 -- url     : https://prove2.me/theorems/c23fcba2-e8c0-4c5d-961f-3c17264336b2

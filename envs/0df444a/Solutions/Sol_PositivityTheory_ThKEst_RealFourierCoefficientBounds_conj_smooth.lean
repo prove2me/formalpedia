@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for PositivityTheory.ThKEst.RealFourierCoefficientBounds.conj_smooth
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T05:55:50.040801+00:00
 -- url     : https://prove2.me/submissions/c058d688-ca66-457f-8623-aa3f0e779f48
 

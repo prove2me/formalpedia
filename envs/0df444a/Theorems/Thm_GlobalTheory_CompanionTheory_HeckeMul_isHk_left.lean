@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeMul_isHk_left
 -- name    : GlobalTheory.CompanionTheory.HeckeMul.isHk_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:46:51.427254+00:00
 -- url     : https://prove2.me/theorems/82227ada-206d-4b5f-a1ea-e1ec6d79cb28

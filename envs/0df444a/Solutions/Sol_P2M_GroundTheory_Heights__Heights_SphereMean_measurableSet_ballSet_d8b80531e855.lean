@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for P2M_GroundTheory_Heights__Heights_SphereMean_measurableSet_ballSet_d8b80531e855
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:32:15.164108+00:00
 -- url     : https://prove2.me/submissions/696cdc7a-d2ea-43c4-86c6-a2f7a5416d0d
 

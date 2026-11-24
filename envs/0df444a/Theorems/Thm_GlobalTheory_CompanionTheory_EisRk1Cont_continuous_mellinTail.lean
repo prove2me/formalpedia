@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EisRk1Cont_continuous_mellinTail
 -- name    : GlobalTheory.CompanionTheory.EisRk1Cont.continuous_mellinTail
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:37:07.64782+00:00
 -- url     : https://prove2.me/theorems/a933dc3f-179d-4659-91dd-b9a92103f8bc

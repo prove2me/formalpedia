@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PerfectFirstCohomology_ker_baseChange_tower
 -- name    : GlobalTheory.CompanionTheory.PerfectFirstCohomology.ker_baseChange_tower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:54:28.560793+00:00
 -- url     : https://prove2.me/theorems/7cf9cb2d-086f-4772-ab6e-7289c726c882

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSCoreSub_qdet_intertwine
 -- name    : GlobalTheory.CompanionTheory.DSCoreSub.qdet_intertwine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:34:34.720467+00:00
 -- url     : https://prove2.me/theorems/cfb4ca6f-cf52-4a66-9ffc-379d833a294b

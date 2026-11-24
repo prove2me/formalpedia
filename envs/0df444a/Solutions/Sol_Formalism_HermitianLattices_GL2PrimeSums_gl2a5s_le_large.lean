@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Formalism.HermitianLattices.GL2PrimeSums.gl2a5s_le_large
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T05:00:57.698838+00:00
 -- url     : https://prove2.me/submissions/f9933090-c81c-4c9a-b646-db347a649ecb
 

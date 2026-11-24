@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_indepRectangleIntegralFactorV1
 -- name    : Kyprianou.Ch03.indepRectangleIntegralFactorV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T12:34:45.996309+00:00
 -- url     : https://prove2.me/theorems/27a9b5d6-61b7-4f60-8c67-52d0621a678c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QuadraticUnit_norm_isUnit
 -- name    : GlobalTheory.CompanionTheory.QuadraticUnit.norm_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:56:20.453482+00:00
 -- url     : https://prove2.me/theorems/2ef6df28-5681-4a68-bddb-cef2ac4641d1

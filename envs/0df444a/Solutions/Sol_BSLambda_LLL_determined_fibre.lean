@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.LLL.determined_fibre
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:54:46.206012+00:00
 -- url     : https://prove2.me/submissions/91c90822-c710-4d50-bd89-73309251b01a
 

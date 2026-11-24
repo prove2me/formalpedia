@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Formalism.L2.Pj.Crude.crIsMono_pow
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T09:42:20.091874+00:00
 -- url     : https://prove2.me/submissions/ca1282e0-1c56-4abd-b0e2-834fe6e59889
 

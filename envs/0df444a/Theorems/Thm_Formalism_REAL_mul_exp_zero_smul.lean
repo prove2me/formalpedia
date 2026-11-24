@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_mul_exp_zero_smul
 -- name    : Formalism.REAL.mul_exp_zero_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:40:47.139234+00:00
 -- url     : https://prove2.me/theorems/584d87e6-90a3-4c9a-9f98-5011be23a236

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx8_kap_comm_kap
 -- name    : Formalism.FourierDecayAlt.P.Mx8.kap_comm_kap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:46:34.721646+00:00
 -- url     : https://prove2.me/theorems/b6194fb8-ef55-48a9-9910-1c0a5277489a

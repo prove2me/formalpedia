@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Iwahori_Gauss_isUpper_one
 -- name    : GlobalTheory.CompanionTheory.Iwahori.Gauss.isUpper_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:49:56.448825+00:00
 -- url     : https://prove2.me/theorems/061aedec-67de-4dec-bbbc-e36a8ff71434

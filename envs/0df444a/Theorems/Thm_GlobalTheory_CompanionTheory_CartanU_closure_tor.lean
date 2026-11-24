@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartanU_closure_tor
 -- name    : GlobalTheory.CompanionTheory.CartanU.closure_tor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:27:35.835246+00:00
 -- url     : https://prove2.me/theorems/9ab62935-71c2-4622-abbb-985358d6f383

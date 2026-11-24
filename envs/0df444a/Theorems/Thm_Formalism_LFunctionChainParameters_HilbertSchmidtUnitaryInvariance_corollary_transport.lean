@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtUnitaryInvariance_corollary_transport
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtUnitaryInvariance.corollary_transport
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:59:55.780902+00:00
 -- url     : https://prove2.me/theorems/5ed87b6c-5e6b-41a1-8e92-eed22431c625

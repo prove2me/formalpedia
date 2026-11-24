@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_LocalCrofton_measurable_kernel
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.LocalCrofton.measurable_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:40:08.575341+00:00
 -- url     : https://prove2.me/theorems/010016fa-901f-4f99-951d-00126712243e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_YangianSpanCharacter_Final_E_GGRatio
 -- name    : Formalism.YangianSpanCharacter.Final.E_GGRatio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:31:08.616415+00:00
 -- url     : https://prove2.me/theorems/736990ac-5eaf-48f1-ac37-9f74fc6bf7f7

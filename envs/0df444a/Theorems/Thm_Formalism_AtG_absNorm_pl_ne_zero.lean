@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_AtG_absNorm_pl_ne_zero
 -- name    : Formalism.AtG.absNorm_pl_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:43:30.718351+00:00
 -- url     : https://prove2.me/theorems/088fee3e-42c4-49d1-8bd1-0f568afa4e60

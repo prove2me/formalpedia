@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ComplexSets_openProjectionDominantComponents_of_analyticGermComponents
 -- name    : GlobalTheory.CompanionTheory.ComplexSets.openProjectionDominantComponents_of_analyticGermComponents
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:33:29.7071+00:00
 -- url     : https://prove2.me/theorems/dd86ad1f-1029-4ea1-93e3-add7389e4a02

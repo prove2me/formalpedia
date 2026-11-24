@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for PositivityTheory.ThKR.LL.block_inr_inl_one
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-23T23:52:14.043667+00:00
 -- url     : https://prove2.me/submissions/fa9c9ef4-ffd0-4d0c-91a4-c0696e121563
 

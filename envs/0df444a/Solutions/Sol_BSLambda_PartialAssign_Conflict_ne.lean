@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.PartialAssign.Conflict.ne
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:49:24.808882+00:00
 -- url     : https://prove2.me/submissions/c0b5b98d-b376-4d90-a077-ec2f5baab0d4
 

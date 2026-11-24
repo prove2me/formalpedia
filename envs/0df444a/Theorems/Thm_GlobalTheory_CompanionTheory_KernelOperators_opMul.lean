@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KernelOperators_opMul
 -- name    : GlobalTheory.CompanionTheory.KernelOperators.opMul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:12:05.983993+00:00
 -- url     : https://prove2.me/theorems/cc1b9725-7c40-404e-adac-6b977e590384

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_AdBridge_tauF_tmul
 -- name    : Formalism.L2.SG.AdBridge.tauF_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:40:40.0928+00:00
 -- url     : https://prove2.me/theorems/44be34ea-71f7-47c7-ad16-0ccb5235d3a8

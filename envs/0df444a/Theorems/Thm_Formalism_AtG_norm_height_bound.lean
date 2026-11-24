@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_AtG_norm_height_bound
 -- name    : Formalism.AtG.norm_height_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:43:28.043285+00:00
 -- url     : https://prove2.me/theorems/43d35416-cf10-4d2f-ad1f-fe930277df68

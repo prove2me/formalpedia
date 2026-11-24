@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Iwasawa_matrix_ext_eval
 -- name    : GlobalTheory.CompanionTheory.Iwasawa.matrix_ext_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:49:52.140257+00:00
 -- url     : https://prove2.me/theorems/0b3af590-ee07-4b1d-83c8-f6e9652816e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_divided_difference_l
 -- name    : Formalism.FourierDecayAlt.P.divided_difference_l
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:48:16.914571+00:00
 -- url     : https://prove2.me/theorems/0969da30-f6ae-4712-8857-8b36322d85ed

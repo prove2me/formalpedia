@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_gmRank
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.gmRank
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:05:50.771801+00:00
 -- url     : https://prove2.me/theorems/6ac71ed7-31bf-49e3-962c-643a82b9d5b8

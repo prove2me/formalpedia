@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeMul_finsum_out_translate
 -- name    : GlobalTheory.CompanionTheory.HeckeMul.finsum_out_translate
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:33:20.577733+00:00
 -- url     : https://prove2.me/theorems/2202c0bd-dff9-4ca1-862c-f919cfc6eaee

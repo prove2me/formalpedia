@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GroundTheory.Global.summable_indicator_not_prime
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T04:00:05.629446+00:00
 -- url     : https://prove2.me/submissions/2fb9728d-8c0e-4041-b572-487ea65cfcd5
 

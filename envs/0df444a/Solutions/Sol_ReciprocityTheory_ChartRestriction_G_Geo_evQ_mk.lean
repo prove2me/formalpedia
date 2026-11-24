@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReciprocityTheory.ChartRestriction.G.Geo.evQ_mk
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:27:25.419105+00:00
 -- url     : https://prove2.me/submissions/07980859-b732-4716-9d64-79d3b8c56782
 

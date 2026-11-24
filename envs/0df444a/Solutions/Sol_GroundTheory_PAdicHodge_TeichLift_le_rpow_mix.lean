@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GroundTheory.PAdicHodge.TeichLift.le_rpow_mix
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T02:21:01.535888+00:00
 -- url     : https://prove2.me/submissions/6e20fa24-4635-4a74-b9d4-743ac8b101e8
 

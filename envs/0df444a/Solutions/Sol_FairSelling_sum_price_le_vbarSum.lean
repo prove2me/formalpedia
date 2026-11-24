@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for FairSelling.sum_price_le_vbarSum
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T02:18:35.965811+00:00
 -- url     : https://prove2.me/submissions/8e3624f7-bccd-49c8-92ae-c1491fc0ba89
 

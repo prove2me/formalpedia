@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_NormPrime_norm_mem_comap
 -- name    : GlobalTheory.CompanionTheory.NormPrime.norm_mem_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:53:07.0528+00:00
 -- url     : https://prove2.me/theorems/7dc8d3e9-a938-428d-a210-3fa931116513

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Inh_CharId_IsPolyFun_prod_ofFn
 -- name    : GlobalTheory.CompanionTheory.Inh.CharId.IsPolyFun.prod_ofFn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:48:41.347636+00:00
 -- url     : https://prove2.me/theorems/635fc104-033e-4af5-80a6-699784cf14f6

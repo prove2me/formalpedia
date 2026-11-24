@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Iwahori_tau_mono
 -- name    : GlobalTheory.CompanionTheory.Iwahori.tau_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:49:25.59155+00:00
 -- url     : https://prove2.me/theorems/a7067bf6-e30b-4e8d-9652-bbda9e996ad3

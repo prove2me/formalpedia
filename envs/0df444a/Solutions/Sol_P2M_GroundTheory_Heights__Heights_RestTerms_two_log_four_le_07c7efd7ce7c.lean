@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for P2M_GroundTheory_Heights__Heights_RestTerms_two_log_four_le_07c7efd7ce7c
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T05:14:35.511864+00:00
 -- url     : https://prove2.me/submissions/2c080525-db97-4442-919f-bccbf27a3d1c
 

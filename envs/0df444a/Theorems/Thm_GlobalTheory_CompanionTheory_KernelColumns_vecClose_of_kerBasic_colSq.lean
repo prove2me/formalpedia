@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KernelColumns_vecClose_of_kerBasic_colSq
 -- name    : GlobalTheory.CompanionTheory.KernelColumns.vecClose_of_kerBasic_colSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:50:20.71108+00:00
 -- url     : https://prove2.me/theorems/4c2b8463-f96f-49c0-a271-c8436cf2fd42

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KernelComposition_kerMul_of_kerBasic_of_cvTest
 -- name    : GlobalTheory.CompanionTheory.KernelComposition.kerMul_of_kerBasic_of_cvTest
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:50:35.710276+00:00
 -- url     : https://prove2.me/theorems/101489f5-59b9-4342-9969-2db72239ae3b

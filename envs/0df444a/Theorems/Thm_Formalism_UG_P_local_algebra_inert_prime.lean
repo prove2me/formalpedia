@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_local_algebra_inert_prime
 -- name    : Formalism.UG.P.local_algebra_inert_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:33:11.152945+00:00
 -- url     : https://prove2.me/theorems/981d278b-64c2-450d-92d9-ffd92663c3cc

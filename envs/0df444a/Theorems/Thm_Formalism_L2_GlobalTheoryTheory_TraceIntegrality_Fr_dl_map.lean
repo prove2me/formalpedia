@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_TraceIntegrality_Fr_dl_map
 -- name    : Formalism.L2.GlobalTheoryTheory.TraceIntegrality.Fr.dl_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:48:40.984913+00:00
 -- url     : https://prove2.me/theorems/320b9208-6070-4b87-891f-7ba31c5119d2

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.PartialAssign.exists_sat_and_sat_of_forall_not_conflict
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:54:00.012039+00:00
 -- url     : https://prove2.me/submissions/c3360bce-eff8-4b7f-bc29-2fc31fe3e0ae
 

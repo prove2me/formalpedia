@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ProdQuotient_support_mul_out_finite
 -- name    : GlobalTheory.CompanionTheory.ProdQuotient.support_mul_out_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:55:03.086386+00:00
 -- url     : https://prove2.me/theorems/68b24505-f9c1-4885-9984-6e481abc5116

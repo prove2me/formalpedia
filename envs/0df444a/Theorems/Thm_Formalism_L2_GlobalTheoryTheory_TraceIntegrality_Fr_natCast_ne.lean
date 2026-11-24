@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_TraceIntegrality_Fr_natCast_ne
 -- name    : Formalism.L2.GlobalTheoryTheory.TraceIntegrality.Fr.natCast_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:48:50.549534+00:00
 -- url     : https://prove2.me/theorems/78e9d5bf-3ef9-44cd-b95b-72318ac16f4c

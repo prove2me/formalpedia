@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GopEntries_gg_diag
 -- name    : GlobalTheory.CompanionTheory.GopEntries.gg_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:43:52.036472+00:00
 -- url     : https://prove2.me/theorems/cc157b69-23cc-4efa-b035-1d690c3e7c1b

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Formalism.L2.NCov.mem_range_of_isRoot
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T09:42:13.5169+00:00
 -- url     : https://prove2.me/submissions/81fdf575-3d6a-4115-98f0-1e4981be3533
 

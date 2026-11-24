@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_div_two_I
 -- name    : GlobalTheory.AnArc.div_two_I
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:38:43.407019+00:00
 -- url     : https://prove2.me/theorems/bbd1fc6b-edb7-413c-a535-f5597090d6a8

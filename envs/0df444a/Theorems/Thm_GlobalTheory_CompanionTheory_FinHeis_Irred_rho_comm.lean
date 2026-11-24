@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinHeis_Irred_rho_comm
 -- name    : GlobalTheory.CompanionTheory.FinHeis.Irred.rho_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:39:20.730642+00:00
 -- url     : https://prove2.me/theorems/583494b2-288d-4604-9382-57995ff77abc

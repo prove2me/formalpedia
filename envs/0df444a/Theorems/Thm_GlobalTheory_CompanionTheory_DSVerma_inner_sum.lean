@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSVerma_inner_sum
 -- name    : GlobalTheory.CompanionTheory.DSVerma.inner_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:02:49.990193+00:00
 -- url     : https://prove2.me/theorems/f7e639d8-8de2-4c0d-8b9e-acea53a79478

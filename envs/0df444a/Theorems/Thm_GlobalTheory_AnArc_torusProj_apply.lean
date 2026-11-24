@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_torusProj_apply
 -- name    : GlobalTheory.AnArc.torusProj_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:40:34.086847+00:00
 -- url     : https://prove2.me/theorems/5fe77607-1901-46ce-aa19-40e3c83ab188

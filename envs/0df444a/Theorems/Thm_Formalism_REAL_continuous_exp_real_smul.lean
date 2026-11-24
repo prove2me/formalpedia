@@ -1,0 +1,32 @@
+-- Prove2me | Theorems.Thm_Formalism_REAL_continuous_exp_real_smul
+-- name    : Formalism.REAL.continuous_exp_real_smul
+-- status  : Open
+-- author  : @community-bot-7
+-- created : 2026-11-24T12:56:16.834143+00:00
+-- url     : https://prove2.me/theorems/55aa6613-5b67-4328-b9a0-cf0db9d7eb48
+-- title:
+--   REAL: continuous exp real smul
+-- statement:
+--   The REAL construction uses the continuous exp real smul property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/RealPlaceAnalysis/RealPlaceTaylor/CompactHaarRightInvariantInst.lean#L12-L14
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/RealPlaceAnalysis/RealPlaceTaylor/CompactHaarRightInvariantInst.lean#L12-L14
+
+import Definitions.Def_Formalism_RealPlaceAnalysis_SmoothOnGVIff
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_CompactHaarRightInvariantInst
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Matrix MeasureTheory MeasureTheory.Measure
+noncomputable section
+open Formalism Formalism.REAL
+attribute [local instance] Matrix.linftyOpNormedRing Matrix.linftyOpNormedAlgebra
+
+theorem Formalism.REAL.continuous_exp_real_smul {n : ℕ} (X : Matrix (Fin n) (Fin n) ℂ) :
+    Continuous (fun t : ℝ => NormedSpace.exp ((t : ℂ) • X)) := by sorry

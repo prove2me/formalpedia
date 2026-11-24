@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSICWLem_wlem_of_gfacts
 -- name    : GlobalTheory.CompanionTheory.DSICWLem.wlem_of_gfacts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:35:20.433958+00:00
 -- url     : https://prove2.me/theorems/debc11a8-1455-41d8-8ff1-c3c6c6e59652

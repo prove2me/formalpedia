@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HolFamily_continuous_iteratedDeriv_family
 -- name    : GlobalTheory.CompanionTheory.HolFamily.continuous_iteratedDeriv_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:48:48.526164+00:00
 -- url     : https://prove2.me/theorems/33627b8b-a459-43fc-aa46-b3f232f68c9f

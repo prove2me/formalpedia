@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ExtTensorFixed_mem_range_lTensor_fixed
 -- name    : GlobalTheory.CompanionTheory.ExtTensorFixed.mem_range_lTensor_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:37:46.160481+00:00
 -- url     : https://prove2.me/theorems/4e6b06ea-46ba-4070-893d-674cf3b84205

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CofactorOrder_diag_case
 -- name    : GlobalTheory.CofactorOrder.diag_case
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:14:58.317596+00:00
 -- url     : https://prove2.me/theorems/343d884c-d005-4db8-9330-6c5453d35395

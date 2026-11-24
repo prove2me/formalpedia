@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heckeChar_unramified_inverse_split_pair
 -- name    : GlobalTheory.T.heckeChar_unramified_inverse_split_pair
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:16:11.256573+00:00
 -- url     : https://prove2.me/theorems/bd97e161-e1e9-4ca8-b5e7-52c21f64d6f8

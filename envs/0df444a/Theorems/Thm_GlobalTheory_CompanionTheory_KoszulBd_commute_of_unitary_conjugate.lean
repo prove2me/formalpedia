@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KoszulBd_commute_of_unitary_conjugate
 -- name    : GlobalTheory.CompanionTheory.KoszulBd.commute_of_unitary_conjugate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:51:13.383228+00:00
 -- url     : https://prove2.me/theorems/d61be382-340d-4286-8f1b-7e9472030dd4

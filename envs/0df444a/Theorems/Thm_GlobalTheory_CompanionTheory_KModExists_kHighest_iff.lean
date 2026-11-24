@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KModExists_kHighest_iff
 -- name    : GlobalTheory.CompanionTheory.KModExists.kHighest_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:49:25.081411+00:00
 -- url     : https://prove2.me/theorems/301f4744-0fd7-4650-bb10-87396b66ab72

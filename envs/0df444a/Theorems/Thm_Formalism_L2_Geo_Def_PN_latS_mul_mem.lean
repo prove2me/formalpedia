@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Geo_Def_PN_latS_mul_mem
 -- name    : Formalism.L2.Geo.Def.PN.latS_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:49:50.329454+00:00
 -- url     : https://prove2.me/theorems/ec04c038-0a31-4c5e-9725-2b85282be498

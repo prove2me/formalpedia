@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Iwahori_Unitary_lowerUni_mul
 -- name    : GlobalTheory.CompanionTheory.Iwahori.Unitary.lowerUni_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:49:16.581031+00:00
 -- url     : https://prove2.me/theorems/4d6efb17-1983-457a-a522-7255a20756ac

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for InverseZeroSum.Candidate3.zero_not_mem_tupleSupportT
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T05:27:03.089117+00:00
 -- url     : https://prove2.me/submissions/82370509-a89a-448c-b0da-ccf1e4cb3165
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CasselmanOsborne_pres_qminor
 -- name    : GlobalTheory.CompanionTheory.CasselmanOsborne.pres_qminor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:23:09.798516+00:00
 -- url     : https://prove2.me/theorems/f4d6d7e5-0c99-4f8f-aba3-2035c8151826

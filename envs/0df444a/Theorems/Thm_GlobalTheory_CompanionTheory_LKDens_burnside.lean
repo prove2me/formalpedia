@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LKDens_burnside
 -- name    : GlobalTheory.CompanionTheory.LKDens.burnside
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:52:26.547653+00:00
 -- url     : https://prove2.me/theorems/67673283-26a2-4422-ac5e-a959beb5087d

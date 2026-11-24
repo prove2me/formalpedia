@@ -1,6 +1,6 @@
 -- Prove2me | solution 2 for GlobalTheory.DI.logLift_pp_zero
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-23T22:51:26.880594+00:00
 -- url     : https://prove2.me/submissions/9168277e-f9ee-49f9-bce2-da8c0165544b
 

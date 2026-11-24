@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GlobalTheory.CloseToUnitNorm.norm_zpow_sub_one_le
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T01:45:06.914385+00:00
 -- url     : https://prove2.me/submissions/48c31bf5-0185-4e76-8da9-8db07d3b4738
 

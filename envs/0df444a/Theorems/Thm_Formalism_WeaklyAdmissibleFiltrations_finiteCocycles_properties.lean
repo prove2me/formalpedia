@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_finiteCocycles_properties
 -- name    : Formalism.WeaklyAdmissibleFiltrations.finiteCocycles_properties
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:40:00.343832+00:00
 -- url     : https://prove2.me/theorems/76ce2727-07d3-4268-b97d-9b86d08af866

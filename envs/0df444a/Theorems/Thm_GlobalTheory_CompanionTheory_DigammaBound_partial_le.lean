@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DigammaBound_partial_le
 -- name    : GlobalTheory.CompanionTheory.DigammaBound.partial_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:34:43.977529+00:00
 -- url     : https://prove2.me/theorems/cad905da-fffb-4540-a1ae-b502bd2ebafb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Iwahori_CongUnit_norm_one_add_of_lt
 -- name    : GlobalTheory.CompanionTheory.Iwahori.CongUnit.norm_one_add_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:49:47.871702+00:00
 -- url     : https://prove2.me/theorems/78229f43-75b6-4997-bc3f-c91607d40222

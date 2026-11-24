@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Adelic_StableRangeOne_mem_of_fixed
 -- name    : GlobalTheory.CompanionTheory.Adelic.StableRangeOne.mem_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:16:28.394681+00:00
 -- url     : https://prove2.me/theorems/a04cb442-e2b6-4fc6-9c29-a930f986a0e5

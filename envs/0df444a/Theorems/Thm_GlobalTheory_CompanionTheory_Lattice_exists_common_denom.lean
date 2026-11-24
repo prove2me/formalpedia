@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Lattice_exists_common_denom
 -- name    : GlobalTheory.CompanionTheory.Lattice.exists_common_denom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:51:51.549198+00:00
 -- url     : https://prove2.me/theorems/83c315ff-7828-4e68-a1b2-6a965905b340

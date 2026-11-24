@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FlDecomp_isMax_pull
 -- name    : GlobalTheory.CompanionTheory.FlDecomp.isMax_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:41:35.362689+00:00
 -- url     : https://prove2.me/theorems/326e20ac-84f2-485e-9a8a-05c6ad159f6a

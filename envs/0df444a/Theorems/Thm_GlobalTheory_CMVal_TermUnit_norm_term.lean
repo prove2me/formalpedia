@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_TermUnit_norm_term
 -- name    : GlobalTheory.CMVal.TermUnit.norm_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:07:11.060668+00:00
 -- url     : https://prove2.me/theorems/9f4f5906-8552-42ea-94d4-d0c52339f33d

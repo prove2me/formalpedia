@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_OneParamFourier_integrable_uncurry_translate
 -- name    : GlobalTheory.CompanionTheory.OneParamFourier.integrable_uncurry_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:53:17.344409+00:00
 -- url     : https://prove2.me/theorems/4add6239-bc56-44b7-8b0f-5cee0b8201c5

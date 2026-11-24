@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_continuous_smooth_on_group
 -- name    : Formalism.REAL.continuous_smooth_on_group
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:42:21.884058+00:00
 -- url     : https://prove2.me/theorems/28d53f02-3146-45f8-828a-77a0abe7fec6

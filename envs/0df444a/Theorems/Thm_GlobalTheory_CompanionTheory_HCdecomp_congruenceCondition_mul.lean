@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HCdecomp_congruenceCondition_mul
 -- name    : GlobalTheory.CompanionTheory.HCdecomp.congruenceCondition_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:45:30.926095+00:00
 -- url     : https://prove2.me/theorems/212b122f-5622-429a-a9c9-a98b3f546477

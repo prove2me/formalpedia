@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.Construction.card_block
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:48:28.135827+00:00
 -- url     : https://prove2.me/submissions/d36e0ff3-e1e8-45ac-8896-a139bb3c7245
 

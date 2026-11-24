@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_SequenceOfBlowups_nontrivialIndex_zero
 -- name    : FunctorialResolution.EmbeddedResolution.SequenceOfBlowups.nontrivialIndex_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:38:39.468888+00:00
 -- url     : https://prove2.me/theorems/49cd1190-bd46-464e-b36f-1b687e0fc381

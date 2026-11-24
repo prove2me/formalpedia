@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_OM_SchDiff_iter_slice
 -- name    : GlobalTheory.CompanionTheory.OM.SchDiff.iter_slice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:53:33.977005+00:00
 -- url     : https://prove2.me/theorems/ba0bf46e-94b0-4677-a1eb-c7deff50e4f5

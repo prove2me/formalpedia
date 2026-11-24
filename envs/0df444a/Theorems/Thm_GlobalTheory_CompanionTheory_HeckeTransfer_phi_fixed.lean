@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeTransfer_phi_fixed
 -- name    : GlobalTheory.CompanionTheory.HeckeTransfer.phi_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:57:40.052055+00:00
 -- url     : https://prove2.me/theorems/4d0812d6-8114-4741-bfd8-0f9b4f54bb3c

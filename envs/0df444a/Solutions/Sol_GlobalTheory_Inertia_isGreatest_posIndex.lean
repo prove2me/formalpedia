@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GlobalTheory.Inertia.isGreatest_posIndex
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T03:18:52.422694+00:00
 -- url     : https://prove2.me/submissions/06973212-4c83-4a02-b118-dfa2117bae49
 

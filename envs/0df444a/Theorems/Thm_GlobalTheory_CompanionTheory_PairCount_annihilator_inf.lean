@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PairCount_annihilator_inf
 -- name    : GlobalTheory.CompanionTheory.PairCount.annihilator_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:54:49.749813+00:00
 -- url     : https://prove2.me/theorems/8409b681-11da-451f-bc7d-fb655a2d9037

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_B_common_nat
 -- name    : PI.WAU.B.common_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:41:10.560117+00:00
 -- url     : https://prove2.me/theorems/557395a7-882b-4ea4-9294-f37daf322895

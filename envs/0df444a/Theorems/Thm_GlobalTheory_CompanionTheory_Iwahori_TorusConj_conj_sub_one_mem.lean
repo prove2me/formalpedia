@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Iwahori_TorusConj_conj_sub_one_mem
 -- name    : GlobalTheory.CompanionTheory.Iwahori.TorusConj.conj_sub_one_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:49:15.095365+00:00
 -- url     : https://prove2.me/theorems/b9573bd1-9730-4d77-85cf-0f46a5798a80

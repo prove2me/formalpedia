@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_AtG_lw_nonneg__115b3852fc51
 -- name    : P2M_Formalism_AtG_lw_nonneg__115b3852fc51
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:42:41.870801+00:00
 -- url     : https://prove2.me/theorems/83b90e24-fe24-4e9e-abe8-72a8b97db030

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd11_Uinv_mul_Um
 -- name    : Formalism.FourierDecayAlt.P.Wd11.Uinv_mul_Um
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:47:36.047816+00:00
 -- url     : https://prove2.me/theorems/7dd68e0c-79be-4708-975d-2104cd097ffd

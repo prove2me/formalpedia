@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.mem_middles
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:47:09.971694+00:00
 -- url     : https://prove2.me/submissions/97ab8e92-cbed-49e2-9d46-7f18c8eb7566
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_mellin_convergent_chebyshev_character
 -- name    : Formalism.ZeroFreeDirichlet.mellin_convergent_chebyshev_character
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:43:13.014018+00:00
 -- url     : https://prove2.me/theorems/6a6db57e-d598-4f11-a8a5-3c34313d11b2

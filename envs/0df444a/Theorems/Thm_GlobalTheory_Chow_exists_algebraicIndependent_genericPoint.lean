@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_exists_algebraicIndependent_genericPoint
 -- name    : GlobalTheory.Chow.exists_algebraicIndependent_genericPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:09:32.256011+00:00
 -- url     : https://prove2.me/theorems/ed66b01b-d147-40d7-a203-8695a3fbd6b4

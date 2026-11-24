@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_B_ivec_mem
 -- name    : PI.WAU.B.ivec_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:41:31.501312+00:00
 -- url     : https://prove2.me/theorems/f7e23fa4-c5ae-4d50-8fe2-626adda2c62d

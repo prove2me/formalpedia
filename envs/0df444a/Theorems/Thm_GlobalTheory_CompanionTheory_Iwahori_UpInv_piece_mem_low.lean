@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Iwahori_UpInv_piece_mem_low
 -- name    : GlobalTheory.CompanionTheory.Iwahori.UpInv.piece_mem_low
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:49:44.219598+00:00
 -- url     : https://prove2.me/theorems/2822a176-ad92-4eda-b2a7-4a7bf2de6552

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_LOC_locQuotLen
 -- name    : Formalism.RepresentationBoundsCohomology.LOC.locQuotLen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:50:32.790627+00:00
 -- url     : https://prove2.me/theorems/b52607ef-eee7-4efd-9941-dd333acbcf24

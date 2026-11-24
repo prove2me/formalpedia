@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartGL_exists_mem_congK_of_entries
 -- name    : GlobalTheory.CompanionTheory.CartGL.exists_mem_congK_of_entries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:27:39.889873+00:00
 -- url     : https://prove2.me/theorems/f0fd6526-ce25-4cb5-bfa4-d6ac1039dba4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CellSumProof_cellSum_holds
 -- name    : GlobalTheory.CompanionTheory.CellSumProof.cellSum_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:32:20.871698+00:00
 -- url     : https://prove2.me/theorems/769c632e-c6de-4ced-9f29-cd3785e9c794

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_OrbitSection_vecMul_shear
 -- name    : GlobalTheory.CompanionTheory.OrbitSection.vecMul_shear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:53:38.962873+00:00
 -- url     : https://prove2.me/theorems/4576a41b-c736-4af1-82d4-d77e475a7875

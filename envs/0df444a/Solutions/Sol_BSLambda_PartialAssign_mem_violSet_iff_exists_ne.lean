@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.PartialAssign.mem_violSet_iff_exists_ne
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:49:23.836374+00:00
 -- url     : https://prove2.me/submissions/6f68be52-6f90-4200-83c4-c12fa5a4666d
 

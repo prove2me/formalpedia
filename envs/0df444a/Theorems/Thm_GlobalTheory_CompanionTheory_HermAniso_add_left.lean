@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HermAniso_add_left
 -- name    : GlobalTheory.CompanionTheory.HermAniso.add_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:46:23.110884+00:00
 -- url     : https://prove2.me/theorems/181af35a-8fb5-40c0-88e2-c96d4d4c0475

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoefTorusWeight_weight_preserved
 -- name    : GlobalTheory.CoefTorusWeight.weight_preserved
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:16:04.316916+00:00
 -- url     : https://prove2.me/theorems/cbf37841-1795-4605-bdcd-af2ed3b119ad

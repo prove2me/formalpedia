@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_AtG_height_h0_of_grid
 -- name    : Formalism.AtG.height_h0_of_grid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:42:51.467978+00:00
 -- url     : https://prove2.me/theorems/54343a52-b431-47e2-b9f7-e449a7662110

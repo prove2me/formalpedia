@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for InverseZeroSum.Candidate3.weighted_sum_plus_singleton_eq_double
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T05:40:27.77628+00:00
 -- url     : https://prove2.me/submissions/30220e84-f731-4c86-ab14-0d189462721d
 

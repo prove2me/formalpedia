@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for P2M_GroundTheory_Heights__Heights_linForm_single_50b347f8c25b
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-23T23:52:10.897828+00:00
 -- url     : https://prove2.me/submissions/e7ef7900-2b92-4308-adbe-e37839362d37
 

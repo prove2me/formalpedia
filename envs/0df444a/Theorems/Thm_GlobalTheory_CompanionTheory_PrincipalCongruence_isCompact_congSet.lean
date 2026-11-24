@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PrincipalCongruence_isCompact_congSet
 -- name    : GlobalTheory.CompanionTheory.PrincipalCongruence.isCompact_congSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:55:00.159209+00:00
 -- url     : https://prove2.me/theorems/86ec8986-d99a-4a1a-a52c-a1493d48ea2d

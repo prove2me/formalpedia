@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for FairChores.cbarSum_mono
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T03:22:36.715303+00:00
 -- url     : https://prove2.me/submissions/84c5a521-bce7-4eed-99f5-f9d4df2c30c8
 

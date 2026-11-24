@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MatrixLie_hasDerivAt_exp_mul_exp_of_finiteDimensional
 -- name    : GlobalTheory.CompanionTheory.MatrixLie.hasDerivAt_exp_mul_exp_of_finiteDimensional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:53:42.316426+00:00
 -- url     : https://prove2.me/theorems/90b2dab7-998a-4b8f-8db7-bd701f4c6f6d

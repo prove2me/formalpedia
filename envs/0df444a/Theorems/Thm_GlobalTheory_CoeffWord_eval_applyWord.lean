@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffWord_eval_applyWord
 -- name    : GlobalTheory.CoeffWord.eval_applyWord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:15:39.30981+00:00
 -- url     : https://prove2.me/theorems/f1bf5558-d81f-40a7-a02d-7f3ccf569fa4

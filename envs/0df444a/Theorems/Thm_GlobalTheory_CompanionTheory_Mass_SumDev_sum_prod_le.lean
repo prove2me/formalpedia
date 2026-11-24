@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Mass_SumDev_sum_prod_le
 -- name    : GlobalTheory.CompanionTheory.Mass.SumDev.sum_prod_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:53:54.156793+00:00
 -- url     : https://prove2.me/theorems/28f468c8-5b47-4306-b88c-f824c738667f

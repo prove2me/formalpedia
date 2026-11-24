@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HolMean_GaussianFamily_integrable_gauss_complex
 -- name    : GlobalTheory.CompanionTheory.HolMean.GaussianFamily.integrable_gauss_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:47:53.291589+00:00
 -- url     : https://prove2.me/theorems/74ae043f-f325-40af-b5d6-5343a1f4a3b1

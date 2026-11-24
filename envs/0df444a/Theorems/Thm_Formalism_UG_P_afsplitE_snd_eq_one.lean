@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_afsplitE_snd_eq_one
 -- name    : Formalism.UG.P.afsplitE_snd_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:33:52.648537+00:00
 -- url     : https://prove2.me/theorems/fcdea016-b8c5-4b7b-bc00-334929beb829

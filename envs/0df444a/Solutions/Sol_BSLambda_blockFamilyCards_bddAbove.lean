@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.blockFamilyCards_bddAbove
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:53:51.62309+00:00
 -- url     : https://prove2.me/submissions/f11c3f81-c3f2-4bde-a7c1-061abe8798eb
 

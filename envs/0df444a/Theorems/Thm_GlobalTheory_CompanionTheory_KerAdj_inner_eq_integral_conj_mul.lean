@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KerAdj_inner_eq_integral_conj_mul
 -- name    : GlobalTheory.CompanionTheory.KerAdj.inner_eq_integral_conj_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:51:21.941887+00:00
 -- url     : https://prove2.me/theorems/74a4bec7-3e2b-4eaa-8fde-bb1f4663f6d2

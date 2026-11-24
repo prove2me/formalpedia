@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_Basic_rk_eq_sum_trace
 -- name    : GlobalTheory.BadShare.Basic.rk_eq_sum_trace
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:58:59.576259+00:00
 -- url     : https://prove2.me/theorems/aadf296c-9958-4233-a9d2-579a41049b5d

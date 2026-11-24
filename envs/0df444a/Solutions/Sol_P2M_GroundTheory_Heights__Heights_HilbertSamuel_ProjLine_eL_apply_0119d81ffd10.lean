@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for P2M_GroundTheory_Heights__Heights_HilbertSamuel_ProjLine_eL_apply_0119d81ffd10
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-23T23:52:08.795037+00:00
 -- url     : https://prove2.me/submissions/a3363fff-19ab-4d29-ae66-ef459eea768a
 

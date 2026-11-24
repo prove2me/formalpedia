@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PatGrp_exists_nat_avg
 -- name    : GlobalTheory.CompanionTheory.PatGrp.exists_nat_avg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:54:15.310477+00:00
 -- url     : https://prove2.me/theorems/3f81e933-11ca-4090-af9a-af450aea8e52

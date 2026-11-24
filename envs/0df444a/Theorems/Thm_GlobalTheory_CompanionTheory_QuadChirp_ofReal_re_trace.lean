@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QuadChirp_ofReal_re_trace
 -- name    : GlobalTheory.CompanionTheory.QuadChirp.ofReal_re_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:56:19.695974+00:00
 -- url     : https://prove2.me/theorems/469972d6-1789-4fdb-974e-4ef879638e4e

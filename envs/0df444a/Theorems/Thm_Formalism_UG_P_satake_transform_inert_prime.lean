@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satake_transform_inert_prime
 -- name    : Formalism.UG.P.satake_transform_inert_prime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:27:36.647919+00:00
 -- url     : https://prove2.me/theorems/b76deb63-b114-44b7-8ff3-40b581100b1a

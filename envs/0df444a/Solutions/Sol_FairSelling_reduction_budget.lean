@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for FairSelling.reduction_budget
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T03:23:51.37892+00:00
 -- url     : https://prove2.me/submissions/1f79227d-f67c-4480-a7cd-bfaaed85fc08
 

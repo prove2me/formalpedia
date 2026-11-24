@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FlatCoker_flat_quotient_range_of_lTensor_injective
 -- name    : GlobalTheory.CompanionTheory.FlatCoker.flat_quotient_range_of_lTensor_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:41:13.194902+00:00
 -- url     : https://prove2.me/theorems/362a1935-9229-416d-837f-649474c9198d

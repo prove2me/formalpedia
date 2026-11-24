@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_secNorm_iff_chart
 -- name    : GlobalTheory.CompanionTheory.Ar.secNorm_iff_chart
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:11:44.338921+00:00
 -- url     : https://prove2.me/theorems/5b52be41-9c47-4ac2-8144-db13eea99b90

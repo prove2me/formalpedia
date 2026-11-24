@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KoszulBd_comm_cre
 -- name    : GlobalTheory.CompanionTheory.KoszulBd.comm_cre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:51:33.329898+00:00
 -- url     : https://prove2.me/theorems/817db10d-3cc8-4167-8ecc-a3103140e216

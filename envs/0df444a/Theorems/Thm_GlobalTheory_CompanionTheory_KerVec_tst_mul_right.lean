@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KerVec_tst_mul_right
 -- name    : GlobalTheory.CompanionTheory.KerVec.tst_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:50:52.457158+00:00
 -- url     : https://prove2.me/theorems/725162e1-c580-4ce4-9bf4-2b1977d7f818

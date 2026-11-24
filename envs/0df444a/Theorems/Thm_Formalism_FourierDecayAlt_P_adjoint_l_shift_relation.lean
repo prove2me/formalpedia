@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_adjoint_l_shift_relation
 -- name    : Formalism.FourierDecayAlt.P.adjoint_l_shift_relation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:47:05.864506+00:00
 -- url     : https://prove2.me/theorems/6c4794aa-7df8-4770-b969-e067d59a29bc

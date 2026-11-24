@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_IwContract_val_mul_entry
 -- name    : GlobalTheory.CompanionTheory.IwContract.val_mul_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:47:38.375039+00:00
 -- url     : https://prove2.me/theorems/f8d186a9-7da8-41ab-8789-71a9fe183125

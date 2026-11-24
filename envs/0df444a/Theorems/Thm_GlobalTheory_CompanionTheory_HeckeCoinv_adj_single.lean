@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeCoinv_adj_single
 -- name    : GlobalTheory.CompanionTheory.HeckeCoinv.adj_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:45:46.814391+00:00
 -- url     : https://prove2.me/theorems/8a88dc72-e79f-46df-9a0b-b3b3707bdaf6

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for P2M_GroundTheory_Heights__Heights_LocallyPrincipalCoprimeAlt_finite_maximal_of_ne_zero_b905aca18701
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T04:27:56.705885+00:00
 -- url     : https://prove2.me/submissions/c1dc628f-f055-4575-acc6-2c003d2bdccb
 

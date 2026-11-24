@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CapelliBlocks_Tm_stab
 -- name    : GlobalTheory.CompanionTheory.CapelliBlocks.Tm_stab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:27:17.524848+00:00
 -- url     : https://prove2.me/theorems/bfe242b5-a2b2-44b2-aef6-55eb214bb2d0

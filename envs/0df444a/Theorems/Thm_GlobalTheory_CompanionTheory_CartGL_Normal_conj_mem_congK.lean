@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartGL_Normal_conj_mem_congK
 -- name    : GlobalTheory.CompanionTheory.CartGL.Normal.conj_mem_congK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:27:00.031351+00:00
 -- url     : https://prove2.me/theorems/9f69898c-386e-4a3a-a245-26beeb759b1c

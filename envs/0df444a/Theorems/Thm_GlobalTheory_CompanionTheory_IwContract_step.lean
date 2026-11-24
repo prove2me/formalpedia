@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_IwContract_step
 -- name    : GlobalTheory.CompanionTheory.IwContract.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:47:53.879815+00:00
 -- url     : https://prove2.me/theorems/2f71f27e-ad7e-49b8-8d49-dcde3da88eaa

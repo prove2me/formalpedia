@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CommNil_succ_mul_finrank_map_le
 -- name    : GlobalTheory.CompanionTheory.CommNil.succ_mul_finrank_map_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:32:54.247008+00:00
 -- url     : https://prove2.me/theorems/bf170559-c0ea-4098-bf16-cbfd48e11ec5

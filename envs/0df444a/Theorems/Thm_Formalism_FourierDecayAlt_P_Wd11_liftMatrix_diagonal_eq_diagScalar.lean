@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd11_liftMatrix_diagonal_eq_diagScalar
 -- name    : Formalism.FourierDecayAlt.P.Wd11.liftMatrix_diagonal_eq_diagScalar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:48:03.318728+00:00
 -- url     : https://prove2.me/theorems/b211380f-d6d2-4973-a96a-accd6be59e91

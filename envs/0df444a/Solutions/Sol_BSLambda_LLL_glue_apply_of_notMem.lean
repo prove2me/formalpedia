@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.LLL.glue_apply_of_notMem
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:47:07.326268+00:00
 -- url     : https://prove2.me/submissions/58ed1357-fd6a-44a9-a8f6-6a1c8399dfda
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CellSumProof_cellSum_of_cntBasic
 -- name    : GlobalTheory.CompanionTheory.CellSumProof.cellSum_of_cntBasic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:32:20.059484+00:00
 -- url     : https://prove2.me/theorems/f6aef17e-888b-450f-a08a-11b290e495a5

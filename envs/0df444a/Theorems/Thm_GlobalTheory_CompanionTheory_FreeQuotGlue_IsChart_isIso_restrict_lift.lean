@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FreeQuotGlue_IsChart_isIso_restrict_lift
 -- name    : GlobalTheory.CompanionTheory.FreeQuotGlue.IsChart.isIso_restrict_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:41:20.679851+00:00
 -- url     : https://prove2.me/theorems/5a6bd7f9-98fc-443a-a5b1-da180bac4f19

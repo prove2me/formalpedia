@@ -1,6 +1,6 @@
 -- Prove2me | solution 2 for GroundTheory.PAdicHodge.compound_apply
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:44:55.485075+00:00
 -- url     : https://prove2.me/submissions/6d5fe33c-b0c7-4c3c-9f7b-28c52a80ebf5
 

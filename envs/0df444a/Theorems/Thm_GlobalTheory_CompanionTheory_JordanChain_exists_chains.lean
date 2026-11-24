@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_JordanChain_exists_chains
 -- name    : GlobalTheory.CompanionTheory.JordanChain.exists_chains
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:49:58.933153+00:00
 -- url     : https://prove2.me/theorems/e6925f2f-d5bb-464a-b923-be1b05b03d29

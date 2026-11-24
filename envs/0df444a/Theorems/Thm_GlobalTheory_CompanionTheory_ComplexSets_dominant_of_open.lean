@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ComplexSets_dominant_of_open
 -- name    : GlobalTheory.CompanionTheory.ComplexSets.dominant_of_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:33:16.059724+00:00
 -- url     : https://prove2.me/theorems/04e2b46f-8ec3-4de2-8bd9-aadc2a21e9b5

@@ -1,6 +1,6 @@
 -- Prove2me | solution 2 for P2M_GroundTheory_Heights__Heights_Inter_SwapCyclesAlt_isRelevant_of_le_9723e06f73a7
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:49:28.971055+00:00
 -- url     : https://prove2.me/submissions/69862714-5dcd-46fe-8e8c-955c523f016c
 

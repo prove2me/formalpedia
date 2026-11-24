@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CosetMod_indicator_mem_span
 -- name    : GlobalTheory.CompanionTheory.CosetMod.indicator_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:34:35.638508+00:00
 -- url     : https://prove2.me/theorems/c84f5e40-3ae1-4a78-80b3-16a2549a942c

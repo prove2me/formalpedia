@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_not_derivIdeal_le_pow
 -- name    : FunctorialResolution.EmbeddedResolution.not_derivIdeal_le_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:48:58.930897+00:00
 -- url     : https://prove2.me/theorems/95a15e43-90c8-4857-8027-6b57fffb165d

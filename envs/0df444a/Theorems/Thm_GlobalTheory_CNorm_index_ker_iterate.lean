@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_index_ker_iterate
 -- name    : GlobalTheory.CNorm.index_ker_iterate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:07:17.231873+00:00
 -- url     : https://prove2.me/theorems/795c27cb-d946-4f6e-814c-9b789ed3ad45

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AugCot_nonempty_basis_of_isStandardSmoothOfRelativeDimension
 -- name    : GlobalTheory.AugCot.nonempty_basis_of_isStandardSmoothOfRelativeDimension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:45:50.490925+00:00
 -- url     : https://prove2.me/theorems/06d261d8-1a35-45a0-86a3-01f3559722ee

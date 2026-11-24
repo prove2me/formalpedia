@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HermDiag_diagble_smul
 -- name    : GlobalTheory.CompanionTheory.HermDiag.diagble_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:48:29.806574+00:00
 -- url     : https://prove2.me/theorems/ca67fcb9-9fd2-4812-a3ec-0254b03e5050

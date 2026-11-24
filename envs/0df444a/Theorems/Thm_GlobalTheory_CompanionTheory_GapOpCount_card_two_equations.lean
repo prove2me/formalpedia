@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GapOpCount_card_two_equations
 -- name    : GlobalTheory.CompanionTheory.GapOpCount.card_two_equations
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:42:40.88806+00:00
 -- url     : https://prove2.me/theorems/a459d5cc-3a62-4238-b762-fdee32edc095

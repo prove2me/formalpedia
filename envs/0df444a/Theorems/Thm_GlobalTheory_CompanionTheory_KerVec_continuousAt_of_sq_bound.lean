@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KerVec_continuousAt_of_sq_bound
 -- name    : GlobalTheory.CompanionTheory.KerVec.continuousAt_of_sq_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:50:50.725413+00:00
 -- url     : https://prove2.me/theorems/8b28f80a-cee4-4f34-9e6b-8045591bd1f1

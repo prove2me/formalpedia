@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KernelComposition_integral_ker_mul_eq_unfolded
 -- name    : GlobalTheory.CompanionTheory.KernelComposition.integral_ker_mul_eq_unfolded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:50:30.151649+00:00
 -- url     : https://prove2.me/theorems/317fa61c-e6b0-47e8-9cc4-13accc98e95b

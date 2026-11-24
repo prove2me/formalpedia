@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_idealOrder_mul
 -- name    : FunctorialResolution.EmbeddedResolution.idealOrder_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:25:53.995459+00:00
 -- url     : https://prove2.me/theorems/a9f56c53-5724-4777-a6fa-f2240fdc715f

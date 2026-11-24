@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLevelIdx_kset_inv_mulVec
 -- name    : Formalism.MainNotions.BridgeLevelIdx.kset_inv_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:41:42.4698+00:00
 -- url     : https://prove2.me/theorems/19b71ae9-23be-4a73-8066-720dab41e240

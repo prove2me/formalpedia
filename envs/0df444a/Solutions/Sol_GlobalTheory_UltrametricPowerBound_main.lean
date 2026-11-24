@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GlobalTheory.UltrametricPowerBound.main
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T02:16:58.307798+00:00
 -- url     : https://prove2.me/submissions/f8ae242d-60d2-4191-aaed-5d98508405ad
 

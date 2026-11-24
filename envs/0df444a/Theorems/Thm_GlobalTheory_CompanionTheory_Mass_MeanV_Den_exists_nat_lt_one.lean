@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Mass_MeanV_Den_exists_nat_lt_one
 -- name    : GlobalTheory.CompanionTheory.Mass.MeanV.Den.exists_nat_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:52:29.744622+00:00
 -- url     : https://prove2.me/theorems/c4553f58-c14f-47e7-8b5f-4a959d42a4e4

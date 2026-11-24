@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KernelCount_cnt_ne_top
 -- name    : GlobalTheory.CompanionTheory.KernelCount.cnt_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:50:32.847175+00:00
 -- url     : https://prove2.me/theorems/b35cff05-6040-45d1-9841-25d2ba5a7964

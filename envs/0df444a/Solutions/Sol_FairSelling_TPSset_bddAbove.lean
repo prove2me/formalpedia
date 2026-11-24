@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for FairSelling.TPSset_bddAbove
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T01:35:48.536333+00:00
 -- url     : https://prove2.me/submissions/b249c2aa-4c8b-4ae1-bdb2-6d9eeb7146a8
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Iwahori_UpInv_sum_pieces
 -- name    : GlobalTheory.CompanionTheory.Iwahori.UpInv.sum_pieces
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:49:43.397955+00:00
 -- url     : https://prove2.me/theorems/de73929a-e20e-490e-b802-295e40bbe3c5

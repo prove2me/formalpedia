@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for PositivityTheory.Rg.Cz.SWS.integrable_of_cont
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T05:23:12.443257+00:00
 -- url     : https://prove2.me/submissions/4d044572-268a-4e26-bb86-02ab98469bea
 

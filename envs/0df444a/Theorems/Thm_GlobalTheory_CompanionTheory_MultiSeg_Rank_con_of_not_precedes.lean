@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MultiSeg_Rank_con_of_not_precedes
 -- name    : GlobalTheory.CompanionTheory.MultiSeg.Rank.con_of_not_precedes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:53:13.432927+00:00
 -- url     : https://prove2.me/theorems/024291fe-f88c-4a92-9ffc-e220a5c22324

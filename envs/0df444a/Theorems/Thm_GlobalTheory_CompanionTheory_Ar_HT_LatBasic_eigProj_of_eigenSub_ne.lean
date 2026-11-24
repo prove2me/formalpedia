@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_HT_LatBasic_eigProj_of_eigenSub_ne
 -- name    : GlobalTheory.CompanionTheory.Ar.HT.LatBasic.eigProj_of_eigenSub_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:18:53.18252+00:00
 -- url     : https://prove2.me/theorems/dd91f4f6-3192-4a51-852a-9d6f6fcc0877

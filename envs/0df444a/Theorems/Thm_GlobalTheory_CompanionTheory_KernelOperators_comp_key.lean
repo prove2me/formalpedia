@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KernelOperators_comp_key
 -- name    : GlobalTheory.CompanionTheory.KernelOperators.comp_key
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:50:51.685818+00:00
 -- url     : https://prove2.me/theorems/189b50a8-b129-4255-9235-f90230d7215c

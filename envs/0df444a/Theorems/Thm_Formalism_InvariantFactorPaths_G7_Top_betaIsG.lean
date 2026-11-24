@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_Top_betaIsG
 -- name    : Formalism.InvariantFactorPaths.G7.Top.betaIsG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:24:00.600744+00:00
 -- url     : https://prove2.me/theorems/d131ceee-bf22-4d77-8c76-0dd6e6448750

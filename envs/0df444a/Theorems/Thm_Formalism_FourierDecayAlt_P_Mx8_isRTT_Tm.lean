@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx8_isRTT_Tm
 -- name    : Formalism.FourierDecayAlt.P.Mx8.isRTT_Tm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:47:48.113853+00:00
 -- url     : https://prove2.me/theorems/de18eb3a-d634-4910-b7c3-979e3b04d074

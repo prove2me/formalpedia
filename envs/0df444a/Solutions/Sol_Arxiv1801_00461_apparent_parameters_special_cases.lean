@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Arxiv1801_00461.apparent_parameters_special_cases
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T04:15:49.519809+00:00
 -- url     : https://prove2.me/submissions/61d725c8-657a-4f39-9c57-ea1d76958563
 

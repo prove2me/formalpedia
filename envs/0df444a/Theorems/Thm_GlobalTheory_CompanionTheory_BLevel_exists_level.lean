@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BLevel_exists_level
 -- name    : GlobalTheory.CompanionTheory.BLevel.exists_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:20:30.90896+00:00
 -- url     : https://prove2.me/theorems/cb31c413-285b-4dfc-ae92-dc3b64d8a1d8

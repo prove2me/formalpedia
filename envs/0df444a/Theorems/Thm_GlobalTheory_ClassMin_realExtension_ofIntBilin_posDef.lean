@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassMin_realExtension_ofIntBilin_posDef
 -- name    : GlobalTheory.ClassMin.realExtension_ofIntBilin_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:36.112918+00:00
 -- url     : https://prove2.me/theorems/0db320ae-8b42-4503-8ab8-e9ef4e112b4e

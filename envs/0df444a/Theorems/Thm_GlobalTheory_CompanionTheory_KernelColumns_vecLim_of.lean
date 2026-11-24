@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KernelColumns_vecLim_of
 -- name    : GlobalTheory.CompanionTheory.KernelColumns.vecLim_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:50:14.718589+00:00
 -- url     : https://prove2.me/theorems/86613c90-4562-460f-bb63-1648613ba7a1

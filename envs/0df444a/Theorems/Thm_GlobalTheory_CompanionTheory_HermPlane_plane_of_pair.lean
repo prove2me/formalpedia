@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HermPlane_plane_of_pair
 -- name    : GlobalTheory.CompanionTheory.HermPlane.plane_of_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:48:38.696214+00:00
 -- url     : https://prove2.me/theorems/28f14721-214c-4ef4-8041-8642747f1d27

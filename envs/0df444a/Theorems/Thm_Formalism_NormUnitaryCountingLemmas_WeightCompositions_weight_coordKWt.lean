@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_WeightCompositions_weight_coordKWt
 -- name    : Formalism.NormUnitaryCountingLemmas.WeightCompositions.weight_coordKWt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:42:33.618898+00:00
 -- url     : https://prove2.me/theorems/ef369090-2936-492b-9073-4b0f98024e6b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_momentSignedExpToAbsExpV1
 -- name    : Kyprianou.Ch03.momentSignedExpToAbsExpV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T12:35:21.675801+00:00
 -- url     : https://prove2.me/theorems/4f6fcb19-506f-4464-9690-564b24cac025

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_standard_hermitian_form_definite
 -- name    : Formalism.UG.P.standard_hermitian_form_definite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:56:10.114018+00:00
 -- url     : https://prove2.me/theorems/64f48f12-1236-4bdd-a95e-bd6f794a2848

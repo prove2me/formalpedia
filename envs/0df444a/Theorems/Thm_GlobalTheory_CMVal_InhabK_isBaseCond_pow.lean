@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_InhabK_isBaseCond_pow
 -- name    : GlobalTheory.CMVal.InhabK.isBaseCond_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:07:40.468969+00:00
 -- url     : https://prove2.me/theorems/e28c2621-4797-4f4f-b39e-4fd52b543d07

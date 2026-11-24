@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Mass_MeanV_isStdV_measure_singleton_zero
 -- name    : GlobalTheory.CompanionTheory.Mass.MeanV.isStdV_measure_singleton_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:53:56.012431+00:00
 -- url     : https://prove2.me/theorems/11f3f5bb-2520-424c-a158-eb1fde9c0c2f

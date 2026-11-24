@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Mass_MeanV_Den_exists_pow_mul_le_one
 -- name    : GlobalTheory.CompanionTheory.Mass.MeanV.Den.exists_pow_mul_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:52:25.376291+00:00
 -- url     : https://prove2.me/theorems/8890cf93-9604-4827-80eb-5d5c1eb6e223

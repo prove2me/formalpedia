@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartGL_dPow_mem_closure_of_ge
 -- name    : GlobalTheory.CompanionTheory.CartGL.dPow_mem_closure_of_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:27:07.647095+00:00
 -- url     : https://prove2.me/theorems/5c0bceba-585e-4de6-bf89-cbc2c35bba85

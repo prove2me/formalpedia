@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.PartialAssign.mem_cube
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:47:12.874529+00:00
 -- url     : https://prove2.me/submissions/bbc193e8-1204-4b9e-9f17-e96cc4b4da0d
 

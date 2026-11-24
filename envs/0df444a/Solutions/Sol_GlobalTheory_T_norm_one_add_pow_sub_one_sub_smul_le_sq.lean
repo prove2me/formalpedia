@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GlobalTheory.T.norm_one_add_pow_sub_one_sub_smul_le_sq
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T03:09:19.023774+00:00
 -- url     : https://prove2.me/submissions/bfcb81f7-0249-47ec-af30-bd9f66c25c6b
 

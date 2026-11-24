@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Kloc_Fresnel_exists_scale
 -- name    : GlobalTheory.CompanionTheory.Kloc.Fresnel.exists_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:50:19.550311+00:00
 -- url     : https://prove2.me/theorems/08a82862-f061-40f4-8e1f-63efbf85d8db

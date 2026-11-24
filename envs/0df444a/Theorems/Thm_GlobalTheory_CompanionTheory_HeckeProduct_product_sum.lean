@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeProduct_product_sum
 -- name    : GlobalTheory.CompanionTheory.HeckeProduct.product_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:46:59.564048+00:00
 -- url     : https://prove2.me/theorems/1ce1d742-6da9-4725-83ca-df7388c18003

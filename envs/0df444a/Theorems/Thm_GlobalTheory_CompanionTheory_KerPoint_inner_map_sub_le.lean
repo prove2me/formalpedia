@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KerPoint_inner_map_sub_le
 -- name    : GlobalTheory.CompanionTheory.KerPoint.inner_map_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:51:03.472116+00:00
 -- url     : https://prove2.me/theorems/fbf613e0-6bbc-4461-8cd1-b6b946d9870a

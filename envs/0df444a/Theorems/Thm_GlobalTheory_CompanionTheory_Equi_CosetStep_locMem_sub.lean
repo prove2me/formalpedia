@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Equi_CosetStep_locMem_sub
 -- name    : GlobalTheory.CompanionTheory.Equi.CosetStep.locMem_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:40:53.148799+00:00
 -- url     : https://prove2.me/theorems/f5789edd-99ed-43fa-a81a-fa6af3937913

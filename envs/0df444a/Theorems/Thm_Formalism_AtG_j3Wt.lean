@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_AtG_j3Wt
 -- name    : Formalism.AtG.j3Wt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:43:39.498836+00:00
 -- url     : https://prove2.me/theorems/d4ca5da9-6ff4-40b2-8001-4c3078815dfc

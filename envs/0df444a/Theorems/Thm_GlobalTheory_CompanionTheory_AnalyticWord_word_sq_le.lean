@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AnalyticWord_word_sq_le
 -- name    : GlobalTheory.CompanionTheory.AnalyticWord.word_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:17:44.172045+00:00
 -- url     : https://prove2.me/theorems/8a8e9852-f73f-4b84-bb25-523c8a929540

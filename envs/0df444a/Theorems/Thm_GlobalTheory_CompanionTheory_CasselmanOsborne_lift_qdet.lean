@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CasselmanOsborne_lift_qdet
 -- name    : GlobalTheory.CompanionTheory.CasselmanOsborne.lift_qdet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:32:16.384937+00:00
 -- url     : https://prove2.me/theorems/d5b6658e-016a-4f4e-81e1-e8b8e40a5bba

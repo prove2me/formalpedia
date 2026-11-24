@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for P2M_GroundTheory_Heights__Heights_ChowlaSelberg_norm_intSeries_term_cbde42f63863
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:52:06.06677+00:00
 -- url     : https://prove2.me/submissions/306d40dc-371c-42e4-b787-3fbbf5d7d2e6
 

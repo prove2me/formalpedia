@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartGL_isCompact_congK
 -- name    : GlobalTheory.CompanionTheory.CartGL.isCompact_congK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:27:11.750659+00:00
 -- url     : https://prove2.me/theorems/84bb6b38-8492-45d6-8603-a720d921a4f2

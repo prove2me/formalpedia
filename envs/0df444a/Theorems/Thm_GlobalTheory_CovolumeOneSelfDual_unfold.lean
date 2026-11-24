@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CovolumeOneSelfDual_unfold
 -- name    : GlobalTheory.CovolumeOneSelfDual.unfold
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:40:40.452835+00:00
 -- url     : https://prove2.me/theorems/884b1c1e-019f-426a-8332-176623a28526

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HolMean_DilatedGaussian_continuous_dilated
 -- name    : GlobalTheory.CompanionTheory.HolMean.DilatedGaussian.continuous_dilated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:47:56.916063+00:00
 -- url     : https://prove2.me/theorems/2bae6e65-fd75-4127-89ee-6b23e8e635ff

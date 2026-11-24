@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MatrixRowSpace_span_rows_eq_top_iff
 -- name    : GlobalTheory.CompanionTheory.MatrixRowSpace.span_rows_eq_top_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:53:13.464432+00:00
 -- url     : https://prove2.me/theorems/e92e7a7c-2f00-4b3c-94de-00cde325270c

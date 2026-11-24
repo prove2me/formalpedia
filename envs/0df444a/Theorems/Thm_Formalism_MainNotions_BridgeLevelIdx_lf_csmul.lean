@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLevelIdx_lf_csmul
 -- name    : Formalism.MainNotions.BridgeLevelIdx.lf_csmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:40:45.327929+00:00
 -- url     : https://prove2.me/theorems/ef48e45b-018d-47b5-a48a-48095299ed2f

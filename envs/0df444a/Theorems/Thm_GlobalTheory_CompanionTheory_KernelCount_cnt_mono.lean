@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KernelCount_cnt_mono
 -- name    : GlobalTheory.CompanionTheory.KernelCount.cnt_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:50:51.606734+00:00
 -- url     : https://prove2.me/theorems/cd6c2414-c012-4e1f-a9a4-4c829246c1bb

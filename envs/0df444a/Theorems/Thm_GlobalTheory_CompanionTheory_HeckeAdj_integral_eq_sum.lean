@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeAdj_integral_eq_sum
 -- name    : GlobalTheory.CompanionTheory.HeckeAdj.integral_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:46:15.184678+00:00
 -- url     : https://prove2.me/theorems/3777dad7-bbca-4812-abfc-c744f26fbb08

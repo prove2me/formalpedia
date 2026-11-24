@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ComplexSets_irreducibleGermMeetOverHypersurface_of_finiteFibreGermIntegral
 -- name    : GlobalTheory.CompanionTheory.ComplexSets.irreducibleGermMeetOverHypersurface_of_finiteFibreGermIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:33:12.990068+00:00
 -- url     : https://prove2.me/theorems/ef9395b9-d2fa-4452-90d6-3b115c267935

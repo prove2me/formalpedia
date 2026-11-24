@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_hecke_assoc
 -- name    : Formalism.UG.P.hecke_assoc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:31:36.59233+00:00
 -- url     : https://prove2.me/theorems/9bfe0e21-7a0a-4eaa-a58e-2cdd22c793c4

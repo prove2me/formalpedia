@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_modF_mul_pos_principal
 -- name    : GlobalTheory.CMVal.modF_mul_pos_principal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:51:29.0678+00:00
 -- url     : https://prove2.me/theorems/b0ceafc0-4863-4185-8b87-60daf275cb15

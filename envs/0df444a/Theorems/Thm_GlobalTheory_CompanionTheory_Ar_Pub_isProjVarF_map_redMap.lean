@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_isProjVarF_map_redMap
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.isProjVarF_map_redMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:21:07.201929+00:00
 -- url     : https://prove2.me/theorems/02d18554-6d9f-42f6-88eb-4ceaebd1dfc5

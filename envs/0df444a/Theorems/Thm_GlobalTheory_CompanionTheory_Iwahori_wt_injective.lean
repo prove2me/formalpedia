@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Iwahori_wt_injective
 -- name    : GlobalTheory.CompanionTheory.Iwahori.wt_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:49:48.175563+00:00
 -- url     : https://prove2.me/theorems/e7400b97-50af-42af-8192-fffadbfc9d00

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_polar_decomposition_holds
 -- name    : Formalism.REAL.polar_decomposition_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:57:55.549818+00:00
 -- url     : https://prove2.me/theorems/d9fe3372-9674-4efe-87fb-e209e5939003

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_gram_leading_minor_lower_bound
 -- name    : GlobalTheory.ClassFin.gram_leading_minor_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:11:28.135801+00:00
 -- url     : https://prove2.me/theorems/98a71501-c1d7-4253-81f2-eb601e652d20

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactRep_exists_finiteDimensional_invariant
 -- name    : GlobalTheory.CompactRep.exists_finiteDimensional_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:16:12.402217+00:00
 -- url     : https://prove2.me/theorems/4fe54358-1541-4161-91c2-4f2a23c5e32e

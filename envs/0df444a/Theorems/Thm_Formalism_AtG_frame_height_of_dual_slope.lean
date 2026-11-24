@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_AtG_frame_height_of_dual_slope
 -- name    : Formalism.AtG.frame_height_of_dual_slope
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:43:16.366893+00:00
 -- url     : https://prove2.me/theorems/71cf2e0c-8422-45a5-950f-ddb0dc5e94b1

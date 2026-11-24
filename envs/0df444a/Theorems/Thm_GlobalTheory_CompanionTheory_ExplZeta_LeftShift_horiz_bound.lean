@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ExplZeta_LeftShift_horiz_bound
 -- name    : GlobalTheory.CompanionTheory.ExplZeta.LeftShift.horiz_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:37:57.198255+00:00
 -- url     : https://prove2.me/theorems/4ab59404-5d7f-40f8-aa5e-4db5ccd9287d

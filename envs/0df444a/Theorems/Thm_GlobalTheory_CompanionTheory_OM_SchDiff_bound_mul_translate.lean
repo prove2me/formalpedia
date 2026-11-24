@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_OM_SchDiff_bound_mul_translate
 -- name    : GlobalTheory.CompanionTheory.OM.SchDiff.bound_mul_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:53:22.838353+00:00
 -- url     : https://prove2.me/theorems/14ec753e-80e3-4c91-b619-281dbd509647

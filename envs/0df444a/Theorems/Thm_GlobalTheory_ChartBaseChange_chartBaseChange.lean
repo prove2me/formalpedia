@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartBaseChange_chartBaseChange
 -- name    : GlobalTheory.ChartBaseChange.chartBaseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:11:17.228889+00:00
 -- url     : https://prove2.me/theorems/a85e9322-e9e9-4dde-aa65-562a507fe626

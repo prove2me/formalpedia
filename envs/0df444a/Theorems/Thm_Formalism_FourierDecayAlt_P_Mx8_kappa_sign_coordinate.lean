@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx8_kappa_sign_coordinate
 -- name    : Formalism.FourierDecayAlt.P.Mx8.kappa_sign_coordinate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:48:28.169061+00:00
 -- url     : https://prove2.me/theorems/8ceaff65-f6c2-4e6c-b58e-6f6172419247

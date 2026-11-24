@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_frobenius_cauchy_schwarz
 -- name    : Formalism.REAL.frobenius_cauchy_schwarz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:42:02.796309+00:00
 -- url     : https://prove2.me/theorems/b0966f2f-dd9a-4e86-8977-4ee3ae9efe99

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_exists_split_unif_idele
 -- name    : GlobalTheory.CMVal.Euler.exists_split_unif_idele
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:04:38.567797+00:00
 -- url     : https://prove2.me/theorems/0ff80b3c-b856-4341-9474-1e6fc7c3e95e

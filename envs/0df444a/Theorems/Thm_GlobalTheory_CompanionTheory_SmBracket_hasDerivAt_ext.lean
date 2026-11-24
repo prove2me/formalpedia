@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmBracket_hasDerivAt_ext
 -- name    : GlobalTheory.CompanionTheory.SmBracket.hasDerivAt_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:40:33.979301+00:00
 -- url     : https://prove2.me/theorems/d257cd6a-34fd-49de-b34f-95308c2ea8dd

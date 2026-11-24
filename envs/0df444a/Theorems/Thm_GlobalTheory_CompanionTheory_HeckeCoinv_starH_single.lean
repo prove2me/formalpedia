@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeCoinv_starH_single
 -- name    : GlobalTheory.CompanionTheory.HeckeCoinv.starH_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:47:06.695171+00:00
 -- url     : https://prove2.me/theorems/d8fe6cdf-bbb2-4baf-8d40-2c051ad648e8

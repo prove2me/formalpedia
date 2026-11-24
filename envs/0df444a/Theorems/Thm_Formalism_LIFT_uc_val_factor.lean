@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_uc_val_factor
 -- name    : Formalism.LIFT.uc_val_factor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:57.903909+00:00
 -- url     : https://prove2.me/theorems/c310f831-16eb-4711-8b8d-5757596850bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_chartFraction_eq_mk
 -- name    : FunctorialResolution.Blowup.chartFraction_eq_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:40:22.236+00:00
 -- url     : https://prove2.me/theorems/bf14775e-de39-4b64-a021-f128750577d6

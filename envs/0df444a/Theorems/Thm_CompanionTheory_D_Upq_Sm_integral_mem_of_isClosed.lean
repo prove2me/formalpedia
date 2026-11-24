@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_Sm_integral_mem_of_isClosed
 -- name    : CompanionTheory.D.Upq.Sm.integral_mem_of_isClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:41:12.272374+00:00
 -- url     : https://prove2.me/theorems/6d6d4de4-914e-4072-8c5e-f91a4a85ccc4

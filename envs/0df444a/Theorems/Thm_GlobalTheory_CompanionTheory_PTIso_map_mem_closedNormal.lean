@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PTIso_map_mem_closedNormal
 -- name    : GlobalTheory.CompanionTheory.PTIso.map_mem_closedNormal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:54:26.489905+00:00
 -- url     : https://prove2.me/theorems/68555a45-9856-459b-9a82-1d34a0dad81c

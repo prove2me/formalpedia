@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_continuous_exp_neg_smul
 -- name    : Formalism.REAL.continuous_exp_neg_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:42:53.20715+00:00
 -- url     : https://prove2.me/theorems/35f0ed97-ad36-44fc-aced-ae7d84f8aea4

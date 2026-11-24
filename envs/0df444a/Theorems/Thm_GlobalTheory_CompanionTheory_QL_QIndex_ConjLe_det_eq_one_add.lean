@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_QIndex_ConjLe_det_eq_one_add
 -- name    : GlobalTheory.CompanionTheory.QL.QIndex.ConjLe.det_eq_one_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:56:00.139874+00:00
 -- url     : https://prove2.me/theorems/b0cc305b-c6f0-4c24-ab4a-1d123d9cc6f0

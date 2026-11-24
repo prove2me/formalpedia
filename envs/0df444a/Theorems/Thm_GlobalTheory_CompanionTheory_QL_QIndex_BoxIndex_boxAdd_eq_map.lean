@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_QIndex_BoxIndex_boxAdd_eq_map
 -- name    : GlobalTheory.CompanionTheory.QL.QIndex.BoxIndex.boxAdd_eq_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:57:19.00369+00:00
 -- url     : https://prove2.me/theorems/d6f16b16-527e-4f2a-bc2e-6c0e5fbee682

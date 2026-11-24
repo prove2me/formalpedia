@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Kloc_Fresnel_integral_fourier_schwartz
 -- name    : GlobalTheory.CompanionTheory.Kloc.Fresnel.integral_fourier_schwartz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:50:51.286093+00:00
 -- url     : https://prove2.me/theorems/4839e433-4789-4865-b68b-c8cab15d9638

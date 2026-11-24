@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GlobalTheory.map_saturation_of_injective
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T04:52:35.045058+00:00
 -- url     : https://prove2.me/submissions/bf3c4e2b-0f49-456a-b3ca-c53a27e6f330
 

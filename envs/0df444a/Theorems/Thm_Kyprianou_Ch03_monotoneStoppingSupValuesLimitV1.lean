@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_monotoneStoppingSupValuesLimitV1
 -- name    : Kyprianou.Ch03.monotoneStoppingSupValuesLimitV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T12:14:03.490803+00:00
 -- url     : https://prove2.me/theorems/d4fa7c89-0982-45fe-abee-f274ffd0a623

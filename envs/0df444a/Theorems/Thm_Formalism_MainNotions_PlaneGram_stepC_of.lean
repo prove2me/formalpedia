@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_stepC_of
 -- name    : Formalism.MainNotions.PlaneGram.stepC_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:08:21.307374+00:00
 -- url     : https://prove2.me/theorems/055d29ea-3bf1-448b-9cee-118eb956bda4

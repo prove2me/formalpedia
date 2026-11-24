@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BalanceSpecification.block_chain_le
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T02:10:45.290799+00:00
 -- url     : https://prove2.me/submissions/f59e8489-30b4-4e7d-b3b6-1d00026ba242
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSICKoszul_euler_filt
 -- name    : GlobalTheory.CompanionTheory.DSICKoszul.euler_filt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:06:13.680864+00:00
 -- url     : https://prove2.me/theorems/52b6d534-b2e0-42e2-8cec-fe7a5190e898

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_U0_exists_trace_mul
 -- name    : Formalism.HermitianLattices.Ext.L3.U0.exists_trace_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:32:25.616499+00:00
 -- url     : https://prove2.me/theorems/5dd140fd-2b08-4a95-83aa-93833d14e0a3

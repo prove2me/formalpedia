@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartRing_X_sub_C_dvd_sub_C
 -- name    : GlobalTheory.ChartRing.X_sub_C_dvd_sub_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:09:20.441678+00:00
 -- url     : https://prove2.me/theorems/8c95bd2d-383a-4247-8426-44caaa2641ba

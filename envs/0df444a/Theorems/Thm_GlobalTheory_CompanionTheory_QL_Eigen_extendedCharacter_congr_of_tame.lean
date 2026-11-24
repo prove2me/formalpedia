@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_Eigen_extendedCharacter_congr_of_tame
 -- name    : GlobalTheory.CompanionTheory.QL.Eigen.extendedCharacter_congr_of_tame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:56:57.026835+00:00
 -- url     : https://prove2.me/theorems/640e5af1-a859-4bdd-ac84-f2506cad981d

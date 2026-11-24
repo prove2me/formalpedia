@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Mass_SumDev_mem_prod_asIdeal
 -- name    : GlobalTheory.CompanionTheory.Mass.SumDev.mem_prod_asIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:53:47.737389+00:00
 -- url     : https://prove2.me/theorems/aeff9192-ec31-4df5-a301-c30c368ccd7b

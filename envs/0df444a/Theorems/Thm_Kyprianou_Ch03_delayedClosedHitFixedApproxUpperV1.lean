@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_delayedClosedHitFixedApproxUpperV1
 -- name    : Kyprianou.Ch03.delayedClosedHitFixedApproxUpperV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T12:33:51.451808+00:00
 -- url     : https://prove2.me/theorems/e5d15789-5be3-4965-8785-abb96756873c

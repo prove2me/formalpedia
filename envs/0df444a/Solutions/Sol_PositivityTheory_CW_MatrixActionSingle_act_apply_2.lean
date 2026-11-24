@@ -1,6 +1,6 @@
 -- Prove2me | solution 2 for PositivityTheory.CW.MatrixActionSingle.act_apply
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-23T22:51:14.434156+00:00
 -- url     : https://prove2.me/submissions/45ba2621-b989-46d0-b688-b0a72a8c2b7e
 

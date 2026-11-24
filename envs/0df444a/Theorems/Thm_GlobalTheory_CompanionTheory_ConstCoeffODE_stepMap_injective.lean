@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ConstCoeffODE_stepMap_injective
 -- name    : GlobalTheory.CompanionTheory.ConstCoeffODE.stepMap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:12:42.752154+00:00
 -- url     : https://prove2.me/theorems/055321cd-ee3b-4244-926d-63a0d70448bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_frobenius_mul_le
 -- name    : Formalism.REAL.frobenius_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:38:57.038407+00:00
 -- url     : https://prove2.me/theorems/2479b284-1540-43c1-9617-50dc89f3bde2

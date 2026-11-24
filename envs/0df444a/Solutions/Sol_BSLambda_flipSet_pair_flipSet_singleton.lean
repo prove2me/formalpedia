@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.flipSet_pair_flipSet_singleton
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:52:15.239153+00:00
 -- url     : https://prove2.me/submissions/d0380161-7796-4366-952f-4fc28c3851c9
 

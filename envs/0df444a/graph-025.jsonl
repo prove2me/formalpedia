@@ -27659,9 +27659,9 @@
 {"parent": "ZamirInversion581.Mult.proposition_2_1", "child": "ZamirInversion581_Mult_Machine", "via": ["statement"]}
 {"parent": "ZamirInversion581.Mult.proposition_2_1", "child": "ZamirInversion581_Mult_Uniform", "via": ["statement"]}
 {"parent": "GirthBethe_Sharp_LocalFunctionals", "child": "FuchsThesis_Types_entropy", "via": ["statement"]}
-{"parent": "QueryDepthMIS.corollary_2_12", "child": "PunctSketch_coinProb", "via": ["statement"]}
-{"parent": "QueryDepthMIS.corollary_2_12", "child": "QueryDepthMIS_rank", "via": ["statement"]}
-{"parent": "QueryDepthMIS.corollary_2_12", "child": "QueryDepthMIS_Z", "via": ["statement"]}
+{"parent": "QueryDepthMIS.corollary_2_12", "child": "PunctSketch_coinProb", "via": ["solution", "statement"]}
+{"parent": "QueryDepthMIS.corollary_2_12", "child": "QueryDepthMIS_rank", "via": ["solution", "statement"]}
+{"parent": "QueryDepthMIS.corollary_2_12", "child": "QueryDepthMIS_Z", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.hyperbolicVolume_invariant_mul", "child": "OAI_NumberTheory_DirichletL_Eisenstein_HyperbolicVolume", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.hyperbolicVolume_invariant_mul", "child": "OAI_NumberTheory_DirichletL_CubicSieve_ArithmeticBins", "via": ["solution", "statement"]}
 {"parent": "GaussProcSparsify.Optimal.theorem_1", "child": "GaussProcSparsify_Optimal_Gaussian", "via": ["statement"]}
@@ -32844,9 +32844,9 @@
 {"parent": "OAI.SharpPlanar.CachedData.hm33_0_0_2.s5_eq_g", "child": "OAIQ098G1143", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm33_0_0_2.s5_eq_g", "child": "OAIQ098G1149", "via": ["solution", "statement"]}
 {"parent": "LocalLLL.Main.lemma_3_1", "child": "LocalLLL_Main_Repair", "via": ["statement"]}
-{"parent": "QueryDepthMIS.lemma_2_11", "child": "QueryDepthMIS_rank", "via": ["statement"]}
-{"parent": "QueryDepthMIS.lemma_2_11", "child": "NoSignalPA_uniformExp", "via": ["statement"]}
-{"parent": "QueryDepthMIS.lemma_2_11", "child": "QueryDepthMIS_Z", "via": ["statement"]}
+{"parent": "QueryDepthMIS.lemma_2_11", "child": "QueryDepthMIS_rank", "via": ["solution", "statement"]}
+{"parent": "QueryDepthMIS.lemma_2_11", "child": "NoSignalPA_uniformExp", "via": ["solution", "statement"]}
+{"parent": "QueryDepthMIS.lemma_2_11", "child": "QueryDepthMIS_Z", "via": ["solution", "statement"]}
 {"parent": "FourBlockIP_FPT_Polyhedra", "child": "FourBlockIP_FPT_Data", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.trans69_contains_g", "child": "OAIQ098G072", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.trans69_contains_g", "child": "OAIQ098G083", "via": ["solution", "statement"]}
@@ -38364,7 +38364,7 @@
 {"parent": "NadlerCLS.lemma_C_8", "child": "NadlerCLS_coSearch", "via": ["statement"]}
 {"parent": "NadlerCLS.lemma_C_8", "child": "NadlerCLS_pnPromiseSearch", "via": ["statement"]}
 {"parent": "PfaffianRecognition.Recognition.orientation_test", "child": "PfaffianRecognition_Recognition_computation_model", "via": ["statement"]}
-{"parent": "QueryDepthMIS.lemma_3_3", "child": "QueryDepthMIS_TwoHopBound", "via": ["statement"]}
+{"parent": "QueryDepthMIS.lemma_3_3", "child": "QueryDepthMIS_TwoHopBound", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.Numerical.U100.entry4_0_contains_g", "child": "OAIQ098G185", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.Numerical.U100.entry4_0_contains_g", "child": "OAIQ098G083", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.Numerical.U100.entry4_0_contains_g", "child": "OAIQ098G319", "via": ["solution", "statement"]}

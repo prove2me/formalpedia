@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_topologicalKrullDim_eq_of_homeomorph
 -- name    : FunctorialResolution.EmbeddedResolution.topologicalKrullDim_eq_of_homeomorph
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:47:58.032808+00:00
 -- url     : https://prove2.me/theorems/87f681ee-5605-48fd-8dcc-c2a0873cd7ab

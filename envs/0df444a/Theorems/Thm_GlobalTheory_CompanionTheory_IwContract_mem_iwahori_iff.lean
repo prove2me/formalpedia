@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_IwContract_mem_iwahori_iff
 -- name    : GlobalTheory.CompanionTheory.IwContract.mem_iwahori_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:48:17.061837+00:00
 -- url     : https://prove2.me/theorems/c4c48b84-19f4-487d-9a43-e3a89261add1

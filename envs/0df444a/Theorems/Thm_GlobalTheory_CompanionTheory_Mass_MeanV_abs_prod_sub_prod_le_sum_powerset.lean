@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Mass_MeanV_abs_prod_sub_prod_le_sum_powerset
 -- name    : GlobalTheory.CompanionTheory.Mass.MeanV.abs_prod_sub_prod_le_sum_powerset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:52:25.536872+00:00
 -- url     : https://prove2.me/theorems/bf5e86c6-0765-413d-be6e-abfb9fc39b48

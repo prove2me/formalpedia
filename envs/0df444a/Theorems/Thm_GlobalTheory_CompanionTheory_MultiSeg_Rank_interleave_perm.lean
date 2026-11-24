@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MultiSeg_Rank_interleave_perm
 -- name    : GlobalTheory.CompanionTheory.MultiSeg.Rank.interleave_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:53:09.281634+00:00
 -- url     : https://prove2.me/theorems/0da67b32-fe80-4c0a-953b-e6dbfe82f9b1

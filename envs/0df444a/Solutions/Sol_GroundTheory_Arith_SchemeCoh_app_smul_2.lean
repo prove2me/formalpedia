@@ -1,6 +1,6 @@
 -- Prove2me | solution 2 for GroundTheory.Arith.SchemeCoh.app_smul
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:44:58.122036+00:00
 -- url     : https://prove2.me/submissions/58cd1f75-e348-49db-b57a-dd339f3505a8
 

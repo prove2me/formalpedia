@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GroundTheory.Global.primeIdealZetaSum_higherDegreePrimes_le
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T04:04:49.793798+00:00
 -- url     : https://prove2.me/submissions/c0f43c4a-95ce-4ed7-b0db-06da3c01d739
 

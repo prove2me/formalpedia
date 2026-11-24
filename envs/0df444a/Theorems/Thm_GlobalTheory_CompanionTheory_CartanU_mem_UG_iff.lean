@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartanU_mem_UG_iff
 -- name    : GlobalTheory.CompanionTheory.CartanU.mem_UG_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:58:09.433878+00:00
 -- url     : https://prove2.me/theorems/b218ac95-eb3f-4c91-aa55-b3cbe9691d5b

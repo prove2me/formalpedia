@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_eabV_eq
 -- name    : Formalism.REAL.eabV_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:38:50.761798+00:00
 -- url     : https://prove2.me/theorems/0cb8152a-9d07-48d5-8aaa-7f0e3d6d45da

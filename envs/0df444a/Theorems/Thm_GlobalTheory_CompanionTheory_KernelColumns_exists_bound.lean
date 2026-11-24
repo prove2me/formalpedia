@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KernelColumns_exists_bound
 -- name    : GlobalTheory.CompanionTheory.KernelColumns.exists_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:51:01.604883+00:00
 -- url     : https://prove2.me/theorems/40fb6090-8a10-45e2-ac82-c789c3a51c9c

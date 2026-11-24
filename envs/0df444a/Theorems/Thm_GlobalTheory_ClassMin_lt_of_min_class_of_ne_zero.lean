@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassMin_lt_of_min_class_of_ne_zero
 -- name    : GlobalTheory.ClassMin.lt_of_min_class_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:11:29.600967+00:00
 -- url     : https://prove2.me/theorems/cbbf788c-881d-47ce-8ed2-6711cc7c589a

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Kyprianou.Ch02.unitIntervalPowerDifferenceBoundV1
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:31:49.535489+00:00
 -- url     : https://prove2.me/submissions/13f18d04-54fa-4e2c-b062-5139bc2641f0
 

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GlobalTheory.Inertia.posIndex_le
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T03:18:41.487154+00:00
 -- url     : https://prove2.me/submissions/63325da7-b8d6-44b9-93d0-89fb7e6706e7
 

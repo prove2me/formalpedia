@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_PlFrame_c_eq_zero_iff
 -- name    : GlobalTheory.RowLev.PlFrame.c_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:39:13.542132+00:00
 -- url     : https://prove2.me/theorems/7faff1a7-b06b-4f53-968e-29b4b52840d1

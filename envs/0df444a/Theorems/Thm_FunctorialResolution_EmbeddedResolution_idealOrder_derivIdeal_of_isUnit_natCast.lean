@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_idealOrder_derivIdeal_of_isUnit_natCast
 -- name    : FunctorialResolution.EmbeddedResolution.idealOrder_derivIdeal_of_isUnit_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:47:47.970935+00:00
 -- url     : https://prove2.me/theorems/d9c9f133-a33e-498c-80b5-3de7e0312b54

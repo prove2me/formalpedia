@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PrimesAP_le_integral_inv_log
 -- name    : GlobalTheory.CompanionTheory.PrimesAP.le_integral_inv_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:54:54.245808+00:00
 -- url     : https://prove2.me/theorems/4c45ae8c-e8b5-4d68-8d44-cf1d239f826c

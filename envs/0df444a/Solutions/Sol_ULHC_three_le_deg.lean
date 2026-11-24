@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ULHC.three_le_deg
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T03:35:50.456817+00:00
 -- url     : https://prove2.me/submissions/1f86049c-1fee-4f99-bf36-6387a3cf0a4a
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_rdV_eq
 -- name    : Formalism.REAL.rdV_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:40:17.057917+00:00
 -- url     : https://prove2.me/theorems/b477f018-e91d-4306-8ea9-48e2f83914f0

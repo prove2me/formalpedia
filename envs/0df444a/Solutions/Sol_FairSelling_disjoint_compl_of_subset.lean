@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for FairSelling.disjoint_compl_of_subset
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T02:11:34.978801+00:00
 -- url     : https://prove2.me/submissions/ed015edd-7d76-4742-9c71-421202cc9bff
 

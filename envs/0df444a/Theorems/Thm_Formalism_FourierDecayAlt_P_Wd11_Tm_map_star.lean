@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd11_Tm_map_star
 -- name    : Formalism.FourierDecayAlt.P.Wd11.Tm_map_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:47:30.522773+00:00
 -- url     : https://prove2.me/theorems/a88e0e3e-699c-4377-b451-daf14c2b905d

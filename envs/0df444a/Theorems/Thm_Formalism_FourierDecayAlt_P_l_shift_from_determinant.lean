@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_l_shift_from_determinant
 -- name    : Formalism.FourierDecayAlt.P.l_shift_from_determinant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:48:24.954433+00:00
 -- url     : https://prove2.me/theorems/e8c74b74-6241-484f-bd58-fae028b4d2c9

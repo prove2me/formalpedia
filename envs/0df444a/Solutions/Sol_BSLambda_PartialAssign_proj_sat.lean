@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.PartialAssign.proj_sat
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:47:16.366223+00:00
 -- url     : https://prove2.me/submissions/b4bb9ccf-7d98-42fe-b9ba-09860abd1f73
 

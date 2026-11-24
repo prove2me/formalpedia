@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_exists_isAlgebraicChart_of_away
 -- name    : GlobalTheory.AffinePoints.exists_isAlgebraicChart_of_away
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:18:31.466109+00:00
 -- url     : https://prove2.me/theorems/abef08fe-87bc-4ded-8810-d4a1bb90bfe9

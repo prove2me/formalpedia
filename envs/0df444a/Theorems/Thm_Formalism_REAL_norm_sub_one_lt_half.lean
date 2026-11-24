@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_norm_sub_one_lt_half
 -- name    : Formalism.REAL.norm_sub_one_lt_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:22:51.740015+00:00
 -- url     : https://prove2.me/theorems/6071d8fd-a52f-494d-b507-89b126d60a3a

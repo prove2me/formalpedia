@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ColengthDifferent_colength_dvd_of_ne_zero
 -- name    : GlobalTheory.ColengthDifferent.colength_dvd_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:14:29.406801+00:00
 -- url     : https://prove2.me/theorems/6dea0fdf-7f66-4ca3-8bbd-b89cfd813833

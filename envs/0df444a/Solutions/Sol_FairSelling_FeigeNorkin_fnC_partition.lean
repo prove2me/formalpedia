@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for FairSelling.FeigeNorkin.fnC_partition
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T03:27:43.575584+00:00
 -- url     : https://prove2.me/submissions/301f42f2-36e5-4c9d-9bb4-9d99e26c3f04
 

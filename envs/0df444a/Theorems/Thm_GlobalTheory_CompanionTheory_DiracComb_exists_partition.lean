@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DiracComb_exists_partition
 -- name    : GlobalTheory.CompanionTheory.DiracComb.exists_partition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:36:43.713307+00:00
 -- url     : https://prove2.me/theorems/a32f4e25-28fa-495e-a9a5-6723e0d2bd2f

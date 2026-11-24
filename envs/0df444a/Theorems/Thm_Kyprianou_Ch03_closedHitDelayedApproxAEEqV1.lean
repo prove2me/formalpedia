@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_closedHitDelayedApproxAEEqV1
 -- name    : Kyprianou.Ch03.closedHitDelayedApproxAEEqV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T10:08:24.327661+00:00
 -- url     : https://prove2.me/theorems/aa5e4ca6-d1e5-4a2b-8bdb-3230a11b3dad

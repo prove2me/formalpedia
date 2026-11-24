@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.flipSet_singleton_injective
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:52:12.821409+00:00
 -- url     : https://prove2.me/submissions/bdd66d6e-0f9b-445a-aa03-a42bde75f4aa
 

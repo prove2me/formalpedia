@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd11_mul_diagScalar_apply
 -- name    : Formalism.FourierDecayAlt.P.Wd11.mul_diagScalar_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:47:40.469474+00:00
 -- url     : https://prove2.me/theorems/cd24cfc2-afa0-4290-aadb-0611f31303f5

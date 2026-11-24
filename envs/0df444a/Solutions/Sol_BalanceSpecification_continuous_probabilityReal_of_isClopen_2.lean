@@ -1,6 +1,6 @@
 -- Prove2me | solution 2 for BalanceSpecification.continuous_probabilityReal_of_isClopen
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T03:13:55.385198+00:00
 -- url     : https://prove2.me/submissions/b963f7c7-45f6-458d-a32d-1b1b91d0684a
 

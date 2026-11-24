@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_IwahoriUDL_fromBlocks_udl
 -- name    : GlobalTheory.CompanionTheory.IwahoriUDL.fromBlocks_udl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:49:32.315236+00:00
 -- url     : https://prove2.me/theorems/3edc643b-4855-457c-9a8f-1c6780a3d538

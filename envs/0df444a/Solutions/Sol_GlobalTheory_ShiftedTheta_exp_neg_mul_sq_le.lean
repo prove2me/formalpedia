@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GlobalTheory.ShiftedTheta.exp_neg_mul_sq_le
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T02:06:20.376998+00:00
 -- url     : https://prove2.me/submissions/e6cbb923-31df-43b3-8c33-841d29ebd31d
 

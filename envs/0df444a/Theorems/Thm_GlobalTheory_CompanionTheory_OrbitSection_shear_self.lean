@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_OrbitSection_shear_self
 -- name    : GlobalTheory.CompanionTheory.OrbitSection.shear_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:53:23.532928+00:00
 -- url     : https://prove2.me/theorems/81046e66-31cb-4a08-a03b-4a7da7691f33

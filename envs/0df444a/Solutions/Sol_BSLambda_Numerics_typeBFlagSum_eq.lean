@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.Numerics.typeBFlagSum_eq
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T01:29:53.12084+00:00
 -- url     : https://prove2.me/submissions/b63f4b96-ead5-4feb-8b32-6a165d480dbf
 

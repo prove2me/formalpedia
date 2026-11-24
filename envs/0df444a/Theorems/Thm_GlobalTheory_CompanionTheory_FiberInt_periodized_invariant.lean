@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FiberInt_periodized_invariant
 -- name    : GlobalTheory.CompanionTheory.FiberInt.periodized_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:39:21.394662+00:00
 -- url     : https://prove2.me/theorems/4e98d983-a198-4fcd-963b-a40e94b639e5

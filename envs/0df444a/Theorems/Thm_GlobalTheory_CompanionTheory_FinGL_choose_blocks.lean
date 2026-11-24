@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinGL_choose_blocks
 -- name    : GlobalTheory.CompanionTheory.FinGL.choose_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:40:02.000121+00:00
 -- url     : https://prove2.me/theorems/e370975e-a4e0-4aab-83b7-cb436e4a402b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_tjcosets_ff_count
 -- name    : Formalism.UG.P.tjcosets_ff_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:36:56.577794+00:00
 -- url     : https://prove2.me/theorems/0ef9f53b-614f-408b-b89b-cc41789c76d7

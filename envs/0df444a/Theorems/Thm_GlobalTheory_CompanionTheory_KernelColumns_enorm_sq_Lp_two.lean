@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KernelColumns_enorm_sq_Lp_two
 -- name    : GlobalTheory.CompanionTheory.KernelColumns.enorm_sq_Lp_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:51:04.797195+00:00
 -- url     : https://prove2.me/theorems/9602708b-ab0b-4ee0-899b-1da88dcdec85

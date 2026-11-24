@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for P2M_GroundTheory_Heights__Heights_InvertibleIdealIndexAlt_mem_one_of_mem_62c5ae2e4464
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T05:44:43.012849+00:00
 -- url     : https://prove2.me/submissions/306adea4-0eb1-4280-9123-77ed639d19dc
 

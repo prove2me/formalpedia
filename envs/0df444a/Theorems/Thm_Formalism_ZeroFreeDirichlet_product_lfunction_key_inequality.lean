@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_product_lfunction_key_inequality
 -- name    : Formalism.ZeroFreeDirichlet.product_lfunction_key_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:44:12.561877+00:00
 -- url     : https://prove2.me/theorems/2109ba35-b16e-464d-8807-831c21e60798

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LKDens_ev_psi
 -- name    : GlobalTheory.CompanionTheory.LKDens.ev_psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:52:07.015793+00:00
 -- url     : https://prove2.me/theorems/899ca9eb-a563-472b-8883-6af9c805f5d5

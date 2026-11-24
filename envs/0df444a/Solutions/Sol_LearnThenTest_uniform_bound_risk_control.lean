@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for LearnThenTest.uniform_bound_risk_control
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:29:42.212806+00:00
 -- url     : https://prove2.me/submissions/a7f91660-aa7d-4192-a239-0d55c30a1a60
 

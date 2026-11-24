@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_classicalZeroFreeRegionOfBounds
 -- name    : Formalism.ZF.classicalZeroFreeRegionOfBounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:40:57.997973+00:00
 -- url     : https://prove2.me/theorems/7231f227-89ad-410f-b6aa-86125e648307

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.Construction.exists_conflict_of_ne
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:50:34.841784+00:00
 -- url     : https://prove2.me/submissions/7dfe2309-34fc-406e-b258-0217ded15624
 

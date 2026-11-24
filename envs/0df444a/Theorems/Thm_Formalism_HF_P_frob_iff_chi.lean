@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HF_P_frob_iff_chi
 -- name    : Formalism.HF.P.frob_iff_chi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:55.530124+00:00
 -- url     : https://prove2.me/theorems/63a28cc8-202c-48a2-937a-06ccc0402c68

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PRep_twKer_eq_map_of_surjective
 -- name    : GlobalTheory.CompanionTheory.PRep.twKer_eq_map_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:54:56.742931+00:00
 -- url     : https://prove2.me/theorems/1ddd656c-7b40-4153-bee3-d0befeb14656

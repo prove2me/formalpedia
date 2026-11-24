@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_finsum_mul_star_virt_int
 -- name    : GlobalTheory.BI.finsum_mul_star_virt_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:59:10.291742+00:00
 -- url     : https://prove2.me/theorems/cc8567fd-91be-4bff-8d96-5f69c835768f

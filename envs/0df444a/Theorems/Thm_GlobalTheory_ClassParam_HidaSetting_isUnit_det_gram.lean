@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassParam_HidaSetting_isUnit_det_gram
 -- name    : GlobalTheory.ClassParam.HidaSetting.isUnit_det_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:13:17.506687+00:00
 -- url     : https://prove2.me/theorems/fd44c685-05e4-4979-9a63-340b7944c472

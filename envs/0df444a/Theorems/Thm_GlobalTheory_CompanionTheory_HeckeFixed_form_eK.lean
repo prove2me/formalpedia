@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeFixed_form_eK
 -- name    : GlobalTheory.CompanionTheory.HeckeFixed.form_eK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:46:34.424798+00:00
 -- url     : https://prove2.me/theorems/7fba92f1-317d-4d2e-b979-d2ed454a7f8d

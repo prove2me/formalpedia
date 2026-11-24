@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EisTube_fourierInvCoord
 -- name    : GlobalTheory.CompanionTheory.EisTube.fourierInvCoord
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:12:21.516706+00:00
 -- url     : https://prove2.me/theorems/e9636ff5-ff06-4710-8027-9d8d42a7dfc7

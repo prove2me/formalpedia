@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_Final_submoduleIndexCountO
 -- name    : Formalism.SLP.Final.submoduleIndexCountO
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:10:01.074803+00:00
 -- url     : https://prove2.me/theorems/2cae2461-e74a-46f0-83c5-36deb4d4be60

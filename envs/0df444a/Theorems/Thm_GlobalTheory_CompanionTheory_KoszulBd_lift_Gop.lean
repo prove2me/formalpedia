@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KoszulBd_lift_Gop
 -- name    : GlobalTheory.CompanionTheory.KoszulBd.lift_Gop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:52:34.44615+00:00
 -- url     : https://prove2.me/theorems/2832e1c7-25ce-45ec-81b3-c73efebd5368

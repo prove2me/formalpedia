@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KmCover_exists_reps
 -- name    : GlobalTheory.CompanionTheory.KmCover.exists_reps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:50:50.210321+00:00
 -- url     : https://prove2.me/theorems/5549ec02-25dc-438f-8180-b1dbffb1b067

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KerAdj_pairing_swap
 -- name    : GlobalTheory.CompanionTheory.KerAdj.pairing_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:50:46.868801+00:00
 -- url     : https://prove2.me/theorems/10854f1a-fdad-41a1-a115-4b556efcda52

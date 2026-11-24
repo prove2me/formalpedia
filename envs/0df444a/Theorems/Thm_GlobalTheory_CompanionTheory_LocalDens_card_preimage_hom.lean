@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LocalDens_card_preimage_hom
 -- name    : GlobalTheory.CompanionTheory.LocalDens.card_preimage_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:52:24.937051+00:00
 -- url     : https://prove2.me/theorems/2aa3ceec-b04e-49fd-b63b-1346cd18ae21

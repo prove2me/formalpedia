@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Kyprianou.Ch02.prefixIncrementArrayTelescopesV1
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:31:50.574437+00:00
 -- url     : https://prove2.me/submissions/5d9133da-cd65-4eff-96a5-d6f065f1d673
 

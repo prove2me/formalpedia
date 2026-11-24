@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd11_cen_conjTranspose
 -- name    : Formalism.FourierDecayAlt.P.Wd11.cen_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:47:07.619948+00:00
 -- url     : https://prove2.me/theorems/3f844ebb-3e59-4d27-83b8-3fad688ba449

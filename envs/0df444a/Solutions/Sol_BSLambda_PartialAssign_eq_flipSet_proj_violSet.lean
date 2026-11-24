@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.PartialAssign.eq_flipSet_proj_violSet
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:53:54.503718+00:00
 -- url     : https://prove2.me/submissions/1afa1b28-8cff-4475-a261-1e1b87b50dc3
 

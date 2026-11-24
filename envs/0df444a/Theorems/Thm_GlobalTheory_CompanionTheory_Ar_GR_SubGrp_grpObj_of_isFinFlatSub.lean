@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_GR_SubGrp_grpObj_of_isFinFlatSub
 -- name    : GlobalTheory.CompanionTheory.Ar.GR.SubGrp.grpObj_of_isFinFlatSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:19:56.005032+00:00
 -- url     : https://prove2.me/theorems/66b5d90a-e84f-4f3f-9752-9060ce6b62ff

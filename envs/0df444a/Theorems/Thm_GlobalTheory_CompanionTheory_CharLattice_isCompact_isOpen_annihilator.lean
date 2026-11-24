@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CharLattice_isCompact_isOpen_annihilator
 -- name    : GlobalTheory.CompanionTheory.CharLattice.isCompact_isOpen_annihilator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:33:21.417661+00:00
 -- url     : https://prove2.me/theorems/00db999b-bfde-45be-b30a-6fd6c0fc29ca

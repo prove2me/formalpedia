@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_IwahoriUDL_up_step
 -- name    : GlobalTheory.CompanionTheory.IwahoriUDL.up_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:49:30.112014+00:00
 -- url     : https://prove2.me/theorems/6310d3f4-6707-4e53-9491-08da1aa747d0

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.PartialAssign.proj_eq_of_sat_of_eq_off_fixedSet
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:53:58.956458+00:00
 -- url     : https://prove2.me/submissions/086254f8-b75a-4f9d-8fa4-88c743e1ba9f
 

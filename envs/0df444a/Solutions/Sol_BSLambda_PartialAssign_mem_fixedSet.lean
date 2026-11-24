@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.PartialAssign.mem_fixedSet
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:47:14.069206+00:00
 -- url     : https://prove2.me/submissions/7f2be103-4bdf-4135-93bf-36f8aa752835
 

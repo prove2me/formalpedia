@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PTIso_NineTransfer_local_degree_zero_square
 -- name    : GlobalTheory.CompanionTheory.PTIso.NineTransfer.local_degree_zero_square
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:54:41.970796+00:00
 -- url     : https://prove2.me/theorems/20ffae48-ada8-450c-a9f5-a8dc15a2a1a8

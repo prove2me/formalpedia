@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.LLL.card_cfg_pos_real
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:50:23.552825+00:00
 -- url     : https://prove2.me/submissions/7a0f4487-47dd-4ee1-84aa-3eedf3b4a52b
 

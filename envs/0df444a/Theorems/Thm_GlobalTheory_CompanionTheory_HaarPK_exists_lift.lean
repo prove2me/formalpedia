@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HaarPK_exists_lift
 -- name    : GlobalTheory.CompanionTheory.HaarPK.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:45:12.574341+00:00
 -- url     : https://prove2.me/theorems/086d5b40-c7b5-4344-aaaf-f0d2593a006d

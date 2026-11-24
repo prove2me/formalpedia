@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KernelBasic_ker_mul_right
 -- name    : GlobalTheory.CompanionTheory.KernelBasic.ker_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:50:48.48544+00:00
 -- url     : https://prove2.me/theorems/f119bb4c-e45b-44ba-967d-267416199626

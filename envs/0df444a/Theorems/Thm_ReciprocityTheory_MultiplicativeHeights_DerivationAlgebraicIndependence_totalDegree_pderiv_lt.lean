@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_DerivationAlgebraicIndependence_totalDegree_pderiv_lt
 -- name    : ReciprocityTheory.MultiplicativeHeights.DerivationAlgebraicIndependence.totalDegree_pderiv_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:48:09.248021+00:00
 -- url     : https://prove2.me/theorems/925401f6-839e-4de0-a9a5-92ba42127d7a

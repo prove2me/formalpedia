@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PoitouTateGlue_range_localization_eq_annihilator
 -- name    : GlobalTheory.CompanionTheory.PoitouTateGlue.range_localization_eq_annihilator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:55:03.125815+00:00
 -- url     : https://prove2.me/theorems/73feda97-91ef-4912-97e2-105a54218727

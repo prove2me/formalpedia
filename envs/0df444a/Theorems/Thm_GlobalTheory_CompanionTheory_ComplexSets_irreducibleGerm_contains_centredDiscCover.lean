@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ComplexSets_irreducibleGerm_contains_centredDiscCover
 -- name    : GlobalTheory.CompanionTheory.ComplexSets.irreducibleGerm_contains_centredDiscCover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:33:22.433315+00:00
 -- url     : https://prove2.me/theorems/5d5be8ac-8edb-4176-9718-26c56f91ffb4

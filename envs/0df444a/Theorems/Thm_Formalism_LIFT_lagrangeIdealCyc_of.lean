@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_lagrangeIdealCyc_of
 -- name    : Formalism.LIFT.lagrangeIdealCyc_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:00.334669+00:00
 -- url     : https://prove2.me/theorems/c291c854-b7dc-4e1b-bb3d-db161784959f

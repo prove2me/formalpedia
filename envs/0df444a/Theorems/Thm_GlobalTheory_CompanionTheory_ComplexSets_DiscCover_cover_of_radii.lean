@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ComplexSets_DiscCover_cover_of_radii
 -- name    : GlobalTheory.CompanionTheory.ComplexSets.DiscCover.cover_of_radii
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:33:45.161797+00:00
 -- url     : https://prove2.me/theorems/13fb6eb1-af6c-4467-b08f-b94e689392fb

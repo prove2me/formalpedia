@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_afsplit_eps_int
 -- name    : Formalism.UG.P.afsplit_eps_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:33:58.493822+00:00
 -- url     : https://prove2.me/theorems/71cf7dc1-4c6b-4802-9729-38b84971e3c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KaehlerSpread_bijective_linearCombination_iff
 -- name    : GlobalTheory.CompanionTheory.KaehlerSpread.bijective_linearCombination_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:51:20.844999+00:00
 -- url     : https://prove2.me/theorems/d897e274-1b73-40f5-a325-688d81cd718c

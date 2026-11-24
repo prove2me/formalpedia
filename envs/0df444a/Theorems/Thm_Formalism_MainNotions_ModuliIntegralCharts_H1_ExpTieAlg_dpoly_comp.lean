@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpTieAlg_dpoly_comp
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpTieAlg.dpoly_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:00:49.642492+00:00
 -- url     : https://prove2.me/theorems/194d4cee-9728-41f1-9a63-f5d8be9c389f

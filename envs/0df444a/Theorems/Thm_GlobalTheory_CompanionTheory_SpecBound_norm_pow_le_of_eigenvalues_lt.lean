@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SpecBound_norm_pow_le_of_eigenvalues_lt
 -- name    : GlobalTheory.CompanionTheory.SpecBound.norm_pow_le_of_eigenvalues_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:14:43.211313+00:00
 -- url     : https://prove2.me/theorems/f8d051d3-c793-421d-b21c-98cbf9cd56b1

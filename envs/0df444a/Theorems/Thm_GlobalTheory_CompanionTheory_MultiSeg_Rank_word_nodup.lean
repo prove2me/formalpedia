@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MultiSeg_Rank_word_nodup
 -- name    : GlobalTheory.CompanionTheory.MultiSeg.Rank.word_nodup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:53:48.350827+00:00
 -- url     : https://prove2.me/theorems/ac7e33bb-5775-4d1f-804c-ad68c269cc71

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GlobalTheory.T.norm_mul_apply_le_of_ultrametric
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T02:16:39.538371+00:00
 -- url     : https://prove2.me/submissions/cb14418f-af62-4a80-b122-2216521330d4
 

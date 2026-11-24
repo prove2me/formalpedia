@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satake_range_eq
 -- name    : Formalism.UG.P.satake_range_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:34:52.029841+00:00
 -- url     : https://prove2.me/theorems/5b72f602-5489-4a79-be64-c23e91e13170

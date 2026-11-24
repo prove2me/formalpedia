@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_algebraMap_chart_eq_chartRingHom
 -- name    : FunctorialResolution.Blowup.algebraMap_chart_eq_chartRingHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:39:35.648811+00:00
 -- url     : https://prove2.me/theorems/3c58a1d9-e223-4de0-beaa-63213d154736

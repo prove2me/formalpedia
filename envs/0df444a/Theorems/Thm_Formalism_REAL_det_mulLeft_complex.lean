@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_det_mulLeft_complex
 -- name    : Formalism.REAL.det_mulLeft_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:22:22.739889+00:00
 -- url     : https://prove2.me/theorems/3b3cbfbb-2b97-4261-ae77-7232a3e6f7e9

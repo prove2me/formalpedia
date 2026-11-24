@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GlobalTheory.LocRep.rep_add
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T04:15:12.045972+00:00
 -- url     : https://prove2.me/submissions/1b7ed2e3-15bb-4d8c-a96f-c2ab6a46ad39
 

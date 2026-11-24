@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_chartRingHom_apply
 -- name    : FunctorialResolution.Blowup.chartRingHom_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:39:36.576478+00:00
 -- url     : https://prove2.me/theorems/0bddc67b-4972-40c5-80b8-687febca77ad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KernelColumns_isVec_zero
 -- name    : GlobalTheory.CompanionTheory.KernelColumns.isVec_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:50:47.158785+00:00
 -- url     : https://prove2.me/theorems/1a78a42d-ee99-4e4c-9a27-df73d9996943

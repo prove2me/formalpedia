@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FourierMat_pairing
 -- name    : GlobalTheory.CompanionTheory.FourierMat.pairing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:41:17.676674+00:00
 -- url     : https://prove2.me/theorems/57c3363d-71f1-4236-9316-4b9bcd675407

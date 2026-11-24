@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PTIso_NineTransfer_trace_pairing_degree_one_square
 -- name    : GlobalTheory.CompanionTheory.PTIso.NineTransfer.trace_pairing_degree_one_square
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:54:31.71595+00:00
 -- url     : https://prove2.me/theorems/899c3017-1f2d-4af0-8c25-28d4be76bc41

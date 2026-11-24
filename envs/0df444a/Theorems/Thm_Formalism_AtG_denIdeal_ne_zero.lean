@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_AtG_denIdeal_ne_zero
 -- name    : Formalism.AtG.denIdeal_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:43:04.316799+00:00
 -- url     : https://prove2.me/theorems/70b20418-c686-495b-a3ad-81e7ab4717b7

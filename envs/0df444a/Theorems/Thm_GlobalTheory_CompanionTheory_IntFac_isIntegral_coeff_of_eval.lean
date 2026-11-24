@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_IntFac_isIntegral_coeff_of_eval
 -- name    : GlobalTheory.CompanionTheory.IntFac.isIntegral_coeff_of_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:48:25.091027+00:00
 -- url     : https://prove2.me/theorems/3ed5809a-5019-41a9-878b-18cedb74c257

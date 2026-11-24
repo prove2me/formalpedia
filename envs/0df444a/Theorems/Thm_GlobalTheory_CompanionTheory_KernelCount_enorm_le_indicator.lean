@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KernelCount_enorm_le_indicator
 -- name    : GlobalTheory.CompanionTheory.KernelCount.enorm_le_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:50:37.58102+00:00
 -- url     : https://prove2.me/theorems/1d8bb3df-9ed1-4617-bfcb-208af91a6534

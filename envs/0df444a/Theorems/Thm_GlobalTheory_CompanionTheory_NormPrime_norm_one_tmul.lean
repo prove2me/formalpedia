@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_NormPrime_norm_one_tmul
 -- name    : GlobalTheory.CompanionTheory.NormPrime.norm_one_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:53:16.871813+00:00
 -- url     : https://prove2.me/theorems/e9314017-f575-4e3e-a80e-9b9a633c50be

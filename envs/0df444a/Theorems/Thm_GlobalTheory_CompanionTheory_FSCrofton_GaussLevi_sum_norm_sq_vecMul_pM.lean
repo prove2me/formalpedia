@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_GaussLevi_sum_norm_sq_vecMul_pM
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.GaussLevi.sum_norm_sq_vecMul_pM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:37:58.854328+00:00
 -- url     : https://prove2.me/theorems/87f8cef1-c413-4e89-8cea-f6f8b735026b

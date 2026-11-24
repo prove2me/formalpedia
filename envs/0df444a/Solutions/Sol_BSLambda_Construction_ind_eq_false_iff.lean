@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.Construction.ind_eq_false_iff
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:48:23.976416+00:00
 -- url     : https://prove2.me/submissions/c42787a7-41ed-425a-9f59-e2cac85d0811
 

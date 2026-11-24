@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GaussianPerimeter.VolumeComparison.iSup_min_nat
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T10:58:41.909313+00:00
 -- url     : https://prove2.me/submissions/bfbe5ded-b042-4af2-9aed-36bf43d3df92
 

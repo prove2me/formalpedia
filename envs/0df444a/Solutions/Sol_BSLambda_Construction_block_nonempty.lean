@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.Construction.block_nonempty
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:52:24.163831+00:00
 -- url     : https://prove2.me/submissions/3e490931-2f5a-4940-9d47-468d9a547c9d
 

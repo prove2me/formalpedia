@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd11_io_algebraMap
 -- name    : Formalism.FourierDecayAlt.P.Wd11.io_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:46:51.462794+00:00
 -- url     : https://prove2.me/theorems/7b51a753-1610-465a-bdb2-96fcfb0ddfb1

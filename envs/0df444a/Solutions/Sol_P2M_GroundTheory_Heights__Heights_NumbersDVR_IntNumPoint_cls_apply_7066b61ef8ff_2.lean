@@ -1,6 +1,6 @@
 -- Prove2me | solution 2 for P2M_GroundTheory_Heights__Heights_NumbersDVR_IntNumPoint_cls_apply_7066b61ef8ff
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:49:22.442694+00:00
 -- url     : https://prove2.me/submissions/2b2c58b9-2d6e-46dc-b093-c0f0848a85b4
 

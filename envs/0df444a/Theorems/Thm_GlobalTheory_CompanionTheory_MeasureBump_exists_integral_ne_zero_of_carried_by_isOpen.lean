@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MeasureBump_exists_integral_ne_zero_of_carried_by_isOpen
 -- name    : GlobalTheory.CompanionTheory.MeasureBump.exists_integral_ne_zero_of_carried_by_isOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:53:12.829514+00:00
 -- url     : https://prove2.me/theorems/a5160e9f-6a48-4d11-ae4d-028f1f277ccf

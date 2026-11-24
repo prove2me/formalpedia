@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Inh_CharId_IsPolyFun_scalar
 -- name    : GlobalTheory.CompanionTheory.Inh.CharId.IsPolyFun.scalar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:48:27.516552+00:00
 -- url     : https://prove2.me/theorems/5bfacc27-0489-4e83-8e33-c9c1a2cf7e9d

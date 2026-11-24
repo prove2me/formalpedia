@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KernelComposition_integral_shifted_eq_ker_cv
 -- name    : GlobalTheory.CompanionTheory.KernelComposition.integral_shifted_eq_ker_cv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:50:46.785504+00:00
 -- url     : https://prove2.me/theorems/1a8b4ae0-8702-4607-a66b-8741fe63543b

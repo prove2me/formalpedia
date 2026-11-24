@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_J_mass_ortho_eq
 -- name    : Formalism.MainNotions.J.mass_ortho_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:03:24.983162+00:00
 -- url     : https://prove2.me/theorems/1e11bed6-9f22-4bc7-b3c4-2295ebf2358b

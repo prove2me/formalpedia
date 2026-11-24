@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_ch_balance
 -- name    : Deduction.ch_balance
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:20:24.722774+00:00
 -- url     : https://prove2.me/theorems/93991543-017a-4329-88ae-408435aa9f09

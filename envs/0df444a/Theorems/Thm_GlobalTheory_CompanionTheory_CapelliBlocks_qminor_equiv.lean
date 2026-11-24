@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CapelliBlocks_qminor_equiv
 -- name    : GlobalTheory.CompanionTheory.CapelliBlocks.qminor_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:27:32.073353+00:00
 -- url     : https://prove2.me/theorems/b5020106-cf5b-4691-a3e8-c2249dc76ccf

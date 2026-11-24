@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HolFamily_iteratedDeriv_functional
 -- name    : GlobalTheory.CompanionTheory.HolFamily.iteratedDeriv_functional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:48:16.058396+00:00
 -- url     : https://prove2.me/theorems/519a6a4c-ccaf-4ee6-a73a-6496bf4696f4

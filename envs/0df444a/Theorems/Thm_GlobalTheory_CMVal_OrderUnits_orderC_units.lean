@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_OrderUnits_orderC_units
 -- name    : GlobalTheory.CMVal.OrderUnits.orderC_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:06:15.859125+00:00
 -- url     : https://prove2.me/theorems/3b8fb441-4650-46b4-8ec6-5ea899acecef

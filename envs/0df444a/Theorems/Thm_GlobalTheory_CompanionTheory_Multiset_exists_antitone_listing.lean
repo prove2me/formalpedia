@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Multiset_exists_antitone_listing
 -- name    : GlobalTheory.CompanionTheory.Multiset.exists_antitone_listing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:53:29.556601+00:00
 -- url     : https://prove2.me/theorems/251f4906-6adc-470b-9006-1a4fa0759e62

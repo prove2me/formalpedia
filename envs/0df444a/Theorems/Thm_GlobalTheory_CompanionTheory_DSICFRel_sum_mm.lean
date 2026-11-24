@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSICFRel_sum_mm
 -- name    : GlobalTheory.CompanionTheory.DSICFRel.sum_mm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:35:50.469231+00:00
 -- url     : https://prove2.me/theorems/d0b1510a-f239-4d03-9f6c-1b04e75a55f6

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GlobalTheory.Mem.summable_norm_absNorm_cpow
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T03:51:26.996044+00:00
 -- url     : https://prove2.me/submissions/be8b09cf-4ab8-40ae-a145-1007b270fe56
 

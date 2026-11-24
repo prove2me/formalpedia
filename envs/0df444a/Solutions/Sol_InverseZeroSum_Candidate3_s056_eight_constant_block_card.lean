@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for InverseZeroSum.Candidate3.s056_eight_constant_block_card
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T05:31:35.052331+00:00
 -- url     : https://prove2.me/submissions/050250d9-4fbb-4327-88ec-fc626acf80b5
 

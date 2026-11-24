@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.LLL.pr_mono
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:52:23.404716+00:00
 -- url     : https://prove2.me/submissions/8289db9e-f772-440d-990b-9d1f636ad9f6
 

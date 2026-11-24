@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Kloc_Fresnel_inner_gaussian
 -- name    : GlobalTheory.CompanionTheory.Kloc.Fresnel.inner_gaussian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:50:33.574436+00:00
 -- url     : https://prove2.me/theorems/abb40325-25bb-4c63-bb3b-3e5d1ec6b7b8

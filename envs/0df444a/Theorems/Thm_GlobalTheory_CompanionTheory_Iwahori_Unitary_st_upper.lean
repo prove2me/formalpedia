@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Iwahori_Unitary_st_upper
 -- name    : GlobalTheory.CompanionTheory.Iwahori.Unitary.st_upper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:49:13.247954+00:00
 -- url     : https://prove2.me/theorems/87b6224c-f895-4ec2-8e47-abd74e5feb50

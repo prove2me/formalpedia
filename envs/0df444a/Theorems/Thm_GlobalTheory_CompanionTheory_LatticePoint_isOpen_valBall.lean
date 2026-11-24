@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LatticePoint_isOpen_valBall
 -- name    : GlobalTheory.CompanionTheory.LatticePoint.isOpen_valBall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:51:55.146017+00:00
 -- url     : https://prove2.me/theorems/5f6317c0-6f7e-46ed-b13f-3cfd1efe6466

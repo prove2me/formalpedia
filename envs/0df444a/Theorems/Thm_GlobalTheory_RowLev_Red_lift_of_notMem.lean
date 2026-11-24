@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_Red_lift_of_notMem
 -- name    : GlobalTheory.RowLev.Red.lift_of_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:42:25.343096+00:00
 -- url     : https://prove2.me/theorems/94cac61e-0385-4c45-bdb7-bfcc38dc0d54

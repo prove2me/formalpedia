@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Equi_measurableSet_infDomain
 -- name    : GlobalTheory.CompanionTheory.Equi.measurableSet_infDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:37:56.718003+00:00
 -- url     : https://prove2.me/theorems/22800f7b-9c61-492c-b26b-ec90918d1667

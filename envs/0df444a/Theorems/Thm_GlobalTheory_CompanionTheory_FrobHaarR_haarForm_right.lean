@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FrobHaarR_haarForm_right
 -- name    : GlobalTheory.CompanionTheory.FrobHaarR.haarForm_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:42:53.818661+00:00
 -- url     : https://prove2.me/theorems/cb2f3915-5d67-407c-8aba-ec309df9a6ea

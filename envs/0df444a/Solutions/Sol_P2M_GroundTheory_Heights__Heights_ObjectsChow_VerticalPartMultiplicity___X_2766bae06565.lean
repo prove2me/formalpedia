@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for P2M_GroundTheory_Heights__Heights_ObjectsChow_VerticalPartMultiplicity___X_2766bae06565
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:29:48.75326+00:00
 -- url     : https://prove2.me/submissions/74782859-78ec-4987-baff-0b7b6bfc04da
 

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GlobalTheory.PeriodicSumShift.sum_range_mul_of_periodic
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T02:38:40.15638+00:00
 -- url     : https://prove2.me/submissions/74bcb9ca-702f-4e27-bed2-1666015253e4
 

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.PartialAssign.dist_le_hammingDist
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:53:57.957975+00:00
 -- url     : https://prove2.me/submissions/a8174151-2212-4fa5-8fd9-a4133a1af634
 

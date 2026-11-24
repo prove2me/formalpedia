@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Iwahori_h_sum_left
 -- name    : GlobalTheory.CompanionTheory.Iwahori.h_sum_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:49:27.627904+00:00
 -- url     : https://prove2.me/theorems/5e15876d-55a0-43a4-a52f-cb9118733dc6

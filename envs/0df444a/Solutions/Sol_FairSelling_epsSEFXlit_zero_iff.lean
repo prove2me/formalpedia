@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for FairSelling.epsSEFXlit_zero_iff
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T02:35:56.26164+00:00
 -- url     : https://prove2.me/submissions/2c4f04e7-f192-43d4-86d4-18807705e843
 

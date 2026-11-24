@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxCompare_isNormSymm_iff
 -- name    : GlobalTheory.BoxCompare.isNormSymm_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:01:31.890819+00:00
 -- url     : https://prove2.me/theorems/ed13db34-ee63-44c0-a24d-3403b9d22d34

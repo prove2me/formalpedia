@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QCQPTightness_Exact_lemma_3
 -- name    : QCQPTightness.Exact.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T18:20:40.552008+00:00
 -- url     : https://prove2.me/theorems/e7507378-3e72-40e9-8711-25e4e0df3f73

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_TaylorMvCoord_of
 -- name    : Formalism.L2.Th1.H.TaylorMvCoord_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:24:37.570519+00:00
 -- url     : https://prove2.me/theorems/796cb4f9-bc2c-47a9-9bc0-fbca61eded43

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Iwahori_CongUnit_exists_coord
 -- name    : GlobalTheory.CompanionTheory.Iwahori.CongUnit.exists_coord
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:59:15.117915+00:00
 -- url     : https://prove2.me/theorems/844df2ce-b3da-4e1c-8522-5700bfe53afa

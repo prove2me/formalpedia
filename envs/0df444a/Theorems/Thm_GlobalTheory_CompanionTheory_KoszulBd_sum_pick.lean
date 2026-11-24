@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KoszulBd_sum_pick
 -- name    : GlobalTheory.CompanionTheory.KoszulBd.sum_pick
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:52:29.2238+00:00
 -- url     : https://prove2.me/theorems/d7b4fc6e-54de-4068-b4b9-ba51c2dff964

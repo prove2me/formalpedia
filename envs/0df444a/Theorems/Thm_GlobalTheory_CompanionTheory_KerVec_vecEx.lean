@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KerVec_vecEx
 -- name    : GlobalTheory.CompanionTheory.KerVec.vecEx
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:10:49.118824+00:00
 -- url     : https://prove2.me/theorems/99281a71-37ee-4d38-bef6-05ba46ca4927

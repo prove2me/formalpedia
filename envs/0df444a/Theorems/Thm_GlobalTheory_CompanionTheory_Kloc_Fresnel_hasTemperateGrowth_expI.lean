@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Kloc_Fresnel_hasTemperateGrowth_expI
 -- name    : GlobalTheory.CompanionTheory.Kloc.Fresnel.hasTemperateGrowth_expI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:50:43.409+00:00
 -- url     : https://prove2.me/theorems/7e7883d4-7c1c-404c-aa98-c9dca7eaf4e8

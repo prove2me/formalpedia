@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CharacterBiduality_exists_annihilator_ne
 -- name    : GlobalTheory.CompanionTheory.CharacterBiduality.exists_annihilator_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:51:30.874158+00:00
 -- url     : https://prove2.me/theorems/5edce1e5-e9b2-4d90-85dd-e40004f5acea

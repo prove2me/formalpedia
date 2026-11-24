@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_Sm_contDiff_Lx
 -- name    : CompanionTheory.D.Upq.Sm.contDiff_Lx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:40:40.318678+00:00
 -- url     : https://prove2.me/theorems/5e5cfc8d-a2c5-4965-be8a-02bc409d05c1

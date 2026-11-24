@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GroupIndex_RelProd_relIndex_prod_ne_zero_of_ne_zero
 -- name    : GlobalTheory.CompanionTheory.GroupIndex.RelProd.relIndex_prod_ne_zero_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:45:14.149916+00:00
 -- url     : https://prove2.me/theorems/e883726e-ef3f-4aff-a1da-56a38ce0b242

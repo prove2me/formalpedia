@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DiagDom_small_perturbation_injective_pos
 -- name    : GlobalTheory.CompanionTheory.DiagDom.small_perturbation_injective_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:35:25.504416+00:00
 -- url     : https://prove2.me/theorems/4fdfd54d-0e50-437c-8bf8-12c2a3e46a18

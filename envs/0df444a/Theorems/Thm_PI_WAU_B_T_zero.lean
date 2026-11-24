@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_B_T_zero
 -- name    : PI.WAU.B.T_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:38:42.661344+00:00
 -- url     : https://prove2.me/theorems/ff0295ff-3314-48de-8b4b-ff15bc78cca4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_Resid_exists_representatives
 -- name    : GlobalTheory.CMVal.Euler.Resid.exists_representatives
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:05:11.431214+00:00
 -- url     : https://prove2.me/theorems/90d9e343-2f97-441f-b76b-d37e308e6020

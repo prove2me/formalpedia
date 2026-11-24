@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for PositivityTheory.Rg.Sw.WR.B.entry_mul_single_mul
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T01:33:55.006931+00:00
 -- url     : https://prove2.me/submissions/5b397900-49d2-45ce-b859-f64794f1dfa2
 

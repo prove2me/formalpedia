@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LocalFieldChar_circle_eq_one_of_forall_re_pow_pos
 -- name    : GlobalTheory.CompanionTheory.LocalFieldChar.circle_eq_one_of_forall_re_pow_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:51:52.339917+00:00
 -- url     : https://prove2.me/theorems/cf352f6a-fce5-4633-affe-912e88174abe

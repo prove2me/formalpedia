@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_FlagBun_CoordGen_genU_mem
 -- name    : GlobalTheory.CompanionTheory.Ar.FlagBun.CoordGen.genU_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:18:03.266906+00:00
 -- url     : https://prove2.me/theorems/71f8222e-288d-4994-b6db-f497a5693f8b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeTransfer_word_mul_idem
 -- name    : GlobalTheory.CompanionTheory.HeckeTransfer.word_mul_idem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:46:31.967279+00:00
 -- url     : https://prove2.me/theorems/3f238cae-450d-41ec-87fc-76e720941793

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PolyGaussSchwartz_norm_toEuclid_sq
 -- name    : GlobalTheory.CompanionTheory.PolyGaussSchwartz.norm_toEuclid_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:54:56.199905+00:00
 -- url     : https://prove2.me/theorems/0f156c02-2663-4d89-a9d7-947de1fc840a

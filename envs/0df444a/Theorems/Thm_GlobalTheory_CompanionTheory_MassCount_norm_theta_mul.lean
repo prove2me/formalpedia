@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MassCount_norm_theta_mul
 -- name    : GlobalTheory.CompanionTheory.MassCount.norm_theta_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:53:14.449081+00:00
 -- url     : https://prove2.me/theorems/8795ef55-a660-479e-8f7b-e4479033b6dd

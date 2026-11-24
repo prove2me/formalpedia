@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GroundTheory.Global.orbitPoint_orbitPoint
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T02:28:33.089474+00:00
 -- url     : https://prove2.me/submissions/a609ad2f-44b9-4bf0-ac13-ce3717dce170
 

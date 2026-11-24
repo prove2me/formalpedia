@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Iwahori_projE_adj
 -- name    : GlobalTheory.CompanionTheory.Iwahori.projE_adj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:49:34.959272+00:00
 -- url     : https://prove2.me/theorems/c8bf462a-a95d-4c74-8c0d-a9de15273905

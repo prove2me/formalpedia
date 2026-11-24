@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LatticeSumBounds_classNumberBound
 -- name    : Formalism.HermitianLatticeCounting.Final.LatticeSumBounds.classNumberBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:30:37.046969+00:00
 -- url     : https://prove2.me/theorems/e2b98222-1271-4a52-b0ac-be34be0ab37e

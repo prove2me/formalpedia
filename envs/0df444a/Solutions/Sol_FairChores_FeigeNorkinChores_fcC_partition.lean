@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for FairChores.FeigeNorkinChores.fcC_partition
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T03:35:33.458476+00:00
 -- url     : https://prove2.me/submissions/33bb9105-f99c-492c-aa9e-43b0f6a02138
 

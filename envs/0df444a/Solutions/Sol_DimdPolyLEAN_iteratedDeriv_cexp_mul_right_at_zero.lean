@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for DimdPolyLEAN.iteratedDeriv_cexp_mul_right_at_zero
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T02:31:03.322968+00:00
 -- url     : https://prove2.me/submissions/6aa3ef50-640b-41f0-9503-283ec3e12a9d
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_OneParamFourier_integral_translate_mul_char
 -- name    : GlobalTheory.CompanionTheory.OneParamFourier.integral_translate_mul_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:53:13.978907+00:00
 -- url     : https://prove2.me/theorems/443accad-128e-46b9-812c-25567316d037

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LocalPerfect_dualMap_bijective
 -- name    : GlobalTheory.CompanionTheory.LocalPerfect.dualMap_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:52:30.295885+00:00
 -- url     : https://prove2.me/theorems/ab441b2f-a231-4deb-b34d-8188c9784152

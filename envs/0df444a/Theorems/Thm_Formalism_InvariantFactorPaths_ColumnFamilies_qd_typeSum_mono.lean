@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qd_typeSum_mono
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qd_typeSum_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:33:36.28421+00:00
 -- url     : https://prove2.me/theorems/99a4ac6e-ecde-4f8c-8f5d-d34127f54744

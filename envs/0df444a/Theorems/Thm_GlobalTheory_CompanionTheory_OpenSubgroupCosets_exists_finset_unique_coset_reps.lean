@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_OpenSubgroupCosets_exists_finset_unique_coset_reps
 -- name    : GlobalTheory.CompanionTheory.OpenSubgroupCosets.exists_finset_unique_coset_reps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:53:17.232351+00:00
 -- url     : https://prove2.me/theorems/20c34963-69bb-449b-8a12-919140618b9e

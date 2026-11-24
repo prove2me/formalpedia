@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HermPlane_lat_primitive
 -- name    : GlobalTheory.CompanionTheory.HermPlane.lat_primitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:48:36.346643+00:00
 -- url     : https://prove2.me/theorems/e5ec3054-f8ba-4e63-923b-a119d0466dba

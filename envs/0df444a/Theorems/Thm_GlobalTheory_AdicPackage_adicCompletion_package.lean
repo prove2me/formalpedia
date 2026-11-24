@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdicPackage_adicCompletion_package
 -- name    : GlobalTheory.AdicPackage.adicCompletion_package
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:55:17.682126+00:00
 -- url     : https://prove2.me/theorems/ac563142-ce0a-4ca8-b3e5-5cf1412d27a9

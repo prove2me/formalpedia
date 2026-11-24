@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GlobalTheory.LatticeIndicator.forall_mem_range_iff
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T04:15:22.667838+00:00
 -- url     : https://prove2.me/submissions/10c09a31-0ece-441c-9324-733ee4da86ae
 

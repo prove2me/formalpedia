@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_finrank_La
 -- name    : GlobalTheory.AnArc.finrank_La
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:39:11.912893+00:00
 -- url     : https://prove2.me/theorems/3a3436f1-ccff-4536-a5c4-3709680bfa4a

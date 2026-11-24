@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PatGrp_det_one_add
 -- name    : GlobalTheory.CompanionTheory.PatGrp.det_one_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:54:42.507806+00:00
 -- url     : https://prove2.me/theorems/40543ed5-ee1f-4472-b559-b8abee906554

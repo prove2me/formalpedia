@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for P2M_GroundTheory_Heights__Heights_Inter_SemipositiveTwist_blk_ne_ce9f3419af7a
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:27:23.79191+00:00
 -- url     : https://prove2.me/submissions/a8202719-ece9-43bb-a539-243d35eeac93
 

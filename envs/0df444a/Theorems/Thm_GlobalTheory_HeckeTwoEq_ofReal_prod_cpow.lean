@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoEq_ofReal_prod_cpow
 -- name    : GlobalTheory.HeckeTwoEq.ofReal_prod_cpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:44:11.501354+00:00
 -- url     : https://prove2.me/theorems/310b49e4-582e-4320-be6b-da939467ec3d

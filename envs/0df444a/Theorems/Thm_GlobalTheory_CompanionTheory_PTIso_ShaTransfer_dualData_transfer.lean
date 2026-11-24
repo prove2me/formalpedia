@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PTIso_ShaTransfer_dualData_transfer
 -- name    : GlobalTheory.CompanionTheory.PTIso.ShaTransfer.dualData_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:54:48.106261+00:00
 -- url     : https://prove2.me/theorems/bd950bd0-7871-49a6-bb76-c8e1a5ec7d79

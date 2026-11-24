@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HermFrame_herm_symm_zero
 -- name    : GlobalTheory.CompanionTheory.HermFrame.herm_symm_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:47:55.122428+00:00
 -- url     : https://prove2.me/theorems/d167afd2-4338-4a7a-930e-23f6984da7df

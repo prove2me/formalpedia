@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_dPotCrisStable_and_existsPotentiallyCrystallineData
 -- name    : Formalism.WeaklyAdmissibleFiltrations.dPotCrisStable_and_existsPotentiallyCrystallineData
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:39:25.518307+00:00
 -- url     : https://prove2.me/theorems/8a5344b5-751d-42c5-ad67-ebf5439fea5b

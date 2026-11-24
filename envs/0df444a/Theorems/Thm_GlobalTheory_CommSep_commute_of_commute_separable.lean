@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommSep_commute_of_commute_separable
 -- name    : GlobalTheory.CommSep.commute_of_commute_separable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:38:51.509358+00:00
 -- url     : https://prove2.me/theorems/c689bb12-ea86-4884-9f76-9ec3341c73d9

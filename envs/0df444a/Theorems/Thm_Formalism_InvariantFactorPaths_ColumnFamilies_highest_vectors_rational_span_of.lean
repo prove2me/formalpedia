@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_highest_vectors_rational_span_of
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.highest_vectors_rational_span_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:02:07.666948+00:00
 -- url     : https://prove2.me/theorems/bc67e0c6-811b-4666-b147-30f3c423409e

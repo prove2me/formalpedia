@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.flipSet_zeroInput_apply
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:47:18.371801+00:00
 -- url     : https://prove2.me/submissions/54d2c3e4-887a-4c98-a275-a4d90ef6c706
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_weyl_module_stable
 -- name    : Formalism.UG.P.weyl_module_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:37:33.276803+00:00
 -- url     : https://prove2.me/theorems/e1f394fc-843c-4ee8-bc97-c71786305057

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for FairSelling.Examples.PS_example
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T03:23:35.70984+00:00
 -- url     : https://prove2.me/submissions/5c502594-00d5-428c-8c0a-4a6530f962e8
 

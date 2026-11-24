@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GlobalTheory.T.ultrametric_norm_hasSum_sub_finset_sum_le
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T02:25:35.482293+00:00
 -- url     : https://prove2.me/submissions/1f45ac64-2e12-474a-bee0-79e791ee567b
 

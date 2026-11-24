@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EisTube_polyGaussBdd
 -- name    : GlobalTheory.CompanionTheory.EisTube.polyGaussBdd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:12:25.319242+00:00
 -- url     : https://prove2.me/theorems/86c73d48-637e-456b-a03e-f27f75b84a86

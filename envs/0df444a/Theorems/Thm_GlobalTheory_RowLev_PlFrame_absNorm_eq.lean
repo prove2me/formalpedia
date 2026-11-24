@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_PlFrame_absNorm_eq
 -- name    : GlobalTheory.RowLev.PlFrame.absNorm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:41:07.519862+00:00
 -- url     : https://prove2.me/theorems/a416d95d-5a32-4ae5-84a4-06793a79ec58

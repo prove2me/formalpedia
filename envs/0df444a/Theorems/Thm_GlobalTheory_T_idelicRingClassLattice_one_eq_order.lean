@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_idelicRingClassLattice_one_eq_order
 -- name    : GlobalTheory.T.idelicRingClassLattice_one_eq_order
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:25:18.973824+00:00
 -- url     : https://prove2.me/theorems/05712cb0-db2b-4234-8128-4fbd19cd58b8

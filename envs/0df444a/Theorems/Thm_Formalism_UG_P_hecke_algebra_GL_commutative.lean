@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_hecke_algebra_GL_commutative
 -- name    : Formalism.UG.P.hecke_algebra_GL_commutative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:32:33.16174+00:00
 -- url     : https://prove2.me/theorems/bd305769-3973-4ab4-976e-98e97b084797

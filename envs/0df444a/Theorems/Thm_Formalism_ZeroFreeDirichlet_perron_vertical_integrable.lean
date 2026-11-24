@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_perron_vertical_integrable
 -- name    : Formalism.ZeroFreeDirichlet.perron_vertical_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:43:54.134149+00:00
 -- url     : https://prove2.me/theorems/fe8c5da7-637b-4141-91d4-cd608b11a14f

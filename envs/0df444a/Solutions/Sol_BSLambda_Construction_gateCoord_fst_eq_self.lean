@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.Construction.gateCoord_fst_eq_self
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:50:36.490559+00:00
 -- url     : https://prove2.me/submissions/ebf2a777-e40e-4c06-babe-3b0d0ac69fc9
 

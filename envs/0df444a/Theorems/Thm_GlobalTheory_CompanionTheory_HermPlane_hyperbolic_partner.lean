@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HermPlane_hyperbolic_partner
 -- name    : GlobalTheory.CompanionTheory.HermPlane.hyperbolic_partner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:48:14.835999+00:00
 -- url     : https://prove2.me/theorems/80c4dbcf-4ab7-4129-861a-1a78386a7434

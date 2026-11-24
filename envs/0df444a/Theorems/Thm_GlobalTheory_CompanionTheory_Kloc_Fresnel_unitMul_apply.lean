@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Kloc_Fresnel_unitMul_apply
 -- name    : GlobalTheory.CompanionTheory.Kloc.Fresnel.unitMul_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:51:00.854807+00:00
 -- url     : https://prove2.me/theorems/d5dbd622-0cc5-4fea-bb14-6fa3e69f05fc

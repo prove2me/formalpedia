@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for FunctorialResolution.EmbeddedResolution.mvPolynomialToSumCoordinateRing_X
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-23T23:49:36.392982+00:00
 -- url     : https://prove2.me/submissions/14ff8c3a-1de1-4cbf-b143-3becc3953355
 

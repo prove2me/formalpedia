@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_perron_verticalIntegrable
 -- name    : Formalism.ZF.perron_verticalIntegrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:40:49.733055+00:00
 -- url     : https://prove2.me/theorems/da90613d-0795-469c-8cfa-889bac659eac

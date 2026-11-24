@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EvalTensor_lift_flip_subtype_injective
 -- name    : GlobalTheory.CompanionTheory.EvalTensor.lift_flip_subtype_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:38:12.838052+00:00
 -- url     : https://prove2.me/theorems/a064c95c-c186-42c9-9bce-e8b5a15bb250

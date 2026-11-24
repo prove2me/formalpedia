@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AddLaw_diagXYZ_ne_zero_of_equiv
 -- name    : GlobalTheory.AddLaw.diagXYZ_ne_zero_of_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:53:18.247802+00:00
 -- url     : https://prove2.me/theorems/f8a0e311-ad51-4ebf-bd7e-953e9322419c

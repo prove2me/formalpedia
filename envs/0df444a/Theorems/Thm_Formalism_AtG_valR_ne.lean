@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_AtG_valR_ne
 -- name    : Formalism.AtG.valR_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:43:08.377963+00:00
 -- url     : https://prove2.me/theorems/b9e68e1c-df26-4027-befd-6dede00f5ce7

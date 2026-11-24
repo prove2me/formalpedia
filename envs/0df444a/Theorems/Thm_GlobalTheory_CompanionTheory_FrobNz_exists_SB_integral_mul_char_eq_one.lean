@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FrobNz_exists_SB_integral_mul_char_eq_one
 -- name    : GlobalTheory.CompanionTheory.FrobNz.exists_SB_integral_mul_char_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:42:21.713257+00:00
 -- url     : https://prove2.me/theorems/f0b0fe9a-e91e-4094-bdd5-12a88b219114

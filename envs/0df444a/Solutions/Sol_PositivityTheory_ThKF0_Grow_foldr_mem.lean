@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for PositivityTheory.ThKF0.Grow.foldr_mem
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T05:56:01.153786+00:00
 -- url     : https://prove2.me/submissions/fbe0b6f2-73c7-484d-a793-1a30482dd4a5
 

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for InverseZeroSum.Candidate3.directionSliceT_eq_inter
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T05:26:28.332797+00:00
 -- url     : https://prove2.me/submissions/cb97f70a-0cb2-4909-8d9b-0ca8107b4616
 

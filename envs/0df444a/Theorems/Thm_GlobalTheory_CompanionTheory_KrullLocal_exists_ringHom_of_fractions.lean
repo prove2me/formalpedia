@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KrullLocal_exists_ringHom_of_fractions
 -- name    : GlobalTheory.CompanionTheory.KrullLocal.exists_ringHom_of_fractions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:52:33.115688+00:00
 -- url     : https://prove2.me/theorems/041432db-42c8-4b1c-9554-62c3c1227093

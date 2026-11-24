@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_AtG_sum_le_finsum__ba49f741addd
 -- name    : P2M_Formalism_AtG_sum_le_finsum__ba49f741addd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:42:35.625841+00:00
 -- url     : https://prove2.me/theorems/8dcb7365-2c93-4976-b70c-e251666f14cc

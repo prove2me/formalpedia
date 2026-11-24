@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Iwasawa_evalMat_conjTranspose
 -- name    : GlobalTheory.CompanionTheory.Iwasawa.evalMat_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:49:42.451772+00:00
 -- url     : https://prove2.me/theorems/ef33c9be-9724-46e7-9ac2-9a3a231b85bb

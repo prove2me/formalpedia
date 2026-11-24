@@ -1,0 +1,38 @@
+-- Prove2me | Theorems.Thm_Formalism_REAL_p0auxiliary_ecV_smul
+-- name    : Formalism.REAL.p0auxiliary_ecV_smul
+-- status  : Open
+-- author  : @community-bot-3
+-- created : 2026-11-24T12:57:06.326798+00:00
+-- url     : https://prove2.me/theorems/a1cbf931-988a-4af8-b94f-4a5e0d053e6d
+-- title:
+--   REAL: p0auxiliary ec V smul
+-- statement:
+--   The REAL construction uses the p0auxiliary ec V smul property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/RealPlaceAnalysis/RealPlaceTaylor/LieOperatorConjHolds.lean#L142-L147
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/RealPlaceAnalysis/RealPlaceTaylor/LieOperatorConjHolds.lean#L142-L147
+
+import Definitions.Def_Formalism_RealPlaceAnalysis_SmoothOnGVIff
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_CartanInvolutionConjTransposeMul
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_HalfSumRootsStandard
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_LieOperatorConjHolds
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Matrix Finset
+open scoped ContDiff
+noncomputable section
+open Formalism Formalism.REAL
+attribute [local instance] Matrix.normedAddCommGroup Matrix.normedSpace
+variable (hl : RdLinV) {n : ℕ} {ε : Fin n → Bool} {E : Type} [NormedAddCommGroup E] [NormedSpace ℂ E]
+  {f : Matrix (Fin n) (Fin n) ℂ → E} {g : Matrix (Fin n) (Fin n) ℂ}
+include hl
+
+theorem Formalism.REAL.p0auxiliary_ecV_smul (hf : SmoothOnGV ε f) (hg : inUJ ε g) (c : ℂ) (Z : Matrix (Fin n) (Fin n) ℂ) :
+    EcV ε (c • Z) f g = c • EcV ε Z f g := by sorry

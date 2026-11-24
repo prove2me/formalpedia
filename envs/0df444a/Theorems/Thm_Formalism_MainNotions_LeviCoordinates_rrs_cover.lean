@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_LeviCoordinates_rrs_cover
 -- name    : Formalism.MainNotions.LeviCoordinates.rrs_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:42:46.134392+00:00
 -- url     : https://prove2.me/theorems/8cf3b1df-12ab-4d4c-8b55-7ea5863c6d3f

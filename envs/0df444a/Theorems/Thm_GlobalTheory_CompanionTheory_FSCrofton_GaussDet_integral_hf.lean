@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_GaussDet_integral_hf
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.GaussDet.integral_hf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:38:29.294204+00:00
 -- url     : https://prove2.me/theorems/0b627331-7d7a-4581-8e4a-20cf0b5f48ae

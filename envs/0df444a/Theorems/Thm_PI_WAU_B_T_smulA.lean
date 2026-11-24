@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_B_T_smulA
 -- name    : PI.WAU.B.T_smulA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:41:31.958344+00:00
 -- url     : https://prove2.me/theorems/bac526f0-224e-4531-8769-68d60f03a965

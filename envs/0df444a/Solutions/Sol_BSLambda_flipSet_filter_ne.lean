@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.flipSet_filter_ne
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:54:00.95382+00:00
 -- url     : https://prove2.me/submissions/b01754ce-8b92-4485-bce6-256519176bb7
 

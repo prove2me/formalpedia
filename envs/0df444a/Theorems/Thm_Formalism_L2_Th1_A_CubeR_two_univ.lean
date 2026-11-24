@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_CubeR_two_univ
 -- name    : Formalism.L2.Th1.A.CubeR.two_univ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:11.307712+00:00
 -- url     : https://prove2.me/theorems/442d69a9-6c69-4577-98f7-189fd2348447

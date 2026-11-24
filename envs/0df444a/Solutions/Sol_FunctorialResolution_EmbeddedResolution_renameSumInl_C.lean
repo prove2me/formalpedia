@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for FunctorialResolution.EmbeddedResolution.renameSumInl_C
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-23T23:49:33.199956+00:00
 -- url     : https://prove2.me/submissions/33364800-d860-4982-9b86-c92c308b5248
 

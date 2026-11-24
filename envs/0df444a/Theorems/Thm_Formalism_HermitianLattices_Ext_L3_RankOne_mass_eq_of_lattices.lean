@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_RankOne_mass_eq_of_lattices
 -- name    : Formalism.HermitianLattices.Ext.L3.RankOne.mass_eq_of_lattices
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:15:38.720082+00:00
 -- url     : https://prove2.me/theorems/85e3bfe0-7da5-4eea-8551-40a613659b22

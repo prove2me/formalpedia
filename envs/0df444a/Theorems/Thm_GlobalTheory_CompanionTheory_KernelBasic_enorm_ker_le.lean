@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KernelBasic_enorm_ker_le
 -- name    : GlobalTheory.CompanionTheory.KernelBasic.enorm_ker_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:50:40.790154+00:00
 -- url     : https://prove2.me/theorems/05c094f6-6bd7-424f-b9fb-e9641e339da4

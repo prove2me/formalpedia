@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MultiSeg_Rank_word_zero
 -- name    : GlobalTheory.CompanionTheory.MultiSeg.Rank.word_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:53:37.83577+00:00
 -- url     : https://prove2.me/theorems/ced21b94-9f8a-4be2-a4e8-27b29fe1a5dc

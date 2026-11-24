@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.LLL.determined_filter_univ
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:50:22.725803+00:00
 -- url     : https://prove2.me/submissions/9e9dc2cf-a24f-4028-94ae-33440c298d34
 

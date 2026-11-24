@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeFixed_eK_apply_of_mem
 -- name    : GlobalTheory.CompanionTheory.HeckeFixed.eK_apply_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:46:12.866748+00:00
 -- url     : https://prove2.me/theorems/2244a68c-7e2f-4fea-a6d6-7b5621b0ac74

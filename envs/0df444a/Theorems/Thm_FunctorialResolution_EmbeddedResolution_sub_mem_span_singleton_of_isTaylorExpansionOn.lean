@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_sub_mem_span_singleton_of_isTaylorExpansionOn
 -- name    : FunctorialResolution.EmbeddedResolution.sub_mem_span_singleton_of_isTaylorExpansionOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:49:05.091231+00:00
 -- url     : https://prove2.me/theorems/04bd9b88-d192-477e-b6fc-376c2b3cdd01

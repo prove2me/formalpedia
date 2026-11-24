@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSICFRel_bil_comm
 -- name    : GlobalTheory.CompanionTheory.DSICFRel.bil_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:34:27.396972+00:00
 -- url     : https://prove2.me/theorems/aba84595-7c1b-4e94-b01e-211f19d1d7f4

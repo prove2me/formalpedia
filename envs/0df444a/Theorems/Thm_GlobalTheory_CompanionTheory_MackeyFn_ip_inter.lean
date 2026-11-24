@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MackeyFn_ip_inter
 -- name    : GlobalTheory.CompanionTheory.MackeyFn.ip_inter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:52:02.322066+00:00
 -- url     : https://prove2.me/theorems/588e4c6f-2764-4ed0-81b4-67501572867c

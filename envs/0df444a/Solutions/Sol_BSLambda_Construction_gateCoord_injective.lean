@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.Construction.gateCoord_injective
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:52:24.965666+00:00
 -- url     : https://prove2.me/submissions/c6e2cad1-0858-4503-8c8d-8cc93c473e4e
 

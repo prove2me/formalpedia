@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GlobalTheory.map_subtype_saturation
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T04:52:44.94066+00:00
 -- url     : https://prove2.me/submissions/84eee9ac-44f1-4c55-97c4-61c0f11683d7
 

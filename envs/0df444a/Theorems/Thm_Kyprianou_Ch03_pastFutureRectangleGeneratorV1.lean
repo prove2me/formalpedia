@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_pastFutureRectangleGeneratorV1
 -- name    : Kyprianou.Ch03.pastFutureRectangleGeneratorV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T12:34:46.631799+00:00
 -- url     : https://prove2.me/theorems/a01d556a-e8a5-4066-bfe9-483d3e4039af

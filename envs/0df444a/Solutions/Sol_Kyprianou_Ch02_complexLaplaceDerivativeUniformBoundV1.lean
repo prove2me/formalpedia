@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Kyprianou.Ch02.complexLaplaceDerivativeUniformBoundV1
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-23T23:52:52.506851+00:00
 -- url     : https://prove2.me/submissions/573e75e2-daaa-45a8-a9d8-ad4d52025d83
 

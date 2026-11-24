@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PTIso_NineTransfer_twDual_transfer
 -- name    : GlobalTheory.CompanionTheory.PTIso.NineTransfer.twDual_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:55:06.642838+00:00
 -- url     : https://prove2.me/theorems/7fb3f957-cae9-41ac-987d-b8b750345681

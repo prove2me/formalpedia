@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSUniq_orth_spread
 -- name    : GlobalTheory.CompanionTheory.DSUniq.orth_spread
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:35:53.509006+00:00
 -- url     : https://prove2.me/theorems/b31ea965-6956-4c13-98ef-e7910f2394f3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_TraceIntegrality_Fr_vi_smul_int
 -- name    : Formalism.L2.GlobalTheoryTheory.TraceIntegrality.Fr.vi_smul_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:48:17.62627+00:00
 -- url     : https://prove2.me/theorems/dfa30ffb-904a-46bc-83ac-4d1a66257f54

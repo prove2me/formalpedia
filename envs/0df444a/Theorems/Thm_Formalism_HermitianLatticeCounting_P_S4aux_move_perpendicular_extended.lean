@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_move_perpendicular_extended
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.move_perpendicular_extended
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:00:43.495928+00:00
 -- url     : https://prove2.me/theorems/cd27fa6a-3d79-45e9-84ff-1d2a05c0f043

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PTIso_ShaTransfer_res_h1_iso_h1
 -- name    : GlobalTheory.CompanionTheory.PTIso.ShaTransfer.res_h1_iso_h1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:54:48.650309+00:00
 -- url     : https://prove2.me/theorems/81df6aaf-ed06-478a-a2a0-8f1782f82c8b

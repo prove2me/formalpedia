@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSHighestOfKType_hwOfType
 -- name    : GlobalTheory.CompanionTheory.DSHighestOfKType.hwOfType
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:24:31.690955+00:00
 -- url     : https://prove2.me/theorems/2d9a28d7-e974-4271-8700-24976b28d299

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Iwahori_Gauss_sub_one_mul_mem
 -- name    : GlobalTheory.CompanionTheory.Iwahori.Gauss.sub_one_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:50:03.686324+00:00
 -- url     : https://prove2.me/theorems/f323f519-0905-4a76-8ac2-bf909200c567

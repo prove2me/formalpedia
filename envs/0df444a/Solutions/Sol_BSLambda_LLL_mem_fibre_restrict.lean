@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.LLL.mem_fibre_restrict
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:52:21.857147+00:00
 -- url     : https://prove2.me/submissions/cc1395f2-a3fb-4641-b482-539886f359ad
 

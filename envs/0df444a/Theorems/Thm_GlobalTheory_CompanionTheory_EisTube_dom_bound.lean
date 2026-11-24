@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EisTube_dom_bound
 -- name    : GlobalTheory.CompanionTheory.EisTube.dom_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:36:40.338073+00:00
 -- url     : https://prove2.me/theorems/8f42ca8a-bb38-4819-96af-1075ac3d4fb5

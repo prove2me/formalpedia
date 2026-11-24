@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_IntCount_finite_and_ncard_le
 -- name    : GlobalTheory.CompanionTheory.IntCount.finite_and_ncard_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:48:36.017861+00:00
 -- url     : https://prove2.me/theorems/0c46f5bd-2e44-4d9e-adfe-9416b383ce6c

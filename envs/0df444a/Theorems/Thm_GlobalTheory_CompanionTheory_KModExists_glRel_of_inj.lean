@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KModExists_glRel_of_inj
 -- name    : GlobalTheory.CompanionTheory.KModExists.glRel_of_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:49:21.989311+00:00
 -- url     : https://prove2.me/theorems/80852190-0246-455e-bf48-2dd2534e7f3f

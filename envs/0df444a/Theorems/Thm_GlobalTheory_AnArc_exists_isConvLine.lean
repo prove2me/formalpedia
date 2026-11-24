@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_exists_isConvLine
 -- name    : GlobalTheory.AnArc.exists_isConvLine
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:25:56.080516+00:00
 -- url     : https://prove2.me/theorems/86976ba0-4c68-4bca-947a-e4482d3eeefa

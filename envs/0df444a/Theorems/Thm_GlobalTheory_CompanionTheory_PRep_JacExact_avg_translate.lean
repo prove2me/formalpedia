@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PRep_JacExact_avg_translate
 -- name    : GlobalTheory.CompanionTheory.PRep.JacExact.avg_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:53:29.972665+00:00
 -- url     : https://prove2.me/theorems/f13b9b56-9305-4cee-9c62-bdcd573bbc8e

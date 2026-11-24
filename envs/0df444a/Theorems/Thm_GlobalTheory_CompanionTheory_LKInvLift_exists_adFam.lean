@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LKInvLift_exists_adFam
 -- name    : GlobalTheory.CompanionTheory.LKInvLift.exists_adFam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:52:53.962922+00:00
 -- url     : https://prove2.me/theorems/17571470-54bb-4ad3-9266-813ffeb524cc

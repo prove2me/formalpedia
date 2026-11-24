@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Comb_shuffle_perm_flatten
 -- name    : GlobalTheory.CompanionTheory.Comb.shuffle_perm_flatten
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:33:50.339415+00:00
 -- url     : https://prove2.me/theorems/6f98d381-1bb6-4ad8-8e3a-2af2936a84b3

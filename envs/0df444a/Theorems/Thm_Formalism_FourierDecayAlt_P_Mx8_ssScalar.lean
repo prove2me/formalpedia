@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx8_ssScalar
 -- name    : Formalism.FourierDecayAlt.P.Mx8.ssScalar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:47:36.019289+00:00
 -- url     : https://prove2.me/theorems/426fe807-55aa-4581-adea-43a100c212c5

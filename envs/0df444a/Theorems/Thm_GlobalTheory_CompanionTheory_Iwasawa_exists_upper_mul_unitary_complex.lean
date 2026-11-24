@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Iwasawa_exists_upper_mul_unitary_complex
 -- name    : GlobalTheory.CompanionTheory.Iwasawa.exists_upper_mul_unitary_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:49:37.131826+00:00
 -- url     : https://prove2.me/theorems/57973a3f-daf7-4706-8bf6-14b0f7866806

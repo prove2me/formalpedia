@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PTIso_isPlaceOver_transfer_fieldIso
 -- name    : GlobalTheory.CompanionTheory.PTIso.isPlaceOver_transfer_fieldIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:55:56.620784+00:00
 -- url     : https://prove2.me/theorems/f70ea342-1831-4039-9cde-5e2cdeae8859

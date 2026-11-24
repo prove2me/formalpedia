@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KillDeg_exists_common_eigvector
 -- name    : GlobalTheory.CompanionTheory.KillDeg.exists_common_eigvector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:50:42.098078+00:00
 -- url     : https://prove2.me/theorems/0a8713d6-c7a0-48cc-bcdd-da1234d3621d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HolMean_aesm_of_real
 -- name    : GlobalTheory.CompanionTheory.HolMean.aesm_of_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:47:41.129853+00:00
 -- url     : https://prove2.me/theorems/a652b2e6-9335-4df5-aca5-e836940f7580

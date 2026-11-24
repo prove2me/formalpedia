@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for P2M_GroundTheory_Heights__Heights_NumbersDVR_isWeightedHomogeneous_map_of_2de25fb32301
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T04:41:08.521712+00:00
 -- url     : https://prove2.me/submissions/1b7113dc-9d2d-427b-8347-6a0e45bad5d5
 

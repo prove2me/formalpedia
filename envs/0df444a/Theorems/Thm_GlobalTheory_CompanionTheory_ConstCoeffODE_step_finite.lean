@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ConstCoeffODE_step_finite
 -- name    : GlobalTheory.CompanionTheory.ConstCoeffODE.step_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:32:48.93543+00:00
 -- url     : https://prove2.me/theorems/93226f07-3f5d-40b7-a5c8-534e08057e9a

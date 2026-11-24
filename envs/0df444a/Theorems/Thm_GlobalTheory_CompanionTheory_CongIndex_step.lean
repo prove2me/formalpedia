@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CongIndex_step
 -- name    : GlobalTheory.CompanionTheory.CongIndex.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:33:28.921012+00:00
 -- url     : https://prove2.me/theorems/80823719-2f2d-47d7-8980-ab6aacb11a5b

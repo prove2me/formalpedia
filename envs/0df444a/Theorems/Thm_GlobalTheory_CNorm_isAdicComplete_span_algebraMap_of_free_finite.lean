@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_isAdicComplete_span_algebraMap_of_free_finite
 -- name    : GlobalTheory.CNorm.isAdicComplete_span_algebraMap_of_free_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:06:15.95535+00:00
 -- url     : https://prove2.me/theorems/7d299eea-9191-4652-8154-6371f7d73a8b

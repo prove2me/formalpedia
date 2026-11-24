@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PTIso_Places_exists_places_of_ringEquiv
 -- name    : GlobalTheory.CompanionTheory.PTIso.Places.exists_places_of_ringEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:55:24.703457+00:00
 -- url     : https://prove2.me/theorems/4fcd5c82-1a50-4211-9e91-191d8ea01550

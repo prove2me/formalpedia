@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_topologicalKrullDim_lt_of_isClosed_of_not_subset_irreducibleComponents
 -- name    : FunctorialResolution.EmbeddedResolution.topologicalKrullDim_lt_of_isClosed_of_not_subset_irreducibleComponents
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:47:48.509801+00:00
 -- url     : https://prove2.me/theorems/ef77a0f6-9f4e-418c-b141-48d14cfa3d7e

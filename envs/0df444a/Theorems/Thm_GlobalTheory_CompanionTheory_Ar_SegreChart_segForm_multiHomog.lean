@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_SegreChart_segForm_multiHomog
 -- name    : GlobalTheory.CompanionTheory.Ar.SegreChart.segForm_multiHomog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:20:56.381537+00:00
 -- url     : https://prove2.me/theorems/dbf66475-3265-4cef-a385-6f51df273894

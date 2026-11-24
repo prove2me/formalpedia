@@ -1,6 +1,6 @@
 -- Prove2me | solution 2 for GroundTheory.Arith.SchemeCoh.res_congr
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:44:56.433952+00:00
 -- url     : https://prove2.me/submissions/7f24f632-339b-4d64-8ce9-d78422d6d5b9
 

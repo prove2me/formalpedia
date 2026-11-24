@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GlobalTheory.countable_ideal_and_summable_absNorm_rpow
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T03:48:23.556108+00:00
 -- url     : https://prove2.me/submissions/840da9d3-876c-4f1c-80e1-dfdd3282a698
 

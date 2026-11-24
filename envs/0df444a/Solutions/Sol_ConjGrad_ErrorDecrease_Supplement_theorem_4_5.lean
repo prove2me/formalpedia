@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ConjGrad.ErrorDecrease.Supplement.theorem_4_5
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T09:11:55.252583+00:00
 -- url     : https://prove2.me/submissions/c1000f90-6535-45f0-b362-fc1265e6f666
 

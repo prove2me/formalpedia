@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartGL_Lower_conj_lower_contract
 -- name    : GlobalTheory.CompanionTheory.CartGL.Lower.conj_lower_contract
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:27:09.581477+00:00
 -- url     : https://prove2.me/theorems/bf3e96c9-e00e-4c16-a592-85e8307d6e40

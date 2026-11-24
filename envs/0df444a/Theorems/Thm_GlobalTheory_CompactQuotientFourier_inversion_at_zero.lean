@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactQuotientFourier_inversion_at_zero
 -- name    : GlobalTheory.CompactQuotientFourier.inversion_at_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:25:57.1098+00:00
 -- url     : https://prove2.me/theorems/ff3a8ef8-5d4c-4f72-af81-4ffacd3372c4

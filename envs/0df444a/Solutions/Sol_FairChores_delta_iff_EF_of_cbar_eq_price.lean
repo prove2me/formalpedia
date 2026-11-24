@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for FairChores.delta_iff_EF_of_cbar_eq_price
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T03:28:29.859594+00:00
 -- url     : https://prove2.me/submissions/287140ae-677d-4270-824a-a482e5dd690b
 

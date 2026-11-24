@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for FunctorialResolution.EmbeddedResolution.tunedIdeal_zero
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-23T23:49:38.548816+00:00
 -- url     : https://prove2.me/submissions/1be82bc5-ff0d-4bb3-8e63-70092dd4f130
 

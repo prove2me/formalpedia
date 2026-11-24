@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_SupplyAP_abelG
 -- name    : Formalism.HermitianLattices.Ext.SupplyAP.abelG
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:02:54.278739+00:00
 -- url     : https://prove2.me/theorems/2aa5bbcd-2ac3-4f89-adc7-575834808068

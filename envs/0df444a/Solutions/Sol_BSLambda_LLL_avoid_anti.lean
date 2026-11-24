@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.LLL.avoid_anti
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:54:47.070326+00:00
 -- url     : https://prove2.me/submissions/fcc60f7d-3221-4e50-ba5b-5da89fe74cdf
 

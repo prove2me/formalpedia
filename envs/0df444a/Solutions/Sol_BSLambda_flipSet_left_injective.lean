@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.flipSet_left_injective
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:52:18.870112+00:00
 -- url     : https://prove2.me/submissions/80d1e19e-d014-40c4-afb0-ce7577867069
 

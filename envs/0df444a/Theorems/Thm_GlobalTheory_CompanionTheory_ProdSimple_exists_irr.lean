@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ProdSimple_exists_irr
 -- name    : GlobalTheory.CompanionTheory.ProdSimple.exists_irr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:56:34.045839+00:00
 -- url     : https://prove2.me/theorems/a0f76181-2851-429b-a21d-87f502e28bd8

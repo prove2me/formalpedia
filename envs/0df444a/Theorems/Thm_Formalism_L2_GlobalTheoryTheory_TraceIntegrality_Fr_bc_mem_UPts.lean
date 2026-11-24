@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_TraceIntegrality_Fr_bc_mem_UPts
 -- name    : Formalism.L2.GlobalTheoryTheory.TraceIntegrality.Fr.bc_mem_UPts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:48:29.032802+00:00
 -- url     : https://prove2.me/theorems/2fc0a690-22d9-411c-9b4b-aef302da9976

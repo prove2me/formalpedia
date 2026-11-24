@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for FairChores.wtSum_mono
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T03:29:18.348587+00:00
 -- url     : https://prove2.me/submissions/54884e85-9978-49e0-9d28-f23d30f5f87f
 

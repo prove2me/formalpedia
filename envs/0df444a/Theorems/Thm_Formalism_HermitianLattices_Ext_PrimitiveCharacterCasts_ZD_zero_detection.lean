@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimitiveCharacterCasts_ZD_zero_detection
 -- name    : Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.ZD.zero_detection
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:42.311332+00:00
 -- url     : https://prove2.me/theorems/8b316915-1de0-4483-923d-f82ce9aa536a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_PresentedSmoothChart_exists_affineOpen_isPullback_specMap
 -- name    : FunctorialResolution.EmbeddedResolution.PresentedSmoothChart.exists_affineOpen_isPullback_specMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:47:02.894234+00:00
 -- url     : https://prove2.me/theorems/683b19d4-ddf4-4931-b7df-6b1a594ffd86

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReciprocityTheory.AnForm.A.continuous_tmax_shift
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T01:40:22.230546+00:00
 -- url     : https://prove2.me/submissions/4158cee1-a2ac-41dc-86a9-3dc473df0cf2
 

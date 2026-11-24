@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Hermite1DimdLEAN.shellCountingFormula
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T02:10:55.182821+00:00
 -- url     : https://prove2.me/submissions/ee7fd29b-b704-4458-9ba5-522519cd5453
 

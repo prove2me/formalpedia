@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_OrbitSection_coe_orbitSection_inv
 -- name    : GlobalTheory.CompanionTheory.OrbitSection.coe_orbitSection_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:53:38.52295+00:00
 -- url     : https://prove2.me/theorems/5464bd8d-7936-4c93-a5c6-fb63b8b85a1d

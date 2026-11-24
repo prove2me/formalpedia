@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_AtG_ne_bot_of_span_top
 -- name    : Formalism.AtG.ne_bot_of_span_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:43:20.972374+00:00
 -- url     : https://prove2.me/theorems/ac6a6a81-be67-4238-bf1c-4993c2aeb1aa

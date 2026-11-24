@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ClosedSubgroup_exp_smul_limit_mem
 -- name    : GlobalTheory.CompanionTheory.ClosedSubgroup.exp_smul_limit_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:34:16.049074+00:00
 -- url     : https://prove2.me/theorems/d6766558-acfd-42a7-948d-6630777f7a4f

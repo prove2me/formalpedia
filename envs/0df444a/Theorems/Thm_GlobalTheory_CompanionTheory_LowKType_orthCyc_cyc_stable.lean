@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LowKType_orthCyc_cyc_stable
 -- name    : GlobalTheory.CompanionTheory.LowKType.orthCyc_cyc_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:52:04.639777+00:00
 -- url     : https://prove2.me/theorems/520bce7d-b559-4653-8d35-2f8f178715f3

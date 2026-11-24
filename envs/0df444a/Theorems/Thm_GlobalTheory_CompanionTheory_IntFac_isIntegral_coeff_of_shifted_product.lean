@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_IntFac_isIntegral_coeff_of_shifted_product
 -- name    : GlobalTheory.CompanionTheory.IntFac.isIntegral_coeff_of_shifted_product
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:47:58.579533+00:00
 -- url     : https://prove2.me/theorems/e3fdffc6-a5cd-43aa-bc3c-e70e28949c41

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeBern_T_congr
 -- name    : GlobalTheory.CompanionTheory.HeckeBern.T_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:44:52.364788+00:00
 -- url     : https://prove2.me/theorems/a02a0e25-2e62-4221-a69b-407919725cf3

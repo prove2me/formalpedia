@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GlobalTheory.CompanionTheory.SW.Primes.summable_one_div_absNorm_sq
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T03:48:12.732892+00:00
 -- url     : https://prove2.me/submissions/6f402f1b-43d3-4025-bf74-a4291849d627
 

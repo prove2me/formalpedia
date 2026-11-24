@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_colKer
 -- name    : Formalism.NG.colKer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:17:36.775503+00:00
 -- url     : https://prove2.me/theorems/d58acc60-899d-4ee9-8f6a-78fcd232bf91

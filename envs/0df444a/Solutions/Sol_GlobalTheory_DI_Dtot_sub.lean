@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GlobalTheory.DI.Dtot_sub
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-23T22:51:31.088829+00:00
 -- url     : https://prove2.me/submissions/489f3a48-66e3-4829-bfcb-7ca8e9605a94
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qb_Mpi_eq_image
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qb_Mpi_eq_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:58:45.732771+00:00
 -- url     : https://prove2.me/theorems/c1dfd8dc-335f-4e7a-af0b-51f3a729efc3

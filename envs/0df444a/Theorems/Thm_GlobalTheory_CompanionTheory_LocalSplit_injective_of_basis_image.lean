@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LocalSplit_injective_of_basis_image
 -- name    : GlobalTheory.CompanionTheory.LocalSplit.injective_of_basis_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:51:49.814795+00:00
 -- url     : https://prove2.me/theorems/14c1dab8-80a6-4d7f-a555-fc7115ae9f85

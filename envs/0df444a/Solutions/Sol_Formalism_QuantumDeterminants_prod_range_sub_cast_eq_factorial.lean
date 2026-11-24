@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Formalism.QuantumDeterminants.prod_range_sub_cast_eq_factorial
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T10:37:06.050708+00:00
 -- url     : https://prove2.me/submissions/8366909b-9c0e-4280-9ce0-354683c7c890
 

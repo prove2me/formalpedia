@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_LatticeCoordinatesCommonDenominator_lattice_common_denominator
 -- name    : UpperTheory.Reformulated.B.LatticeCoordinatesCommonDenominator.lattice_common_denominator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:38:49.170803+00:00
 -- url     : https://prove2.me/theorems/30d7b252-d406-4325-970e-ffcbb4e94e47

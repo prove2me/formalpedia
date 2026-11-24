@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PolyGaussSchwartz_coord_temperate
 -- name    : GlobalTheory.CompanionTheory.PolyGaussSchwartz.coord_temperate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:54:59.233813+00:00
 -- url     : https://prove2.me/theorems/0a54a9cb-18b7-4b41-a525-af140d31050b

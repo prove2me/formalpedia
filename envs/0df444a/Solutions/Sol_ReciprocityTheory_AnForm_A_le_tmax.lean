@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReciprocityTheory.AnForm.A.le_tmax
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:33:18.090487+00:00
 -- url     : https://prove2.me/submissions/b0105b09-d96c-46dc-915e-a9287bb5ab61
 

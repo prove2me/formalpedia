@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_IdemTrace_not_dvd_trace
 -- name    : GlobalTheory.CompanionTheory.IdemTrace.not_dvd_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:47:47.452891+00:00
 -- url     : https://prove2.me/theorems/845a82d0-9a9d-4007-a83c-0d55b41f6b97

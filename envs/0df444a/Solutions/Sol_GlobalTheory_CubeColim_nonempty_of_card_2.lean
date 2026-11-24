@@ -1,6 +1,6 @@
 -- Prove2me | solution 2 for GlobalTheory.CubeColim.nonempty_of_card
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-23T22:51:10.431553+00:00
 -- url     : https://prove2.me/submissions/78fffeb8-0af7-4fdb-9190-4ccc1cb995cc
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffExt_mem_ImF_iff
 -- name    : GlobalTheory.CoeffExt.mem_ImF_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:15:18.961223+00:00
 -- url     : https://prove2.me/theorems/9e235ae5-00ca-4db5-b426-3c065220fc35

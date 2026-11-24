@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_IntFac_isIntegral_coeff_of_monic_dvd
 -- name    : GlobalTheory.CompanionTheory.IntFac.isIntegral_coeff_of_monic_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:48:24.749939+00:00
 -- url     : https://prove2.me/theorems/4f1089f9-0349-4ec7-963f-6a98baefc32d

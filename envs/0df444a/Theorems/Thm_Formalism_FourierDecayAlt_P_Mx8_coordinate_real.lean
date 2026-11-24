@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx8_coordinate_real
 -- name    : Formalism.FourierDecayAlt.P.Mx8.coordinate_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:47:26.127552+00:00
 -- url     : https://prove2.me/theorems/859254bb-6c97-4a6b-9a95-8ab3c7ecb7a3

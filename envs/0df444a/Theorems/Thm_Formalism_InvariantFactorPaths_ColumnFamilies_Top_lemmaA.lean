@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_Top_lemmaA
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.Top.lemmaA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:09:19.051885+00:00
 -- url     : https://prove2.me/theorems/e57ba5e4-b433-487f-8313-9134e50ca954

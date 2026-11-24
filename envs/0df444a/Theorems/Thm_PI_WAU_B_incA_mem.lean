@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_B_incA_mem
 -- name    : PI.WAU.B.incA_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:39:14.426451+00:00
 -- url     : https://prove2.me/theorems/e31141d1-c0f5-468c-ae7e-d622949499ac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Iwahori_Gauss_isUpper_mul
 -- name    : GlobalTheory.CompanionTheory.Iwahori.Gauss.isUpper_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:49:53.397382+00:00
 -- url     : https://prove2.me/theorems/f14ab379-11fd-4775-936d-1b4c389d5e94

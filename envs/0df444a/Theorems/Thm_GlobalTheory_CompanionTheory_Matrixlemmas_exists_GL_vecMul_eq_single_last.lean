@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Matrixlemmas_exists_GL_vecMul_eq_single_last
 -- name    : GlobalTheory.CompanionTheory.Matrixlemmas.exists_GL_vecMul_eq_single_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:53:06.306994+00:00
 -- url     : https://prove2.me/theorems/85bc1f87-6b1b-44e8-9dc4-f4f34307946a

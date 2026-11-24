@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EigenLift_nonzero_eigenvalue_lifts
 -- name    : GlobalTheory.CompanionTheory.EigenLift.nonzero_eigenvalue_lifts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:06:11.253981+00:00
 -- url     : https://prove2.me/theorems/11718da4-8517-4e6b-a072-5c10b84020a4

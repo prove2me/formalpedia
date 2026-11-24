@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_afsplitE_fst
 -- name    : Formalism.UG.P.afsplitE_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:34:27.643029+00:00
 -- url     : https://prove2.me/theorems/24e697a6-fd18-43af-8353-c07c7f916907

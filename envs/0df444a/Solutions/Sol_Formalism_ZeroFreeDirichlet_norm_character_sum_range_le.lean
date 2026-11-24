@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Formalism.ZeroFreeDirichlet.norm_character_sum_range_le
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T02:38:18.583903+00:00
 -- url     : https://prove2.me/submissions/552c58ea-dabd-4015-8b9c-532acf768985
 

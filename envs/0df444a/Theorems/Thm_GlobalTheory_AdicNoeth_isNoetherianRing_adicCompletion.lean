@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdicNoeth_isNoetherianRing_adicCompletion
 -- name    : GlobalTheory.AdicNoeth.isNoetherianRing_adicCompletion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:20:48.676566+00:00
 -- url     : https://prove2.me/theorems/c373953a-10ad-47ff-83d4-18fccf2dbca2

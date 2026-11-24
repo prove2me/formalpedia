@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MatrixRowSpace_row_mul
 -- name    : GlobalTheory.CompanionTheory.MatrixRowSpace.row_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:53:01.332054+00:00
 -- url     : https://prove2.me/theorems/2d08e7ee-962a-42f1-969e-8395d1a9776f

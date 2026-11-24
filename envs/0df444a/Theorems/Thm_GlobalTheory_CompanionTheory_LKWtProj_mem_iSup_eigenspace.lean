@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LKWtProj_mem_iSup_eigenspace
 -- name    : GlobalTheory.CompanionTheory.LKWtProj.mem_iSup_eigenspace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:52:17.861932+00:00
 -- url     : https://prove2.me/theorems/956f172e-36a5-4092-a44b-7d8962d7e405

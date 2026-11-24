@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for PositivityTheory.RgUd.T.Nil.Asm.isCoprime_lin
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T06:01:55.781211+00:00
 -- url     : https://prove2.me/submissions/be38c27d-eae3-46a2-9714-ccaab0355284
 

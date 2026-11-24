@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_hecke_convolution_mem_holds
 -- name    : Formalism.UG.P.hecke_convolution_mem_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:31:34.607034+00:00
 -- url     : https://prove2.me/theorems/94ab51e4-f0b0-45ba-9717-85a1b2170b98

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_EF_bijective
 -- name    : GlobalTheory.AnArc.EF_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:38:45.676626+00:00
 -- url     : https://prove2.me/theorems/ef579de2-cf77-4f6f-a318-1186d3d13574

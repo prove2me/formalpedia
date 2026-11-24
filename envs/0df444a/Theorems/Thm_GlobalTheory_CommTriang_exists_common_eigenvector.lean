@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommTriang_exists_common_eigenvector
 -- name    : GlobalTheory.CommTriang.exists_common_eigenvector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:15:04.189142+00:00
 -- url     : https://prove2.me/theorems/9f86ef97-1c81-4a96-bded-95d2a31e4cff

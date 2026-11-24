@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for FairChores.LitCounterexample.cbar_cc
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T03:28:19.055167+00:00
 -- url     : https://prove2.me/submissions/5890385a-8543-446c-8d9a-d9bbf5287175
 

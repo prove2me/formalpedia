@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.flipSet_apply_eq_self_iff
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:47:20.642803+00:00
 -- url     : https://prove2.me/submissions/5e96f36d-e484-4d78-87f2-4e131ec29760
 

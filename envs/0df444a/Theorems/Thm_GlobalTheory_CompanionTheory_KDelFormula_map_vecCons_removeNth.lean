@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KDelFormula_map_vecCons_removeNth
 -- name    : GlobalTheory.CompanionTheory.KDelFormula.map_vecCons_removeNth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:49:21.030926+00:00
 -- url     : https://prove2.me/theorems/58c0c704-580c-4bf9-857e-3146172ff867

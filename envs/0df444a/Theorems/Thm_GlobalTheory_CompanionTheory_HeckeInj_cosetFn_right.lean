@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeInj_cosetFn_right
 -- name    : GlobalTheory.CompanionTheory.HeckeInj.cosetFn_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:46:50.015457+00:00
 -- url     : https://prove2.me/theorems/6262d72c-fbf9-4955-86b4-d4c6e20b6fde

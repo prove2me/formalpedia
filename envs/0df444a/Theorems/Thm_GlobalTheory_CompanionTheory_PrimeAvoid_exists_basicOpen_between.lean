@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PrimeAvoid_exists_basicOpen_between
 -- name    : GlobalTheory.CompanionTheory.PrimeAvoid.exists_basicOpen_between
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:55:23.512802+00:00
 -- url     : https://prove2.me/theorems/7bd328c3-9952-4a80-875e-6a7aa4772711

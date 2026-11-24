@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HtGaussUniq
 -- name    : HtGaussUniq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:36:22.085851+00:00
 -- url     : https://prove2.me/theorems/df2e3a26-c842-4b4f-95df-23c9ef9552f0

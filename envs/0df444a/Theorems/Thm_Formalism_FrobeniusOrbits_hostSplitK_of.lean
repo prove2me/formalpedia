@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_hostSplitK_of
 -- name    : Formalism.FrobeniusOrbits.hostSplitK_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:39:27.041002+00:00
 -- url     : https://prove2.me/theorems/bf583a6c-294c-4e74-8a09-83bf217ef8ef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_genericPoint_ne_zero
 -- name    : GlobalTheory.Chow.genericPoint_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:49:41.8284+00:00
 -- url     : https://prove2.me/theorems/c2c81880-aee0-4e06-a144-abe3945191ee

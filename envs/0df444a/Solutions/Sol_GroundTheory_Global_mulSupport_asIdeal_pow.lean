@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GroundTheory.Global.mulSupport_asIdeal_pow
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T03:59:44.066292+00:00
 -- url     : https://prove2.me/submissions/c17571de-dcde-4ba2-b181-f2c3899a5895
 

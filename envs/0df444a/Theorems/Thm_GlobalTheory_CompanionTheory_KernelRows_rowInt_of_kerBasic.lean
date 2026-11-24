@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KernelRows_rowInt_of_kerBasic
 -- name    : GlobalTheory.CompanionTheory.KernelRows.rowInt_of_kerBasic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:50:43.09347+00:00
 -- url     : https://prove2.me/theorems/ac8ac5c6-96ab-49b0-9488-0b0bf73bc0ee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeInj_finite_quot
 -- name    : GlobalTheory.CompanionTheory.HeckeInj.finite_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:46:32.082943+00:00
 -- url     : https://prove2.me/theorems/10a18660-2547-411a-8621-2c4dc05790bb

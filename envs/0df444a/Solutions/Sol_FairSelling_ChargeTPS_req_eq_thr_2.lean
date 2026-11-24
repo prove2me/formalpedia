@@ -1,6 +1,6 @@
 -- Prove2me | solution 2 for FairSelling.ChargeTPS.req_eq_thr
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T01:24:54.958803+00:00
 -- url     : https://prove2.me/submissions/ba9260ba-9fbf-4bb4-b11c-4f7d77c63728
 

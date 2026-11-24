@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TruncatedSeriesCounting_TruncatedSeriesCountingIdentities_det_poly_statement
 -- name    : Formalism.TruncatedSeriesCounting.TruncatedSeriesCountingIdentities.det_poly_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:29:23.479831+00:00
 -- url     : https://prove2.me/theorems/c6478760-342d-4b56-9d0e-ccbec85b90ab

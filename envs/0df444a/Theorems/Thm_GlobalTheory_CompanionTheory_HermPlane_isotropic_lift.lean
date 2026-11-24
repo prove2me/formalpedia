@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HermPlane_isotropic_lift
 -- name    : GlobalTheory.CompanionTheory.HermPlane.isotropic_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:48:22.217493+00:00
 -- url     : https://prove2.me/theorems/aecf40c5-b275-4f87-99d6-3b984507846c

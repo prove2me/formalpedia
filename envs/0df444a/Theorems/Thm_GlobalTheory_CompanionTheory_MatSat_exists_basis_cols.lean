@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MatSat_exists_basis_cols
 -- name    : GlobalTheory.CompanionTheory.MatSat.exists_basis_cols
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:53:05.809122+00:00
 -- url     : https://prove2.me/theorems/03b7fd83-8954-4209-91e7-c41179fe0f80

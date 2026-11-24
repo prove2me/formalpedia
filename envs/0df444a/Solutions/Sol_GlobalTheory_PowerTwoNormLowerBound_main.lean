@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GlobalTheory.PowerTwoNormLowerBound.main
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T01:33:35.497135+00:00
 -- url     : https://prove2.me/submissions/6099a504-3608-4753-942e-77b95991269c
 

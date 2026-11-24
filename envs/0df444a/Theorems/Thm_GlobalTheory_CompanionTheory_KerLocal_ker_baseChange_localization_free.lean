@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KerLocal_ker_baseChange_localization_free
 -- name    : GlobalTheory.CompanionTheory.KerLocal.ker_baseChange_localization_free
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:50:41.188204+00:00
 -- url     : https://prove2.me/theorems/f98bd7b4-5019-4244-9a9b-aad6c2694b18

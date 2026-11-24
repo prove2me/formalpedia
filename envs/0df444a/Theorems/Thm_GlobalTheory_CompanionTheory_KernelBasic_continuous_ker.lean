@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KernelBasic_continuous_ker
 -- name    : GlobalTheory.CompanionTheory.KernelBasic.continuous_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:51:01.244892+00:00
 -- url     : https://prove2.me/theorems/f90a6c9a-5ff5-4552-9c18-354ae8270f1b

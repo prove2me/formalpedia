@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_LocalResolutionData_comap_reducedInverseImage_chartToLastObj
 -- name    : FunctorialResolution.EmbeddedResolution.LocalResolutionData.comap_reducedInverseImage_chartToLastObj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:46:13.607401+00:00
 -- url     : https://prove2.me/theorems/e84fd2cf-49fe-4a58-9f9b-dbfe26e24a5f

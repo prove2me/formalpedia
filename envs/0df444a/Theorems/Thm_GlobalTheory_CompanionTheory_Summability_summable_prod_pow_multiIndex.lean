@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Summability_summable_prod_pow_multiIndex
 -- name    : GlobalTheory.CompanionTheory.Summability.summable_prod_pow_multiIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:16:33.788646+00:00
 -- url     : https://prove2.me/theorems/07a8af0e-da83-4446-a5a1-58aa74896e6f

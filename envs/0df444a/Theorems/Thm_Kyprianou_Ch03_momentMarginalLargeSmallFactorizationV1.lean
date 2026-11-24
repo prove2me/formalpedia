@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_momentMarginalLargeSmallFactorizationV1
 -- name    : Kyprianou.Ch03.momentMarginalLargeSmallFactorizationV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T12:30:27.278961+00:00
 -- url     : https://prove2.me/theorems/eaabed97-7a10-4b6b-9d55-ec368594a118

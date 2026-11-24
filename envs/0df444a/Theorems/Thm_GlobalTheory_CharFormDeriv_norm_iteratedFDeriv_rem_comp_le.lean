@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharFormDeriv_norm_iteratedFDeriv_rem_comp_le
 -- name    : GlobalTheory.CharFormDeriv.norm_iteratedFDeriv_rem_comp_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:07:32.178607+00:00
 -- url     : https://prove2.me/theorems/b7a9e0e9-68ac-4348-a1a8-14f2d8076503

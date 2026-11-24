@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Equi_InfScale_map_theta_mul
 -- name    : GlobalTheory.CompanionTheory.Equi.InfScale.map_theta_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:39:14.273454+00:00
 -- url     : https://prove2.me/theorems/01cd6648-94e3-4f2e-85d6-6b10d64a34a7

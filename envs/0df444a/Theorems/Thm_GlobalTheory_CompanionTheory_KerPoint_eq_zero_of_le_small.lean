@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KerPoint_eq_zero_of_le_small
 -- name    : GlobalTheory.CompanionTheory.KerPoint.eq_zero_of_le_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:50:41.745092+00:00
 -- url     : https://prove2.me/theorems/dc94bf7b-fbcc-4971-9cb7-820d1dcd5c69

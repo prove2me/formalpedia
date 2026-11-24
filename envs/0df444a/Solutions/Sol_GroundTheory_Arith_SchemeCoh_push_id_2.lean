@@ -1,6 +1,6 @@
 -- Prove2me | solution 2 for GroundTheory.Arith.SchemeCoh.push_id
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:44:57.255743+00:00
 -- url     : https://prove2.me/submissions/25e04cbd-54b1-4ece-849e-d25a4393a740
 

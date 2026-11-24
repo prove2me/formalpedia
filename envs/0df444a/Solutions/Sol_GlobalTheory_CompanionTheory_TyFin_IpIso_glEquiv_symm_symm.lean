@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GlobalTheory.CompanionTheory.TyFin.IpIso.glEquiv_symm_symm
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:29:45.02914+00:00
 -- url     : https://prove2.me/submissions/99d98aa1-5618-4eb8-b733-842961177e09
 

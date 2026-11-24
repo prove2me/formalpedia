@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Iwahori_Gauss_step
 -- name    : GlobalTheory.CompanionTheory.Iwahori.Gauss.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:49:45.261807+00:00
 -- url     : https://prove2.me/theorems/906ebb45-c95b-4038-a9dd-b689e4dcd027

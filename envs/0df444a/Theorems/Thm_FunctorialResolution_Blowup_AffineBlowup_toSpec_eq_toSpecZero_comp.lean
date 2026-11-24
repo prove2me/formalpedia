@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_AffineBlowup_toSpec_eq_toSpecZero_comp
 -- name    : FunctorialResolution.Blowup.AffineBlowup.toSpec_eq_toSpecZero_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:41:59.666145+00:00
 -- url     : https://prove2.me/theorems/066f6319-1cfd-4e6b-9085-a86eb13daaae

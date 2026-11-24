@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GlobalTheory.LocRep.locallyIntegrable_rep
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T04:15:01.230832+00:00
 -- url     : https://prove2.me/submissions/5d0b1218-50ac-4eda-927d-58f6f11f2b19
 

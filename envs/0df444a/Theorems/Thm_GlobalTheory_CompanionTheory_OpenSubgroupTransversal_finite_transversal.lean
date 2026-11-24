@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_OpenSubgroupTransversal_finite_transversal
 -- name    : GlobalTheory.CompanionTheory.OpenSubgroupTransversal.finite_transversal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:53:31.387331+00:00
 -- url     : https://prove2.me/theorems/6469b8ef-9ed5-4c05-b6c8-f2a73e891c5e

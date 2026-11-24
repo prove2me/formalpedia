@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KerLinear_kerLin_of_kerBasic
 -- name    : GlobalTheory.CompanionTheory.KerLinear.kerLin_of_kerBasic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:50:36.749708+00:00
 -- url     : https://prove2.me/theorems/934d8243-e291-4558-9f9f-7db1fb21b387

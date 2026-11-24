@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_sum_C_mul_linForm_340fe0b4ae9c
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T04:28:06.543812+00:00
 -- url     : https://prove2.me/submissions/c4e8efab-51a2-4940-be9d-4a06bdbd68c2
 

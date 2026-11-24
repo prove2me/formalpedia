@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLevelGenB_val_int
 -- name    : Formalism.MainNotions.BridgeLevelGenB.val_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:40:21.859798+00:00
 -- url     : https://prove2.me/theorems/36cb7266-66e3-4168-bc8d-5d05954794e6

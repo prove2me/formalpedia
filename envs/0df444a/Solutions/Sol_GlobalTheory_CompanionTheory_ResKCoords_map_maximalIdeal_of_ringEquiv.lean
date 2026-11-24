@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GlobalTheory.CompanionTheory.ResKCoords.map_maximalIdeal_of_ringEquiv
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T12:04:36.660905+00:00
 -- url     : https://prove2.me/submissions/eae392d1-32ec-40af-8a1b-2fb3171158d8
 

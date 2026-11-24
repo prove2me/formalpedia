@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_OrbitSection_continuousOn_shear
 -- name    : GlobalTheory.CompanionTheory.OrbitSection.continuousOn_shear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:53:41.678824+00:00
 -- url     : https://prove2.me/theorems/b81c06a9-decc-4eea-9c11-d3fbacfc60d1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MidConj_mul_single_one_mul_apply
 -- name    : GlobalTheory.CompanionTheory.MidConj.mul_single_one_mul_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:53:16.010745+00:00
 -- url     : https://prove2.me/theorems/cffafe4a-f796-40fa-b0d9-603e6e99a86f

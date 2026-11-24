@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GlobalTheory.CharInvForm.iteratedDeriv_exp_I
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T11:42:41.869801+00:00
 -- url     : https://prove2.me/submissions/e3ca1d59-2c2b-473f-954b-473062642a1f
 

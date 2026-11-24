@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_afsplitC_int
 -- name    : Formalism.UG.P.afsplitC_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:34:57.695141+00:00
 -- url     : https://prove2.me/theorems/37f4cd04-8541-4713-bd20-d808acc16e4f

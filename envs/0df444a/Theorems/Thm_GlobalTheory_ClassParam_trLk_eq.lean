@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassParam_trLk_eq
 -- name    : GlobalTheory.ClassParam.trLk_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:21:40.526924+00:00
 -- url     : https://prove2.me/theorems/f241f3c7-9c75-495f-8dac-02a9733f28f1

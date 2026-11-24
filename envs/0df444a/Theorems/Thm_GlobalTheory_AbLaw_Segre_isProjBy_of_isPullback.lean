@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_Segre_isProjBy_of_isPullback
 -- name    : GlobalTheory.AbLaw.Segre.isProjBy_of_isPullback
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:13:37.39212+00:00
 -- url     : https://prove2.me/theorems/8ea388dd-6bbf-483c-bf72-0d40450c8b69

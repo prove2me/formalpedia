@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_TMv_lineRestr_add
 -- name    : Formalism.L2.Th1.H.TMv.lineRestr_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:23:59.413999+00:00
 -- url     : https://prove2.me/theorems/cacaf500-5bb9-4d45-b39b-d7fba4ea922c

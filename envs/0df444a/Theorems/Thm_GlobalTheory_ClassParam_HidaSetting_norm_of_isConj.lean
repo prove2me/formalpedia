@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassParam_HidaSetting_norm_of_isConj
 -- name    : GlobalTheory.ClassParam.HidaSetting.norm_of_isConj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:13:26.106082+00:00
 -- url     : https://prove2.me/theorems/f95dcd29-a55b-4619-9161-a9992166ad5c

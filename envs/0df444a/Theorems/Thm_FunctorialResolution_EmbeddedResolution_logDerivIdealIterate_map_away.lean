@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_logDerivIdealIterate_map_away
 -- name    : FunctorialResolution.EmbeddedResolution.logDerivIdealIterate_map_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:47:56.270132+00:00
 -- url     : https://prove2.me/theorems/2935e25c-e882-47d4-903c-149049c9884b

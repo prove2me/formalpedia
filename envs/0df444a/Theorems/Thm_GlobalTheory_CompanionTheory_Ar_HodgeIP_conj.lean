@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_HodgeIP_conj
 -- name    : GlobalTheory.CompanionTheory.Ar.HodgeIP.conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:55:19.702811+00:00
 -- url     : https://prove2.me/theorems/246bf07c-92bc-4d27-aab2-2b365bded1f5

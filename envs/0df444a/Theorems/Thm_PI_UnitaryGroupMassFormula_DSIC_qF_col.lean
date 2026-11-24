@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_DSIC_qF_col
 -- name    : PI.UnitaryGroupMassFormula.DSIC.qF_col
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:33:13.470136+00:00
 -- url     : https://prove2.me/theorems/7bcb4752-7ef7-4a12-8b74-f3093df0f311

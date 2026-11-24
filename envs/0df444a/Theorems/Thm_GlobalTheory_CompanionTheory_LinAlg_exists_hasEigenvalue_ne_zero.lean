@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LinAlg_exists_hasEigenvalue_ne_zero
 -- name    : GlobalTheory.CompanionTheory.LinAlg.exists_hasEigenvalue_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:51:59.368803+00:00
 -- url     : https://prove2.me/theorems/8f5768da-3c0b-476f-83b5-3096d59705c1

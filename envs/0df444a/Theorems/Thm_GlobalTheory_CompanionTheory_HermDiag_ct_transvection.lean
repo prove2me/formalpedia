@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HermDiag_ct_transvection
 -- name    : GlobalTheory.CompanionTheory.HermDiag.ct_transvection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:46:57.604106+00:00
 -- url     : https://prove2.me/theorems/349954a1-1a2a-4636-a1ef-b200e3d7a457

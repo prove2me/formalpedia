@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Formalism.IndefR.Fin.Four.chi_nsmul_left
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T04:32:22.506134+00:00
 -- url     : https://prove2.me/submissions/f2a93c8b-8b5b-478f-9dbb-562b995d8384
 

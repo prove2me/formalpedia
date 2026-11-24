@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ChainCAR_sg_erase
 -- name    : GlobalTheory.CompanionTheory.ChainCAR.sg_erase
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:22:38.700807+00:00
 -- url     : https://prove2.me/theorems/200c1cf8-5531-4c48-a8bf-a4f5bb523995

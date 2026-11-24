@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_real_lfunction_real_on_reals
 -- name    : Formalism.ZeroFreeDirichlet.real_lfunction_real_on_reals
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:44:04.068066+00:00
 -- url     : https://prove2.me/theorems/e00217d4-964c-4279-b9c1-d59dd6258c2f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_fglMap
 -- name    : Formalism.L2.Th1.A.fglMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:20:06.053908+00:00
 -- url     : https://prove2.me/theorems/ac977d52-876a-4d8d-8a98-bec7956b5928

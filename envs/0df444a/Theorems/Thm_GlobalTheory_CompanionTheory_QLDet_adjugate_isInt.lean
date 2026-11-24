@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QLDet_adjugate_isInt
 -- name    : GlobalTheory.CompanionTheory.QLDet.adjugate_isInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:55:53.147901+00:00
 -- url     : https://prove2.me/theorems/1b7cdb18-763f-485c-ac49-6e96eacd234a

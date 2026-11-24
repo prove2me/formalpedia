@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.IsTournament.outNbrs_union_inNbrs
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:53:45.681598+00:00
 -- url     : https://prove2.me/submissions/ee294793-22ed-4817-b077-b871c6362743
 

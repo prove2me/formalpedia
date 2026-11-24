@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GroundTheory.Global.higherDegreePrimes_subset
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T03:55:59.129861+00:00
 -- url     : https://prove2.me/submissions/0183213e-eaee-4dd8-a501-611372c7a5e6
 

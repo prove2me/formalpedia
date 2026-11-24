@@ -1,6 +1,6 @@
 -- Prove2me | solution 2 for P2M_GroundTheory_Heights__Heights_NumbersDVR_liftForm_X_709b97b21fde
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:49:27.92538+00:00
 -- url     : https://prove2.me/submissions/f7ea7e97-0fa4-4ecf-a579-ebc57af02b62
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Kloc_Fresnel_integral_gauss_kerOp
 -- name    : GlobalTheory.CompanionTheory.Kloc.Fresnel.integral_gauss_kerOp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:50:26.152166+00:00
 -- url     : https://prove2.me/theorems/96f9ad24-7b5e-4e98-8971-8d304ee5d477

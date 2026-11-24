@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_IwasawaGen_skew_add_upper
 -- name    : GlobalTheory.CompanionTheory.IwasawaGen.skew_add_upper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:49:53.096599+00:00
 -- url     : https://prove2.me/theorems/71c70dba-d840-480e-89d8-de136268964f

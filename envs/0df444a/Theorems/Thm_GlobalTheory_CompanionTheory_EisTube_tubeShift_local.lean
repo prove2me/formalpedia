@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EisTube_tubeShift_local
 -- name    : GlobalTheory.CompanionTheory.EisTube.tubeShift_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:37:21.009802+00:00
 -- url     : https://prove2.me/theorems/4acad8c7-c233-4613-905e-c075066efe65

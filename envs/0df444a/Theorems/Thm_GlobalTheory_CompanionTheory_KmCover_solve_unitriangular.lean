@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KmCover_solve_unitriangular
 -- name    : GlobalTheory.CompanionTheory.KmCover.solve_unitriangular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:50:55.646072+00:00
 -- url     : https://prove2.me/theorems/af639a15-9198-4779-932e-0234317f0308

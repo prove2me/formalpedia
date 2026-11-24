@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_QIndex_ConjLe_conj_entry
 -- name    : GlobalTheory.CompanionTheory.QL.QIndex.ConjLe.conj_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:55:48.71066+00:00
 -- url     : https://prove2.me/theorems/bdf06130-010b-4c5f-99f5-4c109026faea

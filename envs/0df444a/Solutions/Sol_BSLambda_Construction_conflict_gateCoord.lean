@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.Construction.conflict_gateCoord
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:50:25.497698+00:00
 -- url     : https://prove2.me/submissions/516d2e4b-cfb6-4b48-828a-fa4d1db169cf
 

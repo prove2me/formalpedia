@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AugCot_rankAtStalk_of_locally
 -- name    : GlobalTheory.AugCot.rankAtStalk_of_locally
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:45:21.799321+00:00
 -- url     : https://prove2.me/theorems/c3f0c295-4245-4be0-a820-7430b74cb0e8

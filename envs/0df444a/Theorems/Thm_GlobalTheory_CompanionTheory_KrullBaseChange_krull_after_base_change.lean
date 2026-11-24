@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KrullBaseChange_krull_after_base_change
 -- name    : GlobalTheory.CompanionTheory.KrullBaseChange.krull_after_base_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:52:32.188579+00:00
 -- url     : https://prove2.me/theorems/7af99947-b3fe-4199-b53b-72d4fe983cb4

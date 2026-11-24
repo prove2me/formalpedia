@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GroundTheory.Global.finite_range_of_profinite
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T04:11:03.696799+00:00
 -- url     : https://prove2.me/submissions/ca5c2930-5382-4a9c-aea3-1e19e907f5bf
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LinAlg_exists_common_eigenvector_in_submodule
 -- name    : GlobalTheory.CompanionTheory.LinAlg.exists_common_eigenvector_in_submodule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:51:53.312803+00:00
 -- url     : https://prove2.me/theorems/6552a8c9-c018-4a56-8f80-5c46a9b9c366

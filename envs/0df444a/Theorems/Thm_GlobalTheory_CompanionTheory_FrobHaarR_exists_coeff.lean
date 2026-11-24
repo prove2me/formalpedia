@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FrobHaarR_exists_coeff
 -- name    : GlobalTheory.CompanionTheory.FrobHaarR.exists_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:42:50.061934+00:00
 -- url     : https://prove2.me/theorems/73de8b0b-12b3-42ee-a0e5-dd3cabfa3a0f

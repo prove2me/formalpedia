@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_chk_lBoundRight
 -- name    : chk_lBoundRight
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:23:47.71557+00:00
 -- url     : https://prove2.me/theorems/633bbd2a-27fd-443e-a300-b536a543394b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HaarUnimod_isMulRightInvariant_of_isUnimod
 -- name    : GlobalTheory.CompanionTheory.HaarUnimod.isMulRightInvariant_of_isUnimod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:45:33.655802+00:00
 -- url     : https://prove2.me/theorems/3487e18e-e14a-4e65-9120-92a4aeb72ffe

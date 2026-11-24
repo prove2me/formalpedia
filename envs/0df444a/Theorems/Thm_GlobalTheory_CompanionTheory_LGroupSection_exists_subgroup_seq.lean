@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LGroupSection_exists_subgroup_seq
 -- name    : GlobalTheory.CompanionTheory.LGroupSection.exists_subgroup_seq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:52:02.855962+00:00
 -- url     : https://prove2.me/theorems/77d83d19-771b-4faf-aea6-4c2485d9f1d2

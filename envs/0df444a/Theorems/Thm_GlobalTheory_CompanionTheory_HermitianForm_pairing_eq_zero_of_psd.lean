@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HermitianForm_pairing_eq_zero_of_psd
 -- name    : GlobalTheory.CompanionTheory.HermitianForm.pairing_eq_zero_of_psd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:48:46.229805+00:00
 -- url     : https://prove2.me/theorems/d4ca0c9b-2c2f-4528-8d9c-3acfd1ec55a0

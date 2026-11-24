@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HolMean_DilatedGaussian_differentiable_dilated
 -- name    : GlobalTheory.CompanionTheory.HolMean.DilatedGaussian.differentiable_dilated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:48:23.645851+00:00
 -- url     : https://prove2.me/theorems/407d91a5-5570-4fe7-b9bb-dd426c747f02

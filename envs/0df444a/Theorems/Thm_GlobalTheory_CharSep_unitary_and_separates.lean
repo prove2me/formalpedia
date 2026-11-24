@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharSep_unitary_and_separates
 -- name    : GlobalTheory.CharSep.unitary_and_separates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:08:05.235719+00:00
 -- url     : https://prove2.me/theorems/8cfad8b6-47ee-48b4-ba1c-98e1f43d6b02

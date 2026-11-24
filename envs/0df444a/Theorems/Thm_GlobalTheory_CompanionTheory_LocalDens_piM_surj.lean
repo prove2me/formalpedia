@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LocalDens_piM_surj
 -- name    : GlobalTheory.CompanionTheory.LocalDens.piM_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:51:46.312842+00:00
 -- url     : https://prove2.me/theorems/1d5f4909-71f9-4b69-b28e-87b8ffba5cc1

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for P2M_GroundTheory_Heights__Heights_EffectiveHS_MulTower_Raises_pow_f43fcada5b6c
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:33:17.103108+00:00
 -- url     : https://prove2.me/submissions/5f8b4090-4a5e-4d9f-a0ac-8fa44cb5fe9a
 

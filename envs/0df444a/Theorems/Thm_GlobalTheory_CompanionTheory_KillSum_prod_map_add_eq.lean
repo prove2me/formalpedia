@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KillSum_prod_map_add_eq
 -- name    : GlobalTheory.CompanionTheory.KillSum.prod_map_add_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:51:05.67907+00:00
 -- url     : https://prove2.me/theorems/ea6e8dec-e8c4-4446-90cf-3c85a56149d2

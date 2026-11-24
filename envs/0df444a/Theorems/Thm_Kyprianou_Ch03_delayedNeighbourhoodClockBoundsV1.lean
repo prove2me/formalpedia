@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_delayedNeighbourhoodClockBoundsV1
 -- name    : Kyprianou.Ch03.delayedNeighbourhoodClockBoundsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T12:13:59.883516+00:00
 -- url     : https://prove2.me/theorems/a6ea22d6-1a59-4a0f-9bc0-aa0363dffd88

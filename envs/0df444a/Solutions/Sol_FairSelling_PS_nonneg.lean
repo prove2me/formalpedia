@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for FairSelling.PS_nonneg
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T02:26:14.306581+00:00
 -- url     : https://prove2.me/submissions/3deb9a04-b9ae-44c2-b778-d2f2c4f5182e
 

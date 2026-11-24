@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HermDiag_diagble_reindex
 -- name    : GlobalTheory.CompanionTheory.HermDiag.diagble_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:46:50.397818+00:00
 -- url     : https://prove2.me/theorems/29d00947-19ab-4ae8-812b-7781a3479ee8

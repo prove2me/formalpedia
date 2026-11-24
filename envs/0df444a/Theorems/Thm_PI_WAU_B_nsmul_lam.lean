@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_B_nsmul_lam
 -- name    : PI.WAU.B.nsmul_lam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:38:25.662927+00:00
 -- url     : https://prove2.me/theorems/7d4a9fad-24f4-4b84-83d5-1378703cfefd

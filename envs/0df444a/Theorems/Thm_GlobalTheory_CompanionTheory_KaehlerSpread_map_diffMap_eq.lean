@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KaehlerSpread_map_diffMap_eq
 -- name    : GlobalTheory.CompanionTheory.KaehlerSpread.map_diffMap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:51:01.966729+00:00
 -- url     : https://prove2.me/theorems/32c130a2-e714-487e-9b54-7c6ee1a8852f

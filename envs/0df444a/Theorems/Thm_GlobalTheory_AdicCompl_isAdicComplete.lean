@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdicCompl_isAdicComplete
 -- name    : GlobalTheory.AdicCompl.isAdicComplete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:55:48.064002+00:00
 -- url     : https://prove2.me/theorems/24a23d47-99fc-4f0c-9c2e-92b86f32dbcb

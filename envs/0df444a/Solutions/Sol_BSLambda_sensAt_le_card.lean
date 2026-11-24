@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.sensAt_le_card
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:53:53.512272+00:00
 -- url     : https://prove2.me/submissions/888d1a53-71f8-4cee-b29e-467c79b3d416
 

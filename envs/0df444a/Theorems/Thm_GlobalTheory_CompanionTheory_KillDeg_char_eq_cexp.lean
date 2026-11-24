@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KillDeg_char_eq_cexp
 -- name    : GlobalTheory.CompanionTheory.KillDeg.char_eq_cexp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:50:46.082185+00:00
 -- url     : https://prove2.me/theorems/104bbb4c-b956-4cd7-baac-b62cae956034

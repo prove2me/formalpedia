@@ -1,6 +1,6 @@
 -- Prove2me | solution 2 for InverseZeroSum.Candidate3.representativeSet_card_of_pairwise
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T05:26:45.39734+00:00
 -- url     : https://prove2.me/submissions/1eb760e6-9f51-40b6-b5dc-e9f99858ae85
 

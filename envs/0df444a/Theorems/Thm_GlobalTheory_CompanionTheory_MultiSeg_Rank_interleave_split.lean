@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MultiSeg_Rank_interleave_split
 -- name    : GlobalTheory.CompanionTheory.MultiSeg.Rank.interleave_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:53:11.772803+00:00
 -- url     : https://prove2.me/theorems/9418dab5-70ab-4ae5-9e90-3103be705eaa

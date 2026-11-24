@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_exists_idele_section_of_ideal
 -- name    : GlobalTheory.CMVal.exists_idele_section_of_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:06:47.499229+00:00
 -- url     : https://prove2.me/theorems/76977aa9-6e5d-4048-832d-ea70c5651525

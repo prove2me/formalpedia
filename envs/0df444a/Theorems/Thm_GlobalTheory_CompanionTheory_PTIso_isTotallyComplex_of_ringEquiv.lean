@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PTIso_isTotallyComplex_of_ringEquiv
 -- name    : GlobalTheory.CompanionTheory.PTIso.isTotallyComplex_of_ringEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:54:30.827921+00:00
 -- url     : https://prove2.me/theorems/b83e3cf3-b335-4bb9-9cc1-9e879f746589

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.LocalQuotientRank.span_tmul_one
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T04:45:36.561509+00:00
 -- url     : https://prove2.me/submissions/59cd0398-201e-4169-a649-38ae0f699ae7
 

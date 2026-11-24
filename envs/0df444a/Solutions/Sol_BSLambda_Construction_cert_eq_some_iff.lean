@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.Construction.cert_eq_some_iff
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:50:37.368158+00:00
 -- url     : https://prove2.me/submissions/7f40fddf-5a65-4835-8ce8-bf5516e29914
 

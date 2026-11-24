@@ -1,6 +1,6 @@
 -- Prove2me | solution 2 for P2M_GroundTheory_Heights__Heights_relabelRingEquiv_X_7a46ccc5629a
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:32:14.305285+00:00
 -- url     : https://prove2.me/submissions/a351168d-e0cd-4cf2-ba2f-70c4849355cf
 

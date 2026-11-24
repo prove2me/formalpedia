@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Kloc_Fresnel_norm_cexp_le_one_of_re_nonpos
 -- name    : GlobalTheory.CompanionTheory.Kloc.Fresnel.norm_cexp_le_one_of_re_nonpos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:50:42.991928+00:00
 -- url     : https://prove2.me/theorems/0e4c9f4f-25bf-4c14-ac54-6ddf5ffa1548

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_colon_count_bound
 -- name    : Formalism.HermitianLatticeCounting.P.colon_count_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:40.764011+00:00
 -- url     : https://prove2.me/theorems/b2cabb66-e8ed-4a65-b52e-38f5f258ed60

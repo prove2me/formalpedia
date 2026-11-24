@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KernelColumn_colSq_of_kerBasic
 -- name    : GlobalTheory.CompanionTheory.KernelColumn.colSq_of_kerBasic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:50:43.243253+00:00
 -- url     : https://prove2.me/theorems/ec0beb14-2b21-4496-b969-d006f88995e7

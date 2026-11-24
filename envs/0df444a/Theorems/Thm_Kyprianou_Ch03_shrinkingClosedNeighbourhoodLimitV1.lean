@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_shrinkingClosedNeighbourhoodLimitV1
 -- name    : Kyprianou.Ch03.shrinkingClosedNeighbourhoodLimitV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T12:27:50.639343+00:00
 -- url     : https://prove2.me/theorems/9e1844d7-a1c8-4c9e-a58a-e9e5db2715ba

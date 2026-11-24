@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PRep_JacExact_isOpen_stabIn
 -- name    : GlobalTheory.CompanionTheory.PRep.JacExact.isOpen_stabIn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:54:50.313814+00:00
 -- url     : https://prove2.me/theorems/e8ef661b-8772-435f-9ab8-05608dd9c7ea

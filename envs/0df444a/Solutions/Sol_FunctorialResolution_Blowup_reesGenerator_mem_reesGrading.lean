@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for FunctorialResolution.Blowup.reesGenerator_mem_reesGrading
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-23T23:49:40.105586+00:00
 -- url     : https://prove2.me/submissions/55134c78-53e3-470f-8ddb-27d4c28f0bef
 

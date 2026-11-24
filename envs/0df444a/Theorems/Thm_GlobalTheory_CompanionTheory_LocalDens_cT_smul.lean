@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LocalDens_cT_smul
 -- name    : GlobalTheory.CompanionTheory.LocalDens.cT_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:52:34.450518+00:00
 -- url     : https://prove2.me/theorems/266a2c48-ada9-44bd-8b07-f7ea5ca2d72c

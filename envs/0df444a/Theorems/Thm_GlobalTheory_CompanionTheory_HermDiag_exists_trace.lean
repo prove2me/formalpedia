@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HermDiag_exists_trace
 -- name    : GlobalTheory.CompanionTheory.HermDiag.exists_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:48:41.691046+00:00
 -- url     : https://prove2.me/theorems/75742d29-c274-4430-bebb-fadd40e92bec

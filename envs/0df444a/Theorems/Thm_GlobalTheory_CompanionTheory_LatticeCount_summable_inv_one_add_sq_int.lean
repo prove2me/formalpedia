@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LatticeCount_summable_inv_one_add_sq_int
 -- name    : GlobalTheory.CompanionTheory.LatticeCount.summable_inv_one_add_sq_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:51:53.763795+00:00
 -- url     : https://prove2.me/theorems/65011b05-6055-43d8-a88f-dfe9a792e19b

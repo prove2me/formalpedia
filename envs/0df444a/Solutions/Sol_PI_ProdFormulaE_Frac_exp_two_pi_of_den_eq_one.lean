@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for PI.ProdFormulaE.Frac.exp_two_pi_of_den_eq_one
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T02:21:25.780362+00:00
 -- url     : https://prove2.me/submissions/9362fc6f-5ab8-4923-bc78-a092edd185fa
 

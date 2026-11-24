@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GlobalTheory.SmulMemOfMemSpan.main
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T04:24:07.779592+00:00
 -- url     : https://prove2.me/submissions/2bc41a08-1d65-44fb-b63d-8408927b5c13
 

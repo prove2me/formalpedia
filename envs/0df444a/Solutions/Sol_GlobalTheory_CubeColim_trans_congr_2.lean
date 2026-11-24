@@ -1,6 +1,6 @@
 -- Prove2me | solution 2 for GlobalTheory.CubeColim.trans_congr
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-23T22:51:17.72454+00:00
 -- url     : https://prove2.me/submissions/31588034-ddda-4f18-8ed3-78bb2488bac6
 

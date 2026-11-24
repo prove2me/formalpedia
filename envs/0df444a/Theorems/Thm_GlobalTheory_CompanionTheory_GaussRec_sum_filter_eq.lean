@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GaussRec_sum_filter_eq
 -- name    : GlobalTheory.CompanionTheory.GaussRec.sum_filter_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:43:44.822798+00:00
 -- url     : https://prove2.me/theorems/dfb01da4-8256-4fa9-bbf8-730e05f1947d

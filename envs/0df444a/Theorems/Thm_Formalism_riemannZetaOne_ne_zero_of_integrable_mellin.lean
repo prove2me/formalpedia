@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_riemannZetaOne_ne_zero_of_integrable_mellin
 -- name    : Formalism.riemannZetaOne_ne_zero_of_integrable_mellin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:45:33.680842+00:00
 -- url     : https://prove2.me/theorems/91f67691-719f-491b-96c2-a4e87d08018f

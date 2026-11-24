@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Perf_map_eq_zero_of_comp_injective_of_finrank_eq
 -- name    : GlobalTheory.CompanionTheory.Perf.map_eq_zero_of_comp_injective_of_finrank_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:54:09.662015+00:00
 -- url     : https://prove2.me/theorems/def65c1a-522a-4177-ab46-4dc25d66f9a1

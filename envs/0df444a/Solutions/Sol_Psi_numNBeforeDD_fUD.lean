@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Psi.numNBeforeDD_fUD
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-23T23:46:18.488026+00:00
 -- url     : https://prove2.me/submissions/66c7ec48-5b4d-4725-a76f-f1f9b96f9804
 

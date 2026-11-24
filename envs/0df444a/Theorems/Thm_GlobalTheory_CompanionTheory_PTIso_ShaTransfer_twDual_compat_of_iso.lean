@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PTIso_ShaTransfer_twDual_compat_of_iso
 -- name    : GlobalTheory.CompanionTheory.PTIso.ShaTransfer.twDual_compat_of_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:54:30.502907+00:00
 -- url     : https://prove2.me/theorems/980ec8d8-9826-469e-b149-e978d576d321

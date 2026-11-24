@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxChart_absLogNorm_blockScale
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxChart.absLogNorm_blockScale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:20:50.385256+00:00
 -- url     : https://prove2.me/theorems/d569bd46-80e1-4365-90fe-5e9e7bc9cada

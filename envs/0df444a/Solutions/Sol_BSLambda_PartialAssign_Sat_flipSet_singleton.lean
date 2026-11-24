@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.PartialAssign.Sat.flipSet_singleton
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:53:55.310862+00:00
 -- url     : https://prove2.me/submissions/daa5ce44-d06a-4031-b017-483cf478be27
 

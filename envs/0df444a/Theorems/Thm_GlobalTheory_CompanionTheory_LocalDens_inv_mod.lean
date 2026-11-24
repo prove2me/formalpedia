@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LocalDens_inv_mod
 -- name    : GlobalTheory.CompanionTheory.LocalDens.inv_mod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:52:19.883871+00:00
 -- url     : https://prove2.me/theorems/88e4626c-5458-4eeb-a433-5cd239b71ceb

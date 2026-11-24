@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CapelliAntipode_unop_term
 -- name    : GlobalTheory.CompanionTheory.CapelliAntipode.unop_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:27:09.610652+00:00
 -- url     : https://prove2.me/theorems/ed2dcdc5-b9c2-4ab0-a276-cdb91cac8583

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for FairSelling.vbarSum_insert_disjoint
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T02:11:15.138826+00:00
 -- url     : https://prove2.me/submissions/b921561c-f2f5-4f2d-9655-3e1353a981bb
 

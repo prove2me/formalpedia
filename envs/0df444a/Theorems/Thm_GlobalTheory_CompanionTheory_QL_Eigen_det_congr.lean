@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_Eigen_det_congr
 -- name    : GlobalTheory.CompanionTheory.QL.Eigen.det_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:56:46.370811+00:00
 -- url     : https://prove2.me/theorems/501218e8-6637-4346-90f8-51374dc9d0d9

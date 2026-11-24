@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for P2M_FairSelling_vbarSum_nonneg__de2d262c4ecf
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T02:18:26.33861+00:00
 -- url     : https://prove2.me/submissions/827b659d-0b47-4ed6-b6a7-f5b63c5706b7
 

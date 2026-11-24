@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_powIndex_torsion_ker_range_mul
 -- name    : GlobalTheory.T.powIndex_torsion_ker_range_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:07:02.720842+00:00
 -- url     : https://prove2.me/theorems/1cf61faa-1f8a-498e-908e-ebb7fbc64538

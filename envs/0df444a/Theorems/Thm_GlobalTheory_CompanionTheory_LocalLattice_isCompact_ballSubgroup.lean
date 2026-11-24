@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LocalLattice_isCompact_ballSubgroup
 -- name    : GlobalTheory.CompanionTheory.LocalLattice.isCompact_ballSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:51:59.545047+00:00
 -- url     : https://prove2.me/theorems/8539a27c-c0dd-4dc5-ab0a-99a02a582c75

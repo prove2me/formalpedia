@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.PartialAssign.violSet_subset_of_sat_of_eq_off
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:50:29.672299+00:00
 -- url     : https://prove2.me/submissions/1cca756b-6207-4fd3-9129-51adcb050e7e
 

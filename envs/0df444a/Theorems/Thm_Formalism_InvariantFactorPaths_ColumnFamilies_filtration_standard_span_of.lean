@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_filtration_standard_span_of
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.filtration_standard_span_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:12:35.217506+00:00
 -- url     : https://prove2.me/theorems/d9b5e6b1-128d-4f2d-9486-eb94630ba26f

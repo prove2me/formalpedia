@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharpolyPow_det_aeval
 -- name    : GlobalTheory.CharpolyPow.det_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:10:09.591091+00:00
 -- url     : https://prove2.me/theorems/f8568b12-bf21-4075-9a95-c25505c5b51b

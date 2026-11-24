@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinPresDescent_finitePresentation_of_finite_projective_faithfullyFlat
 -- name    : GlobalTheory.CompanionTheory.FinPresDescent.finitePresentation_of_finite_projective_faithfullyFlat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:41:45.901823+00:00
 -- url     : https://prove2.me/theorems/8ba5d758-362c-4fa0-ad1f-68adb908c9c4

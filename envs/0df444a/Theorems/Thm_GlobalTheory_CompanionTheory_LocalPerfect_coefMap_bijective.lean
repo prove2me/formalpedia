@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LocalPerfect_coefMap_bijective
 -- name    : GlobalTheory.CompanionTheory.LocalPerfect.coefMap_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:52:31.893998+00:00
 -- url     : https://prove2.me/theorems/9b71561d-9879-444d-9dc5-5ffdd1f8410a

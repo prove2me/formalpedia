@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_RankOne_mass_mapE
 -- name    : Formalism.HermitianLattices.Ext.L3.RankOne.mass_mapE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:21.289461+00:00
 -- url     : https://prove2.me/theorems/ec8fa5d4-5b3d-4681-9c0c-72a85c60a47b

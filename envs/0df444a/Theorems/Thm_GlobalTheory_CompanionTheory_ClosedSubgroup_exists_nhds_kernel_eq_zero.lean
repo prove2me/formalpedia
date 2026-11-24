@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ClosedSubgroup_exists_nhds_kernel_eq_zero
 -- name    : GlobalTheory.CompanionTheory.ClosedSubgroup.exists_nhds_kernel_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:34:12.722722+00:00
 -- url     : https://prove2.me/theorems/6aeaf8b0-e3d2-4ca1-9135-ae2f07f1b1f1

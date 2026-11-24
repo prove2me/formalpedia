@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_JordanChain_exists_chains_of_range
 -- name    : GlobalTheory.CompanionTheory.JordanChain.exists_chains_of_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:49:07.978286+00:00
 -- url     : https://prove2.me/theorems/df673685-c54f-4cac-9b13-30ff6798e6ed

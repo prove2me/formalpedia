@@ -1,6 +1,6 @@
 -- Prove2me | solution 2 for FockRaiseLowGrade.eq_zero_of_hc
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T04:36:59.5678+00:00
 -- url     : https://prove2.me/submissions/933f2dcf-c7fa-42f0-9641-a14ecde1d6a9
 

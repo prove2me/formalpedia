@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_WeightedSlopeBounds_Ga_bound5
 -- name    : Formalism.LFunctionChainParameters.WeightedSlopeBounds.Ga_bound5
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:37:02.977371+00:00
 -- url     : https://prove2.me/theorems/2c9e97c8-0395-4ee3-9bc5-47b690eb9368

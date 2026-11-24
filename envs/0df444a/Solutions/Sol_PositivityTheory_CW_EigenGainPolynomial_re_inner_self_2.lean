@@ -1,6 +1,6 @@
 -- Prove2me | solution 2 for PositivityTheory.CW.EigenGainPolynomial.re_inner_self
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-23T22:52:50.552436+00:00
 -- url     : https://prove2.me/submissions/bfde2b67-9920-4098-8ece-6b679c3c9357
 

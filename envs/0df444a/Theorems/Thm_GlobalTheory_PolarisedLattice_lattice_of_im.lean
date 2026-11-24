@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PolarisedLattice_lattice_of_im
 -- name    : GlobalTheory.PolarisedLattice.lattice_of_im
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:40:31.613067+00:00
 -- url     : https://prove2.me/theorems/206de29b-aa4c-466d-890c-e27ca63b3d66

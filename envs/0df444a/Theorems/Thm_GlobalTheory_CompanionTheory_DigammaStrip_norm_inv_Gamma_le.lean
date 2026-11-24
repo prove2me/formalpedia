@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DigammaStrip_norm_inv_Gamma_le
 -- name    : GlobalTheory.CompanionTheory.DigammaStrip.norm_inv_Gamma_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:35:55.612019+00:00
 -- url     : https://prove2.me/theorems/e190a2df-090c-46b3-9c9d-81569b8242e8

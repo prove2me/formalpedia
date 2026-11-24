@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_PlFrame_actsAs_one
 -- name    : GlobalTheory.RowLev.PlFrame.actsAs_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:40:54.284571+00:00
 -- url     : https://prove2.me/theorems/6d320be9-c013-49fd-b75a-89f9c16a4a5c

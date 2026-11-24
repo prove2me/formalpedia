@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_NumberFieldMatrix_countable_of_numberField
 -- name    : GlobalTheory.CompanionTheory.NumberFieldMatrix.countable_of_numberField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:53:05.8976+00:00
 -- url     : https://prove2.me/theorems/a99355fc-bd1b-49b0-9d7d-48ef8e9b558e

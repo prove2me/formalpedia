@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_kerCount
 -- name    : Formalism.NG.kerCount
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:16:41.868808+00:00
 -- url     : https://prove2.me/theorems/c28d4692-3425-49b2-9a29-e19e8b7c9bc4

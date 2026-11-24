@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for InverseZeroSum.Candidate3.planeSetT_eq_image
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T05:31:46.490899+00:00
 -- url     : https://prove2.me/submissions/df0a32e6-a4c2-4985-ba0b-1e8815b05bad
 

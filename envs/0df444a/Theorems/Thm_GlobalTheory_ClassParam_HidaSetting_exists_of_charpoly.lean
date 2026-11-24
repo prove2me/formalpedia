@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassParam_HidaSetting_exists_of_charpoly
 -- name    : GlobalTheory.ClassParam.HidaSetting.exists_of_charpoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:13:42.467832+00:00
 -- url     : https://prove2.me/theorems/78564fea-6462-4a0c-a774-ce91cd84b0b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteAbelianWeights_sum_avg
 -- name    : GlobalTheory.FiniteAbelianWeights.sum_avg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:35:33.735806+00:00
 -- url     : https://prove2.me/theorems/da074428-bcba-43ce-b496-5ec370374a4e

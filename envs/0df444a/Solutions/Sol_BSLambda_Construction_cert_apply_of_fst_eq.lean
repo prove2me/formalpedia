@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.Construction.cert_apply_of_fst_eq
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:50:27.638069+00:00
 -- url     : https://prove2.me/submissions/27a5723a-4b3d-411a-b850-050a406deea5
 

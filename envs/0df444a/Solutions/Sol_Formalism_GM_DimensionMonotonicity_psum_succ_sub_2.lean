@@ -1,6 +1,6 @@
 -- Prove2me | solution 2 for Formalism.GM.DimensionMonotonicity.psum_succ_sub
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-23T22:53:41.586821+00:00
 -- url     : https://prove2.me/submissions/fef9525f-afb2-4690-8230-3ba8ae04462c
 

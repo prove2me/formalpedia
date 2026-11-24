@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HermPlane_exists_uniformiser
 -- name    : GlobalTheory.CompanionTheory.HermPlane.exists_uniformiser
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:48:21.014905+00:00
 -- url     : https://prove2.me/theorems/3f475144-5dda-4024-8deb-b5e8bd92d95f

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GroundTheory.Global.summable_of_le_rationalPrimeUnder
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T03:59:54.913917+00:00
 -- url     : https://prove2.me/submissions/19708b0d-c254-4b23-ae5e-06b981365922
 

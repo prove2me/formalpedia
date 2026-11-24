@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KernelColumns_exists_delta
 -- name    : GlobalTheory.CompanionTheory.KernelColumns.exists_delta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:50:57.069371+00:00
 -- url     : https://prove2.me/theorems/cef11ad4-f3aa-45d6-9bdb-3931bce2637d

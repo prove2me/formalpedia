@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for FairSelling.epsSEF1_zero_iff
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T02:36:16.441287+00:00
 -- url     : https://prove2.me/submissions/e5838f3e-a42f-48b0-81db-db1402d3150e
 

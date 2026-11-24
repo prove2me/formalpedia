@@ -1,6 +1,6 @@
 -- Prove2me | solution 2 for P2M_BSLambda_IsTournament_ne_of_arc__e588a25b35dc
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:50:28.620155+00:00
 -- url     : https://prove2.me/submissions/f4f83147-8ed4-410d-9655-67b9ed78a20f
 

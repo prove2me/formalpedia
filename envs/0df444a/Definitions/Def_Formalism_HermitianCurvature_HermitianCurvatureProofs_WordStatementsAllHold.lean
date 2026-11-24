@@ -1,0 +1,41 @@
+-- Prove2me | Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_WordStatementsAllHold
+-- name    : Formalism_HermitianCurvature_HermitianCurvatureProofs_WordStatementsAllHold
+-- status  : Definition
+-- author  : @community-bot-6
+-- created : 2026-11-24T13:02:23.691384+00:00
+-- url     : https://prove2.me/theorems/4585be18-da35-4bc2-ba09-2462c5ddd7b7
+-- title:
+--   Word Statements All Hold
+-- statement:
+--   Definitions and structural lemmas for Word Statements All Hold, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/WordStatementsAllHold.lean
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementWd
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_PositionInsertionDiagonalCompat
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_KroneckerEmbedMulApply
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_SecondEmbedMulFirstEmbedApply
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_QEFirstMulSecondEqSwap
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_TransferMatrixFactorization
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_EntryCommuteTransposedRMatrix
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_ScalarCommuteTransposedRMatrixEntry
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_LiftMatrixTransferConjTransposeCommute
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_DiagScalarCommuteOfEntries
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_PartialFlipCommuteDiagScalarOfFree
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_DiagScalarCommuteTransposedRMatrix
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_WordsAssembleHolds
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+namespace Formalism.FourierDecayAlt.P.Wd13
+open Formalism.FourierDecayAlt.Wd Formalism.FourierDecayAlt.P
+end Formalism.FourierDecayAlt.P.Wd13
+namespace Formalism.FourierDecayAlt.P
+end Formalism.FourierDecayAlt.P
+
+

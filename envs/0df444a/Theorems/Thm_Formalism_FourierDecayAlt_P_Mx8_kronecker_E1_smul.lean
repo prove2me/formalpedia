@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx8_kronecker_E1_smul
 -- name    : Formalism.FourierDecayAlt.P.Mx8.kronecker_E1_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:48:09.973838+00:00
 -- url     : https://prove2.me/theorems/bc45469c-aeb0-46a2-94bf-2edf9b570def

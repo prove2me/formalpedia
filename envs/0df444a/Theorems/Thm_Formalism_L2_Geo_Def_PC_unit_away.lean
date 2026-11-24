@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Geo_Def_PC_unit_away
 -- name    : Formalism.L2.Geo.Def.PC.unit_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:48:20.58333+00:00
 -- url     : https://prove2.me/theorems/caa2925a-b84a-42be-bda6-c3d70e0fd1cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartGL_congK_cofinal
 -- name    : GlobalTheory.CompanionTheory.CartGL.congK_cofinal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:27:11.696851+00:00
 -- url     : https://prove2.me/theorems/f3fc92a4-e4d7-4d65-a69b-d6c5973ba218

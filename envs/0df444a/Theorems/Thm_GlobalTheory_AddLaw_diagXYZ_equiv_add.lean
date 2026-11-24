@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AddLaw_diagXYZ_equiv_add
 -- name    : GlobalTheory.AddLaw.diagXYZ_equiv_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:19.146115+00:00
 -- url     : https://prove2.me/theorems/0e43a9bc-779c-44f1-a863-c25c34bae868

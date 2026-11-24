@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PolarisedLattice_real_pos_of_int_pos
 -- name    : GlobalTheory.PolarisedLattice.real_pos_of_int_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:40:21.615254+00:00
 -- url     : https://prove2.me/theorems/ecf2fb20-028c-4736-9245-3f4b7710188a

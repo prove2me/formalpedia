@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ExpSums_expSum_holds
 -- name    : GlobalTheory.CompanionTheory.ExpSums.expSum_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:38:20.572533+00:00
 -- url     : https://prove2.me/theorems/1ab2e241-2f21-4f96-8664-294c9cd04e14

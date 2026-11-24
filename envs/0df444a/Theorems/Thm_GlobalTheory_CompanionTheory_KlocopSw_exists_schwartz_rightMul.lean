@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KlocopSw_exists_schwartz_rightMul
 -- name    : GlobalTheory.CompanionTheory.KlocopSw.exists_schwartz_rightMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:51:11.941183+00:00
 -- url     : https://prove2.me/theorems/2e4a5cc7-c0fd-499f-9443-b51871c7c47e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KWhit_norm_det_bottom_block_sq
 -- name    : GlobalTheory.CompanionTheory.KWhit.norm_det_bottom_block_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:49:18.13054+00:00
 -- url     : https://prove2.me/theorems/cd17fa3b-454d-4d85-bc27-ccee69903f0f

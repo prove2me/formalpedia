@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_frame_module_of_word
 -- name    : Formalism.FourierDecayAlt.P.frame_module_of_word
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:46:49.365798+00:00
 -- url     : https://prove2.me/theorems/0b79cbc4-0b7f-4657-8a6b-4ba520d4152b

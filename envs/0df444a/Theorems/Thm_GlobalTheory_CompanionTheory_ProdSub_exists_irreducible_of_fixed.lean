@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ProdSub_exists_irreducible_of_fixed
 -- name    : GlobalTheory.CompanionTheory.ProdSub.exists_irreducible_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:56:38.484251+00:00
 -- url     : https://prove2.me/theorems/7eb433fd-d636-46b8-b256-968b9709ebf8

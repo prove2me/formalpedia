@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GroundTheory.Global.rpow_neg_absNorm_le_half
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T02:28:43.194596+00:00
 -- url     : https://prove2.me/submissions/8251c2c3-4582-4e53-b30e-5ac385eab488
 

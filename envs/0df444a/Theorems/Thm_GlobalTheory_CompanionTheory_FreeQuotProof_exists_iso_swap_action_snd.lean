@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FreeQuotProof_exists_iso_swap_action_snd
 -- name    : GlobalTheory.CompanionTheory.FreeQuotProof.exists_iso_swap_action_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:43:04.051752+00:00
 -- url     : https://prove2.me/theorems/b5fd1069-5ac0-4227-9980-eed7a74880ad

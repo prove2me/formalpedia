@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MultiSeg_Rank_countP_le_add
 -- name    : GlobalTheory.CompanionTheory.MultiSeg.Rank.countP_le_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:52:58.162974+00:00
 -- url     : https://prove2.me/theorems/07364cb4-6cbd-4391-8202-bcae0a8ce59f

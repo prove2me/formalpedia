@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_lfunction_norm_le_near_one
 -- name    : Formalism.ZeroFreeDirichlet.lfunction_norm_le_near_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:37:59.18594+00:00
 -- url     : https://prove2.me/theorems/138360e7-2af7-4f97-8260-7186c2142d20

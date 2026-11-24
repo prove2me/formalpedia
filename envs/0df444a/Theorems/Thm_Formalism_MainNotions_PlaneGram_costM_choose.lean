@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_costM_choose
 -- name    : Formalism.MainNotions.PlaneGram.costM_choose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:07:07.745604+00:00
 -- url     : https://prove2.me/theorems/901a5b4e-2a96-42f2-a9b6-b5473606968d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LocalDens_piH_surj
 -- name    : GlobalTheory.CompanionTheory.LocalDens.piH_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:52:06.960315+00:00
 -- url     : https://prove2.me/theorems/34c400a7-f970-424f-ad50-1d5fe07060f3

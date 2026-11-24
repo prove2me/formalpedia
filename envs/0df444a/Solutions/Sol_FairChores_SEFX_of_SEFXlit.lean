@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for FairChores.SEFX_of_SEFXlit
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T03:28:58.860521+00:00
 -- url     : https://prove2.me/submissions/6d534bdd-1184-4639-b3a5-a4f9fba72719
 

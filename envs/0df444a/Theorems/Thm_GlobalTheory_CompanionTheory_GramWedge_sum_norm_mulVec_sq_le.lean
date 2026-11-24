@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GramWedge_sum_norm_mulVec_sq_le
 -- name    : GlobalTheory.CompanionTheory.GramWedge.sum_norm_mulVec_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:43:41.421816+00:00
 -- url     : https://prove2.me/theorems/cec7fb0b-6ba1-408b-9096-c6bcfa33695b

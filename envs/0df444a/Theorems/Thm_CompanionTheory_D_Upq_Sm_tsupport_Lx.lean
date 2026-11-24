@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_Sm_tsupport_Lx
 -- name    : CompanionTheory.D.Upq.Sm.tsupport_Lx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:40:33.945192+00:00
 -- url     : https://prove2.me/theorems/d930b6a1-26bb-4d93-8817-3bc7d5592cb0

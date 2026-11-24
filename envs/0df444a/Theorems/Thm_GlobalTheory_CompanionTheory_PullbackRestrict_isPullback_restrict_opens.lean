@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PullbackRestrict_isPullback_restrict_opens
 -- name    : GlobalTheory.CompanionTheory.PullbackRestrict.isPullback_restrict_opens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:57:01.362487+00:00
 -- url     : https://prove2.me/theorems/3b077eb4-5a9a-4e95-a67f-8eff80c5faba

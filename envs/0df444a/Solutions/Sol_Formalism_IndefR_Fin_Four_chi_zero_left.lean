@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Formalism.IndefR.Fin.Four.chi_zero_left
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T04:32:12.166517+00:00
 -- url     : https://prove2.me/submissions/b41f9e4d-75f9-4580-88e8-f8b386800eb3
 

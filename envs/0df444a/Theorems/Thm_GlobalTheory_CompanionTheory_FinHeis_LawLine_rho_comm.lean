@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinHeis_LawLine_rho_comm
 -- name    : GlobalTheory.CompanionTheory.FinHeis.LawLine.rho_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:39:49.48693+00:00
 -- url     : https://prove2.me/theorems/f9e358ef-bb4c-43a2-911c-aa7157b33066

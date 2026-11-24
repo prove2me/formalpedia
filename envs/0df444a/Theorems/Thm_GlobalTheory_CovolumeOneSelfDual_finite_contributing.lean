@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CovolumeOneSelfDual_finite_contributing
 -- name    : GlobalTheory.CovolumeOneSelfDual.finite_contributing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:40:27.026942+00:00
 -- url     : https://prove2.me/theorems/16f6b496-c468-4345-a923-00df29506411

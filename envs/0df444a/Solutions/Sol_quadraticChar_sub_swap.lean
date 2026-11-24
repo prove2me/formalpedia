@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for quadraticChar_sub_swap
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:52:03.863462+00:00
 -- url     : https://prove2.me/submissions/ec8a216b-8297-4921-aa6a-e7408a12ff1c
 

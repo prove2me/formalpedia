@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_chartRingHom_mem_nonZeroDivisors
 -- name    : FunctorialResolution.Blowup.chartRingHom_mem_nonZeroDivisors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:39:48.06075+00:00
 -- url     : https://prove2.me/theorems/62db72d7-ce64-4f51-954c-4d36bbe8ecb5

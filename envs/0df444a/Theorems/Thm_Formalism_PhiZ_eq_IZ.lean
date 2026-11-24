@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_PhiZ_eq_IZ
 -- name    : Formalism.PhiZ_eq_IZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:17:57.848777+00:00
 -- url     : https://prove2.me/theorems/576a133f-bbda-43b1-99ef-0fac62641385

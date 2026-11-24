@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HolMean_iteratedDeriv_series
 -- name    : GlobalTheory.CompanionTheory.HolMean.iteratedDeriv_series
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:47:47.624797+00:00
 -- url     : https://prove2.me/theorems/39f4c9cf-776c-4b1b-af07-52aff1971c12

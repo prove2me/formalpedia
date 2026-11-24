@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeBasis_lam_one
 -- name    : GlobalTheory.CompanionTheory.HeckeBasis.lam_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:45:36.515607+00:00
 -- url     : https://prove2.me/theorems/144ddd91-9ba4-4416-9d75-9335c9ee311d

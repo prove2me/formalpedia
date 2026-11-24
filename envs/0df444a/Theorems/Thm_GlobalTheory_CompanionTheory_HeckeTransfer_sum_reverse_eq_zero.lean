@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeTransfer_sum_reverse_eq_zero
 -- name    : GlobalTheory.CompanionTheory.HeckeTransfer.sum_reverse_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:59:23.984746+00:00
 -- url     : https://prove2.me/theorems/787f0d0e-0579-4872-be62-53965146d718

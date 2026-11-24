@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_contDiff_frobenius
 -- name    : Formalism.REAL.contDiff_frobenius
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:40:02.31346+00:00
 -- url     : https://prove2.me/theorems/75a4fe18-4273-496f-9e6e-514171f42242

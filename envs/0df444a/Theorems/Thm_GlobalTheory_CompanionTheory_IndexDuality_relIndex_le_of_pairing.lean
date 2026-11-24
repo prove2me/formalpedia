@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_IndexDuality_relIndex_le_of_pairing
 -- name    : GlobalTheory.CompanionTheory.IndexDuality.relIndex_le_of_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:48:29.115817+00:00
 -- url     : https://prove2.me/theorems/9d323381-0860-4a1a-9660-c5436ff2195d

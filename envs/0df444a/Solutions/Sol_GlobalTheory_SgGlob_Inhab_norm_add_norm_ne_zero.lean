@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GlobalTheory.SgGlob.Inhab.norm_add_norm_ne_zero
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T04:23:55.103075+00:00
 -- url     : https://prove2.me/submissions/720cbfa8-d3ea-4005-9e9e-b31a82705bfa
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_quasi_determinant_from_entries
 -- name    : Formalism.FourierDecayAlt.P.quasi_determinant_from_entries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:48:02.807458+00:00
 -- url     : https://prove2.me/theorems/71266786-8c93-41f6-8faf-101b2b08e990

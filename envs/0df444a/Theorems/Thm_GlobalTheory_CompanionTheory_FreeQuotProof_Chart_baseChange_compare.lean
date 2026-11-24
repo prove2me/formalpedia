@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FreeQuotProof_Chart_baseChange_compare
 -- name    : GlobalTheory.CompanionTheory.FreeQuotProof.Chart.baseChange_compare
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:41:49.952812+00:00
 -- url     : https://prove2.me/theorems/81fadc04-515a-4080-a17c-203e3058285f

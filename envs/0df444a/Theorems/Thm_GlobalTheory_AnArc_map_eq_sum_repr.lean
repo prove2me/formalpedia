@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_map_eq_sum_repr
 -- name    : GlobalTheory.AnArc.map_eq_sum_repr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:40:30.452639+00:00
 -- url     : https://prove2.me/theorems/117ba4a2-4c7c-4347-9048-3737d508e843

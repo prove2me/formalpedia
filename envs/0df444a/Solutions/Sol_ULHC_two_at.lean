@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ULHC.two_at
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T03:36:01.450551+00:00
 -- url     : https://prove2.me/submissions/643e6ed0-ac99-407a-9970-b0dfdd77f262
 

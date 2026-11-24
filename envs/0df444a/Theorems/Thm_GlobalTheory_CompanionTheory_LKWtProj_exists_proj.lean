@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LKWtProj_exists_proj
 -- name    : GlobalTheory.CompanionTheory.LKWtProj.exists_proj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:52:42.692979+00:00
 -- url     : https://prove2.me/theorems/c38047f6-8e71-4b32-875a-dd5ff75221f9

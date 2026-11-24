@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_TraceIntegrality_Fr_levelafC_nat
 -- name    : Formalism.L2.GlobalTheoryTheory.TraceIntegrality.Fr.levelafC_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:48:39.740733+00:00
 -- url     : https://prove2.me/theorems/e5d33e02-49b3-4f08-958c-987950830f83

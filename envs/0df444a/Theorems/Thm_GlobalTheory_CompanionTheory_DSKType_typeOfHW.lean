@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSKType_typeOfHW
 -- name    : GlobalTheory.CompanionTheory.DSKType.typeOfHW
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:24:32.978223+00:00
 -- url     : https://prove2.me/theorems/511e4b32-aace-4e46-af13-9d6fb89bbc28

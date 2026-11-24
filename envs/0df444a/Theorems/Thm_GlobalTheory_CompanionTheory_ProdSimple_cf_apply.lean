@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ProdSimple_cf_apply
 -- name    : GlobalTheory.CompanionTheory.ProdSimple.cf_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:56:23.506269+00:00
 -- url     : https://prove2.me/theorems/e2b57452-fd71-44cb-bfa6-9f73fb87c614

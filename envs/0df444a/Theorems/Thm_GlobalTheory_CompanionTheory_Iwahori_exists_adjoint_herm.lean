@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Iwahori_exists_adjoint_herm
 -- name    : GlobalTheory.CompanionTheory.Iwahori.exists_adjoint_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:49:54.513904+00:00
 -- url     : https://prove2.me/theorems/a0d751e1-6f39-4b6f-8cdd-5a81fb38d3f2

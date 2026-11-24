@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbsFubini_abstract_fubini_two_lifts
 -- name    : GlobalTheory.AbsFubini.abstract_fubini_two_lifts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:54:11.673274+00:00
 -- url     : https://prove2.me/theorems/5304d14c-fbc9-46d4-a6ce-c06c1c0a0227

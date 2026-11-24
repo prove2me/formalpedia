@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for FairChores.cbar_eq_cost_of_ne_price
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T03:28:39.59495+00:00
 -- url     : https://prove2.me/submissions/2fdd52d7-5d6a-4f3c-91c9-1e03af19d36f
 

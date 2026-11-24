@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HermitianCommuting_exists_maximal_commuting_hermitian_subspace
 -- name    : GlobalTheory.CompanionTheory.HermitianCommuting.exists_maximal_commuting_hermitian_subspace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:48:26.366373+00:00
 -- url     : https://prove2.me/theorems/76139d47-d3ed-4002-9909-4cac3f06ed47

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GlobalTheory.CompanionTheory.TyFin.glReindex_glReindex
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:29:44.0575+00:00
 -- url     : https://prove2.me/submissions/ab99b742-41b7-4923-b980-ccf30a90bbba
 

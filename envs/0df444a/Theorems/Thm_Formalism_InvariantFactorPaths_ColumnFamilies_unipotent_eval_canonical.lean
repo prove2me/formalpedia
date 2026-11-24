@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_unipotent_eval_canonical
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.unipotent_eval_canonical
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:16:37.695931+00:00
 -- url     : https://prove2.me/theorems/a0b553c9-1b54-4ae7-8888-7acfc6f30eb2

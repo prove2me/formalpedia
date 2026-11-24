@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_DSIC_algCore_of
 -- name    : CompanionTheory.D.DSIC.algCore_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:26:56.810152+00:00
 -- url     : https://prove2.me/theorems/84c1eddf-de8c-4570-ba71-b032a03c994d

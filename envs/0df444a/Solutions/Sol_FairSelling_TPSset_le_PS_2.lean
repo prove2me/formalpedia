@@ -1,6 +1,6 @@
 -- Prove2me | solution 2 for FairSelling.TPSset_le_PS
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T01:37:55.259884+00:00
 -- url     : https://prove2.me/submissions/5842a0b5-eed4-41b3-a731-e0ffef351bd0
 

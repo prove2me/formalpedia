@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Invsum_invariance_contraction
 -- name    : GlobalTheory.CompanionTheory.Invsum.invariance_contraction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:48:15.551563+00:00
 -- url     : https://prove2.me/theorems/fc7d86f3-7bcd-4a24-b1b2-b89182d4f47d

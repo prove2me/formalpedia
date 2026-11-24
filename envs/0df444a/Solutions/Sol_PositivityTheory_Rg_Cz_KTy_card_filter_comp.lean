@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for PositivityTheory.Rg.Cz.KTy.card_filter_comp
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T05:19:39.250643+00:00
 -- url     : https://prove2.me/submissions/8c9250b0-11a9-4629-ba1d-8acfe7eac33b
 

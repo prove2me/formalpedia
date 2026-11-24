@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClosedResidueExt_Unram_irreducible
 -- name    : GlobalTheory.ClosedResidueExt.Unram.irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:13:17.744919+00:00
 -- url     : https://prove2.me/theorems/9d3e216a-2f0a-46cc-a7bf-ca131b3a5556

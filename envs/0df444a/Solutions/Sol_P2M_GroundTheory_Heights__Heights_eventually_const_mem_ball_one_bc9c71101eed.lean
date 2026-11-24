@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for P2M_GroundTheory_Heights__Heights_eventually_const_mem_ball_one_bc9c71101eed
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T05:40:04.805634+00:00
 -- url     : https://prove2.me/submissions/8e4d2be5-9185-44fe-bf6d-27afdebd4c8a
 

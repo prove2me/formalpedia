@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_WeightCompositions_sum_eq_of_mem_weightCompositions
 -- name    : Formalism.NormUnitaryCountingLemmas.WeightCompositions.sum_eq_of_mem_weightCompositions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:42:51.252547+00:00
 -- url     : https://prove2.me/theorems/8e17f8c8-6fa7-4efd-a280-8268b9d7fa03

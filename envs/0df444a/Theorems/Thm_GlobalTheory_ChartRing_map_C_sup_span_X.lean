@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartRing_map_C_sup_span_X
 -- name    : GlobalTheory.ChartRing.map_C_sup_span_X
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:31:18.367793+00:00
 -- url     : https://prove2.me/theorems/a2610a24-af15-48f6-99d5-fe12102987d9

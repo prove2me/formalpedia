@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxGoodProj_ideal_isHomogeneous
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxGoodProj.ideal_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:20:19.429889+00:00
 -- url     : https://prove2.me/theorems/7ecde7da-f0f3-4ea1-a2e8-0dd909952dfa

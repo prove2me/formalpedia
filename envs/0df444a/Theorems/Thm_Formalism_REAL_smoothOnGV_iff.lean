@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_smoothOnGV_iff
 -- name    : Formalism.REAL.smoothOnGV_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:41:49.627611+00:00
 -- url     : https://prove2.me/theorems/acac607e-37b9-4d5b-83b8-d82f0c25da18

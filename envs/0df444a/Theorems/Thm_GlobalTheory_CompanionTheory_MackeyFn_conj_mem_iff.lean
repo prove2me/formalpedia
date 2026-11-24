@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MackeyFn_conj_mem_iff
 -- name    : GlobalTheory.CompanionTheory.MackeyFn.conj_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:51:55.242088+00:00
 -- url     : https://prove2.me/theorems/91750a6f-39eb-4edb-834d-eaaafc7cfbe2

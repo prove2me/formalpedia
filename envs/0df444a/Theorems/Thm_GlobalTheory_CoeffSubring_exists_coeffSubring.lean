@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffSubring_exists_coeffSubring
 -- name    : GlobalTheory.CoeffSubring.exists_coeffSubring
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:44:58.57634+00:00
 -- url     : https://prove2.me/theorems/b722bb76-d5f8-4edd-a439-e8b489003908

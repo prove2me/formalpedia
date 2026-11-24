@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LKWtProj_Ft_commute
 -- name    : GlobalTheory.CompanionTheory.LKWtProj.Ft_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:53:18.034184+00:00
 -- url     : https://prove2.me/theorems/3b09a429-ae8e-4cc2-9767-783eb12f8216

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_mem_KG
 -- name    : Formalism.REAL.mem_KG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:38:56.743525+00:00
 -- url     : https://prove2.me/theorems/33fa0206-b184-4811-9bf3-938c767cdfb7

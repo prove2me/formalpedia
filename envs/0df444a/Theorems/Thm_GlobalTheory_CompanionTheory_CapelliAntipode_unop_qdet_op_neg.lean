@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CapelliAntipode_unop_qdet_op_neg
 -- name    : GlobalTheory.CompanionTheory.CapelliAntipode.unop_qdet_op_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:27:01.065297+00:00
 -- url     : https://prove2.me/theorems/f743fa55-bd6c-4e24-828e-34194ffa4e41

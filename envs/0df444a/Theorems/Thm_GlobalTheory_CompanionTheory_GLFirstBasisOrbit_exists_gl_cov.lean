@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GLFirstBasisOrbit_exists_gl_cov
 -- name    : GlobalTheory.CompanionTheory.GLFirstBasisOrbit.exists_gl_cov
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:42:26.413238+00:00
 -- url     : https://prove2.me/theorems/6e1434cb-b4d5-4b43-a7c4-5acc3bbcd0d8

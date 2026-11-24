@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AdeleStableRange_adeleRing_stableRange_one
 -- name    : GlobalTheory.CompanionTheory.AdeleStableRange.adeleRing_stableRange_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:16:31.296554+00:00
 -- url     : https://prove2.me/theorems/ca445387-7f57-4fe8-9a8f-5a215c166cd8

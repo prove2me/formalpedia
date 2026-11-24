@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for FairChores.NineteenEighteenths.lamOf_key
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T02:30:53.173369+00:00
 -- url     : https://prove2.me/submissions/239f5c9d-a218-4f63-8407-da2102c524fa
 

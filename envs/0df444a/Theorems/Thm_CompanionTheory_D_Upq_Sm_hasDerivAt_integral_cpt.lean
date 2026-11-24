@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_Sm_hasDerivAt_integral_cpt
 -- name    : CompanionTheory.D.Upq.Sm.hasDerivAt_integral_cpt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:42:45.692797+00:00
 -- url     : https://prove2.me/theorems/acb2f3b4-4c54-4b7f-9873-b457265613e1

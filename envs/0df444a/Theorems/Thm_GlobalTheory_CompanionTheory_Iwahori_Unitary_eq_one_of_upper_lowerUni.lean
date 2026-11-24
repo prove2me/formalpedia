@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Iwahori_Unitary_eq_one_of_upper_lowerUni
 -- name    : GlobalTheory.CompanionTheory.Iwahori.Unitary.eq_one_of_upper_lowerUni
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:49:26.43186+00:00
 -- url     : https://prove2.me/theorems/a8f9c5f6-0c5c-4c71-8d38-247ff598a623

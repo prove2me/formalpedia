@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KernelBasic_tst_adj
 -- name    : GlobalTheory.CompanionTheory.KernelBasic.tst_adj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:50:48.130357+00:00
 -- url     : https://prove2.me/theorems/afee3ddf-0bf3-41ad-aa66-106102a9a5d9

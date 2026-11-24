@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartModel_exists_glue_chart
 -- name    : GlobalTheory.ChartModel.exists_glue_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:10:54.950151+00:00
 -- url     : https://prove2.me/theorems/a9e072f7-9f23-4673-9703-241fe1b7b5f1

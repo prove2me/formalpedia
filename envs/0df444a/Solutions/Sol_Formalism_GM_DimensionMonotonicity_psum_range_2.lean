@@ -1,6 +1,6 @@
 -- Prove2me | solution 2 for Formalism.GM.DimensionMonotonicity.psum_range
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-23T22:51:39.455905+00:00
 -- url     : https://prove2.me/submissions/214e2d0a-3128-4bbc-b32d-d61cc8c49a8d
 

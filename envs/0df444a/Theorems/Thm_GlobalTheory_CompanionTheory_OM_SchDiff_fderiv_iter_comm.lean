@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_OM_SchDiff_fderiv_iter_comm
 -- name    : GlobalTheory.CompanionTheory.OM.SchDiff.fderiv_iter_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:53:30.18088+00:00
 -- url     : https://prove2.me/theorems/11e5424c-0801-44f4-bf8f-d5ca7b7fabdb

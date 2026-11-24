@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Mass_MeanV_Den_val_nat_le_one
 -- name    : GlobalTheory.CompanionTheory.Mass.MeanV.Den.val_nat_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:52:29.91266+00:00
 -- url     : https://prove2.me/theorems/fa8a3a30-b972-429b-ae2d-f98230f91a3a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FibSch_integral_comp_additive_continuousAt
 -- name    : GlobalTheory.CompanionTheory.FibSch.integral_comp_additive_continuousAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:39:49.768151+00:00
 -- url     : https://prove2.me/theorems/538a11bd-aa26-4b1c-8832-89bd2d4e50c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_sub_mem_iInf_span_sup_maximalIdeal_pow
 -- name    : FunctorialResolution.EmbeddedResolution.sub_mem_iInf_span_sup_maximalIdeal_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:48:37.377809+00:00
 -- url     : https://prove2.me/theorems/7b51cb4f-9e3f-44e4-8b1d-2be8e69c05c8

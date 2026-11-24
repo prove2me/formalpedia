@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LocalLattice_isOpen_ballSubgroup
 -- name    : GlobalTheory.CompanionTheory.LocalLattice.isOpen_ballSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:52:02.960691+00:00
 -- url     : https://prove2.me/theorems/03adf139-f1e5-464f-92bb-ce98242dd3d6

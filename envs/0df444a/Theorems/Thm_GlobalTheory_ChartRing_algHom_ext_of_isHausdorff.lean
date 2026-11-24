@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartRing_algHom_ext_of_isHausdorff
 -- name    : GlobalTheory.ChartRing.algHom_ext_of_isHausdorff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:31:15.823622+00:00
 -- url     : https://prove2.me/theorems/78280594-7934-49df-8f53-5a578f42cd4f

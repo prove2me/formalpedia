@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Adelic_OrthHaar_scale_transvection
 -- name    : GlobalTheory.CompanionTheory.Adelic.OrthHaar.scale_transvection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:16:27.741801+00:00
 -- url     : https://prove2.me/theorems/5fd4012d-e723-4523-b262-ad46492d9973

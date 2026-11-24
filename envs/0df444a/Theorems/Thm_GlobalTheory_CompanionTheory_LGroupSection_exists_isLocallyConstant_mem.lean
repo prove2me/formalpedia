@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LGroupSection_exists_isLocallyConstant_mem
 -- name    : GlobalTheory.CompanionTheory.LGroupSection.exists_isLocallyConstant_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:52:42.558799+00:00
 -- url     : https://prove2.me/theorems/50c3e25c-7926-479e-a3be-7217fe489c34

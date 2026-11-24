@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_frobenius_nonneg
 -- name    : Formalism.REAL.frobenius_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:39:14.438467+00:00
 -- url     : https://prove2.me/theorems/8ce90ad5-035c-4934-a54e-0d7a29460794

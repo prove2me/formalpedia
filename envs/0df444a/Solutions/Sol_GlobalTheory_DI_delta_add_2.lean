@@ -1,6 +1,6 @@
 -- Prove2me | solution 2 for GlobalTheory.DI.delta_add
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-23T22:51:24.960285+00:00
 -- url     : https://prove2.me/submissions/d8f9810d-77f2-4039-9833-1c3f438c507a
 

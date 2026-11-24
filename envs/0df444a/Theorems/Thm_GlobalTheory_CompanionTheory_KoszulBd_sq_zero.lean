@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KoszulBd_sq_zero
 -- name    : GlobalTheory.CompanionTheory.KoszulBd.sq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:53:05.535383+00:00
 -- url     : https://prove2.me/theorems/90a2267f-3cf9-4a6a-9ef0-5491363912c1

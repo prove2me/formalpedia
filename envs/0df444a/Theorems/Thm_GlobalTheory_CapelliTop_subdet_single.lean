@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CapelliTop_subdet_single
 -- name    : GlobalTheory.CapelliTop.subdet_single
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:08:41.655846+00:00
 -- url     : https://prove2.me/theorems/99a43efb-c706-4903-9456-bfbe4e7d8cf0

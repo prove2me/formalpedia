@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GaussianPerimeter_mul_lintegral_acceptance_le___90af1dc06317
 -- name    : P2M_GaussianPerimeter_mul_lintegral_acceptance_le___90af1dc06317
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T10:13:11.772901+00:00
 -- url     : https://prove2.me/theorems/c92c0aa3-aac5-4ff7-866c-6f11dfd7b1b3

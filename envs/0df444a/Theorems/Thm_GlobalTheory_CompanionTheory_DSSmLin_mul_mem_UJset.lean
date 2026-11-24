@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSSmLin_mul_mem_UJset
 -- name    : GlobalTheory.CompanionTheory.DSSmLin.mul_mem_UJset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:44:43.127499+00:00
 -- url     : https://prove2.me/theorems/76a74778-b42e-4555-8bb7-c50d01929f10

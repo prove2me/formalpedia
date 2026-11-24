@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PairCount_card_comap_subtype
 -- name    : GlobalTheory.CompanionTheory.PairCount.card_comap_subtype
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:55:00.861651+00:00
 -- url     : https://prove2.me/theorems/a8a13a63-cb87-46be-bdab-45c5902bdd2f

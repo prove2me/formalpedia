@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_RT_Siegel_triv_of_cell
 -- name    : GlobalTheory.CompanionTheory.Ar.RT.Siegel.triv_of_cell
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:20:31.735929+00:00
 -- url     : https://prove2.me/theorems/ebb8fbab-2a47-461e-9365-baded6e2c651

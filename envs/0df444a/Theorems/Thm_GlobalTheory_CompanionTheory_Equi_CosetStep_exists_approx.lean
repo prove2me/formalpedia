@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Equi_CosetStep_exists_approx
 -- name    : GlobalTheory.CompanionTheory.Equi.CosetStep.exists_approx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:37:24.217686+00:00
 -- url     : https://prove2.me/theorems/32c26d98-8b3d-4421-8c57-bb2744291b46

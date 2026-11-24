@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_WeightCompositions_weight_mapDomain
 -- name    : Formalism.NormUnitaryCountingLemmas.WeightCompositions.weight_mapDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:42:53.585595+00:00
 -- url     : https://prove2.me/theorems/82e15994-c034-4489-aa78-e2194dc0ee1e

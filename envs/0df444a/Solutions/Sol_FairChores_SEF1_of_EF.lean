@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for FairChores.SEF1_of_EF
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T03:29:08.674341+00:00
 -- url     : https://prove2.me/submissions/713489e1-7e57-449b-b238-35a35a194673
 

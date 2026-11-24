@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HermPlane_one_le_norm_delta
 -- name    : GlobalTheory.CompanionTheory.HermPlane.one_le_norm_delta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:48:28.806863+00:00
 -- url     : https://prove2.me/theorems/09faee97-38a8-445b-a192-c4c1efe0667b

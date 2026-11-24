@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_SequenceOfBlowups_center_nextNontrivialIndex_ne_top_or_length_le
 -- name    : FunctorialResolution.EmbeddedResolution.SequenceOfBlowups.center_nextNontrivialIndex_ne_top_or_length_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:39:24.168813+00:00
 -- url     : https://prove2.me/theorems/0d7d50eb-18cb-4b7b-b79b-dcef1685ea1f

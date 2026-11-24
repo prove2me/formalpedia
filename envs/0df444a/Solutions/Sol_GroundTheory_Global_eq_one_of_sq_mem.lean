@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for GroundTheory.Global.eq_one_of_sq_mem
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T01:33:25.385367+00:00
 -- url     : https://prove2.me/submissions/be21e6b8-809b-4246-a26d-53a40ba961a0
 

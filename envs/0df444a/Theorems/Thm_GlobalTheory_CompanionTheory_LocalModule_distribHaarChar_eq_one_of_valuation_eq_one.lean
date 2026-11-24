@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LocalModule_distribHaarChar_eq_one_of_valuation_eq_one
 -- name    : GlobalTheory.CompanionTheory.LocalModule.distribHaarChar_eq_one_of_valuation_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:52:16.775064+00:00
 -- url     : https://prove2.me/theorems/089e6974-44bf-4eb1-bef1-9789040cd352

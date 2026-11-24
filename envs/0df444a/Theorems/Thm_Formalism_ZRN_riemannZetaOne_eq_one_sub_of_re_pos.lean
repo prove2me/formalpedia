@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZRN_riemannZetaOne_eq_one_sub_of_re_pos
 -- name    : Formalism.ZRN.riemannZetaOne_eq_one_sub_of_re_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:43:35.799906+00:00
 -- url     : https://prove2.me/theorems/5557a1e6-34d4-49d3-b5f6-3f7757504cff

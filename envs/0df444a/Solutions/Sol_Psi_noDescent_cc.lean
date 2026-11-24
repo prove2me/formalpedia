@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Psi.noDescent_cc
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-23T23:46:15.000806+00:00
 -- url     : https://prove2.me/submissions/72afb99a-c419-4607-8756-841f3b5421b9
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxSection_exists_boxSec
 -- name    : GlobalTheory.BoxSection.exists_boxSec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:03:24.838398+00:00
 -- url     : https://prove2.me/theorems/d998f8c6-d8b2-4739-8d06-29886a354a8d

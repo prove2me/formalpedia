@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_HatCap_lattice_one
 -- name    : GlobalTheory.CMVal.HatCap.lattice_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:04:23.054618+00:00
 -- url     : https://prove2.me/theorems/a57fb66b-9671-44f5-96ef-ff76c2b3dcb0

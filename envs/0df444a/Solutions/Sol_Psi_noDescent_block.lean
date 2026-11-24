@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Psi.noDescent_block
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-23T23:47:59.678824+00:00
 -- url     : https://prove2.me/submissions/b3846fe5-19ca-40ba-83d0-e627bd4f39df
 

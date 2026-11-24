@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassParam_exists_UJ
 -- name    : GlobalTheory.ClassParam.exists_UJ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:21:21.011812+00:00
 -- url     : https://prove2.me/theorems/f5d9b2d0-ccb1-4e98-b53c-7e0a8c676ec3

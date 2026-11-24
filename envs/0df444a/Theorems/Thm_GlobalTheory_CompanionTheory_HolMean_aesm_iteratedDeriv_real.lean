@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HolMean_aesm_iteratedDeriv_real
 -- name    : GlobalTheory.CompanionTheory.HolMean.aesm_iteratedDeriv_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:47:38.363091+00:00
 -- url     : https://prove2.me/theorems/8d1a9bb5-a35e-42e0-a85e-49577667b679

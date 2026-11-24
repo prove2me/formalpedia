@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxChart_blockScale_mem_domCell
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxChart.blockScale_mem_domCell
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:19:22.114828+00:00
 -- url     : https://prove2.me/theorems/784d13a7-d1d7-4ace-8ae7-ef6423cc5512

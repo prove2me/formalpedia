@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for FairSelling.le_TPS_of_le_truncSum
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T01:35:37.072939+00:00
 -- url     : https://prove2.me/submissions/4cd8e85d-622f-49a1-96bc-c2cf26f8e612
 

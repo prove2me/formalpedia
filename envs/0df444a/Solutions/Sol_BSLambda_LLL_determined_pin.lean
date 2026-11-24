@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.LLL.determined_pin
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:52:20.6042+00:00
 -- url     : https://prove2.me/submissions/2a985c3f-68e7-42c0-8ceb-8fab9ed8f410
 

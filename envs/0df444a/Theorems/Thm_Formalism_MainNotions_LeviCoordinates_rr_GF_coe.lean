@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_LeviCoordinates_rr_GF_coe
 -- name    : Formalism.MainNotions.LeviCoordinates.rr_GF_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:42:30.271456+00:00
 -- url     : https://prove2.me/theorems/a8d804f5-726c-4a0f-b135-3d0d9ad9e87d

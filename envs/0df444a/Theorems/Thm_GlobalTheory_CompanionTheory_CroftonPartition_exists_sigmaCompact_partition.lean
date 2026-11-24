@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CroftonPartition_exists_sigmaCompact_partition
 -- name    : GlobalTheory.CompanionTheory.CroftonPartition.exists_sigmaCompact_partition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:34:20.034333+00:00
 -- url     : https://prove2.me/theorems/0326347d-bbd8-4ec9-b3c2-6a7978469c07

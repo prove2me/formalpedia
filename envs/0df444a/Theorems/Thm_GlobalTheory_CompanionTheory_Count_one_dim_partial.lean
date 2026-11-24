@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Count_one_dim_partial
 -- name    : GlobalTheory.CompanionTheory.Count.one_dim_partial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:34:12.572385+00:00
 -- url     : https://prove2.me/theorems/32582af2-51b0-4f2f-ad29-a162599de89d

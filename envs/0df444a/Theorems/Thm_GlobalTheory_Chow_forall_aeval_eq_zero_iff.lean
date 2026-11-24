@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_forall_aeval_eq_zero_iff
 -- name    : GlobalTheory.Chow.forall_aeval_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:14:59.971507+00:00
 -- url     : https://prove2.me/theorems/57b34647-aefb-48ae-8179-70dfc9a151de

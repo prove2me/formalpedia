@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for FunctorialResolution.EmbeddedResolution.mvPolynomialToSumCoordinateRing_C
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-23T23:49:35.30211+00:00
 -- url     : https://prove2.me/submissions/ad8c2e21-f0f4-4d91-8fb9-dad584206956
 

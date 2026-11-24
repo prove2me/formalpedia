@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for DyckAlgebra.DyckRepU.thetaDGamma_eq_conjugate
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-23T23:49:41.475009+00:00
 -- url     : https://prove2.me/submissions/9adcf4f2-3f68-4321-8eae-f4ff94ad38e0
 

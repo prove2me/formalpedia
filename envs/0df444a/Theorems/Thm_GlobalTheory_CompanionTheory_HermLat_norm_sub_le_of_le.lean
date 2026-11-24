@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HermLat_norm_sub_le_of_le
 -- name    : GlobalTheory.CompanionTheory.HermLat.norm_sub_le_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:48:02.252804+00:00
 -- url     : https://prove2.me/theorems/d17cc782-b68e-4671-9312-88b13ccf5b5c

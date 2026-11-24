@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Lat_isVBOn_dual_and_bidual
 -- name    : GlobalTheory.CompanionTheory.Ar.Lat.isVBOn_dual_and_bidual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:08:33.958429+00:00
 -- url     : https://prove2.me/theorems/37adf614-c1b5-47ab-ac00-d59e9b3b9fdf

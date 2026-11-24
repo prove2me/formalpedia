@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ModuleReduction_mem_smul_of_tmul_eq_zero
 -- name    : GlobalTheory.CompanionTheory.ModuleReduction.mem_smul_of_tmul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:53:17.18261+00:00
 -- url     : https://prove2.me/theorems/349e9d87-d753-49f4-a618-825451f3b345

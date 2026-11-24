@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HCdecomp_Low_red_mul
 -- name    : GlobalTheory.CompanionTheory.HCdecomp.Low.red_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:45:14.826895+00:00
 -- url     : https://prove2.me/theorems/f6ff1e2b-c7c4-4698-b7c7-e40a202e446d

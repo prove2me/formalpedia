@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CartanMove_stMove
 -- name    : GlobalTheory.CompanionTheory.CartanMove.stMove
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:27:42.120271+00:00
 -- url     : https://prove2.me/theorems/395b438e-0804-44d4-b210-688b20eda568

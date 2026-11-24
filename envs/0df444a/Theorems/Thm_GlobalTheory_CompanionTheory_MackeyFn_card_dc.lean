@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MackeyFn_card_dc
 -- name    : GlobalTheory.CompanionTheory.MackeyFn.card_dc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:51:59.082776+00:00
 -- url     : https://prove2.me/theorems/1ef653db-bbba-4589-a3cd-0b99103590d7

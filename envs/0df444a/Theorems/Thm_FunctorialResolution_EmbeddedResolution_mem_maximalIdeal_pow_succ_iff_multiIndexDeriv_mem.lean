@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_mem_maximalIdeal_pow_succ_iff_multiIndexDeriv_mem
 -- name    : FunctorialResolution.EmbeddedResolution.mem_maximalIdeal_pow_succ_iff_multiIndexDeriv_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:47:46.135189+00:00
 -- url     : https://prove2.me/theorems/ffc3c061-6b7d-4d63-bdfb-a9895e23b072

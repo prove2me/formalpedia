@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HolMean_DilatedGaussian_eventually_small
 -- name    : GlobalTheory.CompanionTheory.HolMean.DilatedGaussian.eventually_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:48:09.571545+00:00
 -- url     : https://prove2.me/theorems/729954a2-c689-4a7e-930d-abfbeeb37c62

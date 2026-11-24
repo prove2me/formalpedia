@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_CoordModel_coordTie
 -- name    : GlobalTheory.CompanionTheory.Ar.CoordModel.coordTie
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:17:41.529142+00:00
 -- url     : https://prove2.me/theorems/45c3ceee-743b-4628-b686-a1d73dacf559

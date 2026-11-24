@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HermPlane_exists_pair
 -- name    : GlobalTheory.CompanionTheory.HermPlane.exists_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:48:07.591125+00:00
 -- url     : https://prove2.me/theorems/29af06ef-fe33-436f-91d1-c3ef1c564c69

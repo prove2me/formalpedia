@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.Construction.cert_apply_gateCoord
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:50:26.542807+00:00
 -- url     : https://prove2.me/submissions/bdf95303-2a9d-43f5-8be5-bf7c9aad39be
 

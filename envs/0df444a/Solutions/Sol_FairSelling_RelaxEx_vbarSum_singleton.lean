@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for FairSelling.RelaxEx.vbarSum_singleton
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T03:23:20.894866+00:00
 -- url     : https://prove2.me/submissions/cc7a86f7-74ab-4e65-b712-d73b89db7d30
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GapOpLower_row_identity
 -- name    : GlobalTheory.CompanionTheory.GapOpLower.row_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:42:52.407229+00:00
 -- url     : https://prove2.me/theorems/9e9d0d83-2af7-44a6-a120-d4428f14856a

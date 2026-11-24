@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EntrywiseCount_prod_indicator
 -- name    : GlobalTheory.CompanionTheory.EntrywiseCount.prod_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:37:02.644988+00:00
 -- url     : https://prove2.me/theorems/67d7c8fe-183e-4fda-864e-9bbaa3d38f1e

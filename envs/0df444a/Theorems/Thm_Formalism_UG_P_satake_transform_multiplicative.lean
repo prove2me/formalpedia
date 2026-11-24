@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satake_transform_multiplicative
 -- name    : Formalism.UG.P.satake_transform_multiplicative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:34:45.761292+00:00
 -- url     : https://prove2.me/theorems/efa9c7c0-63b5-407e-be09-de6e400a134d

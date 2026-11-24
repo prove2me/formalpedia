@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CdHaarScale_Main_umat_phi
 -- name    : PI.UnitaryGroupMassFormula.CdHaarScale.Main.umat_phi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:37:17.269394+00:00
 -- url     : https://prove2.me/theorems/8a0bc7f9-41c2-4565-bb3d-b43ab2e2dd4e

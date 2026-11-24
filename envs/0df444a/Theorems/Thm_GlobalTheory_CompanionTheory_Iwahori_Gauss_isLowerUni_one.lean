@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Iwahori_Gauss_isLowerUni_one
 -- name    : GlobalTheory.CompanionTheory.Iwahori.Gauss.isLowerUni_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:49:42.894856+00:00
 -- url     : https://prove2.me/theorems/98a4a360-1641-4a1b-94fb-d7c2c343d802

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinGL_card_parab
 -- name    : GlobalTheory.CompanionTheory.FinGL.card_parab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:39:27.176364+00:00
 -- url     : https://prove2.me/theorems/e5a1aef7-0ab8-4732-906c-bac9eb6eafce

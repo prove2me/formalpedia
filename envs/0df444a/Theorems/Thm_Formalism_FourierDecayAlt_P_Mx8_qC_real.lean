@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx8_qC_real
 -- name    : Formalism.FourierDecayAlt.P.Mx8.qC_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:46:41.638361+00:00
 -- url     : https://prove2.me/theorems/358b3651-6e1a-464b-a1cd-486cfaf695ea

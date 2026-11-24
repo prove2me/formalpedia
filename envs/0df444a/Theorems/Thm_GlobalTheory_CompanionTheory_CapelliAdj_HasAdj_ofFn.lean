@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CapelliAdj_HasAdj_ofFn
 -- name    : GlobalTheory.CompanionTheory.CapelliAdj.HasAdj.ofFn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:27:23.799314+00:00
 -- url     : https://prove2.me/theorems/436987c5-f1c0-41ed-a212-47eb1b0c59a8

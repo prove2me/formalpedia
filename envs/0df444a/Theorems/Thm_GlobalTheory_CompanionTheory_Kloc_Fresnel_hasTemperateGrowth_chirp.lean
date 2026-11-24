@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Kloc_Fresnel_hasTemperateGrowth_chirp
 -- name    : GlobalTheory.CompanionTheory.Kloc.Fresnel.hasTemperateGrowth_chirp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:50:30.085875+00:00
 -- url     : https://prove2.me/theorems/3eef2f1d-7610-45be-acc6-02fdb7a4c685

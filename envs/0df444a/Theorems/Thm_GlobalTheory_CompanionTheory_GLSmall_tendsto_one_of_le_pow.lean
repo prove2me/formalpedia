@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GLSmall_tendsto_one_of_le_pow
 -- name    : GlobalTheory.CompanionTheory.GLSmall.tendsto_one_of_le_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:42:19.320429+00:00
 -- url     : https://prove2.me/theorems/00b83d77-46eb-4664-819d-e63a4ff8f437

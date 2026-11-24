@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_QIndex_BoxIndex_line_le_of_val_le
 -- name    : GlobalTheory.CompanionTheory.QL.QIndex.BoxIndex.line_le_of_val_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:56:16.920459+00:00
 -- url     : https://prove2.me/theorems/bc5ca1f4-e01b-4cca-a3f2-127456e7ea5e

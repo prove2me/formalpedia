@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_rtt_relation_entries
 -- name    : Formalism.FourierDecayAlt.P.rtt_relation_entries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:46:51.078177+00:00
 -- url     : https://prove2.me/theorems/7012cf67-27a4-4d87-a7ae-8cf1d0da34ee

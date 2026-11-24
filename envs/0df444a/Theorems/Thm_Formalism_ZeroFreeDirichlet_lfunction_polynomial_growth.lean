@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_lfunction_polynomial_growth
 -- name    : Formalism.ZeroFreeDirichlet.lfunction_polynomial_growth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:12:21.485613+00:00
 -- url     : https://prove2.me/theorems/b04e039b-b7bd-4fd7-82bd-e29b8a403fd1

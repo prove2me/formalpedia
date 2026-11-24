@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_DerivationAlgebraicIndependence_eq_C_of_pderiv_eq_zero
 -- name    : ReciprocityTheory.MultiplicativeHeights.DerivationAlgebraicIndependence.eq_C_of_pderiv_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:47:57.505799+00:00
 -- url     : https://prove2.me/theorems/d6592306-b472-478b-a2c7-f85c91cadb27

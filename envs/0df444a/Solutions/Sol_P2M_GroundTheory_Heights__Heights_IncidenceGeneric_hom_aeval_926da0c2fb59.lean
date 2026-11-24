@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for P2M_GroundTheory_Heights__Heights_IncidenceGeneric_hom_aeval_926da0c2fb59
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T01:29:42.967074+00:00
 -- url     : https://prove2.me/submissions/71a6fa3b-9be8-4075-b68d-9101f291d94a
 

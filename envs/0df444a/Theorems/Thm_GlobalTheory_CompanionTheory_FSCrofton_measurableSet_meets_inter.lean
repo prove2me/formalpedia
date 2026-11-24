@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_measurableSet_meets_inter
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.measurableSet_meets_inter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:39:48.553109+00:00
 -- url     : https://prove2.me/theorems/813500c2-8d97-46a2-b0d3-d4675a8d0483

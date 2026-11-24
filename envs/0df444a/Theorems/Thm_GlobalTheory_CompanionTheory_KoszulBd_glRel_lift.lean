@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KoszulBd_glRel_lift
 -- name    : GlobalTheory.CompanionTheory.KoszulBd.glRel_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:51:18.237684+00:00
 -- url     : https://prove2.me/theorems/ec15dbb6-012c-484d-848d-80632878d394

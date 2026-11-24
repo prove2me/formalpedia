@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ConstCoeffODE_step_finrank_le
 -- name    : GlobalTheory.CompanionTheory.ConstCoeffODE.step_finrank_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:32:38.558432+00:00
 -- url     : https://prove2.me/theorems/c56c42bd-3bff-468e-855d-905a680228e0

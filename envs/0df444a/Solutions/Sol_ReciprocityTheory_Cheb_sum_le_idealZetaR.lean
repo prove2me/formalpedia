@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ReciprocityTheory.Cheb.sum_le_idealZetaR
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T03:43:19.4142+00:00
 -- url     : https://prove2.me/submissions/b640f1f8-ada8-4bfc-ad01-730554f1d3d4
 

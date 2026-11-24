@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.exists_eq_flipSet_singleton_of_hammingDist_eq_one
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:49:30.016664+00:00
 -- url     : https://prove2.me/submissions/2e21c343-7acf-4687-acf4-31b1ff208838
 

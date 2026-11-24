@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_of_inner_eq_on_dense_span
 -- name    : GlobalTheory.eq_of_inner_eq_on_dense_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:41:04.55497+00:00
 -- url     : https://prove2.me/theorems/29b4a3ae-5e7b-4354-905f-e9614c3da97f

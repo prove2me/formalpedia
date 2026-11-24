@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpChartJet_pOf_sum
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpChartJet.pOf_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:58:53.952819+00:00
 -- url     : https://prove2.me/theorems/1e526125-fdd0-430c-9bb7-362e907cac78

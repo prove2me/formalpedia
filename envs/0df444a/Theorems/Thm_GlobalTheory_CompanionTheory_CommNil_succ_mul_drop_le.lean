@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CommNil_succ_mul_drop_le
 -- name    : GlobalTheory.CompanionTheory.CommNil.succ_mul_drop_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:32:50.379299+00:00
 -- url     : https://prove2.me/theorems/f053b6be-0f13-4846-a5b6-fca1040cebbd

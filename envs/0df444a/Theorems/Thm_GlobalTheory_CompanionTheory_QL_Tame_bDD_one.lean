@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_Tame_bDD_one
 -- name    : GlobalTheory.CompanionTheory.QL.Tame.bDD_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:55:41.751108+00:00
 -- url     : https://prove2.me/theorems/9f5cbd7e-971e-419e-907f-17b2c10bd501

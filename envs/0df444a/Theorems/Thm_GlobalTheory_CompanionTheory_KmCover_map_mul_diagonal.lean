@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KmCover_map_mul_diagonal
 -- name    : GlobalTheory.CompanionTheory.KmCover.map_mul_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:51:08.51482+00:00
 -- url     : https://prove2.me/theorems/3e1dff7c-b8e6-4b29-a1b8-7dbe3cf9dc2a

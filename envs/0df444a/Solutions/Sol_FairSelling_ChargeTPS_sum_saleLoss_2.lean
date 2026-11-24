@@ -1,6 +1,6 @@
 -- Prove2me | solution 2 for FairSelling.ChargeTPS.sum_saleLoss
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T01:25:05.433642+00:00
 -- url     : https://prove2.me/submissions/caecbd1b-b596-491f-8580-2f29fab38582
 

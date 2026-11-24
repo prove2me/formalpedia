@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CasselmanOsborne_bd_qdet
 -- name    : GlobalTheory.CompanionTheory.CasselmanOsborne.bd_qdet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:32:13.960919+00:00
 -- url     : https://prove2.me/theorems/daa36595-8107-46e6-8b81-b9b4e45753fe

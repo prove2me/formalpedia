@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.LLL.mem_avoid
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:48:26.341439+00:00
 -- url     : https://prove2.me/submissions/0fec3012-5c6d-470f-8b04-b0afb332a265
 

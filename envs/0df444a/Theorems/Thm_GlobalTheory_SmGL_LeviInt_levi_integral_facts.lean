@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_LeviInt_levi_integral_facts
 -- name    : GlobalTheory.SmGL.LeviInt.levi_integral_facts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:44:25.209152+00:00
 -- url     : https://prove2.me/theorems/ee59c396-395d-44a7-bd9b-4e7ad912f50c

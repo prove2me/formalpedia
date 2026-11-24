@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.LLL.glue_apply_of_mem
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:47:08.269976+00:00
 -- url     : https://prove2.me/submissions/7d5cb8e0-7964-44f2-8546-cd9d08e2780f
 

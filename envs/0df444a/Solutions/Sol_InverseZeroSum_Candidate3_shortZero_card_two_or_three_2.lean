@@ -1,6 +1,6 @@
 -- Prove2me | solution 2 for InverseZeroSum.Candidate3.shortZero_card_two_or_three
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T05:26:54.120487+00:00
 -- url     : https://prove2.me/submissions/01e06041-caa6-4d28-8f8b-8f0b19225f5c
 

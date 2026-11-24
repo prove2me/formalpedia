@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Formalism.ZeroFreeDirichlet.norm_character_sum_Icc_le
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T02:38:28.900635+00:00
 -- url     : https://prove2.me/submissions/1270f63d-46fd-42fc-b305-c6dae404b3c2
 

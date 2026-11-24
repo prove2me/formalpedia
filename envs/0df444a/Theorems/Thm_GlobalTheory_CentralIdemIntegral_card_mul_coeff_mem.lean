@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CentralIdemIntegral_card_mul_coeff_mem
 -- name    : GlobalTheory.CentralIdemIntegral.card_mul_coeff_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:08:04.934942+00:00
 -- url     : https://prove2.me/theorems/5e997983-16e7-4b48-b034-15badf39b0b1

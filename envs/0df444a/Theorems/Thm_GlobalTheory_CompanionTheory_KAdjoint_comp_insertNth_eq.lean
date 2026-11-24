@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KAdjoint_comp_insertNth_eq
 -- name    : GlobalTheory.CompanionTheory.KAdjoint.comp_insertNth_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:49:16.556093+00:00
 -- url     : https://prove2.me/theorems/162618de-85f1-4aba-ad3f-f782dca825e9

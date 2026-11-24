@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LocalSplit_ker_facts
 -- name    : GlobalTheory.CompanionTheory.LocalSplit.ker_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:52:01.358156+00:00
 -- url     : https://prove2.me/theorems/43ecbc13-7746-4d5a-a4d2-cd5aa971c02c

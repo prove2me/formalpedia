@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LGroupSection_isClopen_cosetImage
 -- name    : GlobalTheory.CompanionTheory.LGroupSection.isClopen_cosetImage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:52:00.11353+00:00
 -- url     : https://prove2.me/theorems/d56126fe-a820-4152-b66f-35374b28c8e7

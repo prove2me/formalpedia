@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BSLambda.PartialAssign.indUnion_eq_true_iff
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T00:47:12.030562+00:00
 -- url     : https://prove2.me/submissions/e7929515-b15c-4209-8ee8-9c7e81267903
 

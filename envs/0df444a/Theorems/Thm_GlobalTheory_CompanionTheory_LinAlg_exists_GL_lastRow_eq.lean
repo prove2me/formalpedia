@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LinAlg_exists_GL_lastRow_eq
 -- name    : GlobalTheory.CompanionTheory.LinAlg.exists_GL_lastRow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:52:04.972802+00:00
 -- url     : https://prove2.me/theorems/8f40259e-5ee1-4d7f-be3f-d305ff4aefcf

@@ -1,6 +1,6 @@
 -- Prove2me | solution 2 for BalanceSpecification.FiniteEntropy.sum_mul_shannon_le
 -- status  : ACCEPTED   (prove)
--- author  : @grencez
+-- author  : @sockpaprika
 -- created : 2026-11-24T03:13:45.186838+00:00
 -- url     : https://prove2.me/submissions/833c7c1f-512e-4acc-a3ac-931a32676008
 

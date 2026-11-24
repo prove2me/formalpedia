@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KerSquare_memLp_row
 -- name    : GlobalTheory.CompanionTheory.KerSquare.memLp_row
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:51:08.131894+00:00
 -- url     : https://prove2.me/theorems/cd1a2d01-53ea-4175-930c-4c1b4a9da4f3

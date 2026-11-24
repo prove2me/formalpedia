@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PrimesInProgressionsRelativeModel_invLog_integral_pos
 -- name    : GlobalTheory.CompanionTheory.PrimesInProgressionsRelativeModel.invLog_integral_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:55:51.818954+00:00
 -- url     : https://prove2.me/theorems/a8caf2ed-1364-4818-835f-ff6d12ce1894

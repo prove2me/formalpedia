@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ChainCAR_cre_cre
 -- name    : GlobalTheory.CompanionTheory.ChainCAR.cre_cre
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:13:40.007691+00:00
 -- url     : https://prove2.me/theorems/19cab938-2f41-4a0d-bee3-431f8cd107c0
