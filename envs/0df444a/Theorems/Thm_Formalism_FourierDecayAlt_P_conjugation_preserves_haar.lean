@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_conjugation_preserves_haar
 -- name    : Formalism.FourierDecayAlt.P.conjugation_preserves_haar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:38:54.427585+00:00
 -- url     : https://prove2.me/theorems/f37db526-5109-49ce-8130-c4790eca5da6

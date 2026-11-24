@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_hasse_formulas
 -- name    : hasse_formulas
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T15:19:29.9008+00:00
 -- url     : https://prove2.me/theorems/5ec02077-29a2-4a43-b804-a25559679913

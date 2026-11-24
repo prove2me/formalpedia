@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ClosureOperators_MS_le_ker
 -- name    : Formalism.FourierDecayAlt.P.ClosureOperators.MS_le_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:49:42.57511+00:00
 -- url     : https://prove2.me/theorems/f113ef32-6e31-4865-87a0-60761dfd2fd4

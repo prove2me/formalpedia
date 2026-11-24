@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoByOneBlock_bigCellFactor
 -- name    : Formalism.FourierDecayAlt.P.TwoByOneBlock.bigCellFactor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:23:16.901808+00:00
 -- url     : https://prove2.me/theorems/22dc6c47-8cbc-422f-a231-2e0d7dab0d50

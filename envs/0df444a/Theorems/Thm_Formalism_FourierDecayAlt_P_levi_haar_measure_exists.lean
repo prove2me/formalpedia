@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_levi_haar_measure_exists
 -- name    : Formalism.FourierDecayAlt.P.levi_haar_measure_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:53:29.633822+00:00
 -- url     : https://prove2.me/theorems/d9f47927-3c2a-4529-8923-50f15939e435

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LeftMultiplicationRule_phase_sum
 -- name    : Formalism.FourierDecayAlt.Q.LeftMultiplicationRule.phase_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:46:13.304871+00:00
 -- url     : https://prove2.me/theorems/4fa5b05b-1829-4302-8c83-03716b7f6f94

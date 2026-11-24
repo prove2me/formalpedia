@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChangingCache_UpperBound_observation_3_1
 -- name    : ChangingCache.UpperBound.observation_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T11:59:56.491581+00:00
 -- url     : https://prove2.me/theorems/48bc2959-bad5-4482-83dd-4df630514443

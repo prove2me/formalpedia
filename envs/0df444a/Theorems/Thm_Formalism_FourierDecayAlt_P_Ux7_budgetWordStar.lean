@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux7_budgetWordStar
 -- name    : Formalism.FourierDecayAlt.P.Ux7.budgetWordStar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:36:34.696219+00:00
 -- url     : https://prove2.me/theorems/87006f93-1f1f-4282-b738-990711de08ad

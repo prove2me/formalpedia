@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FourTermExpansion_EZ_smul_fun
 -- name    : Formalism.FourierDecayAlt.P.FourTermExpansion.EZ_smul_fun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:12:47.227072+00:00
 -- url     : https://prove2.me/theorems/62bd2294-5a30-47a0-b01e-c5e4df97146d

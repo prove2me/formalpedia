@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RootChangeOfVariables_ae_ne_zero
 -- name    : Formalism.FourierDecayAlt.P.RootChangeOfVariables.ae_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:47:42.510334+00:00
 -- url     : https://prove2.me/theorems/743af490-1b62-4451-a475-6dc2eccc9491

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LeftMultiplicationRule_reflection_mul_star
 -- name    : Formalism.FourierDecayAlt.Q.LeftMultiplicationRule.reflection_mul_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:45:14.853542+00:00
 -- url     : https://prove2.me/theorems/ea81f438-ab85-49ed-bc1c-026016121252

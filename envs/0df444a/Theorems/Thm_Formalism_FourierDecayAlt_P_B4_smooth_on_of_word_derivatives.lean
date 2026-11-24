@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B4_smooth_on_of_word_derivatives
 -- name    : Formalism.FourierDecayAlt.P.B4.smooth_on_of_word_derivatives
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:25:18.956853+00:00
 -- url     : https://prove2.me/theorems/60f0d740-8636-4eda-a73e-0e7cc87a6173

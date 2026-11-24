@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LieAlgebraWeightVectors_cb_anti_of_succ
 -- name    : Formalism.FourierDecayAlt.Q.LieAlgebraWeightVectors.cb_anti_of_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:44:12.372043+00:00
 -- url     : https://prove2.me/theorems/ab549822-6da5-4e53-8ebd-3f9e4091169a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_mem_traceZero
 -- name    : GlobalTheory.InertZeta.mem_traceZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:36:12.406109+00:00
 -- url     : https://prove2.me/theorems/db57025c-a890-4ae0-9111-03caf2319d16

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_isPF_neg
 -- name    : Formalism.FourierDecayAlt.P.NFx2.isPF_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:17:05.432585+00:00
 -- url     : https://prove2.me/theorems/cb3059f3-808b-4291-9a2a-da8bf4d7a78d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitarySwap_mem_GLint_of_unitary
 -- name    : GlobalTheory.UnitarySwap.mem_GLint_of_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:45:49.558844+00:00
 -- url     : https://prove2.me/theorems/b58f8688-2808-4b40-93ad-482b25c342d6

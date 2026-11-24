@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_smul_tot_mem_Mext
 -- name    : GlobalTheory.BK.PhiMod.smul_tot_mem_Mext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:42:59.158174+00:00
 -- url     : https://prove2.me/theorems/5f3ca9e8-16e8-400d-861f-0e1c01c3c8dd

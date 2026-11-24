@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpLoc_hom_ext_loc
 -- name    : GlobalTheory.GrpLoc.hom_ext_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:59:19.421957+00:00
 -- url     : https://prove2.me/theorems/e1c91d44-bdcd-4d3c-8d0b-026607d3d006

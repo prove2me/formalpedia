@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_form_add_smul_left
 -- name    : Formalism.FourierDecayAlt.P5.form_add_smul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:40:29.61198+00:00
 -- url     : https://prove2.me/theorems/c340fdac-bb14-43da-85f3-e1bd6ced5ad4

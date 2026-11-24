@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenEigenFinOrbit_finrank_map_prod_le
 -- name    : GlobalTheory.GenEigenFinOrbit.finrank_map_prod_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:53:56.814454+00:00
 -- url     : https://prove2.me/theorems/7e495728-77b0-41f8-9554-c8a3d7a5a2ff

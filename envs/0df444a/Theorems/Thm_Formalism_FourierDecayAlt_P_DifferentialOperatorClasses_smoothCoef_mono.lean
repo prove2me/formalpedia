@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DifferentialOperatorClasses_smoothCoef_mono
 -- name    : Formalism.FourierDecayAlt.P.DifferentialOperatorClasses.smoothCoef_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:13:05.251113+00:00
 -- url     : https://prove2.me/theorems/b27a1495-ed8c-4b50-b0a3-d053b191b8a6

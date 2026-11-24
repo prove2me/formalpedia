@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_InvAlg_exists_aeval_eq_of_separable
 -- name    : GlobalTheory.UnitLemma.InvAlg.exists_aeval_eq_of_separable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:38:06.037356+00:00
 -- url     : https://prove2.me/theorems/c59d03f5-ca4b-49af-9a57-262b1c41a7c0

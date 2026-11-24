@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x9_tau_meas
 -- name    : Formalism.FourierDecayAlt.P.B2x9.tau_meas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:43:48.483355+00:00
 -- url     : https://prove2.me/theorems/20f665d3-8afe-45da-8a1d-2f935ed7eec9

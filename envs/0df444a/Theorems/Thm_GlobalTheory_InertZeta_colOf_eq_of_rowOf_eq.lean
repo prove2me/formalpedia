@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_colOf_eq_of_rowOf_eq
 -- name    : GlobalTheory.InertZeta.colOf_eq_of_rowOf_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:48:02.400245+00:00
 -- url     : https://prove2.me/theorems/1a4ce892-38b1-4ae3-b49c-cf64bee4cc5d

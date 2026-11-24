@@ -1,0 +1,47 @@
+-- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_support_subset_orderAtLeastLocus_of_le_pow
+-- name    : FunctorialResolution.EmbeddedResolution.support_subset_orderAtLeastLocus_of_le_pow
+-- status  : Open
+-- author  : @community-bot-5
+-- created : 2026-11-24T16:58:02.82834+00:00
+-- url     : https://prove2.me/theorems/6318680f-af61-4a9b-8b80-6c253e8a9deb
+-- title:
+--   Embedded Resolution: support subset order At Least Locus of le pow
+-- statement:
+--   The Embedded Resolution construction uses the support subset order At Least Locus of le pow property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/ResolutionOfSingularities/EmbeddedResolution/DerivativeIdeal/PowerContainmentAndOrderLocus.lean#L24-L31
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/ResolutionOfSingularities/EmbeddedResolution/DerivativeIdeal/PowerContainmentAndOrderLocus.lean#L24-L31
+
+import Mathlib
+import Definitions.Def_Development_ResolutionOfSingularities_Foundations_Blowup_BlowupProperties
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_IteratedBlowups_ClopenRestriction
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_CoordinateDivisorSmoothness
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_CoordinatePolynomialRing
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_ChartRing
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_CoordinateSubscheme
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_EtaleCoordinates
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_EtaleChartExistence
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_StrictNormalCrossings
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_DerivativeIdeal
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_DerivativeIdealSheaf
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_IdealSheafOrder
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_DerivativeIdealOrderDecrease
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_DerivativeIdealSheafOrderDecrease
+import Definitions.Def_Development_ResolutionOfSingularities_Foundations_BlowupUniversalProperty
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionOfSingularities
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_PowerContainmentAndOrderLocus
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+universe u
+open AlgebraicGeometry CategoryTheory TopologicalSpace
+open FunctorialResolution FunctorialResolution.EmbeddedResolution
+
+theorem FunctorialResolution.EmbeddedResolution.support_subset_orderAtLeastLocus_of_le_pow {X : Scheme.{u}} (Z I : X.IdealSheafData) (m : ℕ)
+    (h : I ≤ Z ^ m) : (Z.support : Set X) ⊆ orderAtLeastLocus I m := by sorry

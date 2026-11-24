@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_EabGlW_exp_mulVec_fix
 -- name    : Formalism.FourierDecayAlt.Q.EabGlW.exp_mulVec_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:44:16.078891+00:00
 -- url     : https://prove2.me/theorems/5c843a72-0ba5-4165-ac67-d6476df61ff7

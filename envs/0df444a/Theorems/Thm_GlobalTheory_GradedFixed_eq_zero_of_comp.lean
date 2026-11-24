@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GradedFixed_eq_zero_of_comp
 -- name    : GlobalTheory.GradedFixed.eq_zero_of_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:56:41.160717+00:00
 -- url     : https://prove2.me/theorems/92ed2137-52fe-44c3-8526-6884cf8f639f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_isPF_zero
 -- name    : Formalism.FourierDecayAlt.P.NFx2.isPF_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:17:15.913154+00:00
 -- url     : https://prove2.me/theorems/06a33f76-8eed-40e3-a45a-6944c7464542

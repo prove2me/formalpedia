@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx6_preserves_transfer_letter
 -- name    : Formalism.FourierDecayAlt.P.Qx6.preserves_transfer_letter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:34:24.659029+00:00
 -- url     : https://prove2.me/theorems/7da5cc51-a991-4e0a-b199-e29c9a9e0d24

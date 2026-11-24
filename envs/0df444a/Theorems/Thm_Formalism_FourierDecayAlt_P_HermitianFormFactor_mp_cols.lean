@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormFactor_mp_cols
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormFactor.mp_cols
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:15:15.435096+00:00
 -- url     : https://prove2.me/theorems/95578565-01ba-4afe-9f0c-44db642eedca

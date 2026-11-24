@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_real_inputs_by_parts
 -- name    : Formalism.FourierDecayAlt.P.real_inputs_by_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:40:27.818427+00:00
 -- url     : https://prove2.me/theorems/29b2f7cc-4405-4c93-a5ff-a36b8801fed1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux6_le_div_of_lower_bound
 -- name    : Formalism.FourierDecayAlt.P.Ux6.le_div_of_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:34:45.357811+00:00
 -- url     : https://prove2.me/theorems/adecea29-7962-4616-b7ab-3a4b5bb1f474

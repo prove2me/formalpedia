@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LieAlgebraWeightVectors_cb_range_sub_of_mem
 -- name    : Formalism.FourierDecayAlt.Q.LieAlgebraWeightVectors.cb_range_sub_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:44:54.990498+00:00
 -- url     : https://prove2.me/theorems/9863a748-13f1-4b2e-bccc-41719661d873

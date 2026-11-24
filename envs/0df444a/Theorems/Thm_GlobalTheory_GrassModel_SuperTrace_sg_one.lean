@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrassModel_SuperTrace_sg_one
 -- name    : GlobalTheory.GrassModel.SuperTrace.sg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:57:54.361013+00:00
 -- url     : https://prove2.me/theorems/02f2e61a-6b58-496c-b24a-7e28d807e927

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_conjugation_invariance_of_parts
 -- name    : Formalism.FourierDecayAlt.P.conjugation_invariance_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:38:47.042488+00:00
 -- url     : https://prove2.me/theorems/227d9af9-324b-4135-a76d-c5d3dd30a0b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalLog_d_evY
 -- name    : GlobalTheory.FormalLog.d_evY
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:07:22.193836+00:00
 -- url     : https://prove2.me/theorems/748cd4dd-b24a-4ea8-ad1f-9d7bb74e20e1

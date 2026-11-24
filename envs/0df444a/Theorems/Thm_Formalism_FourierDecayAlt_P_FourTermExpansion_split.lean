@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FourTermExpansion_split
 -- name    : Formalism.FourierDecayAlt.P.FourTermExpansion.split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:14:29.610698+00:00
 -- url     : https://prove2.me/theorems/ac172a2e-36c0-4112-bff0-238ce7864d63

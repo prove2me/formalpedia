@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GradedFixed_WA_union
 -- name    : GlobalTheory.GradedFixed.WA_union
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:56:47.5108+00:00
 -- url     : https://prove2.me/theorems/c39d1459-8982-45cc-88e6-f190d6e9571d

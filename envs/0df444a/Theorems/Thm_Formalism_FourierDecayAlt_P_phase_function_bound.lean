@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_phase_function_bound
 -- name    : Formalism.FourierDecayAlt.P.phase_function_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:39:41.640933+00:00
 -- url     : https://prove2.me/theorems/59bef082-6295-4a28-a7a7-0eb8a45c4770

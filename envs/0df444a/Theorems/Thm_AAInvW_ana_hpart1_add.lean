@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_ana_hpart1_add
 -- name    : AAInvW.ana_hpart1_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:55:58.454545+00:00
 -- url     : https://prove2.me/theorems/dd3b1df9-ebb7-42fa-a1ee-39efad0b616c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussMarginal_pi_withDensity_const
 -- name    : GlobalTheory.GaussMarginal.pi_withDensity_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:54:16.516451+00:00
 -- url     : https://prove2.me/theorems/8f38735c-488a-44ac-879d-b148153f1f66

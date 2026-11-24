@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux5_pow_le_of_lb
 -- name    : Formalism.FourierDecayAlt.P.Ux5.pow_le_of_lb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:29:08.491732+00:00
 -- url     : https://prove2.me/theorems/30fcb3c6-242f-470f-8474-1eef70359b93

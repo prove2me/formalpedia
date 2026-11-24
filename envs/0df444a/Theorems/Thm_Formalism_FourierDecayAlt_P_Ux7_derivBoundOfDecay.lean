@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux7_derivBoundOfDecay
 -- name    : Formalism.FourierDecayAlt.P.Ux7.derivBoundOfDecay
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:36:45.701225+00:00
 -- url     : https://prove2.me/theorems/d3b7c8d9-c01c-4128-9f18-8e746f75cd6d

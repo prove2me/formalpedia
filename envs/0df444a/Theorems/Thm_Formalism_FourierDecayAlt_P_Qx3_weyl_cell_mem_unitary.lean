@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx3_weyl_cell_mem_unitary
 -- name    : Formalism.FourierDecayAlt.P.Qx3.weyl_cell_mem_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:21:03.152242+00:00
 -- url     : https://prove2.me/theorems/e0bf5ed4-b24b-4f35-a6b9-296f24d03121

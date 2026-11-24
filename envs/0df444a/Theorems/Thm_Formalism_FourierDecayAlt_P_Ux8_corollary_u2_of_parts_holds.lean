@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux8_corollary_u2_of_parts_holds
 -- name    : Formalism.FourierDecayAlt.P.Ux8.corollary_u2_of_parts_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:36:09.523804+00:00
 -- url     : https://prove2.me/theorems/9b863139-f9a1-4030-8e06-7a3a736e4c8f

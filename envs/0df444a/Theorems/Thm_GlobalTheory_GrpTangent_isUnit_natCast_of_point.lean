@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpTangent_isUnit_natCast_of_point
 -- name    : GlobalTheory.GrpTangent.isUnit_natCast_of_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:59:10.068806+00:00
 -- url     : https://prove2.me/theorems/75c53836-96b3-4ff6-8b22-0b830acc8d33

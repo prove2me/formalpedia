@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_exists_etaleChart_genericPoint_mem
 -- name    : FunctorialResolution.EmbeddedResolution.exists_etaleChart_genericPoint_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:03:00.417994+00:00
 -- url     : https://prove2.me/theorems/59cf9006-923b-455b-9be8-2506eea01e1b

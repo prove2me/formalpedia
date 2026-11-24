@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairShareAlmostAll_Slack_enough_buffers
 -- name    : FairShareAlmostAll.Slack.enough_buffers
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:54:24.874067+00:00
 -- url     : https://prove2.me/theorems/4fc3d795-64b1-401e-8504-83180cf160de

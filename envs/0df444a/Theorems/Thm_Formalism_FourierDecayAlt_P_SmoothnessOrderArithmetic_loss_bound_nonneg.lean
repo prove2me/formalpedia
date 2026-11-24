@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SmoothnessOrderArithmetic_loss_bound_nonneg
 -- name    : Formalism.FourierDecayAlt.P.SmoothnessOrderArithmetic.loss_bound_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:29:40.387483+00:00
 -- url     : https://prove2.me/theorems/6c6a6b05-b7cf-4085-aebb-b9bb5b3cc530

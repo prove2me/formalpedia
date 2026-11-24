@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx6_opL_germ
 -- name    : Formalism.FourierDecayAlt.P.Qx6.opL_germ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:34:41.406467+00:00
 -- url     : https://prove2.me/theorems/2efeac53-030b-4f9c-9abe-a12c14bfadce

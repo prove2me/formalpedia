@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GraphClosureExample_isFinite_str
 -- name    : GlobalTheory.GraphClosureExample.isFinite_str
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:58:01.903804+00:00
 -- url     : https://prove2.me/theorems/4c4f8b31-8445-419a-b056-b95a47656434

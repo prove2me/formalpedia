@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_interlacing_of_parts
 -- name    : Formalism.FourierDecayAlt.P.interlacing_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:38:41.432537+00:00
 -- url     : https://prove2.me/theorems/fd789023-9f33-4d7b-9f08-a13e7fac477c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_connection_star_lowering
 -- name    : Formalism.FourierDecayAlt.P.NFx2.connection_star_lowering
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:16:53.939746+00:00
 -- url     : https://prove2.me/theorems/d7faba2b-5f32-455a-9511-ff685e0cefe5

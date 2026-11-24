@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCRuleCW_act_smooth_contDiff
 -- name    : CCRuleCW.act_smooth_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:55:16.472825+00:00
 -- url     : https://prove2.me/theorems/b11434c5-5e13-42dc-a026-b77b326f8dcc

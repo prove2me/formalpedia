@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_Neg_mem_range_mid
 -- name    : GlobalTheory.SatakeWeyl.Neg.mem_range_mid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:29:35.629281+00:00
 -- url     : https://prove2.me/theorems/53b0d54d-5365-4387-879b-7a522d11feb4

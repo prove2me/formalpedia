@@ -41976,12 +41976,12 @@
 {"parent": "Formalism.InvariantFactorPaths.GelfandTsetlinBases.A0.col_all", "child": "Formalism_ThetaLogCoordinates_JacobiPathWeights_JacobiMinorProofs_PathProductHighestWeight", "via": ["solution", "statement"]}
 {"parent": "Formalism.InvariantFactorPaths.GelfandTsetlinBases.A0.col_all", "child": "Formalism_ThetaLogCoordinates_JacobiPathWeights_JacobiMinorProofs_LeIffLtColHeight", "via": ["solution", "statement"]}
 {"parent": "Formalism.InvariantFactorPaths.GelfandTsetlinBases.A0.col_all", "child": "Formalism_ThetaLogCoordinates_JacobiPathWeights_JacobiMinorProofs_ExistsSuppOfEvalNe", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.GmPoints.unitOf_bijective", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_ExistsSplitTorusPointsMulEquiv", "via": ["statement"]}
-{"parent": "GlobalTheory.GmPoints.unitOf_bijective", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_PlaceDivisors_ThmASt", "via": ["statement"]}
-{"parent": "GlobalTheory.GmPoints.unitOf_bijective", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_GlobalSectionsRankAlgClosed", "via": ["statement"]}
-{"parent": "GlobalTheory.GmPoints.unitOf_bijective", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_RosatiAdj", "via": ["statement"]}
-{"parent": "GlobalTheory.GmPoints.unitOf_bijective", "child": "Development_AbelianVarietyTheory_Proofs_JetHarmonics_UnitOfBijectiveMulNatural", "via": ["statement"]}
-{"parent": "GlobalTheory.GmPoints.unitOf_bijective", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ValCalc", "via": ["statement"]}
+{"parent": "GlobalTheory.GmPoints.unitOf_bijective", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_ExistsSplitTorusPointsMulEquiv", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.GmPoints.unitOf_bijective", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_PlaceDivisors_ThmASt", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.GmPoints.unitOf_bijective", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_GlobalSectionsRankAlgClosed", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.GmPoints.unitOf_bijective", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_RosatiAdj", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.GmPoints.unitOf_bijective", "child": "Development_AbelianVarietyTheory_Proofs_JetHarmonics_UnitOfBijectiveMulNatural", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.GmPoints.unitOf_bijective", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ValCalc", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.F.PeriodAreaSignLemmas.div_im", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_ThetaZeroLogDerivative", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Th1.F.PeriodAreaSignLemmas.div_im", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_QuasiPeriodConstUniqueOf", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.AnArc.degeneratingTori_basePeriodMap_smul", "child": "Development_AbelianVarietyTheory_Definitions_ArchimedeanThetaValues_DegeneratingToriPeriodMapEqBaseOfYEqZero", "via": ["solution", "statement"]}
@@ -66436,7 +66436,7 @@
 {"parent": "GlobalTheory.BorelUMod.Cayley.pow_succ_mem", "child": "Formalism_SatakeDualWeyl_StatementE", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.BorelUMod.Cayley.pow_succ_mem", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_PowApplyEqZeroOfStrictUpper", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CardLength.log_card_eq_finsum_length", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_LogCardEqFinsumLengthLocalizedMaximal", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.GelfandTrick.card_pairs_le", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_DoubleCosetOperatorsCommOfAntiInvolution", "via": ["statement"]}
+{"parent": "GlobalTheory.GelfandTrick.card_pairs_le", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_DoubleCosetOperatorsCommOfAntiInvolution", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.BetaCounterexample.detSet_scale", "child": "Development_AbelianVarietyTheory_Counterexamples_LevelGroupExamples_BetaIsPrincipal", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.BetaCounterexample.detSet_scale", "child": "Formalism_LocalToGlobal_ProjectiveLattices_ThShort", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Chow.isPrincipal_of_forall_C_mem", "child": "Development_AbelianVarietyTheory_Definitions_ThetaMetrics_ExistsAlgebraicIndependentGenericPoint", "via": ["solution", "statement"]}

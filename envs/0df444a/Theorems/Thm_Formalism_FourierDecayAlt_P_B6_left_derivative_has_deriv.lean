@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_left_derivative_has_deriv
 -- name    : Formalism.FourierDecayAlt.P.B6.left_derivative_has_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:17:00.322566+00:00
 -- url     : https://prove2.me/theorems/b5bf29db-3661-457c-911f-99c9a4f01375

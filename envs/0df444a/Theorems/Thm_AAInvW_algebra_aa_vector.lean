@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_algebra_aa_vector
 -- name    : AAInvW.algebra_aa_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:56:23.105901+00:00
 -- url     : https://prove2.me/theorems/9ef63ab6-29ed-4436-b068-68031fa41292

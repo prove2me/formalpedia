@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_Hpk_lift
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.Hpk_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:54:19.025826+00:00
 -- url     : https://prove2.me/theorems/a5aaf9d1-9293-405d-8c0d-9618aa621ecb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RankOneEmbeddings_In_swap_meas
 -- name    : Formalism.FourierDecayAlt.P.RankOneEmbeddings.In.swap_meas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:21:54.77683+00:00
 -- url     : https://prove2.me/theorems/d7831a4b-fd7f-4b81-adab-99ac96719a80

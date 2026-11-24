@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_bessel_capelli_commute_of_parts
 -- name    : Formalism.FourierDecayAlt.P.bessel_capelli_commute_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:36:55.105368+00:00
 -- url     : https://prove2.me/theorems/00824d40-04cb-4c0b-ba65-b282bb079350

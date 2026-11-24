@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_spherical_shell_integral
 -- name    : Formalism.FourierDecayAlt.P.spherical_shell_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:39:44.081237+00:00
 -- url     : https://prove2.me/theorems/4f258da8-a81e-4bcb-87a6-16acbc40aaed

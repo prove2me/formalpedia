@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCRuleCW_apO_const
 -- name    : CCRuleCW.apO_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:37:12.575711+00:00
 -- url     : https://prove2.me/theorems/55d40463-d7cb-4586-8eb2-a80be23f9d8f

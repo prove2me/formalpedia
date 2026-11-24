@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qb1_hasDerivAt_orbit
 -- name    : Formalism.FourierDecayAlt.P.Qb1.hasDerivAt_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:33:01.077805+00:00
 -- url     : https://prove2.me/theorems/c2ee2fba-848d-4ba2-8241-c2bafd96e5a8

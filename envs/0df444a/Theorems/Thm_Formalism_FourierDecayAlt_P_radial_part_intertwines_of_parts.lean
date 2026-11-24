@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_radial_part_intertwines_of_parts
 -- name    : Formalism.FourierDecayAlt.P.radial_part_intertwines_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:39:55.93204+00:00
 -- url     : https://prove2.me/theorems/f5bf9dcd-1f0c-4ae5-b644-ee945957c7b9

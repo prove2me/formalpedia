@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_norm_power_integrable_sharp_of_volume
 -- name    : Formalism.FourierDecayAlt.P.norm_power_integrable_sharp_of_volume
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:39:33.105798+00:00
 -- url     : https://prove2.me/theorems/d1d21cd9-5a6c-4748-8881-77e5f09518a0

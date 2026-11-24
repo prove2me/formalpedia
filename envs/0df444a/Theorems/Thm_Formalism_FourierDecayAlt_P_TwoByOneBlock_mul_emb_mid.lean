@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoByOneBlock_mul_emb_mid
 -- name    : Formalism.FourierDecayAlt.P.TwoByOneBlock.mul_emb_mid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:25:25.284377+00:00
 -- url     : https://prove2.me/theorems/260f1b47-9cd8-4e71-bf48-a47acf4b34a9

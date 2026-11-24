@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_c7_form_mono
 -- name    : Formalism.FourierDecayAlt.P.c7_form_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:38:24.751775+00:00
 -- url     : https://prove2.me/theorems/ec4829f8-e1a8-4279-84ec-81caefdf6552

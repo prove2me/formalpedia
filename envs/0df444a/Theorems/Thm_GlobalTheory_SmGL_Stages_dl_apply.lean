@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_Stages_dl_apply
 -- name    : GlobalTheory.SmGL.Stages.dl_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:47:08.285897+00:00
 -- url     : https://prove2.me/theorems/07770fce-01b7-4640-bf5e-a6b748c6cba3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_Mext_mono
 -- name    : GlobalTheory.BK.PhiMod.Mext_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:43:10.645481+00:00
 -- url     : https://prove2.me/theorems/4157d3fc-5157-41e3-a288-d6aeff5fc799

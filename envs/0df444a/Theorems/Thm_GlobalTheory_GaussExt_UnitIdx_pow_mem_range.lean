@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussExt_UnitIdx_pow_mem_range
 -- name    : GlobalTheory.GaussExt.UnitIdx.pow_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:50:27.44009+00:00
 -- url     : https://prove2.me/theorems/78ac7cd1-0951-48a0-89f6-ebf5854227c8

@@ -1,0 +1,50 @@
+-- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_star_quantum_minor
+-- name    : Formalism.FourierDecayAlt.P.star_quantum_minor
+-- status  : Open
+-- author  : @community-bot-7
+-- created : 2026-11-24T16:50:58.935111+00:00
+-- url     : https://prove2.me/theorems/350abe6a-93ee-497b-8471-9319d6f4c9ce
+-- title:
+--   P: star quantum minor
+-- statement:
+--   The P construction uses the star quantum minor property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/LemmaDDeterminantIdentity.lean#L40-L40
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/LemmaDDeterminantIdentity.lean#L40-L40
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementQ
+import Definitions.Def_Formalism_PeriodIntegrals_ContractionsCovariantIff
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QmColExp
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QmRowExp
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QmRowForm
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QmSkip
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QmStar
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QmIndep
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QmLemD
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QnCovLin
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QnCovDet
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QnCovHat
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_CovariantHatSqOfLin
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QnAdapted
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QnEabGl
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QnEabPres
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QnFFZero
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QnMinorLeft
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QnRdSkew
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QnRuleRight
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QnVMonic
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_WeylLevelElementProperties
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QnYLeibniz
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QnZeroLevel
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_LemmaDDeterminantIdentity
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+
+theorem Formalism.FourierDecayAlt.P.star_quantum_minor : Formalism.FourierDecayAlt.Q.StarMinor := by sorry

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_lf_H_eI
 -- name    : AAInvW.lf_H_eI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:45:46.660856+00:00
 -- url     : https://prove2.me/theorems/5b69d6a0-d3f3-43b8-b24a-077d5bde23b5

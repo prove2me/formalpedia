@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_Sm_ex_mem_of_lie
 -- name    : CompanionTheory.D.Upq.Sm.ex_mem_of_lie
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:30:48.938944+00:00
 -- url     : https://prove2.me/theorems/a37a218a-501e-4850-ae6e-01348ac0bc92

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LieAlgebraWeightVectors_cb_mem_of_prod_eq
 -- name    : Formalism.FourierDecayAlt.Q.LieAlgebraWeightVectors.cb_mem_of_prod_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:44:56.512789+00:00
 -- url     : https://prove2.me/theorems/dc8ed69e-a346-4fb1-ac20-0df219dc81a1

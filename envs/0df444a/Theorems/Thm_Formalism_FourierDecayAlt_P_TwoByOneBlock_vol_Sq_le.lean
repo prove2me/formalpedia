@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoByOneBlock_vol_Sq_le
 -- name    : Formalism.FourierDecayAlt.P.TwoByOneBlock.vol_Sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:23:09.62502+00:00
 -- url     : https://prove2.me/theorems/a1446b9c-1648-4960-abf6-1aaabdfd8b67

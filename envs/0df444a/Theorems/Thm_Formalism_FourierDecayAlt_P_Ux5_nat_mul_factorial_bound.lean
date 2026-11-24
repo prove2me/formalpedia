@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux5_nat_mul_factorial_bound
 -- name    : Formalism.FourierDecayAlt.P.Ux5.nat_mul_factorial_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:29:39.464732+00:00
 -- url     : https://prove2.me/theorems/2e2d5b4f-a8ac-4f96-8ea9-cdeb674365d6

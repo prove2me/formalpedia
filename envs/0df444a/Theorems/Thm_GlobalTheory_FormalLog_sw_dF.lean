@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalLog_sw_dF
 -- name    : GlobalTheory.FormalLog.sw_dF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:36:36.164918+00:00
 -- url     : https://prove2.me/theorems/eb1ff85c-5a56-4aa3-b9f1-2edef3ee876a

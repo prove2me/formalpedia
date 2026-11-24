@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitarySwap_selfDual_image
 -- name    : GlobalTheory.UnitarySwap.selfDual_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:46:08.593296+00:00
 -- url     : https://prove2.me/theorems/f3888222-09a5-4274-b2aa-3ab7c4bd7c7c

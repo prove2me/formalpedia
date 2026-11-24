@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BigCellDecomposition_n_inv_S
 -- name    : Formalism.FourierDecayAlt.P.BigCellDecomposition.n_inv_S
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:37:46.622798+00:00
 -- url     : https://prove2.me/theorems/eb3a4382-e1e0-4c66-a7e6-05c3b48aba4d

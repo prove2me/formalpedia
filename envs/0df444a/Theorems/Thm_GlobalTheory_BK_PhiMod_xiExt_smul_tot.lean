@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_xiExt_smul_tot
 -- name    : GlobalTheory.BK.PhiMod.xiExt_smul_tot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:42:36.663217+00:00
 -- url     : https://prove2.me/theorems/b58faebc-51a9-452b-b3ad-eb42e9739e92

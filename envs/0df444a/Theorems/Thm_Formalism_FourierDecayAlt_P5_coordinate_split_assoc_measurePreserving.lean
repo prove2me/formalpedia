@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_coordinate_split_assoc_measurePreserving
 -- name    : Formalism.FourierDecayAlt.P5.coordinate_split_assoc_measurePreserving
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:39:55.061252+00:00
 -- url     : https://prove2.me/theorems/4fe47af5-52c4-4fa8-aa86-8b2cbd518dd1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LieAlgebraWeightVectors_sv_herm_swap
 -- name    : Formalism.FourierDecayAlt.Q.LieAlgebraWeightVectors.sv_herm_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:46:02.728731+00:00
 -- url     : https://prove2.me/theorems/fa21727a-cec8-4a69-b95d-0c5716fc01fd

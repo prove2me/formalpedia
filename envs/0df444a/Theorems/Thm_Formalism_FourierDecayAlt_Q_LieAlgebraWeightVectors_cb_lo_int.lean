@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LieAlgebraWeightVectors_cb_lo_int
 -- name    : Formalism.FourierDecayAlt.Q.LieAlgebraWeightVectors.cb_lo_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:44:45.608026+00:00
 -- url     : https://prove2.me/theorems/390bb0de-a6b8-460a-8d03-ea1be1ee2eae

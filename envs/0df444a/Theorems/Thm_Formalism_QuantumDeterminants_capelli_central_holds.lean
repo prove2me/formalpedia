@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_capelli_central_holds
 -- name    : Formalism.QuantumDeterminants.capelli_central_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:34:11.282426+00:00
 -- url     : https://prove2.me/theorems/9174542b-7b7d-43de-a4f5-9f61f4a29a20

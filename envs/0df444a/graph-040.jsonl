@@ -30053,13 +30053,13 @@
 {"parent": "FunctorialResolution.EmbeddedResolution.exists_opens_notMem_image", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_AlgebraicPreliminaries_OpenImmersionAppLE", "via": ["solution", "statement"]}
 {"parent": "FunctorialResolution.EmbeddedResolution.exists_opens_notMem_image", "child": "Development_ResolutionOfSingularities_Foundations_BlowupUniversalProperty", "via": ["solution", "statement"]}
 {"parent": "FunctorialResolution.EmbeddedResolution.exists_opens_notMem_image", "child": "Development_ResolutionOfSingularities_Foundations_Schemes_SchemeMorphismProperties", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.Published.UnramifiedDoublingGL.hasSum", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_NormalizedAbsCharacterization", "via": ["statement"]}
-{"parent": "GlobalTheory.Published.UnramifiedDoublingGL.hasSum", "child": "Development_AbelianVarietyTheory_Definitions_TwistedInnerProducts_IsSubquotientDetRepParInd", "via": ["statement"]}
-{"parent": "GlobalTheory.Published.UnramifiedDoublingGL.hasSum", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Cartan", "via": ["statement"]}
-{"parent": "GlobalTheory.Published.UnramifiedDoublingGL.hasSum", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_T2SpaceGeneralLinearGroup", "via": ["statement"]}
-{"parent": "GlobalTheory.Published.UnramifiedDoublingGL.hasSum", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_IwasawaBlockTriangular", "via": ["statement"]}
-{"parent": "GlobalTheory.Published.UnramifiedDoublingGL.hasSum", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_MemSiegelOfIffRightAct", "via": ["statement"]}
-{"parent": "GlobalTheory.Published.UnramifiedDoublingGL.hasSum", "child": "Development_AbelianVarietyTheory_PublishedTheorems_TwistedTraceFormula_PairwiseDisjointCell", "via": ["statement"]}
+{"parent": "GlobalTheory.Published.UnramifiedDoublingGL.hasSum", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_NormalizedAbsCharacterization", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Published.UnramifiedDoublingGL.hasSum", "child": "Development_AbelianVarietyTheory_Definitions_TwistedInnerProducts_IsSubquotientDetRepParInd", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Published.UnramifiedDoublingGL.hasSum", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Cartan", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Published.UnramifiedDoublingGL.hasSum", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_T2SpaceGeneralLinearGroup", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Published.UnramifiedDoublingGL.hasSum", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_IwasawaBlockTriangular", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Published.UnramifiedDoublingGL.hasSum", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_MemSiegelOfIffRightAct", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Published.UnramifiedDoublingGL.hasSum", "child": "Development_AbelianVarietyTheory_PublishedTheorems_TwistedTraceFormula_PairwiseDisjointCell", "via": ["solution", "statement"]}
 {"parent": "LogMeanVar_Complete_Supplement_Countermodels", "child": "LogMeanVar_Complete_Supplement_BSDE", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_volume_ballProd_pos_bf80568889a6", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_ContinuousHermNormGroup", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_volume_ballProd_pos_bf80568889a6", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_Statements", "via": ["statement"]}
@@ -73984,7 +73984,7 @@
 {"parent": "Development_WeilBound_RepresentationTheoryGL_CasimirAlgebra_KugaCoordinates_KugaAbsoluteValues_KugaAbsHolds", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_InvarianceContraction", "via": ["statement"]}
 {"parent": "Development_WeilBound_RepresentationTheoryGL_CasimirAlgebra_KugaCoordinates_KugaAbsoluteValues_KugaAbsHolds", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_RemoveNthSuccVecCons", "via": ["statement"]}
 {"parent": "Development_WeilBound_RepresentationTheoryGL_CasimirAlgebra_KugaCoordinates_KugaAbsoluteValues_KugaAbsHolds", "child": "Development_WeilBound_RepresentationTheoryGL_CasimirAlgebra_KugaCoordinates_KugaAbsoluteValues_KSumApply", "via": ["statement"]}
-{"parent": "GlobalTheory.GradedFixed.fixed_part", "child": "Development_AbelianVarietyTheory_Proofs_SatakeParameters_FixedMemOfOrbitHeight", "via": ["statement"]}
+{"parent": "GlobalTheory.GradedFixed.fixed_part", "child": "Development_AbelianVarietyTheory_Proofs_SatakeParameters_FixedMemOfOrbitHeight", "via": ["solution", "statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_LatticeLemmas_PGaussNormBasic", "child": "GroundTheory_HeightsAndTheta_Heights_LatticeLemmas_IsProbabilityMeasureSphereLaw", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PDualStdGraphModel", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_DualStdModelField", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PDualStdGraphModel", "child": "GroundTheory_HeightsAndTheta_Heights_HeightKernels_PDualStdImageBot", "via": ["statement"]}

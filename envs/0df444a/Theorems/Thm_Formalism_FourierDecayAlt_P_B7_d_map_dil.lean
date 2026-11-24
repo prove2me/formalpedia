@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B7_d_map_dil
 -- name    : Formalism.FourierDecayAlt.P.B7.d_map_dil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:06:14.934952+00:00
 -- url     : https://prove2.me/theorems/8621b27b-256d-42c0-b775-280ba7292607

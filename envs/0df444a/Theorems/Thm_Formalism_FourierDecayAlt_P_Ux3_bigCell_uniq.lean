@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux3_bigCell_uniq
 -- name    : Formalism.FourierDecayAlt.P.Ux3.bigCell_uniq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:27:02.010079+00:00
 -- url     : https://prove2.me/theorems/79490258-77b9-4b28-a529-38ed60c914b2

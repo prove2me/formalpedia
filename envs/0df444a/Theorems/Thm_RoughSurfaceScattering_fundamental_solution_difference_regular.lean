@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoughSurfaceScattering_fundamental_solution_difference_regular
 -- name    : RoughSurfaceScattering.fundamental_solution_difference_regular
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-24T15:55:53.256447+00:00
 -- url     : https://prove2.me/theorems/24dbb644-cd7c-4f1b-82f0-cfd7de6b6e5d

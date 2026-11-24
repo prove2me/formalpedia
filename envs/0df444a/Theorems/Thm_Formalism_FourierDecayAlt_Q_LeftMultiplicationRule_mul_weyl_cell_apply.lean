@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LeftMultiplicationRule_mul_weyl_cell_apply
 -- name    : Formalism.FourierDecayAlt.Q.LeftMultiplicationRule.mul_weyl_cell_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:46:21.812097+00:00
 -- url     : https://prove2.me/theorems/cd7b319f-ef11-4462-9955-a07cf03d745d

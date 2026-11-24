@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoByOneBlock_refl_eq
 -- name    : Formalism.FourierDecayAlt.P.TwoByOneBlock.refl_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:23:59.01663+00:00
 -- url     : https://prove2.me/theorems/41be85d3-9ee7-42aa-bcf8-8fb402bd5267

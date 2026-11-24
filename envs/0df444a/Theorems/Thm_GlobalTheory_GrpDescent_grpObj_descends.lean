@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpDescent_grpObj_descends
 -- name    : GlobalTheory.GrpDescent.grpObj_descends
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:57:49.247207+00:00
 -- url     : https://prove2.me/theorems/c629fa5e-0b80-4475-b9c9-f9d2aab003ac

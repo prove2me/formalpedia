@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_eq_of_blocks
 -- name    : Formalism.FourierDecayAlt.P.NFx2.eq_of_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:17:23.211076+00:00
 -- url     : https://prove2.me/theorems/9a841aab-1892-4759-8349-e3b8f3e83f95

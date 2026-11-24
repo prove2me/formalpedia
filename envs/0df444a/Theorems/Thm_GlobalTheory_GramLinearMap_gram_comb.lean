@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramLinearMap_gram_comb
 -- name    : GlobalTheory.GramLinearMap.gram_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:56:25.099444+00:00
 -- url     : https://prove2.me/theorems/eb500e0f-dac6-453d-b0d9-1dbcb7302a79

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_QRR_pat_entry_zero
 -- name    : Formalism.FourierDecayAlt.Q.QRR.pat_entry_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:47:25.114736+00:00
 -- url     : https://prove2.me/theorems/e65ee8da-cf5c-400c-a0a1-e8430c4d8c1c

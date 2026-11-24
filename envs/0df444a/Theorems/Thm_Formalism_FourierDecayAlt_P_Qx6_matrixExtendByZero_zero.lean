@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx6_matrixExtendByZero_zero
 -- name    : Formalism.FourierDecayAlt.P.Qx6.matrixExtendByZero_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:36:04.623671+00:00
 -- url     : https://prove2.me/theorems/a83d9eb6-2745-43f2-8a73-5be20dfae16c

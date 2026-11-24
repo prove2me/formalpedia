@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x1_haarUnique
 -- name    : Formalism.FourierDecayAlt.P.B2x1.haarUnique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:07:26.011226+00:00
 -- url     : https://prove2.me/theorems/010106ee-aa98-420f-b118-8c29ca8fe8ea

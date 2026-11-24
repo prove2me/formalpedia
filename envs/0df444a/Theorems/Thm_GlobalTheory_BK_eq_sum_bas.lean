@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_eq_sum_bas
 -- name    : GlobalTheory.BK.eq_sum_bas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:44:00.384115+00:00
 -- url     : https://prove2.me/theorems/9c2f9f47-1fa9-4298-9b19-e25658609ac8

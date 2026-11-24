@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux8_useDerivBoundOfParts
 -- name    : Formalism.FourierDecayAlt.P.Ux8.useDerivBoundOfParts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:37:00.322052+00:00
 -- url     : https://prove2.me/theorems/b81e8e5b-327f-4d78-aacb-2abf927ab276

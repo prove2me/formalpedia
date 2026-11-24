@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxG_bcWeight_nonneg
 -- name    : Formalism.FourierDecayAlt.P.JFxG.bcWeight_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:42:15.423803+00:00
 -- url     : https://prove2.me/theorems/b030973f-52f9-4eb7-ba26-59399ce3c20f

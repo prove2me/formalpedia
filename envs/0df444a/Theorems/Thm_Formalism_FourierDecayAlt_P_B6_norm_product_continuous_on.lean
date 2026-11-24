@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_norm_product_continuous_on
 -- name    : Formalism.FourierDecayAlt.P.B6.norm_product_continuous_on
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:04:32.858881+00:00
 -- url     : https://prove2.me/theorems/46ec0e63-0fea-4e2a-ae3b-1847dd273c29

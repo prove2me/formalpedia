@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_card_fixed_sq
 -- name    : GlobalTheory.GramCount.card_fixed_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:58:49.692832+00:00
 -- url     : https://prove2.me/theorems/0f170455-4dd8-443a-aba6-9d9accaf1f64

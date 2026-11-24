@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_CoreW_lincomb_bound
 -- name    : PI.PolynomialProperness.CoreW.lincomb_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:39:33.378071+00:00
 -- url     : https://prove2.me/theorems/2361d69a-d88b-4ca8-9fac-2550c44de081

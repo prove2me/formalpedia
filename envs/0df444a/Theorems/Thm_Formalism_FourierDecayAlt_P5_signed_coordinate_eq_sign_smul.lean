@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_signed_coordinate_eq_sign_smul
 -- name    : Formalism.FourierDecayAlt.P5.signed_coordinate_eq_sign_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:42:42.625115+00:00
 -- url     : https://prove2.me/theorems/96230ebe-ccd9-4c92-aa88-1414db0cb51f

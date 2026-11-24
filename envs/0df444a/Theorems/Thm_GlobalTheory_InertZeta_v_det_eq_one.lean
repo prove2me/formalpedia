@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_v_det_eq_one
 -- name    : GlobalTheory.InertZeta.v_det_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:28:43.175799+00:00
 -- url     : https://prove2.me/theorems/45e60431-3e4c-46be-aca4-c48e80185940

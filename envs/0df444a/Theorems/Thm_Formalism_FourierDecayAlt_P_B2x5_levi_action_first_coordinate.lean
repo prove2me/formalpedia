@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x5_levi_action_first_coordinate
 -- name    : Formalism.FourierDecayAlt.P.B2x5.levi_action_first_coordinate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:43:20.599793+00:00
 -- url     : https://prove2.me/theorems/65bf308f-5278-4432-9be4-49d71145f95e

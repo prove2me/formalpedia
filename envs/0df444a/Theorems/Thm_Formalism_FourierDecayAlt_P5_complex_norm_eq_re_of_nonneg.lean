@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_complex_norm_eq_re_of_nonneg
 -- name    : Formalism.FourierDecayAlt.P5.complex_norm_eq_re_of_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:41:33.127969+00:00
 -- url     : https://prove2.me/theorems/7af59497-73e1-4659-8813-a8028349243e

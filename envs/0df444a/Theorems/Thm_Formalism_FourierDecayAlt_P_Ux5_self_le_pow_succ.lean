@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux5_self_le_pow_succ
 -- name    : Formalism.FourierDecayAlt.P.Ux5.self_le_pow_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:29:55.208301+00:00
 -- url     : https://prove2.me/theorems/229071ca-93bd-44d1-8b54-46d2a3022096

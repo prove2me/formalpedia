@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LieAlgebraWeightVectors_vanish_match
 -- name    : Formalism.FourierDecayAlt.Q.LieAlgebraWeightVectors.vanish_match
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:46:32.553182+00:00
 -- url     : https://prove2.me/theorems/d5ba1b7c-0f9a-4b17-a82e-615e5efdf65c

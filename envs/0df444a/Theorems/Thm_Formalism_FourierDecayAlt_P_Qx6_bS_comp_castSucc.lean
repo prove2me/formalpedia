@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx6_bS_comp_castSucc
 -- name    : Formalism.FourierDecayAlt.P.Qx6.bS_comp_castSucc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:33:19.705431+00:00
 -- url     : https://prove2.me/theorems/e338cbcb-e683-46c4-bc86-2f7f7fb4e928

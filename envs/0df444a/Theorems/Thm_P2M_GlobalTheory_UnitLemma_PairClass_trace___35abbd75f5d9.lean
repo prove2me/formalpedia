@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_UnitLemma_PairClass_trace___35abbd75f5d9
 -- name    : P2M_GlobalTheory_UnitLemma_PairClass_trace___35abbd75f5d9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:38:18.631847+00:00
 -- url     : https://prove2.me/theorems/04a22573-2284-40e1-8846-bc434b113f86

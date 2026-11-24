@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_SolFunc_continuous_extLin_apply
 -- name    : GlobalTheory.HCA.SolFunc.continuous_extLin_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:00:24.814236+00:00
 -- url     : https://prove2.me/theorems/05a77281-4a9c-4930-b64e-e7e2dde26c21

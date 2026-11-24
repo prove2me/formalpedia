@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_weight_factorization
 -- name    : Formalism.FourierDecayAlt.P.weight_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:34:03.54857+00:00
 -- url     : https://prove2.me/theorems/32a6a5ad-a163-42db-8107-b4be1441d902

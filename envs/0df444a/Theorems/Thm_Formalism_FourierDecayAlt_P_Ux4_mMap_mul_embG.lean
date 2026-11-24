@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux4_mMap_mul_embG
 -- name    : Formalism.FourierDecayAlt.P.Ux4.mMap_mul_embG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:28:02.335404+00:00
 -- url     : https://prove2.me/theorems/3cd0f5c7-e620-4f3f-ad0e-a1408ade3fd9

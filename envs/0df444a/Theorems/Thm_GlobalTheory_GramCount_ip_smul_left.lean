@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_ip_smul_left
 -- name    : GlobalTheory.GramCount.ip_smul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:58:59.255801+00:00
 -- url     : https://prove2.me/theorems/c9faa365-91e2-4c28-a5d2-6c7e7bbbca6c

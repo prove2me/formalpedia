@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux7_derivBoundComp
 -- name    : Formalism.FourierDecayAlt.P.Ux7.derivBoundComp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:37:33.040405+00:00
 -- url     : https://prove2.me/theorems/14c07874-7817-430f-8336-5a72e1b8b7a8

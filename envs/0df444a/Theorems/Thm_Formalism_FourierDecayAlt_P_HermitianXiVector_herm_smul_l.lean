@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianXiVector_herm_smul_l
 -- name    : Formalism.FourierDecayAlt.P.HermitianXiVector.herm_smul_l
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:44:41.280001+00:00
 -- url     : https://prove2.me/theorems/f2f59332-38aa-4450-bdd9-b4979f795086

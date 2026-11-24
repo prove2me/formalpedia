@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux10_co_sum
 -- name    : Formalism.FourierDecayAlt.P.Ux10.co_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:26:09.991569+00:00
 -- url     : https://prove2.me/theorems/a1959e34-de26-4faf-ac06-b6dfa55db4f9

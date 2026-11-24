@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx2_PolyFam_good
 -- name    : Formalism.FourierDecayAlt.P.Qx2.PolyFam.good
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:16:39.097351+00:00
 -- url     : https://prove2.me/theorems/d6433290-b135-49a0-91a5-3f5a1f458f45

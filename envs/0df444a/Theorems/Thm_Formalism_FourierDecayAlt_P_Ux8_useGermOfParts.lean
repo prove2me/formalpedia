@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux8_useGermOfParts
 -- name    : Formalism.FourierDecayAlt.P.Ux8.useGermOfParts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:36:57.878779+00:00
 -- url     : https://prove2.me/theorems/fa2a5d5b-8db2-42d0-a695-1e3fa1df93fb

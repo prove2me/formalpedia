@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_connection_raising_gamma_shift
 -- name    : Formalism.FourierDecayAlt.P.NFx2.connection_raising_gamma_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:16:32.162801+00:00
 -- url     : https://prove2.me/theorems/83679824-f83e-4323-aa12-f9d773b9b7ce

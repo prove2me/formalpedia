@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_EabGlW_hpart2_sub
 -- name    : Formalism.FourierDecayAlt.Q.EabGlW.hpart2_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:45:06.293063+00:00
 -- url     : https://prove2.me/theorems/62f612a0-bfee-4254-8eb8-a65bd97776c7

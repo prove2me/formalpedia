@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_equal_roots_determinant
 -- name    : Formalism.FourierDecayAlt.P.equal_roots_determinant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:38:43.492136+00:00
 -- url     : https://prove2.me/theorems/a3d48c06-9750-47ac-b5e2-a9afdc95f4b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeBound_Rep_law
 -- name    : GlobalTheory.SatakeBound.Rep.law
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:47:08.068214+00:00
 -- url     : https://prove2.me/theorems/6693b826-9d7f-4c61-972e-1ae21fb62bf9

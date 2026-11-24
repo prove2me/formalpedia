@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormFactor_Frame_Em_H
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormFactor.Frame.Em_H
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:16:39.822738+00:00
 -- url     : https://prove2.me/theorems/0679a68c-f756-47e7-9305-f458def8a5d0

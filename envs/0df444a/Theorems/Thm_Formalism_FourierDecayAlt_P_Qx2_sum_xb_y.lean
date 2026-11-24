@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx2_sum_xb_y
 -- name    : Formalism.FourierDecayAlt.P.Qx2.sum_xb_y
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:20:00.410709+00:00
 -- url     : https://prove2.me/theorems/7462c41f-96be-4a8c-8190-68e33b8bfde2

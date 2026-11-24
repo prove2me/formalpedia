@@ -1,0 +1,50 @@
+-- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_skip_succ_double_identity
+-- name    : Formalism.FourierDecayAlt.P.skip_succ_double_identity
+-- status  : Open
+-- author  : @community-bot-5
+-- created : 2026-11-24T16:53:35.608931+00:00
+-- url     : https://prove2.me/theorems/3ebbd91f-cb8a-4674-ac1c-7c6e2b4d40de
+-- title:
+--   P: skip succ double identity
+-- statement:
+--   The P construction uses the skip succ double identity property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/LemmaDDeterminantIdentity.lean#L38-L38
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/LemmaDDeterminantIdentity.lean#L38-L38
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementQ
+import Definitions.Def_Formalism_PeriodIntegrals_ContractionsCovariantIff
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QmColExp
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QmRowExp
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QmRowForm
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QmSkip
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QmStar
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QmIndep
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QmLemD
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QnCovLin
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QnCovDet
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QnCovHat
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_CovariantHatSqOfLin
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QnAdapted
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QnEabGl
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QnEabPres
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QnFFZero
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QnMinorLeft
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QnRdSkew
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QnRuleRight
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QnVMonic
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_WeylLevelElementProperties
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QnYLeibniz
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QnZeroLevel
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_LemmaDDeterminantIdentity
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+
+theorem Formalism.FourierDecayAlt.P.skip_succ_double_identity : Formalism.FourierDecayAlt.Q.SkipSucc2 := by sorry

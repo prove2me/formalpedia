@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_uPow_anti
 -- name    : GlobalTheory.BK.uPow_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:42:41.116174+00:00
 -- url     : https://prove2.me/theorems/5f2c35c7-09b2-45db-9683-e46aee3fa4c6

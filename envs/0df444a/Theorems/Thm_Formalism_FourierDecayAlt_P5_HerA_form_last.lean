@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_HerA_form_last
 -- name    : Formalism.FourierDecayAlt.P5.HerA.form_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:40:52.763866+00:00
 -- url     : https://prove2.me/theorems/4f35f388-b9ab-494b-ada5-dbbc1c076022

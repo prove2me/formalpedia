@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_sum_idx
 -- name    : GlobalTheory.InertZeta.sum_idx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:26:37.575327+00:00
 -- url     : https://prove2.me/theorems/44ddfa1d-5517-46aa-b6e6-db5115382ba9

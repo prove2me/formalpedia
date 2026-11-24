@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_right_derivative_exists
 -- name    : Formalism.FourierDecayAlt.P.B6.right_derivative_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:05:28.96487+00:00
 -- url     : https://prove2.me/theorems/c4808027-d6c8-43ac-b381-638eb53dd5e0

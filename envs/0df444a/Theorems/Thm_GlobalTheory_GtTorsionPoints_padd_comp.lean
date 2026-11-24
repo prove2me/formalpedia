@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GtTorsionPoints_padd_comp
 -- name    : GlobalTheory.GtTorsionPoints.padd_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:00:01.961138+00:00
 -- url     : https://prove2.me/theorems/ae15c231-dfae-4d18-8ed0-a2abebf54b19

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GmPoints_unitOf_bijective
 -- name    : GlobalTheory.GmPoints.unitOf_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:24:08.377553+00:00
 -- url     : https://prove2.me/theorems/1d7784ed-c7d4-41e6-a2a3-8e7e5a134a0a

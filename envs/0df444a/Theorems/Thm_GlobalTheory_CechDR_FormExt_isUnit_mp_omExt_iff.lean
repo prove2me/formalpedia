@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_FormExt_isUnit_mp_omExt_iff
 -- name    : GlobalTheory.CechDR.FormExt.isUnit_mp_omExt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:36:48.832024+00:00
 -- url     : https://prove2.me/theorems/fb2e5b1a-a17d-42f2-9d6a-1c7f7089adde

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LieAlgebraWeightVectors_not_prop_of_GG
 -- name    : Formalism.FourierDecayAlt.Q.LieAlgebraWeightVectors.not_prop_of_GG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:45:54.708989+00:00
 -- url     : https://prove2.me/theorems/c8f72581-d229-4c26-a1a2-6853b7647c07

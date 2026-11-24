@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_linear_change_of_variables_bis
 -- name    : Formalism.FourierDecayAlt.P.linear_change_of_variables_bis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:39:16.43785+00:00
 -- url     : https://prove2.me/theorems/55e91fb4-3116-4339-9865-4f0db8c8644c

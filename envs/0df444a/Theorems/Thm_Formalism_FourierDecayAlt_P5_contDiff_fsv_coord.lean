@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_contDiff_fsv_coord
 -- name    : Formalism.FourierDecayAlt.P5.contDiff_fsv_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:39:39.587927+00:00
 -- url     : https://prove2.me/theorems/2283375e-a025-488d-a2f2-7f6cfd77aa08

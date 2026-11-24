@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormFactor_coord_meas
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormFactor.coord_meas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:14:13.082435+00:00
 -- url     : https://prove2.me/theorems/9924ee13-bd39-4331-856c-fad12fabbd8d

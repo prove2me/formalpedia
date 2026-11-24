@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_SupEst_dw_zero_fun
 -- name    : GlobalTheory.HCA.SupEst.dw_zero_fun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:59:44.799295+00:00
 -- url     : https://prove2.me/theorems/57b2eb6b-6ba5-4037-874e-5721a37e15b3

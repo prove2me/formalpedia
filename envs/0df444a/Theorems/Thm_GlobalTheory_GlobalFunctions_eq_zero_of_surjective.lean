@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlobalFunctions_eq_zero_of_surjective
 -- name    : GlobalTheory.GlobalFunctions.eq_zero_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:55:21.518412+00:00
 -- url     : https://prove2.me/theorems/7e4b2d19-dbd0-4f98-ba09-026381b5b0a9

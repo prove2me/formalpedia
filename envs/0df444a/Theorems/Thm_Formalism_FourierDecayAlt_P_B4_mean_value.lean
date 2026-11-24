@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B4_mean_value
 -- name    : Formalism.FourierDecayAlt.P.B4.mean_value
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:30:37.963571+00:00
 -- url     : https://prove2.me/theorems/07e54cf6-5208-4110-9069-6dcf45466557

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_gN_mul_le
 -- name    : Formalism.FourierDecayAlt.P.B6.gN_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:45:49.345319+00:00
 -- url     : https://prove2.me/theorems/b19fb418-b97c-4a5b-9be3-6ea2294b003a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_Adapted_coefA
 -- name    : Formalism.FourierDecayAlt.Q.Adapted.coefA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:44:08.511564+00:00
 -- url     : https://prove2.me/theorems/9859441d-0033-4303-91a5-d549449a0f5d

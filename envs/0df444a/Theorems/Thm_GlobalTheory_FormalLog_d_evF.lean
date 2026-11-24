@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalLog_d_evF
 -- name    : GlobalTheory.FormalLog.d_evF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:03:36.631706+00:00
 -- url     : https://prove2.me/theorems/cc4ccafe-20b4-460a-9b2e-db97e0407891

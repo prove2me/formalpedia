@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GelfandTrick_card_pairs_le
 -- name    : GlobalTheory.GelfandTrick.card_pairs_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:07:24.118564+00:00
 -- url     : https://prove2.me/theorems/292a60c5-fa7c-4de4-a003-983aa950a2a5

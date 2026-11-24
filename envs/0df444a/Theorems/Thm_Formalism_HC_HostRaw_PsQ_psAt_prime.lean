@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_PsQ_psAt_prime
 -- name    : Formalism.HC.HostRaw.PsQ.psAt_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:13:15.81299+00:00
 -- url     : https://prove2.me/theorems/f26969ed-e3c1-4665-90be-035175d42c92

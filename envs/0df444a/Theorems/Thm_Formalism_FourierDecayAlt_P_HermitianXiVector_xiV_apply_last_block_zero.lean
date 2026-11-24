@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianXiVector_xiV_apply_last_block_zero
 -- name    : Formalism.FourierDecayAlt.P.HermitianXiVector.xiV_apply_last_block_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:44:57.233803+00:00
 -- url     : https://prove2.me/theorems/8acb223e-a29b-4c98-8c64-ac1cc4359657

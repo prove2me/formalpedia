@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_C2x5_hermitian_form_flag_vector
 -- name    : Formalism.FourierDecayAlt.P.C2x5.hermitian_form_flag_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:12:55.520803+00:00
 -- url     : https://prove2.me/theorems/2e7cf60d-f1c6-433a-bce9-a97e744ca4b8

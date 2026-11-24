@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LieDecompositionLocal_loc_EZ
 -- name    : Formalism.FourierDecayAlt.P.LieDecompositionLocal.loc_EZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:47:44.487678+00:00
 -- url     : https://prove2.me/theorems/7ae460f9-b486-40b9-8829-b274baf9a17b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_setting_exists_of_parts
 -- name    : Formalism.FourierDecayAlt.P.setting_exists_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:39:19.438682+00:00
 -- url     : https://prove2.me/theorems/a39548ce-59ee-4a8b-b438-1a5d7832d29e

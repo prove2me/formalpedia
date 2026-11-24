@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinDescent_LocTransitive_exists_descend
 -- name    : GlobalTheory.LinDescent.LocTransitive.exists_descend
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:16:43.494368+00:00
 -- url     : https://prove2.me/theorems/79a31a12-1c57-4c4b-b72f-5dab5099511a

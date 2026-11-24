@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_parametric_derivative_under_integral
 -- name    : Formalism.FourierDecayAlt.P.B6.parametric_derivative_under_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:04:05.826457+00:00
 -- url     : https://prove2.me/theorems/8206ec2d-6c09-4285-b6f1-f8319d0da256

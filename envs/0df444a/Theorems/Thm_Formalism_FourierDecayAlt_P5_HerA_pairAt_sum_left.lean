@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_HerA_pairAt_sum_left
 -- name    : Formalism.FourierDecayAlt.P5.HerA.pairAt_sum_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:41:24.872647+00:00
 -- url     : https://prove2.me/theorems/e2f7de38-c338-458d-a561-95974e2c04f0

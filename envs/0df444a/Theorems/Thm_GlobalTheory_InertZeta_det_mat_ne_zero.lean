@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_det_mat_ne_zero
 -- name    : GlobalTheory.InertZeta.det_mat_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:45:52.331797+00:00
 -- url     : https://prove2.me/theorems/e3a09d93-83ee-4c8b-be1b-6a64fd6effb9

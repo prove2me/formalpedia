@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormFactor_Kf_slice_zero
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormFactor.Kf_slice_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:13:34.005939+00:00
 -- url     : https://prove2.me/theorems/2553060d-7ebe-486e-84e6-a488539428fa

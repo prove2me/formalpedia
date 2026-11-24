@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunDescent_app_injective
 -- name    : GlobalTheory.FunDescent.app_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:49:51.64735+00:00
 -- url     : https://prove2.me/theorems/6cc7dd8c-a6b8-46c0-9ee1-c2ae046d0b2e

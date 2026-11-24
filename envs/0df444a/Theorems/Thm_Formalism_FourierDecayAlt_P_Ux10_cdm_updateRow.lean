@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux10_cdm_updateRow
 -- name    : Formalism.FourierDecayAlt.P.Ux10.cdm_updateRow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:24:34.576909+00:00
 -- url     : https://prove2.me/theorems/1a4a871c-0efa-4ad6-925d-72a661d04e1f

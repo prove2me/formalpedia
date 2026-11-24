@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_lift_mem_matrix_algebra
 -- name    : Formalism.FourierDecayAlt.P5.lift_mem_matrix_algebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:41:18.608018+00:00
 -- url     : https://prove2.me/theorems/16d01338-9f17-4dd4-bdcc-e22e90f03a44

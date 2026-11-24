@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_ae_complex_ne_zero
 -- name    : Formalism.FourierDecayAlt.P5.ae_complex_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:32:05.022481+00:00
 -- url     : https://prove2.me/theorems/777bdaf5-dddd-4507-9a74-810ecabb5944

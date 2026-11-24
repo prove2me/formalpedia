@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_hpk_involution
 -- name    : AAInvW.hpk_involution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:55:34.101248+00:00
 -- url     : https://prove2.me/theorems/cdb1533b-3548-4c2f-9b24-550270a478d9

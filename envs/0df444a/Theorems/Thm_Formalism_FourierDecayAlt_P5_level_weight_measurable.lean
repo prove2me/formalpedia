@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_level_weight_measurable
 -- name    : Formalism.FourierDecayAlt.P5.level_weight_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:41:53.191925+00:00
 -- url     : https://prove2.me/theorems/ac6a0536-ad3a-4cb6-8308-1f77f6649c68

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GroupGlue_of_charts
 -- name    : GlobalTheory.GroupGlue.of_charts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:57:34.213566+00:00
 -- url     : https://prove2.me/theorems/0fb2f9bf-59ff-42f9-91a4-f0d7904b24cd

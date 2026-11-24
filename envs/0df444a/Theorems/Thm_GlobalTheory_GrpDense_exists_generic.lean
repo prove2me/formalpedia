@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpDense_exists_generic
 -- name    : GlobalTheory.GrpDense.exists_generic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:57:43.479064+00:00
 -- url     : https://prove2.me/theorems/44da4213-bf86-4a4b-93af-cbdde8ae9287

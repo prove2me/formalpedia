@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlueModels_model_open
 -- name    : GlobalTheory.GlueModels.model_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:55:32.18805+00:00
 -- url     : https://prove2.me/theorems/32aa8b21-dfeb-4239-843a-149e55cd205d

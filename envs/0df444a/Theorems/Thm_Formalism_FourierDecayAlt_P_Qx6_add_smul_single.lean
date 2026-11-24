@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx6_add_smul_single
 -- name    : Formalism.FourierDecayAlt.P.Qx6.add_smul_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:33:11.449821+00:00
 -- url     : https://prove2.me/theorems/a27a9f9e-bf9d-4f08-a3ac-f0bdf17430da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux6_le_big
 -- name    : Formalism.FourierDecayAlt.P.Ux6.le_big
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:29:44.137175+00:00
 -- url     : https://prove2.me/theorems/1139a6f5-88b9-4446-bfff-e5cbb0110527

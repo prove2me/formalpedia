@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_hilbert_schmidt_integrand_bound
 -- name    : Formalism.FourierDecayAlt.P.B6.hilbert_schmidt_integrand_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:56:42.438+00:00
 -- url     : https://prove2.me/theorems/a685811a-4c0b-4c9b-854e-3b41b21d4383

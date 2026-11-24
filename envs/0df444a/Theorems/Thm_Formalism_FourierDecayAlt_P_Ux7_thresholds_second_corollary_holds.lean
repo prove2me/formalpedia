@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux7_thresholds_second_corollary_holds
 -- name    : Formalism.FourierDecayAlt.P.Ux7.thresholds_second_corollary_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:36:44.738726+00:00
 -- url     : https://prove2.me/theorems/b0f61273-4886-439e-89f4-f23708905661

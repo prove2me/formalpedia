@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GradedHilbert_inf_range_eq_map
 -- name    : GlobalTheory.GradedHilbert.inf_range_eq_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:59:01.401194+00:00
 -- url     : https://prove2.me/theorems/ebcd7370-b4b1-4a31-9f95-6dfb069077d3

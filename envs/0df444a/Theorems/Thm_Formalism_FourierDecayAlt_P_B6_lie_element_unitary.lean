@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_lie_element_unitary
 -- name    : Formalism.FourierDecayAlt.P.B6.lie_element_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:04:18.155811+00:00
 -- url     : https://prove2.me/theorems/e1e859f3-88f9-48dc-a0c0-8a83b272fc8d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_relevant_trivial_case
 -- name    : Formalism.FourierDecayAlt.P.relevant_trivial_case
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:39:44.306869+00:00
 -- url     : https://prove2.me/theorems/b022627f-7489-4ace-8f3a-bb4ee6d8ddfb

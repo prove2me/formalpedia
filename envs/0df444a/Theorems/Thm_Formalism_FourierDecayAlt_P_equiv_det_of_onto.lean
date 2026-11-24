@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_equiv_det_of_onto
 -- name    : Formalism.FourierDecayAlt.P.equiv_det_of_onto
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:38:11.745391+00:00
 -- url     : https://prove2.me/theorems/28298327-fe92-42e0-b7e7-33ac8ad1483f

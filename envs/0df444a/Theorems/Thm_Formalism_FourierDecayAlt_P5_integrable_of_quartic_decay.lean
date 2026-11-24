@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_integrable_of_quartic_decay
 -- name    : Formalism.FourierDecayAlt.P5.integrable_of_quartic_decay
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:40:18.292146+00:00
 -- url     : https://prove2.me/theorems/46827913-2a70-4de7-b4ad-53ba97ec9f28

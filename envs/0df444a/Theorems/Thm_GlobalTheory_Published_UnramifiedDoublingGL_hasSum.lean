@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_UnramifiedDoublingGL_hasSum
 -- name    : GlobalTheory.Published.UnramifiedDoublingGL.hasSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:39:38.423071+00:00
 -- url     : https://prove2.me/theorems/6883b610-5f4e-4136-a0d7-d9848d2023ee

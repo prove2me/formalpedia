@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_SolSub_contDiff_mul_of_on
 -- name    : GlobalTheory.HCA.SolSub.contDiff_mul_of_on
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:58:58.951499+00:00
 -- url     : https://prove2.me/theorems/eb481a25-e784-451b-98ff-d229cbf05a39

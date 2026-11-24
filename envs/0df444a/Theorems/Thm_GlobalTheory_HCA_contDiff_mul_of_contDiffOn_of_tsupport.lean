@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_contDiff_mul_of_contDiffOn_of_tsupport
 -- name    : GlobalTheory.HCA.contDiff_mul_of_contDiffOn_of_tsupport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:01:06.11917+00:00
 -- url     : https://prove2.me/theorems/d4ad4774-6dc2-4c36-abd0-24efbe89dd3d

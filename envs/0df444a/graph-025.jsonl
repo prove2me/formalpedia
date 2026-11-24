@@ -30251,7 +30251,7 @@
 {"parent": "TermCycDich_IsRedMinorClosed", "child": "TermCycDich_AnnotatedGraph", "via": ["statement"]}
 {"parent": "RecGaussColoring.Main.lemma_2_4", "child": "RecGaussColoring_Main_Gaussian", "via": ["statement"]}
 {"parent": "ExplicitTensorBarrier694.Explicit.lemma_3_3", "child": "ExplicitTensorBarrier694_Explicit_PolynomialFamily", "via": ["statement"]}
-{"parent": "ChangingCache.UpperBound.observation_3_1", "child": "ChangingCache_UpperBound_Model", "via": ["statement"]}
+{"parent": "ChangingCache.UpperBound.observation_3_1", "child": "ChangingCache_UpperBound_Model", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedTargetSemantics.reducedMergeEval185_e", "child": "MUBSix", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedTargetSemantics.reducedMergeEval185_e", "child": "OAIQ106E122", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedTargetSemantics.reducedMergeEval185_e", "child": "OAIQ106E130", "via": ["solution", "statement"]}
@@ -33404,10 +33404,10 @@
 {"parent": "UnaryParityLifting.Exact.averaging_properties", "child": "UnaryParityLifting_Exact_averaging", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.Residual39.bound1_1_g", "child": "OAIQ098G1696", "via": ["solution", "statement"]}
 {"parent": "QMAPerfectCompleteness.Main.diagonal_witness", "child": "QMAPerfectCompleteness_Main_Cyclic", "via": ["solution", "statement"]}
-{"parent": "FairShareAlmostAll.Slack.enough_buffers", "child": "FairShareAlmostAll_Slack_Buckets", "via": ["statement"]}
-{"parent": "FairShareAlmostAll.Slack.enough_buffers", "child": "FairShareAlmostAll_Slack_Instance", "via": ["statement"]}
-{"parent": "FairShareAlmostAll.Slack.enough_buffers", "child": "AnyPriceShare_Bidding_Basic", "via": ["statement"]}
-{"parent": "FairShareAlmostAll.Slack.enough_buffers", "child": "FairShareAlmostAll_Slack_FiniteAllocation", "via": ["statement"]}
+{"parent": "FairShareAlmostAll.Slack.enough_buffers", "child": "FairShareAlmostAll_Slack_Buckets", "via": ["solution", "statement"]}
+{"parent": "FairShareAlmostAll.Slack.enough_buffers", "child": "FairShareAlmostAll_Slack_Instance", "via": ["solution", "statement"]}
+{"parent": "FairShareAlmostAll.Slack.enough_buffers", "child": "AnyPriceShare_Bidding_Basic", "via": ["solution", "statement"]}
+{"parent": "FairShareAlmostAll.Slack.enough_buffers", "child": "FairShareAlmostAll_Slack_FiniteAllocation", "via": ["solution", "statement"]}
 {"parent": "BookProof.FockWeightedSchur.wcomm_row_le", "child": "ChapterFockSchurEsa", "via": ["solution", "statement"]}
 {"parent": "BookProof.FockWeightedSchur.wcomm_row_le", "child": "ChapterSirkTrotterKato", "via": ["solution", "statement"]}
 {"parent": "BookProof.FockWeightedSchur.wcomm_row_le", "child": "ChapterNavierStokesAffineFiberEsa", "via": ["solution", "statement"]}

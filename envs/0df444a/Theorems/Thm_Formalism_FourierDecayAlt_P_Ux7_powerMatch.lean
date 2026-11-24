@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux7_powerMatch
 -- name    : Formalism.FourierDecayAlt.P.Ux7.powerMatch
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:37:29.584849+00:00
 -- url     : https://prove2.me/theorems/636ca65c-ce99-45e1-ace6-66b733297cc0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DifferentialOperatorClasses_bigPos_sub
 -- name    : Formalism.FourierDecayAlt.P.DifferentialOperatorClasses.bigPos_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:14:17.9566+00:00
 -- url     : https://prove2.me/theorems/b3d7e7b5-0067-410c-9c36-73f278baddff

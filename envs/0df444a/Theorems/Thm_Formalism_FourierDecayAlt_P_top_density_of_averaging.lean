@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_top_density_of_averaging
 -- name    : Formalism.FourierDecayAlt.P.top_density_of_averaging
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:39:19.213275+00:00
 -- url     : https://prove2.me/theorems/22f1cbf3-f71e-4e4a-befa-8341d13c9e96

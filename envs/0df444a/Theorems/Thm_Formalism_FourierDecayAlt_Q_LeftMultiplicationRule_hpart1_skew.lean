@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LeftMultiplicationRule_hpart1_skew
 -- name    : Formalism.FourierDecayAlt.Q.LeftMultiplicationRule.hpart1_skew
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:46:00.721661+00:00
 -- url     : https://prove2.me/theorems/9f74d759-fe63-4890-b9d8-ef99e7fc0653

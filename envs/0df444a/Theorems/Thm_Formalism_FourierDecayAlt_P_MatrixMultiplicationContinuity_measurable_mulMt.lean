@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MatrixMultiplicationContinuity_measurable_mulMt
 -- name    : Formalism.FourierDecayAlt.P.MatrixMultiplicationContinuity.measurable_mulMt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:49:40.999556+00:00
 -- url     : https://prove2.me/theorems/c0e14eab-bfa3-43a8-b65d-acc9e319098f

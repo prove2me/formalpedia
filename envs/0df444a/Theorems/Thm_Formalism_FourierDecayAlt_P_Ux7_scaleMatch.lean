@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux7_scaleMatch
 -- name    : Formalism.FourierDecayAlt.P.Ux7.scaleMatch
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:36:51.778885+00:00
 -- url     : https://prove2.me/theorems/d076aa1b-68df-45bd-a9e8-36be887c0e2f

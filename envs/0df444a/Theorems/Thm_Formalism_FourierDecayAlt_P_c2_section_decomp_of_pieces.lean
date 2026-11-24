@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_c2_section_decomp_of_pieces
 -- name    : Formalism.FourierDecayAlt.P.c2_section_decomp_of_pieces
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:37:21.799039+00:00
 -- url     : https://prove2.me/theorems/8841f121-7239-4606-994f-5588be68f590

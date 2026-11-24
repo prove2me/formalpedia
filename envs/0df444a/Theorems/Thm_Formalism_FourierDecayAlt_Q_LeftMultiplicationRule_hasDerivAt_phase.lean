@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LeftMultiplicationRule_hasDerivAt_phase
 -- name    : Formalism.FourierDecayAlt.Q.LeftMultiplicationRule.hasDerivAt_phase
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:41:26.170482+00:00
 -- url     : https://prove2.me/theorems/b0b18852-f65b-457d-a284-120858bd8c43

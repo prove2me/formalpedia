@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_kappa_commute_raising
 -- name    : Formalism.FourierDecayAlt.P.NFx2.kappa_commute_raising
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:17:12.638629+00:00
 -- url     : https://prove2.me/theorems/55c974a5-14ae-4f9c-810e-0b42e6a526e5

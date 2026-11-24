@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_CompletedLStripBounds_IsCompletedL_unique
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.CompletedLStripBounds.IsCompletedL.unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:25:44.548836+00:00
 -- url     : https://prove2.me/theorems/49e70013-e56b-45b9-a238-1f60a29c2217

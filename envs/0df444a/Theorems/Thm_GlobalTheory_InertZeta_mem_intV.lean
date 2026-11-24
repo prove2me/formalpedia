@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_mem_intV
 -- name    : GlobalTheory.InertZeta.mem_intV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:26:30.390008+00:00
 -- url     : https://prove2.me/theorems/c8d3d9ac-a02a-441d-b36c-fe4d17f0c377

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_mem_dosetOf_iff
 -- name    : GlobalTheory.InertZeta.mem_dosetOf_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:48:47.920794+00:00
 -- url     : https://prove2.me/theorems/78343683-26e0-46ff-b9f0-347d5ad6355f

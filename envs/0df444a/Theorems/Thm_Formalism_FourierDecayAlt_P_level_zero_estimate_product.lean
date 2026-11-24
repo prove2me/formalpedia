@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_level_zero_estimate_product
 -- name    : Formalism.FourierDecayAlt.P.level_zero_estimate_product
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:39:49.649249+00:00
 -- url     : https://prove2.me/theorems/2d83e87f-ba22-4226-865c-02e600e1a633

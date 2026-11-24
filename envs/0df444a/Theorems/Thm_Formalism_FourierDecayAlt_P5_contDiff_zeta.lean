@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_contDiff_zeta
 -- name    : Formalism.FourierDecayAlt.P5.contDiff_zeta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:39:50.647058+00:00
 -- url     : https://prove2.me/theorems/400b7c4b-5db0-48c9-9d22-65257dd86d89

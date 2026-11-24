@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_connection_lowering_projection
 -- name    : Formalism.FourierDecayAlt.P.NFx2.connection_lowering_projection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:15:32.319799+00:00
 -- url     : https://prove2.me/theorems/46dcd3d1-e327-4396-ac6e-61012b67840e

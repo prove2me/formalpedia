@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoByOneBlock_emb_conjTranspose
 -- name    : Formalism.FourierDecayAlt.P.TwoByOneBlock.emb_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:32:55.244448+00:00
 -- url     : https://prove2.me/theorems/cc3943a7-16e1-42b8-8c35-c24f9cf28d40

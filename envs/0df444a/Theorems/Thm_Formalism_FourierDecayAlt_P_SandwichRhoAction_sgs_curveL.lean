@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SandwichRhoAction_sgs_curveL
 -- name    : Formalism.FourierDecayAlt.P.SandwichRhoAction.sgs_curveL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:21:54.430669+00:00
 -- url     : https://prove2.me/theorems/b9192612-374d-46d5-b73a-c1989a54fee7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx6_filter_succ
 -- name    : Formalism.FourierDecayAlt.P.Qx6.filter_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:34:59.860804+00:00
 -- url     : https://prove2.me/theorems/13c3a59c-9c37-47c4-a056-150ba78e41e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertZeta_mem_intL_iff
 -- name    : GlobalTheory.CompanionTheory.InertZeta.mem_intL_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:49:21.041083+00:00
 -- url     : https://prove2.me/theorems/d009f3b4-883e-4137-a36f-4d50d133f0d2

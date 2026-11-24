@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_dvd_mulVec
 -- name    : GlobalTheory.BK.dvd_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:42:27.405577+00:00
 -- url     : https://prove2.me/theorems/a5987072-97c2-4e0b-9cfc-f00cab88db85

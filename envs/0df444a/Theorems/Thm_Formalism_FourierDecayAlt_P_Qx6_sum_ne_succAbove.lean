@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx6_sum_ne_succAbove
 -- name    : Formalism.FourierDecayAlt.P.Qx6.sum_ne_succAbove
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:35:00.552606+00:00
 -- url     : https://prove2.me/theorems/7e42bb41-7b4a-4221-b159-ba531145c976

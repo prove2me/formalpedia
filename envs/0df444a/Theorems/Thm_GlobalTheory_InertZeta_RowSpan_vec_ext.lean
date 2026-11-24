@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_RowSpan_vec_ext
 -- name    : GlobalTheory.InertZeta.RowSpan.vec_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:49:12.012776+00:00
 -- url     : https://prove2.me/theorems/93fd9cc7-3bc0-4c6a-86f2-b6c8360e53e8

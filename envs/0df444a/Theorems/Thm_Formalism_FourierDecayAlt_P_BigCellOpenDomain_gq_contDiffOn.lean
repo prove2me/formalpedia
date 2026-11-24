@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BigCellOpenDomain_gq_contDiffOn
 -- name    : Formalism.FourierDecayAlt.P.BigCellOpenDomain.gq_contDiffOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:09:28.517364+00:00
 -- url     : https://prove2.me/theorems/921ca3e4-9896-4877-91e2-5f1d5040eacf

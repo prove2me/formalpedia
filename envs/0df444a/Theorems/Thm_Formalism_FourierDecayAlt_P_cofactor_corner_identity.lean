@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_cofactor_corner_identity
 -- name    : Formalism.FourierDecayAlt.P.cofactor_corner_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:38:34.677798+00:00
 -- url     : https://prove2.me/theorems/9e89ca84-8331-4c30-834c-3e6956f1b7fe

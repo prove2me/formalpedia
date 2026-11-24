@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_regularised_product_second_derivative
 -- name    : Formalism.FourierDecayAlt.P.B6.regularised_product_second_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:16:26.206057+00:00
 -- url     : https://prove2.me/theorems/2605a692-5c92-46c2-a65c-6d3731e3b34a

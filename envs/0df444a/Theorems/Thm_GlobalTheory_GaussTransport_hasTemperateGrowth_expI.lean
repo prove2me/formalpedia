@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussTransport_hasTemperateGrowth_expI
 -- name    : GlobalTheory.GaussTransport.hasTemperateGrowth_expI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:54:24.532826+00:00
 -- url     : https://prove2.me/theorems/087c6fc3-76ab-48ad-80e2-c7b95c28b003

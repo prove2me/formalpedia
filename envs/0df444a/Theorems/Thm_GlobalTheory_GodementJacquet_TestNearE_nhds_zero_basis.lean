@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GodementJacquet_TestNearE_nhds_zero_basis
 -- name    : GlobalTheory.GodementJacquet.TestNearE.nhds_zero_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:57:17.340292+00:00
 -- url     : https://prove2.me/theorems/42779c96-20c7-4f06-be08-92277525e124

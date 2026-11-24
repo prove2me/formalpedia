@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux3_skewOf_coords
 -- name    : Formalism.FourierDecayAlt.P.Ux3.skewOf_coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:27:16.809811+00:00
 -- url     : https://prove2.me/theorems/ae5b1c2a-f2fe-4985-ba78-fdc79b56c608

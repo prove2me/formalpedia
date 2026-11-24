@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_connection_coordinate_commute
 -- name    : Formalism.FourierDecayAlt.P.NFx2.connection_coordinate_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:16:59.211837+00:00
 -- url     : https://prove2.me/theorems/d7b6218a-df1c-443d-b89e-ca200480dd8d

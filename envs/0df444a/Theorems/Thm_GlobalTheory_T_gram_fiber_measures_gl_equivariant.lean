@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gram_fiber_measures_gl_equivariant
 -- name    : GlobalTheory.T.gram_fiber_measures_gl_equivariant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:45:08.958584+00:00
 -- url     : https://prove2.me/theorems/a12bfa7b-0d18-494a-b809-63dda33c0720

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormFactor_gram_update
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormFactor.gram_update
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:16:05.470097+00:00
 -- url     : https://prove2.me/theorems/ec4fa626-95b9-43d1-8323-9973a1c87ec5

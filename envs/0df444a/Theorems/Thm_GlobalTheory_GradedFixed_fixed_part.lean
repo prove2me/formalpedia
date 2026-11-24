@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GradedFixed_fixed_part
 -- name    : GlobalTheory.GradedFixed.fixed_part
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:12:53.708907+00:00
 -- url     : https://prove2.me/theorems/1f07cf27-61fe-40e0-917b-a0c16c89b8e8

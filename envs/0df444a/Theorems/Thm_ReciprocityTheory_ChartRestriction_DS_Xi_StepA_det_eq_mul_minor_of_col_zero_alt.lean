@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_det_eq_mul_minor_of_col_zero_alt
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.det_eq_mul_minor_of_col_zero_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:54:53.500525+00:00
 -- url     : https://prove2.me/theorems/485321ae-7e49-4b9f-91b5-acef2af2c644

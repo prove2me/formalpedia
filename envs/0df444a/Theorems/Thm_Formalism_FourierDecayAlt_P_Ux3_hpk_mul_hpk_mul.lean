@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux3_hpk_mul_hpk_mul
 -- name    : Formalism.FourierDecayAlt.P.Ux3.hpk_mul_hpk_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:25:53.234476+00:00
 -- url     : https://prove2.me/theorems/34396774-5835-4558-85d8-83877446d211

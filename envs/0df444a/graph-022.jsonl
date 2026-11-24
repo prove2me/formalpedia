@@ -75069,9 +75069,9 @@
 {"parent": "QEC.Coding.HighDimensionalExpander.CartwrightSteger.natCard_constantProjectiveClass", "child": "QEC_Coding_HighDimensionalExpander_CartwrightSteger_Arithmetic_Arithmetic", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.pair_cross_certificate_e", "child": "MUBSix", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.pair_cross_certificate_e", "child": "OAIQ106E154", "via": ["solution", "statement"]}
-{"parent": "MeanBudgetXC.lemma_3_6", "child": "MeanBudgetXC_rltPolytope", "via": ["statement"]}
-{"parent": "MeanBudgetXC.lemma_3_6", "child": "MeanBudgetXC_topSum", "via": ["statement"]}
-{"parent": "MeanBudgetXC.lemma_3_6", "child": "MeanBudgetXC_rltObjective", "via": ["statement"]}
+{"parent": "MeanBudgetXC.lemma_3_6", "child": "MeanBudgetXC_rltPolytope", "via": ["solution", "statement"]}
+{"parent": "MeanBudgetXC.lemma_3_6", "child": "MeanBudgetXC_topSum", "via": ["solution", "statement"]}
+{"parent": "MeanBudgetXC.lemma_3_6", "child": "MeanBudgetXC_rltObjective", "via": ["solution", "statement"]}
 {"parent": "AaronsonAmbainis.Bridge.mainTheorem_iff_printed", "child": "AaronsonAmbainis_Bridge_PaperTheorems", "via": ["solution", "statement"]}
 {"parent": "AaronsonAmbainis.Bridge.mainTheorem_iff_printed", "child": "AaronsonAmbainis_Average_Influence", "via": ["solution", "statement"]}
 {"parent": "AaronsonAmbainis.Bridge.mainTheorem_iff_printed", "child": "AaronsonAmbainis_Bridge_PrintedAA", "via": ["solution", "statement"]}

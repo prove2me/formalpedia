@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_stepanov_system_dimension_inequality_nat
 -- name    : stepanov_system_dimension_inequality_nat
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T15:35:34.613852+00:00
 -- url     : https://prove2.me/theorems/11711f87-c577-4258-8afc-afc82e7563c7

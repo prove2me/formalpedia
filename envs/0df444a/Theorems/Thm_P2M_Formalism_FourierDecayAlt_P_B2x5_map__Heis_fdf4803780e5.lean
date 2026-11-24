@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_B2x5_map__Heis_fdf4803780e5
 -- name    : P2M_Formalism_FourierDecayAlt_P_B2x5_map__Heis_fdf4803780e5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:37:11.666799+00:00
 -- url     : https://prove2.me/theorems/f4306110-d6d2-4749-b36a-e893ead2f4bd

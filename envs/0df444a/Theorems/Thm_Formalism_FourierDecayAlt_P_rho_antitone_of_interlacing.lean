@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_rho_antitone_of_interlacing
 -- name    : Formalism.FourierDecayAlt.P.rho_antitone_of_interlacing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:39:39.132476+00:00
 -- url     : https://prove2.me/theorems/d50899c1-7adf-4054-9c12-e2e308df4025

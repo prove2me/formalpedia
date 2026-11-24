@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_top_density_add_right
 -- name    : Formalism.FourierDecayAlt.P5.top_density_add_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:43:29.766212+00:00
 -- url     : https://prove2.me/theorems/c3a090ea-7a31-410f-8e64-c2974f24980e

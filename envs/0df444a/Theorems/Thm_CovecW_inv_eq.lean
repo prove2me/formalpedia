@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CovecW_inv_eq
 -- name    : CovecW.inv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:59:50.047882+00:00
 -- url     : https://prove2.me/theorems/c3518c10-4c14-4ff9-9901-5e236e037c36

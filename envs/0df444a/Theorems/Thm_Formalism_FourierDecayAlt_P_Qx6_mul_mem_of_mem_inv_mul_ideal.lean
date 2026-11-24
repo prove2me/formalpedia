@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx6_mul_mem_of_mem_inv_mul_ideal
 -- name    : Formalism.FourierDecayAlt.P.Qx6.mul_mem_of_mem_inv_mul_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:34:41.166885+00:00
 -- url     : https://prove2.me/theorems/9b19bf9c-32a1-4d7d-b707-dde2eacd28f7

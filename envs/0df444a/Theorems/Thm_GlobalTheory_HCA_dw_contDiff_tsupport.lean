@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_dw_contDiff_tsupport
 -- name    : GlobalTheory.HCA.dw_contDiff_tsupport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:00:31.052105+00:00
 -- url     : https://prove2.me/theorems/0a5410ff-dfcd-4f0b-aac3-dd119be2f6ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_block_estimate_of_base
 -- name    : Formalism.FourierDecayAlt.P.block_estimate_of_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:37:35.528783+00:00
 -- url     : https://prove2.me/theorems/08edd498-ddae-42a2-879c-9c1a719dcee4

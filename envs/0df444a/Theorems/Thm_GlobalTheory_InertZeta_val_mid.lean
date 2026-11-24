@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_val_mid
 -- name    : GlobalTheory.InertZeta.val_mid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:29:51.80217+00:00
 -- url     : https://prove2.me/theorems/946b90b0-4fa6-4edb-8e05-a1a1a5890cc2

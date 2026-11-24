@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_hostEmb
 -- name    : Formalism.HC.HostRaw.hostEmb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:34:40.620211+00:00
 -- url     : https://prove2.me/theorems/54dd0dbb-acf5-43c8-85a5-71d3ea154847

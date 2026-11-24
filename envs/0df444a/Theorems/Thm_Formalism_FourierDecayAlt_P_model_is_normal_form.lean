@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_model_is_normal_form
 -- name    : Formalism.FourierDecayAlt.P.model_is_normal_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:24:12.237338+00:00
 -- url     : https://prove2.me/theorems/421b6473-4721-47d9-a020-def0252d7691

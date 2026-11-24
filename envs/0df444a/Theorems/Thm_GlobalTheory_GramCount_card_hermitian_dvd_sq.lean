@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_card_hermitian_dvd_sq
 -- name    : GlobalTheory.GramCount.card_hermitian_dvd_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:34:39.561323+00:00
 -- url     : https://prove2.me/theorems/3729e4e8-7f7e-4110-99ff-5be85f96546f

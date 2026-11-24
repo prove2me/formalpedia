@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LeftMultiplicationRule_cube_S
 -- name    : Formalism.FourierDecayAlt.Q.LeftMultiplicationRule.cube_S
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:41:13.514509+00:00
 -- url     : https://prove2.me/theorems/1565cc9a-0ece-4b7c-80e4-8254ff7feff5

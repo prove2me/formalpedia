@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx6_skip_two_succAbove_comp_alt
 -- name    : Formalism.FourierDecayAlt.P.Qx6.skip_two_succAbove_comp_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:34:21.594844+00:00
 -- url     : https://prove2.me/theorems/98eab83e-ec9e-4200-b282-f9147cb3ba10

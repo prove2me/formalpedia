@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx6_preserves_operator_mul
 -- name    : Formalism.FourierDecayAlt.P.Qx6.preserves_operator_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:34:15.654814+00:00
 -- url     : https://prove2.me/theorems/0f4ab8c0-1855-4253-a839-126abd26e71e

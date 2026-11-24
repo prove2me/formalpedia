@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_ea_k_iff
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.ea_k_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:24:59.704214+00:00
 -- url     : https://prove2.me/theorems/ea350cab-14cb-4ccc-8c0f-911861aa45e3

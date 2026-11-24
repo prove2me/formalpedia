@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GermExist_germ_exists_unique
 -- name    : GlobalTheory.GermExist.germ_exists_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:55:27.71638+00:00
 -- url     : https://prove2.me/theorems/a515cf20-c0f9-4a6d-a9a6-158510958f6f

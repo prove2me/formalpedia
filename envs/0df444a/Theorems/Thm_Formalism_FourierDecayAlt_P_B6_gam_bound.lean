@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_gam_bound
 -- name    : Formalism.FourierDecayAlt.P.B6.gam_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:01:59.932658+00:00
 -- url     : https://prove2.me/theorems/ff79f3e4-48e7-4329-84ce-bc93a474ab6a

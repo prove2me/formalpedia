@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_lower_parabolic_entry_zero
 -- name    : Formalism.FourierDecayAlt.P.lower_parabolic_entry_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:08:23.72194+00:00
 -- url     : https://prove2.me/theorems/73195a92-cf1a-42bc-9b03-7d316d24848a

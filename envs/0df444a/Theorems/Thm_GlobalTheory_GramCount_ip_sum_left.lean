@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_ip_sum_left
 -- name    : GlobalTheory.GramCount.ip_sum_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:58:52.985022+00:00
 -- url     : https://prove2.me/theorems/67e0a143-d049-4b23-9791-8e3de8b17231

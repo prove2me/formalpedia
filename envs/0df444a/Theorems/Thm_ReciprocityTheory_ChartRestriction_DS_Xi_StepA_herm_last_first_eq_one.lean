@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_herm_last_first_eq_one
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.herm_last_first_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:55:07.748364+00:00
 -- url     : https://prove2.me/theorems/c189120e-a60a-495a-a1e2-4e58596c70a7

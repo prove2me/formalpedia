@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_capelli_comatrix_holds
 -- name    : Formalism.QuantumDeterminants.capelli_comatrix_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:34:07.150984+00:00
 -- url     : https://prove2.me/theorems/d4f259c6-25ce-4676-9aef-3a2aba658fd6

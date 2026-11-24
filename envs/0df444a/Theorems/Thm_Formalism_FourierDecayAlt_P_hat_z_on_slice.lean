@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_hat_z_on_slice
 -- name    : Formalism.FourierDecayAlt.P.hat_z_on_slice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:47:22.435901+00:00
 -- url     : https://prove2.me/theorems/91a719d6-bdf2-47ab-83c1-1e3aabd18181

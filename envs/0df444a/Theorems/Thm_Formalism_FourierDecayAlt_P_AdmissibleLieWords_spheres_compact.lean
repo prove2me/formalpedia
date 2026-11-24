@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_AdmissibleLieWords_spheres_compact
 -- name    : Formalism.FourierDecayAlt.P.AdmissibleLieWords.spheres_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:25:36.66382+00:00
 -- url     : https://prove2.me/theorems/9538de49-05aa-434a-a64e-93c54d82f0c7

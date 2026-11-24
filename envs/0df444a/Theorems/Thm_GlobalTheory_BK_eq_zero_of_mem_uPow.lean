@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_eq_zero_of_mem_uPow
 -- name    : GlobalTheory.BK.eq_zero_of_mem_uPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:42:42.611245+00:00
 -- url     : https://prove2.me/theorems/9926914a-f4bc-49eb-bb78-99d81e2eea1f

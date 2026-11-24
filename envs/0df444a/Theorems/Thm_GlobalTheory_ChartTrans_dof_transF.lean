@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartTrans_dof_transF
 -- name    : GlobalTheory.ChartTrans.dof_transF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:23:46.999888+00:00
 -- url     : https://prove2.me/theorems/45e058b8-e68b-4f60-922a-b48e1516e899

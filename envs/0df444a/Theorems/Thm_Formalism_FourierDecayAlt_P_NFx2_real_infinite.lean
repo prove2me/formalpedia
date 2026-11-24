@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_real_infinite
 -- name    : Formalism.FourierDecayAlt.P.NFx2.real_infinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:16:45.992029+00:00
 -- url     : https://prove2.me/theorems/805cd9b8-74b7-4748-b8c8-0ff51f03faae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_idx_cases
 -- name    : GlobalTheory.InertZeta.idx_cases
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:29:01.227465+00:00
 -- url     : https://prove2.me/theorems/57b1c2b2-e12e-4f6f-8fc9-e40e372d37d5

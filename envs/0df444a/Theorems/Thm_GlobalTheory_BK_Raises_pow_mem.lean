@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_Raises_pow_mem
 -- name    : GlobalTheory.BK.Raises.pow_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:42:46.618091+00:00
 -- url     : https://prove2.me/theorems/06465d62-d0e0-4cb6-b5ce-66def2801134

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_conjugated_pair_continuous_on
 -- name    : Formalism.FourierDecayAlt.P.B6.conjugated_pair_continuous_on
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:56:39.875799+00:00
 -- url     : https://prove2.me/theorems/da33bed5-bab4-4756-82fe-e3eeeeba7f02

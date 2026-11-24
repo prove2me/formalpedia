@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Qr_mem_CapSp
 -- name    : Formalism.FourierDecayAlt.Qr.mem_CapSp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:30:07.363844+00:00
 -- url     : https://prove2.me/theorems/c2a2e2fa-f54b-4057-9e25-4e68eadae161

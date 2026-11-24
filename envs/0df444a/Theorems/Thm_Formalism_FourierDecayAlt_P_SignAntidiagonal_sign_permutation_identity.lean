@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_sign_permutation_identity
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.sign_permutation_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:14:44.588503+00:00
 -- url     : https://prove2.me/theorems/a5044eb7-0b3e-4709-9334-c2538f3d98f0

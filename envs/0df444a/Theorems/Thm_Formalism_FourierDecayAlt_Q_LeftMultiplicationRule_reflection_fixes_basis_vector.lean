@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LeftMultiplicationRule_reflection_fixes_basis_vector
 -- name    : Formalism.FourierDecayAlt.Q.LeftMultiplicationRule.reflection_fixes_basis_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:45:36.661637+00:00
 -- url     : https://prove2.me/theorems/c4038e75-4ba1-455b-84f0-f9baa95022c8

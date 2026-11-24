@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RootChangeOfVariables_jac
 -- name    : Formalism.FourierDecayAlt.P.RootChangeOfVariables.jac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:47:46.109053+00:00
 -- url     : https://prove2.me/theorems/eba3939c-459e-41ed-808e-4adde2d05aba

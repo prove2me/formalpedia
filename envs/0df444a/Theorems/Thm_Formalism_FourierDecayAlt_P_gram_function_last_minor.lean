@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_gram_function_last_minor
 -- name    : Formalism.FourierDecayAlt.P.gram_function_last_minor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:38:10.353795+00:00
 -- url     : https://prove2.me/theorems/d138da72-46fc-44fb-be6e-83c105491184

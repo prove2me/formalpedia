@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LongWeylElement_detF_cont
 -- name    : Formalism.FourierDecayAlt.P.LongWeylElement.detF_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:41:33.965576+00:00
 -- url     : https://prove2.me/theorems/5eb2cccb-7f41-47c7-8b97-62ac9a45eaf4

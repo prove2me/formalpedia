@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_C2x4_no_cut_between
 -- name    : Formalism.FourierDecayAlt.P.C2x4.no_cut_between
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:30:11.689055+00:00
 -- url     : https://prove2.me/theorems/85c65be7-487c-4bd6-ae79-b76422590a24

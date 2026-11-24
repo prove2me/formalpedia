@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_relIsCoreNorm
 -- name    : Formalism.FourierDecayAlt.P.NFx2.relIsCoreNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:17:04.017597+00:00
 -- url     : https://prove2.me/theorems/a3b85645-dc9c-48fe-bef3-c2175b41fccc

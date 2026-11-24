@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx6_sum3conv
 -- name    : Formalism.FourierDecayAlt.P.Qx6.sum3conv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:36:12.9798+00:00
 -- url     : https://prove2.me/theorems/6bc92868-dfaf-44cf-8a73-d93b397e8498

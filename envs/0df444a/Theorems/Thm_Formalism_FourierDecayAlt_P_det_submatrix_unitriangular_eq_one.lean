@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_det_submatrix_unitriangular_eq_one
 -- name    : Formalism.FourierDecayAlt.P.det_submatrix_unitriangular_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:38:47.914593+00:00
 -- url     : https://prove2.me/theorems/31ab9365-97bb-4f8d-8b1d-f1a37f28bf04

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SmoothnessOrderArithmetic_foldr_LdV_eq_W_lr
 -- name    : Formalism.FourierDecayAlt.P.SmoothnessOrderArithmetic.foldr_LdV_eq_W_lr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:29:15.83489+00:00
 -- url     : https://prove2.me/theorems/6d2c58be-7052-4c3a-b294-de388deda030

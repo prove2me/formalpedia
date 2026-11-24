@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GeneratorFunctor_cover_ext
 -- name    : GlobalTheory.GeneratorFunctor.cover_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:53:52.168341+00:00
 -- url     : https://prove2.me/theorems/74917a61-e3f7-48ce-bdf9-35604b087d4e

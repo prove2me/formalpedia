@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_QRR_star_half
 -- name    : Formalism.FourierDecayAlt.Q.QRR.star_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:47:04.122968+00:00
 -- url     : https://prove2.me/theorems/4967c35c-6544-40a9-999c-f8a6301c53b7

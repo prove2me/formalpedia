@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux8_seminormCompletion
 -- name    : Formalism.FourierDecayAlt.P.Ux8.seminormCompletion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:37:17.242417+00:00
 -- url     : https://prove2.me/theorems/411d9dd7-d041-440d-8cf0-196bb2cd035f

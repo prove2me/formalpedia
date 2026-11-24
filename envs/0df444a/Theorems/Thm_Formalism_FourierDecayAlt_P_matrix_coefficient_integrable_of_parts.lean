@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_matrix_coefficient_integrable_of_parts
 -- name    : Formalism.FourierDecayAlt.P.matrix_coefficient_integrable_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:41:44.143801+00:00
 -- url     : https://prove2.me/theorems/ea5eda20-4b1a-4fc0-bf80-6ec68edb5ff1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_gram_block_form
 -- name    : Formalism.FourierDecayAlt.P.gram_block_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:48:30.946732+00:00
 -- url     : https://prove2.me/theorems/341de99b-032a-496e-b90b-62ff62067774

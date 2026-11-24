@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CatCoh_Desc_Basis_exists_glue_points
 -- name    : GlobalTheory.CatCoh.Desc.Basis.exists_glue_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:14:01.796636+00:00
 -- url     : https://prove2.me/theorems/1dc4fc75-cda8-4e10-b25d-10ee5e3d4578

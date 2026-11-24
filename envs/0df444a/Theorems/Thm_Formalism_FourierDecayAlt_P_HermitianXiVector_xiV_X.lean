@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianXiVector_xiV_X
 -- name    : Formalism.FourierDecayAlt.P.HermitianXiVector.xiV_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:44:23.264799+00:00
 -- url     : https://prove2.me/theorems/85f1a9a3-40fe-4974-864b-6701dce62e4f

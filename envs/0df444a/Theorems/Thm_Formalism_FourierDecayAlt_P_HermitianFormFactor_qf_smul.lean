@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormFactor_qf_smul
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormFactor.qf_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:15:49.457608+00:00
 -- url     : https://prove2.me/theorems/1d0f4eeb-6b27-4eae-b40a-d52dee864704

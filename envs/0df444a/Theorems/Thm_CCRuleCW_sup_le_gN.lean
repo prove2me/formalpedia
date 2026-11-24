@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCRuleCW_sup_le_gN
 -- name    : CCRuleCW.sup_le_gN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:37:33.99698+00:00
 -- url     : https://prove2.me/theorems/596bc133-4093-4711-82b7-fe5bdeff9e92

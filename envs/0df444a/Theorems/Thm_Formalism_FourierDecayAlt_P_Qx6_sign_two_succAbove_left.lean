@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx6_sign_two_succAbove_left
 -- name    : Formalism.FourierDecayAlt.P.Qx6.sign_two_succAbove_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:35:43.466388+00:00
 -- url     : https://prove2.me/theorems/860b32c8-b8ee-4f95-94ad-f6ecc70aeef3

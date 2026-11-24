@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx6_add_eq_sub_of
 -- name    : Formalism.FourierDecayAlt.P.Qx6.add_eq_sub_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:34:44.642799+00:00
 -- url     : https://prove2.me/theorems/ef98fa0a-d287-4c57-b065-7b2bbe3d04ee

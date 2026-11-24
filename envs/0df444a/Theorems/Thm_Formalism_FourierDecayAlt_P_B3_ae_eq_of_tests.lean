@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B3_ae_eq_of_tests
 -- name    : Formalism.FourierDecayAlt.P.B3.ae_eq_of_tests
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:30:14.117611+00:00
 -- url     : https://prove2.me/theorems/e49658ff-5af9-455b-b6e6-36518a905de0

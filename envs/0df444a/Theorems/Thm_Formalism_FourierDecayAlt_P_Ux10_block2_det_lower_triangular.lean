@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux10_block2_det_lower_triangular
 -- name    : Formalism.FourierDecayAlt.P.Ux10.block2_det_lower_triangular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:43:21.663834+00:00
 -- url     : https://prove2.me/theorems/f75dcd21-72ad-46a8-baac-bf39aa869583

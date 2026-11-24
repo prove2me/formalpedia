@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussExt_norm_gEmb
 -- name    : GlobalTheory.GaussExt.norm_gEmb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:50:56.325839+00:00
 -- url     : https://prove2.me/theorems/5a06aac3-fdd0-4e4d-a523-9e6beb6c18c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_SolSub_hasCompactSupport_dw
 -- name    : GlobalTheory.HCA.SolSub.hasCompactSupport_dw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:59:14.197425+00:00
 -- url     : https://prove2.me/theorems/49ac3c50-e6c1-4b00-acbc-83714f838105

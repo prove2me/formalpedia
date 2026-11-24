@@ -47363,7 +47363,7 @@
 {"parent": "CompDesignBFM_Supplement_worstEqValue", "child": "CompDesignBFM_Supplement_IsPNEOf", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_bvb_obstruction_original_uniform_CP_c_eq_half", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bvb_obstruction_original_uniform_CP_c_eq_half", "child": "AvramDividend.Classical.avram_bvb_obstruction_uniform_negative_levy_mark_mean_half", "via": ["solution", "statement"]}
-{"parent": "DOPriorityQueue.Construction.Supplement.theorem_6_1", "child": "DOPriorityQueue_Construction_Supplement_LowerBound", "via": ["statement"]}
+{"parent": "DOPriorityQueue.Construction.Supplement.theorem_6_1", "child": "DOPriorityQueue_Construction_Supplement_LowerBound", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bvb_phys89b_zero_contact_original_BV_drift_only_budget_formal_negation", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_bvb_phys89b_zero_contact_original_BV_drift_only_budget_formal_negation", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "PrivateContinualCounting.Kraft.Supplement.gaussian_replacement", "child": "PrivateContinualCounting_Kraft_Supplement_GenericOuter", "via": ["statement"]}

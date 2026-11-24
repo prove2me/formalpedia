@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SesqAsym_trace___18028ab669bb
 -- name    : P2M_GlobalTheory_SesqAsym_trace___18028ab669bb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:38:36.56282+00:00
 -- url     : https://prove2.me/theorems/abd6fdd3-f6d1-44db-8f0e-94a18c52eb36

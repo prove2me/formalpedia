@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_ext_mono
 -- name    : GlobalTheory.BK.PhiMod.ext_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:42:40.953795+00:00
 -- url     : https://prove2.me/theorems/06d3cda3-0baa-497d-a62e-01ec70764941

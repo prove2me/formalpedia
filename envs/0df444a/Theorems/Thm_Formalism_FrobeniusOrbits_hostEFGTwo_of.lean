@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_hostEFGTwo_of
 -- name    : Formalism.FrobeniusOrbits.hostEFGTwo_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:12:08.659938+00:00
 -- url     : https://prove2.me/theorems/526557e3-7809-4bbe-a383-b915b368f515

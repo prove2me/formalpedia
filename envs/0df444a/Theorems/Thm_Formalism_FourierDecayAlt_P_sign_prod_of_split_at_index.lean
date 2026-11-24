@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_sign_prod_of_split_at_index
 -- name    : Formalism.FourierDecayAlt.P.sign_prod_of_split_at_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:39:28.850842+00:00
 -- url     : https://prove2.me/theorems/aae1c778-19d0-4695-b020-cd5b7f44f8d4

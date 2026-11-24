@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ClosureOperators_exists_castSucc
 -- name    : Formalism.FourierDecayAlt.P.ClosureOperators.exists_castSucc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:49:21.548943+00:00
 -- url     : https://prove2.me/theorems/ab46ec2c-5209-4510-865d-cf16874776c2

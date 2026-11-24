@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SettingConstruction_transitive
 -- name    : Formalism.FourierDecayAlt.P.SettingConstruction.transitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:52:57.916515+00:00
 -- url     : https://prove2.me/theorems/96d2a918-0c46-4797-86be-34f247cbeea7

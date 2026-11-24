@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_coordinate_extension_glue
 -- name    : Formalism.FourierDecayAlt.P5.coordinate_extension_glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:39:59.410807+00:00
 -- url     : https://prove2.me/theorems/7d006fbf-87d4-4a20-91d9-1789d7ac3461

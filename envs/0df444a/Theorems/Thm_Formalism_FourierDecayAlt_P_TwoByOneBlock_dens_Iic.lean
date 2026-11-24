@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoByOneBlock_dens_Iic
 -- name    : Formalism.FourierDecayAlt.P.TwoByOneBlock.dens_Iic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:23:20.173282+00:00
 -- url     : https://prove2.me/theorems/dfabd355-ef44-4fc3-b356-b403e2e513af

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_level_product_of_ge
 -- name    : Formalism.FourierDecayAlt.P5.level_product_of_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:35:52.288005+00:00
 -- url     : https://prove2.me/theorems/7f3a83b4-d42e-4439-8773-c1a4bd6a2831

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_inner_density_of_averaging
 -- name    : Formalism.FourierDecayAlt.P.inner_density_of_averaging
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:38:19.304341+00:00
 -- url     : https://prove2.me/theorems/326955a3-b9b1-478f-a21b-c00d90cdc301

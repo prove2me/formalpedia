@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_degenerationData_torsion_structure_algClosed
 -- name    : GlobalTheory.T.degenerationData_torsion_structure_algClosed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:54:31.141804+00:00
 -- url     : https://prove2.me/theorems/1a35a202-4dec-4517-8240-0364db8de3cd

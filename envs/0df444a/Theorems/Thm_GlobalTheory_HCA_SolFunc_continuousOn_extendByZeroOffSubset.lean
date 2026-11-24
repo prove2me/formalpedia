@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_SolFunc_continuousOn_extendByZeroOffSubset
 -- name    : GlobalTheory.HCA.SolFunc.continuousOn_extendByZeroOffSubset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:00:39.873083+00:00
 -- url     : https://prove2.me/theorems/f29cc401-225a-456f-9180-4c0f53d0fc6d

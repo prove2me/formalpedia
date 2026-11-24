@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_parahoric_character_modulus_properties
 -- name    : GlobalTheory.T.parahoric_character_modulus_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:27:06.227764+00:00
 -- url     : https://prove2.me/theorems/9cdfc251-6489-4dc5-842c-dd992541c768

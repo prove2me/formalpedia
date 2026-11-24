@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_fourth_weight_density_of_parts
 -- name    : Formalism.FourierDecayAlt.P.fourth_weight_density_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:38:08.508521+00:00
 -- url     : https://prove2.me/theorems/4870d818-94ee-4bd0-973c-eb2af55fafe5

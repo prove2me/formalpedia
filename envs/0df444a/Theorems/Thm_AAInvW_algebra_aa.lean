@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_algebra_aa
 -- name    : AAInvW.algebra_aa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:56:04.726672+00:00
 -- url     : https://prove2.me/theorems/8bbbbd88-3a8e-4776-b16e-3e9bf43d89c3

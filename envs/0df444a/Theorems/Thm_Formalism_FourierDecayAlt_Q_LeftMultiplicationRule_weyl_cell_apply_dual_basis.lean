@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LeftMultiplicationRule_weyl_cell_apply_dual_basis
 -- name    : Formalism.FourierDecayAlt.Q.LeftMultiplicationRule.weyl_cell_apply_dual_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:47:10.482491+00:00
 -- url     : https://prove2.me/theorems/b89f50fe-20a6-4a13-ab5f-5beaf23dba43

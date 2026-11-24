@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_norm_of_inverse
 -- name    : Formalism.FourierDecayAlt.P.norm_of_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:49:55.699727+00:00
 -- url     : https://prove2.me/theorems/eb1ce13a-b87d-4efa-9f02-3d9e0f1b8536

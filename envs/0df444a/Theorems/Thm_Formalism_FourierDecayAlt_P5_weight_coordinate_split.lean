@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_weight_coordinate_split
 -- name    : Formalism.FourierDecayAlt.P5.weight_coordinate_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:08:05.888668+00:00
 -- url     : https://prove2.me/theorems/6b8794d9-1cd5-4bec-b382-e55d8245a52e

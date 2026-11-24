@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UniformiserEval_translate_C
 -- name    : GlobalTheory.UniformiserEval.translate_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:39:45.343806+00:00
 -- url     : https://prove2.me/theorems/350fc61d-14af-4964-9db8-3a88a419a1b8

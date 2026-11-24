@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CardInsertEmbedding_det_lt_sub
 -- name    : Formalism.FourierDecayAlt.P.CardInsertEmbedding.det_lt_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:30:31.744803+00:00
 -- url     : https://prove2.me/theorems/88b2f0a3-b2bd-47fb-ab68-d28b8a52c3e4

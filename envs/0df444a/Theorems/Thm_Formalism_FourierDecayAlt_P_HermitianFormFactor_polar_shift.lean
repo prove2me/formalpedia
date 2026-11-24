@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormFactor_polar_shift
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormFactor.polar_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:15:45.949313+00:00
 -- url     : https://prove2.me/theorems/949c636b-d906-4847-85f4-bd67bd671caf

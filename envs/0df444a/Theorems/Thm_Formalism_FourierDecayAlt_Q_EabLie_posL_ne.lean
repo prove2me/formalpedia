@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_EabLie_posL_ne
 -- name    : Formalism.FourierDecayAlt.Q.EabLie.posL_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:41:49.359491+00:00
 -- url     : https://prove2.me/theorems/0320af39-2be7-41aa-9322-4c63728f4c58

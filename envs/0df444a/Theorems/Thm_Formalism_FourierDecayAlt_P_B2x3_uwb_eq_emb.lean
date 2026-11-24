@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x3_uwb_eq_emb
 -- name    : Formalism.FourierDecayAlt.P.B2x3.uwb_eq_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:54:39.774689+00:00
 -- url     : https://prove2.me/theorems/c2cffe08-8707-42fd-8199-c4f1936d0595

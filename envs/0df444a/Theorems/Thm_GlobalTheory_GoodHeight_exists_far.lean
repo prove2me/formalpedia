@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GoodHeight_exists_far
 -- name    : GlobalTheory.GoodHeight.exists_far
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:57:14.871823+00:00
 -- url     : https://prove2.me/theorems/f3c093f5-4c90-444f-9e2c-d33183589144

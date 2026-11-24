@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux3_minor_blocks
 -- name    : Formalism.FourierDecayAlt.P.Ux3.minor_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:25:50.224842+00:00
 -- url     : https://prove2.me/theorems/6b65ab7f-a005-4dfc-af93-d186bcb2b500

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_poisson_input_of_parts
 -- name    : Formalism.FourierDecayAlt.P.poisson_input_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:40:58.376746+00:00
 -- url     : https://prove2.me/theorems/b34066df-3e55-4a28-9f55-1be943f10acc

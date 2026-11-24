@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_concrete_bound_of_recursion
 -- name    : Formalism.FourierDecayAlt.P.concrete_bound_of_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:39:30.844433+00:00
 -- url     : https://prove2.me/theorems/4329eb2f-60ae-486a-8d43-b40973b7f3c0

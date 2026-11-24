@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_Base_galEmbTop
 -- name    : UpperTheory.V.Base.galEmbTop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:38:23.037366+00:00
 -- url     : https://prove2.me/theorems/743a8399-2884-4e97-9443-232a60faab5d

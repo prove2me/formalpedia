@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_continuous_mul_of_vanishing_outside_box
 -- name    : Formalism.FourierDecayAlt.P.B6.continuous_mul_of_vanishing_outside_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:01:59.534392+00:00
 -- url     : https://prove2.me/theorems/646e0f03-9a0f-4cc9-b62d-e3bcf956bb8c

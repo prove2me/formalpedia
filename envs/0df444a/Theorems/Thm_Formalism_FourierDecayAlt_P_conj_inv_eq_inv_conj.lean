@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_conj_inv_eq_inv_conj
 -- name    : Formalism.FourierDecayAlt.P.conj_inv_eq_inv_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:39:00.359831+00:00
 -- url     : https://prove2.me/theorems/2dfde013-2f99-42ae-b9b7-290d04f93312

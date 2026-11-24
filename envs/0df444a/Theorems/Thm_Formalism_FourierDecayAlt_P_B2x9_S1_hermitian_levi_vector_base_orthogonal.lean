@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x9_S1_hermitian_levi_vector_base_orthogonal
 -- name    : Formalism.FourierDecayAlt.P.B2x9.S1.hermitian_levi_vector_base_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:59:50.058043+00:00
 -- url     : https://prove2.me/theorems/99d38bf9-6f95-42c4-b736-fe8cc01e0db1

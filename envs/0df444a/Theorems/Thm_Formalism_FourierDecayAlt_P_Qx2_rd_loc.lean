@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx2_rd_loc
 -- name    : Formalism.FourierDecayAlt.P.Qx2.rd_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:21:06.010628+00:00
 -- url     : https://prove2.me/theorems/b75b18d8-1a24-4975-b05e-5d55416483d0

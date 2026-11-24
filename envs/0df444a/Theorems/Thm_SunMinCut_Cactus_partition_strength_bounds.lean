@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SunMinCut_Cactus_partition_strength_bounds
 -- name    : SunMinCut.Cactus.partition_strength_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-09T19:22:39.447688+00:00
 -- url     : https://prove2.me/theorems/0cc14dca-335b-48ad-96ee-e4e7ead53c95

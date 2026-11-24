@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_coordinate_extension_measurable
 -- name    : Formalism.FourierDecayAlt.P5.coordinate_extension_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:39:43.965742+00:00
 -- url     : https://prove2.me/theorems/85df769b-6d82-4640-9497-315faadfc052

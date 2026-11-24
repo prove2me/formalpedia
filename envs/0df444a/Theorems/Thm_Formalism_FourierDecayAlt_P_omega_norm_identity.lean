@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_omega_norm_identity
 -- name    : Formalism.FourierDecayAlt.P.omega_norm_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:39:54.034563+00:00
 -- url     : https://prove2.me/theorems/6a0cce3a-7cbc-44ca-b4f0-fe504122b772

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LieAlgebraWeightVectors_spec_sum_mem
 -- name    : Formalism.FourierDecayAlt.Q.LieAlgebraWeightVectors.spec_sum_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:46:10.990488+00:00
 -- url     : https://prove2.me/theorems/4df99f57-0258-4fb7-baa5-bf7569eb84e1

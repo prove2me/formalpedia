@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_Adapted_chatA_single
 -- name    : Formalism.FourierDecayAlt.Q.Adapted.chatA_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:45:11.511888+00:00
 -- url     : https://prove2.me/theorems/38ad40bb-b7ad-4cf9-afd9-12f0401fd97d

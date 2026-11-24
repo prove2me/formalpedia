@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_compact_group_haar_exists
 -- name    : Formalism.FourierDecayAlt.P.compact_group_haar_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:39:29.435939+00:00
 -- url     : https://prove2.me/theorems/cbabf2d3-fc15-4fc1-a3c8-868fee0908de

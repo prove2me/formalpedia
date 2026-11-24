@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_lx_herm_eI
 -- name    : AAInvW.lx_herm_eI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:19:45.928811+00:00
 -- url     : https://prove2.me/theorems/3bb2fc54-4173-4bad-9ae4-39ddf00189e5

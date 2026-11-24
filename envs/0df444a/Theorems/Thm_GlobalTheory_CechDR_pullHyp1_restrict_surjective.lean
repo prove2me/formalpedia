@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_pullHyp1_restrict_surjective
 -- name    : GlobalTheory.CechDR.pullHyp1_restrict_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:12:41.593937+00:00
 -- url     : https://prove2.me/theorems/bd1c8b03-625f-4789-9154-d0de8c924697

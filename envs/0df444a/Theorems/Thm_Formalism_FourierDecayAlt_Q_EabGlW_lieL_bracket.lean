@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_EabGlW_lieL_bracket
 -- name    : Formalism.FourierDecayAlt.Q.EabGlW.lieL_bracket
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:41:38.16908+00:00
 -- url     : https://prove2.me/theorems/de273bb6-7eff-4795-a4e8-e820661cc57e

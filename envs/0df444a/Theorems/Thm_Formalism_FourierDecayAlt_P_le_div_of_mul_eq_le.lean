@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_le_div_of_mul_eq_le
 -- name    : Formalism.FourierDecayAlt.P.le_div_of_mul_eq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:39:16.488806+00:00
 -- url     : https://prove2.me/theorems/af67dc1e-3b48-4011-a33e-8f43e552bbe4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B7_measurable_gqM
 -- name    : Formalism.FourierDecayAlt.P.B7.measurable_gqM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:11:12.142802+00:00
 -- url     : https://prove2.me/theorems/90dfc0e3-decd-45bf-ba0e-8c9dbf603ea7

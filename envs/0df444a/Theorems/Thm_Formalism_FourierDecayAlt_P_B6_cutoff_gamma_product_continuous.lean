@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_cutoff_gamma_product_continuous
 -- name    : Formalism.FourierDecayAlt.P.B6.cutoff_gamma_product_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:02:13.367944+00:00
 -- url     : https://prove2.me/theorems/86586457-019a-4828-917a-bf2360bea1f5

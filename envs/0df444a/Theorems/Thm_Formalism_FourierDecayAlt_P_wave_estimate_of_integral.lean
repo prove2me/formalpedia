@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_wave_estimate_of_integral
 -- name    : Formalism.FourierDecayAlt.P.wave_estimate_of_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:40:08.17456+00:00
 -- url     : https://prove2.me/theorems/a6ba7fc3-bdaa-45ef-82b6-da3615deda2c

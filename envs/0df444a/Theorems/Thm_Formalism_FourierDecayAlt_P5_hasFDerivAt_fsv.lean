@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_hasFDerivAt_fsv
 -- name    : Formalism.FourierDecayAlt.P5.hasFDerivAt_fsv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:41:07.810895+00:00
 -- url     : https://prove2.me/theorems/bd20c555-2aa3-40ee-bea2-2c792061d590

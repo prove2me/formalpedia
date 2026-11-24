@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramSchmidtCont_continuousOn_inv_apply
 -- name    : GlobalTheory.GramSchmidtCont.continuousOn_inv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:56:47.663162+00:00
 -- url     : https://prove2.me/theorems/65d2c084-1384-4363-b250-828476515593

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_one_parameter_differentiable
 -- name    : Formalism.FourierDecayAlt.P.one_parameter_differentiable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:30:37.202802+00:00
 -- url     : https://prove2.me/theorems/11cb1aee-5436-4490-a78a-4677a09cf8a8

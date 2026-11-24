@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_coprime_QSd_q
 -- name    : Formalism.HC.HostRaw.coprime_QSd_q
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:29:44.217391+00:00
 -- url     : https://prove2.me/theorems/1b94da81-938b-4296-875c-d4ebc309f3c6

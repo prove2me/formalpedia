@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxIsoVertexCuts_Shredders_lemma_4_2
 -- name    : MaxIsoVertexCuts.Shredders.lemma_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T00:01:21.603881+00:00
 -- url     : https://prove2.me/theorems/78cdcc60-1fa6-46e8-8736-81775f539fc6

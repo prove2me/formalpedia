@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_semidirect_product_haar
 -- name    : Formalism.FourierDecayAlt.P.semidirect_product_haar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:39:51.352109+00:00
 -- url     : https://prove2.me/theorems/479c3237-4b9d-4572-af8b-f7f6985782d5

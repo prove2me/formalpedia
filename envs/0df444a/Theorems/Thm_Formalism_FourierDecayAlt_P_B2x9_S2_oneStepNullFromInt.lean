@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x9_S2_oneStepNullFromInt
 -- name    : Formalism.FourierDecayAlt.P.B2x9.S2.oneStepNullFromInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:00:03.165212+00:00
 -- url     : https://prove2.me/theorems/2bfd0f2b-de63-46f3-a508-fc5ac91d2829

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LieAlgebraWeightVectors_ffa_zeta_right
 -- name    : Formalism.FourierDecayAlt.Q.LieAlgebraWeightVectors.ffa_zeta_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:44:55.3488+00:00
 -- url     : https://prove2.me/theorems/ca59ea8f-a90c-43a4-a3de-1a43c32cfe86

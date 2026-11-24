@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_majorant_estimate
 -- name    : Formalism.FourierDecayAlt.P.majorant_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:48:14.066308+00:00
 -- url     : https://prove2.me/theorems/86b7a5eb-59f8-43d6-9693-4dda52831723

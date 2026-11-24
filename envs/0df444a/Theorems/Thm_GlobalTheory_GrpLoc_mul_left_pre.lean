@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpLoc_mul_left_pre
 -- name    : GlobalTheory.GrpLoc.mul_left_pre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:59:46.517834+00:00
 -- url     : https://prove2.me/theorems/084d4a0e-b6c2-4bd5-bcb6-b7cd5d3e58fc

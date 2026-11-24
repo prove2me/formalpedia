@@ -36687,7 +36687,7 @@
 {"parent": "GeoRobustLearn.lemma_6_2", "child": "GeoRobustLearn_BoundaryVolume", "via": ["statement"]}
 {"parent": "GeoRobustLearn.lemma_6_2", "child": "GeoRobustLearn_OracleMachine", "via": ["statement"]}
 {"parent": "GeoRobustLearn.lemma_6_2", "child": "GeoRobustLearn_DangerInterval", "via": ["statement"]}
-{"parent": "UnaryQuadraticKKT.Hardness.chain_unique", "child": "UnaryQuadraticKKT_Hardness_Chain", "via": ["statement"]}
+{"parent": "UnaryQuadraticKKT.Hardness.chain_unique", "child": "UnaryQuadraticKKT_Hardness_Chain", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.Numerical.U9.entry4_0_contains_g", "child": "OAIQ098G362", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.Numerical.U9.entry4_0_contains_g", "child": "OAIQ098G160", "via": ["solution", "statement"]}
 {"parent": "QEC_Coding_FiniteAlternatingConstruction_RXDecoderAdapter", "child": "QEC.Coding.BDL26RXLocalReplacement.rxPresentation_coboundary1_eq", "via": ["statement"]}
@@ -39204,7 +39204,7 @@
 {"parent": "QEC.Coding.BDL26RXDecoderAdapter.component_boundary_radius_one", "child": "QEC_Coding_FiniteAlternatingConstruction_RXDecoderAdapter_Decomposition", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RXDecoderAdapter.component_boundary_radius_one", "child": "QEC_Coding_FiniteAlternatingConstruction_RXDecoderAdapter_Graph", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.Numerical.U64.entry0_0_contains_g", "child": "OAIQ098G362", "via": ["solution", "statement"]}
-{"parent": "PrivGaussMS.lemma_A_2", "child": "PrivGaussMS_Basics", "via": ["statement"]}
+{"parent": "PrivGaussMS.lemma_A_2", "child": "PrivGaussMS_Basics", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.density1_r4_4_eq_g", "child": "OAIQ098G404", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.density1_r4_4_eq_g", "child": "OAIQ098G397", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26DecodingGraph.root_neighborhood", "child": "QEC_Coding_FiniteAlternatingConstruction_RXLocalReplacement", "via": ["solution", "statement"]}
@@ -40981,7 +40981,7 @@
 {"parent": "QEC.Coding.BDL26DecodingGraph.state_pair", "child": "QEC_Coding_FourDimensionalToricCode_Decoder_DirectedDistance", "via": ["solution", "statement"]}
 {"parent": "FasterDistributedMatching_ApproximateMatching_Basic", "child": "SemiStreamMWM_Graph", "via": ["statement"]}
 {"parent": "FasterDistributedMatching_ApproximateMatching_Basic", "child": "RandomOrderCRS_FractionalMatching", "via": ["statement"]}
-{"parent": "SunMinCut.Cactus.partition_strength_bounds", "child": "SunMinCut_Cactus_Graph", "via": ["statement"]}
+{"parent": "SunMinCut.Cactus.partition_strength_bounds", "child": "SunMinCut_Cactus_Graph", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.full_uniform_canonicalFirstZero_bound", "child": "OAI_NumberTheory_DirichletL_CubicSieve_DualZeroMode", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.full_uniform_canonicalFirstZero_bound", "child": "OAI_NumberTheory_DirichletL_MeanSquare_SourceRemainders", "via": ["solution", "statement"]}
 {"parent": "OAI.SecondPassArithmetic.globalCube_first_scalar_bound", "child": "OAI_NumberTheory_DirichletL_GaussSum_PowerfulParts", "via": ["solution", "statement"]}
@@ -47455,7 +47455,7 @@
 {"parent": "AvramDividend.Classical.avram_mix_annulus15_original_stopped_bounded_predictable_annulus_grid_L2_zero_mean", "child": "AvramDividend.Classical.avram_mix_annulus15_original_bounded_predictable_annulus_grid_L2_zero_mean", "via": ["solution", "statement"]}
 {"parent": "FasterDistributedMatching.ApproximateMatching.lemma_2_2", "child": "FasterDistributedMatching_ApproximateMatching_Routing", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.tableTerm36_contains_g", "child": "OAIQ098G397", "via": ["solution", "statement"]}
-{"parent": "MaxIsoVertexCuts.Shredders.lemma_4_2", "child": "MaxIsoVertexCuts_Shredders_CollectionTargets", "via": ["statement"]}
+{"parent": "MaxIsoVertexCuts.Shredders.lemma_4_2", "child": "MaxIsoVertexCuts_Shredders_CollectionTargets", "via": ["solution", "statement"]}
 {"parent": "SFLOracleLowerBound.Hardness.explicit_success_bound", "child": "SFLOracleLowerBound_Hardness_Oracle", "via": ["statement"]}
 {"parent": "OAI.InitialMeanSquare.initialHighRadialConstant_nonneg", "child": "OAI_NumberTheory_DirichletL_MeanSquare_DiagonalDensity", "via": ["solution", "statement"]}
 {"parent": "OAI.InitialMeanSquare.initialHighRadialConstant_nonneg", "child": "OAI_NumberTheory_DirichletL_MeanSquare_HighRadialBounds", "via": ["solution", "statement"]}

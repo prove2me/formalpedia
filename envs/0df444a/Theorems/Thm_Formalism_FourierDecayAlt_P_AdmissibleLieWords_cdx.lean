@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_AdmissibleLieWords_cdx
 -- name    : Formalism.FourierDecayAlt.P.AdmissibleLieWords.cdx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:50:16.377392+00:00
 -- url     : https://prove2.me/theorems/2bafae02-8f0f-42c5-abc5-80ec9c378cd3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadDeriv_dof_eq
 -- name    : GlobalTheory.QuadDeriv.dof_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:46:14.862024+00:00
 -- url     : https://prove2.me/theorems/a8f7009f-7ec2-4bf3-8ae9-0aaf8eaa3186

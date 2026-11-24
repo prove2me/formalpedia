@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpTangent_epsScale_zero
 -- name    : GlobalTheory.GrpTangent.epsScale_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:58:53.555801+00:00
 -- url     : https://prove2.me/theorems/f2aecac4-141f-4550-90d2-6de80b316a2d

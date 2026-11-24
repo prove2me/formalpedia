@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_conjugate_x_relation
 -- name    : PI.QnHermHaar.conjugate_x_relation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:40:33.704002+00:00
 -- url     : https://prove2.me/theorems/44a51bd9-0422-4532-b748-ca40f8045266

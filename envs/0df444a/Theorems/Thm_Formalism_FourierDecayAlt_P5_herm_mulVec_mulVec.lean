@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_herm_mulVec_mulVec
 -- name    : Formalism.FourierDecayAlt.P5.herm_mulVec_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:39:42.767627+00:00
 -- url     : https://prove2.me/theorems/86004bb7-f202-464f-987f-cb2a18dae0b8

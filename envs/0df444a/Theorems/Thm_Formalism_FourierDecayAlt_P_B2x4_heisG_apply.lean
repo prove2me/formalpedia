@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x4_heisG_apply
 -- name    : Formalism.FourierDecayAlt.P.B2x4.heisG_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:26:59.598803+00:00
 -- url     : https://prove2.me/theorems/d95404ac-9997-4409-9dff-e3441afc4b62

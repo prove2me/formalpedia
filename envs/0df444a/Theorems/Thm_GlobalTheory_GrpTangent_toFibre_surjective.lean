@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpTangent_toFibre_surjective
 -- name    : GlobalTheory.GrpTangent.toFibre_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:59:09.302335+00:00
 -- url     : https://prove2.me/theorems/61e51bf2-5527-42d3-ac4c-445660928166

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Orbit_IsIso_charpoly_eq_of_isIso
 -- name    : GlobalTheory.UnitLemma.Orbit.IsIso.charpoly_eq_of_isIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:47:48.357701+00:00
 -- url     : https://prove2.me/theorems/451cb296-d22f-4c19-87b6-7374871b97e3

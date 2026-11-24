@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_Adapted_coefB
 -- name    : Formalism.FourierDecayAlt.Q.Adapted.coefB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:44:16.370898+00:00
 -- url     : https://prove2.me/theorems/d820484c-777d-4605-95c9-28c5a6f5ac2e

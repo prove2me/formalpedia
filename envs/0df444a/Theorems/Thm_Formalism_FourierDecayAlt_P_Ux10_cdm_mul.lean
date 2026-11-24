@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux10_cdm_mul
 -- name    : Formalism.FourierDecayAlt.P.Ux10.cdm_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:10:54.316648+00:00
 -- url     : https://prove2.me/theorems/2ea7598c-ed22-4d15-8684-4e365f47eceb

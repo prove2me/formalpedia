@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_compactly_supported_monotone
 -- name    : Formalism.FourierDecayAlt.P.compactly_supported_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:38:43.958511+00:00
 -- url     : https://prove2.me/theorems/61baf769-db24-4afc-b8da-f615b09a242f

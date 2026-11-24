@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_c2x4_simpleUp_double
 -- name    : Formalism.FourierDecayAlt.P.c2x4_simpleUp_double
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:38:12.883202+00:00
 -- url     : https://prove2.me/theorems/33042415-8a82-403f-84e4-aa181a2dee74

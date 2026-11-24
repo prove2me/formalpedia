@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_averaging_vanishes
 -- name    : Formalism.FourierDecayAlt.P.averaging_vanishes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:15:10.344566+00:00
 -- url     : https://prove2.me/theorems/5ddf65b6-9096-44b2-8a2c-4c1295d8888c

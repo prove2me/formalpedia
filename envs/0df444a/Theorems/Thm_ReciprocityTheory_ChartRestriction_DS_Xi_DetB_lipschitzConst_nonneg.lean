@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_DetB_lipschitzConst_nonneg
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.DetB.lipschitzConst_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:53:23.81397+00:00
 -- url     : https://prove2.me/theorems/7ea190ff-5970-49ee-8b09-dbc84e375256

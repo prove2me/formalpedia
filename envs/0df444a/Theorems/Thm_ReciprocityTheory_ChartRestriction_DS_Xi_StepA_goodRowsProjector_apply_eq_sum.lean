@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_goodRowsProjector_apply_eq_sum
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.goodRowsProjector_apply_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:29:43.152887+00:00
 -- url     : https://prove2.me/theorems/3222ea25-91c6-49e7-8d5f-aedefa205e8c

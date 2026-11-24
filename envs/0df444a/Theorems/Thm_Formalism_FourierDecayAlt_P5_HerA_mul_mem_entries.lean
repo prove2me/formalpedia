@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_HerA_mul_mem_entries
 -- name    : Formalism.FourierDecayAlt.P5.HerA.mul_mem_entries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:41:00.600433+00:00
 -- url     : https://prove2.me/theorems/3d247889-a841-4c17-ac1c-a06e55c03318

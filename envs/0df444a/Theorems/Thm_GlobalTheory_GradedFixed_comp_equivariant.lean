@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GradedFixed_comp_equivariant
 -- name    : GlobalTheory.GradedFixed.comp_equivariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:56:47.209814+00:00
 -- url     : https://prove2.me/theorems/74cf95e6-72b4-4244-9fba-dd0b30c4833c

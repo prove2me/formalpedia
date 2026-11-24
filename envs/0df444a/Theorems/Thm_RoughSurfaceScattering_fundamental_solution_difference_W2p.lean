@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoughSurfaceScattering_fundamental_solution_difference_W2p
 -- name    : RoughSurfaceScattering.fundamental_solution_difference_W2p
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T20:57:37.946262+00:00
 -- url     : https://prove2.me/theorems/af815416-9d3d-4606-a619-b63dd1e22cd4

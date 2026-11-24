@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpLoc_range_of_isPullback
 -- name    : GlobalTheory.GrpLoc.range_of_isPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:59:36.356262+00:00
 -- url     : https://prove2.me/theorems/36ae78e1-140d-4ec1-8204-6b89255f8250

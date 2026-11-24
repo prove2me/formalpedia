@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_EabGlW_hpart_unique
 -- name    : Formalism.FourierDecayAlt.Q.EabGlW.hpart_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:45:25.47003+00:00
 -- url     : https://prove2.me/theorems/0e01174f-7086-4bc1-805b-837fdace33ab

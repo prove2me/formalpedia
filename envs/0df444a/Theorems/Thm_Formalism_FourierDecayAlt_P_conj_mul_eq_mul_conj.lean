@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_conj_mul_eq_mul_conj
 -- name    : Formalism.FourierDecayAlt.P.conj_mul_eq_mul_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:38:37.18139+00:00
 -- url     : https://prove2.me/theorems/efca0afe-f8b6-4d35-bb7f-484eaa78e1a2

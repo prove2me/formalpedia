@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_c2x3_det_mono_ne
 -- name    : Formalism.FourierDecayAlt.P.c2x3_det_mono_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:36:39.224835+00:00
 -- url     : https://prove2.me/theorems/e2910ddb-1e02-4787-bf46-e34c5952434f

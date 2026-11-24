@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SmoothnessOrderArithmetic_top_succ_le
 -- name    : Formalism.FourierDecayAlt.P.SmoothnessOrderArithmetic.top_succ_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:29:31.193867+00:00
 -- url     : https://prove2.me/theorems/4b2940be-f550-4645-8af9-b5b3da3a19c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_c2x2_simpleLow_succ
 -- name    : Formalism.FourierDecayAlt.P.c2x2_simpleLow_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:36:18.830324+00:00
 -- url     : https://prove2.me/theorems/76e44102-914d-4d38-b04c-9fb10e7fc24b

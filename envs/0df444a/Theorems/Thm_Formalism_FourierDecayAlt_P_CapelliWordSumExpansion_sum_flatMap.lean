@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CapelliWordSumExpansion_sum_flatMap
 -- name    : Formalism.FourierDecayAlt.P.CapelliWordSumExpansion.sum_flatMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:13:13.343245+00:00
 -- url     : https://prove2.me/theorems/9633abbc-5fd8-4f7b-baef-c54e9be0265b

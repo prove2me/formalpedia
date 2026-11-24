@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux6_le_max_zero_mul
 -- name    : Formalism.FourierDecayAlt.P.Ux6.le_max_zero_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:34:46.385261+00:00
 -- url     : https://prove2.me/theorems/019125ad-5f96-4f16-bd2f-78c3f21a3456

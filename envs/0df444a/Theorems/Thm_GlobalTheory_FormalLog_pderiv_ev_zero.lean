@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalLog_pderiv_ev_zero
 -- name    : GlobalTheory.FormalLog.pderiv_ev_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:59:42.533081+00:00
 -- url     : https://prove2.me/theorems/23b0dd81-7fbb-4d6e-96fd-1014c6aa5ba1

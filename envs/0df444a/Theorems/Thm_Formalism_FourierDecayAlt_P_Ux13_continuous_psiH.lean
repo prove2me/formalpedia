@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux13_continuous_psiH
 -- name    : Formalism.FourierDecayAlt.P.Ux13.continuous_psiH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:23:08.91918+00:00
 -- url     : https://prove2.me/theorems/c87b9371-6814-45f5-8d19-8301dd074747

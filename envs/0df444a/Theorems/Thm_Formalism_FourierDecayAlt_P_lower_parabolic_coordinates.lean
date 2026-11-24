@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_lower_parabolic_coordinates
 -- name    : Formalism.FourierDecayAlt.P.lower_parabolic_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:58:11.096924+00:00
 -- url     : https://prove2.me/theorems/98128146-81d5-4789-8ace-eaf3168c37d0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GtTorsionPoints_cF_eq
 -- name    : GlobalTheory.GtTorsionPoints.cF_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:00:08.482599+00:00
 -- url     : https://prove2.me/theorems/8dc90ed0-398b-40cb-8c0e-c9c69a834ee8

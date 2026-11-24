@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_Base_range_galEmb
 -- name    : UpperTheory.V.Base.range_galEmb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:38:33.199811+00:00
 -- url     : https://prove2.me/theorems/8abd6ec0-6242-4f69-a157-2b993e490e11

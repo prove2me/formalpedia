@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FreeQuotient_tame_descent
 -- name    : GlobalTheory.FreeQuotient.tame_descent
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:36:58.6298+00:00
 -- url     : https://prove2.me/theorems/46e886a9-9099-4b78-a5d9-d9f21e4c16d2

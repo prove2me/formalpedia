@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormFactor_slice_pos
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormFactor.slice_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:15:37.60051+00:00
 -- url     : https://prove2.me/theorems/28a06504-cec6-4224-9f55-191b4c61300d

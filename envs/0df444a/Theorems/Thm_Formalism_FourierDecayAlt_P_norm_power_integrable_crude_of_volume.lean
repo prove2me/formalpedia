@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_norm_power_integrable_crude_of_volume
 -- name    : Formalism.FourierDecayAlt.P.norm_power_integrable_crude_of_volume
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:39:50.053853+00:00
 -- url     : https://prove2.me/theorems/d993b576-ad84-483c-b133-4f7b9bfb1178

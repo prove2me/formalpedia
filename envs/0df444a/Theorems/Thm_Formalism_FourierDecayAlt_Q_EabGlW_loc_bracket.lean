@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_EabGlW_loc_bracket
 -- name    : Formalism.FourierDecayAlt.Q.EabGlW.loc_bracket
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:41:28.866139+00:00
 -- url     : https://prove2.me/theorems/fac16977-ed42-4776-b1bb-b78b28bd2565

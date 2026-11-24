@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrassModel_SuperTrace_pow_mul_left
 -- name    : GlobalTheory.GrassModel.SuperTrace.pow_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:57:34.424538+00:00
 -- url     : https://prove2.me/theorems/55fc8512-47c7-45c0-a596-2cb7bc556bb4

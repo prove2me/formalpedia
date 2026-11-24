@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToSplit_exists_unit_descent
 -- name    : GlobalTheory.ToSplit.exists_unit_descent
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:05:14.477643+00:00
 -- url     : https://prove2.me/theorems/2f6330c6-44ea-4b31-ae82-0259460cfbaf
