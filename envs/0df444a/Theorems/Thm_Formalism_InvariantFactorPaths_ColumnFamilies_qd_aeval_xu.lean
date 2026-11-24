@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qd_aeval_xu
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qd_aeval_xu
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:23:09.183795+00:00
 -- url     : https://prove2.me/theorems/b8e9f373-3064-40b3-aeab-a6b146e2843c

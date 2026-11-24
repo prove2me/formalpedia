@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_flipOneThree_Pf_ShapeCovering_first_column_polynomials_characterize
 -- name    : Formalism.MainNotions.flipOneThree.Pf.ShapeCovering.first_column_polynomials_characterize
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:55:47.970029+00:00
 -- url     : https://prove2.me/theorems/fab7a520-8ffa-41ee-927c-a7027ad87845

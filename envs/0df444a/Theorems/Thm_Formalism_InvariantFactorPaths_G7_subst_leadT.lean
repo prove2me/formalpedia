@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_subst_leadT
 -- name    : Formalism.InvariantFactorPaths.G7.subst_leadT
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:34.115801+00:00
 -- url     : https://prove2.me/theorems/da62d3de-2775-4ea3-bb47-f205653b0ef0

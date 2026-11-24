@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_ValuationParity_isLeast_val
 -- name    : Formalism.InvariantFactorPaths.G7.ValuationParity.isLeast_val
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:04.166168+00:00
 -- url     : https://prove2.me/theorems/5d4cec2b-0541-41b1-91f2-4dc3661f9f37

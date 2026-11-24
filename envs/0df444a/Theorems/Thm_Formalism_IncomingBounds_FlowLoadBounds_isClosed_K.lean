@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_FlowLoadBounds_isClosed_K
 -- name    : Formalism.IncomingBounds.FlowLoadBounds.isClosed_K
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:11:47.404734+00:00
 -- url     : https://prove2.me/theorems/a9d7711f-bd88-4310-bcdf-08fa084ba124

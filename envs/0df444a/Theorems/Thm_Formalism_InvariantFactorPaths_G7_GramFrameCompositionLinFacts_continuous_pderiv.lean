@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_GramFrameCompositionLinFacts_continuous_pderiv
 -- name    : Formalism.InvariantFactorPaths.G7.GramFrameCompositionLinFacts.continuous_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:27:53.078391+00:00
 -- url     : https://prove2.me/theorems/3bf8147a-2055-4eba-9aa0-b9087f5e0ce5

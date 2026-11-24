@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_GluingInclusion_loc_eq
 -- name    : Formalism.DivisionValues.GluingInclusion.loc_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:56:43.950971+00:00
 -- url     : https://prove2.me/theorems/91163365-1824-40df-8553-ea7cc878f152

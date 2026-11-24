@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_vectorCountBounds_card_preimage_piQ
 -- name    : Formalism.HermitianLattices.Ext.L3.vectorCountBounds.card_preimage_piQ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:24.746923+00:00
 -- url     : https://prove2.me/theorems/ca18fad9-8b5a-48af-a4d4-a2dd19ee9809

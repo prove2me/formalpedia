@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_TwoVariableSwapLemmas_constantCoeff_first_two_of_three
 -- name    : Formalism.InvariantFactorPaths.G7.TwoVariableSwapLemmas.constantCoeff_first_two_of_three
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:10.030312+00:00
 -- url     : https://prove2.me/theorems/9a13d79c-3376-4cfb-b661-a82c68713de6

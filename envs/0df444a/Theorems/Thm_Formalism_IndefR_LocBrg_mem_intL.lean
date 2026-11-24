@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LocBrg_mem_intL
 -- name    : Formalism.IndefR.LocBrg.mem_intL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:17:15.159235+00:00
 -- url     : https://prove2.me/theorems/ac0ce27b-ac84-4ebc-856e-ece5119e2ca2

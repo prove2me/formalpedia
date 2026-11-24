@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_genusCovol_ri_peel
 -- name    : Formalism.HermitianLatticesTheory.genusCovol_ri_peel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:44.270798+00:00
 -- url     : https://prove2.me/theorems/629de1fd-8b5f-424e-b6c5-31e855770b4d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qk_strUp_eq
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qk_strUp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:19:45.130865+00:00
 -- url     : https://prove2.me/theorems/49d5c19d-caec-408f-aa5e-c7da3b4c46b4

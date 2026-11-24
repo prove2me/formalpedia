@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_quotRealize
 -- name    : Formalism.HN.quotRealize
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:37.92162+00:00
 -- url     : https://prove2.me/theorems/eddf01e8-274e-4831-8d82-4e1fb30604da

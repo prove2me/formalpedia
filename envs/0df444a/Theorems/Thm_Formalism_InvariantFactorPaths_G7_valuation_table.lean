@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_valuation_table
 -- name    : Formalism.InvariantFactorPaths.G7.valuation_table
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:35:41.277647+00:00
 -- url     : https://prove2.me/theorems/39857009-2038-4fca-96bb-5303c9cc1d3d

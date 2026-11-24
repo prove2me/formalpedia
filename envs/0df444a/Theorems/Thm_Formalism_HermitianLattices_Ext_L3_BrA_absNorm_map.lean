@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BrA_absNorm_map
 -- name    : Formalism.HermitianLattices.Ext.L3.BrA.absNorm_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:04.423974+00:00
 -- url     : https://prove2.me/theorems/da5581ff-4ec7-47d7-9a99-1ae3bff534d6

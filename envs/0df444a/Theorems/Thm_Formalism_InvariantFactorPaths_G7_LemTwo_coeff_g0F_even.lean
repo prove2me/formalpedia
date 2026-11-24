@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LemTwo_coeff_g0F_even
 -- name    : Formalism.InvariantFactorPaths.G7.LemTwo.coeff_g0F_even
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:00.561233+00:00
 -- url     : https://prove2.me/theorems/8cb82601-30e9-42ed-bc30-a5215a9ca4f0

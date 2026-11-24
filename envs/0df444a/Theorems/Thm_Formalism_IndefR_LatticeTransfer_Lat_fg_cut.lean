@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_Lat_fg_cut
 -- name    : Formalism.IndefR.LatticeTransfer.Lat.fg_cut
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:17:11.137645+00:00
 -- url     : https://prove2.me/theorems/1099e876-e86a-43b9-9533-a73e752be144

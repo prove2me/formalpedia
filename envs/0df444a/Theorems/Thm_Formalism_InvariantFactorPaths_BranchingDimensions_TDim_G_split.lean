@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_TDim_G_split
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.TDim.G_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:20.753311+00:00
 -- url     : https://prove2.me/theorems/8fc48ea8-49f0-4601-beca-39e7f9f9002a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BrA_sSup_le_pow
 -- name    : Formalism.HermitianLattices.Ext.L3.BrA.sSup_le_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:18.987143+00:00
 -- url     : https://prove2.me/theorems/f63d7bbc-338e-4328-b05d-c3f75b4ee73e

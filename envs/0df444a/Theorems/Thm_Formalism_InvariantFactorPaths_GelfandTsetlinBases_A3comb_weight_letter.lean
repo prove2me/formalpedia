@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A3comb_weight_letter
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.A3comb.weight_letter
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:31.640292+00:00
 -- url     : https://prove2.me/theorems/2799db19-40c9-4ae7-b213-8180f6aaffcf

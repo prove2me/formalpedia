@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_Lat_smul_mem_cut
 -- name    : Formalism.IndefR.LatticeTransfer.Lat.smul_mem_cut
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:17:13.422142+00:00
 -- url     : https://prove2.me/theorems/32331718-7ac5-46c6-b1df-b0008332a7b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qd_trans_det
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qd_trans_det
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:19:48.888839+00:00
 -- url     : https://prove2.me/theorems/66fa45fb-b674-439f-83f5-00198bb1fddf

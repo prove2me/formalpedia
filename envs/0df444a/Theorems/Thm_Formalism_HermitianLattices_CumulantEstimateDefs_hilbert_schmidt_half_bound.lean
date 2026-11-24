@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_hilbert_schmidt_half_bound
 -- name    : Formalism.HermitianLattices.CumulantEstimateDefs.hilbert_schmidt_half_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:22.825451+00:00
 -- url     : https://prove2.me/theorems/cb7f996d-9743-44c1-8075-ab182740fb32

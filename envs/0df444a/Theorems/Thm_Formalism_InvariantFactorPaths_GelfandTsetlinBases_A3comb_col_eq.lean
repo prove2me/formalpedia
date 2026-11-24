@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A3comb_col_eq
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.A3comb.col_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:31.326602+00:00
 -- url     : https://prove2.me/theorems/e1cab08a-fbcf-4522-b9ad-0a69b078bc10

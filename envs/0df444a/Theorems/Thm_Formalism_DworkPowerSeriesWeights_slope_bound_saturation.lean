@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_slope_bound_saturation
 -- name    : Formalism.DworkPowerSeriesWeights.slope_bound_saturation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:58:55.122604+00:00
 -- url     : https://prove2.me/theorems/7320a426-eae2-4a23-8c03-606bd66b79e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SlopeSteps_nabla_operator_basis
 -- name    : PI.SlopeSteps.nabla_operator_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:35:14.188585+00:00
 -- url     : https://prove2.me/theorems/7a4be0df-cfe2-42e8-90be-1af0525b1a90

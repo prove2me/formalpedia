@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_majDual_re
 -- name    : Formalism.HermitianLatticesTheory.majDual_re
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:05:01.06302+00:00
 -- url     : https://prove2.me/theorems/c32dce4f-a2e3-448e-9155-020a952b5d71

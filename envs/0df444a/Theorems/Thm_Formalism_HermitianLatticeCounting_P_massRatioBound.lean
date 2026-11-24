@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_massRatioBound
 -- name    : Formalism.HermitianLatticeCounting.P.massRatioBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:57.63908+00:00
 -- url     : https://prove2.me/theorems/a1984724-b100-4481-93e2-e684653e7655

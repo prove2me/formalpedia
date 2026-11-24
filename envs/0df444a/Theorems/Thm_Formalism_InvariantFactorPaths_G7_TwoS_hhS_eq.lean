@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_TwoS_hhS_eq
 -- name    : Formalism.InvariantFactorPaths.G7.TwoS.hhS_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:13.784803+00:00
 -- url     : https://prove2.me/theorems/0d25bed5-15de-4a13-b430-24f4c8a2ecfa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_classSetAssembly_trace_int
 -- name    : Formalism.HermitianLatticesTheory.classSetAssembly_trace_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:11:26.254381+00:00
 -- url     : https://prove2.me/theorems/5607d1f9-b9b7-4547-bac9-52adf7ade919

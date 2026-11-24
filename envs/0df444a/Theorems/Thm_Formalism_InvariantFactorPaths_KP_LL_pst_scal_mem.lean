@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_LL_pst_scal_mem
 -- name    : Formalism.InvariantFactorPaths.KP.LL.pst_scal_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:36:41.460456+00:00
 -- url     : https://prove2.me/theorems/2af82aeb-b861-43a0-ae45-aec9ce03249e

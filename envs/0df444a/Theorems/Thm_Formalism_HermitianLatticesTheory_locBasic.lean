@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_locBasic
 -- name    : Formalism.HermitianLatticesTheory.locBasic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:42:41.825842+00:00
 -- url     : https://prove2.me/theorems/d3afd02b-ffee-420c-bc60-56c63812ffc3

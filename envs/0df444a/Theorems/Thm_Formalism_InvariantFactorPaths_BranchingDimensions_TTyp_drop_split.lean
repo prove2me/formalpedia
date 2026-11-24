@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_TTyp_drop_split
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.TTyp.drop_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:18.098428+00:00
 -- url     : https://prove2.me/theorems/ff25bd2b-1045-495a-af1c-d50724d28321

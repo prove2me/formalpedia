@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_TTyp_sum_lat
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.TTyp.sum_lat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:20:22.308723+00:00
 -- url     : https://prove2.me/theorems/ab7e7eac-6c1b-432c-96cd-cd42e6d58bb3

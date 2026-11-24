@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_coeff_pderiv_pow
 -- name    : Formalism.InvariantFactorPaths.L4.coeff_pderiv_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:01.364846+00:00
 -- url     : https://prove2.me/theorems/c742ecf9-c7a2-4f65-9773-22ec2871f832

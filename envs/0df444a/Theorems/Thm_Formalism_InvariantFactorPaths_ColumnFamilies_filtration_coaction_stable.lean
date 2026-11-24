@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_filtration_coaction_stable
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.filtration_coaction_stable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:20:55.539644+00:00
 -- url     : https://prove2.me/theorems/ce1eea26-3aaf-43b1-8a42-945dbd4ae335

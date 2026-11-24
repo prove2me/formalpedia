@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_Lat_Tr_yx_sum
 -- name    : Formalism.IndefR.LatticeTransfer.Lat.Tr.yx_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:17:13.146477+00:00
 -- url     : https://prove2.me/theorems/bb67f238-e2c3-41f2-a4e9-58e9f481c191

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_cappedGainBound
 -- name    : Formalism.InvariantFactorPaths.G7.cappedGainBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:41.039696+00:00
 -- url     : https://prove2.me/theorems/c09dfbf5-102d-4b75-9945-3a316be6a579

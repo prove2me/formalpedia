@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_cc_rec
 -- name    : Formalism.InvariantFactorPaths.PW.cc_rec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:59.4946+00:00
 -- url     : https://prove2.me/theorems/0948fe3e-e467-4c50-b18e-d6b4e8ab22c0

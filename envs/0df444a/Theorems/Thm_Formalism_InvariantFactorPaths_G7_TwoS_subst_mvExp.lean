@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_TwoS_subst_mvExp
 -- name    : Formalism.InvariantFactorPaths.G7.TwoS.subst_mvExp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:34.381593+00:00
 -- url     : https://prove2.me/theorems/e7c9dc5a-a44c-472b-8928-447503676b0b

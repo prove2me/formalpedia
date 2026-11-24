@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_integralBasisSpans_eM_mulVec
 -- name    : Formalism.HermitianLattices.Ext.L3.integralBasisSpans.eM_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:51:42.031808+00:00
 -- url     : https://prove2.me/theorems/7c899f3f-751e-4bf2-a258-d6231bc20185

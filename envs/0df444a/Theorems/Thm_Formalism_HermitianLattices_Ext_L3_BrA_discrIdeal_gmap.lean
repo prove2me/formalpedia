@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BrA_discrIdeal_gmap
 -- name    : Formalism.HermitianLattices.Ext.L3.BrA.discrIdeal_gmap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:19.115896+00:00
 -- url     : https://prove2.me/theorems/c6c72400-2b90-4a97-b340-aa33cd7ee74d

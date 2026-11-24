@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Leaf_Proofs_piStatement_holds
 -- name    : Formalism.IndefR.Leaf.Proofs.piStatement_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:17:08.572806+00:00
 -- url     : https://prove2.me/theorems/16152785-48ad-4069-903f-5f019bc664c3

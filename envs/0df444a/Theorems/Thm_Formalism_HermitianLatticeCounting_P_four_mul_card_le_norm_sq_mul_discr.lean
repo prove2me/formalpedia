@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_four_mul_card_le_norm_sq_mul_discr
 -- name    : Formalism.HermitianLatticeCounting.P.four_mul_card_le_norm_sq_mul_discr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:03:21.390322+00:00
 -- url     : https://prove2.me/theorems/280ac880-bcaa-407f-9c6b-9e43fb8f889a

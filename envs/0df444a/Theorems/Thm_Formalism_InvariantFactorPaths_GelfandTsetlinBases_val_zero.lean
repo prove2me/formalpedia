@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_val_zero
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.val_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:35:45.007149+00:00
 -- url     : https://prove2.me/theorems/2d0cd29c-f330-431c-9bf5-89542afb840b

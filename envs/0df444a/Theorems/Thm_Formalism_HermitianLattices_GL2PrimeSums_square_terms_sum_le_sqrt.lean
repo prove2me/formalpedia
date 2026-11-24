@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GL2PrimeSums_square_terms_sum_le_sqrt
 -- name    : Formalism.HermitianLattices.GL2PrimeSums.square_terms_sum_le_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:02:57.503984+00:00
 -- url     : https://prove2.me/theorems/4f912f1e-2412-4705-84ea-dfc8d773b551

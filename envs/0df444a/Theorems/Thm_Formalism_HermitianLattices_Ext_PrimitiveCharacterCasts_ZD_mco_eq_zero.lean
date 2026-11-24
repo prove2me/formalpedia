@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimitiveCharacterCasts_ZD_mco_eq_zero
 -- name    : Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.ZD.mco_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:37.520524+00:00
 -- url     : https://prove2.me/theorems/2560f414-9250-42b9-bf4f-4ec0f1266b95

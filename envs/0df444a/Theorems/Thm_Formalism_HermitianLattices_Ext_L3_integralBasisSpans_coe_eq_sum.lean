@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_integralBasisSpans_coe_eq_sum
 -- name    : Formalism.HermitianLattices.Ext.L3.integralBasisSpans.coe_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:51:30.312627+00:00
 -- url     : https://prove2.me/theorems/b76fb700-48ea-45ca-a435-f18973cbd73c

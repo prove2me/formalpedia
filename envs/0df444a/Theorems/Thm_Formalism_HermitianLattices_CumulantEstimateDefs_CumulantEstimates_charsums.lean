@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_CumulantEstimates_charsums
 -- name    : Formalism.HermitianLattices.CumulantEstimateDefs.CumulantEstimates.charsums
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:09.040587+00:00
 -- url     : https://prove2.me/theorems/8624020a-b265-4e41-9760-b599609d460e

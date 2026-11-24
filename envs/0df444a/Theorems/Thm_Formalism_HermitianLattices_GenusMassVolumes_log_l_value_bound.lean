@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GenusMassVolumes_log_l_value_bound
 -- name    : Formalism.HermitianLattices.GenusMassVolumes.log_l_value_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:16.533892+00:00
 -- url     : https://prove2.me/theorems/d1ee77d3-e564-46c9-a12d-986164f2ea11

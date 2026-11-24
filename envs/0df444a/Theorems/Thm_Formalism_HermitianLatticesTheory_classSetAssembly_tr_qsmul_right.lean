@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_classSetAssembly_tr_qsmul_right
 -- name    : Formalism.HermitianLatticesTheory.classSetAssembly_tr_qsmul_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:11:21.725853+00:00
 -- url     : https://prove2.me/theorems/3c358744-9016-479c-a942-23bfb299c5b1

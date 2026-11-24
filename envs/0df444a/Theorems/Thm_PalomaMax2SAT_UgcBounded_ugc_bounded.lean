@@ -5,9 +5,19 @@
 -- created : 2026-11-23T06:18:04.908182+00:00
 -- url     : https://prove2.me/theorems/3ca93908-150c-4b65-9e9e-94d9884fe07a
 -- title:
---   The cut-to-formula pipeline exceeds the Unique Games thresholds for bounded-degree graphs (0.9932 > 83/84)
+--   Bounded-degree MAX-CUT and MAX-E2LIN(2): the three-occurrence lift exceeds the Unique Games thresholds ($0.9932>83/84$)
 -- statement:
---   Let $\beta^\star=0.94016567$ and $\alpha^*=0.94615981$ be the Unique Games thresholds for MAX 2-SAT and weighted MAX-$\{1,2\}$-HORN-SAT; then $\beta^\star<\alpha^*<\tfrac{83}{84}<0.9932$. Let $G$ be a graph with $n$ vertices and $m$ edges given by its edge list, and let $H(G)$ be the conflict graph of the MAX 2-SAT formula $F_G$ (edge clauses $x_u\vee x_v$ and $\neg x_u\vee\neg x_v$), whose vertices are the $4m$ literal occurrences. (1) For every vertex set $S$, the occurrences selected by $S$ form an independent set of $H(G)$ of size $m+\operatorname{cut}(S)$, and if $\operatorname{maxcut}(G)=c^*$ then $\alpha(H(G))=m+c^*$. (2) If every vertex of $G$ has degree at most $\Delta$, every vertex of $H(G)$ has degree at most $\Delta+1$. (3) For every $G$, the degrees of $H(G)$ add up to $4m+2\sum_v\deg_G(v)^2$, so $H(G)$ has $M\ge4m$ edges. (4) If $N=4m$, $B=N+3M$, $M\ge4m$, $\alpha\le2m$ and $18785\,\alpha\le20000\,s$, then $9932\,(B+\alpha)\le10000\,(B+s)$ and $83\,(B+\alpha)\le84\,(B+s)$. (5) For every graph $H$ with $n$ vertices and $m$ edges, degrees $d_v$ and a port labelling, the formula $T_H$ has $\sum_v d_v=2m$ and $\sum_v(d_v+1)+m=n+3m$; its optimum is $\sum_v(d_v+1)+m+\alpha(H)$, the lift of an independent set $I$ satisfies exactly $\sum_v(d_v+1)+m+|I|$ clauses, and if $8\alpha(H)\le\sum_v(d_v+1)+m$ and $18785\,\alpha(H)\le20000\,|I|$ the lift satisfies at least $9932/10000>83/84$ of the optimum. A Goemans--Williamson cut has $\mathrm{cut}\ge0.8785\,c^*$, which gives the hypothesis on $|I|$ through (1). The Goemans--Williamson guarantee, the polynomial running time, the identification of $T_{H(G)}$ with an instance of (5) and the Unique Games hardness thresholds are cited in the paper and are not formalized; the thresholds quantify over all instances, so the statement is consistent with the Unique Games Conjecture.
+--   The Unique Games Conjecture limits the approximability of $\mathrm{MAX\text{-}2SAT}$ to $\beta^\star\approx 0.94016567$ and of weighted $\mathrm{MAX\text{-}}\{1,2\}\text{-}\mathrm{HORN\text{-}SAT}$ to $\alpha^*\approx 0.94615981$ on general instances. This theorem shows that a graph $G$ of maximum degree $d$ (a $\mathrm{MAX\text{-}CUT}$ or $\mathrm{MAX\text{-}E2LIN}(2)$ instance) can be encoded as a three-occurrence formula $T_{H(G)}$ whose optimum is approximated within a factor above $0.9932>\tfrac{83}{84}$, which exceeds both thresholds.
+--
+--   The formalized statement says:
+--
+--   - The thresholds are ordered: $0.94016567<0.94615981<\tfrac{83}{84}<0.9932$.
+--   - For a graph $G$ with $m$ edges, every vertex set $S$ selects an independent set of the conflict graph $H(G)$ of size $m+\mathrm{cut}(S)$, and the independence number of $H(G)$ is $m+\mathrm{maxcut}(G)$.
+--   - If $G$ has maximum degree at most $d$, then $H(G)$ has maximum degree at most $d+1$, and the degrees of $H(G)$ add up to $4m+2\sum_v\deg(v)^2$, so $H(G)$ has at least $4m$ edges.
+--   - An independent set of size $s$ with $18785\,\alpha\le 20000\,s$ lifts to an assignment satisfying at least $0.9932$ (hence at least $\tfrac{83}{84}$) of the optimum of the formula.
+--   - For the formula $T_H$ of any port-labelled graph with vertex degrees $d_v$, the optimum is $\sum_v(d_v+1)+m+\alpha$, and the lift of an independent set $I$ satisfies $\sum_v(d_v+1)+m+|I|$ clauses.
+--
+--   The Goemans--Williamson cut guarantee, the running times, the Unique Games hardness thresholds, and the identification of $T_{H(G)}$ with a port-labelled graph are not formalized.
 -- source:
 --   https://github.com/frankvegadelgado/paloma/blob/191031e24787dadd84d6c28096c4e3141f9125be/doc/paper.tex#L336
 

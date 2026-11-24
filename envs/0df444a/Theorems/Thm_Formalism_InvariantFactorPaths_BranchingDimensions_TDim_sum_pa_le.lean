@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_TDim_sum_pa_le
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.TDim.sum_pa_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:25.336799+00:00
 -- url     : https://prove2.me/theorems/16c4ae92-13bd-44f8-921d-cb214780aca1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_classSetAssembly_le_Q
 -- name    : Formalism.HermitianLatticesTheory.classSetAssembly_le_Q
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:11:18.191803+00:00
 -- url     : https://prove2.me/theorems/e2544987-a15e-4cf9-b79c-3381e5e880c0

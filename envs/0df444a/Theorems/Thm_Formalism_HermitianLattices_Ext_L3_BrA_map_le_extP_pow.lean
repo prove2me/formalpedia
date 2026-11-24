@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BrA_map_le_extP_pow
 -- name    : Formalism.HermitianLattices.Ext.L3.BrA.map_le_extP_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:00.48795+00:00
 -- url     : https://prove2.me/theorems/a369a300-46d3-417b-9ba1-c621b7d4279b

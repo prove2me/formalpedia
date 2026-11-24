@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_A5_sum_eq_tsum
 -- name    : Formalism.HermitianLattices.Ext.L3.A5.sum_eq_tsum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:44:18.647839+00:00
 -- url     : https://prove2.me/theorems/79dc6fb6-8d04-478b-9d7c-931a9acb55ba

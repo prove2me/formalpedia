@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_excessGainBound
 -- name    : Formalism.InvariantFactorPaths.G7.excessGainBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:46.907498+00:00
 -- url     : https://prove2.me/theorems/b0d757a0-45ce-4e79-85f9-f944a1455307

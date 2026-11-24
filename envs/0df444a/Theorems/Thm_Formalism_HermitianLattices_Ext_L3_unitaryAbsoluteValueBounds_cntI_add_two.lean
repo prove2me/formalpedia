@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_unitaryAbsoluteValueBounds_cntI_add_two
 -- name    : Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.cntI_add_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:18:20.270855+00:00
 -- url     : https://prove2.me/theorems/f3f6a4f5-fd4d-4520-b5f5-6441ebbceae8

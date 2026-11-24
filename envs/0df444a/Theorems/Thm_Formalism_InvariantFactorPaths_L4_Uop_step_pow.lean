@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_Uop_step_pow
 -- name    : Formalism.InvariantFactorPaths.L4.Uop_step_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:21.104091+00:00
 -- url     : https://prove2.me/theorems/83552728-344d-47b4-8c4f-e0ac8959777b

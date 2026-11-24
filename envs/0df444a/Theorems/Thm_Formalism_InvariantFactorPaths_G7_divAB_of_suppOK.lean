@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_divAB_of_suppOK
 -- name    : Formalism.InvariantFactorPaths.G7.divAB_of_suppOK
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:32.749297+00:00
 -- url     : https://prove2.me/theorems/2d12218f-0ecb-4fbd-8fdb-237e432dc657

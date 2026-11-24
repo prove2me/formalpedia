@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_InP_mono
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.InP.mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:28.470012+00:00
 -- url     : https://prove2.me/theorems/75529c05-7dc1-4ee4-b098-a0c8e3c6cbc8

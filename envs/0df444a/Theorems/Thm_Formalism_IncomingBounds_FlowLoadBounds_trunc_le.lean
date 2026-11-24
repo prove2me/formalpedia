@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_FlowLoadBounds_trunc_le
 -- name    : Formalism.IncomingBounds.FlowLoadBounds.trunc_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:45:26.38478+00:00
 -- url     : https://prove2.me/theorems/08e80d1c-2f5a-45f3-acbb-6770b63bd797

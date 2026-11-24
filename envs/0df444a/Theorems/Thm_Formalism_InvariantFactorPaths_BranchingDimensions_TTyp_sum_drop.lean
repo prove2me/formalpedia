@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_TTyp_sum_drop
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.TTyp.sum_drop
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:20:03.319324+00:00
 -- url     : https://prove2.me/theorems/faef33c5-4a3a-4680-af62-bfc8dda7d8c4

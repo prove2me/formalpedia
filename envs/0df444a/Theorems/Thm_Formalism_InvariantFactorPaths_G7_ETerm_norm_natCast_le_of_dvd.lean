@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_ETerm_norm_natCast_le_of_dvd
 -- name    : Formalism.InvariantFactorPaths.G7.ETerm.norm_natCast_le_of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:27:58.162357+00:00
 -- url     : https://prove2.me/theorems/8ae2013a-5581-4a1e-a901-edd7de1c4951

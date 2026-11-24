@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BoxSum_gW_smul
 -- name    : Formalism.HermitianLattices.Ext.L3.BoxSum.gW_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:46:59.949728+00:00
 -- url     : https://prove2.me/theorems/fd9abdc8-f94d-41df-a0ac-68a5f930200b

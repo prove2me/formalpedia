@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Eqv_two_le_inf
 -- name    : Formalism.IndefR.Eqv.two_le_inf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:27.733275+00:00
 -- url     : https://prove2.me/theorems/2cc84f78-430a-4b75-bdb8-2118ec126b47

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallB_normD_mul_relIndex
 -- name    : Formalism.HermitianLattices.Ext.L3.BallB.normD_mul_relIndex
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:45:26.576247+00:00
 -- url     : https://prove2.me/theorems/855c2666-ede5-44e4-bd2e-26bc1c9f2752

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_Lat_log_le_half
 -- name    : Formalism.IndefR.LatticeTransfer.Lat.log_le_half
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:19:03.347174+00:00
 -- url     : https://prove2.me/theorems/f059e35c-4f14-4fd6-81fe-0376f98447f2

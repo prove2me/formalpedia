@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LemOne_lg_low
 -- name    : Formalism.InvariantFactorPaths.G7.LemOne.lg_low
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:32:39.926816+00:00
 -- url     : https://prove2.me/theorems/d62d0f08-730b-4389-ac13-836740c1e164

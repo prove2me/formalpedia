@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_coeff_frobVar_AA_of
 -- name    : Formalism.InvariantFactorPaths.G7.coeff_frobVar_AA_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:31.461295+00:00
 -- url     : https://prove2.me/theorems/fbb61597-712e-491d-a890-4a1cc0dfe491

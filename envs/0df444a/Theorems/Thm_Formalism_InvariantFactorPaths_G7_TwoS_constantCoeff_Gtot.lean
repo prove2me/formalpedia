@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_TwoS_constantCoeff_Gtot
 -- name    : Formalism.InvariantFactorPaths.G7.TwoS.constantCoeff_Gtot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:53:58.845398+00:00
 -- url     : https://prove2.me/theorems/a3f6db62-1117-4cc3-9dcb-187323ca73a1

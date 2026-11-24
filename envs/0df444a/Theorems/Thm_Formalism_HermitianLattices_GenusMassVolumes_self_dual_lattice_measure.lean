@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GenusMassVolumes_self_dual_lattice_measure
 -- name    : Formalism.HermitianLattices.GenusMassVolumes.self_dual_lattice_measure
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:00.378093+00:00
 -- url     : https://prove2.me/theorems/d4281cd6-dd6f-471e-bdb2-2801d9076725

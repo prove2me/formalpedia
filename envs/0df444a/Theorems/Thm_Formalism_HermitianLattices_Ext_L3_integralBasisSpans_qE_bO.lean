@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_integralBasisSpans_qE_bO
 -- name    : Formalism.HermitianLattices.Ext.L3.integralBasisSpans.qE_bO
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:51:18.423911+00:00
 -- url     : https://prove2.me/theorems/7fa29a4c-b44c-494d-9202-afadd89b7430

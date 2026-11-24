@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_Branch_sum_Ico_int_sub
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.Branch.sum_Ico_int_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:19:57.200248+00:00
 -- url     : https://prove2.me/theorems/d3fcbbc5-56a6-4377-895c-b8ba34f8862c

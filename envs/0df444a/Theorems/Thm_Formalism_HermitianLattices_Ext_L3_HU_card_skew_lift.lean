@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_card_skew_lift
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.card_skew_lift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:08.415984+00:00
 -- url     : https://prove2.me/theorems/e67d195e-5c2f-429d-98ff-44425fbebff4

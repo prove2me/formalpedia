@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_GramFrameCompositionLinFacts_integral_single_log_derivative
 -- name    : Formalism.InvariantFactorPaths.G7.GramFrameCompositionLinFacts.integral_single_log_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:03.705483+00:00
 -- url     : https://prove2.me/theorems/26e20138-68c7-418a-b170-dc9a825cb49b

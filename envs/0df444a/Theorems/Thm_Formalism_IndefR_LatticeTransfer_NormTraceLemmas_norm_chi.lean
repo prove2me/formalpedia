@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_NormTraceLemmas_norm_chi
 -- name    : Formalism.IndefR.LatticeTransfer.NormTraceLemmas.norm_chi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:03.694194+00:00
 -- url     : https://prove2.me/theorems/eac8007c-453a-4894-858e-6134a06a58da

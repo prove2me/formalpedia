@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_piK_add
 -- name    : Formalism.IndefR.Fin.Four.piK_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:16.339791+00:00
 -- url     : https://prove2.me/theorems/97162596-e35a-4175-93aa-84616d3a6420

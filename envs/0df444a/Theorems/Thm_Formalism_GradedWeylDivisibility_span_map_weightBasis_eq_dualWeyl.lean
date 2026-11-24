@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_span_map_weightBasis_eq_dualWeyl
 -- name    : Formalism.GradedWeylDivisibility.span_map_weightBasis_eq_dualWeyl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:54:20.334496+00:00
 -- url     : https://prove2.me/theorems/64b3d62d-9901-4f01-b9db-2b41e668c9cb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimitiveCharacterCasts_ZD_pair_sum_bound
 -- name    : Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.ZD.pair_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:49.203414+00:00
 -- url     : https://prove2.me/theorems/981162f2-71d2-4862-b33a-e64f419a8f26

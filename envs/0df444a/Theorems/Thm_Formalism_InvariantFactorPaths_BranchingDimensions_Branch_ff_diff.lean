@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_Branch_ff_diff
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.Branch.ff_diff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:15.287841+00:00
 -- url     : https://prove2.me/theorems/25870ae6-f376-44e8-b9d8-18588c27b424

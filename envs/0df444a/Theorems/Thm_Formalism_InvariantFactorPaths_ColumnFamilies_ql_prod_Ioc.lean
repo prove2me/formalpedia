@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_ql_prod_Ioc
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.ql_prod_Ioc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:20:34.455849+00:00
 -- url     : https://prove2.me/theorems/2b037365-2754-415f-bcc6-a2be2b3a2379

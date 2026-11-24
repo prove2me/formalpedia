@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qn_prod_pt
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qn_prod_pt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:26:47.573902+00:00
 -- url     : https://prove2.me/theorems/5b4a519a-180d-4270-aa32-9021fc10e54a

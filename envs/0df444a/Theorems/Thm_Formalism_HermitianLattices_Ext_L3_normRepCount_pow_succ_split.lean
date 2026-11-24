@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_normRepCount_pow_succ_split
 -- name    : Formalism.HermitianLattices.Ext.L3.normRepCount_pow_succ_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:55:47.886054+00:00
 -- url     : https://prove2.me/theorems/7d1eabeb-d659-4c2d-aa3b-547bf3c8e498

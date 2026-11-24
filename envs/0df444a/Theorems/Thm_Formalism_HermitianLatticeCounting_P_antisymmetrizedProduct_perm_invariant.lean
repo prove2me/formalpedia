@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_antisymmetrizedProduct_perm_invariant
 -- name    : Formalism.HermitianLatticeCounting.P.antisymmetrizedProduct_perm_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:32.802807+00:00
 -- url     : https://prove2.me/theorems/b44eb96d-a321-4da1-ba4c-5a3dd12b02e2

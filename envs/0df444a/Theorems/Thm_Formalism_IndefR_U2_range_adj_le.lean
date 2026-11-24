@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_U2_range_adj_le
 -- name    : Formalism.IndefR.U2.range_adj_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:20:14.189018+00:00
 -- url     : https://prove2.me/theorems/6691bcb0-4b09-465c-8778-aa99ad43efa7

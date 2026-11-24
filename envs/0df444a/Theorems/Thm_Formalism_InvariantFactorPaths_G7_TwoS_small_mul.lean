@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_TwoS_small_mul
 -- name    : Formalism.InvariantFactorPaths.G7.TwoS.small_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:39.823684+00:00
 -- url     : https://prove2.me/theorems/cb830208-d15e-4a6b-ba84-e7f78637181c

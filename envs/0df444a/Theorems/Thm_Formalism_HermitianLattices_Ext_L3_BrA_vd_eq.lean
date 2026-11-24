@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BrA_vd_eq
 -- name    : Formalism.HermitianLattices.Ext.L3.BrA.vd_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:54:54.525984+00:00
 -- url     : https://prove2.me/theorems/fe46ce58-24ef-44c6-b62c-bb0cec6eeff2

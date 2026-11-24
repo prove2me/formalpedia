@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_CoboundarySeries_constantCoeff_first_two_of_three
 -- name    : Formalism.InvariantFactorPaths.G7.CoboundarySeries.constantCoeff_first_two_of_three
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:26:05.432944+00:00
 -- url     : https://prove2.me/theorems/9060fbfa-b96c-47cd-9b53-ed67eb035263

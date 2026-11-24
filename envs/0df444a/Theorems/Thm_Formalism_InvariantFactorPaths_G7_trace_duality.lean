@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_trace_duality
 -- name    : Formalism.InvariantFactorPaths.G7.trace_duality
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:30.942869+00:00
 -- url     : https://prove2.me/theorems/c998e56b-2388-45e4-889d-c1d459f1ae9c

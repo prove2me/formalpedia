@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_contrF_add
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.contrF_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:35:07.831999+00:00
 -- url     : https://prove2.me/theorems/6e3a8c2d-75e6-47ee-98d6-082bd13a0deb

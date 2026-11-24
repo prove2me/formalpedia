@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A3comb_strip_bound
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.A3comb.strip_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:34.249741+00:00
 -- url     : https://prove2.me/theorems/45528703-e2bc-476b-8b84-1f70591b9798

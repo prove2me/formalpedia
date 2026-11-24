@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_Branch_ff_zero
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.Branch.ff_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:20.295419+00:00
 -- url     : https://prove2.me/theorems/bdad11c4-778d-4da9-8fac-a7baa529078e

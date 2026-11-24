@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_ParitySumsOverFilteredPairs_iN_mul_le
 -- name    : Formalism.InvariantFactorPaths.G7.ParitySumsOverFilteredPairs.iN_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:32:57.126073+00:00
 -- url     : https://prove2.me/theorems/d80fadaa-f031-490d-8abf-e3477a71e61d

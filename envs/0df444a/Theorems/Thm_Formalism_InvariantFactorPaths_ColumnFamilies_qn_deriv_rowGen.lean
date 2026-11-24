@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qn_deriv_rowGen
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qn_deriv_rowGen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:26:19.953996+00:00
 -- url     : https://prove2.me/theorems/7aa280fe-8c07-4215-9d67-97d9673913c7

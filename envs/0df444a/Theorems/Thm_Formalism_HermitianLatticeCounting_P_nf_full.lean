@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_nf_full
 -- name    : Formalism.HermitianLatticeCounting.P.nf_full
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:21.986794+00:00
 -- url     : https://prove2.me/theorems/86c9c867-b2f5-46a8-af6d-a4bf9560a1d9

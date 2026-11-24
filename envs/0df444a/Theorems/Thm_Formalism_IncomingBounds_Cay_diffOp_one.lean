@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_Cay_diffOp_one
 -- name    : Formalism.IncomingBounds.Cay.diffOp_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:45:07.540258+00:00
 -- url     : https://prove2.me/theorems/db921b4e-4bc8-4a1c-95a4-cfe4d0ccb410

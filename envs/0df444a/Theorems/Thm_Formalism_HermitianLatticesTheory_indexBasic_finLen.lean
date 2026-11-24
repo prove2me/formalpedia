@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_indexBasic_finLen
 -- name    : Formalism.HermitianLatticesTheory.indexBasic_finLen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:25:36.257791+00:00
 -- url     : https://prove2.me/theorems/e66c1ed5-1726-47e9-ade8-33de879b3815

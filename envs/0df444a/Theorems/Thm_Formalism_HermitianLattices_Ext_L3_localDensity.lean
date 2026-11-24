@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_localDensity
 -- name    : Formalism.HermitianLattices.Ext.L3.localDensity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:02:13.456797+00:00
 -- url     : https://prove2.me/theorems/131b0eb8-0070-4ad5-bb15-0a945708f36c

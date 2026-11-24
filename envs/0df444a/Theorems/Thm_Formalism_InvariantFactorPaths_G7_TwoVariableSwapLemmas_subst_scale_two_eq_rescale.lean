@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_TwoVariableSwapLemmas_subst_scale_two_eq_rescale
 -- name    : Formalism.InvariantFactorPaths.G7.TwoVariableSwapLemmas.subst_scale_two_eq_rescale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:29.338064+00:00
 -- url     : https://prove2.me/theorems/0860b5d5-03ba-4877-8aa7-1464b65e1981

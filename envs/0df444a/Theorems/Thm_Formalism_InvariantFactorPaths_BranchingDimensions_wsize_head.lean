@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_wsize_head
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.wsize_head
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:13:23.676136+00:00
 -- url     : https://prove2.me/theorems/13e658bd-cbb0-4b87-a2d6-af1c9427d2ed

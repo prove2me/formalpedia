@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_dsc_approx
 -- name    : Formalism.InvariantFactorPaths.INST.dsc_approx
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:48.0577+00:00
 -- url     : https://prove2.me/theorems/1ca0b4bf-9bec-438d-8be5-1b13bbb72f9e

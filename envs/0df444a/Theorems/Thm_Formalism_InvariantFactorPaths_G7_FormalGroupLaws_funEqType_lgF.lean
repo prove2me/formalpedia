@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_FormalGroupLaws_funEqType_lgF
 -- name    : Formalism.InvariantFactorPaths.G7.FormalGroupLaws.funEqType_lgF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:44.107455+00:00
 -- url     : https://prove2.me/theorems/269a53c9-65c6-4a82-b0ba-ffb13bd35a54

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_localizedQuotients_congrP_of_mul_left
 -- name    : Formalism.HermitianLattices.Ext.L3.localizedQuotients.congrP_of_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:48.686769+00:00
 -- url     : https://prove2.me/theorems/944f1986-a554-469c-a47c-3daa6fb027af

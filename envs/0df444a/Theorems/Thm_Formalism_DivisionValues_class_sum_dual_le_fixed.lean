@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_class_sum_dual_le_fixed
 -- name    : Formalism.DivisionValues.class_sum_dual_le_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:37:02.241821+00:00
 -- url     : https://prove2.me/theorems/6d9d2c2f-b58d-4e14-8f3e-56adf4287baf

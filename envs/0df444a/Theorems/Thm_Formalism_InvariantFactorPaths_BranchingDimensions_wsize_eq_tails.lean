@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_wsize_eq_tails
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.wsize_eq_tails
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:13:20.190821+00:00
 -- url     : https://prove2.me/theorems/bdce3b68-7cb4-4a97-840a-131ad875f31e

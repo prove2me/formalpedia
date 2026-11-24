@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qd_mul_trans
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qd_mul_trans
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:19:37.200835+00:00
 -- url     : https://prove2.me/theorems/176ef12f-504b-416b-8fae-c2a8d94ee327

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_genusScale
 -- name    : Formalism.HermitianLatticesTheory.genusScale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:18:10.580648+00:00
 -- url     : https://prove2.me/theorems/10e0eb6e-f341-476d-bbf5-fcd11d5bcd29

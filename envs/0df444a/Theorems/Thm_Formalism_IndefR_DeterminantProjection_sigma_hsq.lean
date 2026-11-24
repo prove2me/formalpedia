@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_DeterminantProjection_sigma_hsq
 -- name    : Formalism.IndefR.DeterminantProjection.sigma_hsq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:10.435525+00:00
 -- url     : https://prove2.me/theorems/ae278b6b-d389-4d50-9a4d-c93e80f6ac6d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_TwoVariableSwapLemmas_subst_scale_three_include
 -- name    : Formalism.InvariantFactorPaths.G7.TwoVariableSwapLemmas.subst_scale_three_include
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:35.244594+00:00
 -- url     : https://prove2.me/theorems/5876754c-2e11-4e54-92ca-6b397830c90d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_ValuationParity_par_eq
 -- name    : Formalism.InvariantFactorPaths.G7.ValuationParity.par_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:16.107789+00:00
 -- url     : https://prove2.me/theorems/e4155c66-cb05-4d6a-a59d-6369f8428fab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_abs_pair_sum_eq
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.abs_pair_sum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:04:24.406588+00:00
 -- url     : https://prove2.me/theorems/40860f0d-877f-4b34-b53b-811928373aa9

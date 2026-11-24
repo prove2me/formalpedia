@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_localValuationFiltration_bddAbove_vF
 -- name    : Formalism.HermitianLattices.Ext.L3.localValuationFiltration.bddAbove_vF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:44.226521+00:00
 -- url     : https://prove2.me/theorems/9ac47ef6-8a12-45f2-91ff-e2acbea8b55f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_TwoVariableSwapLemmas_simeq_iff_sub
 -- name    : Formalism.InvariantFactorPaths.G7.TwoVariableSwapLemmas.simeq_iff_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:03.815912+00:00
 -- url     : https://prove2.me/theorems/69eec64d-edbc-4771-9ddf-02f6f13a4fb3

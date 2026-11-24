@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_PinG_red_bM
 -- name    : Formalism.HermitianLattices.Ext.L3.PinG.red_bM
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:04.563732+00:00
 -- url     : https://prove2.me/theorems/73b5c61b-6e5f-4a1d-bc80-e60ebe2a4424

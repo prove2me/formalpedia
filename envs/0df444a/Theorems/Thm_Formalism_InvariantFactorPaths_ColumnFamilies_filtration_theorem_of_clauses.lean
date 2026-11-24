@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_filtration_theorem_of_clauses
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.filtration_theorem_of_clauses
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:20:28.244028+00:00
 -- url     : https://prove2.me/theorems/1ff20c1a-4c7e-4127-b1af-7014460d125b

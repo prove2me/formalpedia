@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_BlockMetrics_dense_emb
 -- name    : Formalism.IndefR.LatticeTransfer.BlockMetrics.dense_emb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:07.7808+00:00
 -- url     : https://prove2.me/theorems/9ae86cfe-ce2c-418e-aaa3-216625a9eaaf

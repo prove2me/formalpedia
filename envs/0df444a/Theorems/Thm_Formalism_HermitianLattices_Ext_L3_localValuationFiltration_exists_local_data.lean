@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_localValuationFiltration_exists_local_data
 -- name    : Formalism.HermitianLattices.Ext.L3.localValuationFiltration.exists_local_data
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:26.66152+00:00
 -- url     : https://prove2.me/theorems/39abe571-456e-45ae-a3a5-88dac95200cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_TwoS_coeff_altF_ne_zero
 -- name    : Formalism.InvariantFactorPaths.G7.TwoS.coeff_altF_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:00.98597+00:00
 -- url     : https://prove2.me/theorems/6d0ba522-eebf-43cc-9f08-9b54f008ccda

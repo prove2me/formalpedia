@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Pieri_hockey
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.Pieri.hockey
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:35:00.178167+00:00
 -- url     : https://prove2.me/theorems/bfd0409a-8e2f-4e0c-acd7-c201a5e97fdf

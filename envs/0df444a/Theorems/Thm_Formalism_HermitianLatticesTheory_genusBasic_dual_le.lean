@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_genusBasic_dual_le
 -- name    : Formalism.HermitianLatticesTheory.genusBasic_dual_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:20.344457+00:00
 -- url     : https://prove2.me/theorems/aca3c297-1a04-43ee-9c62-e92011dc7118

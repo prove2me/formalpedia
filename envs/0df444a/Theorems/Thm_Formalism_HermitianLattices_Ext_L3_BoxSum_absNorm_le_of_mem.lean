@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BoxSum_absNorm_le_of_mem
 -- name    : Formalism.HermitianLattices.Ext.L3.BoxSum.absNorm_le_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:45:22.773795+00:00
 -- url     : https://prove2.me/theorems/dc7ca6db-dc1d-4845-a914-ef91a81cbdc9

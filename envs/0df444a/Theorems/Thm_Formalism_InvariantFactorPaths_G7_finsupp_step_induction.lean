@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_finsupp_step_induction
 -- name    : Formalism.InvariantFactorPaths.G7.finsupp_step_induction
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:30:20.263123+00:00
 -- url     : https://prove2.me/theorems/75811dc7-3056-44d6-a2f0-7c7d4b5fd488

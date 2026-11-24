@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Leaf_Proofs_prodStatement_holds
 -- name    : Formalism.IndefR.Leaf.Proofs.prodStatement_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:17:20.441802+00:00
 -- url     : https://prove2.me/theorems/db6ca80e-9285-4be3-a044-60a4ff9758c5

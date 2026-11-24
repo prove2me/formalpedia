@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_genMat_det_ne
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.genMat_det_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:22:24.155936+00:00
 -- url     : https://prove2.me/theorems/6e25b94f-bf0e-400a-9219-b496f99755f0

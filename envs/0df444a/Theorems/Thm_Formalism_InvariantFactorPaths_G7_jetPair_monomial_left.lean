@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_jetPair_monomial_left
 -- name    : Formalism.InvariantFactorPaths.G7.jetPair_monomial_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:36.277515+00:00
 -- url     : https://prove2.me/theorems/2fa6966e-cd9e-4367-aed5-96b3fbd9bedf

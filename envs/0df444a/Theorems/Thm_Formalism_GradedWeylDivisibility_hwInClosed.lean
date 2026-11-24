@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_hwInClosed
 -- name    : Formalism.GradedWeylDivisibility.hwInClosed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:59:06.618818+00:00
 -- url     : https://prove2.me/theorems/1bb1cd61-7e6c-4b6c-8cab-07c0c60aa2a7

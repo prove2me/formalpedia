@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A3comb_mkMon_inj
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.A3comb.mkMon_inj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:34.790728+00:00
 -- url     : https://prove2.me/theorems/bf62accf-f57b-44af-8620-440eb6ca5e06

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_TestSideWords_TwistedFiltration_G1_flt_L_C
 -- name    : Formalism.MainNotions.TestSideWords.TwistedFiltration.G1.flt_L_C
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:27.187441+00:00
 -- url     : https://prove2.me/theorems/0f5d48eb-7677-424d-84da-f742313ca0fd

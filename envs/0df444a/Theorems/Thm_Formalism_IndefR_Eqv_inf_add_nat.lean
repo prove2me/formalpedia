@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Eqv_inf_add_nat
 -- name    : Formalism.IndefR.Eqv.inf_add_nat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:35.506179+00:00
 -- url     : https://prove2.me/theorems/c97a6080-1ae2-4e71-b6fe-caf20333c45a

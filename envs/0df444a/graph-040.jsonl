@@ -20571,19 +20571,19 @@
 {"parent": "Development_ResolutionOfSingularities_EmbeddedResolution_StrongResolution_AffineEmbeddingIntoAffineSpace", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionOfSingularities", "via": ["statement"]}
 {"parent": "Development_ResolutionOfSingularities_EmbeddedResolution_StrongResolution_AffineEmbeddingIntoAffineSpace", "child": "Development_ResolutionOfSingularities_Foundations_BlowupUniversalProperty", "via": ["statement"]}
 {"parent": "Development_ResolutionOfSingularities_EmbeddedResolution_StrongResolution_AffineEmbeddingIntoAffineSpace", "child": "Development_ResolutionOfSingularities_Foundations_Blowup_BlowupBasic", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.hwInClosed", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_WeylEqNablaQ", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.hwInClosed", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_HWInClosed", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.hwInClosed", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockQBilin", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.hwInClosed", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_ClosedEqNabla", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.hwInClosed", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_HWLine", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.hwInClosed", "child": "Formalism_GradedWeylDivisibility_DualWeylDominanceOf", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.hwInClosed", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_HWLineTall", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.hwInClosed", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockQRowDivAdj", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.hwInClosed", "child": "Formalism_GradedWeylDivisibility_FinalB", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.hwInClosed", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_WeylRationalOf", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.hwInClosed", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_NablaTallZero", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.hwInClosed", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockQPos", "via": ["statement"]}
-{"parent": "Formalism.GradedWeylDivisibility.hwInClosed", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_RowDivClosedGraded", "via": ["statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.hwInClosed", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_WeylEqNablaQ", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.hwInClosed", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_HWInClosed", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.hwInClosed", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockQBilin", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.hwInClosed", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_ClosedEqNabla", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.hwInClosed", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_HWLine", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.hwInClosed", "child": "Formalism_GradedWeylDivisibility_DualWeylDominanceOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.hwInClosed", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_HWLineTall", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.hwInClosed", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockQRowDivAdj", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.hwInClosed", "child": "Formalism_GradedWeylDivisibility_FinalB", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.hwInClosed", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_WeylRationalOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.hwInClosed", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_NablaTallZero", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.hwInClosed", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockQPos", "via": ["solution", "statement"]}
+{"parent": "Formalism.GradedWeylDivisibility.hwInClosed", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_RowDivClosedGraded", "via": ["solution", "statement"]}
 {"parent": "Formalism.CountingSumsFrames.TO.psi_mem", "child": "Formalism_MahlerMeasure_MahlerMeasureProofs_GamInt", "via": ["solution", "statement"]}
 {"parent": "Formalism.CountingSumsFrames.TO.psi_mem", "child": "Formalism_MahlerMeasure_MahlerMeasureProofs_LieMat", "via": ["solution", "statement"]}
 {"parent": "Formalism.CountingSumsFrames.TO.psi_mem", "child": "Formalism_PolynomialDimension_MultinomialDepth_TieOps", "via": ["solution", "statement"]}
@@ -36725,11 +36725,11 @@
 {"parent": "P2M_GroundTheory_Heights__Heights_ObjectsChow_isMultiHomog_iff_0f52654b96e9", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_Statements", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_ObjectsChow_isMultiHomog_iff_0f52654b96e9", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_SpecFirstDetFormNeZero", "via": ["statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_ObjectsChow_isMultiHomog_iff_0f52654b96e9", "child": "GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_IsMultiHomogOfIsChowForm", "via": ["statement"]}
-{"parent": "Formalism.InvariantFactorPaths.INST.spr_support_induction", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LDbasisLemmas", "via": ["statement"]}
-{"parent": "Formalism.InvariantFactorPaths.INST.spr_support_induction", "child": "Formalism_ThetaLogCoordinates_SandwichModelDomains_SandwichModelProofs_Spread", "via": ["statement"]}
-{"parent": "Formalism.InvariantFactorPaths.INST.spr_support_induction", "child": "Formalism_ThetaLogCoordinates_SandwichModelDomains_SpreadSquare", "via": ["statement"]}
-{"parent": "Formalism.InvariantFactorPaths.INST.spr_support_induction", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LDrowLemmas", "via": ["statement"]}
-{"parent": "Formalism.InvariantFactorPaths.INST.spr_support_induction", "child": "Formalism_GradedWeylDivisibility_FinalD", "via": ["statement"]}
+{"parent": "Formalism.InvariantFactorPaths.INST.spr_support_induction", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LDbasisLemmas", "via": ["solution", "statement"]}
+{"parent": "Formalism.InvariantFactorPaths.INST.spr_support_induction", "child": "Formalism_ThetaLogCoordinates_SandwichModelDomains_SandwichModelProofs_Spread", "via": ["solution", "statement"]}
+{"parent": "Formalism.InvariantFactorPaths.INST.spr_support_induction", "child": "Formalism_ThetaLogCoordinates_SandwichModelDomains_SpreadSquare", "via": ["solution", "statement"]}
+{"parent": "Formalism.InvariantFactorPaths.INST.spr_support_induction", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LDrowLemmas", "via": ["solution", "statement"]}
+{"parent": "Formalism.InvariantFactorPaths.INST.spr_support_induction", "child": "Formalism_GradedWeylDivisibility_FinalD", "via": ["solution", "statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_LocalDensities_HypImp", "child": "GroundTheory_HeightsAndTheta_Heights_LocalDensities_LeviFormGbPotOne", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_HeightComparison_HeightCentredRingNormal", "child": "P2M_GroundTheory_Heights__Heights_ComplexAt_algebraMap_apply_de37bb391a59", "via": ["statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_HeightComparison_HeightCentredRingNormal", "child": "GroundTheory_HeightsAndTheta_Heights_HeightComparison_HeightPlacesRing", "via": ["statement"]}

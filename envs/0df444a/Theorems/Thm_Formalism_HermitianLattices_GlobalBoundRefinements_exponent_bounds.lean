@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_exponent_bounds
 -- name    : Formalism.HermitianLattices.GlobalBoundRefinements.exponent_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:04.992796+00:00
 -- url     : https://prove2.me/theorems/dde52f3f-863d-498a-ba44-d6ebda4cac05

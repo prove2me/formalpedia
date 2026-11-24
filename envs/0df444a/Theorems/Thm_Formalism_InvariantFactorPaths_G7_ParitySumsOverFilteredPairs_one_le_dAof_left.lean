@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_ParitySumsOverFilteredPairs_one_le_dAof_left
 -- name    : Formalism.InvariantFactorPaths.G7.ParitySumsOverFilteredPairs.one_le_dAof_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:25.184801+00:00
 -- url     : https://prove2.me/theorems/6dbb8ec6-3b61-4b5b-a510-2fcce2bc765b

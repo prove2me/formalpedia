@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A3comb_card_filter_lt_le_alt
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.A3comb.card_filter_lt_le_alt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:32.366894+00:00
 -- url     : https://prove2.me/theorems/d2a4919e-8a60-410b-a9e1-f2061adee368

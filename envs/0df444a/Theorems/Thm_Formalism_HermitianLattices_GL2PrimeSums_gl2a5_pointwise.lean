@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GL2PrimeSums_gl2a5_pointwise
 -- name    : Formalism.HermitianLattices.GL2PrimeSums.gl2a5_pointwise
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:16.8029+00:00
 -- url     : https://prove2.me/theorems/2e44467c-f2f4-4776-8d23-f9936dfa9ad2

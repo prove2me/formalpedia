@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_lp_max_mul
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.lp_max_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:35:43.069724+00:00
 -- url     : https://prove2.me/theorems/38a6cc5d-07a2-4833-b9f3-81daaa19de22

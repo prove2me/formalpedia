@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_low_chU
 -- name    : Formalism.InvariantFactorPaths.G7.low_chU
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:07.946659+00:00
 -- url     : https://prove2.me/theorems/8e14f8ce-a2fb-496b-861a-386308a2a439

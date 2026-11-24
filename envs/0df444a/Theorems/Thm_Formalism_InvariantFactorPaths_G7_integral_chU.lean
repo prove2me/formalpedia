@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_integral_chU
 -- name    : Formalism.InvariantFactorPaths.G7.integral_chU
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:32:22.88048+00:00
 -- url     : https://prove2.me/theorems/a11e68a6-c728-4487-9528-1697e499480c

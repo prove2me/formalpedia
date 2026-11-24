@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_ETerm_shiftPoly_topMonoP
 -- name    : Formalism.InvariantFactorPaths.G7.ETerm.shiftPoly_topMonoP
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:27:34.125852+00:00
 -- url     : https://prove2.me/theorems/35c50dd5-7aea-4d16-9fec-bdc26ac3149b

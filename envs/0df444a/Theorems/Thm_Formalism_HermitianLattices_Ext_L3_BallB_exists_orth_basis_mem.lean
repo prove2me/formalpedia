@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallB_exists_orth_basis_mem
 -- name    : Formalism.HermitianLattices.Ext.L3.BallB.exists_orth_basis_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:44:30.946711+00:00
 -- url     : https://prove2.me/theorems/bc4ed761-121b-4af0-a45d-9181eacffe36

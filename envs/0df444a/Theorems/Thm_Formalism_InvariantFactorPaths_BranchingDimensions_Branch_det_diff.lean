@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_Branch_det_diff
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.Branch.det_diff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:19:53.191822+00:00
 -- url     : https://prove2.me/theorems/a8b9d450-e26c-4a71-8b1b-a5874d9ebccf

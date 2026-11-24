@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A3comb_sum_idxWeight
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.A3comb.sum_idxWeight
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:45.752993+00:00
 -- url     : https://prove2.me/theorems/a8d68259-4e86-4f00-8e14-7cc7fb865f4a

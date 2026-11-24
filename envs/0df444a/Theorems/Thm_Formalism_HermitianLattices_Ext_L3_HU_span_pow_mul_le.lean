@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_span_pow_mul_le
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.span_pow_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:58:07.247124+00:00
 -- url     : https://prove2.me/theorems/8632e631-a72a-4df4-a143-c65af7e849dd

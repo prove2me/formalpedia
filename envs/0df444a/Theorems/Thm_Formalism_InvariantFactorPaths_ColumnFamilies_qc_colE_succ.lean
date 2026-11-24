@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qc_colE_succ
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qc_colE_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:19:12.415941+00:00
 -- url     : https://prove2.me/theorems/a22dd703-d62d-4f60-a6c9-c8be16bab853

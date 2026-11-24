@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_DeterminantProjection_unitary_of_proj
 -- name    : Formalism.IndefR.DeterminantProjection.unitary_of_proj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:09:56.409665+00:00
 -- url     : https://prove2.me/theorems/0a1c2e47-f63b-4e5a-afaa-770a7a519a9d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qn_interlaced_lowerTri
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qn_interlaced_lowerTri
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:26:17.24898+00:00
 -- url     : https://prove2.me/theorems/5c361e9b-2732-41a0-b59f-b5831c0394f5

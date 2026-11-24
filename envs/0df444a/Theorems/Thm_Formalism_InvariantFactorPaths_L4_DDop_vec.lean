@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_DDop_vec
 -- name    : Formalism.InvariantFactorPaths.L4.DDop_vec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:33.287587+00:00
 -- url     : https://prove2.me/theorems/09cc40f9-3bb8-462e-9687-17f6c048c205

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_Lat_sandwich
 -- name    : Formalism.IndefR.LatticeTransfer.Lat.sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:17:22.8489+00:00
 -- url     : https://prove2.me/theorems/59e4b3ee-70db-47f5-98fc-9462a4862364

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qh_zpow_split
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qh_zpow_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:19:31.295692+00:00
 -- url     : https://prove2.me/theorems/ac3468c9-71a1-4050-87cb-0ea4024159a2

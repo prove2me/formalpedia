@@ -1,0 +1,33 @@
+-- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_ThresholdBounds_cutIntervalLong_eq_Icc
+-- name    : Formalism.L2.SG.Pf.ThresholdBounds.cutIntervalLong_eq_Icc
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-24T08:43:21.20949+00:00
+-- url     : https://prove2.me/theorems/95c5008d-694b-4c96-ad5f-367d4af4a075
+-- title:
+--   Threshold Bounds: cut Interval Long eq Icc
+-- statement:
+--   The Threshold Bounds construction uses the cut Interval Long eq Icc property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/LocalToGlobal/SiegelLatticeTheory/FlagStabilizerTensors/RootLatticeThresholds/ThresholdBounds.lean#L153-L157
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/LocalToGlobal/SiegelLatticeTheory/FlagStabilizerTensors/RootLatticeThresholds/ThresholdBounds.lean#L153-L157
+
+import Mathlib
+import Definitions.Def_Formalism_HermitianCurvature_StatementSz
+import Definitions.Def_Formalism_LocalToGlobal_SiegelLatticeTheory_FlagStabilizerTensors_RootLatticeThresholds_ThresholdBounds
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open Finset
+open Formalism Formalism.L2 Formalism.L2.SG Formalism.L2.SG.Pf Formalism.L2.SG.Pf.ThresholdBounds
+open Formalism.FourierDecayAlt
+variable (c : Sz.Cfg)
+
+theorem Formalism.L2.SG.Pf.ThresholdBounds.cutIntervalLong_eq_Icc (l : ℕ) (N : ℝ) : c.cutIntervalLong l N = Set.Icc (5 / 2 - c.v l) (N ^ 3 - c.v l) := by sorry

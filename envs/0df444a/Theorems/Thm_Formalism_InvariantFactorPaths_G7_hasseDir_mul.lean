@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_hasseDir_mul
 -- name    : Formalism.InvariantFactorPaths.G7.hasseDir_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:46.432181+00:00
 -- url     : https://prove2.me/theorems/aaac91d5-89be-4df3-8342-08d8c3bf0d53

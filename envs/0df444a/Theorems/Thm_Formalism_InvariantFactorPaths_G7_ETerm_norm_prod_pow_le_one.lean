@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_ETerm_norm_prod_pow_le_one
 -- name    : Formalism.InvariantFactorPaths.G7.ETerm.norm_prod_pow_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:22.081294+00:00
 -- url     : https://prove2.me/theorems/9d5d75cc-a716-412f-8380-6dde2e94628c

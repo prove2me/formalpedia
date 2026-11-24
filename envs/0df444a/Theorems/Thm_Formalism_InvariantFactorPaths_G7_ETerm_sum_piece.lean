@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_ETerm_sum_piece
 -- name    : Formalism.InvariantFactorPaths.G7.ETerm.sum_piece
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:30:25.826387+00:00
 -- url     : https://prove2.me/theorems/7903b402-934f-4aa3-811e-d617a91d9b7b

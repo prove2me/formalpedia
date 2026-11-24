@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_CumulantEstimates_sinhAll
 -- name    : Formalism.HermitianLattices.CumulantEstimateDefs.CumulantEstimates.sinhAll
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:48:52.887493+00:00
 -- url     : https://prove2.me/theorems/fe4b4259-a6b6-49f2-bc06-e6875bbbd46d

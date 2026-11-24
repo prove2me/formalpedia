@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_TwoS_val_add_two_mod_two
 -- name    : Formalism.InvariantFactorPaths.G7.TwoS.val_add_two_mod_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:32:53.30768+00:00
 -- url     : https://prove2.me/theorems/66d040d1-cdf8-41aa-8664-1784e2841775

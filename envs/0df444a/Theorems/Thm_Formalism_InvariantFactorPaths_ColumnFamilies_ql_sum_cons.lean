@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_ql_sum_cons
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.ql_sum_cons
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:20:49.513742+00:00
 -- url     : https://prove2.me/theorems/cf534a74-8929-4c3f-99d2-1e4157f31d59

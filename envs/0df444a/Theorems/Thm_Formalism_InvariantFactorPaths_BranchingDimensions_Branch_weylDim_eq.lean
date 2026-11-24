@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_Branch_weylDim_eq
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.Branch.weylDim_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:20:08.894353+00:00
 -- url     : https://prove2.me/theorems/998510bd-d020-4a1c-8925-ed191c3cb531

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_TwoVariableSwapLemmas_swap_two_frobenius
 -- name    : Formalism.InvariantFactorPaths.G7.TwoVariableSwapLemmas.swap_two_frobenius
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:27.170586+00:00
 -- url     : https://prove2.me/theorems/e60c76a1-38e3-409f-bae3-e3a23cc6b294

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_height_parameter_bound
 -- name    : Formalism.HermitianLattices.CumulantEstimateDefs.height_parameter_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:03.862461+00:00
 -- url     : https://prove2.me/theorems/bc50c9c8-8206-4ab7-85cf-bd6c6782ab33

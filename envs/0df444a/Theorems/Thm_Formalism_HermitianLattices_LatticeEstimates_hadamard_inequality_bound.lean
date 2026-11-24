@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_LatticeEstimates_hadamard_inequality_bound
 -- name    : Formalism.HermitianLattices.LatticeEstimates.hadamard_inequality_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:02:21.837231+00:00
 -- url     : https://prove2.me/theorems/3b5b6229-a38c-4be7-a1a7-58d3b351c751

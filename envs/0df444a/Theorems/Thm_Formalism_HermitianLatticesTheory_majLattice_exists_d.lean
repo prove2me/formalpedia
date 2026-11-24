@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_majLattice_exists_d
 -- name    : Formalism.HermitianLatticesTheory.majLattice_exists_d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:10:34.04197+00:00
 -- url     : https://prove2.me/theorems/c249faf0-9ef1-4838-9bb1-99283fb72b35

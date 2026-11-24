@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Count_Step_antitone
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.Count.Step.antitone
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:41.883357+00:00
 -- url     : https://prove2.me/theorems/3f1cc872-c979-46d1-bce4-97cd010c6375

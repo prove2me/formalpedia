@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_sum_factorial_ge
 -- name    : Formalism.InvariantFactorPaths.G7.sum_factorial_ge
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:32.557799+00:00
 -- url     : https://prove2.me/theorems/3a90c5fa-42f7-4e5d-a29e-a16c2bf777a8

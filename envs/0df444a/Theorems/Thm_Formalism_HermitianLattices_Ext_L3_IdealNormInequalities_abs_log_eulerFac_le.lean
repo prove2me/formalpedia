@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_IdealNormInequalities_abs_log_eulerFac_le
 -- name    : Formalism.HermitianLattices.Ext.L3.IdealNormInequalities.abs_log_eulerFac_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:24.33865+00:00
 -- url     : https://prove2.me/theorems/2ff32ac3-b941-4a62-8632-ce0888e0fbd4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_TwoVariableSwapLemmas_coeff_subst_scale_two
 -- name    : Formalism.InvariantFactorPaths.G7.TwoVariableSwapLemmas.coeff_subst_scale_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:01:46.525812+00:00
 -- url     : https://prove2.me/theorems/540238a7-eb60-4748-9577-da70ca3c9868

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_tail_pos_shift_le
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.tail_pos_shift_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:13:51.706663+00:00
 -- url     : https://prove2.me/theorems/d36c28d8-b24e-488e-8417-b190bf7499a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_antisymmetrizedProduct_adjacent_swap
 -- name    : Formalism.HermitianLatticeCounting.P.antisymmetrizedProduct_adjacent_swap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:04.918796+00:00
 -- url     : https://prove2.me/theorems/ed54aa94-e056-4812-9f65-11865ebc8b68

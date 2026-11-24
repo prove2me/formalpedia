@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A3ev_minorF_empty
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.A3ev.minorF_empty
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:56.365687+00:00
 -- url     : https://prove2.me/theorems/71d22468-bff9-4486-a6a0-12794807eecb

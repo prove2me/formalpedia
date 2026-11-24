@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_finite_out_smul
 -- name    : Formalism.IndefR.Fin.Four.finite_out_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:36.268416+00:00
 -- url     : https://prove2.me/theorems/5ab02591-067d-4015-af69-bf1ff9ff3588

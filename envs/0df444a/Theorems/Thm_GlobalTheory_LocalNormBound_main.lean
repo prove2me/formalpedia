@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalNormBound_main
 -- name    : GlobalTheory.LocalNormBound.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:39:42.218539+00:00
 -- url     : https://prove2.me/theorems/cff9d416-4392-48e4-8e5c-ec27c8d98de7

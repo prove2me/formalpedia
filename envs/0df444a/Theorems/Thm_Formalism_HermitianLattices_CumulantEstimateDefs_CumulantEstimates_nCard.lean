@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_CumulantEstimates_nCard
 -- name    : Formalism.HermitianLattices.CumulantEstimateDefs.CumulantEstimates.nCard
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:03.390714+00:00
 -- url     : https://prove2.me/theorems/a8b55f5a-e069-4e14-94b3-fa2b3f643986

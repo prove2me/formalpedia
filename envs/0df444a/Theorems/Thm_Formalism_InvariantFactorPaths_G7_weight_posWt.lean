@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_weight_posWt
 -- name    : Formalism.InvariantFactorPaths.G7.weight_posWt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:48.644801+00:00
 -- url     : https://prove2.me/theorems/c930e00a-ee0d-422c-aa68-d0924c2cdd2d

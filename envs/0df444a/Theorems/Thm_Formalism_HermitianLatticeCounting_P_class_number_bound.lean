@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_class_number_bound
 -- name    : Formalism.HermitianLatticeCounting.P.class_number_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:11.79803+00:00
 -- url     : https://prove2.me/theorems/9f7f7c77-dc52-4999-aad8-4f5b7cd590d8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_TwoS_cg_subst_of_small
 -- name    : Formalism.InvariantFactorPaths.G7.TwoS.cg_subst_of_small
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:30.965508+00:00
 -- url     : https://prove2.me/theorems/2842bca5-a2ab-4ea5-85b7-449f50852df7

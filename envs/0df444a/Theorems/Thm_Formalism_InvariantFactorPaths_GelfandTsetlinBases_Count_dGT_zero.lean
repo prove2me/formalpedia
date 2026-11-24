@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Count_dGT_zero
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.Count.dGT_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:43.544895+00:00
 -- url     : https://prove2.me/theorems/f33bd995-4722-4e1a-8521-1507b8c40ae9

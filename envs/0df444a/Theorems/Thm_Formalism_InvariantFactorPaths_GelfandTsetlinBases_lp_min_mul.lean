@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_lp_min_mul
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.lp_min_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:07.591105+00:00
 -- url     : https://prove2.me/theorems/8dbdc1aa-74c0-4878-8013-0fdf642b0dc9

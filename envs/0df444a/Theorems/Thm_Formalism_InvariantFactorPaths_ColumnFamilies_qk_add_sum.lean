@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qk_add_sum
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qk_add_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:22:03.778828+00:00
 -- url     : https://prove2.me/theorems/3934bfc9-f87d-4a33-ac4a-57ad60f4040e

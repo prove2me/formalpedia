@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ZeroFreeRegionGL2_weight_one_sum_lipschitz
 -- name    : Formalism.HermitianLattices.ZeroFreeRegionGL2.weight_one_sum_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:41:56.776414+00:00
 -- url     : https://prove2.me/theorems/139c85b7-861e-4510-8f3f-f8cb2b9d777c

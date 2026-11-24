@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qa_row_strictMono
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qa_row_strictMono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:21:15.309604+00:00
 -- url     : https://prove2.me/theorems/22419829-c6f7-494f-9d0f-2ea570f9cd20

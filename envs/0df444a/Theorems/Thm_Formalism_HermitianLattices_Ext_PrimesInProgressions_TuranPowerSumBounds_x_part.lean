@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_TuranPowerSumBounds_x_part
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.TuranPowerSumBounds.x_part
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:53:01.162549+00:00
 -- url     : https://prove2.me/theorems/73940b5e-4d0b-44e7-a30c-3fef6a014786

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_HitsCapPos_of
 -- name    : Formalism.InvariantFactorPaths.G7.HitsCapPos_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:32:45.38294+00:00
 -- url     : https://prove2.me/theorems/485bca4f-d52e-4cd3-a981-220dd4dab91a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_NormTraceLemmas_integral_mem
 -- name    : Formalism.IndefR.LatticeTransfer.NormTraceLemmas.integral_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:18:10.712872+00:00
 -- url     : https://prove2.me/theorems/0d9d0907-f249-43eb-a131-e8cfcde92609

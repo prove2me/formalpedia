@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_RamifiedLatticeOperators_count_of_orbits
 -- name    : Formalism.HermitianLattices.RamifiedLatticeOperators.count_of_orbits
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:36:59.403979+00:00
 -- url     : https://prove2.me/theorems/1e176bac-1541-4187-81f1-3f4dd36738ec

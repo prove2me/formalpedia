@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BoxSum_card_real
 -- name    : Formalism.HermitianLattices.Ext.L3.BoxSum.card_real
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:46:09.808882+00:00
 -- url     : https://prove2.me/theorems/6cc257a5-1aac-4ec6-bc83-7f14da9aca54

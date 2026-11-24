@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_GramFrameCompositionLinFacts_powq_modEq_one
 -- name    : Formalism.InvariantFactorPaths.G7.GramFrameCompositionLinFacts.powq_modEq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:32:44.901803+00:00
 -- url     : https://prove2.me/theorems/959934bb-3939-4a1e-8483-f7eccbfb29c7

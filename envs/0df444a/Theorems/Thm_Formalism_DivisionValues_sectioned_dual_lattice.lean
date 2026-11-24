@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_sectioned_dual_lattice
 -- name    : Formalism.DivisionValues.sectioned_dual_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:33:46.44437+00:00
 -- url     : https://prove2.me/theorems/5e89dfd9-5b0d-4b72-8183-3d5738641358

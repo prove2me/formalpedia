@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_biLe_pow_single
 -- name    : Formalism.InvariantFactorPaths.G7.biLe_pow_single
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:32.325015+00:00
 -- url     : https://prove2.me/theorems/3f1478a4-218d-4ac1-a946-d05250318647

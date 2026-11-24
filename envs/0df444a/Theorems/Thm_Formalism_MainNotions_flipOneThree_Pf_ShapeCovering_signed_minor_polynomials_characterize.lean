@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_flipOneThree_Pf_ShapeCovering_signed_minor_polynomials_characterize
 -- name    : Formalism.MainNotions.flipOneThree.Pf.ShapeCovering.signed_minor_polynomials_characterize
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:55:49.034947+00:00
 -- url     : https://prove2.me/theorems/58419c02-21b0-4c22-b4bf-fe2edbbecdc8

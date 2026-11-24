@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_LL_tieP_smul
 -- name    : Formalism.InvariantFactorPaths.KP.LL.tieP_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:23.779226+00:00
 -- url     : https://prove2.me/theorems/2c5d5413-70a8-42af-b239-d047df5a7c03

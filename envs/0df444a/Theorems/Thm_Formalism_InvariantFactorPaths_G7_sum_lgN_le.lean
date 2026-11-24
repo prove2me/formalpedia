@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_sum_lgN_le
 -- name    : Formalism.InvariantFactorPaths.G7.sum_lgN_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:55.045429+00:00
 -- url     : https://prove2.me/theorems/12926e0d-f58c-46e5-9e74-07c35220b374

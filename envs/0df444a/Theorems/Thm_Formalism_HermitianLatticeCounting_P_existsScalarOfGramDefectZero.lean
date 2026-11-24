@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_existsScalarOfGramDefectZero
 -- name    : Formalism.HermitianLatticeCounting.P.existsScalarOfGramDefectZero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:45.184192+00:00
 -- url     : https://prove2.me/theorems/09ad273c-52ea-4458-b8e7-126a0800cd46

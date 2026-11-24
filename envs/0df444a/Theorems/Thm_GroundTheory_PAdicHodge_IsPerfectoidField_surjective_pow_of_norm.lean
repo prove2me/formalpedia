@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_surjective_pow_of_norm
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.surjective_pow_of_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:31.445635+00:00
 -- url     : https://prove2.me/theorems/f04191b1-3847-48d9-8bab-6ded3db5a1c7

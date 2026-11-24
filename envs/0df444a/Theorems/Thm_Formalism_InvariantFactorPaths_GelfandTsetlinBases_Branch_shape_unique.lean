@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Branch_shape_unique
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.Branch.shape_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:35:07.323088+00:00
 -- url     : https://prove2.me/theorems/0b81cbe9-ffff-448a-b52d-eaf1c9e84f22

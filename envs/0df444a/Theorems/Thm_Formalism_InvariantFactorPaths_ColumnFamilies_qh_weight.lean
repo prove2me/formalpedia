@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qh_weight
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qh_weight
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:20:49.958269+00:00
 -- url     : https://prove2.me/theorems/2ea8fb0b-4dd6-4f2b-901a-141043330c67

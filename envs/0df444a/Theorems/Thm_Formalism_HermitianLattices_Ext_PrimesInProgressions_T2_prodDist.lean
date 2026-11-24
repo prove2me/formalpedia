@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_T2_prodDist
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.T2.prodDist
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:53:09.688804+00:00
 -- url     : https://prove2.me/theorems/e9e8ee56-6e06-4430-936f-bd6510cb4c52

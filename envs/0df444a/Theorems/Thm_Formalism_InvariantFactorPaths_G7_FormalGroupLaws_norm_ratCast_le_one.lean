@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_FormalGroupLaws_norm_ratCast_le_one
 -- name    : Formalism.InvariantFactorPaths.G7.FormalGroupLaws.norm_ratCast_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:25.097293+00:00
 -- url     : https://prove2.me/theorems/af46e544-cf1c-44a9-ad4a-63ef587a3b72

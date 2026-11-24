@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_PinE_form_block
 -- name    : Formalism.HermitianLattices.Ext.L3.PinE.form_block
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:21.276212+00:00
 -- url     : https://prove2.me/theorems/7b61b621-7d13-47ba-bb54-5d4ccbeaec6c

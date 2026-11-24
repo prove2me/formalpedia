@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_neighbourConstruct_key
 -- name    : Formalism.HermitianLatticesTheory.neighbourConstruct_key
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:32:21.105189+00:00
 -- url     : https://prove2.me/theorems/c9a76e2c-2379-4af6-ac2d-9249546705e3

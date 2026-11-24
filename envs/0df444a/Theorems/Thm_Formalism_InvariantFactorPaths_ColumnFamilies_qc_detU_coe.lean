@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qc_detU_coe
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qc_detU_coe
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:18:59.624907+00:00
 -- url     : https://prove2.me/theorems/2a6ed5e4-1aef-4c6e-b0b9-5049a3b09be6

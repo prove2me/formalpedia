@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_LL_pderiv_xi_rename_chainEmb_eq_zero
 -- name    : Formalism.InvariantFactorPaths.KP.LL.pderiv_xi_rename_chainEmb_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:36:52.615116+00:00
 -- url     : https://prove2.me/theorems/dfb5c2df-16f3-46dc-97f2-9937cdfa0c7b

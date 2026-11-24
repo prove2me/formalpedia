@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_opBound_normSq
 -- name    : Formalism.HermitianLatticesTheory.opBound_normSq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:05:32.194818+00:00
 -- url     : https://prove2.me/theorems/f5d5142e-2e0c-4b11-b7f2-ef42e8ce3e86

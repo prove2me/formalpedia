@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qh_mapCoord_minor
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qh_mapCoord_minor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:21:21.92908+00:00
 -- url     : https://prove2.me/theorems/c80fde26-dc86-48fc-883f-7172dc58bd88

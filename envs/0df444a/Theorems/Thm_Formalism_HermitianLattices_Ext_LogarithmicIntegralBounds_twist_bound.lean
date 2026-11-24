@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_twist_bound
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.twist_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:29.879133+00:00
 -- url     : https://prove2.me/theorems/e02a8824-53a4-4404-aad4-25e27b270698

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_cartan_ycond
 -- name    : Formalism.InvariantFactorPaths.L4.cartan_ycond
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:15.935932+00:00
 -- url     : https://prove2.me/theorems/798f8459-64bc-4bd1-9327-d1e167e44aba

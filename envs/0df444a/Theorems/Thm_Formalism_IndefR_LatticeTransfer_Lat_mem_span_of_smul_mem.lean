@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_Lat_mem_span_of_smul_mem
 -- name    : Formalism.IndefR.LatticeTransfer.Lat.mem_span_of_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:17:21.709799+00:00
 -- url     : https://prove2.me/theorems/d05ad1c2-64da-4f8a-80e6-7af5392ac484

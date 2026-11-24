@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_exampleZ_coatom
 -- name    : Formalism.HermitianLatticesTheory.exampleZ_coatom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:04:07.754797+00:00
 -- url     : https://prove2.me/theorems/654524e9-6b6a-4c59-8857-dbca11769bc3

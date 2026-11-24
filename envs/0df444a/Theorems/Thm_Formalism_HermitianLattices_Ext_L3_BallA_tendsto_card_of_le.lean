@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallA_tendsto_card_of_le
 -- name    : Formalism.HermitianLattices.Ext.L3.BallA.tendsto_card_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:44:07.213797+00:00
 -- url     : https://prove2.me/theorems/c9a01511-9ff0-4e3c-af26-0c130d3bb286

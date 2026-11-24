@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_partition_function_bound
 -- name    : Formalism.HermitianLattices.CumulantEstimateDefs.partition_function_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:44:12.402313+00:00
 -- url     : https://prove2.me/theorems/2dfec920-2110-4e05-b779-bad23504038e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BoxCube_eq_of_close
 -- name    : Formalism.HermitianLattices.Ext.L3.BoxCube.eq_of_close
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:45:56.900811+00:00
 -- url     : https://prove2.me/theorems/c8ce1b54-bd34-4a79-9574-6b230a9fd3fb

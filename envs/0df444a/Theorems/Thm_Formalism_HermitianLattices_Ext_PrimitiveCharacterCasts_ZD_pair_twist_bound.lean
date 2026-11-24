@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimitiveCharacterCasts_ZD_pair_twist_bound
 -- name    : Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.ZD.pair_twist_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:04.140968+00:00
 -- url     : https://prove2.me/theorems/3aa8ee66-d24d-4ee4-83f8-067374ab59b3

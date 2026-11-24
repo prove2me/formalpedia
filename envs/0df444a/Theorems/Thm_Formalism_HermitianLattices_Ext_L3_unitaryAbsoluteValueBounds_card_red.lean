@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_unitaryAbsoluteValueBounds_card_red
 -- name    : Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.card_red
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:52:58.407198+00:00
 -- url     : https://prove2.me/theorems/0b32d499-bb7e-46d6-b20e-f496769455af

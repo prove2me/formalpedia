@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Pieri_strip2_iff
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.Pieri.strip2_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:35:04.664916+00:00
 -- url     : https://prove2.me/theorems/6e9983b0-0538-4d70-8d86-21bdfc4f3770

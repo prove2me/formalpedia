@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_GramFrameCompositionLinFacts_constantCoeff_dlgF
 -- name    : Formalism.InvariantFactorPaths.G7.GramFrameCompositionLinFacts.constantCoeff_dlgF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:11.728468+00:00
 -- url     : https://prove2.me/theorems/fec6ffad-e80d-47ed-bef6-5d3e602fec34

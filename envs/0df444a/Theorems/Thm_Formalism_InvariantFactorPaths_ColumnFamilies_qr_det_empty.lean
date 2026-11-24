@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qr_det_empty
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qr_det_empty
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:21:06.43302+00:00
 -- url     : https://prove2.me/theorems/d560f419-7849-48b3-a159-799a4b1a5c60

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_isSB_zero
 -- name    : Formalism.IndefR.Fin.Four.isSB_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:37.826969+00:00
 -- url     : https://prove2.me/theorems/0116c274-4b7b-4e89-a9b3-19920e5f8879

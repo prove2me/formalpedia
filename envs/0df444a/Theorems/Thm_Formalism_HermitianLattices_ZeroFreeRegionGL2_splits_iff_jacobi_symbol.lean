@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ZeroFreeRegionGL2_splits_iff_jacobi_symbol
 -- name    : Formalism.HermitianLattices.ZeroFreeRegionGL2.splits_iff_jacobi_symbol
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:05:28.457715+00:00
 -- url     : https://prove2.me/theorems/cd3d1c2e-1622-4682-9429-3b57c167d24b

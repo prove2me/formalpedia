@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LocBrg_sigA_inv
 -- name    : Formalism.IndefR.LocBrg.sigA_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:17:26.143656+00:00
 -- url     : https://prove2.me/theorems/53515da3-550c-421f-bcb5-a85fbe6ecc1d

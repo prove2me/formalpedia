@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallD_volume_ballSet
 -- name    : Formalism.HermitianLattices.Ext.L3.BallD.volume_ballSet
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:45:58.594334+00:00
 -- url     : https://prove2.me/theorems/d1e74dba-e6ac-4019-a704-249f4b3edaf3

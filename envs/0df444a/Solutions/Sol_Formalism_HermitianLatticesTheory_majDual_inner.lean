@@ -1,0 +1,43 @@
+-- Prove2me | solution 1 for Formalism.HermitianLatticesTheory.majDual_inner
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-24T08:41:43.013234+00:00
+-- url     : https://prove2.me/submissions/d1bae080-ac5a-4ea1-89b8-7a8299d98b67
+
+import Mathlib
+import Definitions.Def_Formalism_HermitianLattices_StatementMaj
+import Definitions.Def_Formalism_HermitianLattices_HermitianLatticesProofs_MajLattice
+import Definitions.Def_Formalism_HermitianLattices_HermitianLatticesProofs_MajDual
+import Theorems.Thm_Formalism_HermitianLatticesTheory_majDual_trace
+import Theorems.Thm_Formalism_HermitianLatticesTheory_majDual_realize_apply
+import Theorems.Thm_Formalism_HermitianLatticesTheory_majDual_re
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open NumberField
+open scoped nonZeroDivisors
+noncomputable section
+open Formalism Formalism.HermitianLatticesTheory
+variable {K V ι : Type} [Field K] [NumberField K] [StarRing K] [AddCommGroup V] [Module K V]
+  [Fintype ι] [DecidableEq ι]
+namespace Formalism.HermitianLatticesTheory
+theorem _root_.solution [IsTotallyComplex K] (h : V →ₗ⋆[K] V →ₗ[K] K) (b : Module.Basis ι K V)
+    (X : InfinitePlace K → Matrix ι ι ℂ)
+    (hst : ∀ (φ : K →+* ℂ) (a : K), φ (star a) = starRingEnd ℂ (φ a))
+    (hX : ∀ v, IsFrame h b v (X v)) (x y : V) :
+    inner ℝ (realize b X x) (jW h b X (realize b X y)) =
+      ((Algebra.trace ℚ K (h x y) : ℚ) : ℝ) / 2 := by
+  rw [majDual_trace, mul_div_cancel_left₀ _ (two_ne_zero : (2 : ℝ) ≠ 0)]
+  simp only [majDual_re h b X hst hX]
+  simp only [PiLp.inner_apply, RCLike.inner_apply, conj_trivial, Fintype.sum_prod_type,
+    Fin.sum_univ_two, majDual_jW_apply, majDual_realize_apply, Fin.isValue, eq_self_iff_true,
+    if_true, one_ne_zero, if_false, ↓reduceIte]
+  refine Finset.sum_congr rfl fun v _ => Finset.sum_congr rfl fun i _ => ?_
+  ring1
+end Formalism.HermitianLatticesTheory

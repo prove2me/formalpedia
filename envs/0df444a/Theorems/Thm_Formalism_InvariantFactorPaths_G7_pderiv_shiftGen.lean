@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_pderiv_shiftGen
 -- name    : Formalism.InvariantFactorPaths.G7.pderiv_shiftGen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:34.883732+00:00
 -- url     : https://prove2.me/theorems/d81de880-bcd9-48af-9506-77faabd4840b

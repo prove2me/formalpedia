@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_smithMatrix
 -- name    : Formalism.InvariantFactorPaths.KP.smithMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:01.982988+00:00
 -- url     : https://prove2.me/theorems/26393563-6d4e-4c05-a8c1-4bbb0252b5a2

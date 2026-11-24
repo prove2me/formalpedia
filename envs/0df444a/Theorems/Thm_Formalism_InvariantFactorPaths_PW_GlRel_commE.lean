@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_GlRel_commE
 -- name    : Formalism.InvariantFactorPaths.PW.GlRel.commE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:42.769908+00:00
 -- url     : https://prove2.me/theorems/fa2cde91-0439-4423-8e6d-71e03a41b115

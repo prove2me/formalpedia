@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qk_mem_strVert
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qk_mem_strVert
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:22:03.579626+00:00
 -- url     : https://prove2.me/theorems/e2b6c937-b998-41e9-97f7-4fcc7af08a8b

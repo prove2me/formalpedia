@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_FormalGroupLaws_rescale_lgF
 -- name    : Formalism.InvariantFactorPaths.G7.FormalGroupLaws.rescale_lgF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:59:29.844824+00:00
 -- url     : https://prove2.me/theorems/96337ff0-eb05-4329-8cd9-df592bbd84fb

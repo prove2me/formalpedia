@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_integralBasisSpans_form_eq
 -- name    : Formalism.HermitianLattices.Ext.L3.integralBasisSpans.form_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:51:15.332265+00:00
 -- url     : https://prove2.me/theorems/868712b8-eb4c-4a53-8847-645fb90f8f50

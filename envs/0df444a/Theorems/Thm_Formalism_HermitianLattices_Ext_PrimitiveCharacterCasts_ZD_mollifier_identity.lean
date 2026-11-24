@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimitiveCharacterCasts_ZD_mollifier_identity
 -- name    : Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.ZD.mollifier_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:50:32.354807+00:00
 -- url     : https://prove2.me/theorems/d74f2ea0-6fb6-4984-91dc-113149c2e9d1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_shiftPoly_dirD
 -- name    : Formalism.InvariantFactorPaths.G7.shiftPoly_dirD
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:30.545213+00:00
 -- url     : https://prove2.me/theorems/329e9eab-21cd-4012-821f-cfae9fd4aeab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_TwoS_constantCoeff_sPos
 -- name    : Formalism.InvariantFactorPaths.G7.TwoS.constantCoeff_sPos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:21.680105+00:00
 -- url     : https://prove2.me/theorems/72907a87-1d67-411e-9e25-6e4270da3e9d

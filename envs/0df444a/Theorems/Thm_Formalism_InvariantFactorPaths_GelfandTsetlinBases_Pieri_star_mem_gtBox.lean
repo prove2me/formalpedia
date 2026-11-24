@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Pieri_star_mem_gtBox
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.Pieri.star_mem_gtBox
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:35:08.191895+00:00
 -- url     : https://prove2.me/theorems/29e203ac-1e5d-4829-9de5-ce8e9a33afe1

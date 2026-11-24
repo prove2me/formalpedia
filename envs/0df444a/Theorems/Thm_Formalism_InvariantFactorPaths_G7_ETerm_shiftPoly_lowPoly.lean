@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_ETerm_shiftPoly_lowPoly
 -- name    : Formalism.InvariantFactorPaths.G7.ETerm.shiftPoly_lowPoly
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:30:17.008662+00:00
 -- url     : https://prove2.me/theorems/8ea1f46f-155a-4461-b5df-0d16ebebd3ee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_TwoS_subst_hh_eq_sum
 -- name    : Formalism.InvariantFactorPaths.G7.TwoS.subst_hh_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:25.216658+00:00
 -- url     : https://prove2.me/theorems/1eb61bb8-972a-48c0-8548-aa53ff699de9

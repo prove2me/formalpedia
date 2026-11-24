@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_TwoVariableSwapLemmas_integral_scale_two
 -- name    : Formalism.InvariantFactorPaths.G7.TwoVariableSwapLemmas.integral_scale_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:43.002304+00:00
 -- url     : https://prove2.me/theorems/87b50c5b-0eb2-46d6-9e05-d098df64c137

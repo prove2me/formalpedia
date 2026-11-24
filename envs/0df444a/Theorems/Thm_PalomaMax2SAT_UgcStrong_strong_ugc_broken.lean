@@ -7,7 +7,17 @@
 -- title:
 --   The strong bounded-degree UGC barrier for MAX-E2LIN(2) is exceeded for all degrees d >= 1
 -- statement:
---   Let $\alpha_{\mathrm{GW}}=0.87856$, $\beta^\star=0.94016567$ and $\alpha^*=0.94615981$. Then $\alpha_{\mathrm{GW}}<\beta^\star<\alpha^*<\tfrac{83}{84}<0.9932$. (1) For every rational $a\ge 0.8785$, $1-\frac{1-a}{18}>0.9932$, and for every $d\ge 1$, $1-\frac{1-a}{6d+12}>0.9932$; hence every threshold $\tau\le 0.9932$ is strictly below these ratios. (2) For every $\varepsilon>0$ there is $D$ with $1-\varepsilon<1-\frac{1-a}{6d+12}$ for all $d\ge D$. (3) $0.9326-0.87856=0.05404>0$. (4) If $mc\le m$, $p\le q$ and $p\,mc\le q\,\mathrm{cut}$, then with $B=m(6d+10)$, $\alpha=m+mc$, $s=m+\mathrm{cut}$: $(6d+12)q(B+\alpha)\le(6d+12)q(B+s)+(q-p)(B+\alpha)$, i.e. the lifted ratio is at least $1-\frac{1-p/q}{6d+12}$. (5) $\alpha(H(G))=m+\mathrm{maxcut}(G)$; if $G$ has maximum degree at most $D$ then $H(G)$ has maximum degree at most $D+1$; $2M=4m+2\sum_v\deg(v)^2$ and $4m\le M$ for the number $M$ of edges of $H(G)$; and $4m\le M$, $\alpha\le 2m$, $18785\alpha\le 20000 s$ imply $9932(B+\alpha)\le 10000(B+s)$ for $B=4m+3M$. (6) For a port graph of degree 1 the independence number is $m$ and the optimum of $T_H$ is $3n$; for degree 2, $m=n$ and the optimum is $4n+\alpha$. The value of $\tau_{\mathrm{strong}}(d)=\alpha_{\mathrm{GW}}+\widetilde O(1/d)$, the Goemans--Williamson and Halperin--Livnat--Zwick guarantees, the polynomial running times and the Unique Games hardness statements are cited in the paper and are not formalized.
+--   The Unique Games Conjecture limits how well $\mathrm{MAX\text{-}E2LIN}(2)$ (equivalently $\mathrm{MAX\text{-}CUT}$) can be approximated: the threshold is $\alpha_{\mathrm{GW}}\approx 0.87856$ on general graphs, and on graphs of maximum degree $d$ it is $\alpha_{\mathrm{GW}}+\widetilde O(1/d)$. This theorem shows that these barriers are exceeded for every degree $d\ge 1$ once an instance $G$ of maximum degree $d$ is encoded as the three-occurrence $\mathrm{MAX\text{-}2SAT}$ formula $T_{H(G)}$.
+--
+--   The formalized statement says:
+--
+--   - The thresholds are ordered: $0.87856<0.94016567<0.94615981<\tfrac{83}{84}<0.9932$.
+--   - If a cut of $G$ within a factor $\alpha_\varepsilon\ge 0.8785$ of the maximum is available, the lifted formula is approximated within $1-\frac{1-\alpha_\varepsilon}{6d+12}$, which is above $0.9932$ for every $d\ge 1$ and tends to $1$ as $d\to\infty$. Hence it is above every threshold $\tau\le 0.9932$.
+--   - A cut guarantee $p/q$ gives the ratio $1-\frac{1-p/q}{6d+12}$ in the same way.
+--   - The conflict graph $H(G)$ has independence number $m+\mathrm{maxcut}(G)$ and maximum degree at most $d+1$.
+--   - For $d=3$, $0.9326-0.87856=0.05404>0$, and for $d=1,2$ the optimum of the lifted formula is given exactly.
+--
+--   The Goemans--Williamson and Halperin--Livnat--Zwick guarantees, the value of $\tau_{\mathrm{strong}}(d)$, the running times and the Unique Games hardness results are taken from the literature and are not formalized.
 -- source:
 --   https://github.com/frankvegadelgado/paloma/blob/strong-ugc-broken/doc/paper.tex#L179
 

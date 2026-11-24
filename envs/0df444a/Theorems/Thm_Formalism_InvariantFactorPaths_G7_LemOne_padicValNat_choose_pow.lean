@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LemOne_padicValNat_choose_pow
 -- name    : Formalism.InvariantFactorPaths.G7.LemOne.padicValNat_choose_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:27:59.904559+00:00
 -- url     : https://prove2.me/theorems/a9b3c80e-0b6d-4dbb-89a6-702260ad4f96

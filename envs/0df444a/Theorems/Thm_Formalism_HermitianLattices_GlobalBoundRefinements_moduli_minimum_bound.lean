@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_moduli_minimum_bound
 -- name    : Formalism.HermitianLattices.GlobalBoundRefinements.moduli_minimum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:01:14.819177+00:00
 -- url     : https://prove2.me/theorems/34bf82c9-bb51-4e78-b592-44e14dc025a2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_TwoS_integral_natCast
 -- name    : Formalism.InvariantFactorPaths.G7.TwoS.integral_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:37.276499+00:00
 -- url     : https://prove2.me/theorems/4975521b-a587-482b-90cb-7c1a2b3e716d

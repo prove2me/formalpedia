@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_exp_integral
 -- name    : Formalism.InvariantFactorPaths.G7.exp_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:32.214185+00:00
 -- url     : https://prove2.me/theorems/63435b09-f26e-4686-8ef0-7f054c410d5c

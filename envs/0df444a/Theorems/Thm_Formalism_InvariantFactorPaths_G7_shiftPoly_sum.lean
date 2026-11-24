@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_shiftPoly_sum
 -- name    : Formalism.InvariantFactorPaths.G7.shiftPoly_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:02.143491+00:00
 -- url     : https://prove2.me/theorems/aab0c7ff-69f2-4277-8479-069f1595ef9c

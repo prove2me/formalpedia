@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_BlockMetrics_exists_im_ne_zero
 -- name    : Formalism.IndefR.LatticeTransfer.BlockMetrics.exists_im_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:45.258503+00:00
 -- url     : https://prove2.me/theorems/0f609045-664c-41cb-b554-7443ac3374d1

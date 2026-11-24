@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_NormTraceLemmas_asAlg_epA
 -- name    : Formalism.IndefR.LatticeTransfer.NormTraceLemmas.asAlg_epA
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:17:57.484043+00:00
 -- url     : https://prove2.me/theorems/33f96ea9-1db4-4131-96fc-7f61133e76ad

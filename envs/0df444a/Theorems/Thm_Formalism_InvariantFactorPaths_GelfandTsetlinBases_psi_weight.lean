@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_psi_weight
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.psi_weight
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:08.453775+00:00
 -- url     : https://prove2.me/theorems/2a7da2ca-2070-4029-8bfe-4d07dfcd4f0e

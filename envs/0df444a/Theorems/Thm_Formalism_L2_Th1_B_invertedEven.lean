@@ -1,0 +1,31 @@
+-- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_invertedEven
+-- name    : Formalism.L2.Th1.B.invertedEven
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-24T08:43:41.360946+00:00
+-- url     : https://prove2.me/theorems/457be125-baaf-4496-b8b1-58fe58b93c98
+-- title:
+--   B: inverted Even
+-- statement:
+--   The B construction uses the inverted Even property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/LocalToGlobal/TorsionIntegrality/FrobeniusFibreCurves/LogarithmicSubstitution/WeierstrassReducedEquations.lean#L119-L155
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/LocalToGlobal/TorsionIntegrality/FrobeniusFibreCurves/LogarithmicSubstitution/WeierstrassReducedEquations.lean#L119-L155
+
+import Mathlib
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_FrobeniusFibreCurves_StatementA
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_FrobeniusFibreCurves_LogarithmicSubstitution_WeierstrassReducedEquations
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open Formalism Formalism.L2 Formalism.L2.Th1 Formalism.L2.Th1.B
+open PowerSeries
+
+theorem Formalism.L2.Th1.B.invertedEven : WEven := by sorry

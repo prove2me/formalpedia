@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_LL_biHom_plus
 -- name    : Formalism.InvariantFactorPaths.KP.LL.biHom_plus
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:36:52.371802+00:00
 -- url     : https://prove2.me/theorems/2e290887-74ab-44d3-b65e-f38cc1eeac21

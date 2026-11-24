@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_nablaLKBasis_of
 -- name    : Formalism.GradedWeylDivisibility.nablaLKBasis_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:21:40.551803+00:00
 -- url     : https://prove2.me/theorems/085fd928-d88c-458e-9c95-112fbdbb0d01

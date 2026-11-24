@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_digits_sum_le_lgN
 -- name    : Formalism.InvariantFactorPaths.G7.digits_sum_le_lgN
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:47.383219+00:00
 -- url     : https://prove2.me/theorems/b655517f-ae94-40d2-a630-800e80591e33

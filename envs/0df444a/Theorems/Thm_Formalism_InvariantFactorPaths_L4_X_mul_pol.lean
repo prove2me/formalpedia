@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_X_mul_pol
 -- name    : Formalism.InvariantFactorPaths.L4.X_mul_pol
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:14.163472+00:00
 -- url     : https://prove2.me/theorems/395dc1dd-3e49-425a-8c36-65eb3212fe91

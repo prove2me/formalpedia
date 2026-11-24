@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_classSetAssembly_mem_zmap
 -- name    : Formalism.HermitianLatticesTheory.classSetAssembly_mem_zmap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:06.566322+00:00
 -- url     : https://prove2.me/theorems/2e18f297-6ee9-4f41-a614-235d1d178805

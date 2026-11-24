@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_Branch_W_extW
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.Branch.W_extW
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:19:49.681188+00:00
 -- url     : https://prove2.me/theorems/cb0f3c55-08aa-4fb5-bb74-d44360c42fca

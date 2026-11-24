@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bmLift_exists
 -- name    : Formalism.BranchingDeterminantCap.bmLift_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:24:47.682052+00:00
 -- url     : https://prove2.me/theorems/47132070-1356-4fb1-a2ca-e813f5a7c560

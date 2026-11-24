@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_Hq_conjTranspose
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.Hq_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:05.894771+00:00
 -- url     : https://prove2.me/theorems/bf75bc73-a893-47e3-9d55-8009d0e0239d

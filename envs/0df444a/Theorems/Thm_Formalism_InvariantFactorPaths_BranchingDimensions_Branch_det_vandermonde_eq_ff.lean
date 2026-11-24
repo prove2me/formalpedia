@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_Branch_det_vandermonde_eq_ff
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.Branch.det_vandermonde_eq_ff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:19:48.442691+00:00
 -- url     : https://prove2.me/theorems/0f46a40a-f8de-42ff-ac0f-01d746486ef6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_PinE_eq_block_of_fix
 -- name    : Formalism.HermitianLattices.Ext.L3.PinE.eq_block_of_fix
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:58.998273+00:00
 -- url     : https://prove2.me/theorems/4ebe870a-0d25-4994-a846-42b8cedd219b

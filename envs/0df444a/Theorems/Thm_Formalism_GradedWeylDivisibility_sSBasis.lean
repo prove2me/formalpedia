@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_sSBasis
 -- name    : Formalism.GradedWeylDivisibility.sSBasis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T18:06:20.413818+00:00
 -- url     : https://prove2.me/theorems/34a878c8-861f-4b2c-81ca-7b1f11ed96d1

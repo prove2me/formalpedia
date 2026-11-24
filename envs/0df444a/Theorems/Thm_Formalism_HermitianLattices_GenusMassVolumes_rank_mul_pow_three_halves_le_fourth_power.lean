@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GenusMassVolumes_rank_mul_pow_three_halves_le_fourth_power
 -- name    : Formalism.HermitianLattices.GenusMassVolumes.rank_mul_pow_three_halves_le_fourth_power
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:05.331979+00:00
 -- url     : https://prove2.me/theorems/a14a06b3-c117-4ed7-9576-d71c3a9b527d

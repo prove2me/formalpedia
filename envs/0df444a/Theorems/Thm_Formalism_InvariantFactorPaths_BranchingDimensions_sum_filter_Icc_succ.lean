@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_sum_filter_Icc_succ
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.sum_filter_Icc_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:13:17.19178+00:00
 -- url     : https://prove2.me/theorems/f3999884-9741-46e1-aed7-f7fcbe225c52

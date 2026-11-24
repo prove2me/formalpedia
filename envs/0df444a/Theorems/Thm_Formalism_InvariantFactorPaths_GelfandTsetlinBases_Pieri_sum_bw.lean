@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Pieri_sum_bw
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.Pieri.sum_bw
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:35:35.399458+00:00
 -- url     : https://prove2.me/theorems/0d577ff6-fecf-48ea-9378-996214960ee2

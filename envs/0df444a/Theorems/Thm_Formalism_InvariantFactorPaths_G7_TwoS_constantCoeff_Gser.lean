@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_TwoS_constantCoeff_Gser
 -- name    : Formalism.InvariantFactorPaths.G7.TwoS.constantCoeff_Gser
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:19.13969+00:00
 -- url     : https://prove2.me/theorems/8ed96178-5f04-4a85-8e55-7ae1b9bacb96

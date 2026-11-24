@@ -1,0 +1,57 @@
+-- Prove2me | solution 1 for Formalism.InvariantFactorPaths.GelfandTsetlinBases.lp_min_mul
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-24T08:47:50.623809+00:00
+-- url     : https://prove2.me/submissions/7b5d0d1c-c29e-4696-9ef4-6b0383b7101a
+
+import Mathlib
+import Definitions.Def_Formalism_ThetaLogCoordinates_JacobiPathWeights_StatementE
+import Definitions.Def_Formalism_ThetaLogCoordinates_JacobiPathWeights_JacobiMinorProofs_ExistsSuppOfEvalNe
+import Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_lp_supp_nonempty
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open scoped BigOperators
+open Finset MvPolynomial
+open Formalism Formalism.InvariantFactorPaths Formalism.InvariantFactorPaths.GelfandTsetlinBases
+variable {A : Type*} [CommRing A] [IsDomain A]
+namespace Formalism.InvariantFactorPaths.GelfandTsetlinBases
+theorem _root_.solution (x y : LaurentPolynomial A) :
+    (x * y).coeff.support.min = x.coeff.support.min + y.coeff.support.min := by
+  classical
+  by_cases hx : x = 0
+  · simp [hx]
+  by_cases hy : y = 0
+  · simp [hy]
+  obtain ⟨a, ha⟩ := Finset.min_of_nonempty (lp_supp_nonempty hx)
+  obtain ⟨b, hb⟩ := Finset.min_of_nonempty (lp_supp_nonempty hy)
+  rw [ha, hb]
+  have ha' := Finset.mem_of_min ha
+  have hb' := Finset.mem_of_min hb
+  have hc : (x * y).coeff (a + b) = x.coeff a * y.coeff b := by
+    apply AddMonoidAlgebra.coeff_mul_add_of_uniqueAdd
+    intro a' b' ha'' hb'' h
+    have h1 : a ≤ a' := Finset.min_le_of_eq ha'' ha
+    have h2 : b ≤ b' := Finset.min_le_of_eq hb'' hb
+    constructor <;> omega
+  apply le_antisymm
+  · rw [← WithTop.coe_add]
+    apply Finset.min_le
+    rw [Finsupp.mem_support_iff, hc]
+    exact mul_ne_zero (Finsupp.mem_support_iff.mp ha') (Finsupp.mem_support_iff.mp hb')
+  · apply Finset.le_min
+    intro c hc'
+    have := AddMonoidAlgebra.support_coeff_mul_subset x y hc'
+    obtain ⟨a', ha'', b', hb'', rfl⟩ := Finset.mem_add.mp this
+    have h1 : a ≤ a' := Finset.min_le_of_eq ha'' ha
+    have h2 : b ≤ b' := Finset.min_le_of_eq hb'' hb
+    rw [← WithTop.coe_add]
+    exact WithTop.coe_le_coe.mpr (by omega)
+end Formalism.InvariantFactorPaths.GelfandTsetlinBases

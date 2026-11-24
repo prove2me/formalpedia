@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_factorialValuationLowerBound
 -- name    : Formalism.InvariantFactorPaths.G7.factorialValuationLowerBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:56:24.351235+00:00
 -- url     : https://prove2.me/theorems/13eb58a0-882e-45d9-8bf9-f0b01fef1212

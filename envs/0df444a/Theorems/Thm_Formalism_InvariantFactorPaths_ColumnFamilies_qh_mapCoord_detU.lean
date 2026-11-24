@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qh_mapCoord_detU
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qh_mapCoord_detU
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:19:35.030352+00:00
 -- url     : https://prove2.me/theorems/491b7137-f745-46fb-9819-f620429b81f0

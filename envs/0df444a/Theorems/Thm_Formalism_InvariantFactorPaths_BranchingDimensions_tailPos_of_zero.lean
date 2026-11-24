@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_tailPos_of_zero
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.tailPos_of_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:13:44.856561+00:00
 -- url     : https://prove2.me/theorems/8fc94340-361b-4fb3-837e-1d2e3b273aea

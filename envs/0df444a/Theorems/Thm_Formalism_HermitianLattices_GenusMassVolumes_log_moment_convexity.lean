@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GenusMassVolumes_log_moment_convexity
 -- name    : Formalism.HermitianLattices.GenusMassVolumes.log_moment_convexity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:10.635138+00:00
 -- url     : https://prove2.me/theorems/d868d6dc-c4a5-4956-8137-8f2d80d56c5e

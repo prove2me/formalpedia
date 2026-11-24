@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A3comb_cnt_init
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.A3comb.cnt_init
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:25.51848+00:00
 -- url     : https://prove2.me/theorems/3d286519-9ff9-4a10-8ac2-c4a311bf3603

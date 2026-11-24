@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_TTyp_getD_mem
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.TTyp.getD_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:20:00.908608+00:00
 -- url     : https://prove2.me/theorems/9d7977ea-a598-41a4-ab3c-a2dca303a33f

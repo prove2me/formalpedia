@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qn_natsmul
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qn_natsmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:27:03.499464+00:00
 -- url     : https://prove2.me/theorems/19979768-5a3c-40ed-978d-477ca652dcae

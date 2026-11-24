@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimitiveCharacterCasts_ZD_coefficient_square_bound
 -- name    : Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.ZD.coefficient_square_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:43.069621+00:00
 -- url     : https://prove2.me/theorems/64587a15-33da-4dfa-8d65-d4b5c5a1ebf1

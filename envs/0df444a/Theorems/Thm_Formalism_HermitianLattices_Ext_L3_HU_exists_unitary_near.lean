@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_exists_unitary_near
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.exists_unitary_near
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:49:18.23429+00:00
 -- url     : https://prove2.me/theorems/1953b16a-1598-4091-89c0-ac2e7d0d0764

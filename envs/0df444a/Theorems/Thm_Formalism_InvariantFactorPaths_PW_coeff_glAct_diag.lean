@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_coeff_glAct_diag
 -- name    : Formalism.InvariantFactorPaths.PW.coeff_glAct_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:29.356862+00:00
 -- url     : https://prove2.me/theorems/5c1d1b7f-472a-446d-84c4-f44b1da3e7cb

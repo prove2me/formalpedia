@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_localizedQuotients_vd_locF
 -- name    : Formalism.HermitianLattices.Ext.L3.localizedQuotients.vd_locF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:51.784799+00:00
 -- url     : https://prove2.me/theorems/9f9c1015-23e0-4499-ad6b-0bd1042043ed

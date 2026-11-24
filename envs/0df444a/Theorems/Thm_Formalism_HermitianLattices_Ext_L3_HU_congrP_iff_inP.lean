@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_congrP_iff_inP
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.congrP_iff_inP
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:13.661679+00:00
 -- url     : https://prove2.me/theorems/629f7245-2813-4a28-9445-85a271dd0318

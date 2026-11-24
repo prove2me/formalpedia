@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_CoboundarySeries_constantCoeff_Gser
 -- name    : Formalism.InvariantFactorPaths.G7.CoboundarySeries.constantCoeff_Gser
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:26:02.718164+00:00
 -- url     : https://prove2.me/theorems/9f3d35f1-ad41-48a2-b054-322e2133025a

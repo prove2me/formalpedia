@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_IndefR_DeterminantProjection_proj_idem__4c248bb24d62
 -- name    : P2M_Formalism_IndefR_DeterminantProjection_proj_idem__4c248bb24d62
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:38:55.391868+00:00
 -- url     : https://prove2.me/theorems/c6c2d6e4-ea5e-4181-8600-ad860b85cfba

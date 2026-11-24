@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LemOne_not_dvd_choose_pow_mul
 -- name    : Formalism.InvariantFactorPaths.G7.LemOne.not_dvd_choose_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:32:41.029941+00:00
 -- url     : https://prove2.me/theorems/99165457-5d15-4061-bc3d-1bd57592b8b5

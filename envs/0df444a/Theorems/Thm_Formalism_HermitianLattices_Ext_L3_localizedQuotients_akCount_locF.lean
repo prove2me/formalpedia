@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_localizedQuotients_akCount_locF
 -- name    : Formalism.HermitianLattices.Ext.L3.localizedQuotients.akCount_locF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:58.619246+00:00
 -- url     : https://prove2.me/theorems/d595046a-bd77-48ea-8426-74eb8aa63892

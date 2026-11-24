@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_spr_support_induction
 -- name    : Formalism.InvariantFactorPaths.INST.spr_support_induction
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:40:34.548218+00:00
 -- url     : https://prove2.me/theorems/aff84975-5366-441a-a4d0-714a380ca598

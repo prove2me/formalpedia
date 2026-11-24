@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_LL_tieF_pow_mul_free
 -- name    : Formalism.InvariantFactorPaths.KP.LL.tieF_pow_mul_free
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:58.391845+00:00
 -- url     : https://prove2.me/theorems/70dae467-8c82-4ed4-a4fe-b398f6a5a9ca

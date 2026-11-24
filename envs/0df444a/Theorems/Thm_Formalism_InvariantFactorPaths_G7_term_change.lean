@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_term_change
 -- name    : Formalism.InvariantFactorPaths.G7.term_change
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:24.322866+00:00
 -- url     : https://prove2.me/theorems/e63ba7ed-2d00-4dc5-8eee-604247156745

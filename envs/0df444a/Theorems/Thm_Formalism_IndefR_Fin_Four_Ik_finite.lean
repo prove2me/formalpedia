@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_Ik_finite
 -- name    : Formalism.IndefR.Fin.Four.Ik_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:13.539117+00:00
 -- url     : https://prove2.me/theorems/ba8ea681-8819-448f-937a-f7a3f4539ec8

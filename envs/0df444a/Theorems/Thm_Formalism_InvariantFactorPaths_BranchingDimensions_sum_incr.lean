@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_sum_incr
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.sum_incr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:13:19.008717+00:00
 -- url     : https://prove2.me/theorems/8ee49998-8ed1-46eb-a3b7-318c979957a7

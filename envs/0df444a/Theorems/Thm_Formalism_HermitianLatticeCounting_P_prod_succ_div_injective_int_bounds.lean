@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_prod_succ_div_injective_int_bounds
 -- name    : Formalism.HermitianLatticeCounting.P.prod_succ_div_injective_int_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:35.773265+00:00
 -- url     : https://prove2.me/theorems/8536a2f9-acfd-4c00-9250-dd98581a9219

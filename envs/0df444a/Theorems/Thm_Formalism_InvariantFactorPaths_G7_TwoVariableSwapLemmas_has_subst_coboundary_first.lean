@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_TwoVariableSwapLemmas_has_subst_coboundary_first
 -- name    : Formalism.InvariantFactorPaths.G7.TwoVariableSwapLemmas.has_subst_coboundary_first
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:02:45.569869+00:00
 -- url     : https://prove2.me/theorems/5772c0bb-99bf-4cb6-9511-b93975a44e68

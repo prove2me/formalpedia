@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_exponent_index_lattice_inv_dual
 -- name    : Formalism.DivisionValues.exponent_index_lattice.inv_dual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:22:08.494946+00:00
 -- url     : https://prove2.me/theorems/d8986820-bd0f-4fea-9c88-053da5bc9343

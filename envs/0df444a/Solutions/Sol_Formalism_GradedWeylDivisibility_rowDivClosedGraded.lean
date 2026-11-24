@@ -1,0 +1,34 @@
+-- Prove2me | solution 1 for Formalism.GradedWeylDivisibility.rowDivClosedGraded
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-24T08:33:34.047649+00:00
+-- url     : https://prove2.me/submissions/f58e4cd3-40c5-4d5e-a96d-904cc2b6ec35
+
+import Definitions.Def_Formalism_GradedWeylDivisibility_DualWeylDominanceOf
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_HWLine
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_HWLineTall
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockQPos
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockQBilin
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockQRowDivAdj
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_RowDivClosedGraded
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_HWInClosed
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_NablaTallZero
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_ClosedEqNabla
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_WeylEqNablaQ
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_WeylRationalOf
+import Definitions.Def_Formalism_GradedWeylDivisibility_FinalB
+import Theorems.Thm_Formalism_GradedWeylDivisibility_row_divided_closed_graded
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.GradedWeylDivisibility
+namespace Formalism.GradedWeylDivisibility
+theorem _root_.solution : RowDivClosedGraded := row_divided_closed_graded
+end Formalism.GradedWeylDivisibility

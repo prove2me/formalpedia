@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeylDuality_dualWeyl_int_fg
 -- name    : GlobalTheory.WeylDuality.dualWeyl_int_fg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:06:56.954628+00:00
 -- url     : https://prove2.me/theorems/bcb1e852-8de7-4d2b-9459-b0b773803e7f

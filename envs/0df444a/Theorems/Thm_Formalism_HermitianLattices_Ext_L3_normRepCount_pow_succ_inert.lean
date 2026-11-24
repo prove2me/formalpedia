@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_normRepCount_pow_succ_inert
 -- name    : Formalism.HermitianLattices.Ext.L3.normRepCount_pow_succ_inert
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:55:51.307408+00:00
 -- url     : https://prove2.me/theorems/da2d3313-f868-4677-824e-3fc0caf357eb

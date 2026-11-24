@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Arith_FormsL_mem_typeP
 -- name    : Formalism.IndefR.Arith.FormsL.mem_typeP
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:25.526297+00:00
 -- url     : https://prove2.me/theorems/6c6458f3-a9df-4215-bd56-2b089ff365c4

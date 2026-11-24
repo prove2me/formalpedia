@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_keyZero
 -- name    : Formalism.IndefR.LatticeTransfer.keyZero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:17:14.695997+00:00
 -- url     : https://prove2.me/theorems/09aa53dc-ad55-4bed-bc82-b154ad86ceb7

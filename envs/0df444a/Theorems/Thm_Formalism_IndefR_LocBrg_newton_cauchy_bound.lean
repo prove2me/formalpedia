@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LocBrg_newton_cauchy_bound
 -- name    : Formalism.IndefR.LocBrg.newton_cauchy_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:17:18.522151+00:00
 -- url     : https://prove2.me/theorems/de87505e-e93b-43dc-b51f-b7794592c8f9

@@ -5,9 +5,20 @@
 -- created : 2026-11-23T08:46:56.554375+00:00
 -- url     : https://prove2.me/theorems/0e9bbdb8-656d-40f9-ade9-3d9064d4bb23
 -- title:
---   Complete classification of the three-occurrence Horn formulas of $d$-regular graphs for all $d\ge1$
+--   Three-occurrence Horn formulas of $d$-regular graphs: exact optimum and approximation ratios for every $d\ge 1$
 -- statement:
---   Let $H$ be a simple $d$-regular graph with $n$ vertices and $m=dn/2$ edges, with a port labelling, and let $T_H$ be the three-occurrence Horn formula with $d+1$ clones at every vertex. (1) For $d\ge1$, the maximum number of satisfied clauses is $(d+1)n+m+\alpha(H)$, $2m=dn$ and $2\alpha(H)\le n$. (2) Every assignment $z$ is repaired to an independent set $R(z)$ with $\mathrm{score}(z)\le(d+1)n+m+|R(z)|$. (3) The assignment of an independent set $I$ (clones of vertices of $I$ false, all others true) satisfies exactly $(d+1)n+m+|I|$ clauses. (4) The all-true assignment satisfies at least $\frac{3d+2}{3d+3}$ of the optimum for every $d\ge1$, and at least $\frac{83}{84}$ for $d\ge27$. (5) If $6\alpha\le7|I|$ the lift of $I$ satisfies at least $\frac{21d+20}{21d+21}$ of the optimum, for every $d\ge1$. (6) If $27\alpha\le28|I|+d\alpha$ the lift satisfies at least $\frac{83}{84}$ of the optimum, for every $d\ge1$. (7) If $d\ge22$ and $5\alpha\le(d+3)|I|$ the lift satisfies at least $\frac{83}{84}$ of the optimum; for every degree $e+2$ and $\varepsilon=1/c$ the division-free form of the ratio $1-\frac{d-2+\varepsilon}{(3d+3)(d+3+\varepsilon)}$ holds. (8) For $d=21$, an independent set satisfying $50\alpha\le241|I|$ when $200\alpha\le99n$ and $3n\le25|I|$ when $99n<200\alpha$ has a lift of ratio at least $\frac{83}{84}$. (9) For $d=1$, $\alpha(H)=m=n/2$ and the optimum is $3n$; for $d=2$, $m=n$ and the optimum is $4n+\alpha(H)$. The polynomial running times, the exact computation of a maximum independent set on paths and cycles, and the Berman--Fujito, Trevisan and Goemans--Williamson guarantees are not formalized.
+--   A $d$-regular graph $H$ with $n$ vertices and $m=dn/2$ edges is turned into a three-occurrence Horn formula $T_H$ by replacing every vertex with $d+1$ clones. This theorem determines the optimum of $T_H$ exactly in terms of the independence number $\alpha(H)$, and gives approximation ratios for it from independent sets of $H$, for every degree $d\ge 1$.
+--
+--   The formalized statement says:
+--
+--   - The maximum number of satisfied clauses of $T_H$ is $(d+1)n+m+\alpha(H)$, and $2\alpha(H)\le n$.
+--   - Every assignment can be repaired to an independent set $R$ whose value is at least the score of the assignment, and an independent set $I$ gives an assignment satisfying exactly $(d+1)n+m+|I|$ clauses.
+--   - The all-true assignment satisfies at least $\tfrac{3d+2}{3d+3}$ of the optimum for every $d\ge1$, and at least $\tfrac{83}{84}$ for $d\ge27$.
+--   - If $6\alpha\le 7|I|$, the lift of $I$ satisfies at least $\tfrac{21d+20}{21d+21}$ of the optimum for every $d\ge1$.
+--   - If $27\alpha\le 28|I|+d\alpha$, the lift satisfies at least $\tfrac{83}{84}$ of the optimum for every $d\ge1$. The same holds for $d\ge 22$ when $5\alpha\le (d+3)|I|$ and for $d=21$ under a two-case condition on $|I|$.
+--   - For $d=1$ the independence number is $m=n/2$ and the optimum is $3n$; for $d=2$ the optimum is $4n+\alpha(H)$.
+--
+--   The polynomial running times, the exact computation of a maximum independent set on paths and cycles, and the Berman--Fujito, Trevisan and Goemans--Williamson guarantees are not formalized.
 -- source:
 --   https://github.com/frankvegadelgado/paloma/blob/afdff6eea63634613b0adda9cb2526f3c96af8b6/doc/paper.tex#L203
 

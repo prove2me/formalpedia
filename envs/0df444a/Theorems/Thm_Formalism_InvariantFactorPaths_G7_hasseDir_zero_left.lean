@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_hasseDir_zero_left
 -- name    : Formalism.InvariantFactorPaths.G7.hasseDir_zero_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:30:07.932555+00:00
 -- url     : https://prove2.me/theorems/5a3250a8-b92b-46e3-b166-ef49a51e90e9

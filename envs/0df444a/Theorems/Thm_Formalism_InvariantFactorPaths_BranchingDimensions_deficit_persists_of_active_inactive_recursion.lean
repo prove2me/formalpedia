@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_deficit_persists_of_active_inactive_recursion
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.deficit_persists_of_active_inactive_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:18:47.556962+00:00
 -- url     : https://prove2.me/theorems/13881afc-ae7f-443a-8f6f-f42f7cf40c6c

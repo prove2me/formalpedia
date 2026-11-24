@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_volume_ratio
 -- name    : Formalism.HermitianLatticeCounting.P.volume_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:48:27.214648+00:00
 -- url     : https://prove2.me/theorems/75a5e5a7-bfd2-46a3-86cd-a328599054a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_Branch_sum_det
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.Branch.sum_det
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:20:01.51134+00:00
 -- url     : https://prove2.me/theorems/3d37962e-3939-4dcc-8ab7-e04857d454cd

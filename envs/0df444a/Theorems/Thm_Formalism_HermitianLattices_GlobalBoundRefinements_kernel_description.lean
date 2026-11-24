@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_kernel_description
 -- name    : Formalism.HermitianLattices.GlobalBoundRefinements.kernel_description
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:15.893961+00:00
 -- url     : https://prove2.me/theorems/4a55ba41-c880-45cb-b694-56d71394c551

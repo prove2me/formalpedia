@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_Lat_exists_smul_mem
 -- name    : Formalism.IndefR.LatticeTransfer.Lat.exists_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:17:39.475866+00:00
 -- url     : https://prove2.me/theorems/47f820aa-a44d-4e63-88ef-f73c84d25737

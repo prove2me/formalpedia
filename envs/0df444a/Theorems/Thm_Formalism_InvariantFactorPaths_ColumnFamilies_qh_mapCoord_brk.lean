@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qh_mapCoord_brk
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qh_mapCoord_brk
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:21:35.05625+00:00
 -- url     : https://prove2.me/theorems/952b4e70-26a7-4513-a5ff-478703795b20

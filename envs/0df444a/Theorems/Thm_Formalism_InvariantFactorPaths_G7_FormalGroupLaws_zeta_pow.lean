@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_FormalGroupLaws_zeta_pow
 -- name    : Formalism.InvariantFactorPaths.G7.FormalGroupLaws.zeta_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:11.120441+00:00
 -- url     : https://prove2.me/theorems/fb5d7dba-e282-41d5-8d83-7822c177e2ec

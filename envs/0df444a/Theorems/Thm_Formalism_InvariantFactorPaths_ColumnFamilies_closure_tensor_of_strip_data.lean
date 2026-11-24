@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_closure_tensor_of_strip_data
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.closure_tensor_of_strip_data
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:13:41.108016+00:00
 -- url     : https://prove2.me/theorems/52771492-86fa-45a8-ba1c-488c4a33bad4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_ETerm_prod_monomial
 -- name    : Formalism.InvariantFactorPaths.G7.ETerm.prod_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:27:27.298512+00:00
 -- url     : https://prove2.me/theorems/fe910a87-62d1-4e0d-a5af-375c47e15c8a

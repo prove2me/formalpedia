@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_TwoVariableSwapLemmas_norm_of_pow_eq_one
 -- name    : Formalism.InvariantFactorPaths.G7.TwoVariableSwapLemmas.norm_of_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:06.791162+00:00
 -- url     : https://prove2.me/theorems/c575fae3-27d5-44bd-bd55-7cb4ebd11598

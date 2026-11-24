@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ZeroFreeRegionGL2_nonvanishing_of_hypothesis
 -- name    : Formalism.HermitianLattices.ZeroFreeRegionGL2.nonvanishing_of_hypothesis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:37:57.418251+00:00
 -- url     : https://prove2.me/theorems/40b66364-1923-4cf9-aa00-5f296f764314

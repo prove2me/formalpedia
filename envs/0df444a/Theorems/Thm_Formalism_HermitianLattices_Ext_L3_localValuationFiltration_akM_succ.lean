@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_localValuationFiltration_akM_succ
 -- name    : Formalism.HermitianLattices.Ext.L3.localValuationFiltration.akM_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:54.133629+00:00
 -- url     : https://prove2.me/theorems/868af048-f94f-4073-9497-fa14440c6501

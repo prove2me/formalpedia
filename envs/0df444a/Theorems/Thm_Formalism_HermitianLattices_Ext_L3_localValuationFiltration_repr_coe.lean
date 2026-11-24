@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_localValuationFiltration_repr_coe
 -- name    : Formalism.HermitianLattices.Ext.L3.localValuationFiltration.repr_coe
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:04.038159+00:00
 -- url     : https://prove2.me/theorems/97de63cb-722f-4457-aa5f-108de27b73a9

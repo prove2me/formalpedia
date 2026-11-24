@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Pieri_antitone_star
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.Pieri.antitone_star
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:59.458465+00:00
 -- url     : https://prove2.me/theorems/0106724a-e570-4e36-be29-32fabad6aba2

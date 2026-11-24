@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_hecke_convolution
 -- name    : Formalism.InvariantFactorPaths.G7.hecke_convolution
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:35:18.324897+00:00
 -- url     : https://prove2.me/theorems/a0ef9d1d-234a-4776-8c68-7b6166a302ac

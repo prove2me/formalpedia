@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Branch_card_restr
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.Branch.card_restr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:34.904666+00:00
 -- url     : https://prove2.me/theorems/82d9930d-7bbc-4b82-9acc-5e5ed8003d34

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_nilpotent_model_computation_holds
 -- name    : Formalism.HermitianLatticeCounting.P.nilpotent_model_computation_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:41:30.830991+00:00
 -- url     : https://prove2.me/theorems/dfa926d6-b87e-4b28-802e-79e8f46d7c03

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_classSetAssembly_finite_rat
 -- name    : Formalism.HermitianLatticesTheory.classSetAssembly_finite_rat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:06:40.809963+00:00
 -- url     : https://prove2.me/theorems/94772dec-fa19-4453-aac6-720a7db766f0

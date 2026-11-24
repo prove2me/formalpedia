@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_Om_vanish
 -- name    : Formalism.InvariantFactorPaths.PW.Om_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:56.630995+00:00
 -- url     : https://prove2.me/theorems/83fdadf3-1636-4a49-8b0f-601b89c5abb7

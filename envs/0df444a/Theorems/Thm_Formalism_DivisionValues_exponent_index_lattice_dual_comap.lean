@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_exponent_index_lattice_dual_comap
 -- name    : Formalism.DivisionValues.exponent_index_lattice.dual_comap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:33:38.237715+00:00
 -- url     : https://prove2.me/theorems/ac2cb1af-b14f-44dd-8679-98132dc97c7e

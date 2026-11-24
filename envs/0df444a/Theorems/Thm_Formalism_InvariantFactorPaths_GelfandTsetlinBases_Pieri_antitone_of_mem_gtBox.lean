@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Pieri_antitone_of_mem_gtBox
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.Pieri.antitone_of_mem_gtBox
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:35:32.768804+00:00
 -- url     : https://prove2.me/theorems/3b8e4def-9c5d-4b20-be7e-8843c8e45149

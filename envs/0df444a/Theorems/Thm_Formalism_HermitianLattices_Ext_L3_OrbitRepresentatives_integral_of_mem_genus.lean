@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_OrbitRepresentatives_integral_of_mem_genus
 -- name    : Formalism.HermitianLattices.Ext.L3.OrbitRepresentatives.integral_of_mem_genus
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:14:13.73818+00:00
 -- url     : https://prove2.me/theorems/2c18b6d3-295c-4dd5-9975-eae93497a1ea

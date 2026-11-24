@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qr_filter_castSucc
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qr_filter_castSucc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:50.761898+00:00
 -- url     : https://prove2.me/theorems/2b27e8b5-d861-44f9-8dd5-fb7a8c9730c0

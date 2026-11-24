@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_reductionMapsOfForms_card_rep_succ
 -- name    : Formalism.HermitianLattices.Ext.L3.reductionMapsOfForms.card_rep_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:17:59.017829+00:00
 -- url     : https://prove2.me/theorems/cdb59e50-f324-4f5c-8f66-2d09e2a0cfac

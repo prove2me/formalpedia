@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_thetaSummable_parallelogram
 -- name    : Formalism.HermitianLatticesTheory.thetaSummable_parallelogram
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:05:21.639222+00:00
 -- url     : https://prove2.me/theorems/a50076cf-bbba-41a0-ad78-f05a5209c544

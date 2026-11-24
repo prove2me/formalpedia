@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_TwoVariableSwapLemmas_swap_two_map
 -- name    : Formalism.InvariantFactorPaths.G7.TwoVariableSwapLemmas.swap_two_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:18.338726+00:00
 -- url     : https://prove2.me/theorems/d40f469c-7fc6-4a1a-97a8-1429223156ac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Eqv_md_succ_sub
 -- name    : Formalism.IndefR.Eqv.md_succ_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:19:08.012868+00:00
 -- url     : https://prove2.me/theorems/6098ac85-b9c2-4eff-b35e-41236dd46cb4

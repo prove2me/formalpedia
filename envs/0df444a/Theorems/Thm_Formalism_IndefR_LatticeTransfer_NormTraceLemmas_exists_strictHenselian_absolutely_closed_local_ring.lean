@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_NormTraceLemmas_exists_strictHenselian_absolutely_closed_local_ring
 -- name    : Formalism.IndefR.LatticeTransfer.NormTraceLemmas.exists_strictHenselian_absolutely_closed_local_ring
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:13:18.171623+00:00
 -- url     : https://prove2.me/theorems/d386cc9e-62bd-4cd7-b5d3-3cec3afed5e5

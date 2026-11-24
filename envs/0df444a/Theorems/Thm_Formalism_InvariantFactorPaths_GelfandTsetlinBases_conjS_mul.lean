@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_conjS_mul
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.conjS_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:39:50.865096+00:00
 -- url     : https://prove2.me/theorems/aebc6013-3392-4beb-9c45-2d0260f95c39

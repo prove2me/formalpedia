@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BrA_finrank_ringOfIntegers
 -- name    : Formalism.HermitianLattices.Ext.L3.BrA.finrank_ringOfIntegers
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:06.859509+00:00
 -- url     : https://prove2.me/theorems/e4c63ae5-8d43-4470-9963-ac4872a2c1f1

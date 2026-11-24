@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_ETerm_lowDeg_sub_le
 -- name    : Formalism.InvariantFactorPaths.G7.ETerm.lowDeg_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:27:38.473241+00:00
 -- url     : https://prove2.me/theorems/15a38e05-aae4-4c2a-b59e-9ee72832797d

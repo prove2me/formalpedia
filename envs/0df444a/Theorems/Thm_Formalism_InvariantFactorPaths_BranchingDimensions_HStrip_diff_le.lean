@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_HStrip_diff_le
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.HStrip.diff_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:18.314937+00:00
 -- url     : https://prove2.me/theorems/2b253383-4db9-4853-8289-dbd6899cd263

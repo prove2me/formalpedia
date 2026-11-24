@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_localValuationFiltration_notMem_pow_vF
 -- name    : Formalism.HermitianLattices.Ext.L3.localValuationFiltration.notMem_pow_vF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:52.45618+00:00
 -- url     : https://prove2.me/theorems/0c15b29d-93d9-486d-985a-2b9466f626a9

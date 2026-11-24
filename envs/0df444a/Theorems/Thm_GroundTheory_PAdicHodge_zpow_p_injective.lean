@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_zpow_p_injective
 -- name    : GroundTheory.PAdicHodge.zpow_p_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:43:08.693501+00:00
 -- url     : https://prove2.me/theorems/b017ee5b-cd20-488d-bf60-e8cb0bc55fbc

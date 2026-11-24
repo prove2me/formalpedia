@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Branch_card_of_existsUnique
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.Branch.card_of_existsUnique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:44.175178+00:00
 -- url     : https://prove2.me/theorems/a933ba4f-fd73-444e-adf5-1a78f95ca40a

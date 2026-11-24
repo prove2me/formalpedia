@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_TwoS_sum_dual
 -- name    : Formalism.InvariantFactorPaths.G7.TwoS.sum_dual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:37.514467+00:00
 -- url     : https://prove2.me/theorems/f2e3f050-896b-4d17-93b3-1831d2abc293
