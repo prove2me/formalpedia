@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx2_lc_miss
 -- name    : Formalism.FourierDecayAlt.P.Qx2.lc_miss
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:19:44.944314+00:00
 -- url     : https://prove2.me/theorems/c372c559-99d9-4a68-b6ce-332dd725dcab

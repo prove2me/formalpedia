@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_map_conj_diagGL_N_le
 -- name    : GlobalTheory.FunObj.map_conj_diagGL_N_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:41:13.766586+00:00
 -- url     : https://prove2.me/theorems/f2973ef5-4eaf-4927-b7db-dbf6a8ba46a6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FockHighestWeight_fockQ_hw
 -- name    : GlobalTheory.FockHighestWeight.fockQ_hw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:34:43.291036+00:00
 -- url     : https://prove2.me/theorems/b297c696-0d66-49f3-ac6e-092f9883cb2c

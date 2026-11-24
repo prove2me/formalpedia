@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_low_weight_specialisation
 -- name    : Formalism.FourierDecayAlt.P.low_weight_specialisation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:33:55.814238+00:00
 -- url     : https://prove2.me/theorems/88de05dc-21fb-4906-9be3-b5b307c184af

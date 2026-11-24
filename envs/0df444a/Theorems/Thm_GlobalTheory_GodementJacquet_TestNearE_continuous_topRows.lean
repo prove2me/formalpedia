@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GodementJacquet_TestNearE_continuous_topRows
 -- name    : GlobalTheory.GodementJacquet.TestNearE.continuous_topRows
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:55:37.85044+00:00
 -- url     : https://prove2.me/theorems/beea36ea-c271-44d4-a3b5-cb4be24ef8f5

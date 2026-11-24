@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DDSmoothness_uh_mul
 -- name    : Formalism.FourierDecayAlt.P.DDSmoothness.uh_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:11:39.602412+00:00
 -- url     : https://prove2.me/theorems/23d9030a-5f8d-4489-873d-afeda9261fdd

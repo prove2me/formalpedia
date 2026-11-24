@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussTransport_iteratedDeriv_cexp_mul
 -- name    : GlobalTheory.GaussTransport.iteratedDeriv_cexp_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:53:55.869058+00:00
 -- url     : https://prove2.me/theorems/66b3c82c-a402-42e6-8c79-efb8c25d3a76

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux3_eC_symm_natAdd
 -- name    : Formalism.FourierDecayAlt.P.Ux3.eC_symm_natAdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:25:51.34244+00:00
 -- url     : https://prove2.me/theorems/eeea1cd5-a507-48f7-97de-72d97d051fe9

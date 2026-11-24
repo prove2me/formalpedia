@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux6_block_index_last_val_eq
 -- name    : Formalism.FourierDecayAlt.P.Ux6.block_index_last_val_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:28:43.498292+00:00
 -- url     : https://prove2.me/theorems/8f21a8ac-543e-4757-8fea-26e2580a2b47

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_dj_step
 -- name    : Formalism.FourierDecayAlt.P.B2x8.dj_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:00:41.792055+00:00
 -- url     : https://prove2.me/theorems/b941b0cf-9bfa-42d6-b38f-19a1732a181e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_glue_coordinate_split
 -- name    : Formalism.FourierDecayAlt.P5.glue_coordinate_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:08:36.908589+00:00
 -- url     : https://prove2.me/theorems/5387cb8b-a500-449d-8aef-148d02cc75bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenEigenFinOrbit_sub_pow_coe
 -- name    : GlobalTheory.GenEigenFinOrbit.sub_pow_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:54:06.70842+00:00
 -- url     : https://prove2.me/theorems/6754b198-ce1b-4a4a-b5f2-66e4f98f15c8

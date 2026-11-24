@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoByOneBlock_exists_phase
 -- name    : Formalism.FourierDecayAlt.P.TwoByOneBlock.exists_phase
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:23:19.627834+00:00
 -- url     : https://prove2.me/theorems/ed22e0de-8c42-44db-989f-b7b5ffa88de2

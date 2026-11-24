@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FlagSpanVanishing_mulVec_bvec
 -- name    : Formalism.FourierDecayAlt.P.FlagSpanVanishing.mulVec_bvec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:27:30.850275+00:00
 -- url     : https://prove2.me/theorems/f6801dce-37c8-4865-b385-2d65763902a9

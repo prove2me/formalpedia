@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_IsInt_mul
 -- name    : GlobalTheory.InertZeta.IsInt.mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:27:19.149544+00:00
 -- url     : https://prove2.me/theorems/5fd847ac-29eb-4185-a061-4ddf8bf8f7b7

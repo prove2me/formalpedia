@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_innerProduct_rootPowerSum_eq_of_frobenius_modEq
 -- name    : GlobalTheory.T.innerProduct_rootPowerSum_eq_of_frobenius_modEq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:49:19.327525+00:00
 -- url     : https://prove2.me/theorems/1ca7a98a-5da8-4ed1-bd6a-079b4fb48846

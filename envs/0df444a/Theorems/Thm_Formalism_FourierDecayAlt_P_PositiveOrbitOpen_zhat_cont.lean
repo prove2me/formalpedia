@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PositiveOrbitOpen_zhat_cont
 -- name    : Formalism.FourierDecayAlt.P.PositiveOrbitOpen.zhat_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:20:56.327086+00:00
 -- url     : https://prove2.me/theorems/575359e2-7467-46d4-96bf-c572ede4b478

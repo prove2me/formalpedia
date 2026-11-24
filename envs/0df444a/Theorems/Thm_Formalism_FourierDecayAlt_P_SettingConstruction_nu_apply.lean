@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SettingConstruction_nu_apply
 -- name    : Formalism.FourierDecayAlt.P.SettingConstruction.nu_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:23:49.3262+00:00
 -- url     : https://prove2.me/theorems/a8a97b22-7f4a-4835-98ff-4abe42396de1

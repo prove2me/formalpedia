@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianProjections_strict_pow_apply
 -- name    : Formalism.FourierDecayAlt.P.HermitianProjections.strict_pow_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:14:56.301863+00:00
 -- url     : https://prove2.me/theorems/816ff683-d957-4cf8-a468-83be847e47de

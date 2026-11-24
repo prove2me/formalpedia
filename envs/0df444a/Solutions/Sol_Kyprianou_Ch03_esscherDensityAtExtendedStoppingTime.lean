@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.esscherDensityAtExtendedStoppingTime
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T15:02:59.925264+00:00
 -- url     : https://prove2.me/submissions/053edf86-b25e-443d-87e7-04f36efca830
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_Ch03_esscherDensityFiniteCutV1

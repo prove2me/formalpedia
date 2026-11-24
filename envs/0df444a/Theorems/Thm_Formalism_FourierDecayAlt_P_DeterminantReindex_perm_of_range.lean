@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DeterminantReindex_perm_of_range
 -- name    : Formalism.FourierDecayAlt.P.DeterminantReindex.perm_of_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:12:40.573197+00:00
 -- url     : https://prove2.me/theorems/a7bb2b6a-adc0-494e-b273-00a53d8dc145

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UpqExpChart_exp_twist
 -- name    : GlobalTheory.UpqExpChart.exp_twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:43:50.580901+00:00
 -- url     : https://prove2.me/theorems/fb523f0d-e94d-4abc-ba72-2a923a03497b

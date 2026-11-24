@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux13_continuous_cornerB
 -- name    : Formalism.FourierDecayAlt.P.Ux13.continuous_cornerB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:24:23.248277+00:00
 -- url     : https://prove2.me/theorems/b038e910-6695-45b4-8ae5-88d1dac55dc6

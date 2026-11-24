@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFn_ex_natCast_smul
 -- name    : GlobalTheory.ThetaFn.ex_natCast_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:27:58.498903+00:00
 -- url     : https://prove2.me/theorems/b41409d2-59b2-4a69-9b18-2967cb1a29b6

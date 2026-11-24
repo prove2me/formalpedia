@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormFactor_isClosed_posSemidef
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormFactor.isClosed_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:16:01.981953+00:00
 -- url     : https://prove2.me/theorems/a1e949e8-b36a-4ca1-86dd-e5814fb4c407

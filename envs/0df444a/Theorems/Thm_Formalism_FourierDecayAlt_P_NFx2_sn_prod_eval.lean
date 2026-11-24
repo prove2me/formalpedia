@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_sn_prod_eval
 -- name    : Formalism.FourierDecayAlt.P.NFx2.sn_prod_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:18:42.59883+00:00
 -- url     : https://prove2.me/theorems/901c142a-75fe-4b6c-8fcc-4baf6a70e201

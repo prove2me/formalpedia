@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_boundedStoppingDensityEventV1
 -- name    : Kyprianou.Ch03.boundedStoppingDensityEventV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T15:13:24.58665+00:00
 -- url     : https://prove2.me/theorems/84e16fd5-2778-4fba-8a93-5f63273515b4

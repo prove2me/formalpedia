@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormFactor_entry_bound
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormFactor.entry_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:14:36.424798+00:00
 -- url     : https://prove2.me/theorems/1cc4e765-d1e4-46f5-ac54-9593ef892fcb

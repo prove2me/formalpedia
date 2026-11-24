@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DiscFubiniVolume_vol_sq_lt
 -- name    : Formalism.FourierDecayAlt.P.DiscFubiniVolume.vol_sq_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:14:36.828203+00:00
 -- url     : https://prove2.me/theorems/45010caf-c520-4325-becc-a6e6a07a048a

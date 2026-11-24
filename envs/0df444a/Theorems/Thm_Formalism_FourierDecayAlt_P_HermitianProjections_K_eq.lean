@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianProjections_K_eq
 -- name    : Formalism.FourierDecayAlt.P.HermitianProjections.K_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:15:53.567208+00:00
 -- url     : https://prove2.me/theorems/b22be6ef-2e54-459d-a0b7-66310e62b515

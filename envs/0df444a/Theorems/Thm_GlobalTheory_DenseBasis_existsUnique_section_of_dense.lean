@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DenseBasis_existsUnique_section_of_dense
 -- name    : GlobalTheory.DenseBasis.existsUnique_section_of_dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:43:41.755904+00:00
 -- url     : https://prove2.me/theorems/4566c53a-b2fa-42ef-9f7a-9763fd770cf7

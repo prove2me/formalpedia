@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FlagSpanVanishing_sig_fixes_middle_block
 -- name    : Formalism.FourierDecayAlt.P.FlagSpanVanishing.sig_fixes_middle_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:26:50.883059+00:00
 -- url     : https://prove2.me/theorems/84e08990-e57b-4838-83bb-3eb9f427bb72

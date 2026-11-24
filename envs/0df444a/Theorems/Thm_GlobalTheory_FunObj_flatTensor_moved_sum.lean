@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_flatTensor_moved_sum
 -- name    : GlobalTheory.FunObj.flatTensor_moved_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:42:16.337819+00:00
 -- url     : https://prove2.me/theorems/7b88eecc-aa8f-4841-9221-0ee73cd92b61

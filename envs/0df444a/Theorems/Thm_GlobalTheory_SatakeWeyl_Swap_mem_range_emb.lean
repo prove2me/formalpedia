@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_Swap_mem_range_emb
 -- name    : GlobalTheory.SatakeWeyl.Swap.mem_range_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:27:38.884936+00:00
 -- url     : https://prove2.me/theorems/28c1a72e-1c62-4586-bd61-1b9a9dc997a7

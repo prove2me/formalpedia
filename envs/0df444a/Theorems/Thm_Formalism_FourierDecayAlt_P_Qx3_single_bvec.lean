@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx3_single_bvec
 -- name    : Formalism.FourierDecayAlt.P.Qx3.single_bvec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:19:41.408833+00:00
 -- url     : https://prove2.me/theorems/ce813bf9-1465-4764-af96-3378f077b99a

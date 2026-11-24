@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatThickenings_flat_of_flat_thickenings
 -- name    : GlobalTheory.FlatThickenings.flat_of_flat_thickenings
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:33:08.221612+00:00
 -- url     : https://prove2.me/theorems/add3d448-fb26-434a-8190-8141fdaba6ee

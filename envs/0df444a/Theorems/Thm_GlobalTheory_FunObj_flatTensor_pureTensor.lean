@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_flatTensor_pureTensor
 -- name    : GlobalTheory.FunObj.flatTensor_pureTensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:41:53.237638+00:00
 -- url     : https://prove2.me/theorems/b096034d-3471-4b45-b705-4b515c74c50f

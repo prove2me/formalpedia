@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GLDoubling_sphSection_torusElt
 -- name    : GlobalTheory.GLDoubling.sphSection_torusElt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:44:19.777015+00:00
 -- url     : https://prove2.me/theorems/a0ae4791-01e3-44e6-b10f-a9fa160e41d3

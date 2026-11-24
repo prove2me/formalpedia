@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormFactor_finrank_QP
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormFactor.finrank_QP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:13:54.254241+00:00
 -- url     : https://prove2.me/theorems/5a3d4735-20fd-4533-8dad-700e3d281278

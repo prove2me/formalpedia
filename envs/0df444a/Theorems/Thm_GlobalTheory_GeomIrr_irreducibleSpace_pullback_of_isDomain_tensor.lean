@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GeomIrr_irreducibleSpace_pullback_of_isDomain_tensor
 -- name    : GlobalTheory.GeomIrr.irreducibleSpace_pullback_of_isDomain_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:55:52.793541+00:00
 -- url     : https://prove2.me/theorems/c4187ea1-3834-4256-881c-ec3c435965ad

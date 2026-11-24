@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux10_Mv_sum
 -- name    : Formalism.FourierDecayAlt.P.Ux10.Mv_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:11:31.572528+00:00
 -- url     : https://prove2.me/theorems/c803aeb7-6a7d-4b32-b870-1b10422dd4ff

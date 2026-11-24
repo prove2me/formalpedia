@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SandwichRhoAction_isUnit_sR
 -- name    : Formalism.FourierDecayAlt.P.SandwichRhoAction.isUnit_sR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:21:28.010831+00:00
 -- url     : https://prove2.me/theorems/2fbdc403-7dd2-45d7-96bb-2b8921e408db

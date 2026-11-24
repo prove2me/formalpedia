@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_mem_normSub_of_isSquare
 -- name    : GlobalTheory.QNorm.mem_normSub_of_isSquare
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:24:41.112211+00:00
 -- url     : https://prove2.me/theorems/8f58b257-be89-4cd2-a103-0924f3901c37

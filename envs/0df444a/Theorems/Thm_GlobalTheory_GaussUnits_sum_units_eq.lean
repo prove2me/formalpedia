@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussUnits_sum_units_eq
 -- name    : GlobalTheory.GaussUnits.sum_units_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:54:08.963708+00:00
 -- url     : https://prove2.me/theorems/048889d7-2e8b-4e0b-92c9-0c38cec5391a

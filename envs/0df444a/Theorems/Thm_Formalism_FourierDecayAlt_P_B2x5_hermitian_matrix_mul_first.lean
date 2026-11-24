@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x5_hermitian_matrix_mul_first
 -- name    : Formalism.FourierDecayAlt.P.B2x5.hermitian_matrix_mul_first
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:58:25.047977+00:00
 -- url     : https://prove2.me/theorems/598eb845-171e-4969-a2cf-e83de95d2585

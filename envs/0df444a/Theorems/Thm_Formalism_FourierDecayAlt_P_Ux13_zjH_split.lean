@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux13_zjH_split
 -- name    : Formalism.FourierDecayAlt.P.Ux13.zjH_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:24:47.249902+00:00
 -- url     : https://prove2.me/theorems/8e88b53e-3592-4cb7-8bcb-0b4e1a28da11

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GradedFixed_iSup_orbit
 -- name    : GlobalTheory.GradedFixed.iSup_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:56:42.876813+00:00
 -- url     : https://prove2.me/theorems/193dec86-2e75-430b-9947-2edb0a0c3dd8

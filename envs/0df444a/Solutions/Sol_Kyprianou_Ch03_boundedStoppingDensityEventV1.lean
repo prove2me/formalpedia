@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.boundedStoppingDensityEventV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T15:45:43.810585+00:00
 -- url     : https://prove2.me/submissions/3b963662-6f28-4457-9cba-8a4e39cad116
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_Ch03_boundedStoppingUpperGridV1

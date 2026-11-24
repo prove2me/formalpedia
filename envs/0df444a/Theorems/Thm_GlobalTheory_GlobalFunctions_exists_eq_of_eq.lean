@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlobalFunctions_exists_eq_of_eq
 -- name    : GlobalTheory.GlobalFunctions.exists_eq_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:56:05.400777+00:00
 -- url     : https://prove2.me/theorems/f3f74ef0-1869-4e56-a8d2-398b768b43b8

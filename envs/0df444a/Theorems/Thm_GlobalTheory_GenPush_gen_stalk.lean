@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenPush_gen_stalk
 -- name    : GlobalTheory.GenPush.gen_stalk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:54:38.419652+00:00
 -- url     : https://prove2.me/theorems/ec0afd5d-7099-42ef-b474-974ea0e7a5bf

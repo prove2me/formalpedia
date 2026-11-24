@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z3_res_nondeg
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z3.res_nondeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:37:43.869202+00:00
 -- url     : https://prove2.me/theorems/d0926d62-42b8-4bd4-b027-083ffb25affd

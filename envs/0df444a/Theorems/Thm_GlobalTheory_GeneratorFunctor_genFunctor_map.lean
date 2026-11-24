@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GeneratorFunctor_genFunctor_map
 -- name    : GlobalTheory.GeneratorFunctor.genFunctor_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:54:09.400414+00:00
 -- url     : https://prove2.me/theorems/9523b41d-e4cb-4d90-9f8a-20b2befd1477

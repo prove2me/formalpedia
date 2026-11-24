@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_restrict_glob1_bijective
 -- name    : GlobalTheory.restrict_glob1_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:16:36.899416+00:00
 -- url     : https://prove2.me/theorems/5462faba-7764-4fcc-b5db-0f67711b4020

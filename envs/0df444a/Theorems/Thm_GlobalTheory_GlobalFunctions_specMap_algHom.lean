@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlobalFunctions_specMap_algHom
 -- name    : GlobalTheory.GlobalFunctions.specMap_algHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:55:36.500029+00:00
 -- url     : https://prove2.me/theorems/ab355ad9-be10-4a2e-ac79-01eac9d3c0e9

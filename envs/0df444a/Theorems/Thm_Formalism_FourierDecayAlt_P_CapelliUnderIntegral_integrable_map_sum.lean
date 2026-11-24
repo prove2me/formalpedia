@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CapelliUnderIntegral_integrable_map_sum
 -- name    : Formalism.FourierDecayAlt.P.CapelliUnderIntegral.integrable_map_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:13:16.372865+00:00
 -- url     : https://prove2.me/theorems/ad27e979-dd03-493c-8020-51e7e0202c1f

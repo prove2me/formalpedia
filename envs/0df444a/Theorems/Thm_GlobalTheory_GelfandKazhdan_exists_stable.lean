@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GelfandKazhdan_exists_stable
 -- name    : GlobalTheory.GelfandKazhdan.exists_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:54:51.902685+00:00
 -- url     : https://prove2.me/theorems/249a701b-bccc-4d93-9637-73972728391e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux3_herm_eq_zhat
 -- name    : Formalism.FourierDecayAlt.P.Ux3.herm_eq_zhat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:26:04.557679+00:00
 -- url     : https://prove2.me/theorems/1d1b1902-a8fc-4435-80e3-22aefb60f3f6

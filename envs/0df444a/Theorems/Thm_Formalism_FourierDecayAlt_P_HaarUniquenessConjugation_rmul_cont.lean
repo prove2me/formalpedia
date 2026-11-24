@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HaarUniquenessConjugation_rmul_cont
 -- name    : Formalism.FourierDecayAlt.P.HaarUniquenessConjugation.rmul_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:16:44.021907+00:00
 -- url     : https://prove2.me/theorems/bc7978ba-0557-4849-bca1-d3dfc945f051

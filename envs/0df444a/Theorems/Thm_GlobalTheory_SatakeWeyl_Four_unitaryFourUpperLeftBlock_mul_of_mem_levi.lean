@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_Four_unitaryFourUpperLeftBlock_mul_of_mem_levi
 -- name    : GlobalTheory.SatakeWeyl.Four.unitaryFourUpperLeftBlock_mul_of_mem_levi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:26:27.980892+00:00
 -- url     : https://prove2.me/theorems/4f62380b-7ea4-4fe2-be58-49e3abdb6f65

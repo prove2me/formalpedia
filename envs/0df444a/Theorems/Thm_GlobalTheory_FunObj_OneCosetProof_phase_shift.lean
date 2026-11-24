@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_OneCosetProof_phase_shift
 -- name    : GlobalTheory.FunObj.OneCosetProof.phase_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:42:41.417934+00:00
 -- url     : https://prove2.me/theorems/3d58965c-3d26-4298-94b9-dee3206a7244

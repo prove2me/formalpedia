@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QmCapCommW_hpk_zero
 -- name    : QmCapCommW.hpk_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:52:36.521937+00:00
 -- url     : https://prove2.me/theorems/513ac361-e84d-44a8-a326-2eeeab5c3819

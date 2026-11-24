@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstructiveArboricity_Exact_density_and_arboricity
 -- name    : ConstructiveArboricity.Exact.density_and_arboricity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T03:39:26.929008+00:00
 -- url     : https://prove2.me/theorems/78d026ef-3285-4686-8833-a2d16e3a0611

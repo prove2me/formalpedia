@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_exists_trace_one
 -- name    : GlobalTheory.InertZeta.exists_trace_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:27:27.066853+00:00
 -- url     : https://prove2.me/theorems/37a149a0-1abe-428e-b098-531f4077c0cd

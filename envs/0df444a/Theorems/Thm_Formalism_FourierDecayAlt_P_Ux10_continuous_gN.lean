@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux10_continuous_gN
 -- name    : Formalism.FourierDecayAlt.P.Ux10.continuous_gN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:11:38.647953+00:00
 -- url     : https://prove2.me/theorems/683b673e-b6d0-46fe-95de-97997a89f540

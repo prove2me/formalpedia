@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GeomRegFibTransport_fg_top_transfer
 -- name    : GlobalTheory.GeomRegFibTransport.fg_top_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:55:53.391142+00:00
 -- url     : https://prove2.me/theorems/6738564b-de64-4b9e-850c-d39af79e5915

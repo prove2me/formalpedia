@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_test_function_fourier_continuous
 -- name    : Formalism.FourierDecayAlt.P.B6.test_function_fourier_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:16:39.881121+00:00
 -- url     : https://prove2.me/theorems/24e03d36-2958-44e4-bb02-7e50072c8633

@@ -68139,7 +68139,7 @@
 {"parent": "PrivPACLower_ICP_Packing", "child": "PrivPACLower_ICP_Learning", "via": ["statement"]}
 {"parent": "QEC.Coding.BDL26CountableEmbeddingExperiment.stream_freshPair_law", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_CountableExperiment", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26CountableEmbeddingExperiment.stream_freshPair_law", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_CountableExperiment_Core", "via": ["solution", "statement"]}
-{"parent": "ConstructiveArboricity.Exact.density_and_arboricity", "child": "ConstructiveArboricity_Exact_Graph", "via": ["statement"]}
+{"parent": "ConstructiveArboricity.Exact.density_and_arboricity", "child": "ConstructiveArboricity_Exact_Graph", "via": ["solution", "statement"]}
 {"parent": "OAI.CanonicalUnitEuler.sixth_roots_reduce_injective", "child": "OAI_NumberTheory_DirichletL_CubicSieve_CutoffOrders", "via": ["solution", "statement"]}
 {"parent": "OAI.CanonicalUnitEuler.sixth_roots_reduce_injective", "child": "OAI_NumberTheory_DirichletL_Eisenstein_BarrierPotential", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelCorrection_character_of_initial_overlap", "child": "OAI_NumberTheory_DirichletL_RowCompletion_ThetaNonvanishing", "via": ["solution", "statement"]}

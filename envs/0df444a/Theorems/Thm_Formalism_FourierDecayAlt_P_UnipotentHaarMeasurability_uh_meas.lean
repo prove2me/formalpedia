@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_UnipotentHaarMeasurability_uh_meas
 -- name    : Formalism.FourierDecayAlt.P.UnipotentHaarMeasurability.uh_meas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:29:17.45568+00:00
 -- url     : https://prove2.me/theorems/8c450b4f-37dc-47f9-94a0-3861e8c5921b

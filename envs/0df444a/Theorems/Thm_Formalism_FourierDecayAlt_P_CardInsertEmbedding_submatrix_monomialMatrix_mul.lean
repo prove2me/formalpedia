@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CardInsertEmbedding_submatrix_monomialMatrix_mul
 -- name    : Formalism.FourierDecayAlt.P.CardInsertEmbedding.submatrix_monomialMatrix_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:12:33.326807+00:00
 -- url     : https://prove2.me/theorems/2a0bcca6-ec64-4f20-ab81-75a0957714c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenericValue_algebraicIndependent_add_one
 -- name    : GlobalTheory.GenericValue.algebraicIndependent_add_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:55:24.613812+00:00
 -- url     : https://prove2.me/theorems/ede1cf0c-81da-4658-a014-229358ce8e4c

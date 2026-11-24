@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_EntryMinorBounds_inv_entry_le
 -- name    : Formalism.FourierDecayAlt.P.EntryMinorBounds.inv_entry_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:33:34.009679+00:00
 -- url     : https://prove2.me/theorems/dc203ddd-0046-4021-8f0a-7d45f961adbd

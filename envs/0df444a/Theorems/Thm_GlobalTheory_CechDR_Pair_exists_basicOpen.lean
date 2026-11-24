@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_Pair_exists_basicOpen
 -- name    : GlobalTheory.CechDR.Pair.exists_basicOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:13:59.051884+00:00
 -- url     : https://prove2.me/theorems/91782e6c-9f94-4c58-bb8c-b71163e0d144

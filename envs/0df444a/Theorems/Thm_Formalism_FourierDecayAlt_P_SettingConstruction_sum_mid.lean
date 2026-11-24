@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SettingConstruction_sum_mid
 -- name    : Formalism.FourierDecayAlt.P.SettingConstruction.sum_mid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:22:54.71346+00:00
 -- url     : https://prove2.me/theorems/7b29063d-cd1d-4eb8-b91d-d33b68a0a46d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Cond_emb_zero
 -- name    : Formalism.FrobeniusOrbits.Cond.emb_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:10:36.729208+00:00
 -- url     : https://prove2.me/theorems/72a4909d-0a48-44fa-b370-01ca6b4830f6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_Model_FrChg_isUnit
 -- name    : GlobalTheory.Frames.Model.FrChg.isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:37:47.454007+00:00
 -- url     : https://prove2.me/theorems/bd10119c-4131-4059-ae4b-abf86fa96979

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ScaleCont_fibre_scale_continuous
 -- name    : GlobalTheory.CompanionTheory.SW.ScaleCont.fibre_scale_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:09:47.040418+00:00
 -- url     : https://prove2.me/theorems/4c4d3fbd-303a-4f18-bcc4-14b4ed6dd48f

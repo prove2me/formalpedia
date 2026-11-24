@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenEigenFinOrbit_map_lt_of_pow_eq_zero
 -- name    : GlobalTheory.GenEigenFinOrbit.map_lt_of_pow_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:54:03.005014+00:00
 -- url     : https://prove2.me/theorems/256d9893-9c3f-4ce8-855b-3cfcbdbfce06

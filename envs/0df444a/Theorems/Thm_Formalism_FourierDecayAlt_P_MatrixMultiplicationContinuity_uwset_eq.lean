@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MatrixMultiplicationContinuity_uwset_eq
 -- name    : Formalism.FourierDecayAlt.P.MatrixMultiplicationContinuity.uwset_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:18:00.22485+00:00
 -- url     : https://prove2.me/theorems/109b88e7-a049-47a7-8baa-491544fc4db9

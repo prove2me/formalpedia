@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DDSmoothness_fdeg_eq
 -- name    : Formalism.FourierDecayAlt.P.DDSmoothness.fdeg_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:11:00.064899+00:00
 -- url     : https://prove2.me/theorems/f033955a-227e-46b7-857a-80e908d80e68

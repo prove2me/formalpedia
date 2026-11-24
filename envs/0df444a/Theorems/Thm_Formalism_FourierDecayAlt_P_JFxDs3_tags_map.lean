@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxDs3_tags_map
 -- name    : Formalism.FourierDecayAlt.P.JFxDs3.tags_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:15:18.16503+00:00
 -- url     : https://prove2.me/theorems/36d7141d-c0b6-4222-96e5-63643087055b

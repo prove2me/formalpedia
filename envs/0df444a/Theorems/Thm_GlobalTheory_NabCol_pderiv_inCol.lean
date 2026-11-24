@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NabCol_pderiv_inCol
 -- name    : GlobalTheory.NabCol.pderiv_inCol
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:06:24.200475+00:00
 -- url     : https://prove2.me/theorems/3025bff2-cc34-4c48-b8c9-ae09764a0cee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_integral_prod_mul_of_split
 -- name    : GlobalTheory.FunObj.integral_prod_mul_of_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:41:35.974365+00:00
 -- url     : https://prove2.me/theorems/33ebecfe-b205-48c2-bf6a-2d2cc69c3fd0

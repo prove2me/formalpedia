@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x2_compactHaarExists
 -- name    : Formalism.FourierDecayAlt.P.B2x2.compactHaarExists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:56:28.660329+00:00
 -- url     : https://prove2.me/theorems/af15f895-c22c-4a44-9f3c-2cd331e10819

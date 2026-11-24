@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_xC_ne_of_im
 -- name    : Formalism.FourierDecayAlt.P.NFx2.xC_ne_of_im
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:17:53.553803+00:00
 -- url     : https://prove2.me/theorems/e3bc5a33-f193-4eb4-83f2-296a764a6ee4

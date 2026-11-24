@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibLine_fibPow_eq
 -- name    : GlobalTheory.FibLine.fibPow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:23:50.955624+00:00
 -- url     : https://prove2.me/theorems/57ca6ef4-9134-4c5c-851c-9410e85fa42a

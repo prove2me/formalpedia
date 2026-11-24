@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_OneCosetProof_frameGL_stair
 -- name    : GlobalTheory.FunObj.OneCosetProof.frameGL_stair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:42:48.8563+00:00
 -- url     : https://prove2.me/theorems/1e6218aa-6195-41e4-93fb-fad24a4ea267

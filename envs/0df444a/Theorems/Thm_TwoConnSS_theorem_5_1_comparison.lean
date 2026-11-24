@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoConnSS_theorem_5_1_comparison
 -- name    : TwoConnSS.theorem_5_1_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T04:44:04.599206+00:00
 -- url     : https://prove2.me/theorems/7e99da60-88cc-40c8-9d4b-5010d39ed9f6

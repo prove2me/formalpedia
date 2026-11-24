@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux13_continuous_block2
 -- name    : Formalism.FourierDecayAlt.P.Ux13.continuous_block2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:24:03.216902+00:00
 -- url     : https://prove2.me/theorems/d5ff7e25-e867-4ba2-ad51-edebd997257e

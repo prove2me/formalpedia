@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_regularized_bracket_additive
 -- name    : Formalism.FourierDecayAlt.P.B6.regularized_bracket_additive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:05:31.694494+00:00
 -- url     : https://prove2.me/theorems/c58d1678-360e-41a6-b1a6-5ff4ca59ee01

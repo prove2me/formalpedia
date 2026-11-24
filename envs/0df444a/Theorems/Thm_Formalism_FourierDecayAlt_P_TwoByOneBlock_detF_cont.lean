@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoByOneBlock_detF_cont
 -- name    : Formalism.FourierDecayAlt.P.TwoByOneBlock.detF_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:23:02.748714+00:00
 -- url     : https://prove2.me/theorems/36e48f44-9781-4cab-b5c1-97abea57c30d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussWidths_integral_gauss_mul_gauss
 -- name    : GlobalTheory.GaussWidths.integral_gauss_mul_gauss
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:54:00.239403+00:00
 -- url     : https://prove2.me/theorems/e7796017-02d5-43d5-b1f9-5f1941e7b006

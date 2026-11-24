@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_FiniteSupport_tensor_shift
 -- name    : GlobalTheory.FunObj.FiniteSupport.tensor_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:42:46.476827+00:00
 -- url     : https://prove2.me/theorems/7306186b-5f05-4e24-bf3b-dea6f03ac946

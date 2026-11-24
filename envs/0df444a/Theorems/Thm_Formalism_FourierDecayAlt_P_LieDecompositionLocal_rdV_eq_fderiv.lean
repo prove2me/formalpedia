@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LieDecompositionLocal_rdV_eq_fderiv
 -- name    : Formalism.FourierDecayAlt.P.LieDecompositionLocal.rdV_eq_fderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:48:18.811888+00:00
 -- url     : https://prove2.me/theorems/81a16b83-1e75-409c-8ca7-028e7f8e3dd4

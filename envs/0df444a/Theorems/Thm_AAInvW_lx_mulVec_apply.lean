@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_lx_mulVec_apply
 -- name    : AAInvW.lx_mulVec_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:19:44.432907+00:00
 -- url     : https://prove2.me/theorems/fe3977e9-d723-4da4-a582-a9ae7638be22

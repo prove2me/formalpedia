@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_exists_mat
 -- name    : GlobalTheory.SatakeWeyl.exists_mat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:09:32.757803+00:00
 -- url     : https://prove2.me/theorems/876d3588-9759-4bf4-9b4b-a58be76ab170

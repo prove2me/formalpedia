@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_GS_toLp_phiV
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.GS.toLp_phiV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:55:25.651801+00:00
 -- url     : https://prove2.me/theorems/781f934a-a1dc-4104-bfed-8a395e41fad8

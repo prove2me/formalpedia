@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_Q_TPresMain_sl_sum__cd5de3938d2f
 -- name    : P2M_Formalism_FourierDecayAlt_Q_TPresMain_sl_sum__cd5de3938d2f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:37:50.156015+00:00
 -- url     : https://prove2.me/theorems/cfec55e9-a0ed-4e17-8520-588ca6a34e97

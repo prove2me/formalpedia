@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussSum_isIntegral_ii
 -- name    : GlobalTheory.GaussSum.isIntegral_ii
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:54:09.674574+00:00
 -- url     : https://prove2.me/theorems/bcb985f2-d870-4cf6-b05a-a44c7cf8ba48

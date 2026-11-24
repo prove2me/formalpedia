@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HilbertSchmidtVectorization_conjE_hsVec
 -- name    : Formalism.FourierDecayAlt.P.HilbertSchmidtVectorization.conjE_hsVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:15:04.000979+00:00
 -- url     : https://prove2.me/theorems/d27a285b-53b9-46fd-93c7-49216637357f

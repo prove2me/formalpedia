@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_derivative_leading_zb
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.derivative_leading_zb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:28:33.226808+00:00
 -- url     : https://prove2.me/theorems/4ee2f980-b992-4f41-8050-745d45a80507

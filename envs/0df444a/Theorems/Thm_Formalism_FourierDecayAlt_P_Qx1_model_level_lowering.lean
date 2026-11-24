@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx1_model_level_lowering
 -- name    : Formalism.FourierDecayAlt.P.Qx1.model_level_lowering
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:21:05.278826+00:00
 -- url     : https://prove2.me/theorems/e2c50a4d-df11-4e32-8fc7-2178ae0ae141

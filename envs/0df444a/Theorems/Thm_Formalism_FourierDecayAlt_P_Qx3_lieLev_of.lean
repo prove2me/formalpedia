@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx3_lieLev_of
 -- name    : Formalism.FourierDecayAlt.P.Qx3.lieLev_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:20:56.492116+00:00
 -- url     : https://prove2.me/theorems/72d26923-5eb4-46cb-95e6-16f769010376

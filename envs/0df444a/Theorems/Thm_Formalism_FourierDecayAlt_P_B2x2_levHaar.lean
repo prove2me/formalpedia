@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x2_levHaar
 -- name    : Formalism.FourierDecayAlt.P.B2x2.levHaar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:57:30.350193+00:00
 -- url     : https://prove2.me/theorems/48ec9db3-d7e1-48fb-8a71-b65de4322e79

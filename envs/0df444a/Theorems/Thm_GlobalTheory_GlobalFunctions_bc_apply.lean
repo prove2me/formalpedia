@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlobalFunctions_bc_apply
 -- name    : GlobalTheory.GlobalFunctions.bc_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:55:58.587864+00:00
 -- url     : https://prove2.me/theorems/819f1c24-359e-44c2-a4db-3d5a26327976

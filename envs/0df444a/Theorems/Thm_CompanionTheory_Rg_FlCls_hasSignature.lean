@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Rg_FlCls_hasSignature
 -- name    : CompanionTheory.Rg.FlCls.hasSignature
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:57:44.562491+00:00
 -- url     : https://prove2.me/theorems/e6acfdac-c74d-49d3-b2d8-1a575717ffea

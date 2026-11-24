@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_mat_injective
 -- name    : GlobalTheory.SatakeWeyl.mat_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:14:33.242815+00:00
 -- url     : https://prove2.me/theorems/79297c34-d7c6-48fb-ba68-9b61eff52842

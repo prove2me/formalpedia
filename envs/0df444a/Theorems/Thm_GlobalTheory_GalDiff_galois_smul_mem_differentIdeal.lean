@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GalDiff_galois_smul_mem_differentIdeal
 -- name    : GlobalTheory.GalDiff.galois_smul_mem_differentIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:41:37.184597+00:00
 -- url     : https://prove2.me/theorems/0936a143-5a7d-456e-9b0d-588f7637389f

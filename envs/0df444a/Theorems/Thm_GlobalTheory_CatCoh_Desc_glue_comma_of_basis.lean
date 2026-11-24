@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CatCoh_Desc_glue_comma_of_basis
 -- name    : GlobalTheory.CatCoh.Desc.glue_comma_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:15:45.142718+00:00
 -- url     : https://prove2.me/theorems/d5e3bfe0-db4d-4419-96c8-6fa76aa13a3e

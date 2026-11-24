@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x4_hermitian_first_basis_right
 -- name    : Formalism.FourierDecayAlt.P.B2x4.hermitian_first_basis_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:26:59.602738+00:00
 -- url     : https://prove2.me/theorems/a9107a1e-4075-45d8-9c2c-a177c1973f5e

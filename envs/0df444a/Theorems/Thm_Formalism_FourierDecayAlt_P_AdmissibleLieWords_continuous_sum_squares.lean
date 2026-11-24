@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_AdmissibleLieWords_continuous_sum_squares
 -- name    : Formalism.FourierDecayAlt.P.AdmissibleLieWords.continuous_sum_squares
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:25:37.152525+00:00
 -- url     : https://prove2.me/theorems/91692041-db8a-4026-8565-4222eac52c7a

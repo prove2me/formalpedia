@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabSplit_FixW_fix_zero
 -- name    : PI.StabSplit.FixW.fix_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:46:50.87049+00:00
 -- url     : https://prove2.me/theorems/cbb961bc-676d-4916-a316-3bfda4deb0cd

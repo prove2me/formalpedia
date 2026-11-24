@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GeomRegFibTransport_tensorHom_tmul
 -- name    : GlobalTheory.GeomRegFibTransport.tensorHom_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:55:53.993034+00:00
 -- url     : https://prove2.me/theorems/adb749c6-cfd4-4726-8c7a-e1513e883fa8

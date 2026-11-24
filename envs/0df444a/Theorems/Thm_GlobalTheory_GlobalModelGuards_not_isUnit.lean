@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlobalModelGuards_not_isUnit
 -- name    : GlobalTheory.GlobalModelGuards.not_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:55:55.705695+00:00
 -- url     : https://prove2.me/theorems/60b2b4cb-110f-4bc6-9cc7-abd3026116ff

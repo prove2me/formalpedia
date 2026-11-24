@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescent_exists_rational_support_subset
 -- name    : GlobalTheory.GaloisDescent.exists_rational_support_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:42:35.614143+00:00
 -- url     : https://prove2.me/theorems/773b0ba4-d53a-40a7-807f-096dcdd003ff

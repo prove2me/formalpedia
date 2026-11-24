@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_extendedStoppingDensityExhaustionV1
 -- name    : Kyprianou.Ch03.extendedStoppingDensityExhaustionV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T13:09:53.571006+00:00
 -- url     : https://prove2.me/theorems/34a9145a-7729-4163-b75a-8967f531ded6

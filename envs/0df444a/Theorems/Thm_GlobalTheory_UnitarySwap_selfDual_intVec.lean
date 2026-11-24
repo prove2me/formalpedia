@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitarySwap_selfDual_intVec
 -- name    : GlobalTheory.UnitarySwap.selfDual_intVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:45:52.539152+00:00
 -- url     : https://prove2.me/theorems/29a4574f-6c87-4b22-821f-836135cb9d9e

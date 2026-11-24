@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx2_sum_dual_vector_eq_zeta
 -- name    : Formalism.FourierDecayAlt.P.Qx2.sum_dual_vector_eq_zeta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:19:39.980202+00:00
 -- url     : https://prove2.me/theorems/c8f43b79-9f2e-4124-91ad-9eab28c01f3f

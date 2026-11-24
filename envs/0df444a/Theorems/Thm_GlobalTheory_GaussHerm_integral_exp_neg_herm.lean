@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussHerm_integral_exp_neg_herm
 -- name    : GlobalTheory.GaussHerm.integral_exp_neg_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:51:10.329823+00:00
 -- url     : https://prove2.me/theorems/4cbb9950-098e-4731-83d3-f24d13cace2a

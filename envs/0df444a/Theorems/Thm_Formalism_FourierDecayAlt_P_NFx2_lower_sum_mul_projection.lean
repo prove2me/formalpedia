@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_lower_sum_mul_projection
 -- name    : Formalism.FourierDecayAlt.P.NFx2.lower_sum_mul_projection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:18:00.689005+00:00
 -- url     : https://prove2.me/theorems/f6244c8b-9e51-4274-a9a9-dad720c3f5f0

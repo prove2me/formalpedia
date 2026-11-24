@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x1_pull_left
 -- name    : Formalism.FourierDecayAlt.P.B2x1.pull_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:05:59.575191+00:00
 -- url     : https://prove2.me/theorems/0d124eac-ec13-4bd5-a76e-259bbfabe7ad

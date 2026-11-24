@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CatCoh_Desc_Basis_eq_zero_of_local
 -- name    : GlobalTheory.CatCoh.Desc.Basis.eq_zero_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:13:49.345412+00:00
 -- url     : https://prove2.me/theorems/2b699a13-8cb9-4816-8b70-3b6a65e5f474

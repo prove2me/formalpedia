@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GLDoubling_sphSection_io_biinv
 -- name    : GlobalTheory.GLDoubling.sphSection_io_biinv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:44:21.273794+00:00
 -- url     : https://prove2.me/theorems/a68cf6ab-b017-4337-96f2-e67f9d393309

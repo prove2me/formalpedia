@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussCoset_summable_lattice
 -- name    : GlobalTheory.GaussCoset.summable_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:36:03.755199+00:00
 -- url     : https://prove2.me/theorems/8c4a22e6-74eb-4e4e-9287-0d5e54ed5616

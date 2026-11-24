@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SettingConstruction_haar_smul
 -- name    : Formalism.FourierDecayAlt.P.SettingConstruction.haar_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:22:53.482141+00:00
 -- url     : https://prove2.me/theorems/2be0f094-a21b-4272-af6e-ece6814e65e7

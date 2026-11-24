@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sep_of_factoring_cover
 -- name    : GlobalTheory.sep_of_factoring_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:13:52.633804+00:00
 -- url     : https://prove2.me/theorems/3ad9475b-0b22-4b50-be2c-3f3bc8bf40b1

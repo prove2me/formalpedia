@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlobalFunctions_baseChange_model
 -- name    : GlobalTheory.GlobalFunctions.baseChange_model
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:55:19.120782+00:00
 -- url     : https://prove2.me/theorems/2224a6a0-2382-4c24-a4c1-96026f836948

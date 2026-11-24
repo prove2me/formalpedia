@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_FrameValue_valAt__gen_b257caf834b5
 -- name    : P2M_GlobalTheory_FrameValue_valAt__gen_b257caf834b5
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:23:55.351168+00:00
 -- url     : https://prove2.me/theorems/f0c26b28-56e8-488d-b87b-e8ef5ba83fd9

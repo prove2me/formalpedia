@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FourTermExpansion_single_comm
 -- name    : Formalism.FourierDecayAlt.P.FourTermExpansion.single_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:14:01.117823+00:00
 -- url     : https://prove2.me/theorems/cb445ae5-be3d-43dc-9444-c41f44182fec

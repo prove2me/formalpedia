@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LongWeylElement_conjM_cont
 -- name    : Formalism.FourierDecayAlt.P.LongWeylElement.conjM_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:16:25.513051+00:00
 -- url     : https://prove2.me/theorems/f12edcea-e607-470e-981b-a8bb7e9adb8d

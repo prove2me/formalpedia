@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DifferentialOperatorClasses_commutes_mono
 -- name    : Formalism.FourierDecayAlt.P.DifferentialOperatorClasses.commutes_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:13:26.398836+00:00
 -- url     : https://prove2.me/theorems/936ff25f-be5f-4130-a013-a9b3ef8c17b0

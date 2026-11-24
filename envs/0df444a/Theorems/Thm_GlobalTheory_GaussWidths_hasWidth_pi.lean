@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussWidths_hasWidth_pi
 -- name    : GlobalTheory.GaussWidths.hasWidth_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:54:10.97485+00:00
 -- url     : https://prove2.me/theorems/66aa5a4a-9c8c-4104-b223-ed875d0aefc7

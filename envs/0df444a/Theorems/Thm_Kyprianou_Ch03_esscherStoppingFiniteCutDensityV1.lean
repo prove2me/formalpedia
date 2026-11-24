@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_esscherStoppingFiniteCutDensityV1
 -- name    : Kyprianou.Ch03.esscherStoppingFiniteCutDensityV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T13:09:59.2908+00:00
 -- url     : https://prove2.me/theorems/966cfd9c-5ef2-4a4a-b2b5-9ff175ba0f61

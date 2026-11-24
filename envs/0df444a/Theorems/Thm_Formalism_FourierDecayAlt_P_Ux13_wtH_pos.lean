@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux13_wtH_pos
 -- name    : Formalism.FourierDecayAlt.P.Ux13.wtH_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:24:26.94208+00:00
 -- url     : https://prove2.me/theorems/5663de1a-e326-4768-8bbe-698338b3e570

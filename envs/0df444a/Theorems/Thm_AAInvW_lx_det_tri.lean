@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_lx_det_tri
 -- name    : AAInvW.lx_det_tri
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:19:53.03352+00:00
 -- url     : https://prove2.me/theorems/34c4b44e-cff5-46f2-93e3-5b8ed945d612

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_sn_sum_swap
 -- name    : Formalism.FourierDecayAlt.P.NFx2.sn_sum_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:18:44.132785+00:00
 -- url     : https://prove2.me/theorems/c4182c6f-bed4-4c05-bc89-bbd6c784448b

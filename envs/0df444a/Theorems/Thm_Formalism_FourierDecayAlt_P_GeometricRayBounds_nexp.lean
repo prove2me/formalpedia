@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GeometricRayBounds_nexp
 -- name    : Formalism.FourierDecayAlt.P.GeometricRayBounds.nexp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:14:35.204076+00:00
 -- url     : https://prove2.me/theorems/e523256f-6208-4abe-aec1-002b1869045a

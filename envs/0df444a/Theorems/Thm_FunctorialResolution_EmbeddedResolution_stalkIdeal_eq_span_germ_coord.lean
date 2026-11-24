@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_stalkIdeal_eq_span_germ_coord
 -- name    : FunctorialResolution.EmbeddedResolution.stalkIdeal_eq_span_germ_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:03:02.325861+00:00
 -- url     : https://prove2.me/theorems/53090983-fd8f-408a-8fae-8a96f8efd7a0

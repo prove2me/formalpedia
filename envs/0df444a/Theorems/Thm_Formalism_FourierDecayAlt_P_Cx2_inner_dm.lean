@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Cx2_inner_dm
 -- name    : Formalism.FourierDecayAlt.P.Cx2.inner_dm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:12:38.558958+00:00
 -- url     : https://prove2.me/theorems/ec9e7ceb-ed15-44d1-85ac-d9e2be8e1b4e

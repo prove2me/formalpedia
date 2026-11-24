@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_hasLoc_OAff
 -- name    : GlobalTheory.CechDR.hasLoc_OAff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:12:59.207845+00:00
 -- url     : https://prove2.me/theorems/4adecd2d-1caa-4630-b81d-b6c2c9335b44

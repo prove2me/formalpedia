@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_hilbert_schmidt_pairing_deriv
 -- name    : Formalism.FourierDecayAlt.P.B6.hilbert_schmidt_pairing_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:02:49.738565+00:00
 -- url     : https://prove2.me/theorems/3a3a0c36-7264-4b40-b2cb-6b0c4f79e4f2

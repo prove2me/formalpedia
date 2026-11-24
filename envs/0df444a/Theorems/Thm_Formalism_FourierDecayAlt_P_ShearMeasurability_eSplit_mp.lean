@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ShearMeasurability_eSplit_mp
 -- name    : Formalism.FourierDecayAlt.P.ShearMeasurability.eSplit_mp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:23:06.322061+00:00
 -- url     : https://prove2.me/theorems/9d80157c-481b-4488-8e5a-ce66a7e55278

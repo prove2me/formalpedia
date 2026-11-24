@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FFDescent_invertible_of_invertible_baseChange
 -- name    : GlobalTheory.FFDescent.invertible_of_invertible_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:18:32.999407+00:00
 -- url     : https://prove2.me/theorems/51c55528-814d-4297-aa55-0400b55633dd

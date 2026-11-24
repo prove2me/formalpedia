@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux5_submatrix_mul_lower
 -- name    : Formalism.FourierDecayAlt.P.Ux5.submatrix_mul_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:29:22.167046+00:00
 -- url     : https://prove2.me/theorems/2876d6cc-c7ba-48bb-9f68-0278c7599405

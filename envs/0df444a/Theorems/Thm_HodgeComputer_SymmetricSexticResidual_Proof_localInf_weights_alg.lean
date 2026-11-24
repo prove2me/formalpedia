@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_SymmetricSexticResidual_Proof_localInf_weights_alg
 -- name    : HodgeComputer.SymmetricSexticResidual.Proof.localInf_weights_alg
--- status  : Open
+-- status  : Proved
 -- author  : @benediamond
 -- created : 2026-11-24T16:26:38.225182+00:00
 -- url     : https://prove2.me/theorems/8a638a7a-90a6-4bd6-a109-58b2ddba301f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_pull6
 -- name    : PI.QnHermHaar.pull6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:08:43.679021+00:00
 -- url     : https://prove2.me/theorems/4464db9a-9e84-4f35-b411-6d495639c350

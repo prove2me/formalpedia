@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormFactor_lintegral_normSq
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormFactor.lintegral_normSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:16:19.394027+00:00
 -- url     : https://prove2.me/theorems/a9577657-7be3-40e2-9b90-ec7fb4b9f48f

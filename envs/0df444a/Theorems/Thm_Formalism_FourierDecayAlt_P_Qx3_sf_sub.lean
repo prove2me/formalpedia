@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx3_sf_sub
 -- name    : Formalism.FourierDecayAlt.P.Qx3.sf_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:20:59.787173+00:00
 -- url     : https://prove2.me/theorems/9ac726c6-18c4-4b5b-bff6-ab76bb622768

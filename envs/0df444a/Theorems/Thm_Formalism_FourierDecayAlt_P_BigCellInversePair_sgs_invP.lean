@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BigCellInversePair_sgs_invP
 -- name    : Formalism.FourierDecayAlt.P.BigCellInversePair.sgs_invP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:10:53.414437+00:00
 -- url     : https://prove2.me/theorems/f7e78121-7431-4330-8646-d22bed610f30

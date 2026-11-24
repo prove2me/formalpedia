@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DiscFubiniVolume_disc_scale
 -- name    : Formalism.FourierDecayAlt.P.DiscFubiniVolume.disc_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:13:18.620057+00:00
 -- url     : https://prove2.me/theorems/f80e984f-c398-46d1-981b-640a28583633

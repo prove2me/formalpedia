@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_Tame_tame_character
 -- name    : GlobalTheory.CompanionTheory.QL.Tame.tame_character
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:55:48.880204+00:00
 -- url     : https://prove2.me/theorems/7b4cb7bc-60be-40d8-a044-499e25c3faf7

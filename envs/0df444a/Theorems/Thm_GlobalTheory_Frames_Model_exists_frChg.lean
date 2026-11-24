@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_Model_exists_frChg
 -- name    : GlobalTheory.Frames.Model.exists_frChg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:37:55.498827+00:00
 -- url     : https://prove2.me/theorems/adab0f47-ce46-4347-a9f9-e02d5a6adec7

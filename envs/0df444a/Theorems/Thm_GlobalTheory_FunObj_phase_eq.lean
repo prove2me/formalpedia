@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_phase_eq
 -- name    : GlobalTheory.FunObj.phase_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:05:22.940922+00:00
 -- url     : https://prove2.me/theorems/8602cdc3-6f7f-4c2d-9a01-dfcb726e5672

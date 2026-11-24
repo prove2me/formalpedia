@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussWidths_hasWidth_of_lt
 -- name    : GlobalTheory.GaussWidths.hasWidth_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:54:10.119223+00:00
 -- url     : https://prove2.me/theorems/5cdfb8d7-fb6d-4da3-bb9a-813b3503dc1a

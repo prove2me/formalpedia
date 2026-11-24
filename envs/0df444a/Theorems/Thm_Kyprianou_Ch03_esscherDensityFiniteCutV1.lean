@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_esscherDensityFiniteCutV1
 -- name    : Kyprianou.Ch03.esscherDensityFiniteCutV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T13:15:28.964807+00:00
 -- url     : https://prove2.me/theorems/e939e617-26cc-4e11-98c6-e87492aefbb3

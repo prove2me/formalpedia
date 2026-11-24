@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_admissible_of_unit_words
 -- name    : Formalism.FourierDecayAlt.P.admissible_of_unit_words
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:07:53.777821+00:00
 -- url     : https://prove2.me/theorems/07e2228e-bb0f-4083-a07d-f182e8c4fd42

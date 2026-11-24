@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenericFlat_apply_eq_genericPoint
 -- name    : GlobalTheory.GenericFlat.apply_eq_genericPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:53:35.399331+00:00
 -- url     : https://prove2.me/theorems/ed707d4f-bf0a-4b39-956d-13ab9213b3e3

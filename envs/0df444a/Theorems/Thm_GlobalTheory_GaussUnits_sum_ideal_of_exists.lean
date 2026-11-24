@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussUnits_sum_ideal_of_exists
 -- name    : GlobalTheory.GaussUnits.sum_ideal_of_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:53:48.81851+00:00
 -- url     : https://prove2.me/theorems/2c4f7225-a9b7-4cad-912e-a46b9e919404

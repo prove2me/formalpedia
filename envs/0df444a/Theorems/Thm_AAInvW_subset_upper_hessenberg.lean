@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_subset_upper_hessenberg
 -- name    : AAInvW.subset_upper_hessenberg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:44:51.872318+00:00
 -- url     : https://prove2.me/theorems/4ccad87b-7b4f-4cd2-b186-2357427cace0

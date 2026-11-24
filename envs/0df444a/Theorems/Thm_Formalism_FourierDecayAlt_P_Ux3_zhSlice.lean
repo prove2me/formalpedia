@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux3_zhSlice
 -- name    : Formalism.FourierDecayAlt.P.Ux3.zhSlice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:27:39.677866+00:00
 -- url     : https://prove2.me/theorems/6c5e83a1-e826-42b0-93d0-4291ebe2d6e8

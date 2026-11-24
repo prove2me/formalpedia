@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux4_conj_lie
 -- name    : Formalism.FourierDecayAlt.P.Ux4.conj_lie
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:28:01.449066+00:00
 -- url     : https://prove2.me/theorems/688740ec-4eca-4b8f-a670-c08e8bae923f

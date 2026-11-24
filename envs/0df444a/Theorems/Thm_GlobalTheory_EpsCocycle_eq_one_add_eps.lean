@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EpsCocycle_eq_one_add_eps
 -- name    : GlobalTheory.EpsCocycle.eq_one_add_eps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:58:07.788799+00:00
 -- url     : https://prove2.me/theorems/053062d3-3574-46e6-a358-1507a30939db

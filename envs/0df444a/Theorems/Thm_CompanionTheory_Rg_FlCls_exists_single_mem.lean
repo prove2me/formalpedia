@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Rg_FlCls_exists_single_mem
 -- name    : CompanionTheory.Rg.FlCls.exists_single_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:16:22.3144+00:00
 -- url     : https://prove2.me/theorems/e4c14b55-7d7b-44f1-b584-f8caa0004cb7

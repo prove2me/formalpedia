@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B7_continuous_xi
 -- name    : Formalism.FourierDecayAlt.P.B7.continuous_xi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:18:48.151578+00:00
 -- url     : https://prove2.me/theorems/ab260ec5-9ea6-4c3e-8c91-7710ed7552d4

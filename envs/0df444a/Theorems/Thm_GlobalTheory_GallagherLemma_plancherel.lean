@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GallagherLemma_plancherel
 -- name    : GlobalTheory.GallagherLemma.plancherel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:43:16.223809+00:00
 -- url     : https://prove2.me/theorems/fc6fc448-8f1e-452a-89fd-8a7cefc8aca6

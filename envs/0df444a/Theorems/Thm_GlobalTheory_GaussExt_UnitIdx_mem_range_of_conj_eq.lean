@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussExt_UnitIdx_mem_range_of_conj_eq
 -- name    : GlobalTheory.GaussExt.UnitIdx.mem_range_of_conj_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:50:44.117647+00:00
 -- url     : https://prove2.me/theorems/dc1ed186-e007-4243-bc6a-05c2ac9eb679

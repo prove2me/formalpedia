@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_Base0_mem_fixedUnitary_of_unitary_fixes
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.Base0.mem_fixedUnitary_of_unitary_fixes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:53:30.427289+00:00
 -- url     : https://prove2.me/theorems/220d43ee-1e20-4b1a-a53c-7edb457746a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_o_nsmul_of_h_eq_zero
 -- name    : Formalism.HC.Frame.o_nsmul_of_h_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:02:14.205901+00:00
 -- url     : https://prove2.me/theorems/17f94a18-89e7-4383-8b22-360cbf7bb356

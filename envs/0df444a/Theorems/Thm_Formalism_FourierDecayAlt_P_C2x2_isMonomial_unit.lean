@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_C2x2_isMonomial_unit
 -- name    : Formalism.FourierDecayAlt.P.C2x2.isMonomial_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:10:50.021879+00:00
 -- url     : https://prove2.me/theorems/c80cff6c-c5eb-4349-92da-a2ebaf9d523f

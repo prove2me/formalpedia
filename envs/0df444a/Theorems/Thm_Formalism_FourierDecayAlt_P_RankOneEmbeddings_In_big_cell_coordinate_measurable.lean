@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RankOneEmbeddings_In_big_cell_coordinate_measurable
 -- name    : Formalism.FourierDecayAlt.P.RankOneEmbeddings.In.big_cell_coordinate_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:22:01.979812+00:00
 -- url     : https://prove2.me/theorems/9cebe38d-cc88-45e9-bd39-1ef336cfb563

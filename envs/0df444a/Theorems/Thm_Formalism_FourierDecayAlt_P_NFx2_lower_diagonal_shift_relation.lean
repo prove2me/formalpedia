@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_lower_diagonal_shift_relation
 -- name    : Formalism.FourierDecayAlt.P.NFx2.lower_diagonal_shift_relation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:17:36.04551+00:00
 -- url     : https://prove2.me/theorems/af9cb721-0172-42d4-aa04-b40b691bbe4c

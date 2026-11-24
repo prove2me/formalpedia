@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_unitary_group_haar_exists
 -- name    : Formalism.FourierDecayAlt.P.unitary_group_haar_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:41:41.824797+00:00
 -- url     : https://prove2.me/theorems/467eb608-c46e-4b6a-81af-cc20e2802ae2

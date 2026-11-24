@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GodementJacquet_TestNearE_isCompact_vle_sub
 -- name    : GlobalTheory.GodementJacquet.TestNearE.isCompact_vle_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:55:19.515648+00:00
 -- url     : https://prove2.me/theorems/d21c4113-cb09-428e-a2bf-1b8a3b6e6f2e

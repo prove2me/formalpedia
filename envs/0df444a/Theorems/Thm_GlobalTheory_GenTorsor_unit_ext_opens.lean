@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenTorsor_unit_ext_opens
 -- name    : GlobalTheory.GenTorsor.unit_ext_opens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:53:38.384957+00:00
 -- url     : https://prove2.me/theorems/7ae96d88-3374-4caa-8bf7-dace2b27f622

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_AdmissibleLieWords_norm_le_one_of_sq2_eq_one
 -- name    : Formalism.FourierDecayAlt.P.AdmissibleLieWords.norm_le_one_of_sq2_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:24:32.060539+00:00
 -- url     : https://prove2.me/theorems/b73fb226-9153-4f01-9f7c-07bb8136f8d1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B5_dil_mem_N
 -- name    : Formalism.FourierDecayAlt.P.B5.dil_mem_N
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:01:33.66918+00:00
 -- url     : https://prove2.me/theorems/e6f7b309-6623-449d-a76b-d0cf4ecd5048

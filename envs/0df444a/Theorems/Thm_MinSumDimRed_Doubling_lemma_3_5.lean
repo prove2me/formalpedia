@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinSumDimRed_Doubling_lemma_3_5
 -- name    : MinSumDimRed.Doubling.lemma_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-09T19:34:45.095121+00:00
 -- url     : https://prove2.me/theorems/5b9d279b-b1ec-461d-a1dc-9aae2bbfae1c

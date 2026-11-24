@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx2_coefOf_spec
 -- name    : Formalism.FourierDecayAlt.P.Qx2.coefOf_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:19:46.270866+00:00
 -- url     : https://prove2.me/theorems/c0d3f4fb-9216-4b36-810e-2bf244c2f40e

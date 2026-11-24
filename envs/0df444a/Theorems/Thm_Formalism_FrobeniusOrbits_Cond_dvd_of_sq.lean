@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Cond_dvd_of_sq
 -- name    : Formalism.FrobeniusOrbits.Cond.dvd_of_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:11:31.519786+00:00
 -- url     : https://prove2.me/theorems/b257d2e7-7f19-4270-9ddf-9425bcc9e8f5

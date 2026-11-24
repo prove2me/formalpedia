@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_C2x4_cut_preserves
 -- name    : Formalism.FourierDecayAlt.P.C2x4.cut_preserves
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:11:20.984799+00:00
 -- url     : https://prove2.me/theorems/b3246d32-54be-424b-b23e-d5282425e013

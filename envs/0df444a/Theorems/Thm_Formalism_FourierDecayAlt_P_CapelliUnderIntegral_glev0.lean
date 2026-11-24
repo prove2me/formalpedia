@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CapelliUnderIntegral_glev0
 -- name    : Formalism.FourierDecayAlt.P.CapelliUnderIntegral.glev0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:13:17.494318+00:00
 -- url     : https://prove2.me/theorems/970625fa-b270-4d73-8d68-993423b12d49

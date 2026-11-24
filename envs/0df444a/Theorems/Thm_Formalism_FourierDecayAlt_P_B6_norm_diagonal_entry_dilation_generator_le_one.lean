@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_norm_diagonal_entry_dilation_generator_le_one
 -- name    : Formalism.FourierDecayAlt.P.B6.norm_diagonal_entry_dilation_generator_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:04:46.894949+00:00
 -- url     : https://prove2.me/theorems/0d2e5d21-18a6-40cb-ad1c-be0aea03670e

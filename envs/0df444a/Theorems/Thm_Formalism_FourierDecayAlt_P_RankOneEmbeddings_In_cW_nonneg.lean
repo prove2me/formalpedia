@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RankOneEmbeddings_In_cW_nonneg
 -- name    : Formalism.FourierDecayAlt.P.RankOneEmbeddings.In.cW_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:21:47.003856+00:00
 -- url     : https://prove2.me/theorems/3739d802-1d05-4e39-a35a-a6eebeec3868

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisPowerRoots_exists_pow_eq_of_isGalois
 -- name    : GlobalTheory.GaloisPowerRoots.exists_pow_eq_of_isGalois
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:48:48.075536+00:00
 -- url     : https://prove2.me/theorems/084cc9d9-ec18-4d89-9d08-893f2f167ed0

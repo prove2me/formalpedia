@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FrameInd_UPosW_herm_perp
 -- name    : PI.FrameInd.UPosW.herm_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:40:23.647929+00:00
 -- url     : https://prove2.me/theorems/fa17b171-e99a-4df1-a298-957f6aa4d3b8

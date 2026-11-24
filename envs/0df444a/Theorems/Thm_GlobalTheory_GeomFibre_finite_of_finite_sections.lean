@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GeomFibre_finite_of_finite_sections
 -- name    : GlobalTheory.GeomFibre.finite_of_finite_sections
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:55:53.773919+00:00
 -- url     : https://prove2.me/theorems/c188dc22-6988-4a1c-826d-2383cf401786

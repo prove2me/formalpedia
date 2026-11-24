@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DeterminantReindex_prod_emb
 -- name    : Formalism.FourierDecayAlt.P.DeterminantReindex.prod_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:12:31.856564+00:00
 -- url     : https://prove2.me/theorems/ffd3ec11-dc99-4b84-b57f-3dcc87335790

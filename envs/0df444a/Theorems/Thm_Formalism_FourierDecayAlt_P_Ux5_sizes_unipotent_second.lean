@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux5_sizes_unipotent_second
 -- name    : Formalism.FourierDecayAlt.P.Ux5.sizes_unipotent_second
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:29:05.904024+00:00
 -- url     : https://prove2.me/theorems/e788df7c-fcef-4a71-8688-fe6216e75e33

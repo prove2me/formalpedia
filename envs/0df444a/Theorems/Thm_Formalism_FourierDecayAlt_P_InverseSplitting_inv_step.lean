@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_InverseSplitting_inv_step
 -- name    : Formalism.FourierDecayAlt.P.InverseSplitting.inv_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:15:34.163094+00:00
 -- url     : https://prove2.me/theorems/2af7be35-eef7-4958-ae54-d0a3d75d40fb

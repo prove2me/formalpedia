@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PartialDerivativeAlgebra_pd_entry
 -- name    : Formalism.FourierDecayAlt.P.PartialDerivativeAlgebra.pd_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:18:12.279923+00:00
 -- url     : https://prove2.me/theorems/9ccaaea3-6fa6-4b9f-bb78-46d215fd090b

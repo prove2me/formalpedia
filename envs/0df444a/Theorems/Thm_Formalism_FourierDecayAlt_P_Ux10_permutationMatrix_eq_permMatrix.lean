@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux10_permutationMatrix_eq_permMatrix
 -- name    : Formalism.FourierDecayAlt.P.Ux10.permutationMatrix_eq_permMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:25:10.589787+00:00
 -- url     : https://prove2.me/theorems/71059b20-63df-459c-b9fb-fe954a2f2aa9

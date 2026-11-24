@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ShearMeasurability_lvl_mp
 -- name    : Formalism.FourierDecayAlt.P.ShearMeasurability.lvl_mp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:23:10.426967+00:00
 -- url     : https://prove2.me/theorems/e8b3cddf-163e-47ca-a33e-b998259b419b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx3_weyl_cell_conjTranspose_mul_apply
 -- name    : Formalism.FourierDecayAlt.P.Qx3.weyl_cell_conjTranspose_mul_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:19:52.544307+00:00
 -- url     : https://prove2.me/theorems/5c8f48f2-ef41-421a-80aa-c8a619f6475f

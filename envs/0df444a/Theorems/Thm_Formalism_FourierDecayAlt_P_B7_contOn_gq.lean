@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B7_contOn_gq
 -- name    : Formalism.FourierDecayAlt.P.B7.contOn_gq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:05:04.630705+00:00
 -- url     : https://prove2.me/theorems/21453627-2330-4cad-ab08-de217e75b0e3

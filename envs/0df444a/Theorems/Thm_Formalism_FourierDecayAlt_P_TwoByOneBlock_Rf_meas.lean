@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoByOneBlock_Rf_meas
 -- name    : Formalism.FourierDecayAlt.P.TwoByOneBlock.Rf_meas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:23:01.409965+00:00
 -- url     : https://prove2.me/theorems/e5248615-9397-498f-8862-4eae4fa02bb1

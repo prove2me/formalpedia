@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlobalModelGuards_goodAt_of_coprime
 -- name    : GlobalTheory.GlobalModelGuards.goodAt_of_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:55:37.755169+00:00
 -- url     : https://prove2.me/theorems/68f8ce90-a6a8-4f77-8c29-75cd2e1d462c

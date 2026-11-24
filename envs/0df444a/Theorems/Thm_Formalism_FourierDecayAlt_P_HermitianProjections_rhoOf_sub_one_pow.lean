@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianProjections_rhoOf_sub_one_pow
 -- name    : Formalism.FourierDecayAlt.P.HermitianProjections.rhoOf_sub_one_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:14:42.898369+00:00
 -- url     : https://prove2.me/theorems/487a737a-8d40-4b3f-8944-dfae997eb179

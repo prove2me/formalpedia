@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Cx2_first_norm_real_nonneg
 -- name    : Formalism.FourierDecayAlt.P.Cx2.first_norm_real_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:13:09.75019+00:00
 -- url     : https://prove2.me/theorems/d2b365d6-1628-401c-a639-7dfa13c99bcc

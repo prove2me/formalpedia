@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussExpSeries_norm_iteratedFDeriv_diag_le
 -- name    : GlobalTheory.GaussExpSeries.norm_iteratedFDeriv_diag_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:51:41.844815+00:00
 -- url     : https://prove2.me/theorems/b214ff80-26a5-488e-abc9-94856af7d396

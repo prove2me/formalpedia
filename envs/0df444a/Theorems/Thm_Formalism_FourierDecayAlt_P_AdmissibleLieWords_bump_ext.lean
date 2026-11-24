@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_AdmissibleLieWords_bump_ext
 -- name    : Formalism.FourierDecayAlt.P.AdmissibleLieWords.bump_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:24:35.815622+00:00
 -- url     : https://prove2.me/theorems/6750beb1-28e9-444f-b6db-dcf61e5ca836

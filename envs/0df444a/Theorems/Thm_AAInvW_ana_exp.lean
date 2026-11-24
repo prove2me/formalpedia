@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_ana_exp
 -- name    : AAInvW.ana_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:55:41.821519+00:00
 -- url     : https://prove2.me/theorems/e46879e5-0de4-40ec-806e-df06d0131643

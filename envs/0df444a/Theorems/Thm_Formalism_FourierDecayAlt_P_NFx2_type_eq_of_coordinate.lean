@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_type_eq_of_coordinate
 -- name    : Formalism.FourierDecayAlt.P.NFx2.type_eq_of_coordinate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:18:46.994824+00:00
 -- url     : https://prove2.me/theorems/771537ad-07c1-408e-ab9b-dc06e5a337a5

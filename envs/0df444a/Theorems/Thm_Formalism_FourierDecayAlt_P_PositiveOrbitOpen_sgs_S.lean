@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PositiveOrbitOpen_sgs_S
 -- name    : Formalism.FourierDecayAlt.P.PositiveOrbitOpen.sgs_S
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:21:09.119771+00:00
 -- url     : https://prove2.me/theorems/8823809b-5cb6-4d30-a4c7-7a3cdd4c31ce

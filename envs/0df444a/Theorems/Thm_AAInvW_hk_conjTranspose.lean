@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_hk_conjTranspose
 -- name    : AAInvW.hk_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:54:36.019215+00:00
 -- url     : https://prove2.me/theorems/28cbda02-5e2b-48bd-adf0-825e90630c4c

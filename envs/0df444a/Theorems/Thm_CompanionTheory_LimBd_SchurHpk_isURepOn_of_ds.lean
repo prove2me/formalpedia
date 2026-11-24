@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_SchurHpk_isURepOn_of_ds
 -- name    : CompanionTheory.LimBd.SchurHpk.isURepOn_of_ds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:28:06.403271+00:00
 -- url     : https://prove2.me/theorems/a05bc5db-188d-4b73-9ac7-32faac73896d

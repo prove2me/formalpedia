@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_operators_commute_translations_of_left_right
 -- name    : AAInvW.operators_commute_translations_of_left_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:54:59.279813+00:00
 -- url     : https://prove2.me/theorems/5bb4dc9f-ac85-4319-9b21-426a9225b47c

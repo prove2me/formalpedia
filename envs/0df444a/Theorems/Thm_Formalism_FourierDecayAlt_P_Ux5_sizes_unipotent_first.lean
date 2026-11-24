@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux5_sizes_unipotent_first
 -- name    : Formalism.FourierDecayAlt.P.Ux5.sizes_unipotent_first
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:30:02.822052+00:00
 -- url     : https://prove2.me/theorems/2356cdb7-e954-4388-80ba-1d6486b9ca94

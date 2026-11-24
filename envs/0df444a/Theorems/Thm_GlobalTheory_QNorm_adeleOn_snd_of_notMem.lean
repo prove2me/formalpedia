@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_adeleOn_snd_of_notMem
 -- name    : GlobalTheory.QNorm.adeleOn_snd_of_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:09:07.800435+00:00
 -- url     : https://prove2.me/theorems/8f3405ab-8de8-42a5-9fb9-0823e89d7f76

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormFactor_map_equiv_smul
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormFactor.map_equiv_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:16:18.301334+00:00
 -- url     : https://prove2.me/theorems/9a764b67-9109-4ac9-b372-e40aca403a06

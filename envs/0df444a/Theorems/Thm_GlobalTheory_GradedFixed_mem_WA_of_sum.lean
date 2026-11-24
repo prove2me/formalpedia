@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GradedFixed_mem_WA_of_sum
 -- name    : GlobalTheory.GradedFixed.mem_WA_of_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:56:54.733799+00:00
 -- url     : https://prove2.me/theorems/e4014aca-67cf-47c7-8a42-4d1af6951102

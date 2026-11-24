@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QnRdSkewW_rdV_local
 -- name    : QnRdSkewW.rdV_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:02:35.567107+00:00
 -- url     : https://prove2.me/theorems/7904fe98-1ecf-4653-bfe5-f56be175c90a

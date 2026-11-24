@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__exampleRanks_wittIndex_e86ea14fff7c
 -- name    : P2M_Formalism_BasicNotions_Examples__exampleRanks_wittIndex_e86ea14fff7c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:10:04.132446+00:00
 -- url     : https://prove2.me/theorems/a779bbb1-89d3-478d-af62-2378a948250a

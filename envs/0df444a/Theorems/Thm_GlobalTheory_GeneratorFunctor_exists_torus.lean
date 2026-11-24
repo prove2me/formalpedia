@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GeneratorFunctor_exists_torus
 -- name    : GlobalTheory.GeneratorFunctor.exists_torus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:56:02.900427+00:00
 -- url     : https://prove2.me/theorems/96533e30-7b18-412b-a4ec-c0c25c715be5

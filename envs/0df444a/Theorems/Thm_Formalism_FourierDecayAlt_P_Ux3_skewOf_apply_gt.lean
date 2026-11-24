@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux3_skewOf_apply_gt
 -- name    : Formalism.FourierDecayAlt.P.Ux3.skewOf_apply_gt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:26:53.669564+00:00
 -- url     : https://prove2.me/theorems/f5e5c136-cba4-4ce0-b028-2469afc4bdcc

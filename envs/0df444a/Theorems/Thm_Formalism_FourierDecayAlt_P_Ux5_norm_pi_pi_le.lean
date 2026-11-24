@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux5_norm_pi_pi_le
 -- name    : Formalism.FourierDecayAlt.P.Ux5.norm_pi_pi_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:28:48.310508+00:00
 -- url     : https://prove2.me/theorems/d9bbbbeb-3314-480c-97de-a5a32d79762f

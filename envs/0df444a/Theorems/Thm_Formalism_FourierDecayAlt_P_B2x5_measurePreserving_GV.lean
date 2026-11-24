@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x5_measurePreserving_GV
 -- name    : Formalism.FourierDecayAlt.P.B2x5.measurePreserving_GV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:59:26.093847+00:00
 -- url     : https://prove2.me/theorems/1334e438-5b04-4383-8309-9425225c3fdf

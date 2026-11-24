@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx1_model_level_multiplier
 -- name    : Formalism.FourierDecayAlt.P.Qx1.model_level_multiplier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:20:08.797607+00:00
 -- url     : https://prove2.me/theorems/83d18b74-d084-46ed-81fa-3ec669d16c5a

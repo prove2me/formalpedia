@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlueCover_volume_finite
 -- name    : GlobalTheory.GlueCover.volume_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:54:47.046187+00:00
 -- url     : https://prove2.me/theorems/625b4428-96ff-47c0-9230-7b1ff695b30e

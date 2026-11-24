@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GeneratorFunctor_pb_top
 -- name    : GlobalTheory.GeneratorFunctor.pb_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:53:34.386796+00:00
 -- url     : https://prove2.me/theorems/b3ae748b-6e6a-47c6-bb93-1eed0551bc90

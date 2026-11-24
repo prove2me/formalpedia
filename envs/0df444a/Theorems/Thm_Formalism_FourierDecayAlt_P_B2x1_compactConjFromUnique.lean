@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x1_compactConjFromUnique
 -- name    : Formalism.FourierDecayAlt.P.B2x1.compactConjFromUnique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:05:57.840516+00:00
 -- url     : https://prove2.me/theorems/2b484f0d-7f64-4301-8334-72c5762726b1

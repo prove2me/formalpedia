@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Glue_InZl_mem_adjoin
 -- name    : GlobalTheory.Glue.InZl.mem_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:56:52.816269+00:00
 -- url     : https://prove2.me/theorems/d7f93504-630c-447d-8988-7fd056ebc3d0

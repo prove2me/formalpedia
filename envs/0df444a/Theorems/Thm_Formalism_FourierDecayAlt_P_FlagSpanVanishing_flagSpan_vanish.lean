@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FlagSpanVanishing_flagSpan_vanish
 -- name    : Formalism.FourierDecayAlt.P.FlagSpanVanishing.flagSpan_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:27:37.377414+00:00
 -- url     : https://prove2.me/theorems/ce835fd3-6d3d-483a-80a0-4f7e660c0400

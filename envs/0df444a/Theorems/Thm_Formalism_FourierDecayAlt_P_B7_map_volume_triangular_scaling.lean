@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B7_map_volume_triangular_scaling
 -- name    : Formalism.FourierDecayAlt.P.B7.map_volume_triangular_scaling
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:06:05.789553+00:00
 -- url     : https://prove2.me/theorems/3dbd1d69-5c9e-400e-9453-fc4ae40126b1

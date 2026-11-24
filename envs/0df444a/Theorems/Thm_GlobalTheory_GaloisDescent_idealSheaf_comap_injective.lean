@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescent_idealSheaf_comap_injective
 -- name    : GlobalTheory.GaloisDescent.idealSheaf_comap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:42:58.822976+00:00
 -- url     : https://prove2.me/theorems/e44e3d07-8ed5-4ba0-a5f9-8449fc971063

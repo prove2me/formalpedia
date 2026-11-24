@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SmoothnessOrderArithmetic_top_ge_nat
 -- name    : Formalism.FourierDecayAlt.P.SmoothnessOrderArithmetic.top_ge_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:29:40.796362+00:00
 -- url     : https://prove2.me/theorems/eeed9668-54d2-4c80-8244-472db4fbcf2c

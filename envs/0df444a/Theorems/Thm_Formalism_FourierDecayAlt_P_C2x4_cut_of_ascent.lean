@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_C2x4_cut_of_ascent
 -- name    : Formalism.FourierDecayAlt.P.C2x4.cut_of_ascent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:11:18.593293+00:00
 -- url     : https://prove2.me/theorems/53343410-60d6-4bb6-a330-391cd762e4dd

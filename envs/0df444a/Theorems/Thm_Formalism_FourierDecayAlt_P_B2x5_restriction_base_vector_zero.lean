@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x5_restriction_base_vector_zero
 -- name    : Formalism.FourierDecayAlt.P.B2x5.restriction_base_vector_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:43:24.99982+00:00
 -- url     : https://prove2.me/theorems/77e1539b-093d-49e3-9486-62bd042a5ab0

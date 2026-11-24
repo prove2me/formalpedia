@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCRuleCW_exp_mem_UH
 -- name    : CCRuleCW.exp_mem_UH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:50:22.137282+00:00
 -- url     : https://prove2.me/theorems/f4f20dff-1f61-4d65-83c0-01ebc0ffb009

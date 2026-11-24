@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CatCoh_CoefMap_restrict_pull1_injective_of_sep_glue
 -- name    : GlobalTheory.CatCoh.CoefMap.restrict_pull1_injective_of_sep_glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:12:54.644206+00:00
 -- url     : https://prove2.me/theorems/269459cd-9432-4a0a-ad33-fde1eec1fd41

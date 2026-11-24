@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_glue_last_level
 -- name    : Formalism.FourierDecayAlt.P5.glue_last_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:09:21.183695+00:00
 -- url     : https://prove2.me/theorems/b3a7fe9f-fbdf-4a84-a36a-9c0e3c8993ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B7_v_normsq
 -- name    : Formalism.FourierDecayAlt.P.B7.v_normsq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:10:44.952781+00:00
 -- url     : https://prove2.me/theorems/fb92f97a-2190-4fa6-a954-f09fd064c707

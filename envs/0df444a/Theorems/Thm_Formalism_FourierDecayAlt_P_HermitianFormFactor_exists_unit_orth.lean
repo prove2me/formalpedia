@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormFactor_exists_unit_orth
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormFactor.exists_unit_orth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:14:52.929776+00:00
 -- url     : https://prove2.me/theorems/0dde4b33-a30f-46d5-9a6d-c8d2cbb59386

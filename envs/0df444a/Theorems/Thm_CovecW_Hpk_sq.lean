@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CovecW_Hpk_sq
 -- name    : CovecW.Hpk_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:00:01.893043+00:00
 -- url     : https://prove2.me/theorems/048996b9-3321-46fc-bca1-b6a819a49ff0

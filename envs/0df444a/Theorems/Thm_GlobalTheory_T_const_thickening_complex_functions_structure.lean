@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_const_thickening_complex_functions_structure
 -- name    : GlobalTheory.T.const_thickening_complex_functions_structure
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:25:58.041357+00:00
 -- url     : https://prove2.me/theorems/f376d1b9-d6ba-4878-8264-9f01a130178a

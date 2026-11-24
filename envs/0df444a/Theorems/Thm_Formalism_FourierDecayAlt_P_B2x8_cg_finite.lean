@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_cg_finite
 -- name    : Formalism.FourierDecayAlt.P.B2x8.cg_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:57:47.4888+00:00
 -- url     : https://prove2.me/theorems/6de4f584-94f2-4704-9a57-32a9a2ff6127

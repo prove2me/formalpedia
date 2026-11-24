@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FreeQuotient_exists_sum_smul_eq_one
 -- name    : GlobalTheory.FreeQuotient.exists_sum_smul_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:47:42.146258+00:00
 -- url     : https://prove2.me/theorems/318c66da-220a-459e-babe-c7681a32e19c

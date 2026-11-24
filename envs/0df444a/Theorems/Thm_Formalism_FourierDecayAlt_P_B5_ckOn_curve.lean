@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B5_ckOn_curve
 -- name    : Formalism.FourierDecayAlt.P.B5.ckOn_curve
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:01:41.314214+00:00
 -- url     : https://prove2.me/theorems/b57197a6-6f6f-48ef-a821-0a7ee6c5df97

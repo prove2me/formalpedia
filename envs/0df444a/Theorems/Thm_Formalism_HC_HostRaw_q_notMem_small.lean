@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_q_notMem_small
 -- name    : Formalism.HC.HostRaw.q_notMem_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:14:28.196306+00:00
 -- url     : https://prove2.me/theorems/22f81dfd-b976-4207-b3a8-d0a0092360b7

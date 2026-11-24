@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DeterminantReindex_submatrix_mul_monomialMatrix
 -- name    : Formalism.FourierDecayAlt.P.DeterminantReindex.submatrix_mul_monomialMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:12:56.861187+00:00
 -- url     : https://prove2.me/theorems/65529b1d-9243-445f-82a3-ff449331d6af

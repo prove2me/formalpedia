@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_C2x2_ut_inv_super
 -- name    : Formalism.FourierDecayAlt.P.C2x2.ut_inv_super
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:51:52.108679+00:00
 -- url     : https://prove2.me/theorems/6fc2d840-c247-436b-8e40-9ccf76233e07

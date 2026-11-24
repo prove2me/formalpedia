@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_measurableSet_inSS
 -- name    : Formalism.FourierDecayAlt.P.B6.measurableSet_inSS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:49:17.383672+00:00
 -- url     : https://prove2.me/theorems/4461ec5e-93e6-4aa0-b6d5-337dd6dcdd38

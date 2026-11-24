@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux6_card_LW
 -- name    : Formalism.FourierDecayAlt.P.Ux6.card_LW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:29:04.674167+00:00
 -- url     : https://prove2.me/theorems/a8296cb8-e17f-4bbe-a26a-cd0277d0b473

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_sum_normSq_entries_mul_le
 -- name    : Formalism.FourierDecayAlt.P.B6.sum_normSq_entries_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:05:32.470885+00:00
 -- url     : https://prove2.me/theorems/902473f8-9360-484f-97cf-dc476711cac7

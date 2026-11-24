@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_replicated_word_derivative
 -- name    : Formalism.FourierDecayAlt.P.B6.replicated_word_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:05:35.477791+00:00
 -- url     : https://prove2.me/theorems/5056573b-9b72-4cce-8d30-dd3ba5440375

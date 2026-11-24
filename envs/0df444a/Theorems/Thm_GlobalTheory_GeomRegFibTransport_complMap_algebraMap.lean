@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GeomRegFibTransport_complMap_algebraMap
 -- name    : GlobalTheory.GeomRegFibTransport.complMap_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:55:31.781563+00:00
 -- url     : https://prove2.me/theorems/8e9fd2f9-15b2-48f5-aa48-b89aa2963482

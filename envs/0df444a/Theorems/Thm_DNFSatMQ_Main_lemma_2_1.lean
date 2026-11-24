@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DNFSatMQ_Main_lemma_2_1
 -- name    : DNFSatMQ.Main.lemma_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-09T23:32:24.670016+00:00
 -- url     : https://prove2.me/theorems/cfc72005-6f2a-401e-8b7d-5d0a365f3fcc

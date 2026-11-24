@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GodementJacquet_TestNearE_isOpen_vle
 -- name    : GlobalTheory.GodementJacquet.TestNearE.isOpen_vle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:55:26.55961+00:00
 -- url     : https://prove2.me/theorems/b51f99b4-b710-4273-b455-e3e5bcd2d54d

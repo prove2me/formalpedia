@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_sb_mem_GGi
 -- name    : Formalism.FourierDecayAlt.P.NFx2.sb_mem_GGi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:19:23.632999+00:00
 -- url     : https://prove2.me/theorems/f5347b01-5d5d-4ffa-832a-80e1040c0073

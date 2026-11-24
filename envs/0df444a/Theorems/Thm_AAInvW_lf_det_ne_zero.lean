@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_lf_det_ne_zero
 -- name    : AAInvW.lf_det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:55:52.645395+00:00
 -- url     : https://prove2.me/theorems/32346d34-1c06-4546-a3b4-a41d1868593b

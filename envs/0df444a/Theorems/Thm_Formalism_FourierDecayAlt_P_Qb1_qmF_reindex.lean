@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qb1_qmF_reindex
 -- name    : Formalism.FourierDecayAlt.P.Qb1.qmF_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:21:19.501613+00:00
 -- url     : https://prove2.me/theorems/e286aef5-1ddc-498e-93cc-3a99914e0623

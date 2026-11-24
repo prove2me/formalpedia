@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.esscherDensityFiniteCutV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T15:45:44.034438+00:00
 -- url     : https://prove2.me/submissions/7cafc58f-464d-4ea5-84f5-d9b4a1a7bf19
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_Ch03_esscherDensityMartingaleRightContinuousV1

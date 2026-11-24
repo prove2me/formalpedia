@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GeometricRayBounds_geom_bound
 -- name    : Formalism.FourierDecayAlt.P.GeometricRayBounds.geom_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:14:01.651049+00:00
 -- url     : https://prove2.me/theorems/c509e8d8-d8dd-43d0-8502-b8d71f4cf68f

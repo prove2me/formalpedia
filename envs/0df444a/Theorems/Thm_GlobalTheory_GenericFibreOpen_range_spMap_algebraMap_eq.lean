@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenericFibreOpen_range_spMap_algebraMap_eq
 -- name    : GlobalTheory.GenericFibreOpen.range_spMap_algebraMap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:53:29.160965+00:00
 -- url     : https://prove2.me/theorems/599c88e0-3d8c-402a-85a2-0180be10df62

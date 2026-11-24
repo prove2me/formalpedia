@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenPush_exists_gen_of_units
 -- name    : GlobalTheory.GenPush.exists_gen_of_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:08:37.720799+00:00
 -- url     : https://prove2.me/theorems/6941aa3d-0449-4bb3-9130-a8d479fbe746

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCRuleCW_dLR_eq
 -- name    : CCRuleCW.dLR_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:54:55.529944+00:00
 -- url     : https://prove2.me/theorems/af0a2a90-b4cb-4b0e-b0d7-b842116b828d

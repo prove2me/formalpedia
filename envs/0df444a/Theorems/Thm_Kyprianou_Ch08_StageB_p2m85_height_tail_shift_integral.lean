@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m85_height_tail_shift_integral
 -- name    : Kyprianou.Ch08.StageB.p2m85_height_tail_shift_integral
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T16:11:13.76198+00:00
 -- url     : https://prove2.me/theorems/0a144b57-6897-492c-a354-1222e6891ce9

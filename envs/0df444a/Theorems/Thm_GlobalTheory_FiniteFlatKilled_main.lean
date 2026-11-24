@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteFlatKilled_main
 -- name    : GlobalTheory.FiniteFlatKilled.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:47:20.144653+00:00
 -- url     : https://prove2.me/theorems/066d720b-0f5e-4b52-8f81-90b737611c01

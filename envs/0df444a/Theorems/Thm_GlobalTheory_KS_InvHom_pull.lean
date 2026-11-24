@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_InvHom_pull
 -- name    : GlobalTheory.KS.InvHom.pull
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:39:52.526183+00:00
 -- url     : https://prove2.me/theorems/22143f4a-74ac-42bb-8f8a-952725d341d9

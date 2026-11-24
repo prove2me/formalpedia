@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_Xi_HermitianLiftIdentities_herm_UH__244872423f2e
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_Xi_HermitianLiftIdentities_herm_UH__244872423f2e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:29:52.624486+00:00
 -- url     : https://prove2.me/theorems/03bbb32c-348d-4572-a14c-3504b81c40e9

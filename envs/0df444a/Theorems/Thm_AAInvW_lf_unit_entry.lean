@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_lf_unit_entry
 -- name    : AAInvW.lf_unit_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:44:49.472798+00:00
 -- url     : https://prove2.me/theorems/4d0bac5f-a37f-4c0b-a680-271c51169b76

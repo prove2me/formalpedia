@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Cond_layer_emb
 -- name    : Formalism.FrobeniusOrbits.Cond.layer_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:10:32.894495+00:00
 -- url     : https://prove2.me/theorems/74e93529-e41b-4c1b-b166-9cb3712b1e7e

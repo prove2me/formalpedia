@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_AdmissibleLieWords_sq2_unitOf_eq_one_of_sq2_eq_div
 -- name    : Formalism.FourierDecayAlt.P.AdmissibleLieWords.sq2_unitOf_eq_one_of_sq2_eq_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:27:02.870524+00:00
 -- url     : https://prove2.me/theorems/3bcd097c-659c-4f06-ac21-fcd544d1cc68

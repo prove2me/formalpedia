@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FrameInd_CountsW_re_diag
 -- name    : PI.FrameInd.CountsW.re_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:54:43.242798+00:00
 -- url     : https://prove2.me/theorems/0fec7b91-2590-446d-ac00-f855ed9c1102

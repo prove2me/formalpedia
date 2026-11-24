@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DDSmoothness_inner_self_cast
 -- name    : Formalism.FourierDecayAlt.P.DDSmoothness.inner_self_cast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:27:22.313719+00:00
 -- url     : https://prove2.me/theorems/01c202bf-1027-4cb2-b159-b3cab0f3f3fe

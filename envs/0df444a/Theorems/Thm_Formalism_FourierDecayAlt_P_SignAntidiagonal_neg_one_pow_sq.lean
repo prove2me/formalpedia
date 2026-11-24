@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_neg_one_pow_sq
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.neg_one_pow_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:22:30.170463+00:00
 -- url     : https://prove2.me/theorems/001d2d8f-edf6-4a0a-8353-e8dfc20b8998

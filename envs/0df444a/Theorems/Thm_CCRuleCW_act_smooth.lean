@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCRuleCW_act_smooth
 -- name    : CCRuleCW.act_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:54:54.654514+00:00
 -- url     : https://prove2.me/theorems/367a5bbe-df57-40ab-b323-0b4e72068b5e

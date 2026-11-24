@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Cx2_dense_allNe
 -- name    : Formalism.FourierDecayAlt.P.Cx2.dense_allNe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:13:02.227958+00:00
 -- url     : https://prove2.me/theorems/c14ca5a6-05c8-4ccc-a660-76912846418d

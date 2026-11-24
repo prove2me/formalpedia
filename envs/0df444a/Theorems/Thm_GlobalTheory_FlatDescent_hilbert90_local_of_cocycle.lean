@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatDescent_hilbert90_local_of_cocycle
 -- name    : GlobalTheory.FlatDescent.hilbert90_local_of_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:32:25.045801+00:00
 -- url     : https://prove2.me/theorems/cb9dc232-7308-444d-a284-7fc73de5b434

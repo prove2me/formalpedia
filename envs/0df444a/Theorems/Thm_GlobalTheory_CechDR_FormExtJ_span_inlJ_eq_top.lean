@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_FormExtJ_span_inlJ_eq_top
 -- name    : GlobalTheory.CechDR.FormExtJ.span_inlJ_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:14:54.256821+00:00
 -- url     : https://prove2.me/theorems/171fb747-6850-45dc-b5d5-60b82e793bed

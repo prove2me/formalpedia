@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlobalFunctions_isPullback_pr
 -- name    : GlobalTheory.GlobalFunctions.isPullback_pr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:55:32.741242+00:00
 -- url     : https://prove2.me/theorems/69d4198b-2a79-42f8-8817-7cbe8ab937be

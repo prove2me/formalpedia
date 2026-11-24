@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoByOneBlock_map_mulVec_volume
 -- name    : Formalism.FourierDecayAlt.P.TwoByOneBlock.map_mulVec_volume
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:23:31.739795+00:00
 -- url     : https://prove2.me/theorems/8162ffd5-9834-4994-aacf-d05f09380e7b

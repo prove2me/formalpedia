@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SettingConstruction_Hpk_mid
 -- name    : Formalism.FourierDecayAlt.P.SettingConstruction.Hpk_mid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:21:36.364653+00:00
 -- url     : https://prove2.me/theorems/b69be11f-6ed1-4de9-b8d3-b797ad8d392c

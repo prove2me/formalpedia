@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_FourTermExpansion_top_apply___a095e6ea583d
 -- name    : P2M_Formalism_FourierDecayAlt_P_FourTermExpansion_top_apply___a095e6ea583d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:03:59.298798+00:00
 -- url     : https://prove2.me/theorems/3cf06c1f-bf1d-42fd-9cb3-0b2fd7c39a42

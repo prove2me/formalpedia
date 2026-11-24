@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GeomRegFibTransport_exists_loc
 -- name    : GlobalTheory.GeomRegFibTransport.exists_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:55:53.287891+00:00
 -- url     : https://prove2.me/theorems/6093a995-d305-41c4-8ef5-1ecfd30b2cbf

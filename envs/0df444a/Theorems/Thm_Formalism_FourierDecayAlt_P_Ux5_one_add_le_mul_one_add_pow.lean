@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux5_one_add_le_mul_one_add_pow
 -- name    : Formalism.FourierDecayAlt.P.Ux5.one_add_le_mul_one_add_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:28:49.518719+00:00
 -- url     : https://prove2.me/theorems/75d06cd0-11b9-4f82-af84-557eaa99b222

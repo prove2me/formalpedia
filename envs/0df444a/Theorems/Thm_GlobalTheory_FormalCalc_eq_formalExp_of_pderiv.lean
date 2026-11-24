@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCalc_eq_formalExp_of_pderiv
 -- name    : GlobalTheory.FormalCalc.eq_formalExp_of_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:50:16.709703+00:00
 -- url     : https://prove2.me/theorems/1f59f3c2-0801-47a7-ba92-27181ebd02a1

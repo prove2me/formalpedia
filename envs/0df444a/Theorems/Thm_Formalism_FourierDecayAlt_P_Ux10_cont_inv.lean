@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux10_cont_inv
 -- name    : Formalism.FourierDecayAlt.P.Ux10.cont_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:26:27.338811+00:00
 -- url     : https://prove2.me/theorems/a3bc1abe-6a40-4567-b23e-a4404462b09e

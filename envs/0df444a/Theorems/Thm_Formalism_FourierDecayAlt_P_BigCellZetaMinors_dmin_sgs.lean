@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BigCellZetaMinors_dmin_sgs
 -- name    : Formalism.FourierDecayAlt.P.BigCellZetaMinors.dmin_sgs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:03:29.185351+00:00
 -- url     : https://prove2.me/theorems/599b56c4-e812-44b3-b16c-44a66fc3f040

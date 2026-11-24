@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoByOneBlock_cs_sq
 -- name    : Formalism.FourierDecayAlt.P.TwoByOneBlock.cs_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:23:11.818936+00:00
 -- url     : https://prove2.me/theorems/f4e55989-b6e7-4f9e-9812-e57187c3028b

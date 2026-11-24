@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_inv_continuousOn
 -- name    : Formalism.FourierDecayAlt.P.B6.inv_continuousOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:49:14.352892+00:00
 -- url     : https://prove2.me/theorems/7209df27-1c68-4e43-bf31-a78d4e9dada0

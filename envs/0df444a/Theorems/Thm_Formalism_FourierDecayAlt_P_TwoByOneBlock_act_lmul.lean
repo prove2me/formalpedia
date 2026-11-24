@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoByOneBlock_act_lmul
 -- name    : Formalism.FourierDecayAlt.P.TwoByOneBlock.act_lmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:23:05.608311+00:00
 -- url     : https://prove2.me/theorems/fdfb63ba-07c1-44bc-8a94-d11b23f3675e

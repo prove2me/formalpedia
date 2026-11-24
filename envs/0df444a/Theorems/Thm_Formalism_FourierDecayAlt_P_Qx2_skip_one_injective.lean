@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx2_skip_one_injective
 -- name    : Formalism.FourierDecayAlt.P.Qx2.skip_one_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:19:59.899354+00:00
 -- url     : https://prove2.me/theorems/74d5d115-dfcb-4d04-b806-d987fa72347d

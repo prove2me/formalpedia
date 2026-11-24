@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GeometricRayBounds_exp_ne_one
 -- name    : Formalism.FourierDecayAlt.P.GeometricRayBounds.exp_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:13:47.67159+00:00
 -- url     : https://prove2.me/theorems/dff69b0f-e1fc-4e47-b39d-d768a7365327

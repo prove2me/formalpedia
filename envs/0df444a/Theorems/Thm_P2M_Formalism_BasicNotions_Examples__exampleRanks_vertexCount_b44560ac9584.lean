@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__exampleRanks_vertexCount_b44560ac9584
 -- name    : P2M_Formalism_BasicNotions_Examples__exampleRanks_vertexCount_b44560ac9584
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:10:31.286527+00:00
 -- url     : https://prove2.me/theorems/3c4d5fc8-1beb-4187-8fed-747ba1e52781

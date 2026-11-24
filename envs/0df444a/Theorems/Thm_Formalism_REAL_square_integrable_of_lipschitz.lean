@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_square_integrable_of_lipschitz
 -- name    : Formalism.REAL.square_integrable_of_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:14:47.55092+00:00
 -- url     : https://prove2.me/theorems/93b9a0e5-c769-4262-be04-38782d4dd6f4

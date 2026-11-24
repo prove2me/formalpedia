@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadDeriv_dy_ev
 -- name    : GlobalTheory.QuadDeriv.dy_ev
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:40:51.515494+00:00
 -- url     : https://prove2.me/theorems/834b8e0c-5d36-42af-8de8-de613d24113e

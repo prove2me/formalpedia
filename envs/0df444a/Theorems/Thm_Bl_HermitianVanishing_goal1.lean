@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Bl_HermitianVanishing_goal1
 -- name    : Bl.HermitianVanishing.goal1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:15:20.858631+00:00
 -- url     : https://prove2.me/theorems/1c08e8a1-042a-43fb-9756-a24ac109e7e6

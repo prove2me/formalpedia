@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussMarginal_lintegral_pi_prod
 -- name    : GlobalTheory.GaussMarginal.lintegral_pi_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:55:37.173308+00:00
 -- url     : https://prove2.me/theorems/820113de-8288-4e87-af51-6eb2c52d7d83

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_boundedStoppingUpperGridV1
 -- name    : Kyprianou.Ch03.boundedStoppingUpperGridV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T15:13:23.687559+00:00
 -- url     : https://prove2.me/theorems/87138f38-2362-4ceb-9c8e-d412be1bb001

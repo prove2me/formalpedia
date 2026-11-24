@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FixedPoint_value_mem_range
 -- name    : GlobalTheory.FixedPoint.value_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:31:37.811683+00:00
 -- url     : https://prove2.me/theorems/0f39ca02-1a86-409b-abdb-56593ab76f41

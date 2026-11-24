@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux5_skew_ct
 -- name    : Formalism.FourierDecayAlt.P.Ux5.skew_ct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:28:58.79561+00:00
 -- url     : https://prove2.me/theorems/5d59fa11-dcdf-4e7a-b617-49c3d8b61096

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCalc_eq_formalLog_of_pderiv
 -- name    : GlobalTheory.FormalCalc.eq_formalLog_of_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:47:21.059916+00:00
 -- url     : https://prove2.me/theorems/b3d6d6c9-63b6-4f5b-9067-aca8cf595bd7

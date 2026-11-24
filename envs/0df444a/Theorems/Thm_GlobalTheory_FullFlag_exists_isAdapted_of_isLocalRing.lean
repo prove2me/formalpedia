@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FullFlag_exists_isAdapted_of_isLocalRing
 -- name    : GlobalTheory.FullFlag.exists_isAdapted_of_isLocalRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:40:13.067175+00:00
 -- url     : https://prove2.me/theorems/3efc467b-4bb8-45b1-af32-580b1491e848

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__exampleRanks_h_injective_ac6f7ae456b6
 -- name    : P2M_Formalism_BasicNotions_Examples__exampleRanks_h_injective_ac6f7ae456b6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:07:40.21634+00:00
 -- url     : https://prove2.me/theorems/0b2c1c57-af81-4c62-b40a-fc61f566f6e5

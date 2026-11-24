@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B5_rdV_hasDerivAt
 -- name    : Formalism.FourierDecayAlt.P.B5.rdV_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:01:48.007814+00:00
 -- url     : https://prove2.me/theorems/07dac02e-6de8-4ab1-a6ee-48b4108d9e2a

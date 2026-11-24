@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormFactor_lintegral_pi_congr_coord
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormFactor.lintegral_pi_congr_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:15:59.728633+00:00
 -- url     : https://prove2.me/theorems/09f1b6c3-a92b-440c-a613-b0c9b01cda55

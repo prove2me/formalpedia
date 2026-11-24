@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B4_op_op_ext
 -- name    : Formalism.FourierDecayAlt.P.B4.op_op_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:27:01.683388+00:00
 -- url     : https://prove2.me/theorems/b861c037-5279-44cb-9224-0ba0439ced3f

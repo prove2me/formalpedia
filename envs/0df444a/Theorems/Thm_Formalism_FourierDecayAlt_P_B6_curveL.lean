@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_curveL
 -- name    : Formalism.FourierDecayAlt.P.B6.curveL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:01:08.004709+00:00
 -- url     : https://prove2.me/theorems/d7598bc4-d831-465a-9596-b623a773e4f4

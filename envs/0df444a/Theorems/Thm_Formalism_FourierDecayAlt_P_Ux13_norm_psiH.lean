@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux13_norm_psiH
 -- name    : Formalism.FourierDecayAlt.P.Ux13.norm_psiH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:24:20.814311+00:00
 -- url     : https://prove2.me/theorems/9ada9cf9-2680-4107-8371-6a3f8d068ca5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GradedFixed_exists_comp
 -- name    : GlobalTheory.GradedFixed.exists_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:56:39.153988+00:00
 -- url     : https://prove2.me/theorems/b0f266ff-c28c-4cd4-bf47-eb15fe39ed3e

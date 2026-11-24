@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_NativeWriter_Production_Candidates_IntegerGeometry_Canonical_CandidateRAM_Logical_root_key_without_label_reads
 -- name    : StableMSR.Recovery.NativeWriter.Production.Candidates.IntegerGeometry.Canonical.CandidateRAM.Logical.root_key_without_label_reads
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-24T16:16:26.805915+00:00
 -- url     : https://prove2.me/theorems/4b09dbee-c760-4ddb-b636-e80088c4c146

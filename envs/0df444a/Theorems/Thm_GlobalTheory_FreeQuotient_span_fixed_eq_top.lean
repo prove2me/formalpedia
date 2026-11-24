@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FreeQuotient_span_fixed_eq_top
 -- name    : GlobalTheory.FreeQuotient.span_fixed_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:40:35.583793+00:00
 -- url     : https://prove2.me/theorems/dc27ddf7-ed02-4d6e-a117-1146b1357e37

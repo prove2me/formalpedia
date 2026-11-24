@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_rel_sum_posL
 -- name    : PI.QnHermHaar.rel_sum_posL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:17:17.630805+00:00
 -- url     : https://prove2.me/theorems/75db7860-dc38-4bed-8ff2-44156a71bc0a

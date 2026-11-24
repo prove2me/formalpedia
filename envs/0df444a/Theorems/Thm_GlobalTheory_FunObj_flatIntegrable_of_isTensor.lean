@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_flatIntegrable_of_isTensor
 -- name    : GlobalTheory.FunObj.flatIntegrable_of_isTensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:41:42.156271+00:00
 -- url     : https://prove2.me/theorems/40d78674-0381-48f9-a8b5-d5116f2ea00b

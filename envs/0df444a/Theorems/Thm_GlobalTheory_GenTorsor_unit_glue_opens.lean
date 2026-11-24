@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenTorsor_unit_glue_opens
 -- name    : GlobalTheory.GenTorsor.unit_glue_opens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:53:43.904729+00:00
 -- url     : https://prove2.me/theorems/2384b15b-479b-462f-aea0-b89714e31928

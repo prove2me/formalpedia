@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux10_dLR_vanish
 -- name    : Formalism.FourierDecayAlt.P.Ux10.dLR_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:26:24.9037+00:00
 -- url     : https://prove2.me/theorems/e1a50cc4-edd0-44b1-bced-25fc0ec386a3

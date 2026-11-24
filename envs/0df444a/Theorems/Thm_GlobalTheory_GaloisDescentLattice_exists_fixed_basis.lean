@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescentLattice_exists_fixed_basis
 -- name    : GlobalTheory.GaloisDescentLattice.exists_fixed_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:35:06.526803+00:00
 -- url     : https://prove2.me/theorems/236822d2-b6ea-4975-8b1e-b9eda8a90187

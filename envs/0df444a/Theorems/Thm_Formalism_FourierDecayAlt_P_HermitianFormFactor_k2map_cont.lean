@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormFactor_k2map_cont
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormFactor.k2map_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:16:22.790574+00:00
 -- url     : https://prove2.me/theorems/b896d858-9267-4e33-9dcf-607c8cac6ab5

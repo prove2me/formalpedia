@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GeomRegFibTransport_residueFieldRingEquiv_algebraMap
 -- name    : GlobalTheory.GeomRegFibTransport.residueFieldRingEquiv_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:55:56.7408+00:00
 -- url     : https://prove2.me/theorems/6df9fbdd-04e5-46e0-9e8b-2e3e67d25136

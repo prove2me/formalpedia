@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x9_S2_cOf_meas
 -- name    : Formalism.FourierDecayAlt.P.B2x9.S2.cOf_meas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:00:43.722216+00:00
 -- url     : https://prove2.me/theorems/025de691-ce48-4f0d-a5d9-64b34100de0b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinTyp_rank_le_aleph0
 -- name    : GlobalTheory.FinTyp.rank_le_aleph0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:25:58.246705+00:00
 -- url     : https://prove2.me/theorems/e4112e2c-32dc-44ab-b469-be1e89f30c1a

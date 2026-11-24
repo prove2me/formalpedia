@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx3_tau_e
 -- name    : Formalism.FourierDecayAlt.P.Qx3.tau_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:19:40.506324+00:00
 -- url     : https://prove2.me/theorems/fbebbf8c-6a0f-45db-b6dd-55c471f16711

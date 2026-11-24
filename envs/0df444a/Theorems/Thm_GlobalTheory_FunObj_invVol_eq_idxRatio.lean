@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_invVol_eq_idxRatio
 -- name    : GlobalTheory.FunObj.invVol_eq_idxRatio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:41:12.737872+00:00
 -- url     : https://prove2.me/theorems/01ad901d-4936-4a29-b181-e05d823fd0ca

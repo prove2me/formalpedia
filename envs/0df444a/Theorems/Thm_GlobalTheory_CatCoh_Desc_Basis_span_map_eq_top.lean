@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CatCoh_Desc_Basis_span_map_eq_top
 -- name    : GlobalTheory.CatCoh.Desc.Basis.span_map_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:13:54.569549+00:00
 -- url     : https://prove2.me/theorems/3ad29f56-027a-483a-b017-0621f5fbe6c1

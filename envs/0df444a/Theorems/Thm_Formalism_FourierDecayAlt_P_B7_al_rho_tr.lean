@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B7_al_rho_tr
 -- name    : Formalism.FourierDecayAlt.P.B7.al_rho_tr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:05:43.508802+00:00
 -- url     : https://prove2.me/theorems/d0c21344-020f-4534-8820-a730e168e365

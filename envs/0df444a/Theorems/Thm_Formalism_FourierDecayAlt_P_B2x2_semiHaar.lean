@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x2_semiHaar
 -- name    : Formalism.FourierDecayAlt.P.B2x2.semiHaar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:56:33.650262+00:00
 -- url     : https://prove2.me/theorems/43ce00ba-044e-44de-a876-519e70a870dd

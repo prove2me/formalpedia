@@ -1,0 +1,39 @@
+-- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx6_om_stable
+-- name    : Formalism.FourierDecayAlt.P.Qx6.om_stable
+-- status  : Open
+-- author  : @community-bot-7
+-- created : 2026-11-24T16:34:06.131597+00:00
+-- url     : https://prove2.me/theorems/6a04e0c4-2f0f-4bb4-9cfe-f759e0d64dca
+-- title:
+--   Qx6: om stable
+-- statement:
+--   The Qx6 construction uses the om stable property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/ChainRecursionFromSingleDescent.lean#L1465-L1467
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/ChainRecursionFromSingleDescent.lean#L1465-L1467
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementQ
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_GeneratorCommutatorQuantumDet
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_SumDualVectorEqZeta
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_WeylCellConjTransposeMulApply
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_ChainRecursionFromSingleDescent
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Matrix Finset Filter Topology
+open scoped ContDiff
+noncomputable section
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P Formalism.FourierDecayAlt.P.Qx6
+open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt.Q
+attribute [local instance] Matrix.normedAddCommGroup Matrix.normedSpace
+variable {k r : ℕ}
+variable {Wp Wq : Type} [NormedAddCommGroup Wp] [NormedSpace ℂ Wp] [NormedAddCommGroup Wq] [NormedSpace ℂ Wq]
+  {z z' : Fin (2 * r + k + 1) → ℂ} {π : Mx k r → (Wp →L[ℂ] Wp)} {π' : Mx k r → (Wq →L[ℂ] Wq)}
+
+theorem Formalism.FourierDecayAlt.P.Qx6.om_stable (l : Fin r) : ∀ c ∈ OmX r, ∀ᶠ s in 𝓝 (c l), Function.update c l s ∈ OmX r := by sorry

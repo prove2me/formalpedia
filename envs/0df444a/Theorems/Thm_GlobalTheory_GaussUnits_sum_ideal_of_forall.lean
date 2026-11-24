@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussUnits_sum_ideal_of_forall
 -- name    : GlobalTheory.GaussUnits.sum_ideal_of_forall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:54:12.449736+00:00
 -- url     : https://prove2.me/theorems/e99bd3cc-3bce-42cf-ba08-5cae23929d14

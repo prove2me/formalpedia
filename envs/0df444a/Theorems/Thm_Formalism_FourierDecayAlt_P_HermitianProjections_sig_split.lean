@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianProjections_sig_split
 -- name    : Formalism.FourierDecayAlt.P.HermitianProjections.sig_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:14:55.813486+00:00
 -- url     : https://prove2.me/theorems/cda4585c-0c56-4b03-a5fe-c7a3b7f2a5c3

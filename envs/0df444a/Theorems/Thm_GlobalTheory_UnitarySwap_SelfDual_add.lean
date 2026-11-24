@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitarySwap_SelfDual_add
 -- name    : GlobalTheory.UnitarySwap.SelfDual.add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:45:58.969868+00:00
 -- url     : https://prove2.me/theorems/b6efd8ff-1b01-4ab8-9988-d9450f09a38a

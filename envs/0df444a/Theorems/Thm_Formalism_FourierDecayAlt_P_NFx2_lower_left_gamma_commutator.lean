@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_lower_left_gamma_commutator
 -- name    : Formalism.FourierDecayAlt.P.NFx2.lower_left_gamma_commutator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:18:40.802747+00:00
 -- url     : https://prove2.me/theorems/f5a18262-38e4-4693-9823-f17db0d7df69

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_parametrisation_eq_scaled_sum
 -- name    : Formalism.FourierDecayAlt.P.B2x8.parametrisation_eq_scaled_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:00:08.099673+00:00
 -- url     : https://prove2.me/theorems/b13d7cb1-c840-476b-9722-8b0d9ff9cd65

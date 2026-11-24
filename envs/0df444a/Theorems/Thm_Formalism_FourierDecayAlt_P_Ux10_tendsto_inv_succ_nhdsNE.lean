@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux10_tendsto_inv_succ_nhdsNE
 -- name    : Formalism.FourierDecayAlt.P.Ux10.tendsto_inv_succ_nhdsNE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:24:53.469803+00:00
 -- url     : https://prove2.me/theorems/9532bd6b-e8d1-4bf4-af2f-cd4bd862448f

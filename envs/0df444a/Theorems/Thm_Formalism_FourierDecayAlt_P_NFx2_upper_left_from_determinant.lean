@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_upper_left_from_determinant
 -- name    : Formalism.FourierDecayAlt.P.NFx2.upper_left_from_determinant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:18:36.335397+00:00
 -- url     : https://prove2.me/theorems/4f19f3d3-ead5-4e32-a01a-1e9e2eb4e14a

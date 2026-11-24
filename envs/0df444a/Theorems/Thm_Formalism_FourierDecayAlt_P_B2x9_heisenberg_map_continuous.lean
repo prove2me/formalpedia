@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x9_heisenberg_map_continuous
 -- name    : Formalism.FourierDecayAlt.P.B2x9.heisenberg_map_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:43:52.878814+00:00
 -- url     : https://prove2.me/theorems/ae6efc9e-6a16-4eb0-a202-7bf69412cb4d

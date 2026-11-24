@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlueCover_exists_sheet
 -- name    : GlobalTheory.GlueCover.exists_sheet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:55:26.528282+00:00
 -- url     : https://prove2.me/theorems/5ed79efe-c0af-42ce-9c30-a50a7317a898

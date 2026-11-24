@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux2_rset_of_blocks
 -- name    : Formalism.FourierDecayAlt.P.Ux2.rset_of_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:26:13.340338+00:00
 -- url     : https://prove2.me/theorems/c6a2d0db-bc25-4ac0-b953-2df9d3370a9d

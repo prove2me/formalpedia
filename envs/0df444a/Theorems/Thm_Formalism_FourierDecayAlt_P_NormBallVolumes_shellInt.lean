@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NormBallVolumes_shellInt
 -- name    : Formalism.FourierDecayAlt.P.NormBallVolumes.shellInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:19:44.152666+00:00
 -- url     : https://prove2.me/theorems/16f0d7ff-fc24-443a-8a55-a0a3572f00b6

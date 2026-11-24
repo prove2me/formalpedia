@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_esscherDensityAtExtendedStoppingTime
 -- name    : Kyprianou.Ch03.esscherDensityAtExtendedStoppingTime
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T13:41:50.143185+00:00
 -- url     : https://prove2.me/theorems/87ef6563-5569-47b4-b375-99ef3353c600

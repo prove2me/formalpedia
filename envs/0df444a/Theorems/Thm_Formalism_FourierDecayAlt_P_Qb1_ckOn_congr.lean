@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qb1_ckOn_congr
 -- name    : Formalism.FourierDecayAlt.P.Qb1.ckOn_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:21:15.290802+00:00
 -- url     : https://prove2.me/theorems/42169093-9b53-472e-847b-3c6c145ecb77

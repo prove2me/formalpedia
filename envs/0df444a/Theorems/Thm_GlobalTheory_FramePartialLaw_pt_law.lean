@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePartialLaw_pt_law
 -- name    : GlobalTheory.FramePartialLaw.pt_law
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:38:19.273663+00:00
 -- url     : https://prove2.me/theorems/764906f0-8593-47dd-ad76-310dca210afc

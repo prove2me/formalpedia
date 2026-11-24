@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunDescent_exists_app_eq
 -- name    : GlobalTheory.FunDescent.exists_app_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:43:26.93006+00:00
 -- url     : https://prove2.me/theorems/92bbecbe-b17c-450a-b73e-ef0af1377a4d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormFactor_not_posDef_of_sing
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormFactor.not_posDef_of_sing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:15:07.418214+00:00
 -- url     : https://prove2.me/theorems/94ada4dd-602e-4238-aef4-e8601334ca16

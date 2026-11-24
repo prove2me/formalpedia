@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameValue_ahFactor_zero
 -- name    : GlobalTheory.FrameValue.ahFactor_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:39:22.995958+00:00
 -- url     : https://prove2.me/theorems/6b72c028-b231-4b4b-85d5-490a2319f710

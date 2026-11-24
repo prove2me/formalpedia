@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BB6Kit_lemma321
 -- name    : BB6Kit.lemma321
--- status  : Open
+-- status  : Proved
 -- author  : @alon yuval
 -- created : 2026-11-24T08:10:38.901049+00:00
 -- url     : https://prove2.me/theorems/47e52565-a61c-4feb-a188-203303f70ea9

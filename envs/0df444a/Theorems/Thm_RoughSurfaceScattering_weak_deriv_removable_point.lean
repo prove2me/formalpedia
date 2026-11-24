@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoughSurfaceScattering_weak_deriv_removable_point
 -- name    : RoughSurfaceScattering.weak_deriv_removable_point
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-24T15:55:49.675807+00:00
 -- url     : https://prove2.me/theorems/fc08004f-80a0-4e25-beeb-d2530a356e43

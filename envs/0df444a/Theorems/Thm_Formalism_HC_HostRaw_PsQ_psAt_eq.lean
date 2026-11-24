@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_PsQ_psAt_eq
 -- name    : Formalism.HC.HostRaw.PsQ.psAt_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:15:12.798466+00:00
 -- url     : https://prove2.me/theorems/8d2e88f2-dfcf-4aae-9ed9-1b67d5fc83b1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalInv_coeff_substInv_mem_of_two_le_order
 -- name    : GlobalTheory.FormalInv.coeff_substInv_mem_of_two_le_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:34:33.09935+00:00
 -- url     : https://prove2.me/theorems/641c2302-b223-4f41-b066-582a21ffabcb

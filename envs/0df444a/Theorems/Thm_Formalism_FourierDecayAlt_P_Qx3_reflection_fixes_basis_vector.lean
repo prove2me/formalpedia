@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx3_reflection_fixes_basis_vector
 -- name    : Formalism.FourierDecayAlt.P.Qx3.reflection_fixes_basis_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:20:18.733622+00:00
 -- url     : https://prove2.me/theorems/7fd3195c-4525-474b-a87a-2357f4a79961

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlobalFunctions_model_apply
 -- name    : GlobalTheory.GlobalFunctions.model_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:56:18.855331+00:00
 -- url     : https://prove2.me/theorems/460de51c-30f1-4225-8461-2136d8e8d846

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_GS_det_gram_of
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.GS.det_gram_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:15:10.58111+00:00
 -- url     : https://prove2.me/theorems/17d1985c-883d-4f25-b0b6-ab69573877e4

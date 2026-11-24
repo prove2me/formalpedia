@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DeterminantReindex_det_reindex
 -- name    : Formalism.FourierDecayAlt.P.DeterminantReindex.det_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:12:20.855802+00:00
 -- url     : https://prove2.me/theorems/8e6ce899-7e65-4f77-b9df-1525e833aa92

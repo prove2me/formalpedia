@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GeneratorFunctor_Pt_ext_chart
 -- name    : GlobalTheory.GeneratorFunctor.Pt.ext_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:54:25.465806+00:00
 -- url     : https://prove2.me/theorems/aa48cc02-6bfa-4039-b001-53ffb9603745

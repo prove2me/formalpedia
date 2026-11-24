@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualFormOrtho_dualFormValue_of_values
 -- name    : GlobalTheory.DualFormOrtho.dualFormValue_of_values
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:51:56.678168+00:00
 -- url     : https://prove2.me/theorems/df01d4fc-da4d-4b2e-a661-2bdfa933ea41

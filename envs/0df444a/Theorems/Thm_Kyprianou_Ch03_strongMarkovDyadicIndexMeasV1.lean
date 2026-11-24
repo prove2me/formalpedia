@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_strongMarkovDyadicIndexMeasV1
 -- name    : Kyprianou.Ch03.strongMarkovDyadicIndexMeasV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T08:14:34.167803+00:00
 -- url     : https://prove2.me/theorems/27659cd6-5fc8-4524-8b4a-84f0e6dfa134

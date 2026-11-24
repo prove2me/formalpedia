@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_norm_hilbertSchmidt_inner_contraction_le
 -- name    : Formalism.FourierDecayAlt.P.B6.norm_hilbertSchmidt_inner_contraction_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:04:46.156258+00:00
 -- url     : https://prove2.me/theorems/a69e5e95-79b5-4555-afcd-5121ef65b80c

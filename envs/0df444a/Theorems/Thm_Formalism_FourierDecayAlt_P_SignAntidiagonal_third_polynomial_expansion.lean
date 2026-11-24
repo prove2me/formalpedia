@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_third_polynomial_expansion
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.third_polynomial_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:30:15.066129+00:00
 -- url     : https://prove2.me/theorems/1cd7f7e0-9d50-4572-aad7-5894b8c92ae2

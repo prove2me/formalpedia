@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux3_eC_symm_castAdd
 -- name    : Formalism.FourierDecayAlt.P.Ux3.eC_symm_castAdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:25:49.222093+00:00
 -- url     : https://prove2.me/theorems/e9e726c4-911e-4f51-9d7b-12f9caf77e4a

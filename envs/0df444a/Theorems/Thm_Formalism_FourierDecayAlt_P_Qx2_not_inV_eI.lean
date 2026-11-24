@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx2_not_inV_eI
 -- name    : Formalism.FourierDecayAlt.P.Qx2.not_inV_eI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:20:04.362118+00:00
 -- url     : https://prove2.me/theorems/e08d1978-cf17-4421-a42b-f439fd0f0b38

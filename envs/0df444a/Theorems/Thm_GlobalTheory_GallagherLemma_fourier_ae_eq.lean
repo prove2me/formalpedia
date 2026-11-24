@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GallagherLemma_fourier_ae_eq
 -- name    : GlobalTheory.GallagherLemma.fourier_ae_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:41:32.271394+00:00
 -- url     : https://prove2.me/theorems/4549df2c-a239-4abb-839c-4011ca8c9c69

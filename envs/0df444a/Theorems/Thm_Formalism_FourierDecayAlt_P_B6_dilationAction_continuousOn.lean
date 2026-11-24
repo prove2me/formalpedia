@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_dilationAction_continuousOn
 -- name    : Formalism.FourierDecayAlt.P.B6.dilationAction_continuousOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:01:24.705788+00:00
 -- url     : https://prove2.me/theorems/33333626-0acc-4fa2-a5b4-8122c657a246

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_frameCyclic_order
 -- name    : Formalism.HC.frameCyclic_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:50:24.916341+00:00
 -- url     : https://prove2.me/theorems/970ad259-0c56-459b-bae5-645de3444a02

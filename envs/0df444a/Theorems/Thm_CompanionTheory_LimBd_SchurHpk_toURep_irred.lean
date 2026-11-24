@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_SchurHpk_toURep_irred
 -- name    : CompanionTheory.LimBd.SchurHpk.toURep_irred
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:27:41.527173+00:00
 -- url     : https://prove2.me/theorems/f4716e82-768b-4310-9ef6-81a97099513c

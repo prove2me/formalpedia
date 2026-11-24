@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenEigenFinOrbit_foldr_eq_prod
 -- name    : GlobalTheory.GenEigenFinOrbit.foldr_eq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:53:58.581812+00:00
 -- url     : https://prove2.me/theorems/22d677fd-9ee1-45cb-a944-5daf6fa6f8fb

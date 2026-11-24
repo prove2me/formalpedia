@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormFactor_Pneg_eq
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormFactor.Pneg_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:14:00.655825+00:00
 -- url     : https://prove2.me/theorems/6f30e229-ce5d-4e5c-928c-7e6e2aeb422b

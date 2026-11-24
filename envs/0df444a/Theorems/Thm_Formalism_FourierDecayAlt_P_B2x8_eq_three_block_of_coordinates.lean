@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_eq_three_block_of_coordinates
 -- name    : Formalism.FourierDecayAlt.P.B2x8.eq_three_block_of_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:57:23.656944+00:00
 -- url     : https://prove2.me/theorems/219bbcab-4803-4779-9095-ba9daec04454

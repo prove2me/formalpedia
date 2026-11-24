@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussWidths_hasWidth_fourier
 -- name    : GlobalTheory.GaussWidths.hasWidth_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:53:56.227806+00:00
 -- url     : https://prove2.me/theorems/e12209e8-4379-46f5-b14d-27283974e442

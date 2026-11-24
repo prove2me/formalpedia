@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_gvGroup
 -- name    : PI.PolynomialProperness.gvGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:20:00.541193+00:00
 -- url     : https://prove2.me/theorems/21db3a37-91e2-4f34-a3b0-2b72fdd0fed7

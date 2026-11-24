@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux10_iot_facts
 -- name    : Formalism.FourierDecayAlt.P.Ux10.iot_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:10:43.003568+00:00
 -- url     : https://prove2.me/theorems/328ce58b-d075-4e19-afa5-683650833b5e

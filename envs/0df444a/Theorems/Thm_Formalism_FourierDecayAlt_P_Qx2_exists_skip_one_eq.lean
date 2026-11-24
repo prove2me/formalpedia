@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx2_exists_skip_one_eq
 -- name    : Formalism.FourierDecayAlt.P.Qx2.exists_skip_one_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:20:14.238805+00:00
 -- url     : https://prove2.me/theorems/d82cb32e-58f7-4187-8c16-3f1d4b05e0c9

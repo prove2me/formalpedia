@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx2_cbiOp_add
 -- name    : Formalism.FourierDecayAlt.P.Qx2.cbiOp_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:19:52.796182+00:00
 -- url     : https://prove2.me/theorems/ea979c06-8a17-400b-85fd-6c8269692465

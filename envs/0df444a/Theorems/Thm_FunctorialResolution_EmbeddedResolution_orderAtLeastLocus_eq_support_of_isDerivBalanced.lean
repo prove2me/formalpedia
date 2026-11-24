@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_orderAtLeastLocus_eq_support_of_isDerivBalanced
 -- name    : FunctorialResolution.EmbeddedResolution.orderAtLeastLocus_eq_support_of_isDerivBalanced
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:53:00.246075+00:00
 -- url     : https://prove2.me/theorems/b57b0e8e-1b05-4788-b8fb-28beff41b04a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_lower_left_commute_self
 -- name    : Formalism.FourierDecayAlt.P.NFx2.lower_left_commute_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:17:01.083643+00:00
 -- url     : https://prove2.me/theorems/c9b93463-8c73-4f82-9da5-87338043eb2b

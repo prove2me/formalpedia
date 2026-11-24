@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussContentLinearForms_span_coeff_mul
 -- name    : GlobalTheory.GaussContentLinearForms.span_coeff_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:48:29.997032+00:00
 -- url     : https://prove2.me/theorems/76df0550-b23b-4d1d-a6ef-2861c56ef2d8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DDSmoothness_bessel_smul
 -- name    : Formalism.FourierDecayAlt.P.DDSmoothness.bessel_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:12:53.152538+00:00
 -- url     : https://prove2.me/theorems/24337270-8b1d-4fc3-be05-a34624f247b4

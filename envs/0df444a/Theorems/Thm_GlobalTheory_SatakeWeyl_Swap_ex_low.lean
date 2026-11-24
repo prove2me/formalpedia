@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_Swap_ex_low
 -- name    : GlobalTheory.SatakeWeyl.Swap.ex_low
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:27:53.024538+00:00
 -- url     : https://prove2.me/theorems/433d9514-ce63-462b-9631-578b10476d13

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx3_hpart_skew
 -- name    : Formalism.FourierDecayAlt.P.Qx3.hpart_skew
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:19:31.536801+00:00
 -- url     : https://prove2.me/theorems/77bec95f-6e81-4004-8a67-b4e3caa74ac5
