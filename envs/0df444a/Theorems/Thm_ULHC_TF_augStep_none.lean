@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_TF_augStep_none
 -- name    : ULHC.TF.augStep_none
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:48:38.410677+00:00
 -- url     : https://prove2.me/theorems/23fce145-2c7e-47fa-ae4c-396ef0d4d34a

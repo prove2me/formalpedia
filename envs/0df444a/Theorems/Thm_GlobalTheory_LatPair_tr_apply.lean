@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_tr_apply
 -- name    : GlobalTheory.LatPair.tr_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:45:06.869641+00:00
 -- url     : https://prove2.me/theorems/f50b63f5-864f-445f-bae2-17c12920a6cf

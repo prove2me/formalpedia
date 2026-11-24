@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointIntegral_zeroSet_ker_eval_4be2b8aa0b5c
 -- name    : P2M_GroundTheory_Heights__Heights_PointIntegral_zeroSet_ker_eval_4be2b8aa0b5c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:42:46.969216+00:00
 -- url     : https://prove2.me/theorems/7274b93d-135a-4afd-8feb-4450480e88e0

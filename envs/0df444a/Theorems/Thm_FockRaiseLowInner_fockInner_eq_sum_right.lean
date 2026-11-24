@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockRaiseLowInner_fockInner_eq_sum_right
 -- name    : FockRaiseLowInner.fockInner_eq_sum_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:29:03.489257+00:00
 -- url     : https://prove2.me/theorems/c2c2c647-3f6a-43f8-b092-ab44434e1dd0

@@ -37094,7 +37094,7 @@
 {"parent": "D1Bound5.PairLightAdaptivePrepared26.right_prefix_006_part12_checked", "child": "D1Bound5_SmallPairLightAdaptiveData26_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightAdaptivePrepared26.right_prefix_006_part12_checked", "child": "D1Bound5_PairLightArithmeticChunks_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightAdaptivePrepared26.right_prefix_006_part12_checked", "child": "D1Bound5_PairLightArithmetic_Definitions", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_augment_unreachable_pair_e285668e", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_augment_unreachable_pair_e285668e", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.rectangle_block_w1250_b0", "child": "HlawkaSchatten_DiagonalCutoff6_Localization", "via": ["solution", "statement"]}
 {"parent": "OAI.RVM.Admissible.direct_transport_sharp_physical_log_bound", "child": "VlasovMaxwell", "via": ["solution", "statement"]}
 {"parent": "OAI.RVM.Admissible.direct_transport_sharp_physical_log_bound", "child": "OAIQ073V000", "via": ["solution", "statement"]}
@@ -45886,9 +45886,9 @@
 {"parent": "D1Bound5.PairLightPrepared20.left_checked", "child": "D1Bound5_SmallPairGraphData20_Definitions_002", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightPrepared20.left_checked", "child": "D1Bound5_SmallPairSieve_1_1_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightPrepared20.left_checked", "child": "D1Bound5_Coordinates_Definitions", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.maximal_planar_edge_lower_bound_retry_2cbac039_augment", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_planar_edge_lower_bound_retry_2cbac039_augment", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.planar_drawing_triangulation_extension_7607aed3", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_connected_supergraph_b74a49f4", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_connected_supergraph_b74a49f4", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "KLSModular_FunctionalInequalities_Energy_Euclidean_LipschitzApproximation_Kernel", "child": "KLSModular_FunctionalInequalities_Energy_Euclidean_LipschitzApproximation_Measurable", "via": ["statement"]}
 {"parent": "BS2_b3ba934b_ActualQ2Bound", "child": "BS2_b3ba934b_ActualRecordAllowed", "via": ["statement"]}
 {"parent": "BS2_b3ba934b_ActualQ2Bound", "child": "BS2_b3ba934b_ActualHighRecordBound", "via": ["statement"]}

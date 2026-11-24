@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_rename_linForm_a19ea48e2376
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_rename_linForm_a19ea48e2376
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:42:19.767551+00:00
 -- url     : https://prove2.me/theorems/3cb5f380-2cae-4fc2-9715-fcc913322a9c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_projectiveLineClassData_eisTerm_nonneg_e6d069c6df72
 -- name    : P2M_GroundTheory_Heights__Theta_projectiveLineClassData_eisTerm_nonneg_e6d069c6df72
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:48:00.64565+00:00
 -- url     : https://prove2.me/theorems/11571ea2-4a34-4b7e-bbbc-d78618ed21ee

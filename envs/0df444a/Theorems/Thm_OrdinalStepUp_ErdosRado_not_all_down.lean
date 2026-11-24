@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrdinalStepUp_ErdosRado_not_all_down
 -- name    : OrdinalStepUp.ErdosRado.not_all_down
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:48:39.047162+00:00
 -- url     : https://prove2.me/theorems/f8c02cba-77bf-4a7f-941f-06933aa46759

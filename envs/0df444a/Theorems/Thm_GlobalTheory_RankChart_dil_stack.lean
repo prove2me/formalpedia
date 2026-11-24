@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankChart_dil_stack
 -- name    : GlobalTheory.RankChart.dil_stack
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:34:14.139674+00:00
 -- url     : https://prove2.me/theorems/ed0df6a1-2aeb-42bc-9343-2116dfa42bcb

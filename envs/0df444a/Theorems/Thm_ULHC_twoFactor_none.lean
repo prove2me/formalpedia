@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_twoFactor_none
 -- name    : ULHC.twoFactor_none
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:46:42.799803+00:00
 -- url     : https://prove2.me/theorems/ceb75ae3-e64e-4a13-83ce-c52646454f29

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_mem_orbitIdeal_iff_of_isMultiHomog_796bb3d2097e
 -- name    : P2M_GroundTheory_Heights__Heights_mem_orbitIdeal_iff_of_isMultiHomog_796bb3d2097e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:47:16.909714+00:00
 -- url     : https://prove2.me/theorems/de2886ce-8200-444d-9fed-8eb5295cd234

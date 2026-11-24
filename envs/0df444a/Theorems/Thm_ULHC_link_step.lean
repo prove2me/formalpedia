@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_link_step
 -- name    : ULHC.link_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:51:13.866837+00:00
 -- url     : https://prove2.me/theorems/fe94eb8b-1562-415a-b0c4-3da217cc1dc3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_resChar_ne_one
 -- name    : GlobalTheory.LatPair.resChar_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:37:22.602557+00:00
 -- url     : https://prove2.me/theorems/2a618fc1-4658-4521-a916-0f56a0de5e1c

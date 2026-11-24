@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_exists_isCompact_isOpen_between
 -- name    : GroundTheory.Automorphic.Whittaker.exists_isCompact_isOpen_between
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:45:51.189648+00:00
 -- url     : https://prove2.me/theorems/5395258e-9f77-422e-a2f9-8c6832c92d7b

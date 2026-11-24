@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_reroute_back_rung
 -- name    : ULHC.reroute_back_rung
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:49:52.192325+00:00
 -- url     : https://prove2.me/theorems/efaeaca5-ba95-4ccf-ae2c-ba0219ddb98d

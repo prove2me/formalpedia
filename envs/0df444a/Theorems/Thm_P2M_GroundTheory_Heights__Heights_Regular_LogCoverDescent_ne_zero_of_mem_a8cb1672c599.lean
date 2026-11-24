@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_LogCoverDescent_ne_zero_of_mem_a8cb1672c599
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_LogCoverDescent_ne_zero_of_mem_a8cb1672c599
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:44:24.551523+00:00
 -- url     : https://prove2.me/theorems/0a0bd47c-2b38-403a-aba5-7bcae2b8e500

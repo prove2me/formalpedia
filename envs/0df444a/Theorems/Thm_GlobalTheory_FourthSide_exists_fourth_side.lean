@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FourthSide_exists_fourth_side
 -- name    : GlobalTheory.FourthSide.exists_fourth_side
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:10:35.797873+00:00
 -- url     : https://prove2.me/theorems/7abe60b8-7641-4b68-bae4-3fc903605f24

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_exists_unit_cob_of_toMatrix_diagonal
 -- name    : WeilConjectures.exists_unit_cob_of_toMatrix_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T02:18:51.576808+00:00
 -- url     : https://prove2.me/theorems/503effa6-346f-4a0f-96ab-9b243b1aca18

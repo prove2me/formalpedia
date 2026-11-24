@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_ind_union_disj
 -- name    : ULHC.ind_union_disj
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:49:49.663442+00:00
 -- url     : https://prove2.me/theorems/6f2a2486-e60f-4fe9-8fd7-5ffe206a1e6d

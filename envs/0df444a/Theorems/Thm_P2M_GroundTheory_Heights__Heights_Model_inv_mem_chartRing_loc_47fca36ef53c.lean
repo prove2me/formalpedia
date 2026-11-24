@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_inv_mem_chartRing_loc_47fca36ef53c
 -- name    : P2M_GroundTheory_Heights__Heights_Model_inv_mem_chartRing_loc_47fca36ef53c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:36:43.635855+00:00
 -- url     : https://prove2.me/theorems/042220d7-3160-4033-8d7a-784781b997f3

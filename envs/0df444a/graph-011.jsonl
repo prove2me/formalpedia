@@ -10248,7 +10248,7 @@
 {"parent": "D1Bound5.PairGraphPrepared37.indexed_chunk08_checked", "child": "D1Bound5_SmallPairGraphInputs37_Definitions_002", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairGraphPrepared37.indexed_chunk08_checked", "child": "D1Bound5_SmallPairGraphInputs37_Definitions_001", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairGraphPrepared37.indexed_chunk08_checked", "child": "D1Bound5_SmallPairGraphWitnessData37_Definitions_001", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.maximal_drawable_edge_count_8e6fe4ee_76fd_4caa_8f38_7058c432af92", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.maximal_drawable_edge_count_8e6fe4ee_76fd_4caa_8f38_7058c432af92", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c302052_s3", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c266", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightPrepared21.sieve_eq", "child": "D1Bound5_SmallPairLightData21Sieve_Definitions", "via": ["solution", "statement"]}
@@ -31509,7 +31509,7 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff4.real_three_w1324", "child": "HlawkaSchatten_GapComparison", "via": ["solution", "statement"]}
 {"parent": "WilliamsonShmoys.planar_drawing_connected_supergraph_repair_20261028", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "FunctionalInequalities.KLS.LogConcave.exists_mem_domain_closedWeightedOperator_toLp_mul_readable", "child": "KLSModular_FunctionalInequalities_KLS_LogConcave_WeightedGradient_Multiplier", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_drawing_add_edge_between_components__p2m_343e7634_bf89_4d0d_a54b_557d3af37c62_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_drawing_add_edge_between_components__p2m_343e7634_bf89_4d0d_a54b_557d3af37c62_a1", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_error_17_13_11", "child": "OAIQ047L000", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightClosurePrepared8.chunk08_checked", "child": "D1Bound5_PairLightClosure_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.PairLightClosurePrepared8.chunk08_checked", "child": "D1Bound5_SmallPairPureClosureData8Destinations_Definitions", "via": ["solution", "statement"]}
@@ -48998,7 +48998,7 @@
 {"parent": "Sensitivity213981Formal.Certificates.Endpoint22ReachChecks036", "child": "Sensitivity213981Formal_Endpoint22ReachChecks036", "via": ["solution", "statement"]}
 {"parent": "Sensitivity213981Formal.Certificates.Endpoint22ReachChecks036", "child": "Sensitivity213981Formal_Namespaces", "via": ["solution", "statement"]}
 {"parent": "Sensitivity213981Formal.Certificates.Endpoint22ReachChecks036", "child": "Sensitivity213981Formal_RelaxedReachableSearch", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_connect_components", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_connect_components", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.positive_nonnegative_w1246", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["statement"]}
 {"parent": "D1Bound5.finiteA5CutoffWeights_36_valid", "child": "D1Bound5_Coordinates_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.finiteA5CutoffWeights_36_valid", "child": "D1Bound5_FiniteA5FixedHeight_Definitions", "via": ["solution", "statement"]}
@@ -74980,7 +74980,7 @@
 {"parent": "MIQPInNP.SmallSol.claim_2", "child": "MIQPInNP_SmallSol_Setting", "via": ["solution", "statement"]}
 {"parent": "OAI.FixedClauseThreshold.limitingCenter_lt_cap_sat", "child": "OAIQ067A002", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c10047_s2", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_drawing_connect_components", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_drawing_connect_components", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.firstPairGeometryRow_31_valid", "child": "D1Bound5_FirstPairGeometryData_Definitions_001", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.firstPairGeometryRow_31_valid", "child": "D1Bound5_Coordinates_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.full_ring_finiteA5_integer_max_distance", "child": "D1Bound5_FiniteA5Matrix_Definitions", "via": ["solution", "statement"]}
@@ -79241,7 +79241,7 @@
 {"parent": "D1Bound5.PairLightAdaptivePrepared43.right_prefix_000_part00_checked", "child": "D1Bound5_PairLightArithmetic_Definitions", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.coherentWeights4_eq_quotient", "child": "D1Bound5_CoherentPolynomialWeights_Definitions", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_repeated_p001_b066", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_drawing_add_bridge", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_drawing_add_bridge", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.source_error_23_9_23", "child": "OAIQ047L000", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c10034_s0", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "CountingMatroid.Analysis.BoundedUniformAbortMass.boundedUniform_value", "child": "CountingMatroid_Interface_Pseudocode_Extension1", "via": ["solution", "statement"]}

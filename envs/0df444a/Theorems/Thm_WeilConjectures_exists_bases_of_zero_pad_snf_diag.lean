@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_exists_bases_of_zero_pad_snf_diag
 -- name    : WeilConjectures.exists_bases_of_zero_pad_snf_diag
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T02:51:47.85325+00:00
 -- url     : https://prove2.me/theorems/1e5e67c3-576c-4a39-b7b9-b070da070b07

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_euler_triangle_count__p2m_2a0eb6c3_e8b8_46c5_bb28_c648f00dcb7f_a1
 -- name    : WilliamsonShmoys.maximal_planar_euler_triangle_count__p2m_2a0eb6c3_e8b8_46c5_bb28_c648f00dcb7f_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T09:46:59.231501+00:00
 -- url     : https://prove2.me/theorems/17eb0fc8-3683-4688-9bd5-07f26a4d1b81

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_levyCanonicalPureJumpBoundedModelV1
 -- name    : Kyprianou.Ch02.levyCanonicalPureJumpBoundedModelV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T23:09:27.216734+00:00
 -- url     : https://prove2.me/theorems/fd738aac-0898-4c06-8e29-9ff610b2e3b2

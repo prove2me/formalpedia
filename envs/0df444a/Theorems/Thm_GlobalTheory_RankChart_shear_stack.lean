@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankChart_shear_stack
 -- name    : GlobalTheory.RankChart.shear_stack
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:43:59.629805+00:00
 -- url     : https://prove2.me/theorems/851ca22d-d666-4b4c-afda-ca1bf1f40607

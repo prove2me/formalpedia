@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrdinalStepUp_ErdosRado_exists_chain_of_four
 -- name    : OrdinalStepUp.ErdosRado.exists_chain_of_four
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:47:30.538729+00:00
 -- url     : https://prove2.me/theorems/949a388c-6156-482c-93db-a666f7fe1200

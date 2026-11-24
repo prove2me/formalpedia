@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Conv_sumsAt_ev_of_eq
 -- name    : GlobalTheory.Conv.sumsAt_ev_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:47:59.320458+00:00
 -- url     : https://prove2.me/theorems/1c85d3c7-d435-419f-b0b6-ed03c4f59985

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_levyPhysicalSmallJumpCampbellBoundV1
 -- name    : Kyprianou.Ch02.levyPhysicalSmallJumpCampbellBoundV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T21:58:11.883445+00:00
 -- url     : https://prove2.me/theorems/b8fdd5c1-03b1-41d3-a744-3b2d37743073

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_twoFactor_some
 -- name    : ULHC.twoFactor_some
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:36:12.700799+00:00
 -- url     : https://prove2.me/theorems/2a2109a9-18e0-4356-b116-77aa3a8bda16

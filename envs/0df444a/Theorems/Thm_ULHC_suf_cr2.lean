@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_suf_cr2
 -- name    : ULHC.suf_cr2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:27:05.451913+00:00
 -- url     : https://prove2.me/theorems/2e8081ae-3d63-4c6c-ac15-8e54c8302af8

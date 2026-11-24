@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_tE_apply
 -- name    : PositivityTheory.Rg.Cz.tE_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:42:01.21607+00:00
 -- url     : https://prove2.me/theorems/967009d2-67af-4c74-918a-bdb5df71c42a

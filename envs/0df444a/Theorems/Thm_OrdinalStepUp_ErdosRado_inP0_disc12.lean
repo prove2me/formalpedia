@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrdinalStepUp_ErdosRado_inP0_disc12
 -- name    : OrdinalStepUp.ErdosRado.inP0_disc12
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:49:11.45568+00:00
 -- url     : https://prove2.me/theorems/fe085323-0cc2-4f9e-9432-08444bbdf15c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_mem_sumLat
 -- name    : GlobalTheory.Doubling.mem_sumLat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:42:53.134231+00:00
 -- url     : https://prove2.me/theorems/76df3eaf-d453-4d6f-84c4-de700c95e9e6

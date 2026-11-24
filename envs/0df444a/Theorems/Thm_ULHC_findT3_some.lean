@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_findT3_some
 -- name    : ULHC.findT3_some
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:37:09.572122+00:00
 -- url     : https://prove2.me/theorems/31f94ca5-e9f1-4024-9f82-491f449c865e

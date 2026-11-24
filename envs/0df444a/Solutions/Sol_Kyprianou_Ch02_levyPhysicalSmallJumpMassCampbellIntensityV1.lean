@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch02.levyPhysicalSmallJumpMassCampbellIntensityV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T22:53:32.201153+00:00
 -- url     : https://prove2.me/submissions/a456c5c7-01dd-4553-8ed8-cee226df2385
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_Ch02_levyCanonicalSmallJumpMassModelV1

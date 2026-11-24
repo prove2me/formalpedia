@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WeilConjectures.exists_diag_bases_of_range_snf
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @pageman
 -- created : 2026-11-24T02:51:54.177366+00:00
 -- url     : https://prove2.me/submissions/1fe3bf84-2a6a-4b1f-8506-c86882a8ff04
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_WeilConjectures_exists_zero_pad_diag_of_range_snf

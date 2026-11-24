@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_pairVec_mem_sumLat
 -- name    : GlobalTheory.Doubling.pairVec_mem_sumLat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:35:16.340349+00:00
 -- url     : https://prove2.me/theorems/1d6b2373-de9b-4a10-bf41-60a17a473fe5

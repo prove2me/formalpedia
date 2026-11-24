@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereLawBasic_firstRow_apply_5143842c4916
 -- name    : P2M_GroundTheory_Heights__Heights_SphereLawBasic_firstRow_apply_5143842c4916
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:42:59.745283+00:00
 -- url     : https://prove2.me/theorems/574e6ef9-073a-4ba3-ae31-2c5505e5109f

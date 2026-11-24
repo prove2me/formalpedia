@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_TF_card_le_of_good
 -- name    : ULHC.TF.card_le_of_good
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:48:40.128549+00:00
 -- url     : https://prove2.me/theorems/2d01be5d-c80e-432f-88ba-91a1e0bb565e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_localMult_ne_zero_of_mem_minimalPrimes_0d5be1cc02d3
 -- name    : P2M_GroundTheory_Heights__Heights_localMult_ne_zero_of_mem_minimalPrimes_0d5be1cc02d3
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:47:33.748789+00:00
 -- url     : https://prove2.me/theorems/02377d08-cc8b-49a2-8296-4aed82709e2f

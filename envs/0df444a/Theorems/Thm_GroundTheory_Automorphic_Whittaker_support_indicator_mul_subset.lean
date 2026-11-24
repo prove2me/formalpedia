@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_support_indicator_mul_subset
 -- name    : GroundTheory.Automorphic.Whittaker.support_indicator_mul_subset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:46:02.172111+00:00
 -- url     : https://prove2.me/theorems/41fb9544-8682-43a9-80c7-82122528ce8d

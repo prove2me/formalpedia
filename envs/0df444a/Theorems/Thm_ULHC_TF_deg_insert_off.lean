@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_TF_deg_insert_off
 -- name    : ULHC.TF.deg_insert_off
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:47:41.833123+00:00
 -- url     : https://prove2.me/theorems/384363ea-1638-4b3e-ab08-ca92528f4b6d

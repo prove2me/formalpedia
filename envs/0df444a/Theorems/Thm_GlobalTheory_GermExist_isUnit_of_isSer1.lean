@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GermExist_isUnit_of_isSer1
 -- name    : GlobalTheory.GermExist.isUnit_of_isSer1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:43:51.55397+00:00
 -- url     : https://prove2.me/theorems/da42bd98-b97e-477f-861f-22a45e8259ea

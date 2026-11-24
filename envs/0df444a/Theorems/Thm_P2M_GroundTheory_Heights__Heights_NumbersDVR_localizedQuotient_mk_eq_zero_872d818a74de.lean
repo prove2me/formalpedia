@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_localizedQuotient_mk_eq_zero_872d818a74de
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_localizedQuotient_mk_eq_zero_872d818a74de
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:46:06.792933+00:00
 -- url     : https://prove2.me/theorems/4a653701-8c7b-48f0-b5e4-3b0ed6b1f697

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_map_residue_mem_weightedHomogeneousSubmodule_88a694c8725e
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_map_residue_mem_weightedHomogeneousSubmodule_88a694c8725e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:46:06.320036+00:00
 -- url     : https://prove2.me/theorems/0f25b7ee-45b2-43e5-a88e-15c87554fd8e

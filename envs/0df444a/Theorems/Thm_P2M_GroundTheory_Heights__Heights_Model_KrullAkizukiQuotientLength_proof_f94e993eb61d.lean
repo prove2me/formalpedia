@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_KrullAkizukiQuotientLength_proof_f94e993eb61d
 -- name    : P2M_GroundTheory_Heights__Heights_Model_KrullAkizukiQuotientLength_proof_f94e993eb61d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:45:46.29303+00:00
 -- url     : https://prove2.me/theorems/c43a4456-f867-4aba-998c-b4f8d28acf3c

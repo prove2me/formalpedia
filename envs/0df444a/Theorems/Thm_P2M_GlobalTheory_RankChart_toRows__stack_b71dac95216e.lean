@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_RankChart_toRows__stack_b71dac95216e
 -- name    : P2M_GlobalTheory_RankChart_toRows__stack_b71dac95216e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:34:04.430649+00:00
 -- url     : https://prove2.me/theorems/37905608-e8a9-4b5c-ab6d-4b44da90f61e

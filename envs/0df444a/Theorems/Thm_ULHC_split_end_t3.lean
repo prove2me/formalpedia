@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_split_end_t3
 -- name    : ULHC.split_end_t3
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:53:52.574483+00:00
 -- url     : https://prove2.me/theorems/684b99e2-e7ff-4465-9aba-9780bc958c01

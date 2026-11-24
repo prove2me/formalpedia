@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PtsPosPartLocal_crd_eq_09384b5146ca
 -- name    : P2M_GroundTheory_Heights__Heights_PtsPosPartLocal_crd_eq_09384b5146ca
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:44:30.868745+00:00
 -- url     : https://prove2.me/theorems/355262c9-4a01-437c-98c5-3d2871c23578

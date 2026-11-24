@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_levyPoissonPathSmallJumpMassMeanBoundV1
 -- name    : Kyprianou.Ch02.levyPoissonPathSmallJumpMassMeanBoundV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T23:04:29.495108+00:00
 -- url     : https://prove2.me/theorems/301be199-0de7-412b-a25e-e77b45288bcb

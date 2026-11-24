@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WADVR_Sm_mono
 -- name    : PI.WADVR.Sm.mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:09:17.865109+00:00
 -- url     : https://prove2.me/theorems/9437b582-310c-41d3-be28-d464c37f3d12

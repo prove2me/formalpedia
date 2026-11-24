@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_levyCanonicalFiniteVariationResidualExplicitModelV1
 -- name    : Kyprianou.Ch02.levyCanonicalFiniteVariationResidualExplicitModelV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T23:46:28.986227+00:00
 -- url     : https://prove2.me/theorems/b7ea6938-6adc-4b21-961d-f286660a2996

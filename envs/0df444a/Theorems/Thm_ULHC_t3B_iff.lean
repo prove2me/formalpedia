@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_t3B_iff
 -- name    : ULHC.t3B_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:37:27.871598+00:00
 -- url     : https://prove2.me/theorems/3400cd27-18b9-4436-87bd-671b7c1c3e89

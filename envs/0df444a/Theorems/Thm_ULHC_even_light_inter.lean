@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_even_light_inter
 -- name    : ULHC.even_light_inter
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:50:32.835447+00:00
 -- url     : https://prove2.me/theorems/c3ec8dd9-2928-4f5d-a889-1755a38eab90

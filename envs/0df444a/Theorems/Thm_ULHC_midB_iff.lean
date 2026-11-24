@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_midB_iff
 -- name    : ULHC.midB_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:51:59.863808+00:00
 -- url     : https://prove2.me/theorems/c1edab3b-bc61-447a-a346-c3cfea41a63d

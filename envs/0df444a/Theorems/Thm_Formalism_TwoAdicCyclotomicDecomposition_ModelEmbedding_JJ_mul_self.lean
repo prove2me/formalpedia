@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_ModelEmbedding_JJ_mul_self
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.ModelEmbedding.JJ_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:45:53.291794+00:00
 -- url     : https://prove2.me/theorems/b4faa09f-2d2b-4dbc-a640-4e6e1bd09f58

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_TF_sum_deg
 -- name    : ULHC.TF.sum_deg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:39:53.180903+00:00
 -- url     : https://prove2.me/theorems/affeff6e-1596-4e87-9e04-a261c4b24842

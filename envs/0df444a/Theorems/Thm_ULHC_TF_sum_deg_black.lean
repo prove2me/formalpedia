@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_TF_sum_deg_black
 -- name    : ULHC.TF.sum_deg_black
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:46:40.506344+00:00
 -- url     : https://prove2.me/theorems/1ffb942c-4c9d-4bb0-b379-5de4cd9e34e2

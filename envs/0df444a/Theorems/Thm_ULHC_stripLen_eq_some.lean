@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_stripLen_eq_some
 -- name    : ULHC.stripLen_eq_some
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:51:21.706816+00:00
 -- url     : https://prove2.me/theorems/f7254a81-934b-4e55-84ca-006a8ecc67d2

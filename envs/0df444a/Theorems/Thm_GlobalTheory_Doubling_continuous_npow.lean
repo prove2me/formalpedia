@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_continuous_npow
 -- name    : GlobalTheory.Doubling.continuous_npow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:33:46.813753+00:00
 -- url     : https://prove2.me/theorems/ba89cc16-ed6b-4f22-9785-287a064e8b12

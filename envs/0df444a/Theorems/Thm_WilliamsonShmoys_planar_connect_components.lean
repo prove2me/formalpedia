@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_connect_components
 -- name    : WilliamsonShmoys.planar_connect_components
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-10-27T22:57:21.936984+00:00
 -- url     : https://prove2.me/theorems/3b4349cc-c4e3-44db-91fc-0afaa8bc9525

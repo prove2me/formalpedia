@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_oneBlockForms_symm_apply_3b06e6409374
 -- name    : P2M_GroundTheory_Heights__Heights_oneBlockForms_symm_apply_3b06e6409374
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:48:38.288617+00:00
 -- url     : https://prove2.me/theorems/ae77adbb-cd8e-4a15-983f-b9d03162cc4a

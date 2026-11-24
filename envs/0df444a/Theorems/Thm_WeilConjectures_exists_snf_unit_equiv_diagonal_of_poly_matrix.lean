@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_exists_snf_unit_equiv_diagonal_of_poly_matrix
 -- name    : WeilConjectures.exists_snf_unit_equiv_diagonal_of_poly_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T02:13:06.177714+00:00
 -- url     : https://prove2.me/theorems/69103732-2eaf-4a07-9c47-ee8aa5782acb

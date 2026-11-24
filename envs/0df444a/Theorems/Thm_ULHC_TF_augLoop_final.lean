@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_TF_augLoop_final
 -- name    : ULHC.TF.augLoop_final
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:46:56.866865+00:00
 -- url     : https://prove2.me/theorems/e2125577-60f8-4e94-a218-b3f3c097a074

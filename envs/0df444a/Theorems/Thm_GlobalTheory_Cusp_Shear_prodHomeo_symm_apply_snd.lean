@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cusp_Shear_prodHomeo_symm_apply_snd
 -- name    : GlobalTheory.Cusp.Shear.prodHomeo_symm_apply_snd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:46:15.216802+00:00
 -- url     : https://prove2.me/theorems/3878a120-80c1-4488-86d4-ed441841a1c4

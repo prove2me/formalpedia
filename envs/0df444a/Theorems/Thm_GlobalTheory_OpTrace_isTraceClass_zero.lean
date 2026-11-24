@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OpTrace_isTraceClass_zero
 -- name    : GlobalTheory.OpTrace.isTraceClass_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:45:41.514979+00:00
 -- url     : https://prove2.me/theorems/d2a25787-d110-4d8c-a04f-bf47b23530a3

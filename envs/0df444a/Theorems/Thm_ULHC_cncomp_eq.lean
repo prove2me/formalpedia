@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_cncomp_eq
 -- name    : ULHC.cncomp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:47:40.356858+00:00
 -- url     : https://prove2.me/theorems/23db2240-55bf-4c7f-9593-a5dacff6ffc5

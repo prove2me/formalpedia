@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_sum_withLat_smul
 -- name    : GlobalTheory.LatPair.sum_withLat_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:36:52.499965+00:00
 -- url     : https://prove2.me/theorems/c2f20e56-bbae-4cc3-8632-28dfc1b6541e

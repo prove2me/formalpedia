@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_HodgeDerivative_expCover_logLift_06dd0ae602f8
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_HodgeDerivative_expCover_logLift_06dd0ae602f8
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:44:21.793345+00:00
 -- url     : https://prove2.me/theorems/7ab142b5-f074-4364-a946-61e302b1571a

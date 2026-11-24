@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_series_reduce
 -- name    : ULHC.series_reduce
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:54:38.960358+00:00
 -- url     : https://prove2.me/theorems/c2f19047-2832-4190-8b8d-14b8c902c844

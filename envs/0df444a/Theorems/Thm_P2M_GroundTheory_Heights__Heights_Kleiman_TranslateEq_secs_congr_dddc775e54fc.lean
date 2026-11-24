@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_secs_congr_dddc775e54fc
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_secs_congr_dddc775e54fc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:47:16.5018+00:00
 -- url     : https://prove2.me/theorems/503a0e46-7540-4642-a9d2-517b6da338f7

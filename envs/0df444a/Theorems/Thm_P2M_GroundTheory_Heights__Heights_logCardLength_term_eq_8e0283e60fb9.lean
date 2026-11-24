@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_logCardLength_term_eq_8e0283e60fb9
 -- name    : P2M_GroundTheory_Heights__Heights_logCardLength_term_eq_8e0283e60fb9
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:47:17.890838+00:00
 -- url     : https://prove2.me/theorems/43d04347-a919-4f3d-9c6f-eb796b750ed5

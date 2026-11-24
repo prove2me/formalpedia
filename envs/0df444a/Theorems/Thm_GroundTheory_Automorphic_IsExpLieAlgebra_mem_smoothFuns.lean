@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_mem_smoothFuns
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.mem_smoothFuns
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:46:14.929059+00:00
 -- url     : https://prove2.me/theorems/2ec59dac-2b04-49b9-b0c7-98e6e0bc8bb7

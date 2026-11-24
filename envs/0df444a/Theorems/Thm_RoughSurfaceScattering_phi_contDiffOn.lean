@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoughSurfaceScattering_phi_contDiffOn
 -- name    : RoughSurfaceScattering.phi_contDiffOn
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-24T04:01:16.158839+00:00
 -- url     : https://prove2.me/theorems/6b2f26b7-c35f-484c-bff1-034657be5ac0

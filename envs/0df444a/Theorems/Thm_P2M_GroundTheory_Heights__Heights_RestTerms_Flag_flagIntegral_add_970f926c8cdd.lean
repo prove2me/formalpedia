@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Flag_flagIntegral_add_970f926c8cdd
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Flag_flagIntegral_add_970f926c8cdd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:44:52.697165+00:00
 -- url     : https://prove2.me/theorems/16eacb2d-7035-40f7-bf8b-013d3a0e06cb

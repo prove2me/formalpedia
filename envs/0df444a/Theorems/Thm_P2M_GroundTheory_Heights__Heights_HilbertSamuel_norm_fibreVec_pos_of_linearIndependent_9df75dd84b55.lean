@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_norm_fibreVec_pos_of_linearIndependent_9df75dd84b55
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_norm_fibreVec_pos_of_linearIndependent_9df75dd84b55
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:42:24.175468+00:00
 -- url     : https://prove2.me/theorems/6010bdf1-eb10-472f-8f7a-9182b3c5a5a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockRaiseLowInner_fockInner_swap
 -- name    : FockRaiseLowInner.fockInner_swap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:29:26.644804+00:00
 -- url     : https://prove2.me/theorems/f0c0af40-a426-4820-8f2b-5abeaaf9852b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_linForm_uLine_fb22ac47c882
 -- name    : P2M_GroundTheory_Heights__Heights_linForm_uLine_fb22ac47c882
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:47:27.663641+00:00
 -- url     : https://prove2.me/theorems/9a10899a-9ff4-487c-94b2-f8a6a567f27e

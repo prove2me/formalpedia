@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_MP_minPath_some
 -- name    : ULHC.MP.minPath_some
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:54:19.251993+00:00
 -- url     : https://prove2.me/theorems/1707df67-4210-4413-a4a7-bbd6fa9419d6

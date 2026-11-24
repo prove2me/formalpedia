@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_reroute_fwd
 -- name    : ULHC.reroute_fwd
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:49:48.503426+00:00
 -- url     : https://prove2.me/theorems/b0508e32-6b50-4ecc-bc0c-92a3cc01227c

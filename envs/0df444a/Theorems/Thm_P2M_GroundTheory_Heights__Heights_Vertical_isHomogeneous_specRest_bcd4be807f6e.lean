@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_isHomogeneous_specRest_bcd4be807f6e
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_isHomogeneous_specRest_bcd4be807f6e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:46:35.127033+00:00
 -- url     : https://prove2.me/theorems/eff4455f-64f9-47b8-8d0b-2e28f49b66dc

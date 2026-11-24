@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_corr_pullGen_of_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.corr_pullGen_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:42:37.951282+00:00
 -- url     : https://prove2.me/theorems/126a0a1a-653b-4615-a9c4-98c78a5238d0

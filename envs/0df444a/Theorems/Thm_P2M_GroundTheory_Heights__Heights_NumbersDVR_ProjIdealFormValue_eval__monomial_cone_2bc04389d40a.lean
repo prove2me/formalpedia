@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_ProjIdealFormValue_eval__monomial_cone_2bc04389d40a
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_ProjIdealFormValue_eval__monomial_cone_2bc04389d40a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:37:14.349805+00:00
 -- url     : https://prove2.me/theorems/fd67470b-735c-44d0-b6ff-88be69908454

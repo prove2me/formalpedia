@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_lelongSides_add_4039a094c087
 -- name    : P2M_GroundTheory_Heights__Heights_lelongSides_add_4039a094c087
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:47:40.016804+00:00
 -- url     : https://prove2.me/theorems/c2046913-ce89-43fd-8b0b-71c7c670f0fa

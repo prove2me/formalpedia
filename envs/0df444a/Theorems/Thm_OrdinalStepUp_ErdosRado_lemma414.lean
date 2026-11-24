@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrdinalStepUp_ErdosRado_lemma414
 -- name    : OrdinalStepUp.ErdosRado.lemma414
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:48:57.192917+00:00
 -- url     : https://prove2.me/theorems/b33f4329-537d-4db8-85ae-935f5fe842b6

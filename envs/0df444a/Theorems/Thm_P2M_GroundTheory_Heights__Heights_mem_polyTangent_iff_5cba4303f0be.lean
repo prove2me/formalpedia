@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_mem_polyTangent_iff_5cba4303f0be
 -- name    : P2M_GroundTheory_Heights__Heights_mem_polyTangent_iff_5cba4303f0be
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:47:21.485471+00:00
 -- url     : https://prove2.me/theorems/f102e0a1-99e7-4102-aa4e-dc8cde02362e

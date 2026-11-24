@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_exists_snf_coeffs_of_poly_matrix
 -- name    : WeilConjectures.exists_snf_coeffs_of_poly_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T02:18:49.191974+00:00
 -- url     : https://prove2.me/theorems/7d346459-3398-4cc2-9971-8207b4ade5e7

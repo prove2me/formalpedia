@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_norm_le_of_hermNorm_lt_7188355ead98
 -- name    : P2M_GroundTheory_Heights__Heights_norm_le_of_hermNorm_lt_7188355ead98
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:47:19.477271+00:00
 -- url     : https://prove2.me/theorems/9481e93a-0f14-485b-bfc6-0069c7ad2784

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GermB_pe_trunc
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GermB.pe_trunc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:07:29.403523+00:00
 -- url     : https://prove2.me/theorems/b3c20f12-d12e-462f-a35c-80edf3af5ebc

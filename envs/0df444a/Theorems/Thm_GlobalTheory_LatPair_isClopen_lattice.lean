@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_isClopen_lattice
 -- name    : GlobalTheory.LatPair.isClopen_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:45:12.776915+00:00
 -- url     : https://prove2.me/theorems/701e5bb1-e8e4-474c-9705-90828475c541

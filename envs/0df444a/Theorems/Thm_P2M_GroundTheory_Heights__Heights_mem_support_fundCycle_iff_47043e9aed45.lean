@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_mem_support_fundCycle_iff_47043e9aed45
 -- name    : P2M_GroundTheory_Heights__Heights_mem_support_fundCycle_iff_47043e9aed45
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:48:11.472983+00:00
 -- url     : https://prove2.me/theorems/1f6b2ba1-476c-4491-960b-2687b5a3a361

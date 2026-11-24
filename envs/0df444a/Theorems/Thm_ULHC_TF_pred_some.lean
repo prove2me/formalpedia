@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_TF_pred_some
 -- name    : ULHC.TF.pred_some
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:47:55.946118+00:00
 -- url     : https://prove2.me/theorems/81a42e79-bfe4-45db-89f9-2032bd2aab56

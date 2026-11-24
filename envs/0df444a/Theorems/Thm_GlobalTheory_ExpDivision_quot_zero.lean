@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpDivision_quot_zero
 -- name    : GlobalTheory.ExpDivision.quot_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:43:25.302287+00:00
 -- url     : https://prove2.me/theorems/4a894567-47e6-490b-9358-3356a68a6000

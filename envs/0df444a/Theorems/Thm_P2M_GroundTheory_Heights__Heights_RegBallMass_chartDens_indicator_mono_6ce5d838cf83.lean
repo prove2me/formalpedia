@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegBallMass_chartDens_indicator_mono_6ce5d838cf83
 -- name    : P2M_GroundTheory_Heights__Heights_RegBallMass_chartDens_indicator_mono_6ce5d838cf83
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:45:17.569906+00:00
 -- url     : https://prove2.me/theorems/0c3d10bd-7320-4983-834d-89d2a022729f

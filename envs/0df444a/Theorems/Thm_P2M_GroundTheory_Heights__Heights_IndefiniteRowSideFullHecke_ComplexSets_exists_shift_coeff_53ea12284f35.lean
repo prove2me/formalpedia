@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_exists_shift_coeff_53ea12284f35
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_exists_shift_coeff_53ea12284f35
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:47:32.755799+00:00
 -- url     : https://prove2.me/theorems/af2a0fc8-e02b-44d8-9659-833979b29355

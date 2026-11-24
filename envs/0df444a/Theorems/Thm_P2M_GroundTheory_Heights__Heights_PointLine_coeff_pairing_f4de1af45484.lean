@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointLine_coeff_pairing_f4de1af45484
 -- name    : P2M_GroundTheory_Heights__Heights_PointLine_coeff_pairing_f4de1af45484
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:42:45.91378+00:00
 -- url     : https://prove2.me/theorems/76eef61e-b2b7-4204-b2b2-431a531f3182

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_linearFormLine_not_mem_span_X0_ace3f4adf1cb
 -- name    : P2M_GroundTheory_Heights__Heights_linearFormLine_not_mem_span_X0_ace3f4adf1cb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:46:55.872357+00:00
 -- url     : https://prove2.me/theorems/fe7a4189-cbd5-4cc1-8942-6eb52cfa19b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_pm_one
 -- name    : PositivityTheory.Rg.Cz.pm_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:42:02.855713+00:00
 -- url     : https://prove2.me/theorems/9dd9ac46-cc91-459f-9636-81c34f934d2d

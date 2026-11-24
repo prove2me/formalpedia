@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoughSurfaceScattering_helmholtz_h1_blowup
 -- name    : RoughSurfaceScattering.helmholtz_h1_blowup
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-24T04:01:13.154659+00:00
 -- url     : https://prove2.me/theorems/923b6f9f-2a04-4243-b936-93313adc8d0a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_allConn_side
 -- name    : ULHC.allConn_side
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:50:24.712246+00:00
 -- url     : https://prove2.me/theorems/08b7fddc-b119-4da8-85e4-f5e39688b4ec

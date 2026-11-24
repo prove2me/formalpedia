@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_ellAdd
 -- name    : Formalism.QuantumDeterminants.ellAdd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:45:58.317303+00:00
 -- url     : https://prove2.me/theorems/1ed04029-e040-4bae-bf4c-70d65e288c71

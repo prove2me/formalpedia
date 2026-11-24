@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_stk_lat2_dn
 -- name    : ULHC.stk_lat2_dn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:55:01.770267+00:00
 -- url     : https://prove2.me/theorems/3574ffc3-3284-4cbe-aa8a-371064bf6f97

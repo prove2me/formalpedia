@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_LatPair_tr__apply_bf1204b7b27f
 -- name    : P2M_GlobalTheory_LatPair_tr__apply_bf1204b7b27f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:45:26.1888+00:00
 -- url     : https://prove2.me/theorems/241509c1-bc37-473a-9639-e2647ca62281

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_TF_layer_closed
 -- name    : ULHC.TF.layer_closed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:47:00.498938+00:00
 -- url     : https://prove2.me/theorems/207f338f-3936-4174-8502-1cee6de36a75

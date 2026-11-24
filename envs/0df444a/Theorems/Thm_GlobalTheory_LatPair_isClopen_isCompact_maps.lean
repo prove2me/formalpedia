@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_isClopen_isCompact_maps
 -- name    : GlobalTheory.LatPair.isClopen_isCompact_maps
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:46:41.333049+00:00
 -- url     : https://prove2.me/theorems/90027ae0-39b3-4197-814e-6c1c0e791d8d

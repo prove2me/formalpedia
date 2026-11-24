@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_TF_pred_ne_none
 -- name    : ULHC.TF.pred_ne_none
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:48:07.02158+00:00
 -- url     : https://prove2.me/theorems/e94c39f0-dbfe-4de7-90e1-3956bbb3cb07

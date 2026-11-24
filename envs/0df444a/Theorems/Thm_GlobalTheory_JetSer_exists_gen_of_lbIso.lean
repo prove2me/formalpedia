@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_exists_gen_of_lbIso
 -- name    : GlobalTheory.JetSer.exists_gen_of_lbIso
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:45:16.694794+00:00
 -- url     : https://prove2.me/theorems/9633b1ed-5c1f-493d-8c12-4f4632e85beb

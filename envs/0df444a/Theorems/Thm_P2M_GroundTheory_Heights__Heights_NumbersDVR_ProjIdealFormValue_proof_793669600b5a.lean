@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_ProjIdealFormValue_proof_793669600b5a
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_ProjIdealFormValue_proof_793669600b5a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:57:50.352647+00:00
 -- url     : https://prove2.me/theorems/1c2a64d9-f638-4e0e-b3a6-fbd081004797

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_levyActualIntegerSmallJumpMassFiniteV1
 -- name    : Kyprianou.Ch02.levyActualIntegerSmallJumpMassFiniteV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T21:46:32.166407+00:00
 -- url     : https://prove2.me/theorems/23bb928b-fca5-41c7-a52e-d22c4330fe1b

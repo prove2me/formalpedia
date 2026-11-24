@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_image_mul_span_pair_bc3f8dbd8800
 -- name    : P2M_GroundTheory_Heights__Theta_image_mul_span_pair_bc3f8dbd8800
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:47:31.719799+00:00
 -- url     : https://prove2.me/theorems/eedcde0c-32e1-4107-86b2-8fb682ab5d47

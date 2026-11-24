@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_TF_layer_sub
 -- name    : ULHC.TF.layer_sub
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:35:59.677124+00:00
 -- url     : https://prove2.me/theorems/314a1bbf-4d26-41dc-9799-1ae25efadfad

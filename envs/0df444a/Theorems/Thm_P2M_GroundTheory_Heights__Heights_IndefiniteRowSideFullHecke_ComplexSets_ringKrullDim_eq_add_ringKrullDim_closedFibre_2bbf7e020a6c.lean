@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ringKrullDim_eq_add_ringKrullDim_closedFibre_2bbf7e020a6c
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ringKrullDim_eq_add_ringKrullDim_closedFibre_2bbf7e020a6c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:25:37.092052+00:00
 -- url     : https://prove2.me/theorems/303df4cb-a4a4-43af-948b-965635ac92c8

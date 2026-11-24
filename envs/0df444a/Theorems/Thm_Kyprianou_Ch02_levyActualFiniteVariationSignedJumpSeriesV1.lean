@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_levyActualFiniteVariationSignedJumpSeriesV1
 -- name    : Kyprianou.Ch02.levyActualFiniteVariationSignedJumpSeriesV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T20:44:33.475781+00:00
 -- url     : https://prove2.me/theorems/9b8a7775-5a63-465c-9c07-dc29a1397d77

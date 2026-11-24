@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsHeight_cond_smul_f954aab74cd5
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsHeight_cond_smul_f954aab74cd5
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:42:11.40109+00:00
 -- url     : https://prove2.me/theorems/97aca77e-b346-49d8-b2bd-44b9a6e9e165

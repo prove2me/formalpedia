@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_scal_pull
 -- name    : Formalism.L2.Pj.scal_pull
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:38:12.024909+00:00
 -- url     : https://prove2.me/theorems/2e0ba9e6-3f26-4382-8741-b0df8b911330

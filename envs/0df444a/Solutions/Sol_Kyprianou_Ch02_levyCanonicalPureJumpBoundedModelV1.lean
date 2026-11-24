@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch02.levyCanonicalPureJumpBoundedModelV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T23:14:20.388279+00:00
 -- url     : https://prove2.me/submissions/224c784e-2db5-41ea-9705-7adb05d639b1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Kyprianou_Ch02_levyCanonicalPureJumpExplicitModelV1
 import Mathlib.MeasureTheory.Integral.DominatedConvergence

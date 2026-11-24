@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_HodgeDerivative_logLift_mem_9850b514c279
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_HodgeDerivative_logLift_mem_9850b514c279
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:44:30.222139+00:00
 -- url     : https://prove2.me/theorems/714ebce1-3ef8-4628-949f-63a3cf5a9920

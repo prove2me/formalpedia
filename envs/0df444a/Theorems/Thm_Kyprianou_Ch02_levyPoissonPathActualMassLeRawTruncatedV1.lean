@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_levyPoissonPathActualMassLeRawTruncatedV1
 -- name    : Kyprianou.Ch02.levyPoissonPathActualMassLeRawTruncatedV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T23:04:24.828257+00:00
 -- url     : https://prove2.me/theorems/47c03ac2-52aa-42b3-8036-bf8d1d608d64

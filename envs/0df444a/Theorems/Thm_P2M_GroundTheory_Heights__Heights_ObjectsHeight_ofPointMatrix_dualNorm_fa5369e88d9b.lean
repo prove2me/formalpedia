@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsHeight_ofPointMatrix_dualNorm_fa5369e88d9b
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsHeight_ofPointMatrix_dualNorm_fa5369e88d9b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:42:23.037162+00:00
 -- url     : https://prove2.me/theorems/1fc9127e-5f62-443f-b22e-a26cea66b01e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_TF_sum_deg_white
 -- name    : ULHC.TF.sum_deg_white
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:46:37.498924+00:00
 -- url     : https://prove2.me/theorems/b5f6b07b-c016-43e6-ad4d-842323c6f65c

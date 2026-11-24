@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch02.levyFiniteVariationMonotoneJordanRepresentationV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T20:45:53.319139+00:00
 -- url     : https://prove2.me/submissions/a7f2d78c-e0bb-475a-b132-b9343d031e6f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

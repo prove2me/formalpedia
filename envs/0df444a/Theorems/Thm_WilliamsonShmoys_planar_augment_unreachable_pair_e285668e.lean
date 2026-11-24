@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_augment_unreachable_pair_e285668e
 -- name    : WilliamsonShmoys.planar_augment_unreachable_pair_e285668e
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T02:10:18.837186+00:00
 -- url     : https://prove2.me/theorems/d38312ce-717d-4a81-945b-d2e3deda09b0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SegreCoordGoodProj_exists_monic_coeff_zero_ne_c6819acb24cb
 -- name    : P2M_GroundTheory_Heights__Heights_SegreCoordGoodProj_exists_monic_coeff_zero_ne_c6819acb24cb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:45:08.098647+00:00
 -- url     : https://prove2.me/theorems/5e19ebc8-de63-486c-86e8-1e995f086c67

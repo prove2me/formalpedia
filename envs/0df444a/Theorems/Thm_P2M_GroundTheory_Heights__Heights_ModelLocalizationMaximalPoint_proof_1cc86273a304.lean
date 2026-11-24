@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ModelLocalizationMaximalPoint_proof_1cc86273a304
 -- name    : P2M_GroundTheory_Heights__Heights_ModelLocalizationMaximalPoint_proof_1cc86273a304
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:47:31.437071+00:00
 -- url     : https://prove2.me/theorems/ed692c19-7f91-4447-9de0-f14c11da5309

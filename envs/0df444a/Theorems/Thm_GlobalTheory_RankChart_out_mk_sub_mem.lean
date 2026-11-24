@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankChart_out_mk_sub_mem
 -- name    : GlobalTheory.RankChart.out_mk_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:43:33.259424+00:00
 -- url     : https://prove2.me/theorems/0d6bcb0a-ebb2-4d7c-949d-0babaf241581

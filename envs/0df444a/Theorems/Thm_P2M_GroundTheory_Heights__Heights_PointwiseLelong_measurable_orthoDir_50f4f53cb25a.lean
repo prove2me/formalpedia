@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointwiseLelong_measurable_orthoDir_50f4f53cb25a
 -- name    : P2M_GroundTheory_Heights__Heights_PointwiseLelong_measurable_orthoDir_50f4f53cb25a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:43:33.0858+00:00
 -- url     : https://prove2.me/theorems/e8376c00-a52f-44c5-aaf9-8b8fad7cb4dc

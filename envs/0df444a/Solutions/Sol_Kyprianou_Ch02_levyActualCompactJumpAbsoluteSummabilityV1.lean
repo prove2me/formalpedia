@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch02.levyActualCompactJumpAbsoluteSummabilityV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T21:11:40.075444+00:00
 -- url     : https://prove2.me/submissions/a1db202e-bdaa-4ad5-b7c3-5c2fa97cc415
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

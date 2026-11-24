@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_top_le_preimage_of_nil
 -- name    : GlobalTheory.JetSer.top_le_preimage_of_nil
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:45:33.426893+00:00
 -- url     : https://prove2.me/theorems/11134b61-469d-4b8d-81ce-9db924e7c058

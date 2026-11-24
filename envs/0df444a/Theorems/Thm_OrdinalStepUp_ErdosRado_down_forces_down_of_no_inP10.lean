@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrdinalStepUp_ErdosRado_down_forces_down_of_no_inP10
 -- name    : OrdinalStepUp.ErdosRado.down_forces_down_of_no_inP10
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:49:28.521132+00:00
 -- url     : https://prove2.me/theorems/075befec-a1f5-405b-a5d1-6dfbda9c231a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjChowNonzero_aeval_smul_of_isHomogeneous_95fca94e9459
 -- name    : P2M_GroundTheory_Heights__Heights_ProjChowNonzero_aeval_smul_of_isHomogeneous_95fca94e9459
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:43:21.84871+00:00
 -- url     : https://prove2.me/theorems/6ef732ec-ac08-4b47-9595-96d5178e5a6a

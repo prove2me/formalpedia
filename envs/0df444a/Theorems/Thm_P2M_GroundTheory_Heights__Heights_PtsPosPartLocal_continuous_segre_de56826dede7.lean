@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PtsPosPartLocal_continuous_segre_de56826dede7
 -- name    : P2M_GroundTheory_Heights__Heights_PtsPosPartLocal_continuous_segre_de56826dede7
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:44:19.162937+00:00
 -- url     : https://prove2.me/theorems/91d41e2e-5bf3-4263-8da5-d34bd9e81ec4

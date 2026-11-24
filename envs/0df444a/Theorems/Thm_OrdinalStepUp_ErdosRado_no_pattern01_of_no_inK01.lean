@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrdinalStepUp_ErdosRado_no_pattern01_of_no_inK01
 -- name    : OrdinalStepUp.ErdosRado.no_pattern01_of_no_inK01
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:49:23.037307+00:00
 -- url     : https://prove2.me/theorems/6c7cce4f-c7b0-4bc1-9848-1d193160bf80

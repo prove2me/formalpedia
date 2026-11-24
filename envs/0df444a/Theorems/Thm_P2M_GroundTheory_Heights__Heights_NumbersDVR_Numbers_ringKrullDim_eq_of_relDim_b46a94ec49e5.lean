@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_Numbers_ringKrullDim_eq_of_relDim_b46a94ec49e5
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_Numbers_ringKrullDim_eq_of_relDim_b46a94ec49e5
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:37:12.679802+00:00
 -- url     : https://prove2.me/theorems/5793cd51-5af3-4e6d-b0ca-056e06004c56

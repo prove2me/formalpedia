@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_connB_iff
 -- name    : ULHC.connB_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:55:45.199088+00:00
 -- url     : https://prove2.me/theorems/df6ddf3e-580b-4b74-8277-67591b83ce03

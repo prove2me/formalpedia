@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Flag_card_blockPerm_c7329941447d
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Flag_card_blockPerm_c7329941447d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:44:42.834505+00:00
 -- url     : https://prove2.me/theorems/4c40d79d-ece6-4680-b762-ddbd5d123e6a

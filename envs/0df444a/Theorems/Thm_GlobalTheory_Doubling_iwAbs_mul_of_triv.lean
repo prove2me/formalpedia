@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_iwAbs_mul_of_triv
 -- name    : GlobalTheory.Doubling.iwAbs_mul_of_triv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:46:06.930664+00:00
 -- url     : https://prove2.me/theorems/c7480968-d022-44c9-8cde-131c2154f1e1

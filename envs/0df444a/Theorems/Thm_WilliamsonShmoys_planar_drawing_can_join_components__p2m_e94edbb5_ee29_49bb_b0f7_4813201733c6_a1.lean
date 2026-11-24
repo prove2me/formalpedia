@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_can_join_components__p2m_e94edbb5_ee29_49bb_b0f7_4813201733c6_a1
 -- name    : WilliamsonShmoys.planar_drawing_can_join_components__p2m_e94edbb5_ee29_49bb_b0f7_4813201733c6_a1
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-10-30T09:49:35.257301+00:00
 -- url     : https://prove2.me/theorems/b040671a-9a8e-4ac4-8063-016043362478

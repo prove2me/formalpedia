@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_isPairExpansion_psum_537ba6a9a7c8
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_isPairExpansion_psum_537ba6a9a7c8
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:45:59.61366+00:00
 -- url     : https://prove2.me/theorems/daf6e463-d1c9-4ab3-a430-7d963e1197be

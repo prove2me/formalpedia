@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_levyPoissonPathFiniteVariationResidualV1
 -- name    : Kyprianou.Ch02.levyPoissonPathFiniteVariationResidualV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T23:32:58.02348+00:00
 -- url     : https://prove2.me/theorems/aea59e34-d07d-4430-a506-70c82f6783e5

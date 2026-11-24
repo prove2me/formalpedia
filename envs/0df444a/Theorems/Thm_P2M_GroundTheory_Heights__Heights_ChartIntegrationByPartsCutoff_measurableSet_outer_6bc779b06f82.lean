@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartIntegrationByPartsCutoff_measurableSet_outer_6bc779b06f82
 -- name    : P2M_GroundTheory_Heights__Heights_ChartIntegrationByPartsCutoff_measurableSet_outer_6bc779b06f82
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:46:22.935851+00:00
 -- url     : https://prove2.me/theorems/338c5989-f050-4c8d-a923-324f8deced50

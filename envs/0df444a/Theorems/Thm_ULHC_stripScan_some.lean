@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_stripScan_some
 -- name    : ULHC.stripScan_some
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:51:15.54065+00:00
 -- url     : https://prove2.me/theorems/d62273d8-9c32-4ce8-94db-730ebd4814f2

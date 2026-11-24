@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_TF_stuck_full
 -- name    : ULHC.TF.stuck_full
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:48:36.198699+00:00
 -- url     : https://prove2.me/theorems/c8b26fe9-2e87-4c0a-95ff-a86736dc1bcf

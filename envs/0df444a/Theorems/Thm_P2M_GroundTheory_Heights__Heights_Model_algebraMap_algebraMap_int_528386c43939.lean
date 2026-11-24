@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_algebraMap_algebraMap_int_528386c43939
 -- name    : P2M_GroundTheory_Heights__Heights_Model_algebraMap_algebraMap_int_528386c43939
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:36:48.188453+00:00
 -- url     : https://prove2.me/theorems/29084bc4-58d0-4788-9783-d8117825da28

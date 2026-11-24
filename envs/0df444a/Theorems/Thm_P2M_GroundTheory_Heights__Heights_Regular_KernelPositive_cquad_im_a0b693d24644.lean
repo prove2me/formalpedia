@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_KernelPositive_cquad_im_a0b693d24644
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_KernelPositive_cquad_im_a0b693d24644
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:44:19.730521+00:00
 -- url     : https://prove2.me/theorems/8150aa6b-846a-425e-b423-c7de46c99a83

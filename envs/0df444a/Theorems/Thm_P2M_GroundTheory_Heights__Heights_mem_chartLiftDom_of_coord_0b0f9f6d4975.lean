@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_mem_chartLiftDom_of_coord_0b0f9f6d4975
 -- name    : P2M_GroundTheory_Heights__Heights_mem_chartLiftDom_of_coord_0b0f9f6d4975
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:48:14.115166+00:00
 -- url     : https://prove2.me/theorems/11223166-ebb0-439a-b557-f8df4b1ee44a

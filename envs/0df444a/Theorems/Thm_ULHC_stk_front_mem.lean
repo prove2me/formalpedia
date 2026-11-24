@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_stk_front_mem
 -- name    : ULHC.stk_front_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:55:27.519558+00:00
 -- url     : https://prove2.me/theorems/188857d0-a08f-449d-a351-fd28ed351250

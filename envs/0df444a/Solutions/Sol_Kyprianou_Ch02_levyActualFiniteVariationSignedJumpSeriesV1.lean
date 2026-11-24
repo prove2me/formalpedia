@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch02.levyActualFiniteVariationSignedJumpSeriesV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T21:04:27.038803+00:00
 -- url     : https://prove2.me/submissions/3a3c78df-f62a-41d1-80ad-d2b399b2636f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

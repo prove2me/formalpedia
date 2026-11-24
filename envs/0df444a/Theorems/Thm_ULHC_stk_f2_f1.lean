@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_stk_f2_f1
 -- name    : ULHC.stk_f2_f1
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:55:39.814841+00:00
 -- url     : https://prove2.me/theorems/b2d16195-b582-49ce-9c50-015c6cef1ee9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjectivePointsOfPlane_map_eval__int_3dc61e60a001
 -- name    : P2M_GroundTheory_Heights__Heights_ProjectivePointsOfPlane_map_eval__int_3dc61e60a001
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:43:59.115553+00:00
 -- url     : https://prove2.me/theorems/12a58aee-c0da-48dd-8436-d3bba61a3863

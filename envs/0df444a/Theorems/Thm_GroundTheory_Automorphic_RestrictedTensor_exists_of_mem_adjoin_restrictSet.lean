@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_exists_of_mem_adjoin_restrictSet
 -- name    : GroundTheory.Automorphic.RestrictedTensor.exists_of_mem_adjoin_restrictSet
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:45:27.729775+00:00
 -- url     : https://prove2.me/theorems/76655fac-9a99-41fa-ba95-5bb64ef153e2

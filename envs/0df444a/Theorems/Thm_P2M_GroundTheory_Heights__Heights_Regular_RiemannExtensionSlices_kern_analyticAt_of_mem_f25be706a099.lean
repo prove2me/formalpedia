@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_RiemannExtensionSlices_kern_analyticAt_of_mem_f25be706a099
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_RiemannExtensionSlices_kern_analyticAt_of_mem_f25be706a099
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:44:41.08785+00:00
 -- url     : https://prove2.me/theorems/324c1e1e-8a1c-4367-b15a-42cde8d82cf8

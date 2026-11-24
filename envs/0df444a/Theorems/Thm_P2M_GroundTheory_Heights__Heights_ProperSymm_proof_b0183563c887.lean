@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProperSymm_proof_b0183563c887
 -- name    : P2M_GroundTheory_Heights__Heights_ProperSymm_proof_b0183563c887
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:56:32.701392+00:00
 -- url     : https://prove2.me/theorems/bd7d1d01-7424-4c7e-ba9c-a8c6e3271440

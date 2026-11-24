@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isHomogIdeal_iff_isHomogeneous_degree_aea066f22143
 -- name    : P2M_GroundTheory_Heights__Heights_isHomogIdeal_iff_isHomogeneous_degree_aea066f22143
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:46:58.1448+00:00
 -- url     : https://prove2.me/theorems/b2e0d51d-6616-49cc-b9ee-8015aa734da7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_ker_off_range_li_span
 -- name    : WeilConjectures.ker_off_range_li_span
--- status  : Open
+-- status  : Disproved
 -- author  : @pageman
 -- created : 2026-11-24T04:12:07.106329+00:00
 -- url     : https://prove2.me/theorems/4cc09c7b-4530-4bcb-b41c-7a4bcc23bca0

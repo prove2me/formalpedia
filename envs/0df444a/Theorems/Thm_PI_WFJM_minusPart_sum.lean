@@ -1,0 +1,35 @@
+-- Prove2me | Theorems.Thm_PI_WFJM_minusPart_sum
+-- name    : PI.WFJM.minusPart_sum
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-24T05:06:22.145808+00:00
+-- url     : https://prove2.me/theorems/eada5d57-c1b9-484d-a84d-290c8131c4db
+-- title:
+--   WFJM: minus Part sum
+-- statement:
+--   The WFJM construction uses the minus Part sum property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/FockJointMultiplicity/LoweringPartRightActionInlInr.lean#L380-L383
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/FockJointMultiplicity/LoweringPartRightActionInlInr.lean#L380-L383
+
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_JointMultOfSteps
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_FockJointMultiplicity_LoweringPartRightActionInlInr
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open Matrix FockH1Action
+open PI PI.WFJM
+open MvPolynomial
+open PI.FJM
+open MvPolynomial
+variable {σ : Type*}
+
+theorem PI.WFJM.minusPart_sum {ι : Type*} (t : Finset ι) (A : ι → Module.End ℂ (MvPolynomial σ ℂ))
+    (P : MvPolynomial σ ℂ) : minusPart (∑ i ∈ t, A i) P = ∑ i ∈ t, minusPart (A i) P := by sorry

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_exists_mapped_bases_of_on_range_src_and_ker_basis
 -- name    : WeilConjectures.exists_mapped_bases_of_on_range_src_and_ker_basis
--- status  : Open
+-- status  : Disproved
 -- author  : @pageman
 -- created : 2026-11-24T03:57:41.582907+00:00
 -- url     : https://prove2.me/theorems/4bf54c94-722d-444f-b3b8-aa1e13b92c8d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_PotentialCharts_isCompact_image_closure_mid_4db7e722a909
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_PotentialCharts_isCompact_image_closure_mid_4db7e722a909
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:44:48.215571+00:00
 -- url     : https://prove2.me/theorems/c51fd921-97be-49e7-a067-726e82a2f44e

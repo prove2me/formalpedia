@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_typeIII_classes
 -- name    : ULHC.typeIII_classes
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:43:32.411969+00:00
 -- url     : https://prove2.me/theorems/a3701a2b-def6-4774-ab77-87706e9edd69

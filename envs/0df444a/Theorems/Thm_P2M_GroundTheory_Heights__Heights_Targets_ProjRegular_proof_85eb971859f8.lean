@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ProjRegular_proof_85eb971859f8
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ProjRegular_proof_85eb971859f8
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:53:56.788972+00:00
 -- url     : https://prove2.me/theorems/420497ff-2726-4747-9b4b-a67bdb71d8f7

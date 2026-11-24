@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_cells_of_cand
 -- name    : ULHC.cells_of_cand
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:29:00.68735+00:00
 -- url     : https://prove2.me/theorems/dbeb6837-3e82-4a53-8fa1-3edf7c645c6b

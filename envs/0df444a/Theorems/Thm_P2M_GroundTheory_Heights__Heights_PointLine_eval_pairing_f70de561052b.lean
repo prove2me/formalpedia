@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointLine_eval_pairing_f70de561052b
 -- name    : P2M_GroundTheory_Heights__Heights_PointLine_eval_pairing_f70de561052b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:42:46.289916+00:00
 -- url     : https://prove2.me/theorems/3bd421d0-bb94-44fd-be39-64726afc2319

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_exists_li_mapped_src_fun_of_on_range_and_ker_basis
 -- name    : WeilConjectures.exists_li_mapped_src_fun_of_on_range_and_ker_basis
--- status  : Open
+-- status  : Disproved
 -- author  : @pageman
 -- created : 2026-11-24T04:04:46.053058+00:00
 -- url     : https://prove2.me/theorems/ed152c69-5eac-4dd3-b263-2bceb5327fb7

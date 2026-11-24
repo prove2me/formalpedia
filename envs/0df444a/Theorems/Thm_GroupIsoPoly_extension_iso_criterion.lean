@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroupIsoPoly_extension_iso_criterion
 -- name    : GroupIsoPoly.extension_iso_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T02:52:53.758382+00:00
 -- url     : https://prove2.me/theorems/ef351eb0-d1c8-462f-abef-599d13def952

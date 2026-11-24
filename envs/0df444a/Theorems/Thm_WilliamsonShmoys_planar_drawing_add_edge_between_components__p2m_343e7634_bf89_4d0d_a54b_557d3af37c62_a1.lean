@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_add_edge_between_components__p2m_343e7634_bf89_4d0d_a54b_557d3af37c62_a1
 -- name    : WilliamsonShmoys.planar_drawing_add_edge_between_components__p2m_343e7634_bf89_4d0d_a54b_557d3af37c62_a1
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-10-28T19:38:23.93619+00:00
 -- url     : https://prove2.me/theorems/4660a2bb-aa2d-46e6-b847-cba091ca7c82

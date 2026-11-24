@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_VacLoc_BigCellLocal_iso_Wm
 -- name    : GlobalTheory.CompanionTheory.VacLoc.BigCellLocal.iso_Wm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:32:10.732841+00:00
 -- url     : https://prove2.me/theorems/4708ffce-a1dd-4f7a-b866-f7684fd8fa7b

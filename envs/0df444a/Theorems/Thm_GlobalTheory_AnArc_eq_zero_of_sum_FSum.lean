@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_eq_zero_of_sum_FSum
 -- name    : GlobalTheory.AnArc.eq_zero_of_sum_FSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:37:56.683241+00:00
 -- url     : https://prove2.me/theorems/40d58a6b-0d3d-43ec-ab52-97993965135a

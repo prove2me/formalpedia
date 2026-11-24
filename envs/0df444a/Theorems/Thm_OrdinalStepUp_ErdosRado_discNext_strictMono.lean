@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrdinalStepUp_ErdosRado_discNext_strictMono
 -- name    : OrdinalStepUp.ErdosRado.discNext_strictMono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:47:56.957797+00:00
 -- url     : https://prove2.me/theorems/63bbf3a9-fbe7-4794-bc0b-995d3d4d0df7

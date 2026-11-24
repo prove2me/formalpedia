@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_validB_iff
 -- name    : ULHC.validB_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:56:45.553306+00:00
 -- url     : https://prove2.me/theorems/331b6179-0924-4dc5-a634-92116e2a9ec3

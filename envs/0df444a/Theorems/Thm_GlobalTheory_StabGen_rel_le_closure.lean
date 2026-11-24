@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StabGen_rel_le_closure
 -- name    : GlobalTheory.StabGen.rel_le_closure
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:43:30.043996+00:00
 -- url     : https://prove2.me/theorems/5038c5f4-d86e-4b4a-b89a-1d0667248609

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_TruncTransfer_limsupExt_max_le_2c44b518e346
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_TruncTransfer_limsupExt_max_le_2c44b518e346
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:45:45.843674+00:00
 -- url     : https://prove2.me/theorems/9f41078f-f736-4fd3-9754-ce60966a33a3

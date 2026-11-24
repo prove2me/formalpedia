@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_mem_ratsInReal_of_mem_locPrimeTo_5ce87b3c663b
 -- name    : P2M_GroundTheory_Heights__Heights_mem_ratsInReal_of_mem_locPrimeTo_5ce87b3c663b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:48:05.920807+00:00
 -- url     : https://prove2.me/theorems/e9a7b27f-4773-4fe6-8c83-4032f72a31b2

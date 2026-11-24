@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsHeight_gaussNorm_eq_coeffGaussNorm_6e05ff990d93
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsHeight_gaussNorm_eq_coeffGaussNorm_6e05ff990d93
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:42:26.855384+00:00
 -- url     : https://prove2.me/theorems/f55aca0e-eb86-4a59-8503-95f471928420

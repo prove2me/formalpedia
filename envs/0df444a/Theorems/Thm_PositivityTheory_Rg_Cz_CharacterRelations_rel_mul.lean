@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_CharacterRelations_rel_mul
 -- name    : PositivityTheory.Rg.Cz.CharacterRelations.rel_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:46:40.860446+00:00
 -- url     : https://prove2.me/theorems/86438731-f3d8-479e-bd6a-d02271da6bec

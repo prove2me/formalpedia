@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_maximal_planar_graph_connected
 -- name    : WilliamsonShmoys.edge_maximal_planar_graph_connected
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-26T00:52:46.30416+00:00
 -- url     : https://prove2.me/theorems/0d191870-f229-447a-baf8-632074ce239d

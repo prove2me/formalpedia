@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_logCardLength_term_of_not_5772e4436efb
 -- name    : P2M_GroundTheory_Heights__Heights_logCardLength_term_of_not_5772e4436efb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:47:19.204017+00:00
 -- url     : https://prove2.me/theorems/c16084e3-dfb0-4deb-8733-32a689214151

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_mul_ne_zero_AG
 -- name    : Formalism.L2.Pj.mul_ne_zero_AG
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:46:07.087526+00:00
 -- url     : https://prove2.me/theorems/0db02d08-1e6e-4760-b4f3-fcda132dca87

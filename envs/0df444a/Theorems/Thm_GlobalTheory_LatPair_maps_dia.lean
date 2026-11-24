@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_maps_dia
 -- name    : GlobalTheory.LatPair.maps_dia
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:45:36.278048+00:00
 -- url     : https://prove2.me/theorems/3e5555b4-af39-4618-8bb0-3fd24d6a0bb5

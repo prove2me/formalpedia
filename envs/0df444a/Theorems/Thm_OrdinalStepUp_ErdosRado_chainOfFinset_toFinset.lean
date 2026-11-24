@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrdinalStepUp_ErdosRado_chainOfFinset_toFinset
 -- name    : OrdinalStepUp.ErdosRado.chainOfFinset_toFinset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:49:27.611798+00:00
 -- url     : https://prove2.me/theorems/9c3c363e-4b4c-4de2-800d-294dc2f8cda0

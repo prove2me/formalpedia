@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_iInf_join_pastSigma_eq_generateFrom_piSystem
 -- name    : Kyprianou.Ch03.iInf_join_pastSigma_eq_generateFrom_piSystem
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T04:46:12.418796+00:00
 -- url     : https://prove2.me/theorems/2a5b000a-ac0d-4241-929e-07b4d5896423

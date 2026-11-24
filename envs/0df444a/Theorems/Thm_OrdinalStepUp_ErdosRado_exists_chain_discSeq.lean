@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrdinalStepUp_ErdosRado_exists_chain_discSeq
 -- name    : OrdinalStepUp.ErdosRado.exists_chain_discSeq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:48:56.531381+00:00
 -- url     : https://prove2.me/theorems/1d416e9a-dd4d-4e37-86ff-4d597b84f46a

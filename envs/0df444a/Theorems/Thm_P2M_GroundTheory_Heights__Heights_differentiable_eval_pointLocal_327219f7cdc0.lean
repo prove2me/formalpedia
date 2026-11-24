@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_differentiable_eval_pointLocal_327219f7cdc0
 -- name    : P2M_GroundTheory_Heights__Heights_differentiable_eval_pointLocal_327219f7cdc0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:47:15.260742+00:00
 -- url     : https://prove2.me/theorems/64345ad5-ead0-4918-9084-6399a4035433

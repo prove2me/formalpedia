@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_strip_odd_conn
 -- name    : ULHC.strip_odd_conn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:50:03.12194+00:00
 -- url     : https://prove2.me/theorems/344c8a1c-6f83-43c5-88dc-6138c0eda2c9

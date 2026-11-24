@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_osi_far
 -- name    : ULHC.osi_far
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:51:05.082323+00:00
 -- url     : https://prove2.me/theorems/61627c61-7421-420a-a5d6-1095d761846c

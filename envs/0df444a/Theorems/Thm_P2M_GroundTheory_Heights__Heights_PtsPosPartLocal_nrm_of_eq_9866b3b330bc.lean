@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PtsPosPartLocal_nrm_of_eq_9866b3b330bc
 -- name    : P2M_GroundTheory_Heights__Heights_PtsPosPartLocal_nrm_of_eq_9866b3b330bc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:44:16.785193+00:00
 -- url     : https://prove2.me/theorems/1b797f62-2066-4207-a3aa-3d033a76f117

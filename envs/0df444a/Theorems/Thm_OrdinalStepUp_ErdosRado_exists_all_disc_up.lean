@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrdinalStepUp_ErdosRado_exists_all_disc_up
 -- name    : OrdinalStepUp.ErdosRado.exists_all_disc_up
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:48:42.587802+00:00
 -- url     : https://prove2.me/theorems/788d7eb4-7e8d-45e4-9936-201a7e16d2e8

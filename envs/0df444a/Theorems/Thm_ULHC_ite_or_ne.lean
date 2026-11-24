@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_ite_or_ne
 -- name    : ULHC.ite_or_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:49:30.787721+00:00
 -- url     : https://prove2.me/theorems/e548b2d4-d705-4466-a309-26af4aea2b8d

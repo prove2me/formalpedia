@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_pair_extension_cert38ffb807
 -- name    : WilliamsonShmoys.planar_drawing_pair_extension_cert38ffb807
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T14:30:31.356023+00:00
 -- url     : https://prove2.me/theorems/fdf3ccb1-c82f-4ece-a6f5-1d1d9590f274

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_exists_diag_bases_of_range_snf
 -- name    : WeilConjectures.exists_diag_bases_of_range_snf
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T02:38:13.187809+00:00
 -- url     : https://prove2.me/theorems/75ba6e1c-a0d2-452e-b88a-2ae161919071

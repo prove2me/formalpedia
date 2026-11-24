@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_sideOffB_iff
 -- name    : ULHC.sideOffB_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:51:58.176269+00:00
 -- url     : https://prove2.me/theorems/66f1affe-38d6-474b-b218-50408aa0d0c2

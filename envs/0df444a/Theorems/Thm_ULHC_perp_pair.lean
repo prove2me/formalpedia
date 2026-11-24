@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_perp_pair
 -- name    : ULHC.perp_pair
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:56:37.198011+00:00
 -- url     : https://prove2.me/theorems/4424236b-e5eb-4cc7-870f-acf7d4891b79

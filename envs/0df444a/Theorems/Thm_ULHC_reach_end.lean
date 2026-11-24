@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_reach_end
 -- name    : ULHC.reach_end
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:34:08.416265+00:00
 -- url     : https://prove2.me/theorems/f4319ab1-65b1-4e50-99ac-774575d94911

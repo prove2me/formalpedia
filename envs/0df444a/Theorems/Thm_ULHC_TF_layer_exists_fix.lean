@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_TF_layer_exists_fix
 -- name    : ULHC.TF.layer_exists_fix
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:46:52.877414+00:00
 -- url     : https://prove2.me/theorems/8a4651f2-d9c0-4545-af03-5898ec6acb9b

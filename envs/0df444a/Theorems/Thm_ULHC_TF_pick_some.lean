@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_TF_pick_some
 -- name    : ULHC.TF.pick_some
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:48:14.638011+00:00
 -- url     : https://prove2.me/theorems/734b9ae0-ce1d-4eb9-8bca-3df83e89a368

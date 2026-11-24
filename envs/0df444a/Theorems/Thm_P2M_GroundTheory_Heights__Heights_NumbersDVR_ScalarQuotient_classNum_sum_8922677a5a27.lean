@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_ScalarQuotient_classNum_sum_8922677a5a27
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_ScalarQuotient_classNum_sum_8922677a5a27
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:37:05.940132+00:00
 -- url     : https://prove2.me/theorems/bf375033-4d5e-4545-908c-00a26b2ce45d

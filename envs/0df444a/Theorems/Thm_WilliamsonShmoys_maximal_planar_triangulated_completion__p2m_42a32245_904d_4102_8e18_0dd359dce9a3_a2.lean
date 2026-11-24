@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_triangulated_completion__p2m_42a32245_904d_4102_8e18_0dd359dce9a3_a2
 -- name    : WilliamsonShmoys.maximal_planar_triangulated_completion__p2m_42a32245_904d_4102_8e18_0dd359dce9a3_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-30T10:42:37.263856+00:00
 -- url     : https://prove2.me/theorems/a8e00233-6ced-4375-a354-4b7099847c43

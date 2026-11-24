@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_vandermondeOf_eq_vandermonde_144b4b56a0c7
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_vandermondeOf_eq_vandermonde_144b4b56a0c7
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:22:08.10186+00:00
 -- url     : https://prove2.me/theorems/c1881ca7-98fe-4aac-9590-96ad071b84e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NineStatements_primeFrac_ne_zero_6c9de5626853
 -- name    : P2M_GroundTheory_Heights__Heights_NineStatements_primeFrac_ne_zero_6c9de5626853
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:30:40.580418+00:00
 -- url     : https://prove2.me/theorems/0ae5a4c0-ec2a-4b91-a3d2-bfb904be8302

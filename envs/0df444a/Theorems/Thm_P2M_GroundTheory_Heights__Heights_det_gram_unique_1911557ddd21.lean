@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_det_gram_unique_1911557ddd21
 -- name    : P2M_GroundTheory_Heights__Heights_det_gram_unique_1911557ddd21
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:46:58.063872+00:00
 -- url     : https://prove2.me/theorems/170bd2a6-8a7d-4b67-9100-b9536c944b71

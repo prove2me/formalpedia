@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_add_reachable_pair__p2m_02da0ff6_1020_4ffd_8f79_c5b3eb2fc9a4_a2
 -- name    : WilliamsonShmoys.planar_drawing_add_reachable_pair__p2m_02da0ff6_1020_4ffd_8f79_c5b3eb2fc9a4_a2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T11:57:56.512192+00:00
 -- url     : https://prove2.me/theorems/01b2b8bc-0ae1-444c-bc1d-4b7d129cd719

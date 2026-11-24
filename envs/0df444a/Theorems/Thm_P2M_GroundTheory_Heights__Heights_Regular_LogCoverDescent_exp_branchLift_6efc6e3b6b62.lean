@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_LogCoverDescent_exp_branchLift_6efc6e3b6b62
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_LogCoverDescent_exp_branchLift_6efc6e3b6b62
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:44:32.922527+00:00
 -- url     : https://prove2.me/theorems/fd1206c3-6ffd-457e-b8fb-c1b849ce5a93

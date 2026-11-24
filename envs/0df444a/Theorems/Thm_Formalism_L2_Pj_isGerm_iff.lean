@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_isGerm_iff
 -- name    : Formalism.L2.Pj.isGerm_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:42:56.751679+00:00
 -- url     : https://prove2.me/theorems/c4bcb250-be0d-4e3b-be93-69295d86a466

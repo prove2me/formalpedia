@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_mulGen_isGen_of_isGen
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.mulGen_isGen_of_isGen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:42:27.540632+00:00
 -- url     : https://prove2.me/theorems/0874c285-f2e5-4a25-a5ac-c6e087afc972

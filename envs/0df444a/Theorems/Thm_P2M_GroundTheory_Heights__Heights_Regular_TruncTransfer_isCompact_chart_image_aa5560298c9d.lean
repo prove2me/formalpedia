@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_TruncTransfer_isCompact_chart_image_aa5560298c9d
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_TruncTransfer_isCompact_chart_image_aa5560298c9d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:44:36.932864+00:00
 -- url     : https://prove2.me/theorems/39d91e07-cf61-48c2-a4e4-4319b0cf9334

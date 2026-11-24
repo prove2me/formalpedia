@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_sidesIn_biUnion_even
 -- name    : ULHC.sidesIn_biUnion_even
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:37:29.531078+00:00
 -- url     : https://prove2.me/theorems/4050401e-4e77-4377-8e95-61142b2fdca8

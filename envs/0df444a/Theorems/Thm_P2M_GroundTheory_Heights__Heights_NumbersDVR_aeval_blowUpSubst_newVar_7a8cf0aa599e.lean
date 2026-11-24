@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_aeval_blowUpSubst_newVar_7a8cf0aa599e
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_aeval_blowUpSubst_newVar_7a8cf0aa599e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:37:14.213542+00:00
 -- url     : https://prove2.me/theorems/21a9d193-9765-4a05-9d86-a26b00e4afb1

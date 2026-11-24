@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CurveGermComponents_mem_zeroSet_iff_le_ker_1b3406fd666e
 -- name    : P2M_GroundTheory_Heights__Heights_CurveGermComponents_mem_zeroSet_iff_le_ker_1b3406fd666e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:46:08.925931+00:00
 -- url     : https://prove2.me/theorems/efdb825f-bf1d-488c-8dd5-2cd1cefb14c6

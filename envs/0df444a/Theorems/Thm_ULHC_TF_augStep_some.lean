@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_TF_augStep_some
 -- name    : ULHC.TF.augStep_some
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:48:29.754473+00:00
 -- url     : https://prove2.me/theorems/6361548d-4de1-4c42-96d5-a9e165d8e080

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PtsPosPartLocal_differentiable_map_874caf0283f6
 -- name    : P2M_GroundTheory_Heights__Heights_PtsPosPartLocal_differentiable_map_874caf0283f6
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:44:51.870225+00:00
 -- url     : https://prove2.me/theorems/c5656d9c-2bab-4f76-b926-5df415e18c88

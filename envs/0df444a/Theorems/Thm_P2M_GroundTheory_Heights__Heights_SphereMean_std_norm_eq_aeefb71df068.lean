@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereMean_std_norm_eq_aeefb71df068
 -- name    : P2M_GroundTheory_Heights__Heights_SphereMean_std_norm_eq_aeefb71df068
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:45:41.950807+00:00
 -- url     : https://prove2.me/theorems/7f4868ce-5a1c-431d-8dfe-9ce449e799b2

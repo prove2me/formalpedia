@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrdinalStepUp_ErdosRado_wo_of_discNext_lt
 -- name    : OrdinalStepUp.ErdosRado.wo_of_discNext_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:48:49.289899+00:00
 -- url     : https://prove2.me/theorems/f1a8041f-e00e-4886-9e23-a4af3c4b9852

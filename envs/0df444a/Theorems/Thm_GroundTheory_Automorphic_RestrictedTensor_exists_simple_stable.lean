@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_exists_simple_stable
 -- name    : GroundTheory.Automorphic.RestrictedTensor.exists_simple_stable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:45:37.041665+00:00
 -- url     : https://prove2.me/theorems/4ee726fb-6177-41d1-a42e-3185aefdedad

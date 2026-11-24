@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_Tsw_even
 -- name    : ULHC.Tsw_even
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:37:21.444817+00:00
 -- url     : https://prove2.me/theorems/05092c4e-661e-4f84-b30a-4df8dcb010b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_GaugeFrame_blk_succ_zero
 -- name    : PI.UnitaryGroupMassFormula.GaugeFrame.blk_succ_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:17:11.543012+00:00
 -- url     : https://prove2.me/theorems/9e969218-fd9f-4765-b591-8a9f2b566c0d

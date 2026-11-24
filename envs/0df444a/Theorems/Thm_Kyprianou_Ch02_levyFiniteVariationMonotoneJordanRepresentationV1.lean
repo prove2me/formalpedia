@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_levyFiniteVariationMonotoneJordanRepresentationV1
 -- name    : Kyprianou.Ch02.levyFiniteVariationMonotoneJordanRepresentationV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T20:35:01.881803+00:00
 -- url     : https://prove2.me/theorems/d623bcd3-5bf2-4124-8137-e1ca2a96a328

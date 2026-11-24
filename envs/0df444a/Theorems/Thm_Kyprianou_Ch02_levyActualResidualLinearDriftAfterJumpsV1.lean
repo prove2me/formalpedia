@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_levyActualResidualLinearDriftAfterJumpsV1
 -- name    : Kyprianou.Ch02.levyActualResidualLinearDriftAfterJumpsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T21:03:05.468988+00:00
 -- url     : https://prove2.me/theorems/d6643ac9-e3e1-4328-9323-4708622dcdf2

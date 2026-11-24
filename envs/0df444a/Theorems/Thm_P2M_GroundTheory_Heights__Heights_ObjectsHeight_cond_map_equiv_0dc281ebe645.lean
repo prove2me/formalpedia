@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsHeight_cond_map_equiv_0dc281ebe645
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsHeight_cond_map_equiv_0dc281ebe645
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:42:23.243021+00:00
 -- url     : https://prove2.me/theorems/92ec1420-b73f-47be-8185-139d71ad98a3

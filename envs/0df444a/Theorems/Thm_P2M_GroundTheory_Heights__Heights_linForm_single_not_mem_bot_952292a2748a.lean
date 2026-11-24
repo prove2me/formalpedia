@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_linForm_single_not_mem_bot_952292a2748a
 -- name    : P2M_GroundTheory_Heights__Heights_linForm_single_not_mem_bot_952292a2748a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:46:50.218235+00:00
 -- url     : https://prove2.me/theorems/3f22068f-83b1-4ae0-b54c-4d521cda0383

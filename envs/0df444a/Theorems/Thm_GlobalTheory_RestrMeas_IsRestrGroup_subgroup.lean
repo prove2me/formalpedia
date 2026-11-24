@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RestrMeas_IsRestrGroup_subgroup
 -- name    : GlobalTheory.RestrMeas.IsRestrGroup.subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:45:31.263803+00:00
 -- url     : https://prove2.me/theorems/a7b39074-a52e-4984-abce-b099def0bb07

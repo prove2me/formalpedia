@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_levyActualCompactJumpAbsoluteSummabilityV1
 -- name    : Kyprianou.Ch02.levyActualCompactJumpAbsoluteSummabilityV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T21:03:06.890816+00:00
 -- url     : https://prove2.me/theorems/9c01393a-613b-4038-81e2-048f9e0d68c0

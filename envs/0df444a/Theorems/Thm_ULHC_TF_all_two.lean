@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_TF_all_two
 -- name    : ULHC.TF.all_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:48:46.72562+00:00
 -- url     : https://prove2.me/theorems/e69f028a-347b-45ec-86b4-28ebeef11e41

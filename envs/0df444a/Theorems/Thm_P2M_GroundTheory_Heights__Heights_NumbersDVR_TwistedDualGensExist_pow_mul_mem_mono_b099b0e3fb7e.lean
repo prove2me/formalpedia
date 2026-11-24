@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_TwistedDualGensExist_pow_mul_mem_mono_b099b0e3fb7e
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_TwistedDualGensExist_pow_mul_mem_mono_b099b0e3fb7e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:37:46.025889+00:00
 -- url     : https://prove2.me/theorems/3f3f104a-9aec-4295-a617-a99b67b3cf7d

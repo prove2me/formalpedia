@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_ind_insert
 -- name    : ULHC.ind_insert
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:49:21.220427+00:00
 -- url     : https://prove2.me/theorems/4926d9ed-b747-4919-b956-2b3cae7872ae

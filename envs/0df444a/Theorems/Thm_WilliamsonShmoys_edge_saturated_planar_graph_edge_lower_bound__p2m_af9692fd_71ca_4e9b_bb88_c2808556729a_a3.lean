@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_saturated_planar_graph_edge_lower_bound__p2m_af9692fd_71ca_4e9b_bb88_c2808556729a_a3
 -- name    : WilliamsonShmoys.edge_saturated_planar_graph_edge_lower_bound__p2m_af9692fd_71ca_4e9b_bb88_c2808556729a_a3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T03:07:24.382008+00:00
 -- url     : https://prove2.me/theorems/e079b09e-e4e7-4f37-a7db-f0169ce5ff8c

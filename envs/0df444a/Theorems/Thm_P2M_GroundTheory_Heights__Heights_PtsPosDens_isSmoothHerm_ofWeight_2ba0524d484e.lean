@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PtsPosDens_isSmoothHerm_ofWeight_2ba0524d484e
 -- name    : P2M_GroundTheory_Heights__Heights_PtsPosDens_isSmoothHerm_ofWeight_2ba0524d484e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:44:36.435793+00:00
 -- url     : https://prove2.me/theorems/656156d1-09b3-464b-9eb5-d970e86d4922

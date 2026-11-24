@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_TLinPf_act_lift_xc
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.TLinPf.act_lift_xc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:25:04.144169+00:00
 -- url     : https://prove2.me/theorems/77c30b0a-98fe-45a4-ae39-2c1ceccf912b

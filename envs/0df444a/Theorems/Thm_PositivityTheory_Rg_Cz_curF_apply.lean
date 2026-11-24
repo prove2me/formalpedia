@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_curF_apply
 -- name    : PositivityTheory.Rg.Cz.curF_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:42:46.53136+00:00
 -- url     : https://prove2.me/theorems/78d815d7-1868-4d7d-b965-29a94f444841

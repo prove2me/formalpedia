@@ -90940,7 +90940,7 @@
 {"parent": "MIPStarRE.QPBT.placedPauliMeasurement_postprocess_eq", "child": "QPBT_QPBT_Test_PauliBasisTest", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.placedPauliMeasurement_postprocess_eq", "child": "LIDT_MIPStarRE_LDT_Basic_LinePolynomials", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.QPBT.placedPauliMeasurement_postprocess_eq", "child": "QPBT_QPBT_Games_Defs", "via": ["solution", "statement"]}
-{"parent": "WilliamsonShmoys.planar_drawing_connected_supergraph__p2m_0ecd79e4_6892_448d_a4b5_6a0f94adcc17_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["statement"]}
+{"parent": "WilliamsonShmoys.planar_drawing_connected_supergraph__p2m_0ecd79e4_6892_448d_a4b5_6a0f94adcc17_a2", "child": "WilliamsonShmoys_PlanarDrawingOn", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.coarse_distinct_p020_b040", "child": "HlawkaSchatten_DiagonalCutoff4_FiniteCharts", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.Pasting.fromHToGAdjacentStageM3_eq_halfSandwichLeftAdjointShape", "child": "LIDT_MIPStarRE_LDT_Commutativity_Scaffold_Core", "via": ["solution", "statement"]}
 {"parent": "LIDT.MIPStarRE.LDT.Pasting.fromHToGAdjacentStageM3_eq_halfSandwichLeftAdjointShape", "child": "LIDT_MIPStarRE_LDT_Basic_DistributionAvg", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_maximal_planar_drawing_has_triangulated_extension__p2m_055aa8e4_db8a_47ed_b733_513d02bcef62_a1
 -- name    : WilliamsonShmoys.maximal_planar_drawing_has_triangulated_extension__p2m_055aa8e4_db8a_47ed_b733_513d02bcef62_a1
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T15:32:03.541725+00:00
 -- url     : https://prove2.me/theorems/3a1649bb-b908-4400-8c80-435b14739a2c

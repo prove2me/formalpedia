@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeilConjectures_exists_mapped_bases_of_snf_preimage_family
 -- name    : WeilConjectures.exists_mapped_bases_of_snf_preimage_family
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T03:31:51.774839+00:00
 -- url     : https://prove2.me/theorems/eb4eedb7-41b9-43b5-87ff-e35112c37877

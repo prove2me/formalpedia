@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsHeight_map_curry_volume_16d414f95811
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsHeight_map_curry_volume_16d414f95811
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:42:18.783606+00:00
 -- url     : https://prove2.me/theorems/6cf2a5f9-3c08-463e-b3f8-3970fa2d6da7

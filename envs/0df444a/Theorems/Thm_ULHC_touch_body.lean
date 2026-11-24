@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_touch_body
 -- name    : ULHC.touch_body
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:53:51.195961+00:00
 -- url     : https://prove2.me/theorems/0d8f41f2-8ad6-4a73-a57f-5247e6078bd2

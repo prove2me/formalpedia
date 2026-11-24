@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch02.levyCanonicalFiniteVariationResidualExplicitModelV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-23T23:48:01.519738+00:00
 -- url     : https://prove2.me/submissions/ade6987b-1797-42a1-9ba8-c6c673d6ede5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.MeasureTheory.Integral.DominatedConvergence
 import Mathlib.Probability.Independence.CharacteristicFunction

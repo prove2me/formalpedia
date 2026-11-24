@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_levyBoundedVariationSufficiencyV1
 -- name    : Kyprianou.Ch02.levyBoundedVariationSufficiencyV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T19:54:19.585214+00:00
 -- url     : https://prove2.me/theorems/a57c73c7-1edf-401f-8dbb-b935fdc7c5f9

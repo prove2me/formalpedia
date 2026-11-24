@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_encard_iUnion_nat_eq_tsum_46bad95e9c62
 -- name    : P2M_GroundTheory_Heights__Heights_encard_iUnion_nat_eq_tsum_46bad95e9c62
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:46:47.21062+00:00
 -- url     : https://prove2.me/theorems/cac6029d-b919-443e-a482-3a977b56adb7

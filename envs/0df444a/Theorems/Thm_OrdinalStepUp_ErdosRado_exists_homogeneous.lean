@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrdinalStepUp_ErdosRado_exists_homogeneous
 -- name    : OrdinalStepUp.ErdosRado.exists_homogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:48:36.465391+00:00
 -- url     : https://prove2.me/theorems/f1b7aea0-2371-4657-9a74-c21145b9fabf

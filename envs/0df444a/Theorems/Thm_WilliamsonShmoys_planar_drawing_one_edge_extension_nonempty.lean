@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_drawing_one_edge_extension_nonempty
 -- name    : WilliamsonShmoys.planar_drawing_one_edge_extension_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-28T06:09:09.201669+00:00
 -- url     : https://prove2.me/theorems/c33cfb39-e486-4c94-aa63-3ed42e529fb6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_levyPoissonPathLocallySummableTimeRepresentationV1
 -- name    : Kyprianou.Ch02.levyPoissonPathLocallySummableTimeRepresentationV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T23:51:21.23583+00:00
 -- url     : https://prove2.me/theorems/30bfa3d0-a8bb-461c-8199-4d3e46071239

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_cut_even_light
 -- name    : ULHC.cut_even_light
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:50:33.268797+00:00
 -- url     : https://prove2.me/theorems/64048d02-2ec4-4f0f-885c-953de0d35a79

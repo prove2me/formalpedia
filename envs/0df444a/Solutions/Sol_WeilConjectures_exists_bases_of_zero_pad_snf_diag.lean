@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WeilConjectures.exists_bases_of_zero_pad_snf_diag
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @pageman
 -- created : 2026-11-24T03:24:40.477306+00:00
 -- url     : https://prove2.me/submissions/72244ad4-5a99-4761-9e6b-a8612fac715c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_WeilConjectures_exists_mapped_bases_of_zero_pad_snf_diag

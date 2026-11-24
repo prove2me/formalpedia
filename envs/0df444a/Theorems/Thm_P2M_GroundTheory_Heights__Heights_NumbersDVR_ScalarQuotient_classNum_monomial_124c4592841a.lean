@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_ScalarQuotient_classNum_monomial_124c4592841a
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_ScalarQuotient_classNum_monomial_124c4592841a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:37:04.635928+00:00
 -- url     : https://prove2.me/theorems/7a457ba2-cf56-4048-881c-88a2f8d42af1

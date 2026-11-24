@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_creach_mono
 -- name    : ULHC.creach_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:49:10.755097+00:00
 -- url     : https://prove2.me/theorems/bf5f0e5a-4a59-42d8-b7d0-7e1c31b8cb35

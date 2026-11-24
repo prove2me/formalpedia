@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_triv_of_isCompact
 -- name    : GlobalTheory.Doubling.triv_of_isCompact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:46:04.571558+00:00
 -- url     : https://prove2.me/theorems/533595ea-9084-499f-97d8-c076c307f5b2

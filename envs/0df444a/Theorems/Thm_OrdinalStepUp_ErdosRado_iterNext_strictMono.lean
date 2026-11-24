@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrdinalStepUp_ErdosRado_iterNext_strictMono
 -- name    : OrdinalStepUp.ErdosRado.iterNext_strictMono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:49:05.606527+00:00
 -- url     : https://prove2.me/theorems/15ca8c9b-844f-4afa-ba18-a3806598bc38

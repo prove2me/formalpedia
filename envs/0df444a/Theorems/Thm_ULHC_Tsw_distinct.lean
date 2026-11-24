@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_Tsw_distinct
 -- name    : ULHC.Tsw_distinct
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:49:27.139729+00:00
 -- url     : https://prove2.me/theorems/bc2e96af-03d3-462d-84b9-323df2296db0

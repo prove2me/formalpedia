@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_monomialValues_zero_a00cab2fcc08
 -- name    : P2M_GroundTheory_Heights__Heights_monomialValues_zero_a00cab2fcc08
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:47:16.107795+00:00
 -- url     : https://prove2.me/theorems/18f0fa9f-4f61-4c9a-b38a-d22cf49bc6f7

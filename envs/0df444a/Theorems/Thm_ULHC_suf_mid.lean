@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_suf_mid
 -- name    : ULHC.suf_mid
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:55:51.33379+00:00
 -- url     : https://prove2.me/theorems/c329b636-bfa9-42ca-9ef1-ac6059493174

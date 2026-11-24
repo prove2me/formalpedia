@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_HSt_MI_contDiff_det
 -- name    : PositivityTheory.Rg.Sw.HSt.MI.contDiff_det
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:04:42.332644+00:00
 -- url     : https://prove2.me/theorems/f33198b4-5a22-4e17-936a-b8feb4ac31fa

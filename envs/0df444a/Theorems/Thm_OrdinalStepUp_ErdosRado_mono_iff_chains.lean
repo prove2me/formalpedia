@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrdinalStepUp_ErdosRado_mono_iff_chains
 -- name    : OrdinalStepUp.ErdosRado.mono_iff_chains
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:48:58.43725+00:00
 -- url     : https://prove2.me/theorems/b1f2658a-02ed-491d-bb76-409794236054

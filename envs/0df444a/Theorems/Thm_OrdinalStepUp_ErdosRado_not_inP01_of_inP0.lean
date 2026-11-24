@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrdinalStepUp_ErdosRado_not_inP01_of_inP0
 -- name    : OrdinalStepUp.ErdosRado.not_inP01_of_inP0
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:49:12.815561+00:00
 -- url     : https://prove2.me/theorems/93875865-cb49-471a-a811-68482eb335d2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_maps_stdLat_iff
 -- name    : GlobalTheory.LatPair.maps_stdLat_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:45:22.427137+00:00
 -- url     : https://prove2.me/theorems/1e0715c2-dafc-48cb-a9e4-85ebb78f5efc

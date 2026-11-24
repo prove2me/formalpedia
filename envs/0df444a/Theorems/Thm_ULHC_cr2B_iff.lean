@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_cr2B_iff
 -- name    : ULHC.cr2B_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:31:49.870837+00:00
 -- url     : https://prove2.me/theorems/13bd681e-db52-46fe-929c-8141c8d3a595

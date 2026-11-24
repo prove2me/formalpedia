@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_darkened_cell_notTypeIII
 -- name    : ULHC.darkened_cell_notTypeIII
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:43:27.821828+00:00
 -- url     : https://prove2.me/theorems/fdab7bf5-7f8c-49ec-a683-819369980a6b

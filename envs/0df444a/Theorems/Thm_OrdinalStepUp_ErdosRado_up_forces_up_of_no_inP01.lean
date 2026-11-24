@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrdinalStepUp_ErdosRado_up_forces_up_of_no_inP01
 -- name    : OrdinalStepUp.ErdosRado.up_forces_up_of_no_inP01
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:49:24.090909+00:00
 -- url     : https://prove2.me/theorems/0fb65400-42e1-4ae9-843b-6c0c27c37ef6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_isHomogeneous_det_linear_9fa9fdfd32bf
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_isHomogeneous_det_linear_9fa9fdfd32bf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:47:29.688838+00:00
 -- url     : https://prove2.me/theorems/6ba74c78-d469-42cb-b0a7-f7cfc526ce1c

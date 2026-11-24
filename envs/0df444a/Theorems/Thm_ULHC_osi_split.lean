@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_osi_split
 -- name    : ULHC.osi_split
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:54:16.108061+00:00
 -- url     : https://prove2.me/theorems/e7d5a7a0-637f-4d38-b879-698b82986a69

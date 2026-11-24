@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockRaiseLowInner_fockInner_add_left
 -- name    : FockRaiseLowInner.fockInner_add_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:28:57.353909+00:00
 -- url     : https://prove2.me/theorems/a548cad0-b0fe-45fb-940d-474a1724e927

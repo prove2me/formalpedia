@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_fnVal_specMap
 -- name    : GlobalTheory.JetSer.fnVal_specMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:43:47.457303+00:00
 -- url     : https://prove2.me/theorems/9da8e142-6754-4897-a132-869a7d1e944f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_isSB_ind
 -- name    : Formalism.IndefR.Fin.Four.isSB_ind
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:45:17.521449+00:00
 -- url     : https://prove2.me/theorems/2e480aaf-b597-4273-9b26-215f3793b3fe

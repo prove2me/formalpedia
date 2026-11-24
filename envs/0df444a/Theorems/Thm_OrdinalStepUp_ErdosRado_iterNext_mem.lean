@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrdinalStepUp_ErdosRado_iterNext_mem
 -- name    : OrdinalStepUp.ErdosRado.iterNext_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:48:10.942095+00:00
 -- url     : https://prove2.me/theorems/61f606f6-b649-41bc-8264-591cfee75f46

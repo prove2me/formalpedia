@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_one_mem_sqrtTwoLattice_095e75f5c692
 -- name    : P2M_GroundTheory_Heights__Heights_one_mem_sqrtTwoLattice_095e75f5c692
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:47:29.88149+00:00
 -- url     : https://prove2.me/theorems/eb6866be-4de0-41a9-9e9b-2bdc8d3b8891

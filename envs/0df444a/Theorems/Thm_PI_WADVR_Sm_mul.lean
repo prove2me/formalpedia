@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WADVR_Sm_mul
 -- name    : PI.WADVR.Sm.mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:09:18.797832+00:00
 -- url     : https://prove2.me/theorems/7d9b1661-710d-4ef8-9dc9-2c5e6e9628bd

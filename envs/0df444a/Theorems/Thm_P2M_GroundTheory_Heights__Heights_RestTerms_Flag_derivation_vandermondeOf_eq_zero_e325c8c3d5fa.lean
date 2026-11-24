@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Flag_derivation_vandermondeOf_eq_zero_e325c8c3d5fa
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Flag_derivation_vandermondeOf_eq_zero_e325c8c3d5fa
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:44:58.60094+00:00
 -- url     : https://prove2.me/theorems/11a84e07-db4d-4b89-9703-7a82c85239c0

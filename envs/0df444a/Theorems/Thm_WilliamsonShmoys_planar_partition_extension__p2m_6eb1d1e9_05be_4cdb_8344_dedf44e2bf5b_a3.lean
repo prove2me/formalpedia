@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planar_partition_extension__p2m_6eb1d1e9_05be_4cdb_8344_dedf44e2bf5b_a3
 -- name    : WilliamsonShmoys.planar_partition_extension__p2m_6eb1d1e9_05be_4cdb_8344_dedf44e2bf5b_a3
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-11-01T02:20:56.023328+00:00
 -- url     : https://prove2.me/theorems/a749677c-638f-4aa9-a97a-7bf2c9f27f0d

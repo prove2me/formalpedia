@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_HookSum_card_filter_one_le_le_8f085ebe469f
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_HookSum_card_filter_one_le_le_8f085ebe469f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:45:08.384173+00:00
 -- url     : https://prove2.me/theorems/f0890b07-fd62-49f9-8761-ff1d6e6ffb87

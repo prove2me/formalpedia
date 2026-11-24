@@ -46094,8 +46094,8 @@
 {"parent": "OAI.SharpPlanar.CachedData.hm1_1_0_22.sums_eq_g", "child": "OAIQ098G979", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm1_1_0_22.sums_eq_g", "child": "OAIQ098G975", "via": ["solution", "statement"]}
 {"parent": "CatalyticMatching_General_Matching", "child": "MulmuleyVV_Matching_Algorithm", "via": ["statement"]}
-{"parent": "GroupIsoPoly.extension_iso_criterion", "child": "GroupIsoPoly_coboundary", "via": ["statement"]}
-{"parent": "GroupIsoPoly.extension_iso_criterion", "child": "GroupIsoPoly_Ext", "via": ["statement"]}
+{"parent": "GroupIsoPoly.extension_iso_criterion", "child": "GroupIsoPoly_coboundary", "via": ["solution", "statement"]}
+{"parent": "GroupIsoPoly.extension_iso_criterion", "child": "GroupIsoPoly_Ext", "via": ["solution", "statement"]}
 {"parent": "LinMaxLoad.theorem_17_per_piece", "child": "LinMaxLoad_cosetSum", "via": ["solution", "statement"]}
 {"parent": "LinMaxLoad.theorem_17_per_piece", "child": "LinMaxLoad_expLoad", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm7_1_0_7.s4_eq_g", "child": "OAIQ098G1333", "via": ["solution", "statement"]}

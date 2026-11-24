@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_measurePreserving_curry_matrix_e2df5b44d13a
 -- name    : P2M_GroundTheory_Heights__Heights_measurePreserving_curry_matrix_e2df5b44d13a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:47:43.956897+00:00
 -- url     : https://prove2.me/theorems/1994a294-b607-4a29-8046-47f9baf114b9

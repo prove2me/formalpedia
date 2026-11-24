@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrdinalStepUp_ErdosRado_stepUp_noHomog
 -- name    : OrdinalStepUp.ErdosRado.stepUp_noHomog
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:49:30.452867+00:00
 -- url     : https://prove2.me/theorems/995cdf96-198f-4884-8231-3bba433b2197

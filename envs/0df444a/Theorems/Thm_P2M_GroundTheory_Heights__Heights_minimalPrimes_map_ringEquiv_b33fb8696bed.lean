@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_minimalPrimes_map_ringEquiv_b33fb8696bed
 -- name    : P2M_GroundTheory_Heights__Heights_minimalPrimes_map_ringEquiv_b33fb8696bed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:48:12.104383+00:00
 -- url     : https://prove2.me/theorems/4d7755ca-8718-4fd0-a386-da873efeb533

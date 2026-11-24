@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointwiseLelong_isProbabilityMeasure_phaseLaw_a2795f84d538
 -- name    : P2M_GroundTheory_Heights__Heights_PointwiseLelong_isProbabilityMeasure_phaseLaw_a2795f84d538
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:43:28.995337+00:00
 -- url     : https://prove2.me/theorems/58c959d7-94f2-4381-9273-ce2cceeca5ec

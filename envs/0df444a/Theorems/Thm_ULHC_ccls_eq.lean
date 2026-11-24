@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_ccls_eq
 -- name    : ULHC.ccls_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:47:30.233803+00:00
 -- url     : https://prove2.me/theorems/3f91410b-06a5-49f8-8e73-6ab90393a395

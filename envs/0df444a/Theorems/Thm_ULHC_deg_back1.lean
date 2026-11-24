@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_deg_back1
 -- name    : ULHC.deg_back1
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:52:42.646195+00:00
 -- url     : https://prove2.me/theorems/5fc7e591-312a-4310-9175-353c658a4f6a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_joinDeg_comp_closureBlockEquiv_741d524ae234
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_joinDeg_comp_closureBlockEquiv_741d524ae234
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:37:48.840127+00:00
 -- url     : https://prove2.me/theorems/06b10503-4b8a-4a8c-bc9f-3ebb0f30ed69

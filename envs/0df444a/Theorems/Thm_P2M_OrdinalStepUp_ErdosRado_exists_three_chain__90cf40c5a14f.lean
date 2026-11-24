@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_OrdinalStepUp_ErdosRado_exists_three_chain__90cf40c5a14f
 -- name    : P2M_OrdinalStepUp_ErdosRado_exists_three_chain__90cf40c5a14f
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:48:39.075751+00:00
 -- url     : https://prove2.me/theorems/1baf8458-6a04-4998-a51f-d48e4e97151e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagLineSectionProof_IsChartForm_pad_50525580a2b7
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagLineSectionProof_IsChartForm_pad_50525580a2b7
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:33:16.088501+00:00
 -- url     : https://prove2.me/theorems/1b395842-e831-41cf-89e8-06744adcb7bc

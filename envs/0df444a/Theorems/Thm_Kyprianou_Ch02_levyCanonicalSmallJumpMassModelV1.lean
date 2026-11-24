@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch02_levyCanonicalSmallJumpMassModelV1
 -- name    : Kyprianou.Ch02.levyCanonicalSmallJumpMassModelV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-23T22:52:34.014362+00:00
 -- url     : https://prove2.me/theorems/4fc054ee-2bb9-4eb1-8a41-d9f4886eff55

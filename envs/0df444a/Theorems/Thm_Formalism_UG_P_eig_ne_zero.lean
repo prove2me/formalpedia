@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_eig_ne_zero
 -- name    : Formalism.UG.P.eig_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:43:24.015043+00:00
 -- url     : https://prove2.me/theorems/1491cdcf-a10c-4abf-a7c1-db81578c4ab9

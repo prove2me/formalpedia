@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_creach_stable
 -- name    : ULHC.creach_stable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:49:14.437789+00:00
 -- url     : https://prove2.me/theorems/292dc56b-19b2-4b6b-b00c-e6f35912d98f
