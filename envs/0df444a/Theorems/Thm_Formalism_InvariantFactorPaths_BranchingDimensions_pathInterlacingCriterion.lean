@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_pathInterlacingCriterion
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.pathInterlacingCriterion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:13:31.096791+00:00
 -- url     : https://prove2.me/theorems/6220a9fd-6f07-4e95-8637-eb8f9eb7f9e7

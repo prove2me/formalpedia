@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_quotEqRestrC
 -- name    : Formalism.L2.DIV.quotEqRestrC
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:05.02981+00:00
 -- url     : https://prove2.me/theorems/a59d581a-d0f2-453c-8c6c-5f6571562703

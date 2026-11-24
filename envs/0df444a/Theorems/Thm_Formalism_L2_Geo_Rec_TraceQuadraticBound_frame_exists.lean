@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Geo_Rec_TraceQuadraticBound_frame_exists
 -- name    : Formalism.L2.Geo.Rec.TraceQuadraticBound.frame_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:34:56.77089+00:00
 -- url     : https://prove2.me/theorems/c78a05c1-979d-4d4d-9777-f82738f63385

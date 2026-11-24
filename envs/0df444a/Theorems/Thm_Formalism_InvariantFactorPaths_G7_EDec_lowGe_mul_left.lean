@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_EDec_lowGe_mul_left
 -- name    : Formalism.InvariantFactorPaths.G7.EDec.lowGe_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:17:16.759286+00:00
 -- url     : https://prove2.me/theorems/7fc50d0b-9f11-4718-8d67-387c2ed6944d

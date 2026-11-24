@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Fam_IdTrans_single_mem_nhds
 -- name    : Formalism.L2.Fam.IdTrans.single_mem_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:55.313481+00:00
 -- url     : https://prove2.me/theorems/9478f378-1421-472b-9346-7d40da9b1c87

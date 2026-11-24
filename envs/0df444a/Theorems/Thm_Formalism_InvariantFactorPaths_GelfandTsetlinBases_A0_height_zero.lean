@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A0_height_zero
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.A0.height_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:04:06.995518+00:00
 -- url     : https://prove2.me/theorems/aab6c409-4c11-4882-981b-0bf2bb732c6e

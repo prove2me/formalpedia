@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_frob_WQ
 -- name    : Formalism.L2.G.frob_WQ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:12.420924+00:00
 -- url     : https://prove2.me/theorems/f5640ed9-f33e-473a-9995-e90f8a1d91b5

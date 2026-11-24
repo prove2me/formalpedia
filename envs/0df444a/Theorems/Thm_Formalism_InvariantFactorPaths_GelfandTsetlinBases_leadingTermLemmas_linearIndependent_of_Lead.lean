@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_leadingTermLemmas_linearIndependent_of_Lead
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.leadingTermLemmas.linearIndependent_of_Lead
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:10.21956+00:00
 -- url     : https://prove2.me/theorems/6bf70843-a809-4e7c-b91a-fd0c05dd5bdd

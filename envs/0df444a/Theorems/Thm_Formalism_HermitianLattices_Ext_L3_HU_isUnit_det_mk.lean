@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_isUnit_det_mk
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.isUnit_det_mk
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:47:45.598572+00:00
 -- url     : https://prove2.me/theorems/64bd27a7-de8a-4f6f-b2d2-5c30177b9bef

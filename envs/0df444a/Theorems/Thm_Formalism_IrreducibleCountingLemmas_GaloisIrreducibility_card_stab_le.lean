@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_card_stab_le
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.card_stab_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:12.696135+00:00
 -- url     : https://prove2.me/theorems/e43d8b6c-6c2e-41ac-9f4c-998359a1a0ea

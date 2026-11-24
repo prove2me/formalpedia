@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_contractWedge
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.contractWedge
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:39:44.307663+00:00
 -- url     : https://prove2.me/theorems/909b596c-f8dd-4489-a550-264e81844983

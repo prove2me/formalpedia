@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_raising_comm_holds
 -- name    : Formalism.InvariantFactorPaths.L4.raising_comm_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:36:51.343798+00:00
 -- url     : https://prove2.me/theorems/6a8e73f1-ad63-4f4f-963d-086d560346a0

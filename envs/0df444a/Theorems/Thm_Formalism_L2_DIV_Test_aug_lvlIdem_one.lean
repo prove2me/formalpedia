@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_Test_aug_lvlIdem_one
 -- name    : Formalism.L2.DIV.Test.aug_lvlIdem_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:26.444331+00:00
 -- url     : https://prove2.me/theorems/978857e4-49f7-408e-82dd-dc657e8b5e5b

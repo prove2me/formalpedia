@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_type_count_exact
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.type_count_exact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:08.168671+00:00
 -- url     : https://prove2.me/theorems/aedf7f3d-aa6d-49bc-88ab-782a5eded323

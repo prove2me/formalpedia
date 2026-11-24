@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_FirstDeriv_of
 -- name    : Formalism.InvariantFactorPaths.G7.FirstDeriv_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:27:49.306688+00:00
 -- url     : https://prove2.me/theorems/e693f015-e518-47c1-bca1-ee6019c148c3

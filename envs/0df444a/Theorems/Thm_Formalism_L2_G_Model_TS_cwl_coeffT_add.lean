@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_cwl_coeffT_add
 -- name    : Formalism.L2.G.Model.TS.cwl_coeffT_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:10.278166+00:00
 -- url     : https://prove2.me/theorems/b7327772-c892-40c7-8450-4e8422feb333

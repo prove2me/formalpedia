@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_Model_isActC_actC
 -- name    : GlobalTheory.Cyc.Model.isActC_actC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:45:59.988704+00:00
 -- url     : https://prove2.me/theorems/439268ed-e30c-4d8e-871a-b4c9227f98ea

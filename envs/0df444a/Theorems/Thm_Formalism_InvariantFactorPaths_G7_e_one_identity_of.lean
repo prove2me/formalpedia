@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_e_one_identity_of
 -- name    : Formalism.InvariantFactorPaths.G7.e_one_identity_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:59.98988+00:00
 -- url     : https://prove2.me/theorems/cf2a2a40-1e5d-4917-9129-169c419b0686

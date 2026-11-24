@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_lattice_theorem_of_discharge
 -- name    : Formalism.InvariantFactorPaths.PW.lattice_theorem_of_discharge
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:15.231888+00:00
 -- url     : https://prove2.me/theorems/98698e5b-0ca5-4fac-b169-77fdceaf81da

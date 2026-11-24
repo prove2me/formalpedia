@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_StarEntryOperators_star_norm
 -- name    : Formalism.InvariantFactorPaths.G7.StarEntryOperators.star_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:45.788136+00:00
 -- url     : https://prove2.me/theorems/69d28992-bead-4f88-aacc-8af2679074e0

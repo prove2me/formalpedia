@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_cw_mem_letters
 -- name    : Formalism.L2.G.Model.TS.cw_mem_letters
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:54:58.289026+00:00
 -- url     : https://prove2.me/theorems/acb53b9b-00fc-4445-a549-41aa9830866a

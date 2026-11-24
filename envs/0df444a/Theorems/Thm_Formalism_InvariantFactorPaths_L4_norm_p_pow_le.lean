@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_norm_p_pow_le
 -- name    : Formalism.InvariantFactorPaths.L4.norm_p_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:23.552861+00:00
 -- url     : https://prove2.me/theorems/c677be83-209e-4dee-8602-d8dbf6c0587e

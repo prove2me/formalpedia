@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_Test_regAct_apply
 -- name    : Formalism.L2.DIV.Test.regAct_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:38.918803+00:00
 -- url     : https://prove2.me/theorems/a7e20770-128a-4d31-8b07-e7be5e562b0d

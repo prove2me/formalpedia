@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_vectorCountBounds_nkM_le
 -- name    : Formalism.HermitianLattices.Ext.L3.vectorCountBounds.nkM_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:56:32.620806+00:00
 -- url     : https://prove2.me/theorems/70bc148e-2c3a-4778-b2a3-488789d16812

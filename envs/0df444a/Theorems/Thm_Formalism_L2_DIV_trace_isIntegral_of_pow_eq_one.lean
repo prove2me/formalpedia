@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_trace_isIntegral_of_pow_eq_one
 -- name    : Formalism.L2.DIV.trace_isIntegral_of_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:54:11.439801+00:00
 -- url     : https://prove2.me/theorems/e03bf1a7-f4a4-445f-9c3b-ae3205f8f601

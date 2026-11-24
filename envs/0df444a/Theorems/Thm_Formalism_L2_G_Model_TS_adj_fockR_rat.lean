@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_adj_fockR_rat
 -- name    : Formalism.L2.G.Model.TS.adj_fockR_rat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:54:48.870412+00:00
 -- url     : https://prove2.me/theorems/32b498c4-6772-4d81-80d7-ed31ce92d1f4

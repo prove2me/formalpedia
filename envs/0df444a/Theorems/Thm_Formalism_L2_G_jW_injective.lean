@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_jW_injective
 -- name    : Formalism.L2.G.jW_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:22.339407+00:00
 -- url     : https://prove2.me/theorems/f1646f0b-78a7-4003-850e-da2cff980ddb

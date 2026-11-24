@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_TW_UnitBall_exists_nat_pow
 -- name    : Formalism.IrreducibleCountingLemmas.TW.UnitBall.exists_nat_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:17.759775+00:00
 -- url     : https://prove2.me/theorems/856bc8ce-bd07-4133-90ba-b763fe00f77a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_shiftN_back
 -- name    : Formalism.InvariantFactorPaths.L4.shiftN_back
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:54.647852+00:00
 -- url     : https://prove2.me/theorems/b7b47f03-d381-4420-990e-97821d7e958a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMon_homRep_apply
 -- name    : GlobalTheory.PMon.homRep_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:49:15.61208+00:00
 -- url     : https://prove2.me/theorems/28350ee5-f1f6-47ab-8d07-2d9e39ebb88c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_Vpow_succ
 -- name    : Formalism.L2.FormalSeriesBounds.Vpow_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:46.24553+00:00
 -- url     : https://prove2.me/theorems/7f2c21a2-2755-4b55-b7da-f99cfb76dfff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A0_trunc
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.A0.trunc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:39.482324+00:00
 -- url     : https://prove2.me/theorems/ccb5e29b-6609-41cd-925f-6e05ac358f7a

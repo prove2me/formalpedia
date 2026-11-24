@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qk_D_shift
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qk_D_shift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:21:35.862659+00:00
 -- url     : https://prove2.me/theorems/5df9cce9-3082-4171-9e7f-ef7cd145f5e6

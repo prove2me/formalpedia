@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_ssB_int
 -- name    : Formalism.L2.DIV.ssB_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:58.212354+00:00
 -- url     : https://prove2.me/theorems/c93f52ba-8beb-46aa-a5fd-90e4a79fda94

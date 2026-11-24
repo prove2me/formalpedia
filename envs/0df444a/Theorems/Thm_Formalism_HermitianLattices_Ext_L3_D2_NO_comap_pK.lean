@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_NO_comap_pK
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.NO.comap_pK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:44:31.808149+00:00
 -- url     : https://prove2.me/theorems/5c772058-b113-449c-abe2-5529fe2b4020

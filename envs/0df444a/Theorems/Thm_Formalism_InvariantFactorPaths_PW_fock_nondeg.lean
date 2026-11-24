@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_fock_nondeg
 -- name    : Formalism.InvariantFactorPaths.PW.fock_nondeg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:20:24.935902+00:00
 -- url     : https://prove2.me/theorems/05d17a5c-f0bf-4c57-aae7-d2f590307202

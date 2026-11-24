@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_StepZero_of
 -- name    : Formalism.InvariantFactorPaths.G7.StepZero_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:32:49.834195+00:00
 -- url     : https://prove2.me/theorems/28d9f665-e1ed-466b-82fb-d59606641ded

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_coeff_lvlIdem
 -- name    : Formalism.L2.DIV.coeff_lvlIdem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:54:24.267805+00:00
 -- url     : https://prove2.me/theorems/95ad5960-984e-4ace-a848-675eaab036bb

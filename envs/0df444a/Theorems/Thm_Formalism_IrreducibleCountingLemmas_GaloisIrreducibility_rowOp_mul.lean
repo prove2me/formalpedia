@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_rowOp_mul
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.rowOp_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:44:28.088834+00:00
 -- url     : https://prove2.me/theorems/38c5b12a-1470-4c86-9a60-afe94d504fe8

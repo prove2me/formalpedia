@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_NumD_Int_norm_rep_generators_eq_exp
 -- name    : GlobalTheory.Ex.NumD.Int.norm_rep_generators_eq_exp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:34:26.778312+00:00
 -- url     : https://prove2.me/theorems/09c6ce84-3732-41da-b51f-c1b98833c3f1

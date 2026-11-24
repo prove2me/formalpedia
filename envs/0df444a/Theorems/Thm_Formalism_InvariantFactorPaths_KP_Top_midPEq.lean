@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_Top_midPEq
 -- name    : Formalism.InvariantFactorPaths.KP.Top.midPEq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:39:55.328076+00:00
 -- url     : https://prove2.me/theorems/a310156d-7ba1-40c3-8cb2-be978cf75570

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_mem_sesqL_iff
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.mem_sesqL_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:46:57.056796+00:00
 -- url     : https://prove2.me/theorems/83d3d8c6-d4d8-49bc-a955-14e0f44f9e36

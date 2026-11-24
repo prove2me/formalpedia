@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_enlarge_initial_lattice
 -- name    : Formalism.EigenvalueLevelCeiling.enlarge_initial_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:29:25.010471+00:00
 -- url     : https://prove2.me/theorems/bb716bd0-2505-4351-b138-e34734810e54

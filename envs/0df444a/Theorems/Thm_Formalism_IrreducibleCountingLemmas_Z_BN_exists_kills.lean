@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_BN_exists_kills
 -- name    : Formalism.IrreducibleCountingLemmas.Z.BN.exists_kills
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:42.533208+00:00
 -- url     : https://prove2.me/theorems/078ba28d-cf71-407b-8e53-16853708594a

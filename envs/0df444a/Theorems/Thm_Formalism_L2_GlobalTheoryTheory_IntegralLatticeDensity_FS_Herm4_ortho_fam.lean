@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_FS_Herm4_ortho_fam
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.FS.Herm4.ortho_fam
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:51.849169+00:00
 -- url     : https://prove2.me/theorems/67f3d2ef-3944-4fe5-adaa-b8f75c91a53d

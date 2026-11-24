@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_NO_exists_mul_eq_unif_pow
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.NO.exists_mul_eq_unif_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:44:10.112604+00:00
 -- url     : https://prove2.me/theorems/2d369bbe-833e-480d-88bb-cc2489ad68f4

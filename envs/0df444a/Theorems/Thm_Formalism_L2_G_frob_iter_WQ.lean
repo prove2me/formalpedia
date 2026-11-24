@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_frob_iter_WQ
 -- name    : Formalism.L2.G.frob_iter_WQ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:16.078809+00:00
 -- url     : https://prove2.me/theorems/6f8f2682-0a68-4d6e-81c8-0526a5c6133d

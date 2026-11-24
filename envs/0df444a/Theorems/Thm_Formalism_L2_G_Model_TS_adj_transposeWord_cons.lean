@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_adj_transposeWord_cons
 -- name    : Formalism.L2.G.Model.TS.adj_transposeWord_cons
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:16.461407+00:00
 -- url     : https://prove2.me/theorems/f5032dbf-23f8-43ee-9df6-55d05c4a8539

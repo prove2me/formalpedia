@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_TW_Idx_ord_prod
 -- name    : Formalism.IrreducibleCountingLemmas.TW.Idx.ord_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:17.345794+00:00
 -- url     : https://prove2.me/theorems/765637a5-89ad-4339-bfc1-13cc3ca0c59b

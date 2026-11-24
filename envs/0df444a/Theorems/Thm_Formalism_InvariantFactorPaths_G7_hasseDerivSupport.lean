@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_hasseDerivSupport
 -- name    : Formalism.InvariantFactorPaths.G7.hasseDerivSupport
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:48.589499+00:00
 -- url     : https://prove2.me/theorems/8dc1fe93-c012-4fd6-9c24-e950f5b7ed20

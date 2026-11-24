@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_tsact_chain
 -- name    : Formalism.L2.G.Model.TS.tsact_chain
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:05.972534+00:00
 -- url     : https://prove2.me/theorems/0c8269cb-96bf-4235-82f8-395fb46e76d2

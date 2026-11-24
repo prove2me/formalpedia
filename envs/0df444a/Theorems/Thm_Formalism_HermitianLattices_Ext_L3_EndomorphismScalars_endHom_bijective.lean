@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_EndomorphismScalars_endHom_bijective
 -- name    : Formalism.HermitianLattices.Ext.L3.EndomorphismScalars.endHom_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:31.552011+00:00
 -- url     : https://prove2.me/theorems/daa2ebb5-14ef-472d-84d9-dfe27db6b91a

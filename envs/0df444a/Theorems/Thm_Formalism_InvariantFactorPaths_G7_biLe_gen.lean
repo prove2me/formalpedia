@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_biLe_gen
 -- name    : Formalism.InvariantFactorPaths.G7.biLe_gen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:16.095098+00:00
 -- url     : https://prove2.me/theorems/1e7ea028-f564-45e9-bbcd-290fb0dc632c

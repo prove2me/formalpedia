@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_X_mem_biInt
 -- name    : Formalism.InvariantFactorPaths.G7.X_mem_biInt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:37.913697+00:00
 -- url     : https://prove2.me/theorems/0a7f2a80-3ad0-4d46-866a-c94e4cbacea8

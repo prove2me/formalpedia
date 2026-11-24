@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_Br_finiteAdeleRing_nontrivial
 -- name    : Formalism.L2.GlobalTheoryTheory.Br.finiteAdeleRing_nontrivial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:35:23.682806+00:00
 -- url     : https://prove2.me/theorems/0faabaef-6043-4e87-9bcc-6e0596f4bd55

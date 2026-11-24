@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GSD_ipOf_coord
 -- name    : Formalism.L2.Col.GSD.ipOf_coord
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:48:45.90592+00:00
 -- url     : https://prove2.me/theorems/6e5f8cdf-aad7-47ce-9912-0cd4a018937c

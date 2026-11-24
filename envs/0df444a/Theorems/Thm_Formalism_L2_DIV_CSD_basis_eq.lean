@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_CSD_basis_eq
 -- name    : Formalism.L2.DIV.CSD.basis_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:18.051862+00:00
 -- url     : https://prove2.me/theorems/5071b5fa-af2c-4bfb-8fa2-cc7d02ffc30c

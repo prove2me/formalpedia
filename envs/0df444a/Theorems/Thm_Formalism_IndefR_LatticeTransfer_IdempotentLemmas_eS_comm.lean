@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_IdempotentLemmas_eS_comm
 -- name    : Formalism.IndefR.LatticeTransfer.IdempotentLemmas.eS_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:43:32.636742+00:00
 -- url     : https://prove2.me/theorems/f54155b6-6b2b-4ad9-b66a-d630974c35d5

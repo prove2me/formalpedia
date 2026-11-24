@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_unitaryAbsoluteValueBounds_nkCount_eq_cnt
 -- name    : Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.nkCount_eq_cnt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:03:12.574002+00:00
 -- url     : https://prove2.me/theorems/b7a52301-205e-4153-8c5d-888d7f89f7f3

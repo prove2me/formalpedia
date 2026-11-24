@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Geo_Rec_TraceQuadraticBound_denseRange_emb
 -- name    : Formalism.L2.Geo.Rec.TraceQuadraticBound.denseRange_emb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:34:44.893298+00:00
 -- url     : https://prove2.me/theorems/1e45d68b-7a6a-4199-b159-1aa65ff35ca3

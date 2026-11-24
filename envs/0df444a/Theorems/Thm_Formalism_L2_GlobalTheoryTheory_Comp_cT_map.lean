@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_Comp_cT_map
 -- name    : Formalism.L2.GlobalTheoryTheory.Comp.cT_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:58:23.006027+00:00
 -- url     : https://prove2.me/theorems/3850762b-5f6f-4499-811b-0a808e7433b7

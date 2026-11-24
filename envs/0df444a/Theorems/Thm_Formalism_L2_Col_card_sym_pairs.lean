@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_card_sym_pairs
 -- name    : Formalism.L2.Col.card_sym_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:02.960166+00:00
 -- url     : https://prove2.me/theorems/20354e63-3101-4a61-a53e-59f0514745e4

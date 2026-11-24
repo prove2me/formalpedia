@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_CSD_wt_dvd_DGam
 -- name    : Formalism.L2.DIV.CSD.wt_dvd_DGam
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:10.522595+00:00
 -- url     : https://prove2.me/theorems/a8de40da-7e1a-4d78-800d-c324537c7741

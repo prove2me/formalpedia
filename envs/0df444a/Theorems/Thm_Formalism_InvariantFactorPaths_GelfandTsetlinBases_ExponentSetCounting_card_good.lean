@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_ExponentSetCounting_card_good
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.ExponentSetCounting.card_good
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:12.598463+00:00
 -- url     : https://prove2.me/theorems/fe42a0b2-c8e8-42c9-ac3d-f50569b6f8b1

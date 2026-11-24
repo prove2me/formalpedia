@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_TwoVariableSwapLemmas_partial_coboundary_subst_scale
 -- name    : Formalism.InvariantFactorPaths.G7.TwoVariableSwapLemmas.partial_coboundary_subst_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:32:57.492818+00:00
 -- url     : https://prove2.me/theorems/3f9be8e5-f7fd-4924-b8c9-8caf1d144292

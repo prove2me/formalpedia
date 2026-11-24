@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qs_psD_left
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qs_psD_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:27:51.875954+00:00
 -- url     : https://prove2.me/theorems/37cc1ddb-8bdf-4484-893c-2f21f6527c18

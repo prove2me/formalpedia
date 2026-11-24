@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_LL_free_ehP
 -- name    : Formalism.InvariantFactorPaths.KP.LL.free_ehP
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:36:15.249231+00:00
 -- url     : https://prove2.me/theorems/d589d125-7323-45b5-867d-a4c1afb93dca

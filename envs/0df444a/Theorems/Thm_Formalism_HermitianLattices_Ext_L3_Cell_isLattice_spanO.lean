@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_Cell_isLattice_spanO
 -- name    : Formalism.HermitianLattices.Ext.L3.Cell.isLattice_spanO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:44:15.201801+00:00
 -- url     : https://prove2.me/theorems/dd4bdea8-38a3-4218-9f74-151d0b692965

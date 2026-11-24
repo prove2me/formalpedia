@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A3ev_eq_of_psum
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.A3ev.eq_of_psum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:33.585745+00:00
 -- url     : https://prove2.me/theorems/ddee06e9-2547-45a4-9270-24c25509db74

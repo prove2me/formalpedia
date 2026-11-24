@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Paths_path_ncard
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.Paths.path_ncard
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:59.549752+00:00
 -- url     : https://prove2.me/theorems/7f95c665-6e7c-4c05-8c1f-f921d897980a

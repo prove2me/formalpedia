@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_index_weights_dominance
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.index_weights_dominance
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:39:53.025706+00:00
 -- url     : https://prove2.me/theorems/f12ca61b-59f3-40d7-9cca-f6c8ecf9d843

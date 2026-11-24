@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_trace_asAlgebraHom
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.trace_asAlgebraHom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:18.290496+00:00
 -- url     : https://prove2.me/theorems/dd4a1c28-ecbe-4560-b5a1-c4e1599c67c5

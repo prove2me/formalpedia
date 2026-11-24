@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_algebraMap_mem_pK
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.algebraMap_mem_pK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:29:08.343795+00:00
 -- url     : https://prove2.me/theorems/00d952ea-f1c9-47e8-a3fd-02d37be29734

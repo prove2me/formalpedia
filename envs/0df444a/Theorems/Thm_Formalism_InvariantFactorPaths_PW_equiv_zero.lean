@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_equiv_zero
 -- name    : Formalism.InvariantFactorPaths.PW.equiv_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:23.538212+00:00
 -- url     : https://prove2.me/theorems/7cf4edf9-58f8-4153-b316-5ef3298a5a71

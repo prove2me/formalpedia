@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_hwc_keepC
 -- name    : Formalism.InvariantFactorPaths.L4.hwc_keepC
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:41.739542+00:00
 -- url     : https://prove2.me/theorems/2f6f9b69-1c5c-427d-89c4-1d210c4acad5

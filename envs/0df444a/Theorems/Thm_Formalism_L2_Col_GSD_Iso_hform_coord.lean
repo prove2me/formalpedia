@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GSD_Iso_hform_coord
 -- name    : Formalism.L2.Col.GSD.Iso.hform_coord
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:08:24.078961+00:00
 -- url     : https://prove2.me/theorems/e446db12-bfdb-4f4f-adc3-9116fd674817

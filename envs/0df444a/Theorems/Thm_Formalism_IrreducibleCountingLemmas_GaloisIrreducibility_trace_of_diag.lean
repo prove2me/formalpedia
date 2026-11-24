@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_trace_of_diag
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.trace_of_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:07.721048+00:00
 -- url     : https://prove2.me/theorems/7e9f876e-f76f-47c8-8dac-66cf5273b367

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_GS_weight_pi_apply
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.GS.weight_pi_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:12:24.083805+00:00
 -- url     : https://prove2.me/theorems/e41f837b-b093-477a-ab06-3a70d7af98fa

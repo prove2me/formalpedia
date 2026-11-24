@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Cmp_gMap_std_le
 -- name    : Formalism.L2.G.Cmp.gMap_std_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:32.079244+00:00
 -- url     : https://prove2.me/theorems/53b4d0a6-8889-40d7-91aa-4a0e0268a7a1

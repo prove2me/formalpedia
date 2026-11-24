@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_shiftN_succ
 -- name    : Formalism.InvariantFactorPaths.L4.shiftN_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:30.659822+00:00
 -- url     : https://prove2.me/theorems/15a0f338-a3e0-42ce-9f6a-688b95ec5d08

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_TW_Idx_isLat_inf
 -- name    : Formalism.IrreducibleCountingLemmas.TW.Idx.isLat_inf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:10:03.779451+00:00
 -- url     : https://prove2.me/theorems/158478f4-ebdb-4da4-999d-9add54e8669a

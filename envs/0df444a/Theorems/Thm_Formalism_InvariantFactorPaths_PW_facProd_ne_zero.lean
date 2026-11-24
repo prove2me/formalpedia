@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_facProd_ne_zero
 -- name    : Formalism.InvariantFactorPaths.PW.facProd_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:46:58.314178+00:00
 -- url     : https://prove2.me/theorems/c51e531c-0ebb-4bd9-9770-0f6e32c88dae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_glAct_pow
 -- name    : Formalism.InvariantFactorPaths.L4.glAct_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:39.926396+00:00
 -- url     : https://prove2.me/theorems/d1f20a90-393b-4b99-bfcc-776b8dff2a69

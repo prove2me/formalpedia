@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_NormOneGroup_cond_iff
 -- name    : Formalism.HermitianLattices.Ext.L3.NormOneGroup.cond_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:28.160197+00:00
 -- url     : https://prove2.me/theorems/684e86ed-cfe8-4f6a-a1b9-c411c5bcbff2

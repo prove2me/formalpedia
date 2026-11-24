@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_lamGen_diagEmb
 -- name    : Formalism.L2.Col.lamGen_diagEmb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:17.187076+00:00
 -- url     : https://prove2.me/theorems/98255ebb-437f-420b-a2f1-45188992f84e

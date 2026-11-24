@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_RescaleExact_of
 -- name    : Formalism.InvariantFactorPaths.G7.RescaleExact_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:32:59.817665+00:00
 -- url     : https://prove2.me/theorems/5f153f35-6647-479f-b3a1-00af76c43f87

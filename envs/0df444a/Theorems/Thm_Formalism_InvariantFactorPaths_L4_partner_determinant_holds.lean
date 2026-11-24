@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_partner_determinant_holds
 -- name    : Formalism.InvariantFactorPaths.L4.partner_determinant_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:48.290855+00:00
 -- url     : https://prove2.me/theorems/8e4c6d98-ffe7-4a30-8b59-fb3a67eec230

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Count_norm_index_count_bound
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.Count.norm_index_count_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:35:04.269605+00:00
 -- url     : https://prove2.me/theorems/14f2b475-7abe-42de-aae1-47b3bfbeb560

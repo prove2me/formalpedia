@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_entryCappedBound_of
 -- name    : Formalism.InvariantFactorPaths.G7.entryCappedBound_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:50.326975+00:00
 -- url     : https://prove2.me/theorems/0e987957-9b5a-4fcd-808d-1c5625e2a465

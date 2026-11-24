@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_twisted_idempotent_holds
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.twisted_idempotent_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:35.636175+00:00
 -- url     : https://prove2.me/theorems/c983d1d3-8800-4bb0-aa88-185bdc5512e6

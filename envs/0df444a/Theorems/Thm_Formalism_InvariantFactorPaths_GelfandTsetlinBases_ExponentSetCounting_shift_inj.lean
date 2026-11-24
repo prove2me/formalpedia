@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_ExponentSetCounting_shift_inj
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.ExponentSetCounting.shift_inj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:47.097222+00:00
 -- url     : https://prove2.me/theorems/2db83df8-77bc-4c26-84c0-6d5330a71a1b

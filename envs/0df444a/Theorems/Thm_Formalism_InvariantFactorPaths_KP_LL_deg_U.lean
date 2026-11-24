@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_LL_deg_U
 -- name    : Formalism.InvariantFactorPaths.KP.LL.deg_U
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:36:29.211997+00:00
 -- url     : https://prove2.me/theorems/38f57872-73b7-459b-9565-10bd5356a00a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_udiv_map
 -- name    : Formalism.InvariantFactorPaths.L4.udiv_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:44.202554+00:00
 -- url     : https://prove2.me/theorems/5869cef5-d510-4734-a023-76758323e4b5

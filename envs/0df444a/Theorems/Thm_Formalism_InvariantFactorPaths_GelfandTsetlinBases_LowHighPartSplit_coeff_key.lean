@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_LowHighPartSplit_coeff_key
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.LowHighPartSplit.coeff_key
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:35:03.541589+00:00
 -- url     : https://prove2.me/theorems/86a70e13-e591-4d1a-8436-3cc3e0ef0863

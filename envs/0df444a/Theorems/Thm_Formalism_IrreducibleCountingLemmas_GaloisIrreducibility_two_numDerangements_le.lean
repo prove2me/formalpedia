@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_two_numDerangements_le
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.two_numDerangements_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:11.144645+00:00
 -- url     : https://prove2.me/theorems/835df9b8-f633-44a0-be93-6195ff45c3bf

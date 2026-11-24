@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_card_HPsym
 -- name    : Formalism.L2.Col.card_HPsym
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:21.572739+00:00
 -- url     : https://prove2.me/theorems/b9fe9019-43f5-4195-905c-5e13c8a2eee3

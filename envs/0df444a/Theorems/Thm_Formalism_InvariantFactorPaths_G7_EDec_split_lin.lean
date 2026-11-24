@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_EDec_split_lin
 -- name    : Formalism.InvariantFactorPaths.G7.EDec.split_lin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:12:58.085895+00:00
 -- url     : https://prove2.me/theorems/8b89410d-af0c-439a-bdb0-32aa4b29f747

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_Cell_vd_le_one_of_basis
 -- name    : Formalism.HermitianLattices.Ext.L3.Cell.vd_le_one_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:45:57.294794+00:00
 -- url     : https://prove2.me/theorems/57c7332b-e7ff-44a5-9c13-aab262b21d8e

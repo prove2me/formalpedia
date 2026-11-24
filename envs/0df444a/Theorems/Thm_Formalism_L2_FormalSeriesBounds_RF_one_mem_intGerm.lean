@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_one_mem_intGerm
 -- name    : Formalism.L2.FormalSeriesBounds.RF.one_mem_intGerm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:45.160134+00:00
 -- url     : https://prove2.me/theorems/c946e3d8-92b7-4986-86d2-9486c785eacf

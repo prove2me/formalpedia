@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_unitaryAbsoluteValueBounds_exists_frame
 -- name    : Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.exists_frame
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:17.244155+00:00
 -- url     : https://prove2.me/theorems/0141b7ef-b244-44a4-9877-3dbc49a8baeb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_intPol_zpClosed
 -- name    : Formalism.InvariantFactorPaths.PW.intPol_zpClosed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:22.418568+00:00
 -- url     : https://prove2.me/theorems/71ffd817-efc8-47d1-a381-453de99c82f4

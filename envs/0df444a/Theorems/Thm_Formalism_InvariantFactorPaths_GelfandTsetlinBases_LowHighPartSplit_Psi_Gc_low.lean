@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_LowHighPartSplit_Psi_Gc_low
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.LowHighPartSplit.Psi_Gc_low
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:35:10.26117+00:00
 -- url     : https://prove2.me/theorems/736a5439-0d75-4a66-80a0-fb99bf689194

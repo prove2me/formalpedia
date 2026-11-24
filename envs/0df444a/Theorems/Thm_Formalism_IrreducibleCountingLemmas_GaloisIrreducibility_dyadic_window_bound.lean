@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_dyadic_window_bound
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.dyadic_window_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:45.935221+00:00
 -- url     : https://prove2.me/theorems/3695de16-9409-4c95-8390-c336dedcab15

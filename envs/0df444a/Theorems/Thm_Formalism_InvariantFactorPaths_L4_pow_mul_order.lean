@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_pow_mul_order
 -- name    : Formalism.InvariantFactorPaths.L4.pow_mul_order
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:35.944803+00:00
 -- url     : https://prove2.me/theorems/8a4c6886-dcb3-4bb4-8b35-b313a9147188

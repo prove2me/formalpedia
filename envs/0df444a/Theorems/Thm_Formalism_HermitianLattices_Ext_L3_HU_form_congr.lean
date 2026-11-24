@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_form_congr
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.form_congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:02:30.80385+00:00
 -- url     : https://prove2.me/theorems/effaba00-2a76-4cc1-a30d-b1ff26448752

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_mul_early_letters_holds
 -- name    : Formalism.InvariantFactorPaths.L4.mul_early_letters_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:13.201795+00:00
 -- url     : https://prove2.me/theorems/0cec75af-cfe9-4b30-b1ce-6c830b4ed578

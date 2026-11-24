@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_root_frob
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.root_frob
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:44:09.27457+00:00
 -- url     : https://prove2.me/theorems/60d8611f-ba27-4b0e-a0a9-a51bc21b14ac

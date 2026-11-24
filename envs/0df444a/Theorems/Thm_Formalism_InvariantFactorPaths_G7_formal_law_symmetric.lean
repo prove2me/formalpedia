@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_formal_law_symmetric
 -- name    : Formalism.InvariantFactorPaths.G7.formal_law_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:46.308804+00:00
 -- url     : https://prove2.me/theorems/b0d45967-0d6d-49c2-8dc9-ef237ce36fe7

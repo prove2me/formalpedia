@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_coarse_replicate
 -- name    : Formalism.L2.Col.coarse_replicate
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:56.094598+00:00
 -- url     : https://prove2.me/theorems/c3d6ee12-c6f6-401d-b598-b834471f323a

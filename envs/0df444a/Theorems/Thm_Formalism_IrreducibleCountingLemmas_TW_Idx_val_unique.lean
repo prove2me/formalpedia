@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_TW_Idx_val_unique
 -- name    : Formalism.IrreducibleCountingLemmas.TW.Idx.val_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:32.40379+00:00
 -- url     : https://prove2.me/theorems/257add03-7cd5-48fc-b947-bc302f87e3c6

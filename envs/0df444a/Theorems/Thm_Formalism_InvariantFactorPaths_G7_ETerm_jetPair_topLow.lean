@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_ETerm_jetPair_topLow
 -- name    : Formalism.InvariantFactorPaths.G7.ETerm.jetPair_topLow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:27:04.422669+00:00
 -- url     : https://prove2.me/theorems/9a6863a8-ff00-460a-97d2-851c275954a2

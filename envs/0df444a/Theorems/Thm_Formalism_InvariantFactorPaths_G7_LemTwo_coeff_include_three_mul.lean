@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LemTwo_coeff_include_three_mul
 -- name    : Formalism.InvariantFactorPaths.G7.LemTwo.coeff_include_three_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:23.709003+00:00
 -- url     : https://prove2.me/theorems/e3389811-f0a5-408a-84a8-0f55b70153af

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_finite_placesOver
 -- name    : Formalism.L2.G.finite_placesOver
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:53.183799+00:00
 -- url     : https://prove2.me/theorems/d0ab7aed-1d82-4032-99cd-86742332ae0c

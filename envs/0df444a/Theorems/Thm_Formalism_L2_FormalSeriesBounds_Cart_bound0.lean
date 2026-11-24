@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_Cart_bound0
 -- name    : Formalism.L2.FormalSeriesBounds.Cart.bound0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:47.691211+00:00
 -- url     : https://prove2.me/theorems/c3c77ac8-2904-49ff-8c7e-91128658321d

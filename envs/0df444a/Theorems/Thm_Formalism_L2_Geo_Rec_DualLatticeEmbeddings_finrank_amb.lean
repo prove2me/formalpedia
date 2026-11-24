@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Geo_Rec_DualLatticeEmbeddings_finrank_amb
 -- name    : Formalism.L2.Geo.Rec.DualLatticeEmbeddings.finrank_amb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:35:41.760852+00:00
 -- url     : https://prove2.me/theorems/6a413f98-e2b2-4413-998c-76ca3145f246

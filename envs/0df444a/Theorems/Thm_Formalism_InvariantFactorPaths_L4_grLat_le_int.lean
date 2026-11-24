@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_grLat_le_int
 -- name    : Formalism.InvariantFactorPaths.L4.grLat_le_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:52.797088+00:00
 -- url     : https://prove2.me/theorems/34810d63-22ec-438f-8ed3-db99eb53819c

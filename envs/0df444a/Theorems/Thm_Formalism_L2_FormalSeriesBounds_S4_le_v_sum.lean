@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_S4_le_v_sum
 -- name    : Formalism.L2.FormalSeriesBounds.S4.le_v_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:42.184158+00:00
 -- url     : https://prove2.me/theorems/8521e19a-613d-42d8-ad52-25181e34359b

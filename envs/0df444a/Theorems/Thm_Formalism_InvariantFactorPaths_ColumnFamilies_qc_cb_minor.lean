@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qc_cb_minor
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qc_cb_minor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:18:52.051016+00:00
 -- url     : https://prove2.me/theorems/fb63e6ea-9658-4a72-a06e-5a5e2129b08e

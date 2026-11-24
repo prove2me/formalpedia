@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_EDec_low_order_first_sum
 -- name    : Formalism.InvariantFactorPaths.G7.EDec.low_order_first_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:14:33.801134+00:00
 -- url     : https://prove2.me/theorems/78b7e0b1-7c3e-4742-81fe-fd277741542a

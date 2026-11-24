@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_discharge_of_pwe
 -- name    : Formalism.InvariantFactorPaths.PW.discharge_of_pwe
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:12.428652+00:00
 -- url     : https://prove2.me/theorems/855858b7-3909-4eef-843b-9fcb26e1eddc

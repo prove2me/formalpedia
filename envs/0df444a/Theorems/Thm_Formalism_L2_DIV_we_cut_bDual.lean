@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_we_cut_bDual
 -- name    : Formalism.L2.DIV.we_cut_bDual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:42.210476+00:00
 -- url     : https://prove2.me/theorems/659e30f5-2f81-491f-bb69-276b595e409c

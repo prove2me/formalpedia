@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_CharacterLemmas_char_complex
 -- name    : Formalism.IndefR.LatticeTransfer.CharacterLemmas.char_complex
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:21.680243+00:00
 -- url     : https://prove2.me/theorems/3aee7a64-8ebf-437b-a50e-e7ff48ae05c9

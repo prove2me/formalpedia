@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_unitaryAbsoluteValueBounds_abs_x_le
 -- name    : Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.abs_x_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:25.021666+00:00
 -- url     : https://prove2.me/theorems/2f0ae797-8188-46a2-9811-06fc9260ba25

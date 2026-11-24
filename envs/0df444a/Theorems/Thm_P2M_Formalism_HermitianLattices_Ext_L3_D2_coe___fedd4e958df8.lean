@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLattices_Ext_L3_D2_coe___fedd4e958df8
 -- name    : P2M_Formalism_HermitianLattices_Ext_L3_D2_coe___fedd4e958df8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:48:48.909711+00:00
 -- url     : https://prove2.me/theorems/51ef3c4d-f26f-45aa-8d8c-698f7695ad76

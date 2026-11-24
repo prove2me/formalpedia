@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_CharacteristicFromRanks_one_mem_IntGerm
 -- name    : Formalism.L2.FormalSeriesBounds.CharacteristicFromRanks.one_mem_IntGerm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:36.375556+00:00
 -- url     : https://prove2.me/theorems/32ae06dd-b8e3-4243-a7a8-311bd3eac07a

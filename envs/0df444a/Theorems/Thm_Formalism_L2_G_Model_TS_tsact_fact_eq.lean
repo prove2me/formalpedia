@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_tsact_fact_eq
 -- name    : Formalism.L2.G.Model.TS.tsact_fact_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:27.282996+00:00
 -- url     : https://prove2.me/theorems/1a08120f-f550-4607-87b7-e4f3dfab0085

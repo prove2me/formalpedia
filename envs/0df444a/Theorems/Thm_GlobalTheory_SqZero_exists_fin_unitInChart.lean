@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_exists_fin_unitInChart
 -- name    : GlobalTheory.SqZero.exists_fin_unitInChart
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:01:58.717897+00:00
 -- url     : https://prove2.me/theorems/e7d20170-83b9-49e8-b05e-7b43b5030850

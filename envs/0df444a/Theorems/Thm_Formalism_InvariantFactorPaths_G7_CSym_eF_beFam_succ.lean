@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_CSym_eF_beFam_succ
 -- name    : Formalism.InvariantFactorPaths.G7.CSym.eF_beFam_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:25:52.151535+00:00
 -- url     : https://prove2.me/theorems/c4709ada-506f-4ad0-b89c-ad8a991b21fd

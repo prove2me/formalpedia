@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Geo_Def_G1_dual_frame
 -- name    : Formalism.L2.Geo.Def.G1.dual_frame
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:34:54.306948+00:00
 -- url     : https://prove2.me/theorems/5ffbca7f-bfc5-474f-b293-8b5521439c7b

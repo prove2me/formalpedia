@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ZeroFreeRegionGL2_numerical_bound_first
 -- name    : Formalism.HermitianLattices.ZeroFreeRegionGL2.numerical_bound_first
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:37:54.711989+00:00
 -- url     : https://prove2.me/theorems/4d4d9909-ae76-4404-9623-e588fb9b7013

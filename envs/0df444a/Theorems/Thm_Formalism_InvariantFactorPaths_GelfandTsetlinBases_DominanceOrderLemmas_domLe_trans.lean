@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_DominanceOrderLemmas_domLe_trans
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.DominanceOrderLemmas.domLe_trans
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:35.83096+00:00
 -- url     : https://prove2.me/theorems/6ba80d05-e710-46b5-bb0e-8c9787d70e0f

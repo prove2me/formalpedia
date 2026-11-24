@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_theorem_s_from_k_one_of
 -- name    : Formalism.InvariantFactorPaths.G7.theorem_s_from_k_one_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:25.90519+00:00
 -- url     : https://prove2.me/theorems/204fa40e-ee0f-4155-871c-4993b5988e0a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMon_kronecker_transpose_mulVec
 -- name    : GlobalTheory.PMon.kronecker_transpose_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:49:37.435106+00:00
 -- url     : https://prove2.me/theorems/9b9672d2-3e06-4a4f-82d8-a1b892a641eb

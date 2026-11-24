@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_plAt_inj
 -- name    : Formalism.L2.FormalSeriesBounds.RF.plAt_inj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:51:17.071789+00:00
 -- url     : https://prove2.me/theorems/7f0696a9-19b1-4e9b-82d3-c1e28da3994f

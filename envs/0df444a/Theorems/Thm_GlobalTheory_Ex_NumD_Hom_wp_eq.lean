@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_NumD_Hom_wp_eq
 -- name    : GlobalTheory.Ex.NumD.Hom.wp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:14:54.508584+00:00
 -- url     : https://prove2.me/theorems/f22fe535-1e6b-49a1-ad6b-5e1db55090ce

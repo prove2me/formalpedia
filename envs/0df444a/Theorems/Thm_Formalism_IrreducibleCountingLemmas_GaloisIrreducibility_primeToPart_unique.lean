@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_primeToPart_unique
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.primeToPart_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:48:18.694768+00:00
 -- url     : https://prove2.me/theorems/365bae20-2c48-4b37-bbb9-651a68b0c3fd

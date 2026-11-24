@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_Comp_smul_hat
 -- name    : Formalism.L2.GlobalTheoryTheory.Comp.smul_hat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:42.680022+00:00
 -- url     : https://prove2.me/theorems/4e16c8ff-bb86-41cb-a4be-dcf1ac277870

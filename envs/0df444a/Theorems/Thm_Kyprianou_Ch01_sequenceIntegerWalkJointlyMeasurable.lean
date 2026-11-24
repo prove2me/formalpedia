@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_sequenceIntegerWalkJointlyMeasurable
 -- name    : Kyprianou.Ch01.sequenceIntegerWalkJointlyMeasurable
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-24T02:38:08.924277+00:00
 -- url     : https://prove2.me/theorems/4d2e502e-659b-4717-a92a-10108e73838d

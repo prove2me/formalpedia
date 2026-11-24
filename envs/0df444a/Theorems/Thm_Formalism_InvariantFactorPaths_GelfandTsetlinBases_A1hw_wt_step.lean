@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A1hw_wt_step
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.A1hw.wt_step
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:23.088628+00:00
 -- url     : https://prove2.me/theorems/a9740aeb-20fd-499c-8a7d-73a08994f155

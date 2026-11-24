@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_EDec_integral_second_sum_variant
 -- name    : Formalism.InvariantFactorPaths.G7.EDec.integral_second_sum_variant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:14:23.986847+00:00
 -- url     : https://prove2.me/theorems/48213575-aad3-443c-b7cd-067d587ab5e0

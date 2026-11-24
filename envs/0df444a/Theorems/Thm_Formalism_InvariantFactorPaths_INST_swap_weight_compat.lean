@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_swap_weight_compat
 -- name    : Formalism.InvariantFactorPaths.INST.swap_weight_compat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:36:40.24461+00:00
 -- url     : https://prove2.me/theorems/c788c72e-dfe3-4668-b61c-4a621263040e

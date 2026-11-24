@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A3ev_domLe_eq
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.A3ev.domLe_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:56:53.289807+00:00
 -- url     : https://prove2.me/theorems/8f298cbe-fa20-4ba8-9cee-14229a9502a1

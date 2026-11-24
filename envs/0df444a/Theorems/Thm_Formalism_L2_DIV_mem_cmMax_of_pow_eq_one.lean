@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_mem_cmMax_of_pow_eq_one
 -- name    : Formalism.L2.DIV.mem_cmMax_of_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:54:32.525163+00:00
 -- url     : https://prove2.me/theorems/e51e316b-e610-46fe-a468-c09dee3cd091

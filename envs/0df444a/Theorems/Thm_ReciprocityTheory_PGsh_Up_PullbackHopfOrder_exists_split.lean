@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_PullbackHopfOrder_exists_split
 -- name    : ReciprocityTheory.PGsh.Up.PullbackHopfOrder.exists_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:45:47.240545+00:00
 -- url     : https://prove2.me/theorems/8573dd18-aec9-47cd-9cb4-b75fa963f8bd

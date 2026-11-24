@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LemOne_norm_coeff_mul_choose
 -- name    : Formalism.InvariantFactorPaths.G7.LemOne.norm_coeff_mul_choose
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:54:43.059957+00:00
 -- url     : https://prove2.me/theorems/ed8e0079-3be8-4b92-8fe3-e0fe14ba9d7f

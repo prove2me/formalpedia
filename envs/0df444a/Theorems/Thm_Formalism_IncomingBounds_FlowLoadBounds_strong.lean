@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_FlowLoadBounds_strong
 -- name    : Formalism.IncomingBounds.FlowLoadBounds.strong
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:45:17.886321+00:00
 -- url     : https://prove2.me/theorems/bd67a091-eb5d-4b98-bd88-0e8397c4863c

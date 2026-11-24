@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LemOne_integral_pow
 -- name    : Formalism.InvariantFactorPaths.G7.LemOne.integral_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:32:36.725247+00:00
 -- url     : https://prove2.me/theorems/3bec362e-1b81-4069-bb4e-00bc2c1450e8

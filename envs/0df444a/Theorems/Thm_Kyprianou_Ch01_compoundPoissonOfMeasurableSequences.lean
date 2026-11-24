@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch01_compoundPoissonOfMeasurableSequences
 -- name    : Kyprianou.Ch01.compoundPoissonOfMeasurableSequences
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-23T23:50:33.786681+00:00
 -- url     : https://prove2.me/theorems/40b57648-d39e-430a-a57f-200d5fd672e0

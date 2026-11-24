@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qs_collapse
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qs_collapse
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:37:50.004271+00:00
 -- url     : https://prove2.me/theorems/d9721139-f773-4f76-83d1-003d2741c3c1

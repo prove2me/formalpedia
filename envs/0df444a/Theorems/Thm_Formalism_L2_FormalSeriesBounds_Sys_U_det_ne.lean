@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_Sys_U_det_ne
 -- name    : Formalism.L2.FormalSeriesBounds.Sys.U_det_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:51.745252+00:00
 -- url     : https://prove2.me/theorems/b12fcaf2-e5ac-4fbe-957e-7e274a6b0685

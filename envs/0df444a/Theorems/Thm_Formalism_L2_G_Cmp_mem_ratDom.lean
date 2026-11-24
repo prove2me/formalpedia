@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Cmp_mem_ratDom
 -- name    : Formalism.L2.G.Cmp.mem_ratDom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:54:23.8488+00:00
 -- url     : https://prove2.me/theorems/b10fa147-c192-4775-87b0-d30cbe1fa0e3

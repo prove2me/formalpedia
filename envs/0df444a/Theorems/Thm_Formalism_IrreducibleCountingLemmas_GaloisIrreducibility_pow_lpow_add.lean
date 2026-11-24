@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_pow_lpow_add
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.pow_lpow_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:44:48.331817+00:00
 -- url     : https://prove2.me/theorems/191c3750-e3da-4a4b-8a1b-d693571be254

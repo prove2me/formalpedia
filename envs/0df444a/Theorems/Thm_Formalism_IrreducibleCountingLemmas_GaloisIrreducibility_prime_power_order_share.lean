@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_prime_power_order_share
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.prime_power_order_share
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:48:26.012505+00:00
 -- url     : https://prove2.me/theorems/336da8a0-3b26-42c5-a46f-3277a73836dc

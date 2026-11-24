@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_IntCl_complete_of_pow
 -- name    : Formalism.L2.G.IntCl.complete_of_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:54:28.356321+00:00
 -- url     : https://prove2.me/theorems/137412d5-49a0-4dc7-a31d-8e6ca5dba39d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_TW_length_base_change_dvr
 -- name    : Formalism.IrreducibleCountingLemmas.TW.length_base_change_dvr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:31.183089+00:00
 -- url     : https://prove2.me/theorems/e81c652b-c276-44df-8c04-26f15bd33717

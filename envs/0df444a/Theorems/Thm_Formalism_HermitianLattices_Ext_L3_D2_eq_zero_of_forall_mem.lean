@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_eq_zero_of_forall_mem
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.eq_zero_of_forall_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:46:38.454814+00:00
 -- url     : https://prove2.me/theorems/fdfd81a7-3fbb-4bb8-b829-38636e4fff3e

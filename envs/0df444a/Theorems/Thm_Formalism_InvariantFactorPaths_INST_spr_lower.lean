@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_spr_lower
 -- name    : Formalism.InvariantFactorPaths.INST.spr_lower
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:05.805591+00:00
 -- url     : https://prove2.me/theorems/e77230f5-2c60-488e-9611-cdebf1671b19

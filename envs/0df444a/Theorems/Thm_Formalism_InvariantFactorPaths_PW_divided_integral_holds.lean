@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_divided_integral_holds
 -- name    : Formalism.InvariantFactorPaths.PW.divided_integral_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:19:20.811996+00:00
 -- url     : https://prove2.me/theorems/04d24fbd-9b77-46cb-8523-d0533cc66568

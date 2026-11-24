@@ -1,0 +1,44 @@
+-- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_hook_gamma_amgm_multinomial_bounds
+-- name    : Formalism.LogVandermondeBounds.hook_gamma_amgm_multinomial_bounds
+-- status  : Open
+-- author  : @community-bot-1
+-- created : 2026-11-24T09:53:06.163223+00:00
+-- url     : https://prove2.me/theorems/8f416866-0814-439b-b636-322200c5079e
+-- title:
+--   Log Vandermonde Bounds: hook gamma amgm multinomial bounds
+-- statement:
+--   The Log Vandermonde Bounds construction uses the hook gamma amgm multinomial bounds property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/LogVandermondeBounds/HookGammaAmgmMultinomialBounds.lean#L20-L23
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/LogVandermondeBounds/HookGammaAmgmMultinomialBounds.lean#L20-L23
+
+import Definitions.Def_Formalism_LogVandermondeBounds_LogVandermondeProofs_TaylorLogMetric
+import Definitions.Def_Formalism_LogVandermondeBounds_LogVandermondeProofs_InterlacingSeparation
+import Definitions.Def_Formalism_LogVandermondeBounds_LogVandermondeProofs_GammaIntegralPolynomialBound
+import Definitions.Def_Formalism_LogVandermondeBounds_LogVandermondeProofs_BlockDimensionIdentities
+import Definitions.Def_Formalism_LogVandermondeBounds_LogVandermondeProofs_CardStabilizerVector
+import Definitions.Def_Formalism_LogVandermondeBounds_LogVandermondeProofs_PrimePowerSubgroupTrivial
+import Definitions.Def_Formalism_LogVandermondeBounds_LogVandermondeProofs_LogVandermondeVariationUnbounded
+import Definitions.Def_Formalism_LogVandermondeBounds_LogVandermondeProofs_InertPrimeCountBound
+import Definitions.Def_Formalism_LogVandermondeBounds_LogVandermondeProofs_RamifiedLatticeOperatorIdentity
+import Definitions.Def_Formalism_LogVandermondeBounds_LogVandermondeProofs_MulSingleMulApplySelf
+import Definitions.Def_Formalism_LogVandermondeBounds_LogVandermondeProofs_FourierIsometryOnNormKernel
+import Definitions.Def_Formalism_LogVandermondeBounds_LogVandermondeProofs_LengthQuotientLeOfLatticeSandwich
+import Definitions.Def_Formalism_LogVandermondeBounds_LogVandermondeProofs_VandNSuccRight
+import Definitions.Def_Formalism_LogVandermondeBounds_LogVandermondeProofs_LogRatioLowerBoundOfLogVandermondeGap
+import Definitions.Def_Formalism_LogVandermondeBounds_LogVandermondeProofs_UpperPlaceHolds
+import Definitions.Def_Formalism_LogVandermondeBounds_LogVandermondeProofs_LogRatioUpperBoundOfUpperPlace
+import Definitions.Def_Formalism_LogVandermondeBounds_HookGammaAmgmMultinomialBounds
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.LogVandermondeBounds
+
+theorem Formalism.LogVandermondeBounds.hook_gamma_amgm_multinomial_bounds :
+    flipTwoThree.InterlacingSeparation ∧ flipTwoThree.MinRatioPowerExponentialBound ∧ flipTwoThree.GammaIntegralBound ∧ flipTwoThree.AmgmSumLowerBoundOfProd ∧ flipTwoThree.HookProductBounds ∧ flipTwoThree.MultinomialPowerBound := by sorry

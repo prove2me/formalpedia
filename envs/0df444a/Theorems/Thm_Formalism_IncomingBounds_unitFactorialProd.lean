@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_unitFactorialProd
 -- name    : Formalism.IncomingBounds.unitFactorialProd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:00.811324+00:00
 -- url     : https://prove2.me/theorems/882bd9b0-fcbf-4af8-b15a-0a0079dfe789

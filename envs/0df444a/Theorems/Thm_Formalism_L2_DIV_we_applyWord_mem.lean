@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_we_applyWord_mem
 -- name    : Formalism.L2.DIV.we_applyWord_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:29.982988+00:00
 -- url     : https://prove2.me/theorems/aa4006de-63cc-4fcb-b66b-d00f9e1b45ff

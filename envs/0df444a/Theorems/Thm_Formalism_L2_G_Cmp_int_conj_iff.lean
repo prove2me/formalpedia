@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Cmp_int_conj_iff
 -- name    : Formalism.L2.G.Cmp.int_conj_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:37.278526+00:00
 -- url     : https://prove2.me/theorems/a647a8e6-a70e-4343-ba89-4bd9ba118080

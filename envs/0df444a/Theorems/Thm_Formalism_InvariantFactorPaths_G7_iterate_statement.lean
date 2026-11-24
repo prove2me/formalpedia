@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_iterate_statement
 -- name    : Formalism.InvariantFactorPaths.G7.iterate_statement
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:04:59.011483+00:00
 -- url     : https://prove2.me/theorems/af3e9a7c-47b7-4d61-a1ec-175ab606aea2

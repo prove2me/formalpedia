@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_DworkIntegrality_int_of_frob
 -- name    : Formalism.InvariantFactorPaths.G7.DworkIntegrality.int_of_frob
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:26:31.154254+00:00
 -- url     : https://prove2.me/theorems/8ec6fb42-da60-4b24-91df-568af41f12d1

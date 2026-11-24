@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_exists_ext
 -- name    : Formalism.InvariantFactorPaths.PW.exists_ext
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:03.521804+00:00
 -- url     : https://prove2.me/theorems/53582ab1-31a5-4b90-8aab-8f4b4de10113

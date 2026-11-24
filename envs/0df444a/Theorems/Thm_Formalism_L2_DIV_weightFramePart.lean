@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_weightFramePart
 -- name    : Formalism.L2.DIV.weightFramePart
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:22.625361+00:00
 -- url     : https://prove2.me/theorems/ddf87ded-abf4-41cd-9667-981ff76dfa4a

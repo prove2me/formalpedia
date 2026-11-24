@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A3ev_brk_eq_prod
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.A3ev.brk_eq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:38.720725+00:00
 -- url     : https://prove2.me/theorems/ddc2967f-2fa6-4420-933b-0f154a7f44b5

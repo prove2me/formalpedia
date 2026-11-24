@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_wtOf_compl
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.wtOf_compl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:48:08.057913+00:00
 -- url     : https://prove2.me/theorems/0bcc233f-9032-4cba-8b25-1b86c61feb5e

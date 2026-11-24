@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_TYPES_finrank_bc
 -- name    : Formalism.IrreducibleCountingLemmas.TYPES.finrank_bc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:21.289719+00:00
 -- url     : https://prove2.me/theorems/23a76347-0bf4-4f34-b938-1b2e1c5bd948

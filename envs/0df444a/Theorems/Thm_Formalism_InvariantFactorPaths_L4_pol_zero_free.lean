@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_pol_zero_free
 -- name    : Formalism.InvariantFactorPaths.L4.pol_zero_free
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:20.189312+00:00
 -- url     : https://prove2.me/theorems/37caedc7-2b36-4850-a7af-ec8e769b2996

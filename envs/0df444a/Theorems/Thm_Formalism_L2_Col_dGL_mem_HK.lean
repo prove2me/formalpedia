@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_dGL_mem_HK
 -- name    : Formalism.L2.Col.dGL_mem_HK
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:51:07.596692+00:00
 -- url     : https://prove2.me/theorems/a717da8f-9f61-413a-87fe-4ee1236b4d26

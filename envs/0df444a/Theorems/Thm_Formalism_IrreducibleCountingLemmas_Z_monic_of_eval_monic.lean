@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_monic_of_eval_monic
 -- name    : Formalism.IrreducibleCountingLemmas.Z.monic_of_eval_monic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:21.911611+00:00
 -- url     : https://prove2.me/theorems/f3f78cb9-effd-46f4-a31e-52f261b270dd

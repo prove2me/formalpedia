@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_sw_weyl_map
 -- name    : Formalism.L2.G.Model.sw_weyl_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:45.887509+00:00
 -- url     : https://prove2.me/theorems/369db93c-0d63-4076-9033-6462777096ff

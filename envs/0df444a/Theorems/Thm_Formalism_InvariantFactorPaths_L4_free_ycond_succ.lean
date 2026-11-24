@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_free_ycond_succ
 -- name    : Formalism.InvariantFactorPaths.L4.free_ycond_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:42.529946+00:00
 -- url     : https://prove2.me/theorems/4829b65a-2fae-4a04-9645-22c943612ebe

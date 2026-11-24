@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_mem_transLat_gLat
 -- name    : Formalism.L2.DIV.mem_transLat_gLat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:46:30.056258+00:00
 -- url     : https://prove2.me/theorems/70ebf599-f559-4133-9bb0-f1c72497752f

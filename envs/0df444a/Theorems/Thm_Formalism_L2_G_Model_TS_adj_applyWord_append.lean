@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_adj_applyWord_append
 -- name    : Formalism.L2.G.Model.TS.adj_applyWord_append
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:08.641003+00:00
 -- url     : https://prove2.me/theorems/62faadf7-6f65-4808-a695-aacb75f4f0d5

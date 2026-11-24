@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_class_multiplication
 -- name    : Formalism.InvariantFactorPaths.G7.class_multiplication
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:56.190451+00:00
 -- url     : https://prove2.me/theorems/20da1035-0e7b-4f0a-9dff-aabb7525a9d0

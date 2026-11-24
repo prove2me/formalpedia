@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_WCB_exists_cayley
 -- name    : Formalism.HermitianLattices.Ext.L3.WCB.exists_cayley
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:48:45.763149+00:00
 -- url     : https://prove2.me/theorems/b30aec8c-783d-478d-89c6-3588b5406f56

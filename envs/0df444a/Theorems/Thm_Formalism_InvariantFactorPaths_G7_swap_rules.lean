@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_swap_rules
 -- name    : Formalism.InvariantFactorPaths.G7.swap_rules
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:08.711542+00:00
 -- url     : https://prove2.me/theorems/200b2ca0-07c2-442f-bbac-ac736d54f5ca

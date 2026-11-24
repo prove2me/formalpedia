@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_num_uFac_succ
 -- name    : Formalism.IncomingBounds.num_uFac_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:09:51.216797+00:00
 -- url     : https://prove2.me/theorems/b8db9c59-383d-4b05-92b7-cd9a0b995c15

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_LL_lat_tie
 -- name    : Formalism.InvariantFactorPaths.KP.LL.lat_tie
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:36:35.549804+00:00
 -- url     : https://prove2.me/theorems/623a16a3-59cf-4683-9e32-17f24cc238ce

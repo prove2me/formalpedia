@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_le_of_atW_le
 -- name    : Formalism.L2.Col.le_of_atW_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:31.754256+00:00
 -- url     : https://prove2.me/theorems/6d1ebcd6-c887-49df-9777-cbb945d11903

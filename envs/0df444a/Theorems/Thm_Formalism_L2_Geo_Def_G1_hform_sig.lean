@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Geo_Def_G1_hform_sig
 -- name    : Formalism.L2.Geo.Def.G1.hform_sig
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:23.748679+00:00
 -- url     : https://prove2.me/theorems/746bffb6-f57c-4b41-9b2a-6bd70a34782a

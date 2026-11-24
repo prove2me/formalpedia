@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_WModel_p_ne_zero
 -- name    : Formalism.InvariantFactorPaths.G7.WModel.p_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:56:30.299078+00:00
 -- url     : https://prove2.me/theorems/386f4fd2-fc56-4274-b4b1-376d8d6c189e

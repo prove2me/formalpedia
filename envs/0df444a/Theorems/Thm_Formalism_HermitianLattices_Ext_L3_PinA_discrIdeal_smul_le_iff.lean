@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_PinA_discrIdeal_smul_le_iff
 -- name    : Formalism.HermitianLattices.Ext.L3.PinA.discrIdeal_smul_le_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:01:56.360501+00:00
 -- url     : https://prove2.me/theorems/defdb09e-5ca5-4036-a1b4-c1bd98c5e64c

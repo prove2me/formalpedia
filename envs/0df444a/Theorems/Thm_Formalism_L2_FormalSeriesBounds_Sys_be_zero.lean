@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_Sys_be_zero
 -- name    : Formalism.L2.FormalSeriesBounds.Sys.be_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:58:00.184238+00:00
 -- url     : https://prove2.me/theorems/c1f342c1-7d6e-41c8-9b73-43a950bc900a

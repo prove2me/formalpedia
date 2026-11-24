@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_wl_transport
 -- name    : Formalism.InvariantFactorPaths.PW.wl_transport
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:13.025087+00:00
 -- url     : https://prove2.me/theorems/8fc802b7-3855-4467-a2cd-3a1f5e812c37

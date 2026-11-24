@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_prime_to_part_endomorphism
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.prime_to_part_endomorphism
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:44:20.915551+00:00
 -- url     : https://prove2.me/theorems/76c17335-75fd-4136-bea4-112deca5e851

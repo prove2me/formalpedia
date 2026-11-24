@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A0_wExp_weight
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.A0.wExp_weight
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:34.33875+00:00
 -- url     : https://prove2.me/theorems/dbeeda79-1412-4af4-bc79-40895a4c5964

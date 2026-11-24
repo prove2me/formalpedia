@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_DominanceOrderLemmas_vars_act
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.DominanceOrderLemmas.vars_act
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:26.231326+00:00
 -- url     : https://prove2.me/theorems/599e6598-d673-4668-9995-e96a5e159ac7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_norm_fontaineTheta_eq_one_of_isUnit_coeff_one
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.norm_fontaineTheta_eq_one_of_isUnit_coeff_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:46:05.999802+00:00
 -- url     : https://prove2.me/theorems/fc19be62-1cb2-44fb-8e8f-74d25892c876

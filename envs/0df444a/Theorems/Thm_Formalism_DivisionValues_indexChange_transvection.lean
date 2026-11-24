@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_indexChange_transvection
 -- name    : Formalism.DivisionValues.indexChange_transvection
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:31:43.369751+00:00
 -- url     : https://prove2.me/theorems/95c69e90-2aaf-49b1-bba1-47da690628af

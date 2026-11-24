@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_we_cut_inj
 -- name    : Formalism.L2.DIV.we_cut_inj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:50.99754+00:00
 -- url     : https://prove2.me/theorems/59d2e52a-061a-4ee2-ac7f-3ca9b57b1097

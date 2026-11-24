@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_mono_not_adm
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.mono_not_adm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:44:15.111105+00:00
 -- url     : https://prove2.me/theorems/c15228bf-3657-476b-9c53-56a0559ac045

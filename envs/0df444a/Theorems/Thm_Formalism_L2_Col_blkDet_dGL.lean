@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_blkDet_dGL
 -- name    : Formalism.L2.Col.blkDet_dGL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:02.28605+00:00
 -- url     : https://prove2.me/theorems/15e06a8f-6c1d-41e3-89fc-2a660049da29

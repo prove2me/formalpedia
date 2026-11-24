@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_gx_linInd
 -- name    : Formalism.L2.Col.gx_linInd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:12.910087+00:00
 -- url     : https://prove2.me/theorems/07adf83b-1e6e-4345-b95d-9a37af929125

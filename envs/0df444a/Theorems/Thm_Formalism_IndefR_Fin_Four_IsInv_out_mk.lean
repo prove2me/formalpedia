@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_IsInv_out_mk
 -- name    : Formalism.IndefR.Fin.Four.IsInv.out_mk
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:21:14.967524+00:00
 -- url     : https://prove2.me/theorems/47ec2272-8990-4d4b-b89b-33c85ce94b5b

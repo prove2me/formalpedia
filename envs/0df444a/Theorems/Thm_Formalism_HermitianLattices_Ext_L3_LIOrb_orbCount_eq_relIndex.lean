@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LIOrb_orbCount_eq_relIndex
 -- name    : Formalism.HermitianLattices.Ext.L3.LIOrb.orbCount_eq_relIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:47:59.657847+00:00
 -- url     : https://prove2.me/theorems/c784e33a-eba6-4f3a-a3b3-7e2173686018

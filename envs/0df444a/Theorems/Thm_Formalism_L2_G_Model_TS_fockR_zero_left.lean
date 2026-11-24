@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_fockR_zero_left
 -- name    : Formalism.L2.G.Model.TS.fockR_zero_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:33.154169+00:00
 -- url     : https://prove2.me/theorems/f36ef1cd-832b-4677-b4ab-fd7e871c29b5

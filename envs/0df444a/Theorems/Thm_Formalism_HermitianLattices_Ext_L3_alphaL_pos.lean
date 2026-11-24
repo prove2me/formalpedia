@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_alphaL_pos
 -- name    : Formalism.HermitianLattices.Ext.L3.alphaL_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:43.526521+00:00
 -- url     : https://prove2.me/theorems/2ecd31e5-5736-4db9-ba20-161a6f30db5c

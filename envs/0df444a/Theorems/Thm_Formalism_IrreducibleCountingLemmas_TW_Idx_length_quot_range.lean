@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_TW_Idx_length_quot_range
 -- name    : Formalism.IrreducibleCountingLemmas.TW.Idx.length_quot_range
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:05:08.358279+00:00
 -- url     : https://prove2.me/theorems/9f43d76b-89a7-40f3-96a2-835936c2ab65

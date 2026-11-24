@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_card_quot_WQ
 -- name    : Formalism.L2.G.card_quot_WQ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:16.442273+00:00
 -- url     : https://prove2.me/theorems/6c1b0b23-63d1-43cf-8b48-7ca611acdf39

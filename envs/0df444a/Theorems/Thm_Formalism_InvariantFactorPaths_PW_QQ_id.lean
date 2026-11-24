@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_QQ_id
 -- name    : Formalism.InvariantFactorPaths.PW.QQ_id
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:51.006004+00:00
 -- url     : https://prove2.me/theorems/c1ac86fb-fb79-43bf-845c-528cd616a2ee

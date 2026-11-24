@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_scalW_one
 -- name    : Formalism.L2.Col.scalW_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:18.092573+00:00
 -- url     : https://prove2.me/theorems/cc163d80-4461-4d07-9f78-b2050657a579

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_lastIdx_succ
 -- name    : Formalism.L2.G.Model.TS.lastIdx_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:59.949063+00:00
 -- url     : https://prove2.me/theorems/09527bfc-b15d-4e8b-a266-2787843d3e5f

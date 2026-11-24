@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_restriction_saturation_holds
 -- name    : Formalism.InvariantFactorPaths.L4.restriction_saturation_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:31.778044+00:00
 -- url     : https://prove2.me/theorems/4b2a5119-0b3b-4300-ac6e-d99f59a5132d

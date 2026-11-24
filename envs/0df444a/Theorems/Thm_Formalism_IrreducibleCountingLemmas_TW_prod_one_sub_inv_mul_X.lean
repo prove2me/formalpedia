@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_TW_prod_one_sub_inv_mul_X
 -- name    : Formalism.IrreducibleCountingLemmas.TW.prod_one_sub_inv_mul_X
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:26.739893+00:00
 -- url     : https://prove2.me/theorems/f38d8773-2c09-41d1-8d02-867f0970c1d3

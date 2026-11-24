@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_square_set_mem_exceptional_union
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.square_set_mem_exceptional_union
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:22.901812+00:00
 -- url     : https://prove2.me/theorems/c9c907f4-7a1d-4ba9-afa0-dccb0662fc8d

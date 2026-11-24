@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_gmap_equivOfMatrix
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.gmap_equivOfMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:46:39.782796+00:00
 -- url     : https://prove2.me/theorems/11039ed9-471b-402e-9c55-682e1f99b7d1

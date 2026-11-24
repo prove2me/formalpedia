@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_sq_lift
 -- name    : Formalism.L2.G.sq_lift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:45.787591+00:00
 -- url     : https://prove2.me/theorems/ee443a5c-7ae3-4e19-90f4-786d3539b216

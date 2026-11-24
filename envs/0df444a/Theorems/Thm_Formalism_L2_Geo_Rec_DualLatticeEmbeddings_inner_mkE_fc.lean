@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Geo_Rec_DualLatticeEmbeddings_inner_mkE_fc
 -- name    : Formalism.L2.Geo.Rec.DualLatticeEmbeddings.inner_mkE_fc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:35:34.084713+00:00
 -- url     : https://prove2.me/theorems/c1527407-f1db-44c4-ad16-e0054f62144e

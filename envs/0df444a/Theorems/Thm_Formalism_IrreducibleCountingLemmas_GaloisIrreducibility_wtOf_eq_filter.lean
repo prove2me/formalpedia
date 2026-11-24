@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_wtOf_eq_filter
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.wtOf_eq_filter
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:44.935722+00:00
 -- url     : https://prove2.me/theorems/8451d0fa-7054-4b44-b0ee-488aa4dda695

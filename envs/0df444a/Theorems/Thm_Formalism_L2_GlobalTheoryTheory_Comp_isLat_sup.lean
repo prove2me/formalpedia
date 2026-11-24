@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_Comp_isLat_sup
 -- name    : Formalism.L2.GlobalTheoryTheory.Comp.isLat_sup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:35:37.958586+00:00
 -- url     : https://prove2.me/theorems/f2417cdc-190e-4fef-9fcd-55de73d7387d

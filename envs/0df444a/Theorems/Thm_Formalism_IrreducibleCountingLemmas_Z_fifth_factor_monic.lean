@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_fifth_factor_monic
 -- name    : Formalism.IrreducibleCountingLemmas.Z.fifth_factor_monic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:48:53.139597+00:00
 -- url     : https://prove2.me/theorems/4518c8d3-337a-4f1f-9ec3-a0378bc960ed

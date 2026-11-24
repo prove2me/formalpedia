@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_atW_finite
 -- name    : Formalism.L2.Col.atW_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:10:47.004845+00:00
 -- url     : https://prove2.me/theorems/7b676bda-df39-4782-8bf2-38f2ff41f34b

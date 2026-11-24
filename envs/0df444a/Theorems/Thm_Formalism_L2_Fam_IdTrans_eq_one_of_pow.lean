@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Fam_IdTrans_eq_one_of_pow
 -- name    : Formalism.L2.Fam.IdTrans.eq_one_of_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:41.513633+00:00
 -- url     : https://prove2.me/theorems/67d1c9c3-0e89-4ceb-9192-af1e3b096108

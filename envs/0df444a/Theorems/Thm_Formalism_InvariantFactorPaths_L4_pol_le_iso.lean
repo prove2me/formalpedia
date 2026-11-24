@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_pol_le_iso
 -- name    : Formalism.InvariantFactorPaths.L4.pol_le_iso
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:29.209455+00:00
 -- url     : https://prove2.me/theorems/9eaf37a9-d421-431d-8cca-7c8820f8be97

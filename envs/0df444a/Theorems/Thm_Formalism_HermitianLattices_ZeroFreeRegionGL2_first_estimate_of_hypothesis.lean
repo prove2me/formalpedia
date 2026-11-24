@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ZeroFreeRegionGL2_first_estimate_of_hypothesis
 -- name    : Formalism.HermitianLattices.ZeroFreeRegionGL2.first_estimate_of_hypothesis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:14.036144+00:00
 -- url     : https://prove2.me/theorems/596f7b0c-5723-4a7e-ac01-df731e15046a

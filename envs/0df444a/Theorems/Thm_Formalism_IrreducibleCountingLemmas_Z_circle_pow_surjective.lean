@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_circle_pow_surjective
 -- name    : Formalism.IrreducibleCountingLemmas.Z.circle_pow_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:38.078703+00:00
 -- url     : https://prove2.me/theorems/557da6db-a244-4108-a645-eb2a27a769ec

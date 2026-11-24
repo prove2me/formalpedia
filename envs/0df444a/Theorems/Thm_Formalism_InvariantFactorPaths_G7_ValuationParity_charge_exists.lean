@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_ValuationParity_charge_exists
 -- name    : Formalism.InvariantFactorPaths.G7.ValuationParity.charge_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:32.14106+00:00
 -- url     : https://prove2.me/theorems/487b1402-8a84-4db3-bf3f-be12efac2b42

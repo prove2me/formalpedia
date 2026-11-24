@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_lp_min_add
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.lp_min_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:03.426733+00:00
 -- url     : https://prove2.me/theorems/c814affe-32aa-4ac9-ad7b-d072447c4676

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_schur
 -- name    : Formalism.IndefR.LatticeTransfer.schur
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:33:25.394829+00:00
 -- url     : https://prove2.me/theorems/29f1799e-6cfa-4446-be3b-2fcf1780123c

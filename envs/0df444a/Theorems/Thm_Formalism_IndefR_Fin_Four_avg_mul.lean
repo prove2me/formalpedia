@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_avg_mul
 -- name    : Formalism.IndefR.Fin.Four.avg_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:22:19.859933+00:00
 -- url     : https://prove2.me/theorems/07514cba-3572-4797-9bc4-5f3af2356f80

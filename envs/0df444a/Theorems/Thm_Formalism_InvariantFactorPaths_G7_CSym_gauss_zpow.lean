@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_CSym_gauss_zpow
 -- name    : Formalism.InvariantFactorPaths.G7.CSym.gauss_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:53:37.086213+00:00
 -- url     : https://prove2.me/theorems/095753b1-2643-4f0a-a4bb-d7c1a8977f10

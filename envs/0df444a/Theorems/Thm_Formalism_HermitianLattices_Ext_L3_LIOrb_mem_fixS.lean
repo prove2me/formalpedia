@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LIOrb_mem_fixS
 -- name    : Formalism.HermitianLattices.Ext.L3.LIOrb.mem_fixS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:47:33.692085+00:00
 -- url     : https://prove2.me/theorems/4dca93b0-794a-4459-bf65-46fb52b4149c

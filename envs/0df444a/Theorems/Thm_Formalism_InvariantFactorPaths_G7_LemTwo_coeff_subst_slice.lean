@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LemTwo_coeff_subst_slice
 -- name    : Formalism.InvariantFactorPaths.G7.LemTwo.coeff_subst_slice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:06.130192+00:00
 -- url     : https://prove2.me/theorems/d682b287-dafc-45df-b7f8-238bdb00db1e

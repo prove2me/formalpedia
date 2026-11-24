@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_we_form_self_eq_zero
 -- name    : Formalism.L2.DIV.we_form_self_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:51:10.939878+00:00
 -- url     : https://prove2.me/theorems/b493fecc-1459-4adc-abb6-ad7448f1ffe1

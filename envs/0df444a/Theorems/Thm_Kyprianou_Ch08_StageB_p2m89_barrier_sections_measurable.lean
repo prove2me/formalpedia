@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m89_barrier_sections_measurable
 -- name    : Kyprianou.Ch08.StageB.p2m89_barrier_sections_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T09:50:00.963205+00:00
 -- url     : https://prove2.me/theorems/e0981940-162d-4cfe-a736-6306ad49abf1

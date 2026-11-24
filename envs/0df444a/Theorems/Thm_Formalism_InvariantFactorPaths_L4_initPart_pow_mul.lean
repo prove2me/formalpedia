@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_initPart_pow_mul
 -- name    : Formalism.InvariantFactorPaths.L4.initPart_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:39.299252+00:00
 -- url     : https://prove2.me/theorems/fde4a795-c490-484e-96a8-e99c86e70cd5

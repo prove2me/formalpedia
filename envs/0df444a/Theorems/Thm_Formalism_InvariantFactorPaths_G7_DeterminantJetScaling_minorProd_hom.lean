@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_DeterminantJetScaling_minorProd_hom
 -- name    : Formalism.InvariantFactorPaths.G7.DeterminantJetScaling.minorProd_hom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:27:55.271831+00:00
 -- url     : https://prove2.me/theorems/af1920ff-8f2c-47ff-8bf1-dc846a87698e

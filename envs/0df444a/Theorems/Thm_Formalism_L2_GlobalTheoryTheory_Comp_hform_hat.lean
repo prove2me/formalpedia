@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_Comp_hform_hat
 -- name    : Formalism.L2.GlobalTheoryTheory.Comp.hform_hat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:09.48189+00:00
 -- url     : https://prove2.me/theorems/04ed42f3-2074-4ce8-8a2a-54eab37cd8ad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_twistedIdem_mul_of
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.twistedIdem_mul_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:22.516577+00:00
 -- url     : https://prove2.me/theorems/2b4223d8-c188-4161-81b8-384d6a8485ec

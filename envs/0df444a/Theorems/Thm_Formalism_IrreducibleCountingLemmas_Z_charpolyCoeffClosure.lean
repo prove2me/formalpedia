@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_charpolyCoeffClosure
 -- name    : Formalism.IrreducibleCountingLemmas.Z.charpolyCoeffClosure
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:31.794552+00:00
 -- url     : https://prove2.me/theorems/4901f39c-3d54-430a-873f-7414461ee0c3

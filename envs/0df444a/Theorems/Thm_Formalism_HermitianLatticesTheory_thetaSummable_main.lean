@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_thetaSummable_main
 -- name    : Formalism.HermitianLatticesTheory.thetaSummable_main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:05:23.275932+00:00
 -- url     : https://prove2.me/theorems/51cd9b02-5351-4390-a7d6-a9a1fa4d97c1

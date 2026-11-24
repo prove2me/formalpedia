@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_GS_slc_monomial
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.GS.slc_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:46.645341+00:00
 -- url     : https://prove2.me/theorems/2e2d319f-3f34-4de0-8203-c01159268e81

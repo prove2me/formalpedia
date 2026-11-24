@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_glue_injective
 -- name    : Formalism.L2.G.Model.TS.glue_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:55.037803+00:00
 -- url     : https://prove2.me/theorems/6a2d0b0c-1f6c-4b1b-9601-913088a8929f

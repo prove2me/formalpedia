@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_chiSymF_apply
 -- name    : Formalism.L2.Col.chiSymF_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:16.903328+00:00
 -- url     : https://prove2.me/theorems/ba6452a5-5e4d-4c7c-bb0d-06b91af77c50

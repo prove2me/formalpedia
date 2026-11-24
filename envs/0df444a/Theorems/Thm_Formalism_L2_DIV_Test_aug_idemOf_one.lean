@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_Test_aug_idemOf_one
 -- name    : Formalism.L2.DIV.Test.aug_idemOf_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:25.584045+00:00
 -- url     : https://prove2.me/theorems/646ef712-1fb6-4745-8a20-9da67dd1f554

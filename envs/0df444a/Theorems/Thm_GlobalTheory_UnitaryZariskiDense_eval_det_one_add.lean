@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryZariskiDense_eval_det_one_add
 -- name    : GlobalTheory.UnitaryZariskiDense.eval_det_one_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:05:30.7938+00:00
 -- url     : https://prove2.me/theorems/8156f4ca-a140-4f5e-bf27-da9454ad0c9e

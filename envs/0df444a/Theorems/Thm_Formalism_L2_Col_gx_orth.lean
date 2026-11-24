@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_gx_orth
 -- name    : Formalism.L2.Col.gx_orth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:20.349436+00:00
 -- url     : https://prove2.me/theorems/b0673469-fa2f-4224-9c3b-5f82509356f7

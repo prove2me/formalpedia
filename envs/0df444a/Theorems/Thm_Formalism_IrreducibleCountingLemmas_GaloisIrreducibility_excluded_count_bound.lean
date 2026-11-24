@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_excluded_count_bound
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.excluded_count_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:44:07.635518+00:00
 -- url     : https://prove2.me/theorems/7cef8b26-9467-47ed-84ad-d3e3eec576c0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLemVN_fixF
 -- name    : Formalism.MainNotions.BridgeLemVN.fixF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:43:46.66293+00:00
 -- url     : https://prove2.me/theorems/98f2e3f4-de1f-4d6c-8dec-f3ae4bcc2e7a

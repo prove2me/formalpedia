@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_dsc_denominator
 -- name    : Formalism.InvariantFactorPaths.INST.dsc_denominator
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:36:41.682014+00:00
 -- url     : https://prove2.me/theorems/9df3bee5-4352-412f-88a3-7c405814ccb4

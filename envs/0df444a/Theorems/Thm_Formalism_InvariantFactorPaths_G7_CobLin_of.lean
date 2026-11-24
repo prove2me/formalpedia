@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_CobLin_of
 -- name    : Formalism.InvariantFactorPaths.G7.CobLin_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:26:04.03231+00:00
 -- url     : https://prove2.me/theorems/08b54fa1-605f-44c9-ac5b-ba90672cb5e5

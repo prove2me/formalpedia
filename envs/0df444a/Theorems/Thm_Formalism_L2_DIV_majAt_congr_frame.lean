@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_majAt_congr_frame
 -- name    : Formalism.L2.DIV.majAt_congr_frame
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:18.747085+00:00
 -- url     : https://prove2.me/theorems/82e46a7b-584d-4514-a97d-fcf991893b15

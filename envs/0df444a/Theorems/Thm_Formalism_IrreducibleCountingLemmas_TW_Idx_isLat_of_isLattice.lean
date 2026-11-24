@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_TW_Idx_isLat_of_isLattice
 -- name    : Formalism.IrreducibleCountingLemmas.TW.Idx.isLat_of_isLattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:18.334073+00:00
 -- url     : https://prove2.me/theorems/3262c07e-0ff9-4c44-b606-d785d3d75d50

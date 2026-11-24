@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_LL_decomp
 -- name    : Formalism.InvariantFactorPaths.KP.LL.decomp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:36:03.23103+00:00
 -- url     : https://prove2.me/theorems/5a18d2a5-69ad-4982-acfd-316912a8ab4c

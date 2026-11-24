@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_divPow_C_int
 -- name    : Formalism.InvariantFactorPaths.PW.divPow_C_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:19.346796+00:00
 -- url     : https://prove2.me/theorems/f2fe4bbd-2724-4941-be6e-1b2f5ffa0945

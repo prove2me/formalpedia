@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_lamK_conj_diagEmb
 -- name    : Formalism.L2.Col.lamK_conj_diagEmb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:41.629797+00:00
 -- url     : https://prove2.me/theorems/101b2bb7-601d-4347-a4d6-c7528ceea404

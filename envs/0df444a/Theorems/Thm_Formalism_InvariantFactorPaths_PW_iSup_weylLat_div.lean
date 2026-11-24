@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_iSup_weylLat_div
 -- name    : Formalism.InvariantFactorPaths.PW.iSup_weylLat_div
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:33.320215+00:00
 -- url     : https://prove2.me/theorems/2ee403b7-95e3-4943-b54b-711f03d9c543

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_pderiv_div_int
 -- name    : Formalism.InvariantFactorPaths.L4.pderiv_div_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:42.11387+00:00
 -- url     : https://prove2.me/theorems/4a144fef-1d6d-46c4-8f7d-2b2aa48aabee

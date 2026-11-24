@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_lap_row
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.lap_row
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:39:49.174687+00:00
 -- url     : https://prove2.me/theorems/dacb04fc-db35-4e42-b672-761b9739e312

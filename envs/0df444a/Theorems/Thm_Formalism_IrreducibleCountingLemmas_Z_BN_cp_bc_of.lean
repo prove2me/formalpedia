@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_BN_cp_bc_of
 -- name    : Formalism.IrreducibleCountingLemmas.Z.BN.cp_bc_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:48:06.551959+00:00
 -- url     : https://prove2.me/theorems/f2e7eaa6-133e-4cb5-afb4-70dd9d829124

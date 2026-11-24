@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LIOrb_relIndex_ne_zero_of_map
 -- name    : Formalism.HermitianLattices.Ext.L3.LIOrb.relIndex_ne_zero_of_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:47:53.02888+00:00
 -- url     : https://prove2.me/theorems/848b4053-7a41-4ba3-8f72-0fbf3b44773c

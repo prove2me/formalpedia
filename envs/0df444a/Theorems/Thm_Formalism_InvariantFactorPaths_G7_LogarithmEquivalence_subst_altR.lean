@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LogarithmEquivalence_subst_altR
 -- name    : Formalism.InvariantFactorPaths.G7.LogarithmEquivalence.subst_altR
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:32:52.980747+00:00
 -- url     : https://prove2.me/theorems/d504357f-209a-44a2-8a5a-f7dc3da018f6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_initPart_int
 -- name    : Formalism.InvariantFactorPaths.L4.initPart_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:05.469331+00:00
 -- url     : https://prove2.me/theorems/4f0a5f2a-5cd9-4445-8a90-057fedd7cc50

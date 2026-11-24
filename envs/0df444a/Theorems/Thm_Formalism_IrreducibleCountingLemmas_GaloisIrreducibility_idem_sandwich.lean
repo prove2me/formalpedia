@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_idem_sandwich
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.idem_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:04:58.175012+00:00
 -- url     : https://prove2.me/theorems/9f5aad29-949c-471e-91c2-e4fad1765c17

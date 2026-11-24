@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_we_eval_idFrame_map
 -- name    : Formalism.L2.DIV.we_eval_idFrame_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:51:04.487797+00:00
 -- url     : https://prove2.me/theorems/80476eb7-f721-40d3-aee1-bc9ea79ec9ec

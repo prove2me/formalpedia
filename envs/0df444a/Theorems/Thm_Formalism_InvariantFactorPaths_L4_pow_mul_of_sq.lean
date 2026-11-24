@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_pow_mul_of_sq
 -- name    : Formalism.InvariantFactorPaths.L4.pow_mul_of_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:29.888905+00:00
 -- url     : https://prove2.me/theorems/2beb89bf-45ca-46d2-9e42-e3a7287e8e24

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Branch_tab_count
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.Branch.tab_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:56:20.920004+00:00
 -- url     : https://prove2.me/theorems/1bb9c410-9891-4aff-9d34-d6ff7a67d4f1

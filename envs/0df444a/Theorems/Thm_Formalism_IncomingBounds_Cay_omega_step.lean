@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_Cay_omega_step
 -- name    : Formalism.IncomingBounds.Cay.omega_step
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:11:37.541327+00:00
 -- url     : https://prove2.me/theorems/4163b46e-9f15-44cb-addf-de6046c6eb05

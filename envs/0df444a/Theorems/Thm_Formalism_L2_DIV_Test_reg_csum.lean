@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_Test_reg_csum
 -- name    : Formalism.L2.DIV.Test.reg_csum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:42:58.305019+00:00
 -- url     : https://prove2.me/theorems/9ed4b7c2-bcc1-4e23-83a2-0334ad3f9418

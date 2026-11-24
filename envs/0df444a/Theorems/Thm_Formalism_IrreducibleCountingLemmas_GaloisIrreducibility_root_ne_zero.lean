@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_root_ne_zero
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.root_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:48:33.474446+00:00
 -- url     : https://prove2.me/theorems/9a521fcc-8a89-4979-a5d5-e6216c7cc63a

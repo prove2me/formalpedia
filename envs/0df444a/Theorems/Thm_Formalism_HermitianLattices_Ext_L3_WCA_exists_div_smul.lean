@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_WCA_exists_div_smul
 -- name    : Formalism.HermitianLattices.Ext.L3.WCA.exists_div_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:48:33.527113+00:00
 -- url     : https://prove2.me/theorems/9dd75250-3e54-4020-875e-9d5579642fb7

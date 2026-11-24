@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_Br_latS_mono_fin
 -- name    : Formalism.L2.GlobalTheoryTheory.Br.latS_mono_fin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:35:28.828131+00:00
 -- url     : https://prove2.me/theorems/d68b3f80-ea51-45ac-a09d-7548db7490d2

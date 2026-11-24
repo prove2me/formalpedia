@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_GramFrameCompositionLinFacts_pderiv_single_of_ne
 -- name    : Formalism.InvariantFactorPaths.G7.GramFrameCompositionLinFacts.pderiv_single_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:43.484572+00:00
 -- url     : https://prove2.me/theorems/2654bdd3-61fc-4e79-9332-bf3bc9f40834

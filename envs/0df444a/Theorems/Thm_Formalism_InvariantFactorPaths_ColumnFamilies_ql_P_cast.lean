@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_ql_P_cast
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.ql_P_cast
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:19:47.472276+00:00
 -- url     : https://prove2.me/theorems/b77e4591-b235-4ba3-8d86-7e9c6391f915

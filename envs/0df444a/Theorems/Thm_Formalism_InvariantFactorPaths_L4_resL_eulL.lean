@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_resL_eulL
 -- name    : Formalism.InvariantFactorPaths.L4.resL_eulL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:33.602732+00:00
 -- url     : https://prove2.me/theorems/43a75979-3f32-4736-b049-add4f6084c43

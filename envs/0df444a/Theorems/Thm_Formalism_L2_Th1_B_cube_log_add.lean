@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_cube_log_add
 -- name    : Formalism.L2.Th1.B.cube_log_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:29:47.622432+00:00
 -- url     : https://prove2.me/theorems/c280eacb-98cb-4c1a-b4dc-112321b39021

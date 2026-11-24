@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_leadingTermLemmas_card_filter_lt_emb
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.leadingTermLemmas.card_filter_lt_emb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:39:54.626289+00:00
 -- url     : https://prove2.me/theorems/6dcd079c-db0d-4e76-8d5b-87f3142ce46c

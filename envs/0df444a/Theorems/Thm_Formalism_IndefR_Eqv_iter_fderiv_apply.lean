@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Eqv_iter_fderiv_apply
 -- name    : Formalism.IndefR.Eqv.iter_fderiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:04.161197+00:00
 -- url     : https://prove2.me/theorems/018fa4cd-3ec3-4dc0-ace6-9fb99864011c

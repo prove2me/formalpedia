@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_norm_one_add_mul
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.norm_one_add_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:44:52.245518+00:00
 -- url     : https://prove2.me/theorems/b967aa3d-1f7f-49e5-a27f-3b7019df1cfa

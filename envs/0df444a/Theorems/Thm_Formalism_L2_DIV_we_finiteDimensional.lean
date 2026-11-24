@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_we_finiteDimensional
 -- name    : Formalism.L2.DIV.we_finiteDimensional
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:54:38.808497+00:00
 -- url     : https://prove2.me/theorems/c0659f8e-87c6-45ed-97b8-68d48d01c779

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_TwoS_cg_lin_pow
 -- name    : Formalism.InvariantFactorPaths.G7.TwoS.cg_lin_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:17.854874+00:00
 -- url     : https://prove2.me/theorems/9536fbda-947d-47ab-abad-ac9480e56a5f

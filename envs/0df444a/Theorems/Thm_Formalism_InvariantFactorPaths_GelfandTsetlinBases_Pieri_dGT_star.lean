@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Pieri_dGT_star
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.Pieri.dGT_star
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:35:34.559286+00:00
 -- url     : https://prove2.me/theorems/e1a8a9f9-212e-4aab-99c5-b0897992d3d9

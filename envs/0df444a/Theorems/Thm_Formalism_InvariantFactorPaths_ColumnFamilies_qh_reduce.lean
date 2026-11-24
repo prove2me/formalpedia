@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qh_reduce
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qh_reduce
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:20:20.589062+00:00
 -- url     : https://prove2.me/theorems/f529bc85-53d3-4068-8324-898f7fe05064

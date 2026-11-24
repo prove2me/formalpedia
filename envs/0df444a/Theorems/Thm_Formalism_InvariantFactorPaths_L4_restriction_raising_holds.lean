@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_restriction_raising_holds
 -- name    : Formalism.InvariantFactorPaths.L4.restriction_raising_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:37:01.565854+00:00
 -- url     : https://prove2.me/theorems/754e4466-9811-484c-9acb-06f36cf116e5

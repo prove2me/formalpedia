@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_sw_pow_ne
 -- name    : Formalism.L2.G.Model.sw_pow_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:50.617398+00:00
 -- url     : https://prove2.me/theorems/180eebf9-a9cb-4cca-ad73-de197613379b

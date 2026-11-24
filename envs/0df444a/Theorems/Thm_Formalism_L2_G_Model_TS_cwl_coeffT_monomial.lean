@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_cwl_coeffT_monomial
 -- name    : Formalism.L2.G.Model.TS.cwl_coeffT_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:33.491154+00:00
 -- url     : https://prove2.me/theorems/bad05c28-5f12-42e5-acef-5dfedf1912c6

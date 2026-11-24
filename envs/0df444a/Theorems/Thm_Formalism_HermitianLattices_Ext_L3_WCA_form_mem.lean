@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_WCA_form_mem
 -- name    : Formalism.HermitianLattices.Ext.L3.WCA.form_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:48:11.96209+00:00
 -- url     : https://prove2.me/theorems/1a3e152c-aa5b-492d-9eb8-fdd42e6df698

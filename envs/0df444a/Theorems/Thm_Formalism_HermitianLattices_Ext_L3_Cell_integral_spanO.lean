@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_Cell_integral_spanO
 -- name    : Formalism.HermitianLattices.Ext.L3.Cell.integral_spanO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:45:29.75821+00:00
 -- url     : https://prove2.me/theorems/73a1bace-329e-4dd2-92bb-1aaf12518c99

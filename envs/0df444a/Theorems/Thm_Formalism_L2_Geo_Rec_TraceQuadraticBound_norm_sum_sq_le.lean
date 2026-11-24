@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Geo_Rec_TraceQuadraticBound_norm_sum_sq_le
 -- name    : Formalism.L2.Geo.Rec.TraceQuadraticBound.norm_sum_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:34:44.183372+00:00
 -- url     : https://prove2.me/theorems/683fff73-2234-42c3-b5e7-223bc0196f07

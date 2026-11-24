@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_grMap_apply
 -- name    : Formalism.InvariantFactorPaths.L4.grMap_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:44.771273+00:00
 -- url     : https://prove2.me/theorems/2e663125-8e90-4c22-9607-ebb96a27ec37

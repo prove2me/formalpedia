@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_Cay_gen
 -- name    : Formalism.IncomingBounds.Cay.gen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:06:05.90184+00:00
 -- url     : https://prove2.me/theorems/14d77bfc-1203-4ff6-b8bf-ba5e4f784a91

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_divPow_X_int
 -- name    : Formalism.InvariantFactorPaths.PW.divPow_X_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:11.570862+00:00
 -- url     : https://prove2.me/theorems/7ed4ac2e-90e4-40fd-85bb-36f292630611

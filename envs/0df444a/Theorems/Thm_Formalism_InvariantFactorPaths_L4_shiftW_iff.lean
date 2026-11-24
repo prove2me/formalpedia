@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_shiftW_iff
 -- name    : Formalism.InvariantFactorPaths.L4.shiftW_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:33.604811+00:00
 -- url     : https://prove2.me/theorems/8acbaa19-b907-4ec5-b58d-833c3e3dc047

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_CharacteristicFromRanks_even_val_succ
 -- name    : Formalism.L2.FormalSeriesBounds.CharacteristicFromRanks.even_val_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:53.239223+00:00
 -- url     : https://prove2.me/theorems/3470aeb9-8b16-4a79-9c61-459d6a428386

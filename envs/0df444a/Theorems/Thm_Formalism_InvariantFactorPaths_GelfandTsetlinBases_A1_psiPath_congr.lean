@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A1_psiPath_congr
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.A1.psiPath_congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:35:56.066477+00:00
 -- url     : https://prove2.me/theorems/f8d02ffc-2e90-4072-a7f7-dd168b6ff21e

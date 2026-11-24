@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_card_fixed_ge
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.card_fixed_ge
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:24.666928+00:00
 -- url     : https://prove2.me/theorems/ae974142-b6aa-41f8-923d-6e3924a24179

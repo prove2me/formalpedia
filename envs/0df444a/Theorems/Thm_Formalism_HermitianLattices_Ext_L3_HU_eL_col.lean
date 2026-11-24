@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_eL_col
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.eL_col
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:18.915878+00:00
 -- url     : https://prove2.me/theorems/ce0a7647-c091-49fe-9f47-cac981ec0f70

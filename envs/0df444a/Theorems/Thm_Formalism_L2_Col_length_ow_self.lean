@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_length_ow_self
 -- name    : Formalism.L2.Col.length_ow_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:11.05797+00:00
 -- url     : https://prove2.me/theorems/11586a44-a3f0-4803-862c-2dbec90d0b13

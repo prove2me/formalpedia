@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LIOrb_sub_mem_of_redA_eq
 -- name    : Formalism.HermitianLattices.Ext.L3.LIOrb.sub_mem_of_redA_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:48:00.289536+00:00
 -- url     : https://prove2.me/theorems/f38713be-dba9-4fd6-9b49-ce2b7ec6f5ee

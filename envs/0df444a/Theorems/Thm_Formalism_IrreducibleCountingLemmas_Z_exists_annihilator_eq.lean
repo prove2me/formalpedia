@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_exists_annihilator_eq
 -- name    : Formalism.IrreducibleCountingLemmas.Z.exists_annihilator_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:41:42.803984+00:00
 -- url     : https://prove2.me/theorems/073abeda-f374-4c76-90c4-2b4b2d2adf4f

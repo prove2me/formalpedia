@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LIOrb_IA_mu_mul
 -- name    : Formalism.HermitianLattices.Ext.L3.LIOrb.IA.mu_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:47:47.888524+00:00
 -- url     : https://prove2.me/theorems/e18013d3-5f2b-4492-86db-a0e7cca3ff8a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_LL_lattice_equal_holds
 -- name    : Formalism.InvariantFactorPaths.KP.LL.lattice_equal_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:36:35.040834+00:00
 -- url     : https://prove2.me/theorems/7617d7c8-02b9-4a31-ab00-3a2003d374bb

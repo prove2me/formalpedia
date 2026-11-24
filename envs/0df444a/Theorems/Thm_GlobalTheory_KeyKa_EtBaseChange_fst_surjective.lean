@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_EtBaseChange_fst_surjective
 -- name    : GlobalTheory.KeyKa.EtBaseChange.fst_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:23.844672+00:00
 -- url     : https://prove2.me/theorems/22e19ba8-4aa5-4e61-8540-aab3a65dcbac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_charFacts
 -- name    : Formalism.IndefR.LatticeTransfer.charFacts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:15:40.043813+00:00
 -- url     : https://prove2.me/theorems/c8cce45e-14e6-4f51-8b93-855fa13cbb02

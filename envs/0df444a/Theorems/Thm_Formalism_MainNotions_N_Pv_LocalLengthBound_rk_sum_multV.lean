@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_Pv_LocalLengthBound_rk_sum_multV
 -- name    : Formalism.MainNotions.N.Pv.LocalLengthBound.rk_sum_multV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:47:00.179258+00:00
 -- url     : https://prove2.me/theorems/98f74c93-9071-4776-9cf6-7224985ea1fb

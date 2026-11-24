@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_derivative_divided_integral
 -- name    : Formalism.InvariantFactorPaths.L4.derivative_divided_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:51.85553+00:00
 -- url     : https://prove2.me/theorems/9725ae3a-261a-4326-b26c-e30ccb03cb47

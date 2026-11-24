@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_mem_JU
 -- name    : Formalism.L2.G.mem_JU
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:34:31.827811+00:00
 -- url     : https://prove2.me/theorems/83267684-4c5c-46e5-b4fa-d9a0448b138e

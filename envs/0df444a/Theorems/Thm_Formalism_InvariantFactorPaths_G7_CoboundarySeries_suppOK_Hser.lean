@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_CoboundarySeries_suppOK_Hser
 -- name    : Formalism.InvariantFactorPaths.G7.CoboundarySeries.suppOK_Hser
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:25:58.982875+00:00
 -- url     : https://prove2.me/theorems/fa8cbb67-03b8-4549-a72a-df6811368ea1

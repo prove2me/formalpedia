@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_LL_StepTie_of
 -- name    : Formalism.InvariantFactorPaths.KP.LL.StepTie_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:36:10.846509+00:00
 -- url     : https://prove2.me/theorems/e1a06c76-e1ac-4f1a-92de-8b610de38198

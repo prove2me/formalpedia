@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_sum_of_mul_sum_of
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.sum_of_mul_sum_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:46:56.580653+00:00
 -- url     : https://prove2.me/theorems/0f00d417-be07-44a3-b4cc-57aea728b7f5

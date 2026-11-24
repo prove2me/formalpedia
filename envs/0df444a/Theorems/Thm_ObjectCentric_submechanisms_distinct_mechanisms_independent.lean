@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObjectCentric_submechanisms_distinct_mechanisms_independent
 -- name    : ObjectCentric.submechanisms_distinct_mechanisms_independent
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T19:37:11.409883+00:00
 -- url     : https://prove2.me/theorems/28507dfb-dc97-42f3-b42e-ba577338bf92

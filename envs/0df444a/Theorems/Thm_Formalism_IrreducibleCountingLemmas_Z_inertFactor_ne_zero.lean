@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_inertFactor_ne_zero
 -- name    : Formalism.IrreducibleCountingLemmas.Z.inertFactor_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:48:37.295114+00:00
 -- url     : https://prove2.me/theorems/65aff39b-ae87-4ef3-bbe6-62c3fbf6000c

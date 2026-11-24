@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_chiIdem_mul
 -- name    : Formalism.L2.DIV.chiIdem_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:44.262794+00:00
 -- url     : https://prove2.me/theorems/4610a727-8d0e-4d0b-a61b-c0895d6fca42

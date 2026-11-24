@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_wtOf_nonneg
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.wtOf_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:48:10.038712+00:00
 -- url     : https://prove2.me/theorems/b856a999-1f63-4ec1-95e5-c3180f4278b5

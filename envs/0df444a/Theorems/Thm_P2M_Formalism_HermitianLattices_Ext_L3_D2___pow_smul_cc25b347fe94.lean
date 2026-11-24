@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLattices_Ext_L3_D2___pow_smul_cc25b347fe94
 -- name    : P2M_Formalism_HermitianLattices_Ext_L3_D2___pow_smul_cc25b347fe94
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:46:12.505819+00:00
 -- url     : https://prove2.me/theorems/0d28a754-a599-4302-9edd-0adb7b96bbda

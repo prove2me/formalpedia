@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_BN_mul_eq_one_of_covolume_identity
 -- name    : Formalism.IrreducibleCountingLemmas.Z.BN.mul_eq_one_of_covolume_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:48:10.011837+00:00
 -- url     : https://prove2.me/theorems/27d4a57f-43bd-4d84-b47c-6d23386b0cc7

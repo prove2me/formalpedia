@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_precomplete_pi
 -- name    : Formalism.L2.G.precomplete_pi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:34:35.912025+00:00
 -- url     : https://prove2.me/theorems/0e774d58-fdb6-410b-a6c1-3c80c59882d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LogarithmEquivalence_logRescale
 -- name    : Formalism.InvariantFactorPaths.G7.LogarithmEquivalence.logRescale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:24:28.436067+00:00
 -- url     : https://prove2.me/theorems/8e444bbb-3c1f-4c2d-9baa-81d022a33c87

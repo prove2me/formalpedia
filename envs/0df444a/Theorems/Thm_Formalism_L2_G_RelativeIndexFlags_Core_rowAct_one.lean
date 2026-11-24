@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_RelativeIndexFlags_Core_rowAct_one
 -- name    : Formalism.L2.G.RelativeIndexFlags.Core.rowAct_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:35.416957+00:00
 -- url     : https://prove2.me/theorems/5f1a1c49-bd79-48d4-b707-daadafe58c5f

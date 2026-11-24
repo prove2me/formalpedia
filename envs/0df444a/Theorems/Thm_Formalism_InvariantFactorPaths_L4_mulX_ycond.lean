@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_mulX_ycond
 -- name    : Formalism.InvariantFactorPaths.L4.mulX_ycond
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:20.443365+00:00
 -- url     : https://prove2.me/theorems/fb9676e3-e76f-4d5c-9147-427f2a29ecd0

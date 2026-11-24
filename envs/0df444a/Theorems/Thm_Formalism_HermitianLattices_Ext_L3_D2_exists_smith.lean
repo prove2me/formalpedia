@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_exists_smith
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.exists_smith
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:43:05.455884+00:00
 -- url     : https://prove2.me/theorems/8155a149-ad18-4945-85aa-aee96e69d6e6

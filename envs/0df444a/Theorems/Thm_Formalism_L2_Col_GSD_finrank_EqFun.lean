@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GSD_finrank_EqFun
 -- name    : Formalism.L2.Col.GSD.finrank_EqFun
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:50.922443+00:00
 -- url     : https://prove2.me/theorems/ef906c9e-20bd-45ef-bbf2-eb8f32c84eee

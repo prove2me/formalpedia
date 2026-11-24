@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_coef_add
 -- name    : Formalism.IndefR.Fin.Four.coef_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:13.818938+00:00
 -- url     : https://prove2.me/theorems/2e5d2585-4296-4a6b-bdc0-7ed2281e6d3a

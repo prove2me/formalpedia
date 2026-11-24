@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_wt_sub_le
 -- name    : Formalism.InvariantFactorPaths.PW.wt_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:29.16153+00:00
 -- url     : https://prove2.me/theorems/a107c7c8-ddd3-4906-9ad2-a54eefe59269

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_pderiv_pol
 -- name    : Formalism.InvariantFactorPaths.L4.pderiv_pol
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:24.377818+00:00
 -- url     : https://prove2.me/theorems/1f26082b-5aa5-473f-b753-b221b016f741

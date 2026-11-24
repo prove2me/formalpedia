@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_EDec_A_term
 -- name    : Formalism.InvariantFactorPaths.G7.EDec.A_term
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:08.73257+00:00
 -- url     : https://prove2.me/theorems/9e7349fb-fc1d-4ee8-a492-50dc43eb3600

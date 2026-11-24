@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_eval_idFrame_hw
 -- name    : Formalism.L2.G.Model.TS.eval_idFrame_hw
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:24.969562+00:00
 -- url     : https://prove2.me/theorems/1efddfb4-e1b6-4d5e-910a-8593e2259813

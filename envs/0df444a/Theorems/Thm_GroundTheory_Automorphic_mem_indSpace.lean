@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_mem_indSpace
 -- name    : GroundTheory.Automorphic.mem_indSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:45:31.326207+00:00
 -- url     : https://prove2.me/theorems/70741cf5-b5c8-4d74-940e-1a29267af7d1

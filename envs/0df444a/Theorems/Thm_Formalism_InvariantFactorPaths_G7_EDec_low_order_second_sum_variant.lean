@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_EDec_low_order_second_sum_variant
 -- name    : Formalism.InvariantFactorPaths.G7.EDec.low_order_second_sum_variant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:26.571383+00:00
 -- url     : https://prove2.me/theorems/360d25c9-af9e-4781-9c68-453dd2a8176d

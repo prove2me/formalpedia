@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_residueClassLowerBound
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.residueClassLowerBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:13:22.051227+00:00
 -- url     : https://prove2.me/theorems/1923661a-11e8-4ec6-b3e6-18d0a273e816

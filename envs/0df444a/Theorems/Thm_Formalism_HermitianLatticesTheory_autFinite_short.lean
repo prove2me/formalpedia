@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_autFinite_short
 -- name    : Formalism.HermitianLatticesTheory.autFinite_short
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:46:38.042964+00:00
 -- url     : https://prove2.me/theorems/52eb5eeb-d9a6-4ab2-97d3-37fd5e53e6f9

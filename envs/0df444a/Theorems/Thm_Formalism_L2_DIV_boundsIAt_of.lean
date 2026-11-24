@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_boundsIAt_of
 -- name    : Formalism.L2.DIV.boundsIAt_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:54:18.319988+00:00
 -- url     : https://prove2.me/theorems/e522bee7-ab05-4fc0-854a-a6dd59ce4512

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_noConst_iff
 -- name    : Formalism.L2.FormalSeriesBounds.noConst_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:45.1098+00:00
 -- url     : https://prove2.me/theorems/4a5d3b95-c6e4-4aef-8fda-201fc4eb5e27

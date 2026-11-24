@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_biLe_sum
 -- name    : Formalism.InvariantFactorPaths.G7.biLe_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:29.921717+00:00
 -- url     : https://prove2.me/theorems/0a39482d-b8f8-4bb6-99c1-64c7c7f4428e

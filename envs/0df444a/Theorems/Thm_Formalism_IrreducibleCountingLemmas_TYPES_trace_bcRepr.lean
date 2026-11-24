@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_TYPES_trace_bcRepr
 -- name    : Formalism.IrreducibleCountingLemmas.TYPES.trace_bcRepr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:33.585335+00:00
 -- url     : https://prove2.me/theorems/6a7f9bc0-6625-4abf-8216-ff3e5cd199b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_spread_top_holds
 -- name    : Formalism.InvariantFactorPaths.INST.spread_top_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:36:54.805415+00:00
 -- url     : https://prove2.me/theorems/2ca81f1e-9d61-4e93-8ba7-2fbc99c9e6d5

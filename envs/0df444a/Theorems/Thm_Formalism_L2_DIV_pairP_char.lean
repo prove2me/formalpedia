@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_pairP_char
 -- name    : Formalism.L2.DIV.pairP_char
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:17.907173+00:00
 -- url     : https://prove2.me/theorems/40a3cd3d-26b0-40cf-9789-1863b9aec1c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_indexChange_diagonal
 -- name    : Formalism.DivisionValues.indexChange_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:07:03.364748+00:00
 -- url     : https://prove2.me/theorems/a325f4f8-486f-400b-947b-769215e99025

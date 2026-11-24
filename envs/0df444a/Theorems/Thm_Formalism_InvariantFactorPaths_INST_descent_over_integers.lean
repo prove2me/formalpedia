@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_descent_over_integers
 -- name    : Formalism.InvariantFactorPaths.INST.descent_over_integers
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:37:11.029643+00:00
 -- url     : https://prove2.me/theorems/4f5606de-28c6-4928-91fe-bdc5fb200567

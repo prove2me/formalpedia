@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_boundsIHyps_of
 -- name    : Formalism.L2.DIV.boundsIHyps_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:54:28.962164+00:00
 -- url     : https://prove2.me/theorems/cc0a9e87-a717-44fa-a9ae-bab41c1d70c0

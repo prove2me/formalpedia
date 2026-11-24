@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_pderiv_ycond_early
 -- name    : Formalism.InvariantFactorPaths.L4.pderiv_ycond_early
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:35.564748+00:00
 -- url     : https://prove2.me/theorems/58a4ad1c-a22e-4852-a981-3edea61743f2

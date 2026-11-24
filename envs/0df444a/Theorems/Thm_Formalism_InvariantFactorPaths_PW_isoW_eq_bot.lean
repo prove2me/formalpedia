@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_isoW_eq_bot
 -- name    : Formalism.InvariantFactorPaths.PW.isoW_eq_bot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:28.015786+00:00
 -- url     : https://prove2.me/theorems/bbb5a966-6eb4-40b8-99cd-0b07a07aadcf

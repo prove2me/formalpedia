@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_g5b_multiplicity_holds
 -- name    : Formalism.IrreducibleCountingLemmas.Z.g5b_multiplicity_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:17.835329+00:00
 -- url     : https://prove2.me/theorems/0f116621-0c8d-4915-a2c2-1b08e1fa13e5

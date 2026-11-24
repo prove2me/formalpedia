@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Geo_Rec_TraceQuadraticBound_psd_map
 -- name    : Formalism.L2.Geo.Rec.TraceQuadraticBound.psd_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:34:56.59867+00:00
 -- url     : https://prove2.me/theorems/12f79cfd-d4d9-4d36-a4e1-d11d1f3e3433

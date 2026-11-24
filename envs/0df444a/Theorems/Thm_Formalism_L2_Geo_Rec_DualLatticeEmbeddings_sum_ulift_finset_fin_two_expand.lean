@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Geo_Rec_DualLatticeEmbeddings_sum_ulift_finset_fin_two_expand
 -- name    : Formalism.L2.Geo.Rec.DualLatticeEmbeddings.sum_ulift_finset_fin_two_expand
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:35:04.862504+00:00
 -- url     : https://prove2.me/theorems/e39c0cb4-6c29-4ab4-bfae-34610dc79443

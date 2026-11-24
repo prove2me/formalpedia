@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_inertFactor_differentiableAt
 -- name    : Formalism.IrreducibleCountingLemmas.Z.inertFactor_differentiableAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:00.101396+00:00
 -- url     : https://prove2.me/theorems/2f38f596-f1b9-41a7-b2a1-7fd86601ac5c

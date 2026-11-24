@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_lamVec_natW
 -- name    : Formalism.L2.DIV.lamVec_natW
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:51:14.44896+00:00
 -- url     : https://prove2.me/theorems/155c9306-57b6-4627-a61c-89822f4387e0

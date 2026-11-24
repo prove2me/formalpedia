@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_BN_exists_lift
 -- name    : Formalism.IrreducibleCountingLemmas.Z.BN.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:43.493324+00:00
 -- url     : https://prove2.me/theorems/f66ad0f2-9953-42c5-a3a3-dcfdc4a9eece

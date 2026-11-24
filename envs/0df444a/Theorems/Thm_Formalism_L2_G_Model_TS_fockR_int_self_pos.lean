@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_fockR_int_self_pos
 -- name    : Formalism.L2.G.Model.TS.fockR_int_self_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:47.229809+00:00
 -- url     : https://prove2.me/theorems/322c9761-a8fc-4189-b24d-b98c043e1238

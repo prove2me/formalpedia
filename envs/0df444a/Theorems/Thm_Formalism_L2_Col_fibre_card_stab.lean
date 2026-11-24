@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_fibre_card_stab
 -- name    : Formalism.L2.Col.fibre_card_stab
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:16.231798+00:00
 -- url     : https://prove2.me/theorems/8a5e93c5-2872-4090-990f-0785d61adf71

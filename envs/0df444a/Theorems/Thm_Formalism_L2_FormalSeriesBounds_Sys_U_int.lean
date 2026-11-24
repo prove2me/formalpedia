@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_Sys_U_int
 -- name    : Formalism.L2.FormalSeriesBounds.Sys.U_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:58:15.570605+00:00
 -- url     : https://prove2.me/theorems/66ac18ea-f903-4535-8d2e-fff515e591bc

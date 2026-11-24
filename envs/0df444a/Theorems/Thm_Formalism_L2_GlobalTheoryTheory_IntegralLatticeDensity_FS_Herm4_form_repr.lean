@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_FS_Herm4_form_repr
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.FS.Herm4.form_repr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:44.7425+00:00
 -- url     : https://prove2.me/theorems/a653895d-67af-4fe6-8dcb-0fcac33e89ae

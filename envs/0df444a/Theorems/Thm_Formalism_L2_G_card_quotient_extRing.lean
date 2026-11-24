@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_card_quotient_extRing
 -- name    : Formalism.L2.G.card_quotient_extRing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:20.505143+00:00
 -- url     : https://prove2.me/theorems/5ed194af-8920-47c8-94a9-bccadf1e6132

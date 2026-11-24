@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_rowsOK_iff
 -- name    : Formalism.L2.FormalSeriesBounds.rowsOK_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:05.103494+00:00
 -- url     : https://prove2.me/theorems/bbbc6338-3f42-4e00-baea-30e4762b08ba

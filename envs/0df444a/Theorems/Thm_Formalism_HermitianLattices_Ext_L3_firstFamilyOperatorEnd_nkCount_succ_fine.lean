@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_firstFamilyOperatorEnd_nkCount_succ_fine
 -- name    : Formalism.HermitianLattices.Ext.L3.firstFamilyOperatorEnd.nkCount_succ_fine
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:35:28.103567+00:00
 -- url     : https://prove2.me/theorems/5a6898ba-4807-45c6-b5d1-5caaa96fead4

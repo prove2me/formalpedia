@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_twist_chain
 -- name    : Formalism.EigenvalueLevelCeiling.twist_chain
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:34:23.713078+00:00
 -- url     : https://prove2.me/theorems/d0b09d5e-2d0f-4386-93e3-d3cb05489868

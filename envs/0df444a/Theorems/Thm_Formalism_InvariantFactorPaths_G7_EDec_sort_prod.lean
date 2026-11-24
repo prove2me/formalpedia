@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_EDec_sort_prod
 -- name    : Formalism.InvariantFactorPaths.G7.EDec.sort_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:52.933872+00:00
 -- url     : https://prove2.me/theorems/57ea8274-79ff-46a0-9d55-1b6ed434b497

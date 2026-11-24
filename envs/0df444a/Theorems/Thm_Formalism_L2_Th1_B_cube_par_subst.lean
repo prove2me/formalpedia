@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_cube_par_subst
 -- name    : Formalism.L2.Th1.B.cube_par_subst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:30:17.893173+00:00
 -- url     : https://prove2.me/theorems/653b65e0-2748-4b61-93e8-35a483f5340f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_MeanC_vF_lt_of_notMem
 -- name    : Formalism.HermitianLattices.Ext.L3.MeanC.vF_lt_of_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:27.254792+00:00
 -- url     : https://prove2.me/theorems/02fcf728-def7-440e-ae4b-14a52068e219

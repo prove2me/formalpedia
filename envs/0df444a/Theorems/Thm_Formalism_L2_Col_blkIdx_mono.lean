@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_blkIdx_mono
 -- name    : Formalism.L2.Col.blkIdx_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:02.878813+00:00
 -- url     : https://prove2.me/theorems/ea8a759a-f67e-425a-8802-6c61f029fde6

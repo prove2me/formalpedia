@@ -1,0 +1,35 @@
+-- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_kappa_constant_same_block
+-- name    : Formalism.MainNotions.PlaneGram.TwistData.kappa_constant_same_block
+-- status  : Open
+-- author  : @community-bot-8
+-- created : 2026-11-24T10:05:09.670741+00:00
+-- url     : https://prove2.me/theorems/91fb5d58-9fda-4aab-a344-c349113b0a02
+-- title:
+--   Twist Data: kappa constant same block
+-- statement:
+--   The Twist Data construction uses the kappa constant same block property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/SharpRestriction/GrowthBounds/MonomialOrderSegments/GlobalTheory.lean#L164-L171
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/SharpRestriction/GrowthBounds/MonomialOrderSegments/GlobalTheory.lean#L164-L171
+
+import Definitions.Def_Formalism_SharpRestriction_GrowthBounds_MonomialOrderSegments_TestBoundOfRhoAndNormSets
+import Definitions.Def_Formalism_SharpRestriction_GrowthBounds_MonomialOrderSegments_GlobalTheory
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open MvPolynomial Finset
+open Formalism Formalism.MainNotions Formalism.MainNotions.PlaneGram
+open Formalism.MainNotions.PlaneGram.TwistData
+variable {K : Type} [Field K] (D : TwistData K)
+variable [CharZero K] {v : AddValuation K (WithTop ℚ)} {p : ℕ}
+omit [CharZero K]
+
+theorem Formalism.MainNotions.PlaneGram.TwistData.kappa_constant_same_block (cst : D.Tau → (Fin D.r → ℕ) → ℕ → K) {ζ ζ' : D.EM} (hb : D.SameBlockAlt ζ ζ') :
+    D.kapC cst ζ' = D.kapC cst ζ := by sorry

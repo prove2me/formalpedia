@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_S4_exists_strictMono_minor
 -- name    : Formalism.L2.FormalSeriesBounds.S4.exists_strictMono_minor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:51.9208+00:00
 -- url     : https://prove2.me/theorems/3f058da5-9d47-4423-8e6d-4e6a3748ce4b

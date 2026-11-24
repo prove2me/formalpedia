@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_intPol_whc
 -- name    : Formalism.InvariantFactorPaths.PW.intPol_whc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:10.840826+00:00
 -- url     : https://prove2.me/theorems/74dbe24d-48ac-4c30-b73e-b1f8bd0b58ab

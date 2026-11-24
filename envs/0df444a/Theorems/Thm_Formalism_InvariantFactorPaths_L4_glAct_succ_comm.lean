@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_glAct_succ_comm
 -- name    : Formalism.InvariantFactorPaths.L4.glAct_succ_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:49.506842+00:00
 -- url     : https://prove2.me/theorems/f564bf27-4631-4360-8a22-0d99433988d1

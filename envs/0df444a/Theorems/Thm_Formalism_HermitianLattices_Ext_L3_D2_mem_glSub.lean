@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_mem_glSub
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.mem_glSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:33:13.015801+00:00
 -- url     : https://prove2.me/theorems/c938da6b-d780-4aa4-b18d-777158ce32fd

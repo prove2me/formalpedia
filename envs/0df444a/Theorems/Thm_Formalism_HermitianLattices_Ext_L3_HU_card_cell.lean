@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_card_cell
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.card_cell
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:35:29.611871+00:00
 -- url     : https://prove2.me/theorems/be27db79-6107-40d1-bb52-f8ac22973d9d

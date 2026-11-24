@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_InvOp_comm_out
 -- name    : Formalism.InvariantFactorPaths.PW.InvOp_comm_out
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:48.735342+00:00
 -- url     : https://prove2.me/theorems/8f2003fb-80f3-4d81-be33-d19a25860ce6

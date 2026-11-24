@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_weylLat_div
 -- name    : Formalism.InvariantFactorPaths.PW.weylLat_div
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:46.844226+00:00
 -- url     : https://prove2.me/theorems/ab5022ab-3618-4c4e-9614-c49282606386

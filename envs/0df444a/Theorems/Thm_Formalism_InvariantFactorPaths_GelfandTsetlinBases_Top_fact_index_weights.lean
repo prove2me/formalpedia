@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Top_fact_index_weights
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.Top.fact_index_weights
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:07.148616+00:00
 -- url     : https://prove2.me/theorems/f8473cef-7787-4534-9298-aff29126591b

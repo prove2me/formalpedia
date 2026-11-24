@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_nO_unit
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.nO_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:43:03.783052+00:00
 -- url     : https://prove2.me/theorems/c91bf519-e525-44a6-9629-2386bcbba0ff

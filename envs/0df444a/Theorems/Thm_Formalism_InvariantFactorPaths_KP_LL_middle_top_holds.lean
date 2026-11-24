@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_LL_middle_top_holds
 -- name    : Formalism.InvariantFactorPaths.KP.LL.middle_top_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:36:32.155801+00:00
 -- url     : https://prove2.me/theorems/8526b9de-402c-4be6-9388-52f86922db2c

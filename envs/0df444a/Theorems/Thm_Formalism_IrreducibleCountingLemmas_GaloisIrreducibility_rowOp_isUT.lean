@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_rowOp_isUT
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.rowOp_isUT
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:48:30.522537+00:00
 -- url     : https://prove2.me/theorems/43875972-07ce-49cd-9a58-05e2be09bd7a

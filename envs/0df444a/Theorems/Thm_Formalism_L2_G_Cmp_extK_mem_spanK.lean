@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Cmp_extK_mem_spanK
 -- name    : Formalism.L2.G.Cmp.extK_mem_spanK
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:55.668251+00:00
 -- url     : https://prove2.me/theorems/209ce521-b1d1-4128-bac1-6140fc71d256

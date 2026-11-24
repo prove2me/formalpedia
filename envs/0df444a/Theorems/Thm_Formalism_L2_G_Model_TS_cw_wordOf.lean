@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_cw_wordOf
 -- name    : Formalism.L2.G.Model.TS.cw_wordOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:54:44.084621+00:00
 -- url     : https://prove2.me/theorems/791f4c7e-378a-4068-a3d0-9f9a3df68949

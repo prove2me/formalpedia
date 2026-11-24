@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_princ_le_congPre
 -- name    : Formalism.L2.G.princ_le_congPre
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:34:54.245869+00:00
 -- url     : https://prove2.me/theorems/db0af376-efb2-4b29-a3a8-e6a34555ca6f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LemOne_norm_coeff_of_pow
 -- name    : Formalism.InvariantFactorPaths.G7.LemOne.norm_coeff_of_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:54:38.243304+00:00
 -- url     : https://prove2.me/theorems/2c08f874-c3e7-42cc-94c8-d40b527f8f21

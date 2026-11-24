@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_gmap_eq_iff
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.gmap_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:42:33.56858+00:00
 -- url     : https://prove2.me/theorems/7aa9b318-482f-471f-9cdf-8104b22fb8a4

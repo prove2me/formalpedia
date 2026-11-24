@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_sum_coef_twisted
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.sum_coef_twisted
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:18.66341+00:00
 -- url     : https://prove2.me/theorems/0b0140ce-4c51-466e-b7a1-ca2b7614f7f8

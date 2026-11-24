@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_frobeniusEquiv_symm_mu_ne_zero
 -- name    : GroundTheory.PAdicHodge.AInf.frobeniusEquiv_symm_mu_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:49.201993+00:00
 -- url     : https://prove2.me/theorems/ec8bc26f-5f4e-4de5-86a0-cf8a53313e1b

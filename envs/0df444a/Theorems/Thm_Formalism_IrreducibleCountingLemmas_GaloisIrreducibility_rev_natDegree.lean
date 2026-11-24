@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_rev_natDegree
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.rev_natDegree
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:48:33.623924+00:00
 -- url     : https://prove2.me/theorems/64b456f3-e731-4e2d-b7ab-fbd8ebc28e33

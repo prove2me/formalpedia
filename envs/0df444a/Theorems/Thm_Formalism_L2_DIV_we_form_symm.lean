@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_we_form_symm
 -- name    : Formalism.L2.DIV.we_form_symm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:33.591206+00:00
 -- url     : https://prove2.me/theorems/a611e98a-8863-4209-a526-414200fbeb4c

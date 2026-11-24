@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_Comp_exists_unitary_one_det_eq
 -- name    : Formalism.L2.GlobalTheoryTheory.Comp.exists_unitary_one_det_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:29.07097+00:00
 -- url     : https://prove2.me/theorems/7fd0a85a-e090-4d2e-9734-3556ec6e81d6

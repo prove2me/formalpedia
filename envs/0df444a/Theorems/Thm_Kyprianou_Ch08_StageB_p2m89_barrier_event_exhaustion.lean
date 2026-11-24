@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m89_barrier_event_exhaustion
 -- name    : Kyprianou.Ch08.StageB.p2m89_barrier_event_exhaustion
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T09:49:53.847682+00:00
 -- url     : https://prove2.me/theorems/c3249260-9408-448b-8366-d6c968a9a3a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_classSetFinite_core
 -- name    : Formalism.HermitianLatticesTheory.classSetFinite_core
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:31:33.876555+00:00
 -- url     : https://prove2.me/theorems/6c2f687c-9220-4c10-a421-538597f8d307

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_sqMassLeOne_of
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.sqMassLeOne_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:46:41.466748+00:00
 -- url     : https://prove2.me/theorems/00d8ea2e-ff91-4660-b689-61f5c49c92c8

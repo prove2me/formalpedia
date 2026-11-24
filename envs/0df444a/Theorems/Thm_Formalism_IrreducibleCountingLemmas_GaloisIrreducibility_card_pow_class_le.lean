@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_card_pow_class_le
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.card_pow_class_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:37.71187+00:00
 -- url     : https://prove2.me/theorems/650511f7-0f65-4ac9-ac0d-c52f716d2f05

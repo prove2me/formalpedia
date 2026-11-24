@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Cmp_hform_fst
 -- name    : Formalism.L2.G.Cmp.hform_fst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:14.329342+00:00
 -- url     : https://prove2.me/theorems/00600738-434c-4326-a3ad-c853602fd04d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_glAct_X_mul_int
 -- name    : Formalism.InvariantFactorPaths.L4.glAct_X_mul_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:24.908798+00:00
 -- url     : https://prove2.me/theorems/04a9f3dc-eaf2-4178-88e5-ed6a40c163ee

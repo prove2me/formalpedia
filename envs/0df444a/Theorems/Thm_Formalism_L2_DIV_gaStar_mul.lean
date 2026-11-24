@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_gaStar_mul
 -- name    : Formalism.L2.DIV.gaStar_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:54:16.895851+00:00
 -- url     : https://prove2.me/theorems/8f1dc320-f7e3-4cf7-a82a-7b35e0284ef4

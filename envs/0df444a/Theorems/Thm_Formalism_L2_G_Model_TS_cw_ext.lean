@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_cw_ext
 -- name    : Formalism.L2.G.Model.TS.cw_ext
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:11.82964+00:00
 -- url     : https://prove2.me/theorems/a65247ab-ca78-4a2a-87dd-7f2666287656

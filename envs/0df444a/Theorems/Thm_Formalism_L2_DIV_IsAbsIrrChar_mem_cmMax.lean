@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_IsAbsIrrChar_mem_cmMax
 -- name    : Formalism.L2.DIV.IsAbsIrrChar.mem_cmMax
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:38.935962+00:00
 -- url     : https://prove2.me/theorems/16c9b501-6972-42aa-85e2-02eeeadd97cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_ParitySumsOverFilteredPairs_low_pay
 -- name    : Formalism.InvariantFactorPaths.G7.ParitySumsOverFilteredPairs.low_pay
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:00.775476+00:00
 -- url     : https://prove2.me/theorems/95a87171-31ac-418b-a066-32d8bd8d4496

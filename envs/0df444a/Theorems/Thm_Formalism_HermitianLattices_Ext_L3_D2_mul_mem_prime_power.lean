@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_mul_mem_prime_power
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.mul_mem_prime_power
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:49:14.834179+00:00
 -- url     : https://prove2.me/theorems/ee40b5cc-29d3-4912-b81f-93f377b9384c

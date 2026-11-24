@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GSD_card_rep
 -- name    : Formalism.L2.Col.GSD.card_rep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:49.846916+00:00
 -- url     : https://prove2.me/theorems/092cdce2-a24f-4dfd-a74d-976d70961790

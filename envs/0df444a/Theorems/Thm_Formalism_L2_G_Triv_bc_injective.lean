@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Triv_bc_injective
 -- name    : Formalism.L2.G.Triv.bc_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:32.660869+00:00
 -- url     : https://prove2.me/theorems/5ee2d46a-0592-43f2-a567-02e7fa167e15

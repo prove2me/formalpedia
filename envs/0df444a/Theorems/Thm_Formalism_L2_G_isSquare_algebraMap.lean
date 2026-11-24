@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_isSquare_algebraMap
 -- name    : Formalism.L2.G.isSquare_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:21.45254+00:00
 -- url     : https://prove2.me/theorems/57ee487e-8056-4b46-a196-e43f56ba703b

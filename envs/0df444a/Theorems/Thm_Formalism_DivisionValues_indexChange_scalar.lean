@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_indexChange_scalar
 -- name    : Formalism.DivisionValues.indexChange_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:07:05.691688+00:00
 -- url     : https://prove2.me/theorems/d08eebbd-96f7-4a5e-b0d4-86558bb53c8c

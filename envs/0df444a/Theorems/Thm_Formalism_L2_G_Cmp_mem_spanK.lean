@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Cmp_mem_spanK
 -- name    : Formalism.L2.G.Cmp.mem_spanK
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:54:29.912536+00:00
 -- url     : https://prove2.me/theorems/16a449ab-30d5-4737-88e9-a80d0fab5159

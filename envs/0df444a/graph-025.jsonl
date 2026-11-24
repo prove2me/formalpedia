@@ -27004,7 +27004,7 @@
 {"parent": "L22EigEst.lemma_4_3", "child": "L22EigEst_SECond", "via": ["statement"]}
 {"parent": "MaoLowDegree.Counterexample.lemma_3_3", "child": "MaoLowDegree_Counterexample_computationalClaims", "via": ["statement"]}
 {"parent": "ParallelDiffusionLB.NearIsotropic.lemma_A_14", "child": "ParallelDiffusionLB_NearIsotropic_Product", "via": ["statement"]}
-{"parent": "LocalPush.lemma_5_5", "child": "LocalPush_GoodTraj", "via": ["statement"]}
+{"parent": "LocalPush.lemma_5_5", "child": "LocalPush_GoodTraj", "via": ["solution", "statement"]}
 {"parent": "PhyloCSP_Predicate", "child": "PhyloCSP_Pattern", "via": ["statement"]}
 {"parent": "DetSupportRank.DeterminantSupport.theorem_3_9", "child": "DetSupportRank_DeterminantSupport_DegreeVarieties", "via": ["statement"]}
 {"parent": "SkipListConc.lemma_4_11", "child": "SkipListConc_servedHeight", "via": ["statement"]}
@@ -27845,7 +27845,7 @@
 {"parent": "OAI.SharpPlanar.CachedData.hm25_1_0_2.s3_eq_g", "child": "OAIQ098G1060", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm25_1_0_2.s3_eq_g", "child": "OAIQ098G1066", "via": ["solution", "statement"]}
 {"parent": "LindbladStructLearn_recordPair", "child": "LindbladTolerant_Testing_lindblad_model", "via": ["statement"]}
-{"parent": "LocalPush.lemma_5_7", "child": "LocalPush_GoodTraj", "via": ["statement"]}
+{"parent": "LocalPush.lemma_5_7", "child": "LocalPush_GoodTraj", "via": ["solution", "statement"]}
 {"parent": "PivotADO.OneHop.two_mul_edges_ge_card", "child": "PivotADO_OneHop_Oracle", "via": ["statement"]}
 {"parent": "FourBlockIP_FPT_Convexity", "child": "FourBlockIP_FPT_Machine", "via": ["statement"]}
 {"parent": "FourBlockIP_FPT_Convexity", "child": "FourBlockIP_FPT_Data", "via": ["statement"]}
@@ -32891,7 +32891,7 @@
 {"parent": "OAI.SharpPlanar.CachedData.ha19_0_10_contains_g", "child": "OAIQ098G1680", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.ha19_0_10_contains_g", "child": "OAIQ098G388", "via": ["solution", "statement"]}
 {"parent": "PaceSSSP517_Certified_Law", "child": "PaceSSSP517_Certified_Algorithm", "via": ["statement"]}
-{"parent": "LocalPush.lemma_5_6", "child": "LocalPush_GoodTraj", "via": ["statement"]}
+{"parent": "LocalPush.lemma_5_6", "child": "LocalPush_GoodTraj", "via": ["solution", "statement"]}
 {"parent": "TriFormQ.fact_2", "child": "TriFormQ_goodSet", "via": ["statement"]}
 {"parent": "TriFormQ.fact_2", "child": "TriFormQ_fiber", "via": ["statement"]}
 {"parent": "TriFormQ.fact_2", "child": "TriFormQ_sliceU", "via": ["statement"]}
@@ -37564,7 +37564,7 @@
 {"parent": "MatchingGFT.TightE.proposition_4_3", "child": "MatchingGFT_TightE_CappedExp", "via": ["statement"]}
 {"parent": "NadlerCLS.co_equiv_clsSearch", "child": "NetworkEquilibriumCLS_LinearNash_Complexity", "via": ["statement"]}
 {"parent": "NadlerCLS.co_equiv_clsSearch", "child": "NadlerCLS_coSearch", "via": ["statement"]}
-{"parent": "LocalPush.lemma_5_3", "child": "LocalPush_GoodTraj", "via": ["statement"]}
+{"parent": "LocalPush.lemma_5_3", "child": "LocalPush_GoodTraj", "via": ["solution", "statement"]}
 {"parent": "CommutativeRankNC_Approximation_ConstructionCodes", "child": "CommutativeRankNC_Approximation_Boosting", "via": ["statement"]}
 {"parent": "RestrictedDec.cca_implies_functional", "child": "RestrictedDec_INDCCA2", "via": ["statement"]}
 {"parent": "RestrictedDec.cca_implies_functional", "child": "RestrictedDec_PKE_IsScheme", "via": ["statement"]}
@@ -40127,7 +40127,7 @@
 {"parent": "OAI.MUB6.Certificate.MixedTargetSemantics.reducedMergeEval957_e", "child": "OAIQ106E136", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedTargetSemantics.reducedMergeEval957_e", "child": "OAIQ106E138", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedTargetSemantics.reducedMergeEval957_e", "child": "OAIQ106E137", "via": ["solution", "statement"]}
-{"parent": "LocalPush.lemma_5_8", "child": "LocalPush_GoodTraj", "via": ["statement"]}
+{"parent": "LocalPush.lemma_5_8", "child": "LocalPush_GoodTraj", "via": ["solution", "statement"]}
 {"parent": "TwoChoicesSuffice.KOut.theorem_10", "child": "TwoChoicesSuffice_KOut_Sampling", "via": ["statement"]}
 {"parent": "AbelianCayleyHDX_linkWeight", "child": "ReplParity_Vec", "via": ["statement"]}
 {"parent": "ChoresTIE197.Main.lemma_B_1", "child": "ChoresTIE197_Main_Families", "via": ["statement"]}
@@ -42027,7 +42027,7 @@
 {"parent": "HouseAllocLT.LowerBound.budget_limit", "child": "HouseAllocLT_LowerBound_prefixList", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_ubv_finite13_original_stopped_gaussian_cross_moment", "child": "AvramDividend.Classical.avram_ubv_finite11_original_zerojump_two_stopped_grid_condexp", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ubv_finite13_original_stopped_gaussian_cross_moment", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "LocalPush.lemma_5_4", "child": "LocalPush_GoodTraj", "via": ["statement"]}
+{"parent": "LocalPush.lemma_5_4", "child": "LocalPush_GoodTraj", "via": ["solution", "statement"]}
 {"parent": "LinfContractionFP.eq_16", "child": "LinfContractionFP_roundsBound", "via": ["statement"]}
 {"parent": "SATotalCoeffLB_Var", "child": "SATotalCoeffLB_Pair", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm21_1_0_3.s3_eq_g", "child": "OAIQ098G1028", "via": ["solution", "statement"]}
@@ -44499,7 +44499,7 @@
 {"parent": "OAI.SharpPlanar.CachedData.kernel96_1_r5_eq_g", "child": "OAIQ098G1454", "via": ["solution", "statement"]}
 {"parent": "WeightedSpectralSketch.LowerBound.anchor_decomposition", "child": "WeightedSpectralSketch_LowerBound_Anchor", "via": ["statement"]}
 {"parent": "WeightedSpectralSketch.LowerBound.anchor_decomposition", "child": "WeightedSpectralSketch_LowerBound_Graph", "via": ["statement"]}
-{"parent": "LocalPush.lemma_5_3_prob", "child": "LocalPush_SeedRun", "via": ["statement"]}
+{"parent": "LocalPush.lemma_5_3_prob", "child": "LocalPush_SeedRun", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm33_0_1_6.s4_eq_g", "child": "OAIQ098G1154", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm33_0_1_6.s4_eq_g", "child": "OAIQ098G1114", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm25_1_0_6.s5_eq_g", "child": "OAIQ098G1060", "via": ["solution", "statement"]}

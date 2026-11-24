@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GSD_map_intDel
 -- name    : Formalism.L2.Col.GSD.map_intDel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:48:58.128644+00:00
 -- url     : https://prove2.me/theorems/9ccd780e-2eae-4142-96cb-7494c2db258b

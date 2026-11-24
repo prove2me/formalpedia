@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_kappa_le_height_bound
 -- name    : Formalism.InvariantFactorPaths.PW.kappa_le_height_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:10.199692+00:00
 -- url     : https://prove2.me/theorems/def99ac9-f514-40b9-9b1f-a9c14f9d3e54

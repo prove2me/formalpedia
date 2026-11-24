@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_sl2_eq_zero_of_lower_zero_of_raise_pow_zero
 -- name    : Formalism.InvariantFactorPaths.L4.sl2_eq_zero_of_lower_zero_of_raise_pow_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:46.588129+00:00
 -- url     : https://prove2.me/theorems/b553a897-811b-4f3e-868d-7f12890957a6

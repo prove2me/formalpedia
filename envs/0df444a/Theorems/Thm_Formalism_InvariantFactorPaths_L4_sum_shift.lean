@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_sum_shift
 -- name    : Formalism.InvariantFactorPaths.L4.sum_shift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:45.320502+00:00
 -- url     : https://prove2.me/theorems/919602fc-43cc-4b27-a12d-f7e7753522af

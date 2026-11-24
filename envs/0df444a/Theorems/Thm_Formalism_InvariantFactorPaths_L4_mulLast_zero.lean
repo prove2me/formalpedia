@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_mulLast_zero
 -- name    : Formalism.InvariantFactorPaths.L4.mulLast_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:22.056939+00:00
 -- url     : https://prove2.me/theorems/c737055f-7946-4005-b6fe-1fe48f71dddf

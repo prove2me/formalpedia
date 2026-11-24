@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_WModel_toNNReal_exp
 -- name    : Formalism.InvariantFactorPaths.G7.WModel.toNNReal_exp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:02.621526+00:00
 -- url     : https://prove2.me/theorems/ce7a0cda-6d91-4409-8934-73d7d9f80444

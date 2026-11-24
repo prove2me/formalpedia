@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_entryExcessBound_of
 -- name    : Formalism.InvariantFactorPaths.G7.entryExcessBound_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:11.706966+00:00
 -- url     : https://prove2.me/theorems/8729507a-7ac7-4686-9ff1-1d325412714d

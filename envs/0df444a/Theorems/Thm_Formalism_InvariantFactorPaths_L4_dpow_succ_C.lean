@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_dpow_succ_C
 -- name    : Formalism.InvariantFactorPaths.L4.dpow_succ_C
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:29.034851+00:00
 -- url     : https://prove2.me/theorems/f466a4ed-47c3-4e99-ad8c-8a4e1741a69c

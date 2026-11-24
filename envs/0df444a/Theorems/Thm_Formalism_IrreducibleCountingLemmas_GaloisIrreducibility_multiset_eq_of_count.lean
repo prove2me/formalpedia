@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_multiset_eq_of_count
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.multiset_eq_of_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:44:21.057145+00:00
 -- url     : https://prove2.me/theorems/0b7192ca-c679-4aa1-a9f8-d89610cfde63

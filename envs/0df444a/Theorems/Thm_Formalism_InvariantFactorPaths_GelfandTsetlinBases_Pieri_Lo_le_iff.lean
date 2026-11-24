@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Pieri_Lo_le_iff
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.Pieri.Lo_le_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:54.327456+00:00
 -- url     : https://prove2.me/theorems/4552189d-4bd2-465c-b124-6ed1b3d884b1

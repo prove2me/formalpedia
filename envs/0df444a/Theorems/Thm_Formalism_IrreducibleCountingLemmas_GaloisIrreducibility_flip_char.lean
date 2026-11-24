@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_flip_char
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.flip_char
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:44:14.490803+00:00
 -- url     : https://prove2.me/theorems/c883ca94-e1a3-47b4-bf1f-5e4f3abc67fe

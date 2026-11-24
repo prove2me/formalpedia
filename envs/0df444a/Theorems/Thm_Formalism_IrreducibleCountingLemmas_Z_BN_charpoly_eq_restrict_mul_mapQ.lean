@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_BN_charpoly_eq_restrict_mul_mapQ
 -- name    : Formalism.IrreducibleCountingLemmas.Z.BN.charpoly_eq_restrict_mul_mapQ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:40.810558+00:00
 -- url     : https://prove2.me/theorems/26b0dc25-159f-4778-ac50-5cc0a4534872

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_WCB_laurent_adjoin_eq_of_image_eq
 -- name    : Formalism.HermitianLattices.Ext.L3.WCB.laurent_adjoin_eq_of_image_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:48:29.748599+00:00
 -- url     : https://prove2.me/theorems/c93f2503-21c6-4061-857c-8ab5e22a7b20

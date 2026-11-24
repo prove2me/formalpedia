@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Geo_Def_G1_star_int
 -- name    : Formalism.L2.Geo.Def.G1.star_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:05.784154+00:00
 -- url     : https://prove2.me/theorems/900ba7fd-4624-4fe3-b16d-47c106c277b6

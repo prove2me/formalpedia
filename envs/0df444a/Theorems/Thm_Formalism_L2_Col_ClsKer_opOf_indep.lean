@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_ClsKer_opOf_indep
 -- name    : Formalism.L2.Col.ClsKer.opOf_indep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:39.874691+00:00
 -- url     : https://prove2.me/theorems/cc2c9512-bb00-4190-a303-d350b2d30709

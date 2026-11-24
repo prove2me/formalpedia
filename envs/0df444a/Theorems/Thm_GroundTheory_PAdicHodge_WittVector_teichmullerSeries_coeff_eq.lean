@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_WittVector_teichmullerSeries_coeff_eq
 -- name    : GroundTheory.PAdicHodge.WittVector.teichmullerSeries_coeff_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:37.676434+00:00
 -- url     : https://prove2.me/theorems/8c17c735-363a-42a5-885a-99acff2bfa74

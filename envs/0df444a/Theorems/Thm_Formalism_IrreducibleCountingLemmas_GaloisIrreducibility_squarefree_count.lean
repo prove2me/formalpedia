@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_squarefree_count
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.squarefree_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:24.54752+00:00
 -- url     : https://prove2.me/theorems/01e1d039-3560-4f83-bf51-4c43d2a26394

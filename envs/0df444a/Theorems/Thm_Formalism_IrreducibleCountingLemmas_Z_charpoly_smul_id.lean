@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_charpoly_smul_id
 -- name    : Formalism.IrreducibleCountingLemmas.Z.charpoly_smul_id
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:51:53.869635+00:00
 -- url     : https://prove2.me/theorems/57550a8d-c6a9-4ee6-845b-6d178bd72005

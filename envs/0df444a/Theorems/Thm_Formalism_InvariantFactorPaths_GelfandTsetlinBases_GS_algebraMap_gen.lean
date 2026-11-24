@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_GS_algebraMap_gen
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.GS.algebraMap_gen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:41.791605+00:00
 -- url     : https://prove2.me/theorems/58549203-7fe7-4854-b803-20ce15fb785b

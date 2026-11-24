@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A1_col_lead
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.A1.col_lead
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:25.145961+00:00
 -- url     : https://prove2.me/theorems/71dc4e77-f55f-4503-894a-3fcdc236c170

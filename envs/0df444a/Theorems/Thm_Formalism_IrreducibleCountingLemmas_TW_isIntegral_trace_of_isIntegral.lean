@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_TW_isIntegral_trace_of_isIntegral
 -- name    : Formalism.IrreducibleCountingLemmas.TW.isIntegral_trace_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:31.573383+00:00
 -- url     : https://prove2.me/theorems/7468698d-64c4-4dc0-a9de-42ab9fcc0f76

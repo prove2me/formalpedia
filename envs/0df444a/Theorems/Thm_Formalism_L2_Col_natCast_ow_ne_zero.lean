@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_natCast_ow_ne_zero
 -- name    : Formalism.L2.Col.natCast_ow_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:29.798447+00:00
 -- url     : https://prove2.me/theorems/c4d4e027-b14f-4afa-96de-d23fe6e22f2e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_LocOp_ofNbr_adjoint
 -- name    : Formalism.L2.Col.LocOp.ofNbr_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:41.33128+00:00
 -- url     : https://prove2.me/theorems/4dbb9727-c89e-4f4c-903e-b2522dece2e5

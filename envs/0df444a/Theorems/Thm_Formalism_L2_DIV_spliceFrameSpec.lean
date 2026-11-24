@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_spliceFrameSpec
 -- name    : Formalism.L2.DIV.spliceFrameSpec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:49.832749+00:00
 -- url     : https://prove2.me/theorems/be826596-afc2-4272-b3ad-c25a8c365c76

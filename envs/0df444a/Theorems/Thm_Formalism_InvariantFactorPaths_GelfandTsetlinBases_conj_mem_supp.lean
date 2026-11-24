@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_conj_mem_supp
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.conj_mem_supp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:35:12.54573+00:00
 -- url     : https://prove2.me/theorems/4f450141-50eb-4b0a-8091-907fc88802b4

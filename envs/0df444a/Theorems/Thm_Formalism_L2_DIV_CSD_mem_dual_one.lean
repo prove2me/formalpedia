@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_CSD_mem_dual_one
 -- name    : Formalism.L2.DIV.CSD.mem_dual_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:19.394987+00:00
 -- url     : https://prove2.me/theorems/7d003903-fad1-42a5-9510-e7b66f236a31

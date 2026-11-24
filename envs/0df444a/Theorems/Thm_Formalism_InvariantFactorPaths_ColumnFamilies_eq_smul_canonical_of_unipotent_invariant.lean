@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_eq_smul_canonical_of_unipotent_invariant
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.eq_smul_canonical_of_unipotent_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:21:30.121266+00:00
 -- url     : https://prove2.me/theorems/7f9937be-68d1-4ab3-b993-17b5dac5341a

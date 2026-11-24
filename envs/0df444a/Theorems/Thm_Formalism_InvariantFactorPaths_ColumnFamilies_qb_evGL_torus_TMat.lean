@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qb_evGL_torus_TMat
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qb_evGL_torus_TMat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:47:48.338798+00:00
 -- url     : https://prove2.me/theorems/65397593-0b8b-49ca-b160-7f46dc5a460b

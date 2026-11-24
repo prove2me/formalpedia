@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_mulLast_bwd
 -- name    : Formalism.InvariantFactorPaths.L4.mulLast_bwd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:21.346801+00:00
 -- url     : https://prove2.me/theorems/98644d6e-f435-42a9-aa22-5fa9fd2deedb

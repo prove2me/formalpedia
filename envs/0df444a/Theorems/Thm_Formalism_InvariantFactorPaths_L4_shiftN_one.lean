@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_shiftN_one
 -- name    : Formalism.InvariantFactorPaths.L4.shiftN_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:49.673401+00:00
 -- url     : https://prove2.me/theorems/0b9726c6-ff05-46c9-8580-020def8ea422

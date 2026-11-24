@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_TW_central_idempotent_integral_twist
 -- name    : Formalism.IrreducibleCountingLemmas.TW.central_idempotent_integral_twist
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:07:54.267494+00:00
 -- url     : https://prove2.me/theorems/c5142b50-1305-4604-9375-e7f9afb155d7

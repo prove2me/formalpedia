@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_sum_get
 -- name    : Formalism.L2.FormalSeriesBounds.RF.sum_get
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:51:05.373305+00:00
 -- url     : https://prove2.me/theorems/e45e0e3a-4ecf-42db-baf3-4877d7c438f8

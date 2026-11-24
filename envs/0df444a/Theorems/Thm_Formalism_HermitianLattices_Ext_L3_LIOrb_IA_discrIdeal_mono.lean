@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LIOrb_IA_discrIdeal_mono
 -- name    : Formalism.HermitianLattices.Ext.L3.LIOrb.IA.discrIdeal_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:47:16.936526+00:00
 -- url     : https://prove2.me/theorems/a529b43e-e6d9-4aae-aee2-d2c43298c395

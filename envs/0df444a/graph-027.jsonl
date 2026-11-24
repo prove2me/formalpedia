@@ -67909,7 +67909,7 @@
 {"parent": "OAI.MUB6.Certificate.GramRows.rowEval7788_e", "child": "OAIQ106E018", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramRows.rowEval7788_e", "child": "OAIQ106E044", "via": ["solution", "statement"]}
 {"parent": "HigherOrderId_Certify_Release", "child": "HigherOrderId_Certify_Model", "via": ["statement"]}
-{"parent": "HamLocality237.Testing.lemma_3_6", "child": "HamLocality237_Testing_Adversary", "via": ["statement"]}
+{"parent": "HamLocality237.Testing.lemma_3_6", "child": "HamLocality237_Testing_Adversary", "via": ["solution", "statement"]}
 {"parent": "MarginMaxima_Critical_LipClass", "child": "MarginMaxima_Critical_MaxClass", "via": ["statement"]}
 {"parent": "QEC.Coding.BDL26RXActiveErrorTransport.neighbors_card_le_sharp", "child": "QEC_Coding_FiniteAlternatingConstruction_RXActiveErrorTransport", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RXActiveErrorTransport.neighbors_card_le_sharp", "child": "QEC_Coding_FiniteAlternatingConstruction_RXFiniteBlockTransport", "via": ["solution", "statement"]}

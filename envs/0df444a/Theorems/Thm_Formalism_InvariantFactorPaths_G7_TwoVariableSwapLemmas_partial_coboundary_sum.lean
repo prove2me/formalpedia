@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_TwoVariableSwapLemmas_partial_coboundary_sum
 -- name    : Formalism.InvariantFactorPaths.G7.TwoVariableSwapLemmas.partial_coboundary_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:28:26.480316+00:00
 -- url     : https://prove2.me/theorems/6d53d526-d82a-4a9c-a017-80f7ec580825

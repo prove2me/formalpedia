@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LIOrb_apply_mem_smul_of_mem_autSub
 -- name    : Formalism.HermitianLattices.Ext.L3.LIOrb.apply_mem_smul_of_mem_autSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:48:12.267559+00:00
 -- url     : https://prove2.me/theorems/bbdb7ae3-6bdf-4c6f-ba14-2c048f2a44bf

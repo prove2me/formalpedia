@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LIOrb_finite_quot_inf
 -- name    : Formalism.HermitianLattices.Ext.L3.LIOrb.finite_quot_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:48:09.839457+00:00
 -- url     : https://prove2.me/theorems/3a3fd5e1-4a3d-4a1e-ae98-5ea3ee9c269d

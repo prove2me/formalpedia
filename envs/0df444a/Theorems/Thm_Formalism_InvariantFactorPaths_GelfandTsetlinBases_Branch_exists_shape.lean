@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Branch_exists_shape
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.Branch.exists_shape
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:57.971301+00:00
 -- url     : https://prove2.me/theorems/016654c7-90e3-4796-a9da-628dc0c3b0a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_small_last_mul
 -- name    : Formalism.InvariantFactorPaths.L4.small_last_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:38.294627+00:00
 -- url     : https://prove2.me/theorems/00dd72a5-ae96-4d0b-948a-6ee15cee8d21

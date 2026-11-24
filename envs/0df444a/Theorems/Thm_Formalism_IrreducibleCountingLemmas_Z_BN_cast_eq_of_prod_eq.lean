@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_BN_cast_eq_of_prod_eq
 -- name    : Formalism.IrreducibleCountingLemmas.Z.BN.cast_eq_of_prod_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:57.231222+00:00
 -- url     : https://prove2.me/theorems/c6bba85a-7867-425d-956e-18aae68c5f21

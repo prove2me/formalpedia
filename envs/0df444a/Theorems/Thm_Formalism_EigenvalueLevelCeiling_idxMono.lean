@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_idxMono
 -- name    : Formalism.EigenvalueLevelCeiling.idxMono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:52:55.849288+00:00
 -- url     : https://prove2.me/theorems/f746fa0e-ad1a-4759-9d83-319ad09f1dd7

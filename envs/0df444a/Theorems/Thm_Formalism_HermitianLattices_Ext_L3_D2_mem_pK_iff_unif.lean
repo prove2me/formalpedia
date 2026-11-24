@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_mem_pK_iff_unif
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.mem_pK_iff_unif
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:29:08.15307+00:00
 -- url     : https://prove2.me/theorems/455dba2a-a14c-41d0-894a-786c0ad7ebec

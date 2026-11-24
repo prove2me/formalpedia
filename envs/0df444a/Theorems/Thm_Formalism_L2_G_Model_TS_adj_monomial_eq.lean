@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_adj_monomial_eq
 -- name    : Formalism.L2.G.Model.TS.adj_monomial_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:54:57.523026+00:00
 -- url     : https://prove2.me/theorems/210106a1-e602-4a90-89ac-ac6ebb6a6a9d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_factorOverLocalSubalgebra
 -- name    : Formalism.IrreducibleCountingLemmas.Z.factorOverLocalSubalgebra
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:36.112025+00:00
 -- url     : https://prove2.me/theorems/2529b9b3-aae6-4d6f-8a5e-6feaeaa0c246

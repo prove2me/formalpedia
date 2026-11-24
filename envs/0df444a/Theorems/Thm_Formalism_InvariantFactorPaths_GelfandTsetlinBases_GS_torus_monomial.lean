@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_GS_torus_monomial
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.GS.torus_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:06:24.446797+00:00
 -- url     : https://prove2.me/theorems/7b6388ab-e211-4574-a2da-502231d2538c

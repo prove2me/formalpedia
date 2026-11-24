@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_prime_cycle_perm_count
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.prime_cycle_perm_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:56.336796+00:00
 -- url     : https://prove2.me/theorems/06645015-943e-47d5-a99c-aed13825751f

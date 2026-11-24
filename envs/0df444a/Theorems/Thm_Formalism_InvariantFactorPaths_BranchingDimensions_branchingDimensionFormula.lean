@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_branchingDimensionFormula
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.branchingDimensionFormula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:47:31.844157+00:00
 -- url     : https://prove2.me/theorems/7b34126d-c993-45f6-9241-c6bd8f97190f

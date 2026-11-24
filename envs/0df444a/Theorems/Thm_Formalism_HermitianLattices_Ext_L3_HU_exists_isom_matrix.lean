@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_exists_isom_matrix
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.exists_isom_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:53.293923+00:00
 -- url     : https://prove2.me/theorems/71294c83-8552-49e1-842b-9c3d269640f3

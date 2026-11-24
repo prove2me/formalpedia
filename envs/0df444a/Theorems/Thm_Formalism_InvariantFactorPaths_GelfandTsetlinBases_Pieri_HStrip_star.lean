@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Pieri_HStrip_star
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.Pieri.HStrip_star
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:35:17.765108+00:00
 -- url     : https://prove2.me/theorems/8fc5328d-812f-42dc-a251-e9e8d9c86c32

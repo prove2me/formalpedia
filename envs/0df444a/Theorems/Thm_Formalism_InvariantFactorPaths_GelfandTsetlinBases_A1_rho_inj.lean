@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A1_rho_inj
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.A1.rho_inj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:27.88859+00:00
 -- url     : https://prove2.me/theorems/5a1b9a8b-133e-4e0d-9739-46e12253efbe

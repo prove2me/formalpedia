@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_RedC_index_eq_card
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.RedC.index_eq_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:48:08.436364+00:00
 -- url     : https://prove2.me/theorems/37e8e145-fefc-423e-8516-e22dd9cd00c3

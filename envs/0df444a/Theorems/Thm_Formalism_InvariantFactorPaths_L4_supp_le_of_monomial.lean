@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_supp_le_of_monomial
 -- name    : Formalism.InvariantFactorPaths.L4.supp_le_of_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:01.176947+00:00
 -- url     : https://prove2.me/theorems/6366246a-6cf9-40ac-b03f-19cd53ea14e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_minorProdBlockDegree
 -- name    : Formalism.InvariantFactorPaths.G7.minorProdBlockDegree
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:30.433115+00:00
 -- url     : https://prove2.me/theorems/5975b918-106e-41d9-90c4-498a0bf0058b

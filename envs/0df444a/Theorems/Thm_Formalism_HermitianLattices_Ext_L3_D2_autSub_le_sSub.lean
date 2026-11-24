@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_autSub_le_sSub
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.autSub_le_sSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:45:54.921909+00:00
 -- url     : https://prove2.me/theorems/a519ef17-f26b-4bcd-811d-a1bd78076b1f

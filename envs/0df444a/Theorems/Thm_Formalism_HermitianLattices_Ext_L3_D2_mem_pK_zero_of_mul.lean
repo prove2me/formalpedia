@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_mem_pK_zero_of_mul
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.mem_pK_zero_of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:49:27.439692+00:00
 -- url     : https://prove2.me/theorems/3ce2f882-9940-4579-bc99-4cddcfb88731

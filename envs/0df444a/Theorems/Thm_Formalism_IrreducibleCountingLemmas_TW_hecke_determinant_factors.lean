@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_TW_hecke_determinant_factors
 -- name    : Formalism.IrreducibleCountingLemmas.TW.hecke_determinant_factors
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:32.30023+00:00
 -- url     : https://prove2.me/theorems/f2deb4e7-6d8c-476f-9314-a4bf57af0d33

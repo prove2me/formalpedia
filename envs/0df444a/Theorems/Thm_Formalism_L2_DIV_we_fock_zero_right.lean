@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_we_fock_zero_right
 -- name    : Formalism.L2.DIV.we_fock_zero_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:54:57.782812+00:00
 -- url     : https://prove2.me/theorems/ec87ef4f-be64-4016-8e14-bb5268738947

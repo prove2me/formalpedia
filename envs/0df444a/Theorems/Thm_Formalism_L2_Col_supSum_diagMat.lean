@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_supSum_diagMat
 -- name    : Formalism.L2.Col.supSum_diagMat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:51:19.618626+00:00
 -- url     : https://prove2.me/theorems/875684cc-c9a0-487a-8f6f-cd853ddd9408

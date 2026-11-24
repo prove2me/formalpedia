@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_CharacteristicFromRanks_gam_nonneg
 -- name    : Formalism.L2.FormalSeriesBounds.CharacteristicFromRanks.gam_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:42.539682+00:00
 -- url     : https://prove2.me/theorems/1d23fda8-f9e4-46f4-970e-693ce711b311

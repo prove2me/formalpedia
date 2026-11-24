@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_CISum_centralIdem_act
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.CISum.centralIdem_act
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:15.372702+00:00
 -- url     : https://prove2.me/theorems/09bc2662-93ef-4e22-b8fc-2590a60364c2

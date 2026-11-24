@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_lowerTri_of_interlaced
 -- name    : Formalism.L2.G.Model.TS.lowerTri_of_interlaced
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:54.001853+00:00
 -- url     : https://prove2.me/theorems/4cdd0a3f-ab6a-4bef-a552-28e4e47e6bae

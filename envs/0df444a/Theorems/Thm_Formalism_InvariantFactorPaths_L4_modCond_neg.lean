@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_modCond_neg
 -- name    : Formalism.InvariantFactorPaths.L4.modCond_neg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:25.692801+00:00
 -- url     : https://prove2.me/theorems/a49eb98e-95ec-4d15-8d92-1107564d75da

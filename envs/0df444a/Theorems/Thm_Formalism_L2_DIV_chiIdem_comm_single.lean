@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_chiIdem_comm_single
 -- name    : Formalism.L2.DIV.chiIdem_comm_single
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:54:11.974967+00:00
 -- url     : https://prove2.me/theorems/182e6555-fcd6-4821-9eb3-51e69b54f544

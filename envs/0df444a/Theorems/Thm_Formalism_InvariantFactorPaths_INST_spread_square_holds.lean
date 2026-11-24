@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_spread_square_holds
 -- name    : Formalism.InvariantFactorPaths.INST.spread_square_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:36:30.584182+00:00
 -- url     : https://prove2.me/theorems/fc846100-291f-47e1-a605-fb8723f660e1

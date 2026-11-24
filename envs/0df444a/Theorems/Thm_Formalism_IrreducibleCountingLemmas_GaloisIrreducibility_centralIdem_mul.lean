@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_centralIdem_mul
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.centralIdem_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:24.464564+00:00
 -- url     : https://prove2.me/theorems/740f4f68-be71-408a-8f13-56f572dc2b33

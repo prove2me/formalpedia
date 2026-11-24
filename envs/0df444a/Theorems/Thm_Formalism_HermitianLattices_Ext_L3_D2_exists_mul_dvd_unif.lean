@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_exists_mul_dvd_unif
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.exists_mul_dvd_unif
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:46:24.46767+00:00
 -- url     : https://prove2.me/theorems/c4bbf2fe-1709-48b1-86ca-26d793c43ecc

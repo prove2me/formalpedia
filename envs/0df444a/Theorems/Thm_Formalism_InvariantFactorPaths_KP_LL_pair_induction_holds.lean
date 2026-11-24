@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_LL_pair_induction_holds
 -- name    : Formalism.InvariantFactorPaths.KP.LL.pair_induction_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:36:29.933978+00:00
 -- url     : https://prove2.me/theorems/f0173b5f-dbd0-42a0-a2f6-674d0bc90c4f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_relIndex_eq_card_image
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.relIndex_eq_card_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:46:38.629009+00:00
 -- url     : https://prove2.me/theorems/2295ddb5-0ff1-4dcd-b394-5a25c044dc29

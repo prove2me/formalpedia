@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Geo_Rec_TraceQuadraticBound_re_star_dot_self
 -- name    : Formalism.L2.Geo.Rec.TraceQuadraticBound.re_star_dot_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:34:57.136254+00:00
 -- url     : https://prove2.me/theorems/41a68dfa-73c9-4dde-9fa6-5224712fc546

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_nO_mul
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.nO_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:43:27.523155+00:00
 -- url     : https://prove2.me/theorems/13d50626-4460-4a87-8703-1bb857606819

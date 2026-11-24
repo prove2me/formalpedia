@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_le_rightStab_avgOver
 -- name    : GroundTheory.Automorphic.Parabolic.le_rightStab_avgOver
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:38:38.681728+00:00
 -- url     : https://prove2.me/theorems/d7fb3e87-c5f9-4ce6-b9e1-ee3242236a79

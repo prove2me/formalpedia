@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_fk_extNorm_mem
 -- name    : Formalism.L2.DIV.fk_extNorm_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:03:05.762835+00:00
 -- url     : https://prove2.me/theorems/f4e3cde7-108b-4457-a2be-c309d2d9abc7

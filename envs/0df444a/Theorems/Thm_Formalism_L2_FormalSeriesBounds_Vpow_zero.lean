@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_Vpow_zero
 -- name    : Formalism.L2.FormalSeriesBounds.Vpow_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:47.967218+00:00
 -- url     : https://prove2.me/theorems/ce0bf0f8-2dc3-408f-b21f-8da03bcf3a2c

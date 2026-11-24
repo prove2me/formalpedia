@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_BN_Kills_mul_right
 -- name    : Formalism.IrreducibleCountingLemmas.Z.BN.Kills.mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:48:07.960961+00:00
 -- url     : https://prove2.me/theorems/e92503f0-c446-40d0-b69e-1142baee19d2

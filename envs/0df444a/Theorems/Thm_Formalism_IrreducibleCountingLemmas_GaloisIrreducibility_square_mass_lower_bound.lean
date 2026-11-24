@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_square_mass_lower_bound
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.square_mass_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:18.852563+00:00
 -- url     : https://prove2.me/theorems/7344a468-c9b3-4dc1-a044-6da34f3c5959

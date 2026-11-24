@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A0_sum_bc
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.A0.sum_bc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:46.443349+00:00
 -- url     : https://prove2.me/theorems/61a26ce7-1401-439a-bcff-f833f50314c8

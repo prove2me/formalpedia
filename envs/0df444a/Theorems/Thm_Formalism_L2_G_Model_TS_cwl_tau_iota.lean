@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_cwl_tau_iota
 -- name    : Formalism.L2.G.Model.TS.cwl_tau_iota
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:26.403169+00:00
 -- url     : https://prove2.me/theorems/6597c34d-32c2-4346-a805-3e169fae743a

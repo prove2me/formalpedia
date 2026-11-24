@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_polynomial_b_rank
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.polynomial_b_rank
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:57:32.538438+00:00
 -- url     : https://prove2.me/theorems/a03c589f-32fc-4d2e-8199-0da3d2bf02ca

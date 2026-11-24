@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_NO_exists_sub_mem
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.NO.exists_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:45:37.669904+00:00
 -- url     : https://prove2.me/theorems/ad73a8be-2972-48f8-a0c5-2aae7be28c08

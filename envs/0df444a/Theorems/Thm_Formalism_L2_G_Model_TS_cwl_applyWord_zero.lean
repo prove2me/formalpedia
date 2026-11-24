@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_cwl_applyWord_zero
 -- name    : Formalism.L2.G.Model.TS.cwl_applyWord_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:02.281106+00:00
 -- url     : https://prove2.me/theorems/3717e51a-a5ff-439e-a8f9-c9b5fbd59b19

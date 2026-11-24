@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_MinorDeterminantBasis_rows_indep
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.MinorDeterminantBasis.rows_indep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:35:06.752207+00:00
 -- url     : https://prove2.me/theorems/465d4977-8c7b-4d9c-b49e-af37f3072fee

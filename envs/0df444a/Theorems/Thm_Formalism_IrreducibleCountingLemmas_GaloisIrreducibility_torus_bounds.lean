@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_torus_bounds
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.torus_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:06.135671+00:00
 -- url     : https://prove2.me/theorems/86502fab-292a-4e6d-b164-4ca6adc6df77

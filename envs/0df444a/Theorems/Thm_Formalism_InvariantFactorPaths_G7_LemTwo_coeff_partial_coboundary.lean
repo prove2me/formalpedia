@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LemTwo_coeff_partial_coboundary
 -- name    : Formalism.InvariantFactorPaths.G7.LemTwo.coeff_partial_coboundary
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:27:57.306492+00:00
 -- url     : https://prove2.me/theorems/697daffc-a096-47a6-b0d8-e871f196e3f4

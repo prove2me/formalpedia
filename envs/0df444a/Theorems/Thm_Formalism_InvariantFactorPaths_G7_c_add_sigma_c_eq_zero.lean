@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_c_add_sigma_c_eq_zero
 -- name    : Formalism.InvariantFactorPaths.G7.c_add_sigma_c_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:25.562208+00:00
 -- url     : https://prove2.me/theorems/04feb43b-cef6-4549-8f19-f25949b856d9

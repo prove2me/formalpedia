@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GSD_Slice_split_dia
 -- name    : Formalism.L2.Col.GSD.Slice.split_dia
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:27.854316+00:00
 -- url     : https://prove2.me/theorems/c7e95d2d-a36a-4c82-9433-8526f4266d79

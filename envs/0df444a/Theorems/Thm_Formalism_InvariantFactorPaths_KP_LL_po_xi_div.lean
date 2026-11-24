@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_LL_po_xi_div
 -- name    : Formalism.InvariantFactorPaths.KP.LL.po_xi_div
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:37:03.449014+00:00
 -- url     : https://prove2.me/theorems/44e7f825-91fb-45ca-8840-cff7432046fa

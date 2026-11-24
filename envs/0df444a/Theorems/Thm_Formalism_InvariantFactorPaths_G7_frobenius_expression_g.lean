@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_frobenius_expression_g
 -- name    : Formalism.InvariantFactorPaths.G7.frobenius_expression_g
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:56:29.421973+00:00
 -- url     : https://prove2.me/theorems/b8242989-82e7-40d1-92e4-153a96ff0b4d

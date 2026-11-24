@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Paths_hom_step
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.Paths.hom_step
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:58.431741+00:00
 -- url     : https://prove2.me/theorems/1e0e2789-1339-46df-ba36-9eb979ef0afc

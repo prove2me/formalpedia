@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_weight_ge_g_one
 -- name    : Formalism.InvariantFactorPaths.G7.weight_ge_g_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:35:59.027447+00:00
 -- url     : https://prove2.me/theorems/28917fd9-c2eb-42e5-a82b-9a3d6ba59f6f

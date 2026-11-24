@@ -1,0 +1,28 @@
+-- Prove2me | Definitions.Def_GaussianPerimeter_RadialIntegration
+-- name    : GaussianPerimeter_RadialIntegration
+-- status  : Definition
+-- author  : @marwahaha
+-- created : 2026-11-24T10:08:21.689878+00:00
+-- url     : https://prove2.me/theorems/5d2efa24-d4ac-4926-9a69-892e7d27b265
+-- title:
+--   Radial Integration
+-- statement:
+--   Definitions and structural lemmas for Radial Integration, from XinyuanXie-hub (XinyuanXie-hub/GaussianPerimeter; see pinned Apache-2.0 LICENSE)'s pinned Asymptotic lower bound for Gaussian perimeter of convex bodies development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/XinyuanXie-hub/GaussianPerimeter/blob/c54671095b3fdc672137addf46aa638c813db46a/GaussianPerimeter/RadialIntegration.lean
+
+module
+public import Definitions.Def_GaussianPerimeter_Radial
+public import Mathlib.MeasureTheory.Constructions.HaarToSphere
+public import Mathlib.MeasureTheory.Measure.Lebesgue.VolumeOfBalls
+set_option autoImplicit true
+@[expose] public section
+public section
+@[expose] section
+open Filter MeasureTheory Set
+open scoped ENNReal Topology
+namespace GaussianPerimeter
+local notation "Euc" => fun n => EuclideanSpace ℝ (Fin n)
+end GaussianPerimeter
+
+

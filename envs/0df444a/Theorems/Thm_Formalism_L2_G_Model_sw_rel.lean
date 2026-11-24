@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_sw_rel
 -- name    : Formalism.L2.G.Model.sw_rel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:08.064604+00:00
 -- url     : https://prove2.me/theorems/2dfd23c8-3a2d-477c-831f-e89912471df1

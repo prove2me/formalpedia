@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_lenW_inf
 -- name    : Formalism.L2.Col.lenW_inf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:15.946929+00:00
 -- url     : https://prove2.me/theorems/05833f9a-6f7d-42cd-b6ec-24c7c6a86afb

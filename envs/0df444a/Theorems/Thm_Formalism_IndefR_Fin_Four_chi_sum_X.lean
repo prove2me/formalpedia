@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_chi_sum_X
 -- name    : Formalism.IndefR.Fin.Four.chi_sum_X
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:26.844313+00:00
 -- url     : https://prove2.me/theorems/d22e5000-7c02-460d-a451-8ec66d210208

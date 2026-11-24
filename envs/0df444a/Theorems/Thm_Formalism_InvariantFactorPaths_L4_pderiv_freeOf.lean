@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_pderiv_freeOf
 -- name    : Formalism.InvariantFactorPaths.L4.pderiv_freeOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:25.678845+00:00
 -- url     : https://prove2.me/theorems/7f2897a4-73b3-46fc-b1ca-c1941d6d12f8

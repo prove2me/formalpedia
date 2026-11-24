@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_sw_rowGen_X_self
 -- name    : Formalism.L2.G.Model.sw_rowGen_X_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:39.017346+00:00
 -- url     : https://prove2.me/theorems/7a0a509d-9800-4c34-821a-587a8bc9e8fe

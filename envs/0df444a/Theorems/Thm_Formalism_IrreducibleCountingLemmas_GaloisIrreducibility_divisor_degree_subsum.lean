@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_divisor_degree_subsum
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.divisor_degree_subsum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:26.828798+00:00
 -- url     : https://prove2.me/theorems/4d26a18f-d970-42c5-aba5-d0007ca4bcfb

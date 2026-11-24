@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_GS_torus_X
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.GS.torus_X
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:43.489804+00:00
 -- url     : https://prove2.me/theorems/fadb0604-d33e-40ea-b60e-e68c4f253001

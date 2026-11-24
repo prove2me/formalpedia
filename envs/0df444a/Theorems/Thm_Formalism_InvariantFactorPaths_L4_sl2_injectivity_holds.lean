@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_sl2_injectivity_holds
 -- name    : Formalism.InvariantFactorPaths.L4.sl2_injectivity_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:03:34.581729+00:00
 -- url     : https://prove2.me/theorems/3f99327b-92ca-4b3e-a4aa-9860879e1874

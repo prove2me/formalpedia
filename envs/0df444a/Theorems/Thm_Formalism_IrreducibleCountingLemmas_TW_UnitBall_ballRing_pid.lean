@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_TW_UnitBall_ballRing_pid
 -- name    : Formalism.IrreducibleCountingLemmas.TW.UnitBall.ballRing_pid
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:24.458354+00:00
 -- url     : https://prove2.me/theorems/4bd3f94e-82a9-42b4-9556-9b28a5cc0ca2

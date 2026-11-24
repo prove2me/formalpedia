@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_wtOf_one_place
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.wtOf_one_place
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:25.093514+00:00
 -- url     : https://prove2.me/theorems/3117968d-9514-4f68-916c-c6739361860e

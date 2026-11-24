@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_NO_algF_mem_pK
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.NO.algF_mem_pK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:45:14.681799+00:00
 -- url     : https://prove2.me/theorems/c6753f32-b26a-488a-9e4b-538374593036

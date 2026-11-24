@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_isUnit_iff_norm_untilt
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.isUnit_iff_norm_untilt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:12.160367+00:00
 -- url     : https://prove2.me/theorems/13d32a99-f21e-413e-bcfc-8503016f4285

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryZariskiDense_eval_denom
 -- name    : GlobalTheory.UnitaryZariskiDense.eval_denom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:22.27913+00:00
 -- url     : https://prove2.me/theorems/203d9614-e19d-4eeb-a29b-91104e0964dc

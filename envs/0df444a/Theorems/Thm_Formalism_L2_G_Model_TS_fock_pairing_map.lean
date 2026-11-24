@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_fock_pairing_map
 -- name    : Formalism.L2.G.Model.TS.fock_pairing_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:53.458852+00:00
 -- url     : https://prove2.me/theorems/ebe27f30-4f07-464c-b71d-a23e7eb47ac9

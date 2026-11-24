@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_shiftPoly_mem_biInt
 -- name    : Formalism.InvariantFactorPaths.G7.shiftPoly_mem_biInt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:29.08557+00:00
 -- url     : https://prove2.me/theorems/993f6611-c047-4751-aa45-9544c06ff6e2

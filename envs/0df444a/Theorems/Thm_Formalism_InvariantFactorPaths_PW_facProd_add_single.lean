@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_facProd_add_single
 -- name    : Formalism.InvariantFactorPaths.PW.facProd_add_single
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:36.703635+00:00
 -- url     : https://prove2.me/theorems/70bff69a-4c57-4eae-beca-9fca0ed7be57

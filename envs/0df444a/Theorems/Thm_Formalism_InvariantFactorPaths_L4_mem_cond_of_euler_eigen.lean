@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_mem_cond_of_euler_eigen
 -- name    : Formalism.InvariantFactorPaths.L4.mem_cond_of_euler_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:11.406467+00:00
 -- url     : https://prove2.me/theorems/ed12ce83-5b11-424b-ab50-9c4644da4cbe

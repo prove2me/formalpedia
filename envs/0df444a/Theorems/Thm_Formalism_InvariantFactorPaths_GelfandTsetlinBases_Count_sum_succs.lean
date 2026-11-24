@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Count_sum_succs
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.Count.sum_succs
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:53.729806+00:00
 -- url     : https://prove2.me/theorems/44d862fd-0b5e-444f-b611-40b52c787ff8

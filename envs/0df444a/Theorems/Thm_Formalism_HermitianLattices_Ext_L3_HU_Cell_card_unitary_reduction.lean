@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_Cell_card_unitary_reduction
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.Cell.card_unitary_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:38:29.354707+00:00
 -- url     : https://prove2.me/theorems/ddd47241-b5b0-47df-b8a8-df86820ff08a

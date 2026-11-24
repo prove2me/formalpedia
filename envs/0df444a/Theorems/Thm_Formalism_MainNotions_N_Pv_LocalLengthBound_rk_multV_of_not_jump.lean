@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_Pv_LocalLengthBound_rk_multV_of_not_jump
 -- name    : Formalism.MainNotions.N.Pv.LocalLengthBound.rk_multV_of_not_jump
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:46:13.176816+00:00
 -- url     : https://prove2.me/theorems/35ba2bc3-4742-4e15-bcc6-90bd3194c450

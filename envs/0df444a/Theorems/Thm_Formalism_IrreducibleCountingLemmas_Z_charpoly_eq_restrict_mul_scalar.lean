@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_charpoly_eq_restrict_mul_scalar
 -- name    : Formalism.IrreducibleCountingLemmas.Z.charpoly_eq_restrict_mul_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:44.075718+00:00
 -- url     : https://prove2.me/theorems/e56cb118-ea14-4200-8a17-c487e89527a7

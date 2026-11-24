@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_GAe_pol_bound
 -- name    : Formalism.InvariantFactorPaths.PW.GAe_pol_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:02.296828+00:00
 -- url     : https://prove2.me/theorems/23aa6f3f-971c-41d3-8030-9f46e33f3288

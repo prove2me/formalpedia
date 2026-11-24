@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_cwl_Phi_nil
 -- name    : Formalism.L2.G.Model.TS.cwl_Phi_nil
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:54:43.43949+00:00
 -- url     : https://prove2.me/theorems/ea959cf2-cfc5-4389-9e44-4ec192c29785

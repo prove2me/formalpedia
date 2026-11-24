@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_sum_half_pow_le_one
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.sum_half_pow_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:21.251922+00:00
 -- url     : https://prove2.me/theorems/d7e80e29-2e3c-4fd0-8baa-27818dcf3135

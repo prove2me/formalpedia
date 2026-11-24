@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_twistedIdem_coeff
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.twistedIdem_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:47:21.057319+00:00
 -- url     : https://prove2.me/theorems/a0f70294-fff4-4a82-937a-4a874c37bfdc

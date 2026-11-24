@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_prodChar_apply
 -- name    : Formalism.L2.G.prodChar_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:34:55.327279+00:00
 -- url     : https://prove2.me/theorems/e684a919-0767-4aa7-9a59-b46bdee53094

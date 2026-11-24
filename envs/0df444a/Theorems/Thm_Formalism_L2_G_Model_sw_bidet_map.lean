@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_sw_bidet_map
 -- name    : Formalism.L2.G.Model.sw_bidet_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:50.821584+00:00
 -- url     : https://prove2.me/theorems/4175290a-254c-4316-9000-8845404b22cc

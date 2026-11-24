@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_postC_pow_apply
 -- name    : Formalism.InvariantFactorPaths.PW.postC_pow_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:46:51.222488+00:00
 -- url     : https://prove2.me/theorems/95932d8c-8416-4c6a-8744-65466bdb5739

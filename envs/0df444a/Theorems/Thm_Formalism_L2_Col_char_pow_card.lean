@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_char_pow_card
 -- name    : Formalism.L2.Col.char_pow_card
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:35.008535+00:00
 -- url     : https://prove2.me/theorems/8cc90cad-2b5f-4c80-a6e5-4c79425c8145

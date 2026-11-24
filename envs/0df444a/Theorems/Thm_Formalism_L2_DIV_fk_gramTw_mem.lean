@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_fk_gramTw_mem
 -- name    : Formalism.L2.DIV.fk_gramTw_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:02:12.158933+00:00
 -- url     : https://prove2.me/theorems/2dbfd8eb-6fd2-4667-8481-a6e8e416a9be

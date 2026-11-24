@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_RelativeIndexFlags_Core_map_mem_weyl
 -- name    : Formalism.L2.G.RelativeIndexFlags.Core.map_mem_weyl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:11.218925+00:00
 -- url     : https://prove2.me/theorems/8529fb5d-f761-4f75-a427-b41a5dde8ea4

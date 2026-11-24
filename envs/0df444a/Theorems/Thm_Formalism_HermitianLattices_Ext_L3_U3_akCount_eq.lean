@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_U3_akCount_eq
 -- name    : Formalism.HermitianLattices.Ext.L3.U3.akCount_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:32.900961+00:00
 -- url     : https://prove2.me/theorems/1e046601-3264-40ee-9e53-1f5494ec3f2e

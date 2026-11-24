@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A3comb_monSet_eq
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.A3comb.monSet_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:34:30.655448+00:00
 -- url     : https://prove2.me/theorems/0e4eb938-af01-49a8-bed7-b9737baa9508

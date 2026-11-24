@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_exists_transport
 -- name    : Formalism.InvariantFactorPaths.PW.exists_transport
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:42:13.882845+00:00
 -- url     : https://prove2.me/theorems/1591440d-d56e-42f7-a29f-69e709f3cfa7

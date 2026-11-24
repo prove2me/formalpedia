@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_mul_last_letter_holds
 -- name    : Formalism.InvariantFactorPaths.L4.mul_last_letter_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:21.691017+00:00
 -- url     : https://prove2.me/theorems/283182fe-038d-47e1-a860-431b1729c6dd

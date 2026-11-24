@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_cw_prod_pt
 -- name    : Formalism.L2.G.Model.TS.cw_prod_pt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:14.07245+00:00
 -- url     : https://prove2.me/theorems/d51c48a8-ceac-4aba-85db-a56fd4139d17

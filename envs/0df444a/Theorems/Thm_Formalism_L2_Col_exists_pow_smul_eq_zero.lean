@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_exists_pow_smul_eq_zero
 -- name    : Formalism.L2.Col.exists_pow_smul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:17.885587+00:00
 -- url     : https://prove2.me/theorems/3cc06d53-5b86-4d91-936e-9e640d34e1dc

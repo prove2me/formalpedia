@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_DeterminantJetScaling_frameJet_scale
 -- name    : Formalism.InvariantFactorPaths.G7.DeterminantJetScaling.frameJet_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:24:42.552799+00:00
 -- url     : https://prove2.me/theorems/582fcdc4-e8d3-4459-a3c1-9fab807dc500

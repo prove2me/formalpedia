@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_GS_wt_apply
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.GS.wt_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:37.810798+00:00
 -- url     : https://prove2.me/theorems/b69c9d21-d667-4e66-ba95-34a818c1ad68

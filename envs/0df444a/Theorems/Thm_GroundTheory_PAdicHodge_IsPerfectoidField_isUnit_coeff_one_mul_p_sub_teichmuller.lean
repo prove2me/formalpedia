@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_isUnit_coeff_one_mul_p_sub_teichmuller
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.isUnit_coeff_one_mul_p_sub_teichmuller
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:59.087122+00:00
 -- url     : https://prove2.me/theorems/b21c05eb-95d5-4539-ace9-a1126fe9bba0

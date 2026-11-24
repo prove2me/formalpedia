@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_BN_exponents_eq_of_monic_products
 -- name    : Formalism.IrreducibleCountingLemmas.Z.BN.exponents_eq_of_monic_products
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:48:39.97868+00:00
 -- url     : https://prove2.me/theorems/d6cae265-8d76-40da-9d81-24dee8691db3

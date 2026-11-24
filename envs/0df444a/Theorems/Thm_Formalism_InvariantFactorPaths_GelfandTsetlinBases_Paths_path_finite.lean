@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Paths_path_finite
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.Paths.path_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:38:31.276499+00:00
 -- url     : https://prove2.me/theorems/cbdeea01-eb78-4e14-88b7-cc8d7c870922

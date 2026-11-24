@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_Sys_two_le_pow
 -- name    : Formalism.L2.FormalSeriesBounds.Sys.two_le_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:50.522101+00:00
 -- url     : https://prove2.me/theorems/e42d9a79-d2b2-47e2-adf0-8b67c80b3167

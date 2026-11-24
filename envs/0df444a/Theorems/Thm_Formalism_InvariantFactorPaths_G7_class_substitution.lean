@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_class_substitution
 -- name    : Formalism.InvariantFactorPaths.G7.class_substitution
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:29:50.752661+00:00
 -- url     : https://prove2.me/theorems/32609312-2a06-49f1-9ece-bf5299bb9b6b

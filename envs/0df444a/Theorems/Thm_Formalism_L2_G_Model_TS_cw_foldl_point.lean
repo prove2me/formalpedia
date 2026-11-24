@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_cw_foldl_point
 -- name    : Formalism.L2.G.Model.TS.cw_foldl_point
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:54:32.648872+00:00
 -- url     : https://prove2.me/theorems/21e2549d-8e7c-425a-85f9-8bc3999b77cf

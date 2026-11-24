@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_exists_ne_zero_aeval_eq_zero
 -- name    : Formalism.IrreducibleCountingLemmas.Z.exists_ne_zero_aeval_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:59.223199+00:00
 -- url     : https://prove2.me/theorems/0d201908-adae-40ad-aad5-fb3c1fa282fe

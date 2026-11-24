@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_graded_piece_bound_holds
 -- name    : Formalism.InvariantFactorPaths.L4.graded_piece_bound_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:44:30.813545+00:00
 -- url     : https://prove2.me/theorems/7e04a07a-934c-485a-9547-143279c64fd9

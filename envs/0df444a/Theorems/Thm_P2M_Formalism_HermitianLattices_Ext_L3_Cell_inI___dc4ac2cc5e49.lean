@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLattices_Ext_L3_Cell_inI___dc4ac2cc5e49
 -- name    : P2M_Formalism_HermitianLattices_Ext_L3_Cell_inI___dc4ac2cc5e49
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:29:22.33333+00:00
 -- url     : https://prove2.me/theorems/0769c7ad-7fa5-494e-9e99-dc53f65e46b3

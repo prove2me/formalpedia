@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_pathTailBounds
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.pathTailBounds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:13:12.773732+00:00
 -- url     : https://prove2.me/theorems/af3dcea9-71d1-47f7-a5bd-55f10009289d

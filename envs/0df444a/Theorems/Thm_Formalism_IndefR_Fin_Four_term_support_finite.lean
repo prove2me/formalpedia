@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_term_support_finite
 -- name    : Formalism.IndefR.Fin.Four.term_support_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:59:23.157114+00:00
 -- url     : https://prove2.me/theorems/2c33ecae-c966-4b6f-8db5-407f45033675

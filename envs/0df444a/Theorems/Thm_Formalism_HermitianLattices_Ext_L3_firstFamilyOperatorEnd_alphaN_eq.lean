@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_firstFamilyOperatorEnd_alphaN_eq
 -- name    : Formalism.HermitianLattices.Ext.L3.firstFamilyOperatorEnd.alphaN_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:35:19.584723+00:00
 -- url     : https://prove2.me/theorems/18d8dae2-8043-471e-8b58-0c8c29673524

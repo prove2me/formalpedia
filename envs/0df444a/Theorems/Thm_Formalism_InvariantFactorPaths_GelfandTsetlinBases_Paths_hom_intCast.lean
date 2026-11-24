@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Paths_hom_intCast
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.Paths.hom_intCast
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:35:00.29884+00:00
 -- url     : https://prove2.me/theorems/dbc886c3-bda9-4f26-bd54-cd2821835829

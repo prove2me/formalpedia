@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_e_one_vanish_of
 -- name    : Formalism.InvariantFactorPaths.G7.e_one_vanish_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:30:01.357501+00:00
 -- url     : https://prove2.me/theorems/4adddefe-1d18-49c3-b638-a5a6d29afa63

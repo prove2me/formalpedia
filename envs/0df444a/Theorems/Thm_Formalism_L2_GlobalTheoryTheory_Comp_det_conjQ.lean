@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_Comp_det_conjQ
 -- name    : Formalism.L2.GlobalTheoryTheory.Comp.det_conjQ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:11.498923+00:00
 -- url     : https://prove2.me/theorems/28d24fd2-cffc-4759-8411-4569f8f2a4bb

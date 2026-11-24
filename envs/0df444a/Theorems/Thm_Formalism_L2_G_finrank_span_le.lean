@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_finrank_span_le
 -- name    : Formalism.L2.G.finrank_span_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:21.723128+00:00
 -- url     : https://prove2.me/theorems/56782e24-5915-4eb2-9c24-5880cc1b1239

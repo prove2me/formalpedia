@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_S4_derivation_prod
 -- name    : Formalism.L2.FormalSeriesBounds.S4.derivation_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:57:46.029863+00:00
 -- url     : https://prove2.me/theorems/39d3f6f8-a6f0-459a-abab-cecaa57d945e

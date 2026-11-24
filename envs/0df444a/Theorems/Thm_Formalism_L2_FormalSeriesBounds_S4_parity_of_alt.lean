@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_S4_parity_of_alt
 -- name    : Formalism.L2.FormalSeriesBounds.S4.parity_of_alt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:43.902807+00:00
 -- url     : https://prove2.me/theorems/01a89451-652b-4ba5-b9dc-176e8b9821e4

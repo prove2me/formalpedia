@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_mem_scalW_iff
 -- name    : Formalism.L2.Col.mem_scalW_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:26.607541+00:00
 -- url     : https://prove2.me/theorems/bdd93985-ae14-4800-8579-0d0a70876b60

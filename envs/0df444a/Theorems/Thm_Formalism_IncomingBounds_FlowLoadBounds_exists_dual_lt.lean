@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_FlowLoadBounds_exists_dual_lt
 -- name    : Formalism.IncomingBounds.FlowLoadBounds.exists_dual_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:11:56.68064+00:00
 -- url     : https://prove2.me/theorems/ab060adf-129e-4c4c-be69-9e797c547e7d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Eqv_md_tendsto
 -- name    : Formalism.IndefR.Eqv.md_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:31.297224+00:00
 -- url     : https://prove2.me/theorems/7f317674-5e47-4323-931f-291e94eac16d

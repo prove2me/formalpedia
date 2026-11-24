@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_mul_colOp
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.mul_colOp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:44:09.314539+00:00
 -- url     : https://prove2.me/theorems/93da95ff-c49f-4692-b2be-9827960d43d8

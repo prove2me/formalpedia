@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_integ_eq
 -- name    : Formalism.IndefR.Fin.Four.integ_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:20:40.2424+00:00
 -- url     : https://prove2.me/theorems/2dad932a-06c6-4930-a591-06d95d4b63dc
