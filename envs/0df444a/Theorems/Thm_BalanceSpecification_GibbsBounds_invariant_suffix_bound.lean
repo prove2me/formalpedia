@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_GibbsBounds_invariant_suffix_bound
 -- name    : BalanceSpecification.GibbsBounds.invariant_suffix_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:15:13.320668+00:00
 -- url     : https://prove2.me/theorems/d6d688d1-d97d-4c7a-9c1d-921856c167a7

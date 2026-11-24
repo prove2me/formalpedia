@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobinRHParts_robin_RH_logrange_1000_1100000
 -- name    : RobinRHParts.robin_RH_logrange_1000_1100000
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-11-24T03:09:08.459649+00:00
 -- url     : https://prove2.me/theorems/6ec49185-e2f9-409b-8a07-6d41ebe4d8bf

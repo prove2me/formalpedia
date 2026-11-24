@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_entropy_lt_of_proper_subshift_of_ergodic_gibbs
 -- name    : BalanceSpecification.entropy_lt_of_proper_subshift_of_ergodic_gibbs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:14:46.689804+00:00
 -- url     : https://prove2.me/theorems/555d6657-0305-4099-a43a-90d37c313d59

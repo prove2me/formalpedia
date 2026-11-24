@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_wtSum_eq_price_sum
 -- name    : FairChores.wtSum_eq_price_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:18:40.406179+00:00
 -- url     : https://prove2.me/theorems/afe8f043-be6c-4d5d-9315-d679bfcc6997

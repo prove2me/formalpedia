@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_vbar_le_of_mem_part
 -- name    : FairSelling.vbar_le_of_mem_part
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:41.811264+00:00
 -- url     : https://prove2.me/theorems/f7bc77b2-9d61-45eb-bda8-d9fd056edd2d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_degT_ret
 -- name    : ULHC.T.degT_ret
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:08:55.658363+00:00
 -- url     : https://prove2.me/theorems/3da57b09-69ab-4847-8992-c2614c324ccf

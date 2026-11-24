@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_ExpensiveChore_oo_valid
 -- name    : FairChores.ExpensiveChore.oo_valid
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:19:41.1778+00:00
 -- url     : https://prove2.me/theorems/78206b71-7201-4fa9-8a23-ca1e1ebaeed8

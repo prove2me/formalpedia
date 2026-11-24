@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_canonExists_of_nonempty
 -- name    : FairSelling.canonExists_of_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:12:57.11083+00:00
 -- url     : https://prove2.me/theorems/f6c7c144-3d3e-4af1-8506-56ecc27d725f

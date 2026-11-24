@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_cutgiveC
 -- name    : FairChores.cutgiveC
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:21:53.815858+00:00
 -- url     : https://prove2.me/theorems/38518056-f8b4-49ed-aed8-d90f5131bb4a

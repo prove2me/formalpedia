@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_cbarSum_univ_le_nsmul_MMS
 -- name    : FairChores.cbarSum_univ_le_nsmul_MMS
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:35:52.497882+00:00
 -- url     : https://prove2.me/theorems/f265e20b-437d-4c9c-8d6f-de2e9e69897b

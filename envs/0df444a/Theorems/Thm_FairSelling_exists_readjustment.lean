@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_exists_readjustment
 -- name    : FairSelling.exists_readjustment
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:10:07.503428+00:00
 -- url     : https://prove2.me/theorems/cb94e8bf-45c3-4236-a398-b9be27396320

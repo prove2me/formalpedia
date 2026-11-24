@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_cbarSum_insert
 -- name    : FairChores.cbarSum_insert
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:18:00.031153+00:00
 -- url     : https://prove2.me/theorems/3700d83a-752e-48fc-bf9e-a92d42ca0be1

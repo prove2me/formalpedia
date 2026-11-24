@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_configC_sum_bound
 -- name    : FairChores.configC_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:21:25.874929+00:00
 -- url     : https://prove2.me/theorems/280e8821-1d67-4ffd-a16f-ef1975fa5626

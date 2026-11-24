@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_cncompT_ret
 -- name    : ULHC.T.cncompT_ret
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:09:47.440846+00:00
 -- url     : https://prove2.me/theorems/758a6a70-4198-40ee-a7b9-8a202abf0723

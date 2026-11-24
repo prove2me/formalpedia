@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_measureEntropy_le_blockEntropy_div
 -- name    : BalanceSpecification.measureEntropy_le_blockEntropy_div
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:10:00.719786+00:00
 -- url     : https://prove2.me/theorems/4ee60bc0-5f02-4b70-a339-bbdbb4db4b62

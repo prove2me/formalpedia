@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_ExpensiveChore_two_mem
 -- name    : FairChores.ExpensiveChore.two_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:19:48.548216+00:00
 -- url     : https://prove2.me/theorems/730bef43-a81e-46a7-bace-fba25408e8a9

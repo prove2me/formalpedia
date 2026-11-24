@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_wtSum_nonneg
 -- name    : FairChores.wtSum_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:16:49.746372+00:00
 -- url     : https://prove2.me/theorems/c6310145-46c2-4d40-8be1-153aeeb53a37

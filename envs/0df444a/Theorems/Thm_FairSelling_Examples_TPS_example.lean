@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_Examples_TPS_example
 -- name    : FairSelling.Examples.TPS_example
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:14:49.990033+00:00
 -- url     : https://prove2.me/theorems/33cd754b-10b7-498f-8fbe-1261e869c13f

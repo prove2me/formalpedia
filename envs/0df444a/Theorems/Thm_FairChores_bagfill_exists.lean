@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_bagfill_exists
 -- name    : FairChores.bagfill_exists
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:19:06.522629+00:00
 -- url     : https://prove2.me/theorems/6d25e354-3c18-4e85-ae86-e08f7f5cd23b

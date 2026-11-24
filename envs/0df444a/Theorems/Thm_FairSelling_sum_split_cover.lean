@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_sum_split_cover
 -- name    : FairSelling.sum_split_cover
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:22.680803+00:00
 -- url     : https://prove2.me/theorems/84bcb527-0c6b-48d4-bef8-af1c5e18ddc7

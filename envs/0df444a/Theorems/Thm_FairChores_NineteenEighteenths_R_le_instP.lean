@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_NineteenEighteenths_R_le_instP
 -- name    : FairChores.NineteenEighteenths.R_le_instP
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:22:29.803982+00:00
 -- url     : https://prove2.me/theorems/55995aaa-44ec-4fb9-93e6-b4f3cb08000d

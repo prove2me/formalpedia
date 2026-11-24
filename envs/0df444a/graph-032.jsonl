@@ -83176,7 +83176,7 @@
 {"parent": "AvoidPlast.Supplement.theorem_7_2", "child": "AvoidPlast_Supplement_Circuit_eval", "via": ["statement"]}
 {"parent": "DimFreeShadow_Supplement_seqPGMLaw", "child": "DimFreeShadow_Supplement_pgmEffect", "via": ["statement"]}
 {"parent": "DimFreeShadow_Supplement_seqPGMLaw", "child": "ShadowTomography_UpperBound_tensorPow", "via": ["statement"]}
-{"parent": "QuantumLTF.Membership.Supplement.theorem_3_5", "child": "QuantumLTF_Membership_Supplement_QMemLearner", "via": ["statement"]}
+{"parent": "QuantumLTF.Membership.Supplement.theorem_3_5", "child": "QuantumLTF_Membership_Supplement_QMemLearner", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K2.executesAs_nil", "child": "APFPaper5.K2.ends_reversed_of_keeps", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K2.executesAs_nil", "child": "APFPaper5.K2.reverse_is_inverse_of_keeps", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K2.executesAs_nil", "child": "APFPaper5.K2.source_hold_score_marks", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ZeroFreeRegionGL2_eventually_mul_rpow_log_sq_le_rpow
 -- name    : Formalism.HermitianLattices.ZeroFreeRegionGL2.eventually_mul_rpow_log_sq_le_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:37:09.281372+00:00
 -- url     : https://prove2.me/theorems/45ae328d-eef9-4839-8a9d-d701af5f8d46

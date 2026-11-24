@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_LitCounterexample_oo_not_SEF1lit
 -- name    : FairChores.LitCounterexample.oo_not_SEF1lit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:17:41.783038+00:00
 -- url     : https://prove2.me/theorems/cd3540b4-f204-4116-a970-86467dc6d9b8

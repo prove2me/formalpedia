@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_isCellT_ret
 -- name    : ULHC.T.isCellT_ret
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:08:17.927807+00:00
 -- url     : https://prove2.me/theorems/ee58c545-c927-4822-9a65-948489f24ec2

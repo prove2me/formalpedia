@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_wtSum_sdiff
 -- name    : FairChores.wtSum_sdiff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:16:54.845713+00:00
 -- url     : https://prove2.me/theorems/7e401b17-7310-472b-bf93-1d9757b71f39

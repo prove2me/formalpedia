@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_eventCost_witness
 -- name    : FairSelling.eventCost_witness
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:49.097551+00:00
 -- url     : https://prove2.me/theorems/336d88d2-2277-4fff-93f3-e79accf53748

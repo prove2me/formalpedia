@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_GibbsBounds_subshift_real_pos_of_entropy_eq
 -- name    : BalanceSpecification.GibbsBounds.subshift_real_pos_of_entropy_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:14:48.201997+00:00
 -- url     : https://prove2.me/theorems/5da110ec-8b15-4e5c-ad24-4fd4583e4ad8

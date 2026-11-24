@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobinRHParts_robin_direct_5041_11041
 -- name    : RobinRHParts.robin_direct_5041_11041
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-11-24T03:09:06.315812+00:00
 -- url     : https://prove2.me/theorems/b8d318fc-46ff-4115-b470-0ea766a4d1f0

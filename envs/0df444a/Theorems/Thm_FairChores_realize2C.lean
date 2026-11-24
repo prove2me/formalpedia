@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_realize2C
 -- name    : FairChores.realize2C
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:21:20.352116+00:00
 -- url     : https://prove2.me/theorems/b7070677-1a44-4629-8200-87f1a2cff45d

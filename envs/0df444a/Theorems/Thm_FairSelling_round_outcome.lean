@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_round_outcome
 -- name    : FairSelling.round_outcome
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:10:36.533235+00:00
 -- url     : https://prove2.me/theorems/2e58218b-ddba-4b5a-87ff-3a00ea98e179

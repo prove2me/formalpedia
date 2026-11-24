@@ -90805,10 +90805,10 @@
 {"parent": "RH1E6S13.part_071_2", "child": "ArdaRH65K_RS5_Sound", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.casimirK_inner_symm", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_BochnerInequality_KUnitB", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.casimirK_inner_symm", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_BochnerInequality_IsKUnitaryOfIsInfUnitary", "via": ["solution", "statement"]}
-{"parent": "DelaunayStretch.lemma_A_3_A_4_generated_chain", "child": "DelaunayStretch_delaunayGraph", "via": ["statement"]}
+{"parent": "DelaunayStretch.lemma_A_3_A_4_generated_chain", "child": "DelaunayStretch_delaunayGraph", "via": ["solution", "statement"]}
 {"parent": "DelaunayStretch.lemma_A_3_A_4_generated_chain", "child": "DelaunayStretch_face", "via": ["statement"]}
 {"parent": "DelaunayStretch.lemma_A_3_A_4_generated_chain", "child": "DelaunayStretch_IsDelaunayTriangulation", "via": ["statement"]}
-{"parent": "DelaunayStretch.lemma_A_3_A_4_generated_chain", "child": "DelaunayStretch_ChainInequality", "via": ["statement"]}
+{"parent": "DelaunayStretch.lemma_A_3_A_4_generated_chain", "child": "DelaunayStretch_ChainInequality", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LatticeIndices_Imports", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LatticeIndices_CongSpanSingleIff", "via": ["statement"]}
 {"parent": "RH1E6S13_D071_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "PI.VolStabSW.HasDens.le", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_FibFour", "via": ["statement"]}

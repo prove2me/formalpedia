@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_cost_swapOutcomeC
 -- name    : FairChores.cost_swapOutcomeC
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:21:37.072867+00:00
 -- url     : https://prove2.me/theorems/4469fb8f-d17e-408b-9248-f55e55147edd

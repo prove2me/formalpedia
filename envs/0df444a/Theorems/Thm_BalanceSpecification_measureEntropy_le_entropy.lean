@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_measureEntropy_le_entropy
 -- name    : BalanceSpecification.measureEntropy_le_entropy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:09:26.087429+00:00
 -- url     : https://prove2.me/theorems/c19cd54d-67ed-4771-9cd6-36c2f7fe2394

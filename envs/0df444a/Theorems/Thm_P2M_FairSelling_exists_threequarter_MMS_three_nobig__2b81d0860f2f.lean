@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FairSelling_exists_threequarter_MMS_three_nobig__2b81d0860f2f
 -- name    : P2M_FairSelling_exists_threequarter_MMS_three_nobig__2b81d0860f2f
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:08:20.976526+00:00
 -- url     : https://prove2.me/theorems/28d72c39-c666-41bd-b28d-12e4953c3dde

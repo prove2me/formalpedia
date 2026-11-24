@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_FeigeNorkinChores_fcC_total
 -- name    : FairChores.FeigeNorkinChores.fcC_total
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:22:00.761598+00:00
 -- url     : https://prove2.me/theorems/693327b1-0a68-4232-ba70-0252c10df730

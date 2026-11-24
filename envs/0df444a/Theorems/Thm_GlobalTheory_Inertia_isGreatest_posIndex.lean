@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_isGreatest_posIndex
 -- name    : GlobalTheory.Inertia.isGreatest_posIndex
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:57:07.312567+00:00
 -- url     : https://prove2.me/theorems/dbdc121f-b008-4966-9a69-673aabb6a3fc

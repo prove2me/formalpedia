@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_SEFXs_sellAll
 -- name    : FairSelling.SEFXs_sellAll
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:14:32.737137+00:00
 -- url     : https://prove2.me/theorems/75ddba6d-6f26-4a87-a4df-0aa34c01e999

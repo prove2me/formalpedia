@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_firstPassageFiniteHitMeasurable
 -- name    : Kyprianou.Ch03.firstPassageFiniteHitMeasurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T07:20:48.291528+00:00
 -- url     : https://prove2.me/theorems/dcc1ea63-6792-44ac-9a77-2c66bc22631f

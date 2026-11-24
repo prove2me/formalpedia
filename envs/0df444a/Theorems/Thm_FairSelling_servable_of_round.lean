@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_servable_of_round
 -- name    : FairSelling.servable_of_round
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:12.097811+00:00
 -- url     : https://prove2.me/theorems/aad93e91-6f5c-418d-a43a-670dd5b485b3

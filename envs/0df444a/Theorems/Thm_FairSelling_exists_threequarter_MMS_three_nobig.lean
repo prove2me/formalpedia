@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_exists_threequarter_MMS_three_nobig
 -- name    : FairSelling.exists_threequarter_MMS_three_nobig
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:07:39.633657+00:00
 -- url     : https://prove2.me/theorems/929ae316-1a2f-477e-a92c-f574f87ab387

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_tendsto_measureEntropy
 -- name    : BalanceSpecification.tendsto_measureEntropy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:09:26.558932+00:00
 -- url     : https://prove2.me/theorems/848a21f6-1b16-47dc-ac53-80ca4e87a60f

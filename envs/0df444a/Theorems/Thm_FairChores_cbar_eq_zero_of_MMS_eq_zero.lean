@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_cbar_eq_zero_of_MMS_eq_zero
 -- name    : FairChores.cbar_eq_zero_of_MMS_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:19:36.02794+00:00
 -- url     : https://prove2.me/theorems/d3273c8e-bbc1-46f8-b9bb-4c19f2ca7268

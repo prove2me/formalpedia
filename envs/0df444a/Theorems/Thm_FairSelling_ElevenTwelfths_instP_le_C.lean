@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_ElevenTwelfths_instP_le_C
 -- name    : FairSelling.ElevenTwelfths.instP_le_C
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:15:51.059167+00:00
 -- url     : https://prove2.me/theorems/375d1787-70dc-4161-b13d-830b14d6ec84

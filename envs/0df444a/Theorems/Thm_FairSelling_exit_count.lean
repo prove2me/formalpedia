@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_exit_count
 -- name    : FairSelling.exit_count
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:13:23.315816+00:00
 -- url     : https://prove2.me/theorems/646db113-4685-4047-a10b-4652acc7d8ae

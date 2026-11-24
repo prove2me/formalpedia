@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_cbarSum_nonneg
 -- name    : FairChores.cbarSum_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:16:14.35904+00:00
 -- url     : https://prove2.me/theorems/a7d5d3d8-9e63-41c4-ab5c-406d41ff49d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_MMS_nonneg
 -- name    : FairChores.MMS_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:16:43.131865+00:00
 -- url     : https://prove2.me/theorems/122cf9d8-4387-4c58-b248-413bdf04f627

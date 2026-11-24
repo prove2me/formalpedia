@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_equal_share_le_of_le_nsmul
 -- name    : FairChores.equal_share_le_of_le_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:18:42.209205+00:00
 -- url     : https://prove2.me/theorems/fbd3b5ae-e4ff-413f-bcd7-251f0eaa247b

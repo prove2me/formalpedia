@@ -1,0 +1,44 @@
+-- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_qzero_killed_two_sided_occupation_sections_measurable
+-- name    : Kyprianou.Ch08.StageB.qzero_killed_two_sided_occupation_sections_measurable
+-- status  : Proved
+-- author  : @WillR
+-- created : 2026-11-24T02:40:13.418297+00:00
+-- url     : https://prove2.me/theorems/0165a08f-8ffc-4ab8-b2e3-3fdcc6818eb9
+-- title:
+--   Two-sided killed occupation sections are measurable
+-- statement:
+--   For the Chapter 8 spectrally negative source model, the probability of the killed occupation event before the minimum of the lower and upper passage clocks is a measurable function of nonnegative time.
+-- source:
+--   Source-faithful measurability obligation isolated from Kyprianou (2006), Chapter 8, proof of Corollary 8.8, for the connected child qzero_killed_resolvent_tendsto. It preserves the source model, Laplace-exponent premise, interval endpoints, initial reserve and Borel set hypotheses.
+
+import Definitions.Def_Kyprianou_Ch08_StageCFoundation_D
+import Definitions.Def_AvramDividend_Classical_TwoSidedExit
+import Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_filtered_avram_model
+import Theorems.Thm_Kyprianou_Ch08_StageB_source_result81_positive_open_clock_eq_all_times
+import Theorems.Thm_Kyprianou_Ch08_StageB_p2m88_avram_source_lower_clock_eq
+import Theorems.Thm_Kyprianou_Ch08_StageB_p2m88_exp_clock_product_sections
+import Theorems.Thm_AvramDividend_Classical_chat03_both_named_passage_clocks_measurable
+import Theorems.Thm_AvramDividend_Classical_chat04_levy_joint_time_state_measurable
+set_option autoImplicit false
+open MeasureTheory ProbabilityTheory Set Filter Topology
+open Kyprianou.Ch08 Kyprianou.Ch08.StageB
+open scoped NNReal ENNReal
+
+namespace Kyprianou.Ch08.StageB
+
+theorem qzero_killed_two_sided_occupation_sections_measurable :
+∀ (Ω : Type) [mΩ : MeasurableSpace Ω]
+    (P : Measure Ω) [IsProbabilityMeasure P]
+    (D : SpectrallyNegativeModel Ω P) (ψ : ℝ → ℝ),
+    IsLaplaceExponent (SpectrallyNegativeModel.toData P D) ψ →
+    ∀ (a x : ℝ), 0 < a → 0 ≤ x → x ≤ a →
+    ∀ (A : Set ℝ), MeasurableSet A →
+    Measurable (fun t : ℝ≥0 =>
+      P {ω | (t : WithTop ℝ≥0) <
+        min (tauMinus (shifted D.X x) 0 ω)
+          (tauPlus (shifted D.X x) a ω) ∧
+        shifted D.X x t ω ∈ A})
+:= by
+  sorry
+
+end Kyprianou.Ch08.StageB

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_mem_MMSset_iff
 -- name    : FairChores.mem_MMSset_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:20:10.114075+00:00
 -- url     : https://prove2.me/theorems/f27fb9e1-214f-4649-ac28-e4bf443b323f

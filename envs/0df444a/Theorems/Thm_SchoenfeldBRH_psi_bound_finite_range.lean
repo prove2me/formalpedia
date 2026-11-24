@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchoenfeldBRH_psi_bound_finite_range
 -- name    : SchoenfeldBRH.psi_bound_finite_range
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-11-24T02:19:59.495056+00:00
 -- url     : https://prove2.me/theorems/18bf014b-f944-431f-b85b-43baa6ccd2c9

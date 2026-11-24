@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_thr_nonneg
 -- name    : FairSelling.thr_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:10:45.58687+00:00
 -- url     : https://prove2.me/theorems/c2a9523c-1789-415c-8dee-d77f4611e810

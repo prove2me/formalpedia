@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_preliminary_stage_one
 -- name    : FairSelling.preliminary_stage_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:09:35.150415+00:00
 -- url     : https://prove2.me/theorems/11806ce7-4afe-40a0-b59b-2e21e98560a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_equal_share_le_three_halves
 -- name    : FairChores.equal_share_le_three_halves
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:19:17.942156+00:00
 -- url     : https://prove2.me/theorems/00dcd18d-0508-43ef-9fd4-a5da1708c9e3

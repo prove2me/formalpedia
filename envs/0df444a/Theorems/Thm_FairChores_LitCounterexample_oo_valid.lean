@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_LitCounterexample_oo_valid
 -- name    : FairChores.LitCounterexample.oo_valid
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:17:27.043383+00:00
 -- url     : https://prove2.me/theorems/af255909-ce52-4a89-9746-e433c5072797

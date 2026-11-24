@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_losses_of_stage2
 -- name    : FairSelling.losses_of_stage2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:13.325388+00:00
 -- url     : https://prove2.me/theorems/47c70470-5d1d-46e2-8042-e462703c7f44

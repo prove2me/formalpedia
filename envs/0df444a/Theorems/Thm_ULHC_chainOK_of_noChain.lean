@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_chainOK_of_noChain
 -- name    : ULHC.chainOK_of_noChain
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:05:07.270941+00:00
 -- url     : https://prove2.me/theorems/f91eaa79-f6b4-4b03-a479-05f5744be339

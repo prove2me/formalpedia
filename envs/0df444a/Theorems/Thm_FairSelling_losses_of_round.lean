@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_losses_of_round
 -- name    : FairSelling.losses_of_round
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:13.151531+00:00
 -- url     : https://prove2.me/theorems/546d2ede-1b0b-458a-99c4-9bb698815d15

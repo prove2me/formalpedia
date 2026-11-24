@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_measureEntropy_eq_sInf
 -- name    : BalanceSpecification.measureEntropy_eq_sInf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:09:42.324808+00:00
 -- url     : https://prove2.me/theorems/6d997f14-8699-4832-9357-1dcfdafdc609

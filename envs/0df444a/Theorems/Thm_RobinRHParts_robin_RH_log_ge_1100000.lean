@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobinRHParts_robin_RH_log_ge_1100000
 -- name    : RobinRHParts.robin_RH_log_ge_1100000
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-11-24T03:09:06.589559+00:00
 -- url     : https://prove2.me/theorems/342d6de3-2789-444a-880a-212db2610df8

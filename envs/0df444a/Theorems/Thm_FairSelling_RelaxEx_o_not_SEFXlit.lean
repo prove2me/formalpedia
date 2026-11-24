@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_RelaxEx_o_not_SEFXlit
 -- name    : FairSelling.RelaxEx.o_not_SEFXlit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:15:14.454979+00:00
 -- url     : https://prove2.me/theorems/32ad6c57-1bd2-4881-a005-1b33125b09d4

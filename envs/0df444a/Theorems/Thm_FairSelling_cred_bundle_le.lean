@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_cred_bundle_le
 -- name    : FairSelling.cred_bundle_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:13:28.957567+00:00
 -- url     : https://prove2.me/theorems/dabf7502-03b7-45d3-9d03-089a98912131

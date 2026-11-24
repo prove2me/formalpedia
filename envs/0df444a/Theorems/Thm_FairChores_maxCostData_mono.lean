@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_maxCostData_mono
 -- name    : FairChores.maxCostData_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:20:29.026286+00:00
 -- url     : https://prove2.me/theorems/cdf4c68c-edaa-48f9-8c02-cf3e96242641

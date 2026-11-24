@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_GibbsBounds_invariant_inter_prefix_cross_bound
 -- name    : BalanceSpecification.GibbsBounds.invariant_inter_prefix_cross_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:15:14.712298+00:00
 -- url     : https://prove2.me/theorems/83bb4db7-411e-408e-a2a2-f67ae7399667

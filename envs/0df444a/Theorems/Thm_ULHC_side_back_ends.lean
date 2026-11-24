@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_side_back_ends
 -- name    : ULHC.side_back_ends
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:03:38.925286+00:00
 -- url     : https://prove2.me/theorems/65a1668c-35d9-40fe-a23b-82fe5e745f0a

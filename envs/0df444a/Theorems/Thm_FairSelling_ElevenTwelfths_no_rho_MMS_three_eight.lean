@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_ElevenTwelfths_no_rho_MMS_three_eight
 -- name    : FairSelling.ElevenTwelfths.no_rho_MMS_three_eight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:16:04.904134+00:00
 -- url     : https://prove2.me/theorems/c2966c95-431b-4cb2-83d5-be605e00fee3

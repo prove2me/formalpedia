@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobinRHParts_robin_logrange_487_1009
 -- name    : RobinRHParts.robin_logrange_487_1009
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-11-24T03:09:07.711182+00:00
 -- url     : https://prove2.me/theorems/84d5539c-6256-4c17-90d8-917fdfd8beca

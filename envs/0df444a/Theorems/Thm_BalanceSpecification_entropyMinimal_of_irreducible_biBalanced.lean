@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_entropyMinimal_of_irreducible_biBalanced
 -- name    : BalanceSpecification.entropyMinimal_of_irreducible_biBalanced
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:15:40.402932+00:00
 -- url     : https://prove2.me/theorems/9f5288ef-1610-4a4e-b07f-de3fc736a64a

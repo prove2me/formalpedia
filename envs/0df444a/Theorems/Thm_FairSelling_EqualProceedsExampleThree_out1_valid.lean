@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_EqualProceedsExampleThree_out1_valid
 -- name    : FairSelling.EqualProceedsExampleThree.out1_valid
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:23:55.452668+00:00
 -- url     : https://prove2.me/theorems/db94fc9f-a6d8-41d0-bdff-6002ba5b343c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_exists_twothirds_MMS_of_equiMMS
 -- name    : FairSelling.exists_twothirds_MMS_of_equiMMS
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:14:34.759141+00:00
 -- url     : https://prove2.me/theorems/713dfb55-93a0-4158-bdfa-c605c5ec52e6

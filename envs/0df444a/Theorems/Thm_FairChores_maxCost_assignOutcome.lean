@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_maxCost_assignOutcome
 -- name    : FairChores.maxCost_assignOutcome
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:20:35.094643+00:00
 -- url     : https://prove2.me/theorems/aed54aa8-172d-4789-8dc1-adeea8eabaf6

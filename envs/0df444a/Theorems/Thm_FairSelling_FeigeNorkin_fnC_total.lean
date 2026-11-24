@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_FeigeNorkin_fnC_total
 -- name    : FairSelling.FeigeNorkin.fnC_total
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:15:44.554684+00:00
 -- url     : https://prove2.me/theorems/57069915-df70-40fb-b3a1-c6296f321e3f

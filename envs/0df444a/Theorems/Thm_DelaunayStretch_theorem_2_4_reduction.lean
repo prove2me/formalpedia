@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelaunayStretch_theorem_2_4_reduction
 -- name    : DelaunayStretch.theorem_2_4_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T02:53:52.735254+00:00
 -- url     : https://prove2.me/theorems/bdc9876a-ff34-4472-b241-3ec6628a077f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_descent
 -- name    : FairSelling.descent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:14:00.012836+00:00
 -- url     : https://prove2.me/theorems/3f9ee40a-1b33-4bb7-9c6b-cf602dec8cea

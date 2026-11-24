@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for DelaunayStretch.theorem_2_4_reduction
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Shuze Chen
 -- created : 2026-11-23T01:02:47.847038+00:00
 -- url     : https://prove2.me/submissions/f2d9ec4b-8048-44f1-b0dc-21d8265f33fa
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_DelaunayStretch_lemma_2_3_one_disk
 import Theorems.Thm_DelaunayStretch_lemma_A_3_A_4_generated_chain

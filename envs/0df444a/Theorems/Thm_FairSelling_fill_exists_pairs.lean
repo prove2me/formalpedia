@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_fill_exists_pairs
 -- name    : FairSelling.fill_exists_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:12:31.657152+00:00
 -- url     : https://prove2.me/theorems/4d93094e-afdb-4c69-a7d9-8d2f0706b5e6

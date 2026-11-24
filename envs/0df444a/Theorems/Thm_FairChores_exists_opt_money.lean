@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_exists_opt_money
 -- name    : FairChores.exists_opt_money
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:20:33.747795+00:00
 -- url     : https://prove2.me/theorems/729cc3f4-c56d-4631-87ea-2912a985ff76

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_qzero_killed_resolvent_tendsto
 -- name    : Kyprianou.Ch08.StageB.qzero_killed_resolvent_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T00:01:10.342903+00:00
 -- url     : https://prove2.me/theorems/21dded5b-7045-4c1b-9bdb-564c14601851

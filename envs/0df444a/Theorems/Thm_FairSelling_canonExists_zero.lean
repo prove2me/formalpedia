@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_canonExists_zero
 -- name    : FairSelling.canonExists_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:13:24.951095+00:00
 -- url     : https://prove2.me/theorems/bbeb5677-50b8-4070-b2ff-7b2ed85ae7ab

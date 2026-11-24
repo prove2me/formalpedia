@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_bag_lemma
 -- name    : FairChores.bag_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:18:30.593698+00:00
 -- url     : https://prove2.me/theorems/7442cee9-4f15-4767-9e0c-27e57165cae2

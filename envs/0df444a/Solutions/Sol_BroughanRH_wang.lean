@@ -1,0 +1,4664 @@
+-- Prove2me | solution 1 for BroughanRH.wang
+-- status  : SKETCH_ACCEPTED   (prove)
+-- author  : @xuanji
+-- created : 2026-11-24T03:13:06.982233+00:00
+-- url     : https://prove2.me/submissions/f14bce55-192e-4e0e-90fc-51fc9ab02263
+-- note    : a sketch -- it imports a theorem that is still Open,
+--           so it depends on `sorryAx` until that child is proved.
+
+import Mathlib
+import Theorems.Thm_Titchmarsh_logDeriv_riemannZeta_le_log_of_riemannHypothesis
+import Theorems.Thm_riemann_hypothesis
+import Theorems.Thm_Zeta23_WeilEF_zeta_logDeriv_partial_fraction
+import Theorems.Thm_Zeta23_WeilEF_logDeriv_partial_fraction_disk
+import Theorems.Thm_zeta_ne_zero_of_mem_strip_of_abs_im_le_two
+
+section
+open Complex MeasureTheory Filter Topology Set
+
+namespace Contour
+
+lemma integrable_one_add_abs_rpow {p : ℝ} (hp : 1 < p) :
+    Integrable (fun t : ℝ => (1 + |t|) ^ (-p)) := by
+  have := integrable_one_add_norm (E := ℝ) (μ := volume) (r := p) (by simpa using hp)
+  simpa [Real.norm_eq_abs] using this
+
+lemma re_line (R t : ℝ) : ((R : ℂ) + t * I).re = R := by simp
+lemma im_line (R t : ℝ) : ((R : ℂ) + t * I).im = t := by simp
+
+/-- Core vanishing lemma: a function holomorphic on a closed right half-plane, decaying like
+`(1+|Re s|)^{-q} (1+|Im s|)^{-p}` with `p > 1`, `q > 0`, has zero integral over the boundary line. -/
+theorem vline_eq_zero {Φ : ℂ → ℂ} {b C p q : ℝ} (hp : 1 < p) (hq : 0 < q)
+    (hd : DifferentiableOn ℂ Φ {s : ℂ | b ≤ s.re})
+    (hB : ∀ s : ℂ, b ≤ s.re → ‖Φ s‖ ≤ C * (1 + |s.re|) ^ (-q) * (1 + |s.im|) ^ (-p)) :
+    ∫ t : ℝ, Φ (b + t * I) = 0 := by
+  have hcont : ContinuousOn Φ {s : ℂ | b ≤ s.re} := hd.continuousOn
+  have hC : 0 ≤ C := by
+    have h1 := hB (b : ℂ) (by simp)
+    have h2 : 0 < (1 + |((b : ℂ)).re|) ^ (-q) * (1 + |((b : ℂ)).im|) ^ (-p) := by positivity
+    by_contra hneg
+    push Not at hneg
+    have : C * (1 + |((b : ℂ)).re|) ^ (-q) * (1 + |((b : ℂ)).im|) ^ (-p) < 0 := by
+      rw [mul_assoc]; exact mul_neg_of_neg_of_pos hneg h2
+    linarith [norm_nonneg (Φ b)]
+  have hcl : ∀ R : ℝ, b ≤ R → Continuous (fun t : ℝ => Φ (R + t * I)) := by
+    intro R hR
+    refine hcont.comp_continuous (by fun_prop) (fun t => ?_)
+    show b ≤ ((R : ℂ) + t * I).re
+    rw [re_line]; exact hR
+  have hptw : ∀ R : ℝ, b ≤ R → ∀ t : ℝ,
+      ‖Φ (R + t * I)‖ ≤ C * (1 + |R|) ^ (-q) * (1 + |t|) ^ (-p) := by
+    intro R hR t
+    have := hB (R + t * I) (by rw [re_line]; exact hR)
+    rwa [re_line, im_line] at this
+  have hline : ∀ R : ℝ, b ≤ R → Integrable (fun t : ℝ => Φ (R + t * I)) := by
+    intro R hR
+    refine Integrable.mono' ((integrable_one_add_abs_rpow hp).const_mul (C * (1 + |R|) ^ (-q)))
+      (hcl R hR).aestronglyMeasurable (Eventually.of_forall (fun t => ?_))
+    simpa [mul_assoc] using hptw R hR t
+  -- horizontal integrals vanish
+  have hhor : ∀ R : ℝ, b ≤ R → ∀ c : ℝ,
+      ‖∫ x : ℝ in b..R, Φ (x + c * I)‖ ≤ C * (1 + |c|) ^ (-p) * |R - b| := by
+    intro R hR c
+    refine intervalIntegral.norm_integral_le_of_norm_le_const (fun x hx => ?_)
+    have hx' : b ≤ x := by
+      rcases hx with ⟨h1, _⟩
+      exact le_of_lt (lt_of_le_of_lt (le_min le_rfl hR) h1)
+    have := hptw x hx' c
+    have h1 : (1 + |x|) ^ (-q) ≤ 1 := by
+      apply Real.rpow_le_one_of_one_le_of_nonpos (by linarith [abs_nonneg x]) (by linarith)
+    calc ‖Φ (x + c * I)‖ ≤ C * (1 + |x|) ^ (-q) * (1 + |c|) ^ (-p) := this
+      _ ≤ C * 1 * (1 + |c|) ^ (-p) := by gcongr
+      _ = C * (1 + |c|) ^ (-p) := by ring
+  have htend : Tendsto (fun T : ℝ => (1 + |T|) ^ (-p)) atTop (𝓝 0) := by
+    have h1 : Tendsto (fun T : ℝ => 1 + |T|) atTop atTop := by
+      refine tendsto_atTop_add_const_left _ _ ?_
+      exact tendsto_abs_atTop_atTop
+    exact (tendsto_rpow_neg_atTop (by linarith)).comp h1
+  have htend' : Tendsto (fun T : ℝ => (1 + |-T|) ^ (-p)) atTop (𝓝 0) := by
+    simpa [abs_neg] using htend
+  -- vertical integrals agree
+  have hagree : ∀ R : ℝ, b ≤ R → ∫ t : ℝ, Φ (R + t * I) = ∫ t : ℝ, Φ (b + t * I) := by
+    intro R hR
+    have hrect : ∀ T : ℝ,
+        (∫ x : ℝ in b..R, Φ (x + (-T) * I)) - (∫ x : ℝ in b..R, Φ (x + T * I)) +
+        I • (∫ y : ℝ in (-T)..T, Φ (R + y * I)) - I • (∫ y : ℝ in (-T)..T, Φ (b + y * I)) = 0 := by
+      intro T
+      have := Complex.integral_boundary_rect_eq_zero_of_differentiableOn Φ
+        ((b : ℂ) + ((-T : ℝ) : ℂ) * I) ((R : ℂ) + (T : ℂ) * I) ?_
+      · simpa [re_line, im_line] using this
+      · refine hd.mono ?_
+        intro s hs
+        rw [mem_reProdIm, re_line, re_line] at hs
+        have := hs.1
+        rw [Set.mem_uIcc] at this
+        show b ≤ s.re
+        rcases this with h | h
+        · exact h.1
+        · linarith [h.1, h.2]
+    have hA : Tendsto (fun T : ℝ => ∫ x : ℝ in b..R, Φ (x + (-T) * I)) atTop (𝓝 0) := by
+      rw [tendsto_zero_iff_norm_tendsto_zero]
+      refine squeeze_zero (g := fun T : ℝ => C * (1 + |-T|) ^ (-p) * |R - b|)
+        (fun _ => norm_nonneg _) (fun T => ?_) ?_
+      · have := hhor R hR (-T); simpa using this
+      · simpa using (htend'.const_mul C).mul_const |R - b|
+    have hB' : Tendsto (fun T : ℝ => ∫ x : ℝ in b..R, Φ (x + T * I)) atTop (𝓝 0) := by
+      rw [tendsto_zero_iff_norm_tendsto_zero]
+      refine squeeze_zero (fun _ => norm_nonneg _) (fun T => hhor R hR T) ?_
+      simpa using (htend.const_mul C).mul_const |R - b|
+    have hV1 : Tendsto (fun T : ℝ => ∫ y : ℝ in (-T)..T, Φ (R + y * I)) atTop
+        (𝓝 (∫ t : ℝ, Φ (R + t * I))) :=
+      MeasureTheory.intervalIntegral_tendsto_integral (hline R hR) tendsto_neg_atTop_atBot
+        tendsto_id
+    have hV2 : Tendsto (fun T : ℝ => ∫ y : ℝ in (-T)..T, Φ (b + y * I)) atTop
+        (𝓝 (∫ t : ℝ, Φ (b + t * I))) :=
+      MeasureTheory.intervalIntegral_tendsto_integral (hline b le_rfl) tendsto_neg_atTop_atBot
+        tendsto_id
+    have hlim := ((hA.sub hB').add (hV1.const_smul I)).sub (hV2.const_smul I)
+    have hlim0 : Tendsto (fun T : ℝ =>
+        (∫ x : ℝ in b..R, Φ (x + (-T) * I)) - (∫ x : ℝ in b..R, Φ (x + T * I)) +
+        I • (∫ y : ℝ in (-T)..T, Φ (R + y * I)) - I • (∫ y : ℝ in (-T)..T, Φ (b + y * I)))
+        atTop (𝓝 0) := by
+      simp only [hrect]; exact tendsto_const_nhds
+    have heq := tendsto_nhds_unique hlim hlim0
+    simp only [sub_zero, zero_add, smul_eq_mul] at heq
+    have : I * ((∫ t : ℝ, Φ (R + t * I)) - ∫ t : ℝ, Φ (b + t * I)) = 0 := by
+      rw [mul_sub]; exact heq
+    rcases mul_eq_zero.mp this with h | h
+    · exact absurd h I_ne_zero
+    · exact sub_eq_zero.mp h
+  -- the right-hand vertical integrals tend to zero
+  set K := ∫ t : ℝ, (1 + |t|) ^ (-p) with hK
+  have hbound : ∀ R : ℝ, b ≤ R → ‖∫ t : ℝ, Φ (b + t * I)‖ ≤ C * (1 + |R|) ^ (-q) * K := by
+    intro R hR
+    rw [← hagree R hR]
+    calc ‖∫ t : ℝ, Φ (R + t * I)‖ ≤ ∫ t : ℝ, C * (1 + |R|) ^ (-q) * (1 + |t|) ^ (-p) :=
+          norm_integral_le_of_norm_le ((integrable_one_add_abs_rpow hp).const_mul _)
+            (Eventually.of_forall (hptw R hR))
+      _ = C * (1 + |R|) ^ (-q) * K := by rw [integral_const_mul]
+  have hlimR : Tendsto (fun R : ℝ => C * (1 + |R|) ^ (-q) * K) atTop (𝓝 0) := by
+    have h1 : Tendsto (fun R : ℝ => 1 + |R|) atTop atTop :=
+      tendsto_atTop_add_const_left _ _ tendsto_abs_atTop_atTop
+    have := ((tendsto_rpow_neg_atTop hq).comp h1).const_mul C
+    simpa using this.mul_const K
+  have : ‖∫ t : ℝ, Φ (b + t * I)‖ ≤ 0 :=
+    ge_of_tendsto hlimR (eventually_atTop.2 ⟨b, fun R hR => hbound R hR⟩)
+  exact norm_le_zero_iff.mp this
+
+end Contour
+
+end
+
+section
+open Complex MeasureTheory Filter Topology Set Real
+
+namespace Contour
+
+lemma pos_sq_add {α : ℝ} (hα : 0 < α) (τ : ℝ) : 0 < α ^ 2 + τ ^ 2 := by positivity
+
+lemma integrable_inv_sq_add {α : ℝ} (hα : 0 < α) :
+    Integrable (fun τ : ℝ => 1 / (α ^ 2 + τ ^ 2)) := by
+  have h := (integrable_inv_one_add_sq.comp_div (R := α) hα.ne').const_mul (α ^ 2)⁻¹
+  refine h.congr (Eventually.of_forall (fun τ => ?_))
+  field_simp
+
+lemma tendsto_div_sq_add_atTop {α : ℝ} (hα : 0 < α) :
+    Tendsto (fun τ : ℝ => τ / (α ^ 2 + τ ^ 2)) atTop (𝓝 0) := by
+  have h1 : Tendsto (fun τ : ℝ => τ⁻¹) atTop (𝓝 0) := tendsto_inv_atTop_zero
+  refine squeeze_zero_norm' ?_ (by simpa using h1.norm)
+  filter_upwards [eventually_gt_atTop 0] with τ hτ
+  rw [Real.norm_eq_abs, abs_div, abs_of_pos hτ, abs_of_pos (pos_sq_add hα τ),
+    div_le_iff₀ (pos_sq_add hα τ)]
+  rw [inv_mul_eq_div, le_div_iff₀ hτ]; nlinarith [sq_nonneg α]
+
+lemma tendsto_div_sq_add_atBot {α : ℝ} (hα : 0 < α) :
+    Tendsto (fun τ : ℝ => τ / (α ^ 2 + τ ^ 2)) atBot (𝓝 0) := by
+  have := (tendsto_div_sq_add_atTop hα).comp tendsto_neg_atBot_atTop
+  have h2 := this.neg
+  simp only [neg_zero] at h2
+  refine h2.congr (fun τ => ?_)
+  simp [Function.comp, neg_div]
+
+lemma hasDerivAt_arctan_div {α : ℝ} (hα : 0 < α) (τ : ℝ) :
+    HasDerivAt (fun τ : ℝ => Real.arctan (τ / α) / α) (1 / (α ^ 2 + τ ^ 2)) τ := by
+  have h := ((hasDerivAt_id τ).div_const α).arctan
+  refine (h.div_const α).congr_deriv ?_
+  simp only [id]
+  field_simp
+
+lemma tendsto_arctan_div_atTop {α : ℝ} (hα : 0 < α) :
+    Tendsto (fun τ : ℝ => Real.arctan (τ / α) / α) atTop (𝓝 (π / 2 / α)) := by
+  have h1 : Tendsto (fun τ : ℝ => τ / α) atTop atTop := tendsto_id.atTop_div_const hα
+  have h2 := (tendsto_nhds_of_tendsto_nhdsWithin tendsto_arctan_atTop).comp h1
+  exact h2.div_const α
+
+lemma tendsto_arctan_div_atBot {α : ℝ} (hα : 0 < α) :
+    Tendsto (fun τ : ℝ => Real.arctan (τ / α) / α) atBot (𝓝 (-(π / 2) / α)) := by
+  have h1 : Tendsto (fun τ : ℝ => τ / α) atBot atBot := tendsto_id.atBot_div_const hα
+  have h2 := (tendsto_nhds_of_tendsto_nhdsWithin tendsto_arctan_atBot).comp h1
+  exact h2.div_const α
+
+lemma integral_inv_sq_add {α : ℝ} (hα : 0 < α) :
+    ∫ τ : ℝ, 1 / (α ^ 2 + τ ^ 2) = π / α := by
+  rw [integral_of_hasDerivAt_of_tendsto (hasDerivAt_arctan_div hα) (integrable_inv_sq_add hα)
+    (tendsto_arctan_div_atBot hα) (tendsto_arctan_div_atTop hα)]
+  ring
+
+lemma integrable_inv_sq_add_sq {α : ℝ} (hα : 0 < α) :
+    Integrable (fun τ : ℝ => 1 / (α ^ 2 + τ ^ 2) ^ 2) := by
+  refine ((integrable_inv_sq_add hα).const_mul (1 / α ^ 2)).mono'
+    ((continuous_const.div (by fun_prop) (fun τ => (pow_pos (pos_sq_add hα τ) 2).ne')).aestronglyMeasurable)
+    (Eventually.of_forall (fun τ => ?_))
+  have hp := pos_sq_add hα τ
+  rw [Real.norm_eq_abs, abs_of_pos (by positivity)]
+  rw [div_le_iff₀ (by positivity)]
+  field_simp
+  nlinarith [sq_nonneg τ, sq_nonneg α, mul_pos hα hα]
+
+lemma integrable_odd_sq {α : ℝ} (hα : 0 < α) :
+    Integrable (fun τ : ℝ => τ / (α ^ 2 + τ ^ 2) ^ 2) := by
+  refine ((integrable_inv_sq_add hα).const_mul (1 / α)).mono'
+    ((continuous_id.div (by fun_prop) (fun τ => (pow_pos (pos_sq_add hα τ) 2).ne')).aestronglyMeasurable)
+    (Eventually.of_forall (fun τ => ?_))
+  have hp := pos_sq_add hα τ
+  rw [Real.norm_eq_abs, abs_div, abs_of_pos (by positivity : (0:ℝ) < (α ^ 2 + τ ^ 2) ^ 2)]
+  rw [div_le_iff₀ (by positivity)]
+  field_simp
+  have : |τ| * α ≤ α ^ 2 + τ ^ 2 := by
+    nlinarith [sq_abs τ, sq_nonneg (|τ| - α), abs_nonneg τ]
+  nlinarith [abs_nonneg τ]
+
+lemma integrable_sq_div_sq {α : ℝ} (hα : 0 < α) :
+    Integrable (fun τ : ℝ => τ ^ 2 / (α ^ 2 + τ ^ 2) ^ 2) := by
+  refine (integrable_inv_sq_add hα).mono'
+    (((continuous_pow 2).div (by fun_prop) (fun τ => (pow_pos (pos_sq_add hα τ) 2).ne')).aestronglyMeasurable)
+    (Eventually.of_forall (fun τ => ?_))
+  have hp := pos_sq_add hα τ
+  rw [Real.norm_eq_abs, abs_of_nonneg (by positivity)]
+  rw [div_le_div_iff₀ (by positivity) hp]
+  nlinarith [sq_nonneg τ, sq_nonneg α, mul_pos hp hp]
+
+lemma integral_odd_sq {α : ℝ} :
+    ∫ τ : ℝ, τ / (α ^ 2 + τ ^ 2) ^ 2 = 0 := by
+  have h := integral_neg_eq_self (fun τ : ℝ => τ / (α ^ 2 + τ ^ 2) ^ 2) volume
+  have h2 : (∫ τ : ℝ, (-τ) / (α ^ 2 + (-τ) ^ 2) ^ 2) = -∫ τ : ℝ, τ / (α ^ 2 + τ ^ 2) ^ 2 := by
+    rw [← integral_neg]; congr 1; funext τ; ring
+  linarith
+
+lemma hasDerivAt_aux2 {α : ℝ} (hα : 0 < α) (τ : ℝ) :
+    HasDerivAt (fun τ : ℝ => τ / (2 * α ^ 2 * (α ^ 2 + τ ^ 2)) + Real.arctan (τ / α) / (2 * α ^ 3))
+      (1 / (α ^ 2 + τ ^ 2) ^ 2) τ := by
+  have hp := pos_sq_add hα τ
+  have h1 : HasDerivAt (fun τ : ℝ => 2 * α ^ 2 * (α ^ 2 + τ ^ 2)) (2 * α ^ 2 * (2 * τ)) τ := by
+    have := ((hasDerivAt_id τ).pow 2).const_add (α ^ 2)
+    refine (this.const_mul (2 * α ^ 2)).congr_deriv ?_
+    simp only [id]; ring
+  have h2 := (hasDerivAt_id τ).div h1 (by positivity)
+  have h3 := (((hasDerivAt_id τ).div_const α).arctan).div_const (2 * α ^ 3)
+  refine (h2.add h3).congr_deriv ?_
+  simp only [id]
+  field_simp
+  ring
+
+lemma integral_inv_sq_add_sq {α : ℝ} (hα : 0 < α) :
+    ∫ τ : ℝ, 1 / (α ^ 2 + τ ^ 2) ^ 2 = π / (2 * α ^ 3) := by
+  have hbot : Tendsto (fun τ : ℝ => τ / (2 * α ^ 2 * (α ^ 2 + τ ^ 2)) +
+      Real.arctan (τ / α) / (2 * α ^ 3)) atBot (𝓝 (0 / (2 * α ^ 2) + (-(π / 2)) / (2 * α ^ 3))) := by
+    have e1 : (fun τ : ℝ => τ / (2 * α ^ 2 * (α ^ 2 + τ ^ 2))) =
+        fun τ => τ / (α ^ 2 + τ ^ 2) / (2 * α ^ 2) := by funext τ; field_simp
+    have e2 : (fun τ : ℝ => Real.arctan (τ / α) / (2 * α ^ 3)) =
+        fun τ => Real.arctan (τ / α) / α / (2 * α ^ 2) := by funext τ; field_simp; try ring
+    rw [show (fun τ : ℝ => τ / (2 * α ^ 2 * (α ^ 2 + τ ^ 2)) + Real.arctan (τ / α) / (2 * α ^ 3)) =
+      fun τ => τ / (α ^ 2 + τ ^ 2) / (2 * α ^ 2) + Real.arctan (τ / α) / α / (2 * α ^ 2) by
+        funext τ; rw [congrFun e1 τ, congrFun e2 τ]]
+    have := ((tendsto_div_sq_add_atBot hα).div_const (2 * α ^ 2)).add
+      ((tendsto_arctan_div_atBot hα).div_const (2 * α ^ 2))
+    convert this using 2; field_simp; try ring
+  have htop : Tendsto (fun τ : ℝ => τ / (2 * α ^ 2 * (α ^ 2 + τ ^ 2)) +
+      Real.arctan (τ / α) / (2 * α ^ 3)) atTop (𝓝 (0 / (2 * α ^ 2) + (π / 2) / (2 * α ^ 3))) := by
+    rw [show (fun τ : ℝ => τ / (2 * α ^ 2 * (α ^ 2 + τ ^ 2)) + Real.arctan (τ / α) / (2 * α ^ 3)) =
+      fun τ => τ / (α ^ 2 + τ ^ 2) / (2 * α ^ 2) + Real.arctan (τ / α) / α / (2 * α ^ 2) by
+        funext τ; field_simp; try ring]
+    have := ((tendsto_div_sq_add_atTop hα).div_const (2 * α ^ 2)).add
+      ((tendsto_arctan_div_atTop hα).div_const (2 * α ^ 2))
+    convert this using 2; field_simp; try ring
+  rw [integral_of_hasDerivAt_of_tendsto (hasDerivAt_aux2 hα) (integrable_inv_sq_add_sq hα)
+    hbot htop]
+  field_simp; try ring
+
+lemma integral_sq_div_sq {α : ℝ} (hα : 0 < α) :
+    ∫ τ : ℝ, τ ^ 2 / (α ^ 2 + τ ^ 2) ^ 2 = π / (2 * α) := by
+  have e : (fun τ : ℝ => τ ^ 2 / (α ^ 2 + τ ^ 2) ^ 2) =
+      fun τ => 1 / (α ^ 2 + τ ^ 2) - α ^ 2 * (1 / (α ^ 2 + τ ^ 2) ^ 2) := by
+    funext τ; have := pos_sq_add hα τ; field_simp; try ring
+  rw [e, integral_sub (integrable_inv_sq_add hα) ((integrable_inv_sq_add_sq hα).const_mul _),
+    integral_const_mul, integral_inv_sq_add hα, integral_inv_sq_add_sq hα]
+  field_simp; try ring
+
+end Contour
+
+end
+
+section
+open Complex MeasureTheory Filter Topology Set
+
+namespace Contour
+
+lemma norm_sub_ge {s c : ℂ} {m : ℝ} (hm : 0 < m) (h : m ≤ ‖s - c‖) :
+    (1 + ‖s‖) / (1 + (1 + ‖c‖) / m) ≤ ‖s - c‖ := by
+  rw [div_le_iff₀ (by positivity)]
+  have h1 : ‖s‖ - ‖c‖ ≤ ‖s - c‖ := norm_sub_norm_le s c
+  have h2 : (1 + ‖c‖) ≤ (1 + ‖c‖) / m * ‖s - c‖ := by
+    rw [div_mul_eq_mul_div, le_div_iff₀ hm]; nlinarith [norm_nonneg c]
+  nlinarith
+
+lemma one_add_norm_rpow_le {s : ℂ} {q p : ℝ} (hq : 0 ≤ q) (hp : 0 ≤ p) :
+    (1 + ‖s‖) ^ (-(q + p)) ≤ (1 + |s.re|) ^ (-q) * (1 + |s.im|) ^ (-p) := by
+  rw [neg_add, Real.rpow_add (by positivity)]
+  apply mul_le_mul _ _ (by positivity) (by positivity)
+  · exact Real.rpow_le_rpow_of_nonpos (by positivity) (by linarith [Complex.abs_re_le_norm s])
+      (by linarith)
+  · exact Real.rpow_le_rpow_of_nonpos (by positivity) (by linarith [Complex.abs_im_le_norm s])
+      (by linarith)
+
+/-- Vanishing of the line integral under a bound `C (1+‖s‖)^{-e}`, `e > 1`, valid for large `‖s‖`. -/
+theorem vline_of_bound {Φ : ℂ → ℂ} {b R0 C e : ℝ} (he : 1 < e)
+    (hd : DifferentiableOn ℂ Φ {s : ℂ | b ≤ s.re})
+    (hB : ∀ s : ℂ, b ≤ s.re → R0 ≤ ‖s‖ → ‖Φ s‖ ≤ C * (1 + ‖s‖) ^ (-e)) :
+    Integrable (fun t : ℝ => Φ (b + t * I)) ∧ ∫ t : ℝ, Φ (b + t * I) = 0 := by
+  obtain ⟨M, hM⟩ : ∃ M, ∀ s ∈ {s : ℂ | b ≤ s.re} ∩ Metric.closedBall 0 R0, ‖Φ s‖ ≤ M := by
+    have hK : IsCompact ({s : ℂ | b ≤ s.re} ∩ Metric.closedBall 0 R0) :=
+      (isCompact_closedBall 0 R0).inter_left (isClosed_le continuous_const Complex.continuous_re)
+    exact hK.exists_bound_of_continuousOn (hd.continuousOn.mono inter_subset_left)
+  set C' := max C (max M 0 * (1 + |R0|) ^ e) with hC'
+  have hC'0 : 0 ≤ C' := le_trans (by positivity) (le_max_right _ _)
+  have hglob : ∀ s : ℂ, b ≤ s.re → ‖Φ s‖ ≤ C' * (1 + ‖s‖) ^ (-e) := by
+    intro s hs
+    by_cases hR : R0 ≤ ‖s‖
+    · calc ‖Φ s‖ ≤ C * (1 + ‖s‖) ^ (-e) := hB s hs hR
+        _ ≤ C' * (1 + ‖s‖) ^ (-e) := by gcongr; exact le_max_left _ _
+    · push Not at hR
+      have hmem : s ∈ {s : ℂ | b ≤ s.re} ∩ Metric.closedBall 0 R0 :=
+        ⟨hs, by simpa using hR.le⟩
+      have h1 := hM s hmem
+      have h2 : (1 + |R0|) ^ (-e) ≤ (1 + ‖s‖) ^ (-e) := by
+        apply Real.rpow_le_rpow_of_nonpos (by positivity) (by linarith [le_abs_self R0])
+          (by linarith)
+      have h3 : (1 + |R0|) ^ e * (1 + |R0|) ^ (-e) = 1 := by
+        rw [← Real.rpow_add (by positivity)]; simp
+      calc ‖Φ s‖ ≤ max M 0 := h1.trans (le_max_left _ _)
+        _ = max M 0 * (1 + |R0|) ^ e * (1 + |R0|) ^ (-e) := by rw [mul_assoc, h3, mul_one]
+        _ ≤ C' * (1 + ‖s‖) ^ (-e) :=
+          mul_le_mul (le_max_right _ _) h2 (by positivity) hC'0
+  constructor
+  · have hc : Continuous (fun t : ℝ => Φ (b + t * I)) := by
+      refine hd.continuousOn.comp_continuous (by fun_prop) (fun t => ?_)
+      show b ≤ ((b : ℂ) + t * I).re
+      rw [re_line]
+    refine Integrable.mono' ((integrable_one_add_abs_rpow he).const_mul C')
+      hc.aestronglyMeasurable (Eventually.of_forall (fun t => ?_))
+    have h1 := hglob (b + t * I) (by rw [re_line])
+    have h2 : (1 + ‖(b : ℂ) + t * I‖) ^ (-e) ≤ (1 + |t|) ^ (-e) := by
+      apply Real.rpow_le_rpow_of_nonpos (by positivity) _ (by linarith)
+      have := Complex.abs_im_le_norm ((b : ℂ) + t * I)
+      rw [im_line] at this; linarith
+    exact h1.trans (mul_le_mul_of_nonneg_left h2 hC'0)
+  · refine vline_eq_zero (C := C') (p := (e + 1) / 2) (q := (e - 1) / 2) (by linarith)
+      (by linarith) hd (fun s hs => ?_)
+    have h1 := hglob s hs
+    have h2 := one_add_norm_rpow_le (s := s) (q := (e - 1) / 2) (p := (e + 1) / 2)
+      (by linarith) (by linarith)
+    have h3 : (e - 1) / 2 + (e + 1) / 2 = e := by ring
+    rw [h3] at h2
+    calc ‖Φ s‖ ≤ C' * (1 + ‖s‖) ^ (-e) := h1
+      _ ≤ C' * ((1 + |s.re|) ^ (-((e - 1) / 2)) * (1 + |s.im|) ^ (-((e + 1) / 2))) :=
+          mul_le_mul_of_nonneg_left h2 hC'0
+      _ = _ := by ring
+
+lemma integrable_shift_inv {α y : ℝ} (hα : 0 < α) :
+    Integrable (fun t : ℝ => 1 / (α ^ 2 + (t - y) ^ 2)) :=
+  (integrable_inv_sq_add hα).comp_sub_right y
+
+lemma integral_shift_inv {α y : ℝ} (hα : 0 < α) :
+    ∫ t : ℝ, 1 / (α ^ 2 + (t - y) ^ 2) = Real.pi / α := by
+  rw [integral_sub_right_eq_self (fun τ => 1 / (α ^ 2 + τ ^ 2)) y]
+  exact integral_inv_sq_add hα
+
+/-- Poisson integral formula for a right half-plane, for holomorphic functions of sublinear growth. -/
+theorem poisson {F : ℂ → ℂ} {b C r : ℝ} (hr0 : 0 ≤ r) (hr : r < 1)
+    (hd : DifferentiableOn ℂ F {s : ℂ | b ≤ s.re})
+    (hB : ∀ s : ℂ, b ≤ s.re → ‖F s‖ ≤ C * (1 + ‖s‖) ^ r) {α y : ℝ} (hα : 0 < α) :
+    Integrable (fun t : ℝ => F (b + t * I) / (((α ^ 2 + (t - y) ^ 2 : ℝ)) : ℂ)) ∧
+    ∫ t : ℝ, F (b + t * I) / (((α ^ 2 + (t - y) ^ 2 : ℝ)) : ℂ) =
+      ((Real.pi / α : ℝ) : ℂ) * F (((b + α : ℝ) : ℂ) + y * I) := by
+  set z : ℂ := ((b + α : ℝ) : ℂ) + y * I with hz
+  set zs : ℂ := ((b - α : ℝ) : ℂ) + y * I with hzs
+  have hzre : z.re = b + α := by simp [z]
+  have hzsre : zs.re = b - α := by simp [zs]
+  have hnhds : {s : ℂ | b ≤ s.re} ∈ 𝓝 z := by
+    apply mem_of_superset ((isOpen_lt continuous_const Complex.continuous_re).mem_nhds
+      (show b < z.re by rw [hzre]; linarith))
+    intro s hs; exact le_of_lt (show b < s.re from hs)
+  have hne : ∀ s : ℂ, b ≤ s.re → s - zs ≠ 0 := by
+    intro s hs h
+    have : (s - zs).re = 0 := by rw [h]; simp
+    rw [sub_re, hzsre] at this; linarith
+  have hC : 0 ≤ C := by
+    have h1 := hB z (by rw [hzre]; linarith)
+    by_contra hneg; push Not at hneg
+    have : C * (1 + ‖z‖) ^ r < 0 := mul_neg_of_neg_of_pos hneg (by positivity)
+    linarith [norm_nonneg (F z)]
+  set Φ : ℂ → ℂ := fun s => dslope F z s - (F s - F z) / (s - zs) with hΦ
+  have hΦd : DifferentiableOn ℂ Φ {s : ℂ | b ≤ s.re} := by
+    refine ((differentiableOn_dslope hnhds).2 hd).sub ?_
+    exact (hd.sub_const _).div (differentiableOn_id.sub_const _) hne
+  -- formula off `z`
+  have hΦform : ∀ s : ℂ, b ≤ s.re → s ≠ z →
+      Φ s = (F s - F z) * (z - zs) / ((s - z) * (s - zs)) := by
+    intro s hs hsz
+    have h1 : s - z ≠ 0 := sub_ne_zero.2 hsz
+    have h2 := hne s hs
+    simp only [hΦ, dslope_of_ne _ hsz, slope_def_field]
+    field_simp
+    ring
+  -- decay bound
+  have hdec : ∀ s : ℂ, b ≤ s.re → ‖z‖ + 1 ≤ ‖s‖ →
+      ‖Φ s‖ ≤ ((C + ‖F z‖) * ‖z - zs‖ * (1 + (1 + ‖z‖) / 1) * (1 + (1 + ‖zs‖) / α)) *
+        (1 + ‖s‖) ^ (-(2 - r)) := by
+    intro s hs hsn
+    have hsz1 : 1 ≤ ‖s - z‖ := by
+      have := norm_sub_norm_le s z; linarith
+    have hsz : s ≠ z := by
+      intro h; rw [h, sub_self, norm_zero] at hsz1; linarith
+    have hszs : α ≤ ‖s - zs‖ := by
+      have h1 : (s - zs).re ≤ ‖s - zs‖ := Complex.re_le_norm _
+      rw [sub_re, hzsre] at h1; linarith
+    have l1 := norm_sub_ge (s := s) (c := z) one_pos hsz1
+    have l2 := norm_sub_ge (s := s) (c := zs) hα hszs
+    set k1 := 1 + (1 + ‖z‖) / 1
+    set k2 := 1 + (1 + ‖zs‖) / α
+    have hk1 : 0 < k1 := by positivity
+    have hk2 : 0 < k2 := by positivity
+    have hS : 0 < 1 + ‖s‖ := by positivity
+    have hFs : ‖F s - F z‖ ≤ (C + ‖F z‖) * (1 + ‖s‖) ^ r := by
+      have h1 := hB s hs
+      have h2 : 1 ≤ (1 + ‖s‖) ^ r := Real.one_le_rpow (by linarith [norm_nonneg s]) hr0
+      calc ‖F s - F z‖ ≤ ‖F s‖ + ‖F z‖ := norm_sub_le _ _
+        _ ≤ C * (1 + ‖s‖) ^ r + ‖F z‖ * (1 + ‖s‖) ^ r := by
+          gcongr; nlinarith [norm_nonneg (F z)]
+        _ = _ := by ring
+    rw [hΦform s hs hsz, norm_div, norm_mul, norm_mul]
+    have hden : (1 + ‖s‖) / k1 * ((1 + ‖s‖) / k2) ≤ ‖s - z‖ * ‖s - zs‖ :=
+      mul_le_mul l1 l2 (by positivity) (norm_nonneg _)
+    have hpos : 0 < (1 + ‖s‖) / k1 * ((1 + ‖s‖) / k2) := by positivity
+    rw [div_le_iff₀ (lt_of_lt_of_le hpos hden)]
+    have hrp : (1 + ‖s‖) ^ (-(2 - r)) * ((1 + ‖s‖) * (1 + ‖s‖)) = (1 + ‖s‖) ^ r := by
+      rw [show (1 + ‖s‖) * (1 + ‖s‖) = (1 + ‖s‖) ^ (2 : ℝ) by
+        rw [show (2 : ℝ) = ((2 : ℕ) : ℝ) by norm_num, Real.rpow_natCast]; ring,
+        ← Real.rpow_add hS]
+      ring_nf
+    calc ‖F s - F z‖ * ‖z - zs‖ ≤ (C + ‖F z‖) * (1 + ‖s‖) ^ r * ‖z - zs‖ := by
+          gcongr
+      _ = ((C + ‖F z‖) * ‖z - zs‖ * k1 * k2) * (1 + ‖s‖) ^ (-(2 - r)) *
+            ((1 + ‖s‖) / k1 * ((1 + ‖s‖) / k2)) := by
+          rw [← hrp]; field_simp
+      _ ≤ ((C + ‖F z‖) * ‖z - zs‖ * k1 * k2) * (1 + ‖s‖) ^ (-(2 - r)) *
+            (‖s - z‖ * ‖s - zs‖) := by gcongr
+  obtain ⟨hΦint, hΦ0⟩ := vline_of_bound (by linarith : 1 < 2 - r) hΦd hdec
+  -- the kernel on the line
+  have hline : ∀ t : ℝ, Φ (b + t * I) =
+      (F (b + t * I) - F z) * (((-(2 * α) / (α ^ 2 + (t - y) ^ 2) : ℝ)) : ℂ) := by
+    intro t
+    have hs : b ≤ ((b : ℂ) + t * I).re := by rw [re_line]
+    have hsz : (b : ℂ) + t * I ≠ z := by
+      intro h; have := congrArg Complex.re h; rw [re_line, hzre] at this; linarith
+    rw [hΦform _ hs hsz]
+    have hP : ((b : ℂ) + t * I - z) * ((b : ℂ) + t * I - zs) =
+        -(((α ^ 2 + (t - y) ^ 2 : ℝ)) : ℂ) := by
+      simp only [hz, hzs]; push_cast
+      linear_combination ((t : ℂ) - y) ^ 2 * I_sq
+    have hzz : z - zs = ((2 * α : ℝ) : ℂ) := by simp only [hz, hzs]; push_cast; ring
+    have hpos : (((α ^ 2 + (t - y) ^ 2 : ℝ)) : ℂ) ≠ 0 := by
+      exact_mod_cast (pos_sq_add hα (t - y)).ne'
+    rw [hP, hzz]
+    push_cast
+    field_simp
+  have hkr_eq : (fun t : ℝ => -(2 * α) / (α ^ 2 + (t - y) ^ 2)) =
+      fun t => -(2 * α) * (1 / (α ^ 2 + (t - y) ^ 2)) := by funext t; ring
+  have hkr : Integrable (fun t : ℝ => -(2 * α) / (α ^ 2 + (t - y) ^ 2)) := by
+    rw [hkr_eq]; exact (integrable_shift_inv hα).const_mul _
+  have hkrval : ∫ t : ℝ, -(2 * α) / (α ^ 2 + (t - y) ^ 2) = -(2 * Real.pi) := by
+    rw [hkr_eq, integral_const_mul, integral_shift_inv hα]; field_simp
+  set k : ℝ → ℂ := fun t => (((-(2 * α) / (α ^ 2 + (t - y) ^ 2) : ℝ)) : ℂ) with hk
+  have hkint : Integrable k := hkr.ofReal
+  have hkval : ∫ t : ℝ, k t = ((-(2 * Real.pi) : ℝ) : ℂ) := by
+    rw [← hkrval]; exact integral_ofReal
+  have hfun : (fun t : ℝ => F (b + t * I) / (((α ^ 2 + (t - y) ^ 2 : ℝ)) : ℂ)) =
+      fun t : ℝ => (((-(2 * α))⁻¹ : ℝ) : ℂ) * (Φ (b + t * I) + F z * k t) := by
+    funext t
+    rw [hline t]
+    simp only [hk]
+    have hpos : (((α ^ 2 + (t - y) ^ 2 : ℝ)) : ℂ) ≠ 0 := by
+      exact_mod_cast (pos_sq_add hα (t - y)).ne'
+    have hα' : (α : ℂ) ≠ 0 := by exact_mod_cast hα.ne'
+    push_cast
+    field_simp
+    ring
+  rw [hfun]
+  refine ⟨(hΦint.add (hkint.const_mul (F z))).const_mul _, ?_⟩
+  rw [integral_const_mul, integral_add hΦint (hkint.const_mul (F z)), integral_const_mul, hΦ0,
+    hkval]
+  have hα' : (α : ℂ) ≠ 0 := by exact_mod_cast hα.ne'
+  push_cast
+  field_simp
+  ring
+
+lemma integrable_shift_odd {α y : ℝ} (hα : 0 < α) :
+    Integrable (fun t : ℝ => (t - y) / (α ^ 2 + (t - y) ^ 2) ^ 2) :=
+  (integrable_odd_sq hα).comp_sub_right y
+
+lemma integral_shift_odd {α y : ℝ} :
+    ∫ t : ℝ, (t - y) / (α ^ 2 + (t - y) ^ 2) ^ 2 = 0 := by
+  rw [integral_sub_right_eq_self (fun τ => τ / (α ^ 2 + τ ^ 2) ^ 2) y]
+  exact integral_odd_sq
+
+lemma integrable_shift_sq {α y : ℝ} (hα : 0 < α) :
+    Integrable (fun t : ℝ => (t - y) ^ 2 / (α ^ 2 + (t - y) ^ 2) ^ 2) :=
+  (integrable_sq_div_sq hα).comp_sub_right y
+
+lemma integral_shift_sq {α y : ℝ} (hα : 0 < α) :
+    ∫ t : ℝ, (t - y) ^ 2 / (α ^ 2 + (t - y) ^ 2) ^ 2 = Real.pi / (2 * α) := by
+  rw [integral_sub_right_eq_self (fun τ => τ ^ 2 / (α ^ 2 + τ ^ 2) ^ 2) y]
+  exact integral_sq_div_sq hα
+
+/-- Derivative form of the Poisson formula. -/
+theorem poisson_deriv {F : ℂ → ℂ} {b C r : ℝ} (hr0 : 0 ≤ r) (hr : r < 1)
+    (hd : DifferentiableOn ℂ F {s : ℂ | b ≤ s.re})
+    (hB : ∀ s : ℂ, b ≤ s.re → ‖F s‖ ≤ C * (1 + ‖s‖) ^ r) {α y : ℝ} (hα : 0 < α) :
+    Integrable (fun t : ℝ => F (b + t * I) * ((((t - y) / (α ^ 2 + (t - y) ^ 2) ^ 2 : ℝ)) : ℂ)) ∧
+    ∫ t : ℝ, F (b + t * I) * ((((t - y) / (α ^ 2 + (t - y) ^ 2) ^ 2 : ℝ)) : ℂ) =
+      (I * ((Real.pi / (2 * α) : ℝ) : ℂ)) * deriv F (((b + α : ℝ) : ℂ) + y * I) := by
+  set z : ℂ := ((b + α : ℝ) : ℂ) + y * I with hz
+  set zs : ℂ := ((b - α : ℝ) : ℂ) + y * I with hzs
+  have hzre : z.re = b + α := by simp [z]
+  have hzsre : zs.re = b - α := by simp [zs]
+  have hnhds : {s : ℂ | b ≤ s.re} ∈ 𝓝 z := by
+    apply mem_of_superset ((isOpen_lt continuous_const Complex.continuous_re).mem_nhds
+      (show b < z.re by rw [hzre]; linarith))
+    intro s hs; exact le_of_lt (show b < s.re from hs)
+  have hne : ∀ s : ℂ, b ≤ s.re → s - zs ≠ 0 := by
+    intro s hs h
+    have : (s - zs).re = 0 := by rw [h]; simp
+    rw [sub_re, hzsre] at this; linarith
+  have hC : 0 ≤ C := by
+    have h1 := hB z (by rw [hzre]; linarith)
+    by_contra hneg; push Not at hneg
+    have : C * (1 + ‖z‖) ^ r < 0 := mul_neg_of_neg_of_pos hneg (by positivity)
+    linarith [norm_nonneg (F z)]
+  set D := deriv F z with hD
+  set N : ℂ → ℂ := fun s => F s - F z - D * (s - z) with hN
+  set Φ : ℂ → ℂ := fun s => dslope (dslope F z) z s - N s / (s - zs) ^ 2 with hΦ
+  have hD1 : DifferentiableOn ℂ (dslope F z) {s : ℂ | b ≤ s.re} := (differentiableOn_dslope hnhds).2 hd
+  have hΦd : DifferentiableOn ℂ Φ {s : ℂ | b ≤ s.re} := by
+    refine ((differentiableOn_dslope hnhds).2 hD1).sub ?_
+    refine DifferentiableOn.div ?_ ((differentiableOn_id.sub_const _).pow 2)
+      (fun s hs => pow_ne_zero 2 (hne s hs))
+    exact ((hd.sub_const _).sub ((differentiableOn_id.sub_const _).const_mul _))
+  have hΦform : ∀ s : ℂ, b ≤ s.re → s ≠ z →
+      Φ s = N s * (1 / (s - z) ^ 2 - 1 / (s - zs) ^ 2) := by
+    intro s hs hsz
+    have h1 : s - z ≠ 0 := sub_ne_zero.2 hsz
+    have h2 := hne s hs
+    simp only [hΦ, hN, dslope_of_ne _ hsz, slope_def_field, dslope_same]
+    rw [← hD]
+    field_simp
+  have hdec : ∀ s : ℂ, b ≤ s.re → ‖z‖ + 1 ≤ ‖s‖ →
+      ‖Φ s‖ ≤ (((C + ‖F z‖ + ‖D‖ * (1 + ‖z‖)) * (‖z - zs‖ * (2 + ‖z‖ + ‖zs‖))) *
+        ((1 + (1 + ‖z‖) / 1) * (1 + (1 + ‖zs‖) / α)) ^ 2) * (1 + ‖s‖) ^ (-(2 : ℝ)) := by
+    intro s hs hsn
+    have hsz1 : 1 ≤ ‖s - z‖ := by
+      have := norm_sub_norm_le s z; linarith
+    have hsz : s ≠ z := by
+      intro h; rw [h, sub_self, norm_zero] at hsz1; linarith
+    have hszs : α ≤ ‖s - zs‖ := by
+      have h1 : (s - zs).re ≤ ‖s - zs‖ := Complex.re_le_norm _
+      rw [sub_re, hzsre] at h1; linarith
+    have l1 := norm_sub_ge (s := s) (c := z) one_pos hsz1
+    have l2 := norm_sub_ge (s := s) (c := zs) hα hszs
+    set k1 := 1 + (1 + ‖z‖) / 1
+    set k2 := 1 + (1 + ‖zs‖) / α
+    have hk1 : 0 < k1 := by positivity
+    have hk2 : 0 < k2 := by positivity
+    set S := 1 + ‖s‖ with hSdef
+    have hS : 0 < S := by positivity
+    have h1z : s - z ≠ 0 := sub_ne_zero.2 hsz
+    have h2z := hne s hs
+    have hNb : ‖N s‖ ≤ (C + ‖F z‖ + ‖D‖ * (1 + ‖z‖)) * S := by
+      have h1 := hB s hs
+      have h2 : (1 + ‖s‖) ^ r ≤ S := by
+        have := Real.rpow_le_rpow_of_exponent_le (x := 1 + ‖s‖) (by linarith [norm_nonneg s])
+          (le_of_lt hr)
+        simpa using this
+      have h3 : ‖s - z‖ ≤ (1 + ‖z‖) * S := by
+        have := norm_sub_le s z
+        nlinarith [norm_nonneg s, norm_nonneg z]
+      have h4 : 1 ≤ S := by linarith [norm_nonneg s]
+      calc ‖N s‖ ≤ ‖F s‖ + ‖F z‖ + ‖D‖ * ‖s - z‖ := by
+            simp only [hN]
+            calc ‖F s - F z - D * (s - z)‖ ≤ ‖F s - F z‖ + ‖D * (s - z)‖ := norm_sub_le _ _
+              _ ≤ ‖F s‖ + ‖F z‖ + ‖D * (s - z)‖ := by gcongr; exact norm_sub_le _ _
+              _ = _ := by rw [norm_mul]
+        _ ≤ C * S + ‖F z‖ * S + ‖D‖ * ((1 + ‖z‖) * S) := by
+            gcongr
+            · exact h1.trans (mul_le_mul_of_nonneg_left h2 hC)
+            · nlinarith [norm_nonneg (F z)]
+        _ = _ := by ring
+    have hKb : ‖1 / (s - z) ^ 2 - 1 / (s - zs) ^ 2‖ ≤
+        (‖z - zs‖ * (2 + ‖z‖ + ‖zs‖)) * S / ((S / k1) * (S / k2)) ^ 2 := by
+      have heq : 1 / (s - z) ^ 2 - 1 / (s - zs) ^ 2 =
+          (z - zs) * (2 * s - z - zs) / ((s - z) * (s - zs)) ^ 2 := by
+        field_simp; ring
+      rw [heq, norm_div, norm_mul, norm_pow, norm_mul]
+      have hnum : ‖2 * s - z - zs‖ ≤ (2 + ‖z‖ + ‖zs‖) * S := by
+        have : ‖2 * s - z - zs‖ ≤ 2 * ‖s‖ + ‖z‖ + ‖zs‖ := by
+          calc ‖2 * s - z - zs‖ ≤ ‖2 * s - z‖ + ‖zs‖ := norm_sub_le _ _
+            _ ≤ ‖2 * s‖ + ‖z‖ + ‖zs‖ := by gcongr; exact norm_sub_le _ _
+            _ = 2 * ‖s‖ + ‖z‖ + ‖zs‖ := by rw [norm_mul]; norm_num
+        nlinarith [norm_nonneg s, norm_nonneg z, norm_nonneg zs]
+      have hden : (S / k1) * (S / k2) ≤ ‖s - z‖ * ‖s - zs‖ :=
+        mul_le_mul l1 l2 (by positivity) (norm_nonneg _)
+      have hpos : 0 < (S / k1) * (S / k2) := by positivity
+      calc ‖z - zs‖ * ‖2 * s - z - zs‖ / (‖s - z‖ * ‖s - zs‖) ^ 2
+          ≤ ‖z - zs‖ * ((2 + ‖z‖ + ‖zs‖) * S) / ((S / k1) * (S / k2)) ^ 2 := by
+            gcongr
+        _ = _ := by ring
+    rw [hΦform s hs hsz, norm_mul]
+    have hrp : S ^ (-(2 : ℝ)) * S ^ 2 = 1 := by
+      rw [show S ^ 2 = S ^ (2 : ℝ) by norm_cast, ← Real.rpow_add hS]; simp
+    calc ‖N s‖ * ‖1 / (s - z) ^ 2 - 1 / (s - zs) ^ 2‖
+        ≤ ((C + ‖F z‖ + ‖D‖ * (1 + ‖z‖)) * S) *
+          ((‖z - zs‖ * (2 + ‖z‖ + ‖zs‖)) * S / ((S / k1) * (S / k2)) ^ 2) :=
+          mul_le_mul hNb hKb (norm_nonneg _) (by positivity)
+      _ = (((C + ‖F z‖ + ‖D‖ * (1 + ‖z‖)) * (‖z - zs‖ * (2 + ‖z‖ + ‖zs‖))) *
+            (k1 * k2) ^ 2) * (S ^ (-(2 : ℝ)) * S ^ 2) / S ^ 2 := by
+          rw [hrp]; field_simp
+      _ = (((C + ‖F z‖ + ‖D‖ * (1 + ‖z‖)) * (‖z - zs‖ * (2 + ‖z‖ + ‖zs‖))) *
+            (k1 * k2) ^ 2) * S ^ (-(2 : ℝ)) := by
+          field_simp
+  obtain ⟨hΦint, hΦ0⟩ := vline_of_bound (by norm_num : (1 : ℝ) < 2) hΦd hdec
+  -- kernels on the line
+  set o : ℝ → ℝ := fun t => (t - y) / (α ^ 2 + (t - y) ^ 2) ^ 2 with ho
+  set q : ℝ → ℝ := fun t => (t - y) ^ 2 / (α ^ 2 + (t - y) ^ 2) ^ 2 with hq
+  have hlineK : ∀ t : ℝ, 1 / ((b : ℂ) + t * I - z) ^ 2 - 1 / ((b : ℂ) + t * I - zs) ^ 2 =
+      ((4 * α : ℝ) : ℂ) * I * ((o t : ℝ) : ℂ) := by
+    intro t
+    have hP := pos_sq_add hα (t - y)
+    have hA : (b : ℂ) + t * I - z = ((-α : ℝ) : ℂ) + ((t - y : ℝ) : ℂ) * I := by
+      simp only [hz]; push_cast; ring
+    have hB2 : (b : ℂ) + t * I - zs = ((α : ℝ) : ℂ) + ((t - y : ℝ) : ℂ) * I := by
+      simp only [hzs]; push_cast; ring
+    have hAB : (((-α : ℝ) : ℂ) + ((t - y : ℝ) : ℂ) * I) * (((α : ℝ) : ℂ) + ((t - y : ℝ) : ℂ) * I)
+        = -(((α ^ 2 + (t - y) ^ 2 : ℝ)) : ℂ) := by
+      push_cast; linear_combination ((t : ℂ) - y) ^ 2 * I_sq
+    have hA0 : ((-α : ℝ) : ℂ) + ((t - y : ℝ) : ℂ) * I ≠ 0 := by
+      intro h; have := congrArg Complex.re h; simp at this; linarith
+    have hB0 : ((α : ℝ) : ℂ) + ((t - y : ℝ) : ℂ) * I ≠ 0 := by
+      intro h; have := congrArg Complex.re h; simp at this; linarith
+    have hP0 : (((α ^ 2 + (t - y) ^ 2 : ℝ)) : ℂ) ≠ 0 := by exact_mod_cast hP.ne'
+    rw [hA, hB2, div_sub_div _ _ (pow_ne_zero 2 hA0) (pow_ne_zero 2 hB0), ← mul_pow, hAB]
+    simp only [ho]
+    push_cast
+    field_simp
+    ring
+  have hlineK2 : ∀ t : ℝ, ((b : ℂ) + t * I - z) *
+      (1 / ((b : ℂ) + t * I - z) ^ 2 - 1 / ((b : ℂ) + t * I - zs) ^ 2) =
+      ((-(4 * α) : ℝ) : ℂ) * ((q t : ℝ) : ℂ) + ((-(4 * α ^ 2) : ℝ) : ℂ) * I * ((o t : ℝ) : ℂ) := by
+    intro t
+    have hA : (b : ℂ) + t * I - z = ((-α : ℝ) : ℂ) + ((t - y : ℝ) : ℂ) * I := by
+      simp only [hz]; push_cast; ring
+    rw [hlineK t, hA]
+    simp only [ho, hq, div_eq_mul_inv]
+    push_cast
+    linear_combination (4 * (α : ℂ) * ((t : ℂ) - y) ^ 2 *
+      (((α : ℂ) ^ 2 + ((t : ℂ) - y) ^ 2) ^ 2)⁻¹) * I_sq
+  have hΦline : ∀ t : ℝ, Φ (b + t * I) = N (b + t * I) * (((4 * α : ℝ) : ℂ) * I * ((o t : ℝ) : ℂ)) := by
+    intro t
+    have hs : b ≤ ((b : ℂ) + t * I).re := by rw [re_line]
+    have hsz : (b : ℂ) + t * I ≠ z := by
+      intro h; have := congrArg Complex.re h; rw [re_line, hzre] at this; linarith
+    rw [hΦform _ hs hsz, hlineK t]
+  have hoint : Integrable (fun t : ℝ => ((o t : ℝ) : ℂ)) := (integrable_shift_odd hα).ofReal
+  have hqint : Integrable (fun t : ℝ => ((q t : ℝ) : ℂ)) := (integrable_shift_sq hα).ofReal
+  have hoval : ∫ t : ℝ, ((o t : ℝ) : ℂ) = 0 := by
+    rw [show (∫ t : ℝ, ((o t : ℝ) : ℂ)) = ((∫ t : ℝ, o t : ℝ) : ℂ) from integral_ofReal]
+    simp only [ho]; rw [integral_shift_odd]; simp
+  have hqval : ∫ t : ℝ, ((q t : ℝ) : ℂ) = ((Real.pi / (2 * α) : ℝ) : ℂ) := by
+    rw [show (∫ t : ℝ, ((q t : ℝ) : ℂ)) = ((∫ t : ℝ, q t : ℝ) : ℂ) from integral_ofReal]
+    simp only [hq]; rw [integral_shift_sq hα]
+  have hfun : (fun t : ℝ => F (b + t * I) * ((((t - y) / (α ^ 2 + (t - y) ^ 2) ^ 2 : ℝ)) : ℂ)) =
+      fun t : ℝ => (((4 * α : ℝ) : ℂ) * I)⁻¹ * (Φ (b + t * I) +
+        F z * (((4 * α : ℝ) : ℂ) * I * ((o t : ℝ) : ℂ)) +
+        D * (((-(4 * α) : ℝ) : ℂ) * ((q t : ℝ) : ℂ) + ((-(4 * α ^ 2) : ℝ) : ℂ) * I * ((o t : ℝ) : ℂ))) := by
+    funext t
+    change F (b + t * I) * ((o t : ℝ) : ℂ) = _
+    rw [hΦline t, ← hlineK2 t, hlineK t]
+    have h4' : ((4 * α : ℝ) : ℂ) ≠ 0 := by exact_mod_cast (by positivity : (4 * α) ≠ 0)
+    have h4 : (((4 * α : ℝ) : ℂ) * I) ≠ 0 := mul_ne_zero h4' I_ne_zero
+    simp only [hN]
+    field_simp
+    ring
+  rw [hfun]
+  have hi1 : Integrable (fun t : ℝ => F z * (((4 * α : ℝ) : ℂ) * I * ((o t : ℝ) : ℂ))) :=
+    (hoint.const_mul _).const_mul _
+  have hi2 : Integrable (fun t : ℝ => D * (((-(4 * α) : ℝ) : ℂ) * ((q t : ℝ) : ℂ) +
+      ((-(4 * α ^ 2) : ℝ) : ℂ) * I * ((o t : ℝ) : ℂ))) :=
+    ((hqint.const_mul _).add (hoint.const_mul _)).const_mul _
+  have hi12 : Integrable (fun t : ℝ => Φ (b + t * I) +
+      F z * (((4 * α : ℝ) : ℂ) * I * ((o t : ℝ) : ℂ))) := hΦint.add hi1
+  have hqo1 : Integrable (fun t : ℝ => ((-(4 * α) : ℝ) : ℂ) * ((q t : ℝ) : ℂ)) := hqint.const_mul _
+  have hqo2 : Integrable (fun t : ℝ => ((-(4 * α ^ 2) : ℝ) : ℂ) * I * ((o t : ℝ) : ℂ)) :=
+    hoint.const_mul _
+  refine ⟨(hi12.add hi2).const_mul _, ?_⟩
+  rw [integral_const_mul, integral_add hi12 hi2, integral_add hΦint hi1, hΦ0,
+    integral_const_mul, integral_const_mul, integral_const_mul,
+    integral_add hqo1 hqo2, integral_const_mul, integral_const_mul,
+    hoval, hqval]
+  have hα' : (α : ℂ) ≠ 0 := by exact_mod_cast hα.ne'
+  push_cast
+  field_simp
+  linear_combination (-(4:ℂ) * Real.pi * D) * I_sq
+
+end Contour
+
+end
+
+section
+open Complex MeasureTheory Filter Topology Set
+
+namespace ZetaLog
+
+/-- `(s-1) ζ(s) / s`, with its removable value `1` at `s = 1`. -/
+noncomputable def G0 (s : ℂ) : ℂ := if s = 1 then 1 else (s - 1) * riemannZeta s / s
+
+lemma G0_of_ne {s : ℂ} (h : s ≠ 1) : G0 s = (s - 1) * riemannZeta s / s := by simp [G0, h]
+
+lemma G0_one : G0 1 = 1 := by simp [G0]
+
+lemma tendsto_G0 : Tendsto G0 (𝓝[≠] 1) (𝓝 1) := by
+  have h1 := riemannZeta_residue_one
+  have h2 : Tendsto (fun s : ℂ => s) (𝓝[≠] 1) (𝓝 1) :=
+    tendsto_nhdsWithin_of_tendsto_nhds tendsto_id
+  have h3 := h1.div h2 one_ne_zero
+  rw [div_one] at h3
+  refine h3.congr' ?_
+  filter_upwards [self_mem_nhdsWithin] with s hs
+  rw [G0_of_ne hs]; rfl
+
+lemma continuousAt_G0_one : ContinuousAt G0 1 := by
+  rw [← continuousWithinAt_compl_self, ContinuousWithinAt, G0_one]
+  exact tendsto_G0
+
+lemma differentiableAt_G0 {s : ℂ} (h1 : s ≠ 1) (h0 : s ≠ 0) : DifferentiableAt ℂ G0 s := by
+  have : DifferentiableAt ℂ (fun s => (s - 1) * riemannZeta s / s) s :=
+    ((differentiableAt_id.sub_const 1).mul (differentiableAt_riemannZeta h1)).div
+      differentiableAt_id h0
+  refine this.congr_of_eventuallyEq ?_
+  filter_upwards [eventually_ne_nhds h1] with x hx
+  exact G0_of_ne hx
+
+lemma differentiableOn_G0 : DifferentiableOn ℂ G0 {s : ℂ | 0 < s.re} := by
+  have hmem : {s : ℂ | 0 < s.re} ∈ 𝓝 (1 : ℂ) :=
+    (isOpen_lt continuous_const Complex.continuous_re).mem_nhds (by simp)
+  rw [← Complex.differentiableOn_compl_singleton_and_continuousAt_iff hmem]
+  refine ⟨fun s hs => ?_, continuousAt_G0_one⟩
+  have h0 : s ≠ 0 := by
+    rintro rfl; have := hs.1; simp at this
+  exact (differentiableAt_G0 hs.2 h0).differentiableWithinAt
+
+lemma G0_ne_zero (hRH : RiemannHypothesis) {s : ℂ} (hs : 1 / 2 < s.re) : G0 s ≠ 0 := by
+  by_cases h1 : s = 1
+  · simp [G0, h1]
+  rw [G0_of_ne h1]
+  have hz : riemannZeta s ≠ 0 := by
+    intro hz
+    have := hRH s hz ?_ h1
+    · linarith
+    · rintro ⟨n, rfl⟩
+      have : (-2 * ((n : ℂ) + 1)).re = -2 * ((n : ℝ) + 1) := by simp
+      rw [this] at hs
+      have : (0 : ℝ) ≤ n := Nat.cast_nonneg n
+      linarith
+  have h0 : s ≠ 0 := by rintro rfl; norm_num at hs
+  exact div_ne_zero (mul_ne_zero (sub_ne_zero.2 h1) hz) h0
+
+/-- The half-plane `Re s > 1/2`. -/
+def U : Set ℂ := {s : ℂ | 1 / 2 < s.re}
+
+lemma isOpen_U : IsOpen U := isOpen_lt continuous_const Complex.continuous_re
+
+lemma U_sub {s : ℂ} (hs : s ∈ U) : 0 < s.re := by
+  have : 1 / 2 < s.re := hs; linarith
+
+lemma isSimplyConnected_U : IsSimplyConnected U := by
+  have := (convex_halfSpace_re_gt (1 / 2 : ℝ)).contractibleSpace ⟨1, by norm_num⟩
+  exact (inferInstance : SimplyConnectedSpace ↥{c : ℂ | 1 / 2 < c.re})
+
+lemma isPreconnected_U : IsPreconnected U :=
+  (convex_halfSpace_re_gt (1 / 2 : ℝ)).isPreconnected
+
+/-- A real continuous integer-valued function on a preconnected set is constant. -/
+lemma const_of_int_valued {S : Set ℂ} (hS : IsPreconnected S) {g : ℂ → ℝ}
+    (hg : ContinuousOn g S) (hint : ∀ s ∈ S, ∃ n : ℤ, g s = n) :
+    ∀ a ∈ S, ∀ b ∈ S, g a = g b := by
+  have key : ∀ a ∈ S, ∀ b ∈ S, g a ≤ g b → g a = g b := by
+    intro a ha b hb hab
+    obtain ⟨m, hm⟩ := hint a ha
+    obtain ⟨n, hn⟩ := hint b hb
+    by_contra hne
+    have hlt : g a < g b := lt_of_le_of_ne hab hne
+    rw [hm, hn] at hlt
+    have hmn : m < n := by exact_mod_cast hlt
+    have hmem : (m : ℝ) + 1 / 2 ∈ Icc (g a) (g b) := by
+      rw [hm, hn]
+      constructor
+      · linarith
+      · have : (m : ℝ) + 1 ≤ n := by exact_mod_cast hmn
+        linarith
+    obtain ⟨c, hc, hgc⟩ := hS.intermediate_value ha hb hg hmem
+    obtain ⟨k, hk⟩ := hint c hc
+    rw [hk] at hgc
+    have h1 : (m : ℝ) < k := by linarith
+    have h2 : (k : ℝ) < m + 1 := by linarith
+    have h1' : m < k := by exact_mod_cast h1
+    have h2' : k < m + 1 := by exact_mod_cast h2
+    omega
+  intro a ha b hb
+  rcases le_total (g a) (g b) with h | h
+  · exact key a ha b hb h
+  · exact (key b hb a ha h).symm
+
+/-- Two continuous logarithms of the same function on a preconnected set, agreeing at one point,
+agree everywhere. -/
+lemma log_unique {S : Set ℂ} (hS : IsPreconnected S) {F1 F2 : ℂ → ℂ}
+    (h1 : ContinuousOn F1 S) (h2 : ContinuousOn F2 S)
+    (he : ∀ s ∈ S, exp (F1 s) = exp (F2 s)) {a : ℂ} (ha : a ∈ S) (hfa : F1 a = F2 a) :
+    ∀ s ∈ S, F1 s = F2 s := by
+  have hn : ∀ s ∈ S, ∃ n : ℤ, F1 s - F2 s = n * (2 * Real.pi * I) := by
+    intro s hs
+    rw [← Complex.exp_eq_one_iff, exp_sub, he s hs, div_self (exp_ne_zero _)]
+  set g : ℂ → ℝ := fun s => (F1 s - F2 s).im / (2 * Real.pi) with hg
+  have hgc : ContinuousOn g S :=
+    ((Complex.continuous_im.comp_continuousOn (h1.sub h2))).div_const _
+  have hgint : ∀ s ∈ S, ∃ n : ℤ, g s = n := by
+    intro s hs
+    obtain ⟨n, hn⟩ := hn s hs
+    refine ⟨n, ?_⟩
+    simp only [hg, hn]
+    simp [Real.pi_ne_zero]
+  intro s hs
+  have hconst := const_of_int_valued hS hgc hgint s hs a ha
+  obtain ⟨n, hns⟩ := hn s hs
+  have hga : g a = 0 := by simp [hg, hfa]
+  have : g s = n := by simp only [hg, hns]; simp [Real.pi_ne_zero]
+  rw [hconst, hga] at this
+  have hn0 : n = 0 := by exact_mod_cast this.symm
+  rw [hn0] at hns
+  simpa [sub_eq_zero] using hns
+
+/-- A continuous logarithm of a holomorphic function is holomorphic, with the expected derivative. -/
+lemma hasDerivAt_of_exp_eq {S : Set ℂ} (hU : IsOpen S) {F G : ℂ → ℂ} (hF : ContinuousOn F S)
+    (hG : DifferentiableOn ℂ G S) (h : ∀ s ∈ S, exp (F s) = G s) {s0 : ℂ} (hs0 : s0 ∈ S) :
+    HasDerivAt F (deriv G s0 / G s0) s0 := by
+  have hFc : ContinuousAt F s0 := hF.continuousAt (hU.mem_nhds hs0)
+  have hGd : DifferentiableAt ℂ G s0 := hG.differentiableAt (hU.mem_nhds hs0)
+  have hG0 : G s0 ≠ 0 := by rw [← h s0 hs0]; exact exp_ne_zero _
+  set c := exp (-F s0) with hc
+  have hc0 : c ≠ 0 := exp_ne_zero _
+  have hw : HasDerivAt (fun s => G s * c) (deriv G s0 * c) s0 := hGd.hasDerivAt.mul_const c
+  have hw1 : G s0 * c = 1 := by rw [← h s0 hs0, hc, ← exp_add]; simp
+  have hlog : HasDerivAt (fun s => log (G s * c)) (deriv G s0 * c / (G s0 * c)) s0 :=
+    hw.clog (by rw [hw1]; exact one_mem_slitPlane)
+  have hev : ∀ᶠ s in 𝓝 s0, F s = F s0 + log (G s * c) := by
+    have h1 : ∀ᶠ s in 𝓝 s0, F s ∈ Metric.ball (F s0) 1 :=
+      hFc.eventually (Metric.ball_mem_nhds _ one_pos)
+    filter_upwards [h1, hU.mem_nhds hs0] with s hs hsU
+    have hsm : ‖F s - F s0‖ < 1 := by rw [← dist_eq_norm]; exact hs
+    have him : |(F s - F s0).im| < 1 := lt_of_le_of_lt (Complex.abs_im_le_norm _) hsm
+    have : G s * c = exp (F s - F s0) := by rw [← h s hsU, hc, sub_eq_add_neg, exp_add]
+    rw [this, log_exp]
+    · ring
+    · have := neg_abs_le (F s - F s0).im
+      linarith [Real.pi_gt_three]
+    · have := le_abs_self (F s - F s0).im
+      linarith [Real.pi_gt_three]
+  have := (hlog.const_add (F s0)).congr_of_eventuallyEq hev
+  refine this.congr_deriv ?_
+  have hc' : c = (G s0)⁻¹ := eq_inv_of_mul_eq_one_right hw1
+  rw [hw1, hc']
+  field_simp
+
+end ZetaLog
+
+end
+
+section
+open Complex MeasureTheory Filter Topology Set LSeries
+
+namespace ZetaLog
+
+lemma term_le_of_two_le {f : ℕ → ℂ} {s : ℂ} (hs : 2 ≤ s.re) (n : ℕ) (hn : n ≠ 1) :
+    ‖term f s n‖ ≤ (2 : ℝ) ^ (2 - s.re) * ‖term f 2 n‖ := by
+  rw [norm_term_eq, norm_term_eq]
+  rcases eq_or_ne n 0 with rfl | h0
+  · simp
+  have hn2 : (2 : ℝ) ≤ n := by
+    have : 2 ≤ n := by omega
+    exact_mod_cast this
+  simp only [h0, if_false]
+  have hre2 : (2 : ℂ).re = 2 := by norm_num
+  rw [hre2]
+  have hnpos : (0 : ℝ) < n := by linarith
+  have key : (2 : ℝ) ^ (s.re - 2) * (n : ℝ) ^ (2 : ℝ) ≤ (n : ℝ) ^ s.re := by
+    have h1 : (2 : ℝ) ^ (s.re - 2) ≤ (n : ℝ) ^ (s.re - 2) :=
+      Real.rpow_le_rpow (by norm_num) hn2 (by linarith)
+    calc (2 : ℝ) ^ (s.re - 2) * (n : ℝ) ^ (2 : ℝ) ≤ (n : ℝ) ^ (s.re - 2) * (n : ℝ) ^ (2 : ℝ) := by
+          gcongr
+      _ = (n : ℝ) ^ s.re := by rw [← Real.rpow_add hnpos]; ring_nf
+  have h2 : (2 : ℝ) ^ (2 - s.re) = ((2 : ℝ) ^ (s.re - 2))⁻¹ := by
+    rw [← Real.rpow_neg (by norm_num)]; ring_nf
+  rw [h2]
+  have hp1 : 0 < (2 : ℝ) ^ (s.re - 2) := by positivity
+  have hp2 : 0 < (n : ℝ) ^ (2 : ℝ) := by positivity
+  rw [inv_mul_eq_div, div_div, div_le_div_iff₀ (by positivity) (by positivity)]
+  rw [mul_comm ((n : ℝ) ^ (2 : ℝ))]
+  exact mul_le_mul_of_nonneg_left key (norm_nonneg _)
+
+lemma norm_LSeries_sub_le {f : ℕ → ℂ} (hf : LSeriesSummable f 2) {s : ℂ} (hs : 2 ≤ s.re) :
+    ‖LSeries f s - f 1‖ ≤ (2 : ℝ) ^ (2 - s.re) * ∑' n, ‖term f 2 n‖ := by
+  have hsum_s : LSeriesSummable f s := hf.of_re_le_re (by simpa using hs)
+  have hdecomp := hsum_s.tsum_eq_add_tsum_ite 1
+  have h1 : term f s 1 = f 1 := by simp
+  have hL : LSeries f s - f 1 = ∑' n, (if n = 1 then 0 else term f s n) := by
+    rw [LSeries, hdecomp, h1]; ring
+  have hle : ∀ n, ‖(if n = 1 then (0 : ℂ) else term f s n)‖ ≤ (2 : ℝ) ^ (2 - s.re) * ‖term f 2 n‖ := by
+    intro n
+    split_ifs with h
+    · simp only [norm_zero]; positivity
+    · exact term_le_of_two_le hs n h
+  have hsumn : Summable (fun n => (2 : ℝ) ^ (2 - s.re) * ‖term f 2 n‖) :=
+    hf.norm.mul_left _
+  have hsum2 : Summable (fun n => ‖(if n = 1 then (0 : ℂ) else term f s n)‖) :=
+    Summable.of_nonneg_of_le (fun n => norm_nonneg _) hle hsumn
+  rw [hL]
+  calc ‖∑' n, (if n = 1 then (0 : ℂ) else term f s n)‖
+      ≤ ∑' n, ‖(if n = 1 then (0 : ℂ) else term f s n)‖ := norm_tsum_le_tsum_norm hsum2
+    _ ≤ ∑' n, (2 : ℝ) ^ (2 - s.re) * ‖term f 2 n‖ := hsum2.tsum_le_tsum hle hsumn
+    _ = (2 : ℝ) ^ (2 - s.re) * ∑' n, ‖term f 2 n‖ := tsum_mul_left
+
+lemma zeta_sub_one_le : ∃ K : ℝ, 0 ≤ K ∧ ∀ s : ℂ, 2 ≤ s.re →
+    ‖riemannZeta s - 1‖ ≤ (2 : ℝ) ^ (2 - s.re) * K := by
+  have hf : LSeriesSummable 1 2 := LSeriesSummable_one_iff.2 (by norm_num)
+  refine ⟨∑' n, ‖term 1 2 n‖, tsum_nonneg (fun _ => norm_nonneg _), fun s hs => ?_⟩
+  have := norm_LSeries_sub_le hf hs
+  rwa [LSeries_one_eq_riemannZeta (by linarith), Pi.one_apply] at this
+
+open ArithmeticFunction in
+lemma logDeriv_zeta_le : ∃ K : ℝ, 0 ≤ K ∧ ∀ s : ℂ, 2 ≤ s.re →
+    ‖deriv riemannZeta s / riemannZeta s‖ ≤ (2 : ℝ) ^ (2 - s.re) * K := by
+  have hf : LSeriesSummable (fun n => (vonMangoldt n : ℂ)) 2 :=
+    LSeriesSummable_vonMangoldt (by norm_num)
+  refine ⟨∑' n, ‖term (fun n => (vonMangoldt n : ℂ)) 2 n‖, tsum_nonneg (fun _ => norm_nonneg _),
+    fun s hs => ?_⟩
+  have := norm_LSeries_sub_le hf hs
+  rw [LSeries_vonMangoldt_eq_deriv_riemannZeta_div (by linarith)] at this
+  simpa [vonMangoldt_apply_one, neg_div] using this
+
+lemma two_rpow_tendsto : Tendsto (fun σ : ℝ => (2 : ℝ) ^ (2 - σ)) atTop (𝓝 0) := by
+  have h1 : Tendsto (fun σ : ℝ => 2 + -σ) atTop atBot :=
+    tendsto_atBot_add_const_left atTop 2 tendsto_neg_atTop_atBot
+  have h2 := (tendsto_rpow_atBot_of_base_gt_one 2 (by norm_num)).comp h1
+  refine h2.congr (fun σ => ?_)
+  simp only [Function.comp, sub_eq_add_neg]
+
+/-- `G0` is close to `1` far to the right, uniformly. -/
+lemma G0_near_one : ∀ ε > 0, ∃ R : ℝ, 2 ≤ R ∧ ∀ s : ℂ, R ≤ s.re → ‖G0 s - 1‖ ≤ ε := by
+  intro ε hε
+  obtain ⟨K, hK0, hK⟩ := zeta_sub_one_le
+  have hlim : Tendsto (fun σ : ℝ => (2 : ℝ) ^ (2 - σ) * K + (1 + (2 : ℝ) ^ (2 - σ) * K) / σ)
+      atTop (𝓝 (0 * K + (1 + 0 * K) * 0)) := by
+    refine (two_rpow_tendsto.mul_const K).add ?_
+    rw [show (fun σ : ℝ => (1 + (2 : ℝ) ^ (2 - σ) * K) / σ) =
+      fun σ => (1 + (2 : ℝ) ^ (2 - σ) * K) * σ⁻¹ by funext σ; ring]
+    exact (tendsto_const_nhds.add (two_rpow_tendsto.mul_const K)).mul tendsto_inv_atTop_zero
+  simp only [zero_mul, add_zero, mul_zero] at hlim
+  obtain ⟨R1, hR1⟩ := (eventually_atTop.1 (hlim.eventually (ge_mem_nhds hε)))
+  refine ⟨max R1 2, le_max_right _ _, fun s hs => ?_⟩
+  have hs2 : 2 ≤ s.re := le_trans (le_max_right _ _) hs
+  have hs1 : s ≠ 1 := by intro h; rw [h] at hs2; norm_num at hs2
+  have hs0 : s ≠ 0 := by intro h; rw [h] at hs2; norm_num at hs2
+  have hb := hR1 s.re (le_trans (le_max_left _ _) hs)
+  have hz := hK s hs2
+  have hσ : 0 < s.re := by linarith
+  rw [G0_of_ne hs1]
+  have heq : (s - 1) * riemannZeta s / s - 1 = (riemannZeta s - 1) - riemannZeta s / s := by
+    field_simp; ring
+  rw [heq]
+  have hzn : ‖riemannZeta s‖ ≤ 1 + (2 : ℝ) ^ (2 - s.re) * K := by
+    have := norm_sub_norm_le (riemannZeta s) 1
+    simp at this; linarith
+  have hsn : s.re ≤ ‖s‖ := Complex.re_le_norm s
+  calc ‖(riemannZeta s - 1) - riemannZeta s / s‖ ≤ ‖riemannZeta s - 1‖ + ‖riemannZeta s / s‖ :=
+        norm_sub_le _ _
+    _ ≤ (2 : ℝ) ^ (2 - s.re) * K + (1 + (2 : ℝ) ^ (2 - s.re) * K) / s.re := by
+        gcongr
+        rw [norm_div]
+        calc ‖riemannZeta s‖ / ‖s‖ ≤ (1 + (2 : ℝ) ^ (2 - s.re) * K) / ‖s‖ := by gcongr
+          _ ≤ (1 + (2 : ℝ) ^ (2 - s.re) * K) / s.re := by
+            apply div_le_div_of_nonneg_left (by positivity) hσ hsn
+    _ ≤ ε := hb
+
+lemma tendsto_G0_line (t : ℝ) : Tendsto (fun u : ℝ => G0 (u + t * I)) atTop (𝓝 1) := by
+  rw [tendsto_iff_norm_sub_tendsto_zero]
+  rw [Metric.tendsto_nhds]
+  intro ε hε
+  obtain ⟨R, -, hR⟩ := G0_near_one (ε / 2) (by linarith)
+  filter_upwards [eventually_ge_atTop R] with u hu
+  have := hR (u + t * I) (by simpa using hu)
+  rw [Real.dist_eq, sub_zero, abs_of_nonneg (norm_nonneg _)]
+  linarith
+
+/-- The derivative of `log G0`. -/
+lemma logDeriv_G0 {s : ℂ} (hs1 : s ≠ 1) (hs0 : s ≠ 0) (hz : riemannZeta s ≠ 0) :
+    deriv G0 s / G0 s = deriv riemannZeta s / riemannZeta s + 1 / (s - 1) - 1 / s := by
+  have hev : G0 =ᶠ[𝓝 s] fun s => (s - 1) * riemannZeta s / s := by
+    filter_upwards [eventually_ne_nhds hs1] with x hx
+    exact G0_of_ne hx
+  have hd : HasDerivAt (fun s => (s - 1) * riemannZeta s / s)
+      ((((1 : ℂ) * riemannZeta s + (s - 1) * deriv riemannZeta s) * s -
+        (s - 1) * riemannZeta s * 1) / s ^ 2) s := by
+    have h1 : HasDerivAt (fun s : ℂ => s - 1) 1 s := (hasDerivAt_id s).sub_const 1
+    have h2 := (differentiableAt_riemannZeta hs1).hasDerivAt
+    exact (h1.mul h2).div (hasDerivAt_id s) hs0
+  rw [hev.deriv_eq, hd.deriv, G0_of_ne hs1]
+  have hs1' : s - 1 ≠ 0 := sub_ne_zero.2 hs1
+  field_simp
+  ring
+
+lemma deriv_G0_one : deriv G0 1 = (Real.eulerMascheroniConstant : ℂ) - 1 := by
+  have hmem : {s : ℂ | 0 < s.re} ∈ 𝓝 (1 : ℂ) :=
+    (isOpen_lt continuous_const Complex.continuous_re).mem_nhds (by simp)
+  have hd : HasDerivAt G0 (deriv G0 1) 1 :=
+    (differentiableOn_G0.differentiableAt hmem).hasDerivAt
+  have h1 := hd.tendsto_slope
+  have h2 : Tendsto (slope G0 1) (𝓝[≠] 1) (𝓝 ((Real.eulerMascheroniConstant - 1) / 1)) := by
+    have hz := tendsto_riemannZeta_sub_one_div
+    have hid : Tendsto (fun s : ℂ => s) (𝓝[≠] 1) (𝓝 1) :=
+      tendsto_nhdsWithin_of_tendsto_nhds tendsto_id
+    have := (hz.sub_const 1).div hid one_ne_zero
+    refine this.congr' ?_
+    have h0 : ∀ᶠ s in 𝓝[≠] (1 : ℂ), s ≠ 0 :=
+      tendsto_nhdsWithin_of_tendsto_nhds tendsto_id |>.eventually (eventually_ne_nhds one_ne_zero)
+    filter_upwards [self_mem_nhdsWithin, h0] with s hs hs0
+    have hs1 : s - 1 ≠ 0 := sub_ne_zero.2 hs
+    rw [slope_def_field, G0_of_ne hs, G0_one]
+    simp only [Pi.div_apply]
+    field_simp
+    ring
+  rw [div_one] at h2
+  exact tendsto_nhds_unique h1 h2
+
+end ZetaLog
+
+end
+
+section
+open Complex MeasureTheory Filter Topology Set ComplexConjugate
+
+namespace ZetaLog
+
+/-- Properties of a holomorphic logarithm of `G0` on the half-plane `Re s > 1/2`. -/
+structure IsLogG0 (F : ℂ → ℂ) : Prop where
+  exp_eq : ∀ s ∈ U, exp (F s) = G0 s
+  hasDeriv : ∀ s ∈ U, HasDerivAt F (deriv G0 s / G0 s) s
+  conj_eq : ∀ s ∈ U, F (conj s) = conj (F s)
+  right : ∃ R : ℝ, 2 ≤ R ∧ ∀ s : ℂ, R ≤ s.re → F s = log (G0 s) ∧ ‖G0 s - 1‖ ≤ 1 / 2
+
+lemma mem_U {s : ℂ} : s ∈ U ↔ 1 / 2 < s.re := Iff.rfl
+
+lemma G0_conj (s : ℂ) : G0 (conj s) = conj (G0 s) := by
+  by_cases h : s = 1
+  · subst h; simp [G0_one]
+  have h' : conj s ≠ 1 := by
+    intro h2; apply h; simpa using congrArg conj h2
+  rw [G0_of_ne h, G0_of_ne h', riemannZeta_conj]
+  simp [map_div₀]
+
+lemma slitPlane_of_near_one {w : ℂ} (h : ‖w - 1‖ ≤ 1 / 2) : w ∈ slitPlane := by
+  rw [mem_slitPlane_iff]; left
+  have := Complex.abs_re_le_norm (w - 1)
+  rw [sub_re, one_re] at this
+  have := abs_le.1 (this.trans h)
+  linarith
+
+lemma arg_ne_pi_of_near_one {w : ℂ} (h : ‖w - 1‖ ≤ 1 / 2) : w.arg ≠ Real.pi := by
+  have hw := slitPlane_of_near_one h
+  exact (mem_slitPlane_iff_arg.1 hw).1
+
+theorem exists_logG0 (hRH : RiemannHypothesis) : ∃ F : ℂ → ℂ, IsLogG0 F := by
+  have hGd : DifferentiableOn ℂ G0 U := differentiableOn_G0.mono (fun s hs => U_sub hs)
+  have hGc : ContinuousOn G0 U := hGd.continuousOn
+  have h0 : (0 : ℂ) ∉ G0 '' U := by
+    rintro ⟨s, hs, h⟩; exact G0_ne_zero hRH hs h
+  obtain ⟨F1, hF1c, hF1e⟩ := Complex.exists_continuousOn_eqOn_exp_comp isSimplyConnected_U
+    isOpen_U hGc h0
+  obtain ⟨R, hR2, hR⟩ := G0_near_one (1 / 2) (by norm_num)
+  set a0 : ℂ := (R : ℂ) with ha0
+  have ha0U : a0 ∈ U := by show 1 / 2 < a0.re; simp [ha0]; linarith
+  have ha0R : R ≤ a0.re := by simp [ha0]
+  set F : ℂ → ℂ := fun s => F1 s - (F1 a0 - log (G0 a0)) with hF
+  have hGa0 : G0 a0 ≠ 0 := G0_ne_zero hRH ha0U
+  have hFc : ContinuousOn F U := hF1c.sub continuousOn_const
+  have hFe : ∀ s ∈ U, exp (F s) = G0 s := by
+    intro s hs
+    have h1 : exp (F1 s) = G0 s := hF1e hs
+    have h2 : exp (F1 a0) = G0 a0 := hF1e ha0U
+    simp only [hF]
+    rw [exp_sub, exp_sub, exp_log hGa0, h1, h2]
+    field_simp
+  have hFa0 : F a0 = log (G0 a0) := by simp [hF]
+  -- agreement with the principal logarithm far right
+  have hVc : IsPreconnected {s : ℂ | R ≤ s.re} :=
+    (convex_halfSpace_re_ge R).isPreconnected
+  have hVU : {s : ℂ | R ≤ s.re} ⊆ U := by
+    intro s hs; show 1 / 2 < s.re; have : R ≤ s.re := hs; linarith
+  have hlogc : ContinuousOn (fun s => log (G0 s)) {s : ℂ | R ≤ s.re} :=
+    (hGc.mono hVU).clog (fun s hs => slitPlane_of_near_one (hR s hs))
+  have hagree := log_unique hVc (hFc.mono hVU) hlogc
+    (fun s hs => by rw [hFe s (hVU hs), exp_log (G0_ne_zero hRH (hVU hs))]) ha0R hFa0
+  refine ⟨F, hFe, fun s hs => hasDerivAt_of_exp_eq isOpen_U hFc hGd hFe hs, ?_,
+    ⟨R, hR2, fun s hs => ⟨hagree s hs, hR s hs⟩⟩⟩
+  -- conjugation symmetry
+  have hconjU : ∀ s ∈ U, conj s ∈ U := by
+    intro s hs; show 1 / 2 < (conj s).re; rw [conj_re]; exact hs
+  set F2 : ℂ → ℂ := fun s => conj (F (conj s)) with hF2
+  have hF2c : ContinuousOn F2 U := by
+    have h1 : ContinuousOn (fun s => F (conj s)) U :=
+      hFc.comp Complex.continuous_conj.continuousOn hconjU
+    exact Complex.continuous_conj.comp_continuousOn h1
+  have hF2e : ∀ s ∈ U, exp (F2 s) = exp (F s) := by
+    intro s hs
+    simp only [hF2]
+    rw [exp_conj, hFe _ (hconjU s hs), hFe s hs, G0_conj, conj_conj]
+  have hF2a0 : F2 a0 = F a0 := by
+    simp only [hF2]
+    have hc : conj a0 = a0 := by simp [ha0]
+    rw [hc, hFa0]
+    have hreal : conj (G0 a0) = G0 a0 := by rw [← G0_conj, hc]
+    rw [← log_conj _ (arg_ne_pi_of_near_one (hR a0 ha0R)), hreal]
+  have := log_unique isPreconnected_U hF2c hFc hF2e ha0U hF2a0
+  intro s hs
+  have h1 := this (conj s) (hconjU s hs)
+  simp only [hF2, conj_conj] at h1
+  rw [← h1]
+
+/-- Continuity of `ζ'/ζ` away from `1` and from zeros. -/
+lemma continuousAt_logDeriv_zeta {s : ℂ} (hs1 : s ≠ 1) (hz : riemannZeta s ≠ 0) :
+    ContinuousAt (fun s => deriv riemannZeta s / riemannZeta s) s := by
+  have hopen : IsOpen ({1}ᶜ : Set ℂ) := isOpen_compl_singleton
+  have hd : DifferentiableOn ℂ riemannZeta {1}ᶜ := fun x hx =>
+    (differentiableAt_riemannZeta hx).differentiableWithinAt
+  have hdd : DifferentiableOn ℂ (deriv riemannZeta) {1}ᶜ := hd.deriv hopen
+  have h1 : ContinuousAt (deriv riemannZeta) s :=
+    (hdd.differentiableAt (hopen.mem_nhds hs1)).continuousAt
+  exact h1.div (differentiableAt_riemannZeta hs1).continuousAt hz
+
+lemma zeta_ne_zero_of_U (hRH : RiemannHypothesis) {s : ℂ} (hs : 1 / 2 < s.re) (hs1 : s ≠ 1) :
+    riemannZeta s ≠ 0 := by
+  intro hz
+  have h := G0_ne_zero hRH hs
+  rw [G0_of_ne hs1, hz] at h
+  simp at h
+
+lemma deriv_F_eq (hRH : RiemannHypothesis) {F : ℂ → ℂ} (hF : IsLogG0 F) {s : ℂ} (hs : s ∈ U)
+    (hs1 : s ≠ 1) :
+    deriv F s = deriv riemannZeta s / riemannZeta s + 1 / (s - 1) - 1 / s := by
+  rw [(hF.hasDeriv s hs).deriv]
+  have hs0 : s ≠ 0 := by intro h; have := U_sub hs; rw [h] at this; simp at this
+  exact logDeriv_G0 hs1 hs0 (zeta_ne_zero_of_U hRH hs hs1)
+
+lemma tendsto_F_line {F : ℂ → ℂ} (hF : IsLogG0 F) (t : ℝ) :
+    Tendsto (fun u : ℝ => F (u + t * I)) atTop (𝓝 0) := by
+  obtain ⟨R, -, hR⟩ := hF.right
+  have h1 : Tendsto (fun u : ℝ => log (G0 (u + t * I))) atTop (𝓝 (log 1)) :=
+    ((continuousAt_clog one_mem_slitPlane).tendsto).comp (tendsto_G0_line t)
+  rw [log_one] at h1
+  refine h1.congr' ?_
+  filter_upwards [eventually_ge_atTop R] with u hu
+  exact ((hR (u + t * I) (by simpa using hu)).1).symm
+
+/-- Sublinear growth of the logarithm on closed half-planes `Re s ≥ b > 1/2`, under RH. -/
+theorem F_growth (hRH : RiemannHypothesis) {F : ℂ → ℂ} (hF : IsLogG0 F) {b : ℝ}
+    (hb : 1 / 2 < b) :
+    ∃ C : ℝ, ∀ s : ℂ, b ≤ s.re → ‖F s‖ ≤ C * (1 + ‖s‖) ^ (1 / 2 : ℝ) := by
+  obtain ⟨R, hR2, hR⟩ := hF.right
+  obtain ⟨CT, hCT⟩ := Titchmarsh.logDeriv_riemannZeta_le_log_of_riemannHypothesis hRH (b - 1 / 2)
+    (by linarith)
+  obtain ⟨K2, hK20, hK2⟩ := logDeriv_zeta_le
+  -- compact part
+  have hKc : IsCompact {s : ℂ | b ≤ s.re ∧ s.re ≤ R ∧ |s.im| ≤ 2} := by
+    have : {s : ℂ | b ≤ s.re ∧ s.re ≤ R ∧ |s.im| ≤ 2} = Set.Icc b R ×ℂ Set.Icc (-2) 2 := by
+      ext s; simp [mem_reProdIm, abs_le]; tauto
+    rw [this]; exact isCompact_Icc.reProdIm isCompact_Icc
+  have hFcU : ContinuousOn F U := fun s hs => (hF.hasDeriv s hs).continuousAt.continuousWithinAt
+  obtain ⟨M1, hM1⟩ := hKc.exists_bound_of_continuousOn (hFcU.mono (fun s hs => by
+    show 1 / 2 < s.re; linarith [hs.1]))
+  refine ⟨3 / 4 + R * (K2 + 2) + 2 * R * |CT| + |M1|, fun s hs => ?_⟩
+  have hS1 : 1 ≤ (1 + ‖s‖) ^ (1 / 2 : ℝ) := Real.one_le_rpow (by linarith [norm_nonneg s])
+    (by norm_num)
+  have hpos : 0 ≤ 3 / 4 + R * (K2 + 2) + 2 * R * |CT| := by
+    have : 0 ≤ R := by linarith
+    positivity
+  -- far right
+  by_cases hsR : R ≤ s.re
+  · obtain ⟨h1, h2⟩ := hR s hsR
+    have : ‖F s‖ ≤ 3 / 4 := by
+      rw [h1]
+      have := norm_log_one_add_half_le_self (z := G0 s - 1) h2
+      rw [add_sub_cancel] at this
+      linarith
+    calc ‖F s‖ ≤ 3 / 4 := this
+      _ ≤ (3 / 4 + R * (K2 + 2) + 2 * R * |CT| + |M1|) * 1 := by
+          have : 0 ≤ R * (K2 + 2) + 2 * R * |CT| + |M1| := by
+            have : 0 ≤ R := by linarith
+            positivity
+          linarith
+      _ ≤ _ := by gcongr
+  push Not at hsR
+  by_cases ht : |s.im| ≤ 2
+  · have := hM1 s ⟨hs, hsR.le, ht⟩
+    calc ‖F s‖ ≤ |M1| := this.trans (le_abs_self _)
+      _ ≤ (3 / 4 + R * (K2 + 2) + 2 * R * |CT| + |M1|) * 1 := by linarith
+      _ ≤ _ := by gcongr
+  push Not at ht
+  -- horizontal mean value estimate
+  set t := s.im
+  set σ := s.re
+  have hsσ : s = (σ : ℂ) + t * I := (Complex.re_add_im s).symm
+  set f : ℝ → ℂ := fun u => F (u + t * I) with hf
+  have hlogt : Real.log |t| ≤ 2 * (1 + ‖s‖) ^ (1 / 2 : ℝ) := by
+    have h1 := Real.log_le_rpow_div (abs_nonneg t) (by norm_num : (0 : ℝ) < 1 / 2)
+    have h2 : |t| ^ (1 / 2 : ℝ) ≤ (1 + ‖s‖) ^ (1 / 2 : ℝ) := by
+      apply Real.rpow_le_rpow (abs_nonneg t) _ (by norm_num)
+      have := Complex.abs_im_le_norm s; linarith
+    linarith
+  have hlog0 : 0 ≤ Real.log |t| := Real.log_nonneg (by linarith)
+  set B := |CT| * Real.log |t| + K2 + 2 with hB
+  have hderiv : ∀ u ∈ Icc σ R, HasDerivWithinAt f (deriv F (u + t * I)) (Icc σ R) u := by
+    intro u hu
+    have hmem : (u : ℂ) + t * I ∈ U := by
+      show 1 / 2 < ((u : ℂ) + t * I).re; simp; linarith [hu.1]
+    have h1 := (hF.hasDeriv _ hmem)
+    rw [← h1.deriv] at h1
+    have h2 : HasDerivAt (fun w : ℂ => F (w + t * I)) (deriv F (u + t * I)) (u : ℂ) := by
+      have := h1.comp_add_const (u : ℂ) (t * I)
+      simpa using this
+    exact (h2.comp_ofReal).hasDerivWithinAt
+  have hbound : ∀ u ∈ Ico σ R, ‖deriv F (u + t * I)‖ ≤ B := by
+    intro u hu
+    have hmem : (u : ℂ) + t * I ∈ U := by
+      show 1 / 2 < ((u : ℂ) + t * I).re; simp; linarith [hu.1]
+    have hne1 : (u : ℂ) + t * I ≠ 1 := by
+      intro h; have := congrArg Complex.im h; simp at this; rw [this] at ht; norm_num at ht
+    rw [deriv_F_eq hRH hF hmem hne1]
+    have hn1 : 1 ≤ ‖(u : ℂ) + t * I - 1‖ := by
+      have := Complex.abs_im_le_norm ((u : ℂ) + t * I - 1)
+      simp at this; linarith
+    have hn0 : 1 ≤ ‖(u : ℂ) + t * I‖ := by
+      have := Complex.abs_im_le_norm ((u : ℂ) + t * I)
+      simp at this; linarith
+    have hz : ‖deriv riemannZeta ((u : ℂ) + t * I) / riemannZeta ((u : ℂ) + t * I)‖ ≤
+        |CT| * Real.log |t| + K2 := by
+      by_cases hu2 : u ≤ 2
+      · have := hCT ((u : ℂ) + t * I) (by simp; linarith [hu.1]) (by simpa using hu2)
+          (by simpa using ht.le)
+        simp only [add_im, ofReal_im, mul_im, ofReal_re, I_im, mul_one, I_re, mul_zero,
+          add_zero, zero_add] at this
+        calc _ ≤ CT * Real.log |t| := this
+          _ ≤ |CT| * Real.log |t| := by gcongr; exact le_abs_self _
+          _ ≤ _ := by linarith
+      · push Not at hu2
+        have := hK2 ((u : ℂ) + t * I) (by simp; linarith)
+        have h2 : (2 : ℝ) ^ (2 - ((u : ℂ) + t * I).re) ≤ 1 := by
+          apply Real.rpow_le_one_of_one_le_of_nonpos (by norm_num); simp; linarith
+        have : ‖deriv riemannZeta ((u : ℂ) + t * I) / riemannZeta ((u : ℂ) + t * I)‖ ≤ K2 :=
+          this.trans (by nlinarith)
+        have : 0 ≤ |CT| * Real.log |t| := by positivity
+        linarith
+    calc _ ≤ ‖deriv riemannZeta ((u : ℂ) + t * I) / riemannZeta ((u : ℂ) + t * I) +
+          1 / ((u : ℂ) + t * I - 1)‖ + ‖1 / ((u : ℂ) + t * I)‖ := norm_sub_le _ _
+      _ ≤ ‖deriv riemannZeta ((u : ℂ) + t * I) / riemannZeta ((u : ℂ) + t * I)‖ +
+          ‖1 / ((u : ℂ) + t * I - 1)‖ + ‖1 / ((u : ℂ) + t * I)‖ := by gcongr; exact norm_add_le _ _
+      _ ≤ (|CT| * Real.log |t| + K2) + 1 + 1 := by
+          gcongr
+          · rw [norm_div, norm_one]; exact div_le_one_of_le₀ hn1 (by positivity)
+          · rw [norm_div, norm_one]; exact div_le_one_of_le₀ hn0 (by positivity)
+      _ = B := by ring
+  have hmv := norm_image_sub_le_of_norm_deriv_le_segment' hderiv hbound R ⟨hsR.le, le_rfl⟩
+  have hfR : ‖f R‖ ≤ 3 / 4 := by
+    obtain ⟨h1, h2⟩ := hR ((R : ℂ) + t * I) (by simp)
+    simp only [hf]; rw [h1]
+    have := norm_log_one_add_half_le_self (z := G0 ((R : ℂ) + t * I) - 1) h2
+    rw [add_sub_cancel] at this; linarith
+  have hfs : f σ = F s := by simp only [hf]; rw [← hsσ]
+  have hσ0 : 0 < σ := by linarith
+  have hB0 : 0 ≤ B := by positivity
+  calc ‖F s‖ = ‖f σ‖ := by rw [hfs]
+    _ ≤ ‖f R‖ + ‖f R - f σ‖ := by
+        have := norm_sub_le (f R) (f R - f σ); simp at this; linarith [norm_sub_rev (f R) (f σ)]
+    _ ≤ 3 / 4 + B * (R - σ) := by
+        gcongr
+    _ ≤ 3 / 4 + B * R := by gcongr; linarith
+    _ = 3 / 4 + R * (K2 + 2) + R * |CT| * Real.log |t| := by rw [hB]; ring
+    _ ≤ 3 / 4 + R * (K2 + 2) + R * |CT| * (2 * (1 + ‖s‖) ^ (1 / 2 : ℝ)) := by
+        have : 0 ≤ R * |CT| := mul_nonneg (by linarith) (abs_nonneg _)
+        gcongr
+    _ ≤ (3 / 4 + R * (K2 + 2)) * (1 + ‖s‖) ^ (1 / 2 : ℝ) +
+          2 * R * |CT| * (1 + ‖s‖) ^ (1 / 2 : ℝ) := by
+        have : 0 ≤ 3 / 4 + R * (K2 + 2) := by
+          have : 0 ≤ R := by linarith
+          positivity
+        nlinarith
+    _ ≤ _ := by
+        have : 0 ≤ |M1| * (1 + ‖s‖) ^ (1 / 2 : ℝ) := by positivity
+        nlinarith
+
+end ZetaLog
+
+end
+
+section
+open Complex MeasureTheory Filter Topology Set ComplexConjugate
+
+namespace ZetaLog
+
+lemma hasDerivAt_line {e : ℂ → ℂ} {e' : ℂ} {u t : ℝ} (h : HasDerivAt e e' ((u : ℂ) + t * I)) :
+    HasDerivAt (fun v : ℝ => e ((v : ℂ) + t * I)) e' u := by
+  have h2 : HasDerivAt (fun w : ℂ => e (w + t * I)) e' (u : ℂ) := by
+    simpa using h.comp_add_const (u : ℂ) (t * I)
+  exact h2.comp_ofReal
+
+lemma line_mem_slitPlane {v t : ℝ} (ht : t ≠ 0) : (v : ℂ) + t * I ∈ slitPlane := by
+  rw [mem_slitPlane_iff]; right; simpa using ht
+
+lemma line_sub_one_mem_slitPlane {v t : ℝ} (ht : t ≠ 0) : (v : ℂ) + t * I - 1 ∈ slitPlane := by
+  rw [mem_slitPlane_iff]; right; simpa using ht
+
+/-- `‖log (v + it) - log (v - 1 + it)‖ ≤ 1/|t|`. -/
+lemma norm_log_diff_le {v t : ℝ} (ht : t ≠ 0) :
+    ‖log ((v : ℂ) + t * I) - log ((v : ℂ) + t * I - 1)‖ ≤ 1 / |t| := by
+  set k : ℝ → ℂ := fun w => log ((w : ℂ) + t * I) with hk
+  have hd : ∀ w ∈ Icc (v - 1) v, HasDerivWithinAt k (((w : ℂ) + t * I)⁻¹) (Icc (v - 1) v) w := by
+    intro w _
+    exact (hasDerivAt_line (hasDerivAt_log (line_mem_slitPlane ht))).hasDerivWithinAt
+  have hb : ∀ w ∈ Ico (v - 1) v, ‖((w : ℂ) + t * I)⁻¹‖ ≤ 1 / |t| := by
+    intro w _
+    rw [norm_inv, one_div]
+    have h1 : |t| ≤ ‖(w : ℂ) + t * I‖ := by
+      have := Complex.abs_im_le_norm ((w : ℂ) + t * I); simpa using this
+    exact inv_anti₀ (abs_pos.2 ht) h1
+  have := norm_image_sub_le_of_norm_deriv_le_segment' hd hb v ⟨by linarith, le_rfl⟩
+  have e1 : k (v - 1) = log ((v : ℂ) + t * I - 1) := by
+    simp only [hk]; congr 1; push_cast; ring
+  rw [e1] at this
+  simpa using this
+
+lemma tendsto_log_diff (t : ℝ) (ht : t ≠ 0) :
+    Tendsto (fun u : ℝ => log ((u : ℂ) + t * I) - log ((u : ℂ) + t * I - 1)) atTop (𝓝 0) := by
+  -- mean value in the horizontal direction: bounded by `1/(u-1)`
+  rw [tendsto_zero_iff_norm_tendsto_zero]
+  have hlim : Tendsto (fun u : ℝ => 1 / (u - 1)) atTop (𝓝 0) := by
+    have h1 : Tendsto (fun u : ℝ => u + -1) atTop atTop :=
+      tendsto_atTop_add_const_right atTop (-1 : ℝ) tendsto_id
+    have := (tendsto_inv_atTop_zero (𝕜 := ℝ)).comp h1
+    refine this.congr (fun u => ?_); simp [sub_eq_add_neg]
+  refine squeeze_zero' (Eventually.of_forall (fun _ => norm_nonneg _)) ?_ hlim
+  filter_upwards [eventually_gt_atTop 2] with u hu
+  set k : ℝ → ℂ := fun w => log ((w : ℂ) + t * I) with hk
+  have hd : ∀ w ∈ Icc (u - 1) u, HasDerivWithinAt k (((w : ℂ) + t * I)⁻¹) (Icc (u - 1) u) w := by
+    intro w _
+    exact (hasDerivAt_line (hasDerivAt_log (line_mem_slitPlane ht))).hasDerivWithinAt
+  have hb : ∀ w ∈ Ico (u - 1) u, ‖((w : ℂ) + t * I)⁻¹‖ ≤ 1 / (u - 1) := by
+    intro w hw
+    rw [norm_inv, one_div]
+    have h1 : u - 1 ≤ ‖(w : ℂ) + t * I‖ := by
+      have := Complex.abs_re_le_norm ((w : ℂ) + t * I); simp at this
+      have := le_abs_self w; linarith [hw.1]
+    exact inv_anti₀ (by linarith) h1
+  have := norm_image_sub_le_of_norm_deriv_le_segment' hd hb u ⟨by linarith, le_rfl⟩
+  have e1 : k (u - 1) = log ((u : ℂ) + t * I - 1) := by
+    simp only [hk]; congr 1; push_cast; ring
+  rw [e1] at this
+  simpa using this
+
+/-- Integrability of `ζ'/ζ` along horizontal rays, under RH. -/
+lemma integrableOn_logDeriv_ray (hRH : RiemannHypothesis) {b t : ℝ} (hb : 1 / 2 < b)
+    (ht : t ≠ 0) :
+    IntegrableOn (fun u : ℝ => deriv riemannZeta ((u : ℂ) + t * I) / riemannZeta ((u : ℂ) + t * I))
+      (Ioi b) := by
+  set φ := fun u : ℝ => deriv riemannZeta ((u : ℂ) + t * I) / riemannZeta ((u : ℂ) + t * I)
+  have hcont : ContinuousOn φ (Ici b) := by
+    intro u hu
+    have hu' : b ≤ u := hu
+    have hs1 : (u : ℂ) + t * I ≠ 1 := by
+      intro h; have := congrArg Complex.im h; simp at this; exact ht this
+    have hz := zeta_ne_zero_of_U hRH (s := (u : ℂ) + t * I) (by simp; linarith) hs1
+    have := (continuousAt_logDeriv_zeta hs1 hz).comp
+      (f := fun v : ℝ => (v : ℂ) + t * I) (by fun_prop)
+    exact this.continuousWithinAt
+  obtain ⟨K2, hK20, hK2⟩ := logDeriv_zeta_le
+  set c := max b 2
+  have h1 : IntegrableOn φ (Icc b c) :=
+    (hcont.mono Icc_subset_Ici_self).integrableOn_Icc
+  have h2 : IntegrableOn φ (Ioi c) := by
+    have hg : IntegrableOn (fun u : ℝ => 4 * K2 * Real.exp (-(Real.log 2) * u)) (Ioi c) :=
+      (exp_neg_integrableOn_Ioi c (Real.log_pos (by norm_num))).const_mul _
+    refine hg.mono' ((hcont.mono (fun u hu => le_of_lt (lt_of_le_of_lt (le_max_left b 2)
+      hu))).aestronglyMeasurable measurableSet_Ioi) ?_
+    rw [ae_restrict_iff' measurableSet_Ioi]
+    refine Eventually.of_forall (fun u hu => ?_)
+    have hu2 : 2 ≤ u := le_trans (le_max_right b 2) (le_of_lt hu)
+    have := hK2 ((u : ℂ) + t * I) (by simpa using hu2)
+    simp only [add_re, ofReal_re, mul_re, ofReal_im, I_re, I_im, mul_zero, mul_one,
+      sub_zero, add_zero] at this
+    calc ‖φ u‖ ≤ (2 : ℝ) ^ (2 - u) * K2 := this
+      _ = 4 * K2 * Real.exp (-(Real.log 2) * u) := by
+        rw [Real.rpow_def_of_pos (by norm_num), show Real.log 2 * (2 - u) =
+          2 * Real.log 2 + (-(Real.log 2) * u) by ring, Real.exp_add,
+          show 2 * Real.log 2 = Real.log 4 by
+            rw [show (4 : ℝ) = 2 ^ 2 by norm_num, Real.log_pow]; norm_num,
+          Real.exp_log (by norm_num)]
+        ring
+  have := h1.union h2
+  refine this.mono_set (fun u hu => ?_)
+  by_cases huc : u ≤ c
+  · left; exact ⟨le_of_lt hu, huc⟩
+  · right; exact lt_of_not_ge huc
+
+/-- The horizontal-branch logarithm `h(b,t)` in terms of `F`, for `b > 1/2`, `t ≠ 0`. -/
+theorem h_eq (hRH : RiemannHypothesis) {F : ℂ → ℂ} (hF : IsLogG0 F) {b t : ℝ} (hb : 1 / 2 < b)
+    (ht : t ≠ 0) :
+    -(∫ u in Ioi b, deriv riemannZeta ((u : ℂ) + t * I) / riemannZeta ((u : ℂ) + t * I)) =
+      F ((b : ℂ) + t * I) + log ((b : ℂ) + t * I) - log ((b : ℂ) + t * I - 1) := by
+  set g : ℝ → ℂ := fun u => F ((u : ℂ) + t * I) + log ((u : ℂ) + t * I) -
+    log ((u : ℂ) + t * I - 1) with hg
+  have hderiv : ∀ u : ℝ, b ≤ u → HasDerivAt g
+      (deriv riemannZeta ((u : ℂ) + t * I) / riemannZeta ((u : ℂ) + t * I)) u := by
+    intro u hu
+    have hmem : (u : ℂ) + t * I ∈ U := by show 1 / 2 < ((u : ℂ) + t * I).re; simp; linarith
+    have hs1 : (u : ℂ) + t * I ≠ 1 := by
+      intro h; have := congrArg Complex.im h; simp at this; exact ht this
+    have h1 := hasDerivAt_line (hF.hasDeriv _ hmem)
+    have h2 := hasDerivAt_line (hasDerivAt_log (line_mem_slitPlane (v := u) ht))
+    have h3 : HasDerivAt (fun w : ℂ => log (w - 1)) (((u : ℂ) + t * I - 1)⁻¹) ((u : ℂ) + t * I) :=
+      (hasDerivAt_log (line_sub_one_mem_slitPlane (v := u) ht)).comp_sub_const _ _
+    have h3' := hasDerivAt_line h3
+    refine ((h1.add h2).sub h3').congr_deriv ?_
+    rw [← (hF.hasDeriv _ hmem).deriv, deriv_F_eq hRH hF hmem hs1]
+    have hs0 : (u : ℂ) + t * I ≠ 0 := by
+      intro h; have := congrArg Complex.im h; simp at this; exact ht this
+    have hs1' : (u : ℂ) + t * I - 1 ≠ 0 := sub_ne_zero.2 hs1
+    field_simp
+    ring
+  have hcont : ContinuousWithinAt g (Ici b) b := (hderiv b le_rfl).continuousAt.continuousWithinAt
+  have htend : Tendsto g atTop (𝓝 0) := by
+    have := (tendsto_F_line hF t).add (tendsto_log_diff t ht)
+    rw [add_zero] at this
+    refine this.congr (fun u => ?_)
+    simp only [hg]; ring
+  have := integral_Ioi_of_hasDerivAt_of_tendsto hcont (fun u hu => hderiv u (le_of_lt hu))
+    (integrableOn_logDeriv_ray hRH hb ht) htend
+  rw [this]
+  simp only [hg]; ring
+
+end ZetaLog
+
+end
+
+section
+open Complex MeasureTheory Filter Topology Set ComplexConjugate
+
+namespace ZetaLog
+
+lemma ae_ne_zero : ∀ᵐ t : ℝ ∂volume, t ≠ 0 := by
+  have := (Set.countable_singleton (0 : ℝ)).ae_notMem volume
+  simpa using this
+
+lemma line_ne_zero {b t : ℝ} (hb : 0 < b) : (b : ℂ) + t * I ≠ 0 := by
+  intro h; have := congrArg Complex.re h; simp at this; linarith
+
+lemma norm_line_ge {b t : ℝ} : |t| ≤ ‖(b : ℂ) + t * I‖ := by
+  have := Complex.abs_im_le_norm ((b : ℂ) + t * I); simpa using this
+
+lemma norm_line_ge_re {b t : ℝ} : |b| ≤ ‖(b : ℂ) + t * I‖ := by
+  have := Complex.abs_re_le_norm ((b : ℂ) + t * I); simpa using this
+
+lemma normSq_line {b t : ℝ} : ‖(b : ℂ) + t * I‖ ^ 2 = b ^ 2 + t ^ 2 := by
+  rw [Complex.sq_norm, Complex.normSq_apply]; simp; ring
+
+/-- `‖log z‖ ≤ |log ‖z‖| + π`. -/
+lemma norm_log_le (z : ℂ) : ‖log z‖ ≤ |Real.log ‖z‖| + Real.pi := by
+  have h := Complex.norm_le_abs_re_add_abs_im (log z)
+  rw [log_re, log_im] at h
+  have := abs_arg_le_pi z
+  linarith
+
+/-- A bound for `L(t) = log(b+it) - log(b-1+it)` on the whole line. -/
+lemma norm_L_le {b : ℝ} (hb : 0 < b) (hb1 : b < 1) : ∃ K : ℝ, 0 ≤ K ∧ ∀ t : ℝ, t ≠ 0 →
+    ‖log ((b : ℂ) + t * I) - log ((b : ℂ) + t * I - 1)‖ ≤ K := by
+  set K0 := |Real.log b| + |Real.log (b + 1)| + |Real.log (1 - b)| + |Real.log 2| + 2 * Real.pi
+  refine ⟨K0 + 1, by positivity, fun t ht => ?_⟩
+  by_cases h1 : |t| ≤ 1
+  · -- bounded region
+    have hs1 : b ≤ ‖(b : ℂ) + t * I‖ := by
+      have := norm_line_ge_re (b := b) (t := t)
+      rwa [abs_of_pos hb] at this
+    have hs2 : ‖(b : ℂ) + t * I‖ ≤ b + 1 := by
+      calc ‖(b : ℂ) + t * I‖ ≤ ‖(b : ℂ)‖ + ‖(t : ℂ) * I‖ := norm_add_le _ _
+        _ = |b| + |t| := by simp
+        _ ≤ b + 1 := by rw [abs_of_pos hb]; linarith
+    have hw : (b : ℂ) + t * I - 1 = ((b - 1 : ℝ) : ℂ) + t * I := by push_cast; ring
+    have hs3 : 1 - b ≤ ‖(b : ℂ) + t * I - 1‖ := by
+      rw [hw]; have := norm_line_ge_re (b := b - 1) (t := t)
+      rw [abs_of_neg (by linarith)] at this; linarith
+    have hs4 : ‖(b : ℂ) + t * I - 1‖ ≤ 2 := by
+      rw [hw]
+      calc ‖((b - 1 : ℝ) : ℂ) + t * I‖ ≤ ‖((b - 1 : ℝ) : ℂ)‖ + ‖(t : ℂ) * I‖ := norm_add_le _ _
+        _ = |b - 1| + |t| := by
+          rw [Complex.norm_real, Real.norm_eq_abs, norm_mul, Complex.norm_I, mul_one,
+            Complex.norm_real, Real.norm_eq_abs]
+        _ ≤ 2 := by rw [abs_of_neg (by linarith)]; linarith
+    have hl1 : |Real.log ‖(b : ℂ) + t * I‖| ≤ |Real.log b| + |Real.log (b + 1)| := by
+      have a1 := Real.log_le_log hb hs1
+      have a2 := Real.log_le_log (by linarith) hs2
+      rw [abs_le]; constructor <;> cases abs_cases (Real.log b) <;>
+        cases abs_cases (Real.log (b + 1)) <;> linarith
+    have hl2 : |Real.log ‖(b : ℂ) + t * I - 1‖| ≤ |Real.log (1 - b)| + |Real.log 2| := by
+      have a1 := Real.log_le_log (by linarith) hs3
+      have a2 := Real.log_le_log (by linarith) hs4
+      rw [abs_le]; constructor <;> cases abs_cases (Real.log (1 - b)) <;>
+        cases abs_cases (Real.log 2) <;> linarith
+    have hn : ‖log ((b : ℂ) + t * I) - log ((b : ℂ) + t * I - 1)‖ ≤ K0 := by
+      calc _ ≤ ‖log ((b : ℂ) + t * I)‖ + ‖log ((b : ℂ) + t * I - 1)‖ := norm_sub_le _ _
+        _ ≤ (|Real.log ‖(b : ℂ) + t * I‖| + Real.pi) +
+            (|Real.log ‖(b : ℂ) + t * I - 1‖| + Real.pi) := add_le_add (norm_log_le _) (norm_log_le _)
+        _ ≤ K0 := by simp only [K0]; linarith
+    linarith
+  · push Not at h1
+    have := norm_log_diff_le (v := b) ht
+    have hK0 : 0 ≤ K0 := by positivity
+    calc _ ≤ 1 / |t| := this
+      _ ≤ 1 := by rw [div_le_one (by positivity)]; linarith
+      _ ≤ K0 + 1 := by linarith
+
+lemma hasDerivAt_E {w : ℂ} (hw0 : w ≠ 0) (hsl : w ∈ slitPlane) (hsl1 : w - 1 ∈ slitPlane) :
+    HasDerivAt (fun z : ℂ => (log z - log (z - 1)) * (1 - 1 / z) - 1 / z)
+      ((log w - log (w - 1)) / w ^ 2) w := by
+  have h1 : HasDerivAt (fun z => log z) w⁻¹ w := hasDerivAt_log hsl
+  have h2 : HasDerivAt (fun z : ℂ => log (z - 1)) ((w - 1)⁻¹) w :=
+    (hasDerivAt_log hsl1).comp_sub_const _ _
+  have h3 : HasDerivAt (fun z : ℂ => 1 / z) (-(w ^ 2)⁻¹) w := by
+    simpa [one_div] using hasDerivAt_inv hw0
+  have h4 : HasDerivAt (fun z : ℂ => 1 - 1 / z) (-(-(w ^ 2)⁻¹)) w := h3.const_sub 1
+  have := ((h1.sub h2).mul h4).sub h3
+  refine this.congr_deriv ?_
+  have hw1 : w - 1 ≠ 0 := slitPlane_ne_zero hsl1
+  simp only [Pi.sub_apply]
+  field_simp
+  ring
+
+/-- The explicit integral `∫ (log(b+it) - log(b-1+it)) / (b+it)^2 dt = 2π (1 - 1/b)`. -/
+theorem explicit_open {b : ℝ} (hb : 0 < b) (hb1 : b < 1) :
+    Integrable (fun t : ℝ => (log ((b : ℂ) + t * I) - log ((b : ℂ) + t * I - 1)) /
+      ((b : ℂ) + t * I) ^ 2) ∧
+    ∫ t : ℝ, (log ((b : ℂ) + t * I) - log ((b : ℂ) + t * I - 1)) / ((b : ℂ) + t * I) ^ 2 =
+      2 * Real.pi * (1 - 1 / (b : ℂ)) := by
+  set f : ℝ → ℂ := fun t => (log ((b : ℂ) + t * I) - log ((b : ℂ) + t * I - 1)) /
+      ((b : ℂ) + t * I) ^ 2 with hf
+  obtain ⟨K, hK0, hK⟩ := norm_L_le hb hb1
+  have hmeas : AEStronglyMeasurable f volume := by
+    refine Measurable.aestronglyMeasurable ?_
+    simp only [hf]
+    fun_prop
+  have hsq : ∀ t : ℝ, 1 ≤ ‖((b : ℂ) + t * I) ^ 2‖ * (1 / b ^ 2) ∨ True := fun _ => Or.inr trivial
+  have hint : Integrable f := by
+    refine ((Contour.integrable_inv_sq_add hb).const_mul K).mono' hmeas ?_
+    filter_upwards [ae_ne_zero] with t ht
+    simp only [hf]
+    rw [norm_div, norm_pow, normSq_line]
+    have h1 := hK t ht
+    have hp : 0 < b ^ 2 + t ^ 2 := by positivity
+    rw [div_le_iff₀ hp]
+    calc _ ≤ K := h1
+      _ = K * (1 / (b ^ 2 + t ^ 2)) * (b ^ 2 + t ^ 2) := by field_simp
+  refine ⟨hint, ?_⟩
+  -- antiderivative on the positive half-line
+  set A : ℝ → ℂ := fun t => (log ((b : ℂ) + t * I) - log ((b : ℂ) + t * I - 1)) *
+      (1 - 1 / ((b : ℂ) + t * I)) - 1 / ((b : ℂ) + t * I) with hA
+  have hAd : ∀ t ∈ Ioi (0 : ℝ), HasDerivAt A (I * f t) t := by
+    intro t ht
+    have ht0 : t ≠ 0 := ne_of_gt ht
+    set w := (b : ℂ) + t * I
+    have hw0 : w ≠ 0 := line_ne_zero hb
+    have hw1 : w - 1 ≠ 0 := by
+      intro h; have := congrArg Complex.im h; simp [w] at this; exact ht0 this
+    have hsl := line_mem_slitPlane (v := b) ht0
+    have hsl1 := line_sub_one_mem_slitPlane (v := b) ht0
+    have hE := hasDerivAt_E hw0 hsl hsl1
+    have hl : HasDerivAt (fun t : ℝ => (b : ℂ) + t * I) I t := by
+      have := ((hasDerivAt_id t).ofReal_comp).mul_const I
+      simpa using this.const_add (b : ℂ)
+    have := hE.comp t hl
+    refine this.congr_deriv ?_
+    simp only [hf, w]; ring
+  have hAc : ContinuousWithinAt A (Ici 0) 0 := by
+    have hb0 : ((b : ℂ) + ((0 : ℝ) : ℂ) * I) ∈ slitPlane := by
+      rw [mem_slitPlane_iff]; left; simpa using hb
+    have hc1 : ContinuousAt (fun t : ℝ => log ((b : ℂ) + t * I)) 0 :=
+      (continuousAt_clog hb0).comp (f := fun t : ℝ => (b : ℂ) + t * I) (by fun_prop)
+    have hc2 : ContinuousWithinAt (fun t : ℝ => log ((b : ℂ) + t * I - 1)) (Ici 0) 0 := by
+      have hz : ((b : ℂ) + ((0 : ℝ) : ℂ) * I - 1).re < 0 := by simp; linarith
+      have hz' : ((b : ℂ) + ((0 : ℝ) : ℂ) * I - 1).im = 0 := by simp
+      have := continuousWithinAt_log_of_re_neg_of_im_zero hz hz'
+      refine this.comp (f := fun t : ℝ => (b : ℂ) + t * I - 1) (by fun_prop) ?_
+      intro t ht; simp only [Set.mem_ofPred_eq]; simpa using ht
+    have hc3 : ContinuousAt (fun t : ℝ => 1 / ((b : ℂ) + t * I)) 0 := by
+      refine ContinuousAt.div continuousAt_const (by fun_prop) ?_
+      exact line_ne_zero hb
+    exact ((hc1.continuousWithinAt.sub hc2).mul (continuousWithinAt_const.sub
+      hc3.continuousWithinAt)).sub hc3.continuousWithinAt
+  have hAt : Tendsto A atTop (𝓝 0) := by
+    have hL : Tendsto (fun t : ℝ => log ((b : ℂ) + t * I) - log ((b : ℂ) + t * I - 1)) atTop
+        (𝓝 0) := by
+      rw [tendsto_zero_iff_norm_tendsto_zero]
+      refine squeeze_zero' (Eventually.of_forall (fun _ => norm_nonneg _)) ?_
+        (tendsto_inv_atTop_zero.comp tendsto_abs_atTop_atTop)
+      filter_upwards [eventually_gt_atTop 0] with t ht
+      have := norm_log_diff_le (v := b) (ne_of_gt ht)
+      simpa [one_div] using this
+    have hinv : Tendsto (fun t : ℝ => 1 / ((b : ℂ) + t * I)) atTop (𝓝 0) := by
+      rw [tendsto_zero_iff_norm_tendsto_zero]
+      refine squeeze_zero' (Eventually.of_forall (fun _ => norm_nonneg _)) ?_
+        (tendsto_inv_atTop_zero.comp tendsto_abs_atTop_atTop)
+      filter_upwards [eventually_gt_atTop 0] with t ht
+      rw [norm_div, norm_one, one_div]
+      exact inv_anti₀ (abs_pos.2 (ne_of_gt ht)) norm_line_ge
+    have := (hL.mul ((tendsto_const_nhds (x := (1 : ℂ))).sub hinv)).sub hinv
+    simpa [hA] using this
+  have hIf : IntegrableOn (fun t => I * f t) (Ioi 0) := (hint.const_mul I).integrableOn
+  have hJ := integral_Ioi_of_hasDerivAt_of_tendsto hAc hAd hIf hAt
+  rw [integral_const_mul] at hJ
+  -- value of `A 0`
+  have hA0 : A 0 = ((Real.log b : ℂ) - ((Real.log (1 - b) : ℂ) + Real.pi * I)) * (1 - 1 / (b : ℂ)) -
+      1 / (b : ℂ) := by
+    have e1 : log ((b : ℂ) + ((0 : ℝ) : ℂ) * I) = Real.log b := by
+      simp; rw [ofReal_log hb.le]
+    have e2 : log ((b : ℂ) + ((0 : ℝ) : ℂ) * I - 1) = (Real.log (1 - b) : ℂ) + Real.pi * I := by
+      have : (b : ℂ) + ((0 : ℝ) : ℂ) * I - 1 = ((b - 1 : ℝ) : ℂ) := by push_cast; ring
+      rw [this, Complex.log, arg_ofReal_of_neg (by linarith)]
+      congr 2
+      rw [Complex.norm_real, Real.norm_eq_abs, abs_of_neg (by linarith)]
+      ring_nf
+    simp only [hA]
+    rw [e1, e2]; simp
+  set J := ∫ t in Ioi (0 : ℝ), f t with hJdef
+  have hJv : J = I * A 0 := by
+    have : I * J = -A 0 := by rw [hJ]; ring
+    have h2 : J = -I * (I * J) := by
+      rw [← mul_assoc]; simp
+    rw [h2, this]; ring
+  -- the negative half-line by conjugation
+  have hneg : ∫ t in Iic (0 : ℝ), f t = conj J := by
+    have hc := integral_comp_neg_Ioi (c := (0 : ℝ)) f
+    rw [neg_zero] at hc
+    rw [← hc, ← integral_conj]
+    refine setIntegral_congr_ae measurableSet_Ioi (Eventually.of_forall (fun t ht => ?_))
+    have ht0 : t ≠ 0 := ne_of_gt ht
+    simp only [hf]
+    have c1 : (b : ℂ) + ((-t : ℝ) : ℂ) * I = conj ((b : ℂ) + t * I) := by
+      apply Complex.ext <;> simp
+    have c2 : conj ((b : ℂ) + t * I) - 1 = conj ((b : ℂ) + t * I - 1) := by
+      simp
+    rw [c1, c2, log_conj _ (mem_slitPlane_iff_arg.1 (line_mem_slitPlane ht0)).1,
+      log_conj _ (mem_slitPlane_iff_arg.1 (line_sub_one_mem_slitPlane ht0)).1]
+    simp [map_div₀]
+  rw [← intervalIntegral.integral_Iic_add_Ioi hint.integrableOn hint.integrableOn, hneg, ← hJdef, hJv, hA0]
+  apply Complex.ext <;> simp <;> field_simp <;> ring
+
+end ZetaLog
+
+end
+
+section
+open Complex MeasureTheory Filter Topology Set
+
+namespace ZetaLog
+
+lemma F_div_sq_bound {F : ℂ → ℂ} {C b : ℝ}
+    (hC : ∀ s : ℂ, b ≤ s.re → ‖F s‖ ≤ C * (1 + ‖s‖) ^ (1 / 2 : ℝ)) :
+    ∀ s : ℂ, b ≤ s.re → 1 ≤ ‖s‖ → ‖F s / s ^ 2‖ ≤ (4 * |C|) * (1 + ‖s‖) ^ (-(3 / 2 : ℝ)) := by
+  intro s hs hs1
+  have hS : 0 < 1 + ‖s‖ := by positivity
+  have hs0 : 0 < ‖s‖ := by linarith
+  rw [norm_div, norm_pow, div_le_iff₀ (by positivity)]
+  have h1 : ‖F s‖ ≤ |C| * (1 + ‖s‖) ^ (1 / 2 : ℝ) :=
+    (hC s hs).trans (mul_le_mul_of_nonneg_right (le_abs_self C) (by positivity))
+  have h2 : (1 + ‖s‖) ^ (1 / 2 : ℝ) = (1 + ‖s‖) ^ (-(3 / 2 : ℝ)) * (1 + ‖s‖) ^ 2 := by
+    rw [show (1 + ‖s‖) ^ 2 = (1 + ‖s‖) ^ (2 : ℝ) by norm_cast, ← Real.rpow_add hS]; norm_num
+  have h3 : (1 + ‖s‖) ^ 2 ≤ 4 * ‖s‖ ^ 2 := by nlinarith
+  calc ‖F s‖ ≤ |C| * ((1 + ‖s‖) ^ (-(3 / 2 : ℝ)) * (1 + ‖s‖) ^ 2) := by rw [← h2]; exact h1
+    _ ≤ |C| * ((1 + ‖s‖) ^ (-(3 / 2 : ℝ)) * (4 * ‖s‖ ^ 2)) := by gcongr
+    _ = _ := by ring
+
+theorem sbmOpen_of_RH (hRH : RiemannHypothesis) :
+    let h (b t : ℝ) : ℂ := -(∫ u in Set.Ioi b, deriv riemannZeta ((u : ℂ) + (t : ℂ)*Complex.I) / riemannZeta ((u : ℂ) + (t : ℂ)*Complex.I))
+    ∀ b : ℝ, 1/2 < b → b < 1 →
+      let f (t : ℝ) := h b t / ((b : ℂ) + (t : ℂ)*Complex.I)^2
+      MeasureTheory.Integrable f ∧ (∫ t : ℝ, f t)/(2*(Real.pi : ℂ)) = 1 - 1/(b : ℂ) := by
+  intro h b hb hb1 f
+  obtain ⟨F, hF⟩ := exists_logG0 hRH
+  obtain ⟨C, hC⟩ := F_growth hRH hF hb
+  have hΦd : DifferentiableOn ℂ (fun s => F s / s ^ 2) {s : ℂ | b ≤ s.re} := by
+    intro s hs
+    have hs' : b ≤ s.re := hs
+    have hmem : s ∈ U := by show 1 / 2 < s.re; linarith
+    have hs0 : s ≠ 0 := by intro h0; rw [h0] at hs'; simp at hs'; linarith
+    exact ((hF.hasDeriv s hmem).differentiableAt.div (differentiableAt_id.pow 2)
+      (pow_ne_zero 2 hs0)).differentiableWithinAt
+  obtain ⟨hI1, hI0⟩ := Contour.vline_of_bound (by norm_num : (1 : ℝ) < 3 / 2) hΦd
+    (F_div_sq_bound hC)
+  obtain ⟨hI2, hI2v⟩ := explicit_open (by linarith : (0 : ℝ) < b) hb1
+  have hae : f =ᵐ[volume] fun t : ℝ => F ((b : ℂ) + t * I) / ((b : ℂ) + t * I) ^ 2 +
+      (log ((b : ℂ) + t * I) - log ((b : ℂ) + t * I - 1)) / ((b : ℂ) + t * I) ^ 2 := by
+    filter_upwards [ae_ne_zero] with t ht
+    simp only [f, h]
+    rw [h_eq hRH hF hb ht]
+    ring
+  have hsum := hI1.add hI2
+  refine ⟨hsum.congr hae.symm, ?_⟩
+  rw [integral_congr_ae hae, integral_add hI1 hI2, hI0, hI2v]
+  have hpi : (Real.pi : ℂ) ≠ 0 := by exact_mod_cast Real.pi_ne_zero
+  field_simp
+  ring
+
+end ZetaLog
+
+end
+
+section
+open Complex MeasureTheory Filter Topology Set ComplexConjugate
+
+namespace ZetaLog
+
+/-- Half-line integral of an even integrable function. -/
+lemma half_line_of_even {g : ℝ → ℝ} (hg : Integrable g) (heven : ∀ t, g (-t) = g t) :
+    ∫ t in Ioi (0 : ℝ), g t = (1 / 2) * ∫ t, g t := by
+  have h1 := intervalIntegral.integral_Iic_add_Ioi (b := (0 : ℝ)) hg.integrableOn hg.integrableOn
+  have h2 := integral_comp_neg_Ioi (c := (0 : ℝ)) g
+  rw [neg_zero] at h2
+  have h3 : ∫ x in Ioi (0 : ℝ), g (-x) = ∫ x in Ioi (0 : ℝ), g x := by
+    congr 1; funext x; exact heven x
+  rw [← h1, ← h2, h3]; ring
+
+/-- `∫ β / ((β²+t²)(a²+t²)) dt = π / (a (a+β))`, from the Poisson formula. -/
+lemma integral_rational {a β : ℝ} (ha : 0 < a) (hβ : 0 < β) :
+    Integrable (fun t : ℝ => β / ((β ^ 2 + t ^ 2) * (a ^ 2 + t ^ 2))) ∧
+    ∫ t : ℝ, β / ((β ^ 2 + t ^ 2) * (a ^ 2 + t ^ 2)) = Real.pi / (a * (a + β)) := by
+  set Ψ : ℂ → ℂ := fun s => 1 / (s + β) with hΨ
+  have hne : ∀ s : ℂ, (0 : ℝ) ≤ s.re → s + β ≠ 0 := by
+    intro s hs h; have := congrArg Complex.re h; simp at this; linarith
+  have hd : DifferentiableOn ℂ Ψ {s : ℂ | (0 : ℝ) ≤ s.re} := by
+    intro s hs
+    exact (DifferentiableAt.div (differentiableAt_const (1 : ℂ))
+      (differentiableAt_id.add_const (β : ℂ)) (hne s hs)).differentiableWithinAt
+  have hB : ∀ s : ℂ, (0 : ℝ) ≤ s.re → ‖Ψ s‖ ≤ (1 / β) * (1 + ‖s‖) ^ (0 : ℝ) := by
+    intro s hs
+    rw [Real.rpow_zero, mul_one, hΨ, norm_div, norm_one]
+    apply one_div_le_one_div_of_le hβ
+    have := Complex.re_le_norm (s + β); simp at this; linarith
+  obtain ⟨hint, hval⟩ := Contour.poisson (F := Ψ) (b := 0) le_rfl (by norm_num) hd hB
+    (α := a) (y := 0) ha
+  have hre : ∀ t : ℝ, (Ψ (((0 : ℝ) : ℂ) + t * I) / (((a ^ 2 + (t - 0) ^ 2 : ℝ)) : ℂ)).re =
+      β / ((β ^ 2 + t ^ 2) * (a ^ 2 + t ^ 2)) := by
+    intro t
+    simp only [hΨ]
+    rw [show (((0 : ℝ) : ℂ) + t * I + β) = ((β : ℝ) : ℂ) + t * I by push_cast; ring,
+      Complex.div_ofReal_re, one_div, Complex.inv_re, Complex.normSq_apply]
+    simp only [add_re, ofReal_re, mul_re, ofReal_im, I_re, I_im, mul_zero, sub_zero,
+      add_im, mul_im, mul_one, zero_add, add_zero]
+    have h1 : 0 < β ^ 2 + t ^ 2 := by positivity
+    have h2 : 0 < a ^ 2 + t ^ 2 := by positivity
+    rw [show β * β + t * t = β ^ 2 + t ^ 2 by ring, div_div]
+  have hint' := hint.re
+  refine ⟨hint'.congr (Eventually.of_forall hre), ?_⟩
+  have := congrArg Complex.re hval
+  have hI := integral_re hint
+  simp only [RCLike.re_to_complex, hre] at hI
+  rw [← hI] at this
+  rw [this]
+  simp only [hΨ]
+  have : ((((0 : ℝ) + a : ℝ) : ℂ) + ((0 : ℝ) : ℂ) * I + β) = ((a + β : ℝ) : ℂ) := by push_cast; ring
+  rw [this, ← Complex.ofReal_one, ← Complex.ofReal_div, ← Complex.ofReal_mul, Complex.ofReal_re]
+  field_simp
+
+/-- The `F`-part of the argument integral. -/
+theorem F_part (hRH : RiemannHypothesis) {F : ℂ → ℂ} (hF : IsLogG0 F) {b a : ℝ} (hb : 1 / 2 < b)
+    (ha : 0 < a) :
+    IntegrableOn (fun t : ℝ => t * (F ((b : ℂ) + t * I)).im / (a ^ 2 + t ^ 2) ^ 2) (Ioi 0) ∧
+    ∫ t in Ioi (0 : ℝ), t * (F ((b : ℂ) + t * I)).im / (a ^ 2 + t ^ 2) ^ 2 =
+      Real.pi / (4 * a) * (deriv F (((b + a : ℝ) : ℂ))).re := by
+  obtain ⟨C, hC⟩ := F_growth hRH hF hb
+  have hFd : DifferentiableOn ℂ F {s : ℂ | b ≤ s.re} := by
+    intro s hs
+    have hmem : s ∈ U := by show 1 / 2 < s.re; have : b ≤ s.re := hs; linarith
+    exact (hF.hasDeriv s hmem).differentiableAt.differentiableWithinAt
+  obtain ⟨hint, hval⟩ := Contour.poisson_deriv (F := F) (b := b) (C := C) (r := 1 / 2)
+    (by norm_num) (by norm_num) hFd hC (α := a) (y := 0) ha
+  set g : ℝ → ℝ := fun t => t * (F ((b : ℂ) + t * I)).im / (a ^ 2 + t ^ 2) ^ 2 with hg
+  have him : ∀ t : ℝ, (F ((b : ℂ) + t * I) * ((((t - 0) / (a ^ 2 + (t - 0) ^ 2) ^ 2 : ℝ)) : ℂ)).im =
+      g t := by
+    intro t
+    rw [Complex.mul_im, Complex.ofReal_im, Complex.ofReal_re, mul_zero, zero_add]
+    simp only [hg, sub_zero]; ring
+  have hgint : Integrable g := hint.im.congr (Eventually.of_forall him)
+  have hgval : ∫ t, g t = Real.pi / (2 * a) * (deriv F (((b + a : ℝ) : ℂ))).re := by
+    have := congrArg Complex.im hval
+    have hI := integral_im hint
+    simp only [RCLike.im_to_complex, him] at hI
+    rw [← hI] at this
+    rw [this]
+    have e : ((b + a : ℝ) : ℂ) + ((0 : ℝ) : ℂ) * I = ((b + a : ℝ) : ℂ) := by simp
+    rw [e]
+    simp only [Complex.mul_im, Complex.mul_re, Complex.I_re, Complex.I_im, Complex.ofReal_re,
+      Complex.ofReal_im]
+    ring
+  have heven : ∀ t, g (-t) = g t := by
+    intro t
+    simp only [hg]
+    have hmem : (b : ℂ) + t * I ∈ U := by show 1 / 2 < ((b : ℂ) + t * I).re; simp; linarith
+    have hc : (b : ℂ) + ((-t : ℝ) : ℂ) * I = conj ((b : ℂ) + t * I) := by
+      apply Complex.ext <;> simp
+    rw [hc, hF.conj_eq _ hmem, Complex.conj_im]
+    ring
+  refine ⟨hgint.integrableOn, ?_⟩
+  rw [half_line_of_even hgint heven, hgval]
+  ring
+
+end ZetaLog
+
+end
+
+section
+open Complex MeasureTheory Filter Topology Set ComplexConjugate
+
+namespace ZetaLog
+
+lemma arg_re_pos {z : ℂ} (hz : 0 < z.re) : arg z = Real.arctan (z.im / z.re) := by
+  have h1 := Complex.abs_arg_lt_pi_div_two_iff.2 (Or.inl hz)
+  rw [← Complex.tan_arg, Real.arctan_tan (by linarith [neg_abs_le (arg z)])
+    (by linarith [le_abs_self (arg z)])]
+
+lemma im_L_eq {b t : ℝ} (hb : 0 < b) (hb1 : b < 1) (ht : 0 < t) :
+    (log ((b : ℂ) + t * I) - log ((b : ℂ) + t * I - 1)).im =
+      Real.arctan (t / b) + Real.arctan (t / (1 - b)) - Real.pi := by
+  rw [sub_im, log_im, log_im]
+  have e1 : arg ((b : ℂ) + t * I) = Real.arctan (t / b) := by
+    rw [arg_re_pos (by simpa using hb)]; simp
+  have hx : ((((1 - b : ℝ) : ℂ) - t * I)).im < 0 := by simp; linarith
+  have e2 : (b : ℂ) + t * I - 1 = -(((1 - b : ℝ) : ℂ) - t * I) := by push_cast; ring
+  have e3 : arg (((1 - b : ℝ) : ℂ) - t * I) = Real.arctan (-t / (1 - b)) := by
+    rw [arg_re_pos (by simp; linarith)]; simp
+  rw [e1, e2, arg_neg_eq_arg_add_pi_of_im_neg hx, e3, neg_div, Real.arctan_neg]
+  ring
+
+/-- The `L`-part of the argument integral. -/
+theorem L_part {a b : ℝ} (ha : 0 < a) (hb : 0 < b) (hb1 : b < 1) :
+    IntegrableOn (fun t : ℝ => t * (log ((b : ℂ) + t * I) - log ((b : ℂ) + t * I - 1)).im /
+      (a ^ 2 + t ^ 2) ^ 2) (Ioi 0) ∧
+    ∫ t in Ioi (0 : ℝ), t * (log ((b : ℂ) + t * I) - log ((b : ℂ) + t * I - 1)).im /
+      (a ^ 2 + t ^ 2) ^ 2 =
+      -(Real.pi / (2 * a ^ 2)) + Real.pi / (4 * a) * (1 / (a + b) + 1 / (a + (1 - b))) := by
+  set α := 1 - b with hα
+  have hα0 : 0 < α := by rw [hα]; linarith
+  set u : ℝ → ℝ := fun t => Real.arctan (t / b) + Real.arctan (t / α) - Real.pi with hu
+  set u' : ℝ → ℝ := fun t => b / (b ^ 2 + t ^ 2) + α / (α ^ 2 + t ^ 2) with hu'
+  set v : ℝ → ℝ := fun t => -(1 / (2 * (a ^ 2 + t ^ 2))) with hv
+  set v' : ℝ → ℝ := fun t => t / (a ^ 2 + t ^ 2) ^ 2 with hv'
+  have hud : ∀ x : ℝ, HasDerivAt u (u' x) x := by
+    intro x
+    have h1 := (Contour.hasDerivAt_arctan_div hb x).const_mul b
+    have h2 := (Contour.hasDerivAt_arctan_div hα0 x).const_mul α
+    refine ((h1.add h2).sub_const Real.pi).congr_of_eventuallyEq ?_ |>.congr_deriv ?_
+    · refine Eventually.of_forall (fun y => ?_)
+      simp only [hu, Pi.add_apply]; field_simp
+    · simp only [hu']; ring
+  have hvd : ∀ x : ℝ, HasDerivAt v (v' x) x := by
+    intro x
+    have hp : 0 < a ^ 2 + x ^ 2 := by positivity
+    have h := ((((hasDerivAt_id x).pow 2).const_add (a ^ 2)).const_mul 2).inv
+      (by positivity : (2 * (a ^ 2 + id x ^ 2)) ≠ 0)
+    refine h.neg.congr_of_eventuallyEq (Eventually.of_forall (fun y => ?_)) |>.congr_deriv ?_
+    · simp [hv]
+    · simp only [hv', id_eq, Pi.pow_apply]; field_simp; ring
+  have hubd : ∀ t, |u t| ≤ 2 * Real.pi := by
+    intro t
+    have := Real.arctan_lt_pi_div_two (t / b); have := Real.neg_pi_div_two_lt_arctan (t / b)
+    have := Real.arctan_lt_pi_div_two (t / α); have := Real.neg_pi_div_two_lt_arctan (t / α)
+    have := Real.pi_pos
+    rw [abs_le]; constructor <;> simp only [hu] <;> linarith
+  have hucont : Continuous u := continuous_iff_continuousAt.2 (fun x => (hud x).continuousAt)
+  have huv' : Integrable (fun t => u t * v' t) := by
+    refine (Contour.integrable_odd_sq ha).bdd_mul (c := 2 * Real.pi) hucont.aestronglyMeasurable
+      (Eventually.of_forall (fun t => ?_))
+    rw [Real.norm_eq_abs]; exact hubd t
+  obtain ⟨hr1, hr1v⟩ := integral_rational ha hb
+  obtain ⟨hr2, hr2v⟩ := integral_rational ha hα0
+  have hu'v_eq : (fun t => u' t * v t) = fun t => -(1 / 2) *
+      (b / ((b ^ 2 + t ^ 2) * (a ^ 2 + t ^ 2)) + α / ((α ^ 2 + t ^ 2) * (a ^ 2 + t ^ 2))) := by
+    funext t
+    have h1 : 0 < b ^ 2 + t ^ 2 := by positivity
+    have h2 : 0 < α ^ 2 + t ^ 2 := by positivity
+    have h3 : 0 < a ^ 2 + t ^ 2 := by positivity
+    simp only [hu', hv]; field_simp
+  have hu'v : Integrable (fun t => u' t * v t) := by
+    rw [hu'v_eq]; exact (hr1.add hr2).const_mul _
+  have hzero : Tendsto (u * v) (𝓝[>] 0) (𝓝 (u 0 * v 0)) :=
+    ((hucont.mul (continuous_iff_continuousAt.2 (fun x => (hvd x).continuousAt))).tendsto 0).mono_left
+      nhdsWithin_le_nhds
+  have hinf : Tendsto (u * v) atTop (𝓝 0) := by
+    have hv0 : Tendsto v atTop (𝓝 0) := by
+      have : Tendsto (fun t : ℝ => 2 * (a ^ 2 + t ^ 2)) atTop atTop := by
+        refine Tendsto.const_mul_atTop (by norm_num) ?_
+        exact tendsto_atTop_add_const_left _ _ (tendsto_pow_atTop (by norm_num))
+      have := (tendsto_inv_atTop_zero.comp this).neg
+      rw [neg_zero] at this
+      refine this.congr (fun t => ?_); simp [hv]
+    have hb' : ∀ t, ‖u t‖ ≤ 2 * Real.pi := fun t => by rw [Real.norm_eq_abs]; exact hubd t
+    rw [tendsto_zero_iff_norm_tendsto_zero] at hv0 ⊢
+    refine squeeze_zero (fun t => norm_nonneg _) (fun t => ?_) (by simpa using hv0.const_mul (2 * Real.pi))
+    simp only [Pi.mul_apply, norm_mul]
+    exact mul_le_mul_of_nonneg_right (hb' t) (norm_nonneg _)
+  have hibp := integral_Ioi_mul_deriv_eq_deriv_mul (fun x _ => hud x) (fun x _ => hvd x)
+    huv'.integrableOn hu'v.integrableOn hzero hinf
+  -- identify the integrand on `Ioi 0`
+  have hcongr : EqOn (fun t : ℝ => t * (log ((b : ℂ) + t * I) - log ((b : ℂ) + t * I - 1)).im /
+      (a ^ 2 + t ^ 2) ^ 2) (fun t => u t * v' t) (Ioi 0) := by
+    intro t ht
+    simp only [hu, hv']
+    rw [im_L_eq hb hb1 ht]; ring
+  refine ⟨(huv'.integrableOn).congr_fun hcongr.symm measurableSet_Ioi, ?_⟩
+  rw [setIntegral_congr_fun measurableSet_Ioi hcongr, hibp]
+  have he1 := half_line_of_even hr1 (fun t => by ring)
+  have he2 := half_line_of_even hr2 (fun t => by ring)
+  have : ∫ t in Ioi (0 : ℝ), u' t * v t = -(1 / 2) * ((∫ t in Ioi (0 : ℝ),
+      b / ((b ^ 2 + t ^ 2) * (a ^ 2 + t ^ 2))) + ∫ t in Ioi (0 : ℝ),
+      α / ((α ^ 2 + t ^ 2) * (a ^ 2 + t ^ 2))) := by
+    rw [hu'v_eq, integral_const_mul, integral_add hr1.integrableOn hr2.integrableOn]
+  rw [this, he1, he2, hr1v, hr2v]
+  simp only [hu, hv]
+  rw [show (0 : ℝ) / b = 0 by simp, show (0 : ℝ) / α = 0 by simp, Real.arctan_zero]
+  have := Real.pi_pos
+  field_simp
+  ring
+
+end ZetaLog
+
+end
+
+section
+open Complex MeasureTheory Filter Topology Set ComplexConjugate
+
+namespace ZetaLog
+
+/-- Argument integral for `1/2 < b < 1`, in terms of `F'`. -/
+theorem arg_formula (hRH : RiemannHypothesis) {F : ℂ → ℂ} (hF : IsLogG0 F) {a b : ℝ}
+    (hb : 1 / 2 < b) (hb1 : b < 1) (ha : 0 < a) :
+    let h (b t : ℝ) : ℂ := -(∫ u in Set.Ioi b, deriv riemannZeta ((u : ℂ) + (t : ℂ)*Complex.I) /
+      riemannZeta ((u : ℂ) + (t : ℂ)*Complex.I))
+    IntegrableOn (fun t : ℝ => t * (h b t).im / (a ^ 2 + t ^ 2) ^ 2) (Ioi 0) ∧
+    ∫ t in Ioi (0 : ℝ), t * (h b t).im / (a ^ 2 + t ^ 2) ^ 2 =
+      Real.pi / (4 * a) * (deriv F (((b + a : ℝ) : ℂ))).re +
+      (-(Real.pi / (2 * a ^ 2)) + Real.pi / (4 * a) * (1 / (a + b) + 1 / (a + (1 - b)))) := by
+  intro h
+  obtain ⟨hF1, hF1v⟩ := F_part hRH hF hb ha
+  obtain ⟨hL1, hL1v⟩ := L_part ha (by linarith : (0 : ℝ) < b) hb1
+  have hcongr : EqOn (fun t : ℝ => t * (h b t).im / (a ^ 2 + t ^ 2) ^ 2)
+      (fun t => t * (F ((b : ℂ) + t * I)).im / (a ^ 2 + t ^ 2) ^ 2 +
+        t * (log ((b : ℂ) + t * I) - log ((b : ℂ) + t * I - 1)).im / (a ^ 2 + t ^ 2) ^ 2)
+      (Ioi 0) := by
+    intro t ht
+    have ht0 : t ≠ 0 := ne_of_gt ht
+    simp only [h]
+    rw [h_eq hRH hF hb ht0]
+    simp only [sub_im, add_im]
+    ring
+  refine ⟨(hF1.add hL1).congr_fun hcongr.symm measurableSet_Ioi, ?_⟩
+  rw [setIntegral_congr_fun measurableSet_Ioi hcongr, integral_add hF1 hL1, hF1v, hL1v]
+
+theorem sbmArgument_of_RH (hRH : RiemannHypothesis) :
+    let h (b t : ℝ) : ℂ := -(∫ u in Set.Ioi b, deriv riemannZeta ((u : ℂ) + (t : ℂ)*Complex.I) / riemannZeta ((u : ℂ) + (t : ℂ)*Complex.I))
+    ∀ b : ℝ, 1/2 < b → b < 1 →
+      let f (t : ℝ) := t*(h b t).im/((1-b)^2+t^2)^2
+      MeasureTheory.IntegrableOn f (Set.Ioi 0) ∧ (∫ t in Set.Ioi (0 : ℝ), f t) =
+      Real.pi*Real.eulerMascheroniConstant/(4*(1-b)) - 3*Real.pi/(8*(1-b)^2) := by
+  intro h b hb hb1 f
+  obtain ⟨F, hF⟩ := exists_logG0 hRH
+  have hα : 0 < 1 - b := by linarith
+  obtain ⟨h1, h2⟩ := arg_formula hRH hF hb hb1 hα
+  refine ⟨h1, ?_⟩
+  show ∫ t in Ioi (0 : ℝ), t * (h b t).im / ((1 - b) ^ 2 + t ^ 2) ^ 2 = _
+  rw [h2]
+  have e : (((b + (1 - b) : ℝ)) : ℂ) = 1 := by push_cast; ring
+  have hmem : (1 : ℂ) ∈ U := by show (1 : ℝ) / 2 < (1 : ℂ).re; norm_num
+  rw [e, (hF.hasDeriv 1 hmem).deriv, deriv_G0_one, G0_one, div_one, sub_re, ofReal_re, one_re,
+    show (1 - b) + b = 1 by ring, show (1 - b) + (1 - b) = 2 * (1 - b) by ring]
+  field_simp
+  ring
+
+/-- `sbmArgumentParameter` in the range `1/2 < b`. -/
+theorem argParam_open (hRH : RiemannHypothesis) {a b : ℝ} (ha : 0 < a) (hb : 1 / 2 < b)
+    (hb1 : b < 1) (hab : a + b ≠ 1) :
+    let h (b t : ℝ) : ℂ := -(∫ u in Set.Ioi b, deriv riemannZeta ((u : ℂ)+(t : ℂ)*Complex.I) / riemannZeta ((u : ℂ)+(t : ℂ)*Complex.I))
+    let f (t : ℝ) := t*(h b t).im/(a^2+t^2)^2
+    MeasureTheory.IntegrableOn f (Set.Ioi 0) ∧ (∫ t in Set.Ioi (0 : ℝ), f t) =
+      Real.pi/(4*a)*(deriv riemannZeta ((a+b : ℝ) : ℂ) / riemannZeta ((a+b : ℝ) : ℂ)).re +
+      Real.pi/2*(1/(a^2-(1-b)^2) - 1/a^2) := by
+  intro h f
+  obtain ⟨F, hF⟩ := exists_logG0 hRH
+  obtain ⟨h1, h2⟩ := arg_formula hRH hF hb hb1 ha
+  refine ⟨h1, ?_⟩
+  show ∫ t in Ioi (0 : ℝ), t * (h b t).im / (a ^ 2 + t ^ 2) ^ 2 = _
+  rw [h2]
+  have hmem : (((b + a : ℝ)) : ℂ) ∈ U := by
+    show (1 : ℝ) / 2 < (((b + a : ℝ)) : ℂ).re; rw [ofReal_re]; linarith
+  have hs1 : (((b + a : ℝ)) : ℂ) ≠ 1 := by
+    intro e; apply hab; have := congrArg Complex.re e; simp at this; linarith
+  rw [deriv_F_eq hRH hF hmem hs1, show b + a = a + b by ring]
+  have e1 : (1 : ℂ) / (((a + b : ℝ) : ℂ) - 1) = (((1 / (a + b - 1)) : ℝ) : ℂ) := by push_cast; ring
+  have e2 : (1 : ℂ) / (((a + b : ℝ) : ℂ)) = (((1 / (a + b)) : ℝ) : ℂ) := by push_cast; ring
+  rw [e1, e2, sub_re, add_re, ofReal_re, ofReal_re]
+  have hab1 : a + b - 1 ≠ 0 := sub_ne_zero.2 hab
+  have hab2 : 0 < a + (1 - b) := by linarith
+  have hab3 : 0 < a + b := by linarith
+  have hab4 : a ^ 2 - (1 - b) ^ 2 ≠ 0 := by
+    rw [show a ^ 2 - (1 - b) ^ 2 = (a + b - 1) * (a + (1 - b)) by ring]
+    exact mul_ne_zero hab1 hab2.ne'
+  field_simp
+  ring
+
+end ZetaLog
+
+end
+
+section
+open Complex MeasureTheory Filter Topology Set Metric
+
+namespace ZetaLog
+
+lemma zeta_zero_re_le (hRH : RiemannHypothesis) {ρ : ℂ} (h : riemannZeta ρ = 0) :
+    ρ.re ≤ 1 / 2 := by
+  by_cases h1 : ρ = 1
+  · rw [h1] at h; exact absurd h riemannZeta_one_ne_zero
+  by_cases ht : ∃ n : ℕ, ρ = -2 * (n + 1)
+  · obtain ⟨n, rfl⟩ := ht
+    have : (-2 * ((n : ℂ) + 1)).re = -2 * ((n : ℝ) + 1) := by simp
+    rw [this]; have : (0 : ℝ) ≤ n := Nat.cast_nonneg n; linarith
+  · exact le_of_eq (hRH ρ h ht h1)
+
+lemma G0_zero_re_le (hRH : RiemannHypothesis) {ρ : ℂ} (h0 : ρ ≠ 0) (h : G0 ρ = 0) :
+    ρ.re ≤ 1 / 2 := by
+  by_cases h1 : ρ = 1
+  · rw [h1, G0_one] at h; exact absurd h one_ne_zero
+  rw [G0_of_ne h1] at h
+  have : riemannZeta ρ = 0 := by
+    rcases div_eq_zero_iff.1 h with h | h
+    · rcases mul_eq_zero.1 h with h | h
+      · exact absurd (sub_eq_zero.1 h) h1
+      · exact h
+    · exact absurd h h0
+  exact zeta_zero_re_le hRH this
+
+lemma one_le_log_add_three (t : ℝ) : 1 ≤ Real.log (|t| + 3) := by
+  rw [Real.le_log_iff_exp_le (by positivity)]
+  have := Real.exp_one_lt_d9
+  have := abs_nonneg t
+  linarith
+
+lemma analyticOnNhd_G0 : AnalyticOnNhd ℂ G0 {s : ℂ | 0 < s.re} :=
+  differentiableOn_G0.analyticOnNhd (isOpen_lt continuous_const Complex.continuous_re)
+
+/-- A uniform bound for `G0` relative to its values on `Re s = 5/2`, for `|Im s| ≤ 6`. -/
+lemma G0_disk_bound (hRH : RiemannHypothesis) : ∃ B : ℝ, 2 ≤ B ∧ ∀ t : ℝ, |t| ≤ 6 →
+    ∀ w ∈ closedBall ((5 / 2 : ℂ) + t * I) (24 / 25 * (49 / 20)),
+      ‖G0 w‖ ≤ B * ‖G0 ((5 / 2 : ℂ) + t * I)‖ := by
+  set φ : ℝ × ℝ → ℂ := fun p => (p.1 : ℂ) + p.2 * I with hφ
+  have hφc : Continuous φ := by fun_prop
+  set K := φ '' (Icc (1 / 10 : ℝ) 5 ×ˢ Icc (-9 : ℝ) 9) with hK
+  have hKc : IsCompact K := (isCompact_Icc.prod isCompact_Icc).image hφc
+  have hKsub : K ⊆ {s : ℂ | 0 < s.re} := by
+    rintro _ ⟨p, hp, rfl⟩
+    show 0 < ((p.1 : ℂ) + p.2 * I).re
+    simp; linarith [hp.1.1]
+  obtain ⟨M, hM⟩ := hKc.exists_bound_of_continuousOn
+    (differentiableOn_G0.continuousOn.mono hKsub)
+  set g : ℝ → ℝ := fun t => ‖G0 ((5 / 2 : ℂ) + t * I)‖ with hg
+  have hgc : ContinuousOn g (Icc (-6) 6) := by
+    have : ContinuousOn (fun t : ℝ => G0 ((5 / 2 : ℂ) + t * I)) (Icc (-6) 6) := by
+      refine differentiableOn_G0.continuousOn.comp (by fun_prop) (fun t _ => ?_)
+      show 0 < ((5 / 2 : ℂ) + t * I).re
+      simp
+    exact this.norm
+  obtain ⟨t0, ht0, hmin⟩ := isCompact_Icc.exists_isMinOn (nonempty_Icc.2 (by norm_num)) hgc
+  have hm0 : 0 < g t0 := by
+    simp only [hg]
+    exact norm_pos_iff.2 (G0_ne_zero hRH (by simp; norm_num))
+  refine ⟨max 2 (M / g t0), le_max_left _ _, fun t ht w hw => ?_⟩
+  have hwK : w ∈ K := by
+    refine ⟨(w.re, w.im), ⟨⟨?_, ?_⟩, ⟨?_, ?_⟩⟩, ?_⟩
+    all_goals rw [mem_closedBall, dist_eq] at hw
+    · have := Complex.abs_re_le_norm (w - ((5 / 2 : ℂ) + t * I)); simp at this
+      rw [abs_le] at this; linarith [this.1]
+    · have := Complex.abs_re_le_norm (w - ((5 / 2 : ℂ) + t * I)); simp at this
+      rw [abs_le] at this; linarith [this.2]
+    · have := Complex.abs_im_le_norm (w - ((5 / 2 : ℂ) + t * I)); simp at this
+      rw [abs_le] at this; rw [abs_le] at ht; linarith [this.1]
+    · have := Complex.abs_im_le_norm (w - ((5 / 2 : ℂ) + t * I)); simp at this
+      rw [abs_le] at this; rw [abs_le] at ht; linarith [this.2]
+    · simp [hφ]
+  have h1 := hM w hwK
+  have h2 : g t0 ≤ g t := hmin (show t ∈ Icc (-6 : ℝ) 6 from abs_le.1 ht)
+  calc ‖G0 w‖ ≤ M := h1
+    _ = (M / g t0) * g t0 := by field_simp
+    _ ≤ max 2 (M / g t0) * g t := by
+      apply mul_le_mul (le_max_right _ _) h2 hm0.le (le_trans (by norm_num) (le_max_left _ _))
+
+/-- Local partial fractions for `G0'/G0` along horizontal segments, under RH. -/
+theorem pf_G0 (hRH : RiemannHypothesis) : ∃ C : ℝ, 0 < C ∧ ∀ t : ℝ, ∃ Z : Finset ℂ,
+    ∃ m : ℂ → ℕ, (∀ ρ ∈ Z, ρ.re ≤ 1 / 2) ∧ ((∑ ρ ∈ Z, (m ρ : ℝ)) ≤ C * Real.log (|t| + 3)) ∧
+    ∀ σ : ℝ, 1 / 2 < σ → σ ≤ 2 →
+      ‖logDeriv G0 ((σ : ℂ) + t * I) - ∑ ρ ∈ Z, (m ρ : ℂ) / ((σ : ℂ) + t * I - ρ)‖ ≤
+        C * Real.log (|t| + 3) := by
+  obtain ⟨C1, hC1, hpf⟩ := Zeta23.WeilEF.zeta_logDeriv_partial_fraction
+  obtain ⟨B, hB2, hB⟩ := G0_disk_bound hRH
+  set R : ℝ := 49 / 20 with hR
+  set D1 : ℝ := 1 / Real.log ((24 / 25) / (22 / 25)) * Real.log B
+  set D2 : ℝ := 44795000 / R * Real.log B
+  have hlogB : 0 ≤ Real.log B := Real.log_nonneg (by linarith)
+  have hD1 : 0 ≤ D1 := mul_nonneg (by
+    have : 0 < Real.log ((24 / 25 : ℝ) / (22 / 25)) := Real.log_pos (by norm_num)
+    positivity) hlogB
+  have hD2 : 0 ≤ D2 := by positivity
+  refine ⟨C1 + 1 + D1 + D2, by positivity, fun t => ?_⟩
+  have hL := one_le_log_add_three t
+  by_cases ht : 6 ≤ |t|
+  · obtain ⟨Z, hZ, hsum, hbd⟩ := hpf t ht
+    refine ⟨Z, fun ρ => analyticOrderNatAt riemannZeta ρ, fun ρ hρ => ?_, ?_, ?_⟩
+    · have : ρ ∈ (Z : Set ℂ) := hρ
+      rw [hZ] at this
+      exact zeta_zero_re_le hRH this.2
+    · calc _ ≤ C1 * Real.log (|t| + 3) := hsum
+        _ ≤ _ := by nlinarith
+    · intro σ hσ hσ2
+      set s : ℂ := (σ : ℂ) + t * I with hs
+      have ht0 : t ≠ 0 := by intro h; rw [h] at ht; norm_num at ht
+      have hs1 : s ≠ 1 := by intro h; have := congrArg Complex.im h; simp [hs] at this; exact ht0 this
+      have hs0 : s ≠ 0 := by intro h; have := congrArg Complex.im h; simp [hs] at this; exact ht0 this
+      have hz : riemannZeta s ≠ 0 := zeta_ne_zero_of_U hRH (by simp [hs]; linarith) hs1
+      have hball : s ∈ closedBall (2 + t * I) (3 / 2) := by
+        rw [mem_closedBall, dist_eq]
+        have : s - (2 + t * I) = ((σ - 2 : ℝ) : ℂ) := by simp [hs]
+        rw [this, norm_real, Real.norm_eq_abs, abs_le]; constructor <;> linarith
+      have h1 := hbd s hball hz
+      have hlg : logDeriv G0 s = logDeriv riemannZeta s + 1 / (s - 1) - 1 / s := by
+        rw [logDeriv_apply, logDeriv_apply, logDeriv_G0 hs1 hs0 hz]
+      have hn1 : ‖1 / (s - 1)‖ ≤ 1 / 6 := by
+        rw [norm_div, norm_one]
+        apply one_div_le_one_div_of_le (by norm_num)
+        have := Complex.abs_im_le_norm (s - 1); simp [hs] at this; linarith
+      have hn2 : ‖1 / s‖ ≤ 1 / 6 := by
+        rw [norm_div, norm_one]
+        apply one_div_le_one_div_of_le (by norm_num)
+        have := Complex.abs_im_le_norm s; simp [hs] at this; linarith
+      rw [hlg]
+      calc ‖logDeriv riemannZeta s + 1 / (s - 1) - 1 / s -
+            ∑ ρ ∈ Z, ((analyticOrderNatAt riemannZeta ρ : ℕ) : ℂ) / (s - ρ)‖
+          = ‖(logDeriv riemannZeta s - ∑ ρ ∈ Z, ((analyticOrderNatAt riemannZeta ρ : ℕ) : ℂ) /
+              (s - ρ)) + (1 / (s - 1) - 1 / s)‖ := by ring_nf
+        _ ≤ C1 * Real.log (|t| + 3) + (1 / 6 + 1 / 6) :=
+            (norm_add_le _ _).trans (add_le_add h1 ((norm_sub_le _ _).trans (add_le_add hn1 hn2)))
+        _ ≤ _ := by nlinarith
+  · push Not at ht
+    set s₀ : ℂ := (5 / 2 : ℂ) + t * I with hs₀
+    have hRp : (0 : ℝ) < R := by norm_num [hR]
+    have hana : AnalyticOnNhd ℂ G0 (closedBall s₀ R) := by
+      refine analyticOnNhd_G0.mono (fun w hw => ?_)
+      rw [mem_closedBall, dist_eq] at hw
+      have := Complex.abs_re_le_norm (w - s₀); simp [hs₀] at this
+      rw [abs_le] at this
+      show 0 < w.re
+      norm_num [hR] at hw; linarith [this.1]
+    have hne : G0 s₀ ≠ 0 := G0_ne_zero hRH (by simp [hs₀]; norm_num)
+    obtain ⟨Z, hZ, hsum, hbd⟩ := Zeta23.WeilEF.logDeriv_partial_fraction_disk hRp hana hne hB2
+      (hB t ht.le)
+    refine ⟨Z, fun ρ => analyticOrderNatAt G0 ρ, fun ρ hρ => ?_, ?_, ?_⟩
+    · have : ρ ∈ (Z : Set ℂ) := hρ
+      rw [hZ] at this
+      obtain ⟨hρb, hρ0⟩ := this
+      apply G0_zero_re_le hRH _ hρ0
+      intro h; rw [h, mem_closedBall, dist_eq, zero_sub, norm_neg] at hρb
+      have := Complex.abs_re_le_norm s₀; simp [hs₀] at this
+      norm_num [hR] at hρb; rw [abs_of_pos (by norm_num : (0:ℝ) < 5 / 2)] at this; linarith
+    · calc _ ≤ D1 := hsum
+        _ ≤ _ := by nlinarith
+    · intro σ hσ hσ2
+      have hball : (σ : ℂ) + t * I ∈ closedBall s₀ (83 / 100 * R) := by
+        rw [mem_closedBall, dist_eq]
+        have : (σ : ℂ) + t * I - s₀ = ((σ - 5 / 2 : ℝ) : ℂ) := by simp [hs₀]
+        rw [this, norm_real, Real.norm_eq_abs, abs_le]; norm_num [hR]; constructor <;> linarith
+      have h1 := hbd _ hball (G0_ne_zero hRH (by simp; linarith))
+      calc _ ≤ D2 := h1
+        _ ≤ _ := by nlinarith
+
+/-- The lower bound `Re G0'/G0 ≥ -C log(|t|+3)` to the right of the critical line. -/
+theorem re_logDeriv_G0_ge (hRH : RiemannHypothesis) : ∃ C : ℝ, 0 < C ∧ ∀ t σ : ℝ, 1 / 2 < σ →
+    σ ≤ 2 → -(C * Real.log (|t| + 3)) ≤ (logDeriv G0 ((σ : ℂ) + t * I)).re := by
+  obtain ⟨C, hC, h⟩ := pf_G0 hRH
+  refine ⟨C, hC, fun t σ hσ hσ2 => ?_⟩
+  obtain ⟨Z, m, hZ, -, hbd⟩ := h t
+  have h1 := hbd σ hσ hσ2
+  set S := ∑ ρ ∈ Z, (m ρ : ℂ) / ((σ : ℂ) + t * I - ρ)
+  have hS : 0 ≤ S.re := by
+    simp only [S, Complex.re_sum]
+    refine Finset.sum_nonneg (fun ρ hρ => ?_)
+    rw [Complex.div_re]
+    have hre : ((σ : ℂ) + t * I - ρ).re = σ - ρ.re := by simp
+    have := hZ ρ hρ
+    simp only [natCast_re, natCast_im, hre, zero_mul, zero_div, add_zero]
+    have hσρ : 0 ≤ σ - ρ.re := by linarith
+    exact div_nonneg (mul_nonneg (Nat.cast_nonneg _) hσρ) (normSq_nonneg _)
+  have h2 := Complex.abs_re_le_norm (logDeriv G0 ((σ : ℂ) + t * I) - S)
+  rw [sub_re, abs_le] at h2
+  linarith [h2.1]
+
+end ZetaLog
+
+end
+
+section
+open Complex MeasureTheory Filter Topology Set Metric
+
+namespace ZetaLog
+
+lemma line_re (σ t : ℝ) : ((σ : ℂ) + t * I).re = σ := by simp
+
+/-- Monotone convergence (decreasing sequence) with a finite limit of the integrals. -/
+lemma mct_antitone {α : Type*} [MeasurableSpace α] {μ : Measure α} {f : ℕ → α → ℝ} {F : α → ℝ}
+    {L : ℝ} (hf : ∀ n, Integrable (f n) μ) (h_mono : ∀ᵐ x ∂μ, Antitone fun n => f n x)
+    (h_t : ∀ᵐ x ∂μ, Tendsto (fun n => f n x) atTop (𝓝 (F x)))
+    (hL : Tendsto (fun n => ∫ x, f n x ∂μ) atTop (𝓝 L)) :
+    Integrable F μ ∧ ∫ x, F x ∂μ = L := by
+  have hFm : AEStronglyMeasurable F μ :=
+    aestronglyMeasurable_of_tendsto_ae _ (fun n => (hf n).1) h_t
+  have hg_nonneg : ∀ n, 0 ≤ᵐ[μ] fun x => f 0 x - f n x := fun n => by
+    filter_upwards [h_mono] with x hx
+    simp only [Pi.zero_apply, sub_nonneg]; exact hx (Nat.zero_le n)
+  have hG_nonneg : 0 ≤ᵐ[μ] fun x => f 0 x - F x := by
+    filter_upwards [h_mono, h_t] with x hx ht
+    simp only [Pi.zero_apply, sub_nonneg]
+    exact le_of_tendsto' ht (fun n => hx (Nat.zero_le n))
+  have hlin : Tendsto (fun n => ∫⁻ x, ENNReal.ofReal (f 0 x - f n x) ∂μ) atTop
+      (𝓝 (∫⁻ x, ENNReal.ofReal (f 0 x - F x) ∂μ)) := by
+    refine lintegral_tendsto_of_tendsto_of_monotone
+      (fun n => ((hf 0).sub (hf n)).aemeasurable.ennreal_ofReal) ?_ ?_
+    · filter_upwards [h_mono] with x hx n m hnm
+      exact ENNReal.ofReal_le_ofReal (by linarith [hx hnm])
+    · filter_upwards [h_t] with x hx
+      exact (ENNReal.continuous_ofReal.tendsto _).comp (tendsto_const_nhds.sub hx)
+  have hval : ∀ n, ∫⁻ x, ENNReal.ofReal (f 0 x - f n x) ∂μ =
+      ENNReal.ofReal (∫ x, f 0 x ∂μ - ∫ x, f n x ∂μ) := by
+    intro n
+    have h := ofReal_integral_eq_lintegral_ofReal ((hf 0).sub (hf n)) (hg_nonneg n)
+    simp only [Pi.sub_apply] at h
+    rw [← h, integral_sub (hf 0) (hf n)]
+  have hlim2 : Tendsto (fun n => ∫⁻ x, ENNReal.ofReal (f 0 x - f n x) ∂μ) atTop
+      (𝓝 (ENNReal.ofReal (∫ x, f 0 x ∂μ - L))) := by
+    simp_rw [hval]
+    exact (ENNReal.continuous_ofReal.tendsto _).comp (tendsto_const_nhds.sub hL)
+  have heq := tendsto_nhds_unique hlin hlim2
+  have hGint : Integrable (fun x => f 0 x - F x) μ := by
+    refine ⟨(hf 0).1.sub hFm, ?_⟩
+    rw [hasFiniteIntegral_iff_ofReal hG_nonneg, heq]
+    exact ENNReal.ofReal_lt_top
+  have hFint : Integrable F μ := ((hf 0).sub hGint).congr (Eventually.of_forall (fun x => by simp))
+  exact ⟨hFint, tendsto_nhds_unique (integral_tendsto_of_tendsto_of_antitone hf hFint h_mono h_t) hL⟩
+
+/-- `log(|t|+3)/(a^2+t^2)` is integrable. -/
+lemma integrable_log_weight {a : ℝ} (ha : 0 < a) :
+    Integrable (fun t : ℝ => Real.log (|t| + 3) / (a ^ 2 + t ^ 2)) := by
+  set M : ℝ := 2 + 2 / a ^ 2
+  have hg := (Contour.integrable_one_add_abs_rpow (by norm_num : (1 : ℝ) < 7 / 4)).const_mul
+    (6 * M)
+  have hmeas : AEStronglyMeasurable (fun t : ℝ => Real.log (|t| + 3) / (a ^ 2 + t ^ 2)) volume := by
+    refine Continuous.aestronglyMeasurable (Continuous.div ?_ (by fun_prop)
+      (fun t => by positivity))
+    exact Continuous.log (by fun_prop) (fun t => by positivity)
+  refine hg.mono' hmeas (Eventually.of_forall (fun t => ?_))
+  have hp : 0 < a ^ 2 + t ^ 2 := by positivity
+  have h1t : 1 ≤ 1 + |t| := by linarith [abs_nonneg t]
+  have hl0 : 0 ≤ Real.log (|t| + 3) := Real.log_nonneg (by linarith [abs_nonneg t])
+  rw [Real.norm_eq_abs, abs_div, abs_of_nonneg hl0, abs_of_pos hp, div_le_iff₀ hp]
+  -- `log(|t|+3) ≤ 6 (1+|t|)^{1/4}`
+  have hlog : Real.log (|t| + 3) ≤ 6 * (1 + |t|) ^ (1 / 4 : ℝ) := by
+    have e : |t| + 3 ≤ 3 * (1 + |t|) := by linarith [abs_nonneg t]
+    have h1 : Real.log (|t| + 3) ≤ Real.log 3 + Real.log (1 + |t|) := by
+      rw [← Real.log_mul (by norm_num) (by linarith)]
+      exact Real.log_le_log (by positivity) e
+    have h2 : Real.log 3 ≤ 2 := by
+      rw [Real.log_le_iff_le_exp (by norm_num)]
+      have := Real.add_one_le_exp (2 : ℝ); linarith
+    have h3 : Real.log (1 + |t|) ≤ (1 + |t|) ^ (1 / 4 : ℝ) / (1 / 4) :=
+      Real.log_le_rpow_div (by linarith) (by norm_num)
+    have h4 : (1 : ℝ) ≤ (1 + |t|) ^ (1 / 4 : ℝ) := Real.one_le_rpow h1t (by norm_num)
+    linarith
+  have hM : (1 + |t|) ^ 2 ≤ M * (a ^ 2 + t ^ 2) := by
+    have : (1 + |t|) ^ 2 ≤ 2 + 2 * t ^ 2 := by
+      nlinarith [sq_abs t, sq_nonneg (1 - |t|)]
+    have h2 : 2 / a ^ 2 * (a ^ 2 + t ^ 2) = 2 + 2 * t ^ 2 / a ^ 2 := by field_simp
+    have h3 : 0 ≤ 2 * t ^ 2 / a ^ 2 := by positivity
+    nlinarith
+  have hsplit : (1 + |t|) ^ (1 / 4 : ℝ) = (1 + |t|) ^ (-(7 / 4 : ℝ)) * (1 + |t|) ^ 2 := by
+    rw [show (1 + |t|) ^ 2 = (1 + |t|) ^ (2 : ℝ) by norm_cast, ← Real.rpow_add (by linarith)]
+    norm_num
+  have hpos : 0 ≤ (1 + |t|) ^ (-(7 / 4 : ℝ)) := by positivity
+  calc Real.log (|t| + 3) ≤ 6 * ((1 + |t|) ^ (-(7 / 4 : ℝ)) * (1 + |t|) ^ 2) := by
+        rw [← hsplit]; exact hlog
+    _ ≤ 6 * ((1 + |t|) ^ (-(7 / 4 : ℝ)) * (M * (a ^ 2 + t ^ 2))) := by gcongr
+    _ = 6 * M * (1 + |t|) ^ (-(7 / 4 : ℝ)) * (a ^ 2 + t ^ 2) := by ring
+
+lemma re_F_eq {F : ℂ → ℂ} (hF : IsLogG0 F) {s : ℂ} (hs : s ∈ U) :
+    (F s).re = Real.log ‖G0 s‖ := by
+  rw [← hF.exp_eq s hs, Complex.norm_exp, Real.log_exp]
+
+lemma mono_reF {F : ℂ → ℂ} (hF : IsLogG0 F) {C : ℝ}
+    (hC : ∀ t σ : ℝ, 1 / 2 < σ → σ ≤ 2 → -(C * Real.log (|t| + 3)) ≤
+      (logDeriv G0 ((σ : ℂ) + t * I)).re) (t : ℝ) :
+    MonotoneOn (fun σ : ℝ => (F ((σ : ℂ) + t * I)).re + C * Real.log (|t| + 3) * σ)
+      (Ioc (1 / 2) 2) := by
+  have hder : ∀ σ : ℝ, 1 / 2 < σ → HasDerivAt
+      (fun σ : ℝ => (F ((σ : ℂ) + t * I)).re + C * Real.log (|t| + 3) * σ)
+      ((logDeriv G0 ((σ : ℂ) + t * I)).re + C * Real.log (|t| + 3)) σ := by
+    intro σ hσ
+    have hmem : (σ : ℂ) + t * I ∈ U := by show 1 / 2 < ((σ : ℂ) + t * I).re; simp; linarith
+    have h1 : HasDerivAt (fun w : ℂ => F (w + t * I)) (deriv G0 ((σ : ℂ) + t * I) /
+        G0 ((σ : ℂ) + t * I)) (σ : ℂ) := by
+      simpa using (hF.hasDeriv _ hmem).comp_add_const (σ : ℂ) (t * I)
+    have h2 := h1.real_of_complex
+    have h3 := (hasDerivAt_id σ).const_mul (C * Real.log (|t| + 3))
+    refine (h2.add h3).congr_deriv ?_
+    rw [logDeriv_apply]; simp
+  refine monotoneOn_of_hasDerivWithinAt_nonneg (convex_Ioc _ _)
+    (fun σ hσ => (hder σ hσ.1).continuousAt.continuousWithinAt)
+    (fun σ hσ => (hder σ (interior_subset hσ).1).hasDerivWithinAt) (fun σ hσ => ?_)
+  have hσ' := interior_subset hσ
+  linarith [hC t σ hσ'.1 hσ'.2]
+
+/-- Under RH, `G0` vanishes only on a null set of the critical line. -/
+lemma ae_G0_line_ne_zero (hRH : RiemannHypothesis) :
+    ∀ᵐ t : ℝ, G0 ((1 / 2 : ℂ) + t * I) ≠ 0 := by
+  set g : ℝ → ℂ := fun t => G0 ((1 / 2 : ℂ) + t * I) with hg
+  have hga : AnalyticOnNhd ℝ g univ := by
+    intro t _
+    have h1 : AnalyticAt ℂ G0 ((1 / 2 : ℂ) + t * I) :=
+      analyticOnNhd_G0 _ (by show 0 < ((1 / 2 : ℂ) + t * I).re; simp)
+    have h2 : AnalyticAt ℝ (fun t : ℝ => (1 / 2 : ℂ) + t * I) t :=
+      analyticAt_const.add ((Complex.ofRealCLM.analyticAt t).mul analyticAt_const)
+    exact AnalyticAt.comp (g := G0) (f := fun t : ℝ => (1 / 2 : ℂ) + t * I) (x := t)
+      (h1.restrictScalars (𝕜 := ℝ)) h2
+  rcases hga.eqOn_zero_or_eventually_ne_zero_of_preconnected isPreconnected_univ with h | h
+  · exfalso
+    have hV : AnalyticOnNhd ℂ G0 {s : ℂ | 0 < s.re} := analyticOnNhd_G0
+    have hfreq : ∃ᶠ z in 𝓝[≠] (1 / 2 : ℂ), G0 z = 0 := by
+      have htend : Tendsto (fun t : ℝ => (1 / 2 : ℂ) + t * I) (𝓝[≠] 0) (𝓝[≠] (1 / 2 : ℂ)) := by
+        refine tendsto_nhdsWithin_of_tendsto_nhds_of_eventually_within _ ?_ ?_
+        · have : Tendsto (fun t : ℝ => (1 / 2 : ℂ) + t * I) (𝓝 0) (𝓝 ((1 / 2 : ℂ) + (0 : ℝ) * I)) :=
+            (by fun_prop : Continuous (fun t : ℝ => (1 / 2 : ℂ) + t * I)).tendsto 0
+          simpa using this.mono_left nhdsWithin_le_nhds
+        · filter_upwards [self_mem_nhdsWithin] with t ht
+          intro e; apply ht; have := congrArg Complex.im e; simpa using this
+      refine htend.frequently (Eventually.frequently (Eventually.of_forall (fun t => ?_)))
+      exact h (mem_univ t)
+    have := hV.eqOn_zero_of_preconnected_of_frequently_eq_zero
+      (convex_halfSpace_re_gt (0 : ℝ)).isPreconnected (by simp) hfreq
+    have h2 := this (show (2 : ℂ) ∈ {s : ℂ | 0 < s.re} by simp)
+    exact G0_ne_zero hRH (by norm_num : (1 : ℝ) / 2 < (2 : ℂ).re) h2
+  · have := ae_restrict_le_codiscreteWithin (μ := (volume : Measure ℝ)) MeasurableSet.univ h
+    rwa [Measure.restrict_univ] at this
+
+/-- Poisson formula for `Re F` on `Re s = b > 1/2`. -/
+lemma poisson_reF (hRH : RiemannHypothesis) {F : ℂ → ℂ} (hF : IsLogG0 F) {a b : ℝ}
+    (hb : 1 / 2 < b) (ha : 0 < a) :
+    Integrable (fun t : ℝ => (F ((b : ℂ) + t * I)).re / (a ^ 2 + t ^ 2)) ∧
+    ∫ t : ℝ, (F ((b : ℂ) + t * I)).re / (a ^ 2 + t ^ 2) =
+      Real.pi / a * Real.log ‖G0 (((b + a : ℝ)) : ℂ)‖ := by
+  obtain ⟨C, hC⟩ := F_growth hRH hF hb
+  have hFd : DifferentiableOn ℂ F {s : ℂ | b ≤ s.re} := by
+    intro s hs
+    have hmem : s ∈ U := by show 1 / 2 < s.re; have : b ≤ s.re := hs; linarith
+    exact (hF.hasDeriv s hmem).differentiableAt.differentiableWithinAt
+  obtain ⟨hint, hval⟩ := Contour.poisson (F := F) (b := b) (C := C) (r := 1 / 2)
+    (by norm_num) (by norm_num) hFd hC (α := a) (y := 0) ha
+  have hre : ∀ t : ℝ, (F ((b : ℂ) + t * I) / (((a ^ 2 + (t - 0) ^ 2 : ℝ)) : ℂ)).re =
+      (F ((b : ℂ) + t * I)).re / (a ^ 2 + t ^ 2) := by
+    intro t; rw [Complex.div_ofReal_re, sub_zero]
+  refine ⟨hint.re.congr (Eventually.of_forall hre), ?_⟩
+  have h1 := congrArg Complex.re hval
+  have hI := integral_re hint
+  simp only [RCLike.re_to_complex, hre] at hI
+  rw [hI, h1]
+  have e : ((b + a : ℝ) : ℂ) + ((0 : ℝ) : ℂ) * I = ((b + a : ℝ) : ℂ) := by simp
+  rw [e, Complex.re_ofReal_mul, re_F_eq hF (by show 1 / 2 < (((b + a : ℝ)) : ℂ).re; simp; linarith)]
+
+/-- Poisson formula for `log ‖G0‖` on the critical line, under RH. -/
+theorem poisson_half (hRH : RiemannHypothesis) {a : ℝ} (ha : 0 < a) :
+    Integrable (fun t : ℝ => Real.log ‖G0 ((1 / 2 : ℂ) + t * I)‖ / (a ^ 2 + t ^ 2)) ∧
+    ∫ t : ℝ, Real.log ‖G0 ((1 / 2 : ℂ) + t * I)‖ / (a ^ 2 + t ^ 2) =
+      Real.pi / a * Real.log ‖G0 (((1 / 2 + a : ℝ)) : ℂ)‖ := by
+  obtain ⟨F, hF⟩ := exists_logG0 hRH
+  obtain ⟨C, hC0, hC⟩ := re_logDeriv_G0_ge hRH
+  set σ : ℕ → ℝ := fun n => 1 / 2 + 1 / ((n : ℝ) + 1) with hσ
+  have hσ1 : ∀ n, 1 / 2 < σ n := fun n => by
+    simp only [hσ]
+    have : (0 : ℝ) < 1 / ((n : ℝ) + 1) := by positivity
+    linarith
+  have hσ2 : ∀ n, σ n ≤ 2 := fun n => by
+    simp only [hσ]
+    have : 1 / ((n : ℝ) + 1) ≤ 1 := by
+      rw [div_le_one (by positivity)]; have := Nat.cast_nonneg (α := ℝ) n; linarith
+    linarith
+  have hσanti : Antitone σ := by
+    intro n m hnm
+    simp only [hσ]
+    have : (n : ℝ) ≤ m := Nat.cast_le.2 hnm
+    have := one_div_le_one_div_of_le (by positivity : (0 : ℝ) < (n : ℝ) + 1) (by linarith : (n : ℝ) + 1 ≤ (m : ℝ) + 1)
+    linarith
+  have hσt : Tendsto σ atTop (𝓝 (1 / 2)) := by
+    have := tendsto_one_div_add_atTop_nhds_zero_nat.const_add (1 / 2 : ℝ)
+    rw [add_zero] at this
+    exact this
+  set w : ℝ → ℝ := fun t => Real.log (|t| + 3) / (a ^ 2 + t ^ 2) with hw
+  have hwint : Integrable w := integrable_log_weight ha
+  set f : ℕ → ℝ → ℝ := fun n t => (F ((σ n : ℂ) + t * I)).re / (a ^ 2 + t ^ 2) +
+    C * (σ n - 1 / 2) * w t with hf
+  have hfint : ∀ n, Integrable (f n) := fun n =>
+    (poisson_reF hRH hF (hσ1 n) ha).1.add (hwint.const_mul _)
+  have hfval : ∀ n, ∫ t, f n t = Real.pi / a * Real.log ‖G0 (((σ n + a : ℝ)) : ℂ)‖ +
+      C * (σ n - 1 / 2) * ∫ t, w t := by
+    intro n
+    simp only [hf]
+    rw [integral_add (poisson_reF hRH hF (hσ1 n) ha).1 (hwint.const_mul _), integral_const_mul,
+      (poisson_reF hRH hF (hσ1 n) ha).2]
+  have hmono : ∀ t, Antitone fun n => f n t := by
+    intro t n m hnm
+    have hm := mono_reF hF hC t ⟨hσ1 m, hσ2 m⟩ ⟨hσ1 n, hσ2 n⟩ (hσanti hnm)
+    have hp : 0 < a ^ 2 + t ^ 2 := by positivity
+    simp only [hf, hw]
+    have e : ∀ k, (F ((σ k : ℂ) + t * I)).re / (a ^ 2 + t ^ 2) +
+        C * (σ k - 1 / 2) * (Real.log (|t| + 3) / (a ^ 2 + t ^ 2)) =
+        ((F ((σ k : ℂ) + t * I)).re + C * Real.log (|t| + 3) * σ k -
+          C * Real.log (|t| + 3) * (1 / 2)) / (a ^ 2 + t ^ 2) := by
+      intro k; field_simp; ring
+    rw [e, e]
+    exact div_le_div_of_nonneg_right (by linarith) hp.le
+  have hcontG : ∀ z : ℂ, 0 < z.re → G0 z ≠ 0 →
+      ContinuousAt (fun z => Real.log ‖G0 z‖) z := by
+    intro z hz hne
+    have hc : ContinuousAt G0 z :=
+      (differentiableOn_G0.differentiableAt
+        ((isOpen_lt continuous_const Complex.continuous_re).mem_nhds hz)).continuousAt
+    exact hc.norm.log (norm_ne_zero_iff.2 hne)
+  have hpt : ∀ᵐ t : ℝ, Tendsto (fun n => f n t) atTop
+      (𝓝 (Real.log ‖G0 ((1 / 2 : ℂ) + t * I)‖ / (a ^ 2 + t ^ 2))) := by
+    filter_upwards [ae_G0_line_ne_zero hRH] with t ht
+    have h1 : Tendsto (fun n => ((σ n : ℂ) + t * I)) atTop (𝓝 ((1 / 2 : ℂ) + t * I)) := by
+      have : Tendsto (fun x : ℝ => (x : ℂ) + t * I) (𝓝 (1 / 2)) (𝓝 (((1 / 2 : ℝ) : ℂ) + t * I)) :=
+        (by fun_prop : Continuous (fun x : ℝ => (x : ℂ) + t * I)).tendsto _
+      have h' := this.comp hσt
+      rw [show (((1 / 2 : ℝ)) : ℂ) = 1 / 2 by push_cast; ring] at h'
+      exact h'
+    have h2 := ((hcontG _ (by simp) ht).tendsto.comp h1)
+    have h3 : (fun n => (F ((σ n : ℂ) + t * I)).re) = fun n =>
+        ((fun z => Real.log ‖G0 z‖) ∘ (fun n => ((σ n : ℂ) + t * I))) n := by
+      funext n; simp only [Function.comp]
+      exact re_F_eq hF (by show 1 / 2 < ((σ n : ℂ) + t * I).re; rw [line_re]; exact hσ1 n)
+    have h4 : Tendsto (fun n => C * (σ n - 1 / 2) * w t) atTop (𝓝 (C * (1 / 2 - 1 / 2) * w t)) :=
+      ((hσt.sub_const _).const_mul C).mul_const _
+    rw [sub_self, mul_zero, zero_mul] at h4
+    have := (h2.div_const (a ^ 2 + t ^ 2)).add h4
+    rw [add_zero] at this
+    refine this.congr (fun n => ?_)
+    simp only [hf]
+    rw [congrFun h3 n]
+  have hlim : Tendsto (fun n => ∫ t, f n t) atTop
+      (𝓝 (Real.pi / a * Real.log ‖G0 (((1 / 2 + a : ℝ)) : ℂ)‖)) := by
+    simp_rw [hfval]
+    have h1 : Tendsto (fun n => (((σ n + a : ℝ)) : ℂ)) atTop (𝓝 (((1 / 2 + a : ℝ)) : ℂ)) :=
+      (Complex.continuous_ofReal.tendsto _).comp (hσt.add_const a)
+    have hne : G0 (((1 / 2 + a : ℝ)) : ℂ) ≠ 0 := G0_ne_zero hRH (by simp; linarith)
+    have h2 := ((hcontG _ (by simp; linarith) hne).tendsto.comp h1).const_mul (Real.pi / a)
+    have h3 : Tendsto (fun n => C * (σ n - 1 / 2) * ∫ t, w t) atTop
+        (𝓝 (C * (1 / 2 - 1 / 2) * ∫ t, w t)) :=
+      ((hσt.sub_const _).const_mul C).mul_const _
+    rw [sub_self, mul_zero, zero_mul] at h3
+    have := h2.add h3
+    rw [add_zero] at this
+    exact this
+  exact mct_antitone hfint (Eventually.of_forall hmono) hpt hlim
+
+end ZetaLog
+
+end
+
+section
+open Complex MeasureTheory Filter Topology Set Metric ComplexConjugate
+
+namespace ZetaLog
+
+lemma norm_log_le_rpow {z : ℂ} {δ x : ℝ} (hδ : 0 < δ) (h1 : δ ≤ ‖z‖) (h2 : ‖z‖ ≤ 1 + x)
+    (hx : 0 ≤ x) : ‖log z‖ ≤ (|Real.log δ| + 2 + Real.pi) * (1 + x) ^ (1 / 2 : ℝ) := by
+  have hz : 0 < ‖z‖ := lt_of_lt_of_le hδ h1
+  have hl1 : 0 ≤ Real.log (1 + x) := Real.log_nonneg (by linarith)
+  have habs : |Real.log ‖z‖| ≤ |Real.log δ| + Real.log (1 + x) := by
+    rcases le_or_gt 1 ‖z‖ with h | h
+    · rw [abs_of_nonneg (Real.log_nonneg h)]
+      have := Real.log_le_log hz h2
+      linarith [abs_nonneg (Real.log δ)]
+    · rw [abs_of_neg (Real.log_neg hz h)]
+      have := Real.log_le_log hδ h1
+      linarith [neg_abs_le (Real.log δ)]
+  have hr : Real.log (1 + x) ≤ (1 + x) ^ (1 / 2 : ℝ) / (1 / 2) :=
+    Real.log_le_rpow_div (by linarith) (by norm_num)
+  have h1x : (1 : ℝ) ≤ (1 + x) ^ (1 / 2 : ℝ) := Real.one_le_rpow (by linarith) (by norm_num)
+  have := norm_log_le z
+  have hpi := Real.pi_pos
+  have : (|Real.log δ| + Real.pi) * 1 ≤ (|Real.log δ| + Real.pi) * (1 + x) ^ (1 / 2 : ℝ) :=
+    mul_le_mul_of_nonneg_left h1x (by positivity)
+  nlinarith
+
+/-- Poisson formula for `log|s| - log|s-1|` on `Re s = b`, `1/2 < b < 1`. -/
+lemma poisson_elem {a b : ℝ} (ha : 0 < a) (hb : 1 / 2 < b) (hb1 : b < 1) :
+    Integrable (fun t : ℝ => (Real.log ‖(b : ℂ) + t * I‖ - Real.log ‖(b : ℂ) + t * I - 1‖) /
+      (a ^ 2 + t ^ 2)) ∧
+    ∫ t : ℝ, (Real.log ‖(b : ℂ) + t * I‖ - Real.log ‖(b : ℂ) + t * I - 1‖) / (a ^ 2 + t ^ 2) =
+      Real.pi / a * (Real.log (a + b) - Real.log (a + 1 - b)) := by
+  set c : ℝ := 2 * b - 1 with hc
+  set Ψ : ℂ → ℂ := fun s => log s - log (s - c) with hΨ
+  have hb0 : 0 < b := by linarith
+  have hre1 : ∀ s : ℂ, b ≤ s.re → 0 < s.re := fun s hs => by linarith
+  have hre2 : ∀ s : ℂ, b ≤ s.re → 0 < (s - c).re := fun s hs => by
+    simp only [sub_re, ofReal_re, hc]; linarith
+  have hd : DifferentiableOn ℂ Ψ {s : ℂ | b ≤ s.re} := by
+    intro s hs
+    have hs' : b ≤ s.re := hs
+    have h1 : DifferentiableAt ℂ log s :=
+      differentiableAt_log (mem_slitPlane_iff.2 (Or.inl (hre1 s hs')))
+    have h2 : DifferentiableAt ℂ (fun s => log (s - c)) s :=
+      (differentiableAt_log (mem_slitPlane_iff.2 (Or.inl (hre2 s hs')))).comp s
+        (differentiableAt_id.sub_const _)
+    exact (h1.sub h2).differentiableWithinAt
+  set K : ℝ := (|Real.log b| + 2 + Real.pi) + (|Real.log (1 - b)| + 2 + Real.pi)
+  have hB : ∀ s : ℂ, b ≤ s.re → ‖Ψ s‖ ≤ K * (1 + ‖s‖) ^ (1 / 2 : ℝ) := by
+    intro s hs
+    have hn0 : 0 ≤ ‖s‖ := norm_nonneg _
+    have e1 : ‖log s‖ ≤ (|Real.log b| + 2 + Real.pi) * (1 + ‖s‖) ^ (1 / 2 : ℝ) := by
+      refine norm_log_le_rpow hb0 ?_ (by linarith) hn0
+      exact hs.trans (Complex.re_le_norm s)
+    have e2 : ‖log (s - c)‖ ≤ (|Real.log (1 - b)| + 2 + Real.pi) * (1 + ‖s‖) ^ (1 / 2 : ℝ) := by
+      refine norm_log_le_rpow (by linarith) ?_ ?_ hn0
+      · have := Complex.re_le_norm (s - c)
+        simp only [sub_re, ofReal_re, hc] at this; linarith
+      · have := norm_sub_le s (c : ℂ)
+        rw [norm_real, Real.norm_eq_abs, abs_of_pos (by rw [hc]; linarith)] at this
+        rw [hc] at this; linarith
+    calc ‖Ψ s‖ ≤ ‖log s‖ + ‖log (s - c)‖ := norm_sub_le _ _
+      _ ≤ _ := by rw [add_mul]; exact add_le_add e1 e2
+  obtain ⟨hint, hval⟩ := Contour.poisson (F := Ψ) (b := b) (C := K) (r := 1 / 2)
+    (by norm_num) (by norm_num) hd hB (α := a) (y := 0) ha
+  have hnorm : ∀ t : ℝ, ‖(b : ℂ) + t * I - c‖ = ‖(b : ℂ) + t * I - 1‖ := by
+    intro t
+    have : (b : ℂ) + t * I - 1 = -conj ((b : ℂ) + t * I - c) := by
+      apply Complex.ext <;> simp [hc] <;> ring
+    rw [this, norm_neg, Complex.norm_conj]
+  have hre : ∀ t : ℝ, (Ψ ((b : ℂ) + t * I) / (((a ^ 2 + (t - 0) ^ 2 : ℝ)) : ℂ)).re =
+      (Real.log ‖(b : ℂ) + t * I‖ - Real.log ‖(b : ℂ) + t * I - 1‖) / (a ^ 2 + t ^ 2) := by
+    intro t
+    rw [Complex.div_ofReal_re, sub_zero]
+    simp only [hΨ, sub_re, log_re]
+    rw [hnorm]
+  refine ⟨hint.re.congr (Eventually.of_forall hre), ?_⟩
+  have h1 := congrArg Complex.re hval
+  have hI := integral_re hint
+  simp only [RCLike.re_to_complex, hre] at hI
+  rw [hI, h1]
+  have e : ((b + a : ℝ) : ℂ) + ((0 : ℝ) : ℂ) * I = ((b + a : ℝ) : ℂ) := by simp
+  rw [e, Complex.re_ofReal_mul]
+  simp only [hΨ, sub_re]
+  rw [← Complex.ofReal_sub, Complex.log_ofReal_re, Complex.log_ofReal_re,
+    show b + a = a + b by ring, show a + b - c = a + 1 - b by rw [hc]; ring]
+
+lemma log_norm_G0 {s : ℂ} (hs1 : s ≠ 1) (hs0 : s ≠ 0) (hz : riemannZeta s ≠ 0) :
+    Real.log ‖G0 s‖ = Real.log ‖riemannZeta s‖ + Real.log ‖s - 1‖ - Real.log ‖s‖ := by
+  rw [G0_of_ne hs1, norm_div, norm_mul,
+    Real.log_div (mul_ne_zero (norm_ne_zero_iff.2 (sub_ne_zero.2 hs1)) (norm_ne_zero_iff.2 hz))
+      (norm_ne_zero_iff.2 hs0),
+    Real.log_mul (norm_ne_zero_iff.2 (sub_ne_zero.2 hs1)) (norm_ne_zero_iff.2 hz)]
+  ring
+
+lemma log_norm_zeta_half (t : ℝ) :
+    Real.log ‖riemannZeta ((1 / 2 : ℂ) + t * I)‖ = Real.log ‖G0 ((1 / 2 : ℂ) + t * I)‖ := by
+  set s : ℂ := (1 / 2 : ℂ) + t * I with hs
+  have hs1 : s ≠ 1 := by intro h; have := congrArg Complex.re h; simp [hs] at this
+  have hs0 : s ≠ 0 := by intro h; have := congrArg Complex.re h; simp [hs] at this
+  have hn : ‖s - 1‖ = ‖s‖ := by
+    have : s - 1 = -conj s := by apply Complex.ext <;> simp [hs] <;> norm_num
+    rw [this, norm_neg, Complex.norm_conj]
+  by_cases hz : riemannZeta s = 0
+  · rw [hz, G0_of_ne hs1, hz]; simp
+  · rw [log_norm_G0 hs1 hs0 hz, hn]; ring
+
+/-- Poisson formula for `log|ζ|` on `Re s = b`, `1/2 ≤ b < 1`, under RH. -/
+theorem poisson_zeta (hRH : RiemannHypothesis) {a b : ℝ} (ha : 0 < a) (hb : 1 / 2 ≤ b)
+    (hb1 : b < 1) :
+    Integrable (fun t : ℝ => Real.log ‖riemannZeta ((b : ℂ) + t * I)‖ / (a ^ 2 + t ^ 2)) ∧
+    ∫ t : ℝ, Real.log ‖riemannZeta ((b : ℂ) + t * I)‖ / (a ^ 2 + t ^ 2) =
+      Real.pi / a * (Real.log ‖G0 (((b + a : ℝ)) : ℂ)‖ + Real.log (a + b) -
+        Real.log (a + 1 - b)) := by
+  rcases eq_or_lt_of_le hb with hb' | hb'
+  · subst hb'
+    obtain ⟨h1, h2⟩ := poisson_half hRH ha
+    have e : ∀ t : ℝ, Real.log ‖riemannZeta (((1 / 2 : ℝ) : ℂ) + t * I)‖ / (a ^ 2 + t ^ 2) =
+        Real.log ‖G0 ((1 / 2 : ℂ) + t * I)‖ / (a ^ 2 + t ^ 2) := by
+      intro t; rw [show (((1 / 2 : ℝ)) : ℂ) = 1 / 2 by push_cast; ring, log_norm_zeta_half]
+    simp_rw [e]
+    refine ⟨h1, ?_⟩
+    rw [h2, show a + 1 - 1 / 2 = a + 1 / 2 by ring, show (1 / 2 : ℝ) + a = 1 / 2 + a from rfl]
+    ring
+  · obtain ⟨F, hF⟩ := exists_logG0 hRH
+    obtain ⟨hF1, hF2⟩ := poisson_reF hRH hF hb' ha
+    obtain ⟨hE1, hE2⟩ := poisson_elem ha hb' hb1
+    have e : ∀ t : ℝ, Real.log ‖riemannZeta ((b : ℂ) + t * I)‖ / (a ^ 2 + t ^ 2) =
+        (F ((b : ℂ) + t * I)).re / (a ^ 2 + t ^ 2) +
+        (Real.log ‖(b : ℂ) + t * I‖ - Real.log ‖(b : ℂ) + t * I - 1‖) / (a ^ 2 + t ^ 2) := by
+      intro t
+      set s : ℂ := (b : ℂ) + t * I with hs
+      have hmem : s ∈ U := by show 1 / 2 < s.re; rw [hs, line_re]; exact hb'
+      have hs1 : s ≠ 1 := by
+        intro h; have := congrArg Complex.re h; rw [hs, line_re] at this; simp at this; linarith
+      have hs0 : s ≠ 0 := by
+        intro h; have := congrArg Complex.re h; rw [hs, line_re] at this; simp at this; linarith
+      have hz := zeta_ne_zero_of_U hRH (by rw [hs, line_re]; exact hb') hs1
+      rw [re_F_eq hF hmem, log_norm_G0 hs1 hs0 hz]
+      ring
+    simp_rw [e]
+    refine ⟨hF1.add hE1, ?_⟩
+    rw [integral_add hF1 hE1, hF2, hE2]
+    ring
+
+end ZetaLog
+
+end
+
+section
+open Complex MeasureTheory Filter Topology Set Metric
+
+namespace ZetaLog
+
+lemma integral_kernel_le {β y σ0 σ1 : ℝ} (h : σ0 ≤ σ1) :
+    ∫ u in σ0..σ1, |y| / ((u - β) ^ 2 + y ^ 2) ≤ Real.pi := by
+  by_cases hy : y = 0
+  · simp [hy]; exact Real.pi_pos.le
+  have hα : 0 < |y| := abs_pos.2 hy
+  set g : ℝ → ℝ := fun u => |y| * (1 / (|y| ^ 2 + (u - β) ^ 2)) with hg
+  have he : (fun u : ℝ => |y| / ((u - β) ^ 2 + y ^ 2)) = g := by
+    funext u; simp only [hg]; rw [sq_abs]; field_simp; ring
+  have hgi : Integrable g :=
+    ((Contour.integrable_inv_sq_add hα).comp_sub_right β).const_mul |y|
+  have hgv : ∫ u, g u = Real.pi := by
+    simp only [hg]
+    rw [integral_const_mul, integral_sub_right_eq_self (fun u => 1 / (|y| ^ 2 + u ^ 2)) β,
+      Contour.integral_inv_sq_add hα]
+    field_simp
+  rw [he, intervalIntegral.integral_of_le h, ← hgv]
+  refine setIntegral_le_integral hgi (Eventually.of_forall (fun u => ?_))
+  simp only [hg, Pi.zero_apply]
+  have : 0 < |y| ^ 2 + (u - β) ^ 2 := by positivity
+  positivity
+
+lemma continuousOn_logDeriv_G0 (hRH : RiemannHypothesis) : ContinuousOn (logDeriv G0) U := by
+  intro s hs
+  have hs0 : 0 < s.re := U_sub hs
+  have hopen : {s : ℂ | 0 < s.re} ∈ 𝓝 s :=
+    (isOpen_lt continuous_const Complex.continuous_re).mem_nhds hs0
+  have h1 : ContinuousAt (deriv G0) s :=
+    (analyticOnNhd_G0.deriv s hs0).continuousAt
+  have h2 : ContinuousAt G0 s := (differentiableOn_G0.differentiableAt hopen).continuousAt
+  have : ContinuousAt (fun s => deriv G0 s / G0 s) s := h1.div h2 (G0_ne_zero hRH hs)
+  exact (this.congr (Eventually.of_forall (fun z => (logDeriv_apply G0 z).symm))).continuousWithinAt
+
+lemma int_im_logDeriv_G0_le (hRH : RiemannHypothesis) : ∃ D : ℝ, 0 < D ∧ ∀ t σ : ℝ, 1 / 2 < σ →
+    σ ≤ 2 → ∫ u in σ..2, |(logDeriv G0 ((u : ℂ) + t * I)).im| ≤ D * Real.log (|t| + 3) := by
+  obtain ⟨C, hC, hpf⟩ := pf_G0 hRH
+  refine ⟨(Real.pi + 2) * C, by positivity, fun t σ hσ hσ2 => ?_⟩
+  obtain ⟨Z, m, hZ, hsum, hbd⟩ := hpf t
+  set L := Real.log (|t| + 3) with hL
+  have hL1 : 1 ≤ L := one_le_log_add_three t
+  set k : ℂ → ℝ → ℝ := fun ρ u => |t - ρ.im| / ((u - ρ.re) ^ 2 + (t - ρ.im) ^ 2) with hk
+  have hkc : ∀ ρ ∈ Z, ContinuousOn (k ρ) (Icc σ 2) := by
+    intro ρ hρ
+    have := hZ ρ hρ
+    refine ContinuousOn.div continuousOn_const (by fun_prop) (fun u hu => ?_)
+    have : 0 < u - ρ.re := by linarith [hu.1]
+    positivity
+  have hpt : ∀ u ∈ Icc σ 2, |(logDeriv G0 ((u : ℂ) + t * I)).im| ≤
+      (∑ ρ ∈ Z, (m ρ : ℝ) * k ρ u) + C * L := by
+    intro u hu
+    have hu1 : 1 / 2 < u := lt_of_lt_of_le hσ hu.1
+    set s : ℂ := (u : ℂ) + t * I
+    set S := ∑ ρ ∈ Z, (m ρ : ℂ) / (s - ρ)
+    have hE := hbd u hu1 hu.2
+    have h1 : |(logDeriv G0 s).im| ≤ |S.im| + C * L := by
+      have := Complex.abs_im_le_norm (logDeriv G0 s - S)
+      rw [sub_im] at this
+      have h2 : |(logDeriv G0 s).im| ≤ |S.im| + |(logDeriv G0 s).im - S.im| := by
+        have := abs_add_le S.im ((logDeriv G0 s).im - S.im)
+        rw [add_sub_cancel] at this; linarith
+      linarith
+    have h3 : |S.im| ≤ ∑ ρ ∈ Z, (m ρ : ℝ) * k ρ u := by
+      simp only [S, Complex.im_sum]
+      refine (Finset.abs_sum_le_sum_abs _ _).trans (le_of_eq (Finset.sum_congr rfl (fun ρ hρ => ?_)))
+      have hpos : 0 < u - ρ.re := by linarith [hZ ρ hρ]
+      have hden : 0 < (u - ρ.re) ^ 2 + (t - ρ.im) ^ 2 := by positivity
+      have e : ((m ρ : ℂ) / (s - ρ)).im = -((m ρ : ℝ) * (t - ρ.im)) /
+          ((u - ρ.re) ^ 2 + (t - ρ.im) ^ 2) := by
+        rw [Complex.div_im, Complex.normSq_apply]
+        simp [s]; ring
+      rw [e, abs_div, abs_of_pos hden, abs_neg, abs_mul, Nat.abs_cast]
+      simp only [hk]; ring
+    linarith
+  have hfi : IntervalIntegrable (fun u : ℝ => |(logDeriv G0 ((u : ℂ) + t * I)).im|) volume σ 2 := by
+    refine ContinuousOn.intervalIntegrable ?_
+    rw [uIcc_of_le (by linarith)]
+    refine ContinuousOn.abs (Complex.continuous_im.comp_continuousOn
+      ((continuousOn_logDeriv_G0 hRH).comp (by fun_prop) (fun u hu => ?_)))
+    show 1 / 2 < ((u : ℂ) + t * I).re
+    rw [line_re]; linarith [hu.1]
+  have hgi : IntervalIntegrable (fun u => (∑ ρ ∈ Z, (m ρ : ℝ) * k ρ u) + C * L) volume σ 2 := by
+    refine ContinuousOn.intervalIntegrable ?_
+    rw [uIcc_of_le (by linarith)]
+    exact (continuousOn_finset_sum _ (fun ρ hρ => (hkc ρ hρ).const_smul (m ρ : ℝ))).add
+      continuousOn_const
+  calc ∫ u in σ..2, |(logDeriv G0 ((u : ℂ) + t * I)).im|
+      ≤ ∫ u in σ..2, ((∑ ρ ∈ Z, (m ρ : ℝ) * k ρ u) + C * L) :=
+        intervalIntegral.integral_mono_on (by linarith) hfi hgi hpt
+    _ = (∑ ρ ∈ Z, (m ρ : ℝ) * (∫ u in σ..2, k ρ u)) + (2 - σ) * (C * L) := by
+        rw [intervalIntegral.integral_add, intervalIntegral.integral_finset_sum,
+          intervalIntegral.integral_const]
+        · simp_rw [intervalIntegral.integral_const_mul, smul_eq_mul]
+        · intro ρ hρ
+          rw [← uIcc_of_le (by linarith : σ ≤ 2)] at hkc
+          exact ((hkc ρ hρ).intervalIntegrable).const_mul _
+        · rw [← uIcc_of_le (by linarith : σ ≤ 2)] at hkc
+          have := IntervalIntegrable.sum (μ := volume) Z (fun ρ hρ => ((hkc ρ hρ).intervalIntegrable).const_mul
+            (m ρ : ℝ))
+          refine this.congr (fun u _ => ?_)
+          simp [Finset.sum_apply]
+        · exact intervalIntegrable_const
+    _ ≤ (∑ ρ ∈ Z, (m ρ : ℝ) * Real.pi) + 2 * (C * L) := by
+        refine add_le_add (Finset.sum_le_sum (fun ρ hρ => mul_le_mul_of_nonneg_left
+          (integral_kernel_le (by linarith)) (Nat.cast_nonneg _)))
+          (mul_le_mul_of_nonneg_right (by linarith) (by positivity))
+    _ = Real.pi * (∑ ρ ∈ Z, (m ρ : ℝ)) + 2 * (C * L) := by rw [Finset.mul_sum]; simp_rw [mul_comm]
+    _ ≤ Real.pi * (C * L) + 2 * (C * L) := by gcongr
+    _ = (Real.pi + 2) * C * L := by ring
+
+end ZetaLog
+
+end
+
+section
+open Complex MeasureTheory Filter Topology Set Metric
+
+namespace ZetaLog
+
+lemma h_two_bound : ∃ T0 : ℝ, 0 ≤ T0 ∧ ∀ t : ℝ,
+    ‖∫ u in Ioi (2 : ℝ), deriv riemannZeta ((u : ℂ) + t * I) / riemannZeta ((u : ℂ) + t * I)‖ ≤ T0 := by
+  obtain ⟨K2, hK20, hK2⟩ := logDeriv_zeta_le
+  set g : ℝ → ℝ := fun u => 4 * K2 * Real.exp (-(Real.log 2) * u) with hg
+  have hgi : IntegrableOn g (Ioi 2) :=
+    (exp_neg_integrableOn_Ioi 2 (Real.log_pos (by norm_num))).const_mul _
+  refine ⟨∫ u in Ioi (2 : ℝ), g u, setIntegral_nonneg measurableSet_Ioi
+    (fun u _ => by simp only [hg]; positivity), fun t => ?_⟩
+  refine norm_integral_le_of_norm_le hgi ?_
+  rw [ae_restrict_iff' measurableSet_Ioi]
+  refine Eventually.of_forall (fun u hu => ?_)
+  have hu2 : 2 ≤ u := le_of_lt hu
+  have := hK2 ((u : ℂ) + t * I) (by rw [line_re]; exact hu2)
+  rw [line_re] at this
+  calc _ ≤ (2 : ℝ) ^ (2 - u) * K2 := this
+    _ = g u := by
+      simp only [hg]
+      rw [Real.rpow_def_of_pos (by norm_num), show Real.log 2 * (2 - u) =
+        2 * Real.log 2 + (-(Real.log 2) * u) by ring, Real.exp_add,
+        show 2 * Real.log 2 = Real.log 4 by
+          rw [show (4 : ℝ) = 2 ^ 2 by norm_num, Real.log_pow]; norm_num,
+        Real.exp_log (by norm_num)]
+      ring
+
+/-- `|Im h(σ,t)| ≤ D log(|t|+3)` uniformly for `1/2 < σ ≤ 2`, under RH. -/
+theorem im_h_bound (hRH : RiemannHypothesis) : ∃ D : ℝ, 0 < D ∧ ∀ t σ : ℝ, t ≠ 0 → 1 / 2 < σ →
+    σ ≤ 2 → |(-(∫ u in Ioi σ, deriv riemannZeta ((u : ℂ) + t * I) /
+      riemannZeta ((u : ℂ) + t * I))).im| ≤ D * Real.log (|t| + 3) := by
+  obtain ⟨F, hF⟩ := exists_logG0 hRH
+  obtain ⟨D1, hD1, hint⟩ := int_im_logDeriv_G0_le hRH
+  obtain ⟨T0, hT0, hT⟩ := h_two_bound
+  refine ⟨T0 + 4 * Real.pi + D1, by positivity, fun t σ ht hσ hσ2 => ?_⟩
+  set L := Real.log (|t| + 3)
+  have hL1 : 1 ≤ L := one_le_log_add_three t
+  have harg : ∀ v : ℝ, |(log ((v : ℂ) + t * I) - log ((v : ℂ) + t * I - 1)).im| ≤ 2 * Real.pi := by
+    intro v
+    rw [sub_im, log_im, log_im]
+    have := abs_arg_le_pi ((v : ℂ) + t * I)
+    have := abs_arg_le_pi ((v : ℂ) + t * I - 1)
+    calc _ ≤ |arg ((v : ℂ) + t * I)| + |arg ((v : ℂ) + t * I - 1)| := abs_sub _ _
+      _ ≤ _ := by linarith
+  have hσe := h_eq hRH hF hσ ht
+  have h2e := h_eq hRH hF (by norm_num : (1 : ℝ) / 2 < 2) ht
+  -- the `F`-difference
+  have hFTC : (F (((2 : ℝ) : ℂ) + t * I)).im - (F ((σ : ℂ) + t * I)).im =
+      ∫ u in σ..2, (logDeriv G0 ((u : ℂ) + t * I)).im := by
+    symm
+    refine intervalIntegral.integral_eq_sub_of_hasDerivAt (f := fun u : ℝ => (F ((u : ℂ) + t * I)).im) (fun u hu => ?_) ?_
+    · rw [uIcc_of_le (by linarith)] at hu
+      have hmem : (u : ℂ) + t * I ∈ U := by
+        show 1 / 2 < ((u : ℂ) + t * I).re; rw [line_re]; linarith [hu.1]
+      have h0 : HasDerivAt (fun w : ℂ => F (w + t * I)) (deriv G0 ((u : ℂ) + t * I) /
+          G0 ((u : ℂ) + t * I)) (u : ℂ) := by
+        simpa using (hF.hasDeriv _ hmem).comp_add_const (u : ℂ) (t * I)
+      have h2 := (h0.const_mul (-I)).real_of_complex
+      rw [logDeriv_apply]
+      refine h2.congr_of_eventuallyEq (Eventually.of_forall (fun v => ?_)) |>.congr_deriv ?_
+      · simp
+      · simp
+    · refine ContinuousOn.intervalIntegrable ?_
+      rw [uIcc_of_le (by linarith)]
+      refine Complex.continuous_im.comp_continuousOn
+        ((continuousOn_logDeriv_G0 hRH).comp (by fun_prop) (fun u hu => ?_))
+      show 1 / 2 < ((u : ℂ) + t * I).re
+      rw [line_re]; linarith [hu.1]
+  have hFd : |(F (((2 : ℝ) : ℂ) + t * I)).im - (F ((σ : ℂ) + t * I)).im| ≤ D1 * L := by
+    rw [hFTC]
+    exact (intervalIntegral.abs_integral_le_integral_abs (by linarith)).trans (hint t σ hσ hσ2)
+  have hF2 : |(F (((2 : ℝ) : ℂ) + t * I)).im| ≤ T0 + 2 * Real.pi := by
+    have := congrArg Complex.im h2e
+    rw [neg_im, add_sub_assoc, add_im] at this
+    have hn := (Complex.abs_im_le_norm (∫ u in Ioi (2 : ℝ), deriv riemannZeta ((u : ℂ) + t * I) /
+      riemannZeta ((u : ℂ) + t * I))).trans (hT t)
+    have ha := harg 2
+    rw [abs_le] at hn ha ⊢
+    constructor <;> linarith [hn.1, hn.2, ha.1, ha.2]
+  have := congrArg Complex.im hσe
+  rw [add_sub_assoc, add_im] at this
+  rw [this]
+  have ha := harg σ
+  rw [abs_le] at hFd hF2 ha ⊢
+  have hpi := Real.pi_pos
+  constructor <;> nlinarith [hFd.1, hFd.2, hF2.1, hF2.2, ha.1, ha.2]
+
+end ZetaLog
+
+end
+
+section
+open Complex MeasureTheory Filter Topology Set Metric
+
+namespace ZetaLog
+
+/-- Integrability of `ζ'/ζ` along a horizontal ray avoiding zeros. -/
+lemma integrableOn_ray_gen (hRH : RiemannHypothesis) {b t : ℝ} (ht : t ≠ 0)
+    (hz : ∀ u : ℝ, b ≤ u → riemannZeta ((u : ℂ) + t * I) ≠ 0) :
+    IntegrableOn (fun u : ℝ => deriv riemannZeta ((u : ℂ) + t * I) / riemannZeta ((u : ℂ) + t * I))
+      (Ioi b) := by
+  set φ := fun u : ℝ => deriv riemannZeta ((u : ℂ) + t * I) / riemannZeta ((u : ℂ) + t * I)
+  have hcont : ContinuousOn φ (Ici b) := by
+    intro u hu
+    have hs1 : (u : ℂ) + t * I ≠ 1 := by
+      intro h; have := congrArg Complex.im h; simp at this; exact ht this
+    have := (continuousAt_logDeriv_zeta hs1 (hz u hu)).comp
+      (f := fun v : ℝ => (v : ℂ) + t * I) (by fun_prop)
+    exact this.continuousWithinAt
+  set c := max b 2
+  have h1 : IntegrableOn φ (Icc b c) := (hcont.mono Icc_subset_Ici_self).integrableOn_Icc
+  have h2 : IntegrableOn φ (Ioi c) :=
+    integrableOn_logDeriv_ray hRH (b := c) (by linarith [le_max_right b 2]) ht
+  refine (h1.union h2).mono_set (fun u hu => ?_)
+  by_cases huc : u ≤ c
+  · left; exact ⟨le_of_lt hu, huc⟩
+  · right; exact lt_of_not_ge huc
+
+/-- Continuity of `σ ↦ ∫_{σ}^∞ ζ'/ζ(u+it) du` from the right at `1/2`. -/
+lemma tendsto_ray_integral (hRH : RiemannHypothesis) {t : ℝ} (ht : t ≠ 0)
+    (hz : riemannZeta ((1 / 2 : ℂ) + t * I) ≠ 0) :
+    Tendsto (fun σ : ℝ => ∫ u in Ioi σ, deriv riemannZeta ((u : ℂ) + t * I) /
+      riemannZeta ((u : ℂ) + t * I)) (𝓝[>] (1 / 2))
+      (𝓝 (∫ u in Ioi (1 / 2 : ℝ), deriv riemannZeta ((u : ℂ) + t * I) /
+        riemannZeta ((u : ℂ) + t * I))) := by
+  set φ := fun u : ℝ => deriv riemannZeta ((u : ℂ) + t * I) / riemannZeta ((u : ℂ) + t * I)
+  have hzu : ∀ u : ℝ, 1 / 2 ≤ u → riemannZeta ((u : ℂ) + t * I) ≠ 0 := by
+    intro u hu
+    rcases eq_or_lt_of_le hu with h | h
+    · rw [← h]; convert hz using 2; push_cast; ring
+    · have hs1 : (u : ℂ) + t * I ≠ 1 := by
+        intro e; have := congrArg Complex.im e; simp at this; exact ht this
+      exact zeta_ne_zero_of_U hRH (by rw [line_re]; exact h) hs1
+  have hint : IntegrableOn φ (Ioi (1 / 2)) := integrableOn_ray_gen hRH ht hzu
+  simp_rw [← integral_indicator measurableSet_Ioi]
+  refine tendsto_integral_filter_of_dominated_convergence (fun u => ‖(Ioi (1 / 2 : ℝ)).indicator φ u‖)
+    ?_ ?_ (hint.integrable_indicator measurableSet_Ioi).norm ?_
+  · filter_upwards [self_mem_nhdsWithin] with σ hσ
+    exact ((hint.mono_set (Ioi_subset_Ioi (le_of_lt hσ))).integrable_indicator
+      measurableSet_Ioi).aestronglyMeasurable
+  · filter_upwards [self_mem_nhdsWithin] with σ hσ
+    refine Eventually.of_forall (fun u => ?_)
+    by_cases hu : u ∈ Ioi σ
+    · have hu' : u ∈ Ioi (1 / 2 : ℝ) := show (1 / 2 : ℝ) < u from lt_trans hσ hu
+      rw [indicator_of_mem hu, indicator_of_mem hu']
+    · rw [indicator_of_notMem hu, norm_zero]; exact norm_nonneg _
+  · refine Eventually.of_forall (fun u => ?_)
+    by_cases hu : 1 / 2 < u
+    · rw [indicator_of_mem (show u ∈ Ioi (1 / 2 : ℝ) from hu)]
+      refine tendsto_const_nhds.congr' ?_
+      filter_upwards [Ioo_mem_nhdsGT hu] with σ hσ
+      rw [indicator_of_mem (show u ∈ Ioi σ from hσ.2)]
+    · rw [indicator_of_notMem (show u ∉ Ioi (1 / 2 : ℝ) from hu)]
+      refine tendsto_const_nhds.congr' ?_
+      filter_upwards [self_mem_nhdsWithin] with σ hσ
+      rw [indicator_of_notMem (show u ∉ Ioi σ from fun h => hu (lt_trans hσ h))]
+
+end ZetaLog
+
+end
+
+section
+open Complex MeasureTheory Filter Topology Set Metric
+
+namespace ZetaLog
+
+/-- `sbmArgumentParameter` on the critical line `b = 1/2`, by dominated convergence. -/
+theorem argParam_half (hRH : RiemannHypothesis) {a : ℝ} (ha : 0 < a) (hab : a + 1 / 2 ≠ 1) :
+    IntegrableOn (fun t : ℝ => t * (-(∫ u in Ioi (1 / 2 : ℝ), deriv riemannZeta ((u : ℂ) + t * I) /
+      riemannZeta ((u : ℂ) + t * I))).im / (a ^ 2 + t ^ 2) ^ 2) (Ioi 0) ∧
+    ∫ t in Ioi (0 : ℝ), t * (-(∫ u in Ioi (1 / 2 : ℝ), deriv riemannZeta ((u : ℂ) + t * I) /
+      riemannZeta ((u : ℂ) + t * I))).im / (a ^ 2 + t ^ 2) ^ 2 =
+      Real.pi / (4 * a) * (deriv riemannZeta ((a + 1 / 2 : ℝ) : ℂ) /
+        riemannZeta ((a + 1 / 2 : ℝ) : ℂ)).re +
+      Real.pi / 2 * (1 / (a ^ 2 - (1 - 1 / 2) ^ 2) - 1 / a ^ 2) := by
+  set G : ℝ → ℝ → ℝ := fun σ t => t * (-(∫ u in Ioi σ, deriv riemannZeta ((u : ℂ) + t * I) /
+      riemannZeta ((u : ℂ) + t * I))).im / (a ^ 2 + t ^ 2) ^ 2 with hG
+  set V : ℝ → ℝ := fun σ => Real.pi / (4 * a) * (deriv riemannZeta ((a + σ : ℝ) : ℂ) /
+        riemannZeta ((a + σ : ℝ) : ℂ)).re +
+      Real.pi / 2 * (1 / (a ^ 2 - (1 - σ) ^ 2) - 1 / a ^ 2) with hV
+  show IntegrableOn (G (1 / 2)) (Ioi 0) ∧ ∫ t in Ioi (0 : ℝ), G (1 / 2) t = V (1 / 2)
+  have ha2 : a ≠ 1 / 2 := by intro h; apply hab; rw [h]; norm_num
+  set δ : ℝ := min (1 / 2) |1 / 2 - a| with hδ
+  have hδ0 : 0 < δ := lt_min (by norm_num) (abs_pos.2 (sub_ne_zero.2 (Ne.symm ha2)))
+  have hgood : ∀ σ : ℝ, 1 / 2 < σ → σ < 1 / 2 + δ →
+      IntegrableOn (G σ) (Ioi 0) ∧ ∫ t in Ioi (0 : ℝ), G σ t = V σ := by
+    intro σ hσ hσδ
+    have hσ1 : σ < 1 := by linarith [min_le_left (1 / 2 : ℝ) |1 / 2 - a|]
+    have habσ : a + σ ≠ 1 := by
+      rcases lt_or_gt_of_ne ha2 with h | h
+      · have : δ ≤ 1 / 2 - a := by
+          rw [← abs_of_pos (by linarith : (0 : ℝ) < 1 / 2 - a)]; exact min_le_right _ _
+        linarith
+      · linarith
+    have := argParam_open hRH ha hσ hσ1 habσ
+    simp only at this
+    exact this
+  -- the approximating sequence
+  set σn : ℕ → ℝ := fun n => 1 / 2 + δ / ((n + 2 : ℕ) : ℝ) with hσn
+  have hn2 : ∀ n : ℕ, (2 : ℝ) ≤ ((n + 2 : ℕ) : ℝ) := fun n => by push_cast; linarith [Nat.cast_nonneg (α := ℝ) n]
+  have hσn1 : ∀ n, 1 / 2 < σn n := fun n => by
+    simp only [hσn]; have := hn2 n; have : 0 < δ / ((n + 2 : ℕ) : ℝ) := by positivity
+    linarith
+  have hσn2 : ∀ n, σn n < 1 / 2 + δ := fun n => by
+    simp only [hσn]
+    have h := hn2 n
+    have : δ / ((n + 2 : ℕ) : ℝ) < δ := by
+      rw [div_lt_iff₀ (by linarith)]; nlinarith
+    linarith
+  have hσnt : Tendsto σn atTop (𝓝 (1 / 2)) := by
+    have := ((tendsto_const_div_atTop_nhds_zero_nat δ).comp (tendsto_add_atTop_nat 2)).const_add
+      (1 / 2 : ℝ)
+    rw [add_zero] at this
+    refine this.congr (fun n => ?_)
+    simp [hσn, Function.comp]
+  have hσnw : Tendsto σn atTop (𝓝[>] (1 / 2)) :=
+    tendsto_nhdsWithin_iff.2 ⟨hσnt, Eventually.of_forall hσn1⟩
+  -- the dominating function
+  obtain ⟨D, hD, hbd⟩ := im_h_bound hRH
+  set bound : ℝ → ℝ := fun t => D / (2 * a) * (Real.log (|t| + 3) / (a ^ 2 + t ^ 2)) with hbound
+  have hbi : Integrable bound (volume.restrict (Ioi 0)) :=
+    ((integrable_log_weight ha).const_mul _).integrableOn
+  have hmeas : ∀ n, AEStronglyMeasurable (G (σn n)) (volume.restrict (Ioi 0)) :=
+    fun n => (hgood _ (hσn1 n) (hσn2 n)).1.aestronglyMeasurable
+  have hGb : ∀ σ t : ℝ, 1 / 2 < σ → σ ≤ 2 → 0 < t → ‖G σ t‖ ≤ bound t := by
+    intro σ t hσ hσ2 ht
+    have h1 := hbd t σ ht.ne' hσ hσ2
+    have hp : 0 < a ^ 2 + t ^ 2 := by positivity
+    have hL : 0 ≤ Real.log (|t| + 3) := by linarith [one_le_log_add_three t]
+    have hta : |t| = t := abs_of_pos ht
+    simp only [hG, hbound, Real.norm_eq_abs]
+    rw [abs_div, abs_mul, abs_of_pos (by positivity : 0 < (a ^ 2 + t ^ 2) ^ 2)]
+    simp only [hta] at h1 hL ⊢
+    rw [div_le_iff₀ (by positivity)]
+    have h2 : 2 * a * t ≤ a ^ 2 + t ^ 2 := by nlinarith [sq_nonneg (a - t)]
+    calc t * |(-(∫ u in Ioi σ, deriv riemannZeta ((u : ℂ) + t * I) /
+          riemannZeta ((u : ℂ) + t * I))).im|
+        ≤ t * (D * Real.log (t + 3)) := mul_le_mul_of_nonneg_left h1 ht.le
+      _ ≤ D / (2 * a) * (Real.log (t + 3) / (a ^ 2 + t ^ 2)) * (a ^ 2 + t ^ 2) ^ 2 := by
+        rw [show D / (2 * a) * (Real.log (t + 3) / (a ^ 2 + t ^ 2)) * (a ^ 2 + t ^ 2) ^ 2 =
+          D * Real.log (t + 3) * ((a ^ 2 + t ^ 2) / (2 * a)) by field_simp]
+        rw [mul_comm t]
+        apply mul_le_mul_of_nonneg_left _ (by positivity)
+        rw [le_div_iff₀ (by positivity)]; linarith
+  have hbn : ∀ n, ∀ᵐ t ∂(volume.restrict (Ioi 0)), ‖G (σn n) t‖ ≤ bound t := by
+    intro n
+    rw [ae_restrict_iff' measurableSet_Ioi]
+    exact Eventually.of_forall (fun t ht => hGb _ t (hσn1 n)
+      (by linarith [hσn2 n, min_le_left (1 / 2 : ℝ) |1 / 2 - a|]) ht)
+  have hlim : ∀ᵐ t ∂(volume.restrict (Ioi 0)), Tendsto (fun n => G (σn n) t) atTop
+      (𝓝 (G (1 / 2) t)) := by
+    filter_upwards [ae_restrict_mem measurableSet_Ioi,
+      ae_restrict_of_ae (ae_G0_line_ne_zero hRH)] with t ht hG0
+    have ht0 : t ≠ 0 := ne_of_gt ht
+    have hz : riemannZeta ((1 / 2 : ℂ) + t * I) ≠ 0 := by
+      intro hz; apply hG0
+      have hs1 : (1 / 2 : ℂ) + t * I ≠ 1 := by
+        intro e; have := congrArg Complex.re e; simp at this
+      rw [G0_of_ne hs1, hz]; simp
+    have h1 := (tendsto_ray_integral hRH ht0 hz).comp hσnw
+    have h2 := ((Complex.continuous_im.tendsto _).comp h1.neg).const_mul t
+    exact h2.div_const _
+  have hT := tendsto_integral_of_dominated_convergence bound hmeas hbi hbn hlim
+  have hVc : ContinuousAt V (1 / 2) := by
+    have hs1 : (((a + 1 / 2 : ℝ)) : ℂ) ≠ 1 := by
+      intro e; apply hab; exact_mod_cast e
+    have hz : riemannZeta (((a + 1 / 2 : ℝ)) : ℂ) ≠ 0 :=
+      zeta_ne_zero_of_U hRH (by simp; linarith) hs1
+    have h1 : ContinuousAt (fun σ : ℝ => (((a + σ : ℝ)) : ℂ)) (1 / 2) := by fun_prop
+    have h2 := (continuousAt_logDeriv_zeta hs1 hz).comp (f := fun σ : ℝ => (((a + σ : ℝ)) : ℂ)) h1
+    have h3 := (Complex.continuous_re.continuousAt.comp h2).const_mul (Real.pi / (4 * a))
+    have hne : a ^ 2 - (1 - 1 / 2) ^ 2 ≠ 0 := by
+      intro h
+      have : (a - 1 / 2) * (a + 1 / 2) = 0 := by nlinarith
+      rcases mul_eq_zero.1 this with h | h
+      · exact ha2 (by linarith)
+      · linarith
+    have h4 : ContinuousAt (fun σ : ℝ => Real.pi / 2 * (1 / (a ^ 2 - (1 - σ) ^ 2) - 1 / a ^ 2))
+        (1 / 2) :=
+      by fun_prop (disch := exact hne)
+    exact h3.add h4
+  have hVt : Tendsto (fun n => V (σn n)) atTop (𝓝 (V (1 / 2))) := hVc.tendsto.comp hσnt
+  have hval : ∀ n, ∫ t in Ioi (0 : ℝ), G (σn n) t = V (σn n) :=
+    fun n => (hgood _ (hσn1 n) (hσn2 n)).2
+  simp_rw [hval] at hT
+  have hI : Integrable (G (1 / 2)) (volume.restrict (Ioi 0)) := by
+    refine hbi.mono' (aestronglyMeasurable_of_tendsto_ae atTop hmeas hlim) ?_
+    rw [← ae_all_iff] at hbn
+    filter_upwards [hlim, hbn] with t ht hb
+    exact le_of_tendsto' (continuous_norm.tendsto _ |>.comp ht) hb
+  exact ⟨hI, tendsto_nhds_unique hT hVt⟩
+
+end ZetaLog
+
+end
+
+section
+open Complex MeasureTheory Filter Topology Set Metric
+
+namespace ZetaLog
+
+lemma abs_log_norm_diff_le {σ t : ℝ} (hσ : 1 / 2 < σ) (hσ2 : σ ≤ 3 / 4) :
+    |Real.log ‖(σ : ℂ) + t * I‖ - Real.log ‖(σ : ℂ) + t * I - 1‖| ≤ 4 := by
+  set x := ‖(σ : ℂ) + t * I‖
+  set y := ‖(σ : ℂ) + t * I - 1‖
+  have hx : 1 / 2 ≤ x := by
+    have := Complex.abs_re_le_norm ((σ : ℂ) + t * I)
+    rw [line_re, abs_of_pos (by linarith)] at this; linarith
+  have hy : 1 / 4 ≤ y := by
+    have := Complex.abs_re_le_norm ((σ : ℂ) + t * I - 1)
+    simp only [sub_re, line_re, one_re] at this
+    rw [abs_of_neg (by linarith)] at this; linarith
+  have hxy : x ≤ y + 1 := by
+    have := norm_add_le ((σ : ℂ) + t * I - 1) 1
+    simp only [sub_add_cancel, norm_one] at this; exact this
+  have hyx : y ≤ x + 1 := by
+    have := norm_sub_le ((σ : ℂ) + t * I) 1
+    simp only [norm_one] at this; exact this
+  have hx0 : 0 < x := by linarith
+  have hy0 : 0 < y := by linarith
+  rw [← Real.log_div hx0.ne' hy0.ne', abs_le]
+  constructor
+  · have h := Real.log_le_sub_one_of_pos (div_pos hy0 hx0)
+    rw [Real.log_div hy0.ne' hx0.ne'] at h
+    rw [Real.log_div hx0.ne' hy0.ne']
+    have : y / x - 1 ≤ 2 := by rw [div_sub_one hx0.ne', div_le_iff₀ hx0]; linarith
+    linarith
+  · have h := Real.log_le_sub_one_of_pos (div_pos hx0 hy0)
+    have : x / y - 1 ≤ 4 := by rw [div_sub_one hy0.ne', div_le_iff₀ hy0]; linarith
+    linarith
+
+theorem sbmCritical_of_RH (hRH : RiemannHypothesis) :
+    let h (b t : ℝ) : ℂ := -(∫ u in Set.Ioi b, deriv riemannZeta ((u : ℂ) + (t : ℂ)*Complex.I) / riemannZeta ((u : ℂ) + (t : ℂ)*Complex.I))
+    let b := (1/2 : ℝ)
+    let f (t : ℝ) := h b t / ((b : ℂ) + (t : ℂ)*Complex.I)^2
+    MeasureTheory.Integrable f ∧ (∫ t : ℝ, f t)/(2*(Real.pi : ℂ)) = (-1 : ℂ) := by
+  intro h b f
+  obtain ⟨F, hF⟩ := exists_logG0 hRH
+  obtain ⟨C, hC0, hC⟩ := re_logDeriv_G0_ge hRH
+  obtain ⟨D, hD, hDb⟩ := im_h_bound hRH
+  set H : ℝ → ℝ → ℂ := fun σ t => h σ t / ((σ : ℂ) + t * I) ^ 2 with hH
+  show Integrable (H (1 / 2)) ∧ (∫ t, H (1 / 2) t) / (2 * (Real.pi : ℂ)) = -1
+  set L : ℝ → ℝ := fun t => Real.log (|t| + 3) with hL
+  set ψ : ℝ → ℝ → ℝ := fun σ t => (F ((σ : ℂ) + t * I)).re + C * L t * σ with hψ
+  set ψ0 : ℝ → ℝ := fun t => Real.log ‖G0 ((1 / 2 : ℂ) + t * I)‖ + C * L t * (1 / 2) with hψ0
+  set wt : ℝ → ℝ := fun t => 1 / ((1 / 2 : ℝ) ^ 2 + t ^ 2) with hwt
+  have hwpos : ∀ t, 0 < (1 / 2 : ℝ) ^ 2 + t ^ 2 := fun t => by positivity
+  -- monotonicity bounds
+  have hup : ∀ t σ, 1 / 2 < σ → σ ≤ 3 / 4 → ψ σ t ≤ ψ (3 / 4) t := fun t σ hσ hσ2 =>
+    mono_reF hF hC t ⟨hσ, by linarith⟩ ⟨by norm_num, by norm_num⟩ hσ2
+  have hlow : ∀ᵐ t : ℝ, ∀ σ, 1 / 2 < σ → σ ≤ 2 → ψ0 t ≤ ψ σ t := by
+    filter_upwards [ae_G0_line_ne_zero hRH] with t ht σ hσ hσ2
+    have hc : ContinuousAt (fun σ' : ℝ => Real.log ‖G0 ((σ' : ℂ) + t * I)‖ + C * L t * σ')
+        (1 / 2) := by
+      have hG : ContinuousAt G0 (((1 / 2 : ℝ) : ℂ) + t * I) :=
+        (differentiableOn_G0.differentiableAt ((isOpen_lt continuous_const
+          Complex.continuous_re).mem_nhds
+          (by show 0 < ((((1 / 2 : ℝ)) : ℂ) + t * I).re; rw [line_re]; norm_num))).continuousAt
+      have hne : G0 (((1 / 2 : ℝ) : ℂ) + t * I) ≠ 0 := by
+        convert ht using 2; push_cast; ring
+      have h1 : ContinuousAt (fun σ' : ℝ => G0 ((σ' : ℂ) + t * I)) (1 / 2) :=
+        hG.comp (f := fun σ' : ℝ => (σ' : ℂ) + t * I) (by fun_prop)
+      exact (h1.norm.log (norm_ne_zero_iff.2 hne)).add (by fun_prop)
+    have ht2 := hc.tendsto.mono_left (nhdsWithin_le_nhds (s := Ioi (1 / 2)))
+    have e : Real.log ‖G0 ((((1 / 2 : ℝ)) : ℂ) + t * I)‖ + C * L t * (1 / 2) = ψ0 t := by
+      simp only [hψ0]; push_cast; ring_nf
+    rw [e] at ht2
+    refine le_of_tendsto ht2 ?_
+    filter_upwards [Ioo_mem_nhdsGT hσ] with σ' hσ'
+    have hm := mono_reF hF hC t ⟨hσ'.1, by linarith [hσ'.2]⟩ ⟨hσ, hσ2⟩ hσ'.2.le
+    have : (F ((σ' : ℂ) + t * I)).re = Real.log ‖G0 ((σ' : ℂ) + t * I)‖ :=
+      re_F_eq hF (by show 1 / 2 < ((σ' : ℂ) + t * I).re; rw [line_re]; exact hσ'.1)
+    simp only [hψ] at hm
+    rw [this] at hm
+    exact hm
+  -- real part of `h`
+  have hRe : ∀ σ t, t ≠ 0 → 1 / 2 < σ → (h σ t).re = ψ σ t - C * L t * σ +
+      (Real.log ‖(σ : ℂ) + t * I‖ - Real.log ‖(σ : ℂ) + t * I - 1‖) := by
+    intro σ t ht hσ
+    have := congrArg Complex.re (h_eq hRH hF hσ ht)
+    simp only [h]
+    rw [this]
+    simp only [hψ, sub_re, add_re, log_re]
+    ring
+  -- the dominating function
+  set bound : ℝ → ℝ := fun t => (|ψ0 t| + |ψ (3 / 4) t| + 4 + (2 * C + D) * L t) * wt t
+    with hbound
+  have hbi : Integrable bound := by
+    have i0 := (poisson_half hRH (a := 1 / 2) (by norm_num)).1
+    have i1 := (poisson_reF hRH hF (a := 1 / 2) (b := 3 / 4) (by norm_num) (by norm_num)).1
+    have iw := integrable_log_weight (a := 1 / 2) (by norm_num)
+    have ic := Contour.integrable_inv_sq_add (α := 1 / 2) (by norm_num)
+    have j0 : Integrable (fun t => ψ0 t * wt t) := by
+      refine (i0.add (iw.const_mul (C * (1 / 2)))).congr (Eventually.of_forall (fun t => ?_))
+      simp only [hψ0, hwt, hL, Pi.add_apply]; ring
+    have j1 : Integrable (fun t => ψ (3 / 4) t * wt t) := by
+      refine (i1.add (iw.const_mul (C * (3 / 4)))).congr (Eventually.of_forall (fun t => ?_))
+      simp only [hψ, hwt, hL, Pi.add_apply]; ring
+    have j2 : Integrable (fun t => |ψ0 t| * wt t) := by
+      refine j0.abs.congr (Eventually.of_forall (fun t => ?_))
+      show |_ * wt t| = |_| * wt t
+      rw [abs_mul, abs_of_pos (show 0 < wt t from one_div_pos.2 (hwpos t))]
+    have j3 : Integrable (fun t => |ψ (3 / 4) t| * wt t) := by
+      refine j1.abs.congr (Eventually.of_forall (fun t => ?_))
+      show |_ * wt t| = |_| * wt t
+      rw [abs_mul, abs_of_pos (show 0 < wt t from one_div_pos.2 (hwpos t))]
+    refine (((j2.add j3).add (ic.const_mul 4)).add (iw.const_mul (2 * C + D))).congr
+      (Eventually.of_forall (fun t => ?_))
+    simp only [hbound, hwt, hL, Pi.add_apply]; ring
+  have hHb : ∀ σ, 1 / 2 < σ → σ ≤ 3 / 4 → ∀ᵐ t : ℝ, ‖H σ t‖ ≤ bound t := by
+    intro σ hσ hσ2
+    filter_upwards [hlow, ae_ne_zero] with t hl ht
+    have hs : 0 < ‖(σ : ℂ) + t * I‖ ^ 2 := by
+      have : (σ : ℂ) + t * I ≠ 0 := by
+        intro e; have := congrArg Complex.re e; rw [line_re] at this; simp at this; linarith
+      positivity
+    have hden : (1 / 2 : ℝ) ^ 2 + t ^ 2 ≤ ‖(σ : ℂ) + t * I‖ ^ 2 := by
+      rw [normSq_line]; nlinarith
+    have hnum : ‖h σ t‖ ≤ |ψ0 t| + |ψ (3 / 4) t| + 4 + (2 * C + D) * L t := by
+      have h1 := Complex.norm_le_abs_re_add_abs_im (h σ t)
+      have h2 : |(h σ t).im| ≤ D * L t := hDb t σ ht hσ (by linarith)
+      have h3 := abs_log_norm_diff_le (t := t) hσ hσ2
+      have h4 := hl σ hσ (by linarith)
+      have h5 := hup t σ hσ hσ2
+      have hL1 : 1 ≤ L t := one_le_log_add_three t
+      have h6 : |ψ σ t| ≤ |ψ0 t| + |ψ (3 / 4) t| := by
+        rw [abs_le]; constructor
+        · linarith [neg_abs_le (ψ0 t), abs_nonneg (ψ (3 / 4) t)]
+        · linarith [le_abs_self (ψ (3 / 4) t), abs_nonneg (ψ0 t)]
+      rw [hRe σ t ht hσ] at h1
+      have h7 : |ψ σ t - C * L t * σ + (Real.log ‖(σ : ℂ) + t * I‖ -
+          Real.log ‖(σ : ℂ) + t * I - 1‖)| ≤ |ψ σ t| + C * L t * σ + 4 := by
+        have := abs_add_le (ψ σ t - C * L t * σ) (Real.log ‖(σ : ℂ) + t * I‖ -
+          Real.log ‖(σ : ℂ) + t * I - 1‖)
+        have := abs_sub (ψ σ t) (C * L t * σ)
+        rw [abs_of_nonneg (by positivity : 0 ≤ C * L t * σ)] at this
+        linarith
+      have h8 : C * L t * σ ≤ 2 * C * L t := by
+        have : 0 ≤ C * L t := by positivity
+        nlinarith
+      nlinarith
+    simp only [hH, hbound, hwt]
+    rw [norm_div, norm_pow, div_le_iff₀ hs]
+    calc ‖h σ t‖ ≤ |ψ0 t| + |ψ (3 / 4) t| + 4 + (2 * C + D) * L t := hnum
+      _ = (|ψ0 t| + |ψ (3 / 4) t| + 4 + (2 * C + D) * L t) * (1 / ((1 / 2) ^ 2 + t ^ 2)) *
+          ((1 / 2) ^ 2 + t ^ 2) := by field_simp
+      _ ≤ _ := by
+        apply mul_le_mul_of_nonneg_left hden
+        have : 0 ≤ |ψ0 t| + |ψ (3 / 4) t| + 4 + (2 * C + D) * L t := by
+          have : 0 ≤ L t := by linarith [one_le_log_add_three t]
+          positivity
+        exact mul_nonneg this (one_div_pos.2 (hwpos t)).le
+  -- approximating sequence
+  set σn : ℕ → ℝ := fun n => 1 / 2 + 1 / (4 * ((n : ℝ) + 1)) with hσn
+  have hσn1 : ∀ n, 1 / 2 < σn n := fun n => by
+    simp only [hσn]
+    have : 0 < 1 / (4 * ((n : ℝ) + 1)) := by positivity
+    linarith
+  have hσn2 : ∀ n, σn n ≤ 3 / 4 := fun n => by
+    simp only [hσn]
+    have : 1 / (4 * ((n : ℝ) + 1)) ≤ 1 / 4 := by
+      apply one_div_le_one_div_of_le (by norm_num); have := Nat.cast_nonneg (α := ℝ) n; linarith
+    linarith
+  have hσnt : Tendsto σn atTop (𝓝 (1 / 2)) := by
+    have h1 : Tendsto (fun n : ℕ => 1 / (4 * ((n : ℝ) + 1))) atTop (𝓝 0) := by
+      have := (tendsto_one_div_add_atTop_nhds_zero_nat).const_mul (1 / 4 : ℝ)
+      rw [mul_zero] at this
+      refine this.congr (fun n => ?_); field_simp
+    have := h1.const_add (1 / 2 : ℝ); rw [add_zero] at this; exact this
+  have hσnw : Tendsto σn atTop (𝓝[>] (1 / 2)) :=
+    tendsto_nhdsWithin_iff.2 ⟨hσnt, Eventually.of_forall hσn1⟩
+  have hopen : ∀ σ : ℝ, 1 / 2 < σ → σ < 1 → Integrable (H σ) ∧
+      ∫ t, H σ t = 2 * (Real.pi : ℂ) * (1 - 1 / (σ : ℂ)) := by
+    intro σ hσ hσ1
+    have := sbmOpen_of_RH hRH σ hσ hσ1
+    simp only at this
+    refine ⟨this.1, ?_⟩
+    have hpi : (2 * (Real.pi : ℂ)) ≠ 0 := by
+      have : (Real.pi : ℂ) ≠ 0 := by exact_mod_cast Real.pi_ne_zero
+      exact mul_ne_zero two_ne_zero this
+    have h2 := this.2
+    rw [div_eq_iff hpi] at h2
+    rw [h2]; ring
+  have hmeas : ∀ n, AEStronglyMeasurable (H (σn n)) volume :=
+    fun n => (hopen _ (hσn1 n) (by linarith [hσn2 n])).1.aestronglyMeasurable
+  have hbn : ∀ n, ∀ᵐ t : ℝ, ‖H (σn n) t‖ ≤ bound t := fun n => hHb _ (hσn1 n) (hσn2 n)
+  have hlim : ∀ᵐ t : ℝ, Tendsto (fun n => H (σn n) t) atTop (𝓝 (H (1 / 2) t)) := by
+    filter_upwards [ae_G0_line_ne_zero hRH, ae_ne_zero] with t hG0 ht0
+    have hz : riemannZeta ((1 / 2 : ℂ) + t * I) ≠ 0 := by
+      intro hz; apply hG0
+      have hs1 : (1 / 2 : ℂ) + t * I ≠ 1 := by
+        intro e; have := congrArg Complex.re e; simp at this
+      rw [G0_of_ne hs1, hz]; simp
+    have h1 := ((tendsto_ray_integral hRH ht0 hz).comp hσnw).neg
+    have h2 : Tendsto (fun n => ((σn n : ℂ) + t * I) ^ 2) atTop
+        (𝓝 (((((1 / 2 : ℝ)) : ℂ) + t * I) ^ 2)) :=
+      ((by fun_prop : Continuous (fun x : ℝ => ((x : ℂ) + t * I) ^ 2)).tendsto _).comp hσnt
+    have hne : (((1 / 2 : ℝ)) : ℂ) + t * I ≠ 0 := by
+      intro e; have := congrArg Complex.re e; rw [line_re] at this; norm_num at this
+    exact h1.div h2 (pow_ne_zero 2 hne)
+  have hT := tendsto_integral_of_dominated_convergence bound hmeas hbi hbn hlim
+  have hval : ∀ n, ∫ t, H (σn n) t = 2 * (Real.pi : ℂ) * (1 - 1 / ((σn n : ℝ) : ℂ)) :=
+    fun n => (hopen _ (hσn1 n) (by linarith [hσn2 n])).2
+  simp_rw [hval] at hT
+  have hV : Tendsto (fun n => 2 * (Real.pi : ℂ) * (1 - 1 / ((σn n : ℝ) : ℂ))) atTop
+      (𝓝 (2 * (Real.pi : ℂ) * (1 - 1 / (((1 / 2 : ℝ)) : ℂ)))) := by
+    have hc : ContinuousAt (fun x : ℝ => 2 * (Real.pi : ℂ) * (1 - 1 / (x : ℂ))) (1 / 2) := by
+      have : ((1 / 2 : ℝ) : ℂ) ≠ 0 := by norm_num
+      fun_prop (disch := exact this)
+    exact hc.tendsto.comp hσnt
+  have heq := tendsto_nhds_unique hT hV
+  have hI : Integrable (H (1 / 2)) := by
+    refine hbi.mono' (aestronglyMeasurable_of_tendsto_ae atTop hmeas hlim) ?_
+    rw [← ae_all_iff] at hbn
+    filter_upwards [hlim, hbn] with t ht hb
+    exact le_of_tendsto' (continuous_norm.tendsto _ |>.comp ht) hb
+  refine ⟨hI, ?_⟩
+  rw [heq]
+  have hpi : (Real.pi : ℂ) ≠ 0 := by exact_mod_cast Real.pi_ne_zero
+  push_cast
+  field_simp
+  ring
+
+end ZetaLog
+
+end
+
+section
+open Complex MeasureTheory Filter Topology Set Metric
+
+namespace ZetaLog
+
+/-- Holomorphic functions on `Re s > 1/2` have primitives (via a Möbius map from the disc). -/
+lemma exists_primitive_U {f : ℂ → ℂ} (hf : DifferentiableOn ℂ f U) :
+    ∃ P : ℂ → ℂ, ∀ s ∈ U, HasDerivAt P (f s) s := by
+  set m : ℂ → ℂ := fun w => 1 / 2 + (1 + w) / (1 - w) with hm
+  set q : ℂ → ℂ := fun w => f (m w) * (2 / (1 - w) ^ 2) with hq
+  have hw1 : ∀ w ∈ ball (0 : ℂ) 1, 1 - w ≠ 0 := by
+    intro w hw h
+    have : w = 1 := by linear_combination -h
+    rw [this, mem_ball, dist_zero_right, norm_one] at hw; exact lt_irrefl _ hw
+  have hmU : ∀ w ∈ ball (0 : ℂ) 1, m w ∈ U := by
+    intro w hw
+    have hn : ‖w‖ < 1 := by simpa using hw
+    have hns : w.re ^ 2 + w.im ^ 2 < 1 := by
+      have := Complex.sq_norm w; rw [normSq_apply] at this; nlinarith [norm_nonneg w]
+    have hd : 0 < normSq (1 - w) := normSq_pos.2 (hw1 w hw)
+    show 1 / 2 < (m w).re
+    simp only [hm, add_re, div_re]
+    simp only [one_re, sub_re, add_re, add_im, one_im, sub_im, zero_add, zero_sub]
+    have : 0 < ((1 + w.re) * (1 - w.re) / normSq (1 - w) + w.im * -w.im / normSq (1 - w)) := by
+      rw [← add_div]; apply div_pos _ hd; nlinarith
+    norm_num at this ⊢
+    linarith
+  have hqd : DifferentiableOn ℂ q (ball 0 1) := by
+    intro w hw
+    have h1 : DifferentiableAt ℂ m w := by
+      simp only [hm]
+      exact (differentiableAt_const _).add
+        (((differentiableAt_const _).add differentiableAt_id).div
+          ((differentiableAt_const _).sub differentiableAt_id) (hw1 w hw))
+    have h2 : DifferentiableAt ℂ f (m w) :=
+      hf.differentiableAt (isOpen_U.mem_nhds (hmU w hw))
+    exact ((h2.comp w h1).mul ((differentiableAt_const _).div
+      (((differentiableAt_const _).sub differentiableAt_id).pow 2)
+      (pow_ne_zero 2 (hw1 w hw)))).differentiableWithinAt
+  obtain ⟨Q, hQ⟩ := hqd.isExactOn_ball
+  set minv : ℂ → ℂ := fun s => (s - 3 / 2) / (s + 1 / 2) with hminv
+  refine ⟨fun s => Q (minv s), fun s hs => ?_⟩
+  have hs' : 1 / 2 < s.re := hs
+  have hs0 : s + 1 / 2 ≠ 0 := by
+    intro h; have := congrArg Complex.re h; simp at this; linarith
+  have hs2 : (2 : ℂ) * s + 1 ≠ 0 := by
+    intro h; apply hs0; linear_combination h / 2
+  have hs3 : 1 + s * 2 ≠ 0 := by
+    intro h; apply hs0; linear_combination h / 2
+  have hmem : minv s ∈ ball (0 : ℂ) 1 := by
+    rw [mem_ball, dist_zero_right]
+    simp only [hminv]
+    rw [norm_div, div_lt_one (norm_pos_iff.2 hs0)]
+    rw [Complex.norm_def, Complex.norm_def]
+    apply Real.sqrt_lt_sqrt (normSq_nonneg _)
+    rw [normSq_apply, normSq_apply]
+    simp only [sub_re, add_re, sub_im, add_im]
+    norm_num
+    nlinarith
+  have hder : HasDerivAt minv (2 / (s + 1 / 2) ^ 2) s := by
+    have := ((hasDerivAt_id s).sub_const (3 / 2 : ℂ)).div ((hasDerivAt_id s).add_const (1 / 2 : ℂ))
+      hs0
+    refine this.congr_deriv ?_
+    simp only [id]; field_simp; ring
+  have hc := (hQ _ hmem).comp s hder
+  refine hc.congr_deriv ?_
+  have h1w : 1 - minv s = 2 / (s + 1 / 2) := by
+    simp only [hminv]; rw [one_sub_div hs0]; congr 1; ring
+  have hmm : m (minv s) = s := by
+    simp only [hm]
+    rw [h1w]
+    simp only [hminv]
+    field_simp
+    ring
+  simp only [hq]
+  rw [hmm, h1w]
+  field_simp
+
+/-- Fundamental theorem of calculus along a `C¹` path. -/
+lemma path_integral {Ψ φ : ℂ → ℂ} {S : Set ℂ} (hΨ : ∀ s ∈ S, HasDerivAt Ψ (φ s) s)
+    (hφ : ContinuousOn φ S) {γ γ' : ℝ → ℂ} {a b : ℝ} (hab : a ≤ b)
+    (hγ : ∀ τ ∈ Icc a b, HasDerivAt γ (γ' τ) τ) (hγ' : ContinuousOn γ' (Icc a b))
+    (hγS : ∀ τ ∈ Icc a b, γ τ ∈ S) :
+    ∫ τ in a..b, φ (γ τ) * γ' τ = Ψ (γ b) - Ψ (γ a) := by
+  refine intervalIntegral.integral_eq_sub_of_hasDerivAt (f := fun τ => Ψ (γ τ))
+    (fun τ hτ => ?_) ?_
+  · rw [uIcc_of_le hab] at hτ
+    exact (hΨ _ (hγS τ hτ)).comp τ (hγ τ hτ)
+  · refine ContinuousOn.intervalIntegrable ?_
+    rw [uIcc_of_le hab]
+    have hγc : ContinuousOn γ (Icc a b) := fun τ hτ => (hγ τ hτ).continuousAt.continuousWithinAt
+    exact (hφ.comp hγc (fun τ hτ => hγS τ hτ)).mul hγ'
+
+end ZetaLog
+
+end
+
+section
+open Complex MeasureTheory Filter Topology Set Metric ComplexConjugate
+
+namespace ZetaLog
+
+/-- The open quadrant `Re s > 1/2`, `Im s > 0`. -/
+def Wq : Set ℂ := {s : ℂ | 1 / 2 < s.re ∧ 0 < s.im}
+
+/-- The horizontal-branch logarithm of `ζ` in terms of `F`. -/
+noncomputable def Hc (F : ℂ → ℂ) (s : ℂ) : ℂ := F s + log s - log (s - 1)
+
+noncomputable def Φw (F : ℂ → ℂ) (s : ℂ) : ℂ := Hc F s / (s - 1 / 2) ^ 2
+
+lemma mem_slit_of_im_pos {z : ℂ} (h : 0 < z.im) : z ∈ slitPlane :=
+  mem_slitPlane_iff.2 (Or.inr h.ne')
+
+lemma Wq_sub_U {s : ℂ} (hs : s ∈ Wq) : s ∈ U := hs.1
+
+lemma Wq_ne_half {s : ℂ} (hs : s ∈ Wq) : s - 1 / 2 ≠ 0 := by
+  intro h; have := congrArg Complex.im h; simp at this; linarith [hs.2]
+
+lemma hasDerivAt_E1 {s : ℂ} (hs : s ∈ Wq) :
+    HasDerivAt (fun s : ℂ => -(log s / (s - 1 / 2)) + 2 * (log (s - 1 / 2) - log s))
+      (log s / (s - 1 / 2) ^ 2) s := by
+  have h0 : s ≠ 0 := by intro h; have := congrArg Complex.im h; simp at this; linarith [hs.2]
+  have hh := Wq_ne_half hs
+  have hsl : s ∈ slitPlane := mem_slit_of_im_pos hs.2
+  have hsl2 : s - 1 / 2 ∈ slitPlane := mem_slit_of_im_pos (by simpa using hs.2)
+  have d1 := hasDerivAt_log hsl
+  have d2 := (hasDerivAt_log hsl2).comp s ((hasDerivAt_id s).sub_const (1 / 2 : ℂ))
+  have d3 := (hasDerivAt_id s).sub_const (1 / 2 : ℂ)
+  have := ((d1.div d3 hh).neg).add ((d2.sub d1).const_mul 2)
+  refine this.congr_deriv ?_
+  simp only [id, Function.comp_apply]
+  have hh2 : -1 + s * 2 ≠ 0 := by intro h; apply hh; linear_combination h / 2
+  have hh3 : 1 - s * 4 + s ^ 2 * 4 ≠ 0 := by
+    intro h; apply hh; have : (s - 1 / 2) ^ 2 = 0 := by linear_combination h / 4
+    exact pow_eq_zero_iff (n := 2) (by norm_num) |>.1 this
+  have e : (2 : ℂ) * ((s - 1 / 2)⁻¹ * 1 - s⁻¹) = (s * (s - 1 / 2))⁻¹ := by
+    rw [mul_one, inv_sub_inv hh h0, show s - (s - 1 / 2) = (1 : ℂ) / 2 by ring,
+      mul_comm (s - 1 / 2) s]
+    ring
+  rw [e]
+  field_simp
+  ring
+
+lemma hasDerivAt_E2 {s : ℂ} (hs : s ∈ Wq) :
+    HasDerivAt (fun s : ℂ => -(log (s - 1) / (s - 1 / 2)) + 2 * (log (s - 1) - log (s - 1 / 2)))
+      (log (s - 1) / (s - 1 / 2) ^ 2) s := by
+  have h1 : s - 1 ≠ 0 := by intro h; have := congrArg Complex.im h; simp at this; linarith [hs.2]
+  have hh := Wq_ne_half hs
+  have hsl1 : s - 1 ∈ slitPlane := mem_slit_of_im_pos (by simpa using hs.2)
+  have hsl2 : s - 1 / 2 ∈ slitPlane := mem_slit_of_im_pos (by simpa using hs.2)
+  have d1 := (hasDerivAt_log hsl1).comp s ((hasDerivAt_id s).sub_const (1 : ℂ))
+  have d2 := (hasDerivAt_log hsl2).comp s ((hasDerivAt_id s).sub_const (1 / 2 : ℂ))
+  have d3 := (hasDerivAt_id s).sub_const (1 / 2 : ℂ)
+  have := ((d1.div d3 hh).neg).add ((d1.sub d2).const_mul 2)
+  refine this.congr_deriv ?_
+  simp only [id, Function.comp_apply]
+  have hh2 : -1 + s * 2 ≠ 0 := by intro h; apply hh; linear_combination h / 2
+  have hh3 : 1 - s * 4 + s ^ 2 * 4 ≠ 0 := by
+    intro h; apply hh; have : (s - 1 / 2) ^ 2 = 0 := by linear_combination h / 4
+    exact pow_eq_zero_iff (n := 2) (by norm_num) |>.1 this
+  have hh4 : -1 + s ≠ 0 := by intro h; apply h1; linear_combination h
+  have e : (2 : ℂ) * ((s - 1)⁻¹ * 1 - (s - 1 / 2)⁻¹ * 1) = ((s - 1) * (s - 1 / 2))⁻¹ := by
+    rw [mul_one, mul_one, inv_sub_inv h1 hh, show s - 1 / 2 - (s - 1) = (1 : ℂ) / 2 by ring]
+    ring
+  rw [e]
+  field_simp
+  ring
+
+lemma exists_primitive_Wq {F : ℂ → ℂ} (hF : IsLogG0 F) :
+    ∃ Ψ : ℂ → ℂ, ∀ s ∈ Wq, HasDerivAt Ψ (Φw F s) s := by
+  have hd : DifferentiableOn ℂ (fun s => F s / (s - 1 / 2) ^ 2) U := by
+    intro s hs
+    have hh : s - 1 / 2 ≠ 0 := by
+      intro h; have := congrArg Complex.re h; have hs' : 1 / 2 < s.re := hs; simp at this; linarith
+    exact ((hF.hasDeriv s hs).differentiableAt.div
+      ((differentiableAt_id.sub_const _).pow 2) (pow_ne_zero 2 hh)).differentiableWithinAt
+  obtain ⟨P, hP⟩ := exists_primitive_U hd
+  refine ⟨fun s => P s + (-(log s / (s - 1 / 2)) + 2 * (log (s - 1 / 2) - log s)) -
+    (-(log (s - 1) / (s - 1 / 2)) + 2 * (log (s - 1) - log (s - 1 / 2))), fun s hs => ?_⟩
+  have := ((hP s (Wq_sub_U hs)).add (hasDerivAt_E1 hs)).sub (hasDerivAt_E2 hs)
+  refine this.congr_deriv ?_
+  simp only [Φw, Hc]
+  ring
+
+lemma continuousOn_Φw {F : ℂ → ℂ} (hF : IsLogG0 F) : ContinuousOn (Φw F) Wq := by
+  intro s hs
+  have hF' : ContinuousAt F s := (hF.hasDeriv s (Wq_sub_U hs)).continuousAt
+  have h1 : ContinuousAt log s := (continuousAt_clog (mem_slit_of_im_pos hs.2))
+  have h2 : ContinuousAt (fun s : ℂ => log (s - 1)) s :=
+    (continuousAt_clog (mem_slit_of_im_pos (by simpa using hs.2))).comp
+      (continuousAt_id.sub continuousAt_const)
+  have : ContinuousAt (Φw F) s := by
+    unfold Φw Hc
+    exact ((hF'.add h1).sub h2).div ((continuousAt_id.sub continuousAt_const).pow 2)
+      (pow_ne_zero 2 (Wq_ne_half hs))
+  exact this.continuousWithinAt
+
+/-- Growth of `Hc` on `Re s ≥ c`, `Im s ≥ y`. -/
+lemma norm_Hc_le (hRH : RiemannHypothesis) {F : ℂ → ℂ} (hF : IsLogG0 F) {c y : ℝ}
+    (hc : 1 / 2 < c) (hy : 0 < y) : ∃ K : ℝ, 0 ≤ K ∧ ∀ s : ℂ, c ≤ s.re → y ≤ s.im →
+      ‖Hc F s‖ ≤ K * (1 + ‖s‖) ^ (1 / 2 : ℝ) := by
+  obtain ⟨C, hC⟩ := F_growth hRH hF hc
+  refine ⟨|C| + (|Real.log c| + 2 + Real.pi) + (|Real.log y| + 2 + Real.pi), by positivity,
+    fun s hs hsy => ?_⟩
+  have hn0 : 0 ≤ ‖s‖ := norm_nonneg _
+  have e0 : ‖F s‖ ≤ |C| * (1 + ‖s‖) ^ (1 / 2 : ℝ) :=
+    (hC s hs).trans (mul_le_mul_of_nonneg_right (le_abs_self C) (by positivity))
+  have e1 : ‖log s‖ ≤ (|Real.log c| + 2 + Real.pi) * (1 + ‖s‖) ^ (1 / 2 : ℝ) :=
+    norm_log_le_rpow (by linarith) (hs.trans (Complex.re_le_norm s)) (by linarith) hn0
+  have e2 : ‖log (s - 1)‖ ≤ (|Real.log y| + 2 + Real.pi) * (1 + ‖s‖) ^ (1 / 2 : ℝ) := by
+    refine norm_log_le_rpow hy ?_ ?_ hn0
+    · have := Complex.im_le_norm (s - 1); simp at this; linarith
+    · have := norm_sub_le s 1; rw [norm_one] at this; linarith
+  calc ‖Hc F s‖ ≤ ‖F s‖ + ‖log s‖ + ‖log (s - 1)‖ := by
+        unfold Hc
+        exact (norm_sub_le _ _).trans (by linarith [norm_add_le (F s) (log s)])
+    _ ≤ _ := by rw [add_mul, add_mul]; linarith
+
+/-- `(1+|t|)^{1/2}/(α^2+t^2)` is integrable. -/
+lemma integrable_sqrt_weight {α : ℝ} (hα : 0 < α) :
+    Integrable (fun t : ℝ => (1 + |t|) ^ (1 / 2 : ℝ) / (α ^ 2 + t ^ 2)) := by
+  set M : ℝ := 2 + 2 / α ^ 2
+  have hg := (Contour.integrable_one_add_abs_rpow (by norm_num : (1 : ℝ) < 3 / 2)).const_mul M
+  have hmeas : AEStronglyMeasurable (fun t : ℝ => (1 + |t|) ^ (1 / 2 : ℝ) / (α ^ 2 + t ^ 2))
+      volume := by
+    refine Continuous.aestronglyMeasurable (Continuous.div ?_ (by fun_prop)
+      (fun t => by positivity))
+    exact Continuous.rpow_const (by fun_prop) (fun t => Or.inl (by positivity))
+  refine hg.mono' hmeas (Eventually.of_forall (fun t => ?_))
+  have hp : 0 < α ^ 2 + t ^ 2 := by positivity
+  have h1t : 1 ≤ 1 + |t| := by linarith [abs_nonneg t]
+  rw [Real.norm_eq_abs, abs_div, abs_of_nonneg (by positivity), abs_of_pos hp, div_le_iff₀ hp]
+  have hM : (1 + |t|) ^ 2 ≤ M * (α ^ 2 + t ^ 2) := by
+    have : (1 + |t|) ^ 2 ≤ 2 + 2 * t ^ 2 := by nlinarith [sq_abs t, sq_nonneg (1 - |t|)]
+    have h2 : 2 / α ^ 2 * (α ^ 2 + t ^ 2) = 2 + 2 * t ^ 2 / α ^ 2 := by field_simp
+    have h3 : 0 ≤ 2 * t ^ 2 / α ^ 2 := by positivity
+    nlinarith
+  have hsplit : (1 + |t|) ^ (1 / 2 : ℝ) = (1 + |t|) ^ (-(3 / 2 : ℝ)) * (1 + |t|) ^ 2 := by
+    rw [show (1 + |t|) ^ 2 = (1 + |t|) ^ (2 : ℝ) by norm_cast, ← Real.rpow_add (by linarith)]
+    norm_num
+  have hpos : 0 ≤ (1 + |t|) ^ (-(3 / 2 : ℝ)) := by positivity
+  rw [hsplit]
+  calc (1 + |t|) ^ (-(3 / 2 : ℝ)) * (1 + |t|) ^ 2 ≤ (1 + |t|) ^ (-(3 / 2 : ℝ)) * (M * (α ^ 2 + t ^ 2)) :=
+        mul_le_mul_of_nonneg_left hM hpos
+    _ = M * (1 + |t|) ^ (-(3 / 2 : ℝ)) * (α ^ 2 + t ^ 2) := by ring
+
+lemma rpow_half_mul_le {x y : ℝ} (hx : 0 ≤ x) (hy : 0 ≤ y) :
+    (x * y) ^ (1 / 2 : ℝ) = x ^ (1 / 2 : ℝ) * y ^ (1 / 2 : ℝ) := Real.mul_rpow hx hy
+
+/-- Integrability of `Φw` along vertical rays. -/
+lemma integrableOn_Φw_vert (hRH : RiemannHypothesis) {F : ℂ → ℂ} (hF : IsLogG0 F) {c y : ℝ}
+    (hc : 1 / 2 < c) (hy : 0 < y) :
+    IntegrableOn (fun t : ℝ => Φw F ((c : ℂ) + t * I)) (Ioi y) := by
+  obtain ⟨K, hK0, hK⟩ := norm_Hc_le hRH hF hc hy
+  have hα : 0 < c - 1 / 2 := by linarith
+  have hg := ((integrable_sqrt_weight hα).const_mul (K * (1 + c) ^ (1 / 2 : ℝ))).integrableOn
+    (s := Ioi y)
+  have hcont : ContinuousOn (fun t : ℝ => Φw F ((c : ℂ) + t * I)) (Ioi y) :=
+    (continuousOn_Φw hF).comp (by fun_prop) (fun t ht => ⟨by rw [line_re]; exact hc,
+      by simp; exact lt_trans hy ht⟩)
+  refine hg.mono' (hcont.aestronglyMeasurable measurableSet_Ioi) ?_
+  rw [ae_restrict_iff' measurableSet_Ioi]
+  refine Eventually.of_forall (fun t ht => ?_)
+  have ht' : y < t := ht
+  set s : ℂ := (c : ℂ) + t * I
+  have hs := hK s (by simp [s]) (by simp [s]; linarith)
+  have hn : ‖s‖ ≤ c + |t| := by
+    calc ‖s‖ ≤ ‖(c : ℂ)‖ + ‖(t : ℂ) * I‖ := norm_add_le _ _
+      _ = c + |t| := by
+        rw [norm_real, Real.norm_eq_abs, abs_of_pos (by linarith : (0 : ℝ) < c), norm_mul,
+          norm_real, Real.norm_eq_abs, Complex.norm_I, mul_one]
+  have h1s : 1 + ‖s‖ ≤ (1 + c) * (1 + |t|) := by nlinarith [abs_nonneg t]
+  have hpow : (1 + ‖s‖) ^ (1 / 2 : ℝ) ≤ (1 + c) ^ (1 / 2 : ℝ) * (1 + |t|) ^ (1 / 2 : ℝ) := by
+    rw [← Real.mul_rpow (by linarith) (by positivity)]
+    exact Real.rpow_le_rpow (by positivity) h1s (by norm_num)
+  have hden : ‖s - 1 / 2‖ ^ 2 = (c - 1 / 2) ^ 2 + t ^ 2 := by
+    have : s - 1 / 2 = ((c - 1 / 2 : ℝ) : ℂ) + t * I := by simp [s]; push_cast; ring
+    rw [this, normSq_line]
+  have hdp : 0 < (c - 1 / 2) ^ 2 + t ^ 2 := by positivity
+  unfold Φw
+  rw [norm_div, norm_pow, hden, div_le_iff₀ hdp]
+  calc ‖Hc F s‖ ≤ K * (1 + ‖s‖) ^ (1 / 2 : ℝ) := hs
+    _ ≤ K * ((1 + c) ^ (1 / 2 : ℝ) * (1 + |t|) ^ (1 / 2 : ℝ)) :=
+        mul_le_mul_of_nonneg_left hpow hK0
+    _ = K * (1 + c) ^ (1 / 2 : ℝ) * ((1 + |t|) ^ (1 / 2 : ℝ) / ((c - 1 / 2) ^ 2 + t ^ 2)) *
+        ((c - 1 / 2) ^ 2 + t ^ 2) := by
+      rw [mul_assoc (K * (1 + c) ^ (1 / 2 : ℝ)), div_mul_cancel₀ _ hdp.ne']; ring
+
+/-- Integrability of `Φw` along horizontal rays. -/
+lemma integrableOn_Φw_horiz (hRH : RiemannHypothesis) {F : ℂ → ℂ} (hF : IsLogG0 F) {c y : ℝ}
+    (hc : 1 / 2 < c) (hy : 0 < y) :
+    IntegrableOn (fun u : ℝ => Φw F ((u : ℂ) + y * I)) (Ioi c) := by
+  obtain ⟨K, hK0, hK⟩ := norm_Hc_le hRH hF hc hy
+  have hy' : 0 < y := hy
+  have hg0 := ((integrable_sqrt_weight hy').comp_sub_right (1 / 2 : ℝ)).const_mul
+    (K * (2 + y) ^ (1 / 2 : ℝ))
+  have hg := hg0.integrableOn (s := Ioi c)
+  have hcont : ContinuousOn (fun u : ℝ => Φw F ((u : ℂ) + y * I)) (Ioi c) :=
+    (continuousOn_Φw hF).comp (by fun_prop) (fun u hu => ⟨by rw [line_re]; exact lt_trans hc hu,
+      by simp; exact hy⟩)
+  refine hg.mono' (hcont.aestronglyMeasurable measurableSet_Ioi) ?_
+  rw [ae_restrict_iff' measurableSet_Ioi]
+  refine Eventually.of_forall (fun u hu => ?_)
+  have hu' : c < u := hu
+  set s : ℂ := (u : ℂ) + y * I
+  have hs := hK s (by simp [s]; linarith) (by simp [s])
+  have hn : ‖s‖ ≤ |u| + y := by
+    calc ‖s‖ ≤ ‖(u : ℂ)‖ + ‖(y : ℂ) * I‖ := norm_add_le _ _
+      _ = |u| + y := by
+        rw [norm_real, Real.norm_eq_abs, norm_mul, norm_real, Real.norm_eq_abs, Complex.norm_I,
+          mul_one, abs_of_pos hy]
+  have hu12 : |u| ≤ |u - 1 / 2| + 1 / 2 := by
+    have := abs_sub_abs_le_abs_sub u (1 / 2); rw [abs_of_pos (by norm_num : (0:ℝ) < 1 / 2)] at this
+    linarith
+  have h1s : 1 + ‖s‖ ≤ (2 + y) * (1 + |u - 1 / 2|) := by nlinarith [abs_nonneg (u - 1 / 2)]
+  have hpow : (1 + ‖s‖) ^ (1 / 2 : ℝ) ≤ (2 + y) ^ (1 / 2 : ℝ) * (1 + |u - 1 / 2|) ^ (1 / 2 : ℝ) := by
+    rw [← Real.mul_rpow (by linarith) (by positivity)]
+    exact Real.rpow_le_rpow (by positivity) h1s (by norm_num)
+  have hden : ‖s - 1 / 2‖ ^ 2 = y ^ 2 + (u - 1 / 2) ^ 2 := by
+    have : s - 1 / 2 = ((u - 1 / 2 : ℝ) : ℂ) + y * I := by simp [s]; push_cast; ring
+    rw [this, normSq_line]; ring
+  have hdp : 0 < y ^ 2 + (u - 1 / 2) ^ 2 := by positivity
+  unfold Φw
+  rw [norm_div, norm_pow, hden, div_le_iff₀ hdp]
+  calc ‖Hc F s‖ ≤ K * (1 + ‖s‖) ^ (1 / 2 : ℝ) := hs
+    _ ≤ K * ((2 + y) ^ (1 / 2 : ℝ) * (1 + |u - 1 / 2|) ^ (1 / 2 : ℝ)) :=
+        mul_le_mul_of_nonneg_left hpow hK0
+    _ = K * (2 + y) ^ (1 / 2 : ℝ) * ((1 + |u - 1 / 2|) ^ (1 / 2 : ℝ) / (y ^ 2 + (u - 1 / 2) ^ 2)) *
+        (y ^ 2 + (u - 1 / 2) ^ 2) := by
+      rw [mul_assoc (K * (2 + y) ^ (1 / 2 : ℝ)), div_mul_cancel₀ _ hdp.ne']; ring
+
+end ZetaLog
+
+end
+
+section
+open Complex MeasureTheory Filter Topology Set Metric
+
+namespace ZetaLog
+
+/-- Points of the arc `|s - 1/2| = 1`. -/
+noncomputable def arcpt (θ : ℝ) : ℂ := (((1 / 2 + Real.cos θ : ℝ)) : ℂ) + (Real.sin θ : ℂ) * I
+
+noncomputable def arcd (θ : ℝ) : ℂ := ((-Real.sin θ : ℝ) : ℂ) + (Real.cos θ : ℂ) * I
+
+lemma hasDerivAt_arcpt (θ : ℝ) : HasDerivAt arcpt (arcd θ) θ := by
+  have h1 := ((Real.hasDerivAt_cos θ).const_add (1 / 2 : ℝ)).ofReal_comp
+  have h2 := ((Real.hasDerivAt_sin θ).ofReal_comp).mul_const I
+  exact h1.add h2
+
+lemma continuous_arcd : Continuous arcd := by unfold arcd; fun_prop
+
+lemma arcpt_mem {θ : ℝ} (h0 : 0 < θ) (h1 : θ < Real.pi / 2) : arcpt θ ∈ Wq := by
+  constructor
+  · simp only [arcpt, line_re]
+    have := Real.cos_pos_of_mem_Ioo ⟨by linarith, h1⟩; linarith
+  · simp only [arcpt]; simp
+    exact Real.sin_pos_of_pos_of_lt_pi h0 (by linarith [Real.pi_pos])
+
+lemma exp_neg_mul_I_eq (θ : ℝ) :
+    Complex.exp (-(θ : ℂ) * I) = (Real.cos θ : ℂ) - (Real.sin θ : ℂ) * I := by
+  rw [show -(θ : ℂ) * I = ((-θ : ℝ) : ℂ) * I by push_cast; ring, Complex.exp_mul_I,
+    ← Complex.ofReal_cos, ← Complex.ofReal_sin, Real.cos_neg, Real.sin_neg]
+  push_cast; ring
+
+lemma arc_integrand (F : ℂ → ℂ) (θ : ℝ) :
+    Φw F (arcpt θ) * arcd θ = I * (Complex.exp (-(θ : ℂ) * I) * Hc F (arcpt θ)) := by
+  have he : arcpt θ - 1 / 2 = (Real.cos θ : ℂ) + (Real.sin θ : ℂ) * I := by
+    simp only [arcpt]; push_cast; ring
+  have hd : arcd θ = I * ((Real.cos θ : ℂ) + (Real.sin θ : ℂ) * I) := by
+    simp only [arcd]; push_cast; ring_nf; rw [I_sq]; ring
+  have hone : ((Real.cos θ : ℂ) + (Real.sin θ : ℂ) * I) *
+      ((Real.cos θ : ℂ) - (Real.sin θ : ℂ) * I) = 1 := by
+    have h := Real.sin_sq_add_cos_sq θ
+    have : ((Real.sin θ : ℂ)) ^ 2 + ((Real.cos θ : ℂ)) ^ 2 = 1 := by exact_mod_cast h
+    linear_combination this - ((Real.sin θ : ℂ)) ^ 2 * I_sq
+  have hne : (Real.cos θ : ℂ) + (Real.sin θ : ℂ) * I ≠ 0 := by
+    intro h; rw [h, zero_mul] at hone; exact zero_ne_one hone
+  have hinv := eq_inv_of_mul_eq_one_right hone
+  unfold Φw
+  rw [he, hd, exp_neg_mul_I_eq, hinv]
+  field_simp
+
+lemma h_ray_bound : ∃ T0 : ℝ, 0 ≤ T0 ∧ ∀ t R : ℝ, 2 ≤ R →
+    ‖∫ u in Ioi R, deriv riemannZeta ((u : ℂ) + t * I) / riemannZeta ((u : ℂ) + t * I)‖ ≤ T0 := by
+  obtain ⟨K2, hK20, hK2⟩ := logDeriv_zeta_le
+  set g : ℝ → ℝ := fun u => 4 * K2 * Real.exp (-(Real.log 2) * u) with hg
+  have hgi : IntegrableOn g (Ioi 2) :=
+    (exp_neg_integrableOn_Ioi 2 (Real.log_pos (by norm_num))).const_mul _
+  have hg0 : ∀ u, 0 ≤ g u := fun u => by simp only [hg]; positivity
+  refine ⟨∫ u in Ioi (2 : ℝ), g u, setIntegral_nonneg measurableSet_Ioi (fun u _ => hg0 u),
+    fun t R hR => ?_⟩
+  have hgiR : IntegrableOn g (Ioi R) := hgi.mono_set (Ioi_subset_Ioi hR)
+  refine (norm_integral_le_of_norm_le hgiR ?_).trans ?_
+  · rw [ae_restrict_iff' measurableSet_Ioi]
+    refine Eventually.of_forall (fun u hu => ?_)
+    have hu2 : 2 ≤ u := le_trans hR (le_of_lt hu)
+    have := hK2 ((u : ℂ) + t * I) (by rw [line_re]; exact hu2)
+    rw [line_re] at this
+    calc _ ≤ (2 : ℝ) ^ (2 - u) * K2 := this
+      _ = g u := by
+        simp only [hg]
+        rw [Real.rpow_def_of_pos (by norm_num), show Real.log 2 * (2 - u) =
+          2 * Real.log 2 + (-(Real.log 2) * u) by ring, Real.exp_add,
+          show 2 * Real.log 2 = Real.log 4 by
+            rw [show (4 : ℝ) = 2 ^ 2 by norm_num, Real.log_pow]; norm_num,
+          Real.exp_log (by norm_num)]
+        ring
+  · exact setIntegral_mono_set hgi (Eventually.of_forall (fun u => hg0 u))
+      (Eventually.of_forall (Ioi_subset_Ioi hR))
+
+lemma Hc_eq_h (hRH : RiemannHypothesis) {F : ℂ → ℂ} (hF : IsLogG0 F) {b t : ℝ}
+    (hb : 1 / 2 < b) (ht : t ≠ 0) :
+    Hc F ((b : ℂ) + t * I) = -(∫ u in Ioi b, deriv riemannZeta ((u : ℂ) + t * I) /
+      riemannZeta ((u : ℂ) + t * I)) := by
+  rw [h_eq hRH hF hb ht]; unfold Hc; ring
+
+/-- The arc identity with all four outer edges sent to infinity. -/
+theorem arc_identity (hRH : RiemannHypothesis) {F : ℂ → ℂ} (hF : IsLogG0 F) {θ1 θ2 : ℝ}
+    (h1 : 0 < θ1) (h12 : θ1 < θ2) (h2 : θ2 < Real.pi / 2) :
+    ∫ θ in θ1..θ2, Φw F (arcpt θ) * arcd θ =
+      (∫ u in Ioi (1 / 2 + Real.cos θ1), Φw F ((u : ℂ) + (Real.sin θ1 : ℝ) * I)) -
+      I * ∫ t in Ioi (Real.sin θ2), Φw F ((((1 / 2 + Real.cos θ2 : ℝ)) : ℂ) + t * I) := by
+  obtain ⟨Ψ, hΨ⟩ := exists_primitive_Wq hF
+  have hcont := continuousOn_Φw hF
+  set σ1 := 1 / 2 + Real.cos θ1 with hσ1
+  set y1 := Real.sin θ1 with hy1
+  set c2 := 1 / 2 + Real.cos θ2 with hc2
+  set y2 := Real.sin θ2 with hy2
+  have hpi := Real.pi_pos
+  have hy1p : 0 < y1 := Real.sin_pos_of_pos_of_lt_pi h1 (by linarith)
+  have hy12 : y1 ≤ y2 := Real.sin_le_sin_of_le_of_le_pi_div_two (by linarith) (by linarith) h12.le
+  have hc2p : 1 / 2 < c2 := by
+    have := Real.cos_pos_of_mem_Ioo (x := θ2) ⟨by linarith, h2⟩; rw [hc2]; linarith
+  have hc21 : c2 ≤ σ1 := by
+    have := Real.cos_le_cos_of_nonneg_of_le_pi (by linarith) (by linarith) h12.le
+    rw [hc2, hσ1]; linarith
+  -- arc
+  have hA : ∫ θ in θ1..θ2, Φw F (arcpt θ) * arcd θ = Ψ (arcpt θ2) - Ψ (arcpt θ1) :=
+    path_integral hΨ hcont h12.le (fun θ _ => hasDerivAt_arcpt θ) continuous_arcd.continuousOn
+      (fun θ hθ => arcpt_mem (by linarith [hθ.1]) (by linarith [hθ.2]))
+  have e1 : arcpt θ1 = (σ1 : ℂ) + (y1 : ℂ) * I := rfl
+  have e2 : arcpt θ2 = (c2 : ℂ) + (y2 : ℂ) * I := rfl
+  -- generic horizontal and vertical segments
+  have hor : ∀ y a b : ℝ, 0 < y → 1 / 2 < a → a ≤ b →
+      ∫ u in a..b, Φw F ((u : ℂ) + y * I) = Ψ ((b : ℂ) + y * I) - Ψ ((a : ℂ) + y * I) := by
+    intro y a b hy ha hab
+    have := path_integral (γ := fun u : ℝ => (u : ℂ) + y * I) (γ' := fun _ => 1) hΨ hcont hab
+      (fun u _ => ((hasDerivAt_id u).ofReal_comp).add_const _) continuousOn_const
+      (fun u hu => ⟨by rw [line_re]; linarith [hu.1], by simp; exact hy⟩)
+    simpa using this
+  have ver : ∀ c a b : ℝ, 1 / 2 < c → 0 < a → a ≤ b →
+      ∫ t in a..b, Φw F ((c : ℂ) + t * I) * I = Ψ ((c : ℂ) + b * I) - Ψ ((c : ℂ) + a * I) := by
+    intro c a b hc ha hab
+    exact path_integral (γ := fun t : ℝ => (c : ℂ) + t * I) (γ' := fun _ => I) hΨ hcont hab
+      (fun t _ => (((hasDerivAt_id t).ofReal_comp).mul_const I).const_add _
+        |>.congr_deriv (by simp)) continuousOn_const
+      (fun t ht => ⟨by rw [line_re]; exact hc, by simp; linarith [ht.1]⟩)
+  -- finite identity
+  have hfin : ∀ R T : ℝ, σ1 ≤ R → y2 ≤ T →
+      ∫ θ in θ1..θ2, Φw F (arcpt θ) * arcd θ =
+        (∫ u in σ1..R, Φw F ((u : ℂ) + y1 * I)) + I * (∫ t in y1..T, Φw F ((R : ℂ) + t * I)) -
+        (∫ u in c2..R, Φw F ((u : ℂ) + T * I)) - I * (∫ t in y2..T, Φw F ((c2 : ℂ) + t * I)) := by
+    intro R T hR hT
+    have hB := hor y1 σ1 R hy1p (by linarith) hR
+    have hRt := ver R y1 T (by linarith) hy1p (by linarith)
+    have hTop := hor T c2 R (by linarith) hc2p (by linarith)
+    have hL := ver c2 y2 T hc2p (by linarith) hT
+    rw [intervalIntegral.integral_mul_const] at hRt hL
+    rw [hA, e1, e2, hB, mul_comm I, hRt, hTop, mul_comm I, hL]
+    ring
+  -- limit `T → ∞`
+  have hlimT : ∀ R : ℝ, σ1 ≤ R →
+      ∫ θ in θ1..θ2, Φw F (arcpt θ) * arcd θ =
+        (∫ u in σ1..R, Φw F ((u : ℂ) + y1 * I)) + I * (∫ t in Ioi y1, Φw F ((R : ℂ) + t * I)) -
+        I * (∫ t in Ioi y2, Φw F ((c2 : ℂ) + t * I)) := by
+    intro R hR
+    obtain ⟨K, hK0, hK⟩ := norm_Hc_le hRH hF hc2p (y := 1) one_pos
+    have htop : Tendsto (fun T : ℝ => ∫ u in c2..R, Φw F ((u : ℂ) + T * I)) atTop (𝓝 0) := by
+      have hb : Tendsto (fun T : ℝ => K * (1 + |R| + T) / T ^ 2 * |R - c2|) atTop (𝓝 0) := by
+        have a := tendsto_inv_atTop_zero (𝕜 := ℝ)
+        have b := ((a.pow 2).const_mul (K * (1 + |R|))).add (a.const_mul K)
+        simp only [ne_eq, OfNat.ofNat_ne_zero, not_false_eq_true, zero_pow, mul_zero,
+          add_zero] at b
+        have c := b.mul_const |R - c2|
+        rw [zero_mul] at c
+        refine c.congr' ?_
+        filter_upwards [eventually_gt_atTop 0] with T hT
+        field_simp
+      refine squeeze_zero_norm' ?_ hb
+      filter_upwards [eventually_ge_atTop 1] with T hT
+      refine intervalIntegral.norm_integral_le_of_norm_le_const (fun u hu => ?_)
+      rw [uIoc_of_le (by linarith)] at hu
+      set s : ℂ := (u : ℂ) + T * I
+      have hs := hK s (by simp [s]; linarith [hu.1]) (by simp [s]; linarith)
+      have hn : ‖s‖ ≤ |R| + T := by
+        calc ‖s‖ ≤ ‖(u : ℂ)‖ + ‖(T : ℂ) * I‖ := norm_add_le _ _
+          _ = |u| + T := by
+            rw [norm_real, Real.norm_eq_abs, norm_mul, norm_real, Real.norm_eq_abs, Complex.norm_I,
+              mul_one, abs_of_pos (show (0 : ℝ) < T by linarith)]
+          _ ≤ |R| + T := by
+            have : |u| ≤ |R| := by
+              rw [abs_of_pos (show (0 : ℝ) < u by linarith [hu.1]),
+                abs_of_pos (show (0 : ℝ) < R by linarith [hu.1, hu.2])]
+              exact hu.2
+            linarith
+      have hsq : (1 + ‖s‖) ^ (1 / 2 : ℝ) ≤ 1 + ‖s‖ := by
+        have h1 : (1 : ℝ) ≤ 1 + ‖s‖ := by linarith [norm_nonneg s]
+        calc (1 + ‖s‖) ^ (1 / 2 : ℝ) ≤ (1 + ‖s‖) ^ (1 : ℝ) :=
+              Real.rpow_le_rpow_of_exponent_le h1 (by norm_num)
+          _ = 1 + ‖s‖ := Real.rpow_one _
+      have hden : T ^ 2 ≤ ‖s - 1 / 2‖ ^ 2 := by
+        have e : s - 1 / 2 = (((u - 1 / 2 : ℝ)) : ℂ) + T * I := by
+          show (u : ℂ) + T * I - 1 / 2 = _; push_cast; ring
+        rw [e, normSq_line]; nlinarith [sq_nonneg (u - 1 / 2)]
+      have hT2 : 0 < T ^ 2 := by positivity
+      unfold Φw
+      rw [norm_div, norm_pow, div_le_iff₀ (lt_of_lt_of_le hT2 hden)]
+      calc ‖Hc F s‖ ≤ K * (1 + ‖s‖) := hs.trans (mul_le_mul_of_nonneg_left hsq hK0)
+        _ ≤ K * (1 + |R| + T) := mul_le_mul_of_nonneg_left (by linarith) hK0
+        _ = K * (1 + |R| + T) / T ^ 2 * T ^ 2 := by field_simp
+        _ ≤ K * (1 + |R| + T) / T ^ 2 * ‖s - 1 / 2‖ ^ 2 := by
+          gcongr
+    have hright := intervalIntegral_tendsto_integral_Ioi y1
+      (integrableOn_Φw_vert hRH hF (c := R) (by linarith) hy1p) tendsto_id
+    have hleft := intervalIntegral_tendsto_integral_Ioi y2
+      (integrableOn_Φw_vert hRH hF (c := c2) hc2p (by linarith)) tendsto_id
+    have hall := ((tendsto_const_nhds (x := ∫ u in σ1..R, Φw F ((u : ℂ) + y1 * I))).add
+      (hright.const_mul I)).sub htop |>.sub (hleft.const_mul I)
+    rw [sub_zero] at hall
+    have hev : (fun T => (∫ u in σ1..R, Φw F ((u : ℂ) + y1 * I)) +
+        I * (∫ t in y1..id T, Φw F ((R : ℂ) + t * I)) -
+        (∫ u in c2..R, Φw F ((u : ℂ) + T * I)) - I * (∫ t in y2..id T, Φw F ((c2 : ℂ) + t * I)))
+        =ᶠ[atTop] fun _ => ∫ θ in θ1..θ2, Φw F (arcpt θ) * arcd θ := by
+      filter_upwards [eventually_ge_atTop y2] with T hT
+      exact (hfin R T hR hT).symm
+    exact tendsto_nhds_unique (tendsto_const_nhds.congr' hev.symm) hall
+  -- limit `R → ∞`
+  obtain ⟨T0, hT00, hT0⟩ := h_ray_bound
+  have hbot := intervalIntegral_tendsto_integral_Ioi σ1
+    (integrableOn_Φw_horiz hRH hF (c := σ1) (by linarith) hy1p) tendsto_id
+  have hright : Tendsto (fun R : ℝ => ∫ t in Ioi y1, Φw F ((R : ℂ) + t * I)) atTop (𝓝 0) := by
+    have hb : Tendsto (fun R : ℝ => T0 * (Real.pi / (R - 1 / 2))) atTop (𝓝 0) := by
+      have : Tendsto (fun R : ℝ => R - 1 / 2) atTop atTop :=
+        tendsto_atTop_add_const_right _ _ tendsto_id
+      have := ((tendsto_inv_atTop_zero (𝕜 := ℝ)).comp this).const_mul (T0 * Real.pi)
+      rw [mul_zero] at this
+      refine this.congr (fun R => ?_)
+      simp only [Function.comp]; ring
+    refine squeeze_zero_norm' ?_ hb
+    filter_upwards [eventually_ge_atTop 2] with R hR
+    have hα : 0 < R - 1 / 2 := by linarith
+    have hgi := (Contour.integrable_inv_sq_add hα).const_mul T0
+    refine (norm_integral_le_of_norm_le hgi.integrableOn ?_).trans ?_
+    · rw [ae_restrict_iff' measurableSet_Ioi]
+      refine Eventually.of_forall (fun t ht => ?_)
+      have ht' : y1 < t := ht
+      have ht0 : t ≠ 0 := by linarith
+      have hp : 0 < (R - 1 / 2) ^ 2 + t ^ 2 := by positivity
+      have hH : ‖Hc F ((R : ℂ) + t * I)‖ ≤ T0 := by
+        rw [Hc_eq_h hRH hF (by linarith) ht0, norm_neg]; exact hT0 t R hR
+      have hden : ‖(R : ℂ) + t * I - 1 / 2‖ ^ 2 = (R - 1 / 2) ^ 2 + t ^ 2 := by
+        have e : (R : ℂ) + t * I - 1 / 2 = (((R - 1 / 2 : ℝ)) : ℂ) + t * I := by push_cast; ring
+        rw [e, normSq_line]
+      unfold Φw
+      rw [norm_div, norm_pow, hden, div_le_iff₀ hp]
+      calc _ ≤ T0 := hH
+        _ = T0 * (1 / ((R - 1 / 2) ^ 2 + t ^ 2)) * ((R - 1 / 2) ^ 2 + t ^ 2) := by field_simp
+    · rw [← show ∫ t : ℝ, T0 * (1 / ((R - 1 / 2) ^ 2 + t ^ 2)) = T0 * (Real.pi / (R - 1 / 2)) by
+        rw [integral_const_mul, Contour.integral_inv_sq_add hα]]
+      exact setIntegral_le_integral hgi (Eventually.of_forall (fun t => by
+        have : 0 < (R - 1 / 2) ^ 2 + t ^ 2 := by positivity
+        positivity))
+  have hall := (hbot.add (hright.const_mul I)).sub
+    (tendsto_const_nhds (x := I * ∫ t in Ioi y2, Φw F ((c2 : ℂ) + t * I)))
+  rw [mul_zero, add_zero] at hall
+  have hev : (fun R => (∫ u in σ1..id R, Φw F ((u : ℂ) + y1 * I)) +
+      I * (∫ t in Ioi y1, Φw F ((R : ℂ) + t * I)) - I * (∫ t in Ioi y2, Φw F ((c2 : ℂ) + t * I)))
+      =ᶠ[atTop] fun _ => ∫ θ in θ1..θ2, Φw F (arcpt θ) * arcd θ := by
+    filter_upwards [eventually_ge_atTop σ1] with R hR
+    exact (hlimT R hR).symm
+  exact tendsto_nhds_unique (tendsto_const_nhds.congr' hev.symm) hall
+
+end ZetaLog
+
+end
+
+section
+open Complex MeasureTheory Filter Topology Set Metric ComplexConjugate
+
+namespace ZetaLog
+
+lemma zeta_ne_zero_closed (hRH : RiemannHypothesis) {s : ℂ} (hs : 1 / 2 ≤ s.re) (hs1 : s ≠ 1)
+    (him : |s.im| ≤ 2) : riemannZeta s ≠ 0 := by
+  rcases eq_or_lt_of_le hs with h | h
+  · exact zeta_ne_zero_of_mem_strip_of_abs_im_le_two s (by rw [← h]; norm_num)
+      (by rw [← h]; norm_num) him
+  · exact zeta_ne_zero_of_U hRH h hs1
+
+lemma integrableOn_ray_gen2 {b t : ℝ}
+    (h1 : ∀ u : ℝ, b ≤ u → (u : ℂ) + t * I ≠ 1)
+    (hz : ∀ u : ℝ, b ≤ u → riemannZeta ((u : ℂ) + t * I) ≠ 0) :
+    IntegrableOn (fun u : ℝ => deriv riemannZeta ((u : ℂ) + t * I) / riemannZeta ((u : ℂ) + t * I))
+      (Ioi b) := by
+  set φ := fun u : ℝ => deriv riemannZeta ((u : ℂ) + t * I) / riemannZeta ((u : ℂ) + t * I)
+  have hcont : ContinuousOn φ (Ici b) := by
+    intro u hu
+    have := (continuousAt_logDeriv_zeta (h1 u hu) (hz u hu)).comp
+      (f := fun v : ℝ => (v : ℂ) + t * I) (by fun_prop)
+    exact this.continuousWithinAt
+  obtain ⟨K2, hK20, hK2⟩ := logDeriv_zeta_le
+  set c := max b 2
+  have i1 : IntegrableOn φ (Icc b c) := (hcont.mono Icc_subset_Ici_self).integrableOn_Icc
+  have i2 : IntegrableOn φ (Ioi c) := by
+    have hg : IntegrableOn (fun u : ℝ => 4 * K2 * Real.exp (-(Real.log 2) * u)) (Ioi c) :=
+      (exp_neg_integrableOn_Ioi c (Real.log_pos (by norm_num))).const_mul _
+    refine hg.mono' ((hcont.mono (fun u hu => le_of_lt (lt_of_le_of_lt (le_max_left b 2)
+      hu))).aestronglyMeasurable measurableSet_Ioi) ?_
+    rw [ae_restrict_iff' measurableSet_Ioi]
+    refine Eventually.of_forall (fun u hu => ?_)
+    have hu2 : 2 ≤ u := le_trans (le_max_right b 2) (le_of_lt hu)
+    have := hK2 ((u : ℂ) + t * I) (by rw [line_re]; exact hu2)
+    rw [line_re] at this
+    calc ‖φ u‖ ≤ (2 : ℝ) ^ (2 - u) * K2 := this
+      _ = 4 * K2 * Real.exp (-(Real.log 2) * u) := by
+        rw [Real.rpow_def_of_pos (by norm_num), show Real.log 2 * (2 - u) =
+          2 * Real.log 2 + (-(Real.log 2) * u) by ring, Real.exp_add,
+          show 2 * Real.log 2 = Real.log 4 by
+            rw [show (4 : ℝ) = 2 ^ 2 by norm_num, Real.log_pow]; norm_num,
+          Real.exp_log (by norm_num)]
+        ring
+  refine (i1.union i2).mono_set (fun u hu => ?_)
+  by_cases huc : u ≤ c
+  · left; exact ⟨le_of_lt hu, huc⟩
+  · right; exact lt_of_not_ge huc
+
+lemma wang_claim1 (hRH : RiemannHypothesis) : ∀ θ ∈ Icc (0 : ℝ) (Real.pi / 2), IntegrableOn
+    (fun u : ℝ => deriv riemannZeta ((u : ℂ) + (Real.sin θ : ℂ) * I) /
+      riemannZeta ((u : ℂ) + (Real.sin θ : ℂ) * I)) (Ioi (1 / 2 + Real.cos θ)) := by
+  intro θ hθ
+  have hc0 : 0 ≤ Real.cos θ :=
+    Real.cos_nonneg_of_mem_Icc ⟨by linarith [hθ.1, Real.pi_pos], hθ.2⟩
+  rcases eq_or_lt_of_le hθ.1 with h0 | h0
+  · subst h0
+    simp only [Real.sin_zero, Real.cos_zero]
+    apply integrableOn_ray_gen2
+    · intro u hu e; have := congrArg Complex.re e; simp at this; linarith
+    · intro u hu; apply riemannZeta_ne_zero_of_one_lt_re; simp; linarith
+  · have hs : 0 < Real.sin θ :=
+      Real.sin_pos_of_pos_of_lt_pi h0 (by linarith [hθ.2, Real.pi_pos])
+    have hs1 : Real.sin θ ≤ 1 := Real.sin_le_one θ
+    apply integrableOn_ray_gen2
+    · intro u hu e; have := congrArg Complex.im e; rw [Contour.im_line] at this; simp at this; linarith
+    · intro u hu
+      apply zeta_ne_zero_closed hRH
+      · rw [line_re]; linarith
+      · intro e; have := congrArg Complex.im e; rw [Contour.im_line] at this; simp at this; linarith
+      · rw [Contour.im_line, abs_of_pos hs]; linarith
+
+lemma re_Hc {F : ℂ → ℂ} (hF : IsLogG0 F) {s : ℂ} (hs : s ∈ U) (hs1 : s ≠ 1)
+    (hz : riemannZeta s ≠ 0) : (Hc F s).re = Real.log ‖riemannZeta s‖ := by
+  have hs0 : s ≠ 0 := by intro e; have := U_sub hs; rw [e] at this; simp at this
+  unfold Hc
+  rw [sub_re, add_re, re_F_eq hF hs, log_re, log_re, log_norm_G0 hs1 hs0 hz]
+  ring
+
+lemma continuousAt_Hc {F : ℂ → ℂ} (hF : IsLogG0 F) {s : ℂ} (hs : 1 < s.re) :
+    ContinuousAt (Hc F) s := by
+  have hF' : ContinuousAt F s :=
+    (hF.hasDeriv s (show 1 / 2 < s.re by linarith)).continuousAt
+  have h1 : ContinuousAt log s := continuousAt_clog (by rw [mem_slitPlane_iff]; left; linarith)
+  have h2 : ContinuousAt (fun s : ℂ => log (s - 1)) s :=
+    (continuousAt_clog (by rw [mem_slitPlane_iff]; left; simp; linarith)).comp
+      (continuousAt_id.sub continuousAt_const)
+  unfold Hc
+  exact (hF'.add h1).sub h2
+
+lemma continuousAt_Hc_Wq {F : ℂ → ℂ} (hF : IsLogG0 F) {s : ℂ} (hs : s ∈ Wq) :
+    ContinuousAt (Hc F) s := by
+  have hF' : ContinuousAt F s := (hF.hasDeriv s (Wq_sub_U hs)).continuousAt
+  have h1 : ContinuousAt log s := (continuousAt_clog (mem_slit_of_im_pos hs.2))
+  have h2 : ContinuousAt (fun s : ℂ => log (s - 1)) s :=
+    (continuousAt_clog (mem_slit_of_im_pos (by simpa using hs.2))).comp
+      (continuousAt_id.sub continuousAt_const)
+  unfold Hc
+  exact (hF'.add h1).sub h2
+
+lemma Hc_real {F : ℂ → ℂ} (hF : IsLogG0 F) {u : ℝ} (hu : 1 < u) : (Hc F (u : ℂ)).im = 0 := by
+  have hmem : (u : ℂ) ∈ U := by show 1 / 2 < (u : ℂ).re; simp; linarith
+  have h1 := hF.conj_eq _ hmem
+  rw [Complex.conj_ofReal] at h1
+  have hFi : (F u).im = 0 := by
+    have := congrArg Complex.im h1; rw [Complex.conj_im] at this; linarith
+  unfold Hc
+  rw [sub_im, add_im, hFi, show (u : ℂ) - 1 = ((u - 1 : ℝ) : ℂ) by push_cast; ring,
+    ← Complex.ofReal_log (by linarith), ← Complex.ofReal_log (by linarith)]
+  simp
+
+lemma wang_claim3 (hRH : RiemannHypothesis) : IntegrableOn
+    (fun t : ℝ => Real.log ‖riemannZeta ((1 / 2 : ℂ) + (t : ℂ) * I)‖ / t ^ 2) (Ioi 1) := by
+  have hk := (poisson_zeta hRH (a := 1) (b := 1 / 2) one_pos le_rfl (by norm_num)).1
+  have e : (((1 / 2 : ℝ)) : ℂ) = 1 / 2 := by push_cast; ring
+  rw [e] at hk
+  have hm : AEStronglyMeasurable (fun t : ℝ => 1 + 1 / t ^ 2) (volume.restrict (Ioi 1)) :=
+    (by fun_prop : Measurable fun t : ℝ => 1 + 1 / t ^ 2).aestronglyMeasurable
+  have hb : ∀ᵐ t ∂(volume.restrict (Ioi (1 : ℝ))), ‖1 + 1 / t ^ 2‖ ≤ 2 := by
+    rw [ae_restrict_iff' measurableSet_Ioi]
+    refine Eventually.of_forall (fun t ht => ?_)
+    have ht' : (1 : ℝ) < t := ht
+    have h1 : 1 / t ^ 2 ≤ 1 := by rw [div_le_one (by positivity)]; nlinarith
+    have h2 : 0 < 1 / t ^ 2 := by positivity
+    rw [Real.norm_eq_abs, abs_of_pos (by linarith)]; linarith
+  have := (hk.integrableOn (s := Ioi 1)).bdd_mul hm hb
+  refine IntegrableOn.congr_fun (μ := volume) this (fun t ht => ?_) measurableSet_Ioi
+  have ht' : (0 : ℝ) < t := lt_trans one_pos ht
+  have : (1 : ℝ) ^ 2 + t ^ 2 ≠ 0 := by positivity
+  field_simp
+  ring
+
+end ZetaLog
+
+end
+
+section
+open Complex MeasureTheory Filter Topology Set Metric ComplexConjugate
+
+namespace ZetaLog
+
+noncomputable def hh (b t : ℝ) : ℂ :=
+  -(∫ u in Ioi b, deriv riemannZeta ((u : ℂ) + (t : ℂ) * I) / riemannZeta ((u : ℂ) + (t : ℂ) * I))
+
+noncomputable def gg (θ : ℝ) : ℝ :=
+  (Complex.exp (-(θ : ℂ) * I) * hh (1 / 2 + Real.cos θ) (Real.sin θ)).re
+
+lemma dom_h (hRH : RiemannHypothesis) : ∃ N : ℝ → ℝ, (∀ t, 0 ≤ N t) ∧
+    Integrable (fun t => N t / ((1 / 2 : ℝ) ^ 2 + t ^ 2)) ∧
+    ∀ᵐ t : ℝ, t ≠ 0 → ∀ σ : ℝ, 1 / 2 < σ → σ ≤ 3 / 4 → ‖hh σ t‖ ≤ N t := by
+  obtain ⟨F, hF⟩ := exists_logG0 hRH
+  obtain ⟨C, hC0, hC⟩ := re_logDeriv_G0_ge hRH
+  obtain ⟨D, hD, hDb⟩ := im_h_bound hRH
+  set L : ℝ → ℝ := fun t => Real.log (|t| + 3) with hL
+  set ψ : ℝ → ℝ → ℝ := fun σ t => (F ((σ : ℂ) + t * I)).re + C * L t * σ with hψ
+  set ψ0 : ℝ → ℝ := fun t => Real.log ‖G0 ((1 / 2 : ℂ) + t * I)‖ + C * L t * (1 / 2) with hψ0
+  have hL0 : ∀ t, 0 ≤ L t := fun t => by linarith [one_le_log_add_three t]
+  have hup : ∀ t σ, 1 / 2 < σ → σ ≤ 3 / 4 → ψ σ t ≤ ψ (3 / 4) t := fun t σ hσ hσ2 =>
+    mono_reF hF hC t ⟨hσ, by linarith⟩ ⟨by norm_num, by norm_num⟩ hσ2
+  have hlow : ∀ᵐ t : ℝ, ∀ σ, 1 / 2 < σ → σ ≤ 2 → ψ0 t ≤ ψ σ t := by
+    filter_upwards [ae_G0_line_ne_zero hRH] with t ht σ hσ hσ2
+    have hc : ContinuousAt (fun σ' : ℝ => Real.log ‖G0 ((σ' : ℂ) + t * I)‖ + C * L t * σ')
+        (1 / 2) := by
+      have hG : ContinuousAt G0 (((1 / 2 : ℝ) : ℂ) + t * I) :=
+        (differentiableOn_G0.differentiableAt ((isOpen_lt continuous_const
+          Complex.continuous_re).mem_nhds
+          (by show 0 < ((((1 / 2 : ℝ)) : ℂ) + t * I).re; rw [line_re]; norm_num))).continuousAt
+      have hne : G0 (((1 / 2 : ℝ) : ℂ) + t * I) ≠ 0 := by
+        convert ht using 2; push_cast; ring
+      have h1 : ContinuousAt (fun σ' : ℝ => G0 ((σ' : ℂ) + t * I)) (1 / 2) :=
+        hG.comp (f := fun σ' : ℝ => (σ' : ℂ) + t * I) (by fun_prop)
+      exact (h1.norm.log (norm_ne_zero_iff.2 hne)).add (by fun_prop)
+    have ht2 := hc.tendsto.mono_left (nhdsWithin_le_nhds (s := Ioi (1 / 2)))
+    have e : Real.log ‖G0 ((((1 / 2 : ℝ)) : ℂ) + t * I)‖ + C * L t * (1 / 2) = ψ0 t := by
+      simp only [hψ0]; push_cast; ring_nf
+    rw [e] at ht2
+    refine le_of_tendsto ht2 ?_
+    filter_upwards [Ioo_mem_nhdsGT hσ] with σ' hσ'
+    have hm := mono_reF hF hC t ⟨hσ'.1, by linarith [hσ'.2]⟩ ⟨hσ, hσ2⟩ hσ'.2.le
+    have : (F ((σ' : ℂ) + t * I)).re = Real.log ‖G0 ((σ' : ℂ) + t * I)‖ :=
+      re_F_eq hF (by show 1 / 2 < ((σ' : ℂ) + t * I).re; rw [line_re]; exact hσ'.1)
+    simp only [hψ] at hm
+    rw [this] at hm
+    exact hm
+  have hRe : ∀ σ t, t ≠ 0 → 1 / 2 < σ → (hh σ t).re = ψ σ t - C * L t * σ +
+      (Real.log ‖(σ : ℂ) + t * I‖ - Real.log ‖(σ : ℂ) + t * I - 1‖) := by
+    intro σ t ht hσ
+    have := congrArg Complex.re (h_eq hRH hF hσ ht)
+    simp only [hh]
+    rw [this]
+    simp only [hψ, sub_re, add_re, log_re]
+    ring
+  set N : ℝ → ℝ := fun t => |ψ0 t| + |ψ (3 / 4) t| + 4 + (2 * C + D) * L t with hN
+  refine ⟨N, fun t => by have := hL0 t; simp only [hN]; positivity, ?_, ?_⟩
+  · have i0 := (poisson_half hRH (a := 1 / 2) (by norm_num)).1
+    have i1 := (poisson_reF hRH hF (a := 1 / 2) (b := 3 / 4) (by norm_num) (by norm_num)).1
+    have iw := integrable_log_weight (a := 1 / 2) (by norm_num)
+    have ic := Contour.integrable_inv_sq_add (α := 1 / 2) (by norm_num)
+    have hwpos : ∀ t : ℝ, 0 < (1 / 2 : ℝ) ^ 2 + t ^ 2 := fun t => by positivity
+    have j0 : Integrable (fun t => ψ0 t / ((1 / 2 : ℝ) ^ 2 + t ^ 2)) := by
+      refine (i0.add (iw.const_mul (C * (1 / 2)))).congr (Eventually.of_forall (fun t => ?_))
+      simp only [hψ0, hL, Pi.add_apply]; ring
+    have j1 : Integrable (fun t => ψ (3 / 4) t / ((1 / 2 : ℝ) ^ 2 + t ^ 2)) := by
+      refine (i1.add (iw.const_mul (C * (3 / 4)))).congr (Eventually.of_forall (fun t => ?_))
+      simp only [hψ, hL, Pi.add_apply]; ring
+    have j2 : Integrable (fun t => |ψ0 t| / ((1 / 2 : ℝ) ^ 2 + t ^ 2)) := by
+      refine j0.abs.congr (Eventually.of_forall (fun t => ?_))
+      show |_ / _| = _
+      rw [abs_div, abs_of_pos (hwpos t)]
+    have j3 : Integrable (fun t => |ψ (3 / 4) t| / ((1 / 2 : ℝ) ^ 2 + t ^ 2)) := by
+      refine j1.abs.congr (Eventually.of_forall (fun t => ?_))
+      show |_ / _| = _
+      rw [abs_div, abs_of_pos (hwpos t)]
+    refine (((j2.add j3).add (ic.const_mul 4)).add (iw.const_mul (2 * C + D))).congr
+      (Eventually.of_forall (fun t => ?_))
+    simp only [hN, hL, Pi.add_apply]; ring
+  · filter_upwards [hlow] with t hl ht σ hσ hσ2
+    have h1 := Complex.norm_le_abs_re_add_abs_im (hh σ t)
+    have h2 : |(hh σ t).im| ≤ D * L t := hDb t σ ht hσ (by linarith)
+    have h3 := abs_log_norm_diff_le (t := t) hσ hσ2
+    have h4 := hl σ hσ (by linarith)
+    have h5 := hup t σ hσ hσ2
+    have hL1 : 1 ≤ L t := one_le_log_add_three t
+    have h6 : |ψ σ t| ≤ |ψ0 t| + |ψ (3 / 4) t| := by
+      rw [abs_le]; constructor
+      · linarith [neg_abs_le (ψ0 t), abs_nonneg (ψ (3 / 4) t)]
+      · linarith [le_abs_self (ψ (3 / 4) t), abs_nonneg (ψ0 t)]
+    rw [hRe σ t ht hσ] at h1
+    have h7 : |ψ σ t - C * L t * σ + (Real.log ‖(σ : ℂ) + t * I‖ -
+        Real.log ‖(σ : ℂ) + t * I - 1‖)| ≤ |ψ σ t| + C * L t * σ + 4 := by
+      have := abs_add_le (ψ σ t - C * L t * σ) (Real.log ‖(σ : ℂ) + t * I‖ -
+        Real.log ‖(σ : ℂ) + t * I - 1‖)
+      have := abs_sub (ψ σ t) (C * L t * σ)
+      rw [abs_of_nonneg (by positivity : 0 ≤ C * L t * σ)] at this
+      linarith
+    have h8 : C * L t * σ ≤ 2 * C * L t := by
+      have : 0 ≤ C * L t := by positivity
+      nlinarith
+    simp only [hN]
+    nlinarith
+
+lemma arcpt_re (θ : ℝ) : (arcpt θ).re = 1 / 2 + Real.cos θ := by simp only [arcpt, line_re]
+lemma arcpt_im (θ : ℝ) : (arcpt θ).im = Real.sin θ := by simp only [arcpt, Contour.im_line]
+
+lemma arcpt_ne_one (θ : ℝ) : arcpt θ ≠ 1 := by
+  intro e
+  have h1 := congrArg Complex.re e
+  have h2 := congrArg Complex.im e
+  rw [arcpt_re] at h1; rw [arcpt_im] at h2
+  simp at h1 h2
+  have := Real.sin_sq_add_cos_sq θ
+  rw [h2] at this
+  have hc : Real.cos θ = 1 / 2 := by linarith
+  rw [hc] at this; norm_num at this
+
+lemma zeta_arcpt_ne (hRH : RiemannHypothesis) {θ : ℝ} (hθ : θ ∈ Icc (0 : ℝ) (Real.pi / 2)) :
+    riemannZeta (arcpt θ) ≠ 0 := by
+  have hc0 : 0 ≤ Real.cos θ :=
+    Real.cos_nonneg_of_mem_Icc ⟨by linarith [hθ.1, Real.pi_pos], hθ.2⟩
+  apply zeta_ne_zero_closed hRH
+  · rw [arcpt_re]; linarith
+  · exact arcpt_ne_one θ
+  · rw [arcpt_im]; linarith [Real.abs_sin_le_one θ]
+
+lemma gg_eq (hRH : RiemannHypothesis) {F : ℂ → ℂ} (hF : IsLogG0 F) {θ : ℝ}
+    (hθ : θ ∈ Ioo (0 : ℝ) (Real.pi / 2)) :
+    gg θ = (Complex.exp (-(θ : ℂ) * I) * Hc F (arcpt θ)).re := by
+  have hc : 0 < Real.cos θ := Real.cos_pos_of_mem_Ioo ⟨by linarith [hθ.1, Real.pi_pos], hθ.2⟩
+  have hs : Real.sin θ ≠ 0 :=
+    (Real.sin_pos_of_pos_of_lt_pi hθ.1 (by linarith [hθ.2, Real.pi_pos])).ne'
+  unfold gg arcpt
+  rw [Hc_eq_h hRH hF (by linarith) hs]
+  rfl
+
+lemma gg_bound (hRH : RiemannHypothesis) : ∃ M : ℝ, ∀ θ ∈ Ioo (0 : ℝ) (Real.pi / 2),
+    |gg θ| ≤ M := by
+  obtain ⟨F, hF⟩ := exists_logG0 hRH
+  obtain ⟨D, hD, hDb⟩ := im_h_bound hRH
+  have hcont : ContinuousOn (fun θ => Real.log ‖riemannZeta (arcpt θ)‖) (Icc 0 (Real.pi / 2)) := by
+    intro θ hθ
+    have h1 : ContinuousAt (fun θ => riemannZeta (arcpt θ)) θ :=
+      (differentiableAt_riemannZeta (arcpt_ne_one θ)).continuousAt.comp
+        (hasDerivAt_arcpt θ).continuousAt
+    exact (h1.norm.log (norm_ne_zero_iff.2 (zeta_arcpt_ne hRH hθ))).continuousWithinAt
+  obtain ⟨M1, hM1⟩ := (isCompact_Icc).exists_bound_of_continuousOn hcont
+  refine ⟨M1 + D * Real.log 4, fun θ hθ => ?_⟩
+  have hθ' : θ ∈ Icc (0 : ℝ) (Real.pi / 2) := Ioo_subset_Icc_self hθ
+  have hc : 0 < Real.cos θ := Real.cos_pos_of_mem_Ioo ⟨by linarith [hθ.1, Real.pi_pos], hθ.2⟩
+  have hsp : 0 < Real.sin θ :=
+    Real.sin_pos_of_pos_of_lt_pi hθ.1 (by linarith [hθ.2, Real.pi_pos])
+  rw [gg_eq hRH hF hθ]
+  have hmem := arcpt_mem hθ.1 hθ.2
+  have e1 : ‖Complex.exp (-(θ : ℂ) * I)‖ = 1 := by
+    rw [show -(θ : ℂ) * I = ((-θ : ℝ) : ℂ) * I by push_cast; ring, norm_exp_ofReal_mul_I]
+  have hre : |(Hc F (arcpt θ)).re| ≤ M1 := by
+    rw [re_Hc hF (Wq_sub_U hmem) (arcpt_ne_one θ) (zeta_arcpt_ne hRH hθ')]
+    have := hM1 θ hθ'; rwa [Real.norm_eq_abs] at this
+  have him : |(Hc F (arcpt θ)).im| ≤ D * Real.log 4 := by
+    have := hDb (Real.sin θ) (1 / 2 + Real.cos θ) hsp.ne' (by linarith)
+      (by linarith [Real.cos_le_one θ])
+    unfold arcpt
+    rw [Hc_eq_h hRH hF (by linarith) hsp.ne']
+    refine this.trans (mul_le_mul_of_nonneg_left ?_ hD.le)
+    apply Real.log_le_log (by positivity)
+    rw [abs_of_pos hsp]; linarith [Real.sin_le_one θ]
+  calc |(Complex.exp (-(θ : ℂ) * I) * Hc F (arcpt θ)).re|
+      ≤ ‖Complex.exp (-(θ : ℂ) * I) * Hc F (arcpt θ)‖ := Complex.abs_re_le_norm _
+    _ = ‖Hc F (arcpt θ)‖ := by rw [norm_mul, e1, one_mul]
+    _ ≤ |(Hc F (arcpt θ)).re| + |(Hc F (arcpt θ)).im| := Complex.norm_le_abs_re_add_abs_im _
+    _ ≤ _ := by linarith
+
+lemma gg_contOn (hRH : RiemannHypothesis) : ContinuousOn gg (Ioo 0 (Real.pi / 2)) := by
+  obtain ⟨F, hF⟩ := exists_logG0 hRH
+  have : ContinuousOn (fun θ : ℝ => (Complex.exp (-(θ : ℂ) * I) * Hc F (arcpt θ)).re)
+      (Ioo 0 (Real.pi / 2)) := by
+    intro θ hθ
+    have h1 : ContinuousAt (fun θ => Hc F (arcpt θ)) θ :=
+      (continuousAt_Hc_Wq hF (arcpt_mem hθ.1 hθ.2)).comp (hasDerivAt_arcpt θ).continuousAt
+    have h2 : ContinuousAt (fun θ : ℝ => Complex.exp (-(θ : ℂ) * I)) θ := by fun_prop
+    exact (Complex.continuous_re.continuousAt.comp (h2.mul h1)).continuousWithinAt
+  exact this.congr (fun θ hθ => gg_eq hRH hF hθ)
+
+lemma gg_intervalIntegrable (hRH : RiemannHypothesis) :
+    IntervalIntegrable gg volume 0 (Real.pi / 2) := by
+  obtain ⟨M, hM⟩ := gg_bound hRH
+  rw [intervalIntegrable_iff_integrableOn_Ioc_of_le (by positivity),
+    integrableOn_Ioc_iff_integrableOn_Ioo]
+  refine Integrable.mono' (g := fun _ => M) (integrableOn_const (by simp))
+    ((gg_contOn hRH).aestronglyMeasurable measurableSet_Ioo) ?_
+  rw [ae_restrict_iff' measurableSet_Ioo]
+  exact Eventually.of_forall (fun θ hθ => by rw [Real.norm_eq_abs]; exact hM θ hθ)
+
+end ZetaLog
+
+end
+
+section
+open Complex MeasureTheory Filter Topology Set Metric ComplexConjugate
+
+namespace ZetaLog
+
+lemma continuousAt_Φw_Wq {F : ℂ → ℂ} (hF : IsLogG0 F) {s : ℂ} (hs : s ∈ Wq) :
+    ContinuousAt (Φw F) s := by
+  unfold Φw
+  exact (continuousAt_Hc_Wq hF hs).div ((continuousAt_id.sub continuousAt_const).pow 2)
+    (pow_ne_zero 2 (Wq_ne_half hs))
+
+lemma continuousAt_Φw_real {F : ℂ → ℂ} (hF : IsLogG0 F) {u : ℝ} (hu : 1 < u) :
+    ContinuousAt (Φw F) (u : ℂ) := by
+  have hne : (u : ℂ) - 1 / 2 ≠ 0 := by
+    intro e; have := congrArg Complex.re e; simp at this; linarith
+  unfold Φw
+  exact (continuousAt_Hc hF (by simp; linarith)).div
+    ((continuousAt_id.sub continuousAt_const).pow 2) (pow_ne_zero 2 hne)
+
+lemma Φw_real_im {F : ℂ → ℂ} (hF : IsLogG0 F) {u : ℝ} (hu : 1 < u) :
+    (Φw F (u : ℂ)).im = 0 := by
+  unfold Φw
+  rw [show ((u : ℂ) - 1 / 2) ^ 2 = (((u - 1 / 2) ^ 2 : ℝ) : ℂ) by push_cast; ring,
+    Complex.div_ofReal_im, Hc_real hF hu, zero_div]
+
+lemma zeta_of_G0 {t : ℝ} (hG : G0 ((1 / 2 : ℂ) + t * I) ≠ 0) :
+    riemannZeta ((1 / 2 : ℂ) + t * I) ≠ 0 := by
+  intro hz; apply hG
+  have hs1 : (1 / 2 : ℂ) + t * I ≠ 1 := by
+    intro e; have := congrArg Complex.re e; simp at this
+  rw [G0_of_ne hs1, hz]; simp
+
+lemma finite_id (hRH : RiemannHypothesis) {F : ℂ → ℂ} (hF : IsLogG0 F) {θ1 θ2 : ℝ}
+    (h1 : 0 < θ1) (h12 : θ1 < θ2) (h2 : θ2 < Real.pi / 2) :
+    ∫ θ in θ1..θ2, gg θ =
+      (∫ u in Ioi (1 / 2 + Real.cos θ1), Φw F ((u : ℂ) + (Real.sin θ1 : ℝ) * I)).im -
+      (∫ t in Ioi (Real.sin θ2), Φw F ((((1 / 2 + Real.cos θ2 : ℝ)) : ℂ) + t * I)).re := by
+  have hA := arc_identity hRH hF h1 h12 h2
+  have hsub : ∀ θ ∈ uIcc θ1 θ2, θ ∈ Ioo 0 (Real.pi / 2) := by
+    intro θ hθ; rw [uIcc_of_le h12.le] at hθ; exact ⟨by linarith [hθ.1], by linarith [hθ.2]⟩
+  have hint : IntervalIntegrable (fun θ => Φw F (arcpt θ) * arcd θ) volume θ1 θ2 := by
+    apply ContinuousOn.intervalIntegrable
+    intro θ hθ
+    have hθ' := hsub θ hθ
+    have : ContinuousAt (fun θ => Φw F (arcpt θ) * arcd θ) θ :=
+      ((continuousAt_Φw_Wq hF (arcpt_mem hθ'.1 hθ'.2)).comp
+        (hasDerivAt_arcpt θ).continuousAt).mul continuous_arcd.continuousAt
+    exact this.continuousWithinAt
+  have him := intervalIntegral.intervalIntegral_im hint
+  rw [hA] at him
+  calc ∫ θ in θ1..θ2, gg θ = ∫ θ in θ1..θ2, RCLike.im (Φw F (arcpt θ) * arcd θ) := by
+        apply intervalIntegral.integral_congr
+        intro θ hθ
+        simp only [RCLike.im_to_complex]
+        rw [arc_integrand, I_mul_im, gg_eq hRH hF (hsub θ hθ)]
+    _ = _ := by rw [him, RCLike.im_to_complex, sub_im, I_mul_im]
+
+lemma re_hh_half (hRH : RiemannHypothesis) {t : ℝ} (ht : t ≠ 0)
+    (hz : riemannZeta ((1 / 2 : ℂ) + t * I) ≠ 0) :
+    (hh (1 / 2) t).re = Real.log ‖riemannZeta ((1 / 2 : ℂ) + t * I)‖ := by
+  obtain ⟨F, hF⟩ := exists_logG0 hRH
+  have h1 : Tendsto (fun σ : ℝ => (hh σ t).re) (𝓝[>] (1 / 2)) (𝓝 (hh (1 / 2) t).re) :=
+    Complex.continuous_re.continuousAt.tendsto.comp (tendsto_ray_integral hRH ht hz).neg
+  have hs1 : ((1 / 2 : ℝ) : ℂ) + t * I ≠ 1 := by
+    intro e; have := congrArg Complex.im e; simp at this; exact ht this
+  have e : ((1 / 2 : ℝ) : ℂ) + t * I = (1 / 2 : ℂ) + t * I := by push_cast; ring
+  have h2 : Tendsto (fun σ : ℝ => Real.log ‖riemannZeta ((σ : ℂ) + t * I)‖) (𝓝[>] (1 / 2))
+      (𝓝 (Real.log ‖riemannZeta ((1 / 2 : ℂ) + t * I)‖)) := by
+    have hz' : riemannZeta (((1 / 2 : ℝ) : ℂ) + t * I) ≠ 0 := by rw [e]; exact hz
+    have hc : ContinuousAt (fun σ : ℝ => Real.log ‖riemannZeta ((σ : ℂ) + t * I)‖) (1 / 2) := by
+      have := (differentiableAt_riemannZeta hs1).continuousAt.comp
+        (f := fun σ : ℝ => (σ : ℂ) + t * I) (x := 1 / 2) (by fun_prop)
+      exact this.norm.log (norm_ne_zero_iff.2 hz')
+    have := hc.tendsto.mono_left (nhdsWithin_le_nhds (s := Ioi (1 / 2)))
+    rw [e] at this
+    exact this
+  refine tendsto_nhds_unique (h1.congr' ?_) h2
+  filter_upwards [self_mem_nhdsWithin] with σ hσ
+  have hσ' : 1 / 2 < σ := hσ
+  have hs1' : (σ : ℂ) + t * I ≠ 1 := by
+    intro e; have := congrArg Complex.im e; simp at this; exact ht this
+  rw [show hh σ t = Hc F ((σ : ℂ) + t * I) from (Hc_eq_h hRH hF hσ' ht).symm,
+    re_Hc hF (by show 1 / 2 < ((σ : ℂ) + t * I).re; rw [line_re]; exact hσ') hs1'
+      (zeta_ne_zero_of_U hRH (by rw [line_re]; exact hσ') hs1')]
+
+lemma Hc_bound_bot (hRH : RiemannHypothesis) {F : ℂ → ℂ} (hF : IsLogG0 F) :
+    ∃ Bh : ℝ, 0 ≤ Bh ∧ ∀ u y : ℝ, 5 / 4 ≤ u → 0 < y → y ≤ 1 / 2 →
+      ‖Hc F ((u : ℂ) + (y : ℂ) * I)‖ ≤ Bh := by
+  set K : Set ℂ := (fun p : ℝ × ℝ => (p.1 : ℂ) + (p.2 : ℂ) * I) ''
+    (Icc (5 / 4 : ℝ) 2 ×ˢ Icc (0 : ℝ) (1 / 2))
+  have hK : IsCompact K := (isCompact_Icc.prod isCompact_Icc).image (by fun_prop)
+  have hc : ContinuousOn (Hc F) K := by
+    rintro _ ⟨p, hp, rfl⟩
+    apply (continuousAt_Hc hF _).continuousWithinAt
+    show 1 < ((p.1 : ℂ) + (p.2 : ℂ) * I).re
+    rw [line_re]; linarith [hp.1.1]
+  obtain ⟨B1, hB1⟩ := hK.exists_bound_of_continuousOn hc
+  obtain ⟨T0, hT0, hT⟩ := h_ray_bound
+  refine ⟨|B1| + T0, by positivity, fun u y hu hy hy2 => ?_⟩
+  by_cases hu2 : u ≤ 2
+  · have := hB1 _ ⟨(u, y), ⟨⟨hu, hu2⟩, ⟨hy.le, hy2⟩⟩, rfl⟩
+    linarith [le_abs_self B1]
+  · rw [Hc_eq_h hRH hF (by linarith) hy.ne', norm_neg]
+    have := hT y u (by linarith)
+    linarith [abs_nonneg B1]
+
+lemma bot_lim (hRH : RiemannHypothesis) {F : ℂ → ℂ} (hF : IsLogG0 F) :
+    Tendsto (fun ε : ℝ =>
+      (∫ u in Ioi (1 / 2 + Real.cos ε), Φw F ((u : ℂ) + (Real.sin ε : ℝ) * I)).im)
+      (𝓝[>] 0) (𝓝 0) := by
+  obtain ⟨Bh, hBh0, hBh⟩ := Hc_bound_bot hRH hF
+  set Fn : ℝ → ℝ → ℂ := fun ε => indicator (Ioi (1 / 2 + Real.cos ε))
+    (fun u : ℝ => Φw F ((u : ℂ) + (Real.sin ε : ℝ) * I)) with hFn
+  set Fl : ℝ → ℂ := indicator (Ioi (3 / 2 : ℝ)) (fun u : ℝ => Φw F (u : ℂ)) with hFl
+  have hev : ∀ᶠ ε in 𝓝[>] (0 : ℝ), ε ∈ Ioo (0 : ℝ) (1 / 2) := Ioo_mem_nhdsGT (by norm_num)
+  have hsc : ∀ ε ∈ Ioo (0 : ℝ) (1 / 2),
+      0 < Real.sin ε ∧ Real.sin ε ≤ 1 / 2 ∧ 7 / 8 ≤ Real.cos ε := by
+    intro ε hε
+    refine ⟨Real.sin_pos_of_pos_of_lt_pi hε.1 (by linarith [Real.pi_gt_three, hε.2]),
+      by linarith [Real.sin_le hε.1.le, hε.2], ?_⟩
+    have := Real.one_sub_sq_div_two_le_cos (x := ε)
+    nlinarith [hε.1, hε.2]
+  have hT : Tendsto (fun ε => ∫ u, Fn ε u) (𝓝[>] 0) (𝓝 (∫ u, Fl u)) := by
+    refine tendsto_integral_filter_of_dominated_convergence (fun u => 5 * Bh * (1 + u ^ 2)⁻¹)
+      ?_ ?_ (integrable_inv_one_add_sq.const_mul (5 * Bh)) ?_
+    · filter_upwards [hev] with ε hε
+      obtain ⟨h1, h2, h3⟩ := hsc ε hε
+      exact ((integrableOn_Φw_horiz hRH hF (c := 1 / 2 + Real.cos ε) (by linarith) h1).integrable_indicator
+        measurableSet_Ioi).aestronglyMeasurable
+    · filter_upwards [hev] with ε hε
+      obtain ⟨h1, h2, h3⟩ := hsc ε hε
+      refine Eventually.of_forall (fun u => ?_)
+      have hb0 : 0 ≤ 5 * Bh * (1 + u ^ 2)⁻¹ := by positivity
+      by_cases hu : u ∈ Ioi (1 / 2 + Real.cos ε)
+      · have hu' : 1 / 2 + Real.cos ε < u := hu
+        simp only [hFn]
+        rw [indicator_of_mem hu]
+        have hd : ‖(u : ℂ) + (Real.sin ε : ℝ) * I - 1 / 2‖ ^ 2 = (u - 1 / 2) ^ 2 + (Real.sin ε) ^ 2 := by
+          rw [show (u : ℂ) + (Real.sin ε : ℝ) * I - 1 / 2 = ((u - 1 / 2 : ℝ) : ℂ) + (Real.sin ε : ℝ) * I
+            by push_cast; ring, normSq_line]
+        have hp : 0 < (u - 1 / 2) ^ 2 := by nlinarith
+        have hk := hBh u (Real.sin ε) (by linarith) h1 h2
+        unfold Φw
+        rw [norm_div, norm_pow, hd, div_le_iff₀ (by positivity)]
+        have h5 : 1 + u ^ 2 ≤ 5 * (u - 1 / 2) ^ 2 := by nlinarith
+        have hne : (1 + u ^ 2) ≠ 0 := by positivity
+        calc ‖Hc F ((u : ℂ) + (Real.sin ε : ℝ) * I)‖ ≤ Bh := hk
+          _ = Bh * (1 + u ^ 2)⁻¹ * (1 + u ^ 2) := by rw [mul_assoc, inv_mul_cancel₀ hne, mul_one]
+          _ ≤ Bh * (1 + u ^ 2)⁻¹ * (5 * (u - 1 / 2) ^ 2) :=
+              mul_le_mul_of_nonneg_left h5 (by positivity)
+          _ = 5 * Bh * (1 + u ^ 2)⁻¹ * (u - 1 / 2) ^ 2 := by ring
+          _ ≤ 5 * Bh * (1 + u ^ 2)⁻¹ * ((u - 1 / 2) ^ 2 + Real.sin ε ^ 2) :=
+              mul_le_mul_of_nonneg_left (le_add_of_nonneg_right (sq_nonneg _)) (by positivity)
+      · simp only [hFn]; rw [indicator_of_notMem hu, norm_zero]; exact hb0
+    · have hne : ∀ᵐ u : ℝ, u ≠ 3 / 2 := by rw [ae_iff]; simp
+      filter_upwards [hne] with u hu
+      rcases lt_or_gt_of_ne hu with hlt | hgt
+      · have hc : Tendsto (fun ε : ℝ => 1 / 2 + Real.cos ε) (𝓝[>] 0) (𝓝 (3 / 2)) :=
+          ((continuous_const.add Real.continuous_cos).tendsto' 0 (3 / 2)
+            (by simp; norm_num)).mono_left nhdsWithin_le_nhds
+        have hev2 := hc.eventually_const_lt hlt
+        have hFl0 : Fl u = 0 := indicator_of_notMem (show u ∉ Ioi (3 / 2 : ℝ) from
+          fun h => by simp only [mem_Ioi] at h; linarith) _
+        rw [hFl0]
+        refine tendsto_const_nhds.congr' ?_
+        filter_upwards [hev2] with ε hε
+        simp only [hFn]
+        rw [indicator_of_notMem (show u ∉ Ioi (1 / 2 + Real.cos ε) from
+          fun h => by simp only [mem_Ioi] at h; linarith)]
+      · have hFl1 : Fl u = Φw F (u : ℂ) := indicator_of_mem (show u ∈ Ioi (3 / 2 : ℝ) from hgt) _
+        rw [hFl1]
+        have hcont : ContinuousAt (Φw F) (u : ℂ) := continuousAt_Φw_real hF (by linarith)
+        have hl : Tendsto (fun ε : ℝ => (u : ℂ) + (Real.sin ε : ℝ) * I) (𝓝[>] 0) (𝓝 (u : ℂ)) :=
+          ((by fun_prop : Continuous (fun ε : ℝ => (u : ℂ) + (Real.sin ε : ℝ) * I)).tendsto' 0
+            (u : ℂ) (by simp)).mono_left nhdsWithin_le_nhds
+        refine (hcont.tendsto.comp hl).congr' (Eventually.of_forall (fun ε => ?_))
+        have hu' : u ∈ Ioi (1 / 2 + Real.cos ε) :=
+          show 1 / 2 + Real.cos ε < u by linarith [Real.cos_le_one ε]
+        simp only [hFn, Function.comp_apply]
+        rw [indicator_of_mem hu']
+  have hIm : (∫ u, Fl u).im = 0 := by
+    by_cases hi : Integrable Fl
+    · have h := integral_im hi
+      simp only [RCLike.im_to_complex] at h
+      rw [← h]
+      have : (fun u => (Fl u).im) = fun _ => (0 : ℝ) := by
+        funext u
+        by_cases hu : u ∈ Ioi (3 / 2 : ℝ)
+        · simp only [hFl]; rw [indicator_of_mem hu]
+          exact Φw_real_im hF (by have : (3 / 2 : ℝ) < u := hu; linarith)
+        · simp only [hFl]; rw [indicator_of_notMem hu]; simp
+      rw [this, integral_zero]
+    · rw [integral_undef hi]; simp
+  have hT' := (Complex.continuous_im.tendsto _).comp hT
+  rw [hIm] at hT'
+  refine hT'.congr' (Eventually.of_forall (fun ε => ?_))
+  simp only [Function.comp_apply, hFn]
+  rw [integral_indicator measurableSet_Ioi]
+
+end ZetaLog
+
+end
+
+section
+open Complex MeasureTheory Filter Topology Set Metric ComplexConjugate
+
+namespace ZetaLog
+
+lemma left_lim (hRH : RiemannHypothesis) {F : ℂ → ℂ} (hF : IsLogG0 F) :
+    Tendsto (fun ε : ℝ =>
+      (∫ t in Ioi (Real.cos ε), Φw F ((((1 / 2 + Real.sin ε : ℝ)) : ℂ) + t * I)).re)
+      (𝓝[>] 0) (𝓝 (-∫ t in Ioi (1 : ℝ), Real.log ‖riemannZeta ((1 / 2 : ℂ) + t * I)‖ / t ^ 2)) := by
+  obtain ⟨N, hN0, hNi, hN⟩ := dom_h hRH
+  set G : ℝ → ℝ → ℝ := fun ε t => (indicator (Ioi (Real.cos ε))
+    (fun t : ℝ => Φw F ((((1 / 2 + Real.sin ε : ℝ)) : ℂ) + t * I)) t).re with hG
+  set Gl : ℝ → ℝ := indicator (Ioi (1 : ℝ)) (fun t => -(hh (1 / 2) t).re / t ^ 2) with hGl
+  have hev : ∀ᶠ ε in 𝓝[>] (0 : ℝ), ε ∈ Ioo (0 : ℝ) (1 / 4) := Ioo_mem_nhdsGT (by norm_num)
+  have hsc : ∀ ε ∈ Ioo (0 : ℝ) (1 / 4),
+      0 < Real.sin ε ∧ Real.sin ε ≤ 1 / 4 ∧ 1 / 2 < Real.cos ε := by
+    intro ε hε
+    refine ⟨Real.sin_pos_of_pos_of_lt_pi hε.1 (by linarith [Real.pi_gt_three, hε.2]),
+      by linarith [Real.sin_le hε.1.le, hε.2], ?_⟩
+    have := Real.one_sub_sq_div_two_le_cos (x := ε)
+    nlinarith [hε.1, hε.2]
+  have hint : ∀ ε ∈ Ioo (0 : ℝ) (1 / 4), IntegrableOn
+      (fun t : ℝ => Φw F ((((1 / 2 + Real.sin ε : ℝ)) : ℂ) + t * I)) (Ioi (Real.cos ε)) :=
+    fun ε hε => integrableOn_Φw_vert hRH hF (by linarith [(hsc ε hε).1])
+      (by linarith [(hsc ε hε).2.2])
+  have hT : Tendsto (fun ε => ∫ t, G ε t) (𝓝[>] 0) (𝓝 (∫ t, Gl t)) := by
+    refine tendsto_integral_filter_of_dominated_convergence
+      (fun t => 2 * (N t / ((1 / 2 : ℝ) ^ 2 + t ^ 2))) ?_ ?_ (hNi.const_mul 2) ?_
+    · filter_upwards [hev] with ε hε
+      exact ((hint ε hε).integrable_indicator measurableSet_Ioi).aestronglyMeasurable.re
+    · filter_upwards [hev] with ε hε
+      obtain ⟨h1, h2, h3⟩ := hsc ε hε
+      filter_upwards [hN] with t ht
+      have hb0 : 0 ≤ 2 * (N t / ((1 / 2 : ℝ) ^ 2 + t ^ 2)) := by have := hN0 t; positivity
+      by_cases hmem : t ∈ Ioi (Real.cos ε)
+      · have ht' : Real.cos ε < t := hmem
+        have htp : 0 < t := by linarith
+        simp only [hG]
+        rw [indicator_of_mem hmem, Real.norm_eq_abs]
+        refine (Complex.abs_re_le_norm _).trans ?_
+        have e : Hc F ((((1 / 2 + Real.sin ε : ℝ)) : ℂ) + t * I) = hh (1 / 2 + Real.sin ε) t :=
+          Hc_eq_h hRH hF (by linarith) htp.ne'
+        have hk : ‖hh (1 / 2 + Real.sin ε) t‖ ≤ N t := ht htp.ne' _ (by linarith) (by linarith)
+        have hd : ‖(((1 / 2 + Real.sin ε : ℝ)) : ℂ) + t * I - 1 / 2‖ ^ 2 =
+            (Real.sin ε) ^ 2 + t ^ 2 := by
+          rw [show (((1 / 2 + Real.sin ε : ℝ)) : ℂ) + t * I - 1 / 2 =
+            ((Real.sin ε : ℝ) : ℂ) + t * I by push_cast; ring, normSq_line]
+        unfold Φw
+        rw [e, norm_div, norm_pow, hd]
+        have ht2 : 1 / 4 < t ^ 2 := by nlinarith
+        calc ‖hh (1 / 2 + Real.sin ε) t‖ / (Real.sin ε ^ 2 + t ^ 2)
+            ≤ N t / (Real.sin ε ^ 2 + t ^ 2) := div_le_div_of_nonneg_right hk (by positivity)
+          _ ≤ N t / t ^ 2 := div_le_div_of_nonneg_left (hN0 t) (by positivity) (by nlinarith)
+          _ ≤ 2 * (N t / ((1 / 2 : ℝ) ^ 2 + t ^ 2)) := by
+            rw [← mul_div_assoc, div_le_div_iff₀ (by positivity) (by positivity)]
+            nlinarith [mul_nonneg (hN0 t) (show 0 ≤ t ^ 2 - 1 / 4 by linarith)]
+      · simp only [hG]; rw [indicator_of_notMem hmem]; simpa using hb0
+    · have hne1 : ∀ᵐ t : ℝ, t ≠ 1 := by rw [ae_iff]; simp
+      filter_upwards [hne1, ae_G0_line_ne_zero hRH] with t h1 hG0
+      rcases lt_or_gt_of_ne h1 with hlt | hgt
+      · have hc : Tendsto Real.cos (𝓝[>] 0) (𝓝 1) :=
+          (Real.continuous_cos.tendsto' 0 1 (by simp)).mono_left nhdsWithin_le_nhds
+        have hev2 := hc.eventually_const_lt hlt
+        have h0 : Gl t = 0 := by
+          simp only [hGl]
+          exact indicator_of_notMem (show t ∉ Ioi (1 : ℝ) from
+            fun h => by simp only [mem_Ioi] at h; linarith) _
+        rw [h0]
+        refine tendsto_const_nhds.congr' ?_
+        filter_upwards [hev2] with ε hε
+        simp only [hG]
+        rw [indicator_of_notMem (show t ∉ Ioi (Real.cos ε) from
+          fun h => by simp only [mem_Ioi] at h; linarith)]
+        simp
+      · have ht0 : t ≠ 0 := by intro e; rw [e] at hgt; norm_num at hgt
+        have hz := zeta_of_G0 hG0
+        have h0 : Gl t = -(hh (1 / 2) t).re / t ^ 2 := by
+          simp only [hGl]
+          exact indicator_of_mem (show t ∈ Ioi (1 : ℝ) from hgt) _
+        rw [h0]
+        have hσ : Tendsto (fun ε : ℝ => 1 / 2 + Real.sin ε) (𝓝[>] 0) (𝓝[>] (1 / 2)) := by
+          refine tendsto_nhdsWithin_iff.2 ⟨?_, ?_⟩
+          · exact ((continuous_const.add Real.continuous_sin).tendsto' 0 (1 / 2)
+              (by simp)).mono_left nhdsWithin_le_nhds
+          · filter_upwards [Ioo_mem_nhdsGT (show (0 : ℝ) < 1 by norm_num)] with ε hε
+            show 1 / 2 < 1 / 2 + Real.sin ε
+            linarith [Real.sin_pos_of_pos_of_lt_pi hε.1 (by linarith [Real.pi_gt_three, hε.2])]
+        have hA : Tendsto (fun ε : ℝ => hh (1 / 2 + Real.sin ε) t) (𝓝[>] 0)
+            (𝓝 (hh (1 / 2) t)) :=
+          (tendsto_ray_integral hRH ht0 hz).neg.comp hσ
+        have hB : Tendsto (fun ε : ℝ => (((1 / 2 + Real.sin ε : ℝ)) : ℂ) + t * I - 1 / 2)
+            (𝓝[>] 0) (𝓝 ((t : ℂ) * I)) :=
+          ((by fun_prop : Continuous (fun ε : ℝ =>
+            (((1 / 2 + Real.sin ε : ℝ)) : ℂ) + t * I - 1 / 2)).tendsto' 0 ((t : ℂ) * I)
+            (by simp only [Real.sin_zero, add_zero]; push_cast; ring)).mono_left
+            nhdsWithin_le_nhds
+        have hne : (t : ℂ) * I ≠ 0 := mul_ne_zero (by exact_mod_cast ht0) I_ne_zero
+        have hC := hA.div (hB.pow 2) (pow_ne_zero 2 hne)
+        have hC' := (Complex.continuous_re.tendsto _).comp hC
+        have hval : (hh (1 / 2) t / ((t : ℂ) * I) ^ 2).re = -(hh (1 / 2) t).re / t ^ 2 := by
+          rw [mul_pow, I_sq, show (t : ℂ) ^ 2 * -1 = ((-(t ^ 2) : ℝ) : ℂ) by push_cast; ring,
+            Complex.div_ofReal_re]
+          ring
+        rw [hval] at hC'
+        refine hC'.congr' ?_
+        filter_upwards [Ioo_mem_nhdsGT (show (0 : ℝ) < 1 by norm_num)] with ε hε
+        have hs : 0 < Real.sin ε :=
+          Real.sin_pos_of_pos_of_lt_pi hε.1 (by linarith [Real.pi_gt_three, hε.2])
+        have hmem : t ∈ Ioi (Real.cos ε) := show Real.cos ε < t by linarith [Real.cos_le_one ε]
+        simp only [hG, Function.comp_apply]
+        rw [indicator_of_mem hmem]
+        unfold Φw
+        rw [Hc_eq_h hRH hF (by linarith) ht0]
+        rfl
+  have hEq : ∫ t, Gl t = -∫ t in Ioi (1 : ℝ), Real.log ‖riemannZeta ((1 / 2 : ℂ) + t * I)‖ / t ^ 2 := by
+    simp only [hGl]
+    rw [integral_indicator measurableSet_Ioi, ← integral_neg]
+    refine setIntegral_congr_ae measurableSet_Ioi ?_
+    filter_upwards [ae_G0_line_ne_zero hRH] with t hG0 ht
+    have ht0 : t ≠ 0 := by have : (1 : ℝ) < t := ht; linarith
+    rw [re_hh_half hRH ht0 (zeta_of_G0 hG0)]
+    ring
+  rw [hEq] at hT
+  refine hT.congr' ?_
+  filter_upwards [hev] with ε hε
+  have hI := (hint ε hε).integrable_indicator measurableSet_Ioi
+  have h := integral_re hI
+  simp only [RCLike.re_to_complex] at h
+  simp only [hG]
+  rw [h, integral_indicator measurableSet_Ioi]
+
+end ZetaLog
+
+end
+
+section
+open Complex MeasureTheory Filter Topology Set Metric ComplexConjugate
+
+namespace ZetaLog
+
+theorem sbmWang_of_RH (hRH : RiemannHypothesis) :
+    let H (b t : ℝ) : ℂ := -(∫ u in Set.Ioi b, deriv riemannZeta ((u : ℂ)+(t : ℂ)*Complex.I) / riemannZeta ((u : ℂ)+(t : ℂ)*Complex.I))
+    let f (t : ℝ) := Real.log ‖riemannZeta ((1/2 : ℂ)+(t : ℂ)*Complex.I)‖ / t^2
+    let g (θ : ℝ) := (Complex.exp (-(θ : ℂ)*Complex.I) * H (1/2 + Real.cos θ) (Real.sin θ)).re
+    (∀ θ ∈ Set.Icc (0 : ℝ) (Real.pi/2), MeasureTheory.IntegrableOn
+      (fun u : ℝ => deriv riemannZeta ((u : ℂ)+(Real.sin θ : ℂ)*Complex.I) /
+        riemannZeta ((u : ℂ)+(Real.sin θ : ℂ)*Complex.I)) (Set.Ioi (1/2+Real.cos θ))) ∧
+    IntervalIntegrable g MeasureTheory.volume 0 (Real.pi/2) ∧ MeasureTheory.IntegrableOn f (Set.Ioi 1) ∧
+      (∫ t in Set.Ioi (1 : ℝ), f t) = ∫ θ in (0 : ℝ)..(Real.pi/2), g θ := by
+  intro H f g
+  show _ ∧ IntervalIntegrable gg volume 0 (Real.pi / 2) ∧ _ ∧
+    (∫ t in Ioi (1 : ℝ), Real.log ‖riemannZeta ((1 / 2 : ℂ) + t * I)‖ / t ^ 2) =
+      ∫ θ in (0 : ℝ)..(Real.pi / 2), gg θ
+  refine ⟨wang_claim1 hRH, gg_intervalIntegrable hRH, wang_claim3 hRH, ?_⟩
+  obtain ⟨F, hF⟩ := exists_logG0 hRH
+  have hgi := gg_intervalIntegrable hRH
+  have hpi := Real.pi_pos
+  set P : ℝ → ℝ := fun x => ∫ θ in (0 : ℝ)..x, gg θ with hP
+  have hPc : ContinuousOn P (uIcc 0 (Real.pi / 2)) :=
+    intervalIntegral.continuousOn_primitive_interval ((intervalIntegrable_iff' (by simp)).1 hgi)
+  have hmemI : ∀ x : ℝ, 0 ≤ x → x ≤ Real.pi / 2 → x ∈ uIcc 0 (Real.pi / 2) :=
+    fun x h0 h1 => by rw [uIcc_of_le (by positivity)]; exact ⟨h0, h1⟩
+  have hevI : ∀ᶠ ε in 𝓝[>] (0 : ℝ), ε ∈ Ioo (0 : ℝ) (Real.pi / 4) :=
+    Ioo_mem_nhdsGT (by positivity)
+  have t1 : Tendsto (fun ε => P ε) (𝓝[>] 0) (𝓝 (P 0)) := by
+    have hw := (hPc 0 (hmemI 0 le_rfl (by positivity))).tendsto
+    refine hw.comp (tendsto_nhdsWithin_iff.2 ⟨tendsto_nhdsWithin_of_tendsto_nhds tendsto_id, ?_⟩)
+    filter_upwards [hevI] with ε hε
+    exact hmemI ε hε.1.le (by linarith [hε.2])
+  have t2 : Tendsto (fun ε => P (Real.pi / 2 - ε)) (𝓝[>] 0) (𝓝 (P (Real.pi / 2))) := by
+    have hw := (hPc (Real.pi / 2) (hmemI _ (by positivity) le_rfl)).tendsto
+    refine hw.comp (tendsto_nhdsWithin_iff.2 ⟨?_, ?_⟩)
+    · exact ((continuous_const.sub continuous_id).tendsto' 0 (Real.pi / 2)
+        (by simp)).mono_left nhdsWithin_le_nhds
+    · filter_upwards [hevI] with ε hε
+      exact hmemI _ (by linarith [hε.2]) (by linarith [hε.1])
+  have tA : Tendsto (fun ε => ∫ θ in ε..(Real.pi / 2 - ε), gg θ) (𝓝[>] 0)
+      (𝓝 (∫ θ in (0 : ℝ)..(Real.pi / 2), gg θ)) := by
+    have := t2.sub t1
+    simp only [hP, intervalIntegral.integral_same, sub_zero] at this
+    refine this.congr' ?_
+    filter_upwards [hevI] with ε hε
+    exact intervalIntegral.integral_interval_sub_left
+      (hgi.mono_set (uIcc_subset_uIcc left_mem_uIcc
+        (hmemI _ (by linarith [hε.2]) (by linarith [hε.1]))))
+      (hgi.mono_set (uIcc_subset_uIcc left_mem_uIcc
+        (hmemI _ hε.1.le (by linarith [hε.2]))))
+  have tB := (bot_lim hRH hF).sub (left_lim hRH hF)
+  rw [zero_sub, neg_neg] at tB
+  have heq := tendsto_nhds_unique tA (tB.congr' (by
+    filter_upwards [hevI] with ε hε
+    have h := finite_id hRH hF (θ1 := ε) (θ2 := Real.pi / 2 - ε) hε.1 (by linarith [hε.2])
+      (by linarith [hε.1])
+    rw [Real.sin_pi_div_two_sub, Real.cos_pi_div_two_sub] at h
+    exact h.symm))
+  exact heq.symm
+
+end ZetaLog
+
+end
+
+section
+theorem solution :
+    let H (b t : ℝ) : ℂ := -(∫ u in Set.Ioi b, deriv riemannZeta ((u : ℂ)+(t : ℂ)*Complex.I) / riemannZeta ((u : ℂ)+(t : ℂ)*Complex.I))
+    let f (t : ℝ) := Real.log ‖riemannZeta ((1/2 : ℂ)+(t : ℂ)*Complex.I)‖ / t^2
+    let g (θ : ℝ) := (Complex.exp (-(θ : ℂ)*Complex.I) * H (1/2 + Real.cos θ) (Real.sin θ)).re
+    (∀ θ ∈ Set.Icc (0 : ℝ) (Real.pi/2), MeasureTheory.IntegrableOn
+      (fun u : ℝ => deriv riemannZeta ((u : ℂ)+(Real.sin θ : ℂ)*Complex.I) /
+        riemannZeta ((u : ℂ)+(Real.sin θ : ℂ)*Complex.I)) (Set.Ioi (1/2+Real.cos θ))) ∧
+    IntervalIntegrable g MeasureTheory.volume 0 (Real.pi/2) ∧ MeasureTheory.IntegrableOn f (Set.Ioi 1) ∧
+      (∫ t in Set.Ioi (1 : ℝ), f t) = ∫ θ in (0 : ℝ)..(Real.pi/2), g θ :=
+  ZetaLog.sbmWang_of_RH riemann_hypothesis
+
+end

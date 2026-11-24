@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_gibbs_suffix_union_bound
 -- name    : BalanceSpecification.gibbs_suffix_union_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:15:09.108721+00:00
 -- url     : https://prove2.me/theorems/2e0b7c22-44e4-4624-bc10-a9704f5be716

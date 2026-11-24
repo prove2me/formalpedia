@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_canonical_of_inv
 -- name    : FairSelling.canonical_of_inv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:14:24.865894+00:00
 -- url     : https://prove2.me/theorems/869d6c5f-a341-4696-994f-0bdc5a35e1c8

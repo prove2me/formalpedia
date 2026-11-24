@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_bag_exit
 -- name    : FairChores.bag_exit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:18:25.649083+00:00
 -- url     : https://prove2.me/theorems/2e23ac71-889a-4019-8220-628779012f03

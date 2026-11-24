@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_maxCost_le_iff
 -- name    : FairChores.maxCost_le_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:20:19.391442+00:00
 -- url     : https://prove2.me/theorems/71fbc0e9-bb71-45f3-884a-aedcbf302fd5

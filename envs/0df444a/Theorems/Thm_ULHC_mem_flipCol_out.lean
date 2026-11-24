@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_mem_flipCol_out
 -- name    : ULHC.mem_flipCol_out
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:01:58.983048+00:00
 -- url     : https://prove2.me/theorems/f73d7fd0-40e1-40f7-a71d-afa5523a1ff0

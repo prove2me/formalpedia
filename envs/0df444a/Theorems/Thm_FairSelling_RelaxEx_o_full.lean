@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_RelaxEx_o_full
 -- name    : FairSelling.RelaxEx.o_full
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:15:11.536378+00:00
 -- url     : https://prove2.me/theorems/13b6ffa6-3bb5-493b-8032-8319709ede09

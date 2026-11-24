@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_losses_initial
 -- name    : FairSelling.losses_initial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:10:53.752301+00:00
 -- url     : https://prove2.me/theorems/992f1396-848e-445b-ba1d-0ac839a1f0c2

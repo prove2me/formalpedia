@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_assignOutcome_valid
 -- name    : FairChores.assignOutcome_valid
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:20:36.758798+00:00
 -- url     : https://prove2.me/theorems/a97595ff-443a-44ff-a5ac-4c539c412676

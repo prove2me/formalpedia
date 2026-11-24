@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_exists_full_of_valid
 -- name    : FairSelling.exists_full_of_valid
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:15:05.89724+00:00
 -- url     : https://prove2.me/theorems/455d1dc3-38e4-45a4-b883-0a8d8c3ad9a4

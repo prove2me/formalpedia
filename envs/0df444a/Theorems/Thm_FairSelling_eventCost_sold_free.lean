@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_eventCost_sold_free
 -- name    : FairSelling.eventCost_sold_free
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:46.457345+00:00
 -- url     : https://prove2.me/theorems/aa48a7f8-cfd2-4064-9b7f-c2dc0ed14909

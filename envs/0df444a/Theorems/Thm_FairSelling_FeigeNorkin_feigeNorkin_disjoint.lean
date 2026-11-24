@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_FeigeNorkin_feigeNorkin_disjoint
 -- name    : FairSelling.FeigeNorkin.feigeNorkin_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:47:03.987966+00:00
 -- url     : https://prove2.me/theorems/aeafabb1-e654-4cbb-be98-57985618f337

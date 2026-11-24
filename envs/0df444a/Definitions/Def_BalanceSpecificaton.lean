@@ -1,0 +1,84 @@
+-- Prove2me | Definitions.Def_BalanceSpecificaton
+-- name    : BalanceSpecificaton
+-- status  : Definition
+-- author  : @marwahaha
+-- created : 2026-11-24T03:19:21.045829+00:00
+-- url     : https://prove2.me/theorems/603e1af2-3755-4242-8370-431ed02b0462
+-- title:
+--   Balance Specificaton
+-- statement:
+--   Definitions and structural lemmas for Balance Specificaton, from pseudorandom/balance_and_specification contributors (see pinned CC0-1.0 LICENSE and source headers)'s pinned Bi-balanced symbolic shifts, variable specification and entropy development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/pseudorandom/balance_and_specification/blob/62771ced95e6f431064d40780b623362263ae9e4/BalanceSpecificaton.lean
+
+module
+public import Definitions.Def_BalanceSpecificaton_AbsoluteContinuity
+public import Definitions.Def_BalanceSpecificaton_ArbitraryEntropy
+public import Definitions.Def_BalanceSpecificaton_BlockEntropy
+public import Definitions.Def_BalanceSpecificaton_BlockingEstimate
+public import Definitions.Def_BalanceSpecificaton_Coded
+public import Definitions.Def_BalanceSpecificaton_CodedLanguage
+public import Definitions.Def_BalanceSpecificaton_CountBounds
+public import Definitions.Def_BalanceSpecificaton_Counting
+public import Definitions.Def_BalanceSpecificaton_CylinderAlgebra
+public import Definitions.Def_BalanceSpecificaton_Entropy
+public import Definitions.Def_BalanceSpecificaton_EntropyAlgebra
+public import Definitions.Def_BalanceSpecificaton_EntropyContinuity
+public import Definitions.Def_BalanceSpecificaton_EntropyMinimal
+public import Definitions.Def_BalanceSpecificaton_EntropyModel
+public import Definitions.Def_BalanceSpecificaton_EntropyRealization
+public import Definitions.Def_BalanceSpecificaton_Examples
+public import Definitions.Def_BalanceSpecificaton_FactorialEntropy
+public import Definitions.Def_BalanceSpecificaton_FiniteEntropy
+public import Definitions.Def_BalanceSpecificaton_FiveSymbol
+public import Definitions.Def_BalanceSpecificaton_FiveSymbolBalance
+public import Definitions.Def_BalanceSpecificaton_Forbidden
+public import Definitions.Def_BalanceSpecificaton_GibbsBalance
+public import Definitions.Def_BalanceSpecificaton_GibbsEntropyMinimal
+public import Definitions.Def_BalanceSpecificaton_GibbsErgodic
+public import Definitions.Def_BalanceSpecificaton_GibbsExistence
+public import Definitions.Def_BalanceSpecificaton_Growth
+public import Definitions.Def_BalanceSpecificaton_GrowthTiling
+public import Definitions.Def_BalanceSpecificaton_GrowthUpperBounds
+public import Definitions.Def_BalanceSpecificaton_IntrinsicErgodicity
+public import Definitions.Def_BalanceSpecificaton_Language
+public import Definitions.Def_BalanceSpecificaton_LanguageProperties
+public import Definitions.Def_BalanceSpecificaton_MainEquivalence
+public import Definitions.Def_BalanceSpecificaton_MarkedRenewal
+public import Definitions.Def_BalanceSpecificaton_MarkerCodeCounts
+public import Definitions.Def_BalanceSpecificaton_MarkerConstruction
+public import Definitions.Def_BalanceSpecificaton_MarkerEmbedding
+public import Definitions.Def_BalanceSpecificaton_MarkerEstimates
+public import Definitions.Def_BalanceSpecificaton_MarkerExtension
+public import Definitions.Def_BalanceSpecificaton_MarkerNonleft
+public import Definitions.Def_BalanceSpecificaton_MarkerRight
+public import Definitions.Def_BalanceSpecificaton_MarkerSuffix
+public import Definitions.Def_BalanceSpecificaton_MarkerWordBounds
+public import Definitions.Def_BalanceSpecificaton_MaximalEntropy
+public import Definitions.Def_BalanceSpecificaton_Measures
+public import Definitions.Def_BalanceSpecificaton_Occurrence
+public import Definitions.Def_BalanceSpecificaton_OneSidedBounds
+public import Definitions.Def_BalanceSpecificaton_OneSidedExample
+public import Definitions.Def_BalanceSpecificaton_OneSidedGraph
+public import Definitions.Def_BalanceSpecificaton_OneSidedGraphLanguage
+public import Definitions.Def_BalanceSpecificaton_Periodicity
+public import Definitions.Def_BalanceSpecificaton_ProductShift
+public import Definitions.Def_BalanceSpecificaton_RenewalBounds
+public import Definitions.Def_BalanceSpecificaton_Results
+public import Definitions.Def_BalanceSpecificaton_SGap
+public import Definitions.Def_BalanceSpecificaton_SGapBSM
+public import Definitions.Def_BalanceSpecificaton_SGapBounds
+public import Definitions.Def_BalanceSpecificaton_SGapEntropy
+public import Definitions.Def_BalanceSpecificaton_SGapRenewal
+public import Definitions.Def_BalanceSpecificaton_Shortlex
+public import Definitions.Def_BalanceSpecificaton_Specification
+public import Definitions.Def_BalanceSpecificaton_Synchronization
+public import Definitions.Def_BalanceSpecificaton_SynchronizedCoded
+public import Definitions.Def_BalanceSpecificaton_TilingBounds
+public import Definitions.Def_BalanceSpecificaton_TopologicalMixing
+public import Definitions.Def_BalanceSpecificaton_TwoSidedCounts
+public import Definitions.Def_BalanceSpecificaton_VariationalPrinciple
+set_option autoImplicit true
+@[expose] public section
+
+

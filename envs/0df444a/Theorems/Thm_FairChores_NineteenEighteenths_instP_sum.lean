@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_NineteenEighteenths_instP_sum
 -- name    : FairChores.NineteenEighteenths.instP_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:22:26.463664+00:00
 -- url     : https://prove2.me/theorems/8ba11985-4a32-4f95-97d8-4a87def440d7

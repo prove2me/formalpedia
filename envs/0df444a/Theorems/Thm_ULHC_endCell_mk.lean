@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_endCell_mk
 -- name    : ULHC.endCell_mk
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:04:02.78682+00:00
 -- url     : https://prove2.me/theorems/77b28705-ff9d-48ac-a153-fc055309f914

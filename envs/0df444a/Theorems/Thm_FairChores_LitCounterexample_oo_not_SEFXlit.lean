@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_LitCounterexample_oo_not_SEFXlit
 -- name    : FairChores.LitCounterexample.oo_not_SEFXlit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:17:17.000705+00:00
 -- url     : https://prove2.me/theorems/9b2d23c0-cac8-42fb-8b6b-96e70a5cd589

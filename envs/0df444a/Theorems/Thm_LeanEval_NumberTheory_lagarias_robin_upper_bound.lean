@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeanEval_NumberTheory_lagarias_robin_upper_bound
 -- name    : LeanEval.NumberTheory.lagarias_robin_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-09-06T02:08:25.381502+00:00
 -- url     : https://prove2.me/theorems/478d7311-75ad-4f05-a938-96500d7fff45

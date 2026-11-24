@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_ElevenTwelfths_MMS_agent_one
 -- name    : FairSelling.ElevenTwelfths.MMS_agent_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:16:05.599568+00:00
 -- url     : https://prove2.me/theorems/a0e51e42-9db8-4126-85df-71446a66aafd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_EF1alloc_of_SEF1_full
 -- name    : FairSelling.EF1alloc_of_SEF1_full
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:14:28.77764+00:00
 -- url     : https://prove2.me/theorems/466dc24c-d8fe-4bb6-ab36-296cae1375be

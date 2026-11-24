@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_pair_acceptable
 -- name    : FairSelling.pair_acceptable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:13:46.977156+00:00
 -- url     : https://prove2.me/theorems/a961df61-aa6d-47fa-a441-ef80df098238

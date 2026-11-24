@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_start_corner_edges
 -- name    : ULHC.start_corner_edges
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:03:20.108406+00:00
 -- url     : https://prove2.me/theorems/b62d3ae5-2614-4ddb-a95c-c3c431523a57

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_exists_canonical_of_large_pairs
 -- name    : FairSelling.exists_canonical_of_large_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:46:55.063953+00:00
 -- url     : https://prove2.me/theorems/ac7fc108-9da6-497a-af45-932bb5afb5ac

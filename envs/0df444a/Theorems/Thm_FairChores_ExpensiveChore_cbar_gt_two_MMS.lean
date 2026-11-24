@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_ExpensiveChore_cbar_gt_two_MMS
 -- name    : FairChores.ExpensiveChore.cbar_gt_two_MMS
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:20:09.887467+00:00
 -- url     : https://prove2.me/theorems/a8f9ee96-2b11-43dd-8e70-0fdcc19c70d0

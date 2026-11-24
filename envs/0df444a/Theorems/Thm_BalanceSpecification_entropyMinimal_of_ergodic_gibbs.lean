@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_entropyMinimal_of_ergodic_gibbs
 -- name    : BalanceSpecification.entropyMinimal_of_ergodic_gibbs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:14:51.996657+00:00
 -- url     : https://prove2.me/theorems/7af219b8-4977-43e5-bb53-d0215cc843db

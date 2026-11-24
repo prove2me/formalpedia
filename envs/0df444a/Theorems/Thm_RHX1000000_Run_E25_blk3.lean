@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RHX1000000_Run_E25_blk3
 -- name    : RHX1000000.Run.E25.blk3
--- status  : Open
+-- status  : Proved
 -- author  : @@bwdaugherty
 -- created : 2026-11-24T03:07:48.804205+00:00
 -- url     : https://prove2.me/theorems/b0c95d8c-ecd0-489c-93a9-748237417256

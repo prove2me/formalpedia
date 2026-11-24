@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_budget_ge_of_cover
 -- name    : FairSelling.budget_ge_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:46:13.714612+00:00
 -- url     : https://prove2.me/theorems/519f7a90-3d27-4b35-8c4b-176e66c4f58b

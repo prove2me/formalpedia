@@ -80878,9 +80878,9 @@
 {"parent": "GlobalTheory.CompanionTheory.UnrDens.HenselStep.red_mul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ResAlgSplitTwo", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.UnrDens.HenselStep.red_mul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_UnimodularHermitianRepsCountSucc", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.UnrDens.HenselStep.red_mul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_CardFibreGramDifferential", "via": ["solution", "statement"]}
-{"parent": "RobustPower.StochGap.Supplement.theorem_4_4_simplex_adapt_gap", "child": "RobustPower_SimplexGap_SimplexInstance", "via": ["statement"]}
-{"parent": "RobustPower.StochGap.Supplement.theorem_4_4_simplex_adapt_gap", "child": "RobustPower_AdaptGap_Problems", "via": ["statement"]}
-{"parent": "RobustPower.StochGap.Supplement.theorem_4_4_simplex_adapt_gap", "child": "RobustPower_StochGap_Problems", "via": ["statement"]}
+{"parent": "RobustPower.StochGap.Supplement.theorem_4_4_simplex_adapt_gap", "child": "RobustPower_SimplexGap_SimplexInstance", "via": ["solution", "statement"]}
+{"parent": "RobustPower.StochGap.Supplement.theorem_4_4_simplex_adapt_gap", "child": "RobustPower_AdaptGap_Problems", "via": ["solution", "statement"]}
+{"parent": "RobustPower.StochGap.Supplement.theorem_4_4_simplex_adapt_gap", "child": "RobustPower_StochGap_Problems", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.Rg.Sw.WR.B.dirC_inv_entry", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundB", "via": ["statement"]}
 {"parent": "PositivityTheory.Rg.Sw.WR.B.dirC_inv_entry", "child": "Development_WeilBound_RepresentationTheoryGL_SiegelWeilProof_HolomorphicContinuation_MollifiedIntegrability_ClsBoundA", "via": ["statement"]}
 {"parent": "UpperTheory.Reformulated.B.EqOneOfPowNear.eq_one_of_pow_near", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_EqOneOfPowNear", "via": ["solution", "statement"]}
@@ -94519,7 +94519,7 @@
 {"parent": "GlobalTheory.JR.WeilProd.TensorTest.map_sum", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_IsLocallyConstantTestRepresentationTensorProduct", "via": ["statement"]}
 {"parent": "GlobalTheory.JR.SLGen.nS_coe", "child": "Development_AbelianVarietyTheory_Definitions_NonGaloisDescent_IsTestRep", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.JR.SLGen.nS_coe", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_Sl2GeneratedWeylUnipotent", "via": ["solution", "statement"]}
-{"parent": "RoughSurfaceScattering.inverse_problem_uniqueness", "child": "RoughSurfaceScattering_Basic", "via": ["statement"]}
+{"parent": "RoughSurfaceScattering.inverse_problem_uniqueness", "child": "RoughSurfaceScattering_Basic", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.UnitLemma.InvAlg.isReduced_of_separable_P", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_IsReducedOfSeparableMarkedCharpoly", "via": ["statement"]}
 {"parent": "GlobalTheory.UnitLemma.InvAlg.isReduced_of_separable_P", "child": "Development_AbelianVarietyTheory_Definitions_NonGaloisDescent_UnitLemmaGroup", "via": ["statement"]}
 {"parent": "GlobalTheory.UnitLemma.InvAlg.isReduced_of_separable_P", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_ExistsPowerBasisOfCharpolySeparable", "via": ["statement"]}

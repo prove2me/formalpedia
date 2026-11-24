@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_wtSum_univ_le_of_mem_MMSset
 -- name    : FairChores.wtSum_univ_le_of_mem_MMSset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:16:54.282619+00:00
 -- url     : https://prove2.me/theorems/69b8ebbf-2dca-4a68-9d3f-ba0a32429d5f

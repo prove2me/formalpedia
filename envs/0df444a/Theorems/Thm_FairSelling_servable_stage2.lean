@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_servable_stage2
 -- name    : FairSelling.servable_stage2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:14:29.84499+00:00
 -- url     : https://prove2.me/theorems/bb198500-2f30-4a77-9c4b-c72c3d1e946c

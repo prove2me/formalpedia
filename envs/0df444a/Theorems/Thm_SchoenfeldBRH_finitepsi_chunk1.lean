@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchoenfeldBRH_finitepsi_chunk1
 -- name    : SchoenfeldBRH.finitepsi_chunk1
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-11-24T03:07:53.102958+00:00
 -- url     : https://prove2.me/theorems/387f0bb2-20af-401b-a232-965ba2a00e51

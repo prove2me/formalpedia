@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_IsGibbsMeasure_ergodic
 -- name    : BalanceSpecification.IsGibbsMeasure.ergodic
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:50:11.732343+00:00
 -- url     : https://prove2.me/theorems/e4e15533-9408-4252-b4b7-5458e3193b6b

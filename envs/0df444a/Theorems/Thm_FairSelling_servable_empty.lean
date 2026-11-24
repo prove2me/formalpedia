@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_servable_empty
 -- name    : FairSelling.servable_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:14:25.076269+00:00
 -- url     : https://prove2.me/theorems/0b29c018-f405-4e22-a4a9-57289f0f4f96

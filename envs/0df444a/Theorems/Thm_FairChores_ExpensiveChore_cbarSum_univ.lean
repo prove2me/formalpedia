@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_ExpensiveChore_cbarSum_univ
 -- name    : FairChores.ExpensiveChore.cbarSum_univ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:19:39.198601+00:00
 -- url     : https://prove2.me/theorems/c3687170-523b-4ac0-943d-deeb5183cee1

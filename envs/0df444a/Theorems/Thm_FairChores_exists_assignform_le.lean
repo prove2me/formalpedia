@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_exists_assignform_le
 -- name    : FairChores.exists_assignform_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:20:41.5408+00:00
 -- url     : https://prove2.me/theorems/8d9b93a6-5df7-4017-93ae-2ff0ba873d91

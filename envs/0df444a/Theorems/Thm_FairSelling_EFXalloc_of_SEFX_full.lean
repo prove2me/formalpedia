@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_EFXalloc_of_SEFX_full
 -- name    : FairSelling.EFXalloc_of_SEFX_full
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:14:22.704716+00:00
 -- url     : https://prove2.me/theorems/4f861cd9-de8a-401d-a191-841f75f8de53

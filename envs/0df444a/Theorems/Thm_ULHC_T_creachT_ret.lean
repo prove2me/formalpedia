@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_creachT_ret
 -- name    : ULHC.T.creachT_ret
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:08:46.039788+00:00
 -- url     : https://prove2.me/theorems/2146bf7d-6428-4245-bcf7-ffc839343a08

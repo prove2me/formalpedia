@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_FeigeNorkinChores_feigeNorkinChores_core
 -- name    : FairChores.FeigeNorkinChores.feigeNorkinChores_core
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:21:47.558588+00:00
 -- url     : https://prove2.me/theorems/5c5af640-3f4a-492d-86ec-df7b9f240d99

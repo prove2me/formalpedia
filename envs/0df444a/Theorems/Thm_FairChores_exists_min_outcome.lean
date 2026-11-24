@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_exists_min_outcome
 -- name    : FairChores.exists_min_outcome
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:20:41.045611+00:00
 -- url     : https://prove2.me/theorems/388cfc76-cfee-42be-be5e-09e7982ea318

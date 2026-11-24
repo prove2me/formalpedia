@@ -23241,8 +23241,8 @@
 {"parent": "AvramDividend.Classical.avram_f6_original_convex_smalljump_compensated_generator_integral_nonnegative", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "RH1E6S01_D017_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RH1E6S01_D009_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.firstPassageFiniteHitMeasurable", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.firstPassageFiniteHitMeasurable", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["statement"]}
+{"parent": "Kyprianou.Ch03.firstPassageFiniteHitMeasurable", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.firstPassageFiniteHitMeasurable", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution", "statement"]}
 {"parent": "RPLib_F2_083", "child": "RPLib_F2_056", "via": ["statement"]}
 {"parent": "Aggmetrics.DataStream.abrupt_state", "child": "Aggmetrics_DataStreamDrift", "via": ["solution", "statement"]}
 {"parent": "Aggmetrics.DataStream.abrupt_state", "child": "Aggmetrics_DataStreamDelay", "via": ["solution", "statement"]}

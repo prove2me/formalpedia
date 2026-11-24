@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_PreAlloc_bundle_subset
 -- name    : FairChores.PreAlloc.bundle_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:17:54.495063+00:00
 -- url     : https://prove2.me/theorems/5b5eae97-44db-4f97-94fb-19b3d5773eaa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_cclsT_ret
 -- name    : ULHC.T.cclsT_ret
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:09:35.641447+00:00
 -- url     : https://prove2.me/theorems/f67c2b29-b6ea-4523-9089-f2723c663a1d

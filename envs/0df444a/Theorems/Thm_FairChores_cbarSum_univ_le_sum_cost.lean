@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_cbarSum_univ_le_sum_cost
 -- name    : FairChores.cbarSum_univ_le_sum_cost
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:16:30.151493+00:00
 -- url     : https://prove2.me/theorems/bb548ef9-06ff-4377-8a34-f57c962b96a2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_SEFX_of_EF
 -- name    : FairChores.SEFX_of_EF
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:17:09.221819+00:00
 -- url     : https://prove2.me/theorems/0e8f9b86-fe75-4f8e-97a5-c77c0eb1c8a5

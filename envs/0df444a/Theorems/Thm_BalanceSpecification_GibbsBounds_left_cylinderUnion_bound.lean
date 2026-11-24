@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_GibbsBounds_left_cylinderUnion_bound
 -- name    : BalanceSpecification.GibbsBounds.left_cylinderUnion_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:14:59.039808+00:00
 -- url     : https://prove2.me/theorems/fdf59f52-432e-42cc-b9c0-77fa9a7d4f33

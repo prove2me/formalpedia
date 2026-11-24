@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_ElevenTwelfths_instP_sum
 -- name    : FairSelling.ElevenTwelfths.instP_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:15:29.943795+00:00
 -- url     : https://prove2.me/theorems/0d447535-8f01-4e73-87a6-3159547bd180

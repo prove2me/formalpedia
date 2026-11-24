@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_canonical_cons
 -- name    : FairSelling.canonical_cons
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:13:16.522907+00:00
 -- url     : https://prove2.me/theorems/d0d31cda-d450-4cb2-afc4-72af920cc8dd

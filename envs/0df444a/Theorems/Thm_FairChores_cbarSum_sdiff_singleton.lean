@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_cbarSum_sdiff_singleton
 -- name    : FairChores.cbarSum_sdiff_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:17:13.405796+00:00
 -- url     : https://prove2.me/theorems/bd5f09df-adb8-4089-b34e-d5dab66605a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_FeigeNorkin_core8
 -- name    : FairSelling.FeigeNorkin.core8
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:15:04.902552+00:00
 -- url     : https://prove2.me/theorems/dee2b0a7-2ddf-42ac-a749-3593c3a0cc5b

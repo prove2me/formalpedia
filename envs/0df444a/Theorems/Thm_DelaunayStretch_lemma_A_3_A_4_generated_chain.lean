@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelaunayStretch_lemma_A_3_A_4_generated_chain
 -- name    : DelaunayStretch.lemma_A_3_A_4_generated_chain
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-23T00:56:00.493307+00:00
 -- url     : https://prove2.me/theorems/6cc3b714-e621-4e33-9898-c3b32a5d956d

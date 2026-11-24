@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_ExpensiveChore_MMS_eq
 -- name    : FairChores.ExpensiveChore.MMS_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:19:42.909923+00:00
 -- url     : https://prove2.me/theorems/ccda737a-b17e-4943-a4d2-5abdd2c4b934

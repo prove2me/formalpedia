@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_servable_of_inv
 -- name    : FairSelling.servable_of_inv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:14:01.183662+00:00
 -- url     : https://prove2.me/theorems/8665a2af-1c8a-4409-a608-e1187a266917
