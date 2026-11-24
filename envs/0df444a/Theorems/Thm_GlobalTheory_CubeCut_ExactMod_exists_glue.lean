@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeCut_ExactMod_exists_glue
 -- name    : GlobalTheory.CubeCut.ExactMod.exists_glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:28:00.129803+00:00
 -- url     : https://prove2.me/theorems/fe4dcd64-6029-45f0-bc7b-826bb52c6950

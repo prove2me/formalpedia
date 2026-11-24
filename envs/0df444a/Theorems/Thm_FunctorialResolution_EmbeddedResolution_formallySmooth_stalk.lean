@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_formallySmooth_stalk
 -- name    : FunctorialResolution.EmbeddedResolution.formallySmooth_stalk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:16:28.56081+00:00
 -- url     : https://prove2.me/theorems/aa5d5ec6-f60e-409a-a57e-c0f1ef73781d

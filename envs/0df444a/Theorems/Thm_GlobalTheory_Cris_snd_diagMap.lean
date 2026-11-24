@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cris_snd_diagMap
 -- name    : GlobalTheory.Cris.snd_diagMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:28:19.61213+00:00
 -- url     : https://prove2.me/theorems/f831aff5-edff-464c-9992-0c9c1d62e0d0

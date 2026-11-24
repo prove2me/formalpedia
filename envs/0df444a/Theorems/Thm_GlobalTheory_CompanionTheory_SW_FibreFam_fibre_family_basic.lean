@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FibreFam_fibre_family_basic
 -- name    : GlobalTheory.CompanionTheory.SW.FibreFam.fibre_family_basic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:27:25.358619+00:00
 -- url     : https://prove2.me/theorems/31948e16-35ef-4651-907c-decd5b74618a

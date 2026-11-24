@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_inK_of_skew_comm
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.inK_of_skew_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:54:29.347503+00:00
 -- url     : https://prove2.me/theorems/7e56cfb6-6ee1-4879-975c-ede8ba891478

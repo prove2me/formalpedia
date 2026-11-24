@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_exists_of_actR_fixed
 -- name    : GlobalTheory.DRFil.exists_of_actR_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:36:00.9552+00:00
 -- url     : https://prove2.me/theorems/4c5bb05e-3c3d-4255-8720-3fa5f7e81cc5

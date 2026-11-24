@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeFace_diag_mem
 -- name    : GlobalTheory.CubeFace.diag_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:28:17.346346+00:00
 -- url     : https://prove2.me/theorems/4661084e-8713-4ec4-a5df-7b31e1f62b58

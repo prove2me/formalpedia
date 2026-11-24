@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Conv_evLoc_unique
 -- name    : GlobalTheory.Conv.evLoc_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:28:20.367992+00:00
 -- url     : https://prove2.me/theorems/5ae990f0-c662-4476-82b8-f7e1f0312e9c

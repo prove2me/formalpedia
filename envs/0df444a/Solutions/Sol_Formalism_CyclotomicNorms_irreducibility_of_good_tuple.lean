@@ -1,0 +1,33 @@
+-- Prove2me | solution 1 for Formalism.CyclotomicNorms.irreducibility_of_good_tuple
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-2
+-- created : 2026-11-24T14:02:45.025419+00:00
+-- url     : https://prove2.me/submissions/6d16f41f-77cb-4f17-82a9-c1d43fe37b72
+
+import Definitions.Def_Formalism_CyclotomicNorms_NonsquarefreeBounds_Newton
+import Definitions.Def_Formalism_CyclotomicNorms_NonsquarefreeBounds_SubstitutionBound
+import Definitions.Def_Formalism_CyclotomicNorms_NonsquarefreeBounds_SpanQuadraticOfImage
+import Definitions.Def_Formalism_CyclotomicNorms_NonsquarefreeBounds_Central
+import Definitions.Def_Formalism_CyclotomicNorms_NonsquarefreeBounds_Cycles
+import Definitions.Def_Formalism_TameInertiaTowers_FinalGroup
+import Definitions.Def_Formalism_CyclotomicNorms_NonsquarefreeBounds_Jordan
+import Definitions.Def_Formalism_CyclotomicNorms_NonsquarefreeBounds_RestrictionOfBlocksAndJordan
+import Definitions.Def_Formalism_CyclotomicNorms_NonsquarefreeBounds_NonsquarefreeMonicBoundHolds
+import Definitions.Def_Formalism_CyclotomicNorms_NonsquarefreeBounds_IrreducibilityOfRestriction
+import Definitions.Def_Formalism_CyclotomicNorms_IrreducibilityOfGoodTuple
+import Theorems.Thm_Formalism_CyclotomicNorms_restriction
+import Theorems.Thm_Formalism_CyclotomicNorms_irreducibility_of_restriction
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.CyclotomicNorms
+namespace Formalism.CyclotomicNorms
+theorem _root_.solution : IrreducibilityCriterion := irreducibility_of_restriction restriction
+end Formalism.CyclotomicNorms

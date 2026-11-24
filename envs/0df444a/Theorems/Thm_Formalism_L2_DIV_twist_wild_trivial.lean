@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_twist_wild_trivial
 -- name    : Formalism.L2.DIV.twist_wild_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:22:03.754949+00:00
 -- url     : https://prove2.me/theorems/97c89000-9386-4725-82c5-3e086c0b2484

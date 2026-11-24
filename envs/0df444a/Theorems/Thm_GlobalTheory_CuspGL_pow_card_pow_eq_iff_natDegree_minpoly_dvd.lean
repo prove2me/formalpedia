@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_pow_card_pow_eq_iff_natDegree_minpoly_dvd
 -- name    : GlobalTheory.CuspGL.pow_card_pow_eq_iff_natDegree_minpoly_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:33:11.705078+00:00
 -- url     : https://prove2.me/theorems/93b0fbb1-cf27-4787-823c-6c92c91ac890

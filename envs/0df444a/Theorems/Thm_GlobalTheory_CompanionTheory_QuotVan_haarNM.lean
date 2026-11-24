@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QuotVan_haarNM
 -- name    : GlobalTheory.CompanionTheory.QuotVan.haarNM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:58:04.434198+00:00
 -- url     : https://prove2.me/theorems/4e7f8b1d-4ce2-4c9b-bb46-fbf0442d09f8

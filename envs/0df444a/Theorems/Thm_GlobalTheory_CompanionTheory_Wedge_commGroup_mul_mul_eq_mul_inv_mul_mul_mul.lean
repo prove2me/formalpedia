@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Wedge_commGroup_mul_mul_eq_mul_inv_mul_mul_mul
 -- name    : GlobalTheory.CompanionTheory.Wedge.commGroup_mul_mul_eq_mul_inv_mul_mul_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:21:23.432558+00:00
 -- url     : https://prove2.me/theorems/67ece3aa-cbbd-4937-a6d8-99169f572517

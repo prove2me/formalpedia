@@ -36085,9 +36085,9 @@
 {"parent": "OAI.SharpPlanar.CachedData.hm28_1_0_7.contains_g", "child": "OAIQ098G083", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm28_1_0_7.contains_g", "child": "OAIQ098G1682", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm28_1_0_7.contains_g", "child": "OAIQ098G1108", "via": ["statement"]}
-{"parent": "KSPolySign.lemma_3_4", "child": "KSPolySign_pot", "via": ["statement"]}
-{"parent": "KSPolySign.lemma_3_4", "child": "KSPolySign_IsInstance", "via": ["statement"]}
-{"parent": "KSPolySign.lemma_3_4", "child": "AgnosticTNS_opNorm", "via": ["statement"]}
+{"parent": "KSPolySign.lemma_3_4", "child": "KSPolySign_pot", "via": ["solution", "statement"]}
+{"parent": "KSPolySign.lemma_3_4", "child": "KSPolySign_IsInstance", "via": ["solution", "statement"]}
+{"parent": "KSPolySign.lemma_3_4", "child": "AgnosticTNS_opNorm", "via": ["solution", "statement"]}
 {"parent": "TriFreeEst247.Main.estimation_le_poly_testing", "child": "TriFreeEst247_Main_GraphModel", "via": ["statement"]}
 {"parent": "MajorityDepthThree_Exact_Circuits", "child": "MajorityDepthThree_Exact_CNF", "via": ["statement"]}
 {"parent": "TranspositionIID_Main_Perturbation", "child": "TranspositionIID_Main_Stationary", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConjugateMembership_conj_eq_neg_of_sq
 -- name    : GlobalTheory.ConjugateMembership.conj_eq_neg_of_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:25:43.804103+00:00
 -- url     : https://prove2.me/theorems/3ff03f8a-e770-475f-a3f2-ab7bacba15aa

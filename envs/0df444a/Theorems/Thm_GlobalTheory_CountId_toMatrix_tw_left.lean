@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CountId_toMatrix_tw_left
 -- name    : GlobalTheory.CountId.toMatrix_tw_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:26:30.016553+00:00
 -- url     : https://prove2.me/theorems/f872dc49-e1d8-40bf-a4a2-efc8ab76c876

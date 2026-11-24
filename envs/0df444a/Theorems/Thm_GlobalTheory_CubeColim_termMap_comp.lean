@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeColim_termMap_comp
 -- name    : GlobalTheory.CubeColim.termMap_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:27:59.177027+00:00
 -- url     : https://prove2.me/theorems/567d9971-f8cc-49d0-b1dc-7166f1fad2d3

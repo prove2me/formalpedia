@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_ConvCancel_finite_pairs
 -- name    : GlobalTheory.CuspGL.ConvCancel.finite_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:29:37.022175+00:00
 -- url     : https://prove2.me/theorems/381a3c68-5dbc-4757-9af1-36b18c8cadc6

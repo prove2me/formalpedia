@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WedgeNorm_wedgeSub
 -- name    : GlobalTheory.CompanionTheory.WedgeNorm.wedgeSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:21:22.942822+00:00
 -- url     : https://prove2.me/theorems/09661347-6ec3-4ace-b87a-5ccc5f1d534a

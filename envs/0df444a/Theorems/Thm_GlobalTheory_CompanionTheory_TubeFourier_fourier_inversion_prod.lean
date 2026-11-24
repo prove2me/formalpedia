@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TubeFourier_fourier_inversion_prod
 -- name    : GlobalTheory.CompanionTheory.TubeFourier.fourier_inversion_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:16:30.149272+00:00
 -- url     : https://prove2.me/theorems/e4de23c6-5a0f-44f0-9b3b-43fcfe71fd75

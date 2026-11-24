@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Slice_lintegral_fibFam
 -- name    : GlobalTheory.CompanionTheory.SW.Slice.lintegral_fibFam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:10:09.858859+00:00
 -- url     : https://prove2.me/theorems/0a5fbb54-a40d-4266-9a82-961e0c433e75

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_finsum_card_cyclic_eq
 -- name    : GlobalTheory.CuspGL.finsum_card_cyclic_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:32:40.175637+00:00
 -- url     : https://prove2.me/theorems/a9376d02-f867-4709-946b-b56f1762a792

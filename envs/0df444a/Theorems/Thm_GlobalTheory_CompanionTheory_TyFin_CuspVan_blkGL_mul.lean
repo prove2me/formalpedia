@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_CuspVan_blkGL_mul
 -- name    : GlobalTheory.CompanionTheory.TyFin.CuspVan.blkGL_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:09:58.649529+00:00
 -- url     : https://prove2.me/theorems/9f03a3cb-5199-4e62-97ab-7aae08842490

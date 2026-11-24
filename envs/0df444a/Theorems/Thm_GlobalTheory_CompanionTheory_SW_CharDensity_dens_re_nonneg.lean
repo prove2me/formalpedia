@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_CharDensity_dens_re_nonneg
 -- name    : GlobalTheory.CompanionTheory.SW.CharDensity.dens_re_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:02:57.180239+00:00
 -- url     : https://prove2.me/theorems/d848d0de-bc2c-4f6f-b0be-4344b2ea7ac8

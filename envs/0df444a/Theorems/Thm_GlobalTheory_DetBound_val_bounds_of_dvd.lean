@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetBound_val_bounds_of_dvd
 -- name    : GlobalTheory.DetBound.val_bounds_of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:43:30.73034+00:00
 -- url     : https://prove2.me/theorems/548a0616-32f7-460c-81e7-ecb6a0b09542

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_mass_const
 -- name    : GlobalTheory.CuspGL.mass_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:33:47.660743+00:00
 -- url     : https://prove2.me/theorems/11059ef7-8938-45ec-81b3-e7d58c7d7270

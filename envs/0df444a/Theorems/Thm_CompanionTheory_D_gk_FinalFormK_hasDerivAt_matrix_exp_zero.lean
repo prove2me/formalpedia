@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_FinalFormK_hasDerivAt_matrix_exp_zero
 -- name    : CompanionTheory.D.gk.FinalFormK.hasDerivAt_matrix_exp_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:57:15.266283+00:00
 -- url     : https://prove2.me/theorems/9971b9c1-26dd-46ee-92cd-1b20e8b5af37

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CutOff_exists_nhds_one_mul_mem_iff
 -- name    : GlobalTheory.CutOff.exists_nhds_one_mul_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:33:09.949346+00:00
 -- url     : https://prove2.me/theorems/fac211f1-6367-4171-a8ba-38a03ec246df

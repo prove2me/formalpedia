@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEis_isUnit_det_blk
 -- name    : GlobalTheory.CompanionTheory.RgEis.isUnit_det_blk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:57:27.525872+00:00
 -- url     : https://prove2.me/theorems/ac16a708-524f-4d3a-ab2c-cc5426db93c3

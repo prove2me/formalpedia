@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeLawCompare_bijective_app_of_restrict
 -- name    : GlobalTheory.CubeLawCompare.bijective_app_of_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:29:04.075988+00:00
 -- url     : https://prove2.me/theorems/94fa394d-e4fe-4d07-9ef8-5b150944ab0a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_kerSubschemeIso_hom_comp
 -- name    : FunctorialResolution.EmbeddedResolution.kerSubschemeIso_hom_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:09:21.528888+00:00
 -- url     : https://prove2.me/theorems/3e95315c-945f-4caa-8156-1d8521225226

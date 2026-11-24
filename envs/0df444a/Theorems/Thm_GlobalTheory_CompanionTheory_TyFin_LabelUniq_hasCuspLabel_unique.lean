@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_LabelUniq_hasCuspLabel_unique
 -- name    : GlobalTheory.CompanionTheory.TyFin.LabelUniq.hasCuspLabel_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:19:04.83575+00:00
 -- url     : https://prove2.me/theorems/ad4fda58-667e-4f3c-92c7-7cf814b26f2c

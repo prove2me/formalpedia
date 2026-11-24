@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_spans_resRep_iff
 -- name    : GlobalTheory.DRFil.spans_resRep_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:36:54.093036+00:00
 -- url     : https://prove2.me/theorems/73fc49cf-92f2-4d4b-bd3f-52f2cb3cbcf5

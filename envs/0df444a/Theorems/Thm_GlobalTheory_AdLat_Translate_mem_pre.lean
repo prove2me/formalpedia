@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_Translate_mem_pre
 -- name    : GlobalTheory.AdLat.Translate.mem_pre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:02:59.189815+00:00
 -- url     : https://prove2.me/theorems/3c1fb131-3650-499b-b11c-6b91a30050e8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CotUniv_sqKer_injective
 -- name    : GlobalTheory.CotUniv.sqKer_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:27:05.492288+00:00
 -- url     : https://prove2.me/theorems/9a5420b1-232f-4419-a6b9-59a8c83bbdbd

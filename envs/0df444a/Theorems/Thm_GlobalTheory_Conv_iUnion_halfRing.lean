@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Conv_iUnion_halfRing
 -- name    : GlobalTheory.Conv.iUnion_halfRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:28:13.235426+00:00
 -- url     : https://prove2.me/theorems/65b69503-397a-4525-b2b7-54a86ec2dbfd

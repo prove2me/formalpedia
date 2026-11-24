@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_NormalisedValue_nrm_le_of_val_le
 -- name    : GlobalTheory.CompanionTheory.QL.NormalisedValue.nrm_le_of_val_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:56:19.519803+00:00
 -- url     : https://prove2.me/theorems/e7a9f529-6b40-4e58-8bc8-c8b2edd173cb

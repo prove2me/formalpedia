@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_IntBasis_exists_poly
 -- name    : GlobalTheory.Cyc.IntBasis.exists_poly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:35:18.610705+00:00
 -- url     : https://prove2.me/theorems/99e17402-10aa-48e3-b366-ba02ec994f54

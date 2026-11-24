@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EtaleCoordinates_coord_smul_partialDeriv_mem_tangentDerivations
 -- name    : FunctorialResolution.EmbeddedResolution.EtaleCoordinates.coord_smul_partialDeriv_mem_tangentDerivations
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:58:12.75764+00:00
 -- url     : https://prove2.me/theorems/eb6c5c5f-d479-4b4c-b316-8b5d7d75616a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_SmallPair_exists_small
 -- name    : GlobalTheory.CompanionTheory.SW.SmallPair.exists_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:09:41.999834+00:00
 -- url     : https://prove2.me/theorems/fec2829c-34a6-41ed-9235-341602bd078f

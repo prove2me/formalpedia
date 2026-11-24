@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cris_IsNilDP_exists_dpow_eq_zero
 -- name    : GlobalTheory.Cris.IsNilDP.exists_dpow_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:28:48.1058+00:00
 -- url     : https://prove2.me/theorems/f3a54309-bffe-4799-85dc-81aaf8c8564d

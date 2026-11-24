@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_ConjReal_conj_main
 -- name    : Formalism.FrobeniusOrbits.ConjReal.conj_main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:52:58.69287+00:00
 -- url     : https://prove2.me/theorems/1ad281bc-33f4-4a02-877f-95f737ea0856

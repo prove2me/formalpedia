@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_NormIndex_map_two_le
 -- name    : GlobalTheory.QuadSymbol.NormIndex.map_two_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:00:58.56222+00:00
 -- url     : https://prove2.me/theorems/85776b7b-975f-4cc3-aeea-19e1a055221d

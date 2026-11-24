@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_exists_linearEquiv_mem_iff_of_finrank_eq
 -- name    : GlobalTheory.CuspGL.exists_linearEquiv_mem_iff_of_finrank_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:31:45.964705+00:00
 -- url     : https://prove2.me/theorems/b16fb76b-027f-454c-9907-4a26f2faec63

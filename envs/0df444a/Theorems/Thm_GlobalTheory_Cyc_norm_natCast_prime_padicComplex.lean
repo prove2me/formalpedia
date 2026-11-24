@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_norm_natCast_prime_padicComplex
 -- name    : GlobalTheory.Cyc.norm_natCast_prime_padicComplex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:33:58.095602+00:00
 -- url     : https://prove2.me/theorems/90590a65-2cff-4f9e-af18-bc225d15454c

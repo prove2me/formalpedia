@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_exists_unit_norm
 -- name    : GlobalTheory.CompanionTheory.UnrDens.exists_unit_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:19:37.476699+00:00
 -- url     : https://prove2.me/theorems/25916196-6849-4ae2-82ca-5d2fa862ec6f

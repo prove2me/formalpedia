@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CosetIntegral_integral_sum_indicator_translate
 -- name    : GlobalTheory.CosetIntegral.integral_sum_indicator_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:27:12.895824+00:00
 -- url     : https://prove2.me/theorems/641ae213-b319-4bbc-a98f-a9fb1a0001cd

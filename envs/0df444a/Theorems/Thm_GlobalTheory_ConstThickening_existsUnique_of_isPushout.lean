@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConstThickening_existsUnique_of_isPushout
 -- name    : GlobalTheory.ConstThickening.existsUnique_of_isPushout
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:25:54.250643+00:00
 -- url     : https://prove2.me/theorems/92f90ffb-346b-467f-9929-2fc84a684eb4

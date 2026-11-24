@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S7_typeCount
 -- name    : Formalism.HermitianLatticeCounting.Final.S7.typeCount
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:05:47.277872+00:00
 -- url     : https://prove2.me/theorems/1b6d90d3-28ef-470b-aafa-fee0c70a45d9

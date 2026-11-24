@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_basis_smul_eq_smul_cancel
 -- name    : GlobalTheory.CuspGL.basis_smul_eq_smul_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:31:42.701164+00:00
 -- url     : https://prove2.me/theorems/f70fe54c-c9f6-4b57-b9f2-b80276f3e0be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_finsum_mem_lin_comb_of_finite
 -- name    : GlobalTheory.CuspGL.finsum_mem_lin_comb_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:34:23.290797+00:00
 -- url     : https://prove2.me/theorems/5cc71be1-7b83-43ca-b55e-27ba62e09d79

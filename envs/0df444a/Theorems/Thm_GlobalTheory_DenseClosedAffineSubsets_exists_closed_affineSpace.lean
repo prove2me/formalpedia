@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DenseClosedAffineSubsets_exists_closed_affineSpace
 -- name    : GlobalTheory.DenseClosedAffineSubsets.exists_closed_affineSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:43:30.081986+00:00
 -- url     : https://prove2.me/theorems/e230589d-6e0e-4518-b4ed-e14a25b9d844

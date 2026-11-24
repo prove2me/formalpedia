@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_euclNorm_sq_eq_star_dotProduct
 -- name    : Formalism.HermitianLatticeCounting.P.euclNorm_sq_eq_star_dotProduct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:28:18.795992+00:00
 -- url     : https://prove2.me/theorems/03b4b835-b93a-45bb-a4fd-7cbbe3874ce7

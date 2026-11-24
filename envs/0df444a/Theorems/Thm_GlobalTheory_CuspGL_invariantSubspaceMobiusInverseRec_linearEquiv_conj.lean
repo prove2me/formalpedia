@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_invariantSubspaceMobiusInverseRec_linearEquiv_conj
 -- name    : GlobalTheory.CuspGL.invariantSubspaceMobiusInverseRec_linearEquiv_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:34:43.611147+00:00
 -- url     : https://prove2.me/theorems/819e2f0a-c230-4c92-8db7-e146674843e2

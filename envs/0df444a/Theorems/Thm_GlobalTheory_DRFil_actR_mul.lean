@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_actR_mul
 -- name    : GlobalTheory.DRFil.actR_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:35:52.35286+00:00
 -- url     : https://prove2.me/theorems/071f8b85-ea06-457a-9453-bdb84c50211d

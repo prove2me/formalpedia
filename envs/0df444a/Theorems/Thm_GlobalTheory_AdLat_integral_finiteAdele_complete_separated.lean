@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_integral_finiteAdele_complete_separated
 -- name    : GlobalTheory.AdLat.integral_finiteAdele_complete_separated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:08:40.636707+00:00
 -- url     : https://prove2.me/theorems/8eac61b3-97a7-491c-9894-e10da8cfe9b1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnitFrame_normSq_eq_of_unit_frames
 -- name    : GlobalTheory.CompanionTheory.UnitFrame.normSq_eq_of_unit_frames
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:19:31.912686+00:00
 -- url     : https://prove2.me/theorems/b863660d-2ade-48ee-b17a-aaa820a94c98

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FD_main
 -- name    : GlobalTheory.CompanionTheory.SW.FD.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:03:40.944779+00:00
 -- url     : https://prove2.me/theorems/7b0a9959-87a0-4901-8f17-7e2713201cc4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConjNegSquareNat_conj_eq_neg_of_sq_eq_neg_nat
 -- name    : GlobalTheory.ConjNegSquareNat.conj_eq_neg_of_sq_eq_neg_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:25:40.410565+00:00
 -- url     : https://prove2.me/theorems/7ed8c08e-a5a3-40ae-8246-2d829b3aadb1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_orth_ker_iff_forall_smul_mem
 -- name    : GlobalTheory.AnArc.orth_ker_iff_forall_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:29:16.720686+00:00
 -- url     : https://prove2.me/theorems/35ada2ed-ce12-4e70-8ab7-7d363e9ff7fd

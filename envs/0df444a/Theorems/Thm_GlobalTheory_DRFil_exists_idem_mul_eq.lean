@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_exists_idem_mul_eq
 -- name    : GlobalTheory.DRFil.exists_idem_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:36:13.343569+00:00
 -- url     : https://prove2.me/theorems/3264b419-8f25-4e15-a0c8-ccecb91b7769

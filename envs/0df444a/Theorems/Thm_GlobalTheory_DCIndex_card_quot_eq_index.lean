@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DCIndex_card_quot_eq_index
 -- name    : GlobalTheory.DCIndex.card_quot_eq_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:34:20.316681+00:00
 -- url     : https://prove2.me/theorems/08dd7959-1ce4-4e80-8fa4-16094deb46bb

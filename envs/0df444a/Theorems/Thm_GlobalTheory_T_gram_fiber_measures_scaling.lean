@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gram_fiber_measures_scaling
 -- name    : GlobalTheory.T.gram_fiber_measures_scaling
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:48:37.900729+00:00
 -- url     : https://prove2.me/theorems/81464129-7615-4003-bd9f-ab215863a205

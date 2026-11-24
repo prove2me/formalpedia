@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_b_eps_mul_unit
 -- name    : Formalism.L2.DIV.b_eps_mul_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:23:38.208179+00:00
 -- url     : https://prove2.me/theorems/4af60218-ee63-423c-8974-7a84ed344dc9

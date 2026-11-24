@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CotUniv_lieLift_basis
 -- name    : GlobalTheory.CotUniv.lieLift_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:26:47.922815+00:00
 -- url     : https://prove2.me/theorems/7a959482-5b92-4679-934a-8a1a53981ee2

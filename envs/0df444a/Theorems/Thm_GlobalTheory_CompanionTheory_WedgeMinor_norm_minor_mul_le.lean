@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WedgeMinor_norm_minor_mul_le
 -- name    : GlobalTheory.CompanionTheory.WedgeMinor.norm_minor_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:21:09.542671+00:00
 -- url     : https://prove2.me/theorems/03b6baf0-78d4-4a47-862f-0379fec116cd

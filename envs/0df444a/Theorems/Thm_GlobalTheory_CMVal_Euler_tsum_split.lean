@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_tsum_split
 -- name    : GlobalTheory.CMVal.Euler.tsum_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:18:51.836432+00:00
 -- url     : https://prove2.me/theorems/b9717207-0721-48ce-8d56-cff144906c5e

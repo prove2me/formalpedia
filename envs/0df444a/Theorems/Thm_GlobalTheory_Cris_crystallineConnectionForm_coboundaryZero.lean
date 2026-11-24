@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cris_crystallineConnectionForm_coboundaryZero
 -- name    : GlobalTheory.Cris.crystallineConnectionForm_coboundaryZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:28:01.747006+00:00
 -- url     : https://prove2.me/theorems/c885877b-27c2-46e2-9eb2-7dc82881ad55

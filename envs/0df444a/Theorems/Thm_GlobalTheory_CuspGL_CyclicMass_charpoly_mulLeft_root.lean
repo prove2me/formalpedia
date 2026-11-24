@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_CyclicMass_charpoly_mulLeft_root
 -- name    : GlobalTheory.CuspGL.CyclicMass.charpoly_mulLeft_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:29:32.511636+00:00
 -- url     : https://prove2.me/theorems/b1a1b67d-ddd0-4bfe-abf7-3b89cb8fe5f9

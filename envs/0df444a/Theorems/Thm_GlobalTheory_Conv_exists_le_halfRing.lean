@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Conv_exists_le_halfRing
 -- name    : GlobalTheory.Conv.exists_le_halfRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:26:26.692798+00:00
 -- url     : https://prove2.me/theorems/f7c49162-1a12-49a2-872b-b0b8de2612ba

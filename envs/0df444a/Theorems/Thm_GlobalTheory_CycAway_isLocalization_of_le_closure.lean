@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycAway_isLocalization_of_le_closure
 -- name    : GlobalTheory.CycAway.isLocalization_of_le_closure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:34:18.214593+00:00
 -- url     : https://prove2.me/theorems/395b98bc-25c9-460a-af78-591cc371a44b

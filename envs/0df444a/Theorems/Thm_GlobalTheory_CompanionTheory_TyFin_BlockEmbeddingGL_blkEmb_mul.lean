@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_BlockEmbeddingGL_blkEmb_mul
 -- name    : GlobalTheory.CompanionTheory.TyFin.BlockEmbeddingGL.blkEmb_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:18:06.529983+00:00
 -- url     : https://prove2.me/theorems/69604d40-63a5-4d06-9620-f68f6bdaf6aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_pow_smul_mem_forms_powMul
 -- name    : GlobalTheory.DI.pow_smul_mem_forms_powMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:36:07.244894+00:00
 -- url     : https://prove2.me/theorems/d77a562b-871f-47fd-b702-b934ab44a8f6

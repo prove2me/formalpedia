@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_iSup_opensRange_affineBlowupChart_coordIdealGen
 -- name    : FunctorialResolution.EmbeddedResolution.iSup_opensRange_affineBlowupChart_coordIdealGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:02:17.993716+00:00
 -- url     : https://prove2.me/theorems/ab7b6a28-5132-40ab-a076-99834d6acc68

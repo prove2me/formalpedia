@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_SchurChar_apply_eq_zero
 -- name    : GlobalTheory.CompanionTheory.SW.SchurChar.apply_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:09:24.468921+00:00
 -- url     : https://prove2.me/theorems/2a5d6ada-418c-495a-b46e-f11cb210d209

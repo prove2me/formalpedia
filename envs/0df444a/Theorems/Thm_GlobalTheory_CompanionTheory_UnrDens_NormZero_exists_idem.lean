@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_NormZero_exists_idem
 -- name    : GlobalTheory.CompanionTheory.UnrDens.NormZero.exists_idem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:20:07.829377+00:00
 -- url     : https://prove2.me/theorems/b6511176-ae99-4b2a-9399-e9d7cde3b43c

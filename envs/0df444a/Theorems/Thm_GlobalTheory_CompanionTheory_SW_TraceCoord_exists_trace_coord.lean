@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_TraceCoord_exists_trace_coord
 -- name    : GlobalTheory.CompanionTheory.SW.TraceCoord.exists_trace_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:11:26.193968+00:00
 -- url     : https://prove2.me/theorems/fda18487-4b2f-4dc5-9543-76e8c9e317b1

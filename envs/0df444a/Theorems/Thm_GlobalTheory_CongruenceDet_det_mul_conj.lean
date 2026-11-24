@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CongruenceDet_det_mul_conj
 -- name    : GlobalTheory.CongruenceDet.det_mul_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:25:38.294146+00:00
 -- url     : https://prove2.me/theorems/3bdb06c8-cd06-4ff8-879a-38548b52e6fb

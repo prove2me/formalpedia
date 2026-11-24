@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CyclotomicKummerDescent_geom_sum_valuation
 -- name    : GlobalTheory.CyclotomicKummerDescent.geom_sum_valuation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:34:41.656642+00:00
 -- url     : https://prove2.me/theorems/e27a6c2c-8c90-49df-9396-50629100d5a6

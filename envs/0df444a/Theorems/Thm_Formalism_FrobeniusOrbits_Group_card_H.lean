@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Group_card_H
 -- name    : Formalism.FrobeniusOrbits.Group.card_H
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:53:11.425315+00:00
 -- url     : https://prove2.me/theorems/f1fef799-a5d0-441e-8d13-c3e7670d6a9b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeLift_isNilpotent_of_rd
 -- name    : GlobalTheory.CubeLift.isNilpotent_of_rd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:28:36.413937+00:00
 -- url     : https://prove2.me/theorems/2c7f0939-56db-4bc5-9542-8132e112dc4d

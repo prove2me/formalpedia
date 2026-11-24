@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_PureH_pureL_act
 -- name    : GlobalTheory.CompanionTheory.SW.PureH.pureL_act
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:29:54.520113+00:00
 -- url     : https://prove2.me/theorems/f0e70390-581a-4924-bc44-3387d63666e2

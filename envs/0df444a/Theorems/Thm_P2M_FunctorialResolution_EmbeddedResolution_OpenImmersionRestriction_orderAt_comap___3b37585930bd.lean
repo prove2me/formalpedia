@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FunctorialResolution_EmbeddedResolution_OpenImmersionRestriction_orderAt_comap___3b37585930bd
 -- name    : P2M_FunctorialResolution_EmbeddedResolution_OpenImmersionRestriction_orderAt_comap___3b37585930bd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:08:59.578557+00:00
 -- url     : https://prove2.me/theorems/ad5b83c9-9670-4e9c-a7be-cb0fc12499fe

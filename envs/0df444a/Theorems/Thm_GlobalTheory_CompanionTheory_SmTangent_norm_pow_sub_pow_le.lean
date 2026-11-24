@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmTangent_norm_pow_sub_pow_le
 -- name    : GlobalTheory.CompanionTheory.SmTangent.norm_pow_sub_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:15:09.601366+00:00
 -- url     : https://prove2.me/theorems/cf439272-064f-4cce-ad72-fd37f4a41124

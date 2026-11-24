@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_intwIp
 -- name    : GlobalTheory.CompanionTheory.TyFin.intwIp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:19:03.358925+00:00
 -- url     : https://prove2.me/theorems/95f1362d-c5be-431e-8604-67c4d608aa22

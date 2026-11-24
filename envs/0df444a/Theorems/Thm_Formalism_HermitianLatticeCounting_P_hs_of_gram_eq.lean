@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_hs_of_gram_eq
 -- name    : Formalism.HermitianLatticeCounting.P.hs_of_gram_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:29:02.233438+00:00
 -- url     : https://prove2.me/theorems/61781605-217e-4c3f-b713-0c66bcb712e8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_FrobDeriv_twist_smul
 -- name    : GlobalTheory.DI.FrobDeriv.twist_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:34:57.03781+00:00
 -- url     : https://prove2.me/theorems/42f603fe-7070-419b-99bb-78cd989eedb6

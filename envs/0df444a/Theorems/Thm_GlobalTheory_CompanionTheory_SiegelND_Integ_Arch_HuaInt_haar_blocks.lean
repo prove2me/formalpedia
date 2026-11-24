@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegelND_Integ_Arch_HuaInt_haar_blocks
 -- name    : GlobalTheory.CompanionTheory.SiegelND.Integ.Arch.HuaInt.haar_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:13:46.358167+00:00
 -- url     : https://prove2.me/theorems/723b9b8b-0342-4e8d-91f4-0ebe859d88a5

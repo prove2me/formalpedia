@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeFib_psJet_eq_toJet_of_nonempty
 -- name    : GlobalTheory.CubeFib.psJet_eq_toJet_of_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:28:40.644301+00:00
 -- url     : https://prove2.me/theorems/9cc6fa56-449a-4470-b6ee-a16cd418c485

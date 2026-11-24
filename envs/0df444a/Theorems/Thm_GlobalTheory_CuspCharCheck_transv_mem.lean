@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspCharCheck_transv_mem
 -- name    : GlobalTheory.CuspCharCheck.transv_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:29:50.035845+00:00
 -- url     : https://prove2.me/theorems/009bf73d-0fc2-4167-a872-790592044455

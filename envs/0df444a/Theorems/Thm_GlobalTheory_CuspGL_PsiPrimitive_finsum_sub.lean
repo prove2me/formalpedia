@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_PsiPrimitive_finsum_sub
 -- name    : GlobalTheory.CuspGL.PsiPrimitive.finsum_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:31:54.619912+00:00
 -- url     : https://prove2.me/theorems/681c318b-6f8a-4735-a3b7-57c9d070963f

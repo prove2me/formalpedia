@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_b_mkU_idF
 -- name    : Formalism.L2.DIV.b_mkU_idF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:22:48.563328+00:00
 -- url     : https://prove2.me/theorems/38af9f29-ac9b-4950-bc1f-1bb8e846cb07

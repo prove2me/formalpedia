@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_matrix_additive_haar_normalized
 -- name    : GlobalTheory.T.matrix_additive_haar_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:02:31.929734+00:00
 -- url     : https://prove2.me/theorems/1c317398-e6df-478c-8eaf-0c2b2fbc7f72

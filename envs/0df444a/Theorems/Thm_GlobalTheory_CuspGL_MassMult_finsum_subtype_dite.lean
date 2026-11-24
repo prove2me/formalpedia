@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_MassMult_finsum_subtype_dite
 -- name    : GlobalTheory.CuspGL.MassMult.finsum_subtype_dite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:31:41.205405+00:00
 -- url     : https://prove2.me/theorems/86bb0f1a-7e85-4c70-99a6-0c806eac4e92

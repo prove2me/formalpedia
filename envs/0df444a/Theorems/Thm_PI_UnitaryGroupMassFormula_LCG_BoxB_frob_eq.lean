@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_BoxB_frob_eq
 -- name    : PI.UnitaryGroupMassFormula.LCG.BoxB.frob_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:30:15.25345+00:00
 -- url     : https://prove2.me/theorems/dcb568ee-9770-40a7-8cea-771cce852f5a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_FinalFormK_hasDerivAt_ds
 -- name    : CompanionTheory.D.gk.FinalFormK.hasDerivAt_ds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:57:00.170399+00:00
 -- url     : https://prove2.me/theorems/72393d15-a8b1-430f-8823-4bd6ea97b4f1

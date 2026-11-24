@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoverGlue_of_isPullback_cover
 -- name    : GlobalTheory.CoverGlue.of_isPullback_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:27:26.01841+00:00
 -- url     : https://prove2.me/theorems/628867f8-3de2-4ed0-b1dc-c732d9b06c42

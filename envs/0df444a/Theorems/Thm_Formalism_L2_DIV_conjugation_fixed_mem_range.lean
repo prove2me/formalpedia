@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_conjugation_fixed_mem_range
 -- name    : Formalism.L2.DIV.conjugation_fixed_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:22:48.670865+00:00
 -- url     : https://prove2.me/theorems/e7dcd42f-338e-4025-81df-959d84adcb30

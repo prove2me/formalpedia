@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_nilRad_eq_zero_of_commute
 -- name    : GlobalTheory.CuspGL.nilRad_eq_zero_of_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:32:20.701938+00:00
 -- url     : https://prove2.me/theorems/a3db1cae-86c7-4236-aaab-eeb35af909ff

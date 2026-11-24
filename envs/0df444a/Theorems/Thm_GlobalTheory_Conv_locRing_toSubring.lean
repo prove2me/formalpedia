@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Conv_locRing_toSubring
 -- name    : GlobalTheory.Conv.locRing_toSubring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:26:56.664719+00:00
 -- url     : https://prove2.me/theorems/5dd8a1f2-38d3-4ed5-84d4-d754f7ea0ca1

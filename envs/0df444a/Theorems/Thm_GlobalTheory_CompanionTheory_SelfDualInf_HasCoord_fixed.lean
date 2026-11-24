@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SelfDualInf_HasCoord_fixed
 -- name    : GlobalTheory.CompanionTheory.SelfDualInf.HasCoord.fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:37:58.466701+00:00
 -- url     : https://prove2.me/theorems/e86498a6-514d-4947-900e-13874ea1463e

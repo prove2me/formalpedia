@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_LogDeriv_mangoldt_one
 -- name    : GlobalTheory.CuspGL.LogDeriv.mangoldt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:32:18.526987+00:00
 -- url     : https://prove2.me/theorems/51aad27b-0b8e-4d9b-9da6-2bb132552d1a

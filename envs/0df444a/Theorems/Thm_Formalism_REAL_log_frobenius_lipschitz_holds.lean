@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_log_frobenius_lipschitz_holds
 -- name    : Formalism.REAL.log_frobenius_lipschitz_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:41:39.084879+00:00
 -- url     : https://prove2.me/theorems/a8d5ea75-bd7e-4d09-883c-75e761ddc6b1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeCut_ExactMod_mem_empty
 -- name    : GlobalTheory.CubeCut.ExactMod.mem_empty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:28:15.844553+00:00
 -- url     : https://prove2.me/theorems/fefb3c5d-6cef-49a9-a588-49207ea65cea

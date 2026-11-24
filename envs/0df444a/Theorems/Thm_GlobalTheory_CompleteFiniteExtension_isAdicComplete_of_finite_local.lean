@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompleteFiniteExtension_isAdicComplete_of_finite_local
 -- name    : GlobalTheory.CompleteFiniteExtension.isAdicComplete_of_finite_local
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:50:35.577217+00:00
 -- url     : https://prove2.me/theorems/d72d28bd-6158-4797-a502-f98aa67fe9f6

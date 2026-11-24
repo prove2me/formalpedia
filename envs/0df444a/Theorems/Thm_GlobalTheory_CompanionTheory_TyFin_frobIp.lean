@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_frobIp
 -- name    : GlobalTheory.CompanionTheory.TyFin.frobIp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:18:43.486134+00:00
 -- url     : https://prove2.me/theorems/023181fb-b318-4405-a1fd-ade88d9956bc

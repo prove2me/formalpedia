@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeFace_prod_subsets
 -- name    : GlobalTheory.CubeFace.prod_subsets
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:27:55.694961+00:00
 -- url     : https://prove2.me/theorems/1ef34edf-7cff-41dd-96ab-3e1d4445cf69

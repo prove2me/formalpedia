@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SelfDualInf_isTopologicalRing_tens
 -- name    : GlobalTheory.CompanionTheory.SelfDualInf.isTopologicalRing_tens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:37:59.034045+00:00
 -- url     : https://prove2.me/theorems/f41b58d2-6cd2-45a2-bcaa-35fee23f1859

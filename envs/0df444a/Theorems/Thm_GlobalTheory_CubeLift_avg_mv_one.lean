@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeLift_avg_mv_one
 -- name    : GlobalTheory.CubeLift.avg_mv_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:28:23.684791+00:00
 -- url     : https://prove2.me/theorems/db7202be-69a8-4e8e-8201-c83175fa0779

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S7_deepBoundY
 -- name    : Formalism.HermitianLatticeCounting.Final.S7.deepBoundY
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:05:36.959863+00:00
 -- url     : https://prove2.me/theorems/21a858de-dad3-4338-8a34-6f00fc5699b1

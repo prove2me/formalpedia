@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmoothParam_contDiff_pderiv
 -- name    : GlobalTheory.CompanionTheory.SmoothParam.contDiff_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:06:24.968901+00:00
 -- url     : https://prove2.me/theorems/aff48fdd-f1da-4b9a-83b1-39e802b7ce97

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr3_zetaInv_mul_l0_mul_zeta
 -- name    : Formalism.FourierDecayAlt.P.Fr3.zetaInv_mul_l0_mul_zeta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:04:22.046585+00:00
 -- url     : https://prove2.me/theorems/1a67919d-ffe2-4ea6-b8a2-293de06a27b3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WittFrame_unitary_of_blocks
 -- name    : GlobalTheory.CompanionTheory.WittFrame.unitary_of_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:24:51.819942+00:00
 -- url     : https://prove2.me/theorems/6f6b96f1-8676-44a0-a220-424c8007632a

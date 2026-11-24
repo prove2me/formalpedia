@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_CofinalDual_selfDual_of_between
 -- name    : GlobalTheory.CompanionTheory.SW.CofinalDual.selfDual_of_between
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:02:18.366935+00:00
 -- url     : https://prove2.me/theorems/ef8add71-bb94-4b36-a77e-3278103fc695

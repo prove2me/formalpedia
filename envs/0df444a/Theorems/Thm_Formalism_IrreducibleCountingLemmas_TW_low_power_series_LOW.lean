@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_TW_low_power_series_LOW
 -- name    : Formalism.IrreducibleCountingLemmas.TW.low_power_series_LOW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:55:06.1458+00:00
 -- url     : https://prove2.me/theorems/191e2ac0-6b81-4a8c-9fc8-5be0ab1f8baa

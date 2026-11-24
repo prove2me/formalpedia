@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_exists_comp_eq_of_ker_le
 -- name    : GlobalTheory.CuspGL.exists_comp_eq_of_ker_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:30:55.851848+00:00
 -- url     : https://prove2.me/theorems/d996f45d-f76b-4a77-9004-c78218d26840

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CongSplit_conj_entry
 -- name    : GlobalTheory.CongSplit.conj_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:26:08.034478+00:00
 -- url     : https://prove2.me/theorems/5fb21c58-c7a2-4c4b-ae51-73050cb467ba

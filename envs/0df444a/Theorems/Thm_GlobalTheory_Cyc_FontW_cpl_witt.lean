@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_FontW_cpl_witt
 -- name    : GlobalTheory.Cyc.FontW.cpl_witt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:34:48.276228+00:00
 -- url     : https://prove2.me/theorems/9a751696-9263-402f-b557-abca3df2669b

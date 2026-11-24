@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnramDict_value_lt_one_of_continuous
 -- name    : GlobalTheory.CompanionTheory.UnramDict.value_lt_one_of_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:21:06.631821+00:00
 -- url     : https://prove2.me/theorems/12b07f31-a66b-417b-be96-cbbbb2a171ec

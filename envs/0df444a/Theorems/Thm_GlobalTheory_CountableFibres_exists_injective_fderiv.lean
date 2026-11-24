@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CountableFibres_exists_injective_fderiv
 -- name    : GlobalTheory.CountableFibres.exists_injective_fderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:26:53.499687+00:00
 -- url     : https://prove2.me/theorems/5ec9a80d-8423-4623-9c28-adca3a1847d0

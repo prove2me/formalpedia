@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Mu_mu_le_ram
 -- name    : Formalism.FrobeniusOrbits.Mu.mu_le_ram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:09:51.544058+00:00
 -- url     : https://prove2.me/theorems/984ec8be-b89e-4a83-b864-28a9285e1919

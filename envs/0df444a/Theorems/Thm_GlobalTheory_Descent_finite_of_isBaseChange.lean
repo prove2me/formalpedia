@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Descent_finite_of_isBaseChange
 -- name    : GlobalTheory.Descent.finite_of_isBaseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:43:14.768873+00:00
 -- url     : https://prove2.me/theorems/4d51da6a-4116-4850-ab59-e31bd1bf2193

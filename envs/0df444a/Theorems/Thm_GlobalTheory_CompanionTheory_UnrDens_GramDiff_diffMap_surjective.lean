@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_GramDiff_diffMap_surjective
 -- name    : GlobalTheory.CompanionTheory.UnrDens.GramDiff.diffMap_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:20:23.458586+00:00
 -- url     : https://prove2.me/theorems/7e267b85-4079-4eb7-ae74-875f7382b14d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SchwartzBaire_completeSpace
 -- name    : GlobalTheory.CompanionTheory.SchwartzBaire.completeSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:11:55.541797+00:00
 -- url     : https://prove2.me/theorems/1fbf7f0d-4592-406c-b384-d1629f8a5590

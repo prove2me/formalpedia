@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_charpoly_block
 -- name    : GlobalTheory.CuspGL.charpoly_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:31:06.690822+00:00
 -- url     : https://prove2.me/theorems/cc2b6464-2ace-4a96-bed8-8cb316c19381

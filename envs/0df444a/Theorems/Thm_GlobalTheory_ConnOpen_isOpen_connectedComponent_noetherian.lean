@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConnOpen_isOpen_connectedComponent_noetherian
 -- name    : GlobalTheory.ConnOpen.isOpen_connectedComponent_noetherian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:25:31.519777+00:00
 -- url     : https://prove2.me/theorems/472a36d6-73d7-41ff-b0d1-55b52fc6246c

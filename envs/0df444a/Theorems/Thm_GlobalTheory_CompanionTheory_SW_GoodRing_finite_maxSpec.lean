@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GoodRing_finite_maxSpec
 -- name    : GlobalTheory.CompanionTheory.SW.GoodRing.finite_maxSpec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:02:12.803021+00:00
 -- url     : https://prove2.me/theorems/c7176eb5-f3af-4d04-8fb4-1ad3815d9d2f

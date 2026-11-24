@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_infinite_adeles_local_ring_totally_real
 -- name    : GlobalTheory.T.infinite_adeles_local_ring_totally_real
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:59:29.741734+00:00
 -- url     : https://prove2.me/theorems/0d5f2f78-8cb9-4d63-8583-af9a11461fb8

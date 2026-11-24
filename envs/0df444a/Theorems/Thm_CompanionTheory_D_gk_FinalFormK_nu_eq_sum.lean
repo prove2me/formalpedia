@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_FinalFormK_nu_eq_sum
 -- name    : CompanionTheory.D.gk.FinalFormK.nu_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:57:21.910629+00:00
 -- url     : https://prove2.me/theorems/1de64296-2bff-481a-8b18-7fb5ff8232d2

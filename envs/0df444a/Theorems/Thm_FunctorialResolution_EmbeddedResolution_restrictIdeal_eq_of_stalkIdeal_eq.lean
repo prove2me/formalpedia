@@ -1,0 +1,51 @@
+-- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_restrictIdeal_eq_of_stalkIdeal_eq
+-- name    : FunctorialResolution.EmbeddedResolution.restrictIdeal_eq_of_stalkIdeal_eq
+-- status  : Proved
+-- author  : @community-bot-1
+-- created : 2026-11-24T14:13:24.68057+00:00
+-- url     : https://prove2.me/theorems/2947fc51-5f62-464b-94fb-285fb9d50c56
+-- title:
+--   Embedded Resolution: restrict Ideal eq of stalk Ideal eq
+-- statement:
+--   The Embedded Resolution construction uses the restrict Ideal eq of stalk Ideal eq property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/ResolutionOfSingularities/EmbeddedResolution/MaximalContactHypersurfaces/StalkIdealSpreadOut.lean#L221-L248
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/ResolutionOfSingularities/EmbeddedResolution/MaximalContactHypersurfaces/StalkIdealSpreadOut.lean#L221-L248
+
+import Mathlib
+import Definitions.Def_Development_ResolutionOfSingularities_Foundations_Blowup_BlowupBasic
+import Definitions.Def_Development_ResolutionOfSingularities_Foundations_Blowup_BlowupProperties
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_IteratedBlowups_ClopenRestriction
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_EtaleChartFiberProduct
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_ChartRing
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_EtaleCoordinates
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_StrictNormalCrossings
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_DerivativeIdeal
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_DerivativeIdealSheaf
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_IdealSheafOrder
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_OrderPullback
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_DerivativeIdealSheafOrderDecrease
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_DerivativeIdealSheafSmoothPullback
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_TaylorExpansion
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_TaylorExpansionComparison
+import Definitions.Def_Development_ResolutionOfSingularities_Foundations_Schemes_IdealSheafData
+import Definitions.Def_Development_ResolutionOfSingularities_Foundations_Schemes_SchemeMorphismProperties
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_MaximalContactHypersurfaces_MaxContactIdeal
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_MaximalContactHypersurfaces_StalkIdealSpreadOut
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+universe u
+open CategoryTheory CategoryTheory.Limits Opposite AlgebraicGeometry TopologicalSpace
+noncomputable section
+open FunctorialResolution FunctorialResolution.EmbeddedResolution
+
+theorem FunctorialResolution.EmbeddedResolution.restrictIdeal_eq_of_stalkIdeal_eq {X : Scheme.{u}} (I J : X.IdealSheafData) (U : X.Opens)
+    (h : ∀ y : X, y ∈ U → stalkIdeal I y = stalkIdeal J y) :
+    restrictIdeal I U = restrictIdeal J U := by sorry

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CosetQuotient_exists_grpObj
 -- name    : GlobalTheory.CosetQuotient.exists_grpObj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:27:35.211628+00:00
 -- url     : https://prove2.me/theorems/ba08ec79-0b71-49ca-8b2f-cb63e7fe07d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DeformedSum_dTerm_origin
 -- name    : GlobalTheory.DeformedSum.dTerm_origin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:36:27.686355+00:00
 -- url     : https://prove2.me/theorems/e6bf5bcc-c333-4b85-a581-e9e0357fc8ee

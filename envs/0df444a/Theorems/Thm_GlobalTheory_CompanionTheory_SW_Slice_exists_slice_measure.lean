@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Slice_exists_slice_measure
 -- name    : GlobalTheory.CompanionTheory.SW.Slice.exists_slice_measure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:10:21.002734+00:00
 -- url     : https://prove2.me/theorems/f0fb0e58-6e09-4872-acfe-f95be4fc05cb

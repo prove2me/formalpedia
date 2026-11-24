@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegreeBound_good_mul
 -- name    : GlobalTheory.DegreeBound.good_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:43:50.798797+00:00
 -- url     : https://prove2.me/theorems/6eb385bf-a58c-4912-9feb-d5ff9bde84f0

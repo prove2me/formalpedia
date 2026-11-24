@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_euclNorm_mulVec_le_frobenius
 -- name    : Formalism.HermitianLatticeCounting.P.euclNorm_mulVec_le_frobenius
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:27:18.743653+00:00
 -- url     : https://prove2.me/theorems/29a8311d-72ea-4641-9d0f-52a187df0fa5

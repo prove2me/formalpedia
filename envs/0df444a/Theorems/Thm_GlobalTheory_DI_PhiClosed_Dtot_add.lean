@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_PhiClosed_Dtot_add
 -- name    : GlobalTheory.DI.PhiClosed.Dtot_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:36:00.353989+00:00
 -- url     : https://prove2.me/theorems/306f3366-5c77-4fdd-a8e1-db15b1cda7d4

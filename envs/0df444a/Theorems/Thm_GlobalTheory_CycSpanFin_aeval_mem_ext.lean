@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycSpanFin_aeval_mem_ext
 -- name    : GlobalTheory.CycSpanFin.aeval_mem_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:34:13.537618+00:00
 -- url     : https://prove2.me/theorems/bf6858be-a504-40d3-b7bb-d6f862dd488b

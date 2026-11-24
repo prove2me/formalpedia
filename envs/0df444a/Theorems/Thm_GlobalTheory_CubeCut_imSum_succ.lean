@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeCut_imSum_succ
 -- name    : GlobalTheory.CubeCut.imSum_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:28:13.423407+00:00
 -- url     : https://prove2.me/theorems/899b74c9-377c-4355-9a5a-5c285c59c259

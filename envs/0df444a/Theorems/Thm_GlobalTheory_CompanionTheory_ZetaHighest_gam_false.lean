@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZetaHighest_gam_false
 -- name    : GlobalTheory.CompanionTheory.ZetaHighest.gam_false
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:25:07.388544+00:00
 -- url     : https://prove2.me/theorems/7269d262-9f9e-4bef-96df-d99d2648228a

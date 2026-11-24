@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_coord_mem_fil
 -- name    : GlobalTheory.DRFil.coord_mem_fil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:35:50.369046+00:00
 -- url     : https://prove2.me/theorems/7aa0d8ac-8b9e-456c-85c5-eab83c74f9bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_RealCoord_toMixed_coord_algebraMap
 -- name    : GlobalTheory.CompanionTheory.SW.RealCoord.toMixed_coord_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:33:45.780652+00:00
 -- url     : https://prove2.me/theorems/b87dbc8d-fcb0-434b-b58b-8436183a60fb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConeImage_exists_compact_cover
 -- name    : GlobalTheory.ConeImage.exists_compact_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:25:34.465808+00:00
 -- url     : https://prove2.me/theorems/c79c0853-b531-434e-aec9-704065a37f88

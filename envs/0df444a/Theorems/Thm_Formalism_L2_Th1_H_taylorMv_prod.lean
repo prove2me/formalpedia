@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_taylorMv_prod
 -- name    : Formalism.L2.Th1.H.taylorMv_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:23:36.011841+00:00
 -- url     : https://prove2.me/theorems/f5752146-cb17-4658-804f-853e28e0d150

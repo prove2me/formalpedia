@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TfLoc_Iw_incl_mem_iff
 -- name    : GlobalTheory.CompanionTheory.TfLoc.Iw.incl_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:15:56.160714+00:00
 -- url     : https://prove2.me/theorems/911e13f0-7fa9-4457-9f78-2ef319e1df61

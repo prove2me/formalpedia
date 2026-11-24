@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspCharCheck_sum_subgroup_eq_zero_iff
 -- name    : GlobalTheory.CuspCharCheck.sum_subgroup_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:30:26.932929+00:00
 -- url     : https://prove2.me/theorems/8eb2c513-4733-4497-8bc9-10ddab442c63

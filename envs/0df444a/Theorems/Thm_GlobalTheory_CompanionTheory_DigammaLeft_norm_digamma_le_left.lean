@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DigammaLeft_norm_digamma_le_left
 -- name    : GlobalTheory.CompanionTheory.DigammaLeft.norm_digamma_le_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:35:21.402734+00:00
 -- url     : https://prove2.me/theorems/8db58878-f8fb-43fe-9f52-49bb4461780e

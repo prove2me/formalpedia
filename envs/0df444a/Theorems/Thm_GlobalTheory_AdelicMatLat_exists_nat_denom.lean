@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdelicMatLat_exists_nat_denom
 -- name    : GlobalTheory.AdelicMatLat.exists_nat_denom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:02:16.746793+00:00
 -- url     : https://prove2.me/theorems/70bbfe9e-ec96-40bb-abbe-b720df8ee7ce

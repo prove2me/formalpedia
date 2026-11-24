@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConductorAdicCompletion_exists_ball_trivial
 -- name    : GlobalTheory.ConductorAdicCompletion.exists_ball_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:25:28.006229+00:00
 -- url     : https://prove2.me/theorems/0c087b3c-58c6-4d3a-9497-65e2227e6975

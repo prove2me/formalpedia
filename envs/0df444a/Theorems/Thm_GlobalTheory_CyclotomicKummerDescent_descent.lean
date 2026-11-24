@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CyclotomicKummerDescent_descent
 -- name    : GlobalTheory.CyclotomicKummerDescent.descent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:34:24.568272+00:00
 -- url     : https://prove2.me/theorems/ed645e45-a592-412c-b1dd-c80063274854

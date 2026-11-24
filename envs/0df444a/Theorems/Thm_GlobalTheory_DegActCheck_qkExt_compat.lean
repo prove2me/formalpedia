@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegActCheck_qkExt_compat
 -- name    : GlobalTheory.DegActCheck.qkExt_compat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:37:44.373421+00:00
 -- url     : https://prove2.me/theorems/2ed97980-25dc-4b98-a44f-53666611c6bc

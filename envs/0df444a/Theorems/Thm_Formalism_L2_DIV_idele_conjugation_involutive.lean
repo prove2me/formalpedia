@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_idele_conjugation_involutive
 -- name    : Formalism.L2.DIV.idele_conjugation_involutive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:25:57.001431+00:00
 -- url     : https://prove2.me/theorems/528c098c-6f9d-4b8e-9f0a-9d9d14095a0b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_ioLeft_eabV_left
 -- name    : Formalism.QuantumDeterminants.ioLeft_eabV_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:05:47.516785+00:00
 -- url     : https://prove2.me/theorems/131d1f44-e4fe-4cf3-834a-215bae6391a1

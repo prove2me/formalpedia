@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_exists_monomial_basis_of_isCompl
 -- name    : GlobalTheory.CuspGL.exists_monomial_basis_of_isCompl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:32:22.560344+00:00
 -- url     : https://prove2.me/theorems/9e620bf6-04ec-4fb2-ac98-c03b5ff56ffc

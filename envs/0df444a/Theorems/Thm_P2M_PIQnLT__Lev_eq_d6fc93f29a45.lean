@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PIQnLT__Lev_eq_d6fc93f29a45
 -- name    : P2M_PIQnLT__Lev_eq_d6fc93f29a45
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:08:25.967404+00:00
 -- url     : https://prove2.me/theorems/5041739f-72ef-4cf6-be49-c00a021a7f06

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ContinuousHomDifferentiable_exists_integral_ne_zero
 -- name    : GlobalTheory.ContinuousHomDifferentiable.exists_integral_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:25:23.949373+00:00
 -- url     : https://prove2.me/theorems/22682cd2-f75b-4f28-9fa5-f8335b0b1d11

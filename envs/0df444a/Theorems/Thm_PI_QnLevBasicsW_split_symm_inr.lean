@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnLevBasicsW_split_symm_inr
 -- name    : PI.QnLevBasicsW.split_symm_inr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:08:16.183851+00:00
 -- url     : https://prove2.me/theorems/c847fd71-0b2f-48a4-8a8f-71b7bd64083f

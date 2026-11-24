@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_inTot_delta_Dtot
 -- name    : GlobalTheory.DI.inTot_delta_Dtot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:36:06.539111+00:00
 -- url     : https://prove2.me/theorems/8594e2c1-2395-4f30-ba3c-bb586ccd096d

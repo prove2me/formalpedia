@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AdeleCharLocal_ext_of_inf
 -- name    : GlobalTheory.CompanionTheory.AdeleCharLocal.ext_of_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:24:15.074594+00:00
 -- url     : https://prove2.me/theorems/19e9c9b9-2ade-410a-854b-8d15e8052c2c

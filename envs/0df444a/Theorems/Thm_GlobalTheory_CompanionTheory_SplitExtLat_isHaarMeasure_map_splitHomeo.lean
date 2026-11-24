@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SplitExtLat_isHaarMeasure_map_splitHomeo
 -- name    : GlobalTheory.CompanionTheory.SplitExtLat.isHaarMeasure_map_splitHomeo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:14:58.686848+00:00
 -- url     : https://prove2.me/theorems/a0fe5b2c-1cf6-49d5-a410-605a5d141563

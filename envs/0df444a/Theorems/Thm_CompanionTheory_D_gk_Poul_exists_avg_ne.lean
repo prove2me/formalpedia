@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_Poul_exists_avg_ne
 -- name    : CompanionTheory.D.gk.Poul.exists_avg_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:33:06.634052+00:00
 -- url     : https://prove2.me/theorems/a4c296d3-4e10-4a8d-ad26-ddff93ac74a3

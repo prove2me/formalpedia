@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_card_quot_lev
 -- name    : GlobalTheory.CompanionTheory.UnrDens.card_quot_lev
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:33:54.023339+00:00
 -- url     : https://prove2.me/theorems/75636c09-aa0e-4d01-ab10-7d68b10479d3

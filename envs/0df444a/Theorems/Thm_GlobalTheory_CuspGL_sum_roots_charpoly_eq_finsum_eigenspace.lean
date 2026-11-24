@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_sum_roots_charpoly_eq_finsum_eigenspace
 -- name    : GlobalTheory.CuspGL.sum_roots_charpoly_eq_finsum_eigenspace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:33:34.186496+00:00
 -- url     : https://prove2.me/theorems/43e0fa93-f516-4fd1-8027-1b25066cdb80

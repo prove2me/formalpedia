@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConjBound_im_adjoint_of_span
 -- name    : GlobalTheory.ConjBound.im_adjoint_of_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:25:42.831783+00:00
 -- url     : https://prove2.me/theorems/45ac19b4-1e4e-45ef-906d-fd52a4fe16b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConormalDer_exists_derivation_cotangent
 -- name    : GlobalTheory.ConormalDer.exists_derivation_cotangent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:25:35.477018+00:00
 -- url     : https://prove2.me/theorems/bd98abe9-96ac-457d-83ad-aea3c926f5b7

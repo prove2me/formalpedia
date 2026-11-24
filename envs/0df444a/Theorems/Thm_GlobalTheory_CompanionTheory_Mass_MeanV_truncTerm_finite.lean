@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Mass_MeanV_truncTerm_finite
 -- name    : GlobalTheory.CompanionTheory.Mass.MeanV.truncTerm_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:37:25.220057+00:00
 -- url     : https://prove2.me/theorems/a8c9abad-97f1-4fa2-837c-537cf7fdf6cf

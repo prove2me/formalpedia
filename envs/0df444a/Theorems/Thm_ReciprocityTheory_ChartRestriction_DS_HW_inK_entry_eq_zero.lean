@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_inK_entry_eq_zero
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.inK_entry_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:54:55.425844+00:00
 -- url     : https://prove2.me/theorems/554f7f99-6060-4be8-8b17-ab8fafbde107

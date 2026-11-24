@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cris_SqExt_val_const
 -- name    : GlobalTheory.Cris.SqExt.val_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:28:46.282804+00:00
 -- url     : https://prove2.me/theorems/331295eb-4ba0-402b-a7c7-43d06e87b8c7

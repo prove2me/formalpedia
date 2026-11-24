@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompleteBaseChange_exists_polynomial_totalDegree_le_sub_mem
 -- name    : GlobalTheory.CompleteBaseChange.exists_polynomial_totalDegree_le_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:17:23.33697+00:00
 -- url     : https://prove2.me/theorems/34da2796-7ec5-4881-8715-12a775bad5a7

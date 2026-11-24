@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_NormIndex_val_mul_zpow_sq
 -- name    : GlobalTheory.QuadSymbol.NormIndex.val_mul_zpow_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:01:22.405921+00:00
 -- url     : https://prove2.me/theorems/eac25bd8-1ab6-4956-875c-2cb330d1b737

@@ -91282,7 +91282,7 @@
 {"parent": "AvramDividend.Classical.avram_wave3_05_source_gaussian_Wsecond_signed", "child": "AvramDividend.Classical.gaussian_esscher_tilted_scale_locally_bounded", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave3_05_source_gaussian_Wsecond_signed", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_wave3_05_source_gaussian_Wsecond_signed", "child": "AvramDividend.Classical.gaussian_esscher_positive_indicator_continuous", "via": ["solution", "statement"]}
-{"parent": "NahmiasPerishable.Inventory.m12", "child": "NahmiasPerishable_Inventory_Stationary", "via": ["statement"]}
+{"parent": "NahmiasPerishable.Inventory.m12", "child": "NahmiasPerishable_Inventory_Stationary", "via": ["solution", "statement"]}
 {"parent": "BookProof.BrstReducedTransfer.infDist_exactStates_stoneU_eq_of_comm_explicit", "child": "ChapterBrstReducedTransfer", "via": ["statement"]}
 {"parent": "BookProof.BrstReducedTransfer.infDist_exactStates_stoneU_eq_of_comm_explicit", "child": "ChapterStoneUnitary", "via": ["statement"]}
 {"parent": "BookProof.BrstReducedTransfer.infDist_exactStates_stoneU_eq_of_comm_explicit", "child": "ChapterStoneResolvent", "via": ["statement"]}

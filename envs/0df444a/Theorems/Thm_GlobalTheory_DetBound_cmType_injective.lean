@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetBound_cmType_injective
 -- name    : GlobalTheory.DetBound.cmType_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:44:03.579675+00:00
 -- url     : https://prove2.me/theorems/e0936d68-2260-45f2-894b-80c82a33c2fb

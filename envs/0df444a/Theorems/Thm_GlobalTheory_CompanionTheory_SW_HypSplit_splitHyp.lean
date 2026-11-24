@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HypSplit_splitHyp
 -- name    : GlobalTheory.CompanionTheory.SW.HypSplit.splitHyp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:07:07.143171+00:00
 -- url     : https://prove2.me/theorems/ad715f9d-677b-4e36-9993-5ce4d8324ca0

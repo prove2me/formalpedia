@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DVRBaseChange_exists_dvr_quotient
 -- name    : GlobalTheory.DVRBaseChange.exists_dvr_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:35:18.152831+00:00
 -- url     : https://prove2.me/theorems/182afab5-f7ea-4b96-9705-0c12c63f0806

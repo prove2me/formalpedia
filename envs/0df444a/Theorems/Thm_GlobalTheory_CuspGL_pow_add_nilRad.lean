@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_pow_add_nilRad
 -- name    : GlobalTheory.CuspGL.pow_add_nilRad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:32:33.951468+00:00
 -- url     : https://prove2.me/theorems/c2a4ea64-288c-452b-9e58-31ed0d7822dc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_spans_iff
 -- name    : GlobalTheory.DRFil.spans_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:35:54.831229+00:00
 -- url     : https://prove2.me/theorems/6515dbe7-1707-4775-b848-00b84ae633c5

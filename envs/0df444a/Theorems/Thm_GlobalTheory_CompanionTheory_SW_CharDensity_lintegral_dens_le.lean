@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_CharDensity_lintegral_dens_le
 -- name    : GlobalTheory.CompanionTheory.SW.CharDensity.lintegral_dens_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:01:58.744094+00:00
 -- url     : https://prove2.me/theorems/627ba03c-c78f-4969-9622-bcfd1a416cbf

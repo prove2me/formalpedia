@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TubeFourier_expDecay_of_midpoint
 -- name    : GlobalTheory.CompanionTheory.TubeFourier.expDecay_of_midpoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:16:45.55713+00:00
 -- url     : https://prove2.me/theorems/8e60a373-0d49-4b0a-83fe-5d8e8a9a7c48

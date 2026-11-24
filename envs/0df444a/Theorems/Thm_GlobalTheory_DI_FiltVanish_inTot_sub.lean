@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_FiltVanish_inTot_sub
 -- name    : GlobalTheory.DI.FiltVanish.inTot_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:35:06.342139+00:00
 -- url     : https://prove2.me/theorems/f3fa799f-09c7-4f88-bd8e-a039fdab38dd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CondAway_isUnit_absNorm_of_not_mem
 -- name    : GlobalTheory.CondAway.isUnit_absNorm_of_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:25:44.493797+00:00
 -- url     : https://prove2.me/theorems/86c1329f-5171-4f14-a9e9-b2cf00e161e0

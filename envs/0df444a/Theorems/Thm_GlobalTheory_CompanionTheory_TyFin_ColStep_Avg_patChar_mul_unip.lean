@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_ColStep_Avg_patChar_mul_unip
 -- name    : GlobalTheory.CompanionTheory.TyFin.ColStep.Avg.patChar_mul_unip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:17:14.802391+00:00
 -- url     : https://prove2.me/theorems/25c5a05f-abe7-4bcb-9857-268bb4d0496f

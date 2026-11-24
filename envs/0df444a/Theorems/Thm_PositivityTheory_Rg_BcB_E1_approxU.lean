@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E1_approxU
 -- name    : PositivityTheory.Rg.BcB.E1.approxU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:00:07.953992+00:00
 -- url     : https://prove2.me/theorems/a3b75093-8a21-4bb5-a22d-1efce9b38b3d

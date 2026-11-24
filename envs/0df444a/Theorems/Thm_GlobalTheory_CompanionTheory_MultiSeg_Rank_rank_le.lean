@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MultiSeg_Rank_rank_le
 -- name    : GlobalTheory.CompanionTheory.MultiSeg.Rank.rank_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:53:30.732801+00:00
 -- url     : https://prove2.me/theorems/e1628f9a-5119-4797-b010-a2940b059c14

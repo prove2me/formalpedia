@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeCut_res_mem_imSum
 -- name    : GlobalTheory.CubeCut.res_mem_imSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:28:08.466179+00:00
 -- url     : https://prove2.me/theorems/368e771b-d819-4221-9dc6-2e55389134ae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WeilSiegel_Inf0_RealBox_unit_box_bound
 -- name    : GlobalTheory.CompanionTheory.WeilSiegel.Inf0.RealBox.unit_box_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:23:21.746359+00:00
 -- url     : https://prove2.me/theorems/3ebcdd18-c74c-489c-ad1f-4a95b20ff468

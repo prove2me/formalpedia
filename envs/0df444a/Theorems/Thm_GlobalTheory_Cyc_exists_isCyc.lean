@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_exists_isCyc
 -- name    : GlobalTheory.Cyc.exists_isCyc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:34:26.430845+00:00
 -- url     : https://prove2.me/theorems/7f21d870-8bef-4d2e-87a0-48294db58f56

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_sum_poly_eq_sum_torus
 -- name    : GlobalTheory.CuspGL.sum_poly_eq_sum_torus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:33:25.071383+00:00
 -- url     : https://prove2.me/theorems/71196de3-3674-4b6f-8171-a777b4c8e657

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_b_off_inv
 -- name    : Formalism.L2.DIV.b_off_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:22:36.996729+00:00
 -- url     : https://prove2.me/theorems/d1c2c4f9-7a2b-4879-b72d-382297ef6b14

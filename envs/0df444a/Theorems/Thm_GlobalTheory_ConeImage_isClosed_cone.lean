@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConeImage_isClosed_cone
 -- name    : GlobalTheory.ConeImage.isClosed_cone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:25:26.189929+00:00
 -- url     : https://prove2.me/theorems/841c19a2-7269-473e-9199-7b5a267c72fe

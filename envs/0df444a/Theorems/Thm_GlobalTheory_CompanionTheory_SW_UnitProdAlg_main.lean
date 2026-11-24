@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_UnitProdAlg_main
 -- name    : GlobalTheory.CompanionTheory.SW.UnitProdAlg.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:31:52.923851+00:00
 -- url     : https://prove2.me/theorems/973a654a-18d4-4bfe-b581-728afefa382b

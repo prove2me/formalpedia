@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ThW_gM_DM_emb_eq_trace
 -- name    : GlobalTheory.CompanionTheory.SW.ThW.gM_DM_emb_eq_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:11:35.437631+00:00
 -- url     : https://prove2.me/theorems/97a6d647-786c-4ea6-aace-be35f696c094

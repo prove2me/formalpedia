@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DefectSumCompare_pow_finrank_eq_span_absNorm
 -- name    : GlobalTheory.DefectSumCompare.pow_finrank_eq_span_absNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:35:17.127352+00:00
 -- url     : https://prove2.me/theorems/63f20e93-394c-4d04-8041-2a32166192cb

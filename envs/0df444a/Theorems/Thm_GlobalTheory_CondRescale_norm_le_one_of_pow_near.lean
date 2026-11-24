@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CondRescale_norm_le_one_of_pow_near
 -- name    : GlobalTheory.CondRescale.norm_le_one_of_pow_near
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:25:48.33014+00:00
 -- url     : https://prove2.me/theorems/ced64558-be7c-48da-a78b-f7b0146c81fc

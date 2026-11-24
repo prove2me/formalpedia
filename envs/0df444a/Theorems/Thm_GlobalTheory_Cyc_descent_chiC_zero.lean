@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_descent_chiC_zero
 -- name    : GlobalTheory.Cyc.descent_chiC_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:34:22.008357+00:00
 -- url     : https://prove2.me/theorems/1df4115c-9831-4590-b3a8-a85e06bfca2d

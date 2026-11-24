@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DCIndex_card_split
 -- name    : GlobalTheory.DCIndex.card_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:34:26.1072+00:00
 -- url     : https://prove2.me/theorems/66dcc802-80a3-46e0-848d-38fe65173b1c

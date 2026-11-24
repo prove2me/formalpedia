@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_hermOne_eq_scal
 -- name    : GlobalTheory.CompanionTheory.SW.hermOne_eq_scal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:12:13.22827+00:00
 -- url     : https://prove2.me/theorems/c870d0d8-0d33-4909-ac09-8c66f5c90cae

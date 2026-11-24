@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SchwartzBaire_exists_tendsto
 -- name    : GlobalTheory.CompanionTheory.SchwartzBaire.exists_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:12:09.491323+00:00
 -- url     : https://prove2.me/theorems/d24cbcec-4452-46e3-baa5-6d540e389382

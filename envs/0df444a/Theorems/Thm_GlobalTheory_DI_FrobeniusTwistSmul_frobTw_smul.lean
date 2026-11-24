@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_FrobeniusTwistSmul_frobTw_smul
 -- name    : GlobalTheory.DI.FrobeniusTwistSmul.frobTw_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:34:51.556891+00:00
 -- url     : https://prove2.me/theorems/ff5ea948-e45b-4245-bfa3-7f36937a7246

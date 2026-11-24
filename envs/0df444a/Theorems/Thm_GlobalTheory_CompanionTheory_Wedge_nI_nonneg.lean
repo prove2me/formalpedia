@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Wedge_nI_nonneg
 -- name    : GlobalTheory.CompanionTheory.Wedge.nI_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:21:45.324364+00:00
 -- url     : https://prove2.me/theorems/95a391c3-e26c-41ad-9674-ec322c335fd2

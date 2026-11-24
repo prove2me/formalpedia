@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S7_traceDiag
 -- name    : Formalism.HermitianLatticeCounting.Final.S7.traceDiag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:05:38.931094+00:00
 -- url     : https://prove2.me/theorems/91500822-f6a1-425c-9a3b-ed5796adfebd

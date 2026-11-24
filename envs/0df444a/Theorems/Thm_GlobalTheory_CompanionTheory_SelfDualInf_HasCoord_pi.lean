@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SelfDualInf_HasCoord_pi
 -- name    : GlobalTheory.CompanionTheory.SelfDualInf.HasCoord.pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:37:40.938749+00:00
 -- url     : https://prove2.me/theorems/b86607b7-1489-441b-aa0a-792c08e0254f

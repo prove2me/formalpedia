@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ContraRefl_contraMap_apply
 -- name    : GlobalTheory.ContraRefl.contraMap_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:34:39.48019+00:00
 -- url     : https://prove2.me/theorems/7cd088a7-72c8-4f6d-936f-92ff5037d43f

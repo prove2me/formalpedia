@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S7_farCount
 -- name    : Formalism.HermitianLatticeCounting.Final.S7.farCount
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:05:34.212081+00:00
 -- url     : https://prove2.me/theorems/7df91db2-b801-4f64-988e-f171e1a4d3b4

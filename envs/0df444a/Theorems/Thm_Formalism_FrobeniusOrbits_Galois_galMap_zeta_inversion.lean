@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Galois_galMap_zeta_inversion
 -- name    : Formalism.FrobeniusOrbits.Galois.galMap_zeta_inversion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:53:24.517634+00:00
 -- url     : https://prove2.me/theorems/a0c4f47d-a1fb-4d1c-9199-070fd4425642

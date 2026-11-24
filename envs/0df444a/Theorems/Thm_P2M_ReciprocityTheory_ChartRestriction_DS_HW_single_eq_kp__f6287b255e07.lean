@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_HW_single_eq_kp__f6287b255e07
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_HW_single_eq_kp__f6287b255e07
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:56:44.039983+00:00
 -- url     : https://prove2.me/theorems/d1be9ee7-2186-4a42-a40c-2457df5c3ec7

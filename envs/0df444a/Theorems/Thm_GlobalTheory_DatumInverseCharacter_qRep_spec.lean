@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DatumInverseCharacter_qRep_spec
 -- name    : GlobalTheory.DatumInverseCharacter.qRep_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:35:27.368799+00:00
 -- url     : https://prove2.me/theorems/d8e15d78-b0b6-4646-8b35-ee7bb0f4b429

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_NormZero_card_zero_split
 -- name    : GlobalTheory.CompanionTheory.UnrDens.NormZero.card_zero_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:20:05.727198+00:00
 -- url     : https://prove2.me/theorems/9bf74c4b-dcee-49a6-b5b2-8ab64ad8df49

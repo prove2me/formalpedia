@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Conv_ev_single
 -- name    : GlobalTheory.Conv.ev_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:28:52.763444+00:00
 -- url     : https://prove2.me/theorems/0855e833-07ad-45e3-98ac-f37949849ac7

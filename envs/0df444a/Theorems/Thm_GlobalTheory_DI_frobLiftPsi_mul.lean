@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_frobLiftPsi_mul
 -- name    : GlobalTheory.DI.frobLiftPsi_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:36:41.6658+00:00
 -- url     : https://prove2.me/theorems/12f3af42-f434-43ad-a3fd-3fc1cf6c9857

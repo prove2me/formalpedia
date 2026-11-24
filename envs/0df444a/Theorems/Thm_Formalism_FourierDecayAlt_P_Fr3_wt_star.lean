@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr3_wt_star
 -- name    : Formalism.FourierDecayAlt.P.Fr3.wt_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:04:01.972465+00:00
 -- url     : https://prove2.me/theorems/081b5540-f8a5-4734-9298-4e986a875eea

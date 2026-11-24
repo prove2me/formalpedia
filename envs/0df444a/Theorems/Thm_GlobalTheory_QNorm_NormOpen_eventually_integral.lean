@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_NormOpen_eventually_integral
 -- name    : GlobalTheory.QNorm.NormOpen.eventually_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:05:03.548452+00:00
 -- url     : https://prove2.me/theorems/05053c95-e7c8-484b-a52d-d66021228449

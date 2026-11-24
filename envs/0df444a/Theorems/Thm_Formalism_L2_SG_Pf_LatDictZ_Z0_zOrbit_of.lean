@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z0_zOrbit_of
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z0.zOrbit_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:07:00.983744+00:00
 -- url     : https://prove2.me/theorems/99bbdafe-c0ef-42ff-89d2-6ce7c05e6972

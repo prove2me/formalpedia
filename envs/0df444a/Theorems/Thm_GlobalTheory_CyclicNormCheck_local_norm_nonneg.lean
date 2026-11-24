@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CyclicNormCheck_local_norm_nonneg
 -- name    : GlobalTheory.CyclicNormCheck.local_norm_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:34:29.282956+00:00
 -- url     : https://prove2.me/theorems/6a801a82-0684-4ed5-b833-8f954c9b4264

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_exists_isPhi
 -- name    : GlobalTheory.DI.exists_isPhi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:35:25.92498+00:00
 -- url     : https://prove2.me/theorems/48a84ca8-60bc-4c3f-a528-1c50192eddef

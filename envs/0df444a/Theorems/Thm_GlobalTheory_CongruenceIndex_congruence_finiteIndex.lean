@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CongruenceIndex_congruence_finiteIndex
 -- name    : GlobalTheory.CongruenceIndex.congruence_finiteIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:25:25.436532+00:00
 -- url     : https://prove2.me/theorems/d44579c6-b20b-436e-9053-432b0ed1d366

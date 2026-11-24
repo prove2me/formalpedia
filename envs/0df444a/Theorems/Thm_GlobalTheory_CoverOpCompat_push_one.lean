@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoverOpCompat_push_one
 -- name    : GlobalTheory.CoverOpCompat.push_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:29:00.5282+00:00
 -- url     : https://prove2.me/theorems/14fc571f-de6f-4d3b-9d5a-4318b39bb10d

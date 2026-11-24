@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_prodL_eq_zero_of_card
 -- name    : GlobalTheory.DI.prodL_eq_zero_of_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:36:09.631961+00:00
 -- url     : https://prove2.me/theorems/9accc7a4-156a-4b7b-96fe-1a9af5a9f478

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_Primary_eq_top_of_nilpotent
 -- name    : GlobalTheory.CuspGL.Primary.eq_top_of_nilpotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:31:47.756627+00:00
 -- url     : https://prove2.me/theorems/72120adf-b49a-43d1-a188-76b711bcd1a9

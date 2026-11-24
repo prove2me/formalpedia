@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TfLoc_Iw_val_aut_strictMono
 -- name    : GlobalTheory.CompanionTheory.TfLoc.Iw.val_aut_strictMono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:16:29.316356+00:00
 -- url     : https://prove2.me/theorems/3452c886-4b99-4088-b567-9203c6ad51e3

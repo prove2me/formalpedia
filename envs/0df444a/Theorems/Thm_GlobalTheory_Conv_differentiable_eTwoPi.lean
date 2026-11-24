@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Conv_differentiable_eTwoPi
 -- name    : GlobalTheory.Conv.differentiable_eTwoPi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:25:57.975796+00:00
 -- url     : https://prove2.me/theorems/55225925-bd67-471d-a25d-edeb556952c6

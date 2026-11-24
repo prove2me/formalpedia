@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TubeFourier_phi_joint_continuous
 -- name    : GlobalTheory.CompanionTheory.TubeFourier.phi_joint_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:16:20.528808+00:00
 -- url     : https://prove2.me/theorems/934ea6c2-cccc-4422-bee8-795e8b3a3aed

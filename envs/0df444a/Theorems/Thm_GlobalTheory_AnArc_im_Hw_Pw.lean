@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_im_Hw_Pw
 -- name    : GlobalTheory.AnArc.im_Hw_Pw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:38:55.641812+00:00
 -- url     : https://prove2.me/theorems/0c9089c8-bb58-4fb7-8f85-d3533093e103

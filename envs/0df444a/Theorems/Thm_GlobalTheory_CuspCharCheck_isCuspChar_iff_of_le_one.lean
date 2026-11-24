@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspCharCheck_isCuspChar_iff_of_le_one
 -- name    : GlobalTheory.CuspCharCheck.isCuspChar_iff_of_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:29:57.008272+00:00
 -- url     : https://prove2.me/theorems/db773de5-ba9e-45bd-a30f-521c4fd72f70

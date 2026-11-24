@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_Model_pow_lt_first_radius
 -- name    : GlobalTheory.Cyc.Model.pow_lt_first_radius
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:34:28.681864+00:00
 -- url     : https://prove2.me/theorems/4b529277-22ef-40b2-bb92-716a54f88592

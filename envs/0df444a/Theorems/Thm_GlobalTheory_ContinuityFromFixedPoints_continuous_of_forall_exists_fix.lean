@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ContinuityFromFixedPoints_continuous_of_forall_exists_fix
 -- name    : GlobalTheory.ContinuityFromFixedPoints.continuous_of_forall_exists_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:25:53.036322+00:00
 -- url     : https://prove2.me/theorems/4256a623-24e6-47dc-a45f-39b6cd753df0

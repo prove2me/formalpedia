@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DenseFibreIso_of_local
 -- name    : GlobalTheory.DenseFibreIso.of_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:43:18.878803+00:00
 -- url     : https://prove2.me/theorems/c7d79410-a8d6-44de-b604-0d11e44de01f

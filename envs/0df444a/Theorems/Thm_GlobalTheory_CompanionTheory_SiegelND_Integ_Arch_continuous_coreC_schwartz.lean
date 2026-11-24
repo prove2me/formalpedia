@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegelND_Integ_Arch_continuous_coreC_schwartz
 -- name    : GlobalTheory.CompanionTheory.SiegelND.Integ.Arch.continuous_coreC_schwartz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:13:55.351768+00:00
 -- url     : https://prove2.me/theorems/39a4745c-02f3-412c-a54e-9f529abe767f

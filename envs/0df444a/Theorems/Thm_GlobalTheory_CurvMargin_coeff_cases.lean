@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CurvMargin_coeff_cases
 -- name    : GlobalTheory.CurvMargin.coeff_cases
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:29:48.31216+00:00
 -- url     : https://prove2.me/theorems/66016103-8662-45ba-b0f3-c8c1ab7583c4

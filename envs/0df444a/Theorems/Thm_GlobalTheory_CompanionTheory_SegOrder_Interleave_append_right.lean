@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SegOrder_Interleave_append_right
 -- name    : GlobalTheory.CompanionTheory.SegOrder.Interleave.append_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:12:29.225429+00:00
 -- url     : https://prove2.me/theorems/fa53d7b8-e667-4e53-9d88-78e9d89703cf

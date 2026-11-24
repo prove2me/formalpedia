@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_sepIneq_sum_lt
 -- name    : GlobalTheory.CuspGL.sepIneq_sum_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:32:33.346367+00:00
 -- url     : https://prove2.me/theorems/58b2d856-6f52-4e7e-931d-0a4495815a04

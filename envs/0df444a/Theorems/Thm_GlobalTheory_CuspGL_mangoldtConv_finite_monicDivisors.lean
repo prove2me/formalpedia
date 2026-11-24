@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_mangoldtConv_finite_monicDivisors
 -- name    : GlobalTheory.CuspGL.mangoldtConv_finite_monicDivisors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:32:45.14288+00:00
 -- url     : https://prove2.me/theorems/623119a7-497d-478b-a266-021f1b1b55b6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_TailConst_tail_eq_mul_tail_insert
 -- name    : GlobalTheory.CompanionTheory.SW.TailConst.tail_eq_mul_tail_insert
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:10:10.549419+00:00
 -- url     : https://prove2.me/theorems/80e87117-fc3a-4c6b-8545-3039c428cc80

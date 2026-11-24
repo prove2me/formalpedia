@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_euclNorm_add_le
 -- name    : Formalism.HermitianLatticeCounting.P.euclNorm_add_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:28:15.671785+00:00
 -- url     : https://prove2.me/theorems/992e02d1-d3e6-41e5-932a-22d377cf7b75

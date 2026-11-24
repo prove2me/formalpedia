@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DenseEmbeddingProduct_denseRange_embedding_pi
 -- name    : GlobalTheory.DenseEmbeddingProduct.denseRange_embedding_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:43:23.312808+00:00
 -- url     : https://prove2.me/theorems/1167c05f-7e7d-400d-b02d-41782e5f24ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LawlerCompress_TardyJobs_theorem_2_2
 -- name    : LawlerCompress.TardyJobs.theorem_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T16:25:14.371099+00:00
 -- url     : https://prove2.me/theorems/36d6082f-20f8-4f6e-8f01-cfb0bf84b1bf

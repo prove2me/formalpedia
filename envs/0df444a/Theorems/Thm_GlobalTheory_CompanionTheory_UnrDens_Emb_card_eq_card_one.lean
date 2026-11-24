@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_Emb_card_eq_card_one
 -- name    : GlobalTheory.CompanionTheory.UnrDens.Emb.card_eq_card_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:21:19.468969+00:00
 -- url     : https://prove2.me/theorems/104573ac-0c76-411f-8947-6f22f6456527

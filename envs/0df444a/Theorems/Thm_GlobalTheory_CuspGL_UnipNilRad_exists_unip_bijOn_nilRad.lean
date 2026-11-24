@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_UnipNilRad_exists_unip_bijOn_nilRad
 -- name    : GlobalTheory.CuspGL.UnipNilRad.exists_unip_bijOn_nilRad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:31:00.29284+00:00
 -- url     : https://prove2.me/theorems/e0db0fb5-f76f-490b-a05b-3d89f0f0e7b8

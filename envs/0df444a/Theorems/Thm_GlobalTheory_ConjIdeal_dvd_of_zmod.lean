@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConjIdeal_dvd_of_zmod
 -- name    : GlobalTheory.ConjIdeal.dvd_of_zmod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:25:29.585518+00:00
 -- url     : https://prove2.me/theorems/5bd59cda-5845-4207-b785-183b9b80057f

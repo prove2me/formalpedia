@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SelfDualInf_trace_sigR
 -- name    : GlobalTheory.CompanionTheory.SelfDualInf.trace_sigR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:38:20.139002+00:00
 -- url     : https://prove2.me/theorems/12c86a3a-cac9-4776-ad02-f7501c8164af

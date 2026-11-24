@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegPull_isCub_of_rel
 -- name    : GlobalTheory.DegPull.isCub_of_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:38:01.809671+00:00
 -- url     : https://prove2.me/theorems/aa2d9ee2-da15-473d-82cf-39d1bf96267d

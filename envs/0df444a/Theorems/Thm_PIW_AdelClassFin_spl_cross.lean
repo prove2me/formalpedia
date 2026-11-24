@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_spl_cross
 -- name    : PIW.AdelClassFin.spl_cross
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:54:59.086635+00:00
 -- url     : https://prove2.me/theorems/8234507c-ab3e-45f5-bf2f-bfdbcbf2c176

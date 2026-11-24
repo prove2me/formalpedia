@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_isClassFn_extZero
 -- name    : GlobalTheory.CuspGL.isClassFn_extZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:33:17.17084+00:00
 -- url     : https://prove2.me/theorems/916a7796-4409-40a6-85a3-2695f2052d75

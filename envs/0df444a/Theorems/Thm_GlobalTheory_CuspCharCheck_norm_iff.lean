@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspCharCheck_norm_iff
 -- name    : GlobalTheory.CuspCharCheck.norm_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:30:15.019859+00:00
 -- url     : https://prove2.me/theorems/a1283dda-c82d-4221-bfc8-49bae4cabd25

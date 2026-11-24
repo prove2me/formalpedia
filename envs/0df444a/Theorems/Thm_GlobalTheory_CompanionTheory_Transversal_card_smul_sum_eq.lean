@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Transversal_card_smul_sum_eq
 -- name    : GlobalTheory.CompanionTheory.Transversal.card_smul_sum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:48:51.402402+00:00
 -- url     : https://prove2.me/theorems/d143ddfd-be1e-4932-aa98-59c8ef424824

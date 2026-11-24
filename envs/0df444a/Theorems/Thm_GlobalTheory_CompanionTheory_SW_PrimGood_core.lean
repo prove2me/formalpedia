@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_PrimGood_core
 -- name    : GlobalTheory.CompanionTheory.SW.PrimGood.core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:08:20.896612+00:00
 -- url     : https://prove2.me/theorems/4abc0e41-52ae-4898-b595-55229f780687

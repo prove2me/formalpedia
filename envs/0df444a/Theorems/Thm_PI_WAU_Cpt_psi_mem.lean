@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_Cpt_psi_mem
 -- name    : PI.WAU.Cpt.psi_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:57:14.140374+00:00
 -- url     : https://prove2.me/theorems/e62b273d-b97f-405c-988c-ab5f57e249db

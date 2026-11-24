@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_kDecomp
 -- name    : Formalism.REAL.kDecomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:14:28.616767+00:00
 -- url     : https://prove2.me/theorems/fa966c33-3137-4a8b-be97-8177d5d09a56

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConjIdeal_fix_torsion_of_fix_conj_rel
 -- name    : GlobalTheory.ConjIdeal.fix_torsion_of_fix_conj_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:25:19.763578+00:00
 -- url     : https://prove2.me/theorems/8735c059-85c7-4e3c-8ef7-ce2eb1de777f

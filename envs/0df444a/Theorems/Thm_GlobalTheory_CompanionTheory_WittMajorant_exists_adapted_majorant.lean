@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WittMajorant_exists_adapted_majorant
 -- name    : GlobalTheory.CompanionTheory.WittMajorant.exists_adapted_majorant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:24:58.077249+00:00
 -- url     : https://prove2.me/theorems/97cf2e76-fd64-4855-8848-8004ca62906e

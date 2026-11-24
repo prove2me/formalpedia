@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_adelic_rational_points
 -- name    : adelic_rational_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:17:00.513319+00:00
 -- url     : https://prove2.me/theorems/51102cda-f813-48aa-b693-71ca8fa5b898

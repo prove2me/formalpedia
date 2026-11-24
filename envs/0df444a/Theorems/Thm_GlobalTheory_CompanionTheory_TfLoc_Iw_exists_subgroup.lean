@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TfLoc_Iw_exists_subgroup
 -- name    : GlobalTheory.CompanionTheory.TfLoc.Iw.exists_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:16:28.224343+00:00
 -- url     : https://prove2.me/theorems/0c4ee54f-2f99-4858-8bc0-d92a43518311

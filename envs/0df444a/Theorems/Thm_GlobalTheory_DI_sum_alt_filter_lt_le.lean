@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_sum_alt_filter_lt_le
 -- name    : GlobalTheory.DI.sum_alt_filter_lt_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:36:04.634701+00:00
 -- url     : https://prove2.me/theorems/50a13d89-b09f-4da3-81b8-4430d6a8efba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DenseClosedAffineSubsets_mem_basicOpen_of_mul_eq_one
 -- name    : GlobalTheory.DenseClosedAffineSubsets.mem_basicOpen_of_mul_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:43:21.923798+00:00
 -- url     : https://prove2.me/theorems/ff3a6575-f386-4534-b522-5928549a6704

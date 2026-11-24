@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_vanishing_outside_lie_derivative
 -- name    : Formalism.REAL.vanishing_outside_lie_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:12:15.658962+00:00
 -- url     : https://prove2.me/theorems/2fb0a115-d495-4d13-b545-44a04af1c236

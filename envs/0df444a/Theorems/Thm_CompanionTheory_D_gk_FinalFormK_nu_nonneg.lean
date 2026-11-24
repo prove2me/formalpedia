@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_FinalFormK_nu_nonneg
 -- name    : CompanionTheory.D.gk.FinalFormK.nu_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:57:01.217723+00:00
 -- url     : https://prove2.me/theorems/2a13cabd-3810-4f19-b22c-0cac6abaaf0e

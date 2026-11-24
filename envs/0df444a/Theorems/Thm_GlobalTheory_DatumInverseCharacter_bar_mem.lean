@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DatumInverseCharacter_bar_mem
 -- name    : GlobalTheory.DatumInverseCharacter.bar_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:35:30.822516+00:00
 -- url     : https://prove2.me/theorems/00c887bd-d147-40e8-b6e6-801e16eaeecd

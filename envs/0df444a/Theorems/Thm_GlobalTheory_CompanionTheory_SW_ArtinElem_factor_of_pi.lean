@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ArtinElem_factor_of_pi
 -- name    : GlobalTheory.CompanionTheory.SW.ArtinElem.factor_of_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:01:54.006134+00:00
 -- url     : https://prove2.me/theorems/38a49176-93a3-4f78-a9e6-03ff15f21014

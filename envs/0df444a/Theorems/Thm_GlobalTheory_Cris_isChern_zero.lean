@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cris_isChern_zero
 -- name    : GlobalTheory.Cris.isChern_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:28:04.818707+00:00
 -- url     : https://prove2.me/theorems/1354353c-e6f4-4737-a18c-f41ee50a1a76

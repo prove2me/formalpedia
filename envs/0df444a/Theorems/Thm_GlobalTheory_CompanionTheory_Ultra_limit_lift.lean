@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ultra_limit_lift
 -- name    : GlobalTheory.CompanionTheory.Ultra.limit_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:19:43.114252+00:00
 -- url     : https://prove2.me/theorems/5b3da12c-14fd-4de9-bdfa-7e8ea2788f0b

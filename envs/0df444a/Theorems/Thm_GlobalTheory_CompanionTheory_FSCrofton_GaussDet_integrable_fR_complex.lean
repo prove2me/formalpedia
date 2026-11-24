@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_GaussDet_integrable_fR_complex
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.GaussDet.integrable_fR_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:38:42.405216+00:00
 -- url     : https://prove2.me/theorems/75b49ced-048b-4f58-bbac-ef8752b86fbb

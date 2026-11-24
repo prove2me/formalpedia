@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_omega_clauses
 -- name    : Formalism.MainNotions.PlaneGram.omega_clauses
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:07:49.455873+00:00
 -- url     : https://prove2.me/theorems/7bdc0924-b1b9-4283-a1b6-b977b2269d8a

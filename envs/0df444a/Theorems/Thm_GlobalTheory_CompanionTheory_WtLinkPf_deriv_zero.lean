@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WtLinkPf_deriv_zero
 -- name    : GlobalTheory.CompanionTheory.WtLinkPf.deriv_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:38:39.618699+00:00
 -- url     : https://prove2.me/theorems/7a0734f7-bc9c-47fe-92d1-d304e8b6e68b

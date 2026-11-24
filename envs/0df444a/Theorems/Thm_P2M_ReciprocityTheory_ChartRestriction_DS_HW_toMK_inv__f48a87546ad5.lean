@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_HW_toMK_inv__f48a87546ad5
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_HW_toMK_inv__f48a87546ad5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:56:27.095669+00:00
 -- url     : https://prove2.me/theorems/187adada-e0c5-45a9-b301-c08120e9f164

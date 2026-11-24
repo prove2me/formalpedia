@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hyperbolic_and_block_one_nondegenerate
 -- name    : GlobalTheory.T.hyperbolic_and_block_one_nondegenerate
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:57:41.086447+00:00
 -- url     : https://prove2.me/theorems/338e3feb-880d-42ef-add8-fe5c9733306a

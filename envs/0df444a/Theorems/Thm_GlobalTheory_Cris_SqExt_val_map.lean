@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cris_SqExt_val_map
 -- name    : GlobalTheory.Cris.SqExt.val_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:28:35.312532+00:00
 -- url     : https://prove2.me/theorems/8f8d8064-4dd2-4d4c-aff3-969108c5dc7b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Unitary_ExpUpper_blockTriangular_conj_exp
 -- name    : GlobalTheory.CompanionTheory.Unitary.ExpUpper.blockTriangular_conj_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:19:35.094627+00:00
 -- url     : https://prove2.me/theorems/1ceb54cf-b7ae-4287-95ee-c511afcc18ca

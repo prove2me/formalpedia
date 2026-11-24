@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_StabFirst_continuous_iotaHom
 -- name    : GlobalTheory.CompanionTheory.SW.StabFirst.continuous_iotaHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:09:13.055319+00:00
 -- url     : https://prove2.me/theorems/a8d15b2e-f5f7-42be-a9fa-92ce4b5723f4

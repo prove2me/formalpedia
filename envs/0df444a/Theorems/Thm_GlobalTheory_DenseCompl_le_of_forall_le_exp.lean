@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DenseCompl_le_of_forall_le_exp
 -- name    : GlobalTheory.DenseCompl.le_of_forall_le_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:16:05.986886+00:00
 -- url     : https://prove2.me/theorems/943d75f8-3b03-4811-becd-757ffcc6fd0c

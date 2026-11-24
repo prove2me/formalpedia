@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_finsum_rootsOfUnity_pow_mul_star
 -- name    : GlobalTheory.CuspGL.finsum_rootsOfUnity_pow_mul_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:33:28.602406+00:00
 -- url     : https://prove2.me/theorems/fc29fc3a-ac9e-4d2f-b805-882492ab53cc

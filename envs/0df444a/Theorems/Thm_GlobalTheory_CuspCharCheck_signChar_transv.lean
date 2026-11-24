@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspCharCheck_signChar_transv
 -- name    : GlobalTheory.CuspCharCheck.signChar_transv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:30:55.938795+00:00
 -- url     : https://prove2.me/theorems/e20f8ecc-bd46-4ccc-945b-fa5663b33d2b

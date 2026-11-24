@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_awayCoordGenEquivMvPolynomial_symm_comp_coordBlowupSubst
 -- name    : FunctorialResolution.EmbeddedResolution.awayCoordGenEquivMvPolynomial_symm_comp_coordBlowupSubst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:01:28.9648+00:00
 -- url     : https://prove2.me/theorems/a706c1f2-8503-48c6-b0df-dc26e1868db7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_single_mul_Jm
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.single_mul_Jm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:56:22.601248+00:00
 -- url     : https://prove2.me/theorems/8eafcfad-3618-43cf-9480-0a337cd81fd2

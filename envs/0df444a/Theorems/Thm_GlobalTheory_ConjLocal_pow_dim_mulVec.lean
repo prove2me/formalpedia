@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConjLocal_pow_dim_mulVec
 -- name    : GlobalTheory.ConjLocal.pow_dim_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:25:49.393857+00:00
 -- url     : https://prove2.me/theorems/4d01e469-834b-46d5-b61f-42dd41c76c93

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CyclotomicPrimes_summable_subset_union_finite
 -- name    : GlobalTheory.CyclotomicPrimes.summable_subset_union_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:34:51.901173+00:00
 -- url     : https://prove2.me/theorems/c9d88cd9-86ec-4c1b-b48e-c277b3b047cb

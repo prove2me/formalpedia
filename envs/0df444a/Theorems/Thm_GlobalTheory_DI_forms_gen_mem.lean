@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_forms_gen_mem
 -- name    : GlobalTheory.DI.forms_gen_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:35:41.822385+00:00
 -- url     : https://prove2.me/theorems/5e990191-55a0-4345-9733-b464eb7cbaa6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EliasGlobalClock_LowerBound_entropy_subadditivity
 -- name    : EliasGlobalClock.LowerBound.entropy_subadditivity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T07:03:59.978712+00:00
 -- url     : https://prove2.me/theorems/465e01d5-db01-438d-a035-41cd22960820

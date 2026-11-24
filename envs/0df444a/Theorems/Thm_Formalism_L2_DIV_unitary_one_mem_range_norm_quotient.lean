@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_unitary_one_mem_range_norm_quotient
 -- name    : Formalism.L2.DIV.unitary_one_mem_range_norm_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:25:35.724639+00:00
 -- url     : https://prove2.me/theorems/3a015d19-8262-44f6-bb81-72502fdfebf9

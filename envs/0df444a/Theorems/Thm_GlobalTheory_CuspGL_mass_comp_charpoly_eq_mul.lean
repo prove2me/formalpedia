@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_mass_comp_charpoly_eq_mul
 -- name    : GlobalTheory.CuspGL.mass_comp_charpoly_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:34:09.596878+00:00
 -- url     : https://prove2.me/theorems/174b0bfc-84f7-4e60-bbbf-0c2c9d18e547

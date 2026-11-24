@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CyclotomicNorms_irreducibility_of_good_tuple
 -- name    : Formalism.CyclotomicNorms.irreducibility_of_good_tuple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:37:07.441912+00:00
 -- url     : https://prove2.me/theorems/806a73fb-8c95-4ee5-b77b-bab7f69318bf

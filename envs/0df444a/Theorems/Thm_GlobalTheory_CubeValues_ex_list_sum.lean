@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeValues_ex_list_sum
 -- name    : GlobalTheory.CubeValues.ex_list_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:29:40.324936+00:00
 -- url     : https://prove2.me/theorems/75d6286a-4de4-4932-9619-1e890eebe526

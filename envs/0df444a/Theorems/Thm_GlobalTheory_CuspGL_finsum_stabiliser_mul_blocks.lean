@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_finsum_stabiliser_mul_blocks
 -- name    : GlobalTheory.CuspGL.finsum_stabiliser_mul_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:32:43.596902+00:00
 -- url     : https://prove2.me/theorems/e0844993-7c7b-4665-a75a-ad0407c9df1a

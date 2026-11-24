@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFinJacquet_hasFixed_exists
 -- name    : GlobalTheory.CompanionTheory.TyFinJacquet.hasFixed_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:18:16.622523+00:00
 -- url     : https://prove2.me/theorems/163d0ba9-4399-447e-a569-9cf85fc79129

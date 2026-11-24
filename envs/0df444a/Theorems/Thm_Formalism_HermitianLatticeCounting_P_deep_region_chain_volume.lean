@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_deep_region_chain_volume
 -- name    : Formalism.HermitianLatticeCounting.P.deep_region_chain_volume
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:51:55.988696+00:00
 -- url     : https://prove2.me/theorems/9d5fb3f3-53e0-437b-81ae-16b30b5a2ff5

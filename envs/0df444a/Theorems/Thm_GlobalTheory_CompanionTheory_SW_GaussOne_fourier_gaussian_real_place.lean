@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GaussOne_fourier_gaussian_real_place
 -- name    : GlobalTheory.CompanionTheory.SW.GaussOne.fourier_gaussian_real_place
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:05:40.624372+00:00
 -- url     : https://prove2.me/theorems/be3ba297-4b42-4fd2-bea7-5ddfbfcdc512

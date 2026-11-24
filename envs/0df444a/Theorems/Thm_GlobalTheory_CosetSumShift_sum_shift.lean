@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CosetSumShift_sum_shift
 -- name    : GlobalTheory.CosetSumShift.sum_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:27:06.886929+00:00
 -- url     : https://prove2.me/theorems/620df94f-1b0b-431f-9fbf-951a65e1e4d7

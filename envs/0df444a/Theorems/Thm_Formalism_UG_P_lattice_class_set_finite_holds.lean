@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_lattice_class_set_finite_holds
 -- name    : Formalism.UG.P.lattice_class_set_finite_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:27:03.154314+00:00
 -- url     : https://prove2.me/theorems/32bfb105-4a1f-4922-ad0c-746172103078

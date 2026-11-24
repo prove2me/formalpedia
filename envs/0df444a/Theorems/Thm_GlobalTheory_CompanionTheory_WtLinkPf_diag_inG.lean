@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WtLinkPf_diag_inG
 -- name    : GlobalTheory.CompanionTheory.WtLinkPf.diag_inG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:39:36.71187+00:00
 -- url     : https://prove2.me/theorems/7e22dcfa-6837-49d0-8084-ff5fe79e3498

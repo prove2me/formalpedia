@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_ipGL_charpoly_eq_finsum_mass
 -- name    : GlobalTheory.CuspGL.ipGL_charpoly_eq_finsum_mass
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:33:30.388793+00:00
 -- url     : https://prove2.me/theorems/bfb06f5f-a5dd-4946-80a9-750247fb1b73

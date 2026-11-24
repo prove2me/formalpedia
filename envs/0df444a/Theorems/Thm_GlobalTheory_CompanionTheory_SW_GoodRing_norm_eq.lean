@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GoodRing_norm_eq
 -- name    : GlobalTheory.CompanionTheory.SW.GoodRing.norm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:01:53.810798+00:00
 -- url     : https://prove2.me/theorems/50c7f71d-4a94-4c6a-bbee-fb410207e87d

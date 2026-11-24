@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_right_derivative_conj
 -- name    : Formalism.REAL.right_derivative_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:15:57.930751+00:00
 -- url     : https://prove2.me/theorems/a08910c7-9d04-44cc-b70b-8ef3d67f7cdc

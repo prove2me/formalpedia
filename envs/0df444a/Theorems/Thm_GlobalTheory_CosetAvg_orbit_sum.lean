@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CosetAvg_orbit_sum
 -- name    : GlobalTheory.CosetAvg.orbit_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:26:47.758075+00:00
 -- url     : https://prove2.me/theorems/70464e64-0ff0-4a89-af42-9b9ebf81370a

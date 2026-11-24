@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegreeBound_good_algebraMap
 -- name    : GlobalTheory.DegreeBound.good_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:43:47.7185+00:00
 -- url     : https://prove2.me/theorems/9ec8eb67-5a85-4082-9f32-b4416ef0cb03

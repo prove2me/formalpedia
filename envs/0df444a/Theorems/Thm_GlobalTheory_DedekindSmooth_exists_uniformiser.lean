@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DedekindSmooth_exists_uniformiser
 -- name    : GlobalTheory.DedekindSmooth.exists_uniformiser
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:35:29.281825+00:00
 -- url     : https://prove2.me/theorems/ac7c1978-4d80-4c71-89de-814a3ec2a589

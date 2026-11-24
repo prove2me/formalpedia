@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_HwMat_isHermitian
 -- name    : GlobalTheory.AnArc.HwMat_isHermitian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:40:09.098011+00:00
 -- url     : https://prove2.me/theorems/9bee1fd4-129e-4dfb-9eaf-2fe99a2110d1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_kaehlerZ_span_induction
 -- name    : GlobalTheory.DI.kaehlerZ_span_induction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:35:53.016991+00:00
 -- url     : https://prove2.me/theorems/e42cc00c-3c7d-4114-942e-e85c76fce372

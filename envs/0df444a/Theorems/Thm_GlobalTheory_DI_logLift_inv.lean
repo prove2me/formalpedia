@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_logLift_inv
 -- name    : GlobalTheory.DI.logLift_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:35:34.704523+00:00
 -- url     : https://prove2.me/theorems/8897552c-ec89-4a2d-b7ad-a2a2f35afb62

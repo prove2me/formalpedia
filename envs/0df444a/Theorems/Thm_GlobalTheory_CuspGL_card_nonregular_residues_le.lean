@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_card_nonregular_residues_le
 -- name    : GlobalTheory.CuspGL.card_nonregular_residues_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:30:46.717123+00:00
 -- url     : https://prove2.me/theorems/ec4b2453-6c32-40bd-8a1d-148c6f2a56d8

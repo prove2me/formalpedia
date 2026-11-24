@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_delta_topPart_eq_zero
 -- name    : GlobalTheory.DI.delta_topPart_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:35:59.305827+00:00
 -- url     : https://prove2.me/theorems/3300600a-85aa-4bf9-97fc-85a293f04ef7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramOrder_exists_norm
 -- name    : GlobalTheory.UnramOrder.exists_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:00:44.749726+00:00
 -- url     : https://prove2.me/theorems/eb5dcd9d-3d15-402b-8d7e-7814999a3e20

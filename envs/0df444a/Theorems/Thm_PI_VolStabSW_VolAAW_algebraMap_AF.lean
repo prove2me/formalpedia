@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_VolAAW_algebraMap_AF
 -- name    : PI.VolStabSW.VolAAW.algebraMap_AF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:07:31.461053+00:00
 -- url     : https://prove2.me/theorems/ad08f206-9bc4-4190-b2e7-0eee3e2db4b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoordinateBasisBounds_basis_bound
 -- name    : GlobalTheory.CoordinateBasisBounds.basis_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:26:21.878848+00:00
 -- url     : https://prove2.me/theorems/62824f1f-33e8-4a00-a50e-ff2242680f1c

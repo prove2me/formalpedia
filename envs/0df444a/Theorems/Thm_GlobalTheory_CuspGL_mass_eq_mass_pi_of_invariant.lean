@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_mass_eq_mass_pi_of_invariant
 -- name    : GlobalTheory.CuspGL.mass_eq_mass_pi_of_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:32:49.31282+00:00
 -- url     : https://prove2.me/theorems/cdf00055-ce92-47e2-ad75-94f73c236d64

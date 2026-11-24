@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompletionFactor_exists_ringEquiv_prod_of_isIdempotentElem
 -- name    : GlobalTheory.CompletionFactor.exists_ringEquiv_prod_of_isIdempotentElem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:26:10.399521+00:00
 -- url     : https://prove2.me/theorems/28adaefa-aadc-4ab9-b045-f9313ba3866b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_natCast_mul_le_mul_iff
 -- name    : FunctorialResolution.EmbeddedResolution.natCast_mul_le_mul_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:33:19.226592+00:00
 -- url     : https://prove2.me/theorems/e0ab8800-8675-46a7-aa16-60b200292e73

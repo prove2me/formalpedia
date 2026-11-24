@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_lintegral_gW_norm_det_sq
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.lintegral_gW_norm_det_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:39:44.812447+00:00
 -- url     : https://prove2.me/theorems/256e297c-1c50-41dd-9a7c-ad704769eddd

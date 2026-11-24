@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CotangentSquare_pderiv_comb
 -- name    : GlobalTheory.CotangentSquare.pderiv_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:26:48.483059+00:00
 -- url     : https://prove2.me/theorems/057f9077-0c53-437a-84e1-57068ba178e7

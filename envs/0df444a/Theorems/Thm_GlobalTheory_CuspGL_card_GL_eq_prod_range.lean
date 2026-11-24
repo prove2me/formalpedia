@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_card_GL_eq_prod_range
 -- name    : GlobalTheory.CuspGL.card_GL_eq_prod_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:31:16.654799+00:00
 -- url     : https://prove2.me/theorems/f20b4797-6b6c-4e22-ae11-e20513335d18

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeValues_val_unit_prod_zpow
 -- name    : GlobalTheory.CubeValues.val_unit_prod_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:29:42.477095+00:00
 -- url     : https://prove2.me/theorems/396101c5-c9f4-4812-a940-934610f7d509

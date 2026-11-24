@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GoodRing_coord_two
 -- name    : GlobalTheory.CompanionTheory.SW.GoodRing.coord_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:02:34.287832+00:00
 -- url     : https://prove2.me/theorems/cbbe1816-edb5-4e0d-8515-2756c30e1ff7

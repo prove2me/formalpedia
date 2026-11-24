@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegLoc_trace_nondeg
 -- name    : GlobalTheory.CompanionTheory.SiegLoc.trace_nondeg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:33:37.501656+00:00
 -- url     : https://prove2.me/theorems/19f9ab4a-4d90-4f00-b06e-dd134e745c63

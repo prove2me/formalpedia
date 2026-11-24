@@ -1,0 +1,36 @@
+-- Prove2me | solution 1 for Formalism.IrreducibleCountingLemmas.TW.low_power_series_LOW
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-24T14:01:31.663808+00:00
+-- url     : https://prove2.me/submissions/3650b8d1-1bca-435c-b65a-abfab8b6a093
+
+import Definitions.Def_Formalism_PadicSubsetSums_CentralIdempotents_CentralIdempotentIntegral
+import Mathlib
+import Definitions.Def_Formalism_ResultantValuation_ResultantAdjugateProofs_Adjugate
+import Definitions.Def_Formalism_ResultantValuation_ResultantAdjugateProofs_Mobius
+import Definitions.Def_Formalism_ResultantValuation_ResultantAdjugateProofs_Window
+import Definitions.Def_Formalism_ResultantValuation_ResultantAdjugateProofs_Koszul
+import Definitions.Def_Formalism_ResultantValuation_ResultantAdjugateProofs_Parabolic
+import Definitions.Def_Formalism_ResultantValuation_ResultantAdjugateProofs_Laplace
+import Definitions.Def_Formalism_ResultantValuation_PrimePairDyadicDisjointAlt
+import Definitions.Def_Formalism_CyclotomicNorms_IrreducibilityOfGoodTuple
+import Definitions.Def_Formalism_CyclotomicNorms_SubstitutionAdaptive
+import Definitions.Def_Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_AuxiliaryNormPrimes
+import Definitions.Def_Formalism_CyclotomicNorms_NonsquarefreeBounds_ResModule
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_TWReuse
+import Theorems.Thm_Formalism_CyclotomicNorms_lowPowerSeries
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Finset Polynomial
+open Formalism Formalism.IrreducibleCountingLemmas Formalism.IrreducibleCountingLemmas.TW
+namespace Formalism.IrreducibleCountingLemmas.TW
+theorem _root_.solution : LemmaLOW := Formalism.CyclotomicNorms.lowPowerSeries
+end Formalism.IrreducibleCountingLemmas.TW

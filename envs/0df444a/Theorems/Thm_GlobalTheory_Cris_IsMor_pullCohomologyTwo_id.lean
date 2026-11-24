@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cris_IsMor_pullCohomologyTwo_id
 -- name    : GlobalTheory.Cris.IsMor.pullCohomologyTwo_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:29:47.105295+00:00
 -- url     : https://prove2.me/theorems/6be66d4e-59f1-4312-8046-9b87b54d973b

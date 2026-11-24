@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_hsG_exp_sub_one_le
 -- name    : Formalism.HermitianLatticeCounting.P.hsG_exp_sub_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:28:28.418622+00:00
 -- url     : https://prove2.me/theorems/8cececec-a9f9-4dd7-a1ca-8a23bb36dd36

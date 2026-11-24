@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_tensor_locally_compact_ring
 -- name    : GlobalTheory.T.tensor_locally_compact_ring
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:22:46.686093+00:00
 -- url     : https://prove2.me/theorems/db91383b-7a6f-456f-ba21-1fdc12194183

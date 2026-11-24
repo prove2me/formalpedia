@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_MassMult_indicator_split
 -- name    : GlobalTheory.CuspGL.MassMult.indicator_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:32:18.182624+00:00
 -- url     : https://prove2.me/theorems/5aaed876-fe60-485d-8b46-0c224ec25403

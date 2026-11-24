@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SegOrder_exists_sublists_interleave
 -- name    : GlobalTheory.CompanionTheory.SegOrder.exists_sublists_interleave
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:12:20.949132+00:00
 -- url     : https://prove2.me/theorems/37fb7178-d1ae-4aca-b9be-5cf96a05118c

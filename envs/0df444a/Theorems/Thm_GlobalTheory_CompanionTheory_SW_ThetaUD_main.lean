@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ThetaUD_main
 -- name    : GlobalTheory.CompanionTheory.SW.ThetaUD.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:11:33.559214+00:00
 -- url     : https://prove2.me/theorems/5680a272-2878-4787-9585-c5ef63e82c46

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetAdResultant_toMatrix_ad
 -- name    : GlobalTheory.DetAdResultant.toMatrix_ad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:43:57.138409+00:00
 -- url     : https://prove2.me/theorems/b93a9847-39c5-4213-9d0c-f185a98f4f1f

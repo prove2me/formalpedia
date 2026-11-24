@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SelfDualInf_hasCoord_ainf
 -- name    : GlobalTheory.CompanionTheory.SelfDualInf.hasCoord_ainf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:38:09.590797+00:00
 -- url     : https://prove2.me/theorems/da45a5bc-5a51-477c-a125-18065ff01d4c

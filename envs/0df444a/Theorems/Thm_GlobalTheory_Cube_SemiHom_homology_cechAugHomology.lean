@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_SemiHom_homology_cechAugHomology
 -- name    : GlobalTheory.Cube.SemiHom.homology_cechAugHomology
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:28:30.277026+00:00
 -- url     : https://prove2.me/theorems/e216a5fa-66a2-4f7e-9b64-d2028c3695c6

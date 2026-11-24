@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_PrimOrth_sum_mul_eq_zero
 -- name    : GlobalTheory.CuspGL.PrimOrth.sum_mul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:31:13.73816+00:00
 -- url     : https://prove2.me/theorems/05450595-61e1-4d37-a516-5f623fdb2bb1

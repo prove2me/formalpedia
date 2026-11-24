@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_eq_zero_of_finsum_mul_star_pow_eq_zero
 -- name    : GlobalTheory.CuspGL.eq_zero_of_finsum_mul_star_pow_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:30:54.251812+00:00
 -- url     : https://prove2.me/theorems/53e12a99-9482-41bc-9d36-11c5bc6b1b74

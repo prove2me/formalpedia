@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DCIndex_card_inf_subgroupOf
 -- name    : GlobalTheory.DCIndex.card_inf_subgroupOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:34:27.525704+00:00
 -- url     : https://prove2.me/theorems/94116c72-d760-46c6-86c9-91bd2533a0d5

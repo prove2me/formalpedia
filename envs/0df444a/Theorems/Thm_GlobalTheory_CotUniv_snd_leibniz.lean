@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CotUniv_snd_leibniz
 -- name    : GlobalTheory.CotUniv.snd_leibniz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:27:28.750427+00:00
 -- url     : https://prove2.me/theorems/69dd08a8-6197-41cd-9a7e-bd3cbe5b6565

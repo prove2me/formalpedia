@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TubeFourier_shiftFst_integrable
 -- name    : GlobalTheory.CompanionTheory.TubeFourier.shiftFst_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:17:53.388474+00:00
 -- url     : https://prove2.me/theorems/ea85f11f-b2f5-402d-80b6-5230d77b006b

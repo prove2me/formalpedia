@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_invariant_functional_open_stabilizer
 -- name    : GlobalTheory.T.invariant_functional_open_stabilizer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:37:27.231142+00:00
 -- url     : https://prove2.me/theorems/3fd58fdb-339a-4890-997e-2b83b65446e8

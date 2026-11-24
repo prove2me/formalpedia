@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConormalDer_formallySmooth_of_charZero
 -- name    : GlobalTheory.ConormalDer.formallySmooth_of_charZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:25:35.924677+00:00
 -- url     : https://prove2.me/theorems/e1bc4e45-68db-4209-9c58-8fe6c65a10b1

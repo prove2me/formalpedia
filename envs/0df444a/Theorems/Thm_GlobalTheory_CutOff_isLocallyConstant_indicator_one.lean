@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CutOff_isLocallyConstant_indicator_one
 -- name    : GlobalTheory.CutOff.isLocallyConstant_indicator_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:32:23.967846+00:00
 -- url     : https://prove2.me/theorems/2f97206e-0c64-4c8a-b792-5f4b3dd97f67

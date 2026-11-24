@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_exp_mem_of_stable
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.exp_mem_of_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:54:38.313178+00:00
 -- url     : https://prove2.me/theorems/a667b126-51da-4ff5-bf6b-55efd78ea2d3

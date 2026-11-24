@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConeImage_exists_continuous_slope
 -- name    : GlobalTheory.ConeImage.exists_continuous_slope
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:25:38.466959+00:00
 -- url     : https://prove2.me/theorems/268905d0-fed2-4f46-95be-d2495c5e53cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_kExp
 -- name    : Formalism.REAL.kExp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:14:27.233907+00:00
 -- url     : https://prove2.me/theorems/415c99b1-bfd0-4070-8795-4d9fdac8cb31

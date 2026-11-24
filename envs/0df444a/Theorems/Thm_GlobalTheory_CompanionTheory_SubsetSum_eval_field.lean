@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SubsetSum_eval_field
 -- name    : GlobalTheory.CompanionTheory.SubsetSum.eval_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:14:31.122607+00:00
 -- url     : https://prove2.me/theorems/ace74bdd-a669-4fc2-b13a-1bb52cd236e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_RowTrans_gl_transitive_rows
 -- name    : GlobalTheory.CompanionTheory.TyFin.RowTrans.gl_transitive_rows
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:18:53.531798+00:00
 -- url     : https://prove2.me/theorems/07c7bda6-6f22-4465-b8a8-1667833505e4

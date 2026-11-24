@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_glCard_ne_zero_of_finite
 -- name    : GlobalTheory.CuspGL.glCard_ne_zero_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:33:34.253258+00:00
 -- url     : https://prove2.me/theorems/d141474a-ed00-482b-a0a4-f8108e2c6f1c

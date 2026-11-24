@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_casimir_scalar_on_filtration
 -- name    : Formalism.REAL.casimir_scalar_on_filtration
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:16:26.203796+00:00
 -- url     : https://prove2.me/theorems/4e4d6837-af4e-4b24-bc09-0df0537fec45

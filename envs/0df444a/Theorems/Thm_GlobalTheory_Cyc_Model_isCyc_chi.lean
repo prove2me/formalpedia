@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_Model_isCyc_chi
 -- name    : GlobalTheory.Cyc.Model.isCyc_chi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:34:24.841816+00:00
 -- url     : https://prove2.me/theorems/c79913d0-e789-4b86-9a40-6a8ece203e30

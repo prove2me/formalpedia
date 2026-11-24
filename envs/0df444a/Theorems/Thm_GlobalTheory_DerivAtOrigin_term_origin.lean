@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DerivAtOrigin_term_origin
 -- name    : GlobalTheory.DerivAtOrigin.term_origin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:43:52.822081+00:00
 -- url     : https://prove2.me/theorems/98c4158e-aa35-4e72-be64-ca8e3c2d68a0

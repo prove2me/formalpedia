@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_exists_inv_signFactorial
 -- name    : GlobalTheory.DI.exists_inv_signFactorial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:35:27.870855+00:00
 -- url     : https://prove2.me/theorems/c668f1a0-33a7-41a0-80e7-8be62725a622

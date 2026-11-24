@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_finrank_ker_lsmul_pow_quotient
 -- name    : GlobalTheory.CuspGL.finrank_ker_lsmul_pow_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:32:43.031953+00:00
 -- url     : https://prove2.me/theorems/e04d7138-a11f-4180-9d51-be70c51b230b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConvexCutOff_exists_support
 -- name    : GlobalTheory.ConvexCutOff.exists_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:26:32.838799+00:00
 -- url     : https://prove2.me/theorems/f4a1e243-3067-43c7-a0d7-aefae5c89d72

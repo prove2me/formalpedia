@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_StageValue_corner_half_trace_block_one
 -- name    : GlobalTheory.CompanionTheory.SW.StageValue.corner_half_trace_block_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:09:17.129125+00:00
 -- url     : https://prove2.me/theorems/326ac89e-8185-4aba-be23-789a7030821e

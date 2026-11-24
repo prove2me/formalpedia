@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_dual_hat_integral
 -- name    : PIW.AdelClassFin.dual_hat_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:29:45.669946+00:00
 -- url     : https://prove2.me/theorems/767dab9f-75c7-4f04-8f23-5370ee745df0

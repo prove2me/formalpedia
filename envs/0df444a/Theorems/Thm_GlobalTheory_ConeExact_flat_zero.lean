@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConeExact_flat_zero
 -- name    : GlobalTheory.ConeExact.flat_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:25:53.011945+00:00
 -- url     : https://prove2.me/theorems/9387855b-fa8a-4983-b97b-17e579d7313e

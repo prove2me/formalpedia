@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DSICFRel_car_imp_frel
 -- name    : GlobalTheory.CompanionTheory.DSICFRel.car_imp_frel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:34:34.575628+00:00
 -- url     : https://prove2.me/theorems/66050325-9370-40f8-a2b7-cd0a63468e7e

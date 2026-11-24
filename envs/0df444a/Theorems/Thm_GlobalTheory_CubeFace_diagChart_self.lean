@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeFace_diagChart_self
 -- name    : GlobalTheory.CubeFace.diagChart_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:28:20.972274+00:00
 -- url     : https://prove2.me/theorems/9fc70809-ccfa-4f03-8b56-937df49d720a

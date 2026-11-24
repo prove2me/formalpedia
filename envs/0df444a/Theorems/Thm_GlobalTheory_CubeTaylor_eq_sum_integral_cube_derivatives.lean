@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeTaylor_eq_sum_integral_cube_derivatives
 -- name    : GlobalTheory.CubeTaylor.eq_sum_integral_cube_derivatives
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:29:52.588192+00:00
 -- url     : https://prove2.me/theorems/f567c48f-505b-4294-98fc-06bacbfddb60

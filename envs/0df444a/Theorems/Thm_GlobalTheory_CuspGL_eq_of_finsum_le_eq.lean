@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_eq_of_finsum_le_eq
 -- name    : GlobalTheory.CuspGL.eq_of_finsum_le_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:31:57.706629+00:00
 -- url     : https://prove2.me/theorems/099f61fe-2364-4334-9e47-f4a52db8877b

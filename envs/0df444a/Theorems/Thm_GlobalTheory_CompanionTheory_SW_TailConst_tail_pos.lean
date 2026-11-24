@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_TailConst_tail_pos
 -- name    : GlobalTheory.CompanionTheory.SW.TailConst.tail_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:11:59.199355+00:00
 -- url     : https://prove2.me/theorems/108a30b5-fded-4b24-9a01-cfd2dca35d25

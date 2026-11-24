@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HermDiag_diagble_fin
 -- name    : GlobalTheory.CompanionTheory.HermDiag.diagble_fin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:46:49.077804+00:00
 -- url     : https://prove2.me/theorems/c5f6fc7e-e608-41cc-85ff-71eca7dacbbc

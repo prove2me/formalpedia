@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GramLocal_gram_local
 -- name    : GlobalTheory.CompanionTheory.SW.GramLocal.gram_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:05:29.1428+00:00
 -- url     : https://prove2.me/theorems/cd74f439-6e9d-4229-96c4-846fe95477f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_kaehlerZ_D_pow_char
 -- name    : GlobalTheory.DI.kaehlerZ_D_pow_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:35:34.530245+00:00
 -- url     : https://prove2.me/theorems/0d6da348-4cd0-49c5-8ff1-c42f00b6c00d

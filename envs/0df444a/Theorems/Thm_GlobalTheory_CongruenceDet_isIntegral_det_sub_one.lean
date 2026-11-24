@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CongruenceDet_isIntegral_det_sub_one
 -- name    : GlobalTheory.CongruenceDet.isIntegral_det_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:25:53.785809+00:00
 -- url     : https://prove2.me/theorems/3a0e7fa7-8fea-48d7-b08c-d5b0a109e499

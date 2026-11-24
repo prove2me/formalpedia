@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConjBound_re_lt_of_comm
 -- name    : GlobalTheory.ConjBound.re_lt_of_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:25:52.429368+00:00
 -- url     : https://prove2.me/theorems/6dba4743-10d6-456d-b246-98ecd9025812

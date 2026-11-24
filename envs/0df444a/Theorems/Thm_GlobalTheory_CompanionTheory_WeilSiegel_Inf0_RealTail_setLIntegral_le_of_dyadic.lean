@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WeilSiegel_Inf0_RealTail_setLIntegral_le_of_dyadic
 -- name    : GlobalTheory.CompanionTheory.WeilSiegel.Inf0.RealTail.setLIntegral_le_of_dyadic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:23:10.293248+00:00
 -- url     : https://prove2.me/theorems/5cc103ed-8256-4a3e-b333-2b12cf817173

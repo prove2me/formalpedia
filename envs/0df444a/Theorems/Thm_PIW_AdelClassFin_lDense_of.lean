@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_lDense_of
 -- name    : PIW.AdelClassFin.lDense_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:30:09.724681+00:00
 -- url     : https://prove2.me/theorems/d31bffc2-b8b5-4228-bc07-05d6a7fe0ba9

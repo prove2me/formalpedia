@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetBound_exists_wedge_eq_smul_dvd
 -- name    : GlobalTheory.DetBound.exists_wedge_eq_smul_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:59:36.819815+00:00
 -- url     : https://prove2.me/theorems/78823e81-f436-4232-b4d7-8dbd89b769fd

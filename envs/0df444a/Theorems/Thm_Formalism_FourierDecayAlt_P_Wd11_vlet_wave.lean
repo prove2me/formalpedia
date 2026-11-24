@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd11_vlet_wave
 -- name    : Formalism.FourierDecayAlt.P.Wd11.vlet_wave
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:48:12.684661+00:00
 -- url     : https://prove2.me/theorems/f3e3dd39-1813-468c-84cb-d59ff3f7e9cc

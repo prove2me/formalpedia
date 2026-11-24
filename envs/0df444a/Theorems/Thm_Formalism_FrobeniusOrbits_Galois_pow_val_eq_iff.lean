@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Galois_pow_val_eq_iff
 -- name    : Formalism.FrobeniusOrbits.Galois.pow_val_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:53:34.089917+00:00
 -- url     : https://prove2.me/theorems/b79f3a1f-3439-42c1-ae18-6fa0508d9f09

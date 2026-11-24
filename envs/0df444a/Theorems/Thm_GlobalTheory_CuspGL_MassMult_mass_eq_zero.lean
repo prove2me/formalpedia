@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_MassMult_mass_eq_zero
 -- name    : GlobalTheory.CuspGL.MassMult.mass_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:32:43.863376+00:00
 -- url     : https://prove2.me/theorems/547a7600-1173-42e7-b995-7e5236925f07

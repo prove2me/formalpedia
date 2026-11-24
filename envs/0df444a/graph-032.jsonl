@@ -55133,7 +55133,7 @@
 {"parent": "QuantumLTF_Sections45_Model", "child": "QuantumLTF_Majority_oracle", "via": ["statement"]}
 {"parent": "InfoLossLAR.WorstCase.RegevSketch.finite_exact_sivp_classical", "child": "InfoLossLAR_RegevSketch_DGS", "via": ["solution", "statement"]}
 {"parent": "HamSimTradeoff.AncillaDepth.Supplement.lemma_5_6", "child": "HamSimTradeoff_AncillaDepth_Supplement_Histories", "via": ["statement"]}
-{"parent": "SampleCRS.AlmostGreedy.Supplement.lemma_3_1", "child": "SampleCRS_AlmostGreedy_Supplement_threshold", "via": ["statement"]}
+{"parent": "SampleCRS.AlmostGreedy.Supplement.lemma_3_1", "child": "SampleCRS_AlmostGreedy_Supplement_threshold", "via": ["solution", "statement"]}
 {"parent": "MinorityDynamics.Supplement.theorem_1_3_b", "child": "MinorityDynamics_Agents", "via": ["statement"]}
 {"parent": "MinorityDynamics.Supplement.theorem_1_3_b", "child": "MinorityDynamics_Kernel", "via": ["statement"]}
 {"parent": "MetricMinTest_Supplement_certCoverOpt", "child": "MetricMinTest_Supplement_certCoverCost", "via": ["statement"]}

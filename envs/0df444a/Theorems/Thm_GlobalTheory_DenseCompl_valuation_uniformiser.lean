@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DenseCompl_valuation_uniformiser
 -- name    : GlobalTheory.DenseCompl.valuation_uniformiser
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:15:55.216804+00:00
 -- url     : https://prove2.me/theorems/8ff91925-fb3c-4b13-98be-69f8dfca89e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DatumCoverAdjoint_span_image_sup_eq_top
 -- name    : GlobalTheory.DatumCoverAdjoint.span_image_sup_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:35:37.724799+00:00
 -- url     : https://prove2.me/theorems/ec8dd594-3aa6-45af-bb88-973f35d44e99

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_QuadricCount_norm_gauss
 -- name    : GlobalTheory.CompanionTheory.SW.QuadricCount.norm_gauss
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:33:43.519065+00:00
 -- url     : https://prove2.me/theorems/d2e4251d-9f9c-4c2c-a668-533fb663c07c

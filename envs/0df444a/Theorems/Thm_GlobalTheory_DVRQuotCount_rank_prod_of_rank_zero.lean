@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DVRQuotCount_rank_prod_of_rank_zero
 -- name    : GlobalTheory.DVRQuotCount.rank_prod_of_rank_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:35:21.667493+00:00
 -- url     : https://prove2.me/theorems/9d820100-9150-41b9-a279-de7cc381d024

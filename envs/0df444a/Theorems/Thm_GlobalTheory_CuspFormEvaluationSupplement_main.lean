@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspFormEvaluationSupplement_main
 -- name    : GlobalTheory.CuspFormEvaluationSupplement.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:29:28.062924+00:00
 -- url     : https://prove2.me/theorems/42062e96-58d7-4da4-afdf-fa0b9a2b275d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFinSamePart_ell_surjective
 -- name    : GlobalTheory.CompanionTheory.TyFinSamePart.ell_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:18:25.207811+00:00
 -- url     : https://prove2.me/theorems/c1c3aee0-e5e3-45d9-95b5-febcfb3546f8

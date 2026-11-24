@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LDL_gram_split
 -- name    : GlobalTheory.CompanionTheory.SW.LDL.gram_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:06:44.839973+00:00
 -- url     : https://prove2.me/theorems/93957ef1-7780-4c21-95b7-bf679c902117

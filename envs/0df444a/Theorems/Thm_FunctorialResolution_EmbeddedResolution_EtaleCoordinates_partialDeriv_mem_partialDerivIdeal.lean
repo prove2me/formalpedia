@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EtaleCoordinates_partialDeriv_mem_partialDerivIdeal
 -- name    : FunctorialResolution.EmbeddedResolution.EtaleCoordinates.partialDeriv_mem_partialDerivIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:58:15.695568+00:00
 -- url     : https://prove2.me/theorems/f9f6627c-d797-4342-8111-f897e6bbe537

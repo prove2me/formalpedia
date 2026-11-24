@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_smooth_weight
 -- name    : Formalism.REAL.smooth_weight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:12:24.620214+00:00
 -- url     : https://prove2.me/theorems/55af35ef-674b-4150-a40e-5ea0b359d593

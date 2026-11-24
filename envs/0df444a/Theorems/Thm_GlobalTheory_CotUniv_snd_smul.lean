@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CotUniv_snd_smul
 -- name    : GlobalTheory.CotUniv.snd_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:27:15.718016+00:00
 -- url     : https://prove2.me/theorems/7a2285c9-e5e6-4136-bcd7-b0ddca8c8226

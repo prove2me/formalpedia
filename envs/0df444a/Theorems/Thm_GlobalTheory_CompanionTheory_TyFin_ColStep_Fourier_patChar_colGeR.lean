@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_ColStep_Fourier_patChar_colGeR
 -- name    : GlobalTheory.CompanionTheory.TyFin.ColStep.Fourier.patChar_colGeR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:17:12.731657+00:00
 -- url     : https://prove2.me/theorems/bb437b20-e9be-45cb-83a2-852c4fff1f5e

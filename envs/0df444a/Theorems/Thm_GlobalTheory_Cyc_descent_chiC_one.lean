@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_descent_chiC_one
 -- name    : GlobalTheory.Cyc.descent_chiC_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:34:07.478725+00:00
 -- url     : https://prove2.me/theorems/dd2303fa-a75d-4241-90da-5569e5197b59

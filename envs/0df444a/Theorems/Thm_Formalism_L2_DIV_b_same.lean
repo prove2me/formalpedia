@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_b_same
 -- name    : Formalism.L2.DIV.b_same
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:22:04.370993+00:00
 -- url     : https://prove2.me/theorems/363bde7d-0751-42be-adac-71470004e84a

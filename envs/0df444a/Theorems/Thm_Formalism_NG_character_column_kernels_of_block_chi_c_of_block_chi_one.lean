@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_character_column_kernels_of_block_chi_c_of_block_chi_one
 -- name    : Formalism.NG.character_column_kernels_of_block_chi_c_of_block_chi_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:16:55.764993+00:00
 -- url     : https://prove2.me/theorems/6a673284-5c13-49d2-9376-095ed3ddf7f3

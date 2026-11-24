@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConjBound_entry_comm
 -- name    : GlobalTheory.ConjBound.entry_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:26:06.538584+00:00
 -- url     : https://prove2.me/theorems/40d3d1ae-3950-4a44-badb-2833f6c91f53

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_TopH_topH_props
 -- name    : GlobalTheory.CompanionTheory.SW.TopH.topH_props
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:13:56.765385+00:00
 -- url     : https://prove2.me/theorems/3ca051a2-f1ce-4e2d-b121-29f092c2d0f3

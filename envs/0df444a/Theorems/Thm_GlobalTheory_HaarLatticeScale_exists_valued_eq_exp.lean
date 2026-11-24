@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HaarLatticeScale_exists_valued_eq_exp
 -- name    : GlobalTheory.HaarLatticeScale.exists_valued_eq_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:52:53.953796+00:00
 -- url     : https://prove2.me/theorems/8c484407-026f-4f6f-a57a-ba2ebe69de5d

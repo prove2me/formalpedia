@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CotUniv_lie_nsmul
 -- name    : GlobalTheory.CotUniv.lie_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:27:13.188364+00:00
 -- url     : https://prove2.me/theorems/a6f732e0-54c5-49ce-b157-f82587e2ecbf

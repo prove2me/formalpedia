@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_eventually_apply_eq
 -- name    : GlobalTheory.Cyc.eventually_apply_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:34:24.694322+00:00
 -- url     : https://prove2.me/theorems/d5f280c0-db95-44fb-b037-2a9e979a404e

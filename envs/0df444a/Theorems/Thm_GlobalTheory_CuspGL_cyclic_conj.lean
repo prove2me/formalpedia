@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_cyclic_conj
 -- name    : GlobalTheory.CuspGL.cyclic_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:32:36.870908+00:00
 -- url     : https://prove2.me/theorems/4e7be961-9fb1-4900-8fb6-36439a115a7d

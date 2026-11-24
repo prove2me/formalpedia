@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_StabFirst_exists_blockGL
 -- name    : GlobalTheory.CompanionTheory.SW.StabFirst.exists_blockGL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:30:51.477198+00:00
 -- url     : https://prove2.me/theorems/e4a444cc-c1e4-4c5c-8f9e-d378fc6ded6f

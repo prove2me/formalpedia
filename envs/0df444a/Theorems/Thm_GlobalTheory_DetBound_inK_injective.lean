@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetBound_inK_injective
 -- name    : GlobalTheory.DetBound.inK_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:59:30.341388+00:00
 -- url     : https://prove2.me/theorems/c3628473-37d3-4ff4-a621-08fb52c4aa2c

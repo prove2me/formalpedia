@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_pIdx_of_ker_eq_range
 -- name    : GlobalTheory.CNorm.pIdx_of_ker_eq_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:28:18.213525+00:00
 -- url     : https://prove2.me/theorems/afd86153-a3bd-4051-8d47-5059fcb5ab97

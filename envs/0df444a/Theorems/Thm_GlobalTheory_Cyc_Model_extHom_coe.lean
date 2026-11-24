@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_Model_extHom_coe
 -- name    : GlobalTheory.Cyc.Model.extHom_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:34:22.10004+00:00
 -- url     : https://prove2.me/theorems/14f3eb7f-bc38-48cd-b88f-53bd7291d5b3

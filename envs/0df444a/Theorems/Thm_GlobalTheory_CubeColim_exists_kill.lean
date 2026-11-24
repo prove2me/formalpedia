@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeColim_exists_kill
 -- name    : GlobalTheory.CubeColim.exists_kill
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:28:35.818798+00:00
 -- url     : https://prove2.me/theorems/33e2d50f-f75e-4d7e-9dc1-e777f0d9b120

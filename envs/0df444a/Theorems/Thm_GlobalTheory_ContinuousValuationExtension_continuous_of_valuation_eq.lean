@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ContinuousValuationExtension_continuous_of_valuation_eq
 -- name    : GlobalTheory.ContinuousValuationExtension.continuous_of_valuation_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:25:21.995903+00:00
 -- url     : https://prove2.me/theorems/3d12faca-a3ce-46d8-928c-4cacdda218b1

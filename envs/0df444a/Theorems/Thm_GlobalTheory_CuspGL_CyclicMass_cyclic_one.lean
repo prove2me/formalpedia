@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_CyclicMass_cyclic_one
 -- name    : GlobalTheory.CuspGL.CyclicMass.cyclic_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:29:29.34556+00:00
 -- url     : https://prove2.me/theorems/73e456de-3612-42c7-ab28-ed58e739f321

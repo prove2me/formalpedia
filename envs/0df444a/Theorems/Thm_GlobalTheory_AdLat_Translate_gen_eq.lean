@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_Translate_gen_eq
 -- name    : GlobalTheory.AdLat.Translate.gen_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:02:50.288674+00:00
 -- url     : https://prove2.me/theorems/0d63d302-3b98-47e9-9543-d464a6aa147f

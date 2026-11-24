@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegreeGrowth_exists_aeval_mul_mem
 -- name    : GlobalTheory.DegreeGrowth.exists_aeval_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:43:55.327714+00:00
 -- url     : https://prove2.me/theorems/0382fa40-b325-4e4c-bc23-10dfff1175ae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConeImage_derivation_eq_zero
 -- name    : GlobalTheory.ConeImage.derivation_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:25:45.167707+00:00
 -- url     : https://prove2.me/theorems/8f2ce346-272c-4187-ac97-1e7a94fcbb92

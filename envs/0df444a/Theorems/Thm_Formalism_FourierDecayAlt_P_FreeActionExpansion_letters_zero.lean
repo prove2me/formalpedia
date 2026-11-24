@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FreeActionExpansion_letters_zero
 -- name    : Formalism.FourierDecayAlt.P.FreeActionExpansion.letters_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:58:39.711209+00:00
 -- url     : https://prove2.me/theorems/440b5a54-0017-48b0-bfaa-bdf5b7972849

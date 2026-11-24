@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeLift_eq_of_cocycle
 -- name    : GlobalTheory.CubeLift.eq_of_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:28:37.161959+00:00
 -- url     : https://prove2.me/theorems/29a939bf-ed80-416d-b4e5-5f04b5e3e97f

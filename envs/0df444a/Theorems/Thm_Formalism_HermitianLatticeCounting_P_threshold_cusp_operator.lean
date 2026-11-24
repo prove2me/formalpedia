@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_threshold_cusp_operator
 -- name    : Formalism.HermitianLatticeCounting.P.threshold_cusp_operator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:51:17.601824+00:00
 -- url     : https://prove2.me/theorems/69936068-e625-498c-a1c9-b230e9a3ea6b

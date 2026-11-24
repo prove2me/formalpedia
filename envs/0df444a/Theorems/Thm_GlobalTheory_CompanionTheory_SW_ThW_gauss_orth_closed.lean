@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ThW_gauss_orth_closed
 -- name    : GlobalTheory.CompanionTheory.SW.ThW.gauss_orth_closed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:11:09.532817+00:00
 -- url     : https://prove2.me/theorems/6b567f7b-cf30-4f7c-80a5-3f909df28e48

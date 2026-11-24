@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ThW_chiB_toA_eq_exp
 -- name    : GlobalTheory.CompanionTheory.SW.ThW.chiB_toA_eq_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:11:14.791826+00:00
 -- url     : https://prove2.me/theorems/118d7ec6-8ede-45cf-a3c0-9a1bb0b4a428

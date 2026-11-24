@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GoodRing_exists_good_nat
 -- name    : GlobalTheory.CompanionTheory.SW.GoodRing.exists_good_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:03:13.632835+00:00
 -- url     : https://prove2.me/theorems/9ee8ecd0-0f1e-4b8c-8759-730ebdf1fccb

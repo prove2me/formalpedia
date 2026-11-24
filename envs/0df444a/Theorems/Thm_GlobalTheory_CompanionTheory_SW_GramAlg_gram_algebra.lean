@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GramAlg_gram_algebra
 -- name    : GlobalTheory.CompanionTheory.SW.GramAlg.gram_algebra
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:28:06.46785+00:00
 -- url     : https://prove2.me/theorems/eb72d190-fc91-41df-ade7-a9196a4b64de

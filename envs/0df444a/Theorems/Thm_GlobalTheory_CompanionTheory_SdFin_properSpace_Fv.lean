@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SdFin_properSpace_Fv
 -- name    : GlobalTheory.CompanionTheory.SdFin.properSpace_Fv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:02:44.988911+00:00
 -- url     : https://prove2.me/theorems/00e9738e-35b2-48bd-bb16-5d3ed20cd846

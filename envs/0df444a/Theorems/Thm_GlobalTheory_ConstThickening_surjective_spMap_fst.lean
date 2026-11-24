@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConstThickening_surjective_spMap_fst
 -- name    : GlobalTheory.ConstThickening.surjective_spMap_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:25:58.981222+00:00
 -- url     : https://prove2.me/theorems/a5b69f83-0216-4e1d-9dfe-a58eb53d22b9

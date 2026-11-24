@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycSpanFin_commute_aeval_left
 -- name    : GlobalTheory.CycSpanFin.commute_aeval_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:34:20.674935+00:00
 -- url     : https://prove2.me/theorems/9fedae81-7a72-45a4-b29d-bfc13d75f5f1

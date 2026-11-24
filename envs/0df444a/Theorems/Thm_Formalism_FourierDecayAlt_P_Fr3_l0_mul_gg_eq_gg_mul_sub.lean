@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr3_l0_mul_gg_eq_gg_mul_sub
 -- name    : Formalism.FourierDecayAlt.P.Fr3.l0_mul_gg_eq_gg_mul_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:00:57.007952+00:00
 -- url     : https://prove2.me/theorems/a52c6db0-59e5-4c37-965c-942dccf8eb0f

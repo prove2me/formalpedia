@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_mem_DcrisL
 -- name    : GlobalTheory.DRFil.mem_DcrisL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:35:48.137031+00:00
 -- url     : https://prove2.me/theorems/0f482fca-d414-4aa7-b675-5a948b6d8b8b

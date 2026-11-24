@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FourierPi_box_formula
 -- name    : GlobalTheory.CompanionTheory.SW.FourierPi.box_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:03:32.003804+00:00
 -- url     : https://prove2.me/theorems/508912b3-15c7-497f-bcaf-999e37f2024e

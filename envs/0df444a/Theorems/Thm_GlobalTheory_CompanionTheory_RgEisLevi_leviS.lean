@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisLevi_leviS
 -- name    : GlobalTheory.CompanionTheory.RgEisLevi.leviS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:58:30.472149+00:00
 -- url     : https://prove2.me/theorems/343b79f7-e7a1-4cac-8974-872bc1ab60e6

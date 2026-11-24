@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnfoldAbs_unfold_abs
 -- name    : GlobalTheory.CompanionTheory.UnfoldAbs.unfold_abs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:19:37.962593+00:00
 -- url     : https://prove2.me/theorems/2d2299d5-321b-41aa-a5d0-6e7ca20a106a

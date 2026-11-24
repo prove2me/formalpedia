@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_IntBasis_norm_le_norm_sum
 -- name    : GlobalTheory.Cyc.IntBasis.norm_le_norm_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:35:02.004594+00:00
 -- url     : https://prove2.me/theorems/92fc1f19-c86a-46a0-b58e-aa98091fe54a

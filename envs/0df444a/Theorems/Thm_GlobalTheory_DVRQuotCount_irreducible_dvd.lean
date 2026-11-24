@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DVRQuotCount_irreducible_dvd
 -- name    : GlobalTheory.DVRQuotCount.irreducible_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:35:22.596559+00:00
 -- url     : https://prove2.me/theorems/b8c76b34-e846-4c95-9979-7966490c0d2a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_Primary_additive_pow
 -- name    : GlobalTheory.CuspGL.Primary.additive_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:31:29.312731+00:00
 -- url     : https://prove2.me/theorems/88e7db5d-3353-47ad-bff0-44b2ccdcc3ea

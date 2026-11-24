@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_Nakayama_valuation_natCast_lt_one
 -- name    : GlobalTheory.UnRep.Nakayama.valuation_natCast_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:03:27.033751+00:00
 -- url     : https://prove2.me/theorems/df7910c6-e973-468e-ac24-19c56cc78c1d

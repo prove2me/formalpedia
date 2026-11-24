@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_LK_acycAbs_of
 -- name    : CompanionTheory.D.LK.acycAbs_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:35:43.926212+00:00
 -- url     : https://prove2.me/theorems/a93effbf-c24f-46d2-a44b-f995de7d6d67

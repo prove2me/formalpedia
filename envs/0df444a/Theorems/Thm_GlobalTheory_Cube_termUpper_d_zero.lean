@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_termUpper_d_zero
 -- name    : GlobalTheory.Cube.termUpper_d_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:28:45.716345+00:00
 -- url     : https://prove2.me/theorems/a0338c3e-e53b-4950-bb3b-b7e17f62b8bb

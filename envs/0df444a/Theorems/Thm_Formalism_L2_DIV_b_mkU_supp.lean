@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_b_mkU_supp
 -- name    : Formalism.L2.DIV.b_mkU_supp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:22:39.459854+00:00
 -- url     : https://prove2.me/theorems/3200b42b-adef-44c3-928f-0c564d196dcb

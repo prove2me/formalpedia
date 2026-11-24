@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_Density_setIntegral_dens
 -- name    : GlobalTheory.CompanionTheory.SW.Core.Density.setIntegral_dens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:03:20.602826+00:00
 -- url     : https://prove2.me/theorems/ab4d974f-30bb-4803-9532-59a44cb26394

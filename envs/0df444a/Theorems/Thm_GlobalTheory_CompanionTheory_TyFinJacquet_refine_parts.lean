@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFinJacquet_refine_parts
 -- name    : GlobalTheory.CompanionTheory.TyFinJacquet.refine_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:18:21.431875+00:00
 -- url     : https://prove2.me/theorems/957cfe27-8388-4618-ab89-91623b77792e

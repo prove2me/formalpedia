@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_coe_aeval_restrict_apply
 -- name    : GlobalTheory.CuspGL.coe_aeval_restrict_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:31:06.3898+00:00
 -- url     : https://prove2.me/theorems/3cb8d352-41a1-4a79-9dec-7f27096dd57a

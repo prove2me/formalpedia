@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnramDict_continuous_linearMap
 -- name    : GlobalTheory.CompanionTheory.UnramDict.continuous_linearMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:20:13.309804+00:00
 -- url     : https://prove2.me/theorems/d0eaf65b-ac87-42df-9dfa-e4768ce4a337

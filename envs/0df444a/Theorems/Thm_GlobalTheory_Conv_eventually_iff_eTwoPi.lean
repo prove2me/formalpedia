@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Conv_eventually_iff_eTwoPi
 -- name    : GlobalTheory.Conv.eventually_iff_eTwoPi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:27:20.155186+00:00
 -- url     : https://prove2.me/theorems/1f4fed87-dea0-4747-a62a-b45f8afdcb23

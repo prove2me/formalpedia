@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_isAdditive_natDegree
 -- name    : GlobalTheory.CuspGL.isAdditive_natDegree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:33:10.422563+00:00
 -- url     : https://prove2.me/theorems/637a9c5c-ff0c-4927-aa3e-8f7a3fbdfbaf

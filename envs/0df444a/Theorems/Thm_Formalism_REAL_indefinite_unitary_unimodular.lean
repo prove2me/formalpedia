@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_indefinite_unitary_unimodular
 -- name    : Formalism.REAL.indefinite_unitary_unimodular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:24:12.705821+00:00
 -- url     : https://prove2.me/theorems/2662d349-50d9-4149-b786-f0d6b357e0ad

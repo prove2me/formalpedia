@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_exists_chart_affineOpen_mem_nonZeroDivisors
 -- name    : FunctorialResolution.Blowup.exists_chart_affineOpen_mem_nonZeroDivisors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:09:59.839973+00:00
 -- url     : https://prove2.me/theorems/ce763b4f-d3c8-4bbe-8b45-02f24e10d2b5

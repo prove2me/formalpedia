@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TwContraction_val_det_sub_prod_lt
 -- name    : GlobalTheory.CompanionTheory.TwContraction.val_det_sub_prod_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:36:32.493557+00:00
 -- url     : https://prove2.me/theorems/4d011bf5-2252-4525-961a-6e86d5647360

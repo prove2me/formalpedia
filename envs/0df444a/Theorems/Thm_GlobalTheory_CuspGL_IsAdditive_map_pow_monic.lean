@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_IsAdditive_map_pow_monic
 -- name    : GlobalTheory.CuspGL.IsAdditive.map_pow_monic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:32:13.247336+00:00
 -- url     : https://prove2.me/theorems/9c4986cb-ce06-4dd1-b576-81539573a0c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegLoc_LevelId_red_gram
 -- name    : GlobalTheory.CompanionTheory.SiegLoc.LevelId.red_gram
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:33:44.449806+00:00
 -- url     : https://prove2.me/theorems/1906d906-a216-43b4-8d95-60809bf259ae

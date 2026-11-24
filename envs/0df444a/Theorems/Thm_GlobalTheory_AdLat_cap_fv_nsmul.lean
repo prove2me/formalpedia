@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_cap_fv_nsmul
 -- name    : GlobalTheory.AdLat.cap_fv_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:43:41.421022+00:00
 -- url     : https://prove2.me/theorems/4c43c929-a461-43ec-8c8b-689e4fd2b75e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_cube_multiplication
 -- name    : Formalism.HermitianLatticeCounting.P.cube_multiplication
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:55:32.966822+00:00
 -- url     : https://prove2.me/theorems/4e0d4fa0-7a9d-44bb-a165-ab9ec7c8f185

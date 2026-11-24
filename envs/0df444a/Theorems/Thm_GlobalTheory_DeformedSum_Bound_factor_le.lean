@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DeformedSum_Bound_factor_le
 -- name    : GlobalTheory.DeformedSum.Bound.factor_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:36:09.553787+00:00
 -- url     : https://prove2.me/theorems/7d5ff9fd-111f-4787-9b2b-46fad0d08025

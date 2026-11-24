@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_conv_sub_left
 -- name    : GlobalTheory.CuspGL.conv_sub_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:32:07.636903+00:00
 -- url     : https://prove2.me/theorems/d357c720-77c8-4527-927f-296fcd6565e1

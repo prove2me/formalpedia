@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DeformedSum_dTerm_zero
 -- name    : GlobalTheory.DeformedSum.dTerm_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:36:06.991108+00:00
 -- url     : https://prove2.me/theorems/19fb12c3-0835-4440-9d59-44e3d97bdd16

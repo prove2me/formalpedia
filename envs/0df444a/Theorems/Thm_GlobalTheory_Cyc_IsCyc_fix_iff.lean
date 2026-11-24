@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_IsCyc_fix_iff
 -- name    : GlobalTheory.Cyc.IsCyc.fix_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:34:04.439932+00:00
 -- url     : https://prove2.me/theorems/4078033e-9484-4d6a-9508-8896d7d1b7bc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoordsAlg_coords_of_derivation_basis
 -- name    : GlobalTheory.CoordsAlg.coords_of_derivation_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:26:49.917349+00:00
 -- url     : https://prove2.me/theorems/bc238761-92de-407f-90a8-7f9c3f1997b3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_CoordMat_coord_orthogonal
 -- name    : GlobalTheory.CompanionTheory.SW.CoordMat.coord_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:02:44.48597+00:00
 -- url     : https://prove2.me/theorems/56752215-f4e0-4a21-8d47-defbe028b3c6

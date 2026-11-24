@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FreeActionExpansion_J_lift
 -- name    : Formalism.FourierDecayAlt.P.FreeActionExpansion.J_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:58:37.739822+00:00
 -- url     : https://prove2.me/theorems/ffea3b71-7da4-4897-b5be-d80dce8fe0a1

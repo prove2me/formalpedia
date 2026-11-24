@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_torus_minpoly
 -- name    : GlobalTheory.CuspGL.torus_minpoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:33:05.497796+00:00
 -- url     : https://prove2.me/theorems/8dc6859c-db45-4332-8d60-f28d09d9a4bc

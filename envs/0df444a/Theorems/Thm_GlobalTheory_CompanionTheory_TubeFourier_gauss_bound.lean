@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TubeFourier_gauss_bound
 -- name    : GlobalTheory.CompanionTheory.TubeFourier.gauss_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:33:50.987934+00:00
 -- url     : https://prove2.me/theorems/27102d64-76e1-4972-9415-feea45c53383

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WittMajorant_exists_abs_sign
 -- name    : GlobalTheory.CompanionTheory.WittMajorant.exists_abs_sign
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:24:56.881991+00:00
 -- url     : https://prove2.me/theorems/9626f6a5-3fd0-4a1d-88ed-b4ef4409f6b3

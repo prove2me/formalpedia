@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycSpanFin_coeff_mem_span_fin
 -- name    : GlobalTheory.CycSpanFin.coeff_mem_span_fin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:34:15.472932+00:00
 -- url     : https://prove2.me/theorems/10adaeb5-496e-4ecd-95ff-7a080df6aa5c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_ConjReal_aE_sq
 -- name    : Formalism.FrobeniusOrbits.ConjReal.aE_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:53:16.802875+00:00
 -- url     : https://prove2.me/theorems/afa23b9d-7f2d-419a-99b6-1a24aa79cea7

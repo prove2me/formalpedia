@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Wedge_eq_mul_of_det_ne_zero
 -- name    : GlobalTheory.CompanionTheory.Wedge.eq_mul_of_det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:21:14.209397+00:00
 -- url     : https://prove2.me/theorems/9cb50d89-1110-411f-b41d-54ecda886bbe

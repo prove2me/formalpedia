@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_b_loc_inv
 -- name    : Formalism.L2.DIV.b_loc_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:22:09.478662+00:00
 -- url     : https://prove2.me/theorems/ba5bb239-b8f3-4963-ae3b-52795beb555a

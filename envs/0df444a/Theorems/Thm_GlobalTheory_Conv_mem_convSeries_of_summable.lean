@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Conv_mem_convSeries_of_summable
 -- name    : GlobalTheory.Conv.mem_convSeries_of_summable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:26:30.456075+00:00
 -- url     : https://prove2.me/theorems/fb0a4621-c7c2-46a8-a4a6-9e103e2f3ee6

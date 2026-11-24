@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CotPoints_points_eq_tangent
 -- name    : GlobalTheory.CotPoints.points_eq_tangent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:27:22.151522+00:00
 -- url     : https://prove2.me/theorems/5ee3bc7b-2a68-44af-8b0b-ed2257eec04b

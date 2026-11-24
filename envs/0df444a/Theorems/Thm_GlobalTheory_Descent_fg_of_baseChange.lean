@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Descent_fg_of_baseChange
 -- name    : GlobalTheory.Descent.fg_of_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:43:40.935998+00:00
 -- url     : https://prove2.me/theorems/620630f7-7e75-4c50-8e48-ce41f3cfe456

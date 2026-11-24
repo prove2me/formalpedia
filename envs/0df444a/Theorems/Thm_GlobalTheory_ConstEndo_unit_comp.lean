@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConstEndo_unit_comp
 -- name    : GlobalTheory.ConstEndo.unit_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:26:15.777827+00:00
 -- url     : https://prove2.me/theorems/d533e5b1-3d15-405f-a19b-275587a5ce69

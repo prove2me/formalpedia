@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_HenselStep_lift_iff
 -- name    : GlobalTheory.CompanionTheory.UnrDens.HenselStep.lift_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:20:33.375037+00:00
 -- url     : https://prove2.me/theorems/69a29679-528a-4bfb-a24c-bd9f268cb5fe

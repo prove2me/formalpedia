@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeCut_exactMod_of_exact
 -- name    : GlobalTheory.CubeCut.exactMod_of_exact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:28:07.515248+00:00
 -- url     : https://prove2.me/theorems/245a00c2-d019-4540-8267-91d07746abd6

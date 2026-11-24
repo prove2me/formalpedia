@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_SizeInt_norm_tupEquiv_le
 -- name    : GlobalTheory.CompanionTheory.SW.SizeInt.norm_tupEquiv_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:09:27.219798+00:00
 -- url     : https://prove2.me/theorems/ffc20093-d534-4884-bea3-c2d8dbd0b81b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_ChainLattice_exists_smul_mem
 -- name    : GlobalTheory.RootEx.ChainLattice.exists_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:31:31.139524+00:00
 -- url     : https://prove2.me/theorems/f0ade6c5-49d9-43ec-b8cf-5d059ddd0568

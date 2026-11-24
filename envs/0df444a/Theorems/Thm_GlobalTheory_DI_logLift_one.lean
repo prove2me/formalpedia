@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_logLift_one
 -- name    : GlobalTheory.DI.logLift_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:35:47.552383+00:00
 -- url     : https://prove2.me/theorems/c10b1313-4799-4467-98e8-9efff52c1296

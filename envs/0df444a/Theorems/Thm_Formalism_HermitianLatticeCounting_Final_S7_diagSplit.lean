@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S7_diagSplit
 -- name    : Formalism.HermitianLatticeCounting.Final.S7.diagSplit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:05:47.134812+00:00
 -- url     : https://prove2.me/theorems/eff9b28e-6793-442d-8c6a-051f059fefca

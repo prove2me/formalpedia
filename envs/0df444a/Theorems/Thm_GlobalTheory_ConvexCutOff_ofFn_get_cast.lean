@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConvexCutOff_ofFn_get_cast
 -- name    : GlobalTheory.ConvexCutOff.ofFn_get_cast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:26:20.1728+00:00
 -- url     : https://prove2.me/theorems/4ad280ba-47e4-4544-83da-923627b04f7b

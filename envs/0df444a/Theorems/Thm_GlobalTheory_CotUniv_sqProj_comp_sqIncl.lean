@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CotUniv_sqProj_comp_sqIncl
 -- name    : GlobalTheory.CotUniv.sqProj_comp_sqIncl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:27:11.579806+00:00
 -- url     : https://prove2.me/theorems/3d6d9a10-ed8a-45fa-8842-99fcb3b44b65

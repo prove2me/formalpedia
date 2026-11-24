@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_MultFromLatWork_kset_conjTranspose
 -- name    : PI.MultFromLatWork.kset_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:12:58.445807+00:00
 -- url     : https://prove2.me/theorems/c65c3e74-8342-4d24-902e-710e093e5126

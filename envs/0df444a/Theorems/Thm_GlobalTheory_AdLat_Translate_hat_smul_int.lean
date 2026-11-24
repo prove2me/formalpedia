@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_Translate_hat_smul_int
 -- name    : GlobalTheory.AdLat.Translate.hat_smul_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:03:12.112523+00:00
 -- url     : https://prove2.me/theorems/0c203f32-6582-4e60-8895-c5c31307b18e

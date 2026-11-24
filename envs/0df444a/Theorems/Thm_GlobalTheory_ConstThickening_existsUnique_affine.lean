@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConstThickening_existsUnique_affine
 -- name    : GlobalTheory.ConstThickening.existsUnique_affine
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:46:14.536827+00:00
 -- url     : https://prove2.me/theorems/1b3339fe-0bfa-4b0f-ade9-05aec7da5907

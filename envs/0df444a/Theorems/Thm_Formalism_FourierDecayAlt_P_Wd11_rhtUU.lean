@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd11_rhtUU
 -- name    : Formalism.FourierDecayAlt.P.Wd11.rhtUU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:48:06.035821+00:00
 -- url     : https://prove2.me/theorems/aa6a1c88-da52-42dc-8d74-3faf638ee1cc

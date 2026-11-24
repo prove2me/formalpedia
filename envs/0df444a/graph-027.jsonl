@@ -50007,7 +50007,7 @@
 {"parent": "OAI.CubicEisenstein.cuspWhittakerHeightFactor_ne_zero_near_five", "child": "OAI_NumberTheory_DirichletL_Eisenstein_WhittakerContinuation", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RXFiniteBlockTransport.neighbors_card_le", "child": "QEC_Coding_FiniteAlternatingConstruction_RXFiniteBlockTransport", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RXFiniteBlockTransport.neighbors_card_le", "child": "QEC_Coding_FiniteAlternatingConstruction_RXXStarTransport", "via": ["solution", "statement"]}
-{"parent": "EliasGlobalClock.LowerBound.entropy_subadditivity", "child": "EliasGlobalClock_LowerBound_finiteEntropy", "via": ["statement"]}
+{"parent": "EliasGlobalClock.LowerBound.entropy_subadditivity", "child": "EliasGlobalClock_LowerBound_finiteEntropy", "via": ["solution", "statement"]}
 {"parent": "CorrKClust_BalancedPivot_Analysis", "child": "CorrKClust_BalancedPivot_Algorithm", "via": ["statement"]}
 {"parent": "CorrKClust_BalancedPivot_Analysis", "child": "CorrKClust_BalancedPivot_CliqueParameters", "via": ["statement"]}
 {"parent": "QEC.Distillation.OneQubitMagic.tFidelity_mem_Icc", "child": "QEC_Distillation_Universality_OneQubitClifford", "via": ["solution", "statement"]}
@@ -81101,8 +81101,8 @@
 {"parent": "DataDepProb_Discrete_ScalarReduction", "child": "DataDepProb_Discrete_MW", "via": ["statement"]}
 {"parent": "DataDepProb_Discrete_ScalarReduction", "child": "DataDepProb_Discrete_Simplex", "via": ["statement"]}
 {"parent": "DataDepProb_Discrete_ScalarReduction", "child": "DataDepProb_Discrete_Divergence", "via": ["statement"]}
-{"parent": "QuadExt.Main.lemma_4_19", "child": "QuadExt_Main_Sources", "via": ["statement"]}
-{"parent": "QuadExt.Main.lemma_4_19", "child": "QuadExt_Main_Pure", "via": ["statement"]}
+{"parent": "QuadExt.Main.lemma_4_19", "child": "QuadExt_Main_Sources", "via": ["solution", "statement"]}
+{"parent": "QuadExt.Main.lemma_4_19", "child": "QuadExt_Main_Pure", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26FiniteEmbeddingExperiment.stagePhysicalOutput_rx", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_FiniteExperiment", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26FiniteEmbeddingExperiment.stagePhysicalOutput_rx", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_FiniteExperiment_Laws", "via": ["solution", "statement"]}
 {"parent": "TDHamSim_QueryOptimal_Resources", "child": "TDHamSim_QueryOptimal_Dyadic", "via": ["statement"]}
@@ -84304,7 +84304,7 @@
 {"parent": "OAI.CubicEisenstein.schlafliIntegral_cubic_real", "child": "OAI_NumberTheory_DirichletL_Reciprocity_KubotaCharacter", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_2_0_e", "child": "OAIQ106E147", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramData.Block3.entry_2_0_e", "child": "OAIQ106E002", "via": ["solution", "statement"]}
-{"parent": "MTWalkSAT3CNF.TwoOcc.display_3", "child": "MTWalkSAT3CNF_TwoOcc_Potential", "via": ["statement"]}
+{"parent": "MTWalkSAT3CNF.TwoOcc.display_3", "child": "MTWalkSAT3CNF_TwoOcc_Potential", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramRows.rowEval8469_e", "child": "OAIQ106E032", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramRows.rowEval8469_e", "child": "OAIQ106E018", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.GramRows.rowEval8469_e", "child": "OAIQ106E044", "via": ["solution", "statement"]}

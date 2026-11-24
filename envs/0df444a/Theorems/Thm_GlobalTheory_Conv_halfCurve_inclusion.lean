@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Conv_halfCurve_inclusion
 -- name    : GlobalTheory.Conv.halfCurve_inclusion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:28:33.849538+00:00
 -- url     : https://prove2.me/theorems/30c661d0-857b-4569-9f2a-6da0dd71bf05

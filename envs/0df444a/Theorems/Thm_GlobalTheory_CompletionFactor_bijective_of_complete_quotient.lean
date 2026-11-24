@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompletionFactor_bijective_of_complete_quotient
 -- name    : GlobalTheory.CompletionFactor.bijective_of_complete_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:26:35.835137+00:00
 -- url     : https://prove2.me/theorems/6113101f-3a76-47b4-a76d-07d4a6cd99b0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_specGraphAwayIsoBasicOpen_inv_comp
 -- name    : FunctorialResolution.EmbeddedResolution.specGraphAwayIsoBasicOpen_inv_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:55:00.068225+00:00
 -- url     : https://prove2.me/theorems/d9d27ef8-2e38-41ec-b215-801b4d50ae0c

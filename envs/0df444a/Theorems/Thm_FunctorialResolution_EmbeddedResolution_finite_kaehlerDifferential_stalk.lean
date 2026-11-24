@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_finite_kaehlerDifferential_stalk
 -- name    : FunctorialResolution.EmbeddedResolution.finite_kaehlerDifferential_stalk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:17:11.496806+00:00
 -- url     : https://prove2.me/theorems/46a27a96-f6be-44ec-9f1e-0b29772e047e

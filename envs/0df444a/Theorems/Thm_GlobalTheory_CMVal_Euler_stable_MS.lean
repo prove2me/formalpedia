@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_stable_MS
 -- name    : GlobalTheory.CMVal.Euler.stable_MS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:19:26.738706+00:00
 -- url     : https://prove2.me/theorems/617afcad-085f-44ae-8c70-2e81085ab517

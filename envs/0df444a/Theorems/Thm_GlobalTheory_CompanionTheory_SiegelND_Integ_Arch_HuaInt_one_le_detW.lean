@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegelND_Integ_Arch_HuaInt_one_le_detW
 -- name    : GlobalTheory.CompanionTheory.SiegelND.Integ.Arch.HuaInt.one_le_detW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:13:23.604871+00:00
 -- url     : https://prove2.me/theorems/9ec73868-0e69-4b55-84d1-b1b746fbf39f

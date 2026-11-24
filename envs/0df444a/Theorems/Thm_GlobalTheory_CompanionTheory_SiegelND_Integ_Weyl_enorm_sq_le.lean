@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegelND_Integ_Weyl_enorm_sq_le
 -- name    : GlobalTheory.CompanionTheory.SiegelND.Integ.Weyl.enorm_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:15:00.029917+00:00
 -- url     : https://prove2.me/theorems/2c4ccbe5-0f06-45a4-888b-208a8b8a57cd

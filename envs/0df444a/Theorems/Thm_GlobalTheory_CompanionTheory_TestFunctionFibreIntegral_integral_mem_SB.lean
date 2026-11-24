@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TestFunctionFibreIntegral_integral_mem_SB
 -- name    : GlobalTheory.CompanionTheory.TestFunctionFibreIntegral.integral_mem_SB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:16:34.924826+00:00
 -- url     : https://prove2.me/theorems/69c9f806-5a8a-4a40-90f1-a10314a1d13f

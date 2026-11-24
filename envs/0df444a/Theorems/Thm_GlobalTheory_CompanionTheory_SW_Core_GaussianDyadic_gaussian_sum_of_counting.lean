@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_GaussianDyadic_gaussian_sum_of_counting
 -- name    : GlobalTheory.CompanionTheory.SW.Core.GaussianDyadic.gaussian_sum_of_counting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:02:52.420885+00:00
 -- url     : https://prove2.me/theorems/d1cdbeca-a98f-49b4-b4ac-cbdbe019e78f

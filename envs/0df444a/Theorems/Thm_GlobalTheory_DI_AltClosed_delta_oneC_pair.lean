@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_AltClosed_delta_oneC_pair
 -- name    : GlobalTheory.DI.AltClosed.delta_oneC_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:34:46.205798+00:00
 -- url     : https://prove2.me/theorems/1da3daa9-f75b-4339-9768-9a808d736119

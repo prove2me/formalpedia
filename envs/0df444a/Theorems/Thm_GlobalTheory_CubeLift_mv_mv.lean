@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeLift_mv_mv
 -- name    : GlobalTheory.CubeLift.mv_mv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:29:29.031805+00:00
 -- url     : https://prove2.me/theorems/bbea23f4-f2b6-48c7-97aa-f4f90e4e5a03

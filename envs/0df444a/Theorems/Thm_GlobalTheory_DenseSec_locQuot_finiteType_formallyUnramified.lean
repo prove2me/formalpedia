@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DenseSec_locQuot_finiteType_formallyUnramified
 -- name    : GlobalTheory.DenseSec.locQuot_finiteType_formallyUnramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:43:31.854815+00:00
 -- url     : https://prove2.me/theorems/0bfc4cde-7c11-486b-92ff-5d91c0e1d32e

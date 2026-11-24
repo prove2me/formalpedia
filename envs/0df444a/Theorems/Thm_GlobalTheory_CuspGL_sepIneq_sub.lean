@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_sepIneq_sub
 -- name    : GlobalTheory.CuspGL.sepIneq_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:32:36.45095+00:00
 -- url     : https://prove2.me/theorems/8f536d6d-ed11-492d-b138-cc0ff5062e13

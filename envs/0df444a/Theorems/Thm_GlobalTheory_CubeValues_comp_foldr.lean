@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeValues_comp_foldr
 -- name    : GlobalTheory.CubeValues.comp_foldr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:29:11.807089+00:00
 -- url     : https://prove2.me/theorems/0bfe9bd9-98e9-4d92-9238-70ebed97eebf

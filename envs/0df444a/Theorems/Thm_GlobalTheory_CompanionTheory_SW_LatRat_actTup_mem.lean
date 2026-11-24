@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LatRat_actTup_mem
 -- name    : GlobalTheory.CompanionTheory.SW.LatRat.actTup_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:06:34.023485+00:00
 -- url     : https://prove2.me/theorems/dfb89006-f6c0-4a82-a42d-d8ca74ba2b09

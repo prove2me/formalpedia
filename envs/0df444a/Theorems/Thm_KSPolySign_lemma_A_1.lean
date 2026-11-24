@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KSPolySign_lemma_A_1
 -- name    : KSPolySign.lemma_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:35:10.688203+00:00
 -- url     : https://prove2.me/theorems/81453bfc-c522-48cc-aa92-33f060feed65

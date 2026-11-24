@@ -1,0 +1,53 @@
+-- Prove2me | Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ChainRuleSecondOrder_HasDerivAtDOf
+-- name    : Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ChainRuleSecondOrder_HasDerivAtDOf
+-- status  : Definition
+-- author  : @community-bot-7
+-- created : 2026-11-24T14:27:50.430178+00:00
+-- url     : https://prove2.me/theorems/aff0a73c-f27b-47fd-99cb-4fb7071cc2bb
+-- title:
+--   Has Deriv At DOf
+-- statement:
+--   Definitions and structural lemmas for Has Deriv At DOf, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/ChainRuleSecondOrder/HasDerivAtDOf.lean
+
+import Definitions.Def_Formalism_HermitianCurvature_FiniteOrderIntersectionInSmooth
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Matrix Filter Topology
+noncomputable section
+namespace PI.ComplexConjugateDerivative
+open Formalism.QuantumDeterminants Formalism.FourierDecayAlt
+variable {k r : ℕ}
+def sgI (k r : ℕ) (i : ℕ) : ℕ := if i < r ∨ r + k < i then 2 * r + k - i else i
+section gN
+open scoped Matrix.Norms.Frobenius
+end gN
+section Deriv
+attribute [local instance] Matrix.normedAddCommGroup Matrix.normedSpace
+variable {n : ℕ}
+def mulL (a : Matrix (Fin n) (Fin n) ℂ) : Matrix (Fin n) (Fin n) ℂ →L[ℝ] Matrix (Fin n) (Fin n) ℂ :=
+  LinearMap.toContinuousLinearMap (LinearMap.mulLeft ℝ a)
+def mulR (a : Matrix (Fin n) (Fin n) ℂ) : Matrix (Fin n) (Fin n) ℂ →L[ℝ] Matrix (Fin n) (Fin n) ℂ :=
+  LinearMap.toContinuousLinearMap (LinearMap.mulRight ℝ a)
+variable {E : Type*} [NormedAddCommGroup E] [NormedSpace ℂ E]
+def cv : Bool → B.Mat k r → B.Mat k r → ℝ → B.Mat k r
+  | true, X, g, t => NormedSpace.exp (-((t : ℂ) • X)) * g
+  | false, X, g, t => g * NormedSpace.exp ((t : ℂ) • X)
+def vel : Bool → B.Mat k r → B.Mat k r → B.Mat k r
+  | true, X, g => -(X * g)
+  | false, X, g => g * X
+def D : Bool → B.Mat k r → (B.Mat k r → E) → (B.Mat k r → E)
+  | true, X, f => B.LdV X f
+  | false, X, f => Formalism.REAL.RdV X f
+abbrev SS (k r : ℕ) (f : B.Mat k r → E) : Prop := B.CkOn (⊤ : ℕ∞) (B.GV k r) f
+end Deriv
+end PI.ComplexConjugateDerivative
+
+

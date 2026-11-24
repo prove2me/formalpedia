@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_relLength_eq_length_quotient_comap
 -- name    : GlobalTheory.relLength_eq_length_quotient_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:59:13.399158+00:00
 -- url     : https://prove2.me/theorems/279d5889-f457-4a00-bc54-27be3a775bf9

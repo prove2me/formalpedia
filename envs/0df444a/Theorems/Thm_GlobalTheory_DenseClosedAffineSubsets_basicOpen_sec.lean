@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DenseClosedAffineSubsets_basicOpen_sec
 -- name    : GlobalTheory.DenseClosedAffineSubsets.basicOpen_sec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:43:47.567389+00:00
 -- url     : https://prove2.me/theorems/4834bf61-87af-4591-9194-b3ed9b78834a

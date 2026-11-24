@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DPEval2_ex_add
 -- name    : GlobalTheory.DPEval2.ex_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:35:27.603743+00:00
 -- url     : https://prove2.me/theorems/a528d298-8986-428c-a519-03a94807dac5

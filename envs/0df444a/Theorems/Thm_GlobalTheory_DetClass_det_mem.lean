@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetClass_det_mem
 -- name    : GlobalTheory.DetClass.det_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:43:08.393505+00:00
 -- url     : https://prove2.me/theorems/9d51d2a2-80dc-49d1-b44f-ab4b6415951d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DerivAtOrigin_risingFactor_ne_zero
 -- name    : GlobalTheory.DerivAtOrigin.risingFactor_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:43:41.850931+00:00
 -- url     : https://prove2.me/theorems/4ceee2ff-13e6-47de-9703-6955e1984b20

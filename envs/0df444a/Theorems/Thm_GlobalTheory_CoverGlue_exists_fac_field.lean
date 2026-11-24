@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoverGlue_exists_fac_field
 -- name    : GlobalTheory.CoverGlue.exists_fac_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:27:35.728803+00:00
 -- url     : https://prove2.me/theorems/2aa9f3aa-1452-472a-b2f1-b48f90562fb9

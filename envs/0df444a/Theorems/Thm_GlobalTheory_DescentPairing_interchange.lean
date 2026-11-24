@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DescentPairing_interchange
 -- name    : GlobalTheory.DescentPairing.interchange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:43:42.817796+00:00
 -- url     : https://prove2.me/theorems/d3683647-9538-4c1f-b8a8-9b0b31ae818e

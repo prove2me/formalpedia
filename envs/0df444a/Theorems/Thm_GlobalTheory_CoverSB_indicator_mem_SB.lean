@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoverSB_indicator_mem_SB
 -- name    : GlobalTheory.CoverSB.indicator_mem_SB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:28:37.007685+00:00
 -- url     : https://prove2.me/theorems/0aa27078-85ca-45af-bf53-4122b79e1257

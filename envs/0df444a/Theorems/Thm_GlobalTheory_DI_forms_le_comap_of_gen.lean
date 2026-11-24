@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_forms_le_comap_of_gen
 -- name    : GlobalTheory.DI.forms_le_comap_of_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:35:54.384803+00:00
 -- url     : https://prove2.me/theorems/bad2b1bf-2d59-41bb-a162-aba18b1c0300

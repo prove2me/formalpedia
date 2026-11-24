@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S7_tauIntegral
 -- name    : Formalism.HermitianLatticeCounting.Final.S7.tauIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:05:34.187332+00:00
 -- url     : https://prove2.me/theorems/b5842ef1-50ae-438f-a329-bf300f64e2a3

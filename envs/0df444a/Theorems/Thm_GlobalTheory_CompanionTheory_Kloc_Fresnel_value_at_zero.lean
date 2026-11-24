@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Kloc_Fresnel_value_at_zero
 -- name    : GlobalTheory.CompanionTheory.Kloc.Fresnel.value_at_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:51:03.993086+00:00
 -- url     : https://prove2.me/theorems/a0457cf1-3a4d-4be6-9e0c-607cd241cea1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_finsum_mem_mul_sub_sum
 -- name    : GlobalTheory.CuspGL.finsum_mem_mul_sub_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:35:49.690934+00:00
 -- url     : https://prove2.me/theorems/fbd361fe-0d1f-40e0-91f6-9f5fcbf11b74

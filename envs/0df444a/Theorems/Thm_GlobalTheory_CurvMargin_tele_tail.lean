@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CurvMargin_tele_tail
 -- name    : GlobalTheory.CurvMargin.tele_tail
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:29:54.769711+00:00
 -- url     : https://prove2.me/theorems/c0840169-82fb-466e-a51d-3fe7c948d1ad

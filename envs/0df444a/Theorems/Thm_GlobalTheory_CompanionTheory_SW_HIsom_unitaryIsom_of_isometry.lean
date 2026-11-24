@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HIsom_unitaryIsom_of_isometry
 -- name    : GlobalTheory.CompanionTheory.SW.HIsom.unitaryIsom_of_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:05:32.587564+00:00
 -- url     : https://prove2.me/theorems/bb768bc1-2a61-4ab9-8eea-7aeba543e7b5

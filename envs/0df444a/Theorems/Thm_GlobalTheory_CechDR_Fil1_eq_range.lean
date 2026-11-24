@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_Fil1_eq_range
 -- name    : GlobalTheory.CechDR.Fil1_eq_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:34:56.237015+00:00
 -- url     : https://prove2.me/theorems/75b47243-d54b-4e17-9ea4-b8f92253ecf0

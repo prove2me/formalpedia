@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cris_SqExt_val_pull
 -- name    : GlobalTheory.Cris.SqExt.val_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:28:46.458896+00:00
 -- url     : https://prove2.me/theorems/8ee5eb9a-5770-4fa4-a950-f263ee23b338

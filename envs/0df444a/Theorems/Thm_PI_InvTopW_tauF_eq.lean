@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_InvTopW_tauF_eq
 -- name    : PI.InvTopW.tauF_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:33:24.140614+00:00
 -- url     : https://prove2.me/theorems/9b8e3191-5440-4a1d-a93f-2fb1e2ddd240

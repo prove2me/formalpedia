@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DefectSumCompare_lrd_eq_lrdOf
 -- name    : GlobalTheory.DefectSumCompare.lrd_eq_lrdOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:35:21.138667+00:00
 -- url     : https://prove2.me/theorems/38dccf12-84b1-4466-a82c-2045f01a8942

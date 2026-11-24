@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegelND_Integ_Arch_HuaInt_det_one_add_I_blkM
 -- name    : GlobalTheory.CompanionTheory.SiegelND.Integ.Arch.HuaInt.det_one_add_I_blkM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:13:36.100819+00:00
 -- url     : https://prove2.me/theorems/ba8e2295-28d6-4a1b-9f56-f54fab4d8aaa

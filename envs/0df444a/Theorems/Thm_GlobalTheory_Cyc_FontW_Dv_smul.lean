@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_FontW_Dv_smul
 -- name    : GlobalTheory.Cyc.FontW.Dv_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:34:50.169803+00:00
 -- url     : https://prove2.me/theorems/3dc4c9d3-af3c-497b-9683-8ff3ef464912

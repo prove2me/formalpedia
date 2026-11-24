@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GoodRing_fixed_unit
 -- name    : GlobalTheory.CompanionTheory.SW.GoodRing.fixed_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:03:56.655987+00:00
 -- url     : https://prove2.me/theorems/a7d8f378-1a4f-4c4c-84dd-e713515fcc14

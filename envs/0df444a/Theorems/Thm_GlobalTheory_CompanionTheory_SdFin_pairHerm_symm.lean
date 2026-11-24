@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SdFin_pairHerm_symm
 -- name    : GlobalTheory.CompanionTheory.SdFin.pairHerm_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:59:50.17262+00:00
 -- url     : https://prove2.me/theorems/560f0d94-e81f-4c45-9149-9e215467342b

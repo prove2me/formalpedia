@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoprimeBasis_isTorsionFree_of_addTorsionFree
 -- name    : GlobalTheory.CoprimeBasis.isTorsionFree_of_addTorsionFree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:27:01.118277+00:00
 -- url     : https://prove2.me/theorems/f39a6e70-8492-4af7-9ab5-171f97fd1176

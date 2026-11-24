@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_StabFirst_mem_range_iff
 -- name    : GlobalTheory.CompanionTheory.SW.StabFirst.mem_range_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:30:35.761088+00:00
 -- url     : https://prove2.me/theorems/50e045ca-0686-4dc9-9acc-79e2d67faa6a

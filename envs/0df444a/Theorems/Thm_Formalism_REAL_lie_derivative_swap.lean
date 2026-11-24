@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_lie_derivative_swap
 -- name    : Formalism.REAL.lie_derivative_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:14:30.852091+00:00
 -- url     : https://prove2.me/theorems/22fca650-8a78-4ec9-9c8c-66a0b8667273

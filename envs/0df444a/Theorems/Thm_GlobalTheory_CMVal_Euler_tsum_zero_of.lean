@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_tsum_zero_of
 -- name    : GlobalTheory.CMVal.Euler.tsum_zero_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:22:00.537797+00:00
 -- url     : https://prove2.me/theorems/66329767-acd2-4622-bcb6-f9f56b7e43bc

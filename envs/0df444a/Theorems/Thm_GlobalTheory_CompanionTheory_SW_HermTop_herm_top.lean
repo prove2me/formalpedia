@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HermTop_herm_top
 -- name    : GlobalTheory.CompanionTheory.SW.HermTop.herm_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:20:17.572805+00:00
 -- url     : https://prove2.me/theorems/cac1bbe5-86da-4227-a64c-b3572451c5f9

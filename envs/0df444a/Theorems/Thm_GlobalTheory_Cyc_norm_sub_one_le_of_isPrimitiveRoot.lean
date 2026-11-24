@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_norm_sub_one_le_of_isPrimitiveRoot
 -- name    : GlobalTheory.Cyc.norm_sub_one_le_of_isPrimitiveRoot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:33:58.347711+00:00
 -- url     : https://prove2.me/theorems/668f837c-eb5c-4934-adb7-bd33f74415f5

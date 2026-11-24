@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CxPointsSep_eq_zero_of_forall_algHom
 -- name    : GlobalTheory.CxPointsSep.eq_zero_of_forall_algHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:32:29.820814+00:00
 -- url     : https://prove2.me/theorems/d4e26953-68e4-4d9f-b9f7-45c22d48d836

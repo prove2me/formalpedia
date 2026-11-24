@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_exists_int_eq_of_isIntegral_of_mul_eq_int
 -- name    : GlobalTheory.CuspGL.exists_int_eq_of_isIntegral_of_mul_eq_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:31:22.897434+00:00
 -- url     : https://prove2.me/theorems/3829c017-1b4b-4456-9287-32337194a882

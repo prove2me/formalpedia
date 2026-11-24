@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeLift_rd_avg
 -- name    : GlobalTheory.CubeLift.rd_avg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:29:26.962798+00:00
 -- url     : https://prove2.me/theorems/a8bd55f1-af29-4478-afee-aa5ef68b23b6

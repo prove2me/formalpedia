@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GramLocal_bcE_gramR
 -- name    : GlobalTheory.CompanionTheory.SW.GramLocal.bcE_gramR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:05:32.52673+00:00
 -- url     : https://prove2.me/theorems/4675072a-0768-47b7-b1e9-cdd2b2decbf4

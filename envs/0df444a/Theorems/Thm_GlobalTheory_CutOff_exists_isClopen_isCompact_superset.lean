@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CutOff_exists_isClopen_isCompact_superset
 -- name    : GlobalTheory.CutOff.exists_isClopen_isCompact_superset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:33:08.624485+00:00
 -- url     : https://prove2.me/theorems/d980c282-ce6d-4c43-9202-5b15f2f82f37

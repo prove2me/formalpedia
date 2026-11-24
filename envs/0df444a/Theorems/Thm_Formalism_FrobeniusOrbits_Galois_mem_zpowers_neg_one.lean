@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Galois_mem_zpowers_neg_one
 -- name    : Formalism.FrobeniusOrbits.Galois.mem_zpowers_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:53:49.068621+00:00
 -- url     : https://prove2.me/theorems/ba7ccffb-3603-455b-af5b-ad321cdccf47

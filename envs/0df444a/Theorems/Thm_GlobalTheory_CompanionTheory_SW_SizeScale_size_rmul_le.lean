@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_SizeScale_size_rmul_le
 -- name    : GlobalTheory.CompanionTheory.SW.SizeScale.size_rmul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:10:31.390944+00:00
 -- url     : https://prove2.me/theorems/3422c7a5-ec09-4bac-9c3f-8360c6b3041c

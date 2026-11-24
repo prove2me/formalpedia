@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Conv_halfCurve_comp
 -- name    : GlobalTheory.Conv.halfCurve_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:27:04.351869+00:00
 -- url     : https://prove2.me/theorems/3bfd70f6-78e3-45b0-ba75-8430f4b67a68

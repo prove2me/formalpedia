@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZModDual_equiv_dual_of_injective_pair
 -- name    : GlobalTheory.CompanionTheory.ZModDual.equiv_dual_of_injective_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:24:30.140662+00:00
 -- url     : https://prove2.me/theorems/7a635890-fa60-4a13-9d6a-54d71799d61a

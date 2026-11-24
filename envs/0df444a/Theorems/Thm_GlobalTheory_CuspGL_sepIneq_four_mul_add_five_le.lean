@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_sepIneq_four_mul_add_five_le
 -- name    : GlobalTheory.CuspGL.sepIneq_four_mul_add_five_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:32:32.328581+00:00
 -- url     : https://prove2.me/theorems/47d99f5c-fcc3-4c84-bec2-53f2338a0913

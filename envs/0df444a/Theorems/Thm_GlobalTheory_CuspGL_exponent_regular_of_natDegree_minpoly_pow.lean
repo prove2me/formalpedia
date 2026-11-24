@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_exponent_regular_of_natDegree_minpoly_pow
 -- name    : GlobalTheory.CuspGL.exponent_regular_of_natDegree_minpoly_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:32:07.727845+00:00
 -- url     : https://prove2.me/theorems/260bfb89-27ff-489d-aa81-bd3cbf83d72f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuadExt_Main_lemma_4_19
 -- name    : QuadExt.Main.lemma_4_19
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T07:03:44.714129+00:00
 -- url     : https://prove2.me/theorems/d9cedcc9-5123-4159-9ee9-51092d882957

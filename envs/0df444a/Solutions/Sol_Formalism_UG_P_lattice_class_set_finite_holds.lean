@@ -1,0 +1,53 @@
+-- Prove2me | solution 1 for Formalism.UG.P.lattice_class_set_finite_holds
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-3
+-- created : 2026-11-24T13:54:57.547262+00:00
+-- url     : https://prove2.me/submissions/ee814fa3-5de6-4ffb-b23b-c1e94def1cd2
+
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsAsmHformSmulRight
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsEasy
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsTrace
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsGlob
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_ClassInjectiveOfSpanRecovery
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsSpan
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsApprox
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsEquiv
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsScale
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsDual
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsCovol
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_ClassSetFiniteBoundedHolds
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_ClassSet
+import Theorems.Thm_Formalism_HermitianLatticesTheory_classSetFinite_of
+import Theorems.Thm_Formalism_UG_P_classSetFinite_of
+import Theorems.Thm_Formalism_UG_P_class_injective_of_span_recovery
+import Theorems.Thm_Formalism_UG_P_class_set_finite_bounded_holds
+import Theorems.Thm_Formalism_UG_P_covolume_of_dual_holds
+import Theorems.Thm_Formalism_UG_P_dual_lattice_bound_holds
+import Theorems.Thm_Formalism_UG_P_global_lattice_equiv_holds
+import Theorems.Thm_Formalism_UG_P_global_lattice_isLattice_holds
+import Theorems.Thm_Formalism_UG_P_hermitian_form_symmetry_holds
+import Theorems.Thm_Formalism_UG_P_integral_adele_approximation_holds
+import Theorems.Thm_Formalism_UG_P_scale_bound_holds
+import Theorems.Thm_Formalism_UG_P_sigma_involution_holds
+import Theorems.Thm_Formalism_UG_P_span_recovery_of_integral_adelic_approx
+import Theorems.Thm_Formalism_UG_P_standard_lattice_full_holds
+import Theorems.Thm_Formalism_UG_P_trace_form_positive
+import Theorems.Thm_Formalism_UG_P_unitary_isometry_lattice_holds
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.UG Formalism.UG.P
+namespace Formalism.UG.P
+theorem _root_.solution : Formalism.UG.ClassSetFinite :=
+  have hs := span_recovery_of_integral_adelic_approx integral_adele_approximation_holds
+  classSetFinite_of sigma_involution_holds trace_form_positive hermitian_form_symmetry_holds unitary_isometry_lattice_holds
+    global_lattice_isLattice_holds (class_injective_of_span_recovery hs global_lattice_equiv_holds) scale_bound_holds
+    (dual_lattice_bound_holds hs) (class_set_finite_bounded_holds covolume_of_dual_holds) standard_lattice_full_holds
+end Formalism.UG.P

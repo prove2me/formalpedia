@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_AlmostTrace_Kinf_eq_iSup
 -- name    : GlobalTheory.Cyc.AlmostTrace.Kinf_eq_iSup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:32:31.221029+00:00
 -- url     : https://prove2.me/theorems/5121e62e-27af-4572-ba0d-d55c66d16a98

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OneSpace_conj_of_sq
 -- name    : GlobalTheory.OneSpace.conj_of_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:17:45.651833+00:00
 -- url     : https://prove2.me/theorems/c2574833-c33c-47c1-8b77-53181783a751

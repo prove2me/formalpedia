@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Conv_sumsAt_iff
 -- name    : GlobalTheory.Conv.sumsAt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:26:50.780811+00:00
 -- url     : https://prove2.me/theorems/6de89778-43a9-4e5d-ac74-ae74c96e9939

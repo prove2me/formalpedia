@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_AltClosed_oneC_empty
 -- name    : GlobalTheory.DI.AltClosed.oneC_empty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:34:46.11646+00:00
 -- url     : https://prove2.me/theorems/446c9c9e-26d6-4a66-aec3-99857c50b647

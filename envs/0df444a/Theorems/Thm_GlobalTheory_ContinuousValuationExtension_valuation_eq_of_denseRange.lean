@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ContinuousValuationExtension_valuation_eq_of_denseRange
 -- name    : GlobalTheory.ContinuousValuationExtension.valuation_eq_of_denseRange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:25:35.692697+00:00
 -- url     : https://prove2.me/theorems/1ad8e01b-e5f9-4943-87f3-199b7f883da2

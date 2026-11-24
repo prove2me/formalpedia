@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeFace_differentiableOn_prod
 -- name    : GlobalTheory.CubeFace.differentiableOn_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:28:42.368667+00:00
 -- url     : https://prove2.me/theorems/7f729fd4-d78d-4768-9f8b-2667811d4f1f

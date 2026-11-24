@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_exists_monomial_basis_of_imprimitive
 -- name    : GlobalTheory.CuspGL.exists_monomial_basis_of_imprimitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:31:40.128797+00:00
 -- url     : https://prove2.me/theorems/cdcad1f0-bcb4-4f9f-9836-3211bdf12d42

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DenseBasis_linComb_pow_eq_one
 -- name    : GlobalTheory.DenseBasis.linComb_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:44:00.069363+00:00
 -- url     : https://prove2.me/theorems/1415e56a-f71c-4e27-abeb-28c483dd06ff

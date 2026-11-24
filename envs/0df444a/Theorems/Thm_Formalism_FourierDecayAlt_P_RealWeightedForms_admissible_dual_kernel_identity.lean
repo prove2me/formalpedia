@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RealWeightedForms_admissible_dual_kernel_identity
 -- name    : Formalism.FourierDecayAlt.P.RealWeightedForms.admissible_dual_kernel_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:19:30.0423+00:00
 -- url     : https://prove2.me/theorems/2714921d-e452-4ff8-a587-9f4590d44d5b

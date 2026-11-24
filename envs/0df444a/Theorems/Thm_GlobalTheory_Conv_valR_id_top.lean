@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Conv_valR_id_top
 -- name    : GlobalTheory.Conv.valR_id_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:27:10.593009+00:00
 -- url     : https://prove2.me/theorems/7cecf80b-9d77-4925-b5fe-c035662f480d

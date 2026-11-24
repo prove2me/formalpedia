@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_SizeInt_abs_coordEquiv
 -- name    : GlobalTheory.CompanionTheory.SW.SizeInt.abs_coordEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:30:23.989355+00:00
 -- url     : https://prove2.me/theorems/6564c22d-4331-4886-a1f1-0df129250791

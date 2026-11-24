@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S7_coverArith
 -- name    : Formalism.HermitianLatticeCounting.Final.S7.coverArith
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:06:33.577872+00:00
 -- url     : https://prove2.me/theorems/4998a4c3-834c-49ea-aad4-9ea17298167a

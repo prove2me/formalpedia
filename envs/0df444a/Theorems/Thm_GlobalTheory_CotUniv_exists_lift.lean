@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CotUniv_exists_lift
 -- name    : GlobalTheory.CotUniv.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:27:27.713639+00:00
 -- url     : https://prove2.me/theorems/db581e1d-2dfa-437f-9c0b-c51326873b0e

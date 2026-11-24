@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_Nakayama_mem_jacobson
 -- name    : GlobalTheory.UnRep.Nakayama.mem_jacobson
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:04:15.189829+00:00
 -- url     : https://prove2.me/theorems/f802afeb-448f-4dfb-a379-a10981594e2e

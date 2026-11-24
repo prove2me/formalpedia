@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_twisted_jacquet_exact_smooth
 -- name    : GlobalTheory.T.twisted_jacquet_exact_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:24:57.210819+00:00
 -- url     : https://prove2.me/theorems/8da486df-b1fe-41c0-80a8-4b391a6cb574

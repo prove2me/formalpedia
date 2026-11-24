@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmoothSpread_exists_finite_smooth
 -- name    : GlobalTheory.CompanionTheory.SmoothSpread.exists_finite_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:14:35.899561+00:00
 -- url     : https://prove2.me/theorems/b13e9c79-4812-4825-bdc2-31c986d5a7cb

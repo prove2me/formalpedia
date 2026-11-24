@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_ColStep_natCard_colGe
 -- name    : GlobalTheory.CompanionTheory.TyFin.ColStep.natCard_colGe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:17:22.10862+00:00
 -- url     : https://prove2.me/theorems/acf9cdab-dd04-4a59-b26d-ff4aac06c634

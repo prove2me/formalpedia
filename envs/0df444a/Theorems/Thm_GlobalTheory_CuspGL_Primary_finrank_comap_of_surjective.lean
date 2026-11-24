@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_Primary_finrank_comap_of_surjective
 -- name    : GlobalTheory.CuspGL.Primary.finrank_comap_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:32:06.362954+00:00
 -- url     : https://prove2.me/theorems/2ac73d63-ae13-4071-85fa-7ad387765498

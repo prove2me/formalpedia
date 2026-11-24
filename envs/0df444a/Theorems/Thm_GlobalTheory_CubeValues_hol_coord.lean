@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeValues_hol_coord
 -- name    : GlobalTheory.CubeValues.hol_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:29:26.743832+00:00
 -- url     : https://prove2.me/theorems/11cd3a11-39f0-4002-8735-4fac7791c291

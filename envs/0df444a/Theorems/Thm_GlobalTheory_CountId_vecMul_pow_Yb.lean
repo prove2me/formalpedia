@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CountId_vecMul_pow_Yb
 -- name    : GlobalTheory.CountId.vecMul_pow_Yb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:26:19.719248+00:00
 -- url     : https://prove2.me/theorems/e4dcbbb2-2a63-4d5e-b011-845210918b66

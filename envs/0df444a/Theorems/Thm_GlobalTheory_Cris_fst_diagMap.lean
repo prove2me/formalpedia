@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cris_fst_diagMap
 -- name    : GlobalTheory.Cris.fst_diagMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:27:52.943989+00:00
 -- url     : https://prove2.me/theorems/ba6412da-1329-4341-ad2b-0706bf481185

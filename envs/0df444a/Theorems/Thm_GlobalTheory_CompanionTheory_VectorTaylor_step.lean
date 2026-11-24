@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_VectorTaylor_step
 -- name    : GlobalTheory.CompanionTheory.VectorTaylor.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:21:10.006846+00:00
 -- url     : https://prove2.me/theorems/8c7ae284-9782-406c-99ac-19641fbe183b

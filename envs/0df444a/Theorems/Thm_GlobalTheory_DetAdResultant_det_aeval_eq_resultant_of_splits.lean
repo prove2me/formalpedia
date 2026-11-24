@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetAdResultant_det_aeval_eq_resultant_of_splits
 -- name    : GlobalTheory.DetAdResultant.det_aeval_eq_resultant_of_splits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:43:35.093745+00:00
 -- url     : https://prove2.me/theorems/f8a4a0a4-abf5-4045-b027-680b952d16ee

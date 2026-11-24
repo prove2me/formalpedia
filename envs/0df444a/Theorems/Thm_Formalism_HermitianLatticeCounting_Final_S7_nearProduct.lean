@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S7_nearProduct
 -- name    : Formalism.HermitianLatticeCounting.Final.S7.nearProduct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:06:07.841017+00:00
 -- url     : https://prove2.me/theorems/6d383e08-0926-4245-afd5-b1a1d0c96b32

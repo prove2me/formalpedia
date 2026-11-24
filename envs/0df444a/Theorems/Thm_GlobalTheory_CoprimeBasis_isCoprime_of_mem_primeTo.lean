@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoprimeBasis_isCoprime_of_mem_primeTo
 -- name    : GlobalTheory.CoprimeBasis.isCoprime_of_mem_primeTo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:27:27.030025+00:00
 -- url     : https://prove2.me/theorems/4b04fad7-4145-4b33-b6b1-cc1796d8a472

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_TraceCoord_gramB_tensor
 -- name    : GlobalTheory.CompanionTheory.SW.TraceCoord.gramB_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:11:33.718052+00:00
 -- url     : https://prove2.me/theorems/e1350ef4-e2df-4cf9-8eaa-deda0601a581

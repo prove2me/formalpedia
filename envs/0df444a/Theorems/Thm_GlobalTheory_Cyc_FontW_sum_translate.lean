@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_FontW_sum_translate
 -- name    : GlobalTheory.Cyc.FontW.sum_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:34:46.97863+00:00
 -- url     : https://prove2.me/theorems/4cf857e7-08a4-48f3-b756-08d41f4ca97c

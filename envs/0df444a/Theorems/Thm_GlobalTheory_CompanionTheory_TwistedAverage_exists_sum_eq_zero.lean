@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TwistedAverage_exists_sum_eq_zero
 -- name    : GlobalTheory.CompanionTheory.TwistedAverage.exists_sum_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:24:19.580838+00:00
 -- url     : https://prove2.me/theorems/ef6c6d12-ccb9-4a1e-b15b-b6cf4790ccae

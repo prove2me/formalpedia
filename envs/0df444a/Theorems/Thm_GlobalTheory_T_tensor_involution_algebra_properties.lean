@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_tensor_involution_algebra_properties
 -- name    : GlobalTheory.T.tensor_involution_algebra_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:23:36.760794+00:00
 -- url     : https://prove2.me/theorems/3b791381-87fb-4312-881c-f189a455d434

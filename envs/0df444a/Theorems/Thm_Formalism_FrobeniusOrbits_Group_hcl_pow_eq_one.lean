@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Group_hcl_pow_eq_one
 -- name    : Formalism.FrobeniusOrbits.Group.hcl_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:53:16.174003+00:00
 -- url     : https://prove2.me/theorems/ad370808-e253-48ed-b9b6-301d702d5d47

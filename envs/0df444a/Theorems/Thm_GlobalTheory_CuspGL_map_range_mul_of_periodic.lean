@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_map_range_mul_of_periodic
 -- name    : GlobalTheory.CuspGL.map_range_mul_of_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:33:01.46082+00:00
 -- url     : https://prove2.me/theorems/5f9a13a1-daef-44b0-8ab3-8993adc75b06

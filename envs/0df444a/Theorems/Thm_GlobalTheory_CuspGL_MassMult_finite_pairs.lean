@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_MassMult_finite_pairs
 -- name    : GlobalTheory.CuspGL.MassMult.finite_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:32:11.434432+00:00
 -- url     : https://prove2.me/theorems/548af69b-e699-4c91-8788-3763f1bb8478

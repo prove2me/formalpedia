@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspRep_nilM_mul
 -- name    : GlobalTheory.CuspRep.nilM_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:33:01.621223+00:00
 -- url     : https://prove2.me/theorems/f521a11a-8f04-495a-8ebb-065ca66a08d9

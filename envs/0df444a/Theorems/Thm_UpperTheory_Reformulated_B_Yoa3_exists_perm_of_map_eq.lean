@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_Yoa3_exists_perm_of_map_eq
 -- name    : UpperTheory.Reformulated.B.Yoa3.exists_perm_of_map_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:04:03.615442+00:00
 -- url     : https://prove2.me/theorems/eebf825f-b323-464c-bdfb-8e6a703bdfb7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DatumInverseCharacter_zeta_pow
 -- name    : GlobalTheory.DatumInverseCharacter.zeta_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:35:31.884879+00:00
 -- url     : https://prove2.me/theorems/31a91b77-df8a-4c0c-a878-6ae1149a576b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIQnLT_Lz_out_left
 -- name    : PIQnLT.Lz_out_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:07:33.213601+00:00
 -- url     : https://prove2.me/theorems/c98f9b63-ec71-4086-b938-8076c9e3a9b5

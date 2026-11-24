@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_Model_chi_Hinf
 -- name    : GlobalTheory.Cyc.Model.chi_Hinf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:34:11.826613+00:00
 -- url     : https://prove2.me/theorems/f91b58e0-fdfb-4645-911d-68e021c2375d

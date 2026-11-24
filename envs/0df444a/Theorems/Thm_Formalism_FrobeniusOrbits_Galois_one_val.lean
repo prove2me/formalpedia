@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Galois_one_val
 -- name    : Formalism.FrobeniusOrbits.Galois.one_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:52:39.1878+00:00
 -- url     : https://prove2.me/theorems/2eab17ea-ece2-415e-a717-4dde935fab9c

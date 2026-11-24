@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConeImage_differentiable_eval
 -- name    : GlobalTheory.ConeImage.differentiable_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:25:46.127961+00:00
 -- url     : https://prove2.me/theorems/3c03d1fa-cc75-451f-b2df-32d04dd79fd5

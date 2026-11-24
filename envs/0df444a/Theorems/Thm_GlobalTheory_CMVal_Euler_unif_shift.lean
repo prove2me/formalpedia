@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_unif_shift
 -- name    : GlobalTheory.CMVal.Euler.unif_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:20:08.814007+00:00
 -- url     : https://prove2.me/theorems/ea93b43d-1306-4d0b-b7c7-0a84a022fe2e

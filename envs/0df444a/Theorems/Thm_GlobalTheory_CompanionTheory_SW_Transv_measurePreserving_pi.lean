@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Transv_measurePreserving_pi
 -- name    : GlobalTheory.CompanionTheory.SW.Transv.measurePreserving_pi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:31:47.673338+00:00
 -- url     : https://prove2.me/theorems/6309553b-dea1-4499-9f73-38c9ac87a360

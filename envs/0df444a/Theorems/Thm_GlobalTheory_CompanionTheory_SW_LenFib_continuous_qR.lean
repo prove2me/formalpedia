@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LenFib_continuous_qR
 -- name    : GlobalTheory.CompanionTheory.SW.LenFib.continuous_qR
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:36:21.66828+00:00
 -- url     : https://prove2.me/theorems/43fbcc67-5e56-4a45-922c-59bbf854079e

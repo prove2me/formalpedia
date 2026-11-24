@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TubeFourier_ShiftLine_shift_vertical_line
 -- name    : GlobalTheory.CompanionTheory.TubeFourier.ShiftLine.shift_vertical_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:16:21.214006+00:00
 -- url     : https://prove2.me/theorems/15b023b3-4e9b-4a62-9512-ab66f6049492

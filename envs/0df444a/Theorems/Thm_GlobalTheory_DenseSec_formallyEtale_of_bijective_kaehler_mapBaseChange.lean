@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DenseSec_formallyEtale_of_bijective_kaehler_mapBaseChange
 -- name    : GlobalTheory.DenseSec.formallyEtale_of_bijective_kaehler_mapBaseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:43:25.171796+00:00
 -- url     : https://prove2.me/theorems/8b7ae153-50f5-447d-abdc-42ed88afa58f

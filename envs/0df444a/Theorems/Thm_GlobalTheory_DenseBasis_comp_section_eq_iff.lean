@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DenseBasis_comp_section_eq_iff
 -- name    : GlobalTheory.DenseBasis.comp_section_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:43:40.65301+00:00
 -- url     : https://prove2.me/theorems/b65e95be-69f2-4234-8fda-b3f99208359c

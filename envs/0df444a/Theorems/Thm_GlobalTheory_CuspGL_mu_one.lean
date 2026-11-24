@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_mu_one
 -- name    : GlobalTheory.CuspGL.mu_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:33:35.202846+00:00
 -- url     : https://prove2.me/theorems/7855634c-8727-46c0-ae60-3c40249752a6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S7_probINonzero
 -- name    : Formalism.HermitianLatticeCounting.Final.S7.probINonzero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:06:07.039854+00:00
 -- url     : https://prove2.me/theorems/bd6f788e-18de-4fc4-85d0-c6cc5d502a1a

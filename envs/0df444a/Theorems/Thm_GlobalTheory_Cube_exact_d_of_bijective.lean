@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_exact_d_of_bijective
 -- name    : GlobalTheory.Cube.exact_d_of_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:28:18.847506+00:00
 -- url     : https://prove2.me/theorems/1efbe305-cc6c-4a31-afc2-c8c9832d68b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CotUniv_sqMap_comp_sO
 -- name    : GlobalTheory.CotUniv.sqMap_comp_sO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:27:18.4806+00:00
 -- url     : https://prove2.me/theorems/7b8801dd-aae0-46ee-a86c-8251c7be2a9e

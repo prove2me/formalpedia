@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Galois_pow_val_neg
 -- name    : Formalism.FrobeniusOrbits.Galois.pow_val_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:53:24.243805+00:00
 -- url     : https://prove2.me/theorems/5761e131-6420-4265-8b2d-ee95a5cb4bf1

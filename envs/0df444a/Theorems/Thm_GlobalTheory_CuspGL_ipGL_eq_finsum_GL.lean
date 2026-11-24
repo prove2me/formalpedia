@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_ipGL_eq_finsum_GL
 -- name    : GlobalTheory.CuspGL.ipGL_eq_finsum_GL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:33:07.1978+00:00
 -- url     : https://prove2.me/theorems/5c3af192-4d3c-43fc-bbe2-2c5b17d49772

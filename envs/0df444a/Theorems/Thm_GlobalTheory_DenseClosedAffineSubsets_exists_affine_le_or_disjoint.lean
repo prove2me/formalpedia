@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DenseClosedAffineSubsets_exists_affine_le_or_disjoint
 -- name    : GlobalTheory.DenseClosedAffineSubsets.exists_affine_le_or_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:43:47.722881+00:00
 -- url     : https://prove2.me/theorems/64dbbbaf-6dd5-429e-84e4-8f4d8d06f229

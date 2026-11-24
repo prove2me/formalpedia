@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZetaHighest_block_eigen
 -- name    : GlobalTheory.CompanionTheory.ZetaHighest.block_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:24:56.95013+00:00
 -- url     : https://prove2.me/theorems/41df1d2d-1c48-43bc-acd3-583224abac6b

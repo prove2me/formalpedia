@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_one_sub_omega_ne
 -- name    : GlobalTheory.CMVal.Euler.one_sub_omega_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:18:55.70282+00:00
 -- url     : https://prove2.me/theorems/eb08afa5-8fd9-4c79-9655-edd0d5ef1d07

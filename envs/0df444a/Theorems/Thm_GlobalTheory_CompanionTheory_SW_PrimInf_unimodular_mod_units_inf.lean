@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_PrimInf_unimodular_mod_units_inf
 -- name    : GlobalTheory.CompanionTheory.SW.PrimInf.unimodular_mod_units_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:07:48.413274+00:00
 -- url     : https://prove2.me/theorems/99f82ca9-0770-44e9-b268-16bcb7e14ba8

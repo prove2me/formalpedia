@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_StdLattice_ind_mem_SB
 -- name    : GlobalTheory.CompanionTheory.StdLattice.ind_mem_SB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:14:24.263803+00:00
 -- url     : https://prove2.me/theorems/829771f0-462a-428c-ab10-2448d7c3b02e

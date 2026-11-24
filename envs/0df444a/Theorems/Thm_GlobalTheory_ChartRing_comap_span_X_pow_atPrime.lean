@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartRing_comap_span_X_pow_atPrime
 -- name    : GlobalTheory.ChartRing.comap_span_X_pow_atPrime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:14:53.549325+00:00
 -- url     : https://prove2.me/theorems/392b6c1a-5bfe-4f63-b7ad-26b8da22cbac

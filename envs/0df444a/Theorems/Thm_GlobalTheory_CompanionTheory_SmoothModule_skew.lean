@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmoothModule_skew
 -- name    : GlobalTheory.CompanionTheory.SmoothModule.skew
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:15:10.118079+00:00
 -- url     : https://prove2.me/theorems/9f89b732-5497-42d5-8254-73ca05416bd1

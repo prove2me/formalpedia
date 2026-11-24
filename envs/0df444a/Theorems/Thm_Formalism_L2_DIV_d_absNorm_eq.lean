@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_d_absNorm_eq
 -- name    : Formalism.L2.DIV.d_absNorm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:22:32.763976+00:00
 -- url     : https://prove2.me/theorems/3dfe701d-f5df-4b36-b3fe-7d95f3a8b3d1

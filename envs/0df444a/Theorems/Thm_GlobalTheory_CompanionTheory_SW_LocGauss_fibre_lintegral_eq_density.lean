@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LocGauss_fibre_lintegral_eq_density
 -- name    : GlobalTheory.CompanionTheory.SW.LocGauss.fibre_lintegral_eq_density
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:07:24.462325+00:00
 -- url     : https://prove2.me/theorems/c5626e52-8e7f-42e4-ade6-44a545f8d393

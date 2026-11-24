@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_logLift_mul
 -- name    : GlobalTheory.DI.logLift_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:35:40.811803+00:00
 -- url     : https://prove2.me/theorems/897b0bd1-df6d-4744-b58b-d8bbc7df9f60

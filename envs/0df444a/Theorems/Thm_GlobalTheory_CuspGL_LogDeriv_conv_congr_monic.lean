@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_LogDeriv_conv_congr_monic
 -- name    : GlobalTheory.CuspGL.LogDeriv.conv_congr_monic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:29:54.648492+00:00
 -- url     : https://prove2.me/theorems/b4b1bf3d-a332-4c5e-b303-de4a4017cd55

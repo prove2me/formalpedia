@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_FinalFormK_Bdd_zero
 -- name    : CompanionTheory.D.gk.FinalFormK.Bdd.zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:57:08.49718+00:00
 -- url     : https://prove2.me/theorems/96abc2de-c1ab-4cbe-90c5-c358da148545

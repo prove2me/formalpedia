@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_WittE_exists_norm_ne_zero
 -- name    : GlobalTheory.CompanionTheory.SW.WittE.exists_norm_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:12:52.987072+00:00
 -- url     : https://prove2.me/theorems/916a53cd-2a3b-403a-9850-cb5a6df274df

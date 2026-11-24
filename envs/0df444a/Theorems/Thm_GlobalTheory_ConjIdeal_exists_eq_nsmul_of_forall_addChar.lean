@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConjIdeal_exists_eq_nsmul_of_forall_addChar
 -- name    : GlobalTheory.ConjIdeal.exists_eq_nsmul_of_forall_addChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:25:01.605106+00:00
 -- url     : https://prove2.me/theorems/7696a3ad-925b-4ddb-9799-7e4a8fcab2ad

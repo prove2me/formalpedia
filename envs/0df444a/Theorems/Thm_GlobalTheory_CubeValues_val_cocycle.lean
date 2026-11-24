@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeValues_val_cocycle
 -- name    : GlobalTheory.CubeValues.val_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:29:24.327051+00:00
 -- url     : https://prove2.me/theorems/7bf50a8f-6120-4e9a-a172-511cafd7ebe8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_integrable_mul_conj_of_weighted
 -- name    : Formalism.REAL.integrable_mul_conj_of_weighted
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:14:16.858801+00:00
 -- url     : https://prove2.me/theorems/fed0c987-ad5c-40a4-a982-f62413053a5d

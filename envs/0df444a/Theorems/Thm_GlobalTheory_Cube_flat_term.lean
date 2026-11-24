@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_flat_term
 -- name    : GlobalTheory.Cube.flat_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:28:08.573858+00:00
 -- url     : https://prove2.me/theorems/c2ed2693-d698-495e-adc7-2c150aee4b4c

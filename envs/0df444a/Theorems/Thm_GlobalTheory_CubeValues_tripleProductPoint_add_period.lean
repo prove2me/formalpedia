@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeValues_tripleProductPoint_add_period
 -- name    : GlobalTheory.CubeValues.tripleProductPoint_add_period
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:29:38.233533+00:00
 -- url     : https://prove2.me/theorems/e1fe20eb-5219-493b-ad64-ade31e5a9fe9

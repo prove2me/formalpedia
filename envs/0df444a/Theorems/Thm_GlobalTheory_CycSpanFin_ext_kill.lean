@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycSpanFin_ext_kill
 -- name    : GlobalTheory.CycSpanFin.ext_kill
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:34:36.740201+00:00
 -- url     : https://prove2.me/theorems/18062ac9-6b62-4f6c-9fdf-1a21062d5aa6

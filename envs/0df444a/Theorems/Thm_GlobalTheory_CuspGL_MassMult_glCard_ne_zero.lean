@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_MassMult_glCard_ne_zero
 -- name    : GlobalTheory.CuspGL.MassMult.glCard_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:31:51.131032+00:00
 -- url     : https://prove2.me/theorems/f16291ba-1168-4bbd-a628-59fc91908701

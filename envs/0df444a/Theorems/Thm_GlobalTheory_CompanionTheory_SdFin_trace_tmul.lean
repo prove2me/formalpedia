@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SdFin_trace_tmul
 -- name    : GlobalTheory.CompanionTheory.SdFin.trace_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:59:35.375468+00:00
 -- url     : https://prove2.me/theorems/538b75cc-42b3-4396-b9f8-bc1cfb2ccb44

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeFrame_norm_sum_halfPoint_le
 -- name    : GlobalTheory.CubeFrame.norm_sum_halfPoint_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:28:27.212803+00:00
 -- url     : https://prove2.me/theorems/36517388-b29c-4c84-ab89-050c643cd0cb

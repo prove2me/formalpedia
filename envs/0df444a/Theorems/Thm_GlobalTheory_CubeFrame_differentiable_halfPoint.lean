@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeFrame_differentiable_halfPoint
 -- name    : GlobalTheory.CubeFrame.differentiable_halfPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:28:10.381249+00:00
 -- url     : https://prove2.me/theorems/4ab6f341-9e9e-4340-91f9-f3ac186fb38e

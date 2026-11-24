@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_AlmostNorm_exists_basis_sq
 -- name    : GlobalTheory.QuadSymbol.AlmostNorm.exists_basis_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:03:09.28922+00:00
 -- url     : https://prove2.me/theorems/8be8ae94-ae1a-4f71-a8fa-93d4c09094fc

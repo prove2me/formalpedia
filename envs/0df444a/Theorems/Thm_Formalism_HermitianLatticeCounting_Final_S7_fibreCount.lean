@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S7_fibreCount
 -- name    : Formalism.HermitianLatticeCounting.Final.S7.fibreCount
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:05:36.738817+00:00
 -- url     : https://prove2.me/theorems/0fecc31e-d44e-4a18-b678-476e26700603

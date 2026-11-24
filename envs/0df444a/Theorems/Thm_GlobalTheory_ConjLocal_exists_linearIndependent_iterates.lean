@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConjLocal_exists_linearIndependent_iterates
 -- name    : GlobalTheory.ConjLocal.exists_linearIndependent_iterates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:26:01.399328+00:00
 -- url     : https://prove2.me/theorems/6f50bb5f-6938-403a-8abb-7a5cafee9b4d

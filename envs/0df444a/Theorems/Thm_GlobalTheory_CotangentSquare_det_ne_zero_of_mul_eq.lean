@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CotangentSquare_det_ne_zero_of_mul_eq
 -- name    : GlobalTheory.CotangentSquare.det_ne_zero_of_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:27:01.9801+00:00
 -- url     : https://prove2.me/theorems/686964c6-f9cd-49f6-92ef-b57e7019a667

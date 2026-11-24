@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Galois_apply_theta
 -- name    : Formalism.FrobeniusOrbits.Galois.apply_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:52:28.143018+00:00
 -- url     : https://prove2.me/theorems/5a00c8f4-4bd3-4fc3-a552-5ffbbec4affa

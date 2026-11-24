@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_mem_FildR_of_ext
 -- name    : GlobalTheory.DRFil.mem_FildR_of_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:36:07.598493+00:00
 -- url     : https://prove2.me/theorems/d20a8af0-5e11-4b2b-b232-22095cf4f80b

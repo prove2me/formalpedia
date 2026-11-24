@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_abs_deriv_weight_profile_le
 -- name    : Formalism.REAL.abs_deriv_weight_profile_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:16:56.499074+00:00
 -- url     : https://prove2.me/theorems/c4645bf1-f554-4888-963f-3d90975d0fc2

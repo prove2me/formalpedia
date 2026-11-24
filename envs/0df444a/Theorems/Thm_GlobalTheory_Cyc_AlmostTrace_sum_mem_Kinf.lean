@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_AlmostTrace_sum_mem_Kinf
 -- name    : GlobalTheory.Cyc.AlmostTrace.sum_mem_Kinf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:32:49.800963+00:00
 -- url     : https://prove2.me/theorems/1f6e0eb8-1639-42ba-8253-5b90584aa1df

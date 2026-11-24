@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TfLoc_Iw_isClopen_iwahori
 -- name    : GlobalTheory.CompanionTheory.TfLoc.Iw.isClopen_iwahori
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:34:03.740452+00:00
 -- url     : https://prove2.me/theorems/a332ed28-db6c-4361-88b6-a2aaa9f5ff3e

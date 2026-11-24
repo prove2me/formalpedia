@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_logDerivIdealSheafIterate_comap_ideal_of_isOpenImmersion
 -- name    : FunctorialResolution.EmbeddedResolution.logDerivIdealSheafIterate_comap_ideal_of_isOpenImmersion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:36:57.472043+00:00
 -- url     : https://prove2.me/theorems/23a76bc7-7186-4797-9a33-f956553aac1b

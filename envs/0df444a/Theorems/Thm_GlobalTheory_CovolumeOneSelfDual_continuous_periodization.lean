@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CovolumeOneSelfDual_continuous_periodization
 -- name    : GlobalTheory.CovolumeOneSelfDual.continuous_periodization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:43:59.98269+00:00
 -- url     : https://prove2.me/theorems/9dba6018-9969-4497-85c6-3ae56cf07779

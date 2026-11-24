@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoverGlue_map_linComb
 -- name    : GlobalTheory.CoverGlue.map_linComb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:27:43.555435+00:00
 -- url     : https://prove2.me/theorems/19d2c10d-f26f-49a1-b9a9-c4da140d07ef

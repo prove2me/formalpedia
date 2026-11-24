@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegLoc_Scaled_card_range_mul
 -- name    : GlobalTheory.CompanionTheory.SiegLoc.Scaled.card_range_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:13:31.580612+00:00
 -- url     : https://prove2.me/theorems/ef8eb5e3-efb5-4b6b-b97d-88b9b41f4a55

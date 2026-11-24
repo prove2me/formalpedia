@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_NormIndex_Nm_of_isSquare
 -- name    : GlobalTheory.QuadSymbol.NormIndex.Nm.of_isSquare
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:01:00.174072+00:00
 -- url     : https://prove2.me/theorems/00dfdd16-9961-4ace-832f-ffb26fc41f90

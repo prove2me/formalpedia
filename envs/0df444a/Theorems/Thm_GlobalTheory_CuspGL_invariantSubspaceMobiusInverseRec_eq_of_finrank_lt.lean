@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_invariantSubspaceMobiusInverseRec_eq_of_finrank_lt
 -- name    : GlobalTheory.CuspGL.invariantSubspaceMobiusInverseRec_eq_of_finrank_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:32:59.058802+00:00
 -- url     : https://prove2.me/theorems/16aeba29-79db-446d-84ff-72557c7ec690

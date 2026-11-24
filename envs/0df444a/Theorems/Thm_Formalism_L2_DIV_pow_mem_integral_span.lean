@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_pow_mem_integral_span
 -- name    : Formalism.L2.DIV.pow_mem_integral_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:26:19.921026+00:00
 -- url     : https://prove2.me/theorems/0b4c2646-70b0-48cd-88d2-b63758aed11f

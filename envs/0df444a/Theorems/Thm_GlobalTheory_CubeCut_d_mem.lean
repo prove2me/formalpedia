@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeCut_d_mem
 -- name    : GlobalTheory.CubeCut.d_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:28:11.230246+00:00
 -- url     : https://prove2.me/theorems/bc404de8-3ccc-478e-843b-a16a95f90943

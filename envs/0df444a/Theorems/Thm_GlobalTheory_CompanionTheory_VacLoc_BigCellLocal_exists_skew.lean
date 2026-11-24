@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_VacLoc_BigCellLocal_exists_skew
 -- name    : GlobalTheory.CompanionTheory.VacLoc.BigCellLocal.exists_skew
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:21:25.777201+00:00
 -- url     : https://prove2.me/theorems/a5a33942-f101-42f1-8df7-0f85d3de2e52

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoverSB_exists_isClopen_subset
 -- name    : GlobalTheory.CoverSB.exists_isClopen_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:29:02.403253+00:00
 -- url     : https://prove2.me/theorems/b3ddc6e9-c7e6-45c9-a334-c969b32ccc78

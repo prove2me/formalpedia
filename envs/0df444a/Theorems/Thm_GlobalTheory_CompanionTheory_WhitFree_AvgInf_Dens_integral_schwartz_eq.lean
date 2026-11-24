@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WhitFree_AvgInf_Dens_integral_schwartz_eq
 -- name    : GlobalTheory.CompanionTheory.WhitFree.AvgInf.Dens.integral_schwartz_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:24:32.313351+00:00
 -- url     : https://prove2.me/theorems/e7920244-8cb1-422f-b9fa-16dff40db72b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_CuspIff_isCuspidal_of_sum_char
 -- name    : GlobalTheory.CompanionTheory.TyFin.CuspIff.isCuspidal_of_sum_char
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:09:52.329183+00:00
 -- url     : https://prove2.me/theorems/0b4a5861-172a-4326-8081-4d8fc3474807

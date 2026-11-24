@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_graphCoordinates_inl
 -- name    : FunctorialResolution.EmbeddedResolution.graphCoordinates_inl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:54:25.058283+00:00
 -- url     : https://prove2.me/theorems/8d123723-258c-446d-810a-2536c7e7d847

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_cuspIsoFacts
 -- name    : GlobalTheory.CompanionTheory.TyFin.cuspIsoFacts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:15:56.997802+00:00
 -- url     : https://prove2.me/theorems/98de5fa3-e2e8-4df5-a98e-463ed2d74d79

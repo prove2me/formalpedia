@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DecayOfMemSpan_decay_of_mem_span
 -- name    : GlobalTheory.DecayOfMemSpan.decay_of_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:35:28.606159+00:00
 -- url     : https://prove2.me/theorems/d49c2712-c879-4199-b7d6-3c40cc4af0f8

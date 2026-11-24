@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_exists_GL_charpoly_eq_minpoly
 -- name    : GlobalTheory.CuspGL.exists_GL_charpoly_eq_minpoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:30:55.29961+00:00
 -- url     : https://prove2.me/theorems/cd21485a-c2e7-472b-a5d1-6d4810105366

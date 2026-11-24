@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CoordinateFlipUpdateSums_sum_position
 -- name    : Formalism.FourierDecayAlt.P.CoordinateFlipUpdateSums.sum_position
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:35:31.076491+00:00
 -- url     : https://prove2.me/theorems/448cde4b-935f-45c6-a9a0-fc8c68b7ed26

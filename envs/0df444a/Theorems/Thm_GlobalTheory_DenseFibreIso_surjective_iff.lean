@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DenseFibreIso_surjective_iff
 -- name    : GlobalTheory.DenseFibreIso.surjective_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:43:34.678117+00:00
 -- url     : https://prove2.me/theorems/9d31ff8b-e076-4e1b-b1b7-6a0e271f01d7

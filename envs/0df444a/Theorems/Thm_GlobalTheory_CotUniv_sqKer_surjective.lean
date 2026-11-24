@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CotUniv_sqKer_surjective
 -- name    : GlobalTheory.CotUniv.sqKer_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:27:17.49395+00:00
 -- url     : https://prove2.me/theorems/689c88e4-e782-4d9d-b3bb-6da27a272de7

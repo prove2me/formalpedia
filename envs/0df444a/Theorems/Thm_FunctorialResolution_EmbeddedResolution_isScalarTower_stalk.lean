@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isScalarTower_stalk
 -- name    : FunctorialResolution.EmbeddedResolution.isScalarTower_stalk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:16:32.407466+00:00
 -- url     : https://prove2.me/theorems/88c60139-13ee-4bc3-9b6c-2093f43f4267

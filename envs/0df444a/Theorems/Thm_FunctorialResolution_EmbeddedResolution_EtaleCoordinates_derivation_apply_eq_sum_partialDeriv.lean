@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EtaleCoordinates_derivation_apply_eq_sum_partialDeriv
 -- name    : FunctorialResolution.EmbeddedResolution.EtaleCoordinates.derivation_apply_eq_sum_partialDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:58:52.616794+00:00
 -- url     : https://prove2.me/theorems/9f87e5a5-cfa2-4f91-aac5-28bbd9528675

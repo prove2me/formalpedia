@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_NormUnit_range_ratioU
 -- name    : GlobalTheory.CompanionTheory.UnrDens.NormUnit.range_ratioU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:20:10.099964+00:00
 -- url     : https://prove2.me/theorems/542cd5f4-e65b-4a6e-999f-c09129f4b6a5

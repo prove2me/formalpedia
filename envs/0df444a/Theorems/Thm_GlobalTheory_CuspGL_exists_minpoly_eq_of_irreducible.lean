@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_exists_minpoly_eq_of_irreducible
 -- name    : GlobalTheory.CuspGL.exists_minpoly_eq_of_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:49:51.590533+00:00
 -- url     : https://prove2.me/theorems/d5a2f71c-09c2-433e-ab02-682f417eafd0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Div_BlockChangeDet_det_blockDiagonal__eq_prod_ef1b50bb1ef0
 -- name    : P2M_GlobalTheory_Div_BlockChangeDet_det_blockDiagonal__eq_prod_ef1b50bb1ef0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:04:13.474054+00:00
 -- url     : https://prove2.me/theorems/06df4189-796d-4611-98e1-e307aae81e27

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_QIndex_BoxIndex_relIndex_line_pow
 -- name    : GlobalTheory.CompanionTheory.QL.QIndex.BoxIndex.relIndex_line_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:56:02.786855+00:00
 -- url     : https://prove2.me/theorems/f06fc607-b9f5-4a75-80aa-edc578127b59

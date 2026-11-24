@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CountId_mom_Yb
 -- name    : GlobalTheory.CountId.mom_Yb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:26:13.917129+00:00
 -- url     : https://prove2.me/theorems/040a705d-2c6c-49d8-a56e-36a9b4fa80cd

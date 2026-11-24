@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmoothModule_conj_deriv
 -- name    : GlobalTheory.CompanionTheory.SmoothModule.conj_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:14:48.43764+00:00
 -- url     : https://prove2.me/theorems/4c486521-c314-4cc1-a0b3-fba16fdf309d

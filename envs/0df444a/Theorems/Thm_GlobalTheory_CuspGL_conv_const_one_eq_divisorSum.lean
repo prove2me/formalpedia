@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_conv_const_one_eq_divisorSum
 -- name    : GlobalTheory.CuspGL.conv_const_one_eq_divisorSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:31:23.827628+00:00
 -- url     : https://prove2.me/theorems/b3733d82-24b0-45df-ba9b-dc0e2ff1e852

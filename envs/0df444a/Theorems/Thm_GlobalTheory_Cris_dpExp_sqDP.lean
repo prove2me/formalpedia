@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cris_dpExp_sqDP
 -- name    : GlobalTheory.Cris.dpExp_sqDP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:28:10.444992+00:00
 -- url     : https://prove2.me/theorems/b101fd45-30fd-433e-bfc0-2ddccd1a1167

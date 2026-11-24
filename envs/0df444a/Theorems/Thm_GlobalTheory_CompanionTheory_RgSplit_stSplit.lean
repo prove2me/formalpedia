@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgSplit_stSplit
 -- name    : GlobalTheory.CompanionTheory.RgSplit.stSplit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:59:53.667672+00:00
 -- url     : https://prove2.me/theorems/ff0a40dc-a405-4f25-ac21-260f5ecc1369

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_integrable_of_vanishing_outside
 -- name    : Formalism.REAL.integrable_of_vanishing_outside
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:12:42.516173+00:00
 -- url     : https://prove2.me/theorems/f2517156-4fdf-4c51-9785-07673d94f77d

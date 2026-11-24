@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_smul_periodMap_of_orthogonal_ker
 -- name    : GlobalTheory.AnArc.smul_periodMap_of_orthogonal_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:29:10.974809+00:00
 -- url     : https://prove2.me/theorems/c54c1220-7af2-4aa1-b4fe-dcbb162b08da

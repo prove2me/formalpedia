@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegelND_Integ_Arch_HuaInt_star_mulVec_dot
 -- name    : GlobalTheory.CompanionTheory.SiegelND.Integ.Arch.HuaInt.star_mulVec_dot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:13:58.261717+00:00
 -- url     : https://prove2.me/theorems/43f86395-ad67-4cbd-a9a8-906ffe884033
