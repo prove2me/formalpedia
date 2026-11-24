@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_PrimitiveExponentPullback_sum_lam
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.PrimitiveExponentPullback.sum_lam
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:47:03.74399+00:00
 -- url     : https://prove2.me/theorems/d46aa60d-3899-482c-80ca-ed4dd7f71279

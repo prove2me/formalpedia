@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermForm_Nondegenerate_ext_right
 -- name    : GlobalTheory.HermForm.Nondegenerate.ext_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:18:50.047677+00:00
 -- url     : https://prove2.me/theorems/42b4b926-96b4-4d03-b164-2104e6e5b9c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_PrimitiveExponentPullback_Triple_cubeMap_coord
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.PrimitiveExponentPullback.Triple.cubeMap_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:14:47.078815+00:00
 -- url     : https://prove2.me/theorems/02d298d0-45a3-4ebd-8479-064e941423df

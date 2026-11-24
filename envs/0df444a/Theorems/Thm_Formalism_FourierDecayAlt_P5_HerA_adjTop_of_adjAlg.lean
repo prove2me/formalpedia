@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_HerA_adjTop_of_adjAlg
 -- name    : Formalism.FourierDecayAlt.P5.HerA.adjTop_of_adjAlg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:40:33.809902+00:00
 -- url     : https://prove2.me/theorems/915aacdf-c094-445d-b9cd-bf8214ece6c1

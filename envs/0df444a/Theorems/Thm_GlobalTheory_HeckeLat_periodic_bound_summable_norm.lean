@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeLat_periodic_bound_summable_norm
 -- name    : GlobalTheory.HeckeLat.periodic_bound_summable_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:03:56.902537+00:00
 -- url     : https://prove2.me/theorems/8d923269-6583-457b-9434-17b80a852823

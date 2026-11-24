@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdealPowerCoefficients_coeffIdeal_mul_le
 -- name    : GlobalTheory.IdealPowerCoefficients.coeffIdeal_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:05:15.065559+00:00
 -- url     : https://prove2.me/theorems/de8a36f8-f878-48e1-8136-36deb4ce3313

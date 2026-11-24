@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_temperedStableExponentReflectionV1
 -- name    : Kyprianou.Ch03.temperedStableExponentReflectionV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T16:49:31.447029+00:00
 -- url     : https://prove2.me/theorems/8455f7ae-a27c-484a-8a86-65f34b834586

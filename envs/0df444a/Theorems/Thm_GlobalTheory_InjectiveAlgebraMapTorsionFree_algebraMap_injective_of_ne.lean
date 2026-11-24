@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InjectiveAlgebraMapTorsionFree_algebraMap_injective_of_ne
 -- name    : GlobalTheory.InjectiveAlgebraMapTorsionFree.algebraMap_injective_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:19:19.269418+00:00
 -- url     : https://prove2.me/theorems/0c47ecd7-6b0f-4582-8399-3a048eeffd96

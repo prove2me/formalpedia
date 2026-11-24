@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBD_scal_id
 -- name    : Formalism.FourierDecayAlt.P.PBD.scal_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:33:57.023102+00:00
 -- url     : https://prove2.me/theorems/c78c1c45-0514-484f-ad33-4f353d9e29a8

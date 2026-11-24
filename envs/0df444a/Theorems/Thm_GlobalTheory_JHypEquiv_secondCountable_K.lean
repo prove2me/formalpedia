@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JHypEquiv_secondCountable_K
 -- name    : GlobalTheory.JHypEquiv.secondCountable_K
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:23:41.907246+00:00
 -- url     : https://prove2.me/theorems/29b1a34a-eb7b-4602-97ff-c8b6d2b72af9

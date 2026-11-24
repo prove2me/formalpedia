@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBA_block_quad
 -- name    : Formalism.FourierDecayAlt.P.PBA.block_quad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:11:27.918605+00:00
 -- url     : https://prove2.me/theorems/56d6fd0f-ad9a-4795-a12e-62c4abd58370

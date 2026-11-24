@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HopfShear_shear
 -- name    : GlobalTheory.HopfShear.shear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:37:52.176773+00:00
 -- url     : https://prove2.me/theorems/c7e50e51-f3da-4ca5-b312-1156be1f4ab6

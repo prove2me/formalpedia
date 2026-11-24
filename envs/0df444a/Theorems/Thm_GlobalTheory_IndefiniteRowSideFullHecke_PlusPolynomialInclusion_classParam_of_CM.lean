@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_PlusPolynomialInclusion_classParam_of_CM
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.PlusPolynomialInclusion.classParam_of_CM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:14:17.568189+00:00
 -- url     : https://prove2.me/theorems/51bae092-9b00-4579-a04c-f683e9748e9b

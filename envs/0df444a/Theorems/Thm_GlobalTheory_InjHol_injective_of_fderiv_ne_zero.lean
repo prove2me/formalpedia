@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InjHol_injective_of_fderiv_ne_zero
 -- name    : GlobalTheory.InjHol.injective_of_fderiv_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:19:03.357811+00:00
 -- url     : https://prove2.me/theorems/7901d7a2-bd03-4e30-8739-b0df5a744389

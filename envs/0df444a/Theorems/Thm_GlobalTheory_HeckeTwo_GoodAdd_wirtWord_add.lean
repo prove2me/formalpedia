@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_GoodAdd_wirtWord_add
 -- name    : GlobalTheory.HeckeTwo.GoodAdd.wirtWord_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:06:03.098713+00:00
 -- url     : https://prove2.me/theorems/2f998b9a-6b24-4aa7-baaa-2caf738a24f8

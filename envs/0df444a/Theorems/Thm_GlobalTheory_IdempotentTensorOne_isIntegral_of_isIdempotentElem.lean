@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdempotentTensorOne_isIntegral_of_isIdempotentElem
 -- name    : GlobalTheory.IdempotentTensorOne.isIntegral_of_isIdempotentElem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:12:56.291692+00:00
 -- url     : https://prove2.me/theorems/029cf209-b432-45be-ae4a-c3a5e99002c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InducedPBW_defect_strip
 -- name    : GlobalTheory.InducedPBW.defect_strip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:15:34.544888+00:00
 -- url     : https://prove2.me/theorems/7ee44bc2-4392-45f1-8205-fe814fbc8857

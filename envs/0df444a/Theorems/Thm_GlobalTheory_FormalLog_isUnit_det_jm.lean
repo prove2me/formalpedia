@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalLog_isUnit_det_jm
 -- name    : GlobalTheory.FormalLog.isUnit_det_jm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:04:27.276024+00:00
 -- url     : https://prove2.me/theorems/d05fcb6a-4f04-4d87-8375-130ac4505c28

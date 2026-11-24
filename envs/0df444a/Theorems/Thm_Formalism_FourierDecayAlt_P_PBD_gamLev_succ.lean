@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBD_gamLev_succ
 -- name    : Formalism.FourierDecayAlt.P.PBD.gamLev_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:35:52.213872+00:00
 -- url     : https://prove2.me/theorems/a54bf09e-3033-4555-b2fe-036451532a63

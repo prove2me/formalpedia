@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertiaEigenvalues_finrank_invariants_eq_of_period_matrix
 -- name    : GlobalTheory.InertiaEigenvalues.finrank_invariants_eq_of_period_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:19:34.433625+00:00
 -- url     : https://prove2.me/theorems/2cdba36b-f232-4572-a6e1-8f7dcfef654f

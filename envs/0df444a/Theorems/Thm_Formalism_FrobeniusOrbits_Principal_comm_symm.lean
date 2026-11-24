@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Principal_comm_symm
 -- name    : Formalism.FrobeniusOrbits.Principal.comm_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:38:50.163839+00:00
 -- url     : https://prove2.me/theorems/9da80281-6269-44e2-bbd5-4fe70bf60b90

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescent_ideal_map_comap_of_stable
 -- name    : GlobalTheory.GaloisDescent.ideal_map_comap_of_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:47:40.493774+00:00
 -- url     : https://prove2.me/theorems/cac94c4e-a3dd-43f4-9e4b-4803bf180bee

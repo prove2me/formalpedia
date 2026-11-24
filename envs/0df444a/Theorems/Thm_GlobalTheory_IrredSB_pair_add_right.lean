@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IrredSB_pair_add_right
 -- name    : GlobalTheory.IrredSB.pair_add_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:20:19.269673+00:00
 -- url     : https://prove2.me/theorems/3a23e8e9-2705-4486-9785-516a6d8ca493

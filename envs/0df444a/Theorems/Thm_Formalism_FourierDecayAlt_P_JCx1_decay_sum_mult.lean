@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JCx1_decay_sum_mult
 -- name    : Formalism.FourierDecayAlt.P.JCx1.decay.sum_mult
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:44:56.826251+00:00
 -- url     : https://prove2.me/theorems/611866e2-dee8-4e9b-8c4e-43cf9ef4a986

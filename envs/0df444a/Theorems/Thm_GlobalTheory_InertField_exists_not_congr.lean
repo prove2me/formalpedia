@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertField_exists_not_congr
 -- name    : GlobalTheory.InertField.exists_not_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:15:12.415676+00:00
 -- url     : https://prove2.me/theorems/32d58d27-e24e-4945-a762-61554f8f2560

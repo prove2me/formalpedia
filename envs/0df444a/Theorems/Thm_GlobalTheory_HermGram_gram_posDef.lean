@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermGram_gram_posDef
 -- name    : GlobalTheory.HermGram.gram_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:19:27.948552+00:00
 -- url     : https://prove2.me/theorems/dc81956b-1253-4694-a82b-3eff7c5c07ab

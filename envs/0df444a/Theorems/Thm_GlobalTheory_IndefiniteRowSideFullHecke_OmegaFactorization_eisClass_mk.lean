@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_OmegaFactorization_eisClass_mk
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.OmegaFactorization.eisClass_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:14:41.822387+00:00
 -- url     : https://prove2.me/theorems/a8144d32-e621-4b0a-9149-138c5c765e65

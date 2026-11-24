@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_qr_branchingAlg_of
 -- name    : Formalism.FourierDecayAlt.P.qr_branchingAlg_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:08:59.224581+00:00
 -- url     : https://prove2.me/theorems/25d6a383-3439-44ee-be5a-61cb98865e48

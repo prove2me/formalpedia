@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeOne_exists_normChar_ne_one
 -- name    : GlobalTheory.HeckeOne.exists_normChar_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:03:31.273074+00:00
 -- url     : https://prove2.me/theorems/970c6c5f-3a5d-4341-8fab-2c5829f93cf3

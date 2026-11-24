@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Et_charpoly_dvd_pow_of_aeval_zero
 -- name    : GlobalTheory.JR.Et.charpoly_dvd_pow_of_aeval_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:26:36.817795+00:00
 -- url     : https://prove2.me/theorems/9c52a453-fc4e-4bfd-a023-be89941efd4f

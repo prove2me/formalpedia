@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagPts_isOpen_affPts_ne_zero
 -- name    : GlobalTheory.FlagPts.isOpen_affPts_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:37:59.176801+00:00
 -- url     : https://prove2.me/theorems/33a6aa64-2ea7-44ac-8228-29d01c4fd0f0

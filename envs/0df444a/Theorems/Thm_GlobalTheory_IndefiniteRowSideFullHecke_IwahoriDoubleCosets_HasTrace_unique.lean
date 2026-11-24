@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_IwahoriDoubleCosets_HasTrace_unique
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.IwahoriDoubleCosets.HasTrace.unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:14:11.097011+00:00
 -- url     : https://prove2.me/theorems/9253df86-fb38-4af5-82c0-97fbce040b04

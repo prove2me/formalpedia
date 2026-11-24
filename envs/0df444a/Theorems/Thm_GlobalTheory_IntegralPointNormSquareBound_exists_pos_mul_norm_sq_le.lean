@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralPointNormSquareBound_exists_pos_mul_norm_sq_le
 -- name    : GlobalTheory.IntegralPointNormSquareBound.exists_pos_mul_norm_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:20:05.593677+00:00
 -- url     : https://prove2.me/theorems/67dd3bdb-a2e8-4ba6-bf10-43c3e345e1a4

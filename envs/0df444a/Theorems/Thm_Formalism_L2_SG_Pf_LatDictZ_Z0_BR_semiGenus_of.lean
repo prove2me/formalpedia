@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z0_BR_semiGenus_of
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z0.BR.semiGenus_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:56:05.64424+00:00
 -- url     : https://prove2.me/theorems/787a50ad-810a-4dd0-8ec5-33c2e78fdc05

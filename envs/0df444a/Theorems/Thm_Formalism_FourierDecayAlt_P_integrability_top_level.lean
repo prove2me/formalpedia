@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_integrability_top_level
 -- name    : Formalism.FourierDecayAlt.P.integrability_top_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:38:13.335844+00:00
 -- url     : https://prove2.me/theorems/3f4025d1-c26c-46dd-9c14-e8ee06bad8e1

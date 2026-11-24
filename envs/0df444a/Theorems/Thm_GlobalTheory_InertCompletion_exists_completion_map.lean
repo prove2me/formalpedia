@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertCompletion_exists_completion_map
 -- name    : GlobalTheory.InertCompletion.exists_completion_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:18:24.050184+00:00
 -- url     : https://prove2.me/theorems/4c0bd8f6-affd-4199-8be7-39bba6fbe342

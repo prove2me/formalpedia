@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HostModel_trForm_injective
 -- name    : GlobalTheory.HostModel.trForm_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:38:29.577152+00:00
 -- url     : https://prove2.me/theorems/94b2e404-3b9f-417f-8bc0-21adcfde5f04

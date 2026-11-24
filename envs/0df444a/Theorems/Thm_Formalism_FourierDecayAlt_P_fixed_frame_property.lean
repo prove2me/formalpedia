@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_fixed_frame_property
 -- name    : Formalism.FourierDecayAlt.P.fixed_frame_property
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:52:52.662503+00:00
 -- url     : https://prove2.me/theorems/2dce5b4e-2b53-4e8a-bd86-228c45aafc04

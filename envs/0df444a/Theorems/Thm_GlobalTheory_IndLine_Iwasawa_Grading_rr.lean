@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndLine_Iwasawa_Grading_rr
 -- name    : GlobalTheory.IndLine.Iwasawa.Grading.rr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:16:15.178087+00:00
 -- url     : https://prove2.me/theorems/b363d554-53f6-4b0a-8986-793705a113df

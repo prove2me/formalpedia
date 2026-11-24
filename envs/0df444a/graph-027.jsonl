@@ -53897,7 +53897,7 @@
 {"parent": "TightPQRepetition.Main.lemma_5_6", "child": "TightPQRepetition_Main_Reduction", "via": ["statement"]}
 {"parent": "LZEndAccess.Main.claim_4_14", "child": "LZEndAccess_Main_NaiveJumping", "via": ["statement"]}
 {"parent": "LZEndAccess.Main.claim_4_14", "child": "LZEndAccess_Main_LZEnd", "via": ["statement"]}
-{"parent": "ShortestPlanarDisjoint.Main.corollary_5_4", "child": "ShortestPlanarDisjoint_Main_StateSignature", "via": ["statement"]}
+{"parent": "ShortestPlanarDisjoint.Main.corollary_5_4", "child": "ShortestPlanarDisjoint_Main_StateSignature", "via": ["solution", "statement"]}
 {"parent": "PlanarDFVSKernel.lemma_3_4", "child": "PlanarDFVSKernel_ReducedRules12", "via": ["statement"]}
 {"parent": "PlanarDFVSKernel.lemma_3_4", "child": "PlanarDFVS_SingleExp_Graphs", "via": ["statement"]}
 {"parent": "PlanarDFVSKernel.lemma_3_4", "child": "PlanarDFVSKernel_FeasibleOn", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_minor_polynomial_property
 -- name    : Formalism.FourierDecayAlt.P.minor_polynomial_property
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:14:17.379018+00:00
 -- url     : https://prove2.me/theorems/6562c148-a7cc-41bf-93c4-f47b0bb880e6

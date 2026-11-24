@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.stableFracMoment_reverse
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T15:47:50.792513+00:00
 -- url     : https://prove2.me/submissions/08959b1b-00f2-4db8-9082-5063eb2c043e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

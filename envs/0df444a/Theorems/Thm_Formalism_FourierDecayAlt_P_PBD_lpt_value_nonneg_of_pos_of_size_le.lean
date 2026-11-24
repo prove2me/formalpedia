@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBD_lpt_value_nonneg_of_pos_of_size_le
 -- name    : Formalism.FourierDecayAlt.P.PBD.lpt_value_nonneg_of_pos_of_size_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:33:03.749348+00:00
 -- url     : https://prove2.me/theorems/06a3bb69-1cd2-4395-b3ed-b37712859ff4

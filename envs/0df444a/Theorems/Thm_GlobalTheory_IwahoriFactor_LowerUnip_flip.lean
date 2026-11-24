@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IwahoriFactor_LowerUnip_flip
 -- name    : GlobalTheory.IwahoriFactor.LowerUnip.flip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:22:43.003359+00:00
 -- url     : https://prove2.me/theorems/f8f2d40c-5672-49e8-9948-3a6ceaa833b2

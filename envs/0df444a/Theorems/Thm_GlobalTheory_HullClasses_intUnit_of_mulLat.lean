@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HullClasses_intUnit_of_mulLat
 -- name    : GlobalTheory.HullClasses.intUnit_of_mulLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:12:32.4616+00:00
 -- url     : https://prove2.me/theorems/ea721200-db09-424c-a4fb-62dd15a8da72

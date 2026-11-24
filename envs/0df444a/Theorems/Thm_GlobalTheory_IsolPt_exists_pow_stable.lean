@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsolPt_exists_pow_stable
 -- name    : GlobalTheory.IsolPt.exists_pow_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:22:27.538896+00:00
 -- url     : https://prove2.me/theorems/28b78134-1e08-49c8-b8a4-f22083ea7076

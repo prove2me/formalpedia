@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IterGain_mem_letters
 -- name    : GlobalTheory.IterGain.mem_letters
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:22:47.409704+00:00
 -- url     : https://prove2.me/theorems/630e0b01-097c-49ca-8580-c04095354c20

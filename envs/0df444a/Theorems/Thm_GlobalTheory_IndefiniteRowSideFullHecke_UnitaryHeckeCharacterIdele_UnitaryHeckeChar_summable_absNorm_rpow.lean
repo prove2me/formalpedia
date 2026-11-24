@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_UnitaryHeckeCharacterIdele_UnitaryHeckeChar_summable_absNorm_rpow
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.UnitaryHeckeCharacterIdele.UnitaryHeckeChar.summable_absNorm_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:15:13.91737+00:00
 -- url     : https://prove2.me/theorems/fbf6ee7f-a45f-413f-a731-fe3c84f9b56e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HomothetyLatSum_term_out_mulQ
 -- name    : GlobalTheory.HomothetyLatSum.term_out_mulQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:37:38.508624+00:00
 -- url     : https://prove2.me/theorems/736c96c5-d21b-4495-aea3-3e62395b3c1f

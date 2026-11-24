@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeOne_isNormPow_iff
 -- name    : GlobalTheory.HeckeOne.isNormPow_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:36:39.598803+00:00
 -- url     : https://prove2.me/theorems/e571a934-1b22-41f6-a92d-40915281d5b1

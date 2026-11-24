@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxB_integral_list_smul
 -- name    : Formalism.FourierDecayAlt.P.JFxB.integral_list_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:25:42.578935+00:00
 -- url     : https://prove2.me/theorems/fd16a57c-45d7-4f94-8651-8174c9b66677

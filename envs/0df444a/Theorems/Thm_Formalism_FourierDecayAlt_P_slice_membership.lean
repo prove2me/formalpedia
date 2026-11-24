@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_slice_membership
 -- name    : Formalism.FourierDecayAlt.P.slice_membership
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:48:43.534487+00:00
 -- url     : https://prove2.me/theorems/a7b7a4b8-8004-4250-9578-3d2ff82c3060

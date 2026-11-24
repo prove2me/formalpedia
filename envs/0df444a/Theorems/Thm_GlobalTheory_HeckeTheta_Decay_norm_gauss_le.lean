@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTheta_Decay_norm_gauss_le
 -- name    : GlobalTheory.HeckeTheta.Decay.norm_gauss_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:06:59.038517+00:00
 -- url     : https://prove2.me/theorems/870115a7-bf64-4fa4-ba02-7c8605f1bd30

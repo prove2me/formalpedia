@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_character_on_blocks
 -- name    : Formalism.FourierDecayAlt.P.character_on_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:34:05.461214+00:00
 -- url     : https://prove2.me/theorems/c9afb809-8428-426f-bf10-bed8a0a5d0c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeShift_term_unit_mul
 -- name    : GlobalTheory.HeckeShift.term_unit_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:04:37.621972+00:00
 -- url     : https://prove2.me/theorems/6ca465cb-a3b6-4169-8aff-fbc5a66a5e34

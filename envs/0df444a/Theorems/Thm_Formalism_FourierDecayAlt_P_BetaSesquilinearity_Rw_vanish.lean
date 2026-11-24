@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BetaSesquilinearity_Rw_vanish
 -- name    : Formalism.FourierDecayAlt.P.BetaSesquilinearity.Rw_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:24:50.541486+00:00
 -- url     : https://prove2.me/theorems/24d2b12d-6a84-4cd9-9c12-de09459afa96

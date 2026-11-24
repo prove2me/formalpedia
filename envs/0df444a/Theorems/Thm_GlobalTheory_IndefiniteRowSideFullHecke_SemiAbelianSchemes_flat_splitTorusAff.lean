@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SemiAbelianSchemes_flat_splitTorusAff
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SemiAbelianSchemes.flat_splitTorusAff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:15:40.239797+00:00
 -- url     : https://prove2.me/theorems/662b3207-d280-40ff-b2a3-3afd6f36d9b4

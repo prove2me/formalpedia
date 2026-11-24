@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_GeneratorValues_periodForm_vp_eq
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.GeneratorValues.periodForm_vp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:14:13.45916+00:00
 -- url     : https://prove2.me/theorems/3379dd92-c9e3-4677-a055-1e29af8dfc39

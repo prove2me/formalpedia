@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_leviRad
 -- name    : GlobalTheory.SatakeWeyl.leviRad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:27:52.304803+00:00
 -- url     : https://prove2.me/theorems/decf2f05-df56-4005-8b16-9a7ae302be0d

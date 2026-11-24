@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertUnitOrb_ModelOfN_fg_of_le
 -- name    : GlobalTheory.InertUnitOrb.ModelOfN.fg_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:15:50.398532+00:00
 -- url     : https://prove2.me/theorems/2bd33367-2958-4ea7-aed6-308fb63a78b8

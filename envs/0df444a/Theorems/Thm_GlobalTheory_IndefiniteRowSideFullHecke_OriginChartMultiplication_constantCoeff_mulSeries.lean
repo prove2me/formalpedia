@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_OriginChartMultiplication_constantCoeff_mulSeries
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.OriginChartMultiplication.constantCoeff_mulSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:14:10.997797+00:00
 -- url     : https://prove2.me/theorems/5e095653-9ddd-4b38-960e-8e0684983053

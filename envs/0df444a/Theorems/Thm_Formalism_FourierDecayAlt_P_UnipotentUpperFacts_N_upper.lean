@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_UnipotentUpperFacts_N_upper
 -- name    : Formalism.FourierDecayAlt.P.UnipotentUpperFacts.N_upper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:27:57.812815+00:00
 -- url     : https://prove2.me/theorems/e2a92f0b-b1b5-446b-b7e8-f684025bd043

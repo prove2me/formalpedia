@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RealChar_integral_le
 -- name    : GlobalTheory.Hk.RealChar.integral_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:37:19.545887+00:00
 -- url     : https://prove2.me/theorems/ce1bfaf6-400b-43fe-bf9e-888cc840b82c

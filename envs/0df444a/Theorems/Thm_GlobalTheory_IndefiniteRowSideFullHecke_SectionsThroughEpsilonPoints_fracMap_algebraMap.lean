@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SectionsThroughEpsilonPoints_fracMap_algebraMap
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SectionsThroughEpsilonPoints.fracMap_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:16:04.21992+00:00
 -- url     : https://prove2.me/theorems/4ad8280e-2705-45a9-a871-2846e3a8a73f

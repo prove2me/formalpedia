@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdealChain_act_stdLat_eq_iff
 -- name    : GlobalTheory.IdealChain.act_stdLat_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:12:20.524794+00:00
 -- url     : https://prove2.me/theorems/283f0243-005a-417a-b79f-4c8a292f775f

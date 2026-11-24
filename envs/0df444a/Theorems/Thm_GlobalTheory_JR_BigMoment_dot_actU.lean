@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_BigMoment_dot_actU
 -- name    : GlobalTheory.JR.BigMoment.dot_actU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:23:42.604916+00:00
 -- url     : https://prove2.me/theorems/a6e7ca8d-e825-4acc-8f2b-17fde630950d

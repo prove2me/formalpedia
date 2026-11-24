@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_Et_zero
 -- name    : Formalism.FourierDecayAlt.P.B6.Et_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:00:51.239253+00:00
 -- url     : https://prove2.me/theorems/367e7613-e921-4939-9149-748b852d7e2d

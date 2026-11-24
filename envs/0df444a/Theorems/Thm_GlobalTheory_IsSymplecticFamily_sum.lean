@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSymplecticFamily_sum
 -- name    : GlobalTheory.IsSymplecticFamily.sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:21:09.564966+00:00
 -- url     : https://prove2.me/theorems/580fc768-1eea-4857-8fe2-229440c802a9

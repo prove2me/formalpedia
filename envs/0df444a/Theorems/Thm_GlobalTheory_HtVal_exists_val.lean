@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HtVal_exists_val
 -- name    : GlobalTheory.HtVal.exists_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:03:15.186947+00:00
 -- url     : https://prove2.me/theorems/f3715ffb-85b7-4fde-8ed2-dc48d4e783ca

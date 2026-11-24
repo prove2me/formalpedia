@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_sgn_ne_zero
 -- name    : GlobalTheory.Inertia.sgn_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:23:24.181932+00:00
 -- url     : https://prove2.me/theorems/957a3ce8-f176-4c2e-871e-34fd1d7309bf

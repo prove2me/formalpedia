@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_cornerOf_one
 -- name    : GlobalTheory.InertZeta.cornerOf_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:18:57.668814+00:00
 -- url     : https://prove2.me/theorems/742f1b7f-74df-4377-b8de-1bfeb9148a28

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hadamard_norm_det_sq_le_prod_col
 -- name    : GlobalTheory.Hadamard.norm_det_sq_le_prod_col
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:26:48.062627+00:00
 -- url     : https://prove2.me/theorems/87847569-1843-455b-aeab-b1515d5ab20a

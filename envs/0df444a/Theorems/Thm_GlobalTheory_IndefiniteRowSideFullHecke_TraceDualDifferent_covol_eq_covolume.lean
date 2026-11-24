@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_TraceDualDifferent_covol_eq_covolume
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.TraceDualDifferent.covol_eq_covolume
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:15:43.396658+00:00
 -- url     : https://prove2.me/theorems/51c4db81-eb1e-4e1c-91a5-5e9a74239547

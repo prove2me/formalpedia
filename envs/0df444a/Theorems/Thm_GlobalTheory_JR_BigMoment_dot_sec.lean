@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_BigMoment_dot_sec
 -- name    : GlobalTheory.JR.BigMoment.dot_sec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:23:40.716747+00:00
 -- url     : https://prove2.me/theorems/bf782b02-9ce6-445b-b1b7-db2efab9f0ad

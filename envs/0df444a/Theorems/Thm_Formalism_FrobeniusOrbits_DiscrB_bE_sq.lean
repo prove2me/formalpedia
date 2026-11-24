@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_DiscrB_bE_sq
 -- name    : Formalism.FrobeniusOrbits.DiscrB.bE_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:40:46.683474+00:00
 -- url     : https://prove2.me/theorems/2af0fc41-5c49-4f86-8f85-101e93c028f5

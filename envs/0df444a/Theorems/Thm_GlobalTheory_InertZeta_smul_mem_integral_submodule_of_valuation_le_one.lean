@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_smul_mem_integral_submodule_of_valuation_le_one
 -- name    : GlobalTheory.InertZeta.smul_mem_integral_submodule_of_valuation_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:20:00.830234+00:00
 -- url     : https://prove2.me/theorems/b45ca619-47b8-4a81-a17f-beb5c9b4fefa

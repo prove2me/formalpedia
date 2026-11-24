@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Et_Idem_single_one_mul
 -- name    : GlobalTheory.JR.Et.Idem.single_one_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:26:28.48969+00:00
 -- url     : https://prove2.me/theorems/de2271e3-4f0c-40c3-993a-8234a347ef7a

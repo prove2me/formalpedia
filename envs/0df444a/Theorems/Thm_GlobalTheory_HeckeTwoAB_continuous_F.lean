@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoAB_continuous_F
 -- name    : GlobalTheory.HeckeTwoAB.continuous_F
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:06:42.98543+00:00
 -- url     : https://prove2.me/theorems/5496c087-ab68-469a-9d3e-be1277109676

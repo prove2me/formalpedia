@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HomTrace_trace_eq_finrank_mul_sum
 -- name    : GlobalTheory.HomTrace.trace_eq_finrank_mul_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:38:28.706797+00:00
 -- url     : https://prove2.me/theorems/46b07285-07f8-43a3-b247-7c4dea7ac039

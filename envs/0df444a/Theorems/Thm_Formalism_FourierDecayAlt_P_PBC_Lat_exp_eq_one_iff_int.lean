@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBC_Lat_exp_eq_one_iff_int
 -- name    : Formalism.FourierDecayAlt.P.PBC.Lat.exp_eq_one_iff_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:32:51.664216+00:00
 -- url     : https://prove2.me/theorems/431c033c-a0e3-4911-b2d4-d6759e5bbb66

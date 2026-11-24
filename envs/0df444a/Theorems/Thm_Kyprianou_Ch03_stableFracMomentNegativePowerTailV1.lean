@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_stableFracMomentNegativePowerTailV1
 -- name    : Kyprianou.Ch03.stableFracMomentNegativePowerTailV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T16:02:34.153835+00:00
 -- url     : https://prove2.me/theorems/a370a94d-855e-4387-a277-9bd4e4f22e4e

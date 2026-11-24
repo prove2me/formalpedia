@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdealPowerCoefficients_decomp
 -- name    : GlobalTheory.IdealPowerCoefficients.decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:05:19.538086+00:00
 -- url     : https://prove2.me/theorems/88ec891f-5635-4771-9c42-00df53b9f7e6

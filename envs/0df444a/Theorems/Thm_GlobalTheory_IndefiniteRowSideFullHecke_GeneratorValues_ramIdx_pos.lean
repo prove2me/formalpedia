@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_GeneratorValues_ramIdx_pos
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.GeneratorValues.ramIdx_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:14:07.391911+00:00
 -- url     : https://prove2.me/theorems/fedc9f57-7c04-4ac5-8e0f-64bb8fcbb4f9

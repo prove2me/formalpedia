@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PaleyWeil_splitLCoeff_newton
 -- name    : PaleyWeil.splitLCoeff_newton
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T15:34:23.686639+00:00
 -- url     : https://prove2.me/theorems/96b24cb5-c03c-4b0f-9f7c-25c5e1c0a71e

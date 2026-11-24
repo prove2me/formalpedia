@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoConst_exists_equiv
 -- name    : GlobalTheory.HeckeTwoConst.exists_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:14:56.790614+00:00
 -- url     : https://prove2.me/theorems/1d72cc44-d544-4cfb-86e7-a39c8b50ca5b

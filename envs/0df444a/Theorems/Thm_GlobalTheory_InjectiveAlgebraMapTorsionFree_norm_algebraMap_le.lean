@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InjectiveAlgebraMapTorsionFree_norm_algebraMap_le
 -- name    : GlobalTheory.InjectiveAlgebraMapTorsionFree.norm_algebraMap_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:18:50.22174+00:00
 -- url     : https://prove2.me/theorems/f80cf49f-5a69-4d02-8774-06373bad081b

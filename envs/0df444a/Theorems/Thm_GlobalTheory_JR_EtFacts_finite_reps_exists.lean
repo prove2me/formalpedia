@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_EtFacts_finite_reps_exists
 -- name    : GlobalTheory.JR.EtFacts.finite_reps_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:23:09.966784+00:00
 -- url     : https://prove2.me/theorems/dba38554-890f-42f9-bfdf-c4965e180009

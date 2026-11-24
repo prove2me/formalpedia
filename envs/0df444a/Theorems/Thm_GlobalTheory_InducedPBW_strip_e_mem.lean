@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InducedPBW_strip_e_mem
 -- name    : GlobalTheory.InducedPBW.strip_e_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:16:00.466706+00:00
 -- url     : https://prove2.me/theorems/146f77f8-c942-4f4e-a793-051c261e1159

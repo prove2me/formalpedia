@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FiniteSumLocalExpansion_loc_finsum
 -- name    : Formalism.FourierDecayAlt.P.FiniteSumLocalExpansion.loc_finsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:49:21.433873+00:00
 -- url     : https://prove2.me/theorems/2fb118b9-3bc6-44b7-a7a3-205010a0433f

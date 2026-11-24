@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_relevant_criterion
 -- name    : Formalism.FourierDecayAlt.P.relevant_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:39:27.796999+00:00
 -- url     : https://prove2.me/theorems/9d7e2f8f-ba11-4948-8a43-293fb868baf3

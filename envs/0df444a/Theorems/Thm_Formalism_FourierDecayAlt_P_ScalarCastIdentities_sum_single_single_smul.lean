@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ScalarCastIdentities_sum_single_single_smul
 -- name    : Formalism.FourierDecayAlt.P.ScalarCastIdentities.sum_single_single_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:13:34.657027+00:00
 -- url     : https://prove2.me/theorems/1dd9cdfe-095c-41cc-949b-5eeb7c6d17fb

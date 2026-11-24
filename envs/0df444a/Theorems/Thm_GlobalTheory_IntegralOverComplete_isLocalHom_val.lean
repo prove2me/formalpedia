@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralOverComplete_isLocalHom_val
 -- name    : GlobalTheory.IntegralOverComplete.isLocalHom_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:20:36.745577+00:00
 -- url     : https://prove2.me/theorems/aff320fd-22c1-4c96-a2da-e0d212eee707

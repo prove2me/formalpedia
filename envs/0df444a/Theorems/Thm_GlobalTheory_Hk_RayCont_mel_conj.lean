@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RayCont_mel_conj
 -- name    : GlobalTheory.Hk.RayCont.mel_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:34:39.013941+00:00
 -- url     : https://prove2.me/theorems/fc61aa84-6b1b-490f-a760-113b45634754

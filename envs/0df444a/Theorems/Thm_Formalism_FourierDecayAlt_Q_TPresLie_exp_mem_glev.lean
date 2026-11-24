@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TPresLie_exp_mem_glev
 -- name    : Formalism.FourierDecayAlt.Q.TPresLie.exp_mem_glev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:34:01.516042+00:00
 -- url     : https://prove2.me/theorems/e5f8a3d6-4ac4-4a65-bea7-eb6a6919c4fe

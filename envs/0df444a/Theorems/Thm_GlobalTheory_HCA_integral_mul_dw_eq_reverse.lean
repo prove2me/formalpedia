@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_integral_mul_dw_eq_reverse
 -- name    : GlobalTheory.HCA.integral_mul_dw_eq_reverse
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:00:06.271218+00:00
 -- url     : https://prove2.me/theorems/109311b5-5467-4de4-83ac-b7486eeb62fc

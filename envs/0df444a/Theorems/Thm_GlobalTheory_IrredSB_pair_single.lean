@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IrredSB_pair_single
 -- name    : GlobalTheory.IrredSB.pair_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:21:17.109629+00:00
 -- url     : https://prove2.me/theorems/4111e0bb-1732-470f-9121-bb296d7fef92

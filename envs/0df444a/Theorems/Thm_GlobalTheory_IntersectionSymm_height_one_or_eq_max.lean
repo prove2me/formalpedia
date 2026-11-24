@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntersectionSymm_height_one_or_eq_max
 -- name    : GlobalTheory.IntersectionSymm.height_one_or_eq_max
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:20:43.675002+00:00
 -- url     : https://prove2.me/theorems/93511c90-e5ce-49ff-9e75-a0d9aae27c48

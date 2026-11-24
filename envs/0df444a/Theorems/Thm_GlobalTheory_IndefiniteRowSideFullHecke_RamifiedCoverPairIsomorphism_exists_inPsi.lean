@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_RamifiedCoverPairIsomorphism_exists_inPsi
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.RamifiedCoverPairIsomorphism.exists_inPsi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:16:32.66919+00:00
 -- url     : https://prove2.me/theorems/88519b2f-0cdb-44e5-babb-4b0497bd3c4b

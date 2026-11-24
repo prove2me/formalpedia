@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InvBilinTest_isLocallyConstant_cosetInd
 -- name    : GlobalTheory.InvBilinTest.isLocallyConstant_cosetInd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:20:16.635305+00:00
 -- url     : https://prove2.me/theorems/0c2bafda-b4d3-4851-8cf5-e35c50974aa9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_ph_integrable
 -- name    : Formalism.FourierDecayAlt.P.B6.ph_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:56:33.86627+00:00
 -- url     : https://prove2.me/theorems/c8b1bcaf-7e35-46ff-8b71-2cec22bcb96f

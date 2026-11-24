@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_ClassZetaValuationBounds_expIn_le_two
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.ClassZetaValuationBounds.expIn_le_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:15:41.649801+00:00
 -- url     : https://prove2.me/theorems/77e63a88-2a07-4be0-97c1-08da1a2b87da

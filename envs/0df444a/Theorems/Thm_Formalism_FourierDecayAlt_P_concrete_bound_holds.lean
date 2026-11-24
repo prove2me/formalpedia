@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_concrete_bound_holds
 -- name    : Formalism.FourierDecayAlt.P.concrete_bound_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:41:09.124326+00:00
 -- url     : https://prove2.me/theorems/2b0f0250-105a-483e-baac-0def2df3a46b

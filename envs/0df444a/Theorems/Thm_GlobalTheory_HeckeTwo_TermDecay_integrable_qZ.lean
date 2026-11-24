@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_TermDecay_integrable_qZ
 -- name    : GlobalTheory.HeckeTwo.TermDecay.integrable_qZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:07:28.581037+00:00
 -- url     : https://prove2.me/theorems/3f10272e-0f67-4bd3-a6ae-5d5186ba4ac9

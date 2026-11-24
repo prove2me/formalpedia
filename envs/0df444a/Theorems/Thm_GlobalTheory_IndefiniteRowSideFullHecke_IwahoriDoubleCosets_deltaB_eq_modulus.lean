@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_IwahoriDoubleCosets_deltaB_eq_modulus
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.IwahoriDoubleCosets.deltaB_eq_modulus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:14:24.517428+00:00
 -- url     : https://prove2.me/theorems/6b8c349e-a77a-40dd-8851-b26050a87c1f

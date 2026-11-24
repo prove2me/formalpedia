@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_stableFracMoment_reverse
 -- name    : Kyprianou.Ch03.stableFracMoment_reverse
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T13:18:40.205299+00:00
 -- url     : https://prove2.me/theorems/81c4266b-9007-42c5-882e-e91230a860b2

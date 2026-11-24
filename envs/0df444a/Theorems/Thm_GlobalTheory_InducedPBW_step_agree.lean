@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InducedPBW_step_agree
 -- name    : GlobalTheory.InducedPBW.step_agree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:15:30.374714+00:00
 -- url     : https://prove2.me/theorems/c530c393-8b23-4bcd-889e-3841668def75

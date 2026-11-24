@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndicatorSumEncard_tsum_indicator_one_eq_encard
 -- name    : GlobalTheory.IndicatorSumEncard.tsum_indicator_one_eq_encard
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:15:37.922801+00:00
 -- url     : https://prove2.me/theorems/45f95e49-9e71-4896-88db-7cc444c39464

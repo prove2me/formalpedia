@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Et_psiK_continuous
 -- name    : GlobalTheory.JR.Et.psiK_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:23:06.52479+00:00
 -- url     : https://prove2.me/theorems/ad542fc5-31e0-4748-bf5f-4bf55c234511

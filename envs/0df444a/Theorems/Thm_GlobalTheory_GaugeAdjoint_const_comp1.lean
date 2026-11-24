@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeAdjoint_const_comp1
 -- name    : GlobalTheory.GaugeAdjoint.const_comp1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:34:48.813286+00:00
 -- url     : https://prove2.me/theorems/8b373bad-7ad5-401c-aa02-6dfedcfce04e

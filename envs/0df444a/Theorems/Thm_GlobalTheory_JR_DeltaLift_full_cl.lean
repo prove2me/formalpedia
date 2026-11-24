@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_DeltaLift_full_cl
 -- name    : GlobalTheory.JR.DeltaLift.full_cl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:24:48.969203+00:00
 -- url     : https://prove2.me/theorems/336281ab-41be-44cb-a899-06496957f111

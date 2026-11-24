@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TheSec_gB_spec
 -- name    : Formalism.FourierDecayAlt.P.TheSec.gB_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:46:46.186427+00:00
 -- url     : https://prove2.me/theorems/b7cd00b5-ef44-4d5c-99f0-9f4f1b15e6dc

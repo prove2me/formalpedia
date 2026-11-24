@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FiniteSumLocalExpansion_sum_fun_succ
 -- name    : Formalism.FourierDecayAlt.P.FiniteSumLocalExpansion.sum_fun_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:44:55.036059+00:00
 -- url     : https://prove2.me/theorems/ea52609c-a46d-4786-bdb5-e26ff14904ba

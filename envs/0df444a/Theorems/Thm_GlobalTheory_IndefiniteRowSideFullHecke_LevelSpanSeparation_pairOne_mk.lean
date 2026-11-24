@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_LevelSpanSeparation_pairOne_mk
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.LevelSpanSeparation.pairOne_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:15:06.970414+00:00
 -- url     : https://prove2.me/theorems/aa2dbd35-5e52-498a-864f-0408f3d2452c

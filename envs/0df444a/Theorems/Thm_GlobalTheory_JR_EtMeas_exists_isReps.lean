@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_EtMeas_exists_isReps
 -- name    : GlobalTheory.JR.EtMeas.exists_isReps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:22:59.618635+00:00
 -- url     : https://prove2.me/theorems/8960fbfa-a8a9-48ce-a6e8-12d1d0d97ab3

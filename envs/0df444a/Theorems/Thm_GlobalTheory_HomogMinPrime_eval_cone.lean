@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HomogMinPrime_eval_cone
 -- name    : GlobalTheory.HomogMinPrime.eval_cone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:38:45.68388+00:00
 -- url     : https://prove2.me/theorems/2872980e-5f46-4730-a88e-79e82d26fc7b

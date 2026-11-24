@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_zero_mem_posDims
 -- name    : GlobalTheory.Inertia.zero_mem_posDims
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:23:11.662912+00:00
 -- url     : https://prove2.me/theorems/c6c2e4a9-ef5e-47e1-827d-e6a38b36e7cc

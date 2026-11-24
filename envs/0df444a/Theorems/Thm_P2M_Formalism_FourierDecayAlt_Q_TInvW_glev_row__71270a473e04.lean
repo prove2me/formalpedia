@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_Q_TInvW_glev_row__71270a473e04
 -- name    : P2M_Formalism_FourierDecayAlt_Q_TInvW_glev_row__71270a473e04
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:18:27.588905+00:00
 -- url     : https://prove2.me/theorems/b75d7d55-6426-49e3-aa1f-711ecb8cfb2d

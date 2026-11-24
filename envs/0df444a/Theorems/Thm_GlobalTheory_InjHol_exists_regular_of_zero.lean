@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InjHol_exists_regular_of_zero
 -- name    : GlobalTheory.InjHol.exists_regular_of_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:19:19.623402+00:00
 -- url     : https://prove2.me/theorems/dcaf843b-e287-42b3-b81f-a755572d8630

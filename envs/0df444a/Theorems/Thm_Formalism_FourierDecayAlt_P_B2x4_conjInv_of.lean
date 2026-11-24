@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x4_conjInv_of
 -- name    : Formalism.FourierDecayAlt.P.B2x4.conjInv_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:26:36.743814+00:00
 -- url     : https://prove2.me/theorems/8bcf22fc-020d-46aa-b290-094417af2bba

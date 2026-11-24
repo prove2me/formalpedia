@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_eab_h_linear
 -- name    : AAInvW.eab_h_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:50:48.353458+00:00
 -- url     : https://prove2.me/theorems/b6e37e70-86bb-4693-829b-34e0ddd06d8d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertiaLift_mem_Ine_of_integral
 -- name    : GlobalTheory.InertiaLift.mem_Ine_of_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:19:47.801939+00:00
 -- url     : https://prove2.me/theorems/72582d36-ce79-40ac-a04f-bb6340fc4651

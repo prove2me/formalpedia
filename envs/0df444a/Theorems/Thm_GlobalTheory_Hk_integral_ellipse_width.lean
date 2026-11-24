@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_integral_ellipse_width
 -- name    : GlobalTheory.Hk.integral_ellipse_width
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:36:15.630723+00:00
 -- url     : https://prove2.me/theorems/c8790358-a1e1-442a-b3ac-4cf9e9f6ed1a

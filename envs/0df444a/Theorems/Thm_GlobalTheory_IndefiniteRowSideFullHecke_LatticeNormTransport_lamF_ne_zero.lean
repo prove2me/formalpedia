@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_LatticeNormTransport_lamF_ne_zero
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.LatticeNormTransport.lamF_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:15:09.990846+00:00
 -- url     : https://prove2.me/theorems/ad786a71-1cac-4881-acf5-8fff4908fa27

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_TermDecay_norm_intZ_le
 -- name    : GlobalTheory.HeckeTwo.TermDecay.norm_intZ_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:06:55.266486+00:00
 -- url     : https://prove2.me/theorems/1d2c3288-cea8-47e9-9d19-409e9db837f5

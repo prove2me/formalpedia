@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_GLMatrixJoining_om_uGL
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.GLMatrixJoining.om_uGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:14:16.3453+00:00
 -- url     : https://prove2.me/theorems/5caae693-5442-4de9-9227-bf27cf4e893a

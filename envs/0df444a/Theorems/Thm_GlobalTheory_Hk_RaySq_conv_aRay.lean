@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RaySq_conv_aRay
 -- name    : GlobalTheory.Hk.RaySq.conv_aRay
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:37:30.774873+00:00
 -- url     : https://prove2.me/theorems/0e7a097e-dd0e-44db-a062-39fec87ec6f6

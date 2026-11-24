@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeMellinProd_term_eq
 -- name    : GlobalTheory.HeckeMellinProd.term_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:03:36.89298+00:00
 -- url     : https://prove2.me/theorems/e8ae2659-2c99-4ac8-8f6c-65a68e180b72

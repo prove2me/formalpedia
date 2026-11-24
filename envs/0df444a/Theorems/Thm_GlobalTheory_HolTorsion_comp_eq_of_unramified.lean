@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolTorsion_comp_eq_of_unramified
 -- name    : GlobalTheory.HolTorsion.comp_eq_of_unramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:39:52.273944+00:00
 -- url     : https://prove2.me/theorems/cf7da9d5-9f9e-4486-a7b2-fa9f77a6e4d5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_DiscrB_exp_F
 -- name    : Formalism.FrobeniusOrbits.DiscrB.exp_F
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:40:04.892319+00:00
 -- url     : https://prove2.me/theorems/9c1724ac-56b0-400f-8449-4c0c6c2c6052

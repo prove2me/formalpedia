@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdealChain_isHalfPow_one
 -- name    : GlobalTheory.IdealChain.isHalfPow_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:05:42.042998+00:00
 -- url     : https://prove2.me/theorems/82b15132-6841-4654-9354-39c9c803a554

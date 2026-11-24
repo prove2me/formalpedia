@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegerShiftSingle_shift_single_int
 -- name    : GlobalTheory.IntegerShiftSingle.shift_single_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:19:21.850163+00:00
 -- url     : https://prove2.me/theorems/d9394216-515e-446b-95ad-8ae1759e0500

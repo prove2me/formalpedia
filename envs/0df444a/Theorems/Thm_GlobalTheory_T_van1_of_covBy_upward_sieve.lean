@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_van1_of_covBy_upward_sieve
 -- name    : GlobalTheory.T.van1_of_covBy_upward_sieve
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:33:18.672188+00:00
 -- url     : https://prove2.me/theorems/eda76ce6-653a-4529-a1f1-b900f17f2f3b

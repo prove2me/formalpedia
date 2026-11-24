@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermUnimod_intg_mul
 -- name    : GlobalTheory.HermUnimod.intg_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:02:05.676385+00:00
 -- url     : https://prove2.me/theorems/71aa7f3f-005d-41e0-810b-a066c0e20ba6

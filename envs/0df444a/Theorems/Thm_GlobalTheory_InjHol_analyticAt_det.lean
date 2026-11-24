@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InjHol_analyticAt_det
 -- name    : GlobalTheory.InjHol.analyticAt_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:19:29.860502+00:00
 -- url     : https://prove2.me/theorems/20533587-6aae-4d0c-bd47-df2287ae9909

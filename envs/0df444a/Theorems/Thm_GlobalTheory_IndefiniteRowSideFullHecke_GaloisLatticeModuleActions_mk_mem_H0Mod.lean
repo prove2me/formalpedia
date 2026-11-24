@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_GaloisLatticeModuleActions_mk_mem_H0Mod
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.GaloisLatticeModuleActions.mk_mem_H0Mod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:14:04.144837+00:00
 -- url     : https://prove2.me/theorems/08022bb5-1021-4a25-a5ab-60723a2f55ca

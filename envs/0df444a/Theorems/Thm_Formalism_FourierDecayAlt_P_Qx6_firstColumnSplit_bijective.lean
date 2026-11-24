@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx6_firstColumnSplit_bijective
 -- name    : Formalism.FourierDecayAlt.P.Qx6.firstColumnSplit_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:34:06.053393+00:00
 -- url     : https://prove2.me/theorems/a295c82c-748c-4d5d-81b7-47943ca42095

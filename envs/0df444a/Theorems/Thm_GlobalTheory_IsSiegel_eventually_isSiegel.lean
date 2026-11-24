@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSiegel_eventually_isSiegel
 -- name    : GlobalTheory.IsSiegel.eventually_isSiegel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:21:43.563942+00:00
 -- url     : https://prove2.me/theorems/49de52b0-0eae-40da-92e3-bb1b446f892a

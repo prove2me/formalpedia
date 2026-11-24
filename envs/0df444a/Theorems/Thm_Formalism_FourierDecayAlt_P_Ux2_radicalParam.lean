@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux2_radicalParam
 -- name    : Formalism.FourierDecayAlt.P.Ux2.radicalParam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:26:05.193844+00:00
 -- url     : https://prove2.me/theorems/76235372-29df-481c-a578-dd776195f9bf

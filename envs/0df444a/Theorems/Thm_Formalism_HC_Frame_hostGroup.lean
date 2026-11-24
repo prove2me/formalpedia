@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_hostGroup
 -- name    : Formalism.HC.Frame.hostGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:33:21.538838+00:00
 -- url     : https://prove2.me/theorems/1a3aad98-3937-4910-ba9c-e476b888013d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolPeriods_isHolTo_congr
 -- name    : GlobalTheory.HolPeriods.isHolTo_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:38:37.593944+00:00
 -- url     : https://prove2.me/theorems/1268d064-7943-45af-ac53-a30331335588

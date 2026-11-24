@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux8_Dw_pi
 -- name    : Formalism.FourierDecayAlt.P.Ux8.Dw_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:37:00.973458+00:00
 -- url     : https://prove2.me/theorems/68f4f797-bdc3-4882-ab57-50e39fd19b6a

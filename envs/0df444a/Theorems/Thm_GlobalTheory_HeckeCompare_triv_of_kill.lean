@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeCompare_triv_of_kill
 -- name    : GlobalTheory.HeckeCompare.triv_of_kill
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:38:38.121798+00:00
 -- url     : https://prove2.me/theorems/f93c2464-feea-43a2-a2b6-cf3b12840d75

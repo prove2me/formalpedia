@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_QuantumMinorExpansion_det_comm_Tm
 -- name    : Formalism.FourierDecayAlt.P.QuantumMinorExpansion.det_comm_Tm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:10:38.259981+00:00
 -- url     : https://prove2.me/theorems/05495e19-4ff5-4dc0-aa30-48d93351a60a

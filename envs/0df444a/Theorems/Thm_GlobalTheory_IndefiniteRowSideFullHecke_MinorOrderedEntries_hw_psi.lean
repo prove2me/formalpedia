@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_MinorOrderedEntries_hw_psi
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.MinorOrderedEntries.hw_psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:14:46.364163+00:00
 -- url     : https://prove2.me/theorems/80e88157-5f89-4e33-ba84-303df64e4714

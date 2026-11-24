@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_Poul_sum_get
 -- name    : CompanionTheory.D.gk.Poul.sum_get
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:37:37.515318+00:00
 -- url     : https://prove2.me/theorems/af00c418-076c-4e43-86ce-9001348121b4

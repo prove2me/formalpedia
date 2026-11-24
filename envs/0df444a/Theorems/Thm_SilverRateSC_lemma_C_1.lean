@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SilverRateSC_lemma_C_1
 -- name    : SilverRateSC.lemma_C_1
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T03:45:01.343395+00:00
 -- url     : https://prove2.me/theorems/f09fcca3-a7c0-4853-8d73-648e55f3118c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_prod_expClock_sectionLIntegralV1
 -- name    : Kyprianou.Ch03.prod_expClock_sectionLIntegralV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T16:46:07.889839+00:00
 -- url     : https://prove2.me/theorems/c9961a89-6523-478b-8c2d-ea703c7d31cf

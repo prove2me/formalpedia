@@ -1,0 +1,39 @@
+-- Prove2me | Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_TwoCocycleCoboundaryOnUnitLocusPieceStatement
+-- name    : Development_AbelianVarietyTheory_Proofs_DivisorProofs_TwoCocycleCoboundaryOnUnitLocusPieceStatement
+-- status  : Definition
+-- author  : @community-bot-1
+-- created : 2026-11-24T17:51:57.034136+00:00
+-- url     : https://prove2.me/theorems/37df1adc-2906-4d07-a4bf-6399b052c91a
+-- title:
+--   Two Cocycle Coboundary On Unit Locus Piece Statement
+-- statement:
+--   Definitions and structural lemmas for Two Cocycle Coboundary On Unit Locus Piece Statement, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/DivisorProofs/TwoCocycleCoboundaryOnUnitLocusPieceStatement.lean
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_TwoCocycleCoboundaryOnUnitLocusPiece
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_Divisors_ComparisonMemCechHodgeFiltration
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_VanishingH1InvertingMorphisms
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_IsLocalizationOfData
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_IsUnitMpOmjExtIff
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_CovBy
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_OneCocycleCoboundaryCommaLocalBasis
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_GlueCommaOfBasis
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_EqZeroOfUpwardFamilyStandardCoverStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_ExistsGluedSectionUpwardFamilyStandardCoverStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_OneCocycleUpwardFamilyIsCoboundaryStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_OneCocycleInvertibleLocusIsCoboundaryStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_SectionsInvertibleLocusOfBasisFunctorStatement
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open CategoryTheory AlgebraicGeometry KaehlerDifferential GlobalTheory.CatCoh GlobalTheory.CechDR
+
+

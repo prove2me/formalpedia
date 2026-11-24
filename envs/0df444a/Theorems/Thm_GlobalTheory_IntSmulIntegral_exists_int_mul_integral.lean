@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntSmulIntegral_exists_int_mul_integral
 -- name    : GlobalTheory.IntSmulIntegral.exists_int_mul_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:19:04.989929+00:00
 -- url     : https://prove2.me/theorems/187bbf64-3ec6-4039-a8da-712537a6fd83

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RayCont_differentiableAt_integral
 -- name    : GlobalTheory.Hk.RayCont.differentiableAt_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:35:12.728846+00:00
 -- url     : https://prove2.me/theorems/861f396b-a4af-4e08-8a23-4481628bf026

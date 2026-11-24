@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_GeneratorValues_IsPsiCoord_unique
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.GeneratorValues.IsPsiCoord.unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:35:22.441051+00:00
 -- url     : https://prove2.me/theorems/01c8d04c-e9aa-4ab7-9991-40f622ce81ba

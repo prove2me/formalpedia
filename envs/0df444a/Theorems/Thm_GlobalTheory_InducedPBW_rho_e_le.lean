@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InducedPBW_rho_e_le
 -- name    : GlobalTheory.InducedPBW.rho_e_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:47:33.660585+00:00
 -- url     : https://prove2.me/theorems/e1e677b5-3dbe-45cc-b081-5c5ee97a0200

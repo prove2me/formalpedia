@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IwahoriFactor_flip_triple
 -- name    : GlobalTheory.IwahoriFactor.flip_triple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:23:56.668369+00:00
 -- url     : https://prove2.me/theorems/51c7f709-2d5a-4dba-a92a-6043c6d98e13

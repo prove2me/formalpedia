@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsHomothetic_sigmaProd_mul
 -- name    : GlobalTheory.IsHomothetic.sigmaProd_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:21:09.451847+00:00
 -- url     : https://prove2.me/theorems/fdf55e8a-a640-4ba9-b968-90ddbdaf6f60

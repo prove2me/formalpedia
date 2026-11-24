@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescent_baseChange_rationalPart
 -- name    : GlobalTheory.GaloisDescent.baseChange_rationalPart
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:34:39.178636+00:00
 -- url     : https://prove2.me/theorems/a5cad2de-add2-4d36-8cda-c16823fd5966

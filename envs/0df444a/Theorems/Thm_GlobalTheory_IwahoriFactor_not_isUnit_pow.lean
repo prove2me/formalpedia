@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IwahoriFactor_not_isUnit_pow
 -- name    : GlobalTheory.IwahoriFactor.not_isUnit_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:24:04.712808+00:00
 -- url     : https://prove2.me/theorems/a23e23b5-5060-4ec2-8ecf-e2972633c85a

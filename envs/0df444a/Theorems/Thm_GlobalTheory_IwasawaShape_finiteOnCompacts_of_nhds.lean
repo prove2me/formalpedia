@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IwasawaShape_finiteOnCompacts_of_nhds
 -- name    : GlobalTheory.IwasawaShape.finiteOnCompacts_of_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:22:36.009119+00:00
 -- url     : https://prove2.me/theorems/689b985f-fa19-4307-a795-336e3ba0af98

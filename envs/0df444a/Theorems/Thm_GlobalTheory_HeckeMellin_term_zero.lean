@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeMellin_term_zero
 -- name    : GlobalTheory.HeckeMellin.term_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:06:37.768455+00:00
 -- url     : https://prove2.me/theorems/7f7f4eb5-c81d-47df-9478-c29d4cab9eae

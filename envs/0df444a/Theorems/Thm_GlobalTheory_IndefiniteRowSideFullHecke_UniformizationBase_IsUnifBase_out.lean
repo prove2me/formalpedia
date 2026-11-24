@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_UniformizationBase_IsUnifBase_out
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.UniformizationBase.IsUnifBase.out
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:16:26.24183+00:00
 -- url     : https://prove2.me/theorems/de85a966-bbdf-4ad2-b9a5-306191f418eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_leftUnitor_hom_tmul
 -- name    : GroundTheory.GroupCoh.leftUnitor_hom_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:43:38.97488+00:00
 -- url     : https://prove2.me/theorems/130ad98e-df41-4555-98c7-aa393cb54371

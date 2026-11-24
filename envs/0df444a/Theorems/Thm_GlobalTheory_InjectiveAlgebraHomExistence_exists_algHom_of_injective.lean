@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InjectiveAlgebraHomExistence_exists_algHom_of_injective
 -- name    : GlobalTheory.InjectiveAlgebraHomExistence.exists_algHom_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:19:11.839963+00:00
 -- url     : https://prove2.me/theorems/e1733b0f-30fd-4298-8244-077429458b0a

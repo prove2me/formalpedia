@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_exercise33StableFractionalMomentCriterion
 -- name    : Kyprianou.Ch03.exercise33StableFractionalMomentCriterion
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-15T09:51:07.035386+00:00
 -- url     : https://prove2.me/theorems/956cf6b0-e112-41f5-8b8b-44ec865fa2ec

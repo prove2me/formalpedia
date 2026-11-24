@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IwaFlag_exists_triangular
 -- name    : GlobalTheory.IwaFlag.exists_triangular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:22:33.399655+00:00
 -- url     : https://prove2.me/theorems/15033596-c644-4496-9b94-5defb5076840

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertUnitOrb_conj_of_norm_class
 -- name    : GlobalTheory.InertUnitOrb.conj_of_norm_class
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:15:26.230926+00:00
 -- url     : https://prove2.me/theorems/0cb1012b-aee8-4a2a-b3c8-13b269bcc6b0

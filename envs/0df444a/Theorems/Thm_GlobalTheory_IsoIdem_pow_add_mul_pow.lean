@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsoIdem_pow_add_mul_pow
 -- name    : GlobalTheory.IsoIdem.pow_add_mul_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:21:16.134918+00:00
 -- url     : https://prove2.me/theorems/9de09ec9-0727-4d0b-81d4-3370d7d48c47

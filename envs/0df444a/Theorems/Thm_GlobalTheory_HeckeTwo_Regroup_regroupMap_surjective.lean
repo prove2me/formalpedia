@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_Regroup_regroupMap_surjective
 -- name    : GlobalTheory.HeckeTwo.Regroup.regroupMap_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:07:00.649794+00:00
 -- url     : https://prove2.me/theorems/ba3e83a1-b22c-4ee7-83ec-eb9d98db4b91

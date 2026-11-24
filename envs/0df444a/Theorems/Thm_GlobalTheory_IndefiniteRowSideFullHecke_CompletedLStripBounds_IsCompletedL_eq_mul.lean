@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_CompletedLStripBounds_IsCompletedL_eq_mul
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.CompletedLStripBounds.IsCompletedL.eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:12:56.22804+00:00
 -- url     : https://prove2.me/theorems/351b4ec0-4c5b-4ddb-8dbd-dc9c7afb681f

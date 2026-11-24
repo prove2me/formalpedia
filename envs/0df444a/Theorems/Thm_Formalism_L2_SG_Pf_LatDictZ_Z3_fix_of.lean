@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z3_fix_of
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z3.fix_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:57:20.824587+00:00
 -- url     : https://prove2.me/theorems/13edfd3f-3b3a-4072-9101-726f664189b3

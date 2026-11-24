@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HostModel_formallyUnramified_of_isCoprime
 -- name    : GlobalTheory.HostModel.formallyUnramified_of_isCoprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:37:37.482271+00:00
 -- url     : https://prove2.me/theorems/9bf253a7-dd54-41f2-8155-c613270f718d

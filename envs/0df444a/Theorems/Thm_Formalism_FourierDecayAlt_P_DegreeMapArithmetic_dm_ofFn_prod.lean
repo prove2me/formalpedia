@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DegreeMapArithmetic_dm_ofFn_prod
 -- name    : Formalism.FourierDecayAlt.P.DegreeMapArithmetic.dm_ofFn_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:13:10.123148+00:00
 -- url     : https://prove2.me/theorems/5b20de7e-46fd-440a-a177-6ad61a598a1c

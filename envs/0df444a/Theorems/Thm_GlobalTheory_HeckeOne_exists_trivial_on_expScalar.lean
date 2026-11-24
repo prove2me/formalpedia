@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeOne_exists_trivial_on_expScalar
 -- name    : GlobalTheory.HeckeOne.exists_trivial_on_expScalar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:05:08.480859+00:00
 -- url     : https://prove2.me/theorems/28ade6dd-8a7d-4985-bb8e-a3a30b5ebc3b

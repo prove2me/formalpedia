@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_LeviSum_q_pow
 -- name    : GlobalTheory.InertZeta.LeviSum.q_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:21:45.576446+00:00
 -- url     : https://prove2.me/theorems/d927b8e6-b307-4a9d-8af9-d1499f5f3574

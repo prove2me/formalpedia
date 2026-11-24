@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_re_dotProduct_diagonal_mulVec_star
 -- name    : GlobalTheory.Inertia.re_dotProduct_diagonal_mulVec_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:23:12.394234+00:00
 -- url     : https://prove2.me/theorems/9b78df33-8e26-4e4b-a142-6840ac373695

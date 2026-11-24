@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolPeriods_isHolTo_of_local
 -- name    : GlobalTheory.HolPeriods.isHolTo_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:38:35.708235+00:00
 -- url     : https://prove2.me/theorems/09c2cf79-7df3-4655-94fc-59358b6efabb

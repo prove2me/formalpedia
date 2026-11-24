@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_sn_stepC
 -- name    : Formalism.FourierDecayAlt.P.NFx2.sn_stepC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:18:15.015291+00:00
 -- url     : https://prove2.me/theorems/e7f52fe4-567e-4dbb-b676-75950966c671

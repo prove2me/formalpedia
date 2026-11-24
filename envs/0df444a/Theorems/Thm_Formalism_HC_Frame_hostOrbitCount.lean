@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_hostOrbitCount
 -- name    : Formalism.HC.Frame.hostOrbitCount
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:53:12.213087+00:00
 -- url     : https://prove2.me/theorems/166061ab-74cf-4c70-8d80-1684b4d9a137

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_LogDeriv_eq_exp_of_conv
 -- name    : GlobalTheory.Hk.LogDeriv.eq_exp_of_conv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:35:38.630847+00:00
 -- url     : https://prove2.me/theorems/54c10a62-6425-4642-bfdb-a2940d9b4860

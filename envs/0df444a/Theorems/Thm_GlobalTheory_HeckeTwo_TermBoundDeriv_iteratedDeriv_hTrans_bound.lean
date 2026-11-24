@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_TermBoundDeriv_iteratedDeriv_hTrans_bound
 -- name    : GlobalTheory.HeckeTwo.TermBoundDeriv.iteratedDeriv_hTrans_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:07:22.56307+00:00
 -- url     : https://prove2.me/theorems/956a735f-499d-4287-a936-5ab772089f9e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntSeries_intAA_pderiv
 -- name    : GlobalTheory.IntSeries.intAA_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:18:45.01686+00:00
 -- url     : https://prove2.me/theorems/fcdd8778-89c6-4e01-8b7a-76f92346eadb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InjHol_eventually_zero_of_subset
 -- name    : GlobalTheory.InjHol.eventually_zero_of_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:19:00.147802+00:00
 -- url     : https://prove2.me/theorems/3e38f512-07d2-4048-b280-c26fa70bf5a6

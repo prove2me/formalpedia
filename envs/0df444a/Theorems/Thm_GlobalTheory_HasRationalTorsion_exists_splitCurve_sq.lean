@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HasRationalTorsion_exists_splitCurve_sq
 -- name    : GlobalTheory.HasRationalTorsion.exists_splitCurve_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:02:20.59622+00:00
 -- url     : https://prove2.me/theorems/dc588290-7e2e-4d3f-b9a8-335a85bb1982

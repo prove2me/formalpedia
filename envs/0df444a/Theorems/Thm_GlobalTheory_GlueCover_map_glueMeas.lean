@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlueCover_map_glueMeas
 -- name    : GlobalTheory.GlueCover.map_glueMeas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:55:26.185786+00:00
 -- url     : https://prove2.me/theorems/b5382444-f59f-4312-8b7f-a9d6acb147dd

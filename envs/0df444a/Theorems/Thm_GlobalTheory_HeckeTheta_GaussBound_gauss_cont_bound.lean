@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTheta_GaussBound_gauss_cont_bound
 -- name    : GlobalTheory.HeckeTheta.GaussBound.gauss_cont_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:06:01.351893+00:00
 -- url     : https://prove2.me/theorems/755bfc36-3fb9-40d7-929b-294ccfc78be9

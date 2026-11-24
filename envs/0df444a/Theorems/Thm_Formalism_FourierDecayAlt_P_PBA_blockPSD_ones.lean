@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBA_blockPSD_ones
 -- name    : Formalism.FourierDecayAlt.P.PBA.blockPSD_ones
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:13:11.312936+00:00
 -- url     : https://prove2.me/theorems/781dbf4e-f62f-4f33-89a5-1c16279820f8

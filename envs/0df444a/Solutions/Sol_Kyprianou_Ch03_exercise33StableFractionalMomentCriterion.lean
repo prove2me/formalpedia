@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.exercise33StableFractionalMomentCriterion
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-18T13:20:28.265982+00:00
 -- url     : https://prove2.me/submissions/15a4c03d-8f8a-4661-9dc4-f6d97ba03c05
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JCx1_needs_integrable_of_decay
 -- name    : Formalism.FourierDecayAlt.P.JCx1.needs.integrable_of_decay
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:45:25.412067+00:00
 -- url     : https://prove2.me/theorems/7f283ad5-222d-45fc-b3f6-7b95d81d8a60

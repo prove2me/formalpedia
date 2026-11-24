@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_temperedStableForwardTiltV1
 -- name    : Kyprianou.Ch03.temperedStableForwardTiltV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T16:49:39.741865+00:00
 -- url     : https://prove2.me/theorems/c8cbcd34-f338-4930-ae06-93b87e8f448f

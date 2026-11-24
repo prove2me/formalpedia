@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeMellinOne_complex_factor
 -- name    : GlobalTheory.HeckeMellinOne.complex_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:07:20.572418+00:00
 -- url     : https://prove2.me/theorems/cc3bad9c-705f-4e7f-9e1f-fd86a0ae06a8

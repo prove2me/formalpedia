@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBC_Lat_psi_single
 -- name    : Formalism.FourierDecayAlt.P.PBC.Lat.psi_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:48:13.352274+00:00
 -- url     : https://prove2.me/theorems/9125ab88-13ad-4500-b0f9-d5e0fcfc79bc

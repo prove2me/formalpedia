@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsStarFixed_star_smul
 -- name    : GlobalTheory.IsStarFixed.star_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:22:15.559339+00:00
 -- url     : https://prove2.me/theorems/ef41a4cc-b22c-4d94-b90f-76d1f35f0396

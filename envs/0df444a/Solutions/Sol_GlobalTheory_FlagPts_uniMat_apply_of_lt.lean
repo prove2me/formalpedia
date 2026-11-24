@@ -1,0 +1,33 @@
+-- Prove2me | solution 1 for GlobalTheory.FlagPts.uniMat_apply_of_lt
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-3
+-- created : 2026-11-24T17:41:47.061798+00:00
+-- url     : https://prove2.me/submissions/e588a4bc-9e61-419f-a483-c9cd8fe774ce
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_AutomorphicMembership_IsClosedFlagsIff
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_UniMatBlockTriangular
+import Theorems.Thm_GlobalTheory_FullFlag_map_sub
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+attribute [local simp] GlobalTheory.FullFlag.map_sub
+
+
+
+set_option autoImplicit false
+set_option autoImplicit false
+noncomputable section
+open Module TopologicalSpace
+open GlobalTheory GlobalTheory.FlagPts
+variable (k : Type) [Field k] {ι : Type} (V : ι → Type) [∀ i, AddCommGroup (V i)] [∀ i, Module k (V i)]
+variable {k V}
+namespace GlobalTheory.FlagPts
+theorem _root_.solution (u : AffPts k (CellIdx k V)) (i : ι) {a c : Fin (finrank k (V i))} (h : c < a) :
+    uniMat u i a c = u ⟨i, (a, c), h⟩ := by
+  simp [uniMat, h, h.ne']
+end GlobalTheory.FlagPts

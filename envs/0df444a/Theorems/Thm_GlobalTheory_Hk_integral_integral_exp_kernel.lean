@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_integral_integral_exp_kernel
 -- name    : GlobalTheory.Hk.integral_integral_exp_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:36:02.632621+00:00
 -- url     : https://prove2.me/theorems/42d17e7a-d2a6-4537-8d6d-91a28bc21ab0

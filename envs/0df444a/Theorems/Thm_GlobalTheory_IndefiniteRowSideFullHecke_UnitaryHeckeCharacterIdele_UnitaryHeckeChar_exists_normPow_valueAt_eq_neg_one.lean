@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_UnitaryHeckeCharacterIdele_UnitaryHeckeChar_exists_normPow_valueAt_eq_neg_one
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.UnitaryHeckeCharacterIdele.UnitaryHeckeChar.exists_normPow_valueAt_eq_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:15:49.085852+00:00
 -- url     : https://prove2.me/theorems/36ea748f-1c70-46f7-8b42-2062fc460c2d

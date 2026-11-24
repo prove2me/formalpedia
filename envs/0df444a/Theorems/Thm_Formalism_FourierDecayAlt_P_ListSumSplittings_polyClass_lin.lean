@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ListSumSplittings_polyClass_lin
 -- name    : Formalism.FourierDecayAlt.P.ListSumSplittings.polyClass_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:08:46.834803+00:00
 -- url     : https://prove2.me/theorems/69c9e5d6-0b4b-400a-a868-3055614f44ef

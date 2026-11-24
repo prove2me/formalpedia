@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralOverComplete_henselian_of_union
 -- name    : GlobalTheory.IntegralOverComplete.henselian_of_union
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:20:45.294086+00:00
 -- url     : https://prove2.me/theorems/68a2f430-7ee4-4907-8f87-bee1d617a148

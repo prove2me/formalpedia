@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_JFxE_ck_mono__d2aef3c37862
 -- name    : P2M_Formalism_FourierDecayAlt_P_JFxE_ck_mono__d2aef3c37862
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:27:34.920807+00:00
 -- url     : https://prove2.me/theorems/28f21857-dd5d-4da0-8e90-da3839844bfc

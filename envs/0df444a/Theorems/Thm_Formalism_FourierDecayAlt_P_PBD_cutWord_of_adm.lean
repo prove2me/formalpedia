@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBD_cutWord_of_adm
 -- name    : Formalism.FourierDecayAlt.P.PBD.cutWord_of_adm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:33:19.665087+00:00
 -- url     : https://prove2.me/theorems/6502a6a6-9e88-4a2d-98f1-84788823aa28

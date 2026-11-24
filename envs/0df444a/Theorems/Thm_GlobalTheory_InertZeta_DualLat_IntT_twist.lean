@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_DualLat_IntT_twist
 -- name    : GlobalTheory.InertZeta.DualLat.IntT.twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:16:20.601475+00:00
 -- url     : https://prove2.me/theorems/40a94ddf-74ca-4cac-8f05-b675c203b73e

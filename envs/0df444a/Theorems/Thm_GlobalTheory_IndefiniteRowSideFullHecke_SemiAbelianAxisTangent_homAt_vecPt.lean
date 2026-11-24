@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SemiAbelianAxisTangent_homAt_vecPt
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SemiAbelianAxisTangent.homAt_vecPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:14:59.401724+00:00
 -- url     : https://prove2.me/theorems/b5ff8f43-5389-41a2-92ee-7baab9ff919b

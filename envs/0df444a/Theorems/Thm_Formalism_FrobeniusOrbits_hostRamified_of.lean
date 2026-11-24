@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_hostRamified_of
 -- name    : Formalism.FrobeniusOrbits.hostRamified_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:13:37.381437+00:00
 -- url     : https://prove2.me/theorems/22b0a93a-550d-4c24-9111-8fb7bf6dc86d

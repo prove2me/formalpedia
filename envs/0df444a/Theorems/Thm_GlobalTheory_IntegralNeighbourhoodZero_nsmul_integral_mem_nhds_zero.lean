@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralNeighbourhoodZero_nsmul_integral_mem_nhds_zero
 -- name    : GlobalTheory.IntegralNeighbourhoodZero.nsmul_integral_mem_nhds_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:20:50.102806+00:00
 -- url     : https://prove2.me/theorems/51c7a74a-9af6-4781-aaf9-1b866f2bc55f

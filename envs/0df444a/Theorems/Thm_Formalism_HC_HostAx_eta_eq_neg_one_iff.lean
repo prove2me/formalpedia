@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostAx_eta_eq_neg_one_iff
 -- name    : Formalism.HC.HostAx.eta_eq_neg_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:12:19.825215+00:00
 -- url     : https://prove2.me/theorems/eb7c9f46-bfa7-4a87-90fa-93874f812351

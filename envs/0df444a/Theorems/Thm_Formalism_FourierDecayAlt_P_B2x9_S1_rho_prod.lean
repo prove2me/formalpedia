@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x9_S1_rho_prod
 -- name    : Formalism.FourierDecayAlt.P.B2x9.S1.rho_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:00:32.637282+00:00
 -- url     : https://prove2.me/theorems/404df3da-ce7f-403d-8d07-3f4e85059405

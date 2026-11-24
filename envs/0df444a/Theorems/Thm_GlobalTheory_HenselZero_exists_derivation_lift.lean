@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HenselZero_exists_derivation_lift
 -- name    : GlobalTheory.HenselZero.exists_derivation_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:20:01.756832+00:00
 -- url     : https://prove2.me/theorems/46241f67-dd03-4995-bd1d-af57f21432af

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SemiAbelianSchemes_isAbelianScheme_unit
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SemiAbelianSchemes.isAbelianScheme_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:15:57.814303+00:00
 -- url     : https://prove2.me/theorems/94dd1f84-d11f-4815-9ddb-10c4aa7eaa9e

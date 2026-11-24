@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z2_plane_ring_core
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z2.plane_ring_core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:58:00.070037+00:00
 -- url     : https://prove2.me/theorems/ea56a49e-718d-4d9c-b504-5f3108d761fd

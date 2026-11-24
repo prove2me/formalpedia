@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_stepanov_polynomial
 -- name    : stepanov_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T15:35:45.133312+00:00
 -- url     : https://prove2.me/theorems/c47d6ae5-4b12-470d-8bc2-da0be3c986b6

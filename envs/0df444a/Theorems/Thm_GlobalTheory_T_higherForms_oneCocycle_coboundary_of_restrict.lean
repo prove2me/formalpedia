@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_higherForms_oneCocycle_coboundary_of_restrict
 -- name    : GlobalTheory.T.higherForms_oneCocycle_coboundary_of_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:14:33.10408+00:00
 -- url     : https://prove2.me/theorems/57b01064-0d35-4554-a972-8f6c2845836c

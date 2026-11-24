@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_perm_of_swap
 -- name    : GlobalTheory.SatakeWeyl.perm_of_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:32:58.60112+00:00
 -- url     : https://prove2.me/theorems/174bdeb6-211b-4428-8763-535d20f7f4ad

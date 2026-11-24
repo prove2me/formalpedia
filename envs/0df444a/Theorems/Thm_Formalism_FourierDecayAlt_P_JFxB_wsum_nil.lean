@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxB_wsum_nil
 -- name    : Formalism.FourierDecayAlt.P.JFxB.wsum_nil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:26:27.171103+00:00
 -- url     : https://prove2.me/theorems/24325b06-128a-4509-8a1e-8696dc237c9b

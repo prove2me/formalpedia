@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralMultiple_coe_smul_mem
 -- name    : GlobalTheory.IntegralMultiple.coe_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:20:38.390163+00:00
 -- url     : https://prove2.me/theorems/edad0af2-6da8-481a-995f-e0d6e026fbb9

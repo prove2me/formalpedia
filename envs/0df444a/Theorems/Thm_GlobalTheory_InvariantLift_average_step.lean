@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InvariantLift_average_step
 -- name    : GlobalTheory.InvariantLift.average_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:19:57.614338+00:00
 -- url     : https://prove2.me/theorems/131b6ce4-81cb-4cfb-bb3a-cb195008f27e

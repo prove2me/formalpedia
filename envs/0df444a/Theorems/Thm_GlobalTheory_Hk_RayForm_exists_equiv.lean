@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RayForm_exists_equiv
 -- name    : GlobalTheory.Hk.RayForm.exists_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:34:40.447605+00:00
 -- url     : https://prove2.me/theorems/ec2016fe-5391-4599-9849-81970cf98299

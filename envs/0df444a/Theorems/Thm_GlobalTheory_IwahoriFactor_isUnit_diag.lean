@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IwahoriFactor_isUnit_diag
 -- name    : GlobalTheory.IwahoriFactor.isUnit_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:23:56.162066+00:00
 -- url     : https://prove2.me/theorems/96d81824-dafe-47d7-b004-145f029ae4ec

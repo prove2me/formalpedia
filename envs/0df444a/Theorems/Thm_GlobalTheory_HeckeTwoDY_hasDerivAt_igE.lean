@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoDY_hasDerivAt_igE
 -- name    : GlobalTheory.HeckeTwoDY.hasDerivAt_igE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:14:26.855464+00:00
 -- url     : https://prove2.me/theorems/b843efaa-3f4d-4721-b1a5-70f5c4a9d400

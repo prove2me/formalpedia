@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBC_Lat_finrank_V
 -- name    : Formalism.FourierDecayAlt.P.PBC.Lat.finrank_V
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:31:11.666133+00:00
 -- url     : https://prove2.me/theorems/6c733e09-3a0d-4258-a813-0b331ee4c7a4

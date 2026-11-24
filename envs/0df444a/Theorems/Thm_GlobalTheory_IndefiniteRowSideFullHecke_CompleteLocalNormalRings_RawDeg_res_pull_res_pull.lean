@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_CompleteLocalNormalRings_RawDeg_res_pull_res_pull
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.CompleteLocalNormalRings.RawDeg.res_pull_res_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:13:04.457828+00:00
 -- url     : https://prove2.me/theorems/13c6399a-b1eb-4b7f-91c7-ab45f30aeb37

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InvDerCopiesMap_map_pderiv
 -- name    : GlobalTheory.InvDerCopiesMap.map_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:20:23.189512+00:00
 -- url     : https://prove2.me/theorems/6b1d5b1b-35c3-40af-938d-6358cfa440da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IterGain_root_le
 -- name    : GlobalTheory.IterGain.root_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:22:33.246179+00:00
 -- url     : https://prove2.me/theorems/eb809cec-a8d7-4062-ae6f-cc0ac5d300cb

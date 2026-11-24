@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_BigMoment_norm_dot_le_one
 -- name    : GlobalTheory.JR.BigMoment.norm_dot_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:23:32.034711+00:00
 -- url     : https://prove2.me/theorems/1df12b0d-15c4-4afb-be16-0fcfcbfbc480

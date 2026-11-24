@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_ConjugatePlaceEigen_tendsto_inv_p_pow
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.ConjugatePlaceEigen.tendsto_inv_p_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:13:18.797507+00:00
 -- url     : https://prove2.me/theorems/556c73e7-b4f5-4521-87a5-68f97c6373f6

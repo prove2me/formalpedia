@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HighestWeightPolynomials_hval_shift
 -- name    : Formalism.FourierDecayAlt.P.HighestWeightPolynomials.hval_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:28:17.90096+00:00
 -- url     : https://prove2.me/theorems/0e3dda1b-c96c-4256-9043-824e0cbacb5c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermSign_exists_diag_of_involution
 -- name    : GlobalTheory.HermSign.exists_diag_of_involution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:19:17.024901+00:00
 -- url     : https://prove2.me/theorems/8b2956be-8d41-467b-a48b-3b10881218f6

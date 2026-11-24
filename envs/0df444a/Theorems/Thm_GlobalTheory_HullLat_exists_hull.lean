@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HullLat_exists_hull
 -- name    : GlobalTheory.HullLat.exists_hull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:37:39.030064+00:00
 -- url     : https://prove2.me/theorems/8a536847-9d06-40af-bc94-fd50e477540f

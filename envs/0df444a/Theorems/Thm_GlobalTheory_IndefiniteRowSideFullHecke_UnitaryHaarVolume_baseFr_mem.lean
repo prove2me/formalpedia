@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_UnitaryHaarVolume_baseFr_mem
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.UnitaryHaarVolume.baseFr_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:15:55.950886+00:00
 -- url     : https://prove2.me/theorems/558f1582-2ae2-4d0e-9b30-c58c194b638c

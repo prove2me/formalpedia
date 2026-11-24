@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCalc_formalLog_prod
 -- name    : GlobalTheory.FormalCalc.formalLog_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:34:19.61939+00:00
 -- url     : https://prove2.me/theorems/8de566db-047e-45c9-a261-385c36c7341b

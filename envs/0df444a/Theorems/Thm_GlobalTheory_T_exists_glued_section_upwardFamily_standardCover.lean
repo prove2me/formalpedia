@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_glued_section_upwardFamily_standardCover
 -- name    : GlobalTheory.T.exists_glued_section_upwardFamily_standardCover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:33:04.37575+00:00
 -- url     : https://prove2.me/theorems/ce81c5e9-02bb-4060-b339-6c2940d43cf4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_TermDecay_intT_eq_intZ
 -- name    : GlobalTheory.HeckeTwo.TermDecay.intT_eq_intZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:07:31.818873+00:00
 -- url     : https://prove2.me/theorems/edeae70b-b773-4cff-92d9-bea9df4816f1

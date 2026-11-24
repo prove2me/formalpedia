@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_nonMonomialFactorIdeal_eq_idealSheafColon
 -- name    : FunctorialResolution.EmbeddedResolution.nonMonomialFactorIdeal_eq_idealSheafColon
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:49:49.627988+00:00
 -- url     : https://prove2.me/theorems/b0019e3c-afd6-456f-83db-14c440df1f61

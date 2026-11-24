@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_hcl_one
 -- name    : Formalism.FrobeniusOrbits.hcl_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:23:42.205082+00:00
 -- url     : https://prove2.me/theorems/cdf1ca33-1baa-4ca2-b997-06979d4aec8a

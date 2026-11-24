@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_polynomial_coordinate
 -- name    : Formalism.FourierDecayAlt.P.NFx2.polynomial_coordinate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:16:52.293139+00:00
 -- url     : https://prove2.me/theorems/26bb3ef9-c87c-4603-92cc-0d7398d4899f

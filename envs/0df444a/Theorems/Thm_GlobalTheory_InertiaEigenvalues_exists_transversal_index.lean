@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertiaEigenvalues_exists_transversal_index
 -- name    : GlobalTheory.InertiaEigenvalues.exists_transversal_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:20:12.129539+00:00
 -- url     : https://prove2.me/theorems/4839e015-84fc-46cc-bc84-d090508b324f

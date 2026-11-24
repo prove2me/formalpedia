@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermModel_rank_integral_selfDual
 -- name    : GlobalTheory.HermModel.rank_integral_selfDual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:59:12.512001+00:00
 -- url     : https://prove2.me/theorems/d7d4f0d2-69ff-4f9d-b932-c67a8a2c4793

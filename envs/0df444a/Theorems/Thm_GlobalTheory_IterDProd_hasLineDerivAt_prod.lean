@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IterDProd_hasLineDerivAt_prod
 -- name    : GlobalTheory.IterDProd.hasLineDerivAt_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:23:56.643518+00:00
 -- url     : https://prove2.me/theorems/17d7e122-0aca-4d27-b210-ee735755f8e5

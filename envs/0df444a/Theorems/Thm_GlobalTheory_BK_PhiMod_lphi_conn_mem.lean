@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_lphi_conn_mem
 -- name    : GlobalTheory.BK.PhiMod.lphi_conn_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:42:47.802021+00:00
 -- url     : https://prove2.me/theorems/d19b0381-182e-4c87-b00b-2130c17c26d6

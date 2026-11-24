@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CommonEigenvectors_hop_move
 -- name    : Formalism.FourierDecayAlt.P.CommonEigenvectors.hop_move
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:52:50.251848+00:00
 -- url     : https://prove2.me/theorems/112b27c7-c758-4f1d-9ef1-5f3516faf243

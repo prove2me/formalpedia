@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_TwoGroup_cc_mem_zpowers_iff
 -- name    : Formalism.HC.Frame.TwoGroup.cc_mem_zpowers_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:10:52.92528+00:00
 -- url     : https://prove2.me/theorems/9455ae99-6e00-4d10-b5f4-10eb75a55b97

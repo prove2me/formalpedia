@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsolPt_exists_factor
 -- name    : GlobalTheory.IsolPt.exists_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:21:53.059133+00:00
 -- url     : https://prove2.me/theorems/04f8bc58-37d1-4333-a80d-efbc756b3083

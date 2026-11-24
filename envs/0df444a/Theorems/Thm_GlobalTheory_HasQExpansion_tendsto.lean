@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HasQExpansion_tendsto
 -- name    : GlobalTheory.HasQExpansion.tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:19:48.77219+00:00
 -- url     : https://prove2.me/theorems/6119b9c3-719e-4767-9181-147d5cb220a6

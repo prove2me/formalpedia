@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DeterminantVectorSums_vecD
 -- name    : Formalism.FourierDecayAlt.P.DeterminantVectorSums.vecD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:30:54.883355+00:00
 -- url     : https://prove2.me/theorems/57aeeca5-5ccc-4362-be1c-a6de505a2e7f

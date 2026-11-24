@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Et_CharpolySep_charpoly_lmul_eq_minpoly
 -- name    : GlobalTheory.JR.Et.CharpolySep.charpoly_lmul_eq_minpoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:27:13.36472+00:00
 -- url     : https://prove2.me/theorems/b1408ca0-179e-4f3c-90ab-479cbbed8435

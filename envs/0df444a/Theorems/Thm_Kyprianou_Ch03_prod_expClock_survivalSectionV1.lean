@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_prod_expClock_survivalSectionV1
 -- name    : Kyprianou.Ch03.prod_expClock_survivalSectionV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T16:46:05.605006+00:00
 -- url     : https://prove2.me/theorems/a3fbcb37-e51d-4c3f-b209-61be3dbe3247

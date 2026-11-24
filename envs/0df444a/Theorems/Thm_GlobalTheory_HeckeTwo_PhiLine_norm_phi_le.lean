@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_PhiLine_norm_phi_le
 -- name    : GlobalTheory.HeckeTwo.PhiLine.norm_phi_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:08:03.691459+00:00
 -- url     : https://prove2.me/theorems/472d3c3c-c848-48c2-b509-24a0b1838ce7

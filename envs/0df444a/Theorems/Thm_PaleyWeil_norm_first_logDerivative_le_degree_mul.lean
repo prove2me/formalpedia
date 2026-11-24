@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PaleyWeil_norm_first_logDerivative_le_degree_mul
 -- name    : PaleyWeil.norm_first_logDerivative_le_degree_mul
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T15:19:13.328456+00:00
 -- url     : https://prove2.me/theorems/2831fb08-7268-42e1-88b7-b5f204119600

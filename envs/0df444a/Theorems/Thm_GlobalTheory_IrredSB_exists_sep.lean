@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IrredSB_exists_sep
 -- name    : GlobalTheory.IrredSB.exists_sep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:22:33.633927+00:00
 -- url     : https://prove2.me/theorems/2a514b7e-3c95-4e31-a66a-34b09394fe40

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_cConst_zero
 -- name    : GlobalTheory.HeckeTwo.cConst_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:07:16.616794+00:00
 -- url     : https://prove2.me/theorems/f9fd34bd-050d-4159-92f4-9b4a668fa590

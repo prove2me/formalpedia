@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsotypicOrth_exists_atom_pair
 -- name    : GlobalTheory.IsotypicOrth.exists_atom_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:21:03.512353+00:00
 -- url     : https://prove2.me/theorems/70949bb1-9758-4c94-bbfa-1214eef83823

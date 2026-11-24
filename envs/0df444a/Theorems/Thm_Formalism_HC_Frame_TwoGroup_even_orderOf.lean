@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_TwoGroup_even_orderOf
 -- name    : Formalism.HC.Frame.TwoGroup.even_orderOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:54:03.353621+00:00
 -- url     : https://prove2.me/theorems/7bca6b63-45ee-416e-920b-ba55975bd453

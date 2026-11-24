@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TInvW_prod_inter
 -- name    : Formalism.FourierDecayAlt.Q.TInvW.prod_inter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:52:57.115792+00:00
 -- url     : https://prove2.me/theorems/afb78050-7272-4f3d-8138-7ea88438986a

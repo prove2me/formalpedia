@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InvDerMap_map_ev_axis
 -- name    : GlobalTheory.InvDerMap.map_ev_axis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:19:51.910804+00:00
 -- url     : https://prove2.me/theorems/8ab9b372-c0e5-4238-9b5b-0c278be1bd3a

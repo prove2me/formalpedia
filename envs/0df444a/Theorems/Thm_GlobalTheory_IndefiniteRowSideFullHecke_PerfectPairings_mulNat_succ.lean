@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_PerfectPairings_mulNat_succ
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.PerfectPairings.mulNat_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:14:22.755853+00:00
 -- url     : https://prove2.me/theorems/2a5cecf5-3a4e-4b5b-af38-9b9c8854bebd

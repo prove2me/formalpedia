@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralFrameCheck_vV_one
 -- name    : GlobalTheory.IntegralFrameCheck.vV_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:19:56.478175+00:00
 -- url     : https://prove2.me/theorems/a5cb6c2b-0aa1-4bb9-a791-f31c8fc2027a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermSign_induction_integers
 -- name    : GlobalTheory.HermSign.induction_integers
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:06:02.532384+00:00
 -- url     : https://prove2.me/theorems/92cdea4d-bb7d-49da-a395-e378db0aeb92

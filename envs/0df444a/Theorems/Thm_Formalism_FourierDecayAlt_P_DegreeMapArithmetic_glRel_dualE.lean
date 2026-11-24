@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DegreeMapArithmetic_glRel_dualE
 -- name    : Formalism.FourierDecayAlt.P.DegreeMapArithmetic.glRel_dualE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:14:37.328274+00:00
 -- url     : https://prove2.me/theorems/5315fa46-e20c-432e-aa97-81e2695140fa

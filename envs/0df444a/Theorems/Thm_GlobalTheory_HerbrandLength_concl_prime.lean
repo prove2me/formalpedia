@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HerbrandLength_concl_prime
 -- name    : GlobalTheory.HerbrandLength.concl_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:19:41.922481+00:00
 -- url     : https://prove2.me/theorems/e2e352c2-b2a4-48ee-a6f4-71a2ae12ef69

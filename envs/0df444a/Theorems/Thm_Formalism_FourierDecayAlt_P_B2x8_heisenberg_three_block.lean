@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_heisenberg_three_block
 -- name    : Formalism.FourierDecayAlt.P.B2x8.heisenberg_three_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:42:08.870067+00:00
 -- url     : https://prove2.me/theorems/4c03e873-eda8-4aa7-88fd-b5eeb31ae6ac

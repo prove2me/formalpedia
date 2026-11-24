@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_finite_dosetOf_fibre
 -- name    : GlobalTheory.InertZeta.finite_dosetOf_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:48:34.431108+00:00
 -- url     : https://prove2.me/theorems/eb4f78cb-9548-40dd-aa3b-0691f4ac8f79

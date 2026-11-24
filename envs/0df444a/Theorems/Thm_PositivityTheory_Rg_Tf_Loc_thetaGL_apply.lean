@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Tf_Loc_thetaGL_apply
 -- name    : PositivityTheory.Rg.Tf.Loc.thetaGL_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:34:56.156954+00:00
 -- url     : https://prove2.me/theorems/515cadcf-d91c-43d6-b943-c59990ed4e3b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_EtMeas_borel_units
 -- name    : GlobalTheory.JR.EtMeas.borel_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:23:02.238814+00:00
 -- url     : https://prove2.me/theorems/88a172e0-abb0-4802-9603-5ce496146a7d

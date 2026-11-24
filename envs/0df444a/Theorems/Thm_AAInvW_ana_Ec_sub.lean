@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_ana_Ec_sub
 -- name    : AAInvW.ana_Ec_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:29:22.344968+00:00
 -- url     : https://prove2.me/theorems/088c6bc9-9554-4ad4-89e7-dcfa01a7e92b

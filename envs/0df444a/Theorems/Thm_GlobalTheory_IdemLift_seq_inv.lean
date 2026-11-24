@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdemLift_seq_inv
 -- name    : GlobalTheory.IdemLift.seq_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:34:41.936686+00:00
 -- url     : https://prove2.me/theorems/5cca5693-9aec-4cd0-9846-e943c0931ff2

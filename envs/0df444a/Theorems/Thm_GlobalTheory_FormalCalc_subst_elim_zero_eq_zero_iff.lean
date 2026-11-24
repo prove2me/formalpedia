@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCalc_subst_elim_zero_eq_zero_iff
 -- name    : GlobalTheory.FormalCalc.subst_elim_zero_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:33:52.060005+00:00
 -- url     : https://prove2.me/theorems/fc9fe5ea-9378-4b63-9a06-0359581b9f17

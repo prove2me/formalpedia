@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_sigma_mem_intL
 -- name    : GlobalTheory.InertZeta.sigma_mem_intL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:19:29.776733+00:00
 -- url     : https://prove2.me/theorems/3e01e30d-1334-44a4-ba32-ea821a8233c7

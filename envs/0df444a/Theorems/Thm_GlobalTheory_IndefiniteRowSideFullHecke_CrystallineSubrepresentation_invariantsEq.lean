@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_CrystallineSubrepresentation_invariantsEq
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.CrystallineSubrepresentation.invariantsEq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:15:16.616873+00:00
 -- url     : https://prove2.me/theorems/e0475e66-1cb0-4a15-a34d-76d1f918b74d

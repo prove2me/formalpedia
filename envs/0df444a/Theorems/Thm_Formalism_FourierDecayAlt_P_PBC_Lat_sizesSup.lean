@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBC_Lat_sizesSup
 -- name    : Formalism.FourierDecayAlt.P.PBC.Lat.sizesSup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:31:46.931039+00:00
 -- url     : https://prove2.me/theorems/19e7146a-17c3-447f-add2-d7a0654614db

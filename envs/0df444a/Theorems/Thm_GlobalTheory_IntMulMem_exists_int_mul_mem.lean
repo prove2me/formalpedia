@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntMulMem_exists_int_mul_mem
 -- name    : GlobalTheory.IntMulMem.exists_int_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:18:44.089291+00:00
 -- url     : https://prove2.me/theorems/6e2db3a2-e610-43b6-bf7a-eb3fbc12e2b2

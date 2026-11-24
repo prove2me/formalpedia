@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HasQExpansion_mdifferentiable
 -- name    : GlobalTheory.HasQExpansion.mdifferentiable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:20:11.455179+00:00
 -- url     : https://prove2.me/theorems/9ddb35dd-dc7a-4e42-8a44-45663d11f773

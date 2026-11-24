@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_EndomorphismPullbackRigid_isoVal_trivIso
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.EndomorphismPullbackRigid.isoVal_trivIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:16:31.284738+00:00
 -- url     : https://prove2.me/theorems/3d6d2dc3-6a5f-45a9-ba85-8dd7c663abe7

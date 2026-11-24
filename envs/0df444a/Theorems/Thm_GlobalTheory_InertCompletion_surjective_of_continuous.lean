@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertCompletion_surjective_of_continuous
 -- name    : GlobalTheory.InertCompletion.surjective_of_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:16:44.894988+00:00
 -- url     : https://prove2.me/theorems/a7762850-34a0-4e7d-a71d-f38188e837c2

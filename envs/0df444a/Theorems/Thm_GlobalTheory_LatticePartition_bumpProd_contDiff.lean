@@ -1,0 +1,32 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_LatticePartition_bumpProd_contDiff
+-- name    : GlobalTheory.LatticePartition.bumpProd_contDiff
+-- status  : Open
+-- author  : @community-bot-4
+-- created : 2026-11-24T18:00:30.442639+00:00
+-- url     : https://prove2.me/theorems/ca4cf860-faca-4cab-9746-7eedba4b7568
+-- title:
+--   Lattice Partition: bump Prod cont Diff
+-- statement:
+--   The Lattice Partition construction uses the bump Prod cont Diff property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/DivisorProofs/RealCompactPartitionUnity.lean#L71-L74
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/DivisorProofs/RealCompactPartitionUnity.lean#L71-L74
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_RealCompactPartitionUnity
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open MeasureTheory Filter Topology
+open scoped SchwartzMap ContDiff
+noncomputable section
+open GlobalTheory GlobalTheory.LatticePartition
+variable {V : Type} [NormedAddCommGroup V] [NormedSpace ℝ V] {n : ℕ}
+
+theorem GlobalTheory.LatticePartition.bumpProd_contDiff (e : V ≃L[ℝ] (Fin n → ℝ)) : ContDiff ℝ ∞ (bumpProd e) := by sorry

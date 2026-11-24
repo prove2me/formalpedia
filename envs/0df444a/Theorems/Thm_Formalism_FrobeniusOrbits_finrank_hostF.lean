@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_finrank_hostF
 -- name    : Formalism.FrobeniusOrbits.finrank_hostF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:26:23.541928+00:00
 -- url     : https://prove2.me/theorems/7894a6ca-6441-4e18-83cb-a469b9a89f79

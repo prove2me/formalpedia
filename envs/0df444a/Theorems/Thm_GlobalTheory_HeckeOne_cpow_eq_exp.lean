@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeOne_cpow_eq_exp
 -- name    : GlobalTheory.HeckeOne.cpow_eq_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:03:31.712884+00:00
 -- url     : https://prove2.me/theorems/e3e33c27-c630-47b1-8d46-fd6f7b32281b

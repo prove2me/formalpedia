@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagPts_cellFrame_apply
 -- name    : GlobalTheory.FlagPts.cellFrame_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:38:45.987295+00:00
 -- url     : https://prove2.me/theorems/2f4b1127-5a91-4748-956a-a741d29ceaa3

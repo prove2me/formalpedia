@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertUnitOrb_ModelOfN_exists_mem_X_of_N_ne_zero
 -- name    : GlobalTheory.InertUnitOrb.ModelOfN.exists_mem_X_of_N_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:15:34.840798+00:00
 -- url     : https://prove2.me/theorems/cb0d4d86-c951-4bc2-8871-435a707d6f44

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_OriginChartMultiplication_mulSeries_succ
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.OriginChartMultiplication.mulSeries_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:14:34.953496+00:00
 -- url     : https://prove2.me/theorems/8c2df005-8e65-427f-b010-24ea766af0e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HostModel_trForm_mul_left
 -- name    : GlobalTheory.HostModel.trForm_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:37:46.162918+00:00
 -- url     : https://prove2.me/theorems/20cdcfb6-d590-4f2a-a081-5d49cbe65605

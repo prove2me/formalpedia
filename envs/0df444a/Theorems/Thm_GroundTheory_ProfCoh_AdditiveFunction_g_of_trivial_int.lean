@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_AdditiveFunction_g_of_trivial_int
 -- name    : GroundTheory.ProfCoh.AdditiveFunction.g_of_trivial_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:44:32.635302+00:00
 -- url     : https://prove2.me/theorems/50219a2e-51a0-41cd-83a5-395b5804b2c6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsHilbertPoly_shift
 -- name    : GlobalTheory.IsHilbertPoly.shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:21:30.825181+00:00
 -- url     : https://prove2.me/theorems/b2715612-7288-43aa-93b2-fe182699d108

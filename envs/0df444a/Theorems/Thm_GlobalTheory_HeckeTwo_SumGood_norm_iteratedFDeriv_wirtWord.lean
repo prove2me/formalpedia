@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_SumGood_norm_iteratedFDeriv_wirtWord
 -- name    : GlobalTheory.HeckeTwo.SumGood.norm_iteratedFDeriv_wirtWord
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:01:59.402249+00:00
 -- url     : https://prove2.me/theorems/885453fd-a750-417e-860d-25fc2e0585ae

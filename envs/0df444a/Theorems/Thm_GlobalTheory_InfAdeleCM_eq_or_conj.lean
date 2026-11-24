@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InfAdeleCM_eq_or_conj
 -- name    : GlobalTheory.InfAdeleCM.eq_or_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:19:14.310963+00:00
 -- url     : https://prove2.me/theorems/25b4db3f-82d3-48fc-9630-8461f2322b9f

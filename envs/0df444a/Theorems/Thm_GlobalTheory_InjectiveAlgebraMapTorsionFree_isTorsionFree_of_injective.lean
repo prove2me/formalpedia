@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InjectiveAlgebraMapTorsionFree_isTorsionFree_of_injective
 -- name    : GlobalTheory.InjectiveAlgebraMapTorsionFree.isTorsionFree_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:18:47.350296+00:00
 -- url     : https://prove2.me/theorems/e594d527-51dd-42a0-a2e2-016feade1bbb

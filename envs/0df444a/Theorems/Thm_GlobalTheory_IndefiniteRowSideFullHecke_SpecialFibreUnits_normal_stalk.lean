@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SpecialFibreUnits_normal_stalk
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SpecialFibreUnits.normal_stalk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:15:32.449747+00:00
 -- url     : https://prove2.me/theorems/4b174784-68f0-4194-9a9d-cab57e6f1994

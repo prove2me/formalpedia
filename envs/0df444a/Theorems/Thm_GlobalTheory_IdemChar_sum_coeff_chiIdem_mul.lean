@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdemChar_sum_coeff_chiIdem_mul
 -- name    : GlobalTheory.IdemChar.sum_coeff_chiIdem_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:04:37.228562+00:00
 -- url     : https://prove2.me/theorems/f1eb4389-dabb-434b-bcc2-27713a90df31

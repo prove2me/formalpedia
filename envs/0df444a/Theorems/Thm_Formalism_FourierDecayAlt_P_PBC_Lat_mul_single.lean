@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBC_Lat_mul_single
 -- name    : Formalism.FourierDecayAlt.P.PBC.Lat.mul_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:33:28.609176+00:00
 -- url     : https://prove2.me/theorems/6cf582d6-e01c-4bb5-aa96-73d5bf34b3d7

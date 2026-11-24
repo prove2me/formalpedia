@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_DualLattice_stdChar_key
 -- name    : GlobalTheory.JR.DualLattice.stdChar_key
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:25:15.080031+00:00
 -- url     : https://prove2.me/theorems/901e75bd-8d75-493c-a6d8-f82c84134c2a

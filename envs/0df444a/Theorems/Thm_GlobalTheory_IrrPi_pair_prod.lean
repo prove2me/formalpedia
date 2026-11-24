@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IrrPi_pair_prod
 -- name    : GlobalTheory.IrrPi.pair_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:21:59.808569+00:00
 -- url     : https://prove2.me/theorems/0613c58d-8914-48d9-b4a5-87f58c6544b2

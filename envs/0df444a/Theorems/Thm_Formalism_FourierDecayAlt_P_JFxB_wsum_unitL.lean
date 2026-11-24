@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxB_wsum_unitL
 -- name    : Formalism.FourierDecayAlt.P.JFxB.wsum_unitL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:26:11.721851+00:00
 -- url     : https://prove2.me/theorems/0fdaa953-40e1-4efa-b01b-a6c179c2fabf

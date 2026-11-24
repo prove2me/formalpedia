@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoMul_wirtWord_const_mul
 -- name    : GlobalTheory.HeckeTwoMul.wirtWord_const_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:14:43.49556+00:00
 -- url     : https://prove2.me/theorems/23fb886f-fe61-48ac-9c37-3fca5a8a2472

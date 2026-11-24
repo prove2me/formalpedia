@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_DeltaDatumCombinedCoefficient_eq_inclusion
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.DeltaDatumCombinedCoefficient.eq_inclusion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:15:29.115749+00:00
 -- url     : https://prove2.me/theorems/64f12aaa-0b08-4afa-92bc-e703c3e5b9bb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_polynomial_upper_sum
 -- name    : Formalism.FourierDecayAlt.P.NFx2.polynomial_upper_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:16:40.077799+00:00
 -- url     : https://prove2.me/theorems/26873e42-f2b2-4820-81d2-f22d37a88e97

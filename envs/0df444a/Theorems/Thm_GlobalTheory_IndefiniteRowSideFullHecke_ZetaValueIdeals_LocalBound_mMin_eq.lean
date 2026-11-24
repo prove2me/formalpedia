@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_ZetaValueIdeals_LocalBound_mMin_eq
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.ZetaValueIdeals.LocalBound.mMin_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:15:52.602082+00:00
 -- url     : https://prove2.me/theorems/68cf18d8-e1ff-42e4-bea7-813443731177

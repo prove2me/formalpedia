@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IterGain_append_mem
 -- name    : GlobalTheory.IterGain.append_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:22:37.016883+00:00
 -- url     : https://prove2.me/theorems/bd696b76-28ad-4162-88ca-2ca05a3efb23

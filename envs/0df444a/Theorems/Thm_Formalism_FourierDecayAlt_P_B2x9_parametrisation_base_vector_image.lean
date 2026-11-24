@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x9_parametrisation_base_vector_image
 -- name    : Formalism.FourierDecayAlt.P.B2x9.parametrisation_base_vector_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:43:21.933944+00:00
 -- url     : https://prove2.me/theorems/2dba1284-f192-4c94-a253-a622df8c0863

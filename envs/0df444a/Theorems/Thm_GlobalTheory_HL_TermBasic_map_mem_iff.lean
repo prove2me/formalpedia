@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_TermBasic_map_mem_iff
 -- name    : GlobalTheory.HL.TermBasic.map_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:00:55.717789+00:00
 -- url     : https://prove2.me/theorems/4c517f06-bc04-4e75-ae0e-6d49093ccb58

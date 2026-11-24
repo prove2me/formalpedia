@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HomTrace_finrank_hom
 -- name    : GlobalTheory.HomTrace.finrank_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:38:31.580372+00:00
 -- url     : https://prove2.me/theorems/3b536ee0-5491-4a45-95c2-650971a98bcf

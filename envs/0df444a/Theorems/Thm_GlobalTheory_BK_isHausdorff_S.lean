@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_isHausdorff_S
 -- name    : GlobalTheory.BK.isHausdorff_S
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:00:27.240812+00:00
 -- url     : https://prove2.me/theorems/db7cf645-8592-490c-980a-60103d02f898

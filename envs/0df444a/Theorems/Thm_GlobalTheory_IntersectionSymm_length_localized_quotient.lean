@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntersectionSymm_length_localized_quotient
 -- name    : GlobalTheory.IntersectionSymm.length_localized_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:20:24.596281+00:00
 -- url     : https://prove2.me/theorems/73571636-7049-4a23-8662-6a4553e9e1cd

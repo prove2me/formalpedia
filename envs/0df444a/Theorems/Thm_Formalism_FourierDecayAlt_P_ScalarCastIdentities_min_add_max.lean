@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ScalarCastIdentities_min_add_max
 -- name    : Formalism.FourierDecayAlt.P.ScalarCastIdentities.min_add_max
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:13:46.283802+00:00
 -- url     : https://prove2.me/theorems/790456c0-04c0-4cd1-a0bd-aff9bf56bfc5

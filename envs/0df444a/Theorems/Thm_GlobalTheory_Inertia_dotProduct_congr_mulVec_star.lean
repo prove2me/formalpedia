@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_dotProduct_congr_mulVec_star
 -- name    : GlobalTheory.Inertia.dotProduct_congr_mulVec_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:19:29.49186+00:00
 -- url     : https://prove2.me/theorems/bb7c8295-c17f-4463-b2fc-3fd764b81d64

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBC_Lat_mfac_scale
 -- name    : Formalism.FourierDecayAlt.P.PBC.Lat.mfac_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:33:12.550084+00:00
 -- url     : https://prove2.me/theorems/a8708d89-f3d0-4d32-85c1-2a909d4253d5

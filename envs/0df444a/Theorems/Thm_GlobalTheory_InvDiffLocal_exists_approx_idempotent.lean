@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InvDiffLocal_exists_approx_idempotent
 -- name    : GlobalTheory.InvDiffLocal.exists_approx_idempotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:20:04.149807+00:00
 -- url     : https://prove2.me/theorems/d9ecf08a-10b9-4c37-91ac-953147c58756

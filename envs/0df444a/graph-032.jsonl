@@ -34284,9 +34284,9 @@
 {"parent": "QMAPerfectCompleteness_Proof_ThresholdPreparation", "child": "QMAPerfectCompleteness_Proof_ReversibleGadgets", "via": ["statement"]}
 {"parent": "QMAPerfectCompleteness_Proof_ThresholdPreparation", "child": "QMAPerfectCompleteness_Proof_RegisterCopies", "via": ["statement"]}
 {"parent": "QMAPerfectCompleteness_Proof_ThresholdPreparation", "child": "QMAPerfectCompleteness_Proof_ControlCircuits", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise49GeneralBvDownwardPersistence", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise49GeneralBvDownwardPersistence", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise49GeneralBvDownwardPersistence", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise49GeneralBvDownwardPersistence", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise49GeneralBvDownwardPersistence", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.exercise49GeneralBvDownwardPersistence", "child": "LeanLevy_Levy_LevyKhintchine", "via": ["solution", "statement"]}
 {"parent": "StableMSR.Recovery.Compiler.BoundaryStatsProgram.boundary_statistics_program", "child": "StableMSR_ComponentGraphMemory", "via": ["solution", "statement"]}
 {"parent": "ActiveLanguageGeneration.Hierarchy.Supplement.sumCollection_active", "child": "ActiveLanguageGeneration_Hierarchy_Supplement_SumCollection", "via": ["statement"]}
 {"parent": "ActiveLanguageGeneration.Hierarchy.Supplement.sumCollection_active", "child": "ActiveLanguageGeneration_Hierarchy_ActiveKGeneratable", "via": ["statement"]}
@@ -48613,9 +48613,9 @@
 {"parent": "ZonotopeContainment_AdaptiveSampling_Supplement_OracleModel", "child": "ZonotopeContainment_AdaptiveSampling_Geometry", "via": ["statement"]}
 {"parent": "PolyEulerFlow.Supplement.theorem_9", "child": "PolyEulerFlow_Supplement_ScaleSystem", "via": ["statement"]}
 {"parent": "PolyEulerFlow.Supplement.theorem_9", "child": "PolyEulerFlow_IsForcedSolution", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.exercise34TemperedStableDecomposition", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.exercise34TemperedStableDecomposition", "child": "Kyprianou_Ch03_TemperedStableMeasure", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.exercise34TemperedStableDecomposition", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
+{"parent": "Kyprianou.Ch03.exercise34TemperedStableDecomposition", "child": "Kyprianou_Ch01_LevyTripletExponent", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.exercise34TemperedStableDecomposition", "child": "Kyprianou_Ch03_TemperedStableMeasure", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.exercise34TemperedStableDecomposition", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
 {"parent": "liuyao_ca_fd889115_k1_Analysis_ComplexComputeQuotient", "child": "liuyao_ca_fd889115_k1_Analysis_ComplexComputeQuotientAlgebra", "via": ["statement"]}
 {"parent": "VAS5Reach_Supplement_fastGrowing", "child": "ArrighiStarFree_HalfLevel_SpaceMachine", "via": ["statement"]}
 {"parent": "QuantumSepPoly_Frobenius_Supplement_IdealState", "child": "QuantumSepPoly_Frobenius_Supplement_Parameters", "via": ["statement"]}
@@ -48843,7 +48843,7 @@
 {"parent": "BlockSSM.Supplement.theorem_16", "child": "BlockSSM_Supplement_Cascade", "via": ["statement"]}
 {"parent": "BlockSSM.Supplement.theorem_16", "child": "BlockSSM_coverDim", "via": ["statement"]}
 {"parent": "BlockSSM.Supplement.theorem_16", "child": "BlockSSM_Supplement_VbSeries", "via": ["statement"]}
-{"parent": "SymmetricDepthHierarchy.ConstantDepth.Supplement.lemma_C_4", "child": "SymmetricDepthHierarchy_ConstantDepth_Supplement_Paths", "via": ["statement"]}
+{"parent": "SymmetricDepthHierarchy.ConstantDepth.Supplement.lemma_C_4", "child": "SymmetricDepthHierarchy_ConstantDepth_Supplement_Paths", "via": ["solution", "statement"]}
 {"parent": "LineVsPoint.Supplement.theorem_1_2", "child": "LineVsPoint_acc", "via": ["statement"]}
 {"parent": "LineVsPoint.Supplement.theorem_1_2", "child": "LineVsPoint_agr", "via": ["statement"]}
 {"parent": "GeoQAC_Supplement_gateCount", "child": "GeoQAC_QACCircuit", "via": ["statement"]}
@@ -51690,7 +51690,7 @@
 {"parent": "AgnosticTNS.Supplement.theorem_4_10", "child": "AgnosticTNS_encTreeIndex", "via": ["statement"]}
 {"parent": "AgnosticTNS.Supplement.theorem_4_10", "child": "AgnosticTNS_leafBranching", "via": ["statement"]}
 {"parent": "HindsightGain.Uniform.Supplement.lemma_A_3", "child": "HindsightGain_Uniform_Supplement_planted", "via": ["statement"]}
-{"parent": "DistributionTheoryMission.uniform_boundedness", "child": "liuyao_ca_fd889115_k1_Distributions_ConvergenceTargets", "via": ["statement"]}
+{"parent": "DistributionTheoryMission.uniform_boundedness", "child": "liuyao_ca_fd889115_k1_Distributions_ConvergenceTargets", "via": ["solution", "statement"]}
 {"parent": "QTolTest1673_Unified_Supplement_Partitions", "child": "QTolTest1673_Unified_Supplement_Model", "via": ["statement"]}
 {"parent": "LowErrExt.Supplement.theorem_6_14", "child": "LowErrExt_iterDiff", "via": ["statement"]}
 {"parent": "LowErrExt.Supplement.theorem_6_14", "child": "LowErrExt_H2", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegrableExpNegAbs_integrable_exp_neg_mul_abs
 -- name    : GlobalTheory.IntegrableExpNegAbs.integrable_exp_neg_mul_abs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:19:20.245378+00:00
 -- url     : https://prove2.me/theorems/afb01525-1bad-4b87-9eee-46e2c34bbb1f

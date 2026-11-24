@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertiaDVR_perfectField_residueField_maximalIdeal
 -- name    : GlobalTheory.InertiaDVR.perfectField_residueField_maximalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:19:27.745882+00:00
 -- url     : https://prove2.me/theorems/9c436124-8161-499e-ac11-3038397c498c

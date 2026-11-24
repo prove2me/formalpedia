@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_PlusPolynomialInclusion_starL_starL
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.PlusPolynomialInclusion.starL_starL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:37:30.507114+00:00
 -- url     : https://prove2.me/theorems/6c26d0d2-e387-48db-b045-e497ac995cd8

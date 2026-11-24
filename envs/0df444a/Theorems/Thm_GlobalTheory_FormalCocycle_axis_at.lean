@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCocycle_axis_at
 -- name    : GlobalTheory.FormalCocycle.axis_at
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:33:37.451012+00:00
 -- url     : https://prove2.me/theorems/5d071127-a5b1-46e8-8d32-69896abf57f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Algebra_Etale_exists_moduleFinite_model_subalgebra_fg
 -- name    : Algebra.Etale.exists_moduleFinite_model_subalgebra_fg
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-24T17:23:24.489344+00:00
 -- url     : https://prove2.me/theorems/a5cf614d-2d4b-4198-9f79-c59937e86311

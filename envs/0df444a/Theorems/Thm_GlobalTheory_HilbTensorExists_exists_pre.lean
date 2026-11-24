@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbTensorExists_exists_pre
 -- name    : GlobalTheory.HilbTensorExists.exists_pre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:21:32.430827+00:00
 -- url     : https://prove2.me/theorems/0dabdc12-47b0-4b72-abd4-a3e99b6c81d9

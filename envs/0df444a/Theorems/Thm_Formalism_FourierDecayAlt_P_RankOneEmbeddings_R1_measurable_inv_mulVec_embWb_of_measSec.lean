@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RankOneEmbeddings_R1_measurable_inv_mulVec_embWb_of_measSec
 -- name    : Formalism.FourierDecayAlt.P.RankOneEmbeddings.R1.measurable_inv_mulVec_embWb_of_measSec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:22:29.109575+00:00
 -- url     : https://prove2.me/theorems/9d7bbe5b-67a1-4de5-ad31-85399e1f3064

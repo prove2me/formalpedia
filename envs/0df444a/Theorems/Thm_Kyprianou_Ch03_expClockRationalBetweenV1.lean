@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_expClockRationalBetweenV1
 -- name    : Kyprianou.Ch03.expClockRationalBetweenV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T16:46:01.122503+00:00
 -- url     : https://prove2.me/theorems/e223628d-945a-4b97-b627-3f6c33352c27

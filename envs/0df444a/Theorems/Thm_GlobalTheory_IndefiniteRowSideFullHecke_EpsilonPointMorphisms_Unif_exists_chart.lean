@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_EpsilonPointMorphisms_Unif_exists_chart
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.EpsilonPointMorphisms.Unif.exists_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:14:16.75398+00:00
 -- url     : https://prove2.me/theorems/1060b1a0-9b8d-4336-b0b4-7b2b628bf9e1

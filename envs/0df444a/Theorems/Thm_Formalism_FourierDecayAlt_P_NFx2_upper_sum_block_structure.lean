@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_upper_sum_block_structure
 -- name    : Formalism.FourierDecayAlt.P.NFx2.upper_sum_block_structure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:16:57.310556+00:00
 -- url     : https://prove2.me/theorems/00326ee5-338c-4c3c-93eb-ee346057ae2b

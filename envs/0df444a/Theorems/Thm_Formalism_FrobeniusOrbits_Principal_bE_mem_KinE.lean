@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Principal_bE_mem_KinE
 -- name    : Formalism.FrobeniusOrbits.Principal.bE_mem_KinE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:38:51.864802+00:00
 -- url     : https://prove2.me/theorems/dce49240-f6c5-4caf-a45f-3c4bacb21913

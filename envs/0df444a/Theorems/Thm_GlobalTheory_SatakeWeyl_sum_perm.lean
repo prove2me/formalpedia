@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_sum_perm
 -- name    : GlobalTheory.SatakeWeyl.sum_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:33:08.549612+00:00
 -- url     : https://prove2.me/theorems/ea25ef86-1d51-4406-b31b-14221ff2a54f

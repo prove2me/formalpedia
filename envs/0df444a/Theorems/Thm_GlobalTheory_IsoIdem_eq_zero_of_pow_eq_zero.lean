@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsoIdem_eq_zero_of_pow_eq_zero
 -- name    : GlobalTheory.IsoIdem.eq_zero_of_pow_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:20:59.432811+00:00
 -- url     : https://prove2.me/theorems/792f7e57-c27d-45d5-a676-6d19f28952d5

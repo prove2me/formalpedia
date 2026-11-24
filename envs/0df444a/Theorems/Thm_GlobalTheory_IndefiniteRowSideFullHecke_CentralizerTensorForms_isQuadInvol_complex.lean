@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_CentralizerTensorForms_isQuadInvol_complex
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.CentralizerTensorForms.isQuadInvol_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:15:28.041044+00:00
 -- url     : https://prove2.me/theorems/10c5bb46-5687-47b8-b940-1c57b387cb71

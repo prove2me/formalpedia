@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_DeltaDatumCombinedCoefficient_exists_bundleIso
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.DeltaDatumCombinedCoefficient.exists_bundleIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:16:17.722633+00:00
 -- url     : https://prove2.me/theorems/bd8adcc0-3480-4652-b8cf-34fa661a062d

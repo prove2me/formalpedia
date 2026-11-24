@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JHypEquiv_row_one
 -- name    : GlobalTheory.JHypEquiv.row_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:23:44.119085+00:00
 -- url     : https://prove2.me/theorems/ae8ce1e5-64db-4a23-9ea8-45e70508d55b

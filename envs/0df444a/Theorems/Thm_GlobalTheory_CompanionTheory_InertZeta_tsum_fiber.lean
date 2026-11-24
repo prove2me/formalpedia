@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertZeta_tsum_fiber
 -- name    : GlobalTheory.CompanionTheory.InertZeta.tsum_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:03:46.520561+00:00
 -- url     : https://prove2.me/theorems/31b0c783-ce6c-4ddc-89c5-4a71cedda569

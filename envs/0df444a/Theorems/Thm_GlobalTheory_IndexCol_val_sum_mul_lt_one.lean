@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndexCol_val_sum_mul_lt_one
 -- name    : GlobalTheory.IndexCol.val_sum_mul_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:15:44.023+00:00
 -- url     : https://prove2.me/theorems/b612010c-e287-455e-996e-c5291d354f7c

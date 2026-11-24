@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_temperedStableMeasureReflectionV1
 -- name    : Kyprianou.Ch03.temperedStableMeasureReflectionV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T16:49:29.956787+00:00
 -- url     : https://prove2.me/theorems/b19952ee-dae2-457d-a956-63a0769ed6ab

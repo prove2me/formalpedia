@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegerUnitBound_exists_unit_norm_add_le
 -- name    : GlobalTheory.IntegerUnitBound.exists_unit_norm_add_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:19:26.90293+00:00
 -- url     : https://prove2.me/theorems/6ca611fa-accf-4d84-b913-468568a9a738

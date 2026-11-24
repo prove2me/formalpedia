@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IrreducibleMembership_mem_of_irreducible
 -- name    : GlobalTheory.IrreducibleMembership.mem_of_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:21:26.201801+00:00
 -- url     : https://prove2.me/theorems/3ea1b531-b182-4730-a9aa-b24f35f59dda

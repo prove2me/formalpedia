@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_IwahoriDoubleCosets_IsExponents_unique
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.IwahoriDoubleCosets.IsExponents.unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:14:29.108835+00:00
 -- url     : https://prove2.me/theorems/9a34ba9b-fb1e-4c60-bf72-7e75f810579d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_AdmissibleLieWords_normSq_cd
 -- name    : Formalism.FourierDecayAlt.P.AdmissibleLieWords.normSq_cd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:26:37.839663+00:00
 -- url     : https://prove2.me/theorems/5fe38b08-e7b3-49a1-b163-b0cb5bf4eb90

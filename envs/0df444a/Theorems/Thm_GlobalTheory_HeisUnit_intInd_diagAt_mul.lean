@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeisUnit_intInd_diagAt_mul
 -- name    : GlobalTheory.HeisUnit.intInd_diagAt_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:18:06.142355+00:00
 -- url     : https://prove2.me/theorems/93a8dc03-9aa3-4244-97af-740a959a28fb

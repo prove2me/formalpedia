@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_waveSiteAll
 -- name    : Formalism.FourierDecayAlt.P5.waveSiteAll
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:41:59.968316+00:00
 -- url     : https://prove2.me/theorems/45aaefe1-77c6-495d-9fa5-7452469f1152

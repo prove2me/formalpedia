@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_VMonicMonicShiftEvaluation_capelli_vMonic
 -- name    : Formalism.FourierDecayAlt.Q.VMonicMonicShiftEvaluation.capelli_vMonic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:53:51.624116+00:00
 -- url     : https://prove2.me/theorems/075002d9-9a79-4db6-a3c4-d4d535e8eb60

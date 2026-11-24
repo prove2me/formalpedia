@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OperatorRepresentations_Rep_bridge
 -- name    : Formalism.FourierDecayAlt.P.OperatorRepresentations.Rep.bridge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:10:31.356126+00:00
 -- url     : https://prove2.me/theorems/e72a0b20-f364-48b3-85a6-186f9a6cfdb8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_EtProdAbs_distribHaarChar_prod
 -- name    : GlobalTheory.JR.EtProdAbs.distribHaarChar_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:31:13.780816+00:00
 -- url     : https://prove2.me/theorems/65d9936b-e5cf-472a-b3f7-701a4a588a1d

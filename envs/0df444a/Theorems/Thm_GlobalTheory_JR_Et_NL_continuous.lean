@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Et_NL_continuous
 -- name    : GlobalTheory.JR.Et.NL_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:26:38.355372+00:00
 -- url     : https://prove2.me/theorems/24d42ac0-cbf0-47c9-85d4-c7a2a4b9eaf9

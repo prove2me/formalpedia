@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_GLMatrixJoining_glueCols_mul_uMat
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.GLMatrixJoining.glueCols_mul_uMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:14:01.723806+00:00
 -- url     : https://prove2.me/theorems/34cd684e-e845-4f45-adf4-8d8dc090c412

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_TrivialBiextension_sum_ulift_three
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.TrivialBiextension.sum_ulift_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:16:03.675328+00:00
 -- url     : https://prove2.me/theorems/f3d371e4-6609-4591-8b7f-bfcb9186bdc4

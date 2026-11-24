@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_isPrecomplete_S
 -- name    : GlobalTheory.BK.isPrecomplete_S
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:59:16.042347+00:00
 -- url     : https://prove2.me/theorems/df0c07c5-c4ca-45a5-af42-e640aaed78e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdealChain_pi_nnreal_smul
 -- name    : GlobalTheory.IdealChain.pi_nnreal_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:05:39.417211+00:00
 -- url     : https://prove2.me/theorems/71db9707-d356-4c64-b0c3-cf92bb2a63b0

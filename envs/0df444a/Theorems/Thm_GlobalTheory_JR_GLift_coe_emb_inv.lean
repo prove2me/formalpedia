@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_GLift_coe_emb_inv
 -- name    : GlobalTheory.JR.GLift.coe_emb_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:31:55.496319+00:00
 -- url     : https://prove2.me/theorems/fbec6200-d812-4b98-aa55-15edbb07915b

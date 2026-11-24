@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FiniteSumLocalExpansion_skewRow
 -- name    : Formalism.FourierDecayAlt.P.FiniteSumLocalExpansion.skewRow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:48:04.418039+00:00
 -- url     : https://prove2.me/theorems/13765bc5-b390-457c-9c94-5a2b4e044346

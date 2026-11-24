@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_TraceDualDifferent_covol_pos
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.TraceDualDifferent.covol_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:15:41.581296+00:00
 -- url     : https://prove2.me/theorems/c4858c4b-e5ec-4b16-85be-50c2c0ea5636

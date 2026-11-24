@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortestPlanarDisjoint_Main_corollary_5_4
 -- name    : ShortestPlanarDisjoint.Main.corollary_5_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-11T03:39:27.801898+00:00
 -- url     : https://prove2.me/theorems/2b48e0a0-0224-4377-aec7-077931ce04b1

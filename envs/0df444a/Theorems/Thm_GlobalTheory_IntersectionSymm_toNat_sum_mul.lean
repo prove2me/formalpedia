@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntersectionSymm_toNat_sum_mul
 -- name    : GlobalTheory.IntersectionSymm.toNat_sum_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:20:06.62796+00:00
 -- url     : https://prove2.me/theorems/e2772220-1011-4e5b-b6a4-0f6320b594b8

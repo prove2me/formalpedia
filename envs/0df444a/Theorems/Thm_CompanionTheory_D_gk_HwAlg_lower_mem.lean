@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_HwAlg_lower_mem
 -- name    : CompanionTheory.D.gk.HwAlg.lower_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:49:14.285161+00:00
 -- url     : https://prove2.me/theorems/02a14c14-5d61-4945-b969-8fdc7e5a8094

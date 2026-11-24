@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_restriction_good_family
 -- name    : Formalism.FourierDecayAlt.P.restriction_good_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:39:56.240188+00:00
 -- url     : https://prove2.me/theorems/3802b695-2a5d-4884-bae2-c1604f41237a

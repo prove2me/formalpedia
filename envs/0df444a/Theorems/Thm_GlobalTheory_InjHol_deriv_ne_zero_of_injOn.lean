@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InjHol_deriv_ne_zero_of_injOn
 -- name    : GlobalTheory.InjHol.deriv_ne_zero_of_injOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:19:13.306325+00:00
 -- url     : https://prove2.me/theorems/0ff3431e-a038-48b1-bc47-d590bb7affdf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JCx1_needs_hsVec_zero
 -- name    : Formalism.FourierDecayAlt.P.JCx1.needs.hsVec_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:44:51.385615+00:00
 -- url     : https://prove2.me/theorems/7080abc3-7bde-4860-84c0-a4545a451abc

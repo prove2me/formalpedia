@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Idele_exists_smul_eq
 -- name    : GlobalTheory.Idele.exists_smul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:03:52.206116+00:00
 -- url     : https://prove2.me/theorems/24a738b1-d268-4933-98b5-0107a2adab31

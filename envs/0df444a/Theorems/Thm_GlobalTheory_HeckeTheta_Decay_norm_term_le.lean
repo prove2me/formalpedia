@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTheta_Decay_norm_term_le
 -- name    : GlobalTheory.HeckeTheta.Decay.norm_term_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:08:05.902973+00:00
 -- url     : https://prove2.me/theorems/3b017823-ee35-4b0a-8546-67d7efa0bcda

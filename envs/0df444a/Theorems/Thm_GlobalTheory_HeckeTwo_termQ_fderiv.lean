@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_termQ_fderiv
 -- name    : GlobalTheory.HeckeTwo.termQ_fderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:12:33.56474+00:00
 -- url     : https://prove2.me/theorems/31c60150-982c-4a0e-9f93-1e5021fc6244

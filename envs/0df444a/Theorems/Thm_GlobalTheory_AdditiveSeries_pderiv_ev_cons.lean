@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdditiveSeries_pderiv_ev_cons
 -- name    : GlobalTheory.AdditiveSeries.pderiv_ev_cons
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:58:59.568677+00:00
 -- url     : https://prove2.me/theorems/3903c7a0-abf5-4b84-8daa-6585fdea7569

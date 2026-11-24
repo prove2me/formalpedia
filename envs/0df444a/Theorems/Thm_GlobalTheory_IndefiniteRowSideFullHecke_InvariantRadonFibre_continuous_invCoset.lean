@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_InvariantRadonFibre_continuous_invCoset
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.InvariantRadonFibre.continuous_invCoset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:14:09.131805+00:00
 -- url     : https://prove2.me/theorems/5852b6ae-38ec-4173-8ef2-cec075b250a7

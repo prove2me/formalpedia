@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBD_gamLev_pos
 -- name    : Formalism.FourierDecayAlt.P.PBD.gamLev_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:33:59.741285+00:00
 -- url     : https://prove2.me/theorems/a51e138e-e31e-40da-8e42-3541bdc5156a

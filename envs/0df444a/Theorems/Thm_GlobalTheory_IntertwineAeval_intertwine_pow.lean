@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntertwineAeval_intertwine_pow
 -- name    : GlobalTheory.IntertwineAeval.intertwine_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:19:57.377508+00:00
 -- url     : https://prove2.me/theorems/e8007153-80f8-4cdb-b797-f3bae777f02d

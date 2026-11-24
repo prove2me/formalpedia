@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux10_ck_of_chart
 -- name    : Formalism.FourierDecayAlt.P.Ux10.ck_of_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:26:12.420986+00:00
 -- url     : https://prove2.me/theorems/5fe7d84e-db9a-4c23-a665-dcc9c3602d05

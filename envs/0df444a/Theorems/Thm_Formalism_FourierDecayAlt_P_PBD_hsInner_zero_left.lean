@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBD_hsInner_zero_left
 -- name    : Formalism.FourierDecayAlt.P.PBD.hsInner_zero_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:33:33.07074+00:00
 -- url     : https://prove2.me/theorems/82453a86-a488-4e68-8d83-ea32951f8112

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_phi_xi
 -- name    : GlobalTheory.BK.PhiMod.phi_xi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:42:37.843065+00:00
 -- url     : https://prove2.me/theorems/7eeef598-13bc-4eaa-8ad0-2954f96157a1

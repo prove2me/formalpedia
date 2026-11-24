@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InvariantSupremum_eq_bot_or_eq_top_of_invariant
 -- name    : GlobalTheory.InvariantSupremum.eq_bot_or_eq_top_of_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:19:55.411873+00:00
 -- url     : https://prove2.me/theorems/9cc2670c-c27f-4506-a963-4e5b5549516c

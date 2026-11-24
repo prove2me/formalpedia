@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntConj_mul_krylov_of_semiconj
 -- name    : GlobalTheory.IntConj.mul_krylov_of_semiconj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:19:19.831212+00:00
 -- url     : https://prove2.me/theorems/e7b06ba3-e13e-4dd7-8378-cd7c0db3423a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeisUnit_intInd_diagAt_eq_sum
 -- name    : GlobalTheory.HeisUnit.intInd_diagAt_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:17:49.967878+00:00
 -- url     : https://prove2.me/theorems/fbe0054e-e1a4-42e1-975b-58fa51aea179

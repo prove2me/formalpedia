@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_AdmissibleLieWords_zinv_cd
 -- name    : Formalism.FourierDecayAlt.P.AdmissibleLieWords.zinv_cd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:25:23.266842+00:00
 -- url     : https://prove2.me/theorems/ef49669f-950c-4fa6-a3ea-118881966133

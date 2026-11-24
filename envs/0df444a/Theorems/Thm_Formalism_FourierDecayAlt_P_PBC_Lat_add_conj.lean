@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBC_Lat_add_conj
 -- name    : Formalism.FourierDecayAlt.P.PBC.Lat.add_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:31:00.177614+00:00
 -- url     : https://prove2.me/theorems/961c0316-a548-4c37-bef5-744ecb0551ce

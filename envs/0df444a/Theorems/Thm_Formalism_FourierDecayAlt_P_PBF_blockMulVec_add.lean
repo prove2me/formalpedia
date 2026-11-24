@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBF_blockMulVec_add
 -- name    : Formalism.FourierDecayAlt.P.PBF.blockMulVec_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:32:58.271073+00:00
 -- url     : https://prove2.me/theorems/d5c54ca4-2515-4457-a216-b2ac3c07c974

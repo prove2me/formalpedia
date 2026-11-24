@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsolatedTheoremFour_main
 -- name    : GlobalTheory.IsolatedTheoremFour.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:21:26.797959+00:00
 -- url     : https://prove2.me/theorems/72573dc3-bc1b-4347-b0b7-fd7414bf1b7d

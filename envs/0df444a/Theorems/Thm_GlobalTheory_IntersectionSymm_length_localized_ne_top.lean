@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntersectionSymm_length_localized_ne_top
 -- name    : GlobalTheory.IntersectionSymm.length_localized_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:20:33.198373+00:00
 -- url     : https://prove2.me/theorems/6286f276-31f4-44df-a434-cbec9bcda693

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_TwistMem_mem_twist_iff
 -- name    : GlobalTheory.HilbFam.TwistMem.mem_twist_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:20:53.59333+00:00
 -- url     : https://prove2.me/theorems/0feb54bd-0b6b-491e-b06a-0de6837595d8

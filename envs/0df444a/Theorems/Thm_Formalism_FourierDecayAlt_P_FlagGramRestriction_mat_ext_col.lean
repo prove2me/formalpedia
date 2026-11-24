@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FlagGramRestriction_mat_ext_col
 -- name    : Formalism.FourierDecayAlt.P.FlagGramRestriction.mat_ext_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:45:12.614072+00:00
 -- url     : https://prove2.me/theorems/5f6807bc-1804-4e9a-891c-8a5493c52b0f

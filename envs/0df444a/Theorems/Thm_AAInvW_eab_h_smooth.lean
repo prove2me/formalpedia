@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_eab_h_smooth
 -- name    : AAInvW.eab_h_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:50:38.088156+00:00
 -- url     : https://prove2.me/theorems/f051cc02-37a0-4aa6-b99d-0099fd358ad4

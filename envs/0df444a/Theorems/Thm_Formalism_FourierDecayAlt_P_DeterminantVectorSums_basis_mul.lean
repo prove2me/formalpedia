@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DeterminantVectorSums_basis_mul
 -- name    : Formalism.FourierDecayAlt.P.DeterminantVectorSums.basis_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:32:08.529507+00:00
 -- url     : https://prove2.me/theorems/e27881c3-b95a-4fca-bb99-cd12aa6da9b8

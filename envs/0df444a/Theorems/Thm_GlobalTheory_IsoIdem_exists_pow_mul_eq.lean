@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsoIdem_exists_pow_mul_eq
 -- name    : GlobalTheory.IsoIdem.exists_pow_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:21:20.252345+00:00
 -- url     : https://prove2.me/theorems/72601dc2-a745-424b-a82b-c469655173b4

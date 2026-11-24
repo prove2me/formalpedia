@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertUnitOrb_ModelOfN_sigma_smul
 -- name    : GlobalTheory.InertUnitOrb.ModelOfN.sigma_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:15:51.191868+00:00
 -- url     : https://prove2.me/theorems/39e28cae-7ed3-4983-b84e-43e7bf5fad47

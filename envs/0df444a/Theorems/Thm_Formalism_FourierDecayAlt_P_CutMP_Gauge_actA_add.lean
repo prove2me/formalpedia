@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_actA_add
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.actA_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:58:29.030072+00:00
 -- url     : https://prove2.me/theorems/3b92cb14-828d-40c8-9473-ab8f700525ce

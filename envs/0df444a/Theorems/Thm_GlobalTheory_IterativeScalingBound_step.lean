@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IterativeScalingBound_step
 -- name    : GlobalTheory.IterativeScalingBound.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:22:36.275731+00:00
 -- url     : https://prove2.me/theorems/f7151e35-303a-4d63-a08b-1363a23231b6

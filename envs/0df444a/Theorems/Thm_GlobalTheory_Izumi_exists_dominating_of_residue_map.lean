@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Izumi_exists_dominating_of_residue_map
 -- name    : GlobalTheory.Izumi.exists_dominating_of_residue_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:23:39.58102+00:00
 -- url     : https://prove2.me/theorems/08b6dc39-cdcd-4b07-baad-cb6edb511bbe

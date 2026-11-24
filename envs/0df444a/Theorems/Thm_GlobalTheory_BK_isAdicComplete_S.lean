@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_isAdicComplete_S
 -- name    : GlobalTheory.BK.isAdicComplete_S
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:59:15.212664+00:00
 -- url     : https://prove2.me/theorems/b1e01ed5-2cd7-4f60-b022-60dd2470011a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BorderedDeterminants_icast_apply
 -- name    : Formalism.FourierDecayAlt.P.BorderedDeterminants.icast_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:30:00.727184+00:00
 -- url     : https://prove2.me/theorems/1f7a1ae7-1071-403e-a214-b75bee1ed64f

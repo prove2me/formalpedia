@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBD_weight_product_indep_of_real_parameter
 -- name    : Formalism.FourierDecayAlt.P.PBD.weight_product_indep_of_real_parameter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:46:52.674083+00:00
 -- url     : https://prove2.me/theorems/8653297e-81a0-4c59-adb9-3c2e21ea0f04

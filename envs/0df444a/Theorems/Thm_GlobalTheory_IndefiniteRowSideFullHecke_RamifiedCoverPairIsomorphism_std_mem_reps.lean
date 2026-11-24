@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_RamifiedCoverPairIsomorphism_std_mem_reps
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.RamifiedCoverPairIsomorphism.std_mem_reps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:16:14.497992+00:00
 -- url     : https://prove2.me/theorems/112bccf1-88ce-4a46-a42b-71e4f87881d3

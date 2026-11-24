@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HopfQuot_lam_integral
 -- name    : GlobalTheory.HopfQuot.lam_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:37:33.543434+00:00
 -- url     : https://prove2.me/theorems/54a1db28-afb2-4d1c-9500-7ebc8bb34412

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HopfQuot_shear_hit
 -- name    : GlobalTheory.HopfQuot.shear_hit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:37:52.709279+00:00
 -- url     : https://prove2.me/theorems/2f386fb5-f2d4-4720-92ba-b7f19a9b8fe5

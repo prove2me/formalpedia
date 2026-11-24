@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBD_toStd_ok_iff
 -- name    : Formalism.FourierDecayAlt.P.PBD.toStd_ok_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:33:33.257739+00:00
 -- url     : https://prove2.me/theorems/734ba7fb-a608-41c6-953f-6eedcd61a2ba

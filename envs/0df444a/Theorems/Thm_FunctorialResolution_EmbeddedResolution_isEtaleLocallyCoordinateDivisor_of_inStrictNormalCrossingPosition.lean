@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isEtaleLocallyCoordinateDivisor_of_inStrictNormalCrossingPosition
 -- name    : FunctorialResolution.EmbeddedResolution.isEtaleLocallyCoordinateDivisor_of_inStrictNormalCrossingPosition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:48:24.899254+00:00
 -- url     : https://prove2.me/theorems/106a7fbe-dab4-4355-80f0-90412276fa12

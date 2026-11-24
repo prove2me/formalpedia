@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeAdjoint_axis_pt_zero
 -- name    : GlobalTheory.GaugeAdjoint.axis_pt_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:48:30.209144+00:00
 -- url     : https://prove2.me/theorems/a05f5867-ed4b-4fe1-a1d7-2e5b029c0b2f

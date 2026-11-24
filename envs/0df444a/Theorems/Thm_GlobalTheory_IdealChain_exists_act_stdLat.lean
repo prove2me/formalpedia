@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdealChain_exists_act_stdLat
 -- name    : GlobalTheory.IdealChain.exists_act_stdLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:12:20.378628+00:00
 -- url     : https://prove2.me/theorems/62ac1a91-9b70-4135-aff6-46ca07dc6018

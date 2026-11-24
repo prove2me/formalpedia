@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralPi_isIntegral_pi
 -- name    : GlobalTheory.IntegralPi.isIntegral_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:20:12.666512+00:00
 -- url     : https://prove2.me/theorems/c92ede8e-4923-4df3-845a-f9b92404a0d9

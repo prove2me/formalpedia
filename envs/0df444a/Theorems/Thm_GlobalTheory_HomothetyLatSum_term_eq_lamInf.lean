@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HomothetyLatSum_term_eq_lamInf
 -- name    : GlobalTheory.HomothetyLatSum.term_eq_lamInf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:37:49.904594+00:00
 -- url     : https://prove2.me/theorems/27cf02a7-998c-419e-b7e8-3778cab8cfca

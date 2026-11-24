@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdemLift_step_integ
 -- name    : GlobalTheory.IdemLift.step_integ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:12:59.530478+00:00
 -- url     : https://prove2.me/theorems/56a58cee-842c-4f18-8847-fb8446e5dd03

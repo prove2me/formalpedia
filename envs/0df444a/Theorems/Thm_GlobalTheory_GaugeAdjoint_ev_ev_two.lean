@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeAdjoint_ev_ev_two
 -- name    : GlobalTheory.GaugeAdjoint.ev_ev_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:01:28.23818+00:00
 -- url     : https://prove2.me/theorems/7b1dc608-8342-4177-a9ae-bee3adc5be8e

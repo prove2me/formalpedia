@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_wirtWord_const_fun
 -- name    : GlobalTheory.HeckeTwo.wirtWord_const_fun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:12:38.920047+00:00
 -- url     : https://prove2.me/theorems/1b551765-153f-4728-90a6-359b1accc788

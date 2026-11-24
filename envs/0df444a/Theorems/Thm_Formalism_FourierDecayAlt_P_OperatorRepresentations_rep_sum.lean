@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OperatorRepresentations_rep_sum
 -- name    : Formalism.FourierDecayAlt.P.OperatorRepresentations.rep_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:08:56.928127+00:00
 -- url     : https://prove2.me/theorems/79f098db-952a-4e33-bfce-735cd03fa68b

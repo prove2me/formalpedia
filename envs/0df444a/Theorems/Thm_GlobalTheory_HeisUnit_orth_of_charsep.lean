@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeisUnit_orth_of_charsep
 -- name    : GlobalTheory.HeisUnit.orth_of_charsep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:17:46.706729+00:00
 -- url     : https://prove2.me/theorems/97f36fb2-6778-4032-8deb-ee90de176fb9

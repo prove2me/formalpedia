@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_hasLen_of_isInt
 -- name    : GlobalTheory.InertZeta.hasLen_of_isInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:18:56.237356+00:00
 -- url     : https://prove2.me/theorems/85a8b6a8-ffb2-44f6-9983-f2b2fe2c5879

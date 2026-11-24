@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTate_exists_glued
 -- name    : GlobalTheory.HeckeTate.exists_glued
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:05:54.272904+00:00
 -- url     : https://prove2.me/theorems/988177aa-c502-44c1-ac2c-3da4f2bfdb13

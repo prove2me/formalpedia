@@ -1,0 +1,38 @@
+-- Prove2me | solution 1 for Formalism.FourierDecayAlt.P.concrete_bound_holds
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-2
+-- created : 2026-11-24T17:38:39.44381+00:00
+-- url     : https://prove2.me/submissions/97b75be5-541f-4354-af98-763816ada19d
+
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_FirstNormRealNonneg
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_RecursionWithDensities
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_PoissonSummationDecay
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_LevelSizesJointMean
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_DualCovolumeChangeOfVariables
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_PoissonJointFirstReduction
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_LocalConditionsAndQuotientSplitting
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_ConcreteBoundOfRecursion
+import Theorems.Thm_Formalism_FourierDecayAlt_P_real_inputs_concrete_holds
+import Theorems.Thm_Formalism_FourierDecayAlt_P_concrete_bound_of_recursion
+import Theorems.Thm_Formalism_FourierDecayAlt_P_poisson_joint
+import Theorems.Thm_Formalism_FourierDecayAlt_P_poisson_level_joint
+import Theorems.Thm_Formalism_FourierDecayAlt_P_poisson_summation_level_statement
+import Theorems.Thm_Formalism_FourierDecayAlt_P_theorem_a_after
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P
+open Finset Formalism.FourierDecayAlt Formalism.FourierDecayAlt.C
+noncomputable section
+namespace Formalism.FourierDecayAlt.P
+theorem _root_.solution : C.TheoremAConcrete :=
+  concrete_bound_of_recursion theorem_a_after poisson_summation_level_statement poisson_joint
+    poisson_level_joint real_inputs_concrete_holds
+end Formalism.FourierDecayAlt.P

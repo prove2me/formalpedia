@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Principal_one_ne
 -- name    : Formalism.FrobeniusOrbits.Principal.one_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:39:01.517796+00:00
 -- url     : https://prove2.me/theorems/c377be0e-d0b0-4458-893d-8ce947eec297

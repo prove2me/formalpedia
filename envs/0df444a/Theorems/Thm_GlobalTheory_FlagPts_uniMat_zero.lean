@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagPts_uniMat_zero
 -- name    : GlobalTheory.FlagPts.uniMat_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:38:29.588814+00:00
 -- url     : https://prove2.me/theorems/3835f87c-673a-43d7-b407-43adf211a496

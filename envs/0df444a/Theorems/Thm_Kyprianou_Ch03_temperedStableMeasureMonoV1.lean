@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_temperedStableMeasureMonoV1
 -- name    : Kyprianou.Ch03.temperedStableMeasureMonoV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T16:49:35.266801+00:00
 -- url     : https://prove2.me/theorems/032bd031-190a-49a7-a513-8fe94182ce7c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx6_qm_dropS
 -- name    : Formalism.FourierDecayAlt.P.Qx6.qm_dropS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:34:02.00787+00:00
 -- url     : https://prove2.me/theorems/c3c38e41-618b-4a5c-bd6a-d34c2ea1b884

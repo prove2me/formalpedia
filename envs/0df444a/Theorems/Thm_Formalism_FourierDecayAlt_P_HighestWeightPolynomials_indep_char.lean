@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HighestWeightPolynomials_indep_char
 -- name    : Formalism.FourierDecayAlt.P.HighestWeightPolynomials.indep_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:28:50.880464+00:00
 -- url     : https://prove2.me/theorems/33eaff0c-4c0b-467b-bd30-581638a7abe5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HyperplaneLocBound_norm_le_of_circle
 -- name    : GlobalTheory.HyperplaneLocBound.norm_le_of_circle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:13:07.840746+00:00
 -- url     : https://prove2.me/theorems/f719ed54-8fd4-4677-84c5-2d240ac9a474

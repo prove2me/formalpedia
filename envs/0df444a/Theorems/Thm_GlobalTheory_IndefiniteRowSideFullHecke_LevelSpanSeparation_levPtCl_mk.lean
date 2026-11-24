@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_LevelSpanSeparation_levPtCl_mk
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.LevelSpanSeparation.levPtCl_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:14:54.592213+00:00
 -- url     : https://prove2.me/theorems/5010f705-71ad-41a2-96ca-6d13f14dafa8

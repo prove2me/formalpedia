@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_gval_linear_change
 -- name    : GlobalTheory.HilbFam.gval_linear_change
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:35:09.184493+00:00
 -- url     : https://prove2.me/theorems/0675aec7-ea03-4fab-848d-e3a0f63af339

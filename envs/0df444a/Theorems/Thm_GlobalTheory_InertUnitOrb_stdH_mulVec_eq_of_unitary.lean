@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertUnitOrb_stdH_mulVec_eq_of_unitary
 -- name    : GlobalTheory.InertUnitOrb.stdH_mulVec_eq_of_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:15:41.828802+00:00
 -- url     : https://prove2.me/theorems/5cfa6486-60b6-454c-8af5-02e587f1bff5

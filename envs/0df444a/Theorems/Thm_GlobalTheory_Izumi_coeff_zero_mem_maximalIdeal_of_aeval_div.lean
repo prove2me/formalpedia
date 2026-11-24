@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Izumi_coeff_zero_mem_maximalIdeal_of_aeval_div
 -- name    : GlobalTheory.Izumi.coeff_zero_mem_maximalIdeal_of_aeval_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:22:12.13242+00:00
 -- url     : https://prove2.me/theorems/60a9951e-e77b-4091-a6e0-b585bcd66d72

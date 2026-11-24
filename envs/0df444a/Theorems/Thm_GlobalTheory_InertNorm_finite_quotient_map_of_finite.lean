@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertNorm_finite_quotient_map_of_finite
 -- name    : GlobalTheory.InertNorm.finite_quotient_map_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:15:57.83801+00:00
 -- url     : https://prove2.me/theorems/1a66b828-cf89-4fdb-9b33-cfba2a72290e

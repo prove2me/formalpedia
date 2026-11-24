@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_galE_pow
 -- name    : Formalism.FrobeniusOrbits.galE_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:22:42.994167+00:00
 -- url     : https://prove2.me/theorems/7e058693-b5be-4869-9cb2-b50a9f75e60c

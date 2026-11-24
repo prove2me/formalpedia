@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSiegel_neg_mul_inv_of_symplectic
 -- name    : GlobalTheory.IsSiegel.neg_mul_inv_of_symplectic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:21:46.237816+00:00
 -- url     : https://prove2.me/theorems/17298fa9-d541-4c91-9929-2b8d009e2945

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_stableFracMomentNegativeTailWeightEqV1
 -- name    : Kyprianou.Ch03.stableFracMomentNegativeTailWeightEqV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T16:18:45.616538+00:00
 -- url     : https://prove2.me/theorems/825384a1-bfda-4be4-862c-b76234b50ba2

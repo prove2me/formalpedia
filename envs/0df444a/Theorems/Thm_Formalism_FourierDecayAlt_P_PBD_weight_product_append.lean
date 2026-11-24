@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBD_weight_product_append
 -- name    : Formalism.FourierDecayAlt.P.PBD.weight_product_append
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:33:25.524207+00:00
 -- url     : https://prove2.me/theorems/cd112fbd-5cea-40a7-a7e4-d2352f54a880

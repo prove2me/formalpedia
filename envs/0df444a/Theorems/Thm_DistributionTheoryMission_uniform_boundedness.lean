@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistributionTheoryMission_uniform_boundedness
 -- name    : DistributionTheoryMission.uniform_boundedness
--- status  : Open
+-- status  : Disproved
 -- author  : @liuyao
 -- created : 2026-11-16T01:55:07.438905+00:00
 -- url     : https://prove2.me/theorems/81591a06-6edf-479f-b91a-ad1c53c339b5

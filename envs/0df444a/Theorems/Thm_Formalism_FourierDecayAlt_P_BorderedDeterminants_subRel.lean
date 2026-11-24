@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BorderedDeterminants_subRel
 -- name    : Formalism.FourierDecayAlt.P.BorderedDeterminants.subRel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:29:43.717795+00:00
 -- url     : https://prove2.me/theorems/ae021513-d39d-453b-b49d-5b5309a45cba

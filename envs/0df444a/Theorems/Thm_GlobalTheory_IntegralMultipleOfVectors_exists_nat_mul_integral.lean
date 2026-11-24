@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralMultipleOfVectors_exists_nat_mul_integral
 -- name    : GlobalTheory.IntegralMultipleOfVectors.exists_nat_mul_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:20:38.601893+00:00
 -- url     : https://prove2.me/theorems/23db287b-6f4f-4ded-8a02-5117410d5053

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_genFun_counts_hasSum
 -- name    : GlobalTheory.InertZeta.genFun_counts_hasSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:19:34.252334+00:00
 -- url     : https://prove2.me/theorems/a390d82e-99b6-4ee8-897c-7a86150bfe3b

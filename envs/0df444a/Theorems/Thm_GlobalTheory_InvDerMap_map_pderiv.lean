@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InvDerMap_map_pderiv
 -- name    : GlobalTheory.InvDerMap.map_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:20:01.939026+00:00
 -- url     : https://prove2.me/theorems/0db6ff49-b56e-4c06-afe2-20c272d9d699

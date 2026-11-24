@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_al_cL_eq
 -- name    : Formalism.FourierDecayAlt.P.B2x8.al_cL_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:42:18.944801+00:00
 -- url     : https://prove2.me/theorems/c243e92b-0337-43a9-b187-572d889785bb

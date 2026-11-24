@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Et_CharpolySep_squarefree_minpoly
 -- name    : GlobalTheory.JR.Et.CharpolySep.squarefree_minpoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:27:05.974426+00:00
 -- url     : https://prove2.me/theorems/af8502a8-7472-438a-ba63-5a893f857e36

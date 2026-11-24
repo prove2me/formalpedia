@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndexCol_mem_maximalIdeal_iff
 -- name    : GlobalTheory.IndexCol.mem_maximalIdeal_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:15:23.543812+00:00
 -- url     : https://prove2.me/theorems/d89ae8ca-9da9-40cd-9278-c4d24056ea30

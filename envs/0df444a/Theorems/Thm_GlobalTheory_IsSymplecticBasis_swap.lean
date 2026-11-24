@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSymplecticBasis_swap
 -- name    : GlobalTheory.IsSymplecticBasis.swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:20:58.942577+00:00
 -- url     : https://prove2.me/theorems/9fb143a6-0c59-4252-8c10-323deeddfb45

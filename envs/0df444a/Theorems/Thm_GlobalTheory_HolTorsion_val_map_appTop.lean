@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolTorsion_val_map_appTop
 -- name    : GlobalTheory.HolTorsion.val_map_appTop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:38:23.299816+00:00
 -- url     : https://prove2.me/theorems/ae72fb8c-8115-4332-88ba-5b055193e7a6

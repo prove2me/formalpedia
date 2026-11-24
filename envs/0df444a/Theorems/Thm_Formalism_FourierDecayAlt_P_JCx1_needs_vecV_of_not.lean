@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JCx1_needs_vecV_of_not
 -- name    : Formalism.FourierDecayAlt.P.JCx1.needs.vecV_of_not
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:45:58.421005+00:00
 -- url     : https://prove2.me/theorems/32272193-6e7f-4f1f-b4db-8e14bbe2a029

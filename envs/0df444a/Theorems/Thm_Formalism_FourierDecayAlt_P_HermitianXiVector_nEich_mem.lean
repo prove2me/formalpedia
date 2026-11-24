@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianXiVector_nEich_mem
 -- name    : Formalism.FourierDecayAlt.P.HermitianXiVector.nEich_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:44:03.192906+00:00
 -- url     : https://prove2.me/theorems/bbe689d8-39cd-4d43-8f91-cd6e33711985

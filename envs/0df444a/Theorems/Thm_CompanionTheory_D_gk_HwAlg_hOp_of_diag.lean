@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_HwAlg_hOp_of_diag
 -- name    : CompanionTheory.D.gk.HwAlg.hOp_of_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:50:02.483923+00:00
 -- url     : https://prove2.me/theorems/05e17bdb-e926-462e-b56d-14c3a2d00e95

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBF_pr_zero_fst
 -- name    : Formalism.FourierDecayAlt.P.PBF.pr_zero_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:34:01.440797+00:00
 -- url     : https://prove2.me/theorems/58561178-5b64-4312-bf6b-c3035d0d19ed

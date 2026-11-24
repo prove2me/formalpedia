@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_TermSmooth_hasDerivAt_intT
 -- name    : GlobalTheory.HeckeTwo.TermSmooth.hasDerivAt_intT
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:02:16.049351+00:00
 -- url     : https://prove2.me/theorems/a10839b9-40b4-4f60-8f33-2eda0a6c25b5

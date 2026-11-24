@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_ZetaValueIdeals_mMin_mem
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.ZetaValueIdeals.mMin_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:15:56.578059+00:00
 -- url     : https://prove2.me/theorems/617a21ee-2eff-43ea-9bcd-a69334053d78

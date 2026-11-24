@@ -2719,8 +2719,8 @@
 {"parent": "Formalism.FourierDecayAlt.P.Wd9.flip_mul_J_insert", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_DiagScalarCommuteOfEntries", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Wd9.flip_mul_J_insert", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SecondEmbedMulFirstEmbedApply", "via": ["solution", "statement"]}
 {"parent": "DeletedPrimes.IsRegular.isMSRegular", "child": "DeletedPrimes_Basic", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.IdemLift.seq_inv", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_CommOfBezout", "via": ["statement"]}
-{"parent": "GlobalTheory.IdemLift.seq_inv", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_ExistsIntegralIdempotentLiftNewton", "via": ["statement"]}
+{"parent": "GlobalTheory.IdemLift.seq_inv", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_CommOfBezout", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.IdemLift.seq_inv", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_ExistsIntegralIdempotentLiftNewton", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.TwoBlockPoint.upJ_int", "child": "Formalism.FourierDecayAlt.P.A5x8.sec_mem_int", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.TwoBlockPoint.upJ_int", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_FirstKernelExplicitFormula", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.TwoBlockPoint.upJ_int", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_TwoBlockPoint", "via": ["solution", "statement"]}

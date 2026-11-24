@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IwahoriInj_exists_flip
 -- name    : GlobalTheory.IwahoriInj.exists_flip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:23:41.484796+00:00
 -- url     : https://prove2.me/theorems/65b7c367-e674-47b9-bbd2-3e160d8e01a4

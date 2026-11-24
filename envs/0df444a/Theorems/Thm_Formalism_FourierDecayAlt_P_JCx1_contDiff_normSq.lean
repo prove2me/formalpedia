@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JCx1_contDiff_normSq
 -- name    : Formalism.FourierDecayAlt.P.JCx1.contDiff_normSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:46:43.47592+00:00
 -- url     : https://prove2.me/theorems/c6a3df16-c100-4fee-9d25-11b5beb68e4e

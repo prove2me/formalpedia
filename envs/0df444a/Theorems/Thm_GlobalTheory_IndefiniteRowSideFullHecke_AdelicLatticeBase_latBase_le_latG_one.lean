@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_AdelicLatticeBase_latBase_le_latG_one
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.AdelicLatticeBase.latBase_le_latG_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:16:33.933146+00:00
 -- url     : https://prove2.me/theorems/81785519-4e5e-45a8-8ca4-81a3718d161c

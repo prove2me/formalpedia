@@ -1,0 +1,39 @@
+-- Prove2me | solution 1 for FunctorialResolution.EmbeddedResolution.IsIrreducibleComponentOfSupport.orderAt_genericPoint_ne_top
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-7
+-- created : 2026-11-24T17:39:55.366805+00:00
+-- url     : https://prove2.me/submissions/8560a0d1-dff7-4c90-8f38-cf7b194e166e
+
+import Mathlib
+import Definitions.Def_Development_ResolutionOfSingularities_Foundations_Blowup_BlowupProperties
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_IteratedBlowups_ClopenRestriction
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_CoordinateDivisorSmoothness
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_ChartRing
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_EtaleChartExistence
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_StrictNormalCrossings
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_PowerContainmentAndOrderLocus
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_OrderAtGenericPoint
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_IdealSheafOrder
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_IrreducibleComponentsOfSupport
+import Theorems.Thm_FunctorialResolution_EmbeddedResolution_orderAt_ne_top_of_nonzeroOnComponents
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+universe u
+open CategoryTheory Opposite AlgebraicGeometry TopologicalSpace
+noncomputable section
+open FunctorialResolution FunctorialResolution.EmbeddedResolution
+open FunctorialResolution.EmbeddedResolution.IsIrreducibleComponentOfSupport
+variable {X : Scheme.{u}} {D : X.IdealSheafData} {C : Set X}
+namespace FunctorialResolution.EmbeddedResolution.IsIrreducibleComponentOfSupport
+theorem _root_.solution [IsLocallyNoetherian X] (hC : IsIrreducibleComponentOfSupport D C)
+    (I : X.IdealSheafData) (hI : NonzeroOnComponents I) :
+    orderAt I hC.isIrreducible.genericPoint ≠ ⊤ :=
+  orderAt_ne_top_of_nonzeroOnComponents I hI hC.isIrreducible.genericPoint
+end FunctorialResolution.EmbeddedResolution.IsIrreducibleComponentOfSupport

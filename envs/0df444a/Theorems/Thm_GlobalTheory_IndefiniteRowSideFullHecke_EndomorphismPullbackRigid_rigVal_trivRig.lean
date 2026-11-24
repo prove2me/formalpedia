@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_EndomorphismPullbackRigid_rigVal_trivRig
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.EndomorphismPullbackRigid.rigVal_trivRig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:13:57.91371+00:00
 -- url     : https://prove2.me/theorems/7ad4d90c-1009-46b3-8467-42f386dc1465

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_trace_denominator_of_hasLevel
 -- name    : GlobalTheory.HilbFam.trace_denominator_of_hasLevel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:21:59.400573+00:00
 -- url     : https://prove2.me/theorems/68eb6c56-fc14-4666-beb4-bdf3e1909086

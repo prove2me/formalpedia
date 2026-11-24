@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MemQueryFeas_lemma_17
 -- name    : MemQueryFeas.lemma_17
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T02:32:43.11739+00:00
 -- url     : https://prove2.me/theorems/c6d663d8-dfdc-49a9-8f48-aaf7d246f9d1

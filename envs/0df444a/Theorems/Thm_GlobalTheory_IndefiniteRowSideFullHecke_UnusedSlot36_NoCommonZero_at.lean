@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_UnusedSlot36_NoCommonZero_at
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.UnusedSlot36.NoCommonZero.at
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:15:22.561192+00:00
 -- url     : https://prove2.me/theorems/851cdc87-c9ee-4a39-a593-d6b539ae6cb8

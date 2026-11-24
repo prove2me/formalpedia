@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_LevelSpanSeparation_indCoeff_eq
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.LevelSpanSeparation.indCoeff_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:14:55.410483+00:00
 -- url     : https://prove2.me/theorems/039d1e43-9a3f-4871-8429-e36c76d09065

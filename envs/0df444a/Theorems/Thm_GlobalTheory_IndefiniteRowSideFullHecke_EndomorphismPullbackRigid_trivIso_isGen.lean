@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_EndomorphismPullbackRigid_trivIso_isGen
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.EndomorphismPullbackRigid.trivIso_isGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:13:55.262487+00:00
 -- url     : https://prove2.me/theorems/332779ee-c1b4-429c-b111-fdadca62bf20

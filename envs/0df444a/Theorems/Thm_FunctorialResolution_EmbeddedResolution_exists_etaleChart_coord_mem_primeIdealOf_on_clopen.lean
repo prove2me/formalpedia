@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_exists_etaleChart_coord_mem_primeIdealOf_on_clopen
 -- name    : FunctorialResolution.EmbeddedResolution.exists_etaleChart_coord_mem_primeIdealOf_on_clopen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:58:40.841724+00:00
 -- url     : https://prove2.me/theorems/1c5c6209-ea1e-46e5-b910-f39a85db53bb

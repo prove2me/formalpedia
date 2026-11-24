@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeStrip_classPartFun_add
 -- name    : GlobalTheory.HeckeStrip.classPartFun_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:04:17.682697+00:00
 -- url     : https://prove2.me/theorems/e8000bf1-f2b0-4a6a-96a6-70915a1ebbaa

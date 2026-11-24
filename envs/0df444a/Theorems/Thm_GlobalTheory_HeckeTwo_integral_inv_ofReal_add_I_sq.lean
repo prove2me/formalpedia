@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_integral_inv_ofReal_add_I_sq
 -- name    : GlobalTheory.HeckeTwo.integral_inv_ofReal_add_I_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:13:01.257905+00:00
 -- url     : https://prove2.me/theorems/e0ada2e3-b53b-4816-bca3-e01b9ee7ae3e

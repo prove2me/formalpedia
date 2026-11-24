@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InvDiffLocal_exists_not_mem_mul_mem
 -- name    : GlobalTheory.InvDiffLocal.exists_not_mem_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:19:59.442048+00:00
 -- url     : https://prove2.me/theorems/6c0ca034-7bdc-4bbd-bddb-699210da4487

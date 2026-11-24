@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoExp_hTrans_zero_neg
 -- name    : GlobalTheory.HeckeTwoExp.hTrans_zero_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:14:18.513394+00:00
 -- url     : https://prove2.me/theorems/75543104-f21a-424b-af70-69a5b6a091b7

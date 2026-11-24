@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_long_weyl_parametrisation_twist
 -- name    : Formalism.FourierDecayAlt.P.B2x8.long_weyl_parametrisation_twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:00:09.295813+00:00
 -- url     : https://prove2.me/theorems/c2c68702-5262-484f-b4bb-d6d2d8bb50fb

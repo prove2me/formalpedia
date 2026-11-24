@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Idele_exists_adele_of_end_one
 -- name    : GlobalTheory.Idele.exists_adele_of_end_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:03:48.002692+00:00
 -- url     : https://prove2.me/theorems/54c4999e-386a-4be8-a218-febbf8cba91c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_invVol_conj_modular
 -- name    : GlobalTheory.HL.invVol_conj_modular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:00:38.603967+00:00
 -- url     : https://prove2.me/theorems/96081b99-7199-48b7-9a35-5daa0638a4e5

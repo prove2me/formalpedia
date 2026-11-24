@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBA_block_cross_le
 -- name    : Formalism.FourierDecayAlt.P.PBA.block_cross_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:13:18.317549+00:00
 -- url     : https://prove2.me/theorems/e0936d71-1efe-43a3-a8a2-f2cecafe9afb

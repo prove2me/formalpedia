@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_LieAlgebraWeightVectors_comb_match
 -- name    : Formalism.FourierDecayAlt.Q.LieAlgebraWeightVectors.comb_match
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:45:11.696274+00:00
 -- url     : https://prove2.me/theorems/6928b96a-4331-4184-88a2-eff668409bcf

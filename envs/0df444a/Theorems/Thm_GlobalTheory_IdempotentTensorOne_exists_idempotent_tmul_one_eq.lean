@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdempotentTensorOne_exists_idempotent_tmul_one_eq
 -- name    : GlobalTheory.IdempotentTensorOne.exists_idempotent_tmul_one_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:12:57.252202+00:00
 -- url     : https://prove2.me/theorems/3ff7a02e-a5dc-46b7-afb2-04454a5b32ef

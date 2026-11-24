@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeOne_unrAt_normChar
 -- name    : GlobalTheory.HeckeOne.unrAt_normChar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:07.144751+00:00
 -- url     : https://prove2.me/theorems/4e762072-fd08-42d2-a9ce-d5cccff40a67

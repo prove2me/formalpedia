@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SmoothnessOnGoodSet_ckOn_dLR_rho
 -- name    : Formalism.FourierDecayAlt.P.SmoothnessOnGoodSet.ckOn_dLR_rho
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:05:34.900852+00:00
 -- url     : https://prove2.me/theorems/cc5d9008-ab1b-45ae-a535-f960dc7c36c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_PeriodMapPresentation_Presents_unique
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.PeriodMapPresentation.Presents.unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:14:20.274842+00:00
 -- url     : https://prove2.me/theorems/13a8300b-f15a-464c-92fd-57f4ff5c01ac

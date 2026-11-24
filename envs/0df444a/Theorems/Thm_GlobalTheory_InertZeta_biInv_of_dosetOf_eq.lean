@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_biInv_of_dosetOf_eq
 -- name    : GlobalTheory.InertZeta.biInv_of_dosetOf_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:36:46.70895+00:00
 -- url     : https://prove2.me/theorems/b360d1f4-6989-4eeb-b46f-642e1ce3477a

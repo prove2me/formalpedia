@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_prod_expClock_discountMeasurableV1
 -- name    : Kyprianou.Ch03.prod_expClock_discountMeasurableV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T16:46:00.639504+00:00
 -- url     : https://prove2.me/theorems/dadf1479-5f82-44fd-8345-1a828cd5908a

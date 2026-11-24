@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeDomain_upq_right
 -- name    : GlobalTheory.HodgeDomain.upq_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:35:53.433688+00:00
 -- url     : https://prove2.me/theorems/238ce6c7-7cf5-4590-888b-b1d514402797

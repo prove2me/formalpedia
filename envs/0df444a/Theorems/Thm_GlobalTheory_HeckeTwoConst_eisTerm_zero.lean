@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoConst_eisTerm_zero
 -- name    : GlobalTheory.HeckeTwoConst.eisTerm_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:14:26.702082+00:00
 -- url     : https://prove2.me/theorems/aa5b25e9-f9ed-4553-8ffe-7d0585f04dcc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsoIdem_star_mul_comm
 -- name    : GlobalTheory.IsoIdem.star_mul_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:21:33.450857+00:00
 -- url     : https://prove2.me/theorems/bbc6c40e-0507-4316-9667-eaddb729e343

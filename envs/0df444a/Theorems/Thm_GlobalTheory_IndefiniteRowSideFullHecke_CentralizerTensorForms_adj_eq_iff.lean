@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_CentralizerTensorForms_adj_eq_iff
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.CentralizerTensorForms.adj_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:16:44.881504+00:00
 -- url     : https://prove2.me/theorems/3840db45-b63d-4c2f-899b-e76c822f9de3

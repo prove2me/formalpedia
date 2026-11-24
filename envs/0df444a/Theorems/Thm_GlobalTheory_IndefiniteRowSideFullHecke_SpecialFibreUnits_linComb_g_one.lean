@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SpecialFibreUnits_linComb_g_one
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SpecialFibreUnits.linComb_g_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:15:21.803105+00:00
 -- url     : https://prove2.me/theorems/9de891e7-97a0-4c63-8d77-ebd121c62615

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_GeneratorValues_pull_val
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.GeneratorValues.pull_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:13:47.561939+00:00
 -- url     : https://prove2.me/theorems/853e6196-77e1-415a-b315-6111d5adf063

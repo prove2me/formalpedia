@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntertwiningOperators_intertwine
 -- name    : GlobalTheory.IntertwiningOperators.intertwine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:19:56.49013+00:00
 -- url     : https://prove2.me/theorems/40a2a33a-87b9-41a7-bd94-b82345a365f3

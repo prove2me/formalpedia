@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_PlusPolynomialInclusion_alpha_val
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.PlusPolynomialInclusion.alpha_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:15:14.156029+00:00
 -- url     : https://prove2.me/theorems/670e06c1-af49-4685-8991-c670f9ab5516

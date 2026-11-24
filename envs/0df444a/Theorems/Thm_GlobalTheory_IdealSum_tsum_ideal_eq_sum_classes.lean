@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdealSum_tsum_ideal_eq_sum_classes
 -- name    : GlobalTheory.IdealSum.tsum_ideal_eq_sum_classes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:04:33.819873+00:00
 -- url     : https://prove2.me/theorems/2f71ffc9-42bb-428e-b1b6-d498a3670dd4

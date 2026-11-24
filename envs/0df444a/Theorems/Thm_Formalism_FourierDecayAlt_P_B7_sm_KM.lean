@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B7_sm_KM
 -- name    : Formalism.FourierDecayAlt.P.B7.sm_KM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:06:19.942798+00:00
 -- url     : https://prove2.me/theorems/4d24f1f3-a5ce-4069-b8ce-cf49598df913

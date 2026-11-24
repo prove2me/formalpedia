@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_temperedStableProductDifferenceCharV1
 -- name    : Kyprianou.Ch03.temperedStableProductDifferenceCharV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T16:51:18.887477+00:00
 -- url     : https://prove2.me/theorems/595ef909-c337-4655-96d7-02b5d780cd53

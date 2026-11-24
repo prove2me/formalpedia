@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_GLCompact_Bm_act
 -- name    : GlobalTheory.JR.GLCompact.Bm_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:23:38.865798+00:00
 -- url     : https://prove2.me/theorems/65545f39-b0ba-40a6-a1f8-de2302df7d34

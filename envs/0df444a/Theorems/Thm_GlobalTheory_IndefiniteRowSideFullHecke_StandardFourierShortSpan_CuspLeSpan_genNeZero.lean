@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_StandardFourierShortSpan_CuspLeSpan_genNeZero
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.StandardFourierShortSpan.CuspLeSpan.genNeZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:17:41.058072+00:00
 -- url     : https://prove2.me/theorems/d88661a2-dc9a-484e-9cea-a423c08431cb

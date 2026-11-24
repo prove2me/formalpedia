@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndivisibleSection_exists_generator_of_iso
 -- name    : GlobalTheory.IndivisibleSection.exists_generator_of_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:15:58.378454+00:00
 -- url     : https://prove2.me/theorems/53816d6a-7e07-4e7f-8f15-574df5627d4e

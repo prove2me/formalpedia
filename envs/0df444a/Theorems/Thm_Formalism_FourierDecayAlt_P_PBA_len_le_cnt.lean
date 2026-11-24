@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBA_len_le_cnt
 -- name    : Formalism.FourierDecayAlt.P.PBA.len_le_cnt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:30:41.805103+00:00
 -- url     : https://prove2.me/theorems/ff8016a1-d0b9-4938-8d60-d2c53e186218

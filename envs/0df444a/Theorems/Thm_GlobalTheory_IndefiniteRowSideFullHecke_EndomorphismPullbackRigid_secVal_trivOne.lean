@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_EndomorphismPullbackRigid_secVal_trivOne
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.EndomorphismPullbackRigid.secVal_trivOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:13:52.04705+00:00
 -- url     : https://prove2.me/theorems/92ce247f-57ab-46e1-8227-17af1862448f

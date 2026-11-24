@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndexCol_conj_apply
 -- name    : GlobalTheory.IndexCol.conj_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:15:54.676884+00:00
 -- url     : https://prove2.me/theorems/26f75442-474b-4c90-a6c1-e33a60cfd067

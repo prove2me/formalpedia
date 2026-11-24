@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertZeta_finite_fiber
 -- name    : GlobalTheory.CompanionTheory.InertZeta.finite_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:06:06.921446+00:00
 -- url     : https://prove2.me/theorems/1cc38e1f-f2de-49cf-b992-1e07d6c6834e

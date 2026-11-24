@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTheta_gauss_zero
 -- name    : GlobalTheory.HeckeTheta.gauss_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:02:06.200224+00:00
 -- url     : https://prove2.me/theorems/00f10a2e-5ad5-41ae-bce3-24c0c2af4f5f

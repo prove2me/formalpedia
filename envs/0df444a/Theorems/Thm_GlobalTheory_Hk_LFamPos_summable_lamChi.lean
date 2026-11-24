@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_LFamPos_summable_lamChi
 -- name    : GlobalTheory.Hk.LFamPos.summable_lamChi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:21:48.421359+00:00
 -- url     : https://prove2.me/theorems/89390d25-92f1-4a6f-87c5-c832c3279784

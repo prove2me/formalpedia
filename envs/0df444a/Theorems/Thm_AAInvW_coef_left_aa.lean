@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_coef_left_aa
 -- name    : AAInvW.coef_left_aa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:04:47.07515+00:00
 -- url     : https://prove2.me/theorems/584f4c4e-19a7-48b8-96e6-533ca26a004f

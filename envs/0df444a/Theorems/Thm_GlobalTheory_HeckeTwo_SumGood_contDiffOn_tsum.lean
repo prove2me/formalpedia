@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_SumGood_contDiffOn_tsum
 -- name    : GlobalTheory.HeckeTwo.SumGood.contDiffOn_tsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:06:41.002581+00:00
 -- url     : https://prove2.me/theorems/a97a1aa6-fcda-437a-91fd-cd23d34a03d1

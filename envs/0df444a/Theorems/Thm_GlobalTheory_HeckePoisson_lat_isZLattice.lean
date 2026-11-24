@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckePoisson_lat_isZLattice
 -- name    : GlobalTheory.HeckePoisson.lat_isZLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:04:56.115986+00:00
 -- url     : https://prove2.me/theorems/e4ea1cb6-72ec-496f-9469-de74efbf7c55

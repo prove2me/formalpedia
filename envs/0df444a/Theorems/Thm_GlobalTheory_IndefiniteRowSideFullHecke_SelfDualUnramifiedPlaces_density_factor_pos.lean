@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SelfDualUnramifiedPlaces_density_factor_pos
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SelfDualUnramifiedPlaces.density_factor_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:14:30.151013+00:00
 -- url     : https://prove2.me/theorems/e65c1560-7b2a-4ad6-ab87-4daee555db3e

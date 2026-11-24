@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagTransport_gram_cpt_base
 -- name    : GlobalTheory.FlagTransport.gram_cpt_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:31:49.524508+00:00
 -- url     : https://prove2.me/theorems/c9bdc0ec-d3be-4247-99b7-9de5de02d5e8

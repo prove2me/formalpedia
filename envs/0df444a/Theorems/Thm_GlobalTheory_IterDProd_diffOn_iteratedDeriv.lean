@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IterDProd_diffOn_iteratedDeriv
 -- name    : GlobalTheory.IterDProd.diffOn_iteratedDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:21:30.105669+00:00
 -- url     : https://prove2.me/theorems/f18b28e9-f86f-44a6-91ba-bf9006f91207

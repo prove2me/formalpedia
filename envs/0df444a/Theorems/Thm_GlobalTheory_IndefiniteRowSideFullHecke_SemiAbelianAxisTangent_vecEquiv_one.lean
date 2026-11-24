@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SemiAbelianAxisTangent_vecEquiv_one
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SemiAbelianAxisTangent.vecEquiv_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:15:59.997409+00:00
 -- url     : https://prove2.me/theorems/2fdb415a-b6e4-41a4-a75d-1bca5c11d478

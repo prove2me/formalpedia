@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermSign_baseChange_EF
 -- name    : GlobalTheory.HermSign.baseChange_EF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:19:49.665808+00:00
 -- url     : https://prove2.me/theorems/22139a21-0091-4d46-85fd-83532f7e73e0

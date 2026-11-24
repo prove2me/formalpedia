@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x8_cmHalfIntegralGenerator_mem_algebraicClosure
 -- name    : Formalism.FourierDecayAlt.P.B2x8.cmHalfIntegralGenerator_mem_algebraicClosure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:43:11.499228+00:00
 -- url     : https://prove2.me/theorems/5a4387b5-681a-4acf-816a-e2bc2554cd70

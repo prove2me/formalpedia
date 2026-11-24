@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_liesOver_span_of_natCast_mem_frobenius_orbits
 -- name    : Formalism.FrobeniusOrbits.liesOver_span_of_natCast_mem_frobenius_orbits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:39:23.882852+00:00
 -- url     : https://prove2.me/theorems/80b1207d-53fc-4846-abbd-2a2fd568271a

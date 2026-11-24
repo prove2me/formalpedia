@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_GroupHomPullback_isoUnit_compat
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.GroupHomPullback.isoUnit_compat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:14:09.992386+00:00
 -- url     : https://prove2.me/theorems/45a139d6-7314-4183-b0fb-df4c930d76b3

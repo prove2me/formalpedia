@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_ProdImWirt_hasFDerivAt_expo
 -- name    : GlobalTheory.HeckeTwo.ProdImWirt.hasFDerivAt_expo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:07:57.633629+00:00
 -- url     : https://prove2.me/theorems/0ccf2d9e-b851-4847-8f60-e05acf7167ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_LogDerivHalf_sum_le_of_card_le_one
 -- name    : GlobalTheory.Hk.LogDerivHalf.sum_le_of_card_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:35:22.671224+00:00
 -- url     : https://prove2.me/theorems/d7873448-08a7-418b-b7c4-f81f369cf58e

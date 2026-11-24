@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IwahoriInj_inj_of_rank_one
 -- name    : GlobalTheory.IwahoriInj.inj_of_rank_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:22:24.821472+00:00
 -- url     : https://prove2.me/theorems/bb55602a-8fc2-424b-a41a-a61447e7ac5b

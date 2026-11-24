@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IterGain_nil_mem
 -- name    : GlobalTheory.IterGain.nil_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:22:32.765554+00:00
 -- url     : https://prove2.me/theorems/f504b7a3-fcce-4715-89eb-d54f3240e3f3

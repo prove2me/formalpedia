@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HomChain_dof_hom
 -- name    : GlobalTheory.HomChain.dof_hom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:16:01.828675+00:00
 -- url     : https://prove2.me/theorems/6ef6d07c-04fa-465b-9a5f-ec3dc13d7f92

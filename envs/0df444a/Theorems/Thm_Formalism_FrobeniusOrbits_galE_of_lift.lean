@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_galE_of_lift
 -- name    : Formalism.FrobeniusOrbits.galE_of_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:24:01.635912+00:00
 -- url     : https://prove2.me/theorems/82afaf08-35c6-42e1-b892-a9b8d08ad07c

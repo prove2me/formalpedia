@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InvDiffLocal_mul_mem_of_trace_mem
 -- name    : GlobalTheory.InvDiffLocal.mul_mem_of_trace_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:19:58.228353+00:00
 -- url     : https://prove2.me/theorems/30a92e3f-8a8a-449f-b04d-316dd7842057

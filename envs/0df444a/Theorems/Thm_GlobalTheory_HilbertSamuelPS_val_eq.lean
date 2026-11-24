@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbertSamuelPS_val_eq
 -- name    : GlobalTheory.HilbertSamuelPS.val_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:05:30.228809+00:00
 -- url     : https://prove2.me/theorems/adfba1d0-e6d7-4b7d-9bb2-5443893b1c24

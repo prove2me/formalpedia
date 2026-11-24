@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Host_restr_apply
 -- name    : Formalism.L2.Host.restr_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:38:54.591654+00:00
 -- url     : https://prove2.me/theorems/33e07c52-5ffc-4c48-babe-ac62df6834e1

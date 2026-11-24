@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatakeWeyl_sum_neg
 -- name    : GlobalTheory.SatakeWeyl.sum_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:34:18.015938+00:00
 -- url     : https://prove2.me/theorems/269c60f9-73a9-4866-9320-06ee94dce4a9

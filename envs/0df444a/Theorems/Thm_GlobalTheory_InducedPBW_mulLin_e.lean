@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InducedPBW_mulLin_e
 -- name    : GlobalTheory.InducedPBW.mulLin_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:15:53.286335+00:00
 -- url     : https://prove2.me/theorems/ecdb40d8-8c25-465d-892b-fb77d72a32b8

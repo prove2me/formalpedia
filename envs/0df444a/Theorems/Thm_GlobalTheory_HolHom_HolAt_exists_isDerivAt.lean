@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolHom_HolAt_exists_isDerivAt
 -- name    : GlobalTheory.HolHom.HolAt.exists_isDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:45:39.412143+00:00
 -- url     : https://prove2.me/theorems/329990a2-ff29-4ac1-9c6b-c8d2735ea1a9

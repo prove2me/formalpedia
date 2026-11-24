@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertUnitOrb_ModelOfN_herm_expand
 -- name    : GlobalTheory.InertUnitOrb.ModelOfN.herm_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:15:26.181155+00:00
 -- url     : https://prove2.me/theorems/2d52a6a4-131b-4891-944a-e483a8aa775b

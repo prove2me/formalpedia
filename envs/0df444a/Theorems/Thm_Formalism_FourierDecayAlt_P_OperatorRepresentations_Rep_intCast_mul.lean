@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OperatorRepresentations_Rep_intCast_mul
 -- name    : Formalism.FourierDecayAlt.P.OperatorRepresentations.Rep.intCast_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:10:28.534807+00:00
 -- url     : https://prove2.me/theorems/e1edc4f7-a83f-4c53-936b-60f54bae166a

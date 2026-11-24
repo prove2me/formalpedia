@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_cyclic_order_dvd_two_pow
 -- name    : Formalism.HC.Frame.cyclic_order_dvd_two_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:34:01.295949+00:00
 -- url     : https://prove2.me/theorems/bee38c98-1eaa-45ba-b98a-3c21b17ab2e0

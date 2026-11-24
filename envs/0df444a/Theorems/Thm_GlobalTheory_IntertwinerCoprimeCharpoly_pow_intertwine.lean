@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntertwinerCoprimeCharpoly_pow_intertwine
 -- name    : GlobalTheory.IntertwinerCoprimeCharpoly.pow_intertwine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:20:21.396132+00:00
 -- url     : https://prove2.me/theorems/f6ff251e-7cd5-4742-a50f-44ee58ac7330

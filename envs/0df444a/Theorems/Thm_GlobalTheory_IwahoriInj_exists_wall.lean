@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IwahoriInj_exists_wall
 -- name    : GlobalTheory.IwahoriInj.exists_wall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:24:20.183561+00:00
 -- url     : https://prove2.me/theorems/d25cbeab-5a58-45f4-92ad-e50a2e73a3b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_EpsilonPointMorphisms_Exp_exp_add_lat
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.EpsilonPointMorphisms.Exp.exp_add_lat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:14:32.755099+00:00
 -- url     : https://prove2.me/theorems/d00f1da4-9e1a-48a1-b356-490f35f78ea5

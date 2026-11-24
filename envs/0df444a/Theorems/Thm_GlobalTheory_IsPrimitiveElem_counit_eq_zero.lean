@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsPrimitiveElem_counit_eq_zero
 -- name    : GlobalTheory.IsPrimitiveElem.counit_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:21:13.382616+00:00
 -- url     : https://prove2.me/theorems/f591819f-5c76-4d06-af70-fcb329467694

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBF_actP_smul
 -- name    : Formalism.FourierDecayAlt.P.PBF.actP_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:32:14.678857+00:00
 -- url     : https://prove2.me/theorems/87ffe9f4-4725-45d6-8a71-5dd1f667d522

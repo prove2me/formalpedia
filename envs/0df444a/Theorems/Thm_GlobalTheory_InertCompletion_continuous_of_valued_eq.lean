@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertCompletion_continuous_of_valued_eq
 -- name    : GlobalTheory.InertCompletion.continuous_of_valued_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:18:33.804239+00:00
 -- url     : https://prove2.me/theorems/8351669b-594f-4c98-9fdf-30be85011458

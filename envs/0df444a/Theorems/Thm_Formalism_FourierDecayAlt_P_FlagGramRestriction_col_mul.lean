@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FlagGramRestriction_col_mul
 -- name    : Formalism.FourierDecayAlt.P.FlagGramRestriction.col_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:47:04.177927+00:00
 -- url     : https://prove2.me/theorems/9f02f13b-cbcd-489f-b514-7d421670e762

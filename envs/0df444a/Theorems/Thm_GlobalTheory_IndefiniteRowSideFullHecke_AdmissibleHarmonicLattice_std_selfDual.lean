@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_AdmissibleHarmonicLattice_std_selfDual
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.AdmissibleHarmonicLattice.std_selfDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:15:30.664834+00:00
 -- url     : https://prove2.me/theorems/14e1ba28-2404-4ad6-bc38-16ad0c45513b

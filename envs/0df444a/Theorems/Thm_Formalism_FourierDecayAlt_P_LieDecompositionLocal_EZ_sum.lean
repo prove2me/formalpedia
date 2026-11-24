@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LieDecompositionLocal_EZ_sum
 -- name    : Formalism.FourierDecayAlt.P.LieDecompositionLocal.EZ_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:15:10.068438+00:00
 -- url     : https://prove2.me/theorems/f3ba2bcd-e05c-4123-a367-ae07e6da3687

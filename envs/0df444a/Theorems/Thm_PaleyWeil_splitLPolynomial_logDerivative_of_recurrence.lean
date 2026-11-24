@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PaleyWeil_splitLPolynomial_logDerivative_of_recurrence
 -- name    : PaleyWeil.splitLPolynomial_logDerivative_of_recurrence
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T15:34:36.654288+00:00
 -- url     : https://prove2.me/theorems/3878991f-cdde-43da-843e-21d9b4d55869

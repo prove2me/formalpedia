@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsKroneckerChar_apply_two
 -- name    : GlobalTheory.IsKroneckerChar.apply_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:21:26.467487+00:00
 -- url     : https://prove2.me/theorems/1591337b-b72c-4194-be43-0fdb3e532ebf

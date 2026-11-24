@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactAvgSchwartz_integral_tensor
 -- name    : GlobalTheory.CompactAvgSchwartz.integral_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:01:00.107876+00:00
 -- url     : https://prove2.me/theorems/3e167d43-f2c9-49ac-892b-7bc07d687c99

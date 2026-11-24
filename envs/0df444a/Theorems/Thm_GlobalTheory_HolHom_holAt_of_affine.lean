@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolHom_holAt_of_affine
 -- name    : GlobalTheory.HolHom.holAt_of_affine
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:09:53.632216+00:00
 -- url     : https://prove2.me/theorems/731f5848-0d76-4bda-bba6-eea8ea599b1c

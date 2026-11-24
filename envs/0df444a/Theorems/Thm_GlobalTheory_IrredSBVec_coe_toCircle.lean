@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IrredSBVec_coe_toCircle
 -- name    : GlobalTheory.IrredSBVec.coe_toCircle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:21:32.620953+00:00
 -- url     : https://prove2.me/theorems/901240ff-aeee-4dc5-a8b7-756fe1e4b426

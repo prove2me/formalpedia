@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsotypicOrth_left_ker_zero
 -- name    : GlobalTheory.IsotypicOrth.left_ker_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:21:01.929709+00:00
 -- url     : https://prove2.me/theorems/6bf16468-b537-4c16-806b-196b44ad3d50

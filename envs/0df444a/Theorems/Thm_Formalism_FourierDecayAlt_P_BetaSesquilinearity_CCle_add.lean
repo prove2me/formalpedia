@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BetaSesquilinearity_CCle_add
 -- name    : Formalism.FourierDecayAlt.P.BetaSesquilinearity.CCle_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:31:00.663179+00:00
 -- url     : https://prove2.me/theorems/1f8cfce2-f3cb-4f73-9cb6-f264c70dc112

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_HwAlg_comm_apply
 -- name    : CompanionTheory.D.gk.HwAlg.comm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:49:02.325376+00:00
 -- url     : https://prove2.me/theorems/8a4fac22-08f6-499a-95db-46fffba83808

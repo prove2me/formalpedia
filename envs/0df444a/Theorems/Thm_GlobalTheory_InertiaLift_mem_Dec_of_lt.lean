@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertiaLift_mem_Dec_of_lt
 -- name    : GlobalTheory.InertiaLift.mem_Dec_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:19:37.85896+00:00
 -- url     : https://prove2.me/theorems/e9124374-1c06-4d01-adf6-96a320f0d4d4

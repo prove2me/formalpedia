@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BorderedDeterminants_cpol_self
 -- name    : Formalism.FourierDecayAlt.P.BorderedDeterminants.cpol_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:29:37.443886+00:00
 -- url     : https://prove2.me/theorems/5875b5d9-d3e6-4b92-b422-8c0a55e67de2

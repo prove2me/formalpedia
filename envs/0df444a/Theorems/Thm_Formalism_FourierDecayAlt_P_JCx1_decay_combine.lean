@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JCx1_decay_combine
 -- name    : Formalism.FourierDecayAlt.P.JCx1.decay.combine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:45:26.206803+00:00
 -- url     : https://prove2.me/theorems/c1f66c70-61d2-4137-bf1f-32ecbd7a3aac

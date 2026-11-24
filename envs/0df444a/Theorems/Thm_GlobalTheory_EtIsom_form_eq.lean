@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EtIsom_form_eq
 -- name    : GlobalTheory.EtIsom.form_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:14:14.706527+00:00
 -- url     : https://prove2.me/theorems/55042202-bede-4b6f-acd9-eee892f4f9dc

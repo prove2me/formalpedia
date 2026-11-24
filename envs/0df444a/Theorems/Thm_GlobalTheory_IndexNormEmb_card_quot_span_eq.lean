@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndexNormEmb_card_quot_span_eq
 -- name    : GlobalTheory.IndexNormEmb.card_quot_span_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:15:20.521031+00:00
 -- url     : https://prove2.me/theorems/40119c73-075c-4c33-90d6-38fa80014407

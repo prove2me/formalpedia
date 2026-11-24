@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx6_sandw_hat
 -- name    : Formalism.FourierDecayAlt.P.Qx6.sandw_hat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:35:56.836098+00:00
 -- url     : https://prove2.me/theorems/cb0b6063-e34e-4978-9c67-0c0942bbb02f

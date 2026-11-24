@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_componentPowerIdeal_of_not_isIrreducibleComponentOfSupport
 -- name    : FunctorialResolution.EmbeddedResolution.componentPowerIdeal_of_not_isIrreducibleComponentOfSupport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:48:44.335811+00:00
 -- url     : https://prove2.me/theorems/2cfc7379-f182-496d-b700-70634a531f5a

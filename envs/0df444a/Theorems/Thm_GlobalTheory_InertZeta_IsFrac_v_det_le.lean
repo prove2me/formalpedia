@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_IsFrac_v_det_le
 -- name    : GlobalTheory.InertZeta.IsFrac.v_det_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:21:17.657608+00:00
 -- url     : https://prove2.me/theorems/26c62ae2-af29-4de4-93ac-088bd2e28964

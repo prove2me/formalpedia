@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IwaFlag_sesq_col
 -- name    : GlobalTheory.IwaFlag.sesq_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:22:25.574475+00:00
 -- url     : https://prove2.me/theorems/ae3415cf-c1c4-4cb7-a692-1cb6659440bd

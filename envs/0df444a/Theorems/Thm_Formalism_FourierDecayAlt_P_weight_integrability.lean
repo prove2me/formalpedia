@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_weight_integrability
 -- name    : Formalism.FourierDecayAlt.P.weight_integrability
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:22:56.31638+00:00
 -- url     : https://prove2.me/theorems/1df49f70-6600-4a27-a91a-d0c0f2b47c27

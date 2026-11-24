@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagPts_uniMat_apply_of_lt
 -- name    : GlobalTheory.FlagPts.uniMat_apply_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:38:00.125713+00:00
 -- url     : https://prove2.me/theorems/c5212629-6e0f-4514-bad1-486040b4d71a

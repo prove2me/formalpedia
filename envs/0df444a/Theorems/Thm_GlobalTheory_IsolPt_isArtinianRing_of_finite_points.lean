@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsolPt_isArtinianRing_of_finite_points
 -- name    : GlobalTheory.IsolPt.isArtinianRing_of_finite_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:22:27.884238+00:00
 -- url     : https://prove2.me/theorems/00f364dc-67e9-47bc-9000-b0d242ab0161

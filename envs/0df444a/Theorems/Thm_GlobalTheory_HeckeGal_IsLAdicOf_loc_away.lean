@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeGal_IsLAdicOf_loc_away
 -- name    : GlobalTheory.HeckeGal.IsLAdicOf.loc_away
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:13:58.460601+00:00
 -- url     : https://prove2.me/theorems/df13fbaf-5d18-4499-b4de-b018fc3ef860

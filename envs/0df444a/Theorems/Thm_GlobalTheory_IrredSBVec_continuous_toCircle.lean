@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IrredSBVec_continuous_toCircle
 -- name    : GlobalTheory.IrredSBVec.continuous_toCircle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:22:00.195532+00:00
 -- url     : https://prove2.me/theorems/2dcc3671-7c30-4931-9f50-1e860a574bf3

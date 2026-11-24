@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_constTerm_eq_zetaVal
 -- name    : GlobalTheory.HilbFam.constTerm_eq_zetaVal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:20:40.866317+00:00
 -- url     : https://prove2.me/theorems/58c48d46-e227-4514-b143-4323e33ceb6a

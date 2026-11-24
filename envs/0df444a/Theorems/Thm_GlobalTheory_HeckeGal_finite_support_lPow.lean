@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeGal_finite_support_lPow
 -- name    : GlobalTheory.HeckeGal.finite_support_lPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:03:05.783807+00:00
 -- url     : https://prove2.me/theorems/ed03dee4-8cca-4bab-970c-e3ccab4085ae

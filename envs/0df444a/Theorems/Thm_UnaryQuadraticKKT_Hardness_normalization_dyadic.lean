@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnaryQuadraticKKT_Hardness_normalization_dyadic
 -- name    : UnaryQuadraticKKT.Hardness.normalization_dyadic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T15:45:50.400482+00:00
 -- url     : https://prove2.me/theorems/1d8aece2-4cd0-463f-9ab3-8d301156a27c

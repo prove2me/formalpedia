@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FlagGramRestriction_Hst_iff
 -- name    : Formalism.FourierDecayAlt.P.FlagGramRestriction.Hst_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:44:36.357237+00:00
 -- url     : https://prove2.me/theorems/485b94bd-5f04-461e-b55e-44e725a6739c

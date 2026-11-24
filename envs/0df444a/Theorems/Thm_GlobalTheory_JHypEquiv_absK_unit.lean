@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JHypEquiv_absK_unit
 -- name    : GlobalTheory.JHypEquiv.absK_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:24:17.618383+00:00
 -- url     : https://prove2.me/theorems/6177885f-a0e3-475d-b287-e7136a84fef9

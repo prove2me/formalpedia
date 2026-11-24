@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_lower_splitting_measurable
 -- name    : Formalism.FourierDecayAlt.P.lower_splitting_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:40:44.154703+00:00
 -- url     : https://prove2.me/theorems/793556d5-3c9b-42ad-a3ee-60dc5fb1deaf

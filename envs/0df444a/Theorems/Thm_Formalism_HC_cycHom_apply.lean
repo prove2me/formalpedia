@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_cycHom_apply
 -- name    : Formalism.HC.cycHom_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:55:14.513487+00:00
 -- url     : https://prove2.me/theorems/a6925a19-a104-47af-a79f-ee97c11a1efb

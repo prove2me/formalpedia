@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormFactor_rank_one
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormFactor.rank_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:15:37.59034+00:00
 -- url     : https://prove2.me/theorems/0dcd839f-cb74-4f65-8ea3-8aa2e74b320d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SiegelReframe_thetaExp_add
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SiegelReframe.thetaExp_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:15:43.702464+00:00
 -- url     : https://prove2.me/theorems/fc04399b-a6eb-424c-9c8c-a578e49638fb

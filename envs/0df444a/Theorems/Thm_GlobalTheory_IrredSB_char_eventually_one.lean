@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IrredSB_char_eventually_one
 -- name    : GlobalTheory.IrredSB.char_eventually_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:20:36.159803+00:00
 -- url     : https://prove2.me/theorems/899acb5e-14d2-41e1-a2e5-678230f3e040

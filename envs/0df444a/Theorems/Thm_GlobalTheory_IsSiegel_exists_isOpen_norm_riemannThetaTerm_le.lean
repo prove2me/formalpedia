@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSiegel_exists_isOpen_norm_riemannThetaTerm_le
 -- name    : GlobalTheory.IsSiegel.exists_isOpen_norm_riemannThetaTerm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:22:24.2608+00:00
 -- url     : https://prove2.me/theorems/7042155b-62f1-4f3c-833f-3b99d96aa8b4

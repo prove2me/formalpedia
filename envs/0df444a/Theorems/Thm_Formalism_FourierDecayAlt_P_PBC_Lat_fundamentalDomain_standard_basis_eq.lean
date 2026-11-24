@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBC_Lat_fundamentalDomain_standard_basis_eq
 -- name    : Formalism.FourierDecayAlt.P.PBC.Lat.fundamentalDomain_standard_basis_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:32:41.752267+00:00
 -- url     : https://prove2.me/theorems/aabaa918-0c26-4917-a487-bdf07535b342

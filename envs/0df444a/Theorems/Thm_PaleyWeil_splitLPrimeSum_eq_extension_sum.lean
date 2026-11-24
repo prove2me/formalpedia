@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PaleyWeil_splitLPrimeSum_eq_extension_sum
 -- name    : PaleyWeil.splitLPrimeSum_eq_extension_sum
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T15:34:29.609638+00:00
 -- url     : https://prove2.me/theorems/ec81e820-9e6d-4d0b-896b-e9dfa1a2b273

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertiaAlmostAll_val_le_one_of_isIntegral
 -- name    : GlobalTheory.InertiaAlmostAll.val_le_one_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:19:32.208218+00:00
 -- url     : https://prove2.me/theorems/5e27a6ad-9e4f-457a-9451-e462f45c955d

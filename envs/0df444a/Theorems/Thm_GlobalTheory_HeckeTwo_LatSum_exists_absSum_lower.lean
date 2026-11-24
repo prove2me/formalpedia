@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_LatSum_exists_absSum_lower
 -- name    : GlobalTheory.HeckeTwo.LatSum.exists_absSum_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:05:48.430127+00:00
 -- url     : https://prove2.me/theorems/9a499944-6e6b-4e6c-9b11-61422be6efd6

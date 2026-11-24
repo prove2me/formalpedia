@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBA_blockPSD_pull
 -- name    : Formalism.FourierDecayAlt.P.PBA.blockPSD_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:32:10.440803+00:00
 -- url     : https://prove2.me/theorems/c8b2f8f4-4c3b-4650-92be-732bf097dd2c

@@ -27718,7 +27718,7 @@
 {"parent": "IntervalMaxCutEPTAS_Scheme_Hierarchy", "child": "IntervalMaxCutEPTAS_Scheme_Rank", "via": ["statement"]}
 {"parent": "MajorityDepthThree.Exact.lift_coverage", "child": "MajorityDepthThree_Exact_Circuits", "via": ["solution", "statement"]}
 {"parent": "MajorityDepthThree.Exact.lift_coverage", "child": "MajorityDepthThree_Exact_Restrictions", "via": ["solution", "statement"]}
-{"parent": "ChangingCache.UpperBound.lemma_5_4", "child": "ChangingCache_UpperBound_Bank", "via": ["statement"]}
+{"parent": "ChangingCache.UpperBound.lemma_5_4", "child": "ChangingCache_UpperBound_Bank", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedTargetSemantics.reducedMergeEval111_e", "child": "MUBSix", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedTargetSemantics.reducedMergeEval111_e", "child": "OAIQ106E130", "via": ["solution", "statement"]}
 {"parent": "OAI.MUB6.Certificate.MixedTargetSemantics.reducedMergeEval111_e", "child": "OAIQ106E123", "via": ["solution", "statement"]}

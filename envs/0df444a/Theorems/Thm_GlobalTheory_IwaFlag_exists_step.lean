@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IwaFlag_exists_step
 -- name    : GlobalTheory.IwaFlag.exists_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:22:32.454671+00:00
 -- url     : https://prove2.me/theorems/0624ead3-80d6-4807-a52c-dbd1eaca2e82

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsotropicVectorExistence_key
 -- name    : GlobalTheory.IsotropicVectorExistence.key
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:21:52.9158+00:00
 -- url     : https://prove2.me/theorems/91f79db3-cc01-4c16-947a-37b71b746932

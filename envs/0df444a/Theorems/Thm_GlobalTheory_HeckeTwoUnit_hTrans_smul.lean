@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoUnit_hTrans_smul
 -- name    : GlobalTheory.HeckeTwoUnit.hTrans_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:15:28.004399+00:00
 -- url     : https://prove2.me/theorems/8548a81b-def8-4798-9e4b-47c25825fe51

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SettingConstruction_sectionExists
 -- name    : Formalism.FourierDecayAlt.P.SettingConstruction.sectionExists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:51:18.120795+00:00
 -- url     : https://prove2.me/theorems/e78aeae3-b0ac-4911-84a1-e8c3c1bc0343

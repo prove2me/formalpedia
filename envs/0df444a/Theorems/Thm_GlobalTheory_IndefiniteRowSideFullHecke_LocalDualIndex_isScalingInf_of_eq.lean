@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_LocalDualIndex_isScalingInf_of_eq
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.LocalDualIndex.isScalingInf_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:15:05.656821+00:00
 -- url     : https://prove2.me/theorems/f8b1131c-1aae-4cba-ac3d-8994d94e36da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_capelli_stabilizer
 -- name    : Formalism.FourierDecayAlt.P.capelli_stabilizer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:28:15.801597+00:00
 -- url     : https://prove2.me/theorems/92b530f3-ba80-4228-bf5c-e1eb5de50ccb

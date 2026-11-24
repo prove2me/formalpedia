@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_stableFracMomentTailPowerIffV1
 -- name    : Kyprianou.Ch03.stableFracMomentTailPowerIffV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T15:10:06.617778+00:00
 -- url     : https://prove2.me/theorems/f3327e25-b159-4162-a83e-a9e9ea54926b

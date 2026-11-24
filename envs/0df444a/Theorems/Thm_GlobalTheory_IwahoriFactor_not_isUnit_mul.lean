@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IwahoriFactor_not_isUnit_mul
 -- name    : GlobalTheory.IwahoriFactor.not_isUnit_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:23:57.529842+00:00
 -- url     : https://prove2.me/theorems/6471b48d-a0ae-49af-b616-b0fa8dabd3b4

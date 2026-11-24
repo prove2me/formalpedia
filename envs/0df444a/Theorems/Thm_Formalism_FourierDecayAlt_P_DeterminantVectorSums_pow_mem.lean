@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DeterminantVectorSums_pow_mem
 -- name    : Formalism.FourierDecayAlt.P.DeterminantVectorSums.pow_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:32:43.959942+00:00
 -- url     : https://prove2.me/theorems/d36898bc-4821-4102-9b17-49d779c3cf37

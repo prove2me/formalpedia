@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TInvW_qminor_rep
 -- name    : Formalism.FourierDecayAlt.Q.TInvW.qminor_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:58:46.156471+00:00
 -- url     : https://prove2.me/theorems/c9dc6506-257a-415e-ab05-9207c36890aa

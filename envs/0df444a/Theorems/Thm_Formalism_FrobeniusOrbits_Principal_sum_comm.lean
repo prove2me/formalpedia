@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Principal_sum_comm
 -- name    : Formalism.FrobeniusOrbits.Principal.sum_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:38:36.563984+00:00
 -- url     : https://prove2.me/theorems/b0da462f-c879-4f01-8b71-b168a2c1006d

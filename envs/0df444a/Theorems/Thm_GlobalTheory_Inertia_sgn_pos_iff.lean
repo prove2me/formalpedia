@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_sgn_pos_iff
 -- name    : GlobalTheory.Inertia.sgn_pos_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:23:22.544866+00:00
 -- url     : https://prove2.me/theorems/897e6502-91fd-4bc6-9a50-f9d05fdb970c

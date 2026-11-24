@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_summable_balanced_latSum
 -- name    : GlobalTheory.HeckeTwo.summable_balanced_latSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:13:13.530496+00:00
 -- url     : https://prove2.me/theorems/ce5d10ed-729f-43a3-a938-1a060a5cdb99

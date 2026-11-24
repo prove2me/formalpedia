@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_DiscrB_isCoprime_odd_two_pow
 -- name    : Formalism.FrobeniusOrbits.DiscrB.isCoprime_odd_two_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:41:18.929243+00:00
 -- url     : https://prove2.me/theorems/e5e71a55-f302-4514-b328-f1bd4022e7ea

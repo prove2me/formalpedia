@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_FlatZetaIntegral_norm_flatIntegrand
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.FlatZetaIntegral.norm_flatIntegrand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:14:06.315442+00:00
 -- url     : https://prove2.me/theorems/eaed51e1-4ed0-44cc-aa87-feeced75c56c

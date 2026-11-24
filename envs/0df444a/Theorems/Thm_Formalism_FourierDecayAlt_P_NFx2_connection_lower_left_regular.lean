@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx2_connection_lower_left_regular
 -- name    : Formalism.FourierDecayAlt.P.NFx2.connection_lower_left_regular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:17:10.848016+00:00
 -- url     : https://prove2.me/theorems/6b43f549-1ed8-4f66-b69a-b6bd7d3eff87

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_OneCosetProof_oneCoset_of_isTensor
 -- name    : GlobalTheory.FunObj.OneCosetProof.oneCoset_of_isTensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:42:52.93564+00:00
 -- url     : https://prove2.me/theorems/a55ef41c-7f93-4157-9ff9-9aa4037905ca

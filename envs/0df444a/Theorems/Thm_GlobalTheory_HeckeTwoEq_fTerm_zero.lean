@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoEq_fTerm_zero
 -- name    : GlobalTheory.HeckeTwoEq.fTerm_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:16:17.883893+00:00
 -- url     : https://prove2.me/theorems/835ad7ec-6527-4f70-80cd-408ef8796e83

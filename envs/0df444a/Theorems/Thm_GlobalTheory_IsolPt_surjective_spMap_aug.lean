@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsolPt_surjective_spMap_aug
 -- name    : GlobalTheory.IsolPt.surjective_spMap_aug
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:23:06.721282+00:00
 -- url     : https://prove2.me/theorems/ed3452f8-15ab-4862-ad4a-0ff60002541c

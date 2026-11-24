@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_PairingFromOuterAgreement_pairing_eq_of_outer_eq
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.PairingFromOuterAgreement.pairing_eq_of_outer_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:14:35.862836+00:00
 -- url     : https://prove2.me/theorems/61f77b7a-060c-4073-ac48-2fb2be0f82aa

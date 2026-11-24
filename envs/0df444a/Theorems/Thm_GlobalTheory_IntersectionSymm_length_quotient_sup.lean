@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntersectionSymm_length_quotient_sup
 -- name    : GlobalTheory.IntersectionSymm.length_quotient_sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:20:08.269961+00:00
 -- url     : https://prove2.me/theorems/e8d8e1ed-5152-489e-b0e1-60a5b3ee3577

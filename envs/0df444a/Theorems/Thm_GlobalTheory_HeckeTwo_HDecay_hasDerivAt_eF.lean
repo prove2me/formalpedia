@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_HDecay_hasDerivAt_eF
 -- name    : GlobalTheory.HeckeTwo.HDecay.hasDerivAt_eF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:05:33.435958+00:00
 -- url     : https://prove2.me/theorems/5cfe22b0-4e87-4d7f-ad27-93d0e52897a8

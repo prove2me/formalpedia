@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolPeriods_Uniformises_comp_equiv
 -- name    : GlobalTheory.HolPeriods.Uniformises.comp_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:38:31.070011+00:00
 -- url     : https://prove2.me/theorems/bbb00f1f-5981-4551-a119-cee6df21b1b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Et_aeval_self_charpoly_lmul
 -- name    : GlobalTheory.JR.Et.aeval_self_charpoly_lmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:26:31.655819+00:00
 -- url     : https://prove2.me/theorems/a1ad182b-8e43-45b8-8753-6eadc266e38b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeMellin_gamma_integral_exp_substitution
 -- name    : GlobalTheory.HeckeMellin.gamma_integral_exp_substitution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:06:36.074463+00:00
 -- url     : https://prove2.me/theorems/e94ae694-00ce-4972-b741-17417085d451

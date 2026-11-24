@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_GoodAdd_wirtWord_contDiffOn
 -- name    : GlobalTheory.HeckeTwo.GoodAdd.wirtWord_contDiffOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:52:39.204352+00:00
 -- url     : https://prove2.me/theorems/c7177cea-a4e8-4060-a05a-8b33904db065

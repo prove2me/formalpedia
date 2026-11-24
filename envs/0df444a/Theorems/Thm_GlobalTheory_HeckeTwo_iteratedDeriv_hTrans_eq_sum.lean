@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_iteratedDeriv_hTrans_eq_sum
 -- name    : GlobalTheory.HeckeTwo.iteratedDeriv_hTrans_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:12:55.642059+00:00
 -- url     : https://prove2.me/theorems/ff809e1a-bdb5-4f3b-9a6b-2f51e2fb819b

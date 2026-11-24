@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdealChain_sph_act
 -- name    : GlobalTheory.IdealChain.sph_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:05:09.055011+00:00
 -- url     : https://prove2.me/theorems/eff13ee8-26d8-4a88-8484-b629e017a6fa

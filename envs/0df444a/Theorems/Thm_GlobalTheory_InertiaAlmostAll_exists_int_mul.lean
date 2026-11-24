@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertiaAlmostAll_exists_int_mul
 -- name    : GlobalTheory.InertiaAlmostAll.exists_int_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:23:28.580723+00:00
 -- url     : https://prove2.me/theorems/054f3216-0841-4f90-93ba-4ff55d6c8e20

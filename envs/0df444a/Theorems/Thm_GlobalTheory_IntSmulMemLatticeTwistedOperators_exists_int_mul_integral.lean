@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntSmulMemLatticeTwistedOperators_exists_int_mul_integral
 -- name    : GlobalTheory.IntSmulMemLatticeTwistedOperators.exists_int_mul_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:19:15.611032+00:00
 -- url     : https://prove2.me/theorems/745af9ee-5de6-44c0-ab47-183fa7eb84e4

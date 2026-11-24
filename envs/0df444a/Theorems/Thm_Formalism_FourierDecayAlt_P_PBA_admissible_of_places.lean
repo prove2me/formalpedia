@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBA_admissible_of_places
 -- name    : Formalism.FourierDecayAlt.P.PBA.admissible_of_places
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:31:56.903968+00:00
 -- url     : https://prove2.me/theorems/a3b48ed1-d6d1-45d5-8e41-01251f44d1bf

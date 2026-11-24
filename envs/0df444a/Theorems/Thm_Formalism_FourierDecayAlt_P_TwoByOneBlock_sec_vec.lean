@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoByOneBlock_sec_vec
 -- name    : Formalism.FourierDecayAlt.P.TwoByOneBlock.sec_vec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:34:31.798921+00:00
 -- url     : https://prove2.me/theorems/1032fd5a-a77d-4051-9875-872fe0c5c1ba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_DifferentConductorValuations_condExp_bdd
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.DifferentConductorValuations.condExp_bdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:14:54.8819+00:00
 -- url     : https://prove2.me/theorems/7905751f-5581-42b3-b641-4336da34cfb8

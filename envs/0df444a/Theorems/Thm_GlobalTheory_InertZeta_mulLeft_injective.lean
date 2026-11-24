@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_mulLeft_injective
 -- name    : GlobalTheory.InertZeta.mulLeft_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:18:25.443611+00:00
 -- url     : https://prove2.me/theorems/57f6e805-268e-4ced-9081-f7c556f3293b

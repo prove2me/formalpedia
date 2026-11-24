@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Et_kerL_eq_of_isIsom
 -- name    : GlobalTheory.JR.Et.kerL_eq_of_isIsom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:31:47.626995+00:00
 -- url     : https://prove2.me/theorems/bae120bc-b089-4007-bd02-4e40c6d6f4bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Et_absK_mul
 -- name    : GlobalTheory.JR.Et.absK_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:27:44.04358+00:00
 -- url     : https://prove2.me/theorems/d7570cba-4678-4dc1-b4c1-d42e31c489c3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntConj_norm_eq_one_of_isUnit
 -- name    : GlobalTheory.IntConj.norm_eq_one_of_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:21:59.987688+00:00
 -- url     : https://prove2.me/theorems/e1f58e0d-379f-4c48-a299-a278e4e25965

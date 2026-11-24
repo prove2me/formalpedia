@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Spherical_monomialChar_add
 -- name    : GroundTheory.Automorphic.Spherical.monomialChar_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:39:49.226369+00:00
 -- url     : https://prove2.me/theorems/1001b25d-3899-479e-baf7-d85c6d467b7d

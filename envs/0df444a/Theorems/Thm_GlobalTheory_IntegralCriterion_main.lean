@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralCriterion_main
 -- name    : GlobalTheory.IntegralCriterion.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:19:22.883663+00:00
 -- url     : https://prove2.me/theorems/5c09761d-6dbc-4541-b7f4-1d707fc5ebd5

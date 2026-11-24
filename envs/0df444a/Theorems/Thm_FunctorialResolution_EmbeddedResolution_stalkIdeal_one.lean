@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_stalkIdeal_one
 -- name    : FunctorialResolution.EmbeddedResolution.stalkIdeal_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:48:38.174815+00:00
 -- url     : https://prove2.me/theorems/b83d884c-f0af-4311-a028-0a4d0a2d7123

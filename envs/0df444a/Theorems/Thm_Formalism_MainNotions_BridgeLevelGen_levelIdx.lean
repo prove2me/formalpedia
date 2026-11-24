@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLevelGen_levelIdx
 -- name    : Formalism.MainNotions.BridgeLevelGen.levelIdx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:59:03.255579+00:00
 -- url     : https://prove2.me/theorems/57da3f20-6b64-4d84-baba-c8c76082bd68

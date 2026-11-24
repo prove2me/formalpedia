@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolHom_IsDerivAt_unique
 -- name    : GlobalTheory.HolHom.IsDerivAt.unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:45:26.38093+00:00
 -- url     : https://prove2.me/theorems/c8ee71d2-b07b-47da-b2df-6dff31139a7d

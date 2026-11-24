@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpTangent_pow_eq_epsScale_comp
 -- name    : GlobalTheory.GrpTangent.pow_eq_epsScale_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:35.118665+00:00
 -- url     : https://prove2.me/theorems/2027c174-3ab9-4239-b836-d7cd491bcefa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Principal_pairing
 -- name    : Formalism.FrobeniusOrbits.Principal.pairing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:38:17.617209+00:00
 -- url     : https://prove2.me/theorems/1d363cf3-d727-4e3b-96a3-6fa0d4a5d108

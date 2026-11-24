@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_UniformTorsionIsomorphism_toGen_injective
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.UniformTorsionIsomorphism.toGen_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:16:11.597809+00:00
 -- url     : https://prove2.me/theorems/a4c62c7b-c5b1-42ed-9382-ab911bc42bff

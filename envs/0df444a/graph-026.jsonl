@@ -41947,7 +41947,7 @@
 {"parent": "QEC.Coding.BDL26ReplacementEmbedding.fineQuadrant_boundaryUnit", "child": "QEC_Coding_FiniteAlternatingConstruction_QuantitativeBounds", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26ReplacementEmbedding.fineQuadrant_boundaryUnit", "child": "QEC_Coding_FiniteAlternatingConstruction_BoundedValenceSuccessors", "via": ["solution", "statement"]}
 {"parent": "PandoraKnapsack_Skipping_CompactLP", "child": "PandoraKnapsack_Skipping_TimeIndexedLP", "via": ["statement"]}
-{"parent": "UnaryQuadraticKKT.Hardness.normalization_dyadic", "child": "UnaryQuadraticKKT_Hardness_Normalization", "via": ["statement"]}
+{"parent": "UnaryQuadraticKKT.Hardness.normalization_dyadic", "child": "UnaryQuadraticKKT_Hardness_Normalization", "via": ["solution", "statement"]}
 {"parent": "DistRobustHalfspace.Main.lemma_2_20", "child": "DistRobustHalfspace_Main_Estimators", "via": ["statement"]}
 {"parent": "DistRobustHalfspace.Main.lemma_2_20", "child": "DistRobustHalfspace_Main_Testers", "via": ["statement"]}
 {"parent": "OAI.InitialMeanSquare.initial_bin_invariant_le", "child": "OAI_NumberTheory_DirichletL_CubicSieve_NormalizedMass", "via": ["solution", "statement"]}
@@ -42994,7 +42994,7 @@
 {"parent": "OAI.CubicEisenstein.kernelQuotientChart_contDiffOn", "child": "OAI_NumberTheory_DirichletL_CubicSieve_RowCaps", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.kernelQuotientChart_contDiffOn", "child": "OAI_NumberTheory_DirichletL_MeanSquare_LogarithmicBins", "via": ["solution", "statement"]}
 {"parent": "IsingVectorBalancing.Subgaussian.law_well_defined", "child": "IsingVectorBalancing_Subgaussian_Law", "via": ["solution", "statement"]}
-{"parent": "PrivGaussMS.lemma_A_4", "child": "PrivGaussMS_Basics", "via": ["statement"]}
+{"parent": "PrivGaussMS.lemma_A_4", "child": "PrivGaussMS_Basics", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.triangleInputList_length", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_EventKeyQuery", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.triangleInputList_length", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_CountedLists", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RandomPerturbation.triangleInputList_length", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_EventEncoding", "via": ["solution", "statement"]}

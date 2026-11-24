@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JCx1_needs_choose_congr
 -- name    : Formalism.FourierDecayAlt.P.JCx1.needs.choose_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:46:23.950903+00:00
 -- url     : https://prove2.me/theorems/30a130fc-c57f-4edd-86ca-2045d2f34359

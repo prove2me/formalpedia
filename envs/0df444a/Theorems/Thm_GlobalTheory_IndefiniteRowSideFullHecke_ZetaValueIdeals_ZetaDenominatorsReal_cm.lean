@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_ZetaValueIdeals_ZetaDenominatorsReal_cm
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.ZetaValueIdeals.ZetaDenominatorsReal.cm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:16:03.233603+00:00
 -- url     : https://prove2.me/theorems/ff4328b4-4da2-4a4f-952b-fa82ea85ab1c

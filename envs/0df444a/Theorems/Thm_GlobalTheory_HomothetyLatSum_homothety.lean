@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HomothetyLatSum_homothety
 -- name    : GlobalTheory.HomothetyLatSum.homothety
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:43:56.261998+00:00
 -- url     : https://prove2.me/theorems/f46cde33-5002-46bc-bd1d-acb42a0ed061

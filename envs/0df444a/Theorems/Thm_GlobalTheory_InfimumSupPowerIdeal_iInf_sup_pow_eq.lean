@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InfimumSupPowerIdeal_iInf_sup_pow_eq
 -- name    : GlobalTheory.InfimumSupPowerIdeal.iInf_sup_pow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:19:07.976904+00:00
 -- url     : https://prove2.me/theorems/72559582-4ea4-4555-9a4a-5140fd8121f4

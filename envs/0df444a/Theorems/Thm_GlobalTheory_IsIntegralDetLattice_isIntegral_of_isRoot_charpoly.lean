@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsIntegralDetLattice_isIntegral_of_isRoot_charpoly
 -- name    : GlobalTheory.IsIntegralDetLattice.isIntegral_of_isRoot_charpoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:21:08.524268+00:00
 -- url     : https://prove2.me/theorems/2d866350-50bc-48e8-a9f5-82584db2e225

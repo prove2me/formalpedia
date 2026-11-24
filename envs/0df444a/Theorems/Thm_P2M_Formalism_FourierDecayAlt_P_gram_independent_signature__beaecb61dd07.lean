@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_gram_independent_signature__beaecb61dd07
 -- name    : P2M_Formalism_FourierDecayAlt_P_gram_independent_signature__beaecb61dd07
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:12:40.140557+00:00
 -- url     : https://prove2.me/theorems/0a5e19f6-dbca-4143-9a25-589ba4c8cc25

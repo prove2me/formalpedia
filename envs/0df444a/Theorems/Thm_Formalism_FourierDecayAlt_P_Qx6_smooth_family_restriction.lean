@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx6_smooth_family_restriction
 -- name    : Formalism.FourierDecayAlt.P.Qx6.smooth_family_restriction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:34:03.746799+00:00
 -- url     : https://prove2.me/theorems/199a00ea-ab36-4e91-bdf1-17db42697d71

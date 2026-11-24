@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsKroneckerChar_apply_neg_one
 -- name    : GlobalTheory.IsKroneckerChar.apply_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:21:07.228643+00:00
 -- url     : https://prove2.me/theorems/36de6578-deb7-4b39-9bc9-6bc492075e21

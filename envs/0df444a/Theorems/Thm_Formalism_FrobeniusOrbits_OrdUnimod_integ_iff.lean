@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_OrdUnimod_integ_iff
 -- name    : Formalism.FrobeniusOrbits.OrdUnimod.integ_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:43:12.492293+00:00
 -- url     : https://prove2.me/theorems/92d64970-48e8-4250-81b6-ba76c681cd4b

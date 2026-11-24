@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_TensorPlaceNorm_fockS_self_nonneg
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.TensorPlaceNorm.fockS_self_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:34:05.627529+00:00
 -- url     : https://prove2.me/theorems/29f3818a-6dd5-4311-a827-81d702d77f93

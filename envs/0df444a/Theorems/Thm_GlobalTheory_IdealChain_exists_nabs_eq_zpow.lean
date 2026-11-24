@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdealChain_exists_nabs_eq_zpow
 -- name    : GlobalTheory.IdealChain.exists_nabs_eq_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:12:20.710703+00:00
 -- url     : https://prove2.me/theorems/0eda16fc-d2a0-4543-bfcc-8a4fd1c4cb4b

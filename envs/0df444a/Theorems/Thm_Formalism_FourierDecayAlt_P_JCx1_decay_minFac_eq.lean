@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JCx1_decay_minFac_eq
 -- name    : Formalism.FourierDecayAlt.P.JCx1.decay.minFac_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:46:07.78799+00:00
 -- url     : https://prove2.me/theorems/a69bc075-1a16-49d3-8cd7-9e57847cba0c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IwahoriInj_eventually_mem_ray
 -- name    : GlobalTheory.IwahoriInj.eventually_mem_ray
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:24:55.211797+00:00
 -- url     : https://prove2.me/theorems/13ebbfd4-8aa5-4555-822c-8c9ce5f2d437

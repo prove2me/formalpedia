@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeCompare_datum_tors
 -- name    : GlobalTheory.HeckeCompare.datum_tors
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:36:47.357805+00:00
 -- url     : https://prove2.me/theorems/ca58830c-c625-48f5-8e1c-a3f62bb0679e

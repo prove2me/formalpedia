@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B4_telescope
 -- name    : Formalism.FourierDecayAlt.P.B4.telescope
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:30:56.267849+00:00
 -- url     : https://prove2.me/theorems/f038bf9a-9532-46c9-9ae3-ada993c95441

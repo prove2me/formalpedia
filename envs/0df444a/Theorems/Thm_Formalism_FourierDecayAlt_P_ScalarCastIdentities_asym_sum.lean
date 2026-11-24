@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ScalarCastIdentities_asym_sum
 -- name    : Formalism.FourierDecayAlt.P.ScalarCastIdentities.asym_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:29:51.11229+00:00
 -- url     : https://prove2.me/theorems/29975e6a-1e20-47d2-bf8b-00d9349a6330

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IwasawaShape_exists_lintegral_eq_of_measurable
 -- name    : GlobalTheory.IwasawaShape.exists_lintegral_eq_of_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:22:37.159969+00:00
 -- url     : https://prove2.me/theorems/6679999c-3d03-4480-be63-66443c49baae

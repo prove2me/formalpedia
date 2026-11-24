@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermDiag_exists_apply_self_ne_zero
 -- name    : GlobalTheory.HermDiag.exists_apply_self_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:36:17.990797+00:00
 -- url     : https://prove2.me/theorems/7a5d4b9f-0458-44ec-acb4-7784b55dd667

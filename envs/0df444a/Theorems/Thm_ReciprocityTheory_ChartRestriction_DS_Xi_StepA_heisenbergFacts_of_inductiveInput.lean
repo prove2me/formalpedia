@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_heisenbergFacts_of_inductiveInput
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.heisenbergFacts_of_inductiveInput
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:49:36.180083+00:00
 -- url     : https://prove2.me/theorems/44ab1d1a-347b-4797-bd23-90c42ba78d58

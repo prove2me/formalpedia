@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsPolynomialFunction_continuous
 -- name    : GlobalTheory.IsPolynomialFunction.continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:21:16.785043+00:00
 -- url     : https://prove2.me/theorems/f4cff1a2-ff0e-41b7-96b9-196ea11cc65a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_exists_summable_bound_terms
 -- name    : GlobalTheory.HilbFam.exists_summable_bound_terms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:20:43.409313+00:00
 -- url     : https://prove2.me/theorems/fab05b48-09ce-415c-9eac-4705e666dcf1

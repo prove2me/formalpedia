@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_ZeroWeightSections_IsSecZ_pow
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.ZeroWeightSections.IsSecZ.pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:16:47.567872+00:00
 -- url     : https://prove2.me/theorems/7bf4f039-39ce-4152-bb17-316086676537

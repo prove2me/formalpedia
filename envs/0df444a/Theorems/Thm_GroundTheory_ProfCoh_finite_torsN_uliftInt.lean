@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_finite_torsN_uliftInt
 -- name    : GroundTheory.ProfCoh.finite_torsN_uliftInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:45:13.91789+00:00
 -- url     : https://prove2.me/theorems/68feb62f-21ae-43e0-b5b1-be2f5eacd6b9

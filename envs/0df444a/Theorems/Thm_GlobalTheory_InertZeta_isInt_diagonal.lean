@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_isInt_diagonal
 -- name    : GlobalTheory.InertZeta.isInt_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:19:12.397162+00:00
 -- url     : https://prove2.me/theorems/c9122bf6-5d51-4e2c-9c5a-becd9b65b79d

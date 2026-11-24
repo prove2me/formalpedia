@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InverseCompactOpen_inv_exists_compact_open
 -- name    : GlobalTheory.InverseCompactOpen.inv_exists_compact_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:20:07.916487+00:00
 -- url     : https://prove2.me/theorems/ad2361b8-b4a9-4e14-92fa-8be2c2f32bbd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_monomialPartAlongDivisor_eq_inf_componentPowerIdeal
 -- name    : FunctorialResolution.EmbeddedResolution.monomialPartAlongDivisor_eq_inf_componentPowerIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:49:17.985423+00:00
 -- url     : https://prove2.me/theorems/edc98e3a-a5de-431f-9c6c-07e4313c9213

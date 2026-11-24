@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_RowSpan_sum_smem
 -- name    : GlobalTheory.InertZeta.RowSpan.sum_smem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:18:58.549992+00:00
 -- url     : https://prove2.me/theorems/e986a10f-34d7-4c55-8bff-765cb8321fc5

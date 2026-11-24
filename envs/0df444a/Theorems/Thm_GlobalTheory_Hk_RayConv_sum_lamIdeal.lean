@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RayConv_sum_lamIdeal
 -- name    : GlobalTheory.Hk.RayConv.sum_lamIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:34:57.928891+00:00
 -- url     : https://prove2.me/theorems/55e1ef82-98cb-42da-87b0-48f879618eba

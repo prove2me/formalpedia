@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSymplecticBasis_span_inr_eq
 -- name    : GlobalTheory.IsSymplecticBasis.span_inr_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:21:08.157789+00:00
 -- url     : https://prove2.me/theorems/880a13e5-e574-46b1-b970-489b3667ada3

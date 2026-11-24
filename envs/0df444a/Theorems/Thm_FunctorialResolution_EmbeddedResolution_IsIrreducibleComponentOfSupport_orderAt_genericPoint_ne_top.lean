@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_IsIrreducibleComponentOfSupport_orderAt_genericPoint_ne_top
 -- name    : FunctorialResolution.EmbeddedResolution.IsIrreducibleComponentOfSupport.orderAt_genericPoint_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:58:33.953528+00:00
 -- url     : https://prove2.me/theorems/a65b0eb2-8c0f-4058-a7c5-15e34e5804be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilM_HaarUniq_exists_invariant
 -- name    : GlobalTheory.WeilM.HaarUniq.exists_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:48:21.418+00:00
 -- url     : https://prove2.me/theorems/6e4bd97d-2a3a-48ec-880a-cc2637dac96f

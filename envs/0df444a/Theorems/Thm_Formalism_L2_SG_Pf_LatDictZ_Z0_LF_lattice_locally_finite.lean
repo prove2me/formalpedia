@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z0_LF_lattice_locally_finite
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z0.LF.lattice_locally_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:58:16.837049+00:00
 -- url     : https://prove2.me/theorems/69f0f776-7b4e-42bf-8f35-48e3411c30d7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Et_Idem_single_mul_single_of_ne
 -- name    : GlobalTheory.JR.Et.Idem.single_mul_single_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T17:26:34.882378+00:00
 -- url     : https://prove2.me/theorems/1609b15d-334b-4c6a-95c8-f2ba896598d1

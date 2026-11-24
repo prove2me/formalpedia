@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatFamily_norm_flatIntegrand_le
 -- name    : GlobalTheory.FlatFamily.norm_flatIntegrand_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:32:49.54413+00:00
 -- url     : https://prove2.me/theorems/2fbaa73e-d308-4e83-8938-df59dd61a2cf

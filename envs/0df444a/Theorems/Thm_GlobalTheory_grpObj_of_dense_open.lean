@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_grpObj_of_dense_open
 -- name    : GlobalTheory.grpObj_of_dense_open
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:36:36.009814+00:00
 -- url     : https://prove2.me/theorems/832d4d63-1afd-4cbe-a2ea-211c80742cae

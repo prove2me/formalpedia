@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CCRuleCW_act_add
 -- name    : CCRuleCW.act_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:54:44.611365+00:00
 -- url     : https://prove2.me/theorems/06736337-4c1e-4260-8223-995873aa652f
