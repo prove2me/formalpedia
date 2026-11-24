@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_graphMorphismToAffineSpace_basicOpen_jacobianDetSection_eq
 -- name    : FunctorialResolution.EmbeddedResolution.graphMorphismToAffineSpace_basicOpen_jacobianDetSection_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:54:31.201856+00:00
 -- url     : https://prove2.me/theorems/08516bc3-f536-4aec-9ee8-7780dc7d1549

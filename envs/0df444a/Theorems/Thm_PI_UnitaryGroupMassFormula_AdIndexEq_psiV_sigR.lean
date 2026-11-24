@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_psiV_sigR
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.psiV_sigR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:12:51.144219+00:00
 -- url     : https://prove2.me/theorems/f2c573f6-f24e-436e-ae64-1b6c004f1517

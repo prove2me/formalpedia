@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_descent_conj
 -- name    : GlobalTheory.Cyc.descent_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:34:30.749427+00:00
 -- url     : https://prove2.me/theorems/ac22bc05-2a91-4f0f-a2bf-9481720f938b

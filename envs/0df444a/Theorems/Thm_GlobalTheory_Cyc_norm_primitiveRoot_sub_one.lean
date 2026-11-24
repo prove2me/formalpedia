@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_norm_primitiveRoot_sub_one
 -- name    : GlobalTheory.Cyc.norm_primitiveRoot_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:23:57.564058+00:00
 -- url     : https://prove2.me/theorems/66c33042-0210-4592-a130-72dca36896ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EtaChar_eta_of_norm_eq
 -- name    : GlobalTheory.EtaChar.eta_of_norm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:58:49.281705+00:00
 -- url     : https://prove2.me/theorems/7d83662b-9f41-4260-bbf1-a2a65648abb6

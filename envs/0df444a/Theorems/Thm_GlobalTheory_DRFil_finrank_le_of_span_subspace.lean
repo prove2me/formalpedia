@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_finrank_le_of_span_subspace
 -- name    : GlobalTheory.DRFil.finrank_le_of_span_subspace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:35:48.838393+00:00
 -- url     : https://prove2.me/theorems/b35a2b97-639c-465d-87de-0bc32c308c11

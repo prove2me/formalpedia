@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_curve_count_ge_two_times_N1
 -- name    : curve_count_ge_two_times_N1
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T14:18:18.290067+00:00
 -- url     : https://prove2.me/theorems/4fa7c9fe-4a4d-4d9c-a444-068d40add24c

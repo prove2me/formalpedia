@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MvPolyContDiff
 -- name    : MvPolyContDiff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:26:25.501035+00:00
 -- url     : https://prove2.me/theorems/ace9f1a6-b368-4562-9b1e-aaa201173fd8

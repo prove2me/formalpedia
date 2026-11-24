@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CovolumeOneSelfDual_poisson
 -- name    : GlobalTheory.CovolumeOneSelfDual.poisson
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:44:10.622876+00:00
 -- url     : https://prove2.me/theorems/614c9195-d4f2-44a8-894c-5c453e426ab1

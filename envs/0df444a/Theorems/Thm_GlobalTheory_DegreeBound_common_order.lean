@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegreeBound_common_order
 -- name    : GlobalTheory.DegreeBound.common_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:43:30.141168+00:00
 -- url     : https://prove2.me/theorems/230fb641-e5a0-4ea9-92b6-34e476f683b2

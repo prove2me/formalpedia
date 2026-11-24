@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscrJacobian_map_mem_radical
 -- name    : GlobalTheory.DiscrJacobian.map_mem_radical
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:51:13.036934+00:00
 -- url     : https://prove2.me/theorems/d5fa8665-a84d-4de0-99c9-1d725bc61a3d

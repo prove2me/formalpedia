@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualFibreRank_cmp_natural_apply
 -- name    : GlobalTheory.DualFibreRank.cmp_natural_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:51:31.582716+00:00
 -- url     : https://prove2.me/theorems/d8b3eb21-2ae0-426a-98da-82045cbf36fa

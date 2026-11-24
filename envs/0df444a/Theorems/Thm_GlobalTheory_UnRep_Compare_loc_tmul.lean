@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_Compare_loc_tmul
 -- name    : GlobalTheory.UnRep.Compare.loc_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:18:08.457473+00:00
 -- url     : https://prove2.me/theorems/e0679204-8a2d-417a-a63c-f15b2bc8350a

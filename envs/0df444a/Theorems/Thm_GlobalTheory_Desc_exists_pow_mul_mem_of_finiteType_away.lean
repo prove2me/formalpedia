@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Desc_exists_pow_mul_mem_of_finiteType_away
 -- name    : GlobalTheory.Desc.exists_pow_mul_mem_of_finiteType_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:43:28.794879+00:00
 -- url     : https://prove2.me/theorems/e8d87753-9781-40f7-b508-9d3374a22da2

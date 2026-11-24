@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LDL_oH_isOpenEmbedding
 -- name    : GlobalTheory.CompanionTheory.SW.LDL.oH_isOpenEmbedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:06:30.917382+00:00
 -- url     : https://prove2.me/theorems/4a2241e0-f750-4c0a-b41f-ba832f8d8daf

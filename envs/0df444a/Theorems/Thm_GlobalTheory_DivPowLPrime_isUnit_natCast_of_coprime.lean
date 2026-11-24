@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DivPowLPrime_isUnit_natCast_of_coprime
 -- name    : GlobalTheory.DivPowLPrime.isUnit_natCast_of_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:50:19.72391+00:00
 -- url     : https://prove2.me/theorems/5f091a00-67da-4126-9262-551d05a060a1

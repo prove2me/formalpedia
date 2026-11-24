@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_TW_substitution_SUB
 -- name    : Formalism.IrreducibleCountingLemmas.TW.substitution_SUB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:55:26.557814+00:00
 -- url     : https://prove2.me/theorems/c0f23f1f-c044-4272-8230-492df8243e78

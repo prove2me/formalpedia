@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualFormValues_riemannCl_eq_sum
 -- name    : GlobalTheory.DualFormValues.riemannCl_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:51:40.258799+00:00
 -- url     : https://prove2.me/theorems/5ad09a49-6cbe-45d3-874e-8b8ba719c6ea

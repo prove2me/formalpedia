@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EisConstTerm_eisTerm_pair_zero
 -- name    : GlobalTheory.EisConstTerm.eisTerm_pair_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:57:56.253803+00:00
 -- url     : https://prove2.me/theorems/40ad95fc-462b-4602-b8ee-a83f6c600778

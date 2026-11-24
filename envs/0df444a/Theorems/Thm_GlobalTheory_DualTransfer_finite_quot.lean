@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualTransfer_finite_quot
 -- name    : GlobalTheory.DualTransfer.finite_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:52:07.745592+00:00
 -- url     : https://prove2.me/theorems/eb81c2ce-cdb8-4a52-a6e8-b2b49d94c7ea

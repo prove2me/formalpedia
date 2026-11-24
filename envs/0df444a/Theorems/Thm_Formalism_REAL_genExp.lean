@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_genExp
 -- name    : Formalism.REAL.genExp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:13:51.254508+00:00
 -- url     : https://prove2.me/theorems/a602c530-1508-41c4-a3a8-4f8c8c0f3d4c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetBound_gens_mem_linearIndependent
 -- name    : GlobalTheory.DetBound.gens_mem_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:59:33.335474+00:00
 -- url     : https://prove2.me/theorems/7844044b-f768-46fb-86ce-a5714842a930

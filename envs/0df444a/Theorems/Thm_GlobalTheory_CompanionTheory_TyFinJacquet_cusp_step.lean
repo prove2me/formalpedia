@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFinJacquet_cusp_step
 -- name    : GlobalTheory.CompanionTheory.TyFinJacquet.cusp_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:18:44.539106+00:00
 -- url     : https://prove2.me/theorems/ad97b041-0d97-49d8-aea8-201cad663be6

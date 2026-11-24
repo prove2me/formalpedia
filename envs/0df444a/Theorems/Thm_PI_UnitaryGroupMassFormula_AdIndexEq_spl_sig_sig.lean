@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_spl_sig_sig
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.spl_sig_sig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:10:16.699464+00:00
 -- url     : https://prove2.me/theorems/3b6e490c-fb11-4e24-82e4-81dd81836eac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MvPolyFDeriv
 -- name    : MvPolyFDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T14:26:32.188799+00:00
 -- url     : https://prove2.me/theorems/1b0579e8-e99c-46f6-ac7c-7942178163d9

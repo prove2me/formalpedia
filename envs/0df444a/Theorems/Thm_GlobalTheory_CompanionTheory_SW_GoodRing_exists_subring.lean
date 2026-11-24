@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GoodRing_exists_subring
 -- name    : GlobalTheory.CompanionTheory.SW.GoodRing.exists_subring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:01:50.253959+00:00
 -- url     : https://prove2.me/theorems/2df7fbbf-9033-4f46-a5ff-41a8de53d9b1

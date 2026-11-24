@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_exists_nilRad_extend
 -- name    : GlobalTheory.CuspGL.exists_nilRad_extend
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:31:42.445795+00:00
 -- url     : https://prove2.me/theorems/a424980c-b912-49bf-b9d8-a8aa7fb1d302

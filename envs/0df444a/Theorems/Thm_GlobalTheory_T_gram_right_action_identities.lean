@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gram_right_action_identities
 -- name    : GlobalTheory.T.gram_right_action_identities
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:27:40.410439+00:00
 -- url     : https://prove2.me/theorems/80ddcba1-c78f-4b04-9c0d-516938859b0a

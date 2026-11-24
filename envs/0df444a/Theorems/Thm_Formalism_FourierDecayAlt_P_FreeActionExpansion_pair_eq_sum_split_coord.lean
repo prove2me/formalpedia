@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FreeActionExpansion_pair_eq_sum_split_coord
 -- name    : Formalism.FourierDecayAlt.P.FreeActionExpansion.pair_eq_sum_split_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:58:57.008185+00:00
 -- url     : https://prove2.me/theorems/6e21b81f-c465-497f-af83-4dec84c14ff4

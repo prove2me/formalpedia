@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MTWalkSAT3CNF_TwoOcc_display_2
 -- name    : MTWalkSAT3CNF.TwoOcc.display_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-10T21:26:59.231762+00:00
 -- url     : https://prove2.me/theorems/c047b69e-3d4c-4f55-8f41-a75602307962

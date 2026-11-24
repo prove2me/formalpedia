@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenLine_twist_twist
 -- name    : GlobalTheory.EigenLine.twist_twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:56:24.628096+00:00
 -- url     : https://prove2.me/theorems/68d7c41b-1c66-4294-a26c-aab0b4309010

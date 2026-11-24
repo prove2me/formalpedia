@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_bessel_function_trivial_index
 -- name    : Formalism.FourierDecayAlt.P.bessel_function_trivial_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:27:26.731314+00:00
 -- url     : https://prove2.me/theorems/ef48dea4-e695-4bff-94e5-7fac25a9aba3

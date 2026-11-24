@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmoothSpread_exists_finite_chart
 -- name    : GlobalTheory.CompanionTheory.SmoothSpread.exists_finite_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:14:41.986802+00:00
 -- url     : https://prove2.me/theorems/c380e4ad-6f3a-4ea2-b2a7-ba3785d65422

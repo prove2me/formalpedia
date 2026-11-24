@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompletionEmbed_finite_quot_span
 -- name    : GlobalTheory.CompletionEmbed.finite_quot_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:26:19.717812+00:00
 -- url     : https://prove2.me/theorems/cfab474c-b37d-4736-b44f-3cc88bb80daf

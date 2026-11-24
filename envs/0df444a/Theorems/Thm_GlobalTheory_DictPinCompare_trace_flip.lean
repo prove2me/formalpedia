@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DictPinCompare_trace_flip
 -- name    : GlobalTheory.DictPinCompare.trace_flip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:18:33.52881+00:00
 -- url     : https://prove2.me/theorems/777e6fc6-415a-4dba-a44d-d488ca7d98da

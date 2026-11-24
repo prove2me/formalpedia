@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DictPinCompare_mem_unitaryOver_iff
 -- name    : GlobalTheory.DictPinCompare.mem_unitaryOver_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:19:14.771356+00:00
 -- url     : https://prove2.me/theorems/5d423a6c-d1b2-413f-8163-ef4b8f911113

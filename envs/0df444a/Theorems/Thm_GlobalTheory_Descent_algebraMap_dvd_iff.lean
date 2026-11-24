@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Descent_algebraMap_dvd_iff
 -- name    : GlobalTheory.Descent.algebraMap_dvd_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:43:41.528907+00:00
 -- url     : https://prove2.me/theorems/243b87a7-cfc9-489d-82a7-15da388df70b

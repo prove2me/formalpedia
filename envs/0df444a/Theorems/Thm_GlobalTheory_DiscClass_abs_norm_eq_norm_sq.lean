@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscClass_abs_norm_eq_norm_sq
 -- name    : GlobalTheory.DiscClass.abs_norm_eq_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:49:32.52838+00:00
 -- url     : https://prove2.me/theorems/3da116c7-e616-40b4-a0ac-398460220e1c

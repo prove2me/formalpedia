@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnLevBasicsW_liftVec_apply_in
 -- name    : PI.QnLevBasicsW.liftVec_apply_in
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:27:57.827991+00:00
 -- url     : https://prove2.me/theorems/26e8f498-a3b8-4f64-ac30-0465c25b87be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EndDivisible_mem_range_of_sum_eq_zero
 -- name    : GlobalTheory.EndDivisible.mem_range_of_sum_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:58:07.304461+00:00
 -- url     : https://prove2.me/theorems/0c50373e-2d85-4444-8c0b-81b42fee84d0

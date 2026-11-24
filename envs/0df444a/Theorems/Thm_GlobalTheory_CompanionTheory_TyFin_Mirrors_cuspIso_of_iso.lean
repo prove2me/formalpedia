@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_Mirrors_cuspIso_of_iso
 -- name    : GlobalTheory.CompanionTheory.TyFin.Mirrors.cuspIso_of_iso
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:10:05.733108+00:00
 -- url     : https://prove2.me/theorems/54816522-0904-4646-bb29-d6e01d56c03d

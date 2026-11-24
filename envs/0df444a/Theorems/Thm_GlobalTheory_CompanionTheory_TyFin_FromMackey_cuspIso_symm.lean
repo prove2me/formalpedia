@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_FromMackey_cuspIso_symm
 -- name    : GlobalTheory.CompanionTheory.TyFin.FromMackey.cuspIso_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:17:45.591914+00:00
 -- url     : https://prove2.me/theorems/2e150af1-0fa0-44b1-8bec-72528e9c393e

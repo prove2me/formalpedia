@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenSplit_exponents_eq_of_isDomain
 -- name    : GlobalTheory.EigenSplit.exponents_eq_of_isDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:57:49.057644+00:00
 -- url     : https://prove2.me/theorems/f4d963a0-78b0-447e-8bda-9c16026c3ec1

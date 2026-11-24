@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_right_derivative_mul
 -- name    : Formalism.REAL.right_derivative_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:14:26.43681+00:00
 -- url     : https://prove2.me/theorems/089c48ec-0f76-45f4-8660-60dcfe70dab6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_euclNorm_unitary_mulVec
 -- name    : Formalism.HermitianLatticeCounting.P.euclNorm_unitary_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:28:34.290608+00:00
 -- url     : https://prove2.me/theorems/342f2ef0-823d-4c39-b3f8-9adddea6c2fb

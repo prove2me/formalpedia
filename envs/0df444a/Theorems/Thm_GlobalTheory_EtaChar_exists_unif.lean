@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EtaChar_exists_unif
 -- name    : GlobalTheory.EtaChar.exists_unif
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:58:59.878265+00:00
 -- url     : https://prove2.me/theorems/79f6320d-aabf-4b9d-9f25-084c43fcd91e

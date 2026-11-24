@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiffVanish_multiDiff_eq_zero
 -- name    : GlobalTheory.DiffVanish.multiDiff_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:49:20.904803+00:00
 -- url     : https://prove2.me/theorems/962a2d1a-1dde-465f-92bc-bfc3d3b2ac72

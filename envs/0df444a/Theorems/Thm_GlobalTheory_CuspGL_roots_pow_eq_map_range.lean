@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_roots_pow_eq_map_range
 -- name    : GlobalTheory.CuspGL.roots_pow_eq_map_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:32:34.161702+00:00
 -- url     : https://prove2.me/theorems/09a50318-8800-4c6d-809c-0bd7a34ae4ae

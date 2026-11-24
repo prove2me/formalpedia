@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_HermClass_Congr_refl
 -- name    : GlobalTheory.LocalQuad.HermClass.Congr.refl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:28:12.585804+00:00
 -- url     : https://prove2.me/theorems/92618a24-6611-4d07-9544-07c86b545ab0

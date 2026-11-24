@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_det_blkMat
 -- name    : GlobalTheory.Doubling.det_blkMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:52:17.641131+00:00
 -- url     : https://prove2.me/theorems/84fdbc9b-a310-4857-b9e4-10f190dad556

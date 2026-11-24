@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EisBL_NilAlg_blk_map
 -- name    : GlobalTheory.EisBL.NilAlg.blk_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:05:44.986266+00:00
 -- url     : https://prove2.me/theorems/94600a08-6f83-4c57-98f0-0eaab428c7fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_PhiLead_alt_single
 -- name    : GlobalTheory.DI.PhiLead.alt_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:33:54.057421+00:00
 -- url     : https://prove2.me/theorems/0f494fea-945a-4a9a-80e9-56cd86c67232

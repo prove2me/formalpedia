@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_hermA_neg_left
 -- name    : GlobalTheory.AdLat.hermA_neg_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:21:54.036529+00:00
 -- url     : https://prove2.me/theorems/f11dea3f-6653-457b-a075-8ce13a48f2e6

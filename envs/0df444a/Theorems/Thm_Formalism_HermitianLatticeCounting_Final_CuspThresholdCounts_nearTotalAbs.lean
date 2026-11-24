@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_CuspThresholdCounts_nearTotalAbs
 -- name    : Formalism.HermitianLatticeCounting.Final.CuspThresholdCounts.nearTotalAbs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:15:00.034803+00:00
 -- url     : https://prove2.me/theorems/f7505fa0-b7d4-4b18-a87e-a66f61065a09

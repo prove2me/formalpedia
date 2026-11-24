@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_PPA_natE_smul
 -- name    : PI.ScRefExists.PPA.natE_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:58:22.425207+00:00
 -- url     : https://prove2.me/theorems/7e878701-f15a-4321-9632-a2cfe495c4fe

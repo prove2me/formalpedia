@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EtaleFamily_exists_local_inverse
 -- name    : GlobalTheory.EtaleFamily.exists_local_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:59:25.880514+00:00
 -- url     : https://prove2.me/theorems/08154359-3da5-423b-b487-224431bcbe3c

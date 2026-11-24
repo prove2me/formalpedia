@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DoubleCosetAdjoint_integrableOn_star_mul
 -- name    : GlobalTheory.DoubleCosetAdjoint.integrableOn_star_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:50:03.456899+00:00
 -- url     : https://prove2.me/theorems/a5b92fcc-9d5d-485a-a581-9a879c4ade7f

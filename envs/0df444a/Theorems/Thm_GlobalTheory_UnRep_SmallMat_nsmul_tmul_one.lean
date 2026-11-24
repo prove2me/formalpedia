@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_SmallMat_nsmul_tmul_one
 -- name    : GlobalTheory.UnRep.SmallMat.nsmul_tmul_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:21:28.511119+00:00
 -- url     : https://prove2.me/theorems/17f4c2d5-1158-4565-bc96-cd70eeed2b6f

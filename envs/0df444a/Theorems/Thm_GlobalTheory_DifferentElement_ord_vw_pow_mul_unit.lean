@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DifferentElement_ord_vw_pow_mul_unit
 -- name    : GlobalTheory.DifferentElement.ord_vw_pow_mul_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:49:00.897789+00:00
 -- url     : https://prove2.me/theorems/0241c094-b293-4adc-b055-d7e39bff2a40

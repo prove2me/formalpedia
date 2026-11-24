@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_trace_form_coords
 -- name    : GlobalTheory.CompanionTheory.SW.trace_form_coords
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:24:08.182703+00:00
 -- url     : https://prove2.me/theorems/a6a5e380-5142-47c7-b640-9dbdba8dd429

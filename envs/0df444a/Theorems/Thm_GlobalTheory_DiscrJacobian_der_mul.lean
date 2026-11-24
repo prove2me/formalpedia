@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscrJacobian_der_mul
 -- name    : GlobalTheory.DiscrJacobian.der_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:49:05.229001+00:00
 -- url     : https://prove2.me/theorems/620f4903-a9d4-4be0-a123-494b622e0982

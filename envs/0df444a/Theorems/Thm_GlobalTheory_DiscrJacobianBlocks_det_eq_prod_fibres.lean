@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscrJacobianBlocks_det_eq_prod_fibres
 -- name    : GlobalTheory.DiscrJacobianBlocks.det_eq_prod_fibres
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:51:37.753066+00:00
 -- url     : https://prove2.me/theorems/7a262949-b3b6-40f3-96de-98ffcc35096f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenAll_gs_sub
 -- name    : GlobalTheory.EigenAll.gs_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:53:48.596121+00:00
 -- url     : https://prove2.me/theorems/417b86b2-4b4d-43d3-8793-a761a33a2302

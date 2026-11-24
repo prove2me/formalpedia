@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualFamily_eq_zero_of_line
 -- name    : GlobalTheory.DualFamily.eq_zero_of_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:51:13.351479+00:00
 -- url     : https://prove2.me/theorems/65822d10-c240-4e81-8960-0416952617d2

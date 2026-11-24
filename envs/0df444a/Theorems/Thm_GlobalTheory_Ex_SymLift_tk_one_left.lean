@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_SymLift_tk_one_left
 -- name    : GlobalTheory.Ex.SymLift.tk_one_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:06:36.476413+00:00
 -- url     : https://prove2.me/theorems/6fc19007-290b-4864-88e6-34f9d5a26331

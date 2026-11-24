@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EisPerB_rhsTerm_eq
 -- name    : GlobalTheory.EisPerB.rhsTerm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:58:36.341481+00:00
 -- url     : https://prove2.me/theorems/40275f98-dc44-4d4e-985c-35df9771b521

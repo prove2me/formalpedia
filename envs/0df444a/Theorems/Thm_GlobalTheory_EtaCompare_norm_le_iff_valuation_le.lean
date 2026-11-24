@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EtaCompare_norm_le_iff_valuation_le
 -- name    : GlobalTheory.EtaCompare.norm_le_iff_valuation_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:58:48.369063+00:00
 -- url     : https://prove2.me/theorems/41721e0b-f395-403a-a4ec-7bfae2d3adaa

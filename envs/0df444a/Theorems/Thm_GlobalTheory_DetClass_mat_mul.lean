@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetClass_mat_mul
 -- name    : GlobalTheory.DetClass.mat_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:43:25.764837+00:00
 -- url     : https://prove2.me/theorems/4bcdb9b0-f30b-4785-9ffd-fe6ec1bb017e

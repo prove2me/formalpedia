@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BetaSesquilinearity_sCkOn_mono
 -- name    : Formalism.FourierDecayAlt.P.BetaSesquilinearity.sCkOn_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:25:12.564312+00:00
 -- url     : https://prove2.me/theorems/26ce4678-f9b5-4662-b88d-89cb1738d081

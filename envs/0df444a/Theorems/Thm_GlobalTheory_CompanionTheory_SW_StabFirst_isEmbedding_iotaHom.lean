@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_StabFirst_isEmbedding_iotaHom
 -- name    : GlobalTheory.CompanionTheory.SW.StabFirst.isEmbedding_iotaHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:09:05.375796+00:00
 -- url     : https://prove2.me/theorems/f1102d78-9e34-4ded-9a78-5e9942ddb743

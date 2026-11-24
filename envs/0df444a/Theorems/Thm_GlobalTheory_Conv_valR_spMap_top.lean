@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Conv_valR_spMap_top
 -- name    : GlobalTheory.Conv.valR_spMap_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:34:16.119977+00:00
 -- url     : https://prove2.me/theorems/45644f8d-ec6d-449d-9867-2c42ca16f5a9

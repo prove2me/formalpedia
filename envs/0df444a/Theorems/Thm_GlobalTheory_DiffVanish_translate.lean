@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiffVanish_translate
 -- name    : GlobalTheory.DiffVanish.translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:48:40.673213+00:00
 -- url     : https://prove2.me/theorems/fb15e1d9-12d5-4a0a-b22e-13210e84c0b5

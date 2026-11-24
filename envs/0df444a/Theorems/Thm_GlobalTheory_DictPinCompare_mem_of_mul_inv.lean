@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DictPinCompare_mem_of_mul_inv
 -- name    : GlobalTheory.DictPinCompare.mem_of_mul_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:19:11.94657+00:00
 -- url     : https://prove2.me/theorems/af0880b5-1628-4cd8-97af-78eb2ead17e8

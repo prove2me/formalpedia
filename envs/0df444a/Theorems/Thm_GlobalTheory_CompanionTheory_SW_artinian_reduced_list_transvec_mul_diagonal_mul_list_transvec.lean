@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_artinian_reduced_list_transvec_mul_diagonal_mul_list_transvec
 -- name    : GlobalTheory.CompanionTheory.SW.artinian_reduced_list_transvec_mul_diagonal_mul_list_transvec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:12:35.702855+00:00
 -- url     : https://prove2.me/theorems/96346334-2f0c-439c-a06f-4b2d555fa63b

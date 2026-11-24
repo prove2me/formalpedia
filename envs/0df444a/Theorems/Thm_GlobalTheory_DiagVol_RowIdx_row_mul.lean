@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiagVol_RowIdx_row_mul
 -- name    : GlobalTheory.DiagVol.RowIdx.row_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:49:09.328807+00:00
 -- url     : https://prove2.me/theorems/2fbec5c0-dc8b-4d22-b06a-18533b1b3457

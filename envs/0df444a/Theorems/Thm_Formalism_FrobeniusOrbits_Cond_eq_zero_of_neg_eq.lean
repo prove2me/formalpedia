@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Cond_eq_zero_of_neg_eq
 -- name    : Formalism.FrobeniusOrbits.Cond.eq_zero_of_neg_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:10:43.425299+00:00
 -- url     : https://prove2.me/theorems/a30ae709-98c5-4d6a-8219-c575da6c2e09

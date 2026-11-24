@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeValues_comp_psum
 -- name    : GlobalTheory.CubeValues.comp_psum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:22:20.077844+00:00
 -- url     : https://prove2.me/theorems/b13611be-d4ff-412e-ad87-b03634470b98

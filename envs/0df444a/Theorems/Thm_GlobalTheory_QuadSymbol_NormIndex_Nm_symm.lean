@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_NormIndex_Nm_symm
 -- name    : GlobalTheory.QuadSymbol.NormIndex.Nm.symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:00:41.896633+00:00
 -- url     : https://prove2.me/theorems/48686aba-ccef-483e-b0d2-18768f56e90b

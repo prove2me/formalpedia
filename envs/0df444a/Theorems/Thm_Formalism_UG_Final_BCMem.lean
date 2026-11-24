@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_Final_BCMem
 -- name    : Formalism.UG.Final.BCMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:12:59.801134+00:00
 -- url     : https://prove2.me/theorems/bb38fba0-3d7d-4322-b42d-9357215a2f8c

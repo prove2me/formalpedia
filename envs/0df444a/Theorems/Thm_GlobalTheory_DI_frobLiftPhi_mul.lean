@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_frobLiftPhi_mul
 -- name    : GlobalTheory.DI.frobLiftPhi_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:36:16.685871+00:00
 -- url     : https://prove2.me/theorems/0554af4e-f9b9-4dfb-b4fa-e529c02259e2

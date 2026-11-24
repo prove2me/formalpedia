@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_adelic_unitary_group_locally_compact
 -- name    : GlobalTheory.T.adelic_unitary_group_locally_compact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:49:15.017255+00:00
 -- url     : https://prove2.me/theorems/95c251a0-9291-4af9-8181-111401e285f8

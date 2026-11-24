@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenPair_adj_baseChange
 -- name    : GlobalTheory.EigenPair.adj_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:56:57.920953+00:00
 -- url     : https://prove2.me/theorems/f0efea7d-f8fd-4368-bd3b-a9801a89feab

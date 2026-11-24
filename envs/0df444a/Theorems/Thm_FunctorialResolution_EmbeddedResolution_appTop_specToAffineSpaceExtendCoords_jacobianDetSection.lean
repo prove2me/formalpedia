@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_appTop_specToAffineSpaceExtendCoords_jacobianDetSection
 -- name    : FunctorialResolution.EmbeddedResolution.appTop_specToAffineSpaceExtendCoords_jacobianDetSection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:14:09.857594+00:00
 -- url     : https://prove2.me/theorems/d70bd02d-da8e-485f-9d65-a9f78d99d02a

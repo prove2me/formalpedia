@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BetaSesquilinearity_CkOn_smul
 -- name    : Formalism.FourierDecayAlt.P.BetaSesquilinearity.CkOn_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:26:05.070084+00:00
 -- url     : https://prove2.me/theorems/4122af03-9163-4ee3-8e32-8ba0e58eb1b2

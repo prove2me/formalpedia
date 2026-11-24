@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_ext_eq_rTensor
 -- name    : GlobalTheory.DRFil.ext_eq_rTensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:36:37.41469+00:00
 -- url     : https://prove2.me/theorems/a11a8714-f242-43bc-8351-5cb65fc2db50

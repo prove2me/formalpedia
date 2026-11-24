@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DisjointCoverLB_gm_imageUnit
 -- name    : GlobalTheory.DisjointCoverLB.gm_imageUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:51:11.680995+00:00
 -- url     : https://prove2.me/theorems/89fb0a9d-8ef0-4cc4-8966-aa1fb03fb1ad

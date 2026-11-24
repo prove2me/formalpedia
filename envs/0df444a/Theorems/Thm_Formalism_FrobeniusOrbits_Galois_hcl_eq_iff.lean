@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Galois_hcl_eq_iff
 -- name    : Formalism.FrobeniusOrbits.Galois.hcl_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:52:49.892927+00:00
 -- url     : https://prove2.me/theorems/a1f96377-ac27-4ac9-9fe2-c58049b65cad

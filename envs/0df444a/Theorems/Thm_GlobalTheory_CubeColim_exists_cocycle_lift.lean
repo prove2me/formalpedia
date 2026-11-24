@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeColim_exists_cocycle_lift
 -- name    : GlobalTheory.CubeColim.exists_cocycle_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:28:26.844403+00:00
 -- url     : https://prove2.me/theorems/4f625578-4055-4a6b-ba64-d3c828869210

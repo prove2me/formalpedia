@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EtaleCoordinates_partialDerivIdeal_mono
 -- name    : FunctorialResolution.EmbeddedResolution.EtaleCoordinates.partialDerivIdeal_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:58:34.963126+00:00
 -- url     : https://prove2.me/theorems/7bb4dea4-5b5c-430d-b2f8-ae0fb1f57cf6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SelfDualInf_trace_nondeg_of
 -- name    : GlobalTheory.CompanionTheory.SelfDualInf.trace_nondeg_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:38:23.902918+00:00
 -- url     : https://prove2.me/theorems/77f95f0b-7a0c-4dbc-a3c7-b2f803f6b5b6

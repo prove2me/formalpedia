@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_IsRightSmooth_isKFinite
 -- name    : GlobalTheory.Doubling.IsRightSmooth.isKFinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:50:45.63888+00:00
 -- url     : https://prove2.me/theorems/1380bb14-fd97-436a-aa69-98694083e4ec

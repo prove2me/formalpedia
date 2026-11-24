@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CondAway_clearsIdem_condQ_iff
 -- name    : GlobalTheory.CondAway.clearsIdem_condQ_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:25:36.835092+00:00
 -- url     : https://prove2.me/theorems/6516c0ad-e9ad-46f7-9593-c65f6dcd2d78

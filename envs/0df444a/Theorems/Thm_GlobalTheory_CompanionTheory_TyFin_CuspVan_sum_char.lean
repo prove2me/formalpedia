@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_CuspVan_sum_char
 -- name    : GlobalTheory.CompanionTheory.TyFin.CuspVan.sum_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:17:17.429799+00:00
 -- url     : https://prove2.me/theorems/08a77d3d-57de-41d2-9597-aaa89bd36381

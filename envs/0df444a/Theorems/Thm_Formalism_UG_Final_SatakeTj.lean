@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_Final_SatakeTj
 -- name    : Formalism.UG.Final.SatakeTj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:16:51.525081+00:00
 -- url     : https://prove2.me/theorems/f391be26-9bdc-4146-994e-56e2215b1510

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_NumD_vt_mul_tor_shift
 -- name    : GlobalTheory.Ex.NumD.vt_mul_tor_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:06:06.914801+00:00
 -- url     : https://prove2.me/theorems/78f55fbc-805a-4a83-b187-4373ef63de5a

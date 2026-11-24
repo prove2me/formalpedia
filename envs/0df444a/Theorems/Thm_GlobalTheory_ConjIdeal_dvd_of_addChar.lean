@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConjIdeal_dvd_of_addChar
 -- name    : GlobalTheory.ConjIdeal.dvd_of_addChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:25:22.569232+00:00
 -- url     : https://prove2.me/theorems/3bc95bf5-dd33-4e8a-b3dd-ced312a4d8db

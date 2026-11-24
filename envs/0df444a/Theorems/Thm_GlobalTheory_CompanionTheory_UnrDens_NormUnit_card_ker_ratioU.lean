@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_NormUnit_card_ker_ratioU
 -- name    : GlobalTheory.CompanionTheory.UnrDens.NormUnit.card_ker_ratioU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:20:13.252711+00:00
 -- url     : https://prove2.me/theorems/efececdb-f8d3-4fc8-953b-a078c0c5f4fc

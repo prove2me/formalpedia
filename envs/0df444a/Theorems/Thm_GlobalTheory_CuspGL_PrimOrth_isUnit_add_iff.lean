@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_PrimOrth_isUnit_add_iff
 -- name    : GlobalTheory.CuspGL.PrimOrth.isUnit_add_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:31:24.38393+00:00
 -- url     : https://prove2.me/theorems/97bafddc-db69-40de-a095-e67c199b4369

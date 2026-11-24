@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualFormValues_coeff_eq_zero
 -- name    : GlobalTheory.DualFormValues.coeff_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:52:07.641227+00:00
 -- url     : https://prove2.me/theorems/a542367a-7cbd-4673-bdce-3df73360ff0f

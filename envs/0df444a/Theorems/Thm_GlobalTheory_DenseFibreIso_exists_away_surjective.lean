@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DenseFibreIso_exists_away_surjective
 -- name    : GlobalTheory.DenseFibreIso.exists_away_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:18:48.940839+00:00
 -- url     : https://prove2.me/theorems/05340f48-4cad-48cf-8755-9940a6deb52c

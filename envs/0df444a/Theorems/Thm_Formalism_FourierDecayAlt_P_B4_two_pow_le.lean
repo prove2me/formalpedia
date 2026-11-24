@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B4_two_pow_le
 -- name    : Formalism.FourierDecayAlt.P.B4.two_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:29:03.816312+00:00
 -- url     : https://prove2.me/theorems/7bd2de05-97bf-49ce-a4df-3ee5c7c94e90

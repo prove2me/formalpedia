@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_ColStep_Avg_wh_zero_row
 -- name    : GlobalTheory.CompanionTheory.TyFin.ColStep.Avg.wh_zero_row
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:17:30.133687+00:00
 -- url     : https://prove2.me/theorems/47abd92d-bf9f-46a0-8066-48266ed3e109

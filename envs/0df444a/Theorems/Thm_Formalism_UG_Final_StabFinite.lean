@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_Final_StabFinite
 -- name    : Formalism.UG.Final.StabFinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:16:57.355106+00:00
 -- url     : https://prove2.me/theorems/e03e5594-55f3-4637-be71-341e8d6a8cda

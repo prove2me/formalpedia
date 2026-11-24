@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BetaSesquilinearity_isOpen_Quad
 -- name    : Formalism.FourierDecayAlt.P.BetaSesquilinearity.isOpen_Quad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:27:28.123015+00:00
 -- url     : https://prove2.me/theorems/49428009-89cb-4a50-a09c-7bdfbb1832ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_ColStep_Fourier_wh_colGe_succ_eq_sum
 -- name    : GlobalTheory.CompanionTheory.TyFin.ColStep.Fourier.wh_colGe_succ_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:17:02.267271+00:00
 -- url     : https://prove2.me/theorems/d7020ef6-5f76-43e2-b57e-2310e4e043db

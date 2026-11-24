@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_IsActC_continuous_orbit
 -- name    : GlobalTheory.Cyc.IsActC.continuous_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:34:07.708524+00:00
 -- url     : https://prove2.me/theorems/833d5779-9d59-4243-9610-20691a7799c7

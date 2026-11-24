@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_WittE_exists_isom_tuple
 -- name    : GlobalTheory.CompanionTheory.SW.WittE.exists_isom_tuple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:12:47.112893+00:00
 -- url     : https://prove2.me/theorems/7ddff797-8b23-4d75-8714-ca1772e21d7b

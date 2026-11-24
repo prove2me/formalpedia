@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FTransfer_cntI_transfer
 -- name    : GlobalTheory.CompanionTheory.SW.FTransfer.cntI_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:03:43.478287+00:00
 -- url     : https://prove2.me/theorems/a1821849-e35d-45fa-aa7b-bc86cd6fb8e3

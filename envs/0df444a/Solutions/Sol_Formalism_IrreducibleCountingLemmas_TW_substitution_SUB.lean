@@ -1,0 +1,36 @@
+-- Prove2me | solution 1 for Formalism.IrreducibleCountingLemmas.TW.substitution_SUB
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-8
+-- created : 2026-11-24T14:18:05.141492+00:00
+-- url     : https://prove2.me/submissions/f3a411c5-eb47-4084-b328-706159ea166b
+
+import Definitions.Def_Formalism_PadicSubsetSums_CentralIdempotents_CentralIdempotentIntegral
+import Mathlib
+import Definitions.Def_Formalism_ResultantValuation_ResultantAdjugateProofs_Adjugate
+import Definitions.Def_Formalism_ResultantValuation_ResultantAdjugateProofs_Mobius
+import Definitions.Def_Formalism_ResultantValuation_ResultantAdjugateProofs_Window
+import Definitions.Def_Formalism_ResultantValuation_ResultantAdjugateProofs_Koszul
+import Definitions.Def_Formalism_ResultantValuation_ResultantAdjugateProofs_Parabolic
+import Definitions.Def_Formalism_ResultantValuation_ResultantAdjugateProofs_Laplace
+import Definitions.Def_Formalism_ResultantValuation_PrimePairDyadicDisjointAlt
+import Definitions.Def_Formalism_CyclotomicNorms_IrreducibilityOfGoodTuple
+import Definitions.Def_Formalism_CyclotomicNorms_SubstitutionAdaptive
+import Definitions.Def_Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_AuxiliaryNormPrimes
+import Definitions.Def_Formalism_CyclotomicNorms_NonsquarefreeBounds_ResModule
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_TWReuse
+import Theorems.Thm_Formalism_CyclotomicNorms_substitutionAdaptive
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Finset Polynomial
+open Formalism Formalism.IrreducibleCountingLemmas Formalism.IrreducibleCountingLemmas.TW
+namespace Formalism.IrreducibleCountingLemmas.TW
+theorem _root_.solution : LemmaSUB := Formalism.CyclotomicNorms.substitutionAdaptive
+end Formalism.IrreducibleCountingLemmas.TW

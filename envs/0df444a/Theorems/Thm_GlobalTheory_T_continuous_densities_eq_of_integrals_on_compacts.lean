@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_continuous_densities_eq_of_integrals_on_compacts
 -- name    : GlobalTheory.T.continuous_densities_eq_of_integrals_on_compacts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:35:41.228152+00:00
 -- url     : https://prove2.me/theorems/6824f05e-3bcc-4f18-b9b5-5e8afc6c495d

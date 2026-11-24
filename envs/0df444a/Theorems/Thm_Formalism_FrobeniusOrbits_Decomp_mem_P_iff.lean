@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Decomp_mem_P_iff
 -- name    : Formalism.FrobeniusOrbits.Decomp.mem_P_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:11:10.599702+00:00
 -- url     : https://prove2.me/theorems/c945787b-7e60-4fd5-8744-dffe565f7e2e

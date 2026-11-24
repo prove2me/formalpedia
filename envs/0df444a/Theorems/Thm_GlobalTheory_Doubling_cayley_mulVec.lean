@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_cayley_mulVec
 -- name    : GlobalTheory.Doubling.cayley_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:52:15.182295+00:00
 -- url     : https://prove2.me/theorems/83ac5ea8-fa09-450f-a04e-ccfeea764bb6

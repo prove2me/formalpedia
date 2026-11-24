@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_WF_osmul
 -- name    : PI.ScRefExists.WF.osmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:16:55.998936+00:00
 -- url     : https://prove2.me/theorems/57f854d1-2c0a-4900-abdb-c0240aeb6dd0

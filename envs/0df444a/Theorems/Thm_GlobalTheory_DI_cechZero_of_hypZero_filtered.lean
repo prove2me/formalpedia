@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_cechZero_of_hypZero_filtered
 -- name    : GlobalTheory.DI.cechZero_of_hypZero_filtered
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:35:50.246217+00:00
 -- url     : https://prove2.me/theorems/b08f8dd6-2839-4ecb-bcf6-a77766a6409b

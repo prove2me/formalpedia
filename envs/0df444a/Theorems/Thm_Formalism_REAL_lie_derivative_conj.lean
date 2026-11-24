@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_lie_derivative_conj
 -- name    : Formalism.REAL.lie_derivative_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:13:42.252472+00:00
 -- url     : https://prove2.me/theorems/334323cf-8e01-4659-ab32-dfb8a9d3eb4e

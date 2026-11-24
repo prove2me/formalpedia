@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_kCasBound
 -- name    : Formalism.REAL.kCasBound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:14:49.228803+00:00
 -- url     : https://prove2.me/theorems/34ddf959-e5d0-4857-b3fe-e57b3552059a

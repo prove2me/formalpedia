@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Div_eigen_line_bilinear_bilin_zero_of_eig
 -- name    : GlobalTheory.Div.eigen_line_bilinear.bilin_zero_of_eig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:50:34.509815+00:00
 -- url     : https://prove2.me/theorems/3fb034f9-ab8d-4ff8-ac54-e48820b9cde6

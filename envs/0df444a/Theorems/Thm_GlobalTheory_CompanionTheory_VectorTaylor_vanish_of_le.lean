@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_VectorTaylor_vanish_of_le
 -- name    : GlobalTheory.CompanionTheory.VectorTaylor.vanish_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:21:13.109408+00:00
 -- url     : https://prove2.me/theorems/acdc37e1-c3ba-4ee6-a8c4-778798764f1c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_hasse_divisibility
 -- name    : hasse_divisibility
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T14:18:27.312804+00:00
 -- url     : https://prove2.me/theorems/71c795bb-c69d-4c18-b4bf-d9bb21ff55fb

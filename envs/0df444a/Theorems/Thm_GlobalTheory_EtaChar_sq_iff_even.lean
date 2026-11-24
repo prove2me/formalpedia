@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EtaChar_sq_iff_even
 -- name    : GlobalTheory.EtaChar.sq_iff_even
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:58:51.933799+00:00
 -- url     : https://prove2.me/theorems/ef19c7ed-bd08-4855-8388-366d519e9a69

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_ggModel
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.ggModel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:59:46.818411+00:00
 -- url     : https://prove2.me/theorems/469cdec6-edf2-48c1-b6a7-66bd368d7e37

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_Final_SigExists
 -- name    : Formalism.UG.Final.SigExists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:14:19.311022+00:00
 -- url     : https://prove2.me/theorems/4bce3c64-a4be-4984-884b-00ebcfc70a95

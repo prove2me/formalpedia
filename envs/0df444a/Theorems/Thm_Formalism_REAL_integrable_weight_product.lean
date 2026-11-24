@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_integrable_weight_product
 -- name    : Formalism.REAL.integrable_weight_product
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:12:49.958169+00:00
 -- url     : https://prove2.me/theorems/00877eef-f4fc-49f6-8720-e3ee95f93b5b

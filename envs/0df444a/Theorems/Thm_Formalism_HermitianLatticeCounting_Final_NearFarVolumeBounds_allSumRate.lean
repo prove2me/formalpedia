@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_NearFarVolumeBounds_allSumRate
 -- name    : Formalism.HermitianLatticeCounting.Final.NearFarVolumeBounds.allSumRate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:22:54.922413+00:00
 -- url     : https://prove2.me/theorems/a8a06fcc-0762-4474-9f03-69e1d1f20fd5

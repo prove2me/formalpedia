@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EisConstTerm_absNorm_of_spanSingleton
 -- name    : GlobalTheory.EisConstTerm.absNorm_of_spanSingleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:06:04.738804+00:00
 -- url     : https://prove2.me/theorems/ac478c41-db5b-4add-bdbd-395ca30d0197

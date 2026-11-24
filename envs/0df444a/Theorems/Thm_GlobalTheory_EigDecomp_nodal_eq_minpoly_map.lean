@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigDecomp_nodal_eq_minpoly_map
 -- name    : GlobalTheory.EigDecomp.nodal_eq_minpoly_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:53:26.088012+00:00
 -- url     : https://prove2.me/theorems/e0e8e62c-e423-4b78-99f0-07d1b86ade1d

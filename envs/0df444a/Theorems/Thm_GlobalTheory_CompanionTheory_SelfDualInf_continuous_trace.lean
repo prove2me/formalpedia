@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SelfDualInf_continuous_trace
 -- name    : GlobalTheory.CompanionTheory.SelfDualInf.continuous_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:38:14.042691+00:00
 -- url     : https://prove2.me/theorems/ac94d145-cc0d-419e-81dc-ab308430e125

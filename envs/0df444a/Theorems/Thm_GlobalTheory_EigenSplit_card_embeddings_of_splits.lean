@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenSplit_card_embeddings_of_splits
 -- name    : GlobalTheory.EigenSplit.card_embeddings_of_splits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:57:16.678869+00:00
 -- url     : https://prove2.me/theorems/ad0d70bf-0806-4ccf-a57d-bbb71d30c20c

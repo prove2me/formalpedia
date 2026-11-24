@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Conv_exists_lsum_eTwoPi_ne_zero
 -- name    : GlobalTheory.Conv.exists_lsum_eTwoPi_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:26:35.219128+00:00
 -- url     : https://prove2.me/theorems/425d9c00-c2e4-4fa4-9cfe-f21b017757ed

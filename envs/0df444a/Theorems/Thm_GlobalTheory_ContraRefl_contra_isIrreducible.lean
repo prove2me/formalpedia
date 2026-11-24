@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ContraRefl_contra_isIrreducible
 -- name    : GlobalTheory.ContraRefl.contra_isIrreducible
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:41:14.401891+00:00
 -- url     : https://prove2.me/theorems/0272a3fb-ddb6-4ef9-97b7-d036d437c8bb

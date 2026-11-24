@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualCrit_trace_eq_sum_ringHom
 -- name    : GlobalTheory.DualCrit.trace_eq_sum_ringHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:51:54.881788+00:00
 -- url     : https://prove2.me/theorems/14082d6a-4e8c-41b9-9958-8c8c236ee6d5

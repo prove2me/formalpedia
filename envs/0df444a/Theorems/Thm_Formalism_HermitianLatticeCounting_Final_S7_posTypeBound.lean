@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S7_posTypeBound
 -- name    : Formalism.HermitianLatticeCounting.Final.S7.posTypeBound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:05:53.008709+00:00
 -- url     : https://prove2.me/theorems/4108aee5-cf17-4b37-a40b-acab2e945728

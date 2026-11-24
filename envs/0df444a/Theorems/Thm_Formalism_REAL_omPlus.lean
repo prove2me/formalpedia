@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_omPlus
 -- name    : Formalism.REAL.omPlus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:14:16.575183+00:00
 -- url     : https://prove2.me/theorems/b755f3ad-e3f3-43f5-85fa-d02d7937eb19

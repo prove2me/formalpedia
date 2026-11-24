@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DictPinCompare_embW_surjective
 -- name    : GlobalTheory.DictPinCompare.embW_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:18:56.295774+00:00
 -- url     : https://prove2.me/theorems/0c519d91-23d0-4c91-a391-bffc3c759a68

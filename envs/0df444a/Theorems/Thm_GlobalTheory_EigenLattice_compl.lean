@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenLattice_compl
 -- name    : GlobalTheory.EigenLattice.compl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:53:24.86294+00:00
 -- url     : https://prove2.me/theorems/3bf0a7be-4fa7-43d3-a6d1-13734695cfb6

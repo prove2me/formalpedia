@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_OpenImmersionRestriction_orderAtEqOfAgreeNear
 -- name    : FunctorialResolution.EmbeddedResolution.OpenImmersionRestriction.orderAtEqOfAgreeNear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:14:27.394436+00:00
 -- url     : https://prove2.me/theorems/9c9d203e-32da-4d3a-9ae5-2fe89bbf648c

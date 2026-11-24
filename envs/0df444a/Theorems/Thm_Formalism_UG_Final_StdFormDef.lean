@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_Final_StdFormDef
 -- name    : Formalism.UG.Final.StdFormDef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:15:02.468198+00:00
 -- url     : https://prove2.me/theorems/53ef7a79-69d3-44c1-8c9b-924634f25932

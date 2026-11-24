@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EmbUnitBallConj_sum_eq_zero
 -- name    : GlobalTheory.EmbUnitBallConj.sum_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:58:20.803722+00:00
 -- url     : https://prove2.me/theorems/7e644cfb-ef31-464c-9bf9-798dcf041a3e

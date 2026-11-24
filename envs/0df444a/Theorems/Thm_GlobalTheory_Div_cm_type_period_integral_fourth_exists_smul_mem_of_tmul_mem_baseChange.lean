@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Div_cm_type_period_integral_fourth_exists_smul_mem_of_tmul_mem_baseChange
 -- name    : GlobalTheory.Div.cm_type_period_integral_fourth.exists_smul_mem_of_tmul_mem_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:50:27.319377+00:00
 -- url     : https://prove2.me/theorems/64ae07c7-ae78-40bc-8e43-d7e94801ac02

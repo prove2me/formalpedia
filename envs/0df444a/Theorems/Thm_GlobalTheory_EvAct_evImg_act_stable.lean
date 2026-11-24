@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EvAct_evImg_act_stable
 -- name    : GlobalTheory.EvAct.evImg_act_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:59:16.19122+00:00
 -- url     : https://prove2.me/theorems/1f342d73-64d8-4493-aa84-87a70b9b94f4

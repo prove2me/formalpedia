@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_Final_DefSig
 -- name    : Formalism.UG.Final.DefSig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:14:25.345948+00:00
 -- url     : https://prove2.me/theorems/e1bce5d0-6df1-4436-adc9-3b51f8ae6295

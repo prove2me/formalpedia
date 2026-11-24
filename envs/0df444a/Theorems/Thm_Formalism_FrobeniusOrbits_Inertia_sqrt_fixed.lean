@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Inertia_sqrt_fixed
 -- name    : Formalism.FrobeniusOrbits.Inertia.sqrt_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:10:36.786099+00:00
 -- url     : https://prove2.me/theorems/3f0ce8b7-30f2-4f01-a795-9da9c1a7d347

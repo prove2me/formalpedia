@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DoublingLength_int_mul_of_mem_KO
 -- name    : GlobalTheory.DoublingLength.int_mul_of_mem_KO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:52:53.229546+00:00
 -- url     : https://prove2.me/theorems/87859953-40ee-411a-b7d1-4d06593d40bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unramified_quotient_card
 -- name    : GlobalTheory.T.unramified_quotient_card
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:23:58.736776+00:00
 -- url     : https://prove2.me/theorems/b04b771c-0c8f-4136-bc5a-d48b29ca0522

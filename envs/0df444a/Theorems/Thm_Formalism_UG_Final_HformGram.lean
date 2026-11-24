@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_Final_HformGram
 -- name    : Formalism.UG.Final.HformGram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:15:00.460997+00:00
 -- url     : https://prove2.me/theorems/7efcb563-0b57-4579-ba20-c058544ef461

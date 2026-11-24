@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetIdeal_map_vol
 -- name    : GlobalTheory.DetIdeal.map_vol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:49:37.379905+00:00
 -- url     : https://prove2.me/theorems/fd7a0f72-c6a5-4014-bb2d-fa02795835df

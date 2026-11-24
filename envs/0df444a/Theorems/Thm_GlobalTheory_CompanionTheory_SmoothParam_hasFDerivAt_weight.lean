@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmoothParam_hasFDerivAt_weight
 -- name    : GlobalTheory.CompanionTheory.SmoothParam.hasFDerivAt_weight
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:07:10.431441+00:00
 -- url     : https://prove2.me/theorems/925fc247-aeb7-4f43-8d2b-1980a42cf179

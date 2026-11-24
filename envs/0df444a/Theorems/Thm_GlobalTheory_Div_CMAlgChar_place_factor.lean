@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Div_CMAlgChar_place_factor
 -- name    : GlobalTheory.Div.CMAlgChar.place_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:50:41.243711+00:00
 -- url     : https://prove2.me/theorems/41b3260b-3786-4561-ba10-81ecdc1e061a

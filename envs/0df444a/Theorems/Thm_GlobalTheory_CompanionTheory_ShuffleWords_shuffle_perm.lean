@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ShuffleWords_shuffle_perm
 -- name    : GlobalTheory.CompanionTheory.ShuffleWords.shuffle_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:13:38.551123+00:00
 -- url     : https://prove2.me/theorems/0f2f1efe-2809-4399-a65d-369bb0059348

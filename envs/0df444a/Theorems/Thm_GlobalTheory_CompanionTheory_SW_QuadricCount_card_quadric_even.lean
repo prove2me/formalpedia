@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_QuadricCount_card_quadric_even
 -- name    : GlobalTheory.CompanionTheory.SW.QuadricCount.card_quadric_even
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:07:43.884151+00:00
 -- url     : https://prove2.me/theorems/ac89d283-a9ef-4643-bc0a-f8a0d87c90f8

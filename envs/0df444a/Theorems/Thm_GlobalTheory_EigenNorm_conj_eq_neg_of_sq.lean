@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenNorm_conj_eq_neg_of_sq
 -- name    : GlobalTheory.EigenNorm.conj_eq_neg_of_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:56:33.033058+00:00
 -- url     : https://prove2.me/theorems/376133bc-9c96-47ed-9560-189ee7afccd7

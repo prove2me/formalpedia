@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TwContraction_val_diag_of_mem_iwahori
 -- name    : GlobalTheory.CompanionTheory.TwContraction.val_diag_of_mem_iwahori
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:18:10.356537+00:00
 -- url     : https://prove2.me/theorems/f625e52e-bdc1-42b0-854e-f7e6b0618973

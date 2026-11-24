@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CotUniv_tg_act
 -- name    : GlobalTheory.CotUniv.tg_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:27:39.960896+00:00
 -- url     : https://prove2.me/theorems/73f7066d-6461-44bf-b0be-a174113f8b94

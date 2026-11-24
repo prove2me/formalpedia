@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_NearFarVolumeBounds_polarInv
 -- name    : Formalism.HermitianLatticeCounting.Final.NearFarVolumeBounds.polarInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:23:41.160217+00:00
 -- url     : https://prove2.me/theorems/aefce6a1-d8fb-477f-b1fc-3c1f7455a037

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_CuspThresholdCounts_cusp_threshold_bound
 -- name    : Formalism.HermitianLatticeCounting.Final.CuspThresholdCounts.cusp_threshold_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:14:45.559424+00:00
 -- url     : https://prove2.me/theorems/23cfd5d3-df4a-4bdc-8b07-225b5a51e448

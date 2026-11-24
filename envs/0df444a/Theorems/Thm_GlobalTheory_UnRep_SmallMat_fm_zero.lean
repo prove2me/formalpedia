@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_SmallMat_fm_zero
 -- name    : GlobalTheory.UnRep.SmallMat.fm_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:20:09.721275+00:00
 -- url     : https://prove2.me/theorems/c9023007-28f0-46db-9135-51fc4b81c8ef

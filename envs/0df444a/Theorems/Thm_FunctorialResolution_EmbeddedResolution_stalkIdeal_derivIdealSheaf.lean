@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_stalkIdeal_derivIdealSheaf
 -- name    : FunctorialResolution.EmbeddedResolution.stalkIdeal_derivIdealSheaf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:15:57.801582+00:00
 -- url     : https://prove2.me/theorems/f78a63e9-1d35-489e-b7ae-dc800c08ea7f

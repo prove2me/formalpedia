@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenPair_natMul_mem_orderC
 -- name    : GlobalTheory.EigenPair.natMul_mem_orderC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:56:42.854419+00:00
 -- url     : https://prove2.me/theorems/262ec11e-70be-4290-ab73-ac9cd394f194

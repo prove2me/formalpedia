@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_SemiHom_homology_bijective
 -- name    : GlobalTheory.Cube.SemiHom.homology_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:14:56.816719+00:00
 -- url     : https://prove2.me/theorems/f413d5c1-dfa1-46de-9f79-16298cad73b0

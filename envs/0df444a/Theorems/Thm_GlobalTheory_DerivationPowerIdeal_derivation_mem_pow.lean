@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DerivationPowerIdeal_derivation_mem_pow
 -- name    : GlobalTheory.DerivationPowerIdeal.derivation_mem_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:43:36.58025+00:00
 -- url     : https://prove2.me/theorems/4304c229-8065-4e20-8005-5bda15c56f5d

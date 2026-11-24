@@ -1,0 +1,76 @@
+-- Prove2me | solution 1 for Formalism.UG.Final.DwActMul
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-24T14:19:20.963903+00:00
+-- url     : https://prove2.me/submissions/92504309-1d7f-4bcc-9420-bb78d4f6d883
+
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_HeckeActMem
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Actions
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_HeckeActionLevelMemHolds
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Adelstab
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_AdelstabL
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Afsplit
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_AutomorphicFormsDecompositionHolds
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_HeckeAssoc
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_RationalPointsLeHolds
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Bridge
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Cartan
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_ClassSet
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_HeckeConvolutionMemHolds
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_LevelSubgroupFiniteAdelicStandard
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Ecompose
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_FIwasawa
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Fcompose
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_LocalAlgebraInertPrime
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_GlintPrincRelIndexNeZero
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Heckebasic
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_InclusionInjective
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Ipindep
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Levelaf
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Levelv
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Levelvsplit
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_LinSubstIsHomogeneous
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Nabladual
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_SignatureConjugationInvariant
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_SignatureExists
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Spherical
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_SplitUnitaryGroupIso
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Stabfin
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Stabstd
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Stdform
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Tjcosets
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Transport
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Upqcpt
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_DualWeylModuleStable
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Wlocal
+import Definitions.Def_Formalism_SatakeDualWeyl_NablaRepApply
+import Definitions.Def_Formalism_SatakeDualWeyl_DualWeylRepApply
+import Definitions.Def_Formalism_SatakeDualWeyl_KpqSubgroupCompact
+import Theorems.Thm_Formalism_GradedWeylDivisibility_rowDivL_apply
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+attribute [local simp] Formalism.GradedWeylDivisibility.rowDivL_apply
+
+
+
+set_option autoImplicit false
+open Formalism Formalism.UG Formalism.UG.Final
+namespace Formalism.UG.Final
+theorem _root_.solution : Formalism.UG.DwActMul := by
+  intro R _ r n g h
+  refine ⟨?_, ?_⟩
+  · apply MvPolynomial.algHom_ext
+    intro i
+    simp only [dwAct, Formalism.GradedWeylDivisibility.rowAct, AlgHom.comp_apply, MvPolynomial.aeval_X, map_sum, map_mul,
+      MvPolynomial.aeval_C, MvPolynomial.algebraMap_eq, mul_inv_rev, Units.val_mul, Matrix.mul_apply,
+      Finset.sum_mul, Finset.mul_sum, mul_assoc]
+    rw [Finset.sum_comm]
+  · apply MvPolynomial.algHom_ext
+    intro i
+    simp [dwAct, Formalism.GradedWeylDivisibility.rowAct, Matrix.one_apply, apply_ite MvPolynomial.C, ite_mul]
+end Formalism.UG.Final

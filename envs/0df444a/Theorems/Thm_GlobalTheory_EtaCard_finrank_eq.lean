@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EtaCard_finrank_eq
 -- name    : GlobalTheory.EtaCard.finrank_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:59:37.240905+00:00
 -- url     : https://prove2.me/theorems/4cc04f2f-79b2-4867-865e-a5a27629b6b2

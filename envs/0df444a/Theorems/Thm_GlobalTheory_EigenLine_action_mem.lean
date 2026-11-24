@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenLine_action_mem
 -- name    : GlobalTheory.EigenLine.action_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:56:05.016905+00:00
 -- url     : https://prove2.me/theorems/10066cd2-87bb-4517-b15c-9f2fa80042dc

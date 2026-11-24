@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CondRescale_exists_ball_trivial
 -- name    : GlobalTheory.CondRescale.exists_ball_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:25:49.136817+00:00
 -- url     : https://prove2.me/theorems/cfd3d469-76e1-4450-af47-71ecdfed3582

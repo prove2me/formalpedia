@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_CyclicMass_card_pairs
 -- name    : GlobalTheory.CuspGL.CyclicMass.card_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:29:27.589244+00:00
 -- url     : https://prove2.me/theorems/1782a105-2b3e-45b5-a6e8-1a07f27dd4a5

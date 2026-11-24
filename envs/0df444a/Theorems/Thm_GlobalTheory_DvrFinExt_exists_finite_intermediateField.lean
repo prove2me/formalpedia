@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DvrFinExt_exists_finite_intermediateField
 -- name    : GlobalTheory.DvrFinExt.exists_finite_intermediateField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:52:29.648007+00:00
 -- url     : https://prove2.me/theorems/97dbfd5f-0741-4b70-b7f0-86fdffacf605

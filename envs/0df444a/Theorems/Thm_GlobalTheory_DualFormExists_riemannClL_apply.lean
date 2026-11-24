@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualFormExists_riemannClL_apply
 -- name    : GlobalTheory.DualFormExists.riemannClL_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:52:02.965534+00:00
 -- url     : https://prove2.me/theorems/6dad6e6d-3048-410e-b711-3142cf830c34

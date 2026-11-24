@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Equi_infToMixed_algebraMap
 -- name    : GlobalTheory.CompanionTheory.Equi.infToMixed_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:38:03.170596+00:00
 -- url     : https://prove2.me/theorems/31b0b111-8fc0-44b5-ba5f-9796abe00af1

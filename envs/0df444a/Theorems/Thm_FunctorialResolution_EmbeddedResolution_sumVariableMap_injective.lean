@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_sumVariableMap_injective
 -- name    : FunctorialResolution.EmbeddedResolution.sumVariableMap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:55:52.192175+00:00
 -- url     : https://prove2.me/theorems/65ef68bd-d0cf-4a85-af0e-717c1058abdf

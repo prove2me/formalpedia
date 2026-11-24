@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cris_connForm_map
 -- name    : GlobalTheory.Cris.connForm_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:28:40.183255+00:00
 -- url     : https://prove2.me/theorems/bc6979a2-d987-424b-8ff4-9cd1d85592eb

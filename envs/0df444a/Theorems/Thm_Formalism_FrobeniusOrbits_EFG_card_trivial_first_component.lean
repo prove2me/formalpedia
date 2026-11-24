@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_EFG_card_trivial_first_component
 -- name    : Formalism.FrobeniusOrbits.EFG.card_trivial_first_component
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:12:28.41202+00:00
 -- url     : https://prove2.me/theorems/4c09974e-795b-4ab2-bfcd-b0469e7b344a

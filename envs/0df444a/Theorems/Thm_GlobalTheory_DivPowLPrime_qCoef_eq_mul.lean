@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DivPowLPrime_qCoef_eq_mul
 -- name    : GlobalTheory.DivPowLPrime.qCoef_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:50:12.493153+00:00
 -- url     : https://prove2.me/theorems/d43d9b1f-7568-4d8a-96f8-fca626da60c8

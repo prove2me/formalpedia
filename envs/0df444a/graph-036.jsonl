@@ -26710,7 +26710,7 @@
 {"parent": "RH1E6S03.group_034", "child": "ArdaRS_BandSharp", "via": ["solution", "statement"]}
 {"parent": "RH1E6S03.group_034", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
 {"parent": "RH1E6S04_D033_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "MultibrotCorr.lemma_3_2", "child": "mcorr_branches", "via": ["statement"]}
+{"parent": "MultibrotCorr.lemma_3_2", "child": "mcorr_branches", "via": ["solution", "statement"]}
 {"parent": "MasulloGRH.nuclear_countable_directSum", "child": "MasulloGRH_LocallyConvex", "via": ["statement"]}
 {"parent": "RH1E6S06.part_024_0", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S06.part_024_0", "child": "ArdaRH65K_RSTheta", "via": ["statement"]}

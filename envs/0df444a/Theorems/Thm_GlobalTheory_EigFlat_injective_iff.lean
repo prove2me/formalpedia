@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigFlat_injective_iff
 -- name    : GlobalTheory.EigFlat.injective_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:53:07.442793+00:00
 -- url     : https://prove2.me/theorems/24603539-f03b-464e-a88d-40fd8c685b62

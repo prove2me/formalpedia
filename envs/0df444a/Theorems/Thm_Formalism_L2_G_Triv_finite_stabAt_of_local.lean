@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Triv_finite_stabAt_of_local
 -- name    : Formalism.L2.G.Triv.finite_stabAt_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:21:12.222787+00:00
 -- url     : https://prove2.me/theorems/2c045675-84d5-4677-b43a-7cc85d98b1ec

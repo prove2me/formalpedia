@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_d_termSec
 -- name    : GlobalTheory.Cube.d_termSec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:28:05.796297+00:00
 -- url     : https://prove2.me/theorems/be355e77-a5b9-4b83-a6d5-b7e3162bdc8d

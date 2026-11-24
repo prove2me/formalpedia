@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_exists_int_retraction_of_isIntegral
 -- name    : GlobalTheory.CuspGL.exists_int_retraction_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:32:04.716141+00:00
 -- url     : https://prove2.me/theorems/0825f1eb-2062-40a7-bede-a8ab307a00ff

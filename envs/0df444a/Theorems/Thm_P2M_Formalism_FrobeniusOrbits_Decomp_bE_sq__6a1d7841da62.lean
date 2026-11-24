@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FrobeniusOrbits_Decomp_bE_sq__6a1d7841da62
 -- name    : P2M_Formalism_FrobeniusOrbits_Decomp_bE_sq__6a1d7841da62
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:15:10.693088+00:00
 -- url     : https://prove2.me/theorems/e963fa2e-bb7e-421c-9ef2-d8855381db4c

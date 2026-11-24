@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiagonalTimesLowerTriangular_diag_mul_of_lower
 -- name    : GlobalTheory.DiagonalTimesLowerTriangular.diag_mul_of_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:49:24.304963+00:00
 -- url     : https://prove2.me/theorems/15b012da-70dd-46d7-b9fa-fb3fcf0a5aab

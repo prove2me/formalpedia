@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiffLin_spMap_dualLift_surjective
 -- name    : GlobalTheory.DiffLin.spMap_dualLift_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:49:27.529437+00:00
 -- url     : https://prove2.me/theorems/4161208c-6480-43db-87c6-3ca3dd0614c4

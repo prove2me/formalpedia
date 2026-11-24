@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigLineSum_ringHom_eq_of_eq_on_orderC
 -- name    : GlobalTheory.EigLineSum.ringHom_eq_of_eq_on_orderC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:53:15.964941+00:00
 -- url     : https://prove2.me/theorems/3401b260-8723-476e-80a3-a8f0cdbb3bd8

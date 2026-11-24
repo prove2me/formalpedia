@@ -74140,7 +74140,7 @@
 {"parent": "OAIQ225Ag010", "child": "OAIQ225Ag005", "via": ["statement"]}
 {"parent": "OAIQ225Ag010", "child": "OAIQ225Ag007", "via": ["statement"]}
 {"parent": "OAIQ225Ag010", "child": "OAIQ225Ag006", "via": ["statement"]}
-{"parent": "MTWalkSAT3CNF.TwoOcc.display_2", "child": "MTWalkSAT3CNF_TwoOcc_Potential", "via": ["statement"]}
+{"parent": "MTWalkSAT3CNF.TwoOcc.display_2", "child": "MTWalkSAT3CNF_TwoOcc_Potential", "via": ["solution", "statement"]}
 {"parent": "OAIQ225Ag005", "child": "OAIQ225Ag002", "via": ["statement"]}
 {"parent": "OAIQ225Ag005", "child": "OAIQ225Ag003", "via": ["statement"]}
 {"parent": "SubadditiveMMS580.Amplification.proposition_3_4", "child": "SubmodOrder_Subadditive", "via": ["solution", "statement"]}

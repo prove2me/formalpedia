@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_PhiOp_cub_four
 -- name    : GlobalTheory.Ex.PhiOp.cub_four
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:05:43.764443+00:00
 -- url     : https://prove2.me/theorems/1ca4db92-9344-4792-8cd9-ce7cbdd9b3b7

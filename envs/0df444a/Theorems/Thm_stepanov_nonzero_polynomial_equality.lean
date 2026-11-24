@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_stepanov_nonzero_polynomial_equality
 -- name    : stepanov_nonzero_polynomial_equality
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T14:18:20.870464+00:00
 -- url     : https://prove2.me/theorems/a751cc52-ae83-4372-8dc6-96cedd9fa3dd

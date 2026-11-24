@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EtaleCoordRank_finrank_and_linearIndependent_D_unit_mul
 -- name    : GlobalTheory.EtaleCoordRank.finrank_and_linearIndependent_D_unit_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:59:07.961152+00:00
 -- url     : https://prove2.me/theorems/84de8981-889f-4bc8-8167-a6dfe88e53c4

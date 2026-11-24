@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_adelic_tuple_projections
 -- name    : GlobalTheory.T.adelic_tuple_projections
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:50:32.717636+00:00
 -- url     : https://prove2.me/theorems/0cd8cbbc-7d27-44ac-9ea0-e889b3e46e1b

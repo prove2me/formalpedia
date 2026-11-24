@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscUniformisation_zeta_six
 -- name    : GlobalTheory.DiscUniformisation.zeta_six
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:48:35.807099+00:00
 -- url     : https://prove2.me/theorems/65a0e901-1c7a-470f-ad08-74f1365cb4bf

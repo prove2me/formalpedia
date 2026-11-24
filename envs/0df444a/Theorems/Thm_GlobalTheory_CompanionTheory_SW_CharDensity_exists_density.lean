@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_CharDensity_exists_density
 -- name    : GlobalTheory.CompanionTheory.SW.CharDensity.exists_density
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:03:05.796814+00:00
 -- url     : https://prove2.me/theorems/489df6fb-51ee-442e-bd54-269ee94bbfd4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetFactor_det_diag2_ne
 -- name    : GlobalTheory.DetFactor.det_diag2_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:43:10.584423+00:00
 -- url     : https://prove2.me/theorems/5a089ad3-f4a6-4445-9631-c76d7b951dae

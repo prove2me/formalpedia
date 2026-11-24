@@ -1,0 +1,36 @@
+-- Prove2me | solution 1 for Formalism.REAL.kIsoSplit
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-24T14:18:14.867859+00:00
+-- url     : https://prove2.me/submissions/ba282376-55d3-4d32-9df8-b1e7e5782c43
+
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_CompactHaarRightInvariantInst
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_CompactExponentialSurjective
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_LieOperatorConjHolds
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_VectorComplexifiedDerivativeCommutator
+import Definitions.Def_Formalism_RealPlaceAnalysis_IsRightTranslationIsometric
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_ModularCharacterEqOneOnExpHermitian
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_CompactCasimirHighestWeight
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_IsCompactInvariantCompactSpan
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_IsCompactInvariantOrthogonalInf
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_NoncompactGeneratorRaisesPfil
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_NoncompactArrFiniteDimensional
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_FirstSlotSliceSlotMixedCasimirZero
+import Definitions.Def_Formalism_RealPlaceAnalysis_QuotientSettingHolds
+import Theorems.Thm_Formalism_REAL_kOrth
+import Theorems.Thm_Formalism_REAL_kDecomp
+import Theorems.Thm_Formalism_REAL_kIsoSplit_of
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.REAL
+namespace Formalism.REAL
+theorem _root_.solution : KIsoSplit := kIsoSplit_of kDecomp kOrth
+end Formalism.REAL

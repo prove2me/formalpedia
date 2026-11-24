@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DictPinCompare_latGHat_eq
 -- name    : GlobalTheory.DictPinCompare.latGHat_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:19:04.315804+00:00
 -- url     : https://prove2.me/theorems/3f5dedfc-657e-49bd-b2f5-4d8b0999a5ad

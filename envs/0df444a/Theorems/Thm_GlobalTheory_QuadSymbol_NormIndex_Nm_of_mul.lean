@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_NormIndex_Nm_of_mul
 -- name    : GlobalTheory.QuadSymbol.NormIndex.Nm.of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:00:57.188635+00:00
 -- url     : https://prove2.me/theorems/fe764989-a13d-4c6c-af12-feb601773e7e

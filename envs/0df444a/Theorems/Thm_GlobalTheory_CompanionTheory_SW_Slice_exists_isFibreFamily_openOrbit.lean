@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Slice_exists_isFibreFamily_openOrbit
 -- name    : GlobalTheory.CompanionTheory.SW.Slice.exists_isFibreFamily_openOrbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:10:35.429952+00:00
 -- url     : https://prove2.me/theorems/b68486b4-aa81-42e0-b6c5-a4e627c298a4

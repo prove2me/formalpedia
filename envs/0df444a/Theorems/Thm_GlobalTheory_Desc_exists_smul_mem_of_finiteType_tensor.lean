@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Desc_exists_smul_mem_of_finiteType_tensor
 -- name    : GlobalTheory.Desc.exists_smul_mem_of_finiteType_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:43:43.408298+00:00
 -- url     : https://prove2.me/theorems/d266507f-e932-4201-a185-42ed8aca2270

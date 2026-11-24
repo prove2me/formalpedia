@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_exists_regularParameters_of_formallyEtale
 -- name    : FunctorialResolution.EmbeddedResolution.exists_regularParameters_of_formallyEtale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:32:51.741815+00:00
 -- url     : https://prove2.me/theorems/978f52ce-070d-4a46-8261-66bd0453f087

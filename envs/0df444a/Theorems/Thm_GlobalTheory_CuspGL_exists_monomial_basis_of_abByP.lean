@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_exists_monomial_basis_of_abByP
 -- name    : GlobalTheory.CuspGL.exists_monomial_basis_of_abByP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:32:24.194908+00:00
 -- url     : https://prove2.me/theorems/503703c4-1d65-4faf-878f-263d7c356553

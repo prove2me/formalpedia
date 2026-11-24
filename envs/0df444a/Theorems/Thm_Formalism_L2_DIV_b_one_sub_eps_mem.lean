@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_b_one_sub_eps_mem
 -- name    : Formalism.L2.DIV.b_one_sub_eps_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:22:23.064818+00:00
 -- url     : https://prove2.me/theorems/3ef6353a-60f4-4433-9a00-1a7341d3190e

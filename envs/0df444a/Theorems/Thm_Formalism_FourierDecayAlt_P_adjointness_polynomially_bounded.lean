@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_adjointness_polynomially_bounded
 -- name    : Formalism.FourierDecayAlt.P.adjointness_polynomially_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:28:50.202737+00:00
 -- url     : https://prove2.me/theorems/5426a812-2706-46c5-88c5-115717012b98

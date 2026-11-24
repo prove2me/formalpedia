@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_integrable_weight_derivative_product
 -- name    : Formalism.REAL.integrable_weight_derivative_product
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:13:24.939204+00:00
 -- url     : https://prove2.me/theorems/6f25ad4b-ea03-4bfb-9a70-09b636678f97

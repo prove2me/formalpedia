@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_PhiOp_fe_of_phi_triv
 -- name    : GlobalTheory.Ex.PhiOp.fe_of_phi_triv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:06:24.426737+00:00
 -- url     : https://prove2.me/theorems/d2738cb3-9d80-4ccd-8e7d-e9d41e2a6ff1

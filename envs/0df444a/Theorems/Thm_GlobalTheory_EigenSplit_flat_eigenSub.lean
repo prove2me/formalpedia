@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenSplit_flat_eigenSub
 -- name    : GlobalTheory.EigenSplit.flat_eigenSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:57:48.493369+00:00
 -- url     : https://prove2.me/theorems/07333b47-f9ae-4aa5-944b-3fff734eec9d

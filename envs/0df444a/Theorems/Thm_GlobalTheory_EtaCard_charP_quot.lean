@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EtaCard_charP_quot
 -- name    : GlobalTheory.EtaCard.charP_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:59:35.201596+00:00
 -- url     : https://prove2.me/theorems/e48d71f9-cad8-4766-99f0-93cfc9a436a2

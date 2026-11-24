@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualFrameSpan_eq_zero_of_trace_adjoint_comp_self
 -- name    : GlobalTheory.DualFrameSpan.eq_zero_of_trace_adjoint_comp_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:51:46.906822+00:00
 -- url     : https://prove2.me/theorems/aa218ebf-1a7d-4218-a82f-ccda05386948

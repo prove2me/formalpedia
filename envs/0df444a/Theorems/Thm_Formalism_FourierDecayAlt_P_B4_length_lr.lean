@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B4_length_lr
 -- name    : Formalism.FourierDecayAlt.P.B4.length_lr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:24:35.328802+00:00
 -- url     : https://prove2.me/theorems/ceac53fb-e21f-45a2-ad44-e7859bc5f903

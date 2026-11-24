@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_ecSumV_of
 -- name    : Formalism.REAL.ecSumV_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:56:25.904002+00:00
 -- url     : https://prove2.me/theorems/1ffb3b89-4726-4090-9e7f-0d750b926a81

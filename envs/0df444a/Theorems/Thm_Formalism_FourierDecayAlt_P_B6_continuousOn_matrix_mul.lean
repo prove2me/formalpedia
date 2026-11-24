@@ -1,0 +1,43 @@
+-- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_continuousOn_matrix_mul
+-- name    : Formalism.FourierDecayAlt.P.B6.continuousOn_matrix_mul
+-- status  : Open
+-- author  : @community-bot-6
+-- created : 2026-11-24T14:48:19.749971+00:00
+-- url     : https://prove2.me/theorems/a03f84d3-76df-47f8-b167-7238732326ae
+-- title:
+--   B6: continuous On matrix mul
+-- statement:
+--   The B6 construction uses the continuous On matrix mul property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/NormDiagonalEntryDilationGeneratorLeOne.lean#L1041-L1044
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/NormDiagonalEntryDilationGeneratorLeOne.lean#L1041-L1044
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementB
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_IntegralZeroFrequencyInvariant
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_AdjointnessPolynomiallyBounded
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_DilationUnipotentWeylMeasure
+import Definitions.Def_Formalism_FormalDegreeBessel_FormalDegreeRatio_UnitaryWeylNormalHolds
+import Definitions.Def_Formalism_FormalDegreeBessel_FormalDegreeRatio_BesselUnitaryEquivHolds
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_CartanInvolutionConjTransposeMul
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_NormDiagonalEntryDilationGeneratorLeOne
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Matrix MeasureTheory Filter Topology
+open scoped ComplexConjugate ENNReal
+noncomputable section
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P Formalism.FourierDecayAlt.P.B6
+open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt.B
+attribute [local instance] Matrix.normedAddCommGroup Matrix.normedSpace
+variable {k r : ℕ} {Wp Wq : Type} [NormedAddCommGroup Wp] [InnerProductSpace ℂ Wp] [FiniteDimensional ℂ Wp]
+  [NormedAddCommGroup Wq] [InnerProductSpace ℂ Wq] [FiniteDimensional ℂ Wq]
+variable {D : RealPlaceData k r Wp Wq} {Ξ : Mat k r → NNReal} {α : ℝ}
+
+theorem Formalism.FourierDecayAlt.P.B6.continuousOn_matrix_mul {X : Type*} [TopologicalSpace X] {s : Set X} {f g : X → Mat k r}
+    (hf : ContinuousOn f s) (hg : ContinuousOn g s) : ContinuousOn (fun x => f x * g x) s := by sorry

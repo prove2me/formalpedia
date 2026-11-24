@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_TaylorMvTens4_of
 -- name    : Formalism.L2.Th1.H.TaylorMvTens4_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:23:32.478578+00:00
 -- url     : https://prove2.me/theorems/be89a253-46ca-4e5f-a63c-e1f9e6318dbc

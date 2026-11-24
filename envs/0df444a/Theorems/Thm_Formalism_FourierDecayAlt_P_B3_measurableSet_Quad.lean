@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B3_measurableSet_Quad
 -- name    : Formalism.FourierDecayAlt.P.B3.measurableSet_Quad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:27:37.700798+00:00
 -- url     : https://prove2.me/theorems/c3d792d2-a78f-4ec1-a226-3e885cb4d0de

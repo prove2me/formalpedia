@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualFrameSpan_adjoint_mem_span
 -- name    : GlobalTheory.DualFrameSpan.adjoint_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:51:33.741371+00:00
 -- url     : https://prove2.me/theorems/f6caf83d-c367-4440-8975-7e5c942686b8

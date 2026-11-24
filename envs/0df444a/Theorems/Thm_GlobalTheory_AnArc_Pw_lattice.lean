@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_Pw_lattice
 -- name    : GlobalTheory.AnArc.Pw_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:40:41.103878+00:00
 -- url     : https://prove2.me/theorems/91d85817-36ad-4e0e-9bcb-cceb3ebefc74

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_Spans_tensor
 -- name    : GlobalTheory.DRFil.Spans.tensor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:03:19.620099+00:00
 -- url     : https://prove2.me/theorems/e231be43-fc7e-438f-8ae6-506939288c55

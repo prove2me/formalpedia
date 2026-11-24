@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DivPowLPrime_one_le_lPrimeExp
 -- name    : GlobalTheory.DivPowLPrime.one_le_lPrimeExp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:50:45.759878+00:00
 -- url     : https://prove2.me/theorems/6938cf76-afb7-46c5-9891-3f7bd529ec6d

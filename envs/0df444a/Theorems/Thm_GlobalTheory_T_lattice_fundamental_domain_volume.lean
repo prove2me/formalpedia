@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lattice_fundamental_domain_volume
 -- name    : GlobalTheory.T.lattice_fundamental_domain_volume
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:49:10.09182+00:00
 -- url     : https://prove2.me/theorems/65d37b1f-b44b-4710-938f-6715d09eba42

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenLattice_sat
 -- name    : GlobalTheory.EigenLattice.sat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:52:47.158986+00:00
 -- url     : https://prove2.me/theorems/89853a16-3b31-4cfc-8946-4071ddfc5a2f

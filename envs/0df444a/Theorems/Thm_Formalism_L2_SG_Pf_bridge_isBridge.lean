@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_bridge_isBridge
 -- name    : Formalism.L2.SG.Pf.bridge_isBridge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:17:43.318115+00:00
 -- url     : https://prove2.me/theorems/121207f0-75ba-4250-be82-939f0fa2ec9f

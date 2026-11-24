@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EvaluationSpanTopToricGeometry_span_eval_eq_top
 -- name    : GlobalTheory.EvaluationSpanTopToricGeometry.span_eval_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:06:22.194797+00:00
 -- url     : https://prove2.me/theorems/fb0ddcc1-5488-4976-95fe-423e9cc0b47d

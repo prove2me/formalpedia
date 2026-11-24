@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigFlat_eig_map
 -- name    : GlobalTheory.EigFlat.eig_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:53:16.958816+00:00
 -- url     : https://prove2.me/theorems/53960416-332f-4033-8951-cd06378583f6

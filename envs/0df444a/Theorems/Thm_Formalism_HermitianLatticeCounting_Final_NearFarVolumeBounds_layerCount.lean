@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_NearFarVolumeBounds_layerCount
 -- name    : Formalism.HermitianLatticeCounting.Final.NearFarVolumeBounds.layerCount
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:22:40.901945+00:00
 -- url     : https://prove2.me/theorems/6a1a77e5-e889-4bc1-93ab-146c4b8dd81d

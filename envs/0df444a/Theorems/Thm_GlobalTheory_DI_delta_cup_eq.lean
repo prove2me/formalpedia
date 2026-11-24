@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_delta_cup_eq
 -- name    : GlobalTheory.DI.delta_cup_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:36:11.121679+00:00
 -- url     : https://prove2.me/theorems/839e8126-d7fa-47d2-8221-4ed37b2ce712

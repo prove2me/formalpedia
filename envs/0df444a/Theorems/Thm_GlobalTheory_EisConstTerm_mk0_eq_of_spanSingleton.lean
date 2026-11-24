@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EisConstTerm_mk0_eq_of_spanSingleton
 -- name    : GlobalTheory.EisConstTerm.mk0_eq_of_spanSingleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:58:06.879654+00:00
 -- url     : https://prove2.me/theorems/839597dd-8aeb-495b-b804-954303072912

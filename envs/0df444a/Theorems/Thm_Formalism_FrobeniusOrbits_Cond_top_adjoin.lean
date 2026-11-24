@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Cond_top_adjoin
 -- name    : Formalism.FrobeniusOrbits.Cond.top_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:11:29.173306+00:00
 -- url     : https://prove2.me/theorems/76480bbc-0fdc-462b-9943-4dc9225fc2bd

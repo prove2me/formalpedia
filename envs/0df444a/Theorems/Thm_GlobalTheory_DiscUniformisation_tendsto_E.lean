@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscUniformisation_tendsto_E
 -- name    : GlobalTheory.DiscUniformisation.tendsto_E
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:48:38.824959+00:00
 -- url     : https://prove2.me/theorems/4c5d1ce3-9f85-4155-84a0-dde881ea3a86

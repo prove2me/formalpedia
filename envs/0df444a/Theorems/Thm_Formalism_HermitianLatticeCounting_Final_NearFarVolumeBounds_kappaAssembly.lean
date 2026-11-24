@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_NearFarVolumeBounds_kappaAssembly
 -- name    : Formalism.HermitianLatticeCounting.Final.NearFarVolumeBounds.kappaAssembly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:22:15.529912+00:00
 -- url     : https://prove2.me/theorems/d471c040-fb73-4a35-867f-e680ea230cd5

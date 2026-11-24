@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetInv_mu_coeff_zero_ne_zero
 -- name    : GlobalTheory.DetInv.mu_coeff_zero_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:49:27.584813+00:00
 -- url     : https://prove2.me/theorems/4e02dc7f-a93a-4885-be0e-d697426ab7fa

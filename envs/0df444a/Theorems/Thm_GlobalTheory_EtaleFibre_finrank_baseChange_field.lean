@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EtaleFibre_finrank_baseChange_field
 -- name    : GlobalTheory.EtaleFibre.finrank_baseChange_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:59:13.779869+00:00
 -- url     : https://prove2.me/theorems/52fede48-4489-42df-b77e-b18b33deadd9

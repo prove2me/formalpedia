@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B4_hpk_isUnit
 -- name    : Formalism.FourierDecayAlt.P.B4.hpk_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:25:19.236285+00:00
 -- url     : https://prove2.me/theorems/db3e7149-0d25-40d7-a144-f386821ae9c5

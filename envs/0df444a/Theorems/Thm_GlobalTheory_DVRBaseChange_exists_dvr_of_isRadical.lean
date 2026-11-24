@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DVRBaseChange_exists_dvr_of_isRadical
 -- name    : GlobalTheory.DVRBaseChange.exists_dvr_of_isRadical
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:36:04.095308+00:00
 -- url     : https://prove2.me/theorems/52ab4f65-db62-4681-804d-b4d6ecedfeef

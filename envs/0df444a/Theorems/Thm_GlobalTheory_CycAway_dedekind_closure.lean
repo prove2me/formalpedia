@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycAway_dedekind_closure
 -- name    : GlobalTheory.CycAway.dedekind_closure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:34:11.201833+00:00
 -- url     : https://prove2.me/theorems/04ae7e7a-6574-45c0-9555-9b633b825d7e

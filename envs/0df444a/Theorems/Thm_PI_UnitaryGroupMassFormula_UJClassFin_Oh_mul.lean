@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassFin_Oh_mul
 -- name    : PI.UnitaryGroupMassFormula.UJClassFin.Oh_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:50:03.913013+00:00
 -- url     : https://prove2.me/theorems/500c22c7-a5c2-41fe-9157-abdf6cc09366

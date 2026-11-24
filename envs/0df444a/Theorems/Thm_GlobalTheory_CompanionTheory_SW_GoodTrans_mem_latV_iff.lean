@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GoodTrans_mem_latV_iff
 -- name    : GlobalTheory.CompanionTheory.SW.GoodTrans.mem_latV_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:19:57.380899+00:00
 -- url     : https://prove2.me/theorems/60092711-1d98-4ab6-b453-49be31bfc604

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_auxiliary_primes_finite
 -- name    : Formalism.L2.DIV.auxiliary_primes_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:22:41.95972+00:00
 -- url     : https://prove2.me/theorems/c95f5089-a5ce-4a55-a250-dddf7bdeeaa1

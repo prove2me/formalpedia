@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Div_BlockChangeDet_det_block_change
 -- name    : GlobalTheory.Div.BlockChangeDet.det_block_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:50:42.292252+00:00
 -- url     : https://prove2.me/theorems/458322af-7996-4162-9c8b-adc4c2990cde

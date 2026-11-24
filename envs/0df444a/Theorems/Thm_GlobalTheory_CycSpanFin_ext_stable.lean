@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycSpanFin_ext_stable
 -- name    : GlobalTheory.CycSpanFin.ext_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:34:27.323865+00:00
 -- url     : https://prove2.me/theorems/6e850150-6991-402b-b475-27f26cd8709a

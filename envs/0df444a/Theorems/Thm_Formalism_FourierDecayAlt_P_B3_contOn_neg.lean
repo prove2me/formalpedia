@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B3_contOn_neg
 -- name    : Formalism.FourierDecayAlt.P.B3.contOn_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:27:26.337794+00:00
 -- url     : https://prove2.me/theorems/5b46e942-6e92-42e4-a7cf-78b443670e3b

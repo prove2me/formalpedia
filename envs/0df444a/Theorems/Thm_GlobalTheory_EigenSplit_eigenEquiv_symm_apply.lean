@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenSplit_eigenEquiv_symm_apply
 -- name    : GlobalTheory.EigenSplit.eigenEquiv_symm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:57:26.03858+00:00
 -- url     : https://prove2.me/theorems/bc495355-13d5-4499-ae50-99d3a3013a5b

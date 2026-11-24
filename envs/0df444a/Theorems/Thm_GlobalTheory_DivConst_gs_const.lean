@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DivConst_gs_const
 -- name    : GlobalTheory.DivConst.gs_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:50:48.253337+00:00
 -- url     : https://prove2.me/theorems/b6f15fa6-fd90-46f3-9cca-290bcb2e969c

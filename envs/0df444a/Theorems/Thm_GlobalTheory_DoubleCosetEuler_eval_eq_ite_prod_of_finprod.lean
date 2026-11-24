@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DoubleCosetEuler_eval_eq_ite_prod_of_finprod
 -- name    : GlobalTheory.DoubleCosetEuler.eval_eq_ite_prod_of_finprod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:49:58.59983+00:00
 -- url     : https://prove2.me/theorems/ff39330b-1125-4505-abdb-dc68b39cd8f9

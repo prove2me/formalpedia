@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DictPinCompare_toFin_mem
 -- name    : GlobalTheory.DictPinCompare.toFin_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:18:03.354822+00:00
 -- url     : https://prove2.me/theorems/056b3108-288f-4a26-addd-f6f429fcc2e2

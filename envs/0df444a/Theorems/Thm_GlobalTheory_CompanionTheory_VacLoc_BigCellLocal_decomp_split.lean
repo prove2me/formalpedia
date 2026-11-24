@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_VacLoc_BigCellLocal_decomp_split
 -- name    : GlobalTheory.CompanionTheory.VacLoc.BigCellLocal.decomp_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:21:27.361692+00:00
 -- url     : https://prove2.me/theorems/c3826413-85ad-4ea0-a593-c005c94e3723

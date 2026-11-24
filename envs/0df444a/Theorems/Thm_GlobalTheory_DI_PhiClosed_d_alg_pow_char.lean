@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_PhiClosed_d_alg_pow_char
 -- name    : GlobalTheory.DI.PhiClosed.d_alg_pow_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:33:50.497801+00:00
 -- url     : https://prove2.me/theorems/34842acf-c199-4e4f-8393-61d36c0ca569

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DoubleCosetAdjoint_setIntegral_mul_right
 -- name    : GlobalTheory.DoubleCosetAdjoint.setIntegral_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:50:16.938743+00:00
 -- url     : https://prove2.me/theorems/a3286e73-2f0f-446d-9103-eefedeedb243

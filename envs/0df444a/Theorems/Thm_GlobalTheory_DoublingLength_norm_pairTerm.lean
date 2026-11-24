@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DoublingLength_norm_pairTerm
 -- name    : GlobalTheory.DoublingLength.norm_pairTerm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:52:34.735208+00:00
 -- url     : https://prove2.me/theorems/240d603e-4245-4f4e-b1b2-740451a8a7da

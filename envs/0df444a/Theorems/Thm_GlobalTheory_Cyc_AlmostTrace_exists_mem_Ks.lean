@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_AlmostTrace_exists_mem_Ks
 -- name    : GlobalTheory.Cyc.AlmostTrace.exists_mem_Ks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:32:43.645803+00:00
 -- url     : https://prove2.me/theorems/0038c413-5b2a-4e63-a3bf-ee5612cd30ab

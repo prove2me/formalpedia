@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_Final_HeckeCommGL
 -- name    : Formalism.UG.Final.HeckeCommGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:13:29.671154+00:00
 -- url     : https://prove2.me/theorems/0a2e2150-5279-4966-b981-c484fd887cc0

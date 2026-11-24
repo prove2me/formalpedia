@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_stepanov_square_from_eq
 -- name    : stepanov_square_from_eq
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T14:18:20.823672+00:00
 -- url     : https://prove2.me/theorems/77705afd-5b0c-4939-80f3-141a363fa884

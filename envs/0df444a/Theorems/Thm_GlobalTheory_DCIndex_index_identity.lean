@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DCIndex_index_identity
 -- name    : GlobalTheory.DCIndex.index_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:34:32.38487+00:00
 -- url     : https://prove2.me/theorems/c26fd3cd-3234-40bb-90e0-a1fe479d9fc0

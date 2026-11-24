@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CongruenceDet_det_eq_one
 -- name    : GlobalTheory.CongruenceDet.det_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:46:29.896829+00:00
 -- url     : https://prove2.me/theorems/74939c07-1ec7-4e16-829a-65cfb6e137b5

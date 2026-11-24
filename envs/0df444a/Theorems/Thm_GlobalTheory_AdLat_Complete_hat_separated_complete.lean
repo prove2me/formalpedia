@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_Complete_hat_separated_complete
 -- name    : GlobalTheory.AdLat.Complete.hat_separated_complete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:39:00.868774+00:00
 -- url     : https://prove2.me/theorems/f42116db-e07a-4ec4-bde6-126b9a44a3dc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiagVol_RowIdx_residue_eq_zero_iff_of_isUnif
 -- name    : GlobalTheory.DiagVol.RowIdx.residue_eq_zero_iff_of_isUnif
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:49:02.475091+00:00
 -- url     : https://prove2.me/theorems/80748632-ce90-41ae-a860-f3e4ff392614

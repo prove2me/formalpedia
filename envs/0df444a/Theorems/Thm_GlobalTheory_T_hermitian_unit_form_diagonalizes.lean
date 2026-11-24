@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_unit_form_diagonalizes
 -- name    : GlobalTheory.T.hermitian_unit_form_diagonalizes
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:48:33.923239+00:00
 -- url     : https://prove2.me/theorems/5fc92e78-0162-4b84-9785-b76835e33ea8

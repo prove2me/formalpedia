@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EntireFunctionHalfPlane_entire_eq_of_eqOn_halfPlane
 -- name    : GlobalTheory.EntireFunctionHalfPlane.entire_eq_of_eqOn_halfPlane
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:57:44.962797+00:00
 -- url     : https://prove2.me/theorems/90867f82-70ad-4dcb-8e96-b64d2d3526b4

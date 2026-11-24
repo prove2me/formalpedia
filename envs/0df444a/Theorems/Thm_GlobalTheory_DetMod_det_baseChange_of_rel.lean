@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetMod_det_baseChange_of_rel
 -- name    : GlobalTheory.DetMod.det_baseChange_of_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:49:40.066133+00:00
 -- url     : https://prove2.me/theorems/01789545-fc77-4362-a433-58445b374d9d

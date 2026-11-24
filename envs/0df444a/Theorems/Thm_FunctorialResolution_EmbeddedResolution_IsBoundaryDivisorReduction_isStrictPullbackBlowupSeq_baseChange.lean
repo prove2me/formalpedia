@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_IsBoundaryDivisorReduction_isStrictPullbackBlowupSeq_baseChange
 -- name    : FunctorialResolution.EmbeddedResolution.IsBoundaryDivisorReduction.isStrictPullbackBlowupSeq_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:13:06.292788+00:00
 -- url     : https://prove2.me/theorems/29fd1605-b1b6-4916-9b0d-44fa1740509d

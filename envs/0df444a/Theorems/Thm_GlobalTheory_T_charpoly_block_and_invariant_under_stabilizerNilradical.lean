@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_charpoly_block_and_invariant_under_stabilizerNilradical
 -- name    : GlobalTheory.T.charpoly_block_and_invariant_under_stabilizerNilradical
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:12:52.03138+00:00
 -- url     : https://prove2.me/theorems/3ee9f65b-45d5-4306-b8c6-f8efd9fa407b

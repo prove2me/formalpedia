@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiffLin_evalPt_of_eq
 -- name    : GlobalTheory.DiffLin.evalPt_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:49:21.008079+00:00
 -- url     : https://prove2.me/theorems/31390092-3f73-4b28-9faa-02c45220d63f

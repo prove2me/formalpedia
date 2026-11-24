@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DualKernelLemmas_letter_duality_of_clauses
 -- name    : Formalism.FourierDecayAlt.P.DualKernelLemmas.letter_duality_of_clauses
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:04:13.302736+00:00
 -- url     : https://prove2.me/theorems/76839453-737a-4b5b-bbc7-11e6259041fd

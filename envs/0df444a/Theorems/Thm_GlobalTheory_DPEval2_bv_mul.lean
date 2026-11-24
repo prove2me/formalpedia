@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DPEval2_bv_mul
 -- name    : GlobalTheory.DPEval2.bv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:21:35.542218+00:00
 -- url     : https://prove2.me/theorems/fe8497e1-72d3-4120-80c5-0ab019dc7917

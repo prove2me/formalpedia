@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_residueRing_card_eq
 -- name    : Formalism.HermitianLatticeCounting.P.residueRing_card_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:14:24.636512+00:00
 -- url     : https://prove2.me/theorems/f10163b2-feb5-4f03-a290-775def74e76c

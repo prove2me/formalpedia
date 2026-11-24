@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Div_QFibre_unit_mul_mem
 -- name    : GlobalTheory.Div.QFibre.unit_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:51:12.999662+00:00
 -- url     : https://prove2.me/theorems/abf50be5-5f18-4e39-bb0f-7db211b772da

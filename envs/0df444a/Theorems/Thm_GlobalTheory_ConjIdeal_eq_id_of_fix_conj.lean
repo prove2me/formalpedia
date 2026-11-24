@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConjIdeal_eq_id_of_fix_conj
 -- name    : GlobalTheory.ConjIdeal.eq_id_of_fix_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:25:28.163452+00:00
 -- url     : https://prove2.me/theorems/d3785b88-34f7-487e-8c4b-93a3f0019500

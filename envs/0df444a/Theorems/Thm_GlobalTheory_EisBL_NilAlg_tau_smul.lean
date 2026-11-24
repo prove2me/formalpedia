@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EisBL_NilAlg_tau_smul
 -- name    : GlobalTheory.EisBL.NilAlg.tau_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:06:05.754715+00:00
 -- url     : https://prove2.me/theorems/9f141e81-5a8e-495e-8259-c1aac0eab351

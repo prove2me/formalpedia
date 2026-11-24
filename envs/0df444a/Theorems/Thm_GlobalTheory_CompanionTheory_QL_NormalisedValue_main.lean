@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_NormalisedValue_main
 -- name    : GlobalTheory.CompanionTheory.QL.NormalisedValue.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:14:13.097933+00:00
 -- url     : https://prove2.me/theorems/be4cccc9-2edc-43ba-971f-d547fec479b4

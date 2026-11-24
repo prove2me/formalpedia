@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GaussRec_sum_traceChar
 -- name    : GlobalTheory.CompanionTheory.GaussRec.sum_traceChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:43:47.024642+00:00
 -- url     : https://prove2.me/theorems/5d8b6259-8efa-4657-8893-ae6c4bb94571

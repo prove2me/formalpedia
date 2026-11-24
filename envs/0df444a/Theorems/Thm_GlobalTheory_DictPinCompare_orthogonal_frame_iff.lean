@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DictPinCompare_orthogonal_frame_iff
 -- name    : GlobalTheory.DictPinCompare.orthogonal_frame_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:18:06.377219+00:00
 -- url     : https://prove2.me/theorems/234c0a12-410d-4bed-9c48-e1491d45238d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_finrank_eq_zero_of_irreducible_charpoly
 -- name    : GlobalTheory.CuspGL.finrank_eq_zero_of_irreducible_charpoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:32:17.13396+00:00
 -- url     : https://prove2.me/theorems/6b9f5569-3b3f-4e6e-821c-8a9f760498ee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ComplexPointsGroup_isContFamily_of_isPullback
 -- name    : GlobalTheory.ComplexPointsGroup.isContFamily_of_isPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:26:08.673093+00:00
 -- url     : https://prove2.me/theorems/0d070cd4-03d5-4c29-b2bf-58f5ba19e315

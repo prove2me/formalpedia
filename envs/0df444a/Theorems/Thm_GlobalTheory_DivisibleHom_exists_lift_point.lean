@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DivisibleHom_exists_lift_point
 -- name    : GlobalTheory.DivisibleHom.exists_lift_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:50:49.140515+00:00
 -- url     : https://prove2.me/theorems/26c6d5d0-b184-4d73-b0a4-1ff7f648f738

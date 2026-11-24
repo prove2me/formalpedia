@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BetaSesquilinearity_nz_pos
 -- name    : Formalism.FourierDecayAlt.P.BetaSesquilinearity.nz_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:27:50.668131+00:00
 -- url     : https://prove2.me/theorems/41e7a128-7b0e-4d45-8685-895bf08901b0

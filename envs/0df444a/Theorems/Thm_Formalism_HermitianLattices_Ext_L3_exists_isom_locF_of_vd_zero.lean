@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_exists_isom_locF_of_vd_zero
 -- name    : Formalism.HermitianLattices.Ext.L3.exists_isom_locF_of_vd_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:43:40.764779+00:00
 -- url     : https://prove2.me/theorems/e05e7aca-6da6-490f-93f6-2fd9008e72a6

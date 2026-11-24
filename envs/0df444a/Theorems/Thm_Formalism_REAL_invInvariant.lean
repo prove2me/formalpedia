@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_invInvariant
 -- name    : Formalism.REAL.invInvariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:58:00.896842+00:00
 -- url     : https://prove2.me/theorems/f5f14d65-30b2-49ab-9dc4-f6de70c759c4

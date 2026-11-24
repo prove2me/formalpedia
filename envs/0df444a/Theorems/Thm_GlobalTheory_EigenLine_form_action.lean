@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenLine_form_action
 -- name    : GlobalTheory.EigenLine.form_action
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:56:26.218719+00:00
 -- url     : https://prove2.me/theorems/fcf2b955-3dd2-4c4a-8cc3-aad354d34c12

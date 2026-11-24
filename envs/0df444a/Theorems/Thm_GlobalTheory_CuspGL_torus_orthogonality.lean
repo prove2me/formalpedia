@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_torus_orthogonality
 -- name    : GlobalTheory.CuspGL.torus_orthogonality
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:33:08.496038+00:00
 -- url     : https://prove2.me/theorems/7f1709ba-37a4-4ec2-8ac8-cbdbead3c84c

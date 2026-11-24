@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Conv_exists_isUnit_halfRing
 -- name    : GlobalTheory.Conv.exists_isUnit_halfRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:27:36.709909+00:00
 -- url     : https://prove2.me/theorems/664eccab-36cf-4a28-b4a5-f833baf49f89

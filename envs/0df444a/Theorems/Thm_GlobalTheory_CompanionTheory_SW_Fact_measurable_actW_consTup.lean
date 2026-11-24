@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Fact_measurable_actW_consTup
 -- name    : GlobalTheory.CompanionTheory.SW.Fact.measurable_actW_consTup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:03:47.842781+00:00
 -- url     : https://prove2.me/theorems/b6e9d5c5-5451-427b-9327-d586524f8dbb

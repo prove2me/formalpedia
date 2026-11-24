@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_compact_lie_operator_preserves_filtration
 -- name    : Formalism.REAL.compact_lie_operator_preserves_filtration
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:15:57.485698+00:00
 -- url     : https://prove2.me/theorems/0bded3a8-5ace-4560-af90-cb184b06ce6d

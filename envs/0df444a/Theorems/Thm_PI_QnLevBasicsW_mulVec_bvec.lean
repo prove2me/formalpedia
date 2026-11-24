@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnLevBasicsW_mulVec_bvec
 -- name    : PI.QnLevBasicsW.mulVec_bvec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:26:50.713958+00:00
 -- url     : https://prove2.me/theorems/358d8bca-68bf-4168-828e-e24471c5ef89

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Cond_splits_of_dvd
 -- name    : Formalism.FrobeniusOrbits.Cond.splits_of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:10:40.718773+00:00
 -- url     : https://prove2.me/theorems/7a32bce1-fd6a-4c43-b315-89f5de6fce77

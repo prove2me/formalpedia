@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscrJacobianBlocks_sum_ite_fibre
 -- name    : GlobalTheory.DiscrJacobianBlocks.sum_ite_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:50:37.911857+00:00
 -- url     : https://prove2.me/theorems/8399d141-ae56-4c2b-bdf4-118310f912d7

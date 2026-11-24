@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenSplit_isLocallyConstant_rankAtStalk_eigenSub
 -- name    : GlobalTheory.EigenSplit.isLocallyConstant_rankAtStalk_eigenSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:03:25.414365+00:00
 -- url     : https://prove2.me/theorems/bf27019e-6b85-4b9f-99c8-30f77bce4d98

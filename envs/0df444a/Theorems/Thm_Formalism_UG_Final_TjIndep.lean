@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_Final_TjIndep
 -- name    : Formalism.UG.Final.TjIndep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:15:30.612563+00:00
 -- url     : https://prove2.me/theorems/1f3294a1-2c2a-473b-826d-b239362fb4d1

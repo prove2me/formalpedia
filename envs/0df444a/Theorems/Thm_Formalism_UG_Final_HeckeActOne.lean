@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_Final_HeckeActOne
 -- name    : Formalism.UG.Final.HeckeActOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:15:05.434833+00:00
 -- url     : https://prove2.me/theorems/a9fd5a99-1304-4397-bd19-e2329c4509a3

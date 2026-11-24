@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConjLocal_mul_iterMat
 -- name    : GlobalTheory.ConjLocal.mul_iterMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:25:48.5671+00:00
 -- url     : https://prove2.me/theorems/9bf34d44-4212-43ff-adb9-a929ee53d324

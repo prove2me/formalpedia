@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DenseBasis_comp_linComb
 -- name    : GlobalTheory.DenseBasis.comp_linComb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:44:01.478876+00:00
 -- url     : https://prove2.me/theorems/e6cf8a45-5938-46f5-af09-9406548b8c10

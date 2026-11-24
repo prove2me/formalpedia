@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SdFin_trace_sigR
 -- name    : GlobalTheory.CompanionTheory.SdFin.trace_sigR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:00:02.214795+00:00
 -- url     : https://prove2.me/theorems/e7714390-ac7e-41ba-b92b-6a493910a73a

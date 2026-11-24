@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_FinalFormK_smOn_orbit
 -- name    : CompanionTheory.D.gk.FinalFormK.smOn_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:56:36.623726+00:00
 -- url     : https://prove2.me/theorems/573cc862-340e-4580-8ab4-8896ad12659d

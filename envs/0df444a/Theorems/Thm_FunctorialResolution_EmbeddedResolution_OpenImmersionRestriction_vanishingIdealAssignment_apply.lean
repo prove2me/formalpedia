@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_OpenImmersionRestriction_vanishingIdealAssignment_apply
 -- name    : FunctorialResolution.EmbeddedResolution.OpenImmersionRestriction.vanishingIdealAssignment_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:15:05.72236+00:00
 -- url     : https://prove2.me/theorems/569e2668-334b-4a45-a56e-2fbdbbeea91c

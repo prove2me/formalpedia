@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiagVol_colE_mem_symN_KO
 -- name    : GlobalTheory.DiagVol.colE_mem_symN_KO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:49:35.806823+00:00
 -- url     : https://prove2.me/theorems/10e167ed-93f4-470f-91a4-b267a47d1c80

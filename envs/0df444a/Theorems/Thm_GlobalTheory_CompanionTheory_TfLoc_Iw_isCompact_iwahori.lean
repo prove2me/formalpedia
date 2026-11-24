@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TfLoc_Iw_isCompact_iwahori
 -- name    : GlobalTheory.CompanionTheory.TfLoc.Iw.isCompact_iwahori
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:16:03.088114+00:00
 -- url     : https://prove2.me/theorems/6d4c33a3-96c7-4896-b902-dfd967ab244e

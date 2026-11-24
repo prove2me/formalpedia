@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Cond_cop_of_mod_one
 -- name    : Formalism.FrobeniusOrbits.Cond.cop_of_mod_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:10:50.319875+00:00
 -- url     : https://prove2.me/theorems/054f59f5-ca19-4f22-b2d8-09b8bca08c66

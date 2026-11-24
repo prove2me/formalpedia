@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_SymmetricSexticResidual_Proof_localU0_br2_q1_cancel
 -- name    : HodgeComputer.SymmetricSexticResidual.Proof.localU0_br2_q1_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @benediamond
 -- created : 2026-11-24T14:20:52.567018+00:00
 -- url     : https://prove2.me/theorems/d2ac0465-e8d9-4237-9bab-d7178bf1f3ae

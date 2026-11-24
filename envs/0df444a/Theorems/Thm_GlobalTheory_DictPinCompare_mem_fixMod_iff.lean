@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DictPinCompare_mem_fixMod_iff
 -- name    : GlobalTheory.DictPinCompare.mem_fixMod_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:18:37.506128+00:00
 -- url     : https://prove2.me/theorems/7522cca8-ae76-4fb9-8028-d49f02367340

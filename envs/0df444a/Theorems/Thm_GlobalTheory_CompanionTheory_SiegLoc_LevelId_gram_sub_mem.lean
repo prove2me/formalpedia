@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegLoc_LevelId_gram_sub_mem
 -- name    : GlobalTheory.CompanionTheory.SiegLoc.LevelId.gram_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:14:46.834381+00:00
 -- url     : https://prove2.me/theorems/b538fce6-749a-4a38-92da-6158b869bd13

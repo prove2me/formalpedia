@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConjugateAlgebraLemmas_aeval_conj
 -- name    : GlobalTheory.ConjugateAlgebraLemmas.aeval_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:25:35.383591+00:00
 -- url     : https://prove2.me/theorems/b4068207-2ffa-46b0-91c6-a5140c8205db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConstEndo_endo_comp_proj
 -- name    : GlobalTheory.ConstEndo.endo_comp_proj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:26:26.211799+00:00
 -- url     : https://prove2.me/theorems/7fb40a22-fdac-4074-848f-7c0e84b5b0b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_unimodular
 -- name    : Formalism.REAL.unimodular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:55:06.395408+00:00
 -- url     : https://prove2.me/theorems/76b99430-ad48-4c6a-ae12-ebdbfef76796

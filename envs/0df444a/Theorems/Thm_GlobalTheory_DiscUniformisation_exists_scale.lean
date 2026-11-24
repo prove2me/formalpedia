@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscUniformisation_exists_scale
 -- name    : GlobalTheory.DiscUniformisation.exists_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:49:07.391308+00:00
 -- url     : https://prove2.me/theorems/750bc961-ed5d-4fee-b1b2-b67a951a27d6

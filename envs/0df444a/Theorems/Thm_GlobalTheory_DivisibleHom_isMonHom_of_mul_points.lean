@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DivisibleHom_isMonHom_of_mul_points
 -- name    : GlobalTheory.DivisibleHom.isMonHom_of_mul_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:50:38.700898+00:00
 -- url     : https://prove2.me/theorems/e61dae16-a55c-48eb-8a30-45a4c9d032d3

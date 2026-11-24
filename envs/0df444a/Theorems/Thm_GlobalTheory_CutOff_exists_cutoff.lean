@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CutOff_exists_cutoff
 -- name    : GlobalTheory.CutOff.exists_cutoff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:49:13.611279+00:00
 -- url     : https://prove2.me/theorems/ad00ec52-ec92-4f88-bb46-42365daa6888

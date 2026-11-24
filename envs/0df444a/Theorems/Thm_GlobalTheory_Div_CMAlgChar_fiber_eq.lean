@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Div_CMAlgChar_fiber_eq
 -- name    : GlobalTheory.Div.CMAlgChar.fiber_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:50:37.298135+00:00
 -- url     : https://prove2.me/theorems/6cad6d08-8000-4185-bef3-0dc58c8b14fd

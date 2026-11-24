@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenLattice_tensAct_tmul
 -- name    : GlobalTheory.EigenLattice.tensAct_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:52:57.39943+00:00
 -- url     : https://prove2.me/theorems/3db8be7f-07b1-40d2-9f9e-73f79ee66e05

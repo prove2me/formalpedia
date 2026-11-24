@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_IsMaxOrderReduction_isStrictPullbackBlowupSeq_of_smooth_surjective
 -- name    : FunctorialResolution.EmbeddedResolution.IsMaxOrderReduction.isStrictPullbackBlowupSeq_of_smooth_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:14:41.406484+00:00
 -- url     : https://prove2.me/theorems/f49712fd-5047-421e-92fd-60967cbdc6b4

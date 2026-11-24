@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_TailConst_exists_const_mul_tail
 -- name    : GlobalTheory.CompanionTheory.SW.TailConst.exists_const_mul_tail
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:10:09.0229+00:00
 -- url     : https://prove2.me/theorems/8d9ef7fb-4069-4ce0-82f9-57486eddaf4f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeValues_val_linComb
 -- name    : GlobalTheory.CubeValues.val_linComb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:03:08.901146+00:00
 -- url     : https://prove2.me/theorems/26b3922a-c3b8-4f26-9cf8-21d2673ec2bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AdeleCharLocal_trace_mul_ne_zero
 -- name    : GlobalTheory.CompanionTheory.AdeleCharLocal.trace_mul_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:25:07.547903+00:00
 -- url     : https://prove2.me/theorems/3857f3c9-f1b1-4d38-bc04-e695dd36544a

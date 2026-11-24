@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetFactor_conj_transvection
 -- name    : GlobalTheory.DetFactor.conj_transvection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:43:29.914875+00:00
 -- url     : https://prove2.me/theorems/d038cd23-dfc8-4435-a918-bcab304836ca

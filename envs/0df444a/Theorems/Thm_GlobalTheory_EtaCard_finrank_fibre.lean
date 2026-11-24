@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EtaCard_finrank_fibre
 -- name    : GlobalTheory.EtaCard.finrank_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:59:43.862803+00:00
 -- url     : https://prove2.me/theorems/dd996e45-94a2-4a06-b799-05532194c81c

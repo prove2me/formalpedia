@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B4_natCast_succ_le
 -- name    : Formalism.FourierDecayAlt.P.B4.natCast_succ_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:27:08.93532+00:00
 -- url     : https://prove2.me/theorems/20034db3-1fd7-4c8c-afb9-d37f280d1c5d

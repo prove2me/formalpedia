@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_IsBoundaryDivisorReduction_isStrictPullbackBlowupSeq_of_smooth_surjective
 -- name    : FunctorialResolution.EmbeddedResolution.IsBoundaryDivisorReduction.isStrictPullbackBlowupSeq_of_smooth_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:13:44.405592+00:00
 -- url     : https://prove2.me/theorems/b490ff32-4fdd-43d2-9f8c-863bb6f6907b

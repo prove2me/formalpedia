@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MultiSeg_Rank_sqLen_lt_of_inSh
 -- name    : GlobalTheory.CompanionTheory.MultiSeg.Rank.sqLen_lt_of_inSh
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:53:46.790081+00:00
 -- url     : https://prove2.me/theorems/bfd2266c-5e2f-4ff9-a879-05165b0c7248

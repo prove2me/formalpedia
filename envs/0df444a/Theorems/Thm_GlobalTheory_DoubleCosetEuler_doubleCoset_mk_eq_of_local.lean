@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DoubleCosetEuler_doubleCoset_mk_eq_of_local
 -- name    : GlobalTheory.DoubleCosetEuler.doubleCoset_mk_eq_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:50:11.193575+00:00
 -- url     : https://prove2.me/theorems/72213826-997a-4ae5-9966-52426251eefe

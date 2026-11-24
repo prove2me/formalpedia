@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenvalueNormBound_pow_mulVec_eq
 -- name    : GlobalTheory.EigenvalueNormBound.pow_mulVec_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:03:33.85681+00:00
 -- url     : https://prove2.me/theorems/dbc3ddcf-66c4-4825-a48b-6cf21be92f54

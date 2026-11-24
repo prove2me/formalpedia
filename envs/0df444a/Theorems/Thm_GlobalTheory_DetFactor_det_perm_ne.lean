@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetFactor_det_perm_ne
 -- name    : GlobalTheory.DetFactor.det_perm_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:43:34.124019+00:00
 -- url     : https://prove2.me/theorems/cd134d71-ff14-4f64-aed6-ad373b3f5ce1

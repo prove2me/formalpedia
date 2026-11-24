@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualFrameSpan_comp_mem_span
 -- name    : GlobalTheory.DualFrameSpan.comp_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:51:26.628844+00:00
 -- url     : https://prove2.me/theorems/35d426fb-e9b8-4e82-9cfe-34bc00720ac8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_StabFirst_mem_HFin_iff
 -- name    : GlobalTheory.CompanionTheory.SW.StabFirst.mem_HFin_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:09:26.074798+00:00
 -- url     : https://prove2.me/theorems/5453bd6f-7bee-4343-b316-b8774f686a08

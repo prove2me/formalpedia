@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_CuspThresholdCounts_cubeMult
 -- name    : Formalism.HermitianLatticeCounting.Final.CuspThresholdCounts.cubeMult
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:15:14.215331+00:00
 -- url     : https://prove2.me/theorems/224cce94-526b-47d8-9418-2dbd15e564e0

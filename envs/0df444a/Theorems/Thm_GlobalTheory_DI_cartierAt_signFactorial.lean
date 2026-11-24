@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_cartierAt_signFactorial
 -- name    : GlobalTheory.DI.cartierAt_signFactorial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:35:28.146133+00:00
 -- url     : https://prove2.me/theorems/a9a5bcb1-61b7-4dfe-b299-9dceca625546

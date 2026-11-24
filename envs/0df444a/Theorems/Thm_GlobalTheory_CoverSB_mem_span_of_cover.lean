@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoverSB_mem_span_of_cover
 -- name    : GlobalTheory.CoverSB.mem_span_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:43:44.455953+00:00
 -- url     : https://prove2.me/theorems/7485185f-7e03-49b7-8836-a6302cdeb999

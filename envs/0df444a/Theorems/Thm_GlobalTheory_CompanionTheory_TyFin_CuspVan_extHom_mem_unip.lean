@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_CuspVan_extHom_mem_unip
 -- name    : GlobalTheory.CompanionTheory.TyFin.CuspVan.extHom_mem_unip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:17:06.003812+00:00
 -- url     : https://prove2.me/theorems/3c24f095-4386-48bc-9de4-dcf86a3f5b1e

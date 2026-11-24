@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_Final_DwActMul
 -- name    : Formalism.UG.Final.DwActMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:13:56.333819+00:00
 -- url     : https://prove2.me/theorems/e84e3d94-51d8-4834-b013-8d86bdde5ad2

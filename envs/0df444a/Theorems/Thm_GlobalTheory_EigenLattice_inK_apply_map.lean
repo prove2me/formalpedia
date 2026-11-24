@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenLattice_inK_apply_map
 -- name    : GlobalTheory.EigenLattice.inK_apply_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:52:46.374404+00:00
 -- url     : https://prove2.me/theorems/e3c86cda-09c8-4cf2-9dbf-ec473db5cff1

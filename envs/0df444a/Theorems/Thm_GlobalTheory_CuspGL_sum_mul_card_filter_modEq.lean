@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_sum_mul_card_filter_modEq
 -- name    : GlobalTheory.CuspGL.sum_mul_card_filter_modEq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:33:52.869876+00:00
 -- url     : https://prove2.me/theorems/051fcbaa-961d-481f-9ec9-e3463bf7b184

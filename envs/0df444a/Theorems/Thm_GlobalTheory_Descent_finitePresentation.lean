@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Descent_finitePresentation
 -- name    : GlobalTheory.Descent.finitePresentation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:43:10.541461+00:00
 -- url     : https://prove2.me/theorems/ddd49f75-562e-4551-a9ed-274ec0dd9932

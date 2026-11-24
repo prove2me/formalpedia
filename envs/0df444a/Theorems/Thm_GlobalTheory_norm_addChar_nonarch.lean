@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_norm_addChar_nonarch
 -- name    : GlobalTheory.norm_addChar_nonarch
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:21:42.512942+00:00
 -- url     : https://prove2.me/theorems/ed6a0d55-5014-48e4-9313-06280f397df8

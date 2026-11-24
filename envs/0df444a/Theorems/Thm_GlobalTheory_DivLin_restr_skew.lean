@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DivLin_restr_skew
 -- name    : GlobalTheory.DivLin.restr_skew
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:50:48.04189+00:00
 -- url     : https://prove2.me/theorems/6bd65d20-71e8-4a2f-bfb0-31bd28bded54

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_rootElt_mem_unipotent
 -- name    : GroundTheory.Automorphic.Whittaker.rootElt_mem_unipotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:17:28.514702+00:00
 -- url     : https://prove2.me/theorems/d89f0b48-cbae-4b81-ac28-9122fedb2a07

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Cond_splits_pow
 -- name    : Formalism.FrobeniusOrbits.Cond.splits_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:10:36.843889+00:00
 -- url     : https://prove2.me/theorems/ce99467a-6720-487c-a18b-cf78b6de7609

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DeterminantSimpLemma_main
 -- name    : GlobalTheory.DeterminantSimpLemma.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:49:32.691689+00:00
 -- url     : https://prove2.me/theorems/a764b550-debe-481b-9637-4c3eab285448

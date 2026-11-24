@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_continuous_blkGL
 -- name    : GlobalTheory.Doubling.continuous_blkGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:52:12.150401+00:00
 -- url     : https://prove2.me/theorems/f7bca198-6d57-479c-b671-98aedef53141

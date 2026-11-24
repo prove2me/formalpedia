@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Orbit_adjoin_stable
 -- name    : GlobalTheory.UnitLemma.Orbit.adjoin_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:16:58.584565+00:00
 -- url     : https://prove2.me/theorems/98235d4b-1df3-4cfe-aa1c-0ffbb40b2d2b

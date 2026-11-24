@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_matrices_locally_compact_borel
 -- name    : GlobalTheory.T.hermitian_matrices_locally_compact_borel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:36:43.225277+00:00
 -- url     : https://prove2.me/theorems/fe4589c4-12b2-4bf6-8a67-224f978a6e8e

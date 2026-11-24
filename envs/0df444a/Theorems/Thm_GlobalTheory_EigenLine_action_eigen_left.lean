@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenLine_action_eigen_left
 -- name    : GlobalTheory.EigenLine.action_eigen_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:52:44.325799+00:00
 -- url     : https://prove2.me/theorems/f0723095-a980-441a-995a-2a1138b94d9b

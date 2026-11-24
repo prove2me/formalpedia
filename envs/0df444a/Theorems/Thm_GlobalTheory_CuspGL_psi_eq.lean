@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_psi_eq
 -- name    : GlobalTheory.CuspGL.psi_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:06:21.701645+00:00
 -- url     : https://prove2.me/theorems/6bfdfbd8-a49d-4295-bd6a-18d22824b841

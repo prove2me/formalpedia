@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2_aDil_inv
 -- name    : Formalism.FourierDecayAlt.P.B2.aDil_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:26:26.533099+00:00
 -- url     : https://prove2.me/theorems/3a348012-d5ea-40bc-a5d7-5aea48ad11f3

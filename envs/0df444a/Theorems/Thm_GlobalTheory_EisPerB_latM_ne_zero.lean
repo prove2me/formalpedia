@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EisPerB_latM_ne_zero
 -- name    : GlobalTheory.EisPerB.latM_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:58:22.520399+00:00
 -- url     : https://prove2.me/theorems/7efc8cdb-1149-4f05-b656-dc36eb8ef6be

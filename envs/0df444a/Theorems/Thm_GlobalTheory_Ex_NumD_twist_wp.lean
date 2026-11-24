@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_NumD_twist_wp
 -- name    : GlobalTheory.Ex.NumD.twist_wp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:06:46.516671+00:00
 -- url     : https://prove2.me/theorems/cf48025f-414e-4b92-99ae-a18f3893aa92

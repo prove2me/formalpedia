@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Conv_mem_convLaurent_of_summable
 -- name    : GlobalTheory.Conv.mem_convLaurent_of_summable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:27:39.371813+00:00
 -- url     : https://prove2.me/theorems/d1bc8b27-d520-48dc-911f-b4fb0aaca911

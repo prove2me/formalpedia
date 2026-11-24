@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_lim_fv_smul
 -- name    : GlobalTheory.AdLat.lim_fv_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:20:26.81713+00:00
 -- url     : https://prove2.me/theorems/2d09efa7-4f50-4e70-ab84-ab4ebc3b7c52

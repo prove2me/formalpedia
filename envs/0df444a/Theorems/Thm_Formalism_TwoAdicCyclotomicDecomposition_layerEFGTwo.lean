@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_layerEFGTwo
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.layerEFGTwo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:33:28.39753+00:00
 -- url     : https://prove2.me/theorems/27c7cadc-fdbd-4bfe-b93e-ef9cb24e51dc

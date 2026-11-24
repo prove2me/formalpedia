@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hecke_character_exists_unique
 -- name    : GlobalTheory.T.hecke_character_exists_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:46:57.972881+00:00
 -- url     : https://prove2.me/theorems/25703f63-0431-427e-84b3-8aee5edf308b

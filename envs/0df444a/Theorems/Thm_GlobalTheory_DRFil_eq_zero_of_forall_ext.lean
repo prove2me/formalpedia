@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_eq_zero_of_forall_ext
 -- name    : GlobalTheory.DRFil.eq_zero_of_forall_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:36:50.341441+00:00
 -- url     : https://prove2.me/theorems/40d2f436-2636-4075-ae47-ba4d87cf0c2d

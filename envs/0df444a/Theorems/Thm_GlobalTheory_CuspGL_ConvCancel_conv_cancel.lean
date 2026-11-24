@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_ConvCancel_conv_cancel
 -- name    : GlobalTheory.CuspGL.ConvCancel.conv_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:29:27.798952+00:00
 -- url     : https://prove2.me/theorems/448fc2bb-21d1-4811-8388-b6601ea26163

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualTransfer_exists_hom
 -- name    : GlobalTheory.DualTransfer.exists_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:51:47.697504+00:00
 -- url     : https://prove2.me/theorems/b6ba8fd7-6851-42cf-b444-f199163cb3a9

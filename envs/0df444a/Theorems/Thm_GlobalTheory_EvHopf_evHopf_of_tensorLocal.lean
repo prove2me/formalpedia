@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EvHopf_evHopf_of_tensorLocal
 -- name    : GlobalTheory.EvHopf.evHopf_of_tensorLocal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:59:37.329327+00:00
 -- url     : https://prove2.me/theorems/cb007906-d6b1-4ebd-9290-369a9b7417b1

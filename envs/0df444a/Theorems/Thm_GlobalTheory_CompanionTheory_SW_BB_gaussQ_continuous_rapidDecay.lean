@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BB_gaussQ_continuous_rapidDecay
 -- name    : GlobalTheory.CompanionTheory.SW.BB.gaussQ_continuous_rapidDecay
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:02:16.534699+00:00
 -- url     : https://prove2.me/theorems/6fd16f20-a44c-49c0-9f75-9fa5ce540355

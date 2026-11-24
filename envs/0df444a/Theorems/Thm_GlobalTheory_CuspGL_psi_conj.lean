@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_psi_conj
 -- name    : GlobalTheory.CuspGL.psi_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:07:59.449814+00:00
 -- url     : https://prove2.me/theorems/85d16f60-4a83-4b6b-917f-2d3fd7dd512f

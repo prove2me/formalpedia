@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeFace_prod_alt
 -- name    : GlobalTheory.CubeFace.prod_alt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:59:10.212131+00:00
 -- url     : https://prove2.me/theorems/0b104051-4a45-4cb6-be09-43c64981d15f

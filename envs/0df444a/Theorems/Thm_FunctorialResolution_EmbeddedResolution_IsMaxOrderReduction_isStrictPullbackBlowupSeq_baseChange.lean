@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_IsMaxOrderReduction_isStrictPullbackBlowupSeq_baseChange
 -- name    : FunctorialResolution.EmbeddedResolution.IsMaxOrderReduction.isStrictPullbackBlowupSeq_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:13:51.350931+00:00
 -- url     : https://prove2.me/theorems/1b157ada-a447-4276-9b0d-5980478ee226

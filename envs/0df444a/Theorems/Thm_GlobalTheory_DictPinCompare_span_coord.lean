@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DictPinCompare_span_coord
 -- name    : GlobalTheory.DictPinCompare.span_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:18:58.940407+00:00
 -- url     : https://prove2.me/theorems/5b5e8d3c-7516-43c5-8b13-f52720245784

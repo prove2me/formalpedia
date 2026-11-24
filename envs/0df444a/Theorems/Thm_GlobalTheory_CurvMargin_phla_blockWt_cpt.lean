@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CurvMargin_phla_blockWt_cpt
 -- name    : GlobalTheory.CurvMargin.phla_blockWt_cpt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:31:26.714111+00:00
 -- url     : https://prove2.me/theorems/0af2a5e4-205a-497f-8a77-563bfe6a4f93

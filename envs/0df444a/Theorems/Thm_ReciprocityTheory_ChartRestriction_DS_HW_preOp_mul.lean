@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_preOp_mul
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.preOp_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:14:00.097928+00:00
 -- url     : https://prove2.me/theorems/c8338701-7ef7-4b48-aaff-1a4cb25bdb3e

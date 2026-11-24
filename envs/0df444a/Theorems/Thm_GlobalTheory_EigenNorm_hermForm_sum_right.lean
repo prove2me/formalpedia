@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenNorm_hermForm_sum_right
 -- name    : GlobalTheory.EigenNorm.hermForm_sum_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:56:35.863087+00:00
 -- url     : https://prove2.me/theorems/81808ad6-b12a-4638-8ebe-f3737d0259d4

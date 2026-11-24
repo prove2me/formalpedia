@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B4_sel_mem
 -- name    : Formalism.FourierDecayAlt.P.B4.sel_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:27:06.45473+00:00
 -- url     : https://prove2.me/theorems/51d838c3-cc46-4bdf-8d1d-0e9949b85207

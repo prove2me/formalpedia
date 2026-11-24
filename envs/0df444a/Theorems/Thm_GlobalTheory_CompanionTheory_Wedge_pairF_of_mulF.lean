@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Wedge_pairF_of_mulF
 -- name    : GlobalTheory.CompanionTheory.Wedge.pairF_of_mulF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:21:47.581264+00:00
 -- url     : https://prove2.me/theorems/73ea0dbb-2f3f-47ed-a771-434b2319fd8e

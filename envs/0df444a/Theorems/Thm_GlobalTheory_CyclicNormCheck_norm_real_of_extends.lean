@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CyclicNormCheck_norm_real_of_extends
 -- name    : GlobalTheory.CyclicNormCheck.norm_real_of_extends
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:34:16.21363+00:00
 -- url     : https://prove2.me/theorems/d92a0407-167f-4e73-b639-9c6b41b6388e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_cub_four
 -- name    : GlobalTheory.Ex.cub_four
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:06:36.90864+00:00
 -- url     : https://prove2.me/theorems/2a62b09c-5645-46ac-88dc-fe2c8acd8163

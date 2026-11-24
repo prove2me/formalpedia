@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_kIrr
 -- name    : Formalism.REAL.kIrr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:13:52.841732+00:00
 -- url     : https://prove2.me/theorems/365af2b0-d0b9-4a95-b02b-8de5bf209002

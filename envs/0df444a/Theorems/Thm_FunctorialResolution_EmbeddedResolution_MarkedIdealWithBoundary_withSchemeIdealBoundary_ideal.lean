@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_MarkedIdealWithBoundary_withSchemeIdealBoundary_ideal
 -- name    : FunctorialResolution.EmbeddedResolution.MarkedIdealWithBoundary.withSchemeIdealBoundary_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:14:59.905022+00:00
 -- url     : https://prove2.me/theorems/1a7bd0bf-13e7-460d-8451-1a5839894d08

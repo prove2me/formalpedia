@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DoubleCosetEuler_finsum_doubleCoset_trivial_eq_one
 -- name    : GlobalTheory.DoubleCosetEuler.finsum_doubleCoset_trivial_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:50:17.167799+00:00
 -- url     : https://prove2.me/theorems/71cdd652-5fb7-40bb-8a1f-15e1e2000c23

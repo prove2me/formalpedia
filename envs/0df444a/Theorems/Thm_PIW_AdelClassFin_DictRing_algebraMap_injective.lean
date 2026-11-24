@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_DictRing_algebraMap_injective
 -- name    : PIW.AdelClassFin.DictRing.algebraMap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:28:55.311995+00:00
 -- url     : https://prove2.me/theorems/e2f70108-2621-4bb7-8187-b81e429c6392

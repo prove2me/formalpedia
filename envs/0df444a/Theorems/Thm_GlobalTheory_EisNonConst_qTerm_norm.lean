@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EisNonConst_qTerm_norm
 -- name    : GlobalTheory.EisNonConst.qTerm_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:59:06.662648+00:00
 -- url     : https://prove2.me/theorems/5fc81472-1f61-4c0a-bbbb-e3e3c0061f3e

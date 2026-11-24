@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_inK_skew_hermitian_unit
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.inK_skew_hermitian_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:55:50.981992+00:00
 -- url     : https://prove2.me/theorems/e7292b82-c321-41da-a432-065770800147

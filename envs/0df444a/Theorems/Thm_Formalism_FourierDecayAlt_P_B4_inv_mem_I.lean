@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B4_inv_mem_I
 -- name    : Formalism.FourierDecayAlt.P.B4.inv_mem_I
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:24:31.007355+00:00
 -- url     : https://prove2.me/theorems/67ed8d9f-adf4-456b-b3f2-fed07333f37e

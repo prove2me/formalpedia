@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_coordW_one_map_coords
 -- name    : GlobalTheory.CompanionTheory.SW.coordW_one_map_coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:13:08.968085+00:00
 -- url     : https://prove2.me/theorems/386a9049-cff3-4dca-99da-786c962d7381

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DoublingLength_exists_small
 -- name    : GlobalTheory.DoublingLength.exists_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:52:29.921985+00:00
 -- url     : https://prove2.me/theorems/7cf2e5b5-b3d9-4ebb-abe4-1e53dfa1a999

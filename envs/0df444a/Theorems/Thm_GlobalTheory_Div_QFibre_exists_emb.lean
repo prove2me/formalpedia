@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Div_QFibre_exists_emb
 -- name    : GlobalTheory.Div.QFibre.exists_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:50:51.11913+00:00
 -- url     : https://prove2.me/theorems/abced57c-df22-4328-a5f1-5169a89d7a2e

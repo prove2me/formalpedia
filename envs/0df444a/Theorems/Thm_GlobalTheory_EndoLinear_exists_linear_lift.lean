@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EndoLinear_exists_linear_lift
 -- name    : GlobalTheory.EndoLinear.exists_linear_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:57:59.87874+00:00
 -- url     : https://prove2.me/theorems/b116c8e9-ecf3-4509-bef1-4173e3dd5bc9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_NearFarVolumeBounds_threshCount
 -- name    : Formalism.HermitianLatticeCounting.Final.NearFarVolumeBounds.threshCount
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:22:33.020802+00:00
 -- url     : https://prove2.me/theorems/381dcc9d-6abe-4f1f-a152-db8883d5d9f3

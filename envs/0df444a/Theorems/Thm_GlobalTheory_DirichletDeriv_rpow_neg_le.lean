@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DirichletDeriv_rpow_neg_le
 -- name    : GlobalTheory.DirichletDeriv.rpow_neg_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:48:42.290902+00:00
 -- url     : https://prove2.me/theorems/9e94f818-7dd1-4a88-a1c1-8549515bb6e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenLattice_exists_ne_mem
 -- name    : GlobalTheory.EigenLattice.exists_ne_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:53:19.888578+00:00
 -- url     : https://prove2.me/theorems/17462a6c-5b39-4a0a-b9b1-8c036788c6e3

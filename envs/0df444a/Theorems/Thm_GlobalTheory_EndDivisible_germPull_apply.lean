@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EndDivisible_germPull_apply
 -- name    : GlobalTheory.EndDivisible.germPull_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:58:11.148598+00:00
 -- url     : https://prove2.me/theorems/2324e370-85d9-48b7-9be2-7b52b24dc7f1

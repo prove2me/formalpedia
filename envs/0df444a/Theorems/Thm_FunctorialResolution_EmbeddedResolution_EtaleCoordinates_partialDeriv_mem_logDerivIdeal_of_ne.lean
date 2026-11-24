@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EtaleCoordinates_partialDeriv_mem_logDerivIdeal_of_ne
 -- name    : FunctorialResolution.EmbeddedResolution.EtaleCoordinates.partialDeriv_mem_logDerivIdeal_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:57:49.695116+00:00
 -- url     : https://prove2.me/theorems/4b9e68cf-03b5-4512-aa00-18490c704d96

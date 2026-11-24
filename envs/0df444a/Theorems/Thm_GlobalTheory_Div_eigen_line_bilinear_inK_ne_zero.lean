@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Div_eigen_line_bilinear_inK_ne_zero
 -- name    : GlobalTheory.Div.eigen_line_bilinear.inK_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:50:37.667396+00:00
 -- url     : https://prove2.me/theorems/aecde20c-8996-47a8-827e-e38f583ea57b

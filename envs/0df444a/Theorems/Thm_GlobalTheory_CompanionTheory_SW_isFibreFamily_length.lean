@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_isFibreFamily_length
 -- name    : GlobalTheory.CompanionTheory.SW.isFibreFamily_length
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:12:02.413739+00:00
 -- url     : https://prove2.me/theorems/db8e5b6a-2f0a-4874-ac50-8c98fa2da4f4

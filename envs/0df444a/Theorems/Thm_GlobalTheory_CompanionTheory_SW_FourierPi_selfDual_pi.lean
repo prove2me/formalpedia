@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FourierPi_selfDual_pi
 -- name    : GlobalTheory.CompanionTheory.SW.FourierPi.selfDual_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:05:38.819461+00:00
 -- url     : https://prove2.me/theorems/b650b498-96ea-4b7f-a406-3a13a4cb4e3e

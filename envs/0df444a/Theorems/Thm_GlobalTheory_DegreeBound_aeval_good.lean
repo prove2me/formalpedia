@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegreeBound_aeval_good
 -- name    : GlobalTheory.DegreeBound.aeval_good
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:43:37.856932+00:00
 -- url     : https://prove2.me/theorems/d0317303-1e3d-44b6-aa60-0a910a1d69ae

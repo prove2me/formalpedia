@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EmbeddingSum_sum_eq_sum_comp_embedding
 -- name    : GlobalTheory.EmbeddingSum.sum_eq_sum_comp_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:58:24.430551+00:00
 -- url     : https://prove2.me/theorems/9e233218-3a9f-4919-b878-c6df17d01307

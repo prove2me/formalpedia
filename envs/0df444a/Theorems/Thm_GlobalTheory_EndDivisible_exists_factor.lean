@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EndDivisible_exists_factor
 -- name    : GlobalTheory.EndDivisible.exists_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:58:47.567864+00:00
 -- url     : https://prove2.me/theorems/a8cbecf3-6a2d-4098-b0a3-fa282e8b5829

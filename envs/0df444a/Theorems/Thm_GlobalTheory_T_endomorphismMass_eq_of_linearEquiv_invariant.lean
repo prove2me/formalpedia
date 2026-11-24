@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_endomorphismMass_eq_of_linearEquiv_invariant
 -- name    : GlobalTheory.T.endomorphismMass_eq_of_linearEquiv_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:48:04.544732+00:00
 -- url     : https://prove2.me/theorems/4617eef4-1bde-456a-b6c5-815108984c6d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FrobeniusOrbits_Inertia_neg_one_ne_one__f153e1d875d4
 -- name    : P2M_Formalism_FrobeniusOrbits_Inertia_neg_one_ne_one__f153e1d875d4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:15:18.542512+00:00
 -- url     : https://prove2.me/theorems/5a00f052-c9c4-4b0b-956b-bcc2d3fe26da

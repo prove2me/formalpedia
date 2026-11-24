@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z5_coeOF
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z5.coeOF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:26:17.332037+00:00
 -- url     : https://prove2.me/theorems/3d4b6122-ff61-4637-92a6-af88ecf43048

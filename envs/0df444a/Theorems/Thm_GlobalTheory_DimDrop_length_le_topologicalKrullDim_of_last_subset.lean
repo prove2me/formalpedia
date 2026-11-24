@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DimDrop_length_le_topologicalKrullDim_of_last_subset
 -- name    : GlobalTheory.DimDrop.length_le_topologicalKrullDim_of_last_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:48:55.83387+00:00
 -- url     : https://prove2.me/theorems/c9dccd63-5caf-4efc-8c92-084f0f5daa3a

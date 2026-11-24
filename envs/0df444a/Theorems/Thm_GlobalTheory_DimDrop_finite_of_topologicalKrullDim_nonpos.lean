@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DimDrop_finite_of_topologicalKrullDim_nonpos
 -- name    : GlobalTheory.DimDrop.finite_of_topologicalKrullDim_nonpos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:48:55.612586+00:00
 -- url     : https://prove2.me/theorems/09ea16cd-0bf0-4255-a0d6-a0330bc7e152

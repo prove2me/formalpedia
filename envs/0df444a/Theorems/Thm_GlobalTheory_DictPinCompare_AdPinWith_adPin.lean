@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DictPinCompare_AdPinWith_adPin
 -- name    : GlobalTheory.DictPinCompare.AdPinWith.adPin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:18:28.479818+00:00
 -- url     : https://prove2.me/theorems/239d64f4-da88-4b88-bf13-9c9a442b48a2

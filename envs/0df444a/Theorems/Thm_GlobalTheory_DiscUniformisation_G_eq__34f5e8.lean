@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscUniformisation_G_eq__34f5e8
 -- name    : GlobalTheory.DiscUniformisation.G_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:48:53.921806+00:00
 -- url     : https://prove2.me/theorems/34f5e832-3414-424b-9891-5fa45531b483

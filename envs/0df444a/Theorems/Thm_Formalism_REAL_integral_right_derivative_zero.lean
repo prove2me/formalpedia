@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_integral_right_derivative_zero
 -- name    : Formalism.REAL.integral_right_derivative_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:42:29.047002+00:00
 -- url     : https://prove2.me/theorems/d5b7ef8c-6dc0-4879-a3c1-957ba5b48f93

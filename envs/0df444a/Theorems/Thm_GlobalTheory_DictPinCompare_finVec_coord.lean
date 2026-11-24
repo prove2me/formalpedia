@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DictPinCompare_finVec_coord
 -- name    : GlobalTheory.DictPinCompare.finVec_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:19:25.009977+00:00
 -- url     : https://prove2.me/theorems/ea04054b-95a4-4eba-8c30-7fd2bbd93068

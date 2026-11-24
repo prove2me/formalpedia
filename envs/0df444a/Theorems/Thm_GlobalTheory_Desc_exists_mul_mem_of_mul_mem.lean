@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Desc_exists_mul_mem_of_mul_mem
 -- name    : GlobalTheory.Desc.exists_mul_mem_of_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:43:22.534046+00:00
 -- url     : https://prove2.me/theorems/d5096244-5428-4cdc-99b2-d7183380d409

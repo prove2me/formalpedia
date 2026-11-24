@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeLift_add_exists
 -- name    : GlobalTheory.CubeLift.add_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:28:41.959845+00:00
 -- url     : https://prove2.me/theorems/7fca98e4-69c2-42f0-b7c4-5bbd8f8d3a6c

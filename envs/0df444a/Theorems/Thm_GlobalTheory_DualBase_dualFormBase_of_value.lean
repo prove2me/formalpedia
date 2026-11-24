@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualBase_dualFormBase_of_value
 -- name    : GlobalTheory.DualBase.dualFormBase_of_value
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:51:51.373804+00:00
 -- url     : https://prove2.me/theorems/0f565468-82fa-4d07-b390-dc93c62181b2

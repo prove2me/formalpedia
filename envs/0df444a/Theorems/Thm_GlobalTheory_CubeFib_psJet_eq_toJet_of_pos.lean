@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeFib_psJet_eq_toJet_of_pos
 -- name    : GlobalTheory.CubeFib.psJet_eq_toJet_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:28:42.277609+00:00
 -- url     : https://prove2.me/theorems/ba854bd4-f3f8-4726-baf9-133aa4bb65eb

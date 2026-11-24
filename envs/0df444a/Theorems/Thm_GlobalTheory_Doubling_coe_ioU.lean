@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_coe_ioU
 -- name    : GlobalTheory.Doubling.coe_ioU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:52:13.499198+00:00
 -- url     : https://prove2.me/theorems/4c87da05-e38f-40f8-8424-07faffc22b17

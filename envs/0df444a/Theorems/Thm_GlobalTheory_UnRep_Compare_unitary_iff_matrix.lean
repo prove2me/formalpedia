@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_Compare_unitary_iff_matrix
 -- name    : GlobalTheory.UnRep.Compare.unitary_iff_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:19:03.778828+00:00
 -- url     : https://prove2.me/theorems/091b5732-2a03-48c3-b0ae-6cbd32fca78b

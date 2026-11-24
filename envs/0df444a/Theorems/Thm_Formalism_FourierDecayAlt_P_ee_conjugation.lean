@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ee_conjugation
 -- name    : Formalism.FourierDecayAlt.P.ee_conjugation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:04:18.780373+00:00
 -- url     : https://prove2.me/theorems/dc235fcc-8f5f-4f23-a8d6-3f6f4bfdd9f0

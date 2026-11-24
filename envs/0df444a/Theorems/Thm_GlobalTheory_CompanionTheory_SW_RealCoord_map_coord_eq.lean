@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_RealCoord_map_coord_eq
 -- name    : GlobalTheory.CompanionTheory.SW.RealCoord.map_coord_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:33:46.338806+00:00
 -- url     : https://prove2.me/theorems/a09142cc-190a-4d27-aeb0-4c0d42f9a934

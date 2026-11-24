@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetClass_span_mul_le
 -- name    : GlobalTheory.DetClass.span_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:43:25.984332+00:00
 -- url     : https://prove2.me/theorems/91e81058-1f0b-4c8f-acd7-bdc6861291e0

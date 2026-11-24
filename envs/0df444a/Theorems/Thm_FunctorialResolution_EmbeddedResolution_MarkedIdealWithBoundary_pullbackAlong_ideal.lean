@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_MarkedIdealWithBoundary_pullbackAlong_ideal
 -- name    : FunctorialResolution.EmbeddedResolution.MarkedIdealWithBoundary.pullbackAlong_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:13:47.085522+00:00
 -- url     : https://prove2.me/theorems/0b960b75-625c-44a9-9dfc-28dd5b1af235

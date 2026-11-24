@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_b_map_shape
 -- name    : Formalism.L2.DIV.b_map_shape
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:22:36.287834+00:00
 -- url     : https://prove2.me/theorems/6e02f3fc-f357-409d-aeee-5105631d09a3

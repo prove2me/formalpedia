@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_NearFarVolumeBounds_stepsRoom
 -- name    : Formalism.HermitianLatticeCounting.Final.NearFarVolumeBounds.stepsRoom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:21:58.183052+00:00
 -- url     : https://prove2.me/theorems/5134d50d-0e22-459a-a449-e186226e5886

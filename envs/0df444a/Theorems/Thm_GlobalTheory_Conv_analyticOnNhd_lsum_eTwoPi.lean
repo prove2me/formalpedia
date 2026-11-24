@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Conv_analyticOnNhd_lsum_eTwoPi
 -- name    : GlobalTheory.Conv.analyticOnNhd_lsum_eTwoPi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:25:39.945979+00:00
 -- url     : https://prove2.me/theorems/f219c5eb-3c07-45cd-80b7-80ad9c767048

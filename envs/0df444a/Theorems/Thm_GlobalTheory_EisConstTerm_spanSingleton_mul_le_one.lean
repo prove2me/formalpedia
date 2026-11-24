@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EisConstTerm_spanSingleton_mul_le_one
 -- name    : GlobalTheory.EisConstTerm.spanSingleton_mul_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:58:03.153545+00:00
 -- url     : https://prove2.me/theorems/e362403c-0068-4b18-9824-4cc45003c36e

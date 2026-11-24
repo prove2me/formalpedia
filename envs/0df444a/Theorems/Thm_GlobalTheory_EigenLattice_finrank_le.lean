@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenLattice_finrank_le
 -- name    : GlobalTheory.EigenLattice.finrank_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:52:59.51408+00:00
 -- url     : https://prove2.me/theorems/b14d356a-77db-49bc-8495-816a3f1e7f7c

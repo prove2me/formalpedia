@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ContinuousHomDifferentiable_continuous_hom_differentiable
 -- name    : GlobalTheory.ContinuousHomDifferentiable.continuous_hom_differentiable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:25:56.620984+00:00
 -- url     : https://prove2.me/theorems/01f95d28-3011-4250-b6dd-15974b5c10c6

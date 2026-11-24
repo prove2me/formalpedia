@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigFlat_sum_eq
 -- name    : GlobalTheory.EigFlat.sum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:53:10.13821+00:00
 -- url     : https://prove2.me/theorems/e932e8fc-83da-432f-856d-c4b2607fcc8d

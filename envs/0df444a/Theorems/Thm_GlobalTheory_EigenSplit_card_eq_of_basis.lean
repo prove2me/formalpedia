@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenSplit_card_eq_of_basis
 -- name    : GlobalTheory.EigenSplit.card_eq_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:57:37.3666+00:00
 -- url     : https://prove2.me/theorems/2e10f636-820d-4dbf-8b19-fcbcbb5ada0b

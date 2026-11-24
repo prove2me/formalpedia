@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_integral_lie_derivative_eq_zero
 -- name    : Formalism.REAL.integral_lie_derivative_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:12:27.915863+00:00
 -- url     : https://prove2.me/theorems/7dcfb0ea-4a8b-4bf9-a351-37227e3e02cc

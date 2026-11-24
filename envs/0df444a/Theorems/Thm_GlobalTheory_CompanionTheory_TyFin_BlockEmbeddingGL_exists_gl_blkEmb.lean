@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_BlockEmbeddingGL_exists_gl_blkEmb
 -- name    : GlobalTheory.CompanionTheory.TyFin.BlockEmbeddingGL.exists_gl_blkEmb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:17:35.126598+00:00
 -- url     : https://prove2.me/theorems/41e7721e-bc49-4fe2-b0ec-4d044166bdce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenLine_finrank_ker_add_one
 -- name    : GlobalTheory.EigenLine.finrank_ker_add_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:56:27.385793+00:00
 -- url     : https://prove2.me/theorems/4414e095-6fa1-4bd2-ae61-296b908fd9ff

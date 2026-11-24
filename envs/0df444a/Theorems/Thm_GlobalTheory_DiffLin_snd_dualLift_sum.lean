@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiffLin_snd_dualLift_sum
 -- name    : GlobalTheory.DiffLin.snd_dualLift_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:49:38.980845+00:00
 -- url     : https://prove2.me/theorems/6803bd01-d223-49a5-8bdc-e463ef35b143

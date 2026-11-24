@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DenominatorOfSpan_exists_smul_mem_of_span_eq_top
 -- name    : GlobalTheory.DenominatorOfSpan.exists_smul_mem_of_span_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:43:11.286831+00:00
 -- url     : https://prove2.me/theorems/76fbb028-ec3a-4ed2-b112-bfd3ae15dee2

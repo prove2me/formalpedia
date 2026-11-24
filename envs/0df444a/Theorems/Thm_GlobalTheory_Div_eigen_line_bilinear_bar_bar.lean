@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Div_eigen_line_bilinear_bar_bar
 -- name    : GlobalTheory.Div.eigen_line_bilinear.bar_bar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:50:48.055884+00:00
 -- url     : https://prove2.me/theorems/1baf4384-8745-4267-98b9-9d5f115b3b4d

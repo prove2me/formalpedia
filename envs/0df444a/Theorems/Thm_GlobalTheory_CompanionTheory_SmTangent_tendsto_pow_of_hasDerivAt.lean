@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmTangent_tendsto_pow_of_hasDerivAt
 -- name    : GlobalTheory.CompanionTheory.SmTangent.tendsto_pow_of_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:15:21.404544+00:00
 -- url     : https://prove2.me/theorems/93efeb5e-68e4-4d88-9e93-f1e1dee3da6f

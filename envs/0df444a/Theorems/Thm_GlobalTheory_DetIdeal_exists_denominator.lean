@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetIdeal_exists_denominator
 -- name    : GlobalTheory.DetIdeal.exists_denominator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:49:23.59262+00:00
 -- url     : https://prove2.me/theorems/5ff6ff41-c8ca-425e-ab7c-4cd550abc575

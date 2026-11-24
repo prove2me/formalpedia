@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_blkGL_mem_stabGL
 -- name    : GlobalTheory.Doubling.blkGL_mem_stabGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:52:11.418213+00:00
 -- url     : https://prove2.me/theorems/a228ed5a-a187-4cf9-93bb-669d99271626

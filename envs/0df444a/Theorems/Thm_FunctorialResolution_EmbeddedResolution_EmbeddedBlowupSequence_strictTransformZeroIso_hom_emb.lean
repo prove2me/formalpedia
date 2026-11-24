@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EmbeddedBlowupSequence_strictTransformZeroIso_hom_emb
 -- name    : FunctorialResolution.EmbeddedResolution.EmbeddedBlowupSequence.strictTransformZeroIso_hom_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:29:42.049565+00:00
 -- url     : https://prove2.me/theorems/10b351b5-e6f0-40c2-9db1-032d7ef38cf6

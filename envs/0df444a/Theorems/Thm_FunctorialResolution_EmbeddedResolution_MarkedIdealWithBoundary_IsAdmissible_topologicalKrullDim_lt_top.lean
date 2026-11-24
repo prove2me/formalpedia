@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_MarkedIdealWithBoundary_IsAdmissible_topologicalKrullDim_lt_top
 -- name    : FunctorialResolution.EmbeddedResolution.MarkedIdealWithBoundary.IsAdmissible.topologicalKrullDim_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:04:37.189034+00:00
 -- url     : https://prove2.me/theorems/cbaaa4ac-924b-4c4e-bd39-bb644aa4470f

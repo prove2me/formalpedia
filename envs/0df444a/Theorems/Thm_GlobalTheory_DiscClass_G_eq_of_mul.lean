@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscClass_G_eq_of_mul
 -- name    : GlobalTheory.DiscClass.G_eq_of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:04:54.825014+00:00
 -- url     : https://prove2.me/theorems/3327f55f-e843-45c1-a7f0-00d07e396210

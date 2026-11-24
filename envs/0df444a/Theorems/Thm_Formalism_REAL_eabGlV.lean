@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_eabGlV
 -- name    : Formalism.REAL.eabGlV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:14:55.701164+00:00
 -- url     : https://prove2.me/theorems/8e99029c-96b1-4bcb-b5d4-ca5bc8f3e45d

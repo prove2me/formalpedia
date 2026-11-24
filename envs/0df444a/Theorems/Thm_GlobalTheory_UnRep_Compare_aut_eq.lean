@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_Compare_aut_eq
 -- name    : GlobalTheory.UnRep.Compare.aut_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:18:53.159957+00:00
 -- url     : https://prove2.me/theorems/71da9cce-04a4-4f31-b859-91f926c1ddc2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_exists_conj_eq_add_of_isCoprime
 -- name    : GlobalTheory.CuspGL.exists_conj_eq_add_of_isCoprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:30:55.321547+00:00
 -- url     : https://prove2.me/theorems/a2bb68cb-cb8e-4042-83fc-d8b0948e895d

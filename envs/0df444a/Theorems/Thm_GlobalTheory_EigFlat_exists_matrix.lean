@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigFlat_exists_matrix
 -- name    : GlobalTheory.EigFlat.exists_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:53:06.284802+00:00
 -- url     : https://prove2.me/theorems/c36e7d84-118c-41f9-a4d4-b36662bb4aa2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BetaSesquilinearity_crv_zero
 -- name    : Formalism.FourierDecayAlt.P.BetaSesquilinearity.crv_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:25:19.245253+00:00
 -- url     : https://prove2.me/theorems/5125f8d7-8605-4df7-b296-7b9561b4acb2

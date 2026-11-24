@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetIdeal_det_mem_pow
 -- name    : GlobalTheory.DetIdeal.det_mem_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:49:21.412174+00:00
 -- url     : https://prove2.me/theorems/9dbbfb5d-797e-4454-aeca-01cefbc9ff3e

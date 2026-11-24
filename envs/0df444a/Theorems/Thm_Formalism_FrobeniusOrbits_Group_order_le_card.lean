@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Group_order_le_card
 -- name    : Formalism.FrobeniusOrbits.Group.order_le_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:52:33.580789+00:00
 -- url     : https://prove2.me/theorems/bcceea0e-9c01-4f5a-9941-273d833d5e7c

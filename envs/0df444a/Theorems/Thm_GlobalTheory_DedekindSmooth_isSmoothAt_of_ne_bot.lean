@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DedekindSmooth_isSmoothAt_of_ne_bot
 -- name    : GlobalTheory.DedekindSmooth.isSmoothAt_of_ne_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:35:15.775969+00:00
 -- url     : https://prove2.me/theorems/fd4178a1-391d-42c0-bf52-b4d6fe4b35d7

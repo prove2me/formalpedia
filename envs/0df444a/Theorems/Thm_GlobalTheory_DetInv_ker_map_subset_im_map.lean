@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetInv_ker_map_subset_im_map
 -- name    : GlobalTheory.DetInv.ker_map_subset_im_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:50:09.320605+00:00
 -- url     : https://prove2.me/theorems/72eb84b9-112e-48b6-a15f-88af467d3211

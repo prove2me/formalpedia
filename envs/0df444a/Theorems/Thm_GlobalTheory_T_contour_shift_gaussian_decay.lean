@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_contour_shift_gaussian_decay
 -- name    : GlobalTheory.T.contour_shift_gaussian_decay
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:35:44.258707+00:00
 -- url     : https://prove2.me/theorems/c7f279a4-f25b-4cc6-b838-992949128efe

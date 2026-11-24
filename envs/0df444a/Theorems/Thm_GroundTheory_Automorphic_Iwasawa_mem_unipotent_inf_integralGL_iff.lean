@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Iwasawa_mem_unipotent_inf_integralGL_iff
 -- name    : GroundTheory.Automorphic.Iwasawa.mem_unipotent_inf_integralGL_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:16:10.050044+00:00
 -- url     : https://prove2.me/theorems/2e8d0974-cfa8-4a58-af5c-3698aef16663

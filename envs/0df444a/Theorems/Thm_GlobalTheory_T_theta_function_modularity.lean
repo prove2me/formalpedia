@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_theta_function_modularity
 -- name    : GlobalTheory.T.theta_function_modularity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:42:54.438548+00:00
 -- url     : https://prove2.me/theorems/24c09a19-d89c-48f1-8331-273720eb89a0

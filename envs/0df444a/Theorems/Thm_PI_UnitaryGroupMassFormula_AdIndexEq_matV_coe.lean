@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_matV_coe
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.matV_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:12:50.516255+00:00
 -- url     : https://prove2.me/theorems/cb9c7378-f868-484c-a8c5-940a823da2a0

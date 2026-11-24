@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Conv_exists_factor_halfRing_over
 -- name    : GlobalTheory.Conv.exists_factor_halfRing_over
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:27:36.85408+00:00
 -- url     : https://prove2.me/theorems/9ad8b3c2-21cc-42c9-8f38-2fbb0496a9b8

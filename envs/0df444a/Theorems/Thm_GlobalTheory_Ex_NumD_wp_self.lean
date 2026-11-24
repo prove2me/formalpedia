@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_NumD_wp_self
 -- name    : GlobalTheory.Ex.NumD.wp_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:05:40.906528+00:00
 -- url     : https://prove2.me/theorems/ac7686f2-ef06-4b13-9e4c-ec4dee133197

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_Final_DosetIndMem
 -- name    : Formalism.UG.Final.DosetIndMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:14:01.914949+00:00
 -- url     : https://prove2.me/theorems/66e761d6-0bcb-440c-bd94-1b207862bb95

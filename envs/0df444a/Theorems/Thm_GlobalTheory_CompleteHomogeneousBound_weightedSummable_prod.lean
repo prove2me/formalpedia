@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompleteHomogeneousBound_weightedSummable_prod
 -- name    : GlobalTheory.CompleteHomogeneousBound.weightedSummable_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:58:39.550339+00:00
 -- url     : https://prove2.me/theorems/fb53af57-5156-41c1-9c0b-74c7bfe28dca

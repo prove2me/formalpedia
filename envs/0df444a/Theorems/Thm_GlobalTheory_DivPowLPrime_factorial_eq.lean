@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DivPowLPrime_factorial_eq
 -- name    : GlobalTheory.DivPowLPrime.factorial_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:50:22.916257+00:00
 -- url     : https://prove2.me/theorems/55d26617-c971-44bd-a5b3-3718750e7143

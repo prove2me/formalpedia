@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_frobeniusTorus_minpoly_degree_rootPowerSum
 -- name    : GlobalTheory.T.frobeniusTorus_minpoly_degree_rootPowerSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:54:43.101797+00:00
 -- url     : https://prove2.me/theorems/50a37970-ab18-47ac-8f13-048b4cdbbdb6

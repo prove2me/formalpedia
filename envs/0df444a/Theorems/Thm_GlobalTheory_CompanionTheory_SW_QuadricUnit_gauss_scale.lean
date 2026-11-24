@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_QuadricUnit_gauss_scale
 -- name    : GlobalTheory.CompanionTheory.SW.QuadricUnit.gauss_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:07:53.032795+00:00
 -- url     : https://prove2.me/theorems/cdd22db6-a787-4ebc-a0a8-7c3d16ee1881

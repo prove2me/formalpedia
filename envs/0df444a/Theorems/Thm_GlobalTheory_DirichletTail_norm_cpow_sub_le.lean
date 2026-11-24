@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DirichletTail_norm_cpow_sub_le
 -- name    : GlobalTheory.DirichletTail.norm_cpow_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:48:42.793421+00:00
 -- url     : https://prove2.me/theorems/189b3afb-17f1-43b4-9047-0e36a164d965

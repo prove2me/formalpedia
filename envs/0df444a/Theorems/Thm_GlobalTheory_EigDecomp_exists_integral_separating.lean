@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigDecomp_exists_integral_separating
 -- name    : GlobalTheory.EigDecomp.exists_integral_separating
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:53:19.672716+00:00
 -- url     : https://prove2.me/theorems/b3039854-265d-49f1-b864-6d2976409b40

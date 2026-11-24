@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_PrincipalizationRules_inputLevelData_zero
 -- name    : FunctorialResolution.EmbeddedResolution.PrincipalizationRules.inputLevelData_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:26:10.830428+00:00
 -- url     : https://prove2.me/theorems/16ac1998-b0b9-4a05-9355-f52a7c1dfb0a

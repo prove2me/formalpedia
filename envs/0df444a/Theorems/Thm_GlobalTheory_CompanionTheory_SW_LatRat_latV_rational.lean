@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LatRat_latV_rational
 -- name    : GlobalTheory.CompanionTheory.SW.LatRat.latV_rational
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:51:12.145794+00:00
 -- url     : https://prove2.me/theorems/6b363871-8ccd-4afe-8640-cc96f18ccfab

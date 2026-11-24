@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConormalDer_formallySmooth_residueField
 -- name    : GlobalTheory.ConormalDer.formallySmooth_residueField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:25:42.601701+00:00
 -- url     : https://prove2.me/theorems/6c52b00c-d42c-4720-b6a3-0caef9c3831e

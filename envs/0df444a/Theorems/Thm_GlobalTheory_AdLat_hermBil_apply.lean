@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_hermBil_apply
 -- name    : GlobalTheory.AdLat.hermBil_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:21:40.151034+00:00
 -- url     : https://prove2.me/theorems/36a1b370-1e97-4e4e-b10f-9f88926dffb8

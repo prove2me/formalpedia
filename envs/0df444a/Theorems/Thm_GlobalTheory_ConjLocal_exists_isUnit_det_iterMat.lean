@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConjLocal_exists_isUnit_det_iterMat
 -- name    : GlobalTheory.ConjLocal.exists_isUnit_det_iterMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:25:36.549007+00:00
 -- url     : https://prove2.me/theorems/444c828d-df87-434a-be03-85286fa98e52

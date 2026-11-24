@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_Final_StabStd
 -- name    : Formalism.UG.Final.StabStd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:14:19.422543+00:00
 -- url     : https://prove2.me/theorems/a943b3dc-5192-4f28-ad21-26f75843b93b

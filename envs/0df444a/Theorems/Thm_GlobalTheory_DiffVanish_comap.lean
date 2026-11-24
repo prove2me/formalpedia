@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiffVanish_comap
 -- name    : GlobalTheory.DiffVanish.comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:49:07.560575+00:00
 -- url     : https://prove2.me/theorems/c35d0941-d1a5-4adc-8457-6fa0efd96d3f

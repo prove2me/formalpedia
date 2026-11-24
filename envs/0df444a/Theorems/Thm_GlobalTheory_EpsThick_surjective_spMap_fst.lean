@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EpsThick_surjective_spMap_fst
 -- name    : GlobalTheory.EpsThick.surjective_spMap_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:58:23.569898+00:00
 -- url     : https://prove2.me/theorems/9650b859-17aa-4d41-bb8c-1a1aa11c6300

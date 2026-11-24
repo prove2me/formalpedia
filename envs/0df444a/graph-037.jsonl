@@ -72847,11 +72847,11 @@
 {"parent": "Formalism.DivisionValues.idxChange_unif", "child": "Formalism_QuotientMetricDivisors_ProdFormula", "via": ["solution", "statement"]}
 {"parent": "Formalism.InvariantFactorPaths.BranchingDimensions.latestV_succ", "child": "Formalism_ThetaLogCoordinates_ResidueClassEstimates_StatementT", "via": ["solution", "statement"]}
 {"parent": "Formalism.InvariantFactorPaths.BranchingDimensions.latestV_succ", "child": "Formalism_ThetaLogCoordinates_ResidueClassEstimates_VandermondeRankEstimates_N0LeNs", "via": ["solution", "statement"]}
-{"parent": "Formalism.L2.GlobalTheoryTheory.Comp.glob_one", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsSpan", "via": ["statement"]}
-{"parent": "Formalism.L2.GlobalTheoryTheory.Comp.glob_one", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsGlob", "via": ["statement"]}
-{"parent": "Formalism.L2.GlobalTheoryTheory.Comp.glob_one", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsDual", "via": ["statement"]}
-{"parent": "Formalism.L2.GlobalTheoryTheory.Comp.glob_one", "child": "Formalism_LocalToGlobal_GlobalTheory_EqGlobOfHat", "via": ["statement"]}
-{"parent": "Formalism.L2.GlobalTheoryTheory.Comp.glob_one", "child": "Formalism_LocalRingCardinality_DataLevel", "via": ["statement"]}
+{"parent": "Formalism.L2.GlobalTheoryTheory.Comp.glob_one", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsSpan", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.GlobalTheoryTheory.Comp.glob_one", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsGlob", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.GlobalTheoryTheory.Comp.glob_one", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsDual", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.GlobalTheoryTheory.Comp.glob_one", "child": "Formalism_LocalToGlobal_GlobalTheory_EqGlobOfHat", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.GlobalTheoryTheory.Comp.glob_one", "child": "Formalism_LocalRingCardinality_DataLevel", "via": ["solution", "statement"]}
 {"parent": "Csg_QualitativeSure", "child": "Csg_BuchiOp", "via": ["statement"]}
 {"parent": "RH1E6S13_D037_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "Formalism.IncomingBounds.FlowLoadBounds.maxFlow_eq", "child": "Formalism_IncomingBounds_FlowDegreeBounds_MaxFlowValueAttained", "via": ["solution", "statement"]}

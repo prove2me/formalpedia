@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_one_le_detW_of_isHermitian
 -- name    : GlobalTheory.T.one_le_detW_of_isHermitian
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:38:54.205964+00:00
 -- url     : https://prove2.me/theorems/5e5b146c-39f8-4528-a797-baf6511ddc1f

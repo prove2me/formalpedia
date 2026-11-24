@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscUniformisation_swap_G
 -- name    : GlobalTheory.DiscUniformisation.swap_G
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:48:46.325781+00:00
 -- url     : https://prove2.me/theorems/84de117e-c9b1-4136-9a86-2863c3830e93

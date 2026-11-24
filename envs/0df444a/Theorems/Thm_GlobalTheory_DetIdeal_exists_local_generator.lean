@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetIdeal_exists_local_generator
 -- name    : GlobalTheory.DetIdeal.exists_local_generator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:49:30.354664+00:00
 -- url     : https://prove2.me/theorems/0e8a7622-81b1-4a53-881c-87622352fe4b

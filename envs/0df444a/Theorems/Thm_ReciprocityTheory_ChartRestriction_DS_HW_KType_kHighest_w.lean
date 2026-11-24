@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_KType_kHighest_w
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.KType.kHighest_w
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:10:46.591681+00:00
 -- url     : https://prove2.me/theorems/90025947-525a-40d1-b091-0af5d33e7936

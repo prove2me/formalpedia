@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_sum_integralScaledBoxPi_coset_reps_shift_invariant
 -- name    : GlobalTheory.T.sum_integralScaledBoxPi_coset_reps_shift_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:05:15.352647+00:00
 -- url     : https://prove2.me/theorems/8e560e6e-2002-406a-8863-f5f631ff9870

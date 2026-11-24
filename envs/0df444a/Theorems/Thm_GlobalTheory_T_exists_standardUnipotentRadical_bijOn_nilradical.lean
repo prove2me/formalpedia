@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_standardUnipotentRadical_bijOn_nilradical
 -- name    : GlobalTheory.T.exists_standardUnipotentRadical_bijOn_nilradical
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:28:54.392831+00:00
 -- url     : https://prove2.me/theorems/a06e978a-eee8-4aaa-a670-1de9b5fa42cc

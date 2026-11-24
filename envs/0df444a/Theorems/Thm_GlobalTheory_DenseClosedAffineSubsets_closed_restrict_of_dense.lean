@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DenseClosedAffineSubsets_closed_restrict_of_dense
 -- name    : GlobalTheory.DenseClosedAffineSubsets.closed_restrict_of_dense
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:29:39.275812+00:00
 -- url     : https://prove2.me/theorems/03e348b4-0e6d-418f-a938-6bf7836ac1b8

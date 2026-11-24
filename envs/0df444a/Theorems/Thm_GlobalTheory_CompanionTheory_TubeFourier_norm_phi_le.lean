@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TubeFourier_norm_phi_le
 -- name    : GlobalTheory.CompanionTheory.TubeFourier.norm_phi_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:16:03.377875+00:00
 -- url     : https://prove2.me/theorems/3c92dc34-0a0f-4082-982d-595fdf64fa65

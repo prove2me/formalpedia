@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_Final_KpqSubgroupCompact
 -- name    : Formalism.UG.Final.KpqSubgroupCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:14:32.203828+00:00
 -- url     : https://prove2.me/theorems/7ffe1c58-f0c9-4739-853d-97ae00944e61

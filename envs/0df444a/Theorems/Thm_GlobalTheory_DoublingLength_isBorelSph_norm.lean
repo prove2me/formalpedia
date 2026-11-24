@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DoublingLength_isBorelSph_norm
 -- name    : GlobalTheory.DoublingLength.isBorelSph_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:53:22.655968+00:00
 -- url     : https://prove2.me/theorems/0ac33649-0702-414b-b8a5-6e1c6072a827

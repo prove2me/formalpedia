@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EisConstTerm_mem_latM_of_le_one
 -- name    : GlobalTheory.EisConstTerm.mem_latM_of_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:57:52.459167+00:00
 -- url     : https://prove2.me/theorems/c7b9e8eb-43eb-4422-8be0-9c1093fb7815

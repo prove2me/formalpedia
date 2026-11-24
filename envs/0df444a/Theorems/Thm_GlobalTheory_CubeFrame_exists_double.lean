@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeFrame_exists_double
 -- name    : GlobalTheory.CubeFrame.exists_double
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:28:28.941831+00:00
 -- url     : https://prove2.me/theorems/ff1123e2-cb50-4c99-a132-7c8ec731fed3

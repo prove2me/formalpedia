@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EtaCard_span_sup_pow
 -- name    : GlobalTheory.EtaCard.span_sup_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:59:55.255802+00:00
 -- url     : https://prove2.me/theorems/e1a3aa49-2153-4065-be89-19e0215a9101

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_orderAt_le_orderAt_comap
 -- name    : FunctorialResolution.EmbeddedResolution.orderAt_le_orderAt_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:53:24.520659+00:00
 -- url     : https://prove2.me/theorems/f15fe413-47c9-47de-b45a-81f09a313d9e

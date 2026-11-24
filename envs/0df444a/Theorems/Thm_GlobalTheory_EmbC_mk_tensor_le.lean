@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EmbC_mk_tensor_le
 -- name    : GlobalTheory.EmbC.mk_tensor_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:58:17.070804+00:00
 -- url     : https://prove2.me/theorems/9ec4f873-fa52-43c1-85e7-65b42d80dbda

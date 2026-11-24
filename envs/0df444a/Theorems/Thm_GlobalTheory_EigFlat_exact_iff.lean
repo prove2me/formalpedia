@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigFlat_exact_iff
 -- name    : GlobalTheory.EigFlat.exact_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:53:15.428649+00:00
 -- url     : https://prove2.me/theorems/66f82ab3-d20b-40ab-b192-9f2d50397f2e

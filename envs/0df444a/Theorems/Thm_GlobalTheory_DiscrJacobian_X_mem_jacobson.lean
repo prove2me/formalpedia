@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscrJacobian_X_mem_jacobson
 -- name    : GlobalTheory.DiscrJacobian.X_mem_jacobson
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:48:58.563779+00:00
 -- url     : https://prove2.me/theorems/df5c2544-7336-424e-b18e-0e92777fd87b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CosetAvg_avg_of_invariant
 -- name    : GlobalTheory.CosetAvg.avg_of_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:27:02.611449+00:00
 -- url     : https://prove2.me/theorems/51876945-eb75-4dc1-b9e4-12b339762725

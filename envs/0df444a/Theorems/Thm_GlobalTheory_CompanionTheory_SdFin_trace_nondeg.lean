@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SdFin_trace_nondeg
 -- name    : GlobalTheory.CompanionTheory.SdFin.trace_nondeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:59:14.605264+00:00
 -- url     : https://prove2.me/theorems/d7d358bd-4b22-4607-ae6a-c7cc8a0fbc87

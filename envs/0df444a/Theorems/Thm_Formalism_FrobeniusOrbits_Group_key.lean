@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Group_key
 -- name    : Formalism.FrobeniusOrbits.Group.key
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:52:46.221799+00:00
 -- url     : https://prove2.me/theorems/474703dc-8c5b-4ab6-b35e-f1cbae2a533f

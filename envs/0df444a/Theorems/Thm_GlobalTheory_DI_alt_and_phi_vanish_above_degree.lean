@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_alt_and_phi_vanish_above_degree
 -- name    : GlobalTheory.DI.alt_and_phi_vanish_above_degree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:34:10.894425+00:00
 -- url     : https://prove2.me/theorems/6c536259-3efd-4364-a187-35c64bd573cb

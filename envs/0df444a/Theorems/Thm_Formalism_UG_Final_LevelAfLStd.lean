@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_Final_LevelAfLStd
 -- name    : Formalism.UG.Final.LevelAfLStd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:14:35.702274+00:00
 -- url     : https://prove2.me/theorems/2c076d35-1381-4d02-86d4-70c9316eacc5

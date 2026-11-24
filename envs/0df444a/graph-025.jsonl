@@ -29256,12 +29256,12 @@
 {"parent": "OAI.CubicEisenstein.complexWeyl_preserves_hyperbolicVolume", "child": "OAI_NumberTheory_DirichletL_Eisenstein_HyperbolicVolume", "via": ["solution", "statement"]}
 {"parent": "OAI.CubicEisenstein.complexWeyl_preserves_hyperbolicVolume", "child": "OAI_NumberTheory_DirichletL_CubicSieve_ArithmeticBins", "via": ["solution", "statement"]}
 {"parent": "TriFormQ_XH", "child": "TriFormQ_weight", "via": ["statement"]}
-{"parent": "KSPolySign.theorem_6_8", "child": "VecBalPoly_Admissible", "via": ["statement"]}
-{"parent": "KSPolySign.theorem_6_8", "child": "AgnosticTNS_opNorm", "via": ["statement"]}
-{"parent": "KSPolySign.theorem_6_8", "child": "KSPolySign_IsRatC", "via": ["statement"]}
-{"parent": "KSPolySign.theorem_6_8", "child": "VecBalPoly_realOps", "via": ["statement"]}
-{"parent": "KSPolySign.theorem_6_8", "child": "MatMulTimeLP_RealRAM", "via": ["statement"]}
-{"parent": "KSPolySign.theorem_6_8", "child": "KSPolySign_layout", "via": ["statement"]}
+{"parent": "KSPolySign.theorem_6_8", "child": "VecBalPoly_Admissible", "via": ["solution", "statement"]}
+{"parent": "KSPolySign.theorem_6_8", "child": "AgnosticTNS_opNorm", "via": ["solution", "statement"]}
+{"parent": "KSPolySign.theorem_6_8", "child": "KSPolySign_IsRatC", "via": ["solution", "statement"]}
+{"parent": "KSPolySign.theorem_6_8", "child": "VecBalPoly_realOps", "via": ["solution", "statement"]}
+{"parent": "KSPolySign.theorem_6_8", "child": "MatMulTimeLP_RealRAM", "via": ["solution", "statement"]}
+{"parent": "KSPolySign.theorem_6_8", "child": "KSPolySign_layout", "via": ["solution", "statement"]}
 {"parent": "EfronBroadcast.Main.retrieval_resolution", "child": "EfronBroadcast_Main_Ladder", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm15_1_0_3.s5_eq_g", "child": "OAIQ098G846", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm15_1_0_3.s5_eq_g", "child": "OAIQ098G855", "via": ["solution", "statement"]}
@@ -31727,8 +31727,8 @@
 {"parent": "HDXHitting.eq_4", "child": "HDXHitting_hit", "via": ["solution", "statement"]}
 {"parent": "HDXHitting.eq_4", "child": "HDXConc_SecondEigLE", "via": ["statement"]}
 {"parent": "HDXHitting.eq_4", "child": "HDXHitting_IsTopDist", "via": ["solution", "statement"]}
-{"parent": "QueryDepthMIS.lemma_3_10", "child": "PunctSketch_coinProb", "via": ["statement"]}
-{"parent": "QueryDepthMIS.lemma_3_10", "child": "QueryDepthMIS_rank", "via": ["statement"]}
+{"parent": "QueryDepthMIS.lemma_3_10", "child": "PunctSketch_coinProb", "via": ["solution", "statement"]}
+{"parent": "QueryDepthMIS.lemma_3_10", "child": "QueryDepthMIS_rank", "via": ["solution", "statement"]}
 {"parent": "QueryDepthMIS.lemma_3_10", "child": "QueryDepthMIS_IsQueryPath", "via": ["statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm24_0_1_8.s5_eq_g", "child": "OAIQ098G1049", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hm24_0_1_8.s5_eq_g", "child": "OAIQ098G1026", "via": ["solution", "statement"]}

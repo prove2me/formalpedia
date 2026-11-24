@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DoublingLength_ord_det_of_mem_KO
 -- name    : GlobalTheory.DoublingLength.ord_det_of_mem_KO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:53:10.155362+00:00
 -- url     : https://prove2.me/theorems/3721c0fa-f03c-4e7d-a600-e59a642aeec1

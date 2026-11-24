@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_DIdx_absNorm_eq_index
 -- name    : PI.UnitaryGroupMassFormula.LCG.DIdx.absNorm_eq_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:27:52.308954+00:00
 -- url     : https://prove2.me/theorems/1a6cc644-d3ae-4f77-86b4-543e3bf4b7b3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigDecomp_X_sub_C_mul_basis
 -- name    : GlobalTheory.EigDecomp.X_sub_C_mul_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:53:14.585526+00:00
 -- url     : https://prove2.me/theorems/d0e2f82e-956b-4a5d-ae7e-b258d8a30ba3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_extD_algebraMap_pow_char_mul
 -- name    : GlobalTheory.DI.extD_algebraMap_pow_char_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:35:43.095387+00:00
 -- url     : https://prove2.me/theorems/134a6086-740d-4378-a4ad-42b37982c71f

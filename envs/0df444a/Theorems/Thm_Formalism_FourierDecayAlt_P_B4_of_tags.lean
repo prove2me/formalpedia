@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B4_of_tags
 -- name    : Formalism.FourierDecayAlt.P.B4.of_tags
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:27:19.271164+00:00
 -- url     : https://prove2.me/theorems/11ecbe67-65a7-4a07-99c6-1b99e706483d

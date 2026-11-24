@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_Translate_mulVec_mem_hat
 -- name    : GlobalTheory.AdLat.Translate.mulVec_mem_hat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:02:55.378402+00:00
 -- url     : https://prove2.me/theorems/aa03355d-3334-455e-9b73-c2168063ea4c

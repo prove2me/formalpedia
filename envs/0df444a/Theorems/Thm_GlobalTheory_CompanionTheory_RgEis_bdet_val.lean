@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEis_bdet_val
 -- name    : GlobalTheory.CompanionTheory.RgEis.bdet_val
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:16:43.689511+00:00
 -- url     : https://prove2.me/theorems/8c337f60-f040-4b00-9b2f-3c733f290d5e

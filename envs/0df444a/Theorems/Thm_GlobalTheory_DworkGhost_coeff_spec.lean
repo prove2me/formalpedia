@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DworkGhost_coeff_spec
 -- name    : GlobalTheory.DworkGhost.coeff_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:51:54.211841+00:00
 -- url     : https://prove2.me/theorems/18fea8b2-7655-4a8c-bdb2-3832910e1fcf

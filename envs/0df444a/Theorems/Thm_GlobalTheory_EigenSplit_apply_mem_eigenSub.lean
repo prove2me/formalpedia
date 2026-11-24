@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenSplit_apply_mem_eigenSub
 -- name    : GlobalTheory.EigenSplit.apply_mem_eigenSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:57:13.200417+00:00
 -- url     : https://prove2.me/theorems/411136f8-ebfb-4f36-bbd6-f13de8401a50

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualTransfer_card_range
 -- name    : GlobalTheory.DualTransfer.card_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:51:48.444474+00:00
 -- url     : https://prove2.me/theorems/e2a6f420-c493-4415-ba2d-83590575fd01

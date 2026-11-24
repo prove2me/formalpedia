@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EtaCard_finite_quot
 -- name    : GlobalTheory.EtaCard.finite_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:59:17.943797+00:00
 -- url     : https://prove2.me/theorems/fd258813-22bf-4471-ae66-9f859f5e2921

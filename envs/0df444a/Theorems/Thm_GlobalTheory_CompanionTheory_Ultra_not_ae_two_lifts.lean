@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ultra_not_ae_two_lifts
 -- name    : GlobalTheory.CompanionTheory.Ultra.not_ae_two_lifts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:19:28.181295+00:00
 -- url     : https://prove2.me/theorems/4aa71153-2ebe-4061-9a33-d789939b4ca5

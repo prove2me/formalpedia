@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_partition_N1_eq_q_sub_S_neg1
 -- name    : partition_N1_eq_q_sub_S_neg1
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T14:18:26.064922+00:00
 -- url     : https://prove2.me/theorems/78dacf46-7061-4a95-916b-8c8480729187

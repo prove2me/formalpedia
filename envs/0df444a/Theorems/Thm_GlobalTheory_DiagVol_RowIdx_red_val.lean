@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiagVol_RowIdx_red_val
 -- name    : GlobalTheory.DiagVol.RowIdx.red_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:49:20.969444+00:00
 -- url     : https://prove2.me/theorems/ca8b09a2-c894-4f6d-88d3-83270843f982

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenSplit_eigenSub_baseChangeAction
 -- name    : GlobalTheory.EigenSplit.eigenSub_baseChangeAction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:57:23.669363+00:00
 -- url     : https://prove2.me/theorems/a0f099eb-f42b-4a51-860b-f4a36f3724f3

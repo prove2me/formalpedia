@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_SmallMat_exists_indicator
 -- name    : GlobalTheory.UnRep.SmallMat.exists_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:22:20.762869+00:00
 -- url     : https://prove2.me/theorems/ad225209-99fd-4166-8d47-55f47c2dcc29

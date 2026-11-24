@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_DIdx_dualL_anti
 -- name    : PI.UnitaryGroupMassFormula.LCG.DIdx.dualL_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:13:13.485453+00:00
 -- url     : https://prove2.me/theorems/4a0e662e-523c-4c9f-85ed-0f6fc54183f9

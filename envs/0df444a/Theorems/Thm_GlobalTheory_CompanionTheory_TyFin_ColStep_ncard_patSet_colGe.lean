@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_ColStep_ncard_patSet_colGe
 -- name    : GlobalTheory.CompanionTheory.TyFin.ColStep.ncard_patSet_colGe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:17:14.621014+00:00
 -- url     : https://prove2.me/theorems/85cecc79-dda3-4a29-aa5d-833968f0df90

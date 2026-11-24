@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_StrictCone_mul_on_cone_eq_delta_char
 -- name    : GlobalTheory.CompanionTheory.StrictCone.mul_on_cone_eq_delta_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:15:03.019538+00:00
 -- url     : https://prove2.me/theorems/68e8e751-be3c-4c88-be2f-9b04700a6a1e

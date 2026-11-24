@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_fixed_field_is_base
 -- name    : Formalism.L2.DIV.fixed_field_is_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:22:46.614496+00:00
 -- url     : https://prove2.me/theorems/f0f77d17-6002-40cc-8528-abcb2728ac9f

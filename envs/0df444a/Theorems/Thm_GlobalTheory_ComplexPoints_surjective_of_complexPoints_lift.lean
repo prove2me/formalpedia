@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ComplexPoints_surjective_of_complexPoints_lift
 -- name    : GlobalTheory.ComplexPoints.surjective_of_complexPoints_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:25:35.348799+00:00
 -- url     : https://prove2.me/theorems/3d6d09a5-3949-4d6c-b8c9-4475c27dea68

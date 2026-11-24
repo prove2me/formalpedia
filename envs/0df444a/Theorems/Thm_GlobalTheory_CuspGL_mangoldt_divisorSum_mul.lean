@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_mangoldt_divisorSum_mul
 -- name    : GlobalTheory.CuspGL.mangoldt_divisorSum_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:32:38.747491+00:00
 -- url     : https://prove2.me/theorems/475ab354-21bd-4ec7-9531-cd6f2f3aedaf

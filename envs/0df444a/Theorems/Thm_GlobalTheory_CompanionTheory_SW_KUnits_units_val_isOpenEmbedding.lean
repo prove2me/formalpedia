@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_KUnits_units_val_isOpenEmbedding
 -- name    : GlobalTheory.CompanionTheory.SW.KUnits.units_val_isOpenEmbedding
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:27:10.645809+00:00
 -- url     : https://prove2.me/theorems/4c04ecb7-d9a3-4283-bcf3-6aab798f0c3f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_cyc_basic
 -- name    : GlobalTheory.Cyc.cyc_basic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:00:13.034396+00:00
 -- url     : https://prove2.me/theorems/d501e4fa-1648-4f2f-aef6-1851f6c7bcae

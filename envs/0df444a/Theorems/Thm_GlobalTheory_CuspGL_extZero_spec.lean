@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_extZero_spec
 -- name    : GlobalTheory.CuspGL.extZero_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:25:42.378657+00:00
 -- url     : https://prove2.me/theorems/7c90c675-a2ec-4ab6-937f-7c8837f76624

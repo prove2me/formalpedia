@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegreeOneUniformiser_irreducible_of_valued
 -- name    : GlobalTheory.DegreeOneUniformiser.irreducible_of_valued
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:42:53.823831+00:00
 -- url     : https://prove2.me/theorems/86026a94-bfc2-4301-be6e-508988344f3d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_PrincipalizationRules_nextLevel_orderReduction
 -- name    : FunctorialResolution.EmbeddedResolution.PrincipalizationRules.nextLevel_orderReduction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:25:50.278806+00:00
 -- url     : https://prove2.me/theorems/d552db16-3f1c-4cb1-861e-3248b770b9bb

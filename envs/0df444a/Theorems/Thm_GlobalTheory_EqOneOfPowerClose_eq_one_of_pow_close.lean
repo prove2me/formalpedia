@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EqOneOfPowerClose_eq_one_of_pow_close
 -- name    : GlobalTheory.EqOneOfPowerClose.eq_one_of_pow_close
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:58:21.449988+00:00
 -- url     : https://prove2.me/theorems/3ec66094-d761-40bf-9dca-ab261c2d380b

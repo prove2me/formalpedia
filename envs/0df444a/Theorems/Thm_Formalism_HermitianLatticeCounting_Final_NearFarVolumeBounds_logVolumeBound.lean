@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_NearFarVolumeBounds_logVolumeBound
 -- name    : Formalism.HermitianLatticeCounting.Final.NearFarVolumeBounds.logVolumeBound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:22:51.034852+00:00
 -- url     : https://prove2.me/theorems/2b7e2cee-45ea-4b96-ab6d-661e720aa8d9

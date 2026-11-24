@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exponent_regular_of_natDegree_minpoly_generator_pow
 -- name    : GlobalTheory.T.exponent_regular_of_natDegree_minpoly_generator_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:54:41.481241+00:00
 -- url     : https://prove2.me/theorems/68fbd93e-4cfe-4a85-a553-46cce31fc77a

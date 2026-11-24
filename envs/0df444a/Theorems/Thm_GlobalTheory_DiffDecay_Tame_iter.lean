@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiffDecay_Tame_iter
 -- name    : GlobalTheory.DiffDecay.Tame.iter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:49:34.22687+00:00
 -- url     : https://prove2.me/theorems/617d9f3a-1f03-4174-ae5d-62c9f32cca26

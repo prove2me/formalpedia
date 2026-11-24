@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetIdeal_herm_eq
 -- name    : GlobalTheory.DetIdeal.herm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:50:16.195801+00:00
 -- url     : https://prove2.me/theorems/f3b583d1-c3e6-4ff8-a230-e70e624bb7ba

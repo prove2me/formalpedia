@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EuclidTransport_l2Transport_apply
 -- name    : GlobalTheory.EuclidTransport.l2Transport_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:59:18.891198+00:00
 -- url     : https://prove2.me/theorems/2e474eda-7543-4704-bb2b-a9538c6bddf9

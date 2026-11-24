@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Div_LipschitzCone_sign_cone_iff
 -- name    : GlobalTheory.Div.LipschitzCone.sign_cone_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:51:04.539981+00:00
 -- url     : https://prove2.me/theorems/1eb96bae-75d3-416a-a9ac-2845ac817d03

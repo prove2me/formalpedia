@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_filtration_type_intersection_of
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.filtration_type_intersection_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:33:35.197847+00:00
 -- url     : https://prove2.me/theorems/c3c79545-a4fe-4063-9d50-eaff4f8843a0

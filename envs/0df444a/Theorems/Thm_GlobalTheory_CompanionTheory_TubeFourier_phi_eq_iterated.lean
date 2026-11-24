@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TubeFourier_phi_eq_iterated
 -- name    : GlobalTheory.CompanionTheory.TubeFourier.phi_eq_iterated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:16:41.478873+00:00
 -- url     : https://prove2.me/theorems/26da60c2-16b8-4ae5-a2c5-5fa2050594ee

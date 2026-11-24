@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DerivativeOfAdditiveContinuous_hasDerivAt_of_continuous_of_map_add
 -- name    : GlobalTheory.DerivativeOfAdditiveContinuous.hasDerivAt_of_continuous_of_map_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:43:34.337805+00:00
 -- url     : https://prove2.me/theorems/c5451c60-0d4f-4a5a-9881-c011738f55b6

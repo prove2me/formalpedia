@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_indep_of_invariant_isField
 -- name    : GlobalTheory.DRFil.indep_of_invariant_isField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:36:09.817583+00:00
 -- url     : https://prove2.me/theorems/5e82dd6b-9f29-4df3-8425-d6aade8a7117

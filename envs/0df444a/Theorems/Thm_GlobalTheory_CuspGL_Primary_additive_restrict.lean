@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_Primary_additive_restrict
 -- name    : GlobalTheory.CuspGL.Primary.additive_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:31:51.761651+00:00
 -- url     : https://prove2.me/theorems/867d85a7-21db-4637-a5ec-cbf39d236d4c

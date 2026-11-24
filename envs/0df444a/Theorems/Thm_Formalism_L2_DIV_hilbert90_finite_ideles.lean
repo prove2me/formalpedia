@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_hilbert90_finite_ideles
 -- name    : Formalism.L2.DIV.hilbert90_finite_ideles
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:23:01.404796+00:00
 -- url     : https://prove2.me/theorems/2b111fb9-f29d-4ff1-ab85-2c8658e7c77c

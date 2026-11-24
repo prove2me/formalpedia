@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fibre_family_locallyFinite_measurable_bdd_on_compact
 -- name    : GlobalTheory.T.fibre_family_locallyFinite_measurable_bdd_on_compact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:48:18.566537+00:00
 -- url     : https://prove2.me/theorems/05269693-4ac2-469f-b912-e65f773b58a8

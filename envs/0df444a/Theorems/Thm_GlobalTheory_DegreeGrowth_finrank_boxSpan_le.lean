@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegreeGrowth_finrank_boxSpan_le
 -- name    : GlobalTheory.DegreeGrowth.finrank_boxSpan_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:44:15.222036+00:00
 -- url     : https://prove2.me/theorems/b73c2694-2981-41cb-8603-3bff75235451

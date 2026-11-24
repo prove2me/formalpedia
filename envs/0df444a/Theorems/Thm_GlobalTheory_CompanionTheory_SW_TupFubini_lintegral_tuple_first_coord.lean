@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_TupFubini_lintegral_tuple_first_coord
 -- name    : GlobalTheory.CompanionTheory.SW.TupFubini.lintegral_tuple_first_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:11:57.392527+00:00
 -- url     : https://prove2.me/theorems/e9b10d86-0e99-449b-ad34-71ea938ae7ce

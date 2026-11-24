@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cuspidal_isomorphism_properties
 -- name    : GlobalTheory.T.cuspidal_isomorphism_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:37:09.31849+00:00
 -- url     : https://prove2.me/theorems/7833aa33-7790-4cbe-b159-0dd55b48dce9

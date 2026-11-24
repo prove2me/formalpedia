@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StableLatCount_adE_apply
 -- name    : GlobalTheory.StableLatCount.adE_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:28:11.419489+00:00
 -- url     : https://prove2.me/theorems/8ef6e197-29b0-4db7-a1a1-8018bbd45057

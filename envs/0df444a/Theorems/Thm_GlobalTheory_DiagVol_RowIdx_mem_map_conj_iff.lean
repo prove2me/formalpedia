@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiagVol_RowIdx_mem_map_conj_iff
 -- name    : GlobalTheory.DiagVol.RowIdx.mem_map_conj_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:49:37.787563+00:00
 -- url     : https://prove2.me/theorems/f539dfed-41c6-4a44-b684-b2783f065aac

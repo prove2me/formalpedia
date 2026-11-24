@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_NumD_twG_inj
 -- name    : GlobalTheory.Ex.NumD.twG_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:06:16.331902+00:00
 -- url     : https://prove2.me/theorems/98e50b97-55e1-4697-b3c5-b8a7949b8e8a

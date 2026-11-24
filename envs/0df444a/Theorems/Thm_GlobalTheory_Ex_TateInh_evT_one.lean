@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_TateInh_evT_one
 -- name    : GlobalTheory.Ex.TateInh.evT_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:06:38.177012+00:00
 -- url     : https://prove2.me/theorems/71fa2c58-69b5-4120-9d6c-91f97d510ab3

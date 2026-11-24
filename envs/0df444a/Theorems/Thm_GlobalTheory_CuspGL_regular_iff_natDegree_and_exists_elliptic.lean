@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_regular_iff_natDegree_and_exists_elliptic
 -- name    : GlobalTheory.CuspGL.regular_iff_natDegree_and_exists_elliptic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:32:57.202763+00:00
 -- url     : https://prove2.me/theorems/5aba4750-1f5b-4428-bd45-71e69af67efc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DivisibleUnits_exists_extension
 -- name    : GlobalTheory.DivisibleUnits.exists_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:50:30.077746+00:00
 -- url     : https://prove2.me/theorems/fcfa1e4d-f4de-4636-b69f-75024a0af025

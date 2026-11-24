@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConvexCutOff_uniqueDiffWithinAt_compl
 -- name    : GlobalTheory.ConvexCutOff.uniqueDiffWithinAt_compl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:26:37.813801+00:00
 -- url     : https://prove2.me/theorems/cc2c2597-2b73-42ab-9fb9-93534c4b1465

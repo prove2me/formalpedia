@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompleteDiscreteValuationRing_exists_dvr_of_dim_one
 -- name    : GlobalTheory.CompleteDiscreteValuationRing.exists_dvr_of_dim_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:24:29.686891+00:00
 -- url     : https://prove2.me/theorems/6dce5d77-f03b-4aa3-90c2-fcb179dbbd6d

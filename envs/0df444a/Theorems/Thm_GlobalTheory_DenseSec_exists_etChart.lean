@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DenseSec_exists_etChart
 -- name    : GlobalTheory.DenseSec.exists_etChart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:43:44.126898+00:00
 -- url     : https://prove2.me/theorems/bcac87cc-8fda-4377-a176-e1403f969d65

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_continuous_leviOf
 -- name    : GlobalTheory.Doubling.continuous_leviOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:52:27.020075+00:00
 -- url     : https://prove2.me/theorems/17034c65-cdda-4cbd-a5ce-39a61b66e7f5

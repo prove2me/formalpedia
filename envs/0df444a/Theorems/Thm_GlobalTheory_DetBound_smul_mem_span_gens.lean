@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetBound_smul_mem_span_gens
 -- name    : GlobalTheory.DetBound.smul_mem_span_gens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:43:56.253634+00:00
 -- url     : https://prove2.me/theorems/05d84f85-5540-4974-817c-c9238042b8c1

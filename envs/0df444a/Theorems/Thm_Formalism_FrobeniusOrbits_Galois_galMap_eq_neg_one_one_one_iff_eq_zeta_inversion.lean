@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Galois_galMap_eq_neg_one_one_one_iff_eq_zeta_inversion
 -- name    : Formalism.FrobeniusOrbits.Galois.galMap_eq_neg_one_one_one_iff_eq_zeta_inversion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:52:58.117363+00:00
 -- url     : https://prove2.me/theorems/9612fb1a-7d60-4f6e-ad62-efc6f1d3aeb7

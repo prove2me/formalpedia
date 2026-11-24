@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_FinalFormK_inner_ds
 -- name    : CompanionTheory.D.gk.FinalFormK.inner_ds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:58:15.686917+00:00
 -- url     : https://prove2.me/theorems/f01572c5-324e-4f48-b96c-bfe7b5488a96

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_frobDeriv_factors_kaehler
 -- name    : GlobalTheory.DI.frobDeriv_factors_kaehler
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:35:38.532626+00:00
 -- url     : https://prove2.me/theorems/82fb40b7-586a-4d69-bcef-74ea260fc78c

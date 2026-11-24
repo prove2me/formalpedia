@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_period_clauses
 -- name    : GlobalTheory.AnArc.period_clauses
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:40:08.164083+00:00
 -- url     : https://prove2.me/theorems/c90db447-befe-487a-9243-ef5a90e14eaf

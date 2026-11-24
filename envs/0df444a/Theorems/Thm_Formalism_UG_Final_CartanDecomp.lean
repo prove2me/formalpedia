@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_Final_CartanDecomp
 -- name    : Formalism.UG.Final.CartanDecomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:15:02.259332+00:00
 -- url     : https://prove2.me/theorems/aa7003fa-df12-4ca9-a91d-0dc34b74df15

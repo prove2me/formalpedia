@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DisjointCoverLB_units_eq_of_gm
 -- name    : GlobalTheory.DisjointCoverLB.units_eq_of_gm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:51:03.066817+00:00
 -- url     : https://prove2.me/theorems/06e25197-84cb-4cda-a23b-94e6d4c7c345

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_annihilator_of_annihilator_le
 -- name    : GlobalTheory.T.annihilator_of_annihilator_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:47:59.423975+00:00
 -- url     : https://prove2.me/theorems/80c8860f-a7a5-4255-a038-4f3e51f29b48

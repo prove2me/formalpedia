@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscrJacobianBlocks_map_eq_zero_of_mem_span
 -- name    : GlobalTheory.DiscrJacobianBlocks.map_eq_zero_of_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:50:58.298233+00:00
 -- url     : https://prove2.me/theorems/9fd5fd79-30f3-402f-a4a5-5b0246e83c3b

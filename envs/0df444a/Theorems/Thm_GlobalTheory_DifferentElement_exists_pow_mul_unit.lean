@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DifferentElement_exists_pow_mul_unit
 -- name    : GlobalTheory.DifferentElement.exists_pow_mul_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:49:22.619882+00:00
 -- url     : https://prove2.me/theorems/7e37ea44-a5a7-4a3c-87f1-b5c6259894e7

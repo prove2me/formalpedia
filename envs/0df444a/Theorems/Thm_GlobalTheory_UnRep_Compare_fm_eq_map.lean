@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_Compare_fm_eq_map
 -- name    : GlobalTheory.UnRep.Compare.fm_eq_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:19:04.787626+00:00
 -- url     : https://prove2.me/theorems/bbefb638-9b2a-45e5-993e-88263e7c9d29

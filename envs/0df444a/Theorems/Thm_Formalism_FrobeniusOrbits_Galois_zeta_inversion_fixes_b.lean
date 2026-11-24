@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Galois_zeta_inversion_fixes_b
 -- name    : Formalism.FrobeniusOrbits.Galois.zeta_inversion_fixes_b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:52:59.375689+00:00
 -- url     : https://prove2.me/theorems/d75e706b-02b9-414a-aa00-ce7665706312

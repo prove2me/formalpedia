@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_continuous_of_prod
 -- name    : GlobalTheory.Doubling.continuous_of_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:52:12.76194+00:00
 -- url     : https://prove2.me/theorems/29bbd43e-f2cc-4e48-99e0-ba49da5d2d5a

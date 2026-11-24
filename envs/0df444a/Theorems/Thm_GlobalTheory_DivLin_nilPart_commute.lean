@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DivLin_nilPart_commute
 -- name    : GlobalTheory.DivLin.nilPart_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:50:53.578056+00:00
 -- url     : https://prove2.me/theorems/857a9d18-d492-4666-839f-ce750f5ffa60

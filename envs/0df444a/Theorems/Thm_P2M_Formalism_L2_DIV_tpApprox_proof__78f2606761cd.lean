@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_DIV_tpApprox_proof__78f2606761cd
 -- name    : P2M_Formalism_L2_DIV_tpApprox_proof__78f2606761cd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:23:17.414571+00:00
 -- url     : https://prove2.me/theorems/5484fa0a-7097-4f22-8a62-760432cc93c4

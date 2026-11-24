@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualFormOrtho_bilin_eq_zero_of_span
 -- name    : GlobalTheory.DualFormOrtho.bilin_eq_zero_of_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:52:03.5284+00:00
 -- url     : https://prove2.me/theorems/2166ae78-5910-4e8a-bcf6-e1b03ff84e38

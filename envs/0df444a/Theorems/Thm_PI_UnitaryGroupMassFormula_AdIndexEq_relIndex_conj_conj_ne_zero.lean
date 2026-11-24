@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_relIndex_conj_conj_ne_zero
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.relIndex_conj_conj_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:50:30.812334+00:00
 -- url     : https://prove2.me/theorems/1e286549-2438-4060-bda9-880b387af878
