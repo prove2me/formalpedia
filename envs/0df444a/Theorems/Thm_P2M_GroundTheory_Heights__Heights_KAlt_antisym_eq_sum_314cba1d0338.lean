@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KAlt_antisym_eq_sum_314cba1d0338
 -- name    : P2M_GroundTheory_Heights__Heights_KAlt_antisym_eq_sum_314cba1d0338
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:20.452371+00:00
 -- url     : https://prove2.me/theorems/9f9d6227-67fd-4a88-9818-9377cf68f7a9

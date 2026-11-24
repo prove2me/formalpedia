@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_redTwo_surjective_df3f27242c65
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_redTwo_surjective_df3f27242c65
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:32:51.11281+00:00
 -- url     : https://prove2.me/theorems/769a5ba2-c40c-4fe8-b9c6-49ab9417d27d

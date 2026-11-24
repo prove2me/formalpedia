@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogInt_measurable_normT_1f8dbac9a52f
 -- name    : P2M_GroundTheory_Heights__Heights_LogInt_measurable_normT_1f8dbac9a52f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:35.993578+00:00
 -- url     : https://prove2.me/theorems/36637343-abb5-4eff-af33-6a9e10583cc9

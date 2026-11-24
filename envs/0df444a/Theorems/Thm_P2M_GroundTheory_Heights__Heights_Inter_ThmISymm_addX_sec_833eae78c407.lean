@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ThmISymm_addX_sec_833eae78c407
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ThmISymm_addX_sec_833eae78c407
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:24.693364+00:00
 -- url     : https://prove2.me/theorems/1d226b81-8b89-4e69-ac05-ac49d4264342

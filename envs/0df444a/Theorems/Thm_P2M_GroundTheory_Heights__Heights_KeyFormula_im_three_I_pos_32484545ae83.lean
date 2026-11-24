@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KeyFormula_im_three_I_pos_32484545ae83
 -- name    : P2M_GroundTheory_Heights__Heights_KeyFormula_im_three_I_pos_32484545ae83
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:26.484543+00:00
 -- url     : https://prove2.me/theorems/4d77c531-7395-43e6-ac49-a7eb289fdf37

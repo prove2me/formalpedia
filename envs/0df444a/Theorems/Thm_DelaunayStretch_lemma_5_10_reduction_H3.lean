@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelaunayStretch_lemma_5_10_reduction_H3
 -- name    : DelaunayStretch.lemma_5_10_reduction_H3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-24T03:13:51.740407+00:00
 -- url     : https://prove2.me/theorems/1c112b14-f246-4533-8890-34f8d39c8228

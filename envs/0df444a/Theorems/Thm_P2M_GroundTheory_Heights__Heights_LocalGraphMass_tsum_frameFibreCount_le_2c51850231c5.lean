@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LocalGraphMass_tsum_frameFibreCount_le_2c51850231c5
 -- name    : P2M_GroundTheory_Heights__Heights_LocalGraphMass_tsum_frameFibreCount_le_2c51850231c5
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:31.804088+00:00
 -- url     : https://prove2.me/theorems/5b260d36-d569-4549-af98-699d18c03a1a

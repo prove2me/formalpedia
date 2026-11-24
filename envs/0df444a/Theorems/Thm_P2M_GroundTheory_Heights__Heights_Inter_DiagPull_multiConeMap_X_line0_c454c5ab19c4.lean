@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagPull_multiConeMap_X_line0_c454c5ab19c4
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagPull_multiConeMap_X_line0_c454c5ab19c4
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:28:00.505405+00:00
 -- url     : https://prove2.me/theorems/3fa12464-c295-49a5-9fd0-8f9ed3c86710

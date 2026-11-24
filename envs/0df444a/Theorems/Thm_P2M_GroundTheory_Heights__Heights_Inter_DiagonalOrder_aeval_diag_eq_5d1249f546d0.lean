@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagonalOrder_aeval_diag_eq_5d1249f546d0
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagonalOrder_aeval_diag_eq_5d1249f546d0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:28:50.702808+00:00
 -- url     : https://prove2.me/theorems/509b6cc7-4618-4b41-b3ba-fe284be78ec4

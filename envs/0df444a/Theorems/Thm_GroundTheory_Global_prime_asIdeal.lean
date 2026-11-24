@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_prime_asIdeal
 -- name    : GroundTheory.Global.prime_asIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:30:57.832543+00:00
 -- url     : https://prove2.me/theorems/d2dd71b6-c747-4f7d-8ad3-39504fb8ddfc

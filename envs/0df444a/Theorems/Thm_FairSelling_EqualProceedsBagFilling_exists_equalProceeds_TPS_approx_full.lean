@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_EqualProceedsBagFilling_exists_equalProceeds_TPS_approx_full
 -- name    : FairSelling.EqualProceedsBagFilling.exists_equalProceeds_TPS_approx_full
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:36:14.982164+00:00
 -- url     : https://prove2.me/theorems/6959b194-7649-4c42-b852-3388c55351ab

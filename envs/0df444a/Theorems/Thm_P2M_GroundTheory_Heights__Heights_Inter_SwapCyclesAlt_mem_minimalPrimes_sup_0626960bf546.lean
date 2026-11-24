@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SwapCyclesAlt_mem_minimalPrimes_sup_0626960bf546
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SwapCyclesAlt_mem_minimalPrimes_sup_0626960bf546
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:08.24188+00:00
 -- url     : https://prove2.me/theorems/39ecb2b2-e19a-4a88-818e-78116ae0fea3

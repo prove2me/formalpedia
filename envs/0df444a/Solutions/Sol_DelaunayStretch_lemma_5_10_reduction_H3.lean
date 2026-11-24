@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for DelaunayStretch.lemma_5_10_reduction_H3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Shuze Chen
 -- created : 2026-11-24T03:31:03.298258+00:00
 -- url     : https://prove2.me/submissions/496d9954-00cd-461b-80de-34e52955e873
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_DelaunayStretch_bspline_basic_properties
 import Definitions.Def_DelaunayStretch_SatisfiesH0toH4

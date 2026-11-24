@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_cellListT_ret
 -- name    : ULHC.T.cellListT_ret
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:16:28.561842+00:00
 -- url     : https://prove2.me/theorems/3647aeab-28df-41fb-b611-af6ca35a8c3d

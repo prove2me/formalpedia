@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_fam_update_eq_snoc_8276b4e1bae1
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_fam_update_eq_snoc_8276b4e1bae1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:32:58.227651+00:00
 -- url     : https://prove2.me/theorems/164715cf-9219-4908-8879-3199a291220c

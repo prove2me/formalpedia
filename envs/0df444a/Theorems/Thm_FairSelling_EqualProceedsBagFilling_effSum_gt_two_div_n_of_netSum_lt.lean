@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_EqualProceedsBagFilling_effSum_gt_two_div_n_of_netSum_lt
 -- name    : FairSelling.EqualProceedsBagFilling.effSum_gt_two_div_n_of_netSum_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:36:47.413746+00:00
 -- url     : https://prove2.me/theorems/4546017a-d649-4e95-903b-14867781e5ce

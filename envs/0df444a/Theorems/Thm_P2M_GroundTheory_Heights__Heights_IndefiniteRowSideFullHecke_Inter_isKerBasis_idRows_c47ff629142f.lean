@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_isKerBasis_idRows_c47ff629142f
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_isKerBasis_idRows_c47ff629142f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:26:39.815998+00:00
 -- url     : https://prove2.me/theorems/c1a21ca0-16da-4efa-83ac-5fbc3bb00615

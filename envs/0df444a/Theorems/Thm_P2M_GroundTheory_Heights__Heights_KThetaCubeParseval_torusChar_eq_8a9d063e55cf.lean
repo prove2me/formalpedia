@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KThetaCubeParseval_torusChar_eq_8a9d063e55cf
 -- name    : P2M_GroundTheory_Heights__Heights_KThetaCubeParseval_torusChar_eq_8a9d063e55cf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:36.611065+00:00
 -- url     : https://prove2.me/theorems/41619496-d1db-4d19-b849-177d30b406b7

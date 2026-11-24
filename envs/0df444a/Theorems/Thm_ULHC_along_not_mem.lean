@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_along_not_mem
 -- name    : ULHC.along_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:38:12.36184+00:00
 -- url     : https://prove2.me/theorems/82435fa6-b75c-49ce-8c9d-9c84632f787e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_beside_end_farB
 -- name    : ULHC.beside_end_farB
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:38:23.082401+00:00
 -- url     : https://prove2.me/theorems/80f6aaea-a222-4d51-8f83-8da28141c2b1

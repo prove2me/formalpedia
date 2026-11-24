@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_FiltrationHilbSum_comp_smul_f065e44fd581
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_FiltrationHilbSum_comp_smul_f065e44fd581
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:08:15.617548+00:00
 -- url     : https://prove2.me/theorems/3d134be5-d03a-4c90-932f-e4b4760c6c29

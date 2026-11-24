@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_Line_gen_ne_zero_c3a5b642e033
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_Line_gen_ne_zero_c3a5b642e033
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:35:41.477174+00:00
 -- url     : https://prove2.me/theorems/e6e47244-1418-4893-bc23-2a3e64c3f1d4

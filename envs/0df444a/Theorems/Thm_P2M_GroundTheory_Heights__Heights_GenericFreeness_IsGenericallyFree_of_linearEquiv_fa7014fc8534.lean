@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GenericFreeness_IsGenericallyFree_of_linearEquiv_fa7014fc8534
 -- name    : P2M_GroundTheory_Heights__Heights_GenericFreeness_IsGenericallyFree_of_linearEquiv_fa7014fc8534
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:32:21.98223+00:00
 -- url     : https://prove2.me/theorems/027e21c6-e9b8-4762-9611-7ebbe33c7592

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_Conservation_comap_eq_of_mem_03b704367dba
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_Conservation_comap_eq_of_mem_03b704367dba
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:28:27.48163+00:00
 -- url     : https://prove2.me/theorems/4f68f316-b742-41de-91b9-a34a72508564

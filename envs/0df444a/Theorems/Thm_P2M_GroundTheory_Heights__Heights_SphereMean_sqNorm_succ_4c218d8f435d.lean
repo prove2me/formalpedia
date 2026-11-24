@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereMean_sqNorm_succ_4c218d8f435d
 -- name    : P2M_GroundTheory_Heights__Heights_SphereMean_sqNorm_succ_4c218d8f435d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:31:01.184329+00:00
 -- url     : https://prove2.me/theorems/4d17da62-f80f-4acd-aabd-e087ee79ac84

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_exists_eq_X_pow_of_mem_monos_single_54014fef5774
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_exists_eq_X_pow_of_mem_monos_single_54014fef5774
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:45.673903+00:00
 -- url     : https://prove2.me/theorems/078be6c1-ccca-4397-b0c7-50983887699c

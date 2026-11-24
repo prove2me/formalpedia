@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelaunayStretch_Supplement_theorem_B_4_exactness
 -- name    : DelaunayStretch.Supplement.theorem_B_4_exactness
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-16T12:39:17.014057+00:00
 -- url     : https://prove2.me/theorems/c0475c33-32bc-4dda-baab-54b30d8ca029

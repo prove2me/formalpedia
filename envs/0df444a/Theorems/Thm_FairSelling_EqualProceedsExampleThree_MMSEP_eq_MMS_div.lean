@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_EqualProceedsExampleThree_MMSEP_eq_MMS_div
 -- name    : FairSelling.EqualProceedsExampleThree.MMSEP_eq_MMS_div
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:32:16.400384+00:00
 -- url     : https://prove2.me/theorems/b30946ce-54e6-494c-8737-b6dd4e1ae808

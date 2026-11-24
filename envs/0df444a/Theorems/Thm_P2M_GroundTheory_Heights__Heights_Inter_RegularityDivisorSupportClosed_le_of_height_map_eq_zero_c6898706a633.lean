@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_RegularityDivisorSupportClosed_le_of_height_map_eq_zero_c6898706a633
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_RegularityDivisorSupportClosed_le_of_height_map_eq_zero_c6898706a633
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:29:59.263726+00:00
 -- url     : https://prove2.me/theorems/2475e44e-caf0-4837-aca9-f0b15cca16e9

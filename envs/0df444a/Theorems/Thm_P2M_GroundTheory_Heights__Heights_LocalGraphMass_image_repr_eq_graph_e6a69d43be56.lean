@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LocalGraphMass_image_repr_eq_graph_e6a69d43be56
 -- name    : P2M_GroundTheory_Heights__Heights_LocalGraphMass_image_repr_eq_graph_e6a69d43be56
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:49.052256+00:00
 -- url     : https://prove2.me/theorems/877b01a8-c6dd-4b02-98aa-da058c55769f

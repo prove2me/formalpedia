@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_volume_zero_set_of_analyticOnNhd
 -- name    : ReciprocityTheory.AnForm.volume_zero_set_of_analyticOnNhd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:30:12.595929+00:00
 -- url     : https://prove2.me/theorems/8c1db8f0-add4-4b7e-94ba-320017ddc169

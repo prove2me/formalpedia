@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagonalOrder_multiConeMap_eq_f5c45a24f8f1
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagonalOrder_multiConeMap_eq_f5c45a24f8f1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:28:35.47037+00:00
 -- url     : https://prove2.me/theorems/e811f448-d4d1-471e-871e-5f360c161ea2

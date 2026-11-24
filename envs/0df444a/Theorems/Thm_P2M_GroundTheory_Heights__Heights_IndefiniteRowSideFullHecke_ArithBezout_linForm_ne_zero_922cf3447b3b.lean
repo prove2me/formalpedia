@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ArithBezout_linForm_ne_zero_922cf3447b3b
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ArithBezout_linForm_ne_zero_922cf3447b3b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:25:19.827727+00:00
 -- url     : https://prove2.me/theorems/f8d60494-a998-4aff-ba31-dfdeb51790cf

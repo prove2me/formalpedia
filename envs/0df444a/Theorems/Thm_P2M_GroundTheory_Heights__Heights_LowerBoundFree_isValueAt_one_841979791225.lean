@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_isValueAt_one_841979791225
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_isValueAt_one_841979791225
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:35:29.013872+00:00
 -- url     : https://prove2.me/theorems/54f12749-3340-4894-ad27-61d172ae475b

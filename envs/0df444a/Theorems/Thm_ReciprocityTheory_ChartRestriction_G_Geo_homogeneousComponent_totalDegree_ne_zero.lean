@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_homogeneousComponent_totalDegree_ne_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.homogeneousComponent_totalDegree_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:31:48.433008+00:00
 -- url     : https://prove2.me/theorems/c7cec039-b361-4f78-830e-b3dbcf55f32e

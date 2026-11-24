@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SwapCyclesAlt_divCycle_of_not_mem_e510c3578bb2
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SwapCyclesAlt_divCycle_of_not_mem_e510c3578bb2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:37.133701+00:00
 -- url     : https://prove2.me/theorems/3699a5a9-3ac9-423d-84dd-e311a960457b

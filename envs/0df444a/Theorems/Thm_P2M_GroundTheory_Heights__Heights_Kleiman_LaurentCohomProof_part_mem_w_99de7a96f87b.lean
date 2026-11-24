@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_LaurentCohomProof_part_mem_w_99de7a96f87b
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_LaurentCohomProof_part_mem_w_99de7a96f87b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:21.936813+00:00
 -- url     : https://prove2.me/theorems/9103a44c-798c-4bd4-85e6-1a6dd95b023a

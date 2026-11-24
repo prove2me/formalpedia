@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PushforwardArithIntersection_wh_prod_X_pow_7859ccdd4b43
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PushforwardArithIntersection_wh_prod_X_pow_7859ccdd4b43
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:30:13.917028+00:00
 -- url     : https://prove2.me/theorems/7b9ba883-ff2e-41c5-b981-186db811f20b

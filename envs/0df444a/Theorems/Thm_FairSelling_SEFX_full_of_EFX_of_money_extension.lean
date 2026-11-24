@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_SEFX_full_of_EFX_of_money_extension
 -- name    : FairSelling.SEFX_full_of_EFX_of_money_extension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:16:14.057486+00:00
 -- url     : https://prove2.me/theorems/1bebcc2d-86d1-4bee-8b93-b38ad372100b

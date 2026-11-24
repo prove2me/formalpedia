@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_LocRingPow_weight_multiDegWeight_ca852a704747
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_LocRingPow_weight_multiDegWeight_ca852a704747
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:29:07.200605+00:00
 -- url     : https://prove2.me/theorems/76426dd5-5fa8-4c2f-ab40-e8c644b0fa05

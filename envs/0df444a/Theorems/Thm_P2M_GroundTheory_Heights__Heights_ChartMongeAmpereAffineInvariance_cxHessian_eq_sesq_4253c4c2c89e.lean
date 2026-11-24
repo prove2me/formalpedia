@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartMongeAmpereAffineInvariance_cxHessian_eq_sesq_4253c4c2c89e
 -- name    : P2M_GroundTheory_Heights__Heights_ChartMongeAmpereAffineInvariance_cxHessian_eq_sesq_4253c4c2c89e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:32:16.211061+00:00
 -- url     : https://prove2.me/theorems/fe6e45b8-8991-40d9-8957-3b892586c490

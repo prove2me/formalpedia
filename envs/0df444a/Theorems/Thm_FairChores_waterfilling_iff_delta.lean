@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_waterfilling_iff_delta
 -- name    : FairChores.waterfilling_iff_delta
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:22:16.251101+00:00
 -- url     : https://prove2.me/theorems/bfbe5b4b-31ed-4e07-b69a-955868580eb0

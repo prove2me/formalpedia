@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SemipositiveTwist_isOpen_noZeroBlock_a770c8a08c0b
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SemipositiveTwist_isOpen_noZeroBlock_a770c8a08c0b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:50:03.668576+00:00
 -- url     : https://prove2.me/theorems/7fd76e88-a895-45ec-ba48-61579a686453

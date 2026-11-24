@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IncidenceZeroLocus_mem_finsuppAntidiag_univ_iff_5c8a1f46e0c6
 -- name    : P2M_GroundTheory_Heights__Heights_IncidenceZeroLocus_mem_finsuppAntidiag_univ_iff_5c8a1f46e0c6
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:24:35.868852+00:00
 -- url     : https://prove2.me/theorems/f922f1b8-66e9-4d41-b052-5070ed208146

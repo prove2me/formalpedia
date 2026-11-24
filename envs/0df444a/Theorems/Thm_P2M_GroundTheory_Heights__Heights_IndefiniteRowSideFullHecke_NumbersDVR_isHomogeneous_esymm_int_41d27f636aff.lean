@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_NumbersDVR_isHomogeneous_esymm_int_41d27f636aff
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_NumbersDVR_isHomogeneous_esymm_int_41d27f636aff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:27:04.735312+00:00
 -- url     : https://prove2.me/theorems/422bbcc3-09eb-4272-b76c-6d8c63a1eafe

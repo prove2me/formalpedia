@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_valid_two
 -- name    : ULHC.valid_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:39:30.372843+00:00
 -- url     : https://prove2.me/theorems/e700b4ac-f7a0-472f-9c48-cd04fbde8ea6

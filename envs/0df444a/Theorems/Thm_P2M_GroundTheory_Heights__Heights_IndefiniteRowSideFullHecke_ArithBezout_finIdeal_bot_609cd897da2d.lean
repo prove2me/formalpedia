@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ArithBezout_finIdeal_bot_609cd897da2d
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ArithBezout_finIdeal_bot_609cd897da2d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:25:20.356161+00:00
 -- url     : https://prove2.me/theorems/fe60d7aa-e45f-4add-a3cf-c5477438b8c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_endOK_of_valid
 -- name    : ULHC.endOK_of_valid
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:39:10.22638+00:00
 -- url     : https://prove2.me/theorems/4805015e-dc33-4939-9332-0bb64efd4fbc

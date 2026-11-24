@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_dimN_line_500fcd94b89b
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_dimN_line_500fcd94b89b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:52.22647+00:00
 -- url     : https://prove2.me/theorems/975cee3a-8609-47ea-8280-275d2bf883c6

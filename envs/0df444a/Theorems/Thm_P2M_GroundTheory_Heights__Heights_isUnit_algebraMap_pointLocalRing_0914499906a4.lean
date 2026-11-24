@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isUnit_algebraMap_pointLocalRing_0914499906a4
 -- name    : P2M_GroundTheory_Heights__Heights_isUnit_algebraMap_pointLocalRing_0914499906a4
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:31:59.007497+00:00
 -- url     : https://prove2.me/theorems/51d8531f-2508-4aaf-96bd-c62340f30c04

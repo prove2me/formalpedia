@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ThmIMultilin_update_comp_swap_7f6a686cf33e
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ThmIMultilin_update_comp_swap_7f6a686cf33e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:41.774361+00:00
 -- url     : https://prove2.me/theorems/85040f5a-a26f-4a57-bba8-8a846b9f9e87

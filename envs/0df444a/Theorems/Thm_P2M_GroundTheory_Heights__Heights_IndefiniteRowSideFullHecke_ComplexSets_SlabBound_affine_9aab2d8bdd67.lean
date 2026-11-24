@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_SlabBound_affine_9aab2d8bdd67
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_SlabBound_affine_9aab2d8bdd67
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:26:36.061078+00:00
 -- url     : https://prove2.me/theorems/c6e974c5-f3e1-4f79-b404-26b19f88eca1

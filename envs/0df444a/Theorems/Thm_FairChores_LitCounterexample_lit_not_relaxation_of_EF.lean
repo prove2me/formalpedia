@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_LitCounterexample_lit_not_relaxation_of_EF
 -- name    : FairChores.LitCounterexample.lit_not_relaxation_of_EF
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:22:54.739964+00:00
 -- url     : https://prove2.me/theorems/1867a91a-1fcd-4e21-b869-19a961ef7732

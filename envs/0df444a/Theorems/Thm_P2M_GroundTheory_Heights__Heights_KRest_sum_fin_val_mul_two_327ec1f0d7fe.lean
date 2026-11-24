@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KRest_sum_fin_val_mul_two_327ec1f0d7fe
 -- name    : P2M_GroundTheory_Heights__Heights_KRest_sum_fin_val_mul_two_327ec1f0d7fe
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:13.937816+00:00
 -- url     : https://prove2.me/theorems/075c0126-3e4f-426b-ae4a-2418525c3155

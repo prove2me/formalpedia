@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_besideA_not_mid
 -- name    : ULHC.besideA_not_mid
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:38:03.55699+00:00
 -- url     : https://prove2.me/theorems/49becf33-6272-4728-a0b7-144eb622f67b

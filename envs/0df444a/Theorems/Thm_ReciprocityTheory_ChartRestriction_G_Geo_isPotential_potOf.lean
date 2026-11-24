@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_isPotential_potOf
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.isPotential_potOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:45:29.901364+00:00
 -- url     : https://prove2.me/theorems/5b19091f-4a5d-4f74-a502-bf87735ddb7d

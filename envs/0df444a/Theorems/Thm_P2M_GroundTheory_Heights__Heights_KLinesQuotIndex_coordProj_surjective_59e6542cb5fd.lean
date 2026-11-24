@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KLinesQuotIndex_coordProj_surjective_59e6542cb5fd
 -- name    : P2M_GroundTheory_Heights__Heights_KLinesQuotIndex_coordProj_surjective_59e6542cb5fd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:07.18738+00:00
 -- url     : https://prove2.me/theorems/d5b02a0f-c4c6-4d6d-9d71-7c0e91b001a6

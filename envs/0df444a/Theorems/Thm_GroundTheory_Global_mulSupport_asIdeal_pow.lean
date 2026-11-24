@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_mulSupport_asIdeal_pow
 -- name    : GroundTheory.Global.mulSupport_asIdeal_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:19:45.177745+00:00
 -- url     : https://prove2.me/theorems/78a61356-2843-4faf-9dfa-0cdccee74c8e

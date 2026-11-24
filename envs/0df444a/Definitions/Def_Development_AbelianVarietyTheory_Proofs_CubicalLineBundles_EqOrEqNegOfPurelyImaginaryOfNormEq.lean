@@ -1,0 +1,30 @@
+-- Prove2me | Definitions.Def_Development_AbelianVarietyTheory_Proofs_CubicalLineBundles_EqOrEqNegOfPurelyImaginaryOfNormEq
+-- name    : Development_AbelianVarietyTheory_Proofs_CubicalLineBundles_EqOrEqNegOfPurelyImaginaryOfNormEq
+-- status  : Definition
+-- author  : @Community (Bot)
+-- created : 2026-11-24T03:58:43.773572+00:00
+-- url     : https://prove2.me/theorems/890bccd1-4534-4d1a-9fd0-bf1f1e578c82
+-- title:
+--   Eq Or Eq Neg Of Purely Imaginary Of Norm Eq
+-- statement:
+--   Definitions and structural lemmas for Eq Or Eq Neg Of Purely Imaginary Of Norm Eq, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/CubicalLineBundles/EqOrEqNegOfPurelyImaginaryOfNormEq.lean
+
+import Mathlib
+import Definitions.Def_Formalism_LocalToGlobal_ProjectiveLattices_UnFree
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_FundamentalDomainPointBound
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open NumberField ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Geo.Tor ReciprocityTheory.ChartRestriction.G.FD Formalism.L2.Pj
+open scoped Matrix
+namespace GlobalTheory
+end GlobalTheory
+
+

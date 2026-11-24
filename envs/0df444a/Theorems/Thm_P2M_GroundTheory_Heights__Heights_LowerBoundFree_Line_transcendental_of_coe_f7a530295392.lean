@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_Line_transcendental_of_coe_f7a530295392
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_Line_transcendental_of_coe_f7a530295392
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:35:13.999236+00:00
 -- url     : https://prove2.me/theorems/59a72d6e-628f-409c-98f6-c7bf8f3e50ea

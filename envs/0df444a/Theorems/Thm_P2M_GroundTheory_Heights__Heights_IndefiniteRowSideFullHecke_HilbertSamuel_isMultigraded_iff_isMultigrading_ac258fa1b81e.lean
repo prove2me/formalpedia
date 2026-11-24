@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_isMultigraded_iff_isMultigrading_ac258fa1b81e
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_isMultigraded_iff_isMultigrading_ac258fa1b81e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:26:40.437829+00:00
 -- url     : https://prove2.me/theorems/a1027d68-b470-478c-aa5d-210447a3ac5c

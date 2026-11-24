@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_MobiusAlgIndep_proof_89ce1ff95f12
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_MobiusAlgIndep_proof_89ce1ff95f12
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:29:02.283246+00:00
 -- url     : https://prove2.me/theorems/13e11ecc-dc45-43a6-9a0d-28ca21b250ca

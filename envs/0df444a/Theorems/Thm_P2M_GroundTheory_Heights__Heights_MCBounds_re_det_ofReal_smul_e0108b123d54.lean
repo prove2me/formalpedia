@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCBounds_re_det_ofReal_smul_e0108b123d54
 -- name    : P2M_GroundTheory_Heights__Heights_MCBounds_re_det_ofReal_smul_e0108b123d54
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:35:23.956926+00:00
 -- url     : https://prove2.me/theorems/598e44ea-1c53-460a-a88a-168af5d6ff39

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCInvEntryDeriv_differentiableAt_det_6cbb36123359
 -- name    : P2M_GroundTheory_Heights__Heights_MCInvEntryDeriv_differentiableAt_det_6cbb36123359
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:35:16.194414+00:00
 -- url     : https://prove2.me/theorems/ecc50e0b-785a-4103-827f-a1ac462fb3a7

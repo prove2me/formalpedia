@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagRAux_halfInvLine_h_of_pos_2cba2ddf9fad
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagRAux_halfInvLine_h_of_pos_2cba2ddf9fad
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:27:56.929122+00:00
 -- url     : https://prove2.me/theorems/6188cb06-dc63-4606-95d3-9607ede0aea5

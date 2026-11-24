@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_regularityLocalResidue_holds_coe_chartMap_8edc370776b7
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_regularityLocalResidue_holds_coe_chartMap_8edc370776b7
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:25.486416+00:00
 -- url     : https://prove2.me/theorems/44bf50de-af80-49e1-a3e7-e44382c859cf

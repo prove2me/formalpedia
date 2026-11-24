@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KCoord_sq_coord_le_d1ab1fa771ab
 -- name    : P2M_GroundTheory_Heights__Heights_KCoord_sq_coord_le_d1ab1fa771ab
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:13.093801+00:00
 -- url     : https://prove2.me/theorems/76d65e95-9d58-455f-981e-af47b3f11e9d

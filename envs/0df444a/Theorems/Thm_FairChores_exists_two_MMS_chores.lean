@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_exists_two_MMS_chores
 -- name    : FairChores.exists_two_MMS_chores
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:24:22.788146+00:00
 -- url     : https://prove2.me/theorems/2ac30d8b-96c4-48e0-be1e-1d41c75b53d6

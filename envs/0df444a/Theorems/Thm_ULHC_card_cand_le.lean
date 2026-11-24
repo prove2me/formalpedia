@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_card_cand_le
 -- name    : ULHC.card_cand_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:38:31.188853+00:00
 -- url     : https://prove2.me/theorems/9384c393-2205-4bcc-852b-027bd93e2fbc

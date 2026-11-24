@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_EqualProceedsExampleFour_no_better_than_one_over_n
 -- name    : FairSelling.EqualProceedsExampleFour.no_better_than_one_over_n
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:33:31.486098+00:00
 -- url     : https://prove2.me/theorems/5ee29b78-5b9a-46aa-bbc3-94b35b7a65be

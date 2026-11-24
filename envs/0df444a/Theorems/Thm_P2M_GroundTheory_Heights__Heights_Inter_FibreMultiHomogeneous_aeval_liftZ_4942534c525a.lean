@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_FibreMultiHomogeneous_aeval_liftZ_4942534c525a
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_FibreMultiHomogeneous_aeval_liftZ_4942534c525a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:29:56.030137+00:00
 -- url     : https://prove2.me/theorems/bd7e1c15-df87-488e-b6cd-ef2f89e715a9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagonalOffFrame_mem_wwIdeal_of_aeval_eq_zero_25b295e2b105
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagonalOffFrame_mem_wwIdeal_of_aeval_eq_zero_25b295e2b105
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:28:32.91945+00:00
 -- url     : https://prove2.me/theorems/a56a688d-5dba-48b9-89b4-bbc24ad7eec4

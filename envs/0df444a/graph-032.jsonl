@@ -38535,8 +38535,8 @@
 {"parent": "InfoLossLAR_LoadedBatchBundle_03", "child": "InfoLossLAR_LoadedBatchBundle_01", "via": ["statement"]}
 {"parent": "NashAmplification.Filtering.Supplement.theorem_4_1", "child": "NashAmplification_Filtering_Supplement_Solvers", "via": ["statement"]}
 {"parent": "RPLib_S3_EllW2Z3", "child": "RPLib_S3_EllW2Z2", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.completedNaturalLevyFiltrationRightContinuous", "child": "LeanLevy_Processes_LevyProcess", "via": ["statement"]}
-{"parent": "Kyprianou.Ch03.completedNaturalLevyFiltrationRightContinuous", "child": "Kyprianou_Ch03_CompletedNaturalFiltration", "via": ["statement"]}
+{"parent": "Kyprianou.Ch03.completedNaturalLevyFiltrationRightContinuous", "child": "LeanLevy_Processes_LevyProcess", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch03.completedNaturalLevyFiltrationRightContinuous", "child": "Kyprianou_Ch03_CompletedNaturalFiltration", "via": ["solution", "statement"]}
 {"parent": "QMAPerfectCompleteness_Proof_CertificateQuantumTransports", "child": "QMAPerfectCompleteness_Proof_CertificateRangeCircuit", "via": ["statement"]}
 {"parent": "QMAPerfectCompleteness_Proof_CertificateQuantumTransports", "child": "QMAPerfectCompleteness_Proof_CertificateLogicalSelect", "via": ["statement"]}
 {"parent": "QMAPerfectCompleteness_Proof_CertificateQuantumTransports", "child": "QMAPerfectCompleteness_Proof_Dyadic", "via": ["statement"]}
@@ -84166,9 +84166,9 @@
 {"parent": "APFPaper5.K2.hold_keeping_table_package", "child": "APFPaper5.K2.holdScore_eq_sum", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K2.hold_keeping_table_package", "child": "APFPaper5.K2.keeps_of_reverse_is_inverse", "via": ["solution", "statement"]}
 {"parent": "APFPaper5.K2.hold_keeping_table_package", "child": "APFPaper5.K2.keepsTable_diag", "via": ["solution", "statement"]}
-{"parent": "DelaunayStretch.Supplement.theorem_B_4_exactness", "child": "DelaunayStretch_Supplement_valueFunction", "via": ["statement"]}
-{"parent": "DelaunayStretch.Supplement.theorem_B_4_exactness", "child": "DelaunayStretch_ChainInequality", "via": ["statement"]}
-{"parent": "DelaunayStretch.Supplement.theorem_B_4_exactness", "child": "DelaunayStretch_IsFeasiblePotential", "via": ["statement"]}
+{"parent": "DelaunayStretch.Supplement.theorem_B_4_exactness", "child": "DelaunayStretch_Supplement_valueFunction", "via": ["solution", "statement"]}
+{"parent": "DelaunayStretch.Supplement.theorem_B_4_exactness", "child": "DelaunayStretch_ChainInequality", "via": ["solution", "statement"]}
+{"parent": "DelaunayStretch.Supplement.theorem_B_4_exactness", "child": "DelaunayStretch_IsFeasiblePotential", "via": ["solution", "statement"]}
 {"parent": "ValiantModel.Supplement.theorem_5_4", "child": "ValiantModel_Supplement_GeneralModel", "via": ["statement"]}
 {"parent": "ValiantModel.Supplement.theorem_5_4", "child": "HighDimProb_Chaining_VcDim", "via": ["statement"]}
 {"parent": "ValiantModel.Supplement.theorem_5_4", "child": "ValiantModel_Supplement_StarNumber", "via": ["statement"]}

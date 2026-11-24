@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCBounds_quad_symm_4b25d90b3d61
 -- name    : P2M_GroundTheory_Heights__Heights_MCBounds_quad_symm_4b25d90b3d61
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:35:25.877807+00:00
 -- url     : https://prove2.me/theorems/ea8430ec-49c8-4c51-9512-4055c771f517

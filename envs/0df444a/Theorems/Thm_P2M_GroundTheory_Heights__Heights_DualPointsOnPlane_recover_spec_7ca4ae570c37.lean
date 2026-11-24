@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualPointsOnPlane_recover_spec_7ca4ae570c37
 -- name    : P2M_GroundTheory_Heights__Heights_DualPointsOnPlane_recover_spec_7ca4ae570c37
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:31:45.690803+00:00
 -- url     : https://prove2.me/theorems/ff84626a-f035-412c-b296-d0950da68f06

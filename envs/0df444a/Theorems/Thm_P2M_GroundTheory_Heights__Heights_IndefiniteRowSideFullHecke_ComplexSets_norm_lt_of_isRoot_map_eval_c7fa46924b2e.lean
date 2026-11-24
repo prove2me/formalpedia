@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_norm_lt_of_isRoot_map_eval_c7fa46924b2e
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_norm_lt_of_isRoot_map_eval_c7fa46924b2e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:26:27.5228+00:00
 -- url     : https://prove2.me/theorems/4d4d4812-53ad-4f2f-8855-bc7211ece8e9

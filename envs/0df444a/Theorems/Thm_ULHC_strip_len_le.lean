@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_strip_len_le
 -- name    : ULHC.strip_len_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:55:54.075076+00:00
 -- url     : https://prove2.me/theorems/baffd5cf-f4ad-48e1-ba66-13655cf17c8a

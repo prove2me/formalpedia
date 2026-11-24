@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_muPoly_line_d486cf876662
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_muPoly_line_d486cf876662
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:35:06.231939+00:00
 -- url     : https://prove2.me/theorems/fdeca4bf-48bb-49f1-b4bf-6b46aadd5665

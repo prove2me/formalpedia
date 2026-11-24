@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_IsRegularLocalRing_isDomain
 -- name    : GroundTheory.Arith.SchemeCoh.IsRegularLocalRing.isDomain
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:26:08.750807+00:00
 -- url     : https://prove2.me/theorems/97fb3e82-c91b-4257-a4b6-504077207c4f

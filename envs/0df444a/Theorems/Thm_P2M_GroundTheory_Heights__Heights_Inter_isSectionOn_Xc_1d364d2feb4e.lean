@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_isSectionOn_Xc_1d364d2feb4e
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_isSectionOn_Xc_1d364d2feb4e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:32:53.256066+00:00
 -- url     : https://prove2.me/theorems/b428d8b9-2461-46f8-82c6-97020f653c13

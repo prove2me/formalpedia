@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_besideA_ne
 -- name    : ULHC.besideA_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:37:47.10642+00:00
 -- url     : https://prove2.me/theorems/93cef283-02c4-46f5-9c0f-32330c370846

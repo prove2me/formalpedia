@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_chainOKB_iff
 -- name    : ULHC.chainOKB_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:36:49.188091+00:00
 -- url     : https://prove2.me/theorems/958fc363-4059-458f-92ac-ab8533e6ccff

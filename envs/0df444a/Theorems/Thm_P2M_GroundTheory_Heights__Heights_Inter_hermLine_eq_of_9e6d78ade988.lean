@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_hermLine_eq_of_9e6d78ade988
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_hermLine_eq_of_9e6d78ade988
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:32:57.543801+00:00
 -- url     : https://prove2.me/theorems/7f476b32-5138-4517-a630-144f1f9f984a

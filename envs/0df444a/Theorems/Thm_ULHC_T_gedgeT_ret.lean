@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_gedgeT_ret
 -- name    : ULHC.T.gedgeT_ret
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:13:28.106026+00:00
 -- url     : https://prove2.me/theorems/24affa41-a417-4120-9214-1e52e00735fc

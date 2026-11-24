@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_standardFlag_saturated_e86c126ee556
 -- name    : P2M_GroundTheory_Heights__Heights_standardFlag_saturated_e86c126ee556
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:31:36.571183+00:00
 -- url     : https://prove2.me/theorems/998f33c8-d9a0-4f70-805f-9395ed2b9099

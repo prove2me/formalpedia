@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogInt_weight_indW_le_126af73320e3
 -- name    : P2M_GroundTheory_Heights__Heights_LogInt_weight_indW_le_126af73320e3
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:41.213823+00:00
 -- url     : https://prove2.me/theorems/66e719cc-e097-4a22-8198-623962b93e6b

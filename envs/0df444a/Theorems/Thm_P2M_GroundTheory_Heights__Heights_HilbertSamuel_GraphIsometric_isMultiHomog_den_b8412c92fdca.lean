@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_GraphIsometric_isMultiHomog_den_b8412c92fdca
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_GraphIsometric_isMultiHomog_den_b8412c92fdca
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:30:04.363563+00:00
 -- url     : https://prove2.me/theorems/7e290605-dc5b-4efb-b2a4-cbf938a55c49

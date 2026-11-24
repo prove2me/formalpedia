@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KeyFormula_intVec_one_081da4c52f7a
 -- name    : P2M_GroundTheory_Heights__Heights_KeyFormula_intVec_one_081da4c52f7a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:22.914474+00:00
 -- url     : https://prove2.me/theorems/e37bd0c9-e3f9-4d2d-a5fd-8fff0ff49b68

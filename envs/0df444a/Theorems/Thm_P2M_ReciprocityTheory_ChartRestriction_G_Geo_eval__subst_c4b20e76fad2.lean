@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_Geo_eval__subst_c4b20e76fad2
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_Geo_eval__subst_c4b20e76fad2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:31:36.159016+00:00
 -- url     : https://prove2.me/theorems/645f69cd-50cb-4c0f-adc7-2f36aeee1427

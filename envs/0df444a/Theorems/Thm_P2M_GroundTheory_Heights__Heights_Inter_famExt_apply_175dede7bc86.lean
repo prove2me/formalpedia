@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_famExt_apply_175dede7bc86
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_famExt_apply_175dede7bc86
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:23.344861+00:00
 -- url     : https://prove2.me/theorems/fdac0593-1a8c-4c3f-b62f-41fa5b174eb6

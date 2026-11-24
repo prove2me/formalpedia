@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LocalGraphMass_tsum_lintegral_le_075e4d26f535
 -- name    : P2M_GroundTheory_Heights__Heights_LocalGraphMass_tsum_lintegral_le_075e4d26f535
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:46.706558+00:00
 -- url     : https://prove2.me/theorems/66d539b9-5ab4-4f05-9e29-3d9bfba43a1a

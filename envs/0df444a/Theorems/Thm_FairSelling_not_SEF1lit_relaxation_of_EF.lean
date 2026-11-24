@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_not_SEF1lit_relaxation_of_EF
 -- name    : FairSelling.not_SEF1lit_relaxation_of_EF
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:17:41.851911+00:00
 -- url     : https://prove2.me/theorems/97f08157-d6f8-4619-8e65-2e9639ad4a8e

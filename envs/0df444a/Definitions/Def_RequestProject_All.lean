@@ -1,0 +1,88 @@
+-- Prove2me | Definitions.Def_RequestProject_All
+-- name    : RequestProject_All
+-- status  : Definition
+-- author  : @marwahaha
+-- created : 2026-11-24T03:57:44.909847+00:00
+-- url     : https://prove2.me/theorems/54d55e66-08dc-41fd-a30f-67dfabfdd130
+-- title:
+--   All
+-- statement:
+--   Definitions and structural lemmas for All, from yotam-gafni/FairAllocationWithOptionalSelling contributors (see pinned CC0-1.0 LICENSE and source headers)'s pinned Fair allocation with optional selling and maximin-share bounds development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/yotam-gafni/FairAllocationWithOptionalSelling/blob/daed8afbbc6b4da634e8cbffa11e861f99533f56/RequestProject/All.lean
+
+import Mathlib
+import Definitions.Def_RequestProject_Selling
+import Definitions.Def_RequestProject_SmallN
+import Definitions.Def_RequestProject_MMSPartition
+import Definitions.Def_RequestProject_TwoAgents
+import Definitions.Def_RequestProject_TPSCompute
+import Definitions.Def_RequestProject_TPSApprox
+import Definitions.Def_RequestProject_TPSSefx
+import Definitions.Def_RequestProject_TPSSefxExamples
+import Definitions.Def_RequestProject_TPSSefxZero
+import Definitions.Def_RequestProject_TPSSefxGeneral
+import Definitions.Def_RequestProject_TPSSefxMoney
+import Definitions.Def_RequestProject_TPSSefxCharge
+import Definitions.Def_RequestProject_TPSSefxServe
+import Definitions.Def_RequestProject_TPSSefxConfig
+import Definitions.Def_RequestProject_TPSSefxStep
+import Definitions.Def_RequestProject_TPSSefxPhase
+import Definitions.Def_RequestProject_TPSSefxPhaseStep
+import Definitions.Def_RequestProject_TPSSefxPhaseImp
+import Definitions.Def_RequestProject_TPSSefxPot
+import Definitions.Def_RequestProject_TPSSefxPotStep
+import Definitions.Def_RequestProject_TPSSefxPotImp
+import Definitions.Def_RequestProject_TPSSefxMixedExample
+import Definitions.Def_RequestProject_TPSSefxTheorem2
+import Definitions.Def_RequestProject_TPSSefxSharing
+import Definitions.Def_RequestProject_ThreeAgents
+import Definitions.Def_RequestProject_CanonicalPartition
+import Definitions.Def_RequestProject_CanonicalStrict
+import Definitions.Def_RequestProject_Matching
+import Definitions.Def_RequestProject_MatchingPhase
+import Definitions.Def_RequestProject_ConfigSplit
+import Definitions.Def_RequestProject_ThreeAgentCash
+import Definitions.Def_RequestProject_ThreeAgentCashComposition
+import Definitions.Def_RequestProject_ThreeAgentReduction
+import Definitions.Def_RequestProject_LemmaFourResidual
+import Definitions.Def_RequestProject_LemmaFourNecessity
+import Definitions.Def_RequestProject_PreliminaryPhase
+import Definitions.Def_RequestProject_ThreeAgentTheorem
+import Definitions.Def_RequestProject_EquiMMS
+import Definitions.Def_RequestProject_TwoThirdsMatching
+import Definitions.Def_RequestProject_TwoThirdsCanonical
+import Definitions.Def_RequestProject_TwoThirdsLoss
+import Definitions.Def_RequestProject_TwoThirdsBudget
+import Definitions.Def_RequestProject_TwoThirdsProp6
+import Definitions.Def_RequestProject_TwoThirdsGlue
+import Definitions.Def_RequestProject_TwoThirdsDescent
+import Definitions.Def_RequestProject_TwoThirdsLemma9
+import Definitions.Def_RequestProject_TwoThirds
+import Definitions.Def_RequestProject_TwoThirdsBagFilling
+import Definitions.Def_RequestProject_TwoThirdsReduction
+import Definitions.Def_RequestProject_TwoThirdsFull
+import Definitions.Def_RequestProject_Examples
+import Definitions.Def_RequestProject_EnvyRelaxation
+import Definitions.Def_RequestProject_FeigeNorkin
+import Definitions.Def_RequestProject_ElevenTwelfths
+import Definitions.Def_RequestProject_EpsEnvy
+import Definitions.Def_RequestProject_LemmaTen
+import Definitions.Def_RequestProject_LemmaEleven
+import Definitions.Def_RequestProject_ChoresModel
+import Definitions.Def_RequestProject_ChoresEnvy
+import Definitions.Def_RequestProject_ChoresPreAlloc
+import Definitions.Def_RequestProject_ChoresBagLemma
+import Definitions.Def_RequestProject_ChoresBagFilling
+import Definitions.Def_RequestProject_ChoresMMSApprox
+import Definitions.Def_RequestProject_ChoresExamples
+import Definitions.Def_RequestProject_ChoresMMSPartition
+import Definitions.Def_RequestProject_ChoresTwoAgents
+import Definitions.Def_RequestProject_FeigeNorkinChores
+import Definitions.Def_RequestProject_NineteenEighteenths
+import Definitions.Def_RequestProject_EqualProceeds
+import Definitions.Def_RequestProject_EqualProceedsExamples
+import Definitions.Def_RequestProject_EqualProceedsBagFilling
+set_option autoImplicit true
+
+

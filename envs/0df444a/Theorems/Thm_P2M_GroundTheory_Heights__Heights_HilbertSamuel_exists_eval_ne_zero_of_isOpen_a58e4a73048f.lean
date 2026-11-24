@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_exists_eval_ne_zero_of_isOpen_a58e4a73048f
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_exists_eval_ne_zero_of_isOpen_a58e4a73048f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:24:57.010372+00:00
 -- url     : https://prove2.me/theorems/27b935d3-39cb-49ef-980e-2600c1fd2e09

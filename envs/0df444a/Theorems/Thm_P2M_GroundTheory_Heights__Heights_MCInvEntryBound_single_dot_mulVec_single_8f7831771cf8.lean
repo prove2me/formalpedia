@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCInvEntryBound_single_dot_mulVec_single_8f7831771cf8
 -- name    : P2M_GroundTheory_Heights__Heights_MCInvEntryBound_single_dot_mulVec_single_8f7831771cf8
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:35:30.122931+00:00
 -- url     : https://prove2.me/theorems/c1742d92-f02a-4bb4-b505-e08c11db05ff

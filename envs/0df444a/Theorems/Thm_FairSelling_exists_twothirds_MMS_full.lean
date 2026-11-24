@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_exists_twothirds_MMS_full
 -- name    : FairSelling.exists_twothirds_MMS_full
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:16:57.02145+00:00
 -- url     : https://prove2.me/theorems/95e824a4-e320-4804-81f9-d9565b1dacdf

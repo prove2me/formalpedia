@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_NumbersDVR_isMultiHomog_C_cab39863dc5a
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_NumbersDVR_isMultiHomog_C_cab39863dc5a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:27:16.463725+00:00
 -- url     : https://prove2.me/theorems/44113d16-8fdb-4b27-a8b7-037417238e39

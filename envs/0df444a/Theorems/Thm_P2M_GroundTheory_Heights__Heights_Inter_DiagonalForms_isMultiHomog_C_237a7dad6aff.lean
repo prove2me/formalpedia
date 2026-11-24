@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagonalForms_isMultiHomog_C_237a7dad6aff
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagonalForms_isMultiHomog_C_237a7dad6aff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:28:20.682589+00:00
 -- url     : https://prove2.me/theorems/6c7fae4f-edc4-4516-93ee-552b11e78731

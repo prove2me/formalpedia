@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_sumW_base_47f3f062edc6
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_sumW_base_47f3f062edc6
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:15.146891+00:00
 -- url     : https://prove2.me/theorems/785b83df-a9b1-4ab8-8213-60c7f263abe5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagPull_prod_YBlk_228ddc3d6696
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagPull_prod_YBlk_228ddc3d6696
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:28:14.170263+00:00
 -- url     : https://prove2.me/theorems/48eb68aa-8d62-464c-b2a2-625ee5543be6

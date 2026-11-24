@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_isClosed_zeroSetIn_of_ideal_803675c815b8
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_isClosed_zeroSetIn_of_ideal_803675c815b8
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:49:03.22998+00:00
 -- url     : https://prove2.me/theorems/a174177b-434e-4876-80a6-0410be6f7614

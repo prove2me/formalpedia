@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_reduce_to_oneC
 -- name    : FairChores.reduce_to_oneC
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:21:03.233772+00:00
 -- url     : https://prove2.me/theorems/982285d5-282b-48df-8619-4015c58d439c

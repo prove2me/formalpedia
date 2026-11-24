@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_mvPolynomial_int_complex_flat_9507931c25a6
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_mvPolynomial_int_complex_flat_9507931c25a6
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:24:27.559767+00:00
 -- url     : https://prove2.me/theorems/befa5631-2671-4d29-9264-c7d8eb295cde

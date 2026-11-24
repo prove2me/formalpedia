@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_EqualProceedsExampleFour_price_sum_univ
 -- name    : FairSelling.EqualProceedsExampleFour.price_sum_univ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:32:20.55293+00:00
 -- url     : https://prove2.me/theorems/c70de5cf-48df-4c8a-bb81-6cbc016085cb

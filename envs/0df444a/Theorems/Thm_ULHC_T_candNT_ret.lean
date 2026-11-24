@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_candNT_ret
 -- name    : ULHC.T.candNT_ret
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:14:59.094598+00:00
 -- url     : https://prove2.me/theorems/bf36bdc2-e5b2-4b60-97f3-8f52b68e9394

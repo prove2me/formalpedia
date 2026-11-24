@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SemilocMaxIdeals_isUnit_of_83bfca58eca3
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SemilocMaxIdeals_isUnit_of_83bfca58eca3
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:46.392987+00:00
 -- url     : https://prove2.me/theorems/02b5d740-0cad-477f-a997-1e9e39d17871

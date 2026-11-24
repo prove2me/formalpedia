@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_sphMonom_continuous_f
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.sphMonom_continuous_f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:32:08.847804+00:00
 -- url     : https://prove2.me/theorems/f027e786-7e44-4317-8ac4-8c5a200b58eb

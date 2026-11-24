@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_NineteenEighteenths_no_MMS_approx_below_nineteen_eighteenths
 -- name    : FairChores.NineteenEighteenths.no_MMS_approx_below_nineteen_eighteenths
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:29:50.663702+00:00
 -- url     : https://prove2.me/theorems/836701f2-261a-4b5d-9b04-3ca50b8dc7f3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LelongRegularise_abs_half_log_le_044daed9760d
 -- name    : P2M_GroundTheory_Heights__Heights_LelongRegularise_abs_half_log_le_044daed9760d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:53.24359+00:00
 -- url     : https://prove2.me/theorems/877ed81e-743c-4f42-bb89-7ba382a60730

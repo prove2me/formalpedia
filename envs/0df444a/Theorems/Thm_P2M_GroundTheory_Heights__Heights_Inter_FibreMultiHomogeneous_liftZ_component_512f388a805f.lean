@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_FibreMultiHomogeneous_liftZ_component_512f388a805f
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_FibreMultiHomogeneous_liftZ_component_512f388a805f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:29:53.815122+00:00
 -- url     : https://prove2.me/theorems/bd8a6819-9049-45cf-a69e-35b8139e4b65

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ChartNormPts_aeval_homogenise_dacb91173eef
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ChartNormPts_aeval_homogenise_dacb91173eef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:27:25.754835+00:00
 -- url     : https://prove2.me/theorems/306ebd68-7959-4853-bfd9-65834b46f473

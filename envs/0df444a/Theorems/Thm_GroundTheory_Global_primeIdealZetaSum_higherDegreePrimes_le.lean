@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_primeIdealZetaSum_higherDegreePrimes_le
 -- name    : GroundTheory.Global.primeIdealZetaSum_higherDegreePrimes_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:58:12.543226+00:00
 -- url     : https://prove2.me/theorems/3cd91634-a318-467b-b15e-8f1996bff1eb

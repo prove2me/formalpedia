@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_Line_isArithVar_yLine_74eda57965c2
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_Line_isArithVar_yLine_74eda57965c2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:36:00.260627+00:00
 -- url     : https://prove2.me/theorems/22901adc-6e2f-442f-93b1-2128f14cada7

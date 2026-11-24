@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_mixedDiff_of_fin_zero_39ff712c69c1
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_mixedDiff_of_fin_zero_39ff712c69c1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:24:44.55411+00:00
 -- url     : https://prove2.me/theorems/1a8228f9-4ce9-4585-b4cb-0bb8faad1a45

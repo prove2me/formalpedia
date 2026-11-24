@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_exists_reducedC
 -- name    : FairChores.exists_reducedC
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:21:20.811016+00:00
 -- url     : https://prove2.me/theorems/49ed289f-557e-46ba-b444-8e2562b5bb19

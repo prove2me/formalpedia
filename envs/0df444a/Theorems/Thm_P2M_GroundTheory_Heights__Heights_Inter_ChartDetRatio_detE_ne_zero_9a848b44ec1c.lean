@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ChartDetRatio_detE_ne_zero_9a848b44ec1c
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ChartDetRatio_detE_ne_zero_9a848b44ec1c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:27:41.709954+00:00
 -- url     : https://prove2.me/theorems/413f190b-5445-4379-9c57-304f140e2dbf

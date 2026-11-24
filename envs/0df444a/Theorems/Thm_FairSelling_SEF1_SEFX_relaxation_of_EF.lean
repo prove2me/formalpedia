@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_SEF1_SEFX_relaxation_of_EF
 -- name    : FairSelling.SEF1_SEFX_relaxation_of_EF
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:17:46.135344+00:00
 -- url     : https://prove2.me/theorems/971eabd8-4c4f-48e5-bb14-7296c146aeae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_RelaxEx_o_SEF1
 -- name    : FairSelling.RelaxEx.o_SEF1
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:17:38.305373+00:00
 -- url     : https://prove2.me/theorems/93bb1957-2f14-4f92-a505-bc3351a462da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartMongeAmpereAffineInvariance_realCLE_apply_c180c099b79c
 -- name    : P2M_GroundTheory_Heights__Heights_ChartMongeAmpereAffineInvariance_realCLE_apply_c180c099b79c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:32:20.669107+00:00
 -- url     : https://prove2.me/theorems/b81b9f19-f7f2-446e-9c0e-874de87d0092

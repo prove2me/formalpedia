@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowHeightCycleEq_formNorm_one_star_7a2447a07dfa
 -- name    : P2M_GroundTheory_Heights__Heights_ChowHeightCycleEq_formNorm_one_star_7a2447a07dfa
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:02:19.005254+00:00
 -- url     : https://prove2.me/theorems/24808a0e-739c-41fb-9e7f-a675aa527a21

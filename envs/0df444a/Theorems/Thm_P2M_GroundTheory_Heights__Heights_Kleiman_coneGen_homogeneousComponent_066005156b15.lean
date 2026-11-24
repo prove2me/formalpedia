@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_coneGen_homogeneousComponent_066005156b15
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_coneGen_homogeneousComponent_066005156b15
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:11.830823+00:00
 -- url     : https://prove2.me/theorems/d355baa1-e845-4366-80f0-b0f8888cf012

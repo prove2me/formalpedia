@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCBounds_entrySum_nonneg_e371d83920f8
 -- name    : P2M_GroundTheory_Heights__Heights_MCBounds_entrySum_nonneg_e371d83920f8
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:47.340311+00:00
 -- url     : https://prove2.me/theorems/9c72d73b-98c3-4e6b-9d57-083d1610485a

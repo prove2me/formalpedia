@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_hermLine_eq_of_a037cafb6bb9
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_hermLine_eq_of_a037cafb6bb9
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:25:46.085505+00:00
 -- url     : https://prove2.me/theorems/2a0719a3-9120-4554-bba4-5dd8066bf2c8

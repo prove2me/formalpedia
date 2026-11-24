@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_suf_cells
 -- name    : ULHC.suf_cells
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:34:45.133648+00:00
 -- url     : https://prove2.me/theorems/7a98b82e-5d5e-4055-a1a8-c8ed7b926fea

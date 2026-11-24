@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NeuralCollapseCE_ce_minimizers_are_simplex_etf
 -- name    : NeuralCollapseCE.ce_minimizers_are_simplex_etf
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T17:11:47.059478+00:00
 -- url     : https://prove2.me/theorems/39b46756-56ce-4339-8df5-df23c2dcf5db

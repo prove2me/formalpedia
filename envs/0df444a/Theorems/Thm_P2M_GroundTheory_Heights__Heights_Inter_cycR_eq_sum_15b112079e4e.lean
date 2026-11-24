@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_cycR_eq_sum_15b112079e4e
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_cycR_eq_sum_15b112079e4e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:00.877238+00:00
 -- url     : https://prove2.me/theorems/f7e1d180-f3ce-42cd-8f4a-68e150a9fcde

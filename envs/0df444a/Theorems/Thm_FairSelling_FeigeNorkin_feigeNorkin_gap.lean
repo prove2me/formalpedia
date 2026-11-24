@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_FeigeNorkin_feigeNorkin_gap
 -- name    : FairSelling.FeigeNorkin.feigeNorkin_gap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:18:02.713107+00:00
 -- url     : https://prove2.me/theorems/271e9ffe-111d-4fcd-b941-d2d11f68e586

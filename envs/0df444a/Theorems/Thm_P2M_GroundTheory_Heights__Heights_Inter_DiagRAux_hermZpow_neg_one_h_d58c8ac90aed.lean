@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagRAux_hermZpow_neg_one_h_d58c8ac90aed
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagRAux_hermZpow_neg_one_h_d58c8ac90aed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:28:09.733066+00:00
 -- url     : https://prove2.me/theorems/7d2fbd2d-21c0-4dbe-9de8-23b46515736a

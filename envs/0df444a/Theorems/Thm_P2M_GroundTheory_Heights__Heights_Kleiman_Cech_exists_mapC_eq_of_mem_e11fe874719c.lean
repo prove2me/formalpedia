@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_Cech_exists_mapC_eq_of_mem_e11fe874719c
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_Cech_exists_mapC_eq_of_mem_e11fe874719c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:29.22064+00:00
 -- url     : https://prove2.me/theorems/7c874107-fcb2-4a87-8a45-98d2c21af823

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_ZetaPole_dedekindZeta_eq_tsum_ideal
 -- name    : GlobalTheory.Mem.ZetaPole.dedekindZeta_eq_tsum_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:14:55.344099+00:00
 -- url     : https://prove2.me/theorems/58e0d339-8e6f-41de-907d-b72f0a70f5b1

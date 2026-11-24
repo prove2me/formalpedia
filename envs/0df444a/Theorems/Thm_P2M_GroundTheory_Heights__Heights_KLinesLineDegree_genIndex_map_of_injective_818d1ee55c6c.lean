@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KLinesLineDegree_genIndex_map_of_injective_818d1ee55c6c
 -- name    : P2M_GroundTheory_Heights__Heights_KLinesLineDegree_genIndex_map_of_injective_818d1ee55c6c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:07.04048+00:00
 -- url     : https://prove2.me/theorems/14578cd6-a95f-4d07-a3ab-76b2e60b8ce6

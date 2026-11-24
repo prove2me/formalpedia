@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_Line_transcendental_div_d53045909a4d
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_Line_transcendental_div_d53045909a4d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:52.746815+00:00
 -- url     : https://prove2.me/theorems/be0367e7-425b-406b-842e-19da3197b66d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KeyFormula_jacobiTheta__add_int_cadb2154e0f2
 -- name    : P2M_GroundTheory_Heights__Heights_KeyFormula_jacobiTheta__add_int_cadb2154e0f2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:14.894844+00:00
 -- url     : https://prove2.me/theorems/b8ed05c6-263e-4163-b2a1-3428c04af3f6

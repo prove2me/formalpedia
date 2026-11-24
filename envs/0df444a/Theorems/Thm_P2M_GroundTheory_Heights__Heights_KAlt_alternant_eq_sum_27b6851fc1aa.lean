@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KAlt_alternant_eq_sum_27b6851fc1aa
 -- name    : P2M_GroundTheory_Heights__Heights_KAlt_alternant_eq_sum_27b6851fc1aa
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:18.638719+00:00
 -- url     : https://prove2.me/theorems/64ccb851-cfff-4427-b53a-508664d76a68

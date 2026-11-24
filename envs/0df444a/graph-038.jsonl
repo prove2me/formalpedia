@@ -57877,7 +57877,7 @@
 {"parent": "SPP.nonwitnessGroup_le", "child": "MillerRabin_Mathlib_Algebra_Group_Subgroup_Lattice", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Global.isTorsionFree_integer_adicCompletion", "child": "GroundTheory_GlobalFields_CompletionAtPlace", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Global.isTorsionFree_integer_adicCompletion", "child": "GroundTheory_GlobalFields_CompletionAtPlace_Integers", "via": ["solution", "statement"]}
-{"parent": "GroundTheory.Global.summable_indicator_not_prime", "child": "GroundTheory_GlobalFields_TateThesis_DegreeOnePrimes", "via": ["statement"]}
+{"parent": "GroundTheory.Global.summable_indicator_not_prime", "child": "GroundTheory_GlobalFields_TateThesis_DegreeOnePrimes", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.QCoh.Qcqs.app_res", "child": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_ExistsSmulEqMapOfIsCompactOfIsQuasiSeparated", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.QCoh.Qcqs.app_res", "child": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_IsQuasicoherentOfForallExistsAffine", "via": ["solution", "statement"]}
 {"parent": "SPP.spp_unit_iff", "child": "MillerRabin_Val2", "via": ["solution", "statement"]}
@@ -58373,7 +58373,7 @@
 {"parent": "P2M_Bl_general_b_fact_second__goal1_bb5a16c38fea", "child": "Lemmata_GeneralBFactSecondMore_Imports", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.isBaseChange_invariantsMap", "child": "Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_ExistsUnitSmulEqOfBijectiveToSpanSingleton", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.LocalField.continuous_restrictAb", "child": "GroundTheory_LocalFields_MaximalAbelianExtension", "via": ["solution", "statement"]}
-{"parent": "GroundTheory.Global.higherDegreePrimes_subset", "child": "GroundTheory_GlobalFields_TateThesis_DegreeOnePrimes", "via": ["statement"]}
+{"parent": "GroundTheory.Global.higherDegreePrimes_subset", "child": "GroundTheory_GlobalFields_TateThesis_DegreeOnePrimes", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.ProfCoh.exact_connecting_modNMap", "child": "GroundTheory_ProfiniteCohomology_LocalEulerCharacteristic_AdditiveDefs", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.ProfCoh.exact_connecting_modNMap", "child": "GroundTheory_ProfiniteCohomology_LocalEulerCharacteristic_AdditiveSnake", "via": ["solution", "statement"]}
 {"parent": "Formalism.QuantumDeterminants.reverse_cauchy_schwarz_holds", "child": "Formalism_FormalDegreeBessel_FormalDegreeRatio_GBasic", "via": ["statement"]}
@@ -58383,7 +58383,7 @@
 {"parent": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_IdealCharacterLSeriesContinuation", "child": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_ExistsEntireMellinSmoothedDirichletSum", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_IdealCharacterLSeriesContinuation", "child": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_CountableIdealSummableAbsNormRpow", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_IdealCharacterLSeriesContinuation", "child": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_ClassGroupCoprimeRepresentative", "via": ["statement"]}
-{"parent": "GroundTheory.Global.summable_of_le_rationalPrimeUnder", "child": "GroundTheory_GlobalFields_TateThesis_DegreeOnePrimes", "via": ["statement"]}
+{"parent": "GroundTheory.Global.summable_of_le_rationalPrimeUnder", "child": "GroundTheory_GlobalFields_TateThesis_DegreeOnePrimes", "via": ["solution", "statement"]}
 {"parent": "P2M_Formalism_BasicNotions_Examples__NZ_dvd_of_pow_eq_7b799bd31cc9", "child": "Formalism_LocalRingCardinality_SpanPowerMembership_NZTypeA", "via": ["solution", "statement"]}
 {"parent": "P2M_Formalism_BasicNotions_Examples__NZ_dvd_of_pow_eq_7b799bd31cc9", "child": "Formalism_LocalRingCardinality_SpanPowerMembership_NZTypeB", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.sq_sum_eq_sum_sq_add_two_mul_sum_lt", "child": "Development_AbelianVarietyTheory_Proofs_FlagMeasures_SqSumEqSumSqAddTwoMulSumLt", "via": ["solution", "statement"]}
@@ -58596,7 +58596,7 @@
 {"parent": "P2M_Formalism_LFunctionChainParameters_HilbertSchmidtUnitaryInvariance_frame_orth__9fff9c147e91", "child": "Formalism_SizeWindowBrackets_MatrixFamilyBoundsOfCardEqCeil", "via": ["solution", "statement"]}
 {"parent": "P2M_Formalism_LFunctionChainParameters_HilbertSchmidtUnitaryInvariance_frame_orth__9fff9c147e91", "child": "Formalism_SizeWindowBrackets_ChainSlopeWindows_JointDModelAppliesUnitLattice", "via": ["solution", "statement"]}
 {"parent": "P2M_Formalism_LFunctionChainParameters_HilbertSchmidtUnitaryInvariance_frame_orth__9fff9c147e91", "child": "Formalism_SizeWindowBrackets_ChainSlopeWindows_ExistsOrthonormalFrameComplement", "via": ["solution", "statement"]}
-{"parent": "GroundTheory.Global.primeIdealZetaSum_higherDegreePrimes_le", "child": "GroundTheory_GlobalFields_TateThesis_DegreeOnePrimes", "via": ["statement"]}
+{"parent": "GroundTheory.Global.primeIdealZetaSum_higherDegreePrimes_le", "child": "GroundTheory_GlobalFields_TateThesis_DegreeOnePrimes", "via": ["solution", "statement"]}
 {"parent": "P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__sclMat_apply_e2165c80b211", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_GramFiberMeasuresIntegralFormulaStatement", "via": ["solution", "statement"]}
 {"parent": "P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__sclMat_apply_e2165c80b211", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_HaarModularCharacterOfContinuousAction", "via": ["solution", "statement"]}
 {"parent": "P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__sclMat_apply_e2165c80b211", "child": "CompanionTheory_SpectralGeometry_LocalGlobalProofs_AdelicAnalysis_TensorLocallyCompactRingStatement", "via": ["solution", "statement"]}

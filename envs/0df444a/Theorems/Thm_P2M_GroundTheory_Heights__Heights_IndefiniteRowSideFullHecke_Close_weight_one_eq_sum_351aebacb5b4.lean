@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_weight_one_eq_sum_351aebacb5b4
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_weight_one_eq_sum_351aebacb5b4
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:26:17.027155+00:00
 -- url     : https://prove2.me/theorems/d9764b9f-ed76-4be1-9971-14964f5c52fd

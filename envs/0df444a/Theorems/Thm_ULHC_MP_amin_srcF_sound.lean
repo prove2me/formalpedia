@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_MP_amin_srcF_sound
 -- name    : ULHC.MP.amin_srcF_sound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:54:13.243911+00:00
 -- url     : https://prove2.me/theorems/6b1da614-6fbc-4d40-8205-e855d0c5e992

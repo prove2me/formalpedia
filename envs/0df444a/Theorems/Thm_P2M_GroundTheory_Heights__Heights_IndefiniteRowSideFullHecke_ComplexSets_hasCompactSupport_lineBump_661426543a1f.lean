@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_hasCompactSupport_lineBump_661426543a1f
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_hasCompactSupport_lineBump_661426543a1f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:26:11.574456+00:00
 -- url     : https://prove2.me/theorems/bdcfa960-ecff-4657-b9dd-189475ed6f7b

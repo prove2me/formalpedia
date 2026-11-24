@@ -30801,7 +30801,7 @@
 {"parent": "Gilbreath.normalized_prime_gap_binary_head", "child": "Gilbreath.prime_gap_next_extension_bound", "via": ["solution"]}
 {"parent": "Gilbreath.normalized_prime_gap_binary_head", "child": "Gilbreath.prime_gap_ordered_extension_condition", "via": ["solution"]}
 {"parent": "Gilbreath.normalized_prime_gap_binary_head", "child": "gilbreath_triangle", "via": ["statement"]}
-{"parent": "Gilbreath.prime_gap_extension_fold_characterization", "child": "gilbreath_finite_extension", "via": ["statement"]}
+{"parent": "Gilbreath.prime_gap_extension_fold_characterization", "child": "gilbreath_finite_extension", "via": ["solution", "statement"]}
 {"parent": "Gilbreath.prime_gap_finite_criterion_conditions", "child": "Gilbreath.halved_prime_gap_conditions", "via": ["solution"]}
 {"parent": "Gilbreath.prime_gap_finite_criterion_conditions", "child": "Gilbreath.prime_gap_positive_normalization", "via": ["solution"]}
 {"parent": "Gilbreath.prime_gap_finite_criterion_conditions", "child": "gilbreath_triangle", "via": ["solution", "statement"]}

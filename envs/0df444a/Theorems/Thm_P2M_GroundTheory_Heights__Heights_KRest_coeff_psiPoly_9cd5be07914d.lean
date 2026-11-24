@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KRest_coeff_psiPoly_9cd5be07914d
 -- name    : P2M_GroundTheory_Heights__Heights_KRest_coeff_psiPoly_9cd5be07914d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:16.656347+00:00
 -- url     : https://prove2.me/theorems/c07a0588-1567-4799-9ac7-1200adbea561

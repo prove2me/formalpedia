@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_LitCounterexample_oo_SEFX
 -- name    : FairChores.LitCounterexample.oo_SEFX
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:22:38.241852+00:00
 -- url     : https://prove2.me/theorems/a740321d-b837-4d49-9776-2f00c19ed70b

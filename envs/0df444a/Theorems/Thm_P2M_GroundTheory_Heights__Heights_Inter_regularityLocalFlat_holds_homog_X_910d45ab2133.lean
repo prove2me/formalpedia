@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_regularityLocalFlat_holds_homog_X_910d45ab2133
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_regularityLocalFlat_holds_homog_X_910d45ab2133
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:37.505709+00:00
 -- url     : https://prove2.me/theorems/b7bb275d-0b2d-4321-9d1b-ab1c84cc3e77

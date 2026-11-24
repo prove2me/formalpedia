@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_isMultiHomog_prod_X_pow_104a77d0415d
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_isMultiHomog_prod_X_pow_104a77d0415d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:20.182774+00:00
 -- url     : https://prove2.me/theorems/def56054-7eac-4bbf-b06c-6c5a6a03e081

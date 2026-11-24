@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_locToSemiloc_coe_05d28c336456
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_locToSemiloc_coe_05d28c336456
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:35:02.545226+00:00
 -- url     : https://prove2.me/theorems/3bb1ebb4-e8bd-4d2e-825a-721a26874cde

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_not_SEFXlit_relaxation_of_EF
 -- name    : FairSelling.not_SEFXlit_relaxation_of_EF
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:17:37.3396+00:00
 -- url     : https://prove2.me/theorems/fef81ab9-2d6f-408e-9af1-b40e4fdabde7

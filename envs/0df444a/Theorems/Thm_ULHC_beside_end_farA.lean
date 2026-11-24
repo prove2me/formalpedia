@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_beside_end_farA
 -- name    : ULHC.beside_end_farA
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:38:12.533889+00:00
 -- url     : https://prove2.me/theorems/23d55b50-8ed5-4675-a892-01ad4712eca8

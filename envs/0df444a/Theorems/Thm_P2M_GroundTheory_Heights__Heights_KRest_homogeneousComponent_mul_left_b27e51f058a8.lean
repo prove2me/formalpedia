@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KRest_homogeneousComponent_mul_left_b27e51f058a8
 -- name    : P2M_GroundTheory_Heights__Heights_KRest_homogeneousComponent_mul_left_b27e51f058a8
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:15.559192+00:00
 -- url     : https://prove2.me/theorems/1e55e765-47a6-4e8d-a3be-527ff0ecab91

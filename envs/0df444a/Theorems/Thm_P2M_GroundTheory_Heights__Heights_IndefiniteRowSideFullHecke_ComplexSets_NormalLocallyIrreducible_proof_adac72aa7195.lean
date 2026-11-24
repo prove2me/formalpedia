@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_NormalLocallyIrreducible_proof_adac72aa7195
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_NormalLocallyIrreducible_proof_adac72aa7195
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:25:57.624795+00:00
 -- url     : https://prove2.me/theorems/3a83ad25-bafb-4879-85b5-07548cdaf9b1

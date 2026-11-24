@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_segreBlockEmbedding_injective_86ede2a182f9
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_segreBlockEmbedding_injective_86ede2a182f9
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:16.247244+00:00
 -- url     : https://prove2.me/theorems/e79af873-8f3b-4291-b6f6-4a07e134b77a

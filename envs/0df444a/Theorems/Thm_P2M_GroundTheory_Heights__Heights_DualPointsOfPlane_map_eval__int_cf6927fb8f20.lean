@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualPointsOfPlane_map_eval__int_cf6927fb8f20
 -- name    : P2M_GroundTheory_Heights__Heights_DualPointsOfPlane_map_eval__int_cf6927fb8f20
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:32:45.627679+00:00
 -- url     : https://prove2.me/theorems/731d4cc4-0855-41b8-b6ac-88a299fdd554

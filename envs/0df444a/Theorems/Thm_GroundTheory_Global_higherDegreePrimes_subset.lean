@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_higherDegreePrimes_subset
 -- name    : GroundTheory.Global.higherDegreePrimes_subset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:57:30.591385+00:00
 -- url     : https://prove2.me/theorems/49c0638d-da17-43e6-a2d7-c2e922d0eb98

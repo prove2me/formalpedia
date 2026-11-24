@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeModel_dehom_single_zero_55c62bc01ab6
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeModel_dehom_single_zero_55c62bc01ab6
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:49.527001+00:00
 -- url     : https://prove2.me/theorems/69945283-7343-4e06-aef4-e62c8fd28157

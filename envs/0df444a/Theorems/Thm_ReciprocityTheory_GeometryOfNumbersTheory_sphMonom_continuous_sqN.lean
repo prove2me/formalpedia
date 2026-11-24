@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_sphMonom_continuous_sqN
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.sphMonom_continuous_sqN
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:32:24.699413+00:00
 -- url     : https://prove2.me/theorems/77947456-aef0-4858-b98e-50dd7749aeb4

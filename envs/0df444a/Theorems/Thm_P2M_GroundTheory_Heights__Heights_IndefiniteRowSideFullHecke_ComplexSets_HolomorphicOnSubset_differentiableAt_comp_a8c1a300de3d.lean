@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_HolomorphicOnSubset_differentiableAt_comp_a8c1a300de3d
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_HolomorphicOnSubset_differentiableAt_comp_a8c1a300de3d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:49:05.4026+00:00
 -- url     : https://prove2.me/theorems/0613744a-bf29-4fa8-bece-2b1ed408448e

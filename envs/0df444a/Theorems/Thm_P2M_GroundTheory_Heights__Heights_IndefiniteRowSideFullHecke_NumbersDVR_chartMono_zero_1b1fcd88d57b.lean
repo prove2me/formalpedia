@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_NumbersDVR_chartMono_zero_1b1fcd88d57b
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_NumbersDVR_chartMono_zero_1b1fcd88d57b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:27:12.251804+00:00
 -- url     : https://prove2.me/theorems/e348258f-4a77-431c-b96e-f7d190329816

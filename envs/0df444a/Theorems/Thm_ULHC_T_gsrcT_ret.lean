@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_T_gsrcT_ret
 -- name    : ULHC.T.gsrcT_ret
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:14:01.938471+00:00
 -- url     : https://prove2.me/theorems/a01f869d-ebc8-4f11-bbad-1e6fd0065e64

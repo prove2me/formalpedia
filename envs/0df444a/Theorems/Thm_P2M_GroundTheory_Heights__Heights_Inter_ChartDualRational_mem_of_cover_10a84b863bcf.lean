@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ChartDualRational_mem_of_cover_10a84b863bcf
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ChartDualRational_mem_of_cover_10a84b863bcf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:27:57.21958+00:00
 -- url     : https://prove2.me/theorems/a2bcf3de-02fe-4c31-925f-bc665b85c826

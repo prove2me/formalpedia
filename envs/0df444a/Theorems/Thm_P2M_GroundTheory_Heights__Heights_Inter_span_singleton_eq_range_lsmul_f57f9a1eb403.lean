@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_span_singleton_eq_range_lsmul_f57f9a1eb403
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_span_singleton_eq_range_lsmul_f57f9a1eb403
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:22.398982+00:00
 -- url     : https://prove2.me/theorems/7b2c55f1-b364-43ec-9c2f-fe52b4061c42

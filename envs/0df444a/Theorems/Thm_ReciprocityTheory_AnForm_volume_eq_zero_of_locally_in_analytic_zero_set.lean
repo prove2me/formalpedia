@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_volume_eq_zero_of_locally_in_analytic_zero_set
 -- name    : ReciprocityTheory.AnForm.volume_eq_zero_of_locally_in_analytic_zero_set
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:32:46.43013+00:00
 -- url     : https://prove2.me/theorems/2a93a918-d4ec-4344-beea-8105c23c9e06

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_eval_psiPoly
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.eval_psiPoly
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:56:42.294583+00:00
 -- url     : https://prove2.me/theorems/2a0cbad4-c2a5-4150-a718-4b56edc91773

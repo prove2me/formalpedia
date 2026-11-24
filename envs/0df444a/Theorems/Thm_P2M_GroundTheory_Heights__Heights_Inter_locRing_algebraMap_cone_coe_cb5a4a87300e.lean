@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_locRing_algebraMap_cone_coe_cb5a4a87300e
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_locRing_algebraMap_cone_coe_cb5a4a87300e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:09.754803+00:00
 -- url     : https://prove2.me/theorems/82349550-5a72-4c78-aaa5-affd42448368

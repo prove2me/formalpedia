@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagonalForms_lineVal_cross_520c123127dc
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagonalForms_lineVal_cross_520c123127dc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:28:14.704593+00:00
 -- url     : https://prove2.me/theorems/2db82bda-3d21-42a4-9622-b6c97a442dc3

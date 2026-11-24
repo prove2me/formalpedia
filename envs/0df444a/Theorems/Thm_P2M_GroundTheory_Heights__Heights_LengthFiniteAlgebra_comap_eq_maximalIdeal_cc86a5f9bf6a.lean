@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LengthFiniteAlgebra_comap_eq_maximalIdeal_cc86a5f9bf6a
 -- name    : P2M_GroundTheory_Heights__Heights_LengthFiniteAlgebra_comap_eq_maximalIdeal_cc86a5f9bf6a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:41.162536+00:00
 -- url     : https://prove2.me/theorems/23412528-c014-4f36-916a-df388cbfb617

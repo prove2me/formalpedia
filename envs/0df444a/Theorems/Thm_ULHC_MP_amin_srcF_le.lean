@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_MP_amin_srcF_le
 -- name    : ULHC.MP.amin_srcF_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:54:23.072415+00:00
 -- url     : https://prove2.me/theorems/b22b796b-3717-48a8-8acc-9a0d1bbad368

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IsolatedFibreOpenPoly_graphPt_natAdd_be63f7604ada
 -- name    : P2M_GroundTheory_Heights__Heights_IsolatedFibreOpenPoly_graphPt_natAdd_be63f7604ada
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:46.30804+00:00
 -- url     : https://prove2.me/theorems/acdf2e81-0a8d-4ef6-87b0-60bfcece1eeb

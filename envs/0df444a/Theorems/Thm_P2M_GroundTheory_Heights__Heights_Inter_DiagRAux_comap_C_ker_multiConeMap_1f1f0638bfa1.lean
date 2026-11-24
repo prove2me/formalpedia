@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagRAux_comap_C_ker_multiConeMap_1f1f0638bfa1
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagRAux_comap_C_ker_multiConeMap_1f1f0638bfa1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:28:11.832481+00:00
 -- url     : https://prove2.me/theorems/d9846264-970c-4f39-8110-e4693ab15884

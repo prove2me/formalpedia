@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_AmpleCover_sub_twist_fad4ee8c76b1
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_AmpleCover_sub_twist_fad4ee8c76b1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:58.147121+00:00
 -- url     : https://prove2.me/theorems/ab995f19-4c05-4d65-98f2-917f35c0cc08

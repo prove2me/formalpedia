@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_EqualProceedsBagFilling_exists_equalProceeds_MMSEP_approx
 -- name    : FairSelling.EqualProceedsBagFilling.exists_equalProceeds_MMSEP_approx
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:36:18.139957+00:00
 -- url     : https://prove2.me/theorems/fce1d5f1-0f72-4c22-a277-6b1378dcad1b

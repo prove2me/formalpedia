@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogInt_prod_scaleP_fcddd27cbced
 -- name    : P2M_GroundTheory_Heights__Heights_LogInt_prod_scaleP_fcddd27cbced
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:28.746267+00:00
 -- url     : https://prove2.me/theorems/2eb1c720-3ab8-4f83-a55a-0d0ffc895bd2

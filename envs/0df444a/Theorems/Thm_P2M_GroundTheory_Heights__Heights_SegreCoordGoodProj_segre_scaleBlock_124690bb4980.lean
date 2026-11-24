@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SegreCoordGoodProj_segre_scaleBlock_124690bb4980
 -- name    : P2M_GroundTheory_Heights__Heights_SegreCoordGoodProj_segre_scaleBlock_124690bb4980
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:31:25.832527+00:00
 -- url     : https://prove2.me/theorems/1fd4a589-d9c9-4a7b-9a0f-814ea96897bd

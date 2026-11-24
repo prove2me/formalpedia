@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelaunayStretch_bspline_basic_properties
 -- name    : DelaunayStretch.bspline_basic_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-24T03:24:41.569038+00:00
 -- url     : https://prove2.me/theorems/57bbfa8c-cc53-4af7-8c3c-a09398f22bc1

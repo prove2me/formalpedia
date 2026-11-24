@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PFFibreMultProof_ker_baseSubst_le_237afa69f022
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PFFibreMultProof_ker_baseSubst_le_237afa69f022
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:29:20.102474+00:00
 -- url     : https://prove2.me/theorems/8ddf0add-d9cd-4f57-ac14-5d457774eb41

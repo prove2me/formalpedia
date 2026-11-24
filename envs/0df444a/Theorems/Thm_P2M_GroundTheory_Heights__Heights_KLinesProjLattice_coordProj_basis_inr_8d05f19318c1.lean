@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KLinesProjLattice_coordProj_basis_inr_8d05f19318c1
 -- name    : P2M_GroundTheory_Heights__Heights_KLinesProjLattice_coordProj_basis_inr_8d05f19318c1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:20.04348+00:00
 -- url     : https://prove2.me/theorems/2abb4d6f-b97e-46bf-87ef-0e8ab4a5274e

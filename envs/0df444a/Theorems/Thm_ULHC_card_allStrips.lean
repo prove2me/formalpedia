@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_card_allStrips
 -- name    : ULHC.card_allStrips
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:56:10.358292+00:00
 -- url     : https://prove2.me/theorems/a34d0322-e9f0-4a50-9328-8d633de66d81

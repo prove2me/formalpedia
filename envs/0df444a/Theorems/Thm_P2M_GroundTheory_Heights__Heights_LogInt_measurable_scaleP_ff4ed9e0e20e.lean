@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogInt_measurable_scaleP_ff4ed9e0e20e
 -- name    : P2M_GroundTheory_Heights__Heights_LogInt_measurable_scaleP_ff4ed9e0e20e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:21.508279+00:00
 -- url     : https://prove2.me/theorems/6ffd845d-7991-429f-81f0-5c275f2c3ebc

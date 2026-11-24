@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_AvoidRing_isMultiHomog_prod_c3a54fd3ed96
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_AvoidRing_isMultiHomog_prod_c3a54fd3ed96
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:27:13.390356+00:00
 -- url     : https://prove2.me/theorems/bc1ed8ac-df03-4f43-a669-1fa7e6cb4959

@@ -39779,7 +39779,7 @@
 {"parent": "GlobalTheory.RealWeil.hasDerivAt_inner_rho", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_IteratedLineDerivMemWeylAlg", "via": ["statement"]}
 {"parent": "CompanionTheory.ThKR.LL.ld_big", "child": "CompanionTheory_ThickeningEstimates_LieGroupReduction_NormExpSubLe", "via": ["statement"]}
 {"parent": "CompanionTheory.ThKR.LL.ld_big", "child": "CompanionTheory_ThickeningEstimates_LieGroupReduction_IsoOfIntegral", "via": ["statement"]}
-{"parent": "GroundTheory.Arith.SchemeCoh.IsRegularLocalRing.isDomain", "child": "GroundTheory_ArithmeticGeometry_SchemeCohomology_RegularLocalDomain", "via": ["statement"]}
+{"parent": "GroundTheory.Arith.SchemeCoh.IsRegularLocalRing.isDomain", "child": "GroundTheory_ArithmeticGeometry_SchemeCohomology_RegularLocalDomain", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Global.Elliptic.nonneg_of_toNat_neg_untopD_eq_zero", "child": "GroundTheory_GlobalFields_ComplexMultiplication_ResidueTheorem", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Global.Elliptic.nonneg_of_toNat_neg_untopD_eq_zero", "child": "GroundTheory_GlobalFields_ComplexMultiplication_EllipticRational", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Global.Elliptic.nonneg_of_toNat_neg_untopD_eq_zero", "child": "GroundTheory_GlobalFields_ComplexMultiplication_EllipticDegree", "via": ["solution", "statement"]}

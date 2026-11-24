@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_end_alt
 -- name    : ULHC.end_alt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:55:20.687668+00:00
 -- url     : https://prove2.me/theorems/f2115812-e9dc-4efc-a824-a347d369a8d1

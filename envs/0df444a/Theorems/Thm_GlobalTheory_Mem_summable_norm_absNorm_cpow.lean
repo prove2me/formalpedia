@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_summable_norm_absNorm_cpow
 -- name    : GlobalTheory.Mem.summable_norm_absNorm_cpow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:19:27.071185+00:00
 -- url     : https://prove2.me/theorems/62345fd0-ce9e-473e-a222-c4e8ebf52157

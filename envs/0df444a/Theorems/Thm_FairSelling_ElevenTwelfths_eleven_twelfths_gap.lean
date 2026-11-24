@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_ElevenTwelfths_eleven_twelfths_gap
 -- name    : FairSelling.ElevenTwelfths.eleven_twelfths_gap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:18:57.991819+00:00
 -- url     : https://prove2.me/theorems/0b033616-ba25-46b8-97cb-7a75405c3f5d

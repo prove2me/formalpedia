@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_summable_of_le_rationalPrimeUnder
 -- name    : GroundTheory.Global.summable_of_le_rationalPrimeUnder
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:58:33.887053+00:00
 -- url     : https://prove2.me/theorems/5956b5d9-936a-4c58-a105-b8afc42f8b42

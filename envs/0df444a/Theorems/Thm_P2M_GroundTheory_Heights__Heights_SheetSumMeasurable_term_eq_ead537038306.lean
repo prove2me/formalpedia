@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SheetSumMeasurable_term_eq_ead537038306
 -- name    : P2M_GroundTheory_Heights__Heights_SheetSumMeasurable_term_eq_ead537038306
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:10:10.581224+00:00
 -- url     : https://prove2.me/theorems/e8835cf2-9618-4501-a383-1263f150775b

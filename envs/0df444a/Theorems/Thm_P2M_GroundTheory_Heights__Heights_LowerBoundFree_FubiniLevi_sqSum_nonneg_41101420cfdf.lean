@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_FubiniLevi_sqSum_nonneg_41101420cfdf
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_FubiniLevi_sqSum_nonneg_41101420cfdf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:41.9578+00:00
 -- url     : https://prove2.me/theorems/48d74d07-1277-4959-8541-3edc5ab80f3f

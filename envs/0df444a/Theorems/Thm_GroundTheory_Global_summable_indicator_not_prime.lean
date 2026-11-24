@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_summable_indicator_not_prime
 -- name    : GroundTheory.Global.summable_indicator_not_prime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:58:30.97507+00:00
 -- url     : https://prove2.me/theorems/31869574-dd34-4de2-a6a9-7aa90af6424b

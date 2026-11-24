@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_homMap_monomial_be73811eb40e
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_homMap_monomial_be73811eb40e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:26:14.497746+00:00
 -- url     : https://prove2.me/theorems/cd7569cb-0610-4b4b-aaa7-807077b3d5e6
