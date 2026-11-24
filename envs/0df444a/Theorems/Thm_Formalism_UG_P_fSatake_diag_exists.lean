@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_fSatake_diag_exists
 -- name    : Formalism.UG.P.fSatake_diag_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:32:10.052906+00:00
 -- url     : https://prove2.me/theorems/34dc2310-d988-4847-b50d-a5e0552bf656

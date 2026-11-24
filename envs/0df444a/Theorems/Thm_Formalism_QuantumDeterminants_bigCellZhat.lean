@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_bigCellZhat
 -- name    : Formalism.QuantumDeterminants.bigCellZhat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:10:10.59958+00:00
 -- url     : https://prove2.me/theorems/e8eafbc5-42be-4b51-8746-2d4e7e69fd30

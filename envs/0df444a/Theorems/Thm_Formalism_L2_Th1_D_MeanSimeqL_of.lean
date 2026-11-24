@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_MeanSimeqL_of
 -- name    : Formalism.L2.Th1.D.MeanSimeqL_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:37:33.316582+00:00
 -- url     : https://prove2.me/theorems/f74b8c80-d166-457a-ab1b-52d3a29c7227

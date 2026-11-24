@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_arr_finset_sum_apply
 -- name    : Formalism.REAL.arr_finset_sum_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:20:26.244875+00:00
 -- url     : https://prove2.me/theorems/3f46f4f1-31f1-4cde-ad61-af78e9f41a82

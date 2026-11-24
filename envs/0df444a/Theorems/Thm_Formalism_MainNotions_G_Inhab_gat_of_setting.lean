@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_Inhab_gat_of_setting
 -- name    : Formalism.MainNotions.G.Inhab.gat_of_setting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:56:29.775134+00:00
 -- url     : https://prove2.me/theorems/8f61386c-4046-4fec-b826-c311f38c453a

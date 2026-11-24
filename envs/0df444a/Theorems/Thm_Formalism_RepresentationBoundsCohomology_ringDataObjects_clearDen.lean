@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_ringDataObjects_clearDen
 -- name    : Formalism.RepresentationBoundsCohomology.ringDataObjects.clearDen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:29:23.463478+00:00
 -- url     : https://prove2.me/theorems/0d062eea-5504-4d7c-977c-6433085c884a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_J_classReps_tr
 -- name    : Formalism.MainNotions.J.classReps_tr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:57:29.327868+00:00
 -- url     : https://prove2.me/theorems/a89fc758-4cee-46da-b6bc-306b6f1b9bbe

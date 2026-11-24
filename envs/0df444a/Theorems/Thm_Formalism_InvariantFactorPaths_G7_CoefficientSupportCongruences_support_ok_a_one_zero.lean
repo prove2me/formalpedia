@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_CoefficientSupportCongruences_support_ok_a_one_zero
 -- name    : Formalism.InvariantFactorPaths.G7.CoefficientSupportCongruences.support_ok_a_one_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:21:47.891202+00:00
 -- url     : https://prove2.me/theorems/92f0c3d5-a881-4067-a4f1-788939ae1bbf

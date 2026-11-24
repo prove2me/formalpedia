@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_out_smul_out
 -- name    : Formalism.UG.P.out_smul_out
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:33:20.496939+00:00
 -- url     : https://prove2.me/theorems/0b46f825-7833-4b1c-a3e0-fbaa701e5fa7

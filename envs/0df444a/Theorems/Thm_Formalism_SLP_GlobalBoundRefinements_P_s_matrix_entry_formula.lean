@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_GlobalBoundRefinements_P_s_matrix_entry_formula
 -- name    : Formalism.SLP.GlobalBoundRefinements.P.s_matrix_entry_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:28:43.705106+00:00
 -- url     : https://prove2.me/theorems/d841185f-4a18-4a0a-afbe-0008e64ba621

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_P_eq_zmultiples_index
 -- name    : Formalism.SLP.P.eq_zmultiples_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:28:40.291805+00:00
 -- url     : https://prove2.me/theorems/5a5a6b07-1e94-4f88-b307-cf40d63d7914

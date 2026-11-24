@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_derivative_keeps_space_holds
 -- name    : Formalism.InvariantFactorPaths.L4.derivative_keeps_space_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:40.319802+00:00
 -- url     : https://prove2.me/theorems/1bdbea78-d174-4e51-b4db-fbb2d4647159

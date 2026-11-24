@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_CharacterBalanceMoves_th_le
 -- name    : Deduction.CharacterBalanceMoves.th_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:34:07.132524+00:00
 -- url     : https://prove2.me/theorems/4303b4be-f5a6-420d-88bf-27437d9a2f63

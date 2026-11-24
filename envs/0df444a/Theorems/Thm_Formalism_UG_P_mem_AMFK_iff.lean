@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_mem_AMFK_iff
 -- name    : Formalism.UG.P.mem_AMFK_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:33:25.282509+00:00
 -- url     : https://prove2.me/theorems/bd92d900-63db-4262-909e-eb1b58fa1993

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_tyS_eq
 -- name    : Formalism.L2.FormalSeriesBounds.tyS_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:19:19.644579+00:00
 -- url     : https://prove2.me/theorems/e5ef6251-792a-4bcc-a565-4c5985a7e601

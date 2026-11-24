@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_Inhab_oneFn_mem
 -- name    : Formalism.MainNotions.G.Inhab.oneFn_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:42:34.13919+00:00
 -- url     : https://prove2.me/theorems/bcdb9860-95dc-4dca-8187-2614b1b26242

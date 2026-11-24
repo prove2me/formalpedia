@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_teichSigma
 -- name    : Formalism.L2.Th1.D.teichSigma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:14:21.114791+00:00
 -- url     : https://prove2.me/theorems/1a57c4d7-e404-4081-9a9b-5ad67eca01de

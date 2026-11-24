@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SA_P_absNorm_le_norm
 -- name    : Formalism.SA.P.absNorm_le_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:27:16.655243+00:00
 -- url     : https://prove2.me/theorems/ab3125d3-d525-4e93-a2ee-84d99238e92f

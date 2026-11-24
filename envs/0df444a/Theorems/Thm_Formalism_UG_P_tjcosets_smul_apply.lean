@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_tjcosets_smul_apply
 -- name    : Formalism.UG.P.tjcosets_smul_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:37:49.216274+00:00
 -- url     : https://prove2.me/theorems/315adbc3-4c08-408e-922f-b96100938a3f

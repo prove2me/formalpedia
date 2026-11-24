@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ResultantValuation_AdjugateJacobi_det_twoCol
 -- name    : Formalism.ResultantValuation.AdjugateJacobi.det_twoCol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:27:33.071584+00:00
 -- url     : https://prove2.me/theorems/30521449-9fe5-46de-9ed4-1523dd54b032

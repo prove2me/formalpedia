@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_finite_quotient_of_smul_mem
 -- name    : GroundTheory.Global.finite_quotient_of_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:28:23.19096+00:00
 -- url     : https://prove2.me/theorems/7fbecbe9-92ca-48d0-bcb2-c581d27c3c11

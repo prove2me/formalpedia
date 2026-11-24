@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_NMul_bweight_add
 -- name    : Formalism.NormUnitaryCountingLemmas.NMul.bweight_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:16:43.564846+00:00
 -- url     : https://prove2.me/theorems/4d72a55e-796c-418b-b6ce-62db2dd98c97

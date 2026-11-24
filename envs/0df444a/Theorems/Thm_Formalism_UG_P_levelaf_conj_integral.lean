@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_levelaf_conj_integral
 -- name    : Formalism.UG.P.levelaf_conj_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:33:40.153784+00:00
 -- url     : https://prove2.me/theorems/419ef3a1-c312-4867-b233-6bd2de9a0851

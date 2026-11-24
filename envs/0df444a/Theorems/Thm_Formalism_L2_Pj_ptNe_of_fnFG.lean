@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_ptNe_of_fnFG
 -- name    : Formalism.L2.Pj.ptNe_of_fnFG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:22:48.572871+00:00
 -- url     : https://prove2.me/theorems/0655a526-7752-4054-a11a-5b975df87ded

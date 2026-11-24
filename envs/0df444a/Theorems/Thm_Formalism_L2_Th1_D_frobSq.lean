@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_frobSq
 -- name    : Formalism.L2.Th1.D.frobSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:14:12.812602+00:00
 -- url     : https://prove2.me/theorems/56046791-9374-49b0-9428-bf0c5a350ad4

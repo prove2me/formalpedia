@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_tSpec_of
 -- name    : Formalism.L2.Th1.A.tSpec_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:55.981594+00:00
 -- url     : https://prove2.me/theorems/0a582d83-1e40-41b7-a974-d5fa4a06eae9

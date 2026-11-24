@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SA_P_trace_pow_restrict_maxGen
 -- name    : Formalism.SA.P.trace_pow_restrict_maxGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:27:57.424804+00:00
 -- url     : https://prove2.me/theorems/4cc3321d-e87f-4e8c-bc64-d7f59339ed46

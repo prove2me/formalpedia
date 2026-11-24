@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_sf_sign
 -- name    : Formalism.UG.P.sf_sign
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:34:15.078297+00:00
 -- url     : https://prove2.me/theorems/e05977da-9f95-494c-bfc0-b7e1e22964fc

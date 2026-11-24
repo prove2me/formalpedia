@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_levelafQ_sum
 -- name    : Formalism.UG.P.levelafQ_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:33:22.773184+00:00
 -- url     : https://prove2.me/theorems/e569deed-fa04-4602-b14f-ee5fd1509817

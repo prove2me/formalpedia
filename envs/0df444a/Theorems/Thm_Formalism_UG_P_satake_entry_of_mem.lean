@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satake_entry_of_mem
 -- name    : Formalism.UG.P.satake_entry_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:32:50.142828+00:00
 -- url     : https://prove2.me/theorems/e15df161-cdd3-4576-8b46-69f4f8ef0190

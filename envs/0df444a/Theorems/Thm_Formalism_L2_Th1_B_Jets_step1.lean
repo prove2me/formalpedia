@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Jets_step1
 -- name    : Formalism.L2.Th1.B.Jets.step1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:52.885614+00:00
 -- url     : https://prove2.me/theorems/1fa52099-c79d-4c59-90da-26626229479d

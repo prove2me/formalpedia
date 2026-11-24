@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankGapBounds_LocalQuadraticParts_pick
 -- name    : Formalism.RankGapBounds.LocalQuadraticParts.pick
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:25:48.466801+00:00
 -- url     : https://prove2.me/theorems/bc9e08a0-a98f-4347-8a87-7730248e1ff2

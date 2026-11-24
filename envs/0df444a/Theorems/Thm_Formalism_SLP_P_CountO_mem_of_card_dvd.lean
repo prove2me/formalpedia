@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_P_CountO_mem_of_card_dvd
 -- name    : Formalism.SLP.P.CountO.mem_of_card_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:29:14.945828+00:00
 -- url     : https://prove2.me/theorems/12766331-d9aa-47eb-ae7b-930e3b4fa0db

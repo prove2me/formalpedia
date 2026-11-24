@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_theta_map_apply
 -- name    : Formalism.REAL.theta_map_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:26:09.115227+00:00
 -- url     : https://prove2.me/theorems/fed9b012-c76b-425d-a75b-f38e3149176e

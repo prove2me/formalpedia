@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_TorusIntegralHomogeneous_proof_e9e3b395e12d
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_TorusIntegralHomogeneous_proof_e9e3b395e12d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:27:53.042968+00:00
 -- url     : https://prove2.me/theorems/7e50ab6e-ec94-4f78-b43a-4f7153720f3c

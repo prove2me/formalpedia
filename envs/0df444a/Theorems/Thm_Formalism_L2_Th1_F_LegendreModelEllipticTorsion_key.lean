@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_LegendreModelEllipticTorsion_key
 -- name    : Formalism.L2.Th1.F.LegendreModelEllipticTorsion.key
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:56:12.849206+00:00
 -- url     : https://prove2.me/theorems/48e5a586-66c4-4ea3-bf22-fe6a1fcb5dc4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_diagonal_inverse_holds
 -- name    : Formalism.QuantumDeterminants.diagonal_inverse_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:07:54.050152+00:00
 -- url     : https://prove2.me/theorems/6756fe4e-9937-4fa3-9082-acae6e41af0d

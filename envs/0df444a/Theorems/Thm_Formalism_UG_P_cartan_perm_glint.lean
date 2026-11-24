@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_cartan_perm_glint
 -- name    : Formalism.UG.P.cartan_perm_glint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:30:27.367267+00:00
 -- url     : https://prove2.me/theorems/0866651c-c280-45a6-8b83-ce2c5677c2a2

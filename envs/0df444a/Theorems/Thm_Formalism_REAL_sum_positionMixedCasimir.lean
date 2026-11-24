@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_sum_positionMixedCasimir
 -- name    : Formalism.REAL.sum_positionMixedCasimir
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:26:32.755917+00:00
 -- url     : https://prove2.me/theorems/581a5516-8579-4c5e-8853-fbb117a841a7

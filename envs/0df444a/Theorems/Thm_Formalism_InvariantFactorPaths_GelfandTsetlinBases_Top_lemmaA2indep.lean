@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Top_lemmaA2indep
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.Top.lemmaA2indep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:14:02.683504+00:00
 -- url     : https://prove2.me/theorems/d0b4bd97-7b42-4bef-961e-19cc6f3f4117

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GermD_val_eL_trunc
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GermD.val_eL_trunc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:24:28.40918+00:00
 -- url     : https://prove2.me/theorems/f38996da-113e-4408-8942-c9fdc9f1dcf3

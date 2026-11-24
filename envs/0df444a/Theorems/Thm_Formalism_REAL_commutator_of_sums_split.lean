@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_commutator_of_sums_split
 -- name    : Formalism.REAL.commutator_of_sums_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:20:02.118917+00:00
 -- url     : https://prove2.me/theorems/15755ad9-3ced-4e9f-86a4-a3a2eaa73aa5

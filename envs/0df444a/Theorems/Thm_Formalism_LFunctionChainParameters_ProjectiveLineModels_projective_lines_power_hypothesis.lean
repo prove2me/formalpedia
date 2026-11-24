@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ProjectiveLineModels_projective_lines_power_hypothesis
 -- name    : Formalism.LFunctionChainParameters.ProjectiveLineModels.projective_lines_power_hypothesis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:36:32.187857+00:00
 -- url     : https://prove2.me/theorems/cd61bc72-438d-4469-9a37-8db895353f09

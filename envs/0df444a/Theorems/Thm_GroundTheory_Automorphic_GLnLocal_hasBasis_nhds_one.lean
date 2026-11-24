@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_hasBasis_nhds_one
 -- name    : GroundTheory.Automorphic.GLnLocal.hasBasis_nhds_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:30:56.717511+00:00
 -- url     : https://prove2.me/theorems/dcbcb7ef-44ab-4a68-babd-dac346381560

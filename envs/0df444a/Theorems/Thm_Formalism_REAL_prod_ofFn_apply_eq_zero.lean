@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_prod_ofFn_apply_eq_zero
 -- name    : Formalism.REAL.prod_ofFn_apply_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:23:59.934995+00:00
 -- url     : https://prove2.me/theorems/a660be31-aac4-4081-be48-5dba289f728e

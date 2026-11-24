@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_C_scalarLinearClosed__d624c2f8cbb5
 -- name    : P2M_Formalism_L2_Th1_C_scalarLinearClosed__d624c2f8cbb5
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:05:58.809851+00:00
 -- url     : https://prove2.me/theorems/b0156dff-32a5-405b-837c-2b7c803e8fcc

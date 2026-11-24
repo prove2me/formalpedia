@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_BlockDetAlt_detGood
 -- name    : Formalism.NG.BlockDetAlt.detGood
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:11:58.006545+00:00
 -- url     : https://prove2.me/theorems/294c0cb7-8260-49a8-83cd-9d0f91976bab

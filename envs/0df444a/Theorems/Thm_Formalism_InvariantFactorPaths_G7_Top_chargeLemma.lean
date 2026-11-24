@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_Top_chargeLemma
 -- name    : Formalism.InvariantFactorPaths.G7.Top.chargeLemma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:51:41.759916+00:00
 -- url     : https://prove2.me/theorems/62df0947-3b6e-489c-a126-ccadc595836f

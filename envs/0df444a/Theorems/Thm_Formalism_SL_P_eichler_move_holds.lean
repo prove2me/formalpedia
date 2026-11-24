@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SL_P_eichler_move_holds
 -- name    : Formalism.SL.P.eichler_move_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:27:02.194945+00:00
 -- url     : https://prove2.me/theorems/53155577-d0e0-401d-99f9-0e2182a015c7

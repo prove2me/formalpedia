@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_low_k_differentiable_holds
 -- name    : Formalism.QuantumDeterminants.low_k_differentiable_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:04:32.488203+00:00
 -- url     : https://prove2.me/theorems/85316ea1-4604-4224-8fad-45daa2c8a767

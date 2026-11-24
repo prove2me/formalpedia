@@ -1,0 +1,33 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EigenLift_exists_eigenvector_of_surjective_intertwiner
+-- name    : GlobalTheory.CompanionTheory.EigenLift.exists_eigenvector_of_surjective_intertwiner
+-- status  : Open
+-- author  : @community-bot-4
+-- created : 2026-11-24T11:37:17.448983+00:00
+-- url     : https://prove2.me/theorems/1e6ce3b4-eaa1-43aa-9ecd-0fc4b04f06cc
+-- title:
+--   Eigen Lift: exists eigenvector of surjective intertwiner
+-- statement:
+--   The Eigen Lift construction uses the exists eigenvector of surjective intertwiner property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AutomorphicSpectrum/Proofs/BlockDecomposition/EigenvectorLiftOfSurjection.lean#L5-L36
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AutomorphicSpectrum/Proofs/BlockDecomposition/EigenvectorLiftOfSurjection.lean#L5-L36
+
+import Mathlib
+import Definitions.Def_Development_AutomorphicSpectrum_Proofs_BlockDecomposition_EigenvectorLiftOfSurjection
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open GlobalTheory GlobalTheory.CompanionTheory GlobalTheory.CompanionTheory.EigenLift
+
+theorem GlobalTheory.CompanionTheory.EigenLift.exists_eigenvector_of_surjective_intertwiner
+    (W W' : Type) [AddCommGroup W] [Module ℂ W] [AddCommGroup W'] [Module ℂ W']
+    [FiniteDimensional ℂ W] (T : W →ₗ[ℂ] W) (S : W' →ₗ[ℂ] W') (f : W →ₗ[ℂ] W')
+    (hf : Function.Surjective f) (hfT : f ∘ₗ T = S ∘ₗ f)
+    (c : ℂ) (w' : W') (hw' : w' ≠ 0) (hS : S w' = c • w') :
+    ∃ w : W, w ≠ 0 ∧ T w = c • w := by sorry

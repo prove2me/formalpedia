@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_fock_smul_left
 -- name    : Formalism.MainNotions.PlaneGram.fock_smul_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:44:28.06315+00:00
 -- url     : https://prove2.me/theorems/938af147-7b64-4a25-97e2-8ca3c24e7ef7

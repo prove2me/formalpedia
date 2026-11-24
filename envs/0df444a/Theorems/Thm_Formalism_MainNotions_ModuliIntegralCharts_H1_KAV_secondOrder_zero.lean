@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_KAV_secondOrder_zero
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.KAV.secondOrder_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:02:02.764713+00:00
 -- url     : https://prove2.me/theorems/1bd81f08-a84d-4d3d-8cd9-ad3d934d8ad6

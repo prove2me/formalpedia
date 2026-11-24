@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_csBdd_nat_mul
 -- name    : Formalism.UG.P.csBdd_nat_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:32:33.683329+00:00
 -- url     : https://prove2.me/theorems/cdf9d4f4-a6e6-4037-bf8b-bb44070f4bba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGF_psJet_subst_trunc
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGF.psJet_subst_trunc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:16:44.137807+00:00
 -- url     : https://prove2.me/theorems/cc908f72-555c-42d1-ac66-9d7845a0760d

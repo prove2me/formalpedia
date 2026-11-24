@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Clo_zLin_natCast
 -- name    : Formalism.L2.Th1.C.Clo.zLin_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:53.502434+00:00
 -- url     : https://prove2.me/theorems/7ba580cf-9011-4f85-b2d6-d92fa78ed024

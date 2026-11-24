@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_tensor_action_mul_holds
 -- name    : Formalism.UG.P.tensor_action_mul_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:36:11.151881+00:00
 -- url     : https://prove2.me/theorems/228725b4-bddc-44e1-89bb-422595a917f8

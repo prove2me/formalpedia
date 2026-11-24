@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_CoefficientSupportCongruences_scale_of_suppOK
 -- name    : Formalism.InvariantFactorPaths.G7.CoefficientSupportCongruences.scale_of_suppOK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:21:54.133366+00:00
 -- url     : https://prove2.me/theorems/f465decf-621b-4b88-bc2e-dae05d656c07

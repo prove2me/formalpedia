@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_primUniqOfGlobal_holds
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.primUniqOfGlobal_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:03:19.773789+00:00
 -- url     : https://prove2.me/theorems/ec203639-6cbb-4143-a145-a9b724ee19c7

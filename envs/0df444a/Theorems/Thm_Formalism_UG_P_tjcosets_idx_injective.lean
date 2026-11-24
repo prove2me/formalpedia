@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_tjcosets_idx_injective
 -- name    : Formalism.UG.P.tjcosets_idx_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:36:51.517801+00:00
 -- url     : https://prove2.me/theorems/0495caa3-42bb-42be-9fbc-c6ea135b2092

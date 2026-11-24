@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_P_bmat_eq_of_decomp
 -- name    : Formalism.SLP.P.bmat_eq_of_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:29:11.150434+00:00
 -- url     : https://prove2.me/theorems/a6f84517-8063-41c3-8d84-e18b3488f78b

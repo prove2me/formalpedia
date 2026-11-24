@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isLocalRing_quotient_one_sub
 -- name    : GlobalTheory.isLocalRing_quotient_one_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:27:04.629424+00:00
 -- url     : https://prove2.me/theorems/138e7105-e70e-4bcb-ba14-69be7da76d6f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LLcv_ht_lidx
 -- name    : Formalism.LFunctionChainParameters.LLcv.ht_lidx
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:07:24.700582+00:00
 -- url     : https://prove2.me/theorems/334767eb-079e-4f42-94ae-59781a1bae96

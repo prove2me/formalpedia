@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_flipTwoThree_interlacing_separation
 -- name    : Formalism.LogVandermondeBounds.flipTwoThree.interlacing_separation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:53:10.879885+00:00
 -- url     : https://prove2.me/theorems/e0da795f-2182-46b4-af44-b2e66e68b821

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SL_P_eichler_integrality_holds
 -- name    : Formalism.SL.P.eichler_integrality_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:27:51.855932+00:00
 -- url     : https://prove2.me/theorems/69eac1a6-e5ec-4535-9f1a-7b811b1ccfcf

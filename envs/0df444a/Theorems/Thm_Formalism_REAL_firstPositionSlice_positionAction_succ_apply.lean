@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_firstPositionSlice_positionAction_succ_apply
 -- name    : Formalism.REAL.firstPositionSlice_positionAction_succ_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:21:39.69254+00:00
 -- url     : https://prove2.me/theorems/fce24b13-4099-4126-8d29-a45020b6dee9

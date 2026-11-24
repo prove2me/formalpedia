@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_easyc_inclE_mem
 -- name    : Formalism.UG.P.easyc_inclE_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:31:38.995814+00:00
 -- url     : https://prove2.me/theorems/c226a5ab-aab4-4705-87e9-5882bf95b2b3

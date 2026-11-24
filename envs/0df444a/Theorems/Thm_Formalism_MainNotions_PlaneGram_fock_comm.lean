@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_fock_comm
 -- name    : Formalism.MainNotions.PlaneGram.fock_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T18:50:12.804245+00:00
 -- url     : https://prove2.me/theorems/1260906b-18fe-478b-8b95-b22d3ebb692a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_decomposition_subgroup_index
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.decomposition_subgroup_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:30:06.606573+00:00
 -- url     : https://prove2.me/theorems/e51cd060-b920-45a7-baf9-0d335410e649

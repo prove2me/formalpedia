@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_gal_sq_fix
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.gal_sq_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:30:13.002238+00:00
 -- url     : https://prove2.me/theorems/4b230844-6c51-42fd-a5fe-87ea4f5e39f1

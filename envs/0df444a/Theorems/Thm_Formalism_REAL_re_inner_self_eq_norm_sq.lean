@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_re_inner_self_eq_norm_sq
 -- name    : Formalism.REAL.re_inner_self_eq_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:24:36.567796+00:00
 -- url     : https://prove2.me/theorems/bfe631a2-83f6-40b9-94f6-5a01f2b269dd

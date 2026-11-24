@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_ExpansionTerms_degRatioMinus
 -- name    : Formalism.HermitianLatticeCounting.Final.ExpansionTerms.degRatioMinus
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:37.404367+00:00
 -- url     : https://prove2.me/theorems/838860b6-5e7c-4418-af95-3ee633e9f276

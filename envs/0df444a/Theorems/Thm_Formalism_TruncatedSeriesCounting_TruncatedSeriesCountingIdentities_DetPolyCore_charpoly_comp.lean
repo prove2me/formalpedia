@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TruncatedSeriesCounting_TruncatedSeriesCountingIdentities_DetPolyCore_charpoly_comp
 -- name    : Formalism.TruncatedSeriesCounting.TruncatedSeriesCountingIdentities.DetPolyCore.charpoly_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:31:07.346197+00:00
 -- url     : https://prove2.me/theorems/b2bea258-89a3-4002-bfc4-c5828466768e

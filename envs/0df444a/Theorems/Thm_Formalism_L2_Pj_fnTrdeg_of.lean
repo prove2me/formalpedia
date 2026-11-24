@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_fnTrdeg_of
 -- name    : Formalism.L2.Pj.fnTrdeg_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:20:01.563345+00:00
 -- url     : https://prove2.me/theorems/2248df17-5ef2-4a83-a1e8-e9fa8b4e1516

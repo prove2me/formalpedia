@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_HomD_subX
 -- name    : Formalism.MainNotions.PlaneGram.HomD_subX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:03:01.764861+00:00
 -- url     : https://prove2.me/theorems/11055ad6-bc1b-48e6-93a5-e20d7ab34c44

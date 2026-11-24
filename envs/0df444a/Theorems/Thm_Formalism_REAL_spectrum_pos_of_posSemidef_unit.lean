@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_spectrum_pos_of_posSemidef_unit
 -- name    : Formalism.REAL.spectrum_pos_of_posSemidef_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:26:17.904357+00:00
 -- url     : https://prove2.me/theorems/b9c8cb96-51c3-4b42-b137-1a4cebe735f3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_hostGalois_of
 -- name    : Formalism.Q3.hostGalois_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:17:34.068794+00:00
 -- url     : https://prove2.me/theorems/632165a4-bcc2-4a99-be19-6959e3712eb1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_X_mul_mono
 -- name    : ChromaticReconstruction.X_mul_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:27:13.393009+00:00
 -- url     : https://prove2.me/theorems/1a6d5d6d-f87f-41b4-85d3-a1d5c93d4e66

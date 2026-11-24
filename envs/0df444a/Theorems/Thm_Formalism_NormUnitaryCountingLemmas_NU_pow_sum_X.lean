@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_NU_pow_sum_X
 -- name    : Formalism.NormUnitaryCountingLemmas.NU.pow_sum_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:17:43.897134+00:00
 -- url     : https://prove2.me/theorems/95ebfc10-2832-4ec6-a2a5-67ef0f41bc77

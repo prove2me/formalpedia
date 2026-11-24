@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GaugeR_jetSubstP_scale
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GaugeR.jetSubstP_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:02:10.867178+00:00
 -- url     : https://prove2.me/theorems/3c86d498-2d54-46e6-9fdb-4682b00e4816

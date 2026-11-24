@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankGapBounds_LocalQuadraticParts_pm_key_Y
 -- name    : Formalism.RankGapBounds.LocalQuadraticParts.pm_key_Y
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:26:05.049727+00:00
 -- url     : https://prove2.me/theorems/c93e3da7-d267-4244-a410-7cfc369384e1

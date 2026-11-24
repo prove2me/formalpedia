@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_GlobalBoundRefinements_P_polarization_of_orthogonal_splittings
 -- name    : Formalism.SLP.GlobalBoundRefinements.P.polarization_of_orthogonal_splittings
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:29:26.848214+00:00
 -- url     : https://prove2.me/theorems/c69175aa-2452-4080-a71e-7695e2701b6e

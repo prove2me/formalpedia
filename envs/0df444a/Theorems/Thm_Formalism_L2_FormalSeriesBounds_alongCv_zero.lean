@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_alongCv_zero
 -- name    : Formalism.L2.FormalSeriesBounds.alongCv_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:19:34.080634+00:00
 -- url     : https://prove2.me/theorems/8227e03e-172e-4e5d-aa2c-251822225164

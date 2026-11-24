@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ResultantValuation_ParabolicCounting_lequiv_coe
 -- name    : Formalism.ResultantValuation.ParabolicCounting.lequiv_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:27:12.348104+00:00
 -- url     : https://prove2.me/theorems/1ee8ba48-a726-4c65-84fa-4f240f1efdc9

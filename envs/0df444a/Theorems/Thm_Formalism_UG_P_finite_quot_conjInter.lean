@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_finite_quot_conjInter
 -- name    : Formalism.UG.P.finite_quot_conjInter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:31:49.513859+00:00
 -- url     : https://prove2.me/theorems/75b2a2ac-ab6a-45ff-b9d2-108432259ae0

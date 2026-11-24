@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_mem_stabAt_mul_iff
 -- name    : Formalism.UG.P.mem_stabAt_mul_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:33:17.644622+00:00
 -- url     : https://prove2.me/theorems/3ee1f7a9-2050-4453-a097-248446513491

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_bessel_unitary_equiv_holds
 -- name    : Formalism.QuantumDeterminants.bessel_unitary_equiv_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:10.833746+00:00
 -- url     : https://prove2.me/theorems/0aac3cca-e197-4868-b70d-12ad2d6265f2

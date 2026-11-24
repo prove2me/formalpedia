@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_coe_bc
 -- name    : Formalism.UG.P.coe_bc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:30:51.787119+00:00
 -- url     : https://prove2.me/theorems/7c5712be-ddd5-4ec6-a95a-c2791bbc4203

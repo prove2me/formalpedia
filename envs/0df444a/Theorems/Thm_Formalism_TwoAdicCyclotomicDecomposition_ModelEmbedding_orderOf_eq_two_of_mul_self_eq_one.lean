@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_ModelEmbedding_orderOf_eq_two_of_mul_self_eq_one
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.ModelEmbedding.orderOf_eq_two_of_mul_self_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:30:21.463361+00:00
 -- url     : https://prove2.me/theorems/e347f5e5-6664-4d44-a413-5e98f468ee10

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_real_part_sub
 -- name    : Formalism.REAL.real_part_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:24:36.308439+00:00
 -- url     : https://prove2.me/theorems/f7a4ad1c-0bba-4cb8-8411-cbf8026b4dc6

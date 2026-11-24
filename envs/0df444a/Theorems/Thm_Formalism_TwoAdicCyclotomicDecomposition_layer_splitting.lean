@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_layer_splitting
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.layer_splitting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:30:25.717239+00:00
 -- url     : https://prove2.me/theorems/16ad9e95-eea7-4cab-90e9-0409301fd8e3

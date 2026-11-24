@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_nrmC_valC_le
 -- name    : Formalism.L2.Pj.nrmC_valC_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:20:51.838636+00:00
 -- url     : https://prove2.me/theorems/770452a7-b1e6-4832-9d99-5960b84aa732

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_height_word_shift_nonneg
 -- name    : Formalism.REAL.height_word_shift_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:21:19.855106+00:00
 -- url     : https://prove2.me/theorems/98223ca3-821f-46ae-807f-f06fd7b4b52b

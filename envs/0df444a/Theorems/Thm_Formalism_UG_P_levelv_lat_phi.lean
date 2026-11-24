@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_levelv_lat_phi
 -- name    : Formalism.UG.P.levelv_lat_phi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:33:49.135988+00:00
 -- url     : https://prove2.me/theorems/3ee2e3a3-cb0e-43a8-abe0-1d90d69b34f5

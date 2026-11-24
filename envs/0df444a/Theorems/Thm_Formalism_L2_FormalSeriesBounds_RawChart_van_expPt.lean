@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RawChart_van_expPt
 -- name    : Formalism.L2.FormalSeriesBounds.RawChart.van_expPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:07:27.320325+00:00
 -- url     : https://prove2.me/theorems/7ac4a78d-5903-4fba-94ec-7e367a0be1f2

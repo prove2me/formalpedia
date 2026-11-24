@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_mul_eq_out_mul
 -- name    : Formalism.UG.P.mul_eq_out_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:33:27.883723+00:00
 -- url     : https://prove2.me/theorems/90c1a44c-71d6-49e0-8a0b-3bf692e16da6

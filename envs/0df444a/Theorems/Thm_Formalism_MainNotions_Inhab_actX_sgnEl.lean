@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Inhab_actX_sgnEl
 -- name    : Formalism.MainNotions.Inhab.actX_sgnEl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:56:35.490258+00:00
 -- url     : https://prove2.me/theorems/5b8c6bd3-e333-4308-ac34-a901098ceece

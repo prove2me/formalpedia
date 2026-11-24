@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_HarmInvA_coeff_eq_of_psJet
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.HarmInvA.coeff_eq_of_psJet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:02:52.294065+00:00
 -- url     : https://prove2.me/theorems/f0922b93-8aae-462d-ada7-20a02a57ae13

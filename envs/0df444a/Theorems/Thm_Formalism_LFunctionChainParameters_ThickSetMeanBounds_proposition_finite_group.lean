@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ThickSetMeanBounds_proposition_finite_group
 -- name    : Formalism.LFunctionChainParameters.ThickSetMeanBounds.proposition_finite_group
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:49:44.132425+00:00
 -- url     : https://prove2.me/theorems/a1e432a5-b54c-40d6-b0a3-b08be3a8134c

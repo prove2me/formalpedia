@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_invLength
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.invLength
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:30:35.160829+00:00
 -- url     : https://prove2.me/theorems/4d5509ef-db52-4d52-8251-bc2db2a3eea7

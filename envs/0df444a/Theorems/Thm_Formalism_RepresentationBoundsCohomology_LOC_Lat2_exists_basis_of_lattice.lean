@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_LOC_Lat2_exists_basis_of_lattice
 -- name    : Formalism.RepresentationBoundsCohomology.LOC.Lat2.exists_basis_of_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:26:17.811895+00:00
 -- url     : https://prove2.me/theorems/ebc5000e-39cc-4566-b5cd-dc596b4323e2

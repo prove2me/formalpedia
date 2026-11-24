@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_csScale_den
 -- name    : Formalism.UG.P.csScale_den
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:32:20.931961+00:00
 -- url     : https://prove2.me/theorems/640ef1b0-6139-44dc-9242-389c11a6f209

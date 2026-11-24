@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_GLWeightTheory_matrixSubst_transvection_monomial_sum
 -- name    : Formalism.MainNotions.G.GLWeightTheory.matrixSubst_transvection_monomial_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:54:52.41143+00:00
 -- url     : https://prove2.me/theorems/17301734-9aa7-4af6-b52c-49957d99ef62

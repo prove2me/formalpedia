@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_pointwise_operator_gl_relation
 -- name    : Formalism.REAL.pointwise_operator_gl_relation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:24:20.184745+00:00
 -- url     : https://prove2.me/theorems/69aa66d2-3b49-455a-ab26-9042fd10868d

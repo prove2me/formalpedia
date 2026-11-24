@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_TrivBound_ne_zero_map
 -- name    : GlobalTheory.Reg.TrivBound.ne_zero_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:29:39.52746+00:00
 -- url     : https://prove2.me/theorems/c6b76ef0-ec61-4b68-80c5-79590ad31aee

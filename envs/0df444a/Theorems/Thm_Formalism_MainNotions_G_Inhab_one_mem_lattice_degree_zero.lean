@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_Inhab_one_mem_lattice_degree_zero
 -- name    : Formalism.MainNotions.G.Inhab.one_mem_lattice_degree_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:55:44.661371+00:00
 -- url     : https://prove2.me/theorems/d685fe44-f36f-422a-9a58-6975d22b04a1

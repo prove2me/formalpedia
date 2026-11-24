@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_Inhab_level1_trivStab
 -- name    : Formalism.MainNotions.G.Inhab.level1_trivStab
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:50:15.125645+00:00
 -- url     : https://prove2.me/theorems/19b40c35-3384-4a1d-b13b-fc9eb00c3aaa

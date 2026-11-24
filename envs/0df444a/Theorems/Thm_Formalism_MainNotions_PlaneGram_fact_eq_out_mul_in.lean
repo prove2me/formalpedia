@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_fact_eq_out_mul_in
 -- name    : Formalism.MainNotions.PlaneGram.fact_eq_out_mul_in
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:06:43.237351+00:00
 -- url     : https://prove2.me/theorems/c6d8db5f-f6b8-4640-8253-a5bc3bf9465d

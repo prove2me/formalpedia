@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndBCNab_map_iter_Dof
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndBCNab.map_iter_Dof
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:57:37.158023+00:00
 -- url     : https://prove2.me/theorems/3fdf9590-56c6-43f1-9ebc-6ba312410ee3

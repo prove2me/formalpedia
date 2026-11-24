@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_P_exists_orth_decomp
 -- name    : Formalism.SLP.P.exists_orth_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:28:41.618451+00:00
 -- url     : https://prove2.me/theorems/f47f0a74-7304-48be-9560-9f89e633c1dd

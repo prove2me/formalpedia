@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satakeIota_coe
 -- name    : Formalism.UG.P.satakeIota_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:33:10.161843+00:00
 -- url     : https://prove2.me/theorems/500f18d5-c4f4-409d-8972-3b2499459140

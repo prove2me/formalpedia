@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_KillingConditions_WildPf_exists_ppow_fix
 -- name    : Formalism.MainNotions.N.KillingConditions.WildPf.exists_ppow_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:03:17.686267+00:00
 -- url     : https://prove2.me/theorems/5b23e199-9966-4fae-a1c8-08a7d975fe5b

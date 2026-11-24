@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_theta_noncompact_mem_pfil
 -- name    : Formalism.REAL.theta_noncompact_mem_pfil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:26:05.938624+00:00
 -- url     : https://prove2.me/theorems/837ce98d-42b8-40cf-8c7d-506ec9fd252d

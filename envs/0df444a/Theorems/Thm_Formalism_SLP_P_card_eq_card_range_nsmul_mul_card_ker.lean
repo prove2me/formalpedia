@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_P_card_eq_card_range_nsmul_mul_card_ker
 -- name    : Formalism.SLP.P.card_eq_card_range_nsmul_mul_card_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:29:09.432404+00:00
 -- url     : https://prove2.me/theorems/8257618c-faab-403b-9590-28035f154130

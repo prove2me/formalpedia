@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_stabilizer_coset_eq
 -- name    : Formalism.UG.P.stabilizer_coset_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:36:45.800615+00:00
 -- url     : https://prove2.me/theorems/d7f964de-6114-4005-a407-62ecbcee64b4

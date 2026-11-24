@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Inhab_levAll_funMod
 -- name    : Formalism.MainNotions.Inhab.levAll_funMod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:56:27.060924+00:00
 -- url     : https://prove2.me/theorems/a43f5aaa-fb25-41e4-bfad-7785afd15d10

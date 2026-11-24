@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_indexArray_sum_apply
 -- name    : Formalism.REAL.indexArray_sum_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:23:05.214555+00:00
 -- url     : https://prove2.me/theorems/bbb7260a-2c6b-44cd-bdcb-337a9adb7c18

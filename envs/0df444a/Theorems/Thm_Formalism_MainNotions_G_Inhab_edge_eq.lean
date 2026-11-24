@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_Inhab_edge_eq
 -- name    : Formalism.MainNotions.G.Inhab.edge_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:44.920852+00:00
 -- url     : https://prove2.me/theorems/2adad871-98ca-42fe-ae4a-10d0dbbab86e

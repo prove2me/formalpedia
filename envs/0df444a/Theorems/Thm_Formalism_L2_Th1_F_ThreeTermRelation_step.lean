@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_ThreeTermRelation_step
 -- name    : Formalism.L2.Th1.F.ThreeTermRelation.step
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:27:10.112404+00:00
 -- url     : https://prove2.me/theorems/8eae4ced-0db0-4fa8-b897-a57e9da06df4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_map_polyAct_pow
 -- name    : Formalism.UG.P.map_polyAct_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:33:20.069513+00:00
 -- url     : https://prove2.me/theorems/b0e4514f-5f8b-4ca9-b42f-c6d927a5eef0

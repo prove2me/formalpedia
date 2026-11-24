@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueryDepthMIS_lemma_2_9
 -- name    : QueryDepthMIS.lemma_2_9
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T22:32:36.860475+00:00
 -- url     : https://prove2.me/theorems/ab142f97-efca-44dc-bdc2-68ce2ad61036

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ResultantValuation_LaplaceProof_prod_finPairsLT
 -- name    : Formalism.ResultantValuation.LaplaceProof.prod_finPairsLT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:27:46.293965+00:00
 -- url     : https://prove2.me/theorems/9c58d095-702c-4dc1-a2d4-e353ab259d39

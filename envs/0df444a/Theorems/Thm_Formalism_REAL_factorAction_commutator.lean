@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_factorAction_commutator
 -- name    : Formalism.REAL.factorAction_commutator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:21:18.470811+00:00
 -- url     : https://prove2.me/theorems/817d406e-d3f1-48e3-a9de-c2eca03e67f0

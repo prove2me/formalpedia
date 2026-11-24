@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_ModelEmbedding_two_mul_le_of_dvd_ne
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.ModelEmbedding.two_mul_le_of_dvd_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:30:43.321903+00:00
 -- url     : https://prove2.me/theorems/b43136ad-b290-4195-9c8f-6856c0cf6a10

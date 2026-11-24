@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_P_CountO_exists_hom_ker
 -- name    : Formalism.SLP.P.CountO.exists_hom_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:29:09.170812+00:00
 -- url     : https://prove2.me/theorems/cf73d2a5-327f-491a-a8a0-0d8545d60dfa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_J_Ex_neg_mul
 -- name    : Formalism.MainNotions.J.Ex_neg_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:56:47.600501+00:00
 -- url     : https://prove2.me/theorems/b78676d9-d0d3-491b-a65f-a7a9320869d1

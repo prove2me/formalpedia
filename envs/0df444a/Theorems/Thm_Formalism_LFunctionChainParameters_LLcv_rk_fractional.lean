@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LLcv_rk_fractional
 -- name    : Formalism.LFunctionChainParameters.LLcv.rk_fractional
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:13.406168+00:00
 -- url     : https://prove2.me/theorems/e5f54514-9760-479c-b6ea-f3d253b6c00c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_J_card_autL_tr
 -- name    : Formalism.MainNotions.J.card_autL_tr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:57:04.83805+00:00
 -- url     : https://prove2.me/theorems/2a190522-7027-4a7c-983b-37c79641b8d2

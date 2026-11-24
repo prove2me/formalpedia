@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankSupermodularCovolume_cast_rank_eq_moduleRank
 -- name    : Formalism.RankSupermodularCovolume.cast_rank_eq_moduleRank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:26:15.473806+00:00
 -- url     : https://prove2.me/theorems/d5bd679d-232e-4da7-a5ef-2a01a25affc8

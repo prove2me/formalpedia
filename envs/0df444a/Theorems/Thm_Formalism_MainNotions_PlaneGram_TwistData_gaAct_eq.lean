@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_gaAct_eq
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.gaAct_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:05:14.179937+00:00
 -- url     : https://prove2.me/theorems/922e0f6d-f85e-4b75-8420-bf75d95d83f8

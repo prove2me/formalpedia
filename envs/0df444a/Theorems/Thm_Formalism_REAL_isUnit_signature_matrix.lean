@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_isUnit_signature_matrix
 -- name    : Formalism.REAL.isUnit_signature_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:23:25.484341+00:00
 -- url     : https://prove2.me/theorems/2a6478e7-1ec8-405b-a1c5-cd39cff9041d

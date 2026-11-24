@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_MassRatioZetaBound_mass_ratio_rhs_le_factorial
 -- name    : Formalism.MainNotions.MassRatioZetaBound.mass_ratio_rhs_le_factorial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:17:41.894957+00:00
 -- url     : https://prove2.me/theorems/b2ef20de-362a-40e7-b942-959cae60a571

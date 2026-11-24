@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_flipOneThree_Pf_QuadraticBasis_qb_span
 -- name    : Formalism.MainNotions.flipOneThree.Pf.QuadraticBasis.qb_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:12:30.796071+00:00
 -- url     : https://prove2.me/theorems/2a6a1920-7b90-45f6-8dd4-acdc4b9c64a4

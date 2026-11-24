@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_casComm_casK_comm
 -- name    : Formalism.REAL.casComm_casK_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:20:38.024897+00:00
 -- url     : https://prove2.me/theorems/5eda2688-67b9-4b58-88bc-6d06f83d58ce

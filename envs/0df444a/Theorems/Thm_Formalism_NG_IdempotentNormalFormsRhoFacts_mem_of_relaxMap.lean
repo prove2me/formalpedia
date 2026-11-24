@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_IdempotentNormalFormsRhoFacts_mem_of_relaxMap
 -- name    : Formalism.NG.IdempotentNormalFormsRhoFacts.mem_of_relaxMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:14:07.738647+00:00
 -- url     : https://prove2.me/theorems/d5fc2acd-d32b-4af8-a58a-f9ba2557f0f8

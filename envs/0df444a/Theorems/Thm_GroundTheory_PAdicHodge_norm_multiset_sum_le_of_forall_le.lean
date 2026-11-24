@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_norm_multiset_sum_le_of_forall_le
 -- name    : GroundTheory.PAdicHodge.norm_multiset_sum_le_of_forall_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:29:08.814489+00:00
 -- url     : https://prove2.me/theorems/db57cddd-5589-4801-9865-9ad5d0e2a837

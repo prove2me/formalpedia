@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TranslateJetMomentLawAnyIdempotentLevel_sum_odd
 -- name    : Formalism.L2.Th1.D.TranslateJetMomentLawAnyIdempotentLevel.sum_odd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:36:37.907993+00:00
 -- url     : https://prove2.me/theorems/204166a1-d048-44bc-be22-332522aa4a54

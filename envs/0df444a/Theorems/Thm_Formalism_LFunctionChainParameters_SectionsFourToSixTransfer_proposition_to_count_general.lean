@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_SectionsFourToSixTransfer_proposition_to_count_general
 -- name    : Formalism.LFunctionChainParameters.SectionsFourToSixTransfer.proposition_to_count_general
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:50.894688+00:00
 -- url     : https://prove2.me/theorems/dc86e38a-876c-4aa9-8b93-5f32bbaebe2d

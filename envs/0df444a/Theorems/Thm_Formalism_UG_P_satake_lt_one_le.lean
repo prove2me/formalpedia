@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satake_lt_one_le
 -- name    : Formalism.UG.P.satake_lt_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:34:11.26054+00:00
 -- url     : https://prove2.me/theorems/66f8f2c8-87ae-4d0c-adaa-3adea5e1beb0

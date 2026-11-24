@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_EGauss_sum_sub_sigma
 -- name    : Formalism.InvariantFactorPaths.G7.EGauss.sum_sub_sigma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:54:39.598347+00:00
 -- url     : https://prove2.me/theorems/6b9af651-80f2-4604-9f40-50de211e78a8

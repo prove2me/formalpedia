@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_PairingDivisionLocalBalance_vw_add_int
 -- name    : Formalism.PairingDivisionLocalBalance.vw_add_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:18:17.150958+00:00
 -- url     : https://prove2.me/theorems/806ee104-d042-4f9a-a2ad-4ee09c200276

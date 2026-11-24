@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_permMatrix_mem_integralGL
 -- name    : Formalism.UG.P.permMatrix_mem_integralGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:33:29.464909+00:00
 -- url     : https://prove2.me/theorems/0b68d18f-a4ae-401c-b3cb-1ebe17b83455

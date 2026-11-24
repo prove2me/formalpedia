@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_sumInterlacedBound
 -- name    : Formalism.LatticeIndexTer.sumInterlacedBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:59.177834+00:00
 -- url     : https://prove2.me/theorems/3fbf5a61-0fa3-4e0b-b623-11cf7163b6bb

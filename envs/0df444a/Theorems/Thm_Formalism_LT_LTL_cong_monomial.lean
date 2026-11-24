@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_LTL_cong_monomial
 -- name    : Formalism.LT.LTL.cong_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:50:51.784681+00:00
 -- url     : https://prove2.me/theorems/25058835-a05c-44ec-a2b3-7cf44548cf2b

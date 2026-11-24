@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_PrincipalInjectiveCommonRange_shear_rename_inv
 -- name    : Formalism.NormUnitaryCountingLemmas.PrincipalInjectiveCommonRange.shear_rename_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:17:38.891397+00:00
 -- url     : https://prove2.me/theorems/0f862a01-cb3a-4d32-a76c-fb832e9b15c1

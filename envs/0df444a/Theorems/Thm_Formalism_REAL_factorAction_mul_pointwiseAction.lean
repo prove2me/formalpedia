@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_factorAction_mul_pointwiseAction
 -- name    : Formalism.REAL.factorAction_mul_pointwiseAction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:21:28.781594+00:00
 -- url     : https://prove2.me/theorems/a6b35d6d-0686-489e-b46d-ef16bdfc5e5a

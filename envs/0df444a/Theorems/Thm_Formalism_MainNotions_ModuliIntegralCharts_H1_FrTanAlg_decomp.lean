@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_FrTanAlg_decomp
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.FrTanAlg.decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:01:03.573837+00:00
 -- url     : https://prove2.me/theorems/3939f0ee-920b-4352-aec4-211a10cf7ec4

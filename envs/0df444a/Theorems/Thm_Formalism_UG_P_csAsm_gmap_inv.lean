@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_csAsm_gmap_inv
 -- name    : Formalism.UG.P.csAsm_gmap_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:32:18.895933+00:00
 -- url     : https://prove2.me/theorems/104ec4e8-ca01-4522-bc84-da28d34205c1

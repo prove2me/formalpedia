@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_grSpan_eq
 -- name    : Formalism.InvariantFactorPaths.L4.grSpan_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:49:48.151704+00:00
 -- url     : https://prove2.me/theorems/71e459f9-0dc5-4877-9668-ecf88f156f83

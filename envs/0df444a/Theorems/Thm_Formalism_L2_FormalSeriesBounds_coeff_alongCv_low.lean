@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_coeff_alongCv_low
 -- name    : Formalism.L2.FormalSeriesBounds.coeff_alongCv_low
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:30:01.19295+00:00
 -- url     : https://prove2.me/theorems/62435694-f635-4986-80cf-f27d1e271dc9

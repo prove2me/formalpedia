@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LLcv_deg_fractional
 -- name    : Formalism.LFunctionChainParameters.LLcv.deg_fractional
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:07:02.011711+00:00
 -- url     : https://prove2.me/theorems/f1ba02cc-dd23-45b8-8d33-a5891871e106

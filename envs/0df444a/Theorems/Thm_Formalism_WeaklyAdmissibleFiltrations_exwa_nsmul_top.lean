@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_exwa_nsmul_top
 -- name    : Formalism.WeaklyAdmissibleFiltrations.exwa_nsmul_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:40:46.705832+00:00
 -- url     : https://prove2.me/theorems/c7340c63-1b44-457f-b580-23b3b35c3a53

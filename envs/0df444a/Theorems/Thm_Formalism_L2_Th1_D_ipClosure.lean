@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_ipClosure
 -- name    : Formalism.L2.Th1.D.ipClosure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:13:41.465674+00:00
 -- url     : https://prove2.me/theorems/f09fba47-b129-4c1a-93dd-73adf4374cc4

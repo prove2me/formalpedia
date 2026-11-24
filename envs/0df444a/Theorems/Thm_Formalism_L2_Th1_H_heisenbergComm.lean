@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_heisenbergComm
 -- name    : Formalism.L2.Th1.H.heisenbergComm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:10:05.836407+00:00
 -- url     : https://prove2.me/theorems/45be95ca-278a-4b3f-a999-3a5ad1542b4c

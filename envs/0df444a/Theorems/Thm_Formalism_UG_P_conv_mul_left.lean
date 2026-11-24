@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_conv_mul_left
 -- name    : Formalism.UG.P.conv_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:30:51.814674+00:00
 -- url     : https://prove2.me/theorems/0e7f9a15-82e3-4de5-ac45-9cbd41f6bc1e

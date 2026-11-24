@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ThetaLiftIndependence_ChainScalarLemmas_adjoint_downChain_succ_apply
 -- name    : Formalism.ThetaLiftIndependence.ChainScalarLemmas.adjoint_downChain_succ_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:28:58.495803+00:00
 -- url     : https://prove2.me/theorems/18dd8753-4070-4da0-ad14-452bed6eb3c3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_Inhab_one_mem_HtupW
 -- name    : Formalism.MainNotions.G.Inhab.one_mem_HtupW
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:42:08.89653+00:00
 -- url     : https://prove2.me/theorems/2f4c9b32-31cb-4d3c-95dd-3e321d6df5be

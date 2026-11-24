@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_LTL_divBy_subst_sub
 -- name    : Formalism.LT.LTL.divBy_subst_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:51:05.045664+00:00
 -- url     : https://prove2.me/theorems/993fafdb-2234-495a-9edf-fdcec20d18eb

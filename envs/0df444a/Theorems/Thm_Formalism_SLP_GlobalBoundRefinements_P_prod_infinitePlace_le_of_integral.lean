@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_GlobalBoundRefinements_P_prod_infinitePlace_le_of_integral
 -- name    : Formalism.SLP.GlobalBoundRefinements.P.prod_infinitePlace_le_of_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:29:32.201303+00:00
 -- url     : https://prove2.me/theorems/a38d350a-3bb1-4bfc-a441-34a58080b4f6

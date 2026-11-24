@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SL_P_eichler_isometry_holds
 -- name    : Formalism.SL.P.eichler_isometry_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:27:21.46849+00:00
 -- url     : https://prove2.me/theorems/0ac902f3-9fd9-4b78-b07c-18f243849095

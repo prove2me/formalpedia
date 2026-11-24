@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_LeviCoordinates_rrd_vec_tendsto
 -- name    : Formalism.MainNotions.LeviCoordinates.rrd_vec_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:56:52.344181+00:00
 -- url     : https://prove2.me/theorems/bb240db6-4fe4-416c-b70a-7de0ff48f2bf

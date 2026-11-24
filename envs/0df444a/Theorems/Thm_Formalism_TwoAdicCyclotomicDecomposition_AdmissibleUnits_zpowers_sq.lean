@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_AdmissibleUnits_zpowers_sq
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.AdmissibleUnits.zpowers_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:29:30.155842+00:00
 -- url     : https://prove2.me/theorems/a506c8e7-9c7e-4591-b7f9-c770e00c801d

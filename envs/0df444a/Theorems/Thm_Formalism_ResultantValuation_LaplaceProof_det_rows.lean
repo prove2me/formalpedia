@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ResultantValuation_LaplaceProof_det_rows
 -- name    : Formalism.ResultantValuation.LaplaceProof.det_rows
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:27:46.085291+00:00
 -- url     : https://prove2.me/theorems/91397081-132a-4fa9-b2e9-701f07383c25

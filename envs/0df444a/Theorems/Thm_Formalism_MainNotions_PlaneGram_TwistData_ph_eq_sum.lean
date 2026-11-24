@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_ph_eq_sum
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.ph_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:04:10.017165+00:00
 -- url     : https://prove2.me/theorems/52a57c3e-51af-42f3-b9f9-75080fa9af51

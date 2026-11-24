@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_iteratedGrowthBound_holds
 -- name    : Formalism.REAL.iteratedGrowthBound_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:23:17.917375+00:00
 -- url     : https://prove2.me/theorems/6662e04e-69a8-4a46-8e01-22e031a051d9

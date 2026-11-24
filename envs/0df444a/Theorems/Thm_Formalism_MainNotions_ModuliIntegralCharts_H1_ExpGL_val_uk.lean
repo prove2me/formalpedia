@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGL_val_uk
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGL.val_uk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:00:18.688096+00:00
 -- url     : https://prove2.me/theorems/f36a6e51-587f-4f9a-a4ff-764cb553d91d

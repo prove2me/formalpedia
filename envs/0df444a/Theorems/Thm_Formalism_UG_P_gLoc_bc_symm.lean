@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_gLoc_bc_symm
 -- name    : Formalism.UG.P.gLoc_bc_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:31:43.236454+00:00
 -- url     : https://prove2.me/theorems/17e48cb3-5e34-4aa3-9d1c-b57e01305905

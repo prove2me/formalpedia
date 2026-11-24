@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SupLawProbe_evR_of_not_ft
 -- name    : GlobalTheory.SupLawProbe.evR_of_not_ft
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:29:14.953012+00:00
 -- url     : https://prove2.me/theorems/5b17a69b-0acc-411c-aa18-338a06589a0a

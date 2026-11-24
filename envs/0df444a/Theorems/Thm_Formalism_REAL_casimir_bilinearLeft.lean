@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_casimir_bilinearLeft
 -- name    : Formalism.REAL.casimir_bilinearLeft
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:20:02.957537+00:00
 -- url     : https://prove2.me/theorems/1528de7a-6468-4045-bfd2-7f5ccb67c613

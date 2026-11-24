@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_ldr_inv_sub_one_le
 -- name    : Formalism.ZF.ldr_inv_sub_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:41:34.854804+00:00
 -- url     : https://prove2.me/theorems/ca512e94-d768-40c7-ab5f-11a6110bea1b

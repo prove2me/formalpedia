@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_ddiv_as_sum
 -- name    : Formalism.MainNotions.PlaneGram.ddiv_as_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:06:31.643941+00:00
 -- url     : https://prove2.me/theorems/93f98199-530b-4825-b746-d523d0ef56ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_TwoAdicValuation_vNat
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.TwoAdicValuation.vNat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:30:10.215871+00:00
 -- url     : https://prove2.me/theorems/4d7f377c-9a21-445a-ad1c-0f8771651963

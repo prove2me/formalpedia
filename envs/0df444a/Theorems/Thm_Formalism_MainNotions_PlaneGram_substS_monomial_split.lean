@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_substS_monomial_split
 -- name    : Formalism.MainNotions.PlaneGram.substS_monomial_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:07:43.746139+00:00
 -- url     : https://prove2.me/theorems/842a4aa4-2019-449e-94eb-3f4868fd3937

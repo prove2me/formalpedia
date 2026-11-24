@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_sGroup
 -- name    : Formalism.QuantumDeterminants.sGroup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:43:35.403886+00:00
 -- url     : https://prove2.me/theorems/e585224d-eea9-46fe-990d-a2ad7ace2558

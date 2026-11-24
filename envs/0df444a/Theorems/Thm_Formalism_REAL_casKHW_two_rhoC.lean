@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_casKHW_two_rhoC
 -- name    : Formalism.REAL.casKHW_two_rhoC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:19:44.447852+00:00
 -- url     : https://prove2.me/theorems/365c0824-d5ef-498a-95db-ed0a64e32f08

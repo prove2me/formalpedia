@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_f1auxiliary_hs_eq
 -- name    : Formalism.REAL.f1auxiliary_hs_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:21:06.478445+00:00
 -- url     : https://prove2.me/theorems/0e519905-64e9-4f07-9414-bbe8e5a37962

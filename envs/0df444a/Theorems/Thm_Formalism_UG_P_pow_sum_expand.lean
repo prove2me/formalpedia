@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_pow_sum_expand
 -- name    : Formalism.UG.P.pow_sum_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:33:45.80105+00:00
 -- url     : https://prove2.me/theorems/4078b5a4-8e74-40ae-ac66-0e6a97364d22

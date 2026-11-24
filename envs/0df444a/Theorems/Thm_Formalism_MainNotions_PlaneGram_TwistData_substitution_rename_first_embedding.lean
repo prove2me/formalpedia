@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_substitution_rename_first_embedding
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.substitution_rename_first_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:06:09.454778+00:00
 -- url     : https://prove2.me/theorems/0ffac630-327a-42d9-8407-658ae0855dc0

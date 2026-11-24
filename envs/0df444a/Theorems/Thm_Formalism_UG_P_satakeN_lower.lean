@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satakeN_lower
 -- name    : Formalism.UG.P.satakeN_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:33:29.147561+00:00
 -- url     : https://prove2.me/theorems/b379ea4a-746d-42d8-9fd5-b0cdfd1adc91

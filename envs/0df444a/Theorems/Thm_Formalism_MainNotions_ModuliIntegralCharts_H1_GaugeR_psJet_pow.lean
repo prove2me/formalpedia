@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GaugeR_psJet_pow
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GaugeR.psJet_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:01:26.542941+00:00
 -- url     : https://prove2.me/theorems/cf91a2cf-8b1b-4a2b-b87b-faef73cfe6b4

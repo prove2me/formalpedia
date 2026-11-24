@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbelianQuotient_smooth_of_grpObj_of_flat
 -- name    : GlobalTheory.AbelianQuotient.smooth_of_grpObj_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:52:45.635771+00:00
 -- url     : https://prove2.me/theorems/513f25a1-5517-4804-be7d-2cc44c623a3c

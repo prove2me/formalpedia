@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_DeficitSplitLemmas_loss_choice
 -- name    : Formalism.LFunctionChainParameters.DeficitSplitLemmas.loss_choice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:37.872544+00:00
 -- url     : https://prove2.me/theorems/d01d0f10-a532-4d1b-924d-2e03399956be

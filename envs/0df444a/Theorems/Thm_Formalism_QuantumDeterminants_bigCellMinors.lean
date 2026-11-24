@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_bigCellMinors
 -- name    : Formalism.QuantumDeterminants.bigCellMinors
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:08:54.262959+00:00
 -- url     : https://prove2.me/theorems/f9f4f153-3c4a-4e65-b2dc-5d7fd0ff03d0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TrivLocus_nontrivial_sec_iff
 -- name    : GlobalTheory.TrivLocus.nontrivial_sec_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:27:57.993076+00:00
 -- url     : https://prove2.me/theorems/773cadab-acf1-47ff-9cf1-1561280339e1

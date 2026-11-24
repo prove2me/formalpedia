@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_exists_pow_card_le_of_prod_le
 -- name    : GroundTheory.PAdicHodge.exists_pow_card_le_of_prod_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:29:49.303484+00:00
 -- url     : https://prove2.me/theorems/618d26d9-2f64-4bee-bfea-dd0392582f0f

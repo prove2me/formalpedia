@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_relIndex_hermL
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.relIndex_hermL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:54:39.90268+00:00
 -- url     : https://prove2.me/theorems/3820301d-3914-4d10-b849-0174b8adab80

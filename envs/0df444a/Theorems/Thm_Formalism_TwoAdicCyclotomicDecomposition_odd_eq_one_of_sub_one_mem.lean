@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_odd_eq_one_of_sub_one_mem
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.odd_eq_one_of_sub_one_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:30:51.8938+00:00
 -- url     : https://prove2.me/theorems/f9404b94-c9a8-415c-96b1-4ec912ef8a14

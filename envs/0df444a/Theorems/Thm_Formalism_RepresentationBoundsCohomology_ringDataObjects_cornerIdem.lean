@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_ringDataObjects_cornerIdem
 -- name    : Formalism.RepresentationBoundsCohomology.ringDataObjects.cornerIdem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:30:01.859589+00:00
 -- url     : https://prove2.me/theorems/5e40c0ad-31c0-4f54-9307-ea5776a4b1ac

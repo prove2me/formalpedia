@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_CharacterBalance_ramifiedPrimeTerm_eq_zero_of_lt_ramifiedPrime
 -- name    : Deduction.CharacterBalance.ramifiedPrimeTerm_eq_zero_of_lt_ramifiedPrime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:34:09.034174+00:00
 -- url     : https://prove2.me/theorems/7b34fc81-b00f-4d96-bec4-f6558ff419a1

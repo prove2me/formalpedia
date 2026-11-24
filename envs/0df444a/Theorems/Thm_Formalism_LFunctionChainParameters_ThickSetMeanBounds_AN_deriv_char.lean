@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ThickSetMeanBounds_AN_deriv_char
 -- name    : Formalism.LFunctionChainParameters.ThickSetMeanBounds.AN.deriv_char
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:35.363719+00:00
 -- url     : https://prove2.me/theorems/0aa9dcf4-dc54-4276-b178-519c85fc17e5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_CharId_sub_lsh_apply_single
 -- name    : Formalism.REAL.CharId_sub_lsh_apply_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:19:46.424453+00:00
 -- url     : https://prove2.me/theorems/1bf67d10-4d37-4e8c-b57e-e18d07ff0f5b

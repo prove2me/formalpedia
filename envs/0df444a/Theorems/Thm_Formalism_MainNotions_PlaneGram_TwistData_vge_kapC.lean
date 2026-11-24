@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_vge_kapC
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.vge_kapC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:05:36.984361+00:00
 -- url     : https://prove2.me/theorems/a546baf3-7ea9-4492-90a2-a70cf294379a

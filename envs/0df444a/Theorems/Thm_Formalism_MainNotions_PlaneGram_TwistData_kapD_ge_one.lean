@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_kapD_ge_one
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.kapD_ge_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:44:16.623933+00:00
 -- url     : https://prove2.me/theorems/72850a88-2f56-4e0d-be86-1b5cd1395ce7

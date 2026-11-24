@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_GlobalBoundRefinements_P_root_of_unity_mod_t
 -- name    : Formalism.SLP.GlobalBoundRefinements.P.root_of_unity_mod_t
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:28:46.681795+00:00
 -- url     : https://prove2.me/theorems/dbdf876d-f7ec-47a0-a005-fdafa557de00

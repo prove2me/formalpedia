@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GaugeR_exists_ps_of_compat
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GaugeR.exists_ps_of_compat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:23:33.510083+00:00
 -- url     : https://prove2.me/theorems/cdfe14c3-e878-4e57-9852-50579e2f7ff0

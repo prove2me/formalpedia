@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_coefficient_bound_holds
 -- name    : Formalism.NormUnitaryCountingLemmas.coefficient_bound_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:17:58.835211+00:00
 -- url     : https://prove2.me/theorems/49376dd1-edc2-4fdc-9621-bc6cf6db4d80

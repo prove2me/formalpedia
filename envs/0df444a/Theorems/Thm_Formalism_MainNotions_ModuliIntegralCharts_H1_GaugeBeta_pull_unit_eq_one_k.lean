@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GaugeBeta_pull_unit_eq_one_k
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GaugeBeta.pull_unit_eq_one_k
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:02:23.634946+00:00
 -- url     : https://prove2.me/theorems/e0324576-a4f6-4501-9a00-ddfebeb8465f

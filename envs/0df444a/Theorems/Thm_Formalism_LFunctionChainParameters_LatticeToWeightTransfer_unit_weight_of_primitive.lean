@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LatticeToWeightTransfer_unit_weight_of_primitive
 -- name    : Formalism.LFunctionChainParameters.LatticeToWeightTransfer.unit_weight_of_primitive
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:14.323377+00:00
 -- url     : https://prove2.me/theorems/fdd8af13-9a48-4040-9379-7e2d1227c438

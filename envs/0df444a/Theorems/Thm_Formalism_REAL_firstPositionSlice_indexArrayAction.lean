@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_firstPositionSlice_indexArrayAction
 -- name    : Formalism.REAL.firstPositionSlice_indexArrayAction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:21:26.953956+00:00
 -- url     : https://prove2.me/theorems/7328c635-6269-433e-84e4-3c09ed6d49a5

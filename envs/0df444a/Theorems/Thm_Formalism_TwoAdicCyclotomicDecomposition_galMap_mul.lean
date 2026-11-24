@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_galMap_mul
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.galMap_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:30:10.29587+00:00
 -- url     : https://prove2.me/theorems/cc148eb5-029c-4f17-b1d7-6a38bcb343a0

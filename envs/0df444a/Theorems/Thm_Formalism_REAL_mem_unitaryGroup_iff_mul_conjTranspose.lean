@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_mem_unitaryGroup_iff_mul_conjTranspose
 -- name    : Formalism.REAL.mem_unitaryGroup_iff_mul_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:23:28.669354+00:00
 -- url     : https://prove2.me/theorems/41c00ca4-8011-408a-ad64-b148aff9ae3b

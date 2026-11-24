@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Poly1305Boringssl_subroutineOk_init_update_finish
 -- name    : Poly1305Boringssl.subroutineOk_init_update_finish
--- status  : Open
+-- status  : Disproved
 -- author  : @dbenbenn
 -- created : 2026-11-24T10:08:48.80787+00:00
 -- url     : https://prove2.me/theorems/adeb3f39-004c-4f92-a5f7-e3ed1c4209f8

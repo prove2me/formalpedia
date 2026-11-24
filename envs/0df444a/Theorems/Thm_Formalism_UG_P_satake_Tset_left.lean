@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satake_Tset_left
 -- name    : Formalism.UG.P.satake_Tset_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:33:02.500531+00:00
 -- url     : https://prove2.me/theorems/a3c19648-70e6-4c41-a1b1-0696e78af491

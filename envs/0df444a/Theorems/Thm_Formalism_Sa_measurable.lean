@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Sa_measurable
 -- name    : Formalism.Sa_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:28:43.955731+00:00
 -- url     : https://prove2.me/theorems/8642347f-bcef-4f44-bf7f-6774046f430c

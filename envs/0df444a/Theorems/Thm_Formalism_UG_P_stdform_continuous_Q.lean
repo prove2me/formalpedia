@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_stdform_continuous_Q
 -- name    : Formalism.UG.P.stdform_continuous_Q
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:36:54.274109+00:00
 -- url     : https://prove2.me/theorems/e7678d57-60b0-48ef-a8ea-9cd742a86974

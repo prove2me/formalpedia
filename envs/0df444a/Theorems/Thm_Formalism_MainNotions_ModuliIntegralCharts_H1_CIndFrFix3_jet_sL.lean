@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrFix3_jet_sL
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrFix3.jet_sL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:59:12.10769+00:00
 -- url     : https://prove2.me/theorems/03e254fc-1808-4df3-af7d-e599c0db2827

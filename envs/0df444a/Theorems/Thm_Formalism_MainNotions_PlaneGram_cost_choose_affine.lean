@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_cost_choose_affine
 -- name    : Formalism.MainNotions.PlaneGram.cost_choose_affine
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:43:53.928428+00:00
 -- url     : https://prove2.me/theorems/e1ca90e0-fd37-420e-b02d-3c63fdf6aedb

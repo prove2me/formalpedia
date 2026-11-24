@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satakeSec_mk
 -- name    : Formalism.UG.P.satakeSec_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:33:03.83012+00:00
 -- url     : https://prove2.me/theorems/64bed4ad-33e6-46a8-9ad9-66e4d607414b

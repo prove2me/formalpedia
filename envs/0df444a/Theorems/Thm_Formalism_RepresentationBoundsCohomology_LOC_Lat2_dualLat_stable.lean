@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_LOC_Lat2_dualLat_stable
 -- name    : Formalism.RepresentationBoundsCohomology.LOC.Lat2.dualLat_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:26:29.881402+00:00
 -- url     : https://prove2.me/theorems/bdbe392e-9d1d-4473-b9c3-f7e60a0b9142

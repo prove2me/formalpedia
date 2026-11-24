@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_csApprox_global
 -- name    : Formalism.UG.P.csApprox_global
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:32:19.763979+00:00
 -- url     : https://prove2.me/theorems/ea36aa2d-d8c9-48a6-afed-a66ccdd35cc7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_eOut_eq_zero_of_mem_support_coefOut
 -- name    : Formalism.MainNotions.PlaneGram.eOut_eq_zero_of_mem_support_coefOut
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:06:17.8122+00:00
 -- url     : https://prove2.me/theorems/3d4b19d4-3525-455c-9eb2-d594af9eea3f

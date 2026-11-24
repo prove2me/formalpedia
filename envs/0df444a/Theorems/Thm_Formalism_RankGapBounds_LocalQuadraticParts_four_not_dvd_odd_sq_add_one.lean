@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankGapBounds_LocalQuadraticParts_four_not_dvd_odd_sq_add_one
 -- name    : Formalism.RankGapBounds.LocalQuadraticParts.four_not_dvd_odd_sq_add_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:25:46.0198+00:00
 -- url     : https://prove2.me/theorems/dc5948a5-5f94-4e6e-94c1-e736b7a70cf0

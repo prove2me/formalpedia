@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Fgl1_cThree_map
 -- name    : Formalism.L2.Th1.A.Fgl1.cThree_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:53:18.637799+00:00
 -- url     : https://prove2.me/theorems/d9897a19-7c18-43cd-a893-5c385f111201

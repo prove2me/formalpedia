@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_digitPart_appL
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.digitPart_appL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:03:59.178898+00:00
 -- url     : https://prove2.me/theorems/18015d85-de53-4367-835f-ecaa255b5ad3

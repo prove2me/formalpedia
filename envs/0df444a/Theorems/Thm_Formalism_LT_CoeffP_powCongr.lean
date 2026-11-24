@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_CoeffP_powCongr
 -- name    : Formalism.LT.CoeffP.powCongr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:49.025454+00:00
 -- url     : https://prove2.me/theorems/0f43a1a3-f154-4043-8c5b-d69abb9e7545

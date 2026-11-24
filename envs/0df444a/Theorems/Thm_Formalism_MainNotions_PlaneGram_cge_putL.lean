@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_cge_putL
 -- name    : Formalism.MainNotions.PlaneGram.cge_putL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:06:51.803859+00:00
 -- url     : https://prove2.me/theorems/de219e62-6e86-44d8-9760-71e874e5d966

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SA_P_node_sub_node_ge
 -- name    : Formalism.SA.P.node_sub_node_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:27:56.079539+00:00
 -- url     : https://prove2.me/theorems/c8684f74-adc5-43aa-b1cc-5f5387852535

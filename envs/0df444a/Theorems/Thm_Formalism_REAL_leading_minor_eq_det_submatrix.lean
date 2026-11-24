@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_leading_minor_eq_det_submatrix
 -- name    : Formalism.REAL.leading_minor_eq_det_submatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:23:14.493803+00:00
 -- url     : https://prove2.me/theorems/c58911f0-8c05-4a91-acfb-9d4bc229af65

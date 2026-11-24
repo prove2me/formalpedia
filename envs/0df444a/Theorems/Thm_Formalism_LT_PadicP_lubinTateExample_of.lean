@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_PadicP_lubinTateExample_of
 -- name    : Formalism.LT.PadicP.lubinTateExample_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:51:59.02936+00:00
 -- url     : https://prove2.me/theorems/f6e3b3d5-f675-41a8-9c8b-c00524fcfd77

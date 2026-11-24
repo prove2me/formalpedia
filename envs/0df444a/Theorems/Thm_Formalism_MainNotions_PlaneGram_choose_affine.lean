@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_choose_affine
 -- name    : Formalism.MainNotions.PlaneGram.choose_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:06:50.718602+00:00
 -- url     : https://prove2.me/theorems/5c48a015-3a17-4003-98a9-fbed3c789673

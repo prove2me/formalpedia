@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_ExponentialIntegralMeasures_cauchy_torus
 -- name    : Formalism.NormUnitaryCountingLemmas.ExponentialIntegralMeasures.cauchy_torus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:16:45.026884+00:00
 -- url     : https://prove2.me/theorems/1c738c85-5d26-43ce-a22a-660a6a3593e8

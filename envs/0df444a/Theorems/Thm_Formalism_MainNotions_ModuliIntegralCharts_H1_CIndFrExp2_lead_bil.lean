@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrExp2_lead_bil
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrExp2.lead_bil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:58:29.524968+00:00
 -- url     : https://prove2.me/theorems/b0d3b760-54f8-480c-9bb7-b96a1a8b25c7

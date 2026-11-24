@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_TrivBound_vV_unit
 -- name    : GlobalTheory.Reg.TrivBound.vV_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:28:26.854719+00:00
 -- url     : https://prove2.me/theorems/a1a31e9d-ad78-47e2-8aac-525605a1e5cb

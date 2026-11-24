@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_vala_X
 -- name    : Formalism.MainNotions.PlaneGram.vala_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:08:03.29481+00:00
 -- url     : https://prove2.me/theorems/8b291602-7b48-4911-848a-a1389a59423e

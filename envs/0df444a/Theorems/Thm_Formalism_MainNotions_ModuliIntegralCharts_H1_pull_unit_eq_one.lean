@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_pull_unit_eq_one
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.pull_unit_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:38:09.81479+00:00
 -- url     : https://prove2.me/theorems/e6b43486-d492-4c33-b41d-f6e022cd85d9

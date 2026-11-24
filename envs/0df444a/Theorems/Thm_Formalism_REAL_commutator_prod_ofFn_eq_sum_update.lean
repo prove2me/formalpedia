@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_commutator_prod_ofFn_eq_sum_update
 -- name    : Formalism.REAL.commutator_prod_ofFn_eq_sum_update
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:19:54.025323+00:00
 -- url     : https://prove2.me/theorems/7c3dd416-fcc4-4018-8b85-7e0466da6a23

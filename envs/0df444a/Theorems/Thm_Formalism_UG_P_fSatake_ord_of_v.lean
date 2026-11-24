@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_fSatake_ord_of_v
 -- name    : Formalism.UG.P.fSatake_ord_of_v
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:31:41.562382+00:00
 -- url     : https://prove2.me/theorems/dbe787c2-2954-4060-9b69-cfa1012e0eac

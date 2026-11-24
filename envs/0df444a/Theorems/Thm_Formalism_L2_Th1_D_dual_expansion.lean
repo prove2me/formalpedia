@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_dual_expansion
 -- name    : Formalism.L2.Th1.D.dual_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:37:20.326504+00:00
 -- url     : https://prove2.me/theorems/49185141-c086-41f6-aaee-23c5273c662d

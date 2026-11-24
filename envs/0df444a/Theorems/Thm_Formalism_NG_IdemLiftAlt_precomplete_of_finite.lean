@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_IdemLiftAlt_precomplete_of_finite
 -- name    : Formalism.NG.IdemLiftAlt.precomplete_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:13:17.906337+00:00
 -- url     : https://prove2.me/theorems/e614fa82-37bb-4c5c-815d-9dea8dcd15f2

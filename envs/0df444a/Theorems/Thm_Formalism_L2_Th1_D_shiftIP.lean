@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_shiftIP
 -- name    : Formalism.L2.Th1.D.shiftIP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:14:42.796805+00:00
 -- url     : https://prove2.me/theorems/707c8e0a-fa96-4481-962b-8c70c22c0cd6

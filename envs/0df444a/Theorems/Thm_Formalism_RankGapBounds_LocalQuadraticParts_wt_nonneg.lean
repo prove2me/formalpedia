@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankGapBounds_LocalQuadraticParts_wt_nonneg
 -- name    : Formalism.RankGapBounds.LocalQuadraticParts.wt_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:25:42.104015+00:00
 -- url     : https://prove2.me/theorems/47996dc4-1c4b-4ccd-abf8-a6c179539ce7

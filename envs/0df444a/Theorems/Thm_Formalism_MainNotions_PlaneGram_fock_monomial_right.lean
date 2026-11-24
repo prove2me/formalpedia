@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_fock_monomial_right
 -- name    : Formalism.MainNotions.PlaneGram.fock_monomial_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:44:29.654156+00:00
 -- url     : https://prove2.me/theorems/a233c0ab-9f02-4f52-baf3-a499a040ef45

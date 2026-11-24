@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_cT_conj_eq_star
 -- name    : Formalism.UG.P.cT_conj_eq_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:30:43.302836+00:00
 -- url     : https://prove2.me/theorems/6a9c051a-25b9-4a4b-81b4-855c6e9dbac5

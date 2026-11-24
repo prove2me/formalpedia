@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_Inhab_isLatTup_smul_iff
 -- name    : Formalism.MainNotions.G.Inhab.isLatTup_smul_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:38.211168+00:00
 -- url     : https://prove2.me/theorems/83155934-be9c-49b7-9368-40f99961bab6

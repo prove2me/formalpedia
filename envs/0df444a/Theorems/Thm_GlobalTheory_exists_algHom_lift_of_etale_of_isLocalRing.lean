@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_algHom_lift_of_etale_of_isLocalRing
 -- name    : GlobalTheory.exists_algHom_lift_of_etale_of_isLocalRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:26:58.351157+00:00
 -- url     : https://prove2.me/theorems/23040b14-460f-493b-b5cc-623fb62d29ea

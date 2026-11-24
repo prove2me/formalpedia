@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_EtaleWeightGaps_coe_ordZ
 -- name    : Formalism.MainNotions.Gaps.EtaleWeightGaps.coe_ordZ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T18:10:25.338585+00:00
 -- url     : https://prove2.me/theorems/96052cfc-7551-47d3-be6e-d79498773b61

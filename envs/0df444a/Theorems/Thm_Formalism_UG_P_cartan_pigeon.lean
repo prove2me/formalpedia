@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_cartan_pigeon
 -- name    : Formalism.UG.P.cartan_pigeon
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:30:36.350405+00:00
 -- url     : https://prove2.me/theorems/961f2fdc-b186-4ef4-8f51-8a41ef95ab83

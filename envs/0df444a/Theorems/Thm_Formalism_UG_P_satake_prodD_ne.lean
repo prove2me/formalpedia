@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satake_prodD_ne
 -- name    : Formalism.UG.P.satake_prodD_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:34:38.268664+00:00
 -- url     : https://prove2.me/theorems/40791692-d77f-4fa1-9b63-03a395415523

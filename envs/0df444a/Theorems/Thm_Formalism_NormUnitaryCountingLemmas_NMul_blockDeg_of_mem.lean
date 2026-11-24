@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_NMul_blockDeg_of_mem
 -- name    : Formalism.NormUnitaryCountingLemmas.NMul.blockDeg_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:16:39.910078+00:00
 -- url     : https://prove2.me/theorems/65d05a36-4d7b-4d36-8c44-28606cfd7019

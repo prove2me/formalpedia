@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_pointwiseAction_mem_admissibleArrays
 -- name    : Formalism.REAL.pointwiseAction_mem_admissibleArrays
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:24:44.566057+00:00
 -- url     : https://prove2.me/theorems/9755c8c6-cde0-4c45-a60a-a8ed704cb51b

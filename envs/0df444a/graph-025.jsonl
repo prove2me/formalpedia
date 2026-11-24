@@ -39733,10 +39733,10 @@
 {"parent": "CEPolytopeHard.eq_14", "child": "CEPolytopeHard_gtilde", "via": ["statement"]}
 {"parent": "CEPolytopeHard.eq_14", "child": "CEPolytopeHard_nnorm", "via": ["statement"]}
 {"parent": "CEPolytopeHard.eq_14", "child": "CEPolytopeHard_gateMap", "via": ["statement"]}
-{"parent": "QueryDepthMIS.lemma_2_9", "child": "PunctSketch_coinProb", "via": ["statement"]}
-{"parent": "QueryDepthMIS.lemma_2_9", "child": "QueryDepthMIS_rank", "via": ["statement"]}
-{"parent": "QueryDepthMIS.lemma_2_9", "child": "QueryDepthMIS_aliveSet", "via": ["statement"]}
-{"parent": "QueryDepthMIS.lemma_2_9", "child": "QueryDepthMIS_maxDegOn", "via": ["statement"]}
+{"parent": "QueryDepthMIS.lemma_2_9", "child": "PunctSketch_coinProb", "via": ["solution", "statement"]}
+{"parent": "QueryDepthMIS.lemma_2_9", "child": "QueryDepthMIS_rank", "via": ["solution", "statement"]}
+{"parent": "QueryDepthMIS.lemma_2_9", "child": "QueryDepthMIS_aliveSet", "via": ["solution", "statement"]}
+{"parent": "QueryDepthMIS.lemma_2_9", "child": "QueryDepthMIS_maxDegOn", "via": ["solution", "statement"]}
 {"parent": "LindbladStructLearn.corollary_3_7", "child": "LindbladStructLearn_Amat", "via": ["statement"]}
 {"parent": "LindbladStructLearn.corollary_3_7", "child": "LindbladTolerant_Testing_lindblad_model", "via": ["statement"]}
 {"parent": "LindbladStructLearn.corollary_3_7", "child": "LindbladStructLearn_Vmat", "via": ["statement"]}

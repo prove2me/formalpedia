@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FJ_xcLatF
 -- name    : Formalism.L2.Pj.FJ.xcLatF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:41.154527+00:00
 -- url     : https://prove2.me/theorems/80ee0148-f1ad-4725-8733-6b0391791f6d

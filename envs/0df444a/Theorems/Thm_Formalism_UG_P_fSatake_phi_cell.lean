@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_fSatake_phi_cell
 -- name    : Formalism.UG.P.fSatake_phi_cell
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:31:49.427806+00:00
 -- url     : https://prove2.me/theorems/121506ba-ccd6-42d0-937d-ffe9d1e58feb

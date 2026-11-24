@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_sf_map
 -- name    : Formalism.UG.P.sf_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:34:09.737829+00:00
 -- url     : https://prove2.me/theorems/eea4dbed-09fc-4dc3-a208-922259f2e8cb

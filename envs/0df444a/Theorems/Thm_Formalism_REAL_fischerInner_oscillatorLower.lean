@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_fischerInner_oscillatorLower
 -- name    : Formalism.REAL.fischerInner_oscillatorLower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:21:22.782872+00:00
 -- url     : https://prove2.me/theorems/450df52e-3cb5-434a-a4fd-b7ae1a6379d8

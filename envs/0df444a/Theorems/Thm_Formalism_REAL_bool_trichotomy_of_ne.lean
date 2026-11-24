@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_bool_trichotomy_of_ne
 -- name    : Formalism.REAL.bool_trichotomy_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:20:35.730812+00:00
 -- url     : https://prove2.me/theorems/c1f39ac2-d83c-4fdd-9d03-1fa6e1d50058

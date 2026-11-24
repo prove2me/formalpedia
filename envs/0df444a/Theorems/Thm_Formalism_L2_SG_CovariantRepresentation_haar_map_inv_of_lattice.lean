@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_CovariantRepresentation_haar_map_inv_of_lattice
 -- name    : Formalism.L2.SG.CovariantRepresentation.haar_map_inv_of_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:59.335289+00:00
 -- url     : https://prove2.me/theorems/39313fd2-9438-4f25-bb9b-003c0fe44886

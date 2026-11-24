@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_two_le_inertiaDeg
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.two_le_inertiaDeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:30:48.192798+00:00
 -- url     : https://prove2.me/theorems/166581db-c84b-4381-b588-e982a473cbe5

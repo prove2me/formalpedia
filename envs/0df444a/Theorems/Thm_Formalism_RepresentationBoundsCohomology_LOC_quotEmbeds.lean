@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_LOC_quotEmbeds
 -- name    : Formalism.RepresentationBoundsCohomology.LOC.quotEmbeds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:27:37.802002+00:00
 -- url     : https://prove2.me/theorems/818aefc4-596f-4341-b4cb-7857b531ea7a

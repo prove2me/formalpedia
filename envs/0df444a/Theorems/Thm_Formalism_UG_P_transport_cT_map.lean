@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_transport_cT_map
 -- name    : Formalism.UG.P.transport_cT_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:38:30.074865+00:00
 -- url     : https://prove2.me/theorems/8ac3d45e-15cd-4adc-bb3f-0664c9081ff1

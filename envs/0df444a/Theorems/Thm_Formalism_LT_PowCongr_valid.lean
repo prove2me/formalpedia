@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_PowCongr_valid
 -- name    : Formalism.LT.PowCongr_valid
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:59:16.280359+00:00
 -- url     : https://prove2.me/theorems/c35d4710-d06b-4aff-a816-ae123a54486b

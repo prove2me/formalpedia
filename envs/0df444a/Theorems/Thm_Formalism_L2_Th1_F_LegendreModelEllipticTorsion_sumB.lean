@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_LegendreModelEllipticTorsion_sumB
 -- name    : Formalism.L2.Th1.F.LegendreModelEllipticTorsion.sumB
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:54:11.884084+00:00
 -- url     : https://prove2.me/theorems/291bf972-9ed6-4f83-b690-1ecdd8090345

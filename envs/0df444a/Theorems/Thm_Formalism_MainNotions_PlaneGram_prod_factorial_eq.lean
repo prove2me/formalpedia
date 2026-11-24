@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_prod_factorial_eq
 -- name    : Formalism.MainNotions.PlaneGram.prod_factorial_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:07:21.755268+00:00
 -- url     : https://prove2.me/theorems/cde5c22f-0a7a-490d-8a50-911af35a1294

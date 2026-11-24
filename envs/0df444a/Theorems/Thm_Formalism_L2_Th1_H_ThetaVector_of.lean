@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_ThetaVector_of
 -- name    : Formalism.L2.Th1.H.ThetaVector_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:28:03.293951+00:00
 -- url     : https://prove2.me/theorems/2c18cc6d-d6c6-4061-8af9-83c75468b13b

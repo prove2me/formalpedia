@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_IsBasisOn_tmul
 -- name    : GroundTheory.Arith.SchemeCoh.IsBasisOn.tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:27:26.629557+00:00
 -- url     : https://prove2.me/theorems/03bc9e42-d45d-48e4-ae3d-7627a304d417

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_gLoc_conj_mem
 -- name    : Formalism.UG.P.gLoc_conj_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:31:52.038847+00:00
 -- url     : https://prove2.me/theorems/cdca6349-54da-4771-bc39-631874a9bc40

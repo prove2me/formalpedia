@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_group_inverse_holds
 -- name    : Formalism.QuantumDeterminants.group_inverse_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:20:11.099+00:00
 -- url     : https://prove2.me/theorems/bd120440-83fa-4c37-819e-5cc54945229e

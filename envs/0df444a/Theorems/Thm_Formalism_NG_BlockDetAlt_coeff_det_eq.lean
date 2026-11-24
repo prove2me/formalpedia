@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_BlockDetAlt_coeff_det_eq
 -- name    : Formalism.NG.BlockDetAlt.coeff_det_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:12:26.652829+00:00
 -- url     : https://prove2.me/theorems/e93d5d79-1bf2-4c3a-a6e1-c576157c5859

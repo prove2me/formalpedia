@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ThetaLiftIndependence_GaussOperatorLemmas_sum_units_eq_sub
 -- name    : Formalism.ThetaLiftIndependence.GaussOperatorLemmas.sum_units_eq_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:29:06.84606+00:00
 -- url     : https://prove2.me/theorems/74f79441-7489-47bf-b85c-608cd75268f9

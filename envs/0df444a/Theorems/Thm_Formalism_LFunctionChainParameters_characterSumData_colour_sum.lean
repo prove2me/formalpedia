@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_characterSumData_colour_sum
 -- name    : Formalism.LFunctionChainParameters.characterSumData.colour_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:37:22.14282+00:00
 -- url     : https://prove2.me/theorems/088109a2-63bf-4df5-beca-aa8872203e05

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_compact_casimir_value_eq
 -- name    : Formalism.REAL.compact_casimir_value_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:22:20.368672+00:00
 -- url     : https://prove2.me/theorems/332e5f6d-4611-4241-a65e-f79c27d84ac3

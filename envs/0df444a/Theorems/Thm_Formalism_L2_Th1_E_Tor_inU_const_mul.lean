@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_Tor_inU_const_mul
 -- name    : Formalism.L2.Th1.E.Tor.inU_const_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:51:54.416233+00:00
 -- url     : https://prove2.me/theorems/853d4890-1729-4d23-9c0a-4e2427a5eea0

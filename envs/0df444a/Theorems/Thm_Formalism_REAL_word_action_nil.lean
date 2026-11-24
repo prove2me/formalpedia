@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_word_action_nil
 -- name    : Formalism.REAL.word_action_nil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:25:43.34047+00:00
 -- url     : https://prove2.me/theorems/d1d2134c-d56e-486c-b2fa-ebd328f02324

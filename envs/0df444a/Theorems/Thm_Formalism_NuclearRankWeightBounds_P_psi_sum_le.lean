@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NuclearRankWeightBounds_P_psi_sum_le
 -- name    : Formalism.NuclearRankWeightBounds.P.psi_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:17:45.946845+00:00
 -- url     : https://prove2.me/theorems/f3e0aa75-70f3-44ff-bc9b-91c4e99e7a7a

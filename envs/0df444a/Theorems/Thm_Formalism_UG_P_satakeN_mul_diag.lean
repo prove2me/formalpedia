@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satakeN_mul_diag
 -- name    : Formalism.UG.P.satakeN_mul_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:33:04.114752+00:00
 -- url     : https://prove2.me/theorems/29f1c2bf-7317-4160-b08a-0b7fa8c81200

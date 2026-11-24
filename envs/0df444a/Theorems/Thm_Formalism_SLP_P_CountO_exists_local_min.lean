@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_P_CountO_exists_local_min
 -- name    : Formalism.SLP.P.CountO.exists_local_min
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:29:03.160134+00:00
 -- url     : https://prove2.me/theorems/090d5d15-0a9e-48d0-b052-77955c9ec4f7

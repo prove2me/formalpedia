@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_afsplit_coord_prV
 -- name    : Formalism.UG.P.afsplit_coord_prV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:30:40.12769+00:00
 -- url     : https://prove2.me/theorems/38e8d4a1-6086-412a-8084-ac468b769c7b

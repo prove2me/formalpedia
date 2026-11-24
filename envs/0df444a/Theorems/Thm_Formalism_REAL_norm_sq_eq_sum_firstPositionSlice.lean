@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_norm_sq_eq_sum_firstPositionSlice
 -- name    : Formalism.REAL.norm_sq_eq_sum_firstPositionSlice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:25:14.785739+00:00
 -- url     : https://prove2.me/theorems/b494d326-4592-49b7-8686-5323e0774450

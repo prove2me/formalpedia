@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_zeta_proposition_first
 -- name    : Formalism.HermitianLattices.TraceIntegrality.zeta_proposition_first
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:04.267194+00:00
 -- url     : https://prove2.me/theorems/e18a3c5b-9ae4-4f12-8f1a-100fe02997ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_interlace
 -- name    : Formalism.DivisionValues.interlace
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:23:20.760451+00:00
 -- url     : https://prove2.me/theorems/18e73956-62de-430f-a94a-914aacd5c1c5

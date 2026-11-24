@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Pfun_ne_zero_of_one_le_re
 -- name    : Formalism.Pfun_ne_zero_of_one_le_re
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:17:58.124352+00:00
 -- url     : https://prove2.me/theorems/47defdc3-be9f-4cb6-a8d8-8214d76a300e

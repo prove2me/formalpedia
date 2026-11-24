@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_torusTil
 -- name    : Formalism.L2.Th1.D.torusTil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:14:34.491801+00:00
 -- url     : https://prove2.me/theorems/7f4c62df-7522-4b0e-854a-7eafc768e691

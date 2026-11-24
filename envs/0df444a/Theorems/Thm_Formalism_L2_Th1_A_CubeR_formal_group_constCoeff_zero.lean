@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_CubeR_formal_group_constCoeff_zero
 -- name    : Formalism.L2.Th1.A.CubeR.formal_group_constCoeff_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:12.943809+00:00
 -- url     : https://prove2.me/theorems/33c0d8b3-7013-4c7d-a3dc-f2dd231a96b2

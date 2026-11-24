@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_WDA_op
 -- name    : Formalism.REAL.WDA_op
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:20:08.759517+00:00
 -- url     : https://prove2.me/theorems/a51736e3-c5a7-4185-a0e9-7c81a038fc66

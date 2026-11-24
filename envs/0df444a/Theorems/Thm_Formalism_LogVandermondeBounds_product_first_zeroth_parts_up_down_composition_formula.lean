@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_product_first_zeroth_parts_up_down_composition_formula
 -- name    : Formalism.LogVandermondeBounds.product_first_zeroth_parts.up_down_composition_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:46.088748+00:00
 -- url     : https://prove2.me/theorems/994a6320-ca92-43dd-9a11-fe1a076a270c

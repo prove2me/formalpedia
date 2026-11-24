@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_eigenvalue_real
 -- name    : Formalism.REAL.eigenvalue_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:21:37.788439+00:00
 -- url     : https://prove2.me/theorems/22f35222-ba53-4a53-92da-f0bdfa11bba1

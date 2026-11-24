@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_shiftedGenerator_quadratic
 -- name    : Formalism.REAL.shiftedGenerator_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:26:18.719965+00:00
 -- url     : https://prove2.me/theorems/14db90fe-3ee1-43dd-8f8e-ada5b10f3d29

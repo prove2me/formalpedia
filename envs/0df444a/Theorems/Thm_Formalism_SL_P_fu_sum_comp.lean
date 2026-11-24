@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SL_P_fu_sum_comp
 -- name    : Formalism.SL.P.fu_sum_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:27:21.041909+00:00
 -- url     : https://prove2.me/theorems/91a1c248-9b34-4828-a646-d18753ef5b0c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_levelvsplit_unitary
 -- name    : Formalism.UG.P.levelvsplit_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:33:35.257903+00:00
 -- url     : https://prove2.me/theorems/534b1da9-5df4-4633-8d69-25f10cd2c70c

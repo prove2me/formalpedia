@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_revCS
 -- name    : Formalism.QuantumDeterminants.revCS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:20:08.114665+00:00
 -- url     : https://prove2.me/theorems/f77a56cb-35c6-412c-a6bd-d3b751a0b35d

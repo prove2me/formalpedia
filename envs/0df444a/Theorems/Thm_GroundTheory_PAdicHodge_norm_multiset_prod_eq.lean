@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_norm_multiset_prod_eq
 -- name    : GroundTheory.PAdicHodge.norm_multiset_prod_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:29:11.370487+00:00
 -- url     : https://prove2.me/theorems/365209dd-5128-4cb3-b8b4-e48b4da4c19d

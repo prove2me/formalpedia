@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_f1alg_ct_comm
 -- name    : Formalism.REAL.f1alg_ct_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:21:46.640817+00:00
 -- url     : https://prove2.me/theorems/ed066c02-069b-4227-8b82-4cac222f0d6d

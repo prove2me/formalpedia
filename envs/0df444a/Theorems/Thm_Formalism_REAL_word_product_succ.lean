@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_word_product_succ
 -- name    : Formalism.REAL.word_product_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:26:02.885563+00:00
 -- url     : https://prove2.me/theorems/4806b917-3c09-47fc-a0d4-c7f41380b5ad

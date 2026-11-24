@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_epowCov
 -- name    : Formalism.REAL.epowCov
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:22:19.561868+00:00
 -- url     : https://prove2.me/theorems/041f0944-2bd3-4c6d-b513-677a94cddbee

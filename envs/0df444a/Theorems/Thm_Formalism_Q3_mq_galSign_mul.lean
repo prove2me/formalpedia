@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_mq_galSign_mul
 -- name    : Formalism.Q3.mq_galSign_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:18:35.119138+00:00
 -- url     : https://prove2.me/theorems/1ac816d5-6cb1-484f-800c-e9c49eb1cbf2

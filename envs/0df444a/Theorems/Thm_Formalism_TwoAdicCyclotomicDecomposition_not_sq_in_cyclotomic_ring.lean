@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_not_sq_in_cyclotomic_ring
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.not_sq_in_cyclotomic_ring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:30:42.063737+00:00
 -- url     : https://prove2.me/theorems/1c830352-750f-41e0-9308-7ffc401fcb53

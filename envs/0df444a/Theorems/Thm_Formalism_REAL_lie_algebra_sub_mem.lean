@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_lie_algebra_sub_mem
 -- name    : Formalism.REAL.lie_algebra_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:23:26.215269+00:00
 -- url     : https://prove2.me/theorems/1c2dc40e-8a04-4978-86f7-0af6e22ac753

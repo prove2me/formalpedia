@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_StandardLattice_variation_in_context
 -- name    : Formalism.LogVandermondeBounds.StandardLattice.variation_in_context
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:14:22.955218+00:00
 -- url     : https://prove2.me/theorems/da7f21a4-e8a0-431a-a025-1b8dd5692883

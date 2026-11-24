@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_EGauss_map_hhS
 -- name    : Formalism.InvariantFactorPaths.G7.EGauss.map_hhS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:53:40.989165+00:00
 -- url     : https://prove2.me/theorems/1b1c0f34-6d02-4366-942a-8c9faf78fee5

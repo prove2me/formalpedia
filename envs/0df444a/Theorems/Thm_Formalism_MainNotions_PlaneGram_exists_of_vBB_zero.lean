@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_exists_of_vBB_zero
 -- name    : Formalism.MainNotions.PlaneGram.exists_of_vBB_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:44:20.904803+00:00
 -- url     : https://prove2.me/theorems/9b4167bb-7242-4cd2-b19c-14d380eae46c

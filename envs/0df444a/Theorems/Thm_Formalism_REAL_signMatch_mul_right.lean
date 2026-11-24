@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_signMatch_mul_right
 -- name    : Formalism.REAL.signMatch_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:26:25.208799+00:00
 -- url     : https://prove2.me/theorems/fbdb7a37-1e16-47f8-8818-f56154d921fb

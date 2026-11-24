@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Primitive_iSup_triple
 -- name    : GlobalTheory.KS.Primitive.iSup_triple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:27:29.784688+00:00
 -- url     : https://prove2.me/theorems/17a6e7d4-3921-4759-ab4f-ef0621646426

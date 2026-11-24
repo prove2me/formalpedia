@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_segL_fk
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.segL_fk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:05:49.878643+00:00
 -- url     : https://prove2.me/theorems/05f82e7e-bdd8-4113-8603-f3f01ae18c1a

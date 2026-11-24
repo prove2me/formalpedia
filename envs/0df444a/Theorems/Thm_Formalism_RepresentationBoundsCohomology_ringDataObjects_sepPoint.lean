@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_ringDataObjects_sepPoint
 -- name    : Formalism.RepresentationBoundsCohomology.ringDataObjects.sepPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:28:46.217004+00:00
 -- url     : https://prove2.me/theorems/efdb7d57-4cba-439c-bb44-7227842f5720

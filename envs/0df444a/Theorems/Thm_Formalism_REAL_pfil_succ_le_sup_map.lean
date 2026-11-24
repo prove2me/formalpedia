@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_pfil_succ_le_sup_map
 -- name    : Formalism.REAL.pfil_succ_le_sup_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:24:35.145618+00:00
 -- url     : https://prove2.me/theorems/80440dac-ac73-4f2c-96c4-6be6ebc24b17

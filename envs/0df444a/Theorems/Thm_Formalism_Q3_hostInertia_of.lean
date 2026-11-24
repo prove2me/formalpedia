@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_hostInertia_of
 -- name    : Formalism.Q3.hostInertia_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:19:09.306456+00:00
 -- url     : https://prove2.me/theorems/f2432a64-777e-4678-91d0-2a6fffa89003

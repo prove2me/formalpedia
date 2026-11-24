@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_proj_keeps_letter
 -- name    : Formalism.MainNotions.PlaneGram.proj_keeps_letter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:07:17.20333+00:00
 -- url     : https://prove2.me/theorems/0b998d12-e581-4103-8019-1a9ad7700d03

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_HWDiag_charpoly
 -- name    : Formalism.REAL.HWDiag_charpoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:19:48.9371+00:00
 -- url     : https://prove2.me/theorems/ef3fa6b0-2c7c-4c64-a95f-a42eda5667d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_ColumnGeneratorDecomposition_eq_zero_of_gens
 -- name    : Formalism.NG.ColumnGeneratorDecomposition.eq_zero_of_gens
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:06:38.29999+00:00
 -- url     : https://prove2.me/theorems/498ffa0c-6530-4bcf-b98e-63f52122bfe2

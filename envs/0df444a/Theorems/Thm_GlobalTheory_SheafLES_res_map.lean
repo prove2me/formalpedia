@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SheafLES_res_map
 -- name    : GlobalTheory.SheafLES.res_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:27:41.991144+00:00
 -- url     : https://prove2.me/theorems/aa527c45-4119-4d03-b7ee-6befff7b336d

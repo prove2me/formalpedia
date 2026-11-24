@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_LOC_smul_bij
 -- name    : Formalism.RepresentationBoundsCohomology.LOC.smul_bij
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:27:46.776545+00:00
 -- url     : https://prove2.me/theorems/1d8e5a33-2030-48bb-bc90-7232324366ec

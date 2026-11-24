@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_kapL_mono
 -- name    : Formalism.MainNotions.PlaneGram.kapL_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:07:13.703477+00:00
 -- url     : https://prove2.me/theorems/086c06a8-e1f4-48bd-9b2d-638a02e2ec50

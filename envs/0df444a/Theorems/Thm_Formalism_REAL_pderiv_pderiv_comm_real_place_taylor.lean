@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_pderiv_pderiv_comm_real_place_taylor
 -- name    : Formalism.REAL.pderiv_pderiv_comm_real_place_taylor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:24:44.460475+00:00
 -- url     : https://prove2.me/theorems/6abab5f1-4928-43fe-a40a-fc1f8a9c9aae

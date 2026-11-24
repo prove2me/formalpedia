@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_compact_lie_commute_casimir
 -- name    : Formalism.REAL.compact_lie_commute_casimir
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:22:11.857252+00:00
 -- url     : https://prove2.me/theorems/7398d923-e192-490d-b8a8-ad35216c4b63

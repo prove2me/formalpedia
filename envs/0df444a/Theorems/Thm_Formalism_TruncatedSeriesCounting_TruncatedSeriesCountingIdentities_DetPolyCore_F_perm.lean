@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TruncatedSeriesCounting_TruncatedSeriesCountingIdentities_DetPolyCore_F_perm
 -- name    : Formalism.TruncatedSeriesCounting.TruncatedSeriesCountingIdentities.DetPolyCore.F_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:29:54.723323+00:00
 -- url     : https://prove2.me/theorems/5d44f6c3-c7b7-40a7-bc23-32940c8d3ac4

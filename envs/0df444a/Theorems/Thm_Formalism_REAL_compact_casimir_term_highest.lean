@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_compact_casimir_term_highest
 -- name    : Formalism.REAL.compact_casimir_term_highest
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:22:10.389356+00:00
 -- url     : https://prove2.me/theorems/f0e00700-b1fc-4e52-9bd9-ea078790bb85

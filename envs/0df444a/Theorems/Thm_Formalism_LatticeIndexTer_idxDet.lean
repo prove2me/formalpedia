@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_idxDet
 -- name    : Formalism.LatticeIndexTer.idxDet
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:36.031097+00:00
 -- url     : https://prove2.me/theorems/b780224a-ae4a-4ae7-b58e-7173f4e46f24

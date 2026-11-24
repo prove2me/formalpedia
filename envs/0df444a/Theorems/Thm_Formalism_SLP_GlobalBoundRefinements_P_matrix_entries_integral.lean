@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_GlobalBoundRefinements_P_matrix_entries_integral
 -- name    : Formalism.SLP.GlobalBoundRefinements.P.matrix_entries_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:29:40.985118+00:00
 -- url     : https://prove2.me/theorems/d0e66e5c-c318-4106-b48e-c0c2788a2213

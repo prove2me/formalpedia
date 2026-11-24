@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_LOC_exists_pow_smul_integral
 -- name    : Formalism.RepresentationBoundsCohomology.LOC.exists_pow_smul_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:26:06.248264+00:00
 -- url     : https://prove2.me/theorems/3940d37f-8bbe-40b9-bf69-8773f0473c71

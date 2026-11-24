@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_coordBall_mass_6af667653fce
 -- name    : P2M_GroundTheory_Heights__Heights_coordBall_mass_6af667653fce
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:53:54.711883+00:00
 -- url     : https://prove2.me/theorems/7bbe9e28-3ca3-4f7a-823e-e48c93e980de

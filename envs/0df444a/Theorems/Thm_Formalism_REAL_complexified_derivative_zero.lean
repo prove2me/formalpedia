@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_complexified_derivative_zero
 -- name    : Formalism.REAL.complexified_derivative_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:21:34.945356+00:00
 -- url     : https://prove2.me/theorems/1df1a44a-fcb0-48c2-b1c1-271c1300c23e

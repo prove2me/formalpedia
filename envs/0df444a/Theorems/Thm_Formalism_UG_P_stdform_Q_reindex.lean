@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_stdform_Q_reindex
 -- name    : Formalism.UG.P.stdform_Q_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:36:44.869487+00:00
 -- url     : https://prove2.me/theorems/8fe5f14d-7a23-4429-8a66-60b75468a359

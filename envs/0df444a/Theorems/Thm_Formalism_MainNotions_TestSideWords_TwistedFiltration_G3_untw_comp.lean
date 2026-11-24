@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_TestSideWords_TwistedFiltration_G3_untw_comp
 -- name    : Formalism.MainNotions.TestSideWords.TwistedFiltration.G3.untw_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:12:06.140816+00:00
 -- url     : https://prove2.me/theorems/19767262-8427-4af5-a881-bb7d9710b287

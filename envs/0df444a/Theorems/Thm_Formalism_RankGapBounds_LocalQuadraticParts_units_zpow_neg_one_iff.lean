@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankGapBounds_LocalQuadraticParts_units_zpow_neg_one_iff
 -- name    : Formalism.RankGapBounds.LocalQuadraticParts.units_zpow_neg_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:25:36.782526+00:00
 -- url     : https://prove2.me/theorems/ffbacf6e-bf57-4a68-bafd-a385fd4a8649

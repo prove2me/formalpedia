@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_sigex_cT_conj_eq
 -- name    : Formalism.UG.P.sigex_cT_conj_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:34:11.030173+00:00
 -- url     : https://prove2.me/theorems/4f9fa99e-5b05-4d57-b391-5e755f436e90

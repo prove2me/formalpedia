@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_expFPS_radius
 -- name    : Formalism.L2.Th1.H.expFPS_radius
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:16.021329+00:00
 -- url     : https://prove2.me/theorems/9cc26c58-67b6-4ef0-b10b-23a33ec1e91c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_ddiv_onLetter_monomial
 -- name    : Formalism.MainNotions.PlaneGram.ddiv_onLetter_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:06:29.133794+00:00
 -- url     : https://prove2.me/theorems/6b53a0eb-2ce2-436c-8bcf-ab8db63e48d8

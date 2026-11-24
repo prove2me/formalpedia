@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_bilinear_commutator_identity
 -- name    : Formalism.REAL.bilinear_commutator_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:20:19.014392+00:00
 -- url     : https://prove2.me/theorems/f671d985-dfb2-4c1c-8cc9-800c1ecc32b7

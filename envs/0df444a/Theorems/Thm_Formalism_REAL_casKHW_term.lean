@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_casKHW_term
 -- name    : Formalism.REAL.casKHW_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:19:46.984848+00:00
 -- url     : https://prove2.me/theorems/7544d1cf-225c-48bb-a913-e583f9ab01e9

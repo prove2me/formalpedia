@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RawChart_constantCoeff_sg
 -- name    : Formalism.L2.FormalSeriesBounds.RawChart.constantCoeff_sg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:19:04.565145+00:00
 -- url     : https://prove2.me/theorems/745d42c1-619c-4637-9a7e-2811aa3d8365

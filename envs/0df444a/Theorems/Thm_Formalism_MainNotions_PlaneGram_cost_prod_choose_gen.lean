@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_cost_prod_choose_gen
 -- name    : Formalism.MainNotions.PlaneGram.cost_prod_choose_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:06:28.186131+00:00
 -- url     : https://prove2.me/theorems/14c67104-fb50-4a50-98d0-37e63d5d5d06

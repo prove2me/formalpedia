@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_comp_mem
 -- name    : Formalism.LIFT.comp_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:13.743251+00:00
 -- url     : https://prove2.me/theorems/a2395eaa-3ca9-47c8-9c48-ac65cf882b67

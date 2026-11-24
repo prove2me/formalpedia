@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_WDA_norm
 -- name    : Formalism.REAL.WDA_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:20:08.046795+00:00
 -- url     : https://prove2.me/theorems/d1d91d5f-7199-40ff-9c26-a416cd870b0f

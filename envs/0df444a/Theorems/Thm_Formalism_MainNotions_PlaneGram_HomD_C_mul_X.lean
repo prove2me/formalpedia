@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_HomD_C_mul_X
 -- name    : Formalism.MainNotions.PlaneGram.HomD_C_mul_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:03:31.7134+00:00
 -- url     : https://prove2.me/theorems/cc230063-59e2-42a3-951b-6eb65405b4a6

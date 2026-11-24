@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TruncatedSeriesCounting_TruncatedSeriesCountingIdentities_DetPolyApp_charpolyRev_map
 -- name    : Formalism.TruncatedSeriesCounting.TruncatedSeriesCountingIdentities.DetPolyApp.charpolyRev_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:29:12.529537+00:00
 -- url     : https://prove2.me/theorems/a4d56d49-6e44-41b6-b8de-a1b9ae704ff6

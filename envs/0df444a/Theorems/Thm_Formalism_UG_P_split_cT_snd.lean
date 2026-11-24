@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_split_cT_snd
 -- name    : Formalism.UG.P.split_cT_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:37:14.655061+00:00
 -- url     : https://prove2.me/theorems/05537d15-13e4-4105-9c0d-7fb1b1a1e0e2

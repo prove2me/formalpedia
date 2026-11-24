@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satake_cpow_prod
 -- name    : Formalism.UG.P.satake_cpow_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:33:20.054619+00:00
 -- url     : https://prove2.me/theorems/f6873cc8-a0fb-4532-85f1-c605f37884da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_wirt_uW
 -- name    : Formalism.QuantumDeterminants.wirt_uW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:20:29.359721+00:00
 -- url     : https://prove2.me/theorems/f6e36c92-4375-4098-adc2-e6ce4b8cbf24

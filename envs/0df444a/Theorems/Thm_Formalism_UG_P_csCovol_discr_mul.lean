@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_csCovol_discr_mul
 -- name    : Formalism.UG.P.csCovol_discr_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:32:28.233477+00:00
 -- url     : https://prove2.me/theorems/568a392b-a729-4e18-9660-8e3fb974ee2e

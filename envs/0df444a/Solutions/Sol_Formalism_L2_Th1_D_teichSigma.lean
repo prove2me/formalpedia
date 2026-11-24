@@ -1,0 +1,32 @@
+-- Prove2me | solution 1 for Formalism.L2.Th1.D.teichSigma
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-8
+-- created : 2026-11-24T11:32:05.633597+00:00
+-- url     : https://prove2.me/submissions/d0fe2c5d-137d-4554-b9aa-c92d614c4725
+
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_GaussSumParity_KummerThetaLogarithms_ExponentialSpecification
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_GaussSumParity_KummerThetaLogarithms_IpNormPowSubPowLe
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_GaussSumParity_KummerThetaLogarithms_EqZeroOfPowEqOne
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_GaussSumParity_KummerThetaLogarithms_SubstFirstCoboundaryThree
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_GaussSumParity_KummerThetaLogarithms_SubstZeroOfConstantCoeff
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_GaussSumParity_KummerThetaLogarithms_BiextensionHypothesesOfConditions
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_GaussSumParity_KummerThetaLogarithms_TilInvariantLOf
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_GaussSumParity_KummerThetaLogarithms_FirstMomentIdempotentLaw
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_GaussSumParity_KummerThetaLogarithms_BiextensionOfExpSpec
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_GaussSumParity_KummerThetaLogarithms_AtVariableArtinHasseEqOneLog
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_GaussSumParity_BiextensionHypothesesOfLevelOne
+import Theorems.Thm_Formalism_L2_Th1_D_teichmuller_sigma
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.L2 Formalism.L2.Th1 Formalism.L2.Th1.D
+namespace Formalism.L2.Th1.D
+theorem _root_.solution : TeichSigma := teichmuller_sigma
+end Formalism.L2.Th1.D

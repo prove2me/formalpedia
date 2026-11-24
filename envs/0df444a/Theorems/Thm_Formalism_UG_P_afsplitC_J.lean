@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_afsplitC_J
 -- name    : Formalism.UG.P.afsplitC_J
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:31:14.841803+00:00
 -- url     : https://prove2.me/theorems/1a787db1-f102-4aee-835b-e28ee1fc2e7c

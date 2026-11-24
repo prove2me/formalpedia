@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_stdform_normSq
 -- name    : Formalism.UG.P.stdform_normSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:36:04.679299+00:00
 -- url     : https://prove2.me/theorems/3c31c197-3c5a-43f1-a528-a94f9326541b

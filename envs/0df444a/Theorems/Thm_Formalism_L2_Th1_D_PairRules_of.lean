@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_PairRules_of
 -- name    : Formalism.L2.Th1.D.PairRules_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:23:20.956459+00:00
 -- url     : https://prove2.me/theorems/fa046b4b-1649-4999-98dd-24bd29e26a97

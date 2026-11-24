@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_casKHW_arith
 -- name    : Formalism.REAL.casKHW_arith
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:20:21.270295+00:00
 -- url     : https://prove2.me/theorems/ef2f80f6-43de-4287-a681-1b9568462035

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankGapBounds_LocalQuadraticParts_sq_sub_one_dvd_iff
 -- name    : Formalism.RankGapBounds.LocalQuadraticParts.sq_sub_one_dvd_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:25:26.233769+00:00
 -- url     : https://prove2.me/theorems/d3128050-9d25-408d-a625-f83585467984

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_mulX_negDeriv_commutator
 -- name    : Formalism.REAL.mulX_negDeriv_commutator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:24:25.455431+00:00
 -- url     : https://prove2.me/theorems/a9abb639-21b4-4830-81c8-32d100decd4d

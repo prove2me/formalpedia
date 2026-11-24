@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RawChart_van_hRow
 -- name    : Formalism.L2.FormalSeriesBounds.RawChart.van_hRow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:07:10.897805+00:00
 -- url     : https://prove2.me/theorems/3f8bad8e-f94a-48a7-ba9d-9a00febb91a2

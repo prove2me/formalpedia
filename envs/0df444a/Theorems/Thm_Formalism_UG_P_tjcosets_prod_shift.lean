@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_tjcosets_prod_shift
 -- name    : Formalism.UG.P.tjcosets_prod_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:38:18.560863+00:00
 -- url     : https://prove2.me/theorems/4b550b3e-1ac2-43ab-945c-7409e7ec375b

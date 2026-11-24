@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_exwa_restrict_pow_coe
 -- name    : Formalism.WeaklyAdmissibleFiltrations.exwa_restrict_pow_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:39:44.052804+00:00
 -- url     : https://prove2.me/theorems/52a89397-601f-4535-8b46-14bf43d691dd

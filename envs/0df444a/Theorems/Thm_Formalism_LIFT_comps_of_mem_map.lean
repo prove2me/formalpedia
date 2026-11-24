@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_comps_of_mem_map
 -- name    : Formalism.LIFT.comps_of_mem_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:55.040237+00:00
 -- url     : https://prove2.me/theorems/b47c6ed6-b6d7-4adc-a746-e5a22cb7af3f

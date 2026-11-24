@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankGapBounds_LocalQuadraticParts_pm_modulus_facts
 -- name    : Formalism.RankGapBounds.LocalQuadraticParts.pm_modulus_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:25:55.833801+00:00
 -- url     : https://prove2.me/theorems/7a35f6c4-aee2-496a-85d8-44dfc647e83d

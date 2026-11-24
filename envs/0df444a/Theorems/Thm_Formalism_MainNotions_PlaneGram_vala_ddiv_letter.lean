@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_vala_ddiv_letter
 -- name    : Formalism.MainNotions.PlaneGram.vala_ddiv_letter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:07:54.053943+00:00
 -- url     : https://prove2.me/theorems/8847b907-a338-44e4-96b7-8163d50f7e76

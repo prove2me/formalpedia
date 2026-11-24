@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_restriction_min_max_int_holds
 -- name    : Formalism.InvariantFactorPaths.L4.restriction_min_max_int_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:39.758791+00:00
 -- url     : https://prove2.me/theorems/4ef977e4-108c-4b96-94c7-7eee1d5992fe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LowSmooth_conj_mem_Kset
 -- name    : PI.UnitaryGroupMassFormula.LowSmooth.conj_mem_Kset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:29:31.008501+00:00
 -- url     : https://prove2.me/theorems/f58e08c6-24b9-40f6-a9e4-9a953e58626a

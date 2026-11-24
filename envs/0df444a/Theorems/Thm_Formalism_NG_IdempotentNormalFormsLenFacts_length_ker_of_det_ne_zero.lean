@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_IdempotentNormalFormsLenFacts_length_ker_of_det_ne_zero
 -- name    : Formalism.NG.IdempotentNormalFormsLenFacts.length_ker_of_det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:13:27.50529+00:00
 -- url     : https://prove2.me/theorems/1d5e18ca-6d32-40c5-9a41-202bdad986d2

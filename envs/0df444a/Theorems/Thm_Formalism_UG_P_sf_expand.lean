@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_sf_expand
 -- name    : Formalism.UG.P.sf_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:34:04.269806+00:00
 -- url     : https://prove2.me/theorems/60e2bcb5-c712-4be9-990e-5da7ee4cf01d

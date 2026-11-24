@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_rho_eq_of_eq
 -- name    : Formalism.UG.P.rho_eq_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:32:53.394992+00:00
 -- url     : https://prove2.me/theorems/d7e82e57-6968-4a1b-83ff-cc69862887fe

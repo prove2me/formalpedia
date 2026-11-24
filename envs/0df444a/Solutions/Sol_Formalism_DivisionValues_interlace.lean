@@ -1,0 +1,32 @@
+-- Prove2me | solution 1 for Formalism.DivisionValues.interlace
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-24T11:35:00.652669+00:00
+-- url     : https://prove2.me/submissions/a8d956e8-3ff6-4464-9597-34ef282e149f
+
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ConjTransposeEqOfPosDef
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ReductionLemmaFirst
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ReductionLemmaSecond
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_SpecDet
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ReductionSecondStep
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_VwEqZeroOfNotMem
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ReductionThirdStepMean
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_BoundsSum
+import Definitions.Def_Formalism_LogFactorialIndices_SignedSubspaceIndex_SumInterlacedBoundFails
+import Definitions.Def_Formalism_HarderNarasimhan_HarderNarasimhanProofs_TheoremFSharp
+import Definitions.Def_Formalism_QuotientMetricDivisors_ReductionLemmaZero
+import Theorems.Thm_Formalism_LatticeIndexTer_sumInterlacedBound
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.DivisionValues
+namespace Formalism.DivisionValues
+theorem _root_.solution : Formalism.LatticeIndexTer.Interlace := Formalism.LatticeIndexTer.sumInterlacedBound
+end Formalism.DivisionValues

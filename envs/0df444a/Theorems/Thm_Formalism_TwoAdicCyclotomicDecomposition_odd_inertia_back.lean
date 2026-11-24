@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_odd_inertia_back
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.odd_inertia_back
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:30:54.547057+00:00
 -- url     : https://prove2.me/theorems/399b94de-39ac-4f5a-865d-94ac8d147c84

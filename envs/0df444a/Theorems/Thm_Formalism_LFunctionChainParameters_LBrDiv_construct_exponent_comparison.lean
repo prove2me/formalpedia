@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBrDiv_construct_exponent_comparison
 -- name    : Formalism.LFunctionChainParameters.LBrDiv.construct_exponent_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:06:11.252795+00:00
 -- url     : https://prove2.me/theorems/e403e820-709c-4e97-94c8-9624bab5bea6

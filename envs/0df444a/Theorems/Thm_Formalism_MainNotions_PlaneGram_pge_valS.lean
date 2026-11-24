@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_pge_valS
 -- name    : Formalism.MainNotions.PlaneGram.pge_valS
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:37:49.789986+00:00
 -- url     : https://prove2.me/theorems/bb42b3ed-4098-4617-9785-4a6b4e16b356

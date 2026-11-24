@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogFactorialMertensBounds_lip_upto
 -- name    : Formalism.LogFactorialMertensBounds.lip_upto
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:06.51506+00:00
 -- url     : https://prove2.me/theorems/ae022902-2959-4702-a0bc-67599a522394

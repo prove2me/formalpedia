@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_symmetric_group_holds
 -- name    : Formalism.QuantumDeterminants.symmetric_group_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:34:02.504385+00:00
 -- url     : https://prove2.me/theorems/57117107-bdde-4625-ad2c-1444fbb2e690

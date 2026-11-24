@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_cartan_unif_lt_one
 -- name    : Formalism.UG.P.cartan_unif_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:30:42.063052+00:00
 -- url     : https://prove2.me/theorems/5080ba3c-4c65-40cc-aa60-af2f734d7896

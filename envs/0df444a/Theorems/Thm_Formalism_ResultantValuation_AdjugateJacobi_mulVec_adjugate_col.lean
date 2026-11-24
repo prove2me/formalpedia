@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ResultantValuation_AdjugateJacobi_mulVec_adjugate_col
 -- name    : Formalism.ResultantValuation.AdjugateJacobi.mulVec_adjugate_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:27:32.844993+00:00
 -- url     : https://prove2.me/theorems/9e47e0bb-f424-418e-bf36-7799b3e8e905

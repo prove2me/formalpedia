@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_ph_mem_PolK
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.ph_mem_PolK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:06:19.352442+00:00
 -- url     : https://prove2.me/theorems/2d683445-c26e-4cab-8272-b1d5899e93c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_compactSpan_le_isotypicPart
 -- name    : Formalism.REAL.compactSpan_le_isotypicPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:20:20.540129+00:00
 -- url     : https://prove2.me/theorems/235301a8-c57c-4562-a538-e0f49d896882

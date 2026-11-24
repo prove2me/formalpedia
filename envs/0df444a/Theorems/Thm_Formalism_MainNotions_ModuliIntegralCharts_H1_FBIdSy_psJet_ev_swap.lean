@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_FBIdSy_psJet_ev_swap
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.FBIdSy.psJet_ev_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:01:19.745221+00:00
 -- url     : https://prove2.me/theorems/150637e7-2bce-46b7-a3b3-c6c3069e9153

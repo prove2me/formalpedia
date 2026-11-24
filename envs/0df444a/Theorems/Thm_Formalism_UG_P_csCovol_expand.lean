@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_csCovol_expand
 -- name    : Formalism.UG.P.csCovol_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:32:32.916964+00:00
 -- url     : https://prove2.me/theorems/7fe9fc50-9188-4e2d-9587-862cb58de35e

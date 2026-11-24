@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_quotientLengthExt
 -- name    : Formalism.LatticeBaseChangeAlt.quotientLengthExt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:19.530814+00:00
 -- url     : https://prove2.me/theorems/9e8381eb-1fc6-4656-85ee-407137d4f1b1

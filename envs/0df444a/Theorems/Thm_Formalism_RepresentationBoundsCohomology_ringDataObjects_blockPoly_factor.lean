@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_ringDataObjects_blockPoly_factor
 -- name    : Formalism.RepresentationBoundsCohomology.ringDataObjects.blockPoly_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:32:16.684703+00:00
 -- url     : https://prove2.me/theorems/342ad1d9-2206-4f63-b832-b8056a2a0932

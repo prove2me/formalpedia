@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_permuted_words_diff_mem_pfil
 -- name    : Formalism.REAL.permuted_words_diff_mem_pfil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:24:36.69752+00:00
 -- url     : https://prove2.me/theorems/4bea7c7e-5a08-45cc-8ba8-efbdb685332c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankGapBounds_LocalQuadraticParts_sum_wt_var
 -- name    : Formalism.RankGapBounds.LocalQuadraticParts.sum_wt_var
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:25:46.721415+00:00
 -- url     : https://prove2.me/theorems/e312e883-a90c-4469-bee8-02dcb993a20a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_characterSumData_PB_card_G
 -- name    : Formalism.LFunctionChainParameters.characterSumData.PB.card_G
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:37:46.944855+00:00
 -- url     : https://prove2.me/theorems/8c5f2170-472b-476b-8c1f-0718dc7735b5

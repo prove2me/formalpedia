@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_C_integralEndoClosed__c3bb72aeab08
 -- name    : P2M_Formalism_L2_Th1_C_integralEndoClosed__c3bb72aeab08
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:05:51.06421+00:00
 -- url     : https://prove2.me/theorems/268a5a17-9e63-4e88-b785-15aeef5a8570

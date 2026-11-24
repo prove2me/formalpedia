@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_Unip_step_mat
 -- name    : Formalism.L2.SG.Pf.Unip.step_mat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:18:50.201294+00:00
 -- url     : https://prove2.me/theorems/4bf3e77b-2b60-4fa3-81de-311fc96f1b2d

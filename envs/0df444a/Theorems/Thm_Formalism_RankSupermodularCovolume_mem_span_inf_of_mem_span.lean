@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankSupermodularCovolume_mem_span_inf_of_mem_span
 -- name    : Formalism.RankSupermodularCovolume.mem_span_inf_of_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:26:25.364169+00:00
 -- url     : https://prove2.me/theorems/f617c8c8-af9f-40c9-bf51-ecce38e64db6

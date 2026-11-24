@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_f1alg_unit_iff
 -- name    : Formalism.REAL.f1alg_unit_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:21:01.812451+00:00
 -- url     : https://prove2.me/theorems/0ba799fe-e66c-47fd-b961-894c4c37ead1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_pullL_coefOut
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.pullL_coefOut
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:04:43.952396+00:00
 -- url     : https://prove2.me/theorems/363851cf-33d1-43b5-b02f-5e9be4477dae

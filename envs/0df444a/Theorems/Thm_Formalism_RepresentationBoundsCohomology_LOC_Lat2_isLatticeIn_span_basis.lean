@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_LOC_Lat2_isLatticeIn_span_basis
 -- name    : Formalism.RepresentationBoundsCohomology.LOC.Lat2.isLatticeIn_span_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:25:52.843948+00:00
 -- url     : https://prove2.me/theorems/c765516c-1a58-4b88-8f41-14d0d79a577c

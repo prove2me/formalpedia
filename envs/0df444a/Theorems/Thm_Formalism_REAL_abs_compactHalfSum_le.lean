@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_abs_compactHalfSum_le
 -- name    : Formalism.REAL.abs_compactHalfSum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:20:06.149861+00:00
 -- url     : https://prove2.me/theorems/4e77ccbe-6efa-4839-8215-814b2580ba6b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ValuationGridEstimates_norm_ratio_bound
 -- name    : Formalism.ValuationGridEstimates.norm_ratio_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:38:36.206999+00:00
 -- url     : https://prove2.me/theorems/1724518f-597f-433f-9155-fe1eafe8ce15

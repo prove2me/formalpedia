@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_tjcosets_mem_max
 -- name    : Formalism.UG.P.tjcosets_mem_max
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:38:18.337801+00:00
 -- url     : https://prove2.me/theorems/e28e68e0-ddc4-4a2a-bac4-998d43d5b843

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_IdempotentCriticalLength_smul_eq_zero_iff_crit
 -- name    : Formalism.NG.IdempotentCriticalLength.smul_eq_zero_iff_crit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:14:06.797417+00:00
 -- url     : https://prove2.me/theorems/6923f82f-41b9-4a0d-a4bb-5fa017a06015

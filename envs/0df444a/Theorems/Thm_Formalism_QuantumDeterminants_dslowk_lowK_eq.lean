@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_dslowk_lowK_eq
 -- name    : Formalism.QuantumDeterminants.dslowk_lowK_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:08:56.934998+00:00
 -- url     : https://prove2.me/theorems/bac2f33f-a1a3-40a2-a50e-b33fca6bc1db

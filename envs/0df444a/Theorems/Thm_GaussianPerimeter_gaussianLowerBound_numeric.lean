@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_gaussianLowerBound_numeric
 -- name    : GaussianPerimeter.gaussianLowerBound_numeric
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:10:25.477+00:00
 -- url     : https://prove2.me/theorems/0a81f1bc-d2ae-47da-98e6-a95faa54a5c4

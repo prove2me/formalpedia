@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_flipTwoThree_sep_self_abs
 -- name    : Formalism.LogVandermondeBounds.flipTwoThree.sep_self_abs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:52:57.367582+00:00
 -- url     : https://prove2.me/theorems/0771619a-0de6-4524-aa19-8d645b97b52c

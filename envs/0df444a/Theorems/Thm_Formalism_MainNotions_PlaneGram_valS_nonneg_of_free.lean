@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_valS_nonneg_of_free
 -- name    : Formalism.MainNotions.PlaneGram.valS_nonneg_of_free
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:06:11.750974+00:00
 -- url     : https://prove2.me/theorems/fcd8f46a-5282-4fe3-ac7a-1d0fc9a93fd9

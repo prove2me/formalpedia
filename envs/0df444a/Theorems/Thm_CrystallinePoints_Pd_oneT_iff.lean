@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrystallinePoints_Pd_oneT_iff
 -- name    : CrystallinePoints.Pd.oneT_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:29:20.675026+00:00
 -- url     : https://prove2.me/theorems/b401d37b-96eb-4141-8a78-a17b470a0236

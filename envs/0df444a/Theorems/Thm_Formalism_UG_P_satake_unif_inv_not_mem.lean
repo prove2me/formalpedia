@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satake_unif_inv_not_mem
 -- name    : Formalism.UG.P.satake_unif_inv_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:34:38.872744+00:00
 -- url     : https://prove2.me/theorems/90f62190-93c0-47f3-8218-7bcc6553e422

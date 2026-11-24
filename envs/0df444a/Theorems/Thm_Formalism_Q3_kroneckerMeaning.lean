@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_kroneckerMeaning
 -- name    : Formalism.Q3.kroneckerMeaning
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:19:17.115794+00:00
 -- url     : https://prove2.me/theorems/f0cf64ff-e9a4-4f09-9adb-22e79ddeff87

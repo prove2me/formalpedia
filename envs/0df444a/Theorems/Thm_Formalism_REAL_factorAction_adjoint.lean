@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_factorAction_adjoint
 -- name    : Formalism.REAL.factorAction_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:21:11.369959+00:00
 -- url     : https://prove2.me/theorems/00a6d6ee-02fc-4099-992b-c0f8264afa84

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_mem_noncompact_arr_one
 -- name    : Formalism.REAL.mem_noncompact_arr_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:23:40.576966+00:00
 -- url     : https://prove2.me/theorems/aa986a96-72da-4116-a1b1-c41cbfe7e84a

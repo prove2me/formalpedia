@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_s1c2_S_cols
 -- name    : Formalism.HermitianLatticeCounting.P.s1c2_S_cols
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:42:03.532807+00:00
 -- url     : https://prove2.me/theorems/7cc3ff8d-084d-4f9b-8166-0371248e7e81

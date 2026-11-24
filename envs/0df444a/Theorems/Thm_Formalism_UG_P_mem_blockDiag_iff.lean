@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_mem_blockDiag_iff
 -- name    : Formalism.UG.P.mem_blockDiag_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:33:24.000561+00:00
 -- url     : https://prove2.me/theorems/fa5dc565-b4de-4d45-a3b4-ee3a586a725b

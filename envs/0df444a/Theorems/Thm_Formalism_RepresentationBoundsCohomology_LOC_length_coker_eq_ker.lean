@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_LOC_length_coker_eq_ker
 -- name    : Formalism.RepresentationBoundsCohomology.LOC.length_coker_eq_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:27:30.685978+00:00
 -- url     : https://prove2.me/theorems/bb15c4f2-8028-44c6-b295-b7f1f441d05f

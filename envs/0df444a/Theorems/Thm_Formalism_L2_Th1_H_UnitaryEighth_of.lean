@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_UnitaryEighth_of
 -- name    : Formalism.L2.Th1.H.UnitaryEighth_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:28:10.59122+00:00
 -- url     : https://prove2.me/theorems/2b48aac9-7015-4c5e-add3-6d5f5155db55

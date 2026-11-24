@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_maximalSpectrum_of_finite_of_isLocalRing
 -- name    : GlobalTheory.finite_maximalSpectrum_of_finite_of_isLocalRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:26:48.060464+00:00
 -- url     : https://prove2.me/theorems/94113e81-e1a3-4976-ac55-8ec18c07b9e3

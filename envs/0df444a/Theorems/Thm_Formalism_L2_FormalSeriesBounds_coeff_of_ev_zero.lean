@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_coeff_of_ev_zero
 -- name    : Formalism.L2.FormalSeriesBounds.coeff_of_ev_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:07:11.421867+00:00
 -- url     : https://prove2.me/theorems/7f2e229a-a3ca-4c53-ae93-58a1931efef4

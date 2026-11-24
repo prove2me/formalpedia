@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_lenKer
 -- name    : Formalism.NG.lenKer
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T18:27:58.344907+00:00
 -- url     : https://prove2.me/theorems/d3899582-7e49-4278-8eb4-5481a81dc8e8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_ScaledSeriesSubstitution_constantCoeff_zLin
 -- name    : Formalism.InvariantFactorPaths.G7.ScaledSeriesSubstitution.constantCoeff_zLin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:56:48.031922+00:00
 -- url     : https://prove2.me/theorems/373814dd-2d25-4bbd-a4b6-87a4ca49b380

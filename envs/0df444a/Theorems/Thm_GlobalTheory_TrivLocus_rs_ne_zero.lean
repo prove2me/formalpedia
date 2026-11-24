@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TrivLocus_rs_ne_zero
 -- name    : GlobalTheory.TrivLocus.rs_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:27:59.291551+00:00
 -- url     : https://prove2.me/theorems/efa286de-62aa-46bb-9320-9d430ab29bc3

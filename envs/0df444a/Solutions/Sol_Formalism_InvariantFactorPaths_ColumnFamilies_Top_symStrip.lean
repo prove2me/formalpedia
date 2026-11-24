@@ -1,0 +1,29 @@
+-- Prove2me | solution 1 for Formalism.InvariantFactorPaths.ColumnFamilies.Top.symStrip
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-24T11:32:47.603703+00:00
+-- url     : https://prove2.me/submissions/135e4546-18e1-44c6-ac72-21fc5a711cea
+
+import Definitions.Def_Formalism_ThetaLogCoordinates_DualWeylCoordinates_DualWeylProofs_StripDataTensorColumnFamilies
+import Definitions.Def_Formalism_ThetaLogCoordinates_DualWeylCoordinates_DualWeylProofs_CntSym
+import Definitions.Def_Formalism_ThetaLogCoordinates_DualWeylCoordinates_DualWeylProofs_CntLam
+import Definitions.Def_Formalism_ThetaLogCoordinates_DualWeylCoordinates_DualWeylProofs_SymStrip
+import Definitions.Def_Formalism_ThetaLogCoordinates_DualWeylCoordinates_DualWeylProofs_SymDStrip
+import Definitions.Def_Formalism_ThetaLogCoordinates_DualWeylCoordinates_DualWeylProofs_LamStrip
+import Definitions.Def_Formalism_ThetaLogCoordinates_DualWeylCoordinates_ClosureSecondPart
+import Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_symStrip_of
+import Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_symmetric_power_count_holds
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.InvariantFactorPaths Formalism.InvariantFactorPaths.ColumnFamilies Formalism.InvariantFactorPaths.ColumnFamilies.Top
+namespace Formalism.InvariantFactorPaths.ColumnFamilies.Top
+theorem _root_.solution : SymStrip := symStrip_of symmetric_power_count_holds
+end Formalism.InvariantFactorPaths.ColumnFamilies.Top

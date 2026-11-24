@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_ringDataObjects_diag_mul
 -- name    : Formalism.RepresentationBoundsCohomology.ringDataObjects.diag_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:28:35.640133+00:00
 -- url     : https://prove2.me/theorems/3960ed52-2ff3-4e37-89fe-ba16793b2e19

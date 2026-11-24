@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NCov_sum_finrank_part
 -- name    : Formalism.L2.NCov.sum_finrank_part
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:41:34.159491+00:00
 -- url     : https://prove2.me/theorems/bb811b9b-d6d8-4da1-95cd-a3ee5a673ce8

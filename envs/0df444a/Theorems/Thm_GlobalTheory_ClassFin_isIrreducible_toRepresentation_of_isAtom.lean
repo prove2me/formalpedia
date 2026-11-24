@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_isIrreducible_toRepresentation_of_isAtom
 -- name    : GlobalTheory.ClassFin.isIrreducible_toRepresentation_of_isAtom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:13:31.06859+00:00
 -- url     : https://prove2.me/theorems/7739a63f-ff3a-4cf8-8e66-7bc7bf08caad

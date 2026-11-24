@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_linSubst_comp
 -- name    : Formalism.UG.P.linSubst_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:33:36.927099+00:00
 -- url     : https://prove2.me/theorems/22bbb04f-29b7-40ef-a3ae-94b8ed93d2eb

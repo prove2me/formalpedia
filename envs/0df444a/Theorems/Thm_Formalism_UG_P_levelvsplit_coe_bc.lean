@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_levelvsplit_coe_bc
 -- name    : Formalism.UG.P.levelvsplit_coe_bc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:33:17.79989+00:00
 -- url     : https://prove2.me/theorems/db61e874-728c-444d-8d6c-edbde223ea7e

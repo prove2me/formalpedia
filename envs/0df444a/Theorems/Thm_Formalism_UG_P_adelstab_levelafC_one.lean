@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_adelstab_levelafC_one
 -- name    : Formalism.UG.P.adelstab_levelafC_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:30:23.496943+00:00
 -- url     : https://prove2.me/theorems/fcea5aa5-6bc9-4e77-837a-7a4dc8c7c2e4

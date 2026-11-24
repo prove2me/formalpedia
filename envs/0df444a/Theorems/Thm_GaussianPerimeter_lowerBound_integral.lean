@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussianPerimeter_lowerBound_integral
 -- name    : GaussianPerimeter.lowerBound_integral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:08:32.518722+00:00
 -- url     : https://prove2.me/theorems/ae6ebab8-c452-4f66-94e5-04c3b82981a9

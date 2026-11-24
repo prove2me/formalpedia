@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_Top_strip_data_tensor_column_families
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.Top.strip_data_tensor_column_families
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:29:46.19352+00:00
 -- url     : https://prove2.me/theorems/11d52582-013c-4185-9a5c-a9135b92f501

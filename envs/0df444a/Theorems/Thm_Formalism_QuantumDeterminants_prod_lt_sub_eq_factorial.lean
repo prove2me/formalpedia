@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_prod_lt_sub_eq_factorial
 -- name    : Formalism.QuantumDeterminants.prod_lt_sub_eq_factorial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:19:59.229424+00:00
 -- url     : https://prove2.me/theorems/258d2415-315b-4172-a439-e9dbbf84fc83

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_tjcosets_ne_zero
 -- name    : Formalism.UG.P.tjcosets_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:37:50.959822+00:00
 -- url     : https://prove2.me/theorems/9a6a4b6a-daac-402c-abe1-39abd54b8c95

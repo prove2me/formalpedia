@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_pfil_succ_le_theta_image_sup
 -- name    : Formalism.REAL.pfil_succ_le_theta_image_sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:25:25.363177+00:00
 -- url     : https://prove2.me/theorems/354a57ed-644a-4412-8319-0482e6bec7eb

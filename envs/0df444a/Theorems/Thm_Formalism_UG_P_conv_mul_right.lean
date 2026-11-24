@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_conv_mul_right
 -- name    : Formalism.UG.P.conv_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:32:16.538667+00:00
 -- url     : https://prove2.me/theorems/c70480ae-7f49-42ce-8b3a-0546f18cace0

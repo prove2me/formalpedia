@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_P_index_prod_eq
 -- name    : Formalism.SLP.P.index_prod_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:28:58.666396+00:00
 -- url     : https://prove2.me/theorems/e85c5e4b-d12e-4561-989e-7d5906451e2e

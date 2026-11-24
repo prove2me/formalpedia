@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_CMRootsOfUnity_no_prime_root
 -- name    : Formalism.Q3.CMRootsOfUnity.no_prime_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:18:04.385687+00:00
 -- url     : https://prove2.me/theorems/96852727-457b-4a05-9d4d-362bc0a8681d

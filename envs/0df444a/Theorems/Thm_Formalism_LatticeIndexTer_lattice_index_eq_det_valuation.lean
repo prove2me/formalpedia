@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_lattice_index_eq_det_valuation
 -- name    : Formalism.LatticeIndexTer.lattice_index_eq_det_valuation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:39:39.010128+00:00
 -- url     : https://prove2.me/theorems/c914a66f-e8d7-4c33-9640-9246d18837d7

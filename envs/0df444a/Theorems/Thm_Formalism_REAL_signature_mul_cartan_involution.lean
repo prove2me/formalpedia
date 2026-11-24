@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_signature_mul_cartan_involution
 -- name    : Formalism.REAL.signature_mul_cartan_involution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:26:28.582832+00:00
 -- url     : https://prove2.me/theorems/1c8b40fa-16f5-4785-b3c2-0d30b2a03a61

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_LeviCoordinates_rrc_tendsto_vec
 -- name    : Formalism.MainNotions.LeviCoordinates.rrc_tendsto_vec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:15.133132+00:00
 -- url     : https://prove2.me/theorems/31cc7b86-c8ad-43b3-aa0f-fb0d581b66fb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_Inhab_line_lattice_isEdge
 -- name    : Formalism.MainNotions.G.Inhab.line_lattice_isEdge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:55:42.063874+00:00
 -- url     : https://prove2.me/theorems/a57cfce4-c616-47f9-99fd-967d659599e8

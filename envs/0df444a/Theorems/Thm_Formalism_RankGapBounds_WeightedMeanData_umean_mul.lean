@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankGapBounds_WeightedMeanData_umean_mul
 -- name    : Formalism.RankGapBounds.WeightedMeanData.umean_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:26:14.744884+00:00
 -- url     : https://prove2.me/theorems/44cdb8c0-7cf6-48c3-a17e-37d115b1e876

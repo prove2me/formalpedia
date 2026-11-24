@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_lie_algebra_signature_conj
 -- name    : Formalism.REAL.lie_algebra_signature_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:23:16.973252+00:00
 -- url     : https://prove2.me/theorems/bd84245d-6666-40e1-8f8e-39e6f7c3f535

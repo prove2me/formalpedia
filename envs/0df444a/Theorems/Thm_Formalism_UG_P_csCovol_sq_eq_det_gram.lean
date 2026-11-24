@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_csCovol_sq_eq_det_gram
 -- name    : Formalism.UG.P.csCovol_sq_eq_det_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:31:53.567381+00:00
 -- url     : https://prove2.me/theorems/4d3af47c-404b-4bb2-a87c-b21039ac6d57

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_supInfDyadicGridArithmeticV1
 -- name    : Kyprianou.Ch03.supInfDyadicGridArithmeticV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T10:08:39.267356+00:00
 -- url     : https://prove2.me/theorems/f6d4ddc1-1434-4781-a323-415ee6e76c38

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_ParO_DiffPh_of
 -- name    : Formalism.L2.Th1.B.ParO.DiffPh_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:39.221077+00:00
 -- url     : https://prove2.me/theorems/3c4ec741-e380-418d-a313-92afcf99ae6f

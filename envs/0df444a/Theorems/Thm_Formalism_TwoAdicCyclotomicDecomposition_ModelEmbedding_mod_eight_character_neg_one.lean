@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_ModelEmbedding_mod_eight_character_neg_one
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.ModelEmbedding.mod_eight_character_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:30:13.739291+00:00
 -- url     : https://prove2.me/theorems/466e80d2-cd0d-4bfd-9185-58e89fbff5d9

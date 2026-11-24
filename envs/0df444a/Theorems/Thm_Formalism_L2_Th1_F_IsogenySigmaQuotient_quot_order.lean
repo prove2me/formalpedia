@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_IsogenySigmaQuotient_quot_order
 -- name    : Formalism.L2.Th1.F.IsogenySigmaQuotient.quot_order
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:51:50.232324+00:00
 -- url     : https://prove2.me/theorems/0cb9f6f5-a0f7-4239-a635-3987100b715b

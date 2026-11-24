@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_LatticeIndexDeterminant_index_scalar_multiple_eq
 -- name    : Formalism.LatticeIndexTer.LatticeIndexDeterminant.index_scalar_multiple_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:29.032053+00:00
 -- url     : https://prove2.me/theorems/5c5c85d8-1c46-48a2-ab96-8680edcf51c3

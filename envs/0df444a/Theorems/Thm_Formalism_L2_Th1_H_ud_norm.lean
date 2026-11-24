@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_ud_norm
 -- name    : Formalism.L2.Th1.H.ud_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:29:06.460548+00:00
 -- url     : https://prove2.me/theorems/73c7952e-4978-4422-a24e-1afd3af743ad

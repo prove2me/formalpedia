@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_levelvsplit_int_mul
 -- name    : Formalism.UG.P.levelvsplit_int_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:33:18.301069+00:00
 -- url     : https://prove2.me/theorems/c01a368d-af41-4d46-bd6e-b352e557ab70

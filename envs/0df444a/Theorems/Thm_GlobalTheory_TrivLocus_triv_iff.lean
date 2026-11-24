@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TrivLocus_triv_iff
 -- name    : GlobalTheory.TrivLocus.triv_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:27:36.689722+00:00
 -- url     : https://prove2.me/theorems/c01cd5bb-f902-42d1-868c-43c69c752861

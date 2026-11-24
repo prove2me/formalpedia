@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_fock_neg_left
 -- name    : Formalism.MainNotions.PlaneGram.fock_neg_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:44:18.001814+00:00
 -- url     : https://prove2.me/theorems/4ae28ef1-4670-4327-b34c-b8c40a7ee9bc

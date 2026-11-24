@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpUniqLoc_law
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpUniqLoc.law
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:51:34.066307+00:00
 -- url     : https://prove2.me/theorems/2e62ae22-cde0-47cf-81fc-6820e4a7eadc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_reachable_mono
 -- name    : ChromaticReconstruction.reachable_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:07:39.771403+00:00
 -- url     : https://prove2.me/theorems/f9b75d56-5d18-4f61-b86f-c9ffcd212821

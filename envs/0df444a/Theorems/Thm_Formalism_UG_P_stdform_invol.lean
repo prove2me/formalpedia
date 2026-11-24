@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_stdform_invol
 -- name    : Formalism.UG.P.stdform_invol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:36:14.460836+00:00
 -- url     : https://prove2.me/theorems/10e99840-16ed-4d5d-aaec-d4e561a38264

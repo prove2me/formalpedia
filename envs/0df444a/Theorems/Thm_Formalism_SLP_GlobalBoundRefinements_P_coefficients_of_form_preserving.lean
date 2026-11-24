@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_GlobalBoundRefinements_P_coefficients_of_form_preserving
 -- name    : Formalism.SLP.GlobalBoundRefinements.P.coefficients_of_form_preserving
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:29:34.783959+00:00
 -- url     : https://prove2.me/theorems/24ea9a89-82a5-4645-a876-a396d137aaaa

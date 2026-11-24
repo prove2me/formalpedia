@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_factorAction_commute_of_ne
 -- name    : Formalism.REAL.factorAction_commute_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:21:19.203851+00:00
 -- url     : https://prove2.me/theorems/02fda3fb-0242-4b54-bee2-51f16c1e105b

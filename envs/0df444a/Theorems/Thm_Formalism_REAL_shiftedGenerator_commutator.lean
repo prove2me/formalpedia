@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_shiftedGenerator_commutator
 -- name    : Formalism.REAL.shiftedGenerator_commutator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:26:18.011673+00:00
 -- url     : https://prove2.me/theorems/b496cc09-197b-4198-91cd-29c88dace7f5

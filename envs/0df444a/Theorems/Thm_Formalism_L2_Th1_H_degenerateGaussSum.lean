@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_degenerateGaussSum
 -- name    : Formalism.L2.Th1.H.degenerateGaussSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:36.744382+00:00
 -- url     : https://prove2.me/theorems/aed825c0-4123-4fae-858a-97b03ea77a57

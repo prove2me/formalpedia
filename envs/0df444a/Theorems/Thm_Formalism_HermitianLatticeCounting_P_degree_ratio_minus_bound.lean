@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_degree_ratio_minus_bound
 -- name    : Formalism.HermitianLatticeCounting.P.degree_ratio_minus_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:39.193492+00:00
 -- url     : https://prove2.me/theorems/33b666b6-152f-45ee-9e30-5015fd3c9e75

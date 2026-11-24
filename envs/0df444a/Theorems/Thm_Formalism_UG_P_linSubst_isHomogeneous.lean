@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_linSubst_isHomogeneous
 -- name    : Formalism.UG.P.linSubst_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:33:28.551875+00:00
 -- url     : https://prove2.me/theorems/54ce6326-2a7f-45be-ae3b-f040b42ca9fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_quantumMinor_expand_last
 -- name    : Formalism.REAL.quantumMinor_expand_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:24:25.286797+00:00
 -- url     : https://prove2.me/theorems/86871357-a7f8-48a8-a7fe-1733b44ac2a8

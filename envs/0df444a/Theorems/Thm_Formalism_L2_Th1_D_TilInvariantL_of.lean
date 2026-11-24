@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TilInvariantL_of
 -- name    : Formalism.L2.Th1.D.TilInvariantL_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:37:24.211855+00:00
 -- url     : https://prove2.me/theorems/7381d2aa-3f84-4405-b3a7-b66e597b16d2

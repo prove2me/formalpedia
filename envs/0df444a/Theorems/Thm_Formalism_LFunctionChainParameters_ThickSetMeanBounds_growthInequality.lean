@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ThickSetMeanBounds_growthInequality
 -- name    : Formalism.LFunctionChainParameters.ThickSetMeanBounds.growthInequality
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:37:03.884901+00:00
 -- url     : https://prove2.me/theorems/1757fa4b-1f92-4112-b76d-65d91959ef4b

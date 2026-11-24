@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_ColumnGeneratorDecomposition_map_sig0Rel
 -- name    : Formalism.NG.ColumnGeneratorDecomposition.map_sig0Rel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:55:14.892797+00:00
 -- url     : https://prove2.me/theorems/7f997d47-c487-408b-9983-cfc2cfdf1440

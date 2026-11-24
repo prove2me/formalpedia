@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_pairsSep_ofLab
 -- name    : Formalism.L2.FormalSeriesBounds.pairsSep_ofLab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:22:12.658978+00:00
 -- url     : https://prove2.me/theorems/ade61c80-9228-4617-a471-45ebfc8baa05

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_exp_posDef_of_hermitian
 -- name    : Formalism.REAL.exp_posDef_of_hermitian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:21:43.268533+00:00
 -- url     : https://prove2.me/theorems/7adf89eb-06be-41a1-8d79-c4fb1fd68b85

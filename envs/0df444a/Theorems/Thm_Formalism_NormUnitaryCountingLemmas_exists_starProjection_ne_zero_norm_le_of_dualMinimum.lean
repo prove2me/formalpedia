@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_exists_starProjection_ne_zero_norm_le_of_dualMinimum
 -- name    : Formalism.NormUnitaryCountingLemmas.exists_starProjection_ne_zero_norm_le_of_dualMinimum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:18:29.069824+00:00
 -- url     : https://prove2.me/theorems/78c8599c-bc02-40c1-a46a-56e34a721315

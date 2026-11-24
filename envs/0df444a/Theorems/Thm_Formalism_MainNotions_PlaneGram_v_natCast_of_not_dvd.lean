@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_v_natCast_of_not_dvd
 -- name    : Formalism.MainNotions.PlaneGram.v_natCast_of_not_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:07:54.351805+00:00
 -- url     : https://prove2.me/theorems/a05aaeaf-eed5-47d5-972c-14b78ac5fb00

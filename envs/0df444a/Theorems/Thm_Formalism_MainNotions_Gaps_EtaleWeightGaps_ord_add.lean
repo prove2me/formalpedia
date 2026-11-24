@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_EtaleWeightGaps_ord_add
 -- name    : Formalism.MainNotions.Gaps.EtaleWeightGaps.ord_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:42:52.038972+00:00
 -- url     : https://prove2.me/theorems/2df82ce6-0c2c-4bfb-a1b2-aa69a6c7552a

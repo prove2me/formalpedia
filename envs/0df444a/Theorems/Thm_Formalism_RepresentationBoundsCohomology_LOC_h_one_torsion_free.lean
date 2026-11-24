@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_LOC_h_one_torsion_free
 -- name    : Formalism.RepresentationBoundsCohomology.LOC.h_one_torsion_free
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:28:26.363227+00:00
 -- url     : https://prove2.me/theorems/ec9c59bd-9cb7-49ff-91c7-093cd8e4f1c3

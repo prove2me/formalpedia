@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrFix2_trunc_tw
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrFix2.trunc_tw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:58:22.054161+00:00
 -- url     : https://prove2.me/theorems/2db147bf-a8f4-4508-b13b-bf859bba215a

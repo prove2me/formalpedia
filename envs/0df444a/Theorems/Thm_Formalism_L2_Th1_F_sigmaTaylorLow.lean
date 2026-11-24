@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_sigmaTaylorLow
 -- name    : Formalism.L2.Th1.F.sigmaTaylorLow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:56:59.098831+00:00
 -- url     : https://prove2.me/theorems/27f42dd1-9f89-4edf-b82d-9238362474d1

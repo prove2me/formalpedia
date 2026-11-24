@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_LOC_locDualOrth
 -- name    : Formalism.RepresentationBoundsCohomology.LOC.locDualOrth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:27:43.029642+00:00
 -- url     : https://prove2.me/theorems/c3a08c93-d8a2-4dca-a8ec-6af1e1d689dc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_isSelfAdjoint_of_conjTranspose_eq
 -- name    : Formalism.REAL.isSelfAdjoint_of_conjTranspose_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:23:15.105584+00:00
 -- url     : https://prove2.me/theorems/4ad92c01-a0c4-4680-9f9a-1c8f20f0b6d5

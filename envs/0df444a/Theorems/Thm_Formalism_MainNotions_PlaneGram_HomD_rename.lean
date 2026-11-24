@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_HomD_rename
 -- name    : Formalism.MainNotions.PlaneGram.HomD_rename
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:03:06.056277+00:00
 -- url     : https://prove2.me/theorems/e2e41cee-dba6-49d1-98df-791e52923dd6

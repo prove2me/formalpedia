@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_idxScale_of
 -- name    : Formalism.LatticeIndexTer.idxScale_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:49.068815+00:00
 -- url     : https://prove2.me/theorems/c9df68ab-adab-437b-8727-384318712bc1

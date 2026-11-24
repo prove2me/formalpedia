@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_scal_sq
 -- name    : Formalism.UG.P.scal_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:34:09.314868+00:00
 -- url     : https://prove2.me/theorems/37058a56-a457-4192-a854-20b9715011e6

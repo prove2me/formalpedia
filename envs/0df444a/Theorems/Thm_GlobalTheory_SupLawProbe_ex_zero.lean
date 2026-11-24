@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SupLawProbe_ex_zero
 -- name    : GlobalTheory.SupLawProbe.ex_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:28:12.796689+00:00
 -- url     : https://prove2.me/theorems/3d173cfb-4ec9-4983-95ca-89911d1924d7

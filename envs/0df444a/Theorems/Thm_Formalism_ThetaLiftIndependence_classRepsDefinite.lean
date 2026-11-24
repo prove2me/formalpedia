@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ThetaLiftIndependence_classRepsDefinite
 -- name    : Formalism.ThetaLiftIndependence.classRepsDefinite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:42:12.600408+00:00
 -- url     : https://prove2.me/theorems/b2eecf74-5e27-4a8f-9c39-42b15f1aeb86

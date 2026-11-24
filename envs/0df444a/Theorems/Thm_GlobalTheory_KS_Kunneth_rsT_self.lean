@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Kunneth_rsT_self
 -- name    : GlobalTheory.KS.Kunneth.rsT_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:27:59.261081+00:00
 -- url     : https://prove2.me/theorems/1d546910-e81a-4234-8ca7-a3d0c265b8c0

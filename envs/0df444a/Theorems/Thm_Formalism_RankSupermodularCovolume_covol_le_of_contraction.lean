@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankSupermodularCovolume_covol_le_of_contraction
 -- name    : Formalism.RankSupermodularCovolume.covol_le_of_contraction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:26:19.140864+00:00
 -- url     : https://prove2.me/theorems/65b30761-8135-4134-8b20-5fa47e16e675

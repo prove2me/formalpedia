@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_StandardLattice_logRatioLowerBound_of_logVandermondeGap
 -- name    : Formalism.LogVandermondeBounds.StandardLattice.logRatioLowerBound_of_logVandermondeGap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:52:29.264983+00:00
 -- url     : https://prove2.me/theorems/9ff39496-3223-4b90-8cfd-37526fdc1e75

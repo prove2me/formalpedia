@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_GlobalBoundRefinements_P_det_index_product_hyperbolic_inequality
 -- name    : Formalism.SLP.GlobalBoundRefinements.P.det_index_product_hyperbolic_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:29:39.022431+00:00
 -- url     : https://prove2.me/theorems/f209f6f3-20a5-4e57-9512-20b403f3177c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_DIV_HookProducts_RBTie_frame_unit_of_tie
 -- name    : Formalism.MainNotions.DIV.HookProducts.RBTie.frame_unit_of_tie
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:17:35.128465+00:00
 -- url     : https://prove2.me/theorems/75b05ece-ca4f-460c-a593-d55b6369470b

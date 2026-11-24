@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Indef_Examples__indep_unit_5db93c2a0b31
 -- name    : P2M_Formalism_L2_Indef_Examples__indep_unit_5db93c2a0b31
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:12:40.105396+00:00
 -- url     : https://prove2.me/theorems/3fddff24-923c-42ae-8135-c822d9cba159

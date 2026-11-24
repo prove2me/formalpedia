@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_ChartInt_ne_zero_map
 -- name    : GlobalTheory.Reg.ChartInt.ne_zero_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:29:03.515+00:00
 -- url     : https://prove2.me/theorems/4c619d61-7625-43fc-ac88-65a3b5b1bc50

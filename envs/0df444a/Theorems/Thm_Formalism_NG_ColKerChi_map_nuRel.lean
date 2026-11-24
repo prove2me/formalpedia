@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_ColKerChi_map_nuRel
 -- name    : Formalism.NG.ColKerChi.map_nuRel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:12:45.341033+00:00
 -- url     : https://prove2.me/theorems/349554be-1880-4e47-84d9-8141dcc48826

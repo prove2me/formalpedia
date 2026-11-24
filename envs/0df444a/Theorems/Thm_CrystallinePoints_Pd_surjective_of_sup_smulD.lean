@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrystallinePoints_Pd_surjective_of_sup_smulD
 -- name    : CrystallinePoints.Pd.surjective_of_sup_smulD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:29:32.911524+00:00
 -- url     : https://prove2.me/theorems/e1eabf1b-5166-4542-8889-f38787bb5ac9

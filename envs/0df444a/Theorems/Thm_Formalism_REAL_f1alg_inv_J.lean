@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_f1alg_inv_J
 -- name    : Formalism.REAL.f1alg_inv_J
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:21:57.885357+00:00
 -- url     : https://prove2.me/theorems/c1886c80-5719-404c-96c2-e4ef231cbd4c

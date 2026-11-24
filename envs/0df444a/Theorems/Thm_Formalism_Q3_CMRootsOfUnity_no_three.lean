@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_CMRootsOfUnity_no_three
 -- name    : Formalism.Q3.CMRootsOfUnity.no_three
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:57:02.178812+00:00
 -- url     : https://prove2.me/theorems/c2757eb8-6852-4dbe-bb1f-cf8b7d8514cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_ringDataObjects_blockDiag_of_mem
 -- name    : Formalism.RepresentationBoundsCohomology.ringDataObjects.blockDiag_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:28:22.352548+00:00
 -- url     : https://prove2.me/theorems/14b1cff6-1839-4013-825f-5b705fde2b1d

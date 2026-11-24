@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SupLawProbe_cabs_zero
 -- name    : GlobalTheory.SupLawProbe.cabs_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:29:04.304778+00:00
 -- url     : https://prove2.me/theorems/c08d130f-a5eb-4a61-9681-9eacd1750894

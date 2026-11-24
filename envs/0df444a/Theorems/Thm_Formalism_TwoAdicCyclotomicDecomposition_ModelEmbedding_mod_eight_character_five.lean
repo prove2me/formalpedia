@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_ModelEmbedding_mod_eight_character_five
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.ModelEmbedding.mod_eight_character_five
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:29:07.198075+00:00
 -- url     : https://prove2.me/theorems/fec7e056-e04e-409a-af29-ae8a7fd8926d

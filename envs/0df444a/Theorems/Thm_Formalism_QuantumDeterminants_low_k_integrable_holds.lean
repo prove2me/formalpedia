@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_low_k_integrable_holds
 -- name    : Formalism.QuantumDeterminants.low_k_integrable_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:02.119235+00:00
 -- url     : https://prove2.me/theorems/a95afd25-c3c4-4d72-a04a-926523cdae99

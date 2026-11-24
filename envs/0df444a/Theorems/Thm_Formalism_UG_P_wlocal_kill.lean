@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_wlocal_kill
 -- name    : Formalism.UG.P.wlocal_kill
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:38:30.854977+00:00
 -- url     : https://prove2.me/theorems/16e68cff-1557-4502-be21-f7a9122f51b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CrystallinePoints_Pd_finrank_res
 -- name    : CrystallinePoints.Pd.finrank_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:29:39.521026+00:00
 -- url     : https://prove2.me/theorems/5e545b94-4f24-49f8-a1a3-8ad0e6eb7939

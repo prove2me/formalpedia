@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_LatticeGluingRadicals_c_lat_multL
 -- name    : Formalism.MainNotions.LatticeGluingRadicals.c_lat_multL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:42:47.368835+00:00
 -- url     : https://prove2.me/theorems/5d0b36e8-a097-4881-8c59-875935850d4f

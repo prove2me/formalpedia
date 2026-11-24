@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_KillingConditions_WildPf_fix_of_coprime
 -- name    : Formalism.MainNotions.N.KillingConditions.WildPf.fix_of_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:03:30.052369+00:00
 -- url     : https://prove2.me/theorems/c1489f62-3121-427d-8efb-3c8534efdfa3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_ph_rename_fk
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.ph_rename_fk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:05:34.904323+00:00
 -- url     : https://prove2.me/theorems/f93ab09e-0c90-46ea-90e5-4eafef679f00

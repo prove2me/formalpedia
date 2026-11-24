@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_Inhab_level1_finClasses
 -- name    : Formalism.MainNotions.G.Inhab.level1_finClasses
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:50:29.427063+00:00
 -- url     : https://prove2.me/theorems/62f5614b-248e-4d6a-900c-927adce1b60b

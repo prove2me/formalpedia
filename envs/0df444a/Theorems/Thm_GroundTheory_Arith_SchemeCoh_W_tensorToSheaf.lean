@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_W_tensorToSheaf
 -- name    : GroundTheory.Arith.SchemeCoh.W_tensorToSheaf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:27:34.281866+00:00
 -- url     : https://prove2.me/theorems/ff177421-7a0d-47b9-b6a6-fae11bda86e7

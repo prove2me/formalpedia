@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_AdmissibleUnits_mod_eight_reduction_three
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.AdmissibleUnits.mod_eight_reduction_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:29:28.931471+00:00
 -- url     : https://prove2.me/theorems/960cc976-85cb-4734-ab09-676e22ac26da

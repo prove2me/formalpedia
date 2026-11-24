@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LLcv_index_local_length
 -- name    : Formalism.LFunctionChainParameters.LLcv.index_local_length
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:49:24.552119+00:00
 -- url     : https://prove2.me/theorems/b7e8e4b3-a885-4479-b64f-e8433d4b3cde

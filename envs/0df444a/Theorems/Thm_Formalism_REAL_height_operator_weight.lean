@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_height_operator_weight
 -- name    : Formalism.REAL.height_operator_weight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:21:13.768799+00:00
 -- url     : https://prove2.me/theorems/ff1d1080-79e1-4a88-b169-cb613a1b67b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_positions_one_apply
 -- name    : Formalism.REAL.positions_one_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:24:14.629639+00:00
 -- url     : https://prove2.me/theorems/a24fdb4d-b5fc-41bd-b02f-4e3f3fff42f5

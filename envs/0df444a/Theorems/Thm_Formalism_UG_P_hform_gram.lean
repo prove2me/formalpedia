@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_hform_gram
 -- name    : Formalism.UG.P.hform_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:31:21.785129+00:00
 -- url     : https://prove2.me/theorems/48fabb52-d263-4e56-8698-ccc54b9e52e8

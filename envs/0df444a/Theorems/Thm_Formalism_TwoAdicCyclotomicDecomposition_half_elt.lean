@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_half_elt
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.half_elt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:30:13.870196+00:00
 -- url     : https://prove2.me/theorems/a3916bb8-3b6a-467e-98e8-b38e0eaf53e9

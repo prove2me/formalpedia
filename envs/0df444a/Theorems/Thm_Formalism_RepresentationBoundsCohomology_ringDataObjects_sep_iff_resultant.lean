@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_ringDataObjects_sep_iff_resultant
 -- name    : Formalism.RepresentationBoundsCohomology.ringDataObjects.sep_iff_resultant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:28:14.013801+00:00
 -- url     : https://prove2.me/theorems/129239a1-2937-4008-9e27-1d90267c24d9

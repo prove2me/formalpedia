@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_S_Gauge_mp_cF
 -- name    : Formalism.MainNotions.S.Gauge.mp_cF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:10:34.26298+00:00
 -- url     : https://prove2.me/theorems/700a6772-c100-464a-bd5c-aef29d4571f6

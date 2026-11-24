@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_CMRootsOfUnity_not_sq_in_E
 -- name    : Formalism.Q3.CMRootsOfUnity.not_sq_in_E
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:57:11.62274+00:00
 -- url     : https://prove2.me/theorems/c5bf694c-4dd0-4c17-812e-e8142c55369d

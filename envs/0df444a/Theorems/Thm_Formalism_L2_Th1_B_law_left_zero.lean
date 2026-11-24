@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_law_left_zero
 -- name    : Formalism.L2.Th1.B.law_left_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:28:09.758803+00:00
 -- url     : https://prove2.me/theorems/c5d41269-9e47-4d0c-abbe-84aec6719478

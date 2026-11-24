@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ResultantValuation_LaplaceProof_card_compl_le
 -- name    : Formalism.ResultantValuation.LaplaceProof.card_compl_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:27:35.083023+00:00
 -- url     : https://prove2.me/theorems/954dbcf7-907b-4a2c-9bc8-1813dca11198

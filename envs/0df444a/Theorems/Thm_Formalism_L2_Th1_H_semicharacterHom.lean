@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_semicharacterHom
 -- name    : Formalism.L2.Th1.H.semicharacterHom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:49:52.930626+00:00
 -- url     : https://prove2.me/theorems/3532d68f-9236-4a88-97cb-bab643dc6d7e

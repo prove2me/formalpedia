@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_csAsm_hform_smul_right
 -- name    : Formalism.UG.P.csAsm_hform_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:33:10.731621+00:00
 -- url     : https://prove2.me/theorems/523f6349-7c0f-4bca-a534-da39eec9df1b

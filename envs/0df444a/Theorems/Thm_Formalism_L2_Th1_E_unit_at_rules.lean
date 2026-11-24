@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_unit_at_rules
 -- name    : Formalism.L2.Th1.E.unit_at_rules
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:12.96692+00:00
 -- url     : https://prove2.me/theorems/7acdc352-44a6-4c15-8bbc-bd5ec9d2bf9c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_CMConjugation_part1
 -- name    : Formalism.Q3.CMConjugation.part1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:33:30.671308+00:00
 -- url     : https://prove2.me/theorems/31ebd198-942a-4cd7-b24a-62d8484107fb

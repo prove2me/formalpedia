@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_vandermonde_place_lower_bound
 -- name    : Formalism.LogVandermondeBounds.vandermonde_place_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:14:55.492266+00:00
 -- url     : https://prove2.me/theorems/423153f1-aa98-4ac4-a4a8-8fd460188288

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_fischerInner_oscillatorRaise
 -- name    : Formalism.REAL.fischerInner_oscillatorRaise
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:21:28.770064+00:00
 -- url     : https://prove2.me/theorems/75bfc0d7-b5e6-4784-a622-fab9e4711296

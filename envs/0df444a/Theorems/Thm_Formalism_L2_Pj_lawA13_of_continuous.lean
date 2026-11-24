@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_lawA13_of_continuous
 -- name    : Formalism.L2.Pj.lawA13_of_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:19:47.576795+00:00
 -- url     : https://prove2.me/theorems/38ae9b22-771a-4dfb-ad95-c995adb430b0

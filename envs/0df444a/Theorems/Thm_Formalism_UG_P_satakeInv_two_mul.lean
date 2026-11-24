@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satakeInv_two_mul
 -- name    : Formalism.UG.P.satakeInv_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:32:52.182106+00:00
 -- url     : https://prove2.me/theorems/e687a142-b923-443c-a003-b698355ff11c

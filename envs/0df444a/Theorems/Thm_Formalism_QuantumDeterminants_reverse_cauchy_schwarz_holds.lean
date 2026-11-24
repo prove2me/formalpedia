@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_reverse_cauchy_schwarz_holds
 -- name    : Formalism.QuantumDeterminants.reverse_cauchy_schwarz_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:53:50.564167+00:00
 -- url     : https://prove2.me/theorems/17fbba2d-8713-4f0e-a935-6d3738e13434

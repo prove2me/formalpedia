@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_Pv_LocalLengthBound_rk_fildR_hi
 -- name    : Formalism.MainNotions.N.Pv.LocalLengthBound.rk_fildR_hi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:45:53.889129+00:00
 -- url     : https://prove2.me/theorems/735b4813-19b0-455c-bfda-3f94137cf6f0

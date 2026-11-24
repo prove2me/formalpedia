@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_factorAction_mem_admissibleArrays
 -- name    : Formalism.REAL.factorAction_mem_admissibleArrays
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:21:09.821741+00:00
 -- url     : https://prove2.me/theorems/aecfb90f-2837-47d2-b61b-b98aeb01ed52

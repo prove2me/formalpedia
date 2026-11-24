@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_valS_rename
 -- name    : Formalism.MainNotions.PlaneGram.valS_rename
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:06:20.968799+00:00
 -- url     : https://prove2.me/theorems/ec276ede-ec53-4d56-a42c-fdec2d5bbdb1

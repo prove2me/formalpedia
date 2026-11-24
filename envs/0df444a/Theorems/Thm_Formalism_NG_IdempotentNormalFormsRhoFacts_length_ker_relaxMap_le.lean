@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_IdempotentNormalFormsRhoFacts_length_ker_relaxMap_le
 -- name    : Formalism.NG.IdempotentNormalFormsRhoFacts.length_ker_relaxMap_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:13:44.774802+00:00
 -- url     : https://prove2.me/theorems/5ced0290-f7bf-4d04-8054-70f1f16d762a

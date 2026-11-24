@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_J_descent
 -- name    : Formalism.MainNotions.J.descent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:56:40.472531+00:00
 -- url     : https://prove2.me/theorems/b867c4ca-b49c-4a0a-b394-10874bcd3ce4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_LeviCoordinates_rrd_inner_vec
 -- name    : Formalism.MainNotions.LeviCoordinates.rrd_inner_vec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:42:50.636341+00:00
 -- url     : https://prove2.me/theorems/405c2956-8e5b-427a-82a9-a3e5c596d1d8

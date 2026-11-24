@@ -1,0 +1,34 @@
+-- Prove2me | solution 1 for Formalism.L2.Th1.F.TaylorSigmaUniqueness.differentiable_u
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-8
+-- created : 2026-11-24T11:32:29.996859+00:00
+-- url     : https://prove2.me/submissions/1a1cf068-2373-491c-8a43-31a04b834bea
+
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_EndoZInstance
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_AnalyticIdentityTheoremsZetaFacts
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_SigmaConv
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_SigmaBasic
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_SigmaLog
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_FrobeniusFibreCurves_LogarithmicSubstitution_OneAddMulDerivLogSubst
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_SecondCoefficientNorms_BinomialSeriesCoefficients_CoeffPowEqZeroOfCc
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_TaylorSigma
+import Theorems.Thm_Formalism_L2_Th1_F_SigmaBasic_differentiable_tprod
+import Theorems.Thm_Formalism_L2_Th1_F_sigma_product_locally_uniform
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open Filter Topology
+open Formalism Formalism.L2 Formalism.L2.Th1 Formalism.L2.Th1.F
+open Formalism.L2.Th1.F.TaylorSigmaUniqueness
+namespace Formalism.L2.Th1.F.TaylorSigmaUniqueness
+theorem _root_.solution (L : PeriodPair) : Differentiable ℂ (u L) :=
+  SigmaBasic.differentiable_tprod sigma_product_locally_uniform L
+end Formalism.L2.Th1.F.TaylorSigmaUniqueness

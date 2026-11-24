@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_word_product_zero
 -- name    : Formalism.REAL.word_product_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:25:55.28067+00:00
 -- url     : https://prove2.me/theorems/bc6762a8-4cdb-4183-b9b3-f013a8dcd754

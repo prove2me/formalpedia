@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain_ModelEv_sizesEv
 -- name    : Formalism.LFunctionChainParameters.LChain.ModelEv.sizesEv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:00:21.779878+00:00
 -- url     : https://prove2.me/theorems/a97decc7-b37a-46ed-ad5a-b5661b128cdb

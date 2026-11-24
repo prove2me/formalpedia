@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_LOC_length_quot_le_of_surj
 -- name    : Formalism.RepresentationBoundsCohomology.LOC.length_quot_le_of_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:27:32.168956+00:00
 -- url     : https://prove2.me/theorems/3adee2b2-fd41-4e14-8888-2c665983b191

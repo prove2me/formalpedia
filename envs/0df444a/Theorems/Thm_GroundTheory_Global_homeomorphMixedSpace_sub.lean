@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_homeomorphMixedSpace_sub
 -- name    : GroundTheory.Global.homeomorphMixedSpace_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:28:28.936012+00:00
 -- url     : https://prove2.me/theorems/018d056d-9cdc-4c59-b595-fe0da420186f

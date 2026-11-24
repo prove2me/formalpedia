@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_csCovol_det_le
 -- name    : Formalism.UG.P.csCovol_det_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:32:24.86357+00:00
 -- url     : https://prove2.me/theorems/25ca0737-1ab7-4e5b-a73c-2aa484cd2cef

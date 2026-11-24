@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_stabilizer_group_map_holds
 -- name    : Formalism.UG.P.stabilizer_group_map_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:36:42.292875+00:00
 -- url     : https://prove2.me/theorems/28d3c0cb-e26e-404f-b4b4-b6635e2830f0

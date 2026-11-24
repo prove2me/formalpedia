@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_rho_nsq_root
 -- name    : Formalism.REAL.rho_nsq_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:24:28.519971+00:00
 -- url     : https://prove2.me/theorems/f964854a-d051-44e0-9123-af69b954d5c0

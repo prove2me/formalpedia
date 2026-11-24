@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_ModelEmbedding_orderOf_five_units_two_pow
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.ModelEmbedding.orderOf_five_units_two_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:30:31.426791+00:00
 -- url     : https://prove2.me/theorems/81138e02-19b8-41fc-b231-feab0bbb4330

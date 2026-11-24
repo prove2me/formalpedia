@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_PhiCMin_exists_theta
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.PhiCMin.exists_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:02:35.735414+00:00
 -- url     : https://prove2.me/theorems/7f5dceee-63dc-4b42-b8e8-5c40c6e359d4

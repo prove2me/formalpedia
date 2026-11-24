@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_P_card_submodules_le_of_dedekind
 -- name    : Formalism.SLP.P.card_submodules_le_of_dedekind
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:29:17.104695+00:00
 -- url     : https://prove2.me/theorems/fcfd4c26-35a3-4448-a329-9666c5bd7510

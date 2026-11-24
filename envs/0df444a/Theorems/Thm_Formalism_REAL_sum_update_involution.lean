@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_sum_update_involution
 -- name    : Formalism.REAL.sum_update_involution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:26:39.21802+00:00
 -- url     : https://prove2.me/theorems/2ff34e26-09da-4183-8945-03f614cd5b41

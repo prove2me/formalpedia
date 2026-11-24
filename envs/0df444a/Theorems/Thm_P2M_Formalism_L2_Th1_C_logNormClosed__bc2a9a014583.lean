@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_C_logNormClosed__bc2a9a014583
 -- name    : P2M_Formalism_L2_Th1_C_logNormClosed__bc2a9a014583
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:05:56.095853+00:00
 -- url     : https://prove2.me/theorems/79701519-79b0-4165-abba-edde63a17dd0

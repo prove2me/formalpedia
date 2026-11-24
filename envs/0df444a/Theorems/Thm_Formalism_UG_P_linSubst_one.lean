@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_linSubst_one
 -- name    : Formalism.UG.P.linSubst_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:33:26.784783+00:00
 -- url     : https://prove2.me/theorems/77400b7c-3635-4046-ac45-743610f92aec

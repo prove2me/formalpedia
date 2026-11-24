@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_ModelEmbedding_JJ_ne_one
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.ModelEmbedding.JJ_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:28:40.50177+00:00
 -- url     : https://prove2.me/theorems/276ea515-468a-4e60-9527-7e9013f0f4d9

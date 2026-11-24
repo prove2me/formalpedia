@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_levelvsplit_mem_range_iff
 -- name    : Formalism.UG.P.levelvsplit_mem_range_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:33:44.485954+00:00
 -- url     : https://prove2.me/theorems/ac7db82b-ad66-45f4-b46a-c1055a388074

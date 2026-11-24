@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_f1alg_isUnit_J
 -- name    : Formalism.REAL.f1alg_isUnit_J
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:21:56.176543+00:00
 -- url     : https://prove2.me/theorems/fc5e866c-2dd6-4813-8990-2f1268e955ea

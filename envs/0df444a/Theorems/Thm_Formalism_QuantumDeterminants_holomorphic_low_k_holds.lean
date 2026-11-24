@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_holomorphic_low_k_holds
 -- name    : Formalism.QuantumDeterminants.holomorphic_low_k_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:20:04.156077+00:00
 -- url     : https://prove2.me/theorems/0ba889fd-d8b8-4824-bd02-d5d6dffd7148

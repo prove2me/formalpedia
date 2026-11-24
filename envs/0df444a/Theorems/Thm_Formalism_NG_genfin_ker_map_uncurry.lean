@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_genfin_ker_map_uncurry
 -- name    : Formalism.NG.genfin_ker_map_uncurry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:16:14.587924+00:00
 -- url     : https://prove2.me/theorems/cb0289df-0e99-4f33-b3bc-b6b1972ad93d

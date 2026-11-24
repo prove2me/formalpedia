@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_mqFrob_of
 -- name    : Formalism.Q3.mqFrob_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:19:23.165601+00:00
 -- url     : https://prove2.me/theorems/48d54291-6b14-4e11-8ac5-d54adff17859

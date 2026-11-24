@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_fSatake_vanish
 -- name    : Formalism.UG.P.fSatake_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:32:26.376067+00:00
 -- url     : https://prove2.me/theorems/91ce31a5-4a6e-41b8-8c89-34ac69d479a3

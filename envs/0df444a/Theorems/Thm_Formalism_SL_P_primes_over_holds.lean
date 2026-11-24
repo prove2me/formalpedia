@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SL_P_primes_over_holds
 -- name    : Formalism.SL.P.primes_over_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:27:26.615808+00:00
 -- url     : https://prove2.me/theorems/f1446e3a-4a1d-4624-bf5b-6c5b2a998850

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_ChartInt_vV_unit
 -- name    : GlobalTheory.Reg.ChartInt.vV_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:28:23.416782+00:00
 -- url     : https://prove2.me/theorems/4ab85eb9-4549-4512-9e42-db943fdf2d89

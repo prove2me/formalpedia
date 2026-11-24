@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_coeff_digitPart_eIn
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.coeff_digitPart_eIn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:04:20.603656+00:00
 -- url     : https://prove2.me/theorems/d77b0bc1-faac-47fa-893a-69cd0ee808e2

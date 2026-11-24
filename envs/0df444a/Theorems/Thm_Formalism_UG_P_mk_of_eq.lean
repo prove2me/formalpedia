@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_mk_of_eq
 -- name    : Formalism.UG.P.mk_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:33:23.822836+00:00
 -- url     : https://prove2.me/theorems/9b921475-19d2-4da4-9d67-edd22860226f

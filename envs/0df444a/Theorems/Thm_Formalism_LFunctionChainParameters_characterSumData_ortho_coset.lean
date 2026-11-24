@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_characterSumData_ortho_coset
 -- name    : Formalism.LFunctionChainParameters.characterSumData.ortho_coset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:03.611041+00:00
 -- url     : https://prove2.me/theorems/31c02139-13db-4378-9d9e-1738997738e3

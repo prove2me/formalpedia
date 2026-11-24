@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_PrimeWindowSizeBounds_bad_le
 -- name    : Formalism.LFunctionChainParameters.PrimeWindowSizeBounds.bad_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:06:03.754081+00:00
 -- url     : https://prove2.me/theorems/d4950791-1fc1-4f2b-af4b-4911e8d54764

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_valS_C_nonneg
 -- name    : Formalism.MainNotions.PlaneGram.valS_C_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:46:23.071819+00:00
 -- url     : https://prove2.me/theorems/ab46d6da-d7ee-4e37-bdd7-d0d57a61d655

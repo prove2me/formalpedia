@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_TwoAdicValuation_vEq
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.TwoAdicValuation.vEq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:30:07.934131+00:00
 -- url     : https://prove2.me/theorems/f2bb27a1-8406-4de2-8115-19ed57557a1b

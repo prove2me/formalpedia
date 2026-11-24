@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_fock_eq_sum_right
 -- name    : Formalism.MainNotions.PlaneGram.fock_eq_sum_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:06:44.153077+00:00
 -- url     : https://prove2.me/theorems/e444729d-6e52-45e3-a23e-fe14cf8919b3

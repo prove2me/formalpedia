@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_OneLetterHalf_of
 -- name    : Formalism.L2.Th1.D.OneLetterHalf_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:39:54.539708+00:00
 -- url     : https://prove2.me/theorems/06556519-9ab4-478a-a056-f063115679db

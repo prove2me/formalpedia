@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_LOC_locDirect
 -- name    : Formalism.RepresentationBoundsCohomology.LOC.locDirect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:27:20.616052+00:00
 -- url     : https://prove2.me/theorems/364d13f6-c417-4aaa-a4a3-1f16caea1f96

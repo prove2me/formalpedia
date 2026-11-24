@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_fSatake_ord_nonneg
 -- name    : Formalism.UG.P.fSatake_ord_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:32:15.552979+00:00
 -- url     : https://prove2.me/theorems/5fa8b9d5-1c99-4182-a1ff-fc2f05226abc

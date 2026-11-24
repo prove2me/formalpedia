@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_vala_of_nonneg
 -- name    : Formalism.MainNotions.PlaneGram.vala_of_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:46:53.800624+00:00
 -- url     : https://prove2.me/theorems/2b5a4467-c28e-410f-91af-b9d2c4410fca

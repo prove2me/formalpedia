@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SA_P_geom_prod_sum
 -- name    : Formalism.SA.P.geom_prod_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:27:47.801179+00:00
 -- url     : https://prove2.me/theorems/4bd6de30-aaf7-4b6e-80f1-9d2b74017c6c

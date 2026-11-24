@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_J_genus_tr
 -- name    : Formalism.MainNotions.J.genus_tr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:57:54.333384+00:00
 -- url     : https://prove2.me/theorems/36d242d6-3cb0-4e17-9fea-d6b2c7c49aad

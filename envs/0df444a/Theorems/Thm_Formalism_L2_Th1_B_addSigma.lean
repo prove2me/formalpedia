@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_addSigma
 -- name    : Formalism.L2.Th1.B.addSigma
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:07:01.87462+00:00
 -- url     : https://prove2.me/theorems/8acb2d01-cf82-4eba-8183-7a6400f0f777

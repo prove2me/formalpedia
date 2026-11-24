@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_hForm_zero_right_6b8edb0e313a
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_hForm_zero_right_6b8edb0e313a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:29:21.429148+00:00
 -- url     : https://prove2.me/theorems/a975f682-cc3b-47c4-8287-63b7bf57f9a4

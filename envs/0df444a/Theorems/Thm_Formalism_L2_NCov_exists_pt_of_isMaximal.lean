@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NCov_exists_pt_of_isMaximal
 -- name    : Formalism.L2.NCov.exists_pt_of_isMaximal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:37.70785+00:00
 -- url     : https://prove2.me/theorems/72fb52f2-7c6e-451b-8778-6a3662115b85

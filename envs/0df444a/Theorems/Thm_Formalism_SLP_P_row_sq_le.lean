@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_P_row_sq_le
 -- name    : Formalism.SLP.P.row_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:29:06.650807+00:00
 -- url     : https://prove2.me/theorems/7dba1563-4157-449d-b315-17f3081a7864

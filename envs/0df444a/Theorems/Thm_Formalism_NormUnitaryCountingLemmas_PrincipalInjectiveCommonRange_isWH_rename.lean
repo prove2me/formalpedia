@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_PrincipalInjectiveCommonRange_isWH_rename
 -- name    : Formalism.NormUnitaryCountingLemmas.PrincipalInjectiveCommonRange.isWH_rename
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:18:04.271259+00:00
 -- url     : https://prove2.me/theorems/b2460022-402d-4d7d-b528-cc581e93dafc

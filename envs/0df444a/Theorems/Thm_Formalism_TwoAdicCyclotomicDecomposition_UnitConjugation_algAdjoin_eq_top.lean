@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_UnitConjugation_algAdjoin_eq_top
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.UnitConjugation.algAdjoin_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:30:38.062346+00:00
 -- url     : https://prove2.me/theorems/16180478-ff2e-4bb5-a230-d47a7ce2d072

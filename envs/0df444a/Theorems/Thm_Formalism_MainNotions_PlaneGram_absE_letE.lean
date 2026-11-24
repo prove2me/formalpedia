@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_absE_letE
 -- name    : Formalism.MainNotions.PlaneGram.absE_letE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:05:38.743677+00:00
 -- url     : https://prove2.me/theorems/ef347776-2ab0-4760-80b8-78f71ea7898b

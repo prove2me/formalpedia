@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satakeInv_insert_mem
 -- name    : Formalism.UG.P.satakeInv_insert_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:33:07.556272+00:00
 -- url     : https://prove2.me/theorems/a3efbaef-af9f-4d52-8b0b-e30d7d664c86

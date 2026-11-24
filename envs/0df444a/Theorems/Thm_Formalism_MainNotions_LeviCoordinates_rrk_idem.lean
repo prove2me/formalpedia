@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_LeviCoordinates_rrk_idem
 -- name    : Formalism.MainNotions.LeviCoordinates.rrk_idem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:57:01.576431+00:00
 -- url     : https://prove2.me/theorems/2d25ca6e-e138-466b-a5a7-a8e281a76966

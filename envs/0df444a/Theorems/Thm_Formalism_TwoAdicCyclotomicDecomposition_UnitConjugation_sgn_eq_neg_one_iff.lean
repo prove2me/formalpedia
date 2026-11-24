@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_UnitConjugation_sgn_eq_neg_one_iff
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.UnitConjugation.sgn_eq_neg_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:30:41.234822+00:00
 -- url     : https://prove2.me/theorems/076a14da-e2c0-4ff4-a413-dd09dd7aae50

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_LOC_connTors
 -- name    : Formalism.RepresentationBoundsCohomology.LOC.connTors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:26:22.361571+00:00
 -- url     : https://prove2.me/theorems/e0ef67d3-ae98-4e0a-b895-398146fd5135

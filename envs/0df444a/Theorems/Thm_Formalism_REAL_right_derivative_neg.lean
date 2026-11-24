@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_right_derivative_neg
 -- name    : Formalism.REAL.right_derivative_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:24:34.489962+00:00
 -- url     : https://prove2.me/theorems/62ee01bd-0ac0-43b1-82c6-1be9c462a93a

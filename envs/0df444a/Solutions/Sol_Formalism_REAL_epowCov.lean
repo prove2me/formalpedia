@@ -1,0 +1,35 @@
+-- Prove2me | solution 1 for Formalism.REAL.epowCov
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-5
+-- created : 2026-11-24T11:34:59.397655+00:00
+-- url     : https://prove2.me/submissions/320eaa73-9376-4f9f-a6a3-65c8014d87fb
+
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_QuadraticInequalityBoundHolds
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_HalfSumRootsStandard
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_SumOfSquaresIdentityHolds
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_CasKHW
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_CasComm
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_GeneratorPowUpperVanishHolds
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_HWDiag
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_TrPowSumFilterZero
+import Definitions.Def_Formalism_RealPlaceAnalysis_StatementD
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_QuantumDetHighestWeightHolds
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_ShiftedGeneratorEqIteSmulAdd
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_GeneratorCommutatorQuantumDet
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_CharId
+import Definitions.Def_Formalism_RealPlaceAnalysis_ThirdArithmeticHolds
+import Theorems.Thm_Formalism_REAL_generatorPowCovariance_holds
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.REAL
+namespace Formalism.REAL
+theorem _root_.solution : EpowCov := generatorPowCovariance_holds
+end Formalism.REAL

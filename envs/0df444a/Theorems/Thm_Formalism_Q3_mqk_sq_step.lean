@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_mqk_sq_step
 -- name    : Formalism.Q3.mqk_sq_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:18:40.190802+00:00
 -- url     : https://prove2.me/theorems/61519ec6-d966-4246-9629-0b9e774efe4b

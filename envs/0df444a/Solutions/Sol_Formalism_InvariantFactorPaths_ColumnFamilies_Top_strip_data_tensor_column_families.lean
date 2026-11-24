@@ -1,0 +1,28 @@
+-- Prove2me | solution 1 for Formalism.InvariantFactorPaths.ColumnFamilies.Top.strip_data_tensor_column_families
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-24T11:34:13.586809+00:00
+-- url     : https://prove2.me/submissions/524544d9-3977-4b06-939b-d8356d2672ab
+
+import Definitions.Def_Formalism_ThetaLogCoordinates_DualWeylCoordinates_DualWeylProofs_StripDataTensorColumnFamilies
+import Definitions.Def_Formalism_ThetaLogCoordinates_DualWeylCoordinates_DualWeylProofs_CntSym
+import Definitions.Def_Formalism_ThetaLogCoordinates_DualWeylCoordinates_DualWeylProofs_CntLam
+import Definitions.Def_Formalism_ThetaLogCoordinates_DualWeylCoordinates_DualWeylProofs_SymStrip
+import Definitions.Def_Formalism_ThetaLogCoordinates_DualWeylCoordinates_DualWeylProofs_SymDStrip
+import Definitions.Def_Formalism_ThetaLogCoordinates_DualWeylCoordinates_DualWeylProofs_LamStrip
+import Definitions.Def_Formalism_ThetaLogCoordinates_DualWeylCoordinates_ClosureSecondPart
+import Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_strip_data_tensor_holds
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.InvariantFactorPaths Formalism.InvariantFactorPaths.ColumnFamilies Formalism.InvariantFactorPaths.ColumnFamilies.Top
+namespace Formalism.InvariantFactorPaths.ColumnFamilies.Top
+theorem _root_.solution : StripDataTensorColumnFamilies := strip_data_tensor_holds
+end Formalism.InvariantFactorPaths.ColumnFamilies.Top

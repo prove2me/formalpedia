@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_finsupp_deg_one
 -- name    : Formalism.L2.FormalSeriesBounds.finsupp_deg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:29:16.637871+00:00
 -- url     : https://prove2.me/theorems/568fb701-9b95-4b24-8543-81533a255ccb

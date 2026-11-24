@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_exp_log_of_pos_spectrum
 -- name    : Formalism.REAL.exp_log_of_pos_spectrum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:21:43.675806+00:00
 -- url     : https://prove2.me/theorems/5dddbf62-ffc1-48bc-9549-dd78bffcfc09

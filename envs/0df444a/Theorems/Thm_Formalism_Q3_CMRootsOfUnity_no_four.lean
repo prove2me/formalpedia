@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_CMRootsOfUnity_no_four
 -- name    : Formalism.Q3.CMRootsOfUnity.no_four
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:18:11.384804+00:00
 -- url     : https://prove2.me/theorems/9213c293-14da-4562-b528-4fc721ed7b26

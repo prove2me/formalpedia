@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_TrivBound_fin_of_ne_top
 -- name    : GlobalTheory.Reg.TrivBound.fin_of_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:29:33.957514+00:00
 -- url     : https://prove2.me/theorems/6a3ccc3a-70f3-403e-933b-7ee9f2b47848

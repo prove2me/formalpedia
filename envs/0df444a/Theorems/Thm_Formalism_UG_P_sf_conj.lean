@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_sf_conj
 -- name    : Formalism.UG.P.sf_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:34:01.720803+00:00
 -- url     : https://prove2.me/theorems/6e806c5e-b9b3-414a-9826-b32b8fb09049

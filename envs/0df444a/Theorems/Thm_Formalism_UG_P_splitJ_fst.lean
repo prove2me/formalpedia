@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_splitJ_fst
 -- name    : Formalism.UG.P.splitJ_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:36:59.663225+00:00
 -- url     : https://prove2.me/theorems/3a1c0e42-0ec0-4fd0-88a5-1f79bf47b6f6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_WirtingerDerivatives_wirt_coef
 -- name    : Formalism.QuantumDeterminants.WirtingerDerivatives.wirt_coef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:08:38.190692+00:00
 -- url     : https://prove2.me/theorems/f5c91a3d-f7e3-4842-a66a-c95448127a8c

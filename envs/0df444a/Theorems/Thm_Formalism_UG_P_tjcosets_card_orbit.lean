@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_tjcosets_card_orbit
 -- name    : Formalism.UG.P.tjcosets_card_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:36:27.399786+00:00
 -- url     : https://prove2.me/theorems/03e7c4e0-70ff-43a0-8484-2088fe4c49c4

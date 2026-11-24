@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_spherical_diag_ne_zero
 -- name    : Formalism.UG.P.spherical_diag_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:36:47.283067+00:00
 -- url     : https://prove2.me/theorems/f2f433a3-d53f-4ba7-9b1d-19add625b33a

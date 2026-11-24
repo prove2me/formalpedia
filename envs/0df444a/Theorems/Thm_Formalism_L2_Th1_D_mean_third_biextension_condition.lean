@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_mean_third_biextension_condition
 -- name    : Formalism.L2.Th1.D.mean_third_biextension_condition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:14:40.313799+00:00
 -- url     : https://prove2.me/theorems/888eba19-2173-4dbb-8b3c-5af98f4185a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_levelvsplit_solve
 -- name    : Formalism.UG.P.levelvsplit_solve
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:33:25.726964+00:00
 -- url     : https://prove2.me/theorems/712ac434-6915-4469-9bc7-c699b0ce9057

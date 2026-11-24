@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_fIwasawa_E_fix
 -- name    : Formalism.UG.P.fIwasawa_E_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:31:46.002011+00:00
 -- url     : https://prove2.me/theorems/fdac9358-222b-4b60-a2d1-a5584fcddb72

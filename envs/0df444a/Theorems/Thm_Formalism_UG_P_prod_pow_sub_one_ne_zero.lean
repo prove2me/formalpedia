@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_prod_pow_sub_one_ne_zero
 -- name    : Formalism.UG.P.prod_pow_sub_one_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:33:36.422685+00:00
 -- url     : https://prove2.me/theorems/b5631424-f96b-4163-a0a0-7b1ef9d0fe85

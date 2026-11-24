@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Two_sq_dvd_tS
 -- name    : Formalism.L2.Th1.A.Two.sq_dvd_tS
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:46.269449+00:00
 -- url     : https://prove2.me/theorems/9a109f2c-486d-42a8-b071-4303351abe2c

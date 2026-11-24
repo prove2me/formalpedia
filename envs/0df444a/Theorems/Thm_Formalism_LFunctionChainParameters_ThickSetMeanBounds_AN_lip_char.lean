@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ThickSetMeanBounds_AN_lip_char
 -- name    : Formalism.LFunctionChainParameters.ThickSetMeanBounds.AN.lip_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:49:25.979748+00:00
 -- url     : https://prove2.me/theorems/5e3c84ec-95c7-4923-8110-5cd8ed109c31

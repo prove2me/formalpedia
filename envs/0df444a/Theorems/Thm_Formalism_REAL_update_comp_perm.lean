@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_update_comp_perm
 -- name    : Formalism.REAL.update_comp_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:25:30.911107+00:00
 -- url     : https://prove2.me/theorems/4bb70890-1260-4010-bab8-bdd2badc983b

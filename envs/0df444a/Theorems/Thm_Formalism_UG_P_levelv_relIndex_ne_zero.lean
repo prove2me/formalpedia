@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_levelv_relIndex_ne_zero
 -- name    : Formalism.UG.P.levelv_relIndex_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:33:56.451911+00:00
 -- url     : https://prove2.me/theorems/94ea5ed2-0de0-4bb6-aa2f-cde77a8b1538

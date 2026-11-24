@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_cartan_diag_units
 -- name    : Formalism.UG.P.cartan_diag_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:31:24.275065+00:00
 -- url     : https://prove2.me/theorems/fe63fb1a-fb73-4523-8e24-a9463ef89209

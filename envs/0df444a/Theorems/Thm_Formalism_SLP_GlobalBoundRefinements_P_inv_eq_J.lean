@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_GlobalBoundRefinements_P_inv_eq_J
 -- name    : Formalism.SLP.GlobalBoundRefinements.P.inv_eq_J
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:29:37.75202+00:00
 -- url     : https://prove2.me/theorems/3d952153-c7c5-4a69-bcd8-f2a32ba9f96e

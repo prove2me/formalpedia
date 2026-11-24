@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_uW_hasLineDerivAt
 -- name    : Formalism.QuantumDeterminants.uW_hasLineDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:20:07.597835+00:00
 -- url     : https://prove2.me/theorems/441f5c8d-88e8-4951-9315-295ddc878d14

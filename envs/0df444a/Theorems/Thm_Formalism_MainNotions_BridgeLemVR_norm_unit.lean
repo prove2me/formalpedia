@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLemVR_norm_unit
 -- name    : Formalism.MainNotions.BridgeLemVR.norm_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:55:39.356106+00:00
 -- url     : https://prove2.me/theorems/5c5491a6-ac69-4fe3-8a7c-139f46e22b7b

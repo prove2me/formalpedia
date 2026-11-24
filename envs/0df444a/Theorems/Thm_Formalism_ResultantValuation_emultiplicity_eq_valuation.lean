@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ResultantValuation_emultiplicity_eq_valuation
 -- name    : Formalism.ResultantValuation.emultiplicity_eq_valuation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:27:17.211812+00:00
 -- url     : https://prove2.me/theorems/d8060e22-15db-41ef-ae08-d4e2a43fcb15

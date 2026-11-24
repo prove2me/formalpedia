@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_CoefficientSupportCongruences_derivIs_Gser
 -- name    : Formalism.InvariantFactorPaths.G7.CoefficientSupportCongruences.derivIs_Gser
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:21:36.055254+00:00
 -- url     : https://prove2.me/theorems/39a11b32-df04-4d79-8de2-d0d2359024fb

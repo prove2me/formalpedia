@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_ShearCoefficients_coeffHom_shear_monomial
 -- name    : Formalism.NormUnitaryCountingLemmas.ShearCoefficients.coeffHom_shear_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:17:43.920986+00:00
 -- url     : https://prove2.me/theorems/540f5d5d-f4a9-4164-84e5-9b69f1a945a4

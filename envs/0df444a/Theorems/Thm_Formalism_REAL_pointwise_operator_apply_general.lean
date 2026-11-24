@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_pointwise_operator_apply_general
 -- name    : Formalism.REAL.pointwise_operator_apply_general
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:24:55.843774+00:00
 -- url     : https://prove2.me/theorems/ea9b33b4-128f-4c86-85c3-c2c69d0004a5

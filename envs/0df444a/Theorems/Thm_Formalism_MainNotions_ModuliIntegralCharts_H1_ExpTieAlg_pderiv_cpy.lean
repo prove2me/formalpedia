@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpTieAlg_pderiv_cpy
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpTieAlg.pderiv_cpy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:08:05.765841+00:00
 -- url     : https://prove2.me/theorems/1c2d3907-13bd-4467-a5d5-b5567f0f8dff

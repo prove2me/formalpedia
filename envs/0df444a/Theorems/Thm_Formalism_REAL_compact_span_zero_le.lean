@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_compact_span_zero_le
 -- name    : Formalism.REAL.compact_span_zero_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:21:40.076908+00:00
 -- url     : https://prove2.me/theorems/ec6e56a0-ce86-42dc-bf56-6cff37d43152

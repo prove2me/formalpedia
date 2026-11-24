@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_entries_mem_of_mem_stabGL
 -- name    : Formalism.UG.P.entries_mem_of_mem_stabGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:31:21.379426+00:00
 -- url     : https://prove2.me/theorems/8bc15723-4a89-42fc-b919-d479fd671b6a

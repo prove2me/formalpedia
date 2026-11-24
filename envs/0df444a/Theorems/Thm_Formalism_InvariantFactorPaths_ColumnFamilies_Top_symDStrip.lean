@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_Top_symDStrip
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.Top.symDStrip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:29:52.106018+00:00
 -- url     : https://prove2.me/theorems/599a073b-d4e7-4a61-9b86-6cf76d38acb8

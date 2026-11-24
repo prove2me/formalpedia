@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_isogenyIffBar
 -- name    : Formalism.L2.Th1.C.isogenyIffBar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:30.458089+00:00
 -- url     : https://prove2.me/theorems/311c195f-535a-49b8-b5d2-b911362554ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_uWNormal
 -- name    : Formalism.QuantumDeterminants.uWNormal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:57:38.679292+00:00
 -- url     : https://prove2.me/theorems/a64b4dd5-d98b-4a50-a53c-bdd50742f64c

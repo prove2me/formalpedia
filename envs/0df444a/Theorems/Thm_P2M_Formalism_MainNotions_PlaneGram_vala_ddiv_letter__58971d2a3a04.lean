@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_PlaneGram_vala_ddiv_letter__58971d2a3a04
 -- name    : P2M_Formalism_MainNotions_PlaneGram_vala_ddiv_letter__58971d2a3a04
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:07:11.142799+00:00
 -- url     : https://prove2.me/theorems/51b979e4-74d6-4c4e-831e-138d2bec1da7

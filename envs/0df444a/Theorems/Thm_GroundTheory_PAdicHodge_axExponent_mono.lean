@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_axExponent_mono
 -- name    : GroundTheory.PAdicHodge.axExponent_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:29:11.33629+00:00
 -- url     : https://prove2.me/theorems/e5ed7aea-388e-4962-b7d2-c111d8cceb53

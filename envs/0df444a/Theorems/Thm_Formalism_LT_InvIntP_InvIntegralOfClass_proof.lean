@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_InvIntP_InvIntegralOfClass_proof
 -- name    : Formalism.LT.InvIntP.InvIntegralOfClass_proof
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:00:08.010721+00:00
 -- url     : https://prove2.me/theorems/4281f1fb-d53f-47bd-8264-b280b9ffe306

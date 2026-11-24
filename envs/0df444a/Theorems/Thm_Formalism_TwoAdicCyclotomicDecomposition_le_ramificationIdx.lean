@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_le_ramificationIdx
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.le_ramificationIdx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:30:36.706331+00:00
 -- url     : https://prove2.me/theorems/c89ac60e-843c-41eb-be2a-c6c9167ada4a

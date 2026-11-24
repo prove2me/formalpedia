@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_coeff_substS_eIn_eq_zero
 -- name    : Formalism.MainNotions.PlaneGram.coeff_substS_eIn_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:44:08.411741+00:00
 -- url     : https://prove2.me/theorems/5fbb1d50-5abd-488c-ae12-28319fc49f3e

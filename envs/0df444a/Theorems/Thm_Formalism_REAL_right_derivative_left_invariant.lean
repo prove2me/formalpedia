@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_right_derivative_left_invariant
 -- name    : Formalism.REAL.right_derivative_left_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:24:31.625973+00:00
 -- url     : https://prove2.me/theorems/df42cac2-3607-4295-a83a-117ba25c4ad6

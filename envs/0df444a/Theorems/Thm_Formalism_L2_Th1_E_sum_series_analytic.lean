@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_sum_series_analytic
 -- name    : Formalism.L2.Th1.E.sum_series_analytic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:02:45.196439+00:00
 -- url     : https://prove2.me/theorems/1cd94ebe-0a80-4336-9bc9-01e112ad3cc2

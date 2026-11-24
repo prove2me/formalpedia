@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_product_first_zeroth_parts_ram_V
 -- name    : Formalism.LogVandermondeBounds.product_first_zeroth_parts.ram_V
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:40.802827+00:00
 -- url     : https://prove2.me/theorems/69098444-de10-4d9e-8547-53ab957da982

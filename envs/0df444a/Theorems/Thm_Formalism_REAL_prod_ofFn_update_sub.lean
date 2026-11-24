@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_prod_ofFn_update_sub
 -- name    : Formalism.REAL.prod_ofFn_update_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:24:09.895831+00:00
 -- url     : https://prove2.me/theorems/14dcead5-ff9c-48aa-b4c4-0a1b8b254619

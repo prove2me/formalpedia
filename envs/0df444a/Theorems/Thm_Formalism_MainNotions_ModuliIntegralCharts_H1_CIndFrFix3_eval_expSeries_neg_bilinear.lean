@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrFix3_eval_expSeries_neg_bilinear
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrFix3.eval_expSeries_neg_bilinear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:58:49.67437+00:00
 -- url     : https://prove2.me/theorems/13308f4b-e8dc-4d4c-99c4-d6b842cbbf89

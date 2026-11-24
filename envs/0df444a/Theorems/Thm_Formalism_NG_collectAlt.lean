@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_collectAlt
 -- name    : Formalism.NG.collectAlt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:17:20.747839+00:00
 -- url     : https://prove2.me/theorems/e8247a28-f2c4-4367-8233-9ba278d821de

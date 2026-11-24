@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_DeficitSplitLemmas_loss_bound
 -- name    : Formalism.LFunctionChainParameters.DeficitSplitLemmas.loss_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:29:11.926108+00:00
 -- url     : https://prove2.me/theorems/09492fc1-975b-4377-9784-8f6be09b3b92

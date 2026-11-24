@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_ETerm_term_bound
 -- name    : Formalism.InvariantFactorPaths.G7.ETerm.term_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:11:56.48636+00:00
 -- url     : https://prove2.me/theorems/f87ae7f4-985c-41f3-ac2a-62149871ac06

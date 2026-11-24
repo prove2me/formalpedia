@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_cartan_val_pow
 -- name    : Formalism.UG.P.cartan_val_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:30:54.258883+00:00
 -- url     : https://prove2.me/theorems/5a7edac4-f612-4b32-a9ec-89e091d86a94

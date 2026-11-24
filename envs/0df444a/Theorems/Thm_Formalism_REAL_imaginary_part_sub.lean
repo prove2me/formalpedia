@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_imaginary_part_sub
 -- name    : Formalism.REAL.imaginary_part_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:21:06.545512+00:00
 -- url     : https://prove2.me/theorems/67d46d81-7a44-4925-a4d5-414d9ff2346a

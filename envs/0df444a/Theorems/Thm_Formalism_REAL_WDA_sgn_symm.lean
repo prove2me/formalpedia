@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_WDA_sgn_symm
 -- name    : Formalism.REAL.WDA_sgn_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:20:11.436622+00:00
 -- url     : https://prove2.me/theorems/e6bd4578-6403-4c8b-a0e9-a60c9c98ec19

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_MassRatioBoundPower_massRatio_pos
 -- name    : Formalism.MainNotions.MassRatioBoundPower.massRatio_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:17:24.580807+00:00
 -- url     : https://prove2.me/theorems/2968087a-d7ad-40fe-8a2f-3dd59283c9a4

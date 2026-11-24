@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_FilPhi_rankOne_isSub_bot_or_top
 -- name    : Formalism.WeaklyAdmissibleFiltrations.FilPhi.rankOne_isSub_bot_or_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:37:53.794595+00:00
 -- url     : https://prove2.me/theorems/f62eab61-bde7-48f9-99c1-2d0bfd9dbbe9

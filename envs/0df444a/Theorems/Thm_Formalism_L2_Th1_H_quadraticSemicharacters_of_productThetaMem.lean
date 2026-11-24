@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_quadraticSemicharacters_of_productThetaMem
 -- name    : Formalism.L2.Th1.H.quadraticSemicharacters_of_productThetaMem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:48.447618+00:00
 -- url     : https://prove2.me/theorems/07875b2e-3306-42ce-8201-6625602c2d90

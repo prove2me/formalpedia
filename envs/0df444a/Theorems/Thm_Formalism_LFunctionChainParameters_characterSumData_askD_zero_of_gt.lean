@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_characterSumData_askD_zero_of_gt
 -- name    : Formalism.LFunctionChainParameters.characterSumData.askD_zero_of_gt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:54.166129+00:00
 -- url     : https://prove2.me/theorems/07a637db-6c68-4678-80f2-f857886d5e13

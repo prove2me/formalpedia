@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_product_first_zeroth_parts_ramified_lattice_operator_identity
 -- name    : Formalism.LogVandermondeBounds.product_first_zeroth_parts.ramified_lattice_operator_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:40:09.792828+00:00
 -- url     : https://prove2.me/theorems/006fa369-7063-466f-8453-a3bc3ad21c71

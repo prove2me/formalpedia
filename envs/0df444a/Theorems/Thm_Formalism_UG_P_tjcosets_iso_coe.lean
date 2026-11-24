@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_tjcosets_iso_coe
 -- name    : Formalism.UG.P.tjcosets_iso_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:37:27.157446+00:00
 -- url     : https://prove2.me/theorems/6fba4dc1-0aaa-4b98-82bb-15c12dede300

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_dg_choose_eq
 -- name    : Formalism.MainNotions.PlaneGram.dg_choose_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:06:22.24019+00:00
 -- url     : https://prove2.me/theorems/06dd041c-3817-4f2a-a7d6-935ec4ecc755

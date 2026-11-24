@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_csEquiv_main
 -- name    : Formalism.UG.P.csEquiv_main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:32:01.809948+00:00
 -- url     : https://prove2.me/theorems/abba0317-9b27-4d69-8c66-8e248b6de9ea

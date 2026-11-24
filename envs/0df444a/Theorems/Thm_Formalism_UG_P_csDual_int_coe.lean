@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_csDual_int_coe
 -- name    : Formalism.UG.P.csDual_int_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:31:51.394685+00:00
 -- url     : https://prove2.me/theorems/4eaf81e8-f9d4-4d98-8cdb-b05bf1ec2f22

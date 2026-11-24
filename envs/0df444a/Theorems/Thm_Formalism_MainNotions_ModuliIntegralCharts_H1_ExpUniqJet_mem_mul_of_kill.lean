@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpUniqJet_mem_mul_of_kill
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpUniqJet.mem_mul_of_kill
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:01:31.655625+00:00
 -- url     : https://prove2.me/theorems/62a15922-a032-4896-aaec-97815243407c

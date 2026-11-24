@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_perm_arr_apply
 -- name    : Formalism.REAL.perm_arr_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:25:08.818024+00:00
 -- url     : https://prove2.me/theorems/77f6eb15-2355-4b9f-9b7d-051e6b8965cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_fSatake_unit_diag_mat
 -- name    : Formalism.UG.P.fSatake_unit_diag_mat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:31:43.760325+00:00
 -- url     : https://prove2.me/theorems/f4706703-c96e-4cc8-b471-201430c12f76

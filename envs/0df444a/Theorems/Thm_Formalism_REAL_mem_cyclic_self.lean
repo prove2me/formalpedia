@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_mem_cyclic_self
 -- name    : Formalism.REAL.mem_cyclic_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:23:28.96733+00:00
 -- url     : https://prove2.me/theorems/7a2f0a05-b61b-4169-b672-fa9dd46f4331

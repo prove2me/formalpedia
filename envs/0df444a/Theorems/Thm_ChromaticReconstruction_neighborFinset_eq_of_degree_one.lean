@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_neighborFinset_eq_of_degree_one
 -- name    : ChromaticReconstruction.neighborFinset_eq_of_degree_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:28:33.237386+00:00
 -- url     : https://prove2.me/theorems/59eacafa-42f9-4141-9a5d-62dcfbe95afa

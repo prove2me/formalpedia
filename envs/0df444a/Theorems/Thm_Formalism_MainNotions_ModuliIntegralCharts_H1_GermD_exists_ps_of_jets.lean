@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GermD_exists_ps_of_jets
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GermD.exists_ps_of_jets
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:58:30.848798+00:00
 -- url     : https://prove2.me/theorems/6f9325f3-52de-43aa-8efe-7b5a9312608b

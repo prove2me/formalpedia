@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_signature_matrix_inv_self
 -- name    : Formalism.REAL.signature_matrix_inv_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:26:24.908147+00:00
 -- url     : https://prove2.me/theorems/58a6be77-8225-4570-bed7-1ba88992f39d

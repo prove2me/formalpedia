@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_T0_ql_span_le
 -- name    : Formalism.MainNotions.Gaps.T0.ql_span_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:43:03.332084+00:00
 -- url     : https://prove2.me/theorems/ce4da3a0-fc07-4765-83c6-c62c2ed4625e

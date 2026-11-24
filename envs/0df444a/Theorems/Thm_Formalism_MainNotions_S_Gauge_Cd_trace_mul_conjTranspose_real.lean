@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_S_Gauge_Cd_trace_mul_conjTranspose_real
 -- name    : Formalism.MainNotions.S.Gauge.Cd.trace_mul_conjTranspose_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:12:33.137091+00:00
 -- url     : https://prove2.me/theorems/902ae2ec-2bf7-415a-8df2-996ec32ea567

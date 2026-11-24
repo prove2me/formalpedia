@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_compact_casimir_apply
 -- name    : Formalism.REAL.compact_casimir_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:20:31.895324+00:00
 -- url     : https://prove2.me/theorems/1f7a3fc0-f779-4861-8b1c-57193e0e942c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_isCompact_congruenceSubgroup
 -- name    : GroundTheory.Automorphic.GLnLocal.isCompact_congruenceSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:46:59.978803+00:00
 -- url     : https://prove2.me/theorems/40724498-95c4-410a-8772-2f5583a550be

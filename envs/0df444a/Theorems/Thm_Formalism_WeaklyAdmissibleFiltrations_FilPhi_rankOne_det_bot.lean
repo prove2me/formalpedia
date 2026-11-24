@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_FilPhi_rankOne_det_bot
 -- name    : Formalism.WeaklyAdmissibleFiltrations.FilPhi.rankOne_det_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:37:55.640705+00:00
 -- url     : https://prove2.me/theorems/b4b90e3b-c5b1-41df-bf78-f2989bffdb6c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_TrPow_m_zero
 -- name    : Formalism.REAL.TrPow_m_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:20:05.345828+00:00
 -- url     : https://prove2.me/theorems/fbd4e65c-c306-4135-a593-10e66dbc153d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_P_gram_eq_of_decomp
 -- name    : Formalism.SLP.P.gram_eq_of_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:28:51.969214+00:00
 -- url     : https://prove2.me/theorems/e5f0fea2-3137-41ab-a580-63c046d51681

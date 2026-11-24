@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_J_splits_sub
 -- name    : Formalism.MainNotions.J.splits_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:42:37.479516+00:00
 -- url     : https://prove2.me/theorems/e90dc235-2181-4ba7-8267-d076adc268bb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_SymmetricFormBlocks_li_rename_mon
 -- name    : Formalism.MainNotions.G.SymmetricFormBlocks.li_rename_mon
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:55:30.232087+00:00
 -- url     : https://prove2.me/theorems/b352207b-d1ea-4814-9734-0e09247f1c89

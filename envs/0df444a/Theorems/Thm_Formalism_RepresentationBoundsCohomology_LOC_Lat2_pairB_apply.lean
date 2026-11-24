@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_LOC_Lat2_pairB_apply
 -- name    : Formalism.RepresentationBoundsCohomology.LOC.Lat2.pairB_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:26:21.200051+00:00
 -- url     : https://prove2.me/theorems/35b282c5-e562-4b0e-b5a8-00017a503bf6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_GlobalBoundRefinements_P_eq_one_of_sub_one_mem_prime
 -- name    : Formalism.SLP.GlobalBoundRefinements.P.eq_one_of_sub_one_mem_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:29:37.162415+00:00
 -- url     : https://prove2.me/theorems/2a2d4959-c11b-4ba1-bda1-05278111a5b5

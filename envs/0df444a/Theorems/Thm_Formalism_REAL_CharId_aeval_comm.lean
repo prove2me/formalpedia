@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_CharId_aeval_comm
 -- name    : Formalism.REAL.CharId_aeval_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:20:34.171841+00:00
 -- url     : https://prove2.me/theorems/0b727f0f-6489-4381-9b0a-5d75d51aa495

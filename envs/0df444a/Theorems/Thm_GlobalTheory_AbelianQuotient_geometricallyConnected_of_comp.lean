@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbelianQuotient_geometricallyConnected_of_comp
 -- name    : GlobalTheory.AbelianQuotient.geometricallyConnected_of_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:52:15.751794+00:00
 -- url     : https://prove2.me/theorems/81b2eff5-e4cb-4c2c-9df2-b70bc4305e15

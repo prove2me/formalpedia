@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_P_CountO_card_hom_le
 -- name    : Formalism.SLP.P.CountO.card_hom_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:28:56.919203+00:00
 -- url     : https://prove2.me/theorems/11c4f6f4-e598-463c-8ed4-7eeb51bd7f45

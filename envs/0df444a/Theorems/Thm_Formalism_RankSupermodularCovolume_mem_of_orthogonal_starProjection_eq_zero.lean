@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankSupermodularCovolume_mem_of_orthogonal_starProjection_eq_zero
 -- name    : Formalism.RankSupermodularCovolume.mem_of_orthogonal_starProjection_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:26:20.678625+00:00
 -- url     : https://prove2.me/theorems/d515c7a0-0b57-402e-9b72-87a7f435cbdb

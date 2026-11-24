@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_inner_compactCasimir_self
 -- name    : Formalism.REAL.inner_compactCasimir_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:23:14.19821+00:00
 -- url     : https://prove2.me/theorems/70b210c7-b524-47b3-8bae-4adf902f246b

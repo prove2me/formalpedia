@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ThetaLiftIndependence_LatticeLiftIndependence_reps_inv
 -- name    : Formalism.ThetaLiftIndependence.LatticeLiftIndependence.reps_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:29:00.538043+00:00
 -- url     : https://prove2.me/theorems/b42be10a-7cc1-418c-bead-eff25a679ab6

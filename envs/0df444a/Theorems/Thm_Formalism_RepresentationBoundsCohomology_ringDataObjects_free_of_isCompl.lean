@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_ringDataObjects_free_of_isCompl
 -- name    : Formalism.RepresentationBoundsCohomology.ringDataObjects.free_of_isCompl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:28:33.677145+00:00
 -- url     : https://prove2.me/theorems/f4ebd9c6-f96e-4595-bb43-917c0cac99b3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_lpFil_mul
 -- name    : Formalism.WeaklyAdmissibleFiltrations.lpFil_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:40:05.476037+00:00
 -- url     : https://prove2.me/theorems/bfb66e9f-08ee-45b4-9992-bd940150edc0

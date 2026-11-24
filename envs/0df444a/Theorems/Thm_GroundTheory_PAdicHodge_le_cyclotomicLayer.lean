@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_le_cyclotomicLayer
 -- name    : GroundTheory.PAdicHodge.le_cyclotomicLayer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:29:03.05406+00:00
 -- url     : https://prove2.me/theorems/7c600a3c-7490-46a5-81b3-e27a5e83792e

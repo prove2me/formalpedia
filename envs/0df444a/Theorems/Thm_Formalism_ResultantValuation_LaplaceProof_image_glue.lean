@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ResultantValuation_LaplaceProof_image_glue
 -- name    : Formalism.ResultantValuation.LaplaceProof.image_glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:27:47.692403+00:00
 -- url     : https://prove2.me/theorems/9dfb455f-11b0-45c8-becb-ef7c2027f041

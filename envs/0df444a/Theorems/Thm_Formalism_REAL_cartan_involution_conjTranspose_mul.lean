@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_cartan_involution_conjTranspose_mul
 -- name    : Formalism.REAL.cartan_involution_conjTranspose_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:20:20.95557+00:00
 -- url     : https://prove2.me/theorems/20371ed3-ea09-44ed-be61-2c73c7b5670a

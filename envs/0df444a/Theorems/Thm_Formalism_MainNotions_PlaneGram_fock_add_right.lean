@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_fock_add_right
 -- name    : Formalism.MainNotions.PlaneGram.fock_add_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:44:24.672848+00:00
 -- url     : https://prove2.me/theorems/84915512-f7fa-4957-9d22-6e9f714c4405

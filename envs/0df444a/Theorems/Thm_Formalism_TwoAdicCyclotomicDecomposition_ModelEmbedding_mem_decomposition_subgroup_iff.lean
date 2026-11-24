@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_ModelEmbedding_mem_decomposition_subgroup_iff
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.ModelEmbedding.mem_decomposition_subgroup_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:28:58.550271+00:00
 -- url     : https://prove2.me/theorems/ded72d6e-7e59-435f-a052-8ed0dffdae35

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_ringDataObjects_charpolyRev_map
 -- name    : Formalism.RepresentationBoundsCohomology.ringDataObjects.charpolyRev_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:30:25.381448+00:00
 -- url     : https://prove2.me/theorems/cd64dfdd-fbbd-48ef-abce-fc2ee757c56c

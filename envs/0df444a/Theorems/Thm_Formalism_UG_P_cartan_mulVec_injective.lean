@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_cartan_mulVec_injective
 -- name    : Formalism.UG.P.cartan_mulVec_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:30:49.832464+00:00
 -- url     : https://prove2.me/theorems/adbe4896-aa4c-431b-8f10-c859cbf88e74

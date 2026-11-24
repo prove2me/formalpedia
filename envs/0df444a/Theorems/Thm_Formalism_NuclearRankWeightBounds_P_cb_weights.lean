@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NuclearRankWeightBounds_P_cb_weights
 -- name    : Formalism.NuclearRankWeightBounds.P.cb_weights
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:55:42.873565+00:00
 -- url     : https://prove2.me/theorems/2dcd074f-630a-4fac-8fad-57f981f5d63f

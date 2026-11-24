@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_weighted_sum_rootVector_shift
 -- name    : Formalism.REAL.weighted_sum_rootVector_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:25:37.348535+00:00
 -- url     : https://prove2.me/theorems/951e0f61-32ba-428f-826f-be0a427699ef

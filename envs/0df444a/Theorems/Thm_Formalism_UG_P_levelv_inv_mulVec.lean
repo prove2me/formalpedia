@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_levelv_inv_mulVec
 -- name    : Formalism.UG.P.levelv_inv_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:33:37.677034+00:00
 -- url     : https://prove2.me/theorems/e50ee6b4-dd29-4516-8324-d90bd4c5e53e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JacquetBlocks_hasFiniteLength_jacU_reindex
 -- name    : GlobalTheory.JacquetBlocks.hasFiniteLength_jacU_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:52:31.10132+00:00
 -- url     : https://prove2.me/theorems/0a96d3de-96f3-4055-ab66-0a5326185261

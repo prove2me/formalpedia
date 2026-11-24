@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_mulX_mul_mulX_comm
 -- name    : Formalism.REAL.mulX_mul_mulX_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:24:31.093019+00:00
 -- url     : https://prove2.me/theorems/8c6c52bc-cc84-4032-b151-46a6e41e91b1

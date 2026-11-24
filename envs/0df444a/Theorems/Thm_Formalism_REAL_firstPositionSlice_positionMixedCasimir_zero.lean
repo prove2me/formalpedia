@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_firstPositionSlice_positionMixedCasimir_zero
 -- name    : Formalism.REAL.firstPositionSlice_positionMixedCasimir_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:21:26.662068+00:00
 -- url     : https://prove2.me/theorems/860660af-9f13-467e-b307-98cd45586c6c

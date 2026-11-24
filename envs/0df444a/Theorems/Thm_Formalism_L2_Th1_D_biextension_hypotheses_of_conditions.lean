@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_biextension_hypotheses_of_conditions
 -- name    : Formalism.L2.Th1.D.biextension_hypotheses_of_conditions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:25:46.794736+00:00
 -- url     : https://prove2.me/theorems/7557cf94-851a-4473-af05-a0fe99fa55a3

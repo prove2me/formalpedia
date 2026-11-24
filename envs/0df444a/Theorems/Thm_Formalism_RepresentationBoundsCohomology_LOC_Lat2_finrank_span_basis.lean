@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_LOC_Lat2_finrank_span_basis
 -- name    : Formalism.RepresentationBoundsCohomology.LOC.Lat2.finrank_span_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:26:14.058799+00:00
 -- url     : https://prove2.me/theorems/8e371a65-62c9-482c-8263-210b20e4842e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_quasiPeriodConstIsogeny_of
 -- name    : Formalism.L2.Th1.F.quasiPeriodConstIsogeny_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:52.123045+00:00
 -- url     : https://prove2.me/theorems/abe88872-d655-4a68-b8e8-6faaff8accea

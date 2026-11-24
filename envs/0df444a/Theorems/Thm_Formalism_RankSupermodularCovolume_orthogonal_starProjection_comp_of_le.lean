@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankSupermodularCovolume_orthogonal_starProjection_comp_of_le
 -- name    : Formalism.RankSupermodularCovolume.orthogonal_starProjection_comp_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:26:21.337599+00:00
 -- url     : https://prove2.me/theorems/a40f7155-cc00-468c-91dc-7676a9da1e64

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ThickSetMeanBounds_lipschitz_weight_all
 -- name    : Formalism.LFunctionChainParameters.ThickSetMeanBounds.lipschitz_weight_all
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:57:13.400006+00:00
 -- url     : https://prove2.me/theorems/ff4f9835-79e4-46a4-b7ec-503b35700fbf

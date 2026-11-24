@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_ModelEmbedding_sq_mem_KK
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.ModelEmbedding.sq_mem_KK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:30:42.040213+00:00
 -- url     : https://prove2.me/theorems/1b532a9f-c0f9-488d-b524-f197298d4308

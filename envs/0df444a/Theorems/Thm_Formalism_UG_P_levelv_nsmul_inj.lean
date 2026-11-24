@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_levelv_nsmul_inj
 -- name    : Formalism.UG.P.levelv_nsmul_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:33:42.153089+00:00
 -- url     : https://prove2.me/theorems/0ee0c8d0-baf6-4520-893c-8fce877287c0

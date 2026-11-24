@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_twistedAction_mem_tailSubmodule
 -- name    : Formalism.REAL.twistedAction_mem_tailSubmodule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:26:02.036212+00:00
 -- url     : https://prove2.me/theorems/acd14e63-3043-41d5-9d05-d9d67864916f

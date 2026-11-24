@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_word_action_cons
 -- name    : Formalism.REAL.word_action_cons
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:25:57.051411+00:00
 -- url     : https://prove2.me/theorems/a529e0f8-d527-4d14-bd54-fc7d4d0eff2c

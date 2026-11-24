@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satake_exists_perm
 -- name    : Formalism.UG.P.satake_exists_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:32:54.189419+00:00
 -- url     : https://prove2.me/theorems/7d391ec5-69e4-446c-a132-9e0c59db1717

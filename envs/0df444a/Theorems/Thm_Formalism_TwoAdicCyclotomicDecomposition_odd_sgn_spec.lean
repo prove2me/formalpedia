@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_odd_sgn_spec
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.odd_sgn_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:30:46.709311+00:00
 -- url     : https://prove2.me/theorems/d8ce3f7d-a397-484d-a83c-394892a6b2d5

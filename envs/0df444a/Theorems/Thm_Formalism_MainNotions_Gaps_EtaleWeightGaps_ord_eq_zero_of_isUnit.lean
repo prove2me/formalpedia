@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_EtaleWeightGaps_ord_eq_zero_of_isUnit
 -- name    : Formalism.MainNotions.Gaps.EtaleWeightGaps.ord_eq_zero_of_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:56:07.296129+00:00
 -- url     : https://prove2.me/theorems/3a30dc7f-4219-45e7-b311-3be636593ac6

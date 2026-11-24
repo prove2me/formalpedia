@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Wp_isFlow_sig
 -- name    : Formalism.L2.Th1.A.Wp.isFlow_sig
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:52.304642+00:00
 -- url     : https://prove2.me/theorems/9aa75f8d-5fe4-4b88-8b64-eb04f27fd8c0

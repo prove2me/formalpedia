@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_dc_stable
 -- name    : Formalism.UG.P.dc_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:32:48.172393+00:00
 -- url     : https://prove2.me/theorems/e337e882-cc10-48c4-ad2a-aed13fbf7901

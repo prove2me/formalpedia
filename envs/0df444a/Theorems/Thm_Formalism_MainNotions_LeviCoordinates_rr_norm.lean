@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_LeviCoordinates_rr_norm
 -- name    : Formalism.MainNotions.LeviCoordinates.rr_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:52:21.791328+00:00
 -- url     : https://prove2.me/theorems/ba6e146a-2f5e-4d84-8502-fb2f300a73bd

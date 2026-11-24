@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_IsogenySigmaQuotient_exists_const
 -- name    : Formalism.L2.Th1.F.IsogenySigmaQuotient.exists_const
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:31:10.201614+00:00
 -- url     : https://prove2.me/theorems/508bd677-7ecd-49ff-baa7-01f66d2cb378

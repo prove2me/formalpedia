@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ResultantValuation_LaplaceProof_perm_sign_eq_inversion_sign
 -- name    : Formalism.ResultantValuation.LaplaceProof.perm_sign_eq_inversion_sign
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:27:38.125941+00:00
 -- url     : https://prove2.me/theorems/5f0ea9c2-30ba-4903-97d4-f86ff90b976e

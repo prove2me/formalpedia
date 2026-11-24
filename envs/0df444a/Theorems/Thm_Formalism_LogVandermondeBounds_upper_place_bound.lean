@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_upper_place_bound
 -- name    : Formalism.LogVandermondeBounds.upper_place_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:46.89081+00:00
 -- url     : https://prove2.me/theorems/46a33e53-da6c-4847-a6f0-4bec9c7924c3

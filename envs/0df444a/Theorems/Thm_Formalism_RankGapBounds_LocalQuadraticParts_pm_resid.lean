@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankGapBounds_LocalQuadraticParts_pm_resid
 -- name    : Formalism.RankGapBounds.LocalQuadraticParts.pm_resid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:26:11.374578+00:00
 -- url     : https://prove2.me/theorems/7e126c7f-845a-427a-8a61-4af1904748d6

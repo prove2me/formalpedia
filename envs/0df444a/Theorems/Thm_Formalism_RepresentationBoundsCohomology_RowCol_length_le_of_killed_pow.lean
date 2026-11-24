@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_RowCol_length_le_of_killed_pow
 -- name    : Formalism.RepresentationBoundsCohomology.RowCol.length_le_of_killed_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:27:30.203912+00:00
 -- url     : https://prove2.me/theorems/f2512bb4-f841-41ef-a580-41b69b215990

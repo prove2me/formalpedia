@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_dual_weyl_module_stable
 -- name    : Formalism.UG.P.dual_weyl_module_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:31:52.698807+00:00
 -- url     : https://prove2.me/theorems/64760589-4968-46ed-bf4a-a86b277eeab9

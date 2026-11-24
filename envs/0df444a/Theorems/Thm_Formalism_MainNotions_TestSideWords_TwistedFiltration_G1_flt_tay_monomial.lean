@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_TestSideWords_TwistedFiltration_G1_flt_tay_monomial
 -- name    : Formalism.MainNotions.TestSideWords.TwistedFiltration.G1.flt_tay_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:10:27.602525+00:00
 -- url     : https://prove2.me/theorems/5f1dc598-8e94-44e2-a00a-3c68bab4ae1b

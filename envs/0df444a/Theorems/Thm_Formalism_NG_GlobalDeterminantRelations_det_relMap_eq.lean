@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_GlobalDeterminantRelations_det_relMap_eq
 -- name    : Formalism.NG.GlobalDeterminantRelations.det_relMap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:12:15.790777+00:00
 -- url     : https://prove2.me/theorems/ebbe7a52-7782-44d9-81f3-8b6247710efd

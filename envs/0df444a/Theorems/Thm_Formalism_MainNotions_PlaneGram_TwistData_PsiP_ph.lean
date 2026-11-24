@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_PsiP_ph
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.PsiP_ph
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:04:14.933819+00:00
 -- url     : https://prove2.me/theorems/a769b475-df10-40b5-8d5d-787488ec366e

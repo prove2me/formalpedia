@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_coeff_GM
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.coeff_GM
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:43:27.949605+00:00
 -- url     : https://prove2.me/theorems/bd93c1d5-091e-4f75-b385-4b664db5666d

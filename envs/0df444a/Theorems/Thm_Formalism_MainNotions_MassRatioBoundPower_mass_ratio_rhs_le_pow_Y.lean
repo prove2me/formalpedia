@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_MassRatioBoundPower_mass_ratio_rhs_le_pow_Y
 -- name    : Formalism.MainNotions.MassRatioBoundPower.mass_ratio_rhs_le_pow_Y
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:17:19.322395+00:00
 -- url     : https://prove2.me/theorems/09eab02e-a1bf-4126-9e84-bb3ac4f0bbed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_kStable_iSup_iSup
 -- name    : Formalism.REAL.kStable_iSup_iSup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:22:54.834251+00:00
 -- url     : https://prove2.me/theorems/2910efb1-71e5-4cd5-9255-91d884f6a943

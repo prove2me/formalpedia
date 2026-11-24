@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain_ModelEv_coreOfSizes
 -- name    : Formalism.LFunctionChainParameters.LChain.ModelEv.coreOfSizes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:48:41.831911+00:00
 -- url     : https://prove2.me/theorems/5c89018e-fba5-4e1c-a70e-90fd131f6a96

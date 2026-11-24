@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_pht_window_mult_lo
 -- name    : Formalism.WeaklyAdmissibleFiltrations.pht_window_mult_lo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:40:16.06431+00:00
 -- url     : https://prove2.me/theorems/d4ace212-cabf-42c0-84a5-4c8e7e1f353c

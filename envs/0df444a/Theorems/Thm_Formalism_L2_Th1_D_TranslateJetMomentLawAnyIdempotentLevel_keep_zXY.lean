@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TranslateJetMomentLawAnyIdempotentLevel_keep_zXY
 -- name    : Formalism.L2.Th1.D.TranslateJetMomentLawAnyIdempotentLevel.keep_zXY
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:36:24.580102+00:00
 -- url     : https://prove2.me/theorems/c687d1e5-8b7d-4a61-a0bf-ca8d587440fb

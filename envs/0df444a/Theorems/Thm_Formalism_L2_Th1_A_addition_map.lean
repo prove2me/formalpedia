@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_addition_map
 -- name    : Formalism.L2.Th1.A.addition_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:00.55401+00:00
 -- url     : https://prove2.me/theorems/bf959ad6-3937-44f4-8cb2-50e5af1d4611

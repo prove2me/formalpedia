@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_idempotent_notMem_iff_of_henselian
 -- name    : GlobalTheory.exists_idempotent_notMem_iff_of_henselian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:27:20.281128+00:00
 -- url     : https://prove2.me/theorems/4dc08133-4ac8-4b7e-9ad9-b4fc6905734c

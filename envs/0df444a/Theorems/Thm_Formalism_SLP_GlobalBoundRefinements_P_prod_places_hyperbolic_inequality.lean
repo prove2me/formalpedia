@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_GlobalBoundRefinements_P_prod_places_hyperbolic_inequality
 -- name    : Formalism.SLP.GlobalBoundRefinements.P.prod_places_hyperbolic_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:29:52.200606+00:00
 -- url     : https://prove2.me/theorems/563b2f2a-731a-4518-bec6-e9244646f972

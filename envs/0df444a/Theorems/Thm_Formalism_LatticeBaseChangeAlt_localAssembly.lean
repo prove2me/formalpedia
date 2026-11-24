@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_localAssembly
 -- name    : Formalism.LatticeBaseChangeAlt.localAssembly
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:35.491497+00:00
 -- url     : https://prove2.me/theorems/ca54d33f-10da-4ad7-bba1-58cf357df7cd

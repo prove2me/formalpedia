@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_amf_right
 -- name    : Formalism.UG.P.amf_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:31:22.930971+00:00
 -- url     : https://prove2.me/theorems/9c70a1c6-44bb-4b4a-819a-a9f190b7702f

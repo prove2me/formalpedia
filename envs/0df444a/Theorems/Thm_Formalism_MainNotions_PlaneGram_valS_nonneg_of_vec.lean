@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_valS_nonneg_of_vec
 -- name    : Formalism.MainNotions.PlaneGram.valS_nonneg_of_vec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:46:25.110602+00:00
 -- url     : https://prove2.me/theorems/1df85d9e-d0af-4619-875e-ca5fae8e5b4e

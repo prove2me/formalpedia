@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_GlobalBoundRefinements_P_card_linearEquiv_le
 -- name    : Formalism.SLP.GlobalBoundRefinements.P.card_linearEquiv_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:29:28.351851+00:00
 -- url     : https://prove2.me/theorems/ba765404-9ce7-402a-9209-f118f78b48c6

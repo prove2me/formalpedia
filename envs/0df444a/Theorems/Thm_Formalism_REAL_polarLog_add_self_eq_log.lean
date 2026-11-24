@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_polarLog_add_self_eq_log
 -- name    : Formalism.REAL.polarLog_add_self_eq_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:24:09.589092+00:00
 -- url     : https://prove2.me/theorems/9cb7ca3c-3b15-4f32-84cd-1015b45e2ac5

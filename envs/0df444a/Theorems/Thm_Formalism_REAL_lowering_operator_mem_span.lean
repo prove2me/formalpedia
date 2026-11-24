@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_lowering_operator_mem_span
 -- name    : Formalism.REAL.lowering_operator_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:23:14.878831+00:00
 -- url     : https://prove2.me/theorems/b642af95-b40e-434d-94b6-6e66c55909ec

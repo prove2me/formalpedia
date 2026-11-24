@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_LubinTateExample_of
 -- name    : Formalism.LT.LubinTateExample_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:51:59.120109+00:00
 -- url     : https://prove2.me/theorems/c8fef94b-4813-4e14-995e-dda2f09aedd5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_WirtingerDerivatives_contDiffAt_Wc
 -- name    : Formalism.QuantumDeterminants.WirtingerDerivatives.contDiffAt_Wc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:06:06.558065+00:00
 -- url     : https://prove2.me/theorems/6fa1b4ce-1507-400f-ad1b-03ebb075e6fa

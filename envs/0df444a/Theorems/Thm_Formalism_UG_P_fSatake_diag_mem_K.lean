@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_fSatake_diag_mem_K
 -- name    : Formalism.UG.P.fSatake_diag_mem_K
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:32:11.528155+00:00
 -- url     : https://prove2.me/theorems/e7c79cf5-4227-4689-9643-96a26d6e9353

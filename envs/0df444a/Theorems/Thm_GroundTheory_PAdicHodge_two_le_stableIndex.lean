@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_two_le_stableIndex
 -- name    : GroundTheory.PAdicHodge.two_le_stableIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:29:42.006801+00:00
 -- url     : https://prove2.me/theorems/25b9e069-a94e-49c5-92cc-6e0202210941

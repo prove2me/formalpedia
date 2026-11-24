@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_one_lt_prime_cast
 -- name    : GroundTheory.PAdicHodge.one_lt_prime_cast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:28:03.602438+00:00
 -- url     : https://prove2.me/theorems/2ad3ac9e-0cdc-4ea0-85dd-b6002d883ca5

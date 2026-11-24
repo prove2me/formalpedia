@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_LOC_Lat2_map_frac_smul
 -- name    : Formalism.RepresentationBoundsCohomology.LOC.Lat2.map_frac_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:26:30.596855+00:00
 -- url     : https://prove2.me/theorems/784c8a23-722b-4241-8f59-e8a786187c6c

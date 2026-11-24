@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TruncatedSeriesCounting_TruncatedSeriesCountingIdentities_DetPolyApp_mem_mainNotions_iff_fromT
 -- name    : Formalism.TruncatedSeriesCounting.TruncatedSeriesCountingIdentities.DetPolyApp.mem_mainNotions_iff_fromT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:29:43.551988+00:00
 -- url     : https://prove2.me/theorems/88f6c8e5-87f8-4b11-867c-09db1323eea2
