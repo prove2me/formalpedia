@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GramAlg_hform_eq_entry
 -- name    : GlobalTheory.CompanionTheory.SW.GramAlg.hform_eq_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:05:48.920591+00:00
 -- url     : https://prove2.me/theorems/b098191d-e891-44db-9ba5-1d5253753702

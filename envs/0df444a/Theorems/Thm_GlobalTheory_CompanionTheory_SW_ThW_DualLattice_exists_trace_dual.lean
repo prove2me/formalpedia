@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ThW_DualLattice_exists_trace_dual
 -- name    : GlobalTheory.CompanionTheory.SW.ThW.DualLattice.exists_trace_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:10:51.823474+00:00
 -- url     : https://prove2.me/theorems/f42fca77-4ec7-4ec6-99d6-ad4d2743eefa

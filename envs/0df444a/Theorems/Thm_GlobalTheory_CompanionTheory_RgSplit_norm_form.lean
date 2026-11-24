@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgSplit_norm_form
 -- name    : GlobalTheory.CompanionTheory.RgSplit.norm_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:59:41.869557+00:00
 -- url     : https://prove2.me/theorems/369bec80-af4a-42a6-b6d9-58ef3c5ddf26

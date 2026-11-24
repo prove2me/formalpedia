@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KerAdj_opAdj_of
 -- name    : GlobalTheory.CompanionTheory.KerAdj.opAdj_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:50:32.57203+00:00
 -- url     : https://prove2.me/theorems/a00b09d8-2c4d-416f-882f-a4d3f114ce95

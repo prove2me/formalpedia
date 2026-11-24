@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_range_le_closure
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.range_le_closure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:59:54.339107+00:00
 -- url     : https://prove2.me/theorems/8968f8ad-dbbe-4705-a24e-b2d1c44a398d

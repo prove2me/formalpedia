@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgExhHecke_qdet_eq_capelliC
 -- name    : GlobalTheory.CompanionTheory.RgExhHecke.qdet_eq_capelliC
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:43:24.217201+00:00
 -- url     : https://prove2.me/theorems/6ba75858-885f-419f-a2c8-b2075f7ef47e

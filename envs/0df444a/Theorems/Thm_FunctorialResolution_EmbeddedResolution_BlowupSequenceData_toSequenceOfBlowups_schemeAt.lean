@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_BlowupSequenceData_toSequenceOfBlowups_schemeAt
 -- name    : FunctorialResolution.EmbeddedResolution.BlowupSequenceData.toSequenceOfBlowups_schemeAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:17:36.069327+00:00
 -- url     : https://prove2.me/theorems/ec730a6f-e882-40db-b189-20bc83f0d226

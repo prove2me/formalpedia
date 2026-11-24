@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AdeleCharLocal_pairA_add
 -- name    : GlobalTheory.CompanionTheory.AdeleCharLocal.pairA_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:23:01.138808+00:00
 -- url     : https://prove2.me/theorems/553e340f-af29-4df1-b856-cedc793778a2

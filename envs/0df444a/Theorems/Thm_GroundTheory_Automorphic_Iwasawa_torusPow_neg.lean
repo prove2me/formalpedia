@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Iwasawa_torusPow_neg
 -- name    : GroundTheory.Automorphic.Iwasawa.torusPow_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:23:01.165867+00:00
 -- url     : https://prove2.me/theorems/d1a4ae57-bc8d-49ef-9b7c-79558bb8b4f1

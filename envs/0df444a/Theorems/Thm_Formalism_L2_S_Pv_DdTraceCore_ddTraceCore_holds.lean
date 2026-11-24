@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_DdTraceCore_ddTraceCore_holds
 -- name    : Formalism.L2.S.Pv.DdTraceCore.ddTraceCore_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:56:28.297836+00:00
 -- url     : https://prove2.me/theorems/67242ff1-0d62-43f7-861e-1cfc75405c9b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LatRat_rmul_one
 -- name    : GlobalTheory.CompanionTheory.SW.LatRat.rmul_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:07:35.859965+00:00
 -- url     : https://prove2.me/theorems/28b0a2c6-bde1-43f0-a1fb-8eeb3e44e836

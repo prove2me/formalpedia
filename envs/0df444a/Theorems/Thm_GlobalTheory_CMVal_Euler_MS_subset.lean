@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_MS_subset
 -- name    : GlobalTheory.CMVal.Euler.MS_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:19:42.641033+00:00
 -- url     : https://prove2.me/theorems/c3e1ce1d-680f-45e3-b945-b4a664477a1d

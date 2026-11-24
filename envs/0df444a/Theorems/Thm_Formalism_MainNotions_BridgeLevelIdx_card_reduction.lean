@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLevelIdx_card_reduction
 -- name    : Formalism.MainNotions.BridgeLevelIdx.card_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:41:56.64925+00:00
 -- url     : https://prove2.me/theorems/621f5c51-86d5-46df-9aeb-cf5ab2be6170

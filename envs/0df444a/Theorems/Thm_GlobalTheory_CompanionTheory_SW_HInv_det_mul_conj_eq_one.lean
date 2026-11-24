@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HInv_det_mul_conj_eq_one
 -- name    : GlobalTheory.CompanionTheory.SW.HInv.det_mul_conj_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:05:51.187417+00:00
 -- url     : https://prove2.me/theorems/3cb183a0-a204-4863-ab85-d0da0b1265fe

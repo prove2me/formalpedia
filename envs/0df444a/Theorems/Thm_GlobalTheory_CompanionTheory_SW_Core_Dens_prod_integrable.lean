@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_Dens_prod_integrable
 -- name    : GlobalTheory.CompanionTheory.SW.Core.Dens.prod_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:02:51.946995+00:00
 -- url     : https://prove2.me/theorems/a0503d1c-d330-43c5-b4f8-6082c1f95133

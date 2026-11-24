@@ -33550,7 +33550,7 @@
 {"parent": "OAI.CubicEisenstein.translation_preserves_hyperbolicVolume", "child": "OAI_NumberTheory_DirichletL_CubicSieve_ArithmeticBins", "via": ["solution", "statement"]}
 {"parent": "ArcKayles192.PSPACE.theorem_1", "child": "OptimalQueuingComplexity_Restless_PSPACEComplete", "via": ["solution", "statement"]}
 {"parent": "ArcKayles192.PSPACE.theorem_1", "child": "ArcKayles192_PSPACE_Game", "via": ["solution", "statement"]}
-{"parent": "FourierDimTesting102.Quantum.projection_coset_average", "child": "FourierDimTesting102_Quantum_Model", "via": ["statement"]}
+{"parent": "FourierDimTesting102.Quantum.projection_coset_average", "child": "FourierDimTesting102_Quantum_Model", "via": ["solution", "statement"]}
 {"parent": "MinSumFPT.lemma_11", "child": "MinSumFPT_labCost", "via": ["statement"]}
 {"parent": "MinSumFPT.lemma_11", "child": "MinSumFPT_wSum", "via": ["statement"]}
 {"parent": "MinSumFPT.lemma_11", "child": "MinSumClust_IsMetric", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HermAniso_aniso
 -- name    : GlobalTheory.CompanionTheory.HermAniso.aniso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:46:17.969096+00:00
 -- url     : https://prove2.me/theorems/84b1968e-194b-4c7a-ac58-9620a37d3a5a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_measurable_zeroCnt_of_continuousOn
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.measurable_zeroCnt_of_continuousOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:39:38.574796+00:00
 -- url     : https://prove2.me/theorems/f4e0d7f0-2032-47e7-ae32-458173dfc7d3

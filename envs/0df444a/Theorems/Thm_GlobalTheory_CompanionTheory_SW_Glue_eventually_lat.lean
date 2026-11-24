@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Glue_eventually_lat
 -- name    : GlobalTheory.CompanionTheory.SW.Glue.eventually_lat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:05:29.061788+00:00
 -- url     : https://prove2.me/theorems/58798a22-5af6-4675-8cbb-aa5de99b3fb8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HermTop_sigR_inclR
 -- name    : GlobalTheory.CompanionTheory.SW.HermTop.sigR_inclR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:06:24.151812+00:00
 -- url     : https://prove2.me/theorems/1bbbeae1-7c27-4a8c-abc0-84f8264753fe

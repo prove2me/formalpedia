@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AdeleCharLocal_continuous_singleV
 -- name    : GlobalTheory.CompanionTheory.AdeleCharLocal.continuous_singleV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:23:56.075633+00:00
 -- url     : https://prove2.me/theorems/1166438a-b7d3-4fd5-806d-9383fc03bfba

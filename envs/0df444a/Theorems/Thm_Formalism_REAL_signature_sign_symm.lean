@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_signature_sign_symm
 -- name    : Formalism.REAL.signature_sign_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:12:03.153825+00:00
 -- url     : https://prove2.me/theorems/c40a5bc1-5d42-41cd-ac73-a8fa1cefe198

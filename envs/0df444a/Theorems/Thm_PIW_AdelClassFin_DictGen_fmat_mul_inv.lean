@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_DictGen_fmat_mul_inv
 -- name    : PIW.AdelClassFin.DictGen.fmat_mul_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:28:32.936306+00:00
 -- url     : https://prove2.me/theorems/6c109011-1fa5-453d-a6a7-a87b47a64d1b

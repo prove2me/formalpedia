@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_algebraMap_stalkAlgebra
 -- name    : FunctorialResolution.EmbeddedResolution.algebraMap_stalkAlgebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:15:33.454861+00:00
 -- url     : https://prove2.me/theorems/67bd6686-252d-4039-bf66-76bdb177ae1f

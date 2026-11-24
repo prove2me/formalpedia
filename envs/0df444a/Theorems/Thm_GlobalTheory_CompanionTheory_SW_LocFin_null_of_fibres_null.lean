@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LocFin_null_of_fibres_null
 -- name    : GlobalTheory.CompanionTheory.SW.LocFin.null_of_fibres_null
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:08:51.773382+00:00
 -- url     : https://prove2.me/theorems/88adfa8b-1afa-47a0-8581-88cebcef98c0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LocInf_isOpenEmbedding_sq
 -- name    : GlobalTheory.CompanionTheory.SW.LocInf.isOpenEmbedding_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:06:51.800232+00:00
 -- url     : https://prove2.me/theorems/dba066e7-f121-4988-9e7d-d27453734ed0

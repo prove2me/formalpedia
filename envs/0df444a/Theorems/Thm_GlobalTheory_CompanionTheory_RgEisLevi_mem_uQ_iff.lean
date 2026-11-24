@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisLevi_mem_uQ_iff
 -- name    : GlobalTheory.CompanionTheory.RgEisLevi.mem_uQ_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:29:03.732029+00:00
 -- url     : https://prove2.me/theorems/f715db9e-efb7-4d84-a0bb-c86af34eba69

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_inv_natCast_cpow
 -- name    : GlobalTheory.CMVal.Euler.inv_natCast_cpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:20:26.924814+00:00
 -- url     : https://prove2.me/theorems/a9449850-734d-466a-9849-df74acbc0608

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ProdSimple_psi_single_mul
 -- name    : GlobalTheory.CompanionTheory.ProdSimple.psi_single_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:56:41.138872+00:00
 -- url     : https://prove2.me/theorems/07192405-13ff-49c1-a835-d79ee993451b

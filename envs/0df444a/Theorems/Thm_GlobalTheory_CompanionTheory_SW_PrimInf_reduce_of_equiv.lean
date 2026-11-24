@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_PrimInf_reduce_of_equiv
 -- name    : GlobalTheory.CompanionTheory.SW.PrimInf.reduce_of_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:07:51.060799+00:00
 -- url     : https://prove2.me/theorems/ca794a34-ab85-49f0-b2da-f16467e86f72

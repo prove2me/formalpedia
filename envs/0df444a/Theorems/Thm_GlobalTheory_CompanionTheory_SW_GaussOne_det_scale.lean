@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GaussOne_det_scale
 -- name    : GlobalTheory.CompanionTheory.SW.GaussOne.det_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:05:50.695806+00:00
 -- url     : https://prove2.me/theorems/ce9b2f94-54ba-4429-94f9-f928fe13c9f8

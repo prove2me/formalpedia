@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LatSum_pt_bound
 -- name    : GlobalTheory.CompanionTheory.SW.LatSum.pt_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:06:02.078519+00:00
 -- url     : https://prove2.me/theorems/17910b91-531c-486a-a247-34206c857b7a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LamUnit_conj_ne_id
 -- name    : GlobalTheory.CompanionTheory.SW.LamUnit.conj_ne_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:06:50.146413+00:00
 -- url     : https://prove2.me/theorems/f312730f-3440-4da5-8ce5-2a11bd2f9a43

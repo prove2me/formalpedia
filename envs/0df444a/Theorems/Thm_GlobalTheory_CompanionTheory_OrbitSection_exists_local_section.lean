@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_OrbitSection_exists_local_section
 -- name    : GlobalTheory.CompanionTheory.OrbitSection.exists_local_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:53:50.538155+00:00
 -- url     : https://prove2.me/theorems/b0764474-ab18-445d-aa50-c804941a8e3e

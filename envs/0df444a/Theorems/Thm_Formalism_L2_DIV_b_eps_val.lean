@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_b_eps_val
 -- name    : Formalism.L2.DIV.b_eps_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:22:32.484053+00:00
 -- url     : https://prove2.me/theorems/a5caab47-4623-4845-8430-8d84e14defb0

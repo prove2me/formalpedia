@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HadamardInequality_P_tr_step
 -- name    : Formalism.HadamardInequality.P.tr_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:10:44.7008+00:00
 -- url     : https://prove2.me/theorems/9ca0c138-eb6f-48c4-9cfd-fd7f85900202

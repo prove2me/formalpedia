@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Bernstein_positionOne_invariantIntegral_exchange_step
 -- name    : GlobalTheory.CompanionTheory.Bernstein.positionOne_invariantIntegral_exchange_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:21:16.268876+00:00
 -- url     : https://prove2.me/theorems/b3643862-58e7-45fa-a319-670898fb6cdd

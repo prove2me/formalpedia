@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QuotVan_modInv_mul
 -- name    : GlobalTheory.CompanionTheory.QuotVan.modInv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:58:17.609833+00:00
 -- url     : https://prove2.me/theorems/ead1d5ed-08a1-46ba-94b7-5161ed902d0d

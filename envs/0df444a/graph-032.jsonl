@@ -59531,7 +59531,7 @@
 {"parent": "StabTestMem_Supplement_eventProb", "child": "StabTestMem_MemProtocol", "via": ["statement"]}
 {"parent": "BatchedFacilityLocation.Nonuniform.Supplement.lemma_3_3", "child": "BatchedFacilityLocation_Nonuniform_Supplement_Uniform", "via": ["statement"]}
 {"parent": "IntMul.Kappa.R8.Bit.Oppbank.net0O2_layout_wires_lt_NL", "child": "IntMul_Kappa_R8_Data_BitOppbankWireLayout", "via": ["solution", "statement"]}
-{"parent": "HarmonicRanking.Main.Supplement.lemma_A_1", "child": "HarmonicRanking_Main_Supplement_GridGames", "via": ["statement"]}
+{"parent": "HarmonicRanking.Main.Supplement.lemma_A_1", "child": "HarmonicRanking_Main_Supplement_GridGames", "via": ["solution", "statement"]}
 {"parent": "UnaryParityLifting_Exact_Supplement_resolution", "child": "UnaryParityLifting_Exact_Supplement_encoding", "via": ["statement"]}
 {"parent": "XORFullTilt.Hardness.Supplement.oracularisable_halting", "child": "XORFullTilt_Hardness_Supplement_DecisionProblems", "via": ["statement"]}
 {"parent": "TightClock_Supplement_reveal", "child": "TightClock_Supplement_offerTo", "via": ["statement"]}

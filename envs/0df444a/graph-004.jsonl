@@ -7043,7 +7043,7 @@
 {"parent": "MulticlassDS.NatGap.prop46_coset_complex_good", "child": "MulticlassDS_NatGap_Complexes", "via": ["solution", "statement"]}
 {"parent": "MulticlassDS.NatGap.prop46_coset_complex_good", "child": "MulticlassDS_NatGap_Dimensions", "via": ["statement"]}
 {"parent": "MulticlassDS.NatGap.pseudo_cube_natarajan_one", "child": "MulticlassDS_NatGap_Dimensions", "via": ["solution", "statement"]}
-{"parent": "MulticlassDS.NatGap.theorem2_natarajan_one_ds_infinite", "child": "MulticlassDS_NatGap_Dimensions", "via": ["statement"]}
+{"parent": "MulticlassDS.NatGap.theorem2_natarajan_one_ds_infinite", "child": "MulticlassDS_NatGap_Dimensions", "via": ["solution", "statement"]}
 {"parent": "MulticlassDS.NatGap.theorem45_coset_complex", "child": "MulticlassDS_NatGap_Complexes", "via": ["statement"]}
 {"parent": "MulticlassDS.NatGap.theorem45_coset_complex", "child": "MulticlassDS_NatGap_Dimensions", "via": ["statement"]}
 {"parent": "MulticlassDS_Compress_OneInclusion", "child": "MulticlassDS_Compress_Dimensions", "via": ["statement"]}

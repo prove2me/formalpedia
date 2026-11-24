@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HaarScale_map_eq_smul
 -- name    : GlobalTheory.CompanionTheory.SW.HaarScale.map_eq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:07:29.208595+00:00
 -- url     : https://prove2.me/theorems/f1f2d6f0-afec-4e54-aaff-a080a5c89b22

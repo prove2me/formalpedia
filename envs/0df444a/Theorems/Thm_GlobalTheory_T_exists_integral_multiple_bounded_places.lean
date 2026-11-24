@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_integral_multiple_bounded_places
 -- name    : GlobalTheory.T.exists_integral_multiple_bounded_places
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:36:07.696636+00:00
 -- url     : https://prove2.me/theorems/5f4a31a1-f3cd-416d-b439-30c245738d61

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_lie_derivative_bound_nonneg
 -- name    : Formalism.REAL.lie_derivative_bound_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:12:38.774749+00:00
 -- url     : https://prove2.me/theorems/77fa400a-6a89-4c21-85f5-d9cde51cfcff

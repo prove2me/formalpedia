@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HaarCoord_hermCoord_isHomeomorph
 -- name    : GlobalTheory.CompanionTheory.SW.HaarCoord.hermCoord_isHomeomorph
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:05:38.5075+00:00
 -- url     : https://prove2.me/theorems/a30c0d38-0b5e-42b9-ab3f-2b7a9f1be251

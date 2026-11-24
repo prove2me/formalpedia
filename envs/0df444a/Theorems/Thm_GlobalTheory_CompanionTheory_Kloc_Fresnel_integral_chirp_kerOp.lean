@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Kloc_Fresnel_integral_chirp_kerOp
 -- name    : GlobalTheory.CompanionTheory.Kloc.Fresnel.integral_chirp_kerOp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:50:31.863443+00:00
 -- url     : https://prove2.me/theorems/700e7586-68d1-45e4-8da6-348cc53f7283

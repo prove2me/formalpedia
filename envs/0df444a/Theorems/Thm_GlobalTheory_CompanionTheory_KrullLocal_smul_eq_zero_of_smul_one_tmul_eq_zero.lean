@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KrullLocal_smul_eq_zero_of_smul_one_tmul_eq_zero
 -- name    : GlobalTheory.CompanionTheory.KrullLocal.smul_eq_zero_of_smul_one_tmul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:52:36.187421+00:00
 -- url     : https://prove2.me/theorems/bb4a296c-cbe1-4416-b890-69ef4d70bfa4

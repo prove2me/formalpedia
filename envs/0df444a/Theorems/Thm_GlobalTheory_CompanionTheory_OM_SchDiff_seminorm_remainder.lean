@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_OM_SchDiff_seminorm_remainder
 -- name    : GlobalTheory.CompanionTheory.OM.SchDiff.seminorm_remainder
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:01:25.78672+00:00
 -- url     : https://prove2.me/theorems/9bd1e5af-cf70-4bcc-842e-decf9aa575ad

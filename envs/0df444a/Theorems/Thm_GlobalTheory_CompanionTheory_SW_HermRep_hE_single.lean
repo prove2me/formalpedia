@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HermRep_hE_single
 -- name    : GlobalTheory.CompanionTheory.SW.HermRep.hE_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:06:28.794875+00:00
 -- url     : https://prove2.me/theorems/5a5f7426-52e6-4ec9-bb52-bc69457a298f

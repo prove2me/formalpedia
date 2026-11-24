@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_MultFromLatWork_kset_unitary
 -- name    : PI.MultFromLatWork.kset_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:12:51.775192+00:00
 -- url     : https://prove2.me/theorems/b569f075-ab4e-4aa1-8a34-45467a8a3c96

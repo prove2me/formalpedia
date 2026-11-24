@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgFl_StarPf_stStar
 -- name    : GlobalTheory.CompanionTheory.RgFl.StarPf.stStar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:59:49.363969+00:00
 -- url     : https://prove2.me/theorems/6268aa66-7d00-42de-aa0b-b9d344bc3c74

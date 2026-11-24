@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_DetScale_smul_map_pi
 -- name    : GlobalTheory.CompanionTheory.SW.DetScale.smul_map_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:03:41.315662+00:00
 -- url     : https://prove2.me/theorems/75471943-f6b4-4896-8370-fc075b554547

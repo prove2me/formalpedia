@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_smul_periodMap_mk_zero_fst_eq_neg_form
 -- name    : GlobalTheory.AnArc.smul_periodMap_mk_zero_fst_eq_neg_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:28:52.505701+00:00
 -- url     : https://prove2.me/theorems/13deb443-cdf4-44dd-a574-2b8e0552188d

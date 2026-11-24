@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_Top_closure_third_part
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.Top.closure_third_part
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:08:12.471866+00:00
 -- url     : https://prove2.me/theorems/8e470ea4-5b7f-4ccc-b272-b6fa9339291c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_rawNaturalDeterministicRestrictedPathV1
 -- name    : Kyprianou.Ch03.rawNaturalDeterministicRestrictedPathV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T13:20:01.361801+00:00
 -- url     : https://prove2.me/theorems/97958299-e084-4d85-bc9e-344a76c4eb72

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_SemilocalColumn_exists_isUnit_add
 -- name    : GlobalTheory.CompanionTheory.SW.SemilocalColumn.exists_isUnit_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:09:35.119037+00:00
 -- url     : https://prove2.me/theorems/38088867-c4d4-4268-817b-0332748697e1

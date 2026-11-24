@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Giv_anLogRes_of_embedded_join
 -- name    : GlobalTheory.CompanionTheory.Ar.Giv.anLogRes_of_embedded_join
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:19:41.069508+00:00
 -- url     : https://prove2.me/theorems/4eb89dbc-8cd3-4119-9de6-2ff3b5e491ad

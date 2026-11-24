@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Glue_isCompact_box
 -- name    : GlobalTheory.CompanionTheory.SW.Glue.isCompact_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:05:12.874875+00:00
 -- url     : https://prove2.me/theorems/bd08dd16-fcf5-4dbb-a0f5-45db8c16b78e

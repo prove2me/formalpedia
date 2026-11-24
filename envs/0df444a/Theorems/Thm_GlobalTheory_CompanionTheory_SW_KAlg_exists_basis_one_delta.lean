@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_KAlg_exists_basis_one_delta
 -- name    : GlobalTheory.CompanionTheory.SW.KAlg.exists_basis_one_delta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:06:11.467614+00:00
 -- url     : https://prove2.me/theorems/c5562fe7-d54b-4875-a64a-35675ee8e3d5

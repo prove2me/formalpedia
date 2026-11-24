@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HermLat_pairing_of_sandwich
 -- name    : GlobalTheory.CompanionTheory.HermLat.pairing_of_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:47:59.517288+00:00
 -- url     : https://prove2.me/theorems/72992859-790f-4acd-aa96-e2f48eaf01e0

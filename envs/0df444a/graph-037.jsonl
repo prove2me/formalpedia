@@ -58539,10 +58539,10 @@
 {"parent": "Formalism.FourierDecayAlt.P.HermitianFormNormLemmas.A.book_constants_pos_of_pos", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_LocalVolumePositivity", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.HermitianFormNormLemmas.A.book_constants_pos_of_pos", "child": "Formalism_HermitianCurvature_StatementPN", "via": ["solution", "statement"]}
 {"parent": "NoHair.spherical_electrovac_radial_equations", "child": "NoHair_sphericalArealExterior", "via": ["statement"]}
-{"parent": "Formalism.UG.P.global_lattice_isLattice_holds", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_AdelstabL", "via": ["statement"]}
-{"parent": "Formalism.UG.P.global_lattice_isLattice_holds", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsGlobApprox", "via": ["statement"]}
-{"parent": "Formalism.UG.P.global_lattice_isLattice_holds", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsGlob", "via": ["statement"]}
-{"parent": "Formalism.UG.P.global_lattice_isLattice_holds", "child": "Formalism_SatakeDualWeyl_DefsCS", "via": ["statement"]}
+{"parent": "Formalism.UG.P.global_lattice_isLattice_holds", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_AdelstabL", "via": ["solution", "statement"]}
+{"parent": "Formalism.UG.P.global_lattice_isLattice_holds", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsGlobApprox", "via": ["solution", "statement"]}
+{"parent": "Formalism.UG.P.global_lattice_isLattice_holds", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_CsGlob", "via": ["solution", "statement"]}
+{"parent": "Formalism.UG.P.global_lattice_isLattice_holds", "child": "Formalism_SatakeDualWeyl_DefsCS", "via": ["solution", "statement"]}
 {"parent": "Formalism_HermitianCurvature_HermitianCurvatureProofs_OutsideSystemsBound", "child": "Formalism_HermitianCurvature_StatementJ", "via": ["statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.gramRealisation", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PosSemidefEntryBound", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.gramRealisation", "child": "Formalism_HermitianCurvature_ThetaExistenceInductiveFromPieces", "via": ["solution", "statement"]}
@@ -74741,8 +74741,8 @@
 {"parent": "Comp.CsgQ.coe_gStepF", "child": "Comp_Qualitative", "via": ["solution", "statement"]}
 {"parent": "Formalism.REAL.eq_zero_of_eq_neg_self_of_algebra_complex", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_GeneratorCommutatorQuantumDet", "via": ["solution", "statement"]}
 {"parent": "Formalism.REAL.eq_zero_of_eq_neg_self_of_algebra_complex", "child": "Formalism_RealPlaceAnalysis_StatementE", "via": ["solution", "statement"]}
-{"parent": "Formalism.MainNotions.PlaneGram.cge_of_bge", "child": "Formalism_SharpRestriction_GrowthBounds_MonomialOrderSegments_MemPolKIff", "via": ["statement"]}
-{"parent": "Formalism.MainNotions.PlaneGram.cge_of_bge", "child": "Formalism_SharpRestriction_GrowthBounds_MonomialOrderSegments_CgeZeroIffIntegral", "via": ["statement"]}
+{"parent": "Formalism.MainNotions.PlaneGram.cge_of_bge", "child": "Formalism_SharpRestriction_GrowthBounds_MonomialOrderSegments_MemPolKIff", "via": ["solution", "statement"]}
+{"parent": "Formalism.MainNotions.PlaneGram.cge_of_bge", "child": "Formalism_SharpRestriction_GrowthBounds_MonomialOrderSegments_CgeZeroIffIntegral", "via": ["solution", "statement"]}
 {"parent": "RH1E6S13.part_045_0", "child": "ArdaRH65K_RS_B2", "via": ["statement"]}
 {"parent": "RH1E6S13.part_045_0", "child": "ArdaRH65K_ThetaConverge", "via": ["statement"]}
 {"parent": "RH1E6S13.part_045_0", "child": "ArdaRH65K_RS5_Band", "via": ["statement"]}
@@ -85194,9 +85194,9 @@
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_CMEulerProducts_FibreShapeOf", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_CMEulerProducts_StepRegroup", "via": ["statement"]}
 {"parent": "DensInertW.Sub.hf_sub_left", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_InertDensity_FinrankInfKerAddOne", "via": ["solution", "statement"]}
 {"parent": "DensInertW.Sub.hf_sub_left", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_InertDensity_AnisoPeelAlt", "via": ["solution", "statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.U0.exists_norm_of_not_dv", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_AddMulInvMem", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.U0.exists_norm_of_not_dv", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsNormRepresentation", "via": ["statement"]}
-{"parent": "Formalism.HermitianLattices.Ext.L3.U0.exists_norm_of_not_dv", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsIsomFrame", "via": ["statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.U0.exists_norm_of_not_dv", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_AddMulInvMem", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.U0.exists_norm_of_not_dv", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsNormRepresentation", "via": ["solution", "statement"]}
+{"parent": "Formalism.HermitianLattices.Ext.L3.U0.exists_norm_of_not_dv", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsIsomFrame", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LocalLatticeEquality_AvoidP", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LocalLatticeEquality_Development", "via": ["statement"]}
 {"parent": "DedekindZeta.Theta.unitSMul_inv", "child": "DedekindZeta_PoissonSummation", "via": ["solution", "statement"]}
 {"parent": "DedekindZeta.Theta.unitSMul_inv", "child": "DedekindZeta_Theta", "via": ["solution", "statement"]}

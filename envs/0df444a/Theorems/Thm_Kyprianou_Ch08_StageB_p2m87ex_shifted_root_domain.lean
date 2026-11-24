@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m87ex_shifted_root_domain
 -- name    : Kyprianou.Ch08.StageB.p2m87ex_shifted_root_domain
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T12:30:49.744935+00:00
 -- url     : https://prove2.me/theorems/35af48ef-aeff-451a-b8c0-d2d91fec1f69

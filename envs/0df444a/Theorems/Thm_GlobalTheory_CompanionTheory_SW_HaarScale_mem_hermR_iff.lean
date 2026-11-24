@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HaarScale_mem_hermR_iff
 -- name    : GlobalTheory.CompanionTheory.SW.HaarScale.mem_hermR_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:06:56.341483+00:00
 -- url     : https://prove2.me/theorems/3bab1571-bb99-4832-90db-a3ae324a0165

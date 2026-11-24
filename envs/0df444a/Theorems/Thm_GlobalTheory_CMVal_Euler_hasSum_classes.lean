@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_hasSum_classes
 -- name    : GlobalTheory.CMVal.Euler.hasSum_classes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:19:03.328196+00:00
 -- url     : https://prove2.me/theorems/a29b3cd0-349b-4f47-a164-6149f369cdd1

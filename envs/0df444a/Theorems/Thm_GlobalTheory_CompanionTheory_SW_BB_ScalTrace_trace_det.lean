@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BB_ScalTrace_trace_det
 -- name    : GlobalTheory.CompanionTheory.SW.BB.ScalTrace.trace_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:02:59.974861+00:00
 -- url     : https://prove2.me/theorems/b3a429a4-a24d-41b1-b219-b7e3c8d05c87

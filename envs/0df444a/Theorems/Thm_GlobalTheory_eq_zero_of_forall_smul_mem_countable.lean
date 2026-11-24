@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_zero_of_forall_smul_mem_countable
 -- name    : GlobalTheory.eq_zero_of_forall_smul_mem_countable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:29:34.692802+00:00
 -- url     : https://prove2.me/theorems/dffbf835-9a60-4eb0-99aa-22f6acc740a2

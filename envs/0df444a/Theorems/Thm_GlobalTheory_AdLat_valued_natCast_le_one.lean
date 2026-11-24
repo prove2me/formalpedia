@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_valued_natCast_le_one
 -- name    : GlobalTheory.AdLat.valued_natCast_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:08:47.843102+00:00
 -- url     : https://prove2.me/theorems/27463837-42fb-4ea8-9502-558c3e7d57a5

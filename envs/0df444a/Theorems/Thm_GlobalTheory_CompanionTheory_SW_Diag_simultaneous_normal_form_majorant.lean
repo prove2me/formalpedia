@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Diag_simultaneous_normal_form_majorant
 -- name    : GlobalTheory.CompanionTheory.SW.Diag.simultaneous_normal_form_majorant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:03:28.307412+00:00
 -- url     : https://prove2.me/theorems/fbe9a895-0c72-4a02-b888-8db679dc8b73

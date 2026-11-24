@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GaussFou_gauss_eq_prod
 -- name    : GlobalTheory.CompanionTheory.SW.GaussFou.gauss_eq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:05:39.393864+00:00
 -- url     : https://prove2.me/theorems/d088dd8c-a187-4f70-92e6-50b812467901

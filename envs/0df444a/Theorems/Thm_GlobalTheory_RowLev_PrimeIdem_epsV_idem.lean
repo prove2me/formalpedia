@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_PrimeIdem_epsV_idem
 -- name    : GlobalTheory.RowLev.PrimeIdem.epsV_idem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:27:05.496706+00:00
 -- url     : https://prove2.me/theorems/845ac9f8-6e57-478b-b3b1-447a32f4d8f0

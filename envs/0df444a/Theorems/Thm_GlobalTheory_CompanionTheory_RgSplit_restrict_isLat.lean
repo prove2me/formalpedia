@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgSplit_restrict_isLat
 -- name    : GlobalTheory.CompanionTheory.RgSplit.restrict_isLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:59:50.218319+00:00
 -- url     : https://prove2.me/theorems/a98bfa0b-1740-4e26-9a98-3b80cd55fc72

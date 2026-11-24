@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_MeasProj_continuous_sizeTup
 -- name    : GlobalTheory.CompanionTheory.SW.MeasProj.continuous_sizeTup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:08:02.766055+00:00
 -- url     : https://prove2.me/theorems/4ff81c75-1447-497f-8804-13db7271bd62

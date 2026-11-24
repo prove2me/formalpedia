@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_AbsUniq_orbitQuot_injective
 -- name    : GlobalTheory.CompanionTheory.SW.AbsUniq.orbitQuot_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:01:27.307726+00:00
 -- url     : https://prove2.me/theorems/01648aea-6f01-44a9-b38d-4696cb2b1d34

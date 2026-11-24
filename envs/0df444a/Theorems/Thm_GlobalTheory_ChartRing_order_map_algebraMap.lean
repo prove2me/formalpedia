@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartRing_order_map_algebraMap
 -- name    : GlobalTheory.ChartRing.order_map_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:14:40.588379+00:00
 -- url     : https://prove2.me/theorems/f10b8bc5-c9b8-4e2a-a9cd-7a07b3276891

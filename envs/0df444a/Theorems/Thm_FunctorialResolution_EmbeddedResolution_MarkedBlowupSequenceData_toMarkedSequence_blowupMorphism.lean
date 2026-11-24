@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_MarkedBlowupSequenceData_toMarkedSequence_blowupMorphism
 -- name    : FunctorialResolution.EmbeddedResolution.MarkedBlowupSequenceData.toMarkedSequence_blowupMorphism
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:18:03.871924+00:00
 -- url     : https://prove2.me/theorems/45182ffc-fb6b-4362-82e6-b0cbd5758bc7

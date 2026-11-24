@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HProj_Lv_sum
 -- name    : GlobalTheory.CompanionTheory.SW.HProj.Lv_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:05:33.581616+00:00
 -- url     : https://prove2.me/theorems/08048bf6-26ab-4b12-95d2-0c77524be540

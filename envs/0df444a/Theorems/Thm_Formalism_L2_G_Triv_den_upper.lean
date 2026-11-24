@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Triv_den_upper
 -- name    : Formalism.L2.G.Triv.den_upper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:20:21.18919+00:00
 -- url     : https://prove2.me/theorems/fabe3035-29d1-4b92-96de-be81e9c4e572

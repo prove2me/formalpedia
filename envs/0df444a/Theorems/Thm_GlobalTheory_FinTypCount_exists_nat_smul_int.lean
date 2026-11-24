@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinTypCount_exists_nat_smul_int
 -- name    : GlobalTheory.FinTypCount.exists_nat_smul_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:24:17.624327+00:00
 -- url     : https://prove2.me/theorems/c9cec4df-46ec-4c4f-ae16-e80e5ffb22c8

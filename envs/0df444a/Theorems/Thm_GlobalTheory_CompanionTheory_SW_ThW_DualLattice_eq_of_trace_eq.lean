@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ThW_DualLattice_eq_of_trace_eq
 -- name    : GlobalTheory.CompanionTheory.SW.ThW.DualLattice.eq_of_trace_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:11:45.209236+00:00
 -- url     : https://prove2.me/theorems/78467bb7-1e99-4e7f-afdb-650a29a9b64a

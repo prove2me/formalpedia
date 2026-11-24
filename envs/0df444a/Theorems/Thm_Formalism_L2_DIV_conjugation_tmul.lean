@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_conjugation_tmul
 -- name    : Formalism.L2.DIV.conjugation_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:22:32.468549+00:00
 -- url     : https://prove2.me/theorems/26b8b7ff-4dfc-4642-9f26-9dbb155a1d1a

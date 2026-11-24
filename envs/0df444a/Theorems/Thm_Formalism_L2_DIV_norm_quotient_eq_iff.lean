@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_norm_quotient_eq_iff
 -- name    : Formalism.L2.DIV.norm_quotient_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:26:32.057856+00:00
 -- url     : https://prove2.me/theorems/c0aea9b1-3fd4-4a67-b635-f0ea572f401c

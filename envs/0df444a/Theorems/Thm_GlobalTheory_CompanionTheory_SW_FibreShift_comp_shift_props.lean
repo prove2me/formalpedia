@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FibreShift_comp_shift_props
 -- name    : GlobalTheory.CompanionTheory.SW.FibreShift.comp_shift_props
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:04:43.490716+00:00
 -- url     : https://prove2.me/theorems/64449863-ac09-4023-b148-715733bfde4f

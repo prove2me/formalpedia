@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ProdSub_exists_irreducible_sub_inl
 -- name    : GlobalTheory.CompanionTheory.ProdSub.exists_irreducible_sub_inl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:56:40.560832+00:00
 -- url     : https://prove2.me/theorems/32c5c3bc-ebb3-4770-a8db-2c3db1c01253

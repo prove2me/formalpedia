@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BB_RatCoord_sigma_hE_self
 -- name    : GlobalTheory.CompanionTheory.SW.BB.RatCoord.sigma_hE_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:03:04.377584+00:00
 -- url     : https://prove2.me/theorems/0ef34846-13e6-404b-91ca-f881ff28dea5

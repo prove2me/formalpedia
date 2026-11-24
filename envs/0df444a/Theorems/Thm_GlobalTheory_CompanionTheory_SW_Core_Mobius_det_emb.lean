@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_Mobius_det_emb
 -- name    : GlobalTheory.CompanionTheory.SW.Core.Mobius.det_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:04:00.479808+00:00
 -- url     : https://prove2.me/theorems/04ca0f97-25be-4615-871f-b80f7a46392e

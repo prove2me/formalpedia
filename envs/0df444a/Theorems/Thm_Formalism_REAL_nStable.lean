@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_nStable
 -- name    : Formalism.REAL.nStable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:14:17.253922+00:00
 -- url     : https://prove2.me/theorems/0da086a2-e186-4a85-aaa7-194edc335abf

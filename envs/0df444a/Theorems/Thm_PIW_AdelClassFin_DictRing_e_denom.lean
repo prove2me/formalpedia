@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_DictRing_e_denom
 -- name    : PIW.AdelClassFin.DictRing.e_denom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:29:26.325338+00:00
 -- url     : https://prove2.me/theorems/563a2e3a-7754-418d-bb4b-b8723176976f

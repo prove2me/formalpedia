@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Iwahori_UpInv_inv_mem_low
 -- name    : GlobalTheory.CompanionTheory.Iwahori.UpInv.inv_mem_low
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:49:45.604807+00:00
 -- url     : https://prove2.me/theorems/ac438866-e963-4e3b-a917-6dce25ccee0f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Lat_pullLoc_eq_span_of_ctr
 -- name    : GlobalTheory.CompanionTheory.Ar.Lat.pullLoc_eq_span_of_ctr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:17:13.989478+00:00
 -- url     : https://prove2.me/theorems/a224fac3-d881-4513-b8aa-1d356c2e4935

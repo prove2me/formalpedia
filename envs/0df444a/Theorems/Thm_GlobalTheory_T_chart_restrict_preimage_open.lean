@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_chart_restrict_preimage_open
 -- name    : GlobalTheory.T.chart_restrict_preimage_open
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:55:19.696954+00:00
 -- url     : https://prove2.me/theorems/6208d828-c6d3-48aa-8d77-a23f983c29df

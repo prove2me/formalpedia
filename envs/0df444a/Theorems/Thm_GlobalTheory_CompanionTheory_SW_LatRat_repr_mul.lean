@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LatRat_repr_mul
 -- name    : GlobalTheory.CompanionTheory.SW.LatRat.repr_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:06:49.205897+00:00
 -- url     : https://prove2.me/theorems/96878b33-3e7c-4ef8-a084-1091f43275de

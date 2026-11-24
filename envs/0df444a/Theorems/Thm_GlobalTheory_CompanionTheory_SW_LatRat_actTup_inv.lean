@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LatRat_actTup_inv
 -- name    : GlobalTheory.CompanionTheory.SW.LatRat.actTup_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:06:32.533082+00:00
 -- url     : https://prove2.me/theorems/297be0e3-b7b4-477f-8293-577dcd8de95b

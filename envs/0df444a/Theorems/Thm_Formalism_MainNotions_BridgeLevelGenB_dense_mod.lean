@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLevelGenB_dense_mod
 -- name    : Formalism.MainNotions.BridgeLevelGenB.dense_mod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:43:06.834059+00:00
 -- url     : https://prove2.me/theorems/dc823d82-ab18-4fe7-87b8-50921d19656e

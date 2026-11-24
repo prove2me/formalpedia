@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E1_cvTest
 -- name    : PositivityTheory.Rg.BcB.E1.cvTest
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:25:38.136032+00:00
 -- url     : https://prove2.me/theorems/00cf7680-803b-4a6b-885a-490559155af9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_MeasProj_continuous_fstA
 -- name    : GlobalTheory.CompanionTheory.SW.MeasProj.continuous_fstA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:07:45.866436+00:00
 -- url     : https://prove2.me/theorems/19972037-a573-43e8-9f3d-8f11db785f81

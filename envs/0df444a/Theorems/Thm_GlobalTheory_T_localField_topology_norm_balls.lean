@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_localField_topology_norm_balls
 -- name    : GlobalTheory.T.localField_topology_norm_balls
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:14:57.9252+00:00
 -- url     : https://prove2.me/theorems/fe191064-d588-450d-bb34-4b5202f3551c

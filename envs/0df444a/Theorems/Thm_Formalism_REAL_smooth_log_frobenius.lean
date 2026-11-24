@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_smooth_log_frobenius
 -- name    : Formalism.REAL.smooth_log_frobenius
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:42:12.511271+00:00
 -- url     : https://prove2.me/theorems/52d259e0-4f2e-42d9-9b5c-bdcd77175009

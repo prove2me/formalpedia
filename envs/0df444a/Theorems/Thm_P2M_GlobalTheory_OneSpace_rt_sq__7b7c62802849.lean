@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_OneSpace_rt_sq__7b7c62802849
 -- name    : P2M_GlobalTheory_OneSpace_rt_sq__7b7c62802849
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:18:50.051779+00:00
 -- url     : https://prove2.me/theorems/93fd3a54-0682-4235-b5ee-605e6679e7d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GaussOne_quad
 -- name    : GlobalTheory.CompanionTheory.SW.GaussOne.quad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:05:04.164683+00:00
 -- url     : https://prove2.me/theorems/78dee7c8-8064-40cf-af90-8ee1b8fd8412

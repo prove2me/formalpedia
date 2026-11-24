@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_emptyMarkedBlowupSequenceData_toBlowupSequenceData_eq
 -- name    : FunctorialResolution.EmbeddedResolution.emptyMarkedBlowupSequenceData_toBlowupSequenceData_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:17:37.565543+00:00
 -- url     : https://prove2.me/theorems/9162cbcf-927e-41cf-9550-2c3306759fe8

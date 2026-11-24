@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GramAlg_cT_cT
 -- name    : GlobalTheory.CompanionTheory.SW.GramAlg.cT_cT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:05:07.405807+00:00
 -- url     : https://prove2.me/theorems/fe96ed5c-5a62-460a-982b-518106378648

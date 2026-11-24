@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_TaylorMvLinear_of
 -- name    : Formalism.L2.Th1.H.TaylorMvLinear_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:23:23.702076+00:00
 -- url     : https://prove2.me/theorems/e65ec2a8-03b1-4e77-86e6-ae9ccebaef1f

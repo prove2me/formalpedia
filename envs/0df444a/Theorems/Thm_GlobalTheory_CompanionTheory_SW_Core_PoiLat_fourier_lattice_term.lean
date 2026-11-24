@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_PoiLat_fourier_lattice_term
 -- name    : GlobalTheory.CompanionTheory.SW.Core.PoiLat.fourier_lattice_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:04:10.927971+00:00
 -- url     : https://prove2.me/theorems/1f863027-ee69-4863-aa29-abd69d5be7cb

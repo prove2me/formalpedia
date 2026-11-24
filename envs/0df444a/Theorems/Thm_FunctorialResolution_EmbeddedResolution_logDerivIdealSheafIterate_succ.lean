@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_logDerivIdealSheafIterate_succ
 -- name    : FunctorialResolution.EmbeddedResolution.logDerivIdealSheafIterate_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:20:46.100744+00:00
 -- url     : https://prove2.me/theorems/030fce15-8184-4773-b4c2-3a698b20dec2

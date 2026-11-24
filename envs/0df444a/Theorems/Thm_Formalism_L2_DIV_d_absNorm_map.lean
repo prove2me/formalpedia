@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_d_absNorm_map
 -- name    : Formalism.L2.DIV.d_absNorm_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:22:34.424558+00:00
 -- url     : https://prove2.me/theorems/ba694c77-6ea4-4d08-bb33-a4272e5b0952

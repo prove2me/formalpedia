@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_exists_conjugation_negated
 -- name    : Formalism.L2.DIV.exists_conjugation_negated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:23:49.796805+00:00
 -- url     : https://prove2.me/theorems/2520aa8c-d86a-462e-a514-e29bdad46a72

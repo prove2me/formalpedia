@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_U0_exists_norm_of_not_dv
 -- name    : Formalism.HermitianLattices.Ext.L3.U0.exists_norm_of_not_dv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:16:02.354886+00:00
 -- url     : https://prove2.me/theorems/2f4b1a7f-437f-4961-a742-fa40e043ef84

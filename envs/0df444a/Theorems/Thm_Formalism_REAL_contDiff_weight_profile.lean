@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_contDiff_weight_profile
 -- name    : Formalism.REAL.contDiff_weight_profile
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:12:04.656461+00:00
 -- url     : https://prove2.me/theorems/426afd7c-df72-4ba8-af2c-6f1533a4c109

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_LatBij_exists_equiv
 -- name    : GlobalTheory.CMVal.LatBij.exists_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:04:47.782016+00:00
 -- url     : https://prove2.me/theorems/d7017074-ed76-493c-9691-1ac3978b9996

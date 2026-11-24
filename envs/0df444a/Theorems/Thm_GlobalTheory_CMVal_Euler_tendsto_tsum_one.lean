@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_tendsto_tsum_one
 -- name    : GlobalTheory.CMVal.Euler.tendsto_tsum_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:20:27.937179+00:00
 -- url     : https://prove2.me/theorems/95382067-5b44-46f2-8011-c232da174ac8

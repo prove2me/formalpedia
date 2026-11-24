@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_AdBridge_ofHAInf_rat
 -- name    : Formalism.L2.SG.AdBridge.ofHAInf_rat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:43:01.925504+00:00
 -- url     : https://prove2.me/theorems/b64ed123-6f20-4d16-aaba-1348eb663c87

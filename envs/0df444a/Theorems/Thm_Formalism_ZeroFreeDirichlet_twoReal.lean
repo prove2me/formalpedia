@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_twoReal
 -- name    : Formalism.ZeroFreeDirichlet.twoReal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:46:58.851022+00:00
 -- url     : https://prove2.me/theorems/27cddec7-3198-4a2f-b01c-38a4ca1c85d8

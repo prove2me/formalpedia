@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_noZeroComplex
 -- name    : Formalism.ZeroFreeDirichlet.noZeroComplex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:42:44.456049+00:00
 -- url     : https://prove2.me/theorems/df8e1c8d-c48c-4738-8708-61a1807523c6

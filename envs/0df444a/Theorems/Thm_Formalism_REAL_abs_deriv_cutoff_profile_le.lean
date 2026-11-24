@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_abs_deriv_cutoff_profile_le
 -- name    : Formalism.REAL.abs_deriv_cutoff_profile_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:16:35.923969+00:00
 -- url     : https://prove2.me/theorems/4471096c-1844-43ec-b852-b9d15f1c669f

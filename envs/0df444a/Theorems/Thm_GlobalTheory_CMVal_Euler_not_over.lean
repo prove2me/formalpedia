@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_not_over
 -- name    : GlobalTheory.CMVal.Euler.not_over
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:19:25.176259+00:00
 -- url     : https://prove2.me/theorems/a4d76488-2ade-42d7-a3a6-2f2767f17055

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_fockPairGl
 -- name    : Formalism.REAL.fockPairGl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:57:07.656253+00:00
 -- url     : https://prove2.me/theorems/d694061f-443f-4005-9ac3-891bb2099b32

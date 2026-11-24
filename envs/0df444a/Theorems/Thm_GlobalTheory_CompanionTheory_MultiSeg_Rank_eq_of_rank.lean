@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MultiSeg_Rank_eq_of_rank
 -- name    : GlobalTheory.CompanionTheory.MultiSeg.Rank.eq_of_rank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:53:26.926447+00:00
 -- url     : https://prove2.me/theorems/a23bf053-d947-4310-8ef1-3a0cc7f6b632

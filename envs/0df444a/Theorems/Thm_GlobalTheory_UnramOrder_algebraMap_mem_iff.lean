@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramOrder_algebraMap_mem_iff
 -- name    : GlobalTheory.UnramOrder.algebraMap_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:00:14.913898+00:00
 -- url     : https://prove2.me/theorems/78168276-3177-47ef-abdc-df46a6493aa2

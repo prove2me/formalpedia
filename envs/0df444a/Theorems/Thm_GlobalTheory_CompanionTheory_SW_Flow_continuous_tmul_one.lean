@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Flow_continuous_tmul_one
 -- name    : GlobalTheory.CompanionTheory.SW.Flow.continuous_tmul_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:03:58.717049+00:00
 -- url     : https://prove2.me/theorems/b8828d41-bca9-4e95-bc0d-184ed8c51dde

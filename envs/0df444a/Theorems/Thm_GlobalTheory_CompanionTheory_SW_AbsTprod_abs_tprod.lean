@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_AbsTprod_abs_tprod
 -- name    : GlobalTheory.CompanionTheory.SW.AbsTprod.abs_tprod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:50:59.024899+00:00
 -- url     : https://prove2.me/theorems/93e9c406-bde7-426f-a203-b8827e84988a

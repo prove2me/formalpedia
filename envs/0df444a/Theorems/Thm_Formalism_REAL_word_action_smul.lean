@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_word_action_smul
 -- name    : Formalism.REAL.word_action_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:16:14.573323+00:00
 -- url     : https://prove2.me/theorems/cdd63ae2-e1a3-4097-8f17-43f0c0d4d292

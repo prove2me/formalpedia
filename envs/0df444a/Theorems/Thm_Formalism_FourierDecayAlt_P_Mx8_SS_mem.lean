@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx8_SS_mem
 -- name    : Formalism.FourierDecayAlt.P.Mx8.SS_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:47:18.769975+00:00
 -- url     : https://prove2.me/theorems/85bdbaa6-a327-48b9-8bad-02b574bd1351

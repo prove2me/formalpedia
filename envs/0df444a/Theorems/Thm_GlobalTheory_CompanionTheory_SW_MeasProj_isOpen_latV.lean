@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_MeasProj_isOpen_latV
 -- name    : GlobalTheory.CompanionTheory.SW.MeasProj.isOpen_latV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:09:38.372741+00:00
 -- url     : https://prove2.me/theorems/ad3e63d1-7e6a-4eba-912c-7fd65c8e7d4b

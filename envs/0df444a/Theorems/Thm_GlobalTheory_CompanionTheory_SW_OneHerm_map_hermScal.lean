@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_OneHerm_map_hermScal
 -- name    : GlobalTheory.CompanionTheory.SW.OneHerm.map_hermScal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:07:35.434916+00:00
 -- url     : https://prove2.me/theorems/6b9f6d43-bfe2-4ba2-b4cc-ad1af4fb55f5

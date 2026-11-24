@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AnalyticWord_bnd_fact
 -- name    : GlobalTheory.CompanionTheory.AnalyticWord.bnd_fact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:18:31.13594+00:00
 -- url     : https://prove2.me/theorems/9e74f41f-f7a0-4fd7-8141-8311cb448f1d

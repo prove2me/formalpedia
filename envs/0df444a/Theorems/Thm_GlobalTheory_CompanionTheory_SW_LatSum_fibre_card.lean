@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LatSum_fibre_card
 -- name    : GlobalTheory.CompanionTheory.SW.LatSum.fibre_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:06:55.482249+00:00
 -- url     : https://prove2.me/theorems/c9ba74f2-cf86-4c5a-8751-66f8cab4a5b2

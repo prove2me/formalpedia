@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_SizeScale_continuous_size
 -- name    : GlobalTheory.CompanionTheory.SW.SizeScale.continuous_size
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:11:48.757053+00:00
 -- url     : https://prove2.me/theorems/6a6c919e-9de3-4e4d-9f9e-9ac85c20150f

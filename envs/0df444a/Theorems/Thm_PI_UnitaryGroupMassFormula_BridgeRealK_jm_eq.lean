@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_BridgeRealK_jm_eq
 -- name    : PI.UnitaryGroupMassFormula.BridgeRealK.jm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:15:26.028985+00:00
 -- url     : https://prove2.me/theorems/a594a8b1-086d-4122-971d-a107f3998ff0

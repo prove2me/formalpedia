@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_formallySmooth_sections
 -- name    : FunctorialResolution.EmbeddedResolution.formallySmooth_sections
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:16:14.504913+00:00
 -- url     : https://prove2.me/theorems/3fe0d4a0-e9b5-4800-a753-ae31c14f430e

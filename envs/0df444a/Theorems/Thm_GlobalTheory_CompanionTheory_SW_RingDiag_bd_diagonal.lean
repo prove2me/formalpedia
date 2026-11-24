@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_RingDiag_bd_diagonal
 -- name    : GlobalTheory.CompanionTheory.SW.RingDiag.bd_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:10:04.403148+00:00
 -- url     : https://prove2.me/theorems/efc3052c-2cee-4a2e-a650-f659ad603c9d

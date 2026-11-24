@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_AffineSpacePrincipalizationData_isBlowupAlongIdealSheaf_transitionMap_of_coprodDesc
 -- name    : FunctorialResolution.EmbeddedResolution.AffineSpacePrincipalizationData.isBlowupAlongIdealSheaf_transitionMap_of_coprodDesc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:15:13.508727+00:00
 -- url     : https://prove2.me/theorems/50183a6b-72b6-45fe-bd18-9761555491f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ModDet_pi_smul_const
 -- name    : GlobalTheory.CompanionTheory.SW.ModDet.pi_smul_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:09:26.449376+00:00
 -- url     : https://prove2.me/theorems/0548631b-b3f6-42c2-93a2-c22fb324288b

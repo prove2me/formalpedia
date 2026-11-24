@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_compact_exists_log_bounded
 -- name    : Formalism.REAL.compact_exists_log_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:56:29.249111+00:00
 -- url     : https://prove2.me/theorems/b5f14629-273e-44a4-8118-6e4aa3b92c89

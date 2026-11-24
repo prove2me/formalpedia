@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HypSplit_det_ne_zero_of_hypJ
 -- name    : GlobalTheory.CompanionTheory.SW.HypSplit.det_ne_zero_of_hypJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:06:31.293808+00:00
 -- url     : https://prove2.me/theorems/690e7715-054b-41f0-ba91-af9b94409d8c

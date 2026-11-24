@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisTop_grpTop
 -- name    : GlobalTheory.CompanionTheory.RgEisTop.grpTop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:59:56.978529+00:00
 -- url     : https://prove2.me/theorems/14c48189-008d-4a76-b90e-10eab9803abc

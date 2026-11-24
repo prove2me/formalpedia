@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_d_exists_place
 -- name    : Formalism.L2.DIV.d_exists_place
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:22:48.958945+00:00
 -- url     : https://prove2.me/theorems/c7d16b8c-1019-4cec-b07b-2237ee8e2156

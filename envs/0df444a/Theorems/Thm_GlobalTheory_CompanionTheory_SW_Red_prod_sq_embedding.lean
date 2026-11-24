@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Red_prod_sq_embedding
 -- name    : GlobalTheory.CompanionTheory.SW.Red.prod_sq_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:08:40.841961+00:00
 -- url     : https://prove2.me/theorems/6aa98181-dd51-462b-b2f8-f54b5c5c4557

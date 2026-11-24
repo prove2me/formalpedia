@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GapPolyProof_dvd_minpoly_mul
 -- name    : GlobalTheory.CompanionTheory.GapPolyProof.dvd_minpoly_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:43:27.631801+00:00
 -- url     : https://prove2.me/theorems/17c9dc4a-a22b-40c3-a800-a67d5ea08f91

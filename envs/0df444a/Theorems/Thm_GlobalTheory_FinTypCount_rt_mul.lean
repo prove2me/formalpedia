@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinTypCount_rt_mul
 -- name    : GlobalTheory.FinTypCount.rt_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:24:23.092677+00:00
 -- url     : https://prove2.me/theorems/40c3ded1-13a1-48ce-801d-83f0caa88ef5

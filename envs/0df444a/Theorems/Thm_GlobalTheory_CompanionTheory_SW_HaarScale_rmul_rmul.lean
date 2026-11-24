@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HaarScale_rmul_rmul
 -- name    : GlobalTheory.CompanionTheory.SW.HaarScale.rmul_rmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:07:19.526878+00:00
 -- url     : https://prove2.me/theorems/78f90fea-becf-46aa-a557-6c4df4df7b11

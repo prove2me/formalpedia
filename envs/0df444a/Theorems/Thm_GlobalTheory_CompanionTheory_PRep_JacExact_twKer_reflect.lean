@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PRep_JacExact_twKer_reflect
 -- name    : GlobalTheory.CompanionTheory.PRep.JacExact.twKer_reflect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:55:07.38563+00:00
 -- url     : https://prove2.me/theorems/95276214-c239-4b39-8b6d-22b0adb3bc64

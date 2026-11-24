@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_logDerivIdealSheafIterate_zero
 -- name    : FunctorialResolution.EmbeddedResolution.logDerivIdealSheafIterate_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:20:49.349042+00:00
 -- url     : https://prove2.me/theorems/caf29343-39e0-496e-8ae9-21078cd9e738

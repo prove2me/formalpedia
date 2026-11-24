@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RestrictedDualKernel_cs_on
 -- name    : Formalism.FourierDecayAlt.P.RestrictedDualKernel.cs_on
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:19:22.274025+00:00
 -- url     : https://prove2.me/theorems/8f27105b-8abf-42db-977c-5140da2e30f1

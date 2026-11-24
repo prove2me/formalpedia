@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPiBuildW_Loc_hJ_span_left
 -- name    : PI.ScPiBuildW.Loc.hJ_span_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:56:09.662452+00:00
 -- url     : https://prove2.me/theorems/da3e27bc-0a60-4220-a2e8-b95ba62a5a3d

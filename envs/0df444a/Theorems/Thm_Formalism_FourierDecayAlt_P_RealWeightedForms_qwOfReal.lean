@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RealWeightedForms_qwOfReal
 -- name    : Formalism.FourierDecayAlt.P.RealWeightedForms.qwOfReal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:22:32.398948+00:00
 -- url     : https://prove2.me/theorems/fc4e17bf-c974-4f47-bf52-afec8cd26800

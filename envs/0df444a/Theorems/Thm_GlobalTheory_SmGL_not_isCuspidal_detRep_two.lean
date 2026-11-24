@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_not_isCuspidal_detRep_two
 -- name    : GlobalTheory.SmGL.not_isCuspidal_detRep_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:18:39.637502+00:00
 -- url     : https://prove2.me/theorems/6b81e08f-d46d-4a58-82cb-a526fae9732e

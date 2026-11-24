@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_filtration_mono
 -- name    : Formalism.REAL.filtration_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:17:08.727941+00:00
 -- url     : https://prove2.me/theorems/f58c59d4-f4a4-4d24-a51e-e7a95c077eb0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_kHiExist
 -- name    : Formalism.REAL.kHiExist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:14:02.817539+00:00
 -- url     : https://prove2.me/theorems/28264992-8b85-4567-8ccc-3ff41ef961ae

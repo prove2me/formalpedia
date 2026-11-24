@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QPK_haar_measure_existence
 -- name    : QPK.haar_measure_existence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:56:18.20474+00:00
 -- url     : https://prove2.me/theorems/8adc56b4-9499-4b85-af6e-1a55b4e48434

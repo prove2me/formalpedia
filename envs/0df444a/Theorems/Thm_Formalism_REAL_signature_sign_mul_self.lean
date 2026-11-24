@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_signature_sign_mul_self
 -- name    : Formalism.REAL.signature_sign_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:14:40.636438+00:00
 -- url     : https://prove2.me/theorems/d8559051-c3c2-462f-82f9-f9855194a5b2

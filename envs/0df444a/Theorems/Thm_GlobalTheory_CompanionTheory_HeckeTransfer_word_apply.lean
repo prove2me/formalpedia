@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeTransfer_word_apply
 -- name    : GlobalTheory.CompanionTheory.HeckeTransfer.word_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:46:24.640307+00:00
 -- url     : https://prove2.me/theorems/3cf0c412-be3e-48e7-a310-79ba42f076f7

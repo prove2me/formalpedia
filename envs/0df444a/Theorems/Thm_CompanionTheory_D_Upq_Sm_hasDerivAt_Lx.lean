@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_Sm_hasDerivAt_Lx
 -- name    : CompanionTheory.D.Upq.Sm.hasDerivAt_Lx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:42:33.873746+00:00
 -- url     : https://prove2.me/theorems/72b4231e-7b6f-4db1-81a5-449b97a069a1

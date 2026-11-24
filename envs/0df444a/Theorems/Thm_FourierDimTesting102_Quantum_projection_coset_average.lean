@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourierDimTesting102_Quantum_projection_coset_average
 -- name    : FourierDimTesting102.Quantum.projection_coset_average
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T08:00:52.485679+00:00
 -- url     : https://prove2.me/theorems/603b5af4-7db9-4526-a638-6d17a254ddde

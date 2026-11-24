@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LatSum_hasSum_tele
 -- name    : GlobalTheory.CompanionTheory.SW.LatSum.hasSum_tele
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:07:09.777091+00:00
 -- url     : https://prove2.me/theorems/3f29baa9-4e7e-4b14-8c9c-dc408b1c1c2b

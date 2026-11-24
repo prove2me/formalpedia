@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Geo_Def_PC_stab_of_loc
 -- name    : Formalism.L2.Geo.Def.PC.stab_of_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:02:44.093099+00:00
 -- url     : https://prove2.me/theorems/c4229122-0ae6-4978-9bfe-d8ae8dc244b5

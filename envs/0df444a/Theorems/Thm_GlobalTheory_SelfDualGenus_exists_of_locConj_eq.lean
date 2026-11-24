@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualGenus_exists_of_locConj_eq
 -- name    : GlobalTheory.SelfDualGenus.exists_of_locConj_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:10:15.522411+00:00
 -- url     : https://prove2.me/theorems/622ebbbe-04a1-4a9e-9969-b8c7f2e999a8

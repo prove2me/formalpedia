@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BB_sizeTup_eq_sum_xw
 -- name    : GlobalTheory.CompanionTheory.SW.BB.sizeTup_eq_sum_xw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:03:08.516275+00:00
 -- url     : https://prove2.me/theorems/81728bb9-e092-48c6-a448-1bc6a0ea3eb5

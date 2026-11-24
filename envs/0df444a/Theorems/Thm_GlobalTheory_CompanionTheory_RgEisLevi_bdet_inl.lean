@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisLevi_bdet_inl
 -- name    : GlobalTheory.CompanionTheory.RgEisLevi.bdet_inl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:59:11.822296+00:00
 -- url     : https://prove2.me/theorems/3ee91267-ec55-4348-ab6c-4eb617c1956e

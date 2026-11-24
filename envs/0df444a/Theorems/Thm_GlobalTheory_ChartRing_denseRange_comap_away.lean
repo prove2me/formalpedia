@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartRing_denseRange_comap_away
 -- name    : GlobalTheory.ChartRing.denseRange_comap_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:14:52.705868+00:00
 -- url     : https://prove2.me/theorems/d19f802e-389f-41d6-a6cb-c572229f50ec

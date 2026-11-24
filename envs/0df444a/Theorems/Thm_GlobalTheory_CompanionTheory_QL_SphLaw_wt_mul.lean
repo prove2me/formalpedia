@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_SphLaw_wt_mul
 -- name    : GlobalTheory.CompanionTheory.QL.SphLaw.wt_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:55:43.822559+00:00
 -- url     : https://prove2.me/theorems/31d39735-82c8-44df-bdf7-5f49fb35c183

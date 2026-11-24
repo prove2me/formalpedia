@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassSumCompare_conj_int
 -- name    : GlobalTheory.ClassSumCompare.conj_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:26:26.8618+00:00
 -- url     : https://prove2.me/theorems/7d51b24c-274a-4f75-9ebd-dd898b89a10f

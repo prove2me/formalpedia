@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Dblock_CentreBlocks_monic_relations_to_blocks
 -- name    : GlobalTheory.CompanionTheory.Dblock.CentreBlocks.monic_relations_to_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:35:17.23524+00:00
 -- url     : https://prove2.me/theorems/179fa2a3-2eb6-4aea-ac43-2c0a697484fd

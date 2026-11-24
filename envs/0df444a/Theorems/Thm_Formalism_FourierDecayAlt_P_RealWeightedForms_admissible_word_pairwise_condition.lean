@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RealWeightedForms_admissible_word_pairwise_condition
 -- name    : Formalism.FourierDecayAlt.P.RealWeightedForms.admissible_word_pairwise_condition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:19:39.670801+00:00
 -- url     : https://prove2.me/theorems/3dd7380e-9dec-47e0-ad83-7e0a6d9659a1

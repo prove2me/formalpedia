@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_PrimInf_exists_delta
 -- name    : GlobalTheory.CompanionTheory.SW.PrimInf.exists_delta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:08:34.963828+00:00
 -- url     : https://prove2.me/theorems/384b3f56-fe07-4635-8572-8756271e25b8

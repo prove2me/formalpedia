@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_AbsUniq_comap_orbitQuot_invariant
 -- name    : GlobalTheory.CompanionTheory.SW.AbsUniq.comap_orbitQuot_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:00:52.804216+00:00
 -- url     : https://prove2.me/theorems/fbf46361-d992-4b2f-a711-d4ebab997eef

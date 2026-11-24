@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Span_sb_eq_sum_coset_indicators
 -- name    : GlobalTheory.CompanionTheory.SW.Span.sb_eq_sum_coset_indicators
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:09:25.877306+00:00
 -- url     : https://prove2.me/theorems/efb2ee91-409a-4a9e-941c-23b9b6e74ea2

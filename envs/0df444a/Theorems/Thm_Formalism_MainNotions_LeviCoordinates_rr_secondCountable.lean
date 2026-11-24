@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_LeviCoordinates_rr_secondCountable
 -- name    : Formalism.MainNotions.LeviCoordinates.rr_secondCountable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:39:46.826272+00:00
 -- url     : https://prove2.me/theorems/e029380e-8b2b-4baa-b3f6-40c5efbaada8

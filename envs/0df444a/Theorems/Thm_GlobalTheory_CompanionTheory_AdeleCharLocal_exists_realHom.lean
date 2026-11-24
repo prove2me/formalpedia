@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AdeleCharLocal_exists_realHom
 -- name    : GlobalTheory.CompanionTheory.AdeleCharLocal.exists_realHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:24:10.130117+00:00
 -- url     : https://prove2.me/theorems/7919a089-d67a-4134-b92f-99790d0c672c

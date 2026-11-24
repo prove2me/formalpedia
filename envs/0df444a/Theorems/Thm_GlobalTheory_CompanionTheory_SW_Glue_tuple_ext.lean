@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Glue_tuple_ext
 -- name    : GlobalTheory.CompanionTheory.SW.Glue.tuple_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:05:35.699868+00:00
 -- url     : https://prove2.me/theorems/64d21707-d1e3-4e0a-a5df-b9199ed34825

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FD_exists_integral_basis
 -- name    : GlobalTheory.CompanionTheory.SW.FD.exists_integral_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:03:33.83215+00:00
 -- url     : https://prove2.me/theorems/b7a8c5a9-da2d-40f8-ac91-00c4378e340c

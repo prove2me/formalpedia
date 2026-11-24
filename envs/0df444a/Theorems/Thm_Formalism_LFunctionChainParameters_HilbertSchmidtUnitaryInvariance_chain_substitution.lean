@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtUnitaryInvariance_chain_substitution
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtUnitaryInvariance.chain_substitution
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:59:27.401037+00:00
 -- url     : https://prove2.me/theorems/746ad5c8-6190-4826-b244-c923da177edd

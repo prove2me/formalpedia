@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_b_exists_mul
 -- name    : Formalism.L2.DIV.b_exists_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:22:29.16758+00:00
 -- url     : https://prove2.me/theorems/ef82cea8-608a-4182-a236-2d879ba6805d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HolPQ_muG_hs_ball_le
 -- name    : GlobalTheory.CompanionTheory.HolPQ.muG_hs_ball_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:16:44.830005+00:00
 -- url     : https://prove2.me/theorems/63018915-fb62-40f0-ba9c-61d7e6086743

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_dictTop_hhat_unit
 -- name    : PIW.AdelClassFin.dictTop_hhat_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:29:13.070468+00:00
 -- url     : https://prove2.me/theorems/f322d3d6-d82b-49d7-8644-e313b8760359

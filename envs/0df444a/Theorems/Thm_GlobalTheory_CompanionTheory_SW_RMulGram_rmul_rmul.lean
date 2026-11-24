@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_RMulGram_rmul_rmul
 -- name    : GlobalTheory.CompanionTheory.SW.RMulGram.rmul_rmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:10:05.167347+00:00
 -- url     : https://prove2.me/theorems/09b03842-bb88-4cbd-aecf-2f910c933dc2

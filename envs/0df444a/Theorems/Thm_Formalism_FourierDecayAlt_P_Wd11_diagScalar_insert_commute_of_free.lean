@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd11_diagScalar_insert_commute_of_free
 -- name    : Formalism.FourierDecayAlt.P.Wd11.diagScalar_insert_commute_of_free
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:47:07.585662+00:00
 -- url     : https://prove2.me/theorems/6684e1c8-f9fe-419d-b347-7fce617c9548

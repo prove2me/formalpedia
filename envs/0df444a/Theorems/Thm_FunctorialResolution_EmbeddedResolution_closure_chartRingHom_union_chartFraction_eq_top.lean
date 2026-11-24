@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_closure_chartRingHom_union_chartFraction_eq_top
 -- name    : FunctorialResolution.EmbeddedResolution.closure_chartRingHom_union_chartFraction_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:25:12.755269+00:00
 -- url     : https://prove2.me/theorems/c788db44-e1cb-4652-8024-3a04844b3bc3

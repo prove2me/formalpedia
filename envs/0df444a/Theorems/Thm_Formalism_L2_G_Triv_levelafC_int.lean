@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Triv_levelafC_int
 -- name    : Formalism.L2.G.Triv.levelafC_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:20:16.194082+00:00
 -- url     : https://prove2.me/theorems/7df92943-7148-47cb-85e6-ec1893e5b842

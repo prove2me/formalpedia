@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_integrable_of_ofReal
 -- name    : Formalism.REAL.integrable_of_ofReal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:28:27.51324+00:00
 -- url     : https://prove2.me/theorems/9b5dfa60-bfdf-44c3-a849-5434b183f52c

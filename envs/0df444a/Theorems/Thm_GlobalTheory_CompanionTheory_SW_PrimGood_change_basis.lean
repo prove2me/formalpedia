@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_PrimGood_change_basis
 -- name    : GlobalTheory.CompanionTheory.SW.PrimGood.change_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:08:33.072548+00:00
 -- url     : https://prove2.me/theorems/fe491609-7458-4298-9ed1-89c3605eed9b

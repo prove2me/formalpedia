@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RiemannCore_measurableSet_tile
 -- name    : GlobalTheory.CompanionTheory.RiemannCore.measurableSet_tile
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:29:50.762675+00:00
 -- url     : https://prove2.me/theorems/8a441d64-6ca1-491a-a776-34114574205b

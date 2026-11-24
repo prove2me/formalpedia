@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Slice_fibFam_support
 -- name    : GlobalTheory.CompanionTheory.SW.Slice.fibFam_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:09:37.465823+00:00
 -- url     : https://prove2.me/theorems/d9d51ffa-9975-48e2-a855-78450612c65d

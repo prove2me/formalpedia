@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_lintegral_joinCol
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.lintegral_joinCol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:39:43.364674+00:00
 -- url     : https://prove2.me/theorems/c44c5810-f079-4b8b-9009-48ac35937474

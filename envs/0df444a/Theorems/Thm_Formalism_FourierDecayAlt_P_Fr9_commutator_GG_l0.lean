@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr9_commutator_GG_l0
 -- name    : Formalism.FourierDecayAlt.P.Fr9.commutator_GG_l0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:03:50.755287+00:00
 -- url     : https://prove2.me/theorems/50b882af-26e9-4f3e-aa1d-dc6e450f9dad

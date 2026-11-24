@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_SizeInt_continuous_compReal
 -- name    : GlobalTheory.CompanionTheory.SW.SizeInt.continuous_compReal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:09:27.722347+00:00
 -- url     : https://prove2.me/theorems/e0ea1332-800d-4a6f-ac2f-08ebe3b24b8e

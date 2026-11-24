@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_b_under_elt
 -- name    : Formalism.L2.DIV.b_under_elt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:22:37.647797+00:00
 -- url     : https://prove2.me/theorems/61acd142-0b47-4a07-9881-1f009bb7b126

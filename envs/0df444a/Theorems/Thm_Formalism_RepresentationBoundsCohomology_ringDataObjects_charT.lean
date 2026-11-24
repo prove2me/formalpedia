@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_ringDataObjects_charT
 -- name    : Formalism.RepresentationBoundsCohomology.ringDataObjects.charT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:27:45.2273+00:00
 -- url     : https://prove2.me/theorems/6c2cea74-12de-441a-ad41-131a7b3a53df

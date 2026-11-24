@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_MeasProj_continuous_mapTens
 -- name    : GlobalTheory.CompanionTheory.SW.MeasProj.continuous_mapTens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:07:24.311797+00:00
 -- url     : https://prove2.me/theorems/75c01cd5-8b56-446b-8878-459aecb904b8

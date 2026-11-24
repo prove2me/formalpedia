@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BlockAlg_gramE_consTup
 -- name    : GlobalTheory.CompanionTheory.SW.BlockAlg.gramE_consTup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:02:34.867186+00:00
 -- url     : https://prove2.me/theorems/5b1ddc33-6f8c-41c6-9191-e890290dd7ad

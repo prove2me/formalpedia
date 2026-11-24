@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisScale_wall_scale
 -- name    : GlobalTheory.CompanionTheory.RgEisScale.wall_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:59:38.413595+00:00
 -- url     : https://prove2.me/theorems/fbbe7666-cc4f-4f63-9952-6f83bfe434b1

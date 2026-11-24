@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HProj_map_eqs
 -- name    : GlobalTheory.CompanionTheory.SW.HProj.map_eqs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:05:38.113212+00:00
 -- url     : https://prove2.me/theorems/b42c2ebc-1897-4094-a675-6b8b592cbf5c

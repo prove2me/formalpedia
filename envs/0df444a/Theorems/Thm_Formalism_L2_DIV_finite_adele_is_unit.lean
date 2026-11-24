@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_finite_adele_is_unit
 -- name    : Formalism.L2.DIV.finite_adele_is_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:23:56.613911+00:00
 -- url     : https://prove2.me/theorems/03759e0d-b361-4336-92b1-b5d34c4fdc73

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_single_off
 -- name    : GlobalTheory.CMVal.Euler.single_off
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:19:35.037927+00:00
 -- url     : https://prove2.me/theorems/4ad3b001-ad19-4958-9cbb-1a795a284451

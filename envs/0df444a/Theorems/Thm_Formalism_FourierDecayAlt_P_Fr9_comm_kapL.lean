@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr9_comm_kapL
 -- name    : Formalism.FourierDecayAlt.P.Fr9.comm_kapL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:03:35.825222+00:00
 -- url     : https://prove2.me/theorems/a2e46071-9adb-4e63-9a6f-ed6ec07116e7

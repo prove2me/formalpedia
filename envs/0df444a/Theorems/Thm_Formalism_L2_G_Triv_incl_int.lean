@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Triv_incl_int
 -- name    : Formalism.L2.G.Triv.incl_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:21:06.485438+00:00
 -- url     : https://prove2.me/theorems/2be9d5b9-7af5-468c-9a96-403a9ad290ce

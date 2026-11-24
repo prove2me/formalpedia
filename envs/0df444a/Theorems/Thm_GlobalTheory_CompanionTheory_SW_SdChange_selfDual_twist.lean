@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_SdChange_selfDual_twist
 -- name    : GlobalTheory.CompanionTheory.SW.SdChange.selfDual_twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:10:06.558143+00:00
 -- url     : https://prove2.me/theorems/ce46ad7c-b1a8-4d6c-a9c4-95bba04e0391

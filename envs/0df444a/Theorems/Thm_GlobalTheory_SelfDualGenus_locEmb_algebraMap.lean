@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualGenus_locEmb_algebraMap
 -- name    : GlobalTheory.SelfDualGenus.locEmb_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:10:51.404967+00:00
 -- url     : https://prove2.me/theorems/beb9d5f9-c91d-4973-894a-36240f567bf4

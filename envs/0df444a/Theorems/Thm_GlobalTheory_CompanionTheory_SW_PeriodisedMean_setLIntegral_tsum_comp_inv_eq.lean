@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_PeriodisedMean_setLIntegral_tsum_comp_inv_eq
 -- name    : GlobalTheory.CompanionTheory.SW.PeriodisedMean.setLIntegral_tsum_comp_inv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:07:33.058807+00:00
 -- url     : https://prove2.me/theorems/6e5ef7c7-eb88-4940-a038-8bdbec4ee575

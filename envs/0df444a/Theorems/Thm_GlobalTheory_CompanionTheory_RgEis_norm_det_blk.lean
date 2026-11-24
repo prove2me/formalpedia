@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEis_norm_det_blk
 -- name    : GlobalTheory.CompanionTheory.RgEis.norm_det_blk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:57:18.152699+00:00
 -- url     : https://prove2.me/theorems/6d7ea2f1-1a85-4a00-8992-7979d1d5c2d0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Triv_den_lower
 -- name    : Formalism.L2.G.Triv.den_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:21:25.913063+00:00
 -- url     : https://prove2.me/theorems/caa1f3a3-ef10-4cae-95b6-fcc07240b6dc

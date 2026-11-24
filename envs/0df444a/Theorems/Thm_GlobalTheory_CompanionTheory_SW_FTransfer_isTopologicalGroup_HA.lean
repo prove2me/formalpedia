@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FTransfer_isTopologicalGroup_HA
 -- name    : GlobalTheory.CompanionTheory.SW.FTransfer.isTopologicalGroup_HA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:03:51.081803+00:00
 -- url     : https://prove2.me/theorems/4f09447c-8c1c-41de-90ef-2f2e6d55cb4e

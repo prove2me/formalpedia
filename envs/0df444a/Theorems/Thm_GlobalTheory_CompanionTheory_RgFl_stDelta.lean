@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgFl_stDelta
 -- name    : GlobalTheory.CompanionTheory.RgFl.stDelta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:59:29.17022+00:00
 -- url     : https://prove2.me/theorems/04aec87c-9d19-407d-8bd9-d45dbed8ffc9

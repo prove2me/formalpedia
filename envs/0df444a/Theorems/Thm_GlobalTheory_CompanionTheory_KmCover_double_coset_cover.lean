@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KmCover_double_coset_cover
 -- name    : GlobalTheory.CompanionTheory.KmCover.double_coset_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:51:07.504915+00:00
 -- url     : https://prove2.me/theorems/dbf91db1-297e-4ff1-8c91-a2ed6685deb2

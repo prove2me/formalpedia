@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GaussOne_half_mul
 -- name    : GlobalTheory.CompanionTheory.SW.GaussOne.half_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:05:56.830692+00:00
 -- url     : https://prove2.me/theorems/a56a502f-042f-4efe-b22a-c4d33840c4fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_continuous_uMat_apply
 -- name    : PI.ScMuExists.UnitaryGroupMassFormula.continuous_uMat_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:13:36.506464+00:00
 -- url     : https://prove2.me/theorems/d3926688-0915-42e2-9ceb-7c227d1b007c

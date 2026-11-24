@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qd_vec_can_high
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qd_vec_can_high
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:16:40.451467+00:00
 -- url     : https://prove2.me/theorems/231e082e-e67e-43ab-bf5d-790f531ae435

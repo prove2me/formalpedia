@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BlockIwahoriUML_factor
 -- name    : GlobalTheory.CompanionTheory.BlockIwahoriUML.factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:27:14.832119+00:00
 -- url     : https://prove2.me/theorems/5b4326d9-8ec3-433c-8d6d-cd3ea895d848

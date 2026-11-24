@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_fact_phE_lower
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.fact_phE_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:05:53.582929+00:00
 -- url     : https://prove2.me/theorems/e15ec369-87ba-46cc-996a-87348a937faa

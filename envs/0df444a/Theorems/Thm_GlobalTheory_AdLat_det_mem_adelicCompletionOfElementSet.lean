@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_det_mem_adelicCompletionOfElementSet
 -- name    : GlobalTheory.AdLat.det_mem_adelicCompletionOfElementSet
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:08:45.629375+00:00
 -- url     : https://prove2.me/theorems/200e3e7d-0a79-4aa7-b267-b42ed5a69210

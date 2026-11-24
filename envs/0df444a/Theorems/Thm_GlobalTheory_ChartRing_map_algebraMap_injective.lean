@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartRing_map_algebraMap_injective
 -- name    : GlobalTheory.ChartRing.map_algebraMap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:15:05.911159+00:00
 -- url     : https://prove2.me/theorems/68ff50cc-aa46-403e-b22e-6f75947cdeae

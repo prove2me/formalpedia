@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_chartFraction_sub_mem_of_congr
 -- name    : FunctorialResolution.EmbeddedResolution.chartFraction_sub_mem_of_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:24:57.177405+00:00
 -- url     : https://prove2.me/theorems/acc1bc42-f098-4f7f-9eb4-9e9f2ad544b2

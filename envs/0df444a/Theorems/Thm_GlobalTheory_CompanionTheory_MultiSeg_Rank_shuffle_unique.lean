@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MultiSeg_Rank_shuffle_unique
 -- name    : GlobalTheory.CompanionTheory.MultiSeg.Rank.shuffle_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:53:18.139278+00:00
 -- url     : https://prove2.me/theorems/c7c95192-acbd-418a-9c36-d436c4d92226

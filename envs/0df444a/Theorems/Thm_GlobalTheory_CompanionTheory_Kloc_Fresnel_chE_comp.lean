@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Kloc_Fresnel_chE_comp
 -- name    : GlobalTheory.CompanionTheory.Kloc.Fresnel.chE_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:50:58.371044+00:00
 -- url     : https://prove2.me/theorems/43d527a6-346b-4983-b906-a2d55f73f65e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_pTor_range_of_injective
 -- name    : GlobalTheory.CNorm.pTor_range_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:28:34.697613+00:00
 -- url     : https://prove2.me/theorems/620d13c0-e2bc-4cfc-b302-e8843ea2a127

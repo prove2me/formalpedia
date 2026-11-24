@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ArtinElem_mapMatrix_prod_ne
 -- name    : GlobalTheory.CompanionTheory.SW.ArtinElem.mapMatrix_prod_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:02:25.142832+00:00
 -- url     : https://prove2.me/theorems/e27a55fe-9901-4299-8cd7-1143c7244acb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_GaussLevi_fsLevi_eq
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.GaussLevi.fsLevi_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:38:31.363952+00:00
 -- url     : https://prove2.me/theorems/6fc63ad3-7069-47b6-94b5-ae658ca1cb8d

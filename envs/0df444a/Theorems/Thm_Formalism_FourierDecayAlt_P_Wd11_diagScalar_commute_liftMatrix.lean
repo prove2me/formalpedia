@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd11_diagScalar_commute_liftMatrix
 -- name    : Formalism.FourierDecayAlt.P.Wd11.diagScalar_commute_liftMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:47:01.310582+00:00
 -- url     : https://prove2.me/theorems/03a9593b-5caa-4b7a-86c0-ff55c3a38ec5

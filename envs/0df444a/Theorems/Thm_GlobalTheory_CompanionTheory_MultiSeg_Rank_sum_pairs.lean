@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MultiSeg_Rank_sum_pairs
 -- name    : GlobalTheory.CompanionTheory.MultiSeg.Rank.sum_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:53:36.084381+00:00
 -- url     : https://prove2.me/theorems/7a8d037b-2f09-48bb-8498-989af9d92cf4

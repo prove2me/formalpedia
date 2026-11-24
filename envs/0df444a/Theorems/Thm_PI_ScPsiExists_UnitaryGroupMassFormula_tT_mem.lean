@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPsiExists_UnitaryGroupMassFormula_tT_mem
 -- name    : PI.ScPsiExists.UnitaryGroupMassFormula.tT_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:57:09.853981+00:00
 -- url     : https://prove2.me/theorems/6d8f1fd9-16d2-4aea-b7a6-09fe9931d114

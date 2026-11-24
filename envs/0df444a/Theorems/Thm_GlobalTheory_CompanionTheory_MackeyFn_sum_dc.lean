@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MackeyFn_sum_dc
 -- name    : GlobalTheory.CompanionTheory.MackeyFn.sum_dc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:52:08.618189+00:00
 -- url     : https://prove2.me/theorems/43e88e9a-5c38-4d7c-9349-e691466e6191

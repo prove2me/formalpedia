@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_StdLat_hf_zero_l
 -- name    : GlobalTheory.HL.StdLat.hf_zero_l
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:17:14.665142+00:00
 -- url     : https://prove2.me/theorems/705871f4-1bc5-4799-a1ce-f53e328b9691

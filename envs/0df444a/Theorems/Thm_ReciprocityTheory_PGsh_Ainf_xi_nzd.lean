@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Ainf_xi_nzd
 -- name    : ReciprocityTheory.PGsh.Ainf.xi_nzd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:34:08.210842+00:00
 -- url     : https://prove2.me/theorems/17ee954e-102e-4a12-ac82-ce061fbb810c

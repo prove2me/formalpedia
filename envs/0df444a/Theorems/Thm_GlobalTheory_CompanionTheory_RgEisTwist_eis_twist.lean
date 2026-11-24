@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisTwist_eis_twist
 -- name    : GlobalTheory.CompanionTheory.RgEisTwist.eis_twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:59:54.729053+00:00
 -- url     : https://prove2.me/theorems/165e9173-ad2f-431a-a5c5-311be70f72d5

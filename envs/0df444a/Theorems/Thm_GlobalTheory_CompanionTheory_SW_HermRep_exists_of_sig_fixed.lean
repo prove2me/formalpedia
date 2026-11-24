@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HermRep_exists_of_sig_fixed
 -- name    : GlobalTheory.CompanionTheory.SW.HermRep.exists_of_sig_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:07:13.636136+00:00
 -- url     : https://prove2.me/theorems/65f3241c-f144-4048-82c7-1a3e9fa40724

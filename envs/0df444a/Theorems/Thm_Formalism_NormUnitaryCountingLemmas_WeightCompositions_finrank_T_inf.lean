@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_WeightCompositions_finrank_T_inf
 -- name    : Formalism.NormUnitaryCountingLemmas.WeightCompositions.finrank_T_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:42:13.696793+00:00
 -- url     : https://prove2.me/theorems/e6736191-419a-4ad2-be89-6257392f19d1

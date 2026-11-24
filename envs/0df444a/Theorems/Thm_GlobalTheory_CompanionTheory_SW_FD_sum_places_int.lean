@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FD_sum_places_int
 -- name    : GlobalTheory.CompanionTheory.SW.FD.sum_places_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:03:31.193345+00:00
 -- url     : https://prove2.me/theorems/2ac0074a-43a6-4468-adef-c6d824af90df

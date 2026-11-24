@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_dictTop_mul_inv
 -- name    : PIW.AdelClassFin.dictTop_mul_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:29:29.027444+00:00
 -- url     : https://prove2.me/theorems/8259bb82-3d79-4ef5-a0de-a27a6c90e220

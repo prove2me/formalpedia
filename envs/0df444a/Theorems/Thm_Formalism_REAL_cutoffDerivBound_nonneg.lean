@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_cutoffDerivBound_nonneg
 -- name    : Formalism.REAL.cutoffDerivBound_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:15:58.463362+00:00
 -- url     : https://prove2.me/theorems/bfbe0a69-ab03-4d8f-9673-231e18ba3185

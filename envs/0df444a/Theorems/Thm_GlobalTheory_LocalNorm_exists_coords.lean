@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalNorm_exists_coords
 -- name    : GlobalTheory.LocalNorm.exists_coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:02:06.327848+00:00
 -- url     : https://prove2.me/theorems/b71f20f2-83cd-4770-8330-ad247fe5d57e

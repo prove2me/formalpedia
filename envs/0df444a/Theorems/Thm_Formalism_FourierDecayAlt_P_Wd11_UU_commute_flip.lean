@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd11_UU_commute_flip
 -- name    : Formalism.FourierDecayAlt.P.Wd11.UU_commute_flip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:47:36.546718+00:00
 -- url     : https://prove2.me/theorems/7f012996-28b1-4646-a0a3-f66a9829109a

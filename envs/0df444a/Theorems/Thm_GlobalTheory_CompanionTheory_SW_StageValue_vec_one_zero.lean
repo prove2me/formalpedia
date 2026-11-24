@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_StageValue_vec_one_zero
 -- name    : GlobalTheory.CompanionTheory.SW.StageValue.vec_one_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:09:52.79088+00:00
 -- url     : https://prove2.me/theorems/1d4f1162-e44e-412d-9ff6-e21b3be295b1

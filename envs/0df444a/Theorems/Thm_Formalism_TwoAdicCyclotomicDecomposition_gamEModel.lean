@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_gamEModel
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.gamEModel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:00:14.497539+00:00
 -- url     : https://prove2.me/theorems/eee2bdd1-d40f-4d46-8567-4e66e286ad0f

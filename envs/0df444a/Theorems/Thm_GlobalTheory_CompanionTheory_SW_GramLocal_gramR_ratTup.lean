@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GramLocal_gramR_ratTup
 -- name    : GlobalTheory.CompanionTheory.SW.GramLocal.gramR_ratTup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:05:59.263994+00:00
 -- url     : https://prove2.me/theorems/8705e7c3-f803-41a4-859e-37b038f322ec

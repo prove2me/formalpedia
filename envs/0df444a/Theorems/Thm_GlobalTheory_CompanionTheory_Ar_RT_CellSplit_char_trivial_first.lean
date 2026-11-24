@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_RT_CellSplit_char_trivial_first
 -- name    : GlobalTheory.CompanionTheory.Ar.RT.CellSplit.char_trivial_first
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:20:52.661218+00:00
 -- url     : https://prove2.me/theorems/778b9d5f-1955-4a5b-9dab-8989eac98e12

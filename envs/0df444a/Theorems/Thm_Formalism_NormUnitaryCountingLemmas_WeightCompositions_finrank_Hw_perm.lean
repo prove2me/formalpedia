@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_WeightCompositions_finrank_Hw_perm
 -- name    : Formalism.NormUnitaryCountingLemmas.WeightCompositions.finrank_Hw_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:42:11.670022+00:00
 -- url     : https://prove2.me/theorems/7411fcec-d029-4d64-97c9-7e216eec4069

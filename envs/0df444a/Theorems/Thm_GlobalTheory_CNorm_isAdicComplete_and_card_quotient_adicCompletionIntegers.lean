@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_isAdicComplete_and_card_quotient_adicCompletionIntegers
 -- name    : GlobalTheory.CNorm.isAdicComplete_and_card_quotient_adicCompletionIntegers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:10:49.992363+00:00
 -- url     : https://prove2.me/theorems/365f102b-97b6-4d3b-8125-5a4bffa7b434

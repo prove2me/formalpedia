@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FD_exists_real_basis
 -- name    : GlobalTheory.CompanionTheory.SW.FD.exists_real_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:03:40.202848+00:00
 -- url     : https://prove2.me/theorems/e85db07d-0682-4c4f-9a37-24d17f7f5a5b

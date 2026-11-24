@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HolPQ_continuous_hs_umat
 -- name    : GlobalTheory.CompanionTheory.HolPQ.continuous_hs_umat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:16:39.969424+00:00
 -- url     : https://prove2.me/theorems/fac71f73-36f9-471d-af62-6a7a01da0eb9

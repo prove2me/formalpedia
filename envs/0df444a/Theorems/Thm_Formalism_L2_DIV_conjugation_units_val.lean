@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_conjugation_units_val
 -- name    : Formalism.L2.DIV.conjugation_units_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:22:12.399734+00:00
 -- url     : https://prove2.me/theorems/912f44b0-a4ad-4dcb-b8ca-91242a63966d

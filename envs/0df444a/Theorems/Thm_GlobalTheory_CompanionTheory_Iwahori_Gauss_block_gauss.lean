@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Iwahori_Gauss_block_gauss
 -- name    : GlobalTheory.CompanionTheory.Iwahori.Gauss.block_gauss
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:49:47.390122+00:00
 -- url     : https://prove2.me/theorems/dab9b123-fc1c-4f61-a491-d621470f9224

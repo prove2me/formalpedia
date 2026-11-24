@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr9_zetaInv_GG_conj_l0
 -- name    : Formalism.FourierDecayAlt.P.Fr9.zetaInv_GG_conj_l0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:03:57.079814+00:00
 -- url     : https://prove2.me/theorems/32448e88-a994-4d70-8f51-9046222c82c2

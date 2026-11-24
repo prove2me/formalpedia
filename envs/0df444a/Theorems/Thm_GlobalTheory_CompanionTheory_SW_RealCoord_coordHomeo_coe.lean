@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_RealCoord_coordHomeo_coe
 -- name    : GlobalTheory.CompanionTheory.SW.RealCoord.coordHomeo_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:08:13.766256+00:00
 -- url     : https://prove2.me/theorems/ad59130e-5b37-42ce-9903-604571e8fcc0

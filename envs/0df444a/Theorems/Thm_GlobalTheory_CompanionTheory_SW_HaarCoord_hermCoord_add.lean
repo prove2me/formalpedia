@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HaarCoord_hermCoord_add
 -- name    : GlobalTheory.CompanionTheory.SW.HaarCoord.hermCoord_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:05:54.502891+00:00
 -- url     : https://prove2.me/theorems/609fbe43-0e29-441e-8559-f72759e440be

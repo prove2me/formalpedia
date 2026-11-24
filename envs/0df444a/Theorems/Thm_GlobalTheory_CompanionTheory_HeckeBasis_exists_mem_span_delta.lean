@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeBasis_exists_mem_span_delta
 -- name    : GlobalTheory.CompanionTheory.HeckeBasis.exists_mem_span_delta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:45:32.02445+00:00
 -- url     : https://prove2.me/theorems/d25f8ccf-e4b3-4ce4-87e0-f97920688f97

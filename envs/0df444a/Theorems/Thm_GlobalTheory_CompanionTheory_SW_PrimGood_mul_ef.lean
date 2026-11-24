@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_PrimGood_mul_ef
 -- name    : GlobalTheory.CompanionTheory.SW.PrimGood.mul_ef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:08:22.349432+00:00
 -- url     : https://prove2.me/theorems/186e86b5-6fee-417a-a1f6-305987039c49

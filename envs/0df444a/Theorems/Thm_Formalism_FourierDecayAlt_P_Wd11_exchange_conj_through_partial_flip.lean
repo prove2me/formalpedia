@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd11_exchange_conj_through_partial_flip
 -- name    : Formalism.FourierDecayAlt.P.Wd11.exchange_conj_through_partial_flip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:47:49.24633+00:00
 -- url     : https://prove2.me/theorems/15f5aa6d-fae0-4a8c-9899-6b5861ebb3b2

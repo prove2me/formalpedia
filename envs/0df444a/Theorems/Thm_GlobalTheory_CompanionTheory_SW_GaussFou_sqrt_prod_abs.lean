@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GaussFou_sqrt_prod_abs
 -- name    : GlobalTheory.CompanionTheory.SW.GaussFou.sqrt_prod_abs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:05:46.63669+00:00
 -- url     : https://prove2.me/theorems/424f4af9-395d-4b03-8704-1ab0cb402631

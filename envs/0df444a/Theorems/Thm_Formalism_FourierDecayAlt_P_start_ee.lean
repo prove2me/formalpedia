@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_start_ee
 -- name    : Formalism.FourierDecayAlt.P.start_ee
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:04:24.67711+00:00
 -- url     : https://prove2.me/theorems/03cd4127-97d8-430b-8e8d-abaf0c580282

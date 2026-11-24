@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_DictRing_nonempty_places
 -- name    : PIW.AdelClassFin.DictRing.nonempty_places
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:29:03.652848+00:00
 -- url     : https://prove2.me/theorems/c6f5dbdf-772a-44e2-8f90-303ba65c1a52

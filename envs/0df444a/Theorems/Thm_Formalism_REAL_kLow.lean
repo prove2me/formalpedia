@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_kLow
 -- name    : Formalism.REAL.kLow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:15:09.754046+00:00
 -- url     : https://prove2.me/theorems/987467a9-5115-4c9b-b1ed-8dce4b873859

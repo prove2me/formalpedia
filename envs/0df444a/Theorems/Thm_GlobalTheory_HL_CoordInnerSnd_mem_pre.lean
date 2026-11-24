@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CoordInnerSnd_mem_pre
 -- name    : GlobalTheory.HL.CoordInnerSnd.mem_pre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:17:51.118375+00:00
 -- url     : https://prove2.me/theorems/8615001a-b870-43f2-b7e2-a0e618ab93b5

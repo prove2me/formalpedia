@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_blockRhoFull
 -- name    : Formalism.NG.blockRhoFull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:16:48.499979+00:00
 -- url     : https://prove2.me/theorems/5056a724-cd16-4415-86d2-3d0db2a61687

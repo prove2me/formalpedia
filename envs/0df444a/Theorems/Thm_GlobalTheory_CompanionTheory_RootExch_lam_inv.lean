@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RootExch_lam_inv
 -- name    : GlobalTheory.CompanionTheory.RootExch.lam_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:10:03.305786+00:00
 -- url     : https://prove2.me/theorems/8c87f7bd-dd7b-460d-9408-52ea7b45c68f

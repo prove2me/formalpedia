@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ExtTensorFixed_finiteDimensional_fixed_extTensor
 -- name    : GlobalTheory.CompanionTheory.ExtTensorFixed.finiteDimensional_fixed_extTensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:38:04.714879+00:00
 -- url     : https://prove2.me/theorems/887fc796-53d0-43ff-9dba-9b120d151d2a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisPar_parLaw
 -- name    : GlobalTheory.CompanionTheory.RgEisPar.parLaw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:59:24.708282+00:00
 -- url     : https://prove2.me/theorems/3f2d85fc-2276-4f47-bbd3-8f233ac18936

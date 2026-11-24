@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LatSum_finite_small
 -- name    : GlobalTheory.CompanionTheory.SW.LatSum.finite_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:07:18.261505+00:00
 -- url     : https://prove2.me/theorems/f80b008e-a69d-4441-b499-cfc593d330bb

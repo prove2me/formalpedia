@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GramAlg_sigma_invol
 -- name    : GlobalTheory.CompanionTheory.SW.GramAlg.sigma_invol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:05:55.617826+00:00
 -- url     : https://prove2.me/theorems/3a046ad6-d0af-496c-a972-0fc684510e69

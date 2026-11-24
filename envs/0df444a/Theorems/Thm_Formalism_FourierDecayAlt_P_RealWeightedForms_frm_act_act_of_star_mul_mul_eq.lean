@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RealWeightedForms_frm_act_act_of_star_mul_mul_eq
 -- name    : Formalism.FourierDecayAlt.P.RealWeightedForms.frm_act_act_of_star_mul_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:19:05.168978+00:00
 -- url     : https://prove2.me/theorems/6d13cd9d-1de0-4d07-bba3-055165f8aa53

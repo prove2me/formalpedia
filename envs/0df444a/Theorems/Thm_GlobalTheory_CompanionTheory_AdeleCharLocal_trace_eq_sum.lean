@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AdeleCharLocal_trace_eq_sum
 -- name    : GlobalTheory.CompanionTheory.AdeleCharLocal.trace_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:23:29.95895+00:00
 -- url     : https://prove2.me/theorems/6b80fd26-4fa7-4dfd-8d54-766d5c5cd885

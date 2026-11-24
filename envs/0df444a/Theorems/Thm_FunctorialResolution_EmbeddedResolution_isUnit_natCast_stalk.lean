@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isUnit_natCast_stalk
 -- name    : FunctorialResolution.EmbeddedResolution.isUnit_natCast_stalk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:16:25.498801+00:00
 -- url     : https://prove2.me/theorems/77b5058a-23cb-41d8-82b3-21aff9a1d87b

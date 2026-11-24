@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_hasDerivAt_right_translate
 -- name    : Formalism.REAL.hasDerivAt_right_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:42:22.9128+00:00
 -- url     : https://prove2.me/theorems/66b8b53b-425a-4aae-935f-c8fd7e7293cd

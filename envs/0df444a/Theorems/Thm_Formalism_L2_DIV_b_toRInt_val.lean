@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_b_toRInt_val
 -- name    : Formalism.L2.DIV.b_toRInt_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:23:03.362837+00:00
 -- url     : https://prove2.me/theorems/b273af40-14ef-492e-be8d-d59c3871f550

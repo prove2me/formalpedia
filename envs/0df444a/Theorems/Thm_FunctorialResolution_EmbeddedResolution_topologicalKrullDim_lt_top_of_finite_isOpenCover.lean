@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_topologicalKrullDim_lt_top_of_finite_isOpenCover
 -- name    : FunctorialResolution.EmbeddedResolution.topologicalKrullDim_lt_top_of_finite_isOpenCover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:03:51.665798+00:00
 -- url     : https://prove2.me/theorems/79f405a0-4666-46f6-89d7-c110dac29948

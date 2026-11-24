@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Triv_expand
 -- name    : Formalism.L2.G.Triv.expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:20:59.892695+00:00
 -- url     : https://prove2.me/theorems/a2e4088a-b56c-467c-bfff-86412b044d43

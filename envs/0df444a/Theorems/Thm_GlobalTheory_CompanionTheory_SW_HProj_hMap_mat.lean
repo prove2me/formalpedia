@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HProj_hMap_mat
 -- name    : GlobalTheory.CompanionTheory.SW.HProj.hMap_mat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:04:58.879273+00:00
 -- url     : https://prove2.me/theorems/c35b3091-eeeb-4ba3-9059-6e77ffa69a18

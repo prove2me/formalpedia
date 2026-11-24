@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_QuadricUnit_sum_sq_eq
 -- name    : GlobalTheory.CompanionTheory.SW.QuadricUnit.sum_sq_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:10:22.708683+00:00
 -- url     : https://prove2.me/theorems/104e624b-77d1-4074-a274-b059088d5859

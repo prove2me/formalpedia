@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_PureH_projV_consTup
 -- name    : GlobalTheory.CompanionTheory.SW.PureH.projV_consTup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:09:47.651222+00:00
 -- url     : https://prove2.me/theorems/1599c445-f65e-433d-9092-da06274d6b5f

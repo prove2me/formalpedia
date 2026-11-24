@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Iwasawa_idem_mem
 -- name    : GlobalTheory.CompanionTheory.SW.Iwasawa.idem_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:07:03.451937+00:00
 -- url     : https://prove2.me/theorems/2609dbe8-637f-4590-ae07-ca206f8a5c4c

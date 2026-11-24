@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_DictRing_cancel
 -- name    : PIW.AdelClassFin.DictRing.cancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:29:13.141272+00:00
 -- url     : https://prove2.me/theorems/6a52c915-9447-43db-a0f4-a8bc72eaa786

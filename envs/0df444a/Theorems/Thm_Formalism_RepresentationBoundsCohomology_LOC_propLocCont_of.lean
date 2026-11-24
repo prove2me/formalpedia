@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_LOC_propLocCont_of
 -- name    : Formalism.RepresentationBoundsCohomology.LOC.propLocCont_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:28:10.567975+00:00
 -- url     : https://prove2.me/theorems/a16c9a79-c527-4c05-a5fb-fd29e2c1ed10

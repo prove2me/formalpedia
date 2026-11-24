@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BB_InfPush_map_coord_pi
 -- name    : GlobalTheory.CompanionTheory.SW.BB.InfPush.map_coord_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:01:42.945863+00:00
 -- url     : https://prove2.me/theorems/4b0fa73e-4aa4-46b2-8770-0339843ce551

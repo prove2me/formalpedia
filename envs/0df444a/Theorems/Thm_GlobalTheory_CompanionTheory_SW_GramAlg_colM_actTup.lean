@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GramAlg_colM_actTup
 -- name    : GlobalTheory.CompanionTheory.SW.GramAlg.colM_actTup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:05:43.710178+00:00
 -- url     : https://prove2.me/theorems/1041a4ba-0720-4301-a2d1-a57919b459c4

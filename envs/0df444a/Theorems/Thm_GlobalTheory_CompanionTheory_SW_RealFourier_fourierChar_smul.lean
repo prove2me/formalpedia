@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_RealFourier_fourierChar_smul
 -- name    : GlobalTheory.CompanionTheory.SW.RealFourier.fourierChar_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:08:28.635799+00:00
 -- url     : https://prove2.me/theorems/f01a9107-efc5-4afb-8696-8a1306d22ff6

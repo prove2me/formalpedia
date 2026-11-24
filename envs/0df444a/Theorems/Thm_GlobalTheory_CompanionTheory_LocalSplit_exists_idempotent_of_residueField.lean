@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LocalSplit_exists_idempotent_of_residueField
 -- name    : GlobalTheory.CompanionTheory.LocalSplit.exists_idempotent_of_residueField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:51:49.318719+00:00
 -- url     : https://prove2.me/theorems/06105bf1-b510-48f2-a983-f8774ea91722

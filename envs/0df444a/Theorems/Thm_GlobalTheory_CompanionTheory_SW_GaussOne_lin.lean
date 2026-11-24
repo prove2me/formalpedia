@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GaussOne_lin
 -- name    : GlobalTheory.CompanionTheory.SW.GaussOne.lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:05:18.528303+00:00
 -- url     : https://prove2.me/theorems/bd58bb2a-0a46-4f33-8164-b44d39c806bc

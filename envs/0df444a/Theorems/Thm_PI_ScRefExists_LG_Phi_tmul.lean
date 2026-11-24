@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_LG_Phi_tmul
 -- name    : PI.ScRefExists.LG.Phi_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:12:53.557843+00:00
 -- url     : https://prove2.me/theorems/732a3687-2609-4c87-b419-6b5dd62cab55

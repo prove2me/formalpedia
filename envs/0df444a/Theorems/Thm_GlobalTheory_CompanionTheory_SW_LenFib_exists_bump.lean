@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LenFib_exists_bump
 -- name    : GlobalTheory.CompanionTheory.SW.LenFib.exists_bump
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:06:21.988287+00:00
 -- url     : https://prove2.me/theorems/e7ecc70e-072d-448c-9f46-61af9883d7b7

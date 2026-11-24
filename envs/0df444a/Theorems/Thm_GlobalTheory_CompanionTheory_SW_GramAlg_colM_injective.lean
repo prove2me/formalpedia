@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GramAlg_colM_injective
 -- name    : GlobalTheory.CompanionTheory.SW.GramAlg.colM_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:05:24.864416+00:00
 -- url     : https://prove2.me/theorems/98cd39b8-530b-4fa2-8c19-2f4cc04f2eeb

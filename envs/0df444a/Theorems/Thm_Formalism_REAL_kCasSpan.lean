@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_kCasSpan
 -- name    : Formalism.REAL.kCasSpan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:14:04.835427+00:00
 -- url     : https://prove2.me/theorems/b606823c-c6bd-4a63-9df5-c79c89a5833e

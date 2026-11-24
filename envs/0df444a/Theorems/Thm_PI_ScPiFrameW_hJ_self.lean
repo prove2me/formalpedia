@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPiFrameW_hJ_self
 -- name    : PI.ScPiFrameW.hJ_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:55:53.110706+00:00
 -- url     : https://prove2.me/theorems/8a35a1c0-e44d-4a51-a768-4edc94974a99

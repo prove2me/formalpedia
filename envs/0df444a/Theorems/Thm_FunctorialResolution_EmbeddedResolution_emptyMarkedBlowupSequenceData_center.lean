@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_emptyMarkedBlowupSequenceData_center
 -- name    : FunctorialResolution.EmbeddedResolution.emptyMarkedBlowupSequenceData_center
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:18:56.651856+00:00
 -- url     : https://prove2.me/theorems/650d8016-c873-4fa7-832f-fa85c13b9aa2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartRing_irreducibleSpace_primeSpectrum_away
 -- name    : GlobalTheory.ChartRing.irreducibleSpace_primeSpectrum_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:14:38.70034+00:00
 -- url     : https://prove2.me/theorems/049ff684-c018-4bce-8e19-f3b8c80ca472

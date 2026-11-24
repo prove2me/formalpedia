@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FZEchelon_NormalDemand_PL_tendsto_zero
 -- name    : FZEchelon.NormalDemand.PL_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T11:44:42.657531+00:00
 -- url     : https://prove2.me/theorems/aa798271-c294-4e87-b66f-3a3708c939dc

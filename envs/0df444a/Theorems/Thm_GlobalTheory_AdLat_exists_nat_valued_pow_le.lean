@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_exists_nat_valued_pow_le
 -- name    : GlobalTheory.AdLat.exists_nat_valued_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:11:00.422374+00:00
 -- url     : https://prove2.me/theorems/fdb26ffb-9129-41b7-9250-68d350facb00

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ArchFibre_coordHerm_eq_map
 -- name    : GlobalTheory.CompanionTheory.SW.ArchFibre.coordHerm_eq_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:00:53.619796+00:00
 -- url     : https://prove2.me/theorems/a9141efb-bd4e-4293-8bbb-26ee1c8f9f05

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FibreShift_setLIntegral_eq_lintegral
 -- name    : GlobalTheory.CompanionTheory.SW.FibreShift.setLIntegral_eq_lintegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:03:36.105379+00:00
 -- url     : https://prove2.me/theorems/060f2d5e-5e6f-44d0-9b22-0900654d8a5b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LatSum_sum_le_of_fibres
 -- name    : GlobalTheory.CompanionTheory.SW.LatSum.sum_le_of_fibres
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:06:21.458039+00:00
 -- url     : https://prove2.me/theorems/c3bb6d1f-0e4c-414d-83ef-a9137aeda689

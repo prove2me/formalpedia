@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_cutoff_vanishing_outside
 -- name    : Formalism.REAL.cutoff_vanishing_outside
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:16:08.536473+00:00
 -- url     : https://prove2.me/theorems/01dc01c2-05fc-4131-b46a-c8a959e959ac

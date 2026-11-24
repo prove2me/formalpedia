@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FiberInt_integral_comp_eq
 -- name    : GlobalTheory.CompanionTheory.FiberInt.integral_comp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:39:59.42135+00:00
 -- url     : https://prove2.me/theorems/ce304d54-7d8b-4daa-8af4-9cfc6b4ea36b

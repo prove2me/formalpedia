@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualGenus_exists_generator
 -- name    : GlobalTheory.SelfDualGenus.exists_generator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:11:24.765292+00:00
 -- url     : https://prove2.me/theorems/d6dd7fc6-33c9-4553-b6ea-3efee0bbb561

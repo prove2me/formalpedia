@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FibreUniq_fibreFamily_eq_inter
 -- name    : GlobalTheory.CompanionTheory.SW.FibreUniq.fibreFamily_eq_inter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:03:36.154079+00:00
 -- url     : https://prove2.me/theorems/d259f04a-1e1b-415a-9e64-ebfdc30a6db1

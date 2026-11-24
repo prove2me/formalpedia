@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_strong_approximation_mod_nat
 -- name    : GlobalTheory.AdLat.strong_approximation_mod_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:07:52.957798+00:00
 -- url     : https://prove2.me/theorems/c15ef016-647e-46a7-a4d4-2e295971c99a

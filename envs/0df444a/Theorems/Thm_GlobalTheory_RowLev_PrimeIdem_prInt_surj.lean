@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_PrimeIdem_prInt_surj
 -- name    : GlobalTheory.RowLev.PrimeIdem.prInt_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:27:12.210547+00:00
 -- url     : https://prove2.me/theorems/058a21c6-56b7-4b92-9602-1dc63d4d3370

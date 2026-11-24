@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ModDet_smul_cancel
 -- name    : GlobalTheory.CompanionTheory.SW.ModDet.smul_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:08:11.176574+00:00
 -- url     : https://prove2.me/theorems/439bbca0-2e41-4e55-aa60-7d56a3ba1aae

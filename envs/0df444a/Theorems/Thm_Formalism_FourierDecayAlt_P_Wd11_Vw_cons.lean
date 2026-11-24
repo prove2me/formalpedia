@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd11_Vw_cons
 -- name    : Formalism.FourierDecayAlt.P.Wd11.Vw_cons
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:47:51.651867+00:00
 -- url     : https://prove2.me/theorems/8334953e-d6b7-40a2-a329-e20a850f247e

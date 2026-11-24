@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_RealCoord_toMixed_injective
 -- name    : GlobalTheory.CompanionTheory.SW.RealCoord.toMixed_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:08:10.282834+00:00
 -- url     : https://prove2.me/theorems/534b88f4-244b-4024-ae61-bcdaaa2414b0

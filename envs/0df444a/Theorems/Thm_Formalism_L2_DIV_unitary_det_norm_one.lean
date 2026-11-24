@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_unitary_det_norm_one
 -- name    : Formalism.L2.DIV.unitary_det_norm_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:22:46.886595+00:00
 -- url     : https://prove2.me/theorems/ea0fd474-ad09-4928-8615-6c3ad0bcba7c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_KAlg_tmul_one_injective
 -- name    : GlobalTheory.CompanionTheory.SW.KAlg.tmul_one_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:06:54.012883+00:00
 -- url     : https://prove2.me/theorems/fb5f012b-29b9-43aa-9be6-2e441abc7139

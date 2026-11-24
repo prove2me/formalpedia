@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EichlerTransf_eichler_of_involution
 -- name    : GlobalTheory.CompanionTheory.EichlerTransf.eichler_of_involution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:56:57.688488+00:00
 -- url     : https://prove2.me/theorems/1c372998-c6fd-4bd4-8047-4e369bf34084

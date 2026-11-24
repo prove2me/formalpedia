@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GramAlg_mul_shape
 -- name    : GlobalTheory.CompanionTheory.SW.GramAlg.mul_shape
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:05:27.472836+00:00
 -- url     : https://prove2.me/theorems/07368a8d-e3a9-4daa-a4fe-1bdab9d39c43

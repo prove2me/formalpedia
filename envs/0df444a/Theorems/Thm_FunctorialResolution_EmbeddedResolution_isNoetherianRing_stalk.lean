@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isNoetherianRing_stalk
 -- name    : FunctorialResolution.EmbeddedResolution.isNoetherianRing_stalk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:16:21.389626+00:00
 -- url     : https://prove2.me/theorems/79df7706-dab8-4cdf-b440-420bf3571c8a

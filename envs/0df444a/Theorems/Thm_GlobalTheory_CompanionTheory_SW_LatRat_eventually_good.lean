@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LatRat_eventually_good
 -- name    : GlobalTheory.CompanionTheory.SW.LatRat.eventually_good
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:06:33.884192+00:00
 -- url     : https://prove2.me/theorems/5fcafda0-c24f-4578-8b46-3cb49fdc7615

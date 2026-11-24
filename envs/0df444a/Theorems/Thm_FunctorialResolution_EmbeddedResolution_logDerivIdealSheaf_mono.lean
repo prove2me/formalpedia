@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_logDerivIdealSheaf_mono
 -- name    : FunctorialResolution.EmbeddedResolution.logDerivIdealSheaf_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:20:33.296109+00:00
 -- url     : https://prove2.me/theorems/bda212d2-313c-48e8-9a53-44ca9984d04c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HermDiag_exists_pivot
 -- name    : GlobalTheory.CompanionTheory.HermDiag.exists_pivot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:48:36.934005+00:00
 -- url     : https://prove2.me/theorems/ca1a3d47-b8bf-499a-bdda-fa6241f17d6c

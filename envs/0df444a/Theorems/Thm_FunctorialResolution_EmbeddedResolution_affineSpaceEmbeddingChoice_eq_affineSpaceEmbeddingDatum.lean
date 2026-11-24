@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_affineSpaceEmbeddingChoice_eq_affineSpaceEmbeddingDatum
 -- name    : FunctorialResolution.EmbeddedResolution.affineSpaceEmbeddingChoice_eq_affineSpaceEmbeddingDatum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:15:41.893435+00:00
 -- url     : https://prove2.me/theorems/d4a7c66d-9dcb-4332-b2a6-26849559ae22

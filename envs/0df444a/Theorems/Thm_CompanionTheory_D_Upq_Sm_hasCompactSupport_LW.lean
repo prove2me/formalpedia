@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_Sm_hasCompactSupport_LW
 -- name    : CompanionTheory.D.Upq.Sm.hasCompactSupport_LW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:40:49.887898+00:00
 -- url     : https://prove2.me/theorems/b5aaaf19-f502-4c6d-aa89-7da1a304f47f

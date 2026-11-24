@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PrimesAP_linnik_of_relative_model
 -- name    : GlobalTheory.CompanionTheory.PrimesAP.linnik_of_relative_model
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:55:33.715443+00:00
 -- url     : https://prove2.me/theorems/ebf2f690-871a-4725-914c-2318173f2276

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartRing_isAdicComplete_comap_constantCoeff
 -- name    : GlobalTheory.ChartRing.isAdicComplete_comap_constantCoeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:09:10.553586+00:00
 -- url     : https://prove2.me/theorems/89275a46-b79f-4e5c-b1bb-54e256f9dede

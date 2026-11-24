@@ -1,0 +1,29 @@
+-- Prove2me | solution 1 for Formalism.InvariantFactorPaths.ColumnFamilies.Top.closure_third_part
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-2
+-- created : 2026-11-24T13:26:43.426505+00:00
+-- url     : https://prove2.me/submissions/1cc0eef4-a2bf-49bd-8dbf-d69dac812323
+
+import Definitions.Def_Formalism_ThetaLogCoordinates_DualWeylCoordinates_DualWeylProofs_LemmaA
+import Definitions.Def_Formalism_ThetaLogCoordinates_DualWeylCoordinates_DualWeylProofs_SBasis
+import Definitions.Def_Formalism_ThetaLogCoordinates_DualWeylCoordinates_DualWeylProofs_CntBranch
+import Definitions.Def_Formalism_ThetaLogCoordinates_DualWeylCoordinates_DualWeylProofs_ClosureBranching
+import Definitions.Def_Formalism_ThetaLogCoordinates_DualWeylCoordinates_ClosureThirdPart
+import Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_branching_count_holds
+import Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_claimA_straightening
+import Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_closure_third_part_of
+import Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_standard_basis_theorem
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.InvariantFactorPaths Formalism.InvariantFactorPaths.ColumnFamilies Formalism.InvariantFactorPaths.ColumnFamilies.Top
+namespace Formalism.InvariantFactorPaths.ColumnFamilies.Top
+theorem _root_.solution : ClosureBranching := closure_third_part_of claimA_straightening standard_basis_theorem branching_count_holds
+end Formalism.InvariantFactorPaths.ColumnFamilies.Top

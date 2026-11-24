@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_norm_le_of_near_one
 -- name    : Formalism.REAL.norm_le_of_near_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:22:28.760451+00:00
 -- url     : https://prove2.me/theorems/ac50b7fa-69e6-4fe5-b493-0e60214ce2db

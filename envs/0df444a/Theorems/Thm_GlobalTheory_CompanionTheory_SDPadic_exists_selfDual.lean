@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SDPadic_exists_selfDual
 -- name    : GlobalTheory.CompanionTheory.SDPadic.exists_selfDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:01:21.774484+00:00
 -- url     : https://prove2.me/theorems/e881b0e3-344b-4f69-9cbb-e745ba671f22

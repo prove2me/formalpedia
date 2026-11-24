@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassSumCompare_incl_mem
 -- name    : GlobalTheory.ClassSumCompare.incl_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:24:08.525852+00:00
 -- url     : https://prove2.me/theorems/f28d68fd-8320-497b-b44b-206f776338d5

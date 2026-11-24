@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Count_tsum_le_prod_of_injOn
 -- name    : GlobalTheory.CompanionTheory.Count.tsum_le_prod_of_injOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:33:51.402686+00:00
 -- url     : https://prove2.me/theorems/47e33a61-239a-4737-9693-a0889eaa257d

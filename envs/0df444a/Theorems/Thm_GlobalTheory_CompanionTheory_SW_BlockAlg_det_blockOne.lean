@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BlockAlg_det_blockOne
 -- name    : GlobalTheory.CompanionTheory.SW.BlockAlg.det_blockOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:02:15.41335+00:00
 -- url     : https://prove2.me/theorems/4437eaaa-eba2-4315-bcf0-719dbb7c0439

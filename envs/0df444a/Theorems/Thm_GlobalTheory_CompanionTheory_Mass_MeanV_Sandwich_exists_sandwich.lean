@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Mass_MeanV_Sandwich_exists_sandwich
 -- name    : GlobalTheory.CompanionTheory.Mass.MeanV.Sandwich.exists_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:52:29.905616+00:00
 -- url     : https://prove2.me/theorems/23f5ff82-b116-4116-8bce-06685cae4b42

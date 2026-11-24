@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MatrixLie_hasDerivAt_exp_mul_exp
 -- name    : GlobalTheory.CompanionTheory.MatrixLie.hasDerivAt_exp_mul_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:53:09.884831+00:00
 -- url     : https://prove2.me/theorems/06e984e6-8ea6-43f4-a73f-752910f3b25e

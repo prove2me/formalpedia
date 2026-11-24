@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LocalDens_mem_sol
 -- name    : GlobalTheory.CompanionTheory.LocalDens.mem_sol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:52:16.530809+00:00
 -- url     : https://prove2.me/theorems/85129388-cda9-4b88-89ea-fbecf3b8e648

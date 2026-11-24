@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GramEmpty_fibre_eq_dirac_of_unique
 -- name    : GlobalTheory.CompanionTheory.SW.GramEmpty.fibre_eq_dirac_of_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:05:44.877292+00:00
 -- url     : https://prove2.me/theorems/ef48f541-3de8-4fef-aa88-54788cdc616f

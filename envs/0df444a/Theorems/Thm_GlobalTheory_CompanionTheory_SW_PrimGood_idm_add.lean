@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_PrimGood_idm_add
 -- name    : GlobalTheory.CompanionTheory.SW.PrimGood.idm_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:07:46.433369+00:00
 -- url     : https://prove2.me/theorems/bd9e7522-01e3-4f9e-811f-107d6aff4084

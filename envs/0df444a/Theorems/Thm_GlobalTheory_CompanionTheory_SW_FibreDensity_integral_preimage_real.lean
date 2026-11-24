@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FibreDensity_integral_preimage_real
 -- name    : GlobalTheory.CompanionTheory.SW.FibreDensity.integral_preimage_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:03:58.782154+00:00
 -- url     : https://prove2.me/theorems/417d6f08-961f-4098-89ef-ff822a3266d4

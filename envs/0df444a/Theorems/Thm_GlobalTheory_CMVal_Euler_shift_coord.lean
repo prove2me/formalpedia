@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_shift_coord
 -- name    : GlobalTheory.CMVal.Euler.shift_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:19:13.928921+00:00
 -- url     : https://prove2.me/theorems/e1f54534-a6ac-4cd5-a5e5-d853cfcc43c5

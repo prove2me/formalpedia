@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_thetaFil
 -- name    : Formalism.REAL.thetaFil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:13:27.571348+00:00
 -- url     : https://prove2.me/theorems/3674c25f-b82f-408e-b8d4-2dd5996b0a76

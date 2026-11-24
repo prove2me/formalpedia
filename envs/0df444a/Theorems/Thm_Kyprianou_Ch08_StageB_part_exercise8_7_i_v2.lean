@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_part_exercise8_7_i_v2
 -- name    : Kyprianou.Ch08.StageB.part_exercise8_7_i_v2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T11:22:05.876446+00:00
 -- url     : https://prove2.me/theorems/af7546b2-54be-4df1-896f-3b885337ff41

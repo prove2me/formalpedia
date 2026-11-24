@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_antitone_cutoff_profile
 -- name    : Formalism.REAL.antitone_cutoff_profile
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:16:43.175231+00:00
 -- url     : https://prove2.me/theorems/472f9de8-57f8-4821-b021-e52dc0f256d5

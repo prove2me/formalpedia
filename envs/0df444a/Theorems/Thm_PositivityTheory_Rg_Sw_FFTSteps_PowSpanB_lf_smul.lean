@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_PowSpanB_lf_smul
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.PowSpanB.lf_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:11:29.524119+00:00
 -- url     : https://prove2.me/theorems/b94de33e-1c30-4aa6-babd-b8bb70098d72

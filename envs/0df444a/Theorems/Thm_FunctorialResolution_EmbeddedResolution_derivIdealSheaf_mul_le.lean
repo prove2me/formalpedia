@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_derivIdealSheaf_mul_le
 -- name    : FunctorialResolution.EmbeddedResolution.derivIdealSheaf_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:59:21.539047+00:00
 -- url     : https://prove2.me/theorems/21dbc65b-f1d4-401b-adb2-d8daea7bed31

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Averaging_lintegral_sum_cosets_eq
 -- name    : GlobalTheory.CompanionTheory.SW.Averaging.lintegral_sum_cosets_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:01:15.565888+00:00
 -- url     : https://prove2.me/theorems/0a3a2fc4-1c10-433a-9252-83c341aaea9e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisLevi_piP_mem_kGL
 -- name    : GlobalTheory.CompanionTheory.RgEisLevi.piP_mem_kGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:58:13.344646+00:00
 -- url     : https://prove2.me/theorems/dec2ad69-c213-455e-967b-4c2fe7bfaf7e

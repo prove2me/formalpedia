@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_c_inv_pow_mem
 -- name    : Formalism.L2.DIV.c_inv_pow_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:22:27.798808+00:00
 -- url     : https://prove2.me/theorems/81b0e4db-0506-4f4b-a46f-4d50d4767968

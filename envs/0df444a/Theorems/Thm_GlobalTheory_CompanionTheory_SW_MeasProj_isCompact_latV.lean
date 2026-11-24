@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_MeasProj_isCompact_latV
 -- name    : GlobalTheory.CompanionTheory.SW.MeasProj.isCompact_latV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:09:13.755726+00:00
 -- url     : https://prove2.me/theorems/fd635877-fc4c-46e1-8cb7-e9942caa3e2a

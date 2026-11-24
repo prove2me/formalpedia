@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GaussFou_neg_inv_im_pos
 -- name    : GlobalTheory.CompanionTheory.SW.GaussFou.neg_inv_im_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:05:26.81479+00:00
 -- url     : https://prove2.me/theorems/1fb64c86-f16f-4bad-b272-ff7704c9db97

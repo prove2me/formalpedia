@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChowHt_IsChowFormInt_zero_iff_of_isAlgClosed
 -- name    : GlobalTheory.ChowHt.IsChowFormInt.zero_iff_of_isAlgClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:14:39.757696+00:00
 -- url     : https://prove2.me/theorems/7ab8b69e-ea87-44b9-ae99-fec44dec116b

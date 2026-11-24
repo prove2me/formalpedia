@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_AsmA_eval_sub
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.AsmA.eval_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:10:36.138171+00:00
 -- url     : https://prove2.me/theorems/9de770ef-8684-4d02-9353-b14f99dfc3bb

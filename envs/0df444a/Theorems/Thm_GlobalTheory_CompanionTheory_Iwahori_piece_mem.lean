@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Iwahori_piece_mem
 -- name    : GlobalTheory.CompanionTheory.Iwahori.piece_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:49:13.134409+00:00
 -- url     : https://prove2.me/theorems/0f0b6cf1-4c3e-4fa9-93f2-42e60b07a685

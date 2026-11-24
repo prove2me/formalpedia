@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgFl_MaxLat_norm_herm_le_delta
 -- name    : GlobalTheory.CompanionTheory.RgFl.MaxLat.norm_herm_le_delta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:59:38.898726+00:00
 -- url     : https://prove2.me/theorems/cb6facbf-2d05-4b1b-a4f2-847fc638c3fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GramLocal_adele_ext
 -- name    : GlobalTheory.CompanionTheory.SW.GramLocal.adele_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:05:15.883899+00:00
 -- url     : https://prove2.me/theorems/fb98597c-d916-4928-aae8-a2c5023edd05

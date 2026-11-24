@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualGenus_mem_semiLoc_iff
 -- name    : GlobalTheory.SelfDualGenus.mem_semiLoc_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:09:09.18431+00:00
 -- url     : https://prove2.me/theorems/c5bb0a5d-eeb7-4ea2-8dcb-a5f2a275c585

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AugCot_nonempty_basis_of_locally
 -- name    : GlobalTheory.AugCot.nonempty_basis_of_locally
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:45:10.514899+00:00
 -- url     : https://prove2.me/theorems/53519559-3017-4e96-b46f-cba636829d46

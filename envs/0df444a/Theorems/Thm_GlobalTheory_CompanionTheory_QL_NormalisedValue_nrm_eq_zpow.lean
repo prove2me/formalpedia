@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_NormalisedValue_nrm_eq_zpow
 -- name    : GlobalTheory.CompanionTheory.QL.NormalisedValue.nrm_eq_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:07:51.468368+00:00
 -- url     : https://prove2.me/theorems/f0da8958-210e-45f1-8dba-4dbc6bfe351c

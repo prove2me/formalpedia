@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_b_mul_mem_map
 -- name    : Formalism.L2.DIV.b_mul_mem_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:23:17.5168+00:00
 -- url     : https://prove2.me/theorems/ecf78893-409f-495e-907f-12279959d358

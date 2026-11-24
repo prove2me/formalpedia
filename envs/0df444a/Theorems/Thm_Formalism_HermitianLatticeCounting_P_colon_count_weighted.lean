@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_colon_count_weighted
 -- name    : Formalism.HermitianLatticeCounting.P.colon_count_weighted
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:43.539939+00:00
 -- url     : https://prove2.me/theorems/bbaf3e78-de69-4c04-9b68-8fd753fcee12

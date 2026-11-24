@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Iwasawa_torusPow_mem_borel
 -- name    : GroundTheory.Automorphic.Iwasawa.torusPow_mem_borel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:18:33.882862+00:00
 -- url     : https://prove2.me/theorems/9659d01d-79b4-4390-9c10-011f6a7d4b4f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinHeis_Sys_rho_rho_neg
 -- name    : GlobalTheory.CompanionTheory.FinHeis.Sys.rho_rho_neg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:24:53.523969+00:00
 -- url     : https://prove2.me/theorems/222934e6-4f11-4b60-8dcc-dd373b436b6d

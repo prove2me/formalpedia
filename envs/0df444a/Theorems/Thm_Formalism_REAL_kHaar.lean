@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_kHaar
 -- name    : Formalism.REAL.kHaar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:13:59.960815+00:00
 -- url     : https://prove2.me/theorems/12b83fdf-0508-4eaf-942f-d9fe98aa7d8b

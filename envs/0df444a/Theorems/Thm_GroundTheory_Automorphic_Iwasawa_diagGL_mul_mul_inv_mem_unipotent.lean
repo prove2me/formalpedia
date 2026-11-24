@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Iwasawa_diagGL_mul_mul_inv_mem_unipotent
 -- name    : GroundTheory.Automorphic.Iwasawa.diagGL_mul_mul_inv_mem_unipotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:13:18.547726+00:00
 -- url     : https://prove2.me/theorems/acc12761-986f-49f0-a2f5-151609e77245

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Geo_Def_PN_latS_of_prod
 -- name    : Formalism.L2.Geo.Def.PN.latS_of_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:49:16.582801+00:00
 -- url     : https://prove2.me/theorems/a603d6f2-de2f-4d5e-acae-c8c829cfd0de

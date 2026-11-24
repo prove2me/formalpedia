@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SA_Final_boxSum
 -- name    : Formalism.SA.Final.boxSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:28:10.494934+00:00
 -- url     : https://prove2.me/theorems/11ecc1d0-7dcd-4c8f-b218-ac699933f1fe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LenFib_qR_of_gram
 -- name    : GlobalTheory.CompanionTheory.SW.LenFib.qR_of_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:07:24.748279+00:00
 -- url     : https://prove2.me/theorems/4e357c0f-a039-4f99-b0d2-93475cb781da

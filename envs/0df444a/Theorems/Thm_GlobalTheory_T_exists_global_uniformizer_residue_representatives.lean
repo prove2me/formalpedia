@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_global_uniformizer_residue_representatives
 -- name    : GlobalTheory.T.exists_global_uniformizer_residue_representatives
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:26:45.446159+00:00
 -- url     : https://prove2.me/theorems/b7f0f157-0c5b-4f62-b970-73091acf1e5f

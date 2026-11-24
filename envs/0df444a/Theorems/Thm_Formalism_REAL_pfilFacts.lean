@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_pfilFacts
 -- name    : Formalism.REAL.pfilFacts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:14:10.54581+00:00
 -- url     : https://prove2.me/theorems/11e67895-2b5f-4646-bb89-c67951b2973f

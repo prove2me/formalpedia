@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GramWedge_mulI_of_detMono
 -- name    : GlobalTheory.CompanionTheory.GramWedge.mulI_of_detMono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:43:44.477457+00:00
 -- url     : https://prove2.me/theorems/d56dee31-c011-4504-a352-3514b13e5ec6

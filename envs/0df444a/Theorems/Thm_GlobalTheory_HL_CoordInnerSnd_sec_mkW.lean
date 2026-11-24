@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CoordInnerSnd_sec_mkW
 -- name    : GlobalTheory.HL.CoordInnerSnd.sec_mkW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:17:52.040816+00:00
 -- url     : https://prove2.me/theorems/699a3131-2d80-4567-8bc8-137d0fff5759

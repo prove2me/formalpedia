@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HaarTransport_map_addEquiv_haar
 -- name    : GlobalTheory.CompanionTheory.SW.HaarTransport.map_addEquiv_haar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:06:55.280189+00:00
 -- url     : https://prove2.me/theorems/7abbb9fe-1387-4d8c-b183-ec635f8941df

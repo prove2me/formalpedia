@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_CharDensity_integrable_ker_shift
 -- name    : GlobalTheory.CompanionTheory.SW.CharDensity.integrable_ker_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:02:14.503059+00:00
 -- url     : https://prove2.me/theorems/567e672f-bae8-4b6b-ac04-b637cc6997dc

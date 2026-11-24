@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FTransfer_borelSpace_HA
 -- name    : GlobalTheory.CompanionTheory.SW.FTransfer.borelSpace_HA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:03:56.18538+00:00
 -- url     : https://prove2.me/theorems/5dd32a59-4481-4d33-9158-3b56780b1706

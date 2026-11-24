@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isDerivBalanced_iff
 -- name    : FunctorialResolution.EmbeddedResolution.isDerivBalanced_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:16:06.541612+00:00
 -- url     : https://prove2.me/theorems/b385d714-e1b0-4fbb-b34e-28eb555ce844

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_QuadricUnit_char_sum
 -- name    : GlobalTheory.CompanionTheory.SW.QuadricUnit.char_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:07:55.797412+00:00
 -- url     : https://prove2.me/theorems/426e3771-a3c5-4135-8625-abb5b0c84a16

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_smoothOnG_exists_contDiff_extension
 -- name    : GlobalTheory.smoothOnG_exists_contDiff_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:11:32.083385+00:00
 -- url     : https://prove2.me/theorems/8859be11-da3b-49e4-bca6-a92bc14c97be

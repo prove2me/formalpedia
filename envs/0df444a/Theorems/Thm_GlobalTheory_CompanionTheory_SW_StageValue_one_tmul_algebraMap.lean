@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_StageValue_one_tmul_algebraMap
 -- name    : GlobalTheory.CompanionTheory.SW.StageValue.one_tmul_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:11:28.988274+00:00
 -- url     : https://prove2.me/theorems/876b1708-dd7f-4d56-9ed1-58495d133450

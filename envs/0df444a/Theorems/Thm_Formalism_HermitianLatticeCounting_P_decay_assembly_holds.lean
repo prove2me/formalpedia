@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_decay_assembly_holds
 -- name    : Formalism.HermitianLatticeCounting.P.decay_assembly_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:27:52.729831+00:00
 -- url     : https://prove2.me/theorems/f7af76bc-767d-4dbf-9828-88600ee5d5d2

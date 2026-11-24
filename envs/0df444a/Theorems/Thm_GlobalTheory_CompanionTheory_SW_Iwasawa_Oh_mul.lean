@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Iwasawa_Oh_mul
 -- name    : GlobalTheory.CompanionTheory.SW.Iwasawa.Oh_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:06:35.427834+00:00
 -- url     : https://prove2.me/theorems/a0d45603-f96b-4a09-abf0-5a8b45bebde4

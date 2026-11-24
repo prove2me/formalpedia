@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_OrthMeas_map_eq_self
 -- name    : GlobalTheory.CompanionTheory.SW.Core.OrthMeas.map_eq_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:04:05.539793+00:00
 -- url     : https://prove2.me/theorems/05ac9528-3aa7-47bf-985a-7d4a4e635c45

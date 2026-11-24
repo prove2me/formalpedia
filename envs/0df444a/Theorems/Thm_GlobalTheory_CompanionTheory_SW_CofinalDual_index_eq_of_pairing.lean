@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_CofinalDual_index_eq_of_pairing
 -- name    : GlobalTheory.CompanionTheory.SW.CofinalDual.index_eq_of_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:02:26.032731+00:00
 -- url     : https://prove2.me/theorems/77d7bb96-d312-4620-9f90-0906977e050e

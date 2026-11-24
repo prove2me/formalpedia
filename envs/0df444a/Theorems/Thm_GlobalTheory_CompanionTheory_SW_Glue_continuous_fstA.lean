@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Glue_continuous_fstA
 -- name    : GlobalTheory.CompanionTheory.SW.Glue.continuous_fstA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:04:55.473179+00:00
 -- url     : https://prove2.me/theorems/56f89e0c-8708-4794-8a00-07eb57cf507d

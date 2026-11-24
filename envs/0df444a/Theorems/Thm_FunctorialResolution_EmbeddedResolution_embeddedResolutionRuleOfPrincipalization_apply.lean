@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_embeddedResolutionRuleOfPrincipalization_apply
 -- name    : FunctorialResolution.EmbeddedResolution.embeddedResolutionRuleOfPrincipalization_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:14:54.066268+00:00
 -- url     : https://prove2.me/theorems/10ea93f8-9fbd-4328-b904-4895ba5297b9

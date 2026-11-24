@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_AdBridge_bc_inclR_mem_HR
 -- name    : Formalism.L2.SG.AdBridge.bc_inclR_mem_HR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:56:52.351696+00:00
 -- url     : https://prove2.me/theorems/d014dd61-5e91-4405-8dc3-d3f188ada0b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FTransfer_actTup_mul
 -- name    : GlobalTheory.CompanionTheory.SW.FTransfer.actTup_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:03:45.065654+00:00
 -- url     : https://prove2.me/theorems/30b04100-7da2-45f5-be9d-869d4f2c4b72

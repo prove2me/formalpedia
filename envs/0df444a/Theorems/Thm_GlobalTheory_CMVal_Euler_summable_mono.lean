@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_summable_mono
 -- name    : GlobalTheory.CMVal.Euler.summable_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:19:10.575798+00:00
 -- url     : https://prove2.me/theorems/b80377e2-33f3-4999-8bbd-779520772ca8

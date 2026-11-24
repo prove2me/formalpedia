@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HadamardInequality_P_tr_succMin_nonneg
 -- name    : Formalism.HadamardInequality.P.tr_succMin_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:11:09.318922+00:00
 -- url     : https://prove2.me/theorems/3edd7bbe-4006-4d84-a6da-95aabcf12921

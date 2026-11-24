@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_PrimInf_exists_basis
 -- name    : GlobalTheory.CompanionTheory.SW.PrimInf.exists_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:08:26.397798+00:00
 -- url     : https://prove2.me/theorems/866e90b5-9d30-422b-86f0-5a20fc9dec67

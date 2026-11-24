@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_topologicalKrullDim_primeSpectrum_lt_top
 -- name    : FunctorialResolution.EmbeddedResolution.topologicalKrullDim_primeSpectrum_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:04:43.579565+00:00
 -- url     : https://prove2.me/theorems/5449fd8d-1528-42a7-ac57-624c96158e83

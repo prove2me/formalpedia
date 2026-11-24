@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QPK_haar_measure_uniqueness
 -- name    : QPK.haar_measure_uniqueness
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:55:27.363793+00:00
 -- url     : https://prove2.me/theorems/174a0c51-cf27-4fba-8928-88ebc8552e29

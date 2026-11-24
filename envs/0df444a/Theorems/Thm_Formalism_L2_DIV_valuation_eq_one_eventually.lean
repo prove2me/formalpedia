@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_valuation_eq_one_eventually
 -- name    : Formalism.L2.DIV.valuation_eq_one_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:25:31.090973+00:00
 -- url     : https://prove2.me/theorems/9bdf5902-cb81-4bc2-a147-9c0fbe9e97d8

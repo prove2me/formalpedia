@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_RingDiag_det_cT
 -- name    : GlobalTheory.CompanionTheory.SW.RingDiag.det_cT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:10:05.365682+00:00
 -- url     : https://prove2.me/theorems/81921788-e877-4a16-9f6b-2e154c4badc2

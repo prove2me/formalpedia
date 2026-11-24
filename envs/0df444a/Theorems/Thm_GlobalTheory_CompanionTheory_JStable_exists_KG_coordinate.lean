@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_JStable_exists_KG_coordinate
 -- name    : GlobalTheory.CompanionTheory.JStable.exists_KG_coordinate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:58:59.336193+00:00
 -- url     : https://prove2.me/theorems/5ac16cac-1ae5-4e45-953d-dd987182ffe4

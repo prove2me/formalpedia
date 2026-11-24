@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_ideal_comap_toSpec_chart_eq_span
 -- name    : FunctorialResolution.Blowup.ideal_comap_toSpec_chart_eq_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:53:29.573186+00:00
 -- url     : https://prove2.me/theorems/b3f1d13e-4f5a-4432-88a9-a461e7aeddb3

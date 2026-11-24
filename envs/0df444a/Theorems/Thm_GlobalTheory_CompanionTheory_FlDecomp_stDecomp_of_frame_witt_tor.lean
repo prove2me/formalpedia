@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FlDecomp_stDecomp_of_frame_witt_tor
 -- name    : GlobalTheory.CompanionTheory.FlDecomp.stDecomp_of_frame_witt_tor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:41:19.922612+00:00
 -- url     : https://prove2.me/theorems/2a7f533b-18f0-4bce-a344-f408fd082223

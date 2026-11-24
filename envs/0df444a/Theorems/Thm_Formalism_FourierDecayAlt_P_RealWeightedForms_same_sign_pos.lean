@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RealWeightedForms_same_sign_pos
 -- name    : Formalism.FourierDecayAlt.P.RealWeightedForms.same_sign_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:18:51.503837+00:00
 -- url     : https://prove2.me/theorems/f848e76c-8100-4503-bdb8-563cad9b1b6d

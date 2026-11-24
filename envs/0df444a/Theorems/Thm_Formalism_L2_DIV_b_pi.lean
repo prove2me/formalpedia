@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_b_pi
 -- name    : Formalism.L2.DIV.b_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:22:41.052408+00:00
 -- url     : https://prove2.me/theorems/a611eeee-0ff5-45cc-9631-27edaeb74f55

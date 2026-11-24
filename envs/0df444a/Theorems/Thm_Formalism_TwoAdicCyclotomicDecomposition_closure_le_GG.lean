@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_closure_le_GG
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.closure_le_GG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:59:55.531797+00:00
 -- url     : https://prove2.me/theorems/bbf1a3a1-8509-4e4a-8c38-a2dfecae04bf

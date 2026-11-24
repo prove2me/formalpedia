@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_AdBridge_ofHAInf_mem
 -- name    : Formalism.L2.SG.AdBridge.ofHAInf_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:40:13.486633+00:00
 -- url     : https://prove2.me/theorems/2b8d2684-cd56-4e74-bbd6-0d31cd3f6939

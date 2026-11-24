@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_p0auxiliary_cpart1_I
 -- name    : Formalism.REAL.p0auxiliary_cpart1_I
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:55:35.739496+00:00
 -- url     : https://prove2.me/theorems/84d434db-a032-4357-8c7e-2e8a037f436b

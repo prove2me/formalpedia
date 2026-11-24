@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LatSum_norm_lower
 -- name    : GlobalTheory.CompanionTheory.SW.LatSum.norm_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:06:58.118406+00:00
 -- url     : https://prove2.me/theorems/e576504f-a371-4432-a135-33eb29368ddb

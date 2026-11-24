@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HypSplit_sigma_invol
 -- name    : GlobalTheory.CompanionTheory.SW.HypSplit.sigma_invol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:06:51.412832+00:00
 -- url     : https://prove2.me/theorems/201016f5-4678-46b2-a005-d693bf63d5a9

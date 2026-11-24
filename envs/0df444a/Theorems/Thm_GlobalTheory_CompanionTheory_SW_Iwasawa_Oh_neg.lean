@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Iwasawa_Oh_neg
 -- name    : GlobalTheory.CompanionTheory.SW.Iwasawa.Oh_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:06:49.056472+00:00
 -- url     : https://prove2.me/theorems/9d4bdda3-ed0c-4728-9c6d-db2a2fa06683

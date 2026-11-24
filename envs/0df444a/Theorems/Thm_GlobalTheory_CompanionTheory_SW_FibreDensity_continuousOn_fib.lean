@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FibreDensity_continuousOn_fib
 -- name    : GlobalTheory.CompanionTheory.SW.FibreDensity.continuousOn_fib
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:24:11.02653+00:00
 -- url     : https://prove2.me/theorems/1a4f0853-0392-4462-8646-7fd6373b5f0d

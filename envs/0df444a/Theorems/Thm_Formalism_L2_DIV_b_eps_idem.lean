@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_b_eps_idem
 -- name    : Formalism.L2.DIV.b_eps_idem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:22:32.952091+00:00
 -- url     : https://prove2.me/theorems/e28c6b53-c9b5-4ae8-b1ee-7d4a52dac2bc

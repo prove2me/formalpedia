@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_euclNorm_nonneg
 -- name    : Formalism.HermitianLatticeCounting.P.euclNorm_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:28:19.356204+00:00
 -- url     : https://prove2.me/theorems/ec95fc95-4e6b-44e2-a4dc-243777c39dd0

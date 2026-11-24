@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_omSymSlice
 -- name    : Formalism.REAL.omSymSlice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:14:03.680863+00:00
 -- url     : https://prove2.me/theorems/206044f9-b49f-470a-8f86-90d9f7277c18

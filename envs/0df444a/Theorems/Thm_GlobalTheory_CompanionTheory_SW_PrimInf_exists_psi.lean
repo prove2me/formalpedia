@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_PrimInf_exists_psi
 -- name    : GlobalTheory.CompanionTheory.SW.PrimInf.exists_psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:07:40.610228+00:00
 -- url     : https://prove2.me/theorems/893494c4-7339-41e1-ba03-5e322f11071c

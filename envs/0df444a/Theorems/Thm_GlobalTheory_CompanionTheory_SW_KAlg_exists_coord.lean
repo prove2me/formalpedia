@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_KAlg_exists_coord
 -- name    : GlobalTheory.CompanionTheory.SW.KAlg.exists_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:06:24.907409+00:00
 -- url     : https://prove2.me/theorems/828e0b4d-0f86-4384-977c-0bfc9fe342cf

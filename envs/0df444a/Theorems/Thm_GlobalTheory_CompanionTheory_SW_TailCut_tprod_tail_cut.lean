@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_TailCut_tprod_tail_cut
 -- name    : GlobalTheory.CompanionTheory.SW.TailCut.tprod_tail_cut
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:11:47.542926+00:00
 -- url     : https://prove2.me/theorems/eb131036-84e4-45fb-b0ed-6be2cea45e07

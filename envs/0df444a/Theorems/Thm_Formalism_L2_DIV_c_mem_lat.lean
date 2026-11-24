@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_c_mem_lat
 -- name    : Formalism.L2.DIV.c_mem_lat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:21:57.092021+00:00
 -- url     : https://prove2.me/theorems/efc547fa-28d0-4c3c-a1b6-76d0472c5fa0

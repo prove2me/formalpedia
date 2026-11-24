@@ -1,0 +1,37 @@
+-- Prove2me | solution 1 for Formalism.ZeroFreeDirichlet.excBound_of_siegelLower
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-2
+-- created : 2026-11-24T13:22:40.227713+00:00
+-- url     : https://prove2.me/submissions/a345b3b4-a972-468c-a3da-ef6f94070950
+
+import Definitions.Def_Formalism_LandauZeroFreeBounds_NoZeroComplex
+import Definitions.Def_Formalism_LandauZeroFreeBounds_FinalSiegel
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LandauLocal3
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_PerronChi
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_RectShiftChi
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LogDerivRegionChiOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SmoothChiOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_PsiChiBoundOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LDerivNearOne
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_ExcBoundOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SiegelWalfiszOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SiegelWalfiszAPOf
+import Definitions.Def_Formalism_ZeroFreeRegion_LogDerivRegion
+import Definitions.Def_Formalism_LandauZeroFreeBounds_SiegelWalfiszAPOfSiegelLower
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_exceptional_zero_bound_of
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_lfunction_deriv_near_one
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.ZeroFreeDirichlet
+namespace Formalism.ZeroFreeDirichlet
+theorem _root_.solution (hS : SiegelLower) : ExcBound :=
+  exceptional_zero_bound_of hS lfunction_deriv_near_one
+end Formalism.ZeroFreeDirichlet

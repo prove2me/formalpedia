@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HaarCoord_haar_comap
 -- name    : GlobalTheory.CompanionTheory.SW.HaarCoord.haar_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:05:31.155979+00:00
 -- url     : https://prove2.me/theorems/e998679e-46a4-40a5-8437-712a0149e816

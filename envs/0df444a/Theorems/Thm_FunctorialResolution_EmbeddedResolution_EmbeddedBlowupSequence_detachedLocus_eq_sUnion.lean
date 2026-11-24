@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EmbeddedBlowupSequence_detachedLocus_eq_sUnion
 -- name    : FunctorialResolution.EmbeddedResolution.EmbeddedBlowupSequence.detachedLocus_eq_sUnion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:16:04.445446+00:00
 -- url     : https://prove2.me/theorems/a5c22669-775c-4895-8a9a-ed6c2175cdf1

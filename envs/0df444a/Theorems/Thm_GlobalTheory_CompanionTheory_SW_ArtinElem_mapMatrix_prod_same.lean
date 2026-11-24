@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ArtinElem_mapMatrix_prod_same
 -- name    : GlobalTheory.CompanionTheory.SW.ArtinElem.mapMatrix_prod_same
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:01:26.573635+00:00
 -- url     : https://prove2.me/theorems/f3912007-b44e-48a2-96cd-44ce9cc161b5

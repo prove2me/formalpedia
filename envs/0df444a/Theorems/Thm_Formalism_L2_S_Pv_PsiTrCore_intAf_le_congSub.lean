@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_PsiTrCore_intAf_le_congSub
 -- name    : Formalism.L2.S.Pv.PsiTrCore.intAf_le_congSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:57:17.256797+00:00
 -- url     : https://prove2.me/theorems/8ad5a16e-2cb2-4e0b-b1fb-41bd5765193e

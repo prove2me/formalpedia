@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_SizeScale_coord_le_size
 -- name    : GlobalTheory.CompanionTheory.SW.SizeScale.coord_le_size
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:10:42.06213+00:00
 -- url     : https://prove2.me/theorems/25807e6a-854a-4c70-8f99-e7cd77c7d9c6

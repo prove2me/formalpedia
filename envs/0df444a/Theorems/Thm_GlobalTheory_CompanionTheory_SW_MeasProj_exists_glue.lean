@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_MeasProj_exists_glue
 -- name    : GlobalTheory.CompanionTheory.SW.MeasProj.exists_glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:07:58.517799+00:00
 -- url     : https://prove2.me/theorems/554a97a6-0808-47cb-974a-bcac7fb45679

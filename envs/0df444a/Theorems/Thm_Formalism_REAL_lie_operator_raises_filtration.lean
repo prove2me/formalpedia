@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_lie_operator_raises_filtration
 -- name    : Formalism.REAL.lie_operator_raises_filtration
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:13:48.335689+00:00
 -- url     : https://prove2.me/theorems/abfbaf8b-d14d-451d-a67c-4b75f7630de7

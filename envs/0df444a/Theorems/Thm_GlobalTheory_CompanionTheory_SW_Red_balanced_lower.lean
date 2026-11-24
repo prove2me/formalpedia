@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Red_balanced_lower
 -- name    : GlobalTheory.CompanionTheory.SW.Red.balanced_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:08:37.30282+00:00
 -- url     : https://prove2.me/theorems/c459d762-8fc6-4a13-b9b6-552f07262cfc

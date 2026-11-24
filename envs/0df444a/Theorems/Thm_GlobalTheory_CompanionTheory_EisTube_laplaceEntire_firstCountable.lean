@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_EisTube_laplaceEntire_firstCountable
 -- name    : GlobalTheory.CompanionTheory.EisTube.laplaceEntire_firstCountable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:36:42.972801+00:00
 -- url     : https://prove2.me/theorems/166e57ef-28c7-4376-8fb0-ea4e88318ad6

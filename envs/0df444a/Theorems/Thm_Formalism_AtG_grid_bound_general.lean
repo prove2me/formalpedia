@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_AtG_grid_bound_general
 -- name    : Formalism.AtG.grid_bound_general
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:42:49.115591+00:00
 -- url     : https://prove2.me/theorems/836c459a-f8a8-4ff5-b185-f318435ec8b6

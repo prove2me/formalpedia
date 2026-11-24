@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_model_chain
 -- name    : Formalism.FourierDecayAlt.P.model_chain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:48:15.652613+00:00
 -- url     : https://prove2.me/theorems/8ce3d722-6375-46fa-8499-4a8b9ed360ce

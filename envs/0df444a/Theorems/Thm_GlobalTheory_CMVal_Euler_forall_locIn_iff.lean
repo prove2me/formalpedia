@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_forall_locIn_iff
 -- name    : GlobalTheory.CMVal.Euler.forall_locIn_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:18:58.963518+00:00
 -- url     : https://prove2.me/theorems/919168b9-4436-4601-adc0-e8579baa87d2

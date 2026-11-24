@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_b_plc_ne_zero
 -- name    : Formalism.L2.DIV.b_plc_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:21:55.487386+00:00
 -- url     : https://prove2.me/theorems/96b6f238-e94f-4864-8114-51811b714789

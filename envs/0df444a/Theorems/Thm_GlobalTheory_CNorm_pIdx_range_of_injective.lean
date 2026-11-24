@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_pIdx_range_of_injective
 -- name    : GlobalTheory.CNorm.pIdx_range_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:26:47.411651+00:00
 -- url     : https://prove2.me/theorems/d4ad9a35-34a6-477b-a685-3c14eaa4b7b2

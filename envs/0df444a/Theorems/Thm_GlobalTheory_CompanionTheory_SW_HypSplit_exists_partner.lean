@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HypSplit_exists_partner
 -- name    : GlobalTheory.CompanionTheory.SW.HypSplit.exists_partner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:06:59.617552+00:00
 -- url     : https://prove2.me/theorems/6aa9afe7-d020-4c9d-a2af-ce3728108c68

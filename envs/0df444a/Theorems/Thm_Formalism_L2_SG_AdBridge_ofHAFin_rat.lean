@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_AdBridge_ofHAFin_rat
 -- name    : Formalism.L2.SG.AdBridge.ofHAFin_rat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:42:37.363247+00:00
 -- url     : https://prove2.me/theorems/219e08c2-dd38-431c-b54c-d73123b0b9d9

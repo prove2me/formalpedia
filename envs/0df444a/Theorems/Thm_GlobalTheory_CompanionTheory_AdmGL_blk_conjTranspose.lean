@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AdmGL_blk_conjTranspose
 -- name    : GlobalTheory.CompanionTheory.AdmGL.blk_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:05:52.774805+00:00
 -- url     : https://prove2.me/theorems/90c8a73a-d3db-43f3-988e-ecc67ce0c982

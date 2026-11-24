@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_MeasProj_continuous_evalV
 -- name    : GlobalTheory.CompanionTheory.SW.MeasProj.continuous_evalV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:06:55.577869+00:00
 -- url     : https://prove2.me/theorems/d408ef77-c99b-45e5-a47d-a8806b3fd8db

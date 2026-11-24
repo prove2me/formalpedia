@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QPK_measurable_conj
 -- name    : QPK.measurable_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:16:28.051583+00:00
 -- url     : https://prove2.me/theorems/2731bd09-9a70-4e08-9502-7d7408f57ea4

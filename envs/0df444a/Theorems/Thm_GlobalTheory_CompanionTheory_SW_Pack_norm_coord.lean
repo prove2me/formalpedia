@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Pack_norm_coord
 -- name    : GlobalTheory.CompanionTheory.SW.Pack.norm_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:08:46.052034+00:00
 -- url     : https://prove2.me/theorems/b00b5d2b-98ab-4a4b-95d3-747c34c7037a

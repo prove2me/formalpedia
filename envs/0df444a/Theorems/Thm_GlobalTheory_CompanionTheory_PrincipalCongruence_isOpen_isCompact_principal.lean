@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PrincipalCongruence_isOpen_isCompact_principal
 -- name    : GlobalTheory.CompanionTheory.PrincipalCongruence.isOpen_isCompact_principal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:41:28.972548+00:00
 -- url     : https://prove2.me/theorems/27b2687f-1a56-4450-9aa6-5c2f1b222a12

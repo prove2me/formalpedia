@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_degree_one_places
 -- name    : Formalism.L2.DIV.degree_one_places
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:22:20.473811+00:00
 -- url     : https://prove2.me/theorems/d67e39a9-bc80-4a94-8a7b-cafa4ae94056

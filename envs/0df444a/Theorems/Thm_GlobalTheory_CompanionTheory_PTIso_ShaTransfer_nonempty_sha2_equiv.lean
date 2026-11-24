@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PTIso_ShaTransfer_nonempty_sha2_equiv
 -- name    : GlobalTheory.CompanionTheory.PTIso.ShaTransfer.nonempty_sha2_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:54:26.822811+00:00
 -- url     : https://prove2.me/theorems/444513ea-4b08-4c01-92dc-95d11c1cf796

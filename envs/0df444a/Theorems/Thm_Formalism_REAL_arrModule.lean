@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_arrModule
 -- name    : Formalism.REAL.arrModule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:14:49.736541+00:00
 -- url     : https://prove2.me/theorems/62523871-a57e-4923-bac3-715c6f716583

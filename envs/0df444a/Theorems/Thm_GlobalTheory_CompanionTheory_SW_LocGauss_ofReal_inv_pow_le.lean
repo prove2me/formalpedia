@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LocGauss_ofReal_inv_pow_le
 -- name    : GlobalTheory.CompanionTheory.SW.LocGauss.ofReal_inv_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:07:38.773787+00:00
 -- url     : https://prove2.me/theorems/6518581a-6110-40eb-b4da-38381c5c3990

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeMul_isHk_hconv
 -- name    : GlobalTheory.CompanionTheory.HeckeMul.isHk_hconv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:41:24.754908+00:00
 -- url     : https://prove2.me/theorems/72e28dc3-0ac4-4647-a6f8-87e718447679

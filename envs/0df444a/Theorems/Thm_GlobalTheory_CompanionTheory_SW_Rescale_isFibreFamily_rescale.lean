@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Rescale_isFibreFamily_rescale
 -- name    : GlobalTheory.CompanionTheory.SW.Rescale.isFibreFamily_rescale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:08:34.678948+00:00
 -- url     : https://prove2.me/theorems/ee2e223c-5990-4e89-8d3d-e463cd42716b

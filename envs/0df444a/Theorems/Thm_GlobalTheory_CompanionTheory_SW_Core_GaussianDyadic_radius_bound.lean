@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_GaussianDyadic_radius_bound
 -- name    : GlobalTheory.CompanionTheory.SW.Core.GaussianDyadic.radius_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:03:11.254442+00:00
 -- url     : https://prove2.me/theorems/090c2ffd-57b5-495d-9882-b41e909bba0d

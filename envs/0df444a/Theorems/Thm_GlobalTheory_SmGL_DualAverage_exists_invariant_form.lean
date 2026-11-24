@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_DualAverage_exists_invariant_form
 -- name    : GlobalTheory.SmGL.DualAverage.exists_invariant_form
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:43:57.434806+00:00
 -- url     : https://prove2.me/theorems/035d6c8b-b3ea-4637-b6b9-4afb06479dae

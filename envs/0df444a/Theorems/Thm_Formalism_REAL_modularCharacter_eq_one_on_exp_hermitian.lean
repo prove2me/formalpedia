@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_modularCharacter_eq_one_on_exp_hermitian
 -- name    : Formalism.REAL.modularCharacter_eq_one_on_exp_hermitian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:23:54.11653+00:00
 -- url     : https://prove2.me/theorems/694cc84b-983c-45ec-9e3d-51c39675c78b

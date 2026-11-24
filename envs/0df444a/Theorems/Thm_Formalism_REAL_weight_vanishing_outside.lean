@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_weight_vanishing_outside
 -- name    : Formalism.REAL.weight_vanishing_outside
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:13:37.513802+00:00
 -- url     : https://prove2.me/theorems/42cc6154-eebf-47cb-9662-3eec43323909

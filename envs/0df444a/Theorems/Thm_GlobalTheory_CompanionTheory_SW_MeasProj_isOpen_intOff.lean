@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_MeasProj_isOpen_intOff
 -- name    : GlobalTheory.CompanionTheory.SW.MeasProj.isOpen_intOff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:09:20.829836+00:00
 -- url     : https://prove2.me/theorems/0094a63b-301a-45ca-931d-fd44cd0b321e

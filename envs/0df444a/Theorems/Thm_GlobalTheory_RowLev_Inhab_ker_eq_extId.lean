@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_Inhab_ker_eq_extId
 -- name    : GlobalTheory.RowLev.Inhab.ker_eq_extId
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:38:55.876268+00:00
 -- url     : https://prove2.me/theorems/a25049d3-afba-4717-9176-bee672fe4708

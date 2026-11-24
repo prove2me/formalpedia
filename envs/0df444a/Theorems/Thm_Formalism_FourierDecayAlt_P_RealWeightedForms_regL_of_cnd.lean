@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RealWeightedForms_regL_of_cnd
 -- name    : Formalism.FourierDecayAlt.P.RealWeightedForms.regL_of_cnd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:19:32.575534+00:00
 -- url     : https://prove2.me/theorems/8bb1a85d-f794-442c-b49c-91d20fb39055

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEis_stage
 -- name    : GlobalTheory.CompanionTheory.RgEis.stage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:57:05.546096+00:00
 -- url     : https://prove2.me/theorems/cec7bf0b-63a8-4fa5-a95f-733bae440af0

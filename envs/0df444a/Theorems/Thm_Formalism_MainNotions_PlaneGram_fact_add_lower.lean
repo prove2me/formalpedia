@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_fact_add_lower
 -- name    : Formalism.MainNotions.PlaneGram.fact_add_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:06:19.056377+00:00
 -- url     : https://prove2.me/theorems/fc262edc-9ffb-4099-a335-5af980602f28

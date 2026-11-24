@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DoubleCosetEuler_finsum_pi_prod_eq_prod_finsum
 -- name    : GlobalTheory.DoubleCosetEuler.finsum_pi_prod_eq_prod_finsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:50:14.021484+00:00
 -- url     : https://prove2.me/theorems/f1f71b47-2432-48a6-a1d9-be69e1230a5e

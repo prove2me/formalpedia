@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_isCompact_frobenius_ball_group
 -- name    : Formalism.REAL.isCompact_frobenius_ball_group
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:14:12.285738+00:00
 -- url     : https://prove2.me/theorems/611da488-d463-4dbe-b8eb-739841698d06

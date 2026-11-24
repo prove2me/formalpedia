@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinTypCount_tmul_mem_ALint
 -- name    : GlobalTheory.FinTypCount.tmul_mem_ALint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:24:36.690141+00:00
 -- url     : https://prove2.me/theorems/68293567-9163-4bd4-ad10-11d126c7ec14

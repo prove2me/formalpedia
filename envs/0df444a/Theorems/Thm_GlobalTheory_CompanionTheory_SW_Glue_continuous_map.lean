@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Glue_continuous_map
 -- name    : GlobalTheory.CompanionTheory.SW.Glue.continuous_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:05:25.499192+00:00
 -- url     : https://prove2.me/theorems/40980849-de20-48a9-9fc7-3ed5bc3eec93

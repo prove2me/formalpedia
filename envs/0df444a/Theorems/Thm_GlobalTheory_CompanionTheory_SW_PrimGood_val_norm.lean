@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_PrimGood_val_norm
 -- name    : GlobalTheory.CompanionTheory.SW.PrimGood.val_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:09:06.513106+00:00
 -- url     : https://prove2.me/theorems/0722a7fc-65e1-483c-9572-61ed4ec523b4

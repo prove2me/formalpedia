@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEis_tsum_rep_mul
 -- name    : GlobalTheory.CompanionTheory.RgEis.tsum_rep_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:57:26.882653+00:00
 -- url     : https://prove2.me/theorems/355cc750-6740-40f4-a7e8-59ad544a9ec6

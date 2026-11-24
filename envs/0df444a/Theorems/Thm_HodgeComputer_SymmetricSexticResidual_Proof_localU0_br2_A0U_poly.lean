@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_SymmetricSexticResidual_Proof_localU0_br2_A0U_poly
 -- name    : HodgeComputer.SymmetricSexticResidual.Proof.localU0_br2_A0U_poly
--- status  : Open
+-- status  : Proved
 -- author  : @benediamond
 -- created : 2026-11-24T13:19:35.075096+00:00
 -- url     : https://prove2.me/theorems/cfd6c239-db04-49ee-bce0-b804cca1c114

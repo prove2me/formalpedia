@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LenFib_hermScal_qR
 -- name    : GlobalTheory.CompanionTheory.SW.LenFib.hermScal_qR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:06:38.065815+00:00
 -- url     : https://prove2.me/theorems/96235f74-34a6-4686-894b-8b5434032572

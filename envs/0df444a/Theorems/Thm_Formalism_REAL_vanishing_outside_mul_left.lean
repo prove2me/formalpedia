@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_vanishing_outside_mul_left
 -- name    : Formalism.REAL.vanishing_outside_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:12:41.661259+00:00
 -- url     : https://prove2.me/theorems/877f7362-6f24-4a72-b4c6-e095b53ee151

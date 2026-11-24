@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BB_ginf_gfin_isometry
 -- name    : GlobalTheory.CompanionTheory.SW.BB.ginf_gfin_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:02:21.654613+00:00
 -- url     : https://prove2.me/theorems/79010d85-a338-4261-9cf5-cdf56e184daa

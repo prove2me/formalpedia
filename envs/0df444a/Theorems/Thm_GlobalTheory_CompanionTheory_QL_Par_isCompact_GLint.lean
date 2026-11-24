@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_Par_isCompact_GLint
 -- name    : GlobalTheory.CompanionTheory.QL.Par.isCompact_GLint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:56:19.839555+00:00
 -- url     : https://prove2.me/theorems/bd1a7035-f153-4124-b299-a94d58b35ac8

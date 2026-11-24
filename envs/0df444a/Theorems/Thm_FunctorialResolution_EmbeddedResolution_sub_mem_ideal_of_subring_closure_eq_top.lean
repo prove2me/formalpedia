@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_sub_mem_ideal_of_subring_closure_eq_top
 -- name    : FunctorialResolution.EmbeddedResolution.sub_mem_ideal_of_subring_closure_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:25:05.335219+00:00
 -- url     : https://prove2.me/theorems/16bab9eb-8897-49e7-9296-75f61cfe665f

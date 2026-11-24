@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_OrthMeas_chiB_mulVec_mulVec
 -- name    : GlobalTheory.CompanionTheory.SW.Core.OrthMeas.chiB_mulVec_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:04:26.168836+00:00
 -- url     : https://prove2.me/theorems/d3332ed5-21a1-45a3-9c04-8fb48631349b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DigammaBound_digamma_bound
 -- name    : GlobalTheory.CompanionTheory.DigammaBound.digamma_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:35:11.124251+00:00
 -- url     : https://prove2.me/theorems/0e9ed193-6e12-4e4c-84c1-e221e6d270aa

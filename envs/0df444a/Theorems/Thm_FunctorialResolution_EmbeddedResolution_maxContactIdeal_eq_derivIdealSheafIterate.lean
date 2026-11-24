@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_maxContactIdeal_eq_derivIdealSheafIterate
 -- name    : FunctorialResolution.EmbeddedResolution.maxContactIdeal_eq_derivIdealSheafIterate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:16:02.022554+00:00
 -- url     : https://prove2.me/theorems/ca55b9bc-efa1-43ab-be13-50f0bcfedd1b

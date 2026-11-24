@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HatBound_exists_nat_mul_integer
 -- name    : GlobalTheory.CompanionTheory.HatBound.exists_nat_mul_integer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:23:53.368522+00:00
 -- url     : https://prove2.me/theorems/cf850144-6030-45cd-91ea-5c436d13edf5

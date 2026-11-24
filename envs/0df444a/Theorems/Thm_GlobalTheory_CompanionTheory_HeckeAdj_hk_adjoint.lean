@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeAdj_hk_adjoint
 -- name    : GlobalTheory.CompanionTheory.HeckeAdj.hk_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:45:52.948974+00:00
 -- url     : https://prove2.me/theorems/61525103-994e-4dd1-9f7c-bd5f14a642a5

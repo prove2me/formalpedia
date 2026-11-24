@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_PureH_consTup_mem_latV
 -- name    : GlobalTheory.CompanionTheory.SW.PureH.consTup_mem_latV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:08:53.71214+00:00
 -- url     : https://prove2.me/theorems/dfe2a5c5-0794-4ed8-898f-b73897b44fcd

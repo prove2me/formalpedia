@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_mem_ker_norm_quotient_iff
 -- name    : Formalism.L2.DIV.mem_ker_norm_quotient_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:23:01.269012+00:00
 -- url     : https://prove2.me/theorems/87774190-f26f-47ef-93e6-a1b30ff6c0a7

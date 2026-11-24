@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr9_commute_level_zero_element
 -- name    : Formalism.FourierDecayAlt.P.Fr9.commute_level_zero_element
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:03:45.717237+00:00
 -- url     : https://prove2.me/theorems/c29e82eb-3e21-4051-83fa-abd4da3a3ada

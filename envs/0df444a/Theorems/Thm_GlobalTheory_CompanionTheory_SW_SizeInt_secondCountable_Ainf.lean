@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_SizeInt_secondCountable_Ainf
 -- name    : GlobalTheory.CompanionTheory.SW.SizeInt.secondCountable_Ainf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:09:20.562383+00:00
 -- url     : https://prove2.me/theorems/9d3e8230-e465-4bf8-8c45-471cf84117fa

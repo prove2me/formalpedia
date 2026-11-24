@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PolyGaussSchwartz_exists_schwartz_poly_mul_gauss
 -- name    : GlobalTheory.CompanionTheory.PolyGaussSchwartz.exists_schwartz_poly_mul_gauss
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:54:49.476266+00:00
 -- url     : https://prove2.me/theorems/15ad2b9e-513f-4ec2-9bd5-26907044c4e0

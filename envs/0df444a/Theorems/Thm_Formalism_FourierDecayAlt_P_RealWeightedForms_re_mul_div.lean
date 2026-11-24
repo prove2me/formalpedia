@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RealWeightedForms_re_mul_div
 -- name    : Formalism.FourierDecayAlt.P.RealWeightedForms.re_mul_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:19:04.726393+00:00
 -- url     : https://prove2.me/theorems/72159afc-08af-4583-8eb9-e01c5fc6e5a1

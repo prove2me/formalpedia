@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_SmallPair_det_block
 -- name    : GlobalTheory.CompanionTheory.SW.SmallPair.det_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:09:52.636075+00:00
 -- url     : https://prove2.me/theorems/ed32630e-50c6-435b-923a-68d45ebcae93

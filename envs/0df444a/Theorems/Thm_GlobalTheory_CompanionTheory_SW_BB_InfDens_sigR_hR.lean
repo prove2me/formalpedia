@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BB_InfDens_sigR_hR
 -- name    : GlobalTheory.CompanionTheory.SW.BB.InfDens.sigR_hR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:01:55.56205+00:00
 -- url     : https://prove2.me/theorems/bd4f537f-6008-464c-ac2e-41742cb9e30b

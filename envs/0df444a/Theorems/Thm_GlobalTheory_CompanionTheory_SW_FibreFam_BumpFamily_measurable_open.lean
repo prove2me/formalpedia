@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_FibreFam_BumpFamily_measurable_open
 -- name    : GlobalTheory.CompanionTheory.SW.FibreFam.BumpFamily.measurable_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:03:50.035408+00:00
 -- url     : https://prove2.me/theorems/a30635db-90eb-47aa-b707-505f869dece0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_hform_eq
 -- name    : PIW.AdelClassFin.hform_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:29:18.865804+00:00
 -- url     : https://prove2.me/theorems/a519ccef-5d58-4c36-a748-3d2d56f9036b

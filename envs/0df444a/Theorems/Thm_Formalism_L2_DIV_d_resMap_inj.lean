@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_d_resMap_inj
 -- name    : Formalism.L2.DIV.d_resMap_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:23:03.268833+00:00
 -- url     : https://prove2.me/theorems/a4835ed9-d788-4e71-84f0-4988d3c1c37f

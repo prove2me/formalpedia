@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_InvariantProduct_exists_const_rect
 -- name    : GlobalTheory.CompanionTheory.SW.InvariantProduct.exists_const_rect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:06:43.332947+00:00
 -- url     : https://prove2.me/theorems/0f0a408f-8897-4c55-ab35-ba2997eae3a3

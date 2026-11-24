@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeInj_hecke_determines
 -- name    : GlobalTheory.CompanionTheory.HeckeInj.hecke_determines
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:46:51.638842+00:00
 -- url     : https://prove2.me/theorems/9f0c7135-35fe-42cf-ab6c-f2c9517ab76d

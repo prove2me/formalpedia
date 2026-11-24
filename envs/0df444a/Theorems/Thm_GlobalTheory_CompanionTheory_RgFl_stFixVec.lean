@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgFl_stFixVec
 -- name    : GlobalTheory.CompanionTheory.RgFl.stFixVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:59:32.093799+00:00
 -- url     : https://prove2.me/theorems/00c5e5fd-6995-4890-9e54-685396516b13

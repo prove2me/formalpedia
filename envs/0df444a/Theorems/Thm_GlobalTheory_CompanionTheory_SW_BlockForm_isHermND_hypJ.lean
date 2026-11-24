@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_BlockForm_isHermND_hypJ
 -- name    : GlobalTheory.CompanionTheory.SW.BlockForm.isHermND_hypJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:03:14.03596+00:00
 -- url     : https://prove2.me/theorems/46910f3d-1f09-48ab-9bf3-dc2a449eae64

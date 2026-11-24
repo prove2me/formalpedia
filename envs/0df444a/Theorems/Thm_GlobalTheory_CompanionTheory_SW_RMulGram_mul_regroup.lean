@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_RMulGram_mul_regroup
 -- name    : GlobalTheory.CompanionTheory.SW.RMulGram.mul_regroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:08:24.110184+00:00
 -- url     : https://prove2.me/theorems/543f4381-814c-4e1c-9987-4fa78234a184

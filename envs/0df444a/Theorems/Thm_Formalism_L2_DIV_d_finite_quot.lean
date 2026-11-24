@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_d_finite_quot
 -- name    : Formalism.L2.DIV.d_finite_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:22:50.222959+00:00
 -- url     : https://prove2.me/theorems/4108df2e-854d-4335-a7f7-79642cd15a71

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HermFrame_stFrame_of
 -- name    : GlobalTheory.CompanionTheory.HermFrame.stFrame_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:48:01.801991+00:00
 -- url     : https://prove2.me/theorems/21d09307-666b-4a64-a7b0-dd69be1cea80

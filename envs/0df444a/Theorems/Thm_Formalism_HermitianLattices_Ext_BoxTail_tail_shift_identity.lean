@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_BoxTail_tail_shift_identity
 -- name    : Formalism.HermitianLattices.Ext.BoxTail.tail_shift_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:44:13.760955+00:00
 -- url     : https://prove2.me/theorems/a0248aa8-61c7-43c9-96e2-499c550bcefc

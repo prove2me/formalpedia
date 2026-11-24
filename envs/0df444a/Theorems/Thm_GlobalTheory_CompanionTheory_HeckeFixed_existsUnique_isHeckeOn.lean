@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeFixed_existsUnique_isHeckeOn
 -- name    : GlobalTheory.CompanionTheory.HeckeFixed.existsUnique_isHeckeOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:46:21.868663+00:00
 -- url     : https://prove2.me/theorems/82ef4d58-7df2-44e7-9a99-68d0456be535

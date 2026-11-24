@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_cutoff_profile_le_one
 -- name    : Formalism.REAL.cutoff_profile_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:12:19.966898+00:00
 -- url     : https://prove2.me/theorems/47b64871-83ce-40e4-a50b-63d4691c5365

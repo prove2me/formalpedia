@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinHeis_Irred_mem_of_sum
 -- name    : GlobalTheory.CompanionTheory.FinHeis.Irred.mem_of_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:39:25.828023+00:00
 -- url     : https://prove2.me/theorems/2d4d3820-76f6-4ada-b332-c0ab68ddc5b1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EmbeddedBlowupSequence_mem_detachedComponents
 -- name    : FunctorialResolution.EmbeddedResolution.EmbeddedBlowupSequence.mem_detachedComponents
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:16:08.496932+00:00
 -- url     : https://prove2.me/theorems/5cc2a705-6053-43f6-bd79-2536fd061869

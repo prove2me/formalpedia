@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_SizeInt_norm_compReal
 -- name    : GlobalTheory.CompanionTheory.SW.SizeInt.norm_compReal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:09:42.227159+00:00
 -- url     : https://prove2.me/theorems/f86e8237-d64c-46c4-ac09-da4c11d4457c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEis_eis_mul_right
 -- name    : GlobalTheory.CompanionTheory.RgEis.eis_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:57:32.560189+00:00
 -- url     : https://prove2.me/theorems/8ae53c26-f346-4c7e-ac3d-1647958cb80f

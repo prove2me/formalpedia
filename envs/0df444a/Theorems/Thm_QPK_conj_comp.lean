@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QPK_conj_comp
 -- name    : QPK.conj_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:14:23.10751+00:00
 -- url     : https://prove2.me/theorems/3b27b316-a20f-44c4-a829-68143df583d9

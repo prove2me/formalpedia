@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_include_right_injective_of_field
 -- name    : Formalism.L2.DIV.include_right_injective_of_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:26:17.9948+00:00
 -- url     : https://prove2.me/theorems/d469103e-33f8-42b8-9c6f-99bb69406b23

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_c_T_mul
 -- name    : Formalism.L2.DIV.c_T_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:22:43.14188+00:00
 -- url     : https://prove2.me/theorems/60f8562b-6ca7-40c8-9da0-20fed4631783

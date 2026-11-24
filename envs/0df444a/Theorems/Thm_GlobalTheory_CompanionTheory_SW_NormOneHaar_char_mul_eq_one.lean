@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_NormOneHaar_char_mul_eq_one
 -- name    : GlobalTheory.CompanionTheory.SW.NormOneHaar.char_mul_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:08:20.637583+00:00
 -- url     : https://prove2.me/theorems/93087db9-3d21-4d9c-a23f-33b530ece468

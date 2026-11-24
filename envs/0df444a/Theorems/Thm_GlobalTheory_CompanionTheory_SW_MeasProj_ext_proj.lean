@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_MeasProj_ext_proj
 -- name    : GlobalTheory.CompanionTheory.SW.MeasProj.ext_proj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:09:06.958033+00:00
 -- url     : https://prove2.me/theorems/75b0f124-2ce1-4ee2-bf60-02575d4b48fb

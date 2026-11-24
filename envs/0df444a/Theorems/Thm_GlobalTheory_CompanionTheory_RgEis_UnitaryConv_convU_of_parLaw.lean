@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEis_UnitaryConv_convU_of_parLaw
 -- name    : GlobalTheory.CompanionTheory.RgEis.UnitaryConv.convU_of_parLaw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:57:30.421479+00:00
 -- url     : https://prove2.me/theorems/28cdf19a-c0f6-4419-81e7-2a57a5355bfc

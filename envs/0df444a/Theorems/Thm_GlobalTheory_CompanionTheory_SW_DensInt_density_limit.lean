@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_DensInt_density_limit
 -- name    : GlobalTheory.CompanionTheory.SW.DensInt.density_limit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:04:31.50435+00:00
 -- url     : https://prove2.me/theorems/13a33bed-792d-4a92-9831-6ca4d9de0287

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LatticeCount_summable_of_lattice_decay
 -- name    : GlobalTheory.CompanionTheory.LatticeCount.summable_of_lattice_decay
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:52:06.17492+00:00
 -- url     : https://prove2.me/theorems/606db31a-06cb-4dd8-b0f6-c8b2ae92faa2

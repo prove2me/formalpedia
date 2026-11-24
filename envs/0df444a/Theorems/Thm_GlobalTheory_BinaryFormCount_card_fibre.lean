@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BinaryFormCount_card_fibre
 -- name    : GlobalTheory.BinaryFormCount.card_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:04:10.101833+00:00
 -- url     : https://prove2.me/theorems/634b7287-2b75-4177-b66f-7e10496c916f

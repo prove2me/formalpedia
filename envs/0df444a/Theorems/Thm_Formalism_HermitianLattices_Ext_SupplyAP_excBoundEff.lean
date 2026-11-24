@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_SupplyAP_excBoundEff
 -- name    : Formalism.HermitianLattices.Ext.SupplyAP.excBoundEff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:51.027881+00:00
 -- url     : https://prove2.me/theorems/ba8848ac-8a2f-4e03-a578-13b1ec9f6f2c

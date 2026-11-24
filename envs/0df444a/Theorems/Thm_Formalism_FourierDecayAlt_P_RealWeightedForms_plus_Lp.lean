@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RealWeightedForms_plus_Lp
 -- name    : Formalism.FourierDecayAlt.P.RealWeightedForms.plus_Lp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:19:36.884273+00:00
 -- url     : https://prove2.me/theorems/1672edbb-44fe-42b7-bdcc-e3a644bb130f

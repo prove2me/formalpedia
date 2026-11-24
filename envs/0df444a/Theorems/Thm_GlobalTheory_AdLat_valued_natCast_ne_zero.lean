@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_valued_natCast_ne_zero
 -- name    : GlobalTheory.AdLat.valued_natCast_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:08:33.542903+00:00
 -- url     : https://prove2.me/theorems/158e03fb-b5ee-47e5-b060-4bb9016ddf7a

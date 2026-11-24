@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HolPQ_lintegral_one_add_inv_pow_lt_top
 -- name    : GlobalTheory.CompanionTheory.HolPQ.lintegral_one_add_inv_pow_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:16:37.013829+00:00
 -- url     : https://prove2.me/theorems/4670d622-8826-43ca-931c-7676afa0f869

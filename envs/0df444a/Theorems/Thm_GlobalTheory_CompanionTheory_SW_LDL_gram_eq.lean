@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LDL_gram_eq
 -- name    : GlobalTheory.CompanionTheory.SW.LDL.gram_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:07:37.119074+00:00
 -- url     : https://prove2.me/theorems/62704f91-1a81-4d4a-b375-e82376e0b552

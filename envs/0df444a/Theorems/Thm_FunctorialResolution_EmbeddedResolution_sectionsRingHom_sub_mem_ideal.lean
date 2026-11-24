@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_sectionsRingHom_sub_mem_ideal
 -- name    : FunctorialResolution.EmbeddedResolution.sectionsRingHom_sub_mem_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:24:33.772022+00:00
 -- url     : https://prove2.me/theorems/1147796f-9e1a-4c46-9645-578ceaffc404

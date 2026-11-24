@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_U0_IsSD_exists_unit_norm
 -- name    : Formalism.HermitianLattices.Ext.L3.U0.IsSD.exists_unit_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:28:56.634876+00:00
 -- url     : https://prove2.me/theorems/57060812-38f5-4aac-8242-8c674ed474aa

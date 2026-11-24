@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HProj_eventually_mul
 -- name    : GlobalTheory.CompanionTheory.SW.HProj.eventually_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:04:48.15349+00:00
 -- url     : https://prove2.me/theorems/bfaa3dfc-27a5-4d1d-b722-ccc6f356956e

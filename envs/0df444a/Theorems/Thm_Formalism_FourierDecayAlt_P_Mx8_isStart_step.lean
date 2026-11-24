@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Mx8_isStart_step
 -- name    : Formalism.FourierDecayAlt.P.Mx8.isStart_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:47:38.51605+00:00
 -- url     : https://prove2.me/theorems/b2def562-f63b-42db-80c0-4137a0bb7a33

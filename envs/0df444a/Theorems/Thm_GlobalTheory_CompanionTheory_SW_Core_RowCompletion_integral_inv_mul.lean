@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_RowCompletion_integral_inv_mul
 -- name    : GlobalTheory.CompanionTheory.SW.Core.RowCompletion.integral_inv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:04:12.403565+00:00
 -- url     : https://prove2.me/theorems/db9676b9-4e2b-4f82-a943-4741379bf97d

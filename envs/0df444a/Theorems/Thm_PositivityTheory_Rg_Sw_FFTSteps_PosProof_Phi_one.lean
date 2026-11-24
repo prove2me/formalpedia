@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_PosProof_Phi_one
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.PosProof.Phi_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:28:08.93384+00:00
 -- url     : https://prove2.me/theorems/bf6a466b-d919-4d17-aeef-fdc4e04d8b85

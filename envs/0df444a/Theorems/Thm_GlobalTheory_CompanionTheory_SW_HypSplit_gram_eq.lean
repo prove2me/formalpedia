@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HypSplit_gram_eq
 -- name    : GlobalTheory.CompanionTheory.SW.HypSplit.gram_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:06:59.664662+00:00
 -- url     : https://prove2.me/theorems/52a935df-e17b-430b-9b3b-bd81539fa104

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_casOnCyc
 -- name    : Formalism.REAL.casOnCyc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:14:25.337275+00:00
 -- url     : https://prove2.me/theorems/92249671-c4f5-47c3-868d-3277f41ed581

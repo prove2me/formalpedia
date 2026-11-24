@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_NormOneHaar_char_conj
 -- name    : GlobalTheory.CompanionTheory.SW.NormOneHaar.char_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:08:33.403067+00:00
 -- url     : https://prove2.me/theorems/71fff4a5-02c9-4ade-b0bf-c442ef4e19b7

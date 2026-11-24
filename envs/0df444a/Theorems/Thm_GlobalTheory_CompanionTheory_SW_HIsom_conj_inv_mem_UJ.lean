@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HIsom_conj_inv_mem_UJ
 -- name    : GlobalTheory.CompanionTheory.SW.HIsom.conj_inv_mem_UJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:06:36.510487+00:00
 -- url     : https://prove2.me/theorems/444f803e-961f-44f0-b3dd-25bc9a74fe54

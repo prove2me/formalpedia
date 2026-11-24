@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_tensor_conjugation_tmul
 -- name    : Formalism.L2.DIV.tensor_conjugation_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:22:45.201902+00:00
 -- url     : https://prove2.me/theorems/5c1d7095-bb6c-4e9a-bdd2-2a5c5f18067d

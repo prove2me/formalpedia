@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ResKCoords_rsp_of_ringEquiv
 -- name    : GlobalTheory.CompanionTheory.ResKCoords.rsp_of_ringEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:57:42.469072+00:00
 -- url     : https://prove2.me/theorems/ff063a27-d8db-4c2b-abd2-282f37f9f8a2

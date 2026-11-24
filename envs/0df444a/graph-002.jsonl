@@ -665,7 +665,7 @@
 {"parent": "FZEchelon.Discounted.lemma4_functional_equation", "child": "FZEchelon_Discounted_Programs", "via": ["statement"]}
 {"parent": "FZEchelon.Discounted.property_e_outlet_limit", "child": "FZEchelon_Discounted_Programs", "via": ["statement"]}
 {"parent": "FZEchelon.Discounted.theorem1_policy_optimal", "child": "FZEchelon_Discounted_Programs", "via": ["solution", "statement"]}
-{"parent": "FZEchelon.NormalDemand.PL_tendsto_zero", "child": "FZEchelon_NormalDemand_Model", "via": ["statement"]}
+{"parent": "FZEchelon.NormalDemand.PL_tendsto_zero", "child": "FZEchelon_NormalDemand_Model", "via": ["solution", "statement"]}
 {"parent": "FZEchelon.NormalDemand.Phi2_comp_deriv", "child": "FZEchelon_NormalDemand_Model", "via": ["statement"]}
 {"parent": "FZEchelon.NormalDemand.Theta_deriv", "child": "FZEchelon_NormalDemand_BivariateNormal", "via": ["solution", "statement"]}
 {"parent": "FZEchelon.NormalDemand.conditional_normal_identities", "child": "FZEchelon_NormalDemand_Model", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_val_single
 -- name    : GlobalTheory.CMVal.Euler.val_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:19:37.11409+00:00
 -- url     : https://prove2.me/theorems/5a65b97f-4ba1-4b35-bc89-22f519150d6a

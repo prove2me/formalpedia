@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartRing_algebraMap_X_pow_dvd_iff
 -- name    : GlobalTheory.ChartRing.algebraMap_X_pow_dvd_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:14:45.673797+00:00
 -- url     : https://prove2.me/theorems/072703ef-884d-49f1-afab-60ad231c4e54

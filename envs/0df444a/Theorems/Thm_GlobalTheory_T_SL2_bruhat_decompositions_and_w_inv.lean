@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_SL2_bruhat_decompositions_and_w_inv
 -- name    : GlobalTheory.T.SL2_bruhat_decompositions_and_w_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:45:39.132418+00:00
 -- url     : https://prove2.me/theorems/2bda7d8d-70a9-4742-90ee-1f8d01d201e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HermOne_exists_ne
 -- name    : GlobalTheory.CompanionTheory.SW.HermOne.exists_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:07:03.109326+00:00
 -- url     : https://prove2.me/theorems/69fbb105-cec3-4a4d-8eca-cf604d527571

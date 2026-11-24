@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HermTop_exists_homeo
 -- name    : GlobalTheory.CompanionTheory.SW.HermTop.exists_homeo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:06:20.484831+00:00
 -- url     : https://prove2.me/theorems/6316b3a1-db54-4433-a012-2050054ed2e4

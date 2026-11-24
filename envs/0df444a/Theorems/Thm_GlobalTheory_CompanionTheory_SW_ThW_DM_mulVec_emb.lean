@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ThW_DM_mulVec_emb
 -- name    : GlobalTheory.CompanionTheory.SW.ThW.DM_mulVec_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:11:26.038805+00:00
 -- url     : https://prove2.me/theorems/d2c363ce-7ddf-4a2e-81fb-3ccbdeed81fe

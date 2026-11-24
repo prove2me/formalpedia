@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_intC_zero
 -- name    : PI.WAU.intC_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:19:40.469928+00:00
 -- url     : https://prove2.me/theorems/ef47e938-565f-48e5-8329-ef80d7df615c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Lattice_stSandwich
 -- name    : GlobalTheory.CompanionTheory.Lattice.stSandwich
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:51:56.559333+00:00
 -- url     : https://prove2.me/theorems/8a2a47eb-ef46-4220-a627-eade7174d781

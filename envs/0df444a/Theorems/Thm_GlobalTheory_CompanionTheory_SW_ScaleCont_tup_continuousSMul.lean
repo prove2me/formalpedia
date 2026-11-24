@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ScaleCont_tup_continuousSMul
 -- name    : GlobalTheory.CompanionTheory.SW.ScaleCont.tup_continuousSMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:10:07.083882+00:00
 -- url     : https://prove2.me/theorems/a1f404d0-a695-43d5-bad4-0b54795e40c3

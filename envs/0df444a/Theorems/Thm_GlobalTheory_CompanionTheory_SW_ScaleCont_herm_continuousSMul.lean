@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ScaleCont_herm_continuousSMul
 -- name    : GlobalTheory.CompanionTheory.SW.ScaleCont.herm_continuousSMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:10:10.348095+00:00
 -- url     : https://prove2.me/theorems/407bf2b6-4325-465a-8a96-cedfa5d8ef3c

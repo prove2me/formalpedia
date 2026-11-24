@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QuadraticUnit_exists_eq_mul_isUnit
 -- name    : GlobalTheory.CompanionTheory.QuadraticUnit.exists_eq_mul_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:56:10.688451+00:00
 -- url     : https://prove2.me/theorems/5707aacc-7a33-49c4-86af-7136f281f5ba

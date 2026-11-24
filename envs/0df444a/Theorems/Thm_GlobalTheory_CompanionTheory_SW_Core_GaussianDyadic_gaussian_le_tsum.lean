@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_Core_GaussianDyadic_gaussian_le_tsum
 -- name    : GlobalTheory.CompanionTheory.SW.Core.GaussianDyadic.gaussian_le_tsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:02:49.981119+00:00
 -- url     : https://prove2.me/theorems/a68df32f-b37e-4f98-bcfc-81b52941e6e0

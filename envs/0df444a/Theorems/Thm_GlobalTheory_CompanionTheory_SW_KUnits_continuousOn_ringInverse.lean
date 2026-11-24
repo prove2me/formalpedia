@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_KUnits_continuousOn_ringInverse
 -- name    : GlobalTheory.CompanionTheory.SW.KUnits.continuousOn_ringInverse
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:06:33.582353+00:00
 -- url     : https://prove2.me/theorems/6b5f7edd-bed6-4c45-84c0-b3c697a94e1b

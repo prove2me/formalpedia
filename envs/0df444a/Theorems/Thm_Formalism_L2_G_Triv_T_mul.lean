@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Triv_T_mul
 -- name    : Formalism.L2.G.Triv.T_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:20:57.697003+00:00
 -- url     : https://prove2.me/theorems/9269b1ee-ce67-47c6-8469-343c9a046424

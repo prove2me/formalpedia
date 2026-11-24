@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Lat_not_inFibre_of_coprime
 -- name    : GlobalTheory.CompanionTheory.Ar.Lat.not_inFibre_of_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:16:20.645901+00:00
 -- url     : https://prove2.me/theorems/6812f19c-c2c7-4fd6-8c1b-ee7654d1a4e9
