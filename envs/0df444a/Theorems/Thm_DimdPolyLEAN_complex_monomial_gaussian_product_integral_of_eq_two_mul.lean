@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_complex_monomial_gaussian_product_integral_of_eq_two_mul
 -- name    : DimdPolyLEAN.complex_monomial_gaussian_product_integral_of_eq_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:37:44.702905+00:00
 -- url     : https://prove2.me/theorems/195c5749-4260-43e5-aab1-b9de66f2c072

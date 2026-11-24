@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_toFun_smul_complex
 -- name    : DimdPolyLEAN.toFun_smul_complex
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:35:13.906981+00:00
 -- url     : https://prove2.me/theorems/3699ce53-dc53-41cf-93eb-8e86fb4f8933

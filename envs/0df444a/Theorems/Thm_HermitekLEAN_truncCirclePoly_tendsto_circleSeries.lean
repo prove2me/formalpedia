@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermitekLEAN_truncCirclePoly_tendsto_circleSeries
 -- name    : HermitekLEAN.truncCirclePoly_tendsto_circleSeries
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:31:19.348628+00:00
 -- url     : https://prove2.me/theorems/bf2e7fe3-924e-4c8a-8d05-484465e550d1

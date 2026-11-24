@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_codedShift_synchronizingCode
 -- name    : BalanceSpecification.codedShift_synchronizingCode
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:16:00.867693+00:00
 -- url     : https://prove2.me/theorems/38e1afa4-69f5-423b-bbb7-196635401f39

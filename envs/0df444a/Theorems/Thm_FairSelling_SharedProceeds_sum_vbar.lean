@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_SharedProceeds_sum_vbar
 -- name    : FairSelling.SharedProceeds.sum_vbar
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:05:00.467247+00:00
 -- url     : https://prove2.me/theorems/760b16f5-7c34-41ab-9388-ed56c53ba031

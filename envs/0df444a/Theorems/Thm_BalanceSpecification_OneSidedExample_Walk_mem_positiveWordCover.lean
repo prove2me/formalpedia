@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_OneSidedExample_Walk_mem_positiveWordCover
 -- name    : BalanceSpecification.OneSidedExample.Walk.mem_positiveWordCover
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:13:25.946691+00:00
 -- url     : https://prove2.me/theorems/3637ff4c-e884-44a6-9ae4-935bf5cd69f0

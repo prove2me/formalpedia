@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PotTPS_qbagfill_step
 -- name    : FairSelling.PotTPS.qbagfill_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:04:07.851132+00:00
 -- url     : https://prove2.me/theorems/89ed3aaa-fe6e-46f3-9e64-8fb00a83bd92

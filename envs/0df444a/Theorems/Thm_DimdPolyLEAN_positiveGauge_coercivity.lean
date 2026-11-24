@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_positiveGauge_coercivity
 -- name    : DimdPolyLEAN.positiveGauge_coercivity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:25:37.36162+00:00
 -- url     : https://prove2.me/theorems/c27c5fda-1c51-4733-b0e5-0155413a8aa2

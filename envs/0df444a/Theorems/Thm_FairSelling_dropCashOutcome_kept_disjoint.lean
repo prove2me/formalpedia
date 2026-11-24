@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_dropCashOutcome_kept_disjoint
 -- name    : FairSelling.dropCashOutcome_kept_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:05:48.18626+00:00
 -- url     : https://prove2.me/theorems/c3fc035e-b383-4193-a06f-8f5487de4eeb

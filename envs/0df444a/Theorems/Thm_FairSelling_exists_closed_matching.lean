@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_exists_closed_matching
 -- name    : FairSelling.exists_closed_matching
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:10:24.529271+00:00
 -- url     : https://prove2.me/theorems/8487a149-6a76-49a4-81ae-b22c8f22fdd8

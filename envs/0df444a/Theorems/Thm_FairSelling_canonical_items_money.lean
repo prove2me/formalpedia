@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_canonical_items_money
 -- name    : FairSelling.canonical_items_money
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:05:17.984798+00:00
 -- url     : https://prove2.me/theorems/12a92a80-807a-4218-9347-c7d10de21c7d

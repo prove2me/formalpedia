@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_config_vbarSum_univ
 -- name    : FairSelling.config_vbarSum_univ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:08:23.09655+00:00
 -- url     : https://prove2.me/theorems/2fe31214-ec8c-435d-87af-c386c5a9e4fe

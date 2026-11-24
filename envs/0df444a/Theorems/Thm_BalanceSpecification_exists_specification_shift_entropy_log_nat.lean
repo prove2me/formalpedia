@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_exists_specification_shift_entropy_log_nat
 -- name    : BalanceSpecification.exists_specification_shift_entropy_log_nat
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:37:48.632648+00:00
 -- url     : https://prove2.me/theorems/7f23c98e-76bd-4abe-9cbc-af48a3437e5f

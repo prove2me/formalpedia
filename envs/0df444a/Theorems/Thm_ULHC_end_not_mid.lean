@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_end_not_mid
 -- name    : ULHC.end_not_mid
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:38:13.764554+00:00
 -- url     : https://prove2.me/theorems/ab68bf91-703a-477d-b007-a65b6fd59f61

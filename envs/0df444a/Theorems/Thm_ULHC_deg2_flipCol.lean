@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_deg2_flipCol
 -- name    : ULHC.deg2_flipCol
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:23:50.223212+00:00
 -- url     : https://prove2.me/theorems/a8310d41-c03d-4aa0-aca7-e4451b9212a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_exists_synchronizingCode_superword
 -- name    : BalanceSpecification.exists_synchronizingCode_superword
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:16:01.362074+00:00
 -- url     : https://prove2.me/theorems/1071b4c2-2552-4f81-9db7-e0b53bf3078f

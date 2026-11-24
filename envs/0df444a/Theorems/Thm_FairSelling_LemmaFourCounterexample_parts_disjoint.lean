@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_LemmaFourCounterexample_parts_disjoint
 -- name    : FairSelling.LemmaFourCounterexample.parts_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:08:42.725081+00:00
 -- url     : https://prove2.me/theorems/0d0918ed-0ddb-4f2e-ad94-45fea0fca2a4

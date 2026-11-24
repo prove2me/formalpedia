@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_bsm_iff_entropy_ratio
 -- name    : BalanceSpecification.bsm_iff_entropy_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:16:38.087693+00:00
 -- url     : https://prove2.me/theorems/828626e3-e8a1-4b4d-ae3c-b814d292e427

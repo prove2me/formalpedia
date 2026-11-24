@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_nbhd_subset
 -- name    : FairSelling.nbhd_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:10:09.404917+00:00
 -- url     : https://prove2.me/theorems/fce6d49e-1eab-49c2-baeb-f0035be5a011

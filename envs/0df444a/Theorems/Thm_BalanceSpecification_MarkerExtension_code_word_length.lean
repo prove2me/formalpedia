@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_code_word_length
 -- name    : BalanceSpecification.MarkerExtension.code_word_length
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:23:45.371244+00:00
 -- url     : https://prove2.me/theorems/d662ea33-632d-4aa9-b885-62c4ac955e76

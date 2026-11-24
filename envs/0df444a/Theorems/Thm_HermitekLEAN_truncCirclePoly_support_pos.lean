@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermitekLEAN_truncCirclePoly_support_pos
 -- name    : HermitekLEAN.truncCirclePoly_support_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:30:31.999096+00:00
 -- url     : https://prove2.me/theorems/5cfeaaeb-3249-451e-b63f-c7fdc95d0ae4

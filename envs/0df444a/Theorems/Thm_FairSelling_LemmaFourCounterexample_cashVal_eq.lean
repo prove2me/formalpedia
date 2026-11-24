@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_LemmaFourCounterexample_cashVal_eq
 -- name    : FairSelling.LemmaFourCounterexample.cashVal_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:09:15.762906+00:00
 -- url     : https://prove2.me/theorems/50707bcf-c86d-4090-81cf-5661c4e54c16

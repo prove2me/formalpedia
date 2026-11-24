@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_interiorLanguage_subset
 -- name    : BalanceSpecification.interiorLanguage_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:28:19.607801+00:00
 -- url     : https://prove2.me/theorems/06b4c130-6c61-471a-b124-c6d2404db8a3

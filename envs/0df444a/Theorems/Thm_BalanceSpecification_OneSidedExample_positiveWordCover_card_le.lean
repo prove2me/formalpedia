@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_OneSidedExample_positiveWordCover_card_le
 -- name    : BalanceSpecification.OneSidedExample.positiveWordCover_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:13:24.490975+00:00
 -- url     : https://prove2.me/theorems/44e80c54-2c7b-4f44-a65f-fb7e330c30a5

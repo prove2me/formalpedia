@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_subshiftCylinderEvent_antitone
 -- name    : BalanceSpecification.subshiftCylinderEvent_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:14:25.611346+00:00
 -- url     : https://prove2.me/theorems/daa50ec4-5fd8-4e1c-aa75-95e76d90ec85

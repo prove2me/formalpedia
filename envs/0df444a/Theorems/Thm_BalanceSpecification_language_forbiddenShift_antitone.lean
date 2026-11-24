@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_language_forbiddenShift_antitone
 -- name    : BalanceSpecification.language_forbiddenShift_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:19:25.876809+00:00
 -- url     : https://prove2.me/theorems/66164987-d82e-458f-a109-2d2fe592c58c

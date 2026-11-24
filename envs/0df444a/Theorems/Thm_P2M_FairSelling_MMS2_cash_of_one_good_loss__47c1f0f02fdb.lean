@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FairSelling_MMS2_cash_of_one_good_loss__47c1f0f02fdb
 -- name    : P2M_FairSelling_MMS2_cash_of_one_good_loss__47c1f0f02fdb
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:45:25.541089+00:00
 -- url     : https://prove2.me/theorems/e44b3ff2-c25c-4285-963e-08d0690b077a

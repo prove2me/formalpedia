@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_localPhaseStability
 -- name    : DimdPolyLEAN.localPhaseStability
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:44:54.303808+00:00
 -- url     : https://prove2.me/theorems/761047a7-c100-4b45-8444-1366a2d470d4

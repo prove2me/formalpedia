@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermiteLEAN_squareBlock_card
 -- name    : HermiteLEAN.squareBlock_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:31:40.16879+00:00
 -- url     : https://prove2.me/theorems/b87c677d-e60e-4521-b2e6-e680437cbd57

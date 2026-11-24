@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PotTPS_QStage_qcounting
 -- name    : FairSelling.PotTPS.QStage.qcounting
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:43:22.984824+00:00
 -- url     : https://prove2.me/theorems/331809f2-8ba4-463b-a189-6e97c014b797

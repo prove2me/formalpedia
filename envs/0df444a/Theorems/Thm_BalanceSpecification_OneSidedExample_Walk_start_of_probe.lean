@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_OneSidedExample_Walk_start_of_probe
 -- name    : BalanceSpecification.OneSidedExample.Walk.start_of_probe
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:13:43.322041+00:00
 -- url     : https://prove2.me/theorems/a947e75c-d2dc-4579-95cb-1fa1161052a3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_phaseStability
 -- name    : DimdPolyLEAN.phaseStability
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:26:40.563207+00:00
 -- url     : https://prove2.me/theorems/c429a427-cd2b-43c9-b3c4-b81c984c71d0

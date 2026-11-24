@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_stablePhaseRetrievalCoefficients
 -- name    : DimdPolyLEAN.stablePhaseRetrievalCoefficients
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:26:25.496938+00:00
 -- url     : https://prove2.me/theorems/8c937b4a-5c8e-40e5-9b81-62d4ae9ba588

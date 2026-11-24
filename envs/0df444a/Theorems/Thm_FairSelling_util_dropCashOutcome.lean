@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_util_dropCashOutcome
 -- name    : FairSelling.util_dropCashOutcome
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:05:53.39847+00:00
 -- url     : https://prove2.me/theorems/8124b9da-66e1-4a28-ad60-4b521e8d0969

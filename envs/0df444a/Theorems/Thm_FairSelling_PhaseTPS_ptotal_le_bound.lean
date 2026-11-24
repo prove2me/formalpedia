@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PhaseTPS_ptotal_le_bound
 -- name    : FairSelling.PhaseTPS.ptotal_le_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:59:36.860421+00:00
 -- url     : https://prove2.me/theorems/b5575299-efe5-4bf4-acd3-9cd9ea3b2ad6

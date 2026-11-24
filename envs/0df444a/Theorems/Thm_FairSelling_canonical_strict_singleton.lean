@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_canonical_strict_singleton
 -- name    : FairSelling.canonical_strict_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:07:26.30668+00:00
 -- url     : https://prove2.me/theorems/0e68ec6e-fd12-431d-8ff1-36febbe908c4

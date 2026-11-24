@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_matching_phase_three
 -- name    : FairSelling.matching_phase_three
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:07:07.74174+00:00
 -- url     : https://prove2.me/theorems/8e6ae6eb-8d57-4307-936f-b6243528caaf

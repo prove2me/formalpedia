@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_LemmaFourCounterexample_no_two_bundles
 -- name    : FairSelling.LemmaFourCounterexample.no_two_bundles
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:09:23.234735+00:00
 -- url     : https://prove2.me/theorems/00306d6d-9282-414f-b795-ad8fcc4b5659

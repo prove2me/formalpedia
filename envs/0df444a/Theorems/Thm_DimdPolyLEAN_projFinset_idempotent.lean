@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_projFinset_idempotent
 -- name    : DimdPolyLEAN.projFinset_idempotent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:33:30.31305+00:00
 -- url     : https://prove2.me/theorems/2c6388bf-b919-4c68-82fd-fe761c578851

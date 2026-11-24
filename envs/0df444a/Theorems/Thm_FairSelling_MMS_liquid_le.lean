@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_MMS_liquid_le
 -- name    : FairSelling.MMS_liquid_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:10:03.07981+00:00
 -- url     : https://prove2.me/theorems/83a349e2-3f3b-4e06-a47b-c1736ec2da45

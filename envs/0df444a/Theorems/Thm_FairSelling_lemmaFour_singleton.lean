@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_lemmaFour_singleton
 -- name    : FairSelling.lemmaFour_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:08:20.776634+00:00
 -- url     : https://prove2.me/theorems/f94570a6-08ae-4b63-9e8f-43970a2ba9b5

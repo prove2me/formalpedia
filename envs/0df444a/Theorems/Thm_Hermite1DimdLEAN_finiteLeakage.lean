@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hermite1DimdLEAN_finiteLeakage
 -- name    : Hermite1DimdLEAN.finiteLeakage
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:42:16.538945+00:00
 -- url     : https://prove2.me/theorems/0a8c1cbe-7374-46af-80a8-7124115b5f83

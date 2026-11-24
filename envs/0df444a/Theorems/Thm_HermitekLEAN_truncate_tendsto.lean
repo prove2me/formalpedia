@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermitekLEAN_truncate_tendsto
 -- name    : HermitekLEAN.truncate_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:31:13.378891+00:00
 -- url     : https://prove2.me/theorems/b8e6bc23-6fd3-4c95-856e-417956e490ff

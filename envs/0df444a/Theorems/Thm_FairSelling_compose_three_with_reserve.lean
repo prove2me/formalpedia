@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_compose_three_with_reserve
 -- name    : FairSelling.compose_three_with_reserve
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:06:04.035413+00:00
 -- url     : https://prove2.me/theorems/a5fb8d38-ba3b-4d2b-90fe-9f78465dda91

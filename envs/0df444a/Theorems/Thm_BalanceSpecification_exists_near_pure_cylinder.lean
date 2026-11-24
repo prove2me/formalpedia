@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_exists_near_pure_cylinder
 -- name    : BalanceSpecification.exists_near_pure_cylinder
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:15:00.428339+00:00
 -- url     : https://prove2.me/theorems/3b71b6fe-89e3-46ee-a520-a1eead0690e6

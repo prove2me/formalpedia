@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_invariant_inter_cylinder_real_eq_zero
 -- name    : BalanceSpecification.invariant_inter_cylinder_real_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:44:30.43427+00:00
 -- url     : https://prove2.me/theorems/3d1442b4-fc8d-4058-a7a8-31ef25185435

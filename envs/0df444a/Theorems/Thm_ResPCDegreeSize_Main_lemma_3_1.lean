@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResPCDegreeSize_Main_lemma_3_1
 -- name    : ResPCDegreeSize.Main.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T08:27:03.373899+00:00
 -- url     : https://prove2.me/theorems/aee2303c-770a-4490-9eb2-f31886448888

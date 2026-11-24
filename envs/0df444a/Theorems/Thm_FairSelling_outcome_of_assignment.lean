@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_outcome_of_assignment
 -- name    : FairSelling.outcome_of_assignment
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:06:30.126085+00:00
 -- url     : https://prove2.me/theorems/bbe9b1f7-f112-48c2-852a-06dc09c58832

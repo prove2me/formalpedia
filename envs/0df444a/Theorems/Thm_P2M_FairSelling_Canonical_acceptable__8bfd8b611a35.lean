@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FairSelling_Canonical_acceptable__8bfd8b611a35
 -- name    : P2M_FairSelling_Canonical_acceptable__8bfd8b611a35
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:10:31.204609+00:00
 -- url     : https://prove2.me/theorems/3643e084-2e07-4800-ae96-6ff37ceb437e

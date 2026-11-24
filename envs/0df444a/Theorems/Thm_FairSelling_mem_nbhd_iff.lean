@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_mem_nbhd_iff
 -- name    : FairSelling.mem_nbhd_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:10:20.078459+00:00
 -- url     : https://prove2.me/theorems/765684b4-8483-47d0-9606-dea4d0545167

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PotTPS_QStage_sum_biUnion_le
 -- name    : FairSelling.PotTPS.QStage.sum_biUnion_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:02:22.172833+00:00
 -- url     : https://prove2.me/theorems/5e4b65ce-6ce5-49f0-a8c6-f246e3a47fe2

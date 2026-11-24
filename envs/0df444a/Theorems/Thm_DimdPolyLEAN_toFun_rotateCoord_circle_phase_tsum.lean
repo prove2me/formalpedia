@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_toFun_rotateCoord_circle_phase_tsum
 -- name    : DimdPolyLEAN.toFun_rotateCoord_circle_phase_tsum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:34:15.408711+00:00
 -- url     : https://prove2.me/theorems/f541f4ec-307f-4b2b-900a-6dcec6f834be

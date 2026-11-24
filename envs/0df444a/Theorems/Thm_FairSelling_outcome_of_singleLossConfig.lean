@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_outcome_of_singleLossConfig
 -- name    : FairSelling.outcome_of_singleLossConfig
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:07:17.631804+00:00
 -- url     : https://prove2.me/theorems/26780713-98bb-474f-8234-f9961086a711

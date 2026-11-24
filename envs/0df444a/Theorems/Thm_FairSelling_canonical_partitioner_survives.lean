@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_canonical_partitioner_survives
 -- name    : FairSelling.canonical_partitioner_survives
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:06:45.59826+00:00
 -- url     : https://prove2.me/theorems/d621088f-d9f7-493f-9b37-ab13f4b24191

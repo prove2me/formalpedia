@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_complex_monomial_gaussian_finite_bilinear_integral_eq_even_moments
 -- name    : DimdPolyLEAN.complex_monomial_gaussian_finite_bilinear_integral_eq_even_moments
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:38:05.40458+00:00
 -- url     : https://prove2.me/theorems/4eb82f8b-042c-4709-9f32-b89e09ff21f7

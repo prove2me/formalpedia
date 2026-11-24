@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_ae_modulus_to_ambiguity_eq
 -- name    : DimdPolyLEAN.ae_modulus_to_ambiguity_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:25:32.229691+00:00
 -- url     : https://prove2.me/theorems/ea5e562f-689e-44fd-bcf7-43d0a53bd932

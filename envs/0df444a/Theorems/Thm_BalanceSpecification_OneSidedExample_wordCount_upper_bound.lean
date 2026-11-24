@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_OneSidedExample_wordCount_upper_bound
 -- name    : BalanceSpecification.OneSidedExample.wordCount_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:49:46.093964+00:00
 -- url     : https://prove2.me/theorems/bad0c934-1b07-46f2-8907-b7dd1858d7b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_OneSidedExample_wordCount_lower_bound
 -- name    : BalanceSpecification.OneSidedExample.wordCount_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:49:50.858942+00:00
 -- url     : https://prove2.me/theorems/24a6209a-4bb3-45ec-bcb9-660c378ccac4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_OneSidedExample_mem_vertexWords
 -- name    : BalanceSpecification.OneSidedExample.mem_vertexWords
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:44:21.558984+00:00
 -- url     : https://prove2.me/theorems/2c4ca2dc-0265-4219-aec4-869fd32bc5fd

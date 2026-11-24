@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelaunayStretch_lemma_A_2_segment_decomposition
 -- name    : DelaunayStretch.lemma_A_2_segment_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T02:52:45.860082+00:00
 -- url     : https://prove2.me/theorems/68740d0a-4276-4b44-9106-b48c455df647

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiniteEntropy_shannon_nonneg
 -- name    : BalanceSpecification.FiniteEntropy.shannon_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:16:25.755513+00:00
 -- url     : https://prove2.me/theorems/5289cba4-6a46-427b-9080-a72b9c0a874e

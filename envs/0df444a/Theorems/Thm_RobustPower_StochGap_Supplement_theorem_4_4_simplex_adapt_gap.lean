@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPower_StochGap_Supplement_theorem_4_4_simplex_adapt_gap
 -- name    : RobustPower.StochGap.Supplement.theorem_4_4_simplex_adapt_gap
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T19:34:46.428245+00:00
 -- url     : https://prove2.me/theorems/7b6a9c63-7c76-4b12-ab17-15b5f2b2e5e4

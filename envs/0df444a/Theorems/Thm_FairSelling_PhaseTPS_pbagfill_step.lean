@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PhaseTPS_pbagfill_step
 -- name    : FairSelling.PhaseTPS.pbagfill_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:01:18.142358+00:00
 -- url     : https://prove2.me/theorems/dfbaf456-3077-4951-81a2-acdd76d6191f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_singleLoss_of_canonical_bundle
 -- name    : FairSelling.singleLoss_of_canonical_bundle
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:06:59.164251+00:00
 -- url     : https://prove2.me/theorems/d836a0a8-8564-406c-ac2c-2a8ff1a8e141

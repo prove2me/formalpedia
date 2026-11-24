@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermiteLEAN_annulus_distance_lower_bound
 -- name    : HermiteLEAN.annulus_distance_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:31:49.45198+00:00
 -- url     : https://prove2.me/theorems/3e55112b-7eb8-4617-887c-07909ffee745

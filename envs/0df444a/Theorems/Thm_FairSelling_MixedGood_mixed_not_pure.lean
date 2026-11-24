@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_MixedGood_mixed_not_pure
 -- name    : FairSelling.MixedGood.mixed_not_pure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:04:20.776434+00:00
 -- url     : https://prove2.me/theorems/df871be8-2792-4014-b7c2-0c758606af95

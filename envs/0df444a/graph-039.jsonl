@@ -68557,7 +68557,7 @@
 {"parent": "Formalism.ExtensionFiltration.HermitianIdempotentFrameLemmas.rk_map_cut", "child": "Formalism_MeanHeightDescent_AverageDegreeBounds_GoodBadCut", "via": ["solution", "statement"]}
 {"parent": "Formalism.ExtensionFiltration.HermitianIdempotentFrameLemmas.rk_map_cut", "child": "Formalism_HarderNarasimhan_ShiftInvariance", "via": ["solution", "statement"]}
 {"parent": "Formalism.ExtensionFiltration.HermitianIdempotentFrameLemmas.rk_map_cut", "child": "Formalism_MeanHeightDescent_MuMaxMinkowski", "via": ["solution", "statement"]}
-{"parent": "SpectralContrastive.probe_invariant_rescaling", "child": "SpectralContrastive_Basic", "via": ["statement"]}
+{"parent": "SpectralContrastive.probe_invariant_rescaling", "child": "SpectralContrastive_Basic", "via": ["solution", "statement"]}
 {"parent": "Formalism.F.covol_anti_same_rank", "child": "Formalism_LatticeSlopes_LatticeSlopesProofs_SlopeInequality", "via": ["solution", "statement"]}
 {"parent": "Formalism.F.covol_anti_same_rank", "child": "Formalism_LatticeSlopes_LatticeSlopesProofs_SaturationProperties", "via": ["solution", "statement"]}
 {"parent": "Formalism.F.covol_anti_same_rank", "child": "Formalism_LatticeSlopes_LatticeSlopesProofs_DiscreteTopologyOfLe", "via": ["solution", "statement"]}
@@ -71204,7 +71204,7 @@
 {"parent": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_EndoZInstance", "child": "Formalism_LocalToGlobal_TorsionIntegrality_SecondCoefficientNorms_HasSecondLogDeriv", "via": ["statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.AdicNeighbourhood.Adic.taylor", "child": "Formalism_HermitianCurvature_ThetaExistenceInductiveFromPieces", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.AdicNeighbourhood.Adic.taylor", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_AdicNeighbourhood", "via": ["solution", "statement"]}
-{"parent": "IActThereforeIAm.data_processing_representation", "child": "IActThereforeIAm_Basic", "via": ["statement"]}
+{"parent": "IActThereforeIAm.data_processing_representation", "child": "IActThereforeIAm_Basic", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.A6x6.sec_mem", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_IntegralLatticeRefinementIdentity", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.A6x6.sec_mem", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_GaussSumModulusOfLattice", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.A6x6.sec_mem", "child": "Formalism_HermitianCurvature_ThetaExistenceInductiveFromPieces", "via": ["solution", "statement"]}
@@ -80521,8 +80521,8 @@
 {"parent": "PI.VolStabSW.SdDualW.trace_one_tmul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_PosNear", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.SdDualW.trace_one_tmul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_TensAll", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabSW.SdDualW.trace_one_tmul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_SdUniq", "via": ["solution", "statement"]}
-{"parent": "RobustPower.StochGap.Supplement.theorem_4_3_tight_segment", "child": "RobustPower_AdaptGap_Problems", "via": ["statement"]}
-{"parent": "RobustPower.StochGap.Supplement.theorem_4_3_tight_segment", "child": "RobustPower_StochGap_Problems", "via": ["statement"]}
+{"parent": "RobustPower.StochGap.Supplement.theorem_4_3_tight_segment", "child": "RobustPower_AdaptGap_Problems", "via": ["solution", "statement"]}
+{"parent": "RobustPower.StochGap.Supplement.theorem_4_3_tight_segment", "child": "RobustPower_StochGap_Problems", "via": ["solution", "statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ExistsHermitianCongrToOne", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ResAlgSplitTwo", "via": ["statement"]}
 {"parent": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ExistsHermitianCongrToOne", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_CardOrthonormalFramesHermitianSpaceStatement", "via": ["statement"]}
 {"parent": "RH1E6S17.group_001", "child": "ArdaRH65K_RS4_Sound", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_prepend_mem_language
 -- name    : BalanceSpecification.FiveSymbol.prepend_mem_language
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:44:28.924895+00:00
 -- url     : https://prove2.me/theorems/3db80eef-f30e-4964-bfed-9d25cff4a736

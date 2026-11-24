@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_generated_synchronizingCode_mem_language
 -- name    : BalanceSpecification.generated_synchronizingCode_mem_language
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:16:05.437644+00:00
 -- url     : https://prove2.me/theorems/5aa5d4a9-5288-4dd5-8706-df51f497cc83

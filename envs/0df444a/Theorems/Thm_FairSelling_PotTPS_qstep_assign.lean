@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PotTPS_qstep_assign
 -- name    : FairSelling.PotTPS.qstep_assign
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:33:10.672798+00:00
 -- url     : https://prove2.me/theorems/2ad783e2-351b-4dbb-9d56-b7bbeb4be500

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_reject_one_counting
 -- name    : FairSelling.reject_one_counting
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:06:47.815737+00:00
 -- url     : https://prove2.me/theorems/7a5004dd-5e6f-417c-b55c-881f504acc96

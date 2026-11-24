@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_positiveGaugeStability
 -- name    : DimdPolyLEAN.positiveGaugeStability
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:26:18.58814+00:00
 -- url     : https://prove2.me/theorems/3f56e603-fc40-499b-bea1-f19b28e0f4b3

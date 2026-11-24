@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_OneSidedExample_not_hasVariableSpecification
 -- name    : BalanceSpecification.OneSidedExample.not_hasVariableSpecification
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:13:52.319509+00:00
 -- url     : https://prove2.me/theorems/c04b83f2-b708-46ae-9fbf-febf43972410

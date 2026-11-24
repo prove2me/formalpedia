@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_windowAmbiguity_polynomial_nonzero
 -- name    : DimdPolyLEAN.windowAmbiguity_polynomial_nonzero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:40:58.280887+00:00
 -- url     : https://prove2.me/theorems/f980d4ce-ccbb-4304-972c-595f0511cd56

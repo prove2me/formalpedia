@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_firstPassageTransform_positiveBarrier
 -- name    : Kyprianou.Ch03.firstPassageTransform_positiveBarrier
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-18T17:41:28.833789+00:00
 -- url     : https://prove2.me/theorems/e9183d86-547e-4156-bb53-208a261803ba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_words_nonempty
 -- name    : BalanceSpecification.words_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:16:48.174366+00:00
 -- url     : https://prove2.me/theorems/3435b5f7-b89a-41a7-8972-d4b012569da7

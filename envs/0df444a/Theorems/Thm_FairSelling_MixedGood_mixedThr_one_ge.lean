@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_MixedGood_mixedThr_one_ge
 -- name    : FairSelling.MixedGood.mixedThr_one_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:04:11.990556+00:00
 -- url     : https://prove2.me/theorems/35227799-42cc-408a-877f-f2ce812e6a01

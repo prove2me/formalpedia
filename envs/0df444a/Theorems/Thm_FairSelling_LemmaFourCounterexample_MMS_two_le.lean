@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_LemmaFourCounterexample_MMS_two_le
 -- name    : FairSelling.LemmaFourCounterexample.MMS_two_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:09:32.763605+00:00
 -- url     : https://prove2.me/theorems/7b944991-2666-4f3e-a568-9196949bcb03

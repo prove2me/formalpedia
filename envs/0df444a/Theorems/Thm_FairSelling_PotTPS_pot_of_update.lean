@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PotTPS_pot_of_update
 -- name    : FairSelling.PotTPS.pot_of_update
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:03:36.31079+00:00
 -- url     : https://prove2.me/theorems/2743ea49-aa7b-43df-98ba-4c9821ed10eb

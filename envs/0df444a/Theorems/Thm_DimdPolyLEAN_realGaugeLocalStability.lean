@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_realGaugeLocalStability
 -- name    : DimdPolyLEAN.realGaugeLocalStability
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:26:07.315363+00:00
 -- url     : https://prove2.me/theorems/539d8b4e-321a-4886-932b-2e7e7786cfd7

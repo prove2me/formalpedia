@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_wordFinset_language_eq_words
 -- name    : BalanceSpecification.wordFinset_language_eq_words
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:16:20.654202+00:00
 -- url     : https://prove2.me/theorems/b9d28eff-4e9d-4072-a982-24da97e769bc

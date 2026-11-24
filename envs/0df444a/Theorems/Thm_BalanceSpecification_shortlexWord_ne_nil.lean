@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_shortlexWord_ne_nil
 -- name    : BalanceSpecification.shortlexWord_ne_nil
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:43:37.8736+00:00
 -- url     : https://prove2.me/theorems/b06fca16-037f-44b4-aff7-e5f939ff8f04

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_exists_value_reduction
 -- name    : FairSelling.exists_value_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:09:56.167837+00:00
 -- url     : https://prove2.me/theorems/b14229ff-71e2-4182-9207-d89318c896d8

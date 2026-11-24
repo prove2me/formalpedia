@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_synchronized
 -- name    : BalanceSpecification.MarkerExtension.synchronized
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:23:58.029407+00:00
 -- url     : https://prove2.me/theorems/72855fdf-0eaa-430d-b63d-9b485818acf8

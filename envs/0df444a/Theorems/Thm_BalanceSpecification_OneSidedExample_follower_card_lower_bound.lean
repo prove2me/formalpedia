@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_OneSidedExample_follower_card_lower_bound
 -- name    : BalanceSpecification.OneSidedExample.follower_card_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:49:52.820799+00:00
 -- url     : https://prove2.me/theorems/2134875c-0283-4288-9488-8c5ae633d0f7

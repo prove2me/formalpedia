@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for LocalProbeMIS871.Greedy.theorem_1_1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Shuze Chen
 -- created : 2026-11-23T00:18:26.067674+00:00
 -- url     : https://prove2.me/submissions/39923246-3bb4-4fbe-b2ed-27c97e3cb86c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_LocalProbeMIS871_Greedy_Elimination
 import Theorems.Thm_LocalProbeMIS871_Greedy_theorem_3_1

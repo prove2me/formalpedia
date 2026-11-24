@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_integral_real_mul_exp_neg_sq
 -- name    : DimdPolyLEAN.integral_real_mul_exp_neg_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:37:04.356798+00:00
 -- url     : https://prove2.me/theorems/62fd7a1a-b098-4a3a-9891-1602fff22e3f

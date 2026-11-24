@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_canonical_strict_trivial
 -- name    : FairSelling.canonical_strict_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:07:10.051224+00:00
 -- url     : https://prove2.me/theorems/e8b8841d-e721-4633-a9d7-ef3440dbfdbf

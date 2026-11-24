@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_exists_positive_shortlex_index
 -- name    : BalanceSpecification.exists_positive_shortlex_index
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:43:40.837453+00:00
 -- url     : https://prove2.me/theorems/e3197f12-f53f-4cf2-9a71-9a9740208b96

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_LemmaFourCounterexample_K_disjoint_S
 -- name    : FairSelling.LemmaFourCounterexample.K_disjoint_S
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:09:23.597799+00:00
 -- url     : https://prove2.me/theorems/30029168-4397-43bf-b47c-341ea3c3404b

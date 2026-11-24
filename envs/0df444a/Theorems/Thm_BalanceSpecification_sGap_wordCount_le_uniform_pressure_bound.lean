@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_sGap_wordCount_le_uniform_pressure_bound
 -- name    : BalanceSpecification.sGap_wordCount_le_uniform_pressure_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:16:09.513025+00:00
 -- url     : https://prove2.me/theorems/a90a03a6-9cfc-4331-9700-8ff4d584f7f2

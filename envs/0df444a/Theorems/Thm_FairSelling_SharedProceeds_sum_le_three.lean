@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_SharedProceeds_sum_le_three
 -- name    : FairSelling.SharedProceeds.sum_le_three
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:05:39.671676+00:00
 -- url     : https://prove2.me/theorems/53c0e020-552e-46db-ad6e-9853f4401492

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_sGap_wordCount_le_restricted_renewal_sum
 -- name    : BalanceSpecification.sGap_wordCount_le_restricted_renewal_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:16:04.614703+00:00
 -- url     : https://prove2.me/theorems/9aecb574-0ca1-4079-839f-3f8219069ab8

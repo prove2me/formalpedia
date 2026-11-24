@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_exact_modulus_recovery_skappa_ae
 -- name    : DimdPolyLEAN.exact_modulus_recovery_skappa_ae
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:17:31.20027+00:00
 -- url     : https://prove2.me/theorems/c0061c95-295c-423f-aa4d-e1ce1d8e5cf3

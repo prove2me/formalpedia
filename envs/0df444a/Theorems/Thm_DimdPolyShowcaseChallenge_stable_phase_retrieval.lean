@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyShowcaseChallenge_stable_phase_retrieval
 -- name    : DimdPolyShowcaseChallenge.stable_phase_retrieval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:45:25.897482+00:00
 -- url     : https://prove2.me/theorems/0f47dbf2-9ccf-4f8a-8d75-4005f56b61b5

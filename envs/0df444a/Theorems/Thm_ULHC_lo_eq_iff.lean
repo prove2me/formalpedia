@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_lo_eq_iff
 -- name    : ULHC.lo_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:42:55.856796+00:00
 -- url     : https://prove2.me/theorems/36211839-a631-49b6-9eb5-7dbbda76eed9

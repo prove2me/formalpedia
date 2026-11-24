@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PotTPS_qdescent_inner
 -- name    : FairSelling.PotTPS.qdescent_inner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:03:28.897235+00:00
 -- url     : https://prove2.me/theorems/b9994810-ea00-42a7-b1f7-cd3bf7b69c78

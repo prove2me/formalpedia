@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PotTPS_QStage_cost_eq_zero_of_notMem
 -- name    : FairSelling.PotTPS.QStage.cost_eq_zero_of_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:02:40.389049+00:00
 -- url     : https://prove2.me/theorems/641c9657-7e39-499a-9a4d-ce75edcd7116

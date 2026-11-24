@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_hasDerivAt_integral_shifted_generating_mul_modulated_left_closed
 -- name    : DimdPolyLEAN.hasDerivAt_integral_shifted_generating_mul_modulated_left_closed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:36:37.035189+00:00
 -- url     : https://prove2.me/theorems/48b47bf6-322a-42ea-80ca-b68e19acf159

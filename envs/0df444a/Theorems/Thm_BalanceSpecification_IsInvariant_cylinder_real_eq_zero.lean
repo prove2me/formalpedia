@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_IsInvariant_cylinder_real_eq_zero
 -- name    : BalanceSpecification.IsInvariant.cylinder_real_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:36:08.779382+00:00
 -- url     : https://prove2.me/theorems/6316c42b-12ac-4839-bbe9-e92df98668c4

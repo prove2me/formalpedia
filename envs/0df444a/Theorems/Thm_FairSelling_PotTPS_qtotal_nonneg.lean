@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PotTPS_qtotal_nonneg
 -- name    : FairSelling.PotTPS.qtotal_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:02:47.513078+00:00
 -- url     : https://prove2.me/theorems/0339e66f-d9e9-4a9a-b5e2-9724928976b8

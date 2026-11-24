@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PhaseTPS_pfeas_pool
 -- name    : FairSelling.PhaseTPS.pfeas_pool
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:01:07.31086+00:00
 -- url     : https://prove2.me/theorems/fc16ef11-7fb3-4a23-b672-b58250562ce1

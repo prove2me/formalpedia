@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermitekLEAN_leading_term_extraction
 -- name    : HermitekLEAN.leading_term_extraction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:45:16.301797+00:00
 -- url     : https://prove2.me/theorems/d3537947-99f6-4883-acbb-c66b9dcd5f9b

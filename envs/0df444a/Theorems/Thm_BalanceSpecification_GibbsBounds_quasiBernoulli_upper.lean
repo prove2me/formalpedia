@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_GibbsBounds_quasiBernoulli_upper
 -- name    : BalanceSpecification.GibbsBounds.quasiBernoulli_upper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:45:31.950911+00:00
 -- url     : https://prove2.me/theorems/9f4a0946-6c95-4771-9b7c-70689b496ef9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_vbarSum_map_some
 -- name    : FairSelling.vbarSum_map_some
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:06:04.517862+00:00
 -- url     : https://prove2.me/theorems/e2d743dc-19a7-4d01-9638-96270100977d

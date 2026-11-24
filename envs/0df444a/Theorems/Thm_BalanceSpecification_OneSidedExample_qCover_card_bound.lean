@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_OneSidedExample_qCover_card_bound
 -- name    : BalanceSpecification.OneSidedExample.qCover_card_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:13:20.341185+00:00
 -- url     : https://prove2.me/theorems/3faf1ac1-672b-4f69-8472-74eff1103870

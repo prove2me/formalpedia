@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermitekLEAN_hermiteCoeff_hermiteSeries
 -- name    : HermitekLEAN.hermiteCoeff_hermiteSeries
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:31:27.668686+00:00
 -- url     : https://prove2.me/theorems/273472d6-a274-48b5-a126-6c61dc369750

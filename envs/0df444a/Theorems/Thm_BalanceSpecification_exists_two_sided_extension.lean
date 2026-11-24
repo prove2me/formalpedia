@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_exists_two_sided_extension
 -- name    : BalanceSpecification.exists_two_sided_extension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:17:00.628574+00:00
 -- url     : https://prove2.me/theorems/6f3e6ca4-2702-4d76-8d7d-af3537a78916

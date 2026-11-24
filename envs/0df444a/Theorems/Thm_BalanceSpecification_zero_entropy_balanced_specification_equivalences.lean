@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_zero_entropy_balanced_specification_equivalences
 -- name    : BalanceSpecification.zero_entropy_balanced_specification_equivalences
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:19:06.379918+00:00
 -- url     : https://prove2.me/theorems/db0787b5-6e3d-4e0a-b0a0-f6a5697137a6

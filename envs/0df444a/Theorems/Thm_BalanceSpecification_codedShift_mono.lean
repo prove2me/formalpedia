@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_codedShift_mono
 -- name    : BalanceSpecification.codedShift_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:21:16.883457+00:00
 -- url     : https://prove2.me/theorems/08020d10-a7be-4145-92eb-84813a3efadd

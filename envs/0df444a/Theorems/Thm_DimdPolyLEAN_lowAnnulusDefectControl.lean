@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_lowAnnulusDefectControl
 -- name    : DimdPolyLEAN.lowAnnulusDefectControl
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:25:45.328729+00:00
 -- url     : https://prove2.me/theorems/10eb04ba-7196-46a8-b568-65a5fef25342

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_OneSidedExample_predecessor_probe_subset
 -- name    : BalanceSpecification.OneSidedExample.predecessor_probe_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:49:39.486912+00:00
 -- url     : https://prove2.me/theorems/a770ec70-778d-4f54-bfbe-7c1ee319a7d7

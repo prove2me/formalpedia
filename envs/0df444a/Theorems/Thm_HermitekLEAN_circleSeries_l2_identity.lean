@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermitekLEAN_circleSeries_l2_identity
 -- name    : HermitekLEAN.circleSeries_l2_identity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:31:01.664234+00:00
 -- url     : https://prove2.me/theorems/de827334-a9cc-4108-95d0-c88010004e41

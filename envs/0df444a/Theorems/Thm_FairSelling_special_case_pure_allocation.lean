@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_special_case_pure_allocation
 -- name    : FairSelling.special_case_pure_allocation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:07:17.554441+00:00
 -- url     : https://prove2.me/theorems/4ca19d04-29b9-4a9f-a0fd-9acf7485aedc

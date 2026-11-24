@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_exists_coded_oneSided_not_biBalanced_of_entropy
 -- name    : BalanceSpecification.exists_coded_oneSided_not_biBalanced_of_entropy
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:37:58.329381+00:00
 -- url     : https://prove2.me/theorems/4fac964e-4b9e-4381-93b5-b4cfea3ed3ea

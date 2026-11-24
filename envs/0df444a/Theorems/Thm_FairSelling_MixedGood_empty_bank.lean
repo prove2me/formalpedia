@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_MixedGood_empty_bank
 -- name    : FairSelling.MixedGood.empty_bank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:05:13.688988+00:00
 -- url     : https://prove2.me/theorems/f1a2971c-388e-45f3-a9dc-564b602447b8

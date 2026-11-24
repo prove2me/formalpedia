@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPower_StochGap_Supplement_theorem_4_3_tight_segment
 -- name    : RobustPower.StochGap.Supplement.theorem_4_3_tight_segment
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-23T19:34:09.035825+00:00
 -- url     : https://prove2.me/theorems/979cd3e2-e24a-401d-9365-d7bd0d6cb071

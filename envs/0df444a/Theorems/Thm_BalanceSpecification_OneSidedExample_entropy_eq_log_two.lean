@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_OneSidedExample_entropy_eq_log_two
 -- name    : BalanceSpecification.OneSidedExample.entropy_eq_log_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:58:45.074054+00:00
 -- url     : https://prove2.me/theorems/b8f1d23e-ffac-4546-b8de-32f668f6ca3f

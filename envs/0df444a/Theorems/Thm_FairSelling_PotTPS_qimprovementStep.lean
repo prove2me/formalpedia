@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PotTPS_qimprovementStep
 -- name    : FairSelling.PotTPS.qimprovementStep
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:04:16.846508+00:00
 -- url     : https://prove2.me/theorems/24092702-29bc-4b7a-8987-36ec5c3b5cc1

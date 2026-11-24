@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_entropy_unrestrictedShift_of_unique
 -- name    : BalanceSpecification.entropy_unrestrictedShift_of_unique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:30:48.306394+00:00
 -- url     : https://prove2.me/theorems/2b73b3f9-821d-4c53-a6f0-9af7011d742f

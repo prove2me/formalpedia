@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_LemmaFourCounterexample_vbarSum_univ
 -- name    : FairSelling.LemmaFourCounterexample.vbarSum_univ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:08:51.497683+00:00
 -- url     : https://prove2.me/theorems/33a67c6f-b71e-4071-b11a-b20af2a8b775

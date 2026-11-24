@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PotTPS_qcut_step
 -- name    : FairSelling.PotTPS.qcut_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:03:51.663787+00:00
 -- url     : https://prove2.me/theorems/f0772118-f925-4261-80e4-20aa81f22a3d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_SharedProceeds_sv_nonneg
 -- name    : FairSelling.SharedProceeds.sv_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:05:31.054001+00:00
 -- url     : https://prove2.me/theorems/25c65d2a-8a13-498b-a429-8145ee3c011c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermitekLEAN_h_k_expansion_perp_phi0
 -- name    : HermitekLEAN.h_k_expansion_perp_phi0
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:31:16.381663+00:00
 -- url     : https://prove2.me/theorems/d673ef18-7c38-43e1-9b37-3efc7fc6d415

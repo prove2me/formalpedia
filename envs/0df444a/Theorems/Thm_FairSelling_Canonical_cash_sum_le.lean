@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_Canonical_cash_sum_le
 -- name    : FairSelling.Canonical.cash_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:10:34.660233+00:00
 -- url     : https://prove2.me/theorems/94311169-2a44-45cc-b4c6-72decff16857

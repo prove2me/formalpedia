@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_lemmaFourCash_of_sold
 -- name    : FairSelling.lemmaFourCash_of_sold
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:44:15.845393+00:00
 -- url     : https://prove2.me/theorems/348a133c-55e8-4806-86a7-40969765aecb

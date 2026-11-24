@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PotTPS_qtotal_le_bound
 -- name    : FairSelling.PotTPS.qtotal_le_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:02:47.836472+00:00
 -- url     : https://prove2.me/theorems/8d99b956-2636-4bef-b8b7-a4bcaf4a56e1

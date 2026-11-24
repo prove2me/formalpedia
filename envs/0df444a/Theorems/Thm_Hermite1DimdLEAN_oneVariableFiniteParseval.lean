@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hermite1DimdLEAN_oneVariableFiniteParseval
 -- name    : Hermite1DimdLEAN.oneVariableFiniteParseval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:32:11.665402+00:00
 -- url     : https://prove2.me/theorems/1e1adf44-f888-444d-a5fc-db0c60d722fc

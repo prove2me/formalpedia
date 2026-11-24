@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_OneSidedExample_predecessor_probe_card_le_one
 -- name    : BalanceSpecification.OneSidedExample.predecessor_probe_card_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:13:50.730809+00:00
 -- url     : https://prove2.me/theorems/c34e08dc-b1da-43b1-9485-89e1dd7ba3b9

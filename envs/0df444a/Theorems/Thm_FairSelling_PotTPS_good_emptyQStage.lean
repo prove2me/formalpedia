@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PotTPS_good_emptyQStage
 -- name    : FairSelling.PotTPS.good_emptyQStage
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:02:36.889004+00:00
 -- url     : https://prove2.me/theorems/d9b26d0f-0c50-4131-82a2-bb9445d0e869

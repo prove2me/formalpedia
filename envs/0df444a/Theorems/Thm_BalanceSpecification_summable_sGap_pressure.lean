@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_summable_sGap_pressure
 -- name    : BalanceSpecification.summable_sGap_pressure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:16:02.193702+00:00
 -- url     : https://prove2.me/theorems/9d280149-db94-43cc-a2b7-2e66afbb3af4

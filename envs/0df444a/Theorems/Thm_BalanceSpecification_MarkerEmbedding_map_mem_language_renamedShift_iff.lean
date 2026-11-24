@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerEmbedding_map_mem_language_renamedShift_iff
 -- name    : BalanceSpecification.MarkerEmbedding.map_mem_language_renamedShift_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:20:12.983192+00:00
 -- url     : https://prove2.me/theorems/e7617a5f-bd15-42ad-8ade-83cb573ce54d

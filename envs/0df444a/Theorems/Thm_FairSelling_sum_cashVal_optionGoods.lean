@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_sum_cashVal_optionGoods
 -- name    : FairSelling.sum_cashVal_optionGoods
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:05:43.748803+00:00
 -- url     : https://prove2.me/theorems/4dec38a1-3306-4ea2-94cc-aba9dd6db1fc

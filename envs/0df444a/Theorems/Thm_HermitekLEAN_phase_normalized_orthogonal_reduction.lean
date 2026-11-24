@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermitekLEAN_phase_normalized_orthogonal_reduction
 -- name    : HermitekLEAN.phase_normalized_orthogonal_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:32:12.046395+00:00
 -- url     : https://prove2.me/theorems/d47d1d8d-7faa-46f7-b30c-66a25f1082fb

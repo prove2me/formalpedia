@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_IsGibbsMeasure_cylinder_real_pos
 -- name    : BalanceSpecification.IsGibbsMeasure.cylinder_real_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:36:26.468264+00:00
 -- url     : https://prove2.me/theorems/768cf0c4-1a84-4568-8b13-6bca8026233a

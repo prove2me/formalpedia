@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hermite1DimdLEAN_productAnnulusEstimate
 -- name    : Hermite1DimdLEAN.productAnnulusEstimate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:43:54.588798+00:00
 -- url     : https://prove2.me/theorems/78b00fdb-c708-4a56-925e-a047c7ae621b

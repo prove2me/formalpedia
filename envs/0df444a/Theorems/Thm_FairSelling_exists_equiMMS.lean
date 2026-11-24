@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_exists_equiMMS
 -- name    : FairSelling.exists_equiMMS
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:10:00.968961+00:00
 -- url     : https://prove2.me/theorems/fcb3fe51-fdc9-46fc-a9be-e245fd8748b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_norm_one_add_pow_sub_one_sub_smul_le_sq
 -- name    : GlobalTheory.T.norm_one_add_pow_sub_one_sub_smul_le_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:39:43.699118+00:00
 -- url     : https://prove2.me/theorems/1e397832-353f-4351-9a9d-7a426dfeeebd

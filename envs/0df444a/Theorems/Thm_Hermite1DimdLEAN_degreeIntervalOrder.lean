@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hermite1DimdLEAN_degreeIntervalOrder
 -- name    : Hermite1DimdLEAN.degreeIntervalOrder
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:42:21.634792+00:00
 -- url     : https://prove2.me/theorems/0bf1218a-0113-4fb4-9d3c-8b822533190b

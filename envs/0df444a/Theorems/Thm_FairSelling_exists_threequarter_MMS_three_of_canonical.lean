@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_exists_threequarter_MMS_three_of_canonical
 -- name    : FairSelling.exists_threequarter_MMS_three_of_canonical
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:07:27.954805+00:00
 -- url     : https://prove2.me/theorems/29a3c48a-b9b1-4151-b9e2-d043dd633f49

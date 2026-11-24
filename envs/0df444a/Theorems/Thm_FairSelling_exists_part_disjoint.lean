@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_exists_part_disjoint
 -- name    : FairSelling.exists_part_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:07:48.010812+00:00
 -- url     : https://prove2.me/theorems/337a5cd1-3b5c-4676-8eb3-84309b844b6a

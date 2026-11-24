@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_Adj_ends
 -- name    : ULHC.Adj.ends
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:42:44.275481+00:00
 -- url     : https://prove2.me/theorems/b19132de-4f67-4541-be96-6bf46e99dc84

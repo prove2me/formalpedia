@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PotTPS_QStage_pot_of_pool
 -- name    : FairSelling.PotTPS.QStage.pot_of_pool
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:42:51.098746+00:00
 -- url     : https://prove2.me/theorems/b7578a1a-31ba-4dce-b754-40ef62aa7c7a

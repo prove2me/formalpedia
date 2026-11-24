@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiniteEntropy_shannon_uniform_binary_words
 -- name    : BalanceSpecification.FiniteEntropy.shannon_uniform_binary_words
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:16:14.135312+00:00
 -- url     : https://prove2.me/theorems/408977f6-8547-40c7-9070-c4b4c58842bf

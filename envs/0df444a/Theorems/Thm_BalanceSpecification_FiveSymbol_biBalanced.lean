@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_FiveSymbol_biBalanced
 -- name    : BalanceSpecification.FiveSymbol.biBalanced
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:12:13.578918+00:00
 -- url     : https://prove2.me/theorems/7f1f8a8f-cfdd-4ce7-a512-4720db224919

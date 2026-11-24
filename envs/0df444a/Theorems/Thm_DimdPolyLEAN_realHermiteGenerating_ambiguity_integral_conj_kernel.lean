@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_realHermiteGenerating_ambiguity_integral_conj_kernel
 -- name    : DimdPolyLEAN.realHermiteGenerating_ambiguity_integral_conj_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:36:11.690638+00:00
 -- url     : https://prove2.me/theorems/964e7bff-3ef5-43d0-8313-f0b3e299dd0f

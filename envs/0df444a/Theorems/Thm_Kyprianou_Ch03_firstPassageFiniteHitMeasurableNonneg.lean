@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_firstPassageFiniteHitMeasurableNonneg
 -- name    : Kyprianou.Ch03.firstPassageFiniteHitMeasurableNonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T07:41:30.598472+00:00
 -- url     : https://prove2.me/theorems/76941dc5-62c1-42aa-836d-e0832c4a3eca

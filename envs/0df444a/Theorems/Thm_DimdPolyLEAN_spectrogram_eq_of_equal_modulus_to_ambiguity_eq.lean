@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_spectrogram_eq_of_equal_modulus_to_ambiguity_eq
 -- name    : DimdPolyLEAN.spectrogram_eq_of_equal_modulus_to_ambiguity_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:25:04.514489+00:00
 -- url     : https://prove2.me/theorems/71d87df4-0eae-4a55-b62b-b1539625769c

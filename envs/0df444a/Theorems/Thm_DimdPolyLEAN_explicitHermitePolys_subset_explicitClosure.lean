@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_explicitHermitePolys_subset_explicitClosure
 -- name    : DimdPolyLEAN.explicitHermitePolys_subset_explicitClosure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:45:27.343412+00:00
 -- url     : https://prove2.me/theorems/1e24247d-55e0-41a2-b43e-348a93cffe6d

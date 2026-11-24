@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PotTPS_qfeas_pool
 -- name    : FairSelling.PotTPS.qfeas_pool
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:03:43.63442+00:00
 -- url     : https://prove2.me/theorems/c79618aa-0109-4706-b360-82e0a4bf2ee3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_iInter_subshiftCylinderEvent
 -- name    : BalanceSpecification.iInter_subshiftCylinderEvent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:14:16.282505+00:00
 -- url     : https://prove2.me/theorems/c64a20eb-fa75-4de2-9671-c5999eb68a26

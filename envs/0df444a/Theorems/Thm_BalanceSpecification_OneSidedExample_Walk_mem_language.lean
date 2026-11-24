@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_OneSidedExample_Walk_mem_language
 -- name    : BalanceSpecification.OneSidedExample.Walk.mem_language
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:44:10.396878+00:00
 -- url     : https://prove2.me/theorems/698a295f-c232-4228-887f-7a25ab35461b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_Canonical_sold_subset
 -- name    : FairSelling.Canonical.sold_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:10:29.323181+00:00
 -- url     : https://prove2.me/theorems/c0b6ab9d-d8ff-470e-8033-f408718af8d2

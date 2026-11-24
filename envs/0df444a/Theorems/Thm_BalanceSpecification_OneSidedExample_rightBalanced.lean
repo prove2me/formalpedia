@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_OneSidedExample_rightBalanced
 -- name    : BalanceSpecification.OneSidedExample.rightBalanced
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:13:33.962362+00:00
 -- url     : https://prove2.me/theorems/a0933680-d470-4733-8477-81ebba72155a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_stablePhaseRetrievalExplicitClosure
 -- name    : DimdPolyLEAN.stablePhaseRetrievalExplicitClosure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:27:06.999281+00:00
 -- url     : https://prove2.me/theorems/901762fd-00da-4bbe-b971-9cbdf5daca44

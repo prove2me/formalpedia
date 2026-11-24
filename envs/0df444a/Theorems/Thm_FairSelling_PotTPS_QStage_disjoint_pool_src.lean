@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PotTPS_QStage_disjoint_pool_src
 -- name    : FairSelling.PotTPS.QStage.disjoint_pool_src
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:42:36.554589+00:00
 -- url     : https://prove2.me/theorems/51e59315-b93c-4510-a6ef-496ea9d9bb8c

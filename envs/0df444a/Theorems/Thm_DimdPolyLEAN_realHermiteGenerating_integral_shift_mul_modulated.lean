@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_realHermiteGenerating_integral_shift_mul_modulated
 -- name    : DimdPolyLEAN.realHermiteGenerating_integral_shift_mul_modulated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:35:43.511842+00:00
 -- url     : https://prove2.me/theorems/908c2931-6d73-4d14-a415-c77fa738c621

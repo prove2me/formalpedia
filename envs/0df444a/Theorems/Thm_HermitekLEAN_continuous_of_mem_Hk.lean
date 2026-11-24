@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermitekLEAN_continuous_of_mem_Hk
 -- name    : HermitekLEAN.continuous_of_mem_Hk
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:31:20.858106+00:00
 -- url     : https://prove2.me/theorems/863be85c-54fd-4d60-818a-772d62c7c16d

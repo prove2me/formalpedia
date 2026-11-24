@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalProbeMIS871_Greedy_lemma_3_2
 -- name    : LocalProbeMIS871.Greedy.lemma_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-09T01:53:00.113249+00:00
 -- url     : https://prove2.me/theorems/dc48bab7-8509-4f9c-a9e6-b122d686dfbe

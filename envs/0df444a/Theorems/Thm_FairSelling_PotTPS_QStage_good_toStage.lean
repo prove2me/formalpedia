@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PotTPS_QStage_good_toStage
 -- name    : FairSelling.PotTPS.QStage.good_toStage
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:35:54.557943+00:00
 -- url     : https://prove2.me/theorems/e95492fa-b57d-4df2-ab07-12ff15b3ada1

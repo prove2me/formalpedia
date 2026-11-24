@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_languageEntropy_eq_limsup
 -- name    : BalanceSpecification.languageEntropy_eq_limsup
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:40:25.334807+00:00
 -- url     : https://prove2.me/theorems/91dad79f-3577-4b85-85e3-afd101f41fe9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_vbarSum_sold_le
 -- name    : FairSelling.vbarSum_sold_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:07:11.627143+00:00
 -- url     : https://prove2.me/theorems/9fc07953-e7d9-49c6-b3ae-ad9c73a0cb6b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_MMS2_cash_of_total
 -- name    : FairSelling.MMS2_cash_of_total
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:43:49.958242+00:00
 -- url     : https://prove2.me/theorems/e07a41b4-8690-4f87-9af3-b06d0340e84b

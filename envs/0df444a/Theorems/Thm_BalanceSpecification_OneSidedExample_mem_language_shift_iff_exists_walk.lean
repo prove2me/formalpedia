@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_OneSidedExample_mem_language_shift_iff_exists_walk
 -- name    : BalanceSpecification.OneSidedExample.mem_language_shift_iff_exists_walk
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:44:20.980621+00:00
 -- url     : https://prove2.me/theorems/1d522ffb-9e7d-466c-a62b-56a9c26626e0

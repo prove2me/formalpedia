@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermitekLEAN_modulus_rigidity
 -- name    : HermitekLEAN.modulus_rigidity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:45:46.803904+00:00
 -- url     : https://prove2.me/theorems/3ed1db05-47f0-4e28-9a40-98f6707057b9

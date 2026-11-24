@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_mem_carrier_iff_centered_blocks
 -- name    : BalanceSpecification.mem_carrier_iff_centered_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:14:15.865594+00:00
 -- url     : https://prove2.me/theorems/0c04cbca-a660-4f07-80bd-7525bd1020ef

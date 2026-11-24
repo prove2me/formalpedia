@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_config_loss_le
 -- name    : FairSelling.config_loss_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:07:58.134771+00:00
 -- url     : https://prove2.me/theorems/4b081c2a-cc20-4e7a-b69d-f88337112873

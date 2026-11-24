@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_GibbsBounds_subshiftCylinderEvent_lower_of_entropy_eq
 -- name    : BalanceSpecification.GibbsBounds.subshiftCylinderEvent_lower_of_entropy_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:14:36.053242+00:00
 -- url     : https://prove2.me/theorems/4cf36ed5-e063-4170-a2a4-11742309f22f

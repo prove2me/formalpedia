@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hermite1DimdLEAN_totalDegreePiecePhaseLaw
 -- name    : Hermite1DimdLEAN.totalDegreePiecePhaseLaw
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:32:39.054395+00:00
 -- url     : https://prove2.me/theorems/0a1bc20a-d93a-40db-8886-3ae71eef7094

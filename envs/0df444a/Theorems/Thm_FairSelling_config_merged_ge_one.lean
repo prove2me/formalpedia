@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_config_merged_ge_one
 -- name    : FairSelling.config_merged_ge_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:07:59.441396+00:00
 -- url     : https://prove2.me/theorems/1918944d-bfe9-474d-b913-07a9d636275e

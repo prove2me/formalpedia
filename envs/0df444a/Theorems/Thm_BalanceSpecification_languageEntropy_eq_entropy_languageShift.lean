@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_languageEntropy_eq_entropy_languageShift
 -- name    : BalanceSpecification.languageEntropy_eq_entropy_languageShift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:40:39.960486+00:00
 -- url     : https://prove2.me/theorems/88c5a5f9-d413-4d45-8232-e41e436948de

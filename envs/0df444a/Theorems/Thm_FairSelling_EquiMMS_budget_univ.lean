@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_EquiMMS_budget_univ
 -- name    : FairSelling.EquiMMS.budget_univ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:09:46.576038+00:00
 -- url     : https://prove2.me/theorems/f2f90fc9-8ae1-4d1c-9763-19939eca6f98

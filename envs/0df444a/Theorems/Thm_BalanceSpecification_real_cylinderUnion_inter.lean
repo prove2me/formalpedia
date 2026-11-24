@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_real_cylinderUnion_inter
 -- name    : BalanceSpecification.real_cylinderUnion_inter
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:14:55.44089+00:00
 -- url     : https://prove2.me/theorems/3c6cf6fd-bb16-481e-b52d-0d5d88e617cb

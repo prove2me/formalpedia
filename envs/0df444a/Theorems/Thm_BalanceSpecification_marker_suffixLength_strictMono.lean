@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_marker_suffixLength_strictMono
 -- name    : BalanceSpecification.marker_suffixLength_strictMono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:26:15.638717+00:00
 -- url     : https://prove2.me/theorems/84563cb3-4e81-4d95-8562-eb911d1ec47d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_MMS2_cash_of_config_split
 -- name    : FairSelling.MMS2_cash_of_config_split
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:44:57.022867+00:00
 -- url     : https://prove2.me/theorems/866ca683-5538-47d7-8b56-0023f026d470

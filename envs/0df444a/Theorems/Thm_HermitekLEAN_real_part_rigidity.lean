@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermitekLEAN_real_part_rigidity
 -- name    : HermitekLEAN.real_part_rigidity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:45:46.838233+00:00
 -- url     : https://prove2.me/theorems/db443976-eb6e-4b89-8fd1-da6dfa9d3117

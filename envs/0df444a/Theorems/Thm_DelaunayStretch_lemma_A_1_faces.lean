@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelaunayStretch_lemma_A_1_faces
 -- name    : DelaunayStretch.lemma_A_1_faces
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T02:52:33.448762+00:00
 -- url     : https://prove2.me/theorems/d2023286-fce0-4d6f-9f8b-58dc79792eba

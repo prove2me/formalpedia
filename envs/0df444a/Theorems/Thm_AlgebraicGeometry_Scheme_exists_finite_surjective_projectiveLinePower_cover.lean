@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_exists_finite_surjective_projectiveLinePower_cover
 -- name    : AlgebraicGeometry.Scheme.exists_finite_surjective_projectiveLinePower_cover
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-24T02:22:18.79783+00:00
 -- url     : https://prove2.me/theorems/835644a8-72d5-4a04-a822-626ae27fbd3b

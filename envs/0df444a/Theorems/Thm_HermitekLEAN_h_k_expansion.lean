@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermitekLEAN_h_k_expansion
 -- name    : HermitekLEAN.h_k_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:30:48.822204+00:00
 -- url     : https://prove2.me/theorems/28c3aec3-6b27-4c1a-9eec-ce3e53dcef21

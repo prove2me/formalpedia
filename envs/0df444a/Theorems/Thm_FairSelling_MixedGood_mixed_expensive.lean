@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_MixedGood_mixed_expensive
 -- name    : FairSelling.MixedGood.mixed_expensive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:04:23.937494+00:00
 -- url     : https://prove2.me/theorems/7b60d401-0d81-47ba-b408-cad2de901c0b

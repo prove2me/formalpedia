@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_skappa_ext_of_toFun_eq
 -- name    : DimdPolyLEAN.skappa_ext_of_toFun_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:35:14.923589+00:00
 -- url     : https://prove2.me/theorems/88e60bde-4f7a-4c14-8e11-61775437b2b5

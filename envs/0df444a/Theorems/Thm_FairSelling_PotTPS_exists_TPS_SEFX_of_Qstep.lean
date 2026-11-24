@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PotTPS_exists_TPS_SEFX_of_Qstep
 -- name    : FairSelling.PotTPS.exists_TPS_SEFX_of_Qstep
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:03:28.585074+00:00
 -- url     : https://prove2.me/theorems/8572f8d2-3cce-44f2-9554-59686b977bba

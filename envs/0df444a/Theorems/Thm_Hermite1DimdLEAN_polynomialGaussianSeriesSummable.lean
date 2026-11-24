@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hermite1DimdLEAN_polynomialGaussianSeriesSummable
 -- name    : Hermite1DimdLEAN.polynomialGaussianSeriesSummable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:42:11.281222+00:00
 -- url     : https://prove2.me/theorems/0e5df17b-9d70-4e45-b659-b7f7160902ea

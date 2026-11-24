@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_PhaseTPS_pdescent_inner
 -- name    : FairSelling.PhaseTPS.pdescent_inner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:00:01.439118+00:00
 -- url     : https://prove2.me/theorems/5064cb81-09b3-4720-a910-cb619a4321eb

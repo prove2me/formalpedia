@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_LemmaFourCounterexample_wn_sum
 -- name    : FairSelling.LemmaFourCounterexample.wn_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:08:40.724539+00:00
 -- url     : https://prove2.me/theorems/be2dbe82-2ce8-42a0-90d6-6a50df022e87

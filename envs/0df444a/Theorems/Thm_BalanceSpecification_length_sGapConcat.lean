@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_length_sGapConcat
 -- name    : BalanceSpecification.length_sGapConcat
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:35:09.615131+00:00
 -- url     : https://prove2.me/theorems/a97fadda-1654-4038-b744-db9f8bd37ddf

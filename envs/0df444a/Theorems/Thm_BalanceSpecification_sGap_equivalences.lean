@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_sGap_equivalences
 -- name    : BalanceSpecification.sGap_equivalences
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:34:26.261823+00:00
 -- url     : https://prove2.me/theorems/3aa04d2a-25a1-4509-8893-66d728755629

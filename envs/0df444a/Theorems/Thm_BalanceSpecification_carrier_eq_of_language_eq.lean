@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_carrier_eq_of_language_eq
 -- name    : BalanceSpecification.carrier_eq_of_language_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:17:01.364071+00:00
 -- url     : https://prove2.me/theorems/bf442059-2588-4727-8cc4-dde3e8e91cee

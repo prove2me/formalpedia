@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_GibbsBounds_one_le
 -- name    : BalanceSpecification.GibbsBounds.one_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:19:32.081146+00:00
 -- url     : https://prove2.me/theorems/51791f11-90eb-49c5-9526-8175d6dc7b4c

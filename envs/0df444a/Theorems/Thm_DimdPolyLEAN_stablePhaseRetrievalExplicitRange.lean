@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_stablePhaseRetrievalExplicitRange
 -- name    : DimdPolyLEAN.stablePhaseRetrievalExplicitRange
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:26:38.90003+00:00
 -- url     : https://prove2.me/theorems/0fa264ed-38a9-427b-9dad-b93c65d2c191

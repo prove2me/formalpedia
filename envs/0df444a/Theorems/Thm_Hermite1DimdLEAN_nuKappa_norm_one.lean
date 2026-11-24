@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hermite1DimdLEAN_nuKappa_norm_one
 -- name    : Hermite1DimdLEAN.nuKappa_norm_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:32:10.422919+00:00
 -- url     : https://prove2.me/theorems/10ab1e07-36b8-45d4-9d05-5d4bc04fd0cc

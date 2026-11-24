@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpectralContrastive_probe_invariant_rescaling
 -- name    : SpectralContrastive.probe_invariant_rescaling
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T18:35:08.235141+00:00
 -- url     : https://prove2.me/theorems/d2e04890-1238-4299-b3e3-172121aac90c

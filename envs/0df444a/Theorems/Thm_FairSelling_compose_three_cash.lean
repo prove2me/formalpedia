@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_compose_three_cash
 -- name    : FairSelling.compose_three_cash
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:06:15.986257+00:00
 -- url     : https://prove2.me/theorems/11ed3773-4442-4112-a585-a0db3a430d7f

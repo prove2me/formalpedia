@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_realHermite1D_inner_zero_one
 -- name    : DimdPolyLEAN.realHermite1D_inner_zero_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:39:23.006305+00:00
 -- url     : https://prove2.me/theorems/221ad988-2e37-4ad3-8a69-74d32a1f6ec5

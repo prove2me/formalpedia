@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_realHermiteGenerating_iteratedDeriv_inner_eq_zero_of_odd_add
 -- name    : DimdPolyLEAN.realHermiteGenerating_iteratedDeriv_inner_eq_zero_of_odd_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:38:26.688329+00:00
 -- url     : https://prove2.me/theorems/391807f7-0608-4498-8bbd-badedfa5cf82

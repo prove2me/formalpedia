@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_sGap_boundedlySupermultiplicative_of_pressure
 -- name    : BalanceSpecification.sGap_boundedlySupermultiplicative_of_pressure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:16:05.859202+00:00
 -- url     : https://prove2.me/theorems/11300ca7-300a-4f81-b7b8-58fac30ef4ec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_OneSidedExample_Walk_mem_qCover
 -- name    : BalanceSpecification.OneSidedExample.Walk.mem_qCover
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:13:12.388384+00:00
 -- url     : https://prove2.me/theorems/049fb916-502c-41c6-af70-1fb952aa1d28

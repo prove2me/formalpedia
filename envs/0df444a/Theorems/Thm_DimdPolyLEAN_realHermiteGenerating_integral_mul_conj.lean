@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_realHermiteGenerating_integral_mul_conj
 -- name    : DimdPolyLEAN.realHermiteGenerating_integral_mul_conj
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:35:33.215009+00:00
 -- url     : https://prove2.me/theorems/d58026b1-944d-432c-b0ce-dae53079dfd0

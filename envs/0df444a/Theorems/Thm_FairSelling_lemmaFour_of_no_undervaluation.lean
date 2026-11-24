@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_lemmaFour_of_no_undervaluation
 -- name    : FairSelling.lemmaFour_of_no_undervaluation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:06:46.703042+00:00
 -- url     : https://prove2.me/theorems/0cf08d11-4423-4511-ba79-9cd29b736d8f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_MMS2_cash_of_two_bundles_sell
 -- name    : FairSelling.MMS2_cash_of_two_bundles_sell
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:44:48.140905+00:00
 -- url     : https://prove2.me/theorems/0385935d-b6b1-449e-9f35-02b02ac0a1cc

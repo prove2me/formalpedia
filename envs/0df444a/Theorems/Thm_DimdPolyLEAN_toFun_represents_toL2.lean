@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_toFun_represents_toL2
 -- name    : DimdPolyLEAN.toFun_represents_toL2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:34:57.733518+00:00
 -- url     : https://prove2.me/theorems/96b244fa-491f-4673-af55-263caceb17a5

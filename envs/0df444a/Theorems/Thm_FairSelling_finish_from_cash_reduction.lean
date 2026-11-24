@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_finish_from_cash_reduction
 -- name    : FairSelling.finish_from_cash_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:33:19.127089+00:00
 -- url     : https://prove2.me/theorems/f479636e-a968-42f6-b2ce-03514a6b3c07

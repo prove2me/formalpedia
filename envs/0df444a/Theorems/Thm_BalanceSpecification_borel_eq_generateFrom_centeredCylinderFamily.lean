@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_borel_eq_generateFrom_centeredCylinderFamily
 -- name    : BalanceSpecification.borel_eq_generateFrom_centeredCylinderFamily
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:20:06.829862+00:00
 -- url     : https://prove2.me/theorems/9ef0967e-dbaf-4485-af43-d4480c649977

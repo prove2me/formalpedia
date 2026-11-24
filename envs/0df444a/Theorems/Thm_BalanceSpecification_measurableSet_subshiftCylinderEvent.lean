@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_measurableSet_subshiftCylinderEvent
 -- name    : BalanceSpecification.measurableSet_subshiftCylinderEvent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:14:32.582282+00:00
 -- url     : https://prove2.me/theorems/ad1cc319-66b4-45d1-a0b1-de92da4c24fc

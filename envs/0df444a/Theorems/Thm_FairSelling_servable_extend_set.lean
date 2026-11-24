@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_servable_extend_set
 -- name    : FairSelling.servable_extend_set
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:10:20.177088+00:00
 -- url     : https://prove2.me/theorems/b2c4af1a-095d-4e33-8300-813e95e0d7b6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_MixedGood_mixedThr_pos
 -- name    : FairSelling.MixedGood.mixedThr_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:04:19.551795+00:00
 -- url     : https://prove2.me/theorems/344319b4-3b2c-43dd-8ccd-ec9a67854acf

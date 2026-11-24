@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermitekLEAN_modulusDefect_le_norm
 -- name    : HermitekLEAN.modulusDefect_le_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:31:35.557805+00:00
 -- url     : https://prove2.me/theorems/1fb75468-5c4e-4493-906f-650bc7dd87d5
