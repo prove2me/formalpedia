@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_sGapListConcat_nil_or_marker
 -- name    : BalanceSpecification.sGapListConcat_nil_or_marker
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:05:51.212959+00:00
 -- url     : https://prove2.me/theorems/74b21ec4-7179-49e5-ba82-4afa6eb2217c

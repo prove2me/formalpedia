@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_exists_max_outcome
 -- name    : FairSelling.exists_max_outcome
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:30:09.969571+00:00
 -- url     : https://prove2.me/theorems/3749685e-c0f2-4e0f-850d-8034dd4f6d44

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_vbarSum_kept_unifiedOutcome
 -- name    : FairSelling.vbarSum_kept_unifiedOutcome
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:54:19.756878+00:00
 -- url     : https://prove2.me/theorems/21dcc0b2-fa8f-4bf5-8948-156d47914e8a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FltRegular_flt_regular
 -- name    : FltRegular.flt_regular
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:14:45.497841+00:00
 -- url     : https://prove2.me/theorems/6e9f887e-c5ce-459f-8b80-8136f427fdc8

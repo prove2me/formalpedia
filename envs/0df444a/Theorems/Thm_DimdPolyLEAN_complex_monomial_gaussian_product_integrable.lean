@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_complex_monomial_gaussian_product_integrable
 -- name    : DimdPolyLEAN.complex_monomial_gaussian_product_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:18:57.045081+00:00
 -- url     : https://prove2.me/theorems/9311ada2-ebfe-421d-a419-1d8a7c75f79c

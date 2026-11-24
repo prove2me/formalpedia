@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_exists_assignform_ge
 -- name    : FairSelling.exists_assignform_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:51:25.708936+00:00
 -- url     : https://prove2.me/theorems/286c65cf-b4a9-4f45-8bcf-373ce971cc86

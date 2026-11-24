@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_summable_sq_Phi_eval
 -- name    : DimdPolyLEAN.summable_sq_Phi_eval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:16:51.315013+00:00
 -- url     : https://prove2.me/theorems/6cf77e1c-1dc5-4376-b8b1-67e847f56654

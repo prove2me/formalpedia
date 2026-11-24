@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_interiorLanguage_antitone
 -- name    : BalanceSpecification.interiorLanguage_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:57:02.058626+00:00
 -- url     : https://prove2.me/theorems/bed53502-8f5b-42d8-adcc-f1c4add74703

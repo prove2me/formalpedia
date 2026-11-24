@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_sum_quarter_pow_le
 -- name    : BalanceSpecification.sum_quarter_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:56:50.419319+00:00
 -- url     : https://prove2.me/theorems/3f54fec2-efbe-4f63-b2c1-c9d6b94ca13a

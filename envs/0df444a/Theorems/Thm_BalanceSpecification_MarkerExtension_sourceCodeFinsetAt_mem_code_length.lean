@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_sourceCodeFinsetAt_mem_code_length
 -- name    : BalanceSpecification.MarkerExtension.sourceCodeFinsetAt_mem_code_length
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:03:30.883902+00:00
 -- url     : https://prove2.me/theorems/be24a04b-8f95-4c23-bf27-524af0ed1fb8

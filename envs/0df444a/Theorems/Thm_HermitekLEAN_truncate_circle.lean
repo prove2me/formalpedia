@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermitekLEAN_truncate_circle
 -- name    : HermitekLEAN.truncate_circle
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:43.87788+00:00
 -- url     : https://prove2.me/theorems/d5887c43-0546-461c-b7c6-30c6b4bf5b06

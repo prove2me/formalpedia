@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_TPSSefxCounterexample_sum01
 -- name    : FairSelling.TPSSefxCounterexample.sum01
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:54:37.519369+00:00
 -- url     : https://prove2.me/theorems/efec11bc-05bc-497b-b992-18b304d8d58a

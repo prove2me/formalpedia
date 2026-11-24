@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_quotient_mk_injOn_Ioc_zero_period
 -- name    : DimdPolyLEAN.quotient_mk_injOn_Ioc_zero_period
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:09:30.843715+00:00
 -- url     : https://prove2.me/theorems/d1df91f1-482e-481b-b5e9-2e51481874ce

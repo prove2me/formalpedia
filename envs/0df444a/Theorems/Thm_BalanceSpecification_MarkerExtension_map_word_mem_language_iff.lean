@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_map_word_mem_language_iff
 -- name    : BalanceSpecification.MarkerExtension.map_word_mem_language_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:00:45.373953+00:00
 -- url     : https://prove2.me/theorems/39c6eead-d5cd-4b23-97ad-a747acf49504

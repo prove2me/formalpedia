@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_monotone_suffixLength
 -- name    : BalanceSpecification.MarkerExtension.monotone_suffixLength
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:02:27.554025+00:00
 -- url     : https://prove2.me/theorems/7cc35613-a855-43e4-917a-385c74be63b5

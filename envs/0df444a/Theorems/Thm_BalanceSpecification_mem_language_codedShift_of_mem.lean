@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_mem_language_codedShift_of_mem
 -- name    : BalanceSpecification.mem_language_codedShift_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:56:27.179176+00:00
 -- url     : https://prove2.me/theorems/860efd39-be8f-4a74-bc21-300b0e0d4753

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hermite1DimdLEAN_orthogonalToNu_iff_coeff_zero
 -- name    : Hermite1DimdLEAN.orthogonalToNu_iff_coeff_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:12:55.636097+00:00
 -- url     : https://prove2.me/theorems/2ee4355c-43cf-4dce-a4bc-a66a917b7323

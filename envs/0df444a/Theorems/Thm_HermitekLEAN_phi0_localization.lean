@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermitekLEAN_phi0_localization
 -- name    : HermitekLEAN.phi0_localization
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:53.188655+00:00
 -- url     : https://prove2.me/theorems/a1f8eabc-a894-4d9e-9750-f9e2e858e9f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockSPR_LocalFockSPR
 -- name    : FockSPR.LocalFockSPR
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:09:15.7358+00:00
 -- url     : https://prove2.me/theorems/941982a6-67ca-4795-9924-98bc2e0e5f9e

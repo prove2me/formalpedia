@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_exists_source_word_followers
 -- name    : BalanceSpecification.MarkerExtension.exists_source_word_followers
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:04:06.753407+00:00
 -- url     : https://prove2.me/theorems/1a8412a2-5bc8-43ea-8e7e-0a2e4cdd4753

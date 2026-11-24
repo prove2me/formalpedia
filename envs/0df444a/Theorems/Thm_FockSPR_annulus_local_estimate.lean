@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockSPR_annulus_local_estimate
 -- name    : FockSPR.annulus_local_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:08:49.341598+00:00
 -- url     : https://prove2.me/theorems/4d837c68-cfd6-4c34-b780-0b8a74887d4f

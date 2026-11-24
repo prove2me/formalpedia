@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_generated_first_generator
 -- name    : BalanceSpecification.MarkerExtension.generated_first_generator
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:03:54.138862+00:00
 -- url     : https://prove2.me/theorems/ca711c55-9cc9-4d21-b15f-457a600cd247

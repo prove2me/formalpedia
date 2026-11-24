@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_markerPair_count_le
 -- name    : BalanceSpecification.markerPair_count_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:04:17.939949+00:00
 -- url     : https://prove2.me/theorems/96abee9f-ef88-4000-a767-5b0fd4505acb

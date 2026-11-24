@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_entropy_unrestrictedShift
 -- name    : BalanceSpecification.entropy_unrestrictedShift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:43:13.237007+00:00
 -- url     : https://prove2.me/theorems/86be5ad3-1cf6-4e16-a61c-af9374bdcced

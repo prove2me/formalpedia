@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_servable_of_invariant
 -- name    : FairSelling.servable_of_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:53:02.561033+00:00
 -- url     : https://prove2.me/theorems/5c00dd29-49a5-4f3d-92cf-9ed19a399c94

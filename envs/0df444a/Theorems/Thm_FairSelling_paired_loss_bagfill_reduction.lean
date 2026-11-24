@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_paired_loss_bagfill_reduction
 -- name    : FairSelling.paired_loss_bagfill_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:54:13.369318+00:00
 -- url     : https://prove2.me/theorems/a3b4eecd-7066-4233-b117-121129f12540

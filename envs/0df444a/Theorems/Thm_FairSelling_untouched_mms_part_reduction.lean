@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_untouched_mms_part_reduction
 -- name    : FairSelling.untouched_mms_part_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:39:11.943354+00:00
 -- url     : https://prove2.me/theorems/f4d197d0-524c-40e1-968c-972a4e8e479c

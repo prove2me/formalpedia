@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_sum_offset_blocks_le
 -- name    : BalanceSpecification.sum_offset_blocks_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:06:56.263268+00:00
 -- url     : https://prove2.me/theorems/b94f0ce9-a9ac-427d-be80-b84ed51d43d8

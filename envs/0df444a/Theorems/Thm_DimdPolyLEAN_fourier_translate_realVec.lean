@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_fourier_translate_realVec
 -- name    : DimdPolyLEAN.fourier_translate_realVec
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:10:52.282064+00:00
 -- url     : https://prove2.me/theorems/ddf294a7-d2e6-4c59-bc2f-67bc42046682

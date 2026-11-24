@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_split_first_marker
 -- name    : BalanceSpecification.MarkerExtension.split_first_marker
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:01:40.371779+00:00
 -- url     : https://prove2.me/theorems/f6c4c56a-7628-4462-9621-76a3c161af32

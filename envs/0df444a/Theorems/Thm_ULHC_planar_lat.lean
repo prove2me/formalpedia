@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_planar_lat
 -- name    : ULHC.planar_lat
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:49:17.234661+00:00
 -- url     : https://prove2.me/theorems/adfb7630-0118-4d0e-a0c1-654d749c021d

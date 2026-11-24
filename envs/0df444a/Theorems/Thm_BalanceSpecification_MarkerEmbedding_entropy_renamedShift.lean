@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerEmbedding_entropy_renamedShift
 -- name    : BalanceSpecification.MarkerEmbedding.entropy_renamedShift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:45:40.564226+00:00
 -- url     : https://prove2.me/theorems/f4168b6d-f38b-4d2b-8904-a67b39acb4ec

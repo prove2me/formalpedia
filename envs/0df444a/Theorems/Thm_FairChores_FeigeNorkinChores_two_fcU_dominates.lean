@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_FeigeNorkinChores_two_fcU_dominates
 -- name    : FairChores.FeigeNorkinChores.two_fcU_dominates
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:48:06.995699+00:00
 -- url     : https://prove2.me/theorems/2aaff085-28e3-4276-8618-2d42aefa71be

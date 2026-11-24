@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_payloadSuffix_card_exp_bound
 -- name    : BalanceSpecification.MarkerExtension.payloadSuffix_card_exp_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:03:09.705737+00:00
 -- url     : https://prove2.me/theorems/50144932-6189-467a-964c-cda3ece55e95

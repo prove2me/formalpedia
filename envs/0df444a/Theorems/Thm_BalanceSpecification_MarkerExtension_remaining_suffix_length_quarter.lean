@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_remaining_suffix_length_quarter
 -- name    : BalanceSpecification.MarkerExtension.remaining_suffix_length_quarter
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:02:38.534701+00:00
 -- url     : https://prove2.me/theorems/7dbbc81c-1ca9-4ea7-a9c2-79b4fd1c036c

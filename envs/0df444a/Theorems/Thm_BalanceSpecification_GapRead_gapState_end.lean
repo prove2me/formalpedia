@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_GapRead_gapState_end
 -- name    : BalanceSpecification.GapRead.gapState_end
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:04:44.149449+00:00
 -- url     : https://prove2.me/theorems/3be7e8b9-3c1d-4c14-a847-19dc6af88a25

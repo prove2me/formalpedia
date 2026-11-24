@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_EqualProceedsBagFilling_remarkPrice_nonneg
 -- name    : FairSelling.EqualProceedsBagFilling.remarkPrice_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:50:51.464138+00:00
 -- url     : https://prove2.me/theorems/d9f237ba-ac0c-4fe4-8267-0e3e7f2454e8

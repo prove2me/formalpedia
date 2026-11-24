@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_ChargeTPS_feas_pool
 -- name    : FairSelling.ChargeTPS.feas_pool
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:41:36.566259+00:00
 -- url     : https://prove2.me/theorems/3f9737df-3de6-469c-9345-3c28a6c921da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_exists_last_marker_split
 -- name    : BalanceSpecification.MarkerExtension.exists_last_marker_split
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:04:10.007333+00:00
 -- url     : https://prove2.me/theorems/1ed4930d-c938-4be0-962c-7a8bf4311cf2

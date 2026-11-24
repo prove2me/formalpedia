@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_symplecticFourierRep_eq_of_lpNorm_one_approx
 -- name    : DimdPolyLEAN.symplecticFourierRep_eq_of_lpNorm_one_approx
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:10:41.26705+00:00
 -- url     : https://prove2.me/theorems/01e2ff33-1022-4ff2-afee-5654914f4f1b

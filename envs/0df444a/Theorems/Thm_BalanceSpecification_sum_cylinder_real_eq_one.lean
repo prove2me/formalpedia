@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_sum_cylinder_real_eq_one
 -- name    : BalanceSpecification.sum_cylinder_real_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:42:53.826665+00:00
 -- url     : https://prove2.me/theorems/cf15cf91-d52a-45ff-8ffe-e0ead60f0302

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_exists_sGap_specification_with_pressure
 -- name    : BalanceSpecification.exists_sGap_specification_with_pressure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:06:55.978733+00:00
 -- url     : https://prove2.me/theorems/71ba3e40-21e9-49ea-b40f-84d3f42f09d6

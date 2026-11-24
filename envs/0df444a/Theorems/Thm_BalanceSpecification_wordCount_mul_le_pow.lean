@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_wordCount_mul_le_pow
 -- name    : BalanceSpecification.wordCount_mul_le_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:57:34.763053+00:00
 -- url     : https://prove2.me/theorems/76565237-07d5-4c14-afe3-221dac089d09

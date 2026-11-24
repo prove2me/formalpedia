@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hermite1DimdLEAN_annulusRotationInvariant
 -- name    : Hermite1DimdLEAN.annulusRotationInvariant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:13:01.024957+00:00
 -- url     : https://prove2.me/theorems/8ca0ced2-ae9d-4e20-9922-cbda76d6f8af

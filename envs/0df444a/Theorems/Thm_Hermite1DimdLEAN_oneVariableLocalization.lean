@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hermite1DimdLEAN_oneVariableLocalization
 -- name    : Hermite1DimdLEAN.oneVariableLocalization
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:12:14.823429+00:00
 -- url     : https://prove2.me/theorems/16106bf5-eb5d-4b5a-836b-09e7c6445bfc

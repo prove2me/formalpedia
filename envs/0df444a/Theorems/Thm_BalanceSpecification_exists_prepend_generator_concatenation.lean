@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_exists_prepend_generator_concatenation
 -- name    : BalanceSpecification.exists_prepend_generator_concatenation
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:56:22.797632+00:00
 -- url     : https://prove2.me/theorems/f6a7e378-3c3b-4fb9-a801-d46b2b08c839

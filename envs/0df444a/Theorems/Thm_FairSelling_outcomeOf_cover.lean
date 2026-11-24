@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_outcomeOf_cover
 -- name    : FairSelling.outcomeOf_cover
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:51:35.454345+00:00
 -- url     : https://prove2.me/theorems/02194e8f-5a13-406b-b521-c63a6bc2f2e3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_Growth_exists_exp_bound_of_rate_lt_log
 -- name    : BalanceSpecification.Growth.exists_exp_bound_of_rate_lt_log
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:06:17.331425+00:00
 -- url     : https://prove2.me/theorems/b2734307-9e00-4993-9701-114b5d614744

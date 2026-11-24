@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_realHermiteGenerating_iteratedDeriv_zero_expansion
 -- name    : DimdPolyLEAN.realHermiteGenerating_iteratedDeriv_zero_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:18:59.689178+00:00
 -- url     : https://prove2.me/theorems/01a2f545-2a0c-4a39-90ee-a1e762c1e349

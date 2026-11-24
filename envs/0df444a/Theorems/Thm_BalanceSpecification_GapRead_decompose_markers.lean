@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_GapRead_decompose_markers
 -- name    : BalanceSpecification.GapRead.decompose_markers
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:06:12.445468+00:00
 -- url     : https://prove2.me/theorems/88638753-839d-48ce-82d8-5701a17f6408

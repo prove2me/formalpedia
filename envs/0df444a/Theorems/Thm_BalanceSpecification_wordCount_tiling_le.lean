@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_wordCount_tiling_le
 -- name    : BalanceSpecification.wordCount_tiling_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:57:54.351443+00:00
 -- url     : https://prove2.me/theorems/3405f945-91da-4413-ae83-7ca7b80fb478

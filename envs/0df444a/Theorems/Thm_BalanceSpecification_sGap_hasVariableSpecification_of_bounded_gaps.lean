@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_sGap_hasVariableSpecification_of_bounded_gaps
 -- name    : BalanceSpecification.sGap_hasVariableSpecification_of_bounded_gaps
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:47:18.26081+00:00
 -- url     : https://prove2.me/theorems/d83ec205-16c4-4f28-8b96-5d471ef9f73c

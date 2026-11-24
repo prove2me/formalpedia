@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_generatedCount_recurrence_le
 -- name    : BalanceSpecification.MarkerExtension.generatedCount_recurrence_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:03:59.338357+00:00
 -- url     : https://prove2.me/theorems/7b9f7a1f-9de5-4f28-b3eb-a84a35cbbfac

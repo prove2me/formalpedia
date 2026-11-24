@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_sGap_hasSpecification_of_bounded_gaps_of_zero_mem
 -- name    : BalanceSpecification.sGap_hasSpecification_of_bounded_gaps_of_zero_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:05:43.014119+00:00
 -- url     : https://prove2.me/theorems/3f4501ec-660e-43ea-bd80-513a4b77e92b

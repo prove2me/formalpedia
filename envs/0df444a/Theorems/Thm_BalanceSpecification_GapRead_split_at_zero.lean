@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_GapRead_split_at_zero
 -- name    : BalanceSpecification.GapRead.split_at_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:04:57.914887+00:00
 -- url     : https://prove2.me/theorems/1b5eb65d-81bd-4321-b317-61627497daae

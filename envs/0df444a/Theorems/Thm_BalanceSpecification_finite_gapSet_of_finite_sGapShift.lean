@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_finite_gapSet_of_finite_sGapShift
 -- name    : BalanceSpecification.finite_gapSet_of_finite_sGapShift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:05:24.156827+00:00
 -- url     : https://prove2.me/theorems/26507987-52c3-422a-abf1-2e93a1212a2e

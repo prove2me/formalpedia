@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_constantCenter_fastRotate_carrierArc_sq_le_defectSq
 -- name    : DimdPolyLEAN.constantCenter_fastRotate_carrierArc_sq_le_defectSq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:10:33.871996+00:00
 -- url     : https://prove2.me/theorems/2f8cb835-7ca1-43c6-9573-32a84f304d8c

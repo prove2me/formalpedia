@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_exists_shrink
 -- name    : FairChores.exists_shrink
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:48:11.947786+00:00
 -- url     : https://prove2.me/theorems/1e8f18ef-151f-4529-8cc5-2306d7f991d4

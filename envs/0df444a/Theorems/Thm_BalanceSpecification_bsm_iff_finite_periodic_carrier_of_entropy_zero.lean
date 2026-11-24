@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_bsm_iff_finite_periodic_carrier_of_entropy_zero
 -- name    : BalanceSpecification.bsm_iff_finite_periodic_carrier_of_entropy_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:54:05.572058+00:00
 -- url     : https://prove2.me/theorems/e579a06c-6b9b-4a76-b376-9aa7fea40d58

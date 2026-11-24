@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermitekLEAN_summable_norm_sq_Phi_eval
 -- name    : HermitekLEAN.summable_norm_sq_Phi_eval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:53.122354+00:00
 -- url     : https://prove2.me/theorems/30eb1c23-f689-4343-9509-6269389b6d45

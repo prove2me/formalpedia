@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_period_smul_muCircle_carrierArc
 -- name    : DimdPolyLEAN.period_smul_muCircle_carrierArc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:10:22.475282+00:00
 -- url     : https://prove2.me/theorems/6a0e39fd-26be-4eec-b761-69f2f0c6eeea

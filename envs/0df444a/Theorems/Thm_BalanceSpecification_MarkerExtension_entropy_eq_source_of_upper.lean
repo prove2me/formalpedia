@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_entropy_eq_source_of_upper
 -- name    : BalanceSpecification.MarkerExtension.entropy_eq_source_of_upper
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:03:41.177192+00:00
 -- url     : https://prove2.me/theorems/97455235-bbc3-4612-a686-1511bf3b3ee1

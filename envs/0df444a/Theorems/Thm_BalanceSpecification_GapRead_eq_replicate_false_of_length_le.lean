@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_GapRead_eq_replicate_false_of_length_le
 -- name    : BalanceSpecification.GapRead.eq_replicate_false_of_length_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:05:02.773174+00:00
 -- url     : https://prove2.me/theorems/159b3ffb-a8a1-4fd8-80a1-38d91e25d591

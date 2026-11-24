@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_block_constant
 -- name    : BalanceSpecification.block_constant
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:58:09.206803+00:00
 -- url     : https://prove2.me/theorems/890fcdad-d41a-4676-87da-17ca2e7170d6

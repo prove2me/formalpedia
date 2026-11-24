@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_MMS_le_TPS_le_PS
 -- name    : FairSelling.MMS_le_TPS_le_PS
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:25:26.055591+00:00
 -- url     : https://prove2.me/theorems/10ed2a84-ee99-429a-82c0-9c29e1ca4796

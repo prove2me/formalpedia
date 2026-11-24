@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_ChargeTPS_counting_of_cost
 -- name    : FairSelling.ChargeTPS.counting_of_cost
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:41:22.838507+00:00
 -- url     : https://prove2.me/theorems/5bd6fdb4-16c4-4ce5-a7c8-9da7846dcb45

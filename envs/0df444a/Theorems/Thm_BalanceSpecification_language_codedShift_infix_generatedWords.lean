@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_language_codedShift_infix_generatedWords
 -- name    : BalanceSpecification.language_codedShift_infix_generatedWords
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:35:47.040313+00:00
 -- url     : https://prove2.me/theorems/10103ef7-881f-46e4-a714-1c8f88e269a7

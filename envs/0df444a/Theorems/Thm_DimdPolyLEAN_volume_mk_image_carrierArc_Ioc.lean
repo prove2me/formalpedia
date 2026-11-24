@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_volume_mk_image_carrierArc_Ioc
 -- name    : DimdPolyLEAN.volume_mk_image_carrierArc_Ioc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:10:01.080686+00:00
 -- url     : https://prove2.me/theorems/2e1a9858-0b00-4eb1-8163-1cae098cf8dc

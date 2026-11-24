@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_sourceCodeFinsetAt_card_le
 -- name    : BalanceSpecification.MarkerExtension.sourceCodeFinsetAt_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:03:45.414838+00:00
 -- url     : https://prove2.me/theorems/24ab61fd-e230-476d-93ba-db1a85cd245b

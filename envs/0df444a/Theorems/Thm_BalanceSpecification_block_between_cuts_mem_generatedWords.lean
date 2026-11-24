@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_block_between_cuts_mem_generatedWords
 -- name    : BalanceSpecification.block_between_cuts_mem_generatedWords
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:56:22.254631+00:00
 -- url     : https://prove2.me/theorems/9d0c8ae8-3af9-43b9-bf29-21592d845d62

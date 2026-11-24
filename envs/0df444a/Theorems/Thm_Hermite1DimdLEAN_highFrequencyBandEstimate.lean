@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hermite1DimdLEAN_highFrequencyBandEstimate
 -- name    : Hermite1DimdLEAN.highFrequencyBandEstimate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:12:35.302001+00:00
 -- url     : https://prove2.me/theorems/23f272ef-88df-4efe-89a2-abcf054596cd

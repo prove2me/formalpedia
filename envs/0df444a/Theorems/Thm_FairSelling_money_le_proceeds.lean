@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_money_le_proceeds
 -- name    : FairSelling.money_le_proceeds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:53:37.211901+00:00
 -- url     : https://prove2.me/theorems/e4bd6a40-4cfc-4230-b6f2-9e0cd0d588ad

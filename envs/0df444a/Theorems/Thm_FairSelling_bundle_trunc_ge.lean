@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_bundle_trunc_ge
 -- name    : FairSelling.bundle_trunc_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:51:01.723811+00:00
 -- url     : https://prove2.me/theorems/a436bc4f-db2c-459c-b36a-5c9d713da4f7

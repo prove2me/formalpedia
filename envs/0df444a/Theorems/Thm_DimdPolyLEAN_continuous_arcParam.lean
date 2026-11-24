@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_continuous_arcParam
 -- name    : DimdPolyLEAN.continuous_arcParam
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:09:42.610319+00:00
 -- url     : https://prove2.me/theorems/e0a07bed-6018-42d5-a508-cd93d3aab03b

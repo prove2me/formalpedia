@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_epsSEFX_mono
 -- name    : FairSelling.epsSEFX_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:53:14.065875+00:00
 -- url     : https://prove2.me/theorems/ea221cc9-82fd-47b2-91a2-cfdd1dcfb794

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hermite1DimdLEAN_annulusOrthogonality
 -- name    : Hermite1DimdLEAN.annulusOrthogonality
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:13:07.791778+00:00
 -- url     : https://prove2.me/theorems/7a5a3cae-5df3-456f-b3a4-a8ced73cb6df

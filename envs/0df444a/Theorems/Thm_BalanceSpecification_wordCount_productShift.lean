@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_wordCount_productShift
 -- name    : BalanceSpecification.wordCount_productShift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:57:58.407984+00:00
 -- url     : https://prove2.me/theorems/141ca5ad-191e-4bed-9710-d8162e3a8134

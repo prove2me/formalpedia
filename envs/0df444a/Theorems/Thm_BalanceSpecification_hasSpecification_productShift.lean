@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_hasSpecification_productShift
 -- name    : BalanceSpecification.hasSpecification_productShift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:46:34.559752+00:00
 -- url     : https://prove2.me/theorems/2710698a-eafa-4ee4-8b89-cefef3de6b5c

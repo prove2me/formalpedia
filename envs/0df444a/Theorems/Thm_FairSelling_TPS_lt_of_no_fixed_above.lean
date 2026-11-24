@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_TPS_lt_of_no_fixed_above
 -- name    : FairSelling.TPS_lt_of_no_fixed_above
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:52:30.815179+00:00
 -- url     : https://prove2.me/theorems/07f0193d-bc4c-4241-97f7-8d4bb5a3d33a

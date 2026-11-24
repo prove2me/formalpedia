@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_exists_wordCount_exp_bound_of_entropy_lt_log
 -- name    : BalanceSpecification.exists_wordCount_exp_bound_of_entropy_lt_log
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:06:20.59164+00:00
 -- url     : https://prove2.me/theorems/d19c5a4f-fdbe-4b24-b723-ef51234d5a31

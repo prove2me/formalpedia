@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_nonmarker_language
 -- name    : BalanceSpecification.MarkerExtension.nonmarker_language
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:02:09.824293+00:00
 -- url     : https://prove2.me/theorems/b5716993-a1a6-4216-9cf7-c6d97f816933

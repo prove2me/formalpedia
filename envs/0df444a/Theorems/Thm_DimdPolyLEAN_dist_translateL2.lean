@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_dist_translateL2
 -- name    : DimdPolyLEAN.dist_translateL2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:10:45.157995+00:00
 -- url     : https://prove2.me/theorems/392bd169-91f1-4f54-a3e5-1ebcb069c934

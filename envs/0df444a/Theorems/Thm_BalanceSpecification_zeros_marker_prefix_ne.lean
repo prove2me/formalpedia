@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_zeros_marker_prefix_ne
 -- name    : BalanceSpecification.zeros_marker_prefix_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:05:52.089439+00:00
 -- url     : https://prove2.me/theorems/6550d903-3614-4795-b2f3-344978f462c9

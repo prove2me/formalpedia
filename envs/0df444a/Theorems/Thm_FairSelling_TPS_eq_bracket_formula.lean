@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_TPS_eq_bracket_formula
 -- name    : FairSelling.TPS_eq_bracket_formula
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:38:09.805668+00:00
 -- url     : https://prove2.me/theorems/3c9a0539-9dd1-41fd-899e-24a69f573ff7

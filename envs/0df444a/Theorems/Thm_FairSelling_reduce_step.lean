@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_reduce_step
 -- name    : FairSelling.reduce_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:51:47.301583+00:00
 -- url     : https://prove2.me/theorems/75453148-c35b-47b5-b569-1db9ee63d4fd

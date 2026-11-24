@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_mem_language_constantShift_iff
 -- name    : BalanceSpecification.mem_language_constantShift_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:46:54.288623+00:00
 -- url     : https://prove2.me/theorems/9efbe556-4b61-43fb-a13c-a90daaaefca3

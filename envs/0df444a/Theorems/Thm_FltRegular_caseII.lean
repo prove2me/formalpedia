@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FltRegular_caseII
 -- name    : FltRegular.caseII
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:14:16.787803+00:00
 -- url     : https://prove2.me/theorems/9ebf6f70-6972-46e0-a106-e4fac6da000a

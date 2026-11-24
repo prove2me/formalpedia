@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_muCircle_singleton
 -- name    : DimdPolyLEAN.muCircle_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:09:42.498911+00:00
 -- url     : https://prove2.me/theorems/a6cf0a97-701e-4f76-a6e1-be0a74e9f6af

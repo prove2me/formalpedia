@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_first_sGap_generator_unique
 -- name    : BalanceSpecification.first_sGap_generator_unique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:47:27.860165+00:00
 -- url     : https://prove2.me/theorems/78c0f8a1-e9de-4d9a-a914-f2ededa2e2ee

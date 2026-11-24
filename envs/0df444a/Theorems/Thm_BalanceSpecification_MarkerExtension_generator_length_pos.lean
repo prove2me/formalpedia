@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_generator_length_pos
 -- name    : BalanceSpecification.MarkerExtension.generator_length_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:03:54.343803+00:00
 -- url     : https://prove2.me/theorems/1eb90cac-ecb0-4beb-969d-e841e13678c2

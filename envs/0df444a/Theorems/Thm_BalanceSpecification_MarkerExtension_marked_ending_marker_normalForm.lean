@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_marked_ending_marker_normalForm
 -- name    : BalanceSpecification.MarkerExtension.marked_ending_marker_normalForm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:01:44.844831+00:00
 -- url     : https://prove2.me/theorems/e9acd590-f862-497b-a262-1e844282deba

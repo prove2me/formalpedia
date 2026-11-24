@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ultrametric_norm_hasSum_sub_finset_sum_le
 -- name    : GlobalTheory.T.ultrametric_norm_hasSum_sub_finset_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:39:48.227803+00:00
 -- url     : https://prove2.me/theorems/e4d49956-0dc2-4b5f-8a31-12ae0f347cc4

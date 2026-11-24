@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_renewalCount_recurrence
 -- name    : BalanceSpecification.renewalCount_recurrence
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:06:11.0218+00:00
 -- url     : https://prove2.me/theorems/56c9536a-77f1-4f06-9154-24bd643058f3

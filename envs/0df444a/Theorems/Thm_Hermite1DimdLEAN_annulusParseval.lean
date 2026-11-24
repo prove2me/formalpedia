@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hermite1DimdLEAN_annulusParseval
 -- name    : Hermite1DimdLEAN.annulusParseval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:04:45.102562+00:00
 -- url     : https://prove2.me/theorems/9196bbe5-6a31-438e-9ccd-be55449f6c65

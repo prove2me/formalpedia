@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_infinite_of_not_hasBoundedSuccessiveGaps
 -- name    : BalanceSpecification.infinite_of_not_hasBoundedSuccessiveGaps
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:58:30.725212+00:00
 -- url     : https://prove2.me/theorems/b2ea8c98-3271-4960-b0e6-067d0d612fe4

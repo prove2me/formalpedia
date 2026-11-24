@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_carrierArc_arcSet_ae_eq_mk_image_Ioc
 -- name    : DimdPolyLEAN.carrierArc_arcSet_ae_eq_mk_image_Ioc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:01:46.317802+00:00
 -- url     : https://prove2.me/theorems/dfc6f7af-dff1-4161-ac26-5e52f16b11d4

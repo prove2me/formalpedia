@@ -41192,9 +41192,9 @@
 {"parent": "Formalism.FourierDecayAlt.P.Mx5.x_iv", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_EulerZetaGammaInvIdentity", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Mx5.x_iv", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_MultiplicationOpHom", "via": ["solution", "statement"]}
 {"parent": "P2M_Odd_neg_one_zpow__377cb1c9a7a0", "child": "MillerRabin_Mathlib_Algebra_Ring_Int_Parity", "via": ["solution", "statement"]}
-{"parent": "GroundTheory.Global.orbitPoint_mem", "child": "GroundTheory_GlobalFields_HerbrandQuotients_Permutation", "via": ["statement"]}
-{"parent": "GroundTheory.Global.orbitPoint_mem", "child": "GroundTheory_TateCohomology_HerbrandAbstract", "via": ["statement"]}
-{"parent": "GroundTheory.Global.orbitPoint_mem", "child": "GroundTheory_GlobalFields_HerbrandQuotients_Cyclic", "via": ["statement"]}
+{"parent": "GroundTheory.Global.orbitPoint_mem", "child": "GroundTheory_GlobalFields_HerbrandQuotients_Permutation", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.Global.orbitPoint_mem", "child": "GroundTheory_TateCohomology_HerbrandAbstract", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.Global.orbitPoint_mem", "child": "GroundTheory_GlobalFields_HerbrandQuotients_Cyclic", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Mx7.ev_C", "child": "Formalism_HermitianCurvature_StatementM", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Mx7.ev_C", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_WeightedSumDifferenceIdentity", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.Mx7.ev_C", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_RaisingConstantEqNablaStar", "via": ["solution", "statement"]}
@@ -54289,9 +54289,9 @@
 {"parent": "GlobalTheory.PowerSumSecond.core", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_ExistsProdAbsSubGeOnSegment", "via": ["statement"]}
 {"parent": "GlobalTheory.PowerSumSecond.core", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_TuranSecondMainTheoremPowerSumsUnitCoefficients", "via": ["statement"]}
 {"parent": "GlobalTheory.PowerSumSecond.core", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_ExistsInterpolationExteriorSmallCoeffsStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.Inertia.posIndex_le_card", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_Signature", "via": ["statement"]}
-{"parent": "GlobalTheory.Inertia.posIndex_le_card", "child": "Development_AbelianVarietyTheory_Proofs_HermitianTraceForms_ExistsOrthogonalBasisDotProductApplyEq", "via": ["statement"]}
-{"parent": "GlobalTheory.Inertia.posIndex_le_card", "child": "Development_AbelianVarietyTheory_Proofs_HermitianTraceForms_PosIndexMapEqCardOfCongrDiagonal", "via": ["statement"]}
+{"parent": "GlobalTheory.Inertia.posIndex_le_card", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_Signature", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Inertia.posIndex_le_card", "child": "Development_AbelianVarietyTheory_Proofs_HermitianTraceForms_ExistsOrthogonalBasisDotProductApplyEq", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Inertia.posIndex_le_card", "child": "Development_AbelianVarietyTheory_Proofs_HermitianTraceForms_PosIndexMapEqCardOfCongrDiagonal", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.FlatDescent.appTop_resLE_apply", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_ExistsAppTopEqOfEffectiveEpi", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SecAff.chart_ge", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_ExistsSectionsSpanAffine", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SecAff.chart_ge", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SemiabelianSchemes_PrecompleteBases_PsbLb", "via": ["solution", "statement"]}
@@ -60468,9 +60468,9 @@
 {"parent": "GlobalTheory.exists_adicCompletion_ringEquiv", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_IdealEqBotOfFlatQuotientOfMapMaximalIdeal", "via": ["statement"]}
 {"parent": "GlobalTheory.exists_adicCompletion_ringEquiv", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_ExistsMemPowSubMemPowSucc", "via": ["statement"]}
 {"parent": "GlobalTheory.exists_adicCompletion_ringEquiv", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_ExistsUniqueFactorCompletedStalkOfMap", "via": ["statement"]}
-{"parent": "GroundTheory.Global.orbitPoint_orbitPoint", "child": "GroundTheory_TateCohomology_HerbrandAbstract", "via": ["statement"]}
-{"parent": "GroundTheory.Global.orbitPoint_orbitPoint", "child": "GroundTheory_GlobalFields_HerbrandQuotients_Cyclic", "via": ["statement"]}
-{"parent": "GroundTheory.Global.orbitPoint_orbitPoint", "child": "GroundTheory_GlobalFields_HerbrandQuotients_Permutation", "via": ["statement"]}
+{"parent": "GroundTheory.Global.orbitPoint_orbitPoint", "child": "GroundTheory_TateCohomology_HerbrandAbstract", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.Global.orbitPoint_orbitPoint", "child": "GroundTheory_GlobalFields_HerbrandQuotients_Cyclic", "via": ["solution", "statement"]}
+{"parent": "GroundTheory.Global.orbitPoint_orbitPoint", "child": "GroundTheory_GlobalFields_HerbrandQuotients_Permutation", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.HaarSK.funcL_apply", "child": "GroundTheory_AutomorphicForms_HaarSK", "via": ["solution", "statement"]}
 {"parent": "P2M_Formalism_IncomingBounds_FlowLoadBounds_sum_comb__40021abff842", "child": "Formalism_IncomingBounds_FlowDegreeBounds_MaxFlowValueAttained", "via": ["solution", "statement"]}
 {"parent": "P2M_Formalism_IncomingBounds_FlowLoadBounds_sum_comb__40021abff842", "child": "Formalism_IncomingBounds_IncomingBound", "via": ["solution", "statement"]}

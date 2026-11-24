@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_Phi_rotateCoord_circle_phase
 -- name    : DimdPolyLEAN.Phi_rotateCoord_circle_phase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:17:34.060094+00:00
 -- url     : https://prove2.me/theorems/00e226c7-b2d2-45e6-967b-f4cac6f6e0fe

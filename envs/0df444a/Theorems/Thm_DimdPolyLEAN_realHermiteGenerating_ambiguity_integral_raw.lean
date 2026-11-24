@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_realHermiteGenerating_ambiguity_integral_raw
 -- name    : DimdPolyLEAN.realHermiteGenerating_ambiguity_integral_raw
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:18:52.804151+00:00
 -- url     : https://prove2.me/theorems/11c211d6-6a24-4703-a129-68f20e9a3051

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_exists_class_subseq
 -- name    : FairSelling.exists_class_subseq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:53:36.905624+00:00
 -- url     : https://prove2.me/theorems/0498f1d5-4c11-4e88-86ce-e0ffdcaf954e

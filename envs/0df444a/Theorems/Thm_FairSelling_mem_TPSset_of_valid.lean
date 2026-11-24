@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_mem_TPSset_of_valid
 -- name    : FairSelling.mem_TPSset_of_valid
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:37:44.113827+00:00
 -- url     : https://prove2.me/theorems/6641fac9-f029-4908-b3c1-fbcd13a25aea

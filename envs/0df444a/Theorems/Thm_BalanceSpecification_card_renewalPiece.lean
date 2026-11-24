@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_card_renewalPiece
 -- name    : BalanceSpecification.card_renewalPiece
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:06:00.759211+00:00
 -- url     : https://prove2.me/theorems/33b308ab-fce8-49ff-928b-55583a3b670b

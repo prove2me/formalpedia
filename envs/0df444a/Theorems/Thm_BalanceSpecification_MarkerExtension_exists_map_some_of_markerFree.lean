@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_exists_map_some_of_markerFree
 -- name    : BalanceSpecification.MarkerExtension.exists_map_some_of_markerFree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:01:30.018213+00:00
 -- url     : https://prove2.me/theorems/a21cc288-8590-4a26-b6c7-12a2c276844a

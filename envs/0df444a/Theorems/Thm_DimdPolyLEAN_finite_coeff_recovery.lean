@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_finite_coeff_recovery
 -- name    : DimdPolyLEAN.finite_coeff_recovery
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:18:08.832675+00:00
 -- url     : https://prove2.me/theorems/53122f09-7d02-4e3e-9323-6a900b6e652d

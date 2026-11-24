@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_mem_language_productShift_iff
 -- name    : BalanceSpecification.mem_language_productShift_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:46:25.342806+00:00
 -- url     : https://prove2.me/theorems/df14d68e-0964-4d55-9cad-8e5a86847472

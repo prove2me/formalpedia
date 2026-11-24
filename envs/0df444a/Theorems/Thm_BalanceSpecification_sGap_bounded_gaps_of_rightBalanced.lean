@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_sGap_bounded_gaps_of_rightBalanced
 -- name    : BalanceSpecification.sGap_bounded_gaps_of_rightBalanced
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:47:20.533804+00:00
 -- url     : https://prove2.me/theorems/0af2e066-88f3-49cb-86f0-ba715e83b80b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_measurableSet_arcSet
 -- name    : DimdPolyLEAN.measurableSet_arcSet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:01:11.885094+00:00
 -- url     : https://prove2.me/theorems/7145a008-b65c-4b64-9b5b-cb71bbbb9759

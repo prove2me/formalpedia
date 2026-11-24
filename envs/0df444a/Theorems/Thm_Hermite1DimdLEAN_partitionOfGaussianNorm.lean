@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hermite1DimdLEAN_partitionOfGaussianNorm
 -- name    : Hermite1DimdLEAN.partitionOfGaussianNorm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:12:57.042631+00:00
 -- url     : https://prove2.me/theorems/9253bbfa-7605-4189-bc8a-87aa542a6c14

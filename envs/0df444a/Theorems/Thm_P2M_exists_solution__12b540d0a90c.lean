@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_exists_solution__12b540d0a90c
 -- name    : P2M_exists_solution__12b540d0a90c
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:13:43.257224+00:00
 -- url     : https://prove2.me/theorems/fdd34417-cf54-40c0-b507-089daa157121

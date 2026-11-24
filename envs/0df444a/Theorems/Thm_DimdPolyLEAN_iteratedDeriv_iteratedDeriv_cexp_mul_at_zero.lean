@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_iteratedDeriv_iteratedDeriv_cexp_mul_at_zero
 -- name    : DimdPolyLEAN.iteratedDeriv_iteratedDeriv_cexp_mul_at_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:18:48.475334+00:00
 -- url     : https://prove2.me/theorems/0bf90c02-bc1b-4a63-94a1-c93f7ab3f444

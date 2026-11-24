@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_specification_bridge_of_le
 -- name    : BalanceSpecification.specification_bridge_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:57:56.864293+00:00
 -- url     : https://prove2.me/theorems/dd0c8c4a-0f73-40a9-adae-25e665310e1d

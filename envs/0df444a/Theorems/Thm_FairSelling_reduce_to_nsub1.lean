@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_reduce_to_nsub1
 -- name    : FairSelling.reduce_to_nsub1
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:52:22.023823+00:00
 -- url     : https://prove2.me/theorems/0d039ee7-fbe6-4f83-b38a-34d42ad7606e

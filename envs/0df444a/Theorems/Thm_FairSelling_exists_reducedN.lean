@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_exists_reducedN
 -- name    : FairSelling.exists_reducedN
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:52:25.177744+00:00
 -- url     : https://prove2.me/theorems/41aad563-bb38-4960-808b-54e9fe25a66f

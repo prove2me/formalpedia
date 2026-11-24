@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_spectrogramRep_eq_stft_mul_star
 -- name    : DimdPolyLEAN.spectrogramRep_eq_stft_mul_star
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:09.651786+00:00
 -- url     : https://prove2.me/theorems/1aab6401-aec6-4989-a17e-4e64563355a1

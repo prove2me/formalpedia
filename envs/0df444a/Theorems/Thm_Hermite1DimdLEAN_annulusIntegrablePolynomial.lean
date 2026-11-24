@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hermite1DimdLEAN_annulusIntegrablePolynomial
 -- name    : Hermite1DimdLEAN.annulusIntegrablePolynomial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:13:20.542796+00:00
 -- url     : https://prove2.me/theorems/0c4f216a-12f9-468d-9a17-f19eb3ee8559

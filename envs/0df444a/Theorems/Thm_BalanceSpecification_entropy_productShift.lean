@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_entropy_productShift
 -- name    : BalanceSpecification.entropy_productShift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:46:32.092371+00:00
 -- url     : https://prove2.me/theorems/978807b6-6ba1-4629-a72b-2e10b48d0272

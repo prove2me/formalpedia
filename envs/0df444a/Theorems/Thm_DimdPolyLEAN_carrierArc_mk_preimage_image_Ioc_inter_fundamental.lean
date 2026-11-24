@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_carrierArc_mk_preimage_image_Ioc_inter_fundamental
 -- name    : DimdPolyLEAN.carrierArc_mk_preimage_image_Ioc_inter_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:03:15.675813+00:00
 -- url     : https://prove2.me/theorems/980c00a0-ed1a-462e-a792-171495628a3a

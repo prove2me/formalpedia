@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_occurrence_card_le
 -- name    : BalanceSpecification.occurrence_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:56:56.744869+00:00
 -- url     : https://prove2.me/theorems/b871a52f-fdfe-4dec-a3ee-57d26af70a3c

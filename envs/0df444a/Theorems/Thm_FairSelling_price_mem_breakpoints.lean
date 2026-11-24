@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_price_mem_breakpoints
 -- name    : FairSelling.price_mem_breakpoints
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:52:45.756435+00:00
 -- url     : https://prove2.me/theorems/0d41c1be-3281-4b2f-b666-eb73d08e3a0d

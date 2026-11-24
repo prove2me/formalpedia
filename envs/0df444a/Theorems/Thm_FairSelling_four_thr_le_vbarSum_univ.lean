@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_four_thr_le_vbarSum_univ
 -- name    : FairSelling.four_thr_le_vbarSum_univ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:34:01.540717+00:00
 -- url     : https://prove2.me/theorems/cdaa6841-e07d-41c4-bb87-69285f35e5de

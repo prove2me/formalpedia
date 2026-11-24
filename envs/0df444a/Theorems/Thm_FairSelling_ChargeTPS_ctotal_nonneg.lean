@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_ChargeTPS_ctotal_nonneg
 -- name    : FairSelling.ChargeTPS.ctotal_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:41:27.896488+00:00
 -- url     : https://prove2.me/theorems/a622d101-5ffa-499a-a503-26082719445d

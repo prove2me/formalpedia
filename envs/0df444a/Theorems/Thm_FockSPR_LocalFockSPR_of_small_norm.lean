@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockSPR_LocalFockSPR_of_small_norm
 -- name    : FockSPR.LocalFockSPR_of_small_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:05:23.845296+00:00
 -- url     : https://prove2.me/theorems/7add81e6-b996-4505-9d26-37399f6174e2

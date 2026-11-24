@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_codedShift_irreducible
 -- name    : BalanceSpecification.codedShift_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:43:13.013044+00:00
 -- url     : https://prove2.me/theorems/2ab7b268-a944-416f-a98c-960c82f523ab

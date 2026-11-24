@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_NineteenEighteenths_lamOf_ge_two
 -- name    : FairChores.NineteenEighteenths.lamOf_ge_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:49:05.216653+00:00
 -- url     : https://prove2.me/theorems/ee4ad98f-d162-447d-a4e1-6fb5401f64aa

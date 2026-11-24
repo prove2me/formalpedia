@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_finite_code_pressure_le_one_of_growth_bound
 -- name    : BalanceSpecification.finite_code_pressure_le_one_of_growth_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:06:31.116264+00:00
 -- url     : https://prove2.me/theorems/8815e58a-82f2-48dc-a3f1-2ad87d8f7c91

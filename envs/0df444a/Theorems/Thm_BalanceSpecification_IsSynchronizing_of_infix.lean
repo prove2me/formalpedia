@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_IsSynchronizing_of_infix
 -- name    : BalanceSpecification.IsSynchronizing.of_infix
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:56:29.867672+00:00
 -- url     : https://prove2.me/theorems/7d6eba27-682b-4c22-b704-533b233ccf39

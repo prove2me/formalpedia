@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_entropy_constantShift
 -- name    : BalanceSpecification.entropy_constantShift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:46:49.589701+00:00
 -- url     : https://prove2.me/theorems/30d0c809-f67d-4ddf-8cd4-eb2b449d01ab

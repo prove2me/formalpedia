@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_continuous_ambiguityRep
 -- name    : DimdPolyLEAN.continuous_ambiguityRep
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:13.37335+00:00
 -- url     : https://prove2.me/theorems/fd2a89c5-ab49-45a7-abae-6456a6dd12cb

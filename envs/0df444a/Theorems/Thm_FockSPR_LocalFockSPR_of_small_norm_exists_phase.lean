@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockSPR_LocalFockSPR_of_small_norm_exists_phase
 -- name    : FockSPR.LocalFockSPR_of_small_norm_exists_phase
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:03:48.421229+00:00
 -- url     : https://prove2.me/theorems/dc66d382-365c-4f8d-9995-ed9641e9a9f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_exists_opt_money
 -- name    : FairSelling.exists_opt_money
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:51:25.613311+00:00
 -- url     : https://prove2.me/theorems/453ef7bf-6200-49fa-b77b-e78a61d1730a

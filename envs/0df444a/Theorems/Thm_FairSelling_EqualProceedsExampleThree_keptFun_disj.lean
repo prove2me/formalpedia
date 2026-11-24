@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_EqualProceedsExampleThree_keptFun_disj
 -- name    : FairSelling.EqualProceedsExampleThree.keptFun_disj
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:50:20.545687+00:00
 -- url     : https://prove2.me/theorems/3ea9e198-bd1d-4028-9982-de434d17516e

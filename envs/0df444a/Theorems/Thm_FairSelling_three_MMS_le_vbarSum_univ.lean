@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_three_MMS_le_vbarSum_univ
 -- name    : FairSelling.three_MMS_le_vbarSum_univ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:27:23.22205+00:00
 -- url     : https://prove2.me/theorems/c20d5812-1d18-4419-a1c6-300dbd9ca29f

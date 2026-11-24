@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hermite1DimdLEAN_localizationIncludingZero
 -- name    : Hermite1DimdLEAN.localizationIncludingZero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:12:39.253457+00:00
 -- url     : https://prove2.me/theorems/5e145ba1-8eed-49da-8721-00200598414c

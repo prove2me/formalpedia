@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_exists_limit_of_valid_seq
 -- name    : FairSelling.exists_limit_of_valid_seq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:30:39.547804+00:00
 -- url     : https://prove2.me/theorems/8dd494fb-1a1a-4dc5-ba0e-61651aa9ee6a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_source_entropy_le
 -- name    : BalanceSpecification.MarkerExtension.source_entropy_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:02:11.063709+00:00
 -- url     : https://prove2.me/theorems/af2f6715-cb9c-45ab-a45b-32713a934187

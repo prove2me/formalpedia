@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_OneSidedExample_generator_mem_language
 -- name    : BalanceSpecification.OneSidedExample.generator_mem_language
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:48:47.135566+00:00
 -- url     : https://prove2.me/theorems/21ac84dd-b77f-470f-ab66-cd5bcf99b176

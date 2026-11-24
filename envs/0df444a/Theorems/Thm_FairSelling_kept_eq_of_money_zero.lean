@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_kept_eq_of_money_zero
 -- name    : FairSelling.kept_eq_of_money_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:54:22.751204+00:00
 -- url     : https://prove2.me/theorems/edf7866b-d455-4b6b-982f-f411b48c152b

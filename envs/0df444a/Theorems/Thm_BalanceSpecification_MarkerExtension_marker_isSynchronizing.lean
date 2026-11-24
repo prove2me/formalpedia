@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_marker_isSynchronizing
 -- name    : BalanceSpecification.MarkerExtension.marker_isSynchronizing
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:01:38.860539+00:00
 -- url     : https://prove2.me/theorems/7eeb2f8a-6fdf-4c18-b8f3-1162c74d9ad2

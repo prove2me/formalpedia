@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_intervalParam_mem_arc
 -- name    : DimdPolyLEAN.intervalParam_mem_arc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:10:24.642625+00:00
 -- url     : https://prove2.me/theorems/cadbe704-c63b-4ff3-8ddc-4ffd53fd97f5

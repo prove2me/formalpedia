@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_hasVariableSpecification_of_finite_irreducible
 -- name    : BalanceSpecification.hasVariableSpecification_of_finite_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:54:34.762509+00:00
 -- url     : https://prove2.me/theorems/b0eae622-6a44-4c8d-9ad9-810f79537f4b

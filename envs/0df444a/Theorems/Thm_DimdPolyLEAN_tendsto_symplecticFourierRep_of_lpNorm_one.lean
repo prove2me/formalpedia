@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_tendsto_symplecticFourierRep_of_lpNorm_one
 -- name    : DimdPolyLEAN.tendsto_symplecticFourierRep_of_lpNorm_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:10:40.839936+00:00
 -- url     : https://prove2.me/theorems/7180c7ac-4d86-4dc7-86b4-c310ae8d99a0

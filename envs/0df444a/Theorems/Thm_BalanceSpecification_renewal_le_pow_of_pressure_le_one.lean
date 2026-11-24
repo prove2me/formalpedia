@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_renewal_le_pow_of_pressure_le_one
 -- name    : BalanceSpecification.renewal_le_pow_of_pressure_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:56:42.694473+00:00
 -- url     : https://prove2.me/theorems/aec9f294-d339-4449-b49e-293454cfa77f

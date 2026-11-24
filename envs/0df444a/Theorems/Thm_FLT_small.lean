@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FLT_small
 -- name    : FLT_small
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:17:08.424233+00:00
 -- url     : https://prove2.me/theorems/30a4e9bb-5b14-45d7-a801-bb6c09bddd1d

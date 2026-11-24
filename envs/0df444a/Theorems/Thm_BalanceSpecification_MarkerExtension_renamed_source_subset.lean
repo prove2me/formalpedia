@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_renamed_source_subset
 -- name    : BalanceSpecification.MarkerExtension.renamed_source_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:00:41.983802+00:00
 -- url     : https://prove2.me/theorems/e0071a86-5ccf-48ab-a958-712aa28548db

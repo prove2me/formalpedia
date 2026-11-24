@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_hasSpecification_constantShift
 -- name    : BalanceSpecification.hasSpecification_constantShift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:46:58.04981+00:00
 -- url     : https://prove2.me/theorems/383c23e6-9832-41a9-b8fe-52c6f0ca67e8

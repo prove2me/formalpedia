@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_exists_log_card_entropy_decomposition
 -- name    : BalanceSpecification.exists_log_card_entropy_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:06:53.035899+00:00
 -- url     : https://prove2.me/theorems/96a78421-8827-442c-b72c-6d086e868863

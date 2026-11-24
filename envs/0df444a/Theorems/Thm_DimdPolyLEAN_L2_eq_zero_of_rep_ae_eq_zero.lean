@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_L2_eq_zero_of_rep_ae_eq_zero
 -- name    : DimdPolyLEAN.L2_eq_zero_of_rep_ae_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:20.605645+00:00
 -- url     : https://prove2.me/theorems/6b51e089-8f58-4ed1-939b-0b1da9561076

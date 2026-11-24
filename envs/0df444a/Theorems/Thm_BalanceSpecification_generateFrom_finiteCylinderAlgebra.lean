@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_generateFrom_finiteCylinderAlgebra
 -- name    : BalanceSpecification.generateFrom_finiteCylinderAlgebra
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:56:00.746266+00:00
 -- url     : https://prove2.me/theorems/4b471624-e365-4d02-bae0-e916f8d0509f

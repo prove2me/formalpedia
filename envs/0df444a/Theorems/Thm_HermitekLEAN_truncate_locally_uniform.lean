@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermitekLEAN_truncate_locally_uniform
 -- name    : HermitekLEAN.truncate_locally_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:54.085935+00:00
 -- url     : https://prove2.me/theorems/157dab3e-a2d2-46b2-a235-5a5b8202b88a

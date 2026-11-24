@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_exists_sparse_marker_sequence
 -- name    : BalanceSpecification.exists_sparse_marker_sequence
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:46:12.304042+00:00
 -- url     : https://prove2.me/theorems/0e3851fe-50d2-4c1c-8156-43ec97ec01cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_evalPkappaL2_single
 -- name    : DimdPolyLEAN.evalPkappaL2_single
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:17:00.486795+00:00
 -- url     : https://prove2.me/theorems/51cf7a6b-a2f7-4485-973d-452eb074161c

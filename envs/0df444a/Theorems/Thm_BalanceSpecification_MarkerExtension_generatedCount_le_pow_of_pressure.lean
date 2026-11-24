@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_generatedCount_le_pow_of_pressure
 -- name    : BalanceSpecification.MarkerExtension.generatedCount_le_pow_of_pressure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:04:17.808612+00:00
 -- url     : https://prove2.me/theorems/218630c9-b90d-4482-951b-a8dd447f8f54

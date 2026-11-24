@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermitekLEAN_orthogonal_phi0_iff_hermiteCoeff_zero
 -- name    : HermitekLEAN.orthogonal_phi0_iff_hermiteCoeff_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:25.138967+00:00
 -- url     : https://prove2.me/theorems/1dc5be96-0772-4e06-b428-23b5652892e5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_arcSet_eq_image
 -- name    : DimdPolyLEAN.arcSet_eq_image
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:10:08.127427+00:00
 -- url     : https://prove2.me/theorems/67412312-d7d0-41a3-a9a7-f4d63e3698d7

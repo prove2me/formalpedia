@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_EqualProceedsExampleThree_val_nonneg
 -- name    : FairSelling.EqualProceedsExampleThree.val_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:49:05.339449+00:00
 -- url     : https://prove2.me/theorems/74ab0dd6-04c1-4098-b5bf-db2ace69d8e2

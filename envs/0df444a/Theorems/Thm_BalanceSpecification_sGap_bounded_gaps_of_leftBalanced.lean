@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_sGap_bounded_gaps_of_leftBalanced
 -- name    : BalanceSpecification.sGap_bounded_gaps_of_leftBalanced
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:05:33.431901+00:00
 -- url     : https://prove2.me/theorems/a9239dfb-9ec0-4a09-825f-bc38811b41a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_mem_payloadSuffixFinset_iff
 -- name    : BalanceSpecification.MarkerExtension.mem_payloadSuffixFinset_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:02:44.515375+00:00
 -- url     : https://prove2.me/theorems/9c231157-3b78-4d8e-92db-2b5a76d1aa48

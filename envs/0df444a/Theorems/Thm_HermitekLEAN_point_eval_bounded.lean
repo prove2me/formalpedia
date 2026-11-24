@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermitekLEAN_point_eval_bounded
 -- name    : HermitekLEAN.point_eval_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:37.461402+00:00
 -- url     : https://prove2.me/theorems/dfd104c8-8838-4ca3-b3e3-4f591b9a5aa3

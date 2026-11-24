@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_reverseLanguage_sGapShift
 -- name    : BalanceSpecification.reverseLanguage_sGapShift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:05:31.251331+00:00
 -- url     : https://prove2.me/theorems/de11824a-fecb-4245-97ee-af4c53626d4a

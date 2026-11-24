@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_partialSum_tendsto_toFun_pointwise
 -- name    : DimdPolyLEAN.partialSum_tendsto_toFun_pointwise
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:18:19.948236+00:00
 -- url     : https://prove2.me/theorems/87a1f9fe-41e7-4ad1-a9e7-05b63f460894

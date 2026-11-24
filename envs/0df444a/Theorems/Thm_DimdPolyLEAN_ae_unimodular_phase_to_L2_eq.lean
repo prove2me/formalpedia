@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_ae_unimodular_phase_to_L2_eq
 -- name    : DimdPolyLEAN.ae_unimodular_phase_to_L2_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:16.364472+00:00
 -- url     : https://prove2.me/theorems/db679d78-ee3d-40d9-9144-1c5b6ac1c957

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_wordCount_unrestrictedShift
 -- name    : BalanceSpecification.wordCount_unrestrictedShift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:57:59.288843+00:00
 -- url     : https://prove2.me/theorems/70767bb8-aadd-48c3-8d83-d8e14ea5243b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_word_last_marker_cases
 -- name    : BalanceSpecification.MarkerExtension.word_last_marker_cases
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:02:16.496581+00:00
 -- url     : https://prove2.me/theorems/2a4705c3-c419-476c-ba22-92d88d502915

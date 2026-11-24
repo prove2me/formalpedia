@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FltRegular_not_exists_Int_solution__e727e457994d
 -- name    : P2M_FltRegular_not_exists_Int_solution__e727e457994d
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:13:56.660473+00:00
 -- url     : https://prove2.me/theorems/adf3a6f8-efaf-4925-a657-c7c3589db381

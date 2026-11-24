@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_biU_two
 -- name    : FairSelling.biU_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:51:50.984852+00:00
 -- url     : https://prove2.me/theorems/86b315fc-a972-4acf-9634-7852739bb247

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_betaResidual_zero_run
 -- name    : BalanceSpecification.betaResidual_zero_run
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:58:49.115028+00:00
 -- url     : https://prove2.me/theorems/4da34b80-fc2a-4925-a40d-b0dcddab000a

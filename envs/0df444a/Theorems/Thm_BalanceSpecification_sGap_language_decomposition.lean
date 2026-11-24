@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_sGap_language_decomposition
 -- name    : BalanceSpecification.sGap_language_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:47:37.718249+00:00
 -- url     : https://prove2.me/theorems/fef875c0-61e9-45f5-8612-41a6f43823e5

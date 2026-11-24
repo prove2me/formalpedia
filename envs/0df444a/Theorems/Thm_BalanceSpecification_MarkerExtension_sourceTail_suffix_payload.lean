@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_sourceTail_suffix_payload
 -- name    : BalanceSpecification.MarkerExtension.sourceTail_suffix_payload
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:02:43.674622+00:00
 -- url     : https://prove2.me/theorems/a4c9ca52-5c64-4c89-a8db-2ad6f40d4af7

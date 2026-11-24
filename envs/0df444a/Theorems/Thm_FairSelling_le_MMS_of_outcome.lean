@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_le_MMS_of_outcome
 -- name    : FairSelling.le_MMS_of_outcome
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:14:00.127018+00:00
 -- url     : https://prove2.me/theorems/55e5fc0d-ca70-451c-bbfd-0faf4b7a2ae3

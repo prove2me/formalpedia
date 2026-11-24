@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_edist_modulateL2
 -- name    : DimdPolyLEAN.edist_modulateL2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:10:59.216201+00:00
 -- url     : https://prove2.me/theorems/60310816-96a5-40eb-a90c-30866d9ec3ce

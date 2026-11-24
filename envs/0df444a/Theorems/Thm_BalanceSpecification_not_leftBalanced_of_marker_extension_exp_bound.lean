@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_not_leftBalanced_of_marker_extension_exp_bound
 -- name    : BalanceSpecification.not_leftBalanced_of_marker_extension_exp_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:04:37.072046+00:00
 -- url     : https://prove2.me/theorems/2c7f694b-5727-4de0-b230-a1b052916d08

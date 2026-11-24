@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_irreducible_bsm_iff_single_periodic_orbit_of_entropy_zero
 -- name    : BalanceSpecification.irreducible_bsm_iff_single_periodic_orbit_of_entropy_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:54:32.099785+00:00
 -- url     : https://prove2.me/theorems/ab75c746-ca2b-4aae-a31a-b3e804b1a7d6

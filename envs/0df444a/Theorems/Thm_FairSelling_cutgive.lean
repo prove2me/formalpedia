@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_cutgive
 -- name    : FairSelling.cutgive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:52:10.856621+00:00
 -- url     : https://prove2.me/theorems/2336e951-ff9f-4681-aaad-2cb8c47c60e5

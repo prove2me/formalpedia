@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerEmbedding_wordFinset_renamedShift
 -- name    : BalanceSpecification.MarkerEmbedding.wordFinset_renamedShift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:56:12.069641+00:00
 -- url     : https://prove2.me/theorems/ab4c95ed-b17c-4b6e-a6ac-c520fe39c5a2

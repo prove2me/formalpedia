@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_sGapListConcat_injective
 -- name    : BalanceSpecification.sGapListConcat_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:05:56.427864+00:00
 -- url     : https://prove2.me/theorems/719682de-0670-4339-8fdb-11ffd1207720

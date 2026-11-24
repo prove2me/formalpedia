@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_marked_generated_cut
 -- name    : BalanceSpecification.MarkerExtension.marked_generated_cut
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:59:52.136682+00:00
 -- url     : https://prove2.me/theorems/c810193f-f6e9-49e6-af88-3ab7cbf6517f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_marker_followed_by_word
 -- name    : BalanceSpecification.MarkerExtension.marker_followed_by_word
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:00:41.544693+00:00
 -- url     : https://prove2.me/theorems/84793a9a-57c8-460a-9c7a-d3606b25ff41

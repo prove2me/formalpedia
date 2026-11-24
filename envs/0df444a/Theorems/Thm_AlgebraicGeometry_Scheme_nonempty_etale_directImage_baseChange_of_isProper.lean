@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_nonempty_etale_directImage_baseChange_of_isProper
 -- name    : AlgebraicGeometry.Scheme.nonempty_etale_directImage_baseChange_of_isProper
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-11-24T02:14:42.385486+00:00
 -- url     : https://prove2.me/theorems/f6e673c5-a1b4-413b-bab2-b9a9c3a5ba4b

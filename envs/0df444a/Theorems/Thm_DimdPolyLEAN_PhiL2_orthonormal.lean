@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_PhiL2_orthonormal
 -- name    : DimdPolyLEAN.PhiL2_orthonormal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:18:13.089182+00:00
 -- url     : https://prove2.me/theorems/56bb1589-60bf-4fd4-8d26-114cf176f18d

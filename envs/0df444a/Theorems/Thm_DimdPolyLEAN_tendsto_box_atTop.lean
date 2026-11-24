@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_tendsto_box_atTop
 -- name    : DimdPolyLEAN.tendsto_box_atTop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:17:54.025201+00:00
 -- url     : https://prove2.me/theorems/2f1cd49b-db5f-4b7d-b241-a815c4032785

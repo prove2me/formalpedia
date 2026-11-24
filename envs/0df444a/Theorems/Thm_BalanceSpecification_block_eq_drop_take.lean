@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_block_eq_drop_take
 -- name    : BalanceSpecification.block_eq_drop_take
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:07:35.664809+00:00
 -- url     : https://prove2.me/theorems/dc5009eb-f2e7-486a-a3e9-e9cbaa9328ab

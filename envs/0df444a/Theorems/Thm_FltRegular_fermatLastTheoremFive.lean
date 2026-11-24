@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FltRegular_fermatLastTheoremFive
 -- name    : FltRegular.fermatLastTheoremFive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:15:26.742937+00:00
 -- url     : https://prove2.me/theorems/5dfd23e2-3ddf-4dee-bc8c-19e2b1dfa6d4

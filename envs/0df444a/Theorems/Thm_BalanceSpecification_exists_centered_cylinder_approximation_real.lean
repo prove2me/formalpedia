@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_exists_centered_cylinder_approximation_real
 -- name    : BalanceSpecification.exists_centered_cylinder_approximation_real
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:39:15.715569+00:00
 -- url     : https://prove2.me/theorems/91c39206-bbcb-418c-86d0-47050a8021f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_markerFree_prefix_split
 -- name    : BalanceSpecification.MarkerExtension.markerFree_prefix_split
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:01:07.55728+00:00
 -- url     : https://prove2.me/theorems/75d4f1d8-7ed9-40ac-9554-349754f9bb3a

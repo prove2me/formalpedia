@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_TPSSefxCounterexample_exp_nonneg
 -- name    : FairSelling.TPSSefxCounterexample.exp_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:54:43.505591+00:00
 -- url     : https://prove2.me/theorems/660451ee-ed17-4ea3-9211-9ba1d87c8f7d

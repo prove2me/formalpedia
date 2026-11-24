@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_rightBalanced_of_marker_extension_bound
 -- name    : BalanceSpecification.MarkerExtension.rightBalanced_of_marker_extension_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:04:14.493275+00:00
 -- url     : https://prove2.me/theorems/9950b842-c97a-4678-bce1-9c1f8c133db9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_two_mul_add_one_le_four_pow
 -- name    : BalanceSpecification.two_mul_add_one_le_four_pow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:56:48.56599+00:00
 -- url     : https://prove2.me/theorems/4654f35d-ded4-4acf-9d8a-72b9111f6e1d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_occurrence_card_lower
 -- name    : BalanceSpecification.occurrence_card_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:56:58.843067+00:00
 -- url     : https://prove2.me/theorems/057d53f8-03eb-4f81-8cbc-e4f7158f48a6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_code_pressure_le_of_exponential_word_bound
 -- name    : BalanceSpecification.MarkerExtension.code_pressure_le_of_exponential_word_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:03:45.712098+00:00
 -- url     : https://prove2.me/theorems/2e791088-c3c9-4376-8d2e-a7f13ce80021

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_hasVariableSpecification_of_bounded_synchronizing_occurrences
 -- name    : BalanceSpecification.hasVariableSpecification_of_bounded_synchronizing_occurrences
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:56:37.32063+00:00
 -- url     : https://prove2.me/theorems/35216c34-8b67-4447-8500-2335b8c2e50c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_GapRead_small_end_of_true_mem
 -- name    : BalanceSpecification.GapRead.small_end_of_true_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:05:03.180808+00:00
 -- url     : https://prove2.me/theorems/23792247-e2ce-4dc5-9826-67a059a38eea

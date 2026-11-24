@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermitekLEAN_finiteCirclePoly_support_pos
 -- name    : HermitekLEAN.finiteCirclePoly_support_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:31.689861+00:00
 -- url     : https://prove2.me/theorems/a6b7bcae-f439-41b2-8473-500e21312daf

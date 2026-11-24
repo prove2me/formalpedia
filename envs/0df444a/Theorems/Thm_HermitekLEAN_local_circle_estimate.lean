@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermitekLEAN_local_circle_estimate
 -- name    : HermitekLEAN.local_circle_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:12:14.404212+00:00
 -- url     : https://prove2.me/theorems/685c45f9-7b71-48fa-a438-70300f685652

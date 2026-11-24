@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_orbitPoint_orbitPoint
 -- name    : GroundTheory.Global.orbitPoint_orbitPoint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:58:05.330251+00:00
 -- url     : https://prove2.me/theorems/ceeadf37-6866-46e4-b604-343baee25881

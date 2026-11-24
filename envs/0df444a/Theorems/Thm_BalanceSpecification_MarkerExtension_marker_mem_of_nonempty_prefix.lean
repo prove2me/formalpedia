@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_marker_mem_of_nonempty_prefix
 -- name    : BalanceSpecification.MarkerExtension.marker_mem_of_nonempty_prefix
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:01:14.158924+00:00
 -- url     : https://prove2.me/theorems/fee6bb11-ed92-4cd6-bb64-6a50e46f0e9c

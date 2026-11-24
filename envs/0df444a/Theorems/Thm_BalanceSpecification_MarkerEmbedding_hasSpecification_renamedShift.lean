@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerEmbedding_hasSpecification_renamedShift
 -- name    : BalanceSpecification.MarkerEmbedding.hasSpecification_renamedShift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:56:06.250934+00:00
 -- url     : https://prove2.me/theorems/cf97eab8-db71-4d54-8921-830e492bb559

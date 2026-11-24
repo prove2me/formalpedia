@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FltRegular_fermatLastTheoremSeven
 -- name    : FltRegular.fermatLastTheoremSeven
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:15:52.585149+00:00
 -- url     : https://prove2.me/theorems/86ce8f85-3c0b-4cd3-8dec-d8953af70aad

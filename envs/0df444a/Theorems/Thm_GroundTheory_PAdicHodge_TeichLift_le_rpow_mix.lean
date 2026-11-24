@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_TeichLift_le_rpow_mix
 -- name    : GroundTheory.PAdicHodge.TeichLift.le_rpow_mix
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:36:02.310681+00:00
 -- url     : https://prove2.me/theorems/da8d080b-78e7-4d3b-9791-6b3774995f97

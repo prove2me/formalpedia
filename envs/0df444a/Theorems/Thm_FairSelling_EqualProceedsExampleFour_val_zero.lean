@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_EqualProceedsExampleFour_val_zero
 -- name    : FairSelling.EqualProceedsExampleFour.val_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:50:33.621683+00:00
 -- url     : https://prove2.me/theorems/c0790b2a-a3f0-41a5-b58c-ba6474b2fd4c

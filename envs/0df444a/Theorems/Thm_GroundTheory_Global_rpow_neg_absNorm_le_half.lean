@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_rpow_neg_absNorm_le_half
 -- name    : GroundTheory.Global.rpow_neg_absNorm_le_half
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:58:30.281486+00:00
 -- url     : https://prove2.me/theorems/239fb95c-e02e-4527-a5ba-639f229554c4

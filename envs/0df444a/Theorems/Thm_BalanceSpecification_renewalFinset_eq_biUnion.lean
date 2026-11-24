@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_renewalFinset_eq_biUnion
 -- name    : BalanceSpecification.renewalFinset_eq_biUnion
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:06:06.091487+00:00
 -- url     : https://prove2.me/theorems/8290e2ca-ed6e-493e-b6da-aae1ffcfff51

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_Frac_exp_two_pi_of_den_eq_one
 -- name    : PI.ProdFormulaE.Frac.exp_two_pi_of_den_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:38:09.043454+00:00
 -- url     : https://prove2.me/theorems/c09ea0d7-2b36-461e-9ee1-3c6eb04151c3

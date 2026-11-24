@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_mem_language_sGapShift_iff
 -- name    : BalanceSpecification.mem_language_sGapShift_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:39:11.989802+00:00
 -- url     : https://prove2.me/theorems/8d5360ad-a7a4-422f-84fd-308c1865f5e6

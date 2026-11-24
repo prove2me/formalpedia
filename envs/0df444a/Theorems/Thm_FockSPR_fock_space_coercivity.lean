@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockSPR_fock_space_coercivity
 -- name    : FockSPR.fock_space_coercivity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:09:17.141137+00:00
 -- url     : https://prove2.me/theorems/d91d5e78-22e3-4446-875c-810492f7a923

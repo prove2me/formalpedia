@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_box_subset_box
 -- name    : DimdPolyLEAN.box_subset_box
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:17:51.667353+00:00
 -- url     : https://prove2.me/theorems/cbbe4030-bb03-4c84-be46-66c4857e3e63

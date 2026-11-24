@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_code_wordFinset_eq_index_union
 -- name    : BalanceSpecification.MarkerExtension.code_wordFinset_eq_index_union
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:03:48.710155+00:00
 -- url     : https://prove2.me/theorems/784d5ed2-4391-4926-aeba-823be426ee8e

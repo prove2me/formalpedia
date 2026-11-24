@@ -86167,7 +86167,7 @@
 {"parent": "MissionAbort_realizedCost", "child": "MissionAbort_stopIdx", "via": ["statement"]}
 {"parent": "MissionAbort_realizedCost", "child": "MissionAbort_cost", "via": ["statement"]}
 {"parent": "MissionAbort_realizedCost", "child": "MissionAbort_Model", "via": ["statement"]}
-{"parent": "NahmiasPerishable.Inventory.m14", "child": "NahmiasPerishable_Inventory_Stationary", "via": ["statement"]}
+{"parent": "NahmiasPerishable.Inventory.m14", "child": "NahmiasPerishable_Inventory_Stationary", "via": ["solution", "statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P55.proposition_5_28", "child": "QAlgorithms_Papers_Independent_Intake100_P55", "via": ["statement"]}
 {"parent": "AlgoTransparency_IsTransparentEq", "child": "AlgoTransparency_marginT", "via": ["statement"]}
 {"parent": "AlgoTransparency_IsTransparentEq", "child": "AlgoTransparency_uNotT", "via": ["statement"]}

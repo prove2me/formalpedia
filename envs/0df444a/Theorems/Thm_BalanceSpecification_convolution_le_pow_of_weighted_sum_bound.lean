@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_convolution_le_pow_of_weighted_sum_bound
 -- name    : BalanceSpecification.convolution_le_pow_of_weighted_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:56:43.734209+00:00
 -- url     : https://prove2.me/theorems/66401763-9b30-43bb-a509-17e3be09f758

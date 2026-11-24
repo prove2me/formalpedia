@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_sGapPeriodic_mem
 -- name    : BalanceSpecification.sGapPeriodic_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:05:10.676598+00:00
 -- url     : https://prove2.me/theorems/ab97fdae-f67a-4a78-bb89-82ebef831e0b

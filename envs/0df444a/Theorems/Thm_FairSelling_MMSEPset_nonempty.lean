@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_MMSEPset_nonempty
 -- name    : FairSelling.MMSEPset_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:48:55.744458+00:00
 -- url     : https://prove2.me/theorems/3d70ecbd-7d52-488b-bba3-ef0322fd3949

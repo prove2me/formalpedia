@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_exists_minimal_payload_index
 -- name    : BalanceSpecification.MarkerExtension.exists_minimal_payload_index
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:02:41.949641+00:00
 -- url     : https://prove2.me/theorems/83640b09-0fa5-49c5-b94b-998257816430

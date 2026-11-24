@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_fourier_schwartzCompSubConstCLM_realVec
 -- name    : DimdPolyLEAN.fourier_schwartzCompSubConstCLM_realVec
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:10:52.995854+00:00
 -- url     : https://prove2.me/theorems/9067e438-a0f4-4527-8da5-43c2a842a1f6

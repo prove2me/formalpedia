@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_truncSum_mono
 -- name    : FairSelling.truncSum_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:51:07.204691+00:00
 -- url     : https://prove2.me/theorems/695f469a-0b94-4d3b-bc74-7604370ca691

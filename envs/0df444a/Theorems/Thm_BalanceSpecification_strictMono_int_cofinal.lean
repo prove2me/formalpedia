@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_strictMono_int_cofinal
 -- name    : BalanceSpecification.strictMono_int_cofinal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:56:15.499528+00:00
 -- url     : https://prove2.me/theorems/ad29622b-5244-4e01-a8f1-b63207cbba9d

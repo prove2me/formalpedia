@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_summable_skappa_eval_mul
 -- name    : DimdPolyLEAN.summable_skappa_eval_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:16:22.002426+00:00
 -- url     : https://prove2.me/theorems/ae0d891c-defe-43b5-89e2-bd12a45d87fc

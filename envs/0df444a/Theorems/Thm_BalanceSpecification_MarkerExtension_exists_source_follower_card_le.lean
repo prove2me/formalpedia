@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_exists_source_follower_card_le
 -- name    : BalanceSpecification.MarkerExtension.exists_source_follower_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:04:12.548939+00:00
 -- url     : https://prove2.me/theorems/8d1d9652-d5c3-43fa-bfdb-c4850b1032cf

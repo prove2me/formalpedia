@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_exists_MMS_partition
 -- name    : FairSelling.exists_MMS_partition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:26:56.143249+00:00
 -- url     : https://prove2.me/theorems/f10d7deb-9e74-4700-8bc3-b761489db0a1

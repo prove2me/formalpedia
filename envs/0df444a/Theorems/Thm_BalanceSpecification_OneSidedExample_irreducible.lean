@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_OneSidedExample_irreducible
 -- name    : BalanceSpecification.OneSidedExample.irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:48:43.874084+00:00
 -- url     : https://prove2.me/theorems/a70ab5f1-4f7c-4b0e-b2cc-250d5b88a6e0

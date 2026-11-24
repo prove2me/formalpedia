@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermitekLEAN_single_basis_localization
 -- name    : HermitekLEAN.single_basis_localization
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:12:01.558604+00:00
 -- url     : https://prove2.me/theorems/4fb95dde-b7ff-403a-a496-6a03df13e627

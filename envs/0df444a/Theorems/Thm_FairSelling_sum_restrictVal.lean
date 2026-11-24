@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_sum_restrictVal
 -- name    : FairSelling.sum_restrictVal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:54:05.093687+00:00
 -- url     : https://prove2.me/theorems/c590f2cb-79e5-4b54-b375-e93cfa898bab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermitekLEAN_hermite_series_locally_uniform
 -- name    : HermitekLEAN.hermite_series_locally_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:06:51.30463+00:00
 -- url     : https://prove2.me/theorems/f3294ab1-283c-4610-8554-24d378344c43

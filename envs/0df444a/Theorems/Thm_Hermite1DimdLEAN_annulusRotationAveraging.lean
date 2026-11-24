@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hermite1DimdLEAN_annulusRotationAveraging
 -- name    : Hermite1DimdLEAN.annulusRotationAveraging
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:13:06.873829+00:00
 -- url     : https://prove2.me/theorems/eb78cb82-fa4a-46c7-8382-e5ff0c217183

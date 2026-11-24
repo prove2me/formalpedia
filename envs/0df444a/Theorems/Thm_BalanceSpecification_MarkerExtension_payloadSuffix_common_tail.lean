@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_payloadSuffix_common_tail
 -- name    : BalanceSpecification.MarkerExtension.payloadSuffix_common_tail
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:03:02.927413+00:00
 -- url     : https://prove2.me/theorems/aae3f81b-24a0-4f26-b35e-51297ee55d81

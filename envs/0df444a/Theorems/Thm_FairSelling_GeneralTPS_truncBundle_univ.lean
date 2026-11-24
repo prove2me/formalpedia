@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_GeneralTPS_truncBundle_univ
 -- name    : FairSelling.GeneralTPS.truncBundle_univ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:27:23.341019+00:00
 -- url     : https://prove2.me/theorems/7596d553-c8e5-41fa-aa43-f48f86039d50

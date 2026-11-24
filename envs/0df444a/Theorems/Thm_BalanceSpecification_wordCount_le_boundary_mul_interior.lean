@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_wordCount_le_boundary_mul_interior
 -- name    : BalanceSpecification.wordCount_le_boundary_mul_interior
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:57:34.889008+00:00
 -- url     : https://prove2.me/theorems/8b6a3595-7834-415d-8e0c-3487b47120ed

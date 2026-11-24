@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_cellE_frame
 -- name    : ULHC.cellE_frame
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:18:57.219322+00:00
 -- url     : https://prove2.me/theorems/102c536f-e30e-4058-92b5-02137be6d901

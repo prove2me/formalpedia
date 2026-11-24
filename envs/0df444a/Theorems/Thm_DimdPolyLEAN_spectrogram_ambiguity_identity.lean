@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_spectrogram_ambiguity_identity
 -- name    : DimdPolyLEAN.spectrogram_ambiguity_identity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:18.040864+00:00
 -- url     : https://prove2.me/theorems/3a503bde-7ce6-42f2-b15d-97c76aa6c929

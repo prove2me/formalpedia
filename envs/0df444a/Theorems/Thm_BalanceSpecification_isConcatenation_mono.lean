@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_isConcatenation_mono
 -- name    : BalanceSpecification.isConcatenation_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:56:06.087253+00:00
 -- url     : https://prove2.me/theorems/59abc9e8-3d35-4d1f-a323-e19549b29cae

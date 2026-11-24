@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_posIndex_le_card
 -- name    : GlobalTheory.Inertia.posIndex_le_card
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:38:13.086258+00:00
 -- url     : https://prove2.me/theorems/315aa965-e4ab-4047-a1e8-8a7395cfc800

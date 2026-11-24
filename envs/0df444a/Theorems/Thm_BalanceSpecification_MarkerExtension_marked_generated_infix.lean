@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_marked_generated_infix
 -- name    : BalanceSpecification.MarkerExtension.marked_generated_infix
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:01:18.943452+00:00
 -- url     : https://prove2.me/theorems/1418e87d-dc59-40f4-86b6-1b97b659fdee

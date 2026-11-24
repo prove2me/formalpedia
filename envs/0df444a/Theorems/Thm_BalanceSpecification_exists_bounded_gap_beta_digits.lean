@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_exists_bounded_gap_beta_digits
 -- name    : BalanceSpecification.exists_bounded_gap_beta_digits
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:04:35.865156+00:00
 -- url     : https://prove2.me/theorems/9cb5a940-4dff-45b3-aa10-c5bdd6d49dae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_continuous_stftRep
 -- name    : DimdPolyLEAN.continuous_stftRep
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:06:28.826316+00:00
 -- url     : https://prove2.me/theorems/513ddc61-d994-4688-b063-0ca926359b27

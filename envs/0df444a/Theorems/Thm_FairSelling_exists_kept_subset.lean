@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_exists_kept_subset
 -- name    : FairSelling.exists_kept_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:48:56.388796+00:00
 -- url     : https://prove2.me/theorems/d042c713-5186-49ee-906e-a7100eee9ca2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_mem_occurrenceFinset_iff
 -- name    : BalanceSpecification.mem_occurrenceFinset_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:56:56.592039+00:00
 -- url     : https://prove2.me/theorems/1d43625d-30ee-4a73-9b0e-3781529e0a0e

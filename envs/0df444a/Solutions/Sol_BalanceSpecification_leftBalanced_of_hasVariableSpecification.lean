@@ -1,0 +1,33 @@
+-- Prove2me | solution 1 for BalanceSpecification.leftBalanced_of_hasVariableSpecification
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-24T02:19:14.570624+00:00
+-- url     : https://prove2.me/submissions/fe5c93bb-0e77-4c57-9c01-5f2e80737c31
+
+module
+public import Definitions.Def_BalanceSpecificaton_CountBounds
+public import Definitions.Def_BalanceSpecificaton_LanguageProperties
+public import Mathlib.Tactic
+public import Definitions.Def_BalanceSpecificaton_Specification
+public import Theorems.Thm_BalanceSpecification_leftBalanced_of_bounded_bridges
+public import Theorems.Thm_BalanceSpecification_language_factorial
+public import Theorems.Thm_BalanceSpecification_wordCount_pos_of_nonempty
+
+
+set_option autoImplicit true
+@[expose] public section
+public section
+noncomputable section
+open BalanceSpecification
+variable {A : Type*} [Fintype A] {L : Set (Word A)}
+namespace BalanceSpecification
+theorem _root_.solution [TopologicalSpace A]
+    {X : ShiftSpace A} (hX : X.carrier.Nonempty)
+    (h : HasVariableSpecification X) : LeftBalanced (language X) := by
+  obtain ⟨N, hN⟩ := h
+  apply leftBalanced_of_bounded_bridges (language_factorial X)
+    (wordCount_pos_of_nonempty hX) (N := N)
+  intro u hu v hv
+  obtain ⟨w, _, hwN, huw⟩ := hN u hu v hv
+  exact ⟨w, hwN, huw⟩
+end BalanceSpecification

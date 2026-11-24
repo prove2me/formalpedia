@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_continuous_modulateL2
 -- name    : DimdPolyLEAN.continuous_modulateL2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:06:20.083698+00:00
 -- url     : https://prove2.me/theorems/249eb959-2820-476b-8e87-07e1aa026ffb

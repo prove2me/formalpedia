@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_config_sum_bound
 -- name    : FairSelling.config_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:51:56.445685+00:00
 -- url     : https://prove2.me/theorems/97e9e179-d439-4498-85ce-3d8bde6a58a8

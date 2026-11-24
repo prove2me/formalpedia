@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_realHermiteGenerating_iteratedDeriv_zero_expansion_monomial
 -- name    : DimdPolyLEAN.realHermiteGenerating_iteratedDeriv_zero_expansion_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:17:25.624261+00:00
 -- url     : https://prove2.me/theorems/eba8e081-29ae-4ed2-a5c5-59f471f0185e

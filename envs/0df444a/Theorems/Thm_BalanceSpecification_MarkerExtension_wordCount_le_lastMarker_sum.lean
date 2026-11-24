@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_wordCount_le_lastMarker_sum
 -- name    : BalanceSpecification.MarkerExtension.wordCount_le_lastMarker_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:03:16.594872+00:00
 -- url     : https://prove2.me/theorems/f78d3d30-b061-461b-991b-4ae8cc6f4934

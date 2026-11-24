@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_sGapPeriodic_injective
 -- name    : BalanceSpecification.sGapPeriodic_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:05:10.618812+00:00
 -- url     : https://prove2.me/theorems/12aac818-a6de-4908-9ff5-b445cee3dfbf

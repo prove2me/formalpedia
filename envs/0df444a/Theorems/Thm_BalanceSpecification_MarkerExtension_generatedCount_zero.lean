@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_generatedCount_zero
 -- name    : BalanceSpecification.MarkerExtension.generatedCount_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:03:59.244824+00:00
 -- url     : https://prove2.me/theorems/55af8a39-ad76-4f61-b779-cead9fc479de

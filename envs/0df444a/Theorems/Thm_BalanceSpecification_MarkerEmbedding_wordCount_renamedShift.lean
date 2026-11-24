@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerEmbedding_wordCount_renamedShift
 -- name    : BalanceSpecification.MarkerEmbedding.wordCount_renamedShift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:56:02.19449+00:00
 -- url     : https://prove2.me/theorems/04cf6e1d-de97-4197-ac9c-efbcef87a575

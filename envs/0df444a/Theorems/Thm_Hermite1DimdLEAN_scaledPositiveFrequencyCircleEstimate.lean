@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hermite1DimdLEAN_scaledPositiveFrequencyCircleEstimate
 -- name    : Hermite1DimdLEAN.scaledPositiveFrequencyCircleEstimate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:12:38.00281+00:00
 -- url     : https://prove2.me/theorems/a887bec5-5213-4c8a-9003-089c7822349b

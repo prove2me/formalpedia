@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_minUtil_outcomeOf
 -- name    : FairSelling.minUtil_outcomeOf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:51:17.645694+00:00
 -- url     : https://prove2.me/theorems/d9eac2b3-b996-4737-ba71-f867cf702d2e

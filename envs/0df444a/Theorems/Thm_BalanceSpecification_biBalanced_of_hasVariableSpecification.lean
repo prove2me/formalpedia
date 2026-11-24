@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_biBalanced_of_hasVariableSpecification
 -- name    : BalanceSpecification.biBalanced_of_hasVariableSpecification
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:32:48.43563+00:00
 -- url     : https://prove2.me/theorems/0d689a8a-c92d-426c-ae78-f1518199933a

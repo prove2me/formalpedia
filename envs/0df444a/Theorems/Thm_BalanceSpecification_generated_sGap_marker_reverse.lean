@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_generated_sGap_marker_reverse
 -- name    : BalanceSpecification.generated_sGap_marker_reverse
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:05:26.319195+00:00
 -- url     : https://prove2.me/theorems/4853af0d-79ad-4b62-a6b4-65e8258ff7fa

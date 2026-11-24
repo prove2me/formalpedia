@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_toL2_eq_of_toFun_eq
 -- name    : DimdPolyLEAN.toL2_eq_of_toFun_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:18:24.168898+00:00
 -- url     : https://prove2.me/theorems/7f87c700-2586-4034-8836-87f9bdd8976c

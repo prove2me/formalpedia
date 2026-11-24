@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_payloadSuffix_card_le_wordCount
 -- name    : BalanceSpecification.MarkerExtension.payloadSuffix_card_le_wordCount
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:02:56.464655+00:00
 -- url     : https://prove2.me/theorems/ac470726-6e3f-4909-9677-428591f0b845

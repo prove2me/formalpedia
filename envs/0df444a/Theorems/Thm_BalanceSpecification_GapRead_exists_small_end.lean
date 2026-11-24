@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_GapRead_exists_small_end
 -- name    : BalanceSpecification.GapRead.exists_small_end
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:47:20.737826+00:00
 -- url     : https://prove2.me/theorems/41f9de1f-dda4-44d7-8db1-71ff4b8e4a61

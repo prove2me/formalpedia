@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_exists_wordCount_exp_bound
 -- name    : BalanceSpecification.MarkerExtension.exists_wordCount_exp_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:03:19.903481+00:00
 -- url     : https://prove2.me/theorems/4b2702de-3b29-490c-84c6-ebcc904b3b20

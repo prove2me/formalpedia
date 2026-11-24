@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_sGap_follower_eq_replicate_of_successive_gap
 -- name    : BalanceSpecification.sGap_follower_eq_replicate_of_successive_gap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:05:20.911374+00:00
 -- url     : https://prove2.me/theorems/57c9218c-45a5-4be0-871b-b368e41c71fc

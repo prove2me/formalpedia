@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_restricted_MMS2_ge
 -- name    : FairSelling.restricted_MMS2_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:31:02.07636+00:00
 -- url     : https://prove2.me/theorems/c8cb7922-8e54-4c32-9930-05c06fdfe4d7

@@ -1,0 +1,360 @@
+-- Prove2me | solution 1 for FockSPR.annulus_local_estimate
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-24T02:26:30.963681+00:00
+-- url     : https://prove2.me/submissions/f0c6480e-b2ae-4bc7-a53a-3cc04856a544
+
+module
+public import Definitions.Def_LeanPool_PhaseRetrieval_Constant_Internal_BlockDecomposition
+public import Definitions.Def_LeanPool_PhaseRetrieval_Constant_Internal_HighFreqBandEstimate
+public import Definitions.Def_LeanPool_PhaseRetrieval_Constant_Internal_LocalCircleEstimate
+public import Mathlib.Tactic.NormNum.Parity
+public import Definitions.Def_LeanPool_PhaseRetrieval_Constant_Internal_AnnulusLocalEstimate
+public import Theorems.Thm_FockSPR_freqBlock_card
+public import Theorems.Thm_FockSPR_high_freq_band_estimate
+public import Theorems.Thm_FockSPR_local_circle_estimate
+
+section
+@[expose] public section
+open MeasureTheory Complex Real Finset
+noncomputable section
+namespace FockSPR
+private lemma mul_fourier_pow (r : ℝ) (t : AddCircle T) (n : ℕ) :
+    ((↑r : ℂ) * (fourier 1 t : ℂ)) ^ n =
+    (↑r : ℂ) ^ n * fourier (n : ℤ) t := by
+  induction n with
+  | zero => simp
+  | succ n ih =>
+    rw [pow_succ, ih]; push_cast [Nat.cast_succ]; rw [fourier_add]; ring
+private lemma freqBlock_pairwiseDisjoint :
+    ∀ (S : Finset ℕ), (S : Set ℕ).PairwiseDisjoint freqBlock := by
+  intro S ℓ₁ _ ℓ₂ _ hne
+  simp only [Function.onFun, freqBlock, Finset.disjoint_left, Finset.mem_Icc]
+  intro n hn₁ hn₂
+  rcases Nat.lt_or_gt_of_ne hne with h | h
+  · have : (ℓ₁ + 1) ^ 2 ≤ ℓ₂ ^ 2 := by nlinarith only [h]
+    have := Nat.pos_of_ne_zero (show (ℓ₁ + 1) ^ 2 ≠ 0 by positivity)
+    omega
+  · have : (ℓ₂ + 1) ^ 2 ≤ ℓ₁ ^ 2 := by nlinarith only [h]
+    have := Nat.pos_of_ne_zero (show (ℓ₂ + 1) ^ 2 ≠ 0 by positivity)
+    omega
+private lemma sum_ite_mem_biUnion (S : Finset ℕ) (n : ℕ) (c : ℂ) :
+    ∑ ℓ ∈ S, (if n ∈ freqBlock ℓ then c else 0) =
+    if n ∈ S.biUnion freqBlock then c else 0 := by
+  split_ifs with h
+  · obtain ⟨ℓ, hℓS, hℓn⟩ := Finset.mem_biUnion.mp h
+    rw [Finset.sum_eq_single ℓ (fun ℓ' hℓ'S hne => by
+      rw [if_neg]; intro h'
+      exact Finset.disjoint_left.mp
+        ((freqBlock_pairwiseDisjoint S) (Finset.mem_coe.mpr hℓ'S)
+          (Finset.mem_coe.mpr hℓS) hne) h' hℓn)
+      (fun habs => absurd hℓS habs)]
+    simp only [hℓn, ite_true]
+  · simp_all
+private lemma sum_odd_sq (a b : ℕ) (h : a ≤ b) :
+    ∑ ℓ ∈ Finset.Icc a b, (2 * ℓ + 1) + a ^ 2 = (b + 1) ^ 2 := by
+  induction b with
+  | zero => interval_cases a; simp
+  | succ n ih =>
+    by_cases ha' : a ≤ n
+    · rw [Finset.sum_Icc_succ_top (by omega)]
+      have := ih ha'
+      linarith only [this, show (n + 2) ^ 2 = (n + 1) ^ 2 + 2 * (n + 1) + 1 from by ring]
+    · have : a = n + 1 := by omega
+      subst this; simp; ring
+private lemma card_biUnion_freqBlock (a b : ℕ) (h : a ≤ b) :
+    ((Finset.Icc a b).biUnion freqBlock).card = (b + 1) ^ 2 - a ^ 2 := by
+  rw [Finset.card_biUnion (freqBlock_pairwiseDisjoint _)]
+  simp_rw [FockSPR.freqBlock_card]
+  have h1 : a ^ 2 ≤ (b + 1) ^ 2 := by nlinarith only [h]
+  have h2 := sum_odd_sq a b h
+  omega
+private lemma activeFreqSet_pos {D j n : ℕ} (hn : n ∈ activeFreqSet D j) :
+    1 ≤ n := by
+  simp only [activeFreqSet, Finset.mem_filter, Finset.mem_biUnion,
+    Finset.mem_Icc] at hn
+  obtain ⟨⟨ℓ, hℓ, hn_block⟩, _⟩ := hn
+  simp only [freqBlock, Finset.mem_Icc] at hn_block
+  nlinarith only [hℓ, hn_block, sq_nonneg ℓ, show 1 ≤ ℓ by omega]
+private lemma localPoly_eq_fourierSum {D : ℕ} (_hD : 1 ≤ D) (a : Fin D → ℂ)
+    (j : ℕ) (r : ℝ) :
+    (fun t : AddCircle T => localPoly a 5 j (↑r * (fourier 1 t : ℂ))) =
+    fun t => ∑ n ∈ activeFreqSet D j,
+      localFourierCoeff a j r n * fourier (n : ℤ) t := by
+  ext t
+  -- Unfold localPoly and blockPoly
+  unfold localPoly blockPoly
+  simp_rw [mul_fourier_pow]
+  rw [Finset.sum_comm]
+  -- Factor out fourier from each term
+  simp_rw [show ∀ (k : Fin D) (ℓ : ℕ),
+    (if (k.val + 1) ∈ freqBlock ℓ then
+      a k * ((↑r : ℂ) ^ (k.val + 1) * fourier ((k.val + 1 : ℕ) : ℤ) t) else 0) =
+    (if (k.val + 1) ∈ freqBlock ℓ then
+      a k * (↑r : ℂ) ^ (k.val + 1) else 0) * fourier ((k.val + 1 : ℕ) : ℤ) t
+    from fun k ℓ => by split_ifs <;> ring]
+  simp_rw [← Finset.sum_mul, sum_ite_mem_biUnion]
+  -- Now: ∑ k : Fin D, (if (k+1) ∈ E then a k * r^(k+1) else 0) * fourier(k+1) t
+  -- = ∑ n ∈ activeFreqSet, localFourierCoeff(n) * fourier(n) t
+  -- Step 1: Replace each term with localFourierCoeff(k+1)
+  simp_rw [show ∀ k : Fin D,
+    (if (k.val + 1) ∈ (Finset.Icc (max 1 (j - 5))
+      (min (maxBlockIndex D) (j + 5))).biUnion freqBlock then
+      a k * (↑r : ℂ) ^ (k.val + 1) else 0) = localFourierCoeff a j r (k.val + 1)
+    from fun k => by
+      unfold localFourierCoeff
+      split_ifs with h1 h2 h2
+      · congr 1
+      · exact absurd ⟨h1, by omega, by omega⟩ h2
+      · exact absurd h2.1 h1
+      · rfl]
+  -- Step 2: Reindex from Fin D to activeFreqSet via Icc 1 D
+  set f : ℕ → ℂ := fun n =>
+    localFourierCoeff a j r n * fourier (n : ℤ) t
+  change ∑ k : Fin D, f (k.val + 1) = ∑ n ∈ activeFreqSet D j, f n
+  -- Convert Fin D sum to Icc 1 D sum
+  conv_lhs =>
+    rw [show (fun k : Fin D => f (k.val + 1)) =
+      (fun k : Fin D => (f ∘ (· + 1)) k.val) from rfl]
+  rw [Fin.sum_univ_eq_sum_range]
+  have hmap : Finset.Icc 1 D =
+      (Finset.range D).map ⟨(· + 1), Nat.succ_injective⟩ := by
+    ext n; simp only [Finset.mem_Icc, Finset.mem_map, Finset.mem_range,
+      Function.Embedding.coeFn_mk]
+    constructor
+    · intro ⟨h1, h2⟩; exact ⟨n - 1, by omega, by omega⟩
+    · rintro ⟨m, hm, rfl⟩; omega
+  rw [show ∑ i ∈ Finset.range D, (f ∘ (· + 1)) i =
+    ∑ n ∈ Finset.Icc 1 D, f n from by rw [hmap, Finset.sum_map]; rfl]
+  -- Now both sides are sums of f: one over Icc 1 D, one over activeFreqSet
+  -- activeFreqSet ⊆ Icc 1 D and f(n) = 0 for n ∈ Icc 1 D \ activeFreqSet
+  symm
+  apply Finset.sum_subset
+  · -- activeFreqSet ⊆ Icc 1 D
+    intro n hn
+    simp only [activeFreqSet, Finset.mem_filter, Finset.mem_biUnion,
+      Finset.mem_Icc] at hn
+    obtain ⟨⟨ℓ, hℓ, hn_block⟩, hn_le⟩ := hn
+    simp only [freqBlock, Finset.mem_Icc] at hn_block
+    exact Finset.mem_Icc.mpr
+      ⟨by nlinarith [sq_nonneg ℓ, show 1 ≤ ℓ by omega], hn_le⟩
+  · -- f(n) = 0 for n ∉ activeFreqSet
+    intro n hn hn_not
+    change localFourierCoeff a j r n * fourier (n : ℤ) t = 0
+    simp only [localFourierCoeff]
+    rw [dif_neg]
+    · simp
+    · intro ⟨h_mem, _, _⟩
+      exact hn_not (Finset.mem_filter.mpr
+        ⟨h_mem, (Finset.mem_Icc.mp hn).2⟩)
+private lemma activeFreqSet_card_le {D : ℕ} (_hD : 1 ≤ D) {j : ℕ} (hj : j ≤ 817) :
+    (activeFreqSet D j).card ≤ 17985 := by
+  apply le_trans (Finset.card_filter_le _ _)
+  by_cases hrange : max 1 (j - 5) ≤ min (maxBlockIndex D) (j + 5)
+  · rw [card_biUnion_freqBlock _ _ hrange]
+    by_cases hj6 : 6 ≤ j
+    · -- j ≥ 6: max(1,j-5) = j-5
+      have hmax : max 1 (j - 5) = j - 5 := by omega
+      rw [hmax]
+      -- (min(Λ,j+5)+1)^2 - (j-5)^2 ≤ (j+6)^2 - (j-5)^2 = 11*(2j+1) ≤ 17985
+      have h_ub : min (maxBlockIndex D) (j + 5) + 1 ≤ j + 6 := by omega
+      have h_sq : (min (maxBlockIndex D) (j + 5) + 1) ^ 2 ≤ (j + 6) ^ 2 := by
+        nlinarith only [
+          hrange, hmax, h_ub
+        ]
+      suffices (j + 6) ^ 2 - (j - 5) ^ 2 ≤ 17985 by omega
+      suffices (j + 6) ^ 2 = (j - 5) ^ 2 + 11 * (2 * j + 1) by omega
+      nlinarith only [sq_nonneg (j - 5), Nat.sub_add_cancel (show 5 ≤ j by omega)]
+    · -- j < 6: max(1,j-5) = 1
+      have hmax : max 1 (j - 5) = 1 := by omega
+      rw [hmax]
+      have h_ub : min (maxBlockIndex D) (j + 5) + 1 ≤ j + 6 := by omega
+      have h_sq : (min (maxBlockIndex D) (j + 5) + 1) ^ 2 ≤ (j + 6) ^ 2 := by
+        nlinarith only [
+          hrange, hmax, h_ub
+        ]
+      have h_jsm : (j + 6) ^ 2 ≤ 11 ^ 2 := by nlinarith only [hj6]
+      omega
+  · -- Empty range
+    have : Finset.Icc (max 1 (j - 5)) (min (maxBlockIndex D) (j + 5)) = ∅ :=
+      Finset.Icc_eq_empty (by omega)
+    rw [this, Finset.biUnion_empty]; simp
+private lemma annulus_low_freq {D : ℕ} (hD : 1 ≤ D) (a : Fin D → ℂ)
+    (j : ℕ) (hj : j ≤ 817) {r : ℝ} (_hr : 0 ≤ r) :
+    circleNormSq (fun t => localPoly a 5 j (↑r * (fourier 1 t : ℂ))) ≤
+      1620 ^ 2 *
+        (∫ t : AddCircle T,
+          (rho (localPoly a 5 j (↑r * (fourier 1 t : ℂ)))) ^ 2
+          ∂AddCircle.haarAddCircle) := by
+  set P := fun t : AddCircle T => localPoly a 5 j (↑r * (fourier 1 t : ℂ))
+  set E := activeFreqSet D j
+  set b := localFourierCoeff a j r
+  set L := E.card
+  have hP_eq := localPoly_eq_fourierSum hD a j r
+  by_cases hL_pos : 1 ≤ L
+  · -- Nontrivial case: apply local_circle_estimate
+    have hE_pos : ∀ n ∈ E, 1 ≤ n := fun n hn => activeFreqSet_pos hn
+    have h_est := local_circle_estimate hL_pos rfl hE_pos b P hP_eq
+    have hL_bound : L ≤ 17985 := activeFreqSet_card_le hD hj
+    calc circleNormSq P
+        ≤ 144 * ↑L * ∫ t, (rho (P t)) ^ 2 ∂AddCircle.haarAddCircle := h_est
+      _ ≤ 1620 ^ 2 * ∫ t, (rho (P t)) ^ 2 ∂AddCircle.haarAddCircle := by
+          apply mul_le_mul_of_nonneg_right _ (integral_nonneg (fun t => sq_nonneg _))
+          calc (144 : ℝ) * ↑L
+              ≤ 144 * 17985 := by
+                apply mul_le_mul_of_nonneg_left (by exact_mod_cast hL_bound) (by norm_num)
+            _ ≤ 1620 ^ 2 := by norm_num
+  · -- Trivial case: L = 0 means P = 0
+    push Not at hL_pos
+    have hL_zero : L = 0 := by omega
+    have hE_empty : E = ∅ := Finset.card_eq_zero.mp hL_zero
+    -- P = 0 since the Fourier sum has no terms
+    have hP_zero : P = fun _ => 0 := by
+      show P = fun _ => 0
+      conv_lhs => rw [show P = fun t =>
+        localPoly a 5 j (↑r * (fourier 1 t : ℂ)) from rfl, hP_eq]
+      ext t
+      show ∑ n ∈ activeFreqSet D j, _ = 0
+      rw [show activeFreqSet D j = E from rfl, hE_empty]
+      simp
+    simp only [hP_zero, circleNormSq, norm_zero, zero_pow, ne_eq,
+      OfNat.ofNat_ne_zero, not_false_eq_true, integral_zero]
+    apply mul_nonneg (by norm_num) (integral_nonneg (fun t => sq_nonneg _))
+private lemma high_freq_NL_condition (j : ℕ) (hj : 818 ≤ j) :
+    1343 * (11 * (2 * j + 1)) ^ 2 ≤ ((j - 5) ^ 2) ^ 2 := by
+  zify [show 5 ≤ j by omega]
+  set k := (j : ℤ) - 818
+  have hk : 0 ≤ k := by omega
+  rw [show (j : ℤ) - 5 = k + 813 from by omega,
+      show 2 * (j : ℤ) + 1 = 2 * k + 1637 from by omega]
+  nlinarith only [sq_nonneg k, sq_nonneg (k * k),
+    sq_nonneg (k * (k + 813)), hk]
+private lemma activeFreqSet_subset_Icc {D j : ℕ} (hj6 : 6 ≤ j) :
+    activeFreqSet D j ⊆
+      Finset.Icc ((j - 5) ^ 2) ((j + 6) ^ 2 - 1) := by
+  intro n hn
+  simp only [activeFreqSet, Finset.mem_filter, Finset.mem_biUnion,
+    Finset.mem_Icc] at hn
+  obtain ⟨⟨ℓ, hℓ_range, hn_block⟩, _⟩ := hn
+  simp only [freqBlock, Finset.mem_Icc] at hn_block hℓ_range
+  refine Finset.mem_Icc.mpr ⟨?_, ?_⟩
+  · have : j - 5 ≤ ℓ := by omega
+    nlinarith only [hn_block, this]
+  · have : ℓ + 1 ≤ j + 6 := by omega
+    have : (ℓ + 1) ^ 2 ≤ (j + 6) ^ 2 :=
+      Nat.pow_le_pow_left this 2
+    omega
+private lemma localFourierCoeff_zero_outside {D : ℕ} (a : Fin D → ℂ)
+    (j : ℕ) (r : ℝ) {n : ℕ} (hn : n ∉ activeFreqSet D j) :
+    localFourierCoeff a j r n = 0 := by
+  unfold localFourierCoeff
+  rw [dif_neg]
+  intro ⟨h_mem, h1, hD⟩
+  exact hn (Finset.mem_filter.mpr ⟨h_mem, hD⟩)
+private lemma fourierSum_extend_to_Icc {D : ℕ} (a : Fin D → ℂ) (j : ℕ)
+    (r : ℝ) (hj6 : 6 ≤ j) (t : AddCircle T) :
+    ∑ n ∈ activeFreqSet D j,
+      localFourierCoeff a j r n * fourier (n : ℤ) t =
+    ∑ n ∈ Finset.Icc ((j - 5) ^ 2) ((j + 6) ^ 2 - 1),
+      localFourierCoeff a j r n * fourier (n : ℤ) t := by
+  apply Finset.sum_subset (activeFreqSet_subset_Icc hj6)
+  intro n _ hn_not
+  simp [localFourierCoeff_zero_outside a j r hn_not]
+private lemma sum_Icc_eq_sum_Fin {α : Type*} [AddCommMonoid α]
+    (N L : ℕ) (hL : 1 ≤ L) (f : ℕ → α) :
+    ∑ n ∈ Finset.Icc N (N + L - 1), f n =
+    ∑ m : Fin L, f (N + m.val) := by
+  symm
+  apply Finset.sum_nbij (fun (m : Fin L) => N + m.val)
+  · intro ⟨m, hm⟩ _
+    exact Finset.mem_Icc.mpr
+      ⟨Nat.le_add_right N m, by omega⟩
+  · intro a _ b _ (h : N + a.val = N + b.val)
+    exact Fin.ext (by omega)
+  · intro n hn
+    obtain ⟨hlo, hhi⟩ := Finset.mem_Icc.mp hn
+    exact ⟨⟨n - N, by omega⟩, Finset.mem_univ _,
+      by change N + (n - N) = n; omega⟩
+  · intro _ _; rfl
+private lemma freq_range_eq (j : ℕ) (hj : 5 ≤ j) :
+    (j + 6) ^ 2 - 1 = (j - 5) ^ 2 + (11 * (2 * j + 1)) - 1 := by
+  zify [show (j - 5) ^ 2 + (11 * (2 * j + 1)) ≥ 1 from by nlinarith only [hj],
+        show (j + 6) ^ 2 ≥ 1 from by nlinarith only [hj], show 5 ≤ j from hj]
+  ring
+private lemma annulus_high_freq {D : ℕ} (hD : 1 ≤ D) (a : Fin D → ℂ)
+    (j : ℕ) (hj : 818 ≤ j) {r : ℝ} (_hr : 0 ≤ r) :
+    circleNormSq (fun t => localPoly a 5 j (↑r * (fourier 1 t : ℂ))) ≤
+      1620 ^ 2 *
+        (∫ t : AddCircle T,
+          (rho (localPoly a 5 j (↑r * (fourier 1 t : ℂ)))) ^ 2
+          ∂AddCircle.haarAddCircle) := by
+  set P := fun t : AddCircle T =>
+    localPoly a 5 j (↑r * (fourier 1 t : ℂ))
+  -- Parameters for high_freq_band_estimate
+  set N := (j - 5) ^ 2
+  set L := 11 * (2 * j + 1)
+  -- Coefficients for the reindexed sum
+  set b : Fin L → ℂ := fun m => localFourierCoeff a j r (N + m.val)
+  -- Key range identity
+  have hj5 : 5 ≤ j := by omega
+  have hj6 : 6 ≤ j := by omega
+  have hL_pos : 1 ≤ L := by omega
+  have hN_pos : 1 ≤ N := Nat.one_le_pow 2 _ (by omega)
+  -- The NL condition
+  have hNL : 1343 * L ^ 2 ≤ N ^ 2 :=
+    high_freq_NL_condition j hj
+  -- Express P as a high-frequency Fourier sum
+  have hP_eq : P = fun t =>
+      ∑ m : Fin L, b m * fourier ((N + m.val : ℕ) : ℤ) t := by
+    ext t
+    -- P(t) = ∑ n ∈ activeFreqSet, localFourierCoeff * fourier n t
+    have h1 := localPoly_eq_fourierSum hD a j r
+    -- = ∑ n ∈ Icc N (N+L-1), localFourierCoeff * fourier n t
+    have h2 := fourierSum_extend_to_Icc a j r hj6 t
+    -- = ∑ m : Fin L, b m * fourier (N+m) t
+    have hrange : (j + 6) ^ 2 - 1 =
+        (j - 5) ^ 2 + (11 * (2 * j + 1)) - 1 :=
+      freq_range_eq j hj5
+    change P t = ∑ m : Fin L,
+      b m * fourier ((N + m.val : ℕ) : ℤ) t
+    -- P t = localPoly ... = ∑ activeFreqSet = ∑ Icc = ∑ Fin L
+    have hPt : P t = ∑ n ∈ activeFreqSet D j,
+        localFourierCoeff a j r n * fourier (n : ℤ) t :=
+      congr_fun h1 t
+    rw [hPt, h2, hrange]
+    exact sum_Icc_eq_sum_Fin N L hL_pos _
+  -- Apply high_freq_band_estimate
+  have hband := high_freq_band_estimate hN_pos hL_pos hNL b P hP_eq
+  -- Scale: 32 ≤ 1620²
+  calc circleNormSq P
+      ≤ 32 * (∫ t, (rho (P t)) ^ 2
+          ∂AddCircle.haarAddCircle) := hband
+    _ ≤ 1620 ^ 2 * (∫ t, (rho (P t)) ^ 2
+          ∂AddCircle.haarAddCircle) := by
+        apply mul_le_mul_of_nonneg_right _ (integral_nonneg
+          (fun t => sq_nonneg _))
+        norm_num
+end FockSPR
+end
+end
+end
+
+set_option autoImplicit true
+@[expose] public section
+public section
+open MeasureTheory Complex Real Finset
+noncomputable section
+open FockSPR
+namespace FockSPR
+theorem _root_.solution {D : ℕ} (hD : 1 ≤ D) (a : Fin D → ℂ)
+    (j : ℕ) {r : ℝ} (hr_nn : 0 ≤ r) (_hr_lo : (j : ℝ) ≤ r)
+    (_hr_hi : r ≤ (j : ℝ) + 1) :
+    circleNormSq (fun t => localPoly a 5 j (↑r * (fourier 1 t : ℂ))) ≤
+      1620 ^ 2 *
+        (∫ t : AddCircle T,
+          (rho (localPoly a 5 j (↑r * (fourier 1 t : ℂ)))) ^ 2
+          ∂AddCircle.haarAddCircle) := by
+  by_cases hj : j ≤ 817
+  · exact annulus_low_freq hD a j hj hr_nn
+  · exact annulus_high_freq hD a j (by omega) hr_nn
+end FockSPR

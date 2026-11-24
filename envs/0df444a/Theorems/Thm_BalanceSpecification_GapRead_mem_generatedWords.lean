@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_GapRead_mem_generatedWords
 -- name    : BalanceSpecification.GapRead.mem_generatedWords
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:04:54.156281+00:00
 -- url     : https://prove2.me/theorems/923fa89a-58af-44bd-8284-ea8203b7fbec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_endingMarker_count_le_convolution
 -- name    : BalanceSpecification.MarkerExtension.endingMarker_count_le_convolution
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:03:08.662649+00:00
 -- url     : https://prove2.me/theorems/fafebad0-d3fa-4eb3-bc75-c4884440586c

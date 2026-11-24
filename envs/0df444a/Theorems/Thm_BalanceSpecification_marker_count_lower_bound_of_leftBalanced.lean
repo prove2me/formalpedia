@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_marker_count_lower_bound_of_leftBalanced
 -- name    : BalanceSpecification.marker_count_lower_bound_of_leftBalanced
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:04:22.022302+00:00
 -- url     : https://prove2.me/theorems/84fbc705-b38f-44a9-ad1c-8f0ea80a87dd

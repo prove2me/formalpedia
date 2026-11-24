@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_carrierArc_mk_image_Ioc_integral_eq_scaled
 -- name    : DimdPolyLEAN.carrierArc_mk_image_Ioc_integral_eq_scaled
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:10:23.994887+00:00
 -- url     : https://prove2.me/theorems/4dfbd7f3-a965-4a1d-b996-ab6f22ca79a8

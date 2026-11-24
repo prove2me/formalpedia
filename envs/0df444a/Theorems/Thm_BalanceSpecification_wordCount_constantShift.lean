@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_wordCount_constantShift
 -- name    : BalanceSpecification.wordCount_constantShift
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:58:19.193162+00:00
 -- url     : https://prove2.me/theorems/f870a9e5-a5b6-413b-89c5-f5160560e19c

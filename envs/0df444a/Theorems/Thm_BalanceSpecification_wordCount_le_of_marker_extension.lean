@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_wordCount_le_of_marker_extension
 -- name    : BalanceSpecification.wordCount_le_of_marker_extension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:04:21.778234+00:00
 -- url     : https://prove2.me/theorems/f2061ff4-ec2b-4aa4-b920-40af11787700

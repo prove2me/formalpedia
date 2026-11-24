@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_word_before_marker_suffix_payload
 -- name    : BalanceSpecification.MarkerExtension.word_before_marker_suffix_payload
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:02:07.28526+00:00
 -- url     : https://prove2.me/theorems/abf9871a-257a-4dc2-a536-758f303f467a

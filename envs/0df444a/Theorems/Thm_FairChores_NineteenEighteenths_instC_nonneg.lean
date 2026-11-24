@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_NineteenEighteenths_instC_nonneg
 -- name    : FairChores.NineteenEighteenths.instC_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:29:44.271978+00:00
 -- url     : https://prove2.me/theorems/ff59ae78-c599-4b48-947a-a94a290a7902

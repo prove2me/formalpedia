@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_entropy_le_log_of_polynomial_wordCount_bound
 -- name    : BalanceSpecification.entropy_le_log_of_polynomial_wordCount_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:06:49.289701+00:00
 -- url     : https://prove2.me/theorems/450f9f33-33fe-4a88-960f-79a68c496419

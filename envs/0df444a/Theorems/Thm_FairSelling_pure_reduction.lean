@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_pure_reduction
 -- name    : FairSelling.pure_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:39:06.411741+00:00
 -- url     : https://prove2.me/theorems/f90e8e18-6c89-406b-a4cf-aeb2c69807d3

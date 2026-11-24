@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_realHermiteGenerating_stft_integral_raw
 -- name    : DimdPolyLEAN.realHermiteGenerating_stft_integral_raw
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:18:41.22886+00:00
 -- url     : https://prove2.me/theorems/fc187939-de5b-4d48-a1bc-649f65f3ca7c

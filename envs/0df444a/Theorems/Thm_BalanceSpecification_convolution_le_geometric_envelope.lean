@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_convolution_le_geometric_envelope
 -- name    : BalanceSpecification.convolution_le_geometric_envelope
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:46:05.605454+00:00
 -- url     : https://prove2.me/theorems/326fdd96-990e-4fd8-9a48-f0bb5393a5fc

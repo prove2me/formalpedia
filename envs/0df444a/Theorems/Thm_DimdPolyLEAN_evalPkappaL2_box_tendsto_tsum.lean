@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_evalPkappaL2_box_tendsto_tsum
 -- name    : DimdPolyLEAN.evalPkappaL2_box_tendsto_tsum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:18:23.059816+00:00
 -- url     : https://prove2.me/theorems/e2b215aa-b805-41d9-ac54-641959f57ca7

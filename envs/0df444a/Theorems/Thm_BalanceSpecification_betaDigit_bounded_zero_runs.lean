@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_betaDigit_bounded_zero_runs
 -- name    : BalanceSpecification.betaDigit_bounded_zero_runs
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:58:52.813824+00:00
 -- url     : https://prove2.me/theorems/6fd0cc26-e393-4ec7-b279-7a8f352ce5c6

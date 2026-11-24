@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_exists_oneSided_marker_extension
 -- name    : BalanceSpecification.exists_oneSided_marker_extension
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:04:42.70917+00:00
 -- url     : https://prove2.me/theorems/d9009fa1-44cd-4e5e-98b6-5625b5765df3

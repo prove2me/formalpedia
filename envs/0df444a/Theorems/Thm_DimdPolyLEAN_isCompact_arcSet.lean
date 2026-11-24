@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_isCompact_arcSet
 -- name    : DimdPolyLEAN.isCompact_arcSet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:09:59.805719+00:00
 -- url     : https://prove2.me/theorems/6aa82291-921f-44f5-88d6-699ec4f43066

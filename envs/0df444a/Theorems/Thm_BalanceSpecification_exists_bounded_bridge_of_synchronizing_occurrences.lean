@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_exists_bounded_bridge_of_synchronizing_occurrences
 -- name    : BalanceSpecification.exists_bounded_bridge_of_synchronizing_occurrences
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:56:35.154994+00:00
 -- url     : https://prove2.me/theorems/888b5a63-4e14-4d09-9c3b-8900b6ed5327

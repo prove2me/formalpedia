@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_IsConcatenation_block_infix_generatedWords
 -- name    : BalanceSpecification.IsConcatenation.block_infix_generatedWords
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:56:21.7378+00:00
 -- url     : https://prove2.me/theorems/5ca3ed4e-927d-499f-b004-118addc380f9

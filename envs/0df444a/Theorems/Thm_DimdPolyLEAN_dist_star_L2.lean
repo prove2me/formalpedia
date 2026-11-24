@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_dist_star_L2
 -- name    : DimdPolyLEAN.dist_star_L2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:08.982112+00:00
 -- url     : https://prove2.me/theorems/a539e96c-fb81-4279-8d2c-f5710208379f

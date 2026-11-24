@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_weighted_sum_le_of_geometric_bound
 -- name    : BalanceSpecification.weighted_sum_le_of_geometric_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:56:46.059153+00:00
 -- url     : https://prove2.me/theorems/474e8f8d-ad38-456e-91cc-cab526379f9a

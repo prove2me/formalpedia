@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HermitekLEAN_truncate_unique
 -- name    : HermitekLEAN.truncate_unique
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:11:39.181261+00:00
 -- url     : https://prove2.me/theorems/be005aad-9f42-44f7-a7c4-432b5063bd7c

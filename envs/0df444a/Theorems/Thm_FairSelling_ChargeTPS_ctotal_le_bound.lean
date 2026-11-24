@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_ChargeTPS_ctotal_le_bound
 -- name    : FairSelling.ChargeTPS.ctotal_le_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:40:32.619859+00:00
 -- url     : https://prove2.me/theorems/609e5f8f-1ae9-496e-8a3a-fc8f86a84405

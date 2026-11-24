@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_exists_realization_generatedWords_at_cut
 -- name    : BalanceSpecification.exists_realization_generatedWords_at_cut
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:56:23.759267+00:00
 -- url     : https://prove2.me/theorems/ce359b22-29b2-4480-881a-ce28342e3741

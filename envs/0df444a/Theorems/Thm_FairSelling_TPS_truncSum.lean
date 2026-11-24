@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_TPS_truncSum
 -- name    : FairSelling.TPS_truncSum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:23:38.487888+00:00
 -- url     : https://prove2.me/theorems/445a3789-1d64-4325-9a8f-e07e74e0530f

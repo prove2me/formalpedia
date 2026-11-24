@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_generator_mem_language
 -- name    : BalanceSpecification.MarkerExtension.generator_mem_language
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:01:58.531347+00:00
 -- url     : https://prove2.me/theorems/68cefef6-ca1c-4034-94d7-c1994c739747

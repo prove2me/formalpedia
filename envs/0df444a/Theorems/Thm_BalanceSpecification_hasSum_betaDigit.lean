@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_hasSum_betaDigit
 -- name    : BalanceSpecification.hasSum_betaDigit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:04:34.268562+00:00
 -- url     : https://prove2.me/theorems/423a2b5a-ce26-4c8e-8221-b76ea5981dff

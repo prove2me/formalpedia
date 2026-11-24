@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_synchronized_of_hasVariableSpecification
 -- name    : BalanceSpecification.synchronized_of_hasVariableSpecification
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:56:38.110678+00:00
 -- url     : https://prove2.me/theorems/eed2ba3b-45a3-4c78-907a-16301c6d40ba

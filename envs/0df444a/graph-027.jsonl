@@ -49374,7 +49374,7 @@
 {"parent": "MemoSDPI_Main_Selection", "child": "DPVerify_RandAlg", "via": ["statement"]}
 {"parent": "QEC.Coding.BDL26RXXStarTransport.gradientError_nonzero", "child": "QEC_Coding_FiniteAlternatingConstruction_RXQBlockTransport", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26RXXStarTransport.gradientError_nonzero", "child": "QEC_Coding_FiniteAlternatingConstruction_RXXStarTransport_Geometry", "via": ["solution", "statement"]}
-{"parent": "GaussPolyReg.Approx.lemma_B_3", "child": "GaussPolyReg_Approx_Tensors", "via": ["statement"]}
+{"parent": "GaussPolyReg.Approx.lemma_B_3", "child": "GaussPolyReg_Approx_Tensors", "via": ["solution", "statement"]}
 {"parent": "StratifyMarkets_DoubleAuction_Prices", "child": "StratifyMarkets_DoubleAuction_Instance", "via": ["statement"]}
 {"parent": "OAI.DirectionalTransience.seed_block_tests", "child": "OAIQ242Bal002", "via": ["statement"]}
 {"parent": "OAI.DirectionalTransience.seed_block_tests", "child": "DirectionalBallisticity", "via": ["solution", "statement"]}

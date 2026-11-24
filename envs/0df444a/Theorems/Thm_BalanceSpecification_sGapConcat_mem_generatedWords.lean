@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_sGapConcat_mem_generatedWords
 -- name    : BalanceSpecification.sGapConcat_mem_generatedWords
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:06:02.185088+00:00
 -- url     : https://prove2.me/theorems/c9fb4221-8859-4b24-8dec-149eee2c856f

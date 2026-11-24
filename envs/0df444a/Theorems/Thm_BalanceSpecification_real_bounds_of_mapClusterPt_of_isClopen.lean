@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_real_bounds_of_mapClusterPt_of_isClopen
 -- name    : BalanceSpecification.real_bounds_of_mapClusterPt_of_isClopen
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:07:41.322222+00:00
 -- url     : https://prove2.me/theorems/c6b5c89a-2b7a-43d5-958d-26f432343a01

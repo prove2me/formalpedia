@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_generated_sGap_nil_or_marker
 -- name    : BalanceSpecification.generated_sGap_nil_or_marker
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:05:48.185008+00:00
 -- url     : https://prove2.me/theorems/62246848-c7cd-4177-bd2d-da2ffd748c4d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairSelling_exists_TPS_approx
 -- name    : FairSelling.exists_TPS_approx
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:38:43.702254+00:00
 -- url     : https://prove2.me/theorems/95d8ece9-203b-4f20-aef2-3d2ed7cf5ce2

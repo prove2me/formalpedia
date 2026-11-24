@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_reverse_idxOf_last_marker
 -- name    : BalanceSpecification.reverse_idxOf_last_marker
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:04:17.919841+00:00
 -- url     : https://prove2.me/theorems/961959d7-7bfe-48d1-8eb0-1fc4055e3c14

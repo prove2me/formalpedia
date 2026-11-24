@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_bsm_iff_hasVariableSpecification_of_entropy_zero
 -- name    : BalanceSpecification.bsm_iff_hasVariableSpecification_of_entropy_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:54:42.359647+00:00
 -- url     : https://prove2.me/theorems/80017862-abd6-4ac1-90c6-1a9d547f9c5e

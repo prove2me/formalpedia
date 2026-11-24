@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FairChores_MMS_le_of_outcome
 -- name    : FairChores.MMS_le_of_outcome
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T01:35:56.912686+00:00
 -- url     : https://prove2.me/theorems/7dfa764d-9082-48f0-8ab0-e9fe7d11ba99

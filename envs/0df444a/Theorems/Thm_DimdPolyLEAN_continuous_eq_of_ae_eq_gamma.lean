@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimdPolyLEAN_continuous_eq_of_ae_eq_gamma
 -- name    : DimdPolyLEAN.continuous_eq_of_ae_eq_gamma
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:10:33.89616+00:00
 -- url     : https://prove2.me/theorems/1859fae7-dd1f-48d8-80c0-cf8d75a28fb4

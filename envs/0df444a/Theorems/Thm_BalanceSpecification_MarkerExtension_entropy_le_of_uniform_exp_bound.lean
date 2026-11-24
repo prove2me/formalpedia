@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_MarkerExtension_entropy_le_of_uniform_exp_bound
 -- name    : BalanceSpecification.MarkerExtension.entropy_le_of_uniform_exp_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:03:19.610046+00:00
 -- url     : https://prove2.me/theorems/81d1aaf6-572c-4f6d-a917-3a294ac6ffde

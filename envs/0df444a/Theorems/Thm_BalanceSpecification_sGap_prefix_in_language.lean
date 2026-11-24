@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalanceSpecification_sGap_prefix_in_language
 -- name    : BalanceSpecification.sGap_prefix_in_language
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T02:05:23.908026+00:00
 -- url     : https://prove2.me/theorems/acd3db33-b856-4c4a-9fd7-7ccd42c1f500
