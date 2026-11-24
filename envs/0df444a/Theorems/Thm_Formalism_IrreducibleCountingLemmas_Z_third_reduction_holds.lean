@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_third_reduction_holds
 -- name    : Formalism.IrreducibleCountingLemmas.Z.third_reduction_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:49:25.25805+00:00
 -- url     : https://prove2.me/theorems/ba3705a7-9b1d-43db-8340-32fa3a6accc4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_herb_nrm_apply_sigma
 -- name    : GlobalTheory.CNorm.herb_nrm_apply_sigma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:07:02.675154+00:00
 -- url     : https://prove2.me/theorems/f092f4a7-9986-4655-a359-271685bfd446

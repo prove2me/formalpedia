@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_trace_form_positive
 -- name    : Formalism.UG.P.trace_form_positive
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:28:38.080798+00:00
 -- url     : https://prove2.me/theorems/e2646127-f63e-4150-b66e-fb4e2b755c1a

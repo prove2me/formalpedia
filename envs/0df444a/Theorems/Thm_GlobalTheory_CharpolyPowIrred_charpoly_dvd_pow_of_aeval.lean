@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharpolyPowIrred_charpoly_dvd_pow_of_aeval
 -- name    : GlobalTheory.CharpolyPowIrred.charpoly_dvd_pow_of_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:10:07.556537+00:00
 -- url     : https://prove2.me/theorems/309c47ed-1d4e-4ab3-a3da-434317c683ea

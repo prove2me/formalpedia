@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_out_mul_bijective
 -- name    : GlobalTheory.BI.out_mul_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:00:31.633886+00:00
 -- url     : https://prove2.me/theorems/e7e38f45-5192-484b-bebc-8717741d2582

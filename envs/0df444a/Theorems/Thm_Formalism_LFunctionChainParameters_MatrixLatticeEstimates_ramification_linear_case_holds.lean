@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_MatrixLatticeEstimates_ramification_linear_case_holds
 -- name    : Formalism.LFunctionChainParameters.MatrixLatticeEstimates.ramification_linear_case_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:07:27.595789+00:00
 -- url     : https://prove2.me/theorems/f4b6f17e-59ab-4957-bf8b-8bb9653433ba

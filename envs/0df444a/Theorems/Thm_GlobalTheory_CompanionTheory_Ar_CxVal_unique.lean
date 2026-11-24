@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_CxVal_unique
 -- name    : GlobalTheory.CompanionTheory.Ar.CxVal.unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:18:37.076513+00:00
 -- url     : https://prove2.me/theorems/65e066ca-7399-4ec7-84d7-05ab8111b62c

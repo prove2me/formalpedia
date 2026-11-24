@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassParam_sigR_invol
 -- name    : GlobalTheory.ClassParam.sigR_invol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:13:39.384981+00:00
 -- url     : https://prove2.me/theorems/928e04df-ea97-4a4e-8d90-b55624b48439

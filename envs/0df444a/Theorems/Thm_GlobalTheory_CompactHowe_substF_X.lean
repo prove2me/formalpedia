@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactHowe_substF_X
 -- name    : GlobalTheory.CompactHowe.substF_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:16:54.138574+00:00
 -- url     : https://prove2.me/theorems/1098f2d7-abe5-4545-a187-c8a7437b423d

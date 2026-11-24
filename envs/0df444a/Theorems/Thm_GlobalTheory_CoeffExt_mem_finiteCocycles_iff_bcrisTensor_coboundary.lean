@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffExt_mem_finiteCocycles_iff_bcrisTensor_coboundary
 -- name    : GlobalTheory.CoeffExt.mem_finiteCocycles_iff_bcrisTensor_coboundary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:15:27.761801+00:00
 -- url     : https://prove2.me/theorems/729385c2-bb16-4d4e-9c99-2d06b3b64cfe

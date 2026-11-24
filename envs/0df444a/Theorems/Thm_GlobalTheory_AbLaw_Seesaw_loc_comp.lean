@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_Seesaw_loc_comp
 -- name    : GlobalTheory.AbLaw.Seesaw.loc_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:08:20.396314+00:00
 -- url     : https://prove2.me/theorems/f2fce8fc-d82f-4dec-abe4-b0d828e59188

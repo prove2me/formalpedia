@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_ZCalc_op_conv_eq
 -- name    : GlobalTheory.BadShare.ZCalc.op_conv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:59:38.70218+00:00
 -- url     : https://prove2.me/theorems/4dbac2cb-d790-449e-b003-b7d39910fb44

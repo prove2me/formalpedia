@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartBaseChange_fnVal_spec
 -- name    : GlobalTheory.ChartBaseChange.fnVal_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:10:29.458122+00:00
 -- url     : https://prove2.me/theorems/7d347192-8ee9-404b-a1a1-cc83dc71c8e1

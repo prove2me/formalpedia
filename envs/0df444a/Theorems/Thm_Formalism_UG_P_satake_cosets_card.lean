@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satake_cosets_card
 -- name    : Formalism.UG.P.satake_cosets_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:32:54.578391+00:00
 -- url     : https://prove2.me/theorems/03de7b1b-069c-4807-be22-4421ea23dda4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnalyticLineDerivative_main
 -- name    : GlobalTheory.AnalyticLineDerivative.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:56:44.667268+00:00
 -- url     : https://prove2.me/theorems/92e35884-829c-4d47-98c0-0f6c76251c67

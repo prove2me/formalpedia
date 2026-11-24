@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ColengthDifferent_traceDual_mem_one
 -- name    : GlobalTheory.ColengthDifferent.traceDual_mem_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:14:55.023851+00:00
 -- url     : https://prove2.me/theorems/9f06ac66-7872-4e44-9f67-225c8ba9febf

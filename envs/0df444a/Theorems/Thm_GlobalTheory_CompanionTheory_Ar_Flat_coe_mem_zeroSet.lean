@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Flat_coe_mem_zeroSet
 -- name    : GlobalTheory.CompanionTheory.Ar.Flat.coe_mem_zeroSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:18:16.942922+00:00
 -- url     : https://prove2.me/theorems/843b7f9a-5957-4e12-a077-de39a644ee36

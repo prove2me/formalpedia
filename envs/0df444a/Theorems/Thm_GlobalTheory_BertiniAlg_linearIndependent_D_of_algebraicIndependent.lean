@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BertiniAlg_linearIndependent_D_of_algebraicIndependent
 -- name    : GlobalTheory.BertiniAlg.linearIndependent_D_of_algebraicIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:59:17.870806+00:00
 -- url     : https://prove2.me/theorems/1797621a-8558-4d7f-904e-3ffbad465087

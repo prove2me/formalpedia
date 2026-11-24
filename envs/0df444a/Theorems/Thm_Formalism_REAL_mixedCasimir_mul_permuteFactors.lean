@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_mixedCasimir_mul_permuteFactors
 -- name    : Formalism.REAL.mixedCasimir_mul_permuteFactors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:24:57.315481+00:00
 -- url     : https://prove2.me/theorems/a6750339-37cf-4374-ada7-98a9f18fd5dc

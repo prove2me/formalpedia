@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_Basic_conv_tens
 -- name    : GlobalTheory.BadShare.Basic.conv_tens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:00:17.559835+00:00
 -- url     : https://prove2.me/theorems/ca2a31bf-8c0b-4016-b18b-faf51bd49a25

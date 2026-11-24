@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_exists_smul_mem_of_span_eq_top
 -- name    : GlobalTheory.Chow.exists_smul_mem_of_span_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:10:02.704987+00:00
 -- url     : https://prove2.me/theorems/51134c9d-aa35-4c66-86ad-e70831b31ae1

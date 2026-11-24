@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_exists_orthogonal_mul_upper
 -- name    : GlobalTheory.ClassFin.exists_orthogonal_mul_upper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:11:11.318793+00:00
 -- url     : https://prove2.me/theorems/228571d4-bad3-4787-86b8-ac23598f5d61

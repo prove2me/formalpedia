@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_multiIndexDeriv_add_unitMultiIndex_apply_first
 -- name    : FunctorialResolution.EmbeddedResolution.multiIndexDeriv_add_unitMultiIndex_apply_first
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:48:05.82074+00:00
 -- url     : https://prove2.me/theorems/62fb8a49-2e3a-4321-ae47-adb727d57866

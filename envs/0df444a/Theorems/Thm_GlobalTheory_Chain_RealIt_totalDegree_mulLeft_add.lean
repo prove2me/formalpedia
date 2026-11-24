@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chain_RealIt_totalDegree_mulLeft_add
 -- name    : GlobalTheory.Chain.RealIt.totalDegree_mulLeft_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:07:36.1528+00:00
 -- url     : https://prove2.me/theorems/f4964fa9-6cb7-440e-8211-d49169d992f9

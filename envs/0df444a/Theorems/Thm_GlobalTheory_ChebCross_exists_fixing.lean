@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChebCross_exists_fixing
 -- name    : GlobalTheory.ChebCross.exists_fixing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:09:02.889695+00:00
 -- url     : https://prove2.me/theorems/595a7e77-e4ec-4687-9ff6-0b99c6514873

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_QuotientPowerLengths_congMod_le
 -- name    : Formalism.NG.QuotientPowerLengths.congMod_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T18:36:42.651748+00:00
 -- url     : https://prove2.me/theorems/1114379d-1aa2-47f0-a5b4-423c484f8d3c

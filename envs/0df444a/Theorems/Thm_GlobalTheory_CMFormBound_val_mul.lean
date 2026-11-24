@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMFormBound_val_mul
 -- name    : GlobalTheory.CMFormBound.val_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:03:06.693591+00:00
 -- url     : https://prove2.me/theorems/a8015b95-2abd-46a2-8359-e493818218c6

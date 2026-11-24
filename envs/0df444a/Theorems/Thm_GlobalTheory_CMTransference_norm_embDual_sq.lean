@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMTransference_norm_embDual_sq
 -- name    : GlobalTheory.CMTransference.norm_embDual_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:05:13.078029+00:00
 -- url     : https://prove2.me/theorems/2d278cd4-693d-44a6-830d-e7b107e27d42

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CardLength_lenAt_subsingleton
 -- name    : GlobalTheory.CardLength.lenAt_subsingleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:05:57.523484+00:00
 -- url     : https://prove2.me/theorems/f53766ce-cbd0-4663-a2b0-785a85af359e

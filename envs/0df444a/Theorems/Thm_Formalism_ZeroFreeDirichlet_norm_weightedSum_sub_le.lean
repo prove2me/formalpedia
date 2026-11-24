@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_norm_weightedSum_sub_le
 -- name    : Formalism.ZeroFreeDirichlet.norm_weightedSum_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:38:17.767716+00:00
 -- url     : https://prove2.me/theorems/3110a3dc-89d1-44cf-910c-831c0e33babf

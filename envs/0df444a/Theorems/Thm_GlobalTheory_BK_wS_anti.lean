@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_wS_anti
 -- name    : GlobalTheory.BK.wS_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:00:20.18678+00:00
 -- url     : https://prove2.me/theorems/2795197e-3960-423c-839b-146e724d94bf

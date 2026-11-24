@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CanonGaugeAssembly_cob_swap
 -- name    : GlobalTheory.CanonGaugeAssembly.cob_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:07:06.15208+00:00
 -- url     : https://prove2.me/theorems/e134286e-e730-4d71-8d9d-569849c375ef

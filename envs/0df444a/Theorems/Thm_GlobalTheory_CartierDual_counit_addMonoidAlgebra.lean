@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CartierDual_counit_addMonoidAlgebra
 -- name    : GlobalTheory.CartierDual.counit_addMonoidAlgebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:59:48.020009+00:00
 -- url     : https://prove2.me/theorems/4d888608-25f9-447a-bc67-96b6f63431d0

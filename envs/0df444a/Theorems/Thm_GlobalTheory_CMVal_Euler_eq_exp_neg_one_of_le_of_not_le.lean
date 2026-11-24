@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_eq_exp_neg_one_of_le_of_not_le
 -- name    : GlobalTheory.CMVal.Euler.eq_exp_neg_one_of_le_of_not_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:06:47.63296+00:00
 -- url     : https://prove2.me/theorems/bbdd1ef4-c2eb-4d02-8baf-1b4d7be3806c

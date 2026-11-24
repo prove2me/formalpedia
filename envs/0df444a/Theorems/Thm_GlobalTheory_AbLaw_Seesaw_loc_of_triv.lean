@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_Seesaw_loc_of_triv
 -- name    : GlobalTheory.AbLaw.Seesaw.loc_of_triv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:08:19.307369+00:00
 -- url     : https://prove2.me/theorems/c4996737-3934-4d3c-a5e8-47279e7ca6fa

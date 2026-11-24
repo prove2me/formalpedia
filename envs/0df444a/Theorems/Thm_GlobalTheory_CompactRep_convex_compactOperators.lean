@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactRep_convex_compactOperators
 -- name    : GlobalTheory.CompactRep.convex_compactOperators
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:16:13.672785+00:00
 -- url     : https://prove2.me/theorems/fd88c1ae-7d4f-4d93-9c40-5215a2d56930

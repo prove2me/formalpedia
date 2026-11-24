@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_WeightedSlopeBounds_u_function_le_mean
 -- name    : Formalism.LFunctionChainParameters.WeightedSlopeBounds.u_function_le_mean
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:31.410979+00:00
 -- url     : https://prove2.me/theorems/7615bf83-0979-40bd-8915-5295cd19fced

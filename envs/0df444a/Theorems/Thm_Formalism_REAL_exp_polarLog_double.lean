@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_exp_polarLog_double
 -- name    : Formalism.REAL.exp_polarLog_double
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:06:09.063652+00:00
 -- url     : https://prove2.me/theorems/952233df-ee90-4cfc-99fe-dea18f31ee5d

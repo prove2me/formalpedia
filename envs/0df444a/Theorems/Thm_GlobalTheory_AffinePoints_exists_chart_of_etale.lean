@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_exists_chart_of_etale
 -- name    : GlobalTheory.AffinePoints.exists_chart_of_etale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:47:04.75431+00:00
 -- url     : https://prove2.me/theorems/60a0f950-600e-4fdc-b88f-69a51cd9f2d9

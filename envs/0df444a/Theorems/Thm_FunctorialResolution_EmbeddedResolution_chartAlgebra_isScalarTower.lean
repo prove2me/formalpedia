@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_chartAlgebra_isScalarTower
 -- name    : FunctorialResolution.EmbeddedResolution.chartAlgebra_isScalarTower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:46:44.151151+00:00
 -- url     : https://prove2.me/theorems/b96f2de8-3e82-4323-8eac-9221134cdc01

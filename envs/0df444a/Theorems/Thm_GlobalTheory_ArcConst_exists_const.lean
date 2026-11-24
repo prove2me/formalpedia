@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcConst_exists_const
 -- name    : GlobalTheory.ArcConst.exists_const
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:46:13.721387+00:00
 -- url     : https://prove2.me/theorems/c68f1a16-fa70-49fd-9379-58d7199f51ba

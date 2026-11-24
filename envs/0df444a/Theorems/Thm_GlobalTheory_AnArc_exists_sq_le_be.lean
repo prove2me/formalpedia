@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_exists_sq_le_be
 -- name    : GlobalTheory.AnArc.exists_sq_le_be
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:57:34.869216+00:00
 -- url     : https://prove2.me/theorems/f37f1fa9-ed36-4db8-ad6f-6ac3de304b02

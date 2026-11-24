@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_pIdx_pTor_ker_range_ne_zero
 -- name    : GlobalTheory.CNorm.pIdx_pTor_ker_range_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:06:51.212979+00:00
 -- url     : https://prove2.me/theorems/2776cc8a-7e64-4786-bb6e-650303394fb3

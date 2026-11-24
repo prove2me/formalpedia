@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMTypeNorm_place_bijective
 -- name    : GlobalTheory.CMTypeNorm.place_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:05:49.631851+00:00
 -- url     : https://prove2.me/theorems/62fd1dde-6686-493d-9cdb-85289aad4190

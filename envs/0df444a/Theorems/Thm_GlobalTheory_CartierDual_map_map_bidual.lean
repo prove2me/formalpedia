@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CartierDual_map_map_bidual
 -- name    : GlobalTheory.CartierDual.map_map_bidual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:00:15.774181+00:00
 -- url     : https://prove2.me/theorems/159283ef-0c91-49d4-87d3-75197657259e

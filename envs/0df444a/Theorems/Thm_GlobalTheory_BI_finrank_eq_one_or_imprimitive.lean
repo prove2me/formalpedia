@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_finrank_eq_one_or_imprimitive
 -- name    : GlobalTheory.BI.finrank_eq_one_or_imprimitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:58:23.157223+00:00
 -- url     : https://prove2.me/theorems/ba75b3de-0e50-40bc-b88f-0b1ff65876ce

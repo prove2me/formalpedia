@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_omega_eigenvalue_on_span
 -- name    : Formalism.REAL.omega_eigenvalue_on_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:24:44.54505+00:00
 -- url     : https://prove2.me/theorems/bbd8d87a-027d-4bc7-abbd-d3e6100292f8

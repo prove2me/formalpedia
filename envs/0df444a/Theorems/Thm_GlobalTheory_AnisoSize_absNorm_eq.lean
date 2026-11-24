@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnisoSize_absNorm_eq
 -- name    : GlobalTheory.AnisoSize.absNorm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:21:26.537742+00:00
 -- url     : https://prove2.me/theorems/bf9bdccd-f307-4c3e-a584-bfdd2ec5c253

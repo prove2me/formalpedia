@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_CubeOpen_bijective_appTop
 -- name    : GlobalTheory.AbLaw.CubeOpen.bijective_appTop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:50:28.659091+00:00
 -- url     : https://prove2.me/theorems/5ff99565-63ae-4342-a8aa-b635a0b5044e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AevalTotalDegreeLinear_main
 -- name    : GlobalTheory.AevalTotalDegreeLinear.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:54:52.06083+00:00
 -- url     : https://prove2.me/theorems/9b79c5ff-e25e-453e-8568-6b37b6e65a01

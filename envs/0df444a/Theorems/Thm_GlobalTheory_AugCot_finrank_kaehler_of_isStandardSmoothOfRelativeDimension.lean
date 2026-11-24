@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AugCot_finrank_kaehler_of_isStandardSmoothOfRelativeDimension
 -- name    : GlobalTheory.AugCot.finrank_kaehler_of_isStandardSmoothOfRelativeDimension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:44:57.381155+00:00
 -- url     : https://prove2.me/theorems/fe247c85-8c0f-4d73-a693-d5ec6d19cbcf

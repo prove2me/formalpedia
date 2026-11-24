@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_TermUnit_bijective_mk
 -- name    : GlobalTheory.CMVal.TermUnit.bijective_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:06:21.016268+00:00
 -- url     : https://prove2.me/theorems/fb22bdf6-42fa-4640-a321-edddd5184c98

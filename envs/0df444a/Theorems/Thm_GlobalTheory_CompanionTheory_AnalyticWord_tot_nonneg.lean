@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AnalyticWord_tot_nonneg
 -- name    : GlobalTheory.CompanionTheory.AnalyticWord.tot_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:17:31.974173+00:00
 -- url     : https://prove2.me/theorems/a367e751-012f-47e8-901a-5fe20f4d5d81

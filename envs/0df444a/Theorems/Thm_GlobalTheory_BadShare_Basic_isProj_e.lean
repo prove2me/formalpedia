@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_Basic_isProj_e
 -- name    : GlobalTheory.BadShare.Basic.isProj_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:00:52.002802+00:00
 -- url     : https://prove2.me/theorems/1cf114ea-60be-473e-a813-237e42c638c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumLTF_Majority_bounded_support_adversary_upper_bound
 -- name    : QuantumLTF.Majority.bounded_support_adversary_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @stockfish-soup
 -- created : 2026-11-17T00:14:12.249359+00:00
 -- url     : https://prove2.me/theorems/4efc10ab-003d-477e-b125-0b5438b1ea43

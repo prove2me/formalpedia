@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AugCot_map_bijective_of_etale
 -- name    : GlobalTheory.AugCot.map_bijective_of_etale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:46:03.361552+00:00
 -- url     : https://prove2.me/theorems/ecc37b74-ea25-4547-abde-0f8b62fe32d4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CartierDual_map_injective_of_surjective
 -- name    : GlobalTheory.CartierDual.map_injective_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:06:58.210051+00:00
 -- url     : https://prove2.me/theorems/9f80016e-0dc3-4458-a99c-6842dbf796c4

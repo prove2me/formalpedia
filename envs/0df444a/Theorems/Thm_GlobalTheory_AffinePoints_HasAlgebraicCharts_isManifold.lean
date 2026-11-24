@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_HasAlgebraicCharts_isManifold
 -- name    : GlobalTheory.AffinePoints.HasAlgebraicCharts.isManifold
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:54:47.427519+00:00
 -- url     : https://prove2.me/theorems/a4e56a75-c777-4b30-887f-9e1f0e3f5ef3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BaseRing_exists_pow_mul_isIntegral
 -- name    : GlobalTheory.BaseRing.exists_pow_mul_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:59:58.676366+00:00
 -- url     : https://prove2.me/theorems/ca84076d-1a31-44a8-bf94-8b2a02e0f84e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenFrameSpan_Gxz_expand
 -- name    : GenFrameSpan.Gxz_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:51:06.28081+00:00
 -- url     : https://prove2.me/theorems/f0398e97-e2bc-4847-8577-300e18a7522c

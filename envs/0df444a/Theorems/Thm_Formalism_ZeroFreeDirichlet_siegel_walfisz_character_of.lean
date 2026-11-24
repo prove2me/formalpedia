@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_siegel_walfisz_character_of
 -- name    : Formalism.ZeroFreeDirichlet.siegel_walfisz_character_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:44:27.089013+00:00
 -- url     : https://prove2.me/theorems/54d759ce-45c0-4c87-bc37-eb89944b2812

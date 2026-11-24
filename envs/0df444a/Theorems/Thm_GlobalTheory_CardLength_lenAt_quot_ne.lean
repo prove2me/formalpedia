@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CardLength_lenAt_quot_ne
 -- name    : GlobalTheory.CardLength.lenAt_quot_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:06:05.264846+00:00
 -- url     : https://prove2.me/theorems/449799f9-57f1-4148-a4f1-0a31fa315185

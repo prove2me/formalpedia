@@ -6949,8 +6949,8 @@
 {"parent": "OAI.CanonicalQuadraticSieve.quotient_family_squared_norm_le", "child": "OAI_NumberTheory_DirichletL_GaussSum_ReflectionBrackets", "via": ["solution", "statement"]}
 {"parent": "OAI.CanonicalQuadraticSieve.quotient_family_squared_norm_le", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_CoprimeBilinearBound", "via": ["solution", "statement"]}
 {"parent": "OAI.CanonicalQuadraticSieve.quotient_family_squared_norm_le", "child": "OAI_NumberTheory_DirichletL_QuadraticSieve_IdealQuotients", "via": ["solution", "statement"]}
-{"parent": "HodgeComputer.RankOneBiquartic.normalChart_residue_solvable", "child": "HodgeComputerRankOneBiquartic", "via": ["statement"]}
-{"parent": "HodgeComputer.RankOneBiquartic.normalChart_residue_solvable", "child": "HodgeComputerNormalChart", "via": ["statement"]}
+{"parent": "HodgeComputer.RankOneBiquartic.normalChart_residue_solvable", "child": "HodgeComputerRankOneBiquartic", "via": ["solution", "statement"]}
+{"parent": "HodgeComputer.RankOneBiquartic.normalChart_residue_solvable", "child": "HodgeComputerNormalChart", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.coeff_jacobiWeightedSquareSeries", "child": "QEC_Coding_ExpanderCodes_JacobiThetaSeries", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.coeff_jacobiWeightedSquareSeries", "child": "QEC_Coding_ExpanderCodes_JacobiThetaProduct", "via": ["solution", "statement"]}
 {"parent": "OptimalSpectrum_Entangled_derivOp", "child": "OptimalSpectrum_Entangled_mixedPartial", "via": ["statement"]}

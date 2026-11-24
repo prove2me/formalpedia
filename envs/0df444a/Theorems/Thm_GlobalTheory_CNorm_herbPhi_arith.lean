@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_herbPhi_arith
 -- name    : GlobalTheory.CNorm.herbPhi_arith
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:06:56.85045+00:00
 -- url     : https://prove2.me/theorems/e18adc91-495f-46d6-ad23-3152098985ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcAvoid_surjective_residue_of_isAlgebraic
 -- name    : GlobalTheory.ArcAvoid.surjective_residue_of_isAlgebraic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:59:02.517973+00:00
 -- url     : https://prove2.me/theorems/32ae4fb5-825d-47cb-baa2-4fa9f60ea10e

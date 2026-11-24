@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BetaEx_cramer_rows
 -- name    : GlobalTheory.BetaEx.cramer_rows
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:59:27.150457+00:00
 -- url     : https://prove2.me/theorems/daadc9a4-71ce-44a3-8d56-a35bfabde38f

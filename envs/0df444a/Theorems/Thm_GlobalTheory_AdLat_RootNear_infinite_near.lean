@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_RootNear_infinite_near
 -- name    : GlobalTheory.AdLat.RootNear.infinite_near
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:54:19.470711+00:00
 -- url     : https://prove2.me/theorems/f667ad2b-2913-4a27-a49a-102210f9c475

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_comap_coordIdeal_center
 -- name    : FunctorialResolution.EmbeddedResolution.comap_coordIdeal_center
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:46:45.225818+00:00
 -- url     : https://prove2.me/theorems/eedbd2db-6989-4fce-9826-51f4f9b92a28

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGJPh2_ptm_pair
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGJPh2.ptm_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:00:51.034091+00:00
 -- url     : https://prove2.me/theorems/883ff57a-7ba6-463e-bda9-bfcdc30de99c

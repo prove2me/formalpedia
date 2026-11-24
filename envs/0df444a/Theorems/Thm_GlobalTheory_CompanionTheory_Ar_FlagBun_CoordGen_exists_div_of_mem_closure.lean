@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_FlagBun_CoordGen_exists_div_of_mem_closure
 -- name    : GlobalTheory.CompanionTheory.Ar.FlagBun.CoordGen.exists_div_of_mem_closure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:17:57.277742+00:00
 -- url     : https://prove2.me/theorems/e2ba90bc-0aaa-48bd-a75b-6e66ee64c673

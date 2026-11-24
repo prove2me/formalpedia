@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_ss_range_toMatrix_iff_isSemisimpleRepresentation
 -- name    : GlobalTheory.ClassFin.ss_range_toMatrix_iff_isSemisimpleRepresentation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:11:21.840742+00:00
 -- url     : https://prove2.me/theorems/f344dae5-1730-420c-b3c9-1082d3b9e930

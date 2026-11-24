@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_level_subgroup_local_standard
 -- name    : Formalism.UG.P.level_subgroup_local_standard
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:26:34.551009+00:00
 -- url     : https://prove2.me/theorems/5414035f-a730-41ee-9ab3-fbe8e3d7d96e

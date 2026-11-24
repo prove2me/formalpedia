@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffSubring_closure_pow_eq_top
 -- name    : GlobalTheory.CoeffSubring.closure_pow_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:14:51.891806+00:00
 -- url     : https://prove2.me/theorems/b283db34-d54e-42b6-ae67-fcab18a2d979

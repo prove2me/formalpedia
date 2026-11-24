@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_strictTransform_eq_ker_complComapSupport
 -- name    : FunctorialResolution.EmbeddedResolution.strictTransform_eq_ker_complComapSupport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:49:57.887196+00:00
 -- url     : https://prove2.me/theorems/147b75a1-20be-4b7a-954f-acd16b07bf64

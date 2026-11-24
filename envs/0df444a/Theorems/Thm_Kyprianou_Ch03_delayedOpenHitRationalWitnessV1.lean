@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_delayedOpenHitRationalWitnessV1
 -- name    : Kyprianou.Ch03.delayedOpenHitRationalWitnessV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T11:02:21.309811+00:00
 -- url     : https://prove2.me/theorems/b60cb514-3ace-4acf-9f24-1a264e18083a

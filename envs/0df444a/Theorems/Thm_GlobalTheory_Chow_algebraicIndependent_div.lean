@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_algebraicIndependent_div
 -- name    : GlobalTheory.Chow.algebraicIndependent_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:09:50.266803+00:00
 -- url     : https://prove2.me/theorems/ca42ecee-8ad1-45dd-a620-2c3846c97652

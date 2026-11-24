@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartAction_rep_unique
 -- name    : GlobalTheory.ChartAction.rep_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:10:26.567205+00:00
 -- url     : https://prove2.me/theorems/cdea1f37-043c-4e6d-bcc7-07b1d2dd80db

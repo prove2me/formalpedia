@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_comap_reducedInverseImage_of_isOpenImmersion
 -- name    : FunctorialResolution.EmbeddedResolution.comap_reducedInverseImage_of_isOpenImmersion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:58:48.12587+00:00
 -- url     : https://prove2.me/theorems/69794d13-a2d4-4a9e-8ca2-b92e0bda86b1

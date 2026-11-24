@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralNormAtMostOne_norm_le_one_of_isIntegral
 -- name    : GlobalTheory.IntegralNormAtMostOne.norm_le_one_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:04:55.125405+00:00
 -- url     : https://prove2.me/theorems/07bd8ba6-14fa-4984-bae9-52a8f24e826b

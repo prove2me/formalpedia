@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_WeightedLatticeSum_latSum
 -- name    : Formalism.MainNotions.WeightedLatticeSum.latSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:12:11.284138+00:00
 -- url     : https://prove2.me/theorems/d0cd76d6-a841-4bf3-85dd-282b821c4c79

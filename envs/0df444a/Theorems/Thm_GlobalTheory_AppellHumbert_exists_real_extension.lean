@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AppellHumbert_exists_real_extension
 -- name    : GlobalTheory.AppellHumbert.exists_real_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:58:26.274655+00:00
 -- url     : https://prove2.me/theorems/50362bfc-a9c8-448b-b4ff-ec6e238620da

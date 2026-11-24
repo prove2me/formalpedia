@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_CharacterBalance_lunram
 -- name    : Deduction.CharacterBalance.lunram
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:34:10.972894+00:00
 -- url     : https://prove2.me/theorems/252b3418-a3e1-45f0-b3e7-fdccebe91f45

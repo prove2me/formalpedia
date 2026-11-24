@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_tunedIdeal_pow_eq_tunedIdeal_mul
 -- name    : FunctorialResolution.EmbeddedResolution.tunedIdeal_pow_eq_tunedIdeal_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:49:36.386338+00:00
 -- url     : https://prove2.me/theorems/f64458cd-602e-471b-8fbd-d6931961e1eb

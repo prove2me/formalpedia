@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AltSpan_alternatingMap_eq_zero_of_span
 -- name    : GlobalTheory.CompanionTheory.AltSpan.alternatingMap_eq_zero_of_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:18:25.906573+00:00
 -- url     : https://prove2.me/theorems/7e91ac57-1292-4670-8efa-fc1b34655e74

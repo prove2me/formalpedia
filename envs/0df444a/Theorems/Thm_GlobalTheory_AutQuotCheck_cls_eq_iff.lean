@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AutQuotCheck_cls_eq_iff
 -- name    : GlobalTheory.AutQuotCheck.cls_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:58:02.508874+00:00
 -- url     : https://prove2.me/theorems/9b265572-37c9-4027-bc94-b474e39eb365

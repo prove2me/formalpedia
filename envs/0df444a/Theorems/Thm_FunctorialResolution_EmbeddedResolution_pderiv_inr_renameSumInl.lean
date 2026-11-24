@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_pderiv_inr_renameSumInl
 -- name    : FunctorialResolution.EmbeddedResolution.pderiv_inr_renameSumInl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:49:31.183446+00:00
 -- url     : https://prove2.me/theorems/e720e742-16a5-4b29-bbdc-61fe80c3f25e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_monic_monicOfCoeffs
 -- name    : GroundTheory.PAdicHodge.monic_monicOfCoeffs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:04:44.23443+00:00
 -- url     : https://prove2.me/theorems/136234f6-1e98-488b-8891-d096f7d37386

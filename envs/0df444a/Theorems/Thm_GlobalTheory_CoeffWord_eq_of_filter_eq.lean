@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffWord_eq_of_filter_eq
 -- name    : GlobalTheory.CoeffWord.eq_of_filter_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:15:07.023068+00:00
 -- url     : https://prove2.me/theorems/bbe85d57-14df-46bc-8316-d517dc6525bc

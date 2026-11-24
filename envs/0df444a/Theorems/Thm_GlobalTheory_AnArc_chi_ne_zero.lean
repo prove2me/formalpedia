@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_chi_ne_zero
 -- name    : GlobalTheory.AnArc.chi_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:57:36.2478+00:00
 -- url     : https://prove2.me/theorems/433d7897-c321-47bd-8f80-3aaff15fb21d

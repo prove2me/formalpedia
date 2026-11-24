@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelUMod_map_skewPair_upLat
 -- name    : GlobalTheory.BorelUMod.map_skewPair_upLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:03:11.877193+00:00
 -- url     : https://prove2.me/theorems/e4f7d1c0-dac6-4fde-b1a7-95f64e3043e4

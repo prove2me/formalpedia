@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_integral_unit_root_norm_one_adele
 -- name    : GlobalTheory.T.exists_integral_unit_root_norm_one_adele
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:10:50.466364+00:00
 -- url     : https://prove2.me/theorems/1435c50e-70a0-41b8-9eb2-304268d389fd

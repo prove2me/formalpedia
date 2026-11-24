@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_twoAdicVal
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.twoAdicVal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:51:53.502201+00:00
 -- url     : https://prove2.me/theorems/30075e20-a040-4520-9ccc-e681b00726fc

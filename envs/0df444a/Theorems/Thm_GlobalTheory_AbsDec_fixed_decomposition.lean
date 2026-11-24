@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbsDec_fixed_decomposition
 -- name    : GlobalTheory.AbsDec.fixed_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:52:23.365869+00:00
 -- url     : https://prove2.me/theorems/3cd0ea50-cf12-4f1e-a642-bc7d93ca2a83

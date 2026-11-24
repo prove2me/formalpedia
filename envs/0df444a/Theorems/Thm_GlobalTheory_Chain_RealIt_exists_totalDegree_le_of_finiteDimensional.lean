@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chain_RealIt_exists_totalDegree_le_of_finiteDimensional
 -- name    : GlobalTheory.Chain.RealIt.exists_totalDegree_le_of_finiteDimensional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:07:54.29041+00:00
 -- url     : https://prove2.me/theorems/cbfb7e7e-04de-437c-b152-4b56112a8d0e

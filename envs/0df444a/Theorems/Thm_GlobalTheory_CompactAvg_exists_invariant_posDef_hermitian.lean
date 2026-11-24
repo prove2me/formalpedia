@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactAvg_exists_invariant_posDef_hermitian
 -- name    : GlobalTheory.CompactAvg.exists_invariant_posDef_hermitian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:16:41.878071+00:00
 -- url     : https://prove2.me/theorems/f3679026-5664-4363-af06-ead24921cc87

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_deep_smod_iff
 -- name    : GlobalTheory.CNorm.deep_smod_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:07:10.011575+00:00
 -- url     : https://prove2.me/theorems/6b5243fa-c68d-4dd3-9231-006c70c77917

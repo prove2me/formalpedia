@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_coindSum_apply
 -- name    : GlobalTheory.BadShare.coindSum_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:59:39.993533+00:00
 -- url     : https://prove2.me/theorems/9c0a0b69-832a-441f-b3d7-d30503b0cea5

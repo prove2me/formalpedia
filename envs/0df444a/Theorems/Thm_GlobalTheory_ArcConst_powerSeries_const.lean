@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcConst_powerSeries_const
 -- name    : GlobalTheory.ArcConst.powerSeries_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:59:36.330421+00:00
 -- url     : https://prove2.me/theorems/850751dd-e38a-4666-a06a-a8b2950731c1

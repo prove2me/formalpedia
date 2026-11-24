@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_continuousOn_polarLog
 -- name    : Formalism.REAL.continuousOn_polarLog
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:05:25.570498+00:00
 -- url     : https://prove2.me/theorems/328bf0f0-bc68-42af-a7f9-ecf365450219

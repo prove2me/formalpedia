@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelUMod_skewPair_injective
 -- name    : GlobalTheory.BorelUMod.skewPair_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:02:18.061252+00:00
 -- url     : https://prove2.me/theorems/69df53fb-0586-418e-8f46-e70058b32199

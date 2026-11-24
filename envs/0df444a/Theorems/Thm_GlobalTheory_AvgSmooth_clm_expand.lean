@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AvgSmooth_clm_expand
 -- name    : GlobalTheory.AvgSmooth.clm_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:58:11.535289+00:00
 -- url     : https://prove2.me/theorems/1573c6bd-70ed-43a3-b2e5-a3fa7c15e610

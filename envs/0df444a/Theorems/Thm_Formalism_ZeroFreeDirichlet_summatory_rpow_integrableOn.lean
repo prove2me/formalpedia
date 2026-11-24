@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_summatory_rpow_integrableOn
 -- name    : Formalism.ZeroFreeDirichlet.summatory_rpow_integrableOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:38:33.806991+00:00
 -- url     : https://prove2.me/theorems/f3470d9b-a335-4e01-b875-6c1e5c738e27

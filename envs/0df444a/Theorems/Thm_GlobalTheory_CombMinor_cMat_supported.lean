@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CombMinor_cMat_supported
 -- name    : GlobalTheory.CombMinor.cMat_supported
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:15:02.746722+00:00
 -- url     : https://prove2.me/theorems/62ea8112-f941-4c7a-a119-5b83ce18f3ab

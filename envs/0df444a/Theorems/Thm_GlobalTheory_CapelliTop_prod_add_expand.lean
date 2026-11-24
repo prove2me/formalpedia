@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CapelliTop_prod_add_expand
 -- name    : GlobalTheory.CapelliTop.prod_add_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:07:09.92034+00:00
 -- url     : https://prove2.me/theorems/3f880e18-bed5-4fbc-b211-f9265c14c3cc

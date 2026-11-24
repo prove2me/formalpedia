@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Mix_PlaneOK_levi_element_fixes_first_vector
 -- name    : PositivityTheory.Mix.PlaneOK.levi_element_fixes_first_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:46:09.868808+00:00
 -- url     : https://prove2.me/theorems/e3378b8a-4ceb-4738-9da9-f2ae37da44ca

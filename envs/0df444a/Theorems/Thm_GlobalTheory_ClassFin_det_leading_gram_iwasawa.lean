@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_det_leading_gram_iwasawa
 -- name    : GlobalTheory.ClassFin.det_leading_gram_iwasawa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:11:09.665807+00:00
 -- url     : https://prove2.me/theorems/c54f2d57-07f3-4367-ae38-fb8b39b828c8

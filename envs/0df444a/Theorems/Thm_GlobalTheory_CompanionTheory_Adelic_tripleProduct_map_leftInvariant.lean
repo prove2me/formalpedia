@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Adelic_tripleProduct_map_leftInvariant
 -- name    : GlobalTheory.CompanionTheory.Adelic.tripleProduct_map_leftInvariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:16:13.947373+00:00
 -- url     : https://prove2.me/theorems/aa31f131-4a1f-4e26-a019-c7e25cc624e2

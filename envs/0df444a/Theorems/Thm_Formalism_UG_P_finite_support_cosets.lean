@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_finite_support_cosets
 -- name    : Formalism.UG.P.finite_support_cosets
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:18:06.064187+00:00
 -- url     : https://prove2.me/theorems/eeec435d-392b-4c21-b563-b04ce3f823fb

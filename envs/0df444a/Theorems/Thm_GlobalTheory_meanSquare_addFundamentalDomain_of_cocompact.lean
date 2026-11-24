@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_meanSquare_addFundamentalDomain_of_cocompact
 -- name    : GlobalTheory.meanSquare_addFundamentalDomain_of_cocompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:52:16.302362+00:00
 -- url     : https://prove2.me/theorems/e6e349ab-baa1-4c23-9405-afddbc083676

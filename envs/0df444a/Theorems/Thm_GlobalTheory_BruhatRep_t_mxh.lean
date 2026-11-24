@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BruhatRep_t_mxh
 -- name    : GlobalTheory.BruhatRep.t_mxh
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:03:44.189385+00:00
 -- url     : https://prove2.me/theorems/cd6ebd0e-c80d-485a-9e5c-e97f86b6c129

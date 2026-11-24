@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharFormDeriv_norm_cexp_mul_I_sub_one_sub_le
 -- name    : GlobalTheory.CharFormDeriv.norm_cexp_mul_I_sub_one_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:07:17.142883+00:00
 -- url     : https://prove2.me/theorems/cfe4ca8d-10fa-49bb-903b-f87b31fcd073

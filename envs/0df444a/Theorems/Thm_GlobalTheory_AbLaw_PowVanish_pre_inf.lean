@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_PowVanish_pre_inf
 -- name    : GlobalTheory.AbLaw.PowVanish.pre_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:52:15.837817+00:00
 -- url     : https://prove2.me/theorems/31b422b2-8d38-4fdc-896a-6f5056b3993c

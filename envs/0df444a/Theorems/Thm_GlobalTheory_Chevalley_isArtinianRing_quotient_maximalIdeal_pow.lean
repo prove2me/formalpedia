@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chevalley_isArtinianRing_quotient_maximalIdeal_pow
 -- name    : GlobalTheory.Chevalley.isArtinianRing_quotient_maximalIdeal_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:09:37.549631+00:00
 -- url     : https://prove2.me/theorems/abcf1d0a-5857-4670-9e17-121884f7e2cc

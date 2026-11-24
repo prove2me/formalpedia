@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_LieModel_htOm_le
 -- name    : GlobalTheory.CompanionTheory.Ar.LieModel.htOm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:22:22.0137+00:00
 -- url     : https://prove2.me/theorems/f5ec8bd4-fa84-4cb9-a1bb-9ace4bf0829f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartRing_map_comap_constantCoeff_le
 -- name    : GlobalTheory.ChartRing.map_comap_constantCoeff_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:09:20.110805+00:00
 -- url     : https://prove2.me/theorems/0395c335-b7c3-4a3a-8ac0-dbd70bfa5afd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_Model_functional_integral
 -- name    : GlobalTheory.AdLat.Model.functional_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:48:11.206261+00:00
 -- url     : https://prove2.me/theorems/a3475d25-dd95-48f0-9c9f-69644d738a0f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelUMod_mem_unipLat
 -- name    : GlobalTheory.BorelUMod.mem_unipLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:01:52.700996+00:00
 -- url     : https://prove2.me/theorems/7f827081-668f-4815-b65c-faba9dd4e6f0

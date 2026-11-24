@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMFormBound_conj_sqrt
 -- name    : GlobalTheory.CMFormBound.conj_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:03:12.443058+00:00
 -- url     : https://prove2.me/theorems/dcc8406c-f74e-4c9b-b318-a49f034eb5ef

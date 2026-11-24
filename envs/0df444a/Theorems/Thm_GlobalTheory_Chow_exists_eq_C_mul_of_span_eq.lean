@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_exists_eq_C_mul_of_span_eq
 -- name    : GlobalTheory.Chow.exists_eq_C_mul_of_span_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:09:27.268172+00:00
 -- url     : https://prove2.me/theorems/d6e5f57f-a67b-44d2-b848-5ae41d2c561e

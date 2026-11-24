@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BaireDistribution_isClopen_of_invariant
 -- name    : GlobalTheory.BaireDistribution.isClopen_of_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:00:00.472615+00:00
 -- url     : https://prove2.me/theorems/4cdad13d-2a50-44a8-83fb-6b8f47f153bf

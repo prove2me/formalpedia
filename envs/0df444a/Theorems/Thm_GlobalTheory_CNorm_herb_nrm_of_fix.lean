@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_herb_nrm_of_fix
 -- name    : GlobalTheory.CNorm.herb_nrm_of_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:06:52.974353+00:00
 -- url     : https://prove2.me/theorems/d5c94960-baaa-459f-a3bb-accdcceaee3b

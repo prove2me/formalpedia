@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ApproxUnit_cv_eq_avg
 -- name    : GlobalTheory.CompanionTheory.ApproxUnit.cv_eq_avg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:17:32.692718+00:00
 -- url     : https://prove2.me/theorems/4e98a43b-3da3-423e-8466-05839633db7e

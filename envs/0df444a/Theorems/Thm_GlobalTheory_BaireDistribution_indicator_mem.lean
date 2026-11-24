@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BaireDistribution_indicator_mem
 -- name    : GlobalTheory.BaireDistribution.indicator_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:00:09.494833+00:00
 -- url     : https://prove2.me/theorems/6af73a4b-ab43-428c-a0ae-efb5675cdfa7

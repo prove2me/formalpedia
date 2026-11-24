@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CentralIdemIntegral_isIntegral_trace_of_algClosed
 -- name    : GlobalTheory.CentralIdemIntegral.isIntegral_trace_of_algClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:07:28.6145+00:00
 -- url     : https://prove2.me/theorems/ecd42c3e-3acb-42dc-8ecc-734e16a2371a

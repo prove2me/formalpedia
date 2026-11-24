@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffWord_unitri_monomial_of_lowerTri
 -- name    : GlobalTheory.CoeffWord.unitri_monomial_of_lowerTri
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:15:28.254812+00:00
 -- url     : https://prove2.me/theorems/efe0deec-5467-4683-9bb6-5557471dce2c

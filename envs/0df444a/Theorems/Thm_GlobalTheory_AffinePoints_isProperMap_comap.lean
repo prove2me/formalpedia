@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_isProperMap_comap
 -- name    : GlobalTheory.AffinePoints.isProperMap_comap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:18:19.095794+00:00
 -- url     : https://prove2.me/theorems/dc12a0d2-2f37-4de5-9b19-bf964b7ca083

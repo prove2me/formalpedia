@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EtaleCoordinates_coord_mul_partialDeriv_map_eq_map_add_sum_erase
 -- name    : FunctorialResolution.EmbeddedResolution.EtaleCoordinates.coord_mul_partialDeriv_map_eq_map_add_sum_erase
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:45:37.872887+00:00
 -- url     : https://prove2.me/theorems/feb1fd3b-82c2-4f8e-9675-3dbb44ea8154

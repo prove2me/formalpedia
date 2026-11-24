@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EtaleCoordinates_map_partialDeriv_self_eq_pow_mul
 -- name    : FunctorialResolution.EmbeddedResolution.EtaleCoordinates.map_partialDeriv_self_eq_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:06:06.331076+00:00
 -- url     : https://prove2.me/theorems/64b3cc21-75ff-4739-bfd3-ad81fc0a2913

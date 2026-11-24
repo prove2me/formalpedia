@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMModel_mem_of_forall_ringEquiv_fixed
 -- name    : GlobalTheory.CMModel.mem_of_forall_ringEquiv_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:04:42.534603+00:00
 -- url     : https://prove2.me/theorems/b46d49e7-b663-4ca1-9a64-71ab7afe7f05

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelUMod_continuous_adjJ
 -- name    : GlobalTheory.BorelUMod.continuous_adjJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:02:50.857812+00:00
 -- url     : https://prove2.me/theorems/bbac3452-765e-4023-9bad-53b27c42b00a

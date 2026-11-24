@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelUMod_v_eq_exp
 -- name    : GlobalTheory.BorelUMod.v_eq_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:02:41.329952+00:00
 -- url     : https://prove2.me/theorems/41108ab5-08a7-4212-931f-e998d00b5fcc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_finsupp_eq_single_of_sum_sq_eq_one
 -- name    : GlobalTheory.BI.finsupp_eq_single_of_sum_sq_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:59:59.86801+00:00
 -- url     : https://prove2.me/theorems/eadd308f-1aec-4dbb-946b-2642eecec2ce

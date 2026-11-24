@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffWord_weight_colW
 -- name    : GlobalTheory.CoeffWord.weight_colW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:15:07.533889+00:00
 -- url     : https://prove2.me/theorems/dcb9aa8a-4bcf-43a2-bbd3-5e7e528094d7

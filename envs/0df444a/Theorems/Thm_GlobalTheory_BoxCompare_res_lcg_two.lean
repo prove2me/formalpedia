@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxCompare_res_lcg_two
 -- name    : GlobalTheory.BoxCompare.res_lcg_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:01:31.349798+00:00
 -- url     : https://prove2.me/theorems/6230e0d9-7fb3-4542-ab0b-ffbb25c9be07

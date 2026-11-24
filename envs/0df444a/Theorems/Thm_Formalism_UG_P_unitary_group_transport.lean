@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_unitary_group_transport
 -- name    : Formalism.UG.P.unitary_group_transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:38:12.284361+00:00
 -- url     : https://prove2.me/theorems/f894d87e-14d3-4361-8628-cc88237f02ad

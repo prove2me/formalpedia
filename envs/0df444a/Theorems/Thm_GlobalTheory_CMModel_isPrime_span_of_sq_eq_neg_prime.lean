@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMModel_isPrime_span_of_sq_eq_neg_prime
 -- name    : GlobalTheory.CMModel.isPrime_span_of_sq_eq_neg_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:04:37.731837+00:00
 -- url     : https://prove2.me/theorems/d484c985-d5b6-487b-af73-7a25d4313c29

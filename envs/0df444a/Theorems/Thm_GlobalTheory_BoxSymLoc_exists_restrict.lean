@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxSymLoc_exists_restrict
 -- name    : GlobalTheory.BoxSymLoc.exists_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:03:50.475809+00:00
 -- url     : https://prove2.me/theorems/ea9958c4-6c52-4d0e-ae9d-86b849c90a07

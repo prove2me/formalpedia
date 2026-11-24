@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Fibre_tendsto_of_cut
 -- name    : GlobalTheory.CMVal.Fibre.tendsto_of_cut
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:05:48.10971+00:00
 -- url     : https://prove2.me/theorems/ac272f2c-984d-4129-886f-ba3474aed706

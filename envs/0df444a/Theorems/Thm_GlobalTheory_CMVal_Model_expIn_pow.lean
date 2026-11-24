@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Model_expIn_pow
 -- name    : GlobalTheory.CMVal.Model.expIn_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:05:55.758224+00:00
 -- url     : https://prove2.me/theorems/ffd344bd-178a-49ec-b6a6-2965a80a19f6

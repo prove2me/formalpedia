@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdmissibleProjection_hadm_of
 -- name    : GlobalTheory.AdmissibleProjection.hadm_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:54:56.674513+00:00
 -- url     : https://prove2.me/theorems/3d6a44a2-df82-429a-b758-265835b26ff9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_GlobalBoundRefinements_P_arithmetic_lattice_hypothesis
 -- name    : Formalism.SLP.GlobalBoundRefinements.P.arithmetic_lattice_hypothesis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:29:35.644955+00:00
 -- url     : https://prove2.me/theorems/15d40fa7-ebe2-463c-8237-cc199ac84a6c

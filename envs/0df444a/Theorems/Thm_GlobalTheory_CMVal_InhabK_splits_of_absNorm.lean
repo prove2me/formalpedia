@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_InhabK_splits_of_absNorm
 -- name    : GlobalTheory.CMVal.InhabK.splits_of_absNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:04:51.651872+00:00
 -- url     : https://prove2.me/theorems/5ef892f8-ccdb-479d-a565-b02330f7bbaf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_imF_le_galois
 -- name    : Formalism.WeaklyAdmissibleFiltrations.imF_le_galois
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:39:46.191276+00:00
 -- url     : https://prove2.me/theorems/1fb74535-368a-4b01-a709-fb5b38f6e5ad

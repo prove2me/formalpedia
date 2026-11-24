@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_index_range_comp_mul
 -- name    : GlobalTheory.CNorm.index_range_comp_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:07:45.201139+00:00
 -- url     : https://prove2.me/theorems/44d1f74a-fe04-4ebf-a73e-2c05e923752a

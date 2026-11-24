@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_blowupIsIsoOffCenter
 -- name    : FunctorialResolution.Blowup.blowupIsIsoOffCenter
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:46:58.077129+00:00
 -- url     : https://prove2.me/theorems/5e4c868d-04d5-4f37-b103-5d1ebc72ea95

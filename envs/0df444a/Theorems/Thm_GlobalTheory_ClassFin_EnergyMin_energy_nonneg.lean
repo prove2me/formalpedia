@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_EnergyMin_energy_nonneg
 -- name    : GlobalTheory.ClassFin.EnergyMin.energy_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:08:49.628382+00:00
 -- url     : https://prove2.me/theorems/ccd61453-cc4e-45ca-8df4-0024d106a24c

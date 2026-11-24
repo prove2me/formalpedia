@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommuteInvLeft_commute_inv_left
 -- name    : GlobalTheory.CommuteInvLeft.commute_inv_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:16:46.257131+00:00
 -- url     : https://prove2.me/theorems/8764a714-026a-4e24-a766-d09c3d4d4a87

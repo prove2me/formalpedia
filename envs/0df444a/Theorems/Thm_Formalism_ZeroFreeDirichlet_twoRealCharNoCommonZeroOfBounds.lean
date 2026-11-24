@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_twoRealCharNoCommonZeroOfBounds
 -- name    : Formalism.ZeroFreeDirichlet.twoRealCharNoCommonZeroOfBounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:44:28.516195+00:00
 -- url     : https://prove2.me/theorems/359b6a3f-ca2b-4dbb-ae62-88dcf5835f07

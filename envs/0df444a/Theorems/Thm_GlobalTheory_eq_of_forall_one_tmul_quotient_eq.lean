@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_of_forall_one_tmul_quotient_eq
 -- name    : GlobalTheory.eq_of_forall_one_tmul_quotient_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:38:51.941318+00:00
 -- url     : https://prove2.me/theorems/a8487205-513a-4dc2-abeb-c991acd5d297

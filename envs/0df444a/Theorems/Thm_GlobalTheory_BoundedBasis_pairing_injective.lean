@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoundedBasis_pairing_injective
 -- name    : GlobalTheory.BoundedBasis.pairing_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:02:18.45186+00:00
 -- url     : https://prove2.me/theorems/af75752e-66c4-470f-b763-d3315c3e09ba

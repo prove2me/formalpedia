@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArtinKernel_differentiableOn_mul
 -- name    : GlobalTheory.ArtinKernel.differentiableOn_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:58:44.783568+00:00
 -- url     : https://prove2.me/theorems/bb60e206-9e4f-4c69-b0a1-5f76149cbd74

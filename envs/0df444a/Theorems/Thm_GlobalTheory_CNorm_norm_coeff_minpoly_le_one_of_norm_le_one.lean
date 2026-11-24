@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_norm_coeff_minpoly_le_one_of_norm_le_one
 -- name    : GlobalTheory.CNorm.norm_coeff_minpoly_le_one_of_norm_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:06:16.413361+00:00
 -- url     : https://prove2.me/theorems/80dab4eb-4822-4b54-bc41-05344f802650

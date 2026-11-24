@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_multiIndexDeriv_mul_sub_sum_mem
 -- name    : FunctorialResolution.EmbeddedResolution.multiIndexDeriv_mul_sub_sum_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:48:29.917366+00:00
 -- url     : https://prove2.me/theorems/cce5e995-df55-4e2d-be64-53911953fd00

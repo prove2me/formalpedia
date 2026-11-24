@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdelicComp_eq_zero_of_compAt_eq_zero
 -- name    : GlobalTheory.AdelicComp.eq_zero_of_compAt_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:54:14.845366+00:00
 -- url     : https://prove2.me/theorems/da420889-c3fe-4bbe-8ab5-a4f3904d4935

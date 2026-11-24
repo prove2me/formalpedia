@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffSubring_exists_ringHom_pow
 -- name    : GlobalTheory.CoeffSubring.exists_ringHom_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:15:11.166423+00:00
 -- url     : https://prove2.me/theorems/b168a797-c615-4486-a617-c1e8c9451876

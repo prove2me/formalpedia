@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_HeckeA_op_comm_same
 -- name    : CompanionTheory.HeckeA.op_comm_same
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:32:00.737854+00:00
 -- url     : https://prove2.me/theorems/e2e8c44a-4324-409d-b3b6-1a71ef5c7e1b

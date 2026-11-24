@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_betaUniq_of_global
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.betaUniq_of_global
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:02:59.751717+00:00
 -- url     : https://prove2.me/theorems/35eb1006-1b55-4f0f-9609-8e2c59774d3c

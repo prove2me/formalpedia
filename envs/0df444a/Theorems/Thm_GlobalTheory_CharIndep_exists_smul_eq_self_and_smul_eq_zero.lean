@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharIndep_exists_smul_eq_self_and_smul_eq_zero
 -- name    : GlobalTheory.CharIndep.exists_smul_eq_self_and_smul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:07:47.598228+00:00
 -- url     : https://prove2.me/theorems/9a27446f-5a5d-4dde-8181-b7b84240eb40

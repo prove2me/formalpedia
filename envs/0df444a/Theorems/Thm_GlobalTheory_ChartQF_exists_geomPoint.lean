@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartQF_exists_geomPoint
 -- name    : GlobalTheory.ChartQF.exists_geomPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:08:59.704308+00:00
 -- url     : https://prove2.me/theorems/123d41ad-acec-45db-8867-eed44457e143

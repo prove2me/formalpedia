@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactRep_continuous_rankOne_self
 -- name    : GlobalTheory.CompactRep.continuous_rankOne_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:16:54.61905+00:00
 -- url     : https://prove2.me/theorems/0072c735-273f-4c70-ace4-1a7840296e0a

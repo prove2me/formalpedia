@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_convolution_count_holds
 -- name    : Formalism.UG.P.convolution_count_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:32:06.970135+00:00
 -- url     : https://prove2.me/theorems/321071ea-da63-4efa-8ba3-e8b34d96a211

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_logDerivBoundRightHalfPlane
 -- name    : Formalism.ZF.logDerivBoundRightHalfPlane
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:58:57.207479+00:00
 -- url     : https://prove2.me/theorems/8d39b9db-a9a7-4bb6-852d-1f96334cf272

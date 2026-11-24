@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGJPh2_ptm_sum
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGJPh2.ptm_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:00:36.510412+00:00
 -- url     : https://prove2.me/theorems/53bb3bbc-0480-4d20-98d1-8b53ac3412f1

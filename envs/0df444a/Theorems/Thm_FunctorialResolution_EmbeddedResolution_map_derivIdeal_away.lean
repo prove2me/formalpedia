@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_map_derivIdeal_away
 -- name    : FunctorialResolution.EmbeddedResolution.map_derivIdeal_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:48:06.214287+00:00
 -- url     : https://prove2.me/theorems/82cdd8ac-39d1-4b9b-9695-c6b2fdfbbadf

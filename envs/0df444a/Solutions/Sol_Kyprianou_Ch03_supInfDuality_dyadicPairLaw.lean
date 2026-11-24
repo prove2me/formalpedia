@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch03.supInfDuality_dyadicPairLaw
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T11:47:46.8883+00:00
 -- url     : https://prove2.me/submissions/4062e4ec-fafa-4e6d-878f-497ca98537fa
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LeanLevy_Processes_LevyProcess

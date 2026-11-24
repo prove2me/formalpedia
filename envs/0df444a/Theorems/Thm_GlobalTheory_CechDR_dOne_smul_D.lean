@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_dOne_smul_D
 -- name    : GlobalTheory.CechDR.dOne_smul_D
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:07:57.563622+00:00
 -- url     : https://prove2.me/theorems/f8c779ba-096d-4c9f-b926-ca87a177e376

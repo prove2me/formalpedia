@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_submodule_automorphism_count
 -- name    : Formalism.HermitianLatticeCounting.P.submodule_automorphism_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:10:02.148873+00:00
 -- url     : https://prove2.me/theorems/bffa7f21-3ff1-4340-ad61-d144767dde94

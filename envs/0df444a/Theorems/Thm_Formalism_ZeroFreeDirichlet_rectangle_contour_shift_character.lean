@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_rectangle_contour_shift_character
 -- name    : Formalism.ZeroFreeDirichlet.rectangle_contour_shift_character
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:32:17.097531+00:00
 -- url     : https://prove2.me/theorems/8b1df3f8-6335-4ab9-896b-acebd1ddd0c7

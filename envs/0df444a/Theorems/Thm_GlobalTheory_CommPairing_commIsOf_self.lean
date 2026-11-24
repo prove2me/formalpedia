@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommPairing_commIsOf_self
 -- name    : GlobalTheory.CommPairing.commIsOf_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:15:13.114418+00:00
 -- url     : https://prove2.me/theorems/d9b4ed4c-2565-4fe6-b87e-eade8b39acdc

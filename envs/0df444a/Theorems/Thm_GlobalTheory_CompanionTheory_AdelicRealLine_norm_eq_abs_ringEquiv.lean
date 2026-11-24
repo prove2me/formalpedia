@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AdelicRealLine_norm_eq_abs_ringEquiv
 -- name    : GlobalTheory.CompanionTheory.AdelicRealLine.norm_eq_abs_ringEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:16:09.373871+00:00
 -- url     : https://prove2.me/theorems/af2a965e-f356-4dd1-88e8-19faf05e4a89

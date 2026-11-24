@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_A_le_R
 -- name    : GlobalTheory.BK.A_le_R
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:00:35.628538+00:00
 -- url     : https://prove2.me/theorems/8360a440-bfeb-4b3d-994d-61fb2a292091

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassMin_exists_mul_sum_sq_le
 -- name    : GlobalTheory.ClassMin.exists_mul_sum_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:10:56.13195+00:00
 -- url     : https://prove2.me/theorems/b903f148-a574-4f3c-ab4d-586970ff4c53

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxSpan_gs_sum
 -- name    : GlobalTheory.BoxSpan.gs_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:03:55.949269+00:00
 -- url     : https://prove2.me/theorems/35ead4b6-dcc3-40ec-846c-3190c2a9a66a

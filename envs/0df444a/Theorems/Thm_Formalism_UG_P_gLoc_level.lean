@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_gLoc_level
 -- name    : Formalism.UG.P.gLoc_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:31:50.457147+00:00
 -- url     : https://prove2.me/theorems/031e7f53-78b2-4de2-a34e-d871bcb4b179

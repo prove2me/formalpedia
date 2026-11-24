@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_ringKrullDim_eq_of_isIntegral
 -- name    : GlobalTheory.Chow.ringKrullDim_eq_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:09:55.831357+00:00
 -- url     : https://prove2.me/theorems/b84b03fa-9d9c-4ec3-bc16-8974b09a479c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumLTF_Majority_compile_bounded_support_dual
 -- name    : QuantumLTF.Majority.compile_bounded_support_dual
--- status  : Open
+-- status  : Proved
 -- author  : @stockfish-soup
 -- created : 2026-11-17T00:23:37.428202+00:00
 -- url     : https://prove2.me/theorems/e11299ba-8050-4e16-b40e-d0af510afe88

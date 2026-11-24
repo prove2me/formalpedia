@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_ud_phi_add
 -- name    : Formalism.L2.Th1.H.ud_phi_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:16:50.756625+00:00
 -- url     : https://prove2.me/theorems/a1d15f6f-f55f-41a7-a5fe-1d57ae0f83bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpTieGerm_corr_genPow
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpTieGerm.corr_genPow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:24:54.076848+00:00
 -- url     : https://prove2.me/theorems/04e1bda3-9f83-40db-ba4b-f4ff23f24b60

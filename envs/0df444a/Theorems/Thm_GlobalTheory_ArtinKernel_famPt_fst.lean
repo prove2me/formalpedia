@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArtinKernel_famPt_fst
 -- name    : GlobalTheory.ArtinKernel.famPt_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:58:24.788955+00:00
 -- url     : https://prove2.me/theorems/3e32162e-cd68-4fe0-bff8-9ba3d26953da

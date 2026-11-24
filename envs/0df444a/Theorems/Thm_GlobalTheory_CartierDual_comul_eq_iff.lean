@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CartierDual_comul_eq_iff
 -- name    : GlobalTheory.CartierDual.comul_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:06:33.963928+00:00
 -- url     : https://prove2.me/theorems/a3b7cf4f-43a6-497f-b534-4abd885c181c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMFormBound_ord_natCast_ne
 -- name    : GlobalTheory.CMFormBound.ord_natCast_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:03:05.763857+00:00
 -- url     : https://prove2.me/theorems/5566df57-5562-4c0a-9ed0-fce24b016133

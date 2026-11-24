@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BiextSignTwist_not_both
 -- name    : GlobalTheory.BiextSignTwist.not_both
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:01:22.504322+00:00
 -- url     : https://prove2.me/theorems/4f3eb9d6-4b1e-402b-8859-5ae55769eb3a

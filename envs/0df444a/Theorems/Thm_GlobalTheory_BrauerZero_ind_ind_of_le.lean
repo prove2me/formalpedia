@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BrauerZero_ind_ind_of_le
 -- name    : GlobalTheory.BrauerZero.ind_ind_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:03:39.021498+00:00
 -- url     : https://prove2.me/theorems/c28ee78a-71fd-4320-8488-c7658dbb5084

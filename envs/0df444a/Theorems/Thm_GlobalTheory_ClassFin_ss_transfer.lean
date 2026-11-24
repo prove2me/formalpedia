@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_ss_transfer
 -- name    : GlobalTheory.ClassFin.ss_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:11:12.146026+00:00
 -- url     : https://prove2.me/theorems/c57792fb-82a2-4d49-b661-c5967b8286a1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m89_laplace_mass_limit
 -- name    : Kyprianou.Ch08.StageB.p2m89_laplace_mass_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T11:02:14.43752+00:00
 -- url     : https://prove2.me/theorems/026b705b-2537-4642-ac01-622c1fcdcbe4

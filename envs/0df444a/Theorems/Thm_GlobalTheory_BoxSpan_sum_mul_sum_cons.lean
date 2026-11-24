@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxSpan_sum_mul_sum_cons
 -- name    : GlobalTheory.BoxSpan.sum_mul_sum_cons
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:04:26.056044+00:00
 -- url     : https://prove2.me/theorems/cfaa98c0-5c5c-4473-a45f-e4f58ccf078a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelAlg_coeff_scale
 -- name    : GlobalTheory.BorelAlg.coeff_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:01:43.200614+00:00
 -- url     : https://prove2.me/theorems/b2b72a94-fd41-4843-9e49-86872656a2d4

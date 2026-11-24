@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommonEigenvectorExistenceInertiaEigenvalues_target
 -- name    : GlobalTheory.CommonEigenvectorExistenceInertiaEigenvalues.target
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:16:44.74265+00:00
 -- url     : https://prove2.me/theorems/e65688ae-6d6f-4d74-88d1-1dba16def130

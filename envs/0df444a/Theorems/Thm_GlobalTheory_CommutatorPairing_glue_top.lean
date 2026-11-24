@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommutatorPairing_glue_top
 -- name    : GlobalTheory.CommutatorPairing.glue_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:16:58.728836+00:00
 -- url     : https://prove2.me/theorems/eca08217-a66f-45ba-9293-6da4385a0310

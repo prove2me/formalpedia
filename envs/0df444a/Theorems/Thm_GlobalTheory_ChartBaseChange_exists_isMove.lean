@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartBaseChange_exists_isMove
 -- name    : GlobalTheory.ChartBaseChange.exists_isMove
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:11:29.843158+00:00
 -- url     : https://prove2.me/theorems/fef83ece-8e13-4989-b034-4fffe250bfe3

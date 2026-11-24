@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_right_derivative_extends
 -- name    : Formalism.REAL.right_derivative_extends
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:27:14.476886+00:00
 -- url     : https://prove2.me/theorems/1804b5bb-87d9-4460-97a8-148a2efd350e

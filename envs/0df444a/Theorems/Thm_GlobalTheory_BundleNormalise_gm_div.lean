@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BundleNormalise_gm_div
 -- name    : GlobalTheory.BundleNormalise.gm_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:04:32.168908+00:00
 -- url     : https://prove2.me/theorems/3ff8db8f-36ef-48ef-a9b6-beac4355cf8f

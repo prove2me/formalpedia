@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartRing_pow_dvd_sub_aeval_trunc
 -- name    : GlobalTheory.ChartRing.pow_dvd_sub_aeval_trunc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:09:20.05628+00:00
 -- url     : https://prove2.me/theorems/5148e74a-a0cd-45f1-8525-ece66a57c543

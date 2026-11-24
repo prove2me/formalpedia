@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineFactorExists_exists_finset_extends
 -- name    : GlobalTheory.AffineFactorExists.exists_finset_extends
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:54:37.581875+00:00
 -- url     : https://prove2.me/theorems/5afd380d-ebe8-4c80-8a76-3e8749aaabd9

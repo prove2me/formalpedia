@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BCT_SuppFin_exists_bound_of_isCompact
 -- name    : GlobalTheory.BCT.SuppFin.exists_bound_of_isCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:57:45.656799+00:00
 -- url     : https://prove2.me/theorems/1cff40f7-080e-4043-b269-12a8515ea5f8

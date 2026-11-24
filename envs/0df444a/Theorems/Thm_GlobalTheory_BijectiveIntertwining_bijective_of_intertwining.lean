@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BijectiveIntertwining_bijective_of_intertwining
 -- name    : GlobalTheory.BijectiveIntertwining.bijective_of_intertwining
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:01:17.195277+00:00
 -- url     : https://prove2.me/theorems/60ff37bf-0840-4355-8e2d-750f721e64e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isReduced_subscheme_strictTransform
 -- name    : FunctorialResolution.EmbeddedResolution.isReduced_subscheme_strictTransform
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:47:57.368568+00:00
 -- url     : https://prove2.me/theorems/473ffb9e-ed2c-4301-9031-331d030513d2

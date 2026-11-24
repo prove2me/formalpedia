@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AnalyticGermSlice_isAnalyticNear_zeros_inter
 -- name    : GlobalTheory.CompanionTheory.AnalyticGermSlice.isAnalyticNear_zeros_inter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:18:54.048615+00:00
 -- url     : https://prove2.me/theorems/5ad9b189-5866-4027-9394-3066ea502965

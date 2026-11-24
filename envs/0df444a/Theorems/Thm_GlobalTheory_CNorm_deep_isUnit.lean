@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_deep_isUnit
 -- name    : GlobalTheory.CNorm.deep_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:06:26.619289+00:00
 -- url     : https://prove2.me/theorems/0815057a-fbe8-48eb-a780-04705fb2af7a

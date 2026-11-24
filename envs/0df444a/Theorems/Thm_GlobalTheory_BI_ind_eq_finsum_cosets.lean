@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_ind_eq_finsum_cosets
 -- name    : GlobalTheory.BI.ind_eq_finsum_cosets
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:21:20.216943+00:00
 -- url     : https://prove2.me/theorems/22eda393-bb58-460a-9dd1-700f3d799cec

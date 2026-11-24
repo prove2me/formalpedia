@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_valS_prod_le
 -- name    : Formalism.MainNotions.PlaneGram.valS_prod_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:08:01.993821+00:00
 -- url     : https://prove2.me/theorems/32a549dd-444d-4e4a-9b5e-66c15491e3ff

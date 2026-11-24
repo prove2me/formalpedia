@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArtinKernel_first_order_transl
 -- name    : GlobalTheory.ArtinKernel.first_order_transl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:59:24.057252+00:00
 -- url     : https://prove2.me/theorems/3d8e1c06-a6bf-491e-b87e-8152bff4e080

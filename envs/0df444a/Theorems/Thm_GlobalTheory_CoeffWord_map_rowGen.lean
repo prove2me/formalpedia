@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffWord_map_rowGen
 -- name    : GlobalTheory.CoeffWord.map_rowGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:15:19.463242+00:00
 -- url     : https://prove2.me/theorems/d840496c-87f1-4ba4-a69a-2345ea0911b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_CoordModel_genMap_inj
 -- name    : GlobalTheory.CompanionTheory.Ar.CoordModel.genMap_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:17:32.323797+00:00
 -- url     : https://prove2.me/theorems/826c9de0-ccd9-4028-97cb-97f729c5572e

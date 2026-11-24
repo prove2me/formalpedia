@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArtinReduction_krullDimLE_and_isLocalRing_quotient_pow
 -- name    : GlobalTheory.ArtinReduction.krullDimLE_and_isLocalRing_quotient_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:58:14.832937+00:00
 -- url     : https://prove2.me/theorems/2bbe1d57-546f-47c2-9d0b-6216a28698ce

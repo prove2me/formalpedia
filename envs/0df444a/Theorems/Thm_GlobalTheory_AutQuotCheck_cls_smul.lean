@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AutQuotCheck_cls_smul
 -- name    : GlobalTheory.AutQuotCheck.cls_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:58:10.141067+00:00
 -- url     : https://prove2.me/theorems/372ccdef-0d35-4c8a-b084-07aac9fa80b1

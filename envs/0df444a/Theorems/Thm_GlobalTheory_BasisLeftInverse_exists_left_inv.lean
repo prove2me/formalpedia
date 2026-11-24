@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BasisLeftInverse_exists_left_inv
 -- name    : GlobalTheory.BasisLeftInverse.exists_left_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:59:49.844024+00:00
 -- url     : https://prove2.me/theorems/347bd357-14a2-44c1-af05-112a14a30098

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CapelliTop_list_ite
 -- name    : GlobalTheory.CapelliTop.list_ite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:07:14.917+00:00
 -- url     : https://prove2.me/theorems/d563019e-c046-4f07-bf44-035773e10ad0

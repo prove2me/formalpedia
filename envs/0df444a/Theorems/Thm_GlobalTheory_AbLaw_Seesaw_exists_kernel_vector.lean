@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_Seesaw_exists_kernel_vector
 -- name    : GlobalTheory.AbLaw.Seesaw.exists_kernel_vector
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:08:39.682805+00:00
 -- url     : https://prove2.me/theorems/14e2bc41-b53e-4adf-b403-1095e7febd92

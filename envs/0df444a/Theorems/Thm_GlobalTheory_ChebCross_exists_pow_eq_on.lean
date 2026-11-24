@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChebCross_exists_pow_eq_on
 -- name    : GlobalTheory.ChebCross.exists_pow_eq_on
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:09:13.482947+00:00
 -- url     : https://prove2.me/theorems/bc4aed71-133b-4e62-ac74-d20fb2b5c07d

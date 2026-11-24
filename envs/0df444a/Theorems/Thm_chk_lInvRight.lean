@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_chk_lInvRight
 -- name    : chk_lInvRight
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:23:47.31511+00:00
 -- url     : https://prove2.me/theorems/0db5eebc-7039-476e-85db-1be995252f6d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffFunctional_rowShift_map
 -- name    : GlobalTheory.CoeffFunctional.rowShift_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:14:59.583844+00:00
 -- url     : https://prove2.me/theorems/efbd6542-a931-46a2-accd-49e537920b43

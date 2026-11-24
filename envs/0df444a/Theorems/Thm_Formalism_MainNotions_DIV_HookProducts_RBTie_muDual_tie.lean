@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_DIV_HookProducts_RBTie_muDual_tie
 -- name    : Formalism.MainNotions.DIV.HookProducts.RBTie.muDual_tie
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:54:28.461869+00:00
 -- url     : https://prove2.me/theorems/b147fdc3-ae87-440f-8a1a-d62e660e1a83

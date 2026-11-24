@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_symmetrization_equivariant
 -- name    : Formalism.REAL.symmetrization_equivariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:25:54.416101+00:00
 -- url     : https://prove2.me/theorems/a5addaae-ab7d-4f4c-a57b-addd31161cd1

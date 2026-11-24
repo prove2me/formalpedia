@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_out_conj_mem_iff_smul_eq
 -- name    : GlobalTheory.BI.out_conj_mem_iff_smul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:00:44.933432+00:00
 -- url     : https://prove2.me/theorems/f354bffb-1d4d-4c7a-8d4d-46505559a306

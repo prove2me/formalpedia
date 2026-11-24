@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_Basic_isProj_dirac
 -- name    : GlobalTheory.BadShare.Basic.isProj_dirac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:00:04.975882+00:00
 -- url     : https://prove2.me/theorems/900468b5-635e-41f3-93d1-56827e09941f

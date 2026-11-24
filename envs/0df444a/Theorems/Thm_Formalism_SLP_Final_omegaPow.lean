@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_Final_omegaPow
 -- name    : Formalism.SLP.Final.omegaPow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:56:04.863732+00:00
 -- url     : https://prove2.me/theorems/2d86b124-b3a5-42f6-819b-ead0eb41d681

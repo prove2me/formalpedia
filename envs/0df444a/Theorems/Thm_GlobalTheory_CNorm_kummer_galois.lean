@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_kummer_galois
 -- name    : GlobalTheory.CNorm.kummer_galois
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:06:07.002073+00:00
 -- url     : https://prove2.me/theorems/e4695101-8b4b-422f-ab70-1c09ad1a8e3f

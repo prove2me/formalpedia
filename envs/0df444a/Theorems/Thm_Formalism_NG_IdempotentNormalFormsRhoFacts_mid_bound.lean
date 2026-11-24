@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_IdempotentNormalFormsRhoFacts_mid_bound
 -- name    : Formalism.NG.IdempotentNormalFormsRhoFacts.mid_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:14:01.242038+00:00
 -- url     : https://prove2.me/theorems/a2d713a1-3f60-472a-9ebc-2ac11060c660

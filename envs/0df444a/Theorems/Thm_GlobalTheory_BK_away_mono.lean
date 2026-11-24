@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_away_mono
 -- name    : GlobalTheory.BK.away_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:00:11.226133+00:00
 -- url     : https://prove2.me/theorems/4110bab3-5243-4578-b2f1-39ec03fde7b6

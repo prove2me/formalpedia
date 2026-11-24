@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CapelliDiff_extAt_succAbove
 -- name    : GlobalTheory.CapelliDiff.extAt_succAbove
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:07:02.01774+00:00
 -- url     : https://prove2.me/theorems/bacb8da5-cbaa-40ba-9504-ba80750f4a8a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_Basic_eq_zero_of_conv_adj
 -- name    : GlobalTheory.BadShare.Basic.eq_zero_of_conv_adj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:00:05.0919+00:00
 -- url     : https://prove2.me/theorems/589448ce-f0ea-4018-8337-d7fe80edbdc1

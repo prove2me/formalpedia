@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_exists_finset_span_image_eq
 -- name    : GlobalTheory.ClassFin.exists_finset_span_image_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:12:41.888802+00:00
 -- url     : https://prove2.me/theorems/0dc3c7d0-8554-4e22-9bde-9b9fa07e63ed

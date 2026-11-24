@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_localization_of_henselian
 -- name    : GlobalTheory.finite_localization_of_henselian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:26:58.523245+00:00
 -- url     : https://prove2.me/theorems/d35dec0d-6d77-46e8-8283-929bfd204ede

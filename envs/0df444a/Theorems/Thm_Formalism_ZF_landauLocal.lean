@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_landauLocal
 -- name    : Formalism.ZF.landauLocal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:12:30.254508+00:00
 -- url     : https://prove2.me/theorems/286f4d4e-3f16-4d36-a9dc-3227a203ae24

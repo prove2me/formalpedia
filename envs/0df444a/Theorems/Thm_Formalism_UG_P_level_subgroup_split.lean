@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_level_subgroup_split
 -- name    : Formalism.UG.P.level_subgroup_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:26:33.845138+00:00
 -- url     : https://prove2.me/theorems/e5be8487-3061-4ab1-9f89-9292b0de3b5d

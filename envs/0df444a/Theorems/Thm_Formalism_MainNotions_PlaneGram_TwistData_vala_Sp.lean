@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_vala_Sp
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.vala_Sp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:05:55.862177+00:00
 -- url     : https://prove2.me/theorems/b9735cd6-2e58-4c16-b482-913e30a26ec8

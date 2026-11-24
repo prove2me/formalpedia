@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ColengthDifferent_injective_of_charZero
 -- name    : GlobalTheory.ColengthDifferent.injective_of_charZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:14:33.365814+00:00
 -- url     : https://prove2.me/theorems/8f263924-1be0-496d-b1f4-38afd8afe940

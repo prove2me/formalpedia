@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGH_exp_chart_action_point
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGH.exp_chart_action_point
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:31.295492+00:00
 -- url     : https://prove2.me/theorems/c00851c4-b762-40ce-a7e1-f1101aacf080

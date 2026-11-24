@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BCT_SuppFin_finite_of_valuation_bounded_of_norm_le_one
 -- name    : GlobalTheory.BCT.SuppFin.finite_of_valuation_bounded_of_norm_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:57:43.61314+00:00
 -- url     : https://prove2.me/theorems/859f71f3-75e4-414f-a6cd-3d08a4465e1c

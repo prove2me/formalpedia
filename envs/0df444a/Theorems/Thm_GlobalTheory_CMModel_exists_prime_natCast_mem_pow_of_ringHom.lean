@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMModel_exists_prime_natCast_mem_pow_of_ringHom
 -- name    : GlobalTheory.CMModel.exists_prime_natCast_mem_pow_of_ringHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:02:48.950935+00:00
 -- url     : https://prove2.me/theorems/34bde7e7-3ccb-4db8-9f7d-f9c6eb7f3862

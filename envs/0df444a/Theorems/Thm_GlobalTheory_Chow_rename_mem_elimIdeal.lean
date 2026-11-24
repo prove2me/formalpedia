@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_rename_mem_elimIdeal
 -- name    : GlobalTheory.Chow.rename_mem_elimIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:09:45.261904+00:00
 -- url     : https://prove2.me/theorems/f2b274c1-e210-4ae9-9a37-164f5e7adeee

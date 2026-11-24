@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_quantumMinorColSkew_holds
 -- name    : Formalism.REAL.quantumMinorColSkew_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:01:47.956649+00:00
 -- url     : https://prove2.me/theorems/6cf00312-5a32-4bc5-bb43-9ce2ba0ec87c

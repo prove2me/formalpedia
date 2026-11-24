@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_isCommensurated_integral_unitary_of_unramified
 -- name    : Formalism.UG.P.isCommensurated_integral_unitary_of_unramified
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:26:41.196725+00:00
 -- url     : https://prove2.me/theorems/07fcbee9-097e-408a-b38d-687f751bb903

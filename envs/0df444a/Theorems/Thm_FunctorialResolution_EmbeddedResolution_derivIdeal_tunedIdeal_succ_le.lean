@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_derivIdeal_tunedIdeal_succ_le
 -- name    : FunctorialResolution.EmbeddedResolution.derivIdeal_tunedIdeal_succ_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:46:38.345799+00:00
 -- url     : https://prove2.me/theorems/2dcb1e4d-f46a-4e0c-ae8e-97bdfbfad761

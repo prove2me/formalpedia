@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Adelic_StableRangeOne_mem_of_mul_right
 -- name    : GlobalTheory.CompanionTheory.Adelic.StableRangeOne.mem_of_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:16:16.858687+00:00
 -- url     : https://prove2.me/theorems/b148bb77-710a-4755-bc88-83310eeb24bc

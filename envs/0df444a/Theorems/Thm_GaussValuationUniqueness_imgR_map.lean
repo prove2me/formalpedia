@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussValuationUniqueness_imgR_map
 -- name    : GaussValuationUniqueness.imgR_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:51:03.704357+00:00
 -- url     : https://prove2.me/theorems/91beb8b8-cec6-4a1c-81ca-096144943720

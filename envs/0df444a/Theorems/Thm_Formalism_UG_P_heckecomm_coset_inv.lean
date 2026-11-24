@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_heckecomm_coset_inv
 -- name    : Formalism.UG.P.heckecomm_coset_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:31:17.380145+00:00
 -- url     : https://prove2.me/theorems/11d10e52-01ef-42c3-a733-db8edb6c0da5

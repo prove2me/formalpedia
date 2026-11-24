@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassParam_HidaSetting_exists_trace
 -- name    : GlobalTheory.ClassParam.HidaSetting.exists_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:13:12.5741+00:00
 -- url     : https://prove2.me/theorems/3fe80f34-2f7a-4694-8e47-2a6f0473e298

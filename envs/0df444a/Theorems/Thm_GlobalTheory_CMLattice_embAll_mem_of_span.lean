@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMLattice_embAll_mem_of_span
 -- name    : GlobalTheory.CMLattice.embAll_mem_of_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:03:31.418437+00:00
 -- url     : https://prove2.me/theorems/ca72dbeb-dae2-4e30-8d7e-1ba736f41037

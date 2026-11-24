@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelUMod_Cayley_relIndex_eq_of_surj
 -- name    : GlobalTheory.BorelUMod.Cayley.relIndex_eq_of_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:02:06.041902+00:00
 -- url     : https://prove2.me/theorems/de2a1816-38e7-470e-8fd7-80c8cfdc6b06

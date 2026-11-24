@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassParam_inclPlus_injective
 -- name    : GlobalTheory.ClassParam.inclPlus_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:12:57.60713+00:00
 -- url     : https://prove2.me/theorems/10c1614a-e442-4a39-ac96-650acaf02e20

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CohTransport_bijective_of_conj
 -- name    : GlobalTheory.CohTransport.bijective_of_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:15:14.570194+00:00
 -- url     : https://prove2.me/theorems/011de514-654b-4e06-ac79-0b4be2d55bac

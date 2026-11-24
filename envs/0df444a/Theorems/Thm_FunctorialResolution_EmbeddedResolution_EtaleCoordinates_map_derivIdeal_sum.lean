@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EtaleCoordinates_map_derivIdeal_sum
 -- name    : FunctorialResolution.EmbeddedResolution.EtaleCoordinates.map_derivIdeal_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:45:29.846224+00:00
 -- url     : https://prove2.me/theorems/ef3e3f01-61aa-4145-afc9-e1b8ab4f24c4

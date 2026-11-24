@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommonValuation_exists_centre
 -- name    : GlobalTheory.CommonValuation.exists_centre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:17:29.228741+00:00
 -- url     : https://prove2.me/theorems/24ad5bba-dafa-4fa4-b673-3ae9ed3c117e

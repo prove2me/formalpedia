@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMLattice_mem_iff
 -- name    : GlobalTheory.CMLattice.mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:02:43.163844+00:00
 -- url     : https://prove2.me/theorems/bd4b08f1-8728-4316-be63-e09a98b95b50

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BlockReorder_pullInd_injective
 -- name    : GlobalTheory.BlockReorder.pullInd_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:01:38.257839+00:00
 -- url     : https://prove2.me/theorems/0571814b-5e9c-4263-9ec0-af3d0bb2aede

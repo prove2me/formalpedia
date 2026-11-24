@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassParam_sig_fixed
 -- name    : GlobalTheory.ClassParam.sig_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:13:51.352093+00:00
 -- url     : https://prove2.me/theorems/d2238c1b-be67-4af4-a204-ebb8a43f9ef3

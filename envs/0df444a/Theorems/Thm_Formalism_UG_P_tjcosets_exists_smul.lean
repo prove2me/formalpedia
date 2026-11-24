@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_tjcosets_exists_smul
 -- name    : Formalism.UG.P.tjcosets_exists_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:28:30.275284+00:00
 -- url     : https://prove2.me/theorems/10d8c01b-e44b-4e48-b1a6-74a61e99a471

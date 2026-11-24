@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_existsUnique_pow_mul_eq_comap_of_isBlowupAlongIdealSheaf
 -- name    : FunctorialResolution.EmbeddedResolution.existsUnique_pow_mul_eq_comap_of_isBlowupAlongIdealSheaf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:58:37.383874+00:00
 -- url     : https://prove2.me/theorems/c5ba2e5c-5bed-4e1e-a51f-fdb24bd7c570

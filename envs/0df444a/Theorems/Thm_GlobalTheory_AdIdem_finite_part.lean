@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdIdem_finite_part
 -- name    : GlobalTheory.AdIdem.finite_part
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:14:58.372621+00:00
 -- url     : https://prove2.me/theorems/8aa0a7d4-cd2a-4a39-a8be-6c3b3aaa7381

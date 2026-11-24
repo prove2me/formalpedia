@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LSeries_LamF_eq
 -- name    : Formalism.LSeries_LamF_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:50:23.1603+00:00
 -- url     : https://prove2.me/theorems/ea3b88d1-43c6-45a2-88fd-21ca3f7b61ca

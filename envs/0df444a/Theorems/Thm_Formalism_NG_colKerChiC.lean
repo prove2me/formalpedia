@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_colKerChiC
 -- name    : Formalism.NG.colKerChiC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:15:56.586158+00:00
 -- url     : https://prove2.me/theorems/62a546ee-4793-4560-8ba7-14d1ec8723ef

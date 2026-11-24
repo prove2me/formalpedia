@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_HermiteReduction_mul_upper
 -- name    : GlobalTheory.ClassFin.HermiteReduction.mul_upper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:11:36.621244+00:00
 -- url     : https://prove2.me/theorems/ea5a2171-1fc6-47f3-88e9-3c3cd0dc881b

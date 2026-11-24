@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMTransference_inner_emb_embDual
 -- name    : GlobalTheory.CMTransference.inner_emb_embDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:04:50.388648+00:00
 -- url     : https://prove2.me/theorems/29b84b24-19d5-4718-bd2a-e282e6c3cd56

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_P_CountO_mul_count
 -- name    : Formalism.SLP.P.CountO.mul_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:28:56.597228+00:00
 -- url     : https://prove2.me/theorems/49000635-6dc9-4542-b42e-a41a144d80e9

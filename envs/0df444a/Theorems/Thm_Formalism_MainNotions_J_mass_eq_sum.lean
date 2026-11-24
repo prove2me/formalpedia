@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_J_mass_eq_sum
 -- name    : Formalism.MainNotions.J.mass_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:56:54.876404+00:00
 -- url     : https://prove2.me/theorems/febe553e-69b8-490a-a0bf-0f16f416ee86

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_signature_exists
 -- name    : Formalism.UG.P.signature_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:27:29.931174+00:00
 -- url     : https://prove2.me/theorems/539b66e0-db59-4b3c-a979-2786d546738a

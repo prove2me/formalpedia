@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_surjective_coords
 -- name    : GlobalTheory.AffinePoints.surjective_coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:55:15.386655+00:00
 -- url     : https://prove2.me/theorems/41264188-05ae-447f-99ef-f53d2c2abbbd

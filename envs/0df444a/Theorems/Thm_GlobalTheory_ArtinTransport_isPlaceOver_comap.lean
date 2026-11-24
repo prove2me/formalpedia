@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArtinTransport_isPlaceOver_comap
 -- name    : GlobalTheory.ArtinTransport.isPlaceOver_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:57:58.232895+00:00
 -- url     : https://prove2.me/theorems/64b2a9ba-feaa-4553-b177-50aede01e543

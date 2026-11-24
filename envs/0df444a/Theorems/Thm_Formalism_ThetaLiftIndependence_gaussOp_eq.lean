@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ThetaLiftIndependence_gaussOp_eq
 -- name    : Formalism.ThetaLiftIndependence.gaussOp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:29:11.017211+00:00
 -- url     : https://prove2.me/theorems/c4594a0d-d89f-461d-9dc0-0539ff770cb1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BigCell_map_half
 -- name    : GlobalTheory.BigCell.map_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:01:17.393901+00:00
 -- url     : https://prove2.me/theorems/4f782b5a-2a5f-4ece-a943-5cc6ee1c745f

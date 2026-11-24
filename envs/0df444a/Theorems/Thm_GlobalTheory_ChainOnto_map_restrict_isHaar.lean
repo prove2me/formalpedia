@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChainOnto_map_restrict_isHaar
 -- name    : GlobalTheory.ChainOnto.map_restrict_isHaar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:08:04.772623+00:00
 -- url     : https://prove2.me/theorems/e4e5a262-441d-42f1-9f3a-f8a190f711b6

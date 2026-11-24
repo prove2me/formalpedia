@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AePoly_measurePreserving_uncurry
 -- name    : GlobalTheory.CompanionTheory.AePoly.measurePreserving_uncurry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:16:33.330346+00:00
 -- url     : https://prove2.me/theorems/f1ae738d-595b-4196-9728-424782cb3b66

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_integerTilt_mono
 -- name    : GroundTheory.PAdicHodge.integerTilt_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:05:21.202773+00:00
 -- url     : https://prove2.me/theorems/bb25df93-a4b6-4ef3-8190-0552ab07257b

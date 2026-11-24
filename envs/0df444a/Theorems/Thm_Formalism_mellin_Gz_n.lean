@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_mellin_Gz_n
 -- name    : Formalism.mellin_Gz_n
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:08:17.961816+00:00
 -- url     : https://prove2.me/theorems/931329da-6a28-42d3-838e-80365b922062

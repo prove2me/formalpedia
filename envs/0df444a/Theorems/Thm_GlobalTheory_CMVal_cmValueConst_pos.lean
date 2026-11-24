@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_cmValueConst_pos
 -- name    : GlobalTheory.CMVal.cmValueConst_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:00:07.325201+00:00
 -- url     : https://prove2.me/theorems/c7def217-c059-40ba-8e51-3b9c9fd3b9aa

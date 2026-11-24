@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartRig_res_pullU_res
 -- name    : GlobalTheory.ChartRig.res_pullU_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:09:21.446309+00:00
 -- url     : https://prove2.me/theorems/57a0b6e9-187d-4474-9550-1ba5f784493e

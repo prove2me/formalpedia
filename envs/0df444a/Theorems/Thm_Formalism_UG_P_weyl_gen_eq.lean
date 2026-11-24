@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_weyl_gen_eq
 -- name    : Formalism.UG.P.weyl_gen_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:38:08.160996+00:00
 -- url     : https://prove2.me/theorems/cf5dc5b4-7ee3-44af-9e68-1e5cbe8a3a68

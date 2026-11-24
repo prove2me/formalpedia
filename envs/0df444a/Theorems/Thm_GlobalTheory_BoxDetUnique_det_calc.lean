@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxDetUnique_det_calc
 -- name    : GlobalTheory.BoxDetUnique.det_calc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:03:20.202809+00:00
 -- url     : https://prove2.me/theorems/52c118a2-79e0-45e8-8a29-4592ddcc4d6e

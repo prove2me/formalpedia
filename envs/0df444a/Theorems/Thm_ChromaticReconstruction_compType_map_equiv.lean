@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_compType_map_equiv
 -- name    : ChromaticReconstruction.compType_map_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:27:54.818988+00:00
 -- url     : https://prove2.me/theorems/e0b03d63-53b5-42f2-84b9-88b7acd0417f

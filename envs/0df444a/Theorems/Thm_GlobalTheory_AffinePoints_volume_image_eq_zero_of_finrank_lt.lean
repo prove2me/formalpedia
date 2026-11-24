@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_volume_image_eq_zero_of_finrank_lt
 -- name    : GlobalTheory.AffinePoints.volume_image_eq_zero_of_finrank_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:21:33.302678+00:00
 -- url     : https://prove2.me/theorems/942c9230-75eb-41d0-9298-3dd662cee789

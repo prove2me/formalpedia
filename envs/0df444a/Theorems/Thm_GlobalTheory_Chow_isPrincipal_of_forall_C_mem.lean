@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_isPrincipal_of_forall_C_mem
 -- name    : GlobalTheory.Chow.isPrincipal_of_forall_C_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:09:55.124673+00:00
 -- url     : https://prove2.me/theorems/08fad4c8-3897-43b8-b789-0fc96299e61b

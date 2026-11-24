@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_mul_diagonal_eq_neg_of_exp
 -- name    : GlobalTheory.ClassFin.mul_diagonal_eq_neg_of_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:11:57.810352+00:00
 -- url     : https://prove2.me/theorems/2e4432bd-bd04-4dcb-bcca-9b73623233fc

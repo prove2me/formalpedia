@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AddLaw_diagY_smul
 -- name    : GlobalTheory.AddLaw.diagY_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:54:53.538943+00:00
 -- url     : https://prove2.me/theorems/8f619cc3-4180-4516-8dbe-2c703eaebfc0

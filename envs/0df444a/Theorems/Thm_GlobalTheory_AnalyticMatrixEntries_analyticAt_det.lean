@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnalyticMatrixEntries_analyticAt_det
 -- name    : GlobalTheory.AnalyticMatrixEntries.analyticAt_det
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:02:35.171608+00:00
 -- url     : https://prove2.me/theorems/bfbc4cfc-0fdc-4711-99bb-861f0725585c

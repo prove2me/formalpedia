@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelUMod_Cayley_pow_succ_mem
 -- name    : GlobalTheory.BorelUMod.Cayley.pow_succ_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:01:27.545773+00:00
 -- url     : https://prove2.me/theorems/5802a82b-24a8-4e42-aa2a-60651410fb62

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcConst_algebraMap_injective
 -- name    : GlobalTheory.ArcConst.algebraMap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:58:53.001393+00:00
 -- url     : https://prove2.me/theorems/3c848258-5541-4ba1-9686-7899c2ff5611

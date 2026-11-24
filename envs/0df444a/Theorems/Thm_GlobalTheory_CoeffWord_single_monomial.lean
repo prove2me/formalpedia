@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffWord_single_monomial
 -- name    : GlobalTheory.CoeffWord.single_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:29:04.225738+00:00
 -- url     : https://prove2.me/theorems/371c30b1-2b7b-4e34-b105-6ce30c8f3df4

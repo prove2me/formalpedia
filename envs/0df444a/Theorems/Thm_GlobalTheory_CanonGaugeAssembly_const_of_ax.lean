@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CanonGaugeAssembly_const_of_ax
 -- name    : GlobalTheory.CanonGaugeAssembly.const_of_ax
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:07:14.655717+00:00
 -- url     : https://prove2.me/theorems/c2904f34-cb52-4178-8cd5-4ed8916063f6

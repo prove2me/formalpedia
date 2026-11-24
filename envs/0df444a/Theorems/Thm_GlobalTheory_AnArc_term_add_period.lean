@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_term_add_period
 -- name    : GlobalTheory.AnArc.term_add_period
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:02:16.760788+00:00
 -- url     : https://prove2.me/theorems/f7b5ccd9-9b7f-4a44-a935-09498021ecfb

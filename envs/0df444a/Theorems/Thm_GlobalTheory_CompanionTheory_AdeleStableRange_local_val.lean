@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AdeleStableRange_local_val
 -- name    : GlobalTheory.CompanionTheory.AdeleStableRange.local_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:16:37.94615+00:00
 -- url     : https://prove2.me/theorems/4c81b815-18a1-43be-b4ba-497ba1e0c49c

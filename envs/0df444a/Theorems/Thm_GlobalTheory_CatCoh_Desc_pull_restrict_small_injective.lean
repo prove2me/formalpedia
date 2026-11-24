@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CatCoh_Desc_pull_restrict_small_injective
 -- name    : GlobalTheory.CatCoh.Desc.pull_restrict_small_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:06:27.955077+00:00
 -- url     : https://prove2.me/theorems/8098835b-3ba4-42fa-9f47-e0a6becf75d4

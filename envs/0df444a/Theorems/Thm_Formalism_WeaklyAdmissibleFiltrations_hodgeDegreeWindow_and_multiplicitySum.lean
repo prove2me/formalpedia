@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_hodgeDegreeWindow_and_multiplicitySum
 -- name    : Formalism.WeaklyAdmissibleFiltrations.hodgeDegreeWindow_and_multiplicitySum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:39:34.792145+00:00
 -- url     : https://prove2.me/theorems/3e36de4b-686e-4273-ab5b-dd05a566eb47

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_Final_torsionIndex
 -- name    : Formalism.SLP.Final.torsionIndex
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:50:28.967189+00:00
 -- url     : https://prove2.me/theorems/556f023d-e15e-4c4b-b6fc-28ab3f75f3c2

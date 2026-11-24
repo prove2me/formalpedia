@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Model_levelLe_inv
 -- name    : GlobalTheory.CMVal.Model.levelLe_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:05:31.94199+00:00
 -- url     : https://prove2.me/theorems/c9bbfc65-c4da-4c00-8eee-620333b748ef

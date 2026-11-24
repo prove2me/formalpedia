@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_index_last_reduction_holds
 -- name    : Formalism.IncomingBounds.index_last_reduction_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T18:11:35.528988+00:00
 -- url     : https://prove2.me/theorems/f8d30f08-05c1-4076-8a66-df66bdcd88b0

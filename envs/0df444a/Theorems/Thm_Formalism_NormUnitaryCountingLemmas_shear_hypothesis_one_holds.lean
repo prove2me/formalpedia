@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NormUnitaryCountingLemmas_shear_hypothesis_one_holds
 -- name    : Formalism.NormUnitaryCountingLemmas.shear_hypothesis_one_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:18:28.014793+00:00
 -- url     : https://prove2.me/theorems/c6f2aa45-6953-477a-b8e7-576b5ec3f492

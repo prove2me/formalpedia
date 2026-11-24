@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_LOC_dualLattice
 -- name    : Formalism.RepresentationBoundsCohomology.LOC.dualLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:25:57.203734+00:00
 -- url     : https://prove2.me/theorems/9d818563-be8e-49e6-a8a2-382602f27e71

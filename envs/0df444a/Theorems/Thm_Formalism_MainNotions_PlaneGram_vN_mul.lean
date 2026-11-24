@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_vN_mul
 -- name    : Formalism.MainNotions.PlaneGram.vN_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:38:04.709979+00:00
 -- url     : https://prove2.me/theorems/d99a9275-d826-471d-b8a0-594efbb0a3f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_Basic_isUp_transv
 -- name    : GlobalTheory.BadShare.Basic.isUp_transv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:00:34.94504+00:00
 -- url     : https://prove2.me/theorems/e5113e0d-9f57-45aa-b3d9-a4353c859f7e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenFrameSpan_Lj_inl_inr
 -- name    : GenFrameSpan.Lj_inl_inr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:51:21.856335+00:00
 -- url     : https://prove2.me/theorems/24ee2bdc-fc6e-4d70-bdeb-05d7cc7e0805

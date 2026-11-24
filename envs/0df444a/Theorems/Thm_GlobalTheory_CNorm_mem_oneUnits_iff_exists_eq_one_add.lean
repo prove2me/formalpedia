@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_mem_oneUnits_iff_exists_eq_one_add
 -- name    : GlobalTheory.CNorm.mem_oneUnits_iff_exists_eq_one_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:06:07.088164+00:00
 -- url     : https://prove2.me/theorems/913049ae-78e2-4d6f-9686-be15603341d4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_span_sup_pow_eq_of_notMem_sq
 -- name    : GlobalTheory.CMVal.Euler.span_sup_pow_eq_of_notMem_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:05:30.08188+00:00
 -- url     : https://prove2.me/theorems/432cde34-b70a-4e05-900b-c9ca8f3de95f

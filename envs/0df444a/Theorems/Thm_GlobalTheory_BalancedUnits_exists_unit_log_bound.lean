@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BalancedUnits_exists_unit_log_bound
 -- name    : GlobalTheory.BalancedUnits.exists_unit_log_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:59:17.840879+00:00
 -- url     : https://prove2.me/theorems/ef9b8c3f-1eff-4cac-9853-64e07bd96e5e

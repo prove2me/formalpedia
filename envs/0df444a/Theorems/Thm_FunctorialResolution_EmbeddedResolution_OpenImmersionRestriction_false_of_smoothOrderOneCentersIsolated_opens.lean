@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_OpenImmersionRestriction_false_of_smoothOrderOneCentersIsolated_opens
 -- name    : FunctorialResolution.EmbeddedResolution.OpenImmersionRestriction.false_of_smoothOrderOneCentersIsolated_opens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:46:24.872841+00:00
 -- url     : https://prove2.me/theorems/1c08b929-b1ef-44da-8141-a8f436214a0b

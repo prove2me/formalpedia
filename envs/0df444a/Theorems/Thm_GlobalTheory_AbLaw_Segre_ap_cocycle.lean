@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_Segre_ap_cocycle
 -- name    : GlobalTheory.AbLaw.Segre.ap_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:51:52.471228+00:00
 -- url     : https://prove2.me/theorems/87a3c8a1-bcff-49a3-890a-6dd34d243314

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BSP_DiscDomain_norm_mul_l_pow
 -- name    : GlobalTheory.BSP.DiscDomain.norm_mul_l_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:00:33.230176+00:00
 -- url     : https://prove2.me/theorems/44f8053e-4cba-42db-b148-8b3ed69335e3

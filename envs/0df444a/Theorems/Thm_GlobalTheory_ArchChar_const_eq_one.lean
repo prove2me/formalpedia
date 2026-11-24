@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchChar_const_eq_one
 -- name    : GlobalTheory.ArchChar.const_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:58:46.693802+00:00
 -- url     : https://prove2.me/theorems/65ec8a9c-3e7b-4ded-ae01-bdfead54a528

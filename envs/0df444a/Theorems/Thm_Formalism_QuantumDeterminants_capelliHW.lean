@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_capelliHW
 -- name    : Formalism.QuantumDeterminants.capelliHW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:18:23.123354+00:00
 -- url     : https://prove2.me/theorems/09b1a802-af23-43a6-b0fc-35647cbcd7e0

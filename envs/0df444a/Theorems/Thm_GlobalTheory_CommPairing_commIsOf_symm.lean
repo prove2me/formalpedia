@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommPairing_commIsOf_symm
 -- name    : GlobalTheory.CommPairing.commIsOf_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:16:00.528286+00:00
 -- url     : https://prove2.me/theorems/fb2fce91-9009-403c-bbe4-06e09cc06e4c

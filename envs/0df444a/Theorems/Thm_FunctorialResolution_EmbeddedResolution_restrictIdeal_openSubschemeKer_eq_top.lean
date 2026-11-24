@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_restrictIdeal_openSubschemeKer_eq_top
 -- name    : FunctorialResolution.EmbeddedResolution.restrictIdeal_openSubschemeKer_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:48:48.628692+00:00
 -- url     : https://prove2.me/theorems/5e0bb88e-b221-49b8-9e54-1bec20fb8221

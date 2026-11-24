@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_IsPushforwardBlowupSeq_isIso_comp
 -- name    : FunctorialResolution.EmbeddedResolution.IsPushforwardBlowupSeq.isIso_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:45:09.869688+00:00
 -- url     : https://prove2.me/theorems/e3360465-ad8d-4c5d-b4af-b1fafb6815bf

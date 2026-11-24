@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_OrderUnits_prime_not_mem_sq
 -- name    : GlobalTheory.CMVal.OrderUnits.prime_not_mem_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:05:15.528354+00:00
 -- url     : https://prove2.me/theorems/6aabe7c9-e099-4222-95f3-70a4793e6ed0

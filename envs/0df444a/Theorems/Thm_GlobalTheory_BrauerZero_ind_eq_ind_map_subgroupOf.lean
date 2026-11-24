@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BrauerZero_ind_eq_ind_map_subgroupOf
 -- name    : GlobalTheory.BrauerZero.ind_eq_ind_map_subgroupOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:03:52.076377+00:00
 -- url     : https://prove2.me/theorems/158d8541-c467-4fac-8022-706315ab8689

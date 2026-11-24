@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_comap_coordIdeal_singleton_self
 -- name    : FunctorialResolution.EmbeddedResolution.comap_coordIdeal_singleton_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:46:58.718835+00:00
 -- url     : https://prove2.me/theorems/b0e5e3b2-6796-447d-b11c-d2392d520d81

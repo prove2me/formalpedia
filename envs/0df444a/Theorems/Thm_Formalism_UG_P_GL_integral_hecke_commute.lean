@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_GL_integral_hecke_commute
 -- name    : Formalism.UG.P.GL_integral_hecke_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:30:04.17346+00:00
 -- url     : https://prove2.me/theorems/3d9ccfd0-faf2-4f4b-bc50-3f46e86c7a76

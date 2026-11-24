@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Jets_jets_three_variables_holds
 -- name    : Formalism.L2.Th1.B.Jets.jets_three_variables_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:18.770802+00:00
 -- url     : https://prove2.me/theorems/90f4a52a-fe5d-4bcf-91f3-bec1d9872238

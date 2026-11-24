@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_spherical_wd
 -- name    : Formalism.UG.P.spherical_wd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:36:59.150701+00:00
 -- url     : https://prove2.me/theorems/2e6b8616-268c-4474-9bce-db24ae3e3b9a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AlgWtHW_isUPt_tauPt
 -- name    : GlobalTheory.AlgWtHW.isUPt_tauPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:56:53.348823+00:00
 -- url     : https://prove2.me/theorems/9fc1b162-f81b-40d5-a756-2db605968a58

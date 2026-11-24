@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompRat_exists_ringEquiv_complex_comp_eq
 -- name    : GlobalTheory.CompRat.exists_ringEquiv_complex_comp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:16:52.409271+00:00
 -- url     : https://prove2.me/theorems/cce85654-e928-4038-aedb-d519bffeccbb

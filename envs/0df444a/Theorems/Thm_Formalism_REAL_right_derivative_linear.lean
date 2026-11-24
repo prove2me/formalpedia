@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_right_derivative_linear
 -- name    : Formalism.REAL.right_derivative_linear
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:06:46.806725+00:00
 -- url     : https://prove2.me/theorems/005a8aee-45b1-42d5-a569-26575e7e9e76

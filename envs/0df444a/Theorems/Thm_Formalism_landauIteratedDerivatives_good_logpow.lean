@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_landauIteratedDerivatives_good_logpow
 -- name    : Formalism.landauIteratedDerivatives.good_logpow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:07:48.990104+00:00
 -- url     : https://prove2.me/theorems/a2ed80e6-ebcb-49d7-95a7-96d355d8f736

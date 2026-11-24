@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m89_source_scale_cumulative
 -- name    : Kyprianou.Ch08.StageB.p2m89_source_scale_cumulative
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T09:52:34.659171+00:00
 -- url     : https://prove2.me/theorems/968d214f-5547-4692-892e-b610175a1e29

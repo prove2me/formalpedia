@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_unitsTwoPow
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.unitsTwoPow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:05:46.724928+00:00
 -- url     : https://prove2.me/theorems/732ee176-369d-4311-8b15-1aefb3e5117f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_SplitPair_loc_mul_loc
 -- name    : GlobalTheory.CMVal.Euler.SplitPair.loc_mul_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:06:00.105958+00:00
 -- url     : https://prove2.me/theorems/d6a46d0c-7860-4b3f-b8c4-1d1d86fd667f

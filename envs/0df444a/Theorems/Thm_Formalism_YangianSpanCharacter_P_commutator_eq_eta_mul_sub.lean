@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_YangianSpanCharacter_P_commutator_eq_eta_mul_sub
 -- name    : Formalism.YangianSpanCharacter.P.commutator_eq_eta_mul_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:35:00.181129+00:00
 -- url     : https://prove2.me/theorems/56036950-240b-4898-b2fa-b785fe411e5b

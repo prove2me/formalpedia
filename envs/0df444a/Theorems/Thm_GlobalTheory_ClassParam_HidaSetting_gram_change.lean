@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassParam_HidaSetting_gram_change
 -- name    : GlobalTheory.ClassParam.HidaSetting.gram_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:13:13.210804+00:00
 -- url     : https://prove2.me/theorems/b17b1ea3-b404-42d5-8eaf-802cba70b5ee

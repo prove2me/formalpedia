@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharFamily_norm_iteratedFDeriv_char_le
 -- name    : GlobalTheory.CharFamily.norm_iteratedFDeriv_char_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:07:50.738115+00:00
 -- url     : https://prove2.me/theorems/40252986-ccaf-4865-935e-6fb8869d3521

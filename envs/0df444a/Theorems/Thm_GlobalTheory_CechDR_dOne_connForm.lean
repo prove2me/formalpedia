@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_dOne_connForm
 -- name    : GlobalTheory.CechDR.dOne_connForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:08:31.33555+00:00
 -- url     : https://prove2.me/theorems/40813973-368b-47d4-8e94-fe69be70e19f

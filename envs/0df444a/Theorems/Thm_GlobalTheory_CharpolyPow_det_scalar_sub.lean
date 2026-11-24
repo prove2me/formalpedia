@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharpolyPow_det_scalar_sub
 -- name    : GlobalTheory.CharpolyPow.det_scalar_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:10:22.968008+00:00
 -- url     : https://prove2.me/theorems/c41acc63-cebc-4bfe-946a-821fc33f6bcd

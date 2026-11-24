@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoundedBasis_smul_vecMul_mem
 -- name    : GlobalTheory.BoundedBasis.smul_vecMul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:01:28.297306+00:00
 -- url     : https://prove2.me/theorems/26bda929-de33-4a49-9a33-4f94635f8487

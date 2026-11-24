@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_Basic_trace_op_reg
 -- name    : GlobalTheory.BadShare.Basic.trace_op_reg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:59:42.2047+00:00
 -- url     : https://prove2.me/theorems/05bb5d83-7a18-47e5-ae89-b92a81fbc10c

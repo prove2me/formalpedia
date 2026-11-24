@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassParam_quad_facts
 -- name    : GlobalTheory.ClassParam.quad_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:13:30.213303+00:00
 -- url     : https://prove2.me/theorems/96fbbbaa-385f-4076-9c6f-8fc05081b408

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BaseChangeFns_app_surjective
 -- name    : GlobalTheory.BaseChangeFns.app_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:59:46.46105+00:00
 -- url     : https://prove2.me/theorems/952322db-b243-4ada-9e45-96ae908a92ef

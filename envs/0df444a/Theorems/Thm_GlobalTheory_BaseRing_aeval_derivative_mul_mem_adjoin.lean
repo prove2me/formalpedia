@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BaseRing_aeval_derivative_mul_mem_adjoin
 -- name    : GlobalTheory.BaseRing.aeval_derivative_mul_mem_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:59:44.500346+00:00
 -- url     : https://prove2.me/theorems/a60f454b-df52-43ef-9e6a-192f67a60936

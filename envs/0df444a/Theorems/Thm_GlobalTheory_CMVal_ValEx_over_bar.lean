@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_ValEx_over_bar
 -- name    : GlobalTheory.CMVal.ValEx.over_bar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:06:54.224986+00:00
 -- url     : https://prove2.me/theorems/aef6dbd5-65fc-431c-aad8-76747ef8d2a1

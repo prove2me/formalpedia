@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_orderAt_eq_zero_iff_not_mem_support
 -- name    : FunctorialResolution.EmbeddedResolution.orderAt_eq_zero_iff_not_mem_support
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:14:22.198114+00:00
 -- url     : https://prove2.me/theorems/26b7a5bd-eaf7-439a-9fae-5fd9d8c0ae4e

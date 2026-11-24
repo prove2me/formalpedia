@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharDotKill_nonarchimedean_pi
 -- name    : GlobalTheory.CharDotKill.nonarchimedean_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:08:33.503137+00:00
 -- url     : https://prove2.me/theorems/b2e202d7-4e4f-4a74-87b6-fab65c6bc6ef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_mvPolynomialEquivGlobalSections_basicOpen_primeSpectrum
 -- name    : FunctorialResolution.EmbeddedResolution.mvPolynomialEquivGlobalSections_basicOpen_primeSpectrum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:49:21.400065+00:00
 -- url     : https://prove2.me/theorems/32e29789-2aa9-493e-ab05-53d181ab0a92

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_SequenceOfBlowups_iso_hom_comp_projectionToBase
 -- name    : FunctorialResolution.EmbeddedResolution.SequenceOfBlowups.iso_hom_comp_projectionToBase
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:47:11.933612+00:00
 -- url     : https://prove2.me/theorems/e2892142-73fc-4b8e-bba0-00fcf17cd923

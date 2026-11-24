@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_IsStrictNormalCrossingsDivisor_reducedInverseImage_coprod
 -- name    : FunctorialResolution.EmbeddedResolution.IsStrictNormalCrossingsDivisor.reducedInverseImage_coprod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:45:19.038205+00:00
 -- url     : https://prove2.me/theorems/d3015a71-c369-4fde-b879-04fbeecefbfe

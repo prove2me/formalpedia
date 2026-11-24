@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_inv_smul_eq_iff_conj_mem
 -- name    : GlobalTheory.BI.inv_smul_eq_iff_conj_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:58:15.319294+00:00
 -- url     : https://prove2.me/theorems/6c956ea1-a839-4e3a-a6d5-eba615863115

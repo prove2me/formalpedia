@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArtinKernel_surjective_residue_slice
 -- name    : GlobalTheory.ArtinKernel.surjective_residue_slice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:58:52.798646+00:00
 -- url     : https://prove2.me/theorems/91ac77e7-f648-4692-87ad-65005a44f329

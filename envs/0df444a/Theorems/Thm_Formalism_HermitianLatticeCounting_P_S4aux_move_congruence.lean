@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_move_congruence
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.move_congruence
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:28:03.55485+00:00
 -- url     : https://prove2.me/theorems/c16a236a-156c-408f-a60a-3f028f47f702

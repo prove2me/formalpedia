@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_exists_localZeroExpansion_of_bound
 -- name    : Formalism.ZeroFreeDirichlet.exists_localZeroExpansion_of_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:37:47.881001+00:00
 -- url     : https://prove2.me/theorems/e95f1068-1281-45ff-a3fa-9918406fb44e

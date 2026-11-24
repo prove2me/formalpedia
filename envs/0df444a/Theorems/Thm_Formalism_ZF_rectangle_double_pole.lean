@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_rectangle_double_pole
 -- name    : Formalism.ZF.rectangle_double_pole
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:36:27.851846+00:00
 -- url     : https://prove2.me/theorems/6a14dea6-9d76-4f4e-bca9-118836cea2b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_split_surjective
 -- name    : Formalism.UG.P.split_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:28:47.949837+00:00
 -- url     : https://prove2.me/theorems/0c96a93b-7e88-4e7e-85b9-540e22f2395a

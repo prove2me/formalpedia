@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_IsStrongResolution_of_isomorphic
 -- name    : FunctorialResolution.EmbeddedResolution.IsStrongResolution.of_isomorphic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:58:33.272793+00:00
 -- url     : https://prove2.me/theorems/00d55c01-f1bf-402b-ab5b-425160243cb2

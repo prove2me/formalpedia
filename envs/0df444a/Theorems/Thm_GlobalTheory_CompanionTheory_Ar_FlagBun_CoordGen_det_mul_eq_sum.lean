@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_FlagBun_CoordGen_det_mul_eq_sum
 -- name    : GlobalTheory.CompanionTheory.Ar.FlagBun.CoordGen.det_mul_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:17:46.039957+00:00
 -- url     : https://prove2.me/theorems/15667582-4561-44c3-8462-e033767ac95a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ColengthDifferent_mul_dual_expand
 -- name    : GlobalTheory.ColengthDifferent.mul_dual_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:14:40.207018+00:00
 -- url     : https://prove2.me/theorems/e99ed8d4-74fc-49f0-ab99-afc8615a3de6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxDetUnique_gs_sec_pw
 -- name    : GlobalTheory.BoxDetUnique.gs_sec_pw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:03:15.767793+00:00
 -- url     : https://prove2.me/theorems/06fae3f1-25d9-4294-ae45-fca0acfce6f2

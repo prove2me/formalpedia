@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_CoordInhab_exists_pow_mul_eq
 -- name    : GlobalTheory.CompanionTheory.Ar.CoordInhab.exists_pow_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:17:31.688732+00:00
 -- url     : https://prove2.me/theorems/4040a571-bf8a-40ca-991a-9175583b1e20

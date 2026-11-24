@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BetaEx_bdd_of_unimod
 -- name    : GlobalTheory.BetaEx.bdd_of_unimod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:59:47.399587+00:00
 -- url     : https://prove2.me/theorems/bf9cc48f-a32e-4a43-b8db-6e5836dd1853

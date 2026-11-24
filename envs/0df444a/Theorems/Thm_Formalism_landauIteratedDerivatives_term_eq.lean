@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_landauIteratedDerivatives_term_eq
 -- name    : Formalism.landauIteratedDerivatives.term_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:46:05.23986+00:00
 -- url     : https://prove2.me/theorems/48855743-c4e5-426b-8288-f74867946647

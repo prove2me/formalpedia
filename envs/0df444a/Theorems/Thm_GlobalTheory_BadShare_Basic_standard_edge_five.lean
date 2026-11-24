@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_Basic_standard_edge_five
 -- name    : GlobalTheory.BadShare.Basic.standard_edge_five
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:59:33.995002+00:00
 -- url     : https://prove2.me/theorems/98a19993-d390-449e-9990-8abcad332f5e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BruhatRep_two_eq
 -- name    : GlobalTheory.BruhatRep.two_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:03:00.549929+00:00
 -- url     : https://prove2.me/theorems/bb677f91-4e1e-4ea8-8966-d187add13b31

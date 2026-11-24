@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_zetaPrimeSumErrorBoundOfBounds
 -- name    : Formalism.ZF.zetaPrimeSumErrorBoundOfBounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:40:50.235604+00:00
 -- url     : https://prove2.me/theorems/25107faf-6579-44e7-974f-b54341423dcb

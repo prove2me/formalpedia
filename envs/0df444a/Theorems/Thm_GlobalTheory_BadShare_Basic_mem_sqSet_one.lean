@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_Basic_mem_sqSet_one
 -- name    : GlobalTheory.BadShare.Basic.mem_sqSet_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:00:11.581897+00:00
 -- url     : https://prove2.me/theorems/0bbf2ebe-177a-4758-b569-97d0bcc78664

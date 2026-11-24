@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_NonzeroOnComponents_comap_of_generalizingMap
 -- name    : FunctorialResolution.EmbeddedResolution.NonzeroOnComponents.comap_of_generalizingMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:05:37.022585+00:00
 -- url     : https://prove2.me/theorems/fbf09eb0-54b2-469f-bc72-a2699648f89d

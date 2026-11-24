@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_ringDataObjects_rankConst
 -- name    : Formalism.RepresentationBoundsCohomology.ringDataObjects.rankConst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:28:32.173052+00:00
 -- url     : https://prove2.me/theorems/642d7438-e5e5-4e50-a37c-5a1500a0a7b1

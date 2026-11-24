@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassMin_gram_posSemidef
 -- name    : GlobalTheory.ClassMin.gram_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:11:08.129434+00:00
 -- url     : https://prove2.me/theorems/2705a7ec-dac8-42c1-9283-bc4d26e31931

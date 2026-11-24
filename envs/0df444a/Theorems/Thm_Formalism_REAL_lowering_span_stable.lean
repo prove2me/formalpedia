@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_lowering_span_stable
 -- name    : Formalism.REAL.lowering_span_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:23:19.5568+00:00
 -- url     : https://prove2.me/theorems/d2c57b9e-e371-4a7c-b4b2-fcac5c713170

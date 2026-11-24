@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_ModelEmbedding_card_Q
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.ModelEmbedding.card_Q
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:29:04.395792+00:00
 -- url     : https://prove2.me/theorems/fd9093ae-d6d0-4d40-b42c-7932e66327dc

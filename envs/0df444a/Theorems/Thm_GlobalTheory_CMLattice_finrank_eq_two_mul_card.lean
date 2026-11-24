@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMLattice_finrank_eq_two_mul_card
 -- name    : GlobalTheory.CMLattice.finrank_eq_two_mul_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:02:29.627914+00:00
 -- url     : https://prove2.me/theorems/eb3ec339-4169-4d9e-8842-563ed678cf6f

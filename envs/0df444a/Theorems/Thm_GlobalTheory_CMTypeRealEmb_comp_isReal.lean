@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMTypeRealEmb_comp_isReal
 -- name    : GlobalTheory.CMTypeRealEmb.comp_isReal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:04:28.836448+00:00
 -- url     : https://prove2.me/theorems/01588916-c735-42bd-96b0-0682224f7b12

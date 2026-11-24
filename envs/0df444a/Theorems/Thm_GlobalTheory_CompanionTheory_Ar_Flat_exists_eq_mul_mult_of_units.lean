@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Flat_exists_eq_mul_mult_of_units
 -- name    : GlobalTheory.CompanionTheory.Ar.Flat.exists_eq_mul_mult_of_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:18:03.824287+00:00
 -- url     : https://prove2.me/theorems/b0caf6d0-8bb2-40db-88a2-22da1734ecb0

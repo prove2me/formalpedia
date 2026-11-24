@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdicSum_sumF_calculus
 -- name    : GlobalTheory.AdicSum.sumF_calculus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:55:58.770874+00:00
 -- url     : https://prove2.me/theorems/2bcf2526-bc85-454d-8dca-b714fe75cf90

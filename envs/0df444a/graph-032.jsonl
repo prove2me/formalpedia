@@ -58007,7 +58007,7 @@
 {"parent": "FourMsgQMA_Supplement_Kilian", "child": "FourMsgQMA_Supplement_PCP", "via": ["statement"]}
 {"parent": "FourMsgQMA_Supplement_Kilian", "child": "FourMsgQMA_Supplement_Merkle", "via": ["statement"]}
 {"parent": "SYKLearn_Supplement_EvolutionLearner", "child": "StationarityTest_Learner", "via": ["statement"]}
-{"parent": "QuantumLTF.Majority.theorem_4_6", "child": "QuantumLTF_Sections45_Model", "via": ["statement"]}
+{"parent": "QuantumLTF.Majority.theorem_4_6", "child": "QuantumLTF_Sections45_Model", "via": ["solution", "statement"]}
 {"parent": "QuantumLTF.Majority.theorem_4_6", "child": "QuantumLTF_Membership_gates12", "via": ["statement"]}
 {"parent": "QuantumLTF.Majority.theorem_4_6", "child": "QAlgorithms_Defs_Circuit", "via": ["statement"]}
 {"parent": "QuantumLTF.Majority.theorem_4_6", "child": "QuantumLTF_Majority_oracle", "via": ["statement"]}
@@ -76034,7 +76034,7 @@
 {"parent": "Kyprianou.ProofPreparation.three_levy_partial_sum_independent", "child": "Kyprianou_Ch02_IndependentComponents", "via": ["statement"]}
 {"parent": "N25.level25_gamma0_T_doubleCosets", "child": "N25", "via": ["solution", "statement"]}
 {"parent": "QuantumLTF.Majority.theorem_4_10_fixed_error", "child": "QuantumLTF_Membership_gates12", "via": ["statement"]}
-{"parent": "QuantumLTF.Majority.theorem_4_10_fixed_error", "child": "QuantumLTF_Sections45_Model", "via": ["statement"]}
+{"parent": "QuantumLTF.Majority.theorem_4_10_fixed_error", "child": "QuantumLTF_Sections45_Model", "via": ["solution", "statement"]}
 {"parent": "QuantumLTF.Majority.theorem_4_10_fixed_error", "child": "QAlgorithms_Defs_Circuit", "via": ["statement"]}
 {"parent": "QuantumLTF.Majority.theorem_4_10_fixed_error", "child": "QuantumLTF_Majority_oracle", "via": ["statement"]}
 {"parent": "N25_CanonicalConeBoundary", "child": "N25_CanonicalConeTower", "via": ["statement"]}
@@ -76278,7 +76278,7 @@
 {"parent": "RQCMoments.Supplement.theorem_7_6", "child": "RQCMoments_Supplement_outputEntropy", "via": ["statement"]}
 {"parent": "LovaszECCKernel.Supplement.theorem_2", "child": "LovaszECCKernel_Supplement_ecp", "via": ["statement"]}
 {"parent": "QuantumLTF.Majority.theorem_4_1", "child": "QuantumLTF_Membership_gates12", "via": ["statement"]}
-{"parent": "QuantumLTF.Majority.theorem_4_1", "child": "QuantumLTF_Sections45_Model", "via": ["statement"]}
+{"parent": "QuantumLTF.Majority.theorem_4_1", "child": "QuantumLTF_Sections45_Model", "via": ["solution", "statement"]}
 {"parent": "QuantumLTF.Majority.theorem_4_1", "child": "QAlgorithms_Defs_Circuit", "via": ["statement"]}
 {"parent": "QuantumLTF.Majority.theorem_4_1", "child": "QuantumLTF_Majority_oracle", "via": ["statement"]}
 {"parent": "SkipListConc_Supplement_reseededCost", "child": "SkipListConc_presentAt", "via": ["statement"]}
@@ -78203,7 +78203,7 @@
 {"parent": "MatrixLeeSidford_Supplement_segLength", "child": "DoublyOptBandit_LocalNorm", "via": ["statement"]}
 {"parent": "MatrixLeeSidford_Supplement_segLength", "child": "MatrixLeeSidford_barrierF", "via": ["statement"]}
 {"parent": "QuantumLTF.Majority.theorem_4_9_fixed_error", "child": "QuantumLTF_Membership_gates12", "via": ["statement"]}
-{"parent": "QuantumLTF.Majority.theorem_4_9_fixed_error", "child": "QuantumLTF_Sections45_Model", "via": ["statement"]}
+{"parent": "QuantumLTF.Majority.theorem_4_9_fixed_error", "child": "QuantumLTF_Sections45_Model", "via": ["solution", "statement"]}
 {"parent": "QuantumLTF.Majority.theorem_4_9_fixed_error", "child": "QAlgorithms_Defs_Circuit", "via": ["statement"]}
 {"parent": "QuantumLTF.Majority.theorem_4_9_fixed_error", "child": "QuantumLTF_Majority_oracle", "via": ["statement"]}
 {"parent": "DirKECC1549.Asm.sum_odeg", "child": "DirKECC1549_Impl_SccDfs", "via": ["solution", "statement"]}

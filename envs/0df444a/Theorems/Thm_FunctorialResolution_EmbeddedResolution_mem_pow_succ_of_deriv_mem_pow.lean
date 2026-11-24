@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_mem_pow_succ_of_deriv_mem_pow
 -- name    : FunctorialResolution.EmbeddedResolution.mem_pow_succ_of_deriv_mem_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:06:43.303836+00:00
 -- url     : https://prove2.me/theorems/3ba84e12-e6e4-4324-8454-612e948b69b6

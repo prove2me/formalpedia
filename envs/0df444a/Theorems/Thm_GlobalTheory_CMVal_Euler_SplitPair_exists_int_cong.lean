@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_SplitPair_exists_int_cong
 -- name    : GlobalTheory.CMVal.Euler.SplitPair.exists_int_cong
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:05:08.613007+00:00
 -- url     : https://prove2.me/theorems/6527456e-c2df-43f9-874b-7a41d673d470

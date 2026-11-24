@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelModulus_prod_pos_eq
 -- name    : GlobalTheory.BorelModulus.prod_pos_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:02:01.329102+00:00
 -- url     : https://prove2.me/theorems/24ec66e6-81ba-4ff5-af08-e8fbdc0a390a

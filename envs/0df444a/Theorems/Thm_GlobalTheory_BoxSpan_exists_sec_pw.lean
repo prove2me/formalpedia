@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxSpan_exists_sec_pw
 -- name    : GlobalTheory.BoxSpan.exists_sec_pw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:04:20.442447+00:00
 -- url     : https://prove2.me/theorems/d8a07993-0499-493b-8c81-1a3993cb0f54

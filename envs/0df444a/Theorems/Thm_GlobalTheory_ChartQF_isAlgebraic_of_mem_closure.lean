@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartQF_isAlgebraic_of_mem_closure
 -- name    : GlobalTheory.ChartQF.isAlgebraic_of_mem_closure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:08:52.925585+00:00
 -- url     : https://prove2.me/theorems/9ec20fa6-3ff7-4f1f-a788-379d1fcaeec4

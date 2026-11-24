@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharCutoff_exists_dot_ne_one
 -- name    : GlobalTheory.CharCutoff.exists_dot_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:08:27.000828+00:00
 -- url     : https://prove2.me/theorems/3a31378e-45f3-47f5-8712-369a09ed918a

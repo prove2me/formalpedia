@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BaseChangeComponents_minimalPrimes_eq
 -- name    : GlobalTheory.BaseChangeComponents.minimalPrimes_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:59:28.291969+00:00
 -- url     : https://prove2.me/theorems/556d3b3b-9650-48fc-b997-334b2cfd3ab1

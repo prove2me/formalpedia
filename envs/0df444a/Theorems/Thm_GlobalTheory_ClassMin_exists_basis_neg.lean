@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassMin_exists_basis_neg
 -- name    : GlobalTheory.ClassMin.exists_basis_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:11:17.426949+00:00
 -- url     : https://prove2.me/theorems/bf2ed378-19c7-4777-8f33-ce9a87929578

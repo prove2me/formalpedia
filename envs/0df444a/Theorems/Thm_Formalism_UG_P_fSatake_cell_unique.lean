@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_fSatake_cell_unique
 -- name    : Formalism.UG.P.fSatake_cell_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:32:16.743999+00:00
 -- url     : https://prove2.me/theorems/51a103c2-fcf3-45e9-bd0f-44318699883d

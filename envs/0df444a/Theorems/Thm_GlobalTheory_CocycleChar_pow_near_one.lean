@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CocycleChar_pow_near_one
 -- name    : GlobalTheory.CocycleChar.pow_near_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:15:03.971467+00:00
 -- url     : https://prove2.me/theorems/7083346f-6393-4f61-9113-659df4fd6aae

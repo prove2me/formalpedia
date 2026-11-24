@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_C_mem_integralSeries
 -- name    : GlobalTheory.C_mem_integralSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:06:52.977466+00:00
 -- url     : https://prove2.me/theorems/0e6a5738-0dc1-4a69-a119-ae214febe9b9

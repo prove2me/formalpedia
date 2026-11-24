@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassMin_eq_zero_of_zsmul_eq_zero
 -- name    : GlobalTheory.ClassMin.eq_zero_of_zsmul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:27:31.16727+00:00
 -- url     : https://prove2.me/theorems/3b91f33a-263a-4e23-aba6-8e182c62f9e3

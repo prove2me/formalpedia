@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrFix3_corr_pull_scale
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrFix3.corr_pull_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:59:18.251797+00:00
 -- url     : https://prove2.me/theorems/5ae43593-4e85-47e0-8254-e42ef8030b60

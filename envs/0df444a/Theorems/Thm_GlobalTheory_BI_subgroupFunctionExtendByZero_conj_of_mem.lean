@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_subgroupFunctionExtendByZero_conj_of_mem
 -- name    : GlobalTheory.BI.subgroupFunctionExtendByZero_conj_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:00:44.419811+00:00
 -- url     : https://prove2.me/theorems/157f230c-8655-4f81-894c-bd8b181c936f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BetaEx_detSpan_mono
 -- name    : GlobalTheory.BetaEx.detSpan_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:59:40.067514+00:00
 -- url     : https://prove2.me/theorems/3ba6b971-1300-48af-999f-e448acfe4941

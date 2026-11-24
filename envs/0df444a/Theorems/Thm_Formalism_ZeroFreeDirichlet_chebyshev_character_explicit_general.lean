@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_chebyshev_character_explicit_general
 -- name    : Formalism.ZeroFreeDirichlet.chebyshev_character_explicit_general
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:37:40.460807+00:00
 -- url     : https://prove2.me/theorems/3d816211-aaa7-4721-9587-fd048464c777

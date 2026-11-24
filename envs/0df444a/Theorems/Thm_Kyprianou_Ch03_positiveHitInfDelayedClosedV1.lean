@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_positiveHitInfDelayedClosedV1
 -- name    : Kyprianou.Ch03.positiveHitInfDelayedClosedV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T11:02:20.85419+00:00
 -- url     : https://prove2.me/theorems/a923c0b0-9b43-4d8b-b39f-5866111652b1

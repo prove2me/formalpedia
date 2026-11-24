@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankGapBounds_LocalQuadraticParts_powTwoPowEqOneIff_holds
 -- name    : Formalism.RankGapBounds.LocalQuadraticParts.powTwoPowEqOneIff_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:10:13.927864+00:00
 -- url     : https://prove2.me/theorems/d0ee9998-5570-475d-9f1e-235ea5bf1f20

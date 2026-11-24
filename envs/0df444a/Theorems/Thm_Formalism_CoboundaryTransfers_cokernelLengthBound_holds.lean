@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CoboundaryTransfers_cokernelLengthBound_holds
 -- name    : Formalism.CoboundaryTransfers.cokernelLengthBound_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:45:15.028808+00:00
 -- url     : https://prove2.me/theorems/3df50887-4a1c-450d-858d-1c691b8fd928

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_CondExp_multiplicity_prod_primes_of_mem
 -- name    : GlobalTheory.CMVal.CondExp.multiplicity_prod_primes_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:05:39.846951+00:00
 -- url     : https://prove2.me/theorems/5b44e8bd-d85f-464c-8867-b3014d375447

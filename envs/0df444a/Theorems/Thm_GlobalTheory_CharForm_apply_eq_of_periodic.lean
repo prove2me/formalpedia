@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharForm_apply_eq_of_periodic
 -- name    : GlobalTheory.CharForm.apply_eq_of_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:07:26.425899+00:00
 -- url     : https://prove2.me/theorems/70635984-8bca-451c-bb47-687f938f1b93

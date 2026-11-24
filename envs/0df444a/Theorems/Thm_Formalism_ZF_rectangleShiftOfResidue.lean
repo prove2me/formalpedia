@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_rectangleShiftOfResidue
 -- name    : Formalism.ZF.rectangleShiftOfResidue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:41:16.003459+00:00
 -- url     : https://prove2.me/theorems/11100fd0-70c3-49ef-bac2-b881f61b11a3

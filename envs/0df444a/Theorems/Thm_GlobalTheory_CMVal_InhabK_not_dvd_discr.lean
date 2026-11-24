@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_InhabK_not_dvd_discr
 -- name    : GlobalTheory.CMVal.InhabK.not_dvd_discr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:05:30.358387+00:00
 -- url     : https://prove2.me/theorems/a678a221-ecd7-49fa-aac8-dfa57da25503

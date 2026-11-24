@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_FlatDescentIdealSheaf_eq_of_comap_eq
 -- name    : FunctorialResolution.EmbeddedResolution.FlatDescentIdealSheaf.eq_of_comap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:45:21.837801+00:00
 -- url     : https://prove2.me/theorems/31d7791d-9928-4461-94f4-dbefb112f8b4

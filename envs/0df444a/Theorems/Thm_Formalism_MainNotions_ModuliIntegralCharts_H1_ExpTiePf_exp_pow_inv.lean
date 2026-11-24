@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpTiePf_exp_pow_inv
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpTiePf.exp_pow_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:25:13.709604+00:00
 -- url     : https://prove2.me/theorems/e2dfd119-a0b6-4fb2-96cb-7e45a8412f88

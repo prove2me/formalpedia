@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchChar_exists_near
 -- name    : GlobalTheory.ArchChar.exists_near
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:58:50.438931+00:00
 -- url     : https://prove2.me/theorems/c6b9df64-8beb-483c-931d-ef69f2f46a2e

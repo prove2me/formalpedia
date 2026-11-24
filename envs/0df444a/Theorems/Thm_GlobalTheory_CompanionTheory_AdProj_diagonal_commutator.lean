@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AdProj_diagonal_commutator
 -- name    : GlobalTheory.CompanionTheory.AdProj.diagonal_commutator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:16:16.02949+00:00
 -- url     : https://prove2.me/theorems/24d6fd92-9193-46f0-9864-9af317da0eee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_CptModel_not_unitAt_two
 -- name    : GlobalTheory.CompanionTheory.Ar.CptModel.not_unitAt_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:17:55.118298+00:00
 -- url     : https://prove2.me/theorems/ef9ae8a0-335e-4113-8fd0-cce40e2ea75b

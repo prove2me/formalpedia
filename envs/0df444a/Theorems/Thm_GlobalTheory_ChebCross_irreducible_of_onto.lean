@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChebCross_irreducible_of_onto
 -- name    : GlobalTheory.ChebCross.irreducible_of_onto
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:09:15.627824+00:00
 -- url     : https://prove2.me/theorems/02e57706-19a8-4811-8d63-0678c7d0b49f

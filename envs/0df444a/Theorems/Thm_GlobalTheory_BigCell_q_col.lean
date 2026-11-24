@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BigCell_q_col
 -- name    : GlobalTheory.BigCell.q_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:01:28.310574+00:00
 -- url     : https://prove2.me/theorems/86017e19-962a-43ef-aba8-fd4c039fdf75

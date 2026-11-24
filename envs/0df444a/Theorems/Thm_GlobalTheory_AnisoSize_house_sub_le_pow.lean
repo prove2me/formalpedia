@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnisoSize_house_sub_le_pow
 -- name    : GlobalTheory.AnisoSize.house_sub_le_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:58:22.201355+00:00
 -- url     : https://prove2.me/theorems/6eb270c2-6b7d-484f-a5d8-31724052d9ad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_invL_le
 -- name    : GlobalTheory.BK.invL_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:00:16.958738+00:00
 -- url     : https://prove2.me/theorems/c30bc2ec-9716-42c4-bbc8-5ec0973c89f0

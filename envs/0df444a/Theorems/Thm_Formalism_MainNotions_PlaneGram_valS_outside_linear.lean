@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_valS_outside_linear
 -- name    : Formalism.MainNotions.PlaneGram.valS_outside_linear
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:46:24.454729+00:00
 -- url     : https://prove2.me/theorems/f5bf033a-81ea-4ec1-99df-519104a1ad36

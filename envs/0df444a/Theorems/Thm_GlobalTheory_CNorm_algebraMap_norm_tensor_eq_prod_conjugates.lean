@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_algebraMap_norm_tensor_eq_prod_conjugates
 -- name    : GlobalTheory.CNorm.algebraMap_norm_tensor_eq_prod_conjugates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:07:00.420833+00:00
 -- url     : https://prove2.me/theorems/3cc3b6a9-5cb6-4a7c-86d7-afb6419e824d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffExt_length_subquot
 -- name    : GlobalTheory.CoeffExt.length_subquot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:15:04.053285+00:00
 -- url     : https://prove2.me/theorems/88cee14f-8e22-4aa7-bb1e-f8c360458f6b

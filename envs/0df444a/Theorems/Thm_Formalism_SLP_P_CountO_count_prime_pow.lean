@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_P_CountO_count_prime_pow
 -- name    : Formalism.SLP.P.CountO.count_prime_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:29:04.692048+00:00
 -- url     : https://prove2.me/theorems/6ce06a74-d162-4976-9307-f7a48810cad5

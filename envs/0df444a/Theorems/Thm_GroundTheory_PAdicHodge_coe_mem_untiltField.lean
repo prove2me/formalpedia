@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_coe_mem_untiltField
 -- name    : GroundTheory.PAdicHodge.coe_mem_untiltField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:04:08.447256+00:00
 -- url     : https://prove2.me/theorems/c88c0820-c32d-4d29-8acb-c9e21085d9c8

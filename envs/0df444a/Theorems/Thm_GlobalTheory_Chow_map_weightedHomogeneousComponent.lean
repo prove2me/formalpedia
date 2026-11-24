@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_map_weightedHomogeneousComponent
 -- name    : GlobalTheory.Chow.map_weightedHomogeneousComponent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:09:59.253529+00:00
 -- url     : https://prove2.me/theorems/4fc66281-0535-4703-ad64-406302c91f94

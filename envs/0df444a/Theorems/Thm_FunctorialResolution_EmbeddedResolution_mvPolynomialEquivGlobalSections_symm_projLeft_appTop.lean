@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_mvPolynomialEquivGlobalSections_symm_projLeft_appTop
 -- name    : FunctorialResolution.EmbeddedResolution.mvPolynomialEquivGlobalSections_symm_projLeft_appTop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:49:32.031636+00:00
 -- url     : https://prove2.me/theorems/91f34f4f-bd4d-4083-90a9-bae663335ce7

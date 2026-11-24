@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CartierDual_pointsEquiv_eq_iff
 -- name    : GlobalTheory.CartierDual.pointsEquiv_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:06:58.391436+00:00
 -- url     : https://prove2.me/theorems/719bf433-c912-4443-acdf-9ac135de1185

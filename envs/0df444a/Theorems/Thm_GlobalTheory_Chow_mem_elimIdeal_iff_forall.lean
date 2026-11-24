@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_mem_elimIdeal_iff_forall
 -- name    : GlobalTheory.Chow.mem_elimIdeal_iff_forall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:10:14.683348+00:00
 -- url     : https://prove2.me/theorems/c8e16442-fabe-46b1-9121-0a62836acefb

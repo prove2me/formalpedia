@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_gensModel
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.gensModel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:06:09.521103+00:00
 -- url     : https://prove2.me/theorems/8a9d3d7b-a8d1-4d0f-b67b-ce7096672800

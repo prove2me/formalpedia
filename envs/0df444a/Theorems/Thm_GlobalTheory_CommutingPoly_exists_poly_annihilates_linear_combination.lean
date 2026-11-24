@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommutingPoly_exists_poly_annihilates_linear_combination
 -- name    : GlobalTheory.CommutingPoly.exists_poly_annihilates_linear_combination
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:16:48.425002+00:00
 -- url     : https://prove2.me/theorems/8716f7bd-9a18-4e84-a93c-5c91d9f5238b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcConst_mvPolynomial_const
 -- name    : GlobalTheory.ArcConst.mvPolynomial_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:59:29.282837+00:00
 -- url     : https://prove2.me/theorems/f2ab200a-9d4d-48aa-9ea0-0748ce38513b

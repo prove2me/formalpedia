@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_fdegDimV
 -- name    : Formalism.QuantumDeterminants.fdegDimV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:19:01.038901+00:00
 -- url     : https://prove2.me/theorems/bbd1a086-3425-4332-afc6-ca35e09e9c58

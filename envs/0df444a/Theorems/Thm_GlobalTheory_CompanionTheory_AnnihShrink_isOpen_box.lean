@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AnnihShrink_isOpen_box
 -- name    : GlobalTheory.CompanionTheory.AnnihShrink.isOpen_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:17:51.190851+00:00
 -- url     : https://prove2.me/theorems/dc2003c2-f0e6-4bab-921f-ccd8b129ab49

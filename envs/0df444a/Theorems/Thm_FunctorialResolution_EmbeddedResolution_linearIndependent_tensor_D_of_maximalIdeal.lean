@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_linearIndependent_tensor_D_of_maximalIdeal
 -- name    : FunctorialResolution.EmbeddedResolution.linearIndependent_tensor_D_of_maximalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:47:52.659078+00:00
 -- url     : https://prove2.me/theorems/e45240ce-2c76-4076-8990-279e07911e19

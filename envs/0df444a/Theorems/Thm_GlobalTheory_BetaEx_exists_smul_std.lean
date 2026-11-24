@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BetaEx_exists_smul_std
 -- name    : GlobalTheory.BetaEx.exists_smul_std
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:02:04.092354+00:00
 -- url     : https://prove2.me/theorems/37578b01-e1f9-4ed3-8013-3446590a0ba6

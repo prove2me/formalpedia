@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_GlobalBoundRefinements_P_theorem_B_entry_formula
 -- name    : Formalism.SLP.GlobalBoundRefinements.P.theorem_B_entry_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:28:50.540261+00:00
 -- url     : https://prove2.me/theorems/a009a40d-4cf0-4afe-b200-33228eb50062

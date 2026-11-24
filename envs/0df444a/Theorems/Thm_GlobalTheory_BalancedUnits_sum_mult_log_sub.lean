@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BalancedUnits_sum_mult_log_sub
 -- name    : GlobalTheory.BalancedUnits.sum_mult_log_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:59:20.715712+00:00
 -- url     : https://prove2.me/theorems/875cc30f-9fb8-4f15-b591-76a6b5c19f44

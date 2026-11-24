@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_eq_zero_of_mem_elimIdeal_of_forall_meets
 -- name    : GlobalTheory.Chow.eq_zero_of_mem_elimIdeal_of_forall_meets
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:09:51.870435+00:00
 -- url     : https://prove2.me/theorems/1d4c327b-db3b-485a-a015-dbded21dd5cc

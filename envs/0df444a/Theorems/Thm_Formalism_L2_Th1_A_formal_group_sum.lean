@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_formal_group_sum
 -- name    : Formalism.L2.Th1.A.formal_group_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:37.377615+00:00
 -- url     : https://prove2.me/theorems/ca3c61c4-414f-4ff8-b477-fbcfeca5c6e9

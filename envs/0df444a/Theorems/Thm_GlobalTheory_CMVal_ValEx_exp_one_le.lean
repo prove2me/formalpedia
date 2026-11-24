@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_ValEx_exp_one_le
 -- name    : GlobalTheory.CMVal.ValEx.exp_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:06:35.748609+00:00
 -- url     : https://prove2.me/theorems/2224f738-3ef5-4611-881c-e3ba3114e2d5

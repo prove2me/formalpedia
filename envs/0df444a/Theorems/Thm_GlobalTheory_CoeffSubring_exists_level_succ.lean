@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffSubring_exists_level_succ
 -- name    : GlobalTheory.CoeffSubring.exists_level_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:15:08.472606+00:00
 -- url     : https://prove2.me/theorems/d61998a8-57a3-47d1-bc62-2abe8aa1a123

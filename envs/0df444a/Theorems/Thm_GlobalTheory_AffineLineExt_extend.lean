@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineLineExt_extend
 -- name    : GlobalTheory.AffineLineExt.extend
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:54:54.142984+00:00
 -- url     : https://prove2.me/theorems/44d33e8f-fb26-46e9-8045-8d7b43b2c2aa

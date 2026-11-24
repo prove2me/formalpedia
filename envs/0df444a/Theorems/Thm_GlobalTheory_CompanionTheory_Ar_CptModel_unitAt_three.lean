@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_CptModel_unitAt_three
 -- name    : GlobalTheory.CompanionTheory.Ar.CptModel.unitAt_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:18:10.483381+00:00
 -- url     : https://prove2.me/theorems/84018c89-0a80-4acf-9bc8-0722d5bd6189

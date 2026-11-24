@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIrreducible_toRepresentation_of_isAtom
 -- name    : GlobalTheory.isIrreducible_toRepresentation_of_isAtom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:58:51.701633+00:00
 -- url     : https://prove2.me/theorems/46bd8e16-9973-470a-ac04-1aec3e2c8cad

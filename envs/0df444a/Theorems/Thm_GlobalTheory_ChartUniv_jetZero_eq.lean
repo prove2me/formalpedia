@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartUniv_jetZero_eq
 -- name    : GlobalTheory.ChartUniv.jetZero_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:10:17.61841+00:00
 -- url     : https://prove2.me/theorems/baacbfd6-81d5-4d09-bdf1-b7e0147eec74

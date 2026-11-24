@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_valS_C_mul_le
 -- name    : Formalism.MainNotions.PlaneGram.valS_C_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:06:01.112232+00:00
 -- url     : https://prove2.me/theorems/3efc10a8-ce76-4d39-9888-7286ca0a1087

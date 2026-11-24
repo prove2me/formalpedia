@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_entries_le_of_energy_le
 -- name    : GlobalTheory.ClassFin.entries_le_of_energy_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:11:56.909027+00:00
 -- url     : https://prove2.me/theorems/8cd73740-ed1c-4e2a-bb2e-c17b0f17e580

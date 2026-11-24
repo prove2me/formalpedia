@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_EtaleWeightGaps_ball_mono
 -- name    : Formalism.MainNotions.Gaps.EtaleWeightGaps.ball_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:40:44.161797+00:00
 -- url     : https://prove2.me/theorems/b4773e78-df68-4309-bb30-b07a526ae7a1

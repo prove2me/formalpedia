@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BaseRing_natCast_mul_mem_of_isIntegral
 -- name    : GlobalTheory.BaseRing.natCast_mul_mem_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:00:28.562037+00:00
 -- url     : https://prove2.me/theorems/e256ecd9-e3d3-4606-901b-611c7791308c

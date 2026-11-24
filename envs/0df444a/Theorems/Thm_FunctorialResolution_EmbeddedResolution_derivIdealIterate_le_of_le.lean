@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_derivIdealIterate_le_of_le
 -- name    : FunctorialResolution.EmbeddedResolution.derivIdealIterate_le_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:20:14.03689+00:00
 -- url     : https://prove2.me/theorems/8cf4679f-12d5-46d9-9de6-38255a7f4ab8

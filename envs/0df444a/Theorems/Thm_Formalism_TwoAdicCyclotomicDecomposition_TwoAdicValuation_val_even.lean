@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_TwoAdicValuation_val_even
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.TwoAdicValuation.val_even
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:58:36.470881+00:00
 -- url     : https://prove2.me/theorems/42bd442e-dcf0-4e3d-8721-cce71915da99

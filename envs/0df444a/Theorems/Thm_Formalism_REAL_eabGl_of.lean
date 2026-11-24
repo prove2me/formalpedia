@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_eabGl_of
 -- name    : Formalism.REAL.eabGl_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:07:25.375249+00:00
 -- url     : https://prove2.me/theorems/01af3149-a6b9-4bf9-aa8c-d5e15bf446d4

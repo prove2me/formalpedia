@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_comap_coordIdeal_singleton_of_notMem
 -- name    : FunctorialResolution.EmbeddedResolution.comap_coordIdeal_singleton_of_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:46:41.922181+00:00
 -- url     : https://prove2.me/theorems/da04fd12-5b18-4ad1-9f6c-7ae264d5f056

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbsFubini_core
 -- name    : GlobalTheory.AbsFubini.core
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:42:42.609926+00:00
 -- url     : https://prove2.me/theorems/865306a4-ca2e-4de6-b293-5400aab25e7a

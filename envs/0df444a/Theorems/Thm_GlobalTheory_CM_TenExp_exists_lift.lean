@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CM_TenExp_exists_lift
 -- name    : GlobalTheory.CM.TenExp.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:03:09.893602+00:00
 -- url     : https://prove2.me/theorems/898f8ffb-8fc7-4b30-a817-b9a03fb1c784

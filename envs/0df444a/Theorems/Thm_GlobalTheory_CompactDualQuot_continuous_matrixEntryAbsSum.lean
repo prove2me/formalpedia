@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactDualQuot_continuous_matrixEntryAbsSum
 -- name    : GlobalTheory.CompactDualQuot.continuous_matrixEntryAbsSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:17:12.051482+00:00
 -- url     : https://prove2.me/theorems/11700158-ebc6-4162-b8f5-68be9f36774d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelUMod_UpLatIndex_lt_one_iff
 -- name    : GlobalTheory.BorelUMod.UpLatIndex.lt_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:01:48.645539+00:00
 -- url     : https://prove2.me/theorems/118d84f0-67fb-429a-b226-7c46fcd8c98e

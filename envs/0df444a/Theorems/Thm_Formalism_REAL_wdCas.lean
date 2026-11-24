@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_wdCas
 -- name    : Formalism.REAL.wdCas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:46:04.920629+00:00
 -- url     : https://prove2.me/theorems/dc19006a-1e9e-4a00-b56d-6bec1c5d9ef5

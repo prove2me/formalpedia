@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_linearForm_integral_of_one_tmul_mem_adelicCompletion
 -- name    : GlobalTheory.AdLat.linearForm_integral_of_one_tmul_mem_adelicCompletion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:54:04.353573+00:00
 -- url     : https://prove2.me/theorems/f2c70a2f-8ba2-4b85-9957-d2fbcb5e9535

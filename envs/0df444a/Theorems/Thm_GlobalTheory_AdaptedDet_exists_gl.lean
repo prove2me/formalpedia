@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdaptedDet_exists_gl
 -- name    : GlobalTheory.AdaptedDet.exists_gl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:54:34.647809+00:00
 -- url     : https://prove2.me/theorems/49b407f1-effa-4845-bdda-efd169e5feca

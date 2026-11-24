@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_RT_CellSplit_isUnit_det_dbl
 -- name    : GlobalTheory.CompanionTheory.Ar.RT.CellSplit.isUnit_det_dbl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:20:58.921795+00:00
 -- url     : https://prove2.me/theorems/b5122c46-e748-41ee-adbf-79f780505c6e

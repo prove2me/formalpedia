@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cartier_SecMaps_nonzeroLocus_eq
 -- name    : GlobalTheory.Cartier.SecMaps.nonzeroLocus_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:06:00.932806+00:00
 -- url     : https://prove2.me/theorems/352e1264-69e5-4153-b8ee-087521466222

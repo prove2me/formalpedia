@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_vala_coefOut
 -- name    : Formalism.MainNotions.PlaneGram.vala_coefOut
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:46:45.943808+00:00
 -- url     : https://prove2.me/theorems/0bb6c7e9-9283-489a-b504-25349aab0089

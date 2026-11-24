@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_ker_eq_comap_ker_of_isPullback_of_flat
 -- name    : FunctorialResolution.EmbeddedResolution.ker_eq_comap_ker_of_isPullback_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:06:58.097803+00:00
 -- url     : https://prove2.me/theorems/b82f3a84-c7be-485e-a901-934255a56bcb

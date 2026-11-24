@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ApproxUnit_avg_le
 -- name    : GlobalTheory.CompanionTheory.ApproxUnit.avg_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:17:46.260191+00:00
 -- url     : https://prove2.me/theorems/e12b0e37-09ca-449b-8b67-b044553bd9b6

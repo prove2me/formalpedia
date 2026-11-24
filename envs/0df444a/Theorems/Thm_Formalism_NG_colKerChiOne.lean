@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_colKerChiOne
 -- name    : Formalism.NG.colKerChiOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:15:20.209169+00:00
 -- url     : https://prove2.me/theorems/347b74cc-8085-485f-8efd-578ec957a57b

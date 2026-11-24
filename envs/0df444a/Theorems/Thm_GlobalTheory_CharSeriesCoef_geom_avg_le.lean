@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharSeriesCoef_geom_avg_le
 -- name    : GlobalTheory.CharSeriesCoef.geom_avg_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:07:49.35887+00:00
 -- url     : https://prove2.me/theorems/11a98869-9a8f-476c-aa1b-1b1545f94f65

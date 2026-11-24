@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassParam_HidaSetting_det_gram_fixed
 -- name    : GlobalTheory.ClassParam.HidaSetting.det_gram_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:13:40.288838+00:00
 -- url     : https://prove2.me/theorems/1d294b5b-a080-4645-aa86-27fd3dea6b99

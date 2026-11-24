@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMExtend_ringHom_ext_orderC
 -- name    : GlobalTheory.CMExtend.ringHom_ext_orderC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:02:47.729019+00:00
 -- url     : https://prove2.me/theorems/1b18d998-a883-4892-a49a-c86b593b6ae3

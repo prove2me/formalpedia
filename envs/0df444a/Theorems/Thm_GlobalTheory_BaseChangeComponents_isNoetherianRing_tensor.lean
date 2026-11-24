@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BaseChangeComponents_isNoetherianRing_tensor
 -- name    : GlobalTheory.BaseChangeComponents.isNoetherianRing_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:59:26.934451+00:00
 -- url     : https://prove2.me/theorems/4e134ca0-97d5-4afb-99ae-3322de6c744f

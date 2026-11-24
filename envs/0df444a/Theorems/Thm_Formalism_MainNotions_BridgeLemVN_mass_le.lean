@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLemVN_mass_le
 -- name    : Formalism.MainNotions.BridgeLemVN.mass_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:54:55.922162+00:00
 -- url     : https://prove2.me/theorems/958ceaf4-7b69-4662-ad91-fd8ae3e76376

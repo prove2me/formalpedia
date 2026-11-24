@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_P_sesquilinear_determinant_holds
 -- name    : Formalism.SLP.P.sesquilinear_determinant_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:29:03.76042+00:00
 -- url     : https://prove2.me/theorems/c3f86345-e4ca-45c4-8bc9-cb798df67458

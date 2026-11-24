@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Adelic_ModulusAction_exists_continuous_modulus
 -- name    : GlobalTheory.CompanionTheory.Adelic.ModulusAction.exists_continuous_modulus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:16:43.358409+00:00
 -- url     : https://prove2.me/theorems/229ec591-c6e5-4d3a-a9d0-9c2abec83e73

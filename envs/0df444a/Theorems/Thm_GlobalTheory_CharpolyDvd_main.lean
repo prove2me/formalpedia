@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharpolyDvd_main
 -- name    : GlobalTheory.CharpolyDvd.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:10:28.909682+00:00
 -- url     : https://prove2.me/theorems/d3091246-6b1c-4bbd-b7b3-934343f024f8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_isClosed_isLog
 -- name    : GlobalTheory.ClassFin.isClosed_isLog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:11:35.888262+00:00
 -- url     : https://prove2.me/theorems/ade55b00-08fe-4205-84a8-fe7fb2b144ef

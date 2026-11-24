@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_ZCalc_rk_eq_trace
 -- name    : GlobalTheory.BadShare.ZCalc.rk_eq_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:59:46.175526+00:00
 -- url     : https://prove2.me/theorems/aab47335-f42e-4beb-9335-dabae0a9dbdf

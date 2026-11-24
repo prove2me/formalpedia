@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_Segre_nonzeroLocus_boxSec
 -- name    : GlobalTheory.AbLaw.Segre.nonzeroLocus_boxSec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:41:41.470688+00:00
 -- url     : https://prove2.me/theorems/f0e36484-3b74-4ca3-9e0d-2fdcb843e427

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelModulus_leftMat_det
 -- name    : GlobalTheory.BorelModulus.leftMat_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:02:00.657923+00:00
 -- url     : https://prove2.me/theorems/442b2595-d4fb-4c4a-ae7a-262ec13972ce

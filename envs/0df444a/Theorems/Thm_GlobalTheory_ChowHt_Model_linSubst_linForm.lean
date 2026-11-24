@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChowHt_Model_linSubst_linForm
 -- name    : GlobalTheory.ChowHt.Model.linSubst_linForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:09:57.598729+00:00
 -- url     : https://prove2.me/theorems/ced05792-c4bb-4876-a5fe-415330c4e08a

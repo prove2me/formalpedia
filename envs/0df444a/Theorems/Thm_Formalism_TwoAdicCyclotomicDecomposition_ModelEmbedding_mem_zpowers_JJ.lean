@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_ModelEmbedding_mem_zpowers_JJ
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.ModelEmbedding.mem_zpowers_JJ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:06:03.526791+00:00
 -- url     : https://prove2.me/theorems/77043b18-7f76-4079-896e-97c77ee1dabd

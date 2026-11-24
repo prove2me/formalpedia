@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Flat_IsUnitAn_const_mul
 -- name    : GlobalTheory.CompanionTheory.Ar.Flat.IsUnitAn.const_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:18:45.982982+00:00
 -- url     : https://prove2.me/theorems/89e04565-13d1-4e83-a06a-97ce3e5df45d

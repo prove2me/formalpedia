@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_character_transportRep
 -- name    : GlobalTheory.BI.character_transportRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:57:54.69434+00:00
 -- url     : https://prove2.me/theorems/f412e20f-adf7-48ce-a1cf-deffd2294dc4

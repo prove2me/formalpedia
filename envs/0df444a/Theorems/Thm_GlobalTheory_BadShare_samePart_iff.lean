@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_samePart_iff
 -- name    : GlobalTheory.BadShare.samePart_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:59:27.390025+00:00
 -- url     : https://prove2.me/theorems/a815e97c-ef44-4ced-992a-84bda72fe6ca

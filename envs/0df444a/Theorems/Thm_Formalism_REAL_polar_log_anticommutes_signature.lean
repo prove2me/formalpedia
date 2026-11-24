@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_polar_log_anticommutes_signature
 -- name    : Formalism.REAL.polar_log_anticommutes_signature
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:44.459692+00:00
 -- url     : https://prove2.me/theorems/43a9d902-7453-4f0d-938f-b348a3e59fcd

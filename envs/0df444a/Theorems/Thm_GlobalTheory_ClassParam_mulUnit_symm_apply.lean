@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassParam_mulUnit_symm_apply
 -- name    : GlobalTheory.ClassParam.mulUnit_symm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:13:26.199372+00:00
 -- url     : https://prove2.me/theorems/bb8d4851-364b-4761-9b62-497efb127efa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BlockInvertibleLocal_exists_linearMap_injective_add_comp
 -- name    : GlobalTheory.BlockInvertibleLocal.exists_linearMap_injective_add_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:01:03.079529+00:00
 -- url     : https://prove2.me/theorems/ffab5c01-8c66-4e52-b081-ca3278499954

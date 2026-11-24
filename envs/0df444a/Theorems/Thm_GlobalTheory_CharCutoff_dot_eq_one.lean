@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharCutoff_dot_eq_one
 -- name    : GlobalTheory.CharCutoff.dot_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:08:12.649941+00:00
 -- url     : https://prove2.me/theorems/7b9555ec-054e-4ff2-9905-c01fb0faf882

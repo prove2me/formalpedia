@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_GlobalBoundRefinements_Final_local_integral_entries_of_signature_preserving
 -- name    : Formalism.SLP.GlobalBoundRefinements.Final.local_integral_entries_of_signature_preserving
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:41:26.704368+00:00
 -- url     : https://prove2.me/theorems/08341386-9c19-4e7f-a4c4-abf5b946ba05

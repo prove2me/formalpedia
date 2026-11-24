@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_exists_etale_surjective_affine_cover_baseChange
 -- name    : FunctorialResolution.EmbeddedResolution.exists_etale_surjective_affine_cover_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:46:46.682616+00:00
 -- url     : https://prove2.me/theorems/c7cf5f31-7be1-40e6-bb78-bf2ac8f2b5d3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_finite_supp_translate
 -- name    : Formalism.UG.P.finite_supp_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:31:30.640799+00:00
 -- url     : https://prove2.me/theorems/b52b8bdb-db80-453c-9711-d03964597dd7

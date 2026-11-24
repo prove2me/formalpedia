@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isIso_restrict_lastStructMap_of_centersLieOver
 -- name    : FunctorialResolution.EmbeddedResolution.isIso_restrict_lastStructMap_of_centersLieOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:48:00.243002+00:00
 -- url     : https://prove2.me/theorems/1c9b4624-557b-4607-b170-90c2e35db11e

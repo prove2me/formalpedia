@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CayleyRat_exists_mem_GQ0_eq_cayley_of_skew_hermitian
 -- name    : GlobalTheory.CayleyRat.exists_mem_GQ0_eq_cayley_of_skew_hermitian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:06:33.665993+00:00
 -- url     : https://prove2.me/theorems/e2817b40-1692-46dc-8226-ac00e481d7ed

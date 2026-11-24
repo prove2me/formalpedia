@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_level_subgroup_finite_adelic_standard
 -- name    : Formalism.UG.P.level_subgroup_finite_adelic_standard
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:26:29.878782+00:00
 -- url     : https://prove2.me/theorems/17e76034-8ab8-468c-9833-ea3291267466

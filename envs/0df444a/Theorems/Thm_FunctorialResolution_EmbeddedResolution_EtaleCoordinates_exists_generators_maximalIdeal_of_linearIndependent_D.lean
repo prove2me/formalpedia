@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EtaleCoordinates_exists_generators_maximalIdeal_of_linearIndependent_D
 -- name    : FunctorialResolution.EmbeddedResolution.EtaleCoordinates.exists_generators_maximalIdeal_of_linearIndependent_D
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:46:13.573526+00:00
 -- url     : https://prove2.me/theorems/2a918395-0e30-43bd-afd2-6ec7030aebbd

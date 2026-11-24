@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SL_Final_eichInv
 -- name    : Formalism.SL.Final.eichInv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:10:05.299932+00:00
 -- url     : https://prove2.me/theorems/96435754-49ce-4710-b7b9-91549d4ca03b

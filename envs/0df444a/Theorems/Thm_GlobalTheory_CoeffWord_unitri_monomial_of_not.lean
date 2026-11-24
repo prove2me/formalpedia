@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffWord_unitri_monomial_of_not
 -- name    : GlobalTheory.CoeffWord.unitri_monomial_of_not
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:15:23.073426+00:00
 -- url     : https://prove2.me/theorems/2fa007f1-c4a9-4a03-9de0-f3aca58dba10

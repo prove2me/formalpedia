@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArtinKernel_ex_translBy
 -- name    : GlobalTheory.ArtinKernel.ex_translBy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:59:06.768834+00:00
 -- url     : https://prove2.me/theorems/ed4e151d-496a-4a1e-94cc-8c1d981005ec

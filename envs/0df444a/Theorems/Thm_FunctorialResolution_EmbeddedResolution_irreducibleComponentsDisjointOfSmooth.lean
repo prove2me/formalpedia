@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_irreducibleComponentsDisjointOfSmooth
 -- name    : FunctorialResolution.EmbeddedResolution.irreducibleComponentsDisjointOfSmooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:47:46.321833+00:00
 -- url     : https://prove2.me/theorems/df8c6f35-df6b-4d92-aac0-6e33b00d9883

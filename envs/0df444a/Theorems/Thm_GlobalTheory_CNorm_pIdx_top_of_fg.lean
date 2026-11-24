@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_pIdx_top_of_fg
 -- name    : GlobalTheory.CNorm.pIdx_top_of_fg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:06:37.332687+00:00
 -- url     : https://prove2.me/theorems/c08ff1ee-2750-4bd4-ad5d-41a7b028cea3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CapelliDiff_Tm_add_one
 -- name    : GlobalTheory.CapelliDiff.Tm_add_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:06:57.580691+00:00
 -- url     : https://prove2.me/theorems/5a993274-cdb5-46a1-b294-56d2789d82d1

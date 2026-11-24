@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_functional_equation_subst_vector
 -- name    : Formalism.FG.functional_equation_subst_vector
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:41:04.802867+00:00
 -- url     : https://prove2.me/theorems/f2619ab9-0d7d-49b0-80c7-364c3b9dadee

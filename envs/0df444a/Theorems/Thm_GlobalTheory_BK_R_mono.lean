@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_R_mono
 -- name    : GlobalTheory.BK.R_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:00:32.577412+00:00
 -- url     : https://prove2.me/theorems/d7dc617b-8214-4e38-a0ae-d9c21645a11c

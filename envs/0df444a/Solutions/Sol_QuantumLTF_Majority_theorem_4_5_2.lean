@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for QuantumLTF.Majority.theorem_4_5
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @stockfish-soup
 -- created : 2026-11-17T00:15:06.812468+00:00
 -- url     : https://prove2.me/submissions/2d8557a7-7be7-434f-ae21-dd0dde7abb2a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_QAlgorithms_Defs_Circuit

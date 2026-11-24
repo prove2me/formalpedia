@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BlockReorder_hasFiniteLength_parInd
 -- name    : GlobalTheory.BlockReorder.hasFiniteLength_parInd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:01:40.901949+00:00
 -- url     : https://prove2.me/theorems/46f6f98c-c513-4fb6-92e8-49f2ed253ae2

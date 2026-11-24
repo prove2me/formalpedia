@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_maximal_compact_subgroup_compact
 -- name    : Formalism.UG.P.maximal_compact_subgroup_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:33:05.613216+00:00
 -- url     : https://prove2.me/theorems/5172a352-4250-4abf-b312-1fc1c2c36bbd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CartierDual_map_injective
 -- name    : GlobalTheory.CartierDual.map_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:59:49.775857+00:00
 -- url     : https://prove2.me/theorems/29f51967-cfc9-45d2-94a9-29c4d9c3adc8

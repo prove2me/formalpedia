@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_GlobalClassField_isFrobAt_iff_forall
 -- name    : ReciprocityTheory.DiscreteGroups.GlobalClassField.isFrobAt_iff_forall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:58:30.510868+00:00
 -- url     : https://prove2.me/theorems/c768b73a-cc7b-4470-958f-9f0c4559d557

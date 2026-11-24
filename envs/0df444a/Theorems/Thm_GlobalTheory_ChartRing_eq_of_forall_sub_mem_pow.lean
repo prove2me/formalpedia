@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartRing_eq_of_forall_sub_mem_pow
 -- name    : GlobalTheory.ChartRing.eq_of_forall_sub_mem_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:09:26.424561+00:00
 -- url     : https://prove2.me/theorems/095d8e9e-0955-4259-9032-39d83b484839

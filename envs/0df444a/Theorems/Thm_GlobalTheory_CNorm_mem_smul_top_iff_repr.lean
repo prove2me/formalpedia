@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_mem_smul_top_iff_repr
 -- name    : GlobalTheory.CNorm.mem_smul_top_iff_repr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:06:12.912513+00:00
 -- url     : https://prove2.me/theorems/36f1d8c4-1189-47ee-84ad-e84c7f0ed67e

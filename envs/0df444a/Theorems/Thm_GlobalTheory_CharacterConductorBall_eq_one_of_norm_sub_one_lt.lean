@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharacterConductorBall_eq_one_of_norm_sub_one_lt
 -- name    : GlobalTheory.CharacterConductorBall.eq_one_of_norm_sub_one_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:09:47.205807+00:00
 -- url     : https://prove2.me/theorems/0c26c24b-40dc-49f3-a708-3f4afa6107cb

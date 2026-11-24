@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BinaryFormUniversal_binary_form_universal
 -- name    : GlobalTheory.BinaryFormUniversal.binary_form_universal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:01:05.746775+00:00
 -- url     : https://prove2.me/theorems/2144a9a4-8fae-427a-b5b6-3b3614ea25fd

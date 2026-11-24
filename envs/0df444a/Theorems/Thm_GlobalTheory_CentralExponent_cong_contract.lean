@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CentralExponent_cong_contract
 -- name    : GlobalTheory.CentralExponent.cong_contract
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:08:18.977842+00:00
 -- url     : https://prove2.me/theorems/f14fdec1-10bf-473e-a868-bee5a37aa439

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_gramLB_posDef
 -- name    : GlobalTheory.ClassFin.gramLB_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:11:05.727628+00:00
 -- url     : https://prove2.me/theorems/be632d42-9530-4e8f-991f-5d4f3f1a6f60

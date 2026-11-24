@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BetaEx_frac_of_bdd
 -- name    : GlobalTheory.BetaEx.frac_of_bdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:02:37.213285+00:00
 -- url     : https://prove2.me/theorems/d1fab8f5-79c2-404f-b407-76c40f511dfb

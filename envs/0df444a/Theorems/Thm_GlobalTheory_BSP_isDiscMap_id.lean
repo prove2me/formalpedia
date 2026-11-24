@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BSP_isDiscMap_id
 -- name    : GlobalTheory.BSP.isDiscMap_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:00:56.370949+00:00
 -- url     : https://prove2.me/theorems/843bcdff-7d19-425d-b0b2-037ae8dedce2

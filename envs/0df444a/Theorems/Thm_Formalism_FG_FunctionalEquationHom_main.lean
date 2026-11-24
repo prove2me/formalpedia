@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_FunctionalEquationHom_main
 -- name    : Formalism.FG.FunctionalEquationHom.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:08:17.00591+00:00
 -- url     : https://prove2.me/theorems/01328ba3-8c0a-453d-a4e2-12a64c3b7d43

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_positiveArraysInvariant_holds
 -- name    : Formalism.REAL.positiveArraysInvariant_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:24:04.959711+00:00
 -- url     : https://prove2.me/theorems/57ddd8c8-3ef1-4465-b49c-d47293b2becd

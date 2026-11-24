@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_CoefficientSupportCongruences_frobenius_partial_coboundary_bound
 -- name    : Formalism.InvariantFactorPaths.G7.CoefficientSupportCongruences.frobenius_partial_coboundary_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:21:55.213809+00:00
 -- url     : https://prove2.me/theorems/a40f648d-4f05-42ff-8e37-6d1e9041a9a5

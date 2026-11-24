@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArtinKernel_snd_preimage_le
 -- name    : GlobalTheory.ArtinKernel.snd_preimage_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:59:04.143833+00:00
 -- url     : https://prove2.me/theorems/5e3e3407-3508-45f8-a641-580b60617c9a

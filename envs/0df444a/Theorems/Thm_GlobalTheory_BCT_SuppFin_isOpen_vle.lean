@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BCT_SuppFin_isOpen_vle
 -- name    : GlobalTheory.BCT.SuppFin.isOpen_vle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:57:41.222089+00:00
 -- url     : https://prove2.me/theorems/7b8ccb9a-b3e6-48e7-b459-d08fe23cb7af

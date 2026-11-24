@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassParam_mk_eq_iff_normL
 -- name    : GlobalTheory.ClassParam.mk_eq_iff_normL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:13:20.539624+00:00
 -- url     : https://prove2.me/theorems/e65f8336-fdb7-4b9d-92eb-278e86c4f94f

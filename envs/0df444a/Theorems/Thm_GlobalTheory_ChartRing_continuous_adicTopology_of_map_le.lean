@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartRing_continuous_adicTopology_of_map_le
 -- name    : GlobalTheory.ChartRing.continuous_adicTopology_of_map_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:09:11.384844+00:00
 -- url     : https://prove2.me/theorems/ad8a8f3c-aa48-41e0-910d-56c1ebbab1e2

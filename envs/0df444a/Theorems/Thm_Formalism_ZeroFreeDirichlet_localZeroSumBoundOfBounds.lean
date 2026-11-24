@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_localZeroSumBoundOfBounds
 -- name    : Formalism.ZeroFreeDirichlet.localZeroSumBoundOfBounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:42:27.900364+00:00
 -- url     : https://prove2.me/theorems/7cae94ff-5e6c-4cce-bce7-24ea24f841ac

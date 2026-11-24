@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_coboundaries_le_finiteCocycles
 -- name    : Formalism.WeaklyAdmissibleFiltrations.coboundaries_le_finiteCocycles
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:40:27.270327+00:00
 -- url     : https://prove2.me/theorems/157acc8f-ea84-4c04-8364-a122ba7542d9

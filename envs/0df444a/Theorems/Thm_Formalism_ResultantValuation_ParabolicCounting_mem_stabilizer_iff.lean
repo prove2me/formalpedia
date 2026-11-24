@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ResultantValuation_ParabolicCounting_mem_stabilizer_iff
 -- name    : Formalism.ResultantValuation.ParabolicCounting.mem_stabilizer_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:27:06.208404+00:00
 -- url     : https://prove2.me/theorems/75ddcde6-d790-4b1d-911e-0794089bce89

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMTransference_norm_emb_sub_sq
 -- name    : GlobalTheory.CMTransference.norm_emb_sub_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:04:45.888629+00:00
 -- url     : https://prove2.me/theorems/20350a26-3ecb-44f5-a2ca-4c8b88d371d1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chamber_mem_parP
 -- name    : GlobalTheory.Chamber.mem_parP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:07:58.057906+00:00
 -- url     : https://prove2.me/theorems/9866d475-e5cd-4c08-a627-aa3fe4b1adca

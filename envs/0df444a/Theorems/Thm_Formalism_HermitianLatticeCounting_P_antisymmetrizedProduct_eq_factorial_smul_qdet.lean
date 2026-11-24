@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_antisymmetrizedProduct_eq_factorial_smul_qdet
 -- name    : Formalism.HermitianLatticeCounting.P.antisymmetrizedProduct_eq_factorial_smul_qdet
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:06.117801+00:00
 -- url     : https://prove2.me/theorems/0d75af00-e3b3-4b97-b512-004a926d9081

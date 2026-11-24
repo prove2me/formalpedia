@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_entries_bounded_of_conj_spanning_bounded
 -- name    : GlobalTheory.ClassFin.entries_bounded_of_conj_spanning_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:11:09.193095+00:00
 -- url     : https://prove2.me/theorems/d256e5f7-722c-44ea-bcc9-f596a5350431

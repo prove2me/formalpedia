@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_mul_orderAt_le_orderAt_pow
 -- name    : FunctorialResolution.EmbeddedResolution.mul_orderAt_le_orderAt_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:48:20.376894+00:00
 -- url     : https://prove2.me/theorems/bc124b92-2d81-410b-b3a3-fdf7cafe6536

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_herb_lattice
 -- name    : GlobalTheory.CNorm.herb_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:06:29.491068+00:00
 -- url     : https://prove2.me/theorems/2c462a7f-3188-452a-bf80-07ec99b36bac

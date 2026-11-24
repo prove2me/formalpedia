@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_jumpsIcc_and_subTopBot
 -- name    : Formalism.WeaklyAdmissibleFiltrations.jumpsIcc_and_subTopBot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:39:42.196806+00:00
 -- url     : https://prove2.me/theorems/94d59d39-bc8b-486f-83b2-c4ce07d048b0

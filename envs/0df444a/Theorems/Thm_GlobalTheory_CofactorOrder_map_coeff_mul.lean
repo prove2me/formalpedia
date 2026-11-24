@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CofactorOrder_map_coeff_mul
 -- name    : GlobalTheory.CofactorOrder.map_coeff_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:14:44.874902+00:00
 -- url     : https://prove2.me/theorems/d00629fb-a9cd-4145-bff1-b1a98bc5db8a

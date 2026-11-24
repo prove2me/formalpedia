@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_deep_binomial
 -- name    : GlobalTheory.CNorm.deep_binomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:06:41.178452+00:00
 -- url     : https://prove2.me/theorems/cf17a4a7-0277-4e84-a282-99ddf60aad26

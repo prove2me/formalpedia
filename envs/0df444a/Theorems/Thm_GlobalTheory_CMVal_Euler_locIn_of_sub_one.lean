@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_locIn_of_sub_one
 -- name    : GlobalTheory.CMVal.Euler.locIn_of_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:05:21.369992+00:00
 -- url     : https://prove2.me/theorems/6b36c0f8-cd11-4bb3-91e0-74b3a5f8fe57

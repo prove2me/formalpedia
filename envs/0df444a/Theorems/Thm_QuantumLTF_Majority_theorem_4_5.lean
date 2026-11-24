@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumLTF_Majority_theorem_4_5
 -- name    : QuantumLTF.Majority.theorem_4_5
--- status  : Open
+-- status  : Proved
 -- author  : @stockfish-soup
 -- created : 2026-11-14T17:48:50.785198+00:00
 -- url     : https://prove2.me/theorems/1888e157-05bb-406d-84f0-953c0b0faf4a

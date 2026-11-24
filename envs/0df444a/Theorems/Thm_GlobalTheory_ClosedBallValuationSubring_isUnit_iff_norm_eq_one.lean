@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClosedBallValuationSubring_isUnit_iff_norm_eq_one
 -- name    : GlobalTheory.ClosedBallValuationSubring.isUnit_iff_norm_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:13:42.386313+00:00
 -- url     : https://prove2.me/theorems/47ca7ad7-d192-4ed8-b4ce-37bbdb1b301d

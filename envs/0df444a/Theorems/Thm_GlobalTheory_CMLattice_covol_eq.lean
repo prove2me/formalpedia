@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMLattice_covol_eq
 -- name    : GlobalTheory.CMLattice.covol_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:03:11.889922+00:00
 -- url     : https://prove2.me/theorems/ffa021a8-9174-4dcd-ade5-ddc17893b88b

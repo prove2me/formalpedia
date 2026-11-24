@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_HarmMin_log_herm
 -- name    : GlobalTheory.ClassFin.HarmMin.log_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:09:19.303973+00:00
 -- url     : https://prove2.me/theorems/8c662336-a6cf-4166-b878-f05f808b3cee

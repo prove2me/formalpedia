@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_card_quot_span_algebraMap
 -- name    : GlobalTheory.CNorm.card_quot_span_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:07:28.456076+00:00
 -- url     : https://prove2.me/theorems/30fdf8ae-2f57-4429-9844-c27fc5a0124f

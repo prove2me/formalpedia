@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_herb_relIndex_map_range
 -- name    : GlobalTheory.CNorm.herb_relIndex_map_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:06:48.452129+00:00
 -- url     : https://prove2.me/theorems/2c0fd366-0d07-43f2-ad22-348939ac9a82

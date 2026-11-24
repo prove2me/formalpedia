@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_supInfGridReflectedVectorLawV1
 -- name    : Kyprianou.Ch03.supInfGridReflectedVectorLawV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T10:08:42.762856+00:00
 -- url     : https://prove2.me/theorems/bd89161c-5128-400b-8c2b-a65414dab7a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_mem_kNorm
 -- name    : GlobalTheory.CNorm.mem_kNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:06:42.417449+00:00
 -- url     : https://prove2.me/theorems/6dc698fc-1bd4-4500-9bcb-9cd6cfd3a21a

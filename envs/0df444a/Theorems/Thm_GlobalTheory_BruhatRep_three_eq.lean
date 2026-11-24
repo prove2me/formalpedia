@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BruhatRep_three_eq
 -- name    : GlobalTheory.BruhatRep.three_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:02:40.604867+00:00
 -- url     : https://prove2.me/theorems/ccc92c56-a2aa-4a87-a1bc-c3bdc26fb047

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ThetaLiftIndependence_GaussOperatorLemmas_core
 -- name    : Formalism.ThetaLiftIndependence.GaussOperatorLemmas.core
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:22:10.834252+00:00
 -- url     : https://prove2.me/theorems/86006da5-a783-4c90-94b3-99dd7c48ea39

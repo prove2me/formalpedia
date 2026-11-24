@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BetaEx_span_image_smul
 -- name    : GlobalTheory.BetaEx.span_image_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:02:06.736025+00:00
 -- url     : https://prove2.me/theorems/2e214a5b-6473-468d-a9d6-a6bdae5b82ed

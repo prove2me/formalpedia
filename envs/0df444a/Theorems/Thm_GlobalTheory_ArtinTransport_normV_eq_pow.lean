@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArtinTransport_normV_eq_pow
 -- name    : GlobalTheory.ArtinTransport.normV_eq_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:58:14.764451+00:00
 -- url     : https://prove2.me/theorems/f3ab4c9d-a00e-4da1-812e-3d475dde927f

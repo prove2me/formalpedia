@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_isChar_monoidHom_complex
 -- name    : GlobalTheory.BI.isChar_monoidHom_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:00:45.772714+00:00
 -- url     : https://prove2.me/theorems/3d2c40e7-38f9-4e9b-885c-79735c9b8767

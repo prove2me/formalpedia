@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_LocalResolutionData_pullbackIsoLastObj_hom_lastStructMap
 -- name    : FunctorialResolution.EmbeddedResolution.LocalResolutionData.pullbackIsoLastObj_hom_lastStructMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:46:08.796081+00:00
 -- url     : https://prove2.me/theorems/f13a9283-344a-46a6-bc6e-9b5e40c29ab8

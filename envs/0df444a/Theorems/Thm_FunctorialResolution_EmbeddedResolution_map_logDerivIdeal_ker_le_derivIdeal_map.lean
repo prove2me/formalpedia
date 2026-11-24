@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_map_logDerivIdeal_ker_le_derivIdeal_map
 -- name    : FunctorialResolution.EmbeddedResolution.map_logDerivIdeal_ker_le_derivIdeal_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:47:38.432895+00:00
 -- url     : https://prove2.me/theorems/5aa978ac-dd28-4529-8caa-75a020f29850

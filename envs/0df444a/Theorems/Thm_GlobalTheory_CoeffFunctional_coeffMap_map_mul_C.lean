@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffFunctional_coeffMap_map_mul_C
 -- name    : GlobalTheory.CoeffFunctional.coeffMap_map_mul_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:15:22.930638+00:00
 -- url     : https://prove2.me/theorems/9c66e48c-e333-477b-85bc-0181b0aa580b

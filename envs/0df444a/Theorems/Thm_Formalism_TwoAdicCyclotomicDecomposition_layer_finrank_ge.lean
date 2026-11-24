@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_layer_finrank_ge
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.layer_finrank_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:30:29.465859+00:00
 -- url     : https://prove2.me/theorems/352e3dd3-1dea-4c9e-8cf9-c8ae8697cbb3

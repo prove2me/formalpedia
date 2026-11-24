@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArtinKernel_exists_derivation
 -- name    : GlobalTheory.ArtinKernel.exists_derivation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:58:53.306809+00:00
 -- url     : https://prove2.me/theorems/624cc255-c02d-430a-a2a5-019feefff938

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcConst_exists_of_localization
 -- name    : GlobalTheory.ArcConst.exists_of_localization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:58:51.738908+00:00
 -- url     : https://prove2.me/theorems/bd509981-8177-43b6-9579-3e29e9216817

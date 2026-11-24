@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for QuantumLTF.Majority.compile_bounded_support_dual
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @stockfish-soup
 -- created : 2026-11-23T22:00:15.319064+00:00
 -- url     : https://prove2.me/submissions/1fd2a3f3-4a08-4f22-a8ed-5c0a9351dfba
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_compiler_abstract_adversary_identification
 import Theorems.Thm_QuantumLTF_Majority_realize_phase_clock_algorithm

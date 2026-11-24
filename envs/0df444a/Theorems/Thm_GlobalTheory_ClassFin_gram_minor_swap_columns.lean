@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_gram_minor_swap_columns
 -- name    : GlobalTheory.ClassFin.gram_minor_swap_columns
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:11:29.743842+00:00
 -- url     : https://prove2.me/theorems/173acc31-785a-452f-b467-4a44c1dc2d4f

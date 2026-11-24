@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qb_exists_coeff
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qb_exists_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:58:51.276629+00:00
 -- url     : https://prove2.me/theorems/75144e83-cd48-4808-ba4d-77d7a032e6f4

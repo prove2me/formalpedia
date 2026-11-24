@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isPullback_prodMapOnPreimage
 -- name    : FunctorialResolution.EmbeddedResolution.isPullback_prodMapOnPreimage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:47:31.343694+00:00
 -- url     : https://prove2.me/theorems/9d43c9ef-a5e7-4324-aa67-e1d66f487a55

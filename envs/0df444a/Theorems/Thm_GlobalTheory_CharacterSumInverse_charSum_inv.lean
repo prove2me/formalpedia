@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharacterSumInverse_charSum_inv
 -- name    : GlobalTheory.CharacterSumInverse.charSum_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:09:59.772185+00:00
 -- url     : https://prove2.me/theorems/88325a84-4764-46ef-bf13-9443078c276b

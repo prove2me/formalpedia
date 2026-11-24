@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_log_sq_le_tangent_add_sq
 -- name    : GlobalTheory.ClassFin.log_sq_le_tangent_add_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:11:49.414478+00:00
 -- url     : https://prove2.me/theorems/421f538f-a282-4676-b3de-f9923ce0dcf9

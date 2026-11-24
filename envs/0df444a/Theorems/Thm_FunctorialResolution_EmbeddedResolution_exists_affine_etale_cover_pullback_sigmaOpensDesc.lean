@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_exists_affine_etale_cover_pullback_sigmaOpensDesc
 -- name    : FunctorialResolution.EmbeddedResolution.exists_affine_etale_cover_pullback_sigmaOpensDesc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:47:02.366723+00:00
 -- url     : https://prove2.me/theorems/5ccda146-0257-4868-861e-9b387aaa2aa3

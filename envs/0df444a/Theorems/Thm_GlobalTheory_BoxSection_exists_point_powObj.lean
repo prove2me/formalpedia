@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxSection_exists_point_powObj
 -- name    : GlobalTheory.BoxSection.exists_point_powObj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:03:15.134519+00:00
 -- url     : https://prove2.me/theorems/42aedde6-eec1-4f1b-b613-e76b0eaefac2

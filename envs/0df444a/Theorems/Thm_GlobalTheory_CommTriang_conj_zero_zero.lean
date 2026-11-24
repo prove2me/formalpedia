@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommTriang_conj_zero_zero
 -- name    : GlobalTheory.CommTriang.conj_zero_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:15:23.999104+00:00
 -- url     : https://prove2.me/theorems/f7b72bab-093f-4e28-86f0-8012d154b2be

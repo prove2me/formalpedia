@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SA_P_cube_sum_le
 -- name    : Formalism.SA.P.cube_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:27:26.517923+00:00
 -- url     : https://prove2.me/theorems/063dbf10-6322-4d17-90d2-af7cdd3dc4fe

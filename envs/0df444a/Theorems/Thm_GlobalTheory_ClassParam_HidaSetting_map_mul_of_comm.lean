@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassParam_HidaSetting_map_mul_of_comm
 -- name    : GlobalTheory.ClassParam.HidaSetting.map_mul_of_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:13:22.40692+00:00
 -- url     : https://prove2.me/theorems/f81634ed-3274-45d6-bb4d-18632c60da7b

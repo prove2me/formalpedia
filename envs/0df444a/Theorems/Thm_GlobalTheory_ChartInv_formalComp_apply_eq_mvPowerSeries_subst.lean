@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartInv_formalComp_apply_eq_mvPowerSeries_subst
 -- name    : GlobalTheory.ChartInv.formalComp_apply_eq_mvPowerSeries_subst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:10:01.810382+00:00
 -- url     : https://prove2.me/theorems/34777499-ae78-454b-82e8-e49829f0a6d4

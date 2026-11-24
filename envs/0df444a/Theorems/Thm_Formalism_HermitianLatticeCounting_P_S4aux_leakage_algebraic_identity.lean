@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_leakage_algebraic_identity
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.leakage_algebraic_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:00:31.384816+00:00
 -- url     : https://prove2.me/theorems/85b6e5ac-eeea-4a0c-808d-48168991ec4c

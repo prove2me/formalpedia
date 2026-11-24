@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_SemiHom_mDR_sgn
 -- name    : GlobalTheory.CechDR.SemiHom.mDR_sgn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:06:34.199146+00:00
 -- url     : https://prove2.me/theorems/dfbd515c-3401-444d-b224-58b4a6585585

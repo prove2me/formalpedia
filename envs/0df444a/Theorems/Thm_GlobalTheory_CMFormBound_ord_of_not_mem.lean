@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMFormBound_ord_of_not_mem
 -- name    : GlobalTheory.CMFormBound.ord_of_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:03:05.475431+00:00
 -- url     : https://prove2.me/theorems/3c3fea2b-4d11-47a7-bc55-e912f00c8d94

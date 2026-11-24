@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharSeriesCoef_avg_prod
 -- name    : GlobalTheory.CharSeriesCoef.avg_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:08:05.176876+00:00
 -- url     : https://prove2.me/theorems/122ccdb0-db0e-48ea-8222-6293a242b34d

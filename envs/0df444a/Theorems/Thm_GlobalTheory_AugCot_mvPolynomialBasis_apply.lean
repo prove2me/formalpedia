@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AugCot_mvPolynomialBasis_apply
 -- name    : GlobalTheory.AugCot.mvPolynomialBasis_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:46:28.816659+00:00
 -- url     : https://prove2.me/theorems/7d5050d4-7d8b-4143-b4a9-61dea85045fc

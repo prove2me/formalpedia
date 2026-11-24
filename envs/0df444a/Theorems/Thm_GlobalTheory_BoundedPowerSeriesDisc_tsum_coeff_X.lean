@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoundedPowerSeriesDisc_tsum_coeff_X
 -- name    : GlobalTheory.BoundedPowerSeriesDisc.tsum_coeff_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:01:29.895993+00:00
 -- url     : https://prove2.me/theorems/5f39d44f-ea35-4ffc-93b7-b8e98e0cfef9

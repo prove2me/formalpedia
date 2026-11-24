@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArtinKernel_log_deriv_rule
 -- name    : GlobalTheory.ArtinKernel.log_deriv_rule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:59:00.72631+00:00
 -- url     : https://prove2.me/theorems/382463c1-ed44-457b-9ffc-602bfbd8a701

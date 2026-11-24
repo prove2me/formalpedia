@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassMin_polar_ofIntBilin
 -- name    : GlobalTheory.ClassMin.polar_ofIntBilin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:11:36.031103+00:00
 -- url     : https://prove2.me/theorems/05266915-5688-48c1-af21-9d420c8f556a

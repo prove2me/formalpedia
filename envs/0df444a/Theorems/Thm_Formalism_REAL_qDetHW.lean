@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_qDetHW
 -- name    : Formalism.REAL.qDetHW
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:54.274686+00:00
 -- url     : https://prove2.me/theorems/30328edb-d91e-43c6-8650-405bd60530d2

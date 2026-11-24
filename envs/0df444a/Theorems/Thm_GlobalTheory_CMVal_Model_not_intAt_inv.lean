@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Model_not_intAt_inv
 -- name    : GlobalTheory.CMVal.Model.not_intAt_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:05:13.737737+00:00
 -- url     : https://prove2.me/theorems/da98467b-051a-4eaf-9e55-a9c58e01f585

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_KernelLengthBounds_length_ker_smul_le
 -- name    : Formalism.NG.KernelLengthBounds.length_ker_smul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:14:04.859121+00:00
 -- url     : https://prove2.me/theorems/084e8240-ebe2-40c0-89a1-4718a4f7196d

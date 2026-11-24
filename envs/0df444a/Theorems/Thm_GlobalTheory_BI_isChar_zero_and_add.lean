@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_isChar_zero_and_add
 -- name    : GlobalTheory.BI.isChar_zero_and_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:00:28.541918+00:00
 -- url     : https://prove2.me/theorems/f92634df-2158-4252-9c66-be6510c37d25

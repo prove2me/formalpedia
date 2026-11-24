@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_EnergyMin_isCompact_box
 -- name    : GlobalTheory.ClassFin.EnergyMin.isCompact_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:08:57.616119+00:00
 -- url     : https://prove2.me/theorems/ca4dceb6-6ab6-433d-a9d1-c61120f6bbe3

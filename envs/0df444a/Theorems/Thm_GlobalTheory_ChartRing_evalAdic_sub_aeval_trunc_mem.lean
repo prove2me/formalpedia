@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartRing_evalAdic_sub_aeval_trunc_mem
 -- name    : GlobalTheory.ChartRing.evalAdic_sub_aeval_trunc_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:09:04.193962+00:00
 -- url     : https://prove2.me/theorems/12e70f8d-ab3a-4f44-8fea-99a05f0c2c77

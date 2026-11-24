@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClosedResidueExt_Unram_isUnit
 -- name    : GlobalTheory.ClosedResidueExt.Unram.isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:13:11.742464+00:00
 -- url     : https://prove2.me/theorems/a8c079ec-6bd3-431c-8284-a3e02c210b84

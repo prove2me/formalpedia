@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_unitary_spectral_gap
 -- name    : Formalism.REAL.unitary_spectral_gap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:25:44.984674+00:00
 -- url     : https://prove2.me/theorems/6c9a3d93-23f4-43f9-bb39-12c0286049a4

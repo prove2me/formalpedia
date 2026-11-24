@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_agree_coprime_of_product_principal
 -- name    : Formalism.ZeroFreeDirichlet.agree_coprime_of_product_principal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:43:17.366801+00:00
 -- url     : https://prove2.me/theorems/478cd17e-9078-48d7-b6a8-95096892985a

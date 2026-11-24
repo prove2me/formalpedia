@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffSubring_level_antitone
 -- name    : GlobalTheory.CoeffSubring.level_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:14:53.412448+00:00
 -- url     : https://prove2.me/theorems/d0904f88-7117-4d78-8c44-921b7d9d5eb6

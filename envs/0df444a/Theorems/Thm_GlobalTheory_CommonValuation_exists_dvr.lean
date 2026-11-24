@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommonValuation_exists_dvr
 -- name    : GlobalTheory.CommonValuation.exists_dvr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:17:13.176573+00:00
 -- url     : https://prove2.me/theorems/58f1f5f1-7368-4b88-9d8f-173929c25558

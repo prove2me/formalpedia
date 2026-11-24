@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMFormBound_eig_ext
 -- name    : GlobalTheory.CMFormBound.eig_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:02:57.787803+00:00
 -- url     : https://prove2.me/theorems/3e678723-4f11-4ab9-a988-8e30c18606ef

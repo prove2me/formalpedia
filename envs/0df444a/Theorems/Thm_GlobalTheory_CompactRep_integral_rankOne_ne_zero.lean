@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactRep_integral_rankOne_ne_zero
 -- name    : GlobalTheory.CompactRep.integral_rankOne_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:16:15.624+00:00
 -- url     : https://prove2.me/theorems/6bfea998-1469-4000-99d0-b8d73f96af1f

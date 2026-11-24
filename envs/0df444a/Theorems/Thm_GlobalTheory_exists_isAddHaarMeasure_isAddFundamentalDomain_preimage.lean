@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isAddHaarMeasure_isAddFundamentalDomain_preimage
 -- name    : GlobalTheory.exists_isAddHaarMeasure_isAddFundamentalDomain_preimage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:58:51.531799+00:00
 -- url     : https://prove2.me/theorems/7266b110-3285-4be8-b4dc-1ff4796a59ae

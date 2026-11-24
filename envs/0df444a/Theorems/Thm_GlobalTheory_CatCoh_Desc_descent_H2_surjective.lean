@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CatCoh_Desc_descent_H2_surjective
 -- name    : GlobalTheory.CatCoh.Desc.descent_H2_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:06:02.068839+00:00
 -- url     : https://prove2.me/theorems/2d67b424-1397-47fd-bc95-ef37e4463938

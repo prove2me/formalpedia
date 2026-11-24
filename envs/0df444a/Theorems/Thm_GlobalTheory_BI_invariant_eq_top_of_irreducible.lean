@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_invariant_eq_top_of_irreducible
 -- name    : GlobalTheory.BI.invariant_eq_top_of_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:58:23.246665+00:00
 -- url     : https://prove2.me/theorems/aebb3d5d-9238-4eb0-b4cf-d410016a97b0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_ZF_perron_mellinSgen___d65ae26d1cac
 -- name    : P2M_Formalism_ZF_perron_mellinSgen___d65ae26d1cac
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:07:34.860155+00:00
 -- url     : https://prove2.me/theorems/d948dcff-eb1b-4859-84ac-04d819a1f58c

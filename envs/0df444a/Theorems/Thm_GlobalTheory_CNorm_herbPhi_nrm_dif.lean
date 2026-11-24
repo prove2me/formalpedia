@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_herbPhi_nrm_dif
 -- name    : GlobalTheory.CNorm.herbPhi_nrm_dif
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:07:08.197528+00:00
 -- url     : https://prove2.me/theorems/bfb806cc-d9ac-4571-8df7-a1300705caea

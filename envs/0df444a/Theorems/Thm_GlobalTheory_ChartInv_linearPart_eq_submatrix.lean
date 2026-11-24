@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartInv_linearPart_eq_submatrix
 -- name    : GlobalTheory.ChartInv.linearPart_eq_submatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:10:28.298953+00:00
 -- url     : https://prove2.me/theorems/1bd7b09b-edb8-43f0-a361-7a6fc7a66d50

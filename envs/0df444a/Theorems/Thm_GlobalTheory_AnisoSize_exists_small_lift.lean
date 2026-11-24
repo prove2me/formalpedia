@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnisoSize_exists_small_lift
 -- name    : GlobalTheory.AnisoSize.exists_small_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:58:13.354842+00:00
 -- url     : https://prove2.me/theorems/ccbae3c5-f93c-4135-81dd-e586438c8d37

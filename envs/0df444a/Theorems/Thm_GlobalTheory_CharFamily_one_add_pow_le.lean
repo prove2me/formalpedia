@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharFamily_one_add_pow_le
 -- name    : GlobalTheory.CharFamily.one_add_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:07:56.959122+00:00
 -- url     : https://prove2.me/theorems/73b7a739-c3d2-4aab-bddb-a600c156f124

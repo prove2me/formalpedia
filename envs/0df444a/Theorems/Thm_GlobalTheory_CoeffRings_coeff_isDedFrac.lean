@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffRings_coeff_isDedFrac
 -- name    : GlobalTheory.CoeffRings.coeff_isDedFrac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:16:20.141206+00:00
 -- url     : https://prove2.me/theorems/5a33a12d-5d7e-4543-bda3-8ab5122fd473

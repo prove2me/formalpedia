@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_split_injective
 -- name    : Formalism.UG.P.split_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:35:17.965408+00:00
 -- url     : https://prove2.me/theorems/f115f6ca-1a0b-4e54-bbab-e8a577898ec3

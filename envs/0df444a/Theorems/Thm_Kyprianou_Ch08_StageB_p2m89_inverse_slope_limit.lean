@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m89_inverse_slope_limit
 -- name    : Kyprianou.Ch08.StageB.p2m89_inverse_slope_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T11:02:21.580657+00:00
 -- url     : https://prove2.me/theorems/7a4753d9-abe7-4948-aab7-72d44a70169f

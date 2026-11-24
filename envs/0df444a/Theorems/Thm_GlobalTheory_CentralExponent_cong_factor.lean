@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CentralExponent_cong_factor
 -- name    : GlobalTheory.CentralExponent.cong_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:08:15.094699+00:00
 -- url     : https://prove2.me/theorems/fa1f05a4-798b-4a05-b967-4b1b990f387f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Model_IntAt_add
 -- name    : GlobalTheory.CMVal.Model.IntAt.add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:06:13.375963+00:00
 -- url     : https://prove2.me/theorems/d69c9ea6-6912-4016-ace0-e05bde848365

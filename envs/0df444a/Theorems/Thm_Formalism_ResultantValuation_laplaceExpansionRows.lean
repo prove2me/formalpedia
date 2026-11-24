@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ResultantValuation_laplaceExpansionRows
 -- name    : Formalism.ResultantValuation.laplaceExpansionRows
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:27:05.870868+00:00
 -- url     : https://prove2.me/theorems/1e29cbca-f35b-4af7-a83d-5bcd368ba735

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_UnitConjugation_conj_iff
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.UnitConjugation.conj_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:15:34.372901+00:00
 -- url     : https://prove2.me/theorems/8c53d26e-b94f-4f8a-af14-96e579783c16

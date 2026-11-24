@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumLTF_Majority_theorem_4_9_fixed_error
 -- name    : QuantumLTF.Majority.theorem_4_9_fixed_error
--- status  : Open
+-- status  : Proved
 -- author  : @stockfish-soup
 -- created : 2026-11-16T17:55:39.904595+00:00
 -- url     : https://prove2.me/theorems/90f3da77-eab7-4c45-8289-dff900454c3a

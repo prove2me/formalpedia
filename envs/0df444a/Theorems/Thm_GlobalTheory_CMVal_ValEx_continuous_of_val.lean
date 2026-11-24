@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_ValEx_continuous_of_val
 -- name    : GlobalTheory.CMVal.ValEx.continuous_of_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:06:10.230348+00:00
 -- url     : https://prove2.me/theorems/49caaa21-0e79-4b09-9d9a-fba6de2e86f3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_Basic_char_lineRep
 -- name    : GlobalTheory.BadShare.Basic.char_lineRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:59:51.645884+00:00
 -- url     : https://prove2.me/theorems/2c987e17-02ca-4710-a71b-2fd89286bef4

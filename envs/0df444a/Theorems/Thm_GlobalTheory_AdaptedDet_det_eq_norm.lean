@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdaptedDet_det_eq_norm
 -- name    : GlobalTheory.AdaptedDet.det_eq_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:54:43.562116+00:00
 -- url     : https://prove2.me/theorems/463bee71-1e12-4430-8dcf-fe894a302bce

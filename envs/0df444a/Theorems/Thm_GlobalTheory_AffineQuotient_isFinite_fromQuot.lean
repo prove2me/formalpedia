@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffineQuotient_isFinite_fromQuot
 -- name    : GlobalTheory.AffineQuotient.isFinite_fromQuot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:54:46.967694+00:00
 -- url     : https://prove2.me/theorems/f9cf71fc-a4da-4391-984a-13af044fea06

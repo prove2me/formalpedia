@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BigCell_mul_inv_eq
 -- name    : GlobalTheory.BigCell.mul_inv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:01:17.84108+00:00
 -- url     : https://prove2.me/theorems/c7c66be2-6ab5-47cb-a7ae-d5d57201f257

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_weight_blockWeight
 -- name    : GlobalTheory.Chow.weight_blockWeight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:09:43.352486+00:00
 -- url     : https://prove2.me/theorems/35a3558f-9932-4de8-b88c-664c02dd2667

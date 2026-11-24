@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_HarmMin_deriv_phi
 -- name    : GlobalTheory.ClassFin.HarmMin.deriv_phi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:09:11.763287+00:00
 -- url     : https://prove2.me/theorems/90c59dab-904a-4aad-b317-f4c966f6d22d

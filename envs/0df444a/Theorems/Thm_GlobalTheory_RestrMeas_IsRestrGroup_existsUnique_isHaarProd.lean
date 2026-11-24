@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RestrMeas_IsRestrGroup_existsUnique_isHaarProd
 -- name    : GlobalTheory.RestrMeas.IsRestrGroup.existsUnique_isHaarProd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:36:06.656104+00:00
 -- url     : https://prove2.me/theorems/93f62104-af34-4911-af8a-50269e599030

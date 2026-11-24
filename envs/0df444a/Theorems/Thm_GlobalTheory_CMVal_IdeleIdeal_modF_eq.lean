@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_IdeleIdeal_modF_eq
 -- name    : GlobalTheory.CMVal.IdeleIdeal.modF_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:04:58.917575+00:00
 -- url     : https://prove2.me/theorems/a19a987f-1d5b-4741-acab-38812306ecc1

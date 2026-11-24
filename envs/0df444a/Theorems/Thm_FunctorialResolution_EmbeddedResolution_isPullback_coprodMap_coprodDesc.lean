@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isPullback_coprodMap_coprodDesc
 -- name    : FunctorialResolution.EmbeddedResolution.isPullback_coprodMap_coprodDesc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:47:43.559798+00:00
 -- url     : https://prove2.me/theorems/b9c30bf0-c213-4b51-93dc-44c7a503503e

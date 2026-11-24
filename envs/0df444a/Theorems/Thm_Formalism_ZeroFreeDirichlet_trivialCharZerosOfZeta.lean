@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_trivialCharZerosOfZeta
 -- name    : Formalism.ZeroFreeDirichlet.trivialCharZerosOfZeta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:45:24.867662+00:00
 -- url     : https://prove2.me/theorems/39959c49-93d1-4c10-8789-609ad082d9f1

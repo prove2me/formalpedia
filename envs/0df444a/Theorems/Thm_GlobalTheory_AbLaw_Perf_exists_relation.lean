@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_Perf_exists_relation
 -- name    : GlobalTheory.AbLaw.Perf.exists_relation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:52:21.918013+00:00
 -- url     : https://prove2.me/theorems/1f0e8690-32b1-4227-bbb8-4b26095fafec

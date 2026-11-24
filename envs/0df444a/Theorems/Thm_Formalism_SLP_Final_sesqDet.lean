@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_Final_sesqDet
 -- name    : Formalism.SLP.Final.sesqDet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:27:35.484479+00:00
 -- url     : https://prove2.me/theorems/df3d6307-7871-438e-aa35-0ac2e6bb3e8b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_globalConcrete
 -- name    : Formalism.NG.globalConcrete
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:56:03.530793+00:00
 -- url     : https://prove2.me/theorems/5d9db5ab-128f-4c13-b37d-0a0b85f51c4a

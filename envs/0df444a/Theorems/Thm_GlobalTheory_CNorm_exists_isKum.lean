@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_exists_isKum
 -- name    : GlobalTheory.CNorm.exists_isKum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:06:29.926262+00:00
 -- url     : https://prove2.me/theorems/9d7c7313-d94c-48df-9b44-9eb1b44b6b51

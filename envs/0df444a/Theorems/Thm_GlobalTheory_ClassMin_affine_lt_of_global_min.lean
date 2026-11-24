@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassMin_affine_lt_of_global_min
 -- name    : GlobalTheory.ClassMin.affine_lt_of_global_min
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:11:36.226261+00:00
 -- url     : https://prove2.me/theorems/c3c822f9-c583-41aa-a51e-dd4bfef66380

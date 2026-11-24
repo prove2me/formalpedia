@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AnnihOpen_isOpen_annihilator_of_isCompact
 -- name    : GlobalTheory.CompanionTheory.AnnihOpen.isOpen_annihilator_of_isCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:17:30.368383+00:00
 -- url     : https://prove2.me/theorems/9a1f2795-4d3a-452d-a69d-436ab6933baa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_trace_compLeft_funLeft
 -- name    : GlobalTheory.BadShare.trace_compLeft_funLeft
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:59:53.612262+00:00
 -- url     : https://prove2.me/theorems/48716235-38e2-4b1f-a59c-820e52db299a

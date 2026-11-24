@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_taylorSigma
 -- name    : Formalism.L2.Th1.F.taylorSigma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:40:08.566481+00:00
 -- url     : https://prove2.me/theorems/b062e406-d361-49e8-8f1c-16b30eb84dc2

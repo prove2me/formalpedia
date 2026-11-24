@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndBCNab_map_DpolyOf
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndBCNab.map_DpolyOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:57:38.60033+00:00
 -- url     : https://prove2.me/theorems/c7731370-28d7-43ef-97c2-3ad66286cc77

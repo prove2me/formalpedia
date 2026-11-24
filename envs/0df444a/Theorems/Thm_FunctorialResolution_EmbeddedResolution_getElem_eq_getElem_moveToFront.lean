@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_getElem_eq_getElem_moveToFront
 -- name    : FunctorialResolution.EmbeddedResolution.getElem_eq_getElem_moveToFront
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:46:37.783443+00:00
 -- url     : https://prove2.me/theorems/58b94088-85b6-48bc-8228-329eec120811

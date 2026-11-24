@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_logderiv_zeta_eq
 -- name    : Formalism.logderiv_zeta_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:46:20.74305+00:00
 -- url     : https://prove2.me/theorems/8ae3aba2-d151-4560-9736-167714e1f3f1

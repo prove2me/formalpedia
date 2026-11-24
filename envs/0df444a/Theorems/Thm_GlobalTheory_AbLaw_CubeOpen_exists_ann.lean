@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_CubeOpen_exists_ann
 -- name    : GlobalTheory.AbLaw.CubeOpen.exists_ann
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:55:07.856207+00:00
 -- url     : https://prove2.me/theorems/2707d7f3-651d-4bae-a6d8-e0aee29dcc2a

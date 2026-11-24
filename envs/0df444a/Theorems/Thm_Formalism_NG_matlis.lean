@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_matlis
 -- name    : Formalism.NG.matlis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:16:57.976845+00:00
 -- url     : https://prove2.me/theorems/0218ae74-8d44-4b89-b5ab-8a0b893b4e18

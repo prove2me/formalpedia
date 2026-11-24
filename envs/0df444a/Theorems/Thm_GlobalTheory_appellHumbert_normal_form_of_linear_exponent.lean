@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_appellHumbert_normal_form_of_linear_exponent
 -- name    : GlobalTheory.appellHumbert_normal_form_of_linear_exponent
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:57:51.731306+00:00
 -- url     : https://prove2.me/theorems/7d86c634-4b52-4ac7-927e-6e954a44d9d1

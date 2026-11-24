@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_supInfDyadicExtremaAELimitsV1
 -- name    : Kyprianou.Ch03.supInfDyadicExtremaAELimitsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T10:08:45.708826+00:00
 -- url     : https://prove2.me/theorems/595bcca9-772a-41a6-8165-d1d8abc9d6e8

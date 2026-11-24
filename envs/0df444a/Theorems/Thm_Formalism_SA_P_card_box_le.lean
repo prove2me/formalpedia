@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SA_P_card_box_le
 -- name    : Formalism.SA.P.card_box_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:11:11.628205+00:00
 -- url     : https://prove2.me/theorems/f19e6328-a20e-46e7-9ec4-19a7d3b1493e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_LatBij_diag_unit_mem
 -- name    : GlobalTheory.CMVal.LatBij.diag_unit_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:05:55.44746+00:00
 -- url     : https://prove2.me/theorems/5a42d156-fcb6-4f7e-915d-a55386173dfa

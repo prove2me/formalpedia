@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_symmetricSliceMixedCasimir_holds
 -- name    : Formalism.REAL.symmetricSliceMixedCasimir_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:25:49.197596+00:00
 -- url     : https://prove2.me/theorems/89833e5d-3003-4652-a06e-11e0ac6df913

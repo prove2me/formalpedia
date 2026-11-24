@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EtaleCoordinates_formallyEtale_mvPolynomial_sum
 -- name    : FunctorialResolution.EmbeddedResolution.EtaleCoordinates.formallyEtale_mvPolynomial_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:46:02.536785+00:00
 -- url     : https://prove2.me/theorems/92855c44-e771-420b-8e02-7a36452ee6fa

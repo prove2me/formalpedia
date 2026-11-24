@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Model_IsValChar_of_empty
 -- name    : GlobalTheory.CMVal.Model.IsValChar.of_empty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:05:38.248004+00:00
 -- url     : https://prove2.me/theorems/8b702e48-3d41-4908-83a8-13a9709c85ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxCosetSum_eventually_evalV_mem_integers
 -- name    : GlobalTheory.BoxCosetSum.eventually_evalV_mem_integers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:02:33.287805+00:00
 -- url     : https://prove2.me/theorems/0da664d4-3189-42ea-82ac-4d75c3f54d50

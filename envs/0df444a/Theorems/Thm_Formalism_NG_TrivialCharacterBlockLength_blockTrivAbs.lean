@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_TrivialCharacterBlockLength_blockTrivAbs
 -- name    : Formalism.NG.TrivialCharacterBlockLength.blockTrivAbs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:14:46.166436+00:00
 -- url     : https://prove2.me/theorems/9a3b3061-4927-4634-9d80-57dbfdb8747b

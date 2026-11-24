@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_cartan_unique_gen
 -- name    : Formalism.UG.P.cartan_unique_gen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:08:03.405836+00:00
 -- url     : https://prove2.me/theorems/7a67e680-f750-4d3b-95a0-ab2fff53644f

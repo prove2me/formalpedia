@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BrauerZero_indFun_eq_ind
 -- name    : GlobalTheory.BrauerZero.indFun_eq_ind
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:03:24.076055+00:00
 -- url     : https://prove2.me/theorems/9cda23b8-50b9-480c-bcf7-ee22274dcca3

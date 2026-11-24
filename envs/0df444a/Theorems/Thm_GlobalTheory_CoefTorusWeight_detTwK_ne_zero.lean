@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoefTorusWeight_detTwK_ne_zero
 -- name    : GlobalTheory.CoefTorusWeight.detTwK_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:15:44.033794+00:00
 -- url     : https://prove2.me/theorems/ca3866e6-2803-4ed7-aaac-58652777d11b

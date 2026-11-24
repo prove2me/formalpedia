@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_partial_sum_norm_le_near_one
 -- name    : Formalism.ZeroFreeDirichlet.partial_sum_norm_le_near_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:43:09.169826+00:00
 -- url     : https://prove2.me/theorems/b2ff4d2f-58a3-4f27-a8fd-5865b612aec1

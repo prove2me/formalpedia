@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_exists_lift_of_isStandardSmoothOfRelativeDimension
 -- name    : FunctorialResolution.EmbeddedResolution.exists_lift_of_isStandardSmoothOfRelativeDimension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:46:43.017308+00:00
 -- url     : https://prove2.me/theorems/3df103cf-9070-4e7a-aa2e-bc27ab136e07

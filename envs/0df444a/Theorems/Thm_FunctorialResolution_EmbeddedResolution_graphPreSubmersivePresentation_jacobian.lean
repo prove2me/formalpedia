@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_graphPreSubmersivePresentation_jacobian
 -- name    : FunctorialResolution.EmbeddedResolution.graphPreSubmersivePresentation_jacobian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:46:49.86137+00:00
 -- url     : https://prove2.me/theorems/68344eb8-b052-4002-bae3-3bbdc2a2587b

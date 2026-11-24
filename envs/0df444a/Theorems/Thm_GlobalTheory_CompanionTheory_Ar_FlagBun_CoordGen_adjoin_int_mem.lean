@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_FlagBun_CoordGen_adjoin_int_mem
 -- name    : GlobalTheory.CompanionTheory.Ar.FlagBun.CoordGen.adjoin_int_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:18:09.256134+00:00
 -- url     : https://prove2.me/theorems/f931ada1-5635-4f6c-b05d-ea845361fcd2

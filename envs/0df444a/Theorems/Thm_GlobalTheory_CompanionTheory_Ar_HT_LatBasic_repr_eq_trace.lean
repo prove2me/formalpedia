@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_HT_LatBasic_repr_eq_trace
 -- name    : GlobalTheory.CompanionTheory.Ar.HT.LatBasic.repr_eq_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:19:13.511566+00:00
 -- url     : https://prove2.me/theorems/d6675b49-bf2a-4dee-a62c-af23d0500926

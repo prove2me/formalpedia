@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isRadical_span_singleton_prod_finset
 -- name    : FunctorialResolution.EmbeddedResolution.isRadical_span_singleton_prod_finset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:47:29.859541+00:00
 -- url     : https://prove2.me/theorems/d22ac660-3520-4f27-990d-7455261d3084

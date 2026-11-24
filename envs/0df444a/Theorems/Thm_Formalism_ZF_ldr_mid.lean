@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_ldr_mid
 -- name    : Formalism.ZF.ldr_mid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:41:45.582264+00:00
 -- url     : https://prove2.me/theorems/5634bc8d-dce8-4efe-932f-625d42e8ff01

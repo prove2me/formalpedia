@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qb_ev_zero_of_mem
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qb_ev_zero_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:58:45.960872+00:00
 -- url     : https://prove2.me/theorems/0326066f-4245-4f15-9972-9ced2b56e151

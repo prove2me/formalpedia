@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AddLaw_map_diagY
 -- name    : GlobalTheory.AddLaw.map_diagY
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:53:39.630533+00:00
 -- url     : https://prove2.me/theorems/bb489850-3f86-4e89-adc5-a8d4b0103888

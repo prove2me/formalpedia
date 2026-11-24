@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassMin_shifted_zsmul_nonneg
 -- name    : GlobalTheory.ClassMin.shifted_zsmul_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:13:52.604827+00:00
 -- url     : https://prove2.me/theorems/06341b0f-ba6f-46df-9e94-72e8c4490184

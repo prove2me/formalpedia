@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ComapPrimeExistence_exists_comap_prime
 -- name    : GlobalTheory.ComapPrimeExistence.exists_comap_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:14:56.258962+00:00
 -- url     : https://prove2.me/theorems/ed9eba75-57e0-489e-b659-47c75c407af5

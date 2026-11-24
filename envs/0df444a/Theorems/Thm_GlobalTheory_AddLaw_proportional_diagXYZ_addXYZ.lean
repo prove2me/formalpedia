@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AddLaw_proportional_diagXYZ_addXYZ
 -- name    : GlobalTheory.AddLaw.proportional_diagXYZ_addXYZ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:53:34.736793+00:00
 -- url     : https://prove2.me/theorems/3ab8512d-2e16-494c-b175-59aae651681f

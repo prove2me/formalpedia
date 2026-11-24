@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommTriang_blockOne_one
 -- name    : GlobalTheory.CommTriang.blockOne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:15:23.790587+00:00
 -- url     : https://prove2.me/theorems/810ddc51-5f0d-4a86-b2e4-4ad019bab911

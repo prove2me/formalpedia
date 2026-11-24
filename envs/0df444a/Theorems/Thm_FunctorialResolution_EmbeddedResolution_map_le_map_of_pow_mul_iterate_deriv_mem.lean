@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_map_le_map_of_pow_mul_iterate_deriv_mem
 -- name    : FunctorialResolution.EmbeddedResolution.map_le_map_of_pow_mul_iterate_deriv_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:39:52.902004+00:00
 -- url     : https://prove2.me/theorems/4c889133-481a-4474-89ea-e991694bc684

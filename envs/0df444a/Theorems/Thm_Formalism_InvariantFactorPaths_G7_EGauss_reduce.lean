@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_EGauss_reduce
 -- name    : Formalism.InvariantFactorPaths.G7.EGauss.reduce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:53:34.65527+00:00
 -- url     : https://prove2.me/theorems/f9e4a830-f94e-4597-9a6e-446647cadb8c

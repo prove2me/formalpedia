@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharModGrowth_norm_iteratedFDeriv_char_le
 -- name    : GlobalTheory.CharModGrowth.norm_iteratedFDeriv_char_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:07:30.837339+00:00
 -- url     : https://prove2.me/theorems/bf4cfb28-e62b-46f0-94f3-3df30231415b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassParam_trace_transfer
 -- name    : GlobalTheory.ClassParam.trace_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:13:21.272638+00:00
 -- url     : https://prove2.me/theorems/4d8e6a88-7f4e-47bf-a37f-9f8bca604ea4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BetaCounterexample_detSet_scale
 -- name    : GlobalTheory.BetaCounterexample.detSet_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:59:34.344961+00:00
 -- url     : https://prove2.me/theorems/08d74c9b-d437-4a2c-9b67-7b655de8ba3e

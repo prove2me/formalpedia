@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_perFactor_eq_exp
 -- name    : GlobalTheory.AnArc.perFactor_eq_exp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:12:16.993844+00:00
 -- url     : https://prove2.me/theorems/f268bcdf-cc3a-4886-a73a-8d1af33f0d8e

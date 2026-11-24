@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZRN_F_differentiableAt
 -- name    : Formalism.ZRN.F_differentiableAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:41:26.963095+00:00
 -- url     : https://prove2.me/theorems/9f307461-2313-45b3-abdc-d37ac9f01db7

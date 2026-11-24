@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_P_CountO_exists_gen_mod
 -- name    : Formalism.SLP.P.CountO.exists_gen_mod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:29:03.204186+00:00
 -- url     : https://prove2.me/theorems/527fc587-30ed-4630-8057-e179e0d70bce

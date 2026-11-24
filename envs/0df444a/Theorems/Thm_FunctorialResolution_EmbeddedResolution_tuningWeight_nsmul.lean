@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_tuningWeight_nsmul
 -- name    : FunctorialResolution.EmbeddedResolution.tuningWeight_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:50:04.084752+00:00
 -- url     : https://prove2.me/theorems/638ecbdd-2abb-4e06-9e53-3329758cf6ce

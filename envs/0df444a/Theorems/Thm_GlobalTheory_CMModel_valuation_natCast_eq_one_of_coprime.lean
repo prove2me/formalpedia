@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMModel_valuation_natCast_eq_one_of_coprime
 -- name    : GlobalTheory.CMModel.valuation_natCast_eq_one_of_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:04:51.507872+00:00
 -- url     : https://prove2.me/theorems/9606680b-e7db-4434-8d6a-81a7de8c7719

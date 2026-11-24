@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussValuationUniqueness_pos_of_ker
 -- name    : GaussValuationUniqueness.pos_of_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:50:50.524696+00:00
 -- url     : https://prove2.me/theorems/27fc7796-a03e-46ee-ab00-4b4ea5e8f3c7

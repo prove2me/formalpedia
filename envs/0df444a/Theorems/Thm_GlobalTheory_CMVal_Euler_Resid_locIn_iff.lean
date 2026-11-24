@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_Resid_locIn_iff
 -- name    : GlobalTheory.CMVal.Euler.Resid.locIn_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:05:17.385806+00:00
 -- url     : https://prove2.me/theorems/58c22dd4-f88e-48fc-b9b5-99c030a3be67

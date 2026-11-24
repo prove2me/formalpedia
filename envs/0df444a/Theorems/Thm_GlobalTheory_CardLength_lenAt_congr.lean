@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CardLength_lenAt_congr
 -- name    : GlobalTheory.CardLength.lenAt_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:05:49.068996+00:00
 -- url     : https://prove2.me/theorems/ddbf70ee-c594-4235-8c1d-f4403e0282a5

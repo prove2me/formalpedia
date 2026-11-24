@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_UnitRoot_tmul_fixed
 -- name    : GlobalTheory.AdLat.UnitRoot.tmul_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:25:31.6129+00:00
 -- url     : https://prove2.me/theorems/551324c6-1bce-4c5a-b949-fdd75fe07787

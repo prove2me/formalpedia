@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactRep_isSymmetric_integral_rankOne
 -- name    : GlobalTheory.CompactRep.isSymmetric_integral_rankOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:16:23.718826+00:00
 -- url     : https://prove2.me/theorems/c7b2be65-8ee6-43f5-b37c-6e44c788fb33

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassParam_hform_single
 -- name    : GlobalTheory.ClassParam.hform_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:12:50.477516+00:00
 -- url     : https://prove2.me/theorems/da48fc59-4828-40de-9d36-9b1c17208779

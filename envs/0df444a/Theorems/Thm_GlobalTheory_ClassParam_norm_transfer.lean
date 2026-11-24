@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassParam_norm_transfer
 -- name    : GlobalTheory.ClassParam.norm_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:13:34.079134+00:00
 -- url     : https://prove2.me/theorems/d7b644da-9835-4df3-b1be-3744da1c531c

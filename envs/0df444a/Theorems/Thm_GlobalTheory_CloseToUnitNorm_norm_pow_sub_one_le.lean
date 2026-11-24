@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CloseToUnitNorm_norm_pow_sub_one_le
 -- name    : GlobalTheory.CloseToUnitNorm.norm_pow_sub_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:13:56.303926+00:00
 -- url     : https://prove2.me/theorems/125b3b1a-7b6e-48e8-bdd5-5d5a373dc662

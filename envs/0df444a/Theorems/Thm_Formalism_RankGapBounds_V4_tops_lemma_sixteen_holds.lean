@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankGapBounds_V4_tops_lemma_sixteen_holds
 -- name    : Formalism.RankGapBounds.V4.tops_lemma_sixteen_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:25:51.941307+00:00
 -- url     : https://prove2.me/theorems/dee9afee-af45-4365-bcc3-a987fa526f7f

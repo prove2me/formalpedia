@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AppellHumbert_apply_eq_sum
 -- name    : GlobalTheory.AppellHumbert.apply_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:58:29.824151+00:00
 -- url     : https://prove2.me/theorems/57b5a13e-d27f-4acb-940e-619a46a5fb37

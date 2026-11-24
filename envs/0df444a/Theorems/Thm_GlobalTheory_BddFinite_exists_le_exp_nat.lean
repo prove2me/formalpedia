@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BddFinite_exists_le_exp_nat
 -- name    : GlobalTheory.BddFinite.exists_le_exp_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:59:44.24717+00:00
 -- url     : https://prove2.me/theorems/81ef80aa-d378-4837-b77c-5dd877c1d592

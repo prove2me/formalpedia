@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BaseRing_finiteType_RZ
 -- name    : GlobalTheory.BaseRing.finiteType_RZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:00:06.900835+00:00
 -- url     : https://prove2.me/theorems/01eea5d5-b5cb-4db5-921f-ec7395e0c340

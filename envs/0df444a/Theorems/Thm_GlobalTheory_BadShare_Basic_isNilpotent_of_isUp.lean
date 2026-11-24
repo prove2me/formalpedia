@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_Basic_isNilpotent_of_isUp
 -- name    : GlobalTheory.BadShare.Basic.isNilpotent_of_isUp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:00:12.404814+00:00
 -- url     : https://prove2.me/theorems/dcc8fe6e-dd59-4863-ba5b-9c71f093cfad

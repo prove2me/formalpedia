@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelModulus_coord_mul
 -- name    : GlobalTheory.BorelModulus.coord_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:01:40.499035+00:00
 -- url     : https://prove2.me/theorems/0186c7b0-eef8-4956-9e3b-0166b8ab3756

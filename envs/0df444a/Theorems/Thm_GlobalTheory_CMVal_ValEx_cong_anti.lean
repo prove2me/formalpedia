@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_ValEx_cong_anti
 -- name    : GlobalTheory.CMVal.ValEx.cong_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:06:30.262822+00:00
 -- url     : https://prove2.me/theorems/247ec790-3fd4-4a2d-97c7-9363f4cf5695

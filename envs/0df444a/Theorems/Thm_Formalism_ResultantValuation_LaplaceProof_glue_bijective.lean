@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ResultantValuation_LaplaceProof_glue_bijective
 -- name    : Formalism.ResultantValuation.LaplaceProof.glue_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:27:45.423699+00:00
 -- url     : https://prove2.me/theorems/8f55025e-3614-4834-a331-6d40e943280e

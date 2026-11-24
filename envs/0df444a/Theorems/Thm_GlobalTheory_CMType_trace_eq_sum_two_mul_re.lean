@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMType_trace_eq_sum_two_mul_re
 -- name    : GlobalTheory.CMType.trace_eq_sum_two_mul_re
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:04:16.352094+00:00
 -- url     : https://prove2.me/theorems/65ce2d57-2e72-4c7f-baab-cea6f4a7030e

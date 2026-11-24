@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_existsUnique_pow_mul_eq_comap
 -- name    : FunctorialResolution.EmbeddedResolution.existsUnique_pow_mul_eq_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:47:00.458832+00:00
 -- url     : https://prove2.me/theorems/a286feba-49b9-4cb2-beb3-e4f2c25cc889

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_completedStoppingInfSupAEEqV1
 -- name    : Kyprianou.Ch03.completedStoppingInfSupAEEqV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T10:08:31.373116+00:00
 -- url     : https://prove2.me/theorems/f5b72d88-55a9-40fd-98fb-273ad0fa11bf

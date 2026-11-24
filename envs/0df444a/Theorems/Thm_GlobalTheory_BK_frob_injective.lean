@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_frob_injective
 -- name    : GlobalTheory.BK.frob_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:00:41.410213+00:00
 -- url     : https://prove2.me/theorems/11eaeccc-b2be-4e95-bc39-949ea1ceb4e5

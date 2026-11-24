@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_FlagTrdeg_isTranscendenceBasis_of_adjoin
 -- name    : GlobalTheory.CompanionTheory.Ar.FlagTrdeg.isTranscendenceBasis_of_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:17:48.685121+00:00
 -- url     : https://prove2.me/theorems/ea385a6d-ad53-436c-9781-2410fc71f087

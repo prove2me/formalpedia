@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelUMod_Cayley_unit_mul_mem
 -- name    : GlobalTheory.BorelUMod.Cayley.unit_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:01:18.303435+00:00
 -- url     : https://prove2.me/theorems/93d8461b-968e-494b-8d4b-16cb547bc64f

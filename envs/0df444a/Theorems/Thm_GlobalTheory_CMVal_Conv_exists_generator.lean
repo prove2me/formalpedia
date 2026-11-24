@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Conv_exists_generator
 -- name    : GlobalTheory.CMVal.Conv.exists_generator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:04:29.323228+00:00
 -- url     : https://prove2.me/theorems/fff718ad-5643-4e4c-8ed2-2eb1d6e59154

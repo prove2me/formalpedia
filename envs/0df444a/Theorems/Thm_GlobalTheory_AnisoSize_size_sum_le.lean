@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnisoSize_size_sum_le
 -- name    : GlobalTheory.AnisoSize.size_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:58:25.807649+00:00
 -- url     : https://prove2.me/theorems/7eee4fee-bed6-4c01-9d5e-d38c4f9ad8de

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_IsStrictPullbackBlowupSeq_center_eq_top_iff
 -- name    : FunctorialResolution.EmbeddedResolution.IsStrictPullbackBlowupSeq.center_eq_top_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:45:52.309529+00:00
 -- url     : https://prove2.me/theorems/5b05f6ca-b15e-406e-a278-482193a2d9c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CombMinor_cMat_rowShift
 -- name    : GlobalTheory.CombMinor.cMat_rowShift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:14:52.451953+00:00
 -- url     : https://prove2.me/theorems/8fdb3471-6689-4da3-a262-1b268497e951

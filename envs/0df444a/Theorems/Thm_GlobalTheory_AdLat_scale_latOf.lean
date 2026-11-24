@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_scale_latOf
 -- name    : GlobalTheory.AdLat.scale_latOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:45:09.42446+00:00
 -- url     : https://prove2.me/theorems/662fe8c2-db89-476b-97b0-d23b495ab637

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtUnitaryInvariance_twist_invariance
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtUnitaryInvariance.twist_invariance
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:50:42.04887+00:00
 -- url     : https://prove2.me/theorems/9944d587-d466-4e02-a80b-f904fe97c6ca

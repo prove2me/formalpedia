@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdicCompl_mem_max_pow_iff
 -- name    : GlobalTheory.AdicCompl.mem_max_pow_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:55:36.399435+00:00
 -- url     : https://prove2.me/theorems/064a743f-5951-48f3-9e87-e705ddf92014

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_JacobianCriterion_formallyEtale_of_basis
 -- name    : FunctorialResolution.EmbeddedResolution.JacobianCriterion.formallyEtale_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:45:32.532277+00:00
 -- url     : https://prove2.me/theorems/a5c139b2-98b8-4e1b-bdae-f518f22e592d

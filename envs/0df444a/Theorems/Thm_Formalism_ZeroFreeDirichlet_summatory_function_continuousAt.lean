@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_summatory_function_continuousAt
 -- name    : Formalism.ZeroFreeDirichlet.summatory_function_continuousAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:46:01.327295+00:00
 -- url     : https://prove2.me/theorems/6d75cbfe-8778-4bd9-b925-de299e3c95da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m89_unrestricted_occupation_set_identity_v2
 -- name    : Kyprianou.Ch08.StageB.p2m89_unrestricted_occupation_set_identity_v2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T08:15:36.752388+00:00
 -- url     : https://prove2.me/theorems/33cf8321-6b73-409d-84cc-a8da6fcb2949

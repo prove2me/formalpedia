@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_derivIdeal_le_pow_of_le_pow
 -- name    : FunctorialResolution.EmbeddedResolution.derivIdeal_le_pow_of_le_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:46:34.097164+00:00
 -- url     : https://prove2.me/theorems/2c2ba974-5537-442d-b800-6ce7d65a2c16

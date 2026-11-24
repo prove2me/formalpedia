@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_YangianSpanCharacter_P_wedgeMapInLieAlgebra
 -- name    : Formalism.YangianSpanCharacter.P.wedgeMapInLieAlgebra
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:35:59.579848+00:00
 -- url     : https://prove2.me/theorems/a9754b0e-0547-4c9c-ac3e-0177b86335df

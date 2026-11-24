@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_truncatedSeries_sub_mem_maximalIdeal_pow
 -- name    : FunctorialResolution.EmbeddedResolution.truncatedSeries_sub_mem_maximalIdeal_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:12:26.637449+00:00
 -- url     : https://prove2.me/theorems/20f578a5-5c35-47b4-a24f-041a417f4499

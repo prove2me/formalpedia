@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartJLaw_constantCoeff_ev
 -- name    : GlobalTheory.ChartJLaw.constantCoeff_ev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:10:38.975899+00:00
 -- url     : https://prove2.me/theorems/2beae66b-c15c-4799-8180-d026879e8a54

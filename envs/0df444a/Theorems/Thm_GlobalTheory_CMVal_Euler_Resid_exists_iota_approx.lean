@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_Resid_exists_iota_approx
 -- name    : GlobalTheory.CMVal.Euler.Resid.exists_iota_approx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:05:09.423807+00:00
 -- url     : https://prove2.me/theorems/15d22159-571c-4e2b-915b-1a23f07d9d18

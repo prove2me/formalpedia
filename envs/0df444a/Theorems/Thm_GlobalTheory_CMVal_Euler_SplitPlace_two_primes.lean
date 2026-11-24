@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_SplitPlace_two_primes
 -- name    : GlobalTheory.CMVal.Euler.SplitPlace.two_primes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:04:54.627714+00:00
 -- url     : https://prove2.me/theorems/92184451-6009-4349-bf2e-729102e2036d

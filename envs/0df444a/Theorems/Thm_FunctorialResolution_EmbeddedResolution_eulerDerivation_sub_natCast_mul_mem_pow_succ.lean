@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_eulerDerivation_sub_natCast_mul_mem_pow_succ
 -- name    : FunctorialResolution.EmbeddedResolution.eulerDerivation_sub_natCast_mul_mem_pow_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:46:47.833305+00:00
 -- url     : https://prove2.me/theorems/ebd0e3ec-3809-40b8-a5bc-ea8a70beb386

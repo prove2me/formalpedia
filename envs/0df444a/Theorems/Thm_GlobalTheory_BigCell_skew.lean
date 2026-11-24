@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BigCell_skew
 -- name    : GlobalTheory.BigCell.skew
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:01:09.21837+00:00
 -- url     : https://prove2.me/theorems/76a93fb4-223f-4232-abe1-5f1061370d37

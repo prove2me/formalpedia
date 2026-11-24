@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Adelic_OrthHaar_transvection_mulVec_apply
 -- name    : GlobalTheory.CompanionTheory.Adelic.OrthHaar.transvection_mulVec_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:16:30.248275+00:00
 -- url     : https://prove2.me/theorems/ff0d03c4-d6cd-4a44-a7ba-b942c0a25fac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_CubeR_map_formal_group_subst
 -- name    : Formalism.L2.Th1.A.CubeR.map_formal_group_subst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:19:52.143072+00:00
 -- url     : https://prove2.me/theorems/113d6c7b-8c96-432a-bf5f-ec94cd731bc3

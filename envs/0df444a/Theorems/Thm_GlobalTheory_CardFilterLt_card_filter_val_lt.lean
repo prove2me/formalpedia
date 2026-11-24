@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CardFilterLt_card_filter_val_lt
 -- name    : GlobalTheory.CardFilterLt.card_filter_val_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:07:03.214666+00:00
 -- url     : https://prove2.me/theorems/eb37ff67-5cdd-4c76-be3e-4e6dbdd3f007

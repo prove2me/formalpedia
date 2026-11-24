@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_inner_totalPositionAction
 -- name    : Formalism.REAL.inner_totalPositionAction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:23:19.3701+00:00
 -- url     : https://prove2.me/theorems/193ecb8e-9a20-4eb5-aa84-755c3db143e5

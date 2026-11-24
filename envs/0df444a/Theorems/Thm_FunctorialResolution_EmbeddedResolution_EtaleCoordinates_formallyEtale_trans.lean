@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EtaleCoordinates_formallyEtale_trans
 -- name    : FunctorialResolution.EmbeddedResolution.EtaleCoordinates.formallyEtale_trans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:45:55.208121+00:00
 -- url     : https://prove2.me/theorems/ecdde7a6-4963-49e4-b483-b49a1b3b1765

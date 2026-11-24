@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommonAlgClosedExtension_exists_common_algClosed_extension
 -- name    : GlobalTheory.CommonAlgClosedExtension.exists_common_algClosed_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:16:58.005158+00:00
 -- url     : https://prove2.me/theorems/02908397-7ab5-4d81-9965-97e56be540fd

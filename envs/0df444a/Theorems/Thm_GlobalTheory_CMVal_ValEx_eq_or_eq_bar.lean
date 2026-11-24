@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_ValEx_eq_or_eq_bar
 -- name    : GlobalTheory.CMVal.ValEx.eq_or_eq_bar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:07:20.247009+00:00
 -- url     : https://prove2.me/theorems/3b28fcbf-379f-4ec1-9530-1c94e7ff0e88

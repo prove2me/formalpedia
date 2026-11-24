@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdSplit_exists_adele_equiv
 -- name    : GlobalTheory.AdSplit.exists_adele_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:09:35.601716+00:00
 -- url     : https://prove2.me/theorems/2a9ee269-c790-4db6-b81b-6b7d66158a6c

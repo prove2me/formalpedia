@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BddFinite_exists_clearing
 -- name    : GlobalTheory.BddFinite.exists_clearing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:59:53.85698+00:00
 -- url     : https://prove2.me/theorems/cc9f9953-a491-44d3-88d2-25bc18d97493

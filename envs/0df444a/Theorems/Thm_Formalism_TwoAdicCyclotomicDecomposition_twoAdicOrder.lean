@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_twoAdicOrder
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.twoAdicOrder
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T16:52:12.026788+00:00
 -- url     : https://prove2.me/theorems/bf1d68c2-f3fb-4aeb-897f-987b9962aa0d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_chebyshev_character_continuousAt
 -- name    : Formalism.ZeroFreeDirichlet.chebyshev_character_continuousAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:43:55.03789+00:00
 -- url     : https://prove2.me/theorems/22d6812b-579f-4c68-8159-e3c1f552aa49

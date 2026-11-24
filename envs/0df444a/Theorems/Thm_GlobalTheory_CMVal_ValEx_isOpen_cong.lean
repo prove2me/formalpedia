@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_ValEx_isOpen_cong
 -- name    : GlobalTheory.CMVal.ValEx.isOpen_cong
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:06:42.386236+00:00
 -- url     : https://prove2.me/theorems/63fbaece-fa8e-42ee-bda7-e8ff571d9b41

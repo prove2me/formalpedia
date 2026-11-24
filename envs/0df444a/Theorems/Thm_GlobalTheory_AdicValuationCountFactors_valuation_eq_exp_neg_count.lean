@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdicValuationCountFactors_valuation_eq_exp_neg_count
 -- name    : GlobalTheory.AdicValuationCountFactors.valuation_eq_exp_neg_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:08:26.763897+00:00
 -- url     : https://prove2.me/theorems/941e6cea-df49-4b6f-8731-b35c97c54e33

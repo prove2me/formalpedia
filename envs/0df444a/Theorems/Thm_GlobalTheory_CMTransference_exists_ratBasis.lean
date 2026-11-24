@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMTransference_exists_ratBasis
 -- name    : GlobalTheory.CMTransference.exists_ratBasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:05:14.413546+00:00
 -- url     : https://prove2.me/theorems/5e260ca2-6b0f-4502-b25c-30373d4b24a6

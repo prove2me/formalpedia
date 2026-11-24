@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_lfunction_one_same_character
 -- name    : Formalism.ZeroFreeDirichlet.lfunction_one_same_character
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:42:45.273408+00:00
 -- url     : https://prove2.me/theorems/9bf00cd6-17e7-4671-882f-081f16827740

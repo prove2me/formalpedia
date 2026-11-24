@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_Basic_coeff_mul_eq_conv
 -- name    : GlobalTheory.BadShare.Basic.coeff_mul_eq_conv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:59:58.029997+00:00
 -- url     : https://prove2.me/theorems/0162e81e-06f9-41c3-b0f8-2ba844a5f049

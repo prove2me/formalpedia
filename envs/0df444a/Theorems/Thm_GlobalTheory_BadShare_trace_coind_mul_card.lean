@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_trace_coind_mul_card
 -- name    : GlobalTheory.BadShare.trace_coind_mul_card
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:59:20.560858+00:00
 -- url     : https://prove2.me/theorems/60e1189c-4a53-419a-b5e4-8630870cdaa3

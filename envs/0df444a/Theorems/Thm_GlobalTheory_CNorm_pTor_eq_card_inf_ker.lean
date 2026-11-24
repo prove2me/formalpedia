@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_pTor_eq_card_inf_ker
 -- name    : GlobalTheory.CNorm.pTor_eq_card_inf_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:06:51.763887+00:00
 -- url     : https://prove2.me/theorems/39d7d417-2673-43cf-bd46-bcc3f621afeb

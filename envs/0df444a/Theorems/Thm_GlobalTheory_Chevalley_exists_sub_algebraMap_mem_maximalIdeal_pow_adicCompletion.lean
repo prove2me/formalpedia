@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chevalley_exists_sub_algebraMap_mem_maximalIdeal_pow_adicCompletion
 -- name    : GlobalTheory.Chevalley.exists_sub_algebraMap_mem_maximalIdeal_pow_adicCompletion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:10:31.108082+00:00
 -- url     : https://prove2.me/theorems/85bfa191-869a-4d6e-9f48-5ace48f5cd34

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_char_coset_sum_eq_zero
 -- name    : GlobalTheory.BI.char_coset_sum_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:57:50.989543+00:00
 -- url     : https://prove2.me/theorems/64990796-7914-4463-95d5-610121a0ee3d

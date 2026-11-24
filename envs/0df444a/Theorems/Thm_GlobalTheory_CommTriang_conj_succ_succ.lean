@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommTriang_conj_succ_succ
 -- name    : GlobalTheory.CommTriang.conj_succ_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:15:22.63407+00:00
 -- url     : https://prove2.me/theorems/7daa387c-3877-4a8d-8261-fc85502f988d

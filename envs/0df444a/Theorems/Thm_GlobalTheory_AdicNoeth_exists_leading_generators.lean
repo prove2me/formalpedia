@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdicNoeth_exists_leading_generators
 -- name    : GlobalTheory.AdicNoeth.exists_leading_generators
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:55:51.770905+00:00
 -- url     : https://prove2.me/theorems/81d2c1f0-3db6-46fc-b755-f1cccf7545e5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_levelaf_decomp
 -- name    : Formalism.UG.P.levelaf_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:33:31.244946+00:00
 -- url     : https://prove2.me/theorems/9830d30d-8421-46d2-a543-e432ed4ac1fc

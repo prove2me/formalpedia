@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_exwaF_val_det_top
 -- name    : Formalism.WeaklyAdmissibleFiltrations.exwaF_val_det_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:39:22.434856+00:00
 -- url     : https://prove2.me/theorems/53ed1d94-7c75-4a1b-8d1c-78f2a4e20ffa

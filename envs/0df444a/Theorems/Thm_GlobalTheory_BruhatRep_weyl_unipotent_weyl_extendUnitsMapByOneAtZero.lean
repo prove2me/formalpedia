@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BruhatRep_weyl_unipotent_weyl_extendUnitsMapByOneAtZero
 -- name    : GlobalTheory.BruhatRep.weyl_unipotent_weyl_extendUnitsMapByOneAtZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:02:55.416494+00:00
 -- url     : https://prove2.me/theorems/df60f086-6f7f-4868-b58b-c33526655019

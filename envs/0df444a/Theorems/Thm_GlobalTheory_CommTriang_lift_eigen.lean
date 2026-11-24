@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommTriang_lift_eigen
 -- name    : GlobalTheory.CommTriang.lift_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:16:42.338358+00:00
 -- url     : https://prove2.me/theorems/ebffd3c7-6ce3-493e-a593-ab1b4279a8b0

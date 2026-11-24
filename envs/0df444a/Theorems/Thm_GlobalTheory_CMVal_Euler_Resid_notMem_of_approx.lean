@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_Resid_notMem_of_approx
 -- name    : GlobalTheory.CMVal.Euler.Resid.notMem_of_approx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:06:46.581902+00:00
 -- url     : https://prove2.me/theorems/d973d73e-970f-4626-9296-04e6126c0ac3

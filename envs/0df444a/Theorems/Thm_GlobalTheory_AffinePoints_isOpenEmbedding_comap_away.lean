@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_isOpenEmbedding_comap_away
 -- name    : GlobalTheory.AffinePoints.isOpenEmbedding_comap_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:54:56.665677+00:00
 -- url     : https://prove2.me/theorems/ff04f48e-5888-46af-909b-dd1ddd4482b6

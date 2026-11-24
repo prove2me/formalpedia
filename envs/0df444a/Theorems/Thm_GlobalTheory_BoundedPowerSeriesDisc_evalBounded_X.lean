@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoundedPowerSeriesDisc_evalBounded_X
 -- name    : GlobalTheory.BoundedPowerSeriesDisc.evalBounded_X
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:42:02.94256+00:00
 -- url     : https://prove2.me/theorems/2a942b27-85ee-490e-954d-fbd88b9bb4d0

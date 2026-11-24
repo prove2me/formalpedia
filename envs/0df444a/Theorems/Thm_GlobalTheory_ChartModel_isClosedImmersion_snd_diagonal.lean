@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartModel_isClosedImmersion_snd_diagonal
 -- name    : GlobalTheory.ChartModel.isClosedImmersion_snd_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:27:51.477195+00:00
 -- url     : https://prove2.me/theorems/5a198ee7-e446-44e1-bf82-42733e991bbf

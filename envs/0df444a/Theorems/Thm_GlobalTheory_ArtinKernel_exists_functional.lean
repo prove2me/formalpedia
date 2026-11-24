@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArtinKernel_exists_functional
 -- name    : GlobalTheory.ArtinKernel.exists_functional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:58:45.585978+00:00
 -- url     : https://prove2.me/theorems/b72d9a8a-536a-49f1-a541-604ca803371b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxReps_exists_finset_box_reps
 -- name    : GlobalTheory.BoxReps.exists_finset_box_reps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:02:48.83082+00:00
 -- url     : https://prove2.me/theorems/03f1acbb-149b-43d0-800d-48dde2713a07

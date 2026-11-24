@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AugCot_finrank_eq_of_free
 -- name    : GlobalTheory.AugCot.finrank_eq_of_free
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:45:17.22069+00:00
 -- url     : https://prove2.me/theorems/1e99b29c-7008-4b35-a35f-96f86ed7f05f

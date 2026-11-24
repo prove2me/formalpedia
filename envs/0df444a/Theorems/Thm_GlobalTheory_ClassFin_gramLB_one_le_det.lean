@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_gramLB_one_le_det
 -- name    : GlobalTheory.ClassFin.gramLB_one_le_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:11:32.469713+00:00
 -- url     : https://prove2.me/theorems/808e602f-518f-46d1-8eb7-2b47dccb20ce

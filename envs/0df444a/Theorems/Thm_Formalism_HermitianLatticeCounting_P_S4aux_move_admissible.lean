@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_move_admissible
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.move_admissible
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:00:42.920138+00:00
 -- url     : https://prove2.me/theorems/ecb1fa4b-44b5-4fc9-8808-55c746d59693

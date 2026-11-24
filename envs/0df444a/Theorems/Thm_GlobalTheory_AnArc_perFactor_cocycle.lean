@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_perFactor_cocycle
 -- name    : GlobalTheory.AnArc.perFactor_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:12:35.769069+00:00
 -- url     : https://prove2.me/theorems/b46cdd55-7db4-41bf-8bf5-e741aceb2d35

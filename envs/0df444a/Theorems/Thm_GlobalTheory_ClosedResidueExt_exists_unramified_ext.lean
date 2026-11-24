@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClosedResidueExt_exists_unramified_ext
 -- name    : GlobalTheory.ClosedResidueExt.exists_unramified_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:13:16.684986+00:00
 -- url     : https://prove2.me/theorems/ec58bde9-cd09-47c1-b2f3-cac3be575e7f

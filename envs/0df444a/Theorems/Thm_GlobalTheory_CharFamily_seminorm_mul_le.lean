@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharFamily_seminorm_mul_le
 -- name    : GlobalTheory.CharFamily.seminorm_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:08:15.104904+00:00
 -- url     : https://prove2.me/theorems/605f70fe-c9b9-41d4-babb-5d3c99012be7

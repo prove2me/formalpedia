@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcConst_algZ_of
 -- name    : GlobalTheory.ArcConst.algZ_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:58:33.765053+00:00
 -- url     : https://prove2.me/theorems/2498fe32-008c-44dc-bccc-ce91d7f42df0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CloseToUnitNorm_norm_eq_one_of_close
 -- name    : GlobalTheory.CloseToUnitNorm.norm_eq_one_of_close
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:13:48.960236+00:00
 -- url     : https://prove2.me/theorems/293218ee-cad2-4365-9852-e9586986e6f1

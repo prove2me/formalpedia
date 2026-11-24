@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_An_norm_sub_two_le
 -- name    : GlobalTheory.CompanionTheory.An.norm_sub_two_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:18:51.402801+00:00
 -- url     : https://prove2.me/theorems/d46afc5c-773b-4d73-918d-38f90064308c

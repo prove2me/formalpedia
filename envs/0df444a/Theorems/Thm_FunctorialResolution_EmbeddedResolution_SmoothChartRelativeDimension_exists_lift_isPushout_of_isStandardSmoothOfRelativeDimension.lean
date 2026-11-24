@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_SmoothChartRelativeDimension_exists_lift_isPushout_of_isStandardSmoothOfRelativeDimension
 -- name    : FunctorialResolution.EmbeddedResolution.SmoothChartRelativeDimension.exists_lift_isPushout_of_isStandardSmoothOfRelativeDimension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:47:49.075412+00:00
 -- url     : https://prove2.me/theorems/96829c42-4f3b-4f5a-b51b-e672d51f9fc4

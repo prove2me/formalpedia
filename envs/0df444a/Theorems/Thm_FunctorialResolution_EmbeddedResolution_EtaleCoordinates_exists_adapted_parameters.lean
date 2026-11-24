@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EtaleCoordinates_exists_adapted_parameters
 -- name    : FunctorialResolution.EmbeddedResolution.EtaleCoordinates.exists_adapted_parameters
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:45:46.301468+00:00
 -- url     : https://prove2.me/theorems/0dca1f9e-de2f-4bc5-87c9-c6dc5ac52654

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CokerMinimalPrimes_exists_nat_mem_sup
 -- name    : GlobalTheory.CokerMinimalPrimes.exists_nat_mem_sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:15:03.605505+00:00
 -- url     : https://prove2.me/theorems/5a5e5639-fab2-4495-bc82-1f60bf954439

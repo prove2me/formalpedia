@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_exists_eq_C_mul_of_dvd
 -- name    : GlobalTheory.Chow.exists_eq_C_mul_of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:09:54.344841+00:00
 -- url     : https://prove2.me/theorems/2e461963-8f4a-4f16-a999-a72f505cdd24

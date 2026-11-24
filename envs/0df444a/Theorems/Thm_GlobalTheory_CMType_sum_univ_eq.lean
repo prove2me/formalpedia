@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMType_sum_univ_eq
 -- name    : GlobalTheory.CMType.sum_univ_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:04:02.622457+00:00
 -- url     : https://prove2.me/theorems/089b3fec-1848-4f01-92cf-aa4ca257c0e0

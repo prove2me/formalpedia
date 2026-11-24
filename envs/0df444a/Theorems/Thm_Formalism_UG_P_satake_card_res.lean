@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satake_card_res
 -- name    : Formalism.UG.P.satake_card_res
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:33:45.540809+00:00
 -- url     : https://prove2.me/theorems/cb6da39d-c8ee-4f6a-a2e0-50a00a9e9d7c

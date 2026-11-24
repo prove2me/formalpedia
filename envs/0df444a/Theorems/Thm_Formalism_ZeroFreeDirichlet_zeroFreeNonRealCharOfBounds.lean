@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_zeroFreeNonRealCharOfBounds
 -- name    : Formalism.ZeroFreeDirichlet.zeroFreeNonRealCharOfBounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:44:05.193211+00:00
 -- url     : https://prove2.me/theorems/baaed892-d48b-463b-ac91-5e1dcba47429

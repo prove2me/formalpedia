@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_pows_eq_range_dif_pow
 -- name    : GlobalTheory.CNorm.pows_eq_range_dif_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:06:54.485482+00:00
 -- url     : https://prove2.me/theorems/7f617c8a-bbd7-424e-82cf-8301514bb8b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Adelic_Packing_exists_max_sep
 -- name    : GlobalTheory.CompanionTheory.Adelic.Packing.exists_max_sep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:16:07.48444+00:00
 -- url     : https://prove2.me/theorems/d90c7bb0-32e0-42b2-a5fd-2376a54d6154

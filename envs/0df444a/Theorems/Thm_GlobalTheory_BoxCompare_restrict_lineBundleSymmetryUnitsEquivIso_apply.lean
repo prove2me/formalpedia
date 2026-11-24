@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxCompare_restrict_lineBundleSymmetryUnitsEquivIso_apply
 -- name    : GlobalTheory.BoxCompare.restrict_lineBundleSymmetryUnitsEquivIso_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:01:44.785256+00:00
 -- url     : https://prove2.me/theorems/fa35a0ff-3c22-43b1-812b-60e970926ea8

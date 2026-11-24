@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_IdeleIdeal_count_idealOf
 -- name    : GlobalTheory.CMVal.IdeleIdeal.count_idealOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:05:50.168249+00:00
 -- url     : https://prove2.me/theorems/758e59ce-b040-4ccd-b55f-93f8693b0f5b

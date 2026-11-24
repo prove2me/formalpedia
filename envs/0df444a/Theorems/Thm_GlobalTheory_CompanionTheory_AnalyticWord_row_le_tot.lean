@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AnalyticWord_row_le_tot
 -- name    : GlobalTheory.CompanionTheory.AnalyticWord.row_le_tot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:18:13.425788+00:00
 -- url     : https://prove2.me/theorems/5194b1bf-d817-4c9a-8702-44e5da5a5461

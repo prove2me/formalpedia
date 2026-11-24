@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharDualMat_integral_of_dual
 -- name    : GlobalTheory.CharDualMat.integral_of_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:08:25.445967+00:00
 -- url     : https://prove2.me/theorems/b97bb829-2f84-415a-abb5-7e6a88c94b2b

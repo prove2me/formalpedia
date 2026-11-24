@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WindowSums_zv_pow_nat
 -- name    : Formalism.WindowSums.zv_pow_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:39:50.819426+00:00
 -- url     : https://prove2.me/theorems/cda5c0c4-0edb-4c30-8973-9b6c44e5e955

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_SectionsFourToSixTransfer_joint_four_five
 -- name    : Formalism.LFunctionChainParameters.SectionsFourToSixTransfer.joint_four_five
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:11.973192+00:00
 -- url     : https://prove2.me/theorems/e4decd19-27bb-4ec3-bb93-77dc6103925a

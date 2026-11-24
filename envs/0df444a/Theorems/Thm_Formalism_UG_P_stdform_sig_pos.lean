@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_stdform_sig_pos
 -- name    : Formalism.UG.P.stdform_sig_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:08:36.071039+00:00
 -- url     : https://prove2.me/theorems/f838cacf-013d-4de2-8614-ed10123d9f05

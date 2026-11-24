@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactDualQuot_qf_eq_sum
 -- name    : GlobalTheory.CompactDualQuot.qf_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:17:04.271293+00:00
 -- url     : https://prove2.me/theorems/7c23ee1c-e443-4b46-a502-292eb120c578

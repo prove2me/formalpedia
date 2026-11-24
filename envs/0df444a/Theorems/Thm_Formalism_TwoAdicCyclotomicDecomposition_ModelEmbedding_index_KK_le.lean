@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_ModelEmbedding_index_KK_le
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.ModelEmbedding.index_KK_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:28:54.610075+00:00
 -- url     : https://prove2.me/theorems/080f77ae-80ee-4d01-a4f8-6aab046e0f42

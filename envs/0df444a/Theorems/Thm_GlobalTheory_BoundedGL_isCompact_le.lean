@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoundedGL_isCompact_le
 -- name    : GlobalTheory.BoundedGL.isCompact_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:01:30.959812+00:00
 -- url     : https://prove2.me/theorems/9b8c66f7-6322-4c36-9be4-4e0f2d2eb714

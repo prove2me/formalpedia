@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharNormHalf_normTwist_apply
 -- name    : GlobalTheory.CharNormHalf.normTwist_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:07:51.214094+00:00
 -- url     : https://prove2.me/theorems/b3d0fa5c-0de9-424f-bf63-ffa54ce3c764

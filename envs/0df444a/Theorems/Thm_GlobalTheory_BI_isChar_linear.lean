@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_isChar_linear
 -- name    : GlobalTheory.BI.isChar_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:58:42.810121+00:00
 -- url     : https://prove2.me/theorems/41c1ebe6-3d85-46d2-b8cb-ce4a06fb6968

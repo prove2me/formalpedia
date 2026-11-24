@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BruhatRep_weyl_mul_self_eq_extendUnitsMapByOneAtZero_neg_one
 -- name    : GlobalTheory.BruhatRep.weyl_mul_self_eq_extendUnitsMapByOneAtZero_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:02:46.745809+00:00
 -- url     : https://prove2.me/theorems/ee4b0398-3989-4d7d-a7c2-22393fdc10e5

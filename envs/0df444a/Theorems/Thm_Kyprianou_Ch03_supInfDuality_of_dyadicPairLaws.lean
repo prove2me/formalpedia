@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_supInfDuality_of_dyadicPairLaws
 -- name    : Kyprianou.Ch03.supInfDuality_of_dyadicPairLaws
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T07:09:11.366564+00:00
 -- url     : https://prove2.me/theorems/bf2d9bef-0c14-4af5-a55a-1c004b63cba5

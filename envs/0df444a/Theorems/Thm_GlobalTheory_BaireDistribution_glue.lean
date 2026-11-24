@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BaireDistribution_glue
 -- name    : GlobalTheory.BaireDistribution.glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:59:51.739179+00:00
 -- url     : https://prove2.me/theorems/ddab3e82-0fa2-44d9-830d-e36f980b9a19

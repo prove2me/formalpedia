@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_negLogDerivPositivity
 -- name    : Formalism.ZeroFreeDirichlet.negLogDerivPositivity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:58:52.280245+00:00
 -- url     : https://prove2.me/theorems/75f229dd-e922-4675-99c6-d55c789e969c

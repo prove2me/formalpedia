@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_supremumInfimumDuality
 -- name    : Kyprianou.Ch03.supremumInfimumDuality
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T13:38:56.180599+00:00
 -- url     : https://prove2.me/theorems/f3decb5b-3c0d-4063-b885-79044b1ecb2f

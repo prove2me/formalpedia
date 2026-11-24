@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_satake_hAct_spherical
 -- name    : Formalism.UG.P.satake_hAct_spherical
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:34:23.22586+00:00
 -- url     : https://prove2.me/theorems/7d943eea-e3a8-4b99-bc89-9d527c018fb6

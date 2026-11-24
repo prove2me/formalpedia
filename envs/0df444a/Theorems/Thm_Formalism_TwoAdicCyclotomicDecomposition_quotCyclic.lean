@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_quotCyclic
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.quotCyclic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:05:40.87061+00:00
 -- url     : https://prove2.me/theorems/8357dd3e-6c7f-489c-88f5-cb5b33f8d3f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CokerMinimalPrimes_exists_pow_mul_mem_range
 -- name    : GlobalTheory.CokerMinimalPrimes.exists_pow_mul_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:14:32.525227+00:00
 -- url     : https://prove2.me/theorems/157c48d1-d4e9-4f38-aa6c-2541da8a9f9e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankGapBounds_LocalQuadraticParts_ordersSumY_of
 -- name    : Formalism.RankGapBounds.LocalQuadraticParts.ordersSumY_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:09:15.382117+00:00
 -- url     : https://prove2.me/theorems/0ba4de48-6fa7-43a6-8ffb-888eadf83588

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffFunctional_lap_one_map
 -- name    : GlobalTheory.CoeffFunctional.lap_one_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:15:21.617857+00:00
 -- url     : https://prove2.me/theorems/70aaca9f-baa4-4d4b-b822-b40e519c094a

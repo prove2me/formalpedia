@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_completedStoppingTimeIInfISupAEEqV1
 -- name    : Kyprianou.Ch03.completedStoppingTimeIInfISupAEEqV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T10:08:27.182968+00:00
 -- url     : https://prove2.me/theorems/272b4daf-d2bf-43b0-9a5c-43b3a2ec2a13

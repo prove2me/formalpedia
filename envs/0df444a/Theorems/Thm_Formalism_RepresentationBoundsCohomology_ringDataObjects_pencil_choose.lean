@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_ringDataObjects_pencil_choose
 -- name    : Formalism.RepresentationBoundsCohomology.ringDataObjects.pencil_choose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:28:46.683156+00:00
 -- url     : https://prove2.me/theorems/89e1fe69-e4bf-48bd-bad9-d7accbe39c44

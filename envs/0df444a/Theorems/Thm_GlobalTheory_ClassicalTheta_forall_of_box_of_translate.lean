@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassicalTheta_forall_of_box_of_translate
 -- name    : GlobalTheory.ClassicalTheta.forall_of_box_of_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:13:43.588802+00:00
 -- url     : https://prove2.me/theorems/2461c6fe-8d23-4957-a118-5149c18bdca7

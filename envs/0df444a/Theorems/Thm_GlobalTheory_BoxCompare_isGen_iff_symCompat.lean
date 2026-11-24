@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxCompare_isGen_iff_symCompat
 -- name    : GlobalTheory.BoxCompare.isGen_iff_symCompat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:46:51.869803+00:00
 -- url     : https://prove2.me/theorems/af834cb7-4ab2-4f2d-8d87-1b0dfa4cc608

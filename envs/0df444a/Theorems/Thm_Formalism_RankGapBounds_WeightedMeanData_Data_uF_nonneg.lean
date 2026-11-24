@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankGapBounds_WeightedMeanData_Data_uF_nonneg
 -- name    : Formalism.RankGapBounds.WeightedMeanData.Data.uF_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:25:41.433167+00:00
 -- url     : https://prove2.me/theorems/24bfb869-acce-4205-a786-c5e98c32bc4a

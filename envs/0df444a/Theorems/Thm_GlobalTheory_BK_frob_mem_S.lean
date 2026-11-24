@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_frob_mem_S
 -- name    : GlobalTheory.BK.frob_mem_S
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:57:59.820272+00:00
 -- url     : https://prove2.me/theorems/e2dcdebd-1a20-4e1e-a865-b7be4beca910

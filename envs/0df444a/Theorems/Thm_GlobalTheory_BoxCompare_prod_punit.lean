@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxCompare_prod_punit
 -- name    : GlobalTheory.BoxCompare.prod_punit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:01:15.723369+00:00
 -- url     : https://prove2.me/theorems/51e9880f-13c1-416c-bdc7-1caff14f6f4a

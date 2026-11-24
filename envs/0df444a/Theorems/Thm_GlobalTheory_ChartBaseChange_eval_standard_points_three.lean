@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartBaseChange_eval_standard_points_three
 -- name    : GlobalTheory.ChartBaseChange.eval_standard_points_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:11:00.645528+00:00
 -- url     : https://prove2.me/theorems/dd4012e5-1c90-46a2-bd2e-42e08bbf1c10

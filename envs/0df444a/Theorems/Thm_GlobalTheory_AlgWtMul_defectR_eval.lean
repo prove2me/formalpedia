@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AlgWtMul_defectR_eval
 -- name    : GlobalTheory.AlgWtMul.defectR_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:57:30.010773+00:00
 -- url     : https://prove2.me/theorems/dab81cb6-af7a-429d-ae17-7d0d36602461

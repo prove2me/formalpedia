@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharForm_exists_periodic
 -- name    : GlobalTheory.CharForm.exists_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:07:16.988137+00:00
 -- url     : https://prove2.me/theorems/32cd3afb-c62d-4fbb-b0b1-a567d38f5509

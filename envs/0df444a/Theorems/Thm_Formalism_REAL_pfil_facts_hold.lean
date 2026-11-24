@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_pfil_facts_hold
 -- name    : Formalism.REAL.pfil_facts_hold
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:46.582986+00:00
 -- url     : https://prove2.me/theorems/d3dee683-7ad7-40b8-a030-211e7d8654ae

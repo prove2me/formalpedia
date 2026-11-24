@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenFrameSpan_prodD_mem
 -- name    : GenFrameSpan.prodD_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:51:16.609063+00:00
 -- url     : https://prove2.me/theorems/ee6c0cbc-260a-4b28-af2b-e9c54be22ec1

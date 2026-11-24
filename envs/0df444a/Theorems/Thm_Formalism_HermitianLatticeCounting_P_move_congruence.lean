@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_move_congruence
 -- name    : Formalism.HermitianLatticeCounting.P.move_congruence
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:55.131956+00:00
 -- url     : https://prove2.me/theorems/33c7414a-a186-45ac-9fa0-e9c05d88e4df

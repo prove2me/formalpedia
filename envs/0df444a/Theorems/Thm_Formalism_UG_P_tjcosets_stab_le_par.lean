@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_tjcosets_stab_le_par
 -- name    : Formalism.UG.P.tjcosets_stab_le_par
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:37:57.231141+00:00
 -- url     : https://prove2.me/theorems/743b53bd-9954-4b9d-864d-ca57581b1121

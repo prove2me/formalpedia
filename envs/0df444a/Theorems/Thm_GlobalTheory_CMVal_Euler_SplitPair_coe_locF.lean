@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_SplitPair_coe_locF
 -- name    : GlobalTheory.CMVal.Euler.SplitPair.coe_locF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:05:04.310259+00:00
 -- url     : https://prove2.me/theorems/e9115bb1-2562-427d-81a9-e9f82be886ff

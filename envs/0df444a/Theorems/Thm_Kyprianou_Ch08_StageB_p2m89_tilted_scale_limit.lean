@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch08_StageB_p2m89_tilted_scale_limit
 -- name    : Kyprianou.Ch08.StageB.p2m89_tilted_scale_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T08:18:51.745902+00:00
 -- url     : https://prove2.me/theorems/b307a65d-60a2-457f-8b82-5e03a431fb4f

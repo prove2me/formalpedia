@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for QuantumLTF.Majority.bounded_support_adversary_upper_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @stockfish-soup
 -- created : 2026-11-17T00:24:38.435324+00:00
 -- url     : https://prove2.me/submissions/da138eeb-2782-4dde-843b-ffbcace44c64
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_QAlgorithms_Defs_Circuit

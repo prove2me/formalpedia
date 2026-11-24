@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassParam_gram_eq
 -- name    : GlobalTheory.ClassParam.gram_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:12:43.761475+00:00
 -- url     : https://prove2.me/theorems/a71cfaaa-0980-4997-852d-482b6f469cc9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_IdeleModule_modF_finite
 -- name    : GlobalTheory.CMVal.IdeleModule.modF_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:04:34.094862+00:00
 -- url     : https://prove2.me/theorems/975e8982-b491-4c08-8c89-395bd8edc244

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BlockReorder_blockSize_pos
 -- name    : GlobalTheory.BlockReorder.blockSize_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:01:35.77711+00:00
 -- url     : https://prove2.me/theorems/8ca6d41a-ac35-443f-92de-309c9ece1340

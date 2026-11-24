@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxCompare_corr_iff_diagOne
 -- name    : GlobalTheory.BoxCompare.corr_iff_diagOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:01:37.900815+00:00
 -- url     : https://prove2.me/theorems/7f41d31c-3562-4552-9f5e-75fc1cf78006

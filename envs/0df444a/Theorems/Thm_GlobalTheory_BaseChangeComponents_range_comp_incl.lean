@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BaseChangeComponents_range_comp_incl
 -- name    : GlobalTheory.BaseChangeComponents.range_comp_incl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:59:36.632207+00:00
 -- url     : https://prove2.me/theorems/7b186845-4aa4-49b9-b818-c55ccfc0f3a8

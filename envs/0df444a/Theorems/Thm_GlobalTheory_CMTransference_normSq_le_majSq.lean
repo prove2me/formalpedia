@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMTransference_normSq_le_majSq
 -- name    : GlobalTheory.CMTransference.normSq_le_majSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:04:57.691953+00:00
 -- url     : https://prove2.me/theorems/5fe8e079-f95c-45a4-b54c-06eec41cc65f

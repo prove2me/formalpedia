@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_characterSumData_local_unram
 -- name    : Formalism.LFunctionChainParameters.characterSumData.local_unram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:49:43.404782+00:00
 -- url     : https://prove2.me/theorems/6dfaef58-8224-4703-a50c-d1da71d57158

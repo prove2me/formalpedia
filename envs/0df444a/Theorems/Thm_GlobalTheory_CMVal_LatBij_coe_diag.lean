@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_LatBij_coe_diag
 -- name    : GlobalTheory.CMVal.LatBij.coe_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:05:47.728172+00:00
 -- url     : https://prove2.me/theorems/30af21d6-3c76-49dd-9745-995be84ff1ee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartTrans_ev_at_zero
 -- name    : GlobalTheory.ChartTrans.ev_at_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:09:38.888186+00:00
 -- url     : https://prove2.me/theorems/22485911-942f-437e-95af-c07af0064d4a

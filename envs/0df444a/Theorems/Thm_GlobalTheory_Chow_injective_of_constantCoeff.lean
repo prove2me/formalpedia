@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_injective_of_constantCoeff
 -- name    : GlobalTheory.Chow.injective_of_constantCoeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:10:09.563506+00:00
 -- url     : https://prove2.me/theorems/766c68ba-c867-4a0e-aa6b-643a00e77d07

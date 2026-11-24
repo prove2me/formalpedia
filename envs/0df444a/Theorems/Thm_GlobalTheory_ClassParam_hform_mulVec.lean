@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassParam_hform_mulVec
 -- name    : GlobalTheory.ClassParam.hform_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:12:43.060321+00:00
 -- url     : https://prove2.me/theorems/1de11251-bbef-4e99-8804-efa6515eed75

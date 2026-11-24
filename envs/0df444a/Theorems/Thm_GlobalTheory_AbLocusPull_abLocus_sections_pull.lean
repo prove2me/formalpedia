@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLocusPull_abLocus_sections_pull
 -- name    : GlobalTheory.AbLocusPull.abLocus_sections_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:52:19.629819+00:00
 -- url     : https://prove2.me/theorems/a0553513-d2d4-4ad6-80b6-88151ad40d5b

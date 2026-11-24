@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_ValEx_locU_prod
 -- name    : GlobalTheory.CMVal.ValEx.locU_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:07:10.17328+00:00
 -- url     : https://prove2.me/theorems/f20ea612-9106-44c2-8e3d-bd317800078b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeoProdPow_prod_split
 -- name    : GeoProdPow.prod_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:50:33.44895+00:00
 -- url     : https://prove2.me/theorems/8e8b77d3-d607-4f50-8822-f102adf37767

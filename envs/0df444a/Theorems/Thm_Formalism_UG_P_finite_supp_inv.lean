@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_finite_supp_inv
 -- name    : Formalism.UG.P.finite_supp_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:31:10.672082+00:00
 -- url     : https://prove2.me/theorems/7a7c8233-c547-4e0f-a810-967445ad663d

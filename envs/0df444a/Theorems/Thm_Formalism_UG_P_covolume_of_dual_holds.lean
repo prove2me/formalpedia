@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_covolume_of_dual_holds
 -- name    : Formalism.UG.P.covolume_of_dual_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:22:21.419787+00:00
 -- url     : https://prove2.me/theorems/83583b7c-22ab-44a7-8041-e84cde0c106b

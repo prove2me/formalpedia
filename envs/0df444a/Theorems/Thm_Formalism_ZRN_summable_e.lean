@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZRN_summable_e
 -- name    : Formalism.ZRN.summable_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:43:33.293023+00:00
 -- url     : https://prove2.me/theorems/b621eba0-5b0e-4cb0-91cb-1a57ac4428eb

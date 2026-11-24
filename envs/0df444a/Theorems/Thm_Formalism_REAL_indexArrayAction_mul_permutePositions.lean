@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_indexArrayAction_mul_permutePositions
 -- name    : Formalism.REAL.indexArrayAction_mul_permutePositions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:21:05.034524+00:00
 -- url     : https://prove2.me/theorems/594471b5-e968-49ba-a9a7-afce32c69755

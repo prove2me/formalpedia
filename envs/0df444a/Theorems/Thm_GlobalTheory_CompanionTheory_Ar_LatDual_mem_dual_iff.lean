@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_LatDual_mem_dual_iff
 -- name    : GlobalTheory.CompanionTheory.Ar.LatDual.mem_dual_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:19:05.509264+00:00
 -- url     : https://prove2.me/theorems/7e17e7f1-0ced-48d0-9ac0-30679a9127d9

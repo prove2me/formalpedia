@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLaw_GermRing_log_add_const
 -- name    : GlobalTheory.RowLaw.GermRing.log_add_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:55:38.762823+00:00
 -- url     : https://prove2.me/theorems/7ace020f-60c8-4a35-b5ed-b5f889bbefb7

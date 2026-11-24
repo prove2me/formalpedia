@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelCoh_exists_equivariant_proj_of_le_sum_irreducible
 -- name    : GlobalTheory.BorelCoh.exists_equivariant_proj_of_le_sum_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:01:44.250335+00:00
 -- url     : https://prove2.me/theorems/302ebe21-f1f2-486f-b051-3c341c1defba

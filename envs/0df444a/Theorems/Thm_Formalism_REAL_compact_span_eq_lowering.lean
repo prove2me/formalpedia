@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_compact_span_eq_lowering
 -- name    : Formalism.REAL.compact_span_eq_lowering
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:57:26.034139+00:00
 -- url     : https://prove2.me/theorems/1e3234f2-a42e-4273-a194-a28c4e433e4f

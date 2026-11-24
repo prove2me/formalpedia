@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Adelic_StableRangeOne_colOp_mul_apply
 -- name    : GlobalTheory.CompanionTheory.Adelic.StableRangeOne.colOp_mul_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:16:14.937799+00:00
 -- url     : https://prove2.me/theorems/87be24cf-878a-49f3-9509-d4f218437160

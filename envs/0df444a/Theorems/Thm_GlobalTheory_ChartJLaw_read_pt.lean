@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartJLaw_read_pt
 -- name    : GlobalTheory.ChartJLaw.read_pt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:11:02.395825+00:00
 -- url     : https://prove2.me/theorems/c639e359-c6e9-4993-93bb-f320c6c7b6a3

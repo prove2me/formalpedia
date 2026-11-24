@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BlockInvertibleLocal_exists_isUnit_det_add_mul_of_field
 -- name    : GlobalTheory.BlockInvertibleLocal.exists_isUnit_det_add_mul_of_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:00:57.332634+00:00
 -- url     : https://prove2.me/theorems/46a4f855-995d-4b80-a1a8-44cec88cb383

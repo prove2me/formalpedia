@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_ModelEmbedding_index_ker_psi
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.ModelEmbedding.index_ker_psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:29:03.220471+00:00
 -- url     : https://prove2.me/theorems/343ffbfb-aac9-450d-b4ec-6812bd131996

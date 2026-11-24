@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CentralIdemIntegral_trace_leftMulMatrix
 -- name    : GlobalTheory.CentralIdemIntegral.trace_leftMulMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:07:42.561039+00:00
 -- url     : https://prove2.me/theorems/a41ace0a-dece-4f67-8a44-a74bdb0fcbc4

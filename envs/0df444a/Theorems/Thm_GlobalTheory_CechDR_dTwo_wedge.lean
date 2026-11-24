@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_dTwo_wedge
 -- name    : GlobalTheory.CechDR.dTwo_wedge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:08:13.752886+00:00
 -- url     : https://prove2.me/theorems/b5308d5a-52b4-4189-beee-e55561f8ef46

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_exists_local_parameters
 -- name    : FunctorialResolution.EmbeddedResolution.exists_local_parameters
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:46:52.113863+00:00
 -- url     : https://prove2.me/theorems/572b3343-9c04-4a8c-a9da-0bd18cc0f733

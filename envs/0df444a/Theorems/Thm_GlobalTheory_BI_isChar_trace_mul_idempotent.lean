@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_isChar_trace_mul_idempotent
 -- name    : GlobalTheory.BI.isChar_trace_mul_idempotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:00:24.619532+00:00
 -- url     : https://prove2.me/theorems/1180ecfd-07a9-4d06-895d-a86a3842b355

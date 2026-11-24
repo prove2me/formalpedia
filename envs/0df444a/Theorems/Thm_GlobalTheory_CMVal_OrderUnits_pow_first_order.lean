@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_OrderUnits_pow_first_order
 -- name    : GlobalTheory.CMVal.OrderUnits.pow_first_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:07:05.233061+00:00
 -- url     : https://prove2.me/theorems/7f46d08f-4c0c-449d-8baf-1953c231ef07

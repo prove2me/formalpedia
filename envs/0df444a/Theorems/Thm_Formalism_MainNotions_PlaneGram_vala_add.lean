@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_vala_add
 -- name    : Formalism.MainNotions.PlaneGram.vala_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:38:22.989267+00:00
 -- url     : https://prove2.me/theorems/48205a58-0964-4884-b18d-96c5d7240d12

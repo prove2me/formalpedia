@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_JacobianCriterion_formallyEtale_of_isUnit_det
 -- name    : FunctorialResolution.EmbeddedResolution.JacobianCriterion.formallyEtale_of_isUnit_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:46:03.712458+00:00
 -- url     : https://prove2.me/theorems/03d05844-80e6-45d9-b7ec-2eef50769336

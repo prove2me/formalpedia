@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffExt_finrank_ext
 -- name    : GlobalTheory.CoeffExt.finrank_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:15:31.360609+00:00
 -- url     : https://prove2.me/theorems/27e761c3-9ae4-4eef-8698-885ba3d79d55

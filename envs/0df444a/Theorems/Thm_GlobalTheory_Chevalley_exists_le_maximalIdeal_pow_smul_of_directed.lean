@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chevalley_exists_le_maximalIdeal_pow_smul_of_directed
 -- name    : GlobalTheory.Chevalley.exists_le_maximalIdeal_pow_smul_of_directed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:09:15.75702+00:00
 -- url     : https://prove2.me/theorems/3106a725-65ae-4795-8683-465c0ed3bbeb

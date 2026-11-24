@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Model_unramFin_K
 -- name    : GlobalTheory.CMVal.Model.unramFin_K
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:06:34.954221+00:00
 -- url     : https://prove2.me/theorems/9522ae1b-7c40-4e27-874b-5801ccb02c8b

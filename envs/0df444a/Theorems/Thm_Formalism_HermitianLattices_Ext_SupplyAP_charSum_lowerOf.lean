@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_SupplyAP_charSum_lowerOf
 -- name    : Formalism.HermitianLattices.Ext.SupplyAP.charSum_lowerOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:45.115644+00:00
 -- url     : https://prove2.me/theorems/28250098-0bfa-48f0-b61a-192bbd0f72d8

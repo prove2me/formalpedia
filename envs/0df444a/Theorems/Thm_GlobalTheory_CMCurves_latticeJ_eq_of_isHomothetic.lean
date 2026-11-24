@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMCurves_latticeJ_eq_of_isHomothetic
 -- name    : GlobalTheory.CMCurves.latticeJ_eq_of_isHomothetic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:06:12.40874+00:00
 -- url     : https://prove2.me/theorems/ff8b0e2c-097a-4092-ab4a-c86869c9a7dd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_tjcosets_index
 -- name    : Formalism.UG.P.tjcosets_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:37:16.168299+00:00
 -- url     : https://prove2.me/theorems/2e9bf3e7-17b2-408d-bd60-26af0112695b

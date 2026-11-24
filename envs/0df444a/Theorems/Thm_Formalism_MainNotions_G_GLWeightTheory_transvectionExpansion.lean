@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_GLWeightTheory_transvectionExpansion
 -- name    : Formalism.MainNotions.G.GLWeightTheory.transvectionExpansion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:01:40.529598+00:00
 -- url     : https://prove2.me/theorems/fe80f363-3b53-42a4-8314-4b7d1744a245

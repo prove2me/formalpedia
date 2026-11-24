@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommSep_aeval_mulVec_eq_krylov
 -- name    : GlobalTheory.CommSep.aeval_mulVec_eq_krylov
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:15:33.892337+00:00
 -- url     : https://prove2.me/theorems/e7ef0031-ff54-400d-979f-6e54c6f03acb

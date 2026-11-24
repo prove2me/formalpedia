@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartJLaw_substJ_zR
 -- name    : GlobalTheory.ChartJLaw.substJ_zR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:11:25.128211+00:00
 -- url     : https://prove2.me/theorems/e284e406-180a-4275-9a4b-7d599a2ff2d5

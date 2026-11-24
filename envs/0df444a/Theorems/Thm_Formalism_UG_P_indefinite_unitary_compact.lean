@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_indefinite_unitary_compact
 -- name    : Formalism.UG.P.indefinite_unitary_compact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:26:37.95408+00:00
 -- url     : https://prove2.me/theorems/af1aa797-ea14-47b7-9900-4c4a1fb5d432

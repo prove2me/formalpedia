@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_root_ne_zero
 -- name    : GlobalTheory.BadShare.root_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:59:37.011929+00:00
 -- url     : https://prove2.me/theorems/46eb1eac-0fd4-439b-838e-24be433038a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_HermiteReduction_prod_castLE_succ
 -- name    : GlobalTheory.ClassFin.HermiteReduction.prod_castLE_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:11:19.873536+00:00
 -- url     : https://prove2.me/theorems/60df2788-6d43-451a-b819-f993a171d529

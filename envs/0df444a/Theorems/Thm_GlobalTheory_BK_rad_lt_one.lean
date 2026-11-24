@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_rad_lt_one
 -- name    : GlobalTheory.BK.rad_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:00:20.668802+00:00
 -- url     : https://prove2.me/theorems/e0c8786f-e21f-4101-b925-6b0bb7c1f316

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_Pw_smul
 -- name    : GlobalTheory.AnArc.Pw_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:56:14.556801+00:00
 -- url     : https://prove2.me/theorems/678c5fd1-8483-499c-a86b-9d23628ab996

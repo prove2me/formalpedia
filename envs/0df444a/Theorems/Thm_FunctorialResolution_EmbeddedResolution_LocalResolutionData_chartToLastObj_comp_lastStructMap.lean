@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_LocalResolutionData_chartToLastObj_comp_lastStructMap
 -- name    : FunctorialResolution.EmbeddedResolution.LocalResolutionData.chartToLastObj_comp_lastStructMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:14:37.236103+00:00
 -- url     : https://prove2.me/theorems/f70b9fd7-3066-44b5-985e-bde9e11c9ae6

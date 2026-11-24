@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_CptModel_eq_of_specializes
 -- name    : GlobalTheory.CompanionTheory.Ar.CptModel.eq_of_specializes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:17:47.888124+00:00
 -- url     : https://prove2.me/theorems/e4ac7630-8d0c-4743-8ede-ded1227f7086

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_deep_mem_oneUnits
 -- name    : GlobalTheory.CNorm.deep_mem_oneUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:06:30.652013+00:00
 -- url     : https://prove2.me/theorems/222f9034-028c-4d79-bd54-55466517b206

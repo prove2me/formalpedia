@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMModel_exists_valuationSubring_complex_over_prime
 -- name    : GlobalTheory.CMModel.exists_valuationSubring_complex_over_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:04:35.655426+00:00
 -- url     : https://prove2.me/theorems/523a3963-788e-43c0-b876-a9105aec3701

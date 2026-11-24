@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_HarmMin_exists_path
 -- name    : GlobalTheory.ClassFin.HarmMin.exists_path
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:09:43.646485+00:00
 -- url     : https://prove2.me/theorems/1a0cfde6-9abc-43b2-a8a9-09043d18979e

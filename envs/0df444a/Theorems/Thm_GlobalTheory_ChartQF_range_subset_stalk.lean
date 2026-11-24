@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartQF_range_subset_stalk
 -- name    : GlobalTheory.ChartQF.range_subset_stalk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:09:11.09504+00:00
 -- url     : https://prove2.me/theorems/7058bd3a-2f90-4e38-80f9-80b52bdc2989

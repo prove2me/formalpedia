@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnisoSize_exists_near_integer
 -- name    : GlobalTheory.AnisoSize.exists_near_integer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:58:06.187977+00:00
 -- url     : https://prove2.me/theorems/dbc401f7-6a99-424d-a8a1-28b177dd5349

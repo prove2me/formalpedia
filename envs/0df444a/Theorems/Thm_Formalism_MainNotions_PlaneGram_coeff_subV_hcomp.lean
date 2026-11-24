@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_coeff_subV_hcomp
 -- name    : Formalism.MainNotions.PlaneGram.coeff_subV_hcomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:07:28.067692+00:00
 -- url     : https://prove2.me/theorems/b1464f1a-2866-4fcf-836b-7899eaa35699

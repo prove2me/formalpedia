@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_smoothed_character_sum_of
 -- name    : Formalism.ZeroFreeDirichlet.smoothed_character_sum_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:44:46.786804+00:00
 -- url     : https://prove2.me/theorems/8c09aef2-42e4-47f0-9fd9-023191612802

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AdmGL_atPlace_mul
 -- name    : GlobalTheory.CompanionTheory.AdmGL.atPlace_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:16:13.281691+00:00
 -- url     : https://prove2.me/theorems/b74e163b-ab22-445a-93d0-9cd814fd333f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cartier_IsRegularFn_associated_of_dvd_dvd
 -- name    : GlobalTheory.Cartier.IsRegularFn.associated_of_dvd_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:06:44.545249+00:00
 -- url     : https://prove2.me/theorems/c6ac58e1-24ac-4e1d-aea8-ae4aafb2bc7f

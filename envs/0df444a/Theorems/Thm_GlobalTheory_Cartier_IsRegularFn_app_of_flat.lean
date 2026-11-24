@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cartier_IsRegularFn_app_of_flat
 -- name    : GlobalTheory.Cartier.IsRegularFn.app_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:05:59.815806+00:00
 -- url     : https://prove2.me/theorems/e9342918-9829-49a2-bfc6-42c3e282fbf1

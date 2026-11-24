@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_FlagBun_CoordGen_ratio_update
 -- name    : GlobalTheory.CompanionTheory.Ar.FlagBun.CoordGen.ratio_update
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:17:59.464682+00:00
 -- url     : https://prove2.me/theorems/ab554d6f-a18f-4856-b6a7-b512808d5deb

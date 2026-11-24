@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isClosedImmersion_specToAffineSpaceExtendCoords
 -- name    : FunctorialResolution.EmbeddedResolution.isClosedImmersion_specToAffineSpaceExtendCoords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:47:43.772144+00:00
 -- url     : https://prove2.me/theorems/4a6e6d96-d16a-4367-8378-ba35f8b26227

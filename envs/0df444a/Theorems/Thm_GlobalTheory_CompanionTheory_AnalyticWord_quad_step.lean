@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AnalyticWord_quad_step
 -- name    : GlobalTheory.CompanionTheory.AnalyticWord.quad_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:18:17.138323+00:00
 -- url     : https://prove2.me/theorems/4ae0483c-adde-4313-b4e8-360a3a984905

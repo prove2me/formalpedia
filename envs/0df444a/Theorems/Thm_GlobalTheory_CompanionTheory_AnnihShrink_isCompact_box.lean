@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AnnihShrink_isCompact_box
 -- name    : GlobalTheory.CompanionTheory.AnnihShrink.isCompact_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:17:49.08385+00:00
 -- url     : https://prove2.me/theorems/97e4eaf1-c8f7-47e5-a268-a4d8c5129b3c

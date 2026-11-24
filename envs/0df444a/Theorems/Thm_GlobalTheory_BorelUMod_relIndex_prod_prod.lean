@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelUMod_relIndex_prod_prod
 -- name    : GlobalTheory.BorelUMod.relIndex_prod_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:03:21.689067+00:00
 -- url     : https://prove2.me/theorems/aed21f24-89f5-410f-945f-c4c3ebc2eb97

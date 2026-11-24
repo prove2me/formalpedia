@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_SplitPair_eq_exp_of_le
 -- name    : GlobalTheory.CMVal.Euler.SplitPair.eq_exp_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:05:13.221744+00:00
 -- url     : https://prove2.me/theorems/eef5eeb2-7088-4fad-897b-f08e1b3d3866

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BaseChangeFns_appTop_surjective
 -- name    : GlobalTheory.BaseChangeFns.appTop_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:59:42.91626+00:00
 -- url     : https://prove2.me/theorems/95f9e696-6859-4f79-96be-5b1fcc342cca

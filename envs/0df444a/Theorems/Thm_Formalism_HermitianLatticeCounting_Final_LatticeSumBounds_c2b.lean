@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LatticeSumBounds_c2b
 -- name    : Formalism.HermitianLatticeCounting.Final.LatticeSumBounds.c2b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:31:03.982207+00:00
 -- url     : https://prove2.me/theorems/6b9b47fb-09c5-400b-920d-8f3a9bdea504

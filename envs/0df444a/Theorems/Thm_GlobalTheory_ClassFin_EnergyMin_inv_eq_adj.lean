@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_EnergyMin_inv_eq_adj
 -- name    : GlobalTheory.ClassFin.EnergyMin.inv_eq_adj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:09:31.436411+00:00
 -- url     : https://prove2.me/theorems/5962c55e-b5fa-4e15-b498-670fb5f66e14

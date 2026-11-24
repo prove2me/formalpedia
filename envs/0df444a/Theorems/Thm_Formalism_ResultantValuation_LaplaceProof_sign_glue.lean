@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ResultantValuation_LaplaceProof_sign_glue
 -- name    : Formalism.ResultantValuation.LaplaceProof.sign_glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:27:42.840741+00:00
 -- url     : https://prove2.me/theorems/1b3150c3-8dfc-4240-97a2-63890519ef89

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_stoppingTimeOfStrictSublevelsRCV1
 -- name    : Kyprianou.Ch03.stoppingTimeOfStrictSublevelsRCV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T11:02:25.639654+00:00
 -- url     : https://prove2.me/theorems/7810e39f-2fe8-4be2-80be-91b000c72d3d

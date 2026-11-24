@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_uGap
 -- name    : Formalism.REAL.uGap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:26:09.535921+00:00
 -- url     : https://prove2.me/theorems/e563be17-725e-4f5c-a876-24b9f1067b1c

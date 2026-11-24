@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Adelic_lattice_pigeonhole_measure_preserving
 -- name    : GlobalTheory.CompanionTheory.Adelic.lattice_pigeonhole_measure_preserving
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:15:56.136814+00:00
 -- url     : https://prove2.me/theorems/88ec3290-2049-43ca-8ca5-bb116339c035

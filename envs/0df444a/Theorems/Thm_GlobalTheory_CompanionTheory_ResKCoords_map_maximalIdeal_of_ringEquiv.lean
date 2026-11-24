@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ResKCoords_map_maximalIdeal_of_ringEquiv
 -- name    : GlobalTheory.CompanionTheory.ResKCoords.map_maximalIdeal_of_ringEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:57:50.269977+00:00
 -- url     : https://prove2.me/theorems/9a971304-402b-4455-b1c9-43b4a66389fd

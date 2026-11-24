@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_ValEx_continuous_infOf
 -- name    : GlobalTheory.CMVal.ValEx.continuous_infOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:07:03.575981+00:00
 -- url     : https://prove2.me/theorems/38d18741-863d-4ed4-90fc-27182e401695

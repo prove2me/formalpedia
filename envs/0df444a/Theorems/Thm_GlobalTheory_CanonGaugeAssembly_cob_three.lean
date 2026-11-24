@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CanonGaugeAssembly_cob_three
 -- name    : GlobalTheory.CanonGaugeAssembly.cob_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:07:36.698868+00:00
 -- url     : https://prove2.me/theorems/44daac75-96b5-47a3-b624-6c12bf0cff07

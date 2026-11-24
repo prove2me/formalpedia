@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BaireDistribution_isCompact_support
 -- name    : GlobalTheory.BaireDistribution.isCompact_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:00:06.895801+00:00
 -- url     : https://prove2.me/theorems/0b6a615d-5384-4cc4-8962-600e51a9f5eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_HatCap_isOpen_integral
 -- name    : GlobalTheory.CMVal.HatCap.isOpen_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:05:18.751386+00:00
 -- url     : https://prove2.me/theorems/b60dfdf0-e336-417c-9e11-09d2d547be54

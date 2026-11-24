@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BaireDistribution_exists_nhds_invariant
 -- name    : GlobalTheory.BaireDistribution.exists_nhds_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:59:59.171709+00:00
 -- url     : https://prove2.me/theorems/f7b74b7a-7aa9-471e-9ee9-0c6e03ce33e4

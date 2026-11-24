@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_Top_lemmaOne
 -- name    : Formalism.InvariantFactorPaths.G7.Top.lemmaOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:16:02.346741+00:00
 -- url     : https://prove2.me/theorems/8ad22fc6-b013-4a29-8ea6-e3392ff7f4ca

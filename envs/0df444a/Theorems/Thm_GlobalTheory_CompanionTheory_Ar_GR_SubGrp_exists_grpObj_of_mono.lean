@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_GR_SubGrp_exists_grpObj_of_mono
 -- name    : GlobalTheory.CompanionTheory.Ar.GR.SubGrp.exists_grpObj_of_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:20:45.04375+00:00
 -- url     : https://prove2.me/theorems/d381b5b8-8278-4fdd-b66a-0209a845750b

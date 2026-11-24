@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharSep_toCircle_apply
 -- name    : GlobalTheory.CharSep.toCircle_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:08:45.080855+00:00
 -- url     : https://prove2.me/theorems/1afe0448-a40b-46e9-a6e4-afe762ce5355

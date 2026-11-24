@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_mellinSgen
 -- name    : Formalism.mellinSgen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:58:32.121342+00:00
 -- url     : https://prove2.me/theorems/a996d7f7-3130-479f-a979-b1fda304e036

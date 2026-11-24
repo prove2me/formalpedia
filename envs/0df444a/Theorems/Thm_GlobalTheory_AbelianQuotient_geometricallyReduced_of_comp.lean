@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbelianQuotient_geometricallyReduced_of_comp
 -- name    : GlobalTheory.AbelianQuotient.geometricallyReduced_of_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:52:23.050955+00:00
 -- url     : https://prove2.me/theorems/f162dead-0516-49fb-b819-f6fb19d38cff

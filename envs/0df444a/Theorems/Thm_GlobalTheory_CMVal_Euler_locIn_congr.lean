@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Euler_locIn_congr
 -- name    : GlobalTheory.CMVal.Euler.locIn_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:04:14.267327+00:00
 -- url     : https://prove2.me/theorems/8fa6e146-a699-4b83-aa71-524c4d501d80

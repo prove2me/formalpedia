@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_isChar_finsum_conj_ext0_of_isChar
 -- name    : GlobalTheory.BI.isChar_finsum_conj_ext0_of_isChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:58:32.906979+00:00
 -- url     : https://prove2.me/theorems/57fea7c7-434e-4386-8665-4fc1fcfb1ecd

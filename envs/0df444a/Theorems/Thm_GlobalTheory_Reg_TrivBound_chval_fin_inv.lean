@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_TrivBound_chval_fin_inv
 -- name    : GlobalTheory.Reg.TrivBound.chval_fin_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:29:32.909416+00:00
 -- url     : https://prove2.me/theorems/2ae90d14-f648-4f49-9f67-f0cc0f6b82df

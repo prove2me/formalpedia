@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BaireDistribution_doubleCoset_invariant
 -- name    : GlobalTheory.BaireDistribution.doubleCoset_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:59:58.182797+00:00
 -- url     : https://prove2.me/theorems/a3e9adf2-0793-46fb-9de1-442c5ea4907b

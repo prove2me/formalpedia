@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_coord_adapted
 -- name    : GlobalTheory.exists_coord_adapted
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:58:24.879967+00:00
 -- url     : https://prove2.me/theorems/0b150cf2-579b-42a9-9b29-befa7fbbd71f

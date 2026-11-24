@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AltCorank_good_of_finrank_eq
 -- name    : GlobalTheory.AltCorank.good_of_finrank_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:57:02.596865+00:00
 -- url     : https://prove2.me/theorems/1b6bd4fd-dc7e-45c7-8330-f979ad488d0a

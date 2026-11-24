@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_dirichlet_product_coefficients
 -- name    : Formalism.ZeroFreeDirichlet.dirichlet_product_coefficients
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:42:49.293432+00:00
 -- url     : https://prove2.me/theorems/8cb2a3ba-4f58-4878-87e2-4954365c66d0

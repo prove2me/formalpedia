@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CentralExponent_isCompact_cong
 -- name    : GlobalTheory.CentralExponent.isCompact_cong
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:08:03.509803+00:00
 -- url     : https://prove2.me/theorems/ea878002-475d-4e09-b714-7c56195bd554

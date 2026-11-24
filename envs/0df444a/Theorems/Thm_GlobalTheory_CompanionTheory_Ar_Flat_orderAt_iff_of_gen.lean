@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Flat_orderAt_iff_of_gen
 -- name    : GlobalTheory.CompanionTheory.Ar.Flat.orderAt_iff_of_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:17:53.947988+00:00
 -- url     : https://prove2.me/theorems/cf553204-5ca9-46e2-9e1d-460b558d5272

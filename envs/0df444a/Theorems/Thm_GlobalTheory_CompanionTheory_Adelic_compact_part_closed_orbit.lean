@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Adelic_compact_part_closed_orbit
 -- name    : GlobalTheory.CompanionTheory.Adelic.compact_part_closed_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:16:41.329572+00:00
 -- url     : https://prove2.me/theorems/b4260d70-58e6-4725-a82a-ebf3cfdbd46c

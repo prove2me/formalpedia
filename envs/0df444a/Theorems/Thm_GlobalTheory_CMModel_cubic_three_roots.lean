@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMModel_cubic_three_roots
 -- name    : GlobalTheory.CMModel.cubic_three_roots
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:02:35.85357+00:00
 -- url     : https://prove2.me/theorems/7322b97e-2ae2-4c3b-b0aa-25af1015988a

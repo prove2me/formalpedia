@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_EndoZ_hasDerivAt_mP
 -- name    : Formalism.L2.Th1.F.EndoZ.hasDerivAt_mP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:33:34.464813+00:00
 -- url     : https://prove2.me/theorems/e91622a2-4e16-482c-89aa-ce2f0bed3035

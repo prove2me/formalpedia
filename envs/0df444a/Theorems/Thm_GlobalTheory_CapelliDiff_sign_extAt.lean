@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CapelliDiff_sign_extAt
 -- name    : GlobalTheory.CapelliDiff.sign_extAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:07:04.320792+00:00
 -- url     : https://prove2.me/theorems/e78f4616-f837-4d4f-99c0-7185cafc0429

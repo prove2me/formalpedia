@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLaw_GermRing_intS_X
 -- name    : GlobalTheory.RowLaw.GermRing.intS_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:57:00.431738+00:00
 -- url     : https://prove2.me/theorems/ff772f67-5abf-4a12-b579-42ffe8ae2c5f

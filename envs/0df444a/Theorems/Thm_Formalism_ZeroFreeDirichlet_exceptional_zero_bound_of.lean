@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_exceptional_zero_bound_of
 -- name    : Formalism.ZeroFreeDirichlet.exceptional_zero_bound_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:43:14.719953+00:00
 -- url     : https://prove2.me/theorems/cdc70489-b8ec-4b0a-b149-d96863e8a6fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_standard_lattice_full_holds
 -- name    : Formalism.UG.P.standard_lattice_full_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:24:34.607805+00:00
 -- url     : https://prove2.me/theorems/635c543b-c55d-4a6e-9c4e-4c878c4b98c1

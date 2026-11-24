@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_RankOne_mass_eq_sum
 -- name    : Formalism.HermitianLattices.Ext.L3.RankOne.mass_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:05:21.774828+00:00
 -- url     : https://prove2.me/theorems/e331b426-3ca2-47b6-b9c3-570df6e2054b

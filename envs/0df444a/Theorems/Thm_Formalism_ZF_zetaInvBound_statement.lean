@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_zetaInvBound_statement
 -- name    : Formalism.ZF.zetaInvBound_statement
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:12:08.626746+00:00
 -- url     : https://prove2.me/theorems/033f25e7-7a16-4181-a340-8945aed0950d

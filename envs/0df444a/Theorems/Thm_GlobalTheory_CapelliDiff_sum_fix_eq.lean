@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CapelliDiff_sum_fix_eq
 -- name    : GlobalTheory.CapelliDiff.sum_fix_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:07:32.210728+00:00
 -- url     : https://prove2.me/theorems/75878973-0ff8-40c6-83c6-8de5e3bf370f

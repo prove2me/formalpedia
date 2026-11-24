@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_flipOneThree_Pf_QuadraticBasis_basisCriterion_holds
 -- name    : Formalism.MainNotions.flipOneThree.Pf.QuadraticBasis.basisCriterion_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:12:14.4313+00:00
 -- url     : https://prove2.me/theorems/8a2aeffa-5c1b-499d-bdbf-1ad92b7ebf42

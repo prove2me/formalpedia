@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ColengthDifferent_sum_eq_trace
 -- name    : GlobalTheory.ColengthDifferent.sum_eq_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:14:37.080425+00:00
 -- url     : https://prove2.me/theorems/01953bb9-e9c8-4226-a218-194249f159fd

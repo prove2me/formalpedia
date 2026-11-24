@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isCharacterOverSubfield_zero_and_add
 -- name    : GlobalTheory.T.isCharacterOverSubfield_zero_and_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:48:56.522866+00:00
 -- url     : https://prove2.me/theorems/647a31fb-513e-4eda-bcc0-4cd0110de068

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_inverseBound
 -- name    : Formalism.ZeroFreeDirichlet.inverseBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:37:51.564296+00:00
 -- url     : https://prove2.me/theorems/f9bd46c2-f9ed-42e3-ae94-9f88e26e176f

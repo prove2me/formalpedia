@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_riemannHypothesis_of_zero_free_halfPlane
 -- name    : Formalism.riemannHypothesis_of_zero_free_halfPlane
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:45:16.520711+00:00
 -- url     : https://prove2.me/theorems/708c3b92-6adb-4967-9e3b-1b52aeb00579

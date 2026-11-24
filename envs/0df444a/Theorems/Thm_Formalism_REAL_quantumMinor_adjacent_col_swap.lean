@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_quantumMinor_adjacent_col_swap
 -- name    : Formalism.REAL.quantumMinor_adjacent_col_swap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:09:45.625672+00:00
 -- url     : https://prove2.me/theorems/12b07407-ab2f-4d07-b667-053d9d1f43c0

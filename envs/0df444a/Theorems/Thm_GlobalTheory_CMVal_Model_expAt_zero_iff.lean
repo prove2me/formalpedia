@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Model_expAt_zero_iff
 -- name    : GlobalTheory.CMVal.Model.expAt_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:05:47.760154+00:00
 -- url     : https://prove2.me/theorems/8025f06f-7279-4e2d-8232-d3f8f7a42410

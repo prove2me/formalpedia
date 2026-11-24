@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArtinKernel_residue_transl
 -- name    : GlobalTheory.ArtinKernel.residue_transl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:58:41.227469+00:00
 -- url     : https://prove2.me/theorems/64d711a1-07a0-44a4-8826-643209f6bed5

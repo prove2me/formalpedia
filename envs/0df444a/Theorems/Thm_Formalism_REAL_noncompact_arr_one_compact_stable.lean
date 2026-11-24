@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_noncompact_arr_one_compact_stable
 -- name    : Formalism.REAL.noncompact_arr_one_compact_stable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:09:56.060531+00:00
 -- url     : https://prove2.me/theorems/c4f71c5b-bc50-4c4d-b437-80ed3f6adaa5

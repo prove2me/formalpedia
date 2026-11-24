@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_exists_isometry_matrix_range
 -- name    : GlobalTheory.ClassFin.exists_isometry_matrix_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:10:51.445656+00:00
 -- url     : https://prove2.me/theorems/8b482aee-dae6-4e47-827b-9009d42e8d06

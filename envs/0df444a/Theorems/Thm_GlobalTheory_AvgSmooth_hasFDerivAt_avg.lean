@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AvgSmooth_hasFDerivAt_avg
 -- name    : GlobalTheory.AvgSmooth.hasFDerivAt_avg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:58:14.172366+00:00
 -- url     : https://prove2.me/theorems/c092577a-0ea5-49c7-98f6-f866c593c2c9

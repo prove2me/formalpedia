@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_weightedSum_identity
 -- name    : Formalism.ZeroFreeDirichlet.weightedSum_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:43:57.506792+00:00
 -- url     : https://prove2.me/theorems/798c0c21-eeac-4387-8a70-7b8bfbad20e7

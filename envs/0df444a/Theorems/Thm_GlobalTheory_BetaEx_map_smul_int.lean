@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BetaEx_map_smul_int
 -- name    : GlobalTheory.BetaEx.map_smul_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:02:46.882507+00:00
 -- url     : https://prove2.me/theorems/753c6bc8-2178-4599-9726-715cfbe7ef15

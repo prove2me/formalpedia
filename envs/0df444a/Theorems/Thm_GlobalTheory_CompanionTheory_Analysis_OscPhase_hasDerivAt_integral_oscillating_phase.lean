@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Analysis_OscPhase_hasDerivAt_integral_oscillating_phase
 -- name    : GlobalTheory.CompanionTheory.Analysis.OscPhase.hasDerivAt_integral_oscillating_phase
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:18:41.841641+00:00
 -- url     : https://prove2.me/theorems/47791401-13e8-4e35-abc7-c4bd154df994

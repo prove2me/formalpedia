@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_subschemeMapOfComap_apply_mem_of_mem
 -- name    : FunctorialResolution.EmbeddedResolution.subschemeMapOfComap_apply_mem_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:49:12.559258+00:00
 -- url     : https://prove2.me/theorems/d8d42d53-f530-4604-9452-b432bbf313c6

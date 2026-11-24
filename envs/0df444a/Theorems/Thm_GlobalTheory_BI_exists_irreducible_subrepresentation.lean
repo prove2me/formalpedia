@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_exists_irreducible_subrepresentation
 -- name    : GlobalTheory.BI.exists_irreducible_subrepresentation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:57:57.161986+00:00
 -- url     : https://prove2.me/theorems/8eb3ed66-6f37-49a3-a384-4d6a4301edaa

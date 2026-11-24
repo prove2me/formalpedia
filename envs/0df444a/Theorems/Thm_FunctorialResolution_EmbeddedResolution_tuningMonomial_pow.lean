@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_tuningMonomial_pow
 -- name    : FunctorialResolution.EmbeddedResolution.tuningMonomial_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:50:02.737049+00:00
 -- url     : https://prove2.me/theorems/e7a4ab0e-e02b-4846-a840-ed363c950ed1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArtinTransport_mem_Ine_comap
 -- name    : GlobalTheory.ArtinTransport.mem_Ine_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:58:09.200507+00:00
 -- url     : https://prove2.me/theorems/6dd661ac-aab5-4db3-b2dc-b380ee0167a7

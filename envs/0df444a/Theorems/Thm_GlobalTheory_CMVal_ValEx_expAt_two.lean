@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_ValEx_expAt_two
 -- name    : GlobalTheory.CMVal.ValEx.expAt_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:06:26.494802+00:00
 -- url     : https://prove2.me/theorems/2d987036-753a-43f2-af74-5f9ede238483

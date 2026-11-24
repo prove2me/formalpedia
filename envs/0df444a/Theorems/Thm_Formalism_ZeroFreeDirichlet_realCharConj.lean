@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_realCharConj
 -- name    : Formalism.ZeroFreeDirichlet.realCharConj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:38:34.567288+00:00
 -- url     : https://prove2.me/theorems/fe572701-3dff-4cc0-9ec3-14e38fb34085

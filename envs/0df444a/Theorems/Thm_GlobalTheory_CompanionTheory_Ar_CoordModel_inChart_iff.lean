@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_CoordModel_inChart_iff
 -- name    : GlobalTheory.CompanionTheory.Ar.CoordModel.inChart_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:17:27.945966+00:00
 -- url     : https://prove2.me/theorems/bba3df45-74f9-4408-b0e6-fe2252829266

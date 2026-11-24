@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactRep_isCompactOperator_rankOne_self
 -- name    : GlobalTheory.CompactRep.isCompactOperator_rankOne_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:16:23.419345+00:00
 -- url     : https://prove2.me/theorems/a4beb447-569b-40ef-876d-da57e5ea00ec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_SpanImageLemmas_basis
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.SpanImageLemmas.basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:04:51.068102+00:00
 -- url     : https://prove2.me/theorems/975e7f72-54c9-44ce-8ce7-d8d858768866

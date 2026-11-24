@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoefTorusWeight_coeff_aeval_scale
 -- name    : GlobalTheory.CoefTorusWeight.coeff_aeval_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:15:54.621093+00:00
 -- url     : https://prove2.me/theorems/02d52b99-a0ae-4b40-8e69-dbb548b95d65

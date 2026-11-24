@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_SuppAt_eq_single
 -- name    : GlobalTheory.CMVal.SuppAt.eq_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:05:24.334749+00:00
 -- url     : https://prove2.me/theorems/cf0b5a70-2cfe-4cb6-bbba-dc7432c4b130

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_EF_smul
 -- name    : GlobalTheory.AnArc.EF_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:55:35.659816+00:00
 -- url     : https://prove2.me/theorems/ae1dda27-c7c6-4254-8cdc-60dcaab95278

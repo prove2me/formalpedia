@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BaseRing_isIntegral_half_one_add_sqrt
 -- name    : GlobalTheory.BaseRing.isIntegral_half_one_add_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:00:35.121544+00:00
 -- url     : https://prove2.me/theorems/71856a18-96a3-4588-8fcb-42652e89a439

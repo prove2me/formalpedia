@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKCT_Fr_fr_mulVec
 -- name    : PositivityTheory.ThKCT.Fr.fr_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:47:07.801434+00:00
 -- url     : https://prove2.me/theorems/b76675ba-b858-4048-ae0b-e88d3dfb08ad

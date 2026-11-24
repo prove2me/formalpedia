@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AnnihShrink_exists_ne_zero_valuation_lt
 -- name    : GlobalTheory.CompanionTheory.AnnihShrink.exists_ne_zero_valuation_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:17:34.666411+00:00
 -- url     : https://prove2.me/theorems/7dd89a9f-afae-4ab5-996c-a81298fe3410

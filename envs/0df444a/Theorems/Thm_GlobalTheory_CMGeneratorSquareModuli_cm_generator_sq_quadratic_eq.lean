@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMGeneratorSquareModuli_cm_generator_sq_quadratic_eq
 -- name    : GlobalTheory.CMGeneratorSquareModuli.cm_generator_sq_quadratic_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:03:15.133411+00:00
 -- url     : https://prove2.me/theorems/e3240c05-6e17-4fbc-bbda-88487d93e482

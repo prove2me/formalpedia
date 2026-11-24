@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnisoSize_house_neg
 -- name    : GlobalTheory.AnisoSize.house_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:58:23.680763+00:00
 -- url     : https://prove2.me/theorems/416b5c77-0495-4472-a474-3d33fc19d31f

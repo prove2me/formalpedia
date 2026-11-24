@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_HarmMin_trace_id
 -- name    : GlobalTheory.ClassFin.HarmMin.trace_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:09:10.525809+00:00
 -- url     : https://prove2.me/theorems/c385fb0f-e3e5-433d-b8a7-72a26a65f271

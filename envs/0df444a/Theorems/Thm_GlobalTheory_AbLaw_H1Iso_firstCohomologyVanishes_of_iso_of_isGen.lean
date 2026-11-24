@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_H1Iso_firstCohomologyVanishes_of_iso_of_isGen
 -- name    : GlobalTheory.AbLaw.H1Iso.firstCohomologyVanishes_of_iso_of_isGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:52:32.702654+00:00
 -- url     : https://prove2.me/theorems/6f38829f-6f00-4330-844b-de7bec865d6b
