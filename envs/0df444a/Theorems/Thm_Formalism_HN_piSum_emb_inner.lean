@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_piSum_emb_inner
 -- name    : Formalism.HN.piSum_emb_inner
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:26.917799+00:00
 -- url     : https://prove2.me/theorems/f215427e-352a-4111-bfe3-eac471f75c60

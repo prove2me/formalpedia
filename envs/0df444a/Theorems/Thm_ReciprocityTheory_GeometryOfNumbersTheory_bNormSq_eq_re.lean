@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_bNormSq_eq_re
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.bNormSq_eq_re
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:15:07.340616+00:00
 -- url     : https://prove2.me/theorems/9559678e-173b-41f4-b087-5081e6359e24

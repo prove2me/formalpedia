@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_frameB_rkK_top
 -- name    : Formalism.HN.frameB_rkK_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:24.904465+00:00
 -- url     : https://prove2.me/theorems/945a663d-f59d-4463-ab46-3ff316fd4ba7

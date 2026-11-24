@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_le_of_imageLattice_le
 -- name    : Formalism.HN.le_of_imageLattice_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:20.289424+00:00
 -- url     : https://prove2.me/theorems/267e8ca1-e796-480f-a288-8905d0a26438

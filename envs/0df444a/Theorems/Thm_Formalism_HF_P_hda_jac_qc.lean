@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HF_P_hda_jac_qc
 -- name    : Formalism.HF.P.hda_jac_qc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:41.466788+00:00
 -- url     : https://prove2.me/theorems/4237f94f-7bf1-4533-be5f-c87d38ea7a8b

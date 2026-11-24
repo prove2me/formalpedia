@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatchParts_exists_rep
 -- name    : GlobalTheory.MatchParts.exists_rep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:18.294803+00:00
 -- url     : https://prove2.me/theorems/6f60f2be-d7e3-4bf3-a06d-2d8b2d6a8de3

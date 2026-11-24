@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_duality_dualZ_span
 -- name    : Formalism.HN.duality_dualZ_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:01.973657+00:00
 -- url     : https://prove2.me/theorems/0b5d4c48-2c85-4f9a-a694-65fb21bd9f3e

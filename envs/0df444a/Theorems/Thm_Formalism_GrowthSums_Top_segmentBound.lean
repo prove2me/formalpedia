@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GrowthSums_Top_segmentBound
 -- name    : Formalism.GrowthSums.Top.segmentBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:52.252812+00:00
 -- url     : https://prove2.me/theorems/c1dfd993-b229-4849-b03d-961af05dd3b5

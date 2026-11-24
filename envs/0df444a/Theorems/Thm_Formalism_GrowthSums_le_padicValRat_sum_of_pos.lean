@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GrowthSums_le_padicValRat_sum_of_pos
 -- name    : Formalism.GrowthSums.le_padicValRat_sum_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:30.326688+00:00
 -- url     : https://prove2.me/theorems/35701e44-c730-4332-96b3-179161d585b1

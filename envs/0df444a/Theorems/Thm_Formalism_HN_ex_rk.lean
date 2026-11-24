@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_ex_rk
 -- name    : Formalism.HN.ex_rk
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:14.970334+00:00
 -- url     : https://prove2.me/theorems/252c69c9-59de-47c1-9a52-f68cf0004dcd

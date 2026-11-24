@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HF_P_sqf_neg
 -- name    : Formalism.HF.P.sqf_neg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:24:08.523409+00:00
 -- url     : https://prove2.me/theorems/6969c0ac-36f5-40ef-9a5d-b862abbc6edd

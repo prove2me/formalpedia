@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bmD_raise
 -- name    : Formalism.BranchingDeterminantCap.bmD_raise
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:20:43.91149+00:00
 -- url     : https://prove2.me/theorems/1c0282ee-901f-452e-a086-26c9a8f96677

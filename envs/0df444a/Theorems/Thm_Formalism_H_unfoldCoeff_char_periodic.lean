@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_H_unfoldCoeff_char_periodic
 -- name    : Formalism.H.unfoldCoeff_char_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:38.704914+00:00
 -- url     : https://prove2.me/theorems/502fd6d0-8761-4a37-810d-4faccc640ef3

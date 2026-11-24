@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Landau_re_gChi
 -- name    : Formalism.HC.Landau.re_gChi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:45.018794+00:00
 -- url     : https://prove2.me/theorems/abbe34db-c191-4c07-b4dc-748cb32cd566

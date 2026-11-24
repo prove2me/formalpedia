@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_H_unfoldCoeff_main
 -- name    : Formalism.H.unfoldCoeff_main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:53:44.439505+00:00
 -- url     : https://prove2.me/theorems/307ff075-a470-49bb-bccd-4f0aac844763

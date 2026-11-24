@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HF_P_residue_class_l_function_tendsto
 -- name    : Formalism.HF.P.residue_class_l_function_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:47.070069+00:00
 -- url     : https://prove2.me/theorems/11127d6f-6c7b-4687-a56c-f4120ad6250b

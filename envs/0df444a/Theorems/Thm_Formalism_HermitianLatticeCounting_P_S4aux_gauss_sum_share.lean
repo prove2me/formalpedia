@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_gauss_sum_share
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.gauss_sum_share
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:58:47.667068+00:00
 -- url     : https://prove2.me/theorems/87a96fc7-794c-414e-906f-d5c0770ece2c

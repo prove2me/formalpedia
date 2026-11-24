@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_dI_secondCountable
 -- name    : ReciprocityTheory.AnForm.M.dI_secondCountable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:15.117532+00:00
 -- url     : https://prove2.me/theorems/65d76992-a709-4458-94ea-52f8787463b7

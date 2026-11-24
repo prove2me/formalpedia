@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_AlgRes_volume_preimage_eq_zero
 -- name    : ReciprocityTheory.AnForm.R.AlgRes.volume_preimage_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:29.789801+00:00
 -- url     : https://prove2.me/theorems/067cfe54-63cd-49b1-b2b9-eef2da57b5b2

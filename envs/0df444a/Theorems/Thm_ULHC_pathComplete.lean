@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_pathComplete
 -- name    : ULHC.pathComplete
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:08:19.858209+00:00
 -- url     : https://prove2.me/theorems/5afdfef5-a58c-4e19-950f-0090e1304c40

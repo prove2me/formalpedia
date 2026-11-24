@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_HeightGram_det_realif
 -- name    : Formalism.HN.HeightGram.det_realif
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:04.067889+00:00
 -- url     : https://prove2.me/theorems/0bd037a9-a93c-492d-8d08-3b2ffa55dd28

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_theoremF_of_sharp
 -- name    : Formalism.HN.theoremF_of_sharp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:30:01.282184+00:00
 -- url     : https://prove2.me/theorems/b2965883-8e7d-413c-ad81-f1dfcfc77526

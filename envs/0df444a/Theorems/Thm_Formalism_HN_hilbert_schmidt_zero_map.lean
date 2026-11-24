@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_hilbert_schmidt_zero_map
 -- name    : Formalism.HN.hilbert_schmidt_zero_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:21.003686+00:00
 -- url     : https://prove2.me/theorems/39035521-06c5-40d9-aaaa-e8236c0b074c

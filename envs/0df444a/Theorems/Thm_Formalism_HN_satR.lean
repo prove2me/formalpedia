@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_satR
 -- name    : Formalism.HN.satR
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:48.657263+00:00
 -- url     : https://prove2.me/theorems/3d980053-add8-43db-b0c4-0eb9de7c49c5

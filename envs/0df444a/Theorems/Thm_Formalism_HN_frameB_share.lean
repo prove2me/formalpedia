@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_frameB_share
 -- name    : Formalism.HN.frameB_share
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:26.220303+00:00
 -- url     : https://prove2.me/theorems/c890c695-968a-4408-9f6b-d8add0948952

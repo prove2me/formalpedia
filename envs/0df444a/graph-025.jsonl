@@ -34229,12 +34229,12 @@
 {"parent": "OAI.SharpPlanar.CachedData.hk0_1_13_contains_g", "child": "OAIQ098G1680", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.hk0_1_13_contains_g", "child": "OAIQ098G445", "via": ["solution", "statement"]}
 {"parent": "LinMaxLoad.lemma_1", "child": "LinMaxLoad_probLin", "via": ["solution", "statement"]}
-{"parent": "PhiSobBayes.fact_A_22", "child": "PhiSobBayes_IsOpenInterval", "via": ["statement"]}
-{"parent": "PhiSobBayes.fact_A_22", "child": "PhiSobBayes_AdmissiblePhi", "via": ["statement"]}
-{"parent": "PhiSobBayes.fact_A_22", "child": "PhiSobBayes_IsStronglyLogConcave", "via": ["statement"]}
-{"parent": "PhiSobBayes.fact_A_22", "child": "PhiSobBayes_Poincare", "via": ["statement"]}
-{"parent": "PhiSobBayes.fact_A_22", "child": "PhiSobBayes_LogSobolev", "via": ["statement"]}
-{"parent": "PhiSobBayes.fact_A_22", "child": "PhiSobBayes_PhiSobolev", "via": ["statement"]}
+{"parent": "PhiSobBayes.fact_A_22", "child": "PhiSobBayes_IsOpenInterval", "via": ["solution", "statement"]}
+{"parent": "PhiSobBayes.fact_A_22", "child": "PhiSobBayes_AdmissiblePhi", "via": ["solution", "statement"]}
+{"parent": "PhiSobBayes.fact_A_22", "child": "PhiSobBayes_IsStronglyLogConcave", "via": ["solution", "statement"]}
+{"parent": "PhiSobBayes.fact_A_22", "child": "PhiSobBayes_Poincare", "via": ["solution", "statement"]}
+{"parent": "PhiSobBayes.fact_A_22", "child": "PhiSobBayes_LogSobolev", "via": ["solution", "statement"]}
+{"parent": "PhiSobBayes.fact_A_22", "child": "PhiSobBayes_PhiSobolev", "via": ["solution", "statement"]}
 {"parent": "AutobidSPPE.lemma_2_7", "child": "AutobidSPPE_endpointIterate", "via": ["statement"]}
 {"parent": "AutobidSPPE.lemma_2_7", "child": "AutobidSPPE_endpointBox", "via": ["statement"]}
 {"parent": "AutobidSPPE.lemma_2_7", "child": "AutobidSPPE_T0", "via": ["statement"]}

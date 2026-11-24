@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GrowthSums_four_padicValNat_le
 -- name    : Formalism.GrowthSums.four_padicValNat_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:07.982799+00:00
 -- url     : https://prove2.me/theorems/54c45f88-dae4-4979-b51a-03d8ca4d9aa4

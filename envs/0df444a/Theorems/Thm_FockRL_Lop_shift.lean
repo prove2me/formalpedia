@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockRL_Lop_shift
 -- name    : FockRL.Lop_shift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:29:56.402907+00:00
 -- url     : https://prove2.me/theorems/9119ec16-4a22-41da-ad8c-5a4c3dce91e6

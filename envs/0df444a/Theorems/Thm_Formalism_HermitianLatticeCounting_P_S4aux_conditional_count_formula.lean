@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_S4aux_conditional_count_formula
 -- name    : Formalism.HermitianLatticeCounting.P.S4aux.conditional_count_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:58:41.419768+00:00
 -- url     : https://prove2.me/theorems/932fde8b-5b0c-4a43-b9bd-dadbf9da81f8

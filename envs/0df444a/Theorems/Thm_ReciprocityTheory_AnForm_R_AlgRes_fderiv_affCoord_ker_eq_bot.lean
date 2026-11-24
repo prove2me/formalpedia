@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_AlgRes_fderiv_affCoord_ker_eq_bot
 -- name    : ReciprocityTheory.AnForm.R.AlgRes.fderiv_affCoord_ker_eq_bot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:23.057706+00:00
 -- url     : https://prove2.me/theorems/0164ee77-6ba4-4b3d-8411-145246a0ce1a

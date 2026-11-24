@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_totient_bound_alt
 -- name    : Formalism.HermitianLatticeCounting.P.totient_bound_alt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:09:59.953549+00:00
 -- url     : https://prove2.me/theorems/4dcadda8-31fb-4be2-a98c-4400891d1398

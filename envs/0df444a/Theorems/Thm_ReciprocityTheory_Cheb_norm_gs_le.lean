@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_norm_gs_le
 -- name    : ReciprocityTheory.Cheb.norm_gs_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:21:57.847831+00:00
 -- url     : https://prove2.me/theorems/41cbc3d5-0d07-4485-a43d-1a5e39814e77

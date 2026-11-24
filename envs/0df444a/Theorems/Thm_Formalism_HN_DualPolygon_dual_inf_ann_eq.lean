@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_DualPolygon_dual_inf_ann_eq
 -- name    : Formalism.HN.DualPolygon.dual_inf_ann_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:24:08.772706+00:00
 -- url     : https://prove2.me/theorems/16ca6980-b292-4685-b0f2-652bbef91b20

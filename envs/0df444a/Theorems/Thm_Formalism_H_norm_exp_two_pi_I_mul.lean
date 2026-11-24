@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_H_norm_exp_two_pi_I_mul
 -- name    : Formalism.H.norm_exp_two_pi_I_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:46.951833+00:00
 -- url     : https://prove2.me/theorems/95552467-e997-41df-9e4e-8f906d3dc37b

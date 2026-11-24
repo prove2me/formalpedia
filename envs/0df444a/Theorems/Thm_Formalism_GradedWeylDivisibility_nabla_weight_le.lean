@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_nabla_weight_le
 -- name    : Formalism.GradedWeylDivisibility.nabla_weight_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:24:00.007256+00:00
 -- url     : https://prove2.me/theorems/b2f5bf71-22bf-4b34-b14d-a67b5f93aba5

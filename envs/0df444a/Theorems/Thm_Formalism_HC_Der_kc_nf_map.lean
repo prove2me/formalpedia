@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_kc_nf_map
 -- name    : Formalism.HC.Der.kc_nf_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:54.672446+00:00
 -- url     : https://prove2.me/theorems/a886dbdc-83f7-4a82-914b-7fff33d0703f

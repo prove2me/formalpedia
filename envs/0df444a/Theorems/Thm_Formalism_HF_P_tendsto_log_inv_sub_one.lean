@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HF_P_tendsto_log_inv_sub_one
 -- name    : Formalism.HF.P.tendsto_log_inv_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:48.304845+00:00
 -- url     : https://prove2.me/theorems/f81e680d-1c1c-4f57-a4f9-15b4d2acafcc

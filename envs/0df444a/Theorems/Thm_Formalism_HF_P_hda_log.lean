@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HF_P_hda_log
 -- name    : Formalism.HF.P.hda_log
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:41.463792+00:00
 -- url     : https://prove2.me/theorems/800c8036-a6e5-437e-b4bb-ad69ba7be191

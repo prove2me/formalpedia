@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_Rd_minpoly_map
 -- name    : Formalism.HC.Der.Rd.minpoly_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:46.419919+00:00
 -- url     : https://prove2.me/theorems/a24a84a8-cd02-489c-8ee4-cb37eac9c61b

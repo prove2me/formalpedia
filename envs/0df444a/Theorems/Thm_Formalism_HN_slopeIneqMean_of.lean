@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_slopeIneqMean_of
 -- name    : Formalism.HN.slopeIneqMean_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:37.578854+00:00
 -- url     : https://prove2.me/theorems/fafb9090-2682-4f84-9f60-5739fbad9824

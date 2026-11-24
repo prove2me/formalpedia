@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_Rd_log_norm_weight
 -- name    : Formalism.HC.Der.Rd.log_norm_weight
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:43.703305+00:00
 -- url     : https://prove2.me/theorems/c9088069-e4f7-4d7c-83ea-00bb2c254798

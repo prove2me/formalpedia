@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_H_integral_fundamentalDomain_eq
 -- name    : Formalism.H.integral_fundamentalDomain_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:19.047794+00:00
 -- url     : https://prove2.me/theorems/f613e1e0-31a1-48d1-a79e-4d152a9c8a01

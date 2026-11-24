@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_CompletedLStripBounds_archFactor_two_mul
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.CompletedLStripBounds.archFactor_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:49.387808+00:00
 -- url     : https://prove2.me/theorems/2934ed7c-6d9a-44a6-b6ea-598caa710f12

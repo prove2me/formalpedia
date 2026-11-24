@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_hwRaise
 -- name    : Formalism.GradedWeylDivisibility.hwRaise
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:59:45.648364+00:00
 -- url     : https://prove2.me/theorems/0c55929c-ae01-42c1-9644-da44f88a0090

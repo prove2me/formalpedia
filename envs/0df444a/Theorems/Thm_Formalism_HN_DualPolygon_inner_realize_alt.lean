@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_DualPolygon_inner_realize_alt
 -- name    : Formalism.HN.DualPolygon.inner_realize_alt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:24:01.596792+00:00
 -- url     : https://prove2.me/theorems/3f6e034c-1d49-4794-a1eb-5ffab24fb0f5

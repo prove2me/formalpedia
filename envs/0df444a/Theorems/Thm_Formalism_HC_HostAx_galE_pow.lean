@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostAx_galE_pow
 -- name    : Formalism.HC.HostAx.galE_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:13.547895+00:00
 -- url     : https://prove2.me/theorems/0155243d-c9ec-4e64-8a9a-dc1e8275d2d4

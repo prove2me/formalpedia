@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_Rd_exists_d
 -- name    : Formalism.HC.Der.Rd.exists_d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:12.414482+00:00
 -- url     : https://prove2.me/theorems/d8173789-cf3e-4931-ab54-6629c850f164

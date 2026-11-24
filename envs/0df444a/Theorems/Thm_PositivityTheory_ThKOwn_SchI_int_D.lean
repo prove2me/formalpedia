@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKOwn_SchI_int_D
 -- name    : PositivityTheory.ThKOwn.SchI.int_D
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:28.227459+00:00
 -- url     : https://prove2.me/theorems/c1a5bf18-2125-4534-b266-5e6bba5c681a

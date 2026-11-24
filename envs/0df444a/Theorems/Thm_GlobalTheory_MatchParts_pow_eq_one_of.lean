@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatchParts_pow_eq_one_of
 -- name    : GlobalTheory.MatchParts.pow_eq_one_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:46.392001+00:00
 -- url     : https://prove2.me/theorems/0f01dc22-107f-4f58-8cb1-582d1fa4c24b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_SwapLoc_IsLocData_maximalIdeal_mem_minimalPrimes
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.SwapLoc.IsLocData.maximalIdeal_mem_minimalPrimes
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:07:04.747434+00:00
 -- url     : https://prove2.me/theorems/095e685a-068b-4779-b117-f733c2cc4146

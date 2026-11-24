@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_PlaceLattice_rk_span_eq
 -- name    : Formalism.HN.PlaceLattice.rk_span_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:55.127796+00:00
 -- url     : https://prove2.me/theorems/c30fec1c-36c2-4dce-9563-bd22aa12e4a1

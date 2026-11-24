@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HermComp_row_rel
 -- name    : GlobalTheory.SW.HermComp.row_rel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:41.678814+00:00
 -- url     : https://prove2.me/theorems/dd4609ee-82f0-4fd0-8456-6368d64c4dc8

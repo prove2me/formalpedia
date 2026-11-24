@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_lhwline_CInv_of
 -- name    : Formalism.GradedWeylDivisibility.lhwline_CInv_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:57:48.33081+00:00
 -- url     : https://prove2.me/theorems/29235d6b-76dd-492d-a044-da740bde00ee

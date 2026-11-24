@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_PolygonExample_rk_Px
 -- name    : Formalism.HN.PolygonExample.rk_Px
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:45.32647+00:00
 -- url     : https://prove2.me/theorems/ed5c64f3-289f-4cdd-805f-582a5f8f6b91

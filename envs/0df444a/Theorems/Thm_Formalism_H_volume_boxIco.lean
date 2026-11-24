@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_H_volume_boxIco
 -- name    : Formalism.H.volume_boxIco
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:53.227817+00:00
 -- url     : https://prove2.me/theorems/c0c32c7b-884d-42ad-8023-f251a457df1e

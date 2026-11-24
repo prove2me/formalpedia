@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_fsLp_normSq_ne_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.fsLp_normSq_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:31:25.804537+00:00
 -- url     : https://prove2.me/theorems/0c82ce27-0ef1-4b86-b2c7-9b815198c758

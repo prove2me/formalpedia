@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_det_mul_eq_sum_submatrix
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.det_mul_eq_sum_submatrix
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:52.436828+00:00
 -- url     : https://prove2.me/theorems/fe8ebf31-12fa-4ec0-8b64-4c7bec276582

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSiegel_neg_inv_add_inv_mul
 -- name    : GlobalTheory.IsSiegel.neg_inv_add_inv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:32.011795+00:00
 -- url     : https://prove2.me/theorems/f690e82b-6fb2-46d9-96d0-cac0e4f395fb

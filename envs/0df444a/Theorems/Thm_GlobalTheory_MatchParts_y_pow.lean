@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatchParts_y_pow
 -- name    : GlobalTheory.MatchParts.y_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:29.176285+00:00
 -- url     : https://prove2.me/theorems/6a422188-05b5-485c-b30d-942db9d77d4a

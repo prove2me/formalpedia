@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_QuotientRealization_fcoord_mem_span
 -- name    : Formalism.HN.QuotientRealization.fcoord_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:12.579252+00:00
 -- url     : https://prove2.me/theorems/d9512aa1-0ee4-4ced-97a4-9a455f8775b1

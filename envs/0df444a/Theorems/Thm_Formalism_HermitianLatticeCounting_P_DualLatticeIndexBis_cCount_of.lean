@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_DualLatticeIndexBis_cCount_of
 -- name    : Formalism.HermitianLatticeCounting.P.DualLatticeIndexBis.cCount_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:58:19.803508+00:00
 -- url     : https://prove2.me/theorems/80dfd6c6-b2ba-4469-880a-25fab650c1c4

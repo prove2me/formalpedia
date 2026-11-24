@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockRaiseLowGrade_minus_eq
 -- name    : FockRaiseLowGrade.minus_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:08.141792+00:00
 -- url     : https://prove2.me/theorems/20f71a9f-7901-495b-9b38-72d48ac590ce

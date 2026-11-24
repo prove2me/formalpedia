@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Cmp_mem_stdL
 -- name    : Formalism.L2.G.Cmp.mem_stdL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:14.524202+00:00
 -- url     : https://prove2.me/theorems/8cf30418-653d-44fb-beb0-83bdcdc5a91c

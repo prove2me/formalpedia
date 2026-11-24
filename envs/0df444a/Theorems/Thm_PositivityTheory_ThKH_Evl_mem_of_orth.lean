@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKH_Evl_mem_of_orth
 -- name    : PositivityTheory.ThKH.Evl.mem_of_orth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:26.968662+00:00
 -- url     : https://prove2.me/theorems/763ac668-b654-4a46-a94c-15718ede0769

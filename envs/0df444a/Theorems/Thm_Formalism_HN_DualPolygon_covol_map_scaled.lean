@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_DualPolygon_covol_map_scaled
 -- name    : Formalism.HN.DualPolygon.covol_map_scaled
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:24:07.500205+00:00
 -- url     : https://prove2.me/theorems/1e36b959-a177-419f-a88e-457c529311e5

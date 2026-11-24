@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_H_mFourierCoeff_torusFunC
 -- name    : Formalism.H.mFourierCoeff_torusFunC
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:52.344645+00:00
 -- url     : https://prove2.me/theorems/a38d6aa7-074f-426c-b26a-6fe546dfb296

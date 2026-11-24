@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodicCousin_antilin_apply
 -- name    : GlobalTheory.PeriodicCousin.antilin_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:14.77424+00:00
 -- url     : https://prove2.me/theorems/a6350797-37ff-4894-82c7-19ed24537b81

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramCocycle_conj_mem_ine_of_smul
 -- name    : GlobalTheory.UnramCocycle.conj_mem_ine_of_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:15.704829+00:00
 -- url     : https://prove2.me/theorems/39251568-4836-49e6-aa51-1cbb3e637dd0

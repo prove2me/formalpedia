@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMS_pos_of_lt
 -- name    : PI.FJMS.pos_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:43:45.2768+00:00
 -- url     : https://prove2.me/theorems/980faa17-67f4-4bf6-950e-3fddeb39248d

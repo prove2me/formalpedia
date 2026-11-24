@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_ldtensor_glue_injective
 -- name    : Formalism.GradedWeylDivisibility.ldtensor_glue_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:08.340824+00:00
 -- url     : https://prove2.me/theorems/9210a91e-ca3e-47fc-bc49-3df1a04063f2

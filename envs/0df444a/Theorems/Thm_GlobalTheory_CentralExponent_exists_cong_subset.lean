@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CentralExponent_exists_cong_subset
 -- name    : GlobalTheory.CentralExponent.exists_cong_subset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:50.935642+00:00
 -- url     : https://prove2.me/theorems/76828a0a-ec13-4502-81ca-cab935743841

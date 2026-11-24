@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_st_exists_good_partition
 -- name    : ReciprocityTheory.AnForm.M.st_exists_good_partition
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:57:52.73658+00:00
 -- url     : https://prove2.me/theorems/15669735-20b8-47ee-93cc-e4057e59d0ab

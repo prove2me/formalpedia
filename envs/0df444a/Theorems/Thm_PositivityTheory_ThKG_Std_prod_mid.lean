@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Std_prod_mid
 -- name    : PositivityTheory.ThKG.Std.prod_mid
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:02:18.838795+00:00
 -- url     : https://prove2.me/theorems/34f7ea72-c4e3-4e73-bfba-734154829f68

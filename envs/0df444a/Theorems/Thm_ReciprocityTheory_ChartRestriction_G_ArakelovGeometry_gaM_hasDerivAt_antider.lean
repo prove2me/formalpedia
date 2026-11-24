@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_gaM_hasDerivAt_antider
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.gaM_hasDerivAt_antider
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:12:52.010181+00:00
 -- url     : https://prove2.me/theorems/4a3bd8b2-f824-410f-a3ff-986bde52c8a2

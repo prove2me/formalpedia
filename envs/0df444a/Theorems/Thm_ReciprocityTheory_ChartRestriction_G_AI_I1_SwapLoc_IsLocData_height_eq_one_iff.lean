@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_SwapLoc_IsLocData_height_eq_one_iff
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.SwapLoc.IsLocData.height_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:19.825905+00:00
 -- url     : https://prove2.me/theorems/a750e101-a1e6-4993-b79e-1cc5c25cc250

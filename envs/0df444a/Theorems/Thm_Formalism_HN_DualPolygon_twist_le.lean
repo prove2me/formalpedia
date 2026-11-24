@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_DualPolygon_twist_le
 -- name    : Formalism.HN.DualPolygon.twist_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:40:03.369418+00:00
 -- url     : https://prove2.me/theorems/ce7618ab-ac73-4b47-8fc1-29a3b061597a

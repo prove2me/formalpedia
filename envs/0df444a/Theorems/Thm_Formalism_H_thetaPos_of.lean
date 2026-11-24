@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_H_thetaPos_of
 -- name    : Formalism.H.thetaPos_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:14.357842+00:00
 -- url     : https://prove2.me/theorems/b365c48b-b11c-4b72-8a95-2dce05d76b34

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_place_part_orthogonal
 -- name    : Formalism.HN.place_part_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:37.307083+00:00
 -- url     : https://prove2.me/theorems/3e7646f8-843e-4340-a994-a2db6fc6f64c

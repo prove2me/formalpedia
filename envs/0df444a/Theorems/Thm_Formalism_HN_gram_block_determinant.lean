@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_gram_block_determinant
 -- name    : Formalism.HN.gram_block_determinant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:27:02.988154+00:00
 -- url     : https://prove2.me/theorems/79689f46-da68-4967-9776-f7f2fa0f0404

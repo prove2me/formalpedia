@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GrowthSums_Top_topCount
 -- name    : Formalism.GrowthSums.Top.topCount
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:25:32.517341+00:00
 -- url     : https://prove2.me/theorems/6b462d37-c2d4-4f97-b80d-afb2edbb304e

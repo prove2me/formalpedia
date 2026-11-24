@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HF_P_apld_nonprime_nonneg
 -- name    : Formalism.HF.P.apld_nonprime_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:39.976707+00:00
 -- url     : https://prove2.me/theorems/1929b5a3-8f34-47c1-922c-ca9ca293e206

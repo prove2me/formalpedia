@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Std_int_ind_one
 -- name    : PositivityTheory.ThKG.Std.int_ind_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:52:48.968488+00:00
 -- url     : https://prove2.me/theorems/87160f43-629c-44f8-94ae-5c29e0fe994e

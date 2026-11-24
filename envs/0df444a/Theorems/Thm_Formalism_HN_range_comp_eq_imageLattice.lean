@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_range_comp_eq_imageLattice
 -- name    : Formalism.HN.range_comp_eq_imageLattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:33.095278+00:00
 -- url     : https://prove2.me/theorems/18e381f2-0fa2-447e-9c95-2ee82371a9c2

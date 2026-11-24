@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramCocycle_kerSub_normal
 -- name    : GlobalTheory.UnramCocycle.kerSub_normal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:18.163178+00:00
 -- url     : https://prove2.me/theorems/9c697655-6a13-4913-8ebd-10899e7a62c9

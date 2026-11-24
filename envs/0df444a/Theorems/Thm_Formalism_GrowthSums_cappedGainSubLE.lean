@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GrowthSums_cappedGainSubLE
 -- name    : Formalism.GrowthSums.cappedGainSubLE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:15.034087+00:00
 -- url     : https://prove2.me/theorems/1cf6784e-610a-41ec-8878-944dcfdbad7b

@@ -1,0 +1,33 @@
+-- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_succ_eq_last
+-- name    : Formalism.HermitianLatticeCounting.P.succ_eq_last
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-24T06:43:32.357329+00:00
+-- url     : https://prove2.me/theorems/6dfe2edf-3948-4c03-a1c6-3debbd6e3034
+-- title:
+--   P: succ eq last
+-- statement:
+--   The P construction uses the succ eq last property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/FlagUnipotentLattices/MinkowskiFactorialBounds/ExistsHasLeadingCoeffOfMemSpanBelow.lean#L459-L459
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/FlagUnipotentLattices/MinkowskiFactorialBounds/ExistsHasLeadingCoeffOfMemSpanBelow.lean#L459-L459
+
+import Definitions.Def_Formalism_FlagUnipotentLattices_MemOfOrthogonalAnisotropic
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_ExistsHasLeadingCoeffOfMemSpanBelow
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism.HermitianLatticeCounting.S6
+open scoped BigOperators
+open Matrix
+open Formalism Formalism.HermitianLatticeCounting Formalism.HermitianLatticeCounting.P
+variable {K : Type} [Field K] [StarRing K] {V : Type} [AddCommGroup V] [Module K V]
+  [FiniteDimensional K V] {H : HermSpace K V} {r : ℕ}
+
+theorem Formalism.HermitianLatticeCounting.P.succ_eq_last {r : ℕ} (a : Fin r) (h : a.val + 1 = r) : a.succ = Fin.last r := by sorry

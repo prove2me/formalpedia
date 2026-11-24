@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaCharMult_sp_rel_transpose
 -- name    : GlobalTheory.ThetaCharMult.sp_rel_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:04:08.58471+00:00
 -- url     : https://prove2.me/theorems/e6e47310-3400-43e7-aac0-a02a0492059b

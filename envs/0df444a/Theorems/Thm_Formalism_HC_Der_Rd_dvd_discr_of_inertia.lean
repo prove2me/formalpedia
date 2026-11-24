@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_Rd_dvd_discr_of_inertia
 -- name    : Formalism.HC.Der.Rd.dvd_discr_of_inertia
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:59.118082+00:00
 -- url     : https://prove2.me/theorems/0fcb62c4-01a5-4a01-8e9f-dfa5ae842be6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_dm_mass
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.dm_mass
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:08:48.6447+00:00
 -- url     : https://prove2.me/theorems/2ddafb25-e145-4631-a844-a9dcbb0f5f46

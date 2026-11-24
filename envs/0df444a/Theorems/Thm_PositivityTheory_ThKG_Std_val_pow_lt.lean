@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Std_val_pow_lt
 -- name    : PositivityTheory.ThKG.Std.val_pow_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:50.242807+00:00
 -- url     : https://prove2.me/theorems/30518d5d-0140-4489-bebb-a48e3c74a968

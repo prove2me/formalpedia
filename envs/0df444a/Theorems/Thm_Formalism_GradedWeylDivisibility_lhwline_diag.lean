@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_lhwline_diag
 -- name    : Formalism.GradedWeylDivisibility.lhwline_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T18:39:42.4428+00:00
 -- url     : https://prove2.me/theorems/0d15c699-c7c0-4101-8420-f813552a2626

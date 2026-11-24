@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_ldtensor_tprod_linInd
 -- name    : Formalism.GradedWeylDivisibility.ldtensor_tprod_linInd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:21:09.448898+00:00
 -- url     : https://prove2.me/theorems/15d93d7e-c5ec-4a40-aa94-4f50cdb27fa7

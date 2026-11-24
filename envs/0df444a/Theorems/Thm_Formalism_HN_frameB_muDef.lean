@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_frameB_muDef
 -- name    : Formalism.HN.frameB_muDef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:32.785841+00:00
 -- url     : https://prove2.me/theorems/fc2e21fa-eaa7-42b9-9fc3-5df84743e3ca

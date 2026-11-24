@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HF_P_hda_card_qc
 -- name    : Formalism.HF.P.hda_card_qc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:24:28.173804+00:00
 -- url     : https://prove2.me/theorems/43455d1a-92ae-44aa-afc8-1a5d8e262b4d

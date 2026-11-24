@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_PlaceDecomposition_realize_mem
 -- name    : Formalism.HN.PlaceDecomposition.realize_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:31.519926+00:00
 -- url     : https://prove2.me/theorems/fc357ab7-e641-4b42-8165-87e5826ca8b3

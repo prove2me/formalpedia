@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_SwapLoc_IsLocData_quot
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.SwapLoc.IsLocData.quot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:20.921664+00:00
 -- url     : https://prove2.me/theorems/61504324-5fbc-4917-9171-6fd6c004c09b

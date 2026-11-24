@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_ldrow_prod_rowDeg
 -- name    : Formalism.GradedWeylDivisibility.ldrow_prod_rowDeg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:09.770309+00:00
 -- url     : https://prove2.me/theorems/0a147569-afc5-41b5-aaee-9ea613e3bb9f

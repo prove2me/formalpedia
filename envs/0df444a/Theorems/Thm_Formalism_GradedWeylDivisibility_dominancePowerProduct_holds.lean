@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_dominancePowerProduct_holds
 -- name    : Formalism.GradedWeylDivisibility.dominancePowerProduct_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:53:55.674836+00:00
 -- url     : https://prove2.me/theorems/8e1c3dc9-1347-4336-9d48-a04a9b15559c

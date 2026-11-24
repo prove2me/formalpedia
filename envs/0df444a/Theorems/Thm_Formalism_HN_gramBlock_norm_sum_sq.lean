@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_gramBlock_norm_sum_sq
 -- name    : Formalism.HN.gramBlock_norm_sum_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:55.928878+00:00
 -- url     : https://prove2.me/theorems/7bb008eb-6d38-423c-bd58-f1586a18b4ce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_ldlat_isWH_map
 -- name    : Formalism.GradedWeylDivisibility.ldlat_isWH_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:16:56.851668+00:00
 -- url     : https://prove2.me/theorems/48a99d0e-f6af-492a-992a-2a7be5abe06d

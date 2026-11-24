@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_fockQBilin
 -- name    : Formalism.GradedWeylDivisibility.fockQBilin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:59:06.043843+00:00
 -- url     : https://prove2.me/theorems/dfa7c723-308c-4966-a1b7-14f93a190466

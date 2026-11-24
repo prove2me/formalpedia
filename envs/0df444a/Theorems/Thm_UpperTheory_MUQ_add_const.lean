@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_MUQ_add_const
 -- name    : UpperTheory.MUQ.add_const
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:42.969808+00:00
 -- url     : https://prove2.me/theorems/e810e19e-0dea-461f-831a-b8fd72354535

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_H_lattice_summable_decay
 -- name    : Formalism.H.lattice_summable_decay
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:44.168794+00:00
 -- url     : https://prove2.me/theorems/6e473ca3-7037-4251-be32-87837fd73983

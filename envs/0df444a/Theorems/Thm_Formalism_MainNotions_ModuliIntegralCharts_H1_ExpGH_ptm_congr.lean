@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGH_ptm_congr
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGH.ptm_congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:47.121092+00:00
 -- url     : https://prove2.me/theorems/0c185c90-042e-4635-bacf-097770ce4fa6

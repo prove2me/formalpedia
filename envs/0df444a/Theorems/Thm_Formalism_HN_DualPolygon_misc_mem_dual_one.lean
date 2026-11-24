@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_DualPolygon_misc_mem_dual_one
 -- name    : Formalism.HN.DualPolygon.misc_mem_dual_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:11.800742+00:00
 -- url     : https://prove2.me/theorems/dfd42265-9cb3-4541-89ba-0f76005b34be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_HeightGram_abs_det_amat
 -- name    : Formalism.HN.HeightGram.abs_det_amat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:56.402875+00:00
 -- url     : https://prove2.me/theorems/bcb4fb69-27d3-4cca-b342-790b7e8bc24e

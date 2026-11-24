@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_DualPolygon_rpow_neg_half_sq_mul
 -- name    : Formalism.HN.DualPolygon.rpow_neg_half_sq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:58.443793+00:00
 -- url     : https://prove2.me/theorems/a051e0f8-11ac-4acc-8742-13ac0da332e0

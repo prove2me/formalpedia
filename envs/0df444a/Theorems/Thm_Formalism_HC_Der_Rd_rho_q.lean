@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_Rd_rho_q
 -- name    : Formalism.HC.Der.Rd.rho_q
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:56.365391+00:00
 -- url     : https://prove2.me/theorems/2885313f-fa90-4949-97db-3579cf3a61f3

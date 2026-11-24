@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_measurableSet_of_mem_iInf_join_pastSigma
 -- name    : Kyprianou.Ch03.measurableSet_of_mem_iInf_join_pastSigma
--- status  : Open
+-- status  : Disproved
 -- author  : @pageman
 -- created : 2026-11-24T05:06:09.174822+00:00
 -- url     : https://prove2.me/theorems/c09004c6-b355-47a4-9719-b47278938e31

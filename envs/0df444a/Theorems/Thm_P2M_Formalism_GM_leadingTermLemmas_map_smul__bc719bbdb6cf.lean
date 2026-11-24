@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_GM_leadingTermLemmas_map_smul__bc719bbdb6cf
 -- name    : P2M_Formalism_GM_leadingTermLemmas_map_smul__bc719bbdb6cf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:41.002088+00:00
 -- url     : https://prove2.me/theorems/244dd1f4-f357-420d-a9b8-e87352ff2c41

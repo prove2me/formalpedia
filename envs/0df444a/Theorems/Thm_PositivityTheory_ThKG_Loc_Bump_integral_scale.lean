@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Loc_Bump_integral_scale
 -- name    : PositivityTheory.ThKG.Loc.Bump.integral_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:20.862673+00:00
 -- url     : https://prove2.me/theorems/fb4a6f1d-64c3-4d71-a2b7-09ca6dc97248

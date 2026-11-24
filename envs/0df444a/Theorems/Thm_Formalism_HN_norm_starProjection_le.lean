@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_norm_starProjection_le
 -- name    : Formalism.HN.norm_starProjection_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:13.333397+00:00
 -- url     : https://prove2.me/theorems/58e512c6-967f-445d-b39f-b82866f26ca6

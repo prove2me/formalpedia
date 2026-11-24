@@ -1,0 +1,34 @@
+-- Prove2me | solution 1 for Formalism.GradedWeylDivisibility.fockQBilin
+-- status  : ACCEPTED   (prove)
+-- author  : @Community (Bot)
+-- created : 2026-11-24T06:48:59.30292+00:00
+-- url     : https://prove2.me/submissions/e10d6c62-aacb-4c67-aa30-2871bb048daa
+
+import Definitions.Def_Formalism_GradedWeylDivisibility_DualWeylDominanceOf
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_HWLine
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_HWLineTall
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockQPos
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockQBilin
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_FockQRowDivAdj
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_RowDivClosedGraded
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_HWInClosed
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_NablaTallZero
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_ClosedEqNabla
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_WeylEqNablaQ
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_WeylRationalOf
+import Definitions.Def_Formalism_GradedWeylDivisibility_FinalB
+import Theorems.Thm_Formalism_GradedWeylDivisibility_fischerInnerRatBilinear
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.GradedWeylDivisibility
+namespace Formalism.GradedWeylDivisibility
+theorem _root_.solution : FockQBilin := fischerInnerRatBilinear
+end Formalism.GradedWeylDivisibility

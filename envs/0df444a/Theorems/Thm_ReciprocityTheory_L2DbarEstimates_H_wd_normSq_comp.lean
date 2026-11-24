@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_H_wd_normSq_comp
 -- name    : ReciprocityTheory.L2DbarEstimates.H.wd_normSq_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:31.878846+00:00
 -- url     : https://prove2.me/theorems/dc2935de-f2dd-47b3-930e-21477b7358bb

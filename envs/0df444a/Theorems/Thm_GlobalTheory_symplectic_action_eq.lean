@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_symplectic_action_eq
 -- name    : GlobalTheory.symplectic_action_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:43.23112+00:00
 -- url     : https://prove2.me/theorems/aa1e310b-95fe-40de-91da-5a3587c147ca

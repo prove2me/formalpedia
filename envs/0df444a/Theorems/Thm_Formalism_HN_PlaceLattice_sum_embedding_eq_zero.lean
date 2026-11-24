@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_PlaceLattice_sum_embedding_eq_zero
 -- name    : Formalism.HN.PlaceLattice.sum_embedding_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:51.980468+00:00
 -- url     : https://prove2.me/theorems/32320b38-3bd3-4f4f-9803-aa50907803d0

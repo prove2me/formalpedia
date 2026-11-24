@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_piSum_zl_single
 -- name    : Formalism.HN.piSum_zl_single
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:18.913738+00:00
 -- url     : https://prove2.me/theorems/a92a6061-083f-477f-bcc6-f019d4666365

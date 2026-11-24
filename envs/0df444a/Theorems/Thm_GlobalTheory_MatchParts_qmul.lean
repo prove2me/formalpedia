@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatchParts_qmul
 -- name    : GlobalTheory.MatchParts.qmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:24.474714+00:00
 -- url     : https://prove2.me/theorems/c48fc861-65b7-431d-b19b-2a7afad6f114

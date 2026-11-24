@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_H_thetaShiftInversion_of
 -- name    : Formalism.H.thetaShiftInversion_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:55.069466+00:00
 -- url     : https://prove2.me/theorems/7ffcca06-9263-4886-8367-2f8ba3d0abcc

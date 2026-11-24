@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_DualPolygon_realize_eval
 -- name    : Formalism.HN.DualPolygon.realize_eval
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:24:00.369145+00:00
 -- url     : https://prove2.me/theorems/8cc1d9d4-27bf-4b7f-b402-fdc5610747e7

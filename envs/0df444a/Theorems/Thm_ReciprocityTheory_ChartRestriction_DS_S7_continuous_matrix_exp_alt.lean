@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_continuous_matrix_exp_alt
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.continuous_matrix_exp_alt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:23.450849+00:00
 -- url     : https://prove2.me/theorems/f5478355-39c7-48f7-8693-27831e56a279

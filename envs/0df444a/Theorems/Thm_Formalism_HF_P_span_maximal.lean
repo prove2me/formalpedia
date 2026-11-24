@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HF_P_span_maximal
 -- name    : Formalism.HF.P.span_maximal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:49.669821+00:00
 -- url     : https://prove2.me/theorems/e9b154f5-3e8f-45df-806f-37859b742606

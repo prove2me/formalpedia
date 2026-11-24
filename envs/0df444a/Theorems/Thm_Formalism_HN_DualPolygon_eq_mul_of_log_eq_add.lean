@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_DualPolygon_eq_mul_of_log_eq_add
 -- name    : Formalism.HN.DualPolygon.eq_mul_of_log_eq_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:45.587683+00:00
 -- url     : https://prove2.me/theorems/37d7e281-df9b-43d8-814e-4a186888a790

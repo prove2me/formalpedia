@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_QuotientRealization_sub_mem_of_lift
 -- name    : Formalism.HN.QuotientRealization.sub_mem_of_lift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:06.00681+00:00
 -- url     : https://prove2.me/theorems/5cfa214a-050f-4f15-a507-c7eaf1b5e269

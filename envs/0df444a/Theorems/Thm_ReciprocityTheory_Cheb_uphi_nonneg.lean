@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_uphi_nonneg
 -- name    : ReciprocityTheory.Cheb.uphi_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:31:24.904854+00:00
 -- url     : https://prove2.me/theorems/b6c436a4-9ad1-4b12-89c2-ac9e5056f331

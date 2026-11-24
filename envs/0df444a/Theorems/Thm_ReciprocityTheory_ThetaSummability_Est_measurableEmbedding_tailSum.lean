@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ThetaSummability_Est_measurableEmbedding_tailSum
 -- name    : ReciprocityTheory.ThetaSummability.Est.measurableEmbedding_tailSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:31.847487+00:00
 -- url     : https://prove2.me/theorems/cea4d130-0cc3-4f22-b015-47c2796de695

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_eq_zero_of_abs_le_mul
 -- name    : Formalism.HN.eq_zero_of_abs_le_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:51.176358+00:00
 -- url     : https://prove2.me/theorems/03a9cda7-9074-4c33-8079-9ce3befe153e

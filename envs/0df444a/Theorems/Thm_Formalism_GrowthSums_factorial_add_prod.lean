@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GrowthSums_factorial_add_prod
 -- name    : Formalism.GrowthSums.factorial_add_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:13.769019+00:00
 -- url     : https://prove2.me/theorems/ccb8a895-96c2-4df3-b83c-ccdca617eadb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_JacobianCriterionAlt_taylor
 -- name    : ReciprocityTheory.AnForm.R.JacobianCriterionAlt.taylor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:59.674429+00:00
 -- url     : https://prove2.me/theorems/e54598b6-6ebd-499e-a9bf-f98e4e464e32

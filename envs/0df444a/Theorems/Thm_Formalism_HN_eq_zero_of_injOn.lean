@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_eq_zero_of_injOn
 -- name    : Formalism.HN.eq_zero_of_injOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:12.142828+00:00
 -- url     : https://prove2.me/theorems/22fba2b7-27b9-40fc-a091-d23b002f6c36

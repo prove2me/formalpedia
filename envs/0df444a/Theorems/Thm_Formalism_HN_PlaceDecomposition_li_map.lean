@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_PlaceDecomposition_li_map
 -- name    : Formalism.HN.PlaceDecomposition.li_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:26:39.884093+00:00
 -- url     : https://prove2.me/theorems/e92583ba-9496-40a7-a51f-b98737eb1e70

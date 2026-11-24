@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_re_star_dot_hessC
 -- name    : ReciprocityTheory.AnForm.M.re_star_dot_hessC
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:23.09197+00:00
 -- url     : https://prove2.me/theorems/da6058f9-b1c0-4f14-bcad-68ba8fc11431

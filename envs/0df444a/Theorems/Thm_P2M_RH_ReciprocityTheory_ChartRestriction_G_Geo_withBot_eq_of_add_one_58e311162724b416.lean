@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_RH_ReciprocityTheory_ChartRestriction_G_Geo_withBot_eq_of_add_one_58e311162724b416
 -- name    : P2M_RH_ReciprocityTheory_ChartRestriction_G_Geo_withBot_eq_of_add_one_58e311162724b416
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:06:06.039305+00:00
 -- url     : https://prove2.me/theorems/6906c087-2e77-47d7-b99d-c9759a477a78

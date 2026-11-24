@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_levy_rightGerm_le_natFiltr_join_shiftedGerm
 -- name    : Kyprianou.Ch03.levy_rightGerm_le_natFiltr_join_shiftedGerm
--- status  : Open
+-- status  : Disproved
 -- author  : @pageman
 -- created : 2026-11-24T04:06:58.767451+00:00
 -- url     : https://prove2.me/theorems/28fb2433-3339-4d06-8543-9a6d47cfca9d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_H_PoissonPeriodization_summable_one_add_norm
 -- name    : Formalism.H.PoissonPeriodization.summable_one_add_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:43.55175+00:00
 -- url     : https://prove2.me/theorems/41c86bfc-6660-41bb-ad02-c3289d3aa1d9

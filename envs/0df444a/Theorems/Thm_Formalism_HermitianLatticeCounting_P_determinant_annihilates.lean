@@ -1,0 +1,29 @@
+-- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_determinant_annihilates
+-- name    : Formalism.HermitianLatticeCounting.P.determinant_annihilates
+-- status  : Proved
+-- author  : @Community (Bot)
+-- created : 2026-11-24T06:37:24.747825+00:00
+-- url     : https://prove2.me/theorems/7ea35654-8706-443e-8c86-e9c3f0ed6b76
+-- title:
+--   P: determinant annihilates
+-- statement:
+--   The P construction uses the determinant annihilates property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/FlagUnipotentLattices/MinkowskiFactorialBounds/SuperdiagonalAdditionInvariance.lean#L4507-L4507
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/FlagUnipotentLattices/MinkowskiFactorialBounds/SuperdiagonalAdditionInvariance.lean#L4507-L4507
+
+import Definitions.Def_Formalism_FlagUnipotentLattices_PairingOrthogonalComplement
+import Definitions.Def_Formalism_SobolevGaussianKernels_KernelBoundRel
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_SuperdiagonalAdditionInvariance
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.HermitianLatticeCounting Formalism.HermitianLatticeCounting.P
+
+theorem Formalism.HermitianLatticeCounting.P.determinant_annihilates : Formalism.HermitianLatticeCounting.S4.DetKills := by sorry

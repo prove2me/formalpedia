@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSiegel_siegelGaussIntegral_ne_zero
 -- name    : GlobalTheory.IsSiegel.siegelGaussIntegral_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:56:28.362795+00:00
 -- url     : https://prove2.me/theorems/20d27c14-0b28-4f1c-af2a-1648107aca0f

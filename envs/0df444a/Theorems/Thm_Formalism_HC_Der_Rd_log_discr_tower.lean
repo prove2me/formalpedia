@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_Rd_log_discr_tower
 -- name    : Formalism.HC.Der.Rd.log_discr_tower
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:05.271259+00:00
 -- url     : https://prove2.me/theorems/07287c77-9a9e-4c4f-988e-3396f4c7e6dd

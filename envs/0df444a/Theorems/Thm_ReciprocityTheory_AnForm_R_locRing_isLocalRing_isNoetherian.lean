@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_locRing_isLocalRing_isNoetherian
 -- name    : ReciprocityTheory.AnForm.R.locRing_isLocalRing_isNoetherian
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:02.770359+00:00
 -- url     : https://prove2.me/theorems/40502e17-3a8b-4c47-ae42-dd664ba8e590

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_H_poisson_periodization
 -- name    : Formalism.H.poisson_periodization
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:08:47.746539+00:00
 -- url     : https://prove2.me/theorems/d0209ae3-7fcc-472f-8ff7-c94c92a2c592

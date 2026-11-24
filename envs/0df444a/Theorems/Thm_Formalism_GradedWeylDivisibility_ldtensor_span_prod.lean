@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_ldtensor_span_prod
 -- name    : Formalism.GradedWeylDivisibility.ldtensor_span_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:46.103589+00:00
 -- url     : https://prove2.me/theorems/d90466bb-6e06-49b6-802a-fbf3603e070e

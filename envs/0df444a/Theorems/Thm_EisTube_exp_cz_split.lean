@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EisTube_exp_cz_split
 -- name    : EisTube.exp_cz_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:23.631571+00:00
 -- url     : https://prove2.me/theorems/9c27d46f-c304-42af-b0a3-4b864b43ea0e

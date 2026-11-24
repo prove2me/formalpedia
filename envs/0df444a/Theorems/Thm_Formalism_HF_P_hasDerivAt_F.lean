@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HF_P_hasDerivAt_F
 -- name    : Formalism.HF.P.hasDerivAt_F
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:24:21.833336+00:00
 -- url     : https://prove2.me/theorems/8784c7b1-3717-4961-a3a6-422630fc869c

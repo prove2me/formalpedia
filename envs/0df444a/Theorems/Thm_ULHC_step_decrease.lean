@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_step_decrease
 -- name    : ULHC.step_decrease
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:07:03.949913+00:00
 -- url     : https://prove2.me/theorems/9a0e3364-8acf-448e-a50d-048b71110765

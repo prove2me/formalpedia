@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_ex_isLat
 -- name    : Formalism.HN.ex_isLat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:06.216997+00:00
 -- url     : https://prove2.me/theorems/990fd0ce-d8f1-4eec-b25d-e6e3335a7e76

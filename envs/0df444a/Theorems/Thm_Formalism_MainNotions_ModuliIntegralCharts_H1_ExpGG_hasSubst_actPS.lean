@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGG_hasSubst_actPS
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGG.hasSubst_actPS
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:09.912845+00:00
 -- url     : https://prove2.me/theorems/dfda8578-8522-4c6d-8a01-e8c3dcd1efa4

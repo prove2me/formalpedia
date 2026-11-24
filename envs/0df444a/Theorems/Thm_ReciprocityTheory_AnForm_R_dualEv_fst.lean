@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_dualEv_fst
 -- name    : ReciprocityTheory.AnForm.R.dualEv_fst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:58.366139+00:00
 -- url     : https://prove2.me/theorems/85ef5709-58f6-41e7-83e1-36ef2a319cb3

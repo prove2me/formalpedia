@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Landau_inv_eq_of_isReal
 -- name    : Formalism.HC.Landau.inv_eq_of_isReal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:33.093706+00:00
 -- url     : https://prove2.me/theorems/84abd4bb-7b90-40be-9a82-c597626c5724

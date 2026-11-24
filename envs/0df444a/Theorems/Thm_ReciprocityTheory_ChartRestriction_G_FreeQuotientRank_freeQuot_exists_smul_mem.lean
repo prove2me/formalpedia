@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_freeQuot_exists_smul_mem
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.freeQuot_exists_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:26:14.797566+00:00
 -- url     : https://prove2.me/theorems/16d992f3-4876-453d-82af-956db08f5412

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HF_P_summable_log_div_rpow
 -- name    : Formalism.HF.P.summable_log_div_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:24:05.772409+00:00
 -- url     : https://prove2.me/theorems/046ac80f-8808-48ee-8e58-23e3ace23c06

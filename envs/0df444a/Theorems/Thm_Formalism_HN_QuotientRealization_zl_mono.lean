@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_QuotientRealization_zl_mono
 -- name    : Formalism.HN.QuotientRealization.zl_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:55.79445+00:00
 -- url     : https://prove2.me/theorems/40149075-53d3-4f39-949f-158e2a136e0c

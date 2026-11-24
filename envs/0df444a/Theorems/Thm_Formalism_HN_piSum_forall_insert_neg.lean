@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_piSum_forall_insert_neg
 -- name    : Formalism.HN.piSum_forall_insert_neg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:29.20969+00:00
 -- url     : https://prove2.me/theorems/c2e2a04a-b685-45d5-bd17-803e2241101c

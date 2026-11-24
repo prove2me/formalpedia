@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch03_piSystem_iInf_join_subset_join_germSigma
 -- name    : Kyprianou.Ch03.piSystem_iInf_join_subset_join_germSigma
--- status  : Open
+-- status  : Disproved
 -- author  : @pageman
 -- created : 2026-11-24T04:46:12.632223+00:00
 -- url     : https://prove2.me/theorems/8c7098e0-79b3-4f46-ab05-967a44662f1a

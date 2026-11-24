@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_piSum_orth
 -- name    : Formalism.HN.piSum_orth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:36.646796+00:00
 -- url     : https://prove2.me/theorems/f8517327-d742-4359-a959-efe35e81ca37

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_mem_placePart_iff
 -- name    : Formalism.HN.mem_placePart_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:06.544964+00:00
 -- url     : https://prove2.me/theorems/08f35252-34a7-4dbe-b9fd-8b8f550a9379

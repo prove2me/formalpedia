@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhiSobBayes_fact_A_22
 -- name    : PhiSobBayes.fact_A_22
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T23:08:15.581867+00:00
 -- url     : https://prove2.me/theorems/b05987c2-5661-418a-98e4-91c2794aa8d1

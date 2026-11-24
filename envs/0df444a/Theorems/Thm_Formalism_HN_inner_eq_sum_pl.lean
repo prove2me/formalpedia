@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_inner_eq_sum_pl
 -- name    : Formalism.HN.inner_eq_sum_pl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:15.682889+00:00
 -- url     : https://prove2.me/theorems/3b3f0395-dd7b-411f-86b1-d9f7a59adf26

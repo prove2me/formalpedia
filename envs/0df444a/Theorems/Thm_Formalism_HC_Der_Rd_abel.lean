@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_Rd_abel
 -- name    : Formalism.HC.Der.Rd.abel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:43.729949+00:00
 -- url     : https://prove2.me/theorems/38efab1c-248a-4451-915a-9070a3e6d356

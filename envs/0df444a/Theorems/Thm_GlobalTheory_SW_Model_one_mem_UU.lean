@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Model_one_mem_UU
 -- name    : GlobalTheory.SW.Model.one_mem_UU
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:42.089039+00:00
 -- url     : https://prove2.me/theorems/76722911-4a29-4295-bb13-842df5db9d57

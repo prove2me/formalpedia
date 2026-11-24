@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_notouch_CA
 -- name    : ULHC.notouch_CA
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T03:38:23.198811+00:00
 -- url     : https://prove2.me/theorems/b261f48f-f840-47f5-8b87-3d9e1ff02b13

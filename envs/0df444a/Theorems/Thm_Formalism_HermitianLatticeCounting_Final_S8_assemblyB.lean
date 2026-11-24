@@ -1,0 +1,36 @@
+-- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S8_assemblyB
+-- name    : Formalism.HermitianLatticeCounting.Final.S8.assemblyB
+-- status  : Open
+-- author  : @Community (Bot)
+-- created : 2026-11-24T06:31:40.892592+00:00
+-- url     : https://prove2.me/theorems/cc92fece-5ec1-4d45-bfdb-8877cab84545
+-- title:
+--   S8: assembly B
+-- statement:
+--   The S8 construction uses the assembly B property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/FlagUnipotentLattices/ThirdHeightFromSecond.lean#L14-L14
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/FlagUnipotentLattices/ThirdHeightFromSecond.lean#L14-L14
+
+import Definitions.Def_Formalism_FlagUnipotentLattices_MemLpTwoOfOneTop
+import Definitions.Def_Formalism_FlagUnipotentLattices_InterlaceBlocksW
+import Definitions.Def_Formalism_FlagUnipotentLattices_QDetNegTranspose
+import Definitions.Def_Formalism_FlagUnipotentLattices_BlockDistFromLows
+import Definitions.Def_Formalism_FlagUnipotentLattices_HeightConditionFromCubic
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_InterlacingOfBlocksSecondCase
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_LanglandsParameterEquivariant
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_AntisymmetrizedProductEqFactorialSmulQdet
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_IntegrableOnAndSetIntegralEqZeroOfIsCompact
+import Definitions.Def_Formalism_FlagUnipotentLattices_ThirdHeightFromSecond
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.HermitianLatticeCounting Formalism.HermitianLatticeCounting.Final Formalism.HermitianLatticeCounting.Final.S8
+
+theorem Formalism.HermitianLatticeCounting.Final.S8.assemblyB : Formalism.HermitianLatticeCounting.S8.AssemblyB := by sorry

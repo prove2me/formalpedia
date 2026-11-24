@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_sliceLeading
 -- name    : Formalism.GradedWeylDivisibility.sliceLeading
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:05.717081+00:00
 -- url     : https://prove2.me/theorems/d5ec16cb-56b7-42dd-bea9-e297e8e77f5f

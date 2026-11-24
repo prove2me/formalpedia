@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_ex_slope
 -- name    : Formalism.HN.ex_slope
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:08.639193+00:00
 -- url     : https://prove2.me/theorems/dd1848db-f1fb-451d-aeb4-f45d2667e6f0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_Rd_absNorm_diff
 -- name    : Formalism.HC.Der.Rd.absNorm_diff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:19.652904+00:00
 -- url     : https://prove2.me/theorems/ad2097f2-0d10-4974-8e46-101086e7114e

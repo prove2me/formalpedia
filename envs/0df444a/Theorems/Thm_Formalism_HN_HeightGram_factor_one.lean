@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_HeightGram_factor_one
 -- name    : Formalism.HN.HeightGram.factor_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:07.986878+00:00
 -- url     : https://prove2.me/theorems/a3cb68ec-5af9-4ecf-a8db-ee829c84d5da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_DivisorCycleSwap_cast_multAt
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.DivisorCycleSwap.cast_multAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:10:05.485519+00:00
 -- url     : https://prove2.me/theorems/71665920-de11-43ba-b75e-0ce708613a50

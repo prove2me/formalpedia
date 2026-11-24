@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_hw_weight_eq
 -- name    : Formalism.GradedWeylDivisibility.hw_weight_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T18:24:48.822645+00:00
 -- url     : https://prove2.me/theorems/7fb56791-2ec3-4998-a4c7-d38a5cba5e4f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_PChar_of_self
 -- name    : Formalism.HC.PChar.of_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:43.951796+00:00
 -- url     : https://prove2.me/theorems/77417701-6bf8-4a24-8645-bbd3f82881b5

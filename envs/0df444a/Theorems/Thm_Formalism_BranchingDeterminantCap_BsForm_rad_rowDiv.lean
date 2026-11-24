@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_BsForm_rad_rowDiv
 -- name    : Formalism.BranchingDeterminantCap.BsForm.rad_rowDiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:12:35.531084+00:00
 -- url     : https://prove2.me/theorems/275b940e-22a6-4dcf-90fd-8ed0a74fa0ad

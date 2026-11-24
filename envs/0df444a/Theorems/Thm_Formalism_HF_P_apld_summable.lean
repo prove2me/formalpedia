@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HF_P_apld_summable
 -- name    : Formalism.HF.P.apld_summable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:39.314983+00:00
 -- url     : https://prove2.me/theorems/c2aade59-0848-4981-8600-a1e9f15e4b9d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GrowthSums_segment_bound_holds
 -- name    : Formalism.GrowthSums.segment_bound_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:20.546246+00:00
 -- url     : https://prove2.me/theorems/00450022-bf79-4375-9865-54a7e3aceeb3

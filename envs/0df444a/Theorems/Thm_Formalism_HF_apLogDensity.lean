@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HF_apLogDensity
 -- name    : Formalism.HF.apLogDensity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:26:04.624803+00:00
 -- url     : https://prove2.me/theorems/d3cd272c-d903-42ab-ba7e-cbad15fd666e

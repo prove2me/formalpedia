@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_discr_primes
 -- name    : Formalism.HC.Der.discr_primes
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:57:19.182686+00:00
 -- url     : https://prove2.me/theorems/721bd9c3-d8ea-4149-990c-3d49f3d9bdd5

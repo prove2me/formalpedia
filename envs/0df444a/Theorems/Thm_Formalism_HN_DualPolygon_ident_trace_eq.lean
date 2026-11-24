@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_DualPolygon_ident_trace_eq
 -- name    : Formalism.HN.DualPolygon.ident_trace_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:55.1969+00:00
 -- url     : https://prove2.me/theorems/84cae026-bd5e-4671-b960-0907c94102e7

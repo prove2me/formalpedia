@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GrowthSums_padicValNat_le_of_lt_pow
 -- name    : Formalism.GrowthSums.padicValNat_le_of_lt_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:25.534802+00:00
 -- url     : https://prove2.me/theorems/cf3417f6-58d5-4b98-91d8-3155c4586160

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatchParts_r_one
 -- name    : GlobalTheory.MatchParts.r_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:05.932871+00:00
 -- url     : https://prove2.me/theorems/c9b507f0-6091-4255-8fc1-99d26c025e1d

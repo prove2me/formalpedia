@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bm_mem_dualWeyl_iff
 -- name    : Formalism.BranchingDeterminantCap.bm_mem_dualWeyl_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:30:30.073193+00:00
 -- url     : https://prove2.me/theorems/dd424354-c2f0-4249-8d69-055505d827b4

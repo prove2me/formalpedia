@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HF_P_dirDensity_congr
 -- name    : Formalism.HF.P.dirDensity_congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:52.037616+00:00
 -- url     : https://prove2.me/theorems/f8f8f7b4-970f-4b83-86fc-46326fa89844

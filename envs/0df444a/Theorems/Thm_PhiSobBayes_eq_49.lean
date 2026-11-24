@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhiSobBayes_eq_49
 -- name    : PhiSobBayes.eq_49
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T23:08:31.566207+00:00
 -- url     : https://prove2.me/theorems/6f64f4bf-97c5-434c-b80b-5d9967248490

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_H_poissonDecay_of
 -- name    : Formalism.H.poissonDecay_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:46.875802+00:00
 -- url     : https://prove2.me/theorems/38e5b19b-66c0-44db-9efb-b87ad2a2cda1

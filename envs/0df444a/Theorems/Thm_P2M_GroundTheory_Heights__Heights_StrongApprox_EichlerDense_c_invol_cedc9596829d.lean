@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_EichlerDense_c_invol_cedc9596829d
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_EichlerDense_c_invol_cedc9596829d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:52:51.261565+00:00
 -- url     : https://prove2.me/theorems/c512a51b-c2c4-41b9-85e5-73eac306be64

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_near_far_CA
 -- name    : ULHC.near_far_CA
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:05:14.462044+00:00
 -- url     : https://prove2.me/theorems/28938aeb-6000-44d0-b6f7-4f4c6d9fbac3

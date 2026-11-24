@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_weyl_module_rational
 -- name    : Formalism.GradedWeylDivisibility.weyl_module_rational
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:10.401832+00:00
 -- url     : https://prove2.me/theorems/798bb7d7-caaa-4d8a-9ea1-95996343bbbe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_kc_pairing
 -- name    : Formalism.HC.Der.kc_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:54.331723+00:00
 -- url     : https://prove2.me/theorems/80cc4117-4fef-41e8-aea9-18bb12b09921

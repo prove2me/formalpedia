@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_piSum_forall_insert_only
 -- name    : Formalism.HN.piSum_forall_insert_only
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:36.244342+00:00
 -- url     : https://prove2.me/theorems/c12a3b61-0bc5-434d-9f0f-c24b53a56753

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_SiegelOp_pushZ_mem
 -- name    : GlobalTheory.SW.SiegelOp.pushZ_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:09.095958+00:00
 -- url     : https://prove2.me/theorems/f7e95c6c-aec4-4a3b-b869-1175101f54da

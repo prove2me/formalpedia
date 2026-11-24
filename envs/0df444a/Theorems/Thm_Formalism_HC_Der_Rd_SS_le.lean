@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_Rd_SS_le
 -- name    : Formalism.HC.Der.Rd.SS_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:56.727355+00:00
 -- url     : https://prove2.me/theorems/c5f626a7-50df-44a6-98eb-a7a5bcce5ee2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_imageLattice_mono
 -- name    : Formalism.HN.imageLattice_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:18.419914+00:00
 -- url     : https://prove2.me/theorems/af7ca70c-0272-4367-b759-93a25d2b0a70

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_htImage_norm_placePart
 -- name    : Formalism.HN.htImage_norm_placePart
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:24.428552+00:00
 -- url     : https://prove2.me/theorems/52601ee2-dec7-4594-9364-4875ad1450ff

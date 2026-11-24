@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_PframeLA1_final_real1
 -- name    : Formalism.HN.PframeLA1.final_real1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:24:13.78883+00:00
 -- url     : https://prove2.me/theorems/3943946c-aa7d-4acc-9404-e010f3042f65

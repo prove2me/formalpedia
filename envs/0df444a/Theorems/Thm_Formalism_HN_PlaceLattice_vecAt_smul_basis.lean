@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_PlaceLattice_vecAt_smul_basis
 -- name    : Formalism.HN.PlaceLattice.vecAt_smul_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:57.716051+00:00
 -- url     : https://prove2.me/theorems/88bc6a52-4900-4064-9a5b-332ac2a54b52

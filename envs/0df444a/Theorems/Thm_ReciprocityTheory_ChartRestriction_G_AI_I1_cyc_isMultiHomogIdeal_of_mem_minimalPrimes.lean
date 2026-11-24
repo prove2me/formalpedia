@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_cyc_isMultiHomogIdeal_of_mem_minimalPrimes
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.cyc_isMultiHomogIdeal_of_mem_minimalPrimes
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:45:09.947608+00:00
 -- url     : https://prove2.me/theorems/68f94019-2a15-4891-8ab7-e2eeb151cab5

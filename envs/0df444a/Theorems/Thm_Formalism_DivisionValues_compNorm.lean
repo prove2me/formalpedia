@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_compNorm
 -- name    : Formalism.DivisionValues.compNorm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:24.622728+00:00
 -- url     : https://prove2.me/theorems/5c9b6e73-e85c-4e82-a44c-9938f7b18d69

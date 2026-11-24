@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_ndE_eq_zero
 -- name    : Formalism.GradedWeylDivisibility.ndE_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:53:22.546689+00:00
 -- url     : https://prove2.me/theorems/19696918-a8cc-4762-b25f-3ee7dc5178f2

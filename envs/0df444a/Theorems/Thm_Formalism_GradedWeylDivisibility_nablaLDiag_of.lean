@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_nablaLDiag_of
 -- name    : Formalism.GradedWeylDivisibility.nablaLDiag_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:24.251944+00:00
 -- url     : https://prove2.me/theorems/b654a6a5-1b16-4c8e-81b3-250d8b43e324

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Decay_volume_cube
 -- name    : GlobalTheory.SW.Decay.volume_cube
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:27.295695+00:00
 -- url     : https://prove2.me/theorems/ee2c2b0c-078c-417f-a950-95f5cdcfd8e8

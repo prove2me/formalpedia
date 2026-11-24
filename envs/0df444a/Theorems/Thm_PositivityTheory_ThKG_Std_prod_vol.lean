@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Std_prod_vol
 -- name    : PositivityTheory.ThKG.Std.prod_vol
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:01:52.486503+00:00
 -- url     : https://prove2.me/theorems/a8ea377c-2911-4e19-9344-34cc410bf367

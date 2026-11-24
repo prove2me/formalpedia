@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_round_ca
 -- name    : ULHC.round_ca
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:05:10.512826+00:00
 -- url     : https://prove2.me/theorems/09d7d008-1e6e-4eb5-b021-0041b7927acd

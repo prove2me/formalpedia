@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_PlaceDecomposition_re_comb
 -- name    : Formalism.HN.PlaceDecomposition.re_comb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:32.126163+00:00
 -- url     : https://prove2.me/theorems/dd80deb9-2b51-473c-a451-8d1b40b8f1ec

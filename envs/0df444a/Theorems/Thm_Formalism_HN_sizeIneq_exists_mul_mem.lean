@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_sizeIneq_exists_mul_mem
 -- name    : Formalism.HN.sizeIneq_exists_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:42.119201+00:00
 -- url     : https://prove2.me/theorems/707c9b8a-6e3b-4c7c-b8ed-08cdbd53eef7

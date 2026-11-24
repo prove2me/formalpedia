@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PhiSobBayes.eq_49
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Shuze Chen
 -- created : 2026-11-24T05:24:53.355844+00:00
 -- url     : https://prove2.me/submissions/4d7daadc-1660-4499-a55d-7779086de476
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_PhiSobBayes_posterior

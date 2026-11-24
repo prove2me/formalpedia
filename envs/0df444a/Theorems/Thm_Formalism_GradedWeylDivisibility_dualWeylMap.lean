@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_dualWeylMap
 -- name    : Formalism.GradedWeylDivisibility.dualWeylMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:58:39.340977+00:00
 -- url     : https://prove2.me/theorems/36045a34-3fe3-42bb-b42e-d314cd26002e

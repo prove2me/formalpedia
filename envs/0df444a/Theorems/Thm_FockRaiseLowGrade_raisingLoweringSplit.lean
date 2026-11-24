@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockRaiseLowGrade_raisingLoweringSplit
 -- name    : FockRaiseLowGrade.raisingLoweringSplit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:30:22.607664+00:00
 -- url     : https://prove2.me/theorems/6a8a49c8-201f-4b88-aa2b-7a5f62534c57

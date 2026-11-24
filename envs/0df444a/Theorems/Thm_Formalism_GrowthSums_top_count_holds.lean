@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GrowthSums_top_count_holds
 -- name    : Formalism.GrowthSums.top_count_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:50.384798+00:00
 -- url     : https://prove2.me/theorems/04be2756-fa7e-461b-a7b4-b19e40914366

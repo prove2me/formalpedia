@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockRL_omE_neg_pos
 -- name    : FockRL.omE_neg_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:35.178807+00:00
 -- url     : https://prove2.me/theorems/758a7583-6ff4-4949-924e-2f45dd59b46b

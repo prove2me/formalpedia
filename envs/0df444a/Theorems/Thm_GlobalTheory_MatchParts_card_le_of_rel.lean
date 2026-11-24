@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatchParts_card_le_of_rel
 -- name    : GlobalTheory.MatchParts.card_le_of_rel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:24:03.517778+00:00
 -- url     : https://prove2.me/theorems/a96cae71-64e6-4ac4-9aa6-af5adb349154

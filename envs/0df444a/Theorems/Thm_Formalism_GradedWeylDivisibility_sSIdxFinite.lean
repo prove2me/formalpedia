@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_sSIdxFinite
 -- name    : Formalism.GradedWeylDivisibility.sSIdxFinite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T18:34:17.110546+00:00
 -- url     : https://prove2.me/theorems/d2c47dc9-a574-4c36-9254-e40919c0660d

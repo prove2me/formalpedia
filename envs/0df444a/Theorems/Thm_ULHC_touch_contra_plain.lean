@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_touch_contra_plain
 -- name    : ULHC.touch_contra_plain
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:04:53.158682+00:00
 -- url     : https://prove2.me/theorems/3e5ac4e2-b482-4c4d-b034-6931cba0a719

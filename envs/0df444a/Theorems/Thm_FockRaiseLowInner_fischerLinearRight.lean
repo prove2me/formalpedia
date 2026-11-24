@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockRaiseLowInner_fischerLinearRight
 -- name    : FockRaiseLowInner.fischerLinearRight
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:15:20.36149+00:00
 -- url     : https://prove2.me/theorems/4ef88618-e51d-48cf-8d8a-21f041e51e38

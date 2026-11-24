@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Loc_Bump_fourier_vanish
 -- name    : PositivityTheory.ThKG.Loc.Bump.fourier_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:00:42.34519+00:00
 -- url     : https://prove2.me/theorems/ad5c344f-818d-4ed1-904d-37ffc7c0f4b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_Rd_div_q
 -- name    : Formalism.HC.Der.Rd.div_q
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:20.086589+00:00
 -- url     : https://prove2.me/theorems/15d50587-0225-41e1-af43-6f63c9b3bb2f

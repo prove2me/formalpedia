@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_PlaceDecomposition_prj_mem_span
 -- name    : Formalism.HN.PlaceDecomposition.prj_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:54:06.193872+00:00
 -- url     : https://prove2.me/theorems/13b5320f-41e4-492c-9045-03807f3b963f

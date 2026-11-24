@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_QuotientRealization_transport_apply
 -- name    : Formalism.HN.QuotientRealization.transport_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:29.032724+00:00
 -- url     : https://prove2.me/theorems/c2739709-a9d2-49c8-9442-04a2189e71bf

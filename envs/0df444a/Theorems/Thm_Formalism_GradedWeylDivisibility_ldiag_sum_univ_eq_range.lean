@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_ldiag_sum_univ_eq_range
 -- name    : Formalism.GradedWeylDivisibility.ldiag_sum_univ_eq_range
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:16:34.941966+00:00
 -- url     : https://prove2.me/theorems/5ac1142a-0812-4d0f-bbd7-112f6fbc1843

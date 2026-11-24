@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_algebraMap_norm_tensor
 -- name    : GlobalTheory.Published.algebraMap_norm_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:30.935791+00:00
 -- url     : https://prove2.me/theorems/234c58ef-dc12-46f6-9384-f102e0ee9fa9

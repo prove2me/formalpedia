@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_ex_bounds
 -- name    : Formalism.HN.ex_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:59.34186+00:00
 -- url     : https://prove2.me/theorems/aa84f663-898b-4fdb-aa5e-af4d4aa1e11f

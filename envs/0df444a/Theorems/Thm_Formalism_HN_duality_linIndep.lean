@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_duality_linIndep
 -- name    : Formalism.HN.duality_linIndep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:58.357097+00:00
 -- url     : https://prove2.me/theorems/67e47651-544d-4167-82aa-9c425899edf1

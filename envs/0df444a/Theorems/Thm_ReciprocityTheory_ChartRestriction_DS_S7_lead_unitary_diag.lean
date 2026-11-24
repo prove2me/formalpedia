@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_lead_unitary_diag
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.lead_unitary_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:06:44.23638+00:00
 -- url     : https://prove2.me/theorems/de42374f-aa86-4255-aa0a-77142cbe4c3e

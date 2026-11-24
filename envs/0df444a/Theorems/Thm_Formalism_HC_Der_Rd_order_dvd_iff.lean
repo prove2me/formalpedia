@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_Rd_order_dvd_iff
 -- name    : Formalism.HC.Der.Rd.order_dvd_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:52.264604+00:00
 -- url     : https://prove2.me/theorems/efae0642-16f8-4041-b363-2bc234a85620

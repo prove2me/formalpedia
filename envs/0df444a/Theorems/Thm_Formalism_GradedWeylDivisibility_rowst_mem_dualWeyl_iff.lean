@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_rowst_mem_dualWeyl_iff
 -- name    : Formalism.GradedWeylDivisibility.rowst_mem_dualWeyl_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:04.567233+00:00
 -- url     : https://prove2.me/theorems/9ff2359c-5fce-4d57-8623-5e67b5afd38e

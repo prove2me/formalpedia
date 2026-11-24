@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Landau_PhiP_eq
 -- name    : Formalism.HC.Landau.PhiP_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:24:19.048552+00:00
 -- url     : https://prove2.me/theorems/4d1c7f70-b601-46ff-8d41-03e27b2322e6

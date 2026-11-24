@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_vdH_nonneg
 -- name    : Formalism.HC.HostRaw.vdH_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:39.6195+00:00
 -- url     : https://prove2.me/theorems/7a08a96a-0f5b-4fd7-a9db-a68b927f4dbe

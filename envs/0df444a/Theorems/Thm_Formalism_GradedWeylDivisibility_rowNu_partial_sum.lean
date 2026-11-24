@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_rowNu_partial_sum
 -- name    : Formalism.GradedWeylDivisibility.rowNu_partial_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:53:28.168749+00:00
 -- url     : https://prove2.me/theorems/87907f9a-6d6b-4016-933e-5a4098a96cba

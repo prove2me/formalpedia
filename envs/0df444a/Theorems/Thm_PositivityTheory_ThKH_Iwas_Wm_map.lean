@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKH_Iwas_Wm_map
 -- name    : PositivityTheory.ThKH.Iwas.Wm_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:05.916784+00:00
 -- url     : https://prove2.me/theorems/0bb046fd-0e9c-4e52-af6b-3ff004d08ae0

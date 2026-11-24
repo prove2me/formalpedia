@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Decay_trace_vecMulVec
 -- name    : GlobalTheory.SW.Decay.trace_vecMulVec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:09.307691+00:00
 -- url     : https://prove2.me/theorems/e9d4cbeb-aaa1-4f86-9d43-d4705cf0b29c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_duality_exists_dual
 -- name    : Formalism.HN.duality_exists_dual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:15.407625+00:00
 -- url     : https://prove2.me/theorems/cecb43b5-00e6-41b4-b2e7-161b969cc066

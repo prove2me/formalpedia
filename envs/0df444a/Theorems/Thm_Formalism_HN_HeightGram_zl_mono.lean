@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_HeightGram_zl_mono
 -- name    : Formalism.HN.HeightGram.zl_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:30:00.344676+00:00
 -- url     : https://prove2.me/theorems/d510efb3-9d18-476f-aac5-ebc31a6c7279

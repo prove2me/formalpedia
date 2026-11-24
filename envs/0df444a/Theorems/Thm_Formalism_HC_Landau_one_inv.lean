@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Landau_one_inv
 -- name    : Formalism.HC.Landau.one_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:24:07.914444+00:00
 -- url     : https://prove2.me/theorems/30e7f4e4-69cf-40ad-9989-4b06eb436501

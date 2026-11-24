@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_PolygonExample_covol_Px
 -- name    : Formalism.HN.PolygonExample.covol_Px
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:41.919698+00:00
 -- url     : https://prove2.me/theorems/e66103fb-e0c1-462c-8cca-2ea2578e405b

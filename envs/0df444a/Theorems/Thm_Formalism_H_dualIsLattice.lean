@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_H_dualIsLattice
 -- name    : Formalism.H.dualIsLattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:25:52.830272+00:00
 -- url     : https://prove2.me/theorems/87c3fc37-625a-42dd-b631-de91223a7d4a

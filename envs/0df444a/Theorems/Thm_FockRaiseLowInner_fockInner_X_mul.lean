@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockRaiseLowInner_fockInner_X_mul
 -- name    : FockRaiseLowInner.fockInner_X_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:29:07.725884+00:00
 -- url     : https://prove2.me/theorems/37cca0a8-30b3-4859-896f-aa45bae37b05

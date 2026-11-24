@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_isSB_zero
 -- name    : GlobalTheory.SW.isSB_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:35.95627+00:00
 -- url     : https://prove2.me/theorems/a111f617-04d0-4743-835e-579a5a0c6173

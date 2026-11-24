@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_NearPrim_exists_den
 -- name    : GlobalTheory.SW.NearPrim.exists_den
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:46.146914+00:00
 -- url     : https://prove2.me/theorems/466b8fae-3060-4003-955d-9406e36af4c1

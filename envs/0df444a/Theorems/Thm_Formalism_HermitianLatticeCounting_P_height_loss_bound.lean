@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_height_loss_bound
 -- name    : Formalism.HermitianLatticeCounting.P.height_loss_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:03:19.79083+00:00
 -- url     : https://prove2.me/theorems/0a4a15ac-9ca8-461d-9a42-ab2fb395cab1

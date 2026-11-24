@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockRL_fi_sum_left
 -- name    : FockRL.fi_sum_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:31.698677+00:00
 -- url     : https://prove2.me/theorems/10a07190-ac64-4490-bf96-b8e18d25fbf9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SCV_hasSumLocallyUniformlyOn_fderiv
 -- name    : GlobalTheory.SCV.hasSumLocallyUniformlyOn_fderiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:36.672808+00:00
 -- url     : https://prove2.me/theorems/7f38ea98-910d-4e25-a9ba-d644ec4af1c6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_map_range_toIntLinearMap
 -- name    : Formalism.HN.map_range_toIntLinearMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:24.235939+00:00
 -- url     : https://prove2.me/theorems/53ebdb38-2a65-4aed-92ef-1e03db06dc8b

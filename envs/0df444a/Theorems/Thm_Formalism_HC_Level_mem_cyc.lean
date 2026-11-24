@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Level_mem_cyc
 -- name    : Formalism.HC.Level.mem_cyc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:54:44.714736+00:00
 -- url     : https://prove2.me/theorems/433a4183-04f2-45d8-8060-9efdbde5131c

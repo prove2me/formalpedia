@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_dualWeylRowStable
 -- name    : Formalism.GradedWeylDivisibility.dualWeylRowStable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T18:24:58.081439+00:00
 -- url     : https://prove2.me/theorems/e5c41a01-32ba-44a0-9c09-11f6a2f745e5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_UniSp_exists_inv
 -- name    : GlobalTheory.SW.UniSp.exists_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:43.55212+00:00
 -- url     : https://prove2.me/theorems/96c32931-850a-4c69-b330-1e0f503062d5

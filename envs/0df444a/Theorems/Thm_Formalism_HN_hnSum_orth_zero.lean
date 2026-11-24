@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_hnSum_orth_zero
 -- name    : Formalism.HN.hnSum_orth_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:53.666732+00:00
 -- url     : https://prove2.me/theorems/ac674f50-196c-4d4a-b0af-e381c851da67

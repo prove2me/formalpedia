@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_semistandard_index_finite
 -- name    : Formalism.GradedWeylDivisibility.semistandard_index_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:51.033795+00:00
 -- url     : https://prove2.me/theorems/bf72287a-749c-49be-a9a0-31778dd64aae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_SA_OFam_card_le
 -- name    : ReciprocityTheory.ChartRestriction.G.SA.OFam.card_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:19:08.53289+00:00
 -- url     : https://prove2.me/theorems/483ead72-ad35-4782-b53a-f0c3cd935a5f

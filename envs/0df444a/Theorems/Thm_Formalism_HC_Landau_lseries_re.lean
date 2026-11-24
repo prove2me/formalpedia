@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Landau_lseries_re
 -- name    : Formalism.HC.Landau.lseries_re
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:44.772808+00:00
 -- url     : https://prove2.me/theorems/74286358-9b1e-4083-a5c3-02355d8994c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_shiftInv_mu
 -- name    : Formalism.HN.shiftInv_mu
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:39.080549+00:00
 -- url     : https://prove2.me/theorems/28356945-6425-4519-8a65-988724b7b8c2

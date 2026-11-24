@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_leadingTermLemmas_map_tiePhi
 -- name    : Formalism.GM.leadingTermLemmas.map_tiePhi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:51:01.684687+00:00
 -- url     : https://prove2.me/theorems/88587986-08e4-44f0-8863-34e8c1ae76e2

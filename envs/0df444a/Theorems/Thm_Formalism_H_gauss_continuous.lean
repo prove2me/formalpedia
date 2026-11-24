@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_H_gauss_continuous
 -- name    : Formalism.H.gauss_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:04.679645+00:00
 -- url     : https://prove2.me/theorems/880738c8-47da-42cd-b7ec-860c303203c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_QuotientRealization_proj_eq_tv
 -- name    : Formalism.HN.QuotientRealization.proj_eq_tv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:54:38.907803+00:00
 -- url     : https://prove2.me/theorems/640d8d71-0120-4073-a0fd-43573fbf1c2e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_H_thetaSummable_of
 -- name    : Formalism.H.thetaSummable_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:51.633425+00:00
 -- url     : https://prove2.me/theorems/8240f007-123e-40bc-98e3-d816a3f00dd0

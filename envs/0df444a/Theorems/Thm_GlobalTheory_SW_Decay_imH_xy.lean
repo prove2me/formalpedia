@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Decay_imH_xy
 -- name    : GlobalTheory.SW.Decay.imH_xy
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:54.993798+00:00
 -- url     : https://prove2.me/theorems/e6792a79-fcf4-4c24-a50d-5c453eace06f

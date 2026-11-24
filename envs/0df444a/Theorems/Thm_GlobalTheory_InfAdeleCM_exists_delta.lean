@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InfAdeleCM_exists_delta
 -- name    : GlobalTheory.InfAdeleCM.exists_delta
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:43.228271+00:00
 -- url     : https://prove2.me/theorems/287bce12-2b04-4d46-9e1d-3e7edb92cd85

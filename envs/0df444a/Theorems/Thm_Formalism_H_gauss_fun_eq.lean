@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_H_gauss_fun_eq
 -- name    : Formalism.H.gauss_fun_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:11.314809+00:00
 -- url     : https://prove2.me/theorems/a32f3419-8856-49de-ab64-5c87c5b58d78

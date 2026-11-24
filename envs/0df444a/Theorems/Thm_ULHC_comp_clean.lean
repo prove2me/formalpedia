@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ULHC_comp_clean
 -- name    : ULHC.comp_clean
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T04:08:20.141634+00:00
 -- url     : https://prove2.me/theorems/afacdde6-2e90-4fea-ae54-67b155f7a563

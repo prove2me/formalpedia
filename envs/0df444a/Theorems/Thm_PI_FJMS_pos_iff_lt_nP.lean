@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMS_pos_iff_lt_nP
 -- name    : PI.FJMS.pos_iff_lt_nP
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:43:46.927053+00:00
 -- url     : https://prove2.me/theorems/af54e117-28bd-41f3-bce4-1eec376b1eb7

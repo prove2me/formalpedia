@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_span_quotient_lattice_eq
 -- name    : Formalism.HN.span_quotient_lattice_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:30:02.596303+00:00
 -- url     : https://prove2.me/theorems/e1a19a12-dcf1-432c-b52e-bae0a16e97d4

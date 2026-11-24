@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockRL_Rop_raise
 -- name    : FockRL.Rop_raise
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:30:01.52669+00:00
 -- url     : https://prove2.me/theorems/75e03493-ea29-40a1-914c-0dffed1f7c85

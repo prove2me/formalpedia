@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_DualPolygon_rpow_neg_half_nat_pow
 -- name    : Formalism.HN.DualPolygon.rpow_neg_half_nat_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:59.455015+00:00
 -- url     : https://prove2.me/theorems/5c9cfad3-d350-499c-bfb8-163e5398698d

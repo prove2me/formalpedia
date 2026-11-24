@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_kapC_le_real
 -- name    : Formalism.InvariantFactorPaths.PW.kapC_le_real
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:42.946258+00:00
 -- url     : https://prove2.me/theorems/f536fd9d-6b2a-4b97-9030-0d28264a8983

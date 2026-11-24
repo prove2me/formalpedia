@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_IsKum_pow_apply
 -- name    : GlobalTheory.CNorm.IsKum.pow_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:45.400336+00:00
 -- url     : https://prove2.me/theorems/9d020875-00ad-4ca6-9940-b6bd3154720f

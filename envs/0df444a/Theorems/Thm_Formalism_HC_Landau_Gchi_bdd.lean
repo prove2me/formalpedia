@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Landau_Gchi_bdd
 -- name    : Formalism.HC.Landau.Gchi_bdd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:32.190328+00:00
 -- url     : https://prove2.me/theorems/83ced43e-b1ad-4c3e-9281-1eabd30a1b57

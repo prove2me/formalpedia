@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_DualPolygon_ident_mem_zl
 -- name    : Formalism.HN.DualPolygon.ident_mem_zl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:24:08.980746+00:00
 -- url     : https://prove2.me/theorems/ed73b933-87d0-4506-8ed6-4098035b2587

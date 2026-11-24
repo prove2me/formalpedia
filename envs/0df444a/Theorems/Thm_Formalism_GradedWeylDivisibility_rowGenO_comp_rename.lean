@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_rowGenO_comp_rename
 -- name    : Formalism.GradedWeylDivisibility.rowGenO_comp_rename
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:11.361876+00:00
 -- url     : https://prove2.me/theorems/db082faa-a09e-4820-8902-23304d5b8278

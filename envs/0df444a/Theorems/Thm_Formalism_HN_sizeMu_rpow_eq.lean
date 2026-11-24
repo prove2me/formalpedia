@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_sizeMu_rpow_eq
 -- name    : Formalism.HN.sizeMu_rpow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:43.460172+00:00
 -- url     : https://prove2.me/theorems/d74c0ada-bdd9-480b-b41c-8075a3c8a86e

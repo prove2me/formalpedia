@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_HeightGram_zl_span_eq
 -- name    : Formalism.HN.HeightGram.zl_span_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:24:11.068315+00:00
 -- url     : https://prove2.me/theorems/59b07b55-adbc-4342-85cf-38084ad75946

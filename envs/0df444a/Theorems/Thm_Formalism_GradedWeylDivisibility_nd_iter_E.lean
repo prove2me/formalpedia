@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_nd_iter_E
 -- name    : Formalism.GradedWeylDivisibility.nd_iter_E
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:53:29.880527+00:00
 -- url     : https://prove2.me/theorems/e47418e7-40a4-4c14-a226-3342010ba9b8

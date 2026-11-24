@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitTorus_val_zero
 -- name    : GlobalTheory.SplitTorus.val_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:18.97336+00:00
 -- url     : https://prove2.me/theorems/e99b66f7-dcab-4fab-8fc7-b92cff3e3a31

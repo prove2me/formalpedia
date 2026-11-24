@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_realize_smul_eq
 -- name    : Formalism.HN.realize_smul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:43.542562+00:00
 -- url     : https://prove2.me/theorems/2c9505a1-0df2-4914-9adb-c362b37aca46

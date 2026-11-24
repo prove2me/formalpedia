@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_DualPolygon_dualFrame_dualFrame
 -- name    : Formalism.HN.DualPolygon.dualFrame_dualFrame
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:55.575167+00:00
 -- url     : https://prove2.me/theorems/55a27165-1c07-4b0e-a653-360f0b8d597d

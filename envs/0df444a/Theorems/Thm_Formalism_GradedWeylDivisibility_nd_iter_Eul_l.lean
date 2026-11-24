@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_nd_iter_Eul_l
 -- name    : Formalism.GradedWeylDivisibility.nd_iter_Eul_l
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:09:45.818334+00:00
 -- url     : https://prove2.me/theorems/cc4a7475-0762-4097-a6b0-4888b2fd9c7f

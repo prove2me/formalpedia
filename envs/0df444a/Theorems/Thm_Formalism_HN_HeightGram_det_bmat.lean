@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_HeightGram_det_bmat
 -- name    : Formalism.HN.HeightGram.det_bmat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:01.113752+00:00
 -- url     : https://prove2.me/theorems/49cf206c-d178-40a5-b8ba-d8258b9292f7

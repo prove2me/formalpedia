@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_leadingTermLemmas_gamK_map
 -- name    : Formalism.GM.leadingTermLemmas.gamK_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:25:17.943907+00:00
 -- url     : https://prove2.me/theorems/a41d7d62-b210-4c1e-8d52-41c49be4edb4

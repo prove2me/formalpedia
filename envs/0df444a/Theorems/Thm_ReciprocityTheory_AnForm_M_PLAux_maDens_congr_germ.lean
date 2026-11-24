@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_PLAux_maDens_congr_germ
 -- name    : ReciprocityTheory.AnForm.M.PLAux.maDens_congr_germ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:57:34.123817+00:00
 -- url     : https://prove2.me/theorems/881eb2e5-aef7-4fde-8c72-e8e792b5ee58

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_Fib_coord_div_isIntegral
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.Fib.coord_div_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:13:00.840417+00:00
 -- url     : https://prove2.me/theorems/2285cbaa-8b8a-4ac1-84dc-db017b276683

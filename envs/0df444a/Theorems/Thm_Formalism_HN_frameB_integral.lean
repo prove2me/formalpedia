@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_frameB_integral
 -- name    : Formalism.HN.frameB_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:26.066326+00:00
 -- url     : https://prove2.me/theorems/4b5db0a7-7171-46da-9018-26fb09d94fee

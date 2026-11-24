@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_DualPolygon_dualZ_inf_orth
 -- name    : Formalism.HN.DualPolygon.dualZ_inf_orth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:00.099893+00:00
 -- url     : https://prove2.me/theorems/dd52b906-3cad-4646-ab72-6f8dad97ef2f

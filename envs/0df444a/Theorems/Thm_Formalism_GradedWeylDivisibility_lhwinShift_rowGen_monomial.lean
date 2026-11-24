@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_lhwinShift_rowGen_monomial
 -- name    : Formalism.GradedWeylDivisibility.lhwinShift_rowGen_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:20:42.775224+00:00
 -- url     : https://prove2.me/theorems/8ea64d12-2ce5-4da3-b6bb-2ef8ce35dfa9

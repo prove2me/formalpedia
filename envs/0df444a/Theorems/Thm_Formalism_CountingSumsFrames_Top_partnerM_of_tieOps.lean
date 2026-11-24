@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_partnerM_of_tieOps
 -- name    : Formalism.CountingSumsFrames.Top.partnerM_of_tieOps
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:16:56.689719+00:00
 -- url     : https://prove2.me/theorems/1a08bccc-8f4a-49f2-89a9-ccf4d284219a

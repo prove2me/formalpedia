@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_sum_Ico_tsub_telescope
 -- name    : Formalism.GradedWeylDivisibility.sum_Ico_tsub_telescope
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:04.730877+00:00
 -- url     : https://prove2.me/theorems/74fa6bcc-0d96-44e7-8e2e-d649fadf2f5c

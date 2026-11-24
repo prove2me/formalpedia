@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_sphMonom_integral_sphProb
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.sphMonom_integral_sphProb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:29.070874+00:00
 -- url     : https://prove2.me/theorems/5f3aeeca-b198-45cc-989e-647b8a0e5500

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatchParts_nsmul_cancel
 -- name    : GlobalTheory.MatchParts.nsmul_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:41.933209+00:00
 -- url     : https://prove2.me/theorems/286d3de4-caf7-4dba-aa63-9e3e898f1ff2

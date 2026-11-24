@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_SwapLoc_IsLocData_atPrime
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.SwapLoc.IsLocData.atPrime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:23.226368+00:00
 -- url     : https://prove2.me/theorems/7098b136-9fa9-4577-a737-700ad3b91e49

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_PlaceLattice_discrete_span_of_linIndep
 -- name    : Formalism.HN.PlaceLattice.discrete_span_of_linIndep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:44.24081+00:00
 -- url     : https://prove2.me/theorems/f527122a-fb69-4901-9109-09cd26bc4a58

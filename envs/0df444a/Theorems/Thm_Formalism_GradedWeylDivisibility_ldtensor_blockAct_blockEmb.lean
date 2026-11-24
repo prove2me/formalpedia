@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_ldtensor_blockAct_blockEmb
 -- name    : Formalism.GradedWeylDivisibility.ldtensor_blockAct_blockEmb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:52:31.806446+00:00
 -- url     : https://prove2.me/theorems/bd98b739-8918-406e-9447-35d9126b3110

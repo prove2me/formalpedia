@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_hasWindows_of_large
 -- name    : Formalism.HC.hasWindows_of_large
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:35.795989+00:00
 -- url     : https://prove2.me/theorems/656ffa8a-7b98-409f-8f23-4848bb7e5113

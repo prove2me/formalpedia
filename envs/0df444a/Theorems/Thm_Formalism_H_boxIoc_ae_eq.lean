@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_H_boxIoc_ae_eq
 -- name    : Formalism.H.boxIoc_ae_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:47.1558+00:00
 -- url     : https://prove2.me/theorems/d3ffeffb-0e74-4907-b577-4a6f47010f8e

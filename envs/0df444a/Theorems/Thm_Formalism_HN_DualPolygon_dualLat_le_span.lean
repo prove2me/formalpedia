@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_DualPolygon_dualLat_le_span
 -- name    : Formalism.HN.DualPolygon.dualLat_le_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:15.104222+00:00
 -- url     : https://prove2.me/theorems/66e0e5ef-cdde-4a56-812d-cab8061a372a

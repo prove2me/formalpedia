@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_H_isLattice_of_eq_span
 -- name    : Formalism.H.isLattice_of_eq_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:12.255055+00:00
 -- url     : https://prove2.me/theorems/0393e0e3-5e08-46e1-b8b1-5cff9f950ce8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_lfockq_adjC
 -- name    : Formalism.GradedWeylDivisibility.lfockq_adjC
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:53:28.596347+00:00
 -- url     : https://prove2.me/theorems/9ff0c73a-f04e-4302-afe8-08c712e81bc2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_Rd_log_index_le
 -- name    : Formalism.HC.Der.Rd.log_index_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:46.907054+00:00
 -- url     : https://prove2.me/theorems/28e0cabd-fcf3-4a64-9fc7-0c6499c46acd

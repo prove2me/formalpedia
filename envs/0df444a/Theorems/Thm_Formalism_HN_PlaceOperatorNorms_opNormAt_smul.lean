@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_PlaceOperatorNorms_opNormAt_smul
 -- name    : Formalism.HN.PlaceOperatorNorms.opNormAt_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:19.489473+00:00
 -- url     : https://prove2.me/theorems/b632b112-01d6-4a04-895b-8346468cb5de

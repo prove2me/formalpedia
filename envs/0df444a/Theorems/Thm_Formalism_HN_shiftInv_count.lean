@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_shiftInv_count
 -- name    : Formalism.HN.shiftInv_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:29.734308+00:00
 -- url     : https://prove2.me/theorems/470669ca-d3d4-41bb-b8de-ad59e8b4dccb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EisTube_gf_cont
 -- name    : EisTube.gf_cont
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:20:31.475089+00:00
 -- url     : https://prove2.me/theorems/fe233c20-83b2-47df-a2bc-64053a92f578

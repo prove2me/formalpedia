@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_H_covolumeDual
 -- name    : Formalism.H.covolumeDual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:27.476373+00:00
 -- url     : https://prove2.me/theorems/e9d17e99-dffd-41b6-8b55-e47193e45530

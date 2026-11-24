@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKH_Iwas_iso_iff_cT
 -- name    : PositivityTheory.ThKH.Iwas.iso_iff_cT
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:30.556827+00:00
 -- url     : https://prove2.me/theorems/56845ab1-4bdd-48a9-8474-35b6735a3e5d

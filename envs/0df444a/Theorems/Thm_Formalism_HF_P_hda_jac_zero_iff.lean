@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HF_P_hda_jac_zero_iff
 -- name    : Formalism.HF.P.hda_jac_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:24:34.974944+00:00
 -- url     : https://prove2.me/theorems/31b21c15-f69c-485b-a3b7-73c51c9d1f53

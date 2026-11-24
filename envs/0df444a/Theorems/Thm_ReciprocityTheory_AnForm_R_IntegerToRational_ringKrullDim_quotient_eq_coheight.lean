@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_IntegerToRational_ringKrullDim_quotient_eq_coheight
 -- name    : ReciprocityTheory.AnForm.R.IntegerToRational.ringKrullDim_quotient_eq_coheight
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:51.74472+00:00
 -- url     : https://prove2.me/theorems/e0181777-3c38-43f8-93df-b64e3722eb23

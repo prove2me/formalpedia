@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Landau_PhiP_analyticAt
 -- name    : Formalism.HC.Landau.PhiP_analyticAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:57.790296+00:00
 -- url     : https://prove2.me/theorems/b381a00f-671c-4085-9a12-96b5c9087e61

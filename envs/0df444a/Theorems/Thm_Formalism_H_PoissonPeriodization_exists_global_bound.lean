@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_H_PoissonPeriodization_exists_global_bound
 -- name    : Formalism.H.PoissonPeriodization.exists_global_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:45.155377+00:00
 -- url     : https://prove2.me/theorems/9d50fc34-021d-40b8-b775-4f06ef9c94f9

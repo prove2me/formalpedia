@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhiSobBayes_theorem_3_1_forward_lc
 -- name    : PhiSobBayes.theorem_3_1_forward_lc
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-24T06:27:15.773994+00:00
 -- url     : https://prove2.me/theorems/070f6a69-37ac-427d-ac6e-38c5b8bd2b95

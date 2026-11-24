@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_ex_deg
 -- name    : Formalism.HN.ex_deg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:16.834803+00:00
 -- url     : https://prove2.me/theorems/2a26200f-be61-4110-b931-01aeb9ec4896

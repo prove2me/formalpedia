@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockRL_Lop_apply
 -- name    : FockRL.Lop_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:29:13.603551+00:00
 -- url     : https://prove2.me/theorems/a36054db-7fbc-452c-8798-e388285902b8

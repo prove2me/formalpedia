@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_H_covolDual_det_mul
 -- name    : Formalism.H.covolDual_det_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:13.787473+00:00
 -- url     : https://prove2.me/theorems/e27b8877-ad12-43db-8567-64f141cc6556

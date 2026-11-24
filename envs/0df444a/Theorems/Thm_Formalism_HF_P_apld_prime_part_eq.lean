@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HF_P_apld_prime_part_eq
 -- name    : Formalism.HF.P.apld_prime_part_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:41.373847+00:00
 -- url     : https://prove2.me/theorems/1d1b9e9b-6b2c-4392-962b-1db95fe6f126

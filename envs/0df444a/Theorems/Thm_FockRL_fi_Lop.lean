@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockRL_fi_Lop
 -- name    : FockRL.fi_Lop
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:26.978307+00:00
 -- url     : https://prove2.me/theorems/c86e0e89-25bc-45f5-9a1f-c6d401c20e9c

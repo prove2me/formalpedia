@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FockRaiseLowInner_fischerXAdjoint
 -- name    : FockRaiseLowInner.fischerXAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:15:25.264802+00:00
 -- url     : https://prove2.me/theorems/8b82ed52-4906-46b9-8880-8fb263a66f7b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_SA_good_of_closure
 -- name    : ReciprocityTheory.ChartRestriction.G.SA.good_of_closure
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:26:26.301704+00:00
 -- url     : https://prove2.me/theorems/698fac5b-c353-4df3-a3bb-bd5520ed5a44

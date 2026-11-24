@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HF_P_apld_tsum_residueClass_eq
 -- name    : Formalism.HF.P.apld_tsum_residueClass_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:50.095021+00:00
 -- url     : https://prove2.me/theorems/fc6bbee4-6cd2-49c3-95fc-e6d076df4915

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_DualPolygon_ident_inner_span_eq_zero
 -- name    : Formalism.HN.DualPolygon.ident_inner_span_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:55.818205+00:00
 -- url     : https://prove2.me/theorems/025e16d4-5d8b-4eb8-95ac-9ebf54afc539

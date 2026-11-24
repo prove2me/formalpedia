@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RHX1000000_Run_E57_blk5
 -- name    : RHX1000000.Run.E57.blk5
--- status  : Open
+-- status  : Proved
 -- author  : @@bwdaugherty
 -- created : 2026-11-24T06:29:37.731972+00:00
 -- url     : https://prove2.me/theorems/96d5660e-8e98-4713-ae68-f1365d495c4f

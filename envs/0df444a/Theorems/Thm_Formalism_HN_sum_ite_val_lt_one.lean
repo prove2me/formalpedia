@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_sum_ite_val_lt_one
 -- name    : Formalism.HN.sum_ite_val_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:48.278126+00:00
 -- url     : https://prove2.me/theorems/9fd1ebb3-0d32-423b-85dc-bf2886006674

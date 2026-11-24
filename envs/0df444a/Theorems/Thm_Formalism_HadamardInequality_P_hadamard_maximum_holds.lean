@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HadamardInequality_P_hadamard_maximum_holds
 -- name    : Formalism.HadamardInequality.P.hadamard_maximum_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:38.51795+00:00
 -- url     : https://prove2.me/theorems/85fc0c9c-8360-4c18-acb3-b6134c6dc13c

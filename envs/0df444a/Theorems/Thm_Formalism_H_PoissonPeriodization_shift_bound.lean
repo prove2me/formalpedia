@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_H_PoissonPeriodization_shift_bound
 -- name    : Formalism.H.PoissonPeriodization.shift_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:27:11.279403+00:00
 -- url     : https://prove2.me/theorems/9e0b9b65-2951-470b-bb85-30e41d8dff13
